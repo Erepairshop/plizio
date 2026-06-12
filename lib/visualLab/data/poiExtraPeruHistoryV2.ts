@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraPeruHistoryV2: POI[] = [
         {
-    id: "pisac-history-v2",
+    id: "pisac-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de los dos valles",
+                  "text": "Ein malerischer Aussichtspunkt in der Nähe von Pisac, der ein weites Panorama auf zwei zusammenlaufende andine Täler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.91228,
+                        -13.402115
+                  ]
+            },
+            {
+                  "name": "Ichhunayuq",
+                  "text": "Ein andiner Berggipfel, der sich über dem Heiligen Tal der Inka in der Nähe von Pisac erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.862713,
+                        -13.390233
+                  ]
+            },
+            {
+                  "name": "Centro Pastoral “San Vicente de Paul”",
+                  "text": "Ein christliches Pastoralzentrum in der Nähe von Pisac, das dem Heiligen Vinzenz von Paul gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.922753,
+                        -13.362666
+                  ]
+            },
+            {
+                  "name": "Antiguo templo del Señor de la Bara de Lamay",
+                  "text": "Eine alte historische Kirche in Lamay, die dem Señor de la Bara geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.920627,
+                        -13.364941
+                  ]
+            },
+            {
+                  "name": "Santuario de la Cruz de Lamay",
+                  "text": "Eine kleine Wallfahrtskapelle am Hang, die das verehrte Kreuz von Lamay beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        -71.918799,
+                        -13.36722
+                  ]
+            },
+            {
+                  "name": "Baños Termales de Ccaccato",
+                  "text": "Geothermisch beheizte öffentliche Bäder, die Entspannung in der Nähe von Pisac bieten.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.907126,
+                        -13.362457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de los dos valles",
+                  "text": "Egy festői kilátó Pisac közelében, amely széles panorámát nyújt két összefutó andoki völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.91228,
+                        -13.402115
+                  ]
+            },
+            {
+                  "name": "Ichhunayuq",
+                  "text": "Egy andoki hegycsúcs, amely a Szent-völgy fölé magasodik Pisac közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.862713,
+                        -13.390233
+                  ]
+            },
+            {
+                  "name": "Centro Pastoral “San Vicente de Paul”",
+                  "text": "Egy Páli Szent Vincének szentelt keresztény lelkipásztori központ Pisac közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.922753,
+                        -13.362666
+                  ]
+            },
+            {
+                  "name": "Antiguo templo del Señor de la Bara de Lamay",
+                  "text": "Egy régi történelmi templom Lamayban, amelyet a Señor de la Barának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -71.920627,
+                        -13.364941
+                  ]
+            },
+            {
+                  "name": "Santuario de la Cruz de Lamay",
+                  "text": "Egy hegyoldalban épült kis zarándokkápola, amely Lamay tisztelt keresztjét őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        -71.918799,
+                        -13.36722
+                  ]
+            },
+            {
+                  "name": "Baños Termales de Ccaccato",
+                  "text": "Geotermikusan fűtött nyilvános fürdők, amelyek pihenést kínálnak Pisac közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.907126,
+                        -13.362457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de los dos valles",
+                  "text": "Un punct de belvedere pitoresc lângă Pisac, oferind o panoramă vastă asupra a două văi andine convergente.",
+                  "category": "natural",
+                  "coords": [
+                        -71.91228,
+                        -13.402115
+                  ]
+            },
+            {
+                  "name": "Ichhunayuq",
+                  "text": "Un vârf de munte andin care se înalță deasupra Văii Sacre de lângă Pisac.",
+                  "category": "natural",
+                  "coords": [
+                        -71.862713,
+                        -13.390233
+                  ]
+            },
+            {
+                  "name": "Centro Pastoral “San Vicente de Paul”",
+                  "text": "Un centru pastoral creștin dedicat Sfântului Vincențiu de Paul, lângă Pisac.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.922753,
+                        -13.362666
+                  ]
+            },
+            {
+                  "name": "Antiguo templo del Señor de la Bara de Lamay",
+                  "text": "O veche biserică istorică din Lamay, închinată Señor de la Bara.",
+                  "category": "religious",
+                  "coords": [
+                        -71.920627,
+                        -13.364941
+                  ]
+            },
+            {
+                  "name": "Santuario de la Cruz de Lamay",
+                  "text": "O capelă sanctuar pe deal, care adăpostește venerata cruce din Lamay.",
+                  "category": "religious",
+                  "coords": [
+                        -71.918799,
+                        -13.36722
+                  ]
+            },
+            {
+                  "name": "Baños Termales de Ccaccato",
+                  "text": "Băi publice încălzite geotermal care oferă relaxare lângă Pisac.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.907126,
+                        -13.362457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de los dos valles",
+                  "text": "A scenic viewpoint offering sweeping panoramas over two converging Andean valleys near Pisac.",
+                  "category": "natural",
+                  "coords": [
+                        -71.91228,
+                        -13.402115
+                  ]
+            },
+            {
+                  "name": "Ichhunayuq",
+                  "text": "An Andean mountain peak rising above the Sacred Valley near Pisac.",
+                  "category": "natural",
+                  "coords": [
+                        -71.862713,
+                        -13.390233
+                  ]
+            },
+            {
+                  "name": "Centro Pastoral “San Vicente de Paul”",
+                  "text": "A Christian pastoral center dedicated to St. Vincent de Paul near Pisac.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.922753,
+                        -13.362666
+                  ]
+            },
+            {
+                  "name": "Antiguo templo del Señor de la Bara de Lamay",
+                  "text": "An old historic church in Lamay dedicated to the Señor de la Bara.",
+                  "category": "religious",
+                  "coords": [
+                        -71.920627,
+                        -13.364941
+                  ]
+            },
+            {
+                  "name": "Santuario de la Cruz de Lamay",
+                  "text": "A hillside sanctuary chapel housing the revered cross of Lamay.",
+                  "category": "religious",
+                  "coords": [
+                        -71.918799,
+                        -13.36722
+                  ]
+            },
+            {
+                  "name": "Ccaccato Thermal Baths",
+                  "text": "Geothermally heated public baths offering relaxation near Pisac.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.907126,
+                        -13.362457
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-CUS",
     coords: [-71.85, -13.416],
@@ -30,7 +255,124 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Les terrasses de Pisac sont encore utilisées aujourd'hui par la population locale pour la culture.", "Le complexe dispose de canaux d'eau sophistiqués qui alimentent des fontaines sacrées.", "Le cimetière \"Tantanamarca\" abritait autrefois des milliers de momies.", "Pisac était un point de contrôle stratégique important pour l'accès au bassin amazonien.", "Au pied des ruines se tient régulièrement l'un des plus grands marchés artisanaux de la région."],
     }, image: "/poi-images/pisac-history-v2.webp"},
           {
-    id: "huaca-del-sol-history-v2",
+    id: "huaca-del-sol-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asamblea de Dios en Trujillo",
+                  "text": "Ein protestantisches Gotteshaus in Trujillo, gelegen in der Nähe der historischen archäologischen Stätten des Moche-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.979473,
+                        -8.063509
+                  ]
+            },
+            {
+                  "name": "La Cueva",
+                  "text": "Ein spiritueller Ort nahe der Ruinen von Trujillo, dessen Name auf eine natürliche oder höhlenartige Umgebung hindeutet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980428,
+                        -8.054318
+                  ]
+            },
+            {
+                  "name": "Monte de Oracion El Altar de Dios",
+                  "text": "Dieser Gebetsberg bietet einen ruhigen Rückzugsort mit weitem Blick über die umliegende Landschaft von Trujillo.",
+                  "category": "religious",
+                  "coords": [
+                        -78.981548,
+                        -8.056218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asamblea de Dios en Trujillo",
+                  "text": "Egy protestáns imaház Trujillóban, a Moche-völgy történelmi régészeti lelőhelyeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.979473,
+                        -8.063509
+                  ]
+            },
+            {
+                  "name": "La Cueva",
+                  "text": "Egy spirituális hely Trujillo romjai közelében, amelynek neve természetes vagy barlangszerű környezetre utal.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980428,
+                        -8.054318
+                  ]
+            },
+            {
+                  "name": "Monte de Oracion El Altar de Dios",
+                  "text": "Ez az imádságos hegy csendes menedéket nyújt, széles kilátással Trujillo környező tájaira.",
+                  "category": "religious",
+                  "coords": [
+                        -78.981548,
+                        -8.056218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asamblea de Dios en Trujillo",
+                  "text": "Un lăcaș de cult protestant în Trujillo, situat în apropierea siturilor arheologice istorice din Valea Moche.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.979473,
+                        -8.063509
+                  ]
+            },
+            {
+                  "name": "La Cueva",
+                  "text": "Un loc spiritual lângă ruinele din Trujillo, al cărui nume sugerează un cadru natural sau asemănător unei peșteri.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980428,
+                        -8.054318
+                  ]
+            },
+            {
+                  "name": "Monte de Oracion El Altar de Dios",
+                  "text": "Acest munte de rugăciune oferă o retragere liniștită, cu vederi largi asupra peisajului înconjurător din Trujillo.",
+                  "category": "religious",
+                  "coords": [
+                        -78.981548,
+                        -8.056218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asamblea de Dios en Trujillo",
+                  "text": "A Protestant place of worship in Trujillo, located near the historic archaeological sites of the Moche Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.979473,
+                        -8.063509
+                  ]
+            },
+            {
+                  "name": "La Cueva",
+                  "text": "A spiritual site near the ruins of Trujillo, whose name suggests a natural or cavern-like setting.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980428,
+                        -8.054318
+                  ]
+            },
+            {
+                  "name": "Monte de Oracion El Altar de Dios",
+                  "text": "This prayer mount offers a quiet retreat with broad views over the surrounding Trujillo landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -78.981548,
+                        -8.056218
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-LAL",
     coords: [-78.985, -8.134],
@@ -57,7 +399,160 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Chaque pile de briques porte des marques probablement attribuées à différentes communautés (Mitas).", "Le bâtiment servait de palais, de mausolée et de centre administratif pour l'élite Moche.", "Malgré sa taille, elle a été entièrement construite avec des briques de boue faites à la main et séchées au soleil.", "À proximité se trouve son pendant religieux, la Huaca de la Luna.", "Des recherches archéologiques ont révélé que la pyramide était autrefois peinte de couleurs vives."],
     }, image: "/poi-images/huaca-del-sol-history-v2.webp"},
   {
-    id: "huaca-de-la-luna-history-v2",
+    id: "huaca-de-la-luna-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huaca La Cruz",
+                  "text": "Ein zeremonieller Hügel der Moche-Kultur, der sich im Tal unweit der berühmten Sonnen- und Mondpyramiden befindet.",
+                  "category": "historical",
+                  "coords": [
+                        -78.932642,
+                        -8.075995
+                  ]
+            },
+            {
+                  "name": "Huaca de los Reyes",
+                  "text": "Dieser Tempelkomplex der Cupisnique-Kultur beeindruckt durch monumentale Lehmrelief-Masken von Raubkatzen-Gottheiten.",
+                  "category": "historical",
+                  "coords": [
+                        -78.928833,
+                        -8.072652
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein modernes christliches Gemeindehaus der Mormonen im Moche-Tal in der Nähe der archäologischen Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.962208,
+                        -8.091864
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Eine lokale katholische Pfarrkirche, die als religiöses Zentrum für die Bewohner der Moche-Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.960734,
+                        -8.09149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huaca La Cruz",
+                  "text": "A Moche-kultúra egyik szertartási halma a völgyben, nem messze a híres Nap- és Hold-piramisoktól.",
+                  "category": "historical",
+                  "coords": [
+                        -78.932642,
+                        -8.075995
+                  ]
+            },
+            {
+                  "name": "Huaca de los Reyes",
+                  "text": "A Cupisnique-kultúra ezen templomkomplexuma monumentális, macskaféle istenségeket ábrázoló vályogmaszkjairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        -78.928833,
+                        -8.072652
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A mormonok modern keresztény gyülekezeti háza a Moche-völgyben, a régészeti romok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.962208,
+                        -8.091864
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Helyi katolikus plébániatemplom, amely a Moche-régió lakóinak vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.960734,
+                        -8.09149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huaca La Cruz",
+                  "text": "O movilă ceremonială a culturii Moche, situată în vale, nu departe de faimoasele piramide ale Soarelui și Lunii.",
+                  "category": "historical",
+                  "coords": [
+                        -78.932642,
+                        -8.075995
+                  ]
+            },
+            {
+                  "name": "Huaca de los Reyes",
+                  "text": "Acest complex de temple al culturii Cupisnique impresionează prin măștile monumentale din lut reprezentând zeități feline.",
+                  "category": "historical",
+                  "coords": [
+                        -78.928833,
+                        -8.072652
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de cult modernă a mormonilor, situată în valea Moche, în apropierea ruinelor arheologice.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.962208,
+                        -8.091864
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "O parohie catolică locală care servește drept centru religios pentru locuitorii din regiunea Moche.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.960734,
+                        -8.09149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huaca La Cruz",
+                  "text": "A ceremonial mound of the Moche culture located in the valley near the famous Sun and Moon pyramids.",
+                  "category": "historical",
+                  "coords": [
+                        -78.932642,
+                        -8.075995
+                  ]
+            },
+            {
+                  "name": "Huaca de los Reyes",
+                  "text": "This Cupisnique culture temple complex features monumental adobe relief masks of feline deities.",
+                  "category": "historical",
+                  "coords": [
+                        -78.928833,
+                        -8.072652
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A modern Mormon meetinghouse in the Moche Valley, located near the archaeological ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.962208,
+                        -8.091864
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "A local Catholic parish church serving as a religious center for the residents of the Moche region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.960734,
+                        -8.09149
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-LAL",
     coords: [-78.98, -8.135],
@@ -84,7 +579,736 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Les couleurs utilisées (jaune, rouge, blanc, noir) étaient extraites de sources minérales.", "De nombreuses tombes de victimes sacrifiées lors de crises climatiques ont été trouvées sur le site.", "La Pyramide de la Lune est située directement au pied de la montagne sacrée Cerro Blanco.", "On estime que plus de 50 millions de briques d'adobe ont été utilisées pour sa construction.", "Les visiteurs peuvent aujourd'hui observer de près les différents niveaux et leurs reliefs grâce à des passerelles."],
     }, image: "/poi-images/huaca-de-la-luna-history-v2.webp"},
   {
-    id: "nazca-linien-history-v2",
+    id: "nazca-linien-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monolítico",
+                  "text": "Eine alte monolithische Struktur, die einsam in der weiten, trockenen Weite der archäologischen Region Nazca steht.",
+                  "category": "historical",
+                  "coords": [
+                        -75.059083,
+                        -14.741247
+                  ]
+            },
+            {
+                  "name": "Serpiente Grande",
+                  "text": "Eine riesige Bodenzeichnung, die die wellige Form einer großen Schlange auf dem trockenen Wüstenboden nachzeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        -75.077101,
+                        -14.746707
+                  ]
+            },
+            {
+                  "name": "Riese",
+                  "text": "Eine riesige anthropomorphe Bodenzeichnung, die in einen Wüstenhang geritzt wurde und Teil der weltberühmten Nazca-Linien ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.079991,
+                        -14.745447
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un cabeza animal? con diente y lengua",
+                  "text": "Eine kuriose Bodenzeichnung eines Tierkopfes mit deutlich herausgearbeiteten Details, die an Zähne und eine Zunge erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        -75.206469,
+                        -14.750235
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un pájaro en vuelo",
+                  "text": "Eine markante Bodenzeichnung in der Wüste, die den breiten Umriss eines großen, im Flug schwebenden Vogels nachzeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        -75.207389,
+                        -14.740083
+                  ]
+            },
+            {
+                  "name": "Cintura pescado",
+                  "text": "Eine archäologische Bodenzeichnung, die sich durch eine markante, fischähnliche Form auszeichnet, die in den steinigen Boden geritzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -75.17639,
+                        -14.755511
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un pájaro gigante",
+                  "text": "Eine riesige vogelartige Bodenzeichnung, die ihre linearen Flügel über die weite, trockene Leinwand des Nazca-Plateaus ausbreitet.",
+                  "category": "historical",
+                  "coords": [
+                        -75.179194,
+                        -14.761818
+                  ]
+            },
+            {
+                  "name": "Cara de una cabeza, animal",
+                  "text": "Eine große, in die Wüstenoberfläche geritzte Bodenzeichnung, die deutlich die Gesichtszüge eines Tieres darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.188547,
+                        -14.766547
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un hombre comiendo una serpiente",
+                  "text": "Eine detaillierte Bodenzeichnung, welche die komplexe und ungewöhnliche Szene einer menschlichen Figur veranschaulicht, die eine Schlange isst.",
+                  "category": "historical",
+                  "coords": [
+                        -75.184402,
+                        -14.768267
+                  ]
+            },
+            {
+                  "name": "punto",
+                  "text": "Eine präzise, punktartige kreisförmige Ausgrabungsmarkierung, die Teil der breiteren antiken geometrischen Muster in der Wüste ist.",
+                  "category": "historical",
+                  "coords": [
+                        -75.144102,
+                        -14.748487
+                  ]
+            },
+            {
+                  "name": "Nasca Lines - Monumental Area",
+                  "text": "Die streng geschützte zentrale Zone der Nazca-Wüste, die eine dichte Konzentration an monumentalen geometrischen und zoomorphen Bodenlinien aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        -75.16343,
+                        -14.716123
+                  ]
+            },
+            {
+                  "name": "Peinados multilínea de petroglifos",
+                  "text": "Eine archäologische Petroglyphenstätte mit alten Felsritzungen, die komplexe, mehrlinige Muster aufweisen, welche an stilisierte Frisuren erinnern.",
+                  "category": "historical",
+                  "coords": [
+                        -75.208779,
+                        -14.705029
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un cara",
+                  "text": "Ein rätselhaftes Porträt eines Gesichts, das in die dunklen, sonnengebackenen Oberflächensteine des peruanischen Wüstenplateaus geschabt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -75.214875,
+                        -14.715552
+                  ]
+            },
+            {
+                  "name": "Trapezoid",
+                  "text": "Eine riesige, landebahnähnliche geometrische Trapezlichtung, die sich starr über das flache, trockene Gelände der Nazca-Linien erstreckt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.051626,
+                        -14.742607
+                  ]
+            },
+            {
+                  "name": "Nazca Lines",
+                  "text": "Eine weltberühmte Sammlung riesiger präkolumbianischer Bodenzeichnungen, die in den trockenen Wüstensand im Süden Perus geritzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -75.187678,
+                        -14.699217
+                  ]
+            },
+            {
+                  "name": "Nasca lines",
+                  "text": "Ein weitläufiges Netzwerk massiver antiker zoomorpher und geometrischer Bodenzeichnungen, das die trockene peruanische Hochebene bedeckt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.144938,
+                        -14.713654
+                  ]
+            },
+            {
+                  "name": "Mono",
+                  "text": "Eine berühmte 100 Meter breite Nazca-Bodenzeichnung mit einem markanten spiralförmigen Schwanz, die einen Affen im Wüstenboden darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.138505,
+                        -14.706923
+                  ]
+            },
+            {
+                  "name": "Llamas",
+                  "text": "Antike Wüstenzeichnungen, welche die Umrisse von Lamas darstellen, Tieren von zentraler Bedeutung für die präkolumbianischen Andenkulturen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.151019,
+                        -14.708345
+                  ]
+            },
+            {
+                  "name": "Un Cara",
+                  "text": "Eine markante Bodenritzung in Form eines vereinfachten menschlichen oder göttlichen Gesichts, das vom Wüstenboden nach oben starrt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.207125,
+                        -14.703145
+                  ]
+            },
+            {
+                  "name": "Geoglifos de líneas de Nasca de líneas múltiples de larga distancia",
+                  "text": "Ein beeindruckendes Netzwerk aus geraden, mehrlinigen Bodenzeichnungen über lange Distanzen, die sich gleichmäßig über das weite Wüstenplateau erstrecken.",
+                  "category": "historical",
+                  "coords": [
+                        -75.2096,
+                        -14.706851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monolítico",
+                  "text": "Egy ősi monolitikus építmény, amely magányosan áll a Nazca régészeti régió hatalmas, száraz kiterjedésében.",
+                  "category": "historical",
+                  "coords": [
+                        -75.059083,
+                        -14.741247
+                  ]
+            },
+            {
+                  "name": "Serpiente Grande",
+                  "text": "Egy óriási geoglifa, amely egy nagy kígyó hullámzó formáját követi nyomon a száraz sivatagi talajon.",
+                  "category": "historical",
+                  "coords": [
+                        -75.077101,
+                        -14.746707
+                  ]
+            },
+            {
+                  "name": "Óriás",
+                  "text": "A világhírű Nazca-vonalak részét képező, egy sivatagi domboldalba vésett hatalmas antropomorf geoglifa.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.079991,
+                        -14.745447
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un cabeza animal? con diente y lengua",
+                  "text": "Egy állatfejet körvonalazó különös geoglifa, amelynek faragott részletei fogakra és nyelvre emlékeztetnek.",
+                  "category": "historical",
+                  "coords": [
+                        -75.206469,
+                        -14.750235
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un pájaro en vuelo",
+                  "text": "Egy lenyűgöző sivatagi talajrajz, amely egy repülő, nagy madár széles körvonalát követi.",
+                  "category": "historical",
+                  "coords": [
+                        -75.207389,
+                        -14.740083
+                  ]
+            },
+            {
+                  "name": "Cintura pescado",
+                  "text": "Egy régészeti geoglifa, amelyet a köves talajba vésett jellegzetes, halszerű forma jellemez.",
+                  "category": "historical",
+                  "coords": [
+                        -75.17639,
+                        -14.755511
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un pájaro gigante",
+                  "text": "Egy hatalmas madár alakú talajrajz, amely kiterjeszti lineáris szárnyait a Nazca-fennsík hatalmas, száraz vásznán.",
+                  "category": "historical",
+                  "coords": [
+                        -75.179194,
+                        -14.761818
+                  ]
+            },
+            {
+                  "name": "Cara de una cabeza, animal",
+                  "text": "A sivatag felszínébe vésett nagy geoglifa, amely egy állat arcvonásait ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        -75.188547,
+                        -14.766547
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un hombre comiendo una serpiente",
+                  "text": "Egy részletes talajrajz, amely egy kígyót elfogyasztó emberi alak összetett és szokatlan jelenetét illusztrálja.",
+                  "category": "historical",
+                  "coords": [
+                        -75.184402,
+                        -14.768267
+                  ]
+            },
+            {
+                  "name": "punto",
+                  "text": "Egy pontos, pontszerű körkörös ásatási jel, amely a szélesebb ősi geometriai minták részét képezi a sivatagban.",
+                  "category": "historical",
+                  "coords": [
+                        -75.144102,
+                        -14.748487
+                  ]
+            },
+            {
+                  "name": "Nasca Lines - Monumental Area",
+                  "text": "A Nazca-sivatag szigorúan védett központi zónája, ahol a monumentális geometriai és zoomorf talajvonalak sűrű koncentrációja található.",
+                  "category": "historical",
+                  "coords": [
+                        -75.16343,
+                        -14.716123
+                  ]
+            },
+            {
+                  "name": "Peinados multilínea de petroglifos",
+                  "text": "Egy régészeti petroglifa lelőhely ősi sziklafaragványokkal, amelyek bonyolult, többszörös vonalú, stilizált frizurákra emlékeztető mintákat mutatnak be.",
+                  "category": "historical",
+                  "coords": [
+                        -75.208779,
+                        -14.705029
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un cara",
+                  "text": "Egy arc rejtélyes portréja, amelyet a perui sivatagi fennsík sötét, naptól sült felszíni köveibe kapartak.",
+                  "category": "historical",
+                  "coords": [
+                        -75.214875,
+                        -14.715552
+                  ]
+            },
+            {
+                  "name": "Trapezoid",
+                  "text": "Egy hatalmas, kifutópályaszerű geometriai trapéz tisztás, amely mereven húzódik a Nazca-vonalak lapos, száraz terepén.",
+                  "category": "historical",
+                  "coords": [
+                        -75.051626,
+                        -14.742607
+                  ]
+            },
+            {
+                  "name": "Nazca Lines",
+                  "text": "Hatalmas prekolumbiánus geoglifák világhírű gyűjteménye Dél-Peru száraz sivatagi homokjába vésve.",
+                  "category": "historical",
+                  "coords": [
+                        -75.187678,
+                        -14.699217
+                  ]
+            },
+            {
+                  "name": "Nasca lines",
+                  "text": "Hatalmas ősi zoomorf és geometriai talajrajzok kiterjedt hálózata, amely a száraz perui fennsíkot borítja.",
+                  "category": "historical",
+                  "coords": [
+                        -75.144938,
+                        -14.713654
+                  ]
+            },
+            {
+                  "name": "Majom",
+                  "text": "Egy híres, 100 méter széles Nazca geoglifa jellegzetes spirális farokkal, amely egy majmot ábrázol a sivatagi burkolatban.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.138505,
+                        -14.706923
+                  ]
+            },
+            {
+                  "name": "Llamas",
+                  "text": "Ősi sivatagi talajrajzok, amelyek lámák alakját vázolják fel, amelyek központi jelentőségű állatok voltak a prekolumbiánus andoki kultúrákban.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.151019,
+                        -14.708345
+                  ]
+            },
+            {
+                  "name": "Un Cara",
+                  "text": "Egy jellegzetes talajfaragás, amely egy emberi vagy istenségi arc egyszerűsített formáját alkotja, és a sivatag padlójáról bámul felfelé.",
+                  "category": "historical",
+                  "coords": [
+                        -75.207125,
+                        -14.703145
+                  ]
+            },
+            {
+                  "name": "Geoglifos de líneas de Nasca de líneas múltiples de larga distancia",
+                  "text": "Egy lenyűgöző, egyenes, hosszú távú, többszörös vonalú geoglifákból álló hálózat, amely egyenletesen húzódik végig a hatalmas sivatagi fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        -75.2096,
+                        -14.706851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monolítico",
+                  "text": "O structură monolitică antică care stă solitară în vasta și arida întindere a regiunii arheologice Nazca.",
+                  "category": "historical",
+                  "coords": [
+                        -75.059083,
+                        -14.741247
+                  ]
+            },
+            {
+                  "name": "Serpiente Grande",
+                  "text": "O geoglifă uriașă care urmărește forma ondulată a unui șarpe mare pe solul uscat al deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        -75.077101,
+                        -14.746707
+                  ]
+            },
+            {
+                  "name": "Gigant",
+                  "text": "O geoglifă antropomorfă enormă, gravată pe un deal din deșert, făcând parte din celebrele Linii Nazca.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.079991,
+                        -14.745447
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un cabeza animal? con diente y lengua",
+                  "text": "O geoglifă curioasă care conturează un cap de animal, cu detalii sculptate distinct, care seamănă cu dinți și o limbă.",
+                  "category": "historical",
+                  "coords": [
+                        -75.206469,
+                        -14.750235
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un pájaro en vuelo",
+                  "text": "Un desen frapant pe solul deșertului care urmărește conturul larg al unei păsări mari în zbor.",
+                  "category": "historical",
+                  "coords": [
+                        -75.207389,
+                        -14.740083
+                  ]
+            },
+            {
+                  "name": "Cintura pescado",
+                  "text": "O geoglifă arheologică caracterizată printr-o formă distinctivă, asemănătoare unui pește, gravată în pământul pietros.",
+                  "category": "historical",
+                  "coords": [
+                        -75.17639,
+                        -14.755511
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un pájaro gigante",
+                  "text": "Un imens desen aviar pe sol, care își întinde aripile liniare pe vasta pânză aridă a platoului Nazca.",
+                  "category": "historical",
+                  "coords": [
+                        -75.179194,
+                        -14.761818
+                  ]
+            },
+            {
+                  "name": "Cara de una cabeza, animal",
+                  "text": "O geoglifă mare sculptată în suprafața deșertului, care descrie clar trăsăturile faciale ale unui animal.",
+                  "category": "historical",
+                  "coords": [
+                        -75.188547,
+                        -14.766547
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un hombre comiendo una serpiente",
+                  "text": "Un desen detaliat pe pământ, ilustrând scena complexă și neobișnuită a unei figuri umane care consumă un șarpe.",
+                  "category": "historical",
+                  "coords": [
+                        -75.184402,
+                        -14.768267
+                  ]
+            },
+            {
+                  "name": "punto",
+                  "text": "Un semn de excavație circular precis, asemănător unui punct, făcând parte din tiparele geometrice antice mai ample din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        -75.144102,
+                        -14.748487
+                  ]
+            },
+            {
+                  "name": "Nasca Lines - Monumental Area",
+                  "text": "Zona centrală extrem de protejată a deșertului Nazca, prezentând o concentrație densă de linii monumentale geometrice și zoomorfe pe pământ.",
+                  "category": "historical",
+                  "coords": [
+                        -75.16343,
+                        -14.716123
+                  ]
+            },
+            {
+                  "name": "Peinados multilínea de petroglifos",
+                  "text": "Un sit arheologic de petroglife prezentând sculpturi antice în piatră cu modele complexe, cu mai multe linii, care seamănă cu coafuri stilizate.",
+                  "category": "historical",
+                  "coords": [
+                        -75.208779,
+                        -14.705029
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un cara",
+                  "text": "Un portret enigmatic al unei fețe răzuite în pietrele de suprafață întunecate, coapte de soare, ale platoului deșertic peruvian.",
+                  "category": "historical",
+                  "coords": [
+                        -75.214875,
+                        -14.715552
+                  ]
+            },
+            {
+                  "name": "Trapezoid",
+                  "text": "O poiană trapezoidală geometrică vastă, asemănătoare unei piste, care se întinde rigid pe terenul plat și arid al liniilor Nazca.",
+                  "category": "historical",
+                  "coords": [
+                        -75.051626,
+                        -14.742607
+                  ]
+            },
+            {
+                  "name": "Nazca Lines",
+                  "text": "O colecție de renume mondial de geoglife precolumbiene uriașe, gravate în nisipurile uscate ale deșertului din sudul statului Peru.",
+                  "category": "historical",
+                  "coords": [
+                        -75.187678,
+                        -14.699217
+                  ]
+            },
+            {
+                  "name": "Nasca lines",
+                  "text": "O rețea întinsă de desene antice masive, zoomorfe și geometrice, care acoperă platoul înalt și arid peruvian.",
+                  "category": "historical",
+                  "coords": [
+                        -75.144938,
+                        -14.713654
+                  ]
+            },
+            {
+                  "name": "Mono",
+                  "text": "O faimoasă geoglifă Nazca de 100 de metri lățime, cu o coadă spiralată distinctivă, reprezentând o maimuță în pavajul deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.138505,
+                        -14.706923
+                  ]
+            },
+            {
+                  "name": "Llamas",
+                  "text": "Desene antice pe solul deșertului, conturând figuri de lame, un animal de o importanță centrală pentru culturile andine precolumbiene.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.151019,
+                        -14.708345
+                  ]
+            },
+            {
+                  "name": "Un Cara",
+                  "text": "O sculptură distinctivă pe sol care formează forma simplificată a unei fețe umane sau de zeitate, privind în sus de pe podeaua deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        -75.207125,
+                        -14.703145
+                  ]
+            },
+            {
+                  "name": "Geoglifos de líneas de Nasca de líneas múltiples de larga distancia",
+                  "text": "O rețea impresionantă de geoglife drepte, pe distanțe lungi, cu mai multe linii, care se întind uniform pe platoul vast al deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        -75.2096,
+                        -14.706851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monolítico",
+                  "text": "An ancient monolithic structure standing solitary in the vast, arid expanse of the Nazca archaeological region.",
+                  "category": "historical",
+                  "coords": [
+                        -75.059083,
+                        -14.741247
+                  ]
+            },
+            {
+                  "name": "Serpiente Grande",
+                  "text": "A giant geoglyph tracing the undulating, serpentine form of a large snake across the dry desert floor.",
+                  "category": "historical",
+                  "coords": [
+                        -75.077101,
+                        -14.746707
+                  ]
+            },
+            {
+                  "name": "Giant",
+                  "text": "An enormous anthropomorphic geoglyph etched into a desert hillside, forming part of the world-famous Nazca Lines.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.079991,
+                        -14.745447
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un cabeza animal? con diente y lengua",
+                  "text": "A curious geoglyph outlining an animal head, featuring distinctly carved details that resemble teeth and a tongue.",
+                  "category": "historical",
+                  "coords": [
+                        -75.206469,
+                        -14.750235
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un pájaro en vuelo",
+                  "text": "A striking desert ground drawing that traces the wide outline of a large bird soaring in flight.",
+                  "category": "historical",
+                  "coords": [
+                        -75.207389,
+                        -14.740083
+                  ]
+            },
+            {
+                  "name": "Cintura pescado",
+                  "text": "An archaeological geoglyph characterized by a distinctive, pinched fish-like shape etched into the stony ground.",
+                  "category": "historical",
+                  "coords": [
+                        -75.17639,
+                        -14.755511
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un pájaro gigante",
+                  "text": "An immense avian ground drawing spreading its linear wings across the vast, arid canvas of the Nazca plateau.",
+                  "category": "historical",
+                  "coords": [
+                        -75.179194,
+                        -14.761818
+                  ]
+            },
+            {
+                  "name": "Cara de una cabeza, animal",
+                  "text": "A large geoglyph carved into the desert surface that clearly depicts the facial features of an animal.",
+                  "category": "historical",
+                  "coords": [
+                        -75.188547,
+                        -14.766547
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un hombre comiendo una serpiente",
+                  "text": "A detailed ground drawing illustrating the complex and unusual scene of a human figure consuming a snake.",
+                  "category": "historical",
+                  "coords": [
+                        -75.184402,
+                        -14.768267
+                  ]
+            },
+            {
+                  "name": "punto",
+                  "text": "A precise, dot-like circular excavation mark forming part of the broader ancient geometric patterns in the desert.",
+                  "category": "historical",
+                  "coords": [
+                        -75.144102,
+                        -14.748487
+                  ]
+            },
+            {
+                  "name": "Nasca Lines - Monumental Area",
+                  "text": "The highly protected central zone of the Nazca desert, featuring a dense concentration of monumental geometric and zoomorphic ground lines.",
+                  "category": "historical",
+                  "coords": [
+                        -75.16343,
+                        -14.716123
+                  ]
+            },
+            {
+                  "name": "Peinados multilínea de petroglifos",
+                  "text": "An archaeological petroglyph site showcasing ancient rock carvings with intricate, multi-lined patterns resembling stylised hairstyles.",
+                  "category": "historical",
+                  "coords": [
+                        -75.208779,
+                        -14.705029
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un cara",
+                  "text": "An enigmatic portrait of a face scraped into the dark, sun-baked surface stones of the Peruvian desert plateau.",
+                  "category": "historical",
+                  "coords": [
+                        -75.214875,
+                        -14.715552
+                  ]
+            },
+            {
+                  "name": "Trapezoid",
+                  "text": "A vast, runway-like geometric trapezoid clearing that stretches rigidly across the flat, arid terrain of the Nazca lines.",
+                  "category": "historical",
+                  "coords": [
+                        -75.051626,
+                        -14.742607
+                  ]
+            },
+            {
+                  "name": "Nazca Lines",
+                  "text": "A world-renowned collection of giant pre-Columbian geoglyphs etched into the dry desert sands of southern Peru.",
+                  "category": "historical",
+                  "coords": [
+                        -75.187678,
+                        -14.699217
+                  ]
+            },
+            {
+                  "name": "Nasca lines",
+                  "text": "A sprawling network of massive ancient zoomorphic and geometric ground drawings covering the arid Peruvian high plateau.",
+                  "category": "historical",
+                  "coords": [
+                        -75.144938,
+                        -14.713654
+                  ]
+            },
+            {
+                  "name": "Monkey",
+                  "text": "A famous 100-meter-wide Nazca geoglyph featuring a distinctive spiraling tail, depicting a monkey in the desert pavement.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.138505,
+                        -14.706923
+                  ]
+            },
+            {
+                  "name": "Llamas",
+                  "text": "Ancient desert ground drawings outlining the figures of llamas, an animal of central importance to pre-Columbian Andean cultures.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.151019,
+                        -14.708345
+                  ]
+            },
+            {
+                  "name": "Un Cara",
+                  "text": "A distinctive ground carving that forms the simplified shape of a human or deity face staring upwards from the desert floor.",
+                  "category": "historical",
+                  "coords": [
+                        -75.207125,
+                        -14.703145
+                  ]
+            },
+            {
+                  "name": "Geoglifos de líneas de Nasca de líneas múltiples de larga distancia",
+                  "text": "An impressive network of straight, long-distance, multi-lined geoglyphs stretching uniformly across the vast desert plateau.",
+                  "category": "historical",
+                  "coords": [
+                        -75.2096,
+                        -14.706851
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-ICA",
     coords: [-75.13, -14.733],
@@ -111,7 +1335,304 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Certaines lignes droites s'étirent sur plusieurs kilomètres à travers le désert.", "La chercheuse allemande Maria Reiche a consacré la majeure partie de sa vie à l'étude et à la protection des lignes.", "De nouvelles lignes sont encore découvertes aujourd'hui grâce à la technologie satellite moderne et aux drones.", "Le « Singe » ne possède que quatre doigts à une main, ce que Maria Reiche a interprété comme un symbole astronomique.", "Les lignes de Nazca sont inscrites au patrimoine mondial de l'UNESCO depuis 1994."],
     }, image: "/poi-images/nazca-linien-history-v2.webp"},
   {
-    id: "caral-history-v2",
+    id: "caral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Complejo Arqueologico Cerro Colorado",
+                  "text": "Dieser archäologische Komplex besteht aus antiken Steinstrukturen vor dem Hintergrund der auffallend rot gefärbten Böden der umliegenden Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.529138,
+                        -10.870877
+                  ]
+            },
+            {
+                  "name": "Plaza cuadrangular",
+                  "text": "Diese prähistorische Stätte bewahrt den markanten geometrischen Grundriss eines großen, versunkenen viereckigen Platzes für öffentliche Versammlungen.",
+                  "category": "historical",
+                  "coords": [
+                        -77.518718,
+                        -10.892894
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueologico Allpacoto",
+                  "text": "Ein faszinierender archäologischer Komplex, der die baulichen Überreste einer frühen prähispanischen landwirtschaftlichen Siedlung bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.513496,
+                        -10.874279
+                  ]
+            },
+            {
+                  "name": "Penico",
+                  "text": "Diese bemerkenswerte archäologische Stätte enthält gut erhaltene Überreste einer frühen antiken Zivilisation in der Küstenwüstenregion.",
+                  "category": "historical",
+                  "coords": [
+                        -77.44521,
+                        -10.933248
+                  ]
+            },
+            {
+                  "name": "Huacache",
+                  "text": "Diese archäologische Ausgrabungsstätte enthüllt die vielschichtige Baugeschichte und Lehmarchitektur einer präkolumbianischen Kultur.",
+                  "category": "historical",
+                  "coords": [
+                        -77.463475,
+                        -10.903989
+                  ]
+            },
+            {
+                  "name": "Caral",
+                  "text": "Als UNESCO-Weltkulturerbe gilt dieser riesige archäologische Komplex als das älteste Zivilisationszentrum des amerikanischen Kontinents.",
+                  "category": "historical",
+                  "coords": [
+                        -77.521101,
+                        -10.892657
+                  ]
+            },
+            {
+                  "name": "Sector F",
+                  "text": "Ein weiterer ausgegrabener Teil der antiken Stadt; dieses Ruinengebiet zeigt komplexe Wohn- und bürgerliche Steinfundamente.",
+                  "category": "historical",
+                  "coords": [
+                        -77.518759,
+                        -10.891158
+                  ]
+            },
+            {
+                  "name": "Piramide Mayor",
+                  "text": "Diese monumentale archäologische Ruine wird von der massiven zentralen Pyramide dominiert, die einst als Haupttempel der Stadt diente.",
+                  "category": "historical",
+                  "coords": [
+                        -77.521599,
+                        -10.89036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Complejo Arqueologico Cerro Colorado",
+                  "text": "Ez a régészeti komplexum ősi kőszerkezeteket vonultat fel a környező dombok feltűnő, vöröses árnyalatú talajával a háttérben.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.529138,
+                        -10.870877
+                  ]
+            },
+            {
+                  "name": "Plaza cuadrangular",
+                  "text": "Ez a történelem előtti lelőhely megőrizte egy nagy, süllyesztett négyszögletes tér jellegzetes geometriai elrendezését, amelyet nyilvános összejövetelekre használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -77.518718,
+                        -10.892894
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueologico Allpacoto",
+                  "text": "Egy lenyűgöző régészeti komplexum, amely egy korai spanyol hódítás előtti mezőgazdasági település szerkezeti maradványait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.513496,
+                        -10.874279
+                  ]
+            },
+            {
+                  "name": "Penico",
+                  "text": "Ez a nevezetes régészeti lelőhely egy korai ősi civilizáció jól megőrzött maradványait rejti a tengerparti sivatagi régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -77.44521,
+                        -10.933248
+                  ]
+            },
+            {
+                  "name": "Huacache",
+                  "text": "Ez a régészeti ásatási lelőhely egy prekolumbián kultúra rétegzett szerkezeti történetét és földépítészetét tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        -77.463475,
+                        -10.903989
+                  ]
+            },
+            {
+                  "name": "Caral",
+                  "text": "Az UNESCO világörökség részeként ez a hatalmas régészeti komplexum az amerikai kontinens legrégebbi civilizációs központjaként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -77.521101,
+                        -10.892657
+                  ]
+            },
+            {
+                  "name": "Sector F",
+                  "text": "Az ősi város egy másik feltárt része; ez a romterület bonyolult lakó- és polgári kőalapokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        -77.518759,
+                        -10.891158
+                  ]
+            },
+            {
+                  "name": "Piramide Mayor",
+                  "text": "Ezt a monumentális régészeti romot az a hatalmas központi piramis uralja, amely egykor a város fő nyilvános templomaként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -77.521599,
+                        -10.89036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Complejo Arqueologico Cerro Colorado",
+                  "text": "Acest complex arheologic prezintă structuri antice din piatră așezate pe fundalul solurilor cu nuanțe roșii izbitoare ale dealurilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.529138,
+                        -10.870877
+                  ]
+            },
+            {
+                  "name": "Plaza cuadrangular",
+                  "text": "Acest sit preistoric păstrează aspectul geometric distinct al unei mari piețe patrulatere scufundate, folosită pentru adunări publice.",
+                  "category": "historical",
+                  "coords": [
+                        -77.518718,
+                        -10.892894
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueologico Allpacoto",
+                  "text": "Un complex arheologic intrigant care păstrează rămășițele structurale ale unei așezări agricole pre-hispanice timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.513496,
+                        -10.874279
+                  ]
+            },
+            {
+                  "name": "Penico",
+                  "text": "Acest sit arheologic remarcabil conține rămășițe bine conservate ale unei civilizații antice timpurii din regiunea deșertului de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -77.44521,
+                        -10.933248
+                  ]
+            },
+            {
+                  "name": "Huacache",
+                  "text": "Acest sit de excavație arheologică dezvăluie istoria structurală stratificată și arhitectura de pământ a unei culturi precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -77.463475,
+                        -10.903989
+                  ]
+            },
+            {
+                  "name": "Caral",
+                  "text": "Ca sit al patrimoniului mondial UNESCO, acest complex arheologic masiv este recunoscut ca cel mai vechi centru de civilizație din Americi.",
+                  "category": "historical",
+                  "coords": [
+                        -77.521101,
+                        -10.892657
+                  ]
+            },
+            {
+                  "name": "Sector F",
+                  "text": "O altă secțiune excavată a orașului antic, această zonă de ruine afișează fundații complexe de piatră rezidențiale și civice.",
+                  "category": "historical",
+                  "coords": [
+                        -77.518759,
+                        -10.891158
+                  ]
+            },
+            {
+                  "name": "Piramide Mayor",
+                  "text": "Această ruină arheologică monumentală este dominată de piramida centrală masivă care a servit cândva ca principal templu public al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -77.521599,
+                        -10.89036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Complejo Arqueologico Cerro Colorado",
+                  "text": "This archaeological complex features ancient stone structures set against the striking red-hued soils of the surrounding hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.529138,
+                        -10.870877
+                  ]
+            },
+            {
+                  "name": "Plaza cuadrangular",
+                  "text": "This prehistoric site preserves the distinct geometric layout of a large, sunken quadrangular plaza used for public gatherings.",
+                  "category": "historical",
+                  "coords": [
+                        -77.518718,
+                        -10.892894
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueologico Allpacoto",
+                  "text": "An intriguing archaeological complex that preserves the structural remains of an early pre-Hispanic agricultural settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.513496,
+                        -10.874279
+                  ]
+            },
+            {
+                  "name": "Penico",
+                  "text": "This notable archaeological site contains well-preserved remnants of an early ancient civilization in the coastal desert region.",
+                  "category": "historical",
+                  "coords": [
+                        -77.44521,
+                        -10.933248
+                  ]
+            },
+            {
+                  "name": "Huacache",
+                  "text": "This archaeological excavation site reveals the layered structural history and earthen architecture of a pre-Columbian culture.",
+                  "category": "historical",
+                  "coords": [
+                        -77.463475,
+                        -10.903989
+                  ]
+            },
+            {
+                  "name": "Caral",
+                  "text": "As a UNESCO World Heritage site, this massive archaeological complex is recognized as the oldest center of civilization in the Americas.",
+                  "category": "historical",
+                  "coords": [
+                        -77.521101,
+                        -10.892657
+                  ]
+            },
+            {
+                  "name": "Sector F",
+                  "text": "Another excavated section of the ancient city, this ruin area displays intricate residential and civic stone foundations.",
+                  "category": "historical",
+                  "coords": [
+                        -77.518759,
+                        -10.891158
+                  ]
+            },
+            {
+                  "name": "Piramide Mayor",
+                  "text": "This monumental archaeological ruin is dominated by the massive central pyramid that once served as the city's main public temple.",
+                  "category": "historical",
+                  "coords": [
+                        -77.521599,
+                        -10.89036
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-LIM",
     coords: [-77.521, -10.892],
@@ -138,7 +1659,592 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Caral n'a été décrite scientifiquement qu'en 1994 par l'archéologue Ruth Shady Solís.", "Les habitants utilisaient des « Quipus », un système de cordes à nœuds, probablement pour stocker des données.", "Trente-deux flûtes fabriquées à partir d'os de condor et de pélican ont été trouvées sur le site.", "La ville a été abandonnée vers 1800 av. J.-C. en raison de périodes de sécheresse et de tempêtes de sable.", "Caral est inscrite sur la liste du patrimoine mondial de l'UNESCO depuis 2009."],
     }, image: "/poi-images/caral-history-v2.webp"},
       {
-    id: "el-brujo-history-v2",
+    id: "el-brujo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tres Huacas",
+                  "text": "Ein archäologischer Komplex, der durch die erodierten Überreste dreier unterschiedlicher antiker Lehmhügel gekennzeichnet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -79.221389,
+                        -7.951389
+                  ]
+            },
+            {
+                  "name": "El Zapato",
+                  "text": "Ein kleiner präkolumbianischer archäologischer Hügel, der sich innerhalb der breiteren Küstentalstätte befindet.",
+                  "category": "historical",
+                  "coords": [
+                        -79.238056,
+                        -7.921944
+                  ]
+            },
+            {
+                  "name": "Huaca Cao Viejo",
+                  "text": "Eine bedeutende Moche-Lehmpyramide, die für ihre polychromen Reliefs und die Entdeckung der Señora de Cao berühmt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -79.303371,
+                        -7.915109
+                  ]
+            },
+            {
+                  "name": "Huaca Prieta",
+                  "text": "Ein alter, präkeramischer archäologischer Hügel in der Nähe der Pazifikküste, der eine frühe Küstensiedlung darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.30621,
+                        -7.924865
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico El Brujo",
+                  "text": "Ein riesiger archäologischer Küstenkomplex, der bedeutende Moche-Lehmpyramiden und frühere historische Siedlungen umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        -79.3055,
+                        -7.913932
+                  ]
+            },
+            {
+                  "name": "Huaca Cortada",
+                  "text": "Eine massive Moche-Lehmpyramide, die leicht an einem tiefen Plünderergraben zu erkennen ist, der direkt durch ihre Mitte schneidet.",
+                  "category": "historical",
+                  "coords": [
+                        -79.308288,
+                        -7.911312
+                  ]
+            },
+            {
+                  "name": "Huaca del Zapato",
+                  "text": "Eine erodierte prähispanische Lehmstruktur, die Teil der alten zeremoniellen Küstenlandschaft der Region ist.",
+                  "category": "historical",
+                  "coords": [
+                        -79.228848,
+                        -7.914361
+                  ]
+            },
+            {
+                  "name": "Huaca Sumanique II",
+                  "text": "Ein sekundäres archäologisches Erdwerk und ein Ruinenhügel, der sich in der Nähe der primären El Brujo-Pyramidenstrukturen befindet.",
+                  "category": "historical",
+                  "coords": [
+                        -79.232169,
+                        -7.877013
+                  ]
+            },
+            {
+                  "name": "Huaca La Novoa",
+                  "text": "Ein nicht ausgegrabener alter Lehmhügel, der Beweise für eine frühe indigene Besiedlung im Tal liefert.",
+                  "category": "historical",
+                  "coords": [
+                        -79.237919,
+                        -7.879698
+                  ]
+            },
+            {
+                  "name": "Capilla de San Jose Alto",
+                  "text": "Eine kleine Gemeindekapelle im oberen, höher gelegenen ländlichen Teil der Siedlung.",
+                  "category": "religious",
+                  "coords": [
+                        -79.234711,
+                        -7.889533
+                  ]
+            },
+            {
+                  "name": "Iglesia Asambleas de Dios",
+                  "text": "Ein lokales protestantisches Kirchengebäude, das der Gemeinde der Assemblies of God mit regelmäßigen Gottesdiensten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.224756,
+                        -7.891619
+                  ]
+            },
+            {
+                  "name": "Capilla de San Jose Bajo",
+                  "text": "Eine bescheidene christliche Kapelle, die erbaut wurde, um den täglichen religiösen Bedürfnissen der Gemeinde im unteren Tal zu dienen.",
+                  "category": "religious",
+                  "coords": [
+                        -79.236425,
+                        -7.899149
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Santos de los Ultimos Dias",
+                  "text": "Eine moderne Kirche der Heiligen der Letzten Tage, die den lokalen Mitgliedern ein strukturiertes Versammlungshaus bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.223366,
+                        -7.895752
+                  ]
+            },
+            {
+                  "name": "Convento de las Madres Carmelitas",
+                  "text": "Eine ruhige Kapelle, die zum Karmeliterinnenkloster gehört und den dort lebenden Nonnen als Ort des Gebets dient.",
+                  "category": "religious",
+                  "coords": [
+                        -79.222993,
+                        -7.894068
+                  ]
+            },
+            {
+                  "name": "Capilla de Moncada",
+                  "text": "Eine traditionelle Dorfkapelle, die den religiösen und gemeinschaftlichen Bedürfnissen der Siedlung Moncada gerecht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.254707,
+                        -7.869611
+                  ]
+            },
+            {
+                  "name": "Capilla de Sumanique",
+                  "text": "Eine malerische lokale Kapelle, die als primäres spirituelles Zentrum für die christlichen Gläubigen der Region Sumanique dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.230744,
+                        -7.882856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tres Huacas",
+                  "text": "Régészeti komplexum, amelyet három különálló ősi vályogdomb erodált maradványai jellemeznek.",
+                  "category": "historical",
+                  "coords": [
+                        -79.221389,
+                        -7.951389
+                  ]
+            },
+            {
+                  "name": "El Zapato",
+                  "text": "Kisebb, kolumbusz előtti régészeti domb, amely a tágabb tengerparti völgy területén található.",
+                  "category": "historical",
+                  "coords": [
+                        -79.238056,
+                        -7.921944
+                  ]
+            },
+            {
+                  "name": "Huaca Cao Viejo",
+                  "text": "Jelentős moche vályogpiramis, amely többszínű domborműveiről és a Cao úrnőjének felfedezéséről híres.",
+                  "category": "historical",
+                  "coords": [
+                        -79.303371,
+                        -7.915109
+                  ]
+            },
+            {
+                  "name": "Huaca Prieta",
+                  "text": "Ősi kerámia előtti régészeti domb a Csendes-óceán partvidékének közelében, amely a korai tengerparti településeket képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        -79.30621,
+                        -7.924865
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico El Brujo",
+                  "text": "Hatalmas tengerparti régészeti komplexum, amely jelentős moche vályogpiramisokat és korábbi történelmi településeket foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.3055,
+                        -7.913932
+                  ]
+            },
+            {
+                  "name": "Huaca Cortada",
+                  "text": "Masszív moche vályogpiramis, amely könnyen felismerhető a közepét közvetlenül átvágó mély sírrabló árokról.",
+                  "category": "historical",
+                  "coords": [
+                        -79.308288,
+                        -7.911312
+                  ]
+            },
+            {
+                  "name": "Huaca del Zapato",
+                  "text": "Erodált spanyol hódítás előtti vályogépítmény, amely a régió ősi tengerparti ceremoniális tájának részét képezi.",
+                  "category": "historical",
+                  "coords": [
+                        -79.228848,
+                        -7.914361
+                  ]
+            },
+            {
+                  "name": "Huaca Sumanique II",
+                  "text": "Másodlagos régészeti földsánc és romos domb, amely az elsődleges El Brujo piramisépítmények közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        -79.232169,
+                        -7.877013
+                  ]
+            },
+            {
+                  "name": "Huaca La Novoa",
+                  "text": "Feltáratlan ősi vályogdomb, amely bizonyítékot szolgáltat a völgy korai őslakos betelepülésére.",
+                  "category": "historical",
+                  "coords": [
+                        -79.237919,
+                        -7.879698
+                  ]
+            },
+            {
+                  "name": "Capilla de San Jose Alto",
+                  "text": "Kis közösségi kápolna a település felső, magasabban fekvő vidéki részén.",
+                  "category": "religious",
+                  "coords": [
+                        -79.234711,
+                        -7.889533
+                  ]
+            },
+            {
+                  "name": "Iglesia Asambleas de Dios",
+                  "text": "Helyi protestáns templomépület, amely az Isten Gyülekezetei közösségét szolgálja rendszeres istentiszteletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.224756,
+                        -7.891619
+                  ]
+            },
+            {
+                  "name": "Capilla de San Jose Bajo",
+                  "text": "Szerény keresztény kápolna, amely az alsó-völgyi közösség napi vallási igényeit hivatott szolgálni.",
+                  "category": "religious",
+                  "coords": [
+                        -79.236425,
+                        -7.899149
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Santos de los Ultimos Dias",
+                  "text": "Az Utolsó Napi Szentek modern temploma, amely strukturált gyülekezeti házat biztosít a helyi tagok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.223366,
+                        -7.895752
+                  ]
+            },
+            {
+                  "name": "Convento de las Madres Carmelitas",
+                  "text": "Békés kápolna, amely a kármelita kolostorhoz tartozik, és az ott lakó apácák számára biztosít imádkozási helyet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.222993,
+                        -7.894068
+                  ]
+            },
+            {
+                  "name": "Capilla de Moncada",
+                  "text": "Hagyományos falusi kápolna, amely Moncada település vallási és közösségi igényeit elégíti ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.254707,
+                        -7.869611
+                  ]
+            },
+            {
+                  "name": "Capilla de Sumanique",
+                  "text": "Festői helyi kápolna, amely Sumanique térségének keresztény hívei számára az elsődleges spirituális központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.230744,
+                        -7.882856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tres Huacas",
+                  "text": "Un complex arheologic caracterizat prin rămășițele erodate a trei movile antice distincte de chirpici.",
+                  "category": "historical",
+                  "coords": [
+                        -79.221389,
+                        -7.951389
+                  ]
+            },
+            {
+                  "name": "El Zapato",
+                  "text": "O mică movilă arheologică precolumbiană situată în cadrul sitului mai larg al văii de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -79.238056,
+                        -7.921944
+                  ]
+            },
+            {
+                  "name": "Huaca Cao Viejo",
+                  "text": "O piramidă majoră de chirpici Moche renumită pentru reliefurile sale policrome și descoperirea Doamnei de Cao.",
+                  "category": "historical",
+                  "coords": [
+                        -79.303371,
+                        -7.915109
+                  ]
+            },
+            {
+                  "name": "Huaca Prieta",
+                  "text": "O veche movilă arheologică pre-ceramică situată lângă coasta Pacificului, reprezentând o așezare timpurie de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -79.30621,
+                        -7.924865
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico El Brujo",
+                  "text": "Un vast complex arheologic de coastă care cuprinde piramide semnificative de chirpici Moche și așezări istorice anterioare.",
+                  "category": "historical",
+                  "coords": [
+                        -79.3055,
+                        -7.913932
+                  ]
+            },
+            {
+                  "name": "Huaca Cortada",
+                  "text": "O piramidă masivă de chirpici Moche ușor de distins printr-un șanț adânc al jefuitorilor care îi taie direct centrul.",
+                  "category": "historical",
+                  "coords": [
+                        -79.308288,
+                        -7.911312
+                  ]
+            },
+            {
+                  "name": "Huaca del Zapato",
+                  "text": "O structură erodată de chirpici pre-hispanică ce face parte din peisajul ceremonial antic de coastă al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -79.228848,
+                        -7.914361
+                  ]
+            },
+            {
+                  "name": "Huaca Sumanique II",
+                  "text": "O lucrare de terasament arheologic secundar și o movilă în ruină situată lângă structurile primare ale piramidelor din El Brujo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.232169,
+                        -7.877013
+                  ]
+            },
+            {
+                  "name": "Huaca La Novoa",
+                  "text": "O movilă antică de chirpici neexcavată care oferă dovezi ale așezării indigene timpurii în vale.",
+                  "category": "historical",
+                  "coords": [
+                        -79.237919,
+                        -7.879698
+                  ]
+            },
+            {
+                  "name": "Capilla de San Jose Alto",
+                  "text": "O mică capelă comunitară situată în secțiunea rurală superioară, mai ridicată, a așezării.",
+                  "category": "religious",
+                  "coords": [
+                        -79.234711,
+                        -7.889533
+                  ]
+            },
+            {
+                  "name": "Iglesia Asambleas de Dios",
+                  "text": "O clădire bisericească protestantă locală care deservește congregația Adunărilor lui Dumnezeu cu servicii regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.224756,
+                        -7.891619
+                  ]
+            },
+            {
+                  "name": "Capilla de San Jose Bajo",
+                  "text": "O capelă creștină modestă construită pentru a deservi nevoile religioase zilnice ale comunității din valea inferioară.",
+                  "category": "religious",
+                  "coords": [
+                        -79.236425,
+                        -7.899149
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Santos de los Ultimos Dias",
+                  "text": "O biserică modernă a Sfinților din Zilele din Urmă care oferă o casă de întruniri structurată pentru membrii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.223366,
+                        -7.895752
+                  ]
+            },
+            {
+                  "name": "Convento de las Madres Carmelitas",
+                  "text": "O capelă liniștită aparținând mănăstirii carmelite, oferind un loc de rugăciune pentru călugărițele rezidente.",
+                  "category": "religious",
+                  "coords": [
+                        -79.222993,
+                        -7.894068
+                  ]
+            },
+            {
+                  "name": "Capilla de Moncada",
+                  "text": "O capelă tradițională de sat care satisface nevoile religioase și comunitare ale așezării Moncada.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.254707,
+                        -7.869611
+                  ]
+            },
+            {
+                  "name": "Capilla de Sumanique",
+                  "text": "O capelă locală pitorească care servește drept centru spiritual principal pentru închinătorii creștini din zona Sumanique.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.230744,
+                        -7.882856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tres Huacas",
+                  "text": "An archaeological complex characterized by the eroded remains of three distinct ancient adobe mounds.",
+                  "category": "historical",
+                  "coords": [
+                        -79.221389,
+                        -7.951389
+                  ]
+            },
+            {
+                  "name": "El Zapato",
+                  "text": "A small pre-Columbian archaeological mound situated within the broader coastal valley site.",
+                  "category": "historical",
+                  "coords": [
+                        -79.238056,
+                        -7.921944
+                  ]
+            },
+            {
+                  "name": "Huaca Cao Viejo",
+                  "text": "A major Moche adobe pyramid famous for its polychrome reliefs and the discovery of the Lady of Cao.",
+                  "category": "historical",
+                  "coords": [
+                        -79.303371,
+                        -7.915109
+                  ]
+            },
+            {
+                  "name": "Huaca Prieta",
+                  "text": "An ancient pre-ceramic archaeological mound located near the Pacific coastline, representing early coastal settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -79.30621,
+                        -7.924865
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico El Brujo",
+                  "text": "A vast coastal archaeological complex encompassing significant Moche adobe pyramids and earlier historical settlements.",
+                  "category": "historical",
+                  "coords": [
+                        -79.3055,
+                        -7.913932
+                  ]
+            },
+            {
+                  "name": "Huaca Cortada",
+                  "text": "A massive Moche adobe pyramid easily distinguished by a deep looters' trench slicing directly through its center.",
+                  "category": "historical",
+                  "coords": [
+                        -79.308288,
+                        -7.911312
+                  ]
+            },
+            {
+                  "name": "Huaca del Zapato",
+                  "text": "An eroded pre-Hispanic adobe structure forming part of the region's ancient coastal ceremonial landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -79.228848,
+                        -7.914361
+                  ]
+            },
+            {
+                  "name": "Huaca Sumanique II",
+                  "text": "A secondary archaeological earthwork and ruined mound located near the primary El Brujo pyramid structures.",
+                  "category": "historical",
+                  "coords": [
+                        -79.232169,
+                        -7.877013
+                  ]
+            },
+            {
+                  "name": "Huaca La Novoa",
+                  "text": "An unexcavated ancient adobe mound providing evidence of early indigenous settlement in the valley.",
+                  "category": "historical",
+                  "coords": [
+                        -79.237919,
+                        -7.879698
+                  ]
+            },
+            {
+                  "name": "Capilla de San Jose Alto",
+                  "text": "A small community chapel situated in the upper, more elevated rural section of the settlement.",
+                  "category": "religious",
+                  "coords": [
+                        -79.234711,
+                        -7.889533
+                  ]
+            },
+            {
+                  "name": "Iglesia Asambleas de Dios",
+                  "text": "A local Protestant church building serving the Assemblies of God congregation with regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.224756,
+                        -7.891619
+                  ]
+            },
+            {
+                  "name": "Capilla de San Jose Bajo",
+                  "text": "A modest Christian chapel built to serve the daily religious needs of the lower valley community.",
+                  "category": "religious",
+                  "coords": [
+                        -79.236425,
+                        -7.899149
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Santos de los Ultimos Dias",
+                  "text": "A modern Latter-day Saints church providing a structured meetinghouse for local members.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.223366,
+                        -7.895752
+                  ]
+            },
+            {
+                  "name": "Convento de las Madres Carmelitas",
+                  "text": "A tranquil chapel belonging to the Carmelite convent, providing a place of prayer for the resident nuns.",
+                  "category": "religious",
+                  "coords": [
+                        -79.222993,
+                        -7.894068
+                  ]
+            },
+            {
+                  "name": "Capilla de Moncada",
+                  "text": "A traditional village chapel catering to the religious and community needs of the Moncada settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.254707,
+                        -7.869611
+                  ]
+            },
+            {
+                  "name": "Capilla de Sumanique",
+                  "text": "A quaint local chapel serving as the primary spiritual center for the Christian worshippers of the Sumanique area.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.230744,
+                        -7.882856
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-LAL",
     coords: [-79.308, -7.925],
@@ -192,7 +2298,772 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Hiram Bingham croyait à tort que Machu Picchu était la Vilcabamba recherchée.", "Le site présente à la fois une architecture inca et des influences amazoniennes.", "Les Espagnols ont brûlé la ville après la conquête et l'ont abandonnée à la jungle.", "C'est l'un des sites incas les plus difficiles à visiter en raison de son isolement.", "Les ruines comprennent des palais, des temples et des zones résidentielles pour des centaines de personnes."],
     }, image: "/poi-images/vilcabamba-history-v2.webp"},
     {
-    id: "tipon-history-v2",
+    id: "tipon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sinkuna Kancha",
+                  "text": "Eine antike archäologische Stätte mit historischen Steinruinen aus der präkolumbianischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        -71.784549,
+                        -13.571204
+                  ]
+            },
+            {
+                  "name": "Intiwatana",
+                  "text": "Eine alte archäologische Stätte der Inka mit einem rituellen Stein, der traditionell mit der Sonne in Verbindung gebracht wird.",
+                  "category": "historical",
+                  "coords": [
+                        -71.785301,
+                        -13.569334
+                  ]
+            },
+            {
+                  "name": "Pucará",
+                  "text": "Eine historische archäologische Stätte, die sich durch ihre defensiven Steinstrukturen auszeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        -71.778889,
+                        -13.56
+                  ]
+            },
+            {
+                  "name": "Huaypun",
+                  "text": "Ein Berggipfel, der sich deutlich über das historische Tipón-Gebiet erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.761669,
+                        -13.548361
+                  ]
+            },
+            {
+                  "name": "Pachatusan",
+                  "text": "Ein markanter Bergaussichtspunkt, der in der Inka-Mythologie als 'Stütze der Erde' bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.791767,
+                        -13.516743
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Wanakawri",
+                  "text": "Eine antike archäologische Stätte auf dem historisch bedeutsamen Berg Huanacaure.",
+                  "category": "historical",
+                  "coords": [
+                        -71.907676,
+                        -13.593999
+                  ]
+            },
+            {
+                  "name": "Wanakawri",
+                  "text": "Ein legendärer Berggipfel in der Inka-Mythologie, an dem Manco Cápac seinen goldenen Stab getestet haben soll.",
+                  "category": "natural",
+                  "coords": [
+                        -71.906387,
+                        -13.593751
+                  ]
+            },
+            {
+                  "name": "Mirador Muyuc Willka Usno Qosqo Qhawarina",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick über die historische Landschaft in Richtung Cusco bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.849374,
+                        -13.573018
+                  ]
+            },
+            {
+                  "name": "Zoologico Mundo Andino - Tipon",
+                  "text": "Ein zoologischer Park in Tipón, der einheimische andine Tierarten ausstellt.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.785766,
+                        -13.580086
+                  ]
+            },
+            {
+                  "name": "Pukará alto",
+                  "text": "Eine hochgelegene archäologische Stätte mit den Überresten alter Steinbefestigungen.",
+                  "category": "historical",
+                  "coords": [
+                        -71.785777,
+                        -13.560479
+                  ]
+            },
+            {
+                  "name": "Tipón",
+                  "text": "Eine bedeutende historische Attraktion mit wunderschön erhaltenen landwirtschaftlichen Terrassen und fortschrittlichen Aquädukten der Inka.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.783641,
+                        -13.569926
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Raq'araq'ayniyoq",
+                  "text": "Eine alte archäologische Stätte mit frühen Steinruinen inmitten des Andengeländes.",
+                  "category": "historical",
+                  "coords": [
+                        -71.877976,
+                        -13.529446
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO DE CHIMARAQAY",
+                  "text": "Eine historische archäologische Stätte mit Überresten traditioneller Steinstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        -71.875464,
+                        -13.532716
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Patapata",
+                  "text": "Diese archäologische Stätte in der Nähe von Tipón umfasst präkolumbianische Steinruinen und alte Terrassen.",
+                  "category": "historical",
+                  "coords": [
+                        -71.876737,
+                        -13.542826
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tipón",
+                  "text": "Diese christliche Kirche dient der lokalen Gemeinde in der Gegend von Tipón.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.782998,
+                        -13.582385
+                  ]
+            },
+            {
+                  "name": "Templo Patrón Salvador del Mundo",
+                  "text": "Dieser christliche Tempel ist dem Erlöser der Welt gewidmet und dient als zentraler Ort der Anbetung.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.777994,
+                        -13.4927
+                  ]
+            },
+            {
+                  "name": "Templo de San Jerónimo",
+                  "text": "Dieser traditionelle christliche Tempel im Bezirk San Jerónimo zeichnet sich durch seine historische koloniale Architektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.883683,
+                        -13.543933
+                  ]
+            },
+            {
+                  "name": "Mercado San Salvador",
+                  "text": "Dieser belebte Markt bietet frische landwirtschaftliche Produkte und lokale andine Waren an.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.781256,
+                        -13.491214
+                  ]
+            },
+            {
+                  "name": "Mercado Vinocanchón",
+                  "text": "Ein großer lokaler Markt, auf dem regionale Früchte, Gemüse und Dinge des täglichen Bedarfs verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.887769,
+                        -13.543583
+                  ]
+            },
+            {
+                  "name": "Mercado de Frutas",
+                  "text": "Ein spezialisierter Obstmarkt, auf dem Verkäufer eine farbenfrohe Vielfalt an frischen, saisonalen Produkten präsentieren.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.891887,
+                        -13.548872
+                  ]
+            },
+            {
+                  "name": "La Cachina Imperial",
+                  "text": "Ein beliebter Flohmarkt, der für seine vielfältigen Stände mit Gebrauchtwaren und lokalen Produkten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.836586,
+                        -13.566375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sinkuna Kancha",
+                  "text": "Egy ősi régészeti lelőhely, amely a Kolumbusz előtti időkből származó történelmi kőromokat rejt.",
+                  "category": "historical",
+                  "coords": [
+                        -71.784549,
+                        -13.571204
+                  ]
+            },
+            {
+                  "name": "Intiwatana",
+                  "text": "Ősi inka régészeti lelőhely, ahol egy hagyományosan a naphoz kötődő rituális kő található.",
+                  "category": "historical",
+                  "coords": [
+                        -71.785301,
+                        -13.569334
+                  ]
+            },
+            {
+                  "name": "Pucará",
+                  "text": "Védelmi kőépítményeiről ismert történelmi régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        -71.778889,
+                        -13.56
+                  ]
+            },
+            {
+                  "name": "Huaypun",
+                  "text": "Egy hegycsúcs, amely jelentősen a történelmi Tipón terület fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.761669,
+                        -13.548361
+                  ]
+            },
+            {
+                  "name": "Pachatusan",
+                  "text": "Egy kiemelkedő hegyi kilátó, amely az inka mitológiában a 'Föld támaszaként' ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.791767,
+                        -13.516743
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Wanakawri",
+                  "text": "Egy ősi régészeti lelőhely, amely a történelmileg jelentős Huanacaure hegyen található.",
+                  "category": "historical",
+                  "coords": [
+                        -71.907676,
+                        -13.593999
+                  ]
+            },
+            {
+                  "name": "Wanakawri",
+                  "text": "Egy legendás hegycsúcs az inka mitológiában, ahol a legenda szerint Manco Capac kipróbálta aranybotját.",
+                  "category": "natural",
+                  "coords": [
+                        -71.906387,
+                        -13.593751
+                  ]
+            },
+            {
+                  "name": "Mirador Muyuc Willka Usno Qosqo Qhawarina",
+                  "text": "Festői kilátó, amely lenyűgöző kilátást nyújt a történelmi tájra, Cusco irányába.",
+                  "category": "natural",
+                  "coords": [
+                        -71.849374,
+                        -13.573018
+                  ]
+            },
+            {
+                  "name": "Zoologico Mundo Andino - Tipon",
+                  "text": "Egy zoológiai park Tipónban, amely őshonos andoki vadon élő állatfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.785766,
+                        -13.580086
+                  ]
+            },
+            {
+                  "name": "Pukará alto",
+                  "text": "Egy magasan fekvő régészeti lelőhely, ahol ősi kőerődítmények maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -71.785777,
+                        -13.560479
+                  ]
+            },
+            {
+                  "name": "Tipón",
+                  "text": "Főbb történelmi látványosság, amely gyönyörűen megőrzött inka mezőgazdasági teraszokat és fejlett vízvezetékeket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.783641,
+                        -13.569926
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Raq'araq'ayniyoq",
+                  "text": "Ősi régészeti lelőhely, amely korai kőromokat mutat be az andoki terepen.",
+                  "category": "historical",
+                  "coords": [
+                        -71.877976,
+                        -13.529446
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO DE CHIMARAQAY",
+                  "text": "Hagyományos kőépítmények maradványait bemutató történelmi régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        -71.875464,
+                        -13.532716
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Patapata",
+                  "text": "Ez a Tipón közelében fekvő régészeti lelőhely prekolumbián kőromokat és ősi teraszokat rejt.",
+                  "category": "historical",
+                  "coords": [
+                        -71.876737,
+                        -13.542826
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tipón",
+                  "text": "Ez a keresztény templom a helyi egyházközséget szolgálja Tipón területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.782998,
+                        -13.582385
+                  ]
+            },
+            {
+                  "name": "Templo Patrón Salvador del Mundo",
+                  "text": "Ez a Világmegváltónak szentelt keresztény templom a helyi hitélet központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.777994,
+                        -13.4927
+                  ]
+            },
+            {
+                  "name": "Templo de San Jerónimo",
+                  "text": "Ez a San Jerónimo negyedben található hagyományos keresztény templom történelmi gyarmati építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.883683,
+                        -13.543933
+                  ]
+            },
+            {
+                  "name": "Mercado San Salvador",
+                  "text": "Ez a nyüzsgő piac friss mezőgazdasági termékeket és helyi andoki árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.781256,
+                        -13.491214
+                  ]
+            },
+            {
+                  "name": "Mercado Vinocanchón",
+                  "text": "Egy nagy helyi piac, ahol regionális gyümölcsöket, zöldségeket és mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.887769,
+                        -13.543583
+                  ]
+            },
+            {
+                  "name": "Mercado de Frutas",
+                  "text": "Egy specializált gyümölcspiac, ahol az árusok friss, szezonális termékek színes választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.891887,
+                        -13.548872
+                  ]
+            },
+            {
+                  "name": "La Cachina Imperial",
+                  "text": "Egy népszerű bolhapiac, amely használt cikkeket és helyi árukat kínáló változatos standjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.836586,
+                        -13.566375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sinkuna Kancha",
+                  "text": "Un vechi sit arheologic care prezintă ruine istorice din piatră din epoca precolumbiană.",
+                  "category": "historical",
+                  "coords": [
+                        -71.784549,
+                        -13.571204
+                  ]
+            },
+            {
+                  "name": "Intiwatana",
+                  "text": "Un vechi sit arheologic incaș cu o piatră ritualică asociată în mod tradițional cu soarele.",
+                  "category": "historical",
+                  "coords": [
+                        -71.785301,
+                        -13.569334
+                  ]
+            },
+            {
+                  "name": "Pucará",
+                  "text": "Un sit arheologic istoric caracterizat prin structurile sale de piatră defensive.",
+                  "category": "historical",
+                  "coords": [
+                        -71.778889,
+                        -13.56
+                  ]
+            },
+            {
+                  "name": "Huaypun",
+                  "text": "Un vârf de munte care se înalță semnificativ deasupra zonei istorice Tipón.",
+                  "category": "natural",
+                  "coords": [
+                        -71.761669,
+                        -13.548361
+                  ]
+            },
+            {
+                  "name": "Pachatusan",
+                  "text": "Un punct de belvedere montan proeminent, cunoscut drept 'Sprijinul Pământului' în mitologia incașă.",
+                  "category": "natural",
+                  "coords": [
+                        -71.791767,
+                        -13.516743
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Wanakawri",
+                  "text": "Un vechi sit arheologic situat pe muntele Huanacaure, un loc cu importanță istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -71.907676,
+                        -13.593999
+                  ]
+            },
+            {
+                  "name": "Wanakawri",
+                  "text": "Un vârf de munte legendar în mitologia incașă, unde se spune că Manco Capac și-a testat toiagul de aur.",
+                  "category": "natural",
+                  "coords": [
+                        -71.906387,
+                        -13.593751
+                  ]
+            },
+            {
+                  "name": "Mirador Muyuc Willka Usno Qosqo Qhawarina",
+                  "text": "Un punct de belvedere pitoresc care oferă priveliști panoramice peste peisajul istoric spre Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.849374,
+                        -13.573018
+                  ]
+            },
+            {
+                  "name": "Zoologico Mundo Andino - Tipon",
+                  "text": "Un parc zoologic în Tipón care expune specii native de animale sălbatice andine.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.785766,
+                        -13.580086
+                  ]
+            },
+            {
+                  "name": "Pukará alto",
+                  "text": "Un sit arheologic la înălțime, prezentând rămășițele unor vechi fortificații din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -71.785777,
+                        -13.560479
+                  ]
+            },
+            {
+                  "name": "Tipón",
+                  "text": "O atracție istorică majoră care prezintă terase agricole incașe frumos conservate și apeducte avansate.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.783641,
+                        -13.569926
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Raq'araq'ayniyoq",
+                  "text": "Un vechi sit arheologic care expune ruine timpurii din piatră în mijlocul terenului andin.",
+                  "category": "historical",
+                  "coords": [
+                        -71.877976,
+                        -13.529446
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO DE CHIMARAQAY",
+                  "text": "Un sit arheologic istoric ce prezintă rămășițe structurale tradiționale din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -71.875464,
+                        -13.532716
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Patapata",
+                  "text": "Acest sit arheologic de lângă Tipón cuprinde ruine de piatră precolumbiene și terase antice.",
+                  "category": "historical",
+                  "coords": [
+                        -71.876737,
+                        -13.542826
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tipón",
+                  "text": "Această biserică creștină deservește parohia locală din zona Tipón.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.782998,
+                        -13.582385
+                  ]
+            },
+            {
+                  "name": "Templo Patrón Salvador del Mundo",
+                  "text": "Acest templu creștin dedicat Mântuitorului Lumii este un punct central pentru închinarea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.777994,
+                        -13.4927
+                  ]
+            },
+            {
+                  "name": "Templo de San Jerónimo",
+                  "text": "Acest templu creștin tradițional din districtul San Jerónimo se remarcă prin arhitectura sa colonială istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.883683,
+                        -13.543933
+                  ]
+            },
+            {
+                  "name": "Mercado San Salvador",
+                  "text": "Această piață plină de viață oferă produse agricole proaspete și mărfuri locale andine.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.781256,
+                        -13.491214
+                  ]
+            },
+            {
+                  "name": "Mercado Vinocanchón",
+                  "text": "O piață locală mare, unde se vând fructe și legume regionale, precum și provizii zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.887769,
+                        -13.543583
+                  ]
+            },
+            {
+                  "name": "Mercado de Frutas",
+                  "text": "O piață specializată de fructe unde vânzătorii expun o varietate colorată de produse proaspete, de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.891887,
+                        -13.548872
+                  ]
+            },
+            {
+                  "name": "La Cachina Imperial",
+                  "text": "O piață de vechituri populară, cunoscută pentru tarabele sale diverse care vând bunuri la mâna a doua și produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.836586,
+                        -13.566375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sinkuna Kancha",
+                  "text": "An ancient archaeological site featuring historic stone ruins from the pre-Columbian era.",
+                  "category": "historical",
+                  "coords": [
+                        -71.784549,
+                        -13.571204
+                  ]
+            },
+            {
+                  "name": "Intiwatana",
+                  "text": "An ancient Incan archaeological site featuring a ritual stone traditionally associated with the sun.",
+                  "category": "historical",
+                  "coords": [
+                        -71.785301,
+                        -13.569334
+                  ]
+            },
+            {
+                  "name": "Pucará",
+                  "text": "A historic archaeological site characterized by its defensive stone structures.",
+                  "category": "historical",
+                  "coords": [
+                        -71.778889,
+                        -13.56
+                  ]
+            },
+            {
+                  "name": "Huaypun",
+                  "text": "A mountain peak rising significantly above the historic Tipón area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.761669,
+                        -13.548361
+                  ]
+            },
+            {
+                  "name": "Pachatusan",
+                  "text": "A prominent mountain viewpoint known as the 'Prop of the Earth' in Incan mythology.",
+                  "category": "natural",
+                  "coords": [
+                        -71.791767,
+                        -13.516743
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Wanakawri",
+                  "text": "An ancient archaeological site located on the historically significant Huanacaure mountain.",
+                  "category": "historical",
+                  "coords": [
+                        -71.907676,
+                        -13.593999
+                  ]
+            },
+            {
+                  "name": "Wanakawri",
+                  "text": "A legendary mountain peak in Incan mythology where Manco Capac is said to have tested his golden staff.",
+                  "category": "natural",
+                  "coords": [
+                        -71.906387,
+                        -13.593751
+                  ]
+            },
+            {
+                  "name": "Mirador Muyuc Willka Usno Qosqo Qhawarina",
+                  "text": "A scenic viewpoint offering sweeping views over the historic landscape toward Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.849374,
+                        -13.573018
+                  ]
+            },
+            {
+                  "name": "Zoologico Mundo Andino - Tipon",
+                  "text": "A zoological park in Tipón exhibiting native Andean wildlife species.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.785766,
+                        -13.580086
+                  ]
+            },
+            {
+                  "name": "Pukará alto",
+                  "text": "An elevated archaeological site featuring the remains of ancient stone fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        -71.785777,
+                        -13.560479
+                  ]
+            },
+            {
+                  "name": "Tipón",
+                  "text": "A major historical attraction showcasing beautifully preserved Incan agricultural terraces and advanced aqueducts.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.783641,
+                        -13.569926
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Raq'araq'ayniyoq",
+                  "text": "An ancient archaeological site displaying early stone ruins amidst the Andean terrain.",
+                  "category": "historical",
+                  "coords": [
+                        -71.877976,
+                        -13.529446
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO DE CHIMARAQAY",
+                  "text": "A historic archaeological site featuring traditional stone structural remains.",
+                  "category": "historical",
+                  "coords": [
+                        -71.875464,
+                        -13.532716
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Patapata",
+                  "text": "This archaeological site near Tipón features pre-Columbian stone ruins and ancient terraces.",
+                  "category": "historical",
+                  "coords": [
+                        -71.876737,
+                        -13.542826
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tipón",
+                  "text": "This Christian church serves the local parish community in the Tipón area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.782998,
+                        -13.582385
+                  ]
+            },
+            {
+                  "name": "Templo Patrón Salvador del Mundo",
+                  "text": "This Christian temple dedicated to the Savior of the World serves as a focal point for local worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.777994,
+                        -13.4927
+                  ]
+            },
+            {
+                  "name": "Templo de San Jerónimo",
+                  "text": "This traditional Christian temple in the San Jerónimo district features historic colonial architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.883683,
+                        -13.543933
+                  ]
+            },
+            {
+                  "name": "Mercado San Salvador",
+                  "text": "This bustling marketplace offers fresh agricultural produce and local Andean goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.781256,
+                        -13.491214
+                  ]
+            },
+            {
+                  "name": "Mercado Vinocanchón",
+                  "text": "A large local market selling regional fruits, vegetables, and everyday supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.887769,
+                        -13.543583
+                  ]
+            },
+            {
+                  "name": "Mercado de Frutas",
+                  "text": "A specialized fruit market where vendors display a colorful variety of fresh, seasonal produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.891887,
+                        -13.548872
+                  ]
+            },
+            {
+                  "name": "La Cachina Imperial",
+                  "text": "A popular flea market known for its diverse stalls selling second-hand goods and local wares.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.836586,
+                        -13.566375
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-CUS",
     coords: [-71.821, -13.571],
@@ -219,7 +3090,196 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Les terrasses servaient probablement de station de recherche pour la culture de plantes spécifiques.", "À proximité se trouvent les restes d'un ancien mur inca qui protégeait toute la vallée.", "Des ingénieurs du monde entier visitent Tipón pour étudier l'ancienne technologie hydraulique.", "La source jaillit directement de la montagne et ne tarit jamais, même pendant la saison sèche.", "Tipón est situé sur la route entre Cusco et Puno dans le district d'Oropesa."],
     }, image: "/poi-images/tipon-history-v2.webp"},
   {
-    id: "puka-pukara-history-v2",
+    id: "puka-pukara-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pillku Urqu",
+                  "text": "Der markante Gipfel des Pillku Urqu, was auf Quechua „roter Berg“ bedeutet, überragt die umliegende Landschaft und bietet atemberaubende Ausblicke auf das Cusco-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -71.880562,
+                        -13.497289
+                  ]
+            },
+            {
+                  "name": "Sitio arqueologico Casa hacienda Pumamarca",
+                  "text": "Diese Stätte verbindet die alten terrassierten Ruinen der ursprünglichen Siedlung Pumamarca mit den Überresten einer späteren kolonialen Hacienda.",
+                  "category": "historical",
+                  "coords": [
+                        -71.919424,
+                        -13.508826
+                  ]
+            },
+            {
+                  "name": "Museo de Piedras Cusco Rumi Llaqta",
+                  "text": "Dieses Museum, das aufwendig behauene Steine und lithische Artefakte ausstellt, unterstreicht die meisterhaften Steinmetzkünste der alten andinen Kulturen.",
+                  "category": "museum",
+                  "coords": [
+                        -71.964681,
+                        -13.488763
+                  ]
+            },
+            {
+                  "name": "Mirador Ccorao",
+                  "text": "Dieser hoch gelegene Aussichtspunkt bietet einen weiten Panoramablick über die traditionellen landwirtschaftlichen Terrassen des Ccorao-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        -71.924525,
+                        -13.485392
+                  ]
+            },
+            {
+                  "name": "Puka Pukara",
+                  "text": "Dieser militärische Komplex, der wegen der Farbe seiner Steine in der Abenddämmerung als „Rote Festung“ bekannt ist, verteidigte einst die Inka-Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        -71.962148,
+                        -13.483347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pillku Urqu",
+                  "text": "A környező táj fölé magasodó, kecsua nyelven „vörös hegyet” jelentő Pillku Urqu kiemelkedő csúcsáról lélegzetelállító kilátás nyílik a Cuzco-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.880562,
+                        -13.497289
+                  ]
+            },
+            {
+                  "name": "Sitio arqueologico Casa hacienda Pumamarca",
+                  "text": "Ez a helyszín az eredeti Pumamarca település ősi teraszos romjait ötvözi egy későbbi gyarmati hacienda maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -71.919424,
+                        -13.508826
+                  ]
+            },
+            {
+                  "name": "Museo de Piedras Cusco Rumi Llaqta",
+                  "text": "A bonyolult faragású köveket és kőműves leleteket kiállító múzeum az ősi andoki kultúrák mesteri kőfaragó képességeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -71.964681,
+                        -13.488763
+                  ]
+            },
+            {
+                  "name": "Mirador Ccorao",
+                  "text": "Ez a magasan fekvő kilátó lenyűgöző panorámát nyújt a Ccorao-völgy hagyományos mezőgazdasági teraszaira.",
+                  "category": "natural",
+                  "coords": [
+                        -71.924525,
+                        -13.485392
+                  ]
+            },
+            {
+                  "name": "Puka Pukara",
+                  "text": "Az alkonyatkor vöröslő kövei miatt „Vörös Erőd” néven ismert katonai komplexum egykor az inka fővárost védte.",
+                  "category": "historical",
+                  "coords": [
+                        -71.962148,
+                        -13.483347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pillku Urqu",
+                  "text": "Dominând peisajul înconjurător, vârful proeminent Pillku Urqu, care înseamnă „munte roșu” în limba quechua, oferă priveliști uluitoare ale văii Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.880562,
+                        -13.497289
+                  ]
+            },
+            {
+                  "name": "Sitio arqueologico Casa hacienda Pumamarca",
+                  "text": "Acest sit îmbină ruinele antice terasate ale așezării originale Pumamarca cu rămășițele unei haciende coloniale ulterioare.",
+                  "category": "historical",
+                  "coords": [
+                        -71.919424,
+                        -13.508826
+                  ]
+            },
+            {
+                  "name": "Museo de Piedras Cusco Rumi Llaqta",
+                  "text": "Expunând pietre sculptate complex și artefacte litice, acest muzeu evidențiază abilitățile magistrale de pietrărie ale vechilor culturi andine.",
+                  "category": "museum",
+                  "coords": [
+                        -71.964681,
+                        -13.488763
+                  ]
+            },
+            {
+                  "name": "Mirador Ccorao",
+                  "text": "Acest punct de belvedere situat la mare altitudine oferă o panoramă vastă asupra teraselor agricole tradiționale din valea Ccorao.",
+                  "category": "natural",
+                  "coords": [
+                        -71.924525,
+                        -13.485392
+                  ]
+            },
+            {
+                  "name": "Puka Pukara",
+                  "text": "Cunoscut sub numele de „Fortăreața Roșie” datorită culorii pietrelor sale la amurg, acest complex militar a apărat cândva capitala incașă.",
+                  "category": "historical",
+                  "coords": [
+                        -71.962148,
+                        -13.483347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pillku Urqu",
+                  "text": "Towering over the surrounding landscape, the prominent peak of Pillku Urqu, meaning \"red mountain\" in Quechua, offers breathtaking vistas of the Cusco valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.880562,
+                        -13.497289
+                  ]
+            },
+            {
+                  "name": "Sitio arqueologico Casa hacienda Pumamarca",
+                  "text": "This site blends the ancient terraced ruins of the original Pumamarca settlement with the remains of a later colonial hacienda.",
+                  "category": "historical",
+                  "coords": [
+                        -71.919424,
+                        -13.508826
+                  ]
+            },
+            {
+                  "name": "Museo de Piedras Cusco Rumi Llaqta",
+                  "text": "Exhibiting intricately carved stones and lithic artifacts, this museum highlights the masterful stonemasonry skills of the ancient Andean cultures.",
+                  "category": "museum",
+                  "coords": [
+                        -71.964681,
+                        -13.488763
+                  ]
+            },
+            {
+                  "name": "Mirador Ccorao",
+                  "text": "This high-altitude viewpoint provides panoramic, sweeping vistas over the traditional farming terraces of the Ccorao valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.924525,
+                        -13.485392
+                  ]
+            },
+            {
+                  "name": "Puka Pukara",
+                  "text": "Known as the \"Red Fortress\" due to the color of its stones at dusk, this military complex once defended the Inca capital.",
+                  "category": "historical",
+                  "coords": [
+                        -71.962148,
+                        -13.483347
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-CUS",
     coords: [-71.961, -13.483],
@@ -246,7 +3306,520 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Le site est situé à proximité immédiate du sanctuaire de l'eau de Tambomachay.", "Puka Pukara dispose de nombreuses petites chambres qui servaient de dortoirs aux gardes.", "Les murs sont moins finement travaillés qu'à Cusco, ce qui souligne la vocation militaire.", "En raison de son emplacement, le site servait probablement aussi de lieu de repos pour la suite de l'Inca.", "La couleur rouge provient de la forte teneur en fer de la roche locale."],
     }, image: "/poi-images/puka-pukara-history-v2.webp"},
     {
-    id: "pikillaqta-history-v2",
+    id: "pikillaqta-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morada Huáscar",
+                  "text": "Eine archäologische Ruine in der Nähe von Pikillaqta, die vermutlich mit dem Inka-Adel in Verbindung stand.",
+                  "category": "historical",
+                  "coords": [
+                        -71.723056,
+                        -13.626944
+                  ]
+            },
+            {
+                  "name": "Pikillaqta Sector Minaspata",
+                  "text": "Ein spezieller Sektor des riesigen Pikillaqta-Komplexes mit Überresten steinerner Wari-Strukturen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.725536,
+                        -13.627274
+                  ]
+            },
+            {
+                  "name": "Choccepujo",
+                  "text": "Diese archäologische Stätte umfasst massive steinerne Mauern einer alten Wari- und Inka-Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -71.733889,
+                        -13.607311
+                  ]
+            },
+            {
+                  "name": "Pikillaqta",
+                  "text": "Diese präkolumbianische Wari-Stätte ist für ihr strenges, gitterförmiges Layout bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        -71.708691,
+                        -13.620783
+                  ]
+            },
+            {
+                  "name": "Qusqu Qhawarina",
+                  "text": "Ein markanter Berggipfel in den peruanischen Anden, der weite Ausblicke auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.720829,
+                        -13.666423
+                  ]
+            },
+            {
+                  "name": "Wiraqucha",
+                  "text": "Dieser andine Berggipfel in der Region Cusco ist nach der wichtigen Inka-Gottheit Viracocha benannt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.644217,
+                        -13.668613
+                  ]
+            },
+            {
+                  "name": "Curi",
+                  "text": "Ein rauer andiner Berggipfel, der hoch über der Region aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.656013,
+                        -13.640121
+                  ]
+            },
+            {
+                  "name": "Pumacancha",
+                  "text": "Ein hoher Gipfel in den peruanischen Anden, der die zerklüftete Berglandschaft dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.666112,
+                        -13.562811
+                  ]
+            },
+            {
+                  "name": "Tauja",
+                  "text": "Dieser Berg in den Anden ist Teil der hochgelegenen Gebirgszüge der Cusco-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.720834,
+                        -13.534449
+                  ]
+            },
+            {
+                  "name": "Portada Rumikolka",
+                  "text": "Diese archäologische Stätte besticht durch ein massives steinernes Tor, das auch als antikes Aquädukt diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.70751,
+                        -13.621688
+                  ]
+            },
+            {
+                  "name": "Piquillacta",
+                  "text": "Diese denkmalgeschützte archäologische Stätte bewahrt die Ruinen einer ausgedehnten, vorinkaischen Wari-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.717572,
+                        -13.612167
+                  ]
+            },
+            {
+                  "name": "Iglesia de Andahuaylillas",
+                  "text": "Diese historische Kirche ist berühmt für ihre spektakulären Fresken und wird oft als \"Sixtinische Kapelle der Anden\" bezeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -71.677852,
+                        -13.674598
+                  ]
+            },
+            {
+                  "name": "Casa de retiro de la vid",
+                  "text": "Ein friedliches christliches Exerzitienhaus inmitten der ruhigen andinen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.666338,
+                        -13.670571
+                  ]
+            },
+            {
+                  "name": "Templo de Ccoñamuro",
+                  "text": "Dieser lokale christliche Tempel dient als religiöser Versammlungsort für die Gemeinde von Ccoñamuro.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.641186,
+                        -13.621472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morada Huáscar",
+                  "text": "Egy Pikillaqta közelében található régészeti rom, amely feltehetően az inka nemességhez kötődik.",
+                  "category": "historical",
+                  "coords": [
+                        -71.723056,
+                        -13.626944
+                  ]
+            },
+            {
+                  "name": "Pikillaqta Sector Minaspata",
+                  "text": "A hatalmas Pikillaqta komplexum egyik szektora, ahol a Wari kultúra kőépítményeinek maradványai láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.725536,
+                        -13.627274
+                  ]
+            },
+            {
+                  "name": "Choccepujo",
+                  "text": "Ez a régészeti lelőhely egy ősi Wari és inka település hatalmas kőfalait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -71.733889,
+                        -13.607311
+                  ]
+            },
+            {
+                  "name": "Pikillaqta",
+                  "text": "Ez a prekolumbián Wari lelőhely szigorú, rácsos elrendezéséről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -71.708691,
+                        -13.620783
+                  ]
+            },
+            {
+                  "name": "Qusqu Qhawarina",
+                  "text": "A perui Andok egyik kiemelkedő hegycsúcsa, amely széles kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.720829,
+                        -13.666423
+                  ]
+            },
+            {
+                  "name": "Wiraqucha",
+                  "text": "Ezt a Cusco régióban található andoki hegycsúcsot a fontos inka istenségről, Viracocháról nevezték el.",
+                  "category": "natural",
+                  "coords": [
+                        -71.644217,
+                        -13.668613
+                  ]
+            },
+            {
+                  "name": "Curi",
+                  "text": "Egy zord andoki hegycsúcs, amely magasan a régió fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.656013,
+                        -13.640121
+                  ]
+            },
+            {
+                  "name": "Pumacancha",
+                  "text": "Egy magas hegycsúcs a perui Andokban, amely uralja a zord hegyvidéki tájat.",
+                  "category": "natural",
+                  "coords": [
+                        -71.666112,
+                        -13.562811
+                  ]
+            },
+            {
+                  "name": "Tauja",
+                  "text": "Ez az andoki hegy a Cusco régió magasan fekvő hegyvonulatainak része.",
+                  "category": "natural",
+                  "coords": [
+                        -71.720834,
+                        -13.534449
+                  ]
+            },
+            {
+                  "name": "Portada Rumikolka",
+                  "text": "Ez a régészeti lelőhely egy hatalmas kőkapuval büszkélkedhet, amely egykor ókori vízvezetékként is szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.70751,
+                        -13.621688
+                  ]
+            },
+            {
+                  "name": "Piquillacta",
+                  "text": "Ez a műemlékvédelem alatt álló régészeti lelőhely egy kiterjedt, inka előtti Wari város romjait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.717572,
+                        -13.612167
+                  ]
+            },
+            {
+                  "name": "Iglesia de Andahuaylillas",
+                  "text": "Ezt a látványos freskóiról híres történelmi templomot gyakran az \"Andok Sixtus-kápolnájának\" is nevezik.",
+                  "category": "religious",
+                  "coords": [
+                        -71.677852,
+                        -13.674598
+                  ]
+            },
+            {
+                  "name": "Casa de retiro de la vid",
+                  "text": "Egy békés keresztény lelkigyakorlatos ház a nyugodt andoki tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.666338,
+                        -13.670571
+                  ]
+            },
+            {
+                  "name": "Templo de Ccoñamuro",
+                  "text": "Ez a helyi keresztény templom vallási gyülekezőhelyként szolgál a ccoñamurói közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.641186,
+                        -13.621472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morada Huáscar",
+                  "text": "O ruină arheologică din apropiere de Pikillaqta, despre care se crede că a fost asociată cu nobilimea incașă.",
+                  "category": "historical",
+                  "coords": [
+                        -71.723056,
+                        -13.626944
+                  ]
+            },
+            {
+                  "name": "Pikillaqta Sector Minaspata",
+                  "text": "Un sector specific al vastului complex Pikillaqta, care prezintă rămășițe ale structurilor de piatră Wari.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.725536,
+                        -13.627274
+                  ]
+            },
+            {
+                  "name": "Choccepujo",
+                  "text": "Acest sit arheologic cuprinde zidurile masive de piatră ale unei vechi așezări Wari și Inca.",
+                  "category": "historical",
+                  "coords": [
+                        -71.733889,
+                        -13.607311
+                  ]
+            },
+            {
+                  "name": "Pikillaqta",
+                  "text": "Acest sit pre-columbian Wari este cunoscut pentru aspectul său strict, sub formă de grilă.",
+                  "category": "historical",
+                  "coords": [
+                        -71.708691,
+                        -13.620783
+                  ]
+            },
+            {
+                  "name": "Qusqu Qhawarina",
+                  "text": "Un vârf montan proeminent din Anzii peruvieni, oferind priveliști ample asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -71.720829,
+                        -13.666423
+                  ]
+            },
+            {
+                  "name": "Wiraqucha",
+                  "text": "Acest vârf andin din regiunea Cusco poartă numele importantei zeități incașe Viracocha.",
+                  "category": "natural",
+                  "coords": [
+                        -71.644217,
+                        -13.668613
+                  ]
+            },
+            {
+                  "name": "Curi",
+                  "text": "Un vârf montan andin accidentat care se înalță impunător deasupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -71.656013,
+                        -13.640121
+                  ]
+            },
+            {
+                  "name": "Pumacancha",
+                  "text": "Un vârf înalt din Anzii peruvieni care domină peisajul montan accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        -71.666112,
+                        -13.562811
+                  ]
+            },
+            {
+                  "name": "Tauja",
+                  "text": "Acest munte din Anzi face parte din lanțurile muntoase de mare altitudine ale regiunii Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.720834,
+                        -13.534449
+                  ]
+            },
+            {
+                  "name": "Portada Rumikolka",
+                  "text": "Acest sit arheologic se mândrește cu o poartă masivă de piatră care a servit și ca apeduct antic.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.70751,
+                        -13.621688
+                  ]
+            },
+            {
+                  "name": "Piquillacta",
+                  "text": "Acest sit arheologic de patrimoniu păstrează ruinele unui vast oraș pre-incaș Wari.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.717572,
+                        -13.612167
+                  ]
+            },
+            {
+                  "name": "Iglesia de Andahuaylillas",
+                  "text": "Faimoasă pentru frescele sale spectaculoase, această biserică istorică este adesea numită „Capela Sixtină a Anzilor”.",
+                  "category": "religious",
+                  "coords": [
+                        -71.677852,
+                        -13.674598
+                  ]
+            },
+            {
+                  "name": "Casa de retiro de la vid",
+                  "text": "O casă de retragere creștină liniștită, situată în peisajul andin pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.666338,
+                        -13.670571
+                  ]
+            },
+            {
+                  "name": "Templo de Ccoñamuro",
+                  "text": "Acest templu creștin local servește ca loc de adunare religioasă pentru comunitatea din Ccoñamuro.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.641186,
+                        -13.621472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morada Huáscar",
+                  "text": "An archaeological ruin near Pikillaqta believed to be associated with Inca nobility.",
+                  "category": "historical",
+                  "coords": [
+                        -71.723056,
+                        -13.626944
+                  ]
+            },
+            {
+                  "name": "Pikillaqta Sector Minaspata",
+                  "text": "A specific sector of the vast Pikillaqta complex featuring remnants of Wari stone structures.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.725536,
+                        -13.627274
+                  ]
+            },
+            {
+                  "name": "Chuqi Pukyu",
+                  "text": "This archaeological site features the massive stone walls of an ancient Wari and Inca settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -71.733889,
+                        -13.607311
+                  ]
+            },
+            {
+                  "name": "Pikillaqta",
+                  "text": "This pre-Columbian Wari site is renowned for its strict, grid-like architectural layout.",
+                  "category": "historical",
+                  "coords": [
+                        -71.708691,
+                        -13.620783
+                  ]
+            },
+            {
+                  "name": "Qusqu Qhawarina",
+                  "text": "A prominent mountain peak in the Peruvian Andes offering wide views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.720829,
+                        -13.666423
+                  ]
+            },
+            {
+                  "name": "Wiraqucha",
+                  "text": "This Andean mountain peak in the Cusco region is named after the important Inca deity Viracocha.",
+                  "category": "natural",
+                  "coords": [
+                        -71.644217,
+                        -13.668613
+                  ]
+            },
+            {
+                  "name": "Curi",
+                  "text": "A rugged Andean mountain peak that towers high above the region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.656013,
+                        -13.640121
+                  ]
+            },
+            {
+                  "name": "Pumacancha",
+                  "text": "A high peak in the Peruvian Andes that dominates the rugged mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.666112,
+                        -13.562811
+                  ]
+            },
+            {
+                  "name": "Tauja",
+                  "text": "This Andean mountain is part of the high-altitude ranges of the Cusco region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.720834,
+                        -13.534449
+                  ]
+            },
+            {
+                  "name": "Rumiqullqa",
+                  "text": "This archaeological site boasts a massive stone gate that also served as an ancient aqueduct.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.70751,
+                        -13.621688
+                  ]
+            },
+            {
+                  "name": "Piquillacta",
+                  "text": "This heritage archaeological site preserves the ruins of an extensive pre-Inca Wari city.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.717572,
+                        -13.612167
+                  ]
+            },
+            {
+                  "name": "Iglesia de Andahuaylillas",
+                  "text": "Famous for its spectacular frescoes, this historic church is often referred to as the \"Sistine Chapel of the Andes.\"",
+                  "category": "religious",
+                  "coords": [
+                        -71.677852,
+                        -13.674598
+                  ]
+            },
+            {
+                  "name": "Casa de retiro de la vid",
+                  "text": "A peaceful Christian retreat house set amid the tranquil Andean landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.666338,
+                        -13.670571
+                  ]
+            },
+            {
+                  "name": "Templo de Ccoñamuro",
+                  "text": "This local Christian temple serves as a religious gathering place for the community of Ccoñamuro.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.641186,
+                        -13.621472
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-CUS",
     coords: [-71.716, -13.613],
@@ -273,7 +3846,520 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Le nom Pikillaqta signifie « ville des puces », faisant allusion aux petites unités d'habitation.", "Des figurines en turquoise représentant l'élite Wari ont été trouvées sur le site.", "La ville a probablement été abandonnée vers l'an 1100 apr. J.-C. en raison de l'effondrement de l'empire Wari.", "Les murs des bâtiments s'élevaient autrefois jusqu'à 12 mètres de haut.", "Pikillaqta est stratégiquement située au bord de la lagune de Huacarpay."],
     }, image: "/poi-images/pikillaqta-history-v2.webp"},
   {
-    id: "qorikancha-history-v2",
+    id: "qorikancha-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Sitio Qorikancha",
+                  "text": "Das Museo de Sitio Qorikancha befindet sich unterirdisch unter dem Sonnentempel und zeigt präkolumbianische Artefakte, Mumien und Keramiken.",
+                  "category": "museum",
+                  "coords": [
+                        -71.975943,
+                        -13.520975
+                  ]
+            },
+            {
+                  "name": "Palacio Inka del Kusikancha",
+                  "text": "Das Palacio Inka del Kusikancha in Cusco ist ein historisches Inka-Gebäude, in dem angeblich der berühmte Herrscher Pachacútec geboren wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -71.975915,
+                        -13.518905
+                  ]
+            },
+            {
+                  "name": "ICPNA",
+                  "text": "Das ICPNA (Instituto Cultural Peruano Norteamericano) in Cusco ist ein lebendiges Kunstzentrum, das den kulturellen Austausch durch Ausstellungen und Veranstaltungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.973261,
+                        -13.520995
+                  ]
+            },
+            {
+                  "name": "Museo Quechua",
+                  "text": "Das Museo Quechua in Cusco bewahrt die Traditionen, Sprache und Webkünste der andinen indigenen Gemeinschaften.",
+                  "category": "museum",
+                  "coords": [
+                        -71.974754,
+                        -13.520105
+                  ]
+            },
+            {
+                  "name": "Z.A. QHATAQ'ASAPATALLAQTA",
+                  "text": "Die archäologische Zone Z.A. QHATAQ'ASAPATALLAQTA bei Cusco umfasst verstreute Überreste von inkazeitlichen Terrassen und Wohnstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        -71.989619,
+                        -13.534435
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de Belén",
+                  "text": "Die Iglesia de Nuestra Señora de Belén ist eine christliche Kirche in Cusco mit markanten kolonialen Zwillingstürmen und reich verziertem Altar.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.981322,
+                        -13.52721
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Chapi",
+                  "text": "Die Capilla Virgen de Chapi ist eine kleine christliche Kapelle, die der in den Anden tief verehrten Jungfrau von Chapi gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.97438,
+                        -13.528262
+                  ]
+            },
+            {
+                  "name": "Iglesia San Martín de porres",
+                  "text": "Die Iglesia San Martín de Porres ehrt den ersten schwarzen Heiligen Amerikas und dient der lokalen christlichen Gemeinde in Cusco.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.980684,
+                        -13.535743
+                  ]
+            },
+            {
+                  "name": "Capilla de Zarzuela",
+                  "text": "Die Capilla de Zarzuela ist eine malerische Nachbarschaftskapelle in Cusco, in der traditionelle christliche Messen für die Anwohner abgehalten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.985621,
+                        -13.533205
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses Gebäude der Kirche Jesu Christi der Heiligen der Letzten Tage im Gebiet von Cusco ist ein modernes Versammlungshaus für die örtlichen Mormonen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.984343,
+                        -13.525667
+                  ]
+            },
+            {
+                  "name": "Mercado Artesanal Qoricancha Nº 22",
+                  "text": "Der Mercado Artesanal Qoricancha Nº 22 ist ein lebhafter Markt unweit des Sonnentempels, der bunte Alpakapullover, Souvenirs und Kunsthandwerk anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.975276,
+                        -13.522206
+                  ]
+            },
+            {
+                  "name": "Mercado de San Blas",
+                  "text": "Der Mercado de San Blas befindet sich im gleichnamigen Künstlerviertel von Cusco und bietet frische lokale Produkte, Säfte und andine Zutaten.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.972973,
+                        -13.515604
+                  ]
+            },
+            {
+                  "name": "Mercado de Huancaro",
+                  "text": "Der Mercado de Huancaro am Rande von Cusco ist ein riesiger Wochenmarkt, auf dem Bauern aus der Region Kartoffeln, Quinoa und Vieh direkt verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.980291,
+                        -13.536858
+                  ]
+            },
+            {
+                  "name": "Mercado zonal de Zarzuela",
+                  "text": "Der Mercado zonal de Zarzuela dient als zentraler Versorgungsmarkt für die Bewohner dieses Cusco-Viertels und besticht durch authentisches lokales Flair.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.984242,
+                        -13.52817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Sitio Qorikancha",
+                  "text": "A Naptemplom alatt a föld alatt található Museo de Sitio Qorikancha Kolumbusz előtti leleteket, múmiákat és kerámiákat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -71.975943,
+                        -13.520975
+                  ]
+            },
+            {
+                  "name": "Palacio Inka del Kusikancha",
+                  "text": "A cuscoi Palacio Inka del Kusikancha egy történelmi inka épület, ahol a híres uralkodó, Pachacútec állítólag született.",
+                  "category": "historical",
+                  "coords": [
+                        -71.975915,
+                        -13.518905
+                  ]
+            },
+            {
+                  "name": "ICPNA",
+                  "text": "A cuscoi ICPNA (Instituto Cultural Peruano Norteamericano) egy nyüzsgő művészeti központ, amely kiállításokon és rendezvényeken keresztül segíti a kulturális cserét.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.973261,
+                        -13.520995
+                  ]
+            },
+            {
+                  "name": "Museo Quechua",
+                  "text": "A cuscoi Museo Quechua az andoki őslakos közösségek hagyományait, nyelvét és szövőművészetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -71.974754,
+                        -13.520105
+                  ]
+            },
+            {
+                  "name": "Z.A. QHATAQ'ASAPATALLAQTA",
+                  "text": "A Cusco közeli Z.A. QHATAQ'ASAPATALLAQTA régészeti zóna inka kori teraszok és lakóépületek szétszórt maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        -71.989619,
+                        -13.534435
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de Belén",
+                  "text": "Az Iglesia de Nuestra Señora de Belén egy keresztény templom Cuscóban, feltűnő gyarmati ikertornyokkal és gazdagon díszített oltárral.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.981322,
+                        -13.52721
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Chapi",
+                  "text": "A Capilla Virgen de Chapi egy kis keresztény kápolna, amelyet az Andokban mélyen tisztelt Chapi Szűznek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.97438,
+                        -13.528262
+                  ]
+            },
+            {
+                  "name": "Iglesia San Martín de porres",
+                  "text": "Az Iglesia San Martín de Porres Amerika első fekete szentjét tiszteli, és a helyi cuscoi keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.980684,
+                        -13.535743
+                  ]
+            },
+            {
+                  "name": "Capilla de Zarzuela",
+                  "text": "A Capilla de Zarzuela egy festői szomszédsági kápolna Cuscóban, ahol hagyományos keresztény miséket tartanak a helyi lakosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.985621,
+                        -13.533205
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A cuscoi térségben található Az Utolsó Napi Szentek Jézus Krisztus Egyháza épülete egy modern gyülekezeti ház a helyi mormonok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.984343,
+                        -13.525667
+                  ]
+            },
+            {
+                  "name": "Mercado Artesanal Qoricancha Nº 22",
+                  "text": "A Mercado Artesanal Qoricancha Nº 22 egy nyüzsgő piac a Naptemplom közelében, amely színes alpakapulóvereket, ajándéktárgyakat és kézműves termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.975276,
+                        -13.522206
+                  ]
+            },
+            {
+                  "name": "Mercado de San Blas",
+                  "text": "A Mercado de San Blas az azonos nevű cuscoi művésznegyedben található, és friss helyi termékeket, gyümölcsleveket és andoki alapanyagokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.972973,
+                        -13.515604
+                  ]
+            },
+            {
+                  "name": "Mercado de Huancaro",
+                  "text": "A Cusco szélén található Mercado de Huancaro egy hatalmas heti piac, ahol a környékbeli gazdák közvetlenül árulnak burgonyát, quinoát és állatokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.980291,
+                        -13.536858
+                  ]
+            },
+            {
+                  "name": "Mercado zonal de Zarzuela",
+                  "text": "A Mercado zonal de Zarzuela központi ellátó piacként szolgál a cuscoi negyed lakói számára, és autentikus helyi hangulattal vonz.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.984242,
+                        -13.52817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Sitio Qorikancha",
+                  "text": "Museo de Sitio Qorikancha este situat în subteran, sub Templul Soarelui, prezentând artefacte precolumbiene, mumii și ceramică.",
+                  "category": "museum",
+                  "coords": [
+                        -71.975943,
+                        -13.520975
+                  ]
+            },
+            {
+                  "name": "Palacio Inka del Kusikancha",
+                  "text": "Palacio Inka del Kusikancha din Cusco este o clădire istorică incașă unde se spune că s-a născut faimosul conducător Pachacútec.",
+                  "category": "historical",
+                  "coords": [
+                        -71.975915,
+                        -13.518905
+                  ]
+            },
+            {
+                  "name": "ICPNA",
+                  "text": "ICPNA (Instituto Cultural Peruano Norteamericano) din Cusco este un centru de artă vibrant care promovează schimbul cultural prin expoziții și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.973261,
+                        -13.520995
+                  ]
+            },
+            {
+                  "name": "Museo Quechua",
+                  "text": "Muzeul Quechua din Cusco conservă tradițiile, limba și arta țesutului comunităților indigene andine.",
+                  "category": "museum",
+                  "coords": [
+                        -71.974754,
+                        -13.520105
+                  ]
+            },
+            {
+                  "name": "Z.A. QHATAQ'ASAPATALLAQTA",
+                  "text": "Zona arheologică Z.A. QHATAQ'ASAPATALLAQTA de lângă Cusco cuprinde rămășițe împrăștiate de terase și structuri rezidențiale din epoca incașă.",
+                  "category": "historical",
+                  "coords": [
+                        -71.989619,
+                        -13.534435
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de Belén",
+                  "text": "Iglesia de Nuestra Señora de Belén este o biserică creștină din Cusco cu turnuri gemene coloniale izbitoare și un altar bogat ornamentat.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.981322,
+                        -13.52721
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Chapi",
+                  "text": "Capilla Virgen de Chapi este o mică capelă creștină dedicată Fecioarei de Chapi, profund venerată în Anzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.97438,
+                        -13.528262
+                  ]
+            },
+            {
+                  "name": "Iglesia San Martín de porres",
+                  "text": "Iglesia San Martín de Porres îl onorează pe primul sfânt de culoare al Americii și servește comunitatea creștină locală din Cusco.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.980684,
+                        -13.535743
+                  ]
+            },
+            {
+                  "name": "Capilla de Zarzuela",
+                  "text": "Capilla de Zarzuela este o capelă de cartier pitorească din Cusco, unde se țin slujbe creștine tradiționale pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.985621,
+                        -13.533205
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această clădire a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din zona Cusco este o casă de adunări modernă pentru mormonii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.984343,
+                        -13.525667
+                  ]
+            },
+            {
+                  "name": "Mercado Artesanal Qoricancha Nº 22",
+                  "text": "Mercado Artesanal Qoricancha Nº 22 este o piață plină de viață lângă Templul Soarelui, care oferă pulovere colorate din alpaca, suveniruri și obiecte de artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.975276,
+                        -13.522206
+                  ]
+            },
+            {
+                  "name": "Mercado de San Blas",
+                  "text": "Mercado de San Blas este situat în cartierul omonim al artiștilor din Cusco și oferă produse locale proaspete, sucuri și ingrediente andine.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.972973,
+                        -13.515604
+                  ]
+            },
+            {
+                  "name": "Mercado de Huancaro",
+                  "text": "Mercado de Huancaro, la marginea orașului Cusco, este o imensă piață săptămânală unde fermierii din regiune vând direct cartofi, quinoa și animale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.980291,
+                        -13.536858
+                  ]
+            },
+            {
+                  "name": "Mercado zonal de Zarzuela",
+                  "text": "Mercado zonal de Zarzuela servește ca piață centrală de aprovizionare pentru locuitorii acestui cartier din Cusco, captivând printr-o atmosferă locală autentică.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.984242,
+                        -13.52817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Sitio Qorikancha",
+                  "text": "Located underground beneath the Sun Temple, the Museo de Sitio Qorikancha displays pre-Columbian artifacts, mummies, and ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        -71.975943,
+                        -13.520975
+                  ]
+            },
+            {
+                  "name": "Palacio Inka del Kusikancha",
+                  "text": "The Palacio Inka del Kusikancha in Cusco is a historic Inca compound where the famous ruler Pachacútec was allegedly born.",
+                  "category": "historical",
+                  "coords": [
+                        -71.975915,
+                        -13.518905
+                  ]
+            },
+            {
+                  "name": "ICPNA",
+                  "text": "The ICPNA (Instituto Cultural Peruano Norteamericano) in Cusco is a vibrant arts center fostering cultural exchange through exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.973261,
+                        -13.520995
+                  ]
+            },
+            {
+                  "name": "Museo Quechua",
+                  "text": "The Museo Quechua in Cusco preserves the traditions, language, and weaving arts of the Andean indigenous communities.",
+                  "category": "museum",
+                  "coords": [
+                        -71.974754,
+                        -13.520105
+                  ]
+            },
+            {
+                  "name": "Z.A. QHATAQ'ASAPATALLAQTA",
+                  "text": "The archaeological zone of Z.A. QHATAQ'ASAPATALLAQTA near Cusco includes scattered remains of Inca-era terraces and residential structures.",
+                  "category": "historical",
+                  "coords": [
+                        -71.989619,
+                        -13.534435
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de Belén",
+                  "text": "The Iglesia de Nuestra Señora de Belén is a Christian church in Cusco featuring striking colonial twin towers and a richly decorated altar.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.981322,
+                        -13.52721
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Chapi",
+                  "text": "The Capilla Virgen de Chapi is a small Christian chapel dedicated to the Virgin of Chapi, deeply venerated in the Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.97438,
+                        -13.528262
+                  ]
+            },
+            {
+                  "name": "Iglesia San Martín de porres",
+                  "text": "The Iglesia San Martín de Porres honors the first Black saint of the Americas and serves the local Christian community in Cusco.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.980684,
+                        -13.535743
+                  ]
+            },
+            {
+                  "name": "Capilla de Zarzuela",
+                  "text": "The Capilla de Zarzuela is a picturesque neighborhood chapel in Cusco where traditional Christian masses are held for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.985621,
+                        -13.533205
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This Church of Jesus Christ of Latter-day Saints building in the Cusco area is a modern meetinghouse for local Mormons.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.984343,
+                        -13.525667
+                  ]
+            },
+            {
+                  "name": "Mercado Artesanal Qoricancha Nº 22",
+                  "text": "The Mercado Artesanal Qoricancha Nº 22 is a lively market near the Sun Temple offering colorful alpaca sweaters, souvenirs, and handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.975276,
+                        -13.522206
+                  ]
+            },
+            {
+                  "name": "Mercado de San Blas",
+                  "text": "The Mercado de San Blas is located in the eponymous artisan district of Cusco, offering fresh local produce, juices, and Andean ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.972973,
+                        -13.515604
+                  ]
+            },
+            {
+                  "name": "Mercado de Huancaro",
+                  "text": "The Mercado de Huancaro on the outskirts of Cusco is a massive weekly market where regional farmers sell potatoes, quinoa, and livestock directly.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.980291,
+                        -13.536858
+                  ]
+            },
+            {
+                  "name": "Mercado zonal de Zarzuela",
+                  "text": "The Mercado zonal de Zarzuela serves as a central supply market for the residents of this Cusco neighborhood, offering an authentic local vibe.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.984242,
+                        -13.52817
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-CUS",
     coords: [-71.975, -13.52],
@@ -300,7 +4386,448 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Qorikancha signifie \"Enclos d'Or\" en quechua.", "Le temple servait également d'observatoire pour surveiller les solstices.", "Le complexe abritait les momies des souverains incas défunts.", "Les blocs de pierre sont si finement taillés qu'aucun joint n'est visible entre eux.", "Aujourd'hui, les visiteurs peuvent admirer aussi bien les chambres incas que l'architecture coloniale."],
     }, image: "/poi-images/qorikancha-history-v2.webp"},
   {
-    id: "cahuachi-history-v2",
+    id: "cahuachi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trapeze",
+                  "text": "Diese riesigen trapezförmigen Geoglyphen sind Teil der berühmten Nazca-Linien, bestehend aus riesigen gerodeten geometrischen Bereichen auf der Wüstenhochebene.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.055236,
+                        -14.79815
+                  ]
+            },
+            {
+                  "name": "Geoglifico de un Espiritu Cerrado",
+                  "text": "Dieses mysteriöse antike Geoglyph bei Cahuachi stellt einen „geschlossenen Geist“ dar, dessen kryptische Form tief in den Wüstenboden geritzt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -75.079745,
+                        -14.789754
+                  ]
+            },
+            {
+                  "name": "Geoglifo del Dios Mono",
+                  "text": "Eine große Bodenzeichnung, die eine Affengottheit darstellt und in den trockenen Wüstenboden nahe Cahuachi geritzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -75.096565,
+                        -14.804515
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un Jinete Arrojado",
+                  "text": "Eine archäologische Stätte mit einer Bodenzeichnung in der Wüstenlandschaft, die als abgeworfener Reiter interpretiert wird.",
+                  "category": "historical",
+                  "coords": [
+                        -75.076155,
+                        -14.804747
+                  ]
+            },
+            {
+                  "name": "Geotroglifo de un Pájaro Apuntando al Norte",
+                  "text": "Eine vogelförmige Bodenzeichnung, die genau nach Norden über die weiten Wüstenebenen ausgerichtet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -75.075181,
+                        -14.80825
+                  ]
+            },
+            {
+                  "name": "Pirámide Naranja",
+                  "text": "Eine antike Pyramidenruine im Zeremonialzentrum Cahuachi, die nach ihrer auffälligen orangefarbenen Tönung benannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -75.116494,
+                        -14.817253
+                  ]
+            },
+            {
+                  "name": "Cahuachi temple-pyramid",
+                  "text": "Eine monumentale Pyramidenstruktur aus Lehmziegeln, die der antiken Nazca-Kultur als wichtiges Zeremonial- und Pilgerzentrum diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.11668,
+                        -14.819208
+                  ]
+            },
+            {
+                  "name": "Estaquería",
+                  "text": "Eine antike Ausgrabungsstätte, die durch erhaltene Reihen von Huarango-Holzpfählen in der trockenen Umgebung gekennzeichnet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.14637,
+                        -14.811805
+                  ]
+            },
+            {
+                  "name": "Geoglyph of a Flying Pelican",
+                  "text": "Eine riesige Bodenzeichnung, die einen Pelikan im Flug darstellt und in die trockenen Ebenen bei Cahuachi geritzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -75.139777,
+                        -14.828047
+                  ]
+            },
+            {
+                  "name": "Cementerio de Cahuachi",
+                  "text": "Eine alte Begräbnisstätte der Nazca-Kultur, die im Wüstensand direkt neben den Zeremonialpyramiden von Cahuachi liegt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.177636,
+                        -14.819096
+                  ]
+            },
+            {
+                  "name": "Geoglifico de un toro y hombre",
+                  "text": "Eine faszinierende antike Bodenzeichnung auf der Wüstenoberfläche, welche die Figuren eines Stiers und eines Mannes umreißt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.075736,
+                        -14.792643
+                  ]
+            },
+            {
+                  "name": "aligned (washed away)",
+                  "text": "Die Überreste einer alten linearen archäologischen Struktur, die durch historische Wüstenüberflutungen weitgehend weggespült wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -75.089562,
+                        -14.789044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trapéz",
+                  "text": "Ezek a hatalmas trapéz alakú geoglifák a híres Nazca-vonalak részei, amelyek masszív, megtisztított geometriai területekből állnak a sivatagi fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.055236,
+                        -14.79815
+                  ]
+            },
+            {
+                  "name": "Geoglifico de un Espiritu Cerrado",
+                  "text": "Ez a titokzatos ősi geoglifa Cahuachiban egy „zárt szellemet” ábrázol, amelynek rejtélyes alakja mélyen a sivatag talajába vésődött.",
+                  "category": "historical",
+                  "coords": [
+                        -75.079745,
+                        -14.789754
+                  ]
+            },
+            {
+                  "name": "Geoglifo del Dios Mono",
+                  "text": "Egy majomistent ábrázoló nagy geoglifa, amelyet a Cahuachi melletti száraz sivatagi talajba véstek.",
+                  "category": "historical",
+                  "coords": [
+                        -75.096565,
+                        -14.804515
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un Jinete Arrojado",
+                  "text": "Egy régészeti lelőhely a sivatagi tájban, ahol egy ledobott lovast ábrázoló talajrajz látható.",
+                  "category": "historical",
+                  "coords": [
+                        -75.076155,
+                        -14.804747
+                  ]
+            },
+            {
+                  "name": "Geotroglifo de un Pájaro Apuntando al Norte",
+                  "text": "Egy madár alakú geoglifa, amely kifejezetten észak felé mutat a kiterjedt sivatagi síkságon.",
+                  "category": "historical",
+                  "coords": [
+                        -75.075181,
+                        -14.80825
+                  ]
+            },
+            {
+                  "name": "Pirámide Naranja",
+                  "text": "Egy ősi, romos piramis a cahuachi ceremoniális központban, amely nevét jellegzetes narancssárga árnyalatáról kapta.",
+                  "category": "historical",
+                  "coords": [
+                        -75.116494,
+                        -14.817253
+                  ]
+            },
+            {
+                  "name": "Cahuachi temple-pyramid",
+                  "text": "Egy monumentális vályogpiramis, amely az ősi Nazca-kultúra egyik fő ceremoniális és zarándokközpontjaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.11668,
+                        -14.819208
+                  ]
+            },
+            {
+                  "name": "Estaquería",
+                  "text": "Egy ősi régészeti lelőhely, amelyet a száraz környezetben megőrzött huarango fapóznák sorai jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.14637,
+                        -14.811805
+                  ]
+            },
+            {
+                  "name": "Geoglyph of a Flying Pelican",
+                  "text": "Egy repülő pelikánt ábrázoló óriási talajrajz, amelyet a Cahuachi melletti száraz síkságba véstek.",
+                  "category": "historical",
+                  "coords": [
+                        -75.139777,
+                        -14.828047
+                  ]
+            },
+            {
+                  "name": "Cementerio de Cahuachi",
+                  "text": "Egy ősi Nazca temető a sivatagi homokban, közvetlenül a cahuachi ceremoniális piramisok mellett.",
+                  "category": "historical",
+                  "coords": [
+                        -75.177636,
+                        -14.819096
+                  ]
+            },
+            {
+                  "name": "Geoglifico de un toro y hombre",
+                  "text": "Egy lenyűgöző ősi talajrajz a sivatag felszínén, amely egy bika és egy ember alakját vázolja fel.",
+                  "category": "historical",
+                  "coords": [
+                        -75.075736,
+                        -14.792643
+                  ]
+            },
+            {
+                  "name": "aligned (washed away)",
+                  "text": "Egy ősi lineáris régészeti struktúra maradványai, amelyet a történelmi sivatagi áradások nagyrészt elmostak.",
+                  "category": "historical",
+                  "coords": [
+                        -75.089562,
+                        -14.789044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trapezoids",
+                  "text": "Aceste imense geoglife trapezoidale fac parte din faimoasele Linii Nazca, constând din zone geometrice masive curățate pe platoul deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.055236,
+                        -14.79815
+                  ]
+            },
+            {
+                  "name": "Geoglifico de un Espiritu Cerrado",
+                  "text": "Acest misterios geoglif antic de la Cahuachi înfățișează un „spirit închis”, forma sa criptică fiind sculptată adânc în solul deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        -75.079745,
+                        -14.789754
+                  ]
+            },
+            {
+                  "name": "Geoglifo del Dios Mono",
+                  "text": "O geoglifă mare reprezentând o zeitate maimuță, sculptată în solul arid al deșertului din apropiere de Cahuachi.",
+                  "category": "historical",
+                  "coords": [
+                        -75.096565,
+                        -14.804515
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un Jinete Arrojado",
+                  "text": "Un sit arheologic cu un desen pe pământ interpretat ca un călăreț aruncat, gravat în peisajul deșertic.",
+                  "category": "historical",
+                  "coords": [
+                        -75.076155,
+                        -14.804747
+                  ]
+            },
+            {
+                  "name": "Geotroglifo de un Pájaro Apuntando al Norte",
+                  "text": "O geoglifă în formă de pasăre, orientată special pentru a indica nordul peste câmpiile deșertice întinse.",
+                  "category": "historical",
+                  "coords": [
+                        -75.075181,
+                        -14.80825
+                  ]
+            },
+            {
+                  "name": "Pirámide Naranja",
+                  "text": "O structură piramidală antică în ruină, numită după nuanța sa portocalie distinctă, aflată în centrul ceremonial Cahuachi.",
+                  "category": "historical",
+                  "coords": [
+                        -75.116494,
+                        -14.817253
+                  ]
+            },
+            {
+                  "name": "Cahuachi temple-pyramid",
+                  "text": "O structură piramidală monumentală din chirpici care a servit drept centru ceremonial și de pelerinaj major pentru cultura antică Nazca.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.11668,
+                        -14.819208
+                  ]
+            },
+            {
+                  "name": "Estaquería",
+                  "text": "Un sit arheologic antic caracterizat prin rânduri de stâlpi de lemn huarango care au supraviețuit în mediul uscat.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.14637,
+                        -14.811805
+                  ]
+            },
+            {
+                  "name": "Geoglyph of a Flying Pelican",
+                  "text": "Un desen uriaș pe sol, reprezentând un pelican în zbor, sculptat în câmpiile aride de lângă Cahuachi.",
+                  "category": "historical",
+                  "coords": [
+                        -75.139777,
+                        -14.828047
+                  ]
+            },
+            {
+                  "name": "Cementerio de Cahuachi",
+                  "text": "Un vechi cimitir Nazca situat în nisipurile deșertului, chiar lângă piramidele ceremoniale din Cahuachi.",
+                  "category": "historical",
+                  "coords": [
+                        -75.177636,
+                        -14.819096
+                  ]
+            },
+            {
+                  "name": "Geoglifico de un toro y hombre",
+                  "text": "Un desen antic intrigant pe sol care conturează figurile unui taur și ale unui om pe suprafața deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        -75.075736,
+                        -14.792643
+                  ]
+            },
+            {
+                  "name": "aligned (washed away)",
+                  "text": "Rămășițele unei structuri arheologice liniare antice care a fost în mare parte spălată de inundațiile istorice din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        -75.089562,
+                        -14.789044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trapezoids",
+                  "text": "These immense trapezoidal geoglyphs are part of the famous Nazca Lines, consisting of massive cleared geometric areas on the desert plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.055236,
+                        -14.79815
+                  ]
+            },
+            {
+                  "name": "Geoglifico de un Espiritu Cerrado",
+                  "text": "This mysterious ancient geoglyph at Cahuachi depicts a \"closed spirit,\" its cryptic shape etched deeply into the desert soil.",
+                  "category": "historical",
+                  "coords": [
+                        -75.079745,
+                        -14.789754
+                  ]
+            },
+            {
+                  "name": "Geoglifo del Dios Mono",
+                  "text": "A large geoglyph depicting a monkey deity, carved into the arid desert floor near the ancient center of Cahuachi.",
+                  "category": "historical",
+                  "coords": [
+                        -75.096565,
+                        -14.804515
+                  ]
+            },
+            {
+                  "name": "Geoglifo de un Jinete Arrojado",
+                  "text": "An archaeological site featuring a large ground drawing interpreted as a thrown rider etched into the desert landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -75.076155,
+                        -14.804747
+                  ]
+            },
+            {
+                  "name": "Geotroglifo de un Pájaro Apuntando al Norte",
+                  "text": "A bird-shaped geoglyph specifically oriented to point northwards across the expansive desert plains.",
+                  "category": "historical",
+                  "coords": [
+                        -75.075181,
+                        -14.80825
+                  ]
+            },
+            {
+                  "name": "Pirámide Naranja",
+                  "text": "An ancient ruined pyramid structure named for its distinct orange hue within the Cahuachi ceremonial center.",
+                  "category": "historical",
+                  "coords": [
+                        -75.116494,
+                        -14.817253
+                  ]
+            },
+            {
+                  "name": "Cahuachi temple-pyramid",
+                  "text": "A monumental adobe pyramid structure that served as a major ceremonial and pilgrimage center for the ancient Nazca culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.11668,
+                        -14.819208
+                  ]
+            },
+            {
+                  "name": "Estaquería",
+                  "text": "An ancient archaeological site characterized by surviving rows of wooden huarango posts preserved in the dry environment.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.14637,
+                        -14.811805
+                  ]
+            },
+            {
+                  "name": "Geoglyph of a Flying Pelican",
+                  "text": "A giant ground drawing depicting a pelican in mid-flight, etched deeply into the arid plains near Cahuachi.",
+                  "category": "historical",
+                  "coords": [
+                        -75.139777,
+                        -14.828047
+                  ]
+            },
+            {
+                  "name": "Cementerio de Cahuachi",
+                  "text": "An ancient Nazca burial ground located in the desert sands directly adjacent to the ceremonial pyramids of Cahuachi.",
+                  "category": "historical",
+                  "coords": [
+                        -75.177636,
+                        -14.819096
+                  ]
+            },
+            {
+                  "name": "Geoglifico de un toro y hombre",
+                  "text": "An intriguing ancient ground drawing that traces the intertwined figures of a bull and a man on the desert surface.",
+                  "category": "historical",
+                  "coords": [
+                        -75.075736,
+                        -14.792643
+                  ]
+            },
+            {
+                  "name": "aligned (washed away)",
+                  "text": "The remnants of an ancient linear archaeological structure that has been largely washed away by historical desert flooding.",
+                  "category": "historical",
+                  "coords": [
+                        -75.089562,
+                        -14.789044
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-ICA",
     coords: [-75.116, -14.816],
@@ -333,7 +4860,628 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["La plus grande pyramide de Cahuachi mesure plus de 28 mètres et compte sept niveaux.", "Des archéologues y ont trouvé de nombreuses offrandes funéraires en céramique et textiles fins.", "Des traces de boissons cérémonielles et des instruments de musique ont été découverts.", "Cahuachi est considéré comme le plus grand centre cérémoniel en briques crues au monde.", "Les fouilles sont dirigées depuis des décennies par l'archéologue italien Giuseppe Orefici."],
     }, image: "/poi-images/cahuachi-history-v2.webp"},
   {
-    id: "tucume-history-v2",
+    id: "tucume-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laguna de las Patas",
+                  "text": "Eine antike archäologische Stätte innerhalb des weitläufigen prähispanischen Komplexes von Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.867778,
+                        -6.439444
+                  ]
+            },
+            {
+                  "name": "Riendero",
+                  "text": "Freigelegte Ruinen, die Teil der weitläufigen präkolumbianischen archäologischen Landschaft von Túcume sind.",
+                  "category": "historical",
+                  "coords": [
+                        -79.831944,
+                        -6.448056
+                  ]
+            },
+            {
+                  "name": "Cirila",
+                  "text": "Eine archäologische Ausgrabungsstätte, die alte Erdstrukturen in Túcume freilegt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.835,
+                        -6.461667
+                  ]
+            },
+            {
+                  "name": "Piramides de Túcume",
+                  "text": "Ein weitläufiger präkolumbianischer Komplex in Túcume mit massiven Adobe-Pyramiden, die von der Sicán-Kultur erbaut wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -79.841667,
+                        -6.514444
+                  ]
+            },
+            {
+                  "name": "Pyramydas Túcume",
+                  "text": "Ein erhöhter Aussichtspunkt mit Panoramablick über den antiken Adobe-Pyramidenkomplex von Túcume.",
+                  "category": "natural",
+                  "coords": [
+                        -79.842556,
+                        -6.516251
+                  ]
+            },
+            {
+                  "name": "Pyramide",
+                  "text": "Monumentale Lehmziegelstrukturen, die sich dramatisch aus der Wüstenlandschaft von Túcume erheben.",
+                  "category": "historical",
+                  "coords": [
+                        -79.83981,
+                        -6.513976
+                  ]
+            },
+            {
+                  "name": "Huaca Larga",
+                  "text": "Ein riesiger Plattformhügel aus Lehmziegeln, der eine der größten präkolumbianischen Strukturen in Túcume darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.839213,
+                        -6.512898
+                  ]
+            },
+            {
+                  "name": "Perico",
+                  "text": "Alte Erdüberreste, die zum weitläufigen prähispanischen archäologischen Komplex in Túcume gehören.",
+                  "category": "historical",
+                  "coords": [
+                        -79.900833,
+                        -6.558611
+                  ]
+            },
+            {
+                  "name": "Coronado",
+                  "text": "Eine archäologische Hügelstätte, die Spuren der Prä-Inka-Kulturen in Túcume aufzeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.915556,
+                        -6.506944
+                  ]
+            },
+            {
+                  "name": "La Pava",
+                  "text": "Ein historisches archäologisches Ausgrabungsgebiet, das Licht auf die alten Gesellschaften von Túcume wirft.",
+                  "category": "historical",
+                  "coords": [
+                        -79.8975,
+                        -6.517778
+                  ]
+            },
+            {
+                  "name": "Huaca Los Gavilanes",
+                  "text": "Ein massives präkolumbianisches Adobe-Monument, das stolz im Tal von Túcume steht.",
+                  "category": "historical",
+                  "coords": [
+                        -79.848468,
+                        -6.524272
+                  ]
+            },
+            {
+                  "name": "Huaca del Balsa",
+                  "text": "Eine bedeutende Adobe-Pyramidenruine in Túcume, bekannt für ihre reiche prähispanische Geschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.847988,
+                        -6.525593
+                  ]
+            },
+            {
+                  "name": "Museo Túcume",
+                  "text": "Ein Museum, das sich der Erhaltung und Ausstellung der reichen Artefakte der Lambayeque-Kultur in Túcume widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -79.848835,
+                        -6.517563
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Túcume",
+                  "text": "Ein archäologisches Museum vor Ort in Túcume, das faszinierende Keramiken und Textilien ausstellt, die aus den umliegenden Adobe-Pyramiden ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -79.847474,
+                        -6.513695
+                  ]
+            },
+            {
+                  "name": "San Juan",
+                  "text": "Eine lokale christliche Kultstätte, die der Gemeinde in der Nähe der antiken Ruinen von Túcume dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.85503,
+                        -6.474756
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos de Pacora",
+                  "text": "Ein lebhafter lokaler Lebensmittel- und Gemüsemarkt, der die Einwohner von Pacora bei Túcume versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.840024,
+                        -6.427543
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos de Illimo",
+                  "text": "Ein traditioneller landwirtschaftlicher Markt in Illimo, der frische lokale Produkte vor den Toren von Túcume anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.85375,
+                        -6.473395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laguna de las Patas",
+                  "text": "Ősi régészeti lelőhely a hatalmas spanyol hódítás előtti Túcume komplexumban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.867778,
+                        -6.439444
+                  ]
+            },
+            {
+                  "name": "Riendero",
+                  "text": "Feltárt romok, amelyek Túcume hatalmas Kolumbusz előtti régészeti tájának részét képezik.",
+                  "category": "historical",
+                  "coords": [
+                        -79.831944,
+                        -6.448056
+                  ]
+            },
+            {
+                  "name": "Cirila",
+                  "text": "Régészeti ásatási terület, amely ősi földépítményeket tár fel Túcume-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.835,
+                        -6.461667
+                  ]
+            },
+            {
+                  "name": "Piramides de Túcume",
+                  "text": "Hatalmas Kolumbusz előtti komplexum Túcume-ban, a Sicán-kultúra által épített hatalmas vályogpiramisokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.841667,
+                        -6.514444
+                  ]
+            },
+            {
+                  "name": "Pyramydas Túcume",
+                  "text": "Magaslati kilátópont, amely panorámás kilátást nyújt Túcume ősi vályogpiramis-komplexumára.",
+                  "category": "natural",
+                  "coords": [
+                        -79.842556,
+                        -6.516251
+                  ]
+            },
+            {
+                  "name": "pyramidas",
+                  "text": "Monumentális vályogtégla építmények, amelyek drámaian emelkednek ki Túcume sivatagi tájából.",
+                  "category": "historical",
+                  "coords": [
+                        -79.83981,
+                        -6.513976
+                  ]
+            },
+            {
+                  "name": "Huaca Larga",
+                  "text": "Hatalmas vályogtégla platformdomb, amely az egyik legnagyobb Kolumbusz előtti építmény Túcume-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.839213,
+                        -6.512898
+                  ]
+            },
+            {
+                  "name": "Perico",
+                  "text": "Ősi földmaradványok, amelyek Túcume kiterjedt spanyol hódítás előtti régészeti komplexumához tartoznak.",
+                  "category": "historical",
+                  "coords": [
+                        -79.900833,
+                        -6.558611
+                  ]
+            },
+            {
+                  "name": "Coronado",
+                  "text": "Régészeti domblelőhely, amely feltárja a Túcume-ban élt inka előtti kultúrák nyomait.",
+                  "category": "historical",
+                  "coords": [
+                        -79.915556,
+                        -6.506944
+                  ]
+            },
+            {
+                  "name": "La Pava",
+                  "text": "Történelmi régészeti ásatási terület, amely megvilágítja Túcume ősi társadalmait.",
+                  "category": "historical",
+                  "coords": [
+                        -79.8975,
+                        -6.517778
+                  ]
+            },
+            {
+                  "name": "Huaca Los Gavilanes",
+                  "text": "Hatalmas Kolumbusz előtti vályogemlékmű, amely büszkén áll a Túcume-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -79.848468,
+                        -6.524272
+                  ]
+            },
+            {
+                  "name": "Huaca del Balsa",
+                  "text": "Jelentős vályogpiramis-rom Túcume-ban, amely gazdag spanyol hódítás előtti történelméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.847988,
+                        -6.525593
+                  ]
+            },
+            {
+                  "name": "Museo Túcume",
+                  "text": "Múzeum, amely a Túcume-ban talált Lambayeque-kultúra gazdag tárgyi emlékeinek megőrzésére és bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        -79.848835,
+                        -6.517563
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Túcume",
+                  "text": "Helyszíni régészeti múzeum Túcume-ban, amely a környező vályogpiramisokból feltárt lenyűgöző kerámiákat és textíliákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.847474,
+                        -6.513695
+                  ]
+            },
+            {
+                  "name": "San Juan",
+                  "text": "Helyi keresztény istentiszteleti hely, amely a közösséget szolgálja Túcume ősi romjai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.85503,
+                        -6.474756
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos de Pacora",
+                  "text": "Nyüzsgő helyi élelmiszer- és termékpiac, amely a Túcume melletti Pacora lakóit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.840024,
+                        -6.427543
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos de Illimo",
+                  "text": "Hagyományos mezőgazdasági piac Illimóban, amely friss helyi termékeket kínál Túcume mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.85375,
+                        -6.473395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laguna de las Patas",
+                  "text": "Un sit arheologic antic situat în vastul complex pre-hispanic din Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.867778,
+                        -6.439444
+                  ]
+            },
+            {
+                  "name": "Riendero",
+                  "text": "Ruine descoperite care fac parte din vastul peisaj arheologic precolumbian din Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.831944,
+                        -6.448056
+                  ]
+            },
+            {
+                  "name": "Cirila",
+                  "text": "Un sit de excavații arheologice care dezvăluie structuri antice de pământ în Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.835,
+                        -6.461667
+                  ]
+            },
+            {
+                  "name": "Piramides de Túcume",
+                  "text": "Un complex precolumbian extins în Túcume, cu piramide masive de chirpici construite de cultura Sicán.",
+                  "category": "historical",
+                  "coords": [
+                        -79.841667,
+                        -6.514444
+                  ]
+            },
+            {
+                  "name": "Pyramydas Túcume",
+                  "text": "Un punct de observație ridicat care oferă vederi panoramice asupra vechiului complex de piramide de chirpici din Túcume.",
+                  "category": "natural",
+                  "coords": [
+                        -79.842556,
+                        -6.516251
+                  ]
+            },
+            {
+                  "name": "pyramidas",
+                  "text": "Structuri monumentale din cărămidă de chirpici care se înalță dramatic din peisajul deșertic din Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.83981,
+                        -6.513976
+                  ]
+            },
+            {
+                  "name": "Huaca Larga",
+                  "text": "O movilă imensă cu platformă din cărămidă de chirpici, reprezentând una dintre cele mai mari structuri precolumbiene din Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.839213,
+                        -6.512898
+                  ]
+            },
+            {
+                  "name": "Perico",
+                  "text": "Rămășițe antice de pământ aparținând vastului complex arheologic pre-hispanic din Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.900833,
+                        -6.558611
+                  ]
+            },
+            {
+                  "name": "Coronado",
+                  "text": "Un sit cu movile arheologice care dezvăluie urme ale culturilor pre-incașe care au locuit în Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.915556,
+                        -6.506944
+                  ]
+            },
+            {
+                  "name": "La Pava",
+                  "text": "O zonă istorică de excavații arheologice care aruncă lumină asupra societăților antice din Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.8975,
+                        -6.517778
+                  ]
+            },
+            {
+                  "name": "Huaca Los Gavilanes",
+                  "text": "Un monument masiv de chirpici precolumbian care stă cu mândrie în valea Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.848468,
+                        -6.524272
+                  ]
+            },
+            {
+                  "name": "Huaca del Balsa",
+                  "text": "O ruină semnificativă de piramidă de chirpici în Túcume, remarcată pentru istoria sa pre-hispanică bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.847988,
+                        -6.525593
+                  ]
+            },
+            {
+                  "name": "Museo Túcume",
+                  "text": "Un muzeu dedicat conservării și expunerii bogatelor artefacte ale culturii Lambayeque găsite în Túcume.",
+                  "category": "museum",
+                  "coords": [
+                        -79.848835,
+                        -6.517563
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Túcume",
+                  "text": "Un muzeu arheologic la fața locului în Túcume, care expune ceramică și textile fascinante excavate din piramidele de chirpici din jur.",
+                  "category": "museum",
+                  "coords": [
+                        -79.847474,
+                        -6.513695
+                  ]
+            },
+            {
+                  "name": "San Juan",
+                  "text": "Un lăcaș de cult creștin local care deservește comunitatea din apropierea ruinelor antice din Túcume.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.85503,
+                        -6.474756
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos de Pacora",
+                  "text": "O piață locală plină de viață de alimente și produse care deservește locuitorii din Pacora, lângă Túcume.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.840024,
+                        -6.427543
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos de Illimo",
+                  "text": "O piață agricolă tradițională în Illimo, care oferă produse locale proaspete chiar la ieșirea din Túcume.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.85375,
+                        -6.473395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laguna de las Patas",
+                  "text": "An ancient archaeological site located within the vast pre-Hispanic complex of Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.867778,
+                        -6.439444
+                  ]
+            },
+            {
+                  "name": "Riendero",
+                  "text": "Uncovered ruins that form part of the vast pre-Columbian archaeological landscape of Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.831944,
+                        -6.448056
+                  ]
+            },
+            {
+                  "name": "Cirila",
+                  "text": "An archaeological excavation site revealing ancient earthen structures in Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.835,
+                        -6.461667
+                  ]
+            },
+            {
+                  "name": "Piramides de Túcume",
+                  "text": "A sprawling pre-Columbian complex in Túcume featuring massive adobe pyramids built by the Sicán culture.",
+                  "category": "historical",
+                  "coords": [
+                        -79.841667,
+                        -6.514444
+                  ]
+            },
+            {
+                  "name": "Pyramydas Túcume",
+                  "text": "An elevated vantage point offering panoramic views over the ancient adobe pyramid complex of Túcume.",
+                  "category": "natural",
+                  "coords": [
+                        -79.842556,
+                        -6.516251
+                  ]
+            },
+            {
+                  "name": "pyramidas",
+                  "text": "Monumental adobe brick structures rising dramatically from the desert landscape of Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.83981,
+                        -6.513976
+                  ]
+            },
+            {
+                  "name": "Huaca Larga",
+                  "text": "An immense adobe brick platform mound representing one of the largest pre-Columbian structures in Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.839213,
+                        -6.512898
+                  ]
+            },
+            {
+                  "name": "Perico",
+                  "text": "Ancient earthen remnants belonging to the extensive pre-Hispanic archaeological complex in Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.900833,
+                        -6.558611
+                  ]
+            },
+            {
+                  "name": "Coronado",
+                  "text": "An archaeological mound site revealing traces of the pre-Inca cultures that inhabited Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.915556,
+                        -6.506944
+                  ]
+            },
+            {
+                  "name": "La Pava",
+                  "text": "A historic archaeological excavation area shedding light on the ancient societies of Túcume.",
+                  "category": "historical",
+                  "coords": [
+                        -79.8975,
+                        -6.517778
+                  ]
+            },
+            {
+                  "name": "Huaca Los Gavilanes",
+                  "text": "A massive pre-Columbian adobe monument standing proudly within the Túcume valley.",
+                  "category": "historical",
+                  "coords": [
+                        -79.848468,
+                        -6.524272
+                  ]
+            },
+            {
+                  "name": "Huaca del Balsa",
+                  "text": "A significant adobe pyramid ruin in Túcume, noted for its rich pre-Hispanic history.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.847988,
+                        -6.525593
+                  ]
+            },
+            {
+                  "name": "Museo Túcume",
+                  "text": "A museum dedicated to preserving and exhibiting the rich artifacts of the Lambayeque culture found in Túcume.",
+                  "category": "museum",
+                  "coords": [
+                        -79.848835,
+                        -6.517563
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Túcume",
+                  "text": "An on-site archaeological museum in Túcume displaying fascinating ceramics and textiles excavated from the surrounding adobe pyramids.",
+                  "category": "museum",
+                  "coords": [
+                        -79.847474,
+                        -6.513695
+                  ]
+            },
+            {
+                  "name": "San Juan",
+                  "text": "A local Christian place of worship serving the community near the ancient ruins of Túcume.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.85503,
+                        -6.474756
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos de Pacora",
+                  "text": "A bustling local food and produce market serving the residents of Pacora near Túcume.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.840024,
+                        -6.427543
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos de Illimo",
+                  "text": "A traditional agricultural marketplace in Illimo offering fresh local produce just outside Túcume.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.85375,
+                        -6.473395
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-LAM",
     coords: [-79.845, -6.516],
@@ -387,7 +5535,376 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["La bataille a duré moins de quatre heures, mais a eu des conséquences historiques mondiales.", "Des soldats du Venezuela, de Colombie, du Pérou, du Chili et d'Argentine ont participé au combat.", "Le nom Ayacucho signifie « coin des morts » en quechua.", "L'obélisque a été construit entre 1974 et 1980 pour le 150e anniversaire de la bataille.", "Les visiteurs peuvent explorer le champ de bataille à pied ou à cheval."],
     }, image: "/poi-images/pampa-de-ayacucho-history-v2.webp"},
   {
-    id: "huari-ruinen-history-v2",
+    id: "huari-ruinen-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de las Abejas",
+                  "text": "Dieses spezialisierte Imkereimuseum informiert Besucher über lokale Bienenzuchttechniken, die Honigproduktion und die wichtige ökologische Rolle der Bienen.",
+                  "category": "museum",
+                  "coords": [
+                        -74.168091,
+                        -13.059668
+                  ]
+            },
+            {
+                  "name": "La Batalla de Ayacucho",
+                  "text": "Dieses historische Museum beherbergt Waffen, Uniformen und detaillierte Dioramen, die an die entscheidende Schlacht von Ayacucho im Jahr 1824 erinnern.",
+                  "category": "museum",
+                  "coords": [
+                        -74.139305,
+                        -13.049209
+                  ]
+            },
+            {
+                  "name": "Santuario Histórico de la Pampa de Ayacucho",
+                  "text": "Dominiert von einem aufragenden weißen Obelisken, schützt dieses historische Schutzgebiet die Hochebenen, auf denen die letzte Schlacht um die südamerikanische Unabhängigkeit geschlagen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.129171,
+                        -13.039186
+                  ]
+            },
+            {
+                  "name": "Pikimachay",
+                  "text": "Die archäologische Stätte Pikimachay beherbergt eine alte Kalksteinhöhle, die einige der ältesten Beweise menschlicher Besiedlung in den Anden lieferte.",
+                  "category": "historical",
+                  "coords": [
+                        -74.228381,
+                        -13.038618
+                  ]
+            },
+            {
+                  "name": "Piedra astronómica o de sacrificio",
+                  "text": "Dieser massive Stein mit flacher Oberseite innerhalb der Ruinen wurde von alten Kulturen vermutlich für Himmelsbeobachtungen oder rituelle Opfer genutzt.",
+                  "category": "historical",
+                  "coords": [
+                        -74.199324,
+                        -13.06002
+                  ]
+            },
+            {
+                  "name": "Mausoleo Wari",
+                  "text": "Diese beeindruckenden Grabruinen zeichnen sich durch sorgfältig behauene Quadersteinmauern aus, die tief in unterirdische Grabgalerien hinabführen.",
+                  "category": "historical",
+                  "coords": [
+                        -74.19945,
+                        -13.061085
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico Wari",
+                  "text": "Dieser weitläufige archäologische Komplex, der sich über Hunderte von Hektar erstreckt, war einst das städtische Zentrum und die mächtige Hauptstadt des Prä-Inka-Wari-Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        -74.198032,
+                        -13.061306
+                  ]
+            },
+            {
+                  "name": "Hacienda la vega",
+                  "text": "Die zerfallenden Lehm- und Steinmauern dieser verlassenen Hacienda aus der Kolonialzeit verschmelzen langsam wieder mit der rauen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -74.206925,
+                        -13.029502
+                  ]
+            },
+            {
+                  "name": "Complejo turístico Marayniyocc",
+                  "text": "Dieser touristische Komplex umgibt alte Wari-Steinstrukturen und bietet Wege und Einrichtungen für Besucher, die die historische Stätte erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        -74.203595,
+                        -13.027693
+                  ]
+            },
+            {
+                  "name": "Marayniyoq",
+                  "text": "Die als Weltkulturerbe geschützte Stätte Marayniyoq zeichnet sich durch gut erhaltene Wari-Steinanlagen aus, die die fortgeschrittene Ingenieurskunst dieser Prä-Inka-Zivilisation widerspiegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.198136,
+                        -13.059826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de las Abejas",
+                  "text": "Ez a speciális méhészeti múzeum bemutatja a látogatóknak a helyi méhészeti technikákat, a méztermelést és a méhek létfontosságú ökológiai szerepét.",
+                  "category": "museum",
+                  "coords": [
+                        -74.168091,
+                        -13.059668
+                  ]
+            },
+            {
+                  "name": "La Batalla de Ayacucho",
+                  "text": "Ez a történelmi múzeum fegyvereket, egyenruhákat és részletes diorámákat mutat be, amelyek az 1824-es döntő ayacuchói csatának állítanak emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -74.139305,
+                        -13.049209
+                  ]
+            },
+            {
+                  "name": "Santuario Histórico de la Pampa de Ayacucho",
+                  "text": "A magasba törő fehér obeliszkkel büszkélkedő történelmi szentély azokat a fennsíkokat védi, ahol a dél-amerikai függetlenség utolsó csatáját vívták.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.129171,
+                        -13.039186
+                  ]
+            },
+            {
+                  "name": "Pikimachay",
+                  "text": "A Pikimachay régészeti lelőhely egy ősi mészkőbarlangot foglal magában, amely az andoki emberi megtelepedés legősibb bizonyítékait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -74.228381,
+                        -13.038618
+                  ]
+            },
+            {
+                  "name": "Piedra astronómica o de sacrificio",
+                  "text": "Ezt a hatalmas, lapos tetejű követ a romok között a feltételezések szerint a régi kultúrák csillagászati megfigyelésekre vagy szertartásos áldozatokra használták.",
+                  "category": "historical",
+                  "coords": [
+                        -74.199324,
+                        -13.06002
+                  ]
+            },
+            {
+                  "name": "Mausoleo Wari",
+                  "text": "Ezek a lenyűgöző temetkezési romok aprólékosan faragott kőtömbökből álló falakkal rendelkeznek, amelyek mélyen a föld alatti galériákba vezetnek.",
+                  "category": "historical",
+                  "coords": [
+                        -74.19945,
+                        -13.061085
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico Wari",
+                  "text": "Ez a több száz hektáron elterülő kiterjedt régészeti komplexum egykor az inka előtti Wari Birodalom városi központja és nagyhatalmú fővárosa volt.",
+                  "category": "historical",
+                  "coords": [
+                        -74.198032,
+                        -13.061306
+                  ]
+            },
+            {
+                  "name": "Hacienda la vega",
+                  "text": "Ennek az elhagyatott, gyarmati korszakból származó haciendának az omladozó vályog- és kőfalai lassan beleolvadnak a zord tájba.",
+                  "category": "historical",
+                  "coords": [
+                        -74.206925,
+                        -13.029502
+                  ]
+            },
+            {
+                  "name": "Complejo turístico Marayniyocc",
+                  "text": "Ez a turisztikai komplexum az ősi Wari kőépítményeket veszi körül, utakat és létesítményeket biztosítva a történelmi helyszínt felfedező látogatók számára.",
+                  "category": "historical",
+                  "coords": [
+                        -74.203595,
+                        -13.027693
+                  ]
+            },
+            {
+                  "name": "Marayniyoq",
+                  "text": "A műemlékvédelem alatt álló Marayniyoq jól karbantartott Wari kőépítményekkel büszkélkedhet, amelyek ennek az inka előtti civilizációnak a fejlett mérnöki tudását tükrözik.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.198136,
+                        -13.059826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de las Abejas",
+                  "text": "Acest muzeu specializat în apicultură educă vizitatorii despre tehnicile locale de creștere a albinelor, producția de miere și rolul ecologic vital al albinelor.",
+                  "category": "museum",
+                  "coords": [
+                        -74.168091,
+                        -13.059668
+                  ]
+            },
+            {
+                  "name": "La Batalla de Ayacucho",
+                  "text": "Acest muzeu istoric găzduiește arme, uniforme și diorame detaliate care comemorează bătălia decisivă de la Ayacucho din 1824.",
+                  "category": "museum",
+                  "coords": [
+                        -74.139305,
+                        -13.049209
+                  ]
+            },
+            {
+                  "name": "Santuario Histórico de la Pampa de Ayacucho",
+                  "text": "Dominat de un obelisc alb falnic, acest sanctuar istoric protejează câmpiile înalte unde s-a purtat bătălia finală pentru independența Americii de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.129171,
+                        -13.039186
+                  ]
+            },
+            {
+                  "name": "Pikimachay",
+                  "text": "Situl arheologic Pikimachay prezintă o peșteră antică de calcar care a scos la iveală unele dintre cele mai vechi dovezi ale prezenței umane în Anzi.",
+                  "category": "historical",
+                  "coords": [
+                        -74.228381,
+                        -13.038618
+                  ]
+            },
+            {
+                  "name": "Piedra astronómica o de sacrificio",
+                  "text": "Această piatră masivă, cu vârful plat, situată în cadrul ruinelor, este considerată a fi fost folosită de culturile antice pentru observații cerești sau sacrificii ceremoniale.",
+                  "category": "historical",
+                  "coords": [
+                        -74.199324,
+                        -13.06002
+                  ]
+            },
+            {
+                  "name": "Mausoleo Wari",
+                  "text": "Aceste ruine funerare impresionante prezintă pereți de zidărie sculptați meticulos, care coboară adânc în galeriile subterane.",
+                  "category": "historical",
+                  "coords": [
+                        -74.19945,
+                        -13.061085
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico Wari",
+                  "text": "Întinzându-se pe sute de hectare, acest vast complex arheologic a fost cândva nucleul urban și capitala puternică a Imperiului Wari pre-incaș.",
+                  "category": "historical",
+                  "coords": [
+                        -74.198032,
+                        -13.061306
+                  ]
+            },
+            {
+                  "name": "Hacienda la vega",
+                  "text": "Zidurile prăbușite de chirpici și piatră ale acestei haciende abandonate din epoca colonială se contopesc încet înapoi cu peisajul stâncos.",
+                  "category": "historical",
+                  "coords": [
+                        -74.206925,
+                        -13.029502
+                  ]
+            },
+            {
+                  "name": "Complejo turístico Marayniyocc",
+                  "text": "Acest complex turistic înconjoară vechi structuri de piatră Wari, oferind alei și facilități pentru vizitatorii care explorează situl istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -74.203595,
+                        -13.027693
+                  ]
+            },
+            {
+                  "name": "Marayniyoq",
+                  "text": "Protejat ca sit de patrimoniu, Marayniyoq prezintă incinte de piatră Wari bine conservate, care reflectă ingineria avansată a acestei civilizații pre-incașe.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.198136,
+                        -13.059826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de las Abejas",
+                  "text": "This specialized apiculture museum educates visitors about local beekeeping techniques, honey production, and the vital ecological role of bees.",
+                  "category": "museum",
+                  "coords": [
+                        -74.168091,
+                        -13.059668
+                  ]
+            },
+            {
+                  "name": "La Batalla de Ayacucho",
+                  "text": "This historical museum houses weapons, uniforms, and detailed dioramas that commemorate the decisive 1824 Battle of Ayacucho.",
+                  "category": "museum",
+                  "coords": [
+                        -74.139305,
+                        -13.049209
+                  ]
+            },
+            {
+                  "name": "Santuario Histórico de la Pampa de Ayacucho",
+                  "text": "Dominated by a soaring white obelisk, this historical sanctuary protects the elevated plains where the final battle for South American independence was fought.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.129171,
+                        -13.039186
+                  ]
+            },
+            {
+                  "name": "Pikimachay",
+                  "text": "The Pikimachay archaeological site features an ancient limestone cave that yielded some of the oldest evidence of human occupation in the Andes.",
+                  "category": "historical",
+                  "coords": [
+                        -74.228381,
+                        -13.038618
+                  ]
+            },
+            {
+                  "name": "Piedra astronómica o de sacrificio",
+                  "text": "This massive, flat-topped stone within the ruins is believed to have been used by ancient cultures for celestial observations or ceremonial sacrifices.",
+                  "category": "historical",
+                  "coords": [
+                        -74.199324,
+                        -13.06002
+                  ]
+            },
+            {
+                  "name": "Mausoleo Wari",
+                  "text": "These impressive burial ruins feature meticulously carved ashlar masonry walls descending deep into underground funerary galleries.",
+                  "category": "historical",
+                  "coords": [
+                        -74.19945,
+                        -13.061085
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico Wari",
+                  "text": "Covering hundreds of hectares, this sprawling archaeological complex was once the urban core and powerful capital of the pre-Inca Wari Empire.",
+                  "category": "historical",
+                  "coords": [
+                        -74.198032,
+                        -13.061306
+                  ]
+            },
+            {
+                  "name": "Hacienda la vega",
+                  "text": "The crumbling adobe and stone walls of this abandoned colonial-era hacienda slowly blend back into the rugged landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -74.206925,
+                        -13.029502
+                  ]
+            },
+            {
+                  "name": "Complejo turístico Marayniyocc",
+                  "text": "This tourist complex surrounds ancient Wari stone structures, providing pathways and facilities for visitors exploring the historic site.",
+                  "category": "historical",
+                  "coords": [
+                        -74.203595,
+                        -13.027693
+                  ]
+            },
+            {
+                  "name": "Marayniyoq",
+                  "text": "Protected as a heritage site, Marayniyoq features well-preserved Wari stone enclosures that reflect the advanced engineering of this pre-Inca civilization.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.198136,
+                        -13.059826
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-AYA",
     coords: [-74.195, -13.06],
@@ -415,7 +5932,844 @@ export const poiExtraPeruHistoryV2: POI[] = [
     },
   },
   {
-    id: "marcahuamachuco-history-v2",
+    id: "marcahuamachuco-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Campanario",
+                  "text": "Der Campanario ist eine alte stehende Turmstruktur, die mit den monumentalen Steinkomplexen des Hochlands von Marcahuamachuco in Verbindung steht.",
+                  "category": "historical",
+                  "coords": [
+                        -78.049671,
+                        -7.816167
+                  ]
+            },
+            {
+                  "name": "Santa Barbara",
+                  "text": "Santa Barbara ist ein Bereich archäologischer Ruinen, der ausgedehnte präkolumbianische Steinarbeiten entlang des Hochplateaus aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        -78.045101,
+                        -7.823058
+                  ]
+            },
+            {
+                  "name": "Tucupina 6",
+                  "text": "Tucupina 6 ist Teil eines größeren antiken Siedlungsnetzes und zeigt teilweise ausgegrabene Steinfundamente von Wohn- oder Verwaltungsgebäuden.",
+                  "category": "historical",
+                  "coords": [
+                        -78.043915,
+                        -7.829752
+                  ]
+            },
+            {
+                  "name": "Tucupina 5",
+                  "text": "Als Teil des archäologischen Clusters Tucupina weist diese Stätte verfallene Trockenmauern auf, die die umliegenden Andentäler überblicken.",
+                  "category": "historical",
+                  "coords": [
+                        -78.04228,
+                        -7.83043
+                  ]
+            },
+            {
+                  "name": "Tucupina 1",
+                  "text": "Tucupina 1 offenbart die Überreste einer alten andinen Architekturanlage, die durch verstreutes Mauerwerk gekennzeichnet ist, das von Hochlandvegetation überwuchert ist.",
+                  "category": "historical",
+                  "coords": [
+                        -78.033195,
+                        -7.844174
+                  ]
+            },
+            {
+                  "name": "Tucupina 2",
+                  "text": "Diese antike Ruinenstätte mit der Bezeichnung Tucupina 2 enthält die robusten steinernen Umrisse eines präkolumbianischen Komplexes.",
+                  "category": "historical",
+                  "coords": [
+                        -78.035478,
+                        -7.840405
+                  ]
+            },
+            {
+                  "name": "Tucupina 3",
+                  "text": "Tucupina 3 ist eine Schutzzone, in der Archäologen die dicken, mörtellosen Steinmauern studieren, die von frühen regionalen Bewohnern errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -78.038325,
+                        -7.836414
+                  ]
+            },
+            {
+                  "name": "Tucupina 4",
+                  "text": "Tucupina 4 ist durch verwitterte Architektursteine gekennzeichnet und unterstreicht die kontinuierliche antike Besiedlung dieses rauen Hochlandkamms.",
+                  "category": "historical",
+                  "coords": [
+                        -78.040861,
+                        -7.831649
+                  ]
+            },
+            {
+                  "name": "Cerro Miraflores",
+                  "text": "Der Cerro Miraflores ist ein markanter Berggipfel in der Nähe der archäologischen Ruinen, der einen Panoramablick auf das Hochlandterrain bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.056443,
+                        -7.807834
+                  ]
+            },
+            {
+                  "name": "Las Torres Rectangulares",
+                  "text": "Las Torres Rectangulares sind massive mehrstöckige Steinstrukturen, die in der Antike als Eliteresidenzen oder Verwaltungszentren dienten.",
+                  "category": "historical",
+                  "coords": [
+                        -78.077665,
+                        -7.786555
+                  ]
+            },
+            {
+                  "name": "Marca Huamachuco",
+                  "text": "Marcahuamachuco ist eine riesige prä-inkaische Steinzitadelle auf einem Hochplateau, die für ihre hoch aufragenden doppelwandigen Galerien berühmt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -78.076645,
+                        -7.787071
+                  ]
+            },
+            {
+                  "name": "Plaza Principal - Sector El Castillo",
+                  "text": "Die Plaza Principal im Sektor El Castillo ist ein großer, offener Zeremonienplatz, der von imposanten prähistorischen Steinmauern umgeben ist.",
+                  "category": "historical",
+                  "coords": [
+                        -78.079503,
+                        -7.784207
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Viejo",
+                  "text": "Der Sektor Cerro Viejo umfasst einige der frühesten Steinbefestigungen und Wohnfundamente auf diesem alten Hochlandkamm.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.097903,
+                        -7.770753
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Los Corrales",
+                  "text": "Der Sektor Cerro Los Corrales ist ein abgegrenzter archäologischer Bereich, der durch große, kreisförmige Steineinfriedungen gekennzeichnet ist, die ursprünglich als Pferche für Kameliden dienten.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.091775,
+                        -7.772917
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Las Monjas",
+                  "text": "Der Sektor Cerro Las Monjas ist eine archäologische Attraktion auf dem hochgelegenen Gelände des Marcahuamachuco-Komplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.087672,
+                        -7.775189
+                  ]
+            },
+            {
+                  "name": "cerro Cacañan",
+                  "text": "Der Cerro Cacañan bietet einen erhöhten Aussichtspunkt, von dem aus man die Vor-Inka-Geschichte rund um Marcahuamachuco erkunden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.05971,
+                        -7.81593
+                  ]
+            },
+            {
+                  "name": "Museo Arqueologico de Huamachuco",
+                  "text": "Dieses Museum zeigt präkolumbianische Artefakte, die in den umliegenden archäologischen Stätten von Marcahuamachuco ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -78.050078,
+                        -7.815069
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Huamachuco",
+                  "text": "Das Stadttheater von Huamachuco ist ein lokaler Veranstaltungsort für regionale Aufführungen und Gemeindeveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.048027,
+                        -7.815867
+                  ]
+            },
+            {
+                  "name": "Wiracochapampa",
+                  "text": "Wiracochapampa ist eine antike archäologische Stätte der Wari-Kultur, die für ihren rasterförmigen Stadtgrundriss bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -78.045424,
+                        -7.789352
+                  ]
+            },
+            {
+                  "name": "iglesia san jose",
+                  "text": "Die Iglesia San Jose ist eine lokale christliche Kultstätte für die Gläubigen der Gegend um Huamachuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.048296,
+                        -7.814175
+                  ]
+            },
+            {
+                  "name": "Santuario del Señor de la Misericordia",
+                  "text": "Dieses lokale Heiligtum ist ein Ort des christlichen Gebets, der der Verehrung des Herrn der Barmherzigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -78.033039,
+                        -7.705989
+                  ]
+            },
+            {
+                  "name": "Iglesia de Marcabalito",
+                  "text": "Die Iglesia de Marcabalito ist eine traditionelle christliche Kirche, die den Mittelpunkt des religiösen Lebens ihrer kleinen Gemeinde bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.034594,
+                        -7.705704
+                  ]
+            },
+            {
+                  "name": "Mercado de Huamachuco",
+                  "text": "Der Mercado de Huamachuco ist ein belebter überdachter Markt, auf dem frische andine Produkte und Waren des täglichen Bedarfs angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.045972,
+                        -7.811722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Campanario",
+                  "text": "A Campanario egy ősi, álló toronyépítmény, amely a marcahuamachucói fennsík monumentális kőkomplexumaihoz kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        -78.049671,
+                        -7.816167
+                  ]
+            },
+            {
+                  "name": "Santa Barbara",
+                  "text": "Santa Barbara a régészeti romok egyik szektora, amely a magasan fekvő fennsíkon elterülő kiterjedt Kolumbusz előtti kőmunkákat mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -78.045101,
+                        -7.823058
+                  ]
+            },
+            {
+                  "name": "Tucupina 6",
+                  "text": "A Tucupina 6 egy nagyobb ősi településhálózat része, amely részben feltárt lakó- vagy adminisztratív épületek kőalapjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -78.043915,
+                        -7.829752
+                  ]
+            },
+            {
+                  "name": "Tucupina 5",
+                  "text": "A Tucupina régészeti klaszter részeként ez a lelőhely romos szárazfalakat tartalmaz, amelyek a környező andoki völgyekre néznek.",
+                  "category": "historical",
+                  "coords": [
+                        -78.04228,
+                        -7.83043
+                  ]
+            },
+            {
+                  "name": "Tucupina 1",
+                  "text": "A Tucupina 1 egy ősi andoki építészeti elrendezés maradványait tárja fel, melyeket a hegyvidéki növényzettel benőtt elszórt falazat jelez.",
+                  "category": "historical",
+                  "coords": [
+                        -78.033195,
+                        -7.844174
+                  ]
+            },
+            {
+                  "name": "Tucupina 2",
+                  "text": "Ez az ősi, Tucupina 2 néven ismert romterület egy Kolumbusz előtti komplexum masszív kő körvonalait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        -78.035478,
+                        -7.840405
+                  ]
+            },
+            {
+                  "name": "Tucupina 3",
+                  "text": "A Tucupina 3 egy védett övezet, ahol a régészek a korai regionális lakosok által készített vastag, habarcs nélküli kőfalakat tanulmányozzák.",
+                  "category": "historical",
+                  "coords": [
+                        -78.038325,
+                        -7.836414
+                  ]
+            },
+            {
+                  "name": "Tucupina 4",
+                  "text": "A mállott építészeti kövekkel rendelkező Tucupina 4 a zord hegygerinc folyamatos ókori megszállását hangsúlyozza.",
+                  "category": "historical",
+                  "coords": [
+                        -78.040861,
+                        -7.831649
+                  ]
+            },
+            {
+                  "name": "Cerro Miraflores",
+                  "text": "A Cerro Miraflores egy kiemelkedő hegycsúcs a régészeti romok közelében, ahonnan panorámás kilátás nyílik a hegyvidéki terepre.",
+                  "category": "natural",
+                  "coords": [
+                        -78.056443,
+                        -7.807834
+                  ]
+            },
+            {
+                  "name": "Las Torres Rectangulares",
+                  "text": "A Las Torres Rectangulares hatalmas, többszintes kőépítmények, amelyek az ókorban elit rezidenciákként vagy adminisztratív központokként szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        -78.077665,
+                        -7.786555
+                  ]
+            },
+            {
+                  "name": "Marca Huamachuco",
+                  "text": "Marcahuamachuco egy hatalmas inka kora előtti kőcitadella egy magas fennsíkon, amely magasodó, duplafalú galériáiról híres.",
+                  "category": "historical",
+                  "coords": [
+                        -78.076645,
+                        -7.787071
+                  ]
+            },
+            {
+                  "name": "Plaza Principal - Sector El Castillo",
+                  "text": "Az El Castillo szektorban található Plaza Principal egy nagy, nyitott szertartási tér, amelyet impozáns történelem előtti kőfalak vesznek körül.",
+                  "category": "historical",
+                  "coords": [
+                        -78.079503,
+                        -7.784207
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Viejo",
+                  "text": "A Sector Cerro Viejo a legkorábbi kőerődítményeket és lakóalapokat foglalja magában ezen az ősi hegygerincen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.097903,
+                        -7.770753
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Los Corrales",
+                  "text": "A Sector Cerro Los Corrales egy különálló régészeti terület, amelyet nagy, kör alakú kőbekerítések jellemeznek, amiket eredetileg a andoki tevefélék karámjaként terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.091775,
+                        -7.772917
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Las Monjas",
+                  "text": "A Cerro Las Monjas szektor egy régészeti látványosság a Marcahuamachuco komplexum magaslati területein.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.087672,
+                        -7.775189
+                  ]
+            },
+            {
+                  "name": "cerro Cacañan",
+                  "text": "A Cerro Cacañan egy magaslati kilátópont, amely bepillantást enged a Marcahuamachuco körüli inka előtti történelembe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.05971,
+                        -7.81593
+                  ]
+            },
+            {
+                  "name": "Museo Arqueologico de Huamachuco",
+                  "text": "Ez a múzeum a környező Marcahuamachuco régészeti lelőhelyeiről feltárt prekolumbián leleteket állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -78.050078,
+                        -7.815069
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Huamachuco",
+                  "text": "A huamachucói Városi Színház egy helyi kulturális helyszín, amely regionális előadásoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.048027,
+                        -7.815867
+                  ]
+            },
+            {
+                  "name": "Wiracochapampa",
+                  "text": "Wiracochapampa egy ősi Wari régészeti lelőhely, amely rácsszerű várostervezéséről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -78.045424,
+                        -7.789352
+                  ]
+            },
+            {
+                  "name": "iglesia san jose",
+                  "text": "Az Iglesia San Jose egy helyi keresztény istentiszteleti hely, amely a huamachucói régió hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.048296,
+                        -7.814175
+                  ]
+            },
+            {
+                  "name": "Santuario del Señor de la Misericordia",
+                  "text": "Ez a helyi szentély egy keresztény imahely, amely az Irgalmasság Urának tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        -78.033039,
+                        -7.705989
+                  ]
+            },
+            {
+                  "name": "Iglesia de Marcabalito",
+                  "text": "Az Iglesia de Marcabalito egy hagyományos keresztény templom, amely a kis közösség vallási életének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.034594,
+                        -7.705704
+                  ]
+            },
+            {
+                  "name": "Mercado de Huamachuco",
+                  "text": "A Mercado de Huamachuco egy nyüzsgő fedett piac, amely friss andoki termékeket és mindennapi cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.045972,
+                        -7.811722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Campanario",
+                  "text": "Campanario este o structură de turn vechi care face parte din complexele monumentale de piatră din zonele înalte ale regiunii Marcahuamachuco.",
+                  "category": "historical",
+                  "coords": [
+                        -78.049671,
+                        -7.816167
+                  ]
+            },
+            {
+                  "name": "Santa Barbara",
+                  "text": "Santa Barbara este un sector de ruine arheologice care prezintă o vastă zidărie precolumbiană dispusă de-a lungul platoului de mare altitudine.",
+                  "category": "historical",
+                  "coords": [
+                        -78.045101,
+                        -7.823058
+                  ]
+            },
+            {
+                  "name": "Tucupina 6",
+                  "text": "Tucupina 6 face parte dintr-o rețea de așezări antice mai mare, afișând fundații de piatră parțial excavate ale unor clădiri domestice sau administrative.",
+                  "category": "historical",
+                  "coords": [
+                        -78.043915,
+                        -7.829752
+                  ]
+            },
+            {
+                  "name": "Tucupina 5",
+                  "text": "Făcând parte din clusterul arheologic Tucupina, acest sit prezintă ruinele unor ziduri de piatră uscată care au vedere spre văile andine înconjurătoare.",
+                  "category": "historical",
+                  "coords": [
+                        -78.04228,
+                        -7.83043
+                  ]
+            },
+            {
+                  "name": "Tucupina 1",
+                  "text": "Tucupina 1 dezvăluie rămășițele unei vechi arhitecturi andine, marcată de zidării împrăștiate și invadate de vegetația montană.",
+                  "category": "historical",
+                  "coords": [
+                        -78.033195,
+                        -7.844174
+                  ]
+            },
+            {
+                  "name": "Tucupina 2",
+                  "text": "Acest sit de ruine antice, denumit Tucupina 2, conține contururile robuste din piatră ale unui complex precolumbian.",
+                  "category": "historical",
+                  "coords": [
+                        -78.035478,
+                        -7.840405
+                  ]
+            },
+            {
+                  "name": "Tucupina 3",
+                  "text": "Tucupina 3 este o zonă protejată în care arheologii studiază zidurile groase de piatră fără mortar, construite de primii locuitori ai regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -78.038325,
+                        -7.836414
+                  ]
+            },
+            {
+                  "name": "Tucupina 4",
+                  "text": "Având pietre arhitecturale erodate de vreme, Tucupina 4 evidențiază ocuparea antică continuă a acestei creste muntoase accidentate.",
+                  "category": "historical",
+                  "coords": [
+                        -78.040861,
+                        -7.831649
+                  ]
+            },
+            {
+                  "name": "Cerro Miraflores",
+                  "text": "Cerro Miraflores este un vârf muntos proeminent situat în apropierea ruinelor arheologice, oferind vederi panoramice asupra terenului muntos.",
+                  "category": "natural",
+                  "coords": [
+                        -78.056443,
+                        -7.807834
+                  ]
+            },
+            {
+                  "name": "Las Torres Rectangulares",
+                  "text": "Las Torres Rectangulares sunt structuri masive din piatră cu mai multe etaje care au servit drept reședințe de elită sau centre administrative în antichitate.",
+                  "category": "historical",
+                  "coords": [
+                        -78.077665,
+                        -7.786555
+                  ]
+            },
+            {
+                  "name": "Marca Huamachuco",
+                  "text": "Marcahuamachuco este o vastă citadelă de piatră pre-incașă, situată pe un platou înalt, renumită pentru galeriile sale impunătoare cu pereți dubli.",
+                  "category": "historical",
+                  "coords": [
+                        -78.076645,
+                        -7.787071
+                  ]
+            },
+            {
+                  "name": "Plaza Principal - Sector El Castillo",
+                  "text": "Plaza Principal din sectorul El Castillo este un spațiu ceremonial mare și deschis, înconjurat de ziduri de piatră preistorice impunătoare.",
+                  "category": "historical",
+                  "coords": [
+                        -78.079503,
+                        -7.784207
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Viejo",
+                  "text": "Sectorul Cerro Viejo cuprinde unele dintre cele mai vechi fortificații de piatră și fundații rezidențiale de pe această creastă antică.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.097903,
+                        -7.770753
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Los Corrales",
+                  "text": "Sector Cerro Los Corrales este o zonă arheologică distinctă, marcată de incinte mari, circulare, din piatră, concepute inițial pentru a adăposti lame și alte camelide.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.091775,
+                        -7.772917
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Las Monjas",
+                  "text": "Sectorul Cerro Las Monjas este o atracție arheologică situată pe terenul înalt al complexului Marcahuamachuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.087672,
+                        -7.775189
+                  ]
+            },
+            {
+                  "name": "cerro Cacañan",
+                  "text": "Cerro Cacañan oferă un punct de observație la înălțime pentru a explora istoria pre-incașă din jurul Marcahuamachuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.05971,
+                        -7.81593
+                  ]
+            },
+            {
+                  "name": "Museo Arqueologico de Huamachuco",
+                  "text": "Acest muzeu expune artefacte precolumbiene excavate din siturile arheologice înconjurătoare din Marcahuamachuco.",
+                  "category": "museum",
+                  "coords": [
+                        -78.050078,
+                        -7.815069
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Huamachuco",
+                  "text": "Teatrul Municipal din Huamachuco este un spațiu cultural local care găzduiește spectacole regionale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.048027,
+                        -7.815867
+                  ]
+            },
+            {
+                  "name": "Wiracochapampa",
+                  "text": "Wiracochapampa este un vechi sit arheologic Wari, cunoscut pentru structura sa urbană în formă de grilă.",
+                  "category": "historical",
+                  "coords": [
+                        -78.045424,
+                        -7.789352
+                  ]
+            },
+            {
+                  "name": "iglesia san jose",
+                  "text": "Iglesia San Jose este un lăcaș de cult creștin local care deservește credincioșii din zona Huamachuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.048296,
+                        -7.814175
+                  ]
+            },
+            {
+                  "name": "Santuario del Señor de la Misericordia",
+                  "text": "Acest sanctuar local este un loc de rugăciune creștină dedicat devotamentului față de Domnul Milostivirii.",
+                  "category": "religious",
+                  "coords": [
+                        -78.033039,
+                        -7.705989
+                  ]
+            },
+            {
+                  "name": "Iglesia de Marcabalito",
+                  "text": "Iglesia de Marcabalito este o biserică creștină tradițională care ancorează viața religioasă a micii sale comunități.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.034594,
+                        -7.705704
+                  ]
+            },
+            {
+                  "name": "Mercado de Huamachuco",
+                  "text": "Mercado de Huamachuco este o piață interioară plină de viață, care oferă produse proaspete andine și bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.045972,
+                        -7.811722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Campanario",
+                  "text": "The Campanario is an ancient standing tower structure associated with the monumental stone complexes of the Marcahuamachuco highlands.",
+                  "category": "historical",
+                  "coords": [
+                        -78.049671,
+                        -7.816167
+                  ]
+            },
+            {
+                  "name": "Santa Barbara",
+                  "text": "Santa Barbara is a sector of archaeological ruins featuring extensive pre-Columbian stonework laid out along the high-altitude plateau.",
+                  "category": "historical",
+                  "coords": [
+                        -78.045101,
+                        -7.823058
+                  ]
+            },
+            {
+                  "name": "Tucupina 6",
+                  "text": "Tucupina 6 is part of a larger ancient settlement network, displaying partially excavated stone foundations of domestic or administrative buildings.",
+                  "category": "historical",
+                  "coords": [
+                        -78.043915,
+                        -7.829752
+                  ]
+            },
+            {
+                  "name": "Tucupina 5",
+                  "text": "As part of the Tucupina archaeological cluster, this site features ruined dry-stone walls that overlook the surrounding Andean valleys.",
+                  "category": "historical",
+                  "coords": [
+                        -78.04228,
+                        -7.83043
+                  ]
+            },
+            {
+                  "name": "Tucupina 1",
+                  "text": "Tucupina 1 reveals the remnants of an ancient Andean architectural layout, marked by scattered masonry overgrown with highland vegetation.",
+                  "category": "historical",
+                  "coords": [
+                        -78.033195,
+                        -7.844174
+                  ]
+            },
+            {
+                  "name": "Tucupina 2",
+                  "text": "This ancient ruin site, designated Tucupina 2, contains the sturdy stone outlines of a pre-Columbian complex.",
+                  "category": "historical",
+                  "coords": [
+                        -78.035478,
+                        -7.840405
+                  ]
+            },
+            {
+                  "name": "Tucupina 3",
+                  "text": "Tucupina 3 is a protected zone where archaeologists study the thick mortarless stone walls crafted by early regional inhabitants.",
+                  "category": "historical",
+                  "coords": [
+                        -78.038325,
+                        -7.836414
+                  ]
+            },
+            {
+                  "name": "Tucupina 4",
+                  "text": "Featuring weathered architectural stones, Tucupina 4 highlights the continuous ancient occupation of this rugged highland ridge.",
+                  "category": "historical",
+                  "coords": [
+                        -78.040861,
+                        -7.831649
+                  ]
+            },
+            {
+                  "name": "Cerro Miraflores",
+                  "text": "Cerro Miraflores is a prominent mountain peak near the archaeological ruins, offering panoramic views of the highland terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -78.056443,
+                        -7.807834
+                  ]
+            },
+            {
+                  "name": "Las Torres Rectangulares",
+                  "text": "Las Torres Rectangulares are massive multi-story stone structures that served as elite residences or administrative hubs in antiquity.",
+                  "category": "historical",
+                  "coords": [
+                        -78.077665,
+                        -7.786555
+                  ]
+            },
+            {
+                  "name": "Marcahuamachuco",
+                  "text": "Marcahuamachuco is a vast pre-Inca stone citadel perched on a high plateau, famous for its towering double-walled galleries.",
+                  "category": "historical",
+                  "coords": [
+                        -78.076645,
+                        -7.787071
+                  ]
+            },
+            {
+                  "name": "Plaza Principal - Sector El Castillo",
+                  "text": "The Plaza Principal in the El Castillo sector is a large, open ceremonial space surrounded by imposing prehistoric stone walls.",
+                  "category": "historical",
+                  "coords": [
+                        -78.079503,
+                        -7.784207
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Viejo",
+                  "text": "The Sector Cerro Viejo encompasses some of the earliest stone fortifications and residential foundations on this ancient highland ridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.097903,
+                        -7.770753
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Los Corrales",
+                  "text": "Sector Cerro Los Corrales is a distinct archaeological area marked by large, circular stone enclosures originally designed to pen camelids.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.091775,
+                        -7.772917
+                  ]
+            },
+            {
+                  "name": "Sector Cerro Las Monjas",
+                  "text": "Sector Cerro Las Monjas is an archaeological attraction situated on the elevated terrain of the Marcahuamachuco complex.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.087672,
+                        -7.775189
+                  ]
+            },
+            {
+                  "name": "cerro Cacañan",
+                  "text": "Cerro Cacañan offers an elevated vantage point for exploring the pre-Inca history surrounding Marcahuamachuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.05971,
+                        -7.81593
+                  ]
+            },
+            {
+                  "name": "Museo Arqueologico de Huamachuco",
+                  "text": "This museum exhibits pre-Columbian artifacts excavated from the surrounding Marcahuamachuco archaeological sites.",
+                  "category": "museum",
+                  "coords": [
+                        -78.050078,
+                        -7.815069
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Huamachuco",
+                  "text": "The Municipal Theatre of Huamachuco is a local cultural venue hosting regional performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.048027,
+                        -7.815867
+                  ]
+            },
+            {
+                  "name": "Wiracochapampa",
+                  "text": "Wiracochapampa is an ancient Wari archaeological site known for its grid-like urban layout.",
+                  "category": "historical",
+                  "coords": [
+                        -78.045424,
+                        -7.789352
+                  ]
+            },
+            {
+                  "name": "iglesia san jose",
+                  "text": "Iglesia San Jose is a local Christian worship site serving the faithful of the Huamachuco area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.048296,
+                        -7.814175
+                  ]
+            },
+            {
+                  "name": "Santuario del Señor de la Misericordia",
+                  "text": "This local sanctuary is a dedicated place of Christian prayer focused on the devotion to the Lord of Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        -78.033039,
+                        -7.705989
+                  ]
+            },
+            {
+                  "name": "Iglesia de Marcabalito",
+                  "text": "The Iglesia de Marcabalito is a traditional Christian church anchoring the religious life of its small community.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.034594,
+                        -7.705704
+                  ]
+            },
+            {
+                  "name": "Mercado de Huamachuco",
+                  "text": "The Mercado de Huamachuco is a bustling indoor market offering fresh Andean produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.045972,
+                        -7.811722
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-LAL",
     coords: [-78.07, -7.788],
@@ -442,7 +6796,1132 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Le site s'étend sur une longueur de près de 5 kilomètres.", "Certaines des structures circulaires servaient probablement de temples ou de salles de réunion.", "Les Huamachuco entretenaient des relations commerciales intenses avec l'empire Wari.", "Les archéologues soupçonnent que Marcahuamachuco était un centre oraculaire important.", "Le complexe se compose de différents secteurs tels que Cerro del Castillo et Las Monjas."],
     }, image: "/poi-images/marcahuamachuco-history-v2.webp"},
   {
-    id: "raqchi-history-v2",
+    id: "raqchi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tunka Suka",
+                  "text": "Tunka Suka ist ein markanter Gipfel in den Anden in der Nähe von Raqchi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.486772,
+                        -14.165636
+                  ]
+            },
+            {
+                  "name": "Casa de Tupac Amaru ll",
+                  "text": "Diese Attraktion ist die historische Residenz, die mit dem Revolutionsführer Túpac Amaru II. in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.475786,
+                        -14.163767
+                  ]
+            },
+            {
+                  "name": "Dos lagunas. Asnacocha y Pampamarca",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über die Seen Asnacocha und Pampamarca.",
+                  "category": "natural",
+                  "coords": [
+                        -71.464253,
+                        -14.121507
+                  ]
+            },
+            {
+                  "name": "Mirador de Ausangate",
+                  "text": "Von diesem Aussichtspunkt aus haben Besucher einen klaren Blick auf den fernen, schneebedeckten Berg Ausangate.",
+                  "category": "natural",
+                  "coords": [
+                        -71.448858,
+                        -14.107716
+                  ]
+            },
+            {
+                  "name": "Teatrin municipal - Casa del Maestro",
+                  "text": "Dieses städtische Theater und Lehrerzentrum dient als lokaler kultureller Veranstaltungsort in der Region Raqchi.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.428703,
+                        -14.103118
+                  ]
+            },
+            {
+                  "name": "Teatrin Municipal de Combapata",
+                  "text": "Dieses städtische Theater dient der Gemeinde Combapata und veranstaltet lokale Aufführungen und kulturelle Zusammenkünfte.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.430607,
+                        -14.101384
+                  ]
+            },
+            {
+                  "name": "Parroquia San Nicolás",
+                  "text": "Diese dem Heiligen Nikolaus geweihte Pfarrkirche dient als spirituelles Zentrum für die lokale katholische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -71.428816,
+                        -14.101203
+                  ]
+            },
+            {
+                  "name": "Mirador de Combapata",
+                  "text": "Dieser Aussichtspunkt liegt oberhalb von Combapata und bietet eine erhöhte Perspektive über die Stadt und das umliegende Andental.",
+                  "category": "natural",
+                  "coords": [
+                        -71.432651,
+                        -14.099034
+                  ]
+            },
+            {
+                  "name": "Raqch'i",
+                  "text": "Diese anerkannte Kulturerbestätte weist die monumentalen Ruinen einer bedeutenden Inka-Siedlung auf.",
+                  "category": "historical",
+                  "coords": [
+                        -71.369298,
+                        -14.17496
+                  ]
+            },
+            {
+                  "name": "Capilla de Challapampa “Virgen del Rosario”",
+                  "text": "Diese lokale Kapelle ist der Rosenkranzkönigin geweiht und dient den religiösen Bedürfnissen der Gemeinde Challapampa.",
+                  "category": "religious",
+                  "coords": [
+                        -71.455979,
+                        -14.226921
+                  ]
+            },
+            {
+                  "name": "Capilla de Puca Puca",
+                  "text": "Diese kleine Kultstätte bietet einen Raum für Gebete und Zusammenkünfte in der Siedlung Puca Puca.",
+                  "category": "religious",
+                  "coords": [
+                        -71.439529,
+                        -14.257526
+                  ]
+            },
+            {
+                  "name": "Capilla de Chicnayhua",
+                  "text": "Diese Gemeindekapelle in Chicnayhua ist ein traditioneller Veranstaltungsort für lokale Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -71.444577,
+                        -14.245802
+                  ]
+            },
+            {
+                  "name": "Capilla Chucchucalla Central “San Pedro y Pablo”",
+                  "text": "Diese zentrale Kapelle, die den Heiligen Peter und Paul gewidmet ist, ist ein Mittelpunkt für die Gläubigen in Chucchucalla.",
+                  "category": "religious",
+                  "coords": [
+                        -71.400152,
+                        -14.214322
+                  ]
+            },
+            {
+                  "name": "Capilla Chuchuccaya Bajo “Santísima Cruz”",
+                  "text": "Diese dem Heiligen Kreuz geweihte Kapelle dient der Religionsgemeinschaft im unteren Teil von Chucchucalla.",
+                  "category": "religious",
+                  "coords": [
+                        -71.392529,
+                        -14.219182
+                  ]
+            },
+            {
+                  "name": "Capilla alta de Chucchucalla “Señor de los Milagros”",
+                  "text": "Diese Kapelle im oberen Teil von Chucchucalla ist dem Herrn der Wunder gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -71.405719,
+                        -14.208015
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Dia",
+                  "text": "Diese christliche Kirche dient der lokalen Gemeinde der Siebenten-Tags-Adventisten mit regelmäßigen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.432497,
+                        -14.215476
+                  ]
+            },
+            {
+                  "name": "Parroquia Santiago Apóstol de Yanaoca",
+                  "text": "Diese Pfarrkirche in Yanaoca ist dem Apostel Jakobus gewidmet und dient als katholisches Hauptzentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -71.431831,
+                        -14.217415
+                  ]
+            },
+            {
+                  "name": "Capilla de Laymi",
+                  "text": "Diese bescheidene Kultstätte kommt den spirituellen Bedürfnissen der Bewohner im Gebiet Laymi entgegen.",
+                  "category": "religious",
+                  "coords": [
+                        -71.424734,
+                        -14.233484
+                  ]
+            },
+            {
+                  "name": "Capilla de Colliri Grande “Virgen de Belen”",
+                  "text": "Diese der Jungfrau von Bethlehem geweihte Kapelle ist eine wichtige religiöse Stätte für die Gemeinde Colliri Grande.",
+                  "category": "religious",
+                  "coords": [
+                        -71.455082,
+                        -14.208059
+                  ]
+            },
+            {
+                  "name": "Capilla de Pabellón “Exaltación de la Cruz”",
+                  "text": "Diese lokale Kapelle im Sektor Pabellón ist der Kreuzerhöhung gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -71.444324,
+                        -14.1784
+                  ]
+            },
+            {
+                  "name": "Collana Puquio",
+                  "text": "Dieser nach einer lokalen Wasserquelle benannte Ort dient als traditioneller Ort der Anbetung und spirituellen Zusammenkunft.",
+                  "category": "religious",
+                  "coords": [
+                        -71.435672,
+                        -14.197241
+                  ]
+            },
+            {
+                  "name": "Capilla de Hilanaca",
+                  "text": "Diese lokale Kapelle bietet einen eigenen Raum für religiöse Zeremonien und das Gemeindegebet in Hilanaca.",
+                  "category": "religious",
+                  "coords": [
+                        -71.404154,
+                        -14.189361
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bartolomé de Tinta",
+                  "text": "Diese historische, dem Heiligen Bartholomäus geweihte christliche Kirche ist ein markantes Wahrzeichen der Stadt Tinta.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.406975,
+                        -14.146226
+                  ]
+            },
+            {
+                  "name": "Capilla de Pampamarca",
+                  "text": "Diese Kapelle in der Nähe der Lagune Pampamarca dient als primäre Kultstätte für die lokale andine Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -71.459716,
+                        -14.148235
+                  ]
+            },
+            {
+                  "name": "Capilla de Qquecha Qquecha “Stma Cruz 3 de Mayo”",
+                  "text": "Diese dem Heiligen Kreuz geweihte Kapelle feiert ihr wichtigstes Patronatsfest am 3. Mai.",
+                  "category": "religious",
+                  "coords": [
+                        -71.45864,
+                        -14.193082
+                  ]
+            },
+            {
+                  "name": "Calvario de la cruz de Combapata",
+                  "text": "Diese auf einem Hügel gelegene Kalvarienbergkapelle in Combapata verfügt über ein Kreuz und ist Ziel lokaler religiöser Prozessionen.",
+                  "category": "religious",
+                  "coords": [
+                        -71.426289,
+                        -14.099203
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica Combapata",
+                  "text": "Diese evangelisch-christliche Kirche bietet ihrer Gemeinde in Combapata regelmäßige Gottesdienste und eine spirituelle Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.43142,
+                        -14.102604
+                  ]
+            },
+            {
+                  "name": "Templo del Señor de Huanca de Combapata",
+                  "text": "Dieser christliche Tempel in Combapata ist dem weithin verehrten andinen Bildnis des Herrn von Huanca gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.430861,
+                        -14.097391
+                  ]
+            },
+            {
+                  "name": "Rackchi Templo Wiracocha",
+                  "text": "Diese religiöse Stätte in der Nähe der alten Inka-Ruinen dient der Gemeinde als christlicher Ort der Anbetung.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.370886,
+                        -14.173444
+                  ]
+            },
+            {
+                  "name": "Feria de Ganados y Vacunos",
+                  "text": "Diese spezialisierte Marktmesse konzentriert sich auf den lokalen Handel mit Rindern und anderen Nutztieren aus dem umliegenden Hochland.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.40249,
+                        -14.142109
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Combapata",
+                  "text": "Als überdachter Hauptmarkt von Combapata bietet dieser belebte Ort eine große Auswahl an lokalen Lebensmitteln und Vorräten.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.43017,
+                        -14.102332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tunka Suka",
+                  "text": "A Tunka Suka egy kiemelkedő hegycsúcs az Andok hegységben, Raqchi közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.486772,
+                        -14.165636
+                  ]
+            },
+            {
+                  "name": "Casa de Tupac Amaru ll",
+                  "text": "Ez a látványosság a Túpac Amaru II. forradalmi vezetőhöz köthető történelmi rezidencia.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.475786,
+                        -14.163767
+                  ]
+            },
+            {
+                  "name": "Dos lagunas. Asnacocha y Pampamarca",
+                  "text": "Ez a kilátó széles panorámát kínál az Asnacocha és a Pampamarca tavakra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.464253,
+                        -14.121507
+                  ]
+            },
+            {
+                  "name": "Mirador de Ausangate",
+                  "text": "Ebből a megfigyelőpontból tiszta kilátás nyílik a távoli, hófödte Ausangate-hegyre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.448858,
+                        -14.107716
+                  ]
+            },
+            {
+                  "name": "Teatrin municipal - Casa del Maestro",
+                  "text": "Ez a városi színház és tanári központ helyi kulturális helyszínként szolgál Raqchi térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.428703,
+                        -14.103118
+                  ]
+            },
+            {
+                  "name": "Teatrin Municipal de Combapata",
+                  "text": "A Combapata közösségét szolgáló városi színház helyi előadásoknak és kulturális összejöveteleknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.430607,
+                        -14.101384
+                  ]
+            },
+            {
+                  "name": "Parroquia San Nicolás",
+                  "text": "Ez a Szent Miklósnak szentelt plébániatemplom a helyi katolikus közösség spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -71.428816,
+                        -14.101203
+                  ]
+            },
+            {
+                  "name": "Mirador de Combapata",
+                  "text": "A Combapata felett elhelyezkedő kilátó magaslati perspektívát nyújt a városra és a környező andoki völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.432651,
+                        -14.099034
+                  ]
+            },
+            {
+                  "name": "Raqch'i",
+                  "text": "Ez az elismert örökségi helyszín egy fontos inka település monumentális romjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -71.369298,
+                        -14.17496
+                  ]
+            },
+            {
+                  "name": "Capilla de Challapampa “Virgen del Rosario”",
+                  "text": "A Rózsafüzér Királynőjének szentelt helyi kápolna a challapampai közösség vallási igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -71.455979,
+                        -14.226921
+                  ]
+            },
+            {
+                  "name": "Capilla de Puca Puca",
+                  "text": "Ez a kis istentiszteleti hely teret biztosít az imádkozáshoz és az összejövetelekhez Puca Puca településen.",
+                  "category": "religious",
+                  "coords": [
+                        -71.439529,
+                        -14.257526
+                  ]
+            },
+            {
+                  "name": "Capilla de Chicnayhua",
+                  "text": "A Chicnayhuában található közösségi kápolna hagyományos helyszíne a helyi vallási szertartásoknak.",
+                  "category": "religious",
+                  "coords": [
+                        -71.444577,
+                        -14.245802
+                  ]
+            },
+            {
+                  "name": "Capilla Chucchucalla Central “San Pedro y Pablo”",
+                  "text": "A Szent Péternek és Pálnak szentelt központi kápolna a hívők találkozóhelye Chucchucallában.",
+                  "category": "religious",
+                  "coords": [
+                        -71.400152,
+                        -14.214322
+                  ]
+            },
+            {
+                  "name": "Capilla Chuchuccaya Bajo “Santísima Cruz”",
+                  "text": "A Szent Keresztnek szentelt kápolna a Chucchucalla alsó részén élő vallási közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -71.392529,
+                        -14.219182
+                  ]
+            },
+            {
+                  "name": "Capilla alta de Chucchucalla “Señor de los Milagros”",
+                  "text": "A Chucchucalla felső részén található kápolnát a Csodák Urának szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -71.405719,
+                        -14.208015
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Dia",
+                  "text": "Ez a keresztény templom a helyi hetednapi adventista gyülekezetet szolgálja rendszeres istentiszteletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.432497,
+                        -14.215476
+                  ]
+            },
+            {
+                  "name": "Parroquia Santiago Apóstol de Yanaoca",
+                  "text": "Ez a yanaocai plébániatemplom Szent Jakab apostolnak van szentelve, és a város fő katolikus központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -71.431831,
+                        -14.217415
+                  ]
+            },
+            {
+                  "name": "Capilla de Laymi",
+                  "text": "Ez a szerény istentiszteleti hely a Laymi térség lakóinak spirituális igényeit elégíti ki.",
+                  "category": "religious",
+                  "coords": [
+                        -71.424734,
+                        -14.233484
+                  ]
+            },
+            {
+                  "name": "Capilla de Colliri Grande “Virgen de Belen”",
+                  "text": "A Betlehemi Szűznek szentelt kápolna a Colliri Grande közösség fontos vallási helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -71.455082,
+                        -14.208059
+                  ]
+            },
+            {
+                  "name": "Capilla de Pabellón “Exaltación de la Cruz”",
+                  "text": "Ez a Pabellón szektorban található helyi kápolna a Szent Kereszt felmagasztalásának van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -71.444324,
+                        -14.1784
+                  ]
+            },
+            {
+                  "name": "Collana Puquio",
+                  "text": "A helyi vízforrásról elnevezett hely hagyományos istentiszteleti és spirituális találkozóhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -71.435672,
+                        -14.197241
+                  ]
+            },
+            {
+                  "name": "Capilla de Hilanaca",
+                  "text": "Ez a helyi kápolna külön teret biztosít a vallási szertartások és a közösségi imádkozás számára Hilanacában.",
+                  "category": "religious",
+                  "coords": [
+                        -71.404154,
+                        -14.189361
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bartolomé de Tinta",
+                  "text": "Ez a Szent Bertalannak szentelt történelmi keresztény templom Tinta városának egyik kiemelkedő nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.406975,
+                        -14.146226
+                  ]
+            },
+            {
+                  "name": "Capilla de Pampamarca",
+                  "text": "A Pampamarca-lagúna közelében található kápolna a helyi andoki közösség elsődleges istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -71.459716,
+                        -14.148235
+                  ]
+            },
+            {
+                  "name": "Capilla de Qquecha Qquecha “Stma Cruz 3 de Mayo”",
+                  "text": "A Szent Keresztnek szentelt kápolna a fő védőszentjének ünnepét május 3-án tartja.",
+                  "category": "religious",
+                  "coords": [
+                        -71.45864,
+                        -14.193082
+                  ]
+            },
+            {
+                  "name": "Calvario de la cruz de Combapata",
+                  "text": "Ez a domboldali Kálvária-kápolna Combapatában egy keresztet foglal magában, és helyi vallási körmenetek célpontja.",
+                  "category": "religious",
+                  "coords": [
+                        -71.426289,
+                        -14.099203
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica Combapata",
+                  "text": "Ez az evangéliumi keresztény templom rendszeres istentiszteleteket és spirituális közösséget biztosít gyülekezetének Combapatában.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.43142,
+                        -14.102604
+                  ]
+            },
+            {
+                  "name": "Templo del Señor de Huanca de Combapata",
+                  "text": "Ezt a combapatai keresztény templomot a széles körben tisztelt andoki Huanca Urának szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.430861,
+                        -14.097391
+                  ]
+            },
+            {
+                  "name": "Rackchi Templo Wiracocha",
+                  "text": "Az ősi inka romok közelében található vallási helyszín keresztény istentiszteleti helyként szolgál a közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.370886,
+                        -14.173444
+                  ]
+            },
+            {
+                  "name": "Feria de Ganados y Vacunos",
+                  "text": "Ez a specializált vásár a szarvasmarhák és a környező felföldről származó egyéb állatok helyi kereskedelmére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.40249,
+                        -14.142109
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Combapata",
+                  "text": "Combapata fő fedett piacaként ez a nyüzsgő hely a helyi élelmiszerek és készletek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.43017,
+                        -14.102332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tunka Suka",
+                  "text": "Tunka Suka este un vârf proeminent din munții Anzi, situat în apropiere de Raqchi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.486772,
+                        -14.165636
+                  ]
+            },
+            {
+                  "name": "Casa de Tupac Amaru ll",
+                  "text": "Această atracție este reședința istorică asociată cu liderul revoluționar Túpac Amaru al II-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.475786,
+                        -14.163767
+                  ]
+            },
+            {
+                  "name": "Dos lagunas. Asnacocha y Pampamarca",
+                  "text": "Acest punct de belvedere oferă o vedere panoramică amplă asupra lacurilor Asnacocha și Pampamarca.",
+                  "category": "natural",
+                  "coords": [
+                        -71.464253,
+                        -14.121507
+                  ]
+            },
+            {
+                  "name": "Mirador de Ausangate",
+                  "text": "Din acest punct de observație, vizitatorii se pot bucura de vederi clare ale muntelui îndepărtat cu creste înzăpezite Ausangate.",
+                  "category": "natural",
+                  "coords": [
+                        -71.448858,
+                        -14.107716
+                  ]
+            },
+            {
+                  "name": "Teatrin municipal - Casa del Maestro",
+                  "text": "Acest teatru municipal și centru pentru profesori servește ca un loc de desfășurare a evenimentelor culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.428703,
+                        -14.103118
+                  ]
+            },
+            {
+                  "name": "Teatrin Municipal de Combapata",
+                  "text": "Deservind comunitatea din Combapata, acest teatru municipal găzduiește spectacole locale și adunări culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.430607,
+                        -14.101384
+                  ]
+            },
+            {
+                  "name": "Parroquia San Nicolás",
+                  "text": "Această biserică parohială cu hramul Sfântului Nicolae servește ca centru spiritual pentru comunitatea catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        -71.428816,
+                        -14.101203
+                  ]
+            },
+            {
+                  "name": "Mirador de Combapata",
+                  "text": "Situat deasupra orașului Combapata, acest punct de belvedere oferă o perspectivă înaltă asupra localității și a văii andine înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -71.432651,
+                        -14.099034
+                  ]
+            },
+            {
+                  "name": "Raqch'i",
+                  "text": "Acest sit de patrimoniu recunoscut prezintă ruinele monumentale ale unei importante așezări incașe.",
+                  "category": "historical",
+                  "coords": [
+                        -71.369298,
+                        -14.17496
+                  ]
+            },
+            {
+                  "name": "Capilla de Challapampa “Virgen del Rosario”",
+                  "text": "Dedicată Fecioarei Rozariului, această capelă locală deservește nevoile religioase ale comunității din Challapampa.",
+                  "category": "religious",
+                  "coords": [
+                        -71.455979,
+                        -14.226921
+                  ]
+            },
+            {
+                  "name": "Capilla de Puca Puca",
+                  "text": "Acest mic lăcaș de cult oferă un spațiu pentru rugăciune și adunări în așezarea Puca Puca.",
+                  "category": "religious",
+                  "coords": [
+                        -71.439529,
+                        -14.257526
+                  ]
+            },
+            {
+                  "name": "Capilla de Chicnayhua",
+                  "text": "Situată în Chicnayhua, această capelă comunitară este un loc tradițional pentru slujbele religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        -71.444577,
+                        -14.245802
+                  ]
+            },
+            {
+                  "name": "Capilla Chucchucalla Central “San Pedro y Pablo”",
+                  "text": "Închinată Sfinților Petru și Pavel, această capelă centrală este un punct de atracție pentru credincioșii din Chucchucalla.",
+                  "category": "religious",
+                  "coords": [
+                        -71.400152,
+                        -14.214322
+                  ]
+            },
+            {
+                  "name": "Capilla Chuchuccaya Bajo “Santísima Cruz”",
+                  "text": "Dedicată Sfintei Cruci, această capelă deservește comunitatea religioasă din partea de jos a zonei Chucchucalla.",
+                  "category": "religious",
+                  "coords": [
+                        -71.392529,
+                        -14.219182
+                  ]
+            },
+            {
+                  "name": "Capilla alta de Chucchucalla “Señor de los Milagros”",
+                  "text": "Situată în partea de sus a localității Chucchucalla, această capelă este dedicată Domnului Miracolelor.",
+                  "category": "religious",
+                  "coords": [
+                        -71.405719,
+                        -14.208015
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Dia",
+                  "text": "Această biserică creștină deservește congregația locală a Adventiștilor de Ziua a Șaptea prin slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.432497,
+                        -14.215476
+                  ]
+            },
+            {
+                  "name": "Parroquia Santiago Apóstol de Yanaoca",
+                  "text": "Această biserică parohială din Yanaoca îi este dedicată Sfântului Apostol Iacob și servește ca principal centru catolic al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -71.431831,
+                        -14.217415
+                  ]
+            },
+            {
+                  "name": "Capilla de Laymi",
+                  "text": "Acest lăcaș de cult modest satisface nevoile spirituale ale locuitorilor din zona Laymi.",
+                  "category": "religious",
+                  "coords": [
+                        -71.424734,
+                        -14.233484
+                  ]
+            },
+            {
+                  "name": "Capilla de Colliri Grande “Virgen de Belen”",
+                  "text": "Dedicată Fecioarei din Betleem, această capelă este un sit religios important pentru comunitatea din Colliri Grande.",
+                  "category": "religious",
+                  "coords": [
+                        -71.455082,
+                        -14.208059
+                  ]
+            },
+            {
+                  "name": "Capilla de Pabellón “Exaltación de la Cruz”",
+                  "text": "Această capelă locală din sectorul Pabellón este dedicată Înălțării Sfintei Cruci.",
+                  "category": "religious",
+                  "coords": [
+                        -71.444324,
+                        -14.1784
+                  ]
+            },
+            {
+                  "name": "Collana Puquio",
+                  "text": "Numit după o sursă locală de apă, acest loc servește ca un spațiu tradițional de cult și adunare spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        -71.435672,
+                        -14.197241
+                  ]
+            },
+            {
+                  "name": "Capilla de Hilanaca",
+                  "text": "Această capelă locală oferă un spațiu dedicat ceremoniilor religioase și rugăciunii comunitare în Hilanaca.",
+                  "category": "religious",
+                  "coords": [
+                        -71.404154,
+                        -14.189361
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bartolomé de Tinta",
+                  "text": "Dedicată Sfântului Bartolomeu, această biserică creștină istorică este un punct de reper important în orașul Tinta.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.406975,
+                        -14.146226
+                  ]
+            },
+            {
+                  "name": "Capilla de Pampamarca",
+                  "text": "Situată în apropiere de laguna Pampamarca, această capelă servește ca lăcaș de cult principal pentru comunitatea andină locală.",
+                  "category": "religious",
+                  "coords": [
+                        -71.459716,
+                        -14.148235
+                  ]
+            },
+            {
+                  "name": "Capilla de Qquecha Qquecha “Stma Cruz 3 de Mayo”",
+                  "text": "Dedicată Sfintei Cruci, această capelă își sărbătorește principalul hram patronal pe 3 mai.",
+                  "category": "religious",
+                  "coords": [
+                        -71.45864,
+                        -14.193082
+                  ]
+            },
+            {
+                  "name": "Calvario de la cruz de Combapata",
+                  "text": "Această capelă pe colină, de tip Calvar, din Combapata prezintă o cruce și servește drept destinație pentru procesiunile religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        -71.426289,
+                        -14.099203
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica Combapata",
+                  "text": "Această biserică creștină evanghelică oferă slujbe regulate și o comunitate spirituală pentru congregația sa din Combapata.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.43142,
+                        -14.102604
+                  ]
+            },
+            {
+                  "name": "Templo del Señor de Huanca de Combapata",
+                  "text": "Acest templu creștin din Combapata este dedicat imaginii andine larg venerate a Domnului din Huanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.430861,
+                        -14.097391
+                  ]
+            },
+            {
+                  "name": "Rackchi Templo Wiracocha",
+                  "text": "Situat în apropierea vechilor ruine incașe, acest sit religios servește comunității ca lăcaș de cult creștin.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.370886,
+                        -14.173444
+                  ]
+            },
+            {
+                  "name": "Feria de Ganados y Vacunos",
+                  "text": "Acest târg de piață specializat se concentrează pe comerțul local cu bovine și alte animale din zonele muntoase înconjurătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.40249,
+                        -14.142109
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Combapata",
+                  "text": "Ca principală piață interioară din Combapata, acest loc plin de viață oferă o mare varietate de alimente și provizii locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.43017,
+                        -14.102332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tunka Suka",
+                  "text": "Tunka Suka is a prominent peak in the Andes mountain range near Raqchi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.486772,
+                        -14.165636
+                  ]
+            },
+            {
+                  "name": "Casa de Tupac Amaru ll",
+                  "text": "This attraction is the historical residence associated with the revolutionary leader Túpac Amaru II in the Raqchi area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.475786,
+                        -14.163767
+                  ]
+            },
+            {
+                  "name": "Dos lagunas. Asnacocha y Pampamarca",
+                  "text": "This viewpoint offers a sweeping panoramic view over the Asnacocha and Pampamarca lakes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.464253,
+                        -14.121507
+                  ]
+            },
+            {
+                  "name": "Mirador de Ausangate",
+                  "text": "From this observation point, visitors can enjoy clear views of the distant Ausangate snow-capped mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -71.448858,
+                        -14.107716
+                  ]
+            },
+            {
+                  "name": "Teatrin municipal - Casa del Maestro",
+                  "text": "This municipal theatre and teachers' center serves as a local cultural venue in the Raqchi area.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.428703,
+                        -14.103118
+                  ]
+            },
+            {
+                  "name": "Teatrin Municipal de Combapata",
+                  "text": "Serving the Combapata community, this municipal theatre hosts local performances and cultural gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.430607,
+                        -14.101384
+                  ]
+            },
+            {
+                  "name": "Parroquia San Nicolás",
+                  "text": "This parish church dedicated to Saint Nicholas serves as a spiritual center for the local Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        -71.428816,
+                        -14.101203
+                  ]
+            },
+            {
+                  "name": "Mirador de Combapata",
+                  "text": "Situated above Combapata, this viewpoint provides an elevated perspective over the town and surrounding Andean valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.432651,
+                        -14.099034
+                  ]
+            },
+            {
+                  "name": "Raqch'i",
+                  "text": "This recognized heritage site features the monumental ruins of an important Inca settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -71.369298,
+                        -14.17496
+                  ]
+            },
+            {
+                  "name": "Capilla de Challapampa “Virgen del Rosario”",
+                  "text": "Dedicated to the Virgin of the Rosary, this local chapel serves the religious needs of the Challapampa community.",
+                  "category": "religious",
+                  "coords": [
+                        -71.455979,
+                        -14.226921
+                  ]
+            },
+            {
+                  "name": "Capilla de Puca Puca",
+                  "text": "This small place of worship provides a space for prayer and gathering in the Puca Puca settlement.",
+                  "category": "religious",
+                  "coords": [
+                        -71.439529,
+                        -14.257526
+                  ]
+            },
+            {
+                  "name": "Capilla de Chicnayhua",
+                  "text": "Situated in Chicnayhua, this community chapel stands as a traditional venue for local religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -71.444577,
+                        -14.245802
+                  ]
+            },
+            {
+                  "name": "Capilla Chucchucalla Central “San Pedro y Pablo”",
+                  "text": "Honoring Saints Peter and Paul, this central chapel is a focal point for the faithful in Chucchucalla.",
+                  "category": "religious",
+                  "coords": [
+                        -71.400152,
+                        -14.214322
+                  ]
+            },
+            {
+                  "name": "Capilla Chucchucalla Bajo “Santísima Cruz”",
+                  "text": "Dedicated to the Holy Cross, this chapel serves the religious community in the lower part of Chucchucalla.",
+                  "category": "religious",
+                  "coords": [
+                        -71.392529,
+                        -14.219182
+                  ]
+            },
+            {
+                  "name": "Capilla alta de Chucchucalla “Señor de los milagros”",
+                  "text": "Located in the upper section of Chucchucalla, this chapel is dedicated to the Lord of Miracles.",
+                  "category": "religious",
+                  "coords": [
+                        -71.405719,
+                        -14.208015
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Dia",
+                  "text": "This Christian church serves the local Seventh-day Adventist congregation with regular worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.432497,
+                        -14.215476
+                  ]
+            },
+            {
+                  "name": "Parroquia Santiago Apóstol de Yanaoca",
+                  "text": "This parish church in Yanaoca is dedicated to Saint James the Apostle and serves as the main Catholic center of the town.",
+                  "category": "religious",
+                  "coords": [
+                        -71.431831,
+                        -14.217415
+                  ]
+            },
+            {
+                  "name": "Capilla de Laymi",
+                  "text": "This modest place of worship accommodates the spiritual needs of the residents in the Laymi area.",
+                  "category": "religious",
+                  "coords": [
+                        -71.424734,
+                        -14.233484
+                  ]
+            },
+            {
+                  "name": "Capilla de Colliri Grande “Virgen de Belen”",
+                  "text": "Dedicated to the Virgin of Bethlehem, this chapel is a key religious site for the community of Colliri Grande.",
+                  "category": "religious",
+                  "coords": [
+                        -71.455082,
+                        -14.208059
+                  ]
+            },
+            {
+                  "name": "Capilla de Pabellón “Exaltación de la Cruz”",
+                  "text": "This local chapel in the Pabellón sector is dedicated to the Exaltation of the Holy Cross.",
+                  "category": "religious",
+                  "coords": [
+                        -71.444324,
+                        -14.1784
+                  ]
+            },
+            {
+                  "name": "Collana Puquio",
+                  "text": "Named after a local water source, this site serves as a traditional place of worship and spiritual gathering.",
+                  "category": "religious",
+                  "coords": [
+                        -71.435672,
+                        -14.197241
+                  ]
+            },
+            {
+                  "name": "Capilla de Hilanaca",
+                  "text": "This local chapel provides a dedicated space for religious ceremonies and community prayer in Hilanaca.",
+                  "category": "religious",
+                  "coords": [
+                        -71.404154,
+                        -14.189361
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bartolomé de Tinta",
+                  "text": "Dedicated to Saint Bartholomew, this historic Christian church is a prominent landmark in the town of Tinta.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.406975,
+                        -14.146226
+                  ]
+            },
+            {
+                  "name": "Capilla de Pampamarca",
+                  "text": "Located near the Pampamarca lagoon, this chapel serves as the primary place of worship for the local Andean community.",
+                  "category": "religious",
+                  "coords": [
+                        -71.459716,
+                        -14.148235
+                  ]
+            },
+            {
+                  "name": "Capilla de Qquecha Qquecha “Stma Cruz 3 de Mayo”",
+                  "text": "Dedicated to the Holy Cross, this chapel celebrates its main patronal feast on the 3rd of May.",
+                  "category": "religious",
+                  "coords": [
+                        -71.45864,
+                        -14.193082
+                  ]
+            },
+            {
+                  "name": "Calvario de la cruz de Combapata",
+                  "text": "This hillside Calvary chapel in Combapata features a cross and serves as a destination for local religious processions.",
+                  "category": "religious",
+                  "coords": [
+                        -71.426289,
+                        -14.099203
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica Combapata",
+                  "text": "This Evangelical Christian church provides regular services and spiritual community for its congregation in Combapata.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.43142,
+                        -14.102604
+                  ]
+            },
+            {
+                  "name": "Templo del Señor de Huanca de Combapata",
+                  "text": "This Christian temple in Combapata is dedicated to the widely venerated Andean image of the Lord of Huanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.430861,
+                        -14.097391
+                  ]
+            },
+            {
+                  "name": "Rackchi Templo Wiracocha",
+                  "text": "Located near the ancient Inca ruins, this site serves the community as a Christian place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.370886,
+                        -14.173444
+                  ]
+            },
+            {
+                  "name": "Feria de Ganados y Vacunos",
+                  "text": "This specialized market fair focuses on the local trade of cattle and other livestock from the surrounding highlands.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.40249,
+                        -14.142109
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Combapata",
+                  "text": "As the main indoor market of Combapata, this bustling venue offers a wide variety of local food and supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.43017,
+                        -14.102332
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-CUS",
     coords: [-71.397, -14.18],
@@ -469,7 +7948,88 @@ export const poiExtraPeruHistoryV2: POI[] = [
       fr: ["Les Qolqas servaient à stocker les céréales et les denrées alimentaires pour la région.", "Le mur central est composé de pierre inca finement taillée à la base et de briques de terre en haut.", "À proximité se trouve un lac artificiel qui était probablement utilisé à des fins rituelles.", "Raqchi est situé directement sur l'importante route inca \"Qhapaq Ñan\".", "Chaque année, le festival de Raqchi s'y déroule avec des danses et de la musique traditionnelles."],
     }, image: "/poi-images/raqchi-history-v2.webp"},
   {
-    id: "chauchilla-history-v2",
+    id: "chauchilla-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Chauchilla",
+                  "text": "Dieses Museum zeigt archäologische Funde und gut erhaltene Textilien aus dem nahegelegenen Mumienfriedhof der Nazca-Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -74.928151,
+                        -14.983154
+                  ]
+            },
+            {
+                  "name": "Cementerio de Chauchilla",
+                  "text": "Eine antike Nekropole der Nazca, in der Mumien und Keramiken in ihren ursprünglichen Wüstengräbern unter freiem Himmel zu sehen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.926941,
+                        -14.982715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Chauchilla",
+                  "text": "A múzeum a közeli Nazca-kori múmiatemetőből származó régészeti leleteket és jó állapotban fennmaradt textileket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -74.928151,
+                        -14.983154
+                  ]
+            },
+            {
+                  "name": "Cementerio de Chauchilla",
+                  "text": "Egy ősi Nazca nekropolisz, ahol a múmiák és kerámiák láthatóak maradnak az eredeti, szabadtéri sivatagi sírokban.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.926941,
+                        -14.982715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Chauchilla",
+                  "text": "Acest muzeu expune descoperiri arheologice și textile bine conservate din cimitirul de mumii din epoca Nazca din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        -74.928151,
+                        -14.983154
+                  ]
+            },
+            {
+                  "name": "Cementerio de Chauchilla",
+                  "text": "O necropolă antică Nazca unde mumiile și ceramica pot fi văzute în mormintele lor originale din deșert, în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.926941,
+                        -14.982715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Chauchilla",
+                  "text": "This museum exhibits archaeological finds and well-preserved textiles from the nearby Nazca-era mummy cemetery.",
+                  "category": "museum",
+                  "coords": [
+                        -74.928151,
+                        -14.983154
+                  ]
+            },
+            {
+                  "name": "Cementerio de Chauchilla",
+                  "text": "An ancient Nazca necropolis where mummies and ceramics can be seen in their original open-air desert tombs.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.926941,
+                        -14.982715
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "PE-ICA",
     coords: [-74.927, -14.981],

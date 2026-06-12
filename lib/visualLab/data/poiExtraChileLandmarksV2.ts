@@ -3,7 +3,808 @@ import type { POI } from "./poi";
 
 export const poiExtraChileLandmarksV2: POI[] = [
   {
-    id: "torres-del-paine-landmarks-v2",
+    id: "torres-del-paine-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salto grande Peohe",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf das kaskadierende türkisfarbene Wasser, das in den See Pehoé fließt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.006268,
+                        -51.067137
+                  ]
+            },
+            {
+                  "name": "Mirador Cuernos",
+                  "text": "Ein dramatischer malerischer Aussichtspunkt mit direktem, unverbautem Blick auf die zerklüfteten, hornförmigen Cuernos del Paine.",
+                  "category": "natural",
+                  "coords": [
+                        -73.012343,
+                        -51.048291
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Sköttsberg",
+                  "text": "Ein Aussichtspunkt am Wegesrand mit Blick auf das lebhafte Gletscherwasser des Sköttsberg-Sees vor einer Bergkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        -73.074352,
+                        -51.054075
+                  ]
+            },
+            {
+                  "name": "Mirador del Glaciar Francés",
+                  "text": "Ein beliebter Aussichtspunkt, an dem Wanderer beobachten und hören können, wie riesige Eisblöcke vom hängenden Französischen Gletscher abbrechen.",
+                  "category": "natural",
+                  "coords": [
+                        -73.045289,
+                        -51.019947
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein hochgelegener Rastplatz mit weitem Panoramablick über die raue patagonische Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        -73.035771,
+                        -51.027518
+                  ]
+            },
+            {
+                  "name": "Mirador Ouairy",
+                  "text": "Ein markanter Aussichtspunkt am Wegesrand, der die dramatischen, windgepeitschten Felsformationen der patagonischen Landschaft zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.052881,
+                        -50.994767
+                  ]
+            },
+            {
+                  "name": "Valle del Francés",
+                  "text": "Ein spektakulärer Aussichtspunkt in einem Bergtal, der von einem dramatischen Amphitheater aus aufragenden Granitwänden umschlossen ist.",
+                  "category": "natural",
+                  "coords": [
+                        -73.052989,
+                        -51.008158
+                  ]
+            },
+            {
+                  "name": "Cerro Paine Grande",
+                  "text": "Der höchste und massivste Gipfel der Cordillera Paine, der majestätisch über die patagonische Steppe ragt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.086651,
+                        -50.995113
+                  ]
+            },
+            {
+                  "name": "Mirador Británico",
+                  "text": "Eine berühmte Aussichtsplattform in einem tiefen Tal, die vollständig von einem Kar aus imposanten Granitnadeln umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        -73.053754,
+                        -50.982677
+                  ]
+            },
+            {
+                  "name": "Paso Oggioni",
+                  "text": "Ein anspruchsvoller, rauer Gebirgspass, der einen weiten Blick über das abgelegene patagonische Hinterland eröffnet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.991107,
+                        -50.91313
+                  ]
+            },
+            {
+                  "name": "Paso del Viento",
+                  "text": "Ein berüchtigt böiger Sattel, der exponierte Wanderer mit atemberaubenden Ausblicken auf Gletschertäler belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.902706,
+                        -50.963425
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna de los Cisnes",
+                  "text": "Ein ruhiger Aussichtspunkt mit Blick auf eine friedliche Küstenlagune, die oft von einheimischen Wasservögeln aufgesucht wird.",
+                  "category": "natural",
+                  "coords": [
+                        -72.868998,
+                        -51.030656
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Larga",
+                  "text": "Ein Aussichtspunkt mit Blick über das langgestreckte, farbenprächtige Wasser der Laguna Larga, eingebettet in das Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        -72.87459,
+                        -51.023893
+                  ]
+            },
+            {
+                  "name": "Cordillera Paine",
+                  "text": "Eine spektakuläre Berggruppe im Nationalpark Patagonien, berühmt für ihre ikonischen, hoch aufragenden Granittürme.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.000536,
+                        -51.000198
+                  ]
+            },
+            {
+                  "name": "Mirador Matilda",
+                  "text": "Ein malerischer Rastplatz, der entlang der weitläufigen Wanderwege des Nationalparks weite Landschaftsausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.977252,
+                        -51.025301
+                  ]
+            },
+            {
+                  "name": "Mirador Cuernos",
+                  "text": "Ein beliebter Halt auf dem Wanderweg, der eine direkte Perspektive über das Wasser auf die markanten hornförmigen Berggipfel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.946369,
+                        -51.016084
+                  ]
+            },
+            {
+                  "name": "Nordenskjöld Lookout",
+                  "text": "Ein malerischer Aussichtspunkt, der die intensive blaue Weite und die kräuselnde Oberfläche des Nordenskjöld-Sees einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.932062,
+                        -51.043271
+                  ]
+            },
+            {
+                  "name": "Sitio Histórico Guardería Pudeto",
+                  "text": "Eine historische Rangerstation mit herrlichem Blick auf die umliegenden patagonischen Seen und Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        -72.985184,
+                        -51.062401
+                  ]
+            },
+            {
+                  "name": "Mirador Salto Grande",
+                  "text": "Eine Aussichtsplattform, die eine hautnahe, ohrenbetäubende Perspektive auf den tosenden Wasserfall Salto Grande bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.995902,
+                        -51.070691
+                  ]
+            },
+            {
+                  "name": "Mirador de Lagunas Mellizas",
+                  "text": "Ein Aussichtspunkt am Hang, der einen gespiegelten Doppelblick auf die ruhigen Gewässer der beiden Mellizas-Lagunen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.953271,
+                        -51.059399
+                  ]
+            },
+            {
+                  "name": "Mirador Nordenskjöld",
+                  "text": "Eine ausgewiesene Aussichtsplattform mit Blick auf das leuchtend türkisfarbene Gletscherwasser des weitläufigen Nordenskjöld-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        -72.909839,
+                        -51.04113
+                  ]
+            },
+            {
+                  "name": "Nationalpark Torres del Paine",
+                  "text": "Dieses ausgedehnte Naturschutzgebiet ist berühmt für seine hoch aufragenden Granitpfeiler und türkisfarbenen Seen und ein Juwel des chilenischen Patagoniens.",
+                  "category": "natural",
+                  "coords": [
+                        -73.090408,
+                        -51.035111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salto grande Peohe",
+                  "text": "Festői kilátó, amely a Pehoé-tóba ömlő, türkizkék vizű zuhatagokra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -73.006268,
+                        -51.067137
+                  ]
+            },
+            {
+                  "name": "Mirador Cuernos",
+                  "text": "Drámai, festői kilátó, amely közvetlen, akadálytalan kilátást nyújt a csipkézett, szarv alakú Cuernos del Paine csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        -73.012343,
+                        -51.048291
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Sköttsberg",
+                  "text": "Egy ösvény menti kilátó, amely hegyvidéki háttér előtt tekint le a Sköttsberg-tó élénk gleccservizére.",
+                  "category": "natural",
+                  "coords": [
+                        -73.074352,
+                        -51.054075
+                  ]
+            },
+            {
+                  "name": "Mirador del Glaciar Francés",
+                  "text": "Népszerű kilátó, ahol a túrázók megfigyelhetik és hallhatják a függő Francia-gleccserről leszakadó hatalmas jégdarabokat.",
+                  "category": "natural",
+                  "coords": [
+                        -73.045289,
+                        -51.019947
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Magaslati pihenőhely, amely elsöprő panorámát nyújt a zord patagóniai vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.035771,
+                        -51.027518
+                  ]
+            },
+            {
+                  "name": "Mirador Ouairy",
+                  "text": "Egy különleges ösvény menti kilátó, amely a patagóniai táj drámai, szélfútta sziklaalakzatait mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        -73.052881,
+                        -50.994767
+                  ]
+            },
+            {
+                  "name": "Valle del Francés",
+                  "text": "Egy látványos hegyivölgy-kilátó, amelyet tornyosuló gránitfalak drámai amfiteátruma vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        -73.052989,
+                        -51.008158
+                  ]
+            },
+            {
+                  "name": "Cerro Paine Grande",
+                  "text": "A Cordillera Paine legmagasabb és legmasszívabb csúcsa, amely fenségesen magasodik a patagóniai sztyeppe fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -73.086651,
+                        -50.995113
+                  ]
+            },
+            {
+                  "name": "Mirador Británico",
+                  "text": "Egy híres, mélyvölgyi kilátó, amelyet impozáns gránittornyok katlanja vesz teljesen körül.",
+                  "category": "natural",
+                  "coords": [
+                        -73.053754,
+                        -50.982677
+                  ]
+            },
+            {
+                  "name": "Paso Oggioni",
+                  "text": "Egy megterhelő, zord hegyi hágó, amely kiterjedt kilátást nyújt a távoli patagóniai hátországra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.991107,
+                        -50.91313
+                  ]
+            },
+            {
+                  "name": "Paso del Viento",
+                  "text": "Egy hírhedten szeles ösvénynyereg, amely lélegzetelállító gleccservölgyek látványával jutalmazza a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        -72.902706,
+                        -50.963425
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna de los Cisnes",
+                  "text": "Egy derűs kilátó, amely egy békés parti lagúnára irányul, amelyet gyakran látogatnak őshonos vízimadarak.",
+                  "category": "natural",
+                  "coords": [
+                        -72.868998,
+                        -51.030656
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Larga",
+                  "text": "Egy kilátópont, amely a terepbe ágyazott Laguna Larga elnyújtott, élénk színű vizén tekint végig.",
+                  "category": "natural",
+                  "coords": [
+                        -72.87459,
+                        -51.023893
+                  ]
+            },
+            {
+                  "name": "Cordillera Paine",
+                  "text": "Látványos hegycsoport a Patagónia Nemzeti Parkban, amely ikonikus, égbe nyúló gránittornyairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.000536,
+                        -51.000198
+                  ]
+            },
+            {
+                  "name": "Mirador Matilda",
+                  "text": "Festői pihenő kilátó, amely hatalmas tájképi kilátást kínál a nemzeti park kiterjedt túraútvonalai mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -72.977252,
+                        -51.025301
+                  ]
+            },
+            {
+                  "name": "Mirador Cuernos",
+                  "text": "Népszerű ösvénymegálló, amely közvetlen perspektívát nyújt a vízen keresztül a feltűnő szarv alakú hegycsúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.946369,
+                        -51.016084
+                  ]
+            },
+            {
+                  "name": "Nordenskjöld Lookout",
+                  "text": "Festői kilátó, amely megörökíti a Nordenskjöld-tó intenzív kék kiterjedését és hullámzó felszínét.",
+                  "category": "natural",
+                  "coords": [
+                        -72.932062,
+                        -51.043271
+                  ]
+            },
+            {
+                  "name": "Sitio Histórico Guardería Pudeto",
+                  "text": "Történelmi parkőr-állomás, amely parancsoló kilátást nyújt a környező patagóniai tavakra és dombokra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.985184,
+                        -51.062401
+                  ]
+            },
+            {
+                  "name": "Mirador Salto Grande",
+                  "text": "Egy kilátóterasz, amely testközeli, fülsiketítő perspektívát nyújt a dübörgő Salto Grande vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -72.995902,
+                        -51.070691
+                  ]
+            },
+            {
+                  "name": "Mirador de Lagunas Mellizas",
+                  "text": "Egy domboldali kilátópont, amely tükrözött kettős kilátást nyújt az iker Mellizas-lagúnák nyugodt vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -72.953271,
+                        -51.059399
+                  ]
+            },
+            {
+                  "name": "Mirador Nordenskjöld",
+                  "text": "Kijelölt kilátóterasz, amely a hatalmas Nordenskjöld-tó élénk türkizkék gleccservizére fókuszál.",
+                  "category": "natural",
+                  "coords": [
+                        -72.909839,
+                        -51.04113
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Torres del Paine",
+                  "text": "A magasba törő gránitoszlopairól és türkizkék tavairól híres hatalmas természetvédelmi terület a chilei Patagónia ékköve.",
+                  "category": "natural",
+                  "coords": [
+                        -73.090408,
+                        -51.035111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salto grande Peohe",
+                  "text": "Un punct de belvedere pitoresc cu vedere la apele turcoaz în cascadă care curg în Lacul Pehoé.",
+                  "category": "natural",
+                  "coords": [
+                        -73.006268,
+                        -51.067137
+                  ]
+            },
+            {
+                  "name": "Mirador Cuernos",
+                  "text": "Un punct de observație pitoresc dramatic care oferă vederi directe, neobstrucționate asupra vârfurilor zimțate în formă de corn ale Cuernos del Paine.",
+                  "category": "natural",
+                  "coords": [
+                        -73.012343,
+                        -51.048291
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Sköttsberg",
+                  "text": "Un punct de belvedere de pe marginea traseului, cu vedere la apele glaciare vii ale lacului Sköttsberg, pe un fundal montan.",
+                  "category": "natural",
+                  "coords": [
+                        -73.074352,
+                        -51.054075
+                  ]
+            },
+            {
+                  "name": "Mirador del Glaciar Francés",
+                  "text": "Un punct de observație popular unde drumeții pot privi și auzi bucăți uriașe de gheață desprinzându-se din Ghețarul Francez suspendat.",
+                  "category": "natural",
+                  "coords": [
+                        -73.045289,
+                        -51.019947
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de odihnă la mare altitudine, care oferă vederi panoramice vaste asupra sălbăticiei accidentate a Patagoniei.",
+                  "category": "natural",
+                  "coords": [
+                        -73.035771,
+                        -51.027518
+                  ]
+            },
+            {
+                  "name": "Mirador Ouairy",
+                  "text": "Un punct de observație distinct pe marginea traseului, care prezintă formațiunile stâncoase dramatice, bătute de vânt, ale peisajului patagonic.",
+                  "category": "natural",
+                  "coords": [
+                        -73.052881,
+                        -50.994767
+                  ]
+            },
+            {
+                  "name": "Valle del Francés",
+                  "text": "Un punct de belvedere spectaculos într-o vale montană, închis de un amfiteatru dramatic de pereți de granit impunători.",
+                  "category": "natural",
+                  "coords": [
+                        -73.052989,
+                        -51.008158
+                  ]
+            },
+            {
+                  "name": "Cerro Paine Grande",
+                  "text": "Cel mai înalt și masiv vârf din Cordillera Paine, înălțându-se maiestuos deasupra stepei patagonice.",
+                  "category": "natural",
+                  "coords": [
+                        -73.086651,
+                        -50.995113
+                  ]
+            },
+            {
+                  "name": "Mirador Británico",
+                  "text": "O faimoasă platformă de observație dintr-o vale adâncă, complet înconjurată de un circ de turle impunătoare de granit.",
+                  "category": "natural",
+                  "coords": [
+                        -73.053754,
+                        -50.982677
+                  ]
+            },
+            {
+                  "name": "Paso Oggioni",
+                  "text": "O trecătoare montană solicitantă și accidentată care deschide vederi întinse asupra zonelor îndepărtate ale Patagoniei.",
+                  "category": "natural",
+                  "coords": [
+                        -72.991107,
+                        -50.91313
+                  ]
+            },
+            {
+                  "name": "Paso del Viento",
+                  "text": "O șa de traseu notoriu de vântoasă, care răsplătește drumeții expuși cu priveliști uluitoare ale văilor glaciare.",
+                  "category": "natural",
+                  "coords": [
+                        -72.902706,
+                        -50.963425
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna de los Cisnes",
+                  "text": "Un punct de belvedere senin îndreptat spre o lagună pașnică de coastă, adesea frecventată de păsări de apă native.",
+                  "category": "natural",
+                  "coords": [
+                        -72.868998,
+                        -51.030656
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Larga",
+                  "text": "Un punct de observație care privește peste apele alungite și viu colorate ale Laguna Larga, cuibărită în teren.",
+                  "category": "natural",
+                  "coords": [
+                        -72.87459,
+                        -51.023893
+                  ]
+            },
+            {
+                  "name": "Cordillera Paine",
+                  "text": "Un grup montan spectaculos în Parcul Național Patagonia, renumit pentru turnurile sale emblematice de granit care se înalță.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.000536,
+                        -51.000198
+                  ]
+            },
+            {
+                  "name": "Mirador Matilda",
+                  "text": "Un punct de odihnă pitoresc care oferă vederi vaste ale peisajului de-a lungul traseelor extinse de drumeții din parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        -72.977252,
+                        -51.025301
+                  ]
+            },
+            {
+                  "name": "Mirador Cuernos",
+                  "text": "O oprire populară pe traseu care oferă o perspectivă directă peste apă către vârfurile muntoase izbitoare în formă de corn.",
+                  "category": "natural",
+                  "coords": [
+                        -72.946369,
+                        -51.016084
+                  ]
+            },
+            {
+                  "name": "Nordenskjöld Lookout",
+                  "text": "Un punct de belvedere pitoresc care surprinde întinderea albastră intensă și suprafața ondulată a lacului Nordenskjöld.",
+                  "category": "natural",
+                  "coords": [
+                        -72.932062,
+                        -51.043271
+                  ]
+            },
+            {
+                  "name": "Sitio Histórico Guardería Pudeto",
+                  "text": "O stație istorică de pădurari care oferă vederi impunătoare asupra lacurilor și dealurilor patagonice din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -72.985184,
+                        -51.062401
+                  ]
+            },
+            {
+                  "name": "Mirador Salto Grande",
+                  "text": "O punte de observație care oferă o perspectivă de aproape, asurzitoare asupra cascadei urlătoare Salto Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -72.995902,
+                        -51.070691
+                  ]
+            },
+            {
+                  "name": "Mirador de Lagunas Mellizas",
+                  "text": "Un punct de observație pe coasta dealului, oferind o vedere dublă în oglindă asupra apelor calme ale lagunelor gemene Mellizas.",
+                  "category": "natural",
+                  "coords": [
+                        -72.953271,
+                        -51.059399
+                  ]
+            },
+            {
+                  "name": "Mirador Nordenskjöld",
+                  "text": "O platformă de vizionare desemnată, axată pe apele glaciare turcoaz vii ale lacului expansiv Nordenskjöld.",
+                  "category": "natural",
+                  "coords": [
+                        -72.909839,
+                        -51.04113
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Torres del Paine",
+                  "text": "Renumită pentru stâlpii săi de granit și lacurile turcoaz, această vastă rezervație naturală este o bijuterie a Patagoniei chiliene.",
+                  "category": "natural",
+                  "coords": [
+                        -73.090408,
+                        -51.035111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salto grande Peohe",
+                  "text": "A scenic viewpoint overlooking the cascading turquoise waters flowing into Lake Pehoé.",
+                  "category": "natural",
+                  "coords": [
+                        -73.006268,
+                        -51.067137
+                  ]
+            },
+            {
+                  "name": "Cuernos Lookout",
+                  "text": "A dramatic scenic overlook providing direct, unobstructed views of the jagged, horn-shaped Cuernos del Paine.",
+                  "category": "natural",
+                  "coords": [
+                        -73.012343,
+                        -51.048291
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Sköttsberg",
+                  "text": "A trailside viewpoint overlooking the vivid glacial waters of Lake Sköttsberg against a mountain backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        -73.074352,
+                        -51.054075
+                  ]
+            },
+            {
+                  "name": "Mirador del Glaciar Francés",
+                  "text": "A popular vantage point where hikers can watch and hear huge chunks of ice calving from the hanging French Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -73.045289,
+                        -51.019947
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A high-altitude resting point offering sweeping panoramic views over the rugged Patagonian wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -73.035771,
+                        -51.027518
+                  ]
+            },
+            {
+                  "name": "Ouairy Viewpoint",
+                  "text": "A distinct trailside overlook showcasing the dramatic, windswept rock formations of the Patagonian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -73.052881,
+                        -50.994767
+                  ]
+            },
+            {
+                  "name": "Francés Valley",
+                  "text": "A spectacular mountain valley viewpoint enclosed by a dramatic amphitheater of towering granite walls.",
+                  "category": "natural",
+                  "coords": [
+                        -73.052989,
+                        -51.008158
+                  ]
+            },
+            {
+                  "name": "Cerro Paine Grande",
+                  "text": "The highest and most massive peak in the Cordillera Paine, soaring majestically over the Patagonian steppe.",
+                  "category": "natural",
+                  "coords": [
+                        -73.086651,
+                        -50.995113
+                  ]
+            },
+            {
+                  "name": "Británico Viewpoint",
+                  "text": "A famous deep-valley observation deck completely encircled by a cirque of imposing granite spires.",
+                  "category": "natural",
+                  "coords": [
+                        -73.053754,
+                        -50.982677
+                  ]
+            },
+            {
+                  "name": "Paso Oggioni",
+                  "text": "A demanding, rugged mountain pass that opens up expansive views over the remote Patagonian backcountry.",
+                  "category": "natural",
+                  "coords": [
+                        -72.991107,
+                        -50.91313
+                  ]
+            },
+            {
+                  "name": "Windy Pass",
+                  "text": "A notoriously gusty trail saddle rewarding exposed hikers with breathtaking sweeps of glacial valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -72.902706,
+                        -50.963425
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna de los Cisnes",
+                  "text": "A serene overlook directed toward a peaceful coastal lagoon often frequented by native waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        -72.868998,
+                        -51.030656
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Larga",
+                  "text": "A vantage point gazing across the elongated, vividly colored waters of Laguna Larga nestled in the terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -72.87459,
+                        -51.023893
+                  ]
+            },
+            {
+                  "name": "Cordillera Paine",
+                  "text": "A spectacular mountain group in Patagonia National Park, famous for its iconic, soaring granite towers.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.000536,
+                        -51.000198
+                  ]
+            },
+            {
+                  "name": "Mirador Matilda",
+                  "text": "A scenic resting overlook offering vast landscape views along the extensive hiking trails of the national park.",
+                  "category": "natural",
+                  "coords": [
+                        -72.977252,
+                        -51.025301
+                  ]
+            },
+            {
+                  "name": "Mirador Cuernos",
+                  "text": "A popular trail stop providing a direct perspective across the water to the striking horn-shaped mountain peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -72.946369,
+                        -51.016084
+                  ]
+            },
+            {
+                  "name": "Nordenskjöld Lookout",
+                  "text": "A picturesque viewpoint capturing the intense blue expanse and rippling surface of Lake Nordenskjöld.",
+                  "category": "natural",
+                  "coords": [
+                        -72.932062,
+                        -51.043271
+                  ]
+            },
+            {
+                  "name": "Sitio Histórico Guardería Pudeto",
+                  "text": "A historic ranger station site offering commanding views over the surrounding Patagonian lakes and hills.",
+                  "category": "natural",
+                  "coords": [
+                        -72.985184,
+                        -51.062401
+                  ]
+            },
+            {
+                  "name": "Mirador Salto Grande",
+                  "text": "An observation deck providing an up-close, deafening perspective of the roaring Salto Grande waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -72.995902,
+                        -51.070691
+                  ]
+            },
+            {
+                  "name": "Lookout of Mellizas lagoons",
+                  "text": "A hillside vantage point offering a mirrored double view over the calm waters of the twin Mellizas lagoons.",
+                  "category": "natural",
+                  "coords": [
+                        -72.953271,
+                        -51.059399
+                  ]
+            },
+            {
+                  "name": "Nordenskjöld Viewpoint",
+                  "text": "A designated viewing platform focusing on the vivid turquoise glacial waters of the expansive Lake Nordenskjöld.",
+                  "category": "natural",
+                  "coords": [
+                        -72.909839,
+                        -51.04113
+                  ]
+            },
+            {
+                  "name": "Torres del Paine National Park",
+                  "text": "Renowned for its soaring granite pillars and turquoise lakes, this expansive nature reserve is a crown jewel of Chilean Patagonia.",
+                  "category": "natural",
+                  "coords": [
+                        -73.090408,
+                        -51.035111
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-MA",
     coords: [-73.0, -51.0],
@@ -49,7 +850,556 @@ export const poiExtraChileLandmarksV2: POI[] = [
       fr: ["Les tours de granit sont l'emblème du parc.", "Le parc est une réserve de biosphère de l'UNESCO."],
     }, image: "/poi-images/torres-del-paine-landmarks-v2.webp"},
   {
-    id: "la-portada-landmarks-v2",
+    id: "la-portada-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Borde Costero",
+                  "text": "Ein malerischer Küstenaussichtspunkt, der einen weiten, unverbauten Blick auf die Wellen des Pazifischen Ozeans bietet, die gegen die felsige Küste brechen.",
+                  "category": "natural",
+                  "coords": [
+                        -70.400856,
+                        -23.563807
+                  ]
+            },
+            {
+                  "name": "Hawker Hunter",
+                  "text": "Ein erhaltenes Hawker Hunter Jagdflugzeug, das als Stück militärischer Luftfahrtgeschichte öffentlich ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.392897,
+                        -23.574523
+                  ]
+            },
+            {
+                  "name": "Granja Educativa Las Tres Marías GEO",
+                  "text": "Ein interaktiver Lehrbauernhof, auf dem Besucher und Familien etwas über Landwirtschaft lernen und mit Nutztieren interagieren können.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.398561,
+                        -23.510067
+                  ]
+            },
+            {
+                  "name": "aircraft spot",
+                  "text": "Ein beliebter Open-Air-Aussichtspunkt in der Nähe der Flughafenlandebahn, ideal für Luftfahrtbegeisterte, um startende und landende Flugzeuge zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -70.450146,
+                        -23.482717
+                  ]
+            },
+            {
+                  "name": "Mirador de la Portada de Antofagasta",
+                  "text": "Dieser Aussichtspunkt auf den Klippen bietet die beste Panoramaperspektive auf den berühmten natürlichen Sandsteinbogen La Portada, der sich aus dem Ozean erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.428731,
+                        -23.5
+                  ]
+            },
+            {
+                  "name": "Centro de Comunicacion Ambiental (CEA) CONAF",
+                  "text": "Dieses von CONAF betriebene Umweltmuseum klärt Besucher über die lokale Biodiversität und die Naturschutzbemühungen in der Region Antofagasta auf.",
+                  "category": "museum",
+                  "coords": [
+                        -70.426663,
+                        -23.500357
+                  ]
+            },
+            {
+                  "name": "Arco La Portada",
+                  "text": "Ein massiver natürlicher Bogen, der durch Meereserosion entstanden ist und majestätisch vor der Küste steht, umgeben von Seevögeln und brechenden Wellen.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.42704,
+                        -23.506625
+                  ]
+            },
+            {
+                  "name": "Playa Juan Lopez",
+                  "text": "Ein Küstenaussichtspunkt, der malerische Ausblicke auf die geschützte, sichelförmige Bucht des Strandes Juan López bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530999,
+                        -23.513046
+                  ]
+            },
+            {
+                  "name": "Isla Huamán",
+                  "text": "Diese vorgelagerte Insel dient als wichtiges geschütztes Naturschutzgebiet und bietet einen sicheren Nistplatz für einheimische Küstenvogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        -70.407714,
+                        -23.555215
+                  ]
+            },
+            {
+                  "name": "La Chimba",
+                  "text": "Ein beliebter künstlicher Strand, der am nördlichen Rand von Antofagasta einen geschützten Sandstrand und ruhiges Wasser zum Schwimmen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.404193,
+                        -23.555685
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Vertiente de la Chimba Norte",
+                  "text": "Dieses natürliche Quellökosystem wurde Anfang 2023 zum geschützten städtischen Feuchtgebiet erklärt und erhält die wichtige Vogelwelt an der Nordküste.",
+                  "category": "natural",
+                  "coords": [
+                        -70.396312,
+                        -23.545855
+                  ]
+            },
+            {
+                  "name": "Monumento Natural La Portada",
+                  "text": "Dieses 1990 als geschütztes Naturdenkmal ausgewiesene Küstenreservat ist berühmt für seinen ikonischen, vom Pazifischen Ozean geformten Felsbogen im Meer.",
+                  "category": "natural",
+                  "coords": [
+                        -70.426455,
+                        -23.501501
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Bautista",
+                  "text": "Eine evangelisch-baptistische Kirche, die einen Raum für gläubige Gottesdienste, Chorgesang und Gemeinschaft in der Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.392208,
+                        -23.575733
+                  ]
+            },
+            {
+                  "name": "Capilla La Chimba",
+                  "text": "Eine bescheidene christliche Kapelle, die dem Viertel La Chimba mit intimen Andachten und lokalen katholischen Zusammenkünften dient.",
+                  "category": "religious",
+                  "coords": [
+                        -70.385191,
+                        -23.543113
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Antofagasta",
+                  "text": "Ein katholisches Schönstatt-Marienheiligtum, das als spiritueller Rückzugsort nahe La Portada dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.393062,
+                        -23.547646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Borde Costero",
+                  "text": "Festői tengerparti kilátó, amely széles, zavartalan kilátást nyújt a sziklás partvonalnak csapódó Csendes-óceán hullámaira.",
+                  "category": "natural",
+                  "coords": [
+                        -70.400856,
+                        -23.563807
+                  ]
+            },
+            {
+                  "name": "Hawker Hunter",
+                  "text": "Egy megőrzött Hawker Hunter vadászrepülőgép, amelyet a katonai repüléstörténet részeként nyilvánosan kiállítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.392897,
+                        -23.574523
+                  ]
+            },
+            {
+                  "name": "Granja Educativa Las Tres Marías GEO",
+                  "text": "Interaktív oktatófarm, ahol a látogatók és a családok megismerkedhetnek a mezőgazdasággal és kapcsolatba léphetnek a haszonállatokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.398561,
+                        -23.510067
+                  ]
+            },
+            {
+                  "name": "aircraft spot",
+                  "text": "Népszerű szabadtéri kilátó a repülőtér kifutópályája közelében, amely tökéletes a repülés szerelmeseinek a fel- és leszálló repülőgépek megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -70.450146,
+                        -23.482717
+                  ]
+            },
+            {
+                  "name": "Mirador de la Portada de Antofagasta",
+                  "text": "Ez a sziklafalon található kilátó nyújtja a legjobb panorámát a híres La Portada természetes homokkő boltívre, amely az óceánból emelkedik ki.",
+                  "category": "natural",
+                  "coords": [
+                        -70.428731,
+                        -23.5
+                  ]
+            },
+            {
+                  "name": "Centro de Comunicacion Ambiental (CEA) CONAF",
+                  "text": "A CONAF által működtetett környezetvédelmi múzeum a helyi biológiai sokféleségről és a természetvédelmi erőfeszítésekről oktatja a látogatókat az Antofagasta régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.426663,
+                        -23.500357
+                  ]
+            },
+            {
+                  "name": "Arco La Portada",
+                  "text": "A tengeri erózió által kialakított hatalmas természetes kőhíd fenségesen áll a parttól távolabb, tengeri madarakkal és megtörő hullámokkal övezve.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.42704,
+                        -23.506625
+                  ]
+            },
+            {
+                  "name": "Playa Juan Lopez",
+                  "text": "Tengerparti kilátó, ahonnan festői kilátás nyílik a Juan López strand védett, félhold alakú öblére.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530999,
+                        -23.513046
+                  ]
+            },
+            {
+                  "name": "Isla Huamán",
+                  "text": "Ez a part menti sziget létfontosságú védett természetvédelmi területként szolgál, biztonságos fészkelőhelyet nyújtva a part menti őshonos madárfajoknak.",
+                  "category": "natural",
+                  "coords": [
+                        -70.407714,
+                        -23.555215
+                  ]
+            },
+            {
+                  "name": "La Chimba",
+                  "text": "Népszerű mesterséges strand Antofagasta északi peremén, amely védett homokos partszakaszt és nyugodt vizet kínál az úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.404193,
+                        -23.555685
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Vertiente de la Chimba Norte",
+                  "text": "A 2023 elején védett városi vizesélőhellyé nyilvánított természetes forrás-ökoszisztéma létfontosságú madárvilágot tart fenn az északi parton.",
+                  "category": "natural",
+                  "coords": [
+                        -70.396312,
+                        -23.545855
+                  ]
+            },
+            {
+                  "name": "Monumento Natural La Portada",
+                  "text": "Az 1990-ben védett természeti emlékként létrehozott tengerparti rezervátum híres a Csendes-óceán által kifaragott ikonikus, tengerben álló sziklaívéről.",
+                  "category": "natural",
+                  "coords": [
+                        -70.426455,
+                        -23.501501
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Bautista",
+                  "text": "Evangéliumi baptista templom, amely teret ad a hűséges istentiszteletnek, a kóruséneklésnek és a közösségi együttlétnek a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.392208,
+                        -23.575733
+                  ]
+            },
+            {
+                  "name": "Capilla La Chimba",
+                  "text": "Egy szerény keresztény kápolna, amely a La Chimba negyedet szolgálja meghitt imaalkalmakkal és helyi katolikus összejövetelekkel.",
+                  "category": "religious",
+                  "coords": [
+                        -70.385191,
+                        -23.543113
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Antofagasta",
+                  "text": "Katolikus Schönstatt Mária-kegyhely, amely spirituális elvonulóhelyként szolgál La Portada közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.393062,
+                        -23.547646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Borde Costero",
+                  "text": "Un punct de belvedere pitoresc pe coastă, oferind vederi panoramice neobstrucționate asupra valurilor Oceanului Pacific care se sparg de țărmul stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.400856,
+                        -23.563807
+                  ]
+            },
+            {
+                  "name": "Hawker Hunter",
+                  "text": "Un avion de vânătoare Hawker Hunter conservat, expus publicului ca o piesă de istorie a aviației militare.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.392897,
+                        -23.574523
+                  ]
+            },
+            {
+                  "name": "Granja Educativa Las Tres Marías GEO",
+                  "text": "O fermă educațională interactivă unde vizitatorii și familiile pot învăța despre agricultură și pot interacționa cu animalele de fermă.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.398561,
+                        -23.510067
+                  ]
+            },
+            {
+                  "name": "aircraft spot",
+                  "text": "Un punct de observație popular în aer liber, situat lângă pista aeroportului, perfect pentru pasionații de aviație care doresc să urmărească avioanele decolând și aterizând.",
+                  "category": "natural",
+                  "coords": [
+                        -70.450146,
+                        -23.482717
+                  ]
+            },
+            {
+                  "name": "Mirador de la Portada de Antofagasta",
+                  "text": "Acest punct de belvedere de pe stâncă oferă cea mai bună perspectivă panoramică asupra celebrului arc natural de gresie La Portada care se înalță din ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -70.428731,
+                        -23.5
+                  ]
+            },
+            {
+                  "name": "Centro de Comunicacion Ambiental (CEA) CONAF",
+                  "text": "Administrat de CONAF, acest muzeu de mediu educă vizitatorii cu privire la biodiversitatea locală și eforturile de conservare din regiunea Antofagasta.",
+                  "category": "museum",
+                  "coords": [
+                        -70.426663,
+                        -23.500357
+                  ]
+            },
+            {
+                  "name": "Arco La Portada",
+                  "text": "Un arc natural masiv format prin eroziune marină, care se înalță maiestuos în larg, înconjurat de păsări marine și valuri puternice.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.42704,
+                        -23.506625
+                  ]
+            },
+            {
+                  "name": "Playa Juan Lopez",
+                  "text": "Un punct de belvedere pe coastă care oferă priveliști pitorești asupra golfului adăpostit, în formă de semilună, al plajei Juan López.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530999,
+                        -23.513046
+                  ]
+            },
+            {
+                  "name": "Isla Huamán",
+                  "text": "Această insulă din larg servește drept rezervație naturală protejată vitală, oferind un habitat sigur pentru cuibărirea speciilor de păsări de coastă native.",
+                  "category": "natural",
+                  "coords": [
+                        -70.407714,
+                        -23.555215
+                  ]
+            },
+            {
+                  "name": "La Chimba",
+                  "text": "O plajă artificială populară care oferă o întindere de nisip adăpostită și ape calme pentru înot, aproape de marginea de nord a orașului Antofagasta.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.404193,
+                        -23.555685
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Vertiente de la Chimba Norte",
+                  "text": "Declarat zonă umedă urbană protejată la începutul anului 2023, acest ecosistem de izvor natural susține o avifaună vitală de-a lungul coastei de nord.",
+                  "category": "natural",
+                  "coords": [
+                        -70.396312,
+                        -23.545855
+                  ]
+            },
+            {
+                  "name": "Monumento Natural La Portada",
+                  "text": "Înființată ca monument natural protejat în 1990, această rezervație de coastă este faimoasă pentru arcul său emblematic din larg, sculptat de Oceanul Pacific.",
+                  "category": "natural",
+                  "coords": [
+                        -70.426455,
+                        -23.501501
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Bautista",
+                  "text": "O biserică evanghelică baptistă care oferă un spațiu pentru închinare credincioasă, cântare corală și părtășie comunitară în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.392208,
+                        -23.575733
+                  ]
+            },
+            {
+                  "name": "Capilla La Chimba",
+                  "text": "O capelă creștină modestă care deservește cartierul La Chimba cu slujbe de rugăciune intime și adunări catolice locale.",
+                  "category": "religious",
+                  "coords": [
+                        -70.385191,
+                        -23.543113
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Antofagasta",
+                  "text": "Un sanctuar marian catolic Schoenstatt care servește ca loc de reculegere spirituală lângă La Portada.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.393062,
+                        -23.547646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Borde Costero",
+                  "text": "A scenic coastal viewpoint offering sweeping, unobstructed views of the Pacific Ocean waves crashing against the rocky shoreline.",
+                  "category": "natural",
+                  "coords": [
+                        -70.400856,
+                        -23.563807
+                  ]
+            },
+            {
+                  "name": "Hawker Hunter",
+                  "text": "A preserved Hawker Hunter jet fighter placed on public display as a piece of military aviation history.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.392897,
+                        -23.574523
+                  ]
+            },
+            {
+                  "name": "Granja Educativa Las Tres Marías GEO",
+                  "text": "An interactive educational farm where visitors and families can learn about agriculture and interact with farm animals.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.398561,
+                        -23.510067
+                  ]
+            },
+            {
+                  "name": "aircraft spot",
+                  "text": "A popular open-air viewpoint located near the airport runway, perfect for aviation enthusiasts to watch planes taking off and landing.",
+                  "category": "natural",
+                  "coords": [
+                        -70.450146,
+                        -23.482717
+                  ]
+            },
+            {
+                  "name": "Mirador de la Portada de Antofagasta",
+                  "text": "This clifftop viewpoint offers the best panoramic perspective of the famous La Portada natural sandstone arch rising from the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -70.428731,
+                        -23.5
+                  ]
+            },
+            {
+                  "name": "Centro de Comunicacion Ambiental (CEA) CONAF",
+                  "text": "Run by CONAF, this environmental museum educates visitors about local biodiversity and conservation efforts in the Antofagasta region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.426663,
+                        -23.500357
+                  ]
+            },
+            {
+                  "name": "Arco La Portada",
+                  "text": "A massive natural arch formed by marine erosion, standing majestically offshore surrounded by seabirds and crashing waves.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.42704,
+                        -23.506625
+                  ]
+            },
+            {
+                  "name": "Playa Juan Lopez",
+                  "text": "A coastal viewpoint providing scenic overlooks of the sheltered, crescent-shaped cove of Juan López beach.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530999,
+                        -23.513046
+                  ]
+            },
+            {
+                  "name": "Isla Huamán",
+                  "text": "This offshore island serves as a vital protected nature reserve, providing a safe nesting habitat for native coastal bird species.",
+                  "category": "natural",
+                  "coords": [
+                        -70.407714,
+                        -23.555215
+                  ]
+            },
+            {
+                  "name": "La Chimba",
+                  "text": "A popular artificial beach offering a sheltered sandy stretch and calm waters for swimming near the northern edge of Antofagasta.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.404193,
+                        -23.555685
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Vertiente de la Chimba Norte",
+                  "text": "Declared a protected urban wetland in early 2023, this natural spring ecosystem sustains vital birdlife along the northern coast.",
+                  "category": "natural",
+                  "coords": [
+                        -70.396312,
+                        -23.545855
+                  ]
+            },
+            {
+                  "name": "La Portada Natural Monument",
+                  "text": "Established as a protected natural monument in 1990, this coastal reserve is famous for its iconic offshore arch carved by the Pacific Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -70.426455,
+                        -23.501501
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Bautista",
+                  "text": "An Evangelical Baptist church providing a space for faithful worship, choir singing, and community fellowship in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.392208,
+                        -23.575733
+                  ]
+            },
+            {
+                  "name": "Capilla La Chimba",
+                  "text": "A modest Christian chapel serving the La Chimba neighborhood with intimate prayer services and local Catholic gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -70.385191,
+                        -23.543113
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Antofagasta",
+                  "text": "A Catholic Schoenstatt Marian shrine serving as a place of spiritual retreat near La Portada.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.393062,
+                        -23.547646
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-AN",
     coords: [-70.4700, -23.5700],
@@ -95,7 +1445,124 @@ export const poiExtraChileLandmarksV2: POI[] = [
       fr: ["Le nom signifie 'Le Portail'.", "C'est un monument naturel protégé."],
     }, image: "/poi-images/la-portada-landmarks-v2.webp"},
   {
-    id: "valle-de-la-luna-landmarks-v2",
+    id: "valle-de-la-luna-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plano Hacienca",
+                  "text": "Eine weitläufige historische Gutsebene in der Nähe der dramatischen, mondähnlichen Formationen des Wüstentals.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.289709,
+                        -22.886917
+                  ]
+            },
+            {
+                  "name": "Las tres Marías",
+                  "text": "Ein markanter Aussichtspunkt, der drei deutlich sichtbare natürliche Salz- und Tonstatuen zeigt, die durch jahrhundertelangen Wüstenwind geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        -68.31901,
+                        -22.919422
+                  ]
+            },
+            {
+                  "name": "Mina crisanta",
+                  "text": "Ein verlassenes Salzbergwerk, das die raue historische Mineraliengewinnung der Region inmitten von Mondlandschaften veranschaulicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.328946,
+                        -22.930026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plano Hacienca",
+                  "text": "Egy kiterjedt történelmi birtoksíkság, amely a sivatagi völgy drámai, holdszerű képződményei közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.289709,
+                        -22.886917
+                  ]
+            },
+            {
+                  "name": "Las tres Marías",
+                  "text": "Lenyűgöző kilátó, amely három különálló természetes só- és agyagszobrot mutat be, amelyeket az évszázados sivatagi szél formált.",
+                  "category": "natural",
+                  "coords": [
+                        -68.31901,
+                        -22.919422
+                  ]
+            },
+            {
+                  "name": "Mina crisanta",
+                  "text": "Egy elhagyatott sóbánya, amely bemutatja a régió zord történelmi ásványkinyerését a holdszerű tájak közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.328946,
+                        -22.930026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plano Hacienca",
+                  "text": "O câmpie istorică vastă, situată în apropierea formațiunilor dramatice, asemănătoare lunii, ale văii deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.289709,
+                        -22.886917
+                  ]
+            },
+            {
+                  "name": "Las tres Marías",
+                  "text": "Un punct de belvedere izbitor, care prezintă trei statui naturale distincte de sare și argilă, modelate de secole de vânt deșertic.",
+                  "category": "natural",
+                  "coords": [
+                        -68.31901,
+                        -22.919422
+                  ]
+            },
+            {
+                  "name": "Mina crisanta",
+                  "text": "O mină de sare abandonată, care ilustrează extragerea istorică și aspră a mineralelor din regiune, în mijlocul unor peisaje lunare.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.328946,
+                        -22.930026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plano Hacienca",
+                  "text": "An expansive historic estate plain located near the dramatic, lunar-like formations of the desert valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.289709,
+                        -22.886917
+                  ]
+            },
+            {
+                  "name": "Three Maries",
+                  "text": "A striking viewpoint showcasing three distinct natural salt and clay statues shaped by centuries of desert wind.",
+                  "category": "natural",
+                  "coords": [
+                        -68.31901,
+                        -22.919422
+                  ]
+            },
+            {
+                  "name": "Mina crisanta",
+                  "text": "An abandoned salt mine that illustrates the region's harsh historical mineral extraction amidst lunar landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.328946,
+                        -22.930026
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-AN",
     coords: [-68.2700, -22.8700],
@@ -142,7 +1609,124 @@ export const poiExtraChileLandmarksV2: POI[] = [
       fr: ["Le paysage rappelle fortement celui de la lune.", "Il fait partie de la réserve nationale Los Flamencos."],
     }, image: "/poi-images/valle-de-la-luna-landmarks-v2.webp"},
   {
-    id: "gayser-del-tatio-landmarks-v2",
+    id: "gayser-del-tatio-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Deslinde",
+                  "text": "Ein markanter Andengipfel, der sich steil entlang der internationalen Gebirgsgrenze zwischen Chile und Bolivien erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.94667,
+                        -22.271305
+                  ]
+            },
+            {
+                  "name": "Cerro Copacoya",
+                  "text": "Dieser schroffe Berggipfel überblickt die riesigen, dampfenden geothermalen Landschaften der Hochanden.",
+                  "category": "natural",
+                  "coords": [
+                        -68.022392,
+                        -22.31665
+                  ]
+            },
+            {
+                  "name": "Campo Geotérmico Géiseres del Tatio",
+                  "text": "Dieses weitläufige Geothermiefeld liegt auf 4.320 Metern über dem Meeresspiegel und verfügt über mehr als 80 aktive, ausbrechende Geysire.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.01171,
+                        -22.341705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Deslinde",
+                  "text": "Egy kiemelkedő andoki hegycsúcs, amely meredeken magasodik Chile és Bolívia nemzetközi hegyvidéki határa mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -67.94667,
+                        -22.271305
+                  ]
+            },
+            {
+                  "name": "Cerro Copacoya",
+                  "text": "Ez a zord hegycsúcs a magas Andok hatalmas, gőzölgő geotermikus tájaira tekint le.",
+                  "category": "natural",
+                  "coords": [
+                        -68.022392,
+                        -22.31665
+                  ]
+            },
+            {
+                  "name": "Campo Geotérmico Géiseres del Tatio",
+                  "text": "A tengerszint felett 4320 méteren elterülő, kiterjedt geotermikus mezőn több mint 80 aktív, kitörő gejzír található.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.01171,
+                        -22.341705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Deslinde",
+                  "text": "Un vârf andin proeminent care se înalță abrupt de-a lungul graniței muntoase internaționale dintre Chile și Bolivia.",
+                  "category": "natural",
+                  "coords": [
+                        -67.94667,
+                        -22.271305
+                  ]
+            },
+            {
+                  "name": "Cerro Copacoya",
+                  "text": "Acest vârf muntos accidentat domină peisajele geotermale vaste și aburinde ale Anzilor înalți.",
+                  "category": "natural",
+                  "coords": [
+                        -68.022392,
+                        -22.31665
+                  ]
+            },
+            {
+                  "name": "Campo Geotérmico Géiseres del Tatio",
+                  "text": "Situat la 4.320 de metri deasupra nivelului mării, acest câmp geotermal expansiv prezintă peste 80 de gheizere active care erup.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.01171,
+                        -22.341705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Deslinde",
+                  "text": "A prominent Andean peak rising sharply along the international mountainous border between Chile and Bolivia.",
+                  "category": "natural",
+                  "coords": [
+                        -67.94667,
+                        -22.271305
+                  ]
+            },
+            {
+                  "name": "Cerro Copacoya",
+                  "text": "This rugged mountain summit overlooks the vast, steaming geothermal landscapes of the high Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -68.022392,
+                        -22.31665
+                  ]
+            },
+            {
+                  "name": "Campo Geotérmico Géiseres del Tatio",
+                  "text": "Located at 4,320 meters above sea level, this expansive geothermal field features over 80 active, erupting geysers.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.01171,
+                        -22.341705
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-AN",
     coords: [-68.0100, -22.3300],
@@ -189,7 +1773,1204 @@ export const poiExtraChileLandmarksV2: POI[] = [
       fr: ["Il est situé à plus de 4 000 mètres d'altitude.", "Les geysers sont particulièrement actifs à l'aube."],
     }, image: "/poi-images/gayser-del-tatio-landmarks-v2.webp"},
   {
-    id: "cerro-san-cristobal-landmarks-v2",
+    id: "cerro-san-cristobal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo al Aire Libre Parque de Las Esculturas",
+                  "text": "Dieses am 17. Dezember 1986 eröffnete Freilichtmuseum wurde von den Architekten Germán Bannen und Jorge Oyarzún entworfen und präsentiert Kunstwerke inmitten der Natur.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613023,
+                        -33.420039
+                  ]
+            },
+            {
+                  "name": "Museo Astronómico Observatorio Manuel Foster",
+                  "text": "Dieses historische astronomische Observatorium auf dem Cerro San Cristóbal wurde im Februar 1903 in Betrieb genommen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.632319,
+                        -33.422093
+                  ]
+            },
+            {
+                  "name": "Palacio Falabella",
+                  "text": "Dieses elegante Herrenhaus, das heute das Rathaus von Providencia beherbergt, wurde 1924 vom Architekten Guillermo Mancelli im Renaissance-Stil erbaut.",
+                  "category": "historical",
+                  "coords": [
+                        -70.609915,
+                        -33.432282
+                  ]
+            },
+            {
+                  "name": "Teatro Nescafe de las Artes",
+                  "text": "Dieses ehemals als Teatro Astor bekannte Theater ist heute ein wichtiger Veranstaltungsort für zeitgenössische darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.620865,
+                        -33.428542
+                  ]
+            },
+            {
+                  "name": "Catedral Castrense de Chile",
+                  "text": "Diese markante Kathedrale dient als offizielle Kirche der chilenischen Streitkräfte und Polizei.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606208,
+                        -33.420434
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana El Redentor",
+                  "text": "Diese lutherische Erlöserkirche ist ein architektonisch reizvoller spiritueller Mittelpunkt für die protestantische Gemeinde der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606024,
+                        -33.423208
+                  ]
+            },
+            {
+                  "name": "Teatro Oriente",
+                  "text": "Dieses in den 1930er Jahren erbaute Theater im Beaux-Arts-Stil ist ein kulturelles Wahrzeichen im Viertel Providencia.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.61299,
+                        -33.422605
+                  ]
+            },
+            {
+                  "name": "Iglesia Ortodoxa de la Santísima Virgen María",
+                  "text": "Diese byzantinisch inspirierte orthodoxe Kirche wurde 1932 nach den Entwürfen des Architekten Josué Smith Solar fertiggestellt.",
+                  "category": "religious",
+                  "coords": [
+                        -70.611852,
+                        -33.424128
+                  ]
+            },
+            {
+                  "name": "Fundación Cultural de Providencia",
+                  "text": "Dieses lebendige Kulturzentrum ist im eleganten Palacio Schacht untergebracht, einem architektonischen Juwel der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.612473,
+                        -33.425182
+                  ]
+            },
+            {
+                  "name": "Mercado de Providencia",
+                  "text": "In diesem traditionellen städtischen Markt finden Besucher eine bunte Vielfalt an frischen chilenischen Lebensmitteln und Handwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.617407,
+                        -33.426786
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Divina Providencia",
+                  "text": "Diese beeindruckende Kirche aus dem 19. Jahrhundert ist die historische Namensgeberin des gesamten Viertels Providencia.",
+                  "category": "religious",
+                  "coords": [
+                        -70.616359,
+                        -33.42761
+                  ]
+            },
+            {
+                  "name": "Torreón Victoria",
+                  "text": "Dieser historische steinerne Turm am Hang des Cerro San Cristóbal wurde im Jahr 1925 errichtet.",
+                  "category": "tower",
+                  "coords": [
+                        -70.622249,
+                        -33.415371
+                  ]
+            },
+            {
+                  "name": "Cerro San Cristóbal",
+                  "text": "Dieser markante Stadtberg von Santiago wird von einer berühmten Statue der Jungfrau Maria gekrönt und bietet einen weiten Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -70.629896,
+                        -33.420344
+                  ]
+            },
+            {
+                  "name": "Jardín Japonés de Santiago",
+                  "text": "Dieser ruhige japanische Garten wurde 1978 nach den Plänen des Architekten Tadashi Asahi angelegt.",
+                  "category": "park",
+                  "coords": [
+                        -70.614255,
+                        -33.41343
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano de Santiago",
+                  "text": "Dieser riesige Stadtpark wurde am 28. September 1917 gegründet und umfasst bedeutende architektonische Werke von Carlos Martner.",
+                  "category": "park",
+                  "coords": [
+                        -70.62024,
+                        -33.4119
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Mapulemu",
+                  "text": "Dieser 1983 angelegte botanische Garten ist der Erhaltung und Präsentation der einheimischen Flora Chiles gewidmet.",
+                  "category": "park",
+                  "coords": [
+                        -70.619771,
+                        -33.414566
+                  ]
+            },
+            {
+                  "name": "Galería Histórica del Regimiento Buin",
+                  "text": "Dieses Museum widmet sich der militärischen Vergangenheit und bewahrt historische Artefakte des chilenischen Buin-Regiments auf.",
+                  "category": "museum",
+                  "coords": [
+                        -70.634134,
+                        -33.407385
+                  ]
+            },
+            {
+                  "name": "Galería Casa Autónoma Arte y Cultura",
+                  "text": "Diese Kunstgalerie bietet eine Plattform für aufstrebende lokale Künstler und zeitgenössische kulturelle Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.611457,
+                        -33.427935
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Anahuac",
+                  "text": "Dieses im Parque Metropolitano gelegene Kulturhaus fördert mit seinen Veranstaltungsräumen die Künste und das Gemeinschaftsleben.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62402,
+                        -33.417078
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Los Canelos",
+                  "text": "Das Anfiteatro Los Canelos ist eine Freilichtbühne im Gebiet des Cerro San Cristobal.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62199,
+                        -33.413738
+                  ]
+            },
+            {
+                  "name": "Cenlimi - Casa Central",
+                  "text": "Cenlimi - Casa Central ist ein zentrales religiöses Haus für lokale Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        -70.6038,
+                        -33.427001
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Capilla ist eine bescheidene Kapelle, die einen ruhigen Ort für das Gebet in der Umgebung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.602967,
+                        -33.423082
+                  ]
+            },
+            {
+                  "name": "Mini Market Matin",
+                  "text": "Der Mini Market Matin ist ein kleiner lokaler Markt für Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.608633,
+                        -33.42014
+                  ]
+            },
+            {
+                  "name": "Botilleria y Minimarket",
+                  "text": "Botilleria y Minimarket kombiniert ein lokales Spirituosengeschäft mit einem kleinen Lebensmittelmarkt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.607783,
+                        -33.418797
+                  ]
+            },
+            {
+                  "name": "Mercado Huertero",
+                  "text": "Der Mercado Huertero ist ein lebhafter Markt, der sich auf frische Garten- und Obstbauprodukte konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.616967,
+                        -33.425651
+                  ]
+            },
+            {
+                  "name": "Plaza de Juegos Gabriela Mistral",
+                  "text": "Die Plaza de Juegos Gabriela Mistral ist ein lebhafter Kinderspielplatz, der zu Ehren der berühmten Dichterin benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.621297,
+                        -33.41602
+                  ]
+            },
+            {
+                  "name": "Parroquia San Ignacio El Bosque",
+                  "text": "Die Parroquia San Ignacio El Bosque ist eine christliche Pfarrkirche mit klassischen architektonischen Elementen im Viertel El Bosque.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.594912,
+                        -33.433857
+                  ]
+            },
+            {
+                  "name": "Capilla Lo Contador",
+                  "text": "Capilla Lo Contador ist eine christliche Kapelle, die den spirituellen Bedürfnissen des nahegelegenen Universitätscampus dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.618023,
+                        -33.419397
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Carmen",
+                  "text": "Die Iglesia de Nuestra Señora del Carmen ist eine christliche Kirche, die Unserer Lieben Frau auf dem Berge Karmel geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.627223,
+                        -33.399901
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Voz en El Desierio",
+                  "text": "Die Iglesia de Dios Voz en El Desierio ist eine christliche Kirche, die als spirituelle Stimme in der Wüste für ihre Gemeinde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.6271,
+                        -33.410832
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Die Iglesia de Dios ist eine lokale christliche Kirche, die Gläubige zu regelmäßigen Gottesdiensten versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.625869,
+                        -33.404451
+                  ]
+            },
+            {
+                  "name": "Templo Chile",
+                  "text": "Templo Chile ist ein großer christlicher Tempel, der sich durch sein modernes architektonisches Design und sein friedliches Gelände auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.635563,
+                        -33.411789
+                  ]
+            },
+            {
+                  "name": "Iglesia Esclavas del Sagrado Corazón de Jesus",
+                  "text": "Die Iglesia Esclavas del Sagrado Corazón de Jesus ist eine christliche Kirche, die von den Dienerinnen des Heiligsten Herzens Jesu verwaltet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.622057,
+                        -33.427448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo al Aire Libre Parque de Las Esculturas",
+                  "text": "Ezt az 1986. december 17-én megnyílt szabadtéri múzeumot Germán Bannen és Jorge Oyarzún építészek tervezték, és a természet lágy ölén mutatja be a művészeti alkotásokat.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613023,
+                        -33.420039
+                  ]
+            },
+            {
+                  "name": "Museo Astronómico Observatorio Manuel Foster",
+                  "text": "Ezt a Cerro San Cristóbalon található történelmi csillagvizsgálót 1903 februárjában helyezték üzembe.",
+                  "category": "museum",
+                  "coords": [
+                        -70.632319,
+                        -33.422093
+                  ]
+            },
+            {
+                  "name": "Palacio Falabella",
+                  "text": "Ez az elegáns udvarház, amely ma a Providencia városházának ad otthont, 1924-ben épült Guillermo Mancelli építész tervei alapján, reneszánsz stílusban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.609915,
+                        -33.432282
+                  ]
+            },
+            {
+                  "name": "Teatro Nescafe de las Artes",
+                  "text": "Ez a korábban Teatro Astor néven ismert színház ma a kortárs előadóművészet egyik legfontosabb helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.620865,
+                        -33.428542
+                  ]
+            },
+            {
+                  "name": "Catedral Castrense de Chile",
+                  "text": "Ez a feltűnő katedrális a chilei fegyveres erők és a rendőrség hivatalos templomaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606208,
+                        -33.420434
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana El Redentor",
+                  "text": "Ez az evangélikus Megváltó templom a város protestáns közösségének építészetileg is vonzó spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606024,
+                        -33.423208
+                  ]
+            },
+            {
+                  "name": "Teatro Oriente",
+                  "text": "Ez az 1930-as években, Beaux-Arts stílusban épült színház a Providencia negyed egyik kulturális nevezetessége.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.61299,
+                        -33.422605
+                  ]
+            },
+            {
+                  "name": "Iglesia Ortodoxa de la Santísima Virgen María",
+                  "text": "Ezt a bizánci ihletésű ortodox templomot 1932-ben fejezték be Josué Smith Solar építész tervei alapján.",
+                  "category": "religious",
+                  "coords": [
+                        -70.611852,
+                        -33.424128
+                  ]
+            },
+            {
+                  "name": "Fundación Cultural de Providencia",
+                  "text": "Ez a nyüzsgő kulturális központ az elegáns Palacio Schachtban, a város egyik építészeti ékszerdobozában kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.612473,
+                        -33.425182
+                  ]
+            },
+            {
+                  "name": "Mercado de Providencia",
+                  "text": "Ebben a hagyományos városi piacon a látogatók a friss chilei élelmiszerek és kézműves termékek színes választékát találják.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.617407,
+                        -33.426786
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Divina Providencia",
+                  "text": "Ez a lenyűgöző, 19. századi templom az egész Providencia negyed történelmi névadója.",
+                  "category": "religious",
+                  "coords": [
+                        -70.616359,
+                        -33.42761
+                  ]
+            },
+            {
+                  "name": "Torreón Victoria",
+                  "text": "Ezt a történelmi kőtornyot a Cerro San Cristóbal lejtőjén 1925-ben építették.",
+                  "category": "tower",
+                  "coords": [
+                        -70.622249,
+                        -33.415371
+                  ]
+            },
+            {
+                  "name": "Cerro San Cristóbal",
+                  "text": "Santiago ezen kiemelkedő városi hegyét egy híres Szűz Mária-szobor koronázza, és széles panorámát kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -70.629896,
+                        -33.420344
+                  ]
+            },
+            {
+                  "name": "Jardín Japonés de Santiago",
+                  "text": "Ezt a békés japánkertet 1978-ban hozták létre Tadashi Asahi építész tervei alapján.",
+                  "category": "park",
+                  "coords": [
+                        -70.614255,
+                        -33.41343
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano de Santiago",
+                  "text": "Ezt a hatalmas városi parkot 1917. szeptember 28-án alapították, és Carlos Martner jelentős építészeti alkotásait is magában foglalja.",
+                  "category": "park",
+                  "coords": [
+                        -70.62024,
+                        -33.4119
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Mapulemu",
+                  "text": "Ezt az 1983-ban alapított botanikus kertet Chile őshonos növényvilágának megőrzésére és bemutatására hozták létre.",
+                  "category": "park",
+                  "coords": [
+                        -70.619771,
+                        -33.414566
+                  ]
+            },
+            {
+                  "name": "Galería Histórica del Regimiento Buin",
+                  "text": "Ez a múzeum a chilei Buin ezred katonai múltjának és történelmi tárgyainak megőrzésének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -70.634134,
+                        -33.407385
+                  ]
+            },
+            {
+                  "name": "Galería Casa Autónoma Arte y Cultura",
+                  "text": "Ez a művészeti galéria platformot biztosít a feltörekvő helyi művészek és a kortárs kulturális kiállítások számára.",
+                  "category": "museum",
+                  "coords": [
+                        -70.611457,
+                        -33.427935
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Anahuac",
+                  "text": "Ez a Parque Metropolitanóban található kulturális ház rendezvénytermeivel a művészeteket és a közösségi életet támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62402,
+                        -33.417078
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Los Canelos",
+                  "text": "Az Anfiteatro Los Canelos egy szabadtéri színházi helyszín a Cerro San Cristobal területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62199,
+                        -33.413738
+                  ]
+            },
+            {
+                  "name": "Cenlimi - Casa Central",
+                  "text": "A Cenlimi - Casa Central egy központi vallási épület a helyi hívők számára.",
+                  "category": "religious",
+                  "coords": [
+                        -70.6038,
+                        -33.427001
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "A Capilla egy szerény kápolna, amely csendes helyet biztosít az imádkozáshoz a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        -70.602967,
+                        -33.423082
+                  ]
+            },
+            {
+                  "name": "Mini Market Matin",
+                  "text": "A Mini Market Matin egy kis helyi piac, amely mindennapi árukat és élelmiszereket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.608633,
+                        -33.42014
+                  ]
+            },
+            {
+                  "name": "Botilleria y Minimarket",
+                  "text": "A Botilleria y Minimarket egy helyi italbolt és egy kis élelmiszerpiac ötvözete.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.607783,
+                        -33.418797
+                  ]
+            },
+            {
+                  "name": "Mercado Huertero",
+                  "text": "A Mercado Huertero egy nyüzsgő piac, amely a friss kerti és gyümölcsös terményekre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.616967,
+                        -33.425651
+                  ]
+            },
+            {
+                  "name": "Plaza de Juegos Gabriela Mistral",
+                  "text": "A Plaza de Juegos Gabriela Mistral egy nyüzsgő játszótér, amelyet a híres költőnő tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.621297,
+                        -33.41602
+                  ]
+            },
+            {
+                  "name": "Parroquia San Ignacio El Bosque",
+                  "text": "A Parroquia San Ignacio El Bosque egy keresztény plébániatemplom klasszikus építészeti elemekkel az El Bosque negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.594912,
+                        -33.433857
+                  ]
+            },
+            {
+                  "name": "Capilla Lo Contador",
+                  "text": "A Capilla Lo Contador egy keresztény kápolna, amely a közeli egyetemi campus területének spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.618023,
+                        -33.419397
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Carmen",
+                  "text": "Az Iglesia de Nuestra Señora del Carmen egy Kármelhegyi Boldogasszonynak szentelt keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.627223,
+                        -33.399901
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Voz en El Desierio",
+                  "text": "Az Iglesia de Dios Voz en El Desierio egy keresztény templom, amely spirituális hangként szolgál a sivatagban a gyülekezete számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.6271,
+                        -33.410832
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Az Iglesia de Dios egy helyi keresztény templom, amely rendszeres közösségi istentiszteletekre gyűjti össze a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.625869,
+                        -33.404451
+                  ]
+            },
+            {
+                  "name": "Templo Chile",
+                  "text": "A Templo Chile egy nagy keresztény templom, amely modern építészeti kialakításával és békés területével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.635563,
+                        -33.411789
+                  ]
+            },
+            {
+                  "name": "Iglesia Esclavas del Sagrado Corazón de Jesus",
+                  "text": "Az Iglesia Esclavas del Sagrado Corazón de Jesus egy keresztény templom, amelyet a Jézus Szent Szíve Szolgálóleányai működtetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.622057,
+                        -33.427448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo al Aire Libre Parque de Las Esculturas",
+                  "text": "Inaugurat la 17 decembrie 1986, acest muzeu în aer liber a fost proiectat de arhitecții Germán Bannen și Jorge Oyarzún și expune opere de artă în mijlocul naturii.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613023,
+                        -33.420039
+                  ]
+            },
+            {
+                  "name": "Museo Astronómico Observatorio Manuel Foster",
+                  "text": "Acest observator astronomic istoric de pe Cerro San Cristóbal și-a început activitatea în februarie 1903.",
+                  "category": "museum",
+                  "coords": [
+                        -70.632319,
+                        -33.422093
+                  ]
+            },
+            {
+                  "name": "Palacio Falabella",
+                  "text": "Acest conac elegant, care găzduiește astăzi primăria din Providencia, a fost construit în stil renascentist în 1924 de arhitectul Guillermo Mancelli.",
+                  "category": "historical",
+                  "coords": [
+                        -70.609915,
+                        -33.432282
+                  ]
+            },
+            {
+                  "name": "Teatro Nescafe de las Artes",
+                  "text": "Cunoscut anterior sub numele de Teatro Astor, acest teatru este astăzi un loc important pentru artele spectacolului contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.620865,
+                        -33.428542
+                  ]
+            },
+            {
+                  "name": "Catedral Castrense de Chile",
+                  "text": "Această catedrală remarcabilă servește ca biserică oficială a forțelor armate și a poliției chiliene.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606208,
+                        -33.420434
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana El Redentor",
+                  "text": "Această biserică luterană a Mântuitorului este un centru spiritual cu o arhitectură atrăgătoare pentru comunitatea protestantă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606024,
+                        -33.423208
+                  ]
+            },
+            {
+                  "name": "Teatro Oriente",
+                  "text": "Construit în anii 1930 în stil Beaux-Arts, acest teatru este un punct de reper cultural în cartierul Providencia.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.61299,
+                        -33.422605
+                  ]
+            },
+            {
+                  "name": "Iglesia Ortodoxa de la Santísima Virgen María",
+                  "text": "Această biserică ortodoxă de inspirație bizantină a fost finalizată în 1932, după planurile arhitectului Josué Smith Solar.",
+                  "category": "religious",
+                  "coords": [
+                        -70.611852,
+                        -33.424128
+                  ]
+            },
+            {
+                  "name": "Fundación Cultural de Providencia",
+                  "text": "Acest centru cultural vibrant este găzduit în elegantul Palacio Schacht, o bijuterie arhitecturală a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.612473,
+                        -33.425182
+                  ]
+            },
+            {
+                  "name": "Mercado de Providencia",
+                  "text": "În această piață municipală tradițională, vizitatorii găsesc o varietate colorată de alimente proaspete chiliene și produse de artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.617407,
+                        -33.426786
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Divina Providencia",
+                  "text": "Această impresionantă biserică din secolul al XIX-lea a dat numele întregului cartier Providencia.",
+                  "category": "religious",
+                  "coords": [
+                        -70.616359,
+                        -33.42761
+                  ]
+            },
+            {
+                  "name": "Torreón Victoria",
+                  "text": "Acest turn istoric de piatră de pe panta dealului Cerro San Cristóbal a fost ridicat în anul 1925.",
+                  "category": "tower",
+                  "coords": [
+                        -70.622249,
+                        -33.415371
+                  ]
+            },
+            {
+                  "name": "Cerro San Cristóbal",
+                  "text": "Acest deal proeminent al orașului Santiago este încoronat de o faimoasă statuie a Fecioarei Maria și oferă o panoramă largă.",
+                  "category": "natural",
+                  "coords": [
+                        -70.629896,
+                        -33.420344
+                  ]
+            },
+            {
+                  "name": "Jardín Japonés de Santiago",
+                  "text": "Această grădină japoneză liniștită a fost creată în 1978 după planurile arhitectului Tadashi Asahi.",
+                  "category": "park",
+                  "coords": [
+                        -70.614255,
+                        -33.41343
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano de Santiago",
+                  "text": "Acest parc urban uriaș a fost fondat la 28 septembrie 1917 și prezintă lucrări arhitecturale semnificative ale lui Carlos Martner.",
+                  "category": "park",
+                  "coords": [
+                        -70.62024,
+                        -33.4119
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Mapulemu",
+                  "text": "Această grădină botanică, înființată în 1983, este dedicată conservării și prezentării florei native a statului Chile.",
+                  "category": "park",
+                  "coords": [
+                        -70.619771,
+                        -33.414566
+                  ]
+            },
+            {
+                  "name": "Galería Histórica del Regimiento Buin",
+                  "text": "Acest muzeu este dedicat trecutului militar și conservării artefactelor istorice ale Regimentului Buin din Chile.",
+                  "category": "museum",
+                  "coords": [
+                        -70.634134,
+                        -33.407385
+                  ]
+            },
+            {
+                  "name": "Galería Casa Autónoma Arte y Cultura",
+                  "text": "Această galerie de artă oferă o platformă pentru artiștii locali în curs de afirmare și pentru expoziții culturale contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -70.611457,
+                        -33.427935
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Anahuac",
+                  "text": "Situată în Parque Metropolitano, această casă de cultură promovează artele și viața comunitară prin sălile sale de evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62402,
+                        -33.417078
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Los Canelos",
+                  "text": "Anfiteatro Los Canelos este un teatru în aer liber situat în zona Cerro San Cristobal.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62199,
+                        -33.413738
+                  ]
+            },
+            {
+                  "name": "Cenlimi - Casa Central",
+                  "text": "Cenlimi - Casa Central este un lăcaș central de cult pentru credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        -70.6038,
+                        -33.427001
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Capilla este o capelă modestă care oferă un spațiu liniștit pentru rugăciune în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        -70.602967,
+                        -33.423082
+                  ]
+            },
+            {
+                  "name": "Mini Market Matin",
+                  "text": "Mini Market Matin este o mică piață locală care oferă bunuri de zi cu zi și alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.608633,
+                        -33.42014
+                  ]
+            },
+            {
+                  "name": "Botilleria y Minimarket",
+                  "text": "Botilleria y Minimarket combină un magazin local de băuturi alcoolice cu o mică piață de alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.607783,
+                        -33.418797
+                  ]
+            },
+            {
+                  "name": "Mercado Huertero",
+                  "text": "Mercado Huertero este o piață vibrantă, axată pe produse proaspete din grădini și livezi.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.616967,
+                        -33.425651
+                  ]
+            },
+            {
+                  "name": "Plaza de Juegos Gabriela Mistral",
+                  "text": "Plaza de Juegos Gabriela Mistral este un loc de joacă animat pentru copii, numit în onoarea faimoasei poete.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.621297,
+                        -33.41602
+                  ]
+            },
+            {
+                  "name": "Parroquia San Ignacio El Bosque",
+                  "text": "Parroquia San Ignacio El Bosque este o biserică parohială creștină cu elemente arhitecturale clasice în cartierul El Bosque.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.594912,
+                        -33.433857
+                  ]
+            },
+            {
+                  "name": "Capilla Lo Contador",
+                  "text": "Capilla Lo Contador este o capelă creștină care deservește nevoile spirituale ale campusului universitar din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.618023,
+                        -33.419397
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Carmen",
+                  "text": "Iglesia de Nuestra Señora del Carmen este o biserică creștină închinată Maicii Domnului de pe Muntele Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.627223,
+                        -33.399901
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Voz en El Desierio",
+                  "text": "Iglesia de Dios Voz en El Desierio este o biserică creștină recunoscută ca o voce spirituală în deșert pentru congregația sa.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.6271,
+                        -33.410832
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Iglesia de Dios este o biserică creștină locală care adună credincioșii pentru slujbe comunitare regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.625869,
+                        -33.404451
+                  ]
+            },
+            {
+                  "name": "Templo Chile",
+                  "text": "Templo Chile este un mare templu creștin care se distinge prin designul său arhitectural modern și terenurile pașnice.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.635563,
+                        -33.411789
+                  ]
+            },
+            {
+                  "name": "Iglesia Esclavas del Sagrado Corazón de Jesus",
+                  "text": "Iglesia Esclavas del Sagrado Corazón de Jesus este o biserică creștină administrată de Slujitoarele Preasfintei Inimi a lui Isus.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.622057,
+                        -33.427448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo al Aire Libre Parque de Las Esculturas",
+                  "text": "Inaugurated on December 17, 1986, this open-air museum was designed by architects Germán Bannen and Jorge Oyarzún to showcase art amidst nature.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613023,
+                        -33.420039
+                  ]
+            },
+            {
+                  "name": "Museo Astronómico Observatorio Manuel Foster",
+                  "text": "Situated on Cerro San Cristóbal, this historic astronomical observatory began operations in February 1903.",
+                  "category": "museum",
+                  "coords": [
+                        -70.632319,
+                        -33.422093
+                  ]
+            },
+            {
+                  "name": "Palacio Falabella",
+                  "text": "Currently housing the Providencia town hall, this elegant manor was built in a Renaissance style by architect Guillermo Mancelli in 1924.",
+                  "category": "historical",
+                  "coords": [
+                        -70.609915,
+                        -33.432282
+                  ]
+            },
+            {
+                  "name": "Teatro Nescafe de las Artes",
+                  "text": "Formerly known as the Teatro Astor, this theater is now a major venue for contemporary performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.620865,
+                        -33.428542
+                  ]
+            },
+            {
+                  "name": "Catedral Castrense de Chile",
+                  "text": "This prominent cathedral serves as the official church of the Chilean Armed Forces and police.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606208,
+                        -33.420434
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana El Redentor",
+                  "text": "The Lutheran Church of the Redeemer stands as an architecturally appealing spiritual center for the city's Protestant community.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606024,
+                        -33.423208
+                  ]
+            },
+            {
+                  "name": "Teatro Oriente",
+                  "text": "Built in the 1930s in the Beaux-Arts style, this theater is a cultural landmark in the Providencia neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.61299,
+                        -33.422605
+                  ]
+            },
+            {
+                  "name": "Iglesia Ortodoxa de la Santísima Virgen María",
+                  "text": "Completed in 1932, this Byzantine-inspired Orthodox church was designed by the notable architect Josué Smith Solar.",
+                  "category": "religious",
+                  "coords": [
+                        -70.611852,
+                        -33.424128
+                  ]
+            },
+            {
+                  "name": "Fundación Cultural de Providencia",
+                  "text": "This vibrant cultural center is housed within the elegant Palacio Schacht, a historical architectural jewel of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.612473,
+                        -33.425182
+                  ]
+            },
+            {
+                  "name": "Mercado de Providencia",
+                  "text": "This traditional municipal market offers visitors a colorful variety of fresh Chilean produce and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.617407,
+                        -33.426786
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Divina Providencia",
+                  "text": "This impressive 19th-century church is the historical namesake for the entire Providencia neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -70.616359,
+                        -33.42761
+                  ]
+            },
+            {
+                  "name": "Torreón Victoria",
+                  "text": "Erected in 1925, this historic stone tower stands proudly on the slopes of Cerro San Cristóbal.",
+                  "category": "tower",
+                  "coords": [
+                        -70.622249,
+                        -33.415371
+                  ]
+            },
+            {
+                  "name": "Cerro San Cristóbal",
+                  "text": "Crowned by a famous statue of the Virgin Mary, this prominent hill offers sweeping panoramic views over Santiago.",
+                  "category": "natural",
+                  "coords": [
+                        -70.629896,
+                        -33.420344
+                  ]
+            },
+            {
+                  "name": "Santiago Japanese Garden",
+                  "text": "Designed by architect Tadashi Asahi, this tranquil Japanese garden was established in 1978.",
+                  "category": "park",
+                  "coords": [
+                        -70.614255,
+                        -33.41343
+                  ]
+            },
+            {
+                  "name": "Santiago Metropolitan Park",
+                  "text": "Founded on September 28, 1917, this immense urban park features architectural elements designed by Carlos Martner.",
+                  "category": "park",
+                  "coords": [
+                        -70.62024,
+                        -33.4119
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Mapulemu",
+                  "text": "Established in 1983, this botanical garden is dedicated to preserving and showcasing the native flora of Chile.",
+                  "category": "park",
+                  "coords": [
+                        -70.619771,
+                        -33.414566
+                  ]
+            },
+            {
+                  "name": "Galería Histórica del Regimiento Buin",
+                  "text": "This museum is dedicated to preserving the military history and historical artifacts of the Chilean Buin Regiment.",
+                  "category": "museum",
+                  "coords": [
+                        -70.634134,
+                        -33.407385
+                  ]
+            },
+            {
+                  "name": "Galería Casa Autónoma Arte y Cultura",
+                  "text": "This art gallery provides a dynamic platform for emerging local artists and contemporary cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -70.611457,
+                        -33.427935
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Anahuac",
+                  "text": "Located within the Metropolitan Park, this cultural house fosters the arts and community life through its versatile event spaces.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62402,
+                        -33.417078
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Los Canelos",
+                  "text": "Anfiteatro Los Canelos is an open-air theatre venue nestled in the Cerro San Cristobal area.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62199,
+                        -33.413738
+                  ]
+            },
+            {
+                  "name": "Cenlimi - Casa Central",
+                  "text": "Cenlimi - Casa Central is a central religious house serving local worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        -70.6038,
+                        -33.427001
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Capilla is a modest chapel providing a quiet space for prayer in the area.",
+                  "category": "religious",
+                  "coords": [
+                        -70.602967,
+                        -33.423082
+                  ]
+            },
+            {
+                  "name": "Mini Market Matin",
+                  "text": "Mini Market Matin is a small local marketplace providing everyday goods and groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.608633,
+                        -33.42014
+                  ]
+            },
+            {
+                  "name": "Botilleria y Minimarket",
+                  "text": "Botilleria y Minimarket combines a local liquor store with a small grocery market.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.607783,
+                        -33.418797
+                  ]
+            },
+            {
+                  "name": "Mercado Huertero",
+                  "text": "Mercado Huertero is a vibrant marketplace focused on fresh orchard and garden produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.616967,
+                        -33.425651
+                  ]
+            },
+            {
+                  "name": "Plaza de Juegos Gabriela Mistral",
+                  "text": "Plaza de Juegos Gabriela Mistral is an attraction offering a lively children's playground named in honor of the famous poet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.621297,
+                        -33.41602
+                  ]
+            },
+            {
+                  "name": "Parroquia San Ignacio El Bosque",
+                  "text": "Parroquia San Ignacio El Bosque is a Christian parish church featuring classic architectural elements in the El Bosque neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.594912,
+                        -33.433857
+                  ]
+            },
+            {
+                  "name": "Capilla Lo Contador",
+                  "text": "Capilla Lo Contador is a Christian chapel serving the spiritual needs of the nearby university campus area.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.618023,
+                        -33.419397
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Carmen",
+                  "text": "Iglesia de Nuestra Señora del Carmen is a Christian church dedicated to Our Lady of Mount Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.627223,
+                        -33.399901
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Voz en El Desierio",
+                  "text": "Iglesia de Dios Voz en El Desierio is a Christian church recognized as a spiritual voice in the desert for its congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.6271,
+                        -33.410832
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Iglesia de Dios is a local Christian church gathering worshippers for regular community services.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.625869,
+                        -33.404451
+                  ]
+            },
+            {
+                  "name": "Templo Chile",
+                  "text": "Templo Chile is a large Christian temple distinguished by its modern architectural design and peaceful grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.635563,
+                        -33.411789
+                  ]
+            },
+            {
+                  "name": "Iglesia Esclavas del Sagrado Corazón de Jesus",
+                  "text": "Iglesia Esclavas del Sagrado Corazón de Jesus is a Christian church administered by the Handmaids of the Sacred Heart of Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.622057,
+                        -33.427448
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-RM",
     coords: [-70.6300, -33.4200],
@@ -236,7 +3017,124 @@ export const poiExtraChileLandmarksV2: POI[] = [
       fr: ["Une statue de la Vierge Marie de 14 mètres de haut se dresse au sommet.", "La colline offre une vue panoramique sur Santiago."],
     }, image: "/poi-images/cerro-san-cristobal-landmarks-v2.webp"},
   {
-    id: "isla-chiloe-landmarks-v2",
+    id: "isla-chiloe-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chiloé",
+                  "text": "Dieser Aussichtspunkt bietet ein beeindruckendes Panorama auf die umgebende Küstenlandschaft von Chiloé.",
+                  "category": "natural",
+                  "coords": [
+                        -73.99073,
+                        -42.636198
+                  ]
+            },
+            {
+                  "name": "Columpio de Huillinco",
+                  "text": "Die riesige Schaukel Columpio de Huillinco lädt Besucher dazu ein, bildschön über die malerische Wasserlandschaft zu schwingen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.897309,
+                        -42.670108
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Lagos Huillinco y Cucao",
+                  "text": "Das 2022 gegründete Naturreservat schützt das ausgedehnte Ökosystem der Seen Huillinco und Cucao.",
+                  "category": "natural",
+                  "coords": [
+                        -73.990058,
+                        -42.65856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chiloé",
+                  "text": "Ez a kilátó lenyűgöző panorámát nyújt Chiloé környező partvidéki tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -73.99073,
+                        -42.636198
+                  ]
+            },
+            {
+                  "name": "Columpio de Huillinco",
+                  "text": "A Columpio de Huillinco óriáshinta festői lendülést kínál a látogatóknak a festői vizes táj felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.897309,
+                        -42.670108
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Lagos Huillinco y Cucao",
+                  "text": "A 2022-ben alapított természetvédelmi terület a Huillinco és Cucao tavak kiterjedt ökoszisztémáját védi.",
+                  "category": "natural",
+                  "coords": [
+                        -73.990058,
+                        -42.65856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chiloé",
+                  "text": "Acest punct de belvedere oferă o panoramă impresionantă asupra peisajului de coastă din Chiloé.",
+                  "category": "natural",
+                  "coords": [
+                        -73.99073,
+                        -42.636198
+                  ]
+            },
+            {
+                  "name": "Columpio de Huillinco",
+                  "text": "Leagănul uriaș Columpio de Huillinco invită vizitatorii să se legene pitoresc deasupra peisajului acvatic.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.897309,
+                        -42.670108
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Lagos Huillinco y Cucao",
+                  "text": "Această rezervație naturală, înființată în 2022, protejează ecosistemul vast al lacurilor Huillinco și Cucao.",
+                  "category": "natural",
+                  "coords": [
+                        -73.990058,
+                        -42.65856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiloé",
+                  "text": "This viewpoint offers a sweeping panorama over the surrounding coastal landscapes of Chiloé.",
+                  "category": "natural",
+                  "coords": [
+                        -73.99073,
+                        -42.636198
+                  ]
+            },
+            {
+                  "name": "Columpio de Huillinco",
+                  "text": "The giant Columpio de Huillinco swing invites visitors to soar picturesquely over the scenic waterscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.897309,
+                        -42.670108
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Lagos Huillinco y Cucao",
+                  "text": "Established in 2022, this nature reserve protects the extensive ecosystem of the Huillinco and Cucao lakes.",
+                  "category": "natural",
+                  "coords": [
+                        -73.990058,
+                        -42.65856
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-LL",
     coords: [-73.9700, -42.6000],
@@ -283,7 +3181,304 @@ export const poiExtraChileLandmarksV2: POI[] = [
       fr: ["L'île possède sa propre mythologie.", "Les églises en bois sont classées au patrimoine mondial de l'UNESCO."],
     }, image: "/poi-images/isla-chiloe-landmarks-v2.webp"},
   {
-    id: "parque-nacional-lauca-landmarks-v2",
+    id: "parque-nacional-lauca-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zampoña",
+                  "text": "Der Aussichtspunkt Zampoña in parque-nacional-lauca-landmarks-v2 bietet einen weiten Blick über die lebendigen hochgelegenen Feuchtgebiete des Parks und die fernen, schneebedeckten Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -69.382111,
+                        -18.182417
+                  ]
+            },
+            {
+                  "name": "Mirador Fauna Terestre",
+                  "text": "Der Mirador Fauna Terestre in parque-nacional-lauca-landmarks-v2 ist speziell für die Tierbeobachtung angelegt und ermöglicht es Besuchern, den Altiplano nach grasenden Herden einheimischer Vikunjas und Alpakas abzusuchen.",
+                  "category": "natural",
+                  "coords": [
+                        -69.365634,
+                        -18.193534
+                  ]
+            },
+            {
+                  "name": "Cavario de Parinacota",
+                  "text": "Der Aussichtspunkt Cavario de Parinacota in parque-nacional-lauca-landmarks-v2, der über einen kurzen malerischen Pfad zu erreichen ist, blickt auf das charmante weiß getünchte Dorf und den imposanten Vulkan Parinacota.",
+                  "category": "natural",
+                  "coords": [
+                        -69.2674,
+                        -18.202697
+                  ]
+            },
+            {
+                  "name": "Mirador deLaguna Cotacotani y Volcán Parinacota",
+                  "text": "Dieser atemberaubende Aussichtspunkt in parque-nacional-lauca-landmarks-v2 umrahmt das smaragdgrüne Wasser der Laguna Cotacotani perfekt vor dem symmetrischen, schneebedeckten Kegel des Vulkans Parinacota.",
+                  "category": "natural",
+                  "coords": [
+                        -69.234299,
+                        -18.20324
+                  ]
+            },
+            {
+                  "name": "Cotacotani",
+                  "text": "Der Aussichtspunkt Cotacotani in parque-nacional-lauca-landmarks-v2 zeigt ein riesiges, miteinander verbundenes Netzwerk flacher Alpenseen, das von kleinen Vulkaninseln durchbrochen wird.",
+                  "category": "natural",
+                  "coords": [
+                        -69.228793,
+                        -18.217592
+                  ]
+            },
+            {
+                  "name": "Laguna Cotacotani",
+                  "text": "Vom Aussichtspunkt Laguna Cotacotani in parque-nacional-lauca-landmarks-v2 aus können Beobachter die tiefblauen Wasser des Sees bewundern, die sich durch dunkle, unregelmäßige Lavafelder schlängeln.",
+                  "category": "natural",
+                  "coords": [
+                        -69.228325,
+                        -18.215875
+                  ]
+            },
+            {
+                  "name": "Mirador Volcán Parincota",
+                  "text": "Der Mirador Volcán Parincota ist eine spezielle Aussichtsplattform in parque-nacional-lauca-landmarks-v2, die ungetrübte, atemberaubende Ausblicke auf den hoch aufragenden, 6.348 Meter hohen Stratovulkan bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -69.21562,
+                        -18.219142
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Lauca",
+                  "text": "Der Nationalpark Lauca in parque-nacional-lauca-landmarks-v2 umfasst dramatische Andengipfel und Altiplano-Landschaften und ist ein riesiges Biosphärenreservat, das für seine reiche Tierwelt und unberührten hochgelegenen Seen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -69.353382,
+                        -18.244541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zampoña",
+                  "text": "A Zampoña kilátó a parque-nacional-lauca-landmarks-v2 területén tágas kilátást nyújt a park élénk, magasan fekvő vizes élőhelyeire és a távoli hófödte csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        -69.382111,
+                        -18.182417
+                  ]
+            },
+            {
+                  "name": "Mirador Fauna Terestre",
+                  "text": "A kifejezetten a vadvilág megfigyelésére kialakított Mirador Fauna Terestre a parque-nacional-lauca-landmarks-v2 területén lehetővé teszi a látogatók számára, hogy az Altiplanón legelésző őshonos vikunya- és alpakacsordákat keressenek.",
+                  "category": "natural",
+                  "coords": [
+                        -69.365634,
+                        -18.193534
+                  ]
+            },
+            {
+                  "name": "Cavario de Parinacota",
+                  "text": "A rövid, festői ösvényen megközelíthető Cavario de Parinacota kilátó a parque-nacional-lauca-landmarks-v2 területén a bájos, fehérre meszelt falura és az impozáns Parinacota vulkánra tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -69.2674,
+                        -18.202697
+                  ]
+            },
+            {
+                  "name": "Mirador deLaguna Cotacotani y Volcán Parinacota",
+                  "text": "Ez a lenyűgöző kilátó a parque-nacional-lauca-landmarks-v2 területén tökéletesen keretbe foglalja a Laguna Cotacotani smaragdzöld vizét a Parinacota vulkán szimmetrikus, hófödte kúpjával szemben.",
+                  "category": "natural",
+                  "coords": [
+                        -69.234299,
+                        -18.20324
+                  ]
+            },
+            {
+                  "name": "Cotacotani",
+                  "text": "A Cotacotani kilátó a parque-nacional-lauca-landmarks-v2 területén sekély alpesi tavak hatalmas, egymásba fonódó hálózatát mutatja be, amelyeket kis vulkáni szigetek tarkítanak.",
+                  "category": "natural",
+                  "coords": [
+                        -69.228793,
+                        -18.217592
+                  ]
+            },
+            {
+                  "name": "Laguna Cotacotani",
+                  "text": "A Laguna Cotacotani kilátóból a parque-nacional-lauca-landmarks-v2 területén a megfigyelők megcsodálhatják a tó sötétkék vizét, amely sötét, szabálytalan lávamezőkön kanyarog keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -69.228325,
+                        -18.215875
+                  ]
+            },
+            {
+                  "name": "Mirador Volcán Parincota",
+                  "text": "A Mirador Volcán Parincota egy dedikált kilátóterasz a parque-nacional-lauca-landmarks-v2 területén, amely akadálytalan, lenyűgöző kilátást nyújt a 6348 méter magas rétegvulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        -69.21562,
+                        -18.219142
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Lauca",
+                  "text": "A drámai andoki csúcsokat és altiplano tájakat magába foglaló Lauca Nemzeti Park a parque-nacional-lauca-landmarks-v2 területén egy hatalmas bioszféra-rezervátum, amely gazdag vadvilágáról és érintetlen, magasan fekvő tavairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -69.353382,
+                        -18.244541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zampoña",
+                  "text": "Punctul de belvedere Zampoña din parque-nacional-lauca-landmarks-v2 oferă o vedere panoramică asupra zonelor umede vibrante de mare altitudine ale parcului și asupra vârfurilor înzăpezite din depărtare.",
+                  "category": "natural",
+                  "coords": [
+                        -69.382111,
+                        -18.182417
+                  ]
+            },
+            {
+                  "name": "Mirador Fauna Terestre",
+                  "text": "Situat special pentru observarea faunei sălbatice, Mirador Fauna Terestre din parque-nacional-lauca-landmarks-v2 permite vizitatorilor să scruteze Altiplanul în căutarea turmelor de vicuñas și alpaca native.",
+                  "category": "natural",
+                  "coords": [
+                        -69.365634,
+                        -18.193534
+                  ]
+            },
+            {
+                  "name": "Cavario de Parinacota",
+                  "text": "Accesibil printr-o scurtă cărare pitorească, punctul de belvedere Cavario de Parinacota din parque-nacional-lauca-landmarks-v2 domină satul fermecător văruit în alb și impunătorul vulcan Parinacota.",
+                  "category": "natural",
+                  "coords": [
+                        -69.2674,
+                        -18.202697
+                  ]
+            },
+            {
+                  "name": "Mirador deLaguna Cotacotani y Volcán Parinacota",
+                  "text": "Acest punct de belvedere uimitor din parque-nacional-lauca-landmarks-v2 încadrează perfect apele de smarald ale Lagunei Cotacotani cu conul simetric și acoperit de zăpadă al Vulcanului Parinacota pe fundal.",
+                  "category": "natural",
+                  "coords": [
+                        -69.234299,
+                        -18.20324
+                  ]
+            },
+            {
+                  "name": "Cotacotani",
+                  "text": "Punctul de belvedere Cotacotani din parque-nacional-lauca-landmarks-v2 prezintă o vastă rețea interconectată de lacuri alpine de mică adâncime, punctată de mici insule vulcanice.",
+                  "category": "natural",
+                  "coords": [
+                        -69.228793,
+                        -18.217592
+                  ]
+            },
+            {
+                  "name": "Laguna Cotacotani",
+                  "text": "De la punctul de belvedere Laguna Cotacotani din parque-nacional-lauca-landmarks-v2, observatorii pot admira apele de un albastru pur ale lacului, șerpuind prin câmpurile întunecate și neregulate de lavă.",
+                  "category": "natural",
+                  "coords": [
+                        -69.228325,
+                        -18.215875
+                  ]
+            },
+            {
+                  "name": "Mirador Volcán Parincota",
+                  "text": "Mirador Volcán Parincota este o platformă de observație dedicată din parque-nacional-lauca-landmarks-v2, care oferă priveliști neobstrucționate și uluitoare asupra falnicului stratovulcan de 6.348 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        -69.21562,
+                        -18.219142
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Lauca",
+                  "text": "Cuprinzând vârfuri andine dramatice și peisaje de altiplano, Parcul Național Lauca din parque-nacional-lauca-landmarks-v2 este o vastă rezervație a biosferei, cunoscută pentru fauna sa bogată și lacurile imaculate de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -69.353382,
+                        -18.244541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zampoña",
+                  "text": "The Zampoña viewpoint in parque-nacional-lauca-landmarks-v2 provides an expansive overlook of the park's vibrant high-altitude wetlands and distant snow-capped peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -69.382111,
+                        -18.182417
+                  ]
+            },
+            {
+                  "name": "Mirador Fauna Terestre",
+                  "text": "Specially situated for wildlife observation, the Mirador Fauna Terestre in parque-nacional-lauca-landmarks-v2 allows visitors to scan the Altiplano for grazing herds of native vicuñas and alpacas.",
+                  "category": "natural",
+                  "coords": [
+                        -69.365634,
+                        -18.193534
+                  ]
+            },
+            {
+                  "name": "Cavario de Parinacota",
+                  "text": "Reached via a short scenic path, the Cavario de Parinacota viewpoint in parque-nacional-lauca-landmarks-v2 overlooks the charming whitewashed village and the imposing Parinacota Volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -69.2674,
+                        -18.202697
+                  ]
+            },
+            {
+                  "name": "Lookout of Laguna Cotacotani and Volcán Parinacota",
+                  "text": "This stunning viewpoint in parque-nacional-lauca-landmarks-v2 frames the emerald waters of Laguna Cotacotani perfectly against the symmetrical, snow-capped cone of Volcán Parinacota.",
+                  "category": "natural",
+                  "coords": [
+                        -69.234299,
+                        -18.20324
+                  ]
+            },
+            {
+                  "name": "Cotacotani",
+                  "text": "The Cotacotani viewpoint in parque-nacional-lauca-landmarks-v2 showcases a vast, interconnecting network of shallow alpine lakes punctuated by small volcanic islands.",
+                  "category": "natural",
+                  "coords": [
+                        -69.228793,
+                        -18.217592
+                  ]
+            },
+            {
+                  "name": "Laguna Cotacotani",
+                  "text": "From the Laguna Cotacotani viewpoint in parque-nacional-lauca-landmarks-v2, observers can admire the lake's stark blue waters weaving through dark, irregular lava fields.",
+                  "category": "natural",
+                  "coords": [
+                        -69.228325,
+                        -18.215875
+                  ]
+            },
+            {
+                  "name": "Mirador Volcán Parincota",
+                  "text": "The Mirador Volcán Parincota is a dedicated observation deck in parque-nacional-lauca-landmarks-v2 that provides unobstructed, awe-inspiring vistas of the towering 6,348-meter stratovolcano.",
+                  "category": "natural",
+                  "coords": [
+                        -69.21562,
+                        -18.219142
+                  ]
+            },
+            {
+                  "name": "Lauca National Park",
+                  "text": "Encompassing dramatic Andean peaks and altiplano landscapes, Lauca National Park in parque-nacional-lauca-landmarks-v2 is a vast biosphere reserve known for its rich wildlife and pristine high-altitude lakes.",
+                  "category": "natural",
+                  "coords": [
+                        -69.353382,
+                        -18.244541
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-AP",
     coords: [-69.3000, -18.2000],
@@ -330,7 +3525,1276 @@ export const poiExtraChileLandmarksV2: POI[] = [
       fr: ["Le lac Chungará est l'un des lacs les plus hauts de la Terre.", "De nombreux lamas et vigognes y vivent."],
     }, image: "/poi-images/parque-nacional-lauca-landmarks-v2.webp"},
   {
-    id: "valparaiso-landmarks-v2",
+    id: "valparaiso-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Marítimo Nacional",
+                  "text": "Das Nationale Schifffahrtsmuseum im markanten Gebäude auf dem Cerro Artillería in Valparaíso dokumentiert die chilenische Marinegeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -71.63138,
+                        -33.031711
+                  ]
+            },
+            {
+                  "name": "Museo Organológico",
+                  "text": "Das organologische Museum in Valparaíso beherbergt eine einzigartige und umfangreiche Sammlung alter Musikinstrumente.",
+                  "category": "museum",
+                  "coords": [
+                        -71.622064,
+                        -33.051876
+                  ]
+            },
+            {
+                  "name": "Palacio Astoreca",
+                  "text": "Der majestätische Palacio Astoreca in Valparaíso zeigt die prächtige Architektur und den Reichtum der historischen Oberschicht der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        -71.62895,
+                        -33.040753
+                  ]
+            },
+            {
+                  "name": "Juan Bautista Alberdi",
+                  "text": "Das Denkmal für Juan Bautista Alberdi in Valparaíso ehrt den bekannten argentinischen Politiker, der im Exil in dieser Stadt lebte.",
+                  "category": "historical",
+                  "coords": [
+                        -71.602019,
+                        -33.052288
+                  ]
+            },
+            {
+                  "name": "Torre Reloj Barón",
+                  "text": "Der historische Uhrenturm Torre Reloj Barón ist ein unverwechselbares Wahrzeichen, das den belebten Bahnhofsbereich in Valparaíso überragt.",
+                  "category": "historical",
+                  "coords": [
+                        -71.604945,
+                        -33.041743
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco",
+                  "text": "Die Iglesia San Francisco in Valparaíso war mit ihrem hohen Turm einst ein wichtiger Bezugspunkt für die ankommenden Seeleute.",
+                  "category": "religious",
+                  "coords": [
+                        -71.600734,
+                        -33.039438
+                  ]
+            },
+            {
+                  "name": "Mercado Cardonal",
+                  "text": "Der Mercado Cardonal in Valparaíso ist eine geschäftige, zweistöckige Markthalle aus Metall, in der frische regionale Produkte verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.607537,
+                        -33.045234
+                  ]
+            },
+            {
+                  "name": "Catedral Anglicana de San Pablo",
+                  "text": "Diese anglikanische Kultstätte dient als Kathedrale für die örtliche Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -71.627297,
+                        -33.042377
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Sagrados Corazones",
+                  "text": "Diese historische Kirche ist den Heiligen Herzen geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        -71.615544,
+                        -33.048498
+                  ]
+            },
+            {
+                  "name": "Iglesia del Corazón de María",
+                  "text": "Diese Kultstätte ist eine Kirche, die dem Herzen Mariens geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.608349,
+                        -33.051701
+                  ]
+            },
+            {
+                  "name": "Capilla del Carmen",
+                  "text": "Diese religiöse Stätte fungiert als Kapelle, die Unserer Lieben Frau vom Berge Karmel geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.611326,
+                        -33.051778
+                  ]
+            },
+            {
+                  "name": "Ascensor Polanco",
+                  "text": "Dieser historische Standseilbahn-Aufzug transportiert Passagiere die steilen Hügel der Stadt hinauf.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.598921,
+                        -33.050558
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes de Iquique",
+                  "text": "Dieses markante Denkmal erinnert an die gefallenen Helden der Schlacht von Iquique.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.628337,
+                        -33.038286
+                  ]
+            },
+            {
+                  "name": "Reloj Turri",
+                  "text": "Dieser ikonische Uhrenturm ist ein weithin bekanntes Wahrzeichen der Zeitmessung.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.626346,
+                        -33.040591
+                  ]
+            },
+            {
+                  "name": "Faro Punta Ángeles",
+                  "text": "Dieser markante Leuchtturm dient der Leitung des Seeverkehrs entlang der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.647393,
+                        -33.022999
+                  ]
+            },
+            {
+                  "name": "Faro Recinto Portuario Primera Zona Naval",
+                  "text": "Dieser Marineleuchtturm befindet sich auf dem Hafengelände der ersten Marinezone.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.625861,
+                        -33.027229
+                  ]
+            },
+            {
+                  "name": "Faro Punta Condell",
+                  "text": "Dieser an der Küste positionierte Leuchtturm sorgt für die sichere Navigation von Schiffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.585733,
+                        -33.025696
+                  ]
+            },
+            {
+                  "name": "Muelle Barón",
+                  "text": "Dieser historische Pier ragt ins Meer und diente einst dem geschäftigen Seehandel.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.6083,
+                        -33.040709
+                  ]
+            },
+            {
+                  "name": "Arco Británico",
+                  "text": "Dieser Gedenkbogen wurde von der lokalen britischen Gemeinde gestiftet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.620457,
+                        -33.044644
+                  ]
+            },
+            {
+                  "name": "Mercado Puerto",
+                  "text": "Dieser geschäftige Hafenmarkt bietet eine Vielzahl lokaler Waren und frischer Produkte.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.629988,
+                        -33.035822
+                  ]
+            },
+            {
+                  "name": "Parque Cultural de Valparaíso",
+                  "text": "Dieser auf einem ehemaligen Gefängnisgelände errichtete Kulturpark beherbergt heute Kunst- und Gemeindeveranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.627794,
+                        -33.046483
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Palmar El Salto",
+                  "text": "Dieses am 21. August 1998 ausgewiesene Naturschutzgebiet schützt einen seltenen Palmenwald.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529014,
+                        -33.059235
+                  ]
+            },
+            {
+                  "name": "Plaza Carmela Carvajal de Prat",
+                  "text": "Dieser offiziell am 25. Mai 2015 eröffnete Park bietet einen städtischen Erholungsraum.",
+                  "category": "park",
+                  "coords": [
+                        -71.598628,
+                        -33.035615
+                  ]
+            },
+            {
+                  "name": "Plaza Simón Bolívar",
+                  "text": "Dieser öffentliche Park verfügt über schattige Bereiche und Wege, die dem südamerikanischen Befreier Simón Bolívar gewidmet sind.",
+                  "category": "park",
+                  "coords": [
+                        -71.619541,
+                        -33.045503
+                  ]
+            },
+            {
+                  "name": "Plaza Eleuterio Ramírez",
+                  "text": "Dieser Stadtpark bietet einen grünen Rastplatz zu Ehren der nationalen Militärfigur Eleuterio Ramírez.",
+                  "category": "park",
+                  "coords": [
+                        -71.630857,
+                        -33.038147
+                  ]
+            },
+            {
+                  "name": "Parque Italia",
+                  "text": "Dieser Stadtpark bietet eine erholsame, mit klassischen Statuen geschmückte Grünfläche.",
+                  "category": "park",
+                  "coords": [
+                        -71.614193,
+                        -33.047824
+                  ]
+            },
+            {
+                  "name": "Capilla de la Providencia",
+                  "text": "Diese örtliche Kirche dient als geweihter Ort für christliche Anbetung und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        -71.60655,
+                        -33.05218
+                  ]
+            },
+            {
+                  "name": "Plaza O'Higgins",
+                  "text": "In der Nähe des Nationalkongresses gelegen, ist dieser Stadtpark ein bekannter lokaler Knotenpunkt.",
+                  "category": "park",
+                  "coords": [
+                        -71.60744,
+                        -33.048073
+                  ]
+            },
+            {
+                  "name": "Teatro Mauri",
+                  "text": "Dieser Veranstaltungsort für Theater beherbergt verschiedene kulturelle Aufführungen und lokale Kunstereignisse.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.623203,
+                        -33.054079
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana de Valparaíso",
+                  "text": "Diese Kultstätte fungiert als spirituelle Heimat für die örtliche lutherische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -71.626172,
+                        -33.042682
+                  ]
+            },
+            {
+                  "name": "San Luis de Gonzaga",
+                  "text": "Dieses Kirchengebäude bietet einen eigenen Raum für religiöse Zeremonien und Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        -71.630514,
+                        -33.043901
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Compañía de Jesús",
+                  "text": "Dieses religiöse Wahrzeichen ist eine Kultstätte, die historisch mit dem Jesuitenorden verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.602753,
+                        -33.046708
+                  ]
+            },
+            {
+                  "name": "Corte de Apelaciones de Valparaíso",
+                  "text": "Dieses prächtige Gerichtsgebäude beherbergt das regionale Berufungsgericht.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.63004,
+                        -33.039516
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Valparaíso",
+                  "text": "Dieses städtische Theater dient als wichtiger Austragungsort für öffentliche künstlerische Darbietungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.608577,
+                        -33.047649
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Acantilados Federico Santa María",
+                  "text": "Dieses im Jahr 2006 gegründete Naturschutzgebiet schützt die rauen Küstenklippen der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.659771,
+                        -33.064297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Marítimo Nacional",
+                  "text": "A chilei tengerészet történetét bemutató Nemzeti Tengerészeti Múzeum egy feltűnő épületben található Valparaíso Cerro Artillería hegyén.",
+                  "category": "museum",
+                  "coords": [
+                        -71.63138,
+                        -33.031711
+                  ]
+            },
+            {
+                  "name": "Museo Organológico",
+                  "text": "A valparaísói organológiai múzeum régi hangszerek egyedülálló és kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -71.622064,
+                        -33.051876
+                  ]
+            },
+            {
+                  "name": "Palacio Astoreca",
+                  "text": "A valparaísói fenséges Palacio Astoreca a város egykori arisztokráciájának gazdagságát és pazar építészetét mutatja be.",
+                  "category": "castle",
+                  "coords": [
+                        -71.62895,
+                        -33.040753
+                  ]
+            },
+            {
+                  "name": "Juan Bautista Alberdi",
+                  "text": "A Juan Bautista Alberdi-emlékmű Valparaísóban annak az ismert argentin politikusnak állít emléket, aki száműzetésben élt ebben a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -71.602019,
+                        -33.052288
+                  ]
+            },
+            {
+                  "name": "Torre Reloj Barón",
+                  "text": "A történelmi Torre Reloj Barón óratorony egy jellegzetes tájékozódási pont, amely Valparaíso forgalmas vasútállomásának környéke fölé magasodik.",
+                  "category": "historical",
+                  "coords": [
+                        -71.604945,
+                        -33.041743
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco",
+                  "text": "A valparaísói Iglesia San Francisco magas tornyával egykor fontos tájékozódási pont volt az érkező tengerészek számára.",
+                  "category": "religious",
+                  "coords": [
+                        -71.600734,
+                        -33.039438
+                  ]
+            },
+            {
+                  "name": "Mercado Cardonal",
+                  "text": "A valparaísói Mercado Cardonal egy nyüzsgő, kétszintes fémvázas piaccsarnok, ahol friss helyi termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.607537,
+                        -33.045234
+                  ]
+            },
+            {
+                  "name": "Catedral Anglicana de San Pablo",
+                  "text": "Ez az anglikán istentiszteleti hely a helyi közösség katedrálisaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -71.627297,
+                        -33.042377
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Sagrados Corazones",
+                  "text": "Ezt a történelmi templomot a Szent Szíveknek szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -71.615544,
+                        -33.048498
+                  ]
+            },
+            {
+                  "name": "Iglesia del Corazón de María",
+                  "text": "Ez az istentiszteleti hely a Mária Szívének szentelt templom.",
+                  "category": "religious",
+                  "coords": [
+                        -71.608349,
+                        -33.051701
+                  ]
+            },
+            {
+                  "name": "Capilla del Carmen",
+                  "text": "Ez a vallási hely a Kármelhegyi Boldogasszonynak szentelt kápolnaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -71.611326,
+                        -33.051778
+                  ]
+            },
+            {
+                  "name": "Ascensor Polanco",
+                  "text": "Ez a történelmi sikló felvonó az utasokat a város meredek dombjaira szállítja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.598921,
+                        -33.050558
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes de Iquique",
+                  "text": "Ez a kiemelkedő emlékmű az iquique-i csata elesett hőseinek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.628337,
+                        -33.038286
+                  ]
+            },
+            {
+                  "name": "Reloj Turri",
+                  "text": "Ez az ikonikus óratorony jól ismert időmérő nevezetességként áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.626346,
+                        -33.040591
+                  ]
+            },
+            {
+                  "name": "Faro Punta Ángeles",
+                  "text": "Ez a kiemelkedő világítótorony a part menti tengeri forgalom irányítására szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.647393,
+                        -33.022999
+                  ]
+            },
+            {
+                  "name": "Faro Recinto Portuario Primera Zona Naval",
+                  "text": "Ez a haditengerészeti világítótorony az első haditengerészeti zóna kikötői területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.625861,
+                        -33.027229
+                  ]
+            },
+            {
+                  "name": "Faro Punta Condell",
+                  "text": "A parton elhelyezkedő világítótorony biztosítja a hajók biztonságos navigációját.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.585733,
+                        -33.025696
+                  ]
+            },
+            {
+                  "name": "Muelle Barón",
+                  "text": "Ez a történelmi móló a tengerbe nyúlik, és egykor nyüzsgő tengeri kereskedelmet szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.6083,
+                        -33.040709
+                  ]
+            },
+            {
+                  "name": "Arco Británico",
+                  "text": "Ezt az emlékműként szolgáló diadalívet a helyi brit közösség ajándékozta.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.620457,
+                        -33.044644
+                  ]
+            },
+            {
+                  "name": "Mercado Puerto",
+                  "text": "Ez a nyüzsgő kikötői piac különféle helyi árukat és friss termékeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.629988,
+                        -33.035822
+                  ]
+            },
+            {
+                  "name": "Parque Cultural de Valparaíso",
+                  "text": "Az egykori börtön helyén épült kulturális park ma művészeti és közösségi eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.627794,
+                        -33.046483
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Palmar El Salto",
+                  "text": "Az 1998. augusztus 21-én kijelölt természetvédelmi terület egy ritka pálmaerdőt véd.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529014,
+                        -33.059235
+                  ]
+            },
+            {
+                  "name": "Plaza Carmela Carvajal de Prat",
+                  "text": "A 2015. május 25-én hivatalosan megnyitott park városi rekreációs teret biztosít.",
+                  "category": "park",
+                  "coords": [
+                        -71.598628,
+                        -33.035615
+                  ]
+            },
+            {
+                  "name": "Plaza Simón Bolívar",
+                  "text": "Ez a közpark árnyékos területekkel és a dél-amerikai felszabadítónak, Simón Bolívarnak szentelt sétányokkal rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        -71.619541,
+                        -33.045503
+                  ]
+            },
+            {
+                  "name": "Plaza Eleuterio Ramírez",
+                  "text": "Ez a városi park zöld pihenőhelyet biztosít Eleuterio Ramírez nemzeti katonai személyiség tiszteletére.",
+                  "category": "park",
+                  "coords": [
+                        -71.630857,
+                        -33.038147
+                  ]
+            },
+            {
+                  "name": "Parque Italia",
+                  "text": "Ez a városi park klasszikus szobrokkal díszített, pihentető zöldfelületet kínál.",
+                  "category": "park",
+                  "coords": [
+                        -71.614193,
+                        -33.047824
+                  ]
+            },
+            {
+                  "name": "Capilla de la Providencia",
+                  "text": "Ez a helyi templom a keresztény istentisztelet és elmélkedés dedikált helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -71.60655,
+                        -33.05218
+                  ]
+            },
+            {
+                  "name": "Plaza O'Higgins",
+                  "text": "A nemzeti kongresszus közelében található városi park jól ismert helyi csomópont.",
+                  "category": "park",
+                  "coords": [
+                        -71.60744,
+                        -33.048073
+                  ]
+            },
+            {
+                  "name": "Teatro Mauri",
+                  "text": "Ez a színházi helyszín különféle kulturális előadásoknak és helyi művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.623203,
+                        -33.054079
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana de Valparaíso",
+                  "text": "Ez az istentiszteleti hely a helyi evangélikus gyülekezet spirituális otthonaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -71.626172,
+                        -33.042682
+                  ]
+            },
+            {
+                  "name": "San Luis de Gonzaga",
+                  "text": "Ez a templomépület külön teret biztosít vallási szertartások és imák számára.",
+                  "category": "religious",
+                  "coords": [
+                        -71.630514,
+                        -33.043901
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Compañía de Jesús",
+                  "text": "Ez a vallási nevezetesség egy istentiszteleti hely, amely történelmileg a jezsuita rendhez kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        -71.602753,
+                        -33.046708
+                  ]
+            },
+            {
+                  "name": "Corte de Apelaciones de Valparaíso",
+                  "text": "Ebben a grandiózus igazságügyi épületben kapott helyet a regionális fellebbviteli bíróság.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.63004,
+                        -33.039516
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Valparaíso",
+                  "text": "Ez a városi színház a nyilvános művészeti előadások egyik fő helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.608577,
+                        -33.047649
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Acantilados Federico Santa María",
+                  "text": "A 2006-ban alapított természetvédelmi terület a környék zord tengerparti szikláit védi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.659771,
+                        -33.064297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Marítimo Nacional",
+                  "text": "Muzeul Maritim Național, găzduit într-o clădire proeminentă de pe Cerro Artillería din Valparaíso, expune istoria navală chiliană.",
+                  "category": "museum",
+                  "coords": [
+                        -71.63138,
+                        -33.031711
+                  ]
+            },
+            {
+                  "name": "Museo Organológico",
+                  "text": "Muzeul Organologic din Valparaíso găzduiește o colecție unică și extinsă de instrumente muzicale vechi.",
+                  "category": "museum",
+                  "coords": [
+                        -71.622064,
+                        -33.051876
+                  ]
+            },
+            {
+                  "name": "Palacio Astoreca",
+                  "text": "Maiestuosul Palacio Astoreca din Valparaíso reflectă arhitectura splendidă și bogăția vechii aristocrații a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        -71.62895,
+                        -33.040753
+                  ]
+            },
+            {
+                  "name": "Juan Bautista Alberdi",
+                  "text": "Monumentul lui Juan Bautista Alberdi din Valparaíso îl onorează pe celebrul politician argentinian care a trăit în exil în acest oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -71.602019,
+                        -33.052288
+                  ]
+            },
+            {
+                  "name": "Torre Reloj Barón",
+                  "text": "Turnul cu ceas istoric Torre Reloj Barón este un reper inconfundabil care domină zona aglomerată a gării din Valparaíso.",
+                  "category": "historical",
+                  "coords": [
+                        -71.604945,
+                        -33.041743
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco",
+                  "text": "Cu turnul său înalt, Biserica San Francisco din Valparaíso a servit odinioară drept punct de reper esențial pentru marinarii care soseau.",
+                  "category": "religious",
+                  "coords": [
+                        -71.600734,
+                        -33.039438
+                  ]
+            },
+            {
+                  "name": "Mercado Cardonal",
+                  "text": "Mercado Cardonal din Valparaíso este o piață acoperită, animată, construită din metal pe două etaje, care vinde produse proaspete regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.607537,
+                        -33.045234
+                  ]
+            },
+            {
+                  "name": "Catedral Anglicana de San Pablo",
+                  "text": "Acest lăcaș de cult anglican servește drept catedrală pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -71.627297,
+                        -33.042377
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Sagrados Corazones",
+                  "text": "Această biserică istorică este închinată Inimilor Sacre.",
+                  "category": "religious",
+                  "coords": [
+                        -71.615544,
+                        -33.048498
+                  ]
+            },
+            {
+                  "name": "Iglesia del Corazón de María",
+                  "text": "Acest lăcaș de cult este o biserică închinată Inimii Mariei.",
+                  "category": "religious",
+                  "coords": [
+                        -71.608349,
+                        -33.051701
+                  ]
+            },
+            {
+                  "name": "Capilla del Carmen",
+                  "text": "Acest sit religios funcționează ca o capelă închinată Maicii Domnului de pe Muntele Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        -71.611326,
+                        -33.051778
+                  ]
+            },
+            {
+                  "name": "Ascensor Polanco",
+                  "text": "Acest ascensor funicular istoric transportă pasagerii pe dealurile abrupte ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.598921,
+                        -33.050558
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes de Iquique",
+                  "text": "Acest monument proeminent comemorează eroii căzuți în bătălia de la Iquique.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.628337,
+                        -33.038286
+                  ]
+            },
+            {
+                  "name": "Reloj Turri",
+                  "text": "Acest turn cu ceas iconic se mândrește ca un reper binecunoscut de măsurare a timpului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.626346,
+                        -33.040591
+                  ]
+            },
+            {
+                  "name": "Faro Punta Ángeles",
+                  "text": "Acest far proeminent servește la ghidarea traficului maritim de-a lungul coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.647393,
+                        -33.022999
+                  ]
+            },
+            {
+                  "name": "Faro Recinto Portuario Primera Zona Naval",
+                  "text": "Acest far naval este situat în incinta portuară a primei zone navale.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.625861,
+                        -33.027229
+                  ]
+            },
+            {
+                  "name": "Faro Punta Condell",
+                  "text": "Poziționat pe coastă, acest far asigură navigarea sigură a navelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.585733,
+                        -33.025696
+                  ]
+            },
+            {
+                  "name": "Muelle Barón",
+                  "text": "Acest debarcader istoric se extinde în mare și a servit odată comerțului maritim plin de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.6083,
+                        -33.040709
+                  ]
+            },
+            {
+                  "name": "Arco Británico",
+                  "text": "Acest arc comemorativ a fost dăruit de comunitatea britanică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.620457,
+                        -33.044644
+                  ]
+            },
+            {
+                  "name": "Mercado Puerto",
+                  "text": "Această piață portuară plină de viață oferă o varietate de bunuri locale și produse proaspete.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.629988,
+                        -33.035822
+                  ]
+            },
+            {
+                  "name": "Parque Cultural de Valparaíso",
+                  "text": "Construit pe locul unei foste închisori, acest parc cultural găzduiește acum evenimente de artă și comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.627794,
+                        -33.046483
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Palmar El Salto",
+                  "text": "Desemnată pe 21 august 1998, această rezervație naturală protejează o pădure rară de palmieri.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529014,
+                        -33.059235
+                  ]
+            },
+            {
+                  "name": "Plaza Carmela Carvajal de Prat",
+                  "text": "Deschis oficial la 25 mai 2015, acest parc oferă un spațiu de recreere urban.",
+                  "category": "park",
+                  "coords": [
+                        -71.598628,
+                        -33.035615
+                  ]
+            },
+            {
+                  "name": "Plaza Simón Bolívar",
+                  "text": "Acest parc public are zone umbrite și alei dedicate eliberatorului sud-american Simón Bolívar.",
+                  "category": "park",
+                  "coords": [
+                        -71.619541,
+                        -33.045503
+                  ]
+            },
+            {
+                  "name": "Plaza Eleuterio Ramírez",
+                  "text": "Acest parc urban oferă o zonă de odihnă verde în onoarea figurii militare naționale Eleuterio Ramírez.",
+                  "category": "park",
+                  "coords": [
+                        -71.630857,
+                        -33.038147
+                  ]
+            },
+            {
+                  "name": "Parque Italia",
+                  "text": "Acest parc al orașului oferă un spațiu verde relaxant împodobit cu statui clasice.",
+                  "category": "park",
+                  "coords": [
+                        -71.614193,
+                        -33.047824
+                  ]
+            },
+            {
+                  "name": "Capilla de la Providencia",
+                  "text": "Această biserică locală servește ca loc dedicat pentru închinare și reflecție creștină.",
+                  "category": "religious",
+                  "coords": [
+                        -71.60655,
+                        -33.05218
+                  ]
+            },
+            {
+                  "name": "Plaza O'Higgins",
+                  "text": "Situat lângă congresul național, acest parc urban este un centru local binecunoscut.",
+                  "category": "park",
+                  "coords": [
+                        -71.60744,
+                        -33.048073
+                  ]
+            },
+            {
+                  "name": "Teatro Mauri",
+                  "text": "Acest teatru găzduiește diverse spectacole culturale și evenimente artistice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.623203,
+                        -33.054079
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana de Valparaíso",
+                  "text": "Acest lăcaș de cult funcționează ca lăcaș spiritual pentru congregația luterană locală.",
+                  "category": "religious",
+                  "coords": [
+                        -71.626172,
+                        -33.042682
+                  ]
+            },
+            {
+                  "name": "San Luis de Gonzaga",
+                  "text": "Această clădire a bisericii oferă un spațiu dedicat pentru ceremonii religioase și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -71.630514,
+                        -33.043901
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Compañía de Jesús",
+                  "text": "Acest reper religios este un lăcaș de cult legat istoric de ordinul iezuit.",
+                  "category": "religious",
+                  "coords": [
+                        -71.602753,
+                        -33.046708
+                  ]
+            },
+            {
+                  "name": "Corte de Apelaciones de Valparaíso",
+                  "text": "Această clădire judiciară grandioasă găzduiește curtea de apel regională.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.63004,
+                        -33.039516
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Valparaíso",
+                  "text": "Acest teatru municipal servește drept loc major pentru spectacole artistice publice.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.608577,
+                        -33.047649
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Acantilados Federico Santa María",
+                  "text": "Înființată în 2006, această rezervație naturală protejează stâncile aspre de coastă ale zonei.",
+                  "category": "natural",
+                  "coords": [
+                        -71.659771,
+                        -33.064297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Marítimo Nacional",
+                  "text": "Housed in a prominent building on Cerro Artillería in Valparaíso, the National Maritime Museum showcases Chilean naval history.",
+                  "category": "museum",
+                  "coords": [
+                        -71.63138,
+                        -33.031711
+                  ]
+            },
+            {
+                  "name": "Museo Organológico",
+                  "text": "The Organological Museum in Valparaíso houses a unique and extensive collection of vintage musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        -71.622064,
+                        -33.051876
+                  ]
+            },
+            {
+                  "name": "Palacio Astoreca",
+                  "text": "The majestic Palacio Astoreca in Valparaíso showcases the grand architecture and wealth of the city's historic upper class.",
+                  "category": "castle",
+                  "coords": [
+                        -71.62895,
+                        -33.040753
+                  ]
+            },
+            {
+                  "name": "Juan Bautista Alberdi",
+                  "text": "The monument to Juan Bautista Alberdi in Valparaíso honors the prominent Argentine politician who lived in exile in this city.",
+                  "category": "historical",
+                  "coords": [
+                        -71.602019,
+                        -33.052288
+                  ]
+            },
+            {
+                  "name": "Torre Reloj Barón",
+                  "text": "The historic Torre Reloj Barón clock tower is a distinctive landmark towering over the busy railway station area in Valparaíso.",
+                  "category": "historical",
+                  "coords": [
+                        -71.604945,
+                        -33.041743
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco",
+                  "text": "With its tall spire, the Iglesia San Francisco in Valparaíso once served as a crucial visual landmark for arriving sailors.",
+                  "category": "religious",
+                  "coords": [
+                        -71.600734,
+                        -33.039438
+                  ]
+            },
+            {
+                  "name": "Mercado Cardonal",
+                  "text": "The Mercado Cardonal in Valparaíso is a bustling, two-story metallic market hall selling fresh regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.607537,
+                        -33.045234
+                  ]
+            },
+            {
+                  "name": "Catedral Anglicana de San Pablo",
+                  "text": "This Anglican place of worship serves as a cathedral for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -71.627297,
+                        -33.042377
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Sagrados Corazones",
+                  "text": "This historic church is dedicated to the Sacred Hearts.",
+                  "category": "religious",
+                  "coords": [
+                        -71.615544,
+                        -33.048498
+                  ]
+            },
+            {
+                  "name": "Iglesia del Corazón de María",
+                  "text": "This place of worship is a church dedicated to the Heart of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        -71.608349,
+                        -33.051701
+                  ]
+            },
+            {
+                  "name": "Capilla del Carmen",
+                  "text": "This religious site functions as a chapel dedicated to Our Lady of Mount Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        -71.611326,
+                        -33.051778
+                  ]
+            },
+            {
+                  "name": "Ascensor Polanco",
+                  "text": "This historic funicular elevator transports passengers up the steep hills of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.598921,
+                        -33.050558
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes de Iquique",
+                  "text": "This prominent monument commemorates the fallen heroes of the Battle of Iquique.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.628337,
+                        -33.038286
+                  ]
+            },
+            {
+                  "name": "Reloj Turri",
+                  "text": "This iconic clock tower stands as a well-known timekeeping landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.626346,
+                        -33.040591
+                  ]
+            },
+            {
+                  "name": "Faro Punta Ángeles",
+                  "text": "This prominent lighthouse serves to guide maritime traffic along the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.647393,
+                        -33.022999
+                  ]
+            },
+            {
+                  "name": "Faro Recinto Portuario Primera Zona Naval",
+                  "text": "This naval lighthouse is located within the first naval zone's port precinct.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.625861,
+                        -33.027229
+                  ]
+            },
+            {
+                  "name": "Faro Punta Condell",
+                  "text": "Positioned on the coast, this lighthouse ensures the safe navigation of ships.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.585733,
+                        -33.025696
+                  ]
+            },
+            {
+                  "name": "Muelle Barón",
+                  "text": "This historic pier extends into the sea and once served bustling maritime trade.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.6083,
+                        -33.040709
+                  ]
+            },
+            {
+                  "name": "Arco Británico",
+                  "text": "This commemorative archway was gifted by the local British community.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.620457,
+                        -33.044644
+                  ]
+            },
+            {
+                  "name": "Mercado Puerto",
+                  "text": "This bustling port market offers a variety of local goods and fresh produce.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.629988,
+                        -33.035822
+                  ]
+            },
+            {
+                  "name": "Parque Cultural de Valparaíso",
+                  "text": "Built on a former prison site, this cultural park now hosts art and community events.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.627794,
+                        -33.046483
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Palmar El Salto",
+                  "text": "Designated on August 21, 1998, this nature reserve protects a rare palm forest.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529014,
+                        -33.059235
+                  ]
+            },
+            {
+                  "name": "Plaza Carmela Carvajal de Prat",
+                  "text": "Officially opened on May 25, 2015, this park provides an urban recreational space.",
+                  "category": "park",
+                  "coords": [
+                        -71.598628,
+                        -33.035615
+                  ]
+            },
+            {
+                  "name": "Plaza Simón Bolívar",
+                  "text": "This public park features shaded areas and pathways dedicated to the South American liberator Simón Bolívar.",
+                  "category": "park",
+                  "coords": [
+                        -71.619541,
+                        -33.045503
+                  ]
+            },
+            {
+                  "name": "Plaza Eleuterio Ramírez",
+                  "text": "This urban park provides a green resting area honoring the national military figure Eleuterio Ramírez.",
+                  "category": "park",
+                  "coords": [
+                        -71.630857,
+                        -33.038147
+                  ]
+            },
+            {
+                  "name": "Parque Italia",
+                  "text": "This city park offers a relaxing green space adorned with classical statues.",
+                  "category": "park",
+                  "coords": [
+                        -71.614193,
+                        -33.047824
+                  ]
+            },
+            {
+                  "name": "Capilla de la Providencia",
+                  "text": "This local church serves as a dedicated place of Christian worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -71.60655,
+                        -33.05218
+                  ]
+            },
+            {
+                  "name": "Plaza O'Higgins",
+                  "text": "Situated near the national congress, this urban park is a well-known local hub.",
+                  "category": "park",
+                  "coords": [
+                        -71.60744,
+                        -33.048073
+                  ]
+            },
+            {
+                  "name": "Teatro Mauri",
+                  "text": "This theater venue hosts various cultural performances and local artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.623203,
+                        -33.054079
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana de Valparaíso",
+                  "text": "This place of worship functions as the spiritual home for the local Lutheran congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -71.626172,
+                        -33.042682
+                  ]
+            },
+            {
+                  "name": "San Luis de Gonzaga",
+                  "text": "This church building provides a dedicated space for religious ceremonies and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -71.630514,
+                        -33.043901
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Compañía de Jesús",
+                  "text": "This religious landmark is a place of worship historically tied to the Jesuit order.",
+                  "category": "religious",
+                  "coords": [
+                        -71.602753,
+                        -33.046708
+                  ]
+            },
+            {
+                  "name": "Corte de Apelaciones de Valparaíso",
+                  "text": "This grand judicial building houses the regional court of appeals.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.63004,
+                        -33.039516
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Valparaíso",
+                  "text": "This municipal theater serves as a major venue for public artistic performances.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.608577,
+                        -33.047649
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Acantilados Federico Santa María",
+                  "text": "Established in 2006, this nature reserve protects the rugged coastal cliffs of the area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.659771,
+                        -33.064297
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-VS",
     coords: [-71.6200, -33.0500],
@@ -377,7 +4841,52 @@ export const poiExtraChileLandmarksV2: POI[] = [
       fr: ["La ville est connue pour ses nombreux funiculaires.", "Elle est inscrite au patrimoine mondial de l'UNESCO."],
     }, image: "/poi-images/valparaiso-landmarks-v2.webp"},
     {
-    id: "laguna-san-rafael-landmarks-v2",
+    id: "laguna-san-rafael-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laguna San Rafael",
+                  "text": "Gletscherbucht, in der der San-Rafael-Gletscher direkt ins Meer kalbt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.934388,
+                        -46.669112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laguna San Rafael",
+                  "text": "Gleccseröböl, ahol a San Rafael-gleccser közvetlenül a tengerbe borjadzik.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.934388,
+                        -46.669112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laguna San Rafael",
+                  "text": "Golf glaciar unde ghețarul San Rafael se varsă direct în mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.934388,
+                        -46.669112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Rafael Lake",
+                  "text": "Glacial bay where the San Rafael Glacier calves directly into the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.934388,
+                        -46.669112
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-AI",
     coords: [-73.9100, -46.6600],
@@ -424,7 +4933,1024 @@ export const poiExtraChileLandmarksV2: POI[] = [
       fr: ["Le glacier remplit la lagune d'impressionnants icebergs.", "Il n'est accessible que par bateau ou par avion."],
     }, image: "/poi-images/laguna-san-rafael-landmarks-v2.webp"},
   {
-    id: "parque-bicentenario-landmarks-v2",
+    id: "parque-bicentenario-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de la Vivienda Tradicional Local",
+                  "text": "Dieses 2019 eröffnete Kulturmuseum in parque-bicentenario-landmarks-v2 rekonstruiert und zeigt traditionelle lokale Wohnstile und häusliche Architektur.",
+                  "category": "museum",
+                  "coords": [
+                        -70.605876,
+                        -33.373687
+                  ]
+            },
+            {
+                  "name": "Museo de la Moda",
+                  "text": "Dieses Modemuseum in einer modernistischen Residenz aus den 1960er Jahren in parque-bicentenario-landmarks-v2 zeigt eine umfangreiche Sammlung historischer Kleidungsstücke und Textilien.",
+                  "category": "museum",
+                  "coords": [
+                        -70.586471,
+                        -33.397641
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Las Condes",
+                  "text": "Dieses von dem Architekten Carlos Cruz Eyzaguirre entworfene interaktive Museum in parque-bicentenario-landmarks-v2 bietet dynamische technologische Exponate in einem markanten modernen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        -70.595407,
+                        -33.414227
+                  ]
+            },
+            {
+                  "name": "Ex Hostería La Pirámide",
+                  "text": "Diese Überreste in parque-bicentenario-landmarks-v2 markieren die Ruinen einer einst beliebten, am Hang gelegenen Herberge aus der Mitte des Jahrhunderts, die einen Panoramablick über die Stadt bot.",
+                  "category": "historical",
+                  "coords": [
+                        -70.601556,
+                        -33.387207
+                  ]
+            },
+            {
+                  "name": "Monumento al General René Schneider Chereau",
+                  "text": "Dieses markante, 1974 errichtete öffentliche Denkmal in parque-bicentenario-landmarks-v2 ehrt den ermordeten Oberbefehlshaber der chilenischen Armee, General René Schneider.",
+                  "category": "historical",
+                  "coords": [
+                        -70.585698,
+                        -33.404606
+                  ]
+            },
+            {
+                  "name": "Palacio Riesco",
+                  "text": "Dieses elegante historische Herrenhaus in parque-bicentenario-landmarks-v2 aus dem Jahr 1916 ist ein herausragendes Beispiel für die neoklassizistische Architektur der Stadt im frühen 20. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        -70.623825,
+                        -33.393846
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Las Condes",
+                  "text": "Dieses zeitgenössische Stadttheater in parque-bicentenario-landmarks-v2 ist ein hochmoderner Veranstaltungsort für darstellende Künste, der für seine hervorragende Akustik und seine unterirdische Architektur bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.595649,
+                        -33.416225
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de los Ángeles",
+                  "text": "Diese im Viertel El Golf gelegene traditionelle katholische Kirche in parque-bicentenario-landmarks-v2 zeichnet sich durch bedeutende sakrale Kunst und eine unverwechselbare deutsch geprägte Architektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        -70.591428,
+                        -33.413877
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Pablo Neruda",
+                  "text": "Dieses 2010 von den Architekten Humberto Eliash und Carlos Martner fertiggestellte Freilicht-Amphitheater in parque-bicentenario-landmarks-v2 liegt auf einer Hügelkuppe und bietet einen Panoramablick.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.60954,
+                        -33.404002
+                  ]
+            },
+            {
+                  "name": "Cerro El Carbón",
+                  "text": "Dieser markante Gipfel in parque-bicentenario-landmarks-v2 ist ein sehr beliebtes Wanderziel mit steilen Pfaden, die Kletterer mit einem weiten Blick über das Santiago-Tal belohnen.",
+                  "category": "natural",
+                  "coords": [
+                        -70.600597,
+                        -33.362713
+                  ]
+            },
+            {
+                  "name": "Cerro San Luis",
+                  "text": "Umgeben von moderner Stadtentwicklung bietet dieser inselartige städtische Hügel in parque-bicentenario-landmarks-v2 einen grünen Zufluchtsort mit Spazierwegen und Blick auf das Finanzviertel.",
+                  "category": "natural",
+                  "coords": [
+                        -70.598358,
+                        -33.410313
+                  ]
+            },
+            {
+                  "name": "Cerro Chacarillas",
+                  "text": "Dieser markante Hügel in parque-bicentenario-landmarks-v2 ist Teil des städtischen Parksystems, historisch bekannt für eine bedeutende Jugendkundgebung im Jahr 1977 und bietet weite Ausblicke auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.613474,
+                        -33.408836
+                  ]
+            },
+            {
+                  "name": "Parque Vespucio Oriente",
+                  "text": "Dieser ausgedehnte lineare Park in parque-bicentenario-landmarks-v2 erstreckt sich entlang einer Hauptverkehrsstraße und bietet einen landschaftlich reizvollen grünen Korridor mit Radwegen und Erholungszonen.",
+                  "category": "park",
+                  "coords": [
+                        -70.591425,
+                        -33.393523
+                  ]
+            },
+            {
+                  "name": "Bosque Santiago",
+                  "text": "Dieses im März 2004 eröffnete Umweltbildungszentrum und Naturschutzgebiet in parque-bicentenario-landmarks-v2 schützt die einheimische Flora und dient als ökologische Erweiterung des Parque Metropolitano.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603298,
+                        -33.372651
+                  ]
+            },
+            {
+                  "name": "Plaza Perú",
+                  "text": "Die Plaza Perú ist ein belebter städtischer Platz im Viertel El Golf, der von alten Bäumen und einem beliebten Antiquitätenmarkt am Wochenende umgeben ist.",
+                  "category": "park",
+                  "coords": [
+                        -70.598522,
+                        -33.414744
+                  ]
+            },
+            {
+                  "name": "Parque Bicentenario",
+                  "text": "Der 2007 eröffnete Parque Bicentenario besticht durch weitläufige künstliche Lagunen mit Flamingos und eine moderne Landschaftsgestaltung entlang des Flusses Mapocho.",
+                  "category": "park",
+                  "coords": [
+                        -70.601989,
+                        -33.399647
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Chagual",
+                  "text": "Der 2002 gegründete Jardín Botánico Chagual widmet sich der Erhaltung und Ausstellung der einheimischen mittelmeerklimatischen Flora Zentralchiles.",
+                  "category": "park",
+                  "coords": [
+                        -70.605944,
+                        -33.40713
+                  ]
+            },
+            {
+                  "name": "Museo Ralli",
+                  "text": "Das Museo Ralli stellt in einem geräumigen Gebäude eine umfangreiche Sammlung zeitgenössischer lateinamerikanischer Kunst und Werke europäischer Meister aus.",
+                  "category": "museum",
+                  "coords": [
+                        -70.591954,
+                        -33.396793
+                  ]
+            },
+            {
+                  "name": "CV Galería",
+                  "text": "Die CV Galería ist ein anspruchsvoller multidisziplinärer Raum, der zeitgenössische Kunstausstellungen mit gehobener Gastronomie und Design verbindet.",
+                  "category": "museum",
+                  "coords": [
+                        -70.58775,
+                        -33.40388
+                  ]
+            },
+            {
+                  "name": "Sala de Arte CCU",
+                  "text": "Die Sala de Arte CCU ist ein Unternehmensgalerieraum, der sich der Förderung chilenischer bildender Künstler durch wechselnde zeitgenössische Ausstellungen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -70.604998,
+                        -33.41566
+                  ]
+            },
+            {
+                  "name": "Galería Artespacio",
+                  "text": "Die Galería Artespacio ist ein renommierter Ausstellungsort für zeitgenössische Skulpturen und Malerei, der häufig Einzelausstellungen nationaler Künstler beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.596565,
+                        -33.401609
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Contemporáneo Espacio Andrea Brunson",
+                  "text": "Diese intime Galerie konzentriert sich auf aufstrebende Talente und experimentelle Kunstformate und bietet eine Plattform für frische chilenische Stimmen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.598977,
+                        -33.402243
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Patricia Ready",
+                  "text": "Diese Galerie, die in einem markanten, minimalistischen Gebäude untergebracht ist, ist ein wichtiger Treffpunkt für großformatige zeitgenössische Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.598299,
+                        -33.396473
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Jorge Carroza",
+                  "text": "Diese Kunstgalerie ist bekannt dafür, klassische Gemälde zu präsentieren und feine Kunstauktionen mit Werken traditioneller chilenischer Künstler durchzuführen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.597924,
+                        -33.401663
+                  ]
+            },
+            {
+                  "name": "Casa Museo Patricio Aylwin Azócar",
+                  "text": "Die ehemalige Residenz von Präsident Patricio Aylwin bewahrt seine persönliche Bibliothek und sein Büro und bietet Einblicke in Chiles demokratischen Übergang.",
+                  "category": "museum",
+                  "coords": [
+                        -70.588284,
+                        -33.436206
+                  ]
+            },
+            {
+                  "name": "Stgo.",
+                  "text": "Dieses großformatige typografische Denkmal bildet die Abkürzung der Hauptstadt und dient als beliebtes Fotomotiv für Besucher.",
+                  "category": "historical",
+                  "coords": [
+                        -70.610871,
+                        -33.395244
+                  ]
+            },
+            {
+                  "name": "Piedras tacitas del Portezuelo del Collo Inca",
+                  "text": "Diese archäologische Stätte weist alte schalenförmige Steine, sogenannte Piedras Tacitas, auf, die präkolumbianisch zum Mahlen von Samen verwendet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -70.602625,
+                        -33.390032
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Das Open-Air-Amphitheater bietet terrassenförmige, in die Parklandschaft integrierte Sitzplätze für Freiluftkonzerte und Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.629908,
+                        -33.384558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de la Vivienda Tradicional Local",
+                  "text": "A 2019-ben felavatott kulturális múzeum parque-bicentenario-landmarks-v2 területén hagyományos helyi lakásstílusokat és házi építészetet rekonstruál és mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.605876,
+                        -33.373687
+                  ]
+            },
+            {
+                  "name": "Museo de la Moda",
+                  "text": "A parque-bicentenario-landmarks-v2 területén, egy 1960-as évekbeli modernista rezidenciában helyet kapó divatmúzeum történelmi ruházatok és textíliák kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.586471,
+                        -33.397641
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Las Condes",
+                  "text": "A Carlos Cruz Eyzaguirre építész által tervezett interaktív múzeum parque-bicentenario-landmarks-v2 területén dinamikus technológiai kiállításokat mutat be egy feltűnő, modern épületben.",
+                  "category": "museum",
+                  "coords": [
+                        -70.595407,
+                        -33.414227
+                  ]
+            },
+            {
+                  "name": "Ex Hostería La Pirámide",
+                  "text": "Ezek a maradványok parque-bicentenario-landmarks-v2 területén egy egykor népszerű, domboldali fogadó romjait jelzik, amely panorámás kilátást nyújtott a városra a század közepén.",
+                  "category": "historical",
+                  "coords": [
+                        -70.601556,
+                        -33.387207
+                  ]
+            },
+            {
+                  "name": "Monumento al General René Schneider Chereau",
+                  "text": "Az 1974-ben emelt kiemelkedő köztéri emlékmű parque-bicentenario-landmarks-v2 területén a meggyilkolt chilei hadsereg-főparancsnok, René Schneider tábornok előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -70.585698,
+                        -33.404606
+                  ]
+            },
+            {
+                  "name": "Palacio Riesco",
+                  "text": "Ez az 1916-ból származó, elegáns műemlék kastély parque-bicentenario-landmarks-v2 területén a kora 20. századi neoklasszicista építészet kiemelkedő példája a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.623825,
+                        -33.393846
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Las Condes",
+                  "text": "Ez a kortárs városi színház parque-bicentenario-landmarks-v2 területén egy korszerű előadó-művészeti helyszín, amely kiváló akusztikájáról és föld alatti építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.595649,
+                        -33.416225
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de los Ángeles",
+                  "text": "Az El Golf negyedben található hagyományos katolikus templom parque-bicentenario-landmarks-v2 területén jelentős szakrális művészettel és jellegzetes német hatású építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -70.591428,
+                        -33.413877
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Pablo Neruda",
+                  "text": "A Humberto Eliash és Carlos Martner építészek által 2010-ben elkészült szabadtéri amfiteátrum parque-bicentenario-landmarks-v2 területén egy dombtetőn található, és panorámás kilátást nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.60954,
+                        -33.404002
+                  ]
+            },
+            {
+                  "name": "Cerro El Carbón",
+                  "text": "Ez a kiemelkedő hegycsúcs parque-bicentenario-landmarks-v2 területén rendkívül népszerű túracélpont, amelynek meredek ösvényei a Santiago-völgyre nyíló pazar kilátással jutalmazzák a mászókat.",
+                  "category": "natural",
+                  "coords": [
+                        -70.600597,
+                        -33.362713
+                  ]
+            },
+            {
+                  "name": "Cerro San Luis",
+                  "text": "A modern beépítéssel körülvett, szigetszerű városi domb parque-bicentenario-landmarks-v2 területén zöld menedéket kínál, sétaútjairól pedig kilátás nyílik a pénzügyi negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.598358,
+                        -33.410313
+                  ]
+            },
+            {
+                  "name": "Cerro Chacarillas",
+                  "text": "A fővárosi parkrendszeren belül található, kiemelkedő domb parque-bicentenario-landmarks-v2 területén történelmileg egy jelentős 1977-es ifjúsági nagygyűlésről ismert, és kiterjedt kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -70.613474,
+                        -33.408836
+                  ]
+            },
+            {
+                  "name": "Parque Vespucio Oriente",
+                  "text": "Ez a kiterjedt lineáris park parque-bicentenario-landmarks-v2 területén egy nagyobb autópálya mentén húzódik, parkosított zöld folyosót biztosítva kerékpárutakkal és pihenőövezetekkel.",
+                  "category": "park",
+                  "coords": [
+                        -70.591425,
+                        -33.393523
+                  ]
+            },
+            {
+                  "name": "Bosque Santiago",
+                  "text": "A 2004 márciusában megnyílt környezeti nevelési központ és természetvédelmi terület parque-bicentenario-landmarks-v2 területén az őshonos flórát védi, és a Fővárosi Park ökológiai kiterjesztéseként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603298,
+                        -33.372651
+                  ]
+            },
+            {
+                  "name": "Plaza Perú",
+                  "text": "A Plaza Perú egy élettel teli városi tér az El Golf negyedben, amelyet öreg fák és egy népszerű hétvégi régiségpiac övez.",
+                  "category": "park",
+                  "coords": [
+                        -70.598522,
+                        -33.414744
+                  ]
+            },
+            {
+                  "name": "Parque Bicentenario",
+                  "text": "A 2007-ben megnyílt Parque Bicentenario kiterjedt, flamingókkal teli mesterséges lagúnákkal és modern parkosítással büszkélkedhet a Mapocho folyó mentén.",
+                  "category": "park",
+                  "coords": [
+                        -70.601989,
+                        -33.399647
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Chagual",
+                  "text": "A 2002-ben alapított Jardín Botánico Chagual Közép-Chile őshonos mediterrán éghajlatú flórájának megőrzésére és bemutatására szolgál.",
+                  "category": "park",
+                  "coords": [
+                        -70.605944,
+                        -33.40713
+                  ]
+            },
+            {
+                  "name": "Museo Ralli",
+                  "text": "A Museo Ralli egy tágas épületben állítja ki a kortárs latin-amerikai művészet és az európai mesterek alkotásainak kiterjedt gyűjteményét.",
+                  "category": "museum",
+                  "coords": [
+                        -70.591954,
+                        -33.396793
+                  ]
+            },
+            {
+                  "name": "CV Galería",
+                  "text": "A CV Galería egy kifinomult multidiszciplináris tér, amely a kortárs művészeti kiállításokat a csúcsgasztronómiával és a dizájnnal ötvözi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.58775,
+                        -33.40388
+                  ]
+            },
+            {
+                  "name": "Sala de Arte CCU",
+                  "text": "A Sala de Arte CCU egy vállalati galériatér, amely a chilei vizuális művészeket támogatja folyamatosan cserélődő kortárs kiállításokon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        -70.604998,
+                        -33.41566
+                  ]
+            },
+            {
+                  "name": "Galería Artespacio",
+                  "text": "A Galería Artespacio a kortárs szobrászat és festészet kiemelkedő helyszíne, amely gyakran ad otthont hazai művészek egyéni kiállításainak.",
+                  "category": "museum",
+                  "coords": [
+                        -70.596565,
+                        -33.401609
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Contemporáneo Espacio Andrea Brunson",
+                  "text": "Ez a meghitt hangulatú galéria a feltörekvő tehetségekre és a kísérleti művészeti formátumokra összpontosít, platformot biztosítva az új chilei hangoknak.",
+                  "category": "museum",
+                  "coords": [
+                        -70.598977,
+                        -33.402243
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Patricia Ready",
+                  "text": "Ez a feltűnő, minimalista épületben helyet kapó galéria nagyszabású kortárs kiállítások fontos központja.",
+                  "category": "museum",
+                  "coords": [
+                        -70.598299,
+                        -33.396473
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Jorge Carroza",
+                  "text": "Ez a művészeti galéria a klasszikus festmények bemutatásáról és a hagyományos chilei művészek alkotásait felvonultató képzőművészeti aukcióiról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        -70.597924,
+                        -33.401663
+                  ]
+            },
+            {
+                  "name": "Casa Museo Patricio Aylwin Azócar",
+                  "text": "Patricio Aylwin elnök egykori rezidenciája megőrizte személyes könyvtárát és irodáját, bepillantást engedve Chile demokratikus átmenetébe.",
+                  "category": "museum",
+                  "coords": [
+                        -70.588284,
+                        -33.436206
+                  ]
+            },
+            {
+                  "name": "Stgo.",
+                  "text": "Ez a nagyméretű tipográfiai emlékmű a főváros rövidítését formázza, és a látogatók kedvelt fotóháttereként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -70.610871,
+                        -33.395244
+                  ]
+            },
+            {
+                  "name": "Piedras tacitas del Portezuelo del Collo Inca",
+                  "text": "Ez a régészeti lelőhely ősi, csésze alakú mélyedésekkel ellátott köveket (piedras tacitas) rejt, amelyeket a Kolumbusz előtti időkben magvak őrlésére használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -70.602625,
+                        -33.390032
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "A szabadtéri amfiteátrum a park tájába illeszkedő, teraszos ülőhelyeket kínál szabadtéri koncertek és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.629908,
+                        -33.384558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de la Vivienda Tradicional Local",
+                  "text": "Inaugurat în 2019, acest muzeu cultural din parque-bicentenario-landmarks-v2 reconstruiește și expune stilurile de locuințe tradiționale locale și arhitectura domestică.",
+                  "category": "museum",
+                  "coords": [
+                        -70.605876,
+                        -33.373687
+                  ]
+            },
+            {
+                  "name": "Museo de la Moda",
+                  "text": "Găzduit într-o reședință modernistă din anii 1960 din parque-bicentenario-landmarks-v2, acest muzeu al modei expune o colecție vastă de îmbrăcăminte istorică și textile.",
+                  "category": "museum",
+                  "coords": [
+                        -70.586471,
+                        -33.397641
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Las Condes",
+                  "text": "Proiectat de arhitectul Carlos Cruz Eyzaguirre, acest muzeu interactiv din parque-bicentenario-landmarks-v2 prezintă expoziții tehnologice dinamice într-o clădire modernă impresionantă.",
+                  "category": "museum",
+                  "coords": [
+                        -70.595407,
+                        -33.414227
+                  ]
+            },
+            {
+                  "name": "Ex Hostería La Pirámide",
+                  "text": "Aceste rămășițe din parque-bicentenario-landmarks-v2 marchează ruinele unui fost han popular, situat pe deal la mijlocul secolului, care oferea vederi panoramice asupra orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -70.601556,
+                        -33.387207
+                  ]
+            },
+            {
+                  "name": "Monumento al General René Schneider Chereau",
+                  "text": "Ridicat în 1974, acest monument public proeminent din parque-bicentenario-landmarks-v2 îl onorează pe comandantul șef asasinat al armatei chiliene, generalul René Schneider.",
+                  "category": "historical",
+                  "coords": [
+                        -70.585698,
+                        -33.404606
+                  ]
+            },
+            {
+                  "name": "Palacio Riesco",
+                  "text": "Datând din 1916, acest conac elegant de patrimoniu din parque-bicentenario-landmarks-v2 este un exemplu remarcabil de arhitectură neoclasică de la începutul secolului al XX-lea din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -70.623825,
+                        -33.393846
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Las Condes",
+                  "text": "Acest teatru municipal contemporan din parque-bicentenario-landmarks-v2 este o locație de ultimă generație pentru artele spectacolului, recunoscută pentru acustica excelentă și arhitectura sa subterană.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.595649,
+                        -33.416225
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de los Ángeles",
+                  "text": "Situată în cartierul El Golf, această biserică catolică tradițională din parque-bicentenario-landmarks-v2 prezintă artă sacră semnificativă și o arhitectură distinctivă cu influențe germane.",
+                  "category": "religious",
+                  "coords": [
+                        -70.591428,
+                        -33.413877
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Pablo Neruda",
+                  "text": "Finalizat în 2010 de arhitecții Humberto Eliash și Carlos Martner, acest amfiteatru în aer liber din parque-bicentenario-landmarks-v2 este așezat pe vârful unui deal, oferind vederi panoramice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.60954,
+                        -33.404002
+                  ]
+            },
+            {
+                  "name": "Cerro El Carbón",
+                  "text": "Acest vârf proeminent din parque-bicentenario-landmarks-v2 este o destinație de drumeție foarte populară, cu trasee abrupte care îi răsplătesc pe alpiniști cu vederi ample asupra văii Santiago.",
+                  "category": "natural",
+                  "coords": [
+                        -70.600597,
+                        -33.362713
+                  ]
+            },
+            {
+                  "name": "Cerro San Luis",
+                  "text": "Înconjurat de dezvoltări urbane moderne, acest deal urban asemănător unei insule din parque-bicentenario-landmarks-v2 oferă o evadare verde, cu alei de plimbare cu vedere la districtul financiar.",
+                  "category": "natural",
+                  "coords": [
+                        -70.598358,
+                        -33.410313
+                  ]
+            },
+            {
+                  "name": "Cerro Chacarillas",
+                  "text": "Situat în cadrul sistemului de parcuri metropolitane, acest deal proeminent din parque-bicentenario-landmarks-v2 este cunoscut istoric pentru un miting semnificativ al tineretului din 1977 și oferă perspective vaste asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -70.613474,
+                        -33.408836
+                  ]
+            },
+            {
+                  "name": "Parque Vespucio Oriente",
+                  "text": "Acest parc liniar extins din parque-bicentenario-landmarks-v2 se întinde de-a lungul unei autostrăzi importante, oferind un coridor verde amenajat, cu piste de biciclete și zone de recreere.",
+                  "category": "park",
+                  "coords": [
+                        -70.591425,
+                        -33.393523
+                  ]
+            },
+            {
+                  "name": "Bosque Santiago",
+                  "text": "Deschis în martie 2004, acest centru de educație a mediului și rezervație naturală din parque-bicentenario-landmarks-v2 protejează flora nativă și servește ca o extensie ecologică a Parcului Metropolitan.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603298,
+                        -33.372651
+                  ]
+            },
+            {
+                  "name": "Plaza Perú",
+                  "text": "Plaza Perú este o piață urbană vibrantă din cartierul El Golf, înconjurată de copaci maturi și de o piață populară de antichități în weekend.",
+                  "category": "park",
+                  "coords": [
+                        -70.598522,
+                        -33.414744
+                  ]
+            },
+            {
+                  "name": "Parque Bicentenario",
+                  "text": "Deschis în 2007, Parque Bicentenario se remarcă prin lagune artificiale întinse cu flamingo și amenajări peisagistice moderne de-a lungul râului Mapocho.",
+                  "category": "park",
+                  "coords": [
+                        -70.601989,
+                        -33.399647
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Chagual",
+                  "text": "Înființată în 2002, Grădina Botanică Chagual este dedicată conservării și expunerii florei native din climatul mediteranean al zonei centrale a statului Chile.",
+                  "category": "park",
+                  "coords": [
+                        -70.605944,
+                        -33.40713
+                  ]
+            },
+            {
+                  "name": "Museo Ralli",
+                  "text": "Museo Ralli expune o colecție extinsă de artă latino-americană contemporană și lucrări ale maeștrilor europeni într-o clădire spațioasă.",
+                  "category": "museum",
+                  "coords": [
+                        -70.591954,
+                        -33.396793
+                  ]
+            },
+            {
+                  "name": "CV Galería",
+                  "text": "CV Galería este un spațiu multidisciplinar sofisticat care combină expozițiile de artă contemporană cu gastronomia de înaltă clasă și designul.",
+                  "category": "museum",
+                  "coords": [
+                        -70.58775,
+                        -33.40388
+                  ]
+            },
+            {
+                  "name": "Sala de Arte CCU",
+                  "text": "Sala de Arte CCU este o galerie corporativă dedicată promovării artiștilor vizuali chilieni prin expoziții contemporane periodice.",
+                  "category": "museum",
+                  "coords": [
+                        -70.604998,
+                        -33.41566
+                  ]
+            },
+            {
+                  "name": "Galería Artespacio",
+                  "text": "Galería Artespacio este un spațiu proeminent pentru sculptură și pictură contemporană, găzduind frecvent expoziții personale ale artiștilor naționali.",
+                  "category": "museum",
+                  "coords": [
+                        -70.596565,
+                        -33.401609
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Contemporáneo Espacio Andrea Brunson",
+                  "text": "Această galerie intimă se concentrează pe talentele emergente și pe formatele de artă experimentală, oferind o platformă pentru voci chiliene noi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.598977,
+                        -33.402243
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Patricia Ready",
+                  "text": "Găzduită într-o clădire minimalistă impresionantă, această galerie este un centru major pentru expoziții contemporane la scară largă.",
+                  "category": "museum",
+                  "coords": [
+                        -70.598299,
+                        -33.396473
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Jorge Carroza",
+                  "text": "Această galerie de artă este recunoscută pentru prezentarea picturilor clasice și pentru găzduirea licitațiilor de artă cu lucrări ale artiștilor chilieni tradiționali.",
+                  "category": "museum",
+                  "coords": [
+                        -70.597924,
+                        -33.401663
+                  ]
+            },
+            {
+                  "name": "Casa Museo Patricio Aylwin Azócar",
+                  "text": "Fosta reședință a președintelui Patricio Aylwin îi păstrează biblioteca personală și biroul, oferind o perspectivă asupra tranziției democratice a statului Chile.",
+                  "category": "museum",
+                  "coords": [
+                        -70.588284,
+                        -33.436206
+                  ]
+            },
+            {
+                  "name": "Stgo.",
+                  "text": "Acest monument tipografic de mari dimensiuni formează abrevierea capitalei, servind drept fundal fotografic popular pentru vizitatori.",
+                  "category": "historical",
+                  "coords": [
+                        -70.610871,
+                        -33.395244
+                  ]
+            },
+            {
+                  "name": "Piedras tacitas del Portezuelo del Collo Inca",
+                  "text": "Acest sit arheologic prezintă pietre antice cu marcaje sub formă de cupă, cunoscute sub numele de piedras tacitas, folosite în perioada precolumbiană pentru măcinarea semințelor.",
+                  "category": "historical",
+                  "coords": [
+                        -70.602625,
+                        -33.390032
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Amfiteatrul în aer liber oferă locuri pe terase integrate în peisajul parcului pentru concerte în aer liber și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.629908,
+                        -33.384558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de la Vivienda Tradicional Local",
+                  "text": "Inaugurated in 2019, this cultural museum in parque-bicentenario-landmarks-v2 reconstructs and exhibits traditional local housing styles and domestic architecture.",
+                  "category": "museum",
+                  "coords": [
+                        -70.605876,
+                        -33.373687
+                  ]
+            },
+            {
+                  "name": "Museo de la Moda",
+                  "text": "Housed in a modernist 1960s residence in parque-bicentenario-landmarks-v2, this fashion museum displays an extensive collection of historical clothing and textiles.",
+                  "category": "museum",
+                  "coords": [
+                        -70.586471,
+                        -33.397641
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Las Condes",
+                  "text": "Designed by architect Carlos Cruz Eyzaguirre, this interactive museum in parque-bicentenario-landmarks-v2 features dynamic technological exhibits in a striking modern building.",
+                  "category": "museum",
+                  "coords": [
+                        -70.595407,
+                        -33.414227
+                  ]
+            },
+            {
+                  "name": "Ex Hostería La Pirámide",
+                  "text": "These remnants in parque-bicentenario-landmarks-v2 mark the ruins of a once-popular mid-century hillside hostelry that offered panoramic views over the city.",
+                  "category": "historical",
+                  "coords": [
+                        -70.601556,
+                        -33.387207
+                  ]
+            },
+            {
+                  "name": "Monumento al General René Schneider Chereau",
+                  "text": "Erected in 1974, this prominent public monument in parque-bicentenario-landmarks-v2 honors the assassinated Chilean army commander-in-chief, General René Schneider.",
+                  "category": "historical",
+                  "coords": [
+                        -70.585698,
+                        -33.404606
+                  ]
+            },
+            {
+                  "name": "Palacio Riesco",
+                  "text": "Dating back to 1916, this elegant heritage manor in parque-bicentenario-landmarks-v2 is an outstanding example of early 20th-century neoclassical architecture in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -70.623825,
+                        -33.393846
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Las Condes",
+                  "text": "This contemporary municipal theater in parque-bicentenario-landmarks-v2 is a state-of-the-art performing arts venue known for its excellent acoustics and underground architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.595649,
+                        -33.416225
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de los Ángeles",
+                  "text": "Located in the El Golf neighborhood, this traditional Catholic church in parque-bicentenario-landmarks-v2 features significant sacred art and distinctive German-influenced architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -70.591428,
+                        -33.413877
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Pablo Neruda",
+                  "text": "Completed in 2010 by architects Humberto Eliash and Carlos Martner, this open-air amphitheater in parque-bicentenario-landmarks-v2 sits on a hilltop offering panoramic views.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.60954,
+                        -33.404002
+                  ]
+            },
+            {
+                  "name": "Cerro El Carbón",
+                  "text": "This prominent peak in parque-bicentenario-landmarks-v2 is a highly popular hiking destination featuring steep trails that reward climbers with sweeping views of the Santiago valley.",
+                  "category": "natural",
+                  "coords": [
+                        -70.600597,
+                        -33.362713
+                  ]
+            },
+            {
+                  "name": "Cerro San Luis",
+                  "text": "Surrounded by modern urban development, this island-like urban hill in parque-bicentenario-landmarks-v2 offers a green escape with walking paths overlooking the financial district.",
+                  "category": "natural",
+                  "coords": [
+                        -70.598358,
+                        -33.410313
+                  ]
+            },
+            {
+                  "name": "Cerro Chacarillas",
+                  "text": "Located within the metropolitan park system, this prominent hill in parque-bicentenario-landmarks-v2 is historically known for a significant 1977 youth rally and offers expansive city vistas.",
+                  "category": "natural",
+                  "coords": [
+                        -70.613474,
+                        -33.408836
+                  ]
+            },
+            {
+                  "name": "Parque Vespucio Oriente",
+                  "text": "This extensive linear park in parque-bicentenario-landmarks-v2 stretches along a major highway, providing a landscaped green corridor with cycle paths and recreational zones.",
+                  "category": "park",
+                  "coords": [
+                        -70.591425,
+                        -33.393523
+                  ]
+            },
+            {
+                  "name": "Bosque Santiago",
+                  "text": "Opened in March 2004, this environmental education center and nature reserve in parque-bicentenario-landmarks-v2 protects native flora and serves as an ecological extension of the Metropolitan Park.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603298,
+                        -33.372651
+                  ]
+            },
+            {
+                  "name": "Plaza Perú",
+                  "text": "Plaza Perú is a vibrant urban square in the El Golf neighborhood, surrounded by mature trees and a popular weekend antique market.",
+                  "category": "park",
+                  "coords": [
+                        -70.598522,
+                        -33.414744
+                  ]
+            },
+            {
+                  "name": "Parque Bicentenario",
+                  "text": "Opened in 2007, the Parque Bicentenario features extensive artificial lagoons with flamingos and modern landscaping along the Mapocho River.",
+                  "category": "park",
+                  "coords": [
+                        -70.601989,
+                        -33.399647
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Chagual",
+                  "text": "Established in 2002, the Jardín Botánico Chagual is dedicated to the preservation and display of native Mediterranean-climate flora of Central Chile.",
+                  "category": "park",
+                  "coords": [
+                        -70.605944,
+                        -33.40713
+                  ]
+            },
+            {
+                  "name": "Museo Ralli",
+                  "text": "The Museo Ralli exhibits an extensive collection of contemporary Latin American art and pieces by European masters within a spacious building.",
+                  "category": "museum",
+                  "coords": [
+                        -70.591954,
+                        -33.396793
+                  ]
+            },
+            {
+                  "name": "CV Galería",
+                  "text": "CV Galería is a sophisticated multidisciplinary space combining contemporary art exhibitions with high-end gastronomy and design.",
+                  "category": "museum",
+                  "coords": [
+                        -70.58775,
+                        -33.40388
+                  ]
+            },
+            {
+                  "name": "Sala de Arte CCU",
+                  "text": "The Sala de Arte CCU is a corporate gallery space dedicated to promoting Chilean visual artists through rotating contemporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -70.604998,
+                        -33.41566
+                  ]
+            },
+            {
+                  "name": "Galería Artespacio",
+                  "text": "Galería Artespacio is a prominent venue for contemporary sculpture and painting, frequently hosting solo exhibitions by national artists.",
+                  "category": "museum",
+                  "coords": [
+                        -70.596565,
+                        -33.401609
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Contemporáneo Espacio Andrea Brunson",
+                  "text": "This intimate gallery focuses on emerging talents and experimental art formats, providing a platform for fresh Chilean voices.",
+                  "category": "museum",
+                  "coords": [
+                        -70.598977,
+                        -33.402243
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Patricia Ready",
+                  "text": "Housed in a striking minimalist building, this gallery is a major hub for large-scale contemporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -70.598299,
+                        -33.396473
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Jorge Carroza",
+                  "text": "This art gallery is recognized for showcasing classic paintings and conducting fine art auctions featuring works by traditional Chilean artists.",
+                  "category": "museum",
+                  "coords": [
+                        -70.597924,
+                        -33.401663
+                  ]
+            },
+            {
+                  "name": "Casa Museo Patricio Aylwin Azócar",
+                  "text": "The former residence of President Patricio Aylwin preserves his personal library and office, offering insights into Chile's democratic transition.",
+                  "category": "museum",
+                  "coords": [
+                        -70.588284,
+                        -33.436206
+                  ]
+            },
+            {
+                  "name": "Stgo.",
+                  "text": "This large-scale typographic monument forms the abbreviation of the capital, serving as a popular photographic backdrop for visitors.",
+                  "category": "historical",
+                  "coords": [
+                        -70.610871,
+                        -33.395244
+                  ]
+            },
+            {
+                  "name": "Piedras tacitas del Portezuelo del Collo Inca",
+                  "text": "This archaeological site features ancient cup-marked stones, known as piedras tacitas, which were used in pre-Columbian times for grinding seeds.",
+                  "category": "historical",
+                  "coords": [
+                        -70.602625,
+                        -33.390032
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "The open-air amphitheater provides terraced seating integrated into the park's landscape for outdoor concerts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.629908,
+                        -33.384558
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CL-RM",
     coords: [-70.6000, -33.4000],

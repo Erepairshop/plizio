@@ -239,7 +239,628 @@ export const poiExtraChileReliefV2: POI[] = [
       en: ["The tamarugo tree is a symbol of the region.", "The Pampa was an important hub for old caravans."]
     }, image: "/poi-images/pampa-del-tamargal-relief-v2.webp"},
   {
-    id: "archipelago-de-chiloé-relief-v2",
+    id: "archipelago-de-chiloé-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Columpio de Luzbel",
+                  "text": "Eine Schaukel-Attraktion mit einem einzigartigen Namen, die Besuchern verspielte Momente in der Landschaft von Chiloé bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.709574,
+                        -42.60327
+                  ]
+            },
+            {
+                  "name": "Chonchi",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die terrassenförmig angelegte Stadt Chonchi und ihre Küstenumgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -73.770892,
+                        -42.620341
+                  ]
+            },
+            {
+                  "name": "Museo del Acordeón",
+                  "text": "Ein Spezialmuseum, das dem Akkordeon und seiner Bedeutung in der traditionellen Musik von Chiloé gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -73.770802,
+                        -42.621714
+                  ]
+            },
+            {
+                  "name": "Museo de las Tradiciones Chonchinas",
+                  "text": "Ein lokales Museum, das das einzigartige kulturelle Erbe, das Handwerk und die Alltagstraditionen von Chonchi bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.771934,
+                        -42.62197
+                  ]
+            },
+            {
+                  "name": "Linlinao",
+                  "text": "Ein Küstenleuchtturm, der den Schiffsverkehr durch die geschützten Gewässer des Chiloé-Archipels leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.745794,
+                        -42.574616
+                  ]
+            },
+            {
+                  "name": "Fortin Tauco",
+                  "text": "Die Ruinen einer historischen Verteidigungsfestung in der Nähe von Chonchi, die einst die Küste des Archipels schützte.",
+                  "category": "historical",
+                  "coords": [
+                        -73.751136,
+                        -42.552015
+                  ]
+            },
+            {
+                  "name": "Mirador Linlinao",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick über das ruhige Wasser und die Küste bei Linlinao bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.803094,
+                        -42.527941
+                  ]
+            },
+            {
+                  "name": "Molino de Agua de Yutuy",
+                  "text": "Eine traditionelle, funktionierende Wassermühle in der ländlichen Umgebung von Yutuy.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.75444,
+                        -42.517227
+                  ]
+            },
+            {
+                  "name": "Iglesia Natividad de María de Ichuac",
+                  "text": "Eine traditionelle Holzkirche von Chiloé, die für ihre besondere Architektur und ihre Weihe an Mariä Geburt bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -73.719809,
+                        -42.61597
+                  ]
+            },
+            {
+                  "name": "Escenario Central",
+                  "text": "Eine zentrale Freilichtbühne, die als Veranstaltungsort für lokale Feste und kulturelle Aufführungen auf dem Archipel dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.796893,
+                        -42.637351
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "Eine denkmalgeschützte Holzkirche aus dem Jahr 1859, die für ihre großartige Architektur in Chonchi bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.773673,
+                        -42.624125
+                  ]
+            },
+            {
+                  "name": "Iglesia San Antonio",
+                  "text": "Eine denkmalgeschützte Holzkirche in Vilupulli, die die ikonische traditionelle Handwerkskunst von Chiloé zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.788001,
+                        -42.605312
+                  ]
+            },
+            {
+                  "name": "Playa Isletilla",
+                  "text": "Ein ruhiger Sandstrand, der einen friedlichen Rückzugsort an der Küste im Chiloé-Archipel bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.755347,
+                        -42.576659
+                  ]
+            },
+            {
+                  "name": "Capilla Curaco de Vilupulli",
+                  "text": "Eine kleine christliche Kapelle, die der ländlichen Dorfgemeinschaft von Curaco de Vilupulli dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.835217,
+                        -42.59974
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "Ein Königreichssaal, der der örtlichen Gemeinde der Zeugen Jehovas in der Region Chiloé dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.774337,
+                        -42.6254
+                  ]
+            },
+            {
+                  "name": "Capilla Los Petanes",
+                  "text": "Eine bescheidene ländliche Kapelle, die den katholischen Gläubigen in Los Petanes als Versammlungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.867795,
+                        -42.631961
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Chonchi",
+                  "text": "Ein lebhafter städtischer Markt in Chonchi, der frische lokale Meeresfrüchte, landwirtschaftliche Produkte und traditionelles Kunsthandwerk aus Chiloé anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.769479,
+                        -42.621591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Columpio de Luzbel",
+                  "text": "Egy egyedi nevű hinta attrakció, amely játékos pillanatokat kínál a látogatóknak a chiloéi tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.709574,
+                        -42.60327
+                  ]
+            },
+            {
+                  "name": "Chonchi",
+                  "text": "Kilátó, ahonnan lenyűgöző kilátás nyílik a teraszos Chonchi városára és a tengerparti környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -73.770892,
+                        -42.620341
+                  ]
+            },
+            {
+                  "name": "Museo del Acordeón",
+                  "text": "A harmonikának és a hagyományos chiloéi zenében betöltött szerepének szentelt különleges múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -73.770802,
+                        -42.621714
+                  ]
+            },
+            {
+                  "name": "Museo de las Tradiciones Chonchinas",
+                  "text": "Egy helyi múzeum, amely Chonchi egyedülálló kulturális örökségét, kézművességét és mindennapi hagyományait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -73.771934,
+                        -42.62197
+                  ]
+            },
+            {
+                  "name": "Linlinao",
+                  "text": "Tengerparti világítótorony, amely a tengeri forgalmat irányítja a Chiloé-szigetek védett vizein.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.745794,
+                        -42.574616
+                  ]
+            },
+            {
+                  "name": "Fortin Tauco",
+                  "text": "Egy történelmi védelmi erőd romjai Chonchi közelében, amely egykor a szigetcsoport partvidékét védte.",
+                  "category": "historical",
+                  "coords": [
+                        -73.751136,
+                        -42.552015
+                  ]
+            },
+            {
+                  "name": "Mirador Linlinao",
+                  "text": "Festői kilátó, ahonnan széles kilátás nyílik Linlinao nyugodt vizeire és tengerpartjára.",
+                  "category": "natural",
+                  "coords": [
+                        -73.803094,
+                        -42.527941
+                  ]
+            },
+            {
+                  "name": "Molino de Agua de Yutuy",
+                  "text": "Egy hagyományos, működő vízimalom Yutuy vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.75444,
+                        -42.517227
+                  ]
+            },
+            {
+                  "name": "Iglesia Natividad de María de Ichuac",
+                  "text": "Egy hagyományos chiloéi fatemplom, amely jellegzetes építészetéről és Mária születésének szenteléséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -73.719809,
+                        -42.61597
+                  ]
+            },
+            {
+                  "name": "Escenario Central",
+                  "text": "Központi szabadtéri színpad, amely helyi fesztiválok és kulturális előadások helyszínéül szolgál a szigetvilágban.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.796893,
+                        -42.637351
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "1859-ben épült, műemlékvédelem alatt álló fatemplom, amely Chonchi városában figyelemre méltó építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.773673,
+                        -42.624125
+                  ]
+            },
+            {
+                  "name": "Iglesia San Antonio",
+                  "text": "Műemlékvédelem alatt álló fatemplom Vilupulliban, amely a Chiloé-szigetek ikonikus, hagyományos kézművességét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.788001,
+                        -42.605312
+                  ]
+            },
+            {
+                  "name": "Playa Isletilla",
+                  "text": "Egy nyugodt homokos strand, amely békés tengerparti menedéket kínál a Chiloé-szigeteken.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.755347,
+                        -42.576659
+                  ]
+            },
+            {
+                  "name": "Capilla Curaco de Vilupulli",
+                  "text": "Egy kis keresztény kápolna, amely Curaco de Vilupulli vidéki faluközösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.835217,
+                        -42.59974
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "A Chiloé régióban a Jehova Tanúi helyi közösségét szolgáló Királyság-terem.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.774337,
+                        -42.6254
+                  ]
+            },
+            {
+                  "name": "Capilla Los Petanes",
+                  "text": "Egy szerény vidéki kápolna, amely a katolikus hívek gyülekezőhelye Los Petanesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.867795,
+                        -42.631961
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Chonchi",
+                  "text": "Nyüzsgő városi piac Chonchiban, ahol friss helyi tenger gyümölcseit, terményeket és hagyományos chiloéi kézműves termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.769479,
+                        -42.621591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Columpio de Luzbel",
+                  "text": "O atracție cu leagăn numită unic, care oferă vizitatorilor momente de joacă în peisajele din Chiloé.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.709574,
+                        -42.60327
+                  ]
+            },
+            {
+                  "name": "Chonchi",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra orașului terasat Chonchi și a împrejurimilor sale de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -73.770892,
+                        -42.620341
+                  ]
+            },
+            {
+                  "name": "Museo del Acordeón",
+                  "text": "Un muzeu specializat dedicat acordeonului și importanței sale în muzica tradițională din Chiloé.",
+                  "category": "museum",
+                  "coords": [
+                        -73.770802,
+                        -42.621714
+                  ]
+            },
+            {
+                  "name": "Museo de las Tradiciones Chonchinas",
+                  "text": "Un muzeu local care conservă moștenirea culturală unică, meșteșugurile și tradițiile din viața de zi cu zi a orașului Chonchi.",
+                  "category": "museum",
+                  "coords": [
+                        -73.771934,
+                        -42.62197
+                  ]
+            },
+            {
+                  "name": "Linlinao",
+                  "text": "Un far de coastă care ghidează traficul maritim prin apele protejate ale arhipelagului Chiloé.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.745794,
+                        -42.574616
+                  ]
+            },
+            {
+                  "name": "Fortin Tauco",
+                  "text": "Ruinele unui fort istoric defensiv situat lângă Chonchi, care proteja odată coasta arhipelagului.",
+                  "category": "historical",
+                  "coords": [
+                        -73.751136,
+                        -42.552015
+                  ]
+            },
+            {
+                  "name": "Mirador Linlinao",
+                  "text": "Un punct de observație pitoresc care oferă vederi largi asupra apelor liniștite și a coastei de lângă Linlinao.",
+                  "category": "natural",
+                  "coords": [
+                        -73.803094,
+                        -42.527941
+                  ]
+            },
+            {
+                  "name": "Molino de Agua de Yutuy",
+                  "text": "O moară de apă tradițională și funcțională, situată în cadrul rural din Yutuy.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.75444,
+                        -42.517227
+                  ]
+            },
+            {
+                  "name": "Iglesia Natividad de María de Ichuac",
+                  "text": "O biserică tradițională din lemn din Chiloé, cunoscută pentru arhitectura sa distinctă și pentru devotamentul ei față de Nașterea Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        -73.719809,
+                        -42.61597
+                  ]
+            },
+            {
+                  "name": "Escenario Central",
+                  "text": "O scenă centrală în aer liber, care servește drept loc de desfășurare pentru festivaluri locale și spectacole culturale din arhipelag.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.796893,
+                        -42.637351
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "O biserică din lemn, inclusă în patrimoniu, construită în 1859, remarcabilă pentru arhitectura sa grandioasă din Chonchi.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.773673,
+                        -42.624125
+                  ]
+            },
+            {
+                  "name": "Iglesia San Antonio",
+                  "text": "O biserică de lemn, inclusă în patrimoniu, situată în Vilupulli, care prezintă măiestria tradițională iconică a insulei Chiloé.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.788001,
+                        -42.605312
+                  ]
+            },
+            {
+                  "name": "Playa Isletilla",
+                  "text": "O plajă cu nisip liniștită, care oferă o retragere de coastă pașnică în arhipelagul Chiloé.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.755347,
+                        -42.576659
+                  ]
+            },
+            {
+                  "name": "Capilla Curaco de Vilupulli",
+                  "text": "O mică capelă creștină care deservește comunitatea satului rural Curaco de Vilupulli.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.835217,
+                        -42.59974
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "O Sală a Regatului care deservește comunitatea locală a Martorilor lui Iehova din regiunea Chiloé.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.774337,
+                        -42.6254
+                  ]
+            },
+            {
+                  "name": "Capilla Los Petanes",
+                  "text": "O capelă rurală modestă care oferă un loc de adunare pentru credincioșii catolici din Los Petanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.867795,
+                        -42.631961
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Chonchi",
+                  "text": "O piață municipală plină de viață în Chonchi, care oferă fructe de mare proaspete locale, produse agricole și meșteșuguri tradiționale din Chiloé.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.769479,
+                        -42.621591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Columpio de Luzbel",
+                  "text": "A uniquely named swing attraction offering visitors playful moments with scenic Chiloé landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.709574,
+                        -42.60327
+                  ]
+            },
+            {
+                  "name": "Chonchi",
+                  "text": "A viewpoint providing sweeping vistas over the terraced town of Chonchi and its coastal surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -73.770892,
+                        -42.620341
+                  ]
+            },
+            {
+                  "name": "Museo del Acordeón",
+                  "text": "A specialized museum dedicated to the accordion and its significance in traditional Chilote music.",
+                  "category": "museum",
+                  "coords": [
+                        -73.770802,
+                        -42.621714
+                  ]
+            },
+            {
+                  "name": "Museo de las Tradiciones Chonchinas",
+                  "text": "A local museum preserving the unique cultural heritage, crafts, and daily life traditions of Chonchi.",
+                  "category": "museum",
+                  "coords": [
+                        -73.771934,
+                        -42.62197
+                  ]
+            },
+            {
+                  "name": "Linlinao",
+                  "text": "A coastal lighthouse guiding maritime traffic through the sheltered waters of the Chiloé archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.745794,
+                        -42.574616
+                  ]
+            },
+            {
+                  "name": "Fort Tauco",
+                  "text": "A historic defensive fort ruins situated near Chonchi, once protecting the archipelago's coastline.",
+                  "category": "historical",
+                  "coords": [
+                        -73.751136,
+                        -42.552015
+                  ]
+            },
+            {
+                  "name": "Mirador Linlinao",
+                  "text": "A scenic lookout offering wide views over the serene waters and coastline near Linlinao.",
+                  "category": "natural",
+                  "coords": [
+                        -73.803094,
+                        -42.527941
+                  ]
+            },
+            {
+                  "name": "Molino de Agua de Yutuy",
+                  "text": "A traditional, functioning watermill located in the rural setting of Yutuy.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.75444,
+                        -42.517227
+                  ]
+            },
+            {
+                  "name": "Iglesia Natividad de María de Ichuac",
+                  "text": "A traditional wooden Chilote church known for its distinct architecture and Nativity of Mary dedication.",
+                  "category": "religious",
+                  "coords": [
+                        -73.719809,
+                        -42.61597
+                  ]
+            },
+            {
+                  "name": "Escenario Central",
+                  "text": "A central outdoor stage serving as a venue for local festivals and cultural performances in the archipelago.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.796893,
+                        -42.637351
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "A heritage-listed wooden church built in 1859, notable for its grand architecture in Chonchi.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.773673,
+                        -42.624125
+                  ]
+            },
+            {
+                  "name": "Iglesia San Antonio",
+                  "text": "A heritage-listed wooden church in Vilupulli, showcasing the iconic traditional craftsmanship of Chiloé.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.788001,
+                        -42.605312
+                  ]
+            },
+            {
+                  "name": "Playa Isletilla",
+                  "text": "A tranquil sandy beach offering a peaceful coastal retreat in the Chiloé archipelago.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.755347,
+                        -42.576659
+                  ]
+            },
+            {
+                  "name": "Capilla Curaco de Vilupulli",
+                  "text": "A small Christian chapel serving the rural village community of Curaco de Vilupulli.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.835217,
+                        -42.59974
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "A Kingdom Hall serving the local Jehovah's Witness community in the Chiloé region.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.774337,
+                        -42.6254
+                  ]
+            },
+            {
+                  "name": "Capilla Los Petanes",
+                  "text": "A modest rural chapel providing a gathering place for the Catholic faithful in Los Petanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.867795,
+                        -42.631961
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Chonchi",
+                  "text": "A bustling municipal market in Chonchi offering fresh local seafood, produce, and traditional Chilote crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.769479,
+                        -42.621591
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CL-LL",
     coords: [-73.8000, -42.6000],

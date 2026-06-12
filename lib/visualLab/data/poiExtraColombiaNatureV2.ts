@@ -3,7 +3,448 @@ import type { POI } from "./poi";
 
 export const poiExtraColombiaNatureV2: POI[] = [
   {
-    id: "amazon-river-colombia-nature-v2",
+    id: "amazon-river-colombia-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardín de la Victoria Regia",
+                  "text": "Diese Naturattraktion in der Nähe des Amazonas zeigt die riesigen Victoria Regia-Seerosen mit ihren massiven schwimmenden Blättern.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.973467,
+                        -4.184338
+                  ]
+            },
+            {
+                  "name": "Escuela de la playa santo domingo sabio",
+                  "text": "In der Nähe des Amazonas gelegen, fungiert dieser Ort als Bildungseinrichtung mit Schwerpunkt auf aquatischen Umgebungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.955014,
+                        -4.199581
+                  ]
+            },
+            {
+                  "name": "Comunidad la playa",
+                  "text": "Der Gemeinschaftsraum La Playa am Amazonas bietet einen Einblick in den Lebensstil am Fluss und die lokalen aquatischen Ökosysteme.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.952565,
+                        -4.202384
+                  ]
+            },
+            {
+                  "name": "Iglesia congregación presbiteriana vida nueva",
+                  "text": "Dieser Ort, der sowohl als presbyterianische Kirche als auch als Aussichtspunkt dient, bietet wunderschöne Panoramen der umliegenden Amazonaslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -69.950179,
+                        -4.207171
+                  ]
+            },
+            {
+                  "name": "La union",
+                  "text": "La Union dient als kleines Bildungszentrum entlang des Amazonas, in dem einheimische Fischarten vorgestellt werden.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.94108,
+                        -4.222106
+                  ]
+            },
+            {
+                  "name": "Tambores Amazonicos",
+                  "text": "Das Denkmal der amazonischen Trommeln ist ein kulturelles Wahrzeichen, das die traditionellen Rhythmen und das indigene Erbe des Amazonasbeckens feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -69.942428,
+                        -4.215624
+                  ]
+            },
+            {
+                  "name": "Victoria regia",
+                  "text": "Dieses spezialisierte Wasserzentrum ermöglicht es Besuchern, die berühmten riesigen Seerosen zu beobachten, die in den flachen Gewässern des Amazonasbeckens heimisch sind.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.945816,
+                        -4.210615
+                  ]
+            },
+            {
+                  "name": "Biblioteca y Museo Etnográfico Banco de la República",
+                  "text": "Dieses Museum in der Nähe des Amazonas bietet umfangreiche ethnografische Sammlungen, die die Kulturen der indigenen Gruppen der Region dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        -69.943648,
+                        -4.214236
+                  ]
+            },
+            {
+                  "name": "Media Torta",
+                  "text": "Als Freiluft-Amphitheater konzipiert, beherbergt Media Torta lokale kulturelle Darbietungen und Zusammenkünfte in der Nähe der Ufer des Amazonas.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.943449,
+                        -4.216386
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial",
+                  "text": "Diese christliche Gemeinde vertritt die weltweite Missionsbewegung in der tropischen Umgebung der Amazonasregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.956678,
+                        -4.225472
+                  ]
+            },
+            {
+                  "name": "Assembleia De Deus",
+                  "text": "Diese Kirche der Versammlung Gottes in der Region am Amazonas-Ufer dient der evangelisch-christlichen Gemeinde der Region.",
+                  "category": "religious",
+                  "coords": [
+                        -69.937923,
+                        -4.237362
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado Municipal",
+                  "text": "Auf dem belebten städtischen Markt in der Nähe des Amazonas gibt es Stände mit frischem lokalem Fisch, exotischen Früchten und regionalem Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.944686,
+                        -4.215667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardín de la Victoria Regia",
+                  "text": "Ez az Amazonas folyó közelében található természeti látványosság az óriási Victoria Regia tündérrózsákat mutatja be hatalmas úszó leveleikkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.973467,
+                        -4.184338
+                  ]
+            },
+            {
+                  "name": "Escuela de la playa santo domingo sabio",
+                  "text": "Az Amazonas folyó közelében található helyszín vízi környezetre összpontosító oktatási létesítményként működik.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.955014,
+                        -4.199581
+                  ]
+            },
+            {
+                  "name": "Comunidad la playa",
+                  "text": "Az Amazonas folyó mentén található La Playa közösségi tér bepillantást enged a folyóparti életmódba és a helyi vízi ökoszisztémákba.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.952565,
+                        -4.202384
+                  ]
+            },
+            {
+                  "name": "Iglesia congregación presbiteriana vida nueva",
+                  "text": "Ez a presbiteriánus templomként és kilátóként is szolgáló hely gyönyörű panorámát nyújt a környező amazóniai tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -69.950179,
+                        -4.207171
+                  ]
+            },
+            {
+                  "name": "La union",
+                  "text": "A La Union egy kis oktatási központként szolgál az Amazonas folyó mentén, amely a helyi halfajokat mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.94108,
+                        -4.222106
+                  ]
+            },
+            {
+                  "name": "Tambores Amazonicos",
+                  "text": "Az Amazóniai Dobok emlékműve a hagyományos ritmusokat és az Amazonas-medence őslakos örökségét ünneplő kulturális mérföldkő.",
+                  "category": "historical",
+                  "coords": [
+                        -69.942428,
+                        -4.215624
+                  ]
+            },
+            {
+                  "name": "Victoria regia",
+                  "text": "Ebben a speciális vízi központban a látogatók megfigyelhetik az Amazonas medence sekély vizeiben őshonos híres óriás tündérrózsákat.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.945816,
+                        -4.210615
+                  ]
+            },
+            {
+                  "name": "Biblioteca y Museo Etnográfico Banco de la República",
+                  "text": "Ez az Amazonas folyó közelében található múzeum kiterjedt néprajzi gyűjteményekkel rendelkezik, amelyek a régió őslakos csoportjainak kultúráját dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        -69.943648,
+                        -4.214236
+                  ]
+            },
+            {
+                  "name": "Media Torta",
+                  "text": "A szabadtéri amfiteátrumnak tervezett Media Torta helyi kulturális előadásoknak és összejöveteleinek ad otthont az Amazonas folyó partjának közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.943449,
+                        -4.216386
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial",
+                  "text": "Ez a keresztény gyülekezet a Világméretű Missziós Mozgalmat képviseli az Amazonas régió trópusi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.956678,
+                        -4.225472
+                  ]
+            },
+            {
+                  "name": "Assembleia De Deus",
+                  "text": "Az Amazonas partvidékén található Isten Gyülekezete templom a környék evangéliumi keresztény közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -69.937923,
+                        -4.237362
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado Municipal",
+                  "text": "Az Amazonas folyó közelében lévő nyüzsgő városi piacon friss helyi halat, egzotikus gyümölcsöket és regionális kézműves termékeket árusító standok találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.944686,
+                        -4.215667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardín de la Victoria Regia",
+                  "text": "Această atracție naturală din apropierea fluviului Amazon prezintă nuferii giganți Victoria Regia cu frunzele lor masive plutitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.973467,
+                        -4.184338
+                  ]
+            },
+            {
+                  "name": "Escuela de la playa santo domingo sabio",
+                  "text": "Situat în apropierea fluviului Amazon, acest site funcționează ca o unitate educațională axată pe mediile acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.955014,
+                        -4.199581
+                  ]
+            },
+            {
+                  "name": "Comunidad la playa",
+                  "text": "Spațiul comunitar La Playa de-a lungul fluviului Amazon oferă o privire asupra stilului de viață riveran și a ecosistemelor acvatice locale.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.952565,
+                        -4.202384
+                  ]
+            },
+            {
+                  "name": "Iglesia congregación presbiteriana vida nueva",
+                  "text": "Servind atât ca biserică prezbiteriană, cât și ca punct de belvedere, acest site oferă panorame frumoase ale peisajului amazonian înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -69.950179,
+                        -4.207171
+                  ]
+            },
+            {
+                  "name": "La union",
+                  "text": "La Union servește ca un mic centru educațional de-a lungul fluviului Amazon, evidențiind speciile locale de pești.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.94108,
+                        -4.222106
+                  ]
+            },
+            {
+                  "name": "Tambores Amazonicos",
+                  "text": "Monumentul Tobelor Amazoniene este un punct de reper cultural care celebrează ritmurile tradiționale și moștenirea indigenă a bazinului Amazonului.",
+                  "category": "historical",
+                  "coords": [
+                        -69.942428,
+                        -4.215624
+                  ]
+            },
+            {
+                  "name": "Victoria regia",
+                  "text": "Acest centru acvatic specializat permite vizitatorilor să observe celebrii nuferi giganți nativi din apele de mică adâncime ale bazinului Amazonului.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.945816,
+                        -4.210615
+                  ]
+            },
+            {
+                  "name": "Biblioteca y Museo Etnográfico Banco de la República",
+                  "text": "Acest muzeu din apropierea fluviului Amazon prezintă colecții etnografice ample care documentează culturile grupurilor indigene din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -69.943648,
+                        -4.214236
+                  ]
+            },
+            {
+                  "name": "Media Torta",
+                  "text": "Conceput ca un amfiteatru în aer liber, Media Torta găzduiește spectacole culturale locale și adunări în apropierea malurilor fluviului Amazon.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.943449,
+                        -4.216386
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial",
+                  "text": "Această congregație creștină reprezintă Mișcarea Misionară Mondială în împrejurimile tropicale ale regiunii Amazonului.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.956678,
+                        -4.225472
+                  ]
+            },
+            {
+                  "name": "Assembleia De Deus",
+                  "text": "Situată în regiunea malurilor Amazonului, această biserică Adunarea lui Dumnezeu servește comunității creștine evanghelice din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        -69.937923,
+                        -4.237362
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado Municipal",
+                  "text": "Piața municipală plină de viață din apropierea fluviului Amazon oferă tarabe pline cu pește proaspăt local, fructe exotice și meșteșuguri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.944686,
+                        -4.215667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardín de la Victoria Regia",
+                  "text": "This nature attraction near the Amazon River showcases the giant Victoria Regia water lilies with their massive floating leaves.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.973467,
+                        -4.184338
+                  ]
+            },
+            {
+                  "name": "Escuela de la playa santo domingo sabio",
+                  "text": "Situated near the Amazon River, this site functions as an educational facility focused on aquatic environments.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.955014,
+                        -4.199581
+                  ]
+            },
+            {
+                  "name": "Comunidad la playa",
+                  "text": "The La Playa community space along the Amazon River provides a glimpse into the riverine lifestyle and local aquatic ecosystems.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.952565,
+                        -4.202384
+                  ]
+            },
+            {
+                  "name": "Iglesia congregación presbiteriana vida nueva",
+                  "text": "Serving both as a Presbyterian church and a scenic viewpoint, this site offers beautiful panoramas of the surrounding Amazonian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -69.950179,
+                        -4.207171
+                  ]
+            },
+            {
+                  "name": "La union",
+                  "text": "La Union serves as a small educational center along the Amazon River highlighting local fish species.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.94108,
+                        -4.222106
+                  ]
+            },
+            {
+                  "name": "Tambores Amazonicos",
+                  "text": "The Amazonian Drums monument is a cultural landmark celebrating the traditional rhythms and indigenous heritage of the Amazon basin.",
+                  "category": "historical",
+                  "coords": [
+                        -69.942428,
+                        -4.215624
+                  ]
+            },
+            {
+                  "name": "Victoria regia",
+                  "text": "This specialized aquatic center allows visitors to observe the famous giant water lilies native to the shallow waters of the Amazon basin.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.945816,
+                        -4.210615
+                  ]
+            },
+            {
+                  "name": "Library and Ethnographic Musem Banco de la República",
+                  "text": "This museum near the Amazon River features extensive ethnographic collections documenting the cultures of the region's indigenous groups.",
+                  "category": "museum",
+                  "coords": [
+                        -69.943648,
+                        -4.214236
+                  ]
+            },
+            {
+                  "name": "Media Torta",
+                  "text": "Designed as an open-air amphitheater, Media Torta hosts local cultural performances and gatherings near the banks of the Amazon River.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.943449,
+                        -4.216386
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial",
+                  "text": "This Christian congregation represents the Worldwide Missionary Movement in the tropical surroundings of the Amazon region.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.956678,
+                        -4.225472
+                  ]
+            },
+            {
+                  "name": "Assembleia De Deus",
+                  "text": "Located in the Amazon riverbank region, this Assembly of God church serves the area's evangelical Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        -69.937923,
+                        -4.237362
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado Municipal",
+                  "text": "The bustling Municipal Market near the Amazon River features stalls packed with fresh local fish, exotic fruits, and regional crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.944686,
+                        -4.215667
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CO-AMA",
     coords: [-69.9431, -4.2158],
@@ -77,7 +518,52 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "magdalena-river-nature-v2",
+    id: "magdalena-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bocas de Ceniza",
+                  "text": "Der Aussichtspunkt an der Mündung des Río Magdalena in das Karibische Meer.",
+                  "category": "natural",
+                  "coords": [
+                        -74.854733,
+                        11.10649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bocas de Ceniza",
+                  "text": "Kilátópont, ahol a Magdalena-folyó a Karib-tengerbe torkollik.",
+                  "category": "natural",
+                  "coords": [
+                        -74.854733,
+                        11.10649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bocas de Ceniza",
+                  "text": "Punctul de belvedere unde fluviul Magdalena se varsă în Marea Caraibilor.",
+                  "category": "natural",
+                  "coords": [
+                        -74.854733,
+                        11.10649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bocas de Ceniza",
+                  "text": "The viewpoint at the mouth of the Magdalena River where it meets the Caribbean Sea.",
+                  "category": "natural",
+                  "coords": [
+                        -74.854733,
+                        11.10649
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CO-MAG",
     coords: [-74.8333, 11.1],
@@ -115,7 +601,52 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "cauca-river-nature-v2",
+    id: "cauca-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Isla Grande",
+                  "text": "Ein malerischer Flussstrand am Río Cauca, beliebt zum Schwimmen und Genießen der tropischen Flusslandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.762396,
+                        8.907704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Isla Grande",
+                  "text": "Egy festői folyóparti strand a Cauca-folyón, amely népszerű fürdőhely és a trópusi táj élvezetére alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.762396,
+                        8.907704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Isla Grande",
+                  "text": "O plajă pitorească pe malul râului Cauca, populară pentru înot și pentru a savura peisajul tropical.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.762396,
+                        8.907704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isla Grande",
+                  "text": "A scenic river beach on the Cauca River, popular for swimming and enjoying the tropical riverside landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.762396,
+                        8.907704
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CO-VAC",
     coords: [-74.6756, 8.8833],
@@ -153,7 +684,52 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "atrato-river-nature-v2",
+    id: "atrato-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Bocas del Leoncito",
+                  "text": "Ein Leuchtturm, der die Mündung des Flusses Leoncito in das Atrato-Delta markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.837167,
+                        8.016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Bocas del Leoncito",
+                  "text": "Világítótorony, amely a Leoncito folyó torkolatát jelzi az Atrato-delta vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.837167,
+                        8.016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Bocas del Leoncito",
+                  "text": "Un far care marchează gura de vărsare a râului Leoncito în delta fluviului Atrato.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.837167,
+                        8.016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro Bocas del Leoncito",
+                  "text": "A lighthouse marking the mouth of the Leoncito River as it joins the Atrato delta.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.837167,
+                        8.016
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CO-CHO",
     coords: [-76.8167, 8.0167],
@@ -229,7 +805,52 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "meta-river-nature-v2",
+    id: "meta-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Natural Doñana",
+                  "text": "Dieses Naturschutzgebiet in der Nähe des Meta-Flusses schützt lebenswichtige Feuchtgebiet-Ökosysteme und die vielfältige heimische Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.753874,
+                        6.162387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Natural Doñana",
+                  "text": "Ez a Meta-folyó közelében található természetvédelmi terület létfontosságú vizes élőhelyeket és változatos helyi vadvilágot véd.",
+                  "category": "natural",
+                  "coords": [
+                        -67.753874,
+                        6.162387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Natural Doñana",
+                  "text": "Această rezervație naturală de lângă râul Meta protejează ecosisteme vitale de zone umede și o faună locală diversă.",
+                  "category": "natural",
+                  "coords": [
+                        -67.753874,
+                        6.162387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Natural Doñana",
+                  "text": "This natural reserve near the Meta River protects vital wetland ecosystems and diverse local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -67.753874,
+                        6.162387
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CO-MET",
     coords: [-67.7917, 6.1953],
@@ -305,7 +926,52 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "caqueta-river-nature-v2",
+    id: "caqueta-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Isla Izaciga",
+                  "text": "Isla Izaciga bietet sandige Flussuferabschnitte entlang des Caquetá-Flusses, die während der Trockenzeit bei Einheimischen zur Entspannung beliebt sind.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.688313,
+                        -1.289485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Isla Izaciga",
+                  "text": "Az Isla Izaciga homokos folyóparti szakaszokkal rendelkezik a Caquetá folyó mentén, amelyek a száraz évszakban népszerűek a helyiek körében a kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.688313,
+                        -1.289485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Isla Izaciga",
+                  "text": "Isla Izaciga prezintă întinderi de maluri nisipoase de-a lungul râului Caquetá, populare pentru relaxare locală în timpul sezonului uscat.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.688313,
+                        -1.289485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isla Izaciga",
+                  "text": "Isla Izaciga features sandy riverbank stretches along the Caquetá River, popular for local relaxation during the dry season.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.688313,
+                        -1.289485
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CO-CAQ",
     coords: [-69.6542, -1.2333],
@@ -343,7 +1009,88 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "pico-cristobal-colon-nature-v2",
+    id: "pico-cristobal-colon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Simón Bolívar",
+                  "text": "Einer der höchsten Gipfel Kolumbiens, dessen schneebedeckte Spitze majestätisch über der Sierra Nevada de Santa Marta thront.",
+                  "category": "natural",
+                  "coords": [
+                        -73.69052,
+                        10.834875
+                  ]
+            },
+            {
+                  "name": "Pico Cristóbal Colón",
+                  "text": "Der höchste Berg Kolumbiens und Teil des weltweit höchsten Küstengebirges direkt am Karibischen Meer.",
+                  "category": "natural",
+                  "coords": [
+                        -73.686581,
+                        10.838947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Simón Bolívar",
+                  "text": "Kolumbia egyik legmagasabb csúcsa, melynek hófödte süvege fenségesen magasodik a Sierra Nevada de Santa Marta fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -73.69052,
+                        10.834875
+                  ]
+            },
+            {
+                  "name": "Pico Cristóbal Colón",
+                  "text": "Kolumbia legmagasabb hegye, a világ legmagasabb tengerparti hegyláncának része a Karib-tenger mellett.",
+                  "category": "natural",
+                  "coords": [
+                        -73.686581,
+                        10.838947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Simón Bolívar",
+                  "text": "Unul dintre cele mai înalte vârfuri din Columbia, a cărui creastă înzăpezită se înalță maiestuos deasupra Sierra Nevada de Santa Marta.",
+                  "category": "natural",
+                  "coords": [
+                        -73.69052,
+                        10.834875
+                  ]
+            },
+            {
+                  "name": "Pico Cristóbal Colón",
+                  "text": "Cel mai înalt munte din Columbia, parte a celui mai înalt lanț muntos de coastă din lume, situat lângă Marea Caraibilor.",
+                  "category": "natural",
+                  "coords": [
+                        -73.686581,
+                        10.838947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Simón Bolívar",
+                  "text": "One of the highest peaks in Colombia, with its snow-capped summit rising majestically above the Sierra Nevada de Santa Marta.",
+                  "category": "natural",
+                  "coords": [
+                        -73.69052,
+                        10.834875
+                  ]
+            },
+            {
+                  "name": "Pico Cristóbal Colón",
+                  "text": "The highest mountain in Colombia and part of the world's tallest coastal range near the Caribbean Sea.",
+                  "category": "natural",
+                  "coords": [
+                        -73.686581,
+                        10.838947
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-MAG",
     coords: [-73.6872, 10.8383],
@@ -381,7 +1128,52 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "pico-simon-bolivar-nature-v2",
+    id: "pico-simon-bolivar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico La Reina",
+                  "text": "Ein prominenter Gipfel im zentralen Massiv der Sierra Nevada, der Bergsteigern einen spektakulären Ausblick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.615692,
+                        10.814355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico La Reina",
+                  "text": "A Sierra Nevada központi masszívumának egyik kiemelkedő csúcsa, amely látványos kilátást nyújt a hegymászóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -73.615692,
+                        10.814355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico La Reina",
+                  "text": "Un vârf proeminent în masivul central din Sierra Nevada, oferind vederi spectaculoase pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        -73.615692,
+                        10.814355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico La Reina",
+                  "text": "A prominent peak in the central massif of the Sierra Nevada, offering spectacular views for mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        -73.615692,
+                        10.814355
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-MAG",
     coords: [-73.6847, 10.8353],
@@ -419,7 +1211,196 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "nevado-del-ruiz-nature-v2",
+    id: "nevado-del-ruiz-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador del Ruiz",
+                  "text": "Ein hoch gelegener Aussichtspunkt, der weite Panoramablicke über die Vulkanlandschaften des Nevado del Ruiz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.333126,
+                        4.890534
+                  ]
+            },
+            {
+                  "name": "Mirador 4157m",
+                  "text": "Ein hochalpiner Beobachtungspunkt auf genau 4.157 Metern Höhe, der weite Ausblicke auf die Andengipfel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.349928,
+                        4.933763
+                  ]
+            },
+            {
+                  "name": "Cerro Gualí",
+                  "text": "Ein Berggipfel im Nationalpark Los Nevados, der durch sein hochalpines Paramo-Ökosystem gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -75.351019,
+                        4.952144
+                  ]
+            },
+            {
+                  "name": "Control Parque Nacional Los Nevados",
+                  "text": "Die offizielle Kontrollstation am Eingang, die den Besucherzugang zum Nationalpark Los Nevados regelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.390486,
+                        4.858688
+                  ]
+            },
+            {
+                  "name": "Termales La Cabaña",
+                  "text": "Eine Thermalquellenanlage in den Bergen, die warme geothermische Becken inmitten des kühlen Klimas der Region Nevado del Ruiz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.263263,
+                        4.876785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador del Ruiz",
+                  "text": "Magasan fekvő kilátópont, amely tágas panorámát nyújt a Nevado del Ruiz vulkanikus tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -75.333126,
+                        4.890534
+                  ]
+            },
+            {
+                  "name": "Mirador 4157m",
+                  "text": "Egy pontosan 4157 méter magasan fekvő kilátó, ahonnan pazar kilátás nyílik az Andok csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        -75.349928,
+                        4.933763
+                  ]
+            },
+            {
+                  "name": "Cerro Gualí",
+                  "text": "A Los Nevados Nemzeti Park egyik hegycsúcsa, amelyet a nagy tengerszint feletti magasságban lévő paramo ökoszisztéma jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -75.351019,
+                        4.952144
+                  ]
+            },
+            {
+                  "name": "Control Parque Nacional Los Nevados",
+                  "text": "A hivatalos belépési és ellenőrző pont, amely a Los Nevados Nemzeti Park látogatói forgalmát irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.390486,
+                        4.858688
+                  ]
+            },
+            {
+                  "name": "Termales La Cabaña",
+                  "text": "Hegyi melegvizes forráskomplexum, amely meleg geotermikus medencéket kínál a Nevado del Ruiz régió hűvös éghajlatán.",
+                  "category": "natural",
+                  "coords": [
+                        -75.263263,
+                        4.876785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador del Ruiz",
+                  "text": "Un punct de belvedere la altitudine, care oferă panorame vaste asupra peisajelor vulcanice ale Nevado del Ruiz.",
+                  "category": "natural",
+                  "coords": [
+                        -75.333126,
+                        4.890534
+                  ]
+            },
+            {
+                  "name": "Mirador 4157m",
+                  "text": "Un punct de observație la mare altitudine situat la exact 4.157 metri, oferind vederi panoramice ale vârfurilor andine.",
+                  "category": "natural",
+                  "coords": [
+                        -75.349928,
+                        4.933763
+                  ]
+            },
+            {
+                  "name": "Cerro Gualí",
+                  "text": "Un vârf muntos din Parcul Național Natural Los Nevados, caracterizat prin ecosistemul său de paramo de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -75.351019,
+                        4.952144
+                  ]
+            },
+            {
+                  "name": "Control Parque Nacional Los Nevados",
+                  "text": "Punctul oficial de intrare și control care gestionează accesul vizitatorilor în Parcul Național Los Nevados.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.390486,
+                        4.858688
+                  ]
+            },
+            {
+                  "name": "Termales La Cabaña",
+                  "text": "Un complex montan de izvoare termale care oferă piscine geotermale calde, înconjurate de clima răcoroasă a regiunii Nevado del Ruiz.",
+                  "category": "natural",
+                  "coords": [
+                        -75.263263,
+                        4.876785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador del Ruiz",
+                  "text": "An elevated viewpoint providing expansive panoramas over the volcanic landscapes of Nevado del Ruiz.",
+                  "category": "natural",
+                  "coords": [
+                        -75.333126,
+                        4.890534
+                  ]
+            },
+            {
+                  "name": "Mirador 4157m",
+                  "text": "A high-altitude observation point sitting at exactly 4,157 metres, offering sweeping views of the Andean peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -75.349928,
+                        4.933763
+                  ]
+            },
+            {
+                  "name": "Cerro Gualí",
+                  "text": "A mountainous peak within the Los Nevados National Natural Park, characterized by its high-altitude paramo ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -75.351019,
+                        4.952144
+                  ]
+            },
+            {
+                  "name": "Control Parque Nacional Los Nevados",
+                  "text": "The official entry and checkpoint facility managing visitor access to the Los Nevados National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.390486,
+                        4.858688
+                  ]
+            },
+            {
+                  "name": "Termales La Cabaña",
+                  "text": "A mountain hot spring complex offering warm geothermal pools surrounded by the cool climate of the Nevado del Ruiz region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.263263,
+                        4.876785
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-TOL",
     coords: [-75.3228, 4.8953],
@@ -457,7 +1438,88 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "nevado-del-huila-nature-v2",
+    id: "nevado-del-huila-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional Natural Nevado del Huila",
+                  "text": "Dieser Nationalpark beherbergt den höchsten Vulkan Kolumbiens, den schneebedeckten Nevado del Huila.",
+                  "category": "natural",
+                  "coords": [
+                        -75.975994,
+                        2.971258
+                  ]
+            },
+            {
+                  "name": "Termales Kilometro 42",
+                  "text": "Diese natürlichen Thermalquellen am Kilometer 42 bieten entspannendes, mineralreiches Wasser in den Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        -76.079892,
+                        2.923866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional Natural Nevado del Huila",
+                  "text": "Ez a nemzeti park ad otthont Kolumbia legmagasabb vulkánjának, a hóval borított Nevado del Huilának.",
+                  "category": "natural",
+                  "coords": [
+                        -75.975994,
+                        2.971258
+                  ]
+            },
+            {
+                  "name": "Termales Kilometro 42",
+                  "text": "Ezek a 42-es kilométernél található természetes termálforrások pihentető, ásványi anyagokban gazdag vizet kínálnak a hegyekben.",
+                  "category": "natural",
+                  "coords": [
+                        -76.079892,
+                        2.923866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional Natural Nevado del Huila",
+                  "text": "Acest parc național găzduiește cel mai înalt vulcan din Columbia, muntele înzăpezit Nevado del Huila.",
+                  "category": "natural",
+                  "coords": [
+                        -75.975994,
+                        2.971258
+                  ]
+            },
+            {
+                  "name": "Termales Kilometro 42",
+                  "text": "Aceste izvoare termale naturale de la kilometrul 42 oferă ape relaxante și bogate în minerale în zona montană.",
+                  "category": "natural",
+                  "coords": [
+                        -76.079892,
+                        2.923866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Nacional Natural Nevado del Huila",
+                  "text": "This national park is home to Colombia's highest volcano, the glacier-covered Nevado del Huila.",
+                  "category": "natural",
+                  "coords": [
+                        -75.975994,
+                        2.971258
+                  ]
+            },
+            {
+                  "name": "Termales Kilometro 42",
+                  "text": "These natural thermal springs at kilometer 42 offer relaxing, mineral-rich waters in the mountain setting.",
+                  "category": "natural",
+                  "coords": [
+                        -76.079892,
+                        2.923866
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-HUI",
     coords: [-75.9933, 2.9242],
@@ -495,7 +1557,304 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "nevado-del-tolima-nature-v2",
+    id: "nevado-del-tolima-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cañón del Rio Combeima",
+                  "text": "Dieser hoch gelegene Aussichtspunkt offenbart die dramatischen, tiefen Flussschluchten des Combeima-Canyons vor der Kulisse des Vulkans Nevado del Tolima.",
+                  "category": "natural",
+                  "coords": [
+                        -75.331606,
+                        4.577464
+                  ]
+            },
+            {
+                  "name": "Aguas termales",
+                  "text": "Das El Rancho liegt in den kühlen Bergen der Anden und verfügt über natürlich beheizte Thermalbecken, die durch die nahegelegene vulkanische Aktivität des Nevado del Tolima angereichert werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.337509,
+                        4.616006
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Diese rustikale Aussichtsplattform an den Hängen zum Nevado del Tolima bietet Wanderern einen weiten, unverbauten Blick auf die raue Canyon-Wildnis.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.328695,
+                        4.620842
+                  ]
+            },
+            {
+                  "name": "Derrumbe escalada",
+                  "text": "Ein anspruchsvolles Klettergebiet in den rauen andinen Landschaften in der Nähe des Nevado del Tolima.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.328479,
+                        4.622648
+                  ]
+            },
+            {
+                  "name": "Termalitas",
+                  "text": "Ein rustikaler Naturbadeplatz, der von geothermischen Quellen in der Umgebung des Nevado del Tolima gespeist wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.313778,
+                        4.589171
+                  ]
+            },
+            {
+                  "name": "Piscina Natural Termales de Cañón",
+                  "text": "Ein natürliches Thermalbad in einer Schlucht nahe dem Nevado del Tolima, das Entspannung in heißen Quellen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.310472,
+                        4.683044
+                  ]
+            },
+            {
+                  "name": "Mirador Termales de Cañón",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die Thermalbäder und die steilen Schluchtenlandschaften der Region Nevado del Tolima.",
+                  "category": "natural",
+                  "coords": [
+                        -75.312529,
+                        4.683528
+                  ]
+            },
+            {
+                  "name": "Nevado del Tolima",
+                  "text": "Ein markanter Stratovulkan in den Anden, der an seinem steilen, gletscherbedeckten Gipfel erkennbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        -75.329627,
+                        4.658806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cañón del Rio Combeima",
+                  "text": "Ez a magasan fekvő kilátó a Combeima-kanyon drámai, mély folyóvölgyeit tárja elénk a Nevado del Tolima vulkán hátterével.",
+                  "category": "natural",
+                  "coords": [
+                        -75.331606,
+                        4.577464
+                  ]
+            },
+            {
+                  "name": "Aguas termales",
+                  "text": "A fagyos andoki hegyekben található El Rancho természetesen fűtött termálmedencékkel rendelkezik, amelyeket a Nevado del Tolima közeli vulkáni tevékenysége gazdagít.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.337509,
+                        4.616006
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a rusztikus kilátóplatform a Nevado del Tolima felé vezető lejtőkön hatalmas, akadálytalan kilátást nyújt a túrázóknak a zord kanyon vadonjára.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.328695,
+                        4.620842
+                  ]
+            },
+            {
+                  "name": "Derrumbe escalada",
+                  "text": "Kihívást jelentő sziklamászó hely a Nevado del Tolima környéki zord andoki tájakon.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.328479,
+                        4.622648
+                  ]
+            },
+            {
+                  "name": "Termalitas",
+                  "text": "A Nevado del Tolima környékén található, geotermikus vizekkel táplált rusztikus természetes fürdőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.313778,
+                        4.589171
+                  ]
+            },
+            {
+                  "name": "Piscina Natural Termales de Cañón",
+                  "text": "A Nevado del Tolima közelében, egy kanyonban megbúvó természetes termálmedence, amely melegvizes kikapcsolódást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.310472,
+                        4.683044
+                  ]
+            },
+            {
+                  "name": "Mirador Termales de Cañón",
+                  "text": "Festői kilátópont, ahonnan a Nevado del Tolima régió termálfürdőire és meredek kanyonjaira nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -75.312529,
+                        4.683528
+                  ]
+            },
+            {
+                  "name": "Nevado del Tolima",
+                  "text": "Egy kiemelkedő rétegvulkán az Andokban, amely meredek, gleccserrel borított csúcsáról ismerhető fel.",
+                  "category": "natural",
+                  "coords": [
+                        -75.329627,
+                        4.658806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cañón del Rio Combeima",
+                  "text": "Acest punct de belvedere de mare altitudine dezvăluie cheile dramatice și adânci ale râului Canionului Combeima, având ca fundal vulcanul Nevado del Tolima.",
+                  "category": "natural",
+                  "coords": [
+                        -75.331606,
+                        4.577464
+                  ]
+            },
+            {
+                  "name": "Aguas termales",
+                  "text": "Situat în munții reci ai Anzilor, El Rancho oferă piscine termale încălzite natural, îmbogățite de activitatea vulcanică din apropiere a lui Nevado del Tolima.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.337509,
+                        4.616006
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Această platformă de observație rustică pe versanții dinspre Nevado del Tolima oferă drumeților o vedere vastă și neobstrucționată asupra sălbăticiei accidentate a canionului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.328695,
+                        4.620842
+                  ]
+            },
+            {
+                  "name": "Derrumbe escalada",
+                  "text": "Un loc de escaladă provocator, situat în peisajele andine accidentate de lângă vulcanul Nevado del Tolima.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.328479,
+                        4.622648
+                  ]
+            },
+            {
+                  "name": "Termalitas",
+                  "text": "O zonă rustică de scăldat naturală, alimentată de ape geotermale în împrejurimile vulcanului Nevado del Tolima.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.313778,
+                        4.589171
+                  ]
+            },
+            {
+                  "name": "Piscina Natural Termales de Cañón",
+                  "text": "O piscină termală naturală cuibărită într-un canion lângă Nevado del Tolima, oferind relaxare în izvoare termale.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.310472,
+                        4.683044
+                  ]
+            },
+            {
+                  "name": "Mirador Termales de Cañón",
+                  "text": "Un punct de belvedere pitoresc cu vedere la băile termale și peisajele abrupte ale canionului din regiunea Nevado del Tolima.",
+                  "category": "natural",
+                  "coords": [
+                        -75.312529,
+                        4.683528
+                  ]
+            },
+            {
+                  "name": "Nevado del Tolima",
+                  "text": "Un stratovulcan proeminent din Anzi, recunoscut după vârful său abrupt, acoperit de ghețari.",
+                  "category": "natural",
+                  "coords": [
+                        -75.329627,
+                        4.658806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cañón del Rio Combeima",
+                  "text": "This high-altitude viewpoint reveals the dramatic, deep river gorges of the Combeima Canyon against the backdrop of the Nevado del Tolima volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -75.331606,
+                        4.577464
+                  ]
+            },
+            {
+                  "name": "El Rancho Hot Spring Bath Pools",
+                  "text": "Set in the chilly Andean mountains, El Rancho features naturally heated thermal pools enriched by the nearby volcanic activity of Nevado del Tolima.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.337509,
+                        4.616006
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This rustic observation platform on the slopes toward Nevado del Tolima affords hikers a vast, unobstructed view of the rugged canyon wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.328695,
+                        4.620842
+                  ]
+            },
+            {
+                  "name": "Derrumbe escalada",
+                  "text": "A challenging rock climbing spot situated in the rugged Andean landscapes near Nevado del Tolima.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.328479,
+                        4.622648
+                  ]
+            },
+            {
+                  "name": "Termalitas",
+                  "text": "A rustic natural bathing area fed by geothermal waters in the Nevado del Tolima surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.313778,
+                        4.589171
+                  ]
+            },
+            {
+                  "name": "Piscina Natural Termales de Cañón",
+                  "text": "A natural thermal swimming pool nestled in a canyon near Nevado del Tolima, offering hot spring relaxation.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.310472,
+                        4.683044
+                  ]
+            },
+            {
+                  "name": "Mirador Termales de Cañón",
+                  "text": "A scenic viewpoint overlooking the thermal baths and the steep canyon landscapes of the Nevado del Tolima region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.312529,
+                        4.683528
+                  ]
+            },
+            {
+                  "name": "Nevado del Tolima",
+                  "text": "A prominent stratovolcano in the Andes, recognizable by its steep, glacier-capped peak.",
+                  "category": "natural",
+                  "coords": [
+                        -75.329627,
+                        4.658806
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-TOL",
     coords: [-75.3283, 4.6583],
@@ -533,7 +1892,124 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "ritacuba-blanco-nature-v2",
+    id: "ritacuba-blanco-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "La nariz de la bruja",
+                  "text": "The witch's noes ist eine markante natürliche Attraktion in der rauen Landschaft rund um den Ritacuba Blanco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.344283,
+                        6.491992
+                  ]
+            },
+            {
+                  "name": "Ritacuba Blanco",
+                  "text": "Der Ritacuba Blanco ist mit über 5300 Metern der höchste vergletscherte Gipfel der kolumbianischen Cordillera Oriental in den Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -72.296448,
+                        6.494559
+                  ]
+            },
+            {
+                  "name": "4856 m",
+                  "text": "Dieser Aussichtspunkt in der Nähe des Ritacuba Blanco bietet auf 4856 Metern Höhe einen atemberaubenden Blick über die hochandine Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -72.264884,
+                        6.450917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La nariz de la bruja",
+                  "text": "A The witch's noes egy jellegzetes természeti látványosság a Ritacuba Blanco körüli zord tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.344283,
+                        6.491992
+                  ]
+            },
+            {
+                  "name": "Ritacuba Blanco",
+                  "text": "A Ritacuba Blanco több mint 5300 méteres magasságával a kolumbiai Keleti-Kordillerák legmagasabb eljegesedett csúcsa az Andokban.",
+                  "category": "natural",
+                  "coords": [
+                        -72.296448,
+                        6.494559
+                  ]
+            },
+            {
+                  "name": "4856 m",
+                  "text": "Ez a Ritacuba Blanco közelében található kilátó 4856 méteres magasságban lenyűgöző kilátást nyújt a magas andoki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.264884,
+                        6.450917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La nariz de la bruja",
+                  "text": "The witch's noes este o atracție naturală distinctivă în peisajul accidentat din jurul Ritacuba Blanco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.344283,
+                        6.491992
+                  ]
+            },
+            {
+                  "name": "Ritacuba Blanco",
+                  "text": "Ritacuba Blanco, cu o înălțime de peste 5300 de metri, este cel mai înalt vârf glaciar din Cordiliera Orientală columbiană a Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -72.296448,
+                        6.494559
+                  ]
+            },
+            {
+                  "name": "4856 m",
+                  "text": "Acest punct de belvedere de lângă Ritacuba Blanco oferă, la o altitudine de 4856 metri, vederi uimitoare asupra peisajului andin înalt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.264884,
+                        6.450917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The witch's noes",
+                  "text": "The witch's noes is a distinctive natural attraction situated in the rugged landscape around Ritacuba Blanco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.344283,
+                        6.491992
+                  ]
+            },
+            {
+                  "name": "Ritacuba Blanco",
+                  "text": "Ritacuba Blanco, rising over 5,300 metres, is the highest glaciated peak of the Colombian Cordillera Oriental in the Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -72.296448,
+                        6.494559
+                  ]
+            },
+            {
+                  "name": "4856 m",
+                  "text": "This viewpoint near Ritacuba Blanco offers sweeping views of the high Andean landscape from an elevation of 4856 metres.",
+                  "category": "natural",
+                  "coords": [
+                        -72.264884,
+                        6.450917
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-BOY",
     coords: [-72.2967, 6.495],
@@ -571,7 +2047,232 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "purace-volcano-nature-v2",
+    id: "purace-volcano-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Condor Aussichtspunkt",
+                  "text": "Ein Aussichtspunkt im Puracé-Nationalpark, der ideale Bedingungen bietet, um die majestätischen Andenkondore an den Felswänden zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -76.394387,
+                        2.374995
+                  ]
+            },
+            {
+                  "name": "Mirador laguna andulbio",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die tiefblaue Lagune Andulbio, die in einem Krater der vulkanischen Hochlandsteppe liegt.",
+                  "category": "natural",
+                  "coords": [
+                        -76.350522,
+                        2.360033
+                  ]
+            },
+            {
+                  "name": "Thermales de san juan",
+                  "text": "Diese farbenprächtigen Thermalquellen im Puracé-Nationalpark beeindrucken durch dampfende, mineralhaltige Becken in Türkis- und Gelbtönen.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.313319,
+                        2.340389
+                  ]
+            },
+            {
+                  "name": "Laguna 1",
+                  "text": "Ein erhöhter Aussichtspunkt im Nationalpark, der einen klaren Blick auf die erste der unberührten Hochlandlagunen der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -76.405206,
+                        2.343227
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Natural De Purace",
+                  "text": "Dieses Schutzgebiet umfasst den aktiven Vulkan Puracé und weite Paramo-Ökosysteme, die wichtige Wasserreservoirs für die Region darstellen.",
+                  "category": "natural",
+                  "coords": [
+                        -76.399531,
+                        2.250767
+                  ]
+            },
+            {
+                  "name": "Mina de azufre pool",
+                  "text": "Diese ungewöhnliche Thermalquelle liegt in einer ehemaligen Schwefelmine und zeichnet sich durch ihr milchig-weißes, mineralreiches Wasser aus.",
+                  "category": "natural",
+                  "coords": [
+                        -76.410425,
+                        2.354564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de Condores",
+                  "text": "Kilátópont a Puracé Nemzeti Parkban, amely ideális feltételeket kínál a fenséges andoki kondorkeselyűk megfigyeléséhez a sziklafalaknál.",
+                  "category": "natural",
+                  "coords": [
+                        -76.394387,
+                        2.374995
+                  ]
+            },
+            {
+                  "name": "Mirador laguna andulbio",
+                  "text": "Erről a kilátópontról széles kilátás nyílik a mélykék Andulbio-lagúnára, amely a vulkáni felföldi sztyeppe egyik kráterében fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        -76.350522,
+                        2.360033
+                  ]
+            },
+            {
+                  "name": "Thermales de san juan",
+                  "text": "Ezek a színpompás termálforrások a Puracé Nemzeti Parkban gőzölgő, türkiz és sárga árnyalatú ásványi medencéikkel nyűgöznek le.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.313319,
+                        2.340389
+                  ]
+            },
+            {
+                  "name": "Laguna 1",
+                  "text": "Magaslati kilátópont a nemzeti parkban, amely tiszta kilátást nyújt a régió érintetlen felföldi lagúnái közül az elsőre.",
+                  "category": "natural",
+                  "coords": [
+                        -76.405206,
+                        2.343227
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Natural De Purace",
+                  "text": "Ez a védett terület magában foglalja az aktív Puracé-vulkánt és kiterjedt páramo-ökoszisztémákat, amelyek a régió fontos víztartalékai.",
+                  "category": "natural",
+                  "coords": [
+                        -76.399531,
+                        2.250767
+                  ]
+            },
+            {
+                  "name": "Mina de azufre pool",
+                  "text": "Ez a szokatlan termálforrás egy egykori kénbányában található, és tejszerűen fehér, ásványi anyagokban gazdag vize jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        -76.410425,
+                        2.354564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de Condores",
+                  "text": "Un punct de observație în Parcul Național Puracé, care oferă condiții ideale pentru a observa maiestuoșii condori andini pe pereții stâncoși.",
+                  "category": "natural",
+                  "coords": [
+                        -76.394387,
+                        2.374995
+                  ]
+            },
+            {
+                  "name": "Mirador laguna andulbio",
+                  "text": "Acest punct de observație oferă o vedere panoramică asupra lagunei albastru închis Andulbio, situată într-un crater din stepa vulcanică montană.",
+                  "category": "natural",
+                  "coords": [
+                        -76.350522,
+                        2.360033
+                  ]
+            },
+            {
+                  "name": "Thermales de san juan",
+                  "text": "Aceste izvoare termale multicolore din Parcul Național Puracé impresionează prin bazinele minerale aburinde în nuanțe de turcoaz și galben.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.313319,
+                        2.340389
+                  ]
+            },
+            {
+                  "name": "Laguna 1",
+                  "text": "Un punct de observație la înălțime în parcul național, care oferă o vedere clară asupra primei dintre lagunele montane virgine ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -76.405206,
+                        2.343227
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Natural De Purace",
+                  "text": "Această arie protejată cuprinde vulcanul activ Puracé și ecosisteme vaste de paramo, care reprezintă rezervoare importante de apă pentru regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -76.399531,
+                        2.250767
+                  ]
+            },
+            {
+                  "name": "Mina de azufre pool",
+                  "text": "Acest izvor termal neobișnuit este situat într-o fostă mină de sulf și se caracterisiertă prin apa sa alb-lăptoasă, bogată în minerale.",
+                  "category": "natural",
+                  "coords": [
+                        -76.410425,
+                        2.354564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Condor Viewpoint",
+                  "text": "A viewpoint in Puracé National Park providing ideal conditions for spotting majestic Andean condors on the nearby cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        -76.394387,
+                        2.374995
+                  ]
+            },
+            {
+                  "name": "Mirador laguna andulbio",
+                  "text": "This viewpoint offers a sweeping vista over the deep blue Andulbio lagoon, nestled within a crater in the volcanic highland steppe.",
+                  "category": "natural",
+                  "coords": [
+                        -76.350522,
+                        2.360033
+                  ]
+            },
+            {
+                  "name": "Thermales de san juan",
+                  "text": "These colorful thermal springs in Puracé National Park feature steaming mineral pools in vibrant shades of turquoise and yellow.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.313319,
+                        2.340389
+                  ]
+            },
+            {
+                  "name": "Laguna 1",
+                  "text": "An elevated viewpoint within the national park offering a clear view of the first in a series of pristine high-altitude lagoons.",
+                  "category": "natural",
+                  "coords": [
+                        -76.405206,
+                        2.343227
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Natural De Purace",
+                  "text": "This protected area encompasses the active Puracé volcano and vast paramo ecosystems that serve as vital water sources for the region.",
+                  "category": "natural",
+                  "coords": [
+                        -76.399531,
+                        2.250767
+                  ]
+            },
+            {
+                  "name": "Mina de azufre pool",
+                  "text": "This unusual thermal pool is located in a former sulfur mine and is characterized by its milky-white, mineral-rich waters.",
+                  "category": "natural",
+                  "coords": [
+                        -76.410425,
+                        2.354564
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-CAU",
     coords: [-76.3958, 2.3125],
@@ -609,7 +2310,340 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "galeras-volcano-nature-v2",
+    id: "galeras-volcano-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piedra pintada",
+                  "text": "Ein archäologisches Denkmal in der Nähe des Vulkans Galeras, das antike Petroglyphen auf einem großen Felsblock zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -77.330363,
+                        1.169092
+                  ]
+            },
+            {
+                  "name": "Santuario De Flora Y Fauna",
+                  "text": "Dieses Schutzgebiet umfasst die Hänge des aktiven Vulkans Galeras und bewahrt die einzigartige Flora und Fauna der Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -77.420695,
+                        1.187469
+                  ]
+            },
+            {
+                  "name": "maragato",
+                  "text": "Ein Aussichtspunkt an den Hängen des Galeras, der einen weiten Blick über die vulkanische Landschaft und die Stadt Pasto bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.343576,
+                        1.289111
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apostol",
+                  "text": "Diese Pfarrkirche dient der Gemeinde in der Nähe des aktiven Vulkans Galeras.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.335179,
+                        1.268852
+                  ]
+            },
+            {
+                  "name": "Ave Maria",
+                  "text": "Eine kleine Andachtsstätte, die Maria gewidmet ist, inmitten der vulkanischen Landschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -77.338377,
+                        1.267204
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen De Lourdes",
+                  "text": "Eine religiöse Grotte, die als christliche Gebetsstätte in den Fels gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.325353,
+                        1.17131
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco de Asís",
+                  "text": "Eine dem Heiligen Franziskus gewidmete Kirche mit der für die Region Nariño typischen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.357703,
+                        1.288806
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cayetano",
+                  "text": "Diese katholische Kirche liegt in den Ausläufern des Gebirges nahe dem Galeras-Vulkan.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.32021,
+                        1.219904
+                  ]
+            },
+            {
+                  "name": "Surtimax",
+                  "text": "Ein lokaler Marktplatz, auf dem frische Erzeugnisse aus der vulkanischen Umgebung verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.357941,
+                        1.289953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piedra pintada",
+                  "text": "Régészeti emlék a Galeras-vulkán közelében, amely ősi sziklarajzokat mutat be egy hatalmas kőtömbön.",
+                  "category": "historical",
+                  "coords": [
+                        -77.330363,
+                        1.169092
+                  ]
+            },
+            {
+                  "name": "Santuario De Flora Y Fauna",
+                  "text": "Ez a védett terület az aktív Galeras-vulkán lejtőit foglalja magában, megőrizve az Andok egyedülálló növény- és állatvilágát.",
+                  "category": "natural",
+                  "coords": [
+                        -77.420695,
+                        1.187469
+                  ]
+            },
+            {
+                  "name": "maragato",
+                  "text": "Kilátópont a Galeras lejtőin, ahonnan pazar kilátás nyílik a vulkanikus tájra és Pasto városára.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.343576,
+                        1.289111
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apostol",
+                  "text": "Ez a plébániatemplom a Galeras-vulkán közelében élő közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.335179,
+                        1.268852
+                  ]
+            },
+            {
+                  "name": "Ave Maria",
+                  "text": "Egy kis Mária-kegyhely a vulkanikus táj közepén.",
+                  "category": "religious",
+                  "coords": [
+                        -77.338377,
+                        1.267204
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen De Lourdes",
+                  "text": "A sziklába vájt vallási barlang, amely keresztény imádkozóhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.325353,
+                        1.17131
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco de Asís",
+                  "text": "Assisi Szent Ferencnek szentelt templom, amely a Nariño régióra jellemző építészeti stílust mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.357703,
+                        1.288806
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cayetano",
+                  "text": "Ez a katolikus templom a Galeras-vulkán melletti hegyvidéken található.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.32021,
+                        1.219904
+                  ]
+            },
+            {
+                  "name": "Surtimax",
+                  "text": "Helyi piactér, ahol a vulkanikus környékről származó friss termékeket árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.357941,
+                        1.289953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piedra pintada",
+                  "text": "Un monument arheologic lângă vulcanul Galeras, care prezintă petroglife antice pe un bloc masiv de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -77.330363,
+                        1.169092
+                  ]
+            },
+            {
+                  "name": "Santuario De Flora Y Fauna",
+                  "text": "Această arie protejată cuprinde versanții vulcanului activ Galeras și conservă flora și fauna unică a Munților Anzi.",
+                  "category": "natural",
+                  "coords": [
+                        -77.420695,
+                        1.187469
+                  ]
+            },
+            {
+                  "name": "maragato",
+                  "text": "Un punct de observare pe versanții vulcanului Galeras, oferind o vedere panoramică asupra peisajului vulcanic și a orașului Pasto.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.343576,
+                        1.289111
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apostol",
+                  "text": "Această biserică parohială deservește comunitatea din apropierea vulcanului activ Galeras.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.335179,
+                        1.268852
+                  ]
+            },
+            {
+                  "name": "Ave Maria",
+                  "text": "Un mic lăcaș de cult dedicat Mariei, situat în peisajul vulcanic.",
+                  "category": "religious",
+                  "coords": [
+                        -77.338377,
+                        1.267204
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen De Lourdes",
+                  "text": "O grotă religioasă săpată în stâncă, folosită ca loc de rugăciune creștinească.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.325353,
+                        1.17131
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco de Asís",
+                  "text": "O biserică dedicată Sfântului Francisc, având arhitectura tipică regiunii Nariño.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.357703,
+                        1.288806
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cayetano",
+                  "text": "Această biserică catolică este situată la poalele munților, lângă vulcanul Galeras.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.32021,
+                        1.219904
+                  ]
+            },
+            {
+                  "name": "Surtimax",
+                  "text": "O piață locală unde se vând produse proaspete din împrejurimile vulcanice.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.357941,
+                        1.289953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piedra pintada",
+                  "text": "An archaeological monument near the Galeras volcano, displaying ancient petroglyphs on a massive rock boulder.",
+                  "category": "historical",
+                  "coords": [
+                        -77.330363,
+                        1.169092
+                  ]
+            },
+            {
+                  "name": "Santuario De Flora Y Fauna",
+                  "text": "This protected area encompasses the slopes of the active Galeras volcano, preserving unique Andean flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -77.420695,
+                        1.187469
+                  ]
+            },
+            {
+                  "name": "maragato",
+                  "text": "A viewpoint on the slopes of Galeras, offering a sweeping look at the volcanic landscape and the city of Pasto.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.343576,
+                        1.289111
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apostol",
+                  "text": "This parish church serves the community living near the active Galeras volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.335179,
+                        1.268852
+                  ]
+            },
+            {
+                  "name": "Ave Maria",
+                  "text": "A small devotional site dedicated to Mary, set within the volcanic landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -77.338377,
+                        1.267204
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen De Lourdes",
+                  "text": "A religious grotto carved into the rock, used as a Christian place of prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.325353,
+                        1.17131
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco de Asís",
+                  "text": "A church dedicated to Saint Francis, featuring architecture typical of the Nariño region.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.357703,
+                        1.288806
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cayetano",
+                  "text": "This Catholic church is located in the highlands near the Galeras volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.32021,
+                        1.219904
+                  ]
+            },
+            {
+                  "name": "Surtimax",
+                  "text": "A local marketplace selling fresh produce from the volcanic surroundings.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.357941,
+                        1.289953
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-NAR",
     coords: [-77.3592, 1.2217],
@@ -647,7 +2681,664 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-tota-nature-v2",
+    id: "lake-tota-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aussichtspunkt",
+                  "text": "Dieser Aussichtspunkt bietet ein beeindruckendes Panorama über die hochgelegenen Gewässer der Region Lake Tota.",
+                  "category": "natural",
+                  "coords": [
+                        -72.882621,
+                        5.547353
+                  ]
+            },
+            {
+                  "name": "El Batán",
+                  "text": "El Batán ist ein Wasserpark mit Thermalbädern in der Nähe des Tota-Sees, in dem man in warmen Becken entspannen kann.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.984388,
+                        5.587517
+                  ]
+            },
+            {
+                  "name": "Mirador el Morro",
+                  "text": "Der Mirador el Morro ist ein erhöhter Aussichtspunkt auf einem Hügel, der weite Ausblicke auf die andine Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.969792,
+                        5.620202
+                  ]
+            },
+            {
+                  "name": "Balneario Erika",
+                  "text": "Das Balneario Erika ist eine Erholungsanlage am Tota-See, die direkten Zugang zum Süßwasser des riesigen andinen Sees bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.989211,
+                        5.611537
+                  ]
+            },
+            {
+                  "name": "Cristo Rey",
+                  "text": "Das Cristo Rey Monument erhebt sich schützend über der Landschaft am Tota-See und ist eine markante Statue.",
+                  "category": "historical",
+                  "coords": [
+                        -72.885526,
+                        5.543332
+                  ]
+            },
+            {
+                  "name": "Museo Lago de Tota",
+                  "text": "Das Museo Lago de Tota dokumentiert die ökologische Geschichte und die indigenen Mythen rund um diesen riesigen andinen See.",
+                  "category": "museum",
+                  "coords": [
+                        -72.882767,
+                        5.516122
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Playa Blanca ist ein ungewöhnlicher, von Pinien gesäumter weißer Sandstrand auf über 3000 Metern Höhe am Ufer des Tota-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.966864,
+                        5.508785
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Pueblito Antiguo",
+                  "text": "Das Naturreservat Pueblito Antiguo ist ein Schutzgebiet, in dem eine historische Dorfkulisse inmitten andiner Flora erhalten wird.",
+                  "category": "natural",
+                  "coords": [
+                        -72.940654,
+                        5.573372
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Carmen",
+                  "text": "Die Capilla Virgen del Carmen ist eine kleine, der Schutzpatronin der Fahrer gewidmete Kapelle am Rande der hochgelegenen Straßen.",
+                  "category": "religious",
+                  "coords": [
+                        -72.892734,
+                        5.575729
+                  ]
+            },
+            {
+                  "name": "Pozo Azul",
+                  "text": "Pozo Azul ist ein spiritueller Andachtsort nahe einem kristallklaren Wasserbecken, der von den Einheimischen in der Region gepflegt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -72.893045,
+                        5.570736
+                  ]
+            },
+            {
+                  "name": "Parroquia Señor de los Milagros",
+                  "text": "Die christliche Parroquia Señor de los Milagros ist eine spirituelle Anlaufstelle mit schlichter andiner Kirchenarchitektur in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.882525,
+                        5.517482
+                  ]
+            },
+            {
+                  "name": "Monumento Señor de los Milagros",
+                  "text": "Das Monumento Señor de los Milagros ist eine religiöse Statue, die von Pilgern aufgesucht wird, die die Anden rund um den Tota-See besuchen.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.884937,
+                        5.536341
+                  ]
+            },
+            {
+                  "name": "La Cumbre Santuario Religioso",
+                  "text": "La Cumbre Santuario Religioso ist ein hochgelegenes christliches Heiligtum, das einen ruhigen Ort zur Andacht bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.883824,
+                        5.509419
+                  ]
+            },
+            {
+                  "name": "Capilla Jesucristo Buen Pastor",
+                  "text": "Die christliche Capilla Jesucristo Buen Pastor zeichnet sich durch ihren friedlichen Innenraum im Dorf nahe dem Tota-See aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.932404,
+                        5.488372
+                  ]
+            },
+            {
+                  "name": "Iglesia La Peninsula",
+                  "text": "Die Iglesia La Peninsula ist eine malerische christliche Kirche, die idyllisch auf einer in den Tota-See ragenden Landzunge liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.912389,
+                        5.514709
+                  ]
+            },
+            {
+                  "name": "Parroquia del Santo Cristo",
+                  "text": "Die Parroquia del Santo Cristo ist eine Kirche mit massivem Mauerwerk, die als spirituelles Zentrum der lokalen Bevölkerung am Tota-See dient.",
+                  "category": "religious",
+                  "coords": [
+                        -72.965662,
+                        5.580739
+                  ]
+            },
+            {
+                  "name": "Ntra Sra de Dolores de Tota",
+                  "text": "Die Pfarrei Ntra Sra de Dolores de Tota ist eine historische christliche Stätte, in der die Schutzpatronin der Region Tota verehrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.985304,
+                        5.561399
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Auf der Plaza de Mercado im Tota-Gebiet handeln lokale Bauern mit frischen landwirtschaftlichen Produkten aus den hochgelegenen Andenfeldern.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.986707,
+                        5.559441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panorama",
+                  "text": "Ez a kilátó lenyűgöző panorámát nyújt a Tota-tó vidékének magasan fekvő vizeire.",
+                  "category": "natural",
+                  "coords": [
+                        -72.882621,
+                        5.547353
+                  ]
+            },
+            {
+                  "name": "El Batán",
+                  "text": "Az El Batán egy termálfürdős vízi park a Tota-tó közelében, ahol meleg medencékben lehet pihenni.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.984388,
+                        5.587517
+                  ]
+            },
+            {
+                  "name": "Mirador el Morro",
+                  "text": "A Mirador el Morro egy hegytetőn fekvő kilátó, amely széles rálátást biztosít az andoki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.969792,
+                        5.620202
+                  ]
+            },
+            {
+                  "name": "Balneario Erika",
+                  "text": "A Balneario Erika egy üdülőhely a Tota-tónál, amely közvetlen hozzáférést biztosít a hatalmas andoki tó édesvizéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.989211,
+                        5.611537
+                  ]
+            },
+            {
+                  "name": "Cristo Rey",
+                  "text": "A Cristo Rey emlékmű egy ikonikus szobor, amely védelmezően emelkedik a Tota-tó tája fölé.",
+                  "category": "historical",
+                  "coords": [
+                        -72.885526,
+                        5.543332
+                  ]
+            },
+            {
+                  "name": "Museo Lago de Tota",
+                  "text": "A Museo Lago de Tota bemutatja ennek a hatalmas andoki tónak az ökológiai történetét és az őslakosok mítoszait.",
+                  "category": "museum",
+                  "coords": [
+                        -72.882767,
+                        5.516122
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "A Playa Blanca egy szokatlan, fenyőkkel szegélyezett fehér homokos strand több mint 3000 méteres magasságban a Tota-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.966864,
+                        5.508785
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Pueblito Antiguo",
+                  "text": "A Pueblito Antiguo Természetvédelmi Terület egy védett övezet, ahol egy történelmi falu mását őrzik az andoki növényvilág közepette.",
+                  "category": "natural",
+                  "coords": [
+                        -72.940654,
+                        5.573372
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Carmen",
+                  "text": "A Capilla Virgen del Carmen egy kis kápolna a hegyi utak mentén, melyet a sofőrök védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -72.892734,
+                        5.575729
+                  ]
+            },
+            {
+                  "name": "Pozo Azul",
+                  "text": "A Pozo Azul egy spirituális hely egy kristálytiszta vizű medence közelében, amelyet a helyiek ápolnak a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -72.893045,
+                        5.570736
+                  ]
+            },
+            {
+                  "name": "Parroquia Señor de los Milagros",
+                  "text": "A Señor de los Milagros egy keresztény plébánia, amely egyszerű andoki templomépítészettel várja a híveket a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.882525,
+                        5.517482
+                  ]
+            },
+            {
+                  "name": "Monumento Señor de los Milagros",
+                  "text": "A Monumento Señor de los Milagros egy vallási szobor, amelyet a Tota-tó körüli Andokba látogató zarándokok keresnek fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.884937,
+                        5.536341
+                  ]
+            },
+            {
+                  "name": "La Cumbre Santuario Religioso",
+                  "text": "A La Cumbre Santuario Religioso egy magasan fekvő keresztény szentély, amely csendes helyet kínál az áhítathoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.883824,
+                        5.509419
+                  ]
+            },
+            {
+                  "name": "Capilla Jesucristo Buen Pastor",
+                  "text": "A Capilla Jesucristo Buen Pastor keresztény kápolna békés belső terével tűnik ki a Tota-tó közeli faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.932404,
+                        5.488372
+                  ]
+            },
+            {
+                  "name": "Iglesia La Peninsula",
+                  "text": "Az Iglesia La Peninsula egy festői keresztény templom, amely a Tota-tóba nyúló félszigeten található.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.912389,
+                        5.514709
+                  ]
+            },
+            {
+                  "name": "Parroquia del Santo Cristo",
+                  "text": "A Parroquia del Santo Cristo egy masszív kőfalú templom, amely a Tota-tó helyi lakosságának spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        -72.965662,
+                        5.580739
+                  ]
+            },
+            {
+                  "name": "Ntra Sra de Dolores de Tota",
+                  "text": "A Ntra Sra de Dolores de Tota plébánia egy történelmi keresztény helyszín, ahol Tota régió védőszentjét tisztelik.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.985304,
+                        5.561399
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "A Tota-vidéki Plaza de Mercado piacon a helyi gazdák a magasan fekvő andoki földekről származó friss termékeket árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.986707,
+                        5.559441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panorama",
+                  "text": "Acest punct de belvedere oferă o panoramă impresionantă asupra apelor de mare altitudine din regiunea Lacului Tota.",
+                  "category": "natural",
+                  "coords": [
+                        -72.882621,
+                        5.547353
+                  ]
+            },
+            {
+                  "name": "El Batán",
+                  "text": "El Batán este un parc acvatic cu băi termale în apropierea Lacului Tota, unde vă puteți relaxa în piscine calde.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.984388,
+                        5.587517
+                  ]
+            },
+            {
+                  "name": "Mirador el Morro",
+                  "text": "Mirador el Morro este un punct de belvedere situat pe un deal, care oferă vederi ample asupra peisajului andin.",
+                  "category": "natural",
+                  "coords": [
+                        -72.969792,
+                        5.620202
+                  ]
+            },
+            {
+                  "name": "Balneario Erika",
+                  "text": "Balneario Erika este un complex de agrement de la Lacul Tota, care oferă acces direct la apa dulce a uriașului lac andin.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.989211,
+                        5.611537
+                  ]
+            },
+            {
+                  "name": "Cristo Rey",
+                  "text": "Monumentul Cristo Rey se înalță protector deasupra peisajului de la Lacul Tota, fiind o statuie impunătoare.",
+                  "category": "historical",
+                  "coords": [
+                        -72.885526,
+                        5.543332
+                  ]
+            },
+            {
+                  "name": "Museo Lago de Tota",
+                  "text": "Museo Lago de Tota documentează istoria ecologică și miturile indigene legate de acest uriaș lac andin.",
+                  "category": "museum",
+                  "coords": [
+                        -72.882767,
+                        5.516122
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Playa Blanca este o plajă neobișnuită cu nisip alb, mărginită de pini, situată la peste 3000 de metri altitudine pe malul Lacului Tota.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.966864,
+                        5.508785
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Pueblito Antiguo",
+                  "text": "Rezervația naturală Pueblito Antiguo este o zonă protejată care conservă un decor de sat istoric în mijlocul florei andine.",
+                  "category": "natural",
+                  "coords": [
+                        -72.940654,
+                        5.573372
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Carmen",
+                  "text": "Capilla Virgen del Carmen este o mică capelă dedicată patroanei șoferilor, situată la marginea drumurilor montane.",
+                  "category": "religious",
+                  "coords": [
+                        -72.892734,
+                        5.575729
+                  ]
+            },
+            {
+                  "name": "Pozo Azul",
+                  "text": "Pozo Azul este un loc de cult spiritual lângă un bazin cu apă cristalină, întreținut de localnicii din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -72.893045,
+                        5.570736
+                  ]
+            },
+            {
+                  "name": "Parroquia Señor de los Milagros",
+                  "text": "Parohia creștină Señor de los Milagros este un loc spiritual cu o arhitectură bisericească andină simplă, situat în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.882525,
+                        5.517482
+                  ]
+            },
+            {
+                  "name": "Monumento Señor de los Milagros",
+                  "text": "Monumento Señor de los Milagros este o statuie religioasă vizitată de pelerinii care trec prin Anzii din jurul Lacului Tota.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.884937,
+                        5.536341
+                  ]
+            },
+            {
+                  "name": "La Cumbre Santuario Religioso",
+                  "text": "La Cumbre Santuario Religioso este un sanctuar creștin situat la mare altitudine, care oferă un loc liniștit pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.883824,
+                        5.509419
+                  ]
+            },
+            {
+                  "name": "Capilla Jesucristo Buen Pastor",
+                  "text": "Capela creștină Jesucristo Buen Pastor se remarcă prin interiorul său liniștit din satul din apropierea Lacului Tota.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.932404,
+                        5.488372
+                  ]
+            },
+            {
+                  "name": "Iglesia La Peninsula",
+                  "text": "Iglesia La Peninsula este o biserică creștină pitorească așezată idilic pe o peninsulă care intră în Lacul Tota.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.912389,
+                        5.514709
+                  ]
+            },
+            {
+                  "name": "Parroquia del Santo Cristo",
+                  "text": "Parroquia del Santo Cristo este o biserică din piatră masivă, care servește drept centru spiritual al populației locale de la Lacul Tota.",
+                  "category": "religious",
+                  "coords": [
+                        -72.965662,
+                        5.580739
+                  ]
+            },
+            {
+                  "name": "Ntra Sra de Dolores de Tota",
+                  "text": "Parohia Ntra Sra de Dolores de Tota este un lăcaș creștin istoric în care este venerată patroana regiunii Tota.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.985304,
+                        5.561399
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "În Plaza de Mercado din zona Tota, fermierii locali comercializează produse agricole proaspete de pe câmpurile andine de mare altitudine.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.986707,
+                        5.559441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View Point",
+                  "text": "This viewpoint offers an impressive panorama over the high-altitude waters of the Lake Tota region.",
+                  "category": "natural",
+                  "coords": [
+                        -72.882621,
+                        5.547353
+                  ]
+            },
+            {
+                  "name": "El Batán",
+                  "text": "El Batán is a water park featuring thermal baths near Lake Tota, where you can relax in warm pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.984388,
+                        5.587517
+                  ]
+            },
+            {
+                  "name": "Mirador el Morro",
+                  "text": "Mirador el Morro is a hilltop viewpoint providing sweeping vistas across the Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -72.969792,
+                        5.620202
+                  ]
+            },
+            {
+                  "name": "Balneario Erika",
+                  "text": "Balneario Erika is a recreational complex at Lake Tota offering direct access to the freshwater of the vast Andean lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.989211,
+                        5.611537
+                  ]
+            },
+            {
+                  "name": "Cristo Rey",
+                  "text": "The Cristo Rey monument rises protectively over the Lake Tota landscape, serving as a prominent landmark statue.",
+                  "category": "historical",
+                  "coords": [
+                        -72.885526,
+                        5.543332
+                  ]
+            },
+            {
+                  "name": "Museo Lago de Tota",
+                  "text": "The Museo Lago de Tota documents the ecological history and indigenous myths surrounding this massive Andean lake.",
+                  "category": "museum",
+                  "coords": [
+                        -72.882767,
+                        5.516122
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Playa Blanca is an unusual, pine-fringed white sandy beach set at over 3,000 metres on the shores of Lake Tota.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.966864,
+                        5.508785
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Pueblito Antiguo",
+                  "text": "The Pueblito Antiguo Nature Reserve is a protected area that preserves a historical village setting amidst Andean flora.",
+                  "category": "natural",
+                  "coords": [
+                        -72.940654,
+                        5.573372
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Carmen",
+                  "text": "Capilla Virgen del Carmen is a small chapel dedicated to the patron saint of drivers, situated along the high-altitude roads.",
+                  "category": "religious",
+                  "coords": [
+                        -72.892734,
+                        5.575729
+                  ]
+            },
+            {
+                  "name": "Pozo Azul",
+                  "text": "Pozo Azul is a spiritual place of worship near a crystal-clear pool, maintained by locals in the region.",
+                  "category": "religious",
+                  "coords": [
+                        -72.893045,
+                        5.570736
+                  ]
+            },
+            {
+                  "name": "Parroquia Señor de los Milagros",
+                  "text": "The Christian Parroquia Señor de los Milagros serves as a spiritual center featuring simple Andean church architecture in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.882525,
+                        5.517482
+                  ]
+            },
+            {
+                  "name": "Monumento Señor de los Milagros",
+                  "text": "The Monumento Señor de los Milagros is a religious statue sought out by pilgrims visiting the Andes around Lake Tota.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.884937,
+                        5.536341
+                  ]
+            },
+            {
+                  "name": "La Cumbre Santuario Religioso",
+                  "text": "La Cumbre Santuario Religioso is a high-altitude Christian sanctuary providing a tranquil setting for devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.883824,
+                        5.509419
+                  ]
+            },
+            {
+                  "name": "Capilla Jesucristo Buen Pastor",
+                  "text": "The Christian Capilla Jesucristo Buen Pastor is known for its peaceful interior in the village near Lake Tota.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.932404,
+                        5.488372
+                  ]
+            },
+            {
+                  "name": "Iglesia La Peninsula",
+                  "text": "Iglesia La Peninsula is a picturesque Christian church set idyllically on a headland extending into Lake Tota.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.912389,
+                        5.514709
+                  ]
+            },
+            {
+                  "name": "Parroquia del Santo Cristo",
+                  "text": "Parroquia del Santo Cristo is a church with massive stonework serving as the spiritual centre for the local population by Lake Tota.",
+                  "category": "religious",
+                  "coords": [
+                        -72.965662,
+                        5.580739
+                  ]
+            },
+            {
+                  "name": "Ntra Sra de Dolores de Tota",
+                  "text": "The parish of Ntra Sra de Dolores de Tota is a historic Christian site where the patron saint of the Tota region is venerated.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.985304,
+                        5.561399
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "At the Plaza de Mercado in the Tota area, local farmers trade fresh agricultural produce from the high-altitude Andean fields.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.986707,
+                        5.559441
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CO-BOY",
     coords: [-72.925, 5.55],
@@ -685,7 +3376,448 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-guatavita-nature-v2",
+    id: "lake-guatavita-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Castillo del Cerezo",
+                  "text": "Eine auffällige Attraktion in Form einer Burg in der Nähe der Ufer des Guatavita-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.799558,
+                        5.038907
+                  ]
+            },
+            {
+                  "name": "Parque agroecologico Macanú",
+                  "text": "Ein agrarökologischer Themenpark in der Nähe des Guatavita-Sees, der interaktive Natur- und Landwirtschaftserlebnisse bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.800361,
+                        5.055257
+                  ]
+            },
+            {
+                  "name": "Saltamontodromo",
+                  "text": "Eine einzigartig benannte Freizeitattraktion, die sich Outdoor-Aktivitäten in der Region des Guatavita-Sees widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.854885,
+                        4.912984
+                  ]
+            },
+            {
+                  "name": "Plaza de Gachancipa",
+                  "text": "Der öffentliche Hauptplatz von Gachancipá, ein traditioneller Treffpunkt auf dem Weg zum Guatavita-See.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.871455,
+                        4.99161
+                  ]
+            },
+            {
+                  "name": "Navegadero TOMINE LAKE",
+                  "text": "Ein Yachthafen und Einstiegsbereich für Bootstouren auf dem weitläufigen Tominé-Stausee nahe dem Guatavita-See.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.820186,
+                        4.964733
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna de Guatavita",
+                  "text": "Ein spezieller Aussichtspunkt, der einen Panoramablick über den heiligen, kreisförmigen Krater des Guatavita-Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.779047,
+                        4.975969
+                  ]
+            },
+            {
+                  "name": "Guatavita",
+                  "text": "Ein malerischer Aussichtspunkt mit dramatischen Perspektiven auf die umliegenden Andenlandschaften und die neu erbaute Stadt Guatavita.",
+                  "category": "natural",
+                  "coords": [
+                        -73.773902,
+                        4.979494
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Estrella de Páramo",
+                  "text": "Ein geschütztes, hoch gelegenes Páramo-Ökosystem nahe dem Guatavita-See, das für die Erhaltung der einheimischen Andenflora entscheidend ist.",
+                  "category": "natural",
+                  "coords": [
+                        -73.753934,
+                        4.941452
+                  ]
+            },
+            {
+                  "name": "Laguna de Guatavita",
+                  "text": "Ein sagenumwobener, kreisrunder Alpensee, der als Ursprung des El-Dorado-Mythos gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.775265,
+                        4.97773
+                  ]
+            },
+            {
+                  "name": "Balcon Virgen del Carmen",
+                  "text": "Dieser Schrein, der der Jungfrau vom Berge Karmel gewidmet ist, bietet einen ruhigen Raum für Gebete in der Region Guatavita.",
+                  "category": "religious",
+                  "coords": [
+                        -73.865062,
+                        4.990281
+                  ]
+            },
+            {
+                  "name": "Parroquia Inmaculada Concepción",
+                  "text": "Die Parroquia Inmaculada Concepción ist eine christliche Kirche, die als spirituelles Zentrum der lokalen katholischen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.795822,
+                        5.044359
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Dieser lebhafte Markt bietet eine Vielzahl lokaler Waren und frischer landwirtschaftlicher Produkte aus der Region um den Guatavita-See.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.797692,
+                        5.046342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Castillo del Cerezo",
+                  "text": "Egy szemet gyönyörködtető, kastély alakú látványosság a Guatavita-tó partja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.799558,
+                        5.038907
+                  ]
+            },
+            {
+                  "name": "Parque agroecologico Macanú",
+                  "text": "Agroökológiai vidámpark a Guatavita-tó közelében, amely interaktív természeti és mezőgazdasági élményeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.800361,
+                        5.055257
+                  ]
+            },
+            {
+                  "name": "Saltamontodromo",
+                  "text": "Egy egyedi nevű rekreációs látványosság, amelyet szabadtéri tevékenységeknek szenteltek a Guatavita-tó térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.854885,
+                        4.912984
+                  ]
+            },
+            {
+                  "name": "Plaza de Gachancipa",
+                  "text": "Gachancipá főtere, amely egy hagyományos gyülekezőhely a Guatavita-tó felé vezető úton.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.871455,
+                        4.99161
+                  ]
+            },
+            {
+                  "name": "Navegadero TOMINE LAKE",
+                  "text": "Kikötő és felszállóhely csónaktúrákhoz a Guatavita-tó közelében található hatalmas Tominé-víztározón.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.820186,
+                        4.964733
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna de Guatavita",
+                  "text": "Kijelölt kilátó, amely panorámás kilátást nyújt a Guatavita-tó szent, kör alakú kráterére.",
+                  "category": "natural",
+                  "coords": [
+                        -73.779047,
+                        4.975969
+                  ]
+            },
+            {
+                  "name": "Guatavita",
+                  "text": "Festői kilátó, amely drámai perspektívát kínál a környező andoki tájakra és az újonnan épült Guatavita városára.",
+                  "category": "natural",
+                  "coords": [
+                        -73.773902,
+                        4.979494
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Estrella de Páramo",
+                  "text": "Védett magasan fekvő páramo ökoszisztéma a Guatavita-tó közelében, amely kulcsfontosságú a hazai andoki flóra megőrzésében.",
+                  "category": "natural",
+                  "coords": [
+                        -73.753934,
+                        4.941452
+                  ]
+            },
+            {
+                  "name": "Laguna de Guatavita",
+                  "text": "Egy legendás, tökéletesen kör alakú alpesi tó, amely az El Dorado-mítosz eredetének számít.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.775265,
+                        4.97773
+                  ]
+            },
+            {
+                  "name": "Balcon Virgen del Carmen",
+                  "text": "A Kármel-hegyi Boldogasszonynak szentelt szentély csendes imádkozóhelyet kínál a Guatavita régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.865062,
+                        4.990281
+                  ]
+            },
+            {
+                  "name": "Parroquia Inmaculada Concepción",
+                  "text": "A Parroquia Inmaculada Concepción egy keresztény templom, amely a helyi katolikus közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.795822,
+                        5.044359
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Ez a nyüzsgő piac a Guatavita-tó régiójának különféle helyi áruit és friss mezőgazdasági termékeit kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.797692,
+                        5.046342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Castillo del Cerezo",
+                  "text": "O atracție atrăgătoare sub formă de castel, în apropiere de țărmurile lacului Guatavita.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.799558,
+                        5.038907
+                  ]
+            },
+            {
+                  "name": "Parque agroecologico Macanú",
+                  "text": "Un parc tematic agroecologic lângă Lacul Guatavita, care oferă experiențe interactive cu natura și agricultura.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.800361,
+                        5.055257
+                  ]
+            },
+            {
+                  "name": "Saltamontodromo",
+                  "text": "O atracție de agrement cu un nume unic dedicată activităților în aer liber în zona Lacului Guatavita.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.854885,
+                        4.912984
+                  ]
+            },
+            {
+                  "name": "Plaza de Gachancipa",
+                  "text": "Piața publică principală din Gachancipá, un spațiu de adunare tradițional pe traseul spre Lacul Guatavita.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.871455,
+                        4.99161
+                  ]
+            },
+            {
+                  "name": "Navegadero TOMINE LAKE",
+                  "text": "Un port de agrement și o zonă de îmbarcare pentru excursii cu barca pe vastul lac de acumulare Tominé, lângă Lacul Guatavita.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.820186,
+                        4.964733
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna de Guatavita",
+                  "text": "Un punct de belvedere dedicat, care oferă vederi panoramice asupra craterului sacru, circular, al Lacului Guatavita.",
+                  "category": "natural",
+                  "coords": [
+                        -73.779047,
+                        4.975969
+                  ]
+            },
+            {
+                  "name": "Guatavita",
+                  "text": "Un punct de belvedere pitoresc care oferă perspective spectaculoase asupra peisajelor andine din jur și asupra noului oraș Guatavita.",
+                  "category": "natural",
+                  "coords": [
+                        -73.773902,
+                        4.979494
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Estrella de Páramo",
+                  "text": "Un ecosistem de paramo protejat la mare altitudine lângă Lacul Guatavita, esențial pentru conservarea florei native andine.",
+                  "category": "natural",
+                  "coords": [
+                        -73.753934,
+                        4.941452
+                  ]
+            },
+            {
+                  "name": "Laguna de Guatavita",
+                  "text": "Un lac alpin legendar, perfect circular, considerat a fi originea mitului El Dorado.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.775265,
+                        4.97773
+                  ]
+            },
+            {
+                  "name": "Balcon Virgen del Carmen",
+                  "text": "Acest altar dedicat Fecioarei de pe Muntele Carmel oferă un spațiu liniștit pentru rugăciune în regiunea Guatavita.",
+                  "category": "religious",
+                  "coords": [
+                        -73.865062,
+                        4.990281
+                  ]
+            },
+            {
+                  "name": "Parroquia Inmaculada Concepción",
+                  "text": "Parroquia Inmaculada Concepción este o biserică creștină care servește drept centru spiritual al comunității catolice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.795822,
+                        5.044359
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Această piață plină de viață oferă o varietate de bunuri locale și produse agricole proaspete din regiunea Lacului Guatavita.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.797692,
+                        5.046342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Castillo del Cerezo",
+                  "text": "An eye-catching attraction shaped like a castle near the shores of Lake Guatavita.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.799558,
+                        5.038907
+                  ]
+            },
+            {
+                  "name": "Parque agroecologico Macanú",
+                  "text": "An agro-ecological theme park near Lake Guatavita offering interactive experiences with nature and farming.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.800361,
+                        5.055257
+                  ]
+            },
+            {
+                  "name": "Saltamontodromo",
+                  "text": "A uniquely named recreational attraction dedicated to outdoor activities in the Lake Guatavita area.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.854885,
+                        4.912984
+                  ]
+            },
+            {
+                  "name": "Plaza de Gachancipa",
+                  "text": "The main public square of Gachancipá, a traditional gathering space on the route towards Lake Guatavita.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.871455,
+                        4.99161
+                  ]
+            },
+            {
+                  "name": "Navegadero TOMINE LAKE",
+                  "text": "A marina and boarding area for boat tours on the expansive Tominé Reservoir near Lake Guatavita.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.820186,
+                        4.964733
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna de Guatavita",
+                  "text": "A dedicated viewpoint providing panoramic views over the sacred, circular crater of Lake Guatavita.",
+                  "category": "natural",
+                  "coords": [
+                        -73.779047,
+                        4.975969
+                  ]
+            },
+            {
+                  "name": "Guatavita",
+                  "text": "A scenic viewpoint offering dramatic perspectives of the surrounding Andean landscapes and the newly built town of Guatavita.",
+                  "category": "natural",
+                  "coords": [
+                        -73.773902,
+                        4.979494
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Estrella de Páramo",
+                  "text": "A protected high-altitude paramo ecosystem near Lake Guatavita, crucial for preserving native Andean flora.",
+                  "category": "natural",
+                  "coords": [
+                        -73.753934,
+                        4.941452
+                  ]
+            },
+            {
+                  "name": "Laguna de Guatavita",
+                  "text": "A legendary, perfectly circular alpine lake reputed to be the origin of the El Dorado myth.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.775265,
+                        4.97773
+                  ]
+            },
+            {
+                  "name": "Balcon Virgen del Carmen",
+                  "text": "Dedicated to the Virgin of Mount Carmel, this local shrine offers a quiet space for prayer near Lake Guatavita.",
+                  "category": "religious",
+                  "coords": [
+                        -73.865062,
+                        4.990281
+                  ]
+            },
+            {
+                  "name": "Parroquia Inmaculada Concepción",
+                  "text": "The Parroquia Inmaculada Concepción is a Christian church that serves as the spiritual center for the local Catholic community.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.795822,
+                        5.044359
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "This bustling market offers a variety of local goods and fresh agricultural produce from the Lake Guatavita region.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.797692,
+                        5.046342
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CO-CUN",
     coords: [-73.8167, 4.975],
@@ -723,7 +3855,52 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "lake-calima-nature-v2",
+    id: "lake-calima-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo arqueológico Calima",
+                  "text": "Ein Museum, das Goldarbeiten und Keramiken der präkolumbianischen Calima-Kultur ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -76.48709,
+                        3.932791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo arqueológico Calima",
+                  "text": "Múzeum, amely a kolumbusz előtti Calima-kultúra aranytárgyait és kerámiáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -76.48709,
+                        3.932791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo arqueológico Calima",
+                  "text": "Un muzeu care expune obiecte din aur și ceramică ale culturii precolumbiene Calima.",
+                  "category": "museum",
+                  "coords": [
+                        -76.48709,
+                        3.932791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo arqueológico Calima",
+                  "text": "A museum exhibiting gold work and ceramics from the pre-Columbian Calima culture.",
+                  "category": "museum",
+                  "coords": [
+                        -76.48709,
+                        3.932791
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CO-VAC",
     coords: [-76.4947, 3.8864],
@@ -761,7 +3938,340 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "la-cocha-lagoon-nature-v2",
+    id: "la-cocha-lagoon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Little Switzerland",
+                  "text": "Ein malerischer Ort am Ufer der Cocha-Lagune, der für seine charmanten Holzhäuser im Schweizer Chalet-Stil bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.149301,
+                        1.140263
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Blick über die dunkle Wasseroberfläche der Laguna de la Cocha und ihre Insel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -77.176263,
+                        1.175082
+                  ]
+            },
+            {
+                  "name": "Reserva Natural San Francisco",
+                  "text": "Dieses Naturschutzgebiet am Ufer der Cocha-Lagune schützt den empfindlichen andinen Nebelwald und seine hohe Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -77.16393,
+                        1.160776
+                  ]
+            },
+            {
+                  "name": "Sendero Interverdal Casapamba",
+                  "text": "Ein Naturpfad, der durch die Hochlandvegetation führt und Wanderern die Flora und Fauna der Region Casapamba näherbringt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.165813,
+                        1.150752
+                  ]
+            },
+            {
+                  "name": "Reserva Natural El Arrayán",
+                  "text": "Dieses Reservat ist der Erhaltung des Arrayán-Baumes gewidmet, einer für die Hochlandregion um La Cocha typischen Pflanzenart.",
+                  "category": "natural",
+                  "coords": [
+                        -77.170533,
+                        1.157521
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine kleine Kapelle am Ufer der Cocha-Lagune, die das religiöse Zentrum für die dort lebende Fischergemeinde bildet.",
+                  "category": "religious",
+                  "coords": [
+                        -77.15447,
+                        1.143431
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Encano",
+                  "text": "Die Hauptkirche von El Encano besticht durch ihre Lage am Seeufer und dient als spiritueller Ausgangspunkt für Pilger der Lagune.",
+                  "category": "religious",
+                  "coords": [
+                        -77.156457,
+                        1.162243
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculada Concepción Vereda Casapamba",
+                  "text": "Eine ländliche Kapelle in der Gemeinde Casapamba, die für ihre schlichte Architektur in der rauen Paramo-Landschaft bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -77.163832,
+                        1.159703
+                  ]
+            },
+            {
+                  "name": "Ntra Sra de Lourdes",
+                  "text": "Diese kleine Kapelle ist Unserer Lieben Frau von Lourdes gewidmet und liegt idyllisch am Rande der Cocha-Lagune.",
+                  "category": "religious",
+                  "coords": [
+                        -77.148994,
+                        1.130856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Little Switzerland",
+                  "text": "Gidres-göröngyös hely a Cocha-lagúna partján, amely svájci faház stílusú épületeiről és virágos kertjeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.149301,
+                        1.140263
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Magaslati kilátópont, ahonnan pazar kilátás nyílik a Laguna de la Cocha sötét víztükrére és a benne fekvő szigetre.",
+                  "category": "natural",
+                  "coords": [
+                        -77.176263,
+                        1.175082
+                  ]
+            },
+            {
+                  "name": "Reserva Natural San Francisco",
+                  "text": "Ez a természetvédelmi terület a Cocha-lagúna partján az érzékeny andoki köderdőt és annak gazdag élővilágát óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -77.16393,
+                        1.160776
+                  ]
+            },
+            {
+                  "name": "Sendero Interverdal Casapamba",
+                  "text": "Természeti ösvény, amely a felföldi növényzeten keresztül vezet, bemutatva a Casapamba régió flóráját és faunáját.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.165813,
+                        1.150752
+                  ]
+            },
+            {
+                  "name": "Reserva Natural El Arrayán",
+                  "text": "Ez a rezervátum az arrayán fa megőrzésére irányul, amely a La Cocha környéki felföldi régió jellegzetes faja.",
+                  "category": "natural",
+                  "coords": [
+                        -77.170533,
+                        1.157521
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Kicsi kápolna a Cocha-lagúna partján, amely a helyi halászközösség vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        -77.15447,
+                        1.143431
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Encano",
+                  "text": "El Encano főtemploma közvetlenül a tóparton fekszik, és a lagúna zarándokainak spirituális kiindulópontja.",
+                  "category": "religious",
+                  "coords": [
+                        -77.156457,
+                        1.162243
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculada Concepción Vereda Casapamba",
+                  "text": "Vidéki kápolna Casapamba közösségében, amely egyszerű építészetéről ismert a zord páramo-vidéken.",
+                  "category": "religious",
+                  "coords": [
+                        -77.163832,
+                        1.159703
+                  ]
+            },
+            {
+                  "name": "Ntra Sra de Lourdes",
+                  "text": "Ez a kis kápolna a Lourdes-i Miasszonyunknak van szentelve, és idilli környezetben fekszik a Cocha-lagúna szélén.",
+                  "category": "religious",
+                  "coords": [
+                        -77.148994,
+                        1.130856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Little Switzerland",
+                  "text": "O locație pitorească pe malul lagunei La Cocha, cunoscută pentru casele sale fermecătoare din lemn în stil de cabană elvețiană.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.149301,
+                        1.140263
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de observare ridicat care oferă o vedere panoramică asupra apelor întunecate ale lagunei La Cocha și a insulei sale.",
+                  "category": "natural",
+                  "coords": [
+                        -77.176263,
+                        1.175082
+                  ]
+            },
+            {
+                  "name": "Reserva Natural San Francisco",
+                  "text": "Această rezervație naturală de pe malul lagunei La Cocha protejează pădurea andină de ceață și biodiversitatea sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        -77.16393,
+                        1.160776
+                  ]
+            },
+            {
+                  "name": "Sendero Interverdal Casapamba",
+                  "text": "Un traseu natural care trece prin vegetația de munte, oferind drumeților ocazia de a vedea flora și fauna din regiunea Casapamba.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.165813,
+                        1.150752
+                  ]
+            },
+            {
+                  "name": "Reserva Natural El Arrayán",
+                  "text": "Această rezervație este dedicată conservării arborelui arrayán, o specie tipică pentru regiunea montană din jurul La Cocha.",
+                  "category": "natural",
+                  "coords": [
+                        -77.170533,
+                        1.157521
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O mică capelă pe malul lagunei La Cocha, care servește drept centru religios pentru comunitatea locală de pescari.",
+                  "category": "religious",
+                  "coords": [
+                        -77.15447,
+                        1.143431
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Encano",
+                  "text": "Biserica principală din El Encano se află chiar pe malul lacului și servește ca punct de plecare spiritual pentru pelerinii lagunei.",
+                  "category": "religious",
+                  "coords": [
+                        -77.156457,
+                        1.162243
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculada Concepción Vereda Casapamba",
+                  "text": "O capelă rurală din comunitatea Casapamba, cunoscută pentru arhitectura sa simplă în peisajul aspru de paramo.",
+                  "category": "religious",
+                  "coords": [
+                        -77.163832,
+                        1.159703
+                  ]
+            },
+            {
+                  "name": "Ntra Sra de Lourdes",
+                  "text": "Această mică capelă este dedicată Maicii Domnului din Lourdes și este situată idilic la marginea lagunei La Cocha.",
+                  "category": "religious",
+                  "coords": [
+                        -77.148994,
+                        1.130856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Little Switzerland",
+                  "text": "A picturesque spot on the shores of La Cocha lagoon, known for its charming wooden houses in the style of Swiss chalets.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.149301,
+                        1.140263
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "An elevated viewpoint providing a sweeping look over the dark waters of La Cocha lagoon and its central island.",
+                  "category": "natural",
+                  "coords": [
+                        -77.176263,
+                        1.175082
+                  ]
+            },
+            {
+                  "name": "Reserva Natural San Francisco",
+                  "text": "This nature reserve on the shores of La Cocha lagoon protects the fragile Andean cloud forest and its rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -77.16393,
+                        1.160776
+                  ]
+            },
+            {
+                  "name": "Sendero Interverdal Casapamba",
+                  "text": "A nature trail that winds through highland vegetation, offering hikers a look at the flora and fauna of the Casapamba region.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.165813,
+                        1.150752
+                  ]
+            },
+            {
+                  "name": "Reserva Natural El Arrayán",
+                  "text": "This reserve is dedicated to the preservation of the arrayán tree, a species typical of the highland region surrounding La Cocha.",
+                  "category": "natural",
+                  "coords": [
+                        -77.170533,
+                        1.157521
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "A small chapel on the shores of La Cocha lagoon, serving as the religious heart for the local fishing community.",
+                  "category": "religious",
+                  "coords": [
+                        -77.15447,
+                        1.143431
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Encano",
+                  "text": "The main church of El Encano is located right by the lake and serves as a spiritual starting point for pilgrims to the lagoon.",
+                  "category": "religious",
+                  "coords": [
+                        -77.156457,
+                        1.162243
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculada Concepción Vereda Casapamba",
+                  "text": "A rural chapel in the Casapamba community, known for its simple architecture set against the rugged paramo landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -77.163832,
+                        1.159703
+                  ]
+            },
+            {
+                  "name": "Ntra Sra de Lourdes",
+                  "text": "This small chapel is dedicated to Our Lady of Lourdes and is idyllically located on the edge of La Cocha lagoon.",
+                  "category": "religious",
+                  "coords": [
+                        -77.148994,
+                        1.130856
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CO-NAR",
     coords: [-77.1583, 1.1083],
@@ -797,7 +4307,88 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "malpelo-island-nature-v2",
+    id: "malpelo-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Mona",
+                  "text": "Hoher felsiger Aussichtspunkt auf der abgelegenen Vulkaninsel Malpelo.",
+                  "category": "natural",
+                  "coords": [
+                        -81.605936,
+                        4.00471
+                  ]
+            },
+            {
+                  "name": "Faro de Malpelo",
+                  "text": "Abgelegener Leuchtturm in den hai-reichen Gewässern rund um die Insel Malpelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.607639,
+                        4.004782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Mona",
+                  "text": "Magas sziklás kilátópont a távoli, vulkanikus Malpelo-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -81.605936,
+                        4.00471
+                  ]
+            },
+            {
+                  "name": "Faro de Malpelo",
+                  "text": "Távoli világítótorony a Malpelo-sziget körüli, cápákban gazdag vizekben.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.607639,
+                        4.004782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Mona",
+                  "text": "Punct de belvedere stâncos și înalt pe insula vulcanică izolată Malpelo.",
+                  "category": "natural",
+                  "coords": [
+                        -81.605936,
+                        4.00471
+                  ]
+            },
+            {
+                  "name": "Faro de Malpelo",
+                  "text": "Far izolat care deservește apele bogate în rechini din jurul insulei Malpelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.607639,
+                        4.004782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Mona",
+                  "text": "High rocky viewpoint on the remote volcanic island of Malpelo.",
+                  "category": "natural",
+                  "coords": [
+                        -81.605936,
+                        4.00471
+                  ]
+            },
+            {
+                  "name": "Faro de Malpelo",
+                  "text": "Remote lighthouse serving the isolated, shark-rich waters around Malpelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.607639,
+                        4.004782
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CO-VAC",
     coords: [-81.6033, 4.0028],
@@ -835,7 +4426,124 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "gorgona-island-nature-v2",
+    id: "gorgona-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Gorgonilla",
+                  "text": "Leuchtturm auf dem kleinen Inselchen Gorgonilla in der Nähe der Insel Gorgona.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.217332,
+                        2.938829
+                  ]
+            },
+            {
+                  "name": "Faro Isla Gorgona",
+                  "text": "Leuchtturm auf der ehemaligen Gefängnisinsel, die heute ein üppiger Nationalpark ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.175793,
+                        2.964856
+                  ]
+            },
+            {
+                  "name": "Faro Punta Coll",
+                  "text": "Navigationsfeuer an der Südspitze der Insel Gorgona im Pazifik.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.167776,
+                        3.003202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Gorgonilla",
+                  "text": "Világítótorony a Gorgonilla nevű kis szigeten, a Gorgona-sziget közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.217332,
+                        2.938829
+                  ]
+            },
+            {
+                  "name": "Faro Isla Gorgona",
+                  "text": "Világítótorony az egykori börtönszigeten, amely ma buja nemzeti park.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.175793,
+                        2.964856
+                  ]
+            },
+            {
+                  "name": "Faro Punta Coll",
+                  "text": "Navigációs fény a csendes-óceáni Gorgona-sziget déli csücskén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.167776,
+                        3.003202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Gorgonilla",
+                  "text": "Far situat pe micuța insulă Gorgonilla de lângă Insula Gorgona.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.217332,
+                        2.938829
+                  ]
+            },
+            {
+                  "name": "Faro Isla Gorgona",
+                  "text": "Far pe fosta insulă-închisoare, transformată acum într-un parc național luxuriant.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.175793,
+                        2.964856
+                  ]
+            },
+            {
+                  "name": "Faro Punta Coll",
+                  "text": "Far de navigație situat în vârful sudic al Insulei Gorgona.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.167776,
+                        3.003202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro Gorgonilla",
+                  "text": "Lighthouse on the small islet of Gorgonilla near Gorgona Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.217332,
+                        2.938829
+                  ]
+            },
+            {
+                  "name": "Faro Isla Gorgona",
+                  "text": "Lighthouse on the former prison island, now a lush national park.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.175793,
+                        2.964856
+                  ]
+            },
+            {
+                  "name": "Faro Punta Coll",
+                  "text": "Navigational light located at the southern tip of Gorgona Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.167776,
+                        3.003202
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CO-CAU",
     coords: [-78.1931, 2.9647],
@@ -873,7 +4581,916 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "san-andres-island-nature-v2",
+    id: "san-andres-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Museo Isleña",
+                  "text": "Ein traditionelles Holzhaus, das die Geschichte und Kultur der Raizal-Insulaner anschaulich präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -81.729008,
+                        12.560124
+                  ]
+            },
+            {
+                  "name": "Mirador La Loma",
+                  "text": "Der höchste Erhebungspunkt der Insel bietet einen weiten Blick auf das „Meer der sieben Farben“.",
+                  "category": "natural",
+                  "coords": [
+                        -81.717072,
+                        12.560404
+                  ]
+            },
+            {
+                  "name": "El Acuario",
+                  "text": "Eine natürliche Sandbank, auf der Besucher im flachen Wasser mit zahmen Stachelrochen schnorcheln können.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.688752,
+                        12.552476
+                  ]
+            },
+            {
+                  "name": "Faro Cayo Córdoba",
+                  "text": "Ein kleiner Leuchtturm auf einem nahen Korallencay, umgeben von klarem tropischem Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.688737,
+                        12.550422
+                  ]
+            },
+            {
+                  "name": "Schiffswrack",
+                  "text": "Die rostigen Überreste eines gestrandeten Schiffes, die deutlich über dem flachen Karibikwasser sichtbar sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.701306,
+                        12.541217
+                  ]
+            },
+            {
+                  "name": "Yellow Moon",
+                  "text": "Ein sandiger Strandabschnitt, der für seine entspannte Atmosphäre und sein goldfarbenes Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.708305,
+                        12.528791
+                  ]
+            },
+            {
+                  "name": "Sam Wrigth Hill",
+                  "text": "Ein Küstenabschnitt mit palmengesäumten Ufern und einer für die Insel typischen, friedlichen Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.724934,
+                        12.511106
+                  ]
+            },
+            {
+                  "name": "Faro Cove Rojo",
+                  "text": "Dieser Leuchtturm markiert die Einfahrt zu einer geschützten Bucht an der Westseite der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729635,
+                        12.516
+                  ]
+            },
+            {
+                  "name": "Aquanautas",
+                  "text": "Eine Attraktion, bei der man mit speziellen Helmen auf dem Meeresgrund zwischen Korallen wandert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729055,
+                        12.520692
+                  ]
+            },
+            {
+                  "name": "Blue Cove",
+                  "text": "Eine Tiefwasserbucht, die für Klippenspringen und ihr intensiv dunkelblaues Meerwasser beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.728824,
+                        12.525633
+                  ]
+            },
+            {
+                  "name": "Fuente de mar",
+                  "text": "Ein Aussichtspunkt, an dem die Brandung an den Felsen einen natürlichen Springbrunneneffekt erzeugt.",
+                  "category": "natural",
+                  "coords": [
+                        -81.733422,
+                        12.536497
+                  ]
+            },
+            {
+                  "name": "Faro Punta Evans Cove",
+                  "text": "Ein strategisch wichtiger Leuchtturm, der Schiffen den Weg entlang der felsigen Westküste weist.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.735564,
+                        12.530667
+                  ]
+            },
+            {
+                  "name": "Mergulho san Andrés",
+                  "text": "Ein Tauchgebiet mit exzellenter Sicht, das zur Beobachtung tropischer Fische und Riffe einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.732872,
+                        12.538567
+                  ]
+            },
+            {
+                  "name": "Cueva de Morgan",
+                  "text": "Eine Korallenhöhle, in der der Legende nach der Pirat Henry Morgan seine Beute versteckte.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729216,
+                        12.542381
+                  ]
+            },
+            {
+                  "name": "Hoyo Soplador",
+                  "text": "Ein natürliches Loch im Korallengestein, das bei hoher Flut Meerwasser fontänenartig nach oben schießt.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.731107,
+                        12.481358
+                  ]
+            },
+            {
+                  "name": "La Mansion",
+                  "text": "Die Ruinen eines alten Inselanwesens, die von der vergangenen Kolonialzeit der Region erzählen.",
+                  "category": "historical",
+                  "coords": [
+                        -81.705502,
+                        12.55363
+                  ]
+            },
+            {
+                  "name": "Green Beach",
+                  "text": "Ein ruhiger Strand mit viel Vegetation und klarem, ruhigem Wasser in Türkistönen.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.704321,
+                        12.547952
+                  ]
+            },
+            {
+                  "name": "Cocoplum",
+                  "text": "Ein weißer Sandstrand mit sehr flachem Wasser, durch das man bequem zum Rocky Cay laufen kann.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.705775,
+                        12.542732
+                  ]
+            },
+            {
+                  "name": "Sound Bay",
+                  "text": "Ein friedlicher Strand mit feinem Sand, in dessen Nähe man traditionelle karibische Holzhäuser findet.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.713536,
+                        12.521553
+                  ]
+            },
+            {
+                  "name": "La Piscinita",
+                  "text": "Ein ruhiges, von Korallenwänden umschlossenes Naturbecken, ideal zum Schnorcheln mit Tropenfischen.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729634,
+                        12.50861
+                  ]
+            },
+            {
+                  "name": "Punta South End",
+                  "text": "Die felsige Südspitze der Insel, an der die Brandung des offenen Ozeans gegen die Küste prallt.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.728664,
+                        12.480631
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "Diese historische Holzkirche auf dem Hügel La Loma ist das älteste Bauwerk ihrer Art auf der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.71695,
+                        12.561914
+                  ]
+            },
+            {
+                  "name": "Iglesia del Padre Marcelino",
+                  "text": "Diese katholische Kirche im Viertel La Loma ist nach dem ersten einheimischen Priester des Archipels benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.71778,
+                        12.555171
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Immanuel",
+                  "text": "Diese traditionelle Baptistengemeinde spiegelt die tiefen protestantischen Wurzeln und das religiöse Erbe der Raizal-Bevölkerung wider.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.707589,
+                        12.539439
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Maria Estrella del Mar",
+                  "text": "Eine katholische Pfarrkirche, die Inselbewohnern und Besuchern in der ruhigen Umgebung von San Andrés dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.70802,
+                        12.537641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Museo Isleña",
+                  "text": "Hagyományos faház, amely szemléletesen mutatja be a raizal szigetlakók történelmét és kultúráját.",
+                  "category": "museum",
+                  "coords": [
+                        -81.729008,
+                        12.560124
+                  ]
+            },
+            {
+                  "name": "Mirador La Loma",
+                  "text": "A sziget legmagasabb pontja, ahonnan széles kilátás nyílik a „hétszínű tengerre”.",
+                  "category": "natural",
+                  "coords": [
+                        -81.717072,
+                        12.560404
+                  ]
+            },
+            {
+                  "name": "El Acuario",
+                  "text": "Természetes homokpad, ahol a látogatók a sekély vízben szelíd tüskés rájákkal búvárkodhatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.688752,
+                        12.552476
+                  ]
+            },
+            {
+                  "name": "Faro Cayo Córdoba",
+                  "text": "Kis világítótorony egy közeli korallzátonyon, tiszta trópusi vizekkel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.688737,
+                        12.550422
+                  ]
+            },
+            {
+                  "name": "Naufragio",
+                  "text": "Egy zátonyra futott hajó rozsdás maradványai, amelyek jól láthatóak a sekély karibi víz felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.701306,
+                        12.541217
+                  ]
+            },
+            {
+                  "name": "Yellow Moon",
+                  "text": "Homokos tengerpart, amely nyugodt légköréről és aranyszínű vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.708305,
+                        12.528791
+                  ]
+            },
+            {
+                  "name": "Sam Wrigth Hill",
+                  "text": "Tengerparti szakasz pálmákkal szegélyezett partokkal és a szigetre jellemző békés környezettel.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.724934,
+                        12.511106
+                  ]
+            },
+            {
+                  "name": "Faro Cove Rojo",
+                  "text": "Ez a világítótorony jelzi a sziget nyugati oldalán található védett öböl bejáratát.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729635,
+                        12.516
+                  ]
+            },
+            {
+                  "name": "Aquanautas",
+                  "text": "Látványosság, ahol speciális sisakban lehet sétálni a tengerfenéken a korallok között.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729055,
+                        12.520692
+                  ]
+            },
+            {
+                  "name": "Blue Cove",
+                  "text": "Mélyvízi öböl, amely népszerű a sziklaugrás és az intenzív sötétkék tengervíz miatt.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.728824,
+                        12.525633
+                  ]
+            },
+            {
+                  "name": "Fuente de mar",
+                  "text": "Kilátópont, ahol a hullámverés a szikláknak csapódva természetes szökőkút-hatást kelt.",
+                  "category": "natural",
+                  "coords": [
+                        -81.733422,
+                        12.536497
+                  ]
+            },
+            {
+                  "name": "Faro Punta Evans Cove",
+                  "text": "Stratégiailag fontos világítótorony, amely a sziklás nyugati part mentén mutatja az utat a hajóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.735564,
+                        12.530667
+                  ]
+            },
+            {
+                  "name": "Mergulho san Andrés",
+                  "text": "Kiváló látási viszonyokkal rendelkező merülőhely, amely trópusi halak és zátonyok megfigyelésére hívogat.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.732872,
+                        12.538567
+                  ]
+            },
+            {
+                  "name": "Cueva de Morgan",
+                  "text": "Korallbarlang, ahol a legenda szerint Henry Morgan kalóz rejtette el zsákmányát.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729216,
+                        12.542381
+                  ]
+            },
+            {
+                  "name": "Hoyo Soplador",
+                  "text": "Természetes nyílás a korallsziklában, amely dagálykor szökőkútszerűen lövelli felfelé a tengervizet.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.731107,
+                        12.481358
+                  ]
+            },
+            {
+                  "name": "La Mansion",
+                  "text": "Egy régi szigeti birtok romjai, amelyek a régió elmúlt gyarmati korszakáról mesélnek.",
+                  "category": "historical",
+                  "coords": [
+                        -81.705502,
+                        12.55363
+                  ]
+            },
+            {
+                  "name": "Green Beach",
+                  "text": "Nyugodt tengerpart dús növényzettel és tiszta, nyugodt türkizkék vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.704321,
+                        12.547952
+                  ]
+            },
+            {
+                  "name": "Cocoplum",
+                  "text": "Fehér homokos strand nagyon sekély vízzel, amelyen át kényelmesen át lehet sétálni a Rocky Cay-hez.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.705775,
+                        12.542732
+                  ]
+            },
+            {
+                  "name": "Sound Bay",
+                  "text": "Békés, finom homokos tengerpart, amelynek közelében hagyományos karibi faházak találhatók.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.713536,
+                        12.521553
+                  ]
+            },
+            {
+                  "name": "La Piscinita",
+                  "text": "Korallfalakkal körülvett nyugodt természetes medence, amely ideális a trópusi halakkal való búvárkodáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729634,
+                        12.50861
+                  ]
+            },
+            {
+                  "name": "Punta South End",
+                  "text": "A sziget sziklás déli csücske, ahol a nyílt óceán hullámai a partnak csapódnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.728664,
+                        12.480631
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "Ez a La Loma dombon található történelmi fatemplom a legidősebb ilyen jellegű építmény a szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.71695,
+                        12.561914
+                  ]
+            },
+            {
+                  "name": "Iglesia del Padre Marcelino",
+                  "text": "Ez a La Loma negyedben található katolikus templom a szigetcsoport első helyi származású papjáról kapta nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.71778,
+                        12.555171
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Immanuel",
+                  "text": "Ez a hagyományos baptista templom a Raizal nép mély protestáns gyökereit és vallási örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.707589,
+                        12.539439
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Maria Estrella del Mar",
+                  "text": "Katolikus plébániatemplom, amely a szigetlakókat és a látogatókat szolgálja San Andrés nyugodt környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.70802,
+                        12.537641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Museo Isleña",
+                  "text": "O casă tradițională din lemn care prezintă în mod viu istoria și cultura locuitorilor din Raizal.",
+                  "category": "museum",
+                  "coords": [
+                        -81.729008,
+                        12.560124
+                  ]
+            },
+            {
+                  "name": "Mirador La Loma",
+                  "text": "Cel mai înalt punct al insulei oferă o vedere largă asupra „Mării celor Șapte Culori”.",
+                  "category": "natural",
+                  "coords": [
+                        -81.717072,
+                        12.560404
+                  ]
+            },
+            {
+                  "name": "El Acuario",
+                  "text": "Un banc de nisip natural unde vizitatorii pot face snorkeling în apă puțin adâncă cu pisici de mare blânde.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.688752,
+                        12.552476
+                  ]
+            },
+            {
+                  "name": "Faro Cayo Córdoba",
+                  "text": "Un mic far situat pe un recif de corali din apropiere, înconjurat de ape tropicale clare.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.688737,
+                        12.550422
+                  ]
+            },
+            {
+                  "name": "Naufragio",
+                  "text": "Rămășițele ruginite ale unei nave eșuate, clar vizibile deasupra apei puțin adânci din Caraibe.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.701306,
+                        12.541217
+                  ]
+            },
+            {
+                  "name": "Yellow Moon",
+                  "text": "O zonă de plajă cu nisip, cunoscută pentru atmosfera relaxată și apele cu nuanțe aurii.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.708305,
+                        12.528791
+                  ]
+            },
+            {
+                  "name": "Sam Wrigth Hill",
+                  "text": "O porțiune de coastă cu țărmuri mărginite de palmieri și un mediu liniștit tipic insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.724934,
+                        12.511106
+                  ]
+            },
+            {
+                  "name": "Faro Cove Rojo",
+                  "text": "Acest far marchează intrarea într-un golf protejat de pe partea de vest a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729635,
+                        12.516
+                  ]
+            },
+            {
+                  "name": "Aquanautas",
+                  "text": "O atracție unde vizitatorii se plimbă pe fundul mării printre corali purtând căști speciale.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729055,
+                        12.520692
+                  ]
+            },
+            {
+                  "name": "Blue Cove",
+                  "text": "Un golf cu apă adâncă, popular pentru sărituri de pe stânci și culoarea albastru închis intens a mării.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.728824,
+                        12.525633
+                  ]
+            },
+            {
+                  "name": "Fuente de mar",
+                  "text": "Un punct de belvedere unde valurile creează un efect de fântână naturală lovindu-se de stânci.",
+                  "category": "natural",
+                  "coords": [
+                        -81.733422,
+                        12.536497
+                  ]
+            },
+            {
+                  "name": "Faro Punta Evans Cove",
+                  "text": "Un far strategic care indică drumul navelor de-a lungul coastei stâncoase de vest.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.735564,
+                        12.530667
+                  ]
+            },
+            {
+                  "name": "Mergulho san Andrés",
+                  "text": "O zonă de scufundări cu vizibilitate excelentă, ideală pentru observarea peștilor tropicali și a recifelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.732872,
+                        12.538567
+                  ]
+            },
+            {
+                  "name": "Cueva de Morgan",
+                  "text": "O peșteră de corali unde legenda spune că piratul Henry Morgan și-a ascuns prada.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729216,
+                        12.542381
+                  ]
+            },
+            {
+                  "name": "Hoyo Soplador",
+                  "text": "O gaură naturală în roca de coral care aruncă apa mării în sus sub formă de fântână la flux mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.731107,
+                        12.481358
+                  ]
+            },
+            {
+                  "name": "La Mansion",
+                  "text": "Ruinele unei vechi moșii de pe insulă, care povestesc despre epoca colonială apusă a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -81.705502,
+                        12.55363
+                  ]
+            },
+            {
+                  "name": "Green Beach",
+                  "text": "O plajă liniștită, cu multă vegetație și ape turcoaz clare și calme.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.704321,
+                        12.547952
+                  ]
+            },
+            {
+                  "name": "Cocoplum",
+                  "text": "O plajă cu nisip alb și apă foarte puțin adâncă, prin care se poate merge ușor până la Rocky Cay.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.705775,
+                        12.542732
+                  ]
+            },
+            {
+                  "name": "Sound Bay",
+                  "text": "O plajă liniștită cu nisip fin, în apropierea căreia se află case tradiționale din lemn din Caraibe.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.713536,
+                        12.521553
+                  ]
+            },
+            {
+                  "name": "La Piscinita",
+                  "text": "O piscină naturală calmă, închisă de pereți de corali, ideală pentru snorkeling cu pești tropicali.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729634,
+                        12.50861
+                  ]
+            },
+            {
+                  "name": "Punta South End",
+                  "text": "Vârful sudic stâncos al insulei, unde valurile oceanului deschis se izbesc de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.728664,
+                        12.480631
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "Această biserică istorică din lemn de pe dealul La Loma este cea mai veche construcție de acest tip de pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.71695,
+                        12.561914
+                  ]
+            },
+            {
+                  "name": "Iglesia del Padre Marcelino",
+                  "text": "Această biserică catolică din zona La Loma este numită după primul preot nativ din arhipelag.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.71778,
+                        12.555171
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Immanuel",
+                  "text": "Această biserică baptistă tradițională reflectă rădăcinile protestante profunde și moștenirea religioasă a populației Raizal.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.707589,
+                        12.539439
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Maria Estrella del Mar",
+                  "text": "O biserică parohială catolică ce deservește localnicii și vizitatorii în împrejurimile liniștite din San Andrés.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.70802,
+                        12.537641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Museo Isleña",
+                  "text": "A traditional wooden house showcasing the history and culture of the Raizal islanders.",
+                  "category": "museum",
+                  "coords": [
+                        -81.729008,
+                        12.560124
+                  ]
+            },
+            {
+                  "name": "Viewpoint La Loma",
+                  "text": "The island's highest elevation point offering a wide view of the surrounding \"Sea of Seven Colors.\"",
+                  "category": "natural",
+                  "coords": [
+                        -81.717072,
+                        12.560404
+                  ]
+            },
+            {
+                  "name": "El Acuario",
+                  "text": "A natural sandbar where visitors can snorkel in shallow water with friendly stingrays.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.688752,
+                        12.552476
+                  ]
+            },
+            {
+                  "name": "Faro Cayo Córdoba",
+                  "text": "A small lighthouse on a nearby coral cay surrounded by clear tropical waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.688737,
+                        12.550422
+                  ]
+            },
+            {
+                  "name": "Shipwreck",
+                  "text": "The rusty remains of a stranded ship clearly visible above the shallow Caribbean waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.701306,
+                        12.541217
+                  ]
+            },
+            {
+                  "name": "Yellow Moon",
+                  "text": "A sandy beach area known for its relaxed atmosphere and golden-hued waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.708305,
+                        12.528791
+                  ]
+            },
+            {
+                  "name": "Sam Wrigth Hill",
+                  "text": "A coastal stretch featuring palm-lined shores and a peaceful environment typical of the island.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.724934,
+                        12.511106
+                  ]
+            },
+            {
+                  "name": "Faro Cove Rojo",
+                  "text": "This lighthouse marks the entrance to a sheltered cove on the island's western side.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729635,
+                        12.516
+                  ]
+            },
+            {
+                  "name": "Aquanautas",
+                  "text": "An attraction where visitors walk on the seabed among corals wearing specialized helmets.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729055,
+                        12.520692
+                  ]
+            },
+            {
+                  "name": "Blue Cove",
+                  "text": "A deep-water cove popular for cliff diving and its intensely dark blue sea water.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.728824,
+                        12.525633
+                  ]
+            },
+            {
+                  "name": "Fuente de mar",
+                  "text": "A coastal viewpoint where the surf creates a natural fountain effect against the rocks.",
+                  "category": "natural",
+                  "coords": [
+                        -81.733422,
+                        12.536497
+                  ]
+            },
+            {
+                  "name": "Faro Punta Evans Cove",
+                  "text": "A strategically important lighthouse guiding ships along the rocky western coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.735564,
+                        12.530667
+                  ]
+            },
+            {
+                  "name": "Mergulho san Andrés",
+                  "text": "A diving area with excellent visibility, perfect for observing tropical fish and reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.732872,
+                        12.538567
+                  ]
+            },
+            {
+                  "name": "Cueva de Morgan",
+                  "text": "A coral cavern where legend says the pirate Henry Morgan hid his plunder.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729216,
+                        12.542381
+                  ]
+            },
+            {
+                  "name": "Hoyo Soplador",
+                  "text": "A natural hole in the coral rock that shoots seawater upwards like a fountain at high tide.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.731107,
+                        12.481358
+                  ]
+            },
+            {
+                  "name": "La Mansion",
+                  "text": "The ruins of an old island estate that tell of the region's past colonial era.",
+                  "category": "historical",
+                  "coords": [
+                        -81.705502,
+                        12.55363
+                  ]
+            },
+            {
+                  "name": "Green Beach",
+                  "text": "A tranquil beach featuring lush vegetation and clear, calm turquoise waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.704321,
+                        12.547952
+                  ]
+            },
+            {
+                  "name": "Cocoplum",
+                  "text": "A white sand beach with very shallow water, allowing for an easy walk to Rocky Cay.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.705775,
+                        12.542732
+                  ]
+            },
+            {
+                  "name": "Sound Bay",
+                  "text": "A peaceful beach with fine sand, with traditional Caribbean wooden houses located nearby.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.713536,
+                        12.521553
+                  ]
+            },
+            {
+                  "name": "La Piscinita",
+                  "text": "A calm natural pool enclosed by coral walls, ideal for snorkeling with tropical fish.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.729634,
+                        12.50861
+                  ]
+            },
+            {
+                  "name": "Punta South End",
+                  "text": "The rocky southern tip of the island where the open ocean surf crashes against the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.728664,
+                        12.480631
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "This historic wooden church on La Loma hill is the oldest structure of its kind on the island.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.71695,
+                        12.561914
+                  ]
+            },
+            {
+                  "name": "Iglesia del Padre Marcelino",
+                  "text": "This Catholic church in the La Loma area is named after the first native priest of the archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.71778,
+                        12.555171
+                  ]
+            },
+            {
+                  "name": "Immanuel Baptist Church",
+                  "text": "This traditional Baptist church reflects the deep Protestant roots and religious heritage of the island's Raizal people.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.707589,
+                        12.539439
+                  ]
+            },
+            {
+                  "name": "St Mary Star of the Sea Catholic Church",
+                  "text": "A Catholic parish church serving the islanders and visitors in the serene surroundings of San Andrés.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.70802,
+                        12.537641
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CO-SAP",
     coords: [-81.7006, 12.5511],
@@ -1023,7 +5640,196 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "tayrona-national-park-nature-v2",
+    id: "tayrona-national-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "La cima",
+                  "text": "Hochgelegener Aussichtspunkt mit Panorama auf die Ausläufer der Sierra Nevada und den Ozean.",
+                  "category": "natural",
+                  "coords": [
+                        -73.998703,
+                        11.304267
+                  ]
+            },
+            {
+                  "name": "Piedra de Donama",
+                  "text": "Ein riesiger antiker Stein, der mit komplexen präkolumbianischen Petroglyphen verziert ist.",
+                  "category": "historical",
+                  "coords": [
+                        -74.035972,
+                        11.232376
+                  ]
+            },
+            {
+                  "name": "Playa Palmarito",
+                  "text": "Abgelegener, wilder Strand, der als wichtiger Nistplatz für Meeresschildkröten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.009585,
+                        11.339053
+                  ]
+            },
+            {
+                  "name": "Playa Guachaquita",
+                  "text": "Verstecktes Küstenjuwel, das nur über eine anspruchsvolle Dschungelwanderung erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.031647,
+                        11.340978
+                  ]
+            },
+            {
+                  "name": "Bunkuany",
+                  "text": "Kürzlich freigelegte archäologische Stätte mit gut erhaltenen Steinwegen und Fundamenten.",
+                  "category": "historical",
+                  "coords": [
+                        -73.9875,
+                        11.245914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La cima",
+                  "text": "Magasan fekvő kilátópont, ahonnan panoráma nyílik a Sierra Nevada lábaira és az óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.998703,
+                        11.304267
+                  ]
+            },
+            {
+                  "name": "Piedra de Donama",
+                  "text": "Hatalmas ősi sziklatömb, amelyet bonyolult, kolumbusz előtti sziklarajzok díszítenek.",
+                  "category": "historical",
+                  "coords": [
+                        -74.035972,
+                        11.232376
+                  ]
+            },
+            {
+                  "name": "Playa Palmarito",
+                  "text": "Távoli, vadregényes tengerpart, amely a tengeri teknősök fontos fészkelőhelyeként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.009585,
+                        11.339053
+                  ]
+            },
+            {
+                  "name": "Playa Guachaquita",
+                  "text": "Rejtett tengerparti ékszerdoboz, amely csak nehéz dzsungeltúra árán érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.031647,
+                        11.340978
+                  ]
+            },
+            {
+                  "name": "Bunkuany",
+                  "text": "Nemrég feltárt régészeti lelőhely jól megőrzött kőutakkal és alapfalakkal.",
+                  "category": "historical",
+                  "coords": [
+                        -73.9875,
+                        11.245914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La cima",
+                  "text": "Punct de observație la înălțime, oferind o panoramă asupra poalelor Sierra Nevada și a oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        -73.998703,
+                        11.304267
+                  ]
+            },
+            {
+                  "name": "Piedra de Donama",
+                  "text": "O piatră antică uriașă decorată cu petroglife precolumbiene complexe.",
+                  "category": "historical",
+                  "coords": [
+                        -74.035972,
+                        11.232376
+                  ]
+            },
+            {
+                  "name": "Playa Palmarito",
+                  "text": "Plajă sălbatică și izolată, cunoscută ca loc de cuibărit pentru țestoasele marine.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.009585,
+                        11.339053
+                  ]
+            },
+            {
+                  "name": "Playa Guachaquita",
+                  "text": "O bijuterie de coastă ascunsă, accesibilă printr-o drumeție dificilă prin junglă.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.031647,
+                        11.340978
+                  ]
+            },
+            {
+                  "name": "Bunkuany",
+                  "text": "Situl arheologic recent descoperit, cu drumuri și fundații din piatră bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        -73.9875,
+                        11.245914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La cima",
+                  "text": "High-elevation viewpoint providing a panorama of the Sierra Nevada foothills and the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -73.998703,
+                        11.304267
+                  ]
+            },
+            {
+                  "name": "Piedra de Donama",
+                  "text": "An enormous ancient stone carved with intricate pre-Columbian petroglyphs.",
+                  "category": "historical",
+                  "coords": [
+                        -74.035972,
+                        11.232376
+                  ]
+            },
+            {
+                  "name": "Playa Palmarito",
+                  "text": "Remote and wild beach known as a significant nesting site for sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.009585,
+                        11.339053
+                  ]
+            },
+            {
+                  "name": "Playa Guachaquita",
+                  "text": "Hidden coastal gem accessible via a challenging jungle hike or by sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.031647,
+                        11.340978
+                  ]
+            },
+            {
+                  "name": "Bunkuany",
+                  "text": "Recently uncovered archaeological site with well-preserved stone roads and foundations.",
+                  "category": "historical",
+                  "coords": [
+                        -73.9875,
+                        11.245914
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CO-MAG",
     coords: [-73.9667, 11.2833],
@@ -1099,7 +5905,448 @@ export const poiExtraColombiaNatureV2: POI[] = [
     },
   },
   {
-    id: "pacific-ocean-colombia-nature-v2",
+    id: "pacific-ocean-colombia-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Jicaralito",
+                  "text": "Abgelegener, dschungelgesäumter Strand mit dunklem Sand an der Pazifikküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.495947,
+                        5.476307
+                  ]
+            },
+            {
+                  "name": "Cabo Corrientes",
+                  "text": "Markantes Kap, das weite Ausblicke auf migrierende Wale im Pazifik bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -77.539389,
+                        5.480561
+                  ]
+            },
+            {
+                  "name": "Playa Jagua",
+                  "text": "Einsamer Pazifikstrand inmitten des dichten tropischen Regenwaldes des Chocó.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.450588,
+                        5.485717
+                  ]
+            },
+            {
+                  "name": "Playa Babosa",
+                  "text": "Schmaler Sandstreifen zwischen den bewaldeten Bergen und dem offenen Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.506994,
+                        5.548438
+                  ]
+            },
+            {
+                  "name": "Playa Brava",
+                  "text": "Wilder Strand, der für seine starken Wellen und seine unberührte Natur bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.506686,
+                        5.564904
+                  ]
+            },
+            {
+                  "name": "Playa Majagual",
+                  "text": "Idyllischer Strand am Pazifik, der von tropischen Palmen und Majagua-Bäumen gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.507765,
+                        5.531208
+                  ]
+            },
+            {
+                  "name": "Playa El Partido",
+                  "text": "Abgelegener Küstenstreifen, an dem der Regenwald direkt auf die Flut des Pazifiks trifft.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.523982,
+                        5.503048
+                  ]
+            },
+            {
+                  "name": "Playa Verde",
+                  "text": "Tropischer Strand, der durch das dichte grüne Blätterdach des Chocó-Dschungels geprägt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.484242,
+                        5.481096
+                  ]
+            },
+            {
+                  "name": "Playa Tortuga",
+                  "text": "Geschützter Strandabschnitt, der als wichtiger Lebensraum für nistende Meeresschildkröten dient.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.472379,
+                        5.489656
+                  ]
+            },
+            {
+                  "name": "Playa Parguera",
+                  "text": "Kleine Fischerbucht an der zerklüfteten und wilden Pazifikküste von Chocó.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.463932,
+                        5.489705
+                  ]
+            },
+            {
+                  "name": "Playa Ballena",
+                  "text": "Idealer Ort für die Walbeobachtung von der Küste aus während der Migrationsmonate.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.444273,
+                        5.480717
+                  ]
+            },
+            {
+                  "name": "Playa Cuevita",
+                  "text": "Ausgedehnter dunkler Sandstrand, der für Projekte zum Schutz von Bastardschildkröten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.440305,
+                        5.478225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Jicaralito",
+                  "text": "Eldugott, dzsungellel övezett sötét homokos part a csendes-óceáni vidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.495947,
+                        5.476307
+                  ]
+            },
+            {
+                  "name": "Cabo Corrientes",
+                  "text": "Jellegzetes fok, ahonnan pazar kilátás nyílik az óceánra és a vonuló bálnákra.",
+                  "category": "natural",
+                  "coords": [
+                        -77.539389,
+                        5.480561
+                  ]
+            },
+            {
+                  "name": "Playa Jagua",
+                  "text": "Magányos csendes-óceáni strand a Chocó sűrű trópusi esőerdejének mélyén.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.450588,
+                        5.485717
+                  ]
+            },
+            {
+                  "name": "Playa Babosa",
+                  "text": "Keskeny homoksáv az erdős hegyek és a nyílt óceán között.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.506994,
+                        5.548438
+                  ]
+            },
+            {
+                  "name": "Playa Brava",
+                  "text": "Vadregényes tengerpart, amely erős hullámairól és érintetlen természetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.506686,
+                        5.564904
+                  ]
+            },
+            {
+                  "name": "Playa Majagual",
+                  "text": "Idyllikus csendes-óceáni part, amelyet trópusi pálmák és majagua-fák szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.507765,
+                        5.531208
+                  ]
+            },
+            {
+                  "name": "Playa El Partido",
+                  "text": "Elszigetelt tengerpart, ahol az esőerdő közvetlenül találkozik az óceán árapályával.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.523982,
+                        5.503048
+                  ]
+            },
+            {
+                  "name": "Playa Verde",
+                  "text": "Trópusi tengerpart, amelyet a Chocó-dzsungel sűrű zöld lombkoronája határoz meg.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.484242,
+                        5.481096
+                  ]
+            },
+            {
+                  "name": "Playa Tortuga",
+                  "text": "Védett tengerparti szakasz, amely a fészkelő tengeri teknősök fontos élőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.472379,
+                        5.489656
+                  ]
+            },
+            {
+                  "name": "Playa Parguera",
+                  "text": "Kis halászöböl Chocó tagolt és vadregényes csendes-óceáni partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.463932,
+                        5.489705
+                  ]
+            },
+            {
+                  "name": "Playa Ballena",
+                  "text": "Kiváló hely a part menti bálnalesre a vonulási hónapok idején.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.444273,
+                        5.480717
+                  ]
+            },
+            {
+                  "name": "Playa Cuevita",
+                  "text": "Hosszú, sötét homokos part, amely a fattyúteknősök védelméről és mentéséről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.440305,
+                        5.478225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Jicaralito",
+                  "text": "Plajă izolată mărginită de junglă, cu nisip negru, pe coasta Pacificului.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.495947,
+                        5.476307
+                  ]
+            },
+            {
+                  "name": "Cabo Corrientes",
+                  "text": "Cap proeminent ce oferă vederi panoramice asupra Pacificului și balenelor în migrație.",
+                  "category": "natural",
+                  "coords": [
+                        -77.539389,
+                        5.480561
+                  ]
+            },
+            {
+                  "name": "Playa Jagua",
+                  "text": "Plajă retrasă la Pacific, înconjurată de jungla tropicală densă din regiunea Chocó.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.450588,
+                        5.485717
+                  ]
+            },
+            {
+                  "name": "Playa Babosa",
+                  "text": "Fâșie îngustă de nisip situată între munții împăduriți și oceanul deschis.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.506994,
+                        5.548438
+                  ]
+            },
+            {
+                  "name": "Playa Brava",
+                  "text": "Plajă sălbatică, cunoscută pentru valurile sale puternice și cadrul natural nealterat.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.506686,
+                        5.564904
+                  ]
+            },
+            {
+                  "name": "Playa Majagual",
+                  "text": "Plajă idilică la Pacific, umbrită de palmiere tropicale și arbori majagua.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.507765,
+                        5.531208
+                  ]
+            },
+            {
+                  "name": "Playa El Partido",
+                  "text": "Fâșie de coastă izolată, unde pădurea tropicală întâlnește direct mareea Pacificului.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.523982,
+                        5.503048
+                  ]
+            },
+            {
+                  "name": "Playa Verde",
+                  "text": "Plajă tropicală definită de coronamentul verde și dens al junglei din Chocó.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.484242,
+                        5.481096
+                  ]
+            },
+            {
+                  "name": "Playa Tortuga",
+                  "text": "Zonă de plajă protejată, servind drept habitat vital pentru cuibăritul țestoaselor marine.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.472379,
+                        5.489656
+                  ]
+            },
+            {
+                  "name": "Playa Parguera",
+                  "text": "Mic golf de pescari pe coasta accidentată și sălbatică a Pacificului din Chocó.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.463932,
+                        5.489705
+                  ]
+            },
+            {
+                  "name": "Playa Ballena",
+                  "text": "Loc ideal pentru observarea balenelor de pe coastă în lunile de migrație.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.444273,
+                        5.480717
+                  ]
+            },
+            {
+                  "name": "Playa Cuevita",
+                  "text": "Plajă întinsă cu nisip negru, celebră pentru eforturile de conservare a țestoaselor olivacee.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.440305,
+                        5.478225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Jicaralito",
+                  "text": "Remote jungle-backed beach with dark volcanic sand on the Pacific coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.495947,
+                        5.476307
+                  ]
+            },
+            {
+                  "name": "Cabo Corrientes",
+                  "text": "Prominent cape offering panoramic views of the Pacific and migrating whales.",
+                  "category": "natural",
+                  "coords": [
+                        -77.539389,
+                        5.480561
+                  ]
+            },
+            {
+                  "name": "Playa Jagua",
+                  "text": "Secluded Pacific beach surrounded by the dense tropical rainforest of Chocó.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.450588,
+                        5.485717
+                  ]
+            },
+            {
+                  "name": "Playa Babosa",
+                  "text": "Narrow strip of sand nestled between the forested mountains and the open ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.506994,
+                        5.548438
+                  ]
+            },
+            {
+                  "name": "Playa Brava",
+                  "text": "Wild beach known for its powerful waves and untouched natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.506686,
+                        5.564904
+                  ]
+            },
+            {
+                  "name": "Playa Majagual",
+                  "text": "Idyllic Pacific beach lined with tropical palms and majagua trees.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.507765,
+                        5.531208
+                  ]
+            },
+            {
+                  "name": "Playa El Partido",
+                  "text": "Isolated coastal stretch where the rainforest meets the Pacific tide.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.523982,
+                        5.503048
+                  ]
+            },
+            {
+                  "name": "Playa Verde",
+                  "text": "Tropical beach defined by the dense green canopy of the Chocó jungle.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.484242,
+                        5.481096
+                  ]
+            },
+            {
+                  "name": "Playa Tortuga",
+                  "text": "Protected beach area serving as a vital habitat for nesting sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.472379,
+                        5.489656
+                  ]
+            },
+            {
+                  "name": "Playa Parguera",
+                  "text": "Small fishing cove on the rugged and wild Pacific coast of Chocó.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.463932,
+                        5.489705
+                  ]
+            },
+            {
+                  "name": "Playa Ballena",
+                  "text": "Ideal spot for coastal whale watching during the migration months.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.444273,
+                        5.480717
+                  ]
+            },
+            {
+                  "name": "Playa Cuevita",
+                  "text": "Long dark-sand beach famous for Olive Ridley sea turtle conservation efforts.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.440305,
+                        5.478225
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "CO-CHO",
     coords: [-77.5, 5.5],

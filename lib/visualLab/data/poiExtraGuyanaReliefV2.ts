@@ -68,7 +68,124 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       pt: ["Localizado no centro-oeste da Guiana.", "Parte do Escudo das Guianas.", "Terreno de difícil acesso.", "Habitat importante para táxones de montanha."],
       fr: ["Situé dans le centre-ouest du Guyana.", "Fait partie du bouclier guyanais.", "Terrain difficile d'accès.", "Habitat important pour les taxons de montagne."],
     }, image: "/poi-images/mount-kopinang-relief-v2.webp"}, {
-    id: "mount-wating-relief-v2",
+    id: "mount-wating-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Catchment 1",
+                  "text": "Von diesem erhöhten Aussichtspunkt über dem Wassereinzugsgebiet können Besucher das raue natürliche Entwässerungssystem des Berggebiets beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -59.45211,
+                        3.555835
+                  ]
+            },
+            {
+                  "name": "Shortcut road to nappi",
+                  "text": "Dieser Ort bietet einen Panoramablick entlang des unebenen Feldwegs und blickt auf die Savannenlandschaft, die zum abgelegenen Dorf Nappi führt.",
+                  "category": "natural",
+                  "coords": [
+                        -59.548787,
+                        3.494818
+                  ]
+            },
+            {
+                  "name": "Village Centre.",
+                  "text": "Ein malerischer Aussichtspunkt, der einen Panoramablick auf die Struktur des örtlichen Dorfes nahe des Mount Wating bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.442532,
+                        3.538142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catchment 1",
+                  "text": "Ebből a vízgyűjtő feletti magaslati kilátóból a látogatók megfigyelhetik a hegyvidéki terep zord természetes vízelvezető rendszerét.",
+                  "category": "natural",
+                  "coords": [
+                        -59.45211,
+                        3.555835
+                  ]
+            },
+            {
+                  "name": "Shortcut road to nappi",
+                  "text": "A zord földút mentén panorámás kilátást nyújtó hely a Nappi távoli faluja felé vezető szavanna-területekre tekint le.",
+                  "category": "natural",
+                  "coords": [
+                        -59.548787,
+                        3.494818
+                  ]
+            },
+            {
+                  "name": "Village Centre.",
+                  "text": "Festői kilátó, amely panorámás rálátást nyújt a helyi falu elrendezésére a Mount Wating közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -59.442532,
+                        3.538142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catchment 1",
+                  "text": "De pe acest punct de observație înalt deasupra bazinului hidrografic, vizitatorii pot observa sistemul natural și accidentat de drenaj al terenului montan.",
+                  "category": "natural",
+                  "coords": [
+                        -59.45211,
+                        3.555835
+                  ]
+            },
+            {
+                  "name": "Shortcut road to nappi",
+                  "text": "Oferind o vedere panoramică de-a lungul traseului de pământ accidentat, acest loc are vedere la întinderile de savană care duc spre satul îndepărtat Nappi.",
+                  "category": "natural",
+                  "coords": [
+                        -59.548787,
+                        3.494818
+                  ]
+            },
+            {
+                  "name": "Village Centre.",
+                  "text": "Un punct de belvedere pitoresc care oferă o panoramă asupra structurii satului local din apropierea Mount Wating.",
+                  "category": "natural",
+                  "coords": [
+                        -59.442532,
+                        3.538142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Catchment 1",
+                  "text": "From this elevated vantage point over the water catchment, visitors can observe the rugged natural drainage system of the mountain terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -59.45211,
+                        3.555835
+                  ]
+            },
+            {
+                  "name": "Shortcut road to nappi",
+                  "text": "Providing a panoramic view along the rugged dirt trail, this spot overlooks the savannah stretches leading toward the remote village of Nappi.",
+                  "category": "natural",
+                  "coords": [
+                        -59.548787,
+                        3.494818
+                  ]
+            },
+            {
+                  "name": "Village Centre.",
+                  "text": "A scenic viewpoint providing a panoramic look over the local village layout near Mount Wating.",
+                  "category": "natural",
+                  "coords": [
+                        -59.442532,
+                        3.538142
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GY-UT",
     coords: [-59.50, 3.50],
@@ -671,7 +788,52 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       fr: ["L'altitude officielle du sommet du mont Tulameng est de 1 535 mètres.", "Il appartient au groupe Pakaraima dans l'ouest du Guyana.", "La montagne se compose principalement de roches sédimentaires précambriennes.", "Il est situé dans le bassin versant du système fluvial Mazaruni.", "Diverses espèces d'oiseaux rares vivent dans la région, dont le coq-de-roche orange.", "Les températures au sommet peuvent descendre en dessous de 15 degrés Celsius la nuit."],
     },
   }, {
-    id: "mount-maringma-relief-v2",
+    id: "mount-maringma-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maringma Tepui",
+                  "text": "Der Maringma Tepui ist ein abgelegener Tafelberg im Grenzgebiet, der durch extrem steile Flanken und ein endemisch reiches Hochplateau charakterisiert wird.",
+                  "category": "natural",
+                  "coords": [
+                        -60.583325,
+                        5.216677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maringma Tepui",
+                  "text": "A Maringma Tepui egy távoli táblahegy a határvidéken, amelyet rendkívül meredek lejtők és egy endemikus fajokban gazdag fennsík jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -60.583325,
+                        5.216677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maringma Tepui",
+                  "text": "Maringma Tepui este un munte cu vârf plat izolat în zona de graniță, caracterizat prin flancuri extrem de abrupte și un platou înalt bogat în specii endemice.",
+                  "category": "natural",
+                  "coords": [
+                        -60.583325,
+                        5.216677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maringma Tepui",
+                  "text": "The Maringma Tepui is a remote flat-topped mountain in the border region, characterized by extremely steep flanks and an endemically rich high plateau.",
+                  "category": "natural",
+                  "coords": [
+                        -60.583325,
+                        5.216677
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GY-CU",
     coords: [-60.50, 5.20],
@@ -1140,7 +1302,52 @@ export const poiExtraGuyanaReliefV2: POI[] = [ {
       fr: ["La savane couvre une superficie totale d'environ 13 000 km².", "Les monts Kanuku divisent géographiquement la région en deux moitiés.", "Plus de 1 500 espèces végétales ont été documentées dans cet écosystème.", "La saison des pluies dure généralement de mai à août.", "La zone abrite l'une des plus grandes populations de loutres géantes au monde.", "L'élevage a été introduit au XIXe siècle par des colons européens."],
     },
   }, {
-    id: "white-sand-plateau-relief-v2",
+    id: "white-sand-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "15 Miles",
+                  "text": "Ein erhöhter Punkt auf dem weißen Sandplateau mit Blick auf die hügelige, buschbewachsene Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -58.238812,
+                        5.807643
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "15 Miles",
+                  "text": "Magaslati pont a fehér homokos fennsíkon, ahonnan kilátás nyílik a hullámzó, bozótos tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.238812,
+                        5.807643
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "15 Miles",
+                  "text": "Un punct înalt pe platoul de nisip alb, oferind vedere spre peisajul deluros acoperit de tufișuri.",
+                  "category": "natural",
+                  "coords": [
+                        -58.238812,
+                        5.807643
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "15 Miles",
+                  "text": "A high point on the white sand plateau offering views of the rolling, scrub-covered landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -58.238812,
+                        5.807643
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GY-UD",
     coords: [-58.20, 5.80],

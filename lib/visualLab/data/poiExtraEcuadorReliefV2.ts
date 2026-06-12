@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraEcuadorReliefV2: POI[] = [
   {
-    id: "ecuador-reventador-relief-v2",
+    id: "ecuador-reventador-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascada San Rafael",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf das Relief des Vulkans Reventador nahe dem ehemaligen San-Rafael-Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        -77.581227,
+                        -0.099461
+                  ]
+            },
+            {
+                  "name": "Former San Rafael Cascada",
+                  "text": "Die einst höchste Kaskade Ecuadors stürzte 2020 durch ein Erdloch ein und veränderte die Landschaft am Reventador nachhaltig.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.581217,
+                        -0.103616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascada San Rafael",
+                  "text": "Ez a kilátó a Reventador vulkán domborzatára és a korábbi San Rafael-vízesés helyére nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        -77.581227,
+                        -0.099461
+                  ]
+            },
+            {
+                  "name": "Former San Rafael Cascada",
+                  "text": "Ecuador egykor legmagasabb vízesése 2020-ban egy víznyelő miatt beomlott, tartósan megváltoztatva a tájat.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.581217,
+                        -0.103616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascada San Rafael",
+                  "text": "Acest punct de belvedere oferă o panoramă asupra reliefului vulcanului Reventador și a fostei cascade San Rafael.",
+                  "category": "natural",
+                  "coords": [
+                        -77.581227,
+                        -0.099461
+                  ]
+            },
+            {
+                  "name": "Former San Rafael Cascada",
+                  "text": "Cândva cea mai înaltă cascadă din Ecuador, aceasta s-a prăbușit în 2020 din cauza unei doline, modificând peisajul.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.581217,
+                        -0.103616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascada San Rafael",
+                  "text": "This viewpoint offers a vista over the Reventador volcano relief near the site of the former San Rafael Waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -77.581227,
+                        -0.099461
+                  ]
+            },
+            {
+                  "name": "Former San Rafael Cascada",
+                  "text": "Once the tallest waterfall in Ecuador, it dramatically collapsed in 2020 due to a sinkhole, altering the river's course.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.581217,
+                        -0.103616
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-N",
     coords: [-77.65, -0.07],
@@ -51,7 +132,160 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       fr: ["L'altitude est de 3 562 mètres.", "Il est situé à l'écart, dans une zone de forêt tropicale dense.", "Une éruption massive a eu lieu en 2002.", "Son nom signifie 'Celui qui explose' ou 'Le Destructeur' en espagnol."],
     }, image: "/poi-images/ecuador-reventador-relief-v2.webp"},
   {
-    id: "ecuador-carihuairazo-relief-v2",
+    id: "ecuador-carihuairazo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tzunantza",
+                  "text": "Ein anerkannter Andengipfel, der zum dramatischen Relief des Vulkangebiets Carihuairazo beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.733333,
+                        -1.366667
+                  ]
+            },
+            {
+                  "name": "Cruzmaqui",
+                  "text": "Ein markanter Berggipfel, der sich prominent in der rauen Carihuairazo-Landschaft erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.7,
+                        -1.35
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Lucía Arriba Bellavista",
+                  "text": "Eine hochgelegene katholische Kirche, die der Gemeinde von Santa Lucía Arriba Bellavista dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.67881,
+                        -1.369107
+                  ]
+            },
+            {
+                  "name": "Yatzaputzán",
+                  "text": "Ein lokaler Markt, der die hochgelegenen andinen Gemeinden im Carihuairazo-Gebiet versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.790677,
+                        -1.320219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tzunantza",
+                  "text": "Egy elismert andesi csúcs, amely hozzájárul a Carihuairazo vulkáni terület drámai domborzatához.",
+                  "category": "natural",
+                  "coords": [
+                        -78.733333,
+                        -1.366667
+                  ]
+            },
+            {
+                  "name": "Cruzmaqui",
+                  "text": "Egy nevezetes hegycsúcs, amely kiemelkedően magasodik a zord Carihuairazo tájból.",
+                  "category": "natural",
+                  "coords": [
+                        -78.7,
+                        -1.35
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Lucía Arriba Bellavista",
+                  "text": "Egy magasan fekvő katolikus templom, amely Santa Lucía Arriba Bellavista közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.67881,
+                        -1.369107
+                  ]
+            },
+            {
+                  "name": "Yatzaputzán",
+                  "text": "Egy helyi piac, amely a Carihuairazo térség magasan fekvő andesi közösségeit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.790677,
+                        -1.320219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tzunantza",
+                  "text": "Un vârf andin recunoscut care contribuie la relieful dramatic al zonei vulcanice Carihuairazo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.733333,
+                        -1.366667
+                  ]
+            },
+            {
+                  "name": "Cruzmaqui",
+                  "text": "Un vârf de munte notabil care se înalță proeminent în peisajul accidentat Carihuairazo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.7,
+                        -1.35
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Lucía Arriba Bellavista",
+                  "text": "O biserică catolică de mare altitudine care deservește comunitatea din Santa Lucía Arriba Bellavista.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.67881,
+                        -1.369107
+                  ]
+            },
+            {
+                  "name": "Yatzaputzán",
+                  "text": "Un magazin local care deservește comunitățile andine de mare altitudine din zona Carihuairazo.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.790677,
+                        -1.320219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tzunantza",
+                  "text": "A recognised Andean peak contributing to the dramatic relief of the Carihuairazo volcanic area.",
+                  "category": "natural",
+                  "coords": [
+                        -78.733333,
+                        -1.366667
+                  ]
+            },
+            {
+                  "name": "Cruzmaqui",
+                  "text": "A notable mountain summit rising prominently within the rugged Carihuairazo landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.7,
+                        -1.35
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Lucía Arriba Bellavista",
+                  "text": "A high-altitude Catholic church serving the community of Santa Lucía Arriba Bellavista.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.67881,
+                        -1.369107
+                  ]
+            },
+            {
+                  "name": "Yatzaputzán",
+                  "text": "A local market serving the high-altitude Andean communities in the Carihuairazo area.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.790677,
+                        -1.320219
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-T",
     coords: [-78.75, -1.4],
@@ -99,7 +333,88 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       fr: ["Le point culminant se situe à 5 018 mètres.", "La plupart de ses anciens glaciers ont disparu.", "C'est une destination populaire pour l'acclimatation des alpinistes.", "La montagne appartient à la Cordillère Occidentale des Andes."],
     }, image: "/poi-images/ecuador-carihuairazo-relief-v2.webp"},
   {
-    id: "ecuador-sincholagua-relief-v2",
+    id: "ecuador-sincholagua-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Isco",
+                  "text": "Dieser Aussichtspunkt liegt im rauen Gelände in der Nähe von Sincholagua und bietet weitreichende Panoramen auf die umliegenden Andengipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -78.319283,
+                        -0.45794
+                  ]
+            },
+            {
+                  "name": "Hacienda Pullurima",
+                  "text": "Diese historische Anden-Hazienda in der Nähe von Sincholagua präsentiert das traditionelle landwirtschaftliche Erbe der Region vor einer bergigen Kulisse.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.28953,
+                        -0.529549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Isco",
+                  "text": "A Sincholagua melletti zord terepen fekvő kilátó lenyűgöző panorámát nyújt a környező andoki csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        -78.319283,
+                        -0.45794
+                  ]
+            },
+            {
+                  "name": "Hacienda Pullurima",
+                  "text": "Ez a Sincholagua közelében fekvő történelmi andoki hacienda a régió hagyományos mezőgazdasági örökségét mutatja be egy hegyvidéki háttér előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.28953,
+                        -0.529549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Isco",
+                  "text": "Cocoțat pe terenul accidentat din apropiere de Sincholagua, acest punct de belvedere pitoresc oferă panorame ample ale vârfurilor andine din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -78.319283,
+                        -0.45794
+                  ]
+            },
+            {
+                  "name": "Hacienda Pullurima",
+                  "text": "Această hacienda andină istorică din apropiere de Sincholagua prezintă moștenirea agricolă tradițională a regiunii, pe un fundal muntos.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.28953,
+                        -0.529549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Isco",
+                  "text": "Perched in the rugged terrain near Sincholagua, this scenic viewpoint offers sweeping panoramas of the surrounding Andean peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -78.319283,
+                        -0.45794
+                  ]
+            },
+            {
+                  "name": "Hacienda Pullurima",
+                  "text": "This historic Andean hacienda near Sincholagua showcases the region's traditional agricultural heritage against a mountainous backdrop.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.28953,
+                        -0.529549
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-P",
     coords: [-78.36, -0.53],
@@ -147,7 +462,484 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       fr: ["L'altitude du sommet atteint 4 893 mètres.", "Le volcan a perdu ses glaciers permanents.", "Il fait partie de l'allée des volcans.", "L'ascension finale vers le sommet est extrêmement raide."],
     }, image: "/poi-images/ecuador-sincholagua-relief-v2.webp"},
   {
-    id: "ecuador-corazon-relief-v2",
+    id: "ecuador-corazon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento al Ordeño",
+                  "text": "Das Monumento al Ordeño ist ein lokales Freiluftdenkmal in der Region Corazón, das an die tief verwurzelten Milchwirtschaftstraditionen der Gegend erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.64148,
+                        -0.601823
+                  ]
+            },
+            {
+                  "name": "El Caballo",
+                  "text": "El Caballo ist ein steinernes Reiterdenkmal, das das Reitsport-Erbe der Region innerhalb des Corazón-Reliefs feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -78.572619,
+                        -0.502197
+                  ]
+            },
+            {
+                  "name": "Casa del Arte",
+                  "text": "Casa del Arte ist ein kultureller Galerieraum, der regionale Kunstwerke und traditionelles Kunsthandwerk in der Gegend von Corazón ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -78.56643,
+                        -0.503851
+                  ]
+            },
+            {
+                  "name": "Teatro Carlos Brito B.",
+                  "text": "Das Teatro Carlos Brito B. ist ein Veranstaltungsort für darstellende Künste, in dem lokale Theater- und Musikveranstaltungen in der Region Corazón stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.566424,
+                        -0.511937
+                  ]
+            },
+            {
+                  "name": "Virgen de la Paz",
+                  "text": "Virgen de la Paz ist ein Marienschrein, der der Friedensjungfrau gewidmet ist und als ruhiger Pilgerort im Corazón-Relief dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.600558,
+                        -0.588755
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial de Alóag",
+                  "text": "Die Iglesia Parroquial de Alóag ist eine zentrale christliche Pfarrkirche, die sich durch ihre traditionelle Architektur in der Region Corazón auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.585954,
+                        -0.468532
+                  ]
+            },
+            {
+                  "name": "Mission Evangelica Ecclesiaste 1:11",
+                  "text": "Die Mission Evangelica Ecclesiaste 1:11 ist eine protestantische evangelische Gemeinde mit Schwerpunkt auf biblischen Lehren im Corazón-Relief.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.590912,
+                        -0.470333
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santiago Apóstol de Machachi",
+                  "text": "Die Iglesia Católica Santiago Apóstol de Machachi ist ein bedeutendes katholisches Heiligtum in der Region Corazón, das dem Apostel Jakobus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.566502,
+                        -0.512988
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora de Los Dolores | Aloasí",
+                  "text": "Dieses katholische Heiligtum in Aloasí ist eine verehrte Kirche, die Unserer Lieben Frau der Schmerzen gewidmet ist und inmitten der andinen Landschaften des Corazón-Reliefs liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.585187,
+                        -0.518923
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Diese lokale christliche Kirche bietet einen gemeinschaftlichen Raum für Gottesdienst und Besinnung in der malerischen Bergregion Corazón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.642994,
+                        -0.601719
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "Der Mercado Central ist eine geschäftige Markthalle mit Ständen, die frische andine Produkte und lokales Kunsthandwerk in der Region Corazón verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.568243,
+                        -0.513448
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Der Mercado Mayorista fungiert als großes landwirtschaftliches Verteilzentrum für lokale Bauern im Corazón-Relief.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.566977,
+                        -0.516233
+                  ]
+            },
+            {
+                  "name": "Parque Manantial de los Volcanes",
+                  "text": "Der Parque Manantial de los Volcanes bietet erfrischende öffentliche Bäder, die von natürlichen Quellen gespeist werden, die den umliegenden Vulkangipfeln entspringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.567394,
+                        -0.506969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento al Ordeño",
+                  "text": "A Monumento al Ordeño egy szabadtéri helyi emlékmű a Corazón régióban, amely a környék mélyen gyökerező tejtermelési hagyományainak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.64148,
+                        -0.601823
+                  ]
+            },
+            {
+                  "name": "El Caballo",
+                  "text": "Az El Caballo egy kőből készült lovas emlékmű, amely a régió lovas örökségét ünnepli a Corazón vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        -78.572619,
+                        -0.502197
+                  ]
+            },
+            {
+                  "name": "Casa del Arte",
+                  "text": "A Casa del Arte egy kulturális galéria, amely regionális művészeti alkotásokat és hagyományos kézműves termékeket állít ki a Corazón régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -78.56643,
+                        -0.503851
+                  ]
+            },
+            {
+                  "name": "Teatro Carlos Brito B.",
+                  "text": "A Teatro Carlos Brito B. egy beltéri előadóművészeti helyszín, amely helyi színházi és zenei eseményeknek ad otthont a Corazón régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.566424,
+                        -0.511937
+                  ]
+            },
+            {
+                  "name": "Virgen de la Paz",
+                  "text": "A Virgen de la Paz a Béke Szűzanyának szentelt Mária-kegyhely, amely békés zarándokhelyként szolgál a Corazón vidéken.",
+                  "category": "religious",
+                  "coords": [
+                        -78.600558,
+                        -0.588755
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial de Alóag",
+                  "text": "Az Iglesia Parroquial de Alóag egy központi keresztény plébániatemplom, amelyet hagyományos építészete jellemez a Corazón régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.585954,
+                        -0.468532
+                  ]
+            },
+            {
+                  "name": "Mission Evangelica Ecclesiaste 1:11",
+                  "text": "A Mission Evangelica Ecclesiaste 1:11 egy protestáns evangéliumi gyülekezet, amely a bibliai tanításokra összpontosít a Corazón vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.590912,
+                        -0.470333
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santiago Apóstol de Machachi",
+                  "text": "Az Iglesia Católica Santiago Apóstol de Machachi egy jelentős katolikus szentély a Corazón régióban, amelyet Szent Jakab apostolnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.566502,
+                        -0.512988
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora de Los Dolores | Aloasí",
+                  "text": "Ez a katolikus szentély Aloasíban egy tisztelt templom, amelyet a Fájdalmas Anyának szenteltek az andoki Corazón vidék tájai között.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.585187,
+                        -0.518923
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a helyi keresztény templom közösségi teret biztosít az istentiszteletre és az elmélkedésre a festői Corazón hegyvidéki régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.642994,
+                        -0.601719
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "A Mercado Central egy nyüzsgő fedett piac a Corazón régióban, ahol a standok friss andoki termékeket és helyi kézműves termékeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.568243,
+                        -0.513448
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "A Mercado Mayorista nagyszabású mezőgazdasági elosztóközpontként működik a helyi gazdák számára a Corazón vidéken.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.566977,
+                        -0.516233
+                  ]
+            },
+            {
+                  "name": "Parque Manantial de los Volcanes",
+                  "text": "A Parque Manantial de los Volcanes frissítő nyilvános fürdőkkel rendelkezik, amelyeket a környező vulkáni csúcsokról eredő természetes források táplálnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.567394,
+                        -0.506969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento al Ordeño",
+                  "text": "Monumento al Ordeño este un monument local în aer liber din regiunea Corazón, care comemorează tradițiile adânc înrădăcinate ale producției de lactate din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.64148,
+                        -0.601823
+                  ]
+            },
+            {
+                  "name": "El Caballo",
+                  "text": "El Caballo este un monument ecvestru de piatră care celebrează moștenirea călăriei din regiune în cadrul reliefului Corazón.",
+                  "category": "historical",
+                  "coords": [
+                        -78.572619,
+                        -0.502197
+                  ]
+            },
+            {
+                  "name": "Casa del Arte",
+                  "text": "Casa del Arte este un spațiu de galerie culturală care expune lucrări de artă regională și meșteșuguri tradiționale în zona Corazón.",
+                  "category": "museum",
+                  "coords": [
+                        -78.56643,
+                        -0.503851
+                  ]
+            },
+            {
+                  "name": "Teatro Carlos Brito B.",
+                  "text": "Teatro Carlos Brito B. este un loc de desfășurare a artelor spectacolului în interior, dedicat găzduirii evenimentelor teatrale și muzicale locale în regiunea Corazón.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.566424,
+                        -0.511937
+                  ]
+            },
+            {
+                  "name": "Virgen de la Paz",
+                  "text": "Virgen de la Paz este un sanctuar marian dedicat Fecioarei Păcii, servind ca un loc liniștit de pelerinaj în relieful Corazón.",
+                  "category": "religious",
+                  "coords": [
+                        -78.600558,
+                        -0.588755
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial de Alóag",
+                  "text": "Iglesia Parroquial de Alóag este o biserică parohială creștină centrală, caracterizată prin arhitectura sa tradițională din regiunea Corazón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.585954,
+                        -0.468532
+                  ]
+            },
+            {
+                  "name": "Mission Evangelica Ecclesiaste 1:11",
+                  "text": "Misiunea Evangelică Ecclesiaste 1:11 este o congregație evanghelică protestantă concentrată pe învățăturile biblice din relieful Corazón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.590912,
+                        -0.470333
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santiago Apóstol de Machachi",
+                  "text": "Biserica Catolică Santiago Apóstol din Machachi este un sanctuar catolic major dedicat Sfântului Iacob Apostol în regiunea Corazón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.566502,
+                        -0.512988
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora de Los Dolores | Aloasí",
+                  "text": "Acest sanctuar catolic din Aloasí este o biserică venerată dedicată Maicii Domnului a Durerilor, situată printre peisajele andine ale reliefului Corazón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.585187,
+                        -0.518923
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Această biserică creștină locală oferă un spațiu comun pentru închinare și reflecție în regiunea muntoasă pitorească Corazón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.642994,
+                        -0.601719
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "Mercado Central este o piață interioară plină de viață, plină cu tarabe care vând produse andine proaspete și meșteșuguri locale în regiunea Corazón.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.568243,
+                        -0.513448
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Mercado Mayorista funcționează ca un centru de distribuție agricolă la scară largă pentru fermierii locali din relieful Corazón.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.566977,
+                        -0.516233
+                  ]
+            },
+            {
+                  "name": "Parque Manantial de los Volcanes",
+                  "text": "Parque Manantial de los Volcanes are băi publice revigorante alimentate de izvoare naturale originare din vârfurile vulcanice din jur.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.567394,
+                        -0.506969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento al Ordeño",
+                  "text": "The Monumento al Ordeño is a local outdoor monument in the Corazón region that commemorates the area's deep-rooted dairy farming traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.64148,
+                        -0.601823
+                  ]
+            },
+            {
+                  "name": "El Caballo",
+                  "text": "El Caballo is an equestrian stone monument celebrating the region's horse-riding heritage within the Corazón relief.",
+                  "category": "historical",
+                  "coords": [
+                        -78.572619,
+                        -0.502197
+                  ]
+            },
+            {
+                  "name": "Casa del Arte",
+                  "text": "Casa del Arte is a cultural gallery space exhibiting regional artwork and traditional crafts in the Corazón area.",
+                  "category": "museum",
+                  "coords": [
+                        -78.56643,
+                        -0.503851
+                  ]
+            },
+            {
+                  "name": "Teatro Carlos Brito B.",
+                  "text": "Teatro Carlos Brito B. is an indoor performing arts venue dedicated to hosting local theatrical and musical events in the Corazón region.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.566424,
+                        -0.511937
+                  ]
+            },
+            {
+                  "name": "Virgen de la Paz",
+                  "text": "Virgen de la Paz is a Marian shrine dedicated to the Virgin of Peace, serving as a tranquil pilgrimage site in the Corazón relief.",
+                  "category": "religious",
+                  "coords": [
+                        -78.600558,
+                        -0.588755
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial de Alóag",
+                  "text": "The Iglesia Parroquial de Alóag is a central Christian parish church characterized by its traditional architecture in the Corazón region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.585954,
+                        -0.468532
+                  ]
+            },
+            {
+                  "name": "Mission Evangelica Ecclesiaste 1:11",
+                  "text": "The Mission Evangelica Ecclesiaste 1:11 is a protestant evangelical congregation focused on biblical teachings in the Corazón relief.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.590912,
+                        -0.470333
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santiago Apóstol de Machachi",
+                  "text": "The Iglesia Católica Santiago Apóstol de Machachi is a major Catholic sanctuary dedicated to Saint James the Apostle in the Corazón region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.566502,
+                        -0.512988
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora de Los Dolores | Aloasí",
+                  "text": "This Catholic sanctuary in Aloasí is a revered church dedicated to Our Lady of Sorrows, set among the Andean landscapes of the Corazón relief.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.585187,
+                        -0.518923
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "This local Christian church provides a communal space for worship and reflection within the scenic Corazón mountainous region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.642994,
+                        -0.601719
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "The Mercado Central is a bustling indoor marketplace filled with stalls selling fresh Andean produce and local crafts in the Corazón region.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.568243,
+                        -0.513448
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "The Mercado Mayorista functions as a large-scale agricultural distribution hub for local farmers in the Corazón relief.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.566977,
+                        -0.516233
+                  ]
+            },
+            {
+                  "name": "Parque Manantial de los Volcanes",
+                  "text": "Parque Manantial de los Volcanes features refreshing public baths fed by natural springs originating from the surrounding volcanic peaks.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.567394,
+                        -0.506969
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-P",
     coords: [-78.65, -0.53],
@@ -195,7 +987,268 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       fr: ["L'altitude maximale est de 4 790 mètres.", "Le mot espagnol Corazón signifie cœur.", "La montagne est une destination très prisée des randonneurs.", "Elle est située au sud-ouest de la localité de Machachi."],
     }, image: "/poi-images/ecuador-corazon-relief-v2.webp"},
   {
-    id: "ecuador-ruminahui-relief-v2",
+    id: "ecuador-ruminahui-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Möglicher Übernachtungsplatz",
+                  "text": "Dieser mögliche Biwakplatz bietet einen erhöhten Aussichtspunkt für Trekker, die sich auf dem Rumiñahui-Vulkanmassiv ausruhen.",
+                  "category": "natural",
+                  "coords": [
+                        -78.473333,
+                        -0.612862
+                  ]
+            },
+            {
+                  "name": "La Base",
+                  "text": "La Base fungiert als Beobachtungspunkt nahe dem Beginn des Aufstiegs auf den Stratovulkan Rumiñahui.",
+                  "category": "natural",
+                  "coords": [
+                        -78.500014,
+                        -0.592415
+                  ]
+            },
+            {
+                  "name": "Summit ridge",
+                  "text": "Der Gipfelgrat des Rumiñahui bietet einen spektakulären alpinen Aussichtspunkt über die umliegenden ecuadorianischen Anden und den Vulkan Cotopaxi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.512764,
+                        -0.592114
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser hoch gelegene Mirador im Reliefgebiet des Rumiñahui bietet weite Ausblicke auf die ausgedehnte Paramo-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -78.487911,
+                        -0.636974
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes",
+                  "text": "Das Centro de Visitantes dient als Informationsmuseum, das die geologische und ökologische Geschichte des Rumiñahui-Gebiets darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -78.496003,
+                        -0.643009
+                  ]
+            },
+            {
+                  "name": "Pucará de Salitre",
+                  "text": "Der Pucará de Salitre stellt die archäologischen Überreste einer strategischen präkolumbianischen Steinfestung in der Nähe des Rumiñahui-Vulkans dar.",
+                  "category": "historical",
+                  "coords": [
+                        -78.419217,
+                        -0.59101
+                  ]
+            },
+            {
+                  "name": "Iglesia de Fatima",
+                  "text": "Die Iglesia de Fatima ist eine christliche Pfarrkirche, die Unserer Lieben Frau von Fátima gewidmet ist und in der malerischen Rumiñahui-Region liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.554614,
+                        -0.525951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Möglicher Übernachtungsplatz",
+                  "text": "Ez a lehetséges bivakhely egy magasan fekvő, festői kilátópontot kínál a Rumiñahui vulkánmasszívumon megpihenő túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -78.473333,
+                        -0.612862
+                  ]
+            },
+            {
+                  "name": "La Base",
+                  "text": "A La Base egy megfigyelőpontként funkcionál a Rumiñahui rétegvulkán megmászásának kezdete közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -78.500014,
+                        -0.592415
+                  ]
+            },
+            {
+                  "name": "Summit ridge",
+                  "text": "A Rumiñahui csúcsgerincéről látványos alpesi kilátás nyílik a környező ecuadori Andokra és a Cotopaxi vulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        -78.512764,
+                        -0.592114
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a magaslati Mirador a Rumiñahui régióban kiterjedt kilátást nyújt a hatalmas paramo tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -78.487911,
+                        -0.636974
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes",
+                  "text": "A Centro de Visitantes egy információs múzeumként szolgál, amely felvázolja a Rumiñahui terület geológiai és ökológiai történetét.",
+                  "category": "museum",
+                  "coords": [
+                        -78.496003,
+                        -0.643009
+                  ]
+            },
+            {
+                  "name": "Pucará de Salitre",
+                  "text": "A Pucará de Salitre egy stratégiai, prekolumbián kőerőd régészeti maradványa a Rumiñahui vulkán közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -78.419217,
+                        -0.59101
+                  ]
+            },
+            {
+                  "name": "Iglesia de Fatima",
+                  "text": "Az Iglesia de Fatima a fátimai Szűzanyának szentelt keresztény plébániatemplom, amely a festői Rumiñahui régióban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.554614,
+                        -0.525951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Möglicher Übernachtungsplatz",
+                  "text": "Acest potențial loc de bivuac oferă un punct de belvedere la înălțime pentru drumeții care se odihnesc pe masivul vulcanic Rumiñahui.",
+                  "category": "natural",
+                  "coords": [
+                        -78.473333,
+                        -0.612862
+                  ]
+            },
+            {
+                  "name": "La Base",
+                  "text": "La Base funcționează ca un punct de observație aproape de începutul ascensiunii pe stratovulcanul Rumiñahui.",
+                  "category": "natural",
+                  "coords": [
+                        -78.500014,
+                        -0.592415
+                  ]
+            },
+            {
+                  "name": "Summit ridge",
+                  "text": "Creasta de vârf a Rumiñahui oferă o perspectivă alpină spectaculoasă asupra Anzilor ecuadorieni înconjurători și a vulcanului Cotopaxi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.512764,
+                        -0.592114
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest Mirador situat la mare altitudine, în zona de relief Rumiñahui, oferă priveliști ample asupra peisajului întins de paramo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.487911,
+                        -0.636974
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes",
+                  "text": "Centro de Visitantes funcționează ca un muzeu informativ care prezintă istoria geologică și ecologică a zonei Rumiñahui.",
+                  "category": "museum",
+                  "coords": [
+                        -78.496003,
+                        -0.643009
+                  ]
+            },
+            {
+                  "name": "Pucará de Salitre",
+                  "text": "Pucará de Salitre reprezintă vestigiile arheologice ale unei fortărețe strategice de piatră precolumbiene situate lângă vulcanul Rumiñahui.",
+                  "category": "historical",
+                  "coords": [
+                        -78.419217,
+                        -0.59101
+                  ]
+            },
+            {
+                  "name": "Iglesia de Fatima",
+                  "text": "Biserica Fatima este o parohie creștină dedicată Maicii Domnului de la Fátima, situată în zona pitorească Rumiñahui.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.554614,
+                        -0.525951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Möglicher Übernachtungsplatz",
+                  "text": "This potential bivouac site offers an elevated scenic viewpoint for trekkers resting on the Rumiñahui volcano massif.",
+                  "category": "natural",
+                  "coords": [
+                        -78.473333,
+                        -0.612862
+                  ]
+            },
+            {
+                  "name": "La Base",
+                  "text": "La Base functions as an observation point near the start of the climb up the Rumiñahui stratovolcano.",
+                  "category": "natural",
+                  "coords": [
+                        -78.500014,
+                        -0.592415
+                  ]
+            },
+            {
+                  "name": "Summit ridge",
+                  "text": "The summit ridge of Rumiñahui provides a spectacular alpine viewpoint over the surrounding Ecuadorian Andes and the Cotopaxi volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -78.512764,
+                        -0.592114
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This high-altitude Mirador in the Rumiñahui relief area offers expansive views of the sweeping paramo landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.487911,
+                        -0.636974
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes",
+                  "text": "The Centro de Visitantes serves as an informational museum outlining the geological and ecological history of the Rumiñahui area.",
+                  "category": "museum",
+                  "coords": [
+                        -78.496003,
+                        -0.643009
+                  ]
+            },
+            {
+                  "name": "Pucará de Salitre",
+                  "text": "The Pucará de Salitre represents the archaeological remains of a strategic pre-Columbian stone fortress located near the Rumiñahui volcano.",
+                  "category": "historical",
+                  "coords": [
+                        -78.419217,
+                        -0.59101
+                  ]
+            },
+            {
+                  "name": "Iglesia de Fatima",
+                  "text": "The Iglesia de Fatima is a Christian parish church dedicated to Our Lady of Fátima, set within the scenic Rumiñahui relief area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.554614,
+                        -0.525951
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-P",
     coords: [-78.5, -0.58],
@@ -243,7 +1296,844 @@ export const poiExtraEcuadorReliefV2: POI[] = [
       fr: ["Le volcan atteint une altitude de 4 712 mètres.", "Il porte le nom d'un célèbre guerrier inca.", "Le massif possède trois sommets distincts.", "Le sommet offre une vue magnifique sur le Cotopaxi."],
     }, image: "/poi-images/ecuador-ruminahui-relief-v2.webp"},
   {
-    id: "ecuador-imbabura-relief-v2",
+    id: "ecuador-imbabura-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tolas de San Clemente",
+                  "text": "Alte präkolumbianische Zeremonialhügel, die vom Volk der Caranqui errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -78.128373,
+                        0.279609
+                  ]
+            },
+            {
+                  "name": "Inicio del sendero volcán Imbabura",
+                  "text": "Ein ikonischer inaktiver Schichtvulkan, der über dem San-Pablo-See in den Anden thront.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.148498,
+                        0.260895
+                  ]
+            },
+            {
+                  "name": "Refugio Volcán Imbabura",
+                  "text": "Ein Basislager für Bergsteiger, die den 4.609 Meter hohen Gipfel des Imbabura erklimmen wollen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.129103,
+                        0.27353
+                  ]
+            },
+            {
+                  "name": "Casa Museo",
+                  "text": "Ein Kulturmuseum in der Provinz Imbabura, das lokale Traditionen und Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -78.106045,
+                        0.209806
+                  ]
+            },
+            {
+                  "name": "Cochas",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Andentäler und den Vulkan Imbabura.",
+                  "category": "natural",
+                  "coords": [
+                        -78.119236,
+                        0.199259
+                  ]
+            },
+            {
+                  "name": "Imbabura",
+                  "text": "Ein markanter Berggipfel, der den indigenen Völkern der Region als heilige Stätte dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.170561,
+                        0.262627
+                  ]
+            },
+            {
+                  "name": "montaña letrero imbabura",
+                  "text": "Ein Orientierungspunkt an den Hängen des Vulkans Imbabura, der weithin sichtbar ist.",
+                  "category": "historical",
+                  "coords": [
+                        -78.156004,
+                        0.260436
+                  ]
+            },
+            {
+                  "name": "Pupotola",
+                  "text": "Eine archäologische Stätte in Imbabura mit Überresten alter Erdwälle oder Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        -78.204754,
+                        0.320856
+                  ]
+            },
+            {
+                  "name": "Galeria Pucara",
+                  "text": "Ein Ausstellungsraum in der Nähe alter indigener Befestigungsanlagen in der Region Imbabura.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.214349,
+                        0.302025
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser Aussichtspunkt bietet einen beeindruckenden Panoramablick auf die umliegenden Andengipfel und Täler.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.157377,
+                        0.30284
+                  ]
+            },
+            {
+                  "name": "Antigua Fábrica Textil Imbabura",
+                  "text": "Diese ehemalige Textilfabrik aus dem 19. Jahrhundert beherbergt heute ein Museum für Industriegeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -78.212917,
+                        0.322034
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Vicente - Los Óvalos Bajo",
+                  "text": "Diese schlichte katholische Kirche dient als geistliches Zentrum für die ländliche Gemeinde Los Óvalos Bajo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.195987,
+                        0.325214
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora de Lourdes | Andrade Marín",
+                  "text": "Dieses Heiligtum in Andrade Marín ist der Jungfrau von Lourdes gewidmet und ein Ort lokaler Wallfahrten.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.209846,
+                        0.322903
+                  ]
+            },
+            {
+                  "name": "Salón del Reino del Testigos de Jehová",
+                  "text": "Ein moderner Versammlungsort der Zeugen Jehovas, der für die religiösen Dienste der örtlichen Gemeinde genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.216486,
+                        0.32659
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Vicente Ferrer",
+                  "text": "Eine kleine katholische Kapelle, die dem Heiligen Vinzenz Ferrer gewidmet ist und im ländlichen Imbabura liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.185118,
+                        0.320412
+                  ]
+            },
+            {
+                  "name": "Iglesia Del Abra",
+                  "text": "Die Kirche von El Abra ist ein markantes religiöses Gebäude in dieser Hochlandregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.139045,
+                        0.249391
+                  ]
+            },
+            {
+                  "name": "IGLESIA",
+                  "text": "Diese lokale christliche Kirche bildet den Mittelpunkt für Gottesdienste und Gemeinschaftsfeiern im Ort.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.10145,
+                        0.2526
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San José de Angla",
+                  "text": "Die katholische Kirche San José liegt in der Gemeinde Angla und ist ein wichtiger Ort für lokale Traditionen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.158851,
+                        0.20093
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Clemente",
+                  "text": "Diese Kirche in San Clemente ist bekannt für ihre Rolle bei den religiösen Festen der indigenen Bevölkerung.",
+                  "category": "religious",
+                  "coords": [
+                        -78.127844,
+                        0.28169
+                  ]
+            },
+            {
+                  "name": "Iglesia de Zuleta",
+                  "text": "Die Kirche von Zuleta liegt in einer Region, die für ihre traditionellen Stickereien und ländlichen Haziendas bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.092217,
+                        0.207356
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús",
+                  "text": "Eine dem Heiligsten Herzen Jesu gewidmete katholische Kirche, die als Gebetsstätte für die Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.227002,
+                        0.311161
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Isabel",
+                  "text": "Diese katholische Kirche ist der Heiligen Isabel gewidmet und ist ein zentraler Treffpunkt für die Gläubigen der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.201626,
+                        0.313192
+                  ]
+            },
+            {
+                  "name": "EMPRESA PUBLICADE SERVICIOS MNICIPALES ANTONIO ANTE (PLANTA DE FAENAMIENTO)",
+                  "text": "Dieses kommunale Zentrum in Antonio Ante verwaltet die lokalen Marktdienstleistungen und die Fleischverarbeitung.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.204741,
+                        0.330543
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tolas de San Clemente",
+                  "text": "Ősi prekolumbián szertartási halmok, amelyeket a caranqui nép épített.",
+                  "category": "historical",
+                  "coords": [
+                        -78.128373,
+                        0.279609
+                  ]
+            },
+            {
+                  "name": "Inicio del sendero volcán Imbabura",
+                  "text": "Jellegzetes kialudt rétegvulkán, amely az Andokban a San Pablo-tó fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.148498,
+                        0.260895
+                  ]
+            },
+            {
+                  "name": "Refugio Volcán Imbabura",
+                  "text": "Alaptábor a hegymászók számára, akik az Imbabura 4609 méteres csúcsát szeretnék meghódítani.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.129103,
+                        0.27353
+                  ]
+            },
+            {
+                  "name": "Casa Museo",
+                  "text": "Kulturális múzeum Imbabura tartományban, amely a helyi hagyományokat és történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -78.106045,
+                        0.209806
+                  ]
+            },
+            {
+                  "name": "Cochas",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik az andoki völgyekre és az Imbabura-vulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        -78.119236,
+                        0.199259
+                  ]
+            },
+            {
+                  "name": "Imbabura",
+                  "text": "Kiemelkedő hegycsúcs, amely szent helyként szolgál a régió őslakos népei számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.170561,
+                        0.262627
+                  ]
+            },
+            {
+                  "name": "montaña letrero imbabura",
+                  "text": "Messziről látható tájékozódási pont az Imbabura-vulkán lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        -78.156004,
+                        0.260436
+                  ]
+            },
+            {
+                  "name": "Pupotola",
+                  "text": "Régészeti lelőhely Imbaburában, ősi földművek vagy települések maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -78.204754,
+                        0.320856
+                  ]
+            },
+            {
+                  "name": "Galeria Pucara",
+                  "text": "Kiállítótér az Imbabura régió ősi őslakos erődítményeinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.214349,
+                        0.302025
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Erről a kilátópontról lenyűgöző panoráma nyílik a környező andoki csúcsokra és völgyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.157377,
+                        0.30284
+                  ]
+            },
+            {
+                  "name": "Antigua Fábrica Textil Imbabura",
+                  "text": "Ez az egykori 19. századi textilgyár ma az ipari örökséget bemutató múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -78.212917,
+                        0.322034
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Vicente - Los Óvalos Bajo",
+                  "text": "Ez az egyszerű katolikus templom Los Óvalos Bajo vidéki közösségének hitéleti központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.195987,
+                        0.325214
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora de Lourdes | Andrade Marín",
+                  "text": "Ez az Andrade Marín-i szentély a Lourdes-i Szűzanyának van szentelve, és a helyi zarándoklatok helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.209846,
+                        0.322903
+                  ]
+            },
+            {
+                  "name": "Salón del Reino del Testigos de Jehová",
+                  "text": "Jehova Tanúi modern gyülekezeti helye, amelyet a helyi közösség vallási alkalmaihoz használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.216486,
+                        0.32659
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Vicente Ferrer",
+                  "text": "Egy kis katolikus kápolna Szent Ferrer Vincének szentelve Imbabura vidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.185118,
+                        0.320412
+                  ]
+            },
+            {
+                  "name": "Iglesia Del Abra",
+                  "text": "El Abra temploma a felföldi régió egyik jellegzetes vallási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.139045,
+                        0.249391
+                  ]
+            },
+            {
+                  "name": "IGLESIA",
+                  "text": "Ez a helyi keresztény templom az istentiszteletek és a közösségi ünnepségek központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.10145,
+                        0.2526
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San José de Angla",
+                  "text": "A San José katolikus templom Angla falujában található, és a helyi hagyományok fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.158851,
+                        0.20093
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Clemente",
+                  "text": "Ez a San Clemente-i templom a bennszülött lakosság vallási ünnepeiben betöltött szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -78.127844,
+                        0.28169
+                  ]
+            },
+            {
+                  "name": "Iglesia de Zuleta",
+                  "text": "Zuleta temploma a hagyományos hímzéseiről és vidéki nagybirtokairól ismert régióban fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.092217,
+                        0.207356
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús",
+                  "text": "Jézus Szent Szívének szentelt katolikus templom, amely a környék lakóinak imaházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.227002,
+                        0.311161
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Isabel",
+                  "text": "Ez a Szent Erzsébetnek szentelt katolikus templom a környék hívőinek központi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.201626,
+                        0.313192
+                  ]
+            },
+            {
+                  "name": "EMPRESA PUBLICADE SERVICIOS MNICIPALES ANTONIO ANTE (PLANTA DE FAENAMIENTO)",
+                  "text": "Ez az Antonio Ante-i központ kezeli a helyi piaci szolgáltatásokat és a húsfeldolgozást.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.204741,
+                        0.330543
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tolas de San Clemente",
+                  "text": "Vechile movile ceremoniale precolumbiene construite de poporul Caranqui.",
+                  "category": "historical",
+                  "coords": [
+                        -78.128373,
+                        0.279609
+                  ]
+            },
+            {
+                  "name": "Inicio del sendero volcán Imbabura",
+                  "text": "Un stratovulcan inactiv iconic care domină lacul San Pablo din Anzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.148498,
+                        0.260895
+                  ]
+            },
+            {
+                  "name": "Refugio Volcán Imbabura",
+                  "text": "O tabără de bază pentru alpiniștii care doresc să escaladeze vârful Imbabura de 4.609 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.129103,
+                        0.27353
+                  ]
+            },
+            {
+                  "name": "Casa Museo",
+                  "text": "Un muzeu cultural din provincia Imbabura care prezintă tradițiile și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -78.106045,
+                        0.209806
+                  ]
+            },
+            {
+                  "name": "Cochas",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra văilor andine și a vulcanului Imbabura.",
+                  "category": "natural",
+                  "coords": [
+                        -78.119236,
+                        0.199259
+                  ]
+            },
+            {
+                  "name": "Imbabura",
+                  "text": "Un vârf montan proeminent care servește drept loc sacru pentru popoarele indigene din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.170561,
+                        0.262627
+                  ]
+            },
+            {
+                  "name": "montaña letrero imbabura",
+                  "text": "Un monument de reper poziționat pe versanții vulcanului Imbabura, vizibil de la distanță.",
+                  "category": "historical",
+                  "coords": [
+                        -78.156004,
+                        0.260436
+                  ]
+            },
+            {
+                  "name": "Pupotola",
+                  "text": "Un sit arheologic în Imbabura care prezintă resturi de terasamente sau așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        -78.204754,
+                        0.320856
+                  ]
+            },
+            {
+                  "name": "Galeria Pucara",
+                  "text": "Un spațiu expozițional situat lângă vechile fortificații indigene din zona Imbabura.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.214349,
+                        0.302025
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest punct de observare oferă o vedere panoramică impresionantă asupra vârfurilor și văilor andine din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.157377,
+                        0.30284
+                  ]
+            },
+            {
+                  "name": "Antigua Fábrica Textil Imbabura",
+                  "text": "Această fostă fabrică de textile din secolul al XIX-lea găzduiește astăzi un muzeu dedicat patrimoniului industrial.",
+                  "category": "museum",
+                  "coords": [
+                        -78.212917,
+                        0.322034
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Vicente - Los Óvalos Bajo",
+                  "text": "Această biserică catolică simplă servește ca centru spiritual pentru comunitatea rurală din Los Óvalos Bajo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.195987,
+                        0.325214
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora de Lourdes | Andrade Marín",
+                  "text": "Acest sanctuar din Andrade Marín este dedicat Fecioarei de Lourdes și reprezintă un loc de pelerinaj local.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.209846,
+                        0.322903
+                  ]
+            },
+            {
+                  "name": "Salón del Reino del Testigos de Jehová",
+                  "text": "Un loc de adunare modern al Martorilor lui Iehova, utilizat pentru serviciile religioase ale comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.216486,
+                        0.32659
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Vicente Ferrer",
+                  "text": "O mică capelă catolică dedicată Sfântului Vincențiu Ferrer, situată în zona rurală din Imbabura.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.185118,
+                        0.320412
+                  ]
+            },
+            {
+                  "name": "Iglesia Del Abra",
+                  "text": "Biserica din El Abra este o clădire religioasă distinctivă în această regiune muntoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.139045,
+                        0.249391
+                  ]
+            },
+            {
+                  "name": "IGLESIA",
+                  "text": "Această biserică creștină locală constituie punctul central pentru slujbe și sărbători comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.10145,
+                        0.2526
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San José de Angla",
+                  "text": "Biserica catolică San José este situată în comunitatea Angla și este un loc important pentru tradițiile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.158851,
+                        0.20093
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Clemente",
+                  "text": "Această biserică din San Clemente este cunoscută pentru rolul său în sărbătorile religioase ale populației indigene.",
+                  "category": "religious",
+                  "coords": [
+                        -78.127844,
+                        0.28169
+                  ]
+            },
+            {
+                  "name": "Iglesia de Zuleta",
+                  "text": "Biserica din Zuleta se află într-o regiune renumită pentru broderiile tradiționale și fermele rurale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.092217,
+                        0.207356
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús",
+                  "text": "O biserică catolică dedicată Preasfintei Inimi a lui Iisus, servind ca loc de rugăciune pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.227002,
+                        0.311161
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Isabel",
+                  "text": "Această biserică catolică este dedicată Sfintei Isabel și reprezintă un loc central de întâlnire pentru credincioșii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.201626,
+                        0.313192
+                  ]
+            },
+            {
+                  "name": "EMPRESA PUBLICADE SERVICIOS MNICIPALES ANTONIO ANTE (PLANTA DE FAENAMIENTO)",
+                  "text": "Acest centru municipal din Antonio Ante gestionează serviciile pieței locale și procesarea cărnii.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.204741,
+                        0.330543
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tolas de San Clemente",
+                  "text": "Ancient pre-Columbian ceremonial mounds built by the indigenous Caranqui people.",
+                  "category": "historical",
+                  "coords": [
+                        -78.128373,
+                        0.279609
+                  ]
+            },
+            {
+                  "name": "Imbabura Volcano",
+                  "text": "An iconic inactive stratovolcano towering over the San Pablo lake in the Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.148498,
+                        0.260895
+                  ]
+            },
+            {
+                  "name": "Refugio Volcán Imbabura",
+                  "text": "A base camp for mountaineers seeking to summit the 4,609-meter peak of the Imbabura volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.129103,
+                        0.27353
+                  ]
+            },
+            {
+                  "name": "Casa Museo",
+                  "text": "A cultural museum in the Imbabura province showcasing local traditions and history.",
+                  "category": "museum",
+                  "coords": [
+                        -78.106045,
+                        0.209806
+                  ]
+            },
+            {
+                  "name": "Cochas",
+                  "text": "A scenic overlook offering panoramic views of the Andean valleys and the Imbabura volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -78.119236,
+                        0.199259
+                  ]
+            },
+            {
+                  "name": "Imbabura",
+                  "text": "A prominent mountain peak that serves as a spiritual sacred site for the region's indigenous peoples.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.170561,
+                        0.262627
+                  ]
+            },
+            {
+                  "name": "montaña letrero imbabura",
+                  "text": "A landmark monument positioned on the slopes of the Imbabura volcano, visible from afar.",
+                  "category": "historical",
+                  "coords": [
+                        -78.156004,
+                        0.260436
+                  ]
+            },
+            {
+                  "name": "Pupotola",
+                  "text": "An archaeological site in Imbabura featuring remains of ancient earthworks or settlements.",
+                  "category": "historical",
+                  "coords": [
+                        -78.204754,
+                        0.320856
+                  ]
+            },
+            {
+                  "name": "Gallery Pucara",
+                  "text": "An exhibition space located near ancient indigenous fortifications in the Imbabura area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.214349,
+                        0.302025
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This viewpoint offers an impressive panoramic vista of the surrounding Andean peaks and valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.157377,
+                        0.30284
+                  ]
+            },
+            {
+                  "name": "Antigua Fábrica Textil Imbabura",
+                  "text": "This former 19th-century textile factory now houses a museum dedicated to industrial heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -78.212917,
+                        0.322034
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Vicente - Los Óvalos Bajo",
+                  "text": "This simple Catholic church serves as the spiritual center for the rural community of Los Óvalos Bajo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.195987,
+                        0.325214
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora de Lourdes | Andrade Marín",
+                  "text": "This sanctuary in Andrade Marín is dedicated to Our Lady of Lourdes and is a site of local pilgrimage.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.209846,
+                        0.322903
+                  ]
+            },
+            {
+                  "name": "Salón del Reino del Testigos de Jehová",
+                  "text": "A modern meeting place for Jehovah's Witnesses, used for the religious services of the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.216486,
+                        0.32659
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Vicente Ferrer",
+                  "text": "A small Catholic chapel dedicated to Saint Vincent Ferrer, located in the rural Imbabura countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.185118,
+                        0.320412
+                  ]
+            },
+            {
+                  "name": "Iglesia Del Abra",
+                  "text": "The church of El Abra is a distinctive religious building in this highland region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.139045,
+                        0.249391
+                  ]
+            },
+            {
+                  "name": "IGLESIA",
+                  "text": "This local Christian church forms the focal point for worship and community celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.10145,
+                        0.2526
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San José de Angla",
+                  "text": "The Catholic church of San José is situated in the Angla community and is an important site for local traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.158851,
+                        0.20093
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Clemente",
+                  "text": "This church in San Clemente is known for its role in the religious festivities of the indigenous population.",
+                  "category": "religious",
+                  "coords": [
+                        -78.127844,
+                        0.28169
+                  ]
+            },
+            {
+                  "name": "Iglesia de Zuleta",
+                  "text": "The church of Zuleta is located in a region famous for its traditional embroidery and rural haciendas.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.092217,
+                        0.207356
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús",
+                  "text": "A Catholic church dedicated to the Sacred Heart of Jesus, serving as a house of prayer for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.227002,
+                        0.311161
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Isabel",
+                  "text": "This Catholic church is dedicated to Saint Isabel and is a central gathering point for the area's faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.201626,
+                        0.313192
+                  ]
+            },
+            {
+                  "name": "EMPRESA PUBLICADE SERVICIOS MNICIPALES ANTONIO ANTE (PLANTA DE FAENAMIENTO)",
+                  "text": "This municipal facility in Antonio Ante manages local marketplace services and meat processing.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.204741,
+                        0.330543
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-I",
     coords: [-78.17, 0.25],
@@ -291,7 +2181,340 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-pasochoa-relief-v2",
+    id: "ecuador-pasochoa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascada Cóndor Machay",
+                  "text": "Der Cóndor Machay Wasserfall stürzt in der Region Pasochoa in Ecuador über eine felsige Klippe und bildet ein spektakuläres natürliches Becken, umgeben von dichter andiner Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.430457,
+                        -0.484878
+                  ]
+            },
+            {
+                  "name": "Cascada Vilatuña",
+                  "text": "Der Vilatuña-Wasserfall ist eine malerische Kaskade, eingebettet in die Bergwälder der Region Pasochoa, und bietet Besuchern einen erfrischenden Rückzugsort entlang der Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.414331,
+                        -0.444282
+                  ]
+            },
+            {
+                  "name": "El Murco",
+                  "text": "El Murco ist eine natürliche geografische Attraktion in den hochgelegenen Landschaften des Vulkangebiets Pasochoa in Ecuador.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.540253,
+                        -0.43318
+                  ]
+            },
+            {
+                  "name": "Centro de interpretación y cafetería",
+                  "text": "Dieses Besucherzentrum im Wildtierschutzgebiet Pasochoa bietet ökologische Ausstellungen über den lokalen andinen Nebelwald sowie ein kleines Café für Wanderer.",
+                  "category": "museum",
+                  "coords": [
+                        -78.519259,
+                        -0.42242
+                  ]
+            },
+            {
+                  "name": "Hacienda San Francisco de Pasochoa",
+                  "text": "Ein traditionelles andines Landgut in der Nähe des Vulkans Pasochoa, das einen Zugang zu den vielfältigen Nebelwäldern der Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.469188,
+                        -0.43888
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre y Bosque de Proteccion Pasochoa",
+                  "text": "Dieses Wildschutzgebiet schützt den eingestürzten Krater eines erloschenen Vulkans, der einen der letzten ursprünglichen andinen Nebelwälder beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.50355,
+                        -0.441913
+                  ]
+            },
+            {
+                  "name": "COTOPAXIPUNGO",
+                  "text": "Ein ökologisches Reservat in den hohen Anden, das einen weiten Blick auf die umliegenden Vulkanlandschaften wie Cotopaxi und Pasochoa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.431818,
+                        -0.468177
+                  ]
+            },
+            {
+                  "name": "Iglesia La Gran Comisión de Jesucristo",
+                  "text": "Eine lokale christliche Gemeinde, die den Bewohnern des Hochlandes nahe der Hänge des Vulkans Pasochoa dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.454449,
+                        -0.52477
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein Königreichssaal in der hochgelegenen Andenregion, der den lokalen Zeugen Jehovas als Versammlungsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.422385,
+                        -0.445074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascada Cóndor Machay",
+                  "text": "Az ecuadori Pasochoa régióban, egy sziklás szirtről lezúduló Cóndor Machay vízesés egy látványos természetes medencét alkot a sűrű andoki növényzet ölelésében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.430457,
+                        -0.484878
+                  ]
+            },
+            {
+                  "name": "Cascada Vilatuña",
+                  "text": "A Vilatuña vízesés egy festői zuhatag a Pasochoa térség hegyvidéki erdeiben, amely hűsítő menedéket kínál a túraútvonalak mentén lévő látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.414331,
+                        -0.444282
+                  ]
+            },
+            {
+                  "name": "El Murco",
+                  "text": "Az El Murco egy természetes földrajzi látványosság, amely az ecuadori Pasochoa vulkáni terület nagy tengerszint feletti magasságú tájain található.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.540253,
+                        -0.43318
+                  ]
+            },
+            {
+                  "name": "Centro de interpretación y cafetería",
+                  "text": "Ez a Pasochoa vadvédelmi területen található látogatóközpont a helyi andoki köderdőt bemutató ökológiai kiállításokkal, valamint a túrázókat kiszolgáló kis kávézóval várja az érkezőket.",
+                  "category": "museum",
+                  "coords": [
+                        -78.519259,
+                        -0.42242
+                  ]
+            },
+            {
+                  "name": "Hacienda San Francisco de Pasochoa",
+                  "text": "Egy hagyományos andesi birtok a Pasochoa vulkán közelében, amely kapuként szolgál a régió köderdeihez.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.469188,
+                        -0.43888
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre y Bosque de Proteccion Pasochoa",
+                  "text": "Ez a vadvédelmi terület egy kihalt vulkán beomlott kráterét védi, amely az utolsó eredeti andesi köderdők egyikének ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        -78.50355,
+                        -0.441913
+                  ]
+            },
+            {
+                  "name": "COTOPAXIPUNGO",
+                  "text": "A Magas-Andokban található ökológiai rezervátum, amely lenyűgöző kilátást nyújt a környező vulkáni tájakra, köztük a Cotopaxira és a Pasochoára.",
+                  "category": "natural",
+                  "coords": [
+                        -78.431818,
+                        -0.468177
+                  ]
+            },
+            {
+                  "name": "Iglesia La Gran Comisión de Jesucristo",
+                  "text": "A Pasochoa vulkán lejtőihez közeli felvidéki közösséget szolgáló helyi keresztény gyülekezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.454449,
+                        -0.52477
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A magasan fekvő andesi régióban található Királyság-terem, amely a helyi Jehova Tanúi találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -78.422385,
+                        -0.445074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascada Cóndor Machay",
+                  "text": "Prăvălindu-se pe o stâncă în regiunea Pasochoa din Ecuador, cascada Cóndor Machay formează o piscină naturală spectaculoasă înconjurată de vegetație andină densă.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.430457,
+                        -0.484878
+                  ]
+            },
+            {
+                  "name": "Cascada Vilatuña",
+                  "text": "Cascada Vilatuña este o cădere de apă pitorească cuibărită în pădurile montane din zona Pasochoa, oferind vizitatorilor un refugiu răcoros de-a lungul traseelor de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.414331,
+                        -0.444282
+                  ]
+            },
+            {
+                  "name": "El Murco",
+                  "text": "El Murco este o atracție geografică naturală situată în peisajele de mare altitudine din zona vulcanică Pasochoa din Ecuador.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.540253,
+                        -0.43318
+                  ]
+            },
+            {
+                  "name": "Centro de interpretación y cafetería",
+                  "text": "Acest centru de vizitatori din rezervația faunistică Pasochoa prezintă expoziții ecologice despre pădurea tropicală andină locală, alături de o mică cafenea pentru drumeți.",
+                  "category": "museum",
+                  "coords": [
+                        -78.519259,
+                        -0.42242
+                  ]
+            },
+            {
+                  "name": "Hacienda San Francisco de Pasochoa",
+                  "text": "O moșie andină tradițională situată lângă vulcanul Pasochoa, oferind o poartă de acces către pădurile noroase ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.469188,
+                        -0.43888
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre y Bosque de Proteccion Pasochoa",
+                  "text": "Acest refugiu pentru viața sălbatică protejează craterul prăbușit al unui vulcan stins, adăpostind una dintre ultimele păduri noroase andine originale.",
+                  "category": "natural",
+                  "coords": [
+                        -78.50355,
+                        -0.441913
+                  ]
+            },
+            {
+                  "name": "COTOPAXIPUNGO",
+                  "text": "O rezervație ecologică situată în Anzii înalți, oferind vederi panoramice ale peisajelor vulcanice înconjurătoare, inclusiv Cotopaxi și Pasochoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.431818,
+                        -0.468177
+                  ]
+            },
+            {
+                  "name": "Iglesia La Gran Comisión de Jesucristo",
+                  "text": "O congregație creștină locală care deservește comunitatea montană de lângă pantele vulcanului Pasochoa.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.454449,
+                        -0.52477
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului situată în regiunea andină de mare altitudine, oferind un loc de întâlnire dedicat Martorilor lui Iehova locali.",
+                  "category": "religious",
+                  "coords": [
+                        -78.422385,
+                        -0.445074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascada Cóndor Machay",
+                  "text": "Tumbling down a rocky cliff in the Pasochoa region of Ecuador, the Cóndor Machay Waterfall forms a spectacular natural pool surrounded by dense Andean vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.430457,
+                        -0.484878
+                  ]
+            },
+            {
+                  "name": "Cascada Vilatuña",
+                  "text": "The Vilatuña Waterfall is a picturesque cascade nestled in the montane forests of the Pasochoa area, offering visitors a cooling retreat along the hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.414331,
+                        -0.444282
+                  ]
+            },
+            {
+                  "name": "El Murco",
+                  "text": "El Murco is a natural geographic attraction situated in the high-altitude landscapes of the Pasochoa volcanic area in Ecuador.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.540253,
+                        -0.43318
+                  ]
+            },
+            {
+                  "name": "Centro de interpretación y cafetería",
+                  "text": "This visitor center in the Pasochoa wildlife refuge features ecological exhibits about the local Andean cloud forest, alongside a small café for hikers.",
+                  "category": "museum",
+                  "coords": [
+                        -78.519259,
+                        -0.42242
+                  ]
+            },
+            {
+                  "name": "Hacienda San Francisco de Pasochoa",
+                  "text": "A traditional Andean estate nestled near the Pasochoa volcano, providing a gateway to the region's diverse cloud forests.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.469188,
+                        -0.43888
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre y Bosque de Proteccion Pasochoa",
+                  "text": "This wildlife refuge protects the collapsed crater of an extinct volcano, harboring one of the last original Andean cloud forests.",
+                  "category": "natural",
+                  "coords": [
+                        -78.50355,
+                        -0.441913
+                  ]
+            },
+            {
+                  "name": "COTOPAXIPUNGO",
+                  "text": "An ecological reserve situated in the high Andes, offering sweeping views of the surrounding volcanic landscapes including Cotopaxi and Pasochoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.431818,
+                        -0.468177
+                  ]
+            },
+            {
+                  "name": "Iglesia La Gran Comisión de Jesucristo",
+                  "text": "A local Christian congregation serving the highland community near the slopes of the Pasochoa volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.454449,
+                        -0.52477
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Kingdom Hall situated in the high-altitude Andean region, providing a dedicated meeting place for local Jehovah's Witnesses.",
+                  "category": "religious",
+                  "coords": [
+                        -78.422385,
+                        -0.445074
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-P",
     coords: [-78.47, -0.47],
@@ -387,7 +2610,232 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-mojanda-relief-v2",
+    id: "ecuador-mojanda-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mulapotrero",
+                  "text": "Ein hoher Berggipfel in der Nähe des Mojanda-Vulkankomplexes.",
+                  "category": "natural",
+                  "coords": [
+                        -78.233333,
+                        0.083333
+                  ]
+            },
+            {
+                  "name": "Loma Mojanda",
+                  "text": "Teil des erloschenen Mojanda-Vulkans, bekannt für seine alpine Paramo-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -78.254938,
+                        0.107996
+                  ]
+            },
+            {
+                  "name": "Lagunas de Mojanda",
+                  "text": "Drei malerische Kraterseen in einem erloschenen Vulkan auf über 3.700 Metern Höhe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.27863,
+                        0.138503
+                  ]
+            },
+            {
+                  "name": "Cushirrumi",
+                  "text": "Ein schroffer Berggipfel im Paramo-Ökosystem des Mojanda-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        -78.327954,
+                        0.191331
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Piganta",
+                  "text": "Ein geschütztes Waldgebiet, das die Artenvielfalt der Nebelwälder in den Anden bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.344484,
+                        0.170755
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Cushnirumi",
+                  "text": "Dieses Naturschutzgebiet schützt die empfindliche Paramo-Vegetation und Wasserquellen.",
+                  "category": "natural",
+                  "coords": [
+                        -78.331796,
+                        0.18963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mulapotrero",
+                  "text": "Magas hegycsúcs a Mojanda-vulkánkomplexum közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -78.233333,
+                        0.083333
+                  ]
+            },
+            {
+                  "name": "Loma Mojanda",
+                  "text": "A kialudt Mojanda-vulkán része, amely az alpesi paramo tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -78.254938,
+                        0.107996
+                  ]
+            },
+            {
+                  "name": "Lagunas de Mojanda",
+                  "text": "Három festői kráter-tó egy kialudt vulkánban, több mint 3700 méteres magasságban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.27863,
+                        0.138503
+                  ]
+            },
+            {
+                  "name": "Cushirrumi",
+                  "text": "Sziklás hegycsúcs a Mojanda-masszívum paramo ökoszisztémájában.",
+                  "category": "natural",
+                  "coords": [
+                        -78.327954,
+                        0.191331
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Piganta",
+                  "text": "Védett erdőterület, amely az andoki köderdők biológiai sokféleségét őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.344484,
+                        0.170755
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Cushnirumi",
+                  "text": "Ez a természetvédelmi terület az érzékeny paramo növényzetet és vízforrásokat óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -78.331796,
+                        0.18963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mulapotrero",
+                  "text": "Un vârf montan înalt situat lângă complexul vulcanic Mojanda.",
+                  "category": "natural",
+                  "coords": [
+                        -78.233333,
+                        0.083333
+                  ]
+            },
+            {
+                  "name": "Loma Mojanda",
+                  "text": "Parte a vulcanului stins Mojanda, cunoscut pentru peisajul său alpin de paramo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.254938,
+                        0.107996
+                  ]
+            },
+            {
+                  "name": "Lagunas de Mojanda",
+                  "text": "Trei lacuri glaciare pitorești într-un vulcan stins, la peste 3.700 de metri altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.27863,
+                        0.138503
+                  ]
+            },
+            {
+                  "name": "Cushirrumi",
+                  "text": "Un vârf montan accidentat în ecosistemul de paramo al masivului Mojanda.",
+                  "category": "natural",
+                  "coords": [
+                        -78.327954,
+                        0.191331
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Piganta",
+                  "text": "O zonă forestieră protejată care conservă biodiversitatea pădurilor de ceață din Anzi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.344484,
+                        0.170755
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Cushnirumi",
+                  "text": "Această rezervație naturală protejează vegetația delicată de paramo și sursele de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -78.331796,
+                        0.18963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mulapotrero",
+                  "text": "A high mountain peak located near the Mojanda volcanic complex.",
+                  "category": "natural",
+                  "coords": [
+                        -78.233333,
+                        0.083333
+                  ]
+            },
+            {
+                  "name": "Loma Mojanda",
+                  "text": "Part of the extinct Mojanda volcano, known for its alpine paramo landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.254938,
+                        0.107996
+                  ]
+            },
+            {
+                  "name": "Mojanda Lakes",
+                  "text": "Three picturesque crater lakes set in an extinct volcano at over 3,700 meters altitude.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.27863,
+                        0.138503
+                  ]
+            },
+            {
+                  "name": "Cushirrumi",
+                  "text": "A rugged mountain peak in the paramo ecosystem of the Mojanda massif.",
+                  "category": "natural",
+                  "coords": [
+                        -78.327954,
+                        0.191331
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Piganta",
+                  "text": "A protected forest area preserving the biodiversity of Andean cloud forests.",
+                  "category": "natural",
+                  "coords": [
+                        -78.344484,
+                        0.170755
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Cushnirumi",
+                  "text": "This nature reserve protects the delicate paramo vegetation and water sources.",
+                  "category": "natural",
+                  "coords": [
+                        -78.331796,
+                        0.18963
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-I",
     coords: [-78.27, 0.13],
@@ -435,7 +2883,448 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-atacazo-relief-v2",
+    id: "ecuador-atacazo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Alizal",
+                  "text": "El Alizal ist ein malerischer, hochgelegener Aussichtspunkt, der weite, ungestörte Panoramen über die steilen Bergkämme des Stratovulkans Atacazo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.649677,
+                        -0.29647
+                  ]
+            },
+            {
+                  "name": "Gluma lui Darius",
+                  "text": "Gluma lui Darius ist ein ruhiger daoistischer spiritueller Rückzugsort, der sich nahtlos in die zerklüftete Naturlandschaft des Atacazo-Reliefs einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.549609,
+                        -0.353858
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana",
+                  "text": "Diese Iglesia Cristiana ist ein einladendes Heiligtum an einem Berghang, das christliche Gemeindedienste im Atacazo-Gebiet anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.550362,
+                        -0.354802
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Victoria",
+                  "text": "Diese apostolisch-evangelische Kirche in La Victoria ist ein bemerkenswertes Gottesdienstzentrum der Nachbarschaft in der Region Atacazo, das sich durch lebhafte Gottesdienste auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.557912,
+                        -0.346787
+                  ]
+            },
+            {
+                  "name": "Iglesia del Camposanto Metropolitano",
+                  "text": "Die Iglesia del Camposanto Metropolitano ist eine feierliche christliche Kapelle auf dem Gelände des städtischen Friedhofs in der Region Atacazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.569247,
+                        -0.342691
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Joya de Quito",
+                  "text": "Diese apostolisch-evangelische Kirche ist ein modernes Gotteshaus im lebhaften Viertel La Joya de Quito in der Nähe von Atacazo.",
+                  "category": "religious",
+                  "coords": [
+                        -78.550761,
+                        -0.379746
+                  ]
+            },
+            {
+                  "name": "Virgen Rosa Mistica Barrio La Joya",
+                  "text": "Die Virgen Rosa Mistica ist ein intimer Schrein im Barrio La Joya, der der Erscheinung der Mystischen Rose im Atacazo-Relief gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -78.549889,
+                        -0.405033
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan XXIII || Guamaní - Paquisha",
+                  "text": "Die Iglesia Católica San Juan XXIII ist eine aktive Pfarrkirche zu Ehren von Papst Johannes XXIII., die der Gemeinde Guamaní-Paquisha am Fuße des Atacazo dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564237,
+                        -0.343312
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cutuglagua",
+                  "text": "Die Iglesia de Cutuglagua ist eine traditionell gestaltete Gemeindekirche, die die ländliche Landschaft von Cutuglagua in der Region Atacazo verankert.",
+                  "category": "religious",
+                  "coords": [
+                        -78.551512,
+                        -0.365659
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristo Vencedor",
+                  "text": "Die Iglesia Cristo Vencedor ist ein einladender Raum der christlichen Gemeinde, der die Gemeinschaft in der hochgelegenen Region Atacazo betont.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.547831,
+                        -0.355451
+                  ]
+            },
+            {
+                  "name": "Iglesia Jardines de Santa Rosa",
+                  "text": "Die Iglesia Jardines de Santa Rosa ist eine lokale Quartierskirche, die den Bewohnern der Gegend von Jardines de Santa Rosa in der Nähe von Atacazo spirituelle Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.542609,
+                        -0.391807
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten fungiert als standhaftes Gottesdienst- und Studienzentrum vor der schroffen Kulisse des Atacazo-Reliefs.",
+                  "category": "religious",
+                  "coords": [
+                        -78.548773,
+                        -0.40101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Alizal",
+                  "text": "Az El Alizal egy magasan fekvő festői kilátó, amely hatalmas, zavartalan panorámát nyújt az Atacazo rétegvulkán drámai hegygerinceire.",
+                  "category": "natural",
+                  "coords": [
+                        -78.649677,
+                        -0.29647
+                  ]
+            },
+            {
+                  "name": "Gluma lui Darius",
+                  "text": "A Gluma lui Darius egy nyugodt taoista spirituális menedékhely, amely zökkenőmentesen illeszkedik az Atacazo vidék zord természeti tájába.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.549609,
+                        -0.353858
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana",
+                  "text": "Ez az Iglesia Cristiana egy barátságos hegyoldali szentély, amely keresztény gyülekezeti szolgáltatásokat nyújt az Atacazo terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.550362,
+                        -0.354802
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Victoria",
+                  "text": "Ez a La Victoria-i apostoli evangéliumi templom a környék nevezetes istentiszteleti központja, amelyet energikus istentiszteletek jellemeznek az Atacazo régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -78.557912,
+                        -0.346787
+                  ]
+            },
+            {
+                  "name": "Iglesia del Camposanto Metropolitano",
+                  "text": "Az Iglesia del Camposanto Metropolitano egy ünnepélyes keresztény kápolna az Atacazo régióban található fővárosi temető területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.569247,
+                        -0.342691
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Joya de Quito",
+                  "text": "Ez az apostoli evangéliumi templom egy modern istentiszteleti hely az Atacazo közelében fekvő La Joya de Quito kerületben.",
+                  "category": "religious",
+                  "coords": [
+                        -78.550761,
+                        -0.379746
+                  ]
+            },
+            {
+                  "name": "Virgen Rosa Mistica Barrio La Joya",
+                  "text": "A Virgen Rosa Mistica egy meghitt szentély Barrio La Joyában, amelyet a Misztikus Rózsa jelenésének szenteltek az Atacazo vidéken.",
+                  "category": "religious",
+                  "coords": [
+                        -78.549889,
+                        -0.405033
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan XXIII || Guamaní - Paquisha",
+                  "text": "Az Iglesia Católica San Juan XXIII egy XXIII. János pápát tisztelő aktív plébániatemplom, amely az Atacazo lábánál fekvő Guamaní-Paquisha közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564237,
+                        -0.343312
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cutuglagua",
+                  "text": "Az Iglesia de Cutuglagua egy hagyományos kialakítású közösségi templom, amely a vidéki Cutuglagua tájat horgonyozza az Atacazo régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -78.551512,
+                        -0.365659
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristo Vencedor",
+                  "text": "Az Iglesia Cristo Vencedor egy hívogató keresztény gyülekezeti tér, amely a közösségi összetartozást hangsúlyozza a magasan fekvő Atacazo régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.547831,
+                        -0.355451
+                  ]
+            },
+            {
+                  "name": "Iglesia Jardines de Santa Rosa",
+                  "text": "Az Iglesia Jardines de Santa Rosa egy helyi környékbeli templom, amely szellemi szolgáltatásokat nyújt az Atacazo közeli Jardines de Santa Rosa lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.542609,
+                        -0.391807
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Ez a hetednapi adventista templom állhatatos istentiszteleti és tanulmányi központként működik az Atacazo vidék zord hátterével szemben.",
+                  "category": "religious",
+                  "coords": [
+                        -78.548773,
+                        -0.40101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Alizal",
+                  "text": "El Alizal este un punct de belvedere pitoresc la mare altitudine, care oferă panorame vaste și neîntrerupte peste crestele vulcanului Atacazo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.649677,
+                        -0.29647
+                  ]
+            },
+            {
+                  "name": "Gluma lui Darius",
+                  "text": "Gluma lui Darius este un refugiu spiritual taoist liniștit integrat perfect în peisajul natural accidentat al reliefului Atacazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.549609,
+                        -0.353858
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana",
+                  "text": "Această Iglesia Cristiana este un sanctuar primitor pe marginea muntelui care oferă servicii congregaționale creștine în terenul Atacazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.550362,
+                        -0.354802
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Victoria",
+                  "text": "Această biserică evanghelică apostolică din La Victoria este un centru de cult notabil din cartier caracterizat prin slujbe energice în regiunea Atacazo.",
+                  "category": "religious",
+                  "coords": [
+                        -78.557912,
+                        -0.346787
+                  ]
+            },
+            {
+                  "name": "Iglesia del Camposanto Metropolitano",
+                  "text": "Biserica Cimitirului Metropolitan este o capelă creștină solemnă situată pe terenul cimitirului metropolitan din zona Atacazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.569247,
+                        -0.342691
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Joya de Quito",
+                  "text": "Această biserică evanghelică apostolică este un lăcaș de cult modern situat în cartierul vibrant La Joya de Quito din apropiere de Atacazo.",
+                  "category": "religious",
+                  "coords": [
+                        -78.550761,
+                        -0.379746
+                  ]
+            },
+            {
+                  "name": "Virgen Rosa Mistica Barrio La Joya",
+                  "text": "Virgen Rosa Mistica este un sanctuar intim din Barrio La Joya dedicat apariției Rozei Mistice în relieful Atacazo.",
+                  "category": "religious",
+                  "coords": [
+                        -78.549889,
+                        -0.405033
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan XXIII || Guamaní - Paquisha",
+                  "text": "Biserica Catolică San Juan XXIII este o biserică parohială activă care onorează Papa Ioan al XXIII-lea, deservind comunitatea Guamaní-Paquisha la baza vulcanului Atacazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564237,
+                        -0.343312
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cutuglagua",
+                  "text": "Biserica din Cutuglagua este o biserică comunitară cu design tradițional care ancorează peisajul rural din Cutuglagua în regiunea Atacazo.",
+                  "category": "religious",
+                  "coords": [
+                        -78.551512,
+                        -0.365659
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristo Vencedor",
+                  "text": "Biserica Hristos Învingătorul este un spațiu primitor al congregației creștine care subliniază părtășia comunitară în regiunea înaltă Atacazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.547831,
+                        -0.355451
+                  ]
+            },
+            {
+                  "name": "Iglesia Jardines de Santa Rosa",
+                  "text": "Biserica Jardines de Santa Rosa este o biserică locală de cartier care oferă servicii spirituale locuitorilor din zona Jardines de Santa Rosa din apropiere de Atacazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.542609,
+                        -0.391807
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Această biserică adventistă de ziua a șaptea funcționează ca un centru constant de cult și studiu așezat pe fundalul accidentat al reliefului Atacazo.",
+                  "category": "religious",
+                  "coords": [
+                        -78.548773,
+                        -0.40101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Alizal",
+                  "text": "El Alizal is a high-altitude scenic viewpoint offering vast, uninterrupted panoramas across the dramatic ridges of the Atacazo stratovolcano.",
+                  "category": "natural",
+                  "coords": [
+                        -78.649677,
+                        -0.29647
+                  ]
+            },
+            {
+                  "name": "Gluma lui Darius",
+                  "text": "Gluma lui Darius is a tranquil Taoist spiritual retreat integrated seamlessly into the rugged natural landscape of the Atacazo relief.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.549609,
+                        -0.353858
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana",
+                  "text": "This Iglesia Cristiana is a welcoming mountain-side sanctuary offering Christian congregational services within the Atacazo terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.550362,
+                        -0.354802
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Victoria",
+                  "text": "This Apostolic Evangelical church in La Victoria is a notable neighborhood worship center characterized by energetic services in the Atacazo region.",
+                  "category": "religious",
+                  "coords": [
+                        -78.557912,
+                        -0.346787
+                  ]
+            },
+            {
+                  "name": "Iglesia del Camposanto Metropolitano",
+                  "text": "The Iglesia del Camposanto Metropolitano is a solemn Christian chapel situated on the grounds of the metropolitan cemetery in the Atacazo area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.569247,
+                        -0.342691
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Joya de Quito",
+                  "text": "This Apostolic Evangelical church is a modern place of worship located in the vibrant La Joya de Quito district near Atacazo.",
+                  "category": "religious",
+                  "coords": [
+                        -78.550761,
+                        -0.379746
+                  ]
+            },
+            {
+                  "name": "Virgen Rosa Mistica Barrio La Joya",
+                  "text": "The Virgen Rosa Mistica is an intimate shrine in Barrio La Joya dedicated to the Mystical Rose apparition within the Atacazo relief.",
+                  "category": "religious",
+                  "coords": [
+                        -78.549889,
+                        -0.405033
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan XXIII || Guamaní - Paquisha",
+                  "text": "The Iglesia Católica San Juan XXIII is an active parish church honoring Pope John XXIII, serving the Guamaní-Paquisha community at the base of Atacazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564237,
+                        -0.343312
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cutuglagua",
+                  "text": "The Iglesia de Cutuglagua is a traditionally designed community church anchoring the rural landscape of Cutuglagua in the Atacazo region.",
+                  "category": "religious",
+                  "coords": [
+                        -78.551512,
+                        -0.365659
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristo Vencedor",
+                  "text": "The Iglesia Cristo Vencedor is an inviting Christian congregation space emphasizing community fellowship in the elevated Atacazo region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.547831,
+                        -0.355451
+                  ]
+            },
+            {
+                  "name": "Iglesia Jardines de Santa Rosa",
+                  "text": "The Iglesia Jardines de Santa Rosa is a local neighborhood church providing spiritual services to the residents of the Jardines de Santa Rosa area near Atacazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.542609,
+                        -0.391807
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "This Seventh-day Adventist church operates as a steadfast worship and study center set against the rugged backdrop of the Atacazo relief.",
+                  "category": "religious",
+                  "coords": [
+                        -78.548773,
+                        -0.40101
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-P",
     coords: [-78.62, -0.35],
@@ -723,7 +3612,484 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-pululahua-relief-v2",
+    id: "ecuador-pululahua-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Fungus Garden",
+                  "text": "Eine ökologische Attraktion im Geobotanischen Reservat Pululahua, die verschiedene Pilz- und Schwammarten zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.504212,
+                        -0.024116
+                  ]
+            },
+            {
+                  "name": "Monumento Mitad del Mundo Calacalí",
+                  "text": "Ein Steindenkmal in Calacalí, das die Äquatorlinie markiert und älter als der größere Mitad del Mundo-Komplex ist.",
+                  "category": "historical",
+                  "coords": [
+                        -78.514099,
+                        -0.001546
+                  ]
+            },
+            {
+                  "name": "RESERVA GEOBOTÁNICA PULULAHUA",
+                  "text": "Eine üppige geobotanische Attraktion im Krater eines erloschenen Vulkans, die einzigartige Mikroklimata und Flora bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.482655,
+                        0.040367
+                  ]
+            },
+            {
+                  "name": "El Mirador",
+                  "text": "Ein malerischer Aussichtspunkt, der weite Panoramen über die üppige, neblige Caldera des Vulkans Pululahua bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.483293,
+                        0.025413
+                  ]
+            },
+            {
+                  "name": "Museo Templo del Sol",
+                  "text": "Ein steinernes Tempelmuseum, das vom indigenen Künstler Cristóbal Ortega Maila in der Nähe des Pululahua-Kraters geschaffen wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -78.481071,
+                        0.023371
+                  ]
+            },
+            {
+                  "name": "La Reventazón",
+                  "text": "Eine geologische Attraktion und ein Wanderziel, das das abwechslungsreiche vulkanische Terrain des Pululahua-Reservats zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.500962,
+                        0.0577
+                  ]
+            },
+            {
+                  "name": "Aguas minerales",
+                  "text": "Natürliche Mineralwasserquellen, die aus der tiefen Vulkanlandschaft des Pululahua-Reservats entspringen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.508105,
+                        0.058059
+                  ]
+            },
+            {
+                  "name": "Fuyupamba plantacion de fruta",
+                  "text": "Eine hochgelegene landwirtschaftliche Attraktion in der Nähe des Pululahua-Kraters, in der lokale Andenfrüchte angebaut werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.522245,
+                        0.057882
+                  ]
+            },
+            {
+                  "name": "maraksacha",
+                  "text": "Ein geschütztes Naturschutzgebiet in der Nähe von Pululahua, das der Erhaltung des heimischen andinen Nebelwald-Ökosystems gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -78.555201,
+                        0.010068
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Tanlagua",
+                  "text": "Ein Waldschutzgebiet in der Nähe von Pululahua mit zerklüftetem Hochland-Terrain und einheimischer Artenvielfalt der Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -78.477943,
+                        0.065112
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa María Magdalena",
+                  "text": "Eine lokale katholische Kirche, die den ländlichen Gemeinden in der Nähe des geobotanischen Reservats Pululahua dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.51485,
+                        0.000666
+                  ]
+            },
+            {
+                  "name": "ECUSTARS",
+                  "text": "Ein lokaler Marktplatz in der Nähe von Pululahua, auf dem regionale Anbieter verschiedene Waren, Lebensmittel und traditionelles Kunsthandwerk anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.491024,
+                        0.00357
+                  ]
+            },
+            {
+                  "name": "Piscina de aguas minerales temperadas La Merced",
+                  "text": "Eine öffentliche Badeanlage mit temperiertem natürlichem Mineralwasser in der Nähe des Pululahua-Reservats.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.563823,
+                        -0.029151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Fungus Garden",
+                  "text": "Ökológiai látványosság a Pululahua Geobotanikai Rezervátumban, amely különféle gombafajokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.504212,
+                        -0.024116
+                  ]
+            },
+            {
+                  "name": "Monumento Mitad del Mundo Calacalí",
+                  "text": "Egy kőemlékmű Calacalíban, amely az Egyenlítő vonalát jelöli, és régebbi, mint a nagyobb Mitad del Mundo komplexum.",
+                  "category": "historical",
+                  "coords": [
+                        -78.514099,
+                        -0.001546
+                  ]
+            },
+            {
+                  "name": "RESERVA GEOBOTÁNICA PULULAHUA",
+                  "text": "Egy buja geobotanikai látványosság egy kihalt vulkán kráterében, amely egyedülálló mikroklímát és növényvilágot kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.482655,
+                        0.040367
+                  ]
+            },
+            {
+                  "name": "El Mirador",
+                  "text": "Festői kilátó, amely lenyűgöző panorámát nyújt a Pululahua vulkán buja, ködös kalderájára.",
+                  "category": "natural",
+                  "coords": [
+                        -78.483293,
+                        0.025413
+                  ]
+            },
+            {
+                  "name": "Museo Templo del Sol",
+                  "text": "Cristóbal Ortega Maila őslakos művész által a Pululahua kráter közelében létrehozott kőből épült templom-múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -78.481071,
+                        0.023371
+                  ]
+            },
+            {
+                  "name": "La Reventazón",
+                  "text": "Geológiai látványosság és túrázóhely, amely a Pululahua rezervátum változatos vulkanikus terepét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.500962,
+                        0.0577
+                  ]
+            },
+            {
+                  "name": "Aguas minerales",
+                  "text": "Természetes ásványvízforrások, amelyek a Pululahua rezervátum mély vulkanikus tájából erednek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.508105,
+                        0.058059
+                  ]
+            },
+            {
+                  "name": "Fuyupamba plantacion de fruta",
+                  "text": "Egy magaslati mezőgazdasági látványosság a Pululahua kráter közelében, ahol helyi andoki gyümölcsöket termesztenek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.522245,
+                        0.057882
+                  ]
+            },
+            {
+                  "name": "maraksacha",
+                  "text": "Védett természetvédelmi terület Pululahua közelében, amelyet az őshonos andoki köderdő ökoszisztémájának megőrzésére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        -78.555201,
+                        0.010068
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Tanlagua",
+                  "text": "Védett erdőrezervátum Pululahua közelében, amely zord hegyvidéki tereppel és őshonos andoki biodiverzitással rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        -78.477943,
+                        0.065112
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa María Magdalena",
+                  "text": "Helyi katolikus templom, amely a Pululahua geobotanikai rezervátum közelében lévő vidéki közösségeket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.51485,
+                        0.000666
+                  ]
+            },
+            {
+                  "name": "ECUSTARS",
+                  "text": "Egy helyi piac Pululahua közelében, ahol regionális árusok különféle árukat, ételeket és hagyományos kézműves termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.491024,
+                        0.00357
+                  ]
+            },
+            {
+                  "name": "Piscina de aguas minerales temperadas La Merced",
+                  "text": "Nyilvános fürdő, amely temperált, természetes ásványvízzel várja a vendégeket a Pululahua rezervátum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.563823,
+                        -0.029151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Fungus Garden",
+                  "text": "O atracție ecologică din cadrul Rezervației Geobotanice Pululahua, care prezintă diverse specii de ciuperci.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.504212,
+                        -0.024116
+                  ]
+            },
+            {
+                  "name": "Monumento Mitad del Mundo Calacalí",
+                  "text": "Un monument de piatră în Calacalí care marchează linia ecuatorului, fiind anterior complexului mai mare Mitad del Mundo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.514099,
+                        -0.001546
+                  ]
+            },
+            {
+                  "name": "RESERVA GEOBOTÁNICA PULULAHUA",
+                  "text": "O atracție geobotanică luxuriantă situată în craterul unui vulcan stins, oferind microclimate și floră unice.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.482655,
+                        0.040367
+                  ]
+            },
+            {
+                  "name": "El Mirador",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame vaste asupra calderei luxuriante și cețoase a vulcanului Pululahua.",
+                  "category": "natural",
+                  "coords": [
+                        -78.483293,
+                        0.025413
+                  ]
+            },
+            {
+                  "name": "Museo Templo del Sol",
+                  "text": "Un muzeu-templu de piatră creat de artistul indigen Cristóbal Ortega Maila în apropierea craterului Pululahua.",
+                  "category": "museum",
+                  "coords": [
+                        -78.481071,
+                        0.023371
+                  ]
+            },
+            {
+                  "name": "La Reventazón",
+                  "text": "O atracție geologică și un loc de drumeții care prezintă terenul vulcanic variat al rezervației Pululahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.500962,
+                        0.0577
+                  ]
+            },
+            {
+                  "name": "Aguas minerales",
+                  "text": "Izvoare cu apă minerală naturală care izvorăsc din peisajul vulcanic adânc al rezervației Pululahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.508105,
+                        0.058059
+                  ]
+            },
+            {
+                  "name": "Fuyupamba plantacion de fruta",
+                  "text": "O atracție agricolă de mare altitudine lângă craterul Pululahua, care cultivă fructe andine locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.522245,
+                        0.057882
+                  ]
+            },
+            {
+                  "name": "maraksacha",
+                  "text": "O zonă de rezervație naturală protejată lângă Pululahua, dedicată conservării ecosistemului nativ al pădurii de nori andine.",
+                  "category": "natural",
+                  "coords": [
+                        -78.555201,
+                        0.010068
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Tanlagua",
+                  "text": "O rezervație forestieră protejată lângă Pululahua, cu teren montan accidentat și biodiversitate andină nativă.",
+                  "category": "natural",
+                  "coords": [
+                        -78.477943,
+                        0.065112
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa María Magdalena",
+                  "text": "O biserică catolică locală care deservește comunitățile rurale din apropierea rezervației geobotanice Pululahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.51485,
+                        0.000666
+                  ]
+            },
+            {
+                  "name": "ECUSTARS",
+                  "text": "O piață locală lângă Pululahua, unde vânzătorii regionali oferă diverse mărfuri, alimente și meșteșuguri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.491024,
+                        0.00357
+                  ]
+            },
+            {
+                  "name": "Piscina de aguas minerales temperadas La Merced",
+                  "text": "O baie publică cu ape minerale naturale temperate lângă rezervația Pululahua.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.563823,
+                        -0.029151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Fungus Garden",
+                  "text": "An ecological attraction within the Pululahua Geobotanical Reserve showcasing diverse mushroom and fungi species.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.504212,
+                        -0.024116
+                  ]
+            },
+            {
+                  "name": "Monumento Mitad del Mundo Calacalí",
+                  "text": "A stone monument in Calacalí marking the equator line, predating the larger Mitad del Mundo complex.",
+                  "category": "historical",
+                  "coords": [
+                        -78.514099,
+                        -0.001546
+                  ]
+            },
+            {
+                  "name": "RESERVA GEOBOTÁNICA PULULAHUA",
+                  "text": "A lush geobotanical attraction set within the crater of an extinct volcano, offering unique microclimates and flora.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.482655,
+                        0.040367
+                  ]
+            },
+            {
+                  "name": "El Mirador",
+                  "text": "A scenic viewpoint offering sweeping panoramas over the lush, misty caldera of the Pululahua volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -78.483293,
+                        0.025413
+                  ]
+            },
+            {
+                  "name": "Museo Templo del Sol",
+                  "text": "A stone temple-museum created by indigenous artist Cristóbal Ortega Maila near the Pululahua crater.",
+                  "category": "museum",
+                  "coords": [
+                        -78.481071,
+                        0.023371
+                  ]
+            },
+            {
+                  "name": "La Reventazón",
+                  "text": "A geological attraction and hiking spot showcasing the varied volcanic terrain of the Pululahua reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.500962,
+                        0.0577
+                  ]
+            },
+            {
+                  "name": "Aguas minerales",
+                  "text": "Natural mineral water springs emerging from the deep volcanic landscape of the Pululahua reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.508105,
+                        0.058059
+                  ]
+            },
+            {
+                  "name": "Fuyupamba fruit farm",
+                  "text": "A high-altitude agricultural attraction near the Pululahua crater cultivating local Andean fruits.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.522245,
+                        0.057882
+                  ]
+            },
+            {
+                  "name": "maraksacha",
+                  "text": "A protected nature reserve area near Pululahua dedicated to preserving the native Andean cloud forest ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -78.555201,
+                        0.010068
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Tanlagua",
+                  "text": "A protected forest reserve near Pululahua featuring rugged highland terrain and native Andean biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -78.477943,
+                        0.065112
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa María Magdalena",
+                  "text": "A local Catholic church serving the rural communities near the Pululahua geobotanical reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.51485,
+                        0.000666
+                  ]
+            },
+            {
+                  "name": "ECUSTARS",
+                  "text": "A local marketplace near Pululahua where regional vendors offer various goods, foods, and traditional crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.491024,
+                        0.00357
+                  ]
+            },
+            {
+                  "name": "Piscina de aguas minerales temperadas La Merced",
+                  "text": "A public bathing facility featuring tempered natural mineral waters near the Pululahua reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.563823,
+                        -0.029151
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "EC-P",
     coords: [-78.5, 0.03],
@@ -867,7 +4233,592 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-chongon-colonche-relief-v2",
+    id: "ecuador-chongon-colonche-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pk. 244 sector",
+                  "text": "Dieser Streckenabschnitt in der Chongón-Colonche-Region ist ein lokaler Orientierungspunkt für Reisende.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.110216,
+                        -1.865018
+                  ]
+            },
+            {
+                  "name": "Pk. 245 sector",
+                  "text": "Dieser markierte Wegeabschnitt in der Chongón-Colonche-Region hilft Besuchern bei der Orientierung im Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.107944,
+                        -1.873842
+                  ]
+            },
+            {
+                  "name": "Pk. 249. Sector",
+                  "text": "Dieser spezifische Wegepunkt in der Chongón-Colonche-Region dient der Wegemarkierung entlang der Route.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.091801,
+                        -1.90497
+                  ]
+            },
+            {
+                  "name": "PK. 248",
+                  "text": "Diese Streckenmarkierung in der Chongón-Colonche-Region ist ein nützlicher Bezugspunkt für Durchreisende.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.092317,
+                        -1.900897
+                  ]
+            },
+            {
+                  "name": "Pk. 246+750",
+                  "text": "Diese exakte Kilometrierung in der Chongón-Colonche-Region gibt Wanderern oder Fahrern Orientierung.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.099757,
+                        -1.887067
+                  ]
+            },
+            {
+                  "name": "Pk. 250. Sector",
+                  "text": "Dieser Wegeabschnitt in der Chongón-Colonche-Region ist Teil der regionalen Streckenführung.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.090691,
+                        -1.914073
+                  ]
+            },
+            {
+                  "name": "Área de Conservación \"La Esperanza\"",
+                  "text": "Dieses Naturschutzgebiet schützt die lokale Flora und Fauna in der Region Chongón-Colonche.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.192386,
+                        -1.918125
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de la Buena Esperanza",
+                  "text": "Diese katholische Kirche in der Chongón-Colonche-Region versammelt die Gläubigen zu traditionellen Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.146629,
+                        -1.879594
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Rosario",
+                  "text": "Diese katholische Kapelle in der Chongón-Colonche-Region bietet einen Ort für das Gebet zum Rosenkranz.",
+                  "category": "religious",
+                  "coords": [
+                        -80.137738,
+                        -1.84427
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica ?",
+                  "text": "Dieses katholische Gotteshaus in der Chongón-Colonche-Region dient als spiritueller Treffpunkt für Anwohner.",
+                  "category": "religious",
+                  "coords": [
+                        -80.121412,
+                        -1.849613
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa María",
+                  "text": "Diese der Heiligen Maria gewidmete Kapelle in der Chongón-Colonche-Region ist ein Ort der Marienverehrung.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.122126,
+                        -1.858858
+                  ]
+            },
+            {
+                  "name": "Iglesia de las Mercedes",
+                  "text": "Diese Kirche in der Chongón-Colonche-Region zeichnet sich durch ihre regelmäßigen Gemeindegottesdienste aus.",
+                  "category": "religious",
+                  "coords": [
+                        -80.151869,
+                        -1.946042
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Señor de los Milagros en Bachillero",
+                  "text": "Diese katholische Kapelle in Bachillero ist dem Herrn der Wunder geweiht und zieht Pilger an.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.202532,
+                        -1.866366
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Lorenzo",
+                  "text": "Diese kleine katholische Kapelle in der Chongón-Colonche-Region ist dem Heiligen Laurentius geweiht.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.098494,
+                        -1.867912
+                  ]
+            },
+            {
+                  "name": "Capilla San Antonio",
+                  "text": "Diese Kapelle in der Chongón-Colonche-Region ist ein ruhiger Ort für private Gebete der Einheimischen.",
+                  "category": "religious",
+                  "coords": [
+                        -80.153805,
+                        -1.944647
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Auf diesem städtischen Markt in der Chongón-Colonche-Region verkaufen Händler frische landwirtschaftliche Erzeugnisse.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.140417,
+                        -1.880493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pk. 244 sector",
+                  "text": "Ez a szakasz a Chongón-Colonche régióban egy helyi tájékozódási pont az utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.110216,
+                        -1.865018
+                  ]
+            },
+            {
+                  "name": "Pk. 245 sector",
+                  "text": "Ez a kijelölt útszakasz a Chongón-Colonche régióban segíti a látogatókat a terepen való tájékozódásban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.107944,
+                        -1.873842
+                  ]
+            },
+            {
+                  "name": "Pk. 249. Sector",
+                  "text": "Ez a konkrét útpont a Chongón-Colonche régióban az útvonal kijelölését szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.091801,
+                        -1.90497
+                  ]
+            },
+            {
+                  "name": "PK. 248",
+                  "text": "Ez az útvonaljelző a Chongón-Colonche régióban hasznos viszonyítási pont az áthaladók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.092317,
+                        -1.900897
+                  ]
+            },
+            {
+                  "name": "Pk. 246+750",
+                  "text": "Ez a pontos kilométerkő a Chongón-Colonche régióban útmutatást ad a túrázóknak vagy a vezetőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.099757,
+                        -1.887067
+                  ]
+            },
+            {
+                  "name": "Pk. 250. Sector",
+                  "text": "Ez az útszakasz a Chongón-Colonche régióban a regionális útvonal része.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.090691,
+                        -1.914073
+                  ]
+            },
+            {
+                  "name": "Área de Conservación \"La Esperanza\"",
+                  "text": "Ez a természetvédelmi terület a Chongón-Colonche régió helyi növény- és állatvilágát óvja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.192386,
+                        -1.918125
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de la Buena Esperanza",
+                  "text": "Ez a katolikus templom a Chongón-Colonche régióban hagyományos misékre gyűjti össze a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.146629,
+                        -1.879594
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Rosario",
+                  "text": "Ez a katolikus kápolna a Chongón-Colonche régióban a rózsafüzér imádkozásának helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -80.137738,
+                        -1.84427
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica ?",
+                  "text": "Ez a katolikus imahely a Chongón-Colonche régióban a helyiek spirituális találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -80.121412,
+                        -1.849613
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa María",
+                  "text": "Ez a Szűz Máriának szentelt kápolna a Chongón-Colonche régióban a Mária-tisztelet helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.122126,
+                        -1.858858
+                  ]
+            },
+            {
+                  "name": "Iglesia de las Mercedes",
+                  "text": "Ez a Chongón-Colonche régióban található templom a rendszeres közösségi istentiszteletekről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -80.151869,
+                        -1.946042
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Señor de los Milagros en Bachillero",
+                  "text": "Ezt a bachillerói katolikus kápolnát a Csodák Urának szentelték, és zarándokokat vonz.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.202532,
+                        -1.866366
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Lorenzo",
+                  "text": "Ezt a kis katolikus kápolnát a Chongón-Colonche régióban Szent Lőrincnek szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.098494,
+                        -1.867912
+                  ]
+            },
+            {
+                  "name": "Capilla San Antonio",
+                  "text": "Ez a kápolna a Chongón-Colonche régióban a helyiek magánimáinak nyugodt helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -80.153805,
+                        -1.944647
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Ezen a városi piacon a Chongón-Colonche régióban a kereskedők friss mezőgazdasági termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.140417,
+                        -1.880493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pk. 244 sector",
+                  "text": "Acest sector de traseu din regiunea Chongón-Colonche servește ca punct de reper local pentru călători.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.110216,
+                        -1.865018
+                  ]
+            },
+            {
+                  "name": "Pk. 245 sector",
+                  "text": "Acest sector marcat din regiunea Chongón-Colonche ajută vizitatorii să se orienteze pe teren.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.107944,
+                        -1.873842
+                  ]
+            },
+            {
+                  "name": "Pk. 249. Sector",
+                  "text": "Acest punct specific din regiunea Chongón-Colonche servește ca marcaj de-a lungul rutei.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.091801,
+                        -1.90497
+                  ]
+            },
+            {
+                  "name": "PK. 248",
+                  "text": "Acest marcaj de traseu din regiunea Chongón-Colonche este un punct de referință util pentru călători.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.092317,
+                        -1.900897
+                  ]
+            },
+            {
+                  "name": "Pk. 246+750",
+                  "text": "Acest marcaj kilometric exact din regiunea Chongón-Colonche ghidează drumeții sau șoferii.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.099757,
+                        -1.887067
+                  ]
+            },
+            {
+                  "name": "Pk. 250. Sector",
+                  "text": "Acest sector de drum din regiunea Chongón-Colonche face parte din traseul regional.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.090691,
+                        -1.914073
+                  ]
+            },
+            {
+                  "name": "Área de Conservación \"La Esperanza\"",
+                  "text": "Această arie de conservare protejează flora și fauna locală din regiunea Chongón-Colonche.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.192386,
+                        -1.918125
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de la Buena Esperanza",
+                  "text": "Această biserică catolică din regiunea Chongón-Colonche adună credincioșii pentru slujbe tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.146629,
+                        -1.879594
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Rosario",
+                  "text": "Această capelă catolică din regiunea Chongón-Colonche oferă un loc pentru rugăciunea rozariului.",
+                  "category": "religious",
+                  "coords": [
+                        -80.137738,
+                        -1.84427
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica ?",
+                  "text": "Acest lăcaș de cult catolic din regiunea Chongón-Colonche servește ca punct de întâlnire spirituală pentru locuitori.",
+                  "category": "religious",
+                  "coords": [
+                        -80.121412,
+                        -1.849613
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa María",
+                  "text": "Această capelă dedicată Sfintei Maria din regiunea Chongón-Colonche este un loc de venerație mariană.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.122126,
+                        -1.858858
+                  ]
+            },
+            {
+                  "name": "Iglesia de las Mercedes",
+                  "text": "Această biserică din regiunea Chongón-Colonche se remarcă prin slujbele religioase regulate ale comunității.",
+                  "category": "religious",
+                  "coords": [
+                        -80.151869,
+                        -1.946042
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Señor de los Milagros en Bachillero",
+                  "text": "Această capelă catolică din Bachillero este dedicată Domnului Miracolelor și atrage pelerini.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.202532,
+                        -1.866366
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Lorenzo",
+                  "text": "Această mică capelă catolică din regiunea Chongón-Colonche este dedicată Sfântului Laurențiu.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.098494,
+                        -1.867912
+                  ]
+            },
+            {
+                  "name": "Capilla San Antonio",
+                  "text": "Această capelă din regiunea Chongón-Colonche este un loc liniștit pentru rugăciunile private ale localnicilor.",
+                  "category": "religious",
+                  "coords": [
+                        -80.153805,
+                        -1.944647
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "În această piață municipală din regiunea Chongón-Colonche, comercianții vând produse agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.140417,
+                        -1.880493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pk. 244 sector",
+                  "text": "This route sector in the Chongón-Colonche region acts as a local landmark for travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.110216,
+                        -1.865018
+                  ]
+            },
+            {
+                  "name": "Pk. 245 sector",
+                  "text": "This marked route sector in the Chongón-Colonche region helps visitors navigate the terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.107944,
+                        -1.873842
+                  ]
+            },
+            {
+                  "name": "Pk. 249. Sector",
+                  "text": "This specific waypoint in the Chongón-Colonche region serves as a marker along the route.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.091801,
+                        -1.90497
+                  ]
+            },
+            {
+                  "name": "PK. 248",
+                  "text": "This route marker in the Chongón-Colonche region is a useful reference point for people passing through.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.092317,
+                        -1.900897
+                  ]
+            },
+            {
+                  "name": "Pk. 246+750",
+                  "text": "This precise kilometer marker in the Chongón-Colonche region guides hikers or drivers.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.099757,
+                        -1.887067
+                  ]
+            },
+            {
+                  "name": "Pk. 250. Sector",
+                  "text": "This road sector in the Chongón-Colonche region is part of the regional route layout.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.090691,
+                        -1.914073
+                  ]
+            },
+            {
+                  "name": "Área de Conservación \"La Esperanza\"",
+                  "text": "This conservation area protects the local flora and fauna within the Chongón-Colonche region.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.192386,
+                        -1.918125
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de la Buena Esperanza",
+                  "text": "This Catholic church in the Chongón-Colonche region gathers the faithful for traditional masses.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.146629,
+                        -1.879594
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Rosario",
+                  "text": "This Catholic chapel in the Chongón-Colonche region offers a place for reciting the rosary.",
+                  "category": "religious",
+                  "coords": [
+                        -80.137738,
+                        -1.84427
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica ?",
+                  "text": "This Catholic place of worship in the Chongón-Colonche region serves as a spiritual meeting point for residents.",
+                  "category": "religious",
+                  "coords": [
+                        -80.121412,
+                        -1.849613
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa María",
+                  "text": "This chapel dedicated to Saint Mary in the Chongón-Colonche region is a site for Marian devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.122126,
+                        -1.858858
+                  ]
+            },
+            {
+                  "name": "Iglesia de las Mercedes",
+                  "text": "This church in the Chongón-Colonche region is characterized by its regular community worship services.",
+                  "category": "religious",
+                  "coords": [
+                        -80.151869,
+                        -1.946042
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Señor de los Milagros en Bachillero",
+                  "text": "This Catholic chapel in Bachillero is dedicated to the Lord of Miracles and attracts pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.202532,
+                        -1.866366
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Lorenzo",
+                  "text": "This small Catholic chapel in the Chongón-Colonche region is dedicated to Saint Lawrence.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.098494,
+                        -1.867912
+                  ]
+            },
+            {
+                  "name": "Capilla San Antonio",
+                  "text": "This chapel in the Chongón-Colonche region is a quiet place for private prayers by locals.",
+                  "category": "religious",
+                  "coords": [
+                        -80.153805,
+                        -1.944647
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "At this municipal market in the Chongón-Colonche region, vendors sell fresh agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.140417,
+                        -1.880493
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "EC-G",
     coords: [-80.16, -1.93],
@@ -915,7 +4866,304 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-puyango-relief-v2",
+    id: "ecuador-puyango-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Bosque Petrificado de Puyango",
+                  "text": "Eine berühmte versteinerte Waldattraktion, die massive versteinerte Baumstämme im Reliefgebiet von Puyango zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.092671,
+                        -3.880041
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Ein erhöhter malerischer Aussichtspunkt, der Besuchern ein weites Panorama des zerklüfteten Puyango-Geländes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -80.094173,
+                        -3.877541
+                  ]
+            },
+            {
+                  "name": "Mirador 2",
+                  "text": "Eine zweite Aussichtsplattform, die Weitwinkelblicke über die üppigen Landschaften rund um Puyango bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -80.093121,
+                        -3.877069
+                  ]
+            },
+            {
+                  "name": "Museo Bosque Puyango",
+                  "text": "Ein spezialisiertes Museum, das prähistorische Fossilien und geologische Proben aus dem versteinerten Wald von Puyango ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -80.080714,
+                        -3.882115
+                  ]
+            },
+            {
+                  "name": "Cerro Cochurco",
+                  "text": "Ein markanter Berggipfel, der Teil des zerklüfteten topografischen Reliefs rund um Puyango ist.",
+                  "category": "natural",
+                  "coords": [
+                        -80.066667,
+                        -3.9
+                  ]
+            },
+            {
+                  "name": "Cerro La Lajilla",
+                  "text": "Ein markanter natürlicher Gipfel, der steil in die Skyline der Region Puyango aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        -80.066403,
+                        -3.901557
+                  ]
+            },
+            {
+                  "name": "Cerro El Pindo",
+                  "text": "Ein erhöhter Gipfel, der zur dramatischen, bergigen Landschaft des Puyango-Gebiets beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -80.083333,
+                        -3.95
+                  ]
+            },
+            {
+                  "name": "Bosque Petrificado Puyango",
+                  "text": "Ein gefeiertes Naturschutzgebiet, das eine weltklasse Sammlung von versteinertem Holz und prähistorischen Meeresfossilien schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -80.06358,
+                        -3.879332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Bosque Petrificado de Puyango",
+                  "text": "Egy híres megkövesedett erdei látványosság, amely hatalmas megkövesedett fatörzseket mutat be a puyangói domborzati területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.092671,
+                        -3.880041
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Egy magaslati festői kilátó, amely lenyűgöző panorámát nyújt a látogatóknak a zord puyangói terepre.",
+                  "category": "natural",
+                  "coords": [
+                        -80.094173,
+                        -3.877541
+                  ]
+            },
+            {
+                  "name": "Mirador 2",
+                  "text": "Egy második kilátóterasz, amely széles látószögű kilátást nyújt a Puyangót körülvevő buja tájakra.",
+                  "category": "natural",
+                  "coords": [
+                        -80.093121,
+                        -3.877069
+                  ]
+            },
+            {
+                  "name": "Museo Bosque Puyango",
+                  "text": "Egy speciális múzeum, amely a Puyango Megkövesedett Erdőből származó őskori kövületeket és geológiai mintákat állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -80.080714,
+                        -3.882115
+                  ]
+            },
+            {
+                  "name": "Cerro Cochurco",
+                  "text": "Egy jellegzetes hegycsúcs, amely a Puyangót körülvevő zord topográfiai domborzat részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -80.066667,
+                        -3.9
+                  ]
+            },
+            {
+                  "name": "Cerro La Lajilla",
+                  "text": "Egy kiemelkedő természetes hegycsúcs, amely meredeken emelkedik a puyangói régió látképébe.",
+                  "category": "natural",
+                  "coords": [
+                        -80.066403,
+                        -3.901557
+                  ]
+            },
+            {
+                  "name": "Cerro El Pindo",
+                  "text": "Egy magas hegycsúcs, amely hozzájárul a puyangói terület drámai, hegyvidéki tájához.",
+                  "category": "natural",
+                  "coords": [
+                        -80.083333,
+                        -3.95
+                  ]
+            },
+            {
+                  "name": "Bosque Petrificado Puyango",
+                  "text": "Egy ünnepelt természetvédelmi terület, amely a megkövesedett fa és a történelem előtti tengeri kövületek világszínvonalú gyűjteményét védi.",
+                  "category": "natural",
+                  "coords": [
+                        -80.06358,
+                        -3.879332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Bosque Petrificado de Puyango",
+                  "text": "O faimoasă atracție a unei păduri fosilizate, prezentând trunchiuri masive de copaci pietrificați în zona de relief Puyango.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.092671,
+                        -3.880041
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Un punct de belvedere pitoresc și ridicat, oferind vizitatorilor o panoramă vastă a terenului accidentat din Puyango.",
+                  "category": "natural",
+                  "coords": [
+                        -80.094173,
+                        -3.877541
+                  ]
+            },
+            {
+                  "name": "Mirador 2",
+                  "text": "O a doua punte de observație care oferă vederi cu unghi larg asupra peisajelor luxuriante care înconjoară Puyango.",
+                  "category": "natural",
+                  "coords": [
+                        -80.093121,
+                        -3.877069
+                  ]
+            },
+            {
+                  "name": "Museo Bosque Puyango",
+                  "text": "Un muzeu specializat care expune fosile preistorice și specimene geologice colectate din Pădurea Pietrificată Puyango.",
+                  "category": "museum",
+                  "coords": [
+                        -80.080714,
+                        -3.882115
+                  ]
+            },
+            {
+                  "name": "Cerro Cochurco",
+                  "text": "Un vârf de munte distinctiv care face parte din relieful topografic accidentat din jurul orașului Puyango.",
+                  "category": "natural",
+                  "coords": [
+                        -80.066667,
+                        -3.9
+                  ]
+            },
+            {
+                  "name": "Cerro La Lajilla",
+                  "text": "Un vârf natural proeminent care se ridică brusc pe linia orizontului din regiunea Puyango.",
+                  "category": "natural",
+                  "coords": [
+                        -80.066403,
+                        -3.901557
+                  ]
+            },
+            {
+                  "name": "Cerro El Pindo",
+                  "text": "Un vârf înalt care contribuie la peisajul dramatic și muntos al zonei Puyango.",
+                  "category": "natural",
+                  "coords": [
+                        -80.083333,
+                        -3.95
+                  ]
+            },
+            {
+                  "name": "Bosque Petrificado Puyango",
+                  "text": "O rezervație naturală celebră care protejează o colecție de talie mondială de lemn pietrificat și fosile marine preistorice.",
+                  "category": "natural",
+                  "coords": [
+                        -80.06358,
+                        -3.879332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Bosque Petrificado de Puyango",
+                  "text": "A famous fossilized forest attraction showcasing massive petrified tree trunks in the Puyango relief area.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.092671,
+                        -3.880041
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "An elevated scenic viewpoint offering visitors a sweeping panorama of the rugged Puyango terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -80.094173,
+                        -3.877541
+                  ]
+            },
+            {
+                  "name": "Mirador 2",
+                  "text": "A secondary observation deck providing wide-angle views over the lush landscapes surrounding Puyango.",
+                  "category": "natural",
+                  "coords": [
+                        -80.093121,
+                        -3.877069
+                  ]
+            },
+            {
+                  "name": "Museo Bosque Puyango",
+                  "text": "A specialized museum displaying prehistoric fossils and geological specimens collected from the Puyango Petrified Forest.",
+                  "category": "museum",
+                  "coords": [
+                        -80.080714,
+                        -3.882115
+                  ]
+            },
+            {
+                  "name": "Cerro Cochurco",
+                  "text": "A distinctive mountain peak that forms part of the rugged topographical relief surrounding Puyango.",
+                  "category": "natural",
+                  "coords": [
+                        -80.066667,
+                        -3.9
+                  ]
+            },
+            {
+                  "name": "Cerro La Lajilla",
+                  "text": "A prominent natural peak rising sharply into the skyline of the Puyango region.",
+                  "category": "natural",
+                  "coords": [
+                        -80.066403,
+                        -3.901557
+                  ]
+            },
+            {
+                  "name": "Cerro El Pindo",
+                  "text": "An elevated peak contributing to the dramatic, mountainous landscape of the Puyango area.",
+                  "category": "natural",
+                  "coords": [
+                        -80.083333,
+                        -3.95
+                  ]
+            },
+            {
+                  "name": "Bosque Petrificado Puyango",
+                  "text": "A celebrated nature reserve protecting a world-class collection of petrified wood and prehistoric marine fossils.",
+                  "category": "natural",
+                  "coords": [
+                        -80.06358,
+                        -3.879332
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EC-L",
     coords: [-80.08, -3.88],
@@ -1011,7 +5259,700 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-jatun-sacha-relief-v2",
+    id: "ecuador-jatun-sacha-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ally Maíz",
+                  "text": "Ally Maíz ist eine regionale Attraktion in der amazonischen Umgebung von Jatun Sacha, die lokale kulturelle Elemente präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.584798,
+                        -1.051969
+                  ]
+            },
+            {
+                  "name": "Balneario Playa Selva",
+                  "text": "Dieses Dschungel-Strandbad bietet natürliche Badeplätze inmitten der dichten Vegetation des Regenwaldgebiets Jatun Sacha.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.592828,
+                        -1.104979
+                  ]
+            },
+            {
+                  "name": "Indigenous traps",
+                  "text": "Dieses einzigartige Museum stellt traditionelle indigene Jagdfallen aus Naturmaterialien aus, die im umliegenden Amazonas-Regenwald zu finden sind.",
+                  "category": "museum",
+                  "coords": [
+                        -77.591465,
+                        -1.038736
+                  ]
+            },
+            {
+                  "name": "Simón Bolívar",
+                  "text": "Dieses Denkmal ehrt den Revolutionsführer Simón Bolívar und steht als historisches Zeichen innerhalb der Gemeinde Jatun Sacha.",
+                  "category": "historical",
+                  "coords": [
+                        -77.585774,
+                        -1.043617
+                  ]
+            },
+            {
+                  "name": "Guaysa Wasi Gemeinde Zemtrum",
+                  "text": "Das Guaysa Wasi Community Center fungiert als lokales kulturelles Zentrum, das das indigene Erbe in der Region Jatun Sacha fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.610128,
+                        -1.044302
+                  ]
+            },
+            {
+                  "name": "Kamak Maki",
+                  "text": "Kamak Maki ist ein ethnographisches Freilichtmuseum im ecuadorianischen Regenwald, das die indigenen Kulturen und Traditionen des Amazonasbeckens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -77.63533,
+                        -1.066123
+                  ]
+            },
+            {
+                  "name": "Sendero de trampas chichico amarun",
+                  "text": "Dieser Dschungelpfad führt durch die dichte Vegetation und demonstriert traditionelle indigene Tierfallen des Amazonasgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.640736,
+                        -1.062779
+                  ]
+            },
+            {
+                  "name": "Ingreso a la cascada Alto Pusuno",
+                  "text": "Der Eingangsbereich zur Alto Pusuno-Kavitation öffnet den Weg zu einem malerischen Wasserfall, der tief im tropischen Regenwald versteckt liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.606602,
+                        -0.999028
+                  ]
+            },
+            {
+                  "name": "Sendero de loros Chuyan Urku",
+                  "text": "Dieser Naturpfad ist speziell für die Vogelbeobachtung angelegt und bietet hervorragende Möglichkeiten, die farbenprächtigen Papageien des Regenwaldes zu erspähen.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.619516,
+                        -1.027834
+                  ]
+            },
+            {
+                  "name": "lamedero de loras Chuyan Urcul",
+                  "text": "Die Lehmlecke zieht zahlreiche Papageien an, die hier wichtige Mineralien aus dem feuchten Boden aufnehmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.61804,
+                        -1.013364
+                  ]
+            },
+            {
+                  "name": "Caverna “La Puerta del Duende Ilayacu”",
+                  "text": "Die faszinierende Naturhöhle im Dschungel ist von lokalen Mythen über Waldgeister umrankt und bietet einen spannenden unterirdischen Einblick.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.609076,
+                        -1.013251
+                  ]
+            },
+            {
+                  "name": "cascada Amarum Paccha",
+                  "text": "Der beeindruckende Wasserfall stürzt über steile Felsklippen in ein natürliches Becken, umgeben von der üppigen grünen Flora des Amazonas.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.581382,
+                        -0.999828
+                  ]
+            },
+            {
+                  "name": "Mirador Sasha Sisa",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über das dichte Blätterdach des unberührten ecuadorianischen Dschungels.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.576051,
+                        -1.018704
+                  ]
+            },
+            {
+                  "name": "Centro de cerámica La Selva",
+                  "text": "In diesem Handwerkszentrum können Besucher die traditionelle amazonische Keramikkunst und deren regionale Musterungstechniken kennenlernen.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.544209,
+                        -1.057479
+                  ]
+            },
+            {
+                  "name": "Pantano de caimanes",
+                  "text": "Dieses geschützte Sumpfgebiet ist der natürliche Lebensraum verschiedener Kaimanarten, die sich in den flachen, schlammigen Gewässern verstecken.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.528891,
+                        -1.055081
+                  ]
+            },
+            {
+                  "name": "Mirador Puerto Barantilla",
+                  "text": "Von diesem erhöhten Aussichtspunkt blickt man direkt auf den gewundenen Flusslauf und die kleinen Boote der einheimischen Gemeinschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.540837,
+                        -1.081945
+                  ]
+            },
+            {
+                  "name": "Museo de trampas Sacha Ambi",
+                  "text": "Das Museum stellt eine Sammlung historischer und traditioneller Jagdfallen aus, die vom Überlebensgeschick der indigenen Waldbewohner zeugen.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.551513,
+                        -1.069944
+                  ]
+            },
+            {
+                  "name": "Estación Biológica Jatun Sacha y Reserva Selva Viva",
+                  "text": "Diese biologische Forschungsstation schützt ein wichtiges Stück Primärwald und engagiert sich für den Erhalt der amazonischen Biodiversität.",
+                  "category": "natural",
+                  "coords": [
+                        -77.612278,
+                        -1.085138
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Sagrado Corazón de Jesús - Alto Pusuno",
+                  "text": "Die kleine katholische Kapelle dient den Gläubigen der Dschungelgemeinde als spiritueller Rückzugsort inmitten der tropischen Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.60556,
+                        -0.99972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ally Maíz",
+                  "text": "Az Ally Maíz egy regionális látványosság Jatun Sacha amazonasi környezetében, amely helyi kulturális elemeket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.584798,
+                        -1.051969
+                  ]
+            },
+            {
+                  "name": "Balneario Playa Selva",
+                  "text": "Ez a dzsungel tengerparti üdülőhely természetes fürdőhelyekkel rendelkezik a Jatun Sacha esőerdő sűrű növényzete közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.592828,
+                        -1.104979
+                  ]
+            },
+            {
+                  "name": "Indigenous traps",
+                  "text": "Ez az egyedülálló múzeum olyan hagyományos őslakos vadászcsapdákat állít ki, amelyeket a környező amazonasi esőerdőben található természetes anyagokból készítettek.",
+                  "category": "museum",
+                  "coords": [
+                        -77.591465,
+                        -1.038736
+                  ]
+            },
+            {
+                  "name": "Simón Bolívar",
+                  "text": "Ez az emlékmű Simón Bolívar forradalmi vezetőnek állít emléket, történelmi jelzőként állva a Jatun Sacha közösségben.",
+                  "category": "historical",
+                  "coords": [
+                        -77.585774,
+                        -1.043617
+                  ]
+            },
+            {
+                  "name": "Centro Comunitario Waysa Wasi",
+                  "text": "A Guaysa Wasi Közösségi Központ helyi kulturális központként működik, amely elősegíti az őslakosok örökségét a Jatun Sacha régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.610128,
+                        -1.044302
+                  ]
+            },
+            {
+                  "name": "Kamak Maki",
+                  "text": "A Kamak Maki egy szabadtéri néprajzi múzeum az ecuadori esőerdőben, amely az Amazonas-medence őslakos kultúráit és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.63533,
+                        -1.066123
+                  ]
+            },
+            {
+                  "name": "Sendero de trampas chichico amarun",
+                  "text": "Ez a dzsungelösvény a sűrű növényzeten keresztül vezet, és bemutatja az Amazonas-vidék hagyományos őslakos állatcsapdáit.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.640736,
+                        -1.062779
+                  ]
+            },
+            {
+                  "name": "Ingreso a la cascada Alto Pusuno",
+                  "text": "Az Alto Pusuno vízeséshez vezető bejárat egy festői zuhataghoz vezet, amely mélyen a trópusi esőerdőben rejtőzik.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.606602,
+                        -0.999028
+                  ]
+            },
+            {
+                  "name": "Sendero de loros Chuyan Urku",
+                  "text": "Ezt a tanösvényt kifejezetten madármegfigyelésre alakították ki, és kiváló lehetőséget kínál az esőerdő színpompás papagájainak megpillantására.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.619516,
+                        -1.027834
+                  ]
+            },
+            {
+                  "name": "lamedero de loras Chuyan Urcul",
+                  "text": "Az agyagnyaló sok papagájt vonz, amelyek itt fontos ásványi anyagokat vesznek fel a nedves talajból.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.61804,
+                        -1.013364
+                  ]
+            },
+            {
+                  "name": "Caverna “La Puerta del Duende Ilayacu”",
+                  "text": "A dzsungelben található lenyűgöző természetes barlangot az erdei szellemekről szóló helyi mítoszok övezik, és izgalmas földalatti betekintést nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.609076,
+                        -1.013251
+                  ]
+            },
+            {
+                  "name": "cascada Amarum Paccha",
+                  "text": "A lenyűgöző vízesés meredek sziklákról zúdul egy természetes medencébe, amelyet az Amazonas buja zöld növényzete vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.581382,
+                        -0.999828
+                  ]
+            },
+            {
+                  "name": "Mirador Sasha Sisa",
+                  "text": "Ez a kilátó széles panorámát nyújt az érintetlen ecuadori dzsungel sűrű lombkoronájára.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.576051,
+                        -1.018704
+                  ]
+            },
+            {
+                  "name": "Centro de cerámica La Selva",
+                  "text": "Ebben a kézműves központban a látogatók megismerkedhetnek a hagyományos amazóniai kerámiaművészettel és a regionális mintázási technikákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.544209,
+                        -1.057479
+                  ]
+            },
+            {
+                  "name": "Pantano de caimanes",
+                  "text": "Ez a védett mocsárvidék különböző kajmánfajok természetes élőhelye, amelyek a sekély, iszapos vizekben rejtőznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.528891,
+                        -1.055081
+                  ]
+            },
+            {
+                  "name": "Mirador Puerto Barantilla",
+                  "text": "Ebből a megemelt kilátóból egyenesen a kanyargós folyómederre és a helyi közösségek kis csónakjaira lehet rálátni.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.540837,
+                        -1.081945
+                  ]
+            },
+            {
+                  "name": "Museo de trampas Sacha Ambi",
+                  "text": "A múzeum történelmi és hagyományos vadászcsapdák gyűjteményét mutatja be, amelyek az őslakos erdei lakók túlélési képességeiről tanúskodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.551513,
+                        -1.069944
+                  ]
+            },
+            {
+                  "name": "Estación Biológica Jatun Sacha y Reserva Selva Viva",
+                  "text": "Ez a biológiai kutatóállomás egy fontos őserdőrészt véd, és elkötelezett az amazóniai biológiai sokféleség megőrzése mellett.",
+                  "category": "natural",
+                  "coords": [
+                        -77.612278,
+                        -1.085138
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Sagrado Corazón de Jesús - Alto Pusuno",
+                  "text": "A kis katolikus kápolna a dzsungelközösség hívőinek szellemi menedékeként szolgál a trópusi természet lágy ölén.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.60556,
+                        -0.99972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ally Maíz",
+                  "text": "Ally Maíz este o atracție regională situată în mediul amazonian al Jatun Sacha, prezentând elemente culturale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.584798,
+                        -1.051969
+                  ]
+            },
+            {
+                  "name": "Balneario Playa Selva",
+                  "text": "Această stațiune de plajă din junglă oferă locuri de înot naturale în mijlocul vegetației dese din zona pădurii tropicale Jatun Sacha.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.592828,
+                        -1.104979
+                  ]
+            },
+            {
+                  "name": "Indigenous traps",
+                  "text": "Acest muzeu unic expune capcane de vânătoare tradiționale indigene construite din materiale naturale găsite în pădurea tropicală amazoniană din jur.",
+                  "category": "museum",
+                  "coords": [
+                        -77.591465,
+                        -1.038736
+                  ]
+            },
+            {
+                  "name": "Simón Bolívar",
+                  "text": "Acest monument îl onorează pe liderul revoluționar Simón Bolívar, stând ca un marcaj istoric în cadrul comunității Jatun Sacha.",
+                  "category": "historical",
+                  "coords": [
+                        -77.585774,
+                        -1.043617
+                  ]
+            },
+            {
+                  "name": "Centro Comunitario Waysa Wasi",
+                  "text": "Centrul comunitar Guaysa Wasi funcționează ca un centru cultural local care promovează moștenirea indigenă în regiunea Jatun Sacha.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.610128,
+                        -1.044302
+                  ]
+            },
+            {
+                  "name": "Kamak Maki",
+                  "text": "Kamak Maki este un muzeu etnografic în aer liber din pădurea tropicală ecuadoriană, care prezintă culturile și tradițiile indigene din bazinul Amazonului.",
+                  "category": "museum",
+                  "coords": [
+                        -77.63533,
+                        -1.066123
+                  ]
+            },
+            {
+                  "name": "Sendero de trampas chichico amarun",
+                  "text": "Acest traseu prin junglă trece prin vegetația deasă și prezintă capcanele tradiționale pentru animale folosite de indigenii din regiunea amazoniană.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.640736,
+                        -1.062779
+                  ]
+            },
+            {
+                  "name": "Ingreso a la cascada Alto Pusuno",
+                  "text": "Intrarea către cascada Alto Pusuno deschide calea către o cădere pitorească de apă, ascunsă adânc în pădurea tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.606602,
+                        -0.999028
+                  ]
+            },
+            {
+                  "name": "Sendero de loros Chuyan Urku",
+                  "text": "Acest traseu natural este conceput special pentru observarea păsărilor și oferă oportunități excelente de a vedea papagalii colorați din pădurea tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.619516,
+                        -1.027834
+                  ]
+            },
+            {
+                  "name": "lamedero de loras Chuyan Urcul",
+                  "text": "Sărățura atrage numeroși papagali, care asimilează de aici minerale esențiale din solul umed.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.61804,
+                        -1.013364
+                  ]
+            },
+            {
+                  "name": "Caverna “La Puerta del Duende Ilayacu”",
+                  "text": "Peștera naturală fascinantă din junglă este înconjurată de mituri locale despre spiritele pădurii și oferă o incursiune subterană captivantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.609076,
+                        -1.013251
+                  ]
+            },
+            {
+                  "name": "cascada Amarum Paccha",
+                  "text": "Impresionanta cascadă se prăvălește peste stânci abrupte într-un bazin natural, înconjurat de flora verde luxuriantă a Amazonului.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.581382,
+                        -0.999828
+                  ]
+            },
+            {
+                  "name": "Mirador Sasha Sisa",
+                  "text": "Acest punct de belvedere oferă o vedere panoramică largă asupra coronamentului dens al junglei ecuadoriene virgine.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.576051,
+                        -1.018704
+                  ]
+            },
+            {
+                  "name": "Centro de cerámica La Selva",
+                  "text": "În acest centru de artizanat, vizitatorii pot descoperi arta ceramică tradițională amazoniană și tehnicile sale regionale de modelare.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.544209,
+                        -1.057479
+                  ]
+            },
+            {
+                  "name": "Pantano de caimanes",
+                  "text": "Această mlaștină protejată este habitatul natural al diferitelor specii de caimani, care se ascund în apele puțin adânci și noroioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.528891,
+                        -1.055081
+                  ]
+            },
+            {
+                  "name": "Mirador Puerto Barantilla",
+                  "text": "De la acest punct de belvedere înalt se poate privi direct cursul șerpuit al râului și bărcile mici ale comunităților locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.540837,
+                        -1.081945
+                  ]
+            },
+            {
+                  "name": "Museo de trampas Sacha Ambi",
+                  "text": "Muzeul expune o colecție de capcane de vânătoare istorice și tradiționale, care atestă abilitățile de supraviețuire ale locuitorilor indigeni ai pădurii.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.551513,
+                        -1.069944
+                  ]
+            },
+            {
+                  "name": "Estación Biológica Jatun Sacha y Reserva Selva Viva",
+                  "text": "Această stațiune de cercetare biologică protejează o zonă importantă de pădure primară și se implică în conservarea biodiversității amazoniene.",
+                  "category": "natural",
+                  "coords": [
+                        -77.612278,
+                        -1.085138
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Sagrado Corazón de Jesús - Alto Pusuno",
+                  "text": "Mica capelă catolică servește drept refugiu spiritual pentru credincioșii comunității din junglă, în mijlocul naturii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.60556,
+                        -0.99972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ally Maíz",
+                  "text": "Ally Maíz is a regional attraction situated in the Amazonian environment of Jatun Sacha, showcasing local cultural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.584798,
+                        -1.051969
+                  ]
+            },
+            {
+                  "name": "Balneario Playa Selva",
+                  "text": "This jungle beach resort features natural swimming spots amidst the dense vegetation of the Jatun Sacha rainforest area.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.592828,
+                        -1.104979
+                  ]
+            },
+            {
+                  "name": "Indigenous traps",
+                  "text": "This unique museum exhibits traditional Indigenous hunting traps constructed from natural materials found in the surrounding Amazon rainforest.",
+                  "category": "museum",
+                  "coords": [
+                        -77.591465,
+                        -1.038736
+                  ]
+            },
+            {
+                  "name": "Simón Bolívar",
+                  "text": "This monument honors the revolutionary leader Simón Bolívar, standing as a historical marker within the Jatun Sacha community.",
+                  "category": "historical",
+                  "coords": [
+                        -77.585774,
+                        -1.043617
+                  ]
+            },
+            {
+                  "name": "Guaysa Wasi Community Center",
+                  "text": "The Guaysa Wasi Community Center functions as a local cultural hub that promotes indigenous heritage in the Jatun Sacha region.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.610128,
+                        -1.044302
+                  ]
+            },
+            {
+                  "name": "Kamak Maki",
+                  "text": "Kamak Maki is an open-air ethnographic museum in the Ecuadorian rainforest showcasing the indigenous cultures and traditions of the Amazon basin.",
+                  "category": "museum",
+                  "coords": [
+                        -77.63533,
+                        -1.066123
+                  ]
+            },
+            {
+                  "name": "Sendero de trampas chichico amarun",
+                  "text": "This jungle trail leads through dense vegetation and demonstrates traditional indigenous animal traps of the Amazon region.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.640736,
+                        -1.062779
+                  ]
+            },
+            {
+                  "name": "Ingreso a la cascada Alto Pusuno",
+                  "text": "The entrance to the Alto Pusuno waterfall opens the way to a picturesque cascade hidden deep within the tropical rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.606602,
+                        -0.999028
+                  ]
+            },
+            {
+                  "name": "Sendero de loros Chuyan Urku",
+                  "text": "This nature trail is specifically designed for birdwatching and offers excellent opportunities to spot the colorful parrots of the rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.619516,
+                        -1.027834
+                  ]
+            },
+            {
+                  "name": "lamedero de loras Chuyan Urcul",
+                  "text": "The clay lick attracts numerous parrots, which absorb essential minerals from the moist soil here.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.61804,
+                        -1.013364
+                  ]
+            },
+            {
+                  "name": "Caverna “La Puerta del Duende Ilayacu”",
+                  "text": "The fascinating natural cave in the jungle is surrounded by local myths about forest spirits and offers an exciting underground insight.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.609076,
+                        -1.013251
+                  ]
+            },
+            {
+                  "name": "cascada Amarum Paccha",
+                  "text": "The impressive waterfall cascades over steep cliffs into a natural pool, surrounded by the lush green flora of the Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.581382,
+                        -0.999828
+                  ]
+            },
+            {
+                  "name": "Viewpoint Sasha Sisa",
+                  "text": "This viewpoint offers a wide panoramic view over the dense canopy of the pristine Ecuadorian jungle.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.576051,
+                        -1.018704
+                  ]
+            },
+            {
+                  "name": "Centro de cerámica La Selva",
+                  "text": "At this craft center, visitors can learn about traditional Amazonian ceramic art and its regional patterning techniques.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.544209,
+                        -1.057479
+                  ]
+            },
+            {
+                  "name": "Pantano de caimanes",
+                  "text": "This protected swamp is the natural habitat of various caiman species that hide in the shallow, muddy waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.528891,
+                        -1.055081
+                  ]
+            },
+            {
+                  "name": "Mirador Puerto Barantilla",
+                  "text": "From this elevated viewpoint, one looks directly at the winding river course and the small boats of the local communities.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.540837,
+                        -1.081945
+                  ]
+            },
+            {
+                  "name": "Museo de trampas Sacha Ambi",
+                  "text": "The museum exhibits a collection of historical and traditional hunting traps, testifying to the survival skills of the indigenous forest dwellers.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.551513,
+                        -1.069944
+                  ]
+            },
+            {
+                  "name": "Estación Biológica Jatun Sacha y Reserva Selva Viva",
+                  "text": "This biological research station protects a vital piece of primary forest and is committed to the conservation of Amazonian biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -77.612278,
+                        -1.085138
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Sagrado Corazón de Jesús - Alto Pusuno",
+                  "text": "The small Catholic chapel serves as a spiritual retreat for the faithful of the jungle community, set amidst tropical nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.60556,
+                        -0.99972
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EC-N",
     coords: [-77.61, -1.06],
@@ -1059,7 +6000,376 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-pacoche-relief-v2",
+    id: "ecuador-pacoche-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Columpios",
+                  "text": "Diese beliebte Schaukelattraktion bietet einen weiten Blick über die hügelige Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.846343,
+                        -0.984577
+                  ]
+            },
+            {
+                  "name": "Faro de San Lorenzo",
+                  "text": "Der Leuchtturm von San Lorenzo dient als markantes Navigationszeichen an der ecuadorianischen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.909693,
+                        -1.05888
+                  ]
+            },
+            {
+                  "name": "Cerro El Cabuya",
+                  "text": "Der markante Gipfel des Cerro El Cabuya erhebt sich über die umliegende Küstenlandschaft von Pacoche.",
+                  "category": "natural",
+                  "coords": [
+                        -80.9,
+                        -1.066667
+                  ]
+            },
+            {
+                  "name": "Letras de San Lorenzo",
+                  "text": "Das bunte Schild von San Lorenzo ist ein beliebtes Fotomotiv für Besucher der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.904958,
+                        -1.071266
+                  ]
+            },
+            {
+                  "name": "Letras Santa Marianita",
+                  "text": "Die großen Buchstaben von Santa Marianita markieren den Eingang zu diesem bekannten Küstenort.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.842691,
+                        -0.980286
+                  ]
+            },
+            {
+                  "name": "Corrales Marinos",
+                  "text": "Diese archäologische Stätte an der Küste zeigt antike marine Einfriedungen.",
+                  "category": "historical",
+                  "coords": [
+                        -80.881831,
+                        -1.024264
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre y Marino Costera Pacoche",
+                  "text": "Dieses Küsten- und Meeresnaturschutzgebiet schützt die vielfältige Flora und Fauna der Region Pacoche.",
+                  "category": "natural",
+                  "coords": [
+                        -80.906471,
+                        -1.118366
+                  ]
+            },
+            {
+                  "name": "Playa de San Lorenzo",
+                  "text": "Der weitläufige Sandstrand von San Lorenzo liegt direkt an der rauen Pazifikküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.907819,
+                        -1.068503
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen del Mar",
+                  "text": "Die katholische Kirche der Jungfrau des Meeres ist eine christliche Andachtsstätte nahe der ecuadorianischen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.84748,
+                        -0.990273
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser Königreichssaal dient als christlicher Versammlungsort für die Zeugen Jehovas in der Region Pacoche.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.907887,
+                        -1.064968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Columpios",
+                  "text": "Ez a népszerű hintalátványosság széles kilátást nyújt a dombos tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.846343,
+                        -0.984577
+                  ]
+            },
+            {
+                  "name": "Faro de San Lorenzo",
+                  "text": "A San Lorenzo-i világítótorony kiemelkedő navigációs pontként szolgál az ecuadori tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.909693,
+                        -1.05888
+                  ]
+            },
+            {
+                  "name": "Cerro El Cabuya",
+                  "text": "A Cerro El Cabuya jellegzetes csúcsa magasodik Pacoche környező partvidéki tája fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -80.9,
+                        -1.066667
+                  ]
+            },
+            {
+                  "name": "Letras de San Lorenzo",
+                  "text": "A színes San Lorenzo felirat népszerű fotótéma a partra látogatók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.904958,
+                        -1.071266
+                  ]
+            },
+            {
+                  "name": "Letras Santa Marianita",
+                  "text": "Santa Marianita nagy betűi jelzik ezen ismert tengerparti település bejáratát.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.842691,
+                        -0.980286
+                  ]
+            },
+            {
+                  "name": "Corrales Marinos",
+                  "text": "Ez a tengerparti régészeti lelőhely ősi tengeri karámokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        -80.881831,
+                        -1.024264
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre y Marino Costera Pacoche",
+                  "text": "Ez a tengerparti és tengeri vadvédelmi terület Pacoche régió változatos növény- és állatvilágát óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -80.906471,
+                        -1.118366
+                  ]
+            },
+            {
+                  "name": "Playa de San Lorenzo",
+                  "text": "San Lorenzo tágas homokos strandja közvetlenül a zord csendes-óceáni parton fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.907819,
+                        -1.068503
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen del Mar",
+                  "text": "A Tenger Szűzanyja katolikus templom egy keresztény imahely az ecuadori partok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.84748,
+                        -0.990273
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ez a Királyság-terem a Jehova Tanúi keresztény gyülekezeti helyeként szolgál Pacoche régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.907887,
+                        -1.064968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Columpios",
+                  "text": "Această atracție populară cu leagăne oferă o priveliște largă asupra peisajului deluros.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.846343,
+                        -0.984577
+                  ]
+            },
+            {
+                  "name": "Faro de San Lorenzo",
+                  "text": "Farul din San Lorenzo servește drept punct de navigație proeminent pe coasta ecuadoriană.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.909693,
+                        -1.05888
+                  ]
+            },
+            {
+                  "name": "Cerro El Cabuya",
+                  "text": "Vârful proeminent Cerro El Cabuya se înalță deasupra peisajului de coastă din jurul zonei Pacoche.",
+                  "category": "natural",
+                  "coords": [
+                        -80.9,
+                        -1.066667
+                  ]
+            },
+            {
+                  "name": "Letras de San Lorenzo",
+                  "text": "Semnul colorat din San Lorenzo este un punct foto popular pentru vizitatorii coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.904958,
+                        -1.071266
+                  ]
+            },
+            {
+                  "name": "Letras Santa Marianita",
+                  "text": "Literele mari din Santa Marianita marchează intrarea în această localitate de coastă cunoscută.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.842691,
+                        -0.980286
+                  ]
+            },
+            {
+                  "name": "Corrales Marinos",
+                  "text": "Acest sit arheologic de pe coastă prezintă vechi incinte marine.",
+                  "category": "historical",
+                  "coords": [
+                        -80.881831,
+                        -1.024264
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre y Marino Costera Pacoche",
+                  "text": "Această rezervație de viață sălbatică marină și de coastă protejează flora și fauna diversă din regiunea Pacoche.",
+                  "category": "natural",
+                  "coords": [
+                        -80.906471,
+                        -1.118366
+                  ]
+            },
+            {
+                  "name": "Playa de San Lorenzo",
+                  "text": "Plaja întinsă de nisip din San Lorenzo este situată direct pe coasta accidentată a Pacificului.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.907819,
+                        -1.068503
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen del Mar",
+                  "text": "Biserica catolică Fecioara Mării este un lăcaș de cult creștin situat aproape de coasta ecuadoriană.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.84748,
+                        -0.990273
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Această Sală a Regatului servește drept loc de adunare creștin pentru Martorii lui Iehova din regiunea Pacoche.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.907887,
+                        -1.064968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Columpios",
+                  "text": "This popular swing attraction offers a wide view over the hilly landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.846343,
+                        -0.984577
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Lighthouse",
+                  "text": "The San Lorenzo lighthouse serves as a prominent navigational beacon on the Ecuadorian coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.909693,
+                        -1.05888
+                  ]
+            },
+            {
+                  "name": "Cerro El Cabuya",
+                  "text": "The prominent peak of Cerro El Cabuya rises above the surrounding coastal landscape of Pacoche.",
+                  "category": "natural",
+                  "coords": [
+                        -80.9,
+                        -1.066667
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Sign",
+                  "text": "The colorful San Lorenzo sign is a popular photo spot for visitors to the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.904958,
+                        -1.071266
+                  ]
+            },
+            {
+                  "name": "Letras Santa Marianita",
+                  "text": "The large letters of Santa Marianita mark the entrance to this well-known coastal town.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.842691,
+                        -0.980286
+                  ]
+            },
+            {
+                  "name": "Corrales Marinos",
+                  "text": "This archaeological site on the coast reveals ancient marine enclosures.",
+                  "category": "historical",
+                  "coords": [
+                        -80.881831,
+                        -1.024264
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre y Marino Costera Pacoche",
+                  "text": "This coastal and marine wildlife refuge protects the diverse flora and fauna of the Pacoche region.",
+                  "category": "natural",
+                  "coords": [
+                        -80.906471,
+                        -1.118366
+                  ]
+            },
+            {
+                  "name": "San Lorenzo Beach",
+                  "text": "The expansive sandy beach of San Lorenzo is situated directly on the rugged Pacific coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.907819,
+                        -1.068503
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen del Mar",
+                  "text": "The Catholic Church of the Virgin of the Sea is a Christian place of worship near the Ecuadorian coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.84748,
+                        -0.990273
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah´s Witnesses",
+                  "text": "This Kingdom Hall serves as a Christian gathering place for Jehovah's Witnesses in the Pacoche region.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.907887,
+                        -1.064968
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EC-M",
     coords: [-80.88, -1.06],
@@ -1107,7 +6417,88 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-choco-relief-v2",
+    id: "ecuador-choco-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jehová' testigola waku wakudinu yasha",
+                  "text": "Dieser Königreichssaal dient der indigenen Gemeinschaft der Chachi im Regenwald des Chocó.",
+                  "category": "religious",
+                  "coords": [
+                        -78.917095,
+                        0.793515
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová, Cayapas",
+                  "text": "Die Versammlungsstätte liegt am Ufer des Cayapas-Flusses inmitten der dichten tropischen Vegetation.",
+                  "category": "religious",
+                  "coords": [
+                        -78.96415,
+                        0.854046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jehová' testigola waku wakudinu yasha",
+                  "text": "Ez a Királyság-terem a chocói esőerdőben élő őshonos chachi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -78.917095,
+                        0.793515
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová, Cayapas",
+                  "text": "A gyülekezeti hely a Cayapas-folyó partján fekszik, a sűrű trópusi növényzet közepette.",
+                  "category": "religious",
+                  "coords": [
+                        -78.96415,
+                        0.854046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jehová' testigola waku wakudinu yasha",
+                  "text": "Această Sală a Regatului deservește comunitatea indigenă Chachi din pădurea tropicală Chocó.",
+                  "category": "religious",
+                  "coords": [
+                        -78.917095,
+                        0.793515
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová, Cayapas",
+                  "text": "Locul de adunare este situat pe malul râului Cayapas, în mijlocul vegetației tropicale dense.",
+                  "category": "religious",
+                  "coords": [
+                        -78.96415,
+                        0.854046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, Cayapas Cha'palaa",
+                  "text": "This Kingdom Hall serves the indigenous Chachi community in the Chocó rainforest region.",
+                  "category": "religious",
+                  "coords": [
+                        -78.917095,
+                        0.793515
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, Cayapas",
+                  "text": "The meeting place is located on the banks of the Cayapas River amidst dense tropical vegetation.",
+                  "category": "religious",
+                  "coords": [
+                        -78.96415,
+                        0.854046
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EC-E",
     coords: [-79.0, 0.8],
@@ -1155,7 +6546,88 @@ export const poiExtraEcuadorReliefV2: POI[] = [
     },
   },
   {
-    id: "ecuador-plateado-relief-v2",
+    id: "ecuador-plateado-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alto Nangaritza",
+                  "text": "Dieser für seine ökologische Bedeutung bekannte, markante Berggipfel ist Teil des artenreichen Schutzwaldgebietes Alto Nangaritza.",
+                  "category": "natural",
+                  "coords": [
+                        -78.850278,
+                        -4.574722
+                  ]
+            },
+            {
+                  "name": "Reserva Biológica Cerro Plateado",
+                  "text": "Dieses bemerkenswerte biologische Reservat in den abgelegenen tropischen Anden schützt die unberührten Ökosysteme rund um das Bergmassiv Cerro Plateado.",
+                  "category": "natural",
+                  "coords": [
+                        -78.772932,
+                        -4.584651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alto Nangaritza",
+                  "text": "Az ökológiai jelentőségéről ismert, kiemelkedő hegycsúcs a biológiailag sokszínű Alto Nangaritza védett erdőterület része.",
+                  "category": "natural",
+                  "coords": [
+                        -78.850278,
+                        -4.574722
+                  ]
+            },
+            {
+                  "name": "Reserva Biológica Cerro Plateado",
+                  "text": "A távoli trópusi Andokban található jelentős biológiai rezervátum a Cerro Plateado hegytömb körüli érintetlen ökoszisztémákat védi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.772932,
+                        -4.584651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alto Nangaritza",
+                  "text": "Recunoscut pentru importanța sa ecologică, acest vârf montan proeminent face parte din zona forestieră de protecție bogată în biodiversitate Alto Nangaritza.",
+                  "category": "natural",
+                  "coords": [
+                        -78.850278,
+                        -4.574722
+                  ]
+            },
+            {
+                  "name": "Reserva Biológica Cerro Plateado",
+                  "text": "Situată în Anzii tropicali izolați, această remarcabilă rezervație biologică protejează ecosistemele imaculate din jurul masivului Cerro Plateado.",
+                  "category": "natural",
+                  "coords": [
+                        -78.772932,
+                        -4.584651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alto Nangaritza",
+                  "text": "Recognized for its ecological significance, this prominent mountain peak is part of the biodiverse Alto Nangaritza protective forest area.",
+                  "category": "natural",
+                  "coords": [
+                        -78.850278,
+                        -4.574722
+                  ]
+            },
+            {
+                  "name": "Reserva Biológica Cerro Plateado",
+                  "text": "Set in the remote tropical Andes, this notable biological reserve protects pristine ecosystems surrounding the Cerro Plateado massif.",
+                  "category": "natural",
+                  "coords": [
+                        -78.772932,
+                        -4.584651
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-Z",
     coords: [-78.78, -4.61],

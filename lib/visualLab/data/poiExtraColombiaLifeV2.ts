@@ -3,7 +3,880 @@ import type { POI } from "./poi";
 
 export const poiExtraColombiaLifeV2: POI[] = [
   {
-    id: "parque-explora-life-v2",
+    id: "parque-explora-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Explora",
+                  "text": "Ein interaktives Wissenschaftsmuseum mit dem größten Süßwasseraquarium Südamerikas.",
+                  "category": "museum",
+                  "coords": [
+                        -75.565536,
+                        6.270777
+                  ]
+            },
+            {
+                  "name": "Bloque 15 - Museo Universitario",
+                  "text": "Das Universitätsmuseum beherbergt bedeutende anthropologische Sammlungen und präkolumbianische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -75.569784,
+                        6.267356
+                  ]
+            },
+            {
+                  "name": "Planetario de Medellín",
+                  "text": "Das Planetarium verfügt über eine moderne digitale Kuppel für astronomische Vorführungen und Weltraumausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -75.566105,
+                        6.269
+                  ]
+            },
+            {
+                  "name": "Cerro Picacho",
+                  "text": "Ein markanter Hügel im Nordwesten von Medellín, gekrönt von einem riesigen Kreuz und einem Panorama-Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        -75.588566,
+                        6.304104
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico",
+                  "text": "Dieser 14 Hektar große Garten ist berühmt für das 'Orquideorama', eine ikonische wabenförmige Holzstruktur.",
+                  "category": "park",
+                  "coords": [
+                        -75.563502,
+                        6.270627
+                  ]
+            },
+            {
+                  "name": "Casa Gardeliana",
+                  "text": "Dieses Museum ist der Tangokultur und dem Erbe des berühmten Sängers Carlos Gardel gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -75.554616,
+                        6.269507
+                  ]
+            },
+            {
+                  "name": "Xiloteca",
+                  "text": "Eine wissenschaftliche Holzsammlung, die die enorme forstwirtschaftliche Vielfalt der kolumbianischen Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -75.573882,
+                        6.263413
+                  ]
+            },
+            {
+                  "name": "Herbario JAUM",
+                  "text": "Dieses Herbarium bewahrt tausende getrocknete Pflanzenproben der Flora von Antioquia für die botanische Forschung auf.",
+                  "category": "museum",
+                  "coords": [
+                        -75.563013,
+                        6.269204
+                  ]
+            },
+            {
+                  "name": "Museo Pedro Nel Gómez",
+                  "text": "Das ehemalige Wohnhaus des Künstlers Pedro Nel Gómez beherbergt heute über 3.000 seiner Wandgemälde und Werke.",
+                  "category": "museum",
+                  "coords": [
+                        -75.562347,
+                        6.278533
+                  ]
+            },
+            {
+                  "name": "Piedra del Gallinaso",
+                  "text": "Diese markante Felsformation gilt als archäologische Stätte mit Spuren früherer menschlicher Besiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -75.53683,
+                        6.294733
+                  ]
+            },
+            {
+                  "name": "Ruinas de La Escuela de Sabana",
+                  "text": "Die Ruinen einer alten ländlichen Schule, die Einblicke in die Bildungsgeschichte der Region Sabana bieten.",
+                  "category": "historical",
+                  "coords": [
+                        -75.519536,
+                        6.276642
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógico - Arte rupestre",
+                  "text": "Eine archäologische Stätte, die für ihre präkolumbianische Felskunst und Petroglyphen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -75.592533,
+                        6.300759
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógicco",
+                  "text": "Ein Gebiet mit hohem archäologischem Potenzial, in dem Forscher Spuren alter Zivilisationen untersuchen.",
+                  "category": "historical",
+                  "coords": [
+                        -75.58976,
+                        6.302221
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógico",
+                  "text": "Ein geschützter Bereich mit archäologischem Potenzial, der Hinweise auf präkolumbianische Landwirtschaftsmethoden enthält.",
+                  "category": "historical",
+                  "coords": [
+                        -75.588589,
+                        6.305881
+                  ]
+            },
+            {
+                  "name": "Teatro al aire libre Pedregal",
+                  "text": "Dieses Freilichttheater im Stadtteil Pedregal ist ein zentraler Ort für lokale Gemeinschaftsaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.571553,
+                        6.302517
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Pedregal",
+                  "text": "Ein lebendiges Gemeindezentrum, das Kunstworkshops und Ausstellungen lokaler Talente in Pedregal anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.574149,
+                        6.300472
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre Talita Cumi",
+                  "text": "Eine Freilichtbühne, die für religiöse Zeremonien und kulturelle Veranstaltungen der Nachbarschaft genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.544025,
+                        6.284701
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Manrique",
+                  "text": "Dieses Kulturzentrum im Bezirk Manrique feiert das lokale Tangoerbe durch Musik und Tanz.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.554858,
+                        6.268088
+                  ]
+            },
+            {
+                  "name": "Auditorio Comfama",
+                  "text": "Ein modernes Auditorium, das von der Sozialunternehmung Comfama für Theater und Konzerte betrieben wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.563111,
+                        6.282238
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Diese in das Grün des örtlichen Parks eingebettete Freilichtbühne ist ein beliebter Ort für Bürgerversammlungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.567683,
+                        6.266032
+                  ]
+            },
+            {
+                  "name": "Bloque 17 - Auditorio",
+                  "text": "Ein funktionaler Veranstaltungssaal für akademische Präsentationen und universitäre Kulturprogramme.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.567358,
+                        6.266968
+                  ]
+            },
+            {
+                  "name": "Centro de fé y esperanza cede central",
+                  "text": "Ein modernes christliches Zentrum, das als wichtiger Ankerpunkt für die örtliche Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -75.566307,
+                        6.265703
+                  ]
+            },
+            {
+                  "name": "Capilla de la Santa cruz del Tambo",
+                  "text": "Eine kleine katholische Kapelle, die oft Ziel lokaler religiöser Prozessionen ist.",
+                  "category": "religious",
+                  "coords": [
+                        -75.496218,
+                        6.277434
+                  ]
+            },
+            {
+                  "name": "Nodo casa Yefry",
+                  "text": "Ein kleines Gemeindegebetszentrum, das als Ort für spirituelle Versammlungen und Nachbarschaftshilfe dient.",
+                  "category": "religious",
+                  "coords": [
+                        -75.535412,
+                        6.279511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Explora",
+                  "text": "Interaktív tudományos múzeum, amely Dél-Amerika legnagyobb édesvízi akváriumának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -75.565536,
+                        6.270777
+                  ]
+            },
+            {
+                  "name": "Bloque 15 - Museo Universitario",
+                  "text": "Az egyetemi múzeum jelentős antropológiai gyűjteményeknek és kolumbusz előtti leleteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -75.569784,
+                        6.267356
+                  ]
+            },
+            {
+                  "name": "Planetario de Medellín",
+                  "text": "A planetárium modern digitális kupolával várja a látogatókat csillagászati bemutatókkal és űrkutatási kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -75.566105,
+                        6.269
+                  ]
+            },
+            {
+                  "name": "Cerro Picacho",
+                  "text": "Medellín északnyugati részén található jellegzetes domb, melyet egy hatalmas kereszt és panorámás kilátó koronáz.",
+                  "category": "natural",
+                  "coords": [
+                        -75.588566,
+                        6.304104
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico",
+                  "text": "Ez a 14 hektáros kert híres az 'Orquideorama' nevű, ikonikus méhsejt alakú faszerkezetéről.",
+                  "category": "park",
+                  "coords": [
+                        -75.563502,
+                        6.270627
+                  ]
+            },
+            {
+                  "name": "Casa Gardeliana",
+                  "text": "Ez a múzeum a tangó kultúrájának és a híres énekes, Carlos Gardel örökségének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -75.554616,
+                        6.269507
+                  ]
+            },
+            {
+                  "name": "Xiloteca",
+                  "text": "Tudományos gyűjtemény, amely a kolumbiai régió hatalmas erdészeti sokszínűségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -75.573882,
+                        6.263413
+                  ]
+            },
+            {
+                  "name": "Herbario JAUM",
+                  "text": "Ez a herbárium Antioquia flórájának több ezer szárított növénypéldányát őrzi botanikai kutatások céljából.",
+                  "category": "museum",
+                  "coords": [
+                        -75.563013,
+                        6.269204
+                  ]
+            },
+            {
+                  "name": "Museo Pedro Nel Gómez",
+                  "text": "Pedro Nel Gómez művész egykori lakóháza ma több mint 3000 falfestményének és alkotásának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -75.562347,
+                        6.278533
+                  ]
+            },
+            {
+                  "name": "Piedra del Gallinaso",
+                  "text": "Ez a jellegzetes sziklaalakzat régészeti lelőhelynek számít, ahol korábbi emberi jelenlét nyomai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -75.53683,
+                        6.294733
+                  ]
+            },
+            {
+                  "name": "Ruinas de La Escuela de Sabana",
+                  "text": "Egy régi vidéki iskola romjai, amelyek betekintést nyújtanak a Sabana régió oktatástörténetébe.",
+                  "category": "historical",
+                  "coords": [
+                        -75.519536,
+                        6.276642
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógico - Arte rupestre",
+                  "text": "Régészeti lelőhely, amely kolumbusz előtti sziklaművészetéről és sziklarajzairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -75.592533,
+                        6.300759
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógicco",
+                  "text": "Nagy régészeti potenciállal rendelkező terület, ahol a kutatók ősi civilizációk nyomait vizsgálják.",
+                  "category": "historical",
+                  "coords": [
+                        -75.58976,
+                        6.302221
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógico",
+                  "text": "Védett terület régészeti potenciállal, amely a kolumbusz előtti mezőgazdasági módszerekre utaló jeleket tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        -75.588589,
+                        6.305881
+                  ]
+            },
+            {
+                  "name": "Teatro al aire libre Pedregal",
+                  "text": "Ez a Pedregal negyedben található szabadtéri színpad a helyi közösségi előadások központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.571553,
+                        6.302517
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Pedregal",
+                  "text": "Pedregal vibráló közösségi háza, amely művészeti workshopokat és helyi tehetségek kiállításait kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.574149,
+                        6.300472
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre Talita Cumi",
+                  "text": "Vallási szertartásokra és szomszédsági kulturális eseményekre használt szabadtéri színpad.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.544025,
+                        6.284701
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Manrique",
+                  "text": "Ez a Manrique negyedben található kulturális központ zene és tánc révén ünnepli a helyi tangó örökséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.554858,
+                        6.268088
+                  ]
+            },
+            {
+                  "name": "Auditorio Comfama",
+                  "text": "A Comfama szociális vállalat által üzemeltetett modern auditórium színházi előadások és koncertek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.563111,
+                        6.282238
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "A helyi park zöldjébe ágyazott szabadtéri színpad a lakossági összejövetelek kedvelt helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.567683,
+                        6.266032
+                  ]
+            },
+            {
+                  "name": "Bloque 17 - Auditorio",
+                  "text": "Akadémiai prezentációk és egyetemi kulturális programok számára kialakított funkcionális rendezvényterem.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.567358,
+                        6.266968
+                  ]
+            },
+            {
+                  "name": "Centro de fé y esperanza cede central",
+                  "text": "Modern keresztény központ, amely a helyi közösség fontos tartópilléreként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -75.566307,
+                        6.265703
+                  ]
+            },
+            {
+                  "name": "Capilla de la Santa cruz del Tambo",
+                  "text": "Kisméretű katolikus kápolna, amely gyakran a helyi vallási körmenetek célpontja.",
+                  "category": "religious",
+                  "coords": [
+                        -75.496218,
+                        6.277434
+                  ]
+            },
+            {
+                  "name": "Nodo casa Yefry",
+                  "text": "Kisméretű közösségi imaház, amely spirituális összejövetelek és szomszédsági segítségnyújtás helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -75.535412,
+                        6.279511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Explora",
+                  "text": "Un muzeu interactiv de științe care găzduiește cel mai mare acvariu de apă dulce din America de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        -75.565536,
+                        6.270777
+                  ]
+            },
+            {
+                  "name": "Bloque 15 - Museo Universitario",
+                  "text": "Muzeul universitar adăpostește colecții antropologice importante și artefacte precolumbiene.",
+                  "category": "museum",
+                  "coords": [
+                        -75.569784,
+                        6.267356
+                  ]
+            },
+            {
+                  "name": "Planetario de Medellín",
+                  "text": "Planetariul dispune de o cupolă digitală modernă pentru proiecții astronomice și expoziții spațiale.",
+                  "category": "museum",
+                  "coords": [
+                        -75.566105,
+                        6.269
+                  ]
+            },
+            {
+                  "name": "Cerro Picacho",
+                  "text": "Un deal proeminent în nord-vestul orașului Medellín, încoronat de o cruce uriașă și un punct de belvedere panoramic.",
+                  "category": "natural",
+                  "coords": [
+                        -75.588566,
+                        6.304104
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico",
+                  "text": "Această grădină de 14 hectare este faimoasă pentru „Orquideorama”, o structură iconică din lemn în formă de fagure.",
+                  "category": "park",
+                  "coords": [
+                        -75.563502,
+                        6.270627
+                  ]
+            },
+            {
+                  "name": "Casa Gardeliana",
+                  "text": "Acest muzeu este dedicat culturii tango și moștenirii celebrului cântăreț Carlos Gardel.",
+                  "category": "museum",
+                  "coords": [
+                        -75.554616,
+                        6.269507
+                  ]
+            },
+            {
+                  "name": "Xiloteca",
+                  "text": "O colecție științifică de lemn care prezintă diversitatea forestieră enormă a regiunii columbiene.",
+                  "category": "museum",
+                  "coords": [
+                        -75.573882,
+                        6.263413
+                  ]
+            },
+            {
+                  "name": "Herbario JAUM",
+                  "text": "Acest ierbar păstrează mii de mostre de plante uscate din flora regiunii Antioquia pentru cercetare botanică.",
+                  "category": "museum",
+                  "coords": [
+                        -75.563013,
+                        6.269204
+                  ]
+            },
+            {
+                  "name": "Museo Pedro Nel Gómez",
+                  "text": "Fosta reședință a artistului Pedro Nel Gómez găzduiește astăzi peste 3.000 dintre picturile sale murale și lucrări.",
+                  "category": "museum",
+                  "coords": [
+                        -75.562347,
+                        6.278533
+                  ]
+            },
+            {
+                  "name": "Piedra del Gallinaso",
+                  "text": "Această formațiune stâncoasă distinctivă este considerată un sit arheologic cu urme ale așezărilor umane timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -75.53683,
+                        6.294733
+                  ]
+            },
+            {
+                  "name": "Ruinas de La Escuela de Sabana",
+                  "text": "Ruinele unei vechi școli rurale, care oferă o perspectivă asupra istoriei educaționale a regiunii Sabana.",
+                  "category": "historical",
+                  "coords": [
+                        -75.519536,
+                        6.276642
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógico - Arte rupestre",
+                  "text": "Un sit arheologic cunoscut pentru arta sa rupestră precolumbiană și petroglife.",
+                  "category": "historical",
+                  "coords": [
+                        -75.592533,
+                        6.300759
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógicco",
+                  "text": "O zonă cu potențial arheologic ridicat, unde cercetătorii studiază urmele civilizațiilor antice.",
+                  "category": "historical",
+                  "coords": [
+                        -75.58976,
+                        6.302221
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógico",
+                  "text": "O zonă protejată cu potențial arheologic, care conține indicii despre metodele agricole precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -75.588589,
+                        6.305881
+                  ]
+            },
+            {
+                  "name": "Teatro al aire libre Pedregal",
+                  "text": "Acest teatru în aer liber din cartierul Pedregal este un loc central pentru spectacolele comunității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.571553,
+                        6.302517
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Pedregal",
+                  "text": "Un centru cultural vibrant care oferă ateliere de artă și expoziții ale talentelor locale din Pedregal.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.574149,
+                        6.300472
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre Talita Cumi",
+                  "text": "O scenă în aer liber utilizată pentru ceremonii religioase și evenimente culturale de cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.544025,
+                        6.284701
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Manrique",
+                  "text": "Acest centru cultural din districtul Manrique celebrează moștenirea locală a tangoului prin muzică și dans.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.554858,
+                        6.268088
+                  ]
+            },
+            {
+                  "name": "Auditorio Comfama",
+                  "text": "Un auditoriu modern operat de întreprinderea socială Comfama pentru teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.563111,
+                        6.282238
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Această scenă în aer liber, cuibărită în verdeața parcului local, este un loc popular pentru adunările cetățenilor.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.567683,
+                        6.266032
+                  ]
+            },
+            {
+                  "name": "Bloque 17 - Auditorio",
+                  "text": "O sală de evenimente funcțională pentru prezentări academice și programe culturale universitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.567358,
+                        6.266968
+                  ]
+            },
+            {
+                  "name": "Centro de fé y esperanza cede central",
+                  "text": "Un centru creștin modern care servește ca o ancoră importantă pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -75.566307,
+                        6.265703
+                  ]
+            },
+            {
+                  "name": "Capilla de la Santa cruz del Tambo",
+                  "text": "O mică capelă catolică care este adesea destinația procesiunilor religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        -75.496218,
+                        6.277434
+                  ]
+            },
+            {
+                  "name": "Nodo casa Yefry",
+                  "text": "Un mic centru de rugăciune comunitar care servește ca loc pentru adunări spirituale și ajutor reciproc în cartier.",
+                  "category": "religious",
+                  "coords": [
+                        -75.535412,
+                        6.279511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Explora",
+                  "text": "An interactive science museum featuring South America's largest freshwater aquarium.",
+                  "category": "museum",
+                  "coords": [
+                        -75.565536,
+                        6.270777
+                  ]
+            },
+            {
+                  "name": "Bloque 15 - Museo Universitario",
+                  "text": "The university museum houses significant anthropological collections and pre-Columbian artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -75.569784,
+                        6.267356
+                  ]
+            },
+            {
+                  "name": "Planetario de Medellín",
+                  "text": "The planetarium features a modern digital dome for astronomical shows and space exploration exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -75.566105,
+                        6.269
+                  ]
+            },
+            {
+                  "name": "Cerro Picacho",
+                  "text": "A prominent hill in northwest Medellín, crowned by a giant cross and a panoramic viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        -75.588566,
+                        6.304104
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico",
+                  "text": "This 14-hectare garden is famous for the 'Orquideorama', an iconic honeycomb-shaped wooden structure.",
+                  "category": "park",
+                  "coords": [
+                        -75.563502,
+                        6.270627
+                  ]
+            },
+            {
+                  "name": "Casa Gardeliana",
+                  "text": "This museum is dedicated to tango culture and the legacy of the famous singer Carlos Gardel.",
+                  "category": "museum",
+                  "coords": [
+                        -75.554616,
+                        6.269507
+                  ]
+            },
+            {
+                  "name": "Xiloteca",
+                  "text": "A scientific wood collection showcasing the enormous forestry diversity of the Colombian region.",
+                  "category": "museum",
+                  "coords": [
+                        -75.573882,
+                        6.263413
+                  ]
+            },
+            {
+                  "name": "Herbario JAUM",
+                  "text": "This herbarium preserves thousands of dried plant specimens of Antioquia's flora for botanical research.",
+                  "category": "museum",
+                  "coords": [
+                        -75.563013,
+                        6.269204
+                  ]
+            },
+            {
+                  "name": "Museo Pedro Nel Gómez",
+                  "text": "The former home of artist Pedro Nel Gómez now houses over 3,000 of his murals and artworks.",
+                  "category": "museum",
+                  "coords": [
+                        -75.562347,
+                        6.278533
+                  ]
+            },
+            {
+                  "name": "Piedra del Gallinaso",
+                  "text": "This distinctive rock formation is considered an archaeological site with traces of early human settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -75.53683,
+                        6.294733
+                  ]
+            },
+            {
+                  "name": "Ruinas de La Escuela de Sabana",
+                  "text": "The ruins of an old rural school, offering insight into the educational history of the Sabana region.",
+                  "category": "historical",
+                  "coords": [
+                        -75.519536,
+                        6.276642
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógico - Arte rupestre",
+                  "text": "An archaeological site known for its pre-Columbian rock art and petroglyphs.",
+                  "category": "historical",
+                  "coords": [
+                        -75.592533,
+                        6.300759
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógicco",
+                  "text": "An area with high archaeological potential where researchers study traces of ancient civilizations.",
+                  "category": "historical",
+                  "coords": [
+                        -75.58976,
+                        6.302221
+                  ]
+            },
+            {
+                  "name": "Sitio con potencial arquelógico",
+                  "text": "A protected area with archaeological potential, containing clues about pre-Columbian agricultural methods.",
+                  "category": "historical",
+                  "coords": [
+                        -75.588589,
+                        6.305881
+                  ]
+            },
+            {
+                  "name": "Teatro al aire libre Pedregal",
+                  "text": "This open-air theater in the Pedregal neighborhood is a central venue for local community performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.571553,
+                        6.302517
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Pedregal",
+                  "text": "A vibrant community hub offering arts workshops and exhibitions of local talent in Pedregal.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.574149,
+                        6.300472
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre Talita Cumi",
+                  "text": "An open-air stage used for religious ceremonies and neighborhood cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.544025,
+                        6.284701
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Manrique",
+                  "text": "This cultural center in the Manrique district celebrates the local tango heritage through music and dance.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.554858,
+                        6.268088
+                  ]
+            },
+            {
+                  "name": "Auditorio Comfama",
+                  "text": "A modern auditorium operated by the Comfama social enterprise for theater and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.563111,
+                        6.282238
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "This open-air stage nestled in the greenery of the local park is a popular spot for civic gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.567683,
+                        6.266032
+                  ]
+            },
+            {
+                  "name": "Bloque 17 - Auditorio",
+                  "text": "A functional event hall used for academic presentations and university cultural programs.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.567358,
+                        6.266968
+                  ]
+            },
+            {
+                  "name": "Centro de fé y esperanza cede central",
+                  "text": "A modern Christian center serving as an important anchor for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -75.566307,
+                        6.265703
+                  ]
+            },
+            {
+                  "name": "Capilla de la Santa cruz del Tambo",
+                  "text": "A small Catholic chapel that is often the destination for local religious processions.",
+                  "category": "religious",
+                  "coords": [
+                        -75.496218,
+                        6.277434
+                  ]
+            },
+            {
+                  "name": "Nodo casa Yefry",
+                  "text": "A small community prayer center serving as a venue for spiritual gatherings and neighborhood support.",
+                  "category": "religious",
+                  "coords": [
+                        -75.535412,
+                        6.279511
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CO-ANT",
     coords: [-75.5658, 6.2704],
@@ -52,7 +925,844 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "parque-del-cafe-life-v2",
+    id: "parque-del-cafe-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de Los Enamorados",
+                  "text": "Ein romantischer Aussichtspunkt mit Blick auf die fernen, oft schneegekrönten Gipfel der Zentralkordillere.",
+                  "category": "natural",
+                  "coords": [
+                        -75.758724,
+                        4.564788
+                  ]
+            },
+            {
+                  "name": "Parque Los Arrieros",
+                  "text": "Kulturthemenpark, der das Leben der traditionellen Maultiertreiber und die Kaffeekultur des frühen 20. Jahrhunderts zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.781056,
+                        4.579683
+                  ]
+            },
+            {
+                  "name": "Mirador Pueblo Tapao",
+                  "text": "Bietet einen weiten Blick über die sanften Hügel von Pueblo Tapao bis hin zu den Achterbahnen des Kaffeeparks.",
+                  "category": "natural",
+                  "coords": [
+                        -75.783839,
+                        4.514134
+                  ]
+            },
+            {
+                  "name": "Museo del Café",
+                  "text": "Dieses Museum dokumentiert den gesamten Prozess der Kaffeeproduktion von der Bohne bis zur Tasse in Kolumbien.",
+                  "category": "museum",
+                  "coords": [
+                        -75.77123,
+                        4.540458
+                  ]
+            },
+            {
+                  "name": "Museo arqueológico",
+                  "text": "Beherbergt eine wertvolle Sammlung von Keramiken und Goldschmiedearbeiten der indigenen Quimbaya-Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -75.770218,
+                        4.534208
+                  ]
+            },
+            {
+                  "name": "Las Bailarinas",
+                  "text": "Dieser Wasserpark in der Kaffeeregion bietet Rutschen und Pools inmitten üppiger tropischer Vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.729948,
+                        4.551168
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Ein lokales Kulturzentrum, das Ausstellungen zur Kunst und zum Erbe der Region Quindío gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.751215,
+                        4.566834
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Sociedad Civil Samaria 2",
+                  "text": "Ein Naturschutzgebiet, das die reiche biologische Vielfalt der andinen Kaffeeregion bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -75.778275,
+                        4.56344
+                  ]
+            },
+            {
+                  "name": "Hacienda Histórica Cafetera El Cabrero",
+                  "text": "Dieses historische Museum zeigt die Architektur und die Werkzeuge einer traditionellen Kaffeefinca.",
+                  "category": "museum",
+                  "coords": [
+                        -75.76137,
+                        4.475042
+                  ]
+            },
+            {
+                  "name": "Show del Café",
+                  "text": "Ein lebhaftes Kulturzentrum, das für seine Tanzshows zur Geschichte des kolumbianischen Kaffees bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.769755,
+                        4.53982
+                  ]
+            },
+            {
+                  "name": "Parque del Café",
+                  "text": "Ein großer Themenpark mit einem Kaffeemuseum und Fahrgeschäften inmitten funktionierender Plantagen.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.76931,
+                        4.537816
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial",
+                  "text": "Ein christliches Gebetshaus der evangelischen Missionsbewegung im Herzen des Kaffeebezirks.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.788373,
+                        4.453475
+                  ]
+            },
+            {
+                  "name": "Asambleas de Dios",
+                  "text": "Ein christlicher Versammlungsort der pfingstkirchlichen Gemeinde in der Stadt Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.785189,
+                        4.45175
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "Diese dem heiligen Martin von Porres gewidmete Kirche dient als spirituelles Zentrum für die Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.786703,
+                        4.451448
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostés Unida Internacional de Colombia",
+                  "text": "Ein modernes christliches Kirchengebäude der Vereinigten Pfingstkirche in La Tebaida.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.786434,
+                        4.453322
+                  ]
+            },
+            {
+                  "name": "Iglsesia Pentecostal Unida de Colombia - La Tebaida Central",
+                  "text": "Die zentrale Pfingstkirche der Stadt, direkt am belebten Hauptplatz von La Tebaida gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.784468,
+                        4.453137
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "Eine internationale christliche Kirche, die für ihre markante Architektur und ihre Lehrveranstaltungen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.792031,
+                        4.453435
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Die katholische Hauptkirche von La Tebaida, erkennbar an ihrer hellen Fassade und den hohen Türmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.789479,
+                        4.452876
+                  ]
+            },
+            {
+                  "name": "Capilla San Jerónimo",
+                  "text": "Eine kleine, schlichte katholische Kapelle, die für private Gebete und lokale Gottesdienste genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.767865,
+                        4.539005
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "Diese katholische Pfarrei ist ein wichtiger religiöser Anlaufpunkt für die Kaffeebauern der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.749949,
+                        4.567205
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Soledad",
+                  "text": "Die markante Kirche am Hauptplatz von Montenegro, bekannt für ihre blaue Fassade und Holzschnitzereien.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.747323,
+                        4.562132
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Ein traditioneller Marktplatz, auf dem lokale Bauern frisches Obst und handwerklichen Kaffee verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.753594,
+                        4.565102
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado Municipal",
+                  "text": "Diese zentrale Markthalle ist ein lebendiges Zentrum für den Handel mit regionalen Agrarprodukten.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.787609,
+                        4.452357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de Los Enamorados",
+                  "text": "Romantikus kilátóhely, ahonnan a Központi-Kordillerák távoli, gyakran hófödte csúcsai láthatók.",
+                  "category": "natural",
+                  "coords": [
+                        -75.758724,
+                        4.564788
+                  ]
+            },
+            {
+                  "name": "Parque Los Arrieros",
+                  "text": "Kulturális élménypark, amely a hagyományos öszvérhajcsárok életét és a 20. század eleji kávékultúrát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.781056,
+                        4.579683
+                  ]
+            },
+            {
+                  "name": "Mirador Pueblo Tapao",
+                  "text": "Tágas kilátást nyújt Pueblo Tapao lankás dombjaitól egészen a Kávépark hullámvasútjaiig.",
+                  "category": "natural",
+                  "coords": [
+                        -75.783839,
+                        4.514134
+                  ]
+            },
+            {
+                  "name": "Museo del Café",
+                  "text": "Ez a múzeum a kávétermesztés teljes folyamatát dokumentálja a szemtől a csészéig Kolumbiában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.77123,
+                        4.540458
+                  ]
+            },
+            {
+                  "name": "Museo arqueológico",
+                  "text": "Az őslakos Quimbaya-kultúra értékes kerámia- és aranyműves gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -75.770218,
+                        4.534208
+                  ]
+            },
+            {
+                  "name": "Las Bailarinas",
+                  "text": "Ez a kávérégióban található vízipark csúszdákat és medencéket kínál a dús trópusi növényzet közepén.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.729948,
+                        4.551168
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Helyi kulturális központ, amely Quindío régió művészetének és örökségének bemutatására szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.751215,
+                        4.566834
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Sociedad Civil Samaria 2",
+                  "text": "Természetvédelmi terület, amely megőrzi az andoki kávérégió gazdag biológiai sokféleségét.",
+                  "category": "natural",
+                  "coords": [
+                        -75.778275,
+                        4.56344
+                  ]
+            },
+            {
+                  "name": "Hacienda Histórica Cafetera El Cabrero",
+                  "text": "Ez a történelmi múzeum egy hagyományos kávébirtok építészetét és eszközeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -75.76137,
+                        4.475042
+                  ]
+            },
+            {
+                  "name": "Show del Café",
+                  "text": "Élénk kulturális központ, amely a kolumbiai kávé történetét bemutató táncos műsorairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.769755,
+                        4.53982
+                  ]
+            },
+            {
+                  "name": "Parque del Café",
+                  "text": "Hatalmas élménypark kávémúzeummal és játékokkal, működő ültetvények közé építve.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.76931,
+                        4.537816
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial",
+                  "text": "Az evangélikus missziós mozgalom keresztény imaháza a kávékörzet szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.788373,
+                        4.453475
+                  ]
+            },
+            {
+                  "name": "Asambleas de Dios",
+                  "text": "A pünkösdi közösség keresztény gyülekezőhelye Montenegro városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.785189,
+                        4.45175
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "Ez a Porres Szent Mártonnak szentelt templom a helyi lakosok lelki központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.786703,
+                        4.451448
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostés Unida Internacional de Colombia",
+                  "text": "Az Egyesült Pünkösdi Egyház modern keresztény templomépülete La Tebaida városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.786434,
+                        4.453322
+                  ]
+            },
+            {
+                  "name": "Iglsesia Pentecostal Unida de Colombia - La Tebaida Central",
+                  "text": "A város központi pünkösdi temploma, közvetlenül La Tebaida forgalmas főtere mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.784468,
+                        4.453137
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "Nemzetközi keresztény templom, amely jellegzetes építészetéről és tanításairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.792031,
+                        4.453435
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "La Tebaida fő katolikus temploma, amely világos homlokzatáról és magas tornyairól ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.789479,
+                        4.452876
+                  ]
+            },
+            {
+                  "name": "Capilla San Jerónimo",
+                  "text": "Kicsi, egyszerű katolikus kápolna, amelyet magánimádságokra és helyi szertatásokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.767865,
+                        4.539005
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "Ez a katolikus plébánia fontos vallási központ a környező kávétermelők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.749949,
+                        4.567205
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Soledad",
+                  "text": "Montenegro főterének jellegzetes temploma, amely kék homlokzatáról és fafaragásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.747323,
+                        4.562132
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Hagyományos piactér, ahol a helyi gazdák friss gyümölcsöt és kézműves kávét árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.753594,
+                        4.565102
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado Municipal",
+                  "text": "Ez a központi vásárcsarnok a regionális mezőgazdasági termékek kereskedelmének élénk központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.787609,
+                        4.452357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de Los Enamorados",
+                  "text": "Un punct de belvedere romantic cu vedere spre vârfurile îndepărtate, adesea înzăpezite, ale Cordilierei Centrale.",
+                  "category": "natural",
+                  "coords": [
+                        -75.758724,
+                        4.564788
+                  ]
+            },
+            {
+                  "name": "Parque Los Arrieros",
+                  "text": "Parc tematic cultural care prezintă viața cărăușilor tradiționali și cultura cafelei de la începutul secolului XX.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.781056,
+                        4.579683
+                  ]
+            },
+            {
+                  "name": "Mirador Pueblo Tapao",
+                  "text": "Oferă o vedere largă peste dealurile domoale din Pueblo Tapao până la caruselurile din Parcul Cafelei.",
+                  "category": "natural",
+                  "coords": [
+                        -75.783839,
+                        4.514134
+                  ]
+            },
+            {
+                  "name": "Museo del Café",
+                  "text": "Acest muzeu documentează întregul proces de producție a cafelei, de la boabă până la ceașcă, în Columbia.",
+                  "category": "museum",
+                  "coords": [
+                        -75.77123,
+                        4.540458
+                  ]
+            },
+            {
+                  "name": "Museo arqueológico",
+                  "text": "Găzduiește o colecție valoroasă de ceramică și piese de aurărie ale culturii indigene Quimbaya.",
+                  "category": "museum",
+                  "coords": [
+                        -75.770218,
+                        4.534208
+                  ]
+            },
+            {
+                  "name": "Las Bailarinas",
+                  "text": "Acest parc acvatic din regiunea cafelei oferă tobogane și piscine în mijlocul vegetației tropicale luxuriante.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.729948,
+                        4.551168
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Un centru cultural local dedicat expozițiilor despre arta și patrimoniul regiunii Quindío.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.751215,
+                        4.566834
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Sociedad Civil Samaria 2",
+                  "text": "O rezervație naturală care conservă bogata biodiversitate andină a zonei cafelei.",
+                  "category": "natural",
+                  "coords": [
+                        -75.778275,
+                        4.56344
+                  ]
+            },
+            {
+                  "name": "Hacienda Histórica Cafetera El Cabrero",
+                  "text": "Acest muzeu istoric prezintă arhitectura și uneltele unei ferme de cafea tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        -75.76137,
+                        4.475042
+                  ]
+            },
+            {
+                  "name": "Show del Café",
+                  "text": "Un centru cultural vibrant, cunoscut pentru spectacolele de dans despre istoria cafelei columbiene.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.769755,
+                        4.53982
+                  ]
+            },
+            {
+                  "name": "Parque del Café",
+                  "text": "Un parc tematic vast care include un muzeu al cafelei și atracții situate în mijlocul plantațiilor active.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.76931,
+                        4.537816
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial",
+                  "text": "O casă de rugăciune creștină a mișcării misionare evanghelice din inima districtului cafelei.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.788373,
+                        4.453475
+                  ]
+            },
+            {
+                  "name": "Asambleas de Dios",
+                  "text": "Un loc de adunare creștin al comunității penticostale din orașul Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.785189,
+                        4.45175
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "Această biserică dedicată Sfântului Martin de Porres servește ca centru spiritual pentru rezidenții locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.786703,
+                        4.451448
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostés Unida Internacional de Colombia",
+                  "text": "O clădire modernă de biserică creștină a Bisericii Penticostale Unite din La Tebaida.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.786434,
+                        4.453322
+                  ]
+            },
+            {
+                  "name": "Iglsesia Pentecostal Unida de Colombia - La Tebaida Central",
+                  "text": "Biserica penticostală centrală a orașului, situată chiar lângă piața principală animată din La Tebaida.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.784468,
+                        4.453137
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "O biserică creștină internațională cunoscută pentru arhitectura sa distinctivă și sesiunile de învățătură.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.792031,
+                        4.453435
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Principala biserică catolică din La Tebaida, recunoscută după fațada luminoasă și turnurile înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.789479,
+                        4.452876
+                  ]
+            },
+            {
+                  "name": "Capilla San Jerónimo",
+                  "text": "O capelă catolică mică și simplă, folosită pentru rugăciune privată și slujbe locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.767865,
+                        4.539005
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "Această parohie catolică este un punct religios important pentru cultivatorii de cafea din împrejurimi.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.749949,
+                        4.567205
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Soledad",
+                  "text": "Biserica emblematică din piața principală a orașului Montenegro, cunoscută pentru fațada albastră și sculpturile în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.747323,
+                        4.562132
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "O piață tradițională unde fermierii locali vând fructe proaspete și cafea artizanală.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.753594,
+                        4.565102
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado Municipal",
+                  "text": "Această hală centrală este un centru vibrant pentru comerțul cu produse agricole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.787609,
+                        4.452357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de Los Enamorados",
+                  "text": "A romantic viewpoint overlooking the distant, often snow-capped peaks of the Central Cordillera.",
+                  "category": "natural",
+                  "coords": [
+                        -75.758724,
+                        4.564788
+                  ]
+            },
+            {
+                  "name": "Parque Los Arrieros",
+                  "text": "Cultural theme park showcasing the life of traditional muleteers and early 20th-century coffee culture.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.781056,
+                        4.579683
+                  ]
+            },
+            {
+                  "name": "Mirador Pueblo Tapao",
+                  "text": "Offers a sweeping view over the rolling hills of Pueblo Tapao all the way to the Coffee Park's rollercoasters.",
+                  "category": "natural",
+                  "coords": [
+                        -75.783839,
+                        4.514134
+                  ]
+            },
+            {
+                  "name": "Museo del Café",
+                  "text": "This museum documents the entire coffee production process from bean to cup in Colombia.",
+                  "category": "museum",
+                  "coords": [
+                        -75.77123,
+                        4.540458
+                  ]
+            },
+            {
+                  "name": "Museo arqueológico",
+                  "text": "Houses a valuable collection of pottery and goldsmith work from the indigenous Quimbaya culture.",
+                  "category": "museum",
+                  "coords": [
+                        -75.770218,
+                        4.534208
+                  ]
+            },
+            {
+                  "name": "Las Bailarinas",
+                  "text": "This water park in the coffee region features slides and pools surrounded by lush tropical vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.729948,
+                        4.551168
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A local cultural hub dedicated to exhibitions on the arts and heritage of the Quindío region.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.751215,
+                        4.566834
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Sociedad Civil Samaria 2",
+                  "text": "A nature reserve that preserves the rich Andean biodiversity of the coffee-growing region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.778275,
+                        4.56344
+                  ]
+            },
+            {
+                  "name": "Hacienda Histórica Cafetera El Cabrero",
+                  "text": "This historical museum showcases the architecture and tools of a traditional coffee estate.",
+                  "category": "museum",
+                  "coords": [
+                        -75.76137,
+                        4.475042
+                  ]
+            },
+            {
+                  "name": "Show del Café",
+                  "text": "A vibrant cultural center known for its dance shows depicting the history of Colombian coffee.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.769755,
+                        4.53982
+                  ]
+            },
+            {
+                  "name": "Parque del Café",
+                  "text": "A massive theme park featuring a coffee museum and rides set among working plantations.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.76931,
+                        4.537816
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial",
+                  "text": "A Christian house of worship for the evangelical missionary movement in the heart of the coffee district.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.788373,
+                        4.453475
+                  ]
+            },
+            {
+                  "name": "Asambleas de Dios",
+                  "text": "A Christian gathering place for the Pentecostal community in the town of Montenegro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.785189,
+                        4.45175
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "This church dedicated to Saint Martin de Porres serves as a spiritual center for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.786703,
+                        4.451448
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostés Unida Internacional de Colombia",
+                  "text": "A modern Christian church building of the United Pentecostal Church in La Tebaida.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.786434,
+                        4.453322
+                  ]
+            },
+            {
+                  "name": "Iglsesia Pentecostal Unida de Colombia - La Tebaida Central",
+                  "text": "The town's central Pentecostal church, located right by the busy main square of La Tebaida.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.784468,
+                        4.453137
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "An international Christian church known for its distinctive architecture and teaching sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.792031,
+                        4.453435
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "The primary Catholic church of La Tebaida, recognizable by its bright facade and tall towers.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.789479,
+                        4.452876
+                  ]
+            },
+            {
+                  "name": "Capilla San Jerónimo",
+                  "text": "A small, simple Catholic chapel used for private prayer and local services.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.767865,
+                        4.539005
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "This Catholic parish serves as an important religious hub for the surrounding coffee farmers.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.749949,
+                        4.567205
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Soledad",
+                  "text": "The landmark church on Montenegro's main plaza, known for its blue facade and wood carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.747323,
+                        4.562132
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "A traditional marketplace where local farmers sell fresh tropical fruits and artisanal coffee.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.753594,
+                        4.565102
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado Municipal",
+                  "text": "This central market hall is a lively hub for commerce in regional agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.787609,
+                        4.452357
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CO-QUI",
     coords: [-75.772, 4.5401],
@@ -101,7 +1811,448 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "hacienda-napoles-life-v2",
+    id: "hacienda-napoles-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hacienda Nápoles",
+                  "text": "Das einst berüchtigte Anwesen von Pablo Escobar wurde in einen Familien-Themenpark mit Wasserrutschen und exotischen Tiergehegen umgewandelt.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.721252,
+                        5.914212
+                  ]
+            },
+            {
+                  "name": "Hipopotamos",
+                  "text": "Dieser Aussichtsbereich am Seeufer ermöglicht es Besuchern, die Nachkommen der in den 1980er Jahren importierten Flusspferde sicher zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -74.721275,
+                        5.915134
+                  ]
+            },
+            {
+                  "name": "Tunel del Capo",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Überreste eines unterirdischen Tunnelnetzwerks, das einst für geheime Fluchten auf dem historischen Anwesen genutzt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -74.722031,
+                        5.92348
+                  ]
+            },
+            {
+                  "name": "Santorini",
+                  "text": "Direkt außerhalb des Themenparks gelegen, besticht diese architektonische Attraktion durch strahlend weiße Gebäude und blaue Kuppeln, die der berühmten griechischen Insel nachempfunden sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.740047,
+                        5.900412
+                  ]
+            },
+            {
+                  "name": "Museo Africano",
+                  "text": "Dieses Museum, das in einer umgebauten Stierkampfarena untergebracht ist, stellt afrikanische Artefakte aus und beleuchtet das Erbe der auf das Anwesen gebrachten exotischen Tiere.",
+                  "category": "museum",
+                  "coords": [
+                        -74.724405,
+                        5.928144
+                  ]
+            },
+            {
+                  "name": "Elefantes",
+                  "text": "Ein weitläufiges Schutzgebiet innerhalb des Themenparks, das der Pflege und Ausstellung geretteter Elefanten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.724424,
+                        5.930185
+                  ]
+            },
+            {
+                  "name": "Tigres de Bengala",
+                  "text": "Dieses stark befestigte Gehege ermöglicht es Besuchern, majestätische bengalische Tiger bei ihren Streifzügen durch nachgebildete tropische Lebensräume sicher zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.725769,
+                        5.930734
+                  ]
+            },
+            {
+                  "name": "Jaguar",
+                  "text": "Ein spezialisierter Lebensraum für die Erhaltung und Ausstellung des Jaguars, ausgestattet mit dichter Vegetation und Kletterstrukturen.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.727676,
+                        5.93069
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "Ein feuchter, geschlossener botanischer Garten, der Tausende von farbenprächtigen, in den kolumbianischen Tropen heimischen Schmetterlingen beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.727717,
+                        5.928466
+                  ]
+            },
+            {
+                  "name": "Suricatos",
+                  "text": "Ein sandiges Gehege im Wüstenstil, das speziell für eine hochaktive Erdmännchenkolonie gebaut wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.725257,
+                        5.932321
+                  ]
+            },
+            {
+                  "name": "Parque Temático Hacienda Nápoles",
+                  "text": "Ursprünglich von einem berüchtigten Kartellchef erbaut, ist dieses 20 Quadratkilometer große Anwesen heute ein staatlicher Themenpark voller Tiergehege und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.723695,
+                        5.916783
+                  ]
+            },
+            {
+                  "name": "Iglesia Doradal",
+                  "text": "Eine lokale christliche Kirche, die der nahe gelegenen Stadt Doradal dient und durch ihren unverwechselbaren, mediterran inspirierten Baustil besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.734659,
+                        5.899293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hacienda Nápoles",
+                  "text": "Pablo Escobar egykori hírhedt birtokát mára egy családi vidámparkká alakították át, amely csúszdákkal és egzotikus állatkifutókkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.721252,
+                        5.914212
+                  ]
+            },
+            {
+                  "name": "Hipopotamos",
+                  "text": "Ez a tóparti kilátóhely lehetővé teszi a látogatók számára, hogy biztonságosan megfigyeljék az 1980-as években eredetileg a régióba importált vízilovak leszármazottait.",
+                  "category": "natural",
+                  "coords": [
+                        -74.721275,
+                        5.915134
+                  ]
+            },
+            {
+                  "name": "Tunel del Capo",
+                  "text": "Egy kilátó, amely a történelmi birtokon egykor titkos menekülésekre használt földalatti alagúthálózat maradványaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        -74.722031,
+                        5.92348
+                  ]
+            },
+            {
+                  "name": "Santorini",
+                  "text": "A vidámparkon kívül található ez a lenyűgöző építészeti látványosság, amelynek hófehér épületei és kék kupolái a híres görög szigetet utánozzák.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.740047,
+                        5.900412
+                  ]
+            },
+            {
+                  "name": "Museo Africano",
+                  "text": "Egy átalakított bikaviadal-arénában kapott helyet ez a múzeum, amely afrikai leleteket állít ki, és bemutatja a birtokra hozott egzotikus állatok örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        -74.724405,
+                        5.928144
+                  ]
+            },
+            {
+                  "name": "Elefantes",
+                  "text": "A vidámparkon belüli tágas menedékhely a megmentett elefántok gondozásának és bemutatásának van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.724424,
+                        5.930185
+                  ]
+            },
+            {
+                  "name": "Tigres de Bengala",
+                  "text": "Ez az erősen megerősített kifutó lehetővé teszi a látogatók számára, hogy biztonságosan megfigyeljék az újraalkotott trópusi élőhelyen kószáló fenséges bengáli tigriseket.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.725769,
+                        5.930734
+                  ]
+            },
+            {
+                  "name": "Jaguar",
+                  "text": "A jaguárok védelmére és bemutatására tervezett speciális élőhely sűrű növényzettel és mászókákkal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.727676,
+                        5.93069
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "Egy párás, zárt botanikus kert, amely több ezer, a kolumbiai trópusokon őshonos, élénk színű pillangónak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.727717,
+                        5.928466
+                  ]
+            },
+            {
+                  "name": "Suricatos",
+                  "text": "Kifejezetten egy rendkívül aktív szurikátakolónia számára épült, sivatagi stílusú, homokos kifutó.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.725257,
+                        5.932321
+                  ]
+            },
+            {
+                  "name": "Parque Temático Hacienda Nápoles",
+                  "text": "Az eredetileg egy hírhedt kartellvezér által épített 20 négyzetkilométeres birtok ma már egy vadvilági élőhelyekkel és medencékkel teli, állami tulajdonú vidámpark.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.723695,
+                        5.916783
+                  ]
+            },
+            {
+                  "name": "Iglesia Doradal",
+                  "text": "A közeli Doradal városát kiszolgáló helyi keresztény templom, amelynek építészeti stílusát egyértelműen a mediterrán térség ihlette.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.734659,
+                        5.899293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hacienda Nápoles",
+                  "text": "Fosta proprietate notorie a lui Pablo Escobar a fost transformată într-un parc tematic familial vast, cu tobogane de apă și padocuri pentru animale exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.721252,
+                        5.914212
+                  ]
+            },
+            {
+                  "name": "Hipopotamos",
+                  "text": "Această zonă de vizionare de pe malul lacului permite vizitatorilor să observe în siguranță descendenții hipopotamilor aduși inițial în regiune în anii 1980.",
+                  "category": "natural",
+                  "coords": [
+                        -74.721275,
+                        5.915134
+                  ]
+            },
+            {
+                  "name": "Tunel del Capo",
+                  "text": "Un punct de observație care oferă o vedere asupra rămășițelor unei rețele de tuneluri subterane, folosite cândva pentru evadări secrete pe domeniul istoric.",
+                  "category": "natural",
+                  "coords": [
+                        -74.722031,
+                        5.92348
+                  ]
+            },
+            {
+                  "name": "Santorini",
+                  "text": "Situată chiar în afara parcului tematic, această atracție arhitecturală impresionantă este construită cu clădiri albe și domuri albastre, imitând faimoasa insulă grecească.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.740047,
+                        5.900412
+                  ]
+            },
+            {
+                  "name": "Museo Africano",
+                  "text": "Găzduit într-o fostă arenă de tauri, acest muzeu expune artefacte africane și prezintă moștenirea animalelor exotice aduse pe domeniu.",
+                  "category": "museum",
+                  "coords": [
+                        -74.724405,
+                        5.928144
+                  ]
+            },
+            {
+                  "name": "Elefantes",
+                  "text": "Un sanctuar spațios în cadrul parcului tematic, dedicat îngrijirii și expoziției elefanților salvați.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.724424,
+                        5.930185
+                  ]
+            },
+            {
+                  "name": "Tigres de Bengala",
+                  "text": "Acest țarc puternic fortificat permite vizitatorilor să privească în siguranță tigrii bengalezi maiestuoși, care pândesc prin habitatele tropicale recreate.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.725769,
+                        5.930734
+                  ]
+            },
+            {
+                  "name": "Jaguar",
+                  "text": "Un habitat specializat conceput pentru conservarea și expunerea jaguarului, având o vegetație densă și structuri de cățărare.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.727676,
+                        5.93069
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "O grădină botanică închisă și umedă, care găzduiește mii de fluturi viu colorați nativi la tropicele columbiene.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.727717,
+                        5.928466
+                  ]
+            },
+            {
+                  "name": "Suricatos",
+                  "text": "Un țarc nisipos în stil deșertic, construit special pentru a găzdui o colonie foarte activă de suricate.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.725257,
+                        5.932321
+                  ]
+            },
+            {
+                  "name": "Parque Temático Hacienda Nápoles",
+                  "text": "Construit inițial de un lider notoriu al unui cartel, acest domeniu de 20 de kilometri pătrați este acum un parc tematic deținut de stat, plin de habitate de animale sălbatice și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.723695,
+                        5.916783
+                  ]
+            },
+            {
+                  "name": "Iglesia Doradal",
+                  "text": "O biserică creștină locală care deservește orașul din apropiere Doradal, având un stil arhitectural distinct inspirat din Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.734659,
+                        5.899293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hacienda Nápoles",
+                  "text": "Once the notorious estate of Pablo Escobar, this vast property has been transformed into a family theme park featuring water slides and exotic animal enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.721252,
+                        5.914212
+                  ]
+            },
+            {
+                  "name": "Hipopotamos",
+                  "text": "This lakeside viewing area allows visitors to safely observe the descendants of the hippos originally imported to the region in the 1980s.",
+                  "category": "natural",
+                  "coords": [
+                        -74.721275,
+                        5.915134
+                  ]
+            },
+            {
+                  "name": "Tunel del Capo",
+                  "text": "A viewpoint that looks over the remnants of an underground tunnel network once used for secret escapes on the historic estate.",
+                  "category": "natural",
+                  "coords": [
+                        -74.722031,
+                        5.92348
+                  ]
+            },
+            {
+                  "name": "Santorini",
+                  "text": "Located just outside the theme park, this striking architectural attraction is built with stark white buildings and blue domes, mimicking the famous Greek island.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.740047,
+                        5.900412
+                  ]
+            },
+            {
+                  "name": "Museo Africano",
+                  "text": "Housed in a repurposed bullring, this museum exhibits African artifacts and outlines the legacy of the exotic animals brought to the estate.",
+                  "category": "museum",
+                  "coords": [
+                        -74.724405,
+                        5.928144
+                  ]
+            },
+            {
+                  "name": "Elefantes",
+                  "text": "A spacious sanctuary within the theme park dedicated to the care and exhibition of rescued elephants.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.724424,
+                        5.930185
+                  ]
+            },
+            {
+                  "name": "Tigres de Bengala",
+                  "text": "This heavily fortified enclosure allows visitors to safely view majestic Bengal tigers prowling through recreated tropical habitats.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.725769,
+                        5.930734
+                  ]
+            },
+            {
+                  "name": "Jaguar",
+                  "text": "A specialized habitat designed for the conservation and display of the jaguar, featuring dense vegetation and climbing structures.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.727676,
+                        5.93069
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "A humid, enclosed botanical garden that houses thousands of brightly colored butterflies native to the Colombian tropics.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.727717,
+                        5.928466
+                  ]
+            },
+            {
+                  "name": "Suricatos",
+                  "text": "A sandy desert-style enclosure specially built to accommodate a highly active colony of meerkats.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.725257,
+                        5.932321
+                  ]
+            },
+            {
+                  "name": "Parque Temático Hacienda Nápoles",
+                  "text": "Originally built by a notorious cartel leader, this 20-square-kilometer estate is now a government-owned theme park filled with wildlife habitats and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.723695,
+                        5.916783
+                  ]
+            },
+            {
+                  "name": "Iglesia Doradal",
+                  "text": "A local Christian church serving the nearby town of Doradal, featuring a distinct Mediterranean-inspired architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.734659,
+                        5.899293
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CO-ANT",
     coords: [-74.7228, 5.9231],
@@ -150,7 +2301,844 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "parque-jaime-duque-life-v2",
+    id: "parque-jaime-duque-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rotonda Alpina",
+                  "text": "Ein Kreisverkehr, der Zugang zu den Erholungsgebieten im Parque Jaime Duque bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.942323,
+                        4.913754
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Eine akustische Freilichtbühne im Parque Jaime Duque, die für musikalische und theatralische Live-Aufführungen konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.027984,
+                        4.911888
+                  ]
+            },
+            {
+                  "name": "Público",
+                  "text": "Ein Kunst- und Kulturraum für öffentliche Versammlungen und Ausstellungen innerhalb des Jaime-Duque-Komplexes.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.02888,
+                        4.913218
+                  ]
+            },
+            {
+                  "name": "El Museo de la Computación",
+                  "text": "Ein Museum im Parque Jaime Duque, das die historische Entwicklung der Computertechnik und alte Hardware zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -74.01067,
+                        4.942586
+                  ]
+            },
+            {
+                  "name": "Reserva del Perro",
+                  "text": "Ein geschütztes Naturgebiet, das in das weitläufige Gelände des Parque Jaime Duque integriert ist.",
+                  "category": "natural",
+                  "coords": [
+                        -74.011993,
+                        4.924482
+                  ]
+            },
+            {
+                  "name": "La Cumbre",
+                  "text": "Ein erhöhter Aussichtspunkt mit Panoramablick über den weitläufigen Themenpark Jaime Duque.",
+                  "category": "natural",
+                  "coords": [
+                        -74.048764,
+                        4.943539
+                  ]
+            },
+            {
+                  "name": "Castillo Medieval",
+                  "text": "Eine Nachbildung einer mittelalterlichen Burg mit charakteristischen Steinmauern und Türmen im Themenpark.",
+                  "category": "castle",
+                  "coords": [
+                        -73.960069,
+                        4.944532
+                  ]
+            },
+            {
+                  "name": "Parque Museo Fuerzas Militares",
+                  "text": "Ein Militärmuseum im Parque Jaime Duque, das historische Artefakte und Ausrüstungen der kolumbianischen Streitkräfte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.962571,
+                        4.952966
+                  ]
+            },
+            {
+                  "name": "Ecoparque Sabana",
+                  "text": "Ein naturbezogener Themenparkbereich, der die Ökologie und die Landschaften der Savanne von Bogotá in den Mittelpunkt stellt.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.955194,
+                        4.949374
+                  ]
+            },
+            {
+                  "name": "Monumento a Dios",
+                  "text": "Ein markantes religiöses Denkmal im Park, das durch eine massive Hand gekennzeichnet ist, die die Weltkugel hält.",
+                  "category": "historical",
+                  "coords": [
+                        -73.961926,
+                        4.945655
+                  ]
+            },
+            {
+                  "name": "Museo Aeroespacial Colombiano",
+                  "text": "Ein großer Museumskomplex, der historische Flugzeuge und die Luftfahrtgeschichte der kolumbianischen Luftwaffe zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.96141,
+                        4.949842
+                  ]
+            },
+            {
+                  "name": "Parque Jaime Duque",
+                  "text": "Ein riesiger Kultur- und Freizeit-Themenpark mit einem Zoo, Museen und großflächigen architektonischen Nachbildungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.963436,
+                        4.948201
+                  ]
+            },
+            {
+                  "name": "Bioparque Wakatá",
+                  "text": "Ein zoologischer Park in Jaime Duque, der der Erhaltung und Ausstellung der einheimischen und exotischen Tierwelt gewidmet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.96542,
+                        4.95271
+                  ]
+            },
+            {
+                  "name": "Finkana",
+                  "text": "Ein interaktiver landwirtschaftlicher Themenpark, in dem Besucher das Farmleben erleben und mit Haustieren interagieren können.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.96016,
+                        4.975244
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestro Señor de la Piedra",
+                  "text": "Ein christliches Heiligtum in der Nähe des Jaime-Duque-Komplexes, das als Ort für die regionale religiöse Hingabe dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.935907,
+                        4.908776
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Salvador",
+                  "text": "Eine örtliche katholische Pfarrkirche, die der Gemeinde in der Nähe des Themenparks religiöse Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.939946,
+                        4.908133
+                  ]
+            },
+            {
+                  "name": "Parroquia Virgen del Rosario de Calahorra",
+                  "text": "Eine der Jungfrau vom Rosenkranz geweihte Pfarrkirche mit traditioneller religiöser Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -74.028298,
+                        4.904223
+                  ]
+            },
+            {
+                  "name": "Hermanas Clarisas",
+                  "text": "Eine Kapelle des Klarissenordens, die sich durch ihre klösterliche und ruhige Atmosphäre auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -74.03145,
+                        4.911521
+                  ]
+            },
+            {
+                  "name": "Seminario San Gabriel",
+                  "text": "Ein christliches Priesterseminar, das der theologischen Ausbildung und Formung künftiger Geistlicher gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.029971,
+                        4.911826
+                  ]
+            },
+            {
+                  "name": "Parroquia Inmaculada Concepción",
+                  "text": "Eine katholische Pfarrei, die der Unbefleckten Empfängnis gewidmet ist und regelmäßig Gemeindemessen veranstaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.024913,
+                        4.916805
+                  ]
+            },
+            {
+                  "name": "Religiosas de la Comunidad Social",
+                  "text": "Ein Ordenshaus, das zu einer Kongregation von Schwestern gehört, die in der lokalen Sozialarbeit engagiert sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.032356,
+                        4.908756
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado de Sopó",
+                  "text": "Ein traditioneller Marktplatz in Sopó, auf dem Einheimische mit frischen regionalen Produkten und handwerklichen Waren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.941356,
+                        4.905731
+                  ]
+            },
+            {
+                  "name": "Plaza Campesina",
+                  "text": "Ein Bauernmarktplatz, der dem Direktverkauf landwirtschaftlicher Produkte durch lokale ländliche Erzeuger gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.024225,
+                        4.915196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rotonda Alpina",
+                  "text": "Egy körforgalom, amely hozzáférést biztosít a Parque Jaime Duque rekreációs területeihez.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.942323,
+                        4.913754
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Egy szabadtéri akusztikus színpad a Parque Jaime Duque-ban, amelyet élő zenei és színházi előadásokra terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.027984,
+                        4.911888
+                  ]
+            },
+            {
+                  "name": "Público",
+                  "text": "A Jaime Duque komplexumon belüli, nyilvános összejövetelek és kiállítások céljára szolgáló művészeti és kulturális tér.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.02888,
+                        4.913218
+                  ]
+            },
+            {
+                  "name": "El Museo de la Computación",
+                  "text": "A Parque Jaime Duque múzeuma, amely a számítástechnika történelmi fejlődését és a régi hardvereket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -74.01067,
+                        4.942586
+                  ]
+            },
+            {
+                  "name": "Reserva del Perro",
+                  "text": "A Parque Jaime Duque kiterjedt területébe integrált védett természeti terület.",
+                  "category": "natural",
+                  "coords": [
+                        -74.011993,
+                        4.924482
+                  ]
+            },
+            {
+                  "name": "La Cumbre",
+                  "text": "Egy magaslati kilátó, amely panorámás kilátást nyújt a kiterjedt Jaime Duque vidámparkra.",
+                  "category": "natural",
+                  "coords": [
+                        -74.048764,
+                        4.943539
+                  ]
+            },
+            {
+                  "name": "Castillo Medieval",
+                  "text": "Egy középkori vár másolata a vidámparkban, jellegzetes kőfalakkal és tornyokkal.",
+                  "category": "castle",
+                  "coords": [
+                        -73.960069,
+                        4.944532
+                  ]
+            },
+            {
+                  "name": "Parque Museo Fuerzas Militares",
+                  "text": "A Parque Jaime Duque katonai múzeuma, amely a kolumbiai fegyveres erők történelmi tárgyait és felszereléseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -73.962571,
+                        4.952966
+                  ]
+            },
+            {
+                  "name": "Ecoparque Sabana",
+                  "text": "A bogotái szavanna ökológiáját és tájait hangsúlyozó, természetközpontú vidámparki rész.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.955194,
+                        4.949374
+                  ]
+            },
+            {
+                  "name": "Monumento a Dios",
+                  "text": "A parkon belüli kiemelkedő vallási emlékmű, amelyet egy földgömböt tartó hatalmas kéz jellemez.",
+                  "category": "historical",
+                  "coords": [
+                        -73.961926,
+                        4.945655
+                  ]
+            },
+            {
+                  "name": "Museo Aeroespacial Colombiano",
+                  "text": "Egy nagy múzeumkomplexum, amely történelmi repülőgépeket és a kolumbiai légierő repüléstörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -73.96141,
+                        4.949842
+                  ]
+            },
+            {
+                  "name": "Parque Jaime Duque",
+                  "text": "Hatalmas kulturális és rekreációs vidámpark, amely állatkertet, múzeumokat és nagyszabású építészeti másolatokat tartalmaz.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.963436,
+                        4.948201
+                  ]
+            },
+            {
+                  "name": "Bioparque Wakatá",
+                  "text": "A Jaime Duque-n belüli állattani park, amelyet az őshonos és egzotikus vadvilág megőrzésének és bemutatásának szenteltek.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.96542,
+                        4.95271
+                  ]
+            },
+            {
+                  "name": "Finkana",
+                  "text": "Egy interaktív mezőgazdasági vidámpark, ahol a látogatók megtapasztalhatják a tanyasi életet és kapcsolatba léphetnek a háziállatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.96016,
+                        4.975244
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestro Señor de la Piedra",
+                  "text": "A Jaime Duque komplexum közelében található keresztény szentély, amely regionális vallási áhítat helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.935907,
+                        4.908776
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Salvador",
+                  "text": "Helyi katolikus plébániatemplom, amely vallási szolgáltatásokat nyújt a vidámpark közeli közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.939946,
+                        4.908133
+                  ]
+            },
+            {
+                  "name": "Parroquia Virgen del Rosario de Calahorra",
+                  "text": "A Rózsafüzér Szűzanyának szentelt plébániatemplom, amely hagyományos vallási építészettel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        -74.028298,
+                        4.904223
+                  ]
+            },
+            {
+                  "name": "Hermanas Clarisas",
+                  "text": "A klarissza rendhez tartozó kápolna, amelyet a kolostori és nyugodt légkör jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        -74.03145,
+                        4.911521
+                  ]
+            },
+            {
+                  "name": "Seminario San Gabriel",
+                  "text": "A jövőbeli papság teológiai oktatásának és képzésének szentelt keresztény szeminárium.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.029971,
+                        4.911826
+                  ]
+            },
+            {
+                  "name": "Parroquia Inmaculada Concepción",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt katolikus plébánia, amely rendszeres közösségi miséknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.024913,
+                        4.916805
+                  ]
+            },
+            {
+                  "name": "Religiosas de la Comunidad Social",
+                  "text": "A helyi szociális munkában részt vevő nővérkongregációhoz tartozó vallási ház.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.032356,
+                        4.908756
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado de Sopó",
+                  "text": "Egy hagyományos piac Sopóban, ahol a helyiek friss regionális termékekkel és kézműves árukkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.941356,
+                        4.905731
+                  ]
+            },
+            {
+                  "name": "Plaza Campesina",
+                  "text": "A helyi vidéki termelők mezőgazdasági termékeinek közvetlen értékesítésére szolgáló termelői piac tere.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.024225,
+                        4.915196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rotonda Alpina",
+                  "text": "Un sens giratoriu care oferă acces la zonele de recreere din Parque Jaime Duque.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.942323,
+                        4.913754
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "O scenă acustică în aer liber în Parque Jaime Duque, concepută pentru spectacole muzicale și teatrale live.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.027984,
+                        4.911888
+                  ]
+            },
+            {
+                  "name": "Público",
+                  "text": "Un spațiu de artă și cultură destinat adunărilor publice și expozițiilor din cadrul complexului Jaime Duque.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.02888,
+                        4.913218
+                  ]
+            },
+            {
+                  "name": "El Museo de la Computación",
+                  "text": "Un muzeu la Parque Jaime Duque care prezintă evoluția istorică a computerelor și a hardware-ului de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        -74.01067,
+                        4.942586
+                  ]
+            },
+            {
+                  "name": "Reserva del Perro",
+                  "text": "O arie naturală protejată integrată în terenurile vaste ale Parque Jaime Duque.",
+                  "category": "natural",
+                  "coords": [
+                        -74.011993,
+                        4.924482
+                  ]
+            },
+            {
+                  "name": "La Cumbre",
+                  "text": "Un punct de observație ridicat care oferă vederi panoramice asupra vastului parc tematic Jaime Duque.",
+                  "category": "natural",
+                  "coords": [
+                        -74.048764,
+                        4.943539
+                  ]
+            },
+            {
+                  "name": "Castillo Medieval",
+                  "text": "O replică a unui castel medieval cu ziduri de piatră și turnulețe caracteristice în cadrul parcului tematic.",
+                  "category": "castle",
+                  "coords": [
+                        -73.960069,
+                        4.944532
+                  ]
+            },
+            {
+                  "name": "Parque Museo Fuerzas Militares",
+                  "text": "Un muzeu militar din Parque Jaime Duque care expune artefacte istorice și echipamente ale forțelor armate columbiene.",
+                  "category": "museum",
+                  "coords": [
+                        -73.962571,
+                        4.952966
+                  ]
+            },
+            {
+                  "name": "Ecoparque Sabana",
+                  "text": "O secțiune a parcului tematic axată pe natură, care subliniază ecologia și peisajele savanei Bogotá.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.955194,
+                        4.949374
+                  ]
+            },
+            {
+                  "name": "Monumento a Dios",
+                  "text": "Un monument religios proeminent în cadrul parcului, caracterizat de o mână masivă care ține globul pământesc.",
+                  "category": "historical",
+                  "coords": [
+                        -73.961926,
+                        4.945655
+                  ]
+            },
+            {
+                  "name": "Museo Aeroespacial Colombiano",
+                  "text": "Un complex muzeal mare care expune aeronave istorice și istoria aviației forțelor aeriene columbiene.",
+                  "category": "museum",
+                  "coords": [
+                        -73.96141,
+                        4.949842
+                  ]
+            },
+            {
+                  "name": "Parque Jaime Duque",
+                  "text": "Un vast parc tematic cultural și de recreere cu o grădină zoologică, muzee și replici arhitecturale la scară largă.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.963436,
+                        4.948201
+                  ]
+            },
+            {
+                  "name": "Bioparque Wakatá",
+                  "text": "Un parc zoologic în Jaime Duque, dedicat conservării și expunerii faunei sălbatice native și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.96542,
+                        4.95271
+                  ]
+            },
+            {
+                  "name": "Finkana",
+                  "text": "O zonă interactivă a parcului tematic agricol unde vizitatorii pot experimenta viața la fermă și pot interacționa cu animalele domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.96016,
+                        4.975244
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestro Señor de la Piedra",
+                  "text": "Un sanctuar creștin situat în apropierea complexului Jaime Duque, servind ca loc pentru devotamentul religios regional.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.935907,
+                        4.908776
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Salvador",
+                  "text": "O biserică parohială catolică locală care oferă servicii religioase comunității din apropierea parcului tematic.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.939946,
+                        4.908133
+                  ]
+            },
+            {
+                  "name": "Parroquia Virgen del Rosario de Calahorra",
+                  "text": "O biserică parohială dedicată Fecioarei Rozariului, cu o arhitectură religioasă tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -74.028298,
+                        4.904223
+                  ]
+            },
+            {
+                  "name": "Hermanas Clarisas",
+                  "text": "O capelă aparținând ordinului Clariselor, caracterizată prin atmosfera sa de mănăstire și senină.",
+                  "category": "religious",
+                  "coords": [
+                        -74.03145,
+                        4.911521
+                  ]
+            },
+            {
+                  "name": "Seminario San Gabriel",
+                  "text": "Un seminar creștin dedicat educației și formării teologice a viitorului cler.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.029971,
+                        4.911826
+                  ]
+            },
+            {
+                  "name": "Parroquia Inmaculada Concepción",
+                  "text": "O parohie catolică dedicată Imaculatei Concepții, care găzduiește slujbe comunitare regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.024913,
+                        4.916805
+                  ]
+            },
+            {
+                  "name": "Religiosas de la Comunidad Social",
+                  "text": "O casă religioasă aparținând unei congregații de surori implicate în asistența socială locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.032356,
+                        4.908756
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado de Sopó",
+                  "text": "O piață tradițională din Sopó, unde localnicii tranzacționează produse regionale proaspete și bunuri artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.941356,
+                        4.905731
+                  ]
+            },
+            {
+                  "name": "Plaza Campesina",
+                  "text": "O piață a fermierilor dedicată vânzării directe a produselor agricole de către producătorii rurali locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.024225,
+                        4.915196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rotonda Alpina",
+                  "text": "A roundabout feature providing access to the recreational areas within Parque Jaime Duque.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.942323,
+                        4.913754
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "An outdoor acoustic shell within Parque Jaime Duque, designed for live musical and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.027984,
+                        4.911888
+                  ]
+            },
+            {
+                  "name": "Público",
+                  "text": "An arts and cultural space intended for public gatherings and exhibitions within the Jaime Duque complex.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.02888,
+                        4.913218
+                  ]
+            },
+            {
+                  "name": "El Museo de la Computación",
+                  "text": "A museum at Parque Jaime Duque showcasing the historical evolution of computing and vintage hardware.",
+                  "category": "museum",
+                  "coords": [
+                        -74.01067,
+                        4.942586
+                  ]
+            },
+            {
+                  "name": "Reserva del Perro",
+                  "text": "A protected natural area integrated into the expansive grounds of Parque Jaime Duque.",
+                  "category": "natural",
+                  "coords": [
+                        -74.011993,
+                        4.924482
+                  ]
+            },
+            {
+                  "name": "La Cumbre",
+                  "text": "An elevated observation point offering panoramic views over the extensive Jaime Duque theme park.",
+                  "category": "natural",
+                  "coords": [
+                        -74.048764,
+                        4.943539
+                  ]
+            },
+            {
+                  "name": "Castillo Medieval",
+                  "text": "A replica medieval castle featuring characteristic stone walls and turrets within the theme park.",
+                  "category": "castle",
+                  "coords": [
+                        -73.960069,
+                        4.944532
+                  ]
+            },
+            {
+                  "name": "Parque Museo Fuerzas Militares",
+                  "text": "A military museum at Parque Jaime Duque displaying historical artifacts and equipment of the Colombian armed forces.",
+                  "category": "museum",
+                  "coords": [
+                        -73.962571,
+                        4.952966
+                  ]
+            },
+            {
+                  "name": "Ecoparque Sabana",
+                  "text": "A nature-focused theme park section emphasizing the ecology and landscapes of the Bogotá savanna.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.955194,
+                        4.949374
+                  ]
+            },
+            {
+                  "name": "Monumento a Dios",
+                  "text": "A prominent religious monument within the park, characterized by a massive hand holding the globe.",
+                  "category": "historical",
+                  "coords": [
+                        -73.961926,
+                        4.945655
+                  ]
+            },
+            {
+                  "name": "Museo Aeroespacial Colombiano",
+                  "text": "A large museum complex displaying historic aircraft and the aviation history of the Colombian Air Force.",
+                  "category": "museum",
+                  "coords": [
+                        -73.96141,
+                        4.949842
+                  ]
+            },
+            {
+                  "name": "Parque Jaime Duque",
+                  "text": "A vast cultural and recreational theme park featuring a zoo, museums, and large-scale architectural replicas.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.963436,
+                        4.948201
+                  ]
+            },
+            {
+                  "name": "Bioparque Wakatá",
+                  "text": "A zoological park within Jaime Duque dedicated to the conservation and display of native and exotic wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.96542,
+                        4.95271
+                  ]
+            },
+            {
+                  "name": "Finkana",
+                  "text": "An interactive agricultural theme park area where visitors can experience farm life and interact with domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.96016,
+                        4.975244
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestro Señor de la Piedra",
+                  "text": "A Christian sanctuary located near the Jaime Duque complex, serving as a site for regional religious devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.935907,
+                        4.908776
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Salvador",
+                  "text": "A local Catholic parish church providing religious services to the community near the theme park.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.939946,
+                        4.908133
+                  ]
+            },
+            {
+                  "name": "Parroquia Virgen del Rosario de Calahorra",
+                  "text": "A parish church dedicated to the Virgin of the Rosary, featuring traditional religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -74.028298,
+                        4.904223
+                  ]
+            },
+            {
+                  "name": "Hermanas Clarisas",
+                  "text": "A chapel belonging to the Poor Clares order, characterized by its cloistered and serene atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        -74.03145,
+                        4.911521
+                  ]
+            },
+            {
+                  "name": "Seminario San Gabriel",
+                  "text": "A Christian seminary dedicated to the theological education and formation of future clergy.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.029971,
+                        4.911826
+                  ]
+            },
+            {
+                  "name": "Parroquia Inmaculada Concepción",
+                  "text": "A Catholic parish dedicated to the Immaculate Conception, hosting regular community masses.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.024913,
+                        4.916805
+                  ]
+            },
+            {
+                  "name": "Religiosas de la Comunidad Social",
+                  "text": "A religious house belonging to a congregation of sisters engaged in local social work.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.032356,
+                        4.908756
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado de Sopó",
+                  "text": "A traditional marketplace in Sopó where locals trade fresh regional produce and artisanal goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.941356,
+                        4.905731
+                  ]
+            },
+            {
+                  "name": "Plaza Campesina",
+                  "text": "A farmers' market square dedicated to the direct sale of agricultural products by local rural producers.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.024225,
+                        4.915196
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CO-CUN",
     coords: [-73.9678, 4.9458],
@@ -199,7 +3187,556 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "maloka-museo-interactivo-life-v2",
+    id: "maloka-museo-interactivo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Obelisco Virgilo Barco",
+                  "text": "Dieses hoch aufragende Obelisken-Denkmal steht als markantes architektonisches Wahrzeichen im umliegenden städtischen Raum.",
+                  "category": "historical",
+                  "coords": [
+                        -74.100549,
+                        4.643136
+                  ]
+            },
+            {
+                  "name": "Axa colpatria",
+                  "text": "Diese lokale Attraktion ist mit dem hoch aufragenden Colpatria-Wolkenkratzer verbunden, einem dominierenden Merkmal der städtischen Skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.129705,
+                        4.645179
+                  ]
+            },
+            {
+                  "name": "Imprenta Nacional",
+                  "text": "Dieses in einem bemerkenswerten institutionellen Gebäude untergebrachte Museum bewahrt die historischen Maschinen und Archive der nationalen Druckerei auf.",
+                  "category": "museum",
+                  "coords": [
+                        -74.105368,
+                        4.648964
+                  ]
+            },
+            {
+                  "name": "Maloka",
+                  "text": "Maloka ist ein interaktives Wissenschaftsmuseum, das für seine markante Architektur in Form einer unterirdischen Kuppel bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        -74.109491,
+                        4.655432
+                  ]
+            },
+            {
+                  "name": "Regina 11",
+                  "text": "Regina 11 ist ein einzigartiges spirituelles Zentrum, das der gleichnamigen esoterischen kolumbianischen Bewegung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -74.122197,
+                        4.64077
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Plenitud",
+                  "text": "Die Iglesia Cristiana Plenitud ist ein modernes christliches Gotteshaus, in dem regelmäßige Gemeindegottesdienste stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        -74.122186,
+                        4.675149
+                  ]
+            },
+            {
+                  "name": "Iglesia MarIa Madre de las Misiones",
+                  "text": "Dieses christliche Heiligtum ist Maria, der Mutter der Missionen, gewidmet und dient Gläubigen als Ort der Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.120362,
+                        4.668792
+                  ]
+            },
+            {
+                  "name": "Iglesia de Modelia",
+                  "text": "Die Iglesia de Modelia ist eine christliche Kirche, die speziell den spirituellen Bedürfnissen der umliegenden Nachbarschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.11797,
+                        4.668706
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana de Restauracion",
+                  "text": "Die Iglesia Cristiana de Restauracion fungiert als christliches Heiligtum, das auf spirituelle Erneuerung und theologische Lehre ausgerichtet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109183,
+                        4.668521
+                  ]
+            },
+            {
+                  "name": "San Jeronimo",
+                  "text": "San Jeronimo ist ein christliches Zentrum der Anbetung, das dem biblischen Gelehrten, dem Heiligen Hieronymus, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.106266,
+                        4.672695
+                  ]
+            },
+            {
+                  "name": "Centro Mundial de Avivamiento",
+                  "text": "Das Centro Mundial de Avivamiento ist eine prominente Megakirche, die für ihre massiven charismatischen Erweckungsversammlungen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -74.115901,
+                        4.638599
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Filadelfia",
+                  "text": "Die Iglesia Cristiana Filadelfia ist ein christliches Gemeindezentrum, das von der neutestamentlichen Gemeinde in Philadelphia inspiriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.114487,
+                        4.641915
+                  ]
+            },
+            {
+                  "name": "Parroquia La Medalla Milagrosa",
+                  "text": "Diese christliche Pfarrei widmet sich in ihrer lokalen Liturgie in erster Linie der Verehrung der Wundertätigen Medaille.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109015,
+                        4.652131
+                  ]
+            },
+            {
+                  "name": "Iglesia Vive Centro Internacional Cristiano",
+                  "text": "Die Iglesia Vive Centro Internacional Cristiano ist ein christlicher Gottesdienstraum, der sich durch zeitgemäße, auf die Familie ausgerichtete Gottesdienste auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.117767,
+                        4.665918
+                  ]
+            },
+            {
+                  "name": "Parroquia Discipulos de Emaus",
+                  "text": "Die Parroquia Discipulos de Emaus ist eine christliche Pfarrei, deren Identität auf der biblischen Reise der Jünger nach Emmaus beruht.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.12721,
+                        4.665446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Obelisco Virgilo Barco",
+                  "text": "Ez a tornyosuló obeliszk emlékmű kiemelkedő építészeti nevezetességként áll a környező városi térben.",
+                  "category": "historical",
+                  "coords": [
+                        -74.100549,
+                        4.643136
+                  ]
+            },
+            {
+                  "name": "Axa colpatria",
+                  "text": "Ez a helyi látványosság a magasba tornyosuló Colpatria felhőkarcolóhoz, a városi sziluett meghatározó eleméhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.129705,
+                        4.645179
+                  ]
+            },
+            {
+                  "name": "Imprenta Nacional",
+                  "text": "Ez a nevezetes intézményi épületben helyet kapó múzeum a nemzeti nyomda történelmi gépeit és archívumát őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -74.105368,
+                        4.648964
+                  ]
+            },
+            {
+                  "name": "Maloka",
+                  "text": "A Maloka egy interaktív tudományos múzeum, amely jellegzetes, föld alatti kupolás építészetéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        -74.109491,
+                        4.655432
+                  ]
+            },
+            {
+                  "name": "Regina 11",
+                  "text": "A Regina 11 egy egyedülálló spirituális központ, amelyet az azonos nevű ezoterikus kolumbiai mozgalomnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -74.122197,
+                        4.64077
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Plenitud",
+                  "text": "Az Iglesia Cristiana Plenitud egy modern keresztény istentiszteleti hely, amely rendszeres gyülekezeti alkalmaknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -74.122186,
+                        4.675149
+                  ]
+            },
+            {
+                  "name": "Iglesia MarIa Madre de las Misiones",
+                  "text": "Ezt a keresztény szentélyt Máriának, a missziók anyjának szentelték, és a hívők áhítatának helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.120362,
+                        4.668792
+                  ]
+            },
+            {
+                  "name": "Iglesia de Modelia",
+                  "text": "Az Iglesia de Modelia egy keresztény templom, amely kifejezetten a környező negyed spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.11797,
+                        4.668706
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana de Restauracion",
+                  "text": "Az Iglesia Cristiana de Restauracion egy spirituális helyreállításra és teológiai tanításokra összpontosító keresztény szentélyként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109183,
+                        4.668521
+                  ]
+            },
+            {
+                  "name": "San Jeronimo",
+                  "text": "A San Jeronimo egy keresztény istentiszteleti központ, amelyet a bibliai tudósnak, Szent Jeromosnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.106266,
+                        4.672695
+                  ]
+            },
+            {
+                  "name": "Centro Mundial de Avivamiento",
+                  "text": "A Centro Mundial de Avivamiento egy kiemelkedő megatemplom, amely hatalmas karizmatikus ébredési összejöveteleiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -74.115901,
+                        4.638599
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Filadelfia",
+                  "text": "Az Iglesia Cristiana Filadelfia egy keresztény gyülekezeti központ, amelyet az újszövetségi filadelfiai gyülekezet ihletett.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.114487,
+                        4.641915
+                  ]
+            },
+            {
+                  "name": "Parroquia La Medalla Milagrosa",
+                  "text": "Ez a keresztény plébánia a helyi liturgiájában elsősorban a Csodás Érem tiszteletének szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109015,
+                        4.652131
+                  ]
+            },
+            {
+                  "name": "Iglesia Vive Centro Internacional Cristiano",
+                  "text": "Az Iglesia Vive Centro Internacional Cristiano egy keresztény istentiszteleti tér, amelyet kortárs, családcentrikus szertartások jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.117767,
+                        4.665918
+                  ]
+            },
+            {
+                  "name": "Parroquia Discipulos de Emaus",
+                  "text": "A Parroquia Discipulos de Emaus egy keresztény plébánia, amelynek identitása a tanítványok bibliai, emmauszi útján alapul.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.12721,
+                        4.665446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Obelisco Virgilo Barco",
+                  "text": "Acest monument falnic de tip obelisc se înalță ca un reper arhitectural proeminent în spațiul urban înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        -74.100549,
+                        4.643136
+                  ]
+            },
+            {
+                  "name": "Axa colpatria",
+                  "text": "Această atracție locală este asociată cu zgârie-norii falnic Colpatria, o caracteristică dominantă a orizontului urban.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.129705,
+                        4.645179
+                  ]
+            },
+            {
+                  "name": "Imprenta Nacional",
+                  "text": "Găzduit într-o clădire instituțională notabilă, acest muzeu păstrează mașinile istorice și arhivele tipografiei naționale.",
+                  "category": "museum",
+                  "coords": [
+                        -74.105368,
+                        4.648964
+                  ]
+            },
+            {
+                  "name": "Maloka",
+                  "text": "Maloka este un muzeu interactiv de știință recunoscut pentru arhitectura sa izbitoare sub formă de dom subteran.",
+                  "category": "museum",
+                  "coords": [
+                        -74.109491,
+                        4.655432
+                  ]
+            },
+            {
+                  "name": "Regina 11",
+                  "text": "Regina 11 este un centru spiritual unic dedicat mișcării ezoterice columbiene cu același nume.",
+                  "category": "religious",
+                  "coords": [
+                        -74.122197,
+                        4.64077
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Plenitud",
+                  "text": "Iglesia Cristiana Plenitud este un lăcaș de cult creștin modern care găzduiește slujbe regulate ale congregației.",
+                  "category": "religious",
+                  "coords": [
+                        -74.122186,
+                        4.675149
+                  ]
+            },
+            {
+                  "name": "Iglesia MarIa Madre de las Misiones",
+                  "text": "Acest sanctuar creștin este dedicat Mariei, Maica Misiunilor, servind drept loc de devoțiune pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.120362,
+                        4.668792
+                  ]
+            },
+            {
+                  "name": "Iglesia de Modelia",
+                  "text": "Iglesia de Modelia este o biserică creștină care deservește în mod specific nevoile spirituale ale cartierului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.11797,
+                        4.668706
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana de Restauracion",
+                  "text": "Iglesia Cristiana de Restauracion funcționează ca un sanctuar creștin axat pe restaurarea spirituală și învățături teologice.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109183,
+                        4.668521
+                  ]
+            },
+            {
+                  "name": "San Jeronimo",
+                  "text": "San Jeronimo este un centru de cult creștin dedicat savantului biblic, Sfântul Ieronim.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.106266,
+                        4.672695
+                  ]
+            },
+            {
+                  "name": "Centro Mundial de Avivamiento",
+                  "text": "Centro Mundial de Avivamiento este o megabiserică proeminentă cunoscută pentru găzduirea unor adunări de revigorare carismatică masive.",
+                  "category": "religious",
+                  "coords": [
+                        -74.115901,
+                        4.638599
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Filadelfia",
+                  "text": "Iglesia Cristiana Filadelfia este un centru de congregație creștină inspirat de biserica noutestamentală din Filadelfia.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.114487,
+                        4.641915
+                  ]
+            },
+            {
+                  "name": "Parroquia La Medalla Milagrosa",
+                  "text": "Această parohie creștină este dedicată în primul rând devoțiunii Medaliei Miraculoase în liturghia sa locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109015,
+                        4.652131
+                  ]
+            },
+            {
+                  "name": "Iglesia Vive Centro Internacional Cristiano",
+                  "text": "Iglesia Vive Centro Internacional Cristiano este un spațiu de cult creștin caracterizat prin slujbe contemporane axate pe familie.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.117767,
+                        4.665918
+                  ]
+            },
+            {
+                  "name": "Parroquia Discipulos de Emaus",
+                  "text": "Parroquia Discipulos de Emaus este o parohie creștină a cărei identitate se bazează pe călătoria biblică a ucenicilor spre Emaus.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.12721,
+                        4.665446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Obelisco Virgilo Barco",
+                  "text": "This towering obelisk monument stands as a prominent architectural landmark in the surrounding urban space.",
+                  "category": "historical",
+                  "coords": [
+                        -74.100549,
+                        4.643136
+                  ]
+            },
+            {
+                  "name": "Axa colpatria",
+                  "text": "This local attraction is associated with the towering Colpatria skyscraper, a dominant feature of the urban skyline.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.129705,
+                        4.645179
+                  ]
+            },
+            {
+                  "name": "Imprenta Nacional",
+                  "text": "Housed in a notable institutional building, this museum preserves the historical machinery and archives of the national printing press.",
+                  "category": "museum",
+                  "coords": [
+                        -74.105368,
+                        4.648964
+                  ]
+            },
+            {
+                  "name": "Maloka",
+                  "text": "Maloka is an interactive science museum recognized by its striking underground dome architecture.",
+                  "category": "museum",
+                  "coords": [
+                        -74.109491,
+                        4.655432
+                  ]
+            },
+            {
+                  "name": "Regina 11",
+                  "text": "Regina 11 is a unique spiritual worship center dedicated to the esoteric Colombian movement of the same name.",
+                  "category": "religious",
+                  "coords": [
+                        -74.122197,
+                        4.64077
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Plenitud",
+                  "text": "Iglesia Cristiana Plenitud is a modern Christian place of worship hosting regular congregation services.",
+                  "category": "religious",
+                  "coords": [
+                        -74.122186,
+                        4.675149
+                  ]
+            },
+            {
+                  "name": "Iglesia MarIa Madre de las Misiones",
+                  "text": "This Christian sanctuary is dedicated to Mary, Mother of the Missions, serving as a place of devotion for the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.120362,
+                        4.668792
+                  ]
+            },
+            {
+                  "name": "Iglesia de Modelia",
+                  "text": "Iglesia de Modelia is a local Christian church specifically serving the spiritual needs of its surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.11797,
+                        4.668706
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana de Restauracion",
+                  "text": "Iglesia Cristiana de Restauracion functions as a Christian sanctuary focused on spiritual restoration and theological teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109183,
+                        4.668521
+                  ]
+            },
+            {
+                  "name": "San Jeronimo",
+                  "text": "San Jeronimo is a Christian worship center dedicated to the biblical scholar Saint Jerome.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.106266,
+                        4.672695
+                  ]
+            },
+            {
+                  "name": "Centro Mundial de Avivamiento",
+                  "text": "The Centro Mundial de Avivamiento is a prominent megachurch known for hosting massive charismatic revival gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -74.115901,
+                        4.638599
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Filadelfia",
+                  "text": "Iglesia Cristiana Filadelfia is a Christian congregation center inspired by the New Testament church of Philadelphia.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.114487,
+                        4.641915
+                  ]
+            },
+            {
+                  "name": "Parroquia La Medalla Milagrosa",
+                  "text": "This Christian parish is primarily dedicated to the devotion of the Miraculous Medal within its local liturgy.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109015,
+                        4.652131
+                  ]
+            },
+            {
+                  "name": "Iglesia Vive Centro Internacional Cristiano",
+                  "text": "Iglesia Vive Centro Internacional Cristiano is a Christian worship space characterized by contemporary, family-focused services.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.117767,
+                        4.665918
+                  ]
+            },
+            {
+                  "name": "Parroquia Discipulos de Emaus",
+                  "text": "Parroquia Discipulos de Emaus is a Christian parish whose identity draws upon the biblical journey of the disciples to Emmaus.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.12721,
+                        4.665446
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CO-DC",
     coords: [-74.1084, 4.6558],
@@ -248,7 +3785,1204 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "salitre-magico-life-v2",
+    id: "salitre-magico-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardín Botánico José Celestino Mutis",
+                  "text": "Mit einer Fläche von 19 Hektar ist Kolumbiens größter botanischer Garten für seine riesigen Tropicario-Gewächshäuser und den Erhalt hochgelegener andiner Ökosysteme bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.100109,
+                        4.668057
+                  ]
+            },
+            {
+                  "name": "Parque de la 93",
+                  "text": "Eingerahmt von gehobenen Restaurants und lebhaften Cafés ist dieser beliebte Stadtpark ein wichtiger sozialer Knotenpunkt für Open-Air-Festivals und das Nachtleben im Norden Bogotás.",
+                  "category": "park",
+                  "coords": [
+                        -74.048287,
+                        4.676768
+                  ]
+            },
+            {
+                  "name": "Humedal Santa María Del Lago",
+                  "text": "Dieses geschützte städtische Feuchtgebiet dient als wichtiges ökologisches Refugium und verfügt über erhöhte Holzstege, die sich ideal zur Beobachtung einheimischer Wasservögel eignen.",
+                  "category": "park",
+                  "coords": [
+                        -74.094308,
+                        4.694447
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano Simón Bolívar",
+                  "text": "Dieser weitläufige Stadtpark ist eine der wichtigsten Grünanlagen der Stadt und bietet große Rasenflächen sowie einen zentralen See.",
+                  "category": "park",
+                  "coords": [
+                        -74.094068,
+                        4.658566
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes Ignotos de la Indepenencia",
+                  "text": "Dieses 1910 enthüllte Denkmal erinnert an die anonymen Helden, die für die Unabhängigkeit des Landes kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        -74.088493,
+                        4.659239
+                  ]
+            },
+            {
+                  "name": "My Name Is Colombia",
+                  "text": "Dieses lokale Theaterhaus veranstaltet eine Vielzahl von dramatischen Aufführungen und kulturellen Ereignissen.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.047183,
+                        4.676862
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Colombo",
+                  "text": "Ein lebendiges Kunstzentrum, das sich der Förderung lokaler kultureller Ausdrucksformen und zeitgenössischer Ausstellungen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.061323,
+                        4.680672
+                  ]
+            },
+            {
+                  "name": "Teatro ITI",
+                  "text": "Dieses Theater für darstellende Künste bietet eine Bühne für aufstrebende Künstler und Gemeindespiele.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.095041,
+                        4.668589
+                  ]
+            },
+            {
+                  "name": "Teatro de Bellas Artes",
+                  "text": "Dieses Theater der schönen Künste präsentiert klassische Aufführungen, Musikkonzerte und anspruchsvolle künstlerische Produktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.073225,
+                        4.684844
+                  ]
+            },
+            {
+                  "name": "Teatro Casa de Artistas",
+                  "text": "Ein intimer Theaterraum, der entworfen wurde, um Kreativität zu fördern und unabhängige Theaterstücke zu zeigen.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.110778,
+                        4.697199
+                  ]
+            },
+            {
+                  "name": "Asamblea de Iglesias Cristianas",
+                  "text": "Ein lokales christliches Gotteshaus, in dem sich die Gemeinde zu Gebeten und Gottesdiensten versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -74.094149,
+                        4.682157
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana",
+                  "text": "Diese christliche Kirche dient den Gläubigen der umliegenden Nachbarschaft als spiritueller Zufluchtsort.",
+                  "category": "religious",
+                  "coords": [
+                        -74.071007,
+                        4.674531
+                  ]
+            },
+            {
+                  "name": "Capillas de la Fe - Sede Norte",
+                  "text": "Dieser nördliche Zweig der Glaubenskapelle bietet einen friedlichen Rahmen für Besinnung und religiöse Zeremonien.",
+                  "category": "religious",
+                  "coords": [
+                        -74.077378,
+                        4.665419
+                  ]
+            },
+            {
+                  "name": "Parroquia La Asunción de Nuestra Señora",
+                  "text": "Eine engagierte Pfarrkirche, die sich durch ihre traditionelle Architektur und regelmäßige Gemeindemessen auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -74.066499,
+                        4.671319
+                  ]
+            },
+            {
+                  "name": "Parroquia San Joaquín",
+                  "text": "Dieses Gotteshaus in der Nachbarschaft bietet den lokalen Gläubigen religiöse Führung und regelmäßige Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -74.086466,
+                        4.686629
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Renovacion",
+                  "text": "Eine zeitgenössische christliche Kirche, die sich auf die Erneuerung der Gemeinschaft und lebendige Gottesdienste konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        -74.098544,
+                        4.687768
+                  ]
+            },
+            {
+                  "name": "Parroquia Catedral San Juan Bautista",
+                  "text": "Eine imposante Kathedralenpfarrei, die Johannes dem Täufer gewidmet ist und als zentrales religiöses Wahrzeichen dient.",
+                  "category": "religious",
+                  "coords": [
+                        -74.092735,
+                        4.67922
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "Ein moderner Königreichssaal, in dem sich Jehovas Zeugen zum Bibelstudium und zur spirituellen Gemeinschaft versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        -74.109574,
+                        4.690779
+                  ]
+            },
+            {
+                  "name": "Misioneros Marianos",
+                  "text": "Diese Kirche dient als spirituelle Basis für marianische Missionare, die sich der Verbreitung ihres Glaubens widmen.",
+                  "category": "religious",
+                  "coords": [
+                        -74.106786,
+                        4.69495
+                  ]
+            },
+            {
+                  "name": "Metro Express",
+                  "text": "Ein geschäftiger Marktplatz, der den Bewohnern eine praktische Auswahl an Waren des täglichen Bedarfs und frischen Produkten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.058121,
+                        4.67172
+                  ]
+            },
+            {
+                  "name": "Serviquesos de la sabana",
+                  "text": "Ein spezialisierter lokaler Markt, der für sein vielfältiges Sortiment an regionalen Käse- und Milchprodukten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.065407,
+                        4.681029
+                  ]
+            },
+            {
+                  "name": "Mercado LA 93",
+                  "text": "Ein gut besuchter Nachbarschaftsmarkt mit zahlreichen Ständen, die alltägliche Lebensmittel und Haushaltswaren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.064473,
+                        4.683095
+                  ]
+            },
+            {
+                  "name": "Supermercado Donde Sonia",
+                  "text": "Ein traditioneller lokaler Supermarkt, der ein freundliches Einkaufserlebnis und eine Auswahl an Grundnahrungsmitteln bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.066743,
+                        4.682261
+                  ]
+            },
+            {
+                  "name": "Mercado Campesino - Todos los Sabados",
+                  "text": "Dieser jeden Samstag stattfindende Bauernmarkt bringt frische landwirtschaftliche Produkte direkt von lokalen Erzeugern.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.086351,
+                        4.663505
+                  ]
+            },
+            {
+                  "name": "Plaza de mercado Las Ferias",
+                  "text": "Ein traditioneller überdachter Marktplatz, auf dem Händler frisches Fleisch, Gemüse und lokale kulinarische Zutaten verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.089441,
+                        4.686363
+                  ]
+            },
+            {
+                  "name": "Club De Tejo San Miguel",
+                  "text": "Dieser lokale Club widmet sich dem Tejo und bietet spezielle Plätze, um das traditionelle explosive Zielspiel zu spielen.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.064313,
+                        4.668719
+                  ]
+            },
+            {
+                  "name": "SacaCorchos",
+                  "text": "Dieses aufregende Fahrgeschäft verfügt über ein Korkenzieher-Design, das die Fahrgäste mit hohen Geschwindigkeiten dreht und wendet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.09093,
+                        4.66905
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "Diese erfrischende Wasserbahn sorgt für eine aufregende Wasserlandung, perfekt zur Abkühlung während eines Tages im Freizeitpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.090745,
+                        4.666898
+                  ]
+            },
+            {
+                  "name": "Drakko",
+                  "text": "Dieses imposante Fahrgeschäft besticht durch ein von Drachen inspiriertes Thema und liefert Hochgeschwindigkeits-Nervenkitzel sowie plötzliche Abfahrten.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.09219,
+                        4.666039
+                  ]
+            },
+            {
+                  "name": "Castillo del Terror",
+                  "text": "Eine gruselige Geisterhaus-Attraktion, in der dunkle Korridore und erschreckende Überraschungen auf mutige Besucher warten.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.089766,
+                        4.669745
+                  ]
+            },
+            {
+                  "name": "Parroquia de San Miguel",
+                  "text": "Diese lokale christliche Pfarrkirche zeichnet sich durch traditionelle religiöse Architektur aus und dient den spirituellen Bedürfnissen der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.081478,
+                        4.665211
+                  ]
+            },
+            {
+                  "name": "Iglesia Seúl Sungrak",
+                  "text": "Eine christliche Kirche, die eng mit der koreanischen Gemeinde verbunden ist und lebendige religiöse Zusammenkünfte anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.06053,
+                        4.68198
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten versammelt ihre Gemeinde zu Samstagsgottesdiensten und Bibellehren.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109142,
+                        4.679501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardín Botánico José Celestino Mutis",
+                  "text": "A 19 hektáron elterülő, Kolumbia legnagyobb botanikus kertje hatalmas Tropicario üvegházairól és a magaslati andoki ökoszisztémák megőrzéséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.100109,
+                        4.668057
+                  ]
+            },
+            {
+                  "name": "Parque de la 93",
+                  "text": "Az elegáns éttermek és nyüzsgő kávézók által szegélyezett népszerű városi park az észak-bogotái szabadtéri fesztiválok és éjszakai élet jelentős központja.",
+                  "category": "park",
+                  "coords": [
+                        -74.048287,
+                        4.676768
+                  ]
+            },
+            {
+                  "name": "Humedal Santa María Del Lago",
+                  "text": "Ez a védett városi vizes élőhely kulcsfontosságú ökológiai menedékként szolgál, amelynek megemelt fapallói ideálisak az őshonos vízimadarak megfigyelésére.",
+                  "category": "park",
+                  "coords": [
+                        -74.094308,
+                        4.694447
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano Simón Bolívar",
+                  "text": "Ez a hatalmas metropoliszi park a város egyik legfontosabb zöldterülete, kiterjedt pázsitokkal és egy központi tóval.",
+                  "category": "park",
+                  "coords": [
+                        -74.094068,
+                        4.658566
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes Ignotos de la Indepenencia",
+                  "text": "Ez az 1910-ben felavatott emlékmű az ország függetlenségéért küzdő névtelen hősöknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -74.088493,
+                        4.659239
+                  ]
+            },
+            {
+                  "name": "My Name Is Colombia",
+                  "text": "Ez a helyi színház különféle drámai előadásoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.047183,
+                        4.676862
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Colombo",
+                  "text": "Ez a nyüzsgő művészeti központ a helyi kulturális kifejezésmódok és kortárs kiállítások népszerűsítésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.061323,
+                        4.680672
+                  ]
+            },
+            {
+                  "name": "Teatro ITI",
+                  "text": "Ez az előadó-művészeti színház színpadot biztosít a feltörekvő művészek és a közösségi színdarabok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.095041,
+                        4.668589
+                  ]
+            },
+            {
+                  "name": "Teatro de Bellas Artes",
+                  "text": "Ez a szépművészeti színház klasszikus előadásokat, zenei koncerteket és kifinomult művészeti produkciókat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.073225,
+                        4.684844
+                  ]
+            },
+            {
+                  "name": "Teatro Casa de Artistas",
+                  "text": "Ez a meghitt színházi tér a kreativitás ápolására és független színházi művek bemutatására szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.110778,
+                        4.697199
+                  ]
+            },
+            {
+                  "name": "Asamblea de Iglesias Cristianas",
+                  "text": "Helyi keresztény istentiszteleti hely, ahol a közösség imára és vallási szertartásokra gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        -74.094149,
+                        4.682157
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana",
+                  "text": "Ez a keresztény templom spirituális menedékként szolgál a környező negyed gyülekezete számára.",
+                  "category": "religious",
+                  "coords": [
+                        -74.071007,
+                        4.674531
+                  ]
+            },
+            {
+                  "name": "Capillas de la Fe - Sede Norte",
+                  "text": "A hitkápolna ezen északi ága békés környezetet kínál az elmélkedéshez és a vallási ceremóniákhoz.",
+                  "category": "religious",
+                  "coords": [
+                        -74.077378,
+                        4.665419
+                  ]
+            },
+            {
+                  "name": "Parroquia La Asunción de Nuestra Señora",
+                  "text": "Egy elkötelezett plébániatemplom, amelyet hagyományos építészete és rendszeres közösségi miséi jellemeznek.",
+                  "category": "religious",
+                  "coords": [
+                        -74.066499,
+                        4.671319
+                  ]
+            },
+            {
+                  "name": "Parroquia San Joaquín",
+                  "text": "Ez a környékbeli istentiszteleti hely vallási útmutatást és rendszeres szertartásokat biztosít a helyi híveknek.",
+                  "category": "religious",
+                  "coords": [
+                        -74.086466,
+                        4.686629
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Renovacion",
+                  "text": "Egy kortárs keresztény templom, amely a közösség megújítására és a vibráló istentiszteleti alkalmakra összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        -74.098544,
+                        4.687768
+                  ]
+            },
+            {
+                  "name": "Parroquia Catedral San Juan Bautista",
+                  "text": "Egy impozáns, Keresztelő Szent Jánosnak szentelt székesegyházi plébánia, amely központi vallási nevezetességként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -74.092735,
+                        4.67922
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "Egy modern Királyság-terem, ahol Jehova Tanúi bibliatanulmányozásra és szellemi közösségre gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        -74.109574,
+                        4.690779
+                  ]
+            },
+            {
+                  "name": "Misioneros Marianos",
+                  "text": "Ez a templom spirituális bázisként szolgál a hitük terjesztésének szentelt Mária-misszionáriusok számára.",
+                  "category": "religious",
+                  "coords": [
+                        -74.106786,
+                        4.69495
+                  ]
+            },
+            {
+                  "name": "Metro Express",
+                  "text": "Egy nyüzsgő piac, amely a napi cikkek és friss termékek kényelmes választékát kínálja a lakosoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.058121,
+                        4.67172
+                  ]
+            },
+            {
+                  "name": "Serviquesos de la sabana",
+                  "text": "Egy specializált helyi piac, amely a regionális sajtok és tejtermékek változatos választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.065407,
+                        4.681029
+                  ]
+            },
+            {
+                  "name": "Mercado LA 93",
+                  "text": "Egy sűrűn látogatott környékbeli piac, ahol számos stand kínál napi élelmiszereket és háztartási cikkeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.064473,
+                        4.683095
+                  ]
+            },
+            {
+                  "name": "Supermercado Donde Sonia",
+                  "text": "Egy hagyományos helyi szupermarket, amely barátságos vásárlási élményt és alapvető kamracikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.066743,
+                        4.682261
+                  ]
+            },
+            {
+                  "name": "Mercado Campesino - Todos los Sabados",
+                  "text": "Ez a minden szombaton működő termelői piac friss mezőgazdasági termékeket hoz közvetlenül a helyi termelőktől.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.086351,
+                        4.663505
+                  ]
+            },
+            {
+                  "name": "Plaza de mercado Las Ferias",
+                  "text": "Egy hagyományos fedett piactér, ahol az árusok friss húsokat, zöldségeket és helyi kulináris alapanyagokat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.089441,
+                        4.686363
+                  ]
+            },
+            {
+                  "name": "Club De Tejo San Miguel",
+                  "text": "Ez a helyi klub a Tejo-nak szenteli magát, és speciális pályákat kínál a hagyományos, robbanásveszélyes célbadobós játékhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.064313,
+                        4.668719
+                  ]
+            },
+            {
+                  "name": "SacaCorchos",
+                  "text": "Ez az izgalmas vidámparki játék dugóhúzó dizájnnal rendelkezik, amely nagy sebességű forgásokkal pörgeti az utasokat.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.09093,
+                        4.66905
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "Ez a frissítő vízi hullámvasút izgalmas csobbanást kínál, amely tökéletes a lehűléshez egy vidámparki nap során.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.090745,
+                        4.666898
+                  ]
+            },
+            {
+                  "name": "Drakko",
+                  "text": "Ez az impozáns, sárkány ihlette vidámparki játék nagy sebességű izgalmakat és hirtelen zuhanásokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.09219,
+                        4.666039
+                  ]
+            },
+            {
+                  "name": "Castillo del Terror",
+                  "text": "Egy kísérteties szellemház attrakció, ahol sötét folyosók és félelmetes meglepetések várják a bátor látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.089766,
+                        4.669745
+                  ]
+            },
+            {
+                  "name": "Parroquia de San Miguel",
+                  "text": "Ez a helyi keresztény plébániatemplom hagyományos vallási építészettel büszkélkedhet, és a közösség spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.081478,
+                        4.665211
+                  ]
+            },
+            {
+                  "name": "Iglesia Seúl Sungrak",
+                  "text": "A koreai közösséghez szorosan kötődő keresztény templom, amely vibráló vallási összejöveteleket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.06053,
+                        4.68198
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "Ez a Hetednapi Adventista templom szombati istentiszteletre és bibliatanításra gyűjti össze gyülekezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109142,
+                        4.679501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardín Botánico José Celestino Mutis",
+                  "text": "Întinzându-se pe 19 hectare, cea mai mare grădină botanică din Columbia este renumită pentru vastele sale sere Tropicario și conservarea ecosistemelor andine de mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.100109,
+                        4.668057
+                  ]
+            },
+            {
+                  "name": "Parque de la 93",
+                  "text": "Încadrat de restaurante de lux și cafenele pline de viață, acest parc urban popular este un hub social major pentru festivaluri în aer liber și viața de noapte din nordul Bogotei.",
+                  "category": "park",
+                  "coords": [
+                        -74.048287,
+                        4.676768
+                  ]
+            },
+            {
+                  "name": "Humedal Santa María Del Lago",
+                  "text": "Această zonă umedă urbană protejată servește drept un refugiu ecologic crucial, oferind pasarele de lemn înălțate, ideale pentru observarea păsărilor acvatice native.",
+                  "category": "park",
+                  "coords": [
+                        -74.094308,
+                        4.694447
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano Simón Bolívar",
+                  "text": "Acest vast parc metropolitan este unul dintre cele mai importante spații verzi din oraș, având pajiști întinse și un lac central.",
+                  "category": "park",
+                  "coords": [
+                        -74.094068,
+                        4.658566
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes Ignotos de la Indepenencia",
+                  "text": "Dezvelit în 1910, acest monument comemorează eroii anonimi care au luptat pentru independența țării.",
+                  "category": "historical",
+                  "coords": [
+                        -74.088493,
+                        4.659239
+                  ]
+            },
+            {
+                  "name": "My Name Is Colombia",
+                  "text": "Acest teatru local găzduiește o varietate de spectacole dramatice și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.047183,
+                        4.676862
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Colombo",
+                  "text": "Un centru de arte vibrant, dedicat promovării expresiilor culturale locale și expozițiilor contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.061323,
+                        4.680672
+                  ]
+            },
+            {
+                  "name": "Teatro ITI",
+                  "text": "Acest teatru de artele spectacolului oferă o scenă pentru artiștii emergenți și piesele comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.095041,
+                        4.668589
+                  ]
+            },
+            {
+                  "name": "Teatro de Bellas Artes",
+                  "text": "Acest teatru de arte frumoase prezintă spectacole clasice, concerte de muzică și producții artistice sofisticate.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.073225,
+                        4.684844
+                  ]
+            },
+            {
+                  "name": "Teatro Casa de Artistas",
+                  "text": "Un spațiu teatral intim, conceput pentru a stimula creativitatea și a prezenta lucrări teatrale independente.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.110778,
+                        4.697199
+                  ]
+            },
+            {
+                  "name": "Asamblea de Iglesias Cristianas",
+                  "text": "Un lăcaș de cult creștin local unde comunitatea se adună pentru rugăciune și slujbe religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -74.094149,
+                        4.682157
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana",
+                  "text": "Această biserică creștină servește drept sanctuar spiritual pentru enoriașii din cartierul înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        -74.071007,
+                        4.674531
+                  ]
+            },
+            {
+                  "name": "Capillas de la Fe - Sede Norte",
+                  "text": "Această filială nordică a capelei credinței oferă un cadru liniștit pentru reflecție și ceremonii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -74.077378,
+                        4.665419
+                  ]
+            },
+            {
+                  "name": "Parroquia La Asunción de Nuestra Señora",
+                  "text": "O biserică parohială dedicată, caracterizată prin arhitectura sa tradițională și slujbele comunitare regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -74.066499,
+                        4.671319
+                  ]
+            },
+            {
+                  "name": "Parroquia San Joaquín",
+                  "text": "Acest lăcaș de cult din cartier oferă îndrumare religioasă și slujbe regulate pentru credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        -74.086466,
+                        4.686629
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Renovacion",
+                  "text": "O biserică creștină contemporană care se concentrează pe reînnoirea comunității și pe sesiuni vibrante de închinare.",
+                  "category": "religious",
+                  "coords": [
+                        -74.098544,
+                        4.687768
+                  ]
+            },
+            {
+                  "name": "Parroquia Catedral San Juan Bautista",
+                  "text": "O impunătoare parohie catedrală dedicată Sfântului Ioan Botezătorul, servind ca un punct de reper religios central.",
+                  "category": "religious",
+                  "coords": [
+                        -74.092735,
+                        4.67922
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "O Sală a Regatului modernă unde Martorii lui Iehova se adună pentru studiul Bibliei și părtășie spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        -74.109574,
+                        4.690779
+                  ]
+            },
+            {
+                  "name": "Misioneros Marianos",
+                  "text": "Această biserică servește ca bază spirituală pentru misionarii mariani dedicați răspândirii credinței lor.",
+                  "category": "religious",
+                  "coords": [
+                        -74.106786,
+                        4.69495
+                  ]
+            },
+            {
+                  "name": "Metro Express",
+                  "text": "O piață aglomerată care oferă o selecție convenabilă de bunuri zilnice și produse proaspete pentru rezidenți.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.058121,
+                        4.67172
+                  ]
+            },
+            {
+                  "name": "Serviquesos de la sabana",
+                  "text": "O piață locală specializată, cunoscută pentru sortimentul său divers de brânzeturi și produse lactate regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.065407,
+                        4.681029
+                  ]
+            },
+            {
+                  "name": "Mercado LA 93",
+                  "text": "O piață de cartier bine frecventată, cu numeroase tarabe care oferă provizii zilnice și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.064473,
+                        4.683095
+                  ]
+            },
+            {
+                  "name": "Supermercado Donde Sonia",
+                  "text": "Un supermarket local tradițional care oferă o experiență prietenoasă de cumpărături și o gamă de produse de bază pentru cămară.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.066743,
+                        4.682261
+                  ]
+            },
+            {
+                  "name": "Mercado Campesino - Todos los Sabados",
+                  "text": "Funcționând în fiecare sâmbătă, această piață țărănească aduce produse agricole proaspete direct de la cultivatorii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.086351,
+                        4.663505
+                  ]
+            },
+            {
+                  "name": "Plaza de mercado Las Ferias",
+                  "text": "O piață tradițională acoperită unde vânzătorii comercializează carne proaspătă, legume și ingrediente culinare locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.089441,
+                        4.686363
+                  ]
+            },
+            {
+                  "name": "Club De Tejo San Miguel",
+                  "text": "Acest club local este dedicat jocului de Tejo, oferind terenuri specializate pentru a juca tradiționalul joc exploziv cu țintă.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.064313,
+                        4.668719
+                  ]
+            },
+            {
+                  "name": "SacaCorchos",
+                  "text": "Această atracție palpitantă prezintă un design în tirbușon care răsucește și învârte pasagerii la viteze mari.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.09093,
+                        4.66905
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "Această atracție acvatică răcoritoare oferă o aterizare palpitantă cu stropi, perfectă pentru a vă răcori în timpul unei zile la parcul de distracții.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.090745,
+                        4.666898
+                  ]
+            },
+            {
+                  "name": "Drakko",
+                  "text": "Această atracție impunătoare prezintă o tematică inspirată de dragoni, oferind senzații tari la viteză mare și coborâri bruște.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.09219,
+                        4.666039
+                  ]
+            },
+            {
+                  "name": "Castillo del Terror",
+                  "text": "O atracție înfricoșătoare de tip casă bântuită, unde coridoare întunecate și surprize terifiante îi așteaptă pe vizitatorii curajoși.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.089766,
+                        4.669745
+                  ]
+            },
+            {
+                  "name": "Parroquia de San Miguel",
+                  "text": "Această biserică parohială creștină locală prezintă o arhitectură religioasă tradițională și servește nevoile spirituale ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.081478,
+                        4.665211
+                  ]
+            },
+            {
+                  "name": "Iglesia Seúl Sungrak",
+                  "text": "O biserică creștină strâns asociată cu comunitatea coreeană, oferind adunări religioase vibrante.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.06053,
+                        4.68198
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "Această biserică Adventistă de Ziua a Șaptea își adună enoriașii pentru închinarea de sâmbătă și învățăturile biblice.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109142,
+                        4.679501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardín Botánico José Celestino Mutis",
+                  "text": "Spanning 19 hectares, Colombia's largest botanical garden is renowned for its vast Tropicario greenhouses and preservation of high-altitude Andean ecosystems.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.100109,
+                        4.668057
+                  ]
+            },
+            {
+                  "name": "93 Park",
+                  "text": "Framed by upscale restaurants and lively cafes, this popular urban park is a major social hub for outdoor festivals and nightlife in northern Bogotá.",
+                  "category": "park",
+                  "coords": [
+                        -74.048287,
+                        4.676768
+                  ]
+            },
+            {
+                  "name": "Humedal Santa María Del Lago",
+                  "text": "This protected urban wetland serves as a crucial ecological refuge, featuring raised wooden boardwalks ideal for spotting native aquatic birds.",
+                  "category": "park",
+                  "coords": [
+                        -74.094308,
+                        4.694447
+                  ]
+            },
+            {
+                  "name": "Simón Bolívar Park",
+                  "text": "This vast metropolitan park is one of the most important green spaces in the city, featuring extensive lawns and a central lake.",
+                  "category": "park",
+                  "coords": [
+                        -74.094068,
+                        4.658566
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes Ignotos de la Indepenencia",
+                  "text": "Unveiled in 1910, this monument commemorates the anonymous heroes who fought for the country's independence.",
+                  "category": "historical",
+                  "coords": [
+                        -74.088493,
+                        4.659239
+                  ]
+            },
+            {
+                  "name": "My Name Is Colombia",
+                  "text": "This local theatre venue hosts a variety of dramatic performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.047183,
+                        4.676862
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Colombo",
+                  "text": "A vibrant arts centre dedicated to promoting local cultural expressions and contemporary exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.061323,
+                        4.680672
+                  ]
+            },
+            {
+                  "name": "Teatro ITI",
+                  "text": "This performing arts theatre provides a stage for emerging artists and community plays.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.095041,
+                        4.668589
+                  ]
+            },
+            {
+                  "name": "Teatro de Bellas Artes",
+                  "text": "This fine arts theatre showcases classical performances, music concerts, and sophisticated artistic productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.073225,
+                        4.684844
+                  ]
+            },
+            {
+                  "name": "Teatro Casa de Artistas",
+                  "text": "An intimate theatre space designed to foster creativity and showcase independent theatrical works.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.110778,
+                        4.697199
+                  ]
+            },
+            {
+                  "name": "Asamblea de Iglesias Cristianas",
+                  "text": "A local Christian place of worship where the community gathers for prayer and religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -74.094149,
+                        4.682157
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana",
+                  "text": "This Christian church serves as a spiritual sanctuary for congregants in the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -74.071007,
+                        4.674531
+                  ]
+            },
+            {
+                  "name": "Capillas de la Fe - Sede Norte",
+                  "text": "This northern branch of the faith chapel offers a peaceful setting for reflection and religious ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        -74.077378,
+                        4.665419
+                  ]
+            },
+            {
+                  "name": "Parroquia La Asunción de Nuestra Señora",
+                  "text": "A dedicated parish church characterized by its traditional architecture and regular community masses.",
+                  "category": "religious",
+                  "coords": [
+                        -74.066499,
+                        4.671319
+                  ]
+            },
+            {
+                  "name": "Parroquia San Joaquín",
+                  "text": "This neighborhood place of worship provides religious guidance and regular services for the local faithful.",
+                  "category": "religious",
+                  "coords": [
+                        -74.086466,
+                        4.686629
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Renovacion",
+                  "text": "A contemporary Christian church focusing on community renewal and vibrant worship sessions.",
+                  "category": "religious",
+                  "coords": [
+                        -74.098544,
+                        4.687768
+                  ]
+            },
+            {
+                  "name": "Parroquia Catedral San Juan Bautista",
+                  "text": "An imposing cathedral parish dedicated to Saint John the Baptist, serving as a central religious landmark.",
+                  "category": "religious",
+                  "coords": [
+                        -74.092735,
+                        4.67922
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "A modern Kingdom Hall where Jehovah's Witnesses gather for Bible study and spiritual fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        -74.109574,
+                        4.690779
+                  ]
+            },
+            {
+                  "name": "Misioneros Marianos",
+                  "text": "This church serves as a spiritual base for Marian missionaries dedicated to spreading their faith.",
+                  "category": "religious",
+                  "coords": [
+                        -74.106786,
+                        4.69495
+                  ]
+            },
+            {
+                  "name": "Metro Express",
+                  "text": "A bustling marketplace offering a convenient selection of daily goods and fresh produce for residents.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.058121,
+                        4.67172
+                  ]
+            },
+            {
+                  "name": "Serviquesos de la sabana",
+                  "text": "A specialized local market known for its diverse assortment of regional cheeses and dairy products.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.065407,
+                        4.681029
+                  ]
+            },
+            {
+                  "name": "Mercado LA 93",
+                  "text": "A well-frequented neighborhood marketplace featuring numerous stalls with daily provisions and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.064473,
+                        4.683095
+                  ]
+            },
+            {
+                  "name": "Supermercado Donde Sonia",
+                  "text": "A traditional local supermarket offering a friendly shopping experience and a range of pantry staples.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.066743,
+                        4.682261
+                  ]
+            },
+            {
+                  "name": "Mercado Campesino - Todos los Sabados",
+                  "text": "Operating every Saturday, this farmers' market brings fresh agricultural produce directly from local growers.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.086351,
+                        4.663505
+                  ]
+            },
+            {
+                  "name": "Plaza de mercado Las Ferias",
+                  "text": "A traditional covered market square where vendors sell fresh meats, vegetables, and local culinary ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.089441,
+                        4.686363
+                  ]
+            },
+            {
+                  "name": "Club De Tejo San Miguel",
+                  "text": "This local club is dedicated to Tejo, offering specialized courts to play the traditional explosive target game.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.064313,
+                        4.668719
+                  ]
+            },
+            {
+                  "name": "SacaCorchos",
+                  "text": "This thrilling amusement ride features a corkscrew design that twists and turns passengers at high speeds.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.09093,
+                        4.66905
+                  ]
+            },
+            {
+                  "name": "Splash",
+                  "text": "This refreshing water ride provides a thrilling splashdown, perfect for cooling off during a day at the amusement park.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.090745,
+                        4.666898
+                  ]
+            },
+            {
+                  "name": "Drakko",
+                  "text": "This imposing amusement ride features a dragon-inspired theme, delivering high-speed thrills and sudden drops.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.09219,
+                        4.666039
+                  ]
+            },
+            {
+                  "name": "Castillo del Terror",
+                  "text": "A spooky haunted house attraction where dark corridors and terrifying surprises await brave visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.089766,
+                        4.669745
+                  ]
+            },
+            {
+                  "name": "Parroquia de San Miguel",
+                  "text": "This local Christian parish church features traditional religious architecture and serves the spiritual needs of the community.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.081478,
+                        4.665211
+                  ]
+            },
+            {
+                  "name": "Iglesia Seúl Sungrak",
+                  "text": "A Christian church closely associated with the Korean community, offering vibrant religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.06053,
+                        4.68198
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "This Seventh-day Adventist church gathers its congregation for Saturday worship and Bible teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.109142,
+                        4.679501
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CO-DC",
     coords: [-74.0886, 4.6713],
@@ -297,7 +5031,1132 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "mundo-aventura-life-v2",
+    id: "mundo-aventura-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Metropolitano El Tunal",
+                  "text": "Dieser 55 Hektar große Stadtpark im Süden Bogotás verfügt über weitläufige Sportplätze und einen künstlichen See.",
+                  "category": "park",
+                  "coords": [
+                        -74.134284,
+                        4.571929
+                  ]
+            },
+            {
+                  "name": "Humedal Tibanica",
+                  "text": "Dieses 28 Hektar große Feuchtgebiet an der Grenze zwischen Bogotá und Soacha ist ein wichtiges Schutzgebiet für endemische und wandernde Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        -74.204729,
+                        4.603111
+                  ]
+            },
+            {
+                  "name": "Parque Tibanica",
+                  "text": "Dieses grüne Naherholungsgebiet grenzt an das Ökosystem des Feuchtgebiets Tibanica und bietet Naturpfade und Tierbeobachtungen.",
+                  "category": "park",
+                  "coords": [
+                        -74.196932,
+                        4.582392
+                  ]
+            },
+            {
+                  "name": "Mundo Aventura",
+                  "text": "Einer der beliebtesten Vergnügungsparks Bogotás, der rasante mechanische Fahrgeschäfte, einen Streichelzoo und einen Extremsportbereich bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.135086,
+                        4.622394
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "Eine Institution, die präkolumbianische Keramik und indigene Artefakte aus der Region bewahrt und ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -74.217512,
+                        4.581919
+                  ]
+            },
+            {
+                  "name": "Pictogramas de Cerro Seco",
+                  "text": "Diese archäologische Stätte weist alte indigene Felsmalereien auf, die auf den Steinflächen des Cerro Seco erhalten geblieben sind.",
+                  "category": "historical",
+                  "coords": [
+                        -74.175342,
+                        4.55123
+                  ]
+            },
+            {
+                  "name": "Casa en ruinas",
+                  "text": "Die verwitterten Steinreste eines verlassenen Landhauses, das langsam von der umgebenden Landschaft zurückerobert wird.",
+                  "category": "historical",
+                  "coords": [
+                        -74.172026,
+                        4.550312
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "Ein am Straßenrand gelegenes Andachtsdenkmal, das der Jungfrau vom Berg Karmel gewidmet ist und von einheimischen Reisenden oft mit Blumen geschmückt wird.",
+                  "category": "historical",
+                  "coords": [
+                        -74.173347,
+                        4.598683
+                  ]
+            },
+            {
+                  "name": "Arte Rupestre",
+                  "text": "Ein archäologisches Freiluftareal, in dem antike Jäger und Sammler auf großen Felsbrocken kunstvolle Schnitzereien und Symbole aus rotem Ocker hinterlassen haben.",
+                  "category": "historical",
+                  "coords": [
+                        -74.227006,
+                        4.612022
+                  ]
+            },
+            {
+                  "name": "Antigua Capilla La Isla",
+                  "text": "Die verfallenden Backsteinmauern einer ehemaligen Inselkapelle, die einst einer isolierten religiösen Gemeinschaft diente.",
+                  "category": "historical",
+                  "coords": [
+                        -74.212795,
+                        4.617911
+                  ]
+            },
+            {
+                  "name": "Monumento a las Banderas",
+                  "text": "Dieses massive skulpturale Denkmal mit zahlreichen Frauenfiguren ist den Flaggen der amerikanischen Nationen gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        -74.148276,
+                        4.631283
+                  ]
+            },
+            {
+                  "name": "Auditorio 1",
+                  "text": "Ein modernes Auditorium, das für Vorträge und Theateraufführungen konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.132012,
+                        4.575392
+                  ]
+            },
+            {
+                  "name": "Platino Real",
+                  "text": "Dieses lokale Kunstzentrum bietet einen vielseitigen Veranstaltungsraum für kulturelle Zusammenkünfte und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.139081,
+                        4.594145
+                  ]
+            },
+            {
+                  "name": "Rincón Cultural El Caracol",
+                  "text": "Ein kommunales Kunstzentrum, das durch Workshops und intime Aufführungen die lokale Kreativität fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.158483,
+                        4.616538
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Ciudad Bolívar",
+                  "text": "Dieses lebendige Kulturzentrum dient der lokalen Gemeinde mit Räumen für darstellende Künste und kreativen Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.15123,
+                        4.572807
+                  ]
+            },
+            {
+                  "name": "Teatro Villa Mayor",
+                  "text": "Ein bekanntes Theater im Viertel, das regelmäßig Theaterstücke und lokale Gemeindeveranstaltungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.120678,
+                        4.591575
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Ein formeller Innenbereich mit Sitzplätzen, der Theateraufführungen und öffentlichen Vorträgen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.13001,
+                        4.572637
+                  ]
+            },
+            {
+                  "name": "Teatro El Ensueño",
+                  "text": "Dieses zeitgenössische Theater mit großem Fassungsvermögen ist ein wichtiges Zentrum für darstellende Künste und kulturelle Shows in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.158539,
+                        4.585948
+                  ]
+            },
+            {
+                  "name": "Auditorio Gustavo Caamaño",
+                  "text": "Ein eigener Theatersaal und Hörsaal, der zu Ehren von Gustavo Caamaño benannt ist und regionale Kulturveranstaltungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.157462,
+                        4.579187
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Marsella",
+                  "text": "Eine lebendige Pfingstkirche, die dem Viertel Marsella mit regelmäßigen Gottesdiensten dient.",
+                  "category": "religious",
+                  "coords": [
+                        -74.132668,
+                        4.630523
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Kennedy Central",
+                  "text": "Diese lokale Pfingstgemeinde in Kennedy Central versammelt sich in einem einfachen, eigenen Gebetssaal.",
+                  "category": "religious",
+                  "coords": [
+                        -74.155007,
+                        4.620015
+                  ]
+            },
+            {
+                  "name": "Fuego Santo",
+                  "text": "Ein zeitgenössisches evangelikales Gotteshaus, das für seine inbrünstigen Gottesdienste bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -74.177293,
+                        4.627767
+                  ]
+            },
+            {
+                  "name": "Iglesia Su Dulce Voz",
+                  "text": "Eine lokale christliche Gemeinde, die sich in einem bescheidenen Gebäude zum Gebet und Gottesdienst trifft.",
+                  "category": "religious",
+                  "coords": [
+                        -74.198689,
+                        4.606711
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unidad de Colombia",
+                  "text": "Ein prominentes Zentrum der Pfingstgemeinde, das den spirituellen Bedürfnissen der lokalen kolumbianischen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -74.191275,
+                        4.630432
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Su Dulce Voz",
+                  "text": "Diese christliche Kirche bietet eine einladende spirituelle Gemeinschaft und regelmäßige Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -74.195353,
+                        4.6042
+                  ]
+            },
+            {
+                  "name": "Parroquia Federico Ozanam",
+                  "text": "Eine katholische Pfarrkirche, die dem seligen Frédéric Ozanam gewidmet ist und dem Viertel spirituelle Führung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -74.199097,
+                        4.593137
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo II",
+                  "text": "Eine kleine Kapelle, die Papst Johannes Paul II. gewidmet ist und einen ruhigen Raum für das lokale Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -74.186968,
+                        4.598919
+                  ]
+            },
+            {
+                  "name": "Templo Nuevo",
+                  "text": "Ein neu errichteter Tempel mit moderner religiöser Architektur, der einer wachsenden Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -74.21271,
+                        4.602086
+                  ]
+            },
+            {
+                  "name": "Templete Juan Pablo II",
+                  "text": "Diese Gedenkkapelle wurde als spiritueller Tribut an das Erbe von Papst Johannes Paul II. erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        -74.133322,
+                        4.574049
+                  ]
+            },
+            {
+                  "name": "Parroquia Juan Pablo II",
+                  "text": "Eine zeitgenössische Pfarrkirche, die der katholischen Gemeinde unter dem Patronat des heiligen Johannes Paul II. dient.",
+                  "category": "religious",
+                  "coords": [
+                        -74.195323,
+                        4.631924
+                  ]
+            },
+            {
+                  "name": "Templo Mormón del Recreo",
+                  "text": "Ein charakteristischer LDS-Tempel mit seinem typischen Turm, der als spirituelles Zentrum für die lokale mormonische Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -74.201732,
+                        4.632109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Metropolitano El Tunal",
+                  "text": "A Bogotá déli részén elterülő, 55 hektáros nagy városi park kiterjedt sportpályákkal és egy mesterséges tóval rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        -74.134284,
+                        4.571929
+                  ]
+            },
+            {
+                  "name": "Humedal Tibanica",
+                  "text": "A Bogotá és Soacha határán fekvő 28 hektáros vizesélőhely a bennszülött és vonuló madárfajok létfontosságú menedéke.",
+                  "category": "natural",
+                  "coords": [
+                        -74.204729,
+                        4.603111
+                  ]
+            },
+            {
+                  "name": "Parque Tibanica",
+                  "text": "Ez a zöld rekreációs terület a Tibanica vizesélőhely ökoszisztémájával határos, tanösvényeket és vadon élő állatok megfigyelését kínálva.",
+                  "category": "park",
+                  "coords": [
+                        -74.196932,
+                        4.582392
+                  ]
+            },
+            {
+                  "name": "Mundo Aventura",
+                  "text": "Bogotá egyik legnépszerűbb vidámparkja, amely izgalmas mechanikus túrákkal, állatsimogatóval és extrém sportzónával várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.135086,
+                        4.622394
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "A régióból feltárt kolumbusz előtti kerámiákat és bennszülött leleteket őrző és bemutató intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        -74.217512,
+                        4.581919
+                  ]
+            },
+            {
+                  "name": "Pictogramas de Cerro Seco",
+                  "text": "Ez a régészeti lelőhely ősi őslakos sziklafestményeket rejt, amelyek a Cerro Seco kőfelületein maradtak fenn.",
+                  "category": "historical",
+                  "coords": [
+                        -74.175342,
+                        4.55123
+                  ]
+            },
+            {
+                  "name": "Casa en ruinas",
+                  "text": "Egy elhagyatott vidéki ház viharvert kőmaradványai, amelyeket lassan visszahódít a környező táj.",
+                  "category": "historical",
+                  "coords": [
+                        -74.172026,
+                        4.550312
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "A Kármelhegyi Boldogasszonynak szentelt út menti áhítati emlékmű, amelyet a helyi utazók gyakran díszítenek virágokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -74.173347,
+                        4.598683
+                  ]
+            },
+            {
+                  "name": "Arte Rupestre",
+                  "text": "Szabadtéri régészeti terület, ahol az ősi vadászó-gyűjtögetők bonyolult faragványokat és vörös okker szimbólumokat hagytak a nagy sziklákon.",
+                  "category": "historical",
+                  "coords": [
+                        -74.227006,
+                        4.612022
+                  ]
+            },
+            {
+                  "name": "Antigua Capilla La Isla",
+                  "text": "Egy egykori szigeti kápolna romos téglafalai, amely egykor egy elszigetelt vallási közösséget szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -74.212795,
+                        4.617911
+                  ]
+            },
+            {
+                  "name": "Monumento a las Banderas",
+                  "text": "Ez a számos női alakot ábrázoló masszív szobormű az amerikai nemzetek zászlóinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -74.148276,
+                        4.631283
+                  ]
+            },
+            {
+                  "name": "Auditorio 1",
+                  "text": "Egy modern előadóterem, amelyet előadások és színházi előadások tartására terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.132012,
+                        4.575392
+                  ]
+            },
+            {
+                  "name": "Platino Real",
+                  "text": "Ez a helyi művészeti központ sokoldalú rendezvényteret biztosít kulturális összejövetelek és kiállítások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.139081,
+                        4.594145
+                  ]
+            },
+            {
+                  "name": "Rincón Cultural El Caracol",
+                  "text": "Egy közösségi művészeti központ, amely műhelyekkel és meghitt előadásokkal támogatja a helyi kreativitást.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.158483,
+                        4.616538
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Ciudad Bolívar",
+                  "text": "Ez a nyüzsgő kulturális központ előadóművészeti terekkel és kreatív műhelyekkel szolgálja a helyi közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.15123,
+                        4.572807
+                  ]
+            },
+            {
+                  "name": "Teatro Villa Mayor",
+                  "text": "Egy kiemelkedő környékbeli színház, amely rendszeres drámai daraboknak és helyi közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.120678,
+                        4.591575
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Egy formális fedett ülősarok, amelyet színházi műsoroknak és nyilvános előadásoknak szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.13001,
+                        4.572637
+                  ]
+            },
+            {
+                  "name": "Teatro El Ensueño",
+                  "text": "Ez a kortárs, nagy befogadóképességű színház a kerület előadóművészeti és kulturális műsorainak egyik fő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.158539,
+                        4.585948
+                  ]
+            },
+            {
+                  "name": "Auditorio Gustavo Caamaño",
+                  "text": "Gustavo Caamañóról elnevezett, helyi kulturális eseményeknek otthont adó dedikált színház- és előadóterem.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.157462,
+                        4.579187
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Marsella",
+                  "text": "Egy élénk pünkösdi gyülekezet, amely rendszeres istentiszteletekkel szolgálja ki a Marsella negyedet.",
+                  "category": "religious",
+                  "coords": [
+                        -74.132668,
+                        4.630523
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Kennedy Central",
+                  "text": "Ez a Kennedy Central-i helyi pünkösdi gyülekezet egy egyszerű, dedikált imateremben gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        -74.155007,
+                        4.620015
+                  ]
+            },
+            {
+                  "name": "Fuego Santo",
+                  "text": "Kortárs evangéliumi istentiszteleti hely, amely buzgó vallási szertartásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -74.177293,
+                        4.627767
+                  ]
+            },
+            {
+                  "name": "Iglesia Su Dulce Voz",
+                  "text": "Egy helyi keresztény gyülekezet, amely egy szerény épületben találkozik imára és istentiszteletre.",
+                  "category": "religious",
+                  "coords": [
+                        -74.198689,
+                        4.606711
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unidad de Colombia",
+                  "text": "Kiemelkedő pünkösdi istentiszteleti központ, amely a helyi kolumbiai közösség spirituális igényeit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        -74.191275,
+                        4.630432
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Su Dulce Voz",
+                  "text": "Ez a keresztény templom barátságos szellemi közösséget és rendszeres istentiszteleteket kínál.",
+                  "category": "religious",
+                  "coords": [
+                        -74.195353,
+                        4.6042
+                  ]
+            },
+            {
+                  "name": "Parroquia Federico Ozanam",
+                  "text": "A Boldog Frédéric Ozanamnak szentelt katolikus plébániatemplom, amely lelki útmutatást nyújt a környéknek.",
+                  "category": "religious",
+                  "coords": [
+                        -74.199097,
+                        4.593137
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo II",
+                  "text": "II. János Pál pápának szentelt kis kápolna, amely csendes teret kínál a helyi imádkozáshoz.",
+                  "category": "religious",
+                  "coords": [
+                        -74.186968,
+                        4.598919
+                  ]
+            },
+            {
+                  "name": "Templo Nuevo",
+                  "text": "Egy újonnan épült, modern vallási építészettel rendelkező templom, amely a növekvő gyülekezetet szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -74.21271,
+                        4.602086
+                  ]
+            },
+            {
+                  "name": "Templete Juan Pablo II",
+                  "text": "Ezt az emlékkápolnát II. János Pál pápa örökségének spirituális tiszteletére építették.",
+                  "category": "religious",
+                  "coords": [
+                        -74.133322,
+                        4.574049
+                  ]
+            },
+            {
+                  "name": "Parroquia Juan Pablo II",
+                  "text": "Kortárs plébániatemplom, amely Szent II. János Pál védnöksége alatt szolgálja a katolikus közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        -74.195323,
+                        4.631924
+                  ]
+            },
+            {
+                  "name": "Templo Mormón del Recreo",
+                  "text": "Egy jellegzetes utolsó napi szentek temploma a maga jellegzetes tornyával, amely a helyi mormon közösség spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -74.201732,
+                        4.632109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Metropolitano El Tunal",
+                  "text": "Întinzându-se pe 55 de hectare în sudul Bogotei, acest mare parc urban are terenuri de sport extinse și un lac artificial.",
+                  "category": "park",
+                  "coords": [
+                        -74.134284,
+                        4.571929
+                  ]
+            },
+            {
+                  "name": "Humedal Tibanica",
+                  "text": "Aflat la granița dintre Bogotá și Soacha, această zonă umedă de 28 de hectare este un sanctuar vital pentru speciile de păsări endemice și migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        -74.204729,
+                        4.603111
+                  ]
+            },
+            {
+                  "name": "Parque Tibanica",
+                  "text": "Acest spațiu verde de recreere se învecinează cu ecosistemul zonelor umede Tibanica, oferind trasee în natură și observarea faunei sălbatice.",
+                  "category": "park",
+                  "coords": [
+                        -74.196932,
+                        4.582392
+                  ]
+            },
+            {
+                  "name": "Mundo Aventura",
+                  "text": "Unul dintre cele mai populare parcuri de distracții din Bogotá, cu atracții mecanice palpitante, o grădină zoologică cu animale blânde și o zonă de sporturi extreme.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.135086,
+                        4.622394
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "O instituție care conservă și expune ceramică precolumbiană și artefacte indigene recuperate din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -74.217512,
+                        4.581919
+                  ]
+            },
+            {
+                  "name": "Pictogramas de Cerro Seco",
+                  "text": "Acest sit arheologic prezintă picturi rupestre indigene antice conservate pe suprafețele de piatră ale Cerro Seco.",
+                  "category": "historical",
+                  "coords": [
+                        -74.175342,
+                        4.55123
+                  ]
+            },
+            {
+                  "name": "Casa en ruinas",
+                  "text": "Rămășițele de piatră erodate ale unei case rurale abandonate, recucerite încet de peisajul înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        -74.172026,
+                        4.550312
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "Un monument devoțional situat la marginea drumului dedicat Fecioarei de pe Muntele Carmel, adesea decorat cu flori de către călătorii locali.",
+                  "category": "historical",
+                  "coords": [
+                        -74.173347,
+                        4.598683
+                  ]
+            },
+            {
+                  "name": "Arte Rupestre",
+                  "text": "O zonă arheologică în aer liber unde vânătorii-culegătorii antici au lăsat sculpturi complicate și simboluri din ocru roșu pe bolovani mari.",
+                  "category": "historical",
+                  "coords": [
+                        -74.227006,
+                        4.612022
+                  ]
+            },
+            {
+                  "name": "Antigua Capilla La Isla",
+                  "text": "Zidurile de cărămidă în deteriorare ale unei foste capele de pe insulă care a deservit cândva o comunitate religioasă izolată.",
+                  "category": "historical",
+                  "coords": [
+                        -74.212795,
+                        4.617911
+                  ]
+            },
+            {
+                  "name": "Monumento a las Banderas",
+                  "text": "Acest monument sculptural masiv, cu numeroase figuri feminine, este dedicat steagurilor națiunilor americane.",
+                  "category": "historical",
+                  "coords": [
+                        -74.148276,
+                        4.631283
+                  ]
+            },
+            {
+                  "name": "Auditorio 1",
+                  "text": "Un auditoriu modern conceput pentru prelegeri și spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.132012,
+                        4.575392
+                  ]
+            },
+            {
+                  "name": "Platino Real",
+                  "text": "Acest centru de arte local oferă un spațiu de evenimente versatil pentru adunări culturale și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.139081,
+                        4.594145
+                  ]
+            },
+            {
+                  "name": "Rincón Cultural El Caracol",
+                  "text": "Un centru de arte comunitar care încurajează creativitatea locală prin ateliere și spectacole intime.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.158483,
+                        4.616538
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Ciudad Bolívar",
+                  "text": "Acest centru cultural vibrant servește comunitatea locală cu spații pentru artele spectacolului și ateliere creative.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.15123,
+                        4.572807
+                  ]
+            },
+            {
+                  "name": "Teatro Villa Mayor",
+                  "text": "Un teatru de cartier proeminent care găzduiește piese dramatice regulate și evenimente ale comunității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.120678,
+                        4.591575
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "O zonă interioară formală de locuri dedicată spectacolelor de teatru și prelegerilor publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.13001,
+                        4.572637
+                  ]
+            },
+            {
+                  "name": "Teatro El Ensueño",
+                  "text": "Acest teatru contemporan de mare capacitate este un centru major pentru artele spectacolului și spectacole culturale din district.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.158539,
+                        4.585948
+                  ]
+            },
+            {
+                  "name": "Auditorio Gustavo Caamaño",
+                  "text": "Un teatru și o sală de curs dedicată numită în onoarea lui Gustavo Caamaño, care găzduiește evenimente culturale regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.157462,
+                        4.579187
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Marsella",
+                  "text": "O biserică penticostală vibrantă care deservește cartierul Marsella cu servicii religioase regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -74.132668,
+                        4.630523
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Kennedy Central",
+                  "text": "Această congregație penticostală locală din Kennedy Central se adună într-o sală de cult simplă și dedicată.",
+                  "category": "religious",
+                  "coords": [
+                        -74.155007,
+                        4.620015
+                  ]
+            },
+            {
+                  "name": "Fuego Santo",
+                  "text": "Un lăcaș de cult evanghelic contemporan cunoscut pentru slujbele sale religioase fervente.",
+                  "category": "religious",
+                  "coords": [
+                        -74.177293,
+                        4.627767
+                  ]
+            },
+            {
+                  "name": "Iglesia Su Dulce Voz",
+                  "text": "O congregație creștină locală care se întrunește într-o clădire modestă dedicată rugăciunii și închinarii.",
+                  "category": "religious",
+                  "coords": [
+                        -74.198689,
+                        4.606711
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unidad de Colombia",
+                  "text": "Un centru de cult penticostal proeminent care servește nevoilor spirituale ale comunității columbiene locale.",
+                  "category": "religious",
+                  "coords": [
+                        -74.191275,
+                        4.630432
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Su Dulce Voz",
+                  "text": "Această biserică creștină oferă o comunitate spirituală primitoare și servicii regulate de închinare.",
+                  "category": "religious",
+                  "coords": [
+                        -74.195353,
+                        4.6042
+                  ]
+            },
+            {
+                  "name": "Parroquia Federico Ozanam",
+                  "text": "O biserică parohială catolică dedicată Fericitului Frédéric Ozanam, care oferă îndrumare spirituală cartierului.",
+                  "category": "religious",
+                  "coords": [
+                        -74.199097,
+                        4.593137
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo II",
+                  "text": "O mică capelă dedicată Papei Ioan Paul al II-lea, care oferă un spațiu liniștit pentru rugăciunea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -74.186968,
+                        4.598919
+                  ]
+            },
+            {
+                  "name": "Templo Nuevo",
+                  "text": "Un templu nou construit cu arhitectură religioasă modernă, care servește unei congregații în creștere.",
+                  "category": "religious",
+                  "coords": [
+                        -74.21271,
+                        4.602086
+                  ]
+            },
+            {
+                  "name": "Templete Juan Pablo II",
+                  "text": "Această capelă comemorativă a fost construită ca un omagiu spiritual adus moștenirii Papei Ioan Paul al II-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -74.133322,
+                        4.574049
+                  ]
+            },
+            {
+                  "name": "Parroquia Juan Pablo II",
+                  "text": "O biserică parohială contemporană care servește comunitatea catolică sub patronajul Sfântului Ioan Paul al II-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -74.195323,
+                        4.631924
+                  ]
+            },
+            {
+                  "name": "Templo Mormón del Recreo",
+                  "text": "Un templu mormon distinctiv cu turla sa caracteristică, servind drept centru spiritual pentru comunitatea locală mormonă.",
+                  "category": "religious",
+                  "coords": [
+                        -74.201732,
+                        4.632109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Metropolitano El Tunal",
+                  "text": "Covering 55 hectares in southern Bogotá, this major urban park features extensive sports courts and an artificial lake.",
+                  "category": "park",
+                  "coords": [
+                        -74.134284,
+                        4.571929
+                  ]
+            },
+            {
+                  "name": "Humedal Tibanica",
+                  "text": "Straddling the border of Bogotá and Soacha, this 28-hectare wetland is a vital sanctuary for endemic and migratory bird species.",
+                  "category": "natural",
+                  "coords": [
+                        -74.204729,
+                        4.603111
+                  ]
+            },
+            {
+                  "name": "Parque Tibanica",
+                  "text": "This green recreational space borders the Tibanica wetland ecosystem, offering nature trails and wildlife observation.",
+                  "category": "park",
+                  "coords": [
+                        -74.196932,
+                        4.582392
+                  ]
+            },
+            {
+                  "name": "Mundo Aventura",
+                  "text": "One of Bogotá's most popular amusement parks, featuring thrilling mechanical rides, a petting zoo, and an extreme sports area.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.135086,
+                        4.622394
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "An institution preserving and displaying pre-Columbian ceramics and indigenous artifacts recovered from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -74.217512,
+                        4.581919
+                  ]
+            },
+            {
+                  "name": "Pictogramas de Cerro Seco",
+                  "text": "This archaeological site features ancient indigenous rock paintings preserved on the stone surfaces of Cerro Seco.",
+                  "category": "historical",
+                  "coords": [
+                        -74.175342,
+                        4.55123
+                  ]
+            },
+            {
+                  "name": "Casa en ruinas",
+                  "text": "The weathered stone remnants of an abandoned rural house, slowly being reclaimed by the surrounding landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -74.172026,
+                        4.550312
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "A roadside devotional monument dedicated to the Virgin of Mount Carmel, often decorated with flowers by local travelers.",
+                  "category": "historical",
+                  "coords": [
+                        -74.173347,
+                        4.598683
+                  ]
+            },
+            {
+                  "name": "Arte Rupestre",
+                  "text": "An open-air archaeological area where ancient hunter-gatherers left intricate carvings and red-ochre symbols on large boulders.",
+                  "category": "historical",
+                  "coords": [
+                        -74.227006,
+                        4.612022
+                  ]
+            },
+            {
+                  "name": "Antigua Capilla La Isla",
+                  "text": "The deteriorating brick walls of a former island chapel that once served an isolated religious community.",
+                  "category": "historical",
+                  "coords": [
+                        -74.212795,
+                        4.617911
+                  ]
+            },
+            {
+                  "name": "Monumento a las Banderas",
+                  "text": "This massive sculptural monument featuring numerous female figures is dedicated to the flags of the American nations.",
+                  "category": "historical",
+                  "coords": [
+                        -74.148276,
+                        4.631283
+                  ]
+            },
+            {
+                  "name": "Auditorio 1",
+                  "text": "A modern auditorium designed for lectures and theatrical presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.132012,
+                        4.575392
+                  ]
+            },
+            {
+                  "name": "Platino Real",
+                  "text": "This local arts centre provides a versatile event space for cultural gatherings and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.139081,
+                        4.594145
+                  ]
+            },
+            {
+                  "name": "Rincón Cultural El Caracol",
+                  "text": "A community arts centre fostering local creativity through workshops and intimate performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.158483,
+                        4.616538
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Ciudad Bolívar",
+                  "text": "This vibrant cultural centre serves the local community with performing arts spaces and creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.15123,
+                        4.572807
+                  ]
+            },
+            {
+                  "name": "Teatro Villa Mayor",
+                  "text": "A prominent neighbourhood theatre hosting regular dramatic plays and local community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.120678,
+                        4.591575
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "A formal indoor seating area dedicated to theatrical shows and public lectures.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.13001,
+                        4.572637
+                  ]
+            },
+            {
+                  "name": "Teatro El Ensueño",
+                  "text": "This contemporary, large-capacity theatre is a major hub for performing arts and cultural shows in the district.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.158539,
+                        4.585948
+                  ]
+            },
+            {
+                  "name": "Auditorio Gustavo Caamaño",
+                  "text": "A dedicated theatre and lecture hall named in honour of Gustavo Caamaño, hosting regional cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.157462,
+                        4.579187
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Marsella",
+                  "text": "A vibrant Pentecostal church serving the Marsella neighbourhood with regular worship services.",
+                  "category": "religious",
+                  "coords": [
+                        -74.132668,
+                        4.630523
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Kennedy Central",
+                  "text": "This local Pentecostal congregation in Kennedy Central gathers in a simple, dedicated worship hall.",
+                  "category": "religious",
+                  "coords": [
+                        -74.155007,
+                        4.620015
+                  ]
+            },
+            {
+                  "name": "Fuego Santo",
+                  "text": "A contemporary evangelical place of worship known for its fervent religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -74.177293,
+                        4.627767
+                  ]
+            },
+            {
+                  "name": "Iglesia Su Dulce Voz",
+                  "text": "A local Christian congregation meeting in a modest building dedicated to prayer and worship.",
+                  "category": "religious",
+                  "coords": [
+                        -74.198689,
+                        4.606711
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unidad de Colombia",
+                  "text": "A prominent Pentecostal worship centre serving the spiritual needs of the local Colombian community.",
+                  "category": "religious",
+                  "coords": [
+                        -74.191275,
+                        4.630432
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Su Dulce Voz",
+                  "text": "This Christian church provides a welcoming spiritual community and regular worship services.",
+                  "category": "religious",
+                  "coords": [
+                        -74.195353,
+                        4.6042
+                  ]
+            },
+            {
+                  "name": "Parroquia Federico Ozanam",
+                  "text": "A Catholic parish church dedicated to Blessed Frédéric Ozanam, providing spiritual guidance to the neighbourhood.",
+                  "category": "religious",
+                  "coords": [
+                        -74.199097,
+                        4.593137
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo II",
+                  "text": "A small chapel dedicated to Pope John Paul II, offering a quiet space for local prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -74.186968,
+                        4.598919
+                  ]
+            },
+            {
+                  "name": "Templo Nuevo",
+                  "text": "A newly constructed temple featuring modern religious architecture and serving a growing congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -74.21271,
+                        4.602086
+                  ]
+            },
+            {
+                  "name": "Templete Juan Pablo II",
+                  "text": "This commemorative chapel was built as a spiritual tribute to the legacy of Pope John Paul II.",
+                  "category": "religious",
+                  "coords": [
+                        -74.133322,
+                        4.574049
+                  ]
+            },
+            {
+                  "name": "Parroquia Juan Pablo II",
+                  "text": "A contemporary parish church serving the Catholic community under the patronage of St. John Paul II.",
+                  "category": "religious",
+                  "coords": [
+                        -74.195323,
+                        4.631924
+                  ]
+            },
+            {
+                  "name": "Templo Mormón del Recreo",
+                  "text": "A distinctive LDS temple with its characteristic spire, serving as a spiritual centre for the local Mormon community.",
+                  "category": "religious",
+                  "coords": [
+                        -74.201732,
+                        4.632109
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CO-DC",
     coords: [-74.1378, 4.6225],
@@ -346,7 +6205,772 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "piscilago-life-v2",
+    id: "piscilago-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Concha Acústica",
+                  "text": "Diese akustische Muschelstruktur im Freien beherbergt musikalische und theatralische Darbietungen nahe piscilago-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.680634,
+                        4.215796
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Inmaculada Concepción",
+                  "text": "Diese katholische Kirche, die der Unbefleckten Empfängnis geweiht ist, ist ein zentraler Gebetsort bei piscilago-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.649507,
+                        4.200156
+                  ]
+            },
+            {
+                  "name": "San jose de Nilo",
+                  "text": "Diese lokale katholische Kirche dient der Gemeinde in der Region um piscilago-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.620697,
+                        4.307372
+                  ]
+            },
+            {
+                  "name": "5 avenida",
+                  "text": "Dieses kommerzielle Marktgebiet entlang der fünften Straße bei piscilago-life-v2 ist ein lokales Einkaufszentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.645043,
+                        4.203433
+                  ]
+            },
+            {
+                  "name": "Fundacion Oreste Sindici",
+                  "text": "Eine kulturelle Attraktion, die das Erbe von Oreste Sindici, dem Komponisten der kolumbianischen Nationalhymne, ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.622425,
+                        4.304452
+                  ]
+            },
+            {
+                  "name": "Malekon",
+                  "text": "Eine belebte Uferpromenade, die malerische Wege für entspannte Spaziergänge am Fluss bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.657477,
+                        4.20046
+                  ]
+            },
+            {
+                  "name": "Rotonda El Mohán",
+                  "text": "Eine markante Rotunde mit einem Denkmal, das El Mohán gewidmet ist, einer legendären Figur der kolumbianischen Mythologie.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.634701,
+                        4.209745
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Asís",
+                  "text": "Eine einladende christliche Kirche, die dem heiligen Franz von Assisi gewidmet ist und eine friedliche Atmosphäre zum Beten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.642296,
+                        4.204363
+                  ]
+            },
+            {
+                  "name": "Mirador King Kong",
+                  "text": "Ein hochgelegener Aussichtspunkt, der Besucher mit einem majestätischen Panoramablick über die weite, hügelige Landschaft belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        -74.682354,
+                        4.217994
+                  ]
+            },
+            {
+                  "name": "Emú",
+                  "text": "Ein spezielles Zoogehege für Emus, in dem Besucher diese großen, australischen Laufvögel aus nächster Nähe beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.686023,
+                        4.218168
+                  ]
+            },
+            {
+                  "name": "Venados",
+                  "text": "Ein weitläufiger Zoolebensraum für Hirsche, der eine natürliche Umgebung bietet, in der Besucher sie beim Grasen im Freien beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.683304,
+                        4.218679
+                  ]
+            },
+            {
+                  "name": "Jaguar",
+                  "text": "Ein bewaldetes Zoogehege, das den dichten Dschungellebensraum des mächtigen südamerikanischen Jaguars simuliert.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.680297,
+                        4.213599
+                  ]
+            },
+            {
+                  "name": "Cafam Melgar",
+                  "text": "Ein weitläufiger Freizeitkomplex mit einer Vielzahl von Schwimmbädern, aufregenden Wasserrutschen und Unterhaltungsbereichen für die Familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.63325,
+                        4.198829
+                  ]
+            },
+            {
+                  "name": "Bioparque Cafam",
+                  "text": "Ein auf Naturschutz ausgerichteter Biopark, der sich dem Schutz der einheimischen kolumbianischen Artenvielfalt und der Rehabilitation geretteter Wildtiere widmet.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.629478,
+                        4.193579
+                  ]
+            },
+            {
+                  "name": "Pumas",
+                  "text": "Ein felsiges, erhöhtes Gehege, das dem rauen, gebirgigen Gelände nachempfunden ist, das von den listigen Pumas bevorzugt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.681227,
+                        4.21711
+                  ]
+            },
+            {
+                  "name": "Flamencos y Tortugas",
+                  "text": "Ein ruhiges Watbecken, das harmonisch von eleganten rosa Flamingos und langsamen Wasserschildkröten geteilt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.682353,
+                        4.213996
+                  ]
+            },
+            {
+                  "name": "Parque Acuático y de Conservación Piscilago",
+                  "text": "Ein riesiges Unterhaltungsziel, das aufregende Wasserrutschen nahtlos mit einem renommierten Zentrum für den Schutz von Wildtieren verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.683461,
+                        4.216474
+                  ]
+            },
+            {
+                  "name": "Marimionda Magdalena",
+                  "text": "Ein wichtiges Erhaltungsgehege für den vom Aussterben bedrohten Magdalena-Klammeraffen, eine Art, die für ihren langen, greiffähigen Schwanz bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.684365,
+                        4.217892
+                  ]
+            },
+            {
+                  "name": "Chigüiros",
+                  "text": "Ein schlammiger, halbaquatischer Lebensraum, in dem Wasserschweine, die größten Nagetiere der Welt, fröhlich schwimmen und Kontakte knüpfen können.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.685813,
+                        4.219204
+                  ]
+            },
+            {
+                  "name": "Caimán Llanero",
+                  "text": "Eine spezielle Feuchtgebiet-Ausstellung, die das riesige Orinoco-Krokodil beherbergt und das Spitzenraubtier der östlichen Ebenen Kolumbiens präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.687173,
+                        4.219294
+                  ]
+            },
+            {
+                  "name": "Hábitat Mixto",
+                  "text": "Ein komplexes Mehrarten-Gehege, in dem verschiedene nicht raubtierartige südamerikanische Tiere friedlich in einer gemeinsamen, naturnahen Landschaft zusammenleben.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.688317,
+                        4.219463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Concha Acústica",
+                  "text": "Ez a szabadtéri akusztikus kagylószerkezet zenei és színházi előadásoknak ad otthont a piscilago-life-v2 közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.680634,
+                        4.215796
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Inmaculada Concepción",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt katolikus templom a piscilago-life-v2 melletti központi imahely.",
+                  "category": "religious",
+                  "coords": [
+                        -74.649507,
+                        4.200156
+                  ]
+            },
+            {
+                  "name": "San jose de Nilo",
+                  "text": "Ez a helyi katolikus templom a piscilago-life-v2 körüli régió közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -74.620697,
+                        4.307372
+                  ]
+            },
+            {
+                  "name": "5 avenida",
+                  "text": "Ez a piscilago-life-v2 melletti, az ötödik sugárút mentén elterülő kereskedelmi piac egy helyi bevásárlóközpont.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.645043,
+                        4.203433
+                  ]
+            },
+            {
+                  "name": "Fundacion Oreste Sindici",
+                  "text": "Egy kulturális látványosság, amely Oreste Sindici, a kolumbiai himnusz zeneszerzőjének öröksége előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.622425,
+                        4.304452
+                  ]
+            },
+            {
+                  "name": "Malekon",
+                  "text": "Egy élettel teli vízparti sétány, amely festői utakat kínál egy kellemes sétához.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.657477,
+                        4.20046
+                  ]
+            },
+            {
+                  "name": "Rotonda El Mohán",
+                  "text": "Egy lenyűgöző körönd, amely a kolumbiai mitológia legendás alakjának, El Mohánnak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.634701,
+                        4.209745
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Asís",
+                  "text": "Egy Assisi Szent Ferencnek szentelt barátságos keresztény templom, amely békés légkört biztosít az imádkozáshoz és az elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.642296,
+                        4.204363
+                  ]
+            },
+            {
+                  "name": "Mirador King Kong",
+                  "text": "Egy magasan fekvő kilátó, amely fenséges, panorámás kilátással jutalmazza a környező, dombos tájra tekintő látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        -74.682354,
+                        4.217994
+                  ]
+            },
+            {
+                  "name": "Emú",
+                  "text": "Az emuknak szentelt különleges állatkerti kifutó, ahol a látogatók testközelből figyelhetik meg ezeket a nagy ausztrál futómadarakat.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.686023,
+                        4.218168
+                  ]
+            },
+            {
+                  "name": "Venados",
+                  "text": "Egy szarvasok számára kialakított tágas állatkerti élőhely, amely természetes környezetet biztosít a nyílt terepen legelésző állatok megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.683304,
+                        4.218679
+                  ]
+            },
+            {
+                  "name": "Jaguar",
+                  "text": "Egy erdős állatkerti kifutó, amelyet a hatalmas dél-amerikai jaguár sűrű dzsungelbeli élőhelyének szimulálására építettek.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.680297,
+                        4.213599
+                  ]
+            },
+            {
+                  "name": "Cafam Melgar",
+                  "text": "Egy kiterjedt rekreációs komplexum, amely számos úszómedencével, izgalmas vízi csúszdával és családi szórakoztató zónával várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.63325,
+                        4.198829
+                  ]
+            },
+            {
+                  "name": "Bioparque Cafam",
+                  "text": "Egy természetvédelemre fókuszáló biopark, amely az őshonos kolumbiai biológiai sokféleség védelmének és a megmentett vadon élő állatok rehabilitációjának szenteli magát.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.629478,
+                        4.193579
+                  ]
+            },
+            {
+                  "name": "Pumas",
+                  "text": "Egy sziklás, magaslatos kifutó, amelyet a lopakodó pumák által kedvelt zord, hegyvidéki terep utánzására terveztek.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.681227,
+                        4.21711
+                  ]
+            },
+            {
+                  "name": "Flamencos y Tortugas",
+                  "text": "Egy nyugodt gázlómedence, amelyen elegáns rózsaszín flamingók és lassan mozgó vízi teknősök osztoznak békésen.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.682353,
+                        4.213996
+                  ]
+            },
+            {
+                  "name": "Parque Acuático y de Conservación Piscilago",
+                  "text": "Egy hatalmas szórakoztató központ, amely zökkenőmentesen ötvözi az izgalmas vízi csúszdákat egy híres vadvédelmi központtal.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.683461,
+                        4.216474
+                  ]
+            },
+            {
+                  "name": "Marimionda Magdalena",
+                  "text": "A veszélyeztetett Magdalena-pókmajom létfontosságú védelmi területe, amely egy hosszú, kapaszkodásra alkalmas farkáról ismert faj.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.684365,
+                        4.217892
+                  ]
+            },
+            {
+                  "name": "Chigüiros",
+                  "text": "Egy iszapos, félig vízi élőhely, ahol a kapibarák – a világ legnagyobb rágcsálói – családjai boldogan úszkálhatnak és szocializálódhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.685813,
+                        4.219204
+                  ]
+            },
+            {
+                  "name": "Caimán Llanero",
+                  "text": "Egy különleges vizes élőhelyet bemutató kiállítás, amely a hatalmas orinocói krokodilnak ad otthont, bemutatva a kolumbiai keleti síkságok csúcsragadozóját.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.687173,
+                        4.219294
+                  ]
+            },
+            {
+                  "name": "Hábitat Mixto",
+                  "text": "Egy komplex, több fajt bemutató kifutó, ahol különféle, nem ragadozó dél-amerikai állatok békésen élnek együtt egy közös, természetes tájban.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.688317,
+                        4.219463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Concha Acústica",
+                  "text": "Această structură acustică în aer liber găzduiește spectacole muzicale și de teatru lângă piscilago-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.680634,
+                        4.215796
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Inmaculada Concepción",
+                  "text": "Această biserică catolică, dedicată Imaculatei Concepții, este un lăcaș de cult central lângă piscilago-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.649507,
+                        4.200156
+                  ]
+            },
+            {
+                  "name": "San jose de Nilo",
+                  "text": "Această biserică catolică locală servește comunitatea din regiunea din jurul piscilago-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.620697,
+                        4.307372
+                  ]
+            },
+            {
+                  "name": "5 avenida",
+                  "text": "Această zonă de piață comercială de-a lungul bulevardului cinci, lângă piscilago-life-v2, este un centru comercial local.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.645043,
+                        4.203433
+                  ]
+            },
+            {
+                  "name": "Fundacion Oreste Sindici",
+                  "text": "O atracție culturală care onorează moștenirea lui Oreste Sindici, renumitul compozitor al imnului național al Columbiei.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.622425,
+                        4.304452
+                  ]
+            },
+            {
+                  "name": "Malekon",
+                  "text": "O promenadă vibrantă pe malul apei, oferind alei pitorești pentru plimbări relaxante.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.657477,
+                        4.20046
+                  ]
+            },
+            {
+                  "name": "Rotonda El Mohán",
+                  "text": "O rotondă impresionantă care prezintă un monument dedicat lui El Mohán, o figură legendară a mitologiei columbiene.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.634701,
+                        4.209745
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Asís",
+                  "text": "O biserică creștină primitoare dedicată Sfântului Francisc de Assisi, oferind o atmosferă pașnică pentru rugăciune și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.642296,
+                        4.204363
+                  ]
+            },
+            {
+                  "name": "Mirador King Kong",
+                  "text": "Un punct de belvedere situat la înălțime, care răsplătește vizitatorii cu o panoramă impresionantă asupra peisajului deluros înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -74.682354,
+                        4.217994
+                  ]
+            },
+            {
+                  "name": "Emú",
+                  "text": "O incintă zoologică specializată dedicată emu-urilor, permițând vizitatorilor să observe de aproape aceste mari păsări alergătoare australiene.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.686023,
+                        4.218168
+                  ]
+            },
+            {
+                  "name": "Venados",
+                  "text": "Un habitat zoologic spațios conceput pentru cerbi, oferind un mediu naturalist unde vizitatorii îi pot urmări păscând în spații deschise.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.683304,
+                        4.218679
+                  ]
+            },
+            {
+                  "name": "Jaguar",
+                  "text": "O incintă zoologică împădurită construită pentru a simula habitatul dens de junglă al puternicului jaguar sud-american.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.680297,
+                        4.213599
+                  ]
+            },
+            {
+                  "name": "Cafam Melgar",
+                  "text": "Un vast complex de agrement care oferă o multitudine de piscine, tobogane cu apă captivante și zone de divertisment pentru familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.63325,
+                        4.198829
+                  ]
+            },
+            {
+                  "name": "Bioparque Cafam",
+                  "text": "Un bioparc axat pe conservare, dedicat protejării biodiversității native din Columbia și reabilitării faunei sălbatice salvate.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.629478,
+                        4.193579
+                  ]
+            },
+            {
+                  "name": "Pumas",
+                  "text": "O incintă stâncoasă și ridicată, concepută pentru a imita terenul muntos accidentat preferat de pumele furtive.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.681227,
+                        4.21711
+                  ]
+            },
+            {
+                  "name": "Flamencos y Tortugas",
+                  "text": "Un bazin liniștit împărțit în armonie de flamingo roz eleganți și broaște țestoase acvatice cu mișcări lente.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.682353,
+                        4.213996
+                  ]
+            },
+            {
+                  "name": "Parque Acuático y de Conservación Piscilago",
+                  "text": "O destinație masivă de divertisment care combină perfect toboganele cu apă captivante cu un renumit centru de conservare a faunei sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.683461,
+                        4.216474
+                  ]
+            },
+            {
+                  "name": "Marimionda Magdalena",
+                  "text": "O incintă de conservare critică pentru maimuța păianjen Magdalena, pe cale de dispariție, o specie faimoasă pentru coada sa lungă și prehensilă.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.684365,
+                        4.217892
+                  ]
+            },
+            {
+                  "name": "Chigüiros",
+                  "text": "Un habitat noroios, semi-acvatic, unde familiile de capibara, cele mai mari rozătoare din lume, pot înota și socializa fericite.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.685813,
+                        4.219204
+                  ]
+            },
+            {
+                  "name": "Caimán Llanero",
+                  "text": "O expoziție specializată de zone umede care adăpostește masivul crocodil de Orinoco, prezentând prădătorul de top al câmpiilor estice din Columbia.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.687173,
+                        4.219294
+                  ]
+            },
+            {
+                  "name": "Hábitat Mixto",
+                  "text": "O incintă complexă cu mai multe specii, unde diverse animale sud-americane non-prădătoare coexistă pașnic într-un peisaj comun, naturalist.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.688317,
+                        4.219463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Concha Acústica",
+                  "text": "This outdoor acoustic shell structure hosts musical and theatrical performances near piscilago-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.680634,
+                        4.215796
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Inmaculada Concepción",
+                  "text": "This Catholic church, dedicated to the Immaculate Conception, is a central place of worship by piscilago-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.649507,
+                        4.200156
+                  ]
+            },
+            {
+                  "name": "San jose de Nilo",
+                  "text": "This local Catholic church serves the community in the region around piscilago-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.620697,
+                        4.307372
+                  ]
+            },
+            {
+                  "name": "5 avenida",
+                  "text": "This commercial market area along the fifth avenue by piscilago-life-v2 is a local shopping hub.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.645043,
+                        4.203433
+                  ]
+            },
+            {
+                  "name": "Fundacion Oreste Sindici",
+                  "text": "A cultural attraction honoring the legacy of Oreste Sindici, the renowned composer of Colombia's national anthem.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.622425,
+                        4.304452
+                  ]
+            },
+            {
+                  "name": "Malekon",
+                  "text": "A vibrant waterfront promenade offering scenic pathways for leisurely walks.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.657477,
+                        4.20046
+                  ]
+            },
+            {
+                  "name": "Rotonda El Mohán",
+                  "text": "A striking rotunda featuring a monument dedicated to El Mohán, a legendary figure from Colombian mythology.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.634701,
+                        4.209745
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Asís",
+                  "text": "A welcoming Christian church dedicated to Saint Francis of Assisi, offering a peaceful atmosphere for prayer and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.642296,
+                        4.204363
+                  ]
+            },
+            {
+                  "name": "Mirador King Kong",
+                  "text": "A high-elevation viewpoint that rewards visitors with commanding, panoramic views over the expansive, hilly landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -74.682354,
+                        4.217994
+                  ]
+            },
+            {
+                  "name": "Emú",
+                  "text": "A specialized zoo enclosure dedicated to emus, allowing visitors to observe these large, Australian flightless birds up close.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.686023,
+                        4.218168
+                  ]
+            },
+            {
+                  "name": "Venados",
+                  "text": "A spacious zoo habitat designed for deer, providing a naturalistic environment where visitors can watch them graze in open spaces.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.683304,
+                        4.218679
+                  ]
+            },
+            {
+                  "name": "Jaguar",
+                  "text": "A forested zoo enclosure built to simulate the dense jungle habitat of the powerful South American jaguar.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.680297,
+                        4.213599
+                  ]
+            },
+            {
+                  "name": "Cafam Melgar",
+                  "text": "A sprawling recreational complex featuring an array of swimming pools, exciting water slides, and family entertainment zones.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.63325,
+                        4.198829
+                  ]
+            },
+            {
+                  "name": "Bioparque Cafam",
+                  "text": "A conservation-focused biopark dedicated to protecting native Colombian biodiversity and rehabilitating rescued wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.629478,
+                        4.193579
+                  ]
+            },
+            {
+                  "name": "Pumas",
+                  "text": "A rocky, elevated enclosure designed to mimic the rugged mountainous terrain favored by stealthy pumas.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.681227,
+                        4.21711
+                  ]
+            },
+            {
+                  "name": "Flamencos y Tortugas",
+                  "text": "A tranquil wading pool shared harmoniously by elegant pink flamingos and slow-moving aquatic turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.682353,
+                        4.213996
+                  ]
+            },
+            {
+                  "name": "Parque Acuático y de Conservación Piscilago",
+                  "text": "A massive entertainment destination seamlessly combining thrilling water slides with a renowned wildlife conservation center.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.683461,
+                        4.216474
+                  ]
+            },
+            {
+                  "name": "Marimionda Magdalena",
+                  "text": "A critical conservation enclosure for the endangered Magdalena spider monkey, a species famous for its long, prehensile tail.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.684365,
+                        4.217892
+                  ]
+            },
+            {
+                  "name": "Chigüiros",
+                  "text": "A muddy, semi-aquatic habitat where families of capybaras, the world's largest rodents, can happily swim and socialize.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.685813,
+                        4.219204
+                  ]
+            },
+            {
+                  "name": "Caimán Llanero",
+                  "text": "A specialized wetland exhibit housing the massive Orinoco crocodile, showcasing the apex predator of the Colombian eastern plains.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.687173,
+                        4.219294
+                  ]
+            },
+            {
+                  "name": "Hábitat Mixto",
+                  "text": "A complex multi-species enclosure where diverse, non-predatory South American animals peacefully coexist in a shared, naturalistic landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.688317,
+                        4.219463
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CO-CUN",
     coords: [-74.6508, 4.2257],
@@ -395,7 +7019,340 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "parque-panaca-life-v2",
+    id: "parque-panaca-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "La granja de mamá lulú",
+                  "text": "Ein ökologischer Bauernhof, der sich auf nachhaltige Permakultur und innovative Bambusarchitektur spezialisiert hat.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.790203,
+                        4.60898
+                  ]
+            },
+            {
+                  "name": "Poporo Quimbaya",
+                  "text": "Ein Denkmal für das berühmte präkolumbianische Goldgefäß der Quimbaya-Kultur.",
+                  "category": "historical",
+                  "coords": [
+                        -75.767695,
+                        4.620372
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Cultura Agropecuaria - PANACA",
+                  "text": "Ein großer landwirtschaftlicher Themenpark, in dem Besucher direkt mit Nutztieren interagieren können.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.818771,
+                        4.607242
+                  ]
+            },
+            {
+                  "name": "Salon T.J",
+                  "text": "Ein religiöser Versammlungsort der Zeugen Jehovas für die Gemeinde in der Region Quimbaya.",
+                  "category": "religious",
+                  "coords": [
+                        -75.764186,
+                        4.623477
+                  ]
+            },
+            {
+                  "name": "Iglesia MITA Anaron",
+                  "text": "Eine Kapelle der Mita-Kongregation, die sich durch ihre ruhige Lage am Stadtrand auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -75.770294,
+                        4.624489
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús, María y José",
+                  "text": "Die katholische Hauptkirche von Quimbaya, gelegen an der markanten Plaza Bolívar der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.762543,
+                        4.622268
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los testigos de Jehová",
+                  "text": "Ein christlicher Königreichssaal, der als spirituelles Zentrum für die Zeugen Jehovas in Quimbaya dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.778147,
+                        4.674433
+                  ]
+            },
+            {
+                  "name": "Iglesia nuestra señora del perpetuo socorro",
+                  "text": "Eine katholische Nachbarschaftskirche, die für ihre bunte Fassade und lokalen Gemeindearbeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.781317,
+                        4.674861
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Ein geschäftiger traditioneller Markt in Quimbaya, berühmt für seine Vielfalt an Kaffee- und Bananenprodukten.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.760269,
+                        4.624927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La granja de mamá lulú",
+                  "text": "Ökológiai gazdaság, amely fenntartható permakultúrára és innovatív bambuszépítészetre szakosodott.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.790203,
+                        4.60898
+                  ]
+            },
+            {
+                  "name": "Poporo Quimbaya",
+                  "text": "Emlékmű, amely a Quimbaya-kultúra híres kolumbusz előtti aranyedényét ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        -75.767695,
+                        4.620372
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Cultura Agropecuaria - PANACA",
+                  "text": "Hatalmas mezőgazdasági élménypark, ahol a látogatók közvetlenül érintkezhetnek a haszonállatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.818771,
+                        4.607242
+                  ]
+            },
+            {
+                  "name": "Salon T.J",
+                  "text": "Jehova Tanúi vallási gyülekezőhelye a Quimbaya régió közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        -75.764186,
+                        4.623477
+                  ]
+            },
+            {
+                  "name": "Iglesia MITA Anaron",
+                  "text": "A Mita-közösség kápolnája, amely a város szélén található csendes elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -75.770294,
+                        4.624489
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús, María y José",
+                  "text": "Quimbaya fő katolikus temploma, amely a város jellegzetes Plaza Bolívar terén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.762543,
+                        4.622268
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los testigos de Jehová",
+                  "text": "Keresztény Királyság-terem, amely a Quimbayában élő Jehova Tanúi lelki központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.778147,
+                        4.674433
+                  ]
+            },
+            {
+                  "name": "Iglesia nuestra señora del perpetuo socorro",
+                  "text": "Katolikus szomszédsági templom, amely színes homlokzatáról és helyi közösségi munkájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.781317,
+                        4.674861
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Quimbaya nyüzsgő hagyományos piaca, amely a kávé- és banántermékek széles választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.760269,
+                        4.624927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La granja de mamá lulú",
+                  "text": "O fermă ecologică specializată în permacultură sustenabilă și arhitectură inovatoare din bambus.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.790203,
+                        4.60898
+                  ]
+            },
+            {
+                  "name": "Poporo Quimbaya",
+                  "text": "Un monument dedicat faimosului vas de aur precolumbian al culturii Quimbaya.",
+                  "category": "historical",
+                  "coords": [
+                        -75.767695,
+                        4.620372
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Cultura Agropecuaria - PANACA",
+                  "text": "Un parc tematic agricol vast unde vizitatorii pot interacționa direct cu animalele de fermă.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.818771,
+                        4.607242
+                  ]
+            },
+            {
+                  "name": "Salon T.J",
+                  "text": "Un loc de adunare religioasă al Martorilor lui Iehova pentru comunitatea din regiunea Quimbaya.",
+                  "category": "religious",
+                  "coords": [
+                        -75.764186,
+                        4.623477
+                  ]
+            },
+            {
+                  "name": "Iglesia MITA Anaron",
+                  "text": "O capelă a congregației Mita, caracterizată prin locația sa liniștită de la marginea orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -75.770294,
+                        4.624489
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús, María y José",
+                  "text": "Principala biserică catolică din Quimbaya, situată în emblematica Plaza Bolívar a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.762543,
+                        4.622268
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los testigos de Jehová",
+                  "text": "O Sală a Regatului creștină care servește ca centru spiritual pentru Martorii lui Iehova din Quimbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.778147,
+                        4.674433
+                  ]
+            },
+            {
+                  "name": "Iglesia nuestra señora del perpetuo socorro",
+                  "text": "O biserică catolică de cartier, cunoscută pentru fațada sa colorată și activitatea comunitară locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.781317,
+                        4.674861
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "O piață tradițională animată din Quimbaya, faimoasă pentru varietatea de produse din cafea și banane.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.760269,
+                        4.624927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mamá lulú permacultur farm",
+                  "text": "An ecological farm specializing in sustainable permaculture and innovative bamboo architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.790203,
+                        4.60898
+                  ]
+            },
+            {
+                  "name": "Poporo Quimbaya",
+                  "text": "A monument celebrating the famous pre-Columbian gold vessel of the Quimbaya culture.",
+                  "category": "historical",
+                  "coords": [
+                        -75.767695,
+                        4.620372
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de la Cultura Agropecuaria - PANACA",
+                  "text": "A massive agricultural theme park where visitors can interact directly with farm animals.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.818771,
+                        4.607242
+                  ]
+            },
+            {
+                  "name": "Salon T.J",
+                  "text": "A religious meeting hall for the Jehovah's Witnesses community in the Quimbaya region.",
+                  "category": "religious",
+                  "coords": [
+                        -75.764186,
+                        4.623477
+                  ]
+            },
+            {
+                  "name": "Iglesia MITA Anaron",
+                  "text": "A chapel for the Mita congregation, characterized by its quiet location on the edge of town.",
+                  "category": "religious",
+                  "coords": [
+                        -75.770294,
+                        4.624489
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús, María y José",
+                  "text": "The main Catholic church of Quimbaya, located on the city's landmark Plaza Bolívar.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.762543,
+                        4.622268
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los testigos de Jehová",
+                  "text": "A Christian Kingdom Hall serving as a spiritual center for Jehovah's Witnesses in Quimbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.778147,
+                        4.674433
+                  ]
+            },
+            {
+                  "name": "Iglesia nuestra señora del perpetuo socorro",
+                  "text": "A Catholic neighborhood church known for its colorful facade and local community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.781317,
+                        4.674861
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "A bustling traditional market in Quimbaya, famous for its variety of coffee and plantain products.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.760269,
+                        4.624927
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CO-QUI",
     coords: [-75.8239, 4.6133],
@@ -444,7 +7401,484 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "bioparque-ukumari-life-v2",
+    id: "bioparque-ukumari-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die afrikanische Savanne und die Tierhabitate im Ukumarí Bioparque.",
+                  "category": "natural",
+                  "coords": [
+                        -75.877384,
+                        4.775553
+                  ]
+            },
+            {
+                  "name": "Teatrino",
+                  "text": "Eine kleine Freilichtbühne, die für Bildungsvorträge und kulturelle Shows im Park genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.810864,
+                        4.801931
+                  ]
+            },
+            {
+                  "name": "Aldea masai",
+                  "text": "Eine Themenattraktion, die ein traditionelles Massai-Dorf in der afrikanischen Zone des Parks nachbildet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.808795,
+                        4.80094
+                  ]
+            },
+            {
+                  "name": "Módulo: La Extinción es Para Siempre",
+                  "text": "Eine interaktive Bildungsstation, die sich auf den Schutz der Artenvielfalt und die Verhinderung des Aussterbens von Tieren konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.810435,
+                        4.799389
+                  ]
+            },
+            {
+                  "name": "Club Campestre Pereira",
+                  "text": "Ein familienfreundlicher Freizeitclub mit großen Schwimmbecken und verschiedenen Sportanlagen im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.806736,
+                        4.801293
+                  ]
+            },
+            {
+                  "name": "Parque Consotá",
+                  "text": "Ein Kultur- und Ökopark mit Nachbildungen präkolumbianischer Häuser und Ausstellungen zum Kaffeeanbau.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.807732,
+                        4.797038
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Eine lokale Gebetsstätte für die Gemeinschaft der Zeugen Jehovas, in der Nähe des Ukumarí Bioparque gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.89722,
+                        4.763046
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Claver",
+                  "text": "Eine katholische Pfarrkirche, die der Wohngemeinschaft in den westlichen Vierteln von Pereira dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.905427,
+                        4.760687
+                  ]
+            },
+            {
+                  "name": "Parroquia San Vicente de Paul",
+                  "text": "Ein dem heiligen Vinzenz von Paul gewidmetes religiöses Zentrum, das der örtlichen Nachbarschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.902012,
+                        4.75182
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apostol",
+                  "text": "Eine Nachbarschaftskirche, die den wachsenden Vorstadtgebieten zwischen Pereira und dem Biopark dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.815581,
+                        4.807527
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel de Arcangel",
+                  "text": "Eine örtliche Pfarrkirche, die für ihre einladende Atmosphäre und ihre traditionelle religiöse Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.796498,
+                        4.811072
+                  ]
+            },
+            {
+                  "name": "Ara",
+                  "text": "Ein belebter lokaler Marktplatz, der die umliegende Gemeinde mit frischen Produkten und Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.817635,
+                        4.807021
+                  ]
+            },
+            {
+                  "name": "Central Mayorista de Alimentos Mercasa",
+                  "text": "Ein großer Großhandelsmarkt, der als zentraler Knotenpunkt für die Lebensmittelverteilung in der Region Pereira dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.76673,
+                        4.807085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador",
+                  "text": "Panorámás kilátó az afrikai szavannára és az Ukumarí Biopark állatainak lakóhelyére.",
+                  "category": "natural",
+                  "coords": [
+                        -75.877384,
+                        4.775553
+                  ]
+            },
+            {
+                  "name": "Teatrino",
+                  "text": "Kisméretű szabadtéri színpad, amelyet oktatási célú előadásokra és kulturális műsorokra használnak a parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.810864,
+                        4.801931
+                  ]
+            },
+            {
+                  "name": "Aldea masai",
+                  "text": "Hagyományos maszáj falut utánozó tematikus látványosság a park afrikai zónájában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.808795,
+                        4.80094
+                  ]
+            },
+            {
+                  "name": "Módulo: La Extinción es Para Siempre",
+                  "text": "Interaktív oktatóállomás, amely a biológiai sokféleség megőrzésére és az állatok kihalásának megelőzésére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.810435,
+                        4.799389
+                  ]
+            },
+            {
+                  "name": "Club Campestre Pereira",
+                  "text": "Családbarát szabadidőklub úszómedencékkel és különféle szabadtéri sportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.806736,
+                        4.801293
+                  ]
+            },
+            {
+                  "name": "Parque Consotá",
+                  "text": "Kulturális és ökológiai park prekolumbiánus házak másolataival és kávétermesztési hagyományokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.807732,
+                        4.797038
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi helyi imaháza az Ukumarí Biopark közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.89722,
+                        4.763046
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Claver",
+                  "text": "Katolikus plébániatemplom, amely Pereira nyugati kerületeinek lakóközösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.905427,
+                        4.760687
+                  ]
+            },
+            {
+                  "name": "Parroquia San Vicente de Paul",
+                  "text": "Szent Vince de Paulnak szentelt vallási központ, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.902012,
+                        4.75182
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apostol",
+                  "text": "Városrészi templom, amely a Pereira és a biopark közötti növekvő elővárosi területeket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.815581,
+                        4.807527
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel de Arcangel",
+                  "text": "Helyi plébániatemplom, amely barátságos közösségi légköréről és hagyományos vallási építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.796498,
+                        4.811072
+                  ]
+            },
+            {
+                  "name": "Ara",
+                  "text": "Nyüzsgő helyi piac, amely friss termékekkel és napi szükségleti cikkekkel látja el a környező közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.817635,
+                        4.807021
+                  ]
+            },
+            {
+                  "name": "Central Mayorista de Alimentos Mercasa",
+                  "text": "Nagykereskedelmi piac, amely a Pereira régió élelmiszer-elosztásának központi csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.76673,
+                        4.807085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de observație panoramic cu vedere spre savana africană și habitatele animalelor din Bioparcul Ukumarí.",
+                  "category": "natural",
+                  "coords": [
+                        -75.877384,
+                        4.775553
+                  ]
+            },
+            {
+                  "name": "Teatrino",
+                  "text": "O mică scenă în aer liber utilizată pentru prezentări educaționale și spectacole culturale în interiorul parcului.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.810864,
+                        4.801931
+                  ]
+            },
+            {
+                  "name": "Aldea masai",
+                  "text": "O atracție tematică ce recreează un sat tradițional Maasai în zona geografică africană a parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.808795,
+                        4.80094
+                  ]
+            },
+            {
+                  "name": "Módulo: La Extinción es Para Siempre",
+                  "text": "O stație educațională interactivă axată pe conservarea biodiversității și prevenirea extincției animalelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.810435,
+                        4.799389
+                  ]
+            },
+            {
+                  "name": "Club Campestre Pereira",
+                  "text": "Un club de recreere pentru familii, cu piscine mari și diverse facilități sportive în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.806736,
+                        4.801293
+                  ]
+            },
+            {
+                  "name": "Parque Consotá",
+                  "text": "Un parc cultural și ecologic care cuprinde replici ale locuințelor precolumbiene și tradiții legate de cultivarea cafelei.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.807732,
+                        4.797038
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Un lăcaș de cult local pentru comunitatea Martorilor lui Iehova, situat lângă Bioparcul Ukumarí.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.89722,
+                        4.763046
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Claver",
+                  "text": "O biserică parohială catolică care deservește comunitatea rezidențială din districtele vestice ale orașului Pereira.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.905427,
+                        4.760687
+                  ]
+            },
+            {
+                  "name": "Parroquia San Vicente de Paul",
+                  "text": "Un centru religios dedicat Sfântului Vincențiu de Paul, care oferă servicii spirituale cartierului local.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.902012,
+                        4.75182
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apostol",
+                  "text": "O biserică de cartier care deservește zonele suburbane în plină dezvoltare dintre Pereira și bioparc.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.815581,
+                        4.807527
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel de Arcangel",
+                  "text": "O biserică parohială locală cunoscută pentru atmosfera primitoare și arhitectura religioasă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.796498,
+                        4.811072
+                  ]
+            },
+            {
+                  "name": "Ara",
+                  "text": "O piață locală plină de viață care oferă produse proaspete și bunuri esențiale comunității înconjurătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.817635,
+                        4.807021
+                  ]
+            },
+            {
+                  "name": "Central Mayorista de Alimentos Mercasa",
+                  "text": "O piață angro mare care servește drept centru principal pentru distribuția alimentelor în regiunea Pereira.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.76673,
+                        4.807085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador",
+                  "text": "A panoramic viewpoint overlooking the African savanna and animal habitats within the Ukumarí Biopark.",
+                  "category": "natural",
+                  "coords": [
+                        -75.877384,
+                        4.775553
+                  ]
+            },
+            {
+                  "name": "Teatriño1",
+                  "text": "A small outdoor stage used for educational presentations and cultural shows within the park.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.810864,
+                        4.801931
+                  ]
+            },
+            {
+                  "name": "Aldea masai",
+                  "text": "A themed attraction recreating a traditional Maasai village within the park's African geographical zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.808795,
+                        4.80094
+                  ]
+            },
+            {
+                  "name": "Module: Extinction is Forever",
+                  "text": "An interactive educational station focusing on biodiversity conservation and the prevention of animal extinction.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.810435,
+                        4.799389
+                  ]
+            },
+            {
+                  "name": "Club Campestre Pereira",
+                  "text": "A family-friendly recreation club featuring large swimming pools and various outdoor sporting facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.806736,
+                        4.801293
+                  ]
+            },
+            {
+                  "name": "Parque Consotá",
+                  "text": "A cultural and ecological park featuring replicas of indigenous Pre-Columbian dwellings and coffee-growing traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.807732,
+                        4.797038
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A local place of worship for the Jehovah's Witnesses community, located near the Ukumarí Biopark.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.89722,
+                        4.763046
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Claver",
+                  "text": "A Catholic parish church serving the residential community in the western districts of Pereira.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.905427,
+                        4.760687
+                  ]
+            },
+            {
+                  "name": "Parroquia San Vicente de Paul",
+                  "text": "A religious center dedicated to Saint Vincent de Paul, providing spiritual services to the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.902012,
+                        4.75182
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apostol",
+                  "text": "A neighborhood church serving the growing suburban areas between Pereira and the biopark.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.815581,
+                        4.807527
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel de Arcangel",
+                  "text": "A local parish church known for its welcoming community atmosphere and traditional religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.796498,
+                        4.811072
+                  ]
+            },
+            {
+                  "name": "Ara",
+                  "text": "A bustling local marketplace providing fresh produce and daily essentials to the surrounding community.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.817635,
+                        4.807021
+                  ]
+            },
+            {
+                  "name": "Central Mayorista de Alimentos Mercasa",
+                  "text": "A large wholesale market that serves as a central hub for food distribution in the Pereira region.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.76673,
+                        4.807085
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-RIS",
     coords: [-75.8309, 4.8021],
@@ -493,7 +7927,592 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "zoologico-de-cali-life-v2",
+    id: "zoologico-de-cali-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento a Sebastian de Belalcazar",
+                  "text": "Dieses 1937 eingeweihte Denkmal auf einem Hügel ehrt den Stadtgründer und bietet einen Panoramablick über Cali.",
+                  "category": "historical",
+                  "coords": [
+                        -76.545228,
+                        3.449231
+                  ]
+            },
+            {
+                  "name": "Caliwood",
+                  "text": "Kolumbiens erstes Kinomuseum zeigt eine faszinierende Sammlung historischer Projektoren und Filmplakate.",
+                  "category": "museum",
+                  "coords": [
+                        -76.547239,
+                        3.450423
+                  ]
+            },
+            {
+                  "name": "Flamencos",
+                  "text": "In dieser Anlage des Zoos von Cali können Besucher die leuchtend rosa Flamingos in ihrem Wassergehege beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.55719,
+                        3.447916
+                  ]
+            },
+            {
+                  "name": "Danta",
+                  "text": "Dieses Gehege beherbergt den Flachlandtapir, ein charakteristisches Säugetier der kolumbianischen Regenwälder.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.559733,
+                        3.449087
+                  ]
+            },
+            {
+                  "name": "Teatro Esquina Latina",
+                  "text": "Ein renommiertes freies Theater, das für seine experimentellen Stücke und sozialen Projekte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.547005,
+                        3.436244
+                  ]
+            },
+            {
+                  "name": "Aviario",
+                  "text": "Eine große Voliere, die eine Vielfalt an exotischen Vögeln aus verschiedenen Ökosystemen Kolumbiens beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.558236,
+                        3.448031
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre Los Cristales",
+                  "text": "Dieses große Freilichttheater am Fuße eines Hügels ist ein wichtiger Ort für Konzerte und Tanzfestivals.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.546507,
+                        3.444787
+                  ]
+            },
+            {
+                  "name": "Teatrino de la I.E. José Holguín Garcés",
+                  "text": "Ein kleineres schulinternes Theater, das für lokale Aufführungen und kulturelle Bildungsveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.567242,
+                        3.451961
+                  ]
+            },
+            {
+                  "name": "Casa Obeso Mejìa",
+                  "text": "Dieses direkt am Cali-Fluss gelegene Kulturzentrum präsentiert wechselnde Kunstausstellungen in einem historischen Haus.",
+                  "category": "museum",
+                  "coords": [
+                        -76.545349,
+                        3.451397
+                  ]
+            },
+            {
+                  "name": "Museo La Tertulia",
+                  "text": "Das Museum für moderne Kunst ist berühmt für seine Sammlung von Grafiken und seine markante Architektur am Fluss.",
+                  "category": "museum",
+                  "coords": [
+                        -76.545296,
+                        3.450205
+                  ]
+            },
+            {
+                  "name": "Parque Panamericano",
+                  "text": "Dieser für die Panamerikanischen Spiele 1971 errichtete Park ist bekannt für seine monumentalen Fahnenmasten.",
+                  "category": "historical",
+                  "coords": [
+                        -76.542415,
+                        3.431676
+                  ]
+            },
+            {
+                  "name": "Iglesia san Ignacio de Loyola",
+                  "text": "Eine von Jesuiten geführte Kirche, die durch ihre moderne Architektur und ihre Bildungsarbeit in der Gemeinde auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.570371,
+                        3.453498
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista Getsemani",
+                  "text": "Ein Ort der Andacht für die adventistische Gemeinde, der für seine ruhige Atmosphäre und Choräle bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -76.572833,
+                        3.453186
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora Del Carmen",
+                  "text": "Diese charmante Kapelle ist der Jungfrau von Carmen gewidmet und ein beliebter Ort für lokale Hochzeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.576579,
+                        3.493149
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de colombia",
+                  "text": "Ein regionales Zentrum der Vereinigten Pfingstkirche, das für seine lebhaften Gottesdienste in Cali bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.554095,
+                        3.445289
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose",
+                  "text": "Eine friedliche christliche Kapelle, die dem Heiligen Josef gewidmet ist und zur stillen Einkehr einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.608048,
+                        3.520218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento a Sebastian de Belalcazar",
+                  "text": "Az 1937-ben felavatott dombtetői emlékmű a város alapítója előtt tiszteleg, és panorámás kilátást nyújt Calira.",
+                  "category": "historical",
+                  "coords": [
+                        -76.545228,
+                        3.449231
+                  ]
+            },
+            {
+                  "name": "Caliwood",
+                  "text": "Kolumbia első mozimumzeuma történelmi projektorok és filmplakátok lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -76.547239,
+                        3.450423
+                  ]
+            },
+            {
+                  "name": "Flamencos",
+                  "text": "A Cali Állatkert ezen részén a látogatók élénk rózsaszín flamingókat láthatnak vizes kifutójukban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.55719,
+                        3.447916
+                  ]
+            },
+            {
+                  "name": "Danta",
+                  "text": "Ez a kifutó a közönséges tapírnak ad otthont, amely a kolumbiai esőerdők jellegzetes emlőse.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.559733,
+                        3.449087
+                  ]
+            },
+            {
+                  "name": "Teatro Esquina Latina",
+                  "text": "Egy neves független színház, amely kísérleti darabjairól és társadalmi projektjeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.547005,
+                        3.436244
+                  ]
+            },
+            {
+                  "name": "Aviario",
+                  "text": "Egy hatalmas madárház, amely Kolumbia különböző ökoszisztémáiból származó egzotikus madaraknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.558236,
+                        3.448031
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre Los Cristales",
+                  "text": "Ez a domb lábánál fekvő nagy szabadtéri színpad koncertek és táncfesztiválok fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.546507,
+                        3.444787
+                  ]
+            },
+            {
+                  "name": "Teatrino de la I.E. José Holguín Garcés",
+                  "text": "Egy kisebb iskolai színházterem, amelyet helyi előadásokra és kulturális oktatási eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.567242,
+                        3.451961
+                  ]
+            },
+            {
+                  "name": "Casa Obeso Mejìa",
+                  "text": "Ez a közvetlenül a Cali-folyó partján álló kulturális központ időszaki művészeti kiállításoknak ad otthont egy patinás épületben.",
+                  "category": "museum",
+                  "coords": [
+                        -76.545349,
+                        3.451397
+                  ]
+            },
+            {
+                  "name": "Museo La Tertulia",
+                  "text": "A modern művészeti múzeum grafikai gyűjteményéről és jellegzetes folyóparti építészetéről híres.",
+                  "category": "museum",
+                  "coords": [
+                        -76.545296,
+                        3.450205
+                  ]
+            },
+            {
+                  "name": "Parque Panamericano",
+                  "text": "Az 1971-es Pánamerikai Játékokra épült park monumentális zászlórúdjairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -76.542415,
+                        3.431676
+                  ]
+            },
+            {
+                  "name": "Iglesia san Ignacio de Loyola",
+                  "text": "Jezsuiták által vezetett templom, amely modern építészetével és közösségi oktatási tevékenységével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.570371,
+                        3.453498
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista Getsemani",
+                  "text": "Az adventista közösség áhítati helye, amely nyugodt légköréről és kórusműveiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -76.572833,
+                        3.453186
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora Del Carmen",
+                  "text": "Ez a bájos kápolna a Kármel-hegyi Boldogasszony tiszteletére épült, és a helyi esküvők kedvelt helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.576579,
+                        3.493149
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de colombia",
+                  "text": "Az Egyesült Pünkösdista Egyház regionális központja, amely élénk istentiszteleteiről ismert Caliban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.554095,
+                        3.445289
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose",
+                  "text": "Szent Józsefnek szentelt békés keresztény kápolna, amely csendes elvonulásra hív.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.608048,
+                        3.520218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento a Sebastian de Belalcazar",
+                  "text": "Acest monument situat pe deal, inaugurat în 1937, îl onorează pe fondatorul orașului și oferă o vedere panoramică asupra Cali.",
+                  "category": "historical",
+                  "coords": [
+                        -76.545228,
+                        3.449231
+                  ]
+            },
+            {
+                  "name": "Caliwood",
+                  "text": "Primul muzeu al cinematografiei din Columbia expune o colecție fascinantă de proiectoare istorice și afișe de film.",
+                  "category": "museum",
+                  "coords": [
+                        -76.547239,
+                        3.450423
+                  ]
+            },
+            {
+                  "name": "Flamencos",
+                  "text": "În această secțiune a grădinii zoologice din Cali, vizitatorii pot observa flamingi roz în habitatul lor acvatic.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.55719,
+                        3.447916
+                  ]
+            },
+            {
+                  "name": "Danta",
+                  "text": "Această incintă adăpostește tapirul de câmpie, un mamifer nativ caracteristic pădurilor tropicale columbiene.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.559733,
+                        3.449087
+                  ]
+            },
+            {
+                  "name": "Teatro Esquina Latina",
+                  "text": "Un teatru independent renumit, cunoscut pentru piesele sale experimentale și proiectele sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.547005,
+                        3.436244
+                  ]
+            },
+            {
+                  "name": "Aviario",
+                  "text": "O volieră mare care găzduiește o varietate de păsări exotice din diverse ecosisteme ale Columbiei.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.558236,
+                        3.448031
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre Los Cristales",
+                  "text": "Acest mare teatru în aer liber de la baza dealului este un loc important pentru concerte și festivaluri de dans.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.546507,
+                        3.444787
+                  ]
+            },
+            {
+                  "name": "Teatrino de la I.E. José Holguín Garcés",
+                  "text": "Un amfiteatru școlar mai mic utilizat pentru spectacole locale și evenimente culturale educaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.567242,
+                        3.451961
+                  ]
+            },
+            {
+                  "name": "Casa Obeso Mejìa",
+                  "text": "Situată chiar pe malul râului Cali, această casă culturală găzduiește expoziții de artă rotative într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -76.545349,
+                        3.451397
+                  ]
+            },
+            {
+                  "name": "Museo La Tertulia",
+                  "text": "Muzeul de artă modernă este faimos pentru colecția sa de grafică și arhitectura sa distinctivă de pe malul râului.",
+                  "category": "museum",
+                  "coords": [
+                        -76.545296,
+                        3.450205
+                  ]
+            },
+            {
+                  "name": "Parque Panamericano",
+                  "text": "Construit pentru Jocurile Panamericane din 1971, acest parc este cunoscut pentru catargele sale monumentale pentru steaguri.",
+                  "category": "historical",
+                  "coords": [
+                        -76.542415,
+                        3.431676
+                  ]
+            },
+            {
+                  "name": "Iglesia san Ignacio de Loyola",
+                  "text": "O biserică administrată de iezuiți, care se remarcă prin arhitectura sa modernă și activitatea educațională în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.570371,
+                        3.453498
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista Getsemani",
+                  "text": "Un loc de rugăciune pentru comunitatea adventistă, cunoscut pentru atmosfera sa liniștită și corurile sale.",
+                  "category": "religious",
+                  "coords": [
+                        -76.572833,
+                        3.453186
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora Del Carmen",
+                  "text": "Această capelă fermecătoare este dedicată Fecioarei de Carmen și este un loc popular pentru nunțile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.576579,
+                        3.493149
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de colombia",
+                  "text": "Un centru regional al Bisericii Penticostale Unite, cunoscut pentru slujbele sale pline de viață din Cali.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.554095,
+                        3.445289
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose",
+                  "text": "O capelă creștină liniștită dedicată Sfântului Iosif, care invită la reculegere tăcută.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.608048,
+                        3.520218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento a Sebastian de Belalcazar",
+                  "text": "Inaugurated in 1937, this hilltop bronze statue honors the city's founder and serves as Cali's most famous viewpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -76.545228,
+                        3.449231
+                  ]
+            },
+            {
+                  "name": "Caliwood",
+                  "text": "As Colombia's first cinematography museum, it showcases a vast collection of vintage projectors and film memorabilia.",
+                  "category": "museum",
+                  "coords": [
+                        -76.547239,
+                        3.450423
+                  ]
+            },
+            {
+                  "name": "Flamencos",
+                  "text": "Located within the Cali Zoo, this exhibit features a colony of vibrant pink flamingos in a tropical aquatic setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.55719,
+                        3.447916
+                  ]
+            },
+            {
+                  "name": "Danta",
+                  "text": "This zoo exhibit is home to the tapir, a unique snout-nosed mammal native to the South American rainforests.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.559733,
+                        3.449087
+                  ]
+            },
+            {
+                  "name": "Teatro Esquina Latina",
+                  "text": "A prestigious independent theatre venue recognized for its experimental productions and social cultural projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.547005,
+                        3.436244
+                  ]
+            },
+            {
+                  "name": "Aviario",
+                  "text": "A large walk-through aviary housing a diverse array of exotic birds from Colombia's varied climate zones.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.558236,
+                        3.448031
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre Los Cristales",
+                  "text": "An iconic open-air amphitheater nestled at the foot of a hill, hosting major concerts and cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.546507,
+                        3.444787
+                  ]
+            },
+            {
+                  "name": "Teatrino de la I.E. José Holguín Garcés",
+                  "text": "A small institutional theatre space used for community performances and local educational cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.567242,
+                        3.451961
+                  ]
+            },
+            {
+                  "name": "Casa Obeso Mejìa",
+                  "text": "Located on the banks of the Cali River, this cultural house hosts contemporary art exhibitions in a historic setting.",
+                  "category": "museum",
+                  "coords": [
+                        -76.545349,
+                        3.451397
+                  ]
+            },
+            {
+                  "name": "Museo La Tertulia",
+                  "text": "A premier modern art museum renowned for its vast collection of graphic arts and its striking riverside campus.",
+                  "category": "museum",
+                  "coords": [
+                        -76.545296,
+                        3.450205
+                  ]
+            },
+            {
+                  "name": "Parque Panamericano",
+                  "text": "Built for the 1971 Pan American Games, this landmark park is famous for its massive flag displays and public gatherings.",
+                  "category": "historical",
+                  "coords": [
+                        -76.542415,
+                        3.431676
+                  ]
+            },
+            {
+                  "name": "Iglesia san Ignacio de Loyola",
+                  "text": "A Jesuit-led church known for its contemporary architectural style and its strong focus on community education.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.570371,
+                        3.453498
+                  ]
+            },
+            {
+                  "name": "Gethsemane Adventist Church",
+                  "text": "A place of worship for the local Adventist congregation, offering a serene environment and choral music services.",
+                  "category": "religious",
+                  "coords": [
+                        -76.572833,
+                        3.453186
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora Del Carmen",
+                  "text": "A charming chapel dedicated to Our Lady of Mount Carmel, frequently chosen by locals for wedding ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.576579,
+                        3.493149
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de colombia",
+                  "text": "A regional headquarters for the United Pentecostal Church, known for its spirited worship services in Cali.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.554095,
+                        3.445289
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose",
+                  "text": "A peaceful Christian chapel dedicated to St. Joseph, providing a quiet space for prayer and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.608048,
+                        3.520218
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-VAC",
     coords: [-76.5567, 3.4478],
@@ -542,7 +8561,268 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "aviario-nacional-colombia-life-v2",
+    id: "aviario-nacional-colombia-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona de Buceo 2",
+                  "text": "Ein tropisches Unterwasserrevier mit farbenfrohen Korallenriffen, das ideal zum Schnorcheln und Beobachten der Meeresfauna ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.622816,
+                        10.251871
+                  ]
+            },
+            {
+                  "name": "Zona de Buceo 1",
+                  "text": "Dieses Tauchgebiet in Küstennähe bietet klare Sicht auf die vielfältigen Korallenformationen des Karibischen Meeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.621584,
+                        10.252805
+                  ]
+            },
+            {
+                  "name": "Aviario Nacional de Colombia",
+                  "text": "Eine der größten Volieren Amerikas mit Hunderten von Vogelarten in eindrucksvollen, begehbaren tropischen Lebensräumen.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.606441,
+                        10.208775
+                  ]
+            },
+            {
+                  "name": "Playa La Ceiba",
+                  "text": "Ein ruhiger tropischer Strand auf der Halbinsel Barú, der für seinen feinen weißen Sand und das klare türkisfarbene Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.648758,
+                        10.177347
+                  ]
+            },
+            {
+                  "name": "Cigueñas y Garzas",
+                  "text": "Ein spezialisierter Feuchtgebiets-Lebensraum in der Voliere, in dem verschiedene Storchen- und Reiherarten aus nächster Nähe zu sehen sind.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.605318,
+                        10.207427
+                  ]
+            },
+            {
+                  "name": "Playa Agua Azul",
+                  "text": "Ein abgelegener Küstenabschnitt auf der Isla Barú, der eine friedliche Atmosphäre abseits der touristischen Massen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.657201,
+                        10.1698
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Ein berühmter Strand auf der Halbinsel Barú, der für seinen strahlend weißen Sand und das leuchtend blaue Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.610355,
+                        10.221526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona de Buceo 2",
+                  "text": "Trópusi vízalatti helyszín vibráló korallzátonyokkal, amely ideális búvárkodáshoz és a tengeri élővilág megfigyeléséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.622816,
+                        10.251871
+                  ]
+            },
+            {
+                  "name": "Zona de Buceo 1",
+                  "text": "Ez a partközeli búvárhely tiszta rálátást nyújt a Karib-tenger változatos korallképződményeire.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.621584,
+                        10.252805
+                  ]
+            },
+            {
+                  "name": "Aviario Nacional de Colombia",
+                  "text": "Amerika egyik legnagyobb madárháza, ahol több száz madárfaj látható természetes trópusi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.606441,
+                        10.208775
+                  ]
+            },
+            {
+                  "name": "Playa La Ceiba",
+                  "text": "Nyugodt trópusi strand a Barú-félszigeten, amely finom fehér homokjáról és tiszta türkizkék vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.648758,
+                        10.177347
+                  ]
+            },
+            {
+                  "name": "Cigueñas y Garzas",
+                  "text": "Speciális vizes élőhely a madárházban, ahol különböző gólya- és kócsagfajok láthatók közelről.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.605318,
+                        10.207427
+                  ]
+            },
+            {
+                  "name": "Playa Agua Azul",
+                  "text": "Elszigetelt tengerparti szakasz Isla Barú szigetén, amely békés hangulatot kínál távol a turistaáradattól.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.657201,
+                        10.1698
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Híres strand a Barú-félszigeten, amely vakítóan fehér homokjáról és ragyogó kék vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.610355,
+                        10.221526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona de Buceo 2",
+                  "text": "Un sit subacvatic tropical cu recife de corali vibrante, ideal pentru snorkeling și observarea vieții marine.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.622816,
+                        10.251871
+                  ]
+            },
+            {
+                  "name": "Zona de Buceo 1",
+                  "text": "Această zonă de scufundări de coastă oferă o vizibilitate clară asupra formațiunilor diverse de corali din Marea Caraibilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.621584,
+                        10.252805
+                  ]
+            },
+            {
+                  "name": "Aviario Nacional de Colombia",
+                  "text": "Una dintre cele mai mari aviarii din America, adăpostind sute de specii de păsări în habitate tropicale imersive.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.606441,
+                        10.208775
+                  ]
+            },
+            {
+                  "name": "Playa La Ceiba",
+                  "text": "O plajă tropicală liniștită pe peninsula Barú, cunoscută pentru nisipul alb fin și apele turcoaz clare.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.648758,
+                        10.177347
+                  ]
+            },
+            {
+                  "name": "Cigueñas y Garzas",
+                  "text": "Un habitat specializat de zonă umedă din cadrul aviariului, unde pot fi văzute de aproape diverse specii de berze și stârci.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.605318,
+                        10.207427
+                  ]
+            },
+            {
+                  "name": "Playa Agua Azul",
+                  "text": "O porțiune de coastă retrasă pe Isla Barú, care oferă o atmosferă liniștită, departe de mulțimile de turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.657201,
+                        10.1698
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "O plajă celebră pe peninsula Barú, cunoscută pentru nisipul său alb strălucitor și apa albastră vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.610355,
+                        10.221526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona de Buceo 2",
+                  "text": "A tropical underwater site featuring vibrant coral reefs ideal for snorkeling and observing marine biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.622816,
+                        10.251871
+                  ]
+            },
+            {
+                  "name": "Zona de Buceo 1",
+                  "text": "This coastal diving area offers clear visibility of the Caribbean Sea's diverse coral formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.621584,
+                        10.252805
+                  ]
+            },
+            {
+                  "name": "Aviario Nacional de Colombia",
+                  "text": "One of the largest aviaries in the Americas, featuring hundreds of bird species in immersive walk-through habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.606441,
+                        10.208775
+                  ]
+            },
+            {
+                  "name": "Playa La Ceiba",
+                  "text": "A serene tropical beach on the Barú peninsula known for its fine white sand and clear turquoise waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.648758,
+                        10.177347
+                  ]
+            },
+            {
+                  "name": "Cigueñas y Garzas",
+                  "text": "A specialized wetland habitat within the aviary where various species of storks and herons can be seen at close range.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.605318,
+                        10.207427
+                  ]
+            },
+            {
+                  "name": "Playa Agua Azul",
+                  "text": "A secluded coastal stretch on Isla Barú offering a peaceful atmosphere away from the main tourist crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.657201,
+                        10.1698
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "A famous beach on the Barú peninsula renowned for its brilliant white sand and vibrant blue waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.610355,
+                        10.221526
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-BOL",
     coords: [-75.5947, 10.2195],
@@ -591,7 +8871,556 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "acuario-del-rodadero-life-v2",
+    id: "acuario-del-rodadero-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ziruma",
+                  "text": "Dieser erhöhte Aussichtspunkt an der Straße bietet einen Panoramablick auf die Küste und die Skyline von El Rodadero.",
+                  "category": "natural",
+                  "coords": [
+                        -74.214491,
+                        11.215922
+                  ]
+            },
+            {
+                  "name": "Parque público",
+                  "text": "Ein kleiner öffentlicher Park am Meer, der einen entspannten Blick auf das Karibische Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -74.216886,
+                        11.222709
+                  ]
+            },
+            {
+                  "name": "Reserva natural de iguanas",
+                  "text": "Ein geschütztes Gebiet im Stadtgebiet, in dem man grüne Leguane in ihrer natürlichen Umgebung beobachten kann.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.226814,
+                        11.208868
+                  ]
+            },
+            {
+                  "name": "Centro Internacional del Rodadero",
+                  "text": "Ein Kulturzentrum in El Rodadero, das Ausstellungen zur lokalen Geschichte und Meeresbiologie zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -74.225711,
+                        11.20546
+                  ]
+            },
+            {
+                  "name": "Playa Inca Inca",
+                  "text": "Ein ruhiger Sandstrand in einer geschützten Bucht, der über einen Wanderweg über den Ziruma-Hügel erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.233771,
+                        11.216237
+                  ]
+            },
+            {
+                  "name": "El Rodadero",
+                  "text": "Der bekannteste Touristenort von Santa Marta, geprägt von hohen Hotels und einem breiten Sandstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.228213,
+                        11.202348
+                  ]
+            },
+            {
+                  "name": "Playa Salguero",
+                  "text": "Ein langer, ruhigerer Sandstrand südlich des Hauptzentrums von El Rodadero, ideal für Spaziergänge.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.234579,
+                        11.186966
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Dieser weiße Sandstrand mit ruhigem Wasser ist nur mit dem Boot von El Rodadero aus erreichbar.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.239008,
+                        11.21922
+                  ]
+            },
+            {
+                  "name": "Acuario y Museo del Mar del Rodadero",
+                  "text": "Dieses per Boot erreichbare Aquarium zeigt Delfinshows und Meeresbewohner in Becken direkt an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.23729,
+                        11.216949
+                  ]
+            },
+            {
+                  "name": "Playa Lipe",
+                  "text": "Ein kleiner, oft windiger Strand in der Nähe des Hafengebiets, der von Einheimischen besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.226863,
+                        11.228251
+                  ]
+            },
+            {
+                  "name": "Castillo de San Fernando",
+                  "text": "Diese 1725 errichtete Festung diente dem Schutz der Bucht vor Piratenangriffen.",
+                  "category": "castle",
+                  "coords": [
+                        -74.224422,
+                        11.231346
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas, der für Gottesdienste und religiöse Treffen in der Nähe der Küste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -74.22687,
+                        11.192211
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Centro Bíblico Rodadero",
+                  "text": "Ein biblisches Zentrum der apostolischen Kirche im touristischen Herzen von El Rodadero.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.225653,
+                        11.200954
+                  ]
+            },
+            {
+                  "name": "Parroquia San Jacinto",
+                  "text": "Katholische Pfarrkirche im historischen Zentrum des Stadtteils Gaira.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.22256,
+                        11.189517
+                  ]
+            },
+            {
+                  "name": "Mercafruver",
+                  "text": "Lebhafter lokaler Markt, der auf frische tropische Früchte und Gemüse spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.225894,
+                        11.191891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ziruma",
+                  "text": "Ez az útmenti magaslati kilátópont panorámás kilátást nyújt a tengerpartra és El Rodadero sziluettjére.",
+                  "category": "natural",
+                  "coords": [
+                        -74.214491,
+                        11.215922
+                  ]
+            },
+            {
+                  "name": "Parque público",
+                  "text": "Kicsi tengerparti közpark, amely pihentető kilátást nyújt a Karib-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        -74.216886,
+                        11.222709
+                  ]
+            },
+            {
+                  "name": "Reserva natural de iguanas",
+                  "text": "Városi területen lévő védett övezet, ahol zöld leguánokat lehet megfigyelni természetes környezetükben.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.226814,
+                        11.208868
+                  ]
+            },
+            {
+                  "name": "Centro Internacional del Rodadero",
+                  "text": "Kulturális központ El Rodaderóban, amely a helyi történelmet és tengerbiológiát bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -74.225711,
+                        11.20546
+                  ]
+            },
+            {
+                  "name": "Playa Inca Inca",
+                  "text": "Csendes homokos strand egy védett öbölben, amely a Ziruma-dombon átvezető gyalogösvényen érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.233771,
+                        11.216237
+                  ]
+            },
+            {
+                  "name": "El Rodadero",
+                  "text": "Santa Marta legismertebb turisztikai központja, amelyet magas szállodák és széles homokos strand jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.228213,
+                        11.202348
+                  ]
+            },
+            {
+                  "name": "Playa Salguero",
+                  "text": "Hosszú, csendesebb homokos strand El Rodadero központjától délre, ideális sétákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.234579,
+                        11.186966
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Ez a nyugodt vizű, fehér homokos strand csak hajóval érhető el El Rodaderóból.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.239008,
+                        11.21922
+                  ]
+            },
+            {
+                  "name": "Acuario y Museo del Mar del Rodadero",
+                  "text": "Ez a hajóval megközelíthető akvárium delfinshow-kat és tengeri élőlényeket mutat be közvetlenül a parton kialakított medencékben.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.23729,
+                        11.216949
+                  ]
+            },
+            {
+                  "name": "Playa Lipe",
+                  "text": "Kicsi, gyakran szeles strand a kikötő közelében, amelyet főleg helyiek látogatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.226863,
+                        11.228251
+                  ]
+            },
+            {
+                  "name": "Castillo de San Fernando",
+                  "text": "Ezt az 1725-ben épült erődöt az öböl kalóztámadások elleni védelmére emelték.",
+                  "category": "castle",
+                  "coords": [
+                        -74.224422,
+                        11.231346
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi királyságterme, amelyet istentiszteletekre és vallási találkozókra használnak a part közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -74.22687,
+                        11.192211
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Centro Bíblico Rodadero",
+                  "text": "Az apostoli egyház bibliai központja El Rodadero turisztikai szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.225653,
+                        11.200954
+                  ]
+            },
+            {
+                  "name": "Parroquia San Jacinto",
+                  "text": "Katolikus plébániatemplom Gaira negyed történelmi központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.22256,
+                        11.189517
+                  ]
+            },
+            {
+                  "name": "Mercafruver",
+                  "text": "Élénk helyi piac, amely friss trópusi gyümölcsökre és zöldségekre specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.225894,
+                        11.191891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ziruma",
+                  "text": "Acest punct de belvedere ridicat de la marginea drumului oferit o vedere panoramică asupra coastei și a orizontului din El Rodadero.",
+                  "category": "natural",
+                  "coords": [
+                        -74.214491,
+                        11.215922
+                  ]
+            },
+            {
+                  "name": "Parque público",
+                  "text": "Un mic parc public la malul mării, care oferă o vedere relaxantă asupra Mării Caraibilor.",
+                  "category": "natural",
+                  "coords": [
+                        -74.216886,
+                        11.222709
+                  ]
+            },
+            {
+                  "name": "Reserva natural de iguanas",
+                  "text": "O zonă protejată din mediul urban unde pot fi observate iguane verzi în mediul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.226814,
+                        11.208868
+                  ]
+            },
+            {
+                  "name": "Centro Internacional del Rodadero",
+                  "text": "Un centru cultural în El Rodadero care găzduiește expoziții despre istoria locală și biologia marină.",
+                  "category": "museum",
+                  "coords": [
+                        -74.225711,
+                        11.20546
+                  ]
+            },
+            {
+                  "name": "Playa Inca Inca",
+                  "text": "O plajă de nisip liniștită într-un golf adăpostit, accesibilă printr-o potecă de drumeție peste dealul Ziruma.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.233771,
+                        11.216237
+                  ]
+            },
+            {
+                  "name": "El Rodadero",
+                  "text": "Cea mai cunoscută stațiune turistică din Santa Marta, caracterizată prin hoteluri înalte și o plajă largă de nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.228213,
+                        11.202348
+                  ]
+            },
+            {
+                  "name": "Playa Salguero",
+                  "text": "O plajă de nisip lungă și mai liniștită, situată la sud de centrul principal din El Rodadero, ideală pentru plimbări.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.234579,
+                        11.186966
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Această plajă cu nisip alb și ape calme este accesibilă doar cu barca din El Rodadero.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.239008,
+                        11.21922
+                  ]
+            },
+            {
+                  "name": "Acuario y Museo del Mar del Rodadero",
+                  "text": "Acest acvariu accesibil cu barca oferă spectacole cu delfini și prezintă animale marine în bazine situate direct pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.23729,
+                        11.216949
+                  ]
+            },
+            {
+                  "name": "Playa Lipe",
+                  "text": "O plajă mică, adesea vântoasă, situată lângă zona portuară, frecventată de localnici.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.226863,
+                        11.228251
+                  ]
+            },
+            {
+                  "name": "Castillo de San Fernando",
+                  "text": "Această fortăreață construită în 1725 a fost ridicată pentru a proteja golful de atacurile piraților.",
+                  "category": "castle",
+                  "coords": [
+                        -74.224422,
+                        11.231346
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova, folosită pentru slujbe și întâlniri religioase lângă coastă.",
+                  "category": "religious",
+                  "coords": [
+                        -74.22687,
+                        11.192211
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Centro Bíblico Rodadero",
+                  "text": "Un centru biblic al bisericii apostolice situat în inima turistică a stațiunii El Rodadero.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.225653,
+                        11.200954
+                  ]
+            },
+            {
+                  "name": "Parroquia San Jacinto",
+                  "text": "Biserică parohială catolică situată în centrul istoric al cartierului Gaira.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.22256,
+                        11.189517
+                  ]
+            },
+            {
+                  "name": "Mercafruver",
+                  "text": "Piață locală plină de viață, specializată în fructe tropicale proaspete și legume.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.225894,
+                        11.191891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ziruma",
+                  "text": "This elevated roadside viewpoint offers a panoramic view of the coast and the El Rodadero skyline.",
+                  "category": "natural",
+                  "coords": [
+                        -74.214491,
+                        11.215922
+                  ]
+            },
+            {
+                  "name": "Parque público",
+                  "text": "A small seaside public park offering a relaxing view of the Caribbean Sea.",
+                  "category": "natural",
+                  "coords": [
+                        -74.216886,
+                        11.222709
+                  ]
+            },
+            {
+                  "name": "Reserva natural de iguanas",
+                  "text": "A protected urban green space where green iguanas can be observed in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.226814,
+                        11.208868
+                  ]
+            },
+            {
+                  "name": "Centro Internacional del Rodadero",
+                  "text": "A cultural center in El Rodadero hosting exhibitions on local history and marine biology.",
+                  "category": "museum",
+                  "coords": [
+                        -74.225711,
+                        11.20546
+                  ]
+            },
+            {
+                  "name": "Playa Inca Inca",
+                  "text": "A quiet sandy beach in a sheltered cove, accessible via a hiking trail over the Ziruma hill.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.233771,
+                        11.216237
+                  ]
+            },
+            {
+                  "name": "El Rodadero",
+                  "text": "Santa Marta's most famous tourist resort area, characterized by high-rise hotels and a wide sandy beach.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.228213,
+                        11.202348
+                  ]
+            },
+            {
+                  "name": "Playa Salguero",
+                  "text": "A long, quieter sandy beach south of the main El Rodadero strip, ideal for long walks.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.234579,
+                        11.186966
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "This white sand beach with calm waters is accessible only by boat from El Rodadero.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.239008,
+                        11.21922
+                  ]
+            },
+            {
+                  "name": "Rodadero Sea Aquarium and Museum",
+                  "text": "Accessible by boat, this aquarium features dolphin shows and marine life in pools right on the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.23729,
+                        11.216949
+                  ]
+            },
+            {
+                  "name": "Playa Lipe",
+                  "text": "A small, often windy beach near the port area, frequented by locals.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.226863,
+                        11.228251
+                  ]
+            },
+            {
+                  "name": "Castillo de San Fernando",
+                  "text": "Built in 1725, this fortress was constructed to protect the bay from pirate attacks.",
+                  "category": "castle",
+                  "coords": [
+                        -74.224422,
+                        11.231346
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses used for worship and religious meetings near the coast.",
+                  "category": "religious",
+                  "coords": [
+                        -74.22687,
+                        11.192211
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Centro Bíblico Rodadero",
+                  "text": "A biblical center of the apostolic church located in the tourist heart of El Rodadero.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.225653,
+                        11.200954
+                  ]
+            },
+            {
+                  "name": "Parroquia San Jacinto",
+                  "text": "Catholic parish church located in the historic center of the Gaira district.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.22256,
+                        11.189517
+                  ]
+            },
+            {
+                  "name": "Mercafruver",
+                  "text": "Lively local market specializing in fresh tropical fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.225894,
+                        11.191891
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-MAG",
     coords: [-74.2285, 11.2173],
@@ -640,7 +9469,376 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "oceanario-islas-del-rosario-life-v2",
+    id: "oceanario-islas-del-rosario-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Isla Arena",
+                  "text": "Ein Navigationsleuchtturm auf einer kleinen, sandigen Insel inmitten des kristallklaren Wassers des Rosario-Archipels.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.726922,
+                        10.144947
+                  ]
+            },
+            {
+                  "name": "Faro Isla del Tesoro",
+                  "text": "Dieser Leuchtturm auf der Isla del Tesoro leitet Schiffe durch die korallenreichen Gewässer des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.740622,
+                        10.235511
+                  ]
+            },
+            {
+                  "name": "PA'UE Beach Lounge",
+                  "text": "Ein schicker Strandclub auf der Isla Grande, der eine entspannte Atmosphäre mit Sonnenliegen und karibischen Cocktails bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.726103,
+                        10.182985
+                  ]
+            },
+            {
+                  "name": "Árbol mágico !",
+                  "text": "Ein uralter, gewaltiger Baum an einem ökologischen Pfad auf der Isla Grande, der die einheimische Flora der Insel zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.739942,
+                        10.179998
+                  ]
+            },
+            {
+                  "name": "Gente de Mar",
+                  "text": "Ein privater Resort-Strand auf der Isla Grande, der einen ruhigen Rückzugsort mit weißem Sand und ruhigem türkisfarbenem Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.724243,
+                        10.181157
+                  ]
+            },
+            {
+                  "name": "Playa Escondida",
+                  "text": "Eine abgeschiedene und ruhige Bucht auf den Rosario-Inseln, ideal für alle, die Privatsphäre suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.732104,
+                        10.177127
+                  ]
+            },
+            {
+                  "name": "Playa Libre",
+                  "text": "Ein beliebter öffentlicher Strand auf der Isla Grande, an dem Einheimische und Besucher die karibische Sonne genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.732492,
+                        10.181215
+                  ]
+            },
+            {
+                  "name": "Monumento a la Virgen",
+                  "text": "Ein religiöses Denkmal, das der Jungfrau Maria gewidmet ist und als Schutzpatronin für die lokalen Fischer und Seeleute steht.",
+                  "category": "historical",
+                  "coords": [
+                        -75.742054,
+                        10.176866
+                  ]
+            },
+            {
+                  "name": "La Playita",
+                  "text": "Ein charmanter kleiner Strandabschnitt, der sich perfekt für ein kurzes Bad im warmen karibischen Wasser eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.748096,
+                        10.181254
+                  ]
+            },
+            {
+                  "name": "Oceanario",
+                  "text": "Ein Freiluftaquarium im Meer, in dem Besucher Delfine, Haie und Meeresschildkröten in ihrem natürlichen Lebensraum sehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.7717,
+                        10.176985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Isla Arena",
+                  "text": "Navigációs világítótorony egy kis homokos szigeten, a Rosario-szigetcsoport kristálytiszta vizeinek közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.726922,
+                        10.144947
+                  ]
+            },
+            {
+                  "name": "Faro Isla del Tesoro",
+                  "text": "A Kincses-szigeten (Isla del Tesoro) található világítótorony vezeti át a hajókat a nemzeti park korallokban gazdag vizein.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.740622,
+                        10.235511
+                  ]
+            },
+            {
+                  "name": "PA'UE Beach Lounge",
+                  "text": "Elegáns strandklub az Isla Grande szigeten, amely nyugodt légkört kínál napozóágyakkal és karibi koktélokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.726103,
+                        10.182985
+                  ]
+            },
+            {
+                  "name": "Árbol mágico !",
+                  "text": "Egy ősi, hatalmas fa az Isla Grande ökológiai ösvényén, amely a sziget őshonos növényvilágát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.739942,
+                        10.179998
+                  ]
+            },
+            {
+                  "name": "Gente de Mar",
+                  "text": "Privát üdülőhelyi strand az Isla Grande szigeten, amely nyugodt menedéket kínál fehér homokkal és csendes türkizkék vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.724243,
+                        10.181157
+                  ]
+            },
+            {
+                  "name": "Playa Escondida",
+                  "text": "Eldugott és csendes strandöböl a Rosario-szigeteken, amely ideális a magányra vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.732104,
+                        10.177127
+                  ]
+            },
+            {
+                  "name": "Playa Libre",
+                  "text": "Népszerű nyilvános strand az Isla Grande szigeten, ahol a helyiek és a látogatók egyaránt élvezik a karibi napsütést.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.732492,
+                        10.181215
+                  ]
+            },
+            {
+                  "name": "Monumento a la Virgen",
+                  "text": "Szűz Máriának szentelt vallási emlékmű, amely a helyi halászok és tengerészek védelmezőjeként áll.",
+                  "category": "historical",
+                  "coords": [
+                        -75.742054,
+                        10.176866
+                  ]
+            },
+            {
+                  "name": "La Playita",
+                  "text": "Bájos kis strandrész, amely tökéletes egy gyors mártózáshoz a szigetcsoport meleg karibi vizében.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.748096,
+                        10.181254
+                  ]
+            },
+            {
+                  "name": "Oceanario",
+                  "text": "Nyílt tengeri akvárium, ahol a látogatók természetes környezetükben láthatnak delfineket, cápákat és tengeri teknősöket.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.7717,
+                        10.176985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Isla Arena",
+                  "text": "Un far de navigație situat pe o mică insulă nisipoasă, în mijlocul apelor cristaline ale arhipelagului Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.726922,
+                        10.144947
+                  ]
+            },
+            {
+                  "name": "Faro Isla del Tesoro",
+                  "text": "Situat pe Insula Comorii, acest far ghidează navele prin apele bogate în corali ale parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.740622,
+                        10.235511
+                  ]
+            },
+            {
+                  "name": "PA'UE Beach Lounge",
+                  "text": "Un club de plajă șic pe Isla Grande, oferind o atmosferă relaxată, cu șezlonguri și cocktailuri din Caraibe.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.726103,
+                        10.182985
+                  ]
+            },
+            {
+                  "name": "Árbol mágico !",
+                  "text": "Un arbore străvechi și masiv situat pe o potecă ecologică de pe Isla Grande, prezentând flora nativă a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.739942,
+                        10.179998
+                  ]
+            },
+            {
+                  "name": "Gente de Mar",
+                  "text": "O plajă privată de stațiune pe Isla Grande, oferind o evadare liniștită, cu nisip alb și ape turcoaz calme.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.724243,
+                        10.181157
+                  ]
+            },
+            {
+                  "name": "Playa Escondida",
+                  "text": "Un golf de plajă retras și liniștit, ascuns în Insulele Rosario, ideal pentru cei care caută intimitate.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.732104,
+                        10.177127
+                  ]
+            },
+            {
+                  "name": "Playa Libre",
+                  "text": "O plajă publică populară pe Isla Grande, unde localnicii și vizitatorii se bucură de soarele și marea Caraibelor.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.732492,
+                        10.181215
+                  ]
+            },
+            {
+                  "name": "Monumento a la Virgen",
+                  "text": "Un monument religios dedicat Fecioarei Maria, care stă ca o protectoare pentru pescarii și marinarii locali.",
+                  "category": "historical",
+                  "coords": [
+                        -75.742054,
+                        10.176866
+                  ]
+            },
+            {
+                  "name": "La Playita",
+                  "text": "O mică zonă de plajă fermecătoare, perfectă pentru o baie rapidă în apele calde ale Caraibelor din arhipelag.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.748096,
+                        10.181254
+                  ]
+            },
+            {
+                  "name": "Oceanario",
+                  "text": "Un acvariu în marea deschisă unde vizitatorii pot vedea delfini, rechini și țestoase marine în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.7717,
+                        10.176985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro Isla Arena",
+                  "text": "A navigational lighthouse situated on a small, sandy islet within the crystal-clear waters of the Rosario archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.726922,
+                        10.144947
+                  ]
+            },
+            {
+                  "name": "Faro Isla del Tesoro",
+                  "text": "Located on Treasure Island, this lighthouse guides vessels through the coral-rich waters of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.740622,
+                        10.235511
+                  ]
+            },
+            {
+                  "name": "PA'UE Beach Lounge",
+                  "text": "A chic beach club on Isla Grande offering a relaxed atmosphere with sun loungers and Caribbean cocktails.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.726103,
+                        10.182985
+                  ]
+            },
+            {
+                  "name": "Mystic Tree!",
+                  "text": "An ancient, massive tree located on an ecological trail on Isla Grande, showcasing the island's native flora.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.739942,
+                        10.179998
+                  ]
+            },
+            {
+                  "name": "Gente de Mar",
+                  "text": "A private resort beach on Isla Grande offering a tranquil escape with white sand and calm turquoise waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.724243,
+                        10.181157
+                  ]
+            },
+            {
+                  "name": "Playa Escondida",
+                  "text": "A secluded and quiet beach cove tucked away in the Rosario Islands, ideal for those seeking privacy.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.732104,
+                        10.177127
+                  ]
+            },
+            {
+                  "name": "Playa Libre",
+                  "text": "A popular public beach on Isla Grande where locals and visitors enjoy the Caribbean sun and sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.732492,
+                        10.181215
+                  ]
+            },
+            {
+                  "name": "Monumento a la Virgen",
+                  "text": "A religious monument dedicated to the Virgin Mary, standing as a protector for the local fishermen and sailors.",
+                  "category": "historical",
+                  "coords": [
+                        -75.742054,
+                        10.176866
+                  ]
+            },
+            {
+                  "name": "La Playita",
+                  "text": "A charming little beach area perfect for a quick dip in the warm Caribbean waters of the archipelago.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.748096,
+                        10.181254
+                  ]
+            },
+            {
+                  "name": "Oceanario",
+                  "text": "An open-sea aquarium where visitors can see dolphins, sharks, and sea turtles in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.7717,
+                        10.176985
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-BOL",
     coords: [-75.7599, 10.1804],
@@ -689,7 +9887,160 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "santuario-los-flamencos-life-v2",
+    id: "santuario-los-flamencos-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Comedero pájaros",
+                  "text": "Eine Beobachtungsstation für Vögel im Schutzgebiet, an der Kolibris und andere tropische Arten aus nächster Nähe zu sehen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.076166,
+                        11.43641
+                  ]
+            },
+            {
+                  "name": "Tour de fauna y flora los flamencos",
+                  "text": "Geführte Touren durch die Lagunen des Schutzgebiets zur Beobachtung der rosa Flamingos in ihrem natürlichen Lebensraum.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.090533,
+                        11.428699
+                  ]
+            },
+            {
+                  "name": "Santuario de Fauna y Flora Los Flamencos",
+                  "text": "Naturschutzgebiet mit Küstenlagunen, in denen große Kolonien von Scharlachflamingos nach Nahrung suchen.",
+                  "category": "natural",
+                  "coords": [
+                        -73.119481,
+                        11.385087
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine schlichte lokale Kirche, die der Fischergemeinde von Camarones als geistliches Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        -73.063047,
+                        11.42383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Comedero pájaros",
+                  "text": "Madármegfigyelő állomás a rezervátumban, ahol kolibrik és más trópusi fajok láthatók közelről.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.076166,
+                        11.43641
+                  ]
+            },
+            {
+                  "name": "Tour de fauna y flora los flamencos",
+                  "text": "Vezetett túrák a rezervátum lagúnáiban, ahol rózsaszín flamingókat láthatunk természetes élőhelyükön.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.090533,
+                        11.428699
+                  ]
+            },
+            {
+                  "name": "Santuario de Fauna y Flora Los Flamencos",
+                  "text": "Természetvédelmi terület parti lagúnákkal, ahol karibi flamingók népes kolóniái táplálkoznak.",
+                  "category": "natural",
+                  "coords": [
+                        -73.119481,
+                        11.385087
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egyszerű helyi templom, amely Camarones halászközösségének hitéletét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -73.063047,
+                        11.42383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Comedero pájaros",
+                  "text": "O stație de observare a păsărilor în rezervație, unde colibri și alte specii tropicale pot fi văzute de aproape.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.076166,
+                        11.43641
+                  ]
+            },
+            {
+                  "name": "Tour de fauna y flora los flamencos",
+                  "text": "Tururi ghidate prin lagunele rezervației pentru a observa flamingo roz în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.090533,
+                        11.428699
+                  ]
+            },
+            {
+                  "name": "Santuario de Fauna y Flora Los Flamencos",
+                  "text": "Rezervație naturală cu lagune de coastă unde se hrănesc colonii mari de păsări flamingo.",
+                  "category": "natural",
+                  "coords": [
+                        -73.119481,
+                        11.385087
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O biserică locală simplă care deservește comunitatea de pescari din Camarones.",
+                  "category": "religious",
+                  "coords": [
+                        -73.063047,
+                        11.42383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Comedero pájaros",
+                  "text": "A bird-feeding station in the sanctuary where hummingbirds and other tropical species can be seen up close.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.076166,
+                        11.43641
+                  ]
+            },
+            {
+                  "name": "Tour de fauna y flora los flamencos",
+                  "text": "Guided tours through the sanctuary's lagoons to observe pink flamingos in their natural coastal habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.090533,
+                        11.428699
+                  ]
+            },
+            {
+                  "name": "Santuario de Fauna y Flora Los Flamencos",
+                  "text": "Nature reserve featuring coastal lagoons where large colonies of American flamingos feed.",
+                  "category": "natural",
+                  "coords": [
+                        -73.119481,
+                        11.385087
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A simple local church serving as the spiritual center for the fishing community of Camarones.",
+                  "category": "religious",
+                  "coords": [
+                        -73.063047,
+                        11.42383
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-LAG",
     coords: [-73.1163, 11.4172],
@@ -738,7 +10089,196 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "bioparque-los-ocarros-life-v2",
+    id: "bioparque-los-ocarros-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Flora de la Vida",
+                  "text": "Ein Gedenkmonument in der Nähe des Bioparks, das die reiche Artenvielfalt der kolumbianischen Orinoquía feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -73.574023,
+                        4.136105
+                  ]
+            },
+            {
+                  "name": "Los Ocarros",
+                  "text": "Ein pädagogischer zoologischer Garten, in dem Besucher einheimische Arten des Orinoco-Beckens in nachgebildeten natürlichen Lebensräumen beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.609088,
+                        4.185951
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Nueva Alianza",
+                  "text": "Eine einladende lokale Pfarrkirche, die in der Nähe des Bioparks religiöse Dienste und Unterstützung für die Gemeinde anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -73.570898,
+                        4.256809
+                  ]
+            },
+            {
+                  "name": "Parroquia Imaculada Concepción",
+                  "text": "Eine der Unbefleckten Empfängnis geweihte christliche Pfarrei, die als spiritueller Zufluchtsort für die umliegenden Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.566219,
+                        4.262501
+                  ]
+            },
+            {
+                  "name": "Piscina Talan Ueras",
+                  "text": "Ein öffentliches Schwimmbad, das den Bewohnern während des warmen regionalen Klimas eine erfrischende Auszeit bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.622152,
+                        4.178112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Flora de la Vida",
+                  "text": "A biopark közelében található emlékmű, amely a kolumbiai Orinoquía gazdag biológiai sokféleségét ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -73.574023,
+                        4.136105
+                  ]
+            },
+            {
+                  "name": "Los Ocarros",
+                  "text": "Oktatási zoológiai park, ahol a látogatók a bennszülött Orinoco-medence fajait figyelhetik meg újraalkotott természetes élőhelyükön.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.609088,
+                        4.185951
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Nueva Alianza",
+                  "text": "Barátságos helyi plébániatemplom, amely vallási szolgáltatásokat és közösségi támogatást nyújt a biopark közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -73.570898,
+                        4.256809
+                  ]
+            },
+            {
+                  "name": "Parroquia Imaculada Concepción",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt keresztény plébánia, amely a környező negyedek spirituális menedékeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.566219,
+                        4.262501
+                  ]
+            },
+            {
+                  "name": "Piscina Talan Ueras",
+                  "text": "Nyilvános uszoda, amely felfrissülést kínál a lakosoknak a meleg regionális éghajlat idején.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.622152,
+                        4.178112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Flora de la Vida",
+                  "text": "Un monument comemorativ în apropierea bioparcului, care celebrează bogata biodiversitate a regiunii columbiene Orinoquía.",
+                  "category": "historical",
+                  "coords": [
+                        -73.574023,
+                        4.136105
+                  ]
+            },
+            {
+                  "name": "Los Ocarros",
+                  "text": "Un parc zoologic educațional unde vizitatorii pot observa speciile native din bazinul Orinoco în habitate naturale recreate.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.609088,
+                        4.185951
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Nueva Alianza",
+                  "text": "O biserică parohială locală primitoare, care oferă servicii religioase și sprijin comunitar în apropierea bioparcului.",
+                  "category": "religious",
+                  "coords": [
+                        -73.570898,
+                        4.256809
+                  ]
+            },
+            {
+                  "name": "Parroquia Imaculada Concepción",
+                  "text": "O parohie creștină dedicată Imaculatei Concepții, acționând ca un refugiu spiritual pentru cartierele înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.566219,
+                        4.262501
+                  ]
+            },
+            {
+                  "name": "Piscina Talan Ueras",
+                  "text": "O piscină publică care oferă locuitorilor o evadare răcoritoare în timpul climatului cald regional.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.622152,
+                        4.178112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flora de la Vida",
+                  "text": "A commemorative monument near the biopark, celebrating the rich biodiversity of the Colombian Orinoquía.",
+                  "category": "historical",
+                  "coords": [
+                        -73.574023,
+                        4.136105
+                  ]
+            },
+            {
+                  "name": "Los Ocarros",
+                  "text": "An educational zoological park where visitors can observe native Orinoco basin species in recreated natural habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.609088,
+                        4.185951
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Nueva Alianza",
+                  "text": "A welcoming local parish church offering religious services and community support near the biopark.",
+                  "category": "religious",
+                  "coords": [
+                        -73.570898,
+                        4.256809
+                  ]
+            },
+            {
+                  "name": "Parroquia Imaculada Concepción",
+                  "text": "A Christian parish dedicated to the Immaculate Conception, acting as a spiritual haven for the surrounding neighborhoods.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.566219,
+                        4.262501
+                  ]
+            },
+            {
+                  "name": "Piscina Talan Ueras",
+                  "text": "A public swimming pool facility offering residents a refreshing escape during the warm regional climate.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.622152,
+                        4.178112
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-MET",
     coords: [-73.5937, 4.1802],
@@ -787,7 +10327,1240 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "zoologico-de-barranquilla-life-v2",
+    id: "zoologico-de-barranquilla-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoológico de Barranquilla",
+                  "text": "Ein historischer Zoo mit über 140 Arten, darunter die einheimische karibische Fauna und afrikanische Elefanten.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.798035,
+                        11.010996
+                  ]
+            },
+            {
+                  "name": "Galería Alejandro Obregón",
+                  "text": "Eine Kunstgalerie, die Werke des renommierten kolumbianisch-spanischen Malers Alejandro Obregón zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -74.798433,
+                        10.996484
+                  ]
+            },
+            {
+                  "name": "Monumento a la Cumbia",
+                  "text": "Eine beeindruckende Skulptur zur Feier der Cumbia, der traditionellen Musik und des Tanzes von Barranquilla.",
+                  "category": "historical",
+                  "coords": [
+                        -74.79965,
+                        10.985509
+                  ]
+            },
+            {
+                  "name": "General Santander",
+                  "text": "Eine Bronzestatue zu Ehren von General Santander, einer Schlüsselfigur der Unabhängigkeit Kolumbiens.",
+                  "category": "historical",
+                  "coords": [
+                        -74.795062,
+                        10.996171
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Freiluft-Amphitheater für kulturelle Aufführungen, Konzerte und öffentliche Veranstaltungen im Zoo- oder Parkbereich.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.799036,
+                        11.025773
+                  ]
+            },
+            {
+                  "name": "Concha acustica",
+                  "text": "Eine markante muschelförmige Freiluftbühne, die für eine optimale Akustik bei Musikaufführungen konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.81837,
+                        10.993841
+                  ]
+            },
+            {
+                  "name": "Semillitas de Fe",
+                  "text": "Ein kleiner Ort der Andacht, der sich auf die religiöse Erziehung von Kindern und familienzentrierte Aktivitäten konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        -74.809582,
+                        10.989017
+                  ]
+            },
+            {
+                  "name": "Iglesia Avivamiento",
+                  "text": "Eine christliche Erweckungskirche, die für ihre leidenschaftlichen Gottesdienste und ihre Evangelisation bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -74.806915,
+                        10.996957
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Bernardita",
+                  "text": "Eine katholische Pfarrkirche, die der Heiligen Bernadette gewidmet ist und als geistliches Zentrum des Viertels dient.",
+                  "category": "religious",
+                  "coords": [
+                        -74.819511,
+                        10.986847
+                  ]
+            },
+            {
+                  "name": "Bosque Urbano de Miramar",
+                  "text": "Ein weitläufiges Stadtwäldchen im Viertel Miramar, das mit seinen schattigen Wanderwegen eine grüne Oase in Barranquilla bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.834637,
+                        10.997275
+                  ]
+            },
+            {
+                  "name": "Plaza de las Luces",
+                  "text": "Ein moderner öffentlicher Platz, der besonders nach Einbruch der Dunkelheit durch seine markante Beleuchtung und offene Gestaltung besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.790138,
+                        11.017231
+                  ]
+            },
+            {
+                  "name": "Villa Heraldo",
+                  "text": "Ein markantes Anwesen in Barranquilla, das als architektonischer Bezugspunkt im Viertel gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.796042,
+                        10.996817
+                  ]
+            },
+            {
+                  "name": "Lazos de Amor Mariano",
+                  "text": "Ein katholisches Gemeindezentrum, das der marianischen Spiritualität gewidmet ist und religiöse Versammlungen in Barranquilla abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.79839,
+                        10.986272
+                  ]
+            },
+            {
+                  "name": "Iglesia de las Tres Avemarías",
+                  "text": "Eine katholische Kirche, die nach den 'Drei Ave Maria' benannt ist und durch ihre schlichte religiöse Architektur auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.808364,
+                        11.015494
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein modernes mormonisches Kirchengebäude, das der Gemeinschaft der Heiligen der Letzten Tage als Versammlungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.804959,
+                        11.018932
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Ein protestantisches Gotteshaus in Barranquilla, das als lokaler Versammlungsort für die christliche Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.803056,
+                        10.990161
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Seńora del Perpetuo Socorro",
+                  "text": "Eine der Maria von der Immerwährenden Hilfe gewidmete Pfarrkirche, bekannt für ihre regelmäßigen Gottesdienste und die lokale Verehrung.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.800341,
+                        10.99127
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica Koinonia",
+                  "text": "Eine christliche Bibelgemeinde in Barranquilla, die den Schwerpunkt auf gemeinschaftliches Studium und religiöse Lehre legt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.803257,
+                        10.992042
+                  ]
+            },
+            {
+                  "name": "Iglesia AMMI",
+                  "text": "Ein lokales christliches Zentrum, das religiöse Dienste und soziale Aktivitäten für die Nachbarschaft anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.801993,
+                        10.997436
+                  ]
+            },
+            {
+                  "name": "IASD Maranatha",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten, die durch ihre spezifische Sabbat-Verehrung und Gemeindearbeit geprägt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.798217,
+                        10.992637
+                  ]
+            },
+            {
+                  "name": "La Inmaculada",
+                  "text": "Eine der Unbefleckten Empfängnis gewidmete Kirche, die als klassischer katholischer Andachtsort im Stadtgebiet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.798108,
+                        10.998778
+                  ]
+            },
+            {
+                  "name": "Parroquia San Jeronimo",
+                  "text": "Eine dem Heiligen Hieronymus gewidmete katholische Pfarrkirche, die das religiöse Leben im lokalen Wohnviertel prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.805998,
+                        10.998031
+                  ]
+            },
+            {
+                  "name": "Ríos de Vida",
+                  "text": "Eine weitere Niederlassung der christlichen Gemeinschaft 'Ríos de Vida', die als Treffpunkt für Gläubige im Stadtteil dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.813167,
+                        10.998837
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra. de las Gracias Torcoroma",
+                  "text": "Diese katholische Kirche ist der Jungfrau von Torcoroma gewidmet, einer wichtigen religiösen Figur der kolumbianischen Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.81772,
+                        11.005603
+                  ]
+            },
+            {
+                  "name": "Centro Biblico Internacional",
+                  "text": "Ein großes evangelikales Zentrum in Barranquilla, das für seine umfangreichen Versammlungen und christlichen Bildungsprogramme bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.804078,
+                        11.007637
+                  ]
+            },
+            {
+                  "name": "Centro Islámico Mezquita Othman Ben Affan",
+                  "text": "Eine Moschee mit traditionellen islamischen Architekturelementen, die als Gebetsort und kulturelles Zentrum für Muslime dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.821991,
+                        11.005694
+                  ]
+            },
+            {
+                  "name": "Parroquia Caridad del Cobre",
+                  "text": "Eine katholische Pfarrei, die nach der Schutzpatronin Kubas benannt ist und die karibische Verbundenheit der Gemeinde widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.821842,
+                        10.995499
+                  ]
+            },
+            {
+                  "name": "Seminario Conciliar San Luis Beltran",
+                  "text": "Ein bedeutendes katholisches Priesterseminar, das der Ausbildung künftiger Geistlicher gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.811634,
+                        10.993585
+                  ]
+            },
+            {
+                  "name": "IASD Central de Barranquilla",
+                  "text": "Die zentrale Kirche der Siebenten-Tags-Adventisten in Barranquilla, ein Anlaufpunkt für die Glaubensgemeinschaft in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.806536,
+                        10.991583
+                  ]
+            },
+            {
+                  "name": "Iglesia Lugar del Espiritu Santo",
+                  "text": "Ein Ort der christlichen Andacht, der sich auf das Wirken des Heiligen Geistes konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.805739,
+                        10.989456
+                  ]
+            },
+            {
+                  "name": "U. P. San Francisco de Asís",
+                  "text": "Eine katholische Gemeinde unter dem Patronat des Heiligen Franz von Assisi, bekannt für ihre lokale Seelsorge.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.810464,
+                        10.984611
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Sagrada Familia",
+                  "text": "Diese Kirche ist der Heiligen Familie gewidmet und dient als geistiges Zentrum für die umliegenden Wohngebiete.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.810163,
+                        10.985859
+                  ]
+            },
+            {
+                  "name": "Parroquia Padre Nuestro",
+                  "text": "Eine dem Vaterunser gewidmete Pfarrkirche, die durch ihre Gemeinschaftsarbeit im Viertel Barranquillas verankert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.831525,
+                        10.981863
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein weiterer Versammlungsraum der Zeugen Jehovas, der für Gottesdienste und das Studium religiöser Schriften genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.834998,
+                        10.981133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoológico de Barranquilla",
+                  "text": "Történelmi állatkert több mint 140 fajjal, köztük őshonos karibi állatokkal és afrikai elefántokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.798035,
+                        11.010996
+                  ]
+            },
+            {
+                  "name": "Galería Alejandro Obregón",
+                  "text": "Művészeti galéria, amely a neves kolumbiai-spanyol festő, Alejandro Obregón alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -74.798433,
+                        10.996484
+                  ]
+            },
+            {
+                  "name": "Monumento a la Cumbia",
+                  "text": "Látványos szobor, amely a cumbiát, Barranquilla kulturális szimbólumát jelentő hagyományos zenét és táncot élteti.",
+                  "category": "historical",
+                  "coords": [
+                        -74.79965,
+                        10.985509
+                  ]
+            },
+            {
+                  "name": "General Santander",
+                  "text": "Santander tábornok, Kolumbia függetlenségének meghatározó alakja és első alkotmányos elnöke előtt tisztelgő bronzszobor.",
+                  "category": "historical",
+                  "coords": [
+                        -74.795062,
+                        10.996171
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Szabadtéri amfiteátrum, amelyet kulturális előadásokra, koncertekre és nyilvános eseményekre használnak az állatkert területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.799036,
+                        11.025773
+                  ]
+            },
+            {
+                  "name": "Concha acustica",
+                  "text": "Különleges, kagyló alakú szabadtéri színpad, amelyet az optimális akusztika jegyében terveztek zenei előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.81837,
+                        10.993841
+                  ]
+            },
+            {
+                  "name": "Semillitas de Fe",
+                  "text": "Kisméretű közösségi imaház, amely a gyermekek vallási nevelésére és a családokra összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        -74.809582,
+                        10.989017
+                  ]
+            },
+            {
+                  "name": "Iglesia Avivamiento",
+                  "text": "Keresztény ébredési templom, amely szenvedélyes istentiszteleteiről és közösségi evangélizációjáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -74.806915,
+                        10.996957
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Bernardita",
+                  "text": "Szent Bernadettnek szentelt katolikus plébániatemplom, a környező lakónegyed hitéleti központja.",
+                  "category": "religious",
+                  "coords": [
+                        -74.819511,
+                        10.986847
+                  ]
+            },
+            {
+                  "name": "Bosque Urbano de Miramar",
+                  "text": "Egy kiterjedt városi erdő Miramar negyedében, amely árnyas ösvényeivel kínál zöld menedéket Barranquilla szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.834637,
+                        10.997275
+                  ]
+            },
+            {
+                  "name": "Plaza de las Luces",
+                  "text": "Egy modern közösségi tér, amely sötétedés után jellegzetes világításával és nyitott kialakításával hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.790138,
+                        11.017231
+                  ]
+            },
+            {
+                  "name": "Villa Heraldo",
+                  "text": "Barranquilla egyik jellegzetes épületegyüttese, amely építészeti referenciapontként szolgál a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.796042,
+                        10.996817
+                  ]
+            },
+            {
+                  "name": "Lazos de Amor Mariano",
+                  "text": "Mária-lelkiségnek szentelt katolikus közösségi központ, amely vallási összejöveteleknek ad otthont Barranquillában.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.79839,
+                        10.986272
+                  ]
+            },
+            {
+                  "name": "Iglesia de las Tres Avemarías",
+                  "text": "A 'Három Üdvözlégy Máriáról' elnevezett katolikus templom, amely egyszerű vallási építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.808364,
+                        11.015494
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek közösségének modern mormon templomépülete, amely gyülekezeti helyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.804959,
+                        11.018932
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Protestáns imaház Barranquillában, amely a helyi keresztény közösség gyülekezeti helyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.803056,
+                        10.990161
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Seńora del Perpetuo Socorro",
+                  "text": "A Mindenkor Segítő Szűz Máriának szentelt plébániatemplom, amely rendszeres szertartásairól és a helyi tiszteletről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.800341,
+                        10.99127
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica Koinonia",
+                  "text": "Keresztény bibliai gyülekezet Barranquillában, amely a közösségi tanulmányozásra és a vallási tanításokra helyezi a hangsúlyt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.803257,
+                        10.992042
+                  ]
+            },
+            {
+                  "name": "Iglesia AMMI",
+                  "text": "Helyi keresztény központ, amely vallási szertartásokat és közösségi tevékenységeket kínál a környéken élőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.801993,
+                        10.997436
+                  ]
+            },
+            {
+                  "name": "IASD Maranatha",
+                  "text": "A Hetednapi Adventista Egyház temploma, amelyet a sajátos szombati istentiszteletek és közösségi munka jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.798217,
+                        10.992637
+                  ]
+            },
+            {
+                  "name": "La Inmaculada",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt templom, amely a város hagyományos katolikus áhítati helye.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.798108,
+                        10.998778
+                  ]
+            },
+            {
+                  "name": "Parroquia San Jeronimo",
+                  "text": "Szent Jeromosnak szentelt katolikus plébániatemplom, amely a helyi lakónegyed vallási életét meghatározza.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.805998,
+                        10.998031
+                  ]
+            },
+            {
+                  "name": "Ríos de Vida",
+                  "text": "A 'Ríos de Vida' keresztény közösség egy másik helyszíne, amely gyülekezeti pontként szolgál a hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.813167,
+                        10.998837
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra. de las Gracias Torcoroma",
+                  "text": "Ez a katolikus templom a Torcoromai Szűznek van szentelve, aki a kolumbiai régió egyik fontos vallási alakja.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.81772,
+                        11.005603
+                  ]
+            },
+            {
+                  "name": "Centro Biblico Internacional",
+                  "text": "Nagy evangéliumi központ Barranquillában, amely kiterjedt gyűléseiről és keresztény oktatási programjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.804078,
+                        11.007637
+                  ]
+            },
+            {
+                  "name": "Centro Islámico Mezquita Othman Ben Affan",
+                  "text": "Hagyományos iszlám építészeti elemekkel díszített mecset, amely imaházként és kulturális központként szolgál a muszlimok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.821991,
+                        11.005694
+                  ]
+            },
+            {
+                  "name": "Parroquia Caridad del Cobre",
+                  "text": "Kuba védőszentjéről elnevezett katolikus plébánia, amely a közösség karibi kötődését tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.821842,
+                        10.995499
+                  ]
+            },
+            {
+                  "name": "Seminario Conciliar San Luis Beltran",
+                  "text": "Jelentős katolikus papnevelde, amely a jövőbeli lelkipásztorok képzésének szentelt intézmény.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.811634,
+                        10.993585
+                  ]
+            },
+            {
+                  "name": "IASD Central de Barranquilla",
+                  "text": "A Hetednapi Adventista Egyház központi temploma Barranquillában, a régió hitéletének egyik csomópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.806536,
+                        10.991583
+                  ]
+            },
+            {
+                  "name": "Iglesia Lugar del Espiritu Santo",
+                  "text": "Keresztény áhítati hely, amely a Szentlélek munkájára és tiszteletére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.805739,
+                        10.989456
+                  ]
+            },
+            {
+                  "name": "U. P. San Francisco de Asís",
+                  "text": "Assisi Szent Ferenc oltalma alatt álló katolikus plébánia, amely helyi hitéleti tevékenységéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.810464,
+                        10.984611
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Sagrada Familia",
+                  "text": "Ez a templom a Szent Családnak van szentelve, és szellemi központként szolgál a környező lakóövezetek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.810163,
+                        10.985859
+                  ]
+            },
+            {
+                  "name": "Parroquia Padre Nuestro",
+                  "text": "A Miatyánkról elnevezett plébániatemplom, amely közösségi munkájával mélyen beágyazódik Barranquilla negyedébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.831525,
+                        10.981863
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi egy másik gyülekezeti terme, amelyet istentiszteletekre és vallási iratok tanulmányozására használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.834998,
+                        10.981133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoológico de Barranquilla",
+                  "text": "O grădină zoologică istorică ce găzduiește peste 140 de specii, inclusiv faună nativă din Caraibe și elefanți africani.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.798035,
+                        11.010996
+                  ]
+            },
+            {
+                  "name": "Galería Alejandro Obregón",
+                  "text": "O galerie de artă care expune lucrări realizate de renumitul pictor columbiano-spaniol Alejandro Obregón sau inspirate de acesta.",
+                  "category": "museum",
+                  "coords": [
+                        -74.798433,
+                        10.996484
+                  ]
+            },
+            {
+                  "name": "Monumento a la Cumbia",
+                  "text": "O sculptură remarcabilă care celebrează Cumbia, muzica și dansul tradițional ce reprezintă un simbol cultural al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -74.79965,
+                        10.985509
+                  ]
+            },
+            {
+                  "name": "General Santander",
+                  "text": "O statuie de bronz care îl onorează pe generalul Santander, o figură cheie în independența Columbiei.",
+                  "category": "historical",
+                  "coords": [
+                        -74.795062,
+                        10.996171
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un amfiteatru în aer liber utilizat pentru spectacole culturale, concerte și evenimente publice în incinta grădinii zoologice.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.799036,
+                        11.025773
+                  ]
+            },
+            {
+                  "name": "Concha acustica",
+                  "text": "O scenă în aer liber distinctivă, în formă de scoică, proiectată pentru o acustică optimă în timpul spectacolelor muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.81837,
+                        10.993841
+                  ]
+            },
+            {
+                  "name": "Semillitas de Fe",
+                  "text": "Un mic lăcaș de cult comunitar axat pe educația religioasă a copiilor și activități centrate pe familie.",
+                  "category": "religious",
+                  "coords": [
+                        -74.809582,
+                        10.989017
+                  ]
+            },
+            {
+                  "name": "Iglesia Avivamiento",
+                  "text": "O biserică creștină de trezire spirituală cunoscută pentru serviciile sale de închinare pasionate și evanghelizare.",
+                  "category": "religious",
+                  "coords": [
+                        -74.806915,
+                        10.996957
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Bernardita",
+                  "text": "O biserică parohială catolică dedicată Sfintei Bernadeta, servind drept centru spiritual pentru cartierul înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        -74.819511,
+                        10.986847
+                  ]
+            },
+            {
+                  "name": "Bosque Urbano de Miramar",
+                  "text": "O pădure urbană întinsă în cartierul Miramar, care oferă o oază de verdeață cu poteci umbrite în inima orașului Barranquilla.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.834637,
+                        10.997275
+                  ]
+            },
+            {
+                  "name": "Plaza de las Luces",
+                  "text": "O piață publică modernă care se remarcă prin iluminatul său distinctiv și designul deschis, în special după lăsarea întunericului.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.790138,
+                        11.017231
+                  ]
+            },
+            {
+                  "name": "Villa Heraldo",
+                  "text": "O proprietate distinctivă din Barranquilla, care servește drept punct de referință arhitectural în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.796042,
+                        10.996817
+                  ]
+            },
+            {
+                  "name": "Lazos de Amor Mariano",
+                  "text": "Un centru comunitar catolic dedicat spiritualității mariane, care găzduiește adunări religioase în Barranquilla.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.79839,
+                        10.986272
+                  ]
+            },
+            {
+                  "name": "Iglesia de las Tres Avemarías",
+                  "text": "O biserică catolică numită după cele 'Trei Ave Maria', remarcabilă prin arhitectura sa religioasă simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.808364,
+                        11.015494
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O clădire modernă de biserică mormonă care servește ca loc de întâlnire pentru comunitatea Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.804959,
+                        11.018932
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Un lăcaș de cult protestant din Barranquilla, care servește ca loc de întâlnire local pentru comunitatea creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.803056,
+                        10.990161
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Seńora del Perpetuo Socorro",
+                  "text": "O biserică parohială dedicată Maicii Domnului a Perpetuului Ajutor, cunoscută pentru slujbele sale regulate și venerația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.800341,
+                        10.99127
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica Koinonia",
+                  "text": "O biserică biblică creștină din Barranquilla, care pune accent pe studiul comunitar și învățătura religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.803257,
+                        10.992042
+                  ]
+            },
+            {
+                  "name": "Iglesia AMMI",
+                  "text": "Un centru creștin local care oferă servicii religioase și activități sociale pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.801993,
+                        10.997436
+                  ]
+            },
+            {
+                  "name": "IASD Maranatha",
+                  "text": "O biserică a Adventiștilor de Ziua a Șaptea, definită prin venerarea specifică a Sabatului și activitatea comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.798217,
+                        10.992637
+                  ]
+            },
+            {
+                  "name": "La Inmaculada",
+                  "text": "O biserică dedicată Imaculatei Concepții, care servește ca loc clasic de devoțiune catolică în zona urbană.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.798108,
+                        10.998778
+                  ]
+            },
+            {
+                  "name": "Parroquia San Jeronimo",
+                  "text": "O biserică parohială catolică dedicată Sfântului Ieronim, care marchează viața religioasă a cartierului local.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.805998,
+                        10.998031
+                  ]
+            },
+            {
+                  "name": "Ríos de Vida",
+                  "text": "O altă locație a comunității creștine 'Ríos de Vida', care servește ca punct de întâlnire pentru credincioșii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.813167,
+                        10.998837
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra. de las Gracias Torcoroma",
+                  "text": "Această biserică catolică este dedicată Fecioarei de Torcoroma, o figură religioasă importantă a regiunii columbiene.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.81772,
+                        11.005603
+                  ]
+            },
+            {
+                  "name": "Centro Biblico Internacional",
+                  "text": "Un centru evanghelic mare din Barranquilla, cunoscut pentru adunările sale ample și programele de educație creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.804078,
+                        11.007637
+                  ]
+            },
+            {
+                  "name": "Centro Islámico Mezquita Othman Ben Affan",
+                  "text": "O moschee cu elemente arhitecturale islamice tradiționale, care servește ca loc de rugăciune și centru cultural pentru musulmani.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.821991,
+                        11.005694
+                  ]
+            },
+            {
+                  "name": "Parroquia Caridad del Cobre",
+                  "text": "O parohie catolică numită după patroana Cubei, reflectând legăturile caraibiene ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.821842,
+                        10.995499
+                  ]
+            },
+            {
+                  "name": "Seminario Conciliar San Luis Beltran",
+                  "text": "Un seminar catolic important, dedicat formării viitorilor clerici.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.811634,
+                        10.993585
+                  ]
+            },
+            {
+                  "name": "IASD Central de Barranquilla",
+                  "text": "Biserica centrală a Adventiștilor de Ziua a Șaptea din Barranquilla, un punct de referință pentru comunitatea religioasă din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.806536,
+                        10.991583
+                  ]
+            },
+            {
+                  "name": "Iglesia Lugar del Espiritu Santo",
+                  "text": "Un loc de devoțiune creștină care se concentrează pe lucrarea Duhului Sfânt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.805739,
+                        10.989456
+                  ]
+            },
+            {
+                  "name": "U. P. San Francisco de Asís",
+                  "text": "O comunitate catolică sub patronajul Sfântului Francisc de Assisi, cunoscută pentru pastorația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.810464,
+                        10.984611
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Sagrada Familia",
+                  "text": "Această biserică este dedicată Sfintei Familii și servește drept centru spiritual pentru zonele rezidențiale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.810163,
+                        10.985859
+                  ]
+            },
+            {
+                  "name": "Parroquia Padre Nuestro",
+                  "text": "O biserică parohială dedicată rugăciunii Tatăl Nostru, ancorată în cartierul din Barranquilla prin munca sa comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.831525,
+                        10.981863
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O altă sală de adunare a Martorilor lui Iehova, utilizată pentru cult și studiul scripturilor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.834998,
+                        10.981133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoológico de Barranquilla",
+                  "text": "A historic zoo housing over 140 species, including native Caribbean fauna and exotic animals like African elephants.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.798035,
+                        11.010996
+                  ]
+            },
+            {
+                  "name": "Galería Alejandro Obregón",
+                  "text": "An art gallery showcasing works by or inspired by the renowned Colombian-Spanish painter Alejandro Obregón.",
+                  "category": "museum",
+                  "coords": [
+                        -74.798433,
+                        10.996484
+                  ]
+            },
+            {
+                  "name": "Monumento a la Cumbia",
+                  "text": "A striking sculpture celebrating Cumbia, the traditional music and dance that is a cultural symbol of Barranquilla.",
+                  "category": "historical",
+                  "coords": [
+                        -74.79965,
+                        10.985509
+                  ]
+            },
+            {
+                  "name": "General Santander",
+                  "text": "A bronze statue honoring General Santander, a key figure in Colombia's independence and its first constitutional president.",
+                  "category": "historical",
+                  "coords": [
+                        -74.795062,
+                        10.996171
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An open-air amphitheater used for cultural performances, concerts, and public events within the zoo or park area.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.799036,
+                        11.025773
+                  ]
+            },
+            {
+                  "name": "Concha acustica",
+                  "text": "A distinctive shell-shaped outdoor stage designed for optimal acoustics during musical and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.81837,
+                        10.993841
+                  ]
+            },
+            {
+                  "name": "Semillitas de Fe",
+                  "text": "A small community place of worship focused on children's spiritual education and family-centered religious activities.",
+                  "category": "religious",
+                  "coords": [
+                        -74.809582,
+                        10.989017
+                  ]
+            },
+            {
+                  "name": "Iglesia Avivamiento",
+                  "text": "A Christian revival church known for its passionate worship services and community-based evangelism.",
+                  "category": "religious",
+                  "coords": [
+                        -74.806915,
+                        10.996957
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Bernardita",
+                  "text": "A Catholic parish church dedicated to Saint Bernadette, serving as a spiritual center for the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -74.819511,
+                        10.986847
+                  ]
+            },
+            {
+                  "name": "Bosque Urbano de Miramar",
+                  "text": "An expansive urban forest in the Miramar neighborhood, offering a green escape with shaded walking trails in the heart of Barranquilla.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.834637,
+                        10.997275
+                  ]
+            },
+            {
+                  "name": "Plaza de las Luces",
+                  "text": "A modern public plaza that stands out for its distinctive lighting and open design, especially after sunset.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.790138,
+                        11.017231
+                  ]
+            },
+            {
+                  "name": "Villa Heraldo",
+                  "text": "A distinctive estate in Barranquilla that serves as an architectural landmark within the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.796042,
+                        10.996817
+                  ]
+            },
+            {
+                  "name": "Lazos de Amor Mariano",
+                  "text": "A Catholic community center dedicated to Marian spirituality, hosting religious gatherings in Barranquilla.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.79839,
+                        10.986272
+                  ]
+            },
+            {
+                  "name": "Iglesia de las Tres Avemarías",
+                  "text": "A Catholic church named after the 'Three Hail Marys', notable for its simple religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.808364,
+                        11.015494
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A modern Mormon church building serving as a meetinghouse for the Latter-day Saints community.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.804959,
+                        11.018932
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "A Protestant house of worship in Barranquilla, serving as a local gathering place for the Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.803056,
+                        10.990161
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Seńora del Perpetuo Socorro",
+                  "text": "A parish church dedicated to Our Lady of Perpetual Help, known for its regular services and local devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.800341,
+                        10.99127
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica Koinonia",
+                  "text": "A Christian biblical church in Barranquilla focusing on communal study and religious teaching.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.803257,
+                        10.992042
+                  ]
+            },
+            {
+                  "name": "Iglesia AMMI",
+                  "text": "A local Christian center providing religious services and social activities for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.801993,
+                        10.997436
+                  ]
+            },
+            {
+                  "name": "IASD Maranatha",
+                  "text": "A Seventh-day Adventist church characterized by its specific Sabbath worship and community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.798217,
+                        10.992637
+                  ]
+            },
+            {
+                  "name": "La Inmaculada",
+                  "text": "A church dedicated to the Immaculate Conception, serving as a classic Catholic place of devotion in the urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.798108,
+                        10.998778
+                  ]
+            },
+            {
+                  "name": "Parroquia San Jeronimo",
+                  "text": "A Catholic parish church dedicated to Saint Jerome, anchoring the religious life of the local residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.805998,
+                        10.998031
+                  ]
+            },
+            {
+                  "name": "Ríos de Vida",
+                  "text": "Another location of the 'Ríos de Vida' Christian community, serving as a gathering point for believers in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.813167,
+                        10.998837
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra. de las Gracias Torcoroma",
+                  "text": "This Catholic church is dedicated to the Virgin of Torcoroma, an important religious figure of the Colombian region.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.81772,
+                        11.005603
+                  ]
+            },
+            {
+                  "name": "Centro Biblico Internacional",
+                  "text": "A large evangelical center in Barranquilla, known for its extensive gatherings and Christian education programs.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.804078,
+                        11.007637
+                  ]
+            },
+            {
+                  "name": "Centro Islámico Mezquita Othman Ben Affan",
+                  "text": "A mosque featuring traditional Islamic architectural elements, serving as a place of prayer and cultural center for Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.821991,
+                        11.005694
+                  ]
+            },
+            {
+                  "name": "Parroquia Caridad del Cobre",
+                  "text": "A Catholic parish named after the patroness of Cuba, reflecting the Caribbean connections of the congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.821842,
+                        10.995499
+                  ]
+            },
+            {
+                  "name": "Seminario Conciliar San Luis Beltran",
+                  "text": "A significant Catholic seminary dedicated to the training and education of future clergy.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.811634,
+                        10.993585
+                  ]
+            },
+            {
+                  "name": "IASD Central de Barranquilla",
+                  "text": "The central Seventh-day Adventist church in Barranquilla, a key hub for the faith community in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.806536,
+                        10.991583
+                  ]
+            },
+            {
+                  "name": "Iglesia Lugar del Espiritu Santo",
+                  "text": "A place of Christian worship that focuses on the ministry and presence of the Holy Spirit.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.805739,
+                        10.989456
+                  ]
+            },
+            {
+                  "name": "U. P. San Francisco de Asís",
+                  "text": "A Catholic parish under the patronage of Saint Francis of Assisi, known for its local pastoral work.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.810464,
+                        10.984611
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Sagrada Familia",
+                  "text": "This church is dedicated to the Holy Family and serves as a spiritual center for the surrounding residential areas.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.810163,
+                        10.985859
+                  ]
+            },
+            {
+                  "name": "Parroquia Padre Nuestro",
+                  "text": "A parish church dedicated to the Lord's Prayer, anchored in its Barranquilla neighborhood through community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.831525,
+                        10.981863
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Another assembly hall of Jehovah's Witnesses, used for worship and the study of religious scriptures.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.834998,
+                        10.981133
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-ATL",
     coords: [-74.8052, 11.0064],
@@ -836,7 +11609,268 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "otun-quimbaya-life-v2",
+    id: "otun-quimbaya-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Molino",
+                  "text": "Eine traditionelle Mühlenstruktur inmitten der üppigen grünen Hügel der Kaffeeregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.655523,
+                        4.715153
+                  ]
+            },
+            {
+                  "name": "Cascada Frailes View Point",
+                  "text": "Eine Aussichtsplattform aus Holz, die einen klaren Blick auf die herabstürzenden Wassermassen des Wasserfalls Los Frailes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.561565,
+                        4.735345
+                  ]
+            },
+            {
+                  "name": "Oceano",
+                  "text": "Ein Zentrum für kreative Künste mit Schwerpunkt auf spirituellem Ausdruck, gelegen in der Natur des Otún-Tals.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.617461,
+                        4.691236
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Barbas Bremen",
+                  "text": "Ein geschütztes Nebelwald-Naturreservat, das für seine Population von Roten Brüllaffen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -75.621232,
+                        4.676608
+                  ]
+            },
+            {
+                  "name": "Monasterio San José (Los Monjes)",
+                  "text": "Ein abgelegenes Kloster, das Ruhe und spirituelle Einkehr in den friedlichen Hügeln nahe Pereira bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -75.576866,
+                        4.802025
+                  ]
+            },
+            {
+                  "name": "La Virgen del Jordan",
+                  "text": "Eine kleine religiöse Stätte in der ländlichen Landschaft des Jordan-Flussgebiets.",
+                  "category": "religious",
+                  "coords": [
+                        -75.653761,
+                        4.741478
+                  ]
+            },
+            {
+                  "name": "Parroquia la Inmaculada",
+                  "text": "Eine ländliche Pfarrkirche, die den bäuerlichen Gemeinden im malerischen Otún-Flusstal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.611258,
+                        4.758988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Molino",
+                  "text": "Hagyományos malomépület a kávétermesztő vidék buja zöld dombjai között.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.655523,
+                        4.715153
+                  ]
+            },
+            {
+                  "name": "Cascada Frailes View Point",
+                  "text": "Fából készült kilátóterasz, amely tiszta rálátást biztosít a Los Frailes-vízesés lezúduló vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -75.561565,
+                        4.735345
+                  ]
+            },
+            {
+                  "name": "Oceano",
+                  "text": "Spirituális önkifejezésre összpontosító kreatív művészeti központ az Otún-völgy természetes környezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.617461,
+                        4.691236
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Barbas Bremen",
+                  "text": "Kördő-természetvédelmi terület, amely vörös bőgőmajom-populációjáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        -75.621232,
+                        4.676608
+                  ]
+            },
+            {
+                  "name": "Monasterio San José (Los Monjes)",
+                  "text": "Eldugott kolostor, amely békét és spirituális elmélyülést kínál a Pereira közeli csendes dombok között.",
+                  "category": "religious",
+                  "coords": [
+                        -75.576866,
+                        4.802025
+                  ]
+            },
+            {
+                  "name": "La Virgen del Jordan",
+                  "text": "Kis vallási helyszín a Jordan-folyó menti vidéki tájon.",
+                  "category": "religious",
+                  "coords": [
+                        -75.653761,
+                        4.741478
+                  ]
+            },
+            {
+                  "name": "Parroquia la Inmaculada",
+                  "text": "Vidéki plébániatemplom, amely a festői Otún-folyó völgyének mezőgazdasági közösségeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.611258,
+                        4.758988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Molino",
+                  "text": "O moară tradițională situată printre dealurile verzi și luxuriante ale regiunii cafelei.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.655523,
+                        4.715153
+                  ]
+            },
+            {
+                  "name": "Cascada Frailes View Point",
+                  "text": "O platformă de observație din lemn care oferă o vedere clară asupra apelor în cascadă ale cascadei Los Frailes.",
+                  "category": "natural",
+                  "coords": [
+                        -75.561565,
+                        4.735345
+                  ]
+            },
+            {
+                  "name": "Oceano",
+                  "text": "Un centru de arte creative axat pe expresia spirituală, situat în cadrul natural al văii Otún.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.617461,
+                        4.691236
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Barbas Bremen",
+                  "text": "O rezervație naturală protejată de pădure tropicală montană, celebră pentru populația sa de maimuțe urlătoare roșii.",
+                  "category": "natural",
+                  "coords": [
+                        -75.621232,
+                        4.676608
+                  ]
+            },
+            {
+                  "name": "Monasterio San José (Los Monjes)",
+                  "text": "O mănăstire retrasă care oferă liniște și reflecție spirituală în dealurile calme de lângă Pereira.",
+                  "category": "religious",
+                  "coords": [
+                        -75.576866,
+                        4.802025
+                  ]
+            },
+            {
+                  "name": "La Virgen del Jordan",
+                  "text": "Un mic sit religios cuibărit în peisajul rural din zona râului Jordan.",
+                  "category": "religious",
+                  "coords": [
+                        -75.653761,
+                        4.741478
+                  ]
+            },
+            {
+                  "name": "Parroquia la Inmaculada",
+                  "text": "O biserică parohială rurală care deservește comunitățile agricole din valea pitorească a râului Otún.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.611258,
+                        4.758988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Molino",
+                  "text": "A traditional mill structure set amidst the lush green hills of the coffee-growing region.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.655523,
+                        4.715153
+                  ]
+            },
+            {
+                  "name": "Cascada Frailes View Point",
+                  "text": "A wooden observation deck offering a clear view of the cascading waters of Los Frailes waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -75.561565,
+                        4.735345
+                  ]
+            },
+            {
+                  "name": "Oceano",
+                  "text": "A creative arts center focused on spiritual expression, located in the natural setting of the Otún valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.617461,
+                        4.691236
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Barbas Bremen",
+                  "text": "A protected nature reserve of cloud forest famous for its population of red howler monkeys.",
+                  "category": "natural",
+                  "coords": [
+                        -75.621232,
+                        4.676608
+                  ]
+            },
+            {
+                  "name": "Monasterio San José (Los Monjes)",
+                  "text": "A secluded monastery offering peace and spiritual reflection in the tranquil hills near Pereira.",
+                  "category": "religious",
+                  "coords": [
+                        -75.576866,
+                        4.802025
+                  ]
+            },
+            {
+                  "name": "JordanBasseball",
+                  "text": "A small religious site nestled in the rural landscape of the Jordan river area.",
+                  "category": "religious",
+                  "coords": [
+                        -75.653761,
+                        4.741478
+                  ]
+            },
+            {
+                  "name": "Parroquia la Inmaculada",
+                  "text": "A rural parish church serving the farming communities in the scenic Otún river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.611258,
+                        4.758988
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-RIS",
     coords: [-75.5804, 4.7291],
@@ -934,7 +11968,52 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "pnn-amacayacu-life-v2",
+    id: "pnn-amacayacu-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Natural La Ceiba",
+                  "text": "Das Naturschutzgebiet rückt die gewaltigen, hoch aufragenden Ceiba-Bäume des Amazonas in den Mittelpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.351629,
+                        -3.776914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Natural La Ceiba",
+                  "text": "A természetvédelmi terület az Amazonas hatalmas, magasba tornyosuló Ceiba-fáit állítja a középpontba.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.351629,
+                        -3.776914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Natural La Ceiba",
+                  "text": "Această rezervație naturală se concentrează pe uriașii copaci Ceiba care se înalță în Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.351629,
+                        -3.776914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Natural area La Ceiba",
+                  "text": "This protected natural area highlights the massive, towering Ceiba trees of the Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.351629,
+                        -3.776914
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-AMA",
     coords: [-70.2647, -3.7547],
@@ -983,7 +12062,196 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "pnn-utria-life-v2",
+    id: "pnn-utria-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Cocalito",
+                  "text": "Markanter Küstenpunkt im Nationalpark Utría, umgeben von geschützten Mangroven.",
+                  "category": "historical",
+                  "coords": [
+                        -77.366101,
+                        6.016958
+                  ]
+            },
+            {
+                  "name": "Playa Cuevita",
+                  "text": "Bedeutender Nistplatz für Meeresschildkröten an der geschützten Küste der Utría-Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.396945,
+                        6.069866
+                  ]
+            },
+            {
+                  "name": "Mano Cambiada",
+                  "text": "Gemeinschaftliches Ökotourismus-Projekt, das sich für die nachhaltige Entwicklung im Chocó einsetzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.348376,
+                        6.018571
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Seltener weißer Korallensandstrand, der einen Kontrast zu den dunklen Vulkanstränden bildet.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.351335,
+                        5.986793
+                  ]
+            },
+            {
+                  "name": "Conservación y liberación de tortugas",
+                  "text": "Schutzstation im Nationalpark Utría, die sich der Aufzucht von Meeresschildkröten widmet.",
+                  "category": "natural",
+                  "coords": [
+                        -77.404718,
+                        6.075915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Cocalito",
+                  "text": "Jellegzetes parti pont az Utría Nemzeti Parkban, védett mangroveerdőkkel övezve.",
+                  "category": "historical",
+                  "coords": [
+                        -77.366101,
+                        6.016958
+                  ]
+            },
+            {
+                  "name": "Playa Cuevita",
+                  "text": "Fontos tengeri teknős fészkelőhely az Utría-öböl védett partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.396945,
+                        6.069866
+                  ]
+            },
+            {
+                  "name": "Mano Cambiada",
+                  "text": "Közösségi ökoturisztikai projekt, amely a Chocó régió fenntartható fejlődéséért dolgozik.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.348376,
+                        6.018571
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Ritka fehér korallhomokos strand, amely elüt a régió sötét vulkáni partjaitól.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.351335,
+                        5.986793
+                  ]
+            },
+            {
+                  "name": "Conservación y liberación de tortugas",
+                  "text": "Teknősvédelmi központ az Utría Nemzeti Parkban, ahol teknősfiókákat engednek szabadon.",
+                  "category": "natural",
+                  "coords": [
+                        -77.404718,
+                        6.075915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Cocalito",
+                  "text": "Punct de reper pe coasta Parcului Național Utría, înconjurat de mangrove protejate.",
+                  "category": "historical",
+                  "coords": [
+                        -77.366101,
+                        6.016958
+                  ]
+            },
+            {
+                  "name": "Playa Cuevita",
+                  "text": "Loc important de cuibărit pentru țestoasele marine pe malul protejat al golfului Utría.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.396945,
+                        6.069866
+                  ]
+            },
+            {
+                  "name": "Mano Cambiada",
+                  "text": "Proiect comunitar de ecoturism, dedicat dezvoltării durabile în regiunea Chocó.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.348376,
+                        6.018571
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Plajă rară cu nisip alb coralifer, care contrastează cu plajele vulcanice negre din regiune.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.351335,
+                        5.986793
+                  ]
+            },
+            {
+                  "name": "Conservación y liberación de tortugas",
+                  "text": "Centru de conservare în Parcul Utría, dedicat protejării și eliberării puilor de țestoasă.",
+                  "category": "natural",
+                  "coords": [
+                        -77.404718,
+                        6.075915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Cocalito",
+                  "text": "Landmark coastal spot within the Utría National Park, surrounded by protected mangroves.",
+                  "category": "historical",
+                  "coords": [
+                        -77.366101,
+                        6.016958
+                  ]
+            },
+            {
+                  "name": "Playa Cuevita",
+                  "text": "Important nesting site for sea turtles on the protected shores of Utría Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.396945,
+                        6.069866
+                  ]
+            },
+            {
+                  "name": "Mano Cambiada",
+                  "text": "Community-led ecotourism project focused on sustainable development in the Chocó region.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.348376,
+                        6.018571
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Rare white coral-sand beach, contrasting with the region's typical dark volcanic shores.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.351335,
+                        5.986793
+                  ]
+            },
+            {
+                  "name": "Conservación y liberación de tortugas",
+                  "text": "Conservation center in Utría National Park dedicated to protecting and releasing sea turtle hatchlings.",
+                  "category": "natural",
+                  "coords": [
+                        -77.404718,
+                        6.075915
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-CHO",
     coords: [-77.3486, 6.0357],
@@ -1032,7 +12300,88 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "pnn-chingaza-life-v2",
+    id: "pnn-chingaza-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de la Laguna",
+                  "text": "Ein malerischer Aussichtspunkt mit Panoramablick über die unberührten Gletschergewässer einer Lagune im Chingaza-Park.",
+                  "category": "natural",
+                  "coords": [
+                        -73.749754,
+                        4.547448
+                  ]
+            },
+            {
+                  "name": "Mirador Embalse de Chuza PNN",
+                  "text": "Dieser Aussichtspunkt liegt hoch oben im Nationalen Naturpark Chingaza und bietet einen weiten Blick über den riesigen Chuza-Stausee.",
+                  "category": "natural",
+                  "coords": [
+                        -73.725497,
+                        4.623386
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de la Laguna",
+                  "text": "Festői kilátópont, amely panorámás kilátást nyújt a Chingaza Park egyik lagúnájának érintetlen gleccservizeire.",
+                  "category": "natural",
+                  "coords": [
+                        -73.749754,
+                        4.547448
+                  ]
+            },
+            {
+                  "name": "Mirador Embalse de Chuza PNN",
+                  "text": "A Chingaza Nemzeti Természeti Park magasan fekvő kilátópontja pazar panorámát nyújt a hatalmas Chuza-víztározóra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.725497,
+                        4.623386
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de la Laguna",
+                  "text": "Un punct de belvedere pitoresc care oferă vederi panoramice asupra apelor glaciare imaculate ale unei lagune din Parcul Chingaza.",
+                  "category": "natural",
+                  "coords": [
+                        -73.749754,
+                        4.547448
+                  ]
+            },
+            {
+                  "name": "Mirador Embalse de Chuza PNN",
+                  "text": "Situat la mare înălțime în Parcul Național Natural Chingaza, acest punct de belvedere oferă priveliști ample asupra vastului lac de acumulare Chuza.",
+                  "category": "natural",
+                  "coords": [
+                        -73.725497,
+                        4.623386
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de la Laguna",
+                  "text": "A scenic lookout point offering panoramic views over the pristine glacial waters of a Chingaza Park lagoon.",
+                  "category": "natural",
+                  "coords": [
+                        -73.749754,
+                        4.547448
+                  ]
+            },
+            {
+                  "name": "Mirador Embalse de Chuza PNN",
+                  "text": "Perched high in the Chingaza National Natural Park, this viewpoint provides sweeping vistas of the vast Chuza Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        -73.725497,
+                        4.623386
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-CUN",
     coords: [-73.7196, 4.5828],
@@ -1081,7 +12430,1348 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "zoologico-santacruz-life-v2",
+    id: "zoologico-santacruz-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Museo Salto del Tequendama",
+                  "text": "Ein Museum, das in einem historischen Herrenhaus im französischen Stil aus den 1920er Jahren mit Blick auf den spektakulären Tequendama-Wasserfall untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -74.296611,
+                        4.576205
+                  ]
+            },
+            {
+                  "name": "Salto de Tequendama",
+                  "text": "Ein dramatischer 132 Meter hoher Wasserfall am Fluss Bogotá, bekannt für seine landschaftliche und historische Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.293805,
+                        4.57528
+                  ]
+            },
+            {
+                  "name": "Zoológico Santacruz",
+                  "text": "Ein beliebter lokaler Zoo, der sich auf die Erhaltung und Ausstellung der einheimischen kolumbianischen Tierwelt konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.333626,
+                        4.584572
+                  ]
+            },
+            {
+                  "name": "Hacienda Fute",
+                  "text": "Ein traditionelles Landgut, das die historischen landwirtschaftlichen Anwesen der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -74.280546,
+                        4.615759
+                  ]
+            },
+            {
+                  "name": "Paradero La virgen",
+                  "text": "Dieses religiöse Denkmal am Straßenrand in der Nähe der zoologico-santacruz-life-v2 dient als lokaler Schrein.",
+                  "category": "historical",
+                  "coords": [
+                        -74.306065,
+                        4.573926
+                  ]
+            },
+            {
+                  "name": "Nueva Esperanza",
+                  "text": "Diese archäologische Stätte bei der zoologico-santacruz-life-v2 bewahrt die Überreste präkolumbischer Siedlungsspuren.",
+                  "category": "historical",
+                  "coords": [
+                        -74.28259,
+                        4.57546
+                  ]
+            },
+            {
+                  "name": "Varón del Sol",
+                  "text": "Ausgrabungen an dieser antiken Stätte nahe der zoologico-santacruz-life-v2 bringen historische Artefakte der Region ans Licht.",
+                  "category": "historical",
+                  "coords": [
+                        -74.216461,
+                        4.553129
+                  ]
+            },
+            {
+                  "name": "Piedras del Infinito",
+                  "text": "Dieses Ausgrabungsgebiet bei der zoologico-santacruz-life-v2 ist bekannt für seine markanten antiken Gesteinsformationen.",
+                  "category": "historical",
+                  "coords": [
+                        -74.225458,
+                        4.548302
+                  ]
+            },
+            {
+                  "name": "Monasterio El Tuso",
+                  "text": "Die archäologischen Ruinen dieses alten Klosters befinden sich in der Region der zoologico-santacruz-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -74.272658,
+                        4.549987
+                  ]
+            },
+            {
+                  "name": "Aire Libre",
+                  "text": "Dieses Freilufttheater bietet eine Außenbühne für Vorstellungen nahe der zoologico-santacruz-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.355645,
+                        4.524935
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Sibaté",
+                  "text": "Das städtische Theatergebäude bei der zoologico-santacruz-life-v2 veranstaltet lokale Kunst- und Kulturaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.263531,
+                        4.489097
+                  ]
+            },
+            {
+                  "name": "Upaesamrta",
+                  "text": "Dieses spirituelle Andachtszentrum bietet einen Raum für Gemeinschaftsgebete nahe der zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.236395,
+                        4.563492
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Dieses lokale Kirchengebäude dient als Hauptort der Anbetung für die Gemeinde bei der zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.218063,
+                        4.561904
+                  ]
+            },
+            {
+                  "name": "Templo Mormon",
+                  "text": "Dieser Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage befindet sich in der Region der zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.236615,
+                        4.566056
+                  ]
+            },
+            {
+                  "name": "Parroquia María Reina",
+                  "text": "Diese der Maria Königin geweihte katholische Pfarrkirche steht in der Nähe der zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.225159,
+                        4.576611
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Fátima",
+                  "text": "Diese katholische Gebetsstätte ehrt Unsere Liebe Frau von Fátima in der Region der zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.240622,
+                        4.57867
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Carmen",
+                  "text": "Die der Muttergottes vom Berge Karmel geweihte katholische Kirche befindet sich nahe der zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.258473,
+                        4.492047
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Diese katholische Pfarrei in der Region der zoologico-santacruz-life-v2 ehrt die Jungfrau vom Karmel.",
+                  "category": "religious",
+                  "coords": [
+                        -74.351282,
+                        4.519022
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Dieser belebte, überdachte Marktplatz bietet frische landwirtschaftliche Produkte nahe der zoologico-santacruz-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.259689,
+                        4.492596
+                  ]
+            },
+            {
+                  "name": "Tirolesa",
+                  "text": "Dieses Seilrutschen-Abenteuer führt die Besucher durch die Luft in der Region der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.3105,
+                        4.617118
+                  ]
+            },
+            {
+                  "name": "Roquemonte",
+                  "text": "Diese Naturattraktion bietet malerische Landschaften und Felsformationen bei der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.311409,
+                        4.60812
+                  ]
+            },
+            {
+                  "name": "Parque Chicaque",
+                  "text": "Dieser Naturpark bei der zoologico-santacruz-life-v2 zeichnet sich durch seine dichten Nebelwaldpfade aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.305476,
+                        4.606044
+                  ]
+            },
+            {
+                  "name": "El Túnel",
+                  "text": "Diese historische Tunnelstruktur ist eine bemerkenswerte Sehenswürdigkeit in der Nähe der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.258406,
+                        4.479104
+                  ]
+            },
+            {
+                  "name": "Pinturas Rupestres",
+                  "text": "An diesem Ort in der Region der zoologico-santacruz-life-v2 können Besucher alte Felsmalereien und Petroglyphen bewundern.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.279029,
+                        4.524646
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Diese Vereinigte Pfingstkirche versammelt christliche Gläubige in der Region der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.23593,
+                        4.564823
+                  ]
+            },
+            {
+                  "name": "La Inmaculada",
+                  "text": "Diese christliche Kirche in der Nähe der zoologico-santacruz-life-v2 ist der Unbefleckten Empfängnis geweiht.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.257692,
+                        4.488584
+                  ]
+            },
+            {
+                  "name": "Varsana",
+                  "text": "Dieses hinduistische Öko-Yoga-Dorf und sein Tempel befinden sich in der Region der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.353897,
+                        4.524348
+                  ]
+            },
+            {
+                  "name": "Capilla de San Joaquín y Santa Ana",
+                  "text": "Diese christliche Kapelle ehrt die Heiligen Joachim und Anna bei der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.245751,
+                        4.572718
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa María de Nazareth",
+                  "text": "Die christliche Pfarrkirche, die der Heiligen Maria von Nazareth geweiht ist, steht nahe der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.238776,
+                        4.570285
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Día Yireh",
+                  "text": "Diese christliche Kirche der Siebenten-Tags-Adventisten befindet sich im Gebiet der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.235633,
+                        4.567638
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús de Nazaret",
+                  "text": "Diese christliche Pfarrei bei der zoologico-santacruz-life-v2 ist Jesus von Nazareth gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.242031,
+                        4.559372
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "Die christliche Pfarrei zu Ehren des Heiligen Josef befindet sich in der Region der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.230747,
+                        4.564376
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Amparo",
+                  "text": "Diese christliche Pfarrei, die der Muttergottes der Zuflucht gewidmet ist, liegt nahe der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.232614,
+                        4.574622
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Monte de Santidad",
+                  "text": "Dieses Zentrum der christlichen Gemeinschaft befindet sich in der Region der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.225794,
+                        4.578256
+                  ]
+            },
+            {
+                  "name": "Iglesia Manantiales de Amor y Poder",
+                  "text": "Diese charismatische christliche Kirche hält ihre Gottesdienste nahe der zoologico-santacruz-life-v2 ab.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.242498,
+                        4.577285
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "Die christliche Kirche, die die Muttergottes vom Berge Karmel ehrt, steht in der Region der zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.342405,
+                        4.594456
+                  ]
+            },
+            {
+                  "name": "Mirador San Francisco",
+                  "text": "Dieser Aussichtspunkt bei der zoologico-santacruz-life-v2 bietet einen weiten Panoramablick über die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -74.301838,
+                        4.581768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Museo Salto del Tequendama",
+                  "text": "Egy történelmi, 1920-as évekbeli francia stílusú kastélyban helyet kapó múzeum, amely a látványos Tequendama-vízesésre néz.",
+                  "category": "museum",
+                  "coords": [
+                        -74.296611,
+                        4.576205
+                  ]
+            },
+            {
+                  "name": "Salto de Tequendama",
+                  "text": "Egy drámai, 132 méter magas vízesés a Bogotá folyón, amely festői és történelmi jelentőségéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.293805,
+                        4.57528
+                  ]
+            },
+            {
+                  "name": "Zoológico Santacruz",
+                  "text": "Népszerű helyi állatkert, amely az őshonos kolumbiai vadvilág megőrzésére és bemutatására összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.333626,
+                        4.584572
+                  ]
+            },
+            {
+                  "name": "Hacienda Fute",
+                  "text": "Egy hagyományos vidéki kastély, amely a régió történelmi mezőgazdasági birtokait tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -74.280546,
+                        4.615759
+                  ]
+            },
+            {
+                  "name": "Paradero La virgen",
+                  "text": "Ez a zoologico-santacruz-life-v2 közelében található vallási útszéli emlékmű helyi szentélyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -74.306065,
+                        4.573926
+                  ]
+            },
+            {
+                  "name": "Nueva Esperanza",
+                  "text": "Ez a zoologico-santacruz-life-v2 melletti régészeti lelőhely prekolumbián településnyomok maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -74.28259,
+                        4.57546
+                  ]
+            },
+            {
+                  "name": "Varón del Sol",
+                  "text": "A zoologico-santacruz-life-v2 közelében lévő ősi lelőhelyen végzett ásatások a régió történelmi tárgyait tárják fel.",
+                  "category": "historical",
+                  "coords": [
+                        -74.216461,
+                        4.553129
+                  ]
+            },
+            {
+                  "name": "Piedras del Infinito",
+                  "text": "Ez a zoologico-santacruz-life-v2 melletti ásatási terület jellegzetes ősi sziklaalakzatairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -74.225458,
+                        4.548302
+                  ]
+            },
+            {
+                  "name": "Monasterio El Tuso",
+                  "text": "Ennek a régi kolostornak a régészeti romjai a zoologico-santacruz-life-v2 régióban találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -74.272658,
+                        4.549987
+                  ]
+            },
+            {
+                  "name": "Aire Libre",
+                  "text": "Ez a szabadtéri színház szabadtéri színpadot kínál a zoologico-santacruz-life-v2 közelében lévő előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.355645,
+                        4.524935
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Sibaté",
+                  "text": "A zoologico-santacruz-life-v2 melletti városi színházépület helyi művészeti és kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.263531,
+                        4.489097
+                  ]
+            },
+            {
+                  "name": "Upaesamrta",
+                  "text": "Ez a spirituális imaközpont teret biztosít a közösségi imádkozáshoz a zoologico-santacruz-life-v2 közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -74.236395,
+                        4.563492
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a helyi templomépület a zoologico-santacruz-life-v2 melletti gyülekezet fő istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -74.218063,
+                        4.561904
+                  ]
+            },
+            {
+                  "name": "Templo Mormon",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának ez a temploma a zoologico-santacruz-life-v2 régióban található.",
+                  "category": "religious",
+                  "coords": [
+                        -74.236615,
+                        4.566056
+                  ]
+            },
+            {
+                  "name": "Parroquia María Reina",
+                  "text": "Ez a Mária Királynőnek szentelt katolikus plébániatemplom a zoologico-santacruz-life-v2 közelében áll.",
+                  "category": "religious",
+                  "coords": [
+                        -74.225159,
+                        4.576611
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Fátima",
+                  "text": "Ez a katolikus imahely a Fátimai Szűzanyát tiszteli a zoologico-santacruz-life-v2 régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -74.240622,
+                        4.57867
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Carmen",
+                  "text": "A Kármelhegyi Boldogasszonynak szentelt katolikus templom a zoologico-santacruz-life-v2 közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        -74.258473,
+                        4.492047
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Ez a katolikus plébánia a zoologico-santacruz-life-v2 régióban a Kármelhegyi Szűzanyát tiszteli.",
+                  "category": "religious",
+                  "coords": [
+                        -74.351282,
+                        4.519022
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Ez a nyüzsgő fedett piac friss mezőgazdasági termékeket kínál a zoologico-santacruz-life-v2 közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.259689,
+                        4.492596
+                  ]
+            },
+            {
+                  "name": "Tirolesa",
+                  "text": "Ez a drótkötélpályás kaland a levegőben vezeti át a látogatókat a zoologico-santacruz-life-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.3105,
+                        4.617118
+                  ]
+            },
+            {
+                  "name": "Roquemonte",
+                  "text": "Ez a természeti látványosság festői tájakat és sziklaalakzatokat kínál a zoologico-santacruz-life-v2 mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.311409,
+                        4.60812
+                  ]
+            },
+            {
+                  "name": "Parque Chicaque",
+                  "text": "Ez a zoologico-santacruz-life-v2 melletti természeti park sűrű köderdő-ösvényeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.305476,
+                        4.606044
+                  ]
+            },
+            {
+                  "name": "El Túnel",
+                  "text": "Ez a történelmi alagútszerkezet figyelemre méltó látványosság a zoologico-santacruz-life-v2 közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.258406,
+                        4.479104
+                  ]
+            },
+            {
+                  "name": "Pinturas Rupestres",
+                  "text": "Ezen a zoologico-santacruz-life-v2 régióban található helyen a látogatók ősi sziklafestményeket és petroglifákat csodálhatnak meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.279029,
+                        4.524646
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Ez az Egyesült Pünkösdi Egyház keresztény hívőket gyűjt össze a zoologico-santacruz-life-v2 régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.23593,
+                        4.564823
+                  ]
+            },
+            {
+                  "name": "La Inmaculada",
+                  "text": "Ez a keresztény templom a zoologico-santacruz-life-v2 közelében a Szeplőtelen Fogantatásnak van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.257692,
+                        4.488584
+                  ]
+            },
+            {
+                  "name": "Varsana",
+                  "text": "Ez a hindu öko-jógafalu és temploma a zoologico-santacruz-life-v2 régióban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.353897,
+                        4.524348
+                  ]
+            },
+            {
+                  "name": "Capilla de San Joaquín y Santa Ana",
+                  "text": "Ez a keresztény kápolna Szent Joakimot és Annát tiszteli a zoologico-santacruz-life-v2 mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.245751,
+                        4.572718
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa María de Nazareth",
+                  "text": "A Názáreti Szent Máriának szentelt keresztény plébániatemplom a zoologico-santacruz-life-v2 közelében áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.238776,
+                        4.570285
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Día Yireh",
+                  "text": "A Hetednapi Adventista Egyház ezen keresztény temploma a zoologico-santacruz-life-v2 területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.235633,
+                        4.567638
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús de Nazaret",
+                  "text": "Ez a zoologico-santacruz-life-v2 melletti keresztény plébánia Názáreti Jézusnak van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.242031,
+                        4.559372
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "A Szent József tiszteletére emelt keresztény plébánia a zoologico-santacruz-life-v2 régióban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.230747,
+                        4.564376
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Amparo",
+                  "text": "A Menedék Anyjának szentelt keresztény plébánia a zoologico-santacruz-life-v2 közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.232614,
+                        4.574622
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Monte de Santidad",
+                  "text": "A keresztény közösség ezen központja a zoologico-santacruz-life-v2 régióban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.225794,
+                        4.578256
+                  ]
+            },
+            {
+                  "name": "Iglesia Manantiales de Amor y Poder",
+                  "text": "Ez a karizmatikus keresztény egyház a zoologico-santacruz-life-v2 közelében tartja istentiszteleteit.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.242498,
+                        4.577285
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "A Kármelhegyi Boldogasszonyt tisztelő keresztény templom a zoologico-santacruz-life-v2 régióban áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.342405,
+                        4.594456
+                  ]
+            },
+            {
+                  "name": "Mirador San Francisco",
+                  "text": "Ez a zoologico-santacruz-life-v2 melletti kilátó széles panorámát nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -74.301838,
+                        4.581768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Museo Salto del Tequendama",
+                  "text": "Un muzeu găzduit într-un conac istoric în stil francez din anii 1920, cu vedere la spectaculoasa cascadă Tequendama.",
+                  "category": "museum",
+                  "coords": [
+                        -74.296611,
+                        4.576205
+                  ]
+            },
+            {
+                  "name": "Salto de Tequendama",
+                  "text": "O cascadă dramatică de 132 de metri înălțime pe râul Bogotá, renumită pentru importanța sa peisagistică și istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.293805,
+                        4.57528
+                  ]
+            },
+            {
+                  "name": "Zoológico Santacruz",
+                  "text": "O grădină zoologică locală populară axată pe conservarea și expoziția faunei sălbatice columbiene native.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.333626,
+                        4.584572
+                  ]
+            },
+            {
+                  "name": "Hacienda Fute",
+                  "text": "Un conac rural tradițional care reflectă moșiile agricole istorice ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -74.280546,
+                        4.615759
+                  ]
+            },
+            {
+                  "name": "Paradero La virgen",
+                  "text": "Acest monument religios de pe marginea drumului, lângă zoologico-santacruz-life-v2, servește ca altar local.",
+                  "category": "historical",
+                  "coords": [
+                        -74.306065,
+                        4.573926
+                  ]
+            },
+            {
+                  "name": "Nueva Esperanza",
+                  "text": "Acest sit arheologic de lângă zoologico-santacruz-life-v2 păstrează rămășițele unor urme de așezări precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -74.28259,
+                        4.57546
+                  ]
+            },
+            {
+                  "name": "Varón del Sol",
+                  "text": "Săpăturile de la acest sit antic de lângă zoologico-santacruz-life-v2 scot la iveală artefacte istorice din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -74.216461,
+                        4.553129
+                  ]
+            },
+            {
+                  "name": "Piedras del Infinito",
+                  "text": "Această zonă de excavații de lângă zoologico-santacruz-life-v2 este cunoscută pentru formațiunile sale stâncoase antice distincte.",
+                  "category": "historical",
+                  "coords": [
+                        -74.225458,
+                        4.548302
+                  ]
+            },
+            {
+                  "name": "Monasterio El Tuso",
+                  "text": "Ruinele arheologice ale acestei vechi mănăstiri se află în regiunea zoologico-santacruz-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -74.272658,
+                        4.549987
+                  ]
+            },
+            {
+                  "name": "Aire Libre",
+                  "text": "Acest teatru în aer liber oferă o scenă exterioară pentru spectacole lângă zoologico-santacruz-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.355645,
+                        4.524935
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Sibaté",
+                  "text": "Clădirea teatrului municipal de lângă zoologico-santacruz-life-v2 găzduiește spectacole locale de artă și cultură.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.263531,
+                        4.489097
+                  ]
+            },
+            {
+                  "name": "Upaesamrta",
+                  "text": "Acest centru de cult spiritual oferă un spațiu pentru rugăciune comunitară lângă zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.236395,
+                        4.563492
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Această clădire a bisericii locale servește drept principal lăcaș de cult pentru congregația de lângă zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.218063,
+                        4.561904
+                  ]
+            },
+            {
+                  "name": "Templo Mormon",
+                  "text": "Acest templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă este situat în regiunea zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.236615,
+                        4.566056
+                  ]
+            },
+            {
+                  "name": "Parroquia María Reina",
+                  "text": "Această biserică parohială catolică cu hramul Maria Regină se află lângă zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.225159,
+                        4.576611
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Fátima",
+                  "text": "Acest lăcaș de cult catolic o onorează pe Sfânta Fecioară din Fátima în regiunea zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.240622,
+                        4.57867
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Carmen",
+                  "text": "Biserica catolică cu hramul Maicii Domnului de pe Muntele Carmel este situată lângă zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.258473,
+                        4.492047
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Această parohie catolică din regiunea zoologico-santacruz-life-v2 o onorează pe Fecioara din Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        -74.351282,
+                        4.519022
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Această piață interioară plină de viață oferă produse agricole proaspete lângă zoologico-santacruz-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.259689,
+                        4.492596
+                  ]
+            },
+            {
+                  "name": "Tirolesa",
+                  "text": "Această aventură cu tiroliana poartă vizitatorii prin aer în regiunea zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.3105,
+                        4.617118
+                  ]
+            },
+            {
+                  "name": "Roquemonte",
+                  "text": "Această atracție naturală oferă peisaje pitorești și formațiuni stâncoase lângă zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.311409,
+                        4.60812
+                  ]
+            },
+            {
+                  "name": "Parque Chicaque",
+                  "text": "Acest parc natural de lângă zoologico-santacruz-life-v2 se caracterizează prin traseele sale dense de pădure de nori.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.305476,
+                        4.606044
+                  ]
+            },
+            {
+                  "name": "El Túnel",
+                  "text": "Această structură istorică de tunel este o atracție notabilă în apropiere de zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.258406,
+                        4.479104
+                  ]
+            },
+            {
+                  "name": "Pinturas Rupestres",
+                  "text": "În acest loc din regiunea zoologico-santacruz-life-v2, vizitatorii pot admira picturi rupestre și petroglife antice.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.279029,
+                        4.524646
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Această Biserică Penticostală Unită adună credincioși creștini în regiunea zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.23593,
+                        4.564823
+                  ]
+            },
+            {
+                  "name": "La Inmaculada",
+                  "text": "Această biserică creștină din apropiere de zoologico-santacruz-life-v2 este închinată Imaculatei Concepții.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.257692,
+                        4.488584
+                  ]
+            },
+            {
+                  "name": "Varsana",
+                  "text": "Acest sat eco-yoga hindus și templul său se află în regiunea zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.353897,
+                        4.524348
+                  ]
+            },
+            {
+                  "name": "Capilla de San Joaquín y Santa Ana",
+                  "text": "Această capelă creștină îi onorează pe Sfinții Ioachim și Ana lângă zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.245751,
+                        4.572718
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa María de Nazareth",
+                  "text": "Biserica parohială creștină cu hramul Sfânta Maria din Nazaret se află lângă zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.238776,
+                        4.570285
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Día Yireh",
+                  "text": "Această biserică creștină adventistă de ziua a șaptea se află în zona zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.235633,
+                        4.567638
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús de Nazaret",
+                  "text": "Această parohie creștină de lângă zoologico-santacruz-life-v2 este dedicată lui Isus din Nazaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.242031,
+                        4.559372
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "Parohia creștină în onoarea Sfântului Iosif se află în regiunea zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.230747,
+                        4.564376
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Amparo",
+                  "text": "Această parohie creștină, dedicată Maicii Domnului de Adăpost, se află lângă zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.232614,
+                        4.574622
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Monte de Santidad",
+                  "text": "Acest centru al comunității creștine se află în regiunea zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.225794,
+                        4.578256
+                  ]
+            },
+            {
+                  "name": "Iglesia Manantiales de Amor y Poder",
+                  "text": "Această biserică creștină carismatică își ține slujbele lângă zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.242498,
+                        4.577285
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "Biserica creștină care o onorează pe Maica Domnului de pe Muntele Carmel se află în regiunea zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.342405,
+                        4.594456
+                  ]
+            },
+            {
+                  "name": "Mirador San Francisco",
+                  "text": "Acest punct de belvedere de lângă zoologico-santacruz-life-v2 oferă o vedere panoramică largă asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        -74.301838,
+                        4.581768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tequendama Falls Museum",
+                  "text": "A museum housed in a historic 1920s French-style mansion overlooking the spectacular Tequendama Falls.",
+                  "category": "museum",
+                  "coords": [
+                        -74.296611,
+                        4.576205
+                  ]
+            },
+            {
+                  "name": "Salto de Tequendama",
+                  "text": "A dramatic 132-metre high waterfall on the Bogotá River, renowned for its scenic and historical significance.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.293805,
+                        4.57528
+                  ]
+            },
+            {
+                  "name": "Zoológico Santacruz",
+                  "text": "A popular local zoo focused on the conservation and exhibition of native Colombian wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.333626,
+                        4.584572
+                  ]
+            },
+            {
+                  "name": "Hacienda Fute",
+                  "text": "A traditional countryside manor reflecting the historical agricultural estates of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -74.280546,
+                        4.615759
+                  ]
+            },
+            {
+                  "name": "Paradero La virgen",
+                  "text": "This religious roadside monument near the zoologico-santacruz-life-v2 serves as a local shrine.",
+                  "category": "historical",
+                  "coords": [
+                        -74.306065,
+                        4.573926
+                  ]
+            },
+            {
+                  "name": "Nueva Esperanza",
+                  "text": "This archaeological site by the zoologico-santacruz-life-v2 preserves the remains of pre-Columbian settlement traces.",
+                  "category": "historical",
+                  "coords": [
+                        -74.28259,
+                        4.57546
+                  ]
+            },
+            {
+                  "name": "Varón del Sol",
+                  "text": "Excavations at this ancient site near the zoologico-santacruz-life-v2 reveal historical artifacts of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -74.216461,
+                        4.553129
+                  ]
+            },
+            {
+                  "name": "Piedras del Infinito",
+                  "text": "This excavation area by the zoologico-santacruz-life-v2 is known for its distinct ancient rock formations.",
+                  "category": "historical",
+                  "coords": [
+                        -74.225458,
+                        4.548302
+                  ]
+            },
+            {
+                  "name": "Monasterio El Tuso",
+                  "text": "The archaeological ruins of this old monastery are located in the region of the zoologico-santacruz-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -74.272658,
+                        4.549987
+                  ]
+            },
+            {
+                  "name": "Aire Libre",
+                  "text": "This open-air theatre provides an outdoor stage for performances near the zoologico-santacruz-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.355645,
+                        4.524935
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Sibaté",
+                  "text": "The municipal theatre building by the zoologico-santacruz-life-v2 hosts local arts and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.263531,
+                        4.489097
+                  ]
+            },
+            {
+                  "name": "Upaesamrta",
+                  "text": "This spiritual worship center provides a space for community prayer near the zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.236395,
+                        4.563492
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "This local church building serves as the main place of worship for the congregation by the zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.218063,
+                        4.561904
+                  ]
+            },
+            {
+                  "name": "Templo Mormon",
+                  "text": "This Latter-day Saints temple is located in the region of the zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.236615,
+                        4.566056
+                  ]
+            },
+            {
+                  "name": "Parroquia María Reina",
+                  "text": "This Catholic parish church dedicated to Mary Queen stands near the zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.225159,
+                        4.576611
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Fátima",
+                  "text": "This Catholic place of worship honors Our Lady of Fatima in the region of the zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.240622,
+                        4.57867
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Carmen",
+                  "text": "The Catholic church dedicated to Our Lady of Mount Carmel is located near the zoologico-santacruz-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -74.258473,
+                        4.492047
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "This Catholic parish in the region of the zoologico-santacruz-life-v2 honors the Virgin of Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        -74.351282,
+                        4.519022
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "This bustling indoor marketplace offers fresh agricultural produce near the zoologico-santacruz-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.259689,
+                        4.492596
+                  ]
+            },
+            {
+                  "name": "Zipline",
+                  "text": "This zipline adventure course carries visitors through the air in the region of the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.3105,
+                        4.617118
+                  ]
+            },
+            {
+                  "name": "Roquemonte",
+                  "text": "This natural attraction features scenic landscapes and rock formations by the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.311409,
+                        4.60812
+                  ]
+            },
+            {
+                  "name": "Parque Chicaque",
+                  "text": "This natural park by the zoologico-santacruz-life-v2 is characterized by its dense cloud forest trails.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.305476,
+                        4.606044
+                  ]
+            },
+            {
+                  "name": "El Túnel",
+                  "text": "This historic tunnel structure is a notable attraction near the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.258406,
+                        4.479104
+                  ]
+            },
+            {
+                  "name": "Pinturas Rupestres",
+                  "text": "Visitors can view ancient rock paintings and petroglyphs at this site in the region of the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.279029,
+                        4.524646
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "This United Pentecostal Church gathers Christian believers in the region of the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.23593,
+                        4.564823
+                  ]
+            },
+            {
+                  "name": "La Inmaculada",
+                  "text": "This Christian church near the zoologico-santacruz-life-v2 is dedicated to the Immaculate Conception.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.257692,
+                        4.488584
+                  ]
+            },
+            {
+                  "name": "Varsana",
+                  "text": "This Hindu eco-yoga village and temple are located in the region of the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.353897,
+                        4.524348
+                  ]
+            },
+            {
+                  "name": "Capilla de San Joaquín y Santa Ana",
+                  "text": "This Christian chapel honors Saints Joachim and Anne by the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.245751,
+                        4.572718
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa María de Nazareth",
+                  "text": "The Christian parish church dedicated to St. Mary of Nazareth stands near the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.238776,
+                        4.570285
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Día Yireh",
+                  "text": "This Seventh-day Adventist Christian church is located in the area of the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.235633,
+                        4.567638
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús de Nazaret",
+                  "text": "This Christian parish by the zoologico-santacruz-life-v2 is dedicated to Jesus of Nazareth.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.242031,
+                        4.559372
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "The Christian parish honoring St. Joseph is located in the region of the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.230747,
+                        4.564376
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Amparo",
+                  "text": "This Christian parish dedicated to Our Lady of Shelter is located near the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.232614,
+                        4.574622
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Monte de Santidad",
+                  "text": "This Christian community center is situated in the region of the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.225794,
+                        4.578256
+                  ]
+            },
+            {
+                  "name": "Iglesia Manantiales de Amor y Poder",
+                  "text": "This charismatic Christian church holds its services near the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.242498,
+                        4.577285
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "The Christian church honoring Our Lady of Mount Carmel stands in the region of the zoologico-santacruz-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.342405,
+                        4.594456
+                  ]
+            },
+            {
+                  "name": "Mirador San Francisco",
+                  "text": "This scenic viewpoint by the zoologico-santacruz-life-v2 offers a wide panoramic look over the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -74.301838,
+                        4.581768
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-CUN",
     coords: [-74.3005, 4.5367],
@@ -1177,7 +13867,484 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "finca-recuca-life-v2",
+    id: "finca-recuca-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "RECUCA, Recorrido de la Cultura Cafetera.",
+                  "text": "Ein interaktiver Kaffeebauernhof, auf dem Besucher aktiv am traditionellen Ernte- und Röstprozess teilnehmen können.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.733214,
+                        4.432249
+                  ]
+            },
+            {
+                  "name": "Sede Social Junta de Acción Comunal Urb. Bosques de Pinares",
+                  "text": "Ein gemeinschaftliches Freizeitzentrum mit Schwimmbecken für Anwohner und Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.693104,
+                        4.513175
+                  ]
+            },
+            {
+                  "name": "Turbina Pelton",
+                  "text": "Ein technisches Denkmal, das eine Pelton-Turbine zur Veranschaulichung der Wasserkraftnutzung zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.699241,
+                        4.520239
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Bosco",
+                  "text": "Eine dem heiligen Johannes Bosco gewidmete katholische Kirche, die für ihre Jugendarbeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.694441,
+                        4.512638
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein modernes Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.709077,
+                        4.518878
+                  ]
+            },
+            {
+                  "name": "Parroquia Juan Pablo II",
+                  "text": "Diese moderne katholische Kirche wurde zu Ehren von Papst Johannes Paul II. errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        -75.712534,
+                        4.520727
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia La Divina Misericordia",
+                  "text": "Ein katholischer Andachtsort, der der göttlichen Barmherzigkeit gewidmet ist und Ruhe bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -75.713124,
+                        4.517509
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Diese evangelische Versammlungshalle dient der lokalen Gemeinde im ländlichen Quindío als schlichter Ort des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.691116,
+                        4.512378
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "Ein modernes christliches Gemeindezentrum mit der charakteristischen schlichten Fassade dieser internationalen Denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.687775,
+                        4.513722
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Ana",
+                  "text": "Eine katholische Pfarrkirche in der Nähe der Kaffeefarmen, die für ihre traditionelle kolumbianische Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692627,
+                        4.517143
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rita de Casia",
+                  "text": "Diese katholische Kirche ist der Schutzpatronin der aussichtslosen Anliegen gewidmet und ein lokaler Wallfahrtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.707458,
+                        4.517732
+                  ]
+            },
+            {
+                  "name": "Parroquia María Auxiliadora",
+                  "text": "Eine der Maria geweihte Pfarrei, die als geistliches Zentrum für die umliegenden ländlichen Siedlungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.708619,
+                        4.475886
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Diese Kirche ist Unserer Lieben Frau vom Berge Karmel gewidmet, der Schutzpatronin der kolumbianischen Fahrer.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.718138,
+                        4.427795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "RECUCA, Recorrido de la Cultura Cafetera.",
+                  "text": "Interaktív kávébirtok, ahol a látogatók aktívan részt vehetnek a hagyományos szüretelési és pörkölési folyamatban.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.733214,
+                        4.432249
+                  ]
+            },
+            {
+                  "name": "Sede Social Junta de Acción Comunal Urb. Bosques de Pinares",
+                  "text": "Közösségi szabadidős központ úszómedencékkel a helyi lakosok és látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.693104,
+                        4.513175
+                  ]
+            },
+            {
+                  "name": "Turbina Pelton",
+                  "text": "Műszaki emlékmű, amely egy Pelton-turbinát mutat be a vízenergia felhasználásának szemléltetésére.",
+                  "category": "historical",
+                  "coords": [
+                        -75.699241,
+                        4.520239
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Bosco",
+                  "text": "Bosco Szent Jánosnak szentelt katolikus templom, amely ifjúsági munkájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.694441,
+                        4.512638
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának modern gyülekezeti háza.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.709077,
+                        4.518878
+                  ]
+            },
+            {
+                  "name": "Parroquia Juan Pablo II",
+                  "text": "Ez a modern katolikus templom II. János Pál pápa tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        -75.712534,
+                        4.520727
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia La Divina Misericordia",
+                  "text": "Az isteni irgalmasságnak szentelt katolikus áhítati hely, amely nyugalmat kínál.",
+                  "category": "religious",
+                  "coords": [
+                        -75.713124,
+                        4.517509
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Ez az evangéliumi gyülekezeti terem a helyi közösség szerény imaházaként szolgál Quindío vidéki részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.691116,
+                        4.512378
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "Modern keresztény közösségi központ, amely e nemzetközi felekezet jellegzetes, letisztult homlokzatával rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.687775,
+                        4.513722
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Ana",
+                  "text": "A kávéültetvények közelében fekvő katolikus plébániatemplom, amely hagyományos kolumbiai építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692627,
+                        4.517143
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rita de Casia",
+                  "text": "Ezt a katolikus templomot a lehetetlen ügyek védőszentjének szentelték, és helyi zarándokhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.707458,
+                        4.517732
+                  ]
+            },
+            {
+                  "name": "Parroquia María Auxiliadora",
+                  "text": "Szűz Máriának szentelt plébánia, amely a környező vidéki települések lelki központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.708619,
+                        4.475886
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Ezt a templomot a Karmel-hegyi Boldogasszonynak, a kolumbiai sofőrök védőszentjének szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.718138,
+                        4.427795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "RECUCA, Recorrido de la Cultura Cafetera.",
+                  "text": "O fermă de cafea interactivă unde vizitatorii pot participa activ la procesul tradițional de recoltare și prăjire.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.733214,
+                        4.432249
+                  ]
+            },
+            {
+                  "name": "Sede Social Junta de Acción Comunal Urb. Bosques de Pinares",
+                  "text": "Un centru de recreere comunitar cu piscine pentru rezidenți și vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.693104,
+                        4.513175
+                  ]
+            },
+            {
+                  "name": "Turbina Pelton",
+                  "text": "Un monument tehnic care expune o turbină Pelton pentru a ilustra utilizarea energiei hidroelectrice.",
+                  "category": "historical",
+                  "coords": [
+                        -75.699241,
+                        4.520239
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Bosco",
+                  "text": "O biserică catolică dedicată Sfântului Ioan Bosco, cunoscută pentru activitățile dedicate tineretului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.694441,
+                        4.512638
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri modernă a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.709077,
+                        4.518878
+                  ]
+            },
+            {
+                  "name": "Parroquia Juan Pablo II",
+                  "text": "Această biserică catolică modernă a fost construită în onoarea Papei Ioan Paul al II-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -75.712534,
+                        4.520727
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia La Divina Misericordia",
+                  "text": "Un loc de devoțiune catolic dedicat Divinei Milostiviri, oferind un spațiu pentru liniște.",
+                  "category": "religious",
+                  "coords": [
+                        -75.713124,
+                        4.517509
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Această sală de adunare evanghelică servește comunității locale ca un loc simplu de rugăciune în zona rurală din Quindío.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.691116,
+                        4.512378
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "Un centru comunitar creștin modern, cu fațada simplă caracteristică acestei denominațiuni internaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.687775,
+                        4.513722
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Ana",
+                  "text": "O biserică parohială catolică situată în apropierea fermelor de cafea, cunoscută pentru arhitectura sa tradițională columbiană.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692627,
+                        4.517143
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rita de Casia",
+                  "text": "Această biserică catolică este dedicată patroanei cauzelor imposibile și este un loc local de pelerinaj.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.707458,
+                        4.517732
+                  ]
+            },
+            {
+                  "name": "Parroquia María Auxiliadora",
+                  "text": "O parohie dedicată Fecioarei Maria, care funcționează ca centru spiritual pentru așezările rurale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.708619,
+                        4.475886
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Această biserică este dedicată Maicii Domnului de pe Muntele Carmel, patroana șoferilor columbieni.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.718138,
+                        4.427795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "RECUCA, Recorrido de la Cultura Cafetera.",
+                  "text": "An interactive coffee farm where visitors can participate actively in the traditional harvesting and roasting process.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.733214,
+                        4.432249
+                  ]
+            },
+            {
+                  "name": "Sede Social Junta de Acción Comunal Urb. Bosques de Pinares",
+                  "text": "A community recreation center featuring swimming pools for local residents and visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.693104,
+                        4.513175
+                  ]
+            },
+            {
+                  "name": "Turbina Pelton",
+                  "text": "A technical monument displaying a Pelton turbine to illustrate the use of hydroelectric power.",
+                  "category": "historical",
+                  "coords": [
+                        -75.699241,
+                        4.520239
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Bosco",
+                  "text": "A Catholic church dedicated to Saint John Bosco, known for its community youth programs.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.694441,
+                        4.512638
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A modern meetinghouse for the Church of Jesus Christ of Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.709077,
+                        4.518878
+                  ]
+            },
+            {
+                  "name": "Parroquia Juan Pablo II",
+                  "text": "This modern Catholic church was built in honor of Pope John Paul II.",
+                  "category": "religious",
+                  "coords": [
+                        -75.712534,
+                        4.520727
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia La Divina Misericordia",
+                  "text": "A Catholic devotional site dedicated to the Divine Mercy, providing a space for quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -75.713124,
+                        4.517509
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "This evangelical assembly hall serves the local community as a simple house of prayer in the rural Quindío countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.691116,
+                        4.512378
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "A modern Christian community center featuring the characteristic minimalist facade of this international denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.687775,
+                        4.513722
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Ana",
+                  "text": "A Catholic parish church located near the coffee farms, known for its traditional Colombian rural architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692627,
+                        4.517143
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rita de Casia",
+                  "text": "This Catholic church is dedicated to the patron saint of impossible causes and serves as a local pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.707458,
+                        4.517732
+                  ]
+            },
+            {
+                  "name": "Parroquia María Auxiliadora",
+                  "text": "A parish dedicated to Mary Help of Christians, serving as a spiritual hub for the surrounding rural settlements.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.708619,
+                        4.475886
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "This church is dedicated to Our Lady of Mount Carmel, the patron saint of Colombian drivers and travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.718138,
+                        4.427795
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CO-QUI",
     coords: [-75.6983, 4.4984],
@@ -1226,7 +14393,1276 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "finca-el-ocaso-life-v2",
+    id: "finca-el-ocaso-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Alto De La Cruz",
+                  "text": "Ein Aussichtspunkt am Ende einer Treppe, der einen weiten Blick über das Dorf Salento und das Cocora-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.632791,
+                        4.619725
+                  ]
+            },
+            {
+                  "name": "Finca en Edén del Quindio",
+                  "text": "Diese malerische Finca inmitten grüner Hügel bietet Einblicke in das ländliche Leben der kolumbianischen Kaffeezone.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.615286,
+                        4.607348
+                  ]
+            },
+            {
+                  "name": "Finca Buenos Aires",
+                  "text": "Ein traditioneller Bauernhof, der für seine ruhige Lage und die umliegenden Kaffeeplantagen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609668,
+                        4.614512
+                  ]
+            },
+            {
+                  "name": "Tour de Finca La Ocaso",
+                  "text": "Diese Kaffeefarm bietet geführte Touren durch die Plantagen mit Blick auf das tiefe Tal des Rio Quindío.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.595904,
+                        4.625919
+                  ]
+            },
+            {
+                  "name": "Tour de Finca Don Elias",
+                  "text": "Ein Familienbetrieb, der sich auf organischen Kaffeeanbau spezialisiert hat und den traditionellen Röstprozess zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.597311,
+                        4.624523
+                  ]
+            },
+            {
+                  "name": "Finca Abundancia",
+                  "text": "Eine ökologische Finca, auf der Besucher verschiedene Nutzpflanzen und die reiche lokale Biodiversität entdecken können.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.597994,
+                        4.623316
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Kasaguadua",
+                  "text": "Ein privates Naturschutzgebiet im Nebelwald, das sich durch seine Bambuswälder und ökologische Architektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.588384,
+                        4.62873
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein Aussichtspunkt oberhalb der Kaffeefarmen, ideal für Fotos der geschwungenen Hügellandschaft von Salento.",
+                  "category": "natural",
+                  "coords": [
+                        -75.586306,
+                        4.626668
+                  ]
+            },
+            {
+                  "name": "Finca Entrebosques",
+                  "text": "Diese Finca liegt am Rande eines Waldes und verbindet landwirtschaftliche Produktion mit Naturschutz.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.587544,
+                        4.626345
+                  ]
+            },
+            {
+                  "name": "Cristo Rey",
+                  "text": "Ein monumentales Christus-Denkmal auf einem Hügel, das als Aussichtsplattform über das Dorf Salento dient.",
+                  "category": "historical",
+                  "coords": [
+                        -75.588106,
+                        4.57758
+                  ]
+            },
+            {
+                  "name": "NO WAY DOWN! Path ends at the beginning of the forest. (07.2024)",
+                  "text": "Dieser Wanderpfad führt tief in den Wald hinein und endet an einer unberührten Naturzone.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.545735,
+                        4.615254
+                  ]
+            },
+            {
+                  "name": "Mirador Alexandra",
+                  "text": "Ein ruhiger Aussichtspunkt, der einen weiten Blick über die bewaldeten Täler der Zentralkordillere bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.545553,
+                        4.618444
+                  ]
+            },
+            {
+                  "name": "Horse tour",
+                  "text": "Geführte Reitausflüge auf traditionellen Pfaden, die durch die Kaffeelandschaft und zu versteckten Bächen führen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.572022,
+                        4.633865
+                  ]
+            },
+            {
+                  "name": "Mirador de la Valle",
+                  "text": "Ein Aussichtspunkt mit spektakulärem Blick auf das Cocora-Tal, die Heimat der riesigen Wachspalmen.",
+                  "category": "natural",
+                  "coords": [
+                        -75.560827,
+                        4.632458
+                  ]
+            },
+            {
+                  "name": "Alto De La Cruz",
+                  "text": "Der höchste Punkt über Salento, markiert durch ein Kreuz, bietet den besten Rundumblick auf die Region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.56647,
+                        4.639654
+                  ]
+            },
+            {
+                  "name": "Mirador Valle del Cocora",
+                  "text": "Dieser Aussichtspunkt bietet einen Panoramablick auf die hoch aufragenden Wachspalmen im grünen Cocora-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -75.566847,
+                        4.640723
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Von hier aus blickt man über die nebelverhangenen Nebelwälder und weiten Weiden des Andenhochlands.",
+                  "category": "natural",
+                  "coords": [
+                        -75.572219,
+                        4.655102
+                  ]
+            },
+            {
+                  "name": "Piscinas naturales",
+                  "text": "Inmitten der Kaffeefincas gelegene Außenbecken, die mit frischem Bergquellwasser gespeist werden.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.569485,
+                        4.661305
+                  ]
+            },
+            {
+                  "name": "Portugal",
+                  "text": "Dieses Schutzgebiet bewahrt den unberührten andinen Nebelwald und seine vielfältige Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        -75.531701,
+                        4.640877
+                  ]
+            },
+            {
+                  "name": "Sendero a Cascadas de Cocora",
+                  "text": "Ein Wanderweg durch den Dschungel führt zu versteckten Kaskaden, die über moosbedeckte Felsen stürzen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.508043,
+                        4.636367
+                  ]
+            },
+            {
+                  "name": "Ecoparque Tupaís",
+                  "text": "Ökopark mit Lehrpfaden zur heimischen Flora und Fauna der kolumbianischen Kaffeeregion.",
+                  "category": "natural",
+                  "coords": [
+                        -75.577288,
+                        4.634733
+                  ]
+            },
+            {
+                  "name": "La Rosa de los Vientos",
+                  "text": "Ein hochgelegenes Reservat, das für seinen weiten Blick über die Zentralkordillere und seltene Orchideen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -75.587505,
+                        4.644875
+                  ]
+            },
+            {
+                  "name": "Casa Museo Cipriano Echeverri",
+                  "text": "Dieses historische Haus zeigt antike Möbel und Artefakte aus der Pionierzeit der Kaffeebauern im Quindío.",
+                  "category": "museum",
+                  "coords": [
+                        -75.639369,
+                        4.620648
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "Eine moderne christliche Kirche mit schlichter Architektur, die als lokales Gemeindezentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.636136,
+                        4.620056
+                  ]
+            },
+            {
+                  "name": "Fe y Esperanza",
+                  "text": "Ein kleiner protestantischer Gebetsraum in den Hügeln, bekannt für seine familiäre Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.63533,
+                        4.614867
+                  ]
+            },
+            {
+                  "name": "Ministerio Evangélistico Cristo Salva",
+                  "text": "Diese evangelikale Missionsstation liegt im Herzen der Kaffeeregion und bietet regelmäßige Gottesdienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634511,
+                        4.617046
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein funktionales Gebäude für die Versammlungen der Zeugen Jehovas in der ländlichen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.636477,
+                        4.618996
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Los Olivos",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten im Viertel Los Olivos, die für ihre Gemeindearbeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.632208,
+                        4.621658
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de las Mercedes",
+                  "text": "Diese katholische Kirche beeindruckt durch ihre farbenfrohe Holzfassade im typischen Stil von Filandia.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634004,
+                        4.619912
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Diese christliche Gemeinde versammelt sich in einem schlichten Gebäude zur gemeinsamen Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634928,
+                        4.621329
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Circasia La Pilastra",
+                  "text": "Die Pfingstkirche im Bezirk La Pilastra zeichnet sich durch ihre enge Einbindung in die Nachbarschaft aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.638936,
+                        4.619704
+                  ]
+            },
+            {
+                  "name": "arroquia Nuestra Señora del Rosario",
+                  "text": "Diese leuchtend weiße Kolonialkirche an der Plaza von Salento ist das Wahrzeichen des Dorfes.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.641217,
+                        4.61971
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Eine charmante Kirche mit bunt bemalten Fenstern und Türen, die den architektonischen Geist des Quindío widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.569244,
+                        4.637507
+                  ]
+            },
+            {
+                  "name": "Ecoresort Gran Azul",
+                  "text": "Wellness-Resort mit Blick auf die Kaffeefelder, das Massagen mit natürlichen Kaffeesextrakten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.563038,
+                        4.636867
+                  ]
+            },
+            {
+                  "name": "Ixupark",
+                  "text": "Natürliche Thermalbecken, die von vulkanischer Aktivität erwärmt und von tropischer Vegetation umgeben sind.",
+                  "category": "natural",
+                  "coords": [
+                        -75.584226,
+                        4.639699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Alto De La Cruz",
+                  "text": "Egy lépcsősor végén található kilátópont, ahonnan pazar kilátás nyílik Salento falura és a Cocora-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -75.632791,
+                        4.619725
+                  ]
+            },
+            {
+                  "name": "Finca en Edén del Quindio",
+                  "text": "Ez a zöld dombok között fekvő festői finca betekintést nyújt a kolumbiai kávéövezet vidéki életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.615286,
+                        4.607348
+                  ]
+            },
+            {
+                  "name": "Finca Buenos Aires",
+                  "text": "Egy hagyományos gazdaság, amely nyugodt elhelyezkedéséről és a környező kávéültetvényekről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609668,
+                        4.614512
+                  ]
+            },
+            {
+                  "name": "Tour de Finca La Ocaso",
+                  "text": "Ez a kávéfarm vezetett túrákat kínál az ültetvényeken keresztül, kilátással a Rio Quindío mély völgyére.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.595904,
+                        4.625919
+                  ]
+            },
+            {
+                  "name": "Tour de Finca Don Elias",
+                  "text": "Családi gazdaság, amely az organikus kávétermesztésre specializálódott, és bemutatja a hagyományos pörkölést.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.597311,
+                        4.624523
+                  ]
+            },
+            {
+                  "name": "Finca Abundancia",
+                  "text": "Ökológiai gazdaság, ahol a látogatók különféle haszonnövényeket és a gazdag helyi biodiverzitást fedezhetik fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.597994,
+                        4.623316
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Kasaguadua",
+                  "text": "Magánkézben lévő természetvédelmi terület a köderdőben, amelyet bambuszerdők és ökológiai építészet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.588384,
+                        4.62873
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A kávéfarmok felett található kilátópont, amely ideális Salento hullámzó dombvidékének fotózásához.",
+                  "category": "natural",
+                  "coords": [
+                        -75.586306,
+                        4.626668
+                  ]
+            },
+            {
+                  "name": "Finca Entrebosques",
+                  "text": "Ez a finca egy erdő szélén található, összekötve a mezőgazdasági termelést a természetvédelemmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.587544,
+                        4.626345
+                  ]
+            },
+            {
+                  "name": "Cristo Rey",
+                  "text": "Egy dombtetőn álló Krisztus-emlékmű, amely kilátóként is szolgál Salento falujára.",
+                  "category": "historical",
+                  "coords": [
+                        -75.588106,
+                        4.57758
+                  ]
+            },
+            {
+                  "name": "NO WAY DOWN! Path ends at the beginning of the forest. (07.2024)",
+                  "text": "Ez a túraösvény mélyen az erdőbe vezet, és egy érintetlen természeti zónánál ér véget.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.545735,
+                        4.615254
+                  ]
+            },
+            {
+                  "name": "Mirador Alexandra",
+                  "text": "Nyugodt kilátópont, ahonnan tágas kilátás nyílik a Középső-Kordillerák erdős völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -75.545553,
+                        4.618444
+                  ]
+            },
+            {
+                  "name": "Horse tour",
+                  "text": "Vezetett lovastúrák hagyományos ösvényeken, kávéültetvényeken és rejtett patakok mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.572022,
+                        4.633865
+                  ]
+            },
+            {
+                  "name": "Mirador de la Valle",
+                  "text": "Kilátópont, ahonnan látványos panoráma nyílik a Cocora-völgyre, az óriási viaszpálmák hazájára.",
+                  "category": "natural",
+                  "coords": [
+                        -75.560827,
+                        4.632458
+                  ]
+            },
+            {
+                  "name": "Alto De La Cruz",
+                  "text": "Salento feletti legmagasabb pont, amelyet egy kereszt jelöl, és a legjobb körpanorámát nyújtja a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        -75.56647,
+                        4.639654
+                  ]
+            },
+            {
+                  "name": "Mirador Valle del Cocora",
+                  "text": "Ez a kilátópálya panorámás kilátást nyújt a Cocora-völgy zöldellő táján magasodó viaszpálmákra.",
+                  "category": "natural",
+                  "coords": [
+                        -75.566847,
+                        4.640723
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Innen kilátás nyílik az Andok ködös köderdeire és tágas legelőire.",
+                  "category": "natural",
+                  "coords": [
+                        -75.572219,
+                        4.655102
+                  ]
+            },
+            {
+                  "name": "Piscinas naturales",
+                  "text": "Kávéfarmok között fekvő szabadtéri medencék, amelyeket friss hegyi forrásvíz táplál.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.569485,
+                        4.661305
+                  ]
+            },
+            {
+                  "name": "Portugal",
+                  "text": "Ez a védett terület az érintetlen andoki köderdőt és annak változatos madárvilágát őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        -75.531701,
+                        4.640877
+                  ]
+            },
+            {
+                  "name": "Sendero a Cascadas de Cocora",
+                  "text": "A dzsungelen átvezető túraútvonal rejtett vízesésekhez vezet, amelyek mohás sziklákon zúdulnak le.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.508043,
+                        4.636367
+                  ]
+            },
+            {
+                  "name": "Ecoparque Tupaís",
+                  "text": "Ökopark tanösvényekkel, amelyek a kolumbiai kávévidék őshonos növény- és állatvilágát mutatják be.",
+                  "category": "natural",
+                  "coords": [
+                        -75.577288,
+                        4.634733
+                  ]
+            },
+            {
+                  "name": "La Rosa de los Vientos",
+                  "text": "Magaslati rezervátum, amely a Központi-Kordillerákra nyíló kilátásáról és ritka orchideáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -75.587505,
+                        4.644875
+                  ]
+            },
+            {
+                  "name": "Casa Museo Cipriano Echeverri",
+                  "text": "Ez a történelmi ház Quindío kávétermesztőinek úttörő korából származó antik bútorokat és tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -75.639369,
+                        4.620648
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "Egyszerű építészetű modern keresztény templom, amely helyi közösségi központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.636136,
+                        4.620056
+                  ]
+            },
+            {
+                  "name": "Fe y Esperanza",
+                  "text": "Kicsi protestáns imaház a dombok között, amely családias légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.63533,
+                        4.614867
+                  ]
+            },
+            {
+                  "name": "Ministerio Evangélistico Cristo Salva",
+                  "text": "Ez az evangéliumi missziós központ a kávévidék szívében található, és rendszeres istentiszteleteket tart.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634511,
+                        4.617046
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Funkcionális épület Jehova Tanúi gyülekezeti összejöveteleihez a vidéki környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.636477,
+                        4.618996
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Los Olivos",
+                  "text": "A Hetednapi Adventista Egyház temploma a Los Olivos negyedben, amely közösségi munkájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.632208,
+                        4.621658
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de las Mercedes",
+                  "text": "Ez a katolikus templom Filandia jellegzetes stílusú, színes homlokzatával nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634004,
+                        4.619912
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Ez a keresztény közösség egy egyszerű épületben gyűlik össze közös áhítatra.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634928,
+                        4.621329
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Circasia La Pilastra",
+                  "text": "A La Pilastra negyed pünkösdi temploma szoros környékbeli kapcsolatairól nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.638936,
+                        4.619704
+                  ]
+            },
+            {
+                  "name": "arroquia Nuestra Señora del Rosario",
+                  "text": "Ez a ragyogó fehér koloniális templom Salento főterén a falu legismertebb jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.641217,
+                        4.61971
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Bájos templom színesre festett ablakaival és ajtóival, amely Quindío építészeti szellemét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.569244,
+                        4.637507
+                  ]
+            },
+            {
+                  "name": "Ecoresort Gran Azul",
+                  "text": "Wellness üdülőhely a kávéföldekre néző kilátással, amely természetes kávékivonatos masszázsokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.563038,
+                        4.636867
+                  ]
+            },
+            {
+                  "name": "Ixupark",
+                  "text": "Vulkáni tevékenység által felmelegített, trópusi növényzettel körülvett természetes termálmedencék.",
+                  "category": "natural",
+                  "coords": [
+                        -75.584226,
+                        4.639699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Alto De La Cruz",
+                  "text": "Un punct de observație situat la capătul unei scări, oferind o vedere amplă asupra satului Salento și a văii Cocora.",
+                  "category": "natural",
+                  "coords": [
+                        -75.632791,
+                        4.619725
+                  ]
+            },
+            {
+                  "name": "Finca en Edén del Quindio",
+                  "text": "Această fermă pitorească, situată printre dealuri verzi, oferă o privire asupra vieții rurale din zona cafelei columbiene.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.615286,
+                        4.607348
+                  ]
+            },
+            {
+                  "name": "Finca Buenos Aires",
+                  "text": "O fermă tradițională, cunoscută pentru locația sa liniștită și plantațiile de cafea înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609668,
+                        4.614512
+                  ]
+            },
+            {
+                  "name": "Tour de Finca La Ocaso",
+                  "text": "Această fermă de cafea oferă tururi ghidate prin plantații, cu vedere spre valea adâncă a râului Quindío.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.595904,
+                        4.625919
+                  ]
+            },
+            {
+                  "name": "Tour de Finca Don Elias",
+                  "text": "O afacere de familie specializată în cultivarea cafelei organice, prezentând procesul tradițional de prăjire.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.597311,
+                        4.624523
+                  ]
+            },
+            {
+                  "name": "Finca Abundancia",
+                  "text": "O fermă ecologică unde vizitatorii pot descoperi diverse plante cultivate și biodiversitatea locală bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.597994,
+                        4.623316
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Kasaguadua",
+                  "text": "O rezervație naturală privată în pădurea de ceață, remarcabilă prin pădurile de bambus și arhitectura ecologică.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.588384,
+                        4.62873
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de observație deasupra fermelor de cafea, ideal pentru fotografii ale peisajului deluros din Salento.",
+                  "category": "natural",
+                  "coords": [
+                        -75.586306,
+                        4.626668
+                  ]
+            },
+            {
+                  "name": "Finca Entrebosques",
+                  "text": "Această fermă este situată la marginea unei păduri, îmbinând producția agricolă cu conservarea naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.587544,
+                        4.626345
+                  ]
+            },
+            {
+                  "name": "Cristo Rey",
+                  "text": "Un monument monumental al lui Hristos pe un deal, care servește ca platformă de observație asupra satului Salento.",
+                  "category": "historical",
+                  "coords": [
+                        -75.588106,
+                        4.57758
+                  ]
+            },
+            {
+                  "name": "NO WAY DOWN! Path ends at the beginning of the forest. (07.2024)",
+                  "text": "Această potecă de drumeție duce adânc în pădure și se termină într-o zonă naturală virgină.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.545735,
+                        4.615254
+                  ]
+            },
+            {
+                  "name": "Mirador Alexandra",
+                  "text": "Un punct de observație liniștit care oferă o vedere amplă asupra văilor împădurite ale Cordilierei Centrale.",
+                  "category": "natural",
+                  "coords": [
+                        -75.545553,
+                        4.618444
+                  ]
+            },
+            {
+                  "name": "Horse tour",
+                  "text": "Excursii călare ghidate pe poteci tradiționale, trecând prin peisajul cafelei și pe lângă pârâuri ascunse.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.572022,
+                        4.633865
+                  ]
+            },
+            {
+                  "name": "Mirador de la Valle",
+                  "text": "Un punct de observație cu o vedere spectaculoasă asupra văii Cocora, locul de origine al palmierilor de ceară uriași.",
+                  "category": "natural",
+                  "coords": [
+                        -75.560827,
+                        4.632458
+                  ]
+            },
+            {
+                  "name": "Alto De La Cruz",
+                  "text": "Cel mai înalt punct de deasupra Salento, marcat de o cruce, oferind cea mai bună vedere panoramică asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -75.56647,
+                        4.639654
+                  ]
+            },
+            {
+                  "name": "Mirador Valle del Cocora",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra palmierilor de ceară impunători din valea verde Cocora.",
+                  "category": "natural",
+                  "coords": [
+                        -75.566847,
+                        4.640723
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "De aici puteți admira pădurile de ceață și pășunile întinse din zonele înalte ale Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -75.572219,
+                        4.655102
+                  ]
+            },
+            {
+                  "name": "Piscinas naturales",
+                  "text": "Piscine în aer liber situate printre fermele de cafea, alimentate cu apă proaspătă de izvor montan.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.569485,
+                        4.661305
+                  ]
+            },
+            {
+                  "name": "Portugal",
+                  "text": "Această rezervație protejează pădurea andină de ceață și fauna sa diversă de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        -75.531701,
+                        4.640877
+                  ]
+            },
+            {
+                  "name": "Sendero a Cascadas de Cocora",
+                  "text": "O potecă de drumeție prin junglă duce la cascade ascunse care se revarsă peste stânci acoperite de mușchi.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.508043,
+                        4.636367
+                  ]
+            },
+            {
+                  "name": "Ecoparque Tupaís",
+                  "text": "Parc ecologic cu trasee educaționale despre flora și fauna nativă din regiunea cafelei columbiene.",
+                  "category": "natural",
+                  "coords": [
+                        -75.577288,
+                        4.634733
+                  ]
+            },
+            {
+                  "name": "La Rosa de los Vientos",
+                  "text": "O rezervație de mare altitudine, cunoscută pentru priveliștea asupra Cordilierei Centrale și pentru orhideele rare.",
+                  "category": "natural",
+                  "coords": [
+                        -75.587505,
+                        4.644875
+                  ]
+            },
+            {
+                  "name": "Casa Museo Cipriano Echeverri",
+                  "text": "Această casă istorică expune mobilier de epocă și artefacte din perioada de pionierat a cultivatorilor de cafea din Quindío.",
+                  "category": "museum",
+                  "coords": [
+                        -75.639369,
+                        4.620648
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "O biserică creștină modernă cu arhitectură simplă, care servește ca centru comunitar local.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.636136,
+                        4.620056
+                  ]
+            },
+            {
+                  "name": "Fe y Esperanza",
+                  "text": "O mică sală de rugăciune protestantă din dealuri, cunoscută pentru atmosfera sa familială.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.63533,
+                        4.614867
+                  ]
+            },
+            {
+                  "name": "Ministerio Evangélistico Cristo Salva",
+                  "text": "Acest centru misionar evanghelic este situat în inima regiunii cafelei și oferă servicii religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634511,
+                        4.617046
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O clădire funcțională pentru întâlnirile martorilor lui Iehova în cadrul rural local.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.636477,
+                        4.618996
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Los Olivos",
+                  "text": "O biserică adventistă de ziua a șaptea din cartierul Los Olivos, cunoscută pentru activitățile sale comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.632208,
+                        4.621658
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de las Mercedes",
+                  "text": "Această biserică catolică impresionează prin fațada sa colorată din lemn, în stilul tipic din Filandia.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634004,
+                        4.619912
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Această comunitate creștină se adună întră-o clădire simplă pentru rugăciune comună.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634928,
+                        4.621329
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Circasia La Pilastra",
+                  "text": "Biserica penticostală din zona La Pilastra se remarcă prin legătura strânsă cu comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.638936,
+                        4.619704
+                  ]
+            },
+            {
+                  "name": "arroquia Nuestra Señora del Rosario",
+                  "text": "Această biserică colonială albă strălucitoare din piața centrală a orașului Salento este simbolul localității.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.641217,
+                        4.61971
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "O biserică fermecătoare cu ferestre și uși pictate colorat, reflectând spiritul arhitectural din Quindío.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.569244,
+                        4.637507
+                  ]
+            },
+            {
+                  "name": "Ecoresort Gran Azul",
+                  "text": "Complex de wellness cu vedere la plantațiile de cafea, oferind masaje cu extracte naturale de cafea.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.563038,
+                        4.636867
+                  ]
+            },
+            {
+                  "name": "Ixupark",
+                  "text": "Bazine termale naturale încălzite de activitatea vulcanică și înconjurate de vegetație tropicală.",
+                  "category": "natural",
+                  "coords": [
+                        -75.584226,
+                        4.639699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Alto De La Cruz",
+                  "text": "A viewpoint at the end of a flight of stairs, offering panoramic views over Salento village and the Cocora Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -75.632791,
+                        4.619725
+                  ]
+            },
+            {
+                  "name": "Finca en Edén del Quindio",
+                  "text": "This picturesque finca nestled among green hills offers a glimpse into rural life in the Colombian coffee zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.615286,
+                        4.607348
+                  ]
+            },
+            {
+                  "name": "Finca Buenos Aires",
+                  "text": "A traditional farm known for its tranquil setting and the surrounding coffee plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609668,
+                        4.614512
+                  ]
+            },
+            {
+                  "name": "Ocaso Coffee Tour",
+                  "text": "This coffee farm offers guided tours through the plantations with views over the deep Quindío River valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.595904,
+                        4.625919
+                  ]
+            },
+            {
+                  "name": "Don Elías Coffee tour",
+                  "text": "A family-run farm specializing in organic coffee cultivation and demonstrating the traditional roasting process.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.597311,
+                        4.624523
+                  ]
+            },
+            {
+                  "name": "Finca Abundancia",
+                  "text": "An ecological finca where visitors can discover various crops and the rich local biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.597994,
+                        4.623316
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Kasaguadua",
+                  "text": "A private nature reserve in the cloud forest, notable for its bamboo forests and ecological architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.588384,
+                        4.62873
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "A viewpoint situated above the coffee farms, ideal for photographing the rolling hills of the Salento landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -75.586306,
+                        4.626668
+                  ]
+            },
+            {
+                  "name": "Finca Entrebosques",
+                  "text": "This finca is located at the edge of a forest, combining agricultural production with nature conservation.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.587544,
+                        4.626345
+                  ]
+            },
+            {
+                  "name": "Cristo Rey",
+                  "text": "A monumental Christ statue on a hill that serves as a viewing platform over the village of Salento.",
+                  "category": "historical",
+                  "coords": [
+                        -75.588106,
+                        4.57758
+                  ]
+            },
+            {
+                  "name": "NO WAY DOWN! Path ends at the beginning of the forest. (07.2024)",
+                  "text": "This hiking path leads deep into the forest and concludes at a pristine natural zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.545735,
+                        4.615254
+                  ]
+            },
+            {
+                  "name": "Mirador Alexandra",
+                  "text": "A quiet viewpoint offering a wide view over the forested valleys of the Central Cordillera.",
+                  "category": "natural",
+                  "coords": [
+                        -75.545553,
+                        4.618444
+                  ]
+            },
+            {
+                  "name": "Horse tour",
+                  "text": "Guided horseback tours on traditional trails that pass through the coffee landscape and past hidden streams.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.572022,
+                        4.633865
+                  ]
+            },
+            {
+                  "name": "Mirador de la Valle",
+                  "text": "A viewpoint with spectacular vistas of the Cocora Valley, home to the giant wax palms.",
+                  "category": "natural",
+                  "coords": [
+                        -75.560827,
+                        4.632458
+                  ]
+            },
+            {
+                  "name": "Alto De La Cruz",
+                  "text": "The highest point above Salento, marked by a cross, offering the best 360-degree views of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.56647,
+                        4.639654
+                  ]
+            },
+            {
+                  "name": "Mirador Valle del Cocora",
+                  "text": "This viewpoint offers a panoramic vista of the towering wax palms scattered across the lush Cocora Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -75.566847,
+                        4.640723
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This spot overlooks the misty cloud forests and expansive pastures of the Andean highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -75.572219,
+                        4.655102
+                  ]
+            },
+            {
+                  "name": "Natural Water Pool",
+                  "text": "Outdoor pools nestled among coffee farms, filled with fresh mountain spring water.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.569485,
+                        4.661305
+                  ]
+            },
+            {
+                  "name": "Portugal",
+                  "text": "This nature reserve preserves the untouched Andean cloud forest and its diverse birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        -75.531701,
+                        4.640877
+                  ]
+            },
+            {
+                  "name": "Sendero a Cascadas de Cocora",
+                  "text": "A hiking trail through the jungle leads to hidden cascades tumbling over moss-covered rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.508043,
+                        4.636367
+                  ]
+            },
+            {
+                  "name": "Ecoparque Tupaís",
+                  "text": "Ecological park featuring educational trails about the native flora and fauna of the Colombian coffee region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.577288,
+                        4.634733
+                  ]
+            },
+            {
+                  "name": "La Rosa de los Vientos",
+                  "text": "A high-altitude reserve known for its sweeping views of the Central Cordillera and rare orchids.",
+                  "category": "natural",
+                  "coords": [
+                        -75.587505,
+                        4.644875
+                  ]
+            },
+            {
+                  "name": "Casa Museo Cipriano Echeverri",
+                  "text": "This historic house displays antique furniture and artifacts from the pioneering era of coffee farming in Quindío.",
+                  "category": "museum",
+                  "coords": [
+                        -75.639369,
+                        4.620648
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "A modern Christian church with simple architecture that serves as a local community hub.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.636136,
+                        4.620056
+                  ]
+            },
+            {
+                  "name": "Fe y Esperanza",
+                  "text": "A small Protestant prayer house in the hills, known for its intimate communal atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.63533,
+                        4.614867
+                  ]
+            },
+            {
+                  "name": "Ministerio Evangélistico Cristo Salva",
+                  "text": "This evangelical mission center is located in the heart of the coffee region and hosts regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634511,
+                        4.617046
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A functional building for the meetings of Jehovah's Witnesses within the local rural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.636477,
+                        4.618996
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Los Olivos",
+                  "text": "A Seventh-day Adventist church in the Los Olivos neighborhood, known for its community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.632208,
+                        4.621658
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de las Mercedes",
+                  "text": "This Catholic church impresses with its colorful wooden facade in the typical architectural style of Filandia.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634004,
+                        4.619912
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "This Christian community gathers in a modest building for shared worship and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.634928,
+                        4.621329
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia - Circasia La Pilastra",
+                  "text": "The Pentecostal church in the La Pilastra district is noted for its strong ties to the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.638936,
+                        4.619704
+                  ]
+            },
+            {
+                  "name": "arroquia Nuestra Señora del Rosario",
+                  "text": "This bright white colonial church on Salento's main plaza is the town's most iconic landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.641217,
+                        4.61971
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "A charming church featuring vibrantly painted windows and doors that reflect the architectural spirit of Quindío.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.569244,
+                        4.637507
+                  ]
+            },
+            {
+                  "name": "Ecoresort Gran Azul",
+                  "text": "Wellness resort overlooking coffee fields, offering massages using natural coffee extracts.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.563038,
+                        4.636867
+                  ]
+            },
+            {
+                  "name": "Ixupark",
+                  "text": "Natural thermal pools warmed by volcanic activity and surrounded by lush tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -75.584226,
+                        4.639699
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CO-QUI",
     coords: [-75.5855, 4.6191],
@@ -1275,7 +15711,232 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "uraba-bananenplantagen-life-v2",
+    id: "uraba-bananenplantagen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capilla",
+                  "text": "Eine kleine christliche Kapelle inmitten der weiten Bananenplantagen der Region Urabá.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.562031,
+                        7.884214
+                  ]
+            },
+            {
+                  "name": "Iglesía Evángelica",
+                  "text": "Eine evangelische Kirche in Urabá, einer fruchtbaren Tieflandregion am Golf von Darién.",
+                  "category": "religious",
+                  "coords": [
+                        -76.665858,
+                        7.866808
+                  ]
+            },
+            {
+                  "name": "Iglesía de los Testigos de Jehová",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas in der agrarisch geprägten Region Urabá im Nordwesten Kolumbiens.",
+                  "category": "religious",
+                  "coords": [
+                        -76.665425,
+                        7.865801
+                  ]
+            },
+            {
+                  "name": "Iglesiía La Inmaculada",
+                  "text": "Die Kirche der Unbefleckten Empfängnis in Urabá, ein geistliches Zentrum in der tropischen Plantagenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.633947,
+                        7.887701
+                  ]
+            },
+            {
+                  "name": "Casa Cural",
+                  "text": "Ein Pfarrhaus in Urabá, das als Sitz der lokalen katholischen Geistlichkeit dient.",
+                  "category": "religious",
+                  "coords": [
+                        -76.621532,
+                        7.885746
+                  ]
+            },
+            {
+                  "name": "Templo de los Testigos de Jehová",
+                  "text": "Ein Versammlungsort der Zeugen Jehovas in Urabá, unweit der Karibikküste Kolumbiens.",
+                  "category": "religious",
+                  "coords": [
+                        -76.630513,
+                        7.88578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capilla",
+                  "text": "Kis keresztény kápolna az Urabá régió kiterjedt banánültetvényei közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.562031,
+                        7.884214
+                  ]
+            },
+            {
+                  "name": "Iglesía Evángelica",
+                  "text": "Evangélikus templom Urabában, a Darién-öbölnél fekvő termékeny alföldi régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -76.665858,
+                        7.866808
+                  ]
+            },
+            {
+                  "name": "Iglesía de los Testigos de Jehová",
+                  "text": "Jehova Tanúi királyságterme az északnyugat-kolumbiai Urabá mezőgazdasági régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        -76.665425,
+                        7.865801
+                  ]
+            },
+            {
+                  "name": "Iglesiía La Inmaculada",
+                  "text": "A Szeplőtelen Fogantatás temploma Urabában, szellemi központ a trópusi ültetvények világában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.633947,
+                        7.887701
+                  ]
+            },
+            {
+                  "name": "Casa Cural",
+                  "text": "Plébániaépület Urabában, amely a helyi katolikus papság székhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -76.621532,
+                        7.885746
+                  ]
+            },
+            {
+                  "name": "Templo de los Testigos de Jehová",
+                  "text": "Jehova Tanúi gyülekezeti helye Urabában, Kolumbia karibi partvidékének közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -76.630513,
+                        7.88578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capilla",
+                  "text": "O mică capelă creștină în mijlocul vastelor plantații de banani din regiunea Urabá.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.562031,
+                        7.884214
+                  ]
+            },
+            {
+                  "name": "Iglesía Evángelica",
+                  "text": "O biserică evanghelică în Urabá, o regiune fertilă de câmpie de la Golful Darién.",
+                  "category": "religious",
+                  "coords": [
+                        -76.665858,
+                        7.866808
+                  ]
+            },
+            {
+                  "name": "Iglesía de los Testigos de Jehová",
+                  "text": "O sală a Regatului Martorilor lui Iehova în regiunea agricolă Urabá din nord-vestul Columbiei.",
+                  "category": "religious",
+                  "coords": [
+                        -76.665425,
+                        7.865801
+                  ]
+            },
+            {
+                  "name": "Iglesiía La Inmaculada",
+                  "text": "Biserica Imaculata Concepție din Urabá, un centru spiritual în peisajul tropical de plantații.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.633947,
+                        7.887701
+                  ]
+            },
+            {
+                  "name": "Casa Cural",
+                  "text": "O casă parohială în Urabá, care servește drept sediu pentru clerul catolic local.",
+                  "category": "religious",
+                  "coords": [
+                        -76.621532,
+                        7.885746
+                  ]
+            },
+            {
+                  "name": "Templo de los Testigos de Jehová",
+                  "text": "Un loc de întâlnire al Martorilor lui Iehova în Urabá, nu departe de coasta columbiană a Caraibelor.",
+                  "category": "religious",
+                  "coords": [
+                        -76.630513,
+                        7.88578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capilla",
+                  "text": "A small Christian chapel situated amidst the extensive banana plantations of the Urabá region.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.562031,
+                        7.884214
+                  ]
+            },
+            {
+                  "name": "Iglesía Evángelica",
+                  "text": "An evangelical church in Urabá, a fertile lowland region near the Gulf of Darién.",
+                  "category": "religious",
+                  "coords": [
+                        -76.665858,
+                        7.866808
+                  ]
+            },
+            {
+                  "name": "Iglesía de los Testigos de Jehová",
+                  "text": "A Kingdom Hall of Jehovah’s Witnesses in the agricultural Urabá region of northwestern Colombia.",
+                  "category": "religious",
+                  "coords": [
+                        -76.665425,
+                        7.865801
+                  ]
+            },
+            {
+                  "name": "Iglesiía La Inmaculada",
+                  "text": "The Church of the Immaculate Conception (La Inmaculada) in Urabá, serving as a spiritual center in the tropical plantation landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.633947,
+                        7.887701
+                  ]
+            },
+            {
+                  "name": "Casa Cural",
+                  "text": "A parish house (Casa Cural) in Urabá, serving as the residence and office for the local Catholic clergy.",
+                  "category": "religious",
+                  "coords": [
+                        -76.621532,
+                        7.885746
+                  ]
+            },
+            {
+                  "name": "Templo de los Testigos de Jehová",
+                  "text": "A Kingdom Hall for Jehovah’s Witnesses in Urabá, located not far from Colombia's Caribbean coast.",
+                  "category": "religious",
+                  "coords": [
+                        -76.630513,
+                        7.88578
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CO-ANT",
     coords: [-76.6268, 7.8837],
@@ -1322,7 +15983,556 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "hacienda-venecia-life-v2",
+    id: "hacienda-venecia-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque de la Fruta",
+                  "text": "Ein Park, der der Vielfalt regionaler Früchte gewidmet ist und Einblicke in den lokalen Anbau bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.624875,
+                        5.069229
+                  ]
+            },
+            {
+                  "name": "Mirador Tambo La Manuela",
+                  "text": "Ein Aussichtspunkt, der ein Panorama über die weiten Kaffeeplantagen und die hügelige Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.566171,
+                        5.050091
+                  ]
+            },
+            {
+                  "name": "Hacienda Venecia Coffee Farm Experience",
+                  "text": "Eine aktive Kaffeefarm, auf der Besucher den gesamten Prozess vom Anbau bis zur Röstung erleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.563621,
+                        5.038656
+                  ]
+            },
+            {
+                  "name": "La Taza de café más grande del mundo",
+                  "text": "Dieses monumentale Wahrzeichen in Form einer riesigen Kaffeetasse feiert die Kaffeekultur der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.605712,
+                        4.982846
+                  ]
+            },
+            {
+                  "name": "El Paraíso",
+                  "text": "Ein familienfreundlicher Wasserpark mit mehreren Schwimmbecken und Rutschen im tropischen Klima.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.601045,
+                        4.981432
+                  ]
+            },
+            {
+                  "name": "Parque de las Aguas",
+                  "text": "Ein Freizeitpark mit Fokus auf Wasserattraktionen, ideal für Abkühlung und Erholung im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.614283,
+                        4.984776
+                  ]
+            },
+            {
+                  "name": "Reserva La Telaraña",
+                  "text": "Ein Naturschutzgebiet, das dem Erhalt der lokalen Flora und Fauna in einem dichten Waldstück dient.",
+                  "category": "natural",
+                  "coords": [
+                        -75.545572,
+                        5.04877
+                  ]
+            },
+            {
+                  "name": "Reserva Forestal Plan Alto",
+                  "text": "Ein Hochland-Waldreservat, das wichtige Wasserquellen schützt und Wanderwege durch Nebelwald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.593822,
+                        4.991391
+                  ]
+            },
+            {
+                  "name": "Parroquia La Sagrada Familia",
+                  "text": "Eine der Heiligen Familie gewidmete Pfarrei, die für ihre lebendige Gemeindearbeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.538483,
+                        5.030331
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Niño",
+                  "text": "Eine lokale Pfarrkirche, die dem göttlichen Kind gewidmet ist und die Gemeinde mit ihrer bescheidenen religiösen Architektur bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.602491,
+                        4.976837
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "Eine christliche Pfarrkirche, die Unserer Lieben Frau von Guadalupe gewidmet ist und eine traditionelle lokale Fassade aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609173,
+                        4.976352
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "Diese lokale Pfarrkirche zum Heiligen Kreuz steht als geistliches Zentrum inmitten der ländlichen Kaffeeanbaulandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609456,
+                        4.985974
+                  ]
+            },
+            {
+                  "name": "Basílica Menor de Nuestra Señora de las Mercedes",
+                  "text": "Eine bedeutende Basilica minor in Chinchiná, bekannt für ihre imposante Architektur und ihren Status als wichtiger Wallfahrtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.604696,
+                        4.982651
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Bárbara",
+                  "text": "Eine christliche Pfarrei, die der Heiligen Barbara gewidmet ist und als Mittelpunkt für religiöse Versammlungen im örtlichen Viertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.621961,
+                        5.020696
+                  ]
+            },
+            {
+                  "name": "Galería Municipal de Chinchiná",
+                  "text": "Eine belebte städtische Marktgalerie, in der lokale Bauern frischen Kaffee, exotische Früchte und traditionelle regionale Produkte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.603231,
+                        4.984025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque de la Fruta",
+                  "text": "A regionális gyümölcsök sokszínűségének szentelt park, amely betekintést nyújt a helyi termesztésbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.624875,
+                        5.069229
+                  ]
+            },
+            {
+                  "name": "Mirador Tambo La Manuela",
+                  "text": "Kilátóhely, amely panorámát nyújt a kiterjedt kávéültetvényekre és a dombos tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -75.566171,
+                        5.050091
+                  ]
+            },
+            {
+                  "name": "Hacienda Venecia Coffee Farm Experience",
+                  "text": "Működő kávébirtok, ahol a látogatók a termesztéstől a pörkölésig a teljes folyamatot megismerhetik.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.563621,
+                        5.038656
+                  ]
+            },
+            {
+                  "name": "La Taza de café más grande del mundo",
+                  "text": "Ez az óriási kávéscsésze alakú monumentális jelkép a régió kávékultúráját ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.605712,
+                        4.982846
+                  ]
+            },
+            {
+                  "name": "El Paraíso",
+                  "text": "Családbarát vízi park több medencével és csúszdával a trópusi klímában.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.601045,
+                        4.981432
+                  ]
+            },
+            {
+                  "name": "Parque de las Aguas",
+                  "text": "Vizes attrakciókra összpontosító szabadidőpark, ideális hűsölésre és szabadtéri kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.614283,
+                        4.984776
+                  ]
+            },
+            {
+                  "name": "Reserva La Telaraña",
+                  "text": "Természetvédelmi terület, amely a helyi növény- és állatvilág megőrzését szolgálja egy sűrű erdőfolton.",
+                  "category": "natural",
+                  "coords": [
+                        -75.545572,
+                        5.04877
+                  ]
+            },
+            {
+                  "name": "Reserva Forestal Plan Alto",
+                  "text": "Felföldi erdőrezervátum, amely fontos vízforrásokat védelmez és túraútvonalakat kínál a köderdőben.",
+                  "category": "natural",
+                  "coords": [
+                        -75.593822,
+                        4.991391
+                  ]
+            },
+            {
+                  "name": "Parroquia La Sagrada Familia",
+                  "text": "A Szent Családnak szentelt plébánia, amely élénk közösségi életéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.538483,
+                        5.030331
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Niño",
+                  "text": "A gyermek Jézusnak szentelt helyi plébániatemplom, amely szerény vallási építészetével szolgálja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.602491,
+                        4.976837
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "A Guadalupe-i Szűzanyának szentelt keresztény plébániatemplom, hagyományos helyi homlokzattal.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609173,
+                        4.976352
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "A Szent Kereszt helyi plébániatemploma szellemi központként áll a vidéki kávétermesztő tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609456,
+                        4.985974
+                  ]
+            },
+            {
+                  "name": "Basílica Menor de Nuestra Señora de las Mercedes",
+                  "text": "Chinchiná kiemelkedő bazilikája, amely impozáns építészetéről és a kávérégió fontos zarándokhelyeként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.604696,
+                        4.982651
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Bárbara",
+                  "text": "Szent Borbálának szentelt keresztény plébánia, amely a helyi negyed vallási összejöveteleinek központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.621961,
+                        5.020696
+                  ]
+            },
+            {
+                  "name": "Galería Municipal de Chinchiná",
+                  "text": "Nyüzsgő önkormányzati piaci galéria, ahol a helyi gazdák friss kávét, egzotikus gyümölcsöket és hagyományos termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.603231,
+                        4.984025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque de la Fruta",
+                  "text": "Un parc dedicat diversității fructelor regionale, oferind informații despre agricultura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.624875,
+                        5.069229
+                  ]
+            },
+            {
+                  "name": "Mirador Tambo La Manuela",
+                  "text": "Un punct de belvedere care oferă o panoramă asupra vastelor plantații de cafea și a peisajului colinar.",
+                  "category": "natural",
+                  "coords": [
+                        -75.566171,
+                        5.050091
+                  ]
+            },
+            {
+                  "name": "Hacienda Venecia Coffee Farm Experience",
+                  "text": "O fermă de cafea activă, unde vizitatorii pot experimenta întregul proces, de la cultivare până la prăjire.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.563621,
+                        5.038656
+                  ]
+            },
+            {
+                  "name": "La Taza de café más grande del mundo",
+                  "text": "Acest monument sub formă de ceașcă de cafea uriașă celebrează cultura cafelei din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.605712,
+                        4.982846
+                  ]
+            },
+            {
+                  "name": "El Paraíso",
+                  "text": "Un parc acvatic pentru familii, cu mai multe bazine și tobogane în climatul tropical.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.601045,
+                        4.981432
+                  ]
+            },
+            {
+                  "name": "Parque de las Aguas",
+                  "text": "Un parc de distracții axat pe atracții acvatice, ideal pentru răcorire și relaxare în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.614283,
+                        4.984776
+                  ]
+            },
+            {
+                  "name": "Reserva La Telaraña",
+                  "text": "O rezervație naturală dedicată conservării florei și faunei locale într-o zonă de pădure deasă.",
+                  "category": "natural",
+                  "coords": [
+                        -75.545572,
+                        5.04877
+                  ]
+            },
+            {
+                  "name": "Reserva Forestal Plan Alto",
+                  "text": "O rezervație forestieră de munte care protejează surse importante de apă și oferă trasee prin pădurea de ceață.",
+                  "category": "natural",
+                  "coords": [
+                        -75.593822,
+                        4.991391
+                  ]
+            },
+            {
+                  "name": "Parroquia La Sagrada Familia",
+                  "text": "O parohie dedicată Sfintei Familii, cunoscută pentru activitatea sa comunitară vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.538483,
+                        5.030331
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Niño",
+                  "text": "O biserică parohială locală dedicată Copilului Divin, care servește comunitatea prin arhitectura sa religioasă modestă.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.602491,
+                        4.976837
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "O biserică parohială creștină dedicată Maicii Domnului din Guadalupe, cu o fațadă locală tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609173,
+                        4.976352
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "Această biserică parohială locală a Sfintei Cruci reprezintă un centru spiritual în peisajul rural cultivat cu cafea.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609456,
+                        4.985974
+                  ]
+            },
+            {
+                  "name": "Basílica Menor de Nuestra Señora de las Mercedes",
+                  "text": "O bazilică minoră proeminentă din Chinchiná, cunoscută pentru arhitectura sa impunătoare și statutul de loc de pelerinaj major.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.604696,
+                        4.982651
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Bárbara",
+                  "text": "O parohie creștină dedicată Sfintei Barbara, care servește drept punct central pentru adunările religioase din districtul local.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.621961,
+                        5.020696
+                  ]
+            },
+            {
+                  "name": "Galería Municipal de Chinchiná",
+                  "text": "O galerie comercială municipală plină de viață, unde fermierii locali vând cafea proaspătă, fructe exotice și produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.603231,
+                        4.984025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque de la Fruta",
+                  "text": "A park dedicated to the diversity of regional fruits, offering insights into local cultivation.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.624875,
+                        5.069229
+                  ]
+            },
+            {
+                  "name": "Mirador Tambo La Manuela",
+                  "text": "A viewpoint offering a panorama over the vast coffee plantations and the rolling landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -75.566171,
+                        5.050091
+                  ]
+            },
+            {
+                  "name": "Hacienda Venecia Coffee Farm Experience",
+                  "text": "A working coffee farm where visitors can experience the entire process from cultivation to roasting.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.563621,
+                        5.038656
+                  ]
+            },
+            {
+                  "name": "La Taza de café más grande del mundo",
+                  "text": "This monumental landmark shaped like a giant coffee cup celebrates the region's coffee culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.605712,
+                        4.982846
+                  ]
+            },
+            {
+                  "name": "El Paraíso",
+                  "text": "A family-friendly water park featuring multiple pools and slides in a tropical climate.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.601045,
+                        4.981432
+                  ]
+            },
+            {
+                  "name": "Parque de las Aguas",
+                  "text": "A theme park focused on water attractions, ideal for cooling off and outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.614283,
+                        4.984776
+                  ]
+            },
+            {
+                  "name": "Reserva La Telaraña",
+                  "text": "A nature reserve dedicated to the preservation of local flora and fauna in a dense forest area.",
+                  "category": "natural",
+                  "coords": [
+                        -75.545572,
+                        5.04877
+                  ]
+            },
+            {
+                  "name": "Reserva Forestal Plan Alto",
+                  "text": "An upland forest reserve protecting vital water sources and offering trails through cloud forest.",
+                  "category": "natural",
+                  "coords": [
+                        -75.593822,
+                        4.991391
+                  ]
+            },
+            {
+                  "name": "Parroquia La Sagrada Familia",
+                  "text": "A parish dedicated to the Holy Family, known for its vibrant community involvement.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.538483,
+                        5.030331
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Niño",
+                  "text": "A local parish church dedicated to the Divine Child, serving the community with its modest religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.602491,
+                        4.976837
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "A Christian parish church dedicated to Our Lady of Guadalupe, featuring a traditional local facade.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609173,
+                        4.976352
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "This local parish church of the Holy Cross stands as a spiritual center within the rural coffee-growing landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.609456,
+                        4.985974
+                  ]
+            },
+            {
+                  "name": "Basílica Menor de Nuestra Señora de las Mercedes",
+                  "text": "A prominent minor basilica in Chinchiná known for its imposing architecture and status as a major pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.604696,
+                        4.982651
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Bárbara",
+                  "text": "A Christian parish dedicated to Saint Barbara, serving as a focal point for religious gatherings in the local district.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.621961,
+                        5.020696
+                  ]
+            },
+            {
+                  "name": "Galería Municipal de Chinchiná",
+                  "text": "A bustling municipal market gallery where local farmers sell fresh coffee, exotic fruits, and traditional regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.603231,
+                        4.984025
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CO-CAL",
     coords: [-75.5457, 5.0392],
@@ -1371,7 +16581,952 @@ export const poiExtraColombiaLifeV2: POI[] = [
     },
   },
   {
-    id: "jardin-botanico-quindio-life-v2",
+    id: "jardin-botanico-quindio-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "2500 msnm",
+                  "text": "Ein hochgelegener Aussichtspunkt im Botanischen Garten von Quindío auf 2500 Metern Meereshöhe.",
+                  "category": "natural",
+                  "coords": [
+                        -75.580921,
+                        4.515842
+                  ]
+            },
+            {
+                  "name": "2000 msnm",
+                  "text": "Ein Beobachtungspunkt auf 2000 Metern Höhe, der weite Ausblicke über die Kaffeeplantagen von Quindío bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.60833,
+                        4.521433
+                  ]
+            },
+            {
+                  "name": "Jeep Willys",
+                  "text": "Ein Denkmal für die ikonischen Jeep Willys, die als unverzichtbares Transportmittel der regionalen Kaffeekultur gelten.",
+                  "category": "historical",
+                  "coords": [
+                        -75.640444,
+                        4.534844
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura - Lucelly García de Montoya",
+                  "text": "Ein Kulturzentrum in Calarcá, das lokalen Künstlern gewidmet ist und Ausstellungen sowie Workshops beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.642309,
+                        4.529688
+                  ]
+            },
+            {
+                  "name": "Torre Mirador",
+                  "text": "Ein hoher Aussichtsturm im Botanischen Garten Quindío, der einen Blick über das Blätterdach des Waldes erlaubt.",
+                  "category": "natural",
+                  "coords": [
+                        -75.64968,
+                        4.538299
+                  ]
+            },
+            {
+                  "name": "Museo de Geología y Suelos",
+                  "text": "Ein Museum, das die geologische Geschichte und die Bodenbeschaffenheit der Kaffeeregion Kolumbiens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -75.651822,
+                        4.511905
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "Ein großes Schmetterlingshaus in Form eines riesigen Schmetterlings, das hunderte einheimische Arten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.651585,
+                        4.510022
+                  ]
+            },
+            {
+                  "name": "Ecoparque Peñas Blancas",
+                  "text": "Ein Naturschutzgebiet, bekannt für seine markanten weißen Kalksteinfelsen und steilen Kletterpfade.",
+                  "category": "natural",
+                  "coords": [
+                        -75.632409,
+                        4.479288
+                  ]
+            },
+            {
+                  "name": "Teatro Yarí",
+                  "text": "Ein lokales Theater in Calarcá, das für darstellende Künste und kulturelle Veranstaltungen der Gemeinde genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.640637,
+                        4.530019
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial sede Calarcá",
+                  "text": "Ein lokales Missionszentrum in Calarcá, das als Versammlungsort für die protestantische Glaubensgemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -75.644644,
+                        4.530655
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "Eine moderne evangelische Gebetsstätte der internationalen christlichen Gemeinschaft in der Region Quindío.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.640125,
+                        4.533432
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Ultimos Días",
+                  "text": "Ein Versammlungshaus der Mormonen, das für seine schlichte Architektur und die lokale religiöse Arbeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.637324,
+                        4.532224
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas, der als Zentrum für das Bibelstudium und Gemeindetreffen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.637759,
+                        4.530846
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Central",
+                  "text": "Zentraler Standort der Siebenten-Tags-Adventisten in der Region, geprägt durch seine protestantischen Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.640934,
+                        4.527633
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Claver",
+                  "text": "Diese katholische Gemeinde ist nach dem Schutzpatron der Sklaven benannt und dient als lokales Glaubenszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.643565,
+                        4.528296
+                  ]
+            },
+            {
+                  "name": "Asambleas de Dios - Las Américas",
+                  "text": "Eine pfingstkirchliche Versammlungsstätte der Assemblies of God im Stadtviertel Las Américas.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.644093,
+                        4.526812
+                  ]
+            },
+            {
+                  "name": "Iglesia del Nazareno",
+                  "text": "Eine protestantische Kirche des Nazareners, die sich auf Gemeindearbeit und evangelische Lehren konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.644026,
+                        4.524307
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Salem",
+                  "text": "Die Salem-Kapelle der Siebenten-Tags-Adventisten dient als Ort der Ruhe und des Gebets in der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.648817,
+                        4.521559
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Niño",
+                  "text": "Eine dem göttlichen Kind gewidmete katholische Kirche, die für ihre regionale religiöse Bedeutung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.642632,
+                        4.489744
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "Ein ländliches Gebetshaus der Vereinigten Pfingstkirche von Kolumbien für die lokale Bevölkerung.",
+                  "category": "religious",
+                  "coords": [
+                        -75.644599,
+                        4.51495
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia Nuestra Señora de Fátima",
+                  "text": "Eine katholische Quasipfarrei, die Unserer Lieben Frau von Fátima gewidmet ist und als Gemeindezentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.645031,
+                        4.512769
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia San Juan Bautista",
+                  "text": "Diese dem heiligen Johannes dem Täufer gewidmete Kapelle ist ein spiritueller Treffpunkt in der ländlichen Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.638954,
+                        4.536888
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro",
+                  "text": "Diese katholische Kirche ist der Mutter von der immerwährenden Hilfe gewidmet und zeigt traditionelle sakrale Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -75.65597,
+                        4.514699
+                  ]
+            },
+            {
+                  "name": "Casa de las Hermanitas de La Anunciación",
+                  "text": "Ein kleines Kloster der Schwestern der Verkündigung, das der religiösen Erziehung und sozialen Arbeit gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.655114,
+                        4.516258
+                  ]
+            },
+            {
+                  "name": "Minimercado San José",
+                  "text": "Ein kleiner lokaler Markt, der frische Lebensmittel und Waren des täglichen Bedarfs für das Viertel anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.649885,
+                        4.520483
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Ein lebhafter Marktplatz, auf dem lokale Bauern frische tropische Früchte und Kaffee aus der Region Quindío verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.643192,
+                        4.530819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "2500 msnm",
+                  "text": "Magasan fekvő kilátóhely a Quindío Botanikus Kertben, 2500 méteres tengerszint feletti magasságban.",
+                  "category": "natural",
+                  "coords": [
+                        -75.580921,
+                        4.515842
+                  ]
+            },
+            {
+                  "name": "2000 msnm",
+                  "text": "Megfigyelőpont 2000 méteres magasságban, ahonnan pazar kilátás nyílik Quindío kávéültetvényeire.",
+                  "category": "natural",
+                  "coords": [
+                        -75.60833,
+                        4.521433
+                  ]
+            },
+            {
+                  "name": "Jeep Willys",
+                  "text": "Emlékmű az ikonikus Jeep Willys előtt, amely a regionális kávékultúra elengedhetetlen szállítóeszköze.",
+                  "category": "historical",
+                  "coords": [
+                        -75.640444,
+                        4.534844
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura - Lucelly García de Montoya",
+                  "text": "Calarcá kulturális központja, amely helyi művészeknek szentelt kiállításoknak és műhelyeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.642309,
+                        4.529688
+                  ]
+            },
+            {
+                  "name": "Torre Mirador",
+                  "text": "Magas kilátótorony a Quindío Botanikus Kertben, ahonnan rálátni az erdő lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        -75.64968,
+                        4.538299
+                  ]
+            },
+            {
+                  "name": "Museo de Geología y Suelos",
+                  "text": "Múzeum, amely Kolumbia kávétermesztő vidékének földtani történetét és talajösszetételét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -75.651822,
+                        4.511905
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "Hatalmas, óriási pillangó alakú lepkeház, ahol őshonos fajok százai láthatók.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.651585,
+                        4.510022
+                  ]
+            },
+            {
+                  "name": "Ecoparque Peñas Blancas",
+                  "text": "Természetvédelmi terület, amely jellegzetes fehér mészkőszikláiról és meredek mászóútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -75.632409,
+                        4.479288
+                  ]
+            },
+            {
+                  "name": "Teatro Yarí",
+                  "text": "Calarcá helyi színháza, amely előadóművészeti esteknek és közösségi kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.640637,
+                        4.530019
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial sede Calarcá",
+                  "text": "Calarcá helyi missziós központja, amely a protestáns közösség gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -75.644644,
+                        4.530655
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "A nemzetközi keresztény közösség modern evangéliumi imaháza Quindío régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.640125,
+                        4.533432
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Ultimos Días",
+                  "text": "Egy mormon gyülekezeti ház, amely letisztult építészetéről és helyi hitéleti tevékenységéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.637324,
+                        4.532224
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi Királyság-terme, amely a bibliatanulmányozás és a közösségi találkozók központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.637759,
+                        4.530846
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Central",
+                  "text": "A Hetednapi Adventista Egyház központi helyszíne a régióban, amelyet protestáns istentiszteletek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.640934,
+                        4.527633
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Claver",
+                  "text": "Ez a katolikus egyházközség a rabszolgák védőszentjéről kapta nevét, és helyi hitéleti központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.643565,
+                        4.528296
+                  ]
+            },
+            {
+                  "name": "Asambleas de Dios - Las Américas",
+                  "text": "Az Isten Gyülekezetei pünkösdi közösségének imaháza a Las Américas negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.644093,
+                        4.526812
+                  ]
+            },
+            {
+                  "name": "Iglesia del Nazareno",
+                  "text": "A Názáreti Egyház protestáns temploma, amely a közösségi munkára és az evangéliumi tanításokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.644026,
+                        4.524307
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Salem",
+                  "text": "A Hetednapi Adventista Egyház Salem-kápolnája a nyugalom és az imádság helyszíne a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.648817,
+                        4.521559
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Niño",
+                  "text": "Az isteni Gyermeknek szentelt katolikus templom, amely regionális vallási jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.642632,
+                        4.489744
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "A Kolumbiai Egyesült Pünkösdi Egyház vidéki imaháza a helyi lakosság számára.",
+                  "category": "religious",
+                  "coords": [
+                        -75.644599,
+                        4.51495
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia Nuestra Señora de Fátima",
+                  "text": "A Fátimai Szűzanyának szentelt katolikus kvázi-plébánia, amely közösségi központként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.645031,
+                        4.512769
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia San Juan Bautista",
+                  "text": "Ez a Keresztelő Szent Jánosnak szentelt kápolna spirituális találkozóhely a vidéki övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.638954,
+                        4.536888
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro",
+                  "text": "Ez a katolikus templom a Perpetual Socorro-i Szűzanyának van szentelve, hagyományos szakrális építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        -75.65597,
+                        4.514699
+                  ]
+            },
+            {
+                  "name": "Casa de las Hermanitas de La Anunciación",
+                  "text": "Az Angyali Üdvözlet nővéreinek kis kolostora, amely vallási neveléssel és szociális munkával foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.655114,
+                        4.516258
+                  ]
+            },
+            {
+                  "name": "Minimercado San José",
+                  "text": "Egy kis helyi piac, amely friss élelmiszereket és napi fogyasztási cikkeket kínál a környéknek.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.649885,
+                        4.520483
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Egy nyüzsgő piactér, ahol a helyi gazdák friss trópusi gyümölcsöket és Quindío régióból származó kávét árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.643192,
+                        4.530819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "2500 msnm",
+                  "text": "Un punct de belvedere înalt în Grădina Botanică Quindío, situat la 2500 de metri deasupra nivelului mării.",
+                  "category": "natural",
+                  "coords": [
+                        -75.580921,
+                        4.515842
+                  ]
+            },
+            {
+                  "name": "2000 msnm",
+                  "text": "Un punct de observație la 2000 de metri altitudine, oferind vederi largi asupra plantațiilor de cafea din Quindío.",
+                  "category": "natural",
+                  "coords": [
+                        -75.60833,
+                        4.521433
+                  ]
+            },
+            {
+                  "name": "Jeep Willys",
+                  "text": "Un monument dedicat emblematicelor vehicule Jeep Willys, esențiale pentru transportul în cultura cafelei din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -75.640444,
+                        4.534844
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura - Lucelly García de Montoya",
+                  "text": "Un centru cultural în Calarcá, dedicat artiștilor locali, care găzduiește expoziții și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.642309,
+                        4.529688
+                  ]
+            },
+            {
+                  "name": "Torre Mirador",
+                  "text": "Un turn de observație înalt în Grădina Botanică Quindío, care permite vederea deasupra coronamentului pădurii.",
+                  "category": "natural",
+                  "coords": [
+                        -75.64968,
+                        4.538299
+                  ]
+            },
+            {
+                  "name": "Museo de Geología y Suelos",
+                  "text": "Un muzeu care prezintă istoria geologică și compoziția solului din regiunea cafelei din Columbia.",
+                  "category": "museum",
+                  "coords": [
+                        -75.651822,
+                        4.511905
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "O casă mare pentru fluturi în formă de fluture uriaș, care adăpostește sute de specii native.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.651585,
+                        4.510022
+                  ]
+            },
+            {
+                  "name": "Ecoparque Peñas Blancas",
+                  "text": "O rezervație naturală cunoscută pentru stâncile sale de calcar alb și traseele abrupte de cățărare.",
+                  "category": "natural",
+                  "coords": [
+                        -75.632409,
+                        4.479288
+                  ]
+            },
+            {
+                  "name": "Teatro Yarí",
+                  "text": "Un teatru local din Calarcá, folosit pentru artele spectacolului și evenimente culturale comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.640637,
+                        4.530019
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial sede Calarcá",
+                  "text": "Un centru misionar local din Calarcá, care servește ca loc de întâlnire pentru comunitatea protestantă.",
+                  "category": "religious",
+                  "coords": [
+                        -75.644644,
+                        4.530655
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "Un lăcaș de rugăciune evanghelic modern al comunității creștine internaționale din regiunea Quindío.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.640125,
+                        4.533432
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Ultimos Días",
+                  "text": "O casă de întrunire mormonă, cunoscută pentru arhitectura sa simplă și activitatea religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.637324,
+                        4.532224
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova, utilizată ca centru pentru studiul Bibliei și întâlniri comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.637759,
+                        4.530846
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Central",
+                  "text": "Sediul central al Adventiștilor de Ziua a Șaptea din regiune, marcat de serviciile religioase protestante.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.640934,
+                        4.527633
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Claver",
+                  "text": "Această parohie catolică poartă numele patronului sclavilor și servește ca centru religios local.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.643565,
+                        4.528296
+                  ]
+            },
+            {
+                  "name": "Asambleas de Dios - Las Américas",
+                  "text": "Un lăcaș de cult penticostal al Adunărilor lui Dumnezeu în cartierul Las Américas.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.644093,
+                        4.526812
+                  ]
+            },
+            {
+                  "name": "Iglesia del Nazareno",
+                  "text": "O biserică protestantă a Nazarineanului, concentrată pe activități comunitare și învățături evanghelice.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.644026,
+                        4.524307
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Salem",
+                  "text": "Capela Salem a Adventiștilor de Ziua a Șaptea servește ca loc de liniște și rugăciune în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.648817,
+                        4.521559
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Niño",
+                  "text": "O biserică catolică dedicată Copilului Divin, cunoscută pentru importanța sa religioasă regională.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.642632,
+                        4.489744
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "O casă de rugăciune rurală a Bisericii Penticostale Unite din Columbia pentru populația locală.",
+                  "category": "religious",
+                  "coords": [
+                        -75.644599,
+                        4.51495
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia Nuestra Señora de Fátima",
+                  "text": "O cvasiparohie catolică dedicată Maicii Domnului de la Fátima, servind ca centru comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.645031,
+                        4.512769
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia San Juan Bautista",
+                  "text": "Această capelă dedicată Sfântului Ioan Botezătorul este un punct de întâlnire spiritual în zona rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.638954,
+                        4.536888
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro",
+                  "text": "Această biserică catolică este dedicată Maicii Domnului de la Perpetuul Ajutor, având o arhitectură sacră tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -75.65597,
+                        4.514699
+                  ]
+            },
+            {
+                  "name": "Casa de las Hermanitas de La Anunciación",
+                  "text": "O mică mănăstire a Surorilor Bunei Vestiri, dedicată educației religioase și muncii sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.655114,
+                        4.516258
+                  ]
+            },
+            {
+                  "name": "Minimercado San José",
+                  "text": "O mică piață locală care oferă alimente proaspete și bunuri de larg consum pentru cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.649885,
+                        4.520483
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "O piață plină de viață unde fermierii locali vând fructe tropicale proaspete și cafea din regiunea Quindío.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.643192,
+                        4.530819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "2500 msnm",
+                  "text": "A high-altitude viewpoint in the Quindío Botanical Garden at 2500 meters above sea level.",
+                  "category": "natural",
+                  "coords": [
+                        -75.580921,
+                        4.515842
+                  ]
+            },
+            {
+                  "name": "2000 msnm",
+                  "text": "An observation point at 2000 meters altitude offering wide views over the coffee plantations of Quindío.",
+                  "category": "natural",
+                  "coords": [
+                        -75.60833,
+                        4.521433
+                  ]
+            },
+            {
+                  "name": "Jeep Willys",
+                  "text": "A monument dedicated to the iconic Jeep Willys, the essential transport vehicles of the regional coffee culture.",
+                  "category": "historical",
+                  "coords": [
+                        -75.640444,
+                        4.534844
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura - Lucelly García de Montoya",
+                  "text": "A cultural center in Calarcá dedicated to local artists, hosting exhibitions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.642309,
+                        4.529688
+                  ]
+            },
+            {
+                  "name": "Torre Mirador",
+                  "text": "A tall observation tower in the Quindío Botanical Garden allowing views over the forest canopy.",
+                  "category": "natural",
+                  "coords": [
+                        -75.64968,
+                        4.538299
+                  ]
+            },
+            {
+                  "name": "Museo de Geología y Suelos",
+                  "text": "A museum presenting the geological history and soil composition of Colombia's coffee region.",
+                  "category": "museum",
+                  "coords": [
+                        -75.651822,
+                        4.511905
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "A large butterfly house shaped like a giant butterfly, housing hundreds of native species.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.651585,
+                        4.510022
+                  ]
+            },
+            {
+                  "name": "Ecoparque Peñas Blancas",
+                  "text": "A nature reserve known for its distinctive white limestone crags and steep climbing trails.",
+                  "category": "natural",
+                  "coords": [
+                        -75.632409,
+                        4.479288
+                  ]
+            },
+            {
+                  "name": "Teatro Yarí",
+                  "text": "A local theatre in Calarcá used for performing arts and community cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.640637,
+                        4.530019
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial sede Calarcá",
+                  "text": "A local mission center in Calarcá serving as a gathering point for the Protestant community.",
+                  "category": "religious",
+                  "coords": [
+                        -75.644644,
+                        4.530655
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+                  "text": "A modern evangelical place of worship of the international Christian community in the Quindío region.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.640125,
+                        4.533432
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Ultimos Días",
+                  "text": "An LDS meetinghouse known for its simple architecture and local religious outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.637324,
+                        4.532224
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses used as a center for Bible study and community meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.637759,
+                        4.530846
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Central",
+                  "text": "Central location for Seventh-day Adventists in the region, characterized by its Protestant worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.640934,
+                        4.527633
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Claver",
+                  "text": "This Catholic parish is named after the patron saint of slaves and serves as a local center of faith.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.643565,
+                        4.528296
+                  ]
+            },
+            {
+                  "name": "Asambleas de Dios - Las Américas",
+                  "text": "A Pentecostal place of worship of the Assemblies of God in the Las Américas neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.644093,
+                        4.526812
+                  ]
+            },
+            {
+                  "name": "Iglesia del Nazareno",
+                  "text": "A Protestant Church of the Nazarene focusing on community work and evangelical teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.644026,
+                        4.524307
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Salem",
+                  "text": "The Salem chapel of the Seventh-day Adventists serves as a place of quiet reflection and prayer in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.648817,
+                        4.521559
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Niño",
+                  "text": "A Catholic church dedicated to the Divine Child, known for its regional religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.642632,
+                        4.489744
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida de Colombia",
+                  "text": "A rural house of worship of the United Pentecostal Church of Colombia for the local population.",
+                  "category": "religious",
+                  "coords": [
+                        -75.644599,
+                        4.51495
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia Nuestra Señora de Fátima",
+                  "text": "A Catholic quasi-parish dedicated to Our Lady of Fátima, serving as a community religious hub.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.645031,
+                        4.512769
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia San Juan Bautista",
+                  "text": "This chapel dedicated to Saint John the Baptist is a spiritual meeting point in the rural zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.638954,
+                        4.536888
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro",
+                  "text": "This Catholic church is dedicated to Our Lady of Perpetual Help and features traditional sacred architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -75.65597,
+                        4.514699
+                  ]
+            },
+            {
+                  "name": "Casa de las Hermanitas de La Anunciación",
+                  "text": "A small convent of the Sisters of the Annunciation, dedicated to religious education and social work.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.655114,
+                        4.516258
+                  ]
+            },
+            {
+                  "name": "Minimercado San José",
+                  "text": "A small local market offering fresh food and daily necessities for the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.649885,
+                        4.520483
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "A bustling marketplace where local farmers sell fresh tropical fruits and coffee from the Quindío region.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.643192,
+                        4.530819
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CO-QUI",
     coords: [-75.6421, 4.5126],

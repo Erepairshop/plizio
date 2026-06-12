@@ -3,7 +3,232 @@ import type { POI } from "./poi";
 
 export const poiExtraVenezuelaEconomicV2: POI[] = [
   {
-    id: "la-guaira-port-economic-v2",
+    id: "la-guaira-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de Pedro García",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über den Hafen von La Guaira und das Karibische Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -66.982952,
+                        10.574306
+                  ]
+            },
+            {
+                  "name": "Cruz de Peña de Mora",
+                  "text": "Ein monumentales Kreuz auf dem Gebirgskamm, das als religiöses Wahrzeichen über der Autobahn nach Caracas thront.",
+                  "category": "historical",
+                  "coords": [
+                        -66.991229,
+                        10.549612
+                  ]
+            },
+            {
+                  "name": "Mirador de Las Trincheras",
+                  "text": "Von diesem Aussichtspunkt auf den ehemaligen Befestigungsanlagen hat man einen strategischen Blick auf die Küstenlinie.",
+                  "category": "natural",
+                  "coords": [
+                        -66.990473,
+                        10.554092
+                  ]
+            },
+            {
+                  "name": "Mirador de San Pedro",
+                  "text": "Ein Panoramapunkt in den Hügeln von La Guaira, der die Stadt und den Hafen überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.002584,
+                        10.563069
+                  ]
+            },
+            {
+                  "name": "Viaducto n.° 3",
+                  "text": "Ein beeindruckender Betonviadukt der Autobahn Caracas-La Guaira, der eine tiefe Schlucht in den Küstenbergen überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.004918,
+                        10.552782
+                  ]
+            },
+            {
+                  "name": "La Venta",
+                  "text": "Die Überreste einer historischen Herberge am alten spanischen Weg, der einst die Küste mit Caracas verband.",
+                  "category": "historical",
+                  "coords": [
+                        -66.960332,
+                        10.554318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de Pedro García",
+                  "text": "Kilátóhely, ahonnan pazar kilátás nyílik La Guaira kikötőjére és a Karib-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        -66.982952,
+                        10.574306
+                  ]
+            },
+            {
+                  "name": "Cruz de Peña de Mora",
+                  "text": "Egy monumentális kereszt a hegygerincen, amely vallási jelképként magasodik a Caracasba vezető autópálya felett.",
+                  "category": "historical",
+                  "coords": [
+                        -66.991229,
+                        10.549612
+                  ]
+            },
+            {
+                  "name": "Mirador de Las Trincheras",
+                  "text": "Erről az egykori erődítményeknél lévő kilátópontról stratégiai kilátás nyílik a partvonalra.",
+                  "category": "natural",
+                  "coords": [
+                        -66.990473,
+                        10.554092
+                  ]
+            },
+            {
+                  "name": "Mirador de San Pedro",
+                  "text": "Panorámapont La Guaira dombjai között, ahonnan rálátni a városra és a kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        -67.002584,
+                        10.563069
+                  ]
+            },
+            {
+                  "name": "Viaducto n.° 3",
+                  "text": "A Caracas-La Guaira autópálya lenyűgöző betonviaduktja, amely egy mély szakadékot hidal át a parti hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.004918,
+                        10.552782
+                  ]
+            },
+            {
+                  "name": "La Venta",
+                  "text": "Egy történelmi fogadó maradványai a régi spanyol úton, amely egykor a partot kötötte össze Caracasszal.",
+                  "category": "historical",
+                  "coords": [
+                        -66.960332,
+                        10.554318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de Pedro García",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra portului La Guaira și a Mării Caraibilor.",
+                  "category": "natural",
+                  "coords": [
+                        -66.982952,
+                        10.574306
+                  ]
+            },
+            {
+                  "name": "Cruz de Peña de Mora",
+                  "text": "O cruce monumentală pe creasta muntelui, care străjuiește autostrada spre Caracas ca un simbol religios.",
+                  "category": "historical",
+                  "coords": [
+                        -66.991229,
+                        10.549612
+                  ]
+            },
+            {
+                  "name": "Mirador de Las Trincheras",
+                  "text": "Din acest punct de observație situat pe vechile fortificații, se poate vedea strategic linia de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -66.990473,
+                        10.554092
+                  ]
+            },
+            {
+                  "name": "Mirador de San Pedro",
+                  "text": "Un punct panoramic în dealurile din La Guaira, oferind o priveliște asupra orașului și a portului.",
+                  "category": "natural",
+                  "coords": [
+                        -67.002584,
+                        10.563069
+                  ]
+            },
+            {
+                  "name": "Viaducto n.° 3",
+                  "text": "Un viaduct de beton impresionant al autostrăzii Caracas-La Guaira, care traversează o prăpastie adâncă în munții de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.004918,
+                        10.552782
+                  ]
+            },
+            {
+                  "name": "La Venta",
+                  "text": "Ruinele unui han istoric de pe vechiul drum spaniol care lega odinioară coasta de Caracas.",
+                  "category": "historical",
+                  "coords": [
+                        -66.960332,
+                        10.554318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de Pedro García",
+                  "text": "A viewpoint offering a sweeping vista over the Port of La Guaira and the Caribbean Sea.",
+                  "category": "natural",
+                  "coords": [
+                        -66.982952,
+                        10.574306
+                  ]
+            },
+            {
+                  "name": "Cruz de Peña de Mora",
+                  "text": "A monumental cross on the mountain ridge, standing as a religious landmark overlooking the highway to Caracas.",
+                  "category": "historical",
+                  "coords": [
+                        -66.991229,
+                        10.549612
+                  ]
+            },
+            {
+                  "name": "Mirador de Las Trincheras",
+                  "text": "This viewpoint located at the former defensive fortifications offers a strategic look over the coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -66.990473,
+                        10.554092
+                  ]
+            },
+            {
+                  "name": "Mirador de San Pedro",
+                  "text": "A panoramic spot in the hills of La Guaira overlooking the city and the port.",
+                  "category": "natural",
+                  "coords": [
+                        -67.002584,
+                        10.563069
+                  ]
+            },
+            {
+                  "name": "Viaducto n.° 3",
+                  "text": "An impressive concrete viaduct on the Caracas-La Guaira highway, spanning a deep ravine in the coastal mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.004918,
+                        10.552782
+                  ]
+            },
+            {
+                  "name": "La Venta",
+                  "text": "The remains of a historic inn on the old Spanish path that once connected the coast to Caracas.",
+                  "category": "historical",
+                  "coords": [
+                        -66.960332,
+                        10.554318
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VE-X",
     coords: [-66.9333, 10.6],
@@ -47,7 +272,268 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
   },
   {
-    id: "puerto-cabello-port-economic-v2",
+    id: "puerto-cabello-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Isla Goaigoaza",
+                  "text": "Dieses Küstenfeuer auf der kleinen Insel Goaigoaza leitet Schiffe sicher in den Hafen von Puerto Cabello.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.04189,
+                        10.492618
+                  ]
+            },
+            {
+                  "name": "Puente colonial entre casas",
+                  "text": "Diese historische Kolonialbrücke ist malerisch in das städtische Gefüge zwischen alten Wohnhäusern integriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.01018,
+                        10.478887
+                  ]
+            },
+            {
+                  "name": "Monumento a la Descentralización",
+                  "text": "Ein symbolisches modernes Denkmal in Puerto Cabello, das die politische Dezentralisierung Venezuelas feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -68.009877,
+                        10.481547
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "Diese Kolonialkirche mit ihrer charakteristischen weißen Fassade beherbergt wertvolle religiöse Kunst in Puerto Cabello.",
+                  "category": "religious",
+                  "coords": [
+                        -68.00946,
+                        10.480141
+                  ]
+            },
+            {
+                  "name": "Catedral de San José",
+                  "text": "Die Kathedrale von San José ist das wichtigste Gotteshaus der Stadt und besticht durch ihre elegante Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -68.008793,
+                        10.477473
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Puerto Cabello",
+                  "text": "Dieses restaurierte historische Theater ist ein kulturelles Juwel und Austragungsort für Opern und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.010368,
+                        10.477126
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Puerto Cabello",
+                  "text": "In diesem lebhaften Markthaus finden Besucher eine große Auswahl an frischem Fisch und lokalem Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.018644,
+                        10.469567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Isla Goaigoaza",
+                  "text": "Ez a Goaigoaza kis szigetén található tengerparti világítótorony biztonságosan vezeti a hajókat Puerto Cabello kikötőjébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.04189,
+                        10.492618
+                  ]
+            },
+            {
+                  "name": "Puente colonial entre casas",
+                  "text": "Ez a történelmi gyarmati híd festői módon illeszkedik a városi szövetbe a régi lakóházak között.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.01018,
+                        10.478887
+                  ]
+            },
+            {
+                  "name": "Monumento a la Descentralización",
+                  "text": "Szimbolikus modern emlékmű Puerto Cabellóban, amely Venezuela politikai decentralizációját ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -68.009877,
+                        10.481547
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "Ez a jellegzetes fehér homlokzatú gyarmati templom értékes vallási művészeti alkotásoknak ad otthont Puerto Cabellóban.",
+                  "category": "religious",
+                  "coords": [
+                        -68.00946,
+                        10.480141
+                  ]
+            },
+            {
+                  "name": "Catedral de San José",
+                  "text": "A San José-székesegyház a város legfontosabb temploma, amely elegáns építészetével nyűgöz le.",
+                  "category": "religious",
+                  "coords": [
+                        -68.008793,
+                        10.477473
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Puerto Cabello",
+                  "text": "Ez a felújított történelmi színház kulturális gyöngyszem, operák és koncertek helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.010368,
+                        10.477126
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Puerto Cabello",
+                  "text": "Ebben a nyüzsgő piaccsarnokban a látogatók friss halak és helyi kézműves termékek széles választékát találják.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.018644,
+                        10.469567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Isla Goaigoaza",
+                  "text": "Acest far de coastă de pe mica insulă Goaigoaza ghidează navele în siguranță în portul Puerto Cabello.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.04189,
+                        10.492618
+                  ]
+            },
+            {
+                  "name": "Puente colonial entre casas",
+                  "text": "Acest pod colonial istoric este integrat pitoresc în țesutul urban între case vechi de locuit.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.01018,
+                        10.478887
+                  ]
+            },
+            {
+                  "name": "Monumento a la Descentralización",
+                  "text": "Un monument modern simbolic în Puerto Cabello, care celebrează descentralizarea politică a Venezuelei.",
+                  "category": "historical",
+                  "coords": [
+                        -68.009877,
+                        10.481547
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "Această biserică colonială cu fațada sa albă caracteristică găzduiește artă religioasă valoroasă în Puerto Cabello.",
+                  "category": "religious",
+                  "coords": [
+                        -68.00946,
+                        10.480141
+                  ]
+            },
+            {
+                  "name": "Catedral de San José",
+                  "text": "Catedrala San José este cel mai important lăcaș de cult din oraș și impresionează prin arhitectura sa elegantă.",
+                  "category": "religious",
+                  "coords": [
+                        -68.008793,
+                        10.477473
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Puerto Cabello",
+                  "text": "Acest teatru istoric restaurat este o bijuterie culturală și gazdă pentru opere și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.010368,
+                        10.477126
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Puerto Cabello",
+                  "text": "În această hală de piață plină de viață, vizitatorii găsesc o selecție largă de pește proaspăt și artizanat local.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.018644,
+                        10.469567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro Isla Goaigoaza",
+                  "text": "This coastal beacon situated on the small Goaigoaza Island guides ships safely into Puerto Cabello's harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.04189,
+                        10.492618
+                  ]
+            },
+            {
+                  "name": "Puente colonial entre casas",
+                  "text": "This historic colonial-style bridge is picturesquely integrated into the urban fabric between old houses.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.01018,
+                        10.478887
+                  ]
+            },
+            {
+                  "name": "Monumento a la Descentralización",
+                  "text": "A symbolic modern monument in Puerto Cabello celebrating the political decentralization of Venezuela.",
+                  "category": "historical",
+                  "coords": [
+                        -68.009877,
+                        10.481547
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "This colonial-era church with its characteristic white facade houses valuable religious art in Puerto Cabello.",
+                  "category": "religious",
+                  "coords": [
+                        -68.00946,
+                        10.480141
+                  ]
+            },
+            {
+                  "name": "Catedral de San José",
+                  "text": "The Cathedral of San José is the city's primary place of worship, featuring an elegant facade and historic nave.",
+                  "category": "religious",
+                  "coords": [
+                        -68.008793,
+                        10.477473
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Puerto Cabello",
+                  "text": "This restored historic theatre is a cultural gem hosting operas, concerts, and various performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.010368,
+                        10.477126
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Puerto Cabello",
+                  "text": "In this lively market hall, visitors find a wide selection of fresh seafood and local artisanal crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.018644,
+                        10.469567
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VE-G",
     coords: [-68.0125, 10.4789],
@@ -90,7 +576,52 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["Puerto Cabello est l'un des ports les plus fréquentés du pays.", "La ville sert de point de transbordement majeur pour les produits industriels.", "L'histoire maritime remonte au XVIe siècle.", "L'installation est cruciale pour l'approvisionnement de la région centrale du Venezuela.", "Le port dispose d'installations de terminaux modernes.", "La ville est stratégiquement située au bord de la mer des Caraïbes."],
     }, image: "/poi-images/puerto-cabello-port-economic-v2.webp"},
   {
-    id: "maracaibo-port-economic-v2",
+    id: "maracaibo-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de Recalada Pto. Maracaibo",
+                  "text": "Dieser markante Leuchtturm dient der sicheren Navigation der Schiffe in den Hafen von Maracaibo.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.60326,
+                        10.636884
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de Recalada Pto. Maracaibo",
+                  "text": "Ez a jellegzetes világítótorony a hajók biztonságos navigációját szolgálja Maracaibo kikötőjébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.60326,
+                        10.636884
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de Recalada Pto. Maracaibo",
+                  "text": "Acest far distinctiv servește pentru navigarea în siguranță a navelor în portul Maracaibo.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.60326,
+                        10.636884
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de Recalada Pto. Maracaibo",
+                  "text": "This distinctive lighthouse serves for the safe navigation of ships into the port of Maracaibo.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.60326,
+                        10.636884
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VE-V",
     coords: [-71.6056, 10.6317],
@@ -134,7 +665,448 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
   },
   {
-    id: "guanta-port-economic-v2",
+    id: "guanta-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Maravilla",
+                  "text": "Dieser Küstengipfel nahe Guanta bietet einen weiten Blick über das Karibische Meer und die Hafenbucht.",
+                  "category": "natural",
+                  "coords": [
+                        -64.581448,
+                        10.171384
+                  ]
+            },
+            {
+                  "name": "Cerro San Agustín",
+                  "text": "Ein zerklüfteter Hügel über der Hafenstadt Guanta, der bei lokalen Wanderern für seine Aussicht beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -64.571313,
+                        10.149875
+                  ]
+            },
+            {
+                  "name": "Cerro El Toro",
+                  "text": "Ein markanter Hügel, der eine natürliche Kulisse für die industrielle Hafenlandschaft von Guanta bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -64.516328,
+                        10.195474
+                  ]
+            },
+            {
+                  "name": "Loma del Muerto",
+                  "text": "Dieser Bergrücken ist für seine charakteristische Form und den Panoramablick über die Hügellandschaft bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        -64.509305,
+                        10.222998
+                  ]
+            },
+            {
+                  "name": "Cerro La Torre",
+                  "text": "Dieser Gipfel im Küstengebirge von Guanta ragt bis zu 1000 Meter hoch auf und bietet einen weiten Blick über die Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        -64.56496,
+                        10.216157
+                  ]
+            },
+            {
+                  "name": "Cerro La Escalera",
+                  "text": "Ein beliebter Aussichtspunkt in 375 Metern Höhe, der Wanderern einen direkten Blick auf das Hafen- und Industriegebiet von Guanta ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -64.58159,
+                        10.202719
+                  ]
+            },
+            {
+                  "name": "La Pajita",
+                  "text": "Ein Küstenabschnitt in der Nähe der Insel Isla de Plata, der oft als Anlegestelle für Ausflugsboote genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.580607,
+                        10.246948
+                  ]
+            },
+            {
+                  "name": "Faro Isla Picuda Chica",
+                  "text": "Dieser aktive Leuchtturm im Nationalpark Mochima markiert eine kleine, von Korallenriffen umgebene Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.562222,
+                        10.307683
+                  ]
+            },
+            {
+                  "name": "Faro Isla Chimana Segunda",
+                  "text": "Das markante Wahrzeichen auf dem höchsten Hügel der Insel Chimana Segunda bietet eine 360-Grad-Aussicht auf das Archipel.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.606711,
+                        10.291332
+                  ]
+            },
+            {
+                  "name": "Playa El Faro",
+                  "text": "Ein belebter Strand am Fuße des Leuchtturmhügels auf der Insel Chimana Segunda, bekannt für sein ruhiges Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.60534,
+                        10.291254
+                  ]
+            },
+            {
+                  "name": "Playa Punta de la Cruz",
+                  "text": "Ein idyllischer Sandstrand an einer Landzunge bei Guanta, der für sein kristallklares, türkisfarbenes Wasser geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.548259,
+                        10.250965
+                  ]
+            },
+            {
+                  "name": "Iglesia de Guanta",
+                  "text": "Die zentrale Pfarrkirche von Guanta bildet den religiösen Mittelpunkt der Hafenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.596408,
+                        10.233491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Maravilla",
+                  "text": "Guanta közeli tengerparti csúcs, ahonnan pazar kilátás nyílik a Karib-tengerre és a kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        -64.581448,
+                        10.171384
+                  ]
+            },
+            {
+                  "name": "Cerro San Agustín",
+                  "text": "Sziklás domb Guanta kikötővárosa felett, amely kilátása miatt népszerű a helyi túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        -64.571313,
+                        10.149875
+                  ]
+            },
+            {
+                  "name": "Cerro El Toro",
+                  "text": "Jellegzetes domb, amely természetes hátteret biztosít Guanta ipari kikötői tájának.",
+                  "category": "natural",
+                  "coords": [
+                        -64.516328,
+                        10.195474
+                  ]
+            },
+            {
+                  "name": "Loma del Muerto",
+                  "text": "Ez a hegygerinc jellegzetes alakjáról és a környező dombokra nyíló panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -64.509305,
+                        10.222998
+                  ]
+            },
+            {
+                  "name": "Cerro La Torre",
+                  "text": "A Guanta melletti partmenti hegység 1000 méter magas csúcsa, ahonnan panorámás kilátás nyílik az öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -64.56496,
+                        10.216157
+                  ]
+            },
+            {
+                  "name": "Cerro La Escalera",
+                  "text": "Népszerű kilátóhely 375 méteres magasságban, ahonnan közvetlen rálátás nyílik Guanta kikötőjére és ipari negyedére.",
+                  "category": "natural",
+                  "coords": [
+                        -64.58159,
+                        10.202719
+                  ]
+            },
+            {
+                  "name": "La Pajita",
+                  "text": "Az Isla de Plata sziget közelében fekvő tengerparti szakasz, amely gyakran szolgál kirándulóhajók kikötőhelyéül.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.580607,
+                        10.246948
+                  ]
+            },
+            {
+                  "name": "Faro Isla Picuda Chica",
+                  "text": "A Mochima Nemzeti Parkban található aktív világítótorony, amely egy korallzátonyokkal övezett kis szigetet jelöl.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.562222,
+                        10.307683
+                  ]
+            },
+            {
+                  "name": "Faro Isla Chimana Segunda",
+                  "text": "A Chimana Segunda-sziget legmagasabb dombján álló jellegzetes világítótorony 360 fokos kilátást nyújt a szigetvilágra.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.606711,
+                        10.291332
+                  ]
+            },
+            {
+                  "name": "Playa El Faro",
+                  "text": "A Chimana Segunda-sziget világítótornyos dombjának lábánál fekvő népszerű strand, amely nyugodt vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.60534,
+                        10.291254
+                  ]
+            },
+            {
+                  "name": "Playa Punta de la Cruz",
+                  "text": "Guanta melletti idilli homokos tengerpart egy félszigeten, amely kristálytiszta, türkizkék vizéről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.548259,
+                        10.250965
+                  ]
+            },
+            {
+                  "name": "Iglesia de Guanta",
+                  "text": "Guanta központi plébániatemploma, amely a kikötőváros vallási életének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.596408,
+                        10.233491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Maravilla",
+                  "text": "Acest vârf de coastă de lângă Guanta oferă o vedere amplă asupra Mării Caraibelor și a golfului.",
+                  "category": "natural",
+                  "coords": [
+                        -64.581448,
+                        10.171384
+                  ]
+            },
+            {
+                  "name": "Cerro San Agustín",
+                  "text": "Un deal stâncos deasupra orașului-port Guanta, popular printre excursioniștii locali pentru vederile sale.",
+                  "category": "natural",
+                  "coords": [
+                        -64.571313,
+                        10.149875
+                  ]
+            },
+            {
+                  "name": "Cerro El Toro",
+                  "text": "Un deal proeminent ce formează un fundal natural pentru peisajul portuar industrial din Guanta.",
+                  "category": "natural",
+                  "coords": [
+                        -64.516328,
+                        10.195474
+                  ]
+            },
+            {
+                  "name": "Loma del Muerto",
+                  "text": "Această culme este cunoscută pentru forma sa distinctivă și vederile panoramice asupra dealurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -64.509305,
+                        10.222998
+                  ]
+            },
+            {
+                  "name": "Cerro La Torre",
+                  "text": "Acest vârf din lanțul muntos de coastă de lângă Guanta se înalță până la 1000 de metri, oferind o priveliște panoramică asupra golfului.",
+                  "category": "natural",
+                  "coords": [
+                        -64.56496,
+                        10.216157
+                  ]
+            },
+            {
+                  "name": "Cerro La Escalera",
+                  "text": "Un punct de observație popular la 375 de metri altitudine, care oferă drumeților o vedere directă asupra zonei portuare și industriale din Guanta.",
+                  "category": "natural",
+                  "coords": [
+                        -64.58159,
+                        10.202719
+                  ]
+            },
+            {
+                  "name": "La Pajita",
+                  "text": "O zonă de coastă situată lângă insula Isla de Plata, folosită adesea ca punct de debarcare pentru bărcile de excursie.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.580607,
+                        10.246948
+                  ]
+            },
+            {
+                  "name": "Faro Isla Picuda Chica",
+                  "text": "Acest far activ din Parcul Național Mochima marchează o mică insulă înconjurată de recife de corali.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.562222,
+                        10.307683
+                  ]
+            },
+            {
+                  "name": "Faro Isla Chimana Segunda",
+                  "text": "Repereul distinctiv de pe cel mai înalt deal al insulei Chimana Segunda oferă o vedere de 360 de grade asupra arhipelagului.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.606711,
+                        10.291332
+                  ]
+            },
+            {
+                  "name": "Playa El Faro",
+                  "text": "O plajă animată situată la poalele dealului cu far de pe insula Chimana Segunda, cunoscută pentru apele sale calme.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.60534,
+                        10.291254
+                  ]
+            },
+            {
+                  "name": "Playa Punta de la Cruz",
+                  "text": "O plajă de nisip idilică pe un promontoriu de lângă Guanta, apreciată pentru apele sale turcoaz cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.548259,
+                        10.250965
+                  ]
+            },
+            {
+                  "name": "Iglesia de Guanta",
+                  "text": "Biserica parohială centrală din Guanta constituie centrul religios al orașului portuar.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.596408,
+                        10.233491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Maravilla",
+                  "text": "This coastal peak near Guanta offers sweeping views over the Caribbean Sea and the harbour bay.",
+                  "category": "natural",
+                  "coords": [
+                        -64.581448,
+                        10.171384
+                  ]
+            },
+            {
+                  "name": "Cerro San Agustín",
+                  "text": "A rugged hill rising above the port town of Guanta, popular with local hikers for its views.",
+                  "category": "natural",
+                  "coords": [
+                        -64.571313,
+                        10.149875
+                  ]
+            },
+            {
+                  "name": "Cerro El Toro",
+                  "text": "A prominent hill providing a natural backdrop to the industrial port landscape of Guanta.",
+                  "category": "natural",
+                  "coords": [
+                        -64.516328,
+                        10.195474
+                  ]
+            },
+            {
+                  "name": "Loma del Muerto",
+                  "text": "This ridge is known for its distinctive shape and panoramic vistas over the surrounding hills.",
+                  "category": "natural",
+                  "coords": [
+                        -64.509305,
+                        10.222998
+                  ]
+            },
+            {
+                  "name": "Cerro La Torre",
+                  "text": "This peak in the coastal range near Guanta rises up to 1000 meters, offering panoramic views over the bay.",
+                  "category": "natural",
+                  "coords": [
+                        -64.56496,
+                        10.216157
+                  ]
+            },
+            {
+                  "name": "Cerro La Escalera",
+                  "text": "A popular viewpoint at 375 meters altitude, offering hikers a direct look over Guanta's port and industrial area.",
+                  "category": "natural",
+                  "coords": [
+                        -64.58159,
+                        10.202719
+                  ]
+            },
+            {
+                  "name": "La Pajita",
+                  "text": "A coastal spot near Isla de Plata that often serves as a landing area for local excursion boats.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.580607,
+                        10.246948
+                  ]
+            },
+            {
+                  "name": "Faro Isla Picuda Chica",
+                  "text": "This active lighthouse in Mochima National Park marks a small island surrounded by coral reefs.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.562222,
+                        10.307683
+                  ]
+            },
+            {
+                  "name": "Faro Isla Chimana Segunda",
+                  "text": "This prominent landmark on the highest hill of Chimana Segunda island offers a 360-degree view of the archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.606711,
+                        10.291332
+                  ]
+            },
+            {
+                  "name": "Playa El Faro",
+                  "text": "A busy beach at the foot of the lighthouse hill on Chimana Segunda island, known for its calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.60534,
+                        10.291254
+                  ]
+            },
+            {
+                  "name": "Playa Punta de la Cruz",
+                  "text": "An idyllic sandy beach on a headland near Guanta, prized for its crystal-clear turquoise waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.548259,
+                        10.250965
+                  ]
+            },
+            {
+                  "name": "Iglesia de Guanta",
+                  "text": "The central parish church of Guanta serves as the religious heart of this port town.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.596408,
+                        10.233491
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VE-B",
     coords: [-64.5889, 10.2372],
@@ -177,7 +1149,412 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["Guanta possède un port naturel important.", "Le port est une plateforme logistique majeure dans l'est du Venezuela.", "Il soutient le transbordement de matières premières industrielles.", "Il joue un rôle crucial pour le commerce maritime dans la région.", "L'installation est bien accessible aux grands navires.", "La base industrielle environnante est fortement liée au port."],
     }, image: "/poi-images/guanta-port-economic-v2.webp"},
   {
-    id: "guaranao-port-economic-v2",
+    id: "guaranao-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de Puerto Recalada Guaranao",
+                  "text": "Dieser Leuchtturm am Hafen von Guaranao leitet Schiffe sicher durch die Gewässer der Halbinsel Paraguaná.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.213249,
+                        11.666768
+                  ]
+            },
+            {
+                  "name": "Redoma Bienvenido a Punto Fijo",
+                  "text": "Ein markanter Kreisverkehr am Eingang von Punto Fijo, der Besucher mit einem farbenfrohen Denkmal willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.174188,
+                        11.677727
+                  ]
+            },
+            {
+                  "name": "Ateneo Rubén Ismael Padilla",
+                  "text": "Dieses Kulturzentrum in Punto Fijo ist ein wichtiger Ort für Theateraufführungen und künstlerische Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.2057,
+                        11.694206
+                  ]
+            },
+            {
+                  "name": "Cine Comunidad Cardon",
+                  "text": "Ein historisches Kino in der Siedlung Cardón, das die kulturelle Geschichte der lokalen Ölindustrie widerspiegelt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.221077,
+                        11.648415
+                  ]
+            },
+            {
+                  "name": "Zoológico Gustavo Rivera",
+                  "text": "Dieser Zoo in Punto Fijo beherbergt verschiedene Tierarten in der typischen Trockenlandschaft der Halbinsel Paraguaná.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.222461,
+                        11.651018
+                  ]
+            },
+            {
+                  "name": "Sala Experimental de Arte Bariquía Domingo",
+                  "text": "Ein experimenteller Kunstraum in Punto Fijo, der modernen Künstlern eine Bühne für innovative Darbietungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.22073,
+                        11.651945
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrado Corazón de Jesús",
+                  "text": "Diese katholische Pfarrkirche in Guaranao ist dem Heiligsten Herzen Jesu gewidmet und ein Ort der Stille.",
+                  "category": "religious",
+                  "coords": [
+                        -70.213141,
+                        11.683536
+                  ]
+            },
+            {
+                  "name": "Catedral Virgen de Coromoto",
+                  "text": "Die moderne Kathedrale von Punto Fijo ist der Schutzpatronin Venezuelas, der Jungfrau von Coromoto, geweiht.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.209053,
+                        11.694541
+                  ]
+            },
+            {
+                  "name": "Iglesia \"San Nicolas de Bari\"",
+                  "text": "Eine lokale christliche Kirche in der Hafenstadt Guaranao, die nach dem Heiligen Nikolaus von Bari benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.189815,
+                        11.687745
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "Diese Kirche in der Nähe des Hafens ehrt die Jungfrau von Guadalupe und ist ein religiöses Zentrum für die Seeleute.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.22202,
+                        11.650048
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Der städtische Markt von Guaranao ist ein lebhafter Handelsplatz für lokale Erzeugnisse und Waren des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.207459,
+                        11.686282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de Puerto Recalada Guaranao",
+                  "text": "Ez a guaranaói kikötőben található világítótorony segíti a hajók biztonságos haladását a Paraguaná-félsziget vizein.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.213249,
+                        11.666768
+                  ]
+            },
+            {
+                  "name": "Redoma Bienvenido a Punto Fijo",
+                  "text": "Egy jellegzetes körforgalom Punto Fijo bejáratánál, amely színes emlékművel üdvözli a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.174188,
+                        11.677727
+                  ]
+            },
+            {
+                  "name": "Ateneo Rubén Ismael Padilla",
+                  "text": "Ez a punto fijói kulturális központ a színházi előadások és művészeti kiállítások fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.2057,
+                        11.694206
+                  ]
+            },
+            {
+                  "name": "Cine Comunidad Cardon",
+                  "text": "Egy történelmi mozi a Cardón lakótelepen, amely a helyi olajipar kulturális történetét tükrözi.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.221077,
+                        11.648415
+                  ]
+            },
+            {
+                  "name": "Zoológico Gustavo Rivera",
+                  "text": "Ez a punto fijói állatkert különféle állatfajoknak ad otthont a Paraguaná-félsziget jellegzetes száraz vidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.222461,
+                        11.651018
+                  ]
+            },
+            {
+                  "name": "Sala Experimental de Arte Bariquía Domingo",
+                  "text": "Egy kísérleti művészeti tér Punto Fijóban, amely modern művészeknek kínál színpadot innovatív előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.22073,
+                        11.651945
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrado Corazón de Jesús",
+                  "text": "Ez a guaranaói katolikus plébániatemplom Jézus Szent Szívének van szentelve, és a csend helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -70.213141,
+                        11.683536
+                  ]
+            },
+            {
+                  "name": "Catedral Virgen de Coromoto",
+                  "text": "Punto Fijo modern székesegyháza Venezuela védőszentjének, a Coromotói Szűznek van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.209053,
+                        11.694541
+                  ]
+            },
+            {
+                  "name": "Iglesia \"San Nicolas de Bari\"",
+                  "text": "Egy helyi keresztény templom Guaranao kikötővárosában, amelyet Bari Szent Miklósról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.189815,
+                        11.687745
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "Ez a kikötő közeli templom a Guadalupe-i Szüzet tiszteli, és a tengerészek vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.22202,
+                        11.650048
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Guaranao városi piaca a helyi termékek és a napi szükségleti cikkek élénk kereskedelmi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.207459,
+                        11.686282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de Puerto Recalada Guaranao",
+                  "text": "Acest far din portul Guaranao ghidează navele în siguranță prin apele Peninsulei Paraguaná.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.213249,
+                        11.666768
+                  ]
+            },
+            {
+                  "name": "Redoma Bienvenido a Punto Fijo",
+                  "text": "Un sens giratoriu proeminent la intrarea în Punto Fijo, care întâmpină vizitatorii cu un monument colorat.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.174188,
+                        11.677727
+                  ]
+            },
+            {
+                  "name": "Ateneo Rubén Ismael Padilla",
+                  "text": "Acest centru cultural din Punto Fijo este un loc important pentru spectacole de teatru și expoziții artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.2057,
+                        11.694206
+                  ]
+            },
+            {
+                  "name": "Cine Comunidad Cardon",
+                  "text": "Un cinematograf istoric din comunitatea Cardón, care reflectă istoria culturală a industriei petroliere locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.221077,
+                        11.648415
+                  ]
+            },
+            {
+                  "name": "Zoológico Gustavo Rivera",
+                  "text": "Această grădină zoologică din Punto Fijo găzduiește diverse specii de animale în peisajul arid tipic Peninsulei Paraguaná.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.222461,
+                        11.651018
+                  ]
+            },
+            {
+                  "name": "Sala Experimental de Arte Bariquía Domingo",
+                  "text": "Un spațiu de artă experimentală din Punto Fijo, care oferă artiștilor moderni o scenă pentru spectacole inovatoare.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.22073,
+                        11.651945
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrado Corazón de Jesús",
+                  "text": "Această biserică parohială catolică din Guaranao este dedicată Inimii Preasfinte a lui Isus și este un loc de liniște.",
+                  "category": "religious",
+                  "coords": [
+                        -70.213141,
+                        11.683536
+                  ]
+            },
+            {
+                  "name": "Catedral Virgen de Coromoto",
+                  "text": "Catedrala modernă din Punto Fijo este dedicată patroanei Venezuelei, Fecioara de Coromoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.209053,
+                        11.694541
+                  ]
+            },
+            {
+                  "name": "Iglesia \"San Nicolas de Bari\"",
+                  "text": "O biserică creștină locală din orașul portuar Guaranao, numită după Sfântul Nicolae din Bari.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.189815,
+                        11.687745
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "Această biserică din apropierea portului o onorează pe Fecioara de Guadalupe și este un centru religios pentru marinari.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.22202,
+                        11.650048
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Piața municipală din Guaranao este un loc de tranzacționare plin de viață pentru produsele locale și bunurile de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.207459,
+                        11.686282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de Puerto Recalada Guaranao",
+                  "text": "This lighthouse at the port of Guaranao guides ships safely through the waters of the Paraguaná Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.213249,
+                        11.666768
+                  ]
+            },
+            {
+                  "name": "Redoma Bienvenido a Punto Fijo",
+                  "text": "A prominent roundabout at the entrance to Punto Fijo, welcoming visitors with a colorful monument.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.174188,
+                        11.677727
+                  ]
+            },
+            {
+                  "name": "Ateneo Rubén Ismael Padilla",
+                  "text": "This cultural center in Punto Fijo is a key venue for theatrical performances and artistic exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.2057,
+                        11.694206
+                  ]
+            },
+            {
+                  "name": "Cine Comunidad Cardon",
+                  "text": "A historical cinema in the Cardón community, reflecting the cultural history of the local oil industry.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.221077,
+                        11.648415
+                  ]
+            },
+            {
+                  "name": "Zoológico Gustavo Rivera",
+                  "text": "This zoo in Punto Fijo houses various animal species in the typical arid landscape of the Paraguaná Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.222461,
+                        11.651018
+                  ]
+            },
+            {
+                  "name": "Sala Experimental de Arte Bariquía Domingo",
+                  "text": "An experimental art space in Punto Fijo offering modern artists a stage for innovative performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.22073,
+                        11.651945
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrado Corazón de Jesús",
+                  "text": "This Catholic parish church in Guaranao is dedicated to the Sacred Heart of Jesus and is a place of tranquility.",
+                  "category": "religious",
+                  "coords": [
+                        -70.213141,
+                        11.683536
+                  ]
+            },
+            {
+                  "name": "Catedral Virgen de Coromoto",
+                  "text": "Punto Fijo's modern cathedral is dedicated to the patroness of Venezuela, the Virgin of Coromoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.209053,
+                        11.694541
+                  ]
+            },
+            {
+                  "name": "Iglesia \"San Nicolas de Bari\"",
+                  "text": "A local Christian church in the port city of Guaranao, named after Saint Nicholas of Bari.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.189815,
+                        11.687745
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "This church near the port honors the Virgin of Guadalupe and is a religious center for the seafarers.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.22202,
+                        11.650048
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Guaranao's municipal market is a lively trading spot for local produce and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.207459,
+                        11.686282
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VE-I",
     coords: [-70.2181, 11.6708],
@@ -221,7 +1598,448 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
   },
   {
-    id: "el-guamache-port-economic-v2",
+    id: "el-guamache-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa La Salle",
+                  "text": "Ein ruhiger Sandstrand in der Nähe des Hafens El Guamache, ideal für einen entspannten Tag am Karibischen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.108808,
+                        10.901228
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Mangle",
+                  "text": "Dieser Küstenabschnitt ist für seine Mangrovenlandschaft und das klare, flache Wasser bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.039556,
+                        10.869219
+                  ]
+            },
+            {
+                  "name": "Playa Oasis",
+                  "text": "Ein kleinerer Strandabschnitt auf der Insel Margarita, der für seine ruhige Atmosphäre abseits der großen Häfen geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.053692,
+                        10.873052
+                  ]
+            },
+            {
+                  "name": "Playa El Guamache",
+                  "text": "Der Hauptstrand in der Nähe des Fährterminals, der einen direkten Blick auf die einlaufenden Schiffe bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.070557,
+                        10.896306
+                  ]
+            },
+            {
+                  "name": "Playa Paraiso",
+                  "text": "Eine malerische Bucht mit hellem Sand, die oft von Besuchern der Kreuzfahrtschiffe für kurze Ausflüge genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.06336,
+                        10.862888
+                  ]
+            },
+            {
+                  "name": "Playa Musipán",
+                  "text": "Dieser Strand liegt direkt neben dem berühmten Themenpark und bietet Erholung nach einem Tag voller Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.997809,
+                        10.882813
+                  ]
+            },
+            {
+                  "name": "El Reino de Musipán",
+                  "text": "Ein origineller Themenpark auf der Insel Margarita, der die venezolanische Folklore und Kultur mit viel Humor präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.99812,
+                        10.885463
+                  ]
+            },
+            {
+                  "name": "Capilla María Auxiliadora",
+                  "text": "Eine kleine Kapelle im Viertel El Guamache, die der Helferin der Christen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.10021,
+                        10.951848
+                  ]
+            },
+            {
+                  "name": "Iglesias de Jesucristo de los santos de los últimos Días",
+                  "text": "Ein modernes religiöses Gebäude der mormonischen Gemeinde in der Nähe der Küste von Margarita.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.081096,
+                        10.910353
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús",
+                  "text": "Die katholische Pfarrkirche des Ortes, erkennbar an ihrer schlichten Architektur und dem zentralen Standort.",
+                  "category": "religious",
+                  "coords": [
+                        -64.082284,
+                        10.953965
+                  ]
+            },
+            {
+                  "name": "Iglesia San Simon Apostol",
+                  "text": "Ein lokales christliches Gotteshaus in El Guamache, das dem Apostel Simon geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -64.097276,
+                        10.900036
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Teresa de Jesús",
+                  "text": "Diese kleine Kirche dient der lokalen Gemeinschaft als Ort für Gottesdienste und religiöse Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.051446,
+                        10.938161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa La Salle",
+                  "text": "Nyugodt, homokos tengerpart El Guamache kikötője közelében, amely ideális egy pihentető naphoz a Karib-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.108808,
+                        10.901228
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Mangle",
+                  "text": "Ez a tengerparti szakasz mangroveerdeiről és tiszta, sekély vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.039556,
+                        10.869219
+                  ]
+            },
+            {
+                  "name": "Playa Oasis",
+                  "text": "Kisebb partszakasz Margarita szigetén, amelyet a nagy kikötőktől távoli, nyugodt légköre miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.053692,
+                        10.873052
+                  ]
+            },
+            {
+                  "name": "Playa El Guamache",
+                  "text": "A kompkikötő melletti fő strand, ahonnan közvetlen kilátás nyílik az érkező hajókra.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.070557,
+                        10.896306
+                  ]
+            },
+            {
+                  "name": "Playa Paraiso",
+                  "text": "Festői, világos homokos öböl, amelyet a skemélyszállító hajók utasai gyakran keresnek fel rövid kirándulásokra.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.06336,
+                        10.862888
+                  ]
+            },
+            {
+                  "name": "Playa Musipán",
+                  "text": "Ez a strand közvetlenül a híres vidámpark mellett található, kikapcsolódást nyújtva az attrakciókkal teli nap után.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.997809,
+                        10.882813
+                  ]
+            },
+            {
+                  "name": "El Reino de Musipán",
+                  "text": "Eredeti vidámpark Margarita szigetén, amely humoros formában mutatja be a venezuelai folklórt és kultúrát.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.99812,
+                        10.885463
+                  ]
+            },
+            {
+                  "name": "Capilla María Auxiliadora",
+                  "text": "Kicsiny kápolna El Guamache negyedében, amelyet a Keresztények Segítsége Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.10021,
+                        10.951848
+                  ]
+            },
+            {
+                  "name": "Iglesias de Jesucristo de los santos de los últimos Días",
+                  "text": "A mormon közösség modern vallási épülete Margarita partjainak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.081096,
+                        10.910353
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús",
+                  "text": "A település katolikus plébániatemploma, amely egyszerű építészetéről és központi elhelyezkedéséről ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        -64.082284,
+                        10.953965
+                  ]
+            },
+            {
+                  "name": "Iglesia San Simon Apostol",
+                  "text": "Helyi keresztény templom El Guamache-ban, amelyet Szent Simon apostol tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -64.097276,
+                        10.900036
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Teresa de Jesús",
+                  "text": "Ez a kis templom a helyi közösség számára szolgál istentiszteletek és vallási ünnepek helyszínéül.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.051446,
+                        10.938161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa La Salle",
+                  "text": "O plajă de nisip liniștită lângă portul El Guamache, ideală pentru o zi relaxantă la Marea Caraibilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.108808,
+                        10.901228
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Mangle",
+                  "text": "Această porțiune de coastă este cunoscută pentru peisajul său cu mangrove și apele limpezi și puțin adânci.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.039556,
+                        10.869219
+                  ]
+            },
+            {
+                  "name": "Playa Oasis",
+                  "text": "O porțiune mai mică de plajă pe insula Margarita, apreciată pentru atmosfera sa liniștită, departe de porturile mari.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.053692,
+                        10.873052
+                  ]
+            },
+            {
+                  "name": "Playa El Guamache",
+                  "text": "Plaja principală de lângă terminalul de feribot, oferind o vedere directă asupra navelor care sosesc.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.070557,
+                        10.896306
+                  ]
+            },
+            {
+                  "name": "Playa Paraiso",
+                  "text": "Un golf pitoresc cu nisip deschis la culoare, vizitat adesea de turiștii de pe navele de croazieră pentru excursii scurte.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.06336,
+                        10.862888
+                  ]
+            },
+            {
+                  "name": "Playa Musipán",
+                  "text": "Această plajă se află chiar lângă faimosul parc tematic, oferind relaxare după o zi plină de atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.997809,
+                        10.882813
+                  ]
+            },
+            {
+                  "name": "El Reino de Musipán",
+                  "text": "Un parc tematic original pe insula Margarita, care prezintă folclorul și cultura venezueleană cu mult umor.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.99812,
+                        10.885463
+                  ]
+            },
+            {
+                  "name": "Capilla María Auxiliadora",
+                  "text": "O mică capelă în cartierul El Guamache, dedicată Fecioarei Maria Ajutătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.10021,
+                        10.951848
+                  ]
+            },
+            {
+                  "name": "Iglesias de Jesucristo de los santos de los últimos Días",
+                  "text": "O clădire religioasă modernă a comunității mormone, situată în apropierea coastei insulei Margarita.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.081096,
+                        10.910353
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús",
+                  "text": "Biserica parohială catolică a localității, recunoscută după arhitectura sa simplă și locația centrală.",
+                  "category": "religious",
+                  "coords": [
+                        -64.082284,
+                        10.953965
+                  ]
+            },
+            {
+                  "name": "Iglesia San Simon Apostol",
+                  "text": "Un lăcaș de cult creștin local în El Guamache, dedicat Sfântului Apostol Simon.",
+                  "category": "religious",
+                  "coords": [
+                        -64.097276,
+                        10.900036
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Teresa de Jesús",
+                  "text": "Această mică biserică servește comunitatea locală ca loc pentru slujbe și sărbători religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.051446,
+                        10.938161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa La Salle",
+                  "text": "A quiet sandy beach near the El Guamache port, ideal for a relaxing day by the Caribbean Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.108808,
+                        10.901228
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Mangle",
+                  "text": "This coastal stretch is known for its mangrove landscape and clear, shallow waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.039556,
+                        10.869219
+                  ]
+            },
+            {
+                  "name": "Playa Oasis",
+                  "text": "A smaller beach section on Margarita Island, valued for its calm atmosphere away from the major ports.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.053692,
+                        10.873052
+                  ]
+            },
+            {
+                  "name": "Playa El Guamache",
+                  "text": "The main beach near the ferry terminal, offering a direct view of the incoming vessels.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.070557,
+                        10.896306
+                  ]
+            },
+            {
+                  "name": "Playa Paraiso",
+                  "text": "A picturesque cove with light sand, often frequented by cruise ship visitors for short excursions.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.06336,
+                        10.862888
+                  ]
+            },
+            {
+                  "name": "Playa Musipán",
+                  "text": "This beach is located right next to the famous theme park, offering relaxation after a day of attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.997809,
+                        10.882813
+                  ]
+            },
+            {
+                  "name": "El Reino de Musipán",
+                  "text": "A unique theme park on Margarita Island that presents Venezuelan folklore and culture with plenty of humor.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.99812,
+                        10.885463
+                  ]
+            },
+            {
+                  "name": "Capilla María Auxiliadora",
+                  "text": "A small chapel in the El Guamache area dedicated to Mary Help of Christians.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.10021,
+                        10.951848
+                  ]
+            },
+            {
+                  "name": "Iglesias de Jesucristo de los santos de los últimos Días",
+                  "text": "A modern religious building of the Mormon community located near the coast of Margarita.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.081096,
+                        10.910353
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús",
+                  "text": "The local Catholic parish church, recognizable by its simple architecture and central location.",
+                  "category": "religious",
+                  "coords": [
+                        -64.082284,
+                        10.953965
+                  ]
+            },
+            {
+                  "name": "Iglesia San Simon Apostol",
+                  "text": "A local Christian place of worship in El Guamache, dedicated to Saint Simon the Apostle.",
+                  "category": "religious",
+                  "coords": [
+                        -64.097276,
+                        10.900036
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Teresa de Jesús",
+                  "text": "This small church serves the local community as a venue for services and religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.051446,
+                        10.938161
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VE-O",
     coords: [-64.085, 10.8803],
@@ -264,7 +2082,1348 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["El Guamache est l'interface logistique la plus importante pour l'Isla Margarita.", "L'activité de croisière en fait un point d'escale majeur pour le tourisme international.", "La capacité de fret est essentielle pour les besoins quotidiens de la population de l'île et le commerce de détail.", "Sa situation stratégique au sud de l'île permet une liaison efficace avec le continent."],
     }, image: "/poi-images/el-guamache-port-economic-v2.webp"},
   {
-    id: "palua-iron-port-economic-v2",
+    id: "palua-iron-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fundación La Barraca",
+                  "text": "Die am 17. Juli 1973 gegründete Fundación La Barraca ist eine bemerkenswerte Theaterinstitution, die für ihre Kulturförderung und darstellenden Künste in palua-iron-port-economic-v2 bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.674349,
+                        8.356415
+                  ]
+            },
+            {
+                  "name": "Puente Macagua",
+                  "text": "Die Puente Macagua ist eine bemerkenswerte Brückenstruktur, die den Río Caroní überspannt und Teil des riesigen Macagua-Talsperren-Infrastrukturkomplexes in palua-iron-port-economic-v2 ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.66663,
+                        8.318096
+                  ]
+            },
+            {
+                  "name": "Ecomuseo del Caroní",
+                  "text": "Das am 26. November 1997 eröffnete Ecomuseo del Caroní ist ein Kulturmuseum, das sich der ökologischen, kulturellen und wasserkraftbezogenen Geschichte des Caroní-Einzugsgebiets widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -62.670057,
+                        8.305214
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico La Laja",
+                  "text": "Der Sitio Arqueológico La Laja ist eine historische Ausgrabungsstätte, die antike indigene Überreste bewahrt, die in der Nähe der Steinplatten von palua-iron-port-economic-v2 gefunden wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -62.681479,
+                        8.364375
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Los Mangos",
+                  "text": "Der Sitio Arqueológico Los Mangos ist eine archäologische Stätte, die die frühe menschliche Geschichte und Artefakte in einer bewaldeten Umgebung um palua-iron-port-economic-v2 aufdeckt.",
+                  "category": "historical",
+                  "coords": [
+                        -62.680395,
+                        8.359731
+                  ]
+            },
+            {
+                  "name": "Antiguo Mercal",
+                  "text": "Der Antiguo Mercal umfasst die baulichen Ruinen eines ehemals belebten staatlich subventionierten Lebensmittelmarktes in palua-iron-port-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -62.642463,
+                        8.329781
+                  ]
+            },
+            {
+                  "name": "Teatro de Piedras",
+                  "text": "Das Teatro de Piedras ist ein einzigartig konstruiertes, vollständig aus Stein erbautes Theater, das eine atmosphärische Kulisse in palua-iron-port-economic-v2 schafft.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.67639,
+                        8.314902
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Die Concha Acústica ist ein markant geschwungenes Freilufttheater in Form einer akustischen Muschel, um den Schall in palua-iron-port-economic-v2 natürlich zu projizieren.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.664562,
+                        8.371174
+                  ]
+            },
+            {
+                  "name": "Anfiteatrillo del Ecomuseo",
+                  "text": "Das am 26. November 1998 eingeweihte Anfiteatrillo del Ecomuseo ist ein kleiner Amphitheater-Aufführungsraum im Freien auf dem Gelände des Ökomuseums.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.669562,
+                        8.306208
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Miranda",
+                  "text": "Das Anfiteatro Miranda dient als gestuftes Freilufttheater, das für große öffentliche Versammlungen und Gemeindeveranstaltungen in palua-iron-port-economic-v2 konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.661922,
+                        8.367166
+                  ]
+            },
+            {
+                  "name": "Teatro Bicentenario",
+                  "text": "Das Teatro Bicentenario ist ein modernes Theatergebäude, das ausdrücklich zum Gedenken an das zweihundertjährige Jubiläum in palua-iron-port-economic-v2 benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.642861,
+                        8.363944
+                  ]
+            },
+            {
+                  "name": "iglesia Sardi - Pentecostés",
+                  "text": "Diese Pfingstkirche dient als lokales Gebetshaus für christliche Gottesdienste in der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -62.634707,
+                        8.359304
+                  ]
+            },
+            {
+                  "name": "Mercadito de El Gallo",
+                  "text": "Dieser belebte Marktplatz bietet Stände, an denen frische Lebensmittel und lokale Waren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.648979,
+                        8.364139
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de San Félix",
+                  "text": "In dieser städtischen Markthalle versorgen sich die Anwohner mit frischen Produkten und Haushaltswaren aus der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.662476,
+                        8.372556
+                  ]
+            },
+            {
+                  "name": "Mercado Manuel Piar",
+                  "text": "Dieser Handelsplatz ist nach Manuel Piar benannt und ein wichtiges Zentrum für den täglichen Lebensmitteleinkauf.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.658147,
+                        8.375372
+                  ]
+            },
+            {
+                  "name": "Area de Viveres y Charcuteria",
+                  "text": "Dieser spezielle Marktbereich konzentriert sich auf den Verkauf von haltbaren Lebensmitteln und Wurstwaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.631989,
+                        8.349903
+                  ]
+            },
+            {
+                  "name": "Mercado Campesino de La 45",
+                  "text": "Auf diesem Bauernmarkt bieten Landwirte der Region ihre landwirtschaftlichen Erzeugnisse direkt den Verbrauchern an.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.674911,
+                        8.336871
+                  ]
+            },
+            {
+                  "name": "Iglesia Jehova Con Nosotros",
+                  "text": "Diese christliche Kirche mit dem Namen „Jehova mit uns“ versammelt Gläubige zu regelmäßigen Gebetsstunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.621821,
+                        8.345326
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista \"El Rapto\"",
+                  "text": "Diese evangelisch-baptistische Einrichtung konzentriert sich auf biblische Lehren und gemeinschaftliche Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.681242,
+                        8.337156
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera de Jesucristo: Fe, Poder y Sanidad",
+                  "text": "Diese christliche Missionskirche legt in ihren Predigten besonderen Wert auf Glaube, Kraft und spirituelle Heilung.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.681861,
+                        8.344534
+                  ]
+            },
+            {
+                  "name": "Alas de Socorro, Iglesia Bautista",
+                  "text": "Diese Baptistenkirche „Flügel der Hilfe“ bietet ihren Gemeindemitgliedern spirituelle Unterstützung und Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.680911,
+                        8.349317
+                  ]
+            },
+            {
+                  "name": "Iglesia Monte Nebo",
+                  "text": "Das christliche Gotteshaus ist nach dem biblischen Berg Nebo benannt und dient als Ort der Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.627125,
+                        8.37188
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Internacional Sinaí",
+                  "text": "Diese Kirche der internationalen Sinai-Mission ist ein lokaler Treffpunkt für christliche Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.685316,
+                        8.343603
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "Diese christliche Kapelle ist dem Heiligen Johannes dem Täufer geweiht und bietet Raum für stille Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.682073,
+                        8.349054
+                  ]
+            },
+            {
+                  "name": "Capilla San José",
+                  "text": "Die kleine christliche Kapelle ist nach dem Heiligen Josef benannt und wird für intime Gottesdienste genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.682435,
+                        8.355484
+                  ]
+            },
+            {
+                  "name": "Mezquita Addawa",
+                  "text": "Diese lokale islamische Moschee verfügt über einen Gebetsraum, in dem sich Muslime zu den täglichen Gebeten versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.664901,
+                        8.360378
+                  ]
+            },
+            {
+                  "name": "Parroquia Santuario La Inmaculada Concepción",
+                  "text": "Dieses christliche Heiligtum und Pfarrkirche feiert die Unbefleckte Empfängnis Mariens in seinen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.663094,
+                        8.370554
+                  ]
+            },
+            {
+                  "name": "Parroquia El Buen Pastor",
+                  "text": "Diese dem Guten Hirten geweihte christliche Pfarrgemeinde wurde im August 1968 offiziell gegründet.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.647099,
+                        8.369082
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "Die christliche Pfarrei des Heiligen Kreuzes öffnete ihre Türen für die Gemeinde am 28. August 1968.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.654782,
+                        8.365183
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "In diesem Gemeindehaus der Heiligen der Letzten Tage finden sakramentale Versammlungen und kirchlicher Unterricht statt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.65506,
+                        8.36279
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Rey",
+                  "text": "Diese dem Christkönig geweihte Pfarrei wurde am 28. August 1968 gegründet, um die lokale christliche Gemeinde zu betreuen.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.635992,
+                        8.367335
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Dieses schlichte Kirchengebäude dient als spiritueller Treffpunkt für christliche Gottesdienste in der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.61722,
+                        8.359518
+                  ]
+            },
+            {
+                  "name": "Vicaria Santa María Reina del Orinoco",
+                  "text": "Dieses christliche Vikariat, benannt nach der Königin des Orinoco, nahm am 3. November 2007 seine seelsorgerische Arbeit auf.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.619345,
+                        8.383446
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Valle",
+                  "text": "Diese christliche Kapelle ist der Schutzpatronin Ostvenezuelas, der Jungfrau vom Tal, gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.660043,
+                        8.334204
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "Die christliche Pfarrei zu Ehren des Heiligen Martin von Porres wurde am 2. Juni 1986 offiziell eingeweiht.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.637173,
+                        8.331087
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Die Pfarrkirche Unserer Lieben Frau auf dem Berge Karmel feierte ihre offizielle Eröffnung am 15. Juli 1984.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.625801,
+                        8.351498
+                  ]
+            },
+            {
+                  "name": "Parroquia San Antonio María Claret",
+                  "text": "Diese dem Heiligen Antonius Maria Claret geweihte christliche Pfarrei empfängt seit dem 11. Oktober 1977 Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.637269,
+                        8.353785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fundación La Barraca",
+                  "text": "Az 1973. július 17-én alapított Fundación La Barraca egy jelentős színházi intézmény, amely a kulturális promócióról és az előadóművészetről ismert palua-iron-port-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.674349,
+                        8.356415
+                  ]
+            },
+            {
+                  "name": "Puente Macagua",
+                  "text": "A Puente Macagua egy figyelemre méltó hídszerkezet, amely átível a Caroní folyón, mint a hatalmas Macagua-gát infrastruktúra-komplexumának része palua-iron-port-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.66663,
+                        8.318096
+                  ]
+            },
+            {
+                  "name": "Ecomuseo del Caroní",
+                  "text": "Az 1997. november 26-án megnyitott Ecomuseo del Caroní egy kulturális múzeum, amelyet a Caroní vízgyűjtő medencéjének ökológiai, kulturális és vízenergia-történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -62.670057,
+                        8.305214
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico La Laja",
+                  "text": "A Sitio Arqueológico La Laja egy történelmi ásatási terület, amely palua-iron-port-economic-v2 kőlapjai közelében talált ősi őslakos maradványokat őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -62.681479,
+                        8.364375
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Los Mangos",
+                  "text": "A Sitio Arqueológico Los Mangos egy régészeti lelőhely, amely feltárja a korai emberi történelmet és műtárgyakat egy ligetes környezetben palua-iron-port-economic-v2 körül.",
+                  "category": "historical",
+                  "coords": [
+                        -62.680395,
+                        8.359731
+                  ]
+            },
+            {
+                  "name": "Antiguo Mercal",
+                  "text": "Az Antiguo Mercal egy egykor nyüzsgő, államilag támogatott élelmiszerpiac szerkezeti romjait mutatja be palua-iron-port-economic-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -62.642463,
+                        8.329781
+                  ]
+            },
+            {
+                  "name": "Teatro de Piedras",
+                  "text": "A Teatro de Piedras egy egyedülálló építésű, teljes egészében kőből épült színház, amely hangulatos környezetet teremt palua-iron-port-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.67639,
+                        8.314902
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "A Concha Acústica egy jellegzetesen ívelt szabadtéri színház, amelyet akusztikus kagyló alakúra terveztek, hogy természetes módon vetítse a hangot palua-iron-port-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.664562,
+                        8.371174
+                  ]
+            },
+            {
+                  "name": "Anfiteatrillo del Ecomuseo",
+                  "text": "Az 1998. november 26-án felavatott Anfiteatrillo del Ecomuseo egy kis szabadtéri amfiteátrumi előadótér az ökomúzeum területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.669562,
+                        8.306208
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Miranda",
+                  "text": "Az Anfiteatro Miranda lépcsőzetes szabadtéri színházként szolgál, amelyet nagy nyilvános összejövetelekre és közösségi előadásokra terveztek palua-iron-port-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.661922,
+                        8.367166
+                  ]
+            },
+            {
+                  "name": "Teatro Bicentenario",
+                  "text": "A Teatro Bicentenario egy modern színházi intézmény, amelyet kifejezetten a bicentenáriumi korszak emlékére neveztek el palua-iron-port-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.642861,
+                        8.363944
+                  ]
+            },
+            {
+                  "name": "iglesia Sardi - Pentecostés",
+                  "text": "Ez a pünkösdista templom helyi imaházként szolgál a közösség keresztény istentiszteletei számára.",
+                  "category": "religious",
+                  "coords": [
+                        -62.634707,
+                        8.359304
+                  ]
+            },
+            {
+                  "name": "Mercadito de El Gallo",
+                  "text": "Ez a nyüzsgő piac olyan standokat kínál, ahol friss élelmiszereket és helyi árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.648979,
+                        8.364139
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de San Félix",
+                  "text": "Ebben a városi vásárcsarnokban a helyi lakosok friss termékeket és háztartási cikkeket szereznek be a régióból.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.662476,
+                        8.372556
+                  ]
+            },
+            {
+                  "name": "Mercado Manuel Piar",
+                  "text": "A Manuel Piarról elnevezett kereskedelmi tér a mindennapi élelmiszervásárlás fontos központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.658147,
+                        8.375372
+                  ]
+            },
+            {
+                  "name": "Area de Viveres y Charcuteria",
+                  "text": "Ez a speciális piactér a tartós élelmiszerek és felvágottak árusítására összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.631989,
+                        8.349903
+                  ]
+            },
+            {
+                  "name": "Mercado Campesino de La 45",
+                  "text": "Ezen a termelői piacon a régió gazdái közvetlenül a fogyasztóknak kínálják mezőgazdasági termékeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.674911,
+                        8.336871
+                  ]
+            },
+            {
+                  "name": "Iglesia Jehova Con Nosotros",
+                  "text": "Ez a „Jehova velünk” nevű keresztény templom rendszeres imaórákra gyűjti össze a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.621821,
+                        8.345326
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista \"El Rapto\"",
+                  "text": "Ez az evangéliumi baptista intézmény a bibliai tanításokra és a közösségi istentiszteletekre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.681242,
+                        8.337156
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera de Jesucristo: Fe, Poder y Sanidad",
+                  "text": "Ez a keresztény missziós gyülekezet prédikációiban különös hangsúlyt fektet a hitre, az erőre és a szellemi gyógyulásra.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.681861,
+                        8.344534
+                  ]
+            },
+            {
+                  "name": "Alas de Socorro, Iglesia Bautista",
+                  "text": "Ez a „Segítség Szárnyai” baptista gyülekezet szellemi támogatást és istentiszteleteket kínál tagjainak.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.680911,
+                        8.349317
+                  ]
+            },
+            {
+                  "name": "Iglesia Monte Nebo",
+                  "text": "A keresztény istentiszteleti hely a bibliai Nébó-hegyről kapta a nevét, és áhítat helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.627125,
+                        8.37188
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Internacional Sinaí",
+                  "text": "A Sínai Nemzetközi Misszió ezen temploma a keresztény összejövetelek helyi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.685316,
+                        8.343603
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "Ez a Keresztelő Szent Jánosnak szentelt keresztény kápolna csendes imádságoknak ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.682073,
+                        8.349054
+                  ]
+            },
+            {
+                  "name": "Capilla San José",
+                  "text": "A kis keresztény kápolna Szent József nevét viseli, és meghitt istentiszteletekre használják.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.682435,
+                        8.355484
+                  ]
+            },
+            {
+                  "name": "Mezquita Addawa",
+                  "text": "Ez a helyi iszlám mecset egy imateremmel rendelkezik, ahol a muszlimok a napi imákra gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.664901,
+                        8.360378
+                  ]
+            },
+            {
+                  "name": "Parroquia Santuario La Inmaculada Concepción",
+                  "text": "Ez a keresztény szentély és plébániatemplom Szűz Mária Szeplőtelen Fogantatását ünnepli istentiszteletein.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.663094,
+                        8.370554
+                  ]
+            },
+            {
+                  "name": "Parroquia El Buen Pastor",
+                  "text": "Ezt a Jó Pásztornak szentelt keresztény plébániát 1968 augusztusában alapították hivatalosan.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.647099,
+                        8.369082
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "A Szent Kereszt keresztény plébánia 1968. augusztus 28-án nyitotta meg kapuit a gyülekezet előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.654782,
+                        8.365183
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ebben az Utolsó Napok Szentjeinek gyülekezeti házában úrvacsorai gyűléseket és egyházi oktatást tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.65506,
+                        8.36279
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Rey",
+                  "text": "Ezt a Krisztus Királynak szentelt plébániát 1968. augusztus 28-án alapították a helyi keresztény közösség szolgálatára.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.635992,
+                        8.367335
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez az egyszerű templomépület szellemi találkozóhelyként szolgál a környék keresztény istentiszteletei számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.61722,
+                        8.359518
+                  ]
+            },
+            {
+                  "name": "Vicaria Santa María Reina del Orinoco",
+                  "text": "Ez az Orinoco Királynőjéről elnevezett keresztény vikariátus 2007. november 3-án kezdte meg lelkipásztori munkáját.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.619345,
+                        8.383446
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Valle",
+                  "text": "Ezt a keresztény kápolnát Kelet-Venezuela védőszentjének, a Völgy Szűzének szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.660043,
+                        8.334204
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "A Porres-i Szent Márton tiszteletére emelt keresztény plébániát 1986. június 2-án avatták fel hivatalosan.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.637173,
+                        8.331087
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "A Kármelhegyi Boldogasszony plébániatemplom 1984. július 15-én ünnepelte hivatalos megnyitását.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.625801,
+                        8.351498
+                  ]
+            },
+            {
+                  "name": "Parroquia San Antonio María Claret",
+                  "text": "Ez a Claret Szent Antal Máriának szentelt keresztény plébánia 1977. október 11-e óta fogadja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.637269,
+                        8.353785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fundación La Barraca",
+                  "text": "Înființată la 17 iulie 1973, Fundación La Barraca este o instituție teatrală remarcabilă cunoscută pentru promovarea culturală și artele spectacolului în palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.674349,
+                        8.356415
+                  ]
+            },
+            {
+                  "name": "Puente Macagua",
+                  "text": "Puente Macagua este o structură notabilă a unui pod care traversează râul Caroní ca parte a complexului masiv de infrastructură al barajului Macagua din palua-iron-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.66663,
+                        8.318096
+                  ]
+            },
+            {
+                  "name": "Ecomuseo del Caroní",
+                  "text": "Deschis la 26 noiembrie 1997, Ecomuseo del Caroní este un muzeu cultural dedicat istoriei ecologice, culturale și hidroelectrice a bazinului râului Caroní.",
+                  "category": "museum",
+                  "coords": [
+                        -62.670057,
+                        8.305214
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico La Laja",
+                  "text": "Sitio Arqueológico La Laja este un loc de excavare istoric care păstrează vechile rămășițe indigene găsite lângă lespezile de piatră din palua-iron-port-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -62.681479,
+                        8.364375
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Los Mangos",
+                  "text": "Sitio Arqueológico Los Mangos este un sit arheologic care descoperă istoria și artefactele umane timpurii într-un cadru cu copaci în jurul palua-iron-port-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -62.680395,
+                        8.359731
+                  ]
+            },
+            {
+                  "name": "Antiguo Mercal",
+                  "text": "Antiguo Mercal prezintă ruinele structurale a ceea ce a fost odată o piață aglomerată de alimente subvenționată de guvern în palua-iron-port-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -62.642463,
+                        8.329781
+                  ]
+            },
+            {
+                  "name": "Teatro de Piedras",
+                  "text": "Teatro de Piedras este un teatru construit unic, în întregime din piatră, creând un cadru atmosferic în palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.67639,
+                        8.314902
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Concha Acústica este un teatru în aer liber curbat distinct, proiectat cu o formă de cochilie acustică pentru a proiecta sunetul în mod natural în palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.664562,
+                        8.371174
+                  ]
+            },
+            {
+                  "name": "Anfiteatrillo del Ecomuseo",
+                  "text": "Inaugurat la 26 noiembrie 1998, Anfiteatrillo del Ecomuseo este un mic spațiu de spectacole tip amfiteatru în aer liber situat în incinta ecomuzeului.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.669562,
+                        8.306208
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Miranda",
+                  "text": "Anfiteatro Miranda servește ca un teatru în aer liber în trepte, conceput pentru mari adunări publice și spectacole comunitare în palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.661922,
+                        8.367166
+                  ]
+            },
+            {
+                  "name": "Teatro Bicentenario",
+                  "text": "Teatro Bicentenario este o instituție teatrală modernă numită în mod explicit pentru a comemora era bicentenarului în palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.642861,
+                        8.363944
+                  ]
+            },
+            {
+                  "name": "iglesia Sardi - Pentecostés",
+                  "text": "Această biserică penticostală servește drept lăcaș de cult local pentru slujbele creștine din comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -62.634707,
+                        8.359304
+                  ]
+            },
+            {
+                  "name": "Mercadito de El Gallo",
+                  "text": "Această piață animată oferă tarabe unde se vând alimente proaspete și mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.648979,
+                        8.364139
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de San Félix",
+                  "text": "În această hală municipală, localnicii se aprovizionează cu produse proaspete și articole de uz casnic din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.662476,
+                        8.372556
+                  ]
+            },
+            {
+                  "name": "Mercado Manuel Piar",
+                  "text": "Această piață, numită după Manuel Piar, este un centru important pentru cumpărăturile zilnice de alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.658147,
+                        8.375372
+                  ]
+            },
+            {
+                  "name": "Area de Viveres y Charcuteria",
+                  "text": "Această zonă specifică a pieței se concentrează pe vânzarea de produse alimentare neperisabile și mezeluri.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.631989,
+                        8.349903
+                  ]
+            },
+            {
+                  "name": "Mercado Campesino de La 45",
+                  "text": "În această piață țărănească, fermierii din regiune își oferă produsele agricole direct consumatorilor.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.674911,
+                        8.336871
+                  ]
+            },
+            {
+                  "name": "Iglesia Jehova Con Nosotros",
+                  "text": "Această biserică creștină, numită „Iehova cu noi”, adună credincioșii pentru ore regulate de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.621821,
+                        8.345326
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista \"El Rapto\"",
+                  "text": "Această instituție evanghelică baptistă se concentrează pe învățăturile biblice și pe slujbele comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.681242,
+                        8.337156
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera de Jesucristo: Fe, Poder y Sanidad",
+                  "text": "Această biserică misionară creștină pune un accent deosebit pe credință, putere și vindecare spirituală în predicile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.681861,
+                        8.344534
+                  ]
+            },
+            {
+                  "name": "Alas de Socorro, Iglesia Bautista",
+                  "text": "Această biserică baptistă „Aripile Ajutorului” oferă sprijin spiritual și slujbe enoriașilor săi.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.680911,
+                        8.349317
+                  ]
+            },
+            {
+                  "name": "Iglesia Monte Nebo",
+                  "text": "Lăcașul de cult creștin este numit după muntele biblic Nebo și servește ca loc de devoțiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.627125,
+                        8.37188
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Internacional Sinaí",
+                  "text": "Această biserică a Misiunii Internaționale Sinai este un loc de întâlnire local pentru adunări creștine.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.685316,
+                        8.343603
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "Această capelă creștină este închinată Sfântului Ioan Botezătorul și oferă un spațiu pentru rugăciune liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.682073,
+                        8.349054
+                  ]
+            },
+            {
+                  "name": "Capilla San José",
+                  "text": "Mica capelă creștină poartă numele Sfântului Iosif și este folosită pentru slujbe intime.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.682435,
+                        8.355484
+                  ]
+            },
+            {
+                  "name": "Mezquita Addawa",
+                  "text": "Această moschee islamică locală are o sală de rugăciune unde musulmanii se adună pentru rugăciunile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.664901,
+                        8.360378
+                  ]
+            },
+            {
+                  "name": "Parroquia Santuario La Inmaculada Concepción",
+                  "text": "Acest sanctuar și biserică parohială creștină celebrează Imaculata Concepție a Fecioarei Maria în slujbele sale.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.663094,
+                        8.370554
+                  ]
+            },
+            {
+                  "name": "Parroquia El Buen Pastor",
+                  "text": "Această parohie creștină dedicată Bunului Păstor a fost înființată oficial în august 1968.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.647099,
+                        8.369082
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "Parohia creștină a Sfintei Cruci și-a deschis porțile pentru congregație la 28 august 1968.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.654782,
+                        8.365183
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri a Sfinților din Zilele din Urmă găzduiește adunări sacramentale și instruire bisericească.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.65506,
+                        8.36279
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Rey",
+                  "text": "Această parohie închinată lui Hristos Regele a fost înființată pe 28 august 1968 pentru a servi comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.635992,
+                        8.367335
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Această clădire simplă a bisericii servește drept punct de întâlnire spiritual pentru slujbele creștine din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.61722,
+                        8.359518
+                  ]
+            },
+            {
+                  "name": "Vicaria Santa María Reina del Orinoco",
+                  "text": "Acest vicariat creștin, numit după Regina Orinoco, și-a început activitatea pastorală la 3 noiembrie 2007.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.619345,
+                        8.383446
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Valle",
+                  "text": "Această capelă creștină este dedicată sfintei patroane a estului Venezuelei, Fecioara din Vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.660043,
+                        8.334204
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "Parohia creștină în onoarea Sfântului Martin de Porres a fost inaugurată oficial la 2 iunie 1986.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.637173,
+                        8.331087
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Biserica parohială Sfânta Fecioară Maria de pe Muntele Carmel și-a sărbătorit deschiderea oficială la 15 iulie 1984.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.625801,
+                        8.351498
+                  ]
+            },
+            {
+                  "name": "Parroquia San Antonio María Claret",
+                  "text": "Această parohie creștină dedicată Sfântului Anton Maria Claret primește credincioși din 11 octombrie 1977.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.637269,
+                        8.353785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fundación La Barraca",
+                  "text": "Founded on July 17, 1973, Fundación La Barraca is a notable theatrical institution known for its cultural promotion and performing arts in palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.674349,
+                        8.356415
+                  ]
+            },
+            {
+                  "name": "Puente Macagua",
+                  "text": "Puente Macagua is a notable bridge structure spanning the Caroní River as part of the massive Macagua Dam infrastructure complex in palua-iron-port-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.66663,
+                        8.318096
+                  ]
+            },
+            {
+                  "name": "Ecomuseo del Caroní",
+                  "text": "Opened on November 26, 1997, the Ecomuseo del Caroní is a cultural museum dedicated to the ecological, cultural, and hydroelectric history of the Caroní river basin.",
+                  "category": "museum",
+                  "coords": [
+                        -62.670057,
+                        8.305214
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico La Laja",
+                  "text": "Sitio Arqueológico La Laja is a historic excavation site preserving ancient indigenous remains found near the stone slabs of palua-iron-port-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -62.681479,
+                        8.364375
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Los Mangos",
+                  "text": "The Sitio Arqueológico Los Mangos is an archaeological site uncovering the early human history and artifacts in a grove setting around palua-iron-port-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -62.680395,
+                        8.359731
+                  ]
+            },
+            {
+                  "name": "Antiguo Mercal",
+                  "text": "The Antiguo Mercal features the structural ruins of what was once a bustling government-subsidized food market in palua-iron-port-economic-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -62.642463,
+                        8.329781
+                  ]
+            },
+            {
+                  "name": "Teatro de Piedras",
+                  "text": "Teatro de Piedras is a uniquely constructed theatre venue built entirely of stone, creating an atmospheric setting in palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.67639,
+                        8.314902
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "The Concha Acústica is a distinctively curved open-air theatre designed with an acoustic shell shape to project sound naturally in palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.664562,
+                        8.371174
+                  ]
+            },
+            {
+                  "name": "Anfiteatrillo del Ecomuseo",
+                  "text": "Inaugurated on November 26, 1998, the Anfiteatrillo del Ecomuseo is a small outdoor amphitheatre performance space set within the eco-museum grounds.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.669562,
+                        8.306208
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Miranda",
+                  "text": "Anfiteatro Miranda serves as a stepped open-air theatre venue designed for large public gatherings and community performances in palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.661922,
+                        8.367166
+                  ]
+            },
+            {
+                  "name": "Teatro Bicentenario",
+                  "text": "Teatro Bicentenario is a modern theatre establishment explicitly named to commemorate the bicentennial era in palua-iron-port-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.642861,
+                        8.363944
+                  ]
+            },
+            {
+                  "name": "iglesia Sardi - Pentecostés",
+                  "text": "This Pentecostal church serves as a local house of worship for Christian services in the community.",
+                  "category": "religious",
+                  "coords": [
+                        -62.634707,
+                        8.359304
+                  ]
+            },
+            {
+                  "name": "Mercadito de El Gallo",
+                  "text": "This bustling marketplace features stalls selling fresh groceries and local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.648979,
+                        8.364139
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de San Félix",
+                  "text": "In this municipal market hall, local residents stock up on fresh produce and regional household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.662476,
+                        8.372556
+                  ]
+            },
+            {
+                  "name": "Mercado Manuel Piar",
+                  "text": "Named after Manuel Piar, this commercial space is an important hub for daily grocery shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.658147,
+                        8.375372
+                  ]
+            },
+            {
+                  "name": "Area de Viveres y Charcuteria",
+                  "text": "This specific market area focuses on the sale of non-perishable groceries and charcuterie.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.631989,
+                        8.349903
+                  ]
+            },
+            {
+                  "name": "Mercado Campesino de La 45",
+                  "text": "At this farmers' market, agricultural producers from the region offer their goods directly to consumers.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.674911,
+                        8.336871
+                  ]
+            },
+            {
+                  "name": "Iglesia Jehova Con Nosotros",
+                  "text": "This Christian church, named \"Jehovah With Us,\" gathers believers for regular prayer sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.621821,
+                        8.345326
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista \"El Rapto\"",
+                  "text": "This Evangelical Baptist facility focuses on biblical teachings and communal worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.681242,
+                        8.337156
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera de Jesucristo: Fe, Poder y Sanidad",
+                  "text": "This Christian missionary church places special emphasis on faith, power, and spiritual healing in its sermons.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.681861,
+                        8.344534
+                  ]
+            },
+            {
+                  "name": "Alas de Socorro, Iglesia Bautista",
+                  "text": "This \"Wings of Help\" Baptist church provides spiritual support and worship services for its congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.680911,
+                        8.349317
+                  ]
+            },
+            {
+                  "name": "Iglesia Monte Nebo",
+                  "text": "The Christian house of worship is named after the biblical Mount Nebo and serves as a place of devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.627125,
+                        8.37188
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Internacional Sinaí",
+                  "text": "This Sinai International Mission church is a local meeting point for Christian gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.685316,
+                        8.343603
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "Dedicated to Saint John the Baptist, this Christian chapel provides a space for quiet prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.682073,
+                        8.349054
+                  ]
+            },
+            {
+                  "name": "Capilla San José",
+                  "text": "The small Christian chapel is named after Saint Joseph and is used for intimate worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.682435,
+                        8.355484
+                  ]
+            },
+            {
+                  "name": "Mezquita Addawa",
+                  "text": "This local Islamic mosque features a prayer room where Muslims gather for their daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.664901,
+                        8.360378
+                  ]
+            },
+            {
+                  "name": "Parroquia Santuario La Inmaculada Concepción",
+                  "text": "This Christian sanctuary and parish church celebrates the Immaculate Conception of Mary in its services.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.663094,
+                        8.370554
+                  ]
+            },
+            {
+                  "name": "Parroquia El Buen Pastor",
+                  "text": "Dedicated to the Good Shepherd, this Christian parish was officially established in August 1968.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.647099,
+                        8.369082
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "The Christian Parish of the Holy Cross opened its doors to the congregation on August 28, 1968.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.654782,
+                        8.365183
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This Latter-day Saints meetinghouse hosts sacramental meetings and church instruction for the local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.65506,
+                        8.36279
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Rey",
+                  "text": "Dedicated to Christ the King, this parish was established on August 28, 1968, to serve the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.635992,
+                        8.367335
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "This simple church building serves as a spiritual gathering point for Christian worship in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.61722,
+                        8.359518
+                  ]
+            },
+            {
+                  "name": "Vicaria Santa María Reina del Orinoco",
+                  "text": "Named after the Queen of the Orinoco, this Christian vicariate began its pastoral work on November 3, 2007.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.619345,
+                        8.383446
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Valle",
+                  "text": "This Christian chapel is dedicated to the patron saint of eastern Venezuela, the Virgin of the Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.660043,
+                        8.334204
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "The Christian parish honoring Saint Martin de Porres was officially inaugurated on June 2, 1986.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.637173,
+                        8.331087
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "The parish church of Our Lady of Mount Carmel celebrated its official opening on July 15, 1984.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.625801,
+                        8.351498
+                  ]
+            },
+            {
+                  "name": "Parroquia San Antonio María Claret",
+                  "text": "Dedicated to Saint Anthony Mary Claret, this Christian parish has been welcoming believers since October 11, 1977.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.637269,
+                        8.353785
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VE-F",
     coords: [-62.6689, 8.3564],
@@ -351,7 +3510,124 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
   },
   {
-    id: "amuay-oil-port-economic-v2",
+    id: "amuay-oil-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia Cristo Rey",
+                  "text": "Die Christkönigskirche in Amuay, in unmittelbarer Nähe einer der weltweit größten Erdölraffinerien.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.179862,
+                        11.758113
+                  ]
+            },
+            {
+                  "name": "Gruta María Auxliadora",
+                  "text": "Eine der Maria, Hilfe der Christen, gewidmete Grotte in der Hafenstadt Amuay auf der Halbinsel Paraguaná.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.188705,
+                        11.761201
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Libre Jesucristo Roca Eterna",
+                  "text": "Eine freievangelische Kirche namens „Ewiger Fels“ in Amuay, einer Küstensiedlung in Falcón.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.174721,
+                        11.773708
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia Cristo Rey",
+                  "text": "Krisztus Király templom Amuay-ban, a világ egyik legnagyobb olajfinomítójának közvetlen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.179862,
+                        11.758113
+                  ]
+            },
+            {
+                  "name": "Gruta María Auxliadora",
+                  "text": "A Segítő Szűz Máriának szentelt sziklabarlang (grotto) Amuay kikötővárosában, a Paraguaná-félszigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.188705,
+                        11.761201
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Libre Jesucristo Roca Eterna",
+                  "text": "Az „Örökkévaló Kőszikla” nevű szabad evangélikus templom Amuay-ban, Falcón állam egyik parti településén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.174721,
+                        11.773708
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia Cristo Rey",
+                  "text": "Biserica Cristos Rege în Amuay, situată în imediata apropiere a uneia dintre cele mai mari rafinării de petrol din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.179862,
+                        11.758113
+                  ]
+            },
+            {
+                  "name": "Gruta María Auxliadora",
+                  "text": "O grotă dedicată Mariei Ajutorul Creștinilor în orașul port Amuay de pe peninsula Paraguaná.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.188705,
+                        11.761201
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Libre Jesucristo Roca Eterna",
+                  "text": "O biserică evanghelică liberă numită „Stânca Eternă” în Amuay, o așezare de coastă din statul Falcón.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.174721,
+                        11.773708
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia Cristo Rey",
+                  "text": "Christ the King Church in Amuay, located in close proximity to one of the world's largest oil refinery complexes.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.179862,
+                        11.758113
+                  ]
+            },
+            {
+                  "name": "Gruta María Auxliadora",
+                  "text": "A grotto dedicated to Mary, Help of Christians, located in the port town of Amuay on the Paraguaná Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.188705,
+                        11.761201
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Libre Jesucristo Roca Eterna",
+                  "text": "A free evangelical church named \"Eternal Rock\" (Roca Eterna) in Amuay, a coastal settlement in Falcón state.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.174721,
+                        11.773708
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "VE-I",
     coords: [-70.2189, 11.7511],
@@ -437,7 +3713,52 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["Punta Cardón est essentiel pour la logistique du complexe de Paraguaná.", "Le terminal est hautement spécialisé dans la manutention de pétrole brut et de produits finis.", "La performance d'exportation du terminal contribue de manière significative au bilan du secteur énergétique vénézuélien.", "L'infrastructure est entretenue en permanence pour garantir la compétitivité mondiale dans le domaine de l'énergie."],
     }, image: "/poi-images/punta-cardon-oil-port-economic-v2.webp"},
   {
-    id: "paraguana-refinery-economic-v2",
+    id: "paraguana-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de Recalada BNFA",
+                  "text": "Ein hoher Leuchtturm, der den Schiffsverkehr in der Nähe der großen Ölraffinerien der Halbinsel leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.211634,
+                        11.697753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de Recalada BNFA",
+                  "text": "Magas világítótorony, amely a félsziget nagy olajfinomítói közelében irányítja a tengeri forgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.211634,
+                        11.697753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de Recalada BNFA",
+                  "text": "Un far înalt care ghidează traficul maritim în apropierea marilor rafinării de petrol de pe peninsulă.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.211634,
+                        11.697753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de Recalada BNFA",
+                  "text": "A tall lighthouse guiding maritime traffic near the large oil refineries of the peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.211634,
+                        11.697753
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-I",
     coords: [-70.2025, 11.7225],
@@ -523,7 +3844,1312 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["El Palito a été mise en service dans les années 1960 comme l'une des raffineries centrales du Venezuela.", "Elle joue un rôle majeur dans la distribution des carburants dans le centre industrialisé du pays.", "L'installation dispose de son propre terminal, ce qui l'intègre de manière flexible au marché pétrolier mondial et national.", "Les travaux de maintenance réguliers à El Palito sont d'une importance capitale pour la stabilité de l'approvisionnement national."],
     }, image: "/poi-images/el-palito-refinery-economic-v2.webp"},
   {
-    id: "puerto-la-cruz-refinery-economic-v2",
+    id: "puerto-la-cruz-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Magüey",
+                  "text": "Ein prominenter Hügel über der Bucht von Pozuelos, bekannt für seinen Blick auf Puerto La Cruz.",
+                  "category": "natural",
+                  "coords": [
+                        -64.642539,
+                        10.203069
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santa Cruz",
+                  "text": "Eine modernistische Pfarrkirche in Puerto La Cruz, die durch ihren hohen Glockenturm auffällt.",
+                  "category": "religious",
+                  "coords": [
+                        -64.639624,
+                        10.218847
+                  ]
+            },
+            {
+                  "name": "Cerro El Rincón",
+                  "text": "Ein naturbelassener Gipfel im Küstengebirge, der eine grüne Kulisse für die Stadt bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -64.587512,
+                        10.158195
+                  ]
+            },
+            {
+                  "name": "Cerro Guaraguao",
+                  "text": "Ein historischer Hügel nahe der Ölraffinerie mit Blick auf den Hafen und das Industriegelände.",
+                  "category": "natural",
+                  "coords": [
+                        -64.621035,
+                        10.238559
+                  ]
+            },
+            {
+                  "name": "Cerro Monte Cristo",
+                  "text": "Ein markanter Berggipfel, der einen weiten Panoramablick über die Küste von Puerto La Cruz bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -64.622799,
+                        10.194823
+                  ]
+            },
+            {
+                  "name": "Cerro Vidoño",
+                  "text": "Dieser Gipfel überragt das Stadtgebiet und bietet Ausblicke auf die industrielle Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -64.624283,
+                        10.168319
+                  ]
+            },
+            {
+                  "name": "Puerto Teatro",
+                  "text": "Ein lokales Kulturzentrum, das Raum für unabhängige Theateraufführungen und künstlerische Projekte bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.634957,
+                        10.204085
+                  ]
+            },
+            {
+                  "name": "Galería Municipal Arte Moderno",
+                  "text": "Die städtische Galerie präsentiert zeitgenössische venezolanische Kunstwerke in wechselnden Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.629694,
+                        10.205555
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Freilufttheater am Wasser, das für öffentliche Konzerte und kulturelle Festivals genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.647914,
+                        10.211417
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen del Valle",
+                  "text": "Diese katholische Kirche ist der Schutzpatronin Ost-Venezuelas gewidmet und ein Ort lokaler Verehrung.",
+                  "category": "religious",
+                  "coords": [
+                        -64.653646,
+                        10.204814
+                  ]
+            },
+            {
+                  "name": "Iglesia san Jose obrero",
+                  "text": "Eine katholische Pfarrkirche, die mit ihren traditionellen Gottesdiensten das Zentrum der Gemeinde bildet.",
+                  "category": "religious",
+                  "coords": [
+                        -64.619482,
+                        10.200425
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Ein geschäftiger Markt, der für fangfrischen Fisch aus der Karibik und exotische Tropenfrüchte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.635917,
+                        10.213083
+                  ]
+            },
+            {
+                  "name": "Iglesia evangelica la hermosa",
+                  "text": "Eine evangelische Kirche, die für ihre lebendigen Gemeinschaftstreffen und musikalischen Gottesdienste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.60772,
+                        10.205214
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica pentecostal Sinai",
+                  "text": "Diese pfingstkirchliche Gemeinde veranstaltet temperamentvolle Gottesdienste im Herzen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.611123,
+                        10.204515
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten, die Samstagsgottesdienste und Gesundheitsprogramme anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.625665,
+                        10.23458
+                  ]
+            },
+            {
+                  "name": "iglesia cristiana discipulo de cristo",
+                  "text": "Ein christliches Heiligtum, das sich der biblischen Lehre und dem gemeinsamen Gebet widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.629277,
+                        10.213332
+                  ]
+            },
+            {
+                  "name": "Iglesia Nueva Jerusalén",
+                  "text": "Diese lokale christliche Kirche dient als geistliches Zentrum für die umliegende Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.629216,
+                        10.223357
+                  ]
+            },
+            {
+                  "name": "Iglesia el Shaddai",
+                  "text": "Eine charismatische Gemeinde, die für ihren modernen Lobpreisstil und zeitgenössische Musik bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634704,
+                        10.223845
+                  ]
+            },
+            {
+                  "name": "salón del reino de los testigos de jehova",
+                  "text": "Ein Königreichssaal, in dem sich die Zeugen Jehovas zum Bibelstudium und zu Zusammenkünften treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.630867,
+                        10.220278
+                  ]
+            },
+            {
+                  "name": "Iglesia evancelica Maranatha",
+                  "text": "Eine große evangelische Kirche, deren Schwerpunkt auf missionarischer Arbeit und sozialer Hilfe liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634081,
+                        10.218738
+                  ]
+            },
+            {
+                  "name": "Centro cristiano Puerto La Cruz",
+                  "text": "Ein zentraler Treffpunkt für verschiedene evangelikale Dienste und Aktivitäten für Jugendliche.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.633546,
+                        10.21651
+                  ]
+            },
+            {
+                  "name": "Templo Bethel",
+                  "text": "Ein protestantisches Gotteshaus, das Raum für traditionelle Kirchenlieder und biblische Unterweisung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634016,
+                        10.214105
+                  ]
+            },
+            {
+                  "name": "Iglesia universal del reino de dios",
+                  "text": "Zweigstelle einer globalen pfingstkirchlichen Denomination, bekannt für ihre sozialen Hilfsdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.635716,
+                        10.215232
+                  ]
+            },
+            {
+                  "name": "Encuentro con Jesus",
+                  "text": "Ein christlicher Dienst, der sich auf das persönliche geistliche Wachstum und die Unterstützung der Gemeinschaft konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.637031,
+                        10.21666
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jorge",
+                  "text": "Diese dem Heiligen Georg gewidmete katholische Kirche betreut eine städtische Kirchengemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.65934,
+                        10.200274
+                  ]
+            },
+            {
+                  "name": "Altar Virgen del Valle",
+                  "text": "Ein kleiner lokaler Schrein am Wegesrand, der der Jungfrau vom Tal gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.658747,
+                        10.20781
+                  ]
+            },
+            {
+                  "name": "Iglesia Chiquinquirá Lechería",
+                  "text": "Eine markante Kirche in Lechería, die der Jungfrau von Chiquinquirá gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.681188,
+                        10.198262
+                  ]
+            },
+            {
+                  "name": "iglesia nuestra señora del amparo",
+                  "text": "Eine schlichte katholische Kirche, die einen ruhigen Raum für Gebete und lokale Zeremonien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634889,
+                        10.182165
+                  ]
+            },
+            {
+                  "name": "iglesia virgen de la santisima trinidad",
+                  "text": "Eine der Heiligen Dreifaltigkeit gewidmete Pfarrkirche mit einem Schwerpunkt auf der Familienseelsorge.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.636434,
+                        10.188069
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica ebenezer",
+                  "text": "Eine lokale evangelische Gemeinde, die für ihre starke Gemeinschaftshilfe und Bibelstunden bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.63536,
+                        10.188548
+                  ]
+            },
+            {
+                  "name": "iglesia sol de justicia",
+                  "text": "Diese christliche Kirche legt großen Wert auf geistliche Führung und soziale Unterstützung für Bedürftige.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.638146,
+                        10.191541
+                  ]
+            },
+            {
+                  "name": "iglesia san juan bosco",
+                  "text": "Eine von den Salesianern inspirierte katholische Kirche, die sich auf Jugendbildung konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.641436,
+                        10.193318
+                  ]
+            },
+            {
+                  "name": "iglesia santo domingo savio",
+                  "text": "Die katholische Pfarrkirche ist dem Schutzpatron der Chorknaben und der Jugend gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.637133,
+                        10.202261
+                  ]
+            },
+            {
+                  "name": "iglesia anglicana de la santísima trinidad",
+                  "text": "Ein anglikanisches Gotteshaus, das traditionelle Liturgie und soziale Dienste für die Gemeinde anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.633118,
+                        10.199041
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica agua viva",
+                  "text": "Eine dynamische evangelische Kirche, die für ihren modernen Lobpreis und ihre Jugendarbeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.639358,
+                        10.200226
+                  ]
+            },
+            {
+                  "name": "iglesia cristo resucitado",
+                  "text": "Eine katholische Kirche, die die Auferstehung feiert und ein geistlicher Anker für das Viertel ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634012,
+                        10.195486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Magüey",
+                  "text": "A Pozuelos-öböl fölé magasodó domb, amely híres a Puerto La Cruzra nyíló kilátásáról.",
+                  "category": "natural",
+                  "coords": [
+                        -64.642539,
+                        10.203069
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santa Cruz",
+                  "text": "Modern stílusú plébániatemplom Puerto La Cruzban, amely magas harangtornyáról ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        -64.639624,
+                        10.218847
+                  ]
+            },
+            {
+                  "name": "Cerro El Rincón",
+                  "text": "A part menti hegység egyik természetes csúcsa, amely zöld hátteret biztosít a városnak.",
+                  "category": "natural",
+                  "coords": [
+                        -64.587512,
+                        10.158195
+                  ]
+            },
+            {
+                  "name": "Cerro Guaraguao",
+                  "text": "Történelmi domb az olajfinomító közelében, kilátással a kikötőre és az ipari negyedre.",
+                  "category": "natural",
+                  "coords": [
+                        -64.621035,
+                        10.238559
+                  ]
+            },
+            {
+                  "name": "Cerro Monte Cristo",
+                  "text": "Markáns hegycsúcs, ahonnan széles panoráma nyílik Puerto La Cruz partvidékére és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        -64.622799,
+                        10.194823
+                  ]
+            },
+            {
+                  "name": "Cerro Vidoño",
+                  "text": "A város fölé magasodó csúcs, amely rálátást nyújt a régió ipari és lakóövezeteire.",
+                  "category": "natural",
+                  "coords": [
+                        -64.624283,
+                        10.168319
+                  ]
+            },
+            {
+                  "name": "Puerto Teatro",
+                  "text": "Helyi kulturális központ, amely független színházi előadásoknak és művészeti projekteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.634957,
+                        10.204085
+                  ]
+            },
+            {
+                  "name": "Galería Municipal Arte Moderno",
+                  "text": "A városi galéria kortárs venezuelai műalkotásokat mutat be időszaki kiállítások keretében.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.629694,
+                        10.205555
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Vízparti szabadtéri színház, amelyet nyilvános koncertekre és kulturális fesztiválokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.647914,
+                        10.211417
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen del Valle",
+                  "text": "Kelet-Venezuela védőszentjének szentelt katolikus templom, a helyi vallásos tisztelet központja.",
+                  "category": "religious",
+                  "coords": [
+                        -64.653646,
+                        10.204814
+                  ]
+            },
+            {
+                  "name": "Iglesia san Jose obrero",
+                  "text": "Katolikus plébániatemplom, amely hagyományos szertartásaival a helyi közösség hitéletének központja.",
+                  "category": "religious",
+                  "coords": [
+                        -64.619482,
+                        10.200425
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Forgalmas piac, amely a Karib-tengerből származó friss halairól és egzotikus trópusi gyümölcseiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.635917,
+                        10.213083
+                  ]
+            },
+            {
+                  "name": "Iglesia evangelica la hermosa",
+                  "text": "Evangélikus templom, amely élénk közösségi összejöveteleiről és zenés istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.60772,
+                        10.205214
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica pentecostal Sinai",
+                  "text": "Ez a pünkösdi közösség lendületes istentiszteleteket tart a város szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.611123,
+                        10.204515
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Hetednapi Adventista templom, amely szombati istentiszteleteket és egészségügyi programokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.625665,
+                        10.23458
+                  ]
+            },
+            {
+                  "name": "iglesia cristiana discipulo de cristo",
+                  "text": "Keresztény szentély, amely a bibliai tanításoknak és a közös imádkozásnak szentelt hely.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.629277,
+                        10.213332
+                  ]
+            },
+            {
+                  "name": "Iglesia Nueva Jerusalén",
+                  "text": "Ez a helyi keresztény templom a környező lakónegyed hitéleti központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.629216,
+                        10.223357
+                  ]
+            },
+            {
+                  "name": "Iglesia el Shaddai",
+                  "text": "Karizmatikus gyülekezet, amely modern dicsőítési stílusáról és kortárs zenéjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634704,
+                        10.223845
+                  ]
+            },
+            {
+                  "name": "salón del reino de los testigos de jehova",
+                  "text": "Királyság-terem, ahol Jehova Tanúi gyűlnek össze bibliatanulmányozásra és találkozókra.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.630867,
+                        10.220278
+                  ]
+            },
+            {
+                  "name": "Iglesia evancelica Maranatha",
+                  "text": "Nagy evangélikus templom, amely missziós munkára és szociális segítségnyújtásra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634081,
+                        10.218738
+                  ]
+            },
+            {
+                  "name": "Centro cristiano Puerto La Cruz",
+                  "text": "Központi keresztény központ, amely különféle evangéliumi szolgálatoknak és ifjúsági programoknak ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.633546,
+                        10.21651
+                  ]
+            },
+            {
+                  "name": "Templo Bethel",
+                  "text": "Protestáns templom, amely hagyományos énekeknek és bibliai tanításoknak ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634016,
+                        10.214105
+                  ]
+            },
+            {
+                  "name": "Iglesia universal del reino de dios",
+                  "text": "Egy globális pünkösdi felekezet ága, amely szociális segélyszolgálatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.635716,
+                        10.215232
+                  ]
+            },
+            {
+                  "name": "Encuentro con Jesus",
+                  "text": "Keresztény misszió, amely a személyes lelki fejlődésre és a közösség támogatására összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.637031,
+                        10.21666
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jorge",
+                  "text": "Szent Györgynek szentelt katolikus templom, amely a városi egyházközség hitéletét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.65934,
+                        10.200274
+                  ]
+            },
+            {
+                  "name": "Altar Virgen del Valle",
+                  "text": "Kisméretű helyi útmenti kegyhely, amelyet a Völgy Szüzének tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.658747,
+                        10.20781
+                  ]
+            },
+            {
+                  "name": "Iglesia Chiquinquirá Lechería",
+                  "text": "Lechería egyik jellegzetes temploma, amelyet a Chiquinquirái Szűzanya tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.681188,
+                        10.198262
+                  ]
+            },
+            {
+                  "name": "iglesia nuestra señora del amparo",
+                  "text": "Egyszerű katolikus templom, amely csendes helyet biztosít az imádsághoz és a helyi szertartásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634889,
+                        10.182165
+                  ]
+            },
+            {
+                  "name": "iglesia virgen de la santisima trinidad",
+                  "text": "A Szentháromságnak szentelt plébániatemplom, amelynek fő célkitűzése a családok lelki gondozása.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.636434,
+                        10.188069
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica ebenezer",
+                  "text": "Helyi evangélikus gyülekezet, amely erős közösségi támogatásáról és bibliaóráiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.63536,
+                        10.188548
+                  ]
+            },
+            {
+                  "name": "iglesia sol de justicia",
+                  "text": "Ez a keresztény templom nagy hangsúlyt fektet a lelki vezetésre és a rászorulók támogatására.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.638146,
+                        10.191541
+                  ]
+            },
+            {
+                  "name": "iglesia san juan bosco",
+                  "text": "Szalézi ihletésű katolikus templom, amely az ifjúság nevelésére és oktatására összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.641436,
+                        10.193318
+                  ]
+            },
+            {
+                  "name": "iglesia santo domingo savio",
+                  "text": "Katolikus plébániatemplom, amelyet a kóristák és az ifjúság védőszentjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.637133,
+                        10.202261
+                  ]
+            },
+            {
+                  "name": "iglesia anglicana de la santísima trinidad",
+                  "text": "Anglikán templom, amely hagyományos liturgiát és közösségi szolgáltatásokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.633118,
+                        10.199041
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica agua viva",
+                  "text": "Dinamikus evangélikus templom, amely modern dicsőítéséről és ifjúsági munkájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.639358,
+                        10.200226
+                  ]
+            },
+            {
+                  "name": "iglesia cristo resucitado",
+                  "text": "Katolikus templom, amely a feltámadást ünnepli, és a környék hitéletének egyik oszlopa.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634012,
+                        10.195486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Magüey",
+                  "text": "Un deal proeminent deasupra golfului Pozuelos, cunoscut pentru vederea spre Puerto La Cruz.",
+                  "category": "natural",
+                  "coords": [
+                        -64.642539,
+                        10.203069
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santa Cruz",
+                  "text": "O biserică parohială modernistă în Puerto La Cruz, remarcabilă prin turnul clopotniță înalt.",
+                  "category": "religious",
+                  "coords": [
+                        -64.639624,
+                        10.218847
+                  ]
+            },
+            {
+                  "name": "Cerro El Rincón",
+                  "text": "Un vârf natural în lanțul muntos de coastă, formând un fundal verde pentru oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -64.587512,
+                        10.158195
+                  ]
+            },
+            {
+                  "name": "Cerro Guaraguao",
+                  "text": "Un deal istoric lângă rafinăria de petrol, oferind vederi spre port și zona industrială.",
+                  "category": "natural",
+                  "coords": [
+                        -64.621035,
+                        10.238559
+                  ]
+            },
+            {
+                  "name": "Cerro Monte Cristo",
+                  "text": "Un vârf muntos proeminent ce oferă o panoramă spectaculoasă asupra coastei Puerto La Cruz.",
+                  "category": "natural",
+                  "coords": [
+                        -64.622799,
+                        10.194823
+                  ]
+            },
+            {
+                  "name": "Cerro Vidoño",
+                  "text": "Acest vârf domină zona urbană, oferind perspective asupra peisajului industrial de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -64.624283,
+                        10.168319
+                  ]
+            },
+            {
+                  "name": "Puerto Teatro",
+                  "text": "Un centru cultural local ce găzduiește spectacole de teatru independente și proiecte artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.634957,
+                        10.204085
+                  ]
+            },
+            {
+                  "name": "Galería Municipal Arte Moderno",
+                  "text": "Galeria municipală prezintă opere de artă contemporană venezueleană în expoziții temporare.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.629694,
+                        10.205555
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un amfiteatru în aer liber situat lângă apă, utilizat pentru concerte publice și festivaluri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.647914,
+                        10.211417
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen del Valle",
+                  "text": "Această biserică catolică este dedicată patroanei estului Venezuelei, fiind un loc de devoțiune locală.",
+                  "category": "religious",
+                  "coords": [
+                        -64.653646,
+                        10.204814
+                  ]
+            },
+            {
+                  "name": "Iglesia san Jose obrero",
+                  "text": "O biserică parohială catolică ce servește comunitatea locală prin slujbele sale tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        -64.619482,
+                        10.200425
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "O piață animată, cunoscută pentru peștele proaspăt din Caraibe și varietatea de fructe tropicale.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.635917,
+                        10.213083
+                  ]
+            },
+            {
+                  "name": "Iglesia evangelica la hermosa",
+                  "text": "O biserică evanghelică cunoscută pentru adunările comunitare vibrante și slujbele muzicale.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.60772,
+                        10.205214
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica pentecostal Sinai",
+                  "text": "Această comunitate penticostală organizează slujbe pline de fervoare în inima orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.611123,
+                        10.204515
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "O biserică adventistă de ziua a șaptea ce oferă slujbe sâmbăta și programe de sănătate comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.625665,
+                        10.23458
+                  ]
+            },
+            {
+                  "name": "iglesia cristiana discipulo de cristo",
+                  "text": "Un sanctuar creștin dedicat învățăturilor biblice și rugăciunii comune.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.629277,
+                        10.213332
+                  ]
+            },
+            {
+                  "name": "Iglesia Nueva Jerusalén",
+                  "text": "Această biserică creștină locală servește ca centru spiritual pentru cartierul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.629216,
+                        10.223357
+                  ]
+            },
+            {
+                  "name": "Iglesia el Shaddai",
+                  "text": "O biserică carismatică cunoscută pentru stilul său modern de închinare și muzica contemporană.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634704,
+                        10.223845
+                  ]
+            },
+            {
+                  "name": "salón del reino de los testigos de jehova",
+                  "text": "O Sală a Regatului unde Martorii lui Iehova se adună pentru studiu biblic și întruniri.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.630867,
+                        10.220278
+                  ]
+            },
+            {
+                  "name": "Iglesia evancelica Maranatha",
+                  "text": "O biserică evanghelică mare, cu un accent puternic pe munca misionară și ajutorul social.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634081,
+                        10.218738
+                  ]
+            },
+            {
+                  "name": "Centro cristiano Puerto La Cruz",
+                  "text": "Un punct central pentru diverse activități evanghelice și programe dedicate tineretului.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.633546,
+                        10.21651
+                  ]
+            },
+            {
+                  "name": "Templo Bethel",
+                  "text": "Un lăcaș de cult protestant ce oferă spațiu pentru imnuri tradiționale și învățătură biblică.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634016,
+                        10.214105
+                  ]
+            },
+            {
+                  "name": "Iglesia universal del reino de dios",
+                  "text": "O filială a unei denominațiuni penticostale globale, cunoscută pentru serviciile sale de ajutor social.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.635716,
+                        10.215232
+                  ]
+            },
+            {
+                  "name": "Encuentro con Jesus",
+                  "text": "Un minister creștin axat pe creșterea spirituală personală și sprijinul comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.637031,
+                        10.21666
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jorge",
+                  "text": "Această biserică catolică dedicată Sfântului Gheorghe deservește o parohie urbană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.65934,
+                        10.200274
+                  ]
+            },
+            {
+                  "name": "Altar Virgen del Valle",
+                  "text": "Un mic altar local situat la marginea drumului, dedicat Fecioarei din Vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.658747,
+                        10.20781
+                  ]
+            },
+            {
+                  "name": "Iglesia Chiquinquirá Lechería",
+                  "text": "O biserică proeminentă din zona Lechería, dedicată Maicii Domnului din Chiquinquirá.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.681188,
+                        10.198262
+                  ]
+            },
+            {
+                  "name": "iglesia nuestra señora del amparo",
+                  "text": "O biserică catolică simplă ce oferă un spațiu liniștit pentru rugăciune și ceremonii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634889,
+                        10.182165
+                  ]
+            },
+            {
+                  "name": "iglesia virgen de la santisima trinidad",
+                  "text": "O biserică parohială dedicată Sfintei Treimi, cu un accent pe pastorația familiilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.636434,
+                        10.188069
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica ebenezer",
+                  "text": "O comunitate evanghelică locală cunoscută pentru sprijinul comunitar puternic și orele de biblie.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.63536,
+                        10.188548
+                  ]
+            },
+            {
+                  "name": "iglesia sol de justicia",
+                  "text": "Această biserică creștină pune accent pe îndrumarea spirituală și sprijinul social pentru cei aflați în nevoie.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.638146,
+                        10.191541
+                  ]
+            },
+            {
+                  "name": "iglesia san juan bosco",
+                  "text": "O biserică catolică de inspirație saleziană, axată pe educația tineretului și activități comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.641436,
+                        10.193318
+                  ]
+            },
+            {
+                  "name": "iglesia santo domingo savio",
+                  "text": "O biserică parohială catolică dedicată sfântului patron al tinerilor și al copiilor din cor.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.637133,
+                        10.202261
+                  ]
+            },
+            {
+                  "name": "iglesia anglicana de la santísima trinidad",
+                  "text": "Un lăcaș de cult anglican ce oferă liturghie tradițională și servicii comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.633118,
+                        10.199041
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica agua viva",
+                  "text": "O biserică evanghelică dinamică, cunoscută pentru închinarea modernă și activitățile cu tinerii.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.639358,
+                        10.200226
+                  ]
+            },
+            {
+                  "name": "iglesia cristo resucitado",
+                  "text": "O biserică catolică ce celebrează Învierea, fiind un punct spiritual important pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634012,
+                        10.195486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Magüey",
+                  "text": "A prominent hill overlooking the Pozuelos Bay, offering iconic views of the Puerto La Cruz skyline.",
+                  "category": "natural",
+                  "coords": [
+                        -64.642539,
+                        10.203069
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santa Cruz",
+                  "text": "A modernist parish church in Puerto La Cruz known for its tall, distinctive bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        -64.639624,
+                        10.218847
+                  ]
+            },
+            {
+                  "name": "Cerro El Rincón",
+                  "text": "A natural peak in the coastal range providing a green backdrop to the city.",
+                  "category": "natural",
+                  "coords": [
+                        -64.587512,
+                        10.158195
+                  ]
+            },
+            {
+                  "name": "Cerro Guaraguao",
+                  "text": "A historic hill near the oil refinery, significant for its views over the port and industrial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -64.621035,
+                        10.238559
+                  ]
+            },
+            {
+                  "name": "Cerro Monte Cristo",
+                  "text": "A prominent mountain peak offering panoramic views over the Puerto La Cruz coastline and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -64.622799,
+                        10.194823
+                  ]
+            },
+            {
+                  "name": "Cerro Vidoño",
+                  "text": "This peak towers over the urban area, offering views of the industrial and coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -64.624283,
+                        10.168319
+                  ]
+            },
+            {
+                  "name": "Puerto Teatro",
+                  "text": "A local cultural venue hosting independent theatrical performances and artistic projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.634957,
+                        10.204085
+                  ]
+            },
+            {
+                  "name": "Galería Municipal Arte Moderno",
+                  "text": "The municipal gallery showcases contemporary Venezuelan artworks through rotating exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.629694,
+                        10.205555
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An open-air theatre near the waterfront used for public concerts and cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.647914,
+                        10.211417
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen del Valle",
+                  "text": "This Catholic church is dedicated to the patron saint of Eastern Venezuela and is a site of local devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -64.653646,
+                        10.204814
+                  ]
+            },
+            {
+                  "name": "Iglesia san Jose obrero",
+                  "text": "A Catholic parish church serving the community with its traditional religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -64.619482,
+                        10.200425
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "A bustling market famous for its fresh Caribbean seafood and variety of tropical fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.635917,
+                        10.213083
+                  ]
+            },
+            {
+                  "name": "Iglesia evangelica la hermosa",
+                  "text": "An evangelical church known for its vibrant community gatherings and musical worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.60772,
+                        10.205214
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica pentecostal Sinai",
+                  "text": "This Pentecostal congregation hosts spirited worship services in the heart of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.611123,
+                        10.204515
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "A Seventh-day Adventist church offering Saturday services and community health programs.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.625665,
+                        10.23458
+                  ]
+            },
+            {
+                  "name": "iglesia cristiana discipulo de cristo",
+                  "text": "A Christian sanctuary dedicated to biblical teaching and communal prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.629277,
+                        10.213332
+                  ]
+            },
+            {
+                  "name": "Iglesia Nueva Jerusalén",
+                  "text": "This local Christian church serves as a spiritual center for the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.629216,
+                        10.223357
+                  ]
+            },
+            {
+                  "name": "Iglesia el Shaddai",
+                  "text": "A charismatic congregation known for its modern worship style and contemporary music.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634704,
+                        10.223845
+                  ]
+            },
+            {
+                  "name": "salón del reino de los testigos de jehova",
+                  "text": "A Kingdom Hall where Jehovah's Witnesses gather for Bible study and meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.630867,
+                        10.220278
+                  ]
+            },
+            {
+                  "name": "Iglesia evancelica Maranatha",
+                  "text": "A large evangelical church with a focus on missionary work and social outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634081,
+                        10.218738
+                  ]
+            },
+            {
+                  "name": "Centro cristiano Puerto La Cruz",
+                  "text": "A central Christian hub for various evangelical ministries and youth activities.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.633546,
+                        10.21651
+                  ]
+            },
+            {
+                  "name": "Templo Bethel",
+                  "text": "A Protestant place of worship providing space for traditional hymns and biblical teaching.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634016,
+                        10.214105
+                  ]
+            },
+            {
+                  "name": "Iglesia universal del reino de dios",
+                  "text": "A branch of a global Pentecostal denomination known for its social assistance services.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.635716,
+                        10.215232
+                  ]
+            },
+            {
+                  "name": "Encuentro con Jesus",
+                  "text": "A Christian ministry focused on personal spiritual growth and community support.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.637031,
+                        10.21666
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jorge",
+                  "text": "This Catholic church dedicated to Saint George serves a local urban parish.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.65934,
+                        10.200274
+                  ]
+            },
+            {
+                  "name": "Altar Virgen del Valle",
+                  "text": "A small local roadside shrine or altar dedicated to the Virgin of the Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.658747,
+                        10.20781
+                  ]
+            },
+            {
+                  "name": "Iglesia Chiquinquirá Lechería",
+                  "text": "A prominent church in the Lechería area dedicated to Our Lady of Chiquinquirá.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.681188,
+                        10.198262
+                  ]
+            },
+            {
+                  "name": "iglesia nuestra señora del amparo",
+                  "text": "A simple Catholic church providing a quiet space for prayer and local ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634889,
+                        10.182165
+                  ]
+            },
+            {
+                  "name": "iglesia virgen de la santisima trinidad",
+                  "text": "A parish church dedicated to the Holy Trinity with a focus on family ministry.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.636434,
+                        10.188069
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica ebenezer",
+                  "text": "A local evangelical congregation known for its strong community support and Bible classes.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.63536,
+                        10.188548
+                  ]
+            },
+            {
+                  "name": "iglesia sol de justicia",
+                  "text": "This Christian church emphasizes spiritual guidance and social assistance for those in need.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.638146,
+                        10.191541
+                  ]
+            },
+            {
+                  "name": "iglesia san juan bosco",
+                  "text": "A Salesian-inspired Catholic church focused on youth education and community activities.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.641436,
+                        10.193318
+                  ]
+            },
+            {
+                  "name": "iglesia santo domingo savio",
+                  "text": "A Catholic parish church dedicated to the patron saint of choirboys and the young.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.637133,
+                        10.202261
+                  ]
+            },
+            {
+                  "name": "iglesia anglicana de la santísima trinidad",
+                  "text": "An Anglican place of worship providing traditional liturgy and community services.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.633118,
+                        10.199041
+                  ]
+            },
+            {
+                  "name": "Iglesia evangélica agua viva",
+                  "text": "A dynamic evangelical church known for its contemporary worship and youth outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.639358,
+                        10.200226
+                  ]
+            },
+            {
+                  "name": "iglesia cristo resucitado",
+                  "text": "A Catholic church celebrating the Resurrection, serving as a spiritual pillar for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.634012,
+                        10.195486
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-B",
     coords: [-64.63, 10.2225],
@@ -566,7 +5192,376 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["La raffinerie de Puerto La Cruz est un site industriel majeur pour l'est du pays.", "L'installation est stratégiquement située près du port, ce qui facilite grandement l'exportation de produits finis.", "Puerto La Cruz traite principalement du pétrole brut léger et moyen extrait dans la région orientale.", "La raffinerie est un élément essentiel de l'identité économique de la ville."],
     }, image: "/poi-images/puerto-la-cruz-refinery-economic-v2.webp"},
   {
-    id: "bajo-grande-refinery-economic-v2",
+    id: "bajo-grande-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoologico Metropolitano del Zulia",
+                  "text": "Dieser Zoo beherbergt eine Vielzahl von Tierarten, die in den südamerikanischen Tropen heimisch sind.",
+                  "category": "park",
+                  "coords": [
+                        -71.641672,
+                        10.538827
+                  ]
+            },
+            {
+                  "name": "Ateneo de San Francisco",
+                  "text": "Ein kulturelles Zentrum, das Raum für Theateraufführungen und künstlerische Ausstellungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.634214,
+                        10.567313
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Eine christliche Gebetsstätte, die Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.632553,
+                        10.566545
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Chiquinquira",
+                  "text": "Eine christliche Kirche, die nach der Schutzpatronin von Zulia benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.646593,
+                        10.440182
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica Luz y Verdad",
+                  "text": "Eine evangelische Kirche, die als Zentrum für die lokale protestantische Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.649685,
+                        10.438321
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "Eine katholische Kirche im Stadtteil San Francisco, bekannt für ihre religiösen Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.651261,
+                        10.444289
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecotal Unida Las Camelias",
+                  "text": "Ein Versammlungsort der Pfingstgemeinde im Wohngebiet Las Camelias.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.670663,
+                        10.431494
+                  ]
+            },
+            {
+                  "name": "Basílica de San Francisco",
+                  "text": "Eine bedeutende Kirche in San Francisco, die durch ihre Architektur und religiöse Tradition besticht.",
+                  "category": "religious",
+                  "coords": [
+                        -71.621888,
+                        10.545807
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres",
+                  "text": "Ein religiöser Ort, der dem heiligen Martin von Porres gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.637102,
+                        10.556916
+                  ]
+            },
+            {
+                  "name": "Mi chinita",
+                  "text": "Ein lokaler Markt, auf dem traditionelle Produkte und Lebensmittel verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.641616,
+                        10.560341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoologico Metropolitano del Zulia",
+                  "text": "Ez az állatkert számos olyan állatfajnak ad otthont, amelyek a dél-amerikai trópusokon őshonosak.",
+                  "category": "park",
+                  "coords": [
+                        -71.641672,
+                        10.538827
+                  ]
+            },
+            {
+                  "name": "Ateneo de San Francisco",
+                  "text": "Kulturális központ, amely színházi előadásoknak és művészeti kiállításoknak ad helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.634214,
+                        10.567313
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Keresztény imádkozóhely, amelyet Keresztelő Szent Jánosnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -71.632553,
+                        10.566545
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Chiquinquira",
+                  "text": "Keresztény templom, amelyet Zulia védőszentjéről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.646593,
+                        10.440182
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica Luz y Verdad",
+                  "text": "Evangélikus templom, amely a helyi protestáns közösség központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.649685,
+                        10.438321
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "Katolikus templom San Francisco városrészben, amely vallási ünnepeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.651261,
+                        10.444289
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecotal Unida Las Camelias",
+                  "text": "A pünkösdi közösség gyülekezőhelye a Las Camelias lakóövezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.670663,
+                        10.431494
+                  ]
+            },
+            {
+                  "name": "Basílica de San Francisco",
+                  "text": "San Francisco egyik jelentős temploma, amely építészetével és vallási hagyományaival tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        -71.621888,
+                        10.545807
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres",
+                  "text": "Vallási hely, amelyet Porres Szent Mártonnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -71.637102,
+                        10.556916
+                  ]
+            },
+            {
+                  "name": "Mi chinita",
+                  "text": "Helyi piac, ahol hagyományos termékeket és élelmiszereket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.641616,
+                        10.560341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoologico Metropolitano del Zulia",
+                  "text": "Această grădină zoologică găzduiește o varietate de specii de animale native din tropicele sud-americane.",
+                  "category": "park",
+                  "coords": [
+                        -71.641672,
+                        10.538827
+                  ]
+            },
+            {
+                  "name": "Ateneo de San Francisco",
+                  "text": "Un centru cultural care oferă spațiu pentru spectacole de teatru și expoziții artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.634214,
+                        10.567313
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Un lăcaș de cult creștin dedicat Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        -71.632553,
+                        10.566545
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Chiquinquira",
+                  "text": "O biserică creștină care poartă numele patroanei spirituale a regiunii Zulia.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.646593,
+                        10.440182
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica Luz y Verdad",
+                  "text": "O biserică evanghelică care servește drept centru pentru comunitatea protestantă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.649685,
+                        10.438321
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "O biserică catolică din cartierul San Francisco, cunoscută pentru sărbătorile sale religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.651261,
+                        10.444289
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecotal Unida Las Camelias",
+                  "text": "Un loc de adunare al comunității penticostale din zona rezidențială Las Camelias.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.670663,
+                        10.431494
+                  ]
+            },
+            {
+                  "name": "Basílica de San Francisco",
+                  "text": "O biserică importantă din San Francisco, care se remarcă prin arhitectura și tradiția sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -71.621888,
+                        10.545807
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres",
+                  "text": "Un loc religios dedicat Sfântului Martin de Porres.",
+                  "category": "religious",
+                  "coords": [
+                        -71.637102,
+                        10.556916
+                  ]
+            },
+            {
+                  "name": "Mi chinita",
+                  "text": "O piață locală unde se vând produse tradiționale și alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.641616,
+                        10.560341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoologico Metropolitano del Zulia",
+                  "text": "This zoo is home to a variety of animal species native to the South American tropics.",
+                  "category": "park",
+                  "coords": [
+                        -71.641672,
+                        10.538827
+                  ]
+            },
+            {
+                  "name": "Ateneo de San Francisco",
+                  "text": "A cultural center that provides space for theatrical performances and artistic exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.634214,
+                        10.567313
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "A Christian place of worship dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.632553,
+                        10.566545
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Chiquinquira",
+                  "text": "A Christian church named after the patron saint of Zulia.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.646593,
+                        10.440182
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica Luz y Verdad",
+                  "text": "An evangelical church serving as a center for the local Protestant community.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.649685,
+                        10.438321
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "A Catholic church in the San Francisco district, known for its religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.651261,
+                        10.444289
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecotal Unida Las Camelias",
+                  "text": "A gathering place for the Pentecostal community in the Las Camelias residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.670663,
+                        10.431494
+                  ]
+            },
+            {
+                  "name": "Basílica de San Francisco",
+                  "text": "A significant church in San Francisco, standing out for its architecture and religious tradition.",
+                  "category": "religious",
+                  "coords": [
+                        -71.621888,
+                        10.545807
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres",
+                  "text": "A religious place dedicated to Saint Martin de Porres.",
+                  "category": "religious",
+                  "coords": [
+                        -71.637102,
+                        10.556916
+                  ]
+            },
+            {
+                  "name": "Mi chinita",
+                  "text": "A local market where traditional products and food are sold.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.641616,
+                        10.560341
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-V",
     coords: [-71.6492, 10.5103],
@@ -609,7 +5604,304 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["Bajo Grande est spécialisée dans la production de produits bitumineux.", "L'asphalte de cette raffinerie est crucial pour la construction routière nationale.", "L'usine complète le large portefeuille de l'industrie du raffinage vénézuélienne par des produits hautement spécialisés.", "La situation géographique sur le lac Maracaibo facilite le transport des produits pétroliers lourds."],
     }, image: "/poi-images/bajo-grande-refinery-economic-v2.webp"},
   {
-    id: "san-roque-refinery-economic-v2",
+    id: "san-roque-refinery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Club los Chaguaramos",
+                  "text": "Ein exklusiver Erholungsclub an der Küste, der Sportanlagen und direkten Zugang zum Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.485833,
+                        9.450257
+                  ]
+            },
+            {
+                  "name": "Concha Acustica María Teresa Chacín",
+                  "text": "Ein Freilichttheater in Form einer akustischen Muschel, das für Konzerte und kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.469928,
+                        9.419884
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Coromoto",
+                  "text": "Diese Kirche ist der Schutzpatronin Venezuelas gewidmet und ein wichtiger Ort für die gläubige Bevölkerung der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.510185,
+                        9.378507
+                  ]
+            },
+            {
+                  "name": "Salón del Reino testigos de Jehova",
+                  "text": "Ein schlichter Versammlungsort der Zeugen Jehovas in der Industrieregion San Roque.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.506353,
+                        9.380514
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro y San Pablo",
+                  "text": "Ein katholisches Gotteshaus, das den Aposteln Petrus und Paulus gewidmet ist und die lokale Gemeinde betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.48436,
+                        9.421593
+                  ]
+            },
+            {
+                  "name": "Iglesia Campo Sur",
+                  "text": "Diese Kirche liegt im Wohnbereich der Raffinerie und dient den dort lebenden Arbeitern und Familien.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.480342,
+                        9.439281
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Domingo de Guzmán",
+                  "text": "Ein Sakralbau in San Roque, der nach dem Gründer des Dominikanerordens benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.418886,
+                        9.45292
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Ein geschäftiges Handelszentrum, in dem frische lokale Produkte und Waren des täglichen Bedarfs angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.476842,
+                        9.432939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Club los Chaguaramos",
+                  "text": "Exkluzív üdülőklub a tengerparton, amely sportlétesítményeket és közvetlen hozzáférést biztosít a tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.485833,
+                        9.450257
+                  ]
+            },
+            {
+                  "name": "Concha Acustica María Teresa Chacín",
+                  "text": "Akusztikus kagyló formájú szabadtéri színpad, amelyet koncertekre és kulturális rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.469928,
+                        9.419884
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Coromoto",
+                  "text": "Ez a templom Venezuela védőszentjének van szentelve, és fontos helyszín a régió hívő lakossága számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.510185,
+                        9.378507
+                  ]
+            },
+            {
+                  "name": "Salón del Reino testigos de Jehova",
+                  "text": "Jehova Tanúinak egyszerű gyülekezeti helye San Roque ipari régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.506353,
+                        9.380514
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro y San Pablo",
+                  "text": "Szent Péter és Pál apostoloknak szentelt katolikus templom, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.48436,
+                        9.421593
+                  ]
+            },
+            {
+                  "name": "Iglesia Campo Sur",
+                  "text": "Ez a templom a finomító lakóövezetében található, az ott élő munkásokat és családokat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.480342,
+                        9.439281
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Domingo de Guzmán",
+                  "text": "San Roque-i szakrális épület, amelyet a domonkos rend alapítójáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.418886,
+                        9.45292
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Nyüzsgő kereskedelmi központ, ahol friss helyi termékeket és mindennapi árucikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.476842,
+                        9.432939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Club los Chaguaramos",
+                  "text": "Un club de recreere exclusivist pe coastă, care oferă facilități sportive și acces direct la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.485833,
+                        9.450257
+                  ]
+            },
+            {
+                  "name": "Concha Acustica María Teresa Chacín",
+                  "text": "Un teatru în aer liber sub formă de scoică acustică, utilizat pentru concerte și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.469928,
+                        9.419884
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Coromoto",
+                  "text": "Această biserică este dedicată patroanei Venezuelei și este un loc important pentru populația credincioasă din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.510185,
+                        9.378507
+                  ]
+            },
+            {
+                  "name": "Salón del Reino testigos de Jehova",
+                  "text": "Un loc de întrunire simplu al Martorilor lui Iehova în regiunea industrială San Roque.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.506353,
+                        9.380514
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro y San Pablo",
+                  "text": "Un lăcaș de cult catolic dedicat Apostolilor Petru și Pavel, care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.48436,
+                        9.421593
+                  ]
+            },
+            {
+                  "name": "Iglesia Campo Sur",
+                  "text": "Această biserică este situată în zona rezidențială a rafinăriei și deservește lucrătorii și familiile care locuiesc acolo.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.480342,
+                        9.439281
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Domingo de Guzmán",
+                  "text": "Un lăcaș de cult în San Roque, numit după fondatorul ordinului dominican.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.418886,
+                        9.45292
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Un centru comercial agitat, unde se vând produse locale proaspete și bunuri de larg consum.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.476842,
+                        9.432939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Club los Chaguaramos",
+                  "text": "An exclusive recreation club on the coast, offering sports facilities and direct access to the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.485833,
+                        9.450257
+                  ]
+            },
+            {
+                  "name": "Concha Acustica María Teresa Chacín",
+                  "text": "An open-air theatre in the shape of an acoustic shell, used for concerts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.469928,
+                        9.419884
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Coromoto",
+                  "text": "This church is dedicated to the patroness of Venezuela and is an important site for the region's faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.510185,
+                        9.378507
+                  ]
+            },
+            {
+                  "name": "Salón del Reino testigos de Jehova",
+                  "text": "A simple meeting place for Jehovah's Witnesses in the San Roque industrial region.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.506353,
+                        9.380514
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro y San Pablo",
+                  "text": "A Catholic place of worship dedicated to the Apostles Peter and Paul, serving the local parish.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.48436,
+                        9.421593
+                  ]
+            },
+            {
+                  "name": "Iglesia Campo Sur",
+                  "text": "This church is located in the refinery's residential area, serving the workers and families living there.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.480342,
+                        9.439281
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Domingo de Guzmán",
+                  "text": "A sacred building in San Roque named after the founder of the Dominican Order.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.418886,
+                        9.45292
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "A bustling commercial hub where fresh local products and daily necessities are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.476842,
+                        9.432939
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-B",
     coords: [-64.4667, 9.4333],
@@ -652,7 +5944,1276 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["San Roque est la seule usine de paraffine au Venezuela.", "La paraffine est un ingrédient nécessaire à de nombreux processus industriels.", "L'installation souligne la diversité industrielle dans la zone d'Anaco.", "La production est une contribution importante à l'autosuffisance industrielle du Venezuela en produits chimiques spécialisés."],
     }, image: "/poi-images/san-roque-refinery-economic-v2.webp"},
   {
-    id: "sidor-steel-plant-economic-v2",
+    id: "sidor-steel-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado de Unare",
+                  "text": "Auf diesem geschäftigen Markt nahe dem Stahlwerk Sidor werden lokale landwirtschaftliche Produkte und Waren gehandelt.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.757396,
+                        8.275439
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana La Casa del Rey",
+                  "text": "Die christliche Gemeinschaft \"Haus des Königs\" versammelt sich unweit der Industriestadt des Sidor-Werks.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.753108,
+                        8.284567
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser Königreichssaal der Zeugen Jehovas befindet sich im Einzugsgebiet des Stahlwerks Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.758785,
+                        8.272412
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Diese mormonische Kirche bietet der lokalen Gemeinschaft nahe dem Sidor-Werk einen Versammlungsort.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.787327,
+                        8.267275
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Renuevo",
+                  "text": "Das christliche Erneuerungszentrum richtet sich an die Anwohner der Industrieregion um das Sidor-Stahlwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.75738,
+                        8.276886
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein weiteres Versammlungsgebäude der Heiligen der Letzten Tage für die Familien nahe der Sidor-Stahlanlage.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.753903,
+                        8.272559
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Congregación Cristiana Misionera",
+                  "text": "Diese apostolisch-christliche Missionskongregation ist im Umfeld der industriellen Sidor-Anlage tätig.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.755399,
+                        8.26885
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Vida",
+                  "text": "Die christliche Kirche \"Quelle des Lebens\" ist eine religiöse Anlaufstelle nahe dem Sidor-Werk.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.760794,
+                        8.27053
+                  ]
+            },
+            {
+                  "name": "Centro Misionero La Mano de Dios",
+                  "text": "Das Missionszentrum \"Die Hand Gottes\" organisiert christliche Zusammenkünfte unweit des Stahlwerks Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.769749,
+                        8.273918
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Diese der Heiligen Familie gewidmete christliche Pfarrei nahe dem Sidor-Werk wurde am 21. August 1979 gegründet.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.768666,
+                        8.274439
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Casa de Dios",
+                  "text": "Die christliche Kirche \"Haus Gottes\" ist ein Ort des Gebets im Einzugsgebiet der Sidor-Stahlanlage.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.774926,
+                        8.278455
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro y San Pablo",
+                  "text": "Die christliche Pfarrei St. Peter und Paul nahe dem Sidor-Werk wurde am 30. November 2003 gegründet.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.781721,
+                        8.276705
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Libertad",
+                  "text": "Die Iglesia Bíblica Libertad ist eine christliche Andachtsstätte, die der örtlichen Gemeinde in der Nähe des Stahlwerks Sidor dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.800016,
+                        8.255363
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Salud",
+                  "text": "Die Parroquia Nuestra Señora de la Salud ist eine katholische Pfarrkirche und ein spirituelles Zentrum im Bezirk des Stahlwerks Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.796916,
+                        8.254372
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rosa Mística",
+                  "text": "Die Parroquia Santa Rosa Mística ist eine christliche Pfarrkirche, die Gottesdienste in der Nähe des Stahlwerks Sidor anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.783629,
+                        8.258732
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana \"Alas de Liberación\"",
+                  "text": "Die Iglesia Cristiana \"Alas de Liberación\" ist eine christliche Gemeinde, die sich im Gebiet des Stahlwerks Sidor versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.777002,
+                        8.259671
+                  ]
+            },
+            {
+                  "name": "Ministerio Alas de Liberación",
+                  "text": "Das Ministerio Alas de Liberación ist ein christliches Gemeindezentrum in der Umgebung des Stahlwerks Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.775439,
+                        8.258839
+                  ]
+            },
+            {
+                  "name": "Mezquita de Yarayara",
+                  "text": "Die Mezquita de Yarayara ist eine Moschee, die der lokalen muslimischen Gemeinschaft rund um das Stahlwerk Sidor dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.77742,
+                        8.254034
+                  ]
+            },
+            {
+                  "name": "C.C.A. Hosanna",
+                  "text": "Das C.C.A. Hosanna ist ein christliches Zentrum, das religiöse Dienste und Unterstützung in der Nähe des Stahlwerks Sidor anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.8055,
+                        8.246571
+                  ]
+            },
+            {
+                  "name": "Parroquia Corpus Christi",
+                  "text": "Die Parroquia Corpus Christi ist eine der Eucharistie gewidmete christliche Pfarrei in der Nähe des Stahlwerks Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.817308,
+                        8.237698
+                  ]
+            },
+            {
+                  "name": "Iglesia Acción Bíblica Global",
+                  "text": "Die Iglesia Acción Bíblica Global ist eine christliche Kirche, die biblische Lehren in der Nachbarschaft des Stahlwerks Sidor vermittelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.814693,
+                        8.236606
+                  ]
+            },
+            {
+                  "name": "Iglesia Luz del Mundo - Misión 6",
+                  "text": "Die Iglesia Luz del Mundo - Misión 6 ist eine christliche Missionskirche, die im Gebiet des Stahlwerks Sidor tätig ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.828225,
+                        8.216635
+                  ]
+            },
+            {
+                  "name": "Parroquia San Onofre",
+                  "text": "Die Parroquia San Onofre ist eine dem Heiligen Onuphrius gewidmete christliche Pfarrkirche in der Nähe des Stahlwerks Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.738131,
+                        8.259938
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "Die am 2. Juni 1996 gegründete Parroquia Santísima Trinidad ist eine christliche Pfarrei für die Gemeinde am Stahlwerk Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.750343,
+                        8.277917
+                  ]
+            },
+            {
+                  "name": "Balneario San José",
+                  "text": "Das Balneario San José ist ein lokaler Strandort, der Erholung am Wasser in der Nähe des Stahlwerks Sidor bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.795744,
+                        8.212068
+                  ]
+            },
+            {
+                  "name": "Balneario San Juan",
+                  "text": "Das Balneario San Juan bietet Besuchern im Gebiet des Stahlwerks Sidor eine entspannende Strandresort-Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.795191,
+                        8.209887
+                  ]
+            },
+            {
+                  "name": "Balneario Cuguenan",
+                  "text": "Das Balneario Cuguenan ist ein Erholungsresort am Strand in unmittelbarer Nähe des Stahlwerks Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.794582,
+                        8.208633
+                  ]
+            },
+            {
+                  "name": "Playa San Isidro",
+                  "text": "Die Playa San Isidro verfügt über einen Sandstrand, der zur Freizeitgestaltung in der Nähe des Stahlwerks Sidor einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779623,
+                        8.229724
+                  ]
+            },
+            {
+                  "name": "Balneario Fuerza Aérea",
+                  "text": "Das Balneario Fuerza Aérea ist ein historisch mit der Luftwaffe verbundener Strandort nahe dem Stahlwerk Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779054,
+                        8.22801
+                  ]
+            },
+            {
+                  "name": "Balneario Villas del Caroní",
+                  "text": "Das Balneario Villas del Caroní ist ein Strandresort, das Zugang zu den Gewässern in der Nähe des Stahlwerks Sidor bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.778759,
+                        8.22696
+                  ]
+            },
+            {
+                  "name": "Balneario El Rey",
+                  "text": "Das Balneario El Rey ist ein markanter Strandort mit Freizeitangeboten am Wasser im Bezirk des Stahlwerks Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779283,
+                        8.225788
+                  ]
+            },
+            {
+                  "name": "Balneario Mi Delirio",
+                  "text": "Das Balneario Mi Delirio ist ein lokaler Strandort, der Besucher zum Entspannen am Wasser nahe dem Stahlwerk Sidor einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.788952,
+                        8.22259
+                  ]
+            },
+            {
+                  "name": "Playa Hermosa",
+                  "text": "Die Playa Hermosa bietet eine wunderschöne Strandlandschaft zur Erholung in der Nähe des Stahlwerks Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.790645,
+                        8.221736
+                  ]
+            },
+            {
+                  "name": "Balneario El Manantial",
+                  "text": "Das Balneario El Manantial ist ein Strandresort mit erfrischendem Wasser in der Nachbarschaft des Stahlwerks Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.786726,
+                        8.223221
+                  ]
+            },
+            {
+                  "name": "Balneario Mi Bohio",
+                  "text": "Das Balneario Mi Bohio ist ein Strandresort, das Entspannung in rustikalen Hütten in der Nähe des Stahlwerks Sidor bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.792465,
+                        8.220511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado de Unare",
+                  "text": "Ezen a Sidor acélmű közelében lévő nyüzsgő piacon helyi mezőgazdasági termékeket és árukat forgalmaznak.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.757396,
+                        8.275439
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana La Casa del Rey",
+                  "text": "A \"Király Háza\" keresztény közösség a Sidor gyár iparvárosa közelében gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.753108,
+                        8.284567
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúinak ez a Királyság-terme a Sidor acélmű vonzáskörzetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.758785,
+                        8.272412
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a mormon templom gyülekezési helyet kínál a helyi közösségnek a Sidor gyár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.787327,
+                        8.267275
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Renuevo",
+                  "text": "A keresztény megújulás központja a Sidor acélmű körüli ipari régió lakóit célozza meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.75738,
+                        8.276886
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek egy másik gyülekezeti épülete a Sidor acélmű közelében élő családok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.753903,
+                        8.272559
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Congregación Cristiana Misionera",
+                  "text": "Ez az apostoli-keresztény missziós kongregáció a Sidor ipari létesítmény környékén működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.755399,
+                        8.26885
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Vida",
+                  "text": "Az \"Élet Forrása\" keresztény templom egy vallási központ a Sidor gyár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.760794,
+                        8.27053
+                  ]
+            },
+            {
+                  "name": "Centro Misionero La Mano de Dios",
+                  "text": "Az \"Isten Keze\" missziós központ keresztény összejöveteleket szervez a Sidor acélmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.769749,
+                        8.273918
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "A Sidor gyár közelében található, a Szent Családnak szentelt keresztény plébániát 1979. augusztus 21-én alapították.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.768666,
+                        8.274439
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Casa de Dios",
+                  "text": "Az \"Isten Háza\" keresztény templom az imádság helye a Sidor acélmű vonzáskörzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.774926,
+                        8.278455
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro y San Pablo",
+                  "text": "A Sidor gyár közelében lévő Szent Péter és Pál keresztény plébániát 2003. november 30-án alapították.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.781721,
+                        8.276705
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Libertad",
+                  "text": "Az Iglesia Bíblica Libertad egy keresztény istentiszteleti hely, amely a Sidor acélmű közelében lévő közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.800016,
+                        8.255363
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Salud",
+                  "text": "A Parroquia Nuestra Señora de la Salud egy katolikus plébániatemplom, amely spirituális központként működik a Sidor acélmű kerületében.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.796916,
+                        8.254372
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rosa Mística",
+                  "text": "A Parroquia Santa Rosa Mística egy keresztény plébániatemplom, amely istentiszteleteket kínál a Sidor acélmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.783629,
+                        8.258732
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana \"Alas de Liberación\"",
+                  "text": "Az Iglesia Cristiana \"Alas de Liberación\" egy keresztény gyülekezet, amely a Sidor acélmű területén gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.777002,
+                        8.259671
+                  ]
+            },
+            {
+                  "name": "Ministerio Alas de Liberación",
+                  "text": "A Ministerio Alas de Liberación egy keresztény szolgálati központ a Sidor acélmű szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.775439,
+                        8.258839
+                  ]
+            },
+            {
+                  "name": "Mezquita de Yarayara",
+                  "text": "A Mezquita de Yarayara egy mecset, amely a Sidor acélmű körüli helyi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.77742,
+                        8.254034
+                  ]
+            },
+            {
+                  "name": "C.C.A. Hosanna",
+                  "text": "A C.C.A. Hosanna egy keresztény központ, amely vallási szolgáltatásokat és közösségi támogatást nyújt a Sidor acélmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.8055,
+                        8.246571
+                  ]
+            },
+            {
+                  "name": "Parroquia Corpus Christi",
+                  "text": "A Parroquia Corpus Christi az eucharisztiának szentelt keresztény plébánia a Sidor acélmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.817308,
+                        8.237698
+                  ]
+            },
+            {
+                  "name": "Iglesia Acción Bíblica Global",
+                  "text": "Az Iglesia Acción Bíblica Global egy keresztény templom, amely bibliai tanításokat nyújt a Sidor acélmű szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.814693,
+                        8.236606
+                  ]
+            },
+            {
+                  "name": "Iglesia Luz del Mundo - Misión 6",
+                  "text": "Az Iglesia Luz del Mundo - Misión 6 egy keresztény missziós templom, amely a Sidor acélmű területén működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.828225,
+                        8.216635
+                  ]
+            },
+            {
+                  "name": "Parroquia San Onofre",
+                  "text": "A Parroquia San Onofre egy Szent Onuphriusnak szentelt keresztény plébániatemplom a Sidor acélmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.738131,
+                        8.259938
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "Az 1996. június 2-án alapított Parroquia Santísima Trinidad egy keresztény plébánia, amely a Sidor acélmű közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.750343,
+                        8.277917
+                  ]
+            },
+            {
+                  "name": "Balneario San José",
+                  "text": "A Balneario San José egy helyi tengerparti üdülőhely, amely vízparti kikapcsolódást kínál a Sidor acélmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.795744,
+                        8.212068
+                  ]
+            },
+            {
+                  "name": "Balneario San Juan",
+                  "text": "A Balneario San Juan pihentető tengerparti üdülőhelyi környezetet biztosít a látogatók számára a Sidor acélmű területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.795191,
+                        8.209887
+                  ]
+            },
+            {
+                  "name": "Balneario Cuguenan",
+                  "text": "A Balneario Cuguenan egy vízparti rekreációs üdülőhely a Sidor acélmű közvetlen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.794582,
+                        8.208633
+                  ]
+            },
+            {
+                  "name": "Playa San Isidro",
+                  "text": "A Playa San Isidro homokos strandja kiválóan alkalmas a szabadidő eltöltésére a Sidor acélmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779623,
+                        8.229724
+                  ]
+            },
+            {
+                  "name": "Balneario Fuerza Aérea",
+                  "text": "A Balneario Fuerza Aérea egy történelmileg a légierőhöz kötődő tengerparti üdülőhely a Sidor acélmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779054,
+                        8.22801
+                  ]
+            },
+            {
+                  "name": "Balneario Villas del Caroní",
+                  "text": "A Balneario Villas del Caroní egy tengerparti üdülőhely, amely hozzáférést biztosít a vizekhez a Sidor acélmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.778759,
+                        8.22696
+                  ]
+            },
+            {
+                  "name": "Balneario El Rey",
+                  "text": "A Balneario El Rey egy kiemelkedő tengerparti üdülőhely, amely vízparti szabadidős tevékenységeket kínál a Sidor acélmű kerületében.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779283,
+                        8.225788
+                  ]
+            },
+            {
+                  "name": "Balneario Mi Delirio",
+                  "text": "A Balneario Mi Delirio egy helyi üdülőhely, amely vízparti pihenésre hívja a látogatókat a Sidor acélmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.788952,
+                        8.22259
+                  ]
+            },
+            {
+                  "name": "Playa Hermosa",
+                  "text": "A Playa Hermosa gyönyörű tengerparti tájat kínál a kikapcsolódáshoz a Sidor acélmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.790645,
+                        8.221736
+                  ]
+            },
+            {
+                  "name": "Balneario El Manantial",
+                  "text": "A Balneario El Manantial egy frissítő vizekkel rendelkező tengerparti üdülőhely a Sidor acélmű szomszédságában.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.786726,
+                        8.223221
+                  ]
+            },
+            {
+                  "name": "Balneario Mi Bohio",
+                  "text": "A Balneario Mi Bohio egy tengerparti üdülőhely, amely rusztikus, kunyhószerű kikapcsolódást nyújt a Sidor acélmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.792465,
+                        8.220511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado de Unare",
+                  "text": "Această piață plină de viață din apropierea combinatului siderurgic Sidor comercializează produse agricole și mărfuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.757396,
+                        8.275439
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana La Casa del Rey",
+                  "text": "Comunitatea creștină „Casa Regelui” se adună nu departe de orașul industrial al uzinei Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.753108,
+                        8.284567
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Această Sală a Regatului a Martorilor lui Iehova este situată în zona de influență a combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.758785,
+                        8.272412
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această biserică mormonă oferă un loc de adunare pentru comunitatea locală din apropierea uzinei Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.787327,
+                        8.267275
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Renuevo",
+                  "text": "Centrul creștin de reînnoire se adresează rezidenților din regiunea industrială din jurul combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.75738,
+                        8.276886
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O altă clădire de adunare a Sfinților din Zilele din Urmă pentru familiile din apropierea uzinei siderurgice Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.753903,
+                        8.272559
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Congregación Cristiana Misionera",
+                  "text": "Această congregație misionară creștină apostolică este activă în vecinătatea complexului industrial Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.755399,
+                        8.26885
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Vida",
+                  "text": "Biserica creștină „Izvorul Vieții” este un centru religios situat lângă uzina Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.760794,
+                        8.27053
+                  ]
+            },
+            {
+                  "name": "Centro Misionero La Mano de Dios",
+                  "text": "Centrul misionar „Mâna lui Dumnezeu” organizează întâlniri creștine nu departe de combinatul siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.769749,
+                        8.273918
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Această parohie creștină dedicată Sfintei Familii din apropierea uzinei Sidor a fost înființată pe 21 august 1979.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.768666,
+                        8.274439
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Casa de Dios",
+                  "text": "Biserica creștină „Casa lui Dumnezeu” este un loc de rugăciune în zona de influență a combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.774926,
+                        8.278455
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro y San Pablo",
+                  "text": "Parohia creștină Sfinții Petru și Pavel din apropierea uzinei Sidor a fost fondată pe 30 noiembrie 2003.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.781721,
+                        8.276705
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Libertad",
+                  "text": "Iglesia Bíblica Libertad este un lăcaș de cult creștin ce deservește comunitatea locală din apropierea combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.800016,
+                        8.255363
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Salud",
+                  "text": "Parroquia Nuestra Señora de la Salud este o biserică parohială catolică care oferă un centru spiritual în districtul combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.796916,
+                        8.254372
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rosa Mística",
+                  "text": "Parroquia Santa Rosa Mística este o biserică parohială creștină ce organizează slujbe religioase lângă combinatul siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.783629,
+                        8.258732
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana \"Alas de Liberación\"",
+                  "text": "Iglesia Cristiana \"Alas de Liberación\" este o congregație creștină care se adună în zona combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.777002,
+                        8.259671
+                  ]
+            },
+            {
+                  "name": "Ministerio Alas de Liberación",
+                  "text": "Ministerio Alas de Liberación este un centru de slujire creștin situat în vecinătatea combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.775439,
+                        8.258839
+                  ]
+            },
+            {
+                  "name": "Mezquita de Yarayara",
+                  "text": "Mezquita de Yarayara este o moschee ce deservește comunitatea musulmană locală din jurul combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.77742,
+                        8.254034
+                  ]
+            },
+            {
+                  "name": "C.C.A. Hosanna",
+                  "text": "C.C.A. Hosanna este un centru creștin care oferă servicii religioase și sprijin comunitar lângă combinatul siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.8055,
+                        8.246571
+                  ]
+            },
+            {
+                  "name": "Parroquia Corpus Christi",
+                  "text": "Parroquia Corpus Christi este o parohie creștină dedicată Euharistiei, situată în apropierea combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.817308,
+                        8.237698
+                  ]
+            },
+            {
+                  "name": "Iglesia Acción Bíblica Global",
+                  "text": "Iglesia Acción Bíblica Global este o biserică creștină ce oferă învățături biblice în cartierul combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.814693,
+                        8.236606
+                  ]
+            },
+            {
+                  "name": "Iglesia Luz del Mundo - Misión 6",
+                  "text": "Iglesia Luz del Mundo - Misión 6 este o biserică de misiune creștină ce activează în zona combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.828225,
+                        8.216635
+                  ]
+            },
+            {
+                  "name": "Parroquia San Onofre",
+                  "text": "Parroquia San Onofre este o biserică parohială creștină cu hramul Sfântul Onufrie, situată lângă combinatul siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.738131,
+                        8.259938
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "Înființată pe 2 iunie 1996, Parroquia Santísima Trinidad este o parohie creștină ce deservește comunitatea combinatului siderurgic Sidor.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.750343,
+                        8.277917
+                  ]
+            },
+            {
+                  "name": "Balneario San José",
+                  "text": "Balneario San José este o stațiune balneară locală ce oferă recreere pe malul apei lângă combinatul siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.795744,
+                        8.212068
+                  ]
+            },
+            {
+                  "name": "Balneario San Juan",
+                  "text": "Balneario San Juan oferă un mediu de stațiune relaxant pe plajă pentru vizitatorii din zona combinatului siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.795191,
+                        8.209887
+                  ]
+            },
+            {
+                  "name": "Balneario Cuguenan",
+                  "text": "Balneario Cuguenan este o stațiune de recreere pe plajă situată aproape de combinatul siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.794582,
+                        8.208633
+                  ]
+            },
+            {
+                  "name": "Playa San Isidro",
+                  "text": "Playa San Isidro dispune de o plajă de nisip amenajată pentru petrecerea timpului liber lângă combinatul siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779623,
+                        8.229724
+                  ]
+            },
+            {
+                  "name": "Balneario Fuerza Aérea",
+                  "text": "Balneario Fuerza Aérea este o stațiune balneară asociată istoric cu Forțele Aeriene, situată lângă combinatul siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779054,
+                        8.22801
+                  ]
+            },
+            {
+                  "name": "Balneario Villas del Caroní",
+                  "text": "Balneario Villas del Caroní este o stațiune pe plajă care oferă acces la apele din apropierea combinatului siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.778759,
+                        8.22696
+                  ]
+            },
+            {
+                  "name": "Balneario El Rey",
+                  "text": "Balneario El Rey este o stațiune balneară proeminentă ce oferă activități de agrement pe malul apei în districtul combinatului siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779283,
+                        8.225788
+                  ]
+            },
+            {
+                  "name": "Balneario Mi Delirio",
+                  "text": "Balneario Mi Delirio este o stațiune balneară locală ce invită vizitatorii să se relaxeze lângă apă, aproape de combinatul siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.788952,
+                        8.22259
+                  ]
+            },
+            {
+                  "name": "Playa Hermosa",
+                  "text": "Playa Hermosa oferă un peisaj frumos de stațiune pe plajă pentru recreere lângă combinatul siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.790645,
+                        8.221736
+                  ]
+            },
+            {
+                  "name": "Balneario El Manantial",
+                  "text": "Balneario El Manantial este o stațiune balneară cu ape răcoritoare din cartierul combinatului siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.786726,
+                        8.223221
+                  ]
+            },
+            {
+                  "name": "Balneario Mi Bohio",
+                  "text": "Balneario Mi Bohio este o stațiune pe plajă care oferă relaxare rustică, în stil colibă, lângă combinatul siderurgic Sidor.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.792465,
+                        8.220511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercado de Unare",
+                  "text": "This bustling marketplace near the Sidor steel plant trades in local agricultural produce and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.757396,
+                        8.275439
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana La Casa del Rey",
+                  "text": "The \"House of the King\" Christian community gathers not far from the industrial area of the Sidor plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.753108,
+                        8.284567
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "This Kingdom Hall of Jehovah's Witnesses is located in the catchment area of the Sidor steel plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.758785,
+                        8.272412
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This Mormon church provides a meeting place for the local community near the Sidor plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.787327,
+                        8.267275
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Renuevo",
+                  "text": "The Christian Renewal Centre caters to residents of the industrial region around the Sidor steel plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.75738,
+                        8.276886
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Another Latter-day Saints meetinghouse serving families near the Sidor steel facility.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.753903,
+                        8.272559
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Congregación Cristiana Misionera",
+                  "text": "This apostolic Christian missionary congregation operates in the vicinity of the industrial Sidor complex.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.755399,
+                        8.26885
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Vida",
+                  "text": "The \"Fountain of Life\" Christian church is a religious centre situated near the Sidor plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.760794,
+                        8.27053
+                  ]
+            },
+            {
+                  "name": "Centro Misionero La Mano de Dios",
+                  "text": "The \"Hand of God\" Missionary Centre organises Christian gatherings not far from the Sidor steel plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.769749,
+                        8.273918
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "This Christian parish dedicated to the Holy Family near the Sidor plant was established on 21 August 1979.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.768666,
+                        8.274439
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Casa de Dios",
+                  "text": "The \"House of God\" Christian church is a place of prayer within the catchment area of the Sidor steel plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.774926,
+                        8.278455
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro y San Pablo",
+                  "text": "The Christian parish of St Peter and St Paul near the Sidor plant was founded on 30 November 2003.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.781721,
+                        8.276705
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Libertad",
+                  "text": "The Iglesia Bíblica Libertad is a Christian place of worship serving the local community near the Sidor Steel Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.800016,
+                        8.255363
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Salud",
+                  "text": "Parroquia Nuestra Señora de la Salud is a Catholic parish church providing a spiritual center in the Sidor Steel Plant district.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.796916,
+                        8.254372
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rosa Mística",
+                  "text": "Parroquia Santa Rosa Mística is a Christian parish church offering worship services near the Sidor Steel Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.783629,
+                        8.258732
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana \"Alas de Liberación\"",
+                  "text": "The Iglesia Cristiana \"Alas de Liberación\" is a Christian congregation gathering in the Sidor Steel Plant area.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.777002,
+                        8.259671
+                  ]
+            },
+            {
+                  "name": "Ministerio Alas de Liberación",
+                  "text": "Ministerio Alas de Liberación is a Christian ministry center situated in the vicinity of the Sidor Steel Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.775439,
+                        8.258839
+                  ]
+            },
+            {
+                  "name": "Mezquita de Yarayara",
+                  "text": "The Mezquita de Yarayara is a mosque serving the local Muslim community around the Sidor Steel Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.77742,
+                        8.254034
+                  ]
+            },
+            {
+                  "name": "C.C.A. Hosanna",
+                  "text": "C.C.A. Hosanna is a Christian center offering religious services and community support near the Sidor Steel Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.8055,
+                        8.246571
+                  ]
+            },
+            {
+                  "name": "Parroquia Corpus Christi",
+                  "text": "Parroquia Corpus Christi is a Christian parish dedicated to the Eucharist, located near the Sidor Steel Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.817308,
+                        8.237698
+                  ]
+            },
+            {
+                  "name": "Iglesia Acción Bíblica Global",
+                  "text": "Iglesia Acción Bíblica Global is a Christian church providing biblical teachings in the Sidor Steel Plant neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.814693,
+                        8.236606
+                  ]
+            },
+            {
+                  "name": "Iglesia Luz del Mundo - Misión 6",
+                  "text": "The Iglesia Luz del Mundo - Misión 6 is a Christian mission church operating in the Sidor Steel Plant area.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.828225,
+                        8.216635
+                  ]
+            },
+            {
+                  "name": "Parroquia San Onofre",
+                  "text": "Parroquia San Onofre is a Christian parish church dedicated to Saint Onuphrius, situated near the Sidor Steel Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.738131,
+                        8.259938
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "Established on June 2, 1996, Parroquia Santísima Trinidad is a Christian parish serving the Sidor Steel Plant community.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.750343,
+                        8.277917
+                  ]
+            },
+            {
+                  "name": "Balneario San José",
+                  "text": "Balneario San José is a local beach resort offering waterfront recreation near the Sidor Steel Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.795744,
+                        8.212068
+                  ]
+            },
+            {
+                  "name": "Balneario San Juan",
+                  "text": "Balneario San Juan provides a relaxing beach resort environment for visitors in the Sidor Steel Plant area.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.795191,
+                        8.209887
+                  ]
+            },
+            {
+                  "name": "Balneario Cuguenan",
+                  "text": "Balneario Cuguenan is a beachside recreational resort situated close to the Sidor Steel Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.794582,
+                        8.208633
+                  ]
+            },
+            {
+                  "name": "Playa San Isidro",
+                  "text": "Playa San Isidro features a sandy beach resort setting for leisure near the Sidor Steel Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779623,
+                        8.229724
+                  ]
+            },
+            {
+                  "name": "Balneario Fuerza Aérea",
+                  "text": "Balneario Fuerza Aérea is a beach resort historically associated with the Air Force, located near the Sidor Steel Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779054,
+                        8.22801
+                  ]
+            },
+            {
+                  "name": "Balneario Villas del Caroní",
+                  "text": "Balneario Villas del Caroní is a beach resort offering access to the waters near the Sidor Steel Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.778759,
+                        8.22696
+                  ]
+            },
+            {
+                  "name": "Balneario El Rey",
+                  "text": "Balneario El Rey is a prominent beach resort providing waterfront leisure activities in the Sidor Steel Plant district.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.779283,
+                        8.225788
+                  ]
+            },
+            {
+                  "name": "Balneario Mi Delirio",
+                  "text": "Balneario Mi Delirio is a local beach resort inviting visitors to relax by the water near the Sidor Steel Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.788952,
+                        8.22259
+                  ]
+            },
+            {
+                  "name": "Playa Hermosa",
+                  "text": "Playa Hermosa offers a beautiful beach resort landscape for recreation near the Sidor Steel Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.790645,
+                        8.221736
+                  ]
+            },
+            {
+                  "name": "Balneario El Manantial",
+                  "text": "Balneario El Manantial is a beach resort featuring refreshing waters in the Sidor Steel Plant neighborhood.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.786726,
+                        8.223221
+                  ]
+            },
+            {
+                  "name": "Balneario Mi Bohio",
+                  "text": "Balneario Mi Bohio is a beach resort that provides rustic, hut-style relaxation near the Sidor Steel Plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.792465,
+                        8.220511
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-F",
     coords: [-62.8222, 8.2831],
@@ -824,7 +7385,124 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["Bauxilum est la raffinerie centrale pour la production vénézuélienne d'aluminium.", "L'usine affine la bauxite provenant des mines de la région de Bolívar.", "L'approvisionnement des fonderies d'aluminium de Venalum et Alcasa dépend de Bauxilum.", "La situation stratégique sur l'Orénoque permet une logistique efficace."],
     }, image: "/poi-images/bauxilum-alumina-plant-economic-v2.webp"},
   {
-    id: "cerro-bolivar-mine-economic-v2",
+    id: "cerro-bolivar-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Bolívar",
+                  "text": "Ein bekannter Berggipfel, der für seine bedeutenden Eisenerzvorkommen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -63.395445,
+                        7.456334
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "Ein lokaler Königreichssaal, der der Versammlung der Zeugen Jehovas dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.326735,
+                        7.453919
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal",
+                  "text": "Ein christliches Kirchengebäude, das dem Heiligen Christophorus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -63.323085,
+                        7.452295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Bolívar",
+                  "text": "Egy jelentős hegycsúcs, amely gazdag vasérclelőhelyeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -63.395445,
+                        7.456334
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "A Jehova Tanúi gyülekezetét szolgáló helyi Királyság-terem.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.326735,
+                        7.453919
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal",
+                  "text": "Szent Kristófnak szentelt keresztény templomépület.",
+                  "category": "religious",
+                  "coords": [
+                        -63.323085,
+                        7.452295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Bolívar",
+                  "text": "Un vârf montan notabil recunoscut pentru zăcămintele sale semnificative de minereu de fier.",
+                  "category": "natural",
+                  "coords": [
+                        -63.395445,
+                        7.456334
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "O Sală a Regatului locală care deservește congregația Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.326735,
+                        7.453919
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal",
+                  "text": "O biserică creștină dedicată Sfântului Cristofor.",
+                  "category": "religious",
+                  "coords": [
+                        -63.323085,
+                        7.452295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Bolívar",
+                  "text": "A notable mountain peak recognized for its significant iron ore deposits.",
+                  "category": "natural",
+                  "coords": [
+                        -63.395445,
+                        7.456334
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "A local Kingdom Hall serving the Jehovah's Witnesses congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.326735,
+                        7.453919
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal",
+                  "text": "A Christian church building dedicated to Saint Christopher.",
+                  "category": "religious",
+                  "coords": [
+                        -63.323085,
+                        7.452295
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-F",
     coords: [-63.3833, 7.5167],
@@ -867,7 +7545,1204 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["Cerro Bolívar est l'un des plus grands gisements de minerai de fer au monde.", "La découverte en 1947 a ouvert un nouveau chapitre de l'histoire industrielle du Venezuela.", "L'exploitation à ciel ouvert de Cerro Bolívar a nécessité une infrastructure logistique complexe, incluant un réseau ferroviaire.", "Ciudad Piar a été développée spécifiquement comme cité ouvrière pour cette mine."],
     }, image: "/poi-images/cerro-bolivar-mine-economic-v2.webp"},
   {
-    id: "ferrominera-orinoco-economic-v2",
+    id: "ferrominera-orinoco-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parroquia Catedral San Juan Pablo II",
+                  "text": "Die am 8. Februar 2018 gegründete Parroquia Catedral San Juan Pablo II dient als Sitz der Diözese von Ciudad Guayana im Gebiet Ferrominera Orinoco.",
+                  "category": "religious",
+                  "coords": [
+                        -62.722111,
+                        8.296655
+                  ]
+            },
+            {
+                  "name": "Parque Loefling",
+                  "text": "Der Parque Loefling ist ein zoologischer Park im Bezirk Ferrominera Orinoco, der für seine verschiedenen einheimischen Tierarten bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        -62.70369,
+                        8.294239
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Sidor",
+                  "text": "Die Sala de Arte Sidor ist eine Kunstgalerie, die lokale und regionale Ausstellungen im Gebiet Ferrominera Orinoco zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -62.73093,
+                        8.293271
+                  ]
+            },
+            {
+                  "name": "Antiguo Cine",
+                  "text": "Das Antiguo Cine umfasst die Ruinen eines ehemaligen Kinos und ist ein historisches Überbleibsel im Bezirk Ferrominera Orinoco.",
+                  "category": "historical",
+                  "coords": [
+                        -62.720199,
+                        8.316491
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Orinokia",
+                  "text": "Das Anfiteatro del Orinokia ist ein Freilufttheater für Aufführungen und Veranstaltungen im Viertel Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.744373,
+                        8.292495
+                  ]
+            },
+            {
+                  "name": "Auditorio de Edelca",
+                  "text": "Das Auditorio de Edelca ist ein formeller Theater- und Zuschauersaal für geschäftliche und kulturelle Präsentationen in Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.726468,
+                        8.295263
+                  ]
+            },
+            {
+                  "name": "Teatro Guayana",
+                  "text": "Das Teatro Guayana ist ein lokales Theater, das eine Bühne für darstellende Kunst und Gemeindeveranstaltungen im Bezirk Ferrominera Orinoco bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.72658,
+                        8.298094
+                  ]
+            },
+            {
+                  "name": "Salón de Lectura \"Mario Briceño Irragory\"",
+                  "text": "Der Salón de Lectura \"Mario Briceño Irragory\" ist ein Kunst- und Lesezentrum zur Förderung der Literatur im Gebiet Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.713636,
+                        8.307627
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la UCAB",
+                  "text": "Das Anfiteatro de la UCAB ist ein universitäres Amphitheater und Veranstaltungsort für studentische Events und Theateraufführungen in Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.711933,
+                        8.296363
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Ítalo",
+                  "text": "Das Anfiteatro del Ítalo ist ein mit dem örtlichen italienischen Club verbundenes Kulturtheater im Viertel Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.710322,
+                        8.281291
+                  ]
+            },
+            {
+                  "name": "Escuela de Cultura Integral \"Guayanita\"",
+                  "text": "Die Escuela de Cultura Integral \"Guayanita\" ist ein lebendiges Kunstzentrum, das umfassende kulturelle Bildung in Ferrominera Orinoco anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.728401,
+                        8.284978
+                  ]
+            },
+            {
+                  "name": "Auditorio de la UNEXPO",
+                  "text": "Das Auditorio de la UNEXPO ist ein Universitätstheater, das Studenten und Dozenten in ferrominera-orinoco-economic-v2 dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.729231,
+                        8.280151
+                  ]
+            },
+            {
+                  "name": "Teatro Cachamay",
+                  "text": "Das Teatro Cachamay ist ein lokales Theater für darstellende Künste in der Nähe des Cachamay-Gebiets in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.703322,
+                        8.303797
+                  ]
+            },
+            {
+                  "name": "Auditorio del Loyola",
+                  "text": "Das Auditorio del Loyola fungiert als pädagogischer Theaterraum auf dem von Jesuiten gegründeten Schulgelände in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.711414,
+                        8.300495
+                  ]
+            },
+            {
+                  "name": "Zona Rental del Ítalo",
+                  "text": "Die Zona Rental del Ítalo verfügt über einen kommerziellen Theaterraum innerhalb des italienisch-venezolanischen Clubkomplexes in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.708505,
+                        8.282654
+                  ]
+            },
+            {
+                  "name": "Mercadito de Buhoneros",
+                  "text": "Der Mercadito de Buhoneros ist ein belebter Freiluftmarkt voller informeller Straßenverkäufer in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.717736,
+                        8.31628
+                  ]
+            },
+            {
+                  "name": "Mercado de Puerto Ordaz",
+                  "text": "Der Mercado de Puerto Ordaz ist ein großer städtischer Marktplatz, auf dem sich Einheimische versammeln, um frische Produkte und regionale Waren in ferrominera-orinoco-economic-v2 zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.716523,
+                        8.318251
+                  ]
+            },
+            {
+                  "name": "Confluencia de Los Rios Caroni y Orinoco",
+                  "text": "Die Confluencia de Los Rios Caroni y Orinoco ist eine spektakuläre Naturattraktion, die den optisch deutlich erkennbaren Zusammenfluss des dunklen Caroní und des schlammigen Orinoco markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.718099,
+                        8.348966
+                  ]
+            },
+            {
+                  "name": "Ministerio Cristiano RenovaSión",
+                  "text": "Das Ministerio Cristiano RenovaSión dient als zeitgenössisches christliches Anbetungszentrum für die evangelikale Gemeinde in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.719224,
+                        8.316086
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Casa De Dios Puerta Del Cielo\"",
+                  "text": "Die Iglesia \"Casa De Dios Puerta Del Cielo\" bietet einen christlichen Treffpunkt für Gebete und Gottesdienste in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.698202,
+                        8.342265
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Pozo De Jacob\"",
+                  "text": "Die Iglesia \"Pozo De Jacob\" fungiert als christliche religiöse Einrichtung, die sich vom biblischen Jakobsbrunnen in ferrominera-orinoco-economic-v2 inspirieren lässt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.698522,
+                        8.343828
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Nazareno",
+                  "text": "Die 1966 gegründete Parroquia Jesús Nazareno ist eine historische christliche Pfarrei zu Ehren Jesu von Nazareth in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.728113,
+                        8.309218
+                  ]
+            },
+            {
+                  "name": "Iglesia San Charbel",
+                  "text": "Die Iglesia San Charbel ist eine christliche Kirche für die maronitisch-katholische Gemeinde mit einer Widmung an den Heiligen Charbel in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.732278,
+                        8.313159
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "La Iglesia de Jesucristo de los Santos de los Últimos Días dient der Gemeinde der Heiligen der Letzten Tage als lokales Gemeindehaus in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.718437,
+                        8.312076
+                  ]
+            },
+            {
+                  "name": "Primera Iglesia Evanglélica Bautista de Puerto Ordaz",
+                  "text": "Die seit 1963 bestehende Primera Iglesia Evanglélica Bautista de Puerto Ordaz bietet einen historischen Raum für die baptistische christliche Anbetung in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.715758,
+                        8.308796
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Valle",
+                  "text": "Die am 29. September 1966 geweihte Parroquia Nuestra Señora del Valle ist ein christlicher Ort des Gebets, der der verehrten Jungfrau vom Tal gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.708447,
+                        8.310419
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Coromoto",
+                  "text": "Die 1969 gegründete Parroquia Nuestra Señora de Coromoto ist eine christliche Pfarrei, die der Schutzpatronin Venezuelas in ferrominera-orinoco-economic-v2 gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.713721,
+                        8.284107
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Resucitado",
+                  "text": "Die am 25. Mai 1975 gegründete Parroquia Jesús Resucitado dient als katholisches christliches Zentrum zu Ehren des auferstandenen Christus in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.687265,
+                        8.337856
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "Die am 12. Dezember 1996 eingeweihte Parroquia Nuestra Señora de Guadalupe bringt die christliche Hingabe an die verehrte mexikanische Jungfrau nach ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.726243,
+                        8.283006
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Teresa de Jesús",
+                  "text": "Die am 15. Oktober 1983 eröffnete Parroquia Santa Teresa de Jesús ist eine christliche Gemeinde, die die Karmeliterheilige in ferrominera-orinoco-economic-v2 ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.733896,
+                        8.286203
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser Mirador bietet einen malerischen, erhöhten Aussichtspunkt, von dem aus Besucher die städtische und natürliche Landschaft von ferrominera-orinoco-economic-v2 überblicken können.",
+                  "category": "natural",
+                  "coords": [
+                        -62.698327,
+                        8.307683
+                  ]
+            },
+            {
+                  "name": "Mirador Turístico",
+                  "text": "Der Mirador Turístico ist eine spezielle Aussichtsstruktur, die Touristen einen weiten Panoramablick auf die Landschaft von ferrominera-orinoco-economic-v2 bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -62.700969,
+                        8.305548
+                  ]
+            },
+            {
+                  "name": "Playa Cachamay",
+                  "text": "Playa Cachamay ist ein lebhafter Strandort am Flussufer, der Erholung am Ufer des Caroní-Flusses in ferrominera-orinoco-economic-v2 bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.690003,
+                        8.313731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parroquia Catedral San Juan Pablo II",
+                  "text": "A 2018. február 8-án alapított Parroquia Catedral San Juan Pablo II a Ciudad Guayana-i egyházmegye székhelyeként szolgál a Ferrominera Orinoco területén.",
+                  "category": "religious",
+                  "coords": [
+                        -62.722111,
+                        8.296655
+                  ]
+            },
+            {
+                  "name": "Parque Loefling",
+                  "text": "A Parque Loefling egy állatkert a Ferrominera Orinoco negyedben, amely a különböző őshonos vadon élő állatok bemutatásáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -62.70369,
+                        8.294239
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Sidor",
+                  "text": "A Sala de Arte Sidor egy művészeti galéria, amely helyi és regionális kiállításokat mutat be a Ferrominera Orinoco területén.",
+                  "category": "museum",
+                  "coords": [
+                        -62.73093,
+                        8.293271
+                  ]
+            },
+            {
+                  "name": "Antiguo Cine",
+                  "text": "Az Antiguo Cine egy egykori mozi romjait őrzi, történelmi emlékként a Ferrominera Orinoco kerületben.",
+                  "category": "historical",
+                  "coords": [
+                        -62.720199,
+                        8.316491
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Orinokia",
+                  "text": "Az Anfiteatro del Orinokia egy szabadtéri színházi helyszín, amely előadásoknak és eseményeknek ad otthont a Ferrominera Orinoco negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.744373,
+                        8.292495
+                  ]
+            },
+            {
+                  "name": "Auditorio de Edelca",
+                  "text": "Az Auditorio de Edelca egy formális színház- és auditóriumtér, amelyet vállalati és kulturális bemutatókra használnak a Ferrominera Orinoco területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.726468,
+                        8.295263
+                  ]
+            },
+            {
+                  "name": "Teatro Guayana",
+                  "text": "A Teatro Guayana egy helyi színház, amely színpadot kínál drámai művészetek és közösségi előadások számára a Ferrominera Orinoco kerületben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.72658,
+                        8.298094
+                  ]
+            },
+            {
+                  "name": "Salón de Lectura \"Mario Briceño Irragory\"",
+                  "text": "A Salón de Lectura \"Mario Briceño Irragory\" egy művészeti és olvasóközpont, amely az irodalmat népszerűsíti a Ferrominera Orinoco területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.713636,
+                        8.307627
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la UCAB",
+                  "text": "Az Anfiteatro de la UCAB egy egyetemi amfiteátrum, amely hallgatói rendezvények és színházi előadások helyszínét biztosítja a Ferrominera Orinoco negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.711933,
+                        8.296363
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Ítalo",
+                  "text": "Az Anfiteatro del Ítalo a helyi olasz klubhoz kapcsolódó kulturális színház, amely a Ferrominera Orinoco negyedben található.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.710322,
+                        8.281291
+                  ]
+            },
+            {
+                  "name": "Escuela de Cultura Integral \"Guayanita\"",
+                  "text": "Az Escuela de Cultura Integral \"Guayanita\" egy élénk művészeti központ, amely átfogó kulturális oktatást kínál a Ferrominera Orinoco területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.728401,
+                        8.284978
+                  ]
+            },
+            {
+                  "name": "Auditorio de la UNEXPO",
+                  "text": "Az Auditorio de la UNEXPO egy egyetemi színházi tér, amely a hallgatókat és az oktatókat szolgálja ferrominera-orinoco-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.729231,
+                        8.280151
+                  ]
+            },
+            {
+                  "name": "Teatro Cachamay",
+                  "text": "A Teatro Cachamay egy helyi előadó-művészeti színház, amely a Cachamay negyed közelében található ferrominera-orinoco-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.703322,
+                        8.303797
+                  ]
+            },
+            {
+                  "name": "Auditorio del Loyola",
+                  "text": "Az Auditorio del Loyola oktatási színházi térként funkcionál a jezsuiták által alapított iskola területén ferrominera-orinoco-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.711414,
+                        8.300495
+                  ]
+            },
+            {
+                  "name": "Zona Rental del Ítalo",
+                  "text": "A Zona Rental del Ítalo egy kereskedelmi színházi teret kínál az olasz-venezuelai klubkomplexumban ferrominera-orinoco-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.708505,
+                        8.282654
+                  ]
+            },
+            {
+                  "name": "Mercadito de Buhoneros",
+                  "text": "A Mercadito de Buhoneros egy nyüzsgő szabadtéri piac, amely tele van informális utcai árusokkal ferrominera-orinoco-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.717736,
+                        8.31628
+                  ]
+            },
+            {
+                  "name": "Mercado de Puerto Ordaz",
+                  "text": "A Mercado de Puerto Ordaz egy nagy önkormányzati piac, ahol a helyiek összegyűlnek, hogy friss termékeket és regionális árukat vásároljanak ferrominera-orinoco-economic-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.716523,
+                        8.318251
+                  ]
+            },
+            {
+                  "name": "Confluencia de Los Rios Caroni y Orinoco",
+                  "text": "A Confluencia de Los Rios Caroni y Orinoco egy látványos természeti látványosság, amely a sötét Caroní és az iszapos Orinoco folyók vizuálisan jól elkülönülő találkozását jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.718099,
+                        8.348966
+                  ]
+            },
+            {
+                  "name": "Ministerio Cristiano RenovaSión",
+                  "text": "A Ministerio Cristiano RenovaSión kortárs keresztény istentiszteleti központként szolgál az evangéliumi közösség számára ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.719224,
+                        8.316086
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Casa De Dios Puerta Del Cielo\"",
+                  "text": "Az Iglesia \"Casa De Dios Puerta Del Cielo\" keresztény találkozóhelyet biztosít imádságokhoz és vallási szertartásokhoz ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.698202,
+                        8.342265
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Pozo De Jacob\"",
+                  "text": "Az Iglesia \"Pozo De Jacob\" keresztény vallási létesítményként működik, amely a bibliai Jákob kútjából merít ihletet ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.698522,
+                        8.343828
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Nazareno",
+                  "text": "Az 1966-ban alapított Parroquia Jesús Nazareno a Názáreti Jézus tiszteletére szentelt történelmi keresztény plébánia ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.728113,
+                        8.309218
+                  ]
+            },
+            {
+                  "name": "Iglesia San Charbel",
+                  "text": "Az Iglesia San Charbel egy keresztény templom, amely a maronita katolikus közösséget szolgálja, Szent Charbelnek szentelve ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.732278,
+                        8.313159
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A La Iglesia de Jesucristo de los Santos de los Últimos Días az utolsó napi szentek közösségét szolgálja helyi gyülekezeti házként ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.718437,
+                        8.312076
+                  ]
+            },
+            {
+                  "name": "Primera Iglesia Evanglélica Bautista de Puerto Ordaz",
+                  "text": "Az 1963 óta működő Primera Iglesia Evanglélica Bautista de Puerto Ordaz történelmi teret kínál a baptista keresztény istentiszteletnek ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.715758,
+                        8.308796
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Valle",
+                  "text": "Az 1966. szeptember 29-én felszentelt Parroquia Nuestra Señora del Valle egy keresztény imádkozóhely, amelyet a Völgy tisztelt Szűzének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.708447,
+                        8.310419
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Coromoto",
+                  "text": "Az 1969-ben alapított Parroquia Nuestra Señora de Coromoto Venezuela védőszentjének szentelt keresztény plébánia ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.713721,
+                        8.284107
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Resucitado",
+                  "text": "Az 1975. május 25-én alapított Parroquia Jesús Resucitado katolikus keresztény központként szolgál, amely a feltámadt Krisztust tiszteli ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.687265,
+                        8.337856
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "Az 1996. december 12-én felavatott Parroquia Nuestra Señora de Guadalupe a tisztelt mexikói Szűzanya iránti keresztény áhítatot hozza el ferrominera-orinoco-economic-v2-be.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.726243,
+                        8.283006
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Teresa de Jesús",
+                  "text": "Az 1983. október 15-én megnyitott Parroquia Santa Teresa de Jesús egy kármelita szentet tisztelő keresztény plébániaként áll ferrominera-orinoco-economic-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.733896,
+                        8.286203
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a Mirador festői, megemelt kilátópontot kínál, ahonnan a látogatók beláthatják ferrominera-orinoco-economic-v2 városi és természeti táját.",
+                  "category": "natural",
+                  "coords": [
+                        -62.698327,
+                        8.307683
+                  ]
+            },
+            {
+                  "name": "Mirador Turístico",
+                  "text": "A Mirador Turístico egy dedikált kilátószerkezet, amely széles panorámás kilátást nyújt a turistáknak ferrominera-orinoco-economic-v2 tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -62.700969,
+                        8.305548
+                  ]
+            },
+            {
+                  "name": "Playa Cachamay",
+                  "text": "A Playa Cachamay egy élénk folyóparti üdülőhely, amely vízparti kikapcsolódást nyújt a Caroní folyó partján ferrominera-orinoco-economic-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.690003,
+                        8.313731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parroquia Catedral San Juan Pablo II",
+                  "text": "Înființată pe 8 februarie 2018, Parroquia Catedral San Juan Pablo II servește drept sediu al Diecezei de Ciudad Guayana în zona Ferrominera Orinoco.",
+                  "category": "religious",
+                  "coords": [
+                        -62.722111,
+                        8.296655
+                  ]
+            },
+            {
+                  "name": "Parque Loefling",
+                  "text": "Parque Loefling este un parc zoologic din districtul Ferrominera Orinoco, cunoscut pentru găzduirea a diverse specii de animale sălbatice native.",
+                  "category": "park",
+                  "coords": [
+                        -62.70369,
+                        8.294239
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Sidor",
+                  "text": "Sala de Arte Sidor este o galerie de artă ce prezintă expoziții locale și regionale în zona Ferrominera Orinoco.",
+                  "category": "museum",
+                  "coords": [
+                        -62.73093,
+                        8.293271
+                  ]
+            },
+            {
+                  "name": "Antiguo Cine",
+                  "text": "Antiguo Cine prezintă ruinele unui fost cinematograf, rămânând ca o relicvă istorică în districtul Ferrominera Orinoco.",
+                  "category": "historical",
+                  "coords": [
+                        -62.720199,
+                        8.316491
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Orinokia",
+                  "text": "Anfiteatro del Orinokia este un teatru în aer liber care găzduiește spectacole și evenimente în cartierul Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.744373,
+                        8.292495
+                  ]
+            },
+            {
+                  "name": "Auditorio de Edelca",
+                  "text": "Auditorio de Edelca este un teatru formal și o sală de auditoriu folosită pentru prezentări corporative și culturale în zona Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.726468,
+                        8.295263
+                  ]
+            },
+            {
+                  "name": "Teatro Guayana",
+                  "text": "Teatro Guayana este un teatru local ce oferă o scenă pentru artele dramatice și spectacolele comunității în districtul Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.72658,
+                        8.298094
+                  ]
+            },
+            {
+                  "name": "Salón de Lectura \"Mario Briceño Irragory\"",
+                  "text": "Salón de Lectura \"Mario Briceño Irragory\" este un centru de artă și lectură care promovează literatura în zona Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.713636,
+                        8.307627
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la UCAB",
+                  "text": "Anfiteatro de la UCAB este un amfiteatru universitar ce oferă un loc pentru evenimente studențești și spectacole de teatru în districtul Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.711933,
+                        8.296363
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Ítalo",
+                  "text": "Anfiteatro del Ítalo este un teatru cultural asociat clubului italian local, situat în cartierul Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.710322,
+                        8.281291
+                  ]
+            },
+            {
+                  "name": "Escuela de Cultura Integral \"Guayanita\"",
+                  "text": "Escuela de Cultura Integral \"Guayanita\" este un centru de arte vibrant ce oferă educație culturală cuprinzătoare în zona Ferrominera Orinoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.728401,
+                        8.284978
+                  ]
+            },
+            {
+                  "name": "Auditorio de la UNEXPO",
+                  "text": "Auditorio de la UNEXPO este un spațiu teatral universitar care deservește studenții și profesorii din ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.729231,
+                        8.280151
+                  ]
+            },
+            {
+                  "name": "Teatro Cachamay",
+                  "text": "Teatro Cachamay este un teatru local de artele spectacolului situat în apropierea zonei Cachamay din ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.703322,
+                        8.303797
+                  ]
+            },
+            {
+                  "name": "Auditorio del Loyola",
+                  "text": "Auditorio del Loyola funcționează ca un spațiu teatral educațional în incinta școlii fondate de iezuiți din ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.711414,
+                        8.300495
+                  ]
+            },
+            {
+                  "name": "Zona Rental del Ítalo",
+                  "text": "Zona Rental del Ítalo dispune de un spațiu teatral comercial în cadrul complexului de cluburi italo-venezuelean din ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.708505,
+                        8.282654
+                  ]
+            },
+            {
+                  "name": "Mercadito de Buhoneros",
+                  "text": "Mercadito de Buhoneros este o piață aglomerată în aer liber, plină de vânzători ambulanți informali din ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.717736,
+                        8.31628
+                  ]
+            },
+            {
+                  "name": "Mercado de Puerto Ordaz",
+                  "text": "Mercado de Puerto Ordaz este o mare piață municipală unde localnicii se adună pentru a cumpăra produse proaspete și mărfuri regionale în ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.716523,
+                        8.318251
+                  ]
+            },
+            {
+                  "name": "Confluencia de Los Rios Caroni y Orinoco",
+                  "text": "Confluencia de Los Rios Caroni y Orinoco este o atracție naturală spectaculoasă care marchează punctul de întâlnire distinct din punct de vedere vizual al râurilor Caroní cel întunecat și Orinoco cel noroios.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.718099,
+                        8.348966
+                  ]
+            },
+            {
+                  "name": "Ministerio Cristiano RenovaSión",
+                  "text": "Ministerio Cristiano RenovaSión servește ca centru contemporan de cult creștin pentru comunitatea evanghelică din ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.719224,
+                        8.316086
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Casa De Dios Puerta Del Cielo\"",
+                  "text": "Biserica \"Casa De Dios Puerta Del Cielo\" oferă un loc de adunare creștin pentru rugăciune și slujbe religioase în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.698202,
+                        8.342265
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Pozo De Jacob\"",
+                  "text": "Biserica \"Pozo De Jacob\" funcționează ca o unitate religioasă creștină inspirată de Fântâna lui Iacov din Biblie în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.698522,
+                        8.343828
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Nazareno",
+                  "text": "Fondată în 1966, Parroquia Jesús Nazareno este o parohie creștină istorică care îl onorează pe Iisus din Nazaret în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.728113,
+                        8.309218
+                  ]
+            },
+            {
+                  "name": "Iglesia San Charbel",
+                  "text": "Biserica San Charbel este o biserică creștină care deservește comunitatea catolică maronită, cu o dedicație Sfântului Charbel în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.732278,
+                        8.313159
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "La Iglesia de Jesucristo de los Santos de los Últimos Días deservește comunitatea Sfinților din Zilele din Urmă ca o casă de întruniri locală în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.718437,
+                        8.312076
+                  ]
+            },
+            {
+                  "name": "Primera Iglesia Evanglélica Bautista de Puerto Ordaz",
+                  "text": "Funcționând din 1963, Primera Iglesia Evanglélica Bautista de Puerto Ordaz oferă un spațiu istoric pentru cultul creștin baptist în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.715758,
+                        8.308796
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Valle",
+                  "text": "Sfințită la 29 septembrie 1966, Parroquia Nuestra Señora del Valle este un loc de rugăciune creștin dedicat veneratei Fecioare din Vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.708447,
+                        8.310419
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Coromoto",
+                  "text": "Fondată în 1969, Parroquia Nuestra Señora de Coromoto este o parohie creștină închinată Ocrotitoarei Venezuelei în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.713721,
+                        8.284107
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Resucitado",
+                  "text": "Înființată la 25 mai 1975, Parroquia Jesús Resucitado servește ca un centru creștin catolic care onorează Hristos cel Înviat în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.687265,
+                        8.337856
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "Inaugurată la 12 decembrie 1996, Parroquia Nuestra Señora de Guadalupe aduce devotamentul creștin veneratei Fecioare mexicane în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.726243,
+                        8.283006
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Teresa de Jesús",
+                  "text": "Deschisă la 15 octombrie 1983, Parroquia Santa Teresa de Jesús este o parohie creștină care onorează sfânta carmelită în ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.733896,
+                        8.286203
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest Mirador oferă un punct de vedere pitoresc, elevat, care le permite vizitatorilor să privească peisajul urban și natural din ferrominera-orinoco-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -62.698327,
+                        8.307683
+                  ]
+            },
+            {
+                  "name": "Mirador Turístico",
+                  "text": "Mirador Turístico este o structură de vizualizare dedicată, care oferă turiștilor vederi panoramice largi peisajului din ferrominera-orinoco-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -62.700969,
+                        8.305548
+                  ]
+            },
+            {
+                  "name": "Playa Cachamay",
+                  "text": "Playa Cachamay este o stațiune balneară animată pe malul râului, oferind recreere pe malul apei pe malul râului Caroní în ferrominera-orinoco-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.690003,
+                        8.313731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parroquia Catedral San Juan Pablo II",
+                  "text": "Established on February 8, 2018, the Parroquia Catedral San Juan Pablo II serves as the seat of the Diocese of Ciudad Guayana in the Ferrominera Orinoco area.",
+                  "category": "religious",
+                  "coords": [
+                        -62.722111,
+                        8.296655
+                  ]
+            },
+            {
+                  "name": "Parque Loefling",
+                  "text": "Parque Loefling is a zoological park in the Ferrominera Orinoco district, known for housing various native wildlife species.",
+                  "category": "park",
+                  "coords": [
+                        -62.70369,
+                        8.294239
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Sidor",
+                  "text": "Sala de Arte Sidor is an art gallery showcasing local and regional exhibitions in the Ferrominera Orinoco area.",
+                  "category": "museum",
+                  "coords": [
+                        -62.73093,
+                        8.293271
+                  ]
+            },
+            {
+                  "name": "Antiguo Cine",
+                  "text": "The Antiguo Cine features the ruins of a former cinema, standing as a historical remnant in the Ferrominera Orinoco district.",
+                  "category": "historical",
+                  "coords": [
+                        -62.720199,
+                        8.316491
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Orinokia",
+                  "text": "The Anfiteatro del Orinokia is an open-air theater venue hosting performances and events in the Ferrominera Orinoco neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.744373,
+                        8.292495
+                  ]
+            },
+            {
+                  "name": "Auditorio de Edelca",
+                  "text": "The Auditorio de Edelca is a formal theater and auditorium space used for corporate and cultural presentations in the Ferrominera Orinoco area.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.726468,
+                        8.295263
+                  ]
+            },
+            {
+                  "name": "Teatro Guayana",
+                  "text": "Teatro Guayana is a local theater offering a stage for dramatic arts and community performances in the Ferrominera Orinoco district.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.72658,
+                        8.298094
+                  ]
+            },
+            {
+                  "name": "Salón de Lectura \"Mario Briceño Irragory\"",
+                  "text": "The Salón de Lectura \"Mario Briceño Irragory\" is an arts and reading center promoting literature in the Ferrominera Orinoco area.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.713636,
+                        8.307627
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la UCAB",
+                  "text": "The Anfiteatro de la UCAB is a university amphitheater providing a venue for student events and theatrical performances in the Ferrominera Orinoco district.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.711933,
+                        8.296363
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Ítalo",
+                  "text": "The Anfiteatro del Ítalo is a cultural theater associated with the local Italian club, situated in the Ferrominera Orinoco neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.710322,
+                        8.281291
+                  ]
+            },
+            {
+                  "name": "Escuela de Cultura Integral \"Guayanita\"",
+                  "text": "The Escuela de Cultura Integral \"Guayanita\" is a vibrant arts center offering comprehensive cultural education in the Ferrominera Orinoco area.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.728401,
+                        8.284978
+                  ]
+            },
+            {
+                  "name": "Auditorio de la UNEXPO",
+                  "text": "The Auditorio de la UNEXPO is a university theatre venue serving students and faculty in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.729231,
+                        8.280151
+                  ]
+            },
+            {
+                  "name": "Teatro Cachamay",
+                  "text": "Teatro Cachamay is a local performing arts theatre situated near the Cachamay area in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.703322,
+                        8.303797
+                  ]
+            },
+            {
+                  "name": "Auditorio del Loyola",
+                  "text": "Auditorio del Loyola functions as an educational theatre space within the Jesuit-founded school grounds in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.711414,
+                        8.300495
+                  ]
+            },
+            {
+                  "name": "Zona Rental del Ítalo",
+                  "text": "Zona Rental del Ítalo features a commercial theatre space within the Italian-Venezuelan club complex in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.708505,
+                        8.282654
+                  ]
+            },
+            {
+                  "name": "Mercadito de Buhoneros",
+                  "text": "Mercadito de Buhoneros is a bustling open-air marketplace filled with informal street vendors in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.717736,
+                        8.31628
+                  ]
+            },
+            {
+                  "name": "Mercado de Puerto Ordaz",
+                  "text": "Mercado de Puerto Ordaz is a large municipal marketplace where locals gather to buy fresh produce and regional goods in ferrominera-orinoco-economic-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.716523,
+                        8.318251
+                  ]
+            },
+            {
+                  "name": "Confluencia de Los Rios Caroni y Orinoco",
+                  "text": "The Confluencia de Los Rios Caroni y Orinoco is a spectacular natural attraction marking the visually distinct meeting point of the dark Caroní and muddy Orinoco rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.718099,
+                        8.348966
+                  ]
+            },
+            {
+                  "name": "Ministerio Cristiano RenovaSión",
+                  "text": "Ministerio Cristiano RenovaSión serves as a contemporary Christian worship center for the evangelical community in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.719224,
+                        8.316086
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Casa De Dios Puerta Del Cielo\"",
+                  "text": "Iglesia 'Casa De Dios Puerta Del Cielo' provides a Christian gathering place for prayer and religious services in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.698202,
+                        8.342265
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Pozo De Jacob\"",
+                  "text": "Iglesia 'Pozo De Jacob' operates as a Christian religious facility drawing inspiration from the biblical Jacob's Well in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.698522,
+                        8.343828
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Nazareno",
+                  "text": "Founded in 1966, the Parroquia Jesús Nazareno is a historic Christian parish honoring Jesus of Nazareth in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.728113,
+                        8.309218
+                  ]
+            },
+            {
+                  "name": "Iglesia San Charbel",
+                  "text": "Iglesia San Charbel is a Christian church serving the Maronite Catholic community with a dedication to Saint Charbel in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.732278,
+                        8.313159
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "La Iglesia de Jesucristo de los Santos de los Últimos Días serves the Latter-day Saint community as a local meetinghouse in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.718437,
+                        8.312076
+                  ]
+            },
+            {
+                  "name": "Primera Iglesia Evanglélica Bautista de Puerto Ordaz",
+                  "text": "Operating since 1963, the Primera Iglesia Evanglélica Bautista de Puerto Ordaz offers a historical space for Baptist Christian worship in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.715758,
+                        8.308796
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Valle",
+                  "text": "Consecrated on September 29, 1966, the Parroquia Nuestra Señora del Valle is a Christian place of prayer dedicated to the revered Virgin of the Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.708447,
+                        8.310419
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Coromoto",
+                  "text": "Founded in 1969, the Parroquia Nuestra Señora de Coromoto is a Christian parish devoted to the Patroness of Venezuela in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.713721,
+                        8.284107
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Resucitado",
+                  "text": "Established on May 25, 1975, the Parroquia Jesús Resucitado serves as a Catholic Christian center honoring the Risen Christ in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.687265,
+                        8.337856
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "Inaugurated on December 12, 1996, the Parroquia Nuestra Señora de Guadalupe brings Christian devotion to the venerated Mexican Virgin to ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.726243,
+                        8.283006
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Teresa de Jesús",
+                  "text": "Opened on October 15, 1983, the Parroquia Santa Teresa de Jesús stands as a Christian parish honoring the Carmelite saint in ferrominera-orinoco-economic-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.733896,
+                        8.286203
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This Mirador offers a scenic, elevated vantage point allowing visitors to survey the urban and natural landscape of ferrominera-orinoco-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -62.698327,
+                        8.307683
+                  ]
+            },
+            {
+                  "name": "Mirador Turístico",
+                  "text": "The Mirador Turístico is a dedicated viewpoint structure providing tourists with sweeping panoramic vistas across the scenery of ferrominera-orinoco-economic-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -62.700969,
+                        8.305548
+                  ]
+            },
+            {
+                  "name": "Playa Cachamay",
+                  "text": "Playa Cachamay is a lively riverfront beach resort providing waterside recreation along the banks of the Caroní River in ferrominera-orinoco-economic-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.690003,
+                        8.313731
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-F",
     coords: [-62.7094, 8.3517],
@@ -1082,7 +8957,520 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["Mina Norte fait partie intégrante du vaste complexe charbonnier du Guasare.", "Elle complète de manière significative les capacités d'exportation de l'État de Zulia.", "L'activité de Mina Norte est un moteur économique essentiel pour la communauté environnante.", "L'extraction de charbon apporte une contribution stratégique à la performance économique nationale."],
     }, image: "/poi-images/mina-norte-coal-mine-economic-v2.webp"},
   {
-    id: "loma-de-niquel-mine-economic-v2",
+    id: "loma-de-niquel-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Guaipó",
+                  "text": "Ein markanter Gipfel in der Cordillera de la Costa, der die Bergbauregion Loma de Níquel überragt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.2053,
+                        10.111514
+                  ]
+            },
+            {
+                  "name": "Topo La Vírgen",
+                  "text": "Ein Gipfel in der zerklüfteten Berglandschaft zwischen den Bundesstaaten Miranda und Aragua.",
+                  "category": "natural",
+                  "coords": [
+                        -67.130499,
+                        10.217837
+                  ]
+            },
+            {
+                  "name": "Topo La Perdomera",
+                  "text": "Diese Erhebung bietet weite Ausblicke auf die umliegende Gebirgskette im Norden Venezuelas.",
+                  "category": "natural",
+                  "coords": [
+                        -67.14685,
+                        10.23228
+                  ]
+            },
+            {
+                  "name": "Cerro Conopial",
+                  "text": "Ein bedeutender Berg in der Küstenkordillere, der für seine reiche tropische Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -67.162042,
+                        10.218005
+                  ]
+            },
+            {
+                  "name": "Topo La Montaña",
+                  "text": "Ein Gipfel in der Übergangszone zwischen dem Küstengebirge und den zentralen Ebenen.",
+                  "category": "natural",
+                  "coords": [
+                        -67.152042,
+                        10.192621
+                  ]
+            },
+            {
+                  "name": "Topo El Corozo",
+                  "text": "Dieser nach der Corozo-Palme benannte Berg ist charakteristisch für die Flora der Region Miranda.",
+                  "category": "natural",
+                  "coords": [
+                        -67.19882,
+                        10.114028
+                  ]
+            },
+            {
+                  "name": "Cerro La Ojedeña",
+                  "text": "Ein zerklüfteter Gipfel in der Nähe des Nickel-Tagebaus, der typisch für das nordsüdliche Hochland ist.",
+                  "category": "natural",
+                  "coords": [
+                        -67.253451,
+                        10.151437
+                  ]
+            },
+            {
+                  "name": "Cerro Los Naranjos",
+                  "text": "Ein Berg, dessen Name auf die historischen Orangenhaine in dieser fruchtbaren Bergregion anspielt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.236671,
+                        10.156886
+                  ]
+            },
+            {
+                  "name": "Topo El Paují",
+                  "text": "Dieser rund 1.200 Meter hohe Berg liegt im Herzen der venezolanischen Küstenkordillere.",
+                  "category": "natural",
+                  "coords": [
+                        -67.243238,
+                        10.177838
+                  ]
+            },
+            {
+                  "name": "Topo San Francisco",
+                  "text": "Ein markanter Punkt in der Gebirgskette, die die Karibikküste vom Landesinneren trennt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.192426,
+                        10.198197
+                  ]
+            },
+            {
+                  "name": "Topo El Zinc",
+                  "text": "Der Name dieses Gipfels deutet auf den Mineralreichtum dieses Bergbaudistrikts hin.",
+                  "category": "natural",
+                  "coords": [
+                        -67.214828,
+                        10.217668
+                  ]
+            },
+            {
+                  "name": "Cerro Las Peñitas",
+                  "text": "Dieser Gipfel ist durch felsige Ausläufer und die typische Buschvegetation der Küstenberge geprägt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.099042,
+                        10.100698
+                  ]
+            },
+            {
+                  "name": "Topo Santa Elena",
+                  "text": "Ein bedeutender Aussichtspunkt an der Grenze des Bundesstaates Miranda in der Cordillera de la Costa.",
+                  "category": "natural",
+                  "coords": [
+                        -67.081661,
+                        10.178471
+                  ]
+            },
+            {
+                  "name": "Dhamma Venuvana",
+                  "text": "Ein Vipassana-Meditationszentrum, das friedlich in den Hügeln nahe der Nickelmine Loma de Níquel liegt.",
+                  "category": "religious",
+                  "coords": [
+                        -67.23045,
+                        10.175718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Guaipó",
+                  "text": "A Cordillera de la Costa egyik jellegzetes csúcsa, amely a Loma de Níquel bányavidék fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -67.2053,
+                        10.111514
+                  ]
+            },
+            {
+                  "name": "Topo La Vírgen",
+                  "text": "Hegycsúcs Miranda és Aragua államok közötti egyenetlen hegyvidéki tájon.",
+                  "category": "natural",
+                  "coords": [
+                        -67.130499,
+                        10.217837
+                  ]
+            },
+            {
+                  "name": "Topo La Perdomera",
+                  "text": "Ez a magaslat tágas kilátást nyújt Észak-Venezuela környező hegyláncaira.",
+                  "category": "natural",
+                  "coords": [
+                        -67.14685,
+                        10.23228
+                  ]
+            },
+            {
+                  "name": "Cerro Conopial",
+                  "text": "A partmenti kordillerák egyik jelentős hegye, amely gazdag trópusi biológiai sokféleségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -67.162042,
+                        10.218005
+                  ]
+            },
+            {
+                  "name": "Topo La Montaña",
+                  "text": "Hegycsúcs a part menti hegység és a központi síkság közötti átmeneti zónában.",
+                  "category": "natural",
+                  "coords": [
+                        -67.152042,
+                        10.192621
+                  ]
+            },
+            {
+                  "name": "Topo El Corozo",
+                  "text": "Ez a Corozo-pálmáról elnevezett hegy jellemző Miranda régió flórájára.",
+                  "category": "natural",
+                  "coords": [
+                        -67.19882,
+                        10.114028
+                  ]
+            },
+            {
+                  "name": "Cerro La Ojedeña",
+                  "text": "Egyenetlen csúcs a nikkelbánya közelében, amely jellemző az észak-déli felföldre.",
+                  "category": "natural",
+                  "coords": [
+                        -67.253451,
+                        10.151437
+                  ]
+            },
+            {
+                  "name": "Cerro Los Naranjos",
+                  "text": "Hegy, amelynek neve a termékeny hegyvidéki régió történelmi narancsligeteire utal.",
+                  "category": "natural",
+                  "coords": [
+                        -67.236671,
+                        10.156886
+                  ]
+            },
+            {
+                  "name": "Topo El Paují",
+                  "text": "Ez a körülbelül 1200 méter magas hegy a venezuelai partmenti kordillerák szívében található.",
+                  "category": "natural",
+                  "coords": [
+                        -67.243238,
+                        10.177838
+                  ]
+            },
+            {
+                  "name": "Topo San Francisco",
+                  "text": "Jellegzetes pont abban a hegyláncban, amely elválasztja a karibi partvidéket a belső területektől.",
+                  "category": "natural",
+                  "coords": [
+                        -67.192426,
+                        10.198197
+                  ]
+            },
+            {
+                  "name": "Topo El Zinc",
+                  "text": "Ennek a csúcsnak a neve utal a bányavidék ásványkincseire.",
+                  "category": "natural",
+                  "coords": [
+                        -67.214828,
+                        10.217668
+                  ]
+            },
+            {
+                  "name": "Cerro Las Peñitas",
+                  "text": "Ezt a csúcsot sziklás nyúlványok és a part menti hegyekre jellemző bozótos növényzet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        -67.099042,
+                        10.100698
+                  ]
+            },
+            {
+                  "name": "Topo Santa Elena",
+                  "text": "Jelentős kilátópont Miranda állam határán, a Cordillera de la Costában.",
+                  "category": "natural",
+                  "coords": [
+                        -67.081661,
+                        10.178471
+                  ]
+            },
+            {
+                  "name": "Dhamma Venuvana",
+                  "text": "Vipassana meditációs központ, amely nyugodtan fekszik a dombok között a Loma de Níquel nikkelbánya közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -67.23045,
+                        10.175718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Guaipó",
+                  "text": "Un vârf proeminent din Cordillera de la Costa, care domină regiunea minieră Loma de Níquel.",
+                  "category": "natural",
+                  "coords": [
+                        -67.2053,
+                        10.111514
+                  ]
+            },
+            {
+                  "name": "Topo La Vírgen",
+                  "text": "Un vârf în peisajul montan accidentat dintre statele Miranda și Aragua.",
+                  "category": "natural",
+                  "coords": [
+                        -67.130499,
+                        10.217837
+                  ]
+            },
+            {
+                  "name": "Topo La Perdomera",
+                  "text": "Această cotație oferă vederi largi asupra lanțului muntos înconjurător din nordul Venezuelei.",
+                  "category": "natural",
+                  "coords": [
+                        -67.14685,
+                        10.23228
+                  ]
+            },
+            {
+                  "name": "Cerro Conopial",
+                  "text": "Un munte important din Cordiliera de Coastă, cunoscut pentru bogata sa biodiversitate tropicală.",
+                  "category": "natural",
+                  "coords": [
+                        -67.162042,
+                        10.218005
+                  ]
+            },
+            {
+                  "name": "Topo La Montaña",
+                  "text": "Un vârf în zona de tranziție între munții de coastă și câmpiile centrale.",
+                  "category": "natural",
+                  "coords": [
+                        -67.152042,
+                        10.192621
+                  ]
+            },
+            {
+                  "name": "Topo El Corozo",
+                  "text": "Acest munte, numit după palmierul Corozo, este caracteristic florei din regiunea Miranda.",
+                  "category": "natural",
+                  "coords": [
+                        -67.19882,
+                        10.114028
+                  ]
+            },
+            {
+                  "name": "Cerro La Ojedeña",
+                  "text": "Un vârf accidentat lângă mina de nichel, tipic pentru zonele înalte de nord-sud.",
+                  "category": "natural",
+                  "coords": [
+                        -67.253451,
+                        10.151437
+                  ]
+            },
+            {
+                  "name": "Cerro Los Naranjos",
+                  "text": "Un munte al cărui nume face aluzie la livezile istorice de portocali din această regiune montană fertilă.",
+                  "category": "natural",
+                  "coords": [
+                        -67.236671,
+                        10.156886
+                  ]
+            },
+            {
+                  "name": "Topo El Paují",
+                  "text": "Acest munte de aproximativ 1.200 de metri înălțime este situat în inima Cordilierei de Coastă din Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -67.243238,
+                        10.177838
+                  ]
+            },
+            {
+                  "name": "Topo San Francisco",
+                  "text": "Un punct proeminent în lanțul muntos care separă coasta Caraibelor de interiorul țării.",
+                  "category": "natural",
+                  "coords": [
+                        -67.192426,
+                        10.198197
+                  ]
+            },
+            {
+                  "name": "Topo El Zinc",
+                  "text": "Numele acestui vârf indică bogăția minerală a acestui district minier.",
+                  "category": "natural",
+                  "coords": [
+                        -67.214828,
+                        10.217668
+                  ]
+            },
+            {
+                  "name": "Cerro Las Peñitas",
+                  "text": "Acest vârf se caracterizează prin aflorimente stâncoase și vegetația de tufișuri tipică munților de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -67.099042,
+                        10.100698
+                  ]
+            },
+            {
+                  "name": "Topo Santa Elena",
+                  "text": "Un punct de observație important la granița statului Miranda, în Cordillera de la Costa.",
+                  "category": "natural",
+                  "coords": [
+                        -67.081661,
+                        10.178471
+                  ]
+            },
+            {
+                  "name": "Dhamma Venuvana",
+                  "text": "Un centru de meditație Vipassana situat liniștit în dealurile de lângă mina de nichel Loma de Níquel.",
+                  "category": "religious",
+                  "coords": [
+                        -67.23045,
+                        10.175718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Guaipó",
+                  "text": "A prominent peak in the Cordillera de la Costa, towering over the Loma de Níquel mining region.",
+                  "category": "natural",
+                  "coords": [
+                        -67.2053,
+                        10.111514
+                  ]
+            },
+            {
+                  "name": "Topo La Vírgen",
+                  "text": "A peak in the rugged mountainous landscape between the states of Miranda and Aragua.",
+                  "category": "natural",
+                  "coords": [
+                        -67.130499,
+                        10.217837
+                  ]
+            },
+            {
+                  "name": "Topo La Perdomera",
+                  "text": "This elevation offers wide views of the surrounding mountain range in northern Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -67.14685,
+                        10.23228
+                  ]
+            },
+            {
+                  "name": "Cerro Conopial",
+                  "text": "A significant mountain in the Coastal Cordillera, known for its rich tropical biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -67.162042,
+                        10.218005
+                  ]
+            },
+            {
+                  "name": "Topo La Montaña",
+                  "text": "A peak located in the transition zone between the coastal mountains and the central plains.",
+                  "category": "natural",
+                  "coords": [
+                        -67.152042,
+                        10.192621
+                  ]
+            },
+            {
+                  "name": "Topo El Corozo",
+                  "text": "Named after the Corozo palm, this mountain is characteristic of the flora of the Miranda region.",
+                  "category": "natural",
+                  "coords": [
+                        -67.19882,
+                        10.114028
+                  ]
+            },
+            {
+                  "name": "Cerro La Ojedeña",
+                  "text": "A rugged summit near the nickel mine, typical of the north-south highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -67.253451,
+                        10.151437
+                  ]
+            },
+            {
+                  "name": "Cerro Los Naranjos",
+                  "text": "A mountain whose name alludes to the historical orange groves in this fertile highland region.",
+                  "category": "natural",
+                  "coords": [
+                        -67.236671,
+                        10.156886
+                  ]
+            },
+            {
+                  "name": "Topo El Paují",
+                  "text": "This mountain, approximately 1,200 meters high, is located in the heart of the Venezuelan Coastal Cordillera.",
+                  "category": "natural",
+                  "coords": [
+                        -67.243238,
+                        10.177838
+                  ]
+            },
+            {
+                  "name": "Topo San Francisco",
+                  "text": "A prominent point in the mountain range that separates the Caribbean coast from the interior.",
+                  "category": "natural",
+                  "coords": [
+                        -67.192426,
+                        10.198197
+                  ]
+            },
+            {
+                  "name": "Topo El Zinc",
+                  "text": "The name of this peak hints at the mineral wealth of this mining district.",
+                  "category": "natural",
+                  "coords": [
+                        -67.214828,
+                        10.217668
+                  ]
+            },
+            {
+                  "name": "Cerro Las Peñitas",
+                  "text": "This peak is characterized by rocky outcrops and the scrub vegetation typical of the coastal mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -67.099042,
+                        10.100698
+                  ]
+            },
+            {
+                  "name": "Topo Santa Elena",
+                  "text": "A significant viewpoint on the border of Miranda State in the Cordillera de la Costa.",
+                  "category": "natural",
+                  "coords": [
+                        -67.081661,
+                        10.178471
+                  ]
+            },
+            {
+                  "name": "Dhamma Venuvana",
+                  "text": "A Vipassana meditation center nestled peacefully in the hills near the Loma de Níquel nickel mine.",
+                  "category": "religious",
+                  "coords": [
+                        -67.23045,
+                        10.175718
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-D",
     coords: [-67.1667, 10.15],
@@ -1125,7 +9513,88 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["Loma de Níquel est un projet clé pour la diversification de la base de matières premières.", "La transformation intégrée sur place augmente considérablement la valeur des exportations.", "Le ferronickel de cette mine est très prisé par le secteur mondial de l'acier inoxydable.", "L'exploitation est un acteur économique majeur dans la zone frontalière d'Aragua et de Miranda."],
     }, image: "/poi-images/loma-de-niquel-mine-economic-v2.webp"},
   {
-    id: "jose-petrochemical-complex-economic-v2",
+    id: "jose-petrochemical-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Isla Piritu Adentro",
+                  "text": "Ein Leuchtturm auf einer kleinen, unbewohnten Insel vor der Industrieküste von Jose.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.912834,
+                        10.144219
+                  ]
+            },
+            {
+                  "name": "Basílica del Cristo de José",
+                  "text": "Eine moderne Basilika an der Autobahn, die für ihre markante kreisförmige Kuppelarchitektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -64.925413,
+                        10.078962
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Isla Piritu Adentro",
+                  "text": "Világítótorony egy kis lakatlan szigeten Jose ipari partjai előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.912834,
+                        10.144219
+                  ]
+            },
+            {
+                  "name": "Basílica del Cristo de José",
+                  "text": "Modern bazilika az autópálya mellett, amely jellegzetes kör alakú kupolájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -64.925413,
+                        10.078962
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Isla Piritu Adentro",
+                  "text": "Un far pe o mică insulă nelocuită de lângă coasta industrială a orașului Jose.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.912834,
+                        10.144219
+                  ]
+            },
+            {
+                  "name": "Basílica del Cristo de José",
+                  "text": "O bazilică modernă lângă autostradă, cunoscută pentru arhitectura sa circulară cu cupolă.",
+                  "category": "religious",
+                  "coords": [
+                        -64.925413,
+                        10.078962
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro Isla Piritu Adentro",
+                  "text": "A lighthouse on a small uninhabited island off the industrial coast of Jose.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.912834,
+                        10.144219
+                  ]
+            },
+            {
+                  "name": "Basílica del Cristo de José",
+                  "text": "A modern basilica by the highway known for its striking circular dome architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -64.925413,
+                        10.078962
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-B",
     coords: [-64.8417, 10.1083],
@@ -1169,7 +9638,160 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     },
   },
   {
-    id: "moron-petrochemical-complex-economic-v2",
+    id: "moron-petrochemical-complex-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balneario Palma Sola",
+                  "text": "Ein beliebtes Küstenresort in Morón mit feinen Sandstränden am warmen Wasser des Karibischen Meeres.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.175909,
+                        10.508686
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Mormones",
+                  "text": "Dieses moderne Gemeindehaus der Heiligen der Letzten Tage dient den mormonischen Gläubigen in der Region Morón.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.19742,
+                        10.485912
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana",
+                  "text": "Die Kirche Santa Ana ist ein traditionelles religiöses Bauwerk im Herzen von Morón und ein lokaler Orientierungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.199675,
+                        10.488059
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Juan José Mora",
+                  "text": "Der zentrale Markt von Juan José Mora, auf dem täglich frische regionale Produkte und Handwerk angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.197295,
+                        10.491627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balneario Palma Sola",
+                  "text": "Népszerű tengerparti üdülőhely Morónban, finom homokos strandokkal a Karib-tenger meleg vizeinél.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.175909,
+                        10.508686
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Mormones",
+                  "text": "Az Utolsó Napi Szenteknek ez a modern gyülekezeti háza a Morón régió mormon hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.19742,
+                        10.485912
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana",
+                  "text": "A Santa Ana-templom egy hagyományos vallási épület Morón szívében, amely helyi tájékozódási pont.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.199675,
+                        10.488059
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Juan José Mora",
+                  "text": "Juan José Mora központi piaca, ahol naponta friss regionális termékeket és kézműves árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.197295,
+                        10.491627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balneario Palma Sola",
+                  "text": "O stațiune de coastă populară în Morón, cu plaje cu nisip fin la apele calde ale Mării Caraibilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.175909,
+                        10.508686
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Mormones",
+                  "text": "Această casă de întruniri modernă a Sfinților din Zilele din Urmă servește credincioșilor mormoni din regiunea Morón.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.19742,
+                        10.485912
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana",
+                  "text": "Biserica Santa Ana este un edificiu religios tradițional în inima orașului Morón și un reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.199675,
+                        10.488059
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Juan José Mora",
+                  "text": "Piața centrală din Juan José Mora, unde sunt oferite zilnic produse regionale proaspete și obiecte de artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.197295,
+                        10.491627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balneario Palma Sola",
+                  "text": "A popular coastal resort area in Morón featuring fine sandy beaches along the warm Caribbean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.175909,
+                        10.508686
+                  ]
+            },
+            {
+                  "name": "Iglesia de los Mormones",
+                  "text": "This modern meetinghouse of the Latter-day Saints serves the Mormon congregation in the Morón region.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.19742,
+                        10.485912
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana",
+                  "text": "The Santa Ana Church is a traditional religious building in the heart of Morón and a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.199675,
+                        10.488059
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Juan José Mora",
+                  "text": "The central market of Juan José Mora where fresh regional produce and local crafts are sold daily.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.197295,
+                        10.491627
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-G",
     coords: [-68.1833, 10.4833],
@@ -1256,7 +9878,268 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       fr: ["El Tablazo est l'un des plus grands sites pétrochimiques d'Amérique du Sud.", "Le site utilise les riches gisements de gaz naturel autour du lac Maracaibo.", "La production de PVC est essentielle pour l'industrie de la construction au Venezuela et au-delà.", "L'installation constitue un centre de valeur ajoutée industrielle dans la région de Zulia."],
     }, image: "/poi-images/el-tablazo-petrochemical-economic-v2.webp"},
   {
-    id: "caruachi-hydroelectric-plant-economic-v2",
+    id: "caruachi-hydroelectric-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa El Dorado",
+                  "text": "Dieser Strandurlaubsort bietet Erholung an den Ufern nahe dem Wasserkraftwerk Caruachi.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.862477,
+                        8.150685
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "Playa Grande ist ein ausgedehnter Sandstrand und lokaler Urlaubsort in der Region des Caruachi-Staudamms.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.858904,
+                        8.152124
+                  ]
+            },
+            {
+                  "name": "Playa Los Morichales",
+                  "text": "An diesem Strandbad nahe dem Caruachi-Kraftwerk säumen typische Moriche-Palmen die Wasserlinie.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.91357,
+                        8.120853
+                  ]
+            },
+            {
+                  "name": "Playa Dorada",
+                  "text": "Playa Dorada zeichnet sich durch seine goldfarbenen Sandstrände am Rande des Caruachi-Stausees aus.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.917671,
+                        8.117136
+                  ]
+            },
+            {
+                  "name": "Playa Bonita",
+                  "text": "Dieses als \"Schöner Strand\" bekannte Resort ist ein beliebtes Erholungsgebiet am Caruachi-Stausee.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.799794,
+                        8.200453
+                  ]
+            },
+            {
+                  "name": "La Terecaya",
+                  "text": "Das Strandresort La Terecaya bietet direkten Zugang zu den Gewässern der Caruachi-Region.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.78377,
+                        8.196714
+                  ]
+            },
+            {
+                  "name": "Aditorio de Caruachi",
+                  "text": "Dieses Theater und Auditorium dient als kultureller Veranstaltungsort nahe der Caruachi-Anlage.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.789196,
+                        8.160637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa El Dorado",
+                  "text": "Ez a tengerparti üdülőhely kikapcsolódást kínál a Caruachi vízerőmű közelében lévő partokon.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.862477,
+                        8.150685
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "A Playa Grande egy kiterjedt homokos strand és helyi üdülőhely a Caruachi-gát régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.858904,
+                        8.152124
+                  ]
+            },
+            {
+                  "name": "Playa Los Morichales",
+                  "text": "Ezen a Caruachi erőmű közelében lévő strandon tipikus moriche pálmák szegélyezik a vízvonalat.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.91357,
+                        8.120853
+                  ]
+            },
+            {
+                  "name": "Playa Dorada",
+                  "text": "A Playa Dorada a Caruachi-víztározó szélén fekvő aranyszínű homokos strandjairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.917671,
+                        8.117136
+                  ]
+            },
+            {
+                  "name": "Playa Bonita",
+                  "text": "Ez a \"Szép strand\" néven ismert üdülőhely a Caruachi-víztározó népszerű rekreációs területe.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.799794,
+                        8.200453
+                  ]
+            },
+            {
+                  "name": "La Terecaya",
+                  "text": "A La Terecaya tengerparti üdülőhely közvetlen hozzáférést biztosít a Caruachi régió vizeihez.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.78377,
+                        8.196714
+                  ]
+            },
+            {
+                  "name": "Aditorio de Caruachi",
+                  "text": "Ez a színház és előadóterem kulturális rendezvények helyszínéül szolgál a Caruachi létesítmény közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.789196,
+                        8.160637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa El Dorado",
+                  "text": "Această stațiune pe plajă oferă relaxare pe țărmurile din apropierea hidrocentralei Caruachi.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.862477,
+                        8.150685
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "Playa Grande este o plajă largă de nisip și o stațiune locală din regiunea barajului Caruachi.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.858904,
+                        8.152124
+                  ]
+            },
+            {
+                  "name": "Playa Los Morichales",
+                  "text": "La această plajă din apropierea centralei Caruachi, palmierii tipici moriche mărginesc linia apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.91357,
+                        8.120853
+                  ]
+            },
+            {
+                  "name": "Playa Dorada",
+                  "text": "Playa Dorada se distinge prin plajele sale cu nisip auriu de pe marginea lacului de acumulare Caruachi.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.917671,
+                        8.117136
+                  ]
+            },
+            {
+                  "name": "Playa Bonita",
+                  "text": "Această stațiune cunoscută sub numele de „Plaja Frumoasă” este o zonă de recreere populară la lacul de acumulare Caruachi.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.799794,
+                        8.200453
+                  ]
+            },
+            {
+                  "name": "La Terecaya",
+                  "text": "Stațiunea pe plajă La Terecaya oferă acces direct la apele regiunii Caruachi.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.78377,
+                        8.196714
+                  ]
+            },
+            {
+                  "name": "Aditorio de Caruachi",
+                  "text": "Acest teatru și auditoriu servește drept loc de desfășurare a evenimentelor culturale în apropiere de complexul Caruachi.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.789196,
+                        8.160637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa El Dorado",
+                  "text": "This beach resort offers recreation on the shores near the Caruachi hydroelectric plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.862477,
+                        8.150685
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "Playa Grande is an extensive sandy beach and local resort in the Caruachi Dam region.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.858904,
+                        8.152124
+                  ]
+            },
+            {
+                  "name": "Playa Los Morichales",
+                  "text": "At this beach resort near the Caruachi plant, typical moriche palms line the water's edge.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.91357,
+                        8.120853
+                  ]
+            },
+            {
+                  "name": "Playa Dorada",
+                  "text": "Playa Dorada is characterised by its golden sandy beaches on the edge of the Caruachi reservoir.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.917671,
+                        8.117136
+                  ]
+            },
+            {
+                  "name": "Playa Bonita",
+                  "text": "This resort, known as \"Beautiful Beach\", is a popular recreation area on the Caruachi reservoir.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.799794,
+                        8.200453
+                  ]
+            },
+            {
+                  "name": "La Terecaya",
+                  "text": "The La Terecaya beach resort offers direct access to the waters of the Caruachi region.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.78377,
+                        8.196714
+                  ]
+            },
+            {
+                  "name": "Aditorio de Caruachi",
+                  "text": "This theatre and auditorium serves as a cultural venue near the Caruachi facility.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.789196,
+                        8.160637
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "VE-F",
     coords: [-62.8317, 8.1256],

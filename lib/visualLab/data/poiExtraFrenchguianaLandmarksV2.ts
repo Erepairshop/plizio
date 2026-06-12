@@ -103,7 +103,52 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Inaugurée en 1833.", "Classée Monument Historique."],
     }, image: "/poi-images/gf-landmark-cathedrale-saint-sauveur.webp"},
   {
-    id: "gf-landmark-petit-saut-dam",
+    id: "gf-landmark-petit-saut-dam", "sights": {
+      "de": [
+            {
+                  "name": "Camp Saut Tigre",
+                  "text": "Ein Dschungelcamp am Petit-Saut-Staudamm, das als Ausgangspunkt zur Erkundung des Stausees und der versunkenen Wälder dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.029463,
+                        5.013387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camp Saut Tigre",
+                  "text": "A Petit-Saut gát közelében található erdei tábor, amely a víztározó és az elárasztott erdő felfedezésének bázisa.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.029463,
+                        5.013387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camp Saut Tigre",
+                  "text": "O tabără în junglă situată lângă barajul Petit-Saut, servind ca bază pentru explorarea lacului de acumulare și a pădurii inundate.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.029463,
+                        5.013387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camp Saut Tigre",
+                  "text": "A jungle camp located near the Petit-Saut dam, serving as a base for exploring the reservoir and flooded forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.029463,
+                        5.013387
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-53.0519, 5.0664],
@@ -153,7 +198,124 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Achèvement en 1994.", "Plus grand lac artificiel de la région."],
     }, image: "/poi-images/gf-landmark-petit-saut-dam.webp"},
   {
-    id: "gf-landmark-pont-oyapock",
+    id: "gf-landmark-pont-oyapock", "sights": {
+      "de": [
+            {
+                  "name": "Museu Kuahí",
+                  "text": "Indigenes Museum in Oiapoque, das die Kultur der Völker der Region Oyapock zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -51.836157,
+                        3.845558
+                  ]
+            },
+            {
+                  "name": "Monumento marco zero",
+                  "text": "Denkmal am „Nullpunkt“ nahe der Brücke über den Oyapock zwischen Frankreich und Brasilien.",
+                  "category": "historical",
+                  "coords": [
+                        -51.836866,
+                        3.847254
+                  ]
+            },
+            {
+                  "name": "Frutas e Verduras",
+                  "text": "Markt für Obst und Gemüse in der brasilianischen Grenzstadt Oiapoque.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.833157,
+                        3.848237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Kuahí",
+                  "text": "Indigén múzeum Oiapoque-ban, amely az Oyapock-vidék népeinek kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -51.836157,
+                        3.845558
+                  ]
+            },
+            {
+                  "name": "Monumento marco zero",
+                  "text": "Emlékmű a „nulla pontnál” a Franciaországot és Brazíliát összekötő Oyapock-híd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -51.836866,
+                        3.847254
+                  ]
+            },
+            {
+                  "name": "Frutas e Verduras",
+                  "text": "Zöldség- és gyümölcspiac a brazil határmenti Oiapoque városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.833157,
+                        3.848237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Kuahí",
+                  "text": "Muzeu indigen în Oiapoque, prezentând cultura popoarelor din regiunea Oyapock.",
+                  "category": "museum",
+                  "coords": [
+                        -51.836157,
+                        3.845558
+                  ]
+            },
+            {
+                  "name": "Monumento marco zero",
+                  "text": "Monument situat la „punctul zero”, lângă podul ce leagă Franța de Brazilia peste Oyapock.",
+                  "category": "historical",
+                  "coords": [
+                        -51.836866,
+                        3.847254
+                  ]
+            },
+            {
+                  "name": "Frutas e Verduras",
+                  "text": "Piață de fructe și legume în orașul brazilian de frontieră Oiapoque.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.833157,
+                        3.848237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Kuahí",
+                  "text": "Indigenous museum in Oiapoque showcasing the culture of the Oyapock region peoples.",
+                  "category": "museum",
+                  "coords": [
+                        -51.836157,
+                        3.845558
+                  ]
+            },
+            {
+                  "name": "Monumento marco zero",
+                  "text": "Landmark monument at \"zero point\" near the bridge connecting France and Brazil over the Oyapock.",
+                  "category": "historical",
+                  "coords": [
+                        -51.836866,
+                        3.847254
+                  ]
+            },
+            {
+                  "name": "Frutas e Verduras",
+                  "text": "Fruit and vegetable market in the Brazilian border town of Oiapoque.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.833157,
+                        3.848237
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-51.8028, 3.8814],
@@ -253,7 +415,160 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Fondé en 1901.", "Collections d'art amérindien."],
     }, image: "/poi-images/gf-landmark-musee-alexandre-franconie.webp"},
   {
-    id: "gf-landmark-chateau-de-kourou",
+    id: "gf-landmark-chateau-de-kourou", "sights": {
+      "de": [
+            {
+                  "name": "Oceanside",
+                  "text": "Ein Aussichtspunkt an der Küste mit Blick über den Atlantik zu den Teufelsinseln.",
+                  "category": "natural",
+                  "coords": [
+                        -52.626138,
+                        5.159765
+                  ]
+            },
+            {
+                  "name": "Plage des Roches",
+                  "text": "Ein Sandstrand, der durch große, abgerundete Granitfelsen am Ufer geprägt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.627255,
+                        5.160769
+                  ]
+            },
+            {
+                  "name": "Plage Pim-Poum",
+                  "text": "Ein familienfreundlicher Sandstrand in der Nähe der Mündung des Flusses Kourou.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.633136,
+                        5.163528
+                  ]
+            },
+            {
+                  "name": "Plage de la Cocoteraie",
+                  "text": "Ein malerischer Strand mit hohen Kokospalmen entlang der Atlantikküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.637148,
+                        5.166054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oceanside",
+                  "text": "Tengerparti kilátópont az Atlanti-óceánra és a Megváltás-szigetekre.",
+                  "category": "natural",
+                  "coords": [
+                        -52.626138,
+                        5.159765
+                  ]
+            },
+            {
+                  "name": "Plage des Roches",
+                  "text": "Homokos tengerpart, amelyet a vízparton heverő nagy, lekerekített gránitsziklák jellemeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.627255,
+                        5.160769
+                  ]
+            },
+            {
+                  "name": "Plage Pim-Poum",
+                  "text": "Családbarát homokos strand a Kourou-folyó torkolatának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.633136,
+                        5.163528
+                  ]
+            },
+            {
+                  "name": "Plage de la Cocoteraie",
+                  "text": "Festői tengerpart magas kókuszpálmákkal az Atlanti-óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.637148,
+                        5.166054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oceanside",
+                  "text": "Punct de belvedere de coastă cu vedere peste Atlantic spre Insulele Salvării.",
+                  "category": "natural",
+                  "coords": [
+                        -52.626138,
+                        5.159765
+                  ]
+            },
+            {
+                  "name": "Plage des Roches",
+                  "text": "Plajă cu nisip caracterizată prin blocurile mari de granit rotunjite de la marginea apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.627255,
+                        5.160769
+                  ]
+            },
+            {
+                  "name": "Plage Pim-Poum",
+                  "text": "Plajă cu nisip potrivită pentru familii, situată lângă vărsarea râului Kourou.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.633136,
+                        5.163528
+                  ]
+            },
+            {
+                  "name": "Plage de la Cocoteraie",
+                  "text": "Plajă pitorească mărginită de cocotieri înalți de-a lungul coastei atlantice.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.637148,
+                        5.166054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oceanside",
+                  "text": "A scenic coastal viewpoint with views across the Atlantic towards the Salvation Islands.",
+                  "category": "natural",
+                  "coords": [
+                        -52.626138,
+                        5.159765
+                  ]
+            },
+            {
+                  "name": "Plage des Roches",
+                  "text": "A sandy beach characterised by its large rounded granite boulders at the water's edge.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.627255,
+                        5.160769
+                  ]
+            },
+            {
+                  "name": "Plage Pim-Poum",
+                  "text": "A family-friendly sandy beach located near the Kourou river mouth.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.633136,
+                        5.163528
+                  ]
+            },
+            {
+                  "name": "Plage de la Cocoteraie",
+                  "text": "A picturesque beach lined with tall coconut palms along the Atlantic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.637148,
+                        5.166054
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-52.6264, 5.1611],
@@ -303,7 +618,88 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Nommée d'après Alfred Dreyfus.", "Fait partie du patrimoine colonial."],
     }, image: "/poi-images/gf-landmark-chateau-de-kourou.webp"},
   {
-    id: "gf-landmark-eglise-saint-joseph",
+    id: "gf-landmark-eglise-saint-joseph", "sights": {
+      "de": [
+            {
+                  "name": "Chapelle Sainte-Kateri-Tekakwitha",
+                  "text": "Eine dem katholischen Glauben gewidmete Kapelle, benannt nach der ersten indianischen Heiligen Amerikas.",
+                  "category": "religious",
+                  "coords": [
+                        -53.262676,
+                        5.477725
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Berühmt für ihre farbenfrohen Innenmalereien, die Ende des 19. Jahrhunderts von einem Sträfling geschaffen wurden.",
+                  "category": "religious",
+                  "coords": [
+                        -53.206593,
+                        5.479379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chapelle Sainte-Kateri-Tekakwitha",
+                  "text": "A katolikus hitnek szentelt kápolna, amely Amerika első indián szentjéről kapta nevét.",
+                  "category": "religious",
+                  "coords": [
+                        -53.262676,
+                        5.477725
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Híres színes belső falfestményeiről, amelyeket a 19. század végén egy fegyenc készített.",
+                  "category": "religious",
+                  "coords": [
+                        -53.206593,
+                        5.479379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chapelle Sainte-Kateri-Tekakwitha",
+                  "text": "O capelă dedicată credinței catolice, numită după prima sfântă amerindiană din America.",
+                  "category": "religious",
+                  "coords": [
+                        -53.262676,
+                        5.477725
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Slavă pentru picturile sale interioare colorate, realizate de un deținut la sfârșitul secolului al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -53.206593,
+                        5.479379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chapelle Sainte-Kateri-Tekakwitha",
+                  "text": "A Catholic chapel named after the first Native American saint, Kateri Tekakwitha.",
+                  "category": "religious",
+                  "coords": [
+                        -53.262676,
+                        5.477725
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Famous for its vibrant interior murals painted by a convict in the late 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        -53.206593,
+                        5.479379
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-53.2081, 5.4772],
@@ -353,7 +749,88 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Peinte par le bagnard Pierre Huguet.", "Classée Monument Historique."],
     }, image: "/poi-images/gf-landmark-eglise-saint-joseph.webp"},
   {
-    id: "gf-landmark-maison-felix-eboue",
+    id: "gf-landmark-maison-felix-eboue", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Saint-Sauveur",
+                  "text": "Die im 19. Jahrhundert errichtete Kathedrale mit ihrer gelben Fassade ist der wichtigste Sakralbau von Cayenne.",
+                  "category": "religious",
+                  "coords": [
+                        -52.331553,
+                        4.939816
+                  ]
+            },
+            {
+                  "name": "Église Advantiste du Septième Jour",
+                  "text": "Ein religiöser Komplex der Siebenten-Tags-Adventisten für Gottesdienste und Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330814,
+                        4.942508
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Saint-Sauveur",
+                  "text": "A 19. században épült sárga homlokzatú székesegyház Cayenne legfontosabb szakrális építménye.",
+                  "category": "religious",
+                  "coords": [
+                        -52.331553,
+                        4.939816
+                  ]
+            },
+            {
+                  "name": "Église Advantiste du Septième Jour",
+                  "text": "A Hetednapi Adventista Egyház vallási komplexuma istentiszteletek és közösségi élet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330814,
+                        4.942508
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Saint-Sauveur",
+                  "text": "Catedrala cu fațadă galbenă, construită în secolul al XIX-lea, este cel mai important edificiu sacru din Cayenne.",
+                  "category": "religious",
+                  "coords": [
+                        -52.331553,
+                        4.939816
+                  ]
+            },
+            {
+                  "name": "Église Advantiste du Septième Jour",
+                  "text": "Un complex religios al Adventiștilor de Ziua a Șaptea pentru servicii divine și viață comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330814,
+                        4.942508
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Saint-Sauveur",
+                  "text": "The 19th-century cathedral with its distinctive yellow facade is Cayenne's most important sacred building.",
+                  "category": "religious",
+                  "coords": [
+                        -52.331553,
+                        4.939816
+                  ]
+            },
+            {
+                  "name": "Église Advantiste du Septième Jour",
+                  "text": "A religious complex of the Seventh-day Adventist Church for worship and community activities.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330814,
+                        4.942508
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-52.332, 4.939],
@@ -453,7 +930,52 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Érigé en 1907.", "Célèbre pour ses soupes et épices."],
     }, image: "/poi-images/gf-landmark-marche-de-cayenne.webp"},
   {
-    id: "gf-landmark-phare-de-lenfant-perdu",
+    id: "gf-landmark-phare-de-lenfant-perdu", "sights": {
+      "de": [
+            {
+                  "name": "Phare de l'Enfant Perdu",
+                  "text": "Ein abgelegener Leuchtturm auf einer felsigen Insel im Atlantik, der Schiffen vor der Küste von Cayenne den Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.354329,
+                        5.042148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de l'Enfant Perdu",
+                  "text": "Egy távoli világítótorony az Atlanti-óceán egyik sziklás szigetén, amely a Cayenne partjai előtt haladó hajókat segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.354329,
+                        5.042148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de l'Enfant Perdu",
+                  "text": "Un far izolat situat pe o insuliță stâncoasă din Atlantic, care ghidează navele în largul coastei orașului Cayenne.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.354329,
+                        5.042148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare de l'Enfant Perdu",
+                  "text": "A remote lighthouse situated on a rocky islet in the Atlantic, guiding ships off the coast of Cayenne.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.354329,
+                        5.042148
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-52.355, 5.04],
@@ -553,7 +1075,268 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Destiné aux délinquants récidivistes.", "Un lieu chargé d'une histoire sombre."],
     }, image: "/poi-images/gf-landmark-camp-relegation.webp"},
   {
-    id: "gf-landmark-mairie-de-cayenne",
+    id: "gf-landmark-mairie-de-cayenne", "sights": {
+      "de": [
+            {
+                  "name": "Plage Nadau",
+                  "text": "Ein palmengesäumter Sandstrand bei Cayenne, der bei Einheimischen für Picknicks am Atlantik beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.329304,
+                        4.943214
+                  ]
+            },
+            {
+                  "name": "Musée des Cultures Guyanaises",
+                  "text": "Dieses Museum widmet sich der ethnischen Vielfalt und den Traditionen der guyanischen Volksgruppen.",
+                  "category": "museum",
+                  "coords": [
+                        -52.329585,
+                        4.941181
+                  ]
+            },
+            {
+                  "name": "Ferronnerie D'Art",
+                  "text": "Eine Galerie für Kunstschmiedearbeiten, in der traditionelle guyanische Motive in Metall verewigt werden.",
+                  "category": "museum",
+                  "coords": [
+                        -52.327749,
+                        4.941893
+                  ]
+            },
+            {
+                  "name": "Maison Félix Éboué",
+                  "text": "Das Geburtshaus des berühmten guyanischen Staatsmannes Félix Éboué dient heute als biografisches Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -52.328202,
+                        4.938865
+                  ]
+            },
+            {
+                  "name": "Assemblée Évangélique La Porte",
+                  "text": "Ein evangelisches Gebetshaus im Herzen von Cayenne, das eine aktive christliche Gemeinde beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330941,
+                        4.94042
+                  ]
+            },
+            {
+                  "name": "Mosquée Assalam Cayenne",
+                  "text": "Diese Moschee ist das religiöse Zentrum der muslimischen Gemeinschaft in der Hauptstadt Cayenne.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329138,
+                        4.938996
+                  ]
+            },
+            {
+                  "name": "Église Évangelique",
+                  "text": "Dieses bescheidene Kirchengebäude ist ein Ort der Andacht für die evangelischen Gläubigen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.325948,
+                        4.94065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage Nadau",
+                  "text": "Pálmafákkal szegélyezett homokos tengerpart Cayenne közelében, a helyiek kedvelt piknikezőhelye az Atlanti-óceánnál.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.329304,
+                        4.943214
+                  ]
+            },
+            {
+                  "name": "Musée des Cultures Guyanaises",
+                  "text": "Ez a múzeum a guyanai népcsoportok etnikai sokszínűségének és hagyományainak szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        -52.329585,
+                        4.941181
+                  ]
+            },
+            {
+                  "name": "Ferronnerie D'Art",
+                  "text": "Művészi kovácsműhely és galéria, ahol hagyományos guyanai motívumokat örökítenek meg fémben.",
+                  "category": "museum",
+                  "coords": [
+                        -52.327749,
+                        4.941893
+                  ]
+            },
+            {
+                  "name": "Maison Félix Éboué",
+                  "text": "A híres guyanai államférfi, Félix Éboué szülőháza, amely ma életrajzi múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -52.328202,
+                        4.938865
+                  ]
+            },
+            {
+                  "name": "Assemblée Évangélique La Porte",
+                  "text": "Evangélikus imaház Cayenne szívében, amely egy aktív keresztény gyülekezetnek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330941,
+                        4.94042
+                  ]
+            },
+            {
+                  "name": "Mosquée Assalam Cayenne",
+                  "text": "Ez a mecset a Cayenne-i muszlim közösség vallási központja a fővárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329138,
+                        4.938996
+                  ]
+            },
+            {
+                  "name": "Église Évangelique",
+                  "text": "Ez a szerény templomépület az evangélikus hívők áhítatának helyszíne a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.325948,
+                        4.94065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage Nadau",
+                  "text": "O plajă cu nisip și palmieri lângă Cayenne, populară printre localnici pentru picnicuri la malul Atlanticului.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.329304,
+                        4.943214
+                  ]
+            },
+            {
+                  "name": "Musée des Cultures Guyanaises",
+                  "text": "Acest muzeu este dedicat diversității etnice și tradițiilor grupurilor populare din Guyana.",
+                  "category": "museum",
+                  "coords": [
+                        -52.329585,
+                        4.941181
+                  ]
+            },
+            {
+                  "name": "Ferronnerie D'Art",
+                  "text": "O galerie de feronerie artistică unde motivele tradiționale din Guyana sunt imortalizate în metal.",
+                  "category": "museum",
+                  "coords": [
+                        -52.327749,
+                        4.941893
+                  ]
+            },
+            {
+                  "name": "Maison Félix Éboué",
+                  "text": "Casa natală a celebrului om de stat din Guyana, Félix Éboué, servește astăzi ca muzeu biografic.",
+                  "category": "museum",
+                  "coords": [
+                        -52.328202,
+                        4.938865
+                  ]
+            },
+            {
+                  "name": "Assemblée Évangélique La Porte",
+                  "text": "O casă de rugăciune evanghelică în inima orașului Cayenne, care găzduiește o comunitate creștină activă.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330941,
+                        4.94042
+                  ]
+            },
+            {
+                  "name": "Mosquée Assalam Cayenne",
+                  "text": "Această moschee este centrul religios al comunității musulmane din capitala Cayenne.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329138,
+                        4.938996
+                  ]
+            },
+            {
+                  "name": "Église Évangelique",
+                  "text": "Această clădire modestă de biserică este un loc de reculegere pentru credincioșii evanghelici din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.325948,
+                        4.94065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage Nadau",
+                  "text": "A palm-fringed sandy beach near Cayenne, popular with locals for Atlantic-side picnics.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.329304,
+                        4.943214
+                  ]
+            },
+            {
+                  "name": "Musée des Cultures Guyanaises",
+                  "text": "This museum is dedicated to the ethnic diversity and traditions of Guyanese cultural groups.",
+                  "category": "museum",
+                  "coords": [
+                        -52.329585,
+                        4.941181
+                  ]
+            },
+            {
+                  "name": "Ferronnerie D'Art",
+                  "text": "A gallery of artistic ironwork where traditional Guyanese motifs are immortalized in metal.",
+                  "category": "museum",
+                  "coords": [
+                        -52.327749,
+                        4.941893
+                  ]
+            },
+            {
+                  "name": "Maison Félix Éboué",
+                  "text": "The birthplace of famous Guyanese statesman Félix Éboué, now operating as a biographical museum.",
+                  "category": "museum",
+                  "coords": [
+                        -52.328202,
+                        4.938865
+                  ]
+            },
+            {
+                  "name": "Assemblée Évangélique La Porte",
+                  "text": "An evangelical house of prayer in the heart of Cayenne, home to an active Christian congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330941,
+                        4.94042
+                  ]
+            },
+            {
+                  "name": "Mosquée Assalam Cayenne",
+                  "text": "This mosque serves as the religious center for the Muslim community in the capital city of Cayenne.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329138,
+                        4.938996
+                  ]
+            },
+            {
+                  "name": "Église Évangelique",
+                  "text": "This modest church building is a place of worship for the city's evangelical believers.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.325948,
+                        4.94065
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-52.3312, 4.9388],
@@ -653,7 +1436,196 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Hommage à l'abolitionniste.", "Symbole de liberté."],
     }, image: "/poi-images/gf-landmark-statue-victor-schoelcher.webp"},
   {
-    id: "gf-landmark-hopital-jean-martial",
+    id: "gf-landmark-hopital-jean-martial", "sights": {
+      "de": [
+            {
+                  "name": "Musée départemental Alexandre Franconie",
+                  "text": "Ein umfassendes Museum in einem Gebäude aus dem 19. Jahrhundert, das die Geschichte und Naturkunde Guayanas zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -52.334426,
+                        4.938291
+                  ]
+            },
+            {
+                  "name": "Ancienne caserne du Génie, dite Hôtel de l'Inspection",
+                  "text": "Eine Pionierkaserne aus dem 19. Jahrhundert und ein historisches Denkmal kolonialer Verwaltungsarchitektur.",
+                  "category": "historical",
+                  "coords": [
+                        -52.336402,
+                        4.938971
+                  ]
+            },
+            {
+                  "name": "Place Léopold Héder",
+                  "text": "Ein schattiger öffentlicher Platz in Cayenne, der oft für Gemeindetreffen und lokale Veranstaltungen genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        -52.335372,
+                        4.939213
+                  ]
+            },
+            {
+                  "name": "La Poudrière",
+                  "text": "Ein ehemaliges Schießpulvermagazin aus dem 18. Jahrhundert, das in ein lebendiges Kulturzentrum umgewandelt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.336047,
+                        4.940228
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hôpital",
+                  "text": "Ein malerischer Stadtstrand in Cayenne, beliebt zum Spazierengehen und für die Aussicht auf die Atlantikinseln.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.335093,
+                        4.942699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée départemental Alexandre Franconie",
+                  "text": "Átfogó múzeum egy 19. századi épületben, amely Guayana történelmét és természettudományát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -52.334426,
+                        4.938291
+                  ]
+            },
+            {
+                  "name": "Ancienne caserne du Génie, dite Hôtel de l'Inspection",
+                  "text": "Egy 19. századi katonai mérnöki laktanya és történelmi emlékmű, amely a gyarmati közigazgatási építészetet tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -52.336402,
+                        4.938971
+                  ]
+            },
+            {
+                  "name": "Place Léopold Héder",
+                  "text": "Árnyas közterület Cayenne-ben, amelyet gyakran használnak közösségi összejövetelekre és helyi eseményekre.",
+                  "category": "park",
+                  "coords": [
+                        -52.335372,
+                        4.939213
+                  ]
+            },
+            {
+                  "name": "La Poudrière",
+                  "text": "Egykori 18. századi lőpormagazin, amelyet vibráló kulturális és művészeti központtá alakítottak át.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.336047,
+                        4.940228
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hôpital",
+                  "text": "Egy festői városi strand Cayenne-ben, amely népszerű sétáláshoz és az atlanti szigetekre nyíló kilátáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.335093,
+                        4.942699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée départemental Alexandre Franconie",
+                  "text": "Un muzeu cuprinzător într-o clădire din secolul al XIX-lea, care prezintă istoria și natura Guyanei.",
+                  "category": "museum",
+                  "coords": [
+                        -52.334426,
+                        4.938291
+                  ]
+            },
+            {
+                  "name": "Ancienne caserne du Génie, dite Hôtel de l'Inspection",
+                  "text": "O cazarmă de inginerie militară din secolul al XIX-lea și monument istoric al arhitecturii administrative coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        -52.336402,
+                        4.938971
+                  ]
+            },
+            {
+                  "name": "Place Léopold Héder",
+                  "text": "O piață publică umbrită din Cayenne, folosită adesea pentru adunări comunitare și evenimente locale.",
+                  "category": "park",
+                  "coords": [
+                        -52.335372,
+                        4.939213
+                  ]
+            },
+            {
+                  "name": "La Poudrière",
+                  "text": "O fostă magazie de praf de pușcă din secolul al XVIII-lea, transformată într-un centru cultural vibrant.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.336047,
+                        4.940228
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hôpital",
+                  "text": "O plajă urbană pitorească în Cayenne, populară pentru plimbări și pentru priveliștea asupra insulelor.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.335093,
+                        4.942699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée départemental Alexandre Franconie",
+                  "text": "A comprehensive museum in a 19th-century building featuring Guianese history, natural history, and ethnography.",
+                  "category": "museum",
+                  "coords": [
+                        -52.334426,
+                        4.938291
+                  ]
+            },
+            {
+                  "name": "Ancienne caserne du Génie, dite Hôtel de l'Inspection",
+                  "text": "A 19th-century military engineering barracks and historical monument reflecting colonial administrative architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -52.336402,
+                        4.938971
+                  ]
+            },
+            {
+                  "name": "Place Léopold Héder",
+                  "text": "A shaded public square in Cayenne, often used for community gatherings and local events.",
+                  "category": "park",
+                  "coords": [
+                        -52.335372,
+                        4.939213
+                  ]
+            },
+            {
+                  "name": "La Poudrière",
+                  "text": "A former 18th-century gunpowder magazine transformed into a vibrant cultural and arts center.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.336047,
+                        4.940228
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hôpital",
+                  "text": "A scenic urban beach in Cayenne, popular for walking and enjoying views of the Atlantic islands.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.335093,
+                        4.942699
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-52.334, 4.9395],
@@ -703,7 +1675,376 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Bâtiment colonial.", "Ancien hôpital principal."],
     }, image: "/poi-images/gf-landmark-hopital-jean-martial.webp"},
   {
-    id: "gf-landmark-pont-cacao",
+    id: "gf-landmark-pont-cacao", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Blanche",
+                  "text": "Ein Gipfel im Regenwald nahe Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.387338,
+                        4.567237
+                  ]
+            },
+            {
+                  "name": "Montagne Kwata",
+                  "text": "Ein Berggipfel im dichten Wald bei Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.551957,
+                        4.551299
+                  ]
+            },
+            {
+                  "name": "Montagne Carapa",
+                  "text": "Ein Berggipfel im Regenwald nahe Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.455697,
+                        4.517812
+                  ]
+            },
+            {
+                  "name": "Montagne Guadeloupe",
+                  "text": "Ein bewaldeter Gipfel in der Region Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.423861,
+                        4.507698
+                  ]
+            },
+            {
+                  "name": "Montagne Cacao",
+                  "text": "Ein Berggipfel mit Blick auf das Hmong-Dorf Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.456219,
+                        4.537624
+                  ]
+            },
+            {
+                  "name": "Montagne Savon",
+                  "text": "Ein Gipfel im tropischen Regenwald bei Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.471977,
+                        4.524743
+                  ]
+            },
+            {
+                  "name": "Le Planeur Bleu",
+                  "text": "Insektenmuseum in Cacao mit einer bedeutenden Sammlung lokaler Schmetterlinge.",
+                  "category": "museum",
+                  "coords": [
+                        -52.468972,
+                        4.569806
+                  ]
+            },
+            {
+                  "name": "Montagne Grosse Roche",
+                  "text": "Ein Berggipfel im Regenwald nahe Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.430829,
+                        4.56574
+                  ]
+            },
+            {
+                  "name": "Église protestante évangélique de Cacao",
+                  "text": "Evangelische Kirche der Hmong-Gemeinde im Dorf Cacao.",
+                  "category": "religious",
+                  "coords": [
+                        -52.468722,
+                        4.571165
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Paix",
+                  "text": "Katholische Kirche im Dorf Cacao.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.470368,
+                        4.574976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Blanche",
+                  "text": "Hegyi csúcs az esőerdőben, Cacao közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.387338,
+                        4.567237
+                  ]
+            },
+            {
+                  "name": "Montagne Kwata",
+                  "text": "Hegyi csúcs a sűrű erdőben, Cacao környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -52.551957,
+                        4.551299
+                  ]
+            },
+            {
+                  "name": "Montagne Carapa",
+                  "text": "Hegyi csúcs az esőerdőben, Cacao közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.455697,
+                        4.517812
+                  ]
+            },
+            {
+                  "name": "Montagne Guadeloupe",
+                  "text": "Erdős hegycsúcs Cacao régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -52.423861,
+                        4.507698
+                  ]
+            },
+            {
+                  "name": "Montagne Cacao",
+                  "text": "Hegyi csúcs, amelyről kilátás nyílik a hmong lakta Cacao falura.",
+                  "category": "natural",
+                  "coords": [
+                        -52.456219,
+                        4.537624
+                  ]
+            },
+            {
+                  "name": "Montagne Savon",
+                  "text": "Hegyi csúcs a trópusi esőerdőben, Cacao közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.471977,
+                        4.524743
+                  ]
+            },
+            {
+                  "name": "Le Planeur Bleu",
+                  "text": "Rovarmúzeum Cacaóban, amely jelentős helyi pillangógyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        -52.468972,
+                        4.569806
+                  ]
+            },
+            {
+                  "name": "Montagne Grosse Roche",
+                  "text": "Hegyi csúcs az esőerdőben, Cacao közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.430829,
+                        4.56574
+                  ]
+            },
+            {
+                  "name": "Église protestante évangélique de Cacao",
+                  "text": "A hmong közösség evangélikus temploma Cacao faluban.",
+                  "category": "religious",
+                  "coords": [
+                        -52.468722,
+                        4.571165
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Paix",
+                  "text": "Katolikus templom Cacao faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.470368,
+                        4.574976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Blanche",
+                  "text": "Un vârf de munte în pădurea tropicală de lângă Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.387338,
+                        4.567237
+                  ]
+            },
+            {
+                  "name": "Montagne Kwata",
+                  "text": "Un vârf muntos în pădurea densă din apropiere de Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.551957,
+                        4.551299
+                  ]
+            },
+            {
+                  "name": "Montagne Carapa",
+                  "text": "Un vârf de munte în pădurea tropicală de lângă Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.455697,
+                        4.517812
+                  ]
+            },
+            {
+                  "name": "Montagne Guadeloupe",
+                  "text": "Un vârf împădurit în regiunea Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.423861,
+                        4.507698
+                  ]
+            },
+            {
+                  "name": "Montagne Cacao",
+                  "text": "Un vârf de munte cu vedere spre satul Hmong Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.456219,
+                        4.537624
+                  ]
+            },
+            {
+                  "name": "Montagne Savon",
+                  "text": "Un vârf în pădurea tropicală umedă de lângă Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.471977,
+                        4.524743
+                  ]
+            },
+            {
+                  "name": "Le Planeur Bleu",
+                  "text": "Muzeu de insecte în Cacao, cu o colecție impresionantă de fluturi locali.",
+                  "category": "museum",
+                  "coords": [
+                        -52.468972,
+                        4.569806
+                  ]
+            },
+            {
+                  "name": "Montagne Grosse Roche",
+                  "text": "Un vârf de munte în pădurea tropicală de lângă Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.430829,
+                        4.56574
+                  ]
+            },
+            {
+                  "name": "Église protestante évangélique de Cacao",
+                  "text": "Biserică evanghelică ce deservește comunitatea Hmong din satul Cacao.",
+                  "category": "religious",
+                  "coords": [
+                        -52.468722,
+                        4.571165
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Paix",
+                  "text": "Biserică catolică în satul Cacao.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.470368,
+                        4.574976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Blanche",
+                  "text": "A mountain peak in the rainforest near Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.387338,
+                        4.567237
+                  ]
+            },
+            {
+                  "name": "Montagne Kwata",
+                  "text": "A mountain peak in the dense forest near Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.551957,
+                        4.551299
+                  ]
+            },
+            {
+                  "name": "Montagne Carapa",
+                  "text": "A mountain peak in the rainforest near Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.455697,
+                        4.517812
+                  ]
+            },
+            {
+                  "name": "Montagne Guadeloupe",
+                  "text": "A forested peak in the Cacao region.",
+                  "category": "natural",
+                  "coords": [
+                        -52.423861,
+                        4.507698
+                  ]
+            },
+            {
+                  "name": "Montagne Cacao",
+                  "text": "A mountain peak overlooking the Hmong village of Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.456219,
+                        4.537624
+                  ]
+            },
+            {
+                  "name": "Montagne Savon",
+                  "text": "A peak in the tropical rainforest near Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.471977,
+                        4.524743
+                  ]
+            },
+            {
+                  "name": "Le Planeur Bleu",
+                  "text": "Insect museum in Cacao featuring a significant collection of local butterflies.",
+                  "category": "museum",
+                  "coords": [
+                        -52.468972,
+                        4.569806
+                  ]
+            },
+            {
+                  "name": "Montagne Grosse Roche",
+                  "text": "A mountain peak in the rainforest near Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.430829,
+                        4.56574
+                  ]
+            },
+            {
+                  "name": "Église protestante évangélique de Cacao",
+                  "text": "Evangelical church serving the Hmong community in the village of Cacao.",
+                  "category": "religious",
+                  "coords": [
+                        -52.468722,
+                        4.571165
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Paix",
+                  "text": "Catholic church in the village of Cacao.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.470368,
+                        4.574976
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-52.467, 4.568],
@@ -753,7 +2094,268 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Infrastructure majeure.", "Mène au village de Cacao."],
     }, image: "/poi-images/gf-landmark-pont-cacao.webp"},
   {
-    id: "gf-landmark-eglise-saint-antoine-de-padoue",
+    id: "gf-landmark-eglise-saint-antoine-de-padoue", "sights": {
+      "de": [
+            {
+                  "name": "Point Chaud - Polissoirs",
+                  "text": "Archäologische Stätte mit präkolumbischen Schleifspuren (Polissoirs) im Fels.",
+                  "category": "historical",
+                  "coords": [
+                        -53.175888,
+                        3.606413
+                  ]
+            },
+            {
+                  "name": "Polissoirs amérindiens",
+                  "text": "Antike Felsen mit Rillen, die von Ureinwohnern zum Schärfen von Steinwerkzeugen verwendet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -53.174576,
+                        3.611463
+                  ]
+            },
+            {
+                  "name": "Point de vue Monts La Fumée",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über das dichte Blätterdach des tropischen Regenwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        -53.200376,
+                        3.642377
+                  ]
+            },
+            {
+                  "name": "Belvédère",
+                  "text": "Ein Aussichtspunkt mit Blick aus der Vogelperspektive auf das isolierte Dorf Saül und die bewaldeten Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        -53.21593,
+                        3.622792
+                  ]
+            },
+            {
+                  "name": "Écomusée de Saül",
+                  "text": "Dieses kleine Museum zeigt die einzigartige Artenvielfalt und die traditionelle Lebensweise im Amazonasgebiet.",
+                  "category": "museum",
+                  "coords": [
+                        -53.208713,
+                        3.623179
+                  ]
+            },
+            {
+                  "name": "Roche bâteau",
+                  "text": "Eine markante große Felsformation im Dschungel, die einem Schiffsrumpf ähnelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.184089,
+                        3.594815
+                  ]
+            },
+            {
+                  "name": "Courant doublé - Polissoirs",
+                  "text": "Präkolumbianische archäologische Stätte mit in die Felsen am Wasser gehauenen Rillen zum Schärfen von Werkzeugen.",
+                  "category": "historical",
+                  "coords": [
+                        -53.178186,
+                        3.5972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point Chaud - Polissoirs",
+                  "text": "Régészeti lelőhely prekolumbián indián sziklacsiszoló vájatokkal (polissoirs).",
+                  "category": "historical",
+                  "coords": [
+                        -53.175888,
+                        3.606413
+                  ]
+            },
+            {
+                  "name": "Polissoirs amérindiens",
+                  "text": "Ősi sziklák, amelyeken az őslakosok kőeszközeik élesítésére használt mélyedések láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        -53.174576,
+                        3.611463
+                  ]
+            },
+            {
+                  "name": "Point de vue Monts La Fumée",
+                  "text": "Kilátópont, amely panorámás kilátást nyújt a sűrű trópusi esőerdő lombozatára.",
+                  "category": "natural",
+                  "coords": [
+                        -53.200376,
+                        3.642377
+                  ]
+            },
+            {
+                  "name": "Belvédère",
+                  "text": "Kilátó, ahonnan madártávlatból látható Saül elszigetelt faluja és a környező erdős dombok.",
+                  "category": "natural",
+                  "coords": [
+                        -53.21593,
+                        3.622792
+                  ]
+            },
+            {
+                  "name": "Écomusée de Saül",
+                  "text": "Ez a kis múzeum az amazóniai belső vidék egyedülálló biológiai sokféleségét és hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -53.208713,
+                        3.623179
+                  ]
+            },
+            {
+                  "name": "Roche bâteau",
+                  "text": "Egy jellegzetes, nagy sziklaalakzat a dzsungelben, amely egy hajótestre emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.184089,
+                        3.594815
+                  ]
+            },
+            {
+                  "name": "Courant doublé - Polissoirs",
+                  "text": "Kolumbusz előtti régészeti lelőhely, ahol a vízparti sziklákba vájt szerszámélesítő mélyedések láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        -53.178186,
+                        3.5972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point Chaud - Polissoirs",
+                  "text": "Sit arheologic cu cavități de șlefuire a pietrei (polissoirs) din perioada precolumbiană.",
+                  "category": "historical",
+                  "coords": [
+                        -53.175888,
+                        3.606413
+                  ]
+            },
+            {
+                  "name": "Polissoirs amérindiens",
+                  "text": "Pietre antice cu șanțuri folosite de populațiile indigene pentru ascuțirea uneltelor de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -53.174576,
+                        3.611463
+                  ]
+            },
+            {
+                  "name": "Point de vue Monts La Fumée",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra coronamentului junglei tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -53.200376,
+                        3.642377
+                  ]
+            },
+            {
+                  "name": "Belvédère",
+                  "text": "Un punct de observație care oferă o privire de ansamblu asupra satului izolat Saül și a dealurilor împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        -53.21593,
+                        3.622792
+                  ]
+            },
+            {
+                  "name": "Écomusée de Saül",
+                  "text": "Acest mic muzeu prezintă biodiversitatea unică și stilul de viață tradițional din interiorul Amazonului.",
+                  "category": "museum",
+                  "coords": [
+                        -53.208713,
+                        3.623179
+                  ]
+            },
+            {
+                  "name": "Roche bâteau",
+                  "text": "O formațiune stâncoasă mare și distinctivă în junglă, care seamănă cu carena unei bărci.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.184089,
+                        3.594815
+                  ]
+            },
+            {
+                  "name": "Courant doublé - Polissoirs",
+                  "text": "Sit arheologic precolumbian cu șanțuri pentru ascuțirea uneltelor sculptate în stâncile de lângă apă.",
+                  "category": "historical",
+                  "coords": [
+                        -53.178186,
+                        3.5972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Point Chaud - Polissoirs",
+                  "text": "Archaeological site featuring pre-Columbian Amerindian rock-grinding grooves (polissoirs).",
+                  "category": "historical",
+                  "coords": [
+                        -53.175888,
+                        3.606413
+                  ]
+            },
+            {
+                  "name": "Polissoirs amérindiens",
+                  "text": "Ancient rocks featuring grooves used by indigenous people to sharpen stone tools.",
+                  "category": "historical",
+                  "coords": [
+                        -53.174576,
+                        3.611463
+                  ]
+            },
+            {
+                  "name": "Point de vue Monts La Fumée",
+                  "text": "A viewpoint offering a panoramic vista over the dense tropical rainforest canopy.",
+                  "category": "natural",
+                  "coords": [
+                        -53.200376,
+                        3.642377
+                  ]
+            },
+            {
+                  "name": "Belvédère",
+                  "text": "A scenic overlook providing a bird's-eye view of the isolated village of Saül and the forested hills.",
+                  "category": "natural",
+                  "coords": [
+                        -53.21593,
+                        3.622792
+                  ]
+            },
+            {
+                  "name": "Écomusée de Saül",
+                  "text": "This small museum showcases the unique biodiversity and traditional lifestyles of the Amazonian interior.",
+                  "category": "museum",
+                  "coords": [
+                        -53.208713,
+                        3.623179
+                  ]
+            },
+            {
+                  "name": "Roche bâteau",
+                  "text": "A distinctive large rock formation in the jungle shaped like the hull of a boat.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.184089,
+                        3.594815
+                  ]
+            },
+            {
+                  "name": "Courant doublé - Polissoirs",
+                  "text": "Pre-Columbian archaeological site featuring tool-sharpening grooves carved into rocks near the water.",
+                  "category": "historical",
+                  "coords": [
+                        -53.178186,
+                        3.5972
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-53.2085, 3.621],
@@ -803,7 +2405,592 @@ export const poiExtraFrenchguianaLandmarksV2: POI[] = [
       fr: ["Construite en bois.", "Située au cœur de la forêt tropicale."],
     }, image: "/poi-images/gf-landmark-eglise-saint-antoine-de-padoue.webp"},
   {
-    id: "gf-landmark-stade-georges-chaumet",
+    id: "gf-landmark-stade-georges-chaumet", "sights": {
+      "de": [
+            {
+                  "name": "Mont Bourda",
+                  "text": "Ein Küstenhügel in Cayenne mit Wanderwegen und Aussichtspunkten über die Atlantikküste.",
+                  "category": "natural",
+                  "coords": [
+                        -52.286824,
+                        4.939304
+                  ]
+            },
+            {
+                  "name": "Mont de Montabo",
+                  "text": "Ein üppig bewaldeter Hügel im Stadtteil Montabo, in dem sich wissenschaftliche Institute befinden.",
+                  "category": "natural",
+                  "coords": [
+                        -52.312676,
+                        4.947691
+                  ]
+            },
+            {
+                  "name": "Espace Edmonde Rey",
+                  "text": "Eine moderne kulturelle Einrichtung in Cayenne, die für Theateraufführungen und Ausstellungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.315849,
+                        4.944045
+                  ]
+            },
+            {
+                  "name": "Saint-Louis de Mirza",
+                  "text": "Eine lokale katholische Kirche und ein Wahrzeichen der Gemeinde im Mirza-Viertel von Cayenne.",
+                  "category": "religious",
+                  "coords": [
+                        -52.325175,
+                        4.934088
+                  ]
+            },
+            {
+                  "name": "Herbier de Guyane",
+                  "text": "Eine wissenschaftliche Einrichtung, die eine umfangreiche Sammlung konservierter Tropenpflanzen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -52.318912,
+                        4.942238
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "Die Église Saint-Antoine ist ein christliches Gotteshaus, das der lokalen Kirchengemeinde in dieser Gegend dient.",
+                  "category": "religious",
+                  "coords": [
+                        -52.297008,
+                        4.932694
+                  ]
+            },
+            {
+                  "name": "Plage de Montabo Zéphir",
+                  "text": "Der Montabo Beach bietet einen sandigen Küstenabschnitt zur Entspannung am Ufer des Ozeans.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.297035,
+                        4.943704
+                  ]
+            },
+            {
+                  "name": "Église de la Sainte-Famille",
+                  "text": "Die Église de la Sainte-Famille ist ein christliches Kirchengebäude, das der Heiligen Familie geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -52.308369,
+                        4.944338
+                  ]
+            },
+            {
+                  "name": "Centre chrétien international",
+                  "text": "Das Centre chrétien international dient als Treffpunkt für die lokale christliche Religionsgemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.306098,
+                        4.939345
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "Dieser Königreichssaal fungiert als christlicher Versammlungsort für die lokale Gemeinde der Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.324165,
+                        4.934257
+                  ]
+            },
+            {
+                  "name": "Église  évangélique du Nazareen",
+                  "text": "Die Église évangélique du Nazareen ist eine christliche Kirche, in der evangelikale Gottesdienste gefeiert werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.319961,
+                        4.928405
+                  ]
+            },
+            {
+                  "name": "Église évangéliste de l'Assemblée de Dieu",
+                  "text": "Diese christliche Stätte gehört den Versammlungen Gottes und veranstaltet evangelikale Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.314929,
+                        4.927409
+                  ]
+            },
+            {
+                  "name": "Bahai",
+                  "text": "Dieses spirituelle Zentrum bietet einen Treffpunkt für Anhänger des Bahá'í-Glaubens.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.315911,
+                        4.929642
+                  ]
+            },
+            {
+                  "name": "T. Adventistes d'Ephese",
+                  "text": "T. Adventistes d'Ephese ist eine christliche Kirche, die dem lokalen adventistischen Gottesdienst gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.319943,
+                        4.931882
+                  ]
+            },
+            {
+                  "name": "Mosquée",
+                  "text": "Diese Moschee dient der örtlichen muslimischen Gemeinschaft als islamisches Gotteshaus für die täglichen Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.320234,
+                        4.9343
+                  ]
+            },
+            {
+                  "name": "Dieu est Amour",
+                  "text": "Dieu est Amour fungiert als christliches spirituelles Zentrum mit Schwerpunkt auf Gottesdienst und Gemeinschaftsgebet.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.322054,
+                        4.936974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Bourda",
+                  "text": "Tengerparti domb Cayenne-ben, túraútvonalakkal és az atlanti partvidékre néző kilátópontokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -52.286824,
+                        4.939304
+                  ]
+            },
+            {
+                  "name": "Mont de Montabo",
+                  "text": "Lush erdős domb Montabo negyedében, amely tudományos intézeteknek és trópusi flórának ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        -52.312676,
+                        4.947691
+                  ]
+            },
+            {
+                  "name": "Espace Edmonde Rey",
+                  "text": "Modern kulturális létesítmény Cayenne-ben, amelyet színházi előadásokra és kiállításokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.315849,
+                        4.944045
+                  ]
+            },
+            {
+                  "name": "Saint-Louis de Mirza",
+                  "text": "Helyi katolikus templom és közösségi támpont Cayenne Mirza negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -52.325175,
+                        4.934088
+                  ]
+            },
+            {
+                  "name": "Herbier de Guyane",
+                  "text": "Tudományos intézmény, amely Francia Guyana trópusi növényeinek kiterjedt gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -52.318912,
+                        4.942238
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "Az Église Saint-Antoine egy keresztény istentiszteleti hely, amely a helyi egyházközséget szolgálja ezen a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        -52.297008,
+                        4.932694
+                  ]
+            },
+            {
+                  "name": "Plage de Montabo Zéphir",
+                  "text": "A Montabo Beach homokos partszakaszt kínál a kikapcsolódásra az óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.297035,
+                        4.943704
+                  ]
+            },
+            {
+                  "name": "Église de la Sainte-Famille",
+                  "text": "Az Église de la Sainte-Famille egy Szent Családnak szentelt keresztény templomépület.",
+                  "category": "religious",
+                  "coords": [
+                        -52.308369,
+                        4.944338
+                  ]
+            },
+            {
+                  "name": "Centre chrétien international",
+                  "text": "A Centre chrétien international a helyi keresztény vallási közösség gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.306098,
+                        4.939345
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "Ez a Királyság-terem a helyi Jehova Tanúi gyülekezet keresztény találkozóhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.324165,
+                        4.934257
+                  ]
+            },
+            {
+                  "name": "Église  évangélique du Nazareen",
+                  "text": "Az Église évangélique du Nazareen egy keresztény templom, amely evangéliumi istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.319961,
+                        4.928405
+                  ]
+            },
+            {
+                  "name": "Église évangéliste de l'Assemblée de Dieu",
+                  "text": "Ez a keresztény helyszín az Isten Gyülekezeteihez tartozik, és evangéliumi istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.314929,
+                        4.927409
+                  ]
+            },
+            {
+                  "name": "Bahai",
+                  "text": "Ez a spirituális központ találkozóhelyet biztosít a bahá'í hit követői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.315911,
+                        4.929642
+                  ]
+            },
+            {
+                  "name": "T. Adventistes d'Ephese",
+                  "text": "A T. Adventistes d'Ephese egy keresztény templom, amelyet a helyi adventista istentiszteleteknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.319943,
+                        4.931882
+                  ]
+            },
+            {
+                  "name": "Mosquée",
+                  "text": "Ez a mecset a helyi muszlim közösség iszlám istentiszteleti helyeként szolgál a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.320234,
+                        4.9343
+                  ]
+            },
+            {
+                  "name": "Dieu est Amour",
+                  "text": "A Dieu est Amour egy keresztény spirituális központ, amely az istentiszteletre és a közösségi imára összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.322054,
+                        4.936974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Bourda",
+                  "text": "Un deal de coastă în Cayenne, cu trasee de plimbare și puncte de belvedere asupra coastei Atlanticului.",
+                  "category": "natural",
+                  "coords": [
+                        -52.286824,
+                        4.939304
+                  ]
+            },
+            {
+                  "name": "Mont de Montabo",
+                  "text": "Un deal împădurit luxuriant în cartierul Montabo, care găzduiește institute științifice și floră tropicală.",
+                  "category": "natural",
+                  "coords": [
+                        -52.312676,
+                        4.947691
+                  ]
+            },
+            {
+                  "name": "Espace Edmonde Rey",
+                  "text": "O facilitate culturală modernă în Cayenne, folosită pentru spectacole de teatru, expoziții și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.315849,
+                        4.944045
+                  ]
+            },
+            {
+                  "name": "Saint-Louis de Mirza",
+                  "text": "O biserică catolică locală și un punct de reper al comunității situate în cartierul Mirza din Cayenne.",
+                  "category": "religious",
+                  "coords": [
+                        -52.325175,
+                        4.934088
+                  ]
+            },
+            {
+                  "name": "Herbier de Guyane",
+                  "text": "O instituție științifică ce adăpostește o colecție extinsă de plante tropicale conservate din Guyana Franceză.",
+                  "category": "museum",
+                  "coords": [
+                        -52.318912,
+                        4.942238
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "Église Saint-Antoine este un lăcaș de cult creștin care deservește parohia locală din această zonă.",
+                  "category": "religious",
+                  "coords": [
+                        -52.297008,
+                        4.932694
+                  ]
+            },
+            {
+                  "name": "Plage de Montabo Zéphir",
+                  "text": "Plaja Montabo oferă o fâșie de coastă nisipoasă pentru relaxare de-a lungul țărmului oceanic.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.297035,
+                        4.943704
+                  ]
+            },
+            {
+                  "name": "Église de la Sainte-Famille",
+                  "text": "Église de la Sainte-Famille este o clădire bisericească creștină închinată Sfintei Familii.",
+                  "category": "religious",
+                  "coords": [
+                        -52.308369,
+                        4.944338
+                  ]
+            },
+            {
+                  "name": "Centre chrétien international",
+                  "text": "Centre chrétien international servește drept punct de adunare pentru comunitatea religioasă creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.306098,
+                        4.939345
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "Această Sală a Regatului funcționează ca un loc de întâlnire creștin pentru congregația locală a Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.324165,
+                        4.934257
+                  ]
+            },
+            {
+                  "name": "Église  évangélique du Nazareen",
+                  "text": "Église évangélique du Nazareen este o biserică creștină care găzduiește slujbe de cult evanghelice.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.319961,
+                        4.928405
+                  ]
+            },
+            {
+                  "name": "Église évangéliste de l'Assemblée de Dieu",
+                  "text": "Acest sit creștin aparține Adunărilor lui Dumnezeu, găzduind slujbe religioase evanghelice.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.314929,
+                        4.927409
+                  ]
+            },
+            {
+                  "name": "Bahai",
+                  "text": "Acest centru spiritual oferă un loc de întâlnire pentru adepții credinței Bahá'í.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.315911,
+                        4.929642
+                  ]
+            },
+            {
+                  "name": "T. Adventistes d'Ephese",
+                  "text": "T. Adventistes d'Ephese este o biserică creștină dedicată cultului adventist local.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.319943,
+                        4.931882
+                  ]
+            },
+            {
+                  "name": "Mosquée",
+                  "text": "Această moschee servește drept lăcaș de cult islamic pentru rugăciunile zilnice ale comunității musulmane locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.320234,
+                        4.9343
+                  ]
+            },
+            {
+                  "name": "Dieu est Amour",
+                  "text": "Dieu est Amour funcționează ca un centru spiritual creștin axat pe închinare și rugăciune comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.322054,
+                        4.936974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Bourda",
+                  "text": "A coastal hill in Cayenne featuring walking trails and viewpoints over the Atlantic coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -52.286824,
+                        4.939304
+                  ]
+            },
+            {
+                  "name": "Mont de Montabo",
+                  "text": "A lush forested hill in the Montabo district, home to scientific institutes and tropical flora.",
+                  "category": "natural",
+                  "coords": [
+                        -52.312676,
+                        4.947691
+                  ]
+            },
+            {
+                  "name": "Espace Edmonde Rey",
+                  "text": "A modern cultural facility in Cayenne used for theatrical performances, exhibitions, and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.315849,
+                        4.944045
+                  ]
+            },
+            {
+                  "name": "Saint-Louis de Mirza",
+                  "text": "A local Catholic church and community landmark situated in the Mirza district of Cayenne.",
+                  "category": "religious",
+                  "coords": [
+                        -52.325175,
+                        4.934088
+                  ]
+            },
+            {
+                  "name": "Herbier de Guyane",
+                  "text": "A scientific institution housing an extensive collection of preserved tropical plants from French Guiana.",
+                  "category": "museum",
+                  "coords": [
+                        -52.318912,
+                        4.942238
+                  ]
+            },
+            {
+                  "name": "Église Saint-Antoine",
+                  "text": "Église Saint-Antoine is a Christian place of worship serving the local parish in this area.",
+                  "category": "religious",
+                  "coords": [
+                        -52.297008,
+                        4.932694
+                  ]
+            },
+            {
+                  "name": "Montabo Beach",
+                  "text": "Montabo Beach offers a sandy coastal stretch for relaxation along the ocean shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.297035,
+                        4.943704
+                  ]
+            },
+            {
+                  "name": "Église de la Sainte-Famille",
+                  "text": "Église de la Sainte-Famille is a Christian church building dedicated to the Holy Family.",
+                  "category": "religious",
+                  "coords": [
+                        -52.308369,
+                        4.944338
+                  ]
+            },
+            {
+                  "name": "Centre chrétien international",
+                  "text": "The Centre chrétien international serves as a gathering point for the local Christian religious community.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.306098,
+                        4.939345
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "This Kingdom Hall functions as a Christian meeting place for the local Jehovah's Witnesses congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.324165,
+                        4.934257
+                  ]
+            },
+            {
+                  "name": "Église  évangélique du Nazareen",
+                  "text": "The Église évangélique du Nazareen is a Christian church hosting evangelical worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.319961,
+                        4.928405
+                  ]
+            },
+            {
+                  "name": "Église évangéliste de l'Assemblée de Dieu",
+                  "text": "This Christian site belongs to the Assemblies of God, hosting evangelical religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.314929,
+                        4.927409
+                  ]
+            },
+            {
+                  "name": "Bahai",
+                  "text": "This spiritual center provides a meeting place for followers of the Bahá'í Faith.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.315911,
+                        4.929642
+                  ]
+            },
+            {
+                  "name": "T. Adventistes d'Ephese",
+                  "text": "T. Adventistes d'Ephese is a Christian church dedicated to local Adventist worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.319943,
+                        4.931882
+                  ]
+            },
+            {
+                  "name": "Mosquée",
+                  "text": "This mosque serves as an Islamic place of worship for the local Muslim community's daily prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.320234,
+                        4.9343
+                  ]
+            },
+            {
+                  "name": "Dieu est Amour",
+                  "text": "Dieu est Amour operates as a Christian spiritual center focused on worship and community prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.322054,
+                        4.936974
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GF",
     coords: [-52.321, 4.933],

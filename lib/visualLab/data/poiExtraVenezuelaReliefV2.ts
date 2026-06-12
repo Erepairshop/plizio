@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const venezuelaReliefV2: POI[] = [
 
   {
-    id: "venezuela-auyan-tepui-relief-v2",
+    id: "venezuela-auyan-tepui-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alto del Kerepakupay",
+                  "text": "Ein Berggipfel auf dem weitläufigen Plateau des Auyán-Tepui.",
+                  "category": "natural",
+                  "coords": [
+                        -62.586279,
+                        5.911288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alto del Kerepakupay",
+                  "text": "Egy hegycsúcs a kiterjedt Auyán-tepui fennsíkon.",
+                  "category": "natural",
+                  "coords": [
+                        -62.586279,
+                        5.911288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alto del Kerepakupay",
+                  "text": "Un vârf montan situat în interiorul vastului platou Auyán-tepui.",
+                  "category": "natural",
+                  "coords": [
+                        -62.586279,
+                        5.911288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alto del Kerepakupay",
+                  "text": "A mountain peak located within the expansive Auyán-tepui plateau.",
+                  "category": "natural",
+                  "coords": [
+                        -62.586279,
+                        5.911288
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "mountain",
     name: { de: "Auyán-Tepui", hu: "Auyán-tepui", ro: "Auyán-Tepui", en: "Auyán-Tepui" },
@@ -93,7 +138,88 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-mount-duida-relief-v2.webp",
   },
   {
-    id: "venezuela-pico-el-leon-relief-v2",
+    id: "venezuela-pico-el-leon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Humboldt",
+                  "text": "Der zweithöchste Berg Venezuelas beherbergt den letzten verbliebenen Gletscher des Landes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.996426,
+                        8.549753
+                  ]
+            },
+            {
+                  "name": "Pico La Concha",
+                  "text": "Dieser vergletscherte Gipfel in der Sierra Nevada de Mérida liegt direkt neben dem Pico Bolívar.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026495,
+                        8.555207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Humboldt",
+                  "text": "Venezuela második legmagasabb csúcsa, amely az ország utolsó gleccserének ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        -70.996426,
+                        8.549753
+                  ]
+            },
+            {
+                  "name": "Pico La Concha",
+                  "text": "A Sierra Nevada de Mérida eljegesedett csúcsa közvetlenül a Pico Bolívar mellett található.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026495,
+                        8.555207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Humboldt",
+                  "text": "Al doilea cel mai înalt vârf din Venezuela găzduiește ultimul ghețar rămas al țării.",
+                  "category": "natural",
+                  "coords": [
+                        -70.996426,
+                        8.549753
+                  ]
+            },
+            {
+                  "name": "Pico La Concha",
+                  "text": "Acest vârf glaciar din Sierra Nevada de Mérida este situat chiar lângă Pico Bolívar.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026495,
+                        8.555207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Humboldt",
+                  "text": "The second highest peak in Venezuela is home to the country's last remaining glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -70.996426,
+                        8.549753
+                  ]
+            },
+            {
+                  "name": "Pico La Concha",
+                  "text": "This glaciated peak in the Sierra Nevada de Mérida is located right next to Pico Bolívar.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026495,
+                        8.555207
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico El León", hu: "Pico El León", ro: "Pico El León", en: "Pico El León" },
@@ -138,7 +264,124 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-pico-el-leon-relief-v2.webp",
   },
   {
-    id: "venezuela-chimanta-massif-relief-v2",
+    id: "venezuela-chimanta-massif-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akparamán Tepuy",
+                  "text": "Ein Tafelberggipfel, der Teil des Chimantá-Massivs ist.",
+                  "category": "natural",
+                  "coords": [
+                        -62.206135,
+                        5.24635
+                  ]
+            },
+            {
+                  "name": "Sarvén Tepuy",
+                  "text": "Ein markanter Tafelberg, der sich im Chimantá-Massiv erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -62.068119,
+                        5.305707
+                  ]
+            },
+            {
+                  "name": "Erueda Tepuy",
+                  "text": "Ein steil abfallender Tafelberggipfel in der Landschaft der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -62.123051,
+                        5.335148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akparamán Tepuy",
+                  "text": "A Chimantá-hegység részét képező táblahegy csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -62.206135,
+                        5.24635
+                  ]
+            },
+            {
+                  "name": "Sarvén Tepuy",
+                  "text": "Egy jellegzetes táblahegy, amely a Chimantá-hegységben emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        -62.068119,
+                        5.305707
+                  ]
+            },
+            {
+                  "name": "Erueda Tepuy",
+                  "text": "Egy meredek falú táblahegy csúcs a régió táján.",
+                  "category": "natural",
+                  "coords": [
+                        -62.123051,
+                        5.335148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akparamán Tepuy",
+                  "text": "Un vârf de munte cu vârf plat care face parte din Masivul Chimantá.",
+                  "category": "natural",
+                  "coords": [
+                        -62.206135,
+                        5.24635
+                  ]
+            },
+            {
+                  "name": "Sarvén Tepuy",
+                  "text": "Un munte distinctiv cu vârf plat care se înalță în Masivul Chimantá.",
+                  "category": "natural",
+                  "coords": [
+                        -62.068119,
+                        5.305707
+                  ]
+            },
+            {
+                  "name": "Erueda Tepuy",
+                  "text": "Un vârf de munte cu margini abrupte în peisajul regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -62.123051,
+                        5.335148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akparamán Tepuy",
+                  "text": "A table mountain peak forming part of the Chimantá Massif.",
+                  "category": "natural",
+                  "coords": [
+                        -62.206135,
+                        5.24635
+                  ]
+            },
+            {
+                  "name": "Sarvén Tepuy",
+                  "text": "A distinctive table mountain rising within the Chimantá Massif.",
+                  "category": "natural",
+                  "coords": [
+                        -62.068119,
+                        5.305707
+                  ]
+            },
+            {
+                  "name": "Erueda Tepuy",
+                  "text": "A steep-sided table mountain peak in the region's landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -62.123051,
+                        5.335148
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "mountain",
     name: { de: "Chimantá-Massiv", hu: "Chimantá-masszívum", ro: "Masivul Chimantá", en: "Chimantá Massif" },
@@ -183,7 +426,52 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-chimanta-massif-relief-v2.webp",
   },
   {
-    id: "venezuela-mount-autana-relief-v2",
+    id: "venezuela-mount-autana-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Autana",
+                  "text": "Dieser heilige Tepui erhebt sich majestätisch über dem Amazonas-Regenwald und wird vom indigenen Volk der Piaroa zutiefst verehrt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.449737,
+                        4.855029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Autana",
+                  "text": "Az amazóniai esőerdő fölé fenségesen magasodó szent tepuit az őslakos piaroa nép mélyen tiszteli.",
+                  "category": "natural",
+                  "coords": [
+                        -67.449737,
+                        4.855029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Autana",
+                  "text": "Ridicându-se maiestuos deasupra pădurii tropicale amazoniene, acest tepui sacru este profund venerat de poporul indigen Piaroa.",
+                  "category": "natural",
+                  "coords": [
+                        -67.449737,
+                        4.855029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Autana",
+                  "text": "Rising majestically above the Amazon rainforest, this sacred tepui is deeply revered by the indigenous Piaroa people.",
+                  "category": "natural",
+                  "coords": [
+                        -67.449737,
+                        4.855029
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "mountain",
     name: { de: "Mount Autana", hu: "Autana-hegy", ro: "Muntele Autana", en: "Mount Autana" },
@@ -228,7 +516,304 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-mount-autana-relief-v2.webp",
   },
   {
-    id: "venezuela-pico-el-aguila-relief-v2",
+    id: "venezuela-pico-el-aguila-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Mifés",
+                  "text": "Ein majestätischer Gipfel in der Nähe des Passes Pico El Águila, der die weite Paramo-Landschaft überragt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.806541,
+                        8.759503
+                  ]
+            },
+            {
+                  "name": "Cerro El Duende",
+                  "text": "Ein einsamer Berggipfel in der Hochwüste der Anden, bekannt für seine mystische Atmosphäre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.881,
+                        8.840973
+                  ]
+            },
+            {
+                  "name": "Pico Los Caracoles",
+                  "text": "Ein hoher Gipfel in der Nähe von Pico El Águila, dessen Name an die kurvenreichen Bergstraßen erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.898466,
+                        8.884711
+                  ]
+            },
+            {
+                  "name": "Mirador El Domo",
+                  "text": "Ein Panoramapunkt in der Nähe des höchsten Punktes der Transanden-Route mit Blick auf die Gipfel von Mérida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.876976,
+                        8.88042
+                  ]
+            },
+            {
+                  "name": "Picacho El Gavilán",
+                  "text": "Ein markanter Felsgipfel in den Hochanden, der oft als Orientierungspunkt für Bergsteiger dient.",
+                  "category": "natural",
+                  "coords": [
+                        -70.800426,
+                        8.850556
+                  ]
+            },
+            {
+                  "name": "Alto de Timotes",
+                  "text": "Ein Berggipfel in der Nähe der Stadt Timotes, der den Übergang zu den tieferen Tälern markiert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.823515,
+                        8.855369
+                  ]
+            },
+            {
+                  "name": "Condor",
+                  "text": "Ein Bronzedenkmal eines Kondors am Collado del Cóndor, das Bolivars Überquerung der Anden im Jahr 1813 ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.861903,
+                        8.843312
+                  ]
+            },
+            {
+                  "name": "Cerro El Balcón",
+                  "text": "Ein natürlicher Felsvorsprung mit weitem Ausblick über das karge Hochland in der Region El Águila.",
+                  "category": "natural",
+                  "coords": [
+                        -70.839849,
+                        8.834039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Mifés",
+                  "text": "Fenséges hegycsúcs a Pico El Águila-hágó közelében, amely a tágas paramo-vidék fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.806541,
+                        8.759503
+                  ]
+            },
+            {
+                  "name": "Cerro El Duende",
+                  "text": "Magányos hegycsúcs az andoki magashegyi sivatagban, amely misztikus hangulatáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.881,
+                        8.840973
+                  ]
+            },
+            {
+                  "name": "Pico Los Caracoles",
+                  "text": "Magas csúcs a Pico El Águila közelében, amelynek neve a kanyargós hegyi utakra utal.",
+                  "category": "natural",
+                  "coords": [
+                        -70.898466,
+                        8.884711
+                  ]
+            },
+            {
+                  "name": "Mirador El Domo",
+                  "text": "Panorámás kilátóhely a transzandoki útvonal legmagasabb pontjának közelében, rálátással Mérida csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        -70.876976,
+                        8.88042
+                  ]
+            },
+            {
+                  "name": "Picacho El Gavilán",
+                  "text": "Jellegzetes sziklás csúcs a magas-Andokban, amely gyakran tájékozódási pontként szolgál a hegymászóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -70.800426,
+                        8.850556
+                  ]
+            },
+            {
+                  "name": "Alto de Timotes",
+                  "text": "Hegycsúcs Timotes városa közelében, amely az alacsonyabb völgyek felé való átmenetet jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        -70.823515,
+                        8.855369
+                  ]
+            },
+            {
+                  "name": "Condor",
+                  "text": "Bronz kondor emlékmű a Collado del Cóndor hágónál, amely Bolívar 1813-as andoki átkelése előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.861903,
+                        8.843312
+                  ]
+            },
+            {
+                  "name": "Cerro El Balcón",
+                  "text": "Természetes sziklakiszögellés széles kilátással a kopár felföldre az El Águila régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -70.839849,
+                        8.834039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Mifés",
+                  "text": "Un vârf maiestuos lângă pasul Pico El Águila, dominând peisajul vast de paramo.",
+                  "category": "natural",
+                  "coords": [
+                        -70.806541,
+                        8.759503
+                  ]
+            },
+            {
+                  "name": "Cerro El Duende",
+                  "text": "Un vârf muntos izolat în deșertul de mare altitudine din Anzi, cunoscut pentru atmosfera sa mistică.",
+                  "category": "natural",
+                  "coords": [
+                        -70.881,
+                        8.840973
+                  ]
+            },
+            {
+                  "name": "Pico Los Caracoles",
+                  "text": "Un vârf înalt lângă Pico El Águila, al cărui nume amintește de drumurile montane șerpuite.",
+                  "category": "natural",
+                  "coords": [
+                        -70.898466,
+                        8.884711
+                  ]
+            },
+            {
+                  "name": "Mirador El Domo",
+                  "text": "Un punct panoramic lângă cel mai înalt punct al rutei transandine, cu vedere spre vârfurile din Mérida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.876976,
+                        8.88042
+                  ]
+            },
+            {
+                  "name": "Picacho El Gavilán",
+                  "text": "Un vârf stâncos proeminent în Anzii înalți, servind adesea ca punct de reper pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        -70.800426,
+                        8.850556
+                  ]
+            },
+            {
+                  "name": "Alto de Timotes",
+                  "text": "Un vârf muntos lângă orașul Timotes, marcând trecerea spre văile mai joase.",
+                  "category": "natural",
+                  "coords": [
+                        -70.823515,
+                        8.855369
+                  ]
+            },
+            {
+                  "name": "Condor",
+                  "text": "Un monument de bronz reprezentând un condor la Collado del Cóndor, onorând traversarea Anzilor de către Bolivar în 1813.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.861903,
+                        8.843312
+                  ]
+            },
+            {
+                  "name": "Cerro El Balcón",
+                  "text": "O proeminență stâncoasă naturală cu vederi largi asupra podișului arid din regiunea El Águila.",
+                  "category": "natural",
+                  "coords": [
+                        -70.839849,
+                        8.834039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Mifés",
+                  "text": "A majestic peak near the Pico El Águila pass, overlooking the vast paramo landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -70.806541,
+                        8.759503
+                  ]
+            },
+            {
+                  "name": "Cerro El Duende",
+                  "text": "A lonely mountain peak in the Andean high-altitude desert, known for its mystical atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        -70.881,
+                        8.840973
+                  ]
+            },
+            {
+                  "name": "Pico Los Caracoles",
+                  "text": "A high peak near Pico El Águila, named for the winding mountain roads in the area.",
+                  "category": "natural",
+                  "coords": [
+                        -70.898466,
+                        8.884711
+                  ]
+            },
+            {
+                  "name": "Mirador El Domo",
+                  "text": "A panoramic viewpoint near the highest point of the Trans-Andean route, overlooking the Mérida peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -70.876976,
+                        8.88042
+                  ]
+            },
+            {
+                  "name": "Picacho El Gavilán",
+                  "text": "A prominent rocky peak in the high Andes, often serving as a landmark for mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        -70.800426,
+                        8.850556
+                  ]
+            },
+            {
+                  "name": "Alto de Timotes",
+                  "text": "A mountain peak near the town of Timotes, marking the transition toward the lower valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -70.823515,
+                        8.855369
+                  ]
+            },
+            {
+                  "name": "Condor",
+                  "text": "A bronze condor monument at Collado del Cóndor, honoring Bolivar's 1813 crossing of the Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.861903,
+                        8.843312
+                  ]
+            },
+            {
+                  "name": "Cerro El Balcón",
+                  "text": "A natural rocky balcony-like ridge with wide views over the barren highland in the El Águila region.",
+                  "category": "natural",
+                  "coords": [
+                        -70.839849,
+                        8.834039
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico El Águila", hu: "Pico El Águila", ro: "Pico El Águila", en: "Pico El Águila" },
@@ -273,7 +858,124 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-pico-el-aguila-relief-v2.webp",
   },
   {
-    id: "venezuela-kukenan-tepui-relief-v2",
+    id: "venezuela-kukenan-tepui-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador la Ventana",
+                  "text": "Der Aussichtspunkt Window ermöglicht einen spektakulären Blick durch eine Lücke in den Klippen des Tepuis Kukenán.",
+                  "category": "natural",
+                  "coords": [
+                        -60.786291,
+                        5.180294
+                  ]
+            },
+            {
+                  "name": "Kukenán Tepuy",
+                  "text": "Der Kukenán Tepuy ist ein markanter Tafelberg in Venezuela, der für seine fast senkrechten Felswände und den hoch aufragenden Wasserfall Salto Kukenan bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -60.829241,
+                        5.211709
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa María",
+                  "text": "Die Ermita de Santa María ist ein christlicher Schrein in der beeindruckenden Naturlandschaft nahe dem Kukenán Tepuy.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.833955,
+                        5.106207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador la Ventana",
+                  "text": "A Window kilátópont látványos kilátást tesz lehetővé a Kukenán-tepui sziklái közötti résen keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -60.786291,
+                        5.180294
+                  ]
+            },
+            {
+                  "name": "Kukenán Tepuy",
+                  "text": "A Kukenán Tepuy egy feltűnő táblahegy Venezuelában, amely szinte függőleges sziklafalairól és a magasba tornyosuló Salto Kukenan vízesésről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -60.829241,
+                        5.211709
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa María",
+                  "text": "Az Ermita de Santa María egy keresztény szentély a Kukenán Tepuy környéki lenyűgöző természeti tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.833955,
+                        5.106207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador la Ventana",
+                  "text": "Punctul de belvedere Window permite o priveliște spectaculoasă printr-o breșă în stâncile tepuiului Kukenán.",
+                  "category": "natural",
+                  "coords": [
+                        -60.786291,
+                        5.180294
+                  ]
+            },
+            {
+                  "name": "Kukenán Tepuy",
+                  "text": "Kukenán Tepuy este un munte cu vârf plat distinctiv din Venezuela, cunoscut pentru pereții săi de stâncă aproape verticali și cascada înaltă Salto Kukenan.",
+                  "category": "natural",
+                  "coords": [
+                        -60.829241,
+                        5.211709
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa María",
+                  "text": "Ermita de Santa María este un altar creștin în peisajul natural impresionant de lângă Kukenán Tepuy.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.833955,
+                        5.106207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Window",
+                  "text": "The Window viewpoint provides a spectacular look through a gap in the cliffs of the Kukenán tepui.",
+                  "category": "natural",
+                  "coords": [
+                        -60.786291,
+                        5.180294
+                  ]
+            },
+            {
+                  "name": "Kukenán Tepuy",
+                  "text": "The Kukenán Tepuy is a prominent flat-topped mountain in Venezuela, known for its sheer rock faces and the towering Salto Kukenan waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -60.829241,
+                        5.211709
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa María",
+                  "text": "The Ermita de Santa María is a Christian shrine situated in the impressive natural landscape near the Kukenán Tepuy.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.833955,
+                        5.106207
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "mountain",
     name: { de: "Kukenán-Tepui", hu: "Kukenán-tepui", ro: "Kukenán-Tepui", en: "Kukenán-Tepui" },
@@ -363,7 +1065,556 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-sierra-de-perija-relief-v2.webp",
   },
   {
-    id: "venezuela-pico-mucuchies-relief-v2",
+    id: "venezuela-pico-mucuchies-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Saisay",
+                  "text": "Ein imposanter Gipfel in der Sierra de la Culata, umgeben von alpiner Hochlandvegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -70.85907,
+                        8.736725
+                  ]
+            },
+            {
+                  "name": "Loma de La Ensillada",
+                  "text": "Ein Aussichtspunkt auf einem Bergrücken in den Hochanden in der Nähe von Mucuchíes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.900097,
+                        8.71997
+                  ]
+            },
+            {
+                  "name": "Mesa de Los Indios",
+                  "text": "Ein markanter Tafelberg in der Nähe von Mucuchíes, der für seine flache Spitze bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.880527,
+                        8.727733
+                  ]
+            },
+            {
+                  "name": "Cerro Los Pantanos",
+                  "text": "Ein Gipfel in den Anden, dessen Name auf die feuchten Hochmoorlandschaften der Umgebung hinweist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.919066,
+                        8.786478
+                  ]
+            },
+            {
+                  "name": "Mesa La Angostura",
+                  "text": "Eine natürliche Hochplateau-Formation mit steilen Flanken in der Region Mucuchíes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.95696,
+                        8.77456
+                  ]
+            },
+            {
+                  "name": "Cerro La Paila",
+                  "text": "Ein runder Berggipfel oberhalb der transandinen Route mit Blick auf das Chama-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -70.963912,
+                        8.843687
+                  ]
+            },
+            {
+                  "name": "Pico Piedras Blancas",
+                  "text": "Einer der höchsten Gipfel Venezuelas in der Sierra de La Culata, bekannt für seine felsige Beschaffenheit.",
+                  "category": "natural",
+                  "coords": [
+                        -70.95166,
+                        8.85874
+                  ]
+            },
+            {
+                  "name": "Alto Portachuelo",
+                  "text": "Ein strategischer Bergpass und Gipfel in den venezolanischen Anden auf über 4.000 Metern Höhe.",
+                  "category": "natural",
+                  "coords": [
+                        -70.885763,
+                        8.801109
+                  ]
+            },
+            {
+                  "name": "Picacho San Antonio",
+                  "text": "Ein schroffer, felsiger Gipfel in der Nähe von San Antonio, der Wanderer mit Panoramablicken belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.886954,
+                        8.815836
+                  ]
+            },
+            {
+                  "name": "Pico Los Nevados",
+                  "text": "Ein beeindruckender Berggipfel in der Sierra Nevada de Mérida, der oft von Wolken umhüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.921855,
+                        8.864464
+                  ]
+            },
+            {
+                  "name": "Alto de Micanón",
+                  "text": "Ein hoher Andengipfel in der kargen Paramo-Landschaft oberhalb von Mucuchíes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.917521,
+                        8.843517
+                  ]
+            },
+            {
+                  "name": "Museo de Astronomia a Ciencias Espaciales (MACE)",
+                  "text": "Ein Wissenschaftsmuseum beim Llano del Hato Observatorium, das Exponate zur Astronomie in den Hochanden zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.870969,
+                        8.786434
+                  ]
+            },
+            {
+                  "name": "Capilla de piedra",
+                  "text": "Eine ikonische Kapelle in San Rafael de Mucuchíes, die vollständig aus lokalen Flusssteinen ohne Mörtel erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.871571,
+                        8.77202
+                  ]
+            },
+            {
+                  "name": "Iglesia Mucuchíes",
+                  "text": "Die koloniale Hauptkirche von Mucuchíes, gelegen am höchstgelegenen Hauptplatz Venezuelas.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.92077,
+                        8.748014
+                  ]
+            },
+            {
+                  "name": "Aguas termales La Musui",
+                  "text": "Natürliche Thermalquellen an einem steilen Hang mit spektakulärer Aussicht auf die umliegenden Andengipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -70.959288,
+                        8.752331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Saisay",
+                  "text": "Impozáns hegycsúcs a Sierra de la Culata hegységben, havasi növényzettel környezve.",
+                  "category": "natural",
+                  "coords": [
+                        -70.85907,
+                        8.736725
+                  ]
+            },
+            {
+                  "name": "Loma de La Ensillada",
+                  "text": "Hegyháti kilátópont a magas-Andokban, Mucuchíes városának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -70.900097,
+                        8.71997
+                  ]
+            },
+            {
+                  "name": "Mesa de Los Indios",
+                  "text": "Jellegzetes táblahegy Mucuchíes közelében, amely lapos tetejéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.880527,
+                        8.727733
+                  ]
+            },
+            {
+                  "name": "Cerro Los Pantanos",
+                  "text": "Andoki hegycsúcs, amelynek neve a környező vizenyős, mocsaras felföldekre utal.",
+                  "category": "natural",
+                  "coords": [
+                        -70.919066,
+                        8.786478
+                  ]
+            },
+            {
+                  "name": "Mesa La Angostura",
+                  "text": "Természetes fennsík-alakzat meredek oldalakkal Mucuchíes régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -70.95696,
+                        8.77456
+                  ]
+            },
+            {
+                  "name": "Cerro La Paila",
+                  "text": "Kerekded hegycsúcs a transzandoki útvonal felett, kilátással a Chama-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.963912,
+                        8.843687
+                  ]
+            },
+            {
+                  "name": "Pico Piedras Blancas",
+                  "text": "Venezuela egyik legmagasabb csúcsa a Sierra de La Culata hegységben, amely sziklás terepéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.95166,
+                        8.85874
+                  ]
+            },
+            {
+                  "name": "Alto Portachuelo",
+                  "text": "Stratégiai hegyi hágó és csúcs a venezuelai Andokban, 4000 méter feletti magasságban.",
+                  "category": "natural",
+                  "coords": [
+                        -70.885763,
+                        8.801109
+                  ]
+            },
+            {
+                  "name": "Picacho San Antonio",
+                  "text": "Zord sziklacsúcs San Antonio közelében, amely panorámás kilátással jutalmazza a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        -70.886954,
+                        8.815836
+                  ]
+            },
+            {
+                  "name": "Pico Los Nevados",
+                  "text": "Lenyűgöző hegycsúcs a Sierra Nevada de Mérida hegységben, amelyet gyakran felhők borítanak.",
+                  "category": "natural",
+                  "coords": [
+                        -70.921855,
+                        8.864464
+                  ]
+            },
+            {
+                  "name": "Alto de Micanón",
+                  "text": "Magas andoki csúcs a Mucuchíes feletti kopár paramo-vidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -70.917521,
+                        8.843517
+                  ]
+            },
+            {
+                  "name": "Museo de Astronomia a Ciencias Espaciales (MACE)",
+                  "text": "Tudományos múzeum a Llano del Hato csillagvizsgálónál, amely csillagászati kiállításokat kínál a magas-Andokban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.870969,
+                        8.786434
+                  ]
+            },
+            {
+                  "name": "Capilla de piedra",
+                  "text": "Ikonikus kápolna San Rafael de Mucuchíes-ben, amely teljes egészében helyi folyami kövekből, habarcs nélkül épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.871571,
+                        8.77202
+                  ]
+            },
+            {
+                  "name": "Iglesia Mucuchíes",
+                  "text": "Mucuchíes gyarmati stílusú főtemploma, amely Venezuela legmagasabban fekvő főterén áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.92077,
+                        8.748014
+                  ]
+            },
+            {
+                  "name": "Aguas termales La Musui",
+                  "text": "Természetes termálforrások egy meredek hegyoldalon, látványos kilátással a környező andoki csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        -70.959288,
+                        8.752331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Saisay",
+                  "text": "Un vârf impunător în Sierra de la Culata, înconjurat de vegetație alpină de munte.",
+                  "category": "natural",
+                  "coords": [
+                        -70.85907,
+                        8.736725
+                  ]
+            },
+            {
+                  "name": "Loma de La Ensillada",
+                  "text": "Un punct de observație pe o creastă din Anzii înalți, situat în apropierea localității Mucuchíes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.900097,
+                        8.71997
+                  ]
+            },
+            {
+                  "name": "Mesa de Los Indios",
+                  "text": "Un platou muntos distinctiv lângă Mucuchíes, cunoscut pentru vârful său plat.",
+                  "category": "natural",
+                  "coords": [
+                        -70.880527,
+                        8.727733
+                  ]
+            },
+            {
+                  "name": "Cerro Los Pantanos",
+                  "text": "Un vârf andin al cărui nume face referire la zonele umede de mare altitudine din împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        -70.919066,
+                        8.786478
+                  ]
+            },
+            {
+                  "name": "Mesa La Angostura",
+                  "text": "O formațiune naturală de platou înalt cu versanți abrupți în regiunea Mucuchíes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.95696,
+                        8.77456
+                  ]
+            },
+            {
+                  "name": "Cerro La Paila",
+                  "text": "Un vârf muntos rotunjit deasupra rutei transandine, cu vedere spre Valea Chama.",
+                  "category": "natural",
+                  "coords": [
+                        -70.963912,
+                        8.843687
+                  ]
+            },
+            {
+                  "name": "Pico Piedras Blancas",
+                  "text": "Unul dintre cele mai înalte vârfuri din Venezuela în Sierra de La Culata, cunoscut pentru terenul său stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.95166,
+                        8.85874
+                  ]
+            },
+            {
+                  "name": "Alto Portachuelo",
+                  "text": "O trecătoare montană strategică și un vârf în Anzii venezueleni la peste 4.000 de metri altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -70.885763,
+                        8.801109
+                  ]
+            },
+            {
+                  "name": "Picacho San Antonio",
+                  "text": "Un vârf stâncos accidentat lângă San Antonio, care răsplătește drumeții cu vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        -70.886954,
+                        8.815836
+                  ]
+            },
+            {
+                  "name": "Pico Los Nevados",
+                  "text": "Un vârf muntos impresionant în Sierra Nevada de Mérida, adesea învăluit în nori.",
+                  "category": "natural",
+                  "coords": [
+                        -70.921855,
+                        8.864464
+                  ]
+            },
+            {
+                  "name": "Alto de Micanón",
+                  "text": "Un vârf andin înalt situat în peisajul arid de paramo de deasupra localității Mucuchíes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.917521,
+                        8.843517
+                  ]
+            },
+            {
+                  "name": "Museo de Astronomia a Ciencias Espaciales (MACE)",
+                  "text": "Un muzeu de științe la Observatorul Llano del Hato, prezentând exponate de astronomie în Anzii înalți.",
+                  "category": "museum",
+                  "coords": [
+                        -70.870969,
+                        8.786434
+                  ]
+            },
+            {
+                  "name": "Capilla de piedra",
+                  "text": "O capelă iconică în San Rafael de Mucuchíes, construită integral din pietre de râu locale, fără mortar.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.871571,
+                        8.77202
+                  ]
+            },
+            {
+                  "name": "Iglesia Mucuchíes",
+                  "text": "Biserica principală colonială din Mucuchíes, situată în cea mai înaltă piață centrală din Venezuela.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.92077,
+                        8.748014
+                  ]
+            },
+            {
+                  "name": "Aguas termales La Musui",
+                  "text": "Izvoare termale naturale pe un versant abrupt, cu vederi spectaculoase asupra vârfurilor andine din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -70.959288,
+                        8.752331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Saisay",
+                  "text": "An imposing peak in the Sierra de la Culata, surrounded by high-altitude alpine vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -70.85907,
+                        8.736725
+                  ]
+            },
+            {
+                  "name": "Loma de La Ensillada",
+                  "text": "A ridge-top viewpoint in the high Andes, located near the town of Mucuchíes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.900097,
+                        8.71997
+                  ]
+            },
+            {
+                  "name": "Mesa de Los Indios",
+                  "text": "A distinctive mesa-like peak near Mucuchíes, known for its flat top.",
+                  "category": "natural",
+                  "coords": [
+                        -70.880527,
+                        8.727733
+                  ]
+            },
+            {
+                  "name": "Cerro Los Pantanos",
+                  "text": "An Andean peak whose name refers to the surrounding high-altitude wetland moors.",
+                  "category": "natural",
+                  "coords": [
+                        -70.919066,
+                        8.786478
+                  ]
+            },
+            {
+                  "name": "Mesa La Angostura",
+                  "text": "A natural high-plateau formation with steep flanks in the Mucuchíes region.",
+                  "category": "natural",
+                  "coords": [
+                        -70.95696,
+                        8.77456
+                  ]
+            },
+            {
+                  "name": "Cerro La Paila",
+                  "text": "A rounded mountain peak situated above the Trans-Andean route, overlooking the Chama Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -70.963912,
+                        8.843687
+                  ]
+            },
+            {
+                  "name": "Pico Piedras Blancas",
+                  "text": "One of the highest peaks in Venezuela within the Sierra de La Culata, known for its rocky terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -70.95166,
+                        8.85874
+                  ]
+            },
+            {
+                  "name": "Alto Portachuelo",
+                  "text": "A strategic mountain pass and peak in the Venezuelan Andes at over 4,000 meters elevation.",
+                  "category": "natural",
+                  "coords": [
+                        -70.885763,
+                        8.801109
+                  ]
+            },
+            {
+                  "name": "Picacho San Antonio",
+                  "text": "A rugged rocky peak near San Antonio, rewarding hikers with panoramic Andean views.",
+                  "category": "natural",
+                  "coords": [
+                        -70.886954,
+                        8.815836
+                  ]
+            },
+            {
+                  "name": "Pico Los Nevados",
+                  "text": "An impressive mountain peak in the Sierra Nevada de Mérida, often shrouded in clouds.",
+                  "category": "natural",
+                  "coords": [
+                        -70.921855,
+                        8.864464
+                  ]
+            },
+            {
+                  "name": "Alto de Micanón",
+                  "text": "A high Andean peak located in the barren paramo landscape above Mucuchíes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.917521,
+                        8.843517
+                  ]
+            },
+            {
+                  "name": "Museo de Astronomia a Ciencias Espaciales (MACE)",
+                  "text": "A science museum at the Llano del Hato Observatory, featuring astronomy exhibits in the high Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -70.870969,
+                        8.786434
+                  ]
+            },
+            {
+                  "name": "Capilla de piedra",
+                  "text": "An iconic chapel in San Rafael de Mucuchíes, built entirely from local river stones without mortar.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.871571,
+                        8.77202
+                  ]
+            },
+            {
+                  "name": "Iglesia Mucuchíes",
+                  "text": "The main colonial-style church of Mucuchíes, situated on the highest main square in Venezuela.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.92077,
+                        8.748014
+                  ]
+            },
+            {
+                  "name": "Aguas termales La Musui",
+                  "text": "Natural thermal hot springs on a steep slope with spectacular views of the surrounding Andean peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -70.959288,
+                        8.752331
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico Mucuchíes", hu: "Pico Mucuchíes", ro: "Pico Mucuchíes", en: "Pico Mucuchíes" },
@@ -453,7 +1704,88 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-mount-cuyuni-relief-v2.webp",
   },
   {
-    id: "venezuela-sierra-de-la-culata-relief-v2",
+    id: "venezuela-sierra-de-la-culata-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Loma de Los Quemados",
+                  "text": "Ein Aussichtspunkt in der Sierra de la Culata, der einen weiten Blick über die karge, von Espeletia-Pflanzen geprägte Hochsteppe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.147375,
+                        8.886598
+                  ]
+            },
+            {
+                  "name": "Cerro Costa Rica",
+                  "text": "Ein Berggipfel in den venezolanischen Anden, der für sein empfindliches Páramo-Ökosystem und seine raue Schönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.156774,
+                        8.917952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loma de Los Quemados",
+                  "text": "Kilátópont a Sierra de la Culata hegységben, ahonnan pazar kilátás nyílik a kopár, Espeletia-növényekkel teli magashegyi sztyeppére.",
+                  "category": "natural",
+                  "coords": [
+                        -71.147375,
+                        8.886598
+                  ]
+            },
+            {
+                  "name": "Cerro Costa Rica",
+                  "text": "Hegycsúcs a venezuelai Andokban, amely érzékeny páramo-ökoszisztémájáról és zord szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.156774,
+                        8.917952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loma de Los Quemados",
+                  "text": "Un punct de observație în Sierra de la Culata, oferind o vedere panoramică asupra stepei montane aride, dominate de plante Espeletia.",
+                  "category": "natural",
+                  "coords": [
+                        -71.147375,
+                        8.886598
+                  ]
+            },
+            {
+                  "name": "Cerro Costa Rica",
+                  "text": "Un vârf muntos din Anzii venezueleni, cunoscut pentru ecosistemul său fragil de páramo și frumusețea sa aspră.",
+                  "category": "natural",
+                  "coords": [
+                        -71.156774,
+                        8.917952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loma de Los Quemados",
+                  "text": "A scenic peak in the Sierra de la Culata range offering expansive views over the stark high-altitude paramo landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.147375,
+                        8.886598
+                  ]
+            },
+            {
+                  "name": "Cerro Costa Rica",
+                  "text": "A mountain peak in the Venezuelan Andes known for its fragile páramo ecosystem and rugged natural beauty.",
+                  "category": "natural",
+                  "coords": [
+                        -71.156774,
+                        8.917952
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "mountain",
     name: { de: "Sierra de la Culata", hu: "Sierra de la Culata", ro: "Sierra de la Culata", en: "Sierra de la Culata" },
@@ -498,7 +1830,376 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-sierra-de-la-culata-relief-v2.webp",
   },
   {
-    id: "venezuela-pico-guirigay-relief-v2",
+    id: "venezuela-pico-guirigay-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alto del Totumo",
+                  "text": "Ein über 3.500 Meter hoher Andengipfel, der oft von den charakteristischen Nebelwäldern der Region umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.833922,
+                        8.930861
+                  ]
+            },
+            {
+                  "name": "Pico Los Patos",
+                  "text": "Ein abgelegener Gipfel im Pico-Guirigay-Massiv, der Wanderern eine unberührte Natur und schroffe Felsformationen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.840198,
+                        8.91846
+                  ]
+            },
+            {
+                  "name": "Cerro Cruz Chiquita",
+                  "text": "Ein markanter Berg in der Region Trujillo, der durch seine felsige Struktur und karge Hochgebirgsflora besticht.",
+                  "category": "natural",
+                  "coords": [
+                        -70.798774,
+                        8.868832
+                  ]
+            },
+            {
+                  "name": "Cerro La Petronila",
+                  "text": "Ein Gipfel in der Gebirgskette von Trujillo, der Teil eines wichtigen ökologischen Korridors in den Hochanden ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.755472,
+                        8.859864
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "Ein natürlicher Aussichtspunkt in der Nähe des Pico Guirigay, der den Blick auf einen kleinen Wasserfall im Páramo freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.735919,
+                        8.84035
+                  ]
+            },
+            {
+                  "name": "Cerro Piedra Negra",
+                  "text": "Ein markanter dunkler Felsgipfel in den Anden von Trujillo, der für seine ungewöhnlichen geologischen Formationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.771179,
+                        8.898173
+                  ]
+            },
+            {
+                  "name": "Cerro Cañada Cerrada",
+                  "text": "Ein Gipfel im Páramo-Hochland, der in unmittelbarer Nähe zu den kristallklaren Gletscherlagunen der Region liegt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.784569,
+                        8.879093
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Bárbara",
+                  "text": "Eine Erhebung in der Sierra Nevada de Mérida, die Bergsteigern als wichtiger Navigationspunkt im Gelände dient.",
+                  "category": "natural",
+                  "coords": [
+                        -70.762596,
+                        8.906441
+                  ]
+            },
+            {
+                  "name": "Pico Miranda",
+                  "text": "Ein hoher Andengipfel in Trujillo, der für seine anspruchsvollen Kletterpfade und weiten Panoramablicke bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.807679,
+                        8.961798
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Domingo",
+                  "text": "Eine historische christliche Kirche in der Nähe des Pico Guirigay, die für ihre schlichte ländliche Andenarchitektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.697148,
+                        8.859669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alto del Totumo",
+                  "text": "Egy több mint 3500 méter magas andoki csúcs, amelyet gyakran a régióra jellemző köderdők vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        -70.833922,
+                        8.930861
+                  ]
+            },
+            {
+                  "name": "Pico Los Patos",
+                  "text": "Távoli csúcs a Pico Guirigay masszívumban, amely érintetlen természetet és szaggatott sziklaformációkat kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -70.840198,
+                        8.91846
+                  ]
+            },
+            {
+                  "name": "Cerro Cruz Chiquita",
+                  "text": "Jellegzetes hegy Trujillo régiójában, amely sziklás szerkezetével és kopár magashegyi flórájával tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        -70.798774,
+                        8.868832
+                  ]
+            },
+            {
+                  "name": "Cerro La Petronila",
+                  "text": "Csúcs Trujillo hegyláncában, amely a magas-andoki régió egyik fontos ökológiai folyosójának része.",
+                  "category": "natural",
+                  "coords": [
+                        -70.755472,
+                        8.859864
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "Természetes kilátópont a Pico Guirigay közelében, ahonnan rálátás nyílik egy kis páramo-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.735919,
+                        8.84035
+                  ]
+            },
+            {
+                  "name": "Cerro Piedra Negra",
+                  "text": "Jellegzetes sötét sziklacsúcs Trujillo Andoki vonulatában, amely szokatlan geológiai formációiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.771179,
+                        8.898173
+                  ]
+            },
+            {
+                  "name": "Cerro Cañada Cerrada",
+                  "text": "Csúcs a páramo-fennsíkon, amely a régió kristálytiszta gleccsertavainak közvetlen közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        -70.784569,
+                        8.879093
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Bárbara",
+                  "text": "Magaslat a Sierra Nevada de Mérida hegységben, amely fontos tájékozódási pontként szolgál a hegymászók számára.",
+                  "category": "natural",
+                  "coords": [
+                        -70.762596,
+                        8.906441
+                  ]
+            },
+            {
+                  "name": "Pico Miranda",
+                  "text": "Magas andoki csúcs Trujillóban, amely kihívást jelentő mászóútjairól és tágas panorámájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.807679,
+                        8.961798
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Domingo",
+                  "text": "Történelmi keresztény templom a Pico Guirigay közelében, amely egyszerű vidéki andoki építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.697148,
+                        8.859669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alto del Totumo",
+                  "text": "Un vârf andin de peste 3.500 de metri înălțime, adesea înconjurat de pădurile de ceață caracteristice regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -70.833922,
+                        8.930861
+                  ]
+            },
+            {
+                  "name": "Pico Los Patos",
+                  "text": "Un vârf izolat din masivul Pico Guirigay, care oferă drumeților o natură neatinsă și formațiuni stâncoase abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        -70.840198,
+                        8.91846
+                  ]
+            },
+            {
+                  "name": "Cerro Cruz Chiquita",
+                  "text": "Un munte distinctiv în regiunea Trujillo, remarcabil prin structura sa stâncoasă și flora montană aridă.",
+                  "category": "natural",
+                  "coords": [
+                        -70.798774,
+                        8.868832
+                  ]
+            },
+            {
+                  "name": "Cerro La Petronila",
+                  "text": "Un vârf din lanțul muntos Trujillo, care face parte dintr-un coridor ecologic important din zona înaltă a Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -70.755472,
+                        8.859864
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "Un punct de observație natural lângă Pico Guirigay, care oferă vedere spre o mică cascadă din zona de páramo.",
+                  "category": "natural",
+                  "coords": [
+                        -70.735919,
+                        8.84035
+                  ]
+            },
+            {
+                  "name": "Cerro Piedra Negra",
+                  "text": "Un vârf stâncos de culoare închisă din Anzii Trujillo, cunoscut pentru formațiunile sale geologice neobișnuite.",
+                  "category": "natural",
+                  "coords": [
+                        -70.771179,
+                        8.898173
+                  ]
+            },
+            {
+                  "name": "Cerro Cañada Cerrada",
+                  "text": "Un vârf din podișul páramo, situat în imediata apropiere a lagunelor glaciare cristaline din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -70.784569,
+                        8.879093
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Bárbara",
+                  "text": "O proeminență în Sierra Nevada de Mérida, care servește ca punct de navigație important pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        -70.762596,
+                        8.906441
+                  ]
+            },
+            {
+                  "name": "Pico Miranda",
+                  "text": "Un vârf andin înalt din Trujillo, cunoscut pentru traseele sale de cățărare provocatoare și vederile panoramice vaste.",
+                  "category": "natural",
+                  "coords": [
+                        -70.807679,
+                        8.961798
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Domingo",
+                  "text": "O biserică creștină istorică de lângă Pico Guirigay, cunoscută pentru arhitectura sa rurală andină simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.697148,
+                        8.859669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alto del Totumo",
+                  "text": "An Andean peak rising above 3,500 meters, often shrouded in the region's characteristic high-altitude cloud forests.",
+                  "category": "natural",
+                  "coords": [
+                        -70.833922,
+                        8.930861
+                  ]
+            },
+            {
+                  "name": "Pico Los Patos",
+                  "text": "A remote peak in the Pico Guirigay massif offering hikers untouched wilderness and rugged rocky formations.",
+                  "category": "natural",
+                  "coords": [
+                        -70.840198,
+                        8.91846
+                  ]
+            },
+            {
+                  "name": "Cerro Cruz Chiquita",
+                  "text": "A prominent mountain in the Trujillo region notable for its rocky structure and sparse high-altitude flora.",
+                  "category": "natural",
+                  "coords": [
+                        -70.798774,
+                        8.868832
+                  ]
+            },
+            {
+                  "name": "Cerro La Petronila",
+                  "text": "A peak in the Trujillo mountain range forming part of a vital ecological corridor in the high Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.755472,
+                        8.859864
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "A natural viewpoint near Pico Guirigay offering a scenic view of a small waterfall cascading through the páramo.",
+                  "category": "natural",
+                  "coords": [
+                        -70.735919,
+                        8.84035
+                  ]
+            },
+            {
+                  "name": "Cerro Piedra Negra",
+                  "text": "A striking dark rocky peak in the Trujillo Andes known for its unusual geological formations and stark appearance.",
+                  "category": "natural",
+                  "coords": [
+                        -70.771179,
+                        8.898173
+                  ]
+            },
+            {
+                  "name": "Cerro Cañada Cerrada",
+                  "text": "A peak in the páramo highlands situated in close proximity to the region's crystal-clear glacial lagoons.",
+                  "category": "natural",
+                  "coords": [
+                        -70.784569,
+                        8.879093
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Bárbara",
+                  "text": "An elevation in the Sierra Nevada de Mérida that serves as a key navigational landmark for mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        -70.762596,
+                        8.906441
+                  ]
+            },
+            {
+                  "name": "Pico Miranda",
+                  "text": "A high Andean peak in Trujillo known for its challenging climbing paths and expansive panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -70.807679,
+                        8.961798
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Domingo",
+                  "text": "A historic Christian church near Pico Guirigay known for its simple and traditional rural Andean architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.697148,
+                        8.859669
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico Guirigay", hu: "Pico Guirigay", ro: "Pico Guirigay", en: "Pico Guirigay" },
@@ -543,7 +2244,160 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-pico-guirigay-relief-v2.webp",
   },
   {
-    id: "venezuela-sierra-de-san-luis-relief-v2",
+    id: "venezuela-sierra-de-san-luis-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "El haitón del Guarataro",
+                  "text": "Diese beeindruckende Karsthöhle in der Sierra de San Luis gilt mit über 300 Metern Tiefe als der tiefste vertikale Schacht Venezuelas.",
+                  "category": "natural",
+                  "coords": [
+                        -69.689675,
+                        11.149687
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein lokaler Versammlungsort der Zeugen Jehovas in der bergigen Region der Sierra de San Luis.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.677594,
+                        11.170292
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera Evangélica de la Sierra",
+                  "text": "Eine evangelische Missionskirche, die in der ländlichen Hochlandregion der Sierra de San Luis tätig ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.612666,
+                        11.145614
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Las Mercedes",
+                  "text": "Eine katholische Landkirche, die der Jungfrau der Barmherzigkeit gewidmet ist und in der Sierra de San Luis liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.674917,
+                        11.168131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El haitón del Guarataro",
+                  "text": "Ez az impozáns karsztbarlang a Sierra de San Luis hegységben Venezuela legmélyebb függőleges aknája a maga 300 méteres mélységével.",
+                  "category": "natural",
+                  "coords": [
+                        -69.689675,
+                        11.149687
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi helyi gyülekezeti terme a Sierra de San Luis hegyvidéki régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.677594,
+                        11.170292
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera Evangélica de la Sierra",
+                  "text": "Evangéliumi missziós templom, amely a Sierra de San Luis vidéki felföldi régiójában működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.612666,
+                        11.145614
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Las Mercedes",
+                  "text": "Az Irgalmas Szűzanyának szentelt katolikus falusi templom a Sierra de San Luis hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.674917,
+                        11.168131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El haitón del Guarataro",
+                  "text": "Această peșteră carstică impresionantă din Sierra de San Luis este considerată cel mai adânc puț vertical din Venezuela, având peste 300 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        -69.689675,
+                        11.149687
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O sală de întruniri locală a Martorilor lui Iehova în regiunea muntoasă Sierra de San Luis.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.677594,
+                        11.170292
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera Evangélica de la Sierra",
+                  "text": "O biserică misionară evanghelică ce activează în regiunea rurală înaltă din Sierra de San Luis.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.612666,
+                        11.145614
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Las Mercedes",
+                  "text": "O biserică catolică rurală dedicată Fecioarei de Mercedes, situată în Sierra de San Luis.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.674917,
+                        11.168131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El haitón del Guarataro",
+                  "text": "This impressive karst cave in the Sierra de San Luis is considered Venezuela's deepest vertical shaft, exceeding 300 meters in depth.",
+                  "category": "natural",
+                  "coords": [
+                        -69.689675,
+                        11.149687
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A local meeting hall for Jehovah's Witnesses in the mountainous Sierra de San Luis region.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.677594,
+                        11.170292
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera Evangélica de la Sierra",
+                  "text": "An evangelical missionary church operating in the rural highland region of the Sierra de San Luis.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.612666,
+                        11.145614
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Las Mercedes",
+                  "text": "A rural Catholic church dedicated to Our Lady of Mercy, located in the Sierra de San Luis mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.674917,
+                        11.168131
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "mountain",
     name: { de: "Sierra de San Luis", hu: "Sierra de San Luis", ro: "Sierra de San Luis", en: "Sierra de San Luis" },
@@ -588,7 +2442,88 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-sierra-de-san-luis-relief-v2.webp",
   },
   {
-    id: "venezuela-pico-pulpito-relief-v2",
+    id: "venezuela-pico-pulpito-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Loma de Sinigüís",
+                  "text": "Ein markanter Bergrücken in den venezolanischen Anden, der weite Ausblicke über das Púlpito-Massiv bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.934738,
+                        8.605003
+                  ]
+            },
+            {
+                  "name": "Peña El Hombre",
+                  "text": "Ein schroffer felsen Gipfel im Hochgebirge, der charakteristisch für die Paramos-Landschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.008431,
+                        8.600175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loma de Sinigüís",
+                  "text": "Jellegzetes hegyhát a venezuelai Andokban, amely széles kilátást nyújt a Púlpito-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        -70.934738,
+                        8.605003
+                  ]
+            },
+            {
+                  "name": "Peña El Hombre",
+                  "text": "Zord sziklacsúcs a magashegységben, amely a paramo-vidék jellegzetes formációja.",
+                  "category": "natural",
+                  "coords": [
+                        -71.008431,
+                        8.600175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loma de Sinigüís",
+                  "text": "O culme muntoasă distinctivă în Anzii venezueleni, oferind vederi largi asupra masivului Púlpito.",
+                  "category": "natural",
+                  "coords": [
+                        -70.934738,
+                        8.605003
+                  ]
+            },
+            {
+                  "name": "Peña El Hombre",
+                  "text": "Un vârf stâncos accidentat în munții înalți, caracteristic peisajului de paramo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.008431,
+                        8.600175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loma de Sinigüís",
+                  "text": "A distinctive mountain ridge in the Venezuelan Andes, offering wide views over the Púlpito massif.",
+                  "category": "natural",
+                  "coords": [
+                        -70.934738,
+                        8.605003
+                  ]
+            },
+            {
+                  "name": "Peña El Hombre",
+                  "text": "A rugged rocky peak in the high mountains, characteristic of the paramo landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.008431,
+                        8.600175
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico Púlpito", hu: "Pico Púlpito", ro: "Pico Púlpito", en: "Pico Púlpito" },
@@ -723,7 +2658,124 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-mount-neblina-relief-v2.webp",
   },
   {
-    id: "venezuela-sierra-de-falcon-relief-v2",
+    id: "venezuela-sierra-de-falcon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Galán",
+                  "text": "Dieser Berg in der Sierra de San Luis ist für seine feuchten Nebelwälder und seine reiche Vogelwelt bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        -69.167132,
+                        10.920313
+                  ]
+            },
+            {
+                  "name": "Cerro El Encantico",
+                  "text": "Ein malerischer Gipfel in Falcón, der einen weiten Blick über die tropischen Trockenwälder der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -69.1958,
+                        10.932891
+                  ]
+            },
+            {
+                  "name": "Cerro Los Saltos",
+                  "text": "Eine markante Erhebung im Falcón-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        -69.252813,
+                        10.944647
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Galán",
+                  "text": "Ez a Sierra de San Luis-i hegy nedves köderdőiről és gazdag madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -69.167132,
+                        10.920313
+                  ]
+            },
+            {
+                  "name": "Cerro El Encantico",
+                  "text": "Egy festői csúcs Falcónban, amely tágas kilátást nyújt a régió trópusi száraz erdőire.",
+                  "category": "natural",
+                  "coords": [
+                        -69.1958,
+                        10.932891
+                  ]
+            },
+            {
+                  "name": "Cerro Los Saltos",
+                  "text": "A Falcón-hegység egyik jellegzetes csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -69.252813,
+                        10.944647
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Galán",
+                  "text": "Acest munte din Sierra de San Luis este cunoscut pentru pădurile sale umede de ceață și fauna bogată de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        -69.167132,
+                        10.920313
+                  ]
+            },
+            {
+                  "name": "Cerro El Encantico",
+                  "text": "Un vârf pitoresc din Falcón, care oferă o vedere panoramică asupra pădurilor tropicale uscate ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -69.1958,
+                        10.932891
+                  ]
+            },
+            {
+                  "name": "Cerro Los Saltos",
+                  "text": "Un vârf proeminent situat în lanțul muntos Sierra de Falcón.",
+                  "category": "natural",
+                  "coords": [
+                        -69.252813,
+                        10.944647
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Galán",
+                  "text": "This mountain in the Sierra de San Luis is known for its humid cloud forests and rich birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        -69.167132,
+                        10.920313
+                  ]
+            },
+            {
+                  "name": "Cerro El Encantico",
+                  "text": "A scenic peak in Falcón offering expansive views over the region's tropical dry forests.",
+                  "category": "natural",
+                  "coords": [
+                        -69.1958,
+                        10.932891
+                  ]
+            },
+            {
+                  "name": "Cerro Los Saltos",
+                  "text": "A prominent peak located in the Sierra de Falcón mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -69.252813,
+                        10.944647
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "mountain",
     name: { de: "Sierra de Falcón", hu: "Sierra de Falcón", ro: "Sierra de Falcón", en: "Sierra de Falcón" },
@@ -813,7 +2865,340 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-mount-marahuaca-relief-v2.webp",
   },
   {
-    id: "venezuela-pico-el-buitre-relief-v2",
+    id: "venezuela-pico-el-buitre-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Las Hernández",
+                  "text": "Ein abgelegener Gipfel in den Anden, umgeben von der charakteristischen Frailejón-Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -70.986357,
+                        8.754307
+                  ]
+            },
+            {
+                  "name": "Loma El Medio",
+                  "text": "Ein sanfter Hügelrücken in den Hochanden, der einen weiten Blick auf das Buitre-Massiv bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.987601,
+                        8.741985
+                  ]
+            },
+            {
+                  "name": "Ecowild",
+                  "text": "Ein ökologischer Park mit einer Sammlung lokaler Wildtiere in der natürlichen Umgebung der Anden.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.084143,
+                        8.722865
+                  ]
+            },
+            {
+                  "name": "Pueblito Sueños del Abuelo",
+                  "text": "Ein Kultur-Themenpark, der ein traditionelles Bergdorf nachbildet und das Erbe der Anden zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.081577,
+                        8.710027
+                  ]
+            },
+            {
+                  "name": "Mesa Amarilla",
+                  "text": "Ein flacher Tafelberg in den Anden, benannt nach den gelblichen Flechten auf seinen Felsen.",
+                  "category": "natural",
+                  "coords": [
+                        -71.131754,
+                        8.73487
+                  ]
+            },
+            {
+                  "name": "Cerro El Morrón",
+                  "text": "Ein markanter, steiler Felskegel in der Sierra de la Culata, beliebt bei erfahrenen Bergsteigern.",
+                  "category": "natural",
+                  "coords": [
+                        -71.015775,
+                        8.826597
+                  ]
+            },
+            {
+                  "name": "Pico Pan de Azúcar",
+                  "text": "Ein hoher Berggipfel in der Sierra de la Culata, bekannt für seine charakteristische kegelförmige Gestalt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.001423,
+                        8.810294
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine kleine, schlichte Bergkapelle, die Wanderern am Fuße des Pico El Buitre Schutz bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.084834,
+                        8.709749
+                  ]
+            },
+            {
+                  "name": "Iglesia de Mucurubá",
+                  "text": "Die charmante Dorfkirche von Mucurubá mit ihrer weißen Fassade inmitten der hohen Berggipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.991785,
+                        8.708582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Las Hernández",
+                  "text": "Távoli andoki csúcs, amelyet a jellegzetes frailejón növényzet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        -70.986357,
+                        8.754307
+                  ]
+            },
+            {
+                  "name": "Loma El Medio",
+                  "text": "Lankás hegyhát a magas-Andokban, amely tágas kilátást nyújt a Buitre-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        -70.987601,
+                        8.741985
+                  ]
+            },
+            {
+                  "name": "Ecowild",
+                  "text": "Ökológiai park helyi vadállatokkal az Andok természetes környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.084143,
+                        8.722865
+                  ]
+            },
+            {
+                  "name": "Pueblito Sueños del Abuelo",
+                  "text": "Kulturális élménypark, amely egy hagyományos hegyi falut imitál és az andoki örökséget mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.081577,
+                        8.710027
+                  ]
+            },
+            {
+                  "name": "Mesa Amarilla",
+                  "text": "Lapos táblahegy az Andokban, amely a szikláin található sárgás zuzmókról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -71.131754,
+                        8.73487
+                  ]
+            },
+            {
+                  "name": "Cerro El Morrón",
+                  "text": "Jellegzetes, meredek sziklakúp a Sierra de la Culata hegységben, a tapasztalt hegymászók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        -71.015775,
+                        8.826597
+                  ]
+            },
+            {
+                  "name": "Pico Pan de Azúcar",
+                  "text": "Magas hegycsúcs a Sierra de la Culata hegységben, amely jellegzetes kúp alakjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.001423,
+                        8.810294
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Kicsi, egyszerű hegyi kápolna, amely menedéket nyújt a túrázóknak a Pico El Buitre lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.084834,
+                        8.709749
+                  ]
+            },
+            {
+                  "name": "Iglesia de Mucurubá",
+                  "text": "Mucurubá bájos falusi temploma fehér homlokzatával a magas hegycsúcsok ölelésében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.991785,
+                        8.708582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Las Hernández",
+                  "text": "Un vârf andin izolat, înconjurat de vegetația caracteristică de frailejón.",
+                  "category": "natural",
+                  "coords": [
+                        -70.986357,
+                        8.754307
+                  ]
+            },
+            {
+                  "name": "Loma El Medio",
+                  "text": "O culme muntoasă domoală în Anzii înalți, oferind o vedere vastă asupra masivului Buitre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.987601,
+                        8.741985
+                  ]
+            },
+            {
+                  "name": "Ecowild",
+                  "text": "Un parc ecologic care găzduiește o colecție de animale sălbatice locale în mediul natural al Anzilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.084143,
+                        8.722865
+                  ]
+            },
+            {
+                  "name": "Pueblito Sueños del Abuelo",
+                  "text": "Un parc tematic cultural care recreează un sat tradițional de munte și prezintă moștenirea andină.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.081577,
+                        8.710027
+                  ]
+            },
+            {
+                  "name": "Mesa Amarilla",
+                  "text": "Un platou muntos în Anzi, numit după lichenii gălbui de pe stâncile sale.",
+                  "category": "natural",
+                  "coords": [
+                        -71.131754,
+                        8.73487
+                  ]
+            },
+            {
+                  "name": "Cerro El Morrón",
+                  "text": "Un con stâncos abrupt și distinctiv în Sierra de la Culata, popular printre alpiniștii experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        -71.015775,
+                        8.826597
+                  ]
+            },
+            {
+                  "name": "Pico Pan de Azúcar",
+                  "text": "Un vârf muntos înalt în Sierra de la Culata, cunoscut pentru forma sa conică caracteristică.",
+                  "category": "natural",
+                  "coords": [
+                        -71.001423,
+                        8.810294
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O capelă montană mică și simplă, oferind adăpost drumeților la baza vârfului Pico El Buitre.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.084834,
+                        8.709749
+                  ]
+            },
+            {
+                  "name": "Iglesia de Mucurubá",
+                  "text": "Fermecătoarea biserică din satul Mucurubá, cu fațada sa albă încadrată de vârfurile montane înalte.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.991785,
+                        8.708582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Las Hernández",
+                  "text": "A remote Andean peak surrounded by the characteristic frailejón high-altitude vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -70.986357,
+                        8.754307
+                  ]
+            },
+            {
+                  "name": "Loma El Medio",
+                  "text": "A gentle mountain ridge in the high Andes, offering a vast view of the Buitre massif.",
+                  "category": "natural",
+                  "coords": [
+                        -70.987601,
+                        8.741985
+                  ]
+            },
+            {
+                  "name": "Ecowild",
+                  "text": "An ecological park featuring a collection of local wildlife in the natural Andean setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.084143,
+                        8.722865
+                  ]
+            },
+            {
+                  "name": "Pueblito Sueños del Abuelo",
+                  "text": "A cultural theme park recreating a traditional mountain village and showcasing Andean heritage.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.081577,
+                        8.710027
+                  ]
+            },
+            {
+                  "name": "Mesa Amarilla",
+                  "text": "A flat-topped mesa in the Andes, named for the yellowish lichens found on its rocks.",
+                  "category": "natural",
+                  "coords": [
+                        -71.131754,
+                        8.73487
+                  ]
+            },
+            {
+                  "name": "Cerro El Morrón",
+                  "text": "A distinctive, steep rocky cone in the Sierra de la Culata, popular with experienced climbers.",
+                  "category": "natural",
+                  "coords": [
+                        -71.015775,
+                        8.826597
+                  ]
+            },
+            {
+                  "name": "Pico Pan de Azúcar",
+                  "text": "A high mountain peak in the Sierra de la Culata, known for its characteristic conical shape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.001423,
+                        8.810294
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A small, simple mountain chapel providing shelter to hikers at the foot of Pico El Buitre.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.084834,
+                        8.709749
+                  ]
+            },
+            {
+                  "name": "Iglesia de Mucurubá",
+                  "text": "The charming village church of Mucurubá with its white facade set against the high mountain peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.991785,
+                        8.708582
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico El Buitre", hu: "Pico El Buitre", ro: "Pico El Buitre", en: "Pico El Buitre" },
@@ -858,7 +3243,52 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-pico-el-buitre-relief-v2.webp",
   },
   {
-    id: "venezuela-mount-jaua-relief-v2",
+    id: "venezuela-mount-jaua-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Jaua",
+                  "text": "Ein markanter Berggipfel in der venezolanischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -64.507525,
+                        4.755516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Jaua",
+                  "text": "Egy jelentős hegycsúcs a venezuelai tájon.",
+                  "category": "natural",
+                  "coords": [
+                        -64.507525,
+                        4.755516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Jaua",
+                  "text": "Un vârf montan proeminent care se înalță în peisajul venezuelean.",
+                  "category": "natural",
+                  "coords": [
+                        -64.507525,
+                        4.755516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Jaua",
+                  "text": "A notable mountain peak rising in the Venezuelan landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -64.507525,
+                        4.755516
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "mountain",
     name: { de: "Mount Jaua", hu: "Jaua-hegy", ro: "Muntele Jaua", en: "Mount Jaua" },
@@ -948,7 +3378,196 @@ export const venezuelaReliefV2: POI[] = [
     image: "/poi-images/venezuela-sierra-de-neblina-relief-v2.webp",
   },
   {
-    id: "venezuela-pico-reveron-relief-v2",
+    id: "venezuela-pico-reveron-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Sulbarán",
+                  "text": "Dieser Berggipfel in der Region Mérida überragt das malerische Tal des Flusses Chama.",
+                  "category": "natural",
+                  "coords": [
+                        -71.023758,
+                        8.647575
+                  ]
+            },
+            {
+                  "name": "Los Aleros",
+                  "text": "Dieser Themenpark lässt ein traditionelles andinisches Dorf aus den 1930er Jahren detailgetreu aufleben.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.025991,
+                        8.666587
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Tabay",
+                  "text": "Ein Zentrum für lokales Handwerk und Musik, das die Kultur der Andenbewohner von Tabay pflegt.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.077481,
+                        8.632569
+                  ]
+            },
+            {
+                  "name": "Virgen de La Mucuy",
+                  "text": "Ein religiöser Schrein am Eingang zum Sierra-Nevada-Nationalpark, der ein wichtiger Pilgerort ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.049078,
+                        8.626206
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tabay",
+                  "text": "Eine Kirche im Kolonialstil, die direkt an der zentralen Plaza der Stadt Tabay steht.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.078764,
+                        8.6321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Sulbarán",
+                  "text": "Ez a méridai régióban található hegycsúcs a Chama-folyó festői völgye fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.023758,
+                        8.647575
+                  ]
+            },
+            {
+                  "name": "Los Aleros",
+                  "text": "Ez a témapark hűen elevenít fel egy hagyományos, 1930-as évekbeli andoki falut.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.025991,
+                        8.666587
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Tabay",
+                  "text": "A helyi kézművesség és zene központja, amely Tabay andoki lakóinak kultúráját ápolja.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.077481,
+                        8.632569
+                  ]
+            },
+            {
+                  "name": "Virgen de La Mucuy",
+                  "text": "A Sierra Nevada Nemzeti Park bejáratánál található vallási kegyhely fontos zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.049078,
+                        8.626206
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tabay",
+                  "text": "Gyarmati stílusú templom, amely közvetlenül Tabay város központi terén áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.078764,
+                        8.6321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Sulbarán",
+                  "text": "Acest vârf montan din regiunea Mérida domină valea pitorească a râului Chama.",
+                  "category": "natural",
+                  "coords": [
+                        -71.023758,
+                        8.647575
+                  ]
+            },
+            {
+                  "name": "Los Aleros",
+                  "text": "Acest parc tematic recreează fidel un sat andin tradițional din anii 1930.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.025991,
+                        8.666587
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Tabay",
+                  "text": "Un centru pentru meșteșuguri și muzică locală, care cultivă cultura locuitorilor andini din Tabay.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.077481,
+                        8.632569
+                  ]
+            },
+            {
+                  "name": "Virgen de La Mucuy",
+                  "text": "Un altar religios la intrarea în parcul național Sierra Nevada, fiind un important loc de pelerinaj.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.049078,
+                        8.626206
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tabay",
+                  "text": "O biserică în stil colonial situată direct în piața centrală a orașului Tabay.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.078764,
+                        8.6321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Sulbarán",
+                  "text": "This mountain peak in the Mérida region overlooks the scenic valley of the Chama River.",
+                  "category": "natural",
+                  "coords": [
+                        -71.023758,
+                        8.647575
+                  ]
+            },
+            {
+                  "name": "Los Aleros",
+                  "text": "This theme park faithfully recreates a traditional 1930s Andean village.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.025991,
+                        8.666587
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Tabay",
+                  "text": "A hub for local crafts and music, preserving the culture of the Andean people of Tabay.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.077481,
+                        8.632569
+                  ]
+            },
+            {
+                  "name": "Virgen de La Mucuy",
+                  "text": "A religious shrine at the entrance to the Sierra Nevada national park, serving as a key pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.049078,
+                        8.626206
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tabay",
+                  "text": "A colonial-style church located directly on the central plaza of the town of Tabay.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.078764,
+                        8.6321
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico Reverón", hu: "Pico Reverón", ro: "Pico Reverón", en: "Pico Reverón" },

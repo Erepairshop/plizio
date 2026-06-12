@@ -2,7 +2,160 @@
 import type { POI } from "./poi";
 
 export const poiExtraGuyanaCitiesV2: POI[] = [ {
-    id: "georgetown-cities-v2",
+    id: "georgetown-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Home",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet eine einzigartige Perspektive über das umliegende Wohnviertel.",
+                  "category": "natural",
+                  "coords": [
+                        -58.158938,
+                        6.802776
+                  ]
+            },
+            {
+                  "name": "First Assembly of God Wortmanville",
+                  "text": "Diese im Viertel Wortmanville gelegene Assembly of God-Kirche veranstaltet lebendige christliche Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.15654,
+                        6.804102
+                  ]
+            },
+            {
+                  "name": "Old Kingdom Hall",
+                  "text": "Dieses historische Gebäude diente früher als Königreichssaal für lokale Versammlungen der Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.161631,
+                        6.80247
+                  ]
+            },
+            {
+                  "name": "Ahmaddiya Anjuman Masjid",
+                  "text": "Diese lokale Moschee dient der muslimischen Ahmadiyya-Gemeinschaft als Zentrum für tägliche Gebete und islamische Lehren.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156321,
+                        6.806106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Home",
+                  "text": "Ez a megemelt kilátópont egyedi perspektívát kínál a környező lakóövezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.158938,
+                        6.802776
+                  ]
+            },
+            {
+                  "name": "First Assembly of God Wortmanville",
+                  "text": "A Wortmanville negyedben található Assembly of God templom élénk keresztény istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.15654,
+                        6.804102
+                  ]
+            },
+            {
+                  "name": "Old Kingdom Hall",
+                  "text": "Ez a történelmi épület korábban a helyi Jehova Tanúi gyülekezetének Királyság-termeként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.161631,
+                        6.80247
+                  ]
+            },
+            {
+                  "name": "Ahmaddiya Anjuman Masjid",
+                  "text": "Ez a helyi mecset az ahmadiyya muszlim közösség központjaként szolgál a napi imákhoz és iszlám tanításokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156321,
+                        6.806106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Home",
+                  "text": "Acest punct de belvedere înalt oferă o perspectivă unică asupra cartierului rezidențial din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -58.158938,
+                        6.802776
+                  ]
+            },
+            {
+                  "name": "First Assembly of God Wortmanville",
+                  "text": "Situată în zona Wortmanville, această biserică a Adunărilor lui Dumnezeu găzduiește slujbe creștine vibrante.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.15654,
+                        6.804102
+                  ]
+            },
+            {
+                  "name": "Old Kingdom Hall",
+                  "text": "Această clădire istorică a servit anterior ca Sală a Regatului pentru adunările locale ale Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.161631,
+                        6.80247
+                  ]
+            },
+            {
+                  "name": "Ahmaddiya Anjuman Masjid",
+                  "text": "Această moschee locală servește comunitatea musulmană Ahmadiyya ca centru pentru rugăciunile zilnice și învățăturile islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156321,
+                        6.806106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Home",
+                  "text": "This elevated viewpoint offers a unique vantage point over the surrounding residential neighborhood.",
+                  "category": "natural",
+                  "coords": [
+                        -58.158938,
+                        6.802776
+                  ]
+            },
+            {
+                  "name": "First Assembly of God Wortmanville",
+                  "text": "Situated in the Wortmanville area, this Assembly of God church hosts vibrant Christian services.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.15654,
+                        6.804102
+                  ]
+            },
+            {
+                  "name": "Old Kingdom Hall",
+                  "text": "This historic building formerly served as a Kingdom Hall for local Jehovah's Witness gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.161631,
+                        6.80247
+                  ]
+            },
+            {
+                  "name": "Ahmaddiya Anjuman Masjid",
+                  "text": "This local mosque serves the Ahmadiyya Muslim community as a center for daily prayers and Islamic teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156321,
+                        6.806106
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GY-DE",
     coords: [-58.1553, 6.8045],
@@ -42,7 +195,520 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       pt: ["A cidade de Georgetown está localizada na região GY-DE.", "Desempenha um papel importante na economia local."],
       fr: ["La ville de Georgetown est située dans la région GY-DE.", "Elle joue un rôle important dans l'économie locale."],
     }, image: "/poi-images/georgetown-cities-v2.webp"}, {
-    id: "linden-cities-v2",
+    id: "linden-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Egbert Benjamin Exhibition & Conference Centre",
+                  "text": "Eine moderne Ausstellungshalle in Linden, die für kulturelle Veranstaltungen und Wirtschaftsgipfel genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        -58.30338,
+                        6.011917
+                  ]
+            },
+            {
+                  "name": "Linden Museum",
+                  "text": "Dieses Museum in einem kolonialen Gebäude zeigt Artefakte aus der Ära des Bauxitbergbaus.",
+                  "category": "museum",
+                  "coords": [
+                        -58.305181,
+                        6.007146
+                  ]
+            },
+            {
+                  "name": "cannabis field",
+                  "text": "Versteckte landwirtschaftliche Parzellen inmitten des dichten Busches der Region Upper Demerara.",
+                  "category": "natural",
+                  "coords": [
+                        -58.377584,
+                        5.986173
+                  ]
+            },
+            {
+                  "name": "Calvary Temple A.O.G.",
+                  "text": "Ein Kirchengebäude der Assemblies of God im Herzen des Mackenzie-Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.299583,
+                        6.009357
+                  ]
+            },
+            {
+                  "name": "Mora Street SDA",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten in der bewohnten Mora Street.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.301423,
+                        6.007223
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ein bescheidener Versammlungsort für die örtliche Gemeinde der Zeugen Jehovas in Linden.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.302404,
+                        6.006021
+                  ]
+            },
+            {
+                  "name": "St. Aidans Anglican Church",
+                  "text": "Eine historische anglikanische Pfarrkirche, die der Gemeinde Mackenzie nahe dem Fluss dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.307912,
+                        6.006521
+                  ]
+            },
+            {
+                  "name": "Paniel SDA Church",
+                  "text": "Eine lokale adventistische Kirche, die geistliche Dienste für die Bewohner von Linden anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -58.30482,
+                        6.013713
+                  ]
+            },
+            {
+                  "name": "St. Joseph The Worker Roman Catholic Church",
+                  "text": "Römisch-katholische Pfarrkirche, die dem Schutzpatron der Arbeiter in dieser Industriestadt gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.304567,
+                        6.00907
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mt Carmel Roman Catholic Church",
+                  "text": "Katholische Kirche, die den religiösen Bedürfnissen der Gemeinde Wismar dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.311331,
+                        6.012899
+                  ]
+            },
+            {
+                  "name": "AOG",
+                  "text": "Ein christliches Kirchengebäude der Konfession Assemblies of God in Linden.",
+                  "category": "religious",
+                  "coords": [
+                        -58.313254,
+                        6.013153
+                  ]
+            },
+            {
+                  "name": "wisroc revival centre",
+                  "text": "Ein pfingstkirchliches Anbetungszentrum im hügeligen Wisroc-Wohnviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.327075,
+                        6.002053
+                  ]
+            },
+            {
+                  "name": "Burnham Drive Church Of Christ",
+                  "text": "Diese Kirche liegt am malerischen Burnham Drive und blickt auf den Demerara-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.30796,
+                        6.001136
+                  ]
+            },
+            {
+                  "name": "Wismar market",
+                  "text": "Das wichtigste Handelszentrum für den Stadtteil Wismar am Westufer des Demerara.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.308527,
+                        6.004702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Egbert Benjamin Exhibition & Conference Centre",
+                  "text": "Modern kiállítóterem Lindenben, amely kulturális eseményeknek és gazdasági csúcstalálkozóknak ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        -58.30338,
+                        6.011917
+                  ]
+            },
+            {
+                  "name": "Linden Museum",
+                  "text": "Ez a gyarmati épületben helyet kapott múzeum a bauxitbányászat korszakának emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -58.305181,
+                        6.007146
+                  ]
+            },
+            {
+                  "name": "cannabis field",
+                  "text": "Rejtett mezőgazdasági parcellák a sűrű bozótosban, az Upper Demerara régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -58.377584,
+                        5.986173
+                  ]
+            },
+            {
+                  "name": "Calvary Temple A.O.G.",
+                  "text": "Az Assemblies of God egyház épülete Mackenzie negyedének szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.299583,
+                        6.009357
+                  ]
+            },
+            {
+                  "name": "Mora Street SDA",
+                  "text": "A Hetednapi Adventista Egyház temploma a lakóövezeti Mora utcában.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.301423,
+                        6.007223
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Jehova Tanúi helyi gyülekezetének szerény gyülekezeti terme Lindenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.302404,
+                        6.006021
+                  ]
+            },
+            {
+                  "name": "St. Aidans Anglican Church",
+                  "text": "Történelmi anglikán plébániatemplom, amely a folyó melletti Mackenzie közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.307912,
+                        6.006521
+                  ]
+            },
+            {
+                  "name": "Paniel SDA Church",
+                  "text": "Helyi adventista templom, amely hitéleti szolgáltatásokat nyújt Linden lakóinak.",
+                  "category": "religious",
+                  "coords": [
+                        -58.30482,
+                        6.013713
+                  ]
+            },
+            {
+                  "name": "St. Joseph The Worker Roman Catholic Church",
+                  "text": "Római katolikus plébániatemplom, amelyet a munkások védőszentjének szenteltek ebben az iparvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.304567,
+                        6.00907
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mt Carmel Roman Catholic Church",
+                  "text": "Katolikus templom, amely Wismar közösségének hitéleti igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.311331,
+                        6.012899
+                  ]
+            },
+            {
+                  "name": "AOG",
+                  "text": "Az Assemblies of God felekezethez tartozó keresztény templom Lindenben.",
+                  "category": "religious",
+                  "coords": [
+                        -58.313254,
+                        6.013153
+                  ]
+            },
+            {
+                  "name": "wisroc revival centre",
+                  "text": "Pünkösdi imaház a dombos Wisroc lakótelepen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.327075,
+                        6.002053
+                  ]
+            },
+            {
+                  "name": "Burnham Drive Church Of Christ",
+                  "text": "A festői Burnham Drive-on található templom a Demerara-folyóra néz.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.30796,
+                        6.001136
+                  ]
+            },
+            {
+                  "name": "Wismar market",
+                  "text": "Wismar negyed fő kereskedelmi központja a Demerara-folyó nyugati partján.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.308527,
+                        6.004702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Egbert Benjamin Exhibition & Conference Centre",
+                  "text": "O sală modernă de expoziții în Linden, utilizată pentru evenimente culturale și summituri economice.",
+                  "category": "historical",
+                  "coords": [
+                        -58.30338,
+                        6.011917
+                  ]
+            },
+            {
+                  "name": "Linden Museum",
+                  "text": "Găzduit într-o clădire colonială, acest muzeu expune artefacte din era mineritului de bauxită.",
+                  "category": "museum",
+                  "coords": [
+                        -58.305181,
+                        6.007146
+                  ]
+            },
+            {
+                  "name": "cannabis field",
+                  "text": "Parcele agricole izolate, ascunse în vegetația densă din regiunea Upper Demerara.",
+                  "category": "natural",
+                  "coords": [
+                        -58.377584,
+                        5.986173
+                  ]
+            },
+            {
+                  "name": "Calvary Temple A.O.G.",
+                  "text": "O clădire a bisericii Assemblies of God, situată în inima districtului Mackenzie.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.299583,
+                        6.009357
+                  ]
+            },
+            {
+                  "name": "Mora Street SDA",
+                  "text": "O biserică adventistă de ziua a șaptea, situată pe strada rezidențială Mora.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.301423,
+                        6.007223
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Un loc modest de întâlnire pentru congregația locală a Martorilor lui Iehova din Linden.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.302404,
+                        6.006021
+                  ]
+            },
+            {
+                  "name": "St. Aidans Anglican Church",
+                  "text": "O biserică parohială anglicană istorică, situată lângă râu, care deservește comunitatea Mackenzie.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.307912,
+                        6.006521
+                  ]
+            },
+            {
+                  "name": "Paniel SDA Church",
+                  "text": "O biserică adventistă locală care oferă servicii spirituale locuitorilor din Linden.",
+                  "category": "religious",
+                  "coords": [
+                        -58.30482,
+                        6.013713
+                  ]
+            },
+            {
+                  "name": "St. Joseph The Worker Roman Catholic Church",
+                  "text": "Biserică parohială romano-catolică dedicată sfântului patron al muncitorilor din acest oraș industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.304567,
+                        6.00907
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mt Carmel Roman Catholic Church",
+                  "text": "O biserică catolică ce deservește nevoile religioase ale comunității Wismar.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.311331,
+                        6.012899
+                  ]
+            },
+            {
+                  "name": "AOG",
+                  "text": "O biserică creștină aparținând denominațiunii Assemblies of God din Linden.",
+                  "category": "religious",
+                  "coords": [
+                        -58.313254,
+                        6.013153
+                  ]
+            },
+            {
+                  "name": "wisroc revival centre",
+                  "text": "Un centru de cult penticostal situat în complexul rezidențial deluros Wisroc.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.327075,
+                        6.002053
+                  ]
+            },
+            {
+                  "name": "Burnham Drive Church Of Christ",
+                  "text": "Situată pe pitorescul Burnham Drive, această biserică are vedere spre râul Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.30796,
+                        6.001136
+                  ]
+            },
+            {
+                  "name": "Wismar market",
+                  "text": "Principalul hub comercial pentru districtul Wismar, situat pe malul de vest al râului Demerara.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.308527,
+                        6.004702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Egbert Benjamin Exhibition & Conference Centre",
+                  "text": "A modern exhibition hall in Linden used for cultural events and economic summits.",
+                  "category": "historical",
+                  "coords": [
+                        -58.30338,
+                        6.011917
+                  ]
+            },
+            {
+                  "name": "Linden Museum",
+                  "text": "Housed in an old colonial building, this museum displays artifacts from the bauxite mining era.",
+                  "category": "museum",
+                  "coords": [
+                        -58.305181,
+                        6.007146
+                  ]
+            },
+            {
+                  "name": "cannabis field",
+                  "text": "Secluded agricultural plots hidden within the dense bush of the Upper Demerara region.",
+                  "category": "natural",
+                  "coords": [
+                        -58.377584,
+                        5.986173
+                  ]
+            },
+            {
+                  "name": "Calvary Temple A.O.G.",
+                  "text": "An Assemblies of God church building located in the heart of the Mackenzie district.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.299583,
+                        6.009357
+                  ]
+            },
+            {
+                  "name": "Mora Street SDA",
+                  "text": "A Seventh-day Adventist church situated on the residential Mora Street.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.301423,
+                        6.007223
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A modest meeting place for the local Jehovah's Witnesses congregation in Linden.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.302404,
+                        6.006021
+                  ]
+            },
+            {
+                  "name": "St. Aidans Anglican Church",
+                  "text": "A historic Anglican parish church serving the Mackenzie community near the river.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.307912,
+                        6.006521
+                  ]
+            },
+            {
+                  "name": "Paniel SDA Church",
+                  "text": "A local Adventist church providing spiritual services to the residents of Linden.",
+                  "category": "religious",
+                  "coords": [
+                        -58.30482,
+                        6.013713
+                  ]
+            },
+            {
+                  "name": "St. Joseph The Worker Roman Catholic Church",
+                  "text": "A Roman Catholic parish church dedicated to the patron saint of workers in this industrial town.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.304567,
+                        6.00907
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mt Carmel Roman Catholic Church",
+                  "text": "A Catholic church serving the religious needs of the Wismar community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.311331,
+                        6.012899
+                  ]
+            },
+            {
+                  "name": "AOG",
+                  "text": "A Christian church belonging to the Assemblies of God denomination in Linden.",
+                  "category": "religious",
+                  "coords": [
+                        -58.313254,
+                        6.013153
+                  ]
+            },
+            {
+                  "name": "wisroc revival centre",
+                  "text": "A Pentecostal worship center located in the hilly Wisroc housing scheme.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.327075,
+                        6.002053
+                  ]
+            },
+            {
+                  "name": "Burnham Drive Church Of Christ",
+                  "text": "Located on the scenic Burnham Drive, this church overlooks the Demerara River.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.30796,
+                        6.001136
+                  ]
+            },
+            {
+                  "name": "Wismar market",
+                  "text": "The main commercial hub for the Wismar district, located on the west bank of the Demerara.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.308527,
+                        6.004702
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GY-UD",
     coords: [-58.3055, 6.0028],
@@ -83,7 +749,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       en: ["Linden is the capital of the Upper Demerara-Berbice administrative region.", "The town was created by the Municipal Councils Act of 1970.", "It is known as the 'Gateway to the Interior' of Guyana.", "The blue color of the mine lakes is caused by high mineral concentration.", "Bauxite from Linden is noted for its high alumina content (over 60%).", "The Wismar-Mackenzie Bridge was the first of its kind in the area.", "Linden has a tropical rainforest climate (Af) with heavy year-round rain.", "The town covers an area of approximately 142 square kilometers."],
     },
   }, {
-    id: "new-amsterdam-cities-v2",
+    id: "new-amsterdam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "All Saints' Anglican Church",
+                  "text": "Ein bedeutendes historisches Bauwerk in New Amsterdam, bekannt für seine filigranen Holzarbeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.519182,
+                        6.246525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "All Saints' Anglican Church",
+                  "text": "New Amsterdam jelentős történelmi épülete, amely finom faipari munkáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.519182,
+                        6.246525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "All Saints' Anglican Church",
+                  "text": "O structură istorică proeminentă din New Amsterdam, cunoscută pentru detaliile sale din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.519182,
+                        6.246525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "All Saints' Anglican Church",
+                  "text": "A prominent historic structure in New Amsterdam, known for its intricate woodwork.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.519182,
+                        6.246525
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GY-EB",
     coords: [-57.5186, 6.2464],
@@ -124,7 +835,484 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       en: ["New Amsterdam is situated about 4 miles from the Atlantic coast.", "The town covers an area of approximately 1.5 square miles.", "It was the first town in British Guiana to have a public library.", "The Berbice River Bridge was opened on December 23, 2008.", "Mission Chapel is a historic Congregational church founded in 1819.", "The town is a significant stop for the cross-border trade to Suriname.", "Average humidity in New Amsterdam remains high at around 80%.", "New Amsterdam was the primary site for the Berbice High Court."],
     },
   }, {
-    id: "anna-regina-cities-v2",
+    id: "anna-regina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anna Regina SeaWall",
+                  "text": "Diese massive Küstenmauer schützt Anna Regina vor den Gezeiten des Atlantiks und dient als beliebte Promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.4778,
+                        7.262341
+                  ]
+            },
+            {
+                  "name": "Damon Monument",
+                  "text": "Eine 1988 errichtete Bronzestatue zu Ehren von Damon, der 1834 einen friedlichen Protest gegen das Zwangsarbeitssystem anführte.",
+                  "category": "historical",
+                  "coords": [
+                        -58.480747,
+                        7.263449
+                  ]
+            },
+            {
+                  "name": "Faith Deliverance Full Gospel Church",
+                  "text": "Eine lebendige Pfingstkirche in Anna Regina, die für ihre engagierte Gemeinschaft bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.491664,
+                        7.190252
+                  ]
+            },
+            {
+                  "name": "Queenstown Methodist Church",
+                  "text": "Dieses historische Gotteshaus gehört zum methodistischen Erbe der Region Essequibo Coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.490888,
+                        7.194048
+                  ]
+            },
+            {
+                  "name": "House of Praise, Assembly of God",
+                  "text": "Ein lokales Versammlungszentrum der Assembly of God, das geistliche Führung und soziale Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.489277,
+                        7.199957
+                  ]
+            },
+            {
+                  "name": "Queenstown Masjid Darul Haqq",
+                  "text": "Diese Moschee in Queenstown ist ein Zeugnis der kulturellen Vielfalt des historischen Dorfes.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.492048,
+                        7.197524
+                  ]
+            },
+            {
+                  "name": "St. Bartholomew Anglican Church",
+                  "text": "Diese einzigartige anglikanische Kirche wurde 1841 in einem ehemaligen Kaffeespeicher eingerichtet, dessen Inneres an einen umgedrehten Schiffsrumpf erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.493675,
+                        7.199379
+                  ]
+            },
+            {
+                  "name": "Anna Regina Mandir",
+                  "text": "Ein farbenfroher Hindu-Tempel, der das indische Erbe der Bewohner von Anna Regina widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.482895,
+                        7.262308
+                  ]
+            },
+            {
+                  "name": "Anna Regina Masjid",
+                  "text": "Das islamische Gebetshaus von Anna Regina dient der lokalen muslimischen Gemeinde für Gebete und Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.482972,
+                        7.259968
+                  ]
+            },
+            {
+                  "name": "Essequibo Coast International Society for Krishna Consciousness (ISKCON) New Navadvipa Dham",
+                  "text": "Diese hinduistische Tempelanlage nahe Anna Regina dient der lokalen Gemeinde als spirituelles Zentrum für Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.484109,
+                        7.239484
+                  ]
+            },
+            {
+                  "name": "Reliance Mandir",
+                  "text": "Der Reliance Mandir ist eine hinduistische Kultstätte, in der sich Gläubige aus der Umgebung von Anna Regina zum Gebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.484251,
+                        7.24689
+                  ]
+            },
+            {
+                  "name": "Anna Regina Old Market",
+                  "text": "Der Anna Regina Old Market ist ein belebter Marktplatz in der Stadt, auf dem Einheimische traditionell frische Produkte und Waren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.481993,
+                        7.263249
+                  ]
+            },
+            {
+                  "name": "Anna Regina New Market",
+                  "text": "Auf dem neuen Marktplatz in Anna Regina finden Besucher zahlreiche Stände mit regionalen landwirtschaftlichen Erzeugnissen und Alltagsgütern.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.480672,
+                        7.254898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anna Regina SeaWall",
+                  "text": "Ez a masszív tengerparti gát védi Anna Reginát az Atlanti-óceán apály-dagály váltakozásaitól, és népszerű sétányként is szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.4778,
+                        7.262341
+                  ]
+            },
+            {
+                  "name": "Damon Monument",
+                  "text": "1988-ban emelt bronzszobor Damon tiszteletére, aki 1834-ben békés tiltakozást vezetett a kényszermunka-rendszer ellen.",
+                  "category": "historical",
+                  "coords": [
+                        -58.480747,
+                        7.263449
+                  ]
+            },
+            {
+                  "name": "Faith Deliverance Full Gospel Church",
+                  "text": "Anna Regina egyik élettel teli pünkösdi temploma, amely elkötelezett közösségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.491664,
+                        7.190252
+                  ]
+            },
+            {
+                  "name": "Queenstown Methodist Church",
+                  "text": "Ez a történelmi imaház az Essequibo-partvidék metodista örökségének része.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.490888,
+                        7.194048
+                  ]
+            },
+            {
+                  "name": "House of Praise, Assembly of God",
+                  "text": "Az Assembly of God helyi gyülekezeti központja, amely hitéleti vezetést és szociális szolgáltatásokat nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.489277,
+                        7.199957
+                  ]
+            },
+            {
+                  "name": "Queenstown Masjid Darul Haqq",
+                  "text": "Ez a queenstowni mecset a történelmi falu kulturális sokszínűségének tanúbizonysága.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.492048,
+                        7.197524
+                  ]
+            },
+            {
+                  "name": "St. Bartholomew Anglican Church",
+                  "text": "Ez az egyedülálló anglikán templom 1841-ben egy korábbi kávéraktárban alakult ki, belseje egy felfordított hajótestre emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.493675,
+                        7.199379
+                  ]
+            },
+            {
+                  "name": "Anna Regina Mandir",
+                  "text": "Színpompás hindu templom, amely Anna Regina lakóinak indiai örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.482895,
+                        7.262308
+                  ]
+            },
+            {
+                  "name": "Anna Regina Masjid",
+                  "text": "Anna Regina iszlám imaháza, amely a helyi muszlim közösséget szolgálja imádságok és ünnepek alkalmával.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.482972,
+                        7.259968
+                  ]
+            },
+            {
+                  "name": "Essequibo Coast International Society for Krishna Consciousness (ISKCON) New Navadvipa Dham",
+                  "text": "Ez a hindu templomkomplexum Anna Regina közelében a helyi közösség spirituális központjaként szolgál áhítatok céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.484109,
+                        7.239484
+                  ]
+            },
+            {
+                  "name": "Reliance Mandir",
+                  "text": "A Reliance Mandir egy hindu istentiszteleti hely, ahol Anna Regina környékéről gyűlnek össze a hívek imádkozni.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.484251,
+                        7.24689
+                  ]
+            },
+            {
+                  "name": "Anna Regina Old Market",
+                  "text": "Az Anna Regina Old Market egy nyüzsgő piactér a városban, ahol a helyiek hagyományosan friss termékekkel és árukkal kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.481993,
+                        7.263249
+                  ]
+            },
+            {
+                  "name": "Anna Regina New Market",
+                  "text": "Az anna reginai új piactéren a látogatók számos standot találhatnak regionális mezőgazdasági termékekkel és mindennapi cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.480672,
+                        7.254898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anna Regina SeaWall",
+                  "text": "Acest zid de coastă masiv protejează orașul Anna Regina de mareele Atlanticului și servește ca faleză populară.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.4778,
+                        7.262341
+                  ]
+            },
+            {
+                  "name": "Damon Monument",
+                  "text": "O statuie de bronz ridicată în 1988 în onoarea lui Damon, care a condus un protest pașnic împotriva sistemului de ucenicie în 1834.",
+                  "category": "historical",
+                  "coords": [
+                        -58.480747,
+                        7.263449
+                  ]
+            },
+            {
+                  "name": "Faith Deliverance Full Gospel Church",
+                  "text": "O biserică penticostală plină de viață în Anna Regina, cunoscută pentru comunitatea sa dedicată.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.491664,
+                        7.190252
+                  ]
+            },
+            {
+                  "name": "Queenstown Methodist Church",
+                  "text": "Acest lăcaș de cult istoric face parte din moștenirea metodistă a regiunii Essequibo Coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.490888,
+                        7.194048
+                  ]
+            },
+            {
+                  "name": "House of Praise, Assembly of God",
+                  "text": "Un centru local al adunării Assembly of God, care oferă îndrumare spirituală și servicii sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.489277,
+                        7.199957
+                  ]
+            },
+            {
+                  "name": "Queenstown Masjid Darul Haqq",
+                  "text": "Această moschee din Queenstown este o dovadă a diversității culturale a acestui sat istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.492048,
+                        7.197524
+                  ]
+            },
+            {
+                  "name": "St. Bartholomew Anglican Church",
+                  "text": "Această biserică anglicană unică a fost amenajată în 1841 într-un fost depozit de cafea, având un interior ce seamănă cu o navă răsturnată.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.493675,
+                        7.199379
+                  ]
+            },
+            {
+                  "name": "Anna Regina Mandir",
+                  "text": "Un templu hindu colorat care reflectă moștenirea indiană a locuitorilor din Anna Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.482895,
+                        7.262308
+                  ]
+            },
+            {
+                  "name": "Anna Regina Masjid",
+                  "text": "Lăcașul de rugăciune islamic din Anna Regina servește comunitatea musulmană locală pentru rugăciuni și sărbători.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.482972,
+                        7.259968
+                  ]
+            },
+            {
+                  "name": "Essequibo Coast International Society for Krishna Consciousness (ISKCON) New Navadvipa Dham",
+                  "text": "Acest complex de temple hinduse de lângă Anna Regina servește drept centru spiritual pentru devoțiune pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.484109,
+                        7.239484
+                  ]
+            },
+            {
+                  "name": "Reliance Mandir",
+                  "text": "Reliance Mandir este un lăcaș de cult hindus unde credincioșii din zona Anna Regina se adună pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.484251,
+                        7.24689
+                  ]
+            },
+            {
+                  "name": "Anna Regina Old Market",
+                  "text": "Anna Regina Old Market este o piață plină de viață din oraș, unde localnicii comercializează în mod tradițional produse proaspete și mărfuri.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.481993,
+                        7.263249
+                  ]
+            },
+            {
+                  "name": "Anna Regina New Market",
+                  "text": "În noua piață din Anna Regina, vizitatorii găsesc numeroase tarabe care oferă produse agricole regionale și bunuri de uz cotidian.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.480672,
+                        7.254898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anna Regina SeaWall",
+                  "text": "This massive sea wall protects Anna Regina from Atlantic tides and serves as a popular local promenade.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.4778,
+                        7.262341
+                  ]
+            },
+            {
+                  "name": "Damon Monument",
+                  "text": "A bronze statue erected in 1988 honoring Damon, who led a peaceful 1834 protest against the post-slavery apprenticeship system.",
+                  "category": "historical",
+                  "coords": [
+                        -58.480747,
+                        7.263449
+                  ]
+            },
+            {
+                  "name": "Faith Deliverance Full Gospel Church",
+                  "text": "A vibrant Full Gospel church in Anna Regina, known for its active community and worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.491664,
+                        7.190252
+                  ]
+            },
+            {
+                  "name": "Queenstown Methodist Church",
+                  "text": "This historic house of worship is part of the Methodist heritage in the Essequibo Coast region.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.490888,
+                        7.194048
+                  ]
+            },
+            {
+                  "name": "House of Praise, Assembly of God",
+                  "text": "A local Assembly of God meeting center providing spiritual guidance and community support.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.489277,
+                        7.199957
+                  ]
+            },
+            {
+                  "name": "Queenstown Masjid Darul Haqq",
+                  "text": "This mosque in Queenstown reflects the religious and cultural diversity of this historic village.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.492048,
+                        7.197524
+                  ]
+            },
+            {
+                  "name": "St. Bartholomew Anglican Church",
+                  "text": "Established in 1841 in a former coffee logie, this unique Anglican church features an interior resembling an upside-down ship's hull.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.493675,
+                        7.199379
+                  ]
+            },
+            {
+                  "name": "Anna Regina Mandir",
+                  "text": "A colorful Hindu temple reflecting the Indian heritage of Anna Regina's inhabitants.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.482895,
+                        7.262308
+                  ]
+            },
+            {
+                  "name": "Anna Regina Masjid",
+                  "text": "The Islamic house of prayer in Anna Regina serves the local Muslim community for daily prayers and festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.482972,
+                        7.259968
+                  ]
+            },
+            {
+                  "name": "Essequibo Coast International Society for Krishna Consciousness (ISKCON) New Navadvipa Dham",
+                  "text": "This Hindu temple complex near Anna Regina serves as a spiritual center for devotion for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.484109,
+                        7.239484
+                  ]
+            },
+            {
+                  "name": "Reliance Mandir",
+                  "text": "The Reliance Mandir is a Hindu place of worship where devotees from around Anna Regina gather for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.484251,
+                        7.24689
+                  ]
+            },
+            {
+                  "name": "Anna Regina Old Market",
+                  "text": "The Anna Regina Old Market is a bustling marketplace in the city where locals traditionally trade fresh produce and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.481993,
+                        7.263249
+                  ]
+            },
+            {
+                  "name": "Anna Regina New Market",
+                  "text": "In the new marketplace in Anna Regina, visitors can find numerous stalls offering regional agricultural produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.480672,
+                        7.254898
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GY-PM",
     coords: [-58.4722, 7.2612],
@@ -165,7 +1353,268 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       en: ["Anna Regina was officially established as a town on August 1, 1970.", "It serves as the regional capital for the Pomeroon-Supenaam district.", "The town's naming is linked to a Dutch planter's daughter from the 1700s.", "Lake Mainstay, located nearby, is a major site for the annual Pineapple Festival.", "The Anna Regina Secondary School was built in 1973 with international funding.", "The town's economy is centered on rice milling and commercial retail.", "It is protected from the Atlantic Ocean by a massive concrete seawall.", "Anna Regina is a major stop on the road from Supenaam to Charity."],
     },
   }, {
-    id: "bartica-cities-v2",
+    id: "bartica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "NDIA pump",
+                  "text": "Eine leistungsstarke Entwässerungspumpstation in Bartica, die das Regenwasser der Stadt ableitet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621363,
+                        6.409937
+                  ]
+            },
+            {
+                  "name": "Self acting door",
+                  "text": "Ein Hochwasserschutztor am Fluss, das automatisch mit den wechselnden Gezeiten arbeitet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.618105,
+                        6.407796
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Eine Gemeindekirche in Bartica, der Grenzstadt, in der drei große Flüsse zusammenfließen.",
+                  "category": "religious",
+                  "coords": [
+                        -58.623826,
+                        6.408892
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Ein religiöser Versammlungsraum für Zeugen Jehovas im belebten Flusshafen von Bartica.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.622009,
+                        6.404852
+                  ]
+            },
+            {
+                  "name": "Triveni Mandir",
+                  "text": "Ein farbenfroher Hindu-Tempel in der Nähe des Zusammenflusses der Flüsse Essequibo und Mazaruni.",
+                  "category": "religious",
+                  "coords": [
+                        -58.621481,
+                        6.403543
+                  ]
+            },
+            {
+                  "name": "Bartica Church",
+                  "text": "Ein lokaler Andachtsort, der der vielfältigen Bevölkerung dieses Transitknotenpunkts im Landesinneren dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.618037,
+                        6.406877
+                  ]
+            },
+            {
+                  "name": "St. Anthony Roman Catholic Church",
+                  "text": "Eine römisch-katholische Pfarrkirche, die der Gemeinde in Bartica als spirituelles Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.619222,
+                        6.402593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "NDIA pump",
+                  "text": "Nagy teljesítményű vízelvezető szivattyútelep Barticában, amely a város csapadékvizét kezeli.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621363,
+                        6.409937
+                  ]
+            },
+            {
+                  "name": "Self acting door",
+                  "text": "Folyóparti árvízvédelmi kapu, amely a változó apály-dagály ciklussal automatikusan működik.",
+                  "category": "natural",
+                  "coords": [
+                        -58.618105,
+                        6.407796
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Közösségi templom Barticában, a határvárosban, ahol három nagy folyó találkozik.",
+                  "category": "religious",
+                  "coords": [
+                        -58.623826,
+                        6.408892
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Jehova Tanúi gyülekezeti terme Bartica nyüzsgő folyami kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.622009,
+                        6.404852
+                  ]
+            },
+            {
+                  "name": "Triveni Mandir",
+                  "text": "Színpompás hindu templom az Essequibo és a Mazaruni folyók összefolyásának közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -58.621481,
+                        6.403543
+                  ]
+            },
+            {
+                  "name": "Bartica Church",
+                  "text": "Helyi imaház, amely a belső területek ezen tranzitcsomópontjának változatos lakosságát szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.618037,
+                        6.406877
+                  ]
+            },
+            {
+                  "name": "St. Anthony Roman Catholic Church",
+                  "text": "Római katolikus plébániatemplom, amely spirituális központként szolgál Bartica közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.619222,
+                        6.402593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "NDIA pump",
+                  "text": "O stație puternică de pompare a drenajului în Bartica, care gestionează scurgerea apei din oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621363,
+                        6.409937
+                  ]
+            },
+            {
+                  "name": "Self acting door",
+                  "text": "O poartă fluvială de control al inundațiilor care funcționează automat în funcție de maree.",
+                  "category": "natural",
+                  "coords": [
+                        -58.618105,
+                        6.407796
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "O biserică comunitară în Bartica, orașul-poartă unde se întâlnesc trei râuri majore.",
+                  "category": "religious",
+                  "coords": [
+                        -58.623826,
+                        6.408892
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "O sală de întâlniri religioase pentru Martorii lui Iehova în portul fluvial aglomerat Bartica.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.622009,
+                        6.404852
+                  ]
+            },
+            {
+                  "name": "Triveni Mandir",
+                  "text": "Un templu hindu colorat situat lângă confluența râurilor Essequibo și Mazaruni.",
+                  "category": "religious",
+                  "coords": [
+                        -58.621481,
+                        6.403543
+                  ]
+            },
+            {
+                  "name": "Bartica Church",
+                  "text": "Un lăcaș de cult local care deservește populația diversă a acestui nod de tranzit din interiorul țării.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.618037,
+                        6.406877
+                  ]
+            },
+            {
+                  "name": "St. Anthony Roman Catholic Church",
+                  "text": "O biserică parohială romano-catolică care oferă un centru spiritual comunității din Bartica.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.619222,
+                        6.402593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "NDIA pump",
+                  "text": "A powerful drainage pump station in Bartica that manages the town's water runoff.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621363,
+                        6.409937
+                  ]
+            },
+            {
+                  "name": "Self acting door",
+                  "text": "A riverine flood control gate that operates automatically with the changing tides.",
+                  "category": "natural",
+                  "coords": [
+                        -58.618105,
+                        6.407796
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "A community church in Bartica, the gateway town where three major rivers meet.",
+                  "category": "religious",
+                  "coords": [
+                        -58.623826,
+                        6.408892
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A religious meeting hall for Jehovah's Witnesses in the bustling river port of Bartica.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.622009,
+                        6.404852
+                  ]
+            },
+            {
+                  "name": "Triveni Mandir",
+                  "text": "A colorful Hindu temple located near the confluence of the Essequibo and Mazaruni rivers.",
+                  "category": "religious",
+                  "coords": [
+                        -58.621481,
+                        6.403543
+                  ]
+            },
+            {
+                  "name": "Bartica Church",
+                  "text": "A local place of worship serving the diverse population of this interior transit hub.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.618037,
+                        6.406877
+                  ]
+            },
+            {
+                  "name": "St. Anthony Roman Catholic Church",
+                  "text": "A Roman Catholic parish church providing a spiritual center for the community in Bartica.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.619222,
+                        6.402593
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GY-CU",
     coords: [-58.6214, 6.4069],
@@ -206,7 +1655,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       en: ["Bartica is located at the junction of the Cuyuni, Mazaruni, and Essequibo rivers.", "The town was founded by the Anglican Church Missionary Society in 1837.", "It was officially proclaimed a town on May 7, 2016.", "The Bartica Regatta includes the prestigious 'Miss Bartica Regatta' pageant.", "It serves as the administrative center for Region 7 (Cuyuni-Mazaruni).", "The surrounding area is famous for its rich deposits of alluvial gold.", "Marshall Falls, a popular day-trip destination, is accessible by boat from Bartica.", "The town features a 1.5-megawatt solar farm as part of its green initiative."],
     },
   }, {
-    id: "corriverton-cities-v2",
+    id: "corriverton-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elperazim Fullgospel Fellowship",
+                  "text": "Diese Pfingstgemeinde bietet Gottesdienste in der lebhaften Grenzstadt Corriverton an.",
+                  "category": "religious",
+                  "coords": [
+                        -57.144837,
+                        5.866692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elperazim Fullgospel Fellowship",
+                  "text": "Ez a pünkösdi gyülekezet Corriverton nyüzsgő határvárosában tartja istentiszteleteit.",
+                  "category": "religious",
+                  "coords": [
+                        -57.144837,
+                        5.866692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elperazim Fullgospel Fellowship",
+                  "text": "Această părtășie penticostală oferă servicii religioase în orașul de frontieră Corriverton.",
+                  "category": "religious",
+                  "coords": [
+                        -57.144837,
+                        5.866692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elperazim Fullgospel Fellowship",
+                  "text": "This Pentecostal fellowship offers services in the lively border town of Corriverton.",
+                  "category": "religious",
+                  "coords": [
+                        -57.144837,
+                        5.866692
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-EB",
     coords: [-57.1357, 5.8673],
@@ -300,7 +1794,124 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Rose Hall a été le théâtre d'une des révoltes d'esclaves les plus marquantes en 1813.", "La ville est, en termes de superficie, la plus petite des villes officielles du Guyana.", "Rose Hall sert de centre commercial pour plus de 20 villages environnants.", "La Rose Hall Sugar Factory est l'une des plus anciennes installations encore partiellement actives.", "La ville est connue pour sa forte densité de commerces de détail.", "Rose Hall joue un rôle central dans les célébrations de la journée de l'immigration indienne."],
     }
   }, {
-    id: "mahaica-village-cities-v2",
+    id: "mahaica-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aqueduct",
+                  "text": "Dieses monumentale Aquäduktbauwerk ist ein Überbleibsel der historischen Wasserwirtschaftstechnik im Dorf Mahaica.",
+                  "category": "historical",
+                  "coords": [
+                        -57.92389,
+                        6.676313
+                  ]
+            },
+            {
+                  "name": "St. Paul Roman Catholic Church",
+                  "text": "Die Pfarrei St. Paul versammelt sich in dieser römisch-katholischen Kirche, um im Herzen des Dorfes Mahaica die Messe zu feiern.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.917509,
+                        6.685024
+                  ]
+            },
+            {
+                  "name": "Word of Faith Ministry",
+                  "text": "Dieser christliche Dienst bietet regelmäßige Gottesdienste und spirituelle Betreuung für die Bewohner des Dorfes Mahaica.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.925076,
+                        6.670917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aqueduct",
+                  "text": "Ez a monumentális vízvezeték-szerkezet a történelmi vízgazdálkodási mérnöki munka maradványaként áll Mahaica faluban.",
+                  "category": "historical",
+                  "coords": [
+                        -57.92389,
+                        6.676313
+                  ]
+            },
+            {
+                  "name": "St. Paul Roman Catholic Church",
+                  "text": "A Szent Pál egyházközség ebben a római katolikus templomban gyűlik össze misére Mahaica falu szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.917509,
+                        6.685024
+                  ]
+            },
+            {
+                  "name": "Word of Faith Ministry",
+                  "text": "Ez a keresztény szolgálat rendszeres istentiszteleteket és spirituális támogatást nyújt Mahaica falu lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.925076,
+                        6.670917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aqueduct",
+                  "text": "Această structură monumentală a apeductului se menține ca o rămășiță a ingineriei istorice de gestionare a apei din satul Mahaica.",
+                  "category": "historical",
+                  "coords": [
+                        -57.92389,
+                        6.676313
+                  ]
+            },
+            {
+                  "name": "St. Paul Roman Catholic Church",
+                  "text": "Parohia Sf. Paul se adună în această biserică romano-catolică pentru a oficia mesa în inima satului Mahaica.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.917509,
+                        6.685024
+                  ]
+            },
+            {
+                  "name": "Word of Faith Ministry",
+                  "text": "Acest minister creștin oferă slujbe religioase regulate și sprijin spiritual pentru locuitorii satului Mahaica.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.925076,
+                        6.670917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqueduct",
+                  "text": "This monumental aqueduct structure stands as a remnant of the historic water-management engineering in Mahaica Village.",
+                  "category": "historical",
+                  "coords": [
+                        -57.92389,
+                        6.676313
+                  ]
+            },
+            {
+                  "name": "St. Paul Roman Catholic Church",
+                  "text": "The St. Paul parish gathers in this Roman Catholic church to celebrate mass in the heart of Mahaica Village.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.917509,
+                        6.685024
+                  ]
+            },
+            {
+                  "name": "Word of Faith Ministry",
+                  "text": "This Christian ministry provides regular worship services and spiritual outreach for the residents of Mahaica Village.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.925076,
+                        6.670917
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-DE",
     coords: [-57.9228, 6.6711],
@@ -347,7 +1958,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Mahaica est un centre réputé pour la conservation de l'Hoazin huppé (Canje Pheasant).", "La rivière Mahaica est un lieu prisé pour l'observation des loutres géantes.", "L'économie repose sur l'un des rendements rizicoles par hectare les plus élevés du pays.", "La région abrite une importante communauté de producteurs laitiers.", "Mahaica se situe à la frontière entre les régions Demerara-Mahaica et Mahaica-Berbice.", "Le village possède des ponts historiques datant de l'époque britannique."],
     }
   }, {
-    id: "mahaicony-village-cities-v2",
+    id: "mahaicony-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas im Dorf Mahaicony an der Ostküste.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.80262,
+                        6.571445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Jehova Tanúi királyságterme a keleti parti Mahaicony faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.80262,
+                        6.571445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova în satul Mahaicony de pe coasta de est.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.80262,
+                        6.571445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses in the village of Mahaicony on the East Coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.80262,
+                        6.571445
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-MA",
     coords: [-57.8025, 6.5891],
@@ -394,7 +2050,160 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Mahaicony est célèbre pour sa production d'huile de coco de haute qualité.", "La rivière Mahaicony donne accès à certaines des zones de forêt tropicale les plus vierges de la côte.", "La ville abrite un important hôpital de proximité (Cottage Hospital) pour la région 5.", "Mahaicony est un centre de la culture et de la tradition indo-guyanaise.", "Le relief de la région est souvent marqué par des inondations saisonnières des savanes.", "Le pont en bois de Mahaicony a longtemps été un monument emblématique de la localité."],
     }
   }, {
-    id: "vreed-en-hoop-cities-v2",
+    id: "vreed-en-hoop-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "End",
+                  "text": "Aussichtspunkt, der das Ende einer Wanderroute entlang der Küste von Vreed-en-Hoop markiert.",
+                  "category": "natural",
+                  "coords": [
+                        -58.202375,
+                        6.817112
+                  ]
+            },
+            {
+                  "name": "125",
+                  "text": "Nummerierter Aussichtspunkt mit weitem Blick auf die umliegende flache Küstenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -58.20096,
+                        6.814782
+                  ]
+            },
+            {
+                  "name": "Crane Mandir",
+                  "text": "Hinduistischer Tempel, der den spirituellen Bedürfnissen der lokalen Dorfgemeinschaft von Crane dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.205108,
+                        6.814893
+                  ]
+            },
+            {
+                  "name": "Wesleyan Church",
+                  "text": "Christliche Kirche mit traditioneller protestantischer Architektur, die der regionalen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.198519,
+                        6.809263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "End",
+                  "text": "Kilátó, amely a Vreed-en-Hoop partvonala mentén haladó gyalogos útvonal végét jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        -58.202375,
+                        6.817112
+                  ]
+            },
+            {
+                  "name": "125",
+                  "text": "Számozott kilátó, ahonnan panorámás kilátás nyílik a környező sík tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.20096,
+                        6.814782
+                  ]
+            },
+            {
+                  "name": "Crane Mandir",
+                  "text": "Hindu templom, amely a helyi Crane faluközösség spirituális igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.205108,
+                        6.814893
+                  ]
+            },
+            {
+                  "name": "Wesleyan Church",
+                  "text": "Hagyományos protestáns építészetű keresztény templom, amely a regionális gyülekezetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.198519,
+                        6.809263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "End",
+                  "text": "Punct de belvedere ce marchează capătul unui traseu de plimbare de-a lungul coastei Vreed-en-Hoop.",
+                  "category": "natural",
+                  "coords": [
+                        -58.202375,
+                        6.817112
+                  ]
+            },
+            {
+                  "name": "125",
+                  "text": "Punct de belvedere numerotat ce oferă vederi extinse ale peisajului de coastă plat din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -58.20096,
+                        6.814782
+                  ]
+            },
+            {
+                  "name": "Crane Mandir",
+                  "text": "Templu hindus ce deservește nevoile spirituale ale comunității rurale locale din Crane.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.205108,
+                        6.814893
+                  ]
+            },
+            {
+                  "name": "Wesleyan Church",
+                  "text": "Biserică creștină cu arhitectură protestantă tradițională, ce deservește congregația regională.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.198519,
+                        6.809263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "End",
+                  "text": "Viewpoint marking the conclusion of a walking route along the Vreed-en-Hoop coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -58.202375,
+                        6.817112
+                  ]
+            },
+            {
+                  "name": "125",
+                  "text": "Numbered scenic overlook offering expansive views of the surrounding flat coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -58.20096,
+                        6.814782
+                  ]
+            },
+            {
+                  "name": "Crane Mandir",
+                  "text": "Hindu temple serving the spiritual needs of the local Crane village community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.205108,
+                        6.814893
+                  ]
+            },
+            {
+                  "name": "Wesleyan Church",
+                  "text": "Christian church featuring traditional Protestant architecture serving the regional congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.198519,
+                        6.809263
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-ES",
     coords: [-58.1923, 6.8118],
@@ -441,7 +2250,88 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Vreed-en-Hoop est le principal centre de taxis fluviaux traversant le Demerara.", "La localité abritait l'un des premiers moulins à vapeur du Guyana sur une plantation de sucre.", "Vreed-en-Hoop abrite le siège de l'administration régionale de la Région 3.", "La base côtière de Vreed-en-Hoop pour l'industrie pétrolière est en cours de construction à proximité.", "La ville est un creuset des cultures indienne et africaine.", "Vreed-en-Hoop est le point de départ de la route ferroviaire vers la côte ouest."],
     }
   }, {
-    id: "lethem-cities-v2",
+    id: "lethem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "I Love Lethem Monument",
+                  "text": "Ein modernes Denkmal, das Bürgerstolz ausdrückt und als beliebtes Fotomotiv für Besucher von Lethem dient.",
+                  "category": "historical",
+                  "coords": [
+                        -59.790248,
+                        3.38648
+                  ]
+            },
+            {
+                  "name": "Proposed abitiour",
+                  "text": "Ein Beobachtungsbereich mit Blick auf das ausgewiesene Gelände für einen geplanten lokalen Schlachthof in Lethem.",
+                  "category": "natural",
+                  "coords": [
+                        -59.776507,
+                        3.399753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "I Love Lethem Monument",
+                  "text": "Modern emlékmű, amely a polgári büszkeséget fejezi ki, és népszerű fotózási pontként szolgál Lethem látogatói számára.",
+                  "category": "historical",
+                  "coords": [
+                        -59.790248,
+                        3.38648
+                  ]
+            },
+            {
+                  "name": "Proposed abitiour",
+                  "text": "Lethemben tervezett helyi vágóhíd kijelölt helyszínére néző megfigyelőterület.",
+                  "category": "natural",
+                  "coords": [
+                        -59.776507,
+                        3.399753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "I Love Lethem Monument",
+                  "text": "Un monument modern care exprimă mândria civică și servește ca un punct de reper fotografic popular pentru vizitatorii Lethem.",
+                  "category": "historical",
+                  "coords": [
+                        -59.790248,
+                        3.38648
+                  ]
+            },
+            {
+                  "name": "Proposed abitiour",
+                  "text": "O zonă de observație cu vedere la situl desemnat pentru un abator local propus în Lethem.",
+                  "category": "natural",
+                  "coords": [
+                        -59.776507,
+                        3.399753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "I Love Lethem Monument",
+                  "text": "A modern monument expressing civic pride and serving as a popular photographic landmark for Lethem visitors.",
+                  "category": "historical",
+                  "coords": [
+                        -59.790248,
+                        3.38648
+                  ]
+            },
+            {
+                  "name": "Proposed abitiour",
+                  "text": "An observational area overlooking the designated site for a proposed local abattoir in Lethem.",
+                  "category": "natural",
+                  "coords": [
+                        -59.776507,
+                        3.399753
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "GY-UT",
     coords: [-59.8, 3.3833],
@@ -611,7 +2501,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Port Kaituma était le terminus de l'une des rares lignes de chemin de fer du Guyana.", "La ville sert de porte d'entrée au site tristement célèbre de Jonestown.", "L'exploitation minière du manganèse est actuellement relancée par des entreprises internationales.", "La ville est un mélange d'habitants de la côte et de peuples indigènes.", "La rivière Kaituma est connue pour ses virages extrêmement serrés.", "Port Kaituma abrite un hôpital régional important pour le nord-ouest."],
     }
   }, {
-    id: "kwakwani-cities-v2",
+    id: "kwakwani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Western union",
+                  "text": "Der Aussichtspunkt bei der Western Union Filiale in Kwakwani bietet einen Blick auf das städtische Treiben der kleinen Bergbaustadt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.061623,
+                        5.266205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Western union",
+                  "text": "A kwakwani-i Western Union fiók melletti kilátópont a kis bányászváros városi nyüzsgésére nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        -58.061623,
+                        5.266205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Western union",
+                  "text": "Punctul de belvedere de lângă sucursala Western Union din Kwakwani oferă o privire asupra agitației urbane din micul oraș minier.",
+                  "category": "natural",
+                  "coords": [
+                        -58.061623,
+                        5.266205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Western union",
+                  "text": "The viewpoint near the Western Union branch in Kwakwani offers a look at the urban bustle of the small mining town.",
+                  "category": "natural",
+                  "coords": [
+                        -58.061623,
+                        5.266205
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-UD",
     coords: [-58.0667, 5.2833],
@@ -1338,7 +3273,556 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Haslington est située à environ 17 kilomètres de Georgetown.", "La population s'élève à environ 2 700 habitants (état 2020).", "La superficie du village est d'environ 3,4 kilomètres carrés.", "L'altitude moyenne est de 1 mètre au-dessus du niveau de la mer.", "L'agriculture comprend plus de 400 hectares de terres arables.", "Le village possède une mosquée et une église."],
     },
   }, {
-    id: "plaisance-cities-v2",
+    id: "plaisance-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas im Dorf Plaisance an der Ostküste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.094801,
+                        6.811146
+                  ]
+            },
+            {
+                  "name": "Family Worship Cneter",
+                  "text": "Ein auf die Gemeinschaft ausgerichtetes christliches Zentrum im Viertel Plaisance.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.096385,
+                        6.814652
+                  ]
+            },
+            {
+                  "name": "Vryheid's Lust Masjid",
+                  "text": "Eine lokale Moschee für die Gemeinde Vryheid's Lust an der Hauptstraße der Ostküste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.088271,
+                        6.811505
+                  ]
+            },
+            {
+                  "name": "Better Hope Assemblys of God",
+                  "text": "Eine Pfingstkirche der Assemblies of God im Viertel Better Hope bei Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.089602,
+                        6.817563
+                  ]
+            },
+            {
+                  "name": "Seventh day Adventist Family Fest Fellowship",
+                  "text": "Ein Versammlungsraum der Siebenten-Tags-Adventisten in der Gemeinde Plaisance.",
+                  "category": "religious",
+                  "coords": [
+                        -58.082438,
+                        6.819543
+                  ]
+            },
+            {
+                  "name": "Graham's Hall Moravian Church",
+                  "text": "Diese historische mährische Brüderkirche befindet sich im Bezirk Plaisance.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.108652,
+                        6.820811
+                  ]
+            },
+            {
+                  "name": "Success Masjid",
+                  "text": "Ein lokales muslimisches Gebetshaus, das der Gemeinde Success an der East Coast Demerara dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.072986,
+                        6.816168
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ein Versammlungshaus der Heiligen der Letzten Tage im Gebiet Plaisance.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.076091,
+                        6.815828
+                  ]
+            },
+            {
+                  "name": "St. John Baptist Roman Catholic Church",
+                  "text": "Eine römisch-katholische Pfarrkirche, die eine zentrale Rolle im religiösen Leben von Plaisance spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.093934,
+                        6.81602
+                  ]
+            },
+            {
+                  "name": "Better Hope Mandir",
+                  "text": "Ein hinduistischer Mandir in der Siedlung Better Hope, der der lokalen indo-guyanischen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.088442,
+                        6.8144
+                  ]
+            },
+            {
+                  "name": "St Paul's Anglican Church",
+                  "text": "Eine anglikanische Kirche in Plaisance, die zur Diözese Guyana gehört.",
+                  "category": "religious",
+                  "coords": [
+                        -58.092906,
+                        6.81945
+                  ]
+            },
+            {
+                  "name": "Ogle Hindu Temple",
+                  "text": "Ein farbenfroher Hindu-Tempel in Ogle, unweit des Flughafens an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.103019,
+                        6.817398
+                  ]
+            },
+            {
+                  "name": "Ogle Mosque",
+                  "text": "Ein muslimisches Gebetshaus im Dorf Ogle, das als spirituelles Zentrum für die Anwohner dient.",
+                  "category": "religious",
+                  "coords": [
+                        -58.101861,
+                        6.814598
+                  ]
+            },
+            {
+                  "name": "People's Assembly of God Church",
+                  "text": "Eine christliche Freikirche der Assembly of God, die für ihre lebhaften Gottesdienste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.106782,
+                        6.812501
+                  ]
+            },
+            {
+                  "name": "Church of Nazarene Industry",
+                  "text": "Eine Kirche der Nazarener im Dorf Industry, die einen wichtigen Teil der lokalen Gemeinschaft bildet.",
+                  "category": "religious",
+                  "coords": [
+                        -58.107238,
+                        6.816187
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Jehova Tanúi királyságterme a keleti parti Plaisance faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.094801,
+                        6.811146
+                  ]
+            },
+            {
+                  "name": "Family Worship Cneter",
+                  "text": "Közösségközpontú keresztény központ Plaisance negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.096385,
+                        6.814652
+                  ]
+            },
+            {
+                  "name": "Vryheid's Lust Masjid",
+                  "text": "Helyi mecset Vryheid's Lust közössége számára, a keleti parti főút mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.088271,
+                        6.811505
+                  ]
+            },
+            {
+                  "name": "Better Hope Assemblys of God",
+                  "text": "Az Assemblies of God pünkösdi temploma a Georgetown melletti Better Hope negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.089602,
+                        6.817563
+                  ]
+            },
+            {
+                  "name": "Seventh day Adventist Family Fest Fellowship",
+                  "text": "A Hetednapi Adventista Egyház gyülekezeti helye Plaisance közösségében.",
+                  "category": "religious",
+                  "coords": [
+                        -58.082438,
+                        6.819543
+                  ]
+            },
+            {
+                  "name": "Graham's Hall Moravian Church",
+                  "text": "Ez a történelmi morva protestáns templom Plaisance körzetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.108652,
+                        6.820811
+                  ]
+            },
+            {
+                  "name": "Success Masjid",
+                  "text": "Helyi muszlim imaház, amely a Demerara keleti partján fekvő Success közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.072986,
+                        6.816168
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Az Utolsó Napi Szentek gyülekezeti háza Plaisance térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.076091,
+                        6.815828
+                  ]
+            },
+            {
+                  "name": "St. John Baptist Roman Catholic Church",
+                  "text": "Római katolikus plébániatemplom, amely központi szerepet játszik Plaisance vallási életében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.093934,
+                        6.81602
+                  ]
+            },
+            {
+                  "name": "Better Hope Mandir",
+                  "text": "Hindu mandir Better Hope településén, amely a helyi indo-guyana-i közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.088442,
+                        6.8144
+                  ]
+            },
+            {
+                  "name": "St Paul's Anglican Church",
+                  "text": "Anglikán templom Plaisance-ban, amely a Guyana-i egyházmegyéhez tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        -58.092906,
+                        6.81945
+                  ]
+            },
+            {
+                  "name": "Ogle Hindu Temple",
+                  "text": "Színes hindu templom Ogle-ban, nem messze a part menti repülőtértől.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.103019,
+                        6.817398
+                  ]
+            },
+            {
+                  "name": "Ogle Mosque",
+                  "text": "Muszlim imaház Ogle faluban, amely a helyi lakosok spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -58.101861,
+                        6.814598
+                  ]
+            },
+            {
+                  "name": "People's Assembly of God Church",
+                  "text": "Az Assembly of God keresztény szabadegyháza, amely élénk istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.106782,
+                        6.812501
+                  ]
+            },
+            {
+                  "name": "Church of Nazarene Industry",
+                  "text": "A Názáreti Egyház temploma Industry faluban, amely a helyi közösség fontos részét képezi.",
+                  "category": "religious",
+                  "coords": [
+                        -58.107238,
+                        6.816187
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "O sală a regatului a Martorilor lui Iehova în satul Plaisance de pe coasta de est.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.094801,
+                        6.811146
+                  ]
+            },
+            {
+                  "name": "Family Worship Cneter",
+                  "text": "Un centru creștin orientat spre comunitate în cartierul Plaisance.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.096385,
+                        6.814652
+                  ]
+            },
+            {
+                  "name": "Vryheid's Lust Masjid",
+                  "text": "O moschee locală pentru comunitatea Vryheid's Lust de pe drumul principal al coastei de est.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.088271,
+                        6.811505
+                  ]
+            },
+            {
+                  "name": "Better Hope Assemblys of God",
+                  "text": "O biserică penticostală Assemblies of God în cartierul Better Hope de lângă Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.089602,
+                        6.817563
+                  ]
+            },
+            {
+                  "name": "Seventh day Adventist Family Fest Fellowship",
+                  "text": "Un spațiu de întâlnire al Adventiștilor de Ziua a Șaptea în comunitatea Plaisance.",
+                  "category": "religious",
+                  "coords": [
+                        -58.082438,
+                        6.819543
+                  ]
+            },
+            {
+                  "name": "Graham's Hall Moravian Church",
+                  "text": "Această biserică istorică moravă protestantă este situată în districtul Plaisance.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.108652,
+                        6.820811
+                  ]
+            },
+            {
+                  "name": "Success Masjid",
+                  "text": "O casă de rugăciune musulmană locală care deservește comunitatea din Success, pe coasta de est a Demerarei.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.072986,
+                        6.816168
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "O casă de întrunire a Sfinților din Zilele din Urmă în zona Plaisance.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.076091,
+                        6.815828
+                  ]
+            },
+            {
+                  "name": "St. John Baptist Roman Catholic Church",
+                  "text": "O biserică parohială romano-catolică ce joacă un rol central în viața religioasă din Plaisance.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.093934,
+                        6.81602
+                  ]
+            },
+            {
+                  "name": "Better Hope Mandir",
+                  "text": "Un mandir hindu în așezarea Better Hope, care deservește comunitatea locală indo-guyaneză.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.088442,
+                        6.8144
+                  ]
+            },
+            {
+                  "name": "St Paul's Anglican Church",
+                  "text": "O biserică anglicană în Plaisance, aparținând Diecezei de Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -58.092906,
+                        6.81945
+                  ]
+            },
+            {
+                  "name": "Ogle Hindu Temple",
+                  "text": "Un templu hindu colorat în Ogle, nu departe de aeroportul de pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.103019,
+                        6.817398
+                  ]
+            },
+            {
+                  "name": "Ogle Mosque",
+                  "text": "O casă de rugăciune musulmană în satul Ogle, servind drept centru spiritual pentru rezidenții locali.",
+                  "category": "religious",
+                  "coords": [
+                        -58.101861,
+                        6.814598
+                  ]
+            },
+            {
+                  "name": "People's Assembly of God Church",
+                  "text": "O biserică creștină de tip Assembly of God, cunoscută pentru serviciile sale religioase pline de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.106782,
+                        6.812501
+                  ]
+            },
+            {
+                  "name": "Church of Nazarene Industry",
+                  "text": "O biserică a Nazarineanului în satul Industry, formând o parte importantă a comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        -58.107238,
+                        6.816187
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A Jehovah's Witness hall located in the East Coast village of Plaisance.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.094801,
+                        6.811146
+                  ]
+            },
+            {
+                  "name": "Family Worship Cneter",
+                  "text": "A community-focused Christian center in the Plaisance neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.096385,
+                        6.814652
+                  ]
+            },
+            {
+                  "name": "Vryheid's Lust Masjid",
+                  "text": "A local mosque for the Vryheid's Lust community along the East Coast main road.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.088271,
+                        6.811505
+                  ]
+            },
+            {
+                  "name": "Better Hope Assemblys of God",
+                  "text": "A Pentecostal Assemblies of God church in the Better Hope neighborhood near Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.089602,
+                        6.817563
+                  ]
+            },
+            {
+                  "name": "Seventh day Adventist Family Fest Fellowship",
+                  "text": "A Seventh-day Adventist community gathering space in the Plaisance community.",
+                  "category": "religious",
+                  "coords": [
+                        -58.082438,
+                        6.819543
+                  ]
+            },
+            {
+                  "name": "Graham's Hall Moravian Church",
+                  "text": "This historic Moravian Protestant church is located in the Plaisance district.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.108652,
+                        6.820811
+                  ]
+            },
+            {
+                  "name": "Success Masjid",
+                  "text": "A local Muslim house of prayer serving the community of Success on the East Coast Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.072986,
+                        6.816168
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A meetinghouse of the Latter-day Saints serving the Plaisance area.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.076091,
+                        6.815828
+                  ]
+            },
+            {
+                  "name": "St. John Baptist Roman Catholic Church",
+                  "text": "A Roman Catholic parish church playing a central role in the religious life of Plaisance.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.093934,
+                        6.81602
+                  ]
+            },
+            {
+                  "name": "Better Hope Mandir",
+                  "text": "A Hindu mandir in the Better Hope settlement, serving the local Indo-Guyanese community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.088442,
+                        6.8144
+                  ]
+            },
+            {
+                  "name": "St Paul's Anglican Church",
+                  "text": "An Anglican church in Plaisance, belonging to the Diocese of Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -58.092906,
+                        6.81945
+                  ]
+            },
+            {
+                  "name": "Ogle Hindu Temple",
+                  "text": "A colorful Hindu temple located in Ogle, not far from the coastal airport.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.103019,
+                        6.817398
+                  ]
+            },
+            {
+                  "name": "Ogle Mosque",
+                  "text": "A Muslim house of prayer in Ogle village, serving as a spiritual center for local residents.",
+                  "category": "religious",
+                  "coords": [
+                        -58.101861,
+                        6.814598
+                  ]
+            },
+            {
+                  "name": "People's Assembly of God Church",
+                  "text": "A Christian Assembly of God church known for its lively worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.106782,
+                        6.812501
+                  ]
+            },
+            {
+                  "name": "Church of Nazarene Industry",
+                  "text": "A Church of the Nazarene in Industry village, forming an important part of the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -58.107238,
+                        6.816187
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-DE",
     coords: [-58.1, 6.8167],
@@ -1549,7 +4033,124 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Siège administratif de la Région 4 depuis son transfert de Paradise.", "Situé à environ 11 km à l'est de la capitale Georgetown.", "Partage un conseil municipal avec Beterverwagting.", "Abrite le bureau du Conseil Démocratique Régional.", "Le drainage s'effectue via des systèmes historiques de vannes (kokers).", "Se trouve à proximité immédiate de la côte atlantique."],
     },
   }, {
-    id: "better-hope-cities-v2",
+    id: "better-hope-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ebenezer Assembly of t",
+                  "text": "Ein christliches Versammlungshaus der Assembly of God im Bezirk Better Hope.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.11789,
+                        6.801857
+                  ]
+            },
+            {
+                  "name": "Judah Assembly of God",
+                  "text": "Eine Pfingstkirche der Assembly of God an der Ostküste von Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.122835,
+                        6.799363
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Ein lokales christliches Gotteshaus im Küstenort Better Hope.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.118779,
+                        6.79615
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ebenezer Assembly of t",
+                  "text": "Az Assembly of God keresztény gyülekezeti háza Better Hope negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.11789,
+                        6.801857
+                  ]
+            },
+            {
+                  "name": "Judah Assembly of God",
+                  "text": "Az Assembly of God pünkösdi temploma Demerara keleti partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.122835,
+                        6.799363
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Helyi keresztény imaház Better Hope tengerparti településén.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.118779,
+                        6.79615
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ebenezer Assembly of t",
+                  "text": "O casă de adunare creștină a Assembly of God în districtul Better Hope.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.11789,
+                        6.801857
+                  ]
+            },
+            {
+                  "name": "Judah Assembly of God",
+                  "text": "O biserică penticostală a Assembly of God pe coasta de est a Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.122835,
+                        6.799363
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Un lăcaș de cult creștin local în așezarea de coastă Better Hope.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.118779,
+                        6.79615
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ebenezer Assembly of t",
+                  "text": "A Christian assembly hall of the Assembly of God in the Better Hope district.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.11789,
+                        6.801857
+                  ]
+            },
+            {
+                  "name": "Judah Assembly of God",
+                  "text": "A Pentecostal church of the Assembly of God on the East Coast of Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.122835,
+                        6.799363
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "A local Christian place of worship in the coastal settlement of Better Hope.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.118779,
+                        6.79615
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-DE",
     coords: [-58.1167, 6.8],
@@ -1688,7 +4289,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Fondé en 1839 par 62 anciens esclaves.", "Le prix d'achat de la terre était de 22 000 florins.", "Le nom date de l'époque coloniale néerlandaise.", "Abrite le bureau du conseil de quartier (NDC) de Beterverwagting-Triumph.", "Situé à environ 10 km à l'est de la capitale Georgetown.", "Connu pour le festival annuel de BV et ses célébrations culturelles."],
     },
   }, {
-    id: "blairmont-cities-v2",
+    id: "blairmont-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "No.4 sideline",
+                  "text": "Ein Aussichtspunkt mit Blick auf den landwirtschaftlichen Nebenkanal Nummer 4 im Gebiet des Blairmont-Anwesens.",
+                  "category": "natural",
+                  "coords": [
+                        -57.542116,
+                        6.235358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "No.4 sideline",
+                  "text": "Egy kilátópont, ahonnan megfigyelhető a 4-es számú mezőgazdasági mellékcsatorna a Blairmont birtok területén.",
+                  "category": "natural",
+                  "coords": [
+                        -57.542116,
+                        6.235358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "No.4 sideline",
+                  "text": "Un punct de belvedere care observă canalul agricol secundar numărul 4 din zona domeniului Blairmont.",
+                  "category": "natural",
+                  "coords": [
+                        -57.542116,
+                        6.235358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "No.4 sideline",
+                  "text": "A viewpoint observing the agricultural sideline canal number 4 in the Blairmont estate area.",
+                  "category": "natural",
+                  "coords": [
+                        -57.542116,
+                        6.235358
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-EB",
     coords: [-57.5333, 6.25],
@@ -1946,7 +4592,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Bush Lot est situé à environ 100 kilomètres de Georgetown.", "La population est d'environ 2 100 habitants (en 2020).", "La superficie du village est d'environ 2,9 kilomètres carrés.", "L'altitude moyenne est de 1 mètre au-dessus du niveau de la mer.", "La culture de la noix de coco s'étend sur environ 300 hectares.", "L'école primaire compte environ 150 élèves."],
     },
   }, {
-    id: "fyrish-cities-v2",
+    id: "fyrish-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mandir",
+                  "text": "Ein lokaler hinduistischer Mandir-Tempel in der dörflichen Gemeinde Fyrish an der Küste von Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.362517,
+                        6.259326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mandir",
+                  "text": "Helyi hindu mandir templom Fyrish falusi közösségében, a Berbice-parton.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.362517,
+                        6.259326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mandir",
+                  "text": "Un templu hindus local (mandir) în comunitatea rurală Fyrish de pe coasta Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.362517,
+                        6.259326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mandir",
+                  "text": "A local Hindu mandir serving the village community of Fyrish along the Berbice coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.362517,
+                        6.259326
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-EB",
     coords: [-57.3667, 6.2333],
@@ -1993,7 +4684,196 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Fyrish est située à environ 110 kilomètres de Georgetown.", "La population est d'environ 1 800 habitants (état 2020).", "La superficie du village est d'environ 2,5 kilomètres carrés.", "L'altitude moyenne est d'environ 1 mètre au-dessus du niveau de la mer.", "La riziculture s'étend sur environ 400 hectares.", "Le village célèbre chaque année Phagwah et Diwali."],
     },
   }, {
-    id: "albion-cities-v2",
+    id: "albion-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tain Bible Church",
+                  "text": "Eine christliche Bibelgemeinde in der Siedlung Tain bei Albion, einem Zentrum des Zuckerrohranbaus.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.336715,
+                        6.239397
+                  ]
+            },
+            {
+                  "name": "Canaan Full Gospel Church",
+                  "text": "Eine christliche Full-Gospel-Kirche in der Nähe der weitläufigen Zuckerrohrfelder von Albion.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.350583,
+                        6.252073
+                  ]
+            },
+            {
+                  "name": "Berbice Islamic School",
+                  "text": "Eine muslimische Bildungseinrichtung in Albion, die religiösen Unterricht in der Region Berbice anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.343193,
+                        6.244215
+                  ]
+            },
+            {
+                  "name": "St. Francis Xavier Roman Catholic Church",
+                  "text": "Eine römisch-katholische Kirche in Albion, die nach dem Jesuitenmissionar Franz Xaver benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.353176,
+                        6.253182
+                  ]
+            },
+            {
+                  "name": "Port Mourant Market",
+                  "text": "Ein lebhafter Marktplatz in Port Mourant bei Albion, bekannt für frische Produkte und lokale Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.350542,
+                        6.250261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tain Bible Church",
+                  "text": "Keresztény bibliai gyülekezet az Albion melletti Tain településen, a cukornádtermesztés központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.336715,
+                        6.239397
+                  ]
+            },
+            {
+                  "name": "Canaan Full Gospel Church",
+                  "text": "Keresztény Full Gospel templom az Albion kiterjedt cukornádmezői közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.350583,
+                        6.252073
+                  ]
+            },
+            {
+                  "name": "Berbice Islamic School",
+                  "text": "Muszlim oktatási intézmény Albionban, amely vallási oktatást nyújt Berbice régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.343193,
+                        6.244215
+                  ]
+            },
+            {
+                  "name": "St. Francis Xavier Roman Catholic Church",
+                  "text": "Római katolikus templom Albionban, amelyet Xavéri Szent Ferenc jezsuita misszionáriusról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.353176,
+                        6.253182
+                  ]
+            },
+            {
+                  "name": "Port Mourant Market",
+                  "text": "Élénk piac Port Mourantban, Albion közelében, amely friss termékeiről és helyi áruiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.350542,
+                        6.250261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tain Bible Church",
+                  "text": "O biserică biblică creștină în așezarea Tain de lângă Albion, un centru al cultivării trestiei de zahăr.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.336715,
+                        6.239397
+                  ]
+            },
+            {
+                  "name": "Canaan Full Gospel Church",
+                  "text": "O biserică creștină de tip Full Gospel situată lângă vastele câmpuri de trestie de zahăr din Albion.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.350583,
+                        6.252073
+                  ]
+            },
+            {
+                  "name": "Berbice Islamic School",
+                  "text": "O instituție de învățământ musulmană în Albion, care oferă instruire religioasă în regiunea Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.343193,
+                        6.244215
+                  ]
+            },
+            {
+                  "name": "St. Francis Xavier Roman Catholic Church",
+                  "text": "O biserică romano-catolică în Albion, numită după misionarul jezuit Sfântul Francisc Xaveriu.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.353176,
+                        6.253182
+                  ]
+            },
+            {
+                  "name": "Port Mourant Market",
+                  "text": "O piață plină de viață în Port Mourant, lângă Albion, cunoscută pentru produsele proaspete și mărfurile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.350542,
+                        6.250261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tain Bible Church",
+                  "text": "A Christian Bible church in the Tain settlement near Albion, a major center of sugar cane production.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.336715,
+                        6.239397
+                  ]
+            },
+            {
+                  "name": "Canaan Full Gospel Church",
+                  "text": "A Christian Full Gospel church located near the extensive sugar cane fields of Albion.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.350583,
+                        6.252073
+                  ]
+            },
+            {
+                  "name": "Berbice Islamic School",
+                  "text": "A Muslim educational institution in Albion providing religious instruction within the Berbice region.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.343193,
+                        6.244215
+                  ]
+            },
+            {
+                  "name": "St. Francis Xavier Roman Catholic Church",
+                  "text": "A Roman Catholic church in Albion dedicated to the Jesuit missionary Saint Francis Xavier.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.353176,
+                        6.253182
+                  ]
+            },
+            {
+                  "name": "Port Mourant Market",
+                  "text": "A vibrant marketplace in Port Mourant near Albion, renowned for its fresh produce and local Guyanese goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.350542,
+                        6.250261
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-EB",
     coords: [-57.35, 6.2333],
@@ -2040,7 +4920,88 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Albion se situe à environ 120 kilomètres de Georgetown.", "La population est d'environ 8 000 habitants (état 2020).", "La sucrerie a été fermée en 2018.", "La superficie de la localité est d'environ 10,2 kilomètres carrés.", "L'altitude moyenne est de 1 mètre au-dessus du niveau de la mer.", "L'école secondaire compte environ 600 élèves."],
     },
   }, {
-    id: "port-mourant-cities-v2",
+    id: "port-mourant-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grace Baptist Church",
+                  "text": "Eine christliche Baptistenkirche in Port Mourant, einem geschichtsträchtigen Ort in Guyana.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.324192,
+                        6.234903
+                  ]
+            },
+            {
+                  "name": "Letter Kenny Presbyterian Church",
+                  "text": "Eine presbyterianische Kirche in der Gemeinde Letter Kenny bei Port Mourant an der Corentyne-Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.320473,
+                        6.231022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grace Baptist Church",
+                  "text": "Keresztény baptista templom Port Mourantban, Guyana egyik történelmi jelentőségű településén.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.324192,
+                        6.234903
+                  ]
+            },
+            {
+                  "name": "Letter Kenny Presbyterian Church",
+                  "text": "Presbiteriánus templom Letter Kenny közösségében, Port Mourant közelében, a Corentyne-parton.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.320473,
+                        6.231022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grace Baptist Church",
+                  "text": "O biserică creștină baptistă în Port Mourant, o localitate cu semnificație istorică în Guyana.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.324192,
+                        6.234903
+                  ]
+            },
+            {
+                  "name": "Letter Kenny Presbyterian Church",
+                  "text": "O biserică prezbiteriană în comunitatea Letter Kenny de lângă Port Mourant, pe coasta Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.320473,
+                        6.231022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grace Baptist Church",
+                  "text": "A Christian Baptist church in Port Mourant, a town with significant historical importance in Guyana.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.324192,
+                        6.234903
+                  ]
+            },
+            {
+                  "name": "Letter Kenny Presbyterian Church",
+                  "text": "A Presbyterian church in the Letter Kenny community near Port Mourant on the Corentyne coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.320473,
+                        6.231022
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-EB",
     coords: [-57.3167, 6.25],
@@ -2087,7 +5048,88 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Port Mourant est située à environ 130 kilomètres de Georgetown.", "La population est d'environ 7 200 habitants (en 2020).", "Le Port Mourant Training Centre a été fondé en 1950.", "La superficie de la ville est d'environ 9,5 kilomètres carrés.", "L'altitude moyenne est de 1 mètre au-dessus du niveau de la mer.", "L'hôpital dispose de 100 lits."],
     },
   }, {
-    id: "whim-cities-v2",
+    id: "whim-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Masjid Allah",
+                  "text": "Eine muslimische Moschee in dem Dorf Whim, die den Gläubigen an der Ostküste von Berbice dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.267162,
+                        6.202941
+                  ]
+            },
+            {
+                  "name": "Lutheran",
+                  "text": "Eine lutherische Kirche in Whim, ein Zeugnis der christlichen Missionsgeschichte in Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.260135,
+                        6.196793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Masjid Allah",
+                  "text": "Muszlim mecset Whim faluban, amely a Berbice keleti partján élő hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.267162,
+                        6.202941
+                  ]
+            },
+            {
+                  "name": "Lutheran",
+                  "text": "Evangélikus templom Whimben, amely a Berbice-i keresztény missziós múlt emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.260135,
+                        6.196793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Masjid Allah",
+                  "text": "O moschee musulmană în satul Whim, care deservește credincioșii de pe coasta de est a regiunii Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.267162,
+                        6.202941
+                  ]
+            },
+            {
+                  "name": "Lutheran",
+                  "text": "O biserică luterană în Whim, o dovadă a istoriei misionare creștine din Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.260135,
+                        6.196793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Masjid Allah",
+                  "text": "A Muslim mosque in the village of Whim, serving the local community on the East Berbice coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.267162,
+                        6.202941
+                  ]
+            },
+            {
+                  "name": "Lutheran",
+                  "text": "A Lutheran church in Whim, standing as a testament to the Christian missionary history in Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.260135,
+                        6.196793
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-EB",
     coords: [-57.2667, 6.2167],
@@ -2228,7 +5270,484 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["4 000 habitants", "Située sur la rivière Corentyne", "Liaison par ferry vers le Suriname", "Principal centre commercial de la région", "Fondée au XIXe siècle", "Altitude de 5 m au-dessus du niveau de la mer"],
     },
   }, {
-    id: "skeldon-cities-v2",
+    id: "skeldon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Universal Church",
+                  "text": "Eine moderne christliche Kirche in Skeldon, die Teil eines weltweiten Netzwerks ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.142729,
+                        5.906339
+                  ]
+            },
+            {
+                  "name": "No.77 Sunnatul Jamaat",
+                  "text": "Eine sunnitische Moschee in Corriverton, die als geistlicher Anker für die Muslime in Skeldon dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.143233,
+                        5.900213
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas für die Bewohner der Grenzstadt Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.139822,
+                        5.883125
+                  ]
+            },
+            {
+                  "name": "Sovereign Grace Missionary Baptist Church",
+                  "text": "Eine missionarische Baptistengemeinde in Skeldon, die sich für lokale Gemeindearbeit einsetzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.141454,
+                        5.883567
+                  ]
+            },
+            {
+                  "name": "St. Margarette's Anglican Church",
+                  "text": "Eine historische anglikanische Kirche in Skeldon, die an das britische Kolonialerbe Guyanas erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138172,
+                        5.885983
+                  ]
+            },
+            {
+                  "name": "Vishnu Mandir",
+                  "text": "Ein Vishnu gewidmeter Hindu-Tempel in Skeldon, ein Zentrum für religiöse Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.140202,
+                        5.888955
+                  ]
+            },
+            {
+                  "name": "Corriverton Assembly of God Church",
+                  "text": "Eine große christliche Gemeinde der Assembly of God im Stadtgebiet von Corriverton.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138239,
+                        5.891871
+                  ]
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "Eine lutherische Kirche in Skeldon, die die protestantische Vielfalt der Corentyne-Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.139755,
+                        5.892816
+                  ]
+            },
+            {
+                  "name": "St. Joachim Roman Catholic Church",
+                  "text": "Die katholische St.-Joachim-Kirche in Skeldon, ein Ort der Andacht nahe dem Corentyne-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.137215,
+                        5.891855
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Ein schlichtes christliches Gotteshaus der Church of Christ in der Grenzstadt Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.136419,
+                        5.899844
+                  ]
+            },
+            {
+                  "name": "Al Falah Hifz Madrasa",
+                  "text": "Eine muslimische Madrasa und Gebetsstätte in Skeldon, die sich der islamischen Erziehung widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138036,
+                        5.896546
+                  ]
+            },
+            {
+                  "name": "Springlands SDA Church",
+                  "text": "Die adventistische Kirche von Springlands, die am Rande von Skeldon liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.135967,
+                        5.898932
+                  ]
+            },
+            {
+                  "name": "Agape Ministry",
+                  "text": "Ein christliches Missionszentrum in Skeldon, das sich auf soziale Arbeit in der Region konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        -57.138262,
+                        5.90253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Universal Church",
+                  "text": "Modern keresztény templom Skeldonban, amely egy világszintű hálózat része.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.142729,
+                        5.906339
+                  ]
+            },
+            {
+                  "name": "No.77 Sunnatul Jamaat",
+                  "text": "Szunnita mecset Corrivertonban, amely szellemi horgonyként szolgál a skeldoni muszlimok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.143233,
+                        5.900213
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Jehova Tanúi királyságterme a skeldoni határváros lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.139822,
+                        5.883125
+                  ]
+            },
+            {
+                  "name": "Sovereign Grace Missionary Baptist Church",
+                  "text": "Misszionárius baptista gyülekezet Skeldonban, amely elkötelezett a helyi közösségi munka iránt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.141454,
+                        5.883567
+                  ]
+            },
+            {
+                  "name": "St. Margarette's Anglican Church",
+                  "text": "Történelmi anglikán templom Skeldonban, amely Guyana brit gyarmati örökségére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138172,
+                        5.885983
+                  ]
+            },
+            {
+                  "name": "Vishnu Mandir",
+                  "text": "Visnunak szentelt hindu templom Skeldonban, a vallási ünnepek központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.140202,
+                        5.888955
+                  ]
+            },
+            {
+                  "name": "Corriverton Assembly of God Church",
+                  "text": "Az Assembly of God nagy keresztény gyülekezete Corriverton városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138239,
+                        5.891871
+                  ]
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "Evangélikus templom Skeldonban, amely a Corentyne-régió protestáns sokszínűségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.139755,
+                        5.892816
+                  ]
+            },
+            {
+                  "name": "St. Joachim Roman Catholic Church",
+                  "text": "A Szent Joachim katolikus templom Skeldonban, egy áhítati hely a Corentyne-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.137215,
+                        5.891855
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "A Krisztus Egyházának egyszerű keresztény imaháza a skeldoni határvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.136419,
+                        5.899844
+                  ]
+            },
+            {
+                  "name": "Al Falah Hifz Madrasa",
+                  "text": "Muszlim medresze és imaház Skeldonban, amely az iszlám oktatásnak szentelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138036,
+                        5.896546
+                  ]
+            },
+            {
+                  "name": "Springlands SDA Church",
+                  "text": "Springlands adventista temploma, amely Skeldon szélén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.135967,
+                        5.898932
+                  ]
+            },
+            {
+                  "name": "Agape Ministry",
+                  "text": "Keresztény missziós központ Skeldonban, amely a régió szociális munkájára összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        -57.138262,
+                        5.90253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Universal Church",
+                  "text": "O biserică creștină modernă în Skeldon, făcând parte dintr-o rețea globală.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.142729,
+                        5.906339
+                  ]
+            },
+            {
+                  "name": "No.77 Sunnatul Jamaat",
+                  "text": "O moschee sunnită în Corriverton, servind ca ancoră spirituală pentru musulmanii din Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.143233,
+                        5.900213
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova pentru locuitorii orașului de frontieră Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.139822,
+                        5.883125
+                  ]
+            },
+            {
+                  "name": "Sovereign Grace Missionary Baptist Church",
+                  "text": "O biserică baptistă misionară în Skeldon, dedicată muncii comunitare locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.141454,
+                        5.883567
+                  ]
+            },
+            {
+                  "name": "St. Margarette's Anglican Church",
+                  "text": "O biserică anglicană istorică în Skeldon, amintind de moștenirea colonială britanică a Guyanei.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138172,
+                        5.885983
+                  ]
+            },
+            {
+                  "name": "Vishnu Mandir",
+                  "text": "Un templu hindu dedicat lui Vishnu în Skeldon, un centru pentru festivaluri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.140202,
+                        5.888955
+                  ]
+            },
+            {
+                  "name": "Corriverton Assembly of God Church",
+                  "text": "O mare congregație creștină de tip Assembly of God în zona urbană Corriverton.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138239,
+                        5.891871
+                  ]
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "O biserică luterană în Skeldon, reflectând diversitatea protestantă a regiunii Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.139755,
+                        5.892816
+                  ]
+            },
+            {
+                  "name": "St. Joachim Roman Catholic Church",
+                  "text": "Biserica catolică Sfântul Ioachim în Skeldon, un loc de reculegere situat lângă râul Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.137215,
+                        5.891855
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Un lăcaș de cult creștin simplu al Bisericii lui Hristos în orașul de frontieră Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.136419,
+                        5.899844
+                  ]
+            },
+            {
+                  "name": "Al Falah Hifz Madrasa",
+                  "text": "O madrasa musulmană și loc de rugăciune în Skeldon, dedicat educației islamice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138036,
+                        5.896546
+                  ]
+            },
+            {
+                  "name": "Springlands SDA Church",
+                  "text": "Biserica adventistă din Springlands, situată la periferia orașului Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.135967,
+                        5.898932
+                  ]
+            },
+            {
+                  "name": "Agape Ministry",
+                  "text": "Un centru misionar creștin în Skeldon, axat pe munca socială în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -57.138262,
+                        5.90253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Universal Church",
+                  "text": "A modern Christian church in Skeldon, part of a global ministry network.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.142729,
+                        5.906339
+                  ]
+            },
+            {
+                  "name": "No.77 Sunnatul Jamaat",
+                  "text": "A Sunni mosque in Corriverton, serving as a spiritual anchor for the Muslims in Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.143233,
+                        5.900213
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses for the residents of the border town of Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.139822,
+                        5.883125
+                  ]
+            },
+            {
+                  "name": "Sovereign Grace Missionary Baptist Church",
+                  "text": "A missionary Baptist church in Skeldon dedicated to local community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.141454,
+                        5.883567
+                  ]
+            },
+            {
+                  "name": "St. Margarette's Anglican Church",
+                  "text": "A historic Anglican church in Skeldon, recalling the British colonial heritage of Guyana.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138172,
+                        5.885983
+                  ]
+            },
+            {
+                  "name": "Vishnu Mandir",
+                  "text": "A Hindu temple dedicated to Lord Vishnu in Skeldon, a center for religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.140202,
+                        5.888955
+                  ]
+            },
+            {
+                  "name": "Corriverton Assembly of God Church",
+                  "text": "A large Christian Assembly of God congregation in the Corriverton urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138239,
+                        5.891871
+                  ]
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "A Lutheran church in Skeldon, reflecting the Protestant diversity of the Corentyne region.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.139755,
+                        5.892816
+                  ]
+            },
+            {
+                  "name": "St. Joachim Roman Catholic Church",
+                  "text": "St. Joachim Catholic Church in Skeldon, a place of worship located near the Corentyne River.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.137215,
+                        5.891855
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "A simple Christian place of worship belonging to the Church of Christ in Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.136419,
+                        5.899844
+                  ]
+            },
+            {
+                  "name": "Al Falah Hifz Madrasa",
+                  "text": "A Muslim madrasa and place of prayer in Skeldon, dedicated to Islamic education.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.138036,
+                        5.896546
+                  ]
+            },
+            {
+                  "name": "Springlands SDA Church",
+                  "text": "The Springlands Adventist church, located on the outskirts of Skeldon.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.135967,
+                        5.898932
+                  ]
+            },
+            {
+                  "name": "Agape Ministry",
+                  "text": "A Christian mission center in Skeldon focusing on social work in the region.",
+                  "category": "religious",
+                  "coords": [
+                        -57.138262,
+                        5.90253
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-EB",
     coords: [-57.1333, 5.8833],
@@ -2322,7 +5841,268 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Adventure a été le port de ferry le plus important de la Région 2 jusque dans les années 1990.", "La distance à travers le fleuve Essequibo jusqu'à Parika est d'environ 30 kilomètres.", "Le village est stratégiquement situé entre les localités d'Aurora et de Suddie.", "La riziculture est la branche économique dominante dans les environs immédiats.", "Le lieu a historiquement servi de porte d'entrée pour les marchandises des districts de Pomeroon-Supenaam.", "Le nombre provient probablement d'une ancienne plantation de sucre de l'époque coloniale néerlandaise."],
     },
   }, {
-    id: "suddie-cities-v2",
+    id: "suddie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akashwani Presbyterian Church",
+                  "text": "Diese historische presbyterianische Kirche liegt an der Essequibo-Küste in Guyana.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.477513,
+                        7.120607
+                  ]
+            },
+            {
+                  "name": "Johanna Cecilia Masjid",
+                  "text": "Diese Moschee dient der indo-guyanesischen muslimischen Gemeinschaft im Dorf Johanna Cecilia.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476929,
+                        7.116569
+                  ]
+            },
+            {
+                  "name": "Suddie Roman Catholic Church",
+                  "text": "Die katholische Kirche von Suddie überblickt die Hauptküstenstraße der Region Essequibo Islands-West Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476924,
+                        7.112988
+                  ]
+            },
+            {
+                  "name": "Bible College and Conference Centre",
+                  "text": "Dieses religiöse Zentrum bietet theologische Ausbildung und Tagungsmöglichkeiten an der guyanischen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476867,
+                        7.122933
+                  ]
+            },
+            {
+                  "name": "Zorg Methodist Church",
+                  "text": "Die methodistische Kirche von Zorg ist eine langjährige Gemeinde direkt am Atlantischen Ozean.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.477625,
+                        7.127468
+                  ]
+            },
+            {
+                  "name": "Zorg Mandir",
+                  "text": "Dieser farbenfrohe Hindu-Tempel ist ein kulturelles Zentrum für die Gemeinschaft im Küstendorf Zorg.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.475073,
+                        7.132261
+                  ]
+            },
+            {
+                  "name": "Suddie Market",
+                  "text": "Der Markt von Suddie ist bekannt für frischen Fisch aus dem Essequibo-Delta und tropische Früchte.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.478839,
+                        7.109716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akashwani Presbyterian Church",
+                  "text": "Ez a történelmi presbiteriánus templom Guyana Essequibo-partvidékén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.477513,
+                        7.120607
+                  ]
+            },
+            {
+                  "name": "Johanna Cecilia Masjid",
+                  "text": "Ez a mecset a Johanna Cecilia faluban élő indo-guyanai muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476929,
+                        7.116569
+                  ]
+            },
+            {
+                  "name": "Suddie Roman Catholic Church",
+                  "text": "Suddie katolikus temploma az Essequibo Islands-West Demerara régió fő tengerparti útjára néz.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476924,
+                        7.112988
+                  ]
+            },
+            {
+                  "name": "Bible College and Conference Centre",
+                  "text": "Ez a vallási központ teológiai képzést és konferencia-lehetőségeket kínál a guyanai tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476867,
+                        7.122933
+                  ]
+            },
+            {
+                  "name": "Zorg Methodist Church",
+                  "text": "A zorgi metodista templom egy régi gyülekezet közvetlenül az Atlanti-óceán partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.477625,
+                        7.127468
+                  ]
+            },
+            {
+                  "name": "Zorg Mandir",
+                  "text": "Ez a színes hindu templom a tengerparti Zorg falu közösségének kulturális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.475073,
+                        7.132261
+                  ]
+            },
+            {
+                  "name": "Suddie Market",
+                  "text": "A suddie-i piac az Essequibo-deltából származó friss halairól és trópusi gyümölcseiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.478839,
+                        7.109716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akashwani Presbyterian Church",
+                  "text": "Această biserică prezbiteriană istorică se află pe coasta Essequibo din Guyana.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.477513,
+                        7.120607
+                  ]
+            },
+            {
+                  "name": "Johanna Cecilia Masjid",
+                  "text": "Această moschee deservește comunitatea musulmană indo-guyaneză din satul Johanna Cecilia.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476929,
+                        7.116569
+                  ]
+            },
+            {
+                  "name": "Suddie Roman Catholic Church",
+                  "text": "Biserica catolică din Suddie domină drumul principal de coastă din regiunea Essequibo Islands-West Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476924,
+                        7.112988
+                  ]
+            },
+            {
+                  "name": "Bible College and Conference Centre",
+                  "text": "Acest centru religios oferă formare teologică și facilități de conferințe pe coasta Guyanei.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476867,
+                        7.122933
+                  ]
+            },
+            {
+                  "name": "Zorg Methodist Church",
+                  "text": "Biserica metodistă din Zorg este o congregație cu o vechime considerabilă, situată direct pe malul Oceanului Atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.477625,
+                        7.127468
+                  ]
+            },
+            {
+                  "name": "Zorg Mandir",
+                  "text": "Acest templu hindu colorat este un centru cultural pentru comunitatea din satul de coastă Zorg.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.475073,
+                        7.132261
+                  ]
+            },
+            {
+                  "name": "Suddie Market",
+                  "text": "Piața din Suddie este cunoscută pentru peștele proaspăt din Delta Essequibo și fructele tropicale.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.478839,
+                        7.109716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akashwani Presbyterian Church",
+                  "text": "This historic Presbyterian church is located on the Essequibo Coast in Guyana.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.477513,
+                        7.120607
+                  ]
+            },
+            {
+                  "name": "Johanna Cecilia Masjid",
+                  "text": "This mosque serves the Indo-Guyanese Muslim community in the village of Johanna Cecilia.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476929,
+                        7.116569
+                  ]
+            },
+            {
+                  "name": "Suddie Roman Catholic Church",
+                  "text": "The Suddie Catholic church overlooks the main coastal road of the Essequibo Islands-West Demerara region.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476924,
+                        7.112988
+                  ]
+            },
+            {
+                  "name": "Bible College and Conference Centre",
+                  "text": "This religious center provides theological training and conference facilities on the Guyanese coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.476867,
+                        7.122933
+                  ]
+            },
+            {
+                  "name": "Zorg Methodist Church",
+                  "text": "The Zorg Methodist Church is a long-standing congregation located directly on the Atlantic Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.477625,
+                        7.127468
+                  ]
+            },
+            {
+                  "name": "Zorg Mandir",
+                  "text": "This colorful Hindu temple is a cultural hub for the community in the coastal village of Zorg.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.475073,
+                        7.132261
+                  ]
+            },
+            {
+                  "name": "Suddie Market",
+                  "text": "Suddie Market is known for fresh fish from the Essequibo Delta and tropical fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.478839,
+                        7.109716
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-PM",
     coords: [-58.4833, 7.1167],
@@ -2463,7 +6243,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Aurora est un centre important pour la meunerie de riz sur la côte de l'Essequibo.", "La localité se situe près de l'embouchure de la rivière Supenaam.", "La région est réputée pour ses sols alluviaux fertiles.", "Aurora sert de lieu de transit pour les voyageurs se rendant au terminal de ferry de Supenaam.", "Plusieurs ruines de plantations de canne à sucre historiques se trouvent dans les environs.", "La population locale célèbre traditionnellement la fête de Phagwah avec beaucoup d'enthousiasme."],
     },
   }, {
-    id: "queenstown-cities-v2",
+    id: "queenstown-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Affiance Sunnatul Jamaah",
+                  "text": "Eine Sunnatul-Jamaah-Moschee im Wohnviertel Queenstown von Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.485561,
+                        7.220176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Affiance Sunnatul Jamaah",
+                  "text": "Sunnatul Jamaah mecset Georgetown Queenstown lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.485561,
+                        7.220176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Affiance Sunnatul Jamaah",
+                  "text": "O moschee Sunnatul Jamaah situată în cartierul rezidențial Queenstown din Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.485561,
+                        7.220176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Affiance Sunnatul Jamaah",
+                  "text": "A Sunnatul Jamaah mosque located in the Queenstown residential neighborhood of Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.485561,
+                        7.220176
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-PM",
     coords: [-58.4667, 7.2167],
@@ -2510,7 +6335,88 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Queenstown a été achetée en 1840 pour 2 000 livres par 164 anciens esclaves.", "L'église St. Bartholomew a été achevée en 1842 et possède une forme octogonale.", "Le village s'appelait à l'origine Plantation Dageraad avant d'être renommé.", "C'était le premier village d'Essequibo à introduire son propre système de conseil local.", "Les habitants de Queenstown sont connus pour la culture de noix de coco de haute qualité.", "Le village est situé à quelques kilomètres de la capitale régionale, Anna Regina."],
     },
   }, {
-    id: "parika-cities-v2",
+    id: "parika-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shree Krishna Dharmic Mandir",
+                  "text": "Ein bedeutender Hindu-Tempel im geschäftigen Verkehrsknotenpunkt von Parika.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.423159,
+                        6.861633
+                  ]
+            },
+            {
+                  "name": "Parika Masjid",
+                  "text": "Diese zentrale Moschee befindet sich in der Nähe des wichtigen Fährterminals am Essequibo-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.426675,
+                        6.857467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shree Krishna Dharmic Mandir",
+                  "text": "Jelentős hindu templom Parika forgalmas közlekedési csomópontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.423159,
+                        6.861633
+                  ]
+            },
+            {
+                  "name": "Parika Masjid",
+                  "text": "Ez a központi mecset az Essequibo-folyó fontos kompállomása közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.426675,
+                        6.857467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shree Krishna Dharmic Mandir",
+                  "text": "Un templu hindu proeminent în nodul aglomerat de transport din Parika.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.423159,
+                        6.861633
+                  ]
+            },
+            {
+                  "name": "Parika Masjid",
+                  "text": "Această moschee centrală este situată lângă terminalul vital de feribot de pe râul Essequibo.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.426675,
+                        6.857467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shree Krishna Dharmic Mandir",
+                  "text": "A prominent Hindu temple in the busy transport hub of Parika.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.423159,
+                        6.861633
+                  ]
+            },
+            {
+                  "name": "Parika Masjid",
+                  "text": "This central mosque is located near the vital Essequibo River ferry terminal.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.426675,
+                        6.857467
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-ES",
     coords: [-58.4294, 6.8378],
@@ -2557,7 +6463,160 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Parika est le principal point de départ des ferries pour les îles Leguan et Wakenaam.", "Le marché du dimanche de Parika est considéré comme le 'panier à pain' de Georgetown.", "La ville est située à environ 42 kilomètres à l'ouest de la capitale.", "Parika est un centre important pour le commerce des poissons tropicaux (aquariophilie).", "Le terminal de ferry a été modernisé ces dernières années.", "D'ici partent les speedboats pour Bartica, la porte d'entrée vers les zones minières."],
     }
   }, {
-    id: "leonora-cities-v2",
+    id: "leonora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lenora Masjid",
+                  "text": "Eine lokale Moschee in der historischen Siedlung Leonora an der Atlantikküste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.288398,
+                        6.872697
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Assumption Roman Catholic Church",
+                  "text": "Diese römisch-katholische Kirche dient der vielfältigen Gemeinde des Dorfes Leonora.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.260394,
+                        6.861269
+                  ]
+            },
+            {
+                  "name": "Maha Saba Temple",
+                  "text": "Ein hinduistisches Heiligtum, das das spirituelle Leben der Gemeinde in Leonora prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.286393,
+                        6.866295
+                  ]
+            },
+            {
+                  "name": "Leonora Market",
+                  "text": "Ein lebhafter Marktplatz an der Hauptstraße der Westküste, bekannt für seine frischen Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.288566,
+                        6.867075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lenora Masjid",
+                  "text": "Helyi mecset a történelmi Leonora településen, az Atlanti-óceán partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.288398,
+                        6.872697
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Assumption Roman Catholic Church",
+                  "text": "Ez a római katolikus templom Leonora falu sokszínű közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.260394,
+                        6.861269
+                  ]
+            },
+            {
+                  "name": "Maha Saba Temple",
+                  "text": "Hindu szentély, amely meghatározza a leonorai közösség spirituális életét.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.286393,
+                        6.866295
+                  ]
+            },
+            {
+                  "name": "Leonora Market",
+                  "text": "Nyüzsgő piactér a nyugati part főútja mentén, amely friss termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.288566,
+                        6.867075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lenora Masjid",
+                  "text": "O moschee locală în așezarea istorică Leonora, pe coasta Atlanticului.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.288398,
+                        6.872697
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Assumption Roman Catholic Church",
+                  "text": "Această biserică romano-catolică deservește comunitatea diversă a satului Leonora.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.260394,
+                        6.861269
+                  ]
+            },
+            {
+                  "name": "Maha Saba Temple",
+                  "text": "Un sanctuar hindu care modelează viața spirituală a comunității din Leonora.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.286393,
+                        6.866295
+                  ]
+            },
+            {
+                  "name": "Leonora Market",
+                  "text": "O piață plină de viață pe drumul principal de pe coasta de vest, cunoscută pentru produsele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.288566,
+                        6.867075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lenora Masjid",
+                  "text": "A local mosque in the historic Leonora settlement on the Atlantic coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.288398,
+                        6.872697
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Assumption Roman Catholic Church",
+                  "text": "This Roman Catholic church serves the diverse community of Leonora village.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.260394,
+                        6.861269
+                  ]
+            },
+            {
+                  "name": "Maha Saba Temple",
+                  "text": "A Hindu sanctuary that shapes the spiritual life of the community in Leonora.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.286393,
+                        6.866295
+                  ]
+            },
+            {
+                  "name": "Leonora Market",
+                  "text": "A bustling marketplace on the West Coast main road, known for its fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.288566,
+                        6.867075
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-ES",
     coords: [-58.2833, 6.8667],
@@ -2604,7 +6663,88 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["L'usine sucrière de Leonora a fermé en 1986 après plus de 100 ans d'activité.", "Le Leonora National Track and Field Centre a été officiellement inauguré en 2015.", "Le nom Leonora vient des mots néerlandais pour 'Leo' et 'Nora'.", "Leonora était autrefois une station importante sur la ligne de chemin de fer West Coast Railway.", "Le village abrite un grand nombre de temples hindous et de mosquées.", "Il est situé à environ 15 kilomètres à l'ouest de la capitale Georgetown."],
     },
   }, {
-    id: "uitvlugt-cities-v2",
+    id: "uitvlugt-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosque",
+                  "text": "Diese Moschee dient der muslimischen Gemeinde im historischen Dorf Uitvlugt an der Westküste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.318074,
+                        6.880112
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein Hindu-Tempel, der das kulturelle Erbe der indoguyanischen Bewohner von Uitvlugt widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.320026,
+                        6.879856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosque",
+                  "text": "Ez a mecset az egykori cukornád-ültetvény melletti Uitvlugt falu muszlim közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.318074,
+                        6.880112
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Hindu templom, amely Uitvlugt indoguyanai lakosainak kulturális örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.320026,
+                        6.879856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosque",
+                  "text": "Această moschee servește comunitatea musulmană din satul istoric Uitvlugt de pe coasta de vest.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.318074,
+                        6.880112
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un templu hindu care reflectă moștenirea culturală a locuitorilor indo-guyanezi din Uitvlugt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.320026,
+                        6.879856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosque",
+                  "text": "This mosque serves the Muslim community in the historic sugar estate village of Uitvlugt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.318074,
+                        6.880112
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A Hindu temple reflecting the cultural heritage of the Indo-Guyanese residents of Uitvlugt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.320026,
+                        6.879856
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-ES",
     coords: [-58.3, 6.8667],
@@ -2698,7 +6838,160 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Zeelugt se situe directement à l'ouest du village de Tuschen.", "Son nom est l'un des nombreux vestiges néerlandais de la géographie guyanaise.", "Le village a connu une croissance démographique massive grâce au 'Zeelugt Housing Scheme'.", "L'économie locale est fortement marquée par de petites entreprises familiales.", "Zeelugt dispose de plusieurs écoles primaires pour répondre aux besoins de la population croissante.", "Le lieu est réputé pour ses marchés animés le week-end."],
     },
   }, {
-    id: "tuschen-cities-v2",
+    id: "tuschen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "End",
+                  "text": "Ein Aussichtspunkt in der Gegend von Tuschen mit freiem Blick auf die Nachbarschaft und die nahe gelegenen Grünflächen.",
+                  "category": "natural",
+                  "coords": [
+                        -58.353254,
+                        6.874213
+                  ]
+            },
+            {
+                  "name": "To ball field",
+                  "text": "Ein lokaler Aussichtspunkt in Tuschen, der das gemeindeeigene Ballspielfeld und das Erholungsgebiet überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.344817,
+                        6.874657
+                  ]
+            },
+            {
+                  "name": "Clean n bush",
+                  "text": "Ein markanter Aussichtspunkt in Tuschen, der den Kontrast zwischen gerodetem Land und dem umgebenden dichten tropischen Buschland zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.345335,
+                        6.875907
+                  ]
+            },
+            {
+                  "name": "Tuschen Baptist Church",
+                  "text": "Eine lokale baptistische Freikirche, die als Gotteshaus und Treffpunkt der Gemeinde in Tuschen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.351225,
+                        6.864046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "End",
+                  "text": "Kilátópont a Tuschen területen, ahonnan tiszta kilátás nyílik a helyi környékre és a közeli zöldterületekre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.353254,
+                        6.874213
+                  ]
+            },
+            {
+                  "name": "To ball field",
+                  "text": "Egy helyi kilátó Tuschenben, amely a közösségi labdapályára és a rekreációs területre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -58.344817,
+                        6.874657
+                  ]
+            },
+            {
+                  "name": "Clean n bush",
+                  "text": "Különleges kilátópont Tuschenben, amely bemutatja a megtisztított föld és a környező sűrű trópusi bozót közötti kontrasztot.",
+                  "category": "natural",
+                  "coords": [
+                        -58.345335,
+                        6.875907
+                  ]
+            },
+            {
+                  "name": "Tuschen Baptist Church",
+                  "text": "Egy helyi baptista keresztény templom, amely istentiszteleti és közösségi gyülekezeti helyként szolgál Tuschenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.351225,
+                        6.864046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "End",
+                  "text": "Un punct de observație în zona Tuschen care oferă vederi clare ale cartierului local și ale spațiilor verzi din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -58.353254,
+                        6.874213
+                  ]
+            },
+            {
+                  "name": "To ball field",
+                  "text": "Un loc de vizionare local în Tuschen care are vedere spre terenul de fotbal al comunității și zona de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        -58.344817,
+                        6.874657
+                  ]
+            },
+            {
+                  "name": "Clean n bush",
+                  "text": "Un punct de belvedere distinct în Tuschen care prezintă contrastul dintre terenul curățat și tufișurile tropicale dense din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -58.345335,
+                        6.875907
+                  ]
+            },
+            {
+                  "name": "Tuschen Baptist Church",
+                  "text": "O biserică creștină baptistă locală care servește ca lăcaș de cult și loc de adunare a comunității în Tuschen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.351225,
+                        6.864046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "End",
+                  "text": "A vantage point in the Tuschen area offering clear views of the local neighborhood and nearby green spaces.",
+                  "category": "natural",
+                  "coords": [
+                        -58.353254,
+                        6.874213
+                  ]
+            },
+            {
+                  "name": "To ball field",
+                  "text": "A local viewing spot in Tuschen that overlooks the community ball field and recreation area.",
+                  "category": "natural",
+                  "coords": [
+                        -58.344817,
+                        6.874657
+                  ]
+            },
+            {
+                  "name": "Clean n bush",
+                  "text": "A distinct viewpoint in Tuschen showcasing the contrast between cleared land and the surrounding dense tropical brush.",
+                  "category": "natural",
+                  "coords": [
+                        -58.345335,
+                        6.875907
+                  ]
+            },
+            {
+                  "name": "Tuschen Baptist Church",
+                  "text": "A local Baptist Christian church serving as a place of worship and community gathering in Tuschen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.351225,
+                        6.864046
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-ES",
     coords: [-58.35, 6.85],
@@ -2839,7 +7132,268 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["De Willem est situé dans la région d'Essequibo Islands-West Demerara.", "Le nom est d'origine néerlandaise et rappelle l'histoire coloniale.", "La localité se trouve directement sur la West Coast Highway.", "Historiquement, le lieu faisait partie de la vaste ceinture de canne à sucre du Guyana.", "Il se trouve à proximité immédiate de la Zeeburg Secondary School.", "La population est principalement composée de descendants de travailleurs indiens sous contrat."],
     },
   }, {
-    id: "ruimveldt-cities-v2",
+    id: "ruimveldt-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kingdom Ambassador World Outreach Ministries",
+                  "text": "Ein christliches Missionszentrum in Ruimveldt, das soziale und geistliche Unterstützung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.126451,
+                        6.792487
+                  ]
+            },
+            {
+                  "name": "Zion's House of Prayer",
+                  "text": "Ein bescheidenes Gebetshaus in Ruimveldt, das der spirituellen Erbauung der Nachbarschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -58.135131,
+                        6.78536
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas im Stadtteil Ruimveldt von Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.133191,
+                        6.783899
+                  ]
+            },
+            {
+                  "name": "Tucville Assembly Of God",
+                  "text": "Eine Pfingstkirche der Assembly of God im Viertel Tucville in Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.13838,
+                        6.788563
+                  ]
+            },
+            {
+                  "name": "Hebrew Church",
+                  "text": "Ein religiöses Versammlungshaus in Ruimveldt, das die Vielfalt der Glaubensrichtungen in Guyana widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        -58.123905,
+                        6.78374
+                  ]
+            },
+            {
+                  "name": "Holy Spirit Roman Catholic Church",
+                  "text": "Die Heilig-Geist-Kirche, ein katholisches Gotteshaus, das das Gemeindeleben in Ruimveldt prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.125908,
+                        6.784634
+                  ]
+            },
+            {
+                  "name": "Moriah S.D.A Church",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten in Ruimveldt, bekannt für ihre Sabbat-Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -58.128101,
+                        6.784705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kingdom Ambassador World Outreach Ministries",
+                  "text": "Keresztény missziós központ Ruimveldtben, amely szociális és lelki támogatást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.126451,
+                        6.792487
+                  ]
+            },
+            {
+                  "name": "Zion's House of Prayer",
+                  "text": "Mérsékelt imaház Ruimveldtben, amely a környék lakóinak lelki épülését szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -58.135131,
+                        6.78536
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Jehova Tanúi királyságterme Georgetown Ruimveldt negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.133191,
+                        6.783899
+                  ]
+            },
+            {
+                  "name": "Tucville Assembly Of God",
+                  "text": "Az Assembly of God pünkösdi temploma Georgetown Tucville negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.13838,
+                        6.788563
+                  ]
+            },
+            {
+                  "name": "Hebrew Church",
+                  "text": "Vallási gyülekezeti ház Ruimveldtben, amely Guyana hitéletének sokszínűségét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        -58.123905,
+                        6.78374
+                  ]
+            },
+            {
+                  "name": "Holy Spirit Roman Catholic Church",
+                  "text": "A Szentlélek-templom, egy katolikus imaház, amely meghatározza Ruimveldt közösségi életét.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.125908,
+                        6.784634
+                  ]
+            },
+            {
+                  "name": "Moriah S.D.A Church",
+                  "text": "A Hetednapi Adventista Egyház temploma Ruimveldtben, szombati istentiszteleteiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -58.128101,
+                        6.784705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kingdom Ambassador World Outreach Ministries",
+                  "text": "Un centru misionar creștin în Ruimveldt, oferind sprijin social și spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.126451,
+                        6.792487
+                  ]
+            },
+            {
+                  "name": "Zion's House of Prayer",
+                  "text": "O casă de rugăciune modestă în Ruimveldt, dedicată reculegerii spirituale a cartierului.",
+                  "category": "religious",
+                  "coords": [
+                        -58.135131,
+                        6.78536
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova în cartierul Ruimveldt din Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.133191,
+                        6.783899
+                  ]
+            },
+            {
+                  "name": "Tucville Assembly Of God",
+                  "text": "O biserică penticostală de tip Assembly of God în cartierul Tucville din Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.13838,
+                        6.788563
+                  ]
+            },
+            {
+                  "name": "Hebrew Church",
+                  "text": "O casă de adunare religioasă în Ruimveldt, reflectând diversitatea credințelor din Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -58.123905,
+                        6.78374
+                  ]
+            },
+            {
+                  "name": "Holy Spirit Roman Catholic Church",
+                  "text": "Biserica Sfântul Duh, un lăcaș de cult catolic care modelează viața comunitară din Ruimveldt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.125908,
+                        6.784634
+                  ]
+            },
+            {
+                  "name": "Moriah S.D.A Church",
+                  "text": "O biserică adventistă de ziua a șaptea în Ruimveldt, cunoscută pentru serviciile sale de Sabat.",
+                  "category": "religious",
+                  "coords": [
+                        -58.128101,
+                        6.784705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kingdom Ambassador World Outreach Ministries",
+                  "text": "A Christian outreach center in Ruimveldt, providing social and spiritual support.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.126451,
+                        6.792487
+                  ]
+            },
+            {
+                  "name": "Zion's House of Prayer",
+                  "text": "A modest house of prayer in Ruimveldt dedicated to the spiritual edification of the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -58.135131,
+                        6.78536
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses located in the Ruimveldt area of Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.133191,
+                        6.783899
+                  ]
+            },
+            {
+                  "name": "Tucville Assembly Of God",
+                  "text": "A Pentecostal Assembly of God church situated in the Tucville neighborhood of Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.13838,
+                        6.788563
+                  ]
+            },
+            {
+                  "name": "Hebrew Church",
+                  "text": "A religious assembly house in Ruimveldt reflecting the diversity of faiths in Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -58.123905,
+                        6.78374
+                  ]
+            },
+            {
+                  "name": "Holy Spirit Roman Catholic Church",
+                  "text": "Holy Spirit Church, a Catholic place of worship shaping community life in Ruimveldt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.125908,
+                        6.784634
+                  ]
+            },
+            {
+                  "name": "Moriah S.D.A Church",
+                  "text": "A Seventh-day Adventist church in Ruimveldt, known for its Sabbath worship services.",
+                  "category": "religious",
+                  "coords": [
+                        -58.128101,
+                        6.784705
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-DE",
     coords: [-58.1333, 6.7833],
@@ -2886,7 +7440,88 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Ruimveldt est située sur la rive est du fleuve Demerara à Georgetown.", "Le lieu a été le théâtre d'importantes protestations ouvrières en 1905 (Ruimveldt Riots).", "C'est ici que se trouve le siège de Banks DIH, le plus grand fabricant de boissons du Guyana.", "La zone est divisée en North Ruimveldt et South Ruimveldt.", "Le nom est d'origine néerlandaise et signifie environ « champ spacieux ».", "Elle abrite d'importantes installations portuaires pour l'exportation de produits industriels."],
     },
   }, {
-    id: "la-grange-cities-v2",
+    id: "la-grange-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Methodist Church",
+                  "text": "Eine christliche Zufluchtsstätte für die Bewohner von La Grange am Westufer des Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191575,
+                        6.783154
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Eine lokale christliche Gemeindekirche im Dorf La Grange am Westufer.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.1906,
+                        6.785122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Methodist Church",
+                  "text": "Keresztény menedékhely a Demerara nyugati partján fekvő La Grange lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191575,
+                        6.783154
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Helyi keresztény közösségi templom a nyugati parti La Grange faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.1906,
+                        6.785122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Methodist Church",
+                  "text": "Un lăcaș creștin pentru locuitorii din La Grange, pe malul de vest al râului Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191575,
+                        6.783154
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "O biserică creștină locală în satul La Grange de pe malul de vest.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.1906,
+                        6.785122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Methodist Church",
+                  "text": "A Christian sanctuary for the residents of La Grange on the West Bank of the Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191575,
+                        6.783154
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "A local Christian community church in the West Bank village of La Grange.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.1906,
+                        6.785122
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-ES",
     coords: [-58.2, 6.7833],
@@ -2933,7 +7568,232 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["La Grange est située dans la région 3, sur la rive ouest du fleuve Demerara.", "Le nom est français et signifie 'La Grange' ou 'L'Étable'.", "La localité se trouve juste en face de la capitale Georgetown.", "Autrefois, La Grange était une importante plantation de café et de sucre.", "C'est un point de départ majeur pour les bateaux-taxis traversant le Demerara.", "La communauté abrite un poste de police important pour la zone de West Bank."],
     },
   }, {
-    id: "wales-cities-v2",
+    id: "wales-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "End end",
+                  "text": "Dieser letzte Aussichtspunkt bietet eine klare Perspektive über die Außenbezirke der Siedlung Wales.",
+                  "category": "natural",
+                  "coords": [
+                        -58.19397,
+                        6.727962
+                  ]
+            },
+            {
+                  "name": "Diamond  residential",
+                  "text": "Von diesem Aussichtspunkt aus können Beobachter die gebündelte Bebauung und das tägliche Leben im Wohngebiet Diamond überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        -58.194226,
+                        6.726445
+                  ]
+            },
+            {
+                  "name": "Vishnu Mandir",
+                  "text": "Dieser farbenfrohe Hindu-Tempel ist dem Gott Vishnu geweiht und verfügt über traditionelle verzierte Schreine.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.190519,
+                        6.710152
+                  ]
+            },
+            {
+                  "name": "Diamond Masjid",
+                  "text": "Das islamische Gebetshaus des Viertels dient der muslimischen Gemeinde Diamond mit regelmäßigen Gemeinschaftsgebeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191154,
+                        6.714307
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Dieser lokale Königreichssaal dient der Region Wales als ausgewiesener Treffpunkt für die Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.207196,
+                        6.714754
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Dieses formelle Kirchengebäude verfügt über den markanten Turm, der typisch für die Versammlungshäuser der Heiligen der Letzten Tage ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.192799,
+                        6.720767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "End end",
+                  "text": "Ez az utolsó kilátópont tiszta rálátást biztosít Wales település külvárosára.",
+                  "category": "natural",
+                  "coords": [
+                        -58.19397,
+                        6.727962
+                  ]
+            },
+            {
+                  "name": "Diamond  residential",
+                  "text": "Ebből a kilátópontból a megfigyelők láthatják a Diamond lakóövezet sűrűn épült házait és mindennapi életét.",
+                  "category": "natural",
+                  "coords": [
+                        -58.194226,
+                        6.726445
+                  ]
+            },
+            {
+                  "name": "Vishnu Mandir",
+                  "text": "Ez a színes hindu templom Visnu istennek van szentelve, és hagyományos, díszes szentélyekkel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.190519,
+                        6.710152
+                  ]
+            },
+            {
+                  "name": "Diamond Masjid",
+                  "text": "A környék iszlám imaháza a Diamond muszlim közösségét szolgálja ki rendszeres gyülekezeti imákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191154,
+                        6.714307
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A Wales területét kiszolgáló helyi Királyság-terem a Jehova Tanúi kijelölt találkozóhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.207196,
+                        6.714754
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ezt a formális templomépületet az Utolsó Napi Szentek gyülekezeti házaira jellemző jellegzetes torony díszíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.192799,
+                        6.720767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "End end",
+                  "text": "Acest ultim punct de belvedere oferă o perspectivă clară asupra periferiei așezării Wales.",
+                  "category": "natural",
+                  "coords": [
+                        -58.19397,
+                        6.727962
+                  ]
+            },
+            {
+                  "name": "Diamond  residential",
+                  "text": "Observatorii din acest punct de observație pot vedea locuințele grupate și viața de zi cu zi a zonei rezidențiale Diamond.",
+                  "category": "natural",
+                  "coords": [
+                        -58.194226,
+                        6.726445
+                  ]
+            },
+            {
+                  "name": "Vishnu Mandir",
+                  "text": "Acest templu hindus colorat este dedicat zeului Vishnu și are altare tradiționale ornamentate.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.190519,
+                        6.710152
+                  ]
+            },
+            {
+                  "name": "Diamond Masjid",
+                  "text": "Casa de rugăciune islamică din cartier deservește comunitatea musulmană Diamond cu rugăciuni regulate în congregație.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191154,
+                        6.714307
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Deservind zona Wales, această Sală a Regatului locală oferă un loc de întâlnire desemnat pentru Martorii lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.207196,
+                        6.714754
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Această clădire bisericească formală prezintă turla distinctivă tipică caselor de întruniri ale Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.192799,
+                        6.720767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "End end",
+                  "text": "This final viewpoint offers a clear perspective over the outskirts of the Wales settlement.",
+                  "category": "natural",
+                  "coords": [
+                        -58.19397,
+                        6.727962
+                  ]
+            },
+            {
+                  "name": "Diamond  residential",
+                  "text": "Observers from this vantage point can see the clustered housing and daily life of the Diamond residential tract.",
+                  "category": "natural",
+                  "coords": [
+                        -58.194226,
+                        6.726445
+                  ]
+            },
+            {
+                  "name": "Vishnu Mandir",
+                  "text": "This colourful Hindu temple is dedicated to Lord Vishnu and features traditional ornate shrines.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.190519,
+                        6.710152
+                  ]
+            },
+            {
+                  "name": "Diamond Masjid",
+                  "text": "The neighborhood Islamic prayer house serves the Diamond Muslim community with regular congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191154,
+                        6.714307
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Serving the Wales area, this local Kingdom Hall provides a designated meeting place for Jehovah's Witnesses.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.207196,
+                        6.714754
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "This formal church building features the distinctive spire typical of Latter-day Saints meetinghouses.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.192799,
+                        6.720767
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-ES",
     coords: [-58.2167, 6.7167],
@@ -2980,7 +7840,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Wales est située sur la rive ouest du fleuve Demerara dans la Région 3.", "La Wales Sugar Estate a été fermée en décembre 2016 après plus de 100 ans d'activité.", "La localité a été choisie pour accueillir le grand projet Gas-to-Energy du Guyana.", "Autrefois, Wales était le centre économique de la rive ouest du Demerara (West Bank Demerara).", "La colonie se trouve à environ 10 kilomètres au sud de Vreed-en-Hoop.", "Le gouvernement prévoit d'y établir un grand parc industriel."],
     },
   }, {
-    id: "pouderoyen-cities-v2",
+    id: "pouderoyen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "Eine christliche Kirche der Denomination 'Church of the Nazarene' im Stadtteil Pouderoyen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.203048,
+                        6.80971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "A Názáreti Egyház keresztény temploma Pouderoyen városrészben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.203048,
+                        6.80971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "O biserică creștină a denominațiunii Biserica Nazarineanului în districtul Pouderoyen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.203048,
+                        6.80971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "A Christian church of the Church of the Nazarene denomination in the Pouderoyen district.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.203048,
+                        6.80971
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-ES",
     coords: [-58.2, 6.8],
@@ -3168,7 +8073,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Goed Fortuin est située dans la région 3, sur la rive ouest du Demerara.", "Le nom vient du néerlandais et signifie « Bonne Chance ».", "La localité se situe entre les centres animés de Pouderoyen et Schoonord.", "Historiquement, Goed Fortuin était une importante plantation de sucre.", "La communauté est connue pour sa forte cohésion et ses clubs sportifs.", "Elle n'est qu'à quelques kilomètres du pont Demerara Harbour Bridge."],
     },
   }, {
-    id: "vreed-en-rust-cities-v2",
+    id: "vreed-en-rust-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Dieses moderne mormonische Gemeindehaus liegt in der Küstenregion Vreed-en-Rust und dient der wachsenden lokalen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.200709,
+                        6.762975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Ez a modern mormon gyülekezeti ház Vreed-en-Rust tengerparti régiójában található, és a növekvő helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.200709,
+                        6.762975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Această casă de adunare mormonă modernă este situată în regiunea de coastă Vreed-en-Rust și deservește comunitatea locală în creștere.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.200709,
+                        6.762975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "This modern Mormon meetinghouse is located in the coastal Vreed-en-Rust region, serving the growing local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.200709,
+                        6.762975
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-ES",
     coords: [-58.2167, 6.7667],
@@ -3497,7 +8447,124 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Site des célèbres chutes d'Orinduik.", "Située à la frontière entre la Guyane et le Brésil.", "L'eau s'écoule sur des terrasses de jaspe rouge rare.", "Se trouve sur le cours de la rivière Ireng.", "Plaque tournante majeure de l'exploitation diamantaire régionale.", "Dispose d'une piste d'atterrissage stratégique pour les petits avions."],
     },
   }, {
-    id: "paramakatoi-cities-v2",
+    id: "paramakatoi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paramakatoi Weslyan Church",
+                  "text": "Eine wesleyanische Kirche im indigenen Dorf Paramakatoi im Hochland von Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -59.713485,
+                        4.698532
+                  ]
+            },
+            {
+                  "name": "Paramakatoi Church of Christ",
+                  "text": "Ein christliches Gotteshaus in Paramakatoi, einer entlegenen Gemeinde im Inneren von Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -59.711569,
+                        4.69977
+                  ]
+            },
+            {
+                  "name": "Paramakatoi Full Gospel Church",
+                  "text": "Eine Full-Gospel-Kirche in Paramakatoi, umgeben von der bergigen Landschaft der Pakaraima-Berge.",
+                  "category": "religious",
+                  "coords": [
+                        -59.713829,
+                        4.697031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paramakatoi Weslyan Church",
+                  "text": "Wesleyánus templom Paramakatoi bennszülött falujában, Guyana felföldi részén.",
+                  "category": "religious",
+                  "coords": [
+                        -59.713485,
+                        4.698532
+                  ]
+            },
+            {
+                  "name": "Paramakatoi Church of Christ",
+                  "text": "Keresztény imaház Paramakatoiban, Guyana belső részének egy távoli közösségében.",
+                  "category": "religious",
+                  "coords": [
+                        -59.711569,
+                        4.69977
+                  ]
+            },
+            {
+                  "name": "Paramakatoi Full Gospel Church",
+                  "text": "Full Gospel templom Paramakatoiban, a Pakaraima-hegység hegyvidéki tájaival körülvéve.",
+                  "category": "religious",
+                  "coords": [
+                        -59.713829,
+                        4.697031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paramakatoi Weslyan Church",
+                  "text": "O biserică wesleyană în satul indigen Paramakatoi din zonele muntoase ale Guyanei.",
+                  "category": "religious",
+                  "coords": [
+                        -59.713485,
+                        4.698532
+                  ]
+            },
+            {
+                  "name": "Paramakatoi Church of Christ",
+                  "text": "Un lăcaș de cult creștin în Paramakatoi, o comunitate izolată din interiorul Guyanei.",
+                  "category": "religious",
+                  "coords": [
+                        -59.711569,
+                        4.69977
+                  ]
+            },
+            {
+                  "name": "Paramakatoi Full Gospel Church",
+                  "text": "O biserică de tip Full Gospel în Paramakatoi, înconjurată de peisajul montan al Munților Pakaraima.",
+                  "category": "religious",
+                  "coords": [
+                        -59.713829,
+                        4.697031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paramakatoi Weslyan Church",
+                  "text": "A Wesleyan church in the indigenous village of Paramakatoi, located in the Pakaraima Mountains of Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -59.713485,
+                        4.698532
+                  ]
+            },
+            {
+                  "name": "Paramakatoi Church of Christ",
+                  "text": "A Christian place of worship in Paramakatoi, a remote community in the interior highlands of Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -59.711569,
+                        4.69977
+                  ]
+            },
+            {
+                  "name": "Paramakatoi Full Gospel Church",
+                  "text": "A Full Gospel church in Paramakatoi, surrounded by the mountainous landscape of the Pakaraima range.",
+                  "category": "religious",
+                  "coords": [
+                        -59.713829,
+                        4.697031
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-PT",
     coords: [-59.7, 4.7],
@@ -3930,7 +8997,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Gunns est situé dans le district d'Upper Takutu-Upper Essequibo, près de l'équateur.", "La zone de conservation de Konashen couvre environ 3 % de la superficie totale du Guyana.", "En 2007, les Wai-Wai ont reçu le titre foncier officiel pour cette zone protégée.", "Le lieu n'est accessible que par avion ou via le fleuve Essequibo.", "Les habitants pratiquent une forme durable d'agriculture itinérante.", "Gunns sert de base importante pour les expéditions scientifiques dans la forêt tropicale."],
     },
   }, {
-    id: "kumaka-cities-v2",
+    id: "kumaka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kumaka Water Front",
+                  "text": "Die Kumaka Water Front ist ein Aussichtspunkt am Flussufer, von dem aus man das geschäftige Treiben am Wasser beobachten kann.",
+                  "category": "natural",
+                  "coords": [
+                        -59.797768,
+                        8.190506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kumaka Water Front",
+                  "text": "A Kumaka Water Front egy folyóparti kilátópont, ahonnan megfigyelhető a vízparti nyüzsgés.",
+                  "category": "natural",
+                  "coords": [
+                        -59.797768,
+                        8.190506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kumaka Water Front",
+                  "text": "Kumaka Water Front este un punct de belvedere pe malul râului de unde poate fi observată forfota de pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -59.797768,
+                        8.190506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kumaka Water Front",
+                  "text": "The Kumaka Water Front is a riverside viewpoint from which one can observe the bustling waterside activity.",
+                  "category": "natural",
+                  "coords": [
+                        -59.797768,
+                        8.190506
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-BA",
     coords: [-59.7833, 8.1833],

@@ -66,7 +66,52 @@ export const poiExtraParaguayReliefV2: POI[] = [
       fr: ["Composé de grès géologiquement ancien du groupe Independencia.", "Le nom signifie 'enceinte de collines' en guaraní.", "Il abrite des rapaces rares qui nichent dans les parois rocheuses abruptes.", "Point de vue stratégique sur l'ensemble du bassin de la rivière Aquidabán."],
     }, image: "/poi-images/cerro-cora-relief-v2.webp"},
     {
-    id: "cerro-tres-kandu-relief-v2",
+    id: "cerro-tres-kandu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oratorio Santo Domingo",
+                  "text": "Dieses kleine Oratorium liegt malerisch am Fuße des Cerro Tres Kandú, dem mit 842 Metern höchsten Berg Paraguays.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.225203,
+                        -25.955935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oratorio Santo Domingo",
+                  "text": "Ez a kis imaház festői környezetben, a Cerro Tres Kandú, Paraguay legmagasabb (842 m) hegyének lábánál található.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.225203,
+                        -25.955935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oratorio Santo Domingo",
+                  "text": "Acest mic oratoriu este situat pitoresc la poalele Cerro Tres Kandú, cel mai înalt munte din Paraguay, având 842 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.225203,
+                        -25.955935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oratorio Santo Domingo",
+                  "text": "This small oratory is picturesquely located at the foot of Cerro Tres Kandú, Paraguay's highest peak at 842 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.225203,
+                        -25.955935
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-4",
     coords: [-56.2411, -25.9125],
@@ -256,7 +301,412 @@ export const poiExtraParaguayReliefV2: POI[] = [
     },
   },
   {
-    id: "cordillera-del-ybytyruzu-relief-v2",
+    id: "cordillera-del-ybytyruzu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador",
+                  "text": "Aussichtspunkt in der Cordillera del Ybytyruzú, der einen weiten Blick über die bewaldeten Gebirgsketten und Täler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -56.215125,
+                        -25.802724
+                  ]
+            },
+            {
+                  "name": "Miranto",
+                  "text": "Von hier aus blickt man auf das weite Tal von Cerro Corá, ein historisch bedeutsames Gebiet inmitten der paraguayischen Hügellandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -56.220766,
+                        -25.785337
+                  ]
+            },
+            {
+                  "name": "Salto Suizo",
+                  "text": "Mit 62 Metern Fallhöhe ist dieser Wasserfall einer der höchsten Paraguays und stürzt in ein von dichtem Wald umgebenes Becken.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.227843,
+                        -25.77321
+                  ]
+            },
+            {
+                  "name": "Cruz",
+                  "text": "Ein großes Metallkreuz auf einem Berggipfel, das als lokales Wahrzeichen und Ziel für Pilgerwanderungen dient.",
+                  "category": "historical",
+                  "coords": [
+                        -56.225113,
+                        -25.781547
+                  ]
+            },
+            {
+                  "name": "Salto San Pablo Akatî",
+                  "text": "Ein idyllischer Wasserfall, der in Kaskaden über Felsen inmitten des Akatî-Naturreservats herabfällt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.223601,
+                        -25.798024
+                  ]
+            },
+            {
+                  "name": "Estación Nr. 3: Portal del Cielo",
+                  "text": "Der 'Himmelspfad' ist ein exponierter Aussichtspunkt, der Besuchern das Gefühl gibt, über den Wolken des Gebirges zu stehen.",
+                  "category": "natural",
+                  "coords": [
+                        -56.274818,
+                        -25.822357
+                  ]
+            },
+            {
+                  "name": "Estación Nr. 7: Mirador Amanecer",
+                  "text": "Ein strategischer Punkt für Frühaufsteher, um das erste Tageslicht über den Gipfeln der Cordillera zu erleben.",
+                  "category": "natural",
+                  "coords": [
+                        -56.266861,
+                        -25.824238
+                  ]
+            },
+            {
+                  "name": "Cerro Mymyi",
+                  "text": "Ein markanter Berggipfel in der Ybytyruzú-Kette, der durch seine charakteristische Silhouette in der Landschaft auffällt.",
+                  "category": "natural",
+                  "coords": [
+                        -56.282339,
+                        -25.839284
+                  ]
+            },
+            {
+                  "name": "Granja Francisca",
+                  "text": "Ein ländliches Anwesen, das Agrotourismus bietet und als Ausgangspunkt für Wanderungen zu den nahen Wasserfällen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.22184,
+                        -25.803225
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen de Caacupe",
+                  "text": "Ein religiöser Ort, der der Jungfrau von Caacupé gewidmet ist und oft von Einheimischen für Gebete und Besinnung besucht wird.",
+                  "category": "religious",
+                  "coords": [
+                        -56.213339,
+                        -25.802922
+                  ]
+            },
+            {
+                  "name": "Oratorio Virgen de Caacupe",
+                  "text": "Ein kleiner Schrein am Wegesrand, der der Schutzpatronin Paraguays gewidmet ist und ein Ort der stillen Andacht bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -56.281683,
+                        -25.831472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador",
+                  "text": "Kilátó az Ybytyruzú-hegységben, ahonnan beláthatók az erdős hegyvonulatok és a környező völgyek.",
+                  "category": "natural",
+                  "coords": [
+                        -56.215125,
+                        -25.802724
+                  ]
+            },
+            {
+                  "name": "Miranto",
+                  "text": "Innen rálátni a Cerro Corá tágas völgyére, amely egy történelmileg jelentős terület a paraguayi dombvidék közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -56.220766,
+                        -25.785337
+                  ]
+            },
+            {
+                  "name": "Salto Suizo",
+                  "text": "62 méteres magasságával ez Paraguay egyik legmagasabb vízesése, amely egy sűrű erdővel körülvett medencébe zúdul.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.227843,
+                        -25.77321
+                  ]
+            },
+            {
+                  "name": "Cruz",
+                  "text": "Egy nagy fémkereszt a hegycsúcson, amely helyi jelképként és zarándoklatok célpontjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -56.225113,
+                        -25.781547
+                  ]
+            },
+            {
+                  "name": "Salto San Pablo Akatî",
+                  "text": "Egy idilli vízesés, amely sziklákon keresztül zúdul alá az Akatî természetvédelmi terület közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.223601,
+                        -25.798024
+                  ]
+            },
+            {
+                  "name": "Estación Nr. 3: Portal del Cielo",
+                  "text": "Az 'Égi kapu' egy kitett kilátóhely, amely azt az érzést kelti, mintha a hegység felhői felett állnánk.",
+                  "category": "natural",
+                  "coords": [
+                        -56.274818,
+                        -25.822357
+                  ]
+            },
+            {
+                  "name": "Estación Nr. 7: Mirador Amanecer",
+                  "text": "Stratégiai pont a korán kelőknek, hogy szemtanúi legyenek a hegység csúcsai felett megjelenő első napfénynek.",
+                  "category": "natural",
+                  "coords": [
+                        -56.266861,
+                        -25.824238
+                  ]
+            },
+            {
+                  "name": "Cerro Mymyi",
+                  "text": "Az Ybytyruzú-lánc egyik jellegzetes hegycsúcsa, amely karakteres sziluettjével emelkedik ki a tájból.",
+                  "category": "natural",
+                  "coords": [
+                        -56.282339,
+                        -25.839284
+                  ]
+            },
+            {
+                  "name": "Granja Francisca",
+                  "text": "Agroturizmust kínáló vidéki birtok, amely kiindulópontként szolgál a közeli vízesésekhez induló túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.22184,
+                        -25.803225
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen de Caacupe",
+                  "text": "A Caacupéi Szűznek szentelt vallási hely, amelyet a helyiek gyakran látogatnak imádság és elmélyülés céljából.",
+                  "category": "religious",
+                  "coords": [
+                        -56.213339,
+                        -25.802922
+                  ]
+            },
+            {
+                  "name": "Oratorio Virgen de Caacupe",
+                  "text": "Egy kis útmenti szentély Paraguay védőszentjének tiszteletére, amely lehetőséget ad a csendes fohászra.",
+                  "category": "religious",
+                  "coords": [
+                        -56.281683,
+                        -25.831472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador",
+                  "text": "Punct de observație în Munții Ybytyruzú, oferind o vedere largă asupra lanțurilor muntoase împădurite și a văilor.",
+                  "category": "natural",
+                  "coords": [
+                        -56.215125,
+                        -25.802724
+                  ]
+            },
+            {
+                  "name": "Miranto",
+                  "text": "De aici se poate vedea valea largă Cerro Corá, o zonă de importanță istorică în mijlocul dealurilor paraguayene.",
+                  "category": "natural",
+                  "coords": [
+                        -56.220766,
+                        -25.785337
+                  ]
+            },
+            {
+                  "name": "Salto Suizo",
+                  "text": "Cu o înălțime de 62 de metri, această cascadă este una dintre cele mai înalte din Paraguay, căzând într-un bazin înconjurat de pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.227843,
+                        -25.77321
+                  ]
+            },
+            {
+                  "name": "Cruz",
+                  "text": "O cruce mare din metal situată pe un vârf de munte, servind drept simbol local și destinație pentru pelerinaje.",
+                  "category": "historical",
+                  "coords": [
+                        -56.225113,
+                        -25.781547
+                  ]
+            },
+            {
+                  "name": "Salto San Pablo Akatî",
+                  "text": "O cascadă idilică ce cade peste stânci în mijlocul rezervației naturale Akatî.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.223601,
+                        -25.798024
+                  ]
+            },
+            {
+                  "name": "Estación Nr. 3: Portal del Cielo",
+                  "text": "„Poarta Cerului” este un punct de observație expus care oferă senzația de a sta deasupra norilor din munte.",
+                  "category": "natural",
+                  "coords": [
+                        -56.274818,
+                        -25.822357
+                  ]
+            },
+            {
+                  "name": "Estación Nr. 7: Mirador Amanecer",
+                  "text": "Un punct strategic pentru cei care se trezesc devreme pentru a vedea prima lumină a zilei peste vârfurile munților.",
+                  "category": "natural",
+                  "coords": [
+                        -56.266861,
+                        -25.824238
+                  ]
+            },
+            {
+                  "name": "Cerro Mymyi",
+                  "text": "Un vârf muntos proeminent din lanțul Ybytyruzú, care se remarcă în peisaj prin silueta sa caracteristică.",
+                  "category": "natural",
+                  "coords": [
+                        -56.282339,
+                        -25.839284
+                  ]
+            },
+            {
+                  "name": "Granja Francisca",
+                  "text": "O proprietate rurală care oferă agroturism și servește drept punct de plecare pentru drumeții către cascadele din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.22184,
+                        -25.803225
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen de Caacupe",
+                  "text": "Un loc religios dedicat Fecioarei din Caacupé, vizitat adesea de localnici pentru rugăciune și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        -56.213339,
+                        -25.802922
+                  ]
+            },
+            {
+                  "name": "Oratorio Virgen de Caacupe",
+                  "text": "Un mic altar de pe marginea drumului dedicat patroanei Paraguayului, oferind un loc pentru devoțiune personală.",
+                  "category": "religious",
+                  "coords": [
+                        -56.281683,
+                        -25.831472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador",
+                  "text": "A viewpoint in the Ybytyruzú Mountains, offering sweeping vistas over the forested ridges and valleys of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -56.215125,
+                        -25.802724
+                  ]
+            },
+            {
+                  "name": "Viewpoint of Cerro Corá valley",
+                  "text": "A viewpoint overlooking the vast Cerro Corá valley, a region of historical significance set within the Paraguayan hills.",
+                  "category": "natural",
+                  "coords": [
+                        -56.220766,
+                        -25.785337
+                  ]
+            },
+            {
+                  "name": "Salto Suizo",
+                  "text": "Plunging 62 meters, this is one of Paraguay's tallest waterfalls, cascading into a basin surrounded by dense subtropical forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.227843,
+                        -25.77321
+                  ]
+            },
+            {
+                  "name": "Cruz",
+                  "text": "A large metal cross situated on a mountain peak, serving as a local landmark and a destination for religious pilgrimages.",
+                  "category": "historical",
+                  "coords": [
+                        -56.225113,
+                        -25.781547
+                  ]
+            },
+            {
+                  "name": "Salto San Pablo Akatî",
+                  "text": "An idyllic waterfall cascading over rocks within the lush Akatî nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.223601,
+                        -25.798024
+                  ]
+            },
+            {
+                  "name": "Estación Nr. 3: Portal del Cielo",
+                  "text": "The 'Portal of Heaven' is an exposed viewpoint that gives visitors the sensation of standing above the mountain clouds.",
+                  "category": "natural",
+                  "coords": [
+                        -56.274818,
+                        -25.822357
+                  ]
+            },
+            {
+                  "name": "Estación Nr. 7: Mirador Amanecer",
+                  "text": "A strategic spot for early risers to witness the first light of day breaking over the Cordillera peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -56.266861,
+                        -25.824238
+                  ]
+            },
+            {
+                  "name": "Cerro Mymyi",
+                  "text": "A prominent mountain peak in the Ybytyruzú range, standing out in the landscape with its distinctive silhouette.",
+                  "category": "natural",
+                  "coords": [
+                        -56.282339,
+                        -25.839284
+                  ]
+            },
+            {
+                  "name": "Granja Francisca",
+                  "text": "A rural estate offering agritourism experiences and serving as a base for hikes to the nearby waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.22184,
+                        -25.803225
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen de Caacupe",
+                  "text": "A religious site dedicated to the Virgin of Caacupé, frequently visited by locals for prayer and quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -56.213339,
+                        -25.802922
+                  ]
+            },
+            {
+                  "name": "Oratorio Virgen de Caacupe",
+                  "text": "A small roadside shrine dedicated to Paraguay's patron saint, offering a quiet space for personal devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -56.281683,
+                        -25.831472
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-4",
     coords: [-56.2, -25.85],
@@ -383,7 +833,1168 @@ export const poiExtraParaguayReliefV2: POI[] = [
     },
   },
   {
-    id: "cerro-lambare-relief-v2",
+    id: "cerro-lambare-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jungfrau von Fatima Portugal",
+                  "text": "Dieser Ort in der Nähe des Cerro Lambaré ist mit der Verehrung Unserer Lieben Frau von Fátima verbunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.579691,
+                        -25.302754
+                  ]
+            },
+            {
+                  "name": "Iglesia San Nicolás y Santa Maria",
+                  "text": "Die Iglesia San Nicolás y Santa Maria in der Nähe des Cerro Lambaré ist ein bedeutendes lokales Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        -57.628463,
+                        -25.324127
+                  ]
+            },
+            {
+                  "name": "Paseo del Barro",
+                  "text": "Das Paseo del Barro in der Nähe des Cerro Lambaré ist ein kulturelles Museum, das traditionelle Tonkunst und indigene Töpfertechniken zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -57.612818,
+                        -25.331014
+                  ]
+            },
+            {
+                  "name": "Paseo Los Laureles",
+                  "text": "Paseo Los Laureles ist ein markantes, schlossartiges Bauwerk in der Nähe des Cerro Lambaré, das einen architektonischen Kontrast zur Naturlandschaft bildet.",
+                  "category": "castle",
+                  "coords": [
+                        -57.585394,
+                        -25.31154
+                  ]
+            },
+            {
+                  "name": "cacique Lambare",
+                  "text": "Das Denkmal für Cacique Lambaré ist eine stolze Hommage an den indigenen Guarani-Führer und überblickt die historische Landschaft des Cerro Lambaré.",
+                  "category": "historical",
+                  "coords": [
+                        -57.625348,
+                        -25.342197
+                  ]
+            },
+            {
+                  "name": "Schönstatt-Jungheiligtum",
+                  "text": "Das Schoenstatt-Jugendheiligtum in der Nähe des Cerro Lambaré ist ein friedlicher spiritueller Ort für die marianische Verehrung.",
+                  "category": "historical",
+                  "coords": [
+                        -57.57503,
+                        -25.296953
+                  ]
+            },
+            {
+                  "name": "Comunidad Adventista de Asunción",
+                  "text": "Dieser Gebetssaal der Siebenten-Tags-Adventisten in der Nähe des Cerro Lambaré versammelt seine Gemeinde zum Sabbatgottesdienst am Samstag.",
+                  "category": "religious",
+                  "coords": [
+                        -57.585527,
+                        -25.297582
+                  ]
+            },
+            {
+                  "name": "San Rafael - Parroquia",
+                  "text": "Die Parroquia San Rafael ist ein aktives Gotteshaus in der Nähe des Cerro Lambaré, das Seelsorge und katholische Gottesdienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586994,
+                        -25.307659
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro y San pablo",
+                  "text": "Die den beiden Aposteln geweihte Parroquia San Pedro y San Pablo in der Nähe des Cerro Lambaré bietet regelmäßige Messen.",
+                  "category": "religious",
+                  "coords": [
+                        -57.599061,
+                        -25.30244
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de Villa Morra",
+                  "text": "Die in der Nähe des Cerro Lambaré gelegene Baptistenkirche Villa Morra bietet biblische Lehren und musikalische Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -57.579565,
+                        -25.299972
+                  ]
+            },
+            {
+                  "name": "Capilla Cristo Rey",
+                  "text": "Die Capilla Cristo Rey in der Gegend von Cerro Lambaré ist eine bescheidene Kapelle, die einen ruhigen Rahmen für die tägliche katholische Andacht bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -57.580643,
+                        -25.407658
+                  ]
+            },
+            {
+                  "name": "Seminario Claretiano",
+                  "text": "Das Seminario Claretiano in der Nähe des Cerro Lambaré ist ein Bildungsort, der sich auf die theologische Ausbildung künftiger Missionare konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        -57.614667,
+                        -25.349097
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario",
+                  "text": "Diese Pfarrkirche in der Nähe des Cerro Lambaré versammelt die örtlichen katholischen Gläubigen zu Sakramenten zu Ehren Unserer Lieben Frau vom Rosenkranz.",
+                  "category": "religious",
+                  "coords": [
+                        -57.626322,
+                        -25.343071
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana Reformada Centro de Vida",
+                  "text": "Diese reformierte presbyterianische Kirche in der Nähe des Cerro Lambaré legt den Schwerpunkt auf schriftenzentrierte Predigten.",
+                  "category": "religious",
+                  "coords": [
+                        -57.630254,
+                        -25.341949
+                  ]
+            },
+            {
+                  "name": "Templo MASON",
+                  "text": "Der Freimaurertempel in der Nähe des Cerro Lambaré ist ein diskreter Versammlungssaal, der durch seine symbolische Architektur gekennzeichnet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -57.520759,
+                        -25.356425
+                  ]
+            },
+            {
+                  "name": "Club Bíblico Nueva Esperanza",
+                  "text": "Der New Hope Bible Club in der Nähe des Cerro Lambaré bietet einen interaktiven Gottesdienstraum, der dem Schriftstudium der Jugend gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -57.539813,
+                        -25.293793
+                  ]
+            },
+            {
+                  "name": "Capilla Nstra. Señora de la Asunción",
+                  "text": "Diese der Mariä Himmelfahrt geweihte Kapelle dient der lokalen katholischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -57.583706,
+                        -25.335123
+                  ]
+            },
+            {
+                  "name": "Capilla San Rafael",
+                  "text": "Eine kleine Kapelle, die zu Ehren des Erzengels Raphael benannt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -57.523522,
+                        -25.347462
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "Diese lokale Kapelle ist Johannes dem Täufer geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        -57.58841,
+                        -25.321858
+                  ]
+            },
+            {
+                  "name": "Capilla Nstra. Señora de La Merced",
+                  "text": "Eine religiöse Kapelle, die der Barmherzigen Muttergottes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -57.577867,
+                        -25.32456
+                  ]
+            },
+            {
+                  "name": "Biggie",
+                  "text": "Ein lokaler Supermarkt, der die Nachbarschaft mit Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.586568,
+                        -25.297077
+                  ]
+            },
+            {
+                  "name": "Despensa Pinoza",
+                  "text": "Ein lokales Lebensmittelgeschäft, das als Despensa Pinoza bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.609187,
+                        -25.310152
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Ñemby",
+                  "text": "Der städtische Markt von Ñemby bietet einen belebten Raum für frische lokale Produkte und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.546137,
+                        -25.389793
+                  ]
+            },
+            {
+                  "name": "Cerro Lambaré",
+                  "text": "Der Cerro Lambaré ist ein markantes Wahrzeichen mit einem Denkmal und bietet einen Panoramablick auf den Río Paraguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.641393,
+                        -25.340387
+                  ]
+            },
+            {
+                  "name": "La Cuadrita",
+                  "text": "Eine lokale Attraktion und ein Treffpunkt, umgangssprachlich als La Cuadrita bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.581983,
+                        -25.300285
+                  ]
+            },
+            {
+                  "name": "Jehovah´s Wit.",
+                  "text": "Ein christlicher Versammlungsort, der der lokalen Versammlung der Zeugen Jehovas dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.601137,
+                        -25.309464
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betel de Asunción",
+                  "text": "Die Bethel-Baptistengemeinde bietet einen christlichen Gottesdienstraum für die Gemeinde in Asunción.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.59927,
+                        -25.307436
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Nazareth",
+                  "text": "Eine christliche Kirche, die speziell der Jungfrau von Nazareth gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.59771,
+                        -25.31999
+                  ]
+            },
+            {
+                  "name": "Jungfrau Maria",
+                  "text": "Ein christlicher Andachtsort, der sich auf die Figur der Jungfrau Maria konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.582489,
+                        -25.311023
+                  ]
+            },
+            {
+                  "name": "Jesus Divine Mercy",
+                  "text": "Diese am 4. März 2024 gegründete christliche Stätte ist der Göttlichen Barmherzigkeit Jesu gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.564131,
+                        -25.297954
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein Gemeindehaus, das als Kultstätte für die Kirche Jesu Christi der Heiligen der Letzten Tage dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.528035,
+                        -25.294259
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Catalina",
+                  "text": "Eine christliche Kapelle, die in Andacht an die Heilige Katharina benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541528,
+                        -25.351692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Virgo Fatimensis Portugallia",
+                  "text": "A Cerro Lambaré közelében található hely a Fátimai Szűzanya tiszteletéhez kapcsolódik, tükrözve a Mária-jelenések széles körű tiszteletét.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.579691,
+                        -25.302754
+                  ]
+            },
+            {
+                  "name": "Iglesia San Nicolás y Santa Maria",
+                  "text": "A Cerro Lambaré közelében található Iglesia San Nicolás y Santa Maria egy nevezetes helyi istentiszteleti hely, amely Szent Miklós és Szűz Mária tiszteletét ötvözi.",
+                  "category": "religious",
+                  "coords": [
+                        -57.628463,
+                        -25.324127
+                  ]
+            },
+            {
+                  "name": "Paseo del Barro",
+                  "text": "A Cerro Lambaré közelében található Paseo del Barro egy kulturális múzeum, amely bemutatja a hagyományos agyagművészetet és az őslakos fazekastechnikákat.",
+                  "category": "museum",
+                  "coords": [
+                        -57.612818,
+                        -25.331014
+                  ]
+            },
+            {
+                  "name": "Paseo Los Laureles",
+                  "text": "A Paseo Los Laureles egy különleges, kastélyszerű építmény a Cerro Lambaré közelében, amely építészeti kontrasztot alkot a környező természeti tájjal.",
+                  "category": "castle",
+                  "coords": [
+                        -57.585394,
+                        -25.31154
+                  ]
+            },
+            {
+                  "name": "cacique Lambare",
+                  "text": "Cacique Lambaré emlékműve büszke tisztelgés a guarani őslakos vezető előtt, kilátással a történelmi Cerro Lambaré tájra.",
+                  "category": "historical",
+                  "coords": [
+                        -57.625348,
+                        -25.342197
+                  ]
+            },
+            {
+                  "name": "Schoenstatt Young Sanctuarii",
+                  "text": "A Cerro Lambaré közelében fekvő Schoenstatt ifjúsági szentély egy békés spirituális hely, ahol a fiatalok Mária-tiszteletre és lelkigyakorlatokra gyűlnek össze.",
+                  "category": "historical",
+                  "coords": [
+                        -57.57503,
+                        -25.296953
+                  ]
+            },
+            {
+                  "name": "Comunidad Adventista de Asunción",
+                  "text": "A Cerro Lambaré melletti Hetednapi Adventista imaház szombati istentiszteletekre és vallási tanulmányokra gyűjti össze közösségét.",
+                  "category": "religious",
+                  "coords": [
+                        -57.585527,
+                        -25.297582
+                  ]
+            },
+            {
+                  "name": "San Rafael - Parroquia",
+                  "text": "A Parroquia San Rafael egy aktív istentiszteleti hely Cerro Lambaré közelében, amely lelkipásztori ellátást és katolikus istentiszteleteket szervez.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586994,
+                        -25.307659
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro y San pablo",
+                  "text": "A két apostolnak szentelt Parroquia San Pedro y San Pablo (Cerro Lambaré közelében) rendszeres misékkel és támogató plébániai közösséggel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -57.599061,
+                        -25.30244
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de Villa Morra",
+                  "text": "A Cerro Lambaré közelében található Villa Morra Baptista Gyülekezet erős bibliai tanításokat és zenei istentiszteleteket tart.",
+                  "category": "religious",
+                  "coords": [
+                        -57.579565,
+                        -25.299972
+                  ]
+            },
+            {
+                  "name": "Capilla Cristo Rey",
+                  "text": "A Cerro Lambaré környékén található Capilla Cristo Rey egy szerény kápolna, amely nyugodt környezetet biztosít a napi katolikus áhítathoz.",
+                  "category": "religious",
+                  "coords": [
+                        -57.580643,
+                        -25.407658
+                  ]
+            },
+            {
+                  "name": "Seminario Claretiano",
+                  "text": "A Cerro Lambaré közelében fekvő Seminario Claretiano egy oktatási központ, amely a jövő misszionáriusainak teológiai képzésére összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        -57.614667,
+                        -25.349097
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario",
+                  "text": "Ez a Cerro Lambaré melletti plébániatemplom összehozza a helyi katolikus híveket a Rózsafüzér Királynője tiszteletére rendezett szentségekre és ünnepekre.",
+                  "category": "religious",
+                  "coords": [
+                        -57.626322,
+                        -25.343071
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana Reformada Centro de Vida",
+                  "text": "Ez a Cerro Lambaré közelében működő református presbiteriánus templom a szentírásközpontú prédikációkat és a közösségi életet hangsúlyozza.",
+                  "category": "religious",
+                  "coords": [
+                        -57.630254,
+                        -25.341949
+                  ]
+            },
+            {
+                  "name": "Templo MASON",
+                  "text": "A Cerro Lambaré közelében található szabadkőműves templom egy diszkrét gyülekezeti terem, amelyet szimbolikus építészete jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        -57.520759,
+                        -25.356425
+                  ]
+            },
+            {
+                  "name": "Club Bíblico Nueva Esperanza",
+                  "text": "A Cerro Lambaré melletti Új Remény Bibliaklub egy interaktív istentiszteleti hely, amelyet az ifjúsági szentírás-tanulmányozásnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -57.539813,
+                        -25.293793
+                  ]
+            },
+            {
+                  "name": "Capilla Nstra. Señora de la Asunción",
+                  "text": "Ez a Nagyboldogasszonynak szentelt kápolna a helyi katolikus közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -57.583706,
+                        -25.335123
+                  ]
+            },
+            {
+                  "name": "Capilla San Rafael",
+                  "text": "Egy kis kápolna, amelyet Szent Rafael arkangyal tiszteletére neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        -57.523522,
+                        -25.347462
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "Ezt a helyi kápolnát Keresztelő Szent Jánosnak szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -57.58841,
+                        -25.321858
+                  ]
+            },
+            {
+                  "name": "Capilla Nstra. Señora de La Merced",
+                  "text": "A Fogolykiváltó Boldogasszonynak szentelt vallási kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        -57.577867,
+                        -25.32456
+                  ]
+            },
+            {
+                  "name": "Biggie",
+                  "text": "A környéket mindennapi cikkekkel ellátó helyi kisbolt.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.586568,
+                        -25.297077
+                  ]
+            },
+            {
+                  "name": "Despensa Pinoza",
+                  "text": "Egy környékbeli élelmiszerbolt, amely Despensa Pinoza néven ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.609187,
+                        -25.310152
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Ñemby",
+                  "text": "A Ñemby önkormányzati piac nyüzsgő teret kínál a friss helyi termékek és áruk számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.546137,
+                        -25.389793
+                  ]
+            },
+            {
+                  "name": "Cerro Lambaré",
+                  "text": "A Cerro Lambaré egy kiemelkedő tereptárgy egy emlékművel, ahonnan panorámás kilátás nyílik a Paraguay folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.641393,
+                        -25.340387
+                  ]
+            },
+            {
+                  "name": "La Cuadrita",
+                  "text": "Egy helyi látványosság és találkozóhely, amelyet a köznyelv La Cuadrita néven ismer.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.581983,
+                        -25.300285
+                  ]
+            },
+            {
+                  "name": "Jehovah´s Wit.",
+                  "text": "Egy keresztény találkozóhely, amely a helyi Jehova Tanúi gyülekezetet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.601137,
+                        -25.309464
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betel de Asunción",
+                  "text": "A Bétel Baptista Gyülekezet keresztény istentiszteleti teret biztosít az asuncióni közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.59927,
+                        -25.307436
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Nazareth",
+                  "text": "Egy keresztény templom, amelyet kifejezetten a Názáreti Szűznek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.59771,
+                        -25.31999
+                  ]
+            },
+            {
+                  "name": "Virgen María",
+                  "text": "A Szűzanya alakja köré összpontosuló keresztény áhítati hely.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.582489,
+                        -25.311023
+                  ]
+            },
+            {
+                  "name": "Jesus Divine Mercy",
+                  "text": "Ezt a 2024. március 4-én alapított keresztény helyszínt az Isteni Irgalmasság Jézusának szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.564131,
+                        -25.297954
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyháza istentiszteleti helyeként szolgáló gyülekezeti ház.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.528035,
+                        -25.294259
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Catalina",
+                  "text": "Szent Katalin tiszteletére elnevezett keresztény kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541528,
+                        -25.351692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Virgo Fatimensis Portugallia",
+                  "text": "Situat lângă Cerro Lambaré, acest loc este legat de devotamentul față de Fecioara din Fátima.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.579691,
+                        -25.302754
+                  ]
+            },
+            {
+                  "name": "Iglesia San Nicolás y Santa Maria",
+                  "text": "Iglesia San Nicolás y Santa Maria de lângă Cerro Lambaré este un lăcaș de cult local notabil.",
+                  "category": "religious",
+                  "coords": [
+                        -57.628463,
+                        -25.324127
+                  ]
+            },
+            {
+                  "name": "Paseo del Barro",
+                  "text": "Paseo del Barro de lângă Cerro Lambaré este un muzeu cultural care prezintă arta tradițională a lutului și tehnicile indigene de ceramică.",
+                  "category": "museum",
+                  "coords": [
+                        -57.612818,
+                        -25.331014
+                  ]
+            },
+            {
+                  "name": "Paseo Los Laureles",
+                  "text": "Paseo Los Laureles este o structură distinctă asemănătoare unui castel lângă Cerro Lambaré, oferind un contrast arhitectural cu peisajul natural.",
+                  "category": "castle",
+                  "coords": [
+                        -57.585394,
+                        -25.31154
+                  ]
+            },
+            {
+                  "name": "cacique Lambare",
+                  "text": "Monumentul dedicat lui Cacique Lambaré reprezintă un omagiu mândru adus liderului indigen Guarani, cu vedere spre peisajul istoric Cerro Lambaré.",
+                  "category": "historical",
+                  "coords": [
+                        -57.625348,
+                        -25.342197
+                  ]
+            },
+            {
+                  "name": "Schoenstatt Young Sanctuarii",
+                  "text": "Sanctuarul Tinerilor Schoenstatt de lângă Cerro Lambaré este un conac spiritual liniștit unde tinerii se adună pentru rugăciune.",
+                  "category": "historical",
+                  "coords": [
+                        -57.57503,
+                        -25.296953
+                  ]
+            },
+            {
+                  "name": "Comunidad Adventista de Asunción",
+                  "text": "Această sală de cult adventistă de ziua a șaptea de lângă Cerro Lambaré adună comunitatea pentru slujbele de Sabat.",
+                  "category": "religious",
+                  "coords": [
+                        -57.585527,
+                        -25.297582
+                  ]
+            },
+            {
+                  "name": "San Rafael - Parroquia",
+                  "text": "Parroquia San Rafael este un lăcaș de cult activ lângă Cerro Lambaré, care organizează servicii pastorale catolice.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586994,
+                        -25.307659
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro y San pablo",
+                  "text": "Dedicată celor doi apostoli, Parroquia San Pedro y San Pablo de lângă Cerro Lambaré se mândrește cu o comunitate parohială solidară.",
+                  "category": "religious",
+                  "coords": [
+                        -57.599061,
+                        -25.30244
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de Villa Morra",
+                  "text": "Situată lângă Cerro Lambaré, Biserica Baptistă Villa Morra oferă învățături biblice solide și adunări de închinare muzicală.",
+                  "category": "religious",
+                  "coords": [
+                        -57.579565,
+                        -25.299972
+                  ]
+            },
+            {
+                  "name": "Capilla Cristo Rey",
+                  "text": "Capilla Cristo Rey din zona Cerro Lambaré este o capelă modestă care oferă un cadru liniștit pentru rugăciunea zilnică.",
+                  "category": "religious",
+                  "coords": [
+                        -57.580643,
+                        -25.407658
+                  ]
+            },
+            {
+                  "name": "Seminario Claretiano",
+                  "text": "Seminario Claretiano de lângă Cerro Lambaré este un lăcaș de cult educațional axat pe formarea viitorilor misionari.",
+                  "category": "religious",
+                  "coords": [
+                        -57.614667,
+                        -25.349097
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario",
+                  "text": "Această biserică parohială de lângă Cerro Lambaré reunește credincioșii catolici locali pentru sacramente care onorează Fecioara Rozariului.",
+                  "category": "religious",
+                  "coords": [
+                        -57.626322,
+                        -25.343071
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana Reformada Centro de Vida",
+                  "text": "Funcționând lângă Cerro Lambaré, această biserică presbiteriană reformată pune accent pe predici și pe viața comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        -57.630254,
+                        -25.341949
+                  ]
+            },
+            {
+                  "name": "Templo MASON",
+                  "text": "Templul masonic de lângă Cerro Lambaré este o sală de întruniri discretă caracterizată prin arhitectura sa simbolică.",
+                  "category": "religious",
+                  "coords": [
+                        -57.520759,
+                        -25.356425
+                  ]
+            },
+            {
+                  "name": "Club Bíblico Nueva Esperanza",
+                  "text": "Clubul Biblic Noua Speranță de lângă Cerro Lambaré oferă un lăcaș de cult interactiv dedicat studiului scripturilor pentru tineri.",
+                  "category": "religious",
+                  "coords": [
+                        -57.539813,
+                        -25.293793
+                  ]
+            },
+            {
+                  "name": "Capilla Nstra. Señora de la Asunción",
+                  "text": "Această capelă dedicată Adormirii Maicii Domnului deservește comunitatea catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        -57.583706,
+                        -25.335123
+                  ]
+            },
+            {
+                  "name": "Capilla San Rafael",
+                  "text": "O mică capelă numită în onoarea arhanghelului Sfântul Rafael.",
+                  "category": "religious",
+                  "coords": [
+                        -57.523522,
+                        -25.347462
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "Această capelă locală îi este dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        -57.58841,
+                        -25.321858
+                  ]
+            },
+            {
+                  "name": "Capilla Nstra. Señora de La Merced",
+                  "text": "O capelă religioasă dedicată Maicii Domnului a Milei.",
+                  "category": "religious",
+                  "coords": [
+                        -57.577867,
+                        -25.32456
+                  ]
+            },
+            {
+                  "name": "Biggie",
+                  "text": "O piață de proximitate care oferă bunuri de zi cu zi cartierului.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.586568,
+                        -25.297077
+                  ]
+            },
+            {
+                  "name": "Despensa Pinoza",
+                  "text": "Un magazin alimentar de cartier cunoscut la nivel local sub numele de Despensa Pinoza.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.609187,
+                        -25.310152
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Ñemby",
+                  "text": "Piața municipală din Ñemby oferă un spațiu plin de viață pentru produse proaspete și bunuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.546137,
+                        -25.389793
+                  ]
+            },
+            {
+                  "name": "Cerro Lambaré",
+                  "text": "Dealul Lambaré este un reper proeminent care găzduiește un monument și oferă vederi panoramice asupra râului Paraguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.641393,
+                        -25.340387
+                  ]
+            },
+            {
+                  "name": "La Cuadrita",
+                  "text": "O atracție locală și un loc de întâlnire cunoscut colocvial sub numele de La Cuadrita.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.581983,
+                        -25.300285
+                  ]
+            },
+            {
+                  "name": "Jehovah´s Wit.",
+                  "text": "Un loc de întâlnire creștin care deservește congregația locală a Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.601137,
+                        -25.309464
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betel de Asunción",
+                  "text": "Biserica Baptistă Betel oferă un spațiu de cult creștin pentru comunitatea din Asunción.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.59927,
+                        -25.307436
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Nazareth",
+                  "text": "O biserică creștină dedicată în mod special Fecioarei din Nazaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.59771,
+                        -25.31999
+                  ]
+            },
+            {
+                  "name": "Virgen María",
+                  "text": "Un loc de devotament creștin centrat în jurul figurii Fecioarei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.582489,
+                        -25.311023
+                  ]
+            },
+            {
+                  "name": "Jesus Divine Mercy",
+                  "text": "Înființat pe 4 martie 2024, acest sit creștin este dedicat Milostivirii Divine a lui Isus.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.564131,
+                        -25.297954
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri care servește drept lăcaș de cult pentru Biserica lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.528035,
+                        -25.294259
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Catalina",
+                  "text": "O capelă creștină numită în devotament față de Sfânta Ecaterina.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541528,
+                        -25.351692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Virgin of Fatima Portugal",
+                  "text": "Located near Cerro Lambaré, this site is linked to the devotion of Our Lady of Fátima, reflecting the widespread Catholic veneration of the Marian apparitions.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.579691,
+                        -25.302754
+                  ]
+            },
+            {
+                  "name": "Iglesia San Nicolás y Santa Maria",
+                  "text": "The Iglesia San Nicolás y Santa Maria near Cerro Lambaré is a notable local place of worship combining devotion to Saint Nicholas and the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        -57.628463,
+                        -25.324127
+                  ]
+            },
+            {
+                  "name": "Paseo del Barro",
+                  "text": "The Paseo del Barro near Cerro Lambaré is a cultural museum showcasing traditional clay artistry and indigenous pottery techniques.",
+                  "category": "museum",
+                  "coords": [
+                        -57.612818,
+                        -25.331014
+                  ]
+            },
+            {
+                  "name": "Paseo Los Laureles",
+                  "text": "Paseo Los Laureles is a distinct castle-like structure near Cerro Lambaré, offering an architectural contrast to the surrounding natural landscape.",
+                  "category": "castle",
+                  "coords": [
+                        -57.585394,
+                        -25.31154
+                  ]
+            },
+            {
+                  "name": "cacique Lambare",
+                  "text": "The monument to Cacique Lambaré stands as a proud homage to the indigenous Guarani leader, overlooking the historical Cerro Lambaré landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -57.625348,
+                        -25.342197
+                  ]
+            },
+            {
+                  "name": "Schoenstatt Young Shrine",
+                  "text": "The Schoenstatt Young Shrine near Cerro Lambaré is a peaceful spiritual manor where the youth gather for Marian devotion and retreats.",
+                  "category": "historical",
+                  "coords": [
+                        -57.57503,
+                        -25.296953
+                  ]
+            },
+            {
+                  "name": "Comunidad Adventista de Asunción",
+                  "text": "This Seventh-day Adventist worship hall near Cerro Lambaré gathers its community for Saturday Sabbath services and religious study.",
+                  "category": "religious",
+                  "coords": [
+                        -57.585527,
+                        -25.297582
+                  ]
+            },
+            {
+                  "name": "San Rafael - Parroquia",
+                  "text": "Parroquia San Rafael is an active place of worship near Cerro Lambaré, organizing pastoral care and Catholic services for local residents.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586994,
+                        -25.307659
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro y San pablo",
+                  "text": "Dedicated to the two apostles, the Parroquia San Pedro y San Pablo near Cerro Lambaré features regular mass and a supportive parish community.",
+                  "category": "religious",
+                  "coords": [
+                        -57.599061,
+                        -25.30244
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de Villa Morra",
+                  "text": "Situated near Cerro Lambaré, the Villa Morra Baptist Church provides strong biblical teachings and musical worship gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -57.579565,
+                        -25.299972
+                  ]
+            },
+            {
+                  "name": "Capilla Cristo Rey",
+                  "text": "The Capilla Cristo Rey in the Cerro Lambaré area is a modest chapel offering a tranquil setting for daily Catholic devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -57.580643,
+                        -25.407658
+                  ]
+            },
+            {
+                  "name": "Seminario Claretiano",
+                  "text": "The Seminario Claretiano near Cerro Lambaré is an educational place of worship focused on training future missionaries in theology.",
+                  "category": "religious",
+                  "coords": [
+                        -57.614667,
+                        -25.349097
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario",
+                  "text": "This parish church near Cerro Lambaré brings together the local Catholic faithful for sacraments and feasts honoring Our Lady of the Rosary.",
+                  "category": "religious",
+                  "coords": [
+                        -57.626322,
+                        -25.343071
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana Reformada Centro de Vida",
+                  "text": "Operating near Cerro Lambaré, this Reformed Presbyterian church emphasizes scripture-centered sermons and community life.",
+                  "category": "religious",
+                  "coords": [
+                        -57.630254,
+                        -25.341949
+                  ]
+            },
+            {
+                  "name": "Templo MASON",
+                  "text": "The Masonic Temple near Cerro Lambaré is a discrete meeting hall characterized by its symbolic architecture and fraternal gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -57.520759,
+                        -25.356425
+                  ]
+            },
+            {
+                  "name": "Club Bíblico Nueva Esperanza",
+                  "text": "The New Hope Bible Club near Cerro Lambaré provides an interactive place of worship dedicated to youth scripture study and fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        -57.539813,
+                        -25.293793
+                  ]
+            },
+            {
+                  "name": "Capilla Nstra. Señora de la Asunción",
+                  "text": "This chapel dedicated to Our Lady of the Assumption serves the local Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        -57.583706,
+                        -25.335123
+                  ]
+            },
+            {
+                  "name": "Capilla San Rafael",
+                  "text": "A small chapel named in honor of the archangel Saint Raphael.",
+                  "category": "religious",
+                  "coords": [
+                        -57.523522,
+                        -25.347462
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "This local chapel is dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        -57.58841,
+                        -25.321858
+                  ]
+            },
+            {
+                  "name": "Capilla Nstra. Señora de La Merced",
+                  "text": "A religious chapel dedicated to Our Lady of Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        -57.577867,
+                        -25.32456
+                  ]
+            },
+            {
+                  "name": "Biggie",
+                  "text": "A local convenience market providing daily goods to the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.586568,
+                        -25.297077
+                  ]
+            },
+            {
+                  "name": "Despensa Pinoza",
+                  "text": "A neighborhood grocery store known locally as Despensa Pinoza.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.609187,
+                        -25.310152
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Ñemby",
+                  "text": "The municipal market of Ñemby offers a bustling space for fresh local produce and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.546137,
+                        -25.389793
+                  ]
+            },
+            {
+                  "name": "Cerro Lambaré",
+                  "text": "Lambaré Hill is a prominent landmark featuring a monument and offering panoramic views of the Paraguay River.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.641393,
+                        -25.340387
+                  ]
+            },
+            {
+                  "name": "La Cuadrita",
+                  "text": "A local attraction and gathering spot known colloquially as La Cuadrita.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.581983,
+                        -25.300285
+                  ]
+            },
+            {
+                  "name": "Jehovah´s Wit.",
+                  "text": "A Christian meeting place serving the local Jehovah's Witnesses congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.601137,
+                        -25.309464
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betel de Asunción",
+                  "text": "The Bethel Baptist Church provides a Christian worship space for the Asunción community.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.59927,
+                        -25.307436
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Nazareth",
+                  "text": "A Christian church specifically dedicated to the Virgin of Nazareth.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.59771,
+                        -25.31999
+                  ]
+            },
+            {
+                  "name": "virgin mary",
+                  "text": "A Christian place of devotion centered around the figure of the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.582489,
+                        -25.311023
+                  ]
+            },
+            {
+                  "name": "Jesus Divine Mercy",
+                  "text": "Established on March 4, 2024, this Christian site is devoted to the Jesus Divine Mercy.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.564131,
+                        -25.297954
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A meetinghouse serving as a place of worship for The Church of Jesus Christ of Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.528035,
+                        -25.294259
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Catalina",
+                  "text": "A Christian chapel named in devotion to Saint Catherine.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541528,
+                        -25.351692
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-ASU",
     coords: [-57.6167, -25.3333],
@@ -574,7 +2185,232 @@ export const poiExtraParaguayReliefV2: POI[] = [
     },
   },
   {
-    id: "cordillera-de-los-altos-relief-v2",
+    id: "cordillera-de-los-altos-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Arco",
+                  "text": "Dieser bogenförmige Hügel in der Cordillera de los Altos zieht Naturliebhaber wegen seiner einzigartigen topologischen Formationen an.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.104664,
+                        -25.290929
+                  ]
+            },
+            {
+                  "name": "Cerro Ybytu Silla",
+                  "text": "Dieser nach seiner sattelartigen Form benannte Bergaussichtspunkt bietet weite Panoramablicke über die Cordillera de los Altos.",
+                  "category": "natural",
+                  "coords": [
+                        -57.115255,
+                        -25.282678
+                  ]
+            },
+            {
+                  "name": "Mirador 3 y Cima del Cerro Cavaju",
+                  "text": "Dieser dritte Aussichtspunkt befindet sich am höchsten Gipfel des Cerro Cavaju und belohnt Wanderer mit ungetrübten Bergblick.",
+                  "category": "natural",
+                  "coords": [
+                        -57.129554,
+                        -25.305072
+                  ]
+            },
+            {
+                  "name": "Mirador 4 - Norte",
+                  "text": "Dieser streng nach Norden ausgerichtete Beobachtungspunkt fängt das zerklüftete Gelände der Cordillera de los Altos ein.",
+                  "category": "natural",
+                  "coords": [
+                        -57.12878,
+                        -25.303725
+                  ]
+            },
+            {
+                  "name": "Cerro Kavaju",
+                  "text": "Dieser markante felsige Hügel ist ein beliebtes Ziel für Wanderer, die die Bergkette der Cordillera de los Altos erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.12709,
+                        -25.305285
+                  ]
+            },
+            {
+                  "name": "Escalera para subir al Cerro Cavaju",
+                  "text": "Diese eingebauten Treppen erleichtern Besuchern den steilen Endaufstieg an den Hängen des Cerro Cavaju.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.129388,
+                        -25.306014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Arco",
+                  "text": "A Cordillera de los Altos hegyvonulatában található íves domb egyedi domborzati formációival vonzza a természetbarátokat.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.104664,
+                        -25.290929
+                  ]
+            },
+            {
+                  "name": "Cerro Ybytu Silla",
+                  "text": "A nyereghez hasonló alakjáról elnevezett hegyi kilátó pazar panorámát kínál a Cordillera de los Altos vonulataira.",
+                  "category": "natural",
+                  "coords": [
+                        -57.115255,
+                        -25.282678
+                  ]
+            },
+            {
+                  "name": "Mirador 3 y Cima del Cerro Cavaju",
+                  "text": "A Cerro Cavaju legmagasabb csúcsán található harmadik kilátó zavartalan hegyi kilátással jutalmazza a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        -57.129554,
+                        -25.305072
+                  ]
+            },
+            {
+                  "name": "Mirador 4 - Norte",
+                  "text": "A szigorúan északra néző, dedikált megfigyelőpont a Cordillera de los Altos zord domborzatát tárja elénk.",
+                  "category": "natural",
+                  "coords": [
+                        -57.12878,
+                        -25.303725
+                  ]
+            },
+            {
+                  "name": "Cerro Kavaju",
+                  "text": "Ez a kiemelkedő sziklás hegy népszerű célpont a Cordillera de los Altos hegyvonulatát felfedező túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.12709,
+                        -25.305285
+                  ]
+            },
+            {
+                  "name": "Escalera para subir al Cerro Cavaju",
+                  "text": "Ezek a beépített lépcsők megkönnyítik a Cerro Cavaju lejtőin mászó látogatók számára a meredek végső kapaszkodót.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.129388,
+                        -25.306014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Arco",
+                  "text": "Acest deal în formă de arc din Cordillera de los Altos atrage iubitorii de natură pentru formațiunile sale topologice unice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.104664,
+                        -25.290929
+                  ]
+            },
+            {
+                  "name": "Cerro Ybytu Silla",
+                  "text": "Numit după forma sa asemănătoare unei șei, acest punct de belvedere montan oferă panorame ample peste Cordillera de los Altos.",
+                  "category": "natural",
+                  "coords": [
+                        -57.115255,
+                        -25.282678
+                  ]
+            },
+            {
+                  "name": "Mirador 3 y Cima del Cerro Cavaju",
+                  "text": "Situat chiar pe cel mai înalt vârf al Cerro Cavaju, acest al treilea punct de belvedere răsplătește drumeții cu priveliști montane neîntrerupte.",
+                  "category": "natural",
+                  "coords": [
+                        -57.129554,
+                        -25.305072
+                  ]
+            },
+            {
+                  "name": "Mirador 4 - Norte",
+                  "text": "Îndreptat strict spre nord, acest punct de observare dedicat surprinde terenul accidentat din Cordillera de los Altos.",
+                  "category": "natural",
+                  "coords": [
+                        -57.12878,
+                        -25.303725
+                  ]
+            },
+            {
+                  "name": "Cerro Kavaju",
+                  "text": "Acest deal stâncos proeminent este o destinație populară pentru drumeții care explorează lanțul muntos Cordillera de los Altos.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.12709,
+                        -25.305285
+                  ]
+            },
+            {
+                  "name": "Escalera para subir al Cerro Cavaju",
+                  "text": "Aceste scări încorporate facilitează ascensiunea finală abruptă pentru vizitatorii care urcă pe pantele Cerro Cavaju.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.129388,
+                        -25.306014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arco hill",
+                  "text": "This arched hill in the Cordillera de los Altos draws nature lovers to its unique topological formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.104664,
+                        -25.290929
+                  ]
+            },
+            {
+                  "name": "Cerro Ybytu Silla",
+                  "text": "Named for its saddle-like shape, this mountain viewpoint offers sweeping panoramas across the Cordillera de los Altos.",
+                  "category": "natural",
+                  "coords": [
+                        -57.115255,
+                        -25.282678
+                  ]
+            },
+            {
+                  "name": "Mirador 3 y Cima del Cerro Cavaju",
+                  "text": "Situated at the very highest summit of Cerro Cavaju, this third viewpoint rewards hikers with unbroken mountain vistas.",
+                  "category": "natural",
+                  "coords": [
+                        -57.129554,
+                        -25.305072
+                  ]
+            },
+            {
+                  "name": "Mirador 4 - Norte",
+                  "text": "Facing strictly north, this dedicated observation point captures the rugged terrain of the Cordillera de los Altos.",
+                  "category": "natural",
+                  "coords": [
+                        -57.12878,
+                        -25.303725
+                  ]
+            },
+            {
+                  "name": "Kavaju Hill",
+                  "text": "This prominent rocky hill is a popular destination for hikers exploring the Cordillera de los Altos range.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.12709,
+                        -25.305285
+                  ]
+            },
+            {
+                  "name": "Escalera para subir al Cerro Cavaju",
+                  "text": "These built-in stairs facilitate the steep final ascent for visitors climbing the slopes of Cerro Cavaju.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.129388,
+                        -25.306014
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-3",
     coords: [-57.1, -25.3],
@@ -637,7 +2473,52 @@ export const poiExtraParaguayReliefV2: POI[] = [
       fr: ["Abrite le siège de la sainte patronne spirituelle du Paraguay à Caacupé.", "Site important pour la production d'artisanat paraguayen (céramique d'Areguá).", "La chaîne de collines agit comme un rempart naturel contre les inondations du Río Paraguay.", "Offre certains des meilleurs sentiers de VTT et de randonnée du district central."],
     }, image: "/poi-images/cordillera-de-los-altos-relief-v2.webp"},
   {
-    id: "cerro-leon-relief-v2",
+    id: "cerro-leon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro León",
+                  "text": "Der Cerro León ist ein markanter Gipfel im Defensores del Chaco Nationalpark, der einen weiten Blick über den umliegenden dichten Wald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -60.319718,
+                        -20.341675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro León",
+                  "text": "A Cerro León egy kiemelkedő hegycsúcs a Defensores del Chaco Nemzeti Parkban, ahonnan szélesvásznú kilátás nyílik a környező sűrű erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -60.319718,
+                        -20.341675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro León",
+                  "text": "Cerro León este un vârf proeminent situat în Parcul Național Defensores del Chaco, oferind vederi panoramice asupra pădurii dese din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -60.319718,
+                        -20.341675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro León",
+                  "text": "Cerro León is a prominent peak situated in the Defensores del Chaco National Park, offering sweeping views of the surrounding dense forest.",
+                  "category": "natural",
+                  "coords": [
+                        -60.319718,
+                        -20.341675
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-16",
     coords: [-60.3, -20.3],
@@ -700,7 +2581,52 @@ export const poiExtraParaguayReliefV2: POI[] = [
       fr: ["Le massif a une extension d'environ 40 km de diamètre.", "Il est composé de roches paléozoïques riches en fossiles.", "Lieu sacré pour les indigènes Ayoreo, qui apprécient l'isolement de la montagne.", "Offre une vue qui, par temps clair, porte à des centaines de kilomètres sur le Chaco."],
     }, image: "/poi-images/cerro-leon-relief-v2.webp"},
   {
-    id: "cerro-mbatovi-relief-v2",
+    id: "cerro-mbatovi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capilla Cerro León",
+                  "text": "Eine Kapelle am Fuße des Cerro León, wo während des Tripel-Allianz-Krieges paraguayische Truppen ausgebildet wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.192874,
+                        -25.557396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capilla Cerro León",
+                  "text": "Egy kápolna a Cerro León lábánál, ahol a Hármas Szövetség háborúja idején paraguayi csapatokat képeztek ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.192874,
+                        -25.557396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capilla Cerro León",
+                  "text": "O capelă la poalele Cerro León, unde au fost antrenate trupele paraguayene în timpul Războiului Triplei Alianțe.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.192874,
+                        -25.557396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capilla Cerro León",
+                  "text": "A chapel at the foot of Cerro León, where Paraguayan troops were trained during the Triple Alliance War.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.192874,
+                        -25.557396
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-9",
     coords: [-57.13, -25.54],
@@ -763,7 +2689,52 @@ export const poiExtraParaguayReliefV2: POI[] = [
       fr: ["La réserve abrite une grande variété de broméliacées et de cactus.", "Site important pour l'observation des rapaces dans le centre du Paraguay.", "Les sentiers de randonnée sont conçus pour minimiser l'érosion du sol fragile.", "Destination prisée pour les événements de team-building et les excursions scientifiques."],
     }, image: "/poi-images/cerro-mbatovi-relief-v2.webp"},
   {
-    id: "serrania-de-caapucu-relief-v2",
+    id: "serrania-de-caapucu-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario",
+                  "text": "Die zentrale Pfarrkirche in der Region Serranía de Caapucú mit einem klassisch paraguayischen Glockenturm.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.179264,
+                        -26.232486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario",
+                  "text": "A Serranía de Caapucú régió központi plébániatemploma, klasszikus paraguayi harangtoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.179264,
+                        -26.232486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario",
+                  "text": "Biserica parohială centrală din regiunea Serranía de Caapucú, având un turn al clopotniței în stil clasic paraguayan.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.179264,
+                        -26.232486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario",
+                  "text": "The central parish church in the Serranía de Caapucú region, featuring a classic Paraguayan bell tower.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.179264,
+                        -26.232486
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-9",
     coords: [-57.2, -26.2],

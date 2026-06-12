@@ -48,7 +48,268 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-canaima-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-henri-pittier-life-v2",
+    id: "venezuela-parque-nacional-henri-pittier-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico La Mesa",
+                  "text": "Ein Gipfel im Henri-Pittier-Park, der für die für das venezolanische Küstengebirge typische Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635677,
+                        10.376409
+                  ]
+            },
+            {
+                  "name": "Cerro Peñón Blanco",
+                  "text": "Ein markanter Berg, dessen helle Felsformationen ihm seinen charakteristischen Namen gaben.",
+                  "category": "natural",
+                  "coords": [
+                        -67.633166,
+                        10.405641
+                  ]
+            },
+            {
+                  "name": "Cerro Macarapure",
+                  "text": "Ein Berg im Herzen des Nationalparks, umgeben von dichtem Nebelwald und reicher Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.659795,
+                        10.461141
+                  ]
+            },
+            {
+                  "name": "Cerro del Portete",
+                  "text": "Ein Gipfel, der Teil des schützenden Bergzuges zwischen der Küste und den inneren Tälern ist.",
+                  "category": "natural",
+                  "coords": [
+                        -67.628896,
+                        10.478254
+                  ]
+            },
+            {
+                  "name": "Pico El Pindo",
+                  "text": "Ein hoher Punkt im Nationalpark, der oft in den für die Region typischen Morgennebel gehüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -67.628617,
+                        10.455043
+                  ]
+            },
+            {
+                  "name": "Agua Fuerte",
+                  "text": "Ein kleines Museum, das sich der Dokumentation der lokalen Naturgeschichte und der Forschung im Park widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -67.595191,
+                        10.428356
+                  ]
+            },
+            {
+                  "name": "Nationalpark Henri Pittier",
+                  "text": "Der älteste Nationalpark Venezuelas, berühmt für seine über 500 Vogelarten und den dichten Nebelwald am Rancho Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -67.632421,
+                        10.394669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico La Mesa",
+                  "text": "Csúcs a Henri Pittier parkban, amely a venezuelai tengerparti hegységre jellemző flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635677,
+                        10.376409
+                  ]
+            },
+            {
+                  "name": "Cerro Peñón Blanco",
+                  "text": "Jellegzetes hegy, amelynek világos sziklaalakzatai adták a karakteres nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -67.633166,
+                        10.405641
+                  ]
+            },
+            {
+                  "name": "Cerro Macarapure",
+                  "text": "Hegy a nemzeti park szívében, sűrű köderdővel és gazdag biodiverzitással körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -67.659795,
+                        10.461141
+                  ]
+            },
+            {
+                  "name": "Cerro del Portete",
+                  "text": "Csúcs, amely a partvidék és a belső völgyek közötti védő hegylánc része.",
+                  "category": "natural",
+                  "coords": [
+                        -67.628896,
+                        10.478254
+                  ]
+            },
+            {
+                  "name": "Pico El Pindo",
+                  "text": "Magaslati pont a nemzeti parkban, amelyet gyakran a régióra jellemző reggeli köd borít.",
+                  "category": "natural",
+                  "coords": [
+                        -67.628617,
+                        10.455043
+                  ]
+            },
+            {
+                  "name": "Agua Fuerte",
+                  "text": "Kicsi múzeum, amely a helyi természetrajz dokumentálásának és a parkbeli kutatásoknak szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -67.595191,
+                        10.428356
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Henri Pittier",
+                  "text": "Venezuela legrégebbi nemzeti parkja, amely több mint 500 madárfajáról és a Rancho Grande sűrű köderdejéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -67.632421,
+                        10.394669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico La Mesa",
+                  "text": "Un vârf din parcul Henri Pittier, cunoscut pentru flora tipică lanțului muntos de coastă venezuelean.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635677,
+                        10.376409
+                  ]
+            },
+            {
+                  "name": "Cerro Peñón Blanco",
+                  "text": "Un munte proeminent ale cărui formațiuni stâncoase de culoare deschisă i-au dat numele caracteristic.",
+                  "category": "natural",
+                  "coords": [
+                        -67.633166,
+                        10.405641
+                  ]
+            },
+            {
+                  "name": "Cerro Macarapure",
+                  "text": "Un munte în inima parcului național, înconjurat de pădure tropicală densă și biodiversitate bogată.",
+                  "category": "natural",
+                  "coords": [
+                        -67.659795,
+                        10.461141
+                  ]
+            },
+            {
+                  "name": "Cerro del Portete",
+                  "text": "Un vârf care face parte din lanțul muntos protector dintre coastă și văile interioare.",
+                  "category": "natural",
+                  "coords": [
+                        -67.628896,
+                        10.478254
+                  ]
+            },
+            {
+                  "name": "Pico El Pindo",
+                  "text": "Un punct înalt din parcul național, adesea învăluit în ceața matinală tipică regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -67.628617,
+                        10.455043
+                  ]
+            },
+            {
+                  "name": "Agua Fuerte",
+                  "text": "Un mic muzeu dedicat documentării istoriei naturale locale și cercetării din cadrul parcului.",
+                  "category": "museum",
+                  "coords": [
+                        -67.595191,
+                        10.428356
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Henri Pittier",
+                  "text": "Cel mai vechi parc național din Venezuela, renumit pentru cele peste 500 de specii de păsări și pădurea tropicală densă de la Rancho Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -67.632421,
+                        10.394669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico La Mesa",
+                  "text": "A peak in the Henri Pittier park known for the flora typical of the Venezuelan coastal range.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635677,
+                        10.376409
+                  ]
+            },
+            {
+                  "name": "Cerro Peñón Blanco",
+                  "text": "A prominent mountain whose light-colored rock formations gave it its characteristic name.",
+                  "category": "natural",
+                  "coords": [
+                        -67.633166,
+                        10.405641
+                  ]
+            },
+            {
+                  "name": "Cerro Macarapure",
+                  "text": "A mountain in the heart of the national park, surrounded by dense cloud forest and rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -67.659795,
+                        10.461141
+                  ]
+            },
+            {
+                  "name": "Cerro del Portete",
+                  "text": "A peak that is part of the protective mountain range between the coast and the interior valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -67.628896,
+                        10.478254
+                  ]
+            },
+            {
+                  "name": "Pico El Pindo",
+                  "text": "A high point in the national park, often shrouded in the morning mist typical of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -67.628617,
+                        10.455043
+                  ]
+            },
+            {
+                  "name": "Agua Fuerte",
+                  "text": "A small museum dedicated to documenting the local natural history and research within the park.",
+                  "category": "museum",
+                  "coords": [
+                        -67.595191,
+                        10.428356
+                  ]
+            },
+            {
+                  "name": "Henri Pittier National Park",
+                  "text": "The oldest national park in Venezuela, famous for its over 500 bird species and the dense cloud forest at Rancho Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -67.632421,
+                        10.394669
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark Henri Pittier", hu: "Henri Pittier Nemzeti Park", ro: "Parcul Național Henri Pittier", en: "Henri Pittier National Park" },
@@ -93,7 +354,628 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-henri-pittier-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-morrocoy-life-v2",
+    id: "venezuela-parque-nacional-morrocoy-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Mero",
+                  "text": "Ein ruhiger, von Vegetation gesäumter Strand im Nationalpark Morrocoy mit sehr seichtem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.252334,
+                        10.819499
+                  ]
+            },
+            {
+                  "name": "Playa Playuela",
+                  "text": "Ein beliebter weißer Sandstrand im Nationalpark, der von klarem Wasser und schützenden Mangroven umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.240577,
+                        10.827625
+                  ]
+            },
+            {
+                  "name": "Playa Playuelita",
+                  "text": "Eine kleine, geschützte Bucht mit ruhigem Meer, die sich hervorragend zum Schnorcheln eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.237679,
+                        10.828349
+                  ]
+            },
+            {
+                  "name": "Playa Caimán",
+                  "text": "Ein abgelegener Strandabschnitt, der nur per Boot erreichbar ist und eine ruhige Atmosphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.236197,
+                        10.852118
+                  ]
+            },
+            {
+                  "name": "Playa Azul",
+                  "text": "Ein malerischer Koralleninsel-Strand, der für sein leuchtend türkisfarbenes Wasser und den feinen Sand bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.229002,
+                        10.846008
+                  ]
+            },
+            {
+                  "name": "Playa Tucupido",
+                  "text": "Ein naturbelassener Küstenabschnitt in Morrocoy, ideal für Beobachtungen der lokalen Meeresfauna.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.224646,
+                        10.844739
+                  ]
+            },
+            {
+                  "name": "Playa Los Alemanes",
+                  "text": "Ein malerischer Strandabschnitt, der für seine entspannte Atmosphäre und den natürlichen Schatten der Bäume geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.216245,
+                        10.877864
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Boca Seca",
+                  "text": "Ein Strand auf einer Koralleninsel mit flachen, kristallklaren Pools und farbenfrohem Riffleben.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.237479,
+                        10.834756
+                  ]
+            },
+            {
+                  "name": "Playa Los Muertos",
+                  "text": "Ein lebhafter Inselstrand bei Chichiriviche, der besonders an Wochenenden bei Einheimischen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.22218,
+                        10.878182
+                  ]
+            },
+            {
+                  "name": "Playa Mallorquina",
+                  "text": "Ein unberührter, naturbelassener Strand ohne kommerzielle Einrichtungen, ideal für Ruhesuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.241947,
+                        10.893527
+                  ]
+            },
+            {
+                  "name": "Playa Sur",
+                  "text": "Ein Küstenabschnitt mit Blick auf die Karibik, der in der Nähe ausgedehnter Mangrovenwälder liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.274595,
+                        10.916723
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sal",
+                  "text": "Ein einzigartiger Strand auf einer Koralleninsel, die eine große Salzlagerstätte in ihrer Mitte birgt.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.264661,
+                        10.943191
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Peraza",
+                  "text": "Eine der kleinsten Koralleninseln in Morrocoy, bestehend aus einem winzigen Sandkreis inmitten von Riffen.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.253359,
+                        10.929186
+                  ]
+            },
+            {
+                  "name": "Playa Varadero",
+                  "text": "Ein schöner Sandstreifen im Nationalpark, der nur per Boot erreichbar ist und kristallklares Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.249423,
+                        10.904929
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sombrero Este",
+                  "text": "Die Ostseite einer berühmten Koralleninsel, die für ihre markanten, hochgewachsenen Palmen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.206635,
+                        10.878262
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sombrero Oeste",
+                  "text": "Der Weststrand der beliebtesten Insel des Parks, ein erstklassiger Ort zum Schnorcheln im klaren Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.209548,
+                        10.880366
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Eine bescheidene christliche Kirche, die als geistliches Zentrum für die Küstengemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.270417,
+                        10.925923
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Mero",
+                  "text": "Csendes, növényzettel szegélyezett strand a Morrocoy Nemzeti Parkban, rendkívül sekély vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.252334,
+                        10.819499
+                  ]
+            },
+            {
+                  "name": "Playa Playuela",
+                  "text": "Népszerű fehér homokos strand a nemzeti parkban, amelyet tiszta víz és védelmező mangroveerdők vesznek körül.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.240577,
+                        10.827625
+                  ]
+            },
+            {
+                  "name": "Playa Playuelita",
+                  "text": "Kicsi, védett öböl nyugodt vízzel, amely kiválóan alkalmas búvárkodásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.237679,
+                        10.828349
+                  ]
+            },
+            {
+                  "name": "Playa Caimán",
+                  "text": "Egy félreeső strandszakasz, amely csak hajóval érhető el, és nyugodt környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.236197,
+                        10.852118
+                  ]
+            },
+            {
+                  "name": "Playa Azul",
+                  "text": "Gleccserkék vizéről és finom homokjáról ismert festői korallszigeti strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.229002,
+                        10.846008
+                  ]
+            },
+            {
+                  "name": "Playa Tucupido",
+                  "text": "Természetes tengerparti szakasz Morrocoyban, amely ideális a helyi tengeri élővilág megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.224646,
+                        10.844739
+                  ]
+            },
+            {
+                  "name": "Playa Los Alemanes",
+                  "text": "Gleccserkék vizű tengerparti szakasz, amelyet pihentető légköre és a fák természetes árnyéka miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.216245,
+                        10.877864
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Boca Seca",
+                  "text": "Korallszigeti strand sekély, kristálytiszta medencékkel és színes tengeri élővilággal.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.237479,
+                        10.834756
+                  ]
+            },
+            {
+                  "name": "Playa Los Muertos",
+                  "text": "Élénk szigeti strand Chichiriviche közelében, amely különösen hétvégenként népszerű a helyiek körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.22218,
+                        10.878182
+                  ]
+            },
+            {
+                  "name": "Playa Mallorquina",
+                  "text": "Érintetlen, természetes strand kereskedelmi létesítmények nélkül, ideális a nyugalomra vágyóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.241947,
+                        10.893527
+                  ]
+            },
+            {
+                  "name": "Playa Sur",
+                  "text": "A Karib-tengerre néző tengerparti szakasz, amely kiterjedt mangroveerdők közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.274595,
+                        10.916723
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sal",
+                  "text": "Egyedülálló korallszigeti strand, amelynek közepén egy nagy sós mocsár található.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.264661,
+                        10.943191
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Peraza",
+                  "text": "Morrocoy egyik legkisebb korallszigete, amely egy apró homokos körből áll a zátonyok közepén.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.253359,
+                        10.929186
+                  ]
+            },
+            {
+                  "name": "Playa Varadero",
+                  "text": "Szép homokos sáv a nemzeti parkban, amely csak hajóval érhető el, és kristálytiszta vizet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.249423,
+                        10.904929
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sombrero Este",
+                  "text": "Egy híres korallsziget keleti oldala, amely jellegzetes, magasra nőtt pálmafáiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.206635,
+                        10.878262
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sombrero Oeste",
+                  "text": "A park legnépszerűbb szigetének nyugati strandja, kiváló hely a tiszta vízben való búvárkodáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.209548,
+                        10.880366
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Szerény keresztény templom, amely a tengerparti közösség szellemi központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.270417,
+                        10.925923
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Mero",
+                  "text": "O plajă liniștită, mărginită de vegetație, în Parcul Național Morrocoy, cu ape foarte puțin adânci.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.252334,
+                        10.819499
+                  ]
+            },
+            {
+                  "name": "Playa Playuela",
+                  "text": "O plajă populară cu nisip alb în parcul național, înconjurată de ape limpezi și mangrove protectoare.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.240577,
+                        10.827625
+                  ]
+            },
+            {
+                  "name": "Playa Playuelita",
+                  "text": "Un golf mic și adăpostit, cu ape liniștite, ideal pentru snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.237679,
+                        10.828349
+                  ]
+            },
+            {
+                  "name": "Playa Caimán",
+                  "text": "O porțiune de plajă izolată, accesibilă doar cu barca, oferind o atmosferă liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.236197,
+                        10.852118
+                  ]
+            },
+            {
+                  "name": "Playa Azul",
+                  "text": "O plajă pitorească de pe o insulă de corali, cunoscută pentru apele sale turcoaz strălucitoare și nisipul fin.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.229002,
+                        10.846008
+                  ]
+            },
+            {
+                  "name": "Playa Tucupido",
+                  "text": "O porțiune de coastă naturală în Morrocoy, ideală pentru observarea faunei marine locale.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.224646,
+                        10.844739
+                  ]
+            },
+            {
+                  "name": "Playa Los Alemanes",
+                  "text": "O porțiune pitorească de plajă, apreciată pentru atmosfera relaxantă și umbra naturală a copacilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.216245,
+                        10.877864
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Boca Seca",
+                  "text": "O plajă pe o insulă de corali, cu bazine puțin adânci și cristaline și o viață marină colorată.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.237479,
+                        10.834756
+                  ]
+            },
+            {
+                  "name": "Playa Los Muertos",
+                  "text": "O plajă insulară plină de viață lângă Chichiriviche, populară în rândul localnicilor, mai ales în weekend.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.22218,
+                        10.878182
+                  ]
+            },
+            {
+                  "name": "Playa Mallorquina",
+                  "text": "O plajă virgină, naturală, fără facilități comerciale, ideală pentru cei care caută liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.241947,
+                        10.893527
+                  ]
+            },
+            {
+                  "name": "Playa Sur",
+                  "text": "O porțiune de coastă cu vedere la Marea Caraibilor, situată în apropierea unor păduri de mangrove întinse.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.274595,
+                        10.916723
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sal",
+                  "text": "O plajă unică pe o insulă de corali care adăpostește o mlaștină sărată mare în centrul său.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.264661,
+                        10.943191
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Peraza",
+                  "text": "Una dintre cele mai mici insule de corali din Morrocoy, constând dintr-un cerc mic de nisip în mijlocul recifelor.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.253359,
+                        10.929186
+                  ]
+            },
+            {
+                  "name": "Playa Varadero",
+                  "text": "O fâșie frumoasă de nisip în parcul național, accesibilă doar cu barca, oferind ape cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.249423,
+                        10.904929
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sombrero Este",
+                  "text": "Partea de est a unei faimoase insule de corali, cunoscută pentru palmierii săi înalți și distinctivi.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.206635,
+                        10.878262
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sombrero Oeste",
+                  "text": "Plaja de vest a celei mai populare insule din parc, un loc excelent pentru snorkeling în ape limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.209548,
+                        10.880366
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "O biserică creștină modestă care servește drept centru spiritual pentru comunitatea de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.270417,
+                        10.925923
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Mero",
+                  "text": "A quiet beach in Morrocoy National Park fringed by vegetation and featuring very shallow waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.252334,
+                        10.819499
+                  ]
+            },
+            {
+                  "name": "Playa Playuela",
+                  "text": "A popular white-sand beach in the national park surrounded by clear waters and protective mangroves.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.240577,
+                        10.827625
+                  ]
+            },
+            {
+                  "name": "Playa Playuelita",
+                  "text": "A small, sheltered cove with calm waters, excellent for snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.237679,
+                        10.828349
+                  ]
+            },
+            {
+                  "name": "Playa Caimán",
+                  "text": "A secluded beach stretch accessible only by boat, offering a quiet and serene environment.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.236197,
+                        10.852118
+                  ]
+            },
+            {
+                  "name": "Playa Azul",
+                  "text": "A picturesque coral island beach known for its bright turquoise waters and fine sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.229002,
+                        10.846008
+                  ]
+            },
+            {
+                  "name": "Playa Tucupido",
+                  "text": "A natural coastal stretch in Morrocoy ideal for observing the local marine wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.224646,
+                        10.844739
+                  ]
+            },
+            {
+                  "name": "Playa Los Alemanes",
+                  "text": "A scenic beach area favored for its relaxed atmosphere and the natural shade provided by trees.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.216245,
+                        10.877864
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Boca Seca",
+                  "text": "A coral island beach featuring shallow, crystal-clear pools and vibrant reef life.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.237479,
+                        10.834756
+                  ]
+            },
+            {
+                  "name": "Playa Los Muertos",
+                  "text": "A lively island beach near Chichiriviche, popular with locals especially during weekends.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.22218,
+                        10.878182
+                  ]
+            },
+            {
+                  "name": "Playa Mallorquina",
+                  "text": "A pristine, natural beach without commercial facilities, ideal for those seeking tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.241947,
+                        10.893527
+                  ]
+            },
+            {
+                  "name": "Playa Sur",
+                  "text": "A coastal stretch overlooking the Caribbean, located near extensive mangrove forests.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.274595,
+                        10.916723
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sal",
+                  "text": "A unique coral island beach that hosts a large salt marsh in its center.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.264661,
+                        10.943191
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Peraza",
+                  "text": "One of the smallest coral islands in Morrocoy, consisting of a tiny circle of sand in the middle of reefs.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.253359,
+                        10.929186
+                  ]
+            },
+            {
+                  "name": "Playa Varadero",
+                  "text": "A beautiful sandy strip in the national park accessible only by boat, offering crystal-clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.249423,
+                        10.904929
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sombrero Este",
+                  "text": "The eastern side of a famous coral island, known for its iconic, tall palm trees.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.206635,
+                        10.878262
+                  ]
+            },
+            {
+                  "name": "Playa Cayo Sombrero Oeste",
+                  "text": "The western beach of the park's most popular island, a prime spot for snorkeling in clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.209548,
+                        10.880366
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "A modest Christian church serving as a spiritual center for the coastal community.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.270417,
+                        10.925923
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "wildlife",
     name: { de: "Nationalpark Morrocoy", hu: "Morrocoy Nemzeti Park", ro: "Parcul Național Morrocoy", en: "Morrocoy National Park" },
@@ -183,7 +1065,1384 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-archipielago-los-roques-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-el-avila-life-v2",
+    id: "venezuela-parque-nacional-el-avila-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Naiguatá",
+                  "text": "Mit 2.765 Metern ist dies der höchste Gipfel der venezolanischen Küstenkordillere.",
+                  "category": "natural",
+                  "coords": [
+                        -66.782755,
+                        10.542825
+                  ]
+            },
+            {
+                  "name": "Topo Tacamahaco",
+                  "text": "Ein Gipfel im Nationalpark El Ávila, der nach dem harzhaltigen Tacamahaco-Baum benannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -66.716763,
+                        10.544047
+                  ]
+            },
+            {
+                  "name": "Topo Santa Rosa",
+                  "text": "Dieser Berg im Ávila-Massiv bietet einen weiten Panoramablick über das Tal von Caracas.",
+                  "category": "natural",
+                  "coords": [
+                        -66.776995,
+                        10.522508
+                  ]
+            },
+            {
+                  "name": "Topo El Mamón",
+                  "text": "Dieser Gipfel ist nach dem Mamón-Baum benannt, dessen Früchte in dieser Region weit verbreitet sind.",
+                  "category": "natural",
+                  "coords": [
+                        -66.717975,
+                        10.494089
+                  ]
+            },
+            {
+                  "name": "Cerro El Gavilán",
+                  "text": "Ein malerischer Berg, der häufig von Greifvögeln wie dem Gavilán-Habicht umkreist wird.",
+                  "category": "natural",
+                  "coords": [
+                        -66.714992,
+                        10.519269
+                  ]
+            },
+            {
+                  "name": "Topo Macanillal",
+                  "text": "Ein Gipfel in der El Ávila-Kette, der für seine üppige Wolkenwald-Vegetation bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -66.735785,
+                        10.54566
+                  ]
+            },
+            {
+                  "name": "Topo Buena Vista",
+                  "text": "Ein natürlicher Aussichtspunkt mit weitem Blick über das Karibische Meer und die Stadt Caracas.",
+                  "category": "natural",
+                  "coords": [
+                        -66.730657,
+                        10.577808
+                  ]
+            },
+            {
+                  "name": "Cabinet Gallery",
+                  "text": "Ein Raum für zeitgenössische Kunst, in dem experimentelle Werke in der Nähe des Nationalparks El Ávila gezeigt werden.",
+                  "category": "museum",
+                  "coords": [
+                        -66.83168,
+                        10.503164
+                  ]
+            },
+            {
+                  "name": "Art Killers Gallery",
+                  "text": "Eine Galerie für urbane Kunst, die im Stadtteil Petare mutige zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -66.836529,
+                        10.508619
+                  ]
+            },
+            {
+                  "name": "Museo de Petare",
+                  "text": "Dieses in einem Kolonialbau untergebrachte Museum widmet sich der Volkskunst und der lokalen Geschichte von Petare.",
+                  "category": "museum",
+                  "coords": [
+                        -66.80816,
+                        10.475899
+                  ]
+            },
+            {
+                  "name": "Hidroeléctrica Ayala",
+                  "text": "Die Ruinen eines der ersten Wasserkraftwerke Venezuelas, die im dichten Wald von El Ávila liegen.",
+                  "category": "historical",
+                  "coords": [
+                        -66.76326,
+                        10.495818
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Gonzalo Benaim Pinto",
+                  "text": "Dieses Kulturzentrum widmet sich dem jüdischen Erbe und fördert die Künste im Großraum Caracas.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.820185,
+                        10.505822
+                  ]
+            },
+            {
+                  "name": "Auditorio Manoa",
+                  "text": "Ein moderner Aufführungssaal auf dem Campus der Universidad Metropolitana (UNIMET).",
+                  "category": "cultural",
+                  "coords": [
+                        -66.785516,
+                        10.498894
+                  ]
+            },
+            {
+                  "name": "Gran Salón de la USM",
+                  "text": "Ein großer Veranstaltungsort für akademische Feiern und Konzerte an der Universität Santa María.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.78031,
+                        10.491043
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Social Húngaro",
+                  "text": "Ein Treffpunkt zur Pflege ungarischer Traditionen und Sprache in Venezuela.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.827224,
+                        10.500048
+                  ]
+            },
+            {
+                  "name": "Escuela de Valores Divinos",
+                  "text": "Ein spirituelles Zentrum in der Nähe der Berge, das sich auf meditation und universelle Werte konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        -66.831213,
+                        10.491101
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cayetano",
+                  "text": "Diese Pfarrkirche im Viertel Palo Verde ist ein Zentrum für lokale Feste und Gemeindeleben.",
+                  "category": "religious",
+                  "coords": [
+                        -66.81517,
+                        10.498631
+                  ]
+            },
+            {
+                  "name": "Mercado de los Corotos Palo Verde",
+                  "text": "Ein beliebter Flohmarkt in Palo Verde, auf dem Einheimische mit Antiquitäten und Gebrauchtwaren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.798651,
+                        10.477798
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Mesuca",
+                  "text": "Ein lebhafter traditioneller Markt in Mesuca, der die Gemeinde Petare mit frischen Lebensmitteln versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.79965,
+                        10.476552
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Petare",
+                  "text": "Ein riesiger, lebhafter Stadtmarkt im Viertel Petare, auf dem Einheimische frische Produkte und Haushaltswaren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.806842,
+                        10.47924
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Internacional de Caracas",
+                  "text": "Eine moderne baptistische Gebetsstätte, die der internationalen und lokalen Gemeinschaft in Caracas dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.805595,
+                        10.494972
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Misionera Peniel",
+                  "text": "Eine lokale missionarische Baptistengemeinde inmitten der dicht besiedelten städtischen Randgebiete.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.808494,
+                        10.492646
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Evangelista",
+                  "text": "Eine katholische Pfarrkirche, die den Bewohnern der örtlichen Gemeinde mit regelmäßigen Gottesdiensten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.813968,
+                        10.484123
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los testigos de Jehová",
+                  "text": "Ein moderner Königreichssaal der Zeugen Jehovas, der als Zentrum für das Bibelstudium der Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.786932,
+                        10.472187
+                  ]
+            },
+            {
+                  "name": "Virgen de la Piedra",
+                  "text": "Ein kleiner religiöser Schrein mit einer Marienstatue vor der Kulisse der steilen Hügel.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.809039,
+                        10.610772
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Sales",
+                  "text": "Eine katholische Kirche, die dem heiligen Franz von Sales gewidmet ist und für ihre engagierte Gemeindearbeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.767241,
+                        10.465829
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "Ein schlichtes Versammlungshaus der Zeugen Jehovas für die örtliche Gemeinde in diesem Wohngebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.814407,
+                        10.477933
+                  ]
+            },
+            {
+                  "name": "Iglesia San Rafael",
+                  "text": "Eine katholische Kirche, die dem heiligen Raphael gewidmet ist und ein Zentrum für religiöse Feiern im Viertel darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.792498,
+                        10.481167
+                  ]
+            },
+            {
+                  "name": "San Nicolás de Bari",
+                  "text": "Eine dem heiligen Nikolaus von Bari gewidmete Kirche, die als lokales spirituelles Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.781546,
+                        10.472255
+                  ]
+            },
+            {
+                  "name": "Iglesia Centro de Esperanza",
+                  "text": "Eine evangelische Kirche, die als Gemeinschaftszentrum für spirituelle Unterstützung und Hoffnung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.82089,
+                        10.487203
+                  ]
+            },
+            {
+                  "name": "Iglesia María Auxiliadora",
+                  "text": "Eine markante Kirche, die Maria Hilfe der Christen gewidmet ist und oft von vielen lokalen Gläubigen besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.824076,
+                        10.493283
+                  ]
+            },
+            {
+                  "name": "Grupo Cristiano Apostólico",
+                  "text": "Ein christliches Zentrum, das sich auf apostolische Lehren und gemeinschaftliches Gebet konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.829591,
+                        10.499151
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Nicolás",
+                  "text": "Eine katholische Pfarrei, die dem heiligen Nikolaus gewidmet ist und sich in den dicht besiedelten Hügeln befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.833475,
+                        10.496934
+                  ]
+            },
+            {
+                  "name": "Iglesia Padre Claret",
+                  "text": "Eine Claretiner-Kirche mit moderner Architektur, die spirituelle Dienste für das Stadtviertel anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.830034,
+                        10.495533
+                  ]
+            },
+            {
+                  "name": "Iglesia El Buen Pastor",
+                  "text": "Eine moderne katholische Kirche, die dem Guten Hirten gewidmet ist und über eine schlichte, zeitgenössische Fassade verfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.817996,
+                        10.503344
+                  ]
+            },
+            {
+                  "name": "Iglesia Amantísimo Corazón de Jesús y María",
+                  "text": "Eine den Herzen Jesu und Mariens gewidmete Kirche, die ein Ort der Andacht für die Anwohner ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.79186,
+                        10.501896
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel Arcángel",
+                  "text": "Eine kleine, ruhige Kapelle, die dem Erzengel Michael gewidmet ist und inmitten des Wohngebiets liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.783863,
+                        10.499532
+                  ]
+            },
+            {
+                  "name": "Iglesia Esperanza Viva",
+                  "text": "Eine lebendige christliche Gemeinde, die moderne Gottesdienste und soziale Unterstützung anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.788173,
+                        10.486286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Naiguatá",
+                  "text": "2765 méterével ez a venezuelai partmenti kordillerák legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -66.782755,
+                        10.542825
+                  ]
+            },
+            {
+                  "name": "Topo Tacamahaco",
+                  "text": "Az El Ávila Nemzeti Park egyik csúcsa, amely a gyantás Tacamahaco fáról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -66.716763,
+                        10.544047
+                  ]
+            },
+            {
+                  "name": "Topo Santa Rosa",
+                  "text": "Ez az Ávila-masszívumban található hegy széles panorámát kínál a Caracas-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -66.776995,
+                        10.522508
+                  ]
+            },
+            {
+                  "name": "Topo El Mamón",
+                  "text": "Ezt a csúcsot a Mamón-fáról nevezték el, amelynek gyümölcse széles körben elterjedt ebben a régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -66.717975,
+                        10.494089
+                  ]
+            },
+            {
+                  "name": "Cerro El Gavilán",
+                  "text": "Gleccseres hegy, amelyet gyakran látogatnak ragadozó madarak, például a Gavilán héja.",
+                  "category": "natural",
+                  "coords": [
+                        -66.714992,
+                        10.519269
+                  ]
+            },
+            {
+                  "name": "Topo Macanillal",
+                  "text": "Az El Ávila-hegység egyik csúcsa, amely buja köderdő-növényzetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -66.735785,
+                        10.54566
+                  ]
+            },
+            {
+                  "name": "Topo Buena Vista",
+                  "text": "Természetes kilátóhely, ahonnan pazar kilátás nyílik a Karib-tengerre és Caracas városára.",
+                  "category": "natural",
+                  "coords": [
+                        -66.730657,
+                        10.577808
+                  ]
+            },
+            {
+                  "name": "Cabinet Gallery",
+                  "text": "Kortárs művészeti tér, ahol kísérleti műveket mutatnak be az El Ávila Nemzeti Park közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -66.83168,
+                        10.503164
+                  ]
+            },
+            {
+                  "name": "Art Killers Gallery",
+                  "text": "Városi művészeti galéria Petare negyedben, amely merész kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -66.836529,
+                        10.508619
+                  ]
+            },
+            {
+                  "name": "Museo de Petare",
+                  "text": "Ez a gyarmati épületben elhelyezett múzeum a népművészetnek és Petare helyi történelmének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -66.80816,
+                        10.475899
+                  ]
+            },
+            {
+                  "name": "Hidroeléctrica Ayala",
+                  "text": "Venezuela egyik első vízerőművének romjai, amelyek az El Ávila sűrű erdejében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -66.76326,
+                        10.495818
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Gonzalo Benaim Pinto",
+                  "text": "Ez a kulturális központ a zsidó örökségnek szentelt, és a művészeteket népszerűsíti Caracas területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.820185,
+                        10.505822
+                  ]
+            },
+            {
+                  "name": "Auditorio Manoa",
+                  "text": "Modern előadóterem a Fővárosi Egyetem (UNIMET) kampuszán.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.785516,
+                        10.498894
+                  ]
+            },
+            {
+                  "name": "Gran Salón de la USM",
+                  "text": "Akadémiai ünnepségek és koncertek nagy helyszíne a Santa María Egyetemen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.78031,
+                        10.491043
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Social Húngaro",
+                  "text": "A magyar hagyományok és nyelv ápolásának találkozóhelye Venezuelában.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.827224,
+                        10.500048
+                  ]
+            },
+            {
+                  "name": "Escuela de Valores Divinos",
+                  "text": "Hegyek közelében fekvő spirituális központ, amely a meditációra és az egyetemes értékekre összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        -66.831213,
+                        10.491101
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cayetano",
+                  "text": "Ez a Palo Verde negyedben található plébániatemplom a helyi ünnepségek és a közösségi élet központja.",
+                  "category": "religious",
+                  "coords": [
+                        -66.81517,
+                        10.498631
+                  ]
+            },
+            {
+                  "name": "Mercado de los Corotos Palo Verde",
+                  "text": "Népszerű bolhapiac Palo Verde-ben, ahol a helyiek régiségekkel és használt cikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.798651,
+                        10.477798
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Mesuca",
+                  "text": "Élénk hagyományos piac Mesucában, amely friss élelmiszerekkel látja el Petare közösségét.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.79965,
+                        10.476552
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Petare",
+                  "text": "Hatalmas, nyüzsgő önkormányzati piac Petare negyedében, ahol a helyiek friss árut és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.806842,
+                        10.47924
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Internacional de Caracas",
+                  "text": "Modern baptista templom, amely Caracas nemzetközi és helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.805595,
+                        10.494972
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Misionera Peniel",
+                  "text": "Helyi missziós baptista templom a sűrűn lakott városi peremkerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.808494,
+                        10.492646
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Evangelista",
+                  "text": "Katolikus plébániatemplom, amely rendszeres szertartásokkal szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.813968,
+                        10.484123
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los testigos de Jehová",
+                  "text": "Jehova Tanúi modern királyságterme, amely a közösség bibliatanulmányozási központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.786932,
+                        10.472187
+                  ]
+            },
+            {
+                  "name": "Virgen de la Piedra",
+                  "text": "Kis vallási kegyhely Szűz Mária szobrával, a meredek dombok lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.809039,
+                        10.610772
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Sales",
+                  "text": "Szalézi Szent Ferencnek szentelt katolikus templom, amely aktív közösségi munkájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.767241,
+                        10.465829
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "Jehova Tanúi egyszerű gyülekezeti háza a környékbeli hívők számára ebben a lakóövezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.814407,
+                        10.477933
+                  ]
+            },
+            {
+                  "name": "Iglesia San Rafael",
+                  "text": "Szent Rafaelnek szentelt katolikus templom, amely a negyed vallási ünnepeinek központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.792498,
+                        10.481167
+                  ]
+            },
+            {
+                  "name": "San Nicolás de Bari",
+                  "text": "Bari Szent Miklósnak szentelt templom, amely a környék helyi szakrális jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.781546,
+                        10.472255
+                  ]
+            },
+            {
+                  "name": "Iglesia Centro de Esperanza",
+                  "text": "Evangélikus templom, amely a lelki támogatás és remény közösségi központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.82089,
+                        10.487203
+                  ]
+            },
+            {
+                  "name": "Iglesia María Auxiliadora",
+                  "text": "Segítő Szűz Mária tiszteletére szentelt jelentős templom, amelyet sok helyi hívő látogat.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.824076,
+                        10.493283
+                  ]
+            },
+            {
+                  "name": "Grupo Cristiano Apostólico",
+                  "text": "Keresztény központ, amely az apostoli tanításokra és a közös imádságra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.829591,
+                        10.499151
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Nicolás",
+                  "text": "Szent Miklósnak szentelt katolikus plébánia a sűrűn lakott domboldalak között.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.833475,
+                        10.496934
+                  ]
+            },
+            {
+                  "name": "Iglesia Padre Claret",
+                  "text": "Modern építészetű klaretinus templom, amely hitéleti szolgáltatásokat nyújt a városnegyed számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.830034,
+                        10.495533
+                  ]
+            },
+            {
+                  "name": "Iglesia El Buen Pastor",
+                  "text": "A Jó Pásztornak szentelt modern katolikus templom, letisztult, kortárs homlokzattal.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.817996,
+                        10.503344
+                  ]
+            },
+            {
+                  "name": "Iglesia Amantísimo Corazón de Jesús y María",
+                  "text": "Jézus és Mária Szívének szentelt templom, amely a helyi lakosok áhítatának helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.79186,
+                        10.501896
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel Arcángel",
+                  "text": "Szent Mihály arkangyalnak szentelt kicsi, csendes kápolna a lakóövezet közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.783863,
+                        10.499532
+                  ]
+            },
+            {
+                  "name": "Iglesia Esperanza Viva",
+                  "text": "Élénk keresztény gyülekezet, amely modern istentiszteleteket és szociális támogatást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.788173,
+                        10.486286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Naiguatá",
+                  "text": "Cu o înălțime de 2.765 de metri, acesta este cel mai înalt vârf din Cordiliera de Coastă a Venezuelei.",
+                  "category": "natural",
+                  "coords": [
+                        -66.782755,
+                        10.542825
+                  ]
+            },
+            {
+                  "name": "Topo Tacamahaco",
+                  "text": "Un vârf din Parcul Național El Ávila, numit după arborele rășinos Tacamahaco.",
+                  "category": "natural",
+                  "coords": [
+                        -66.716763,
+                        10.544047
+                  ]
+            },
+            {
+                  "name": "Topo Santa Rosa",
+                  "text": "Acest munte din masivul Ávila oferă o vedere panoramică largă asupra văii Caracas.",
+                  "category": "natural",
+                  "coords": [
+                        -66.776995,
+                        10.522508
+                  ]
+            },
+            {
+                  "name": "Topo El Mamón",
+                  "text": "Acest vârf poartă numele arborelui Mamón, ale cărui fructe sunt larg răspândite în această regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -66.717975,
+                        10.494089
+                  ]
+            },
+            {
+                  "name": "Cerro El Gavilán",
+                  "text": "Un munte pitoresc, frecventat de păsări de pradă, cum ar fi uliul Gavilán.",
+                  "category": "natural",
+                  "coords": [
+                        -66.714992,
+                        10.519269
+                  ]
+            },
+            {
+                  "name": "Topo Macanillal",
+                  "text": "Un vârf din lanțul El Ávila, cunoscut pentru vegetația sa luxuriantă de pădure de nori.",
+                  "category": "natural",
+                  "coords": [
+                        -66.735785,
+                        10.54566
+                  ]
+            },
+            {
+                  "name": "Topo Buena Vista",
+                  "text": "Un punct de observație natural cu vederi largi asupra Mării Caraibelor și a orașului Caracas.",
+                  "category": "natural",
+                  "coords": [
+                        -66.730657,
+                        10.577808
+                  ]
+            },
+            {
+                  "name": "Cabinet Gallery",
+                  "text": "Un spațiu de artă contemporană care prezintă lucrări experimentale în apropierea Parcului Național El Ávila.",
+                  "category": "museum",
+                  "coords": [
+                        -66.83168,
+                        10.503164
+                  ]
+            },
+            {
+                  "name": "Art Killers Gallery",
+                  "text": "O galerie de artă urbană din districtul Petare care prezintă lucrări contemporane îndrăznețe.",
+                  "category": "museum",
+                  "coords": [
+                        -66.836529,
+                        10.508619
+                  ]
+            },
+            {
+                  "name": "Museo de Petare",
+                  "text": "Găzduit într-o clădire colonială, acest muzeu este dedicat artei populare și istoriei locale din Petare.",
+                  "category": "museum",
+                  "coords": [
+                        -66.80816,
+                        10.475899
+                  ]
+            },
+            {
+                  "name": "Hidroeléctrica Ayala",
+                  "text": "Ruinele uneia dintre primele centrale hidroelectrice din Venezuela, situate în pădurea densă din El Ávila.",
+                  "category": "historical",
+                  "coords": [
+                        -66.76326,
+                        10.495818
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Gonzalo Benaim Pinto",
+                  "text": "Acest centru cultural este dedicat moștenirii evreiești și promovează artele în zona Caracas.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.820185,
+                        10.505822
+                  ]
+            },
+            {
+                  "name": "Auditorio Manoa",
+                  "text": "O sală modernă de spectacole situată în campusul Universității Metropolitane (UNIMET).",
+                  "category": "cultural",
+                  "coords": [
+                        -66.785516,
+                        10.498894
+                  ]
+            },
+            {
+                  "name": "Gran Salón de la USM",
+                  "text": "Un loc important pentru ceremonii academice și concerte la Universitatea Santa María.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.78031,
+                        10.491043
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Social Húngaro",
+                  "text": "Un loc de întâlnire pentru păstrarea tradițiilor și limbii maghiare în Venezuela.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.827224,
+                        10.500048
+                  ]
+            },
+            {
+                  "name": "Escuela de Valores Divinos",
+                  "text": "Un centru spiritual situat lângă munți, concentrat pe meditație și valori universale.",
+                  "category": "religious",
+                  "coords": [
+                        -66.831213,
+                        10.491101
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cayetano",
+                  "text": "Această biserică parohială din cartierul Palo Verde este un centru pentru festivalurile locale și viața comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        -66.81517,
+                        10.498631
+                  ]
+            },
+            {
+                  "name": "Mercado de los Corotos Palo Verde",
+                  "text": "O piață de vechituri populară în Palo Verde, unde localnicii fac comerț cu antichități și bunuri la mâna a doua.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.798651,
+                        10.477798
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Mesuca",
+                  "text": "O piață tradițională plină de viață în Mesuca, care aprovizionează comunitatea Petare cu alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.79965,
+                        10.476552
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Petare",
+                  "text": "O piață municipală uriașă și plină de viață în cartierul Petare, unde localnicii vând produse proaspete și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.806842,
+                        10.47924
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Internacional de Caracas",
+                  "text": "Un lăcaș de cult baptist modern care deservește comunitatea internațională și locală din Caracas.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.805595,
+                        10.494972
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Misionera Peniel",
+                  "text": "O biserică baptistă misionară locală situată în zona urbană periferică dens populată.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.808494,
+                        10.492646
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Evangelista",
+                  "text": "O biserică parohială catolică ce deservește locuitorii comunității locale cu slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.813968,
+                        10.484123
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los testigos de Jehová",
+                  "text": "O sală a Regatului modernă a Martorilor lui Iehova, care servește ca centru pentru studiul biblic al comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.786932,
+                        10.472187
+                  ]
+            },
+            {
+                  "name": "Virgen de la Piedra",
+                  "text": "Un mic altar religios cu o statuie a Fecioarei Maria, situat pe fundalul dealurilor abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.809039,
+                        10.610772
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Sales",
+                  "text": "O biserică catolică dedicată Sfântului Francisc de Sales, cunoscută pentru munca sa comunitară activă.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.767241,
+                        10.465829
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "O casă de adunare simplă a Martorilor lui Iehova pentru congregația locală din această zonă rezidențială.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.814407,
+                        10.477933
+                  ]
+            },
+            {
+                  "name": "Iglesia San Rafael",
+                  "text": "O biserică catolică dedicată Sfântului Rafael, reprezentând un centru pentru celebrările religioase din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.792498,
+                        10.481167
+                  ]
+            },
+            {
+                  "name": "San Nicolás de Bari",
+                  "text": "O biserică dedicată Sfântului Nicolae de Bari, care servește ca punct de reper spiritual local.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.781546,
+                        10.472255
+                  ]
+            },
+            {
+                  "name": "Iglesia Centro de Esperanza",
+                  "text": "O biserică evanghelică ce servește ca centru comunitar pentru sprijin spiritual și speranță.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.82089,
+                        10.487203
+                  ]
+            },
+            {
+                  "name": "Iglesia María Auxiliadora",
+                  "text": "O biserică proeminentă dedicată Sfintei Maria Ajutătoare, vizitată adesea de numeroși credincioși locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.824076,
+                        10.493283
+                  ]
+            },
+            {
+                  "name": "Grupo Cristiano Apostólico",
+                  "text": "Un centru creștin axat pe învățăturile apostolice și rugăciunea în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.829591,
+                        10.499151
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Nicolás",
+                  "text": "O parohie catolică dedicată Sfântului Nicolae, situată în zonele deluroase dens populate.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.833475,
+                        10.496934
+                  ]
+            },
+            {
+                  "name": "Iglesia Padre Claret",
+                  "text": "O biserică claretiană cu arhitectură modernă, care oferă servicii spirituale pentru cartierul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.830034,
+                        10.495533
+                  ]
+            },
+            {
+                  "name": "Iglesia El Buen Pastor",
+                  "text": "O biserică catolică modernă dedicată Bunului Păstor, cu o fațadă contemporană simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.817996,
+                        10.503344
+                  ]
+            },
+            {
+                  "name": "Iglesia Amantísimo Corazón de Jesús y María",
+                  "text": "O biserică dedicată Inimilor lui Isus și Mariei, fiind un loc de devoțiune pentru locuitorii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.79186,
+                        10.501896
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel Arcángel",
+                  "text": "O capelă mică și liniștită dedicată Arhanghelului Mihail, situată în mijlocul zonei rezidențiale.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.783863,
+                        10.499532
+                  ]
+            },
+            {
+                  "name": "Iglesia Esperanza Viva",
+                  "text": "O comunitate creștină vibrantă care oferă slujbe moderne și sprijin social.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.788173,
+                        10.486286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naiguata Peak",
+                  "text": "At 2,765 meters, this is the highest peak of the Venezuelan Coastal Cordillera.",
+                  "category": "natural",
+                  "coords": [
+                        -66.782755,
+                        10.542825
+                  ]
+            },
+            {
+                  "name": "Topo Tacamahaco",
+                  "text": "A peak in El Ávila National Park, named after the resinous Tacamahaco tree.",
+                  "category": "natural",
+                  "coords": [
+                        -66.716763,
+                        10.544047
+                  ]
+            },
+            {
+                  "name": "Topo Santa Rosa",
+                  "text": "This mountain in the Ávila massif offers a wide panoramic view over the Caracas valley.",
+                  "category": "natural",
+                  "coords": [
+                        -66.776995,
+                        10.522508
+                  ]
+            },
+            {
+                  "name": "Topo El Mamón",
+                  "text": "This peak is named after the Mamón tree, whose fruit is widely distributed in this region.",
+                  "category": "natural",
+                  "coords": [
+                        -66.717975,
+                        10.494089
+                  ]
+            },
+            {
+                  "name": "Cerro El Gavilán",
+                  "text": "A scenic mountain frequently circled by birds of prey like the Gavilán hawk.",
+                  "category": "natural",
+                  "coords": [
+                        -66.714992,
+                        10.519269
+                  ]
+            },
+            {
+                  "name": "Topo Macanillal",
+                  "text": "A peak in the El Ávila range, known for its lush cloud forest vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -66.735785,
+                        10.54566
+                  ]
+            },
+            {
+                  "name": "Topo Buena Vista",
+                  "text": "A natural viewpoint with sweeping vistas over the Caribbean Sea and Caracas city.",
+                  "category": "natural",
+                  "coords": [
+                        -66.730657,
+                        10.577808
+                  ]
+            },
+            {
+                  "name": "Cabinet Gallery",
+                  "text": "A contemporary art space showcasing experimental works near El Ávila National Park.",
+                  "category": "museum",
+                  "coords": [
+                        -66.83168,
+                        10.503164
+                  ]
+            },
+            {
+                  "name": "Art Killers Gallery",
+                  "text": "An urban art gallery in the Petare district showcasing bold contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -66.836529,
+                        10.508619
+                  ]
+            },
+            {
+                  "name": "Museo de Petare",
+                  "text": "Housed in a colonial building, this museum is dedicated to popular art and the local history of Petare.",
+                  "category": "museum",
+                  "coords": [
+                        -66.80816,
+                        10.475899
+                  ]
+            },
+            {
+                  "name": "Hidroeléctrica Ayala",
+                  "text": "The ruins of one of Venezuela's first hydroelectric plants, located in the dense forest of El Ávila.",
+                  "category": "historical",
+                  "coords": [
+                        -66.76326,
+                        10.495818
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Gonzalo Benaim Pinto",
+                  "text": "This cultural center is dedicated to Jewish heritage and promotes arts in the Caracas area.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.820185,
+                        10.505822
+                  ]
+            },
+            {
+                  "name": "Auditorio Manoa",
+                  "text": "A modern performance hall located on the Metropolitan University (UNIMET) campus.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.785516,
+                        10.498894
+                  ]
+            },
+            {
+                  "name": "Gran Salón de la USM",
+                  "text": "A large venue for academic ceremonies and concerts at the Santa María University.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.78031,
+                        10.491043
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Social Húngaro",
+                  "text": "A meeting place for preserving Hungarian traditions and language in Venezuela.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.827224,
+                        10.500048
+                  ]
+            },
+            {
+                  "name": "Escuela de Valores Divinos",
+                  "text": "A spiritual center located near the mountains, focused on meditation and universal values.",
+                  "category": "religious",
+                  "coords": [
+                        -66.831213,
+                        10.491101
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cayetano",
+                  "text": "This parish church in the Palo Verde neighborhood is a hub for local festivals and community life.",
+                  "category": "religious",
+                  "coords": [
+                        -66.81517,
+                        10.498631
+                  ]
+            },
+            {
+                  "name": "Mercado de los Corotos Palo Verde",
+                  "text": "A popular flea market in Palo Verde where locals trade antiques and second-hand goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.798651,
+                        10.477798
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Mesuca",
+                  "text": "A lively traditional market in Mesuca serving the Petare community with fresh food.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.79965,
+                        10.476552
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Petare",
+                  "text": "A massive, lively municipal market in the Petare barrio, where locals trade fresh produce and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.806842,
+                        10.47924
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Internacional de Caracas",
+                  "text": "A modern Baptist place of worship serving the international and local community in Caracas.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.805595,
+                        10.494972
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Misionera Peniel",
+                  "text": "A local missionary Baptist church located within the densely populated urban outskirts.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.808494,
+                        10.492646
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Evangelista",
+                  "text": "A Catholic parish church serving the residents of the local community with regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.813968,
+                        10.484123
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los testigos de Jehová",
+                  "text": "A modern Kingdom Hall of Jehovah's Witnesses serving as a center for the community's Bible study.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.786932,
+                        10.472187
+                  ]
+            },
+            {
+                  "name": "Virgen de la Piedra",
+                  "text": "A small religious shrine featuring a statue of the Virgin Mary, set against the backdrop of the steep hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.809039,
+                        10.610772
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Sales",
+                  "text": "A Catholic church dedicated to Saint Francis de Sales, known for its active community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.767241,
+                        10.465829
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "A simple meeting house of Jehovah's Witnesses for the local congregation in this residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.814407,
+                        10.477933
+                  ]
+            },
+            {
+                  "name": "Iglesia San Rafael",
+                  "text": "A Catholic church dedicated to Saint Raphael, serving as a hub for religious celebrations in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.792498,
+                        10.481167
+                  ]
+            },
+            {
+                  "name": "San Nicolás de Bari",
+                  "text": "A church dedicated to Saint Nicholas of Bari, serving as a local spiritual landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.781546,
+                        10.472255
+                  ]
+            },
+            {
+                  "name": "Iglesia Centro de Esperanza",
+                  "text": "An evangelical church serving as a community center for spiritual support and hope.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.82089,
+                        10.487203
+                  ]
+            },
+            {
+                  "name": "Iglesia María Auxiliadora",
+                  "text": "A prominent church dedicated to Mary Help of Christians, frequently attended by many local parishioners.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.824076,
+                        10.493283
+                  ]
+            },
+            {
+                  "name": "Grupo Cristiano Apostólico",
+                  "text": "A Christian center focused on apostolic teachings and communal prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.829591,
+                        10.499151
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Nicolás",
+                  "text": "A Catholic parish dedicated to Saint Nicholas, located within the densely populated hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.833475,
+                        10.496934
+                  ]
+            },
+            {
+                  "name": "Iglesia Padre Claret",
+                  "text": "A Claretian church with modern architecture, providing spiritual services for the urban neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.830034,
+                        10.495533
+                  ]
+            },
+            {
+                  "name": "Iglesia El Buen Pastor",
+                  "text": "A modern Catholic church dedicated to the Good Shepherd, featuring a simple contemporary facade.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.817996,
+                        10.503344
+                  ]
+            },
+            {
+                  "name": "Iglesia Amantísimo Corazón de Jesús y María",
+                  "text": "A church dedicated to the Hearts of Jesus and Mary, serving as a place of devotion for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.79186,
+                        10.501896
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel Arcángel",
+                  "text": "A small, quiet chapel dedicated to Saint Michael the Archangel, nestled within the residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.783863,
+                        10.499532
+                  ]
+            },
+            {
+                  "name": "Iglesia Esperanza Viva",
+                  "text": "A vibrant Christian congregation offering modern worship services and social support.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.788173,
+                        10.486286
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark El Ávila", hu: "El Ávila Nemzeti Park", ro: "Parcul Național El Ávila", en: "El Ávila National Park" },
@@ -228,7 +2487,268 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-el-avila-life-v2.webp",
   },
   {
-    id: "venezuela-jardin-botanico-de-caracas-life-v2",
+    id: "venezuela-jardin-botanico-de-caracas-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bimbolandia",
+                  "text": "Ein alteingesessener Familienfreizeitpark mit klassischen Fahrgeschäften und bunten Karussells für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.895106,
+                        10.481547
+                  ]
+            },
+            {
+                  "name": "Parque Italo Americano",
+                  "text": "Ein städtischer Vergnügungspark im südlichen Teil der Stadt, der verschiedene mechanische Fahrgeschäfte und Familienunterhaltung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.897299,
+                        10.476494
+                  ]
+            },
+            {
+                  "name": "Monolitos de Los Próceres",
+                  "text": "Gewaltige Marmorpfeiler, die als Teil eines großen Denkmals zu Ehren der Helden der venezolanischen Unabhängigkeit stehen.",
+                  "category": "historical",
+                  "coords": [
+                        -66.900426,
+                        10.467401
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Monte Carmelo",
+                  "text": "Eine traditionelle katholische Pfarrkirche, die mit ihrer klassischen religiösen Architektur das Viertel prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.898865,
+                        10.480346
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ascención del Señor",
+                  "text": "Eine moderne katholische Kirche, die sich durch ihr markantes, winkliges Design und ihren ruhigen Innenraum auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.887476,
+                        10.46309
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Consolacion",
+                  "text": "Diese 1967 geweihte Nachbarschaftskirche dient als Zentrum für das religiöse Leben und lokale Gemeindetreffen.",
+                  "category": "religious",
+                  "coords": [
+                        -66.891466,
+                        10.474605
+                  ]
+            },
+            {
+                  "name": "Iglesia El Valle",
+                  "text": "Eine markante Kirche im Bezirk El Valle, die ein spirituelles Wahrzeichen für das umliegende Wohnviertel darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.903767,
+                        10.468257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bimbolandia",
+                  "text": "Egy régóta működő családi vidámpark klasszikus játékokkal és színes körhintákkal a gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.895106,
+                        10.481547
+                  ]
+            },
+            {
+                  "name": "Parque Italo Americano",
+                  "text": "Egy városi vidámpark a város déli részén, amely különféle mechanikus játékokat és családi szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.897299,
+                        10.476494
+                  ]
+            },
+            {
+                  "name": "Monolitos de Los Próceres",
+                  "text": "Hatalmas márványpillérek, amelyek a venezuelai függetlenségi hősök tiszteletére emelt monumentális emlékmű részét képezik.",
+                  "category": "historical",
+                  "coords": [
+                        -66.900426,
+                        10.467401
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Monte Carmelo",
+                  "text": "Hagyományos katolikus plébániatemplom, amely klasszikus vallási építészetével szolgálja a környéket.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.898865,
+                        10.480346
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ascención del Señor",
+                  "text": "Modern katolikus templom, amelyet jellegzetes szögletes kialakítása és nyugodt belső tere jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.887476,
+                        10.46309
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Consolacion",
+                  "text": "Az 1967-ben alapított szomszédsági templom a helyi vallási élet és a közösségi összejövetelek központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -66.891466,
+                        10.474605
+                  ]
+            },
+            {
+                  "name": "Iglesia El Valle",
+                  "text": "El Valle negyed egyik kiemelkedő temploma, amely a környező lakóövezet spirituális mérföldköve.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.903767,
+                        10.468257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bimbolandia",
+                  "text": "Un parc de distracții de familie cu vechime, oferind atracții clasice și caruseluri colorate pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.895106,
+                        10.481547
+                  ]
+            },
+            {
+                  "name": "Parque Italo Americano",
+                  "text": "Un parc de distracții urban în partea de sud a orașului, oferind diverse atracții mecanice și divertisment pentru familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.897299,
+                        10.476494
+                  ]
+            },
+            {
+                  "name": "Monolitos de Los Próceres",
+                  "text": "Piloni masivi de marmură care fac parte dintr-un monument grandios dedicat eroilor independenței venezuelene.",
+                  "category": "historical",
+                  "coords": [
+                        -66.900426,
+                        10.467401
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Monte Carmelo",
+                  "text": "O biserică parohială catolică tradițională care deservește cartierul prin arhitectura sa religioasă clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.898865,
+                        10.480346
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ascención del Señor",
+                  "text": "O biserică catolică modernă, caracterizată prin designul său unghiular izbitor și interiorul senin.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.887476,
+                        10.46309
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Consolacion",
+                  "text": "Înființată în 1967, această biserică de cartier servește ca centru pentru viața religioasă și adunările comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        -66.891466,
+                        10.474605
+                  ]
+            },
+            {
+                  "name": "Iglesia El Valle",
+                  "text": "O biserică proeminentă din districtul El Valle, servind ca un punct de reper spiritual pentru zona rezidențială din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.903767,
+                        10.468257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bimbolandia",
+                  "text": "A long-standing family amusement park featuring classic rides and colorful carousels for children.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.895106,
+                        10.481547
+                  ]
+            },
+            {
+                  "name": "Italo Americano Park",
+                  "text": "An urban amusement park in the southern part of the city, offering various mechanical rides and family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.897299,
+                        10.476494
+                  ]
+            },
+            {
+                  "name": "Monolitos de Los Próceres",
+                  "text": "Massive marble pillars standing as part of a grand monument dedicated to the heroes of Venezuelan independence.",
+                  "category": "historical",
+                  "coords": [
+                        -66.900426,
+                        10.467401
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Monte Carmelo",
+                  "text": "A traditional Catholic parish church serving the neighborhood with its classic religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.898865,
+                        10.480346
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ascención del Señor",
+                  "text": "A modern Catholic church characterized by its striking angular design and serene interior.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.887476,
+                        10.46309
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Consolacion",
+                  "text": "Established in 1967, this neighborhood church serves as a center for religious life and local community gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -66.891466,
+                        10.474605
+                  ]
+            },
+            {
+                  "name": "Iglesia El Valle",
+                  "text": "A prominent church in the El Valle district, serving as a spiritual landmark for the surrounding residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.903767,
+                        10.468257
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Botanischer Garten Caracas", hu: "Caracasi Botanikus Kert", ro: "Grădina Botanică din Caracas", en: "Botanical Garden of Caracas" },
@@ -273,7 +2793,1168 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-jardin-botanico-de-caracas-life-v2.webp",
   },
   {
-    id: "venezuela-parque-zoológico-caricuao-life-v2",
+    id: "venezuela-parque-zoológico-caricuao-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Media Agua",
+                  "text": "Ein prominenter Hügel über dem Caricuao-Distrikt, der weite Ausblicke über den Südwesten von Caracas bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -66.957529,
+                        10.343555
+                  ]
+            },
+            {
+                  "name": "Cerro Tierra Blanca",
+                  "text": "Dieser Gipfel im Caricuao-Nationalpark ist für seine hellen Erdschichten bekannt, die ihm seinen Namen gaben.",
+                  "category": "natural",
+                  "coords": [
+                        -67.033124,
+                        10.501653
+                  ]
+            },
+            {
+                  "name": "Cerro El Peñón",
+                  "text": "Ein felsiger Berggipfel, der eine natürliche Grenze und einen Aussichtspunkt im Caricuao-Zoo-Gebiet bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -66.984018,
+                        10.413703
+                  ]
+            },
+            {
+                  "name": "Cerro El Loro",
+                  "text": "Ein markanter Punkt in der Bergkette um Caracas, der nach seiner charakteristischen Form benannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -66.970446,
+                        10.406907
+                  ]
+            },
+            {
+                  "name": "Alto de Pipe",
+                  "text": "Auf diesem Gipfel befindet sich das renommierte venezolanische Institut für wissenschaftliche Forschung (IVIC).",
+                  "category": "natural",
+                  "coords": [
+                        -66.983256,
+                        10.398328
+                  ]
+            },
+            {
+                  "name": "Cerro La Pereza",
+                  "text": "Ein bewaldeter Hügel, dessen Name auf die gemächliche Atmosphäre der unberührten Natur anspielt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.067714,
+                        10.442783
+                  ]
+            },
+            {
+                  "name": "Alto de Irapa",
+                  "text": "Eine Anhöhe im Südwesten der Hauptstadt, die Teil des ökologischen Korridors zwischen Stadt und Bergen ist.",
+                  "category": "natural",
+                  "coords": [
+                        -67.05838,
+                        10.467472
+                  ]
+            },
+            {
+                  "name": "Montaña La Gata",
+                  "text": "Diese Bergspitze ist ein wichtiges Rückzugsgebiet für Wildtiere direkt am Rande des Caricuao-Zoos.",
+                  "category": "natural",
+                  "coords": [
+                        -67.047651,
+                        10.465847
+                  ]
+            },
+            {
+                  "name": "Casa Guzmán Blanco",
+                  "text": "Das historische Landgut von 1884 wurde für Präsident Guzmán Blanco erbaut und steht heute im Caricuao-Zoo.",
+                  "category": "museum",
+                  "coords": [
+                        -66.987509,
+                        10.459961
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Dieses lokale Kulturzentrum im Viertel Caricuao ist ein wichtiger Ort für Gemeindetheater und Tanzaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.960007,
+                        10.374847
+                  ]
+            },
+            {
+                  "name": "Aula Magna",
+                  "text": "Eine große Aula, die für akademische Zeremonien und kulturelle Versammlungen in der Gemeinde genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.975672,
+                        10.465259
+                  ]
+            },
+            {
+                  "name": "Hacienda Montalbán",
+                  "text": "Die Überreste einer ehemaligen Hacienda aus der Kolonialzeit zeigen die alte landwirtschaftliche Geschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -66.966924,
+                        10.467389
+                  ]
+            },
+            {
+                  "name": "Parque Antímano",
+                  "text": "Diese historische Grünanlage im Bezirk Antímano bietet Raum für Erholung inmitten des städtischen Gebiets.",
+                  "category": "park",
+                  "coords": [
+                        -66.981649,
+                        10.463621
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico de Caricuao",
+                  "text": "Der 1977 eröffnete Zoo ist bekannt für seine frei umherstreifenden Affen und die afrikanische Fauna.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.967145,
+                        10.429627
+                  ]
+            },
+            {
+                  "name": "Iglesia Las minas",
+                  "text": "Eine katholische Pfarrkirche, die die Bewohner der hügeligen Vorstadtgemeinde Las Minas betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.976168,
+                        10.37124
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Diese moderne katholische Kirche bildet ein spirituelles Zentrum im Herzen des Bezirks Caricuao.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.992912,
+                        10.34724
+                  ]
+            },
+            {
+                  "name": "Casa de Oración Ana María Pérez Rendiles",
+                  "text": "Ein religiöses Gebetshaus, das der seliggesprochenen venezolanischen Ordensschwester Ana María Pérez Rendiles gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.993826,
+                        10.347751
+                  ]
+            },
+            {
+                  "name": "La Gruta",
+                  "text": "Eine kleine religiöse Grotte, die als Ort der stillen Andacht und des Gebets für Pilger dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.97661,
+                        10.477037
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Emaus de Antimano",
+                  "text": "Ein evangelisches Gotteshaus im Sektor Antímano, das für seine lebendigen Gemeindegottesdienste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.982906,
+                        10.464047
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Diese schlichte evangelische Kirche in Caricuao dient als Treffpunkt für lokale christliche Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        -66.98383,
+                        10.462047
+                  ]
+            },
+            {
+                  "name": "Iglesia A Dios sea la Gloria",
+                  "text": "Ein lokaler evangelischer Kongregationssaal mit einer bescheidenen Fassade im Stadtteil Caricuao.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.000369,
+                        10.431941
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rita de Casia",
+                  "text": "Diese der Heiligen Rita gewidmete Kirche gilt als spiritueller Ankerpunkt für die lokale Bevölkerung.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.972962,
+                        10.433858
+                  ]
+            },
+            {
+                  "name": "Salon de los Testigos de Jehova",
+                  "text": "Ein Königreichssaal, der für die regelmäßigen Versammlungen der Zeugen Jehovas in der Region genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.006021,
+                        10.356589
+                  ]
+            },
+            {
+                  "name": "Iglesia San Charbel",
+                  "text": "Diese dem libanesischen Heiligen gewidmete Kirche spiegelt die Präsenz der maronitischen Gemeinde in Venezuela wider.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.003464,
+                        10.35745
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "Eine Nachbarschaftskirche, die Unserer Lieben Frau von der Wundertätigen Medaille gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.978191,
+                        10.3638
+                  ]
+            },
+            {
+                  "name": "Santuario de Nuestra Señora de Fátima",
+                  "text": "Ein bedeutendes Heiligtum und Wallfahrtsort für die lokale Gemeinschaft portugiesischer Abstammung.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.979625,
+                        10.356273
+                  ]
+            },
+            {
+                  "name": "San Juaquin y Santa Ana",
+                  "text": "Eine Pfarrkirche, die den Eltern der Jungfrau Maria, Joachim und Anna, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.972656,
+                        10.471073
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Castores",
+                  "text": "Diese zeitgenössische katholische Kirche bedient die Bewohner des Wohngebiets Los Castores.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.961898,
+                        10.372582
+                  ]
+            },
+            {
+                  "name": "Iglesia San Carlos Borromeo",
+                  "text": "Eine katholische Pfarrkirche, die sich durch ihren schlichten, modernen architektonischen Stil auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.965612,
+                        10.433954
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Visitación",
+                  "text": "Diese lokale Kirche befindet sich inmitten des großen Wohnkomplexes von Caricuao.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.968095,
+                        10.468261
+                  ]
+            },
+            {
+                  "name": "Centro Parroquial de la Resurrección",
+                  "text": "Ein modernes Pfarrzentrum, das Raum für Gottesdienste und vielfältige Gemeinschaftsaktivitäten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.999573,
+                        10.434476
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Buen Consejo",
+                  "text": "Diese katholische Kirche liegt malerisch an den bewohnten Hängen des Bezirks.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.975856,
+                        10.43002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Media Agua",
+                  "text": "Caricuao negyed feletti kiemelkedő domb, amely tágas kilátást nyújt Caracas délnyugati részére.",
+                  "category": "natural",
+                  "coords": [
+                        -66.957529,
+                        10.343555
+                  ]
+            },
+            {
+                  "name": "Cerro Tierra Blanca",
+                  "text": "A Caricuao Nemzeti Park ezen csúcsa világos földrétegeiről ismert, amelyek a nevét adták.",
+                  "category": "natural",
+                  "coords": [
+                        -67.033124,
+                        10.501653
+                  ]
+            },
+            {
+                  "name": "Cerro El Peñón",
+                  "text": "Egy sziklás hegycsúcs, amely természetes határt és kilátópontot alkot a Caricuao Állatkert területén.",
+                  "category": "natural",
+                  "coords": [
+                        -66.984018,
+                        10.413703
+                  ]
+            },
+            {
+                  "name": "Cerro El Loro",
+                  "text": "Caracas körüli hegylánc jellegzetes pontja, amely karakteres formájáról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -66.970446,
+                        10.406907
+                  ]
+            },
+            {
+                  "name": "Alto de Pipe",
+                  "text": "Ezen a csúcson található a neves Venezuelai Tudományos Kutatóintézet (IVIC).",
+                  "category": "natural",
+                  "coords": [
+                        -66.983256,
+                        10.398328
+                  ]
+            },
+            {
+                  "name": "Cerro La Pereza",
+                  "text": "Egy erdős domb, amelynek neve az érintetlen természet nyugodt hangulatára utal.",
+                  "category": "natural",
+                  "coords": [
+                        -67.067714,
+                        10.442783
+                  ]
+            },
+            {
+                  "name": "Alto de Irapa",
+                  "text": "A fővárostól délnyugatra fekvő magaslat, amely a város és a hegyek közötti ökológiai folyosó része.",
+                  "category": "natural",
+                  "coords": [
+                        -67.05838,
+                        10.467472
+                  ]
+            },
+            {
+                  "name": "Montaña La Gata",
+                  "text": "Ez a hegycsúcs a vadon élő állatok fontos menedékhelye közvetlenül a Caricuao Állatkert szélén.",
+                  "category": "natural",
+                  "coords": [
+                        -67.047651,
+                        10.465847
+                  ]
+            },
+            {
+                  "name": "Casa Guzmán Blanco",
+                  "text": "Az 1884-ben épült történelmi udvarház Guzmán Blanco elnök számára készült a Caricuao Állatkert területén.",
+                  "category": "museum",
+                  "coords": [
+                        -66.987509,
+                        10.459961
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Ez a Caricuao negyedben található helyi kulturális központ közösségi színházi és táncelőadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.960007,
+                        10.374847
+                  ]
+            },
+            {
+                  "name": "Aula Magna",
+                  "text": "Hatalmas díszterem, amelyet akadémiai ceremóniákra és a helyi közösség kulturális eseményeire használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.975672,
+                        10.465259
+                  ]
+            },
+            {
+                  "name": "Hacienda Montalbán",
+                  "text": "Egy egykori gyarmati kori birtok maradványai, amelyek a régió régi mezőgazdasági múltját idézik.",
+                  "category": "historical",
+                  "coords": [
+                        -66.966924,
+                        10.467389
+                  ]
+            },
+            {
+                  "name": "Parque Antímano",
+                  "text": "Ez az Antímano negyedben található történelmi zöldterület kikapcsolódást nyújt a városi környezetben.",
+                  "category": "park",
+                  "coords": [
+                        -66.981649,
+                        10.463621
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico de Caricuao",
+                  "text": "Az 1977-ben megnyitott állatkert híres szabadon kószáló majmairól és afrikai állatvilágáról.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.967145,
+                        10.429627
+                  ]
+            },
+            {
+                  "name": "Iglesia Las minas",
+                  "text": "Római katolikus plébániatemplom, amely a dombos Las Minas elővárosi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.976168,
+                        10.37124
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Ez a modern katolikus templom spirituális központot alkot Caricuao negyed szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.992912,
+                        10.34724
+                  ]
+            },
+            {
+                  "name": "Casa de Oración Ana María Pérez Rendiles",
+                  "text": "Vallási imaház, amelyet a boldoggá avatott venezuelai apácának, Ana María Pérez Rendilesnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.993826,
+                        10.347751
+                  ]
+            },
+            {
+                  "name": "La Gruta",
+                  "text": "Kisméretű vallási barlangszentély, amely a zarándokok csendes áhítatának és imájának helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.97661,
+                        10.477037
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Emaus de Antimano",
+                  "text": "Antímano szektorában található evangélikus imaház, amely élénk közösségi istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.982906,
+                        10.464047
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Ez az egyszerű Caricuao-i evangélikus templom a helyi keresztény gyülekezetek találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -66.98383,
+                        10.462047
+                  ]
+            },
+            {
+                  "name": "Iglesia A Dios sea la Gloria",
+                  "text": "Helyi evangélikus gyülekezeti terem szerény homlokzattal Caricuao városrészben.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.000369,
+                        10.431941
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rita de Casia",
+                  "text": "Szent Ritának szentelt templom, amely a helyi lakosság fontos spirituális tartóoszlopa.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.972962,
+                        10.433858
+                  ]
+            },
+            {
+                  "name": "Salon de los Testigos de Jehova",
+                  "text": "Királyság-terem, amelyet Jehova Tanúi rendszeres regionális összejöveteleire használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.006021,
+                        10.356589
+                  ]
+            },
+            {
+                  "name": "Iglesia San Charbel",
+                  "text": "A libanoni szentnek szentelt templom a venezuelai maronita közösség jelenlétét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.003464,
+                        10.35745
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "Környékbeli templom, amelyet a Csodás Érem Boldogasszonyának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.978191,
+                        10.3638
+                  ]
+            },
+            {
+                  "name": "Santuario de Nuestra Señora de Fátima",
+                  "text": "Jelentős szentély és zarándokhely a helyi portugál származású közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.979625,
+                        10.356273
+                  ]
+            },
+            {
+                  "name": "San Juaquin y Santa Ana",
+                  "text": "Plébániatemplom, amelyet Szűz Mária szüleinek, Szent Joakimnak és Szent Annának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.972656,
+                        10.471073
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Castores",
+                  "text": "Ez a kortárs katolikus templom Los Castores lakónegyedének lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.961898,
+                        10.372582
+                  ]
+            },
+            {
+                  "name": "Iglesia San Carlos Borromeo",
+                  "text": "Római katolikus plébániatemplom, amelyet egyszerű, modern építészeti stílus jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.965612,
+                        10.433954
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Visitación",
+                  "text": "Ez a helyi templom a hatalmas Caricuao lakótelep szívében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.968095,
+                        10.468261
+                  ]
+            },
+            {
+                  "name": "Centro Parroquial de la Resurrección",
+                  "text": "Modern plébániai központ, amely istentiszteleteknek és változatos közösségi tevékenységeknek ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.999573,
+                        10.434476
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Buen Consejo",
+                  "text": "Ez a katolikus templom festői helyen, a negyed lakott domboldalain található.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.975856,
+                        10.43002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Media Agua",
+                  "text": "O colină proeminentă deasupra districtului Caricuao, oferind vederi largi asupra sud-vestului orașului Caracas.",
+                  "category": "natural",
+                  "coords": [
+                        -66.957529,
+                        10.343555
+                  ]
+            },
+            {
+                  "name": "Cerro Tierra Blanca",
+                  "text": "Acest vârf din Parcul Național Caricuao este cunoscut pentru straturile sale de pământ deschis la culoare.",
+                  "category": "natural",
+                  "coords": [
+                        -67.033124,
+                        10.501653
+                  ]
+            },
+            {
+                  "name": "Cerro El Peñón",
+                  "text": "Un vârf muntos stâncos, care formează o graniță naturală și un punct de observație în zona Grădinii Zoologice Caricuao.",
+                  "category": "natural",
+                  "coords": [
+                        -66.984018,
+                        10.413703
+                  ]
+            },
+            {
+                  "name": "Cerro El Loro",
+                  "text": "Un punct distinctiv în lanțul muntos din jurul Caracasului, numit după forma sa caracteristică.",
+                  "category": "natural",
+                  "coords": [
+                        -66.970446,
+                        10.406907
+                  ]
+            },
+            {
+                  "name": "Alto de Pipe",
+                  "text": "Pe acest vârf se află renumitul Institut Venezuelean de Cercetări Științifice (IVIC).",
+                  "category": "natural",
+                  "coords": [
+                        -66.983256,
+                        10.398328
+                  ]
+            },
+            {
+                  "name": "Cerro La Pereza",
+                  "text": "O colină împădurită, al cărei nume face aluzie la atmosfera liniștită a naturii neatinse.",
+                  "category": "natural",
+                  "coords": [
+                        -67.067714,
+                        10.442783
+                  ]
+            },
+            {
+                  "name": "Alto de Irapa",
+                  "text": "O înălțime în sud-vestul capitalei, care face parte din coridorul ecologic dintre oraș și munți.",
+                  "category": "natural",
+                  "coords": [
+                        -67.05838,
+                        10.467472
+                  ]
+            },
+            {
+                  "name": "Montaña La Gata",
+                  "text": "Acest vârf muntos este un refugiu important pentru fauna sălbatică, aflat chiar la marginea Grădinii Zoologice Caricuao.",
+                  "category": "natural",
+                  "coords": [
+                        -67.047651,
+                        10.465847
+                  ]
+            },
+            {
+                  "name": "Casa Guzmán Blanco",
+                  "text": "Conacul istoric din 1884 a fost construit pentru președintele Guzmán Blanco în incinta Grădinii Zoologice Caricuao.",
+                  "category": "museum",
+                  "coords": [
+                        -66.987509,
+                        10.459961
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Acest centru cultural local din cartierul Caricuao este un loc important pentru spectacole de teatru comunitar și dans.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.960007,
+                        10.374847
+                  ]
+            },
+            {
+                  "name": "Aula Magna",
+                  "text": "O sală mare de ceremonii utilizată pentru evenimente academice și adunări culturale ale comunității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.975672,
+                        10.465259
+                  ]
+            },
+            {
+                  "name": "Hacienda Montalbán",
+                  "text": "Rămășițele unei foste ferme din epoca colonială dezvăluie istoria agricolă veche a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -66.966924,
+                        10.467389
+                  ]
+            },
+            {
+                  "name": "Parque Antímano",
+                  "text": "Acest spațiu verde istoric din districtul Antímano oferă un loc de recreere în mijlocul zonei urbane.",
+                  "category": "park",
+                  "coords": [
+                        -66.981649,
+                        10.463621
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico de Caricuao",
+                  "text": "Grădina zoologică deschisă în 1977 este cunoscută pentru maimuțele care se plimbă liber și fauna africană.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.967145,
+                        10.429627
+                  ]
+            },
+            {
+                  "name": "Iglesia Las minas",
+                  "text": "O biserică parohială catolică ce deservește comunitatea suburbană de pe dealurile din Las Minas.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.976168,
+                        10.37124
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Această biserică catolică modernă formează un centru spiritual în inima districtului Caricuao.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.992912,
+                        10.34724
+                  ]
+            },
+            {
+                  "name": "Casa de Oración Ana María Pérez Rendiles",
+                  "text": "O casă religioasă de rugăciune dedicată călugăriței venezuelene beatificate Ana María Pérez Rendiles.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.993826,
+                        10.347751
+                  ]
+            },
+            {
+                  "name": "La Gruta",
+                  "text": "O mică grotă religioasă care servește ca loc de reculegere și rugăciune pentru pelerini.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.97661,
+                        10.477037
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Emaus de Antimano",
+                  "text": "Un lăcaș de cult evanghelic în sectorul Antímano, cunoscut pentru slujbele comunitare pline de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.982906,
+                        10.464047
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Această biserică evanghelică simplă din Caricuao servește ca loc de întâlnire pentru adunările creștine locale.",
+                  "category": "religious",
+                  "coords": [
+                        -66.98383,
+                        10.462047
+                  ]
+            },
+            {
+                  "name": "Iglesia A Dios sea la Gloria",
+                  "text": "O sală de congregație evanghelică locală cu o fațadă modestă în cartierul Caricuao.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.000369,
+                        10.431941
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rita de Casia",
+                  "text": "Această biserică dedicată Sfintei Rita este considerată un punct de sprijin spiritual pentru populația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.972962,
+                        10.433858
+                  ]
+            },
+            {
+                  "name": "Salon de los Testigos de Jehova",
+                  "text": "O Sală a Regatului utilizată pentru întâlnirile regulate ale Martorilor lui Iehova din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.006021,
+                        10.356589
+                  ]
+            },
+            {
+                  "name": "Iglesia San Charbel",
+                  "text": "Această biserică dedicată sfântului libanez reflectă prezența comunității maronite în Venezuela.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.003464,
+                        10.35745
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "O biserică de cartier dedicată Maicii Domnului a Medaliei Miraculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.978191,
+                        10.3638
+                  ]
+            },
+            {
+                  "name": "Santuario de Nuestra Señora de Fátima",
+                  "text": "Un sanctuar și loc de pelerinaj important pentru comunitatea locală de origine portugheză.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.979625,
+                        10.356273
+                  ]
+            },
+            {
+                  "name": "San Juaquin y Santa Ana",
+                  "text": "O biserică parohială dedicată părinților Fecioarei Maria, Ioachim și Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.972656,
+                        10.471073
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Castores",
+                  "text": "Această biserică catolică contemporană deservește locuitorii zonei rezidențiale Los Castores.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.961898,
+                        10.372582
+                  ]
+            },
+            {
+                  "name": "Iglesia San Carlos Borromeo",
+                  "text": "O biserică parohială catolică ce se remarcă prin stilul său arhitectural modern și simplu.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.965612,
+                        10.433954
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Visitación",
+                  "text": "Această biserică locală este situată în mijlocul marelui complex rezidențial Caricuao.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.968095,
+                        10.468261
+                  ]
+            },
+            {
+                  "name": "Centro Parroquial de la Resurrección",
+                  "text": "Un centru parohial modern care oferă spațiu pentru slujbe și diverse activități comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.999573,
+                        10.434476
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Buen Consejo",
+                  "text": "Această biserică catolică este situată pitoresc pe versanții locuiți ai districtului.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.975856,
+                        10.43002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Media Agua",
+                  "text": "A prominent hill overlooking the Caricuao district, offering expansive views over southwest Caracas.",
+                  "category": "natural",
+                  "coords": [
+                        -66.957529,
+                        10.343555
+                  ]
+            },
+            {
+                  "name": "Cerro Tierra Blanca",
+                  "text": "This peak in the Caricuao National Park is known for the light-colored soil layers that gave it its name.",
+                  "category": "natural",
+                  "coords": [
+                        -67.033124,
+                        10.501653
+                  ]
+            },
+            {
+                  "name": "Cerro El Peñón",
+                  "text": "A rocky mountain peak forming a natural border and vantage point within the Caricuao Zoo area.",
+                  "category": "natural",
+                  "coords": [
+                        -66.984018,
+                        10.413703
+                  ]
+            },
+            {
+                  "name": "Cerro El Loro",
+                  "text": "A distinctive point in the mountain range around Caracas, named for its characteristic parrot-like shape.",
+                  "category": "natural",
+                  "coords": [
+                        -66.970446,
+                        10.406907
+                  ]
+            },
+            {
+                  "name": "Alto de Pipe",
+                  "text": "This peak is home to the renowned Venezuelan Institute for Scientific Research (IVIC).",
+                  "category": "natural",
+                  "coords": [
+                        -66.983256,
+                        10.398328
+                  ]
+            },
+            {
+                  "name": "Cerro La Pereza",
+                  "text": "A forested hill whose name alludes to the leisurely atmosphere of its untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        -67.067714,
+                        10.442783
+                  ]
+            },
+            {
+                  "name": "Alto de Irapa",
+                  "text": "An elevation in the southwest of the capital, part of the ecological corridor between the city and the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -67.05838,
+                        10.467472
+                  ]
+            },
+            {
+                  "name": "Montaña La Gata",
+                  "text": "This mountain peak is an important refuge for wildlife right on the edge of the Caricuao Zoo.",
+                  "category": "natural",
+                  "coords": [
+                        -67.047651,
+                        10.465847
+                  ]
+            },
+            {
+                  "name": "Casa Guzmán Blanco",
+                  "text": "Built in 1884 for President Antonio Guzmán Blanco, this historic manor sits within the Caricuao Zoo grounds.",
+                  "category": "museum",
+                  "coords": [
+                        -66.987509,
+                        10.459961
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "This local cultural center in the Caricuao district serves as a key venue for community theater and dance performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.960007,
+                        10.374847
+                  ]
+            },
+            {
+                  "name": "Aula Magna",
+                  "text": "A large ceremonial hall used for academic ceremonies and local community cultural gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.975672,
+                        10.465259
+                  ]
+            },
+            {
+                  "name": "Montalban old Farm",
+                  "text": "The remains of a former colonial-era hacienda showcase the region's old agricultural history.",
+                  "category": "historical",
+                  "coords": [
+                        -66.966924,
+                        10.467389
+                  ]
+            },
+            {
+                  "name": "Parque Antímano",
+                  "text": "This historical green space in the Antímano district provides room for recreation amidst the urban area.",
+                  "category": "park",
+                  "coords": [
+                        -66.981649,
+                        10.463621
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico de Caricuao",
+                  "text": "Opened in 1977, this zoo is famous for its free-roaming monkeys and African fauna.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.967145,
+                        10.429627
+                  ]
+            },
+            {
+                  "name": "Iglesia Las minas",
+                  "text": "A Catholic parish church serving the residents of the hilly suburban community of Las Minas.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.976168,
+                        10.37124
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "This modern Catholic church forms a spiritual center in the heart of the Caricuao district.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.992912,
+                        10.34724
+                  ]
+            },
+            {
+                  "name": "Casa de Oración Ana María Pérez Rendiles",
+                  "text": "A religious prayer house dedicated to the beatified Venezuelan nun Ana María Pérez Rendiles.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.993826,
+                        10.347751
+                  ]
+            },
+            {
+                  "name": "La Gruta",
+                  "text": "A small religious grotto shrine that serves as a place of quiet devotion and prayer for pilgrims.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.97661,
+                        10.477037
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Emaus de Antimano",
+                  "text": "An evangelical place of worship in the Antímano sector, known for its lively community services.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.982906,
+                        10.464047
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "This simple evangelical church in Caricuao serves as a gathering place for local Christian assemblies.",
+                  "category": "religious",
+                  "coords": [
+                        -66.98383,
+                        10.462047
+                  ]
+            },
+            {
+                  "name": "Iglesia A Dios sea la Gloria",
+                  "text": "A local evangelical congregation hall with a modest facade in the Caricuao neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.000369,
+                        10.431941
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rita de Casia",
+                  "text": "This church dedicated to Saint Rita is considered a spiritual landmark for the local population.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.972962,
+                        10.433858
+                  ]
+            },
+            {
+                  "name": "Salon de los Testigos de Jehova",
+                  "text": "A Kingdom Hall used for the regular meetings of Jehovah's Witnesses in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.006021,
+                        10.356589
+                  ]
+            },
+            {
+                  "name": "Iglesia San Charbel",
+                  "text": "Dedicated to the Lebanese saint, this church reflects the presence of the Maronite community in Venezuela.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.003464,
+                        10.35745
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "A neighborhood church dedicated to Our Lady of the Miraculous Medal.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.978191,
+                        10.3638
+                  ]
+            },
+            {
+                  "name": "Santuario de Nuestra Señora de Fátima",
+                  "text": "A prominent sanctuary and pilgrimage site for the local community of Portuguese descent.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.979625,
+                        10.356273
+                  ]
+            },
+            {
+                  "name": "San Juaquin y Santa Ana",
+                  "text": "A parish church dedicated to the parents of the Virgin Mary, Saint Joachim and Saint Anne.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.972656,
+                        10.471073
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Castores",
+                  "text": "This contemporary Catholic church serves the residents of the Los Castores residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.961898,
+                        10.372582
+                  ]
+            },
+            {
+                  "name": "Iglesia San Carlos Borromeo",
+                  "text": "A Catholic parish church characterized by its simple, modern architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.965612,
+                        10.433954
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Visitación",
+                  "text": "This local church is situated in the middle of the large Caricuao residential complex.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.968095,
+                        10.468261
+                  ]
+            },
+            {
+                  "name": "Centro Parroquial de la Resurrección",
+                  "text": "A modern parish center providing space for religious services and diverse community activities.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.999573,
+                        10.434476
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Buen Consejo",
+                  "text": "This Catholic church is picturesquely situated on the residential hillsides of the district.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.975856,
+                        10.43002
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     name: { de: "Zoo Caricuao", hu: "Caricuao Állatkert", ro: "Grădina Zoologică Caricuao", en: "Caricuao Zoo" },
     coords: [-66.98, 10.43],
@@ -317,7 +3998,88 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-zoológico-caricuao-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-medanos-de-coro-life-v2",
+    id: "venezuela-parque-nacional-medanos-de-coro-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento Generalísimo Francisco de Miranda",
+                  "text": "Dieses Denkmal in den Médanos de Coro ehrt General Francisco de Miranda inmitten der berühmten Wanderdünen.",
+                  "category": "historical",
+                  "coords": [
+                        -69.569759,
+                        11.463779
+                  ]
+            },
+            {
+                  "name": "Iglesia San Judas Tadeo",
+                  "text": "Diese dem Heiligen Judas Tadeo gewidmete Kirche befindet sich am Rande der beeindruckenden Wüstenlandschaft von Coro.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.596959,
+                        11.442559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento Generalísimo Francisco de Miranda",
+                  "text": "Ez a Médanos de Coro területén található emlékmű Francisco de Miranda tábornok előtt tiszteleg a híres vándorhomok közepén.",
+                  "category": "historical",
+                  "coords": [
+                        -69.569759,
+                        11.463779
+                  ]
+            },
+            {
+                  "name": "Iglesia San Judas Tadeo",
+                  "text": "Ez a Szent Júdás Tádénak szentelt templom Coro lenyűgöző sivatagi tájának szélén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.596959,
+                        11.442559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento Generalísimo Francisco de Miranda",
+                  "text": "Acest monument din Médanos de Coro îl onorează pe generalul Francisco de Miranda în mijlocul celebrelor dune de nisip mișcătoare.",
+                  "category": "historical",
+                  "coords": [
+                        -69.569759,
+                        11.463779
+                  ]
+            },
+            {
+                  "name": "Iglesia San Judas Tadeo",
+                  "text": "Această biserică dedicată Sfântului Iuda Tadeu se află la marginea peisajului deșertic impresionant din Coro.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.596959,
+                        11.442559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento Generalísimo Francisco de Miranda",
+                  "text": "This monument in Médanos de Coro honors General Francisco de Miranda amidst the famous shifting sand dunes.",
+                  "category": "historical",
+                  "coords": [
+                        -69.569759,
+                        11.463779
+                  ]
+            },
+            {
+                  "name": "Iglesia San Judas Tadeo",
+                  "text": "This church dedicated to Saint Jude Thaddeus is located on the edge of the impressive desert landscape of Coro.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.596959,
+                        11.442559
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark Médanos de Coro", hu: "Médanos de Coro Nemzeti Park", ro: "Parcul Național Médanos de Coro", en: "Médanos de Coro National Park" },
@@ -362,7 +4124,736 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-medanos-de-coro-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-maclearo-life-v2",
+    id: "venezuela-parque-nacional-maclearo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alto Culebra",
+                  "text": "Ein Berg im Macarao-Nationalpark, der ein wichtiges Wassereinzugsgebiet für die nahegelegene Hauptstadt darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.135262,
+                        10.369929
+                  ]
+            },
+            {
+                  "name": "Alto Maturín",
+                  "text": "Ein Gipfel in der Gebirgsregion von Miranda, charakterisiert durch seine kühle Höhenluft und dichte Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -67.144146,
+                        10.364188
+                  ]
+            },
+            {
+                  "name": "Cerro Los Canjilones",
+                  "text": "Ein zerklüfteter Berg im Macarao-Park, bekannt für seine interessanten geologischen Felsstrukturen.",
+                  "category": "natural",
+                  "coords": [
+                        -67.170238,
+                        10.387786
+                  ]
+            },
+            {
+                  "name": "Alto de Flores",
+                  "text": "Ein Aussichtspunkt im Hochland, der weite Panoramablicke auf das zentrale venezolanische Gebirge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -67.114856,
+                        10.271048
+                  ]
+            },
+            {
+                  "name": "Cerro Cañadote",
+                  "text": "Ein Berg im Schutzgebiet von Macarao, der als Lebensraum für zahlreiche einheimische Tierarten dient.",
+                  "category": "natural",
+                  "coords": [
+                        -67.138009,
+                        10.282829
+                  ]
+            },
+            {
+                  "name": "Cerro Naigua",
+                  "text": "Ein markanter Gipfel in der Nähe von Los Teques, umgeben von geschützten Kiefern- und Nebelwäldern.",
+                  "category": "natural",
+                  "coords": [
+                        -67.050076,
+                        10.279641
+                  ]
+            },
+            {
+                  "name": "Cerro La Cruz",
+                  "text": "Ein Gipfel, der oft als lokales Wahrzeichen dient und über den bewaldeten Hängen von Miranda thront.",
+                  "category": "natural",
+                  "coords": [
+                        -67.037652,
+                        10.371576
+                  ]
+            },
+            {
+                  "name": "Topo Los Azulitos",
+                  "text": "Ein kleiner Berg im Macarao-Nationalpark, geschätzt für seine Wanderwege und die Ruhe abseits der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.099385,
+                        10.419992
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Cecilio Acosta",
+                  "text": "Ein Kulturzentrum in Los Teques, benannt nach dem berühmten Schriftsteller Cecilio Acosta, das lokale Kunst fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.042548,
+                        10.348896
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Cecilio Acosta",
+                  "text": "Ein vielseitiger Komplex in Los Teques für Theateraufführungen und musikalische Darbietungen der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.041335,
+                        10.346634
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Los Teques",
+                  "text": "Eine Freiluftbühne in Los Teques, die regelmäßig für öffentliche Konzerte und kulturelle Festivals genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.037412,
+                        10.356158
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine kleine Dorfkirche in der Bergregion, die ein wichtiger Treffpunkt für die lokale Gemeinde ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.179732,
+                        10.356873
+                  ]
+            },
+            {
+                  "name": "La Capilla De La Virgen",
+                  "text": "Eine friedliche kleine Kapelle, die der Jungfrau Maria gewidmet ist und idyllisch im Hochland liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.092841,
+                        10.316924
+                  ]
+            },
+            {
+                  "name": "Chicharronera Pozo de Rosas",
+                  "text": "Ein religiöser Ort im malerischen Dorf Pozo de Rosas, bekannt für seine ruhige Atmosphäre im Grünen.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.11052,
+                        10.350532
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehova",
+                  "text": "Ein Versammlungsort der Zeugen Jehovas in der Region Miranda für religiöse Unterweisung und Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -67.041173,
+                        10.353087
+                  ]
+            },
+            {
+                  "name": "Salon del Reino",
+                  "text": "Ein schlichter christlicher Andachtsraum, der der lokalen Bevölkerung als Ort des Gebets dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.040871,
+                        10.341258
+                  ]
+            },
+            {
+                  "name": "Iglesia del Carmen",
+                  "text": "Eine Kirche, die der Jungfrau vom Berg Karmel gewidmet ist und ein spiritueller Ankerpunkt in der Gemeinde ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.041447,
+                        10.342519
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein Versammlungshaus der Kirche Jesu Christi der Heiligen der Letzten Tage für die mormonische Gemeinde vor Ort.",
+                  "category": "religious",
+                  "coords": [
+                        -67.038145,
+                        10.342899
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juán Bosco",
+                  "text": "Diese moderne Kirche in Los Teques dient der Salesianer-Gemeinschaft im Viertel El Vigía.",
+                  "category": "religious",
+                  "coords": [
+                        -67.036384,
+                        10.352335
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Los Teques",
+                  "text": "Ein geschäftiges Handelszentrum in Los Teques, das für sein breites Angebot an frischen lokalen Erzeugnissen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.058398,
+                        10.353207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alto Culebra",
+                  "text": "Hegy a Macarao Nemzeti Parkban, amely a közeli főváros fontos vízgyűjtő területe.",
+                  "category": "natural",
+                  "coords": [
+                        -67.135262,
+                        10.369929
+                  ]
+            },
+            {
+                  "name": "Alto Maturín",
+                  "text": "Csúcs Miranda hegyvidéki régiójában, amelyet hűvös hegyi levegő és sűrű növényzet jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -67.144146,
+                        10.364188
+                  ]
+            },
+            {
+                  "name": "Cerro Los Canjilones",
+                  "text": "Egyenetlen hegy a Macarao parkban, amely érdekes geológiai sziklaszerkezeteiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -67.170238,
+                        10.387786
+                  ]
+            },
+            {
+                  "name": "Alto de Flores",
+                  "text": "Kilátópont a felföldön, ahonnan széles panoráma nyílik a közép-venezuelai hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -67.114856,
+                        10.271048
+                  ]
+            },
+            {
+                  "name": "Cerro Cañadote",
+                  "text": "Hegy a Macarao védett területén, amely számos őshonos állatfaj élőhelyéül szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        -67.138009,
+                        10.282829
+                  ]
+            },
+            {
+                  "name": "Cerro Naigua",
+                  "text": "Jellegzetes csúcs Los Teques közelében, védett fenyő- és köderdőkkel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -67.050076,
+                        10.279641
+                  ]
+            },
+            {
+                  "name": "Cerro La Cruz",
+                  "text": "Helyi jelképként szolgáló csúcs, amely Miranda erdős lankái fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -67.037652,
+                        10.371576
+                  ]
+            },
+            {
+                  "name": "Topo Los Azulitos",
+                  "text": "Kisebb hegy a Macarao Nemzeti Parkban, amelyet túraútvonalai és a városon kívüli csendje miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        -67.099385,
+                        10.419992
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Cecilio Acosta",
+                  "text": "Cecilio Acosta íróról elnevezett kulturális központ Los Tequesben, amely a helyi művészetet népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.042548,
+                        10.348896
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Cecilio Acosta",
+                  "text": "Sokoldalú komplexum Los Tequesben színházi előadások és a régió zenei bemutatói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.041335,
+                        10.346634
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Los Teques",
+                  "text": "Szabadtéri színpad Los Tequesben, amelyet rendszeresen használnak nyilvános koncertekre és kulturális fesztiválokra.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.037412,
+                        10.356158
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Kicsi falusi templom a hegyvidéken, amely a helyi közösség fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.179732,
+                        10.356873
+                  ]
+            },
+            {
+                  "name": "La Capilla De La Virgen",
+                  "text": "Szűz Máriának szentelt békés kis kápolna, amely idilli környezetben, a felföldön található.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.092841,
+                        10.316924
+                  ]
+            },
+            {
+                  "name": "Chicharronera Pozo de Rosas",
+                  "text": "Vallási helyszín a festői Pozo de Rosas faluban, amely a zöld környezetben lévő nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.11052,
+                        10.350532
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehova",
+                  "text": "Jehova Tanúi gyülekezőhelye Miranda régióban vallási oktatásra és közösségi életre.",
+                  "category": "religious",
+                  "coords": [
+                        -67.041173,
+                        10.353087
+                  ]
+            },
+            {
+                  "name": "Salon del Reino",
+                  "text": "Egyszerű keresztény áhítati hely, amely a helyi lakosság számára az imádság helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.040871,
+                        10.341258
+                  ]
+            },
+            {
+                  "name": "Iglesia del Carmen",
+                  "text": "A Karmel-hegyi Boldogasszonynak szentelt templom, amely a közösség egyik spirituális tartópillére.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.041447,
+                        10.342519
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza gyülekezeti háza a helyi mormon közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -67.038145,
+                        10.342899
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juán Bosco",
+                  "text": "Ez a modern templom Los Tequesben az El Vigía negyed szalézi közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -67.036384,
+                        10.352335
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Los Teques",
+                  "text": "Forgalmas kereskedelmi központ Los Tequesben, amely friss helyi termékek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.058398,
+                        10.353207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alto Culebra",
+                  "text": "Un munte din Parcul Național Macarao, care reprezintă un bazin hidrografic important pentru capitala din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -67.135262,
+                        10.369929
+                  ]
+            },
+            {
+                  "name": "Alto Maturín",
+                  "text": "Un vârf din regiunea muntoasă Miranda, caracterizat prin aerul montan răcoros și vegetația densă.",
+                  "category": "natural",
+                  "coords": [
+                        -67.144146,
+                        10.364188
+                  ]
+            },
+            {
+                  "name": "Cerro Los Canjilones",
+                  "text": "Un munte accidentat în parcul Macarao, cunoscut pentru structurile sale stâncoase geologice interesante.",
+                  "category": "natural",
+                  "coords": [
+                        -67.170238,
+                        10.387786
+                  ]
+            },
+            {
+                  "name": "Alto de Flores",
+                  "text": "Un punct de observație în zonele înalte, oferind vederi panoramice largi asupra lanțului muntos central venezuelean.",
+                  "category": "natural",
+                  "coords": [
+                        -67.114856,
+                        10.271048
+                  ]
+            },
+            {
+                  "name": "Cerro Cañadote",
+                  "text": "Un munte din zona protejată Macarao, care servește ca habitat pentru numeroase specii de animale native.",
+                  "category": "natural",
+                  "coords": [
+                        -67.138009,
+                        10.282829
+                  ]
+            },
+            {
+                  "name": "Cerro Naigua",
+                  "text": "Un vârf distinctiv lângă Los Teques, înconjurat de păduri protejate de pini și păduri tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -67.050076,
+                        10.279641
+                  ]
+            },
+            {
+                  "name": "Cerro La Cruz",
+                  "text": "Un vârf care servește adesea ca punct de reper local, dominând pantele împădurite din Miranda.",
+                  "category": "natural",
+                  "coords": [
+                        -67.037652,
+                        10.371576
+                  ]
+            },
+            {
+                  "name": "Topo Los Azulitos",
+                  "text": "Un munte mic în Parcul Național Macarao, apreciat pentru traseele sale de drumeție și liniștea de lângă oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -67.099385,
+                        10.419992
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Cecilio Acosta",
+                  "text": "Un centru cultural în Los Teques, numit după celebrul scriitor Cecilio Acosta, care promovează arta locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.042548,
+                        10.348896
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Cecilio Acosta",
+                  "text": "Un complex versatil în Los Teques pentru spectacole de teatru și reprezentații muzicale din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.041335,
+                        10.346634
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Los Teques",
+                  "text": "O scenă în aer liber din Los Teques, folosită în mod regulat pentru concerte publice și festivaluri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.037412,
+                        10.356158
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O mică biserică de sat din regiunea montană, care este un punct de întâlnire important pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.179732,
+                        10.356873
+                  ]
+            },
+            {
+                  "name": "La Capilla De La Virgen",
+                  "text": "O mică capelă liniștită dedicată Fecioarei Maria, situată idilic în zona muntoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.092841,
+                        10.316924
+                  ]
+            },
+            {
+                  "name": "Chicharronera Pozo de Rosas",
+                  "text": "Un lăcaș de cult în satul pitoresc Pozo de Rosas, cunoscut pentru atmosfera sa liniștită în mijlocul naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.11052,
+                        10.350532
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehova",
+                  "text": "Un loc de întâlnire al Martorilor lui Iehova în regiunea Miranda pentru instruire religioasă și comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -67.041173,
+                        10.353087
+                  ]
+            },
+            {
+                  "name": "Salon del Reino",
+                  "text": "Un spațiu simplu de rugăciune creștină, care servește populației locale ca loc de închinare.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.040871,
+                        10.341258
+                  ]
+            },
+            {
+                  "name": "Iglesia del Carmen",
+                  "text": "O biserică dedicată Fecioarei de pe Muntele Carmel, fiind un punct de ancorare spirituală în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.041447,
+                        10.342519
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de adunare a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă pentru comunitatea mormonă locală.",
+                  "category": "religious",
+                  "coords": [
+                        -67.038145,
+                        10.342899
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juán Bosco",
+                  "text": "Această biserică modernă din Los Teques deservește comunitatea saleziană din cartierul El Vigía.",
+                  "category": "religious",
+                  "coords": [
+                        -67.036384,
+                        10.352335
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Los Teques",
+                  "text": "Un centru comercial plin de viață din Los Teques, cunoscut pentru gama sa largă de produse locale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.058398,
+                        10.353207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alto Culebra",
+                  "text": "A mountain in the Macarao National Park that is part of an important watershed for the nearby capital.",
+                  "category": "natural",
+                  "coords": [
+                        -67.135262,
+                        10.369929
+                  ]
+            },
+            {
+                  "name": "Alto Maturín",
+                  "text": "A peak in the mountainous region of Miranda, characterized by its cool mountain air and dense vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -67.144146,
+                        10.364188
+                  ]
+            },
+            {
+                  "name": "Cerro Los Canjilones",
+                  "text": "A rugged mountain in the Macarao park, known for its interesting geological rock structures.",
+                  "category": "natural",
+                  "coords": [
+                        -67.170238,
+                        10.387786
+                  ]
+            },
+            {
+                  "name": "Alto de Flores",
+                  "text": "An observation point in the highlands offering wide panoramic views of the central Venezuelan mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -67.114856,
+                        10.271048
+                  ]
+            },
+            {
+                  "name": "Cerro Cañadote",
+                  "text": "A mountain in the protected area of Macarao, serving as a habitat for numerous native animal species.",
+                  "category": "natural",
+                  "coords": [
+                        -67.138009,
+                        10.282829
+                  ]
+            },
+            {
+                  "name": "Cerro Naigua",
+                  "text": "A distinctive peak near Los Teques, surrounded by protected pine and cloud forests.",
+                  "category": "natural",
+                  "coords": [
+                        -67.050076,
+                        10.279641
+                  ]
+            },
+            {
+                  "name": "Cerro La Cruz",
+                  "text": "A peak that often serves as a local landmark, towering over the forested slopes of Miranda.",
+                  "category": "natural",
+                  "coords": [
+                        -67.037652,
+                        10.371576
+                  ]
+            },
+            {
+                  "name": "Topo Los Azulitos",
+                  "text": "A small mountain in the Macarao National Park, valued for its hiking trails and the peace away from the city.",
+                  "category": "natural",
+                  "coords": [
+                        -67.099385,
+                        10.419992
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Cecilio Acosta",
+                  "text": "An arts center in Los Teques named after the famous writer Cecilio Acosta, promoting local art.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.042548,
+                        10.348896
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Cecilio Acosta",
+                  "text": "A versatile complex in Los Teques for theater performances and musical presentations of the region.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.041335,
+                        10.346634
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Los Teques",
+                  "text": "An open-air stage in Los Teques, regularly used for public concerts and cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.037412,
+                        10.356158
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A small village church in the mountain region, which is an important meeting point for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.179732,
+                        10.356873
+                  ]
+            },
+            {
+                  "name": "La Capilla De La Virgen",
+                  "text": "A peaceful small chapel dedicated to the Virgin Mary, idyllically located in the highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.092841,
+                        10.316924
+                  ]
+            },
+            {
+                  "name": "Chicharronera Pozo de Rosas",
+                  "text": "A religious site in the picturesque village of Pozo de Rosas, known for its calm atmosphere surrounded by greenery.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.11052,
+                        10.350532
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehova",
+                  "text": "A meeting place of Jehovah's Witnesses in the Miranda region for religious instruction and community.",
+                  "category": "religious",
+                  "coords": [
+                        -67.041173,
+                        10.353087
+                  ]
+            },
+            {
+                  "name": "Salon del Reino",
+                  "text": "A simple Christian devotional space that serves the local population as a place of prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.040871,
+                        10.341258
+                  ]
+            },
+            {
+                  "name": "Iglesia del Carmen",
+                  "text": "A church dedicated to the Virgin of Mount Carmel, serving as a spiritual anchor in the community.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.041447,
+                        10.342519
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A meetinghouse of The Church of Jesus Christ of Latter-day Saints for the local Mormon community.",
+                  "category": "religious",
+                  "coords": [
+                        -67.038145,
+                        10.342899
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juán Bosco",
+                  "text": "This modern church in Los Teques serves the Salesian community in the El Vigía neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -67.036384,
+                        10.352335
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Los Teques",
+                  "text": "A bustling commercial hub in Los Teques known for its wide array of fresh local produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.058398,
+                        10.353207
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark Macarao", hu: "Macarao Nemzeti Park", ro: "Parcul Național Macarao", en: "Macarao National Park" },
@@ -587,7 +5078,52 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-cinaruco-capanaparo-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-dinira-life-v2",
+    id: "venezuela-parque-nacional-dinira-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Cendé",
+                  "text": "Der Pico Cendé ist einer der höchsten Gipfel in den venezolanischen Anden und liegt im Nationalpark Dinira.",
+                  "category": "natural",
+                  "coords": [
+                        -70.123651,
+                        9.523708
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Cendé",
+                  "text": "A Pico Cendé a venezuelai Andok egyik legmagasabb csúcsa, amely a Dinira Nemzeti Parkban található.",
+                  "category": "natural",
+                  "coords": [
+                        -70.123651,
+                        9.523708
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Cendé",
+                  "text": "Pico Cendé este unul dintre cele mai înalte vârfuri din Anzii venezueleni, situat în Parcul Național Dinira.",
+                  "category": "natural",
+                  "coords": [
+                        -70.123651,
+                        9.523708
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Cendé",
+                  "text": "Pico Cendé is one of the highest peaks in the Venezuelan Andes, located within the Dinira National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -70.123651,
+                        9.523708
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark Dinira", hu: "Dinira Nemzeti Park", ro: "Parcul Național Dinira", en: "Dinira National Park" },
@@ -632,7 +5168,1276 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-dinira-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-chorro-el-indio-life-v2",
+    id: "venezuela-parque-nacional-chorro-el-indio-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia Divino Redentor",
+                  "text": "Eine bemerkenswerte katholische Kirche in San Cristóbal, die sich durch traditionelle religiöse Architektur auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -72.222486,
+                        7.754493
+                  ]
+            },
+            {
+                  "name": "Basílica Nuestra Señora de la Consolación",
+                  "text": "Eine bedeutende Basilica minor in Táriba, die Unserer Lieben Frau des Trostes gewidmet ist und als wichtiger regionaler Wallfahrtsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        -72.226506,
+                        7.817975
+                  ]
+            },
+            {
+                  "name": "Iglesia San José",
+                  "text": "Eine markante katholische Kirche in San Cristóbal, die regelmäßig Messen und spirituelle Gemeindedienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -72.230377,
+                        7.767191
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ermita de San Juan Bautista",
+                  "text": "Eine historisch bedeutsame katholische Kirche in San Cristóbal, die Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -72.233317,
+                        7.773172
+                  ]
+            },
+            {
+                  "name": "Paramo Moraleño",
+                  "text": "Ein hochgelegener Gipfel im Ökosystem der venezolanischen Anden, gekennzeichnet durch typische Páramo-Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -72.150915,
+                        7.779484
+                  ]
+            },
+            {
+                  "name": "Páramo El Pino",
+                  "text": "Ein Berggipfel in der Region des Nationalparks Chorro El Indio, der weite Ausblicke auf die andine Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.137622,
+                        7.805524
+                  ]
+            },
+            {
+                  "name": "Loma de Buey",
+                  "text": "Ein Gipfel im bergigen Gelände in der Nähe von San Cristóbal, der bei lokalen Wanderern wegen seiner rauen Pfade beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -72.113287,
+                        7.873914
+                  ]
+            },
+            {
+                  "name": "BORDES Galeria Café",
+                  "text": "Eine unabhängige Kunstgalerie und ein Café in San Cristóbal, die lokale zeitgenössische Kunst und Kultur fördern.",
+                  "category": "museum",
+                  "coords": [
+                        -72.2269,
+                        7.771185
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Visuales del Táchira",
+                  "text": "Ein regionales Museum in San Cristóbal, das der Erhaltung und Ausstellung der bildenden Kunst des Bundesstaates Táchira gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -72.233324,
+                        7.765188
+                  ]
+            },
+            {
+                  "name": "Ateneo del Táchira",
+                  "text": "Eine historische Kulturinstitution in San Cristóbal, in der literarische Veranstaltungen, Kunstausstellungen und intellektuelle Zusammenkünfte stattfinden.",
+                  "category": "museum",
+                  "coords": [
+                        -72.232455,
+                        7.768806
+                  ]
+            },
+            {
+                  "name": "Museo del Táchira",
+                  "text": "Ein umfassendes Museum in San Cristóbal, das die Archäologie, Geschichte und Folklore der Region Táchira präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -72.20006,
+                        7.798013
+                  ]
+            },
+            {
+                  "name": "Monumento a Nuestros Ancestros",
+                  "text": "Ein skulpturales Denkmal in der Gegend von San Cristóbal, das an die indigenen Vorfahren und das Erbe der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -72.232161,
+                        7.776141
+                  ]
+            },
+            {
+                  "name": "Monumento Antonio José de Sucre",
+                  "text": "Ein öffentliches Denkmal in San Cristóbal zu Ehren des venezolanischen Unabhängigkeitsführers Antonio José de Sucre.",
+                  "category": "historical",
+                  "coords": [
+                        -72.222146,
+                        7.81837
+                  ]
+            },
+            {
+                  "name": "Monumento al Ciclista Tachirense",
+                  "text": "Ein markantes Denkmal in San Cristóbal, das die tiefe kulturelle Leidenschaft und die Erfolge des Bundesstaates im Radsport feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -72.199556,
+                        7.785059
+                  ]
+            },
+            {
+                  "name": "Campamento de trabajadores 1995",
+                  "text": "Die Überreste eines Arbeiterlagers aus dem Jahr 1995 in der natürlichen Umgebung der Region des Nationalparks Chorro El Indio.",
+                  "category": "historical",
+                  "coords": [
+                        -72.103565,
+                        7.818849
+                  ]
+            },
+            {
+                  "name": "Monumento a Leonardo Ruiz Pineda",
+                  "text": "Ein Gedenkmonument für den venezolanischen Politiker Leonardo Ruiz Pineda in San Cristóbal.",
+                  "category": "historical",
+                  "coords": [
+                        -72.230684,
+                        7.776023
+                  ]
+            },
+            {
+                  "name": "Centro de Convenciones del Sambil",
+                  "text": "Ein großes, modernes Kunst- und Kongresszentrum im Sambil-Einkaufszentrum in San Cristóbal.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.234677,
+                        7.792302
+                  ]
+            },
+            {
+                  "name": "Auditorio B",
+                  "text": "Ein spezieller Auditorium-Raum in San Cristóbal, der für lokale Theateraufführungen und Bürgerversammlungen ausgestattet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.199893,
+                        7.793942
+                  ]
+            },
+            {
+                  "name": "Teatro Alí Primera",
+                  "text": "Ein Kulturtheater in San Cristóbal, benannt nach dem berühmten venezolanischen Singer-Songwriter Alí Primera.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.202107,
+                        7.786867
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein offenes oder halboffenes Amphitheater in San Cristóbal, das für Gemeindespektakel und Konzerte konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.228612,
+                        7.770309
+                  ]
+            },
+            {
+                  "name": "Gilberto Mendoza",
+                  "text": "Ein lokales Theater oder ein Auditorium in San Cristóbal, das kulturelle Vorführungen und Gemeindeveranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.222854,
+                        7.755528
+                  ]
+            },
+            {
+                  "name": "Teatro Luis Hurtado Higuera",
+                  "text": "Ein Theater für darstellende Kunst in San Cristóbal, das einen markanten Veranstaltungsort für dramatische Kunst und Kulturfestivals bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.232886,
+                        7.788458
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Ultimos dias",
+                  "text": "Ein Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage mit moderner mormonischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -72.212449,
+                        7.77134
+                  ]
+            },
+            {
+                  "name": "pequeña capilla antes de bajar a potosi",
+                  "text": "Eine kleine, rustikale Wegkapelle an der Bergstraße kurz vor dem Abstieg nach Potosí.",
+                  "category": "religious",
+                  "coords": [
+                        -72.119352,
+                        7.829738
+                  ]
+            },
+            {
+                  "name": "capilla paramo las mayitas",
+                  "text": "Eine kleine Kultstätte in den hochgelegenen, nebligen Páramos der Region Las Mayitas.",
+                  "category": "religious",
+                  "coords": [
+                        -72.120309,
+                        7.834203
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Fátima",
+                  "text": "Eine katholische Kirche, die Unserer Lieben Frau von Fátima gewidmet ist und der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -72.210987,
+                        7.763754
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein bescheidener Königreichssaal der Zeugen Jehovas, der für das Bibelstudium und Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -72.205425,
+                        7.763864
+                  ]
+            },
+            {
+                  "name": "Capilla del Ahorcado",
+                  "text": "Eine kleine, traditionelle Wegkapelle mit einem einzigartigen historischen Namen, die lokale katholische Gläubige anzieht.",
+                  "category": "religious",
+                  "coords": [
+                        -72.218384,
+                        7.771177
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "Eine katholische Kirche, die Unserer Lieben Frau auf dem Berge Karmel gewidmet ist und ein einfaches lokales Design aufweist.",
+                  "category": "religious",
+                  "coords": [
+                        -72.227569,
+                        7.758506
+                  ]
+            },
+            {
+                  "name": "Iglesia Nazareno",
+                  "text": "Eine christliche Kirche der Nazarener-Gemeinschaft, in der wöchentliche evangelische Gottesdienste stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        -72.188901,
+                        7.81015
+                  ]
+            },
+            {
+                  "name": "Perea",
+                  "text": "Ein lokaler Marktplatz, auf dem Händler zusammenkommen, um regionale Waren und tägliche Lebensmittel zu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.229352,
+                        7.838479
+                  ]
+            },
+            {
+                  "name": "Mercado municipal",
+                  "text": "Ein belebter städtischer Markt mit Ständen, die frische Produkte, lokales Fleisch und traditionelle Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.224285,
+                        7.839372
+                  ]
+            },
+            {
+                  "name": "Mercado La Ermita",
+                  "text": "Ein Nachbarschaftsmarkt im historischen Viertel La Ermita, bekannt für traditionelle venezolanische Snacks und Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.234187,
+                        7.774082
+                  ]
+            },
+            {
+                  "name": "Mercado Periférico Santa Teresa",
+                  "text": "Ein lebhafter Peripheriemarkt in Santa Teresa, der frisches Obst, Gemüse und Dinge des täglichen Bedarfs bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.221595,
+                        7.802439
+                  ]
+            },
+            {
+                  "name": "Mercado La Guayana",
+                  "text": "Ein Stadtviertelmarkt im Gebiet La Guayana, auf dem Einheimische frische Produkte und regionale Spezialitäten kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.227146,
+                        7.780965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia Divino Redentor",
+                  "text": "Egy figyelemre méltó katolikus templom San Cristóbalban, amely hagyományos vallási építészettel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        -72.222486,
+                        7.754493
+                  ]
+            },
+            {
+                  "name": "Basílica Nuestra Señora de la Consolación",
+                  "text": "Egy jelentős basilica minor Táribában, amelyet a Vigasztaló Miasszonyunknak szenteltek, és fontos regionális zarándokhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -72.226506,
+                        7.817975
+                  ]
+            },
+            {
+                  "name": "Iglesia San José",
+                  "text": "Kiemelkedő katolikus templom San Cristóbalban, amely rendszeres miséket és spirituális közösségi szolgáltatásokat kínál.",
+                  "category": "religious",
+                  "coords": [
+                        -72.230377,
+                        7.767191
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ermita de San Juan Bautista",
+                  "text": "Történelmileg jelentős katolikus templom San Cristóbalban, amelyet Keresztelő Szent Jánosnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -72.233317,
+                        7.773172
+                  ]
+            },
+            {
+                  "name": "Paramo Moraleño",
+                  "text": "Magasan fekvő csúcs a venezuelai Andok ökoszisztémájában, amelyet tipikus páramo növényzet jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -72.150915,
+                        7.779484
+                  ]
+            },
+            {
+                  "name": "Páramo El Pino",
+                  "text": "Hegycsúcs a Chorro El Indio Nemzeti Park régiójában, ahonnan pazar kilátás nyílik az andoki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.137622,
+                        7.805524
+                  ]
+            },
+            {
+                  "name": "Loma de Buey",
+                  "text": "Hegycsúcs San Cristóbal közelében a hegyvidéki terepen, amely zord ösvényei miatt népszerű a helyi túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        -72.113287,
+                        7.873914
+                  ]
+            },
+            {
+                  "name": "BORDES Galeria Café",
+                  "text": "Független művészeti galéria és kávézó San Cristóbalban, amely a helyi kortárs művészetet és kultúrát népszerűsíti.",
+                  "category": "museum",
+                  "coords": [
+                        -72.2269,
+                        7.771185
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Visuales del Táchira",
+                  "text": "Regionális múzeum San Cristóbalban, amelyet Táchira állam vizuális művészetének megőrzésének és kiállításának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -72.233324,
+                        7.765188
+                  ]
+            },
+            {
+                  "name": "Ateneo del Táchira",
+                  "text": "Történelmi kulturális intézmény San Cristóbalban, amely irodalmi eseményeknek, művészeti kiállításoknak és értelmiségi összejöveteleknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -72.232455,
+                        7.768806
+                  ]
+            },
+            {
+                  "name": "Museo del Táchira",
+                  "text": "Egy átfogó múzeum San Cristóbalban, amely Táchira régió régészetét, történelmét és folklórját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -72.20006,
+                        7.798013
+                  ]
+            },
+            {
+                  "name": "Monumento a Nuestros Ancestros",
+                  "text": "Szobormű San Cristóbal térségében, amely a régió őslakos őseinek és örökségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -72.232161,
+                        7.776141
+                  ]
+            },
+            {
+                  "name": "Monumento Antonio José de Sucre",
+                  "text": "Köztéri emlékmű San Cristóbalban a venezuelai függetlenségi vezető, Antonio José de Sucre tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -72.222146,
+                        7.81837
+                  ]
+            },
+            {
+                  "name": "Monumento al Ciclista Tachirense",
+                  "text": "Egy kiemelkedő emlékmű San Cristóbalban, amely az állam kerékpározás iránti mély kulturális szenvedélyét és eredményeit ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -72.199556,
+                        7.785059
+                  ]
+            },
+            {
+                  "name": "Campamento de trabajadores 1995",
+                  "text": "Egy 1995-ös munkástábor maradványai a Chorro El Indio Nemzeti Park régiójának természetes környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        -72.103565,
+                        7.818849
+                  ]
+            },
+            {
+                  "name": "Monumento a Leonardo Ruiz Pineda",
+                  "text": "Emlékmű a venezuelai politikai vezető, Leonardo Ruiz Pineda tiszteletére San Cristóbalban.",
+                  "category": "historical",
+                  "coords": [
+                        -72.230684,
+                        7.776023
+                  ]
+            },
+            {
+                  "name": "Centro de Convenciones del Sambil",
+                  "text": "Egy nagy, modern művészeti és kongresszusi központ a San Cristóbal-i Sambil bevásárlóközpont komplexumában.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.234677,
+                        7.792302
+                  ]
+            },
+            {
+                  "name": "Auditorio B",
+                  "text": "Dedikált előadóterem San Cristóbalban, amely helyi színházi előadásokhoz és polgári találkozókhoz van felszerelve.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.199893,
+                        7.793942
+                  ]
+            },
+            {
+                  "name": "Teatro Alí Primera",
+                  "text": "Kulturális színház San Cristóbalban, amelyet a híres venezuelai énekes-dalszerzőről, Alí Primeráról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.202107,
+                        7.786867
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Nyitott vagy félig zárt amfiteátrum San Cristóbalban, amelyet közösségi látványosságokra és koncertekre terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.228612,
+                        7.770309
+                  ]
+            },
+            {
+                  "name": "Gilberto Mendoza",
+                  "text": "Helyi színház vagy előadóterem San Cristóbalban, amely kulturális bemutatóknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.222854,
+                        7.755528
+                  ]
+            },
+            {
+                  "name": "Teatro Luis Hurtado Higuera",
+                  "text": "Előadóművészeti színház San Cristóbalban, amely kiemelkedő helyszínt biztosít a drámai művészeteknek és a kulturális fesztiváloknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.232886,
+                        7.788458
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Ultimos dias",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza gyülekezeti háza modern mormon építészeti stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        -72.212449,
+                        7.77134
+                  ]
+            },
+            {
+                  "name": "pequeña capilla antes de bajar a potosi",
+                  "text": "Egy kis, rusztikus útmenti kápolna a hegyi út mentén, közvetlenül a Potosíba való leereszkedés előtt.",
+                  "category": "religious",
+                  "coords": [
+                        -72.119352,
+                        7.829738
+                  ]
+            },
+            {
+                  "name": "capilla paramo las mayitas",
+                  "text": "Egy kis istentiszteleti hely a Las Mayitas régió magasan fekvő, ködös paramo vidékén.",
+                  "category": "religious",
+                  "coords": [
+                        -72.120309,
+                        7.834203
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Fátima",
+                  "text": "A Fátimai Szűzanyának szentelt katolikus templom, amely rendszeres szertatásokkal szolgálja a helyi egyházközséget.",
+                  "category": "religious",
+                  "coords": [
+                        -72.210987,
+                        7.763754
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi szerény Királyság-terme, amelyet közösségi bibliatanulmányozásra és imádatra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -72.205425,
+                        7.763864
+                  ]
+            },
+            {
+                  "name": "Capilla del Ahorcado",
+                  "text": "Egy egyedi történelmi nevű, kis méretű hagyományos útmenti kápolna, amely vonzza a helyi katolikus hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        -72.218384,
+                        7.771177
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "A Kármel-hegyi Boldogasszonynak szentelt katolikus templom, amely egyszerű helyi építészeti stílussal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -72.227569,
+                        7.758506
+                  ]
+            },
+            {
+                  "name": "Iglesia Nazareno",
+                  "text": "A Názáreti Egyház keresztény temploma, amely heti evangéliumi istentiszteleteknek és közösségi programoknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -72.188901,
+                        7.81015
+                  ]
+            },
+            {
+                  "name": "Perea",
+                  "text": "Helyi piaci központ, ahol a kereskedők regionális áruk és napi élelmiszerek árusítására gyűlnek össze.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.229352,
+                        7.838479
+                  ]
+            },
+            {
+                  "name": "Mercado municipal",
+                  "text": "Nyüzsgő városi piac, amelynek standjai friss termékeket, helyi húsokat és hagyományos árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.224285,
+                        7.839372
+                  ]
+            },
+            {
+                  "name": "Mercado La Ermita",
+                  "text": "Egy környékbeli piac a történelmi La Ermita negyedben, amely hagyományos venezuelai harapnivalóiról és kézműves termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.234187,
+                        7.774082
+                  ]
+            },
+            {
+                  "name": "Mercado Periférico Santa Teresa",
+                  "text": "Élénk külvárosi piac Santa Teresában, amely friss gyümölcsöket, zöldségeket és mindennapi háztartási cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.221595,
+                        7.802439
+                  ]
+            },
+            {
+                  "name": "Mercado La Guayana",
+                  "text": "Egy környékbeli piac La Guayana területén, ahol a helyiek friss termékeket és regionális különlegességeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.227146,
+                        7.780965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia Divino Redentor",
+                  "text": "O biserică catolică notabilă situată în San Cristóbal, cu o arhitectură religioasă tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -72.222486,
+                        7.754493
+                  ]
+            },
+            {
+                  "name": "Basílica Nuestra Señora de la Consolación",
+                  "text": "O importantă basilică minoră din Táriba, dedicată Maicii Domnului a Mângâierii, servind ca un important loc de pelerinaj regional.",
+                  "category": "religious",
+                  "coords": [
+                        -72.226506,
+                        7.817975
+                  ]
+            },
+            {
+                  "name": "Iglesia San José",
+                  "text": "O biserică catolică proeminentă din San Cristóbal, care oferă liturghii regulate și servicii comunitare spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        -72.230377,
+                        7.767191
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ermita de San Juan Bautista",
+                  "text": "O biserică catolică cu semnificație istorică din San Cristóbal, dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        -72.233317,
+                        7.773172
+                  ]
+            },
+            {
+                  "name": "Paramo Moraleño",
+                  "text": "Un vârf de mare altitudine în ecosistemul Anzilor Venezueleni, caracterizat prin vegetație tipică de páramo.",
+                  "category": "natural",
+                  "coords": [
+                        -72.150915,
+                        7.779484
+                  ]
+            },
+            {
+                  "name": "Páramo El Pino",
+                  "text": "Un vârf muntos în regiunea Parcului Național Chorro El Indio, care oferă vederi panoramice asupra peisajului andin.",
+                  "category": "natural",
+                  "coords": [
+                        -72.137622,
+                        7.805524
+                  ]
+            },
+            {
+                  "name": "Loma de Buey",
+                  "text": "Un vârf în terenul muntos de lângă San Cristóbal, popular printre excursioniștii locali pentru traseele sale accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        -72.113287,
+                        7.873914
+                  ]
+            },
+            {
+                  "name": "BORDES Galeria Café",
+                  "text": "O galerie de artă independentă și o cafenea în San Cristóbal, care promovează arta și cultura contemporană locală.",
+                  "category": "museum",
+                  "coords": [
+                        -72.2269,
+                        7.771185
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Visuales del Táchira",
+                  "text": "Un muzeu regional în San Cristóbal dedicat conservării și expunerii artelor vizuale din statul Táchira.",
+                  "category": "museum",
+                  "coords": [
+                        -72.233324,
+                        7.765188
+                  ]
+            },
+            {
+                  "name": "Ateneo del Táchira",
+                  "text": "O instituție culturală istorică din San Cristóbal care găzduiește evenimente literare, expoziții de artă și întâlniri intelectuale.",
+                  "category": "museum",
+                  "coords": [
+                        -72.232455,
+                        7.768806
+                  ]
+            },
+            {
+                  "name": "Museo del Táchira",
+                  "text": "Un muzeu cuprinzător din San Cristóbal care prezintă arheologia, istoria și folclorul regiunii Táchira.",
+                  "category": "museum",
+                  "coords": [
+                        -72.20006,
+                        7.798013
+                  ]
+            },
+            {
+                  "name": "Monumento a Nuestros Ancestros",
+                  "text": "Un monument sculptural în zona San Cristóbal care comemorează strămoșii și moștenirea indigenă a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -72.232161,
+                        7.776141
+                  ]
+            },
+            {
+                  "name": "Monumento Antonio José de Sucre",
+                  "text": "Un monument public din San Cristóbal care îl onorează pe liderul independenței venezuelene Antonio José de Sucre.",
+                  "category": "historical",
+                  "coords": [
+                        -72.222146,
+                        7.81837
+                  ]
+            },
+            {
+                  "name": "Monumento al Ciclista Tachirense",
+                  "text": "Un monument proeminent în San Cristóbal care celebrează pasiunea culturală profundă a statului și realizările în ciclism.",
+                  "category": "historical",
+                  "coords": [
+                        -72.199556,
+                        7.785059
+                  ]
+            },
+            {
+                  "name": "Campamento de trabajadores 1995",
+                  "text": "Rămășițele unei tabere de muncitori din 1995 situată în cadrul natural al regiunii Parcului Național Chorro El Indio.",
+                  "category": "historical",
+                  "coords": [
+                        -72.103565,
+                        7.818849
+                  ]
+            },
+            {
+                  "name": "Monumento a Leonardo Ruiz Pineda",
+                  "text": "Un monument memorial dedicat liderului politic venezuelean Leonardo Ruiz Pineda, situat în San Cristóbal.",
+                  "category": "historical",
+                  "coords": [
+                        -72.230684,
+                        7.776023
+                  ]
+            },
+            {
+                  "name": "Centro de Convenciones del Sambil",
+                  "text": "Un mare centru de artă modernă și convenții găzduit în complexul comercial Sambil din San Cristóbal.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.234677,
+                        7.792302
+                  ]
+            },
+            {
+                  "name": "Auditorio B",
+                  "text": "Un spațiu de auditoriu dedicat în San Cristóbal, echipat pentru spectacole de teatru locale și întâlniri civice.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.199893,
+                        7.793942
+                  ]
+            },
+            {
+                  "name": "Teatro Alí Primera",
+                  "text": "Un teatru cultural în San Cristóbal numit după renumitul cantautor venezuelean Alí Primera.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.202107,
+                        7.786867
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un amfiteatru în aer liber sau semiînchis în San Cristóbal, conceput pentru spectacole și concerte comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.228612,
+                        7.770309
+                  ]
+            },
+            {
+                  "name": "Gilberto Mendoza",
+                  "text": "Un teatru sau auditoriu local din San Cristóbal care găzduiește expoziții culturale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.222854,
+                        7.755528
+                  ]
+            },
+            {
+                  "name": "Teatro Luis Hurtado Higuera",
+                  "text": "Un teatru de arte spectacolului în San Cristóbal care oferă un loc proeminent pentru artele dramatice și festivalurile culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.232886,
+                        7.788458
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Ultimos dias",
+                  "text": "O casă de adunare a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă, cu o arhitectură mormonă modernă.",
+                  "category": "religious",
+                  "coords": [
+                        -72.212449,
+                        7.77134
+                  ]
+            },
+            {
+                  "name": "pequeña capilla antes de bajar a potosi",
+                  "text": "O mică capelă rustică de la marginea drumului, situată de-a lungul drumului montan chiar înainte de a coborî spre Potosí.",
+                  "category": "religious",
+                  "coords": [
+                        -72.119352,
+                        7.829738
+                  ]
+            },
+            {
+                  "name": "capilla paramo las mayitas",
+                  "text": "Un mic lăcaș de cult situat în paramosul muntos de mare altitudine din regiunea Las Mayitas.",
+                  "category": "religious",
+                  "coords": [
+                        -72.120309,
+                        7.834203
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Fátima",
+                  "text": "O biserică catolică dedicată Maicii Domnului de la Fátima, care deservește parohia locală cu slujbe regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -72.210987,
+                        7.763754
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O sală modestă a Regatului a Martorilor lui Iehova, folosită pentru studiu biblic și închinare în comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -72.205425,
+                        7.763864
+                  ]
+            },
+            {
+                  "name": "Capilla del Ahorcado",
+                  "text": "O mică capelă tradițională de la marginea drumului, cu un nume istoric unic, care atrage credincioșii catolici locali.",
+                  "category": "religious",
+                  "coords": [
+                        -72.218384,
+                        7.771177
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "O biserică catolică dedicată Maicii Domnului de pe Muntele Carmel, cu un design arhitectural local simplu.",
+                  "category": "religious",
+                  "coords": [
+                        -72.227569,
+                        7.758506
+                  ]
+            },
+            {
+                  "name": "Iglesia Nazareno",
+                  "text": "O biserică creștină din confesiunea Nazarineană, care găzduiește slujbe evanghelice săptămânale și programe comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        -72.188901,
+                        7.81015
+                  ]
+            },
+            {
+                  "name": "Perea",
+                  "text": "Un hub comercial local unde vânzătorii se adună pentru a vinde mărfuri regionale și provizii zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.229352,
+                        7.838479
+                  ]
+            },
+            {
+                  "name": "Mercado municipal",
+                  "text": "O piață municipală plină de viață, cu tarabe ce oferă produse proaspete, carne locală și mărfuri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.224285,
+                        7.839372
+                  ]
+            },
+            {
+                  "name": "Mercado La Ermita",
+                  "text": "O piață de cartier din districtul istoric La Ermita, cunoscută pentru gustări tradiționale venezuelene și meșteșuguri.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.234187,
+                        7.774082
+                  ]
+            },
+            {
+                  "name": "Mercado Periférico Santa Teresa",
+                  "text": "O piață periferică plină de viață în Santa Teresa, care oferă fructe proaspete, legume și necesități zilnice de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.221595,
+                        7.802439
+                  ]
+            },
+            {
+                  "name": "Mercado La Guayana",
+                  "text": "O piață de cartier din zona La Guayana, unde localnicii cumpără produse proaspete și specialități regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.227146,
+                        7.780965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia Divino Redentor",
+                  "text": "A notable Catholic church located in San Cristóbal, featuring traditional religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -72.222486,
+                        7.754493
+                  ]
+            },
+            {
+                  "name": "Basílica Nuestra Señora de la Consolación",
+                  "text": "A major minor basilica in Táriba dedicated to Our Lady of Consolation, serving as an important regional pilgrimage site.",
+                  "category": "religious",
+                  "coords": [
+                        -72.226506,
+                        7.817975
+                  ]
+            },
+            {
+                  "name": "Iglesia San José",
+                  "text": "A prominent Catholic church in San Cristóbal offering regular Mass and spiritual community services.",
+                  "category": "religious",
+                  "coords": [
+                        -72.230377,
+                        7.767191
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ermita de San Juan Bautista",
+                  "text": "A historically significant Catholic church in San Cristóbal, dedicated to St. John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        -72.233317,
+                        7.773172
+                  ]
+            },
+            {
+                  "name": "Paramo Moraleño",
+                  "text": "A high-altitude peak within the Venezuelan Andes ecosystem, characterised by typical páramo vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -72.150915,
+                        7.779484
+                  ]
+            },
+            {
+                  "name": "Páramo El Pino",
+                  "text": "A mountainous peak in the Chorro El Indio National Park region, offering sweeping views of the Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -72.137622,
+                        7.805524
+                  ]
+            },
+            {
+                  "name": "Loma de Buey",
+                  "text": "A peak in the mountainous terrain near San Cristóbal, popular among local hikers for its rugged trails.",
+                  "category": "natural",
+                  "coords": [
+                        -72.113287,
+                        7.873914
+                  ]
+            },
+            {
+                  "name": "BORDES gallery and coffee shop",
+                  "text": "An independent art gallery and coffee shop in San Cristóbal, fostering local contemporary art and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -72.2269,
+                        7.771185
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Visuales del Táchira",
+                  "text": "A regional museum in San Cristóbal dedicated to preserving and exhibiting the visual arts of the Táchira state.",
+                  "category": "museum",
+                  "coords": [
+                        -72.233324,
+                        7.765188
+                  ]
+            },
+            {
+                  "name": "Ateneo del Táchira",
+                  "text": "A historic cultural institution in San Cristóbal that hosts literary events, art exhibitions, and intellectual gatherings.",
+                  "category": "museum",
+                  "coords": [
+                        -72.232455,
+                        7.768806
+                  ]
+            },
+            {
+                  "name": "Museo del Táchira",
+                  "text": "A comprehensive museum in San Cristóbal showcasing the archaeology, history, and folklore of the Táchira region.",
+                  "category": "museum",
+                  "coords": [
+                        -72.20006,
+                        7.798013
+                  ]
+            },
+            {
+                  "name": "Monumento a Nuestros Ancestros",
+                  "text": "A sculptural monument in the San Cristóbal area commemorating the region's indigenous ancestors and heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -72.232161,
+                        7.776141
+                  ]
+            },
+            {
+                  "name": "Monumento Antonio José de Sucre",
+                  "text": "A public monument in San Cristóbal honouring the Venezuelan independence leader Antonio José de Sucre.",
+                  "category": "historical",
+                  "coords": [
+                        -72.222146,
+                        7.81837
+                  ]
+            },
+            {
+                  "name": "Monumento al Ciclista Tachirense",
+                  "text": "A prominent monument in San Cristóbal celebrating the state's deep cultural passion and achievements in cycling.",
+                  "category": "historical",
+                  "coords": [
+                        -72.199556,
+                        7.785059
+                  ]
+            },
+            {
+                  "name": "Campamento de trabajadores 1995",
+                  "text": "The remains of a 1995 workers' camp located in the natural setting of the Chorro El Indio National Park region.",
+                  "category": "historical",
+                  "coords": [
+                        -72.103565,
+                        7.818849
+                  ]
+            },
+            {
+                  "name": "Monumento a Leonardo Ruiz Pineda",
+                  "text": "A memorial monument dedicated to the Venezuelan political leader Leonardo Ruiz Pineda, situated in San Cristóbal.",
+                  "category": "historical",
+                  "coords": [
+                        -72.230684,
+                        7.776023
+                  ]
+            },
+            {
+                  "name": "Centro de Convenciones del Sambil",
+                  "text": "A large modern arts and convention centre housed within the Sambil mall complex in San Cristóbal.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.234677,
+                        7.792302
+                  ]
+            },
+            {
+                  "name": "Auditorio B",
+                  "text": "A dedicated auditorium space in San Cristóbal equipped for local theatrical performances and civic meetings.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.199893,
+                        7.793942
+                  ]
+            },
+            {
+                  "name": "Teatro Alí Primera",
+                  "text": "A cultural theatre in San Cristóbal named after the renowned Venezuelan singer-songwriter Alí Primera.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.202107,
+                        7.786867
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An open-air or semi-enclosed amphitheatre in San Cristóbal designed for community spectacles and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.228612,
+                        7.770309
+                  ]
+            },
+            {
+                  "name": "Gilberto Mendoza",
+                  "text": "A local theatre or auditorium venue in San Cristóbal hosting cultural displays and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.222854,
+                        7.755528
+                  ]
+            },
+            {
+                  "name": "Teatro Luis Hurtado Higuera",
+                  "text": "A performing arts theatre in San Cristóbal providing a prominent venue for dramatic arts and cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.232886,
+                        7.788458
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A meetinghouse of the Church of Jesus Christ of Latter-day Saints, featuring modern Mormon architectural lines.",
+                  "category": "religious",
+                  "coords": [
+                        -72.212449,
+                        7.77134
+                  ]
+            },
+            {
+                  "name": "pequeña capilla antes de bajar a potosi",
+                  "text": "A small, rustic wayside chapel located along the mountain road just before descending to Potosí.",
+                  "category": "religious",
+                  "coords": [
+                        -72.119352,
+                        7.829738
+                  ]
+            },
+            {
+                  "name": "capilla paramo las mayitas",
+                  "text": "A small place of worship situated in the high-altitude, misty paramos of the Las Mayitas region.",
+                  "category": "religious",
+                  "coords": [
+                        -72.120309,
+                        7.834203
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Fátima",
+                  "text": "A Catholic church dedicated to Our Lady of Fátima, serving the local parish with regular services.",
+                  "category": "religious",
+                  "coords": [
+                        -72.210987,
+                        7.763754
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A modest Kingdom Hall of Jehovah's Witnesses used for community Bible study and worship.",
+                  "category": "religious",
+                  "coords": [
+                        -72.205425,
+                        7.763864
+                  ]
+            },
+            {
+                  "name": "Capilla del Ahorcado",
+                  "text": "A small traditional wayside chapel with a unique historical name, attracting local Catholic devotees.",
+                  "category": "religious",
+                  "coords": [
+                        -72.218384,
+                        7.771177
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "A Catholic church dedicated to Our Lady of Mount Carmel, featuring a simple local architectural design.",
+                  "category": "religious",
+                  "coords": [
+                        -72.227569,
+                        7.758506
+                  ]
+            },
+            {
+                  "name": "Iglesia Nazareno",
+                  "text": "A Christian church of the Nazarene denomination, hosting weekly evangelical services and community programs.",
+                  "category": "religious",
+                  "coords": [
+                        -72.188901,
+                        7.81015
+                  ]
+            },
+            {
+                  "name": "Perea",
+                  "text": "A local market hub where vendors gather to sell regional goods and daily provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.229352,
+                        7.838479
+                  ]
+            },
+            {
+                  "name": "Mercado municipal",
+                  "text": "A bustling municipal market filled with stalls offering fresh produce, local meats, and traditional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.224285,
+                        7.839372
+                  ]
+            },
+            {
+                  "name": "Mercado La Ermita",
+                  "text": "A neighborhood marketplace in the historic La Ermita district, known for traditional Venezuelan snacks and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.234187,
+                        7.774082
+                  ]
+            },
+            {
+                  "name": "Mercado Periférico Santa Teresa",
+                  "text": "A lively peripheral market in Santa Teresa, providing fresh fruits, vegetables, and everyday household necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.221595,
+                        7.802439
+                  ]
+            },
+            {
+                  "name": "Mercado La Guayana",
+                  "text": "A neighborhood market in the La Guayana area, where locals shop for fresh produce and regional specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.227146,
+                        7.780965
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark Chorro El Indio", hu: "Chorro El Indio Nemzeti Park", ro: "Parcul Național Chorro El Indio", en: "Chorro El Indio National Park" },
@@ -677,7 +6482,340 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-chorro-el-indio-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-tapo-caparo-life-v2",
+    id: "venezuela-parque-nacional-tapo-caparo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico de Urumo",
+                  "text": "Ein malerischer Berggipfel inmitten der geschützten Nebelwälder des Nationalparks Tapo-Caparo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.443405,
+                        8.160368
+                  ]
+            },
+            {
+                  "name": "Cerro Las Aguadas",
+                  "text": "Ein hoher Gipfel in der Tapo-Caparo-Gebirgskette, umgeben von dichter tropischer Vegetation und Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        -71.457524,
+                        8.153528
+                  ]
+            },
+            {
+                  "name": "Cerro El Guamal",
+                  "text": "Ein markanter Berggipfel im Nationalpark Tapo-Caparo, bekannt für seine Rolle beim Schutz lokaler Flusseinzugsgebiete.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517949,
+                        8.105415
+                  ]
+            },
+            {
+                  "name": "Cerro Coromoto",
+                  "text": "Ein bewaldeter Berggipfel im Nationalpark Tapo-Caparo, benannt zu Ehren Unserer Lieben Frau von Coromoto.",
+                  "category": "natural",
+                  "coords": [
+                        -71.496577,
+                        8.113658
+                  ]
+            },
+            {
+                  "name": "Cerro El Viejo",
+                  "text": "Ein steiler und rauer Gipfel im Nationalpark Tapo-Caparo, der einen Panoramablick über das umliegende Reservat bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529,
+                        8.089079
+                  ]
+            },
+            {
+                  "name": "Cerro Morotuto",
+                  "text": "Ein markanter Berggipfel in den dichten Nebelwäldern des Nationalparks Tapo-Caparo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.451495,
+                        8.052728
+                  ]
+            },
+            {
+                  "name": "Cerro Tenerife",
+                  "text": "Ein hoher Gipfel in der Sierra de Mérida, der für seine reiche Artenvielfalt im Nationalpark bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.554728,
+                        8.090417
+                  ]
+            },
+            {
+                  "name": "Iglesia Canaguá",
+                  "text": "Eine katholische Kirche in der Bergregion von Canaguá, die als religiöses Zentrum der lokalen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.45969,
+                        8.125357
+                  ]
+            },
+            {
+                  "name": "Capilla José Greogrio Hernández",
+                  "text": "Eine dem verehrten venezolanischen „Arzt der Armen“ gewidmete Kapelle in der Nähe des Nationalparks.",
+                  "category": "religious",
+                  "coords": [
+                        -71.443865,
+                        8.126651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico de Urumo",
+                  "text": "Egy látványos hegycsúcs a Tapo-Caparo Nemzeti Park védett köderdeiben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.443405,
+                        8.160368
+                  ]
+            },
+            {
+                  "name": "Cerro Las Aguadas",
+                  "text": "A Tapo-Caparo hegylánc egyik magas csúcsa, amelyet sűrű trópusi növényzet és túraútvonalak vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        -71.457524,
+                        8.153528
+                  ]
+            },
+            {
+                  "name": "Cerro El Guamal",
+                  "text": "Kiemelkedő hegycsúcs a Tapo-Caparo Nemzeti Parkban, amely a helyi folyók vízgyűjtő területeinek védelmében játszott szerepéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517949,
+                        8.105415
+                  ]
+            },
+            {
+                  "name": "Cerro Coromoto",
+                  "text": "Erdős hegycsúcs a Tapo-Caparo Nemzeti Parkban, amelyet a Coromotói Szűzanya tiszteletére neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -71.496577,
+                        8.113658
+                  ]
+            },
+            {
+                  "name": "Cerro El Viejo",
+                  "text": "Meredek és zord csúcs a Tapo-Caparo Nemzeti Parkban, amely panorámás kilátást nyújt a környező rezervátumra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529,
+                        8.089079
+                  ]
+            },
+            {
+                  "name": "Cerro Morotuto",
+                  "text": "A Tapo-Caparo Nemzeti Park sűrű köderdőiben magasodó hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -71.451495,
+                        8.052728
+                  ]
+            },
+            {
+                  "name": "Cerro Tenerife",
+                  "text": "A Sierra de Mérida egyik magas csúcsa, amely a nemzeti park gazdag élővilágáról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.554728,
+                        8.090417
+                  ]
+            },
+            {
+                  "name": "Iglesia Canaguá",
+                  "text": "Római katolikus templom Canaguá hegyvidéki régiójában, amely a helyi közösség hitéleti központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.45969,
+                        8.125357
+                  ]
+            },
+            {
+                  "name": "Capilla José Greogrio Hernández",
+                  "text": "A tisztelt venezuelai „szegények orvosának” szentelt kápolna a nemzeti park közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -71.443865,
+                        8.126651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico de Urumo",
+                  "text": "Un vârf montan pitoresc situat în pădurile de ceață protejate din Parcul Național Tapo-Caparo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.443405,
+                        8.160368
+                  ]
+            },
+            {
+                  "name": "Cerro Las Aguadas",
+                  "text": "Un vârf înalt din lanțul muntos Tapo-Caparo, înconjurat de vegetație tropicală densă și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        -71.457524,
+                        8.153528
+                  ]
+            },
+            {
+                  "name": "Cerro El Guamal",
+                  "text": "Un vârf montan proeminent din Parcul Național Tapo-Caparo, cunoscut pentru rolul său în protejarea bazinelor hidrografice locale.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517949,
+                        8.105415
+                  ]
+            },
+            {
+                  "name": "Cerro Coromoto",
+                  "text": "Un vârf montan împădurit din Parcul Național Tapo-Caparo, numit în onoarea Maicii Domnului de la Coromoto.",
+                  "category": "natural",
+                  "coords": [
+                        -71.496577,
+                        8.113658
+                  ]
+            },
+            {
+                  "name": "Cerro El Viejo",
+                  "text": "Un vârf abrupt și accidentat din Parcul Național Tapo-Caparo, care oferă vederi panoramice asupra rezervației înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529,
+                        8.089079
+                  ]
+            },
+            {
+                  "name": "Cerro Morotuto",
+                  "text": "Un vârf muntos proeminent în pădurile tropicale de ceață ale Parcului Național Tapo-Caparo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.451495,
+                        8.052728
+                  ]
+            },
+            {
+                  "name": "Cerro Tenerife",
+                  "text": "Un vârf înalt din Sierra de Mérida, cunoscut pentru biodiversitatea sa bogată din parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        -71.554728,
+                        8.090417
+                  ]
+            },
+            {
+                  "name": "Iglesia Canaguá",
+                  "text": "O biserică catolică din regiunea montană Canaguá, servind ca centru religios al comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.45969,
+                        8.125357
+                  ]
+            },
+            {
+                  "name": "Capilla José Greogrio Hernández",
+                  "text": "O capelă dedicată veneratului „doctor al săracilor” din Venezuela, situată în apropierea parcului național.",
+                  "category": "religious",
+                  "coords": [
+                        -71.443865,
+                        8.126651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico de Urumo",
+                  "text": "A scenic mountain peak located within the protected cloud forests of Tapo-Caparo National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -71.443405,
+                        8.160368
+                  ]
+            },
+            {
+                  "name": "Cerro Las Aguadas",
+                  "text": "A high peak in the Tapo-Caparo mountain range, surrounded by dense tropical vegetation and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        -71.457524,
+                        8.153528
+                  ]
+            },
+            {
+                  "name": "Cerro El Guamal",
+                  "text": "A prominent mountain peak in Tapo-Caparo National Park, known for its role in protecting local river watersheds.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517949,
+                        8.105415
+                  ]
+            },
+            {
+                  "name": "Cerro Coromoto",
+                  "text": "A forested mountain peak in Tapo-Caparo National Park, named in honor of Our Lady of Coromoto.",
+                  "category": "natural",
+                  "coords": [
+                        -71.496577,
+                        8.113658
+                  ]
+            },
+            {
+                  "name": "Cerro El Viejo",
+                  "text": "A steep and rugged peak within Tapo-Caparo National Park, offering panoramic views over the surrounding reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529,
+                        8.089079
+                  ]
+            },
+            {
+                  "name": "Cerro Morotuto",
+                  "text": "A prominent mountain peak rising within the dense cloud forests of Tapo-Caparo National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -71.451495,
+                        8.052728
+                  ]
+            },
+            {
+                  "name": "Cerro Tenerife",
+                  "text": "A high peak in the Sierra de Mérida, known for its rich biodiversity within the national park.",
+                  "category": "natural",
+                  "coords": [
+                        -71.554728,
+                        8.090417
+                  ]
+            },
+            {
+                  "name": "Iglesia Canaguá",
+                  "text": "A Catholic church in the mountainous Canaguá region, serving as a religious center for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.45969,
+                        8.125357
+                  ]
+            },
+            {
+                  "name": "Capilla José Greogrio Hernández",
+                  "text": "A chapel dedicated to the revered Venezuelan \"doctor of the poor,\" located near the national park.",
+                  "category": "religious",
+                  "coords": [
+                        -71.443865,
+                        8.126651
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark Tapo-Caparo", hu: "Tapo-Caparo Nemzeti Park", ro: "Parcul Național Tapo-Caparo", en: "Tapo-Caparo National Park" },
@@ -901,7 +7039,196 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-turuépano-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-cueva-de-la-quebrada-del-toro-life-v2",
+    id: "venezuela-parque-nacional-cueva-de-la-quebrada-del-toro-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Chubiscal",
+                  "text": "Ein schroffer Gipfel in der Nähe des Cueva de la Quebrada del Toro Parks, bekannt für seine Kalksteinformationen.",
+                  "category": "natural",
+                  "coords": [
+                        -69.024611,
+                        10.8183
+                  ]
+            },
+            {
+                  "name": "Cerro La Piedra",
+                  "text": "Dieser felsige Berg bietet eine hervorragende Aussicht auf das Karstsystem und die unterirdischen Flüsse von Falcón.",
+                  "category": "natural",
+                  "coords": [
+                        -69.10851,
+                        10.829997
+                  ]
+            },
+            {
+                  "name": "Cerro El Chuco",
+                  "text": "Der Cerro El Chuco ist eine markante Erhebung im Nationalpark, die von dichter tropischer Vegetation umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        -69.121985,
+                        10.878909
+                  ]
+            },
+            {
+                  "name": "Cerro La Sabana",
+                  "text": "Diese Anhöhe überblickt die Plateaus und Höhleneingänge des Nationalparks Cueva de la Quebrada del Toro.",
+                  "category": "natural",
+                  "coords": [
+                        -69.075465,
+                        10.883693
+                  ]
+            },
+            {
+                  "name": "Cerro Campamento",
+                  "text": "Ein Gipfel in der Sierra de Falcón, der oft als Orientierungspunkt für Wanderer im Nationalpark dient.",
+                  "category": "natural",
+                  "coords": [
+                        -69.070423,
+                        10.875369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Chubiscal",
+                  "text": "Egy zord csúcs a Cueva de la Quebrada del Toro park közelében, amely mészkőképződményeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -69.024611,
+                        10.8183
+                  ]
+            },
+            {
+                  "name": "Cerro La Piedra",
+                  "text": "Ez a sziklás hegy kiváló kilátást nyújt Falcón karsztrendszerére és földalatti folyóira.",
+                  "category": "natural",
+                  "coords": [
+                        -69.10851,
+                        10.829997
+                  ]
+            },
+            {
+                  "name": "Cerro El Chuco",
+                  "text": "A Cerro El Chuco a nemzeti park egyik jellegzetes magaslata, amelyet sűrű trópusi növényzet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        -69.121985,
+                        10.878909
+                  ]
+            },
+            {
+                  "name": "Cerro La Sabana",
+                  "text": "Ez a domb a Cueva de la Quebrada del Toro Nemzeti Park fennsíkjaira és barlangbejárataira néz.",
+                  "category": "natural",
+                  "coords": [
+                        -69.075465,
+                        10.883693
+                  ]
+            },
+            {
+                  "name": "Cerro Campamento",
+                  "text": "A Sierra de Falcón egyik csúcsa, amely gyakran szolgál tájékozódási pontként a nemzeti park túrázói számára.",
+                  "category": "natural",
+                  "coords": [
+                        -69.070423,
+                        10.875369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Chubiscal",
+                  "text": "Un vârf accidentat lângă parcul Cueva de la Quebrada del Toro, cunoscut pentru formațiunile sale calcaroase.",
+                  "category": "natural",
+                  "coords": [
+                        -69.024611,
+                        10.8183
+                  ]
+            },
+            {
+                  "name": "Cerro La Piedra",
+                  "text": "Acest munte stâncos oferă o vedere excelentă asupra sistemului carstic și a râurilor subterane din Falcón.",
+                  "category": "natural",
+                  "coords": [
+                        -69.10851,
+                        10.829997
+                  ]
+            },
+            {
+                  "name": "Cerro El Chuco",
+                  "text": "Cerro El Chuco este o înălțime proeminentă din parcul național, înconjurată de vegetație tropicală densă.",
+                  "category": "natural",
+                  "coords": [
+                        -69.121985,
+                        10.878909
+                  ]
+            },
+            {
+                  "name": "Cerro La Sabana",
+                  "text": "Această colină oferă o vedere de ansamblu asupra podișurilor și intrărilor în peșteri din Parcul Național Cueva de la Quebrada del Toro.",
+                  "category": "natural",
+                  "coords": [
+                        -69.075465,
+                        10.883693
+                  ]
+            },
+            {
+                  "name": "Cerro Campamento",
+                  "text": "Un vârf din Sierra de Falcón, care servește adesea ca punct de reper pentru excursioniștii din parcul național.",
+                  "category": "natural",
+                  "coords": [
+                        -69.070423,
+                        10.875369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Chubiscal",
+                  "text": "A rugged peak near the Cueva de la Quebrada del Toro park, known for its limestone formations.",
+                  "category": "natural",
+                  "coords": [
+                        -69.024611,
+                        10.8183
+                  ]
+            },
+            {
+                  "name": "Cerro La Piedra",
+                  "text": "This rocky mountain offers an excellent view of Falcón's karst system and underground rivers.",
+                  "category": "natural",
+                  "coords": [
+                        -69.10851,
+                        10.829997
+                  ]
+            },
+            {
+                  "name": "Cerro El Chuco",
+                  "text": "Cerro El Chuco is a prominent elevation in the national park surrounded by dense tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -69.121985,
+                        10.878909
+                  ]
+            },
+            {
+                  "name": "Cerro La Sabana",
+                  "text": "This hill overlooks the plateaus and cave entrances of the Cueva de la Quebrada del Toro National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -69.075465,
+                        10.883693
+                  ]
+            },
+            {
+                  "name": "Cerro Campamento",
+                  "text": "A peak in the Sierra de Falcón that often serves as a landmark for hikers in the national park.",
+                  "category": "natural",
+                  "coords": [
+                        -69.070423,
+                        10.875369
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark Cueva de la Quebrada del Toro", hu: "Cueva de la Quebrada del Toro Nemzeti Park", ro: "Parcul Național Cueva de la Quebrada del Toro", en: "Cueva de la Quebrada del Toro National Park" },
@@ -946,7 +7273,124 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-cueva-de-la-quebrada-del-toro-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-yacambú-life-v2",
+    id: "venezuela-parque-nacional-yacambú-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Santa Ana",
+                  "text": "Dieser markante Berg im Nationalpark Yacambú bietet spektakuläre Ausblicke über die dichten Nebelwälder von Lara.",
+                  "category": "natural",
+                  "coords": [
+                        -69.47917,
+                        9.514122
+                  ]
+            },
+            {
+                  "name": "Reserva Natural",
+                  "text": "Dieses Schutzgebiet im Yacambú-Nationalpark bewahrt die reiche Artenvielfalt und die wichtigen Wasserquellen der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -69.42703,
+                        9.617095
+                  ]
+            },
+            {
+                  "name": "Cerro Pelón",
+                  "text": "Der Cerro Pelón ist ein kahler Berggipfel in Yacambú, der für sein schroffes Gelände und seine Panoramawege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -69.42205,
+                        9.559449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Santa Ana",
+                  "text": "Ez a jellegzetes hegy a Yacambú Nemzeti Parkban látványos kilátást nyújt Lara sűrű köderdőire.",
+                  "category": "natural",
+                  "coords": [
+                        -69.47917,
+                        9.514122
+                  ]
+            },
+            {
+                  "name": "Reserva Natural",
+                  "text": "Ez a Yacambú Nemzeti Parkban található védett terület megőrzi a régió gazdag biodiverzitását és fontos vízforrásait.",
+                  "category": "natural",
+                  "coords": [
+                        -69.42703,
+                        9.617095
+                  ]
+            },
+            {
+                  "name": "Cerro Pelón",
+                  "text": "A Cerro Pelón egy kopár hegycsúcs Yacambúban, amely zord terepéről és panorámás ösvényeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -69.42205,
+                        9.559449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Santa Ana",
+                  "text": "Acest munte proeminent din Parcul Național Yacambú oferă priveliști spectaculoase asupra pădurilor de ceață din Lara.",
+                  "category": "natural",
+                  "coords": [
+                        -69.47917,
+                        9.514122
+                  ]
+            },
+            {
+                  "name": "Reserva Natural",
+                  "text": "Această zonă protejată din Parcul Național Yacambú conservă biodiversitatea bogată și sursele importante de apă ale regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -69.42703,
+                        9.617095
+                  ]
+            },
+            {
+                  "name": "Cerro Pelón",
+                  "text": "Cerro Pelón este un vârf muntos pleșuv din Yacambú, cunoscut pentru terenul său accidentat și potecile panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        -69.42205,
+                        9.559449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Santa Ana",
+                  "text": "This prominent mountain in Yacambú National Park offers spectacular views over the dense cloud forests of Lara.",
+                  "category": "natural",
+                  "coords": [
+                        -69.47917,
+                        9.514122
+                  ]
+            },
+            {
+                  "name": "Reserva Natural",
+                  "text": "This protected area within Yacambú National Park preserves the region's rich biodiversity and vital water sources.",
+                  "category": "natural",
+                  "coords": [
+                        -69.42703,
+                        9.617095
+                  ]
+            },
+            {
+                  "name": "Cerro Pelón",
+                  "text": "Cerro Pelón is a bald mountain peak in Yacambú, known for its rugged terrain and panoramic trails.",
+                  "category": "natural",
+                  "coords": [
+                        -69.42205,
+                        9.559449
+                  ]
+            }
+      ]
+},
     type: "park",
     name: { de: "Nationalpark Yacambú", hu: "Yacambú Nemzeti Park", ro: "Parcul Național Yacambú", en: "Yacambú National Park" },
     coords: [-69.5, 9.6],
@@ -1124,7 +7568,124 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-aguanaro-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-guatopo-life-v2",
+    id: "venezuela-parque-nacional-guatopo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Topo de Aguarramos",
+                  "text": "Ein dicht bewaldeter Gipfel im Nationalpark Guatopo, der für seinen immergrünen tropischen Regenwald bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -66.438875,
+                        10.056565
+                  ]
+            },
+            {
+                  "name": "Morro de Apa",
+                  "text": "Ein charakteristischer Berg in der geschützten Wildnis des Nationalparks Guatopo.",
+                  "category": "natural",
+                  "coords": [
+                        -66.396217,
+                        10.069727
+                  ]
+            },
+            {
+                  "name": "Cerro San Juan",
+                  "text": "Dieser Hochpunkt in Guatopo bietet Lebensraum für zahlreiche tropische Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        -66.44763,
+                        10.147254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Topo de Aguarramos",
+                  "text": "Sűrű erdővel borított csúcs a Guatopo Nemzeti Parkban, amely örökzöld trópusi esőerdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -66.438875,
+                        10.056565
+                  ]
+            },
+            {
+                  "name": "Morro de Apa",
+                  "text": "Jellegzetes hegy a Guatopo Nemzeti Park védett vadonjában.",
+                  "category": "natural",
+                  "coords": [
+                        -66.396217,
+                        10.069727
+                  ]
+            },
+            {
+                  "name": "Cerro San Juan",
+                  "text": "Ez a Guatopo-i magaslat számos trópusi madárfaj számára nyújt élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        -66.44763,
+                        10.147254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Topo de Aguarramos",
+                  "text": "Un vârf dens împădurit din Parcul Național Guatopo, cunoscut pentru pădurea tropicală veșnic verde.",
+                  "category": "natural",
+                  "coords": [
+                        -66.438875,
+                        10.056565
+                  ]
+            },
+            {
+                  "name": "Morro de Apa",
+                  "text": "Un munte caracteristic în sălbăticia protejată a Parcului Național Guatopo.",
+                  "category": "natural",
+                  "coords": [
+                        -66.396217,
+                        10.069727
+                  ]
+            },
+            {
+                  "name": "Cerro San Juan",
+                  "text": "Acest punct înalt din Guatopo oferă habitat pentru numeroase specii de păsări tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -66.44763,
+                        10.147254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Topo de Aguarramos",
+                  "text": "A densely forested peak in Guatopo National Park, known for its evergreen tropical rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -66.438875,
+                        10.056565
+                  ]
+            },
+            {
+                  "name": "Morro de Apa",
+                  "text": "A distinctive mountain within the protected wilderness of Guatopo National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -66.396217,
+                        10.069727
+                  ]
+            },
+            {
+                  "name": "Cerro San Juan",
+                  "text": "This high point in Guatopo provides a habitat for numerous tropical bird species.",
+                  "category": "natural",
+                  "coords": [
+                        -66.44763,
+                        10.147254
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark Guatopo", hu: "Guatopo Nemzeti Park", ro: "Parcul Național Guatopo", en: "Guatopo National Park" },
@@ -1169,7 +7730,52 @@ export const venezuelaLifeV2: POI[] = [
     image: "/poi-images/venezuela-parque-nacional-guatopo-life-v2.webp",
   },
   {
-    id: "venezuela-parque-nacional-san-esteban-life-v2",
+    id: "venezuela-parque-nacional-san-esteban-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Patanemo",
+                  "text": "Dieser malerische Karibikstrand liegt in einer hufeisenförmigen Bucht im San-Esteban-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.923547,
+                        10.453512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Patanemo",
+                  "text": "Ez a festői karibi strand egy patkó alakú öbölben fekszik a San Esteban Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.923547,
+                        10.453512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Patanemo",
+                  "text": "Această plajă pitorească din Caraibe este situată într-un golf în formă de potcoavă din Parcul Național San Esteban.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.923547,
+                        10.453512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Patanemo",
+                  "text": "This scenic Caribbean beach is nestled in a horseshoe-shaped bay within San Esteban National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.923547,
+                        10.453512
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Nationalpark San Esteban", hu: "San Esteban Nemzeti Park", ro: "Parcul Național San Esteban", en: "San Esteban National Park" },

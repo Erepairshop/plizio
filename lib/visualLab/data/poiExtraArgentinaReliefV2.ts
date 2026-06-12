@@ -4,7 +4,196 @@ import type { POI } from "./poi";
 
 export const poiExtraArgentinaReliefV2: POI[] = [
   {
-    id: "volcan-domuyo-relief-v2",
+    id: "volcan-domuyo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Los Tachos",
+                  "text": "Eine geothermische Attraktion mit natürlichen heißen Quellen und Fumarolen nahe der Hänge des Vulkans Domuyo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.545903,
+                        -36.69113
+                  ]
+            },
+            {
+                  "name": "Las Olletas",
+                  "text": "Eine faszinierende geothermische Stätte, die für ihre sprudelnden heißen Becken am Fuß des Vulkans Domuyo bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.58439,
+                        -36.659561
+                  ]
+            },
+            {
+                  "name": "El Humazo",
+                  "text": "Eine markante Fumarole, die Dampf und geothermische Gase in der Vulkanlandschaft des Domuyo ausstößt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.556575,
+                        -36.651243
+                  ]
+            },
+            {
+                  "name": "Capilla de Ahilinco",
+                  "text": "Eine kleine christliche Kapelle, die den abgelegenen Berggemeinden in der Nähe des Vulkans Domuyo dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.609971,
+                        -36.626599
+                  ]
+            },
+            {
+                  "name": "Las Piedras",
+                  "text": "Natürliche heiße Quellen, die aus dem felsigen Gelände entspringen und thermale Bademöglichkeiten in der Nähe des Vulkans Domuyo bieten.",
+                  "category": "natural",
+                  "coords": [
+                        -70.611016,
+                        -36.686146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Los Tachos",
+                  "text": "Egy geotermikus látványosság, amely természetes hőforrásokkal és fumarolákkal büszkélkedhet a Domuyo vulkán lejtőinek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.545903,
+                        -36.69113
+                  ]
+            },
+            {
+                  "name": "Las Olletas",
+                  "text": "Lenyűgöző geotermikus helyszín, amely a Domuyo vulkán lábánál található bugyborékoló forró medencéiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.58439,
+                        -36.659561
+                  ]
+            },
+            {
+                  "name": "El Humazo",
+                  "text": "Egy kiemelkedő fumarola, amely gőzt és geotermikus gázokat bocsát ki a Domuyo vulkanikus táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.556575,
+                        -36.651243
+                  ]
+            },
+            {
+                  "name": "Capilla de Ahilinco",
+                  "text": "Egy kis keresztény kápolna, amely a Domuyo vulkán közelében lévő távoli hegyi közösségeket szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.609971,
+                        -36.626599
+                  ]
+            },
+            {
+                  "name": "Las Piedras",
+                  "text": "A sziklás terepből feltörő természetes hőforrások, amelyek termálfürdőzési lehetőséget kínálnak a Domuyo vulkán közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -70.611016,
+                        -36.686146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Los Tachos",
+                  "text": "O atracție geotermală cu izvoare termale naturale și fumarole în apropierea pantelor vulcanului Domuyo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.545903,
+                        -36.69113
+                  ]
+            },
+            {
+                  "name": "Las Olletas",
+                  "text": "Un sit geotermal fascinant, cunoscut pentru bazinele sale fierbinți care bolborosesc la poalele vulcanului Domuyo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.58439,
+                        -36.659561
+                  ]
+            },
+            {
+                  "name": "El Humazo",
+                  "text": "O fumarolă proeminentă care emite abur și gaze geotermale în peisajul vulcanic de la Domuyo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.556575,
+                        -36.651243
+                  ]
+            },
+            {
+                  "name": "Capilla de Ahilinco",
+                  "text": "O mică capelă creștină care deservește comunitățile montane izolate din apropierea vulcanului Domuyo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.609971,
+                        -36.626599
+                  ]
+            },
+            {
+                  "name": "Las Piedras",
+                  "text": "Izvoare termale naturale care ies din terenul stâncos, oferind băi termale în apropierea vulcanului Domuyo.",
+                  "category": "natural",
+                  "coords": [
+                        -70.611016,
+                        -36.686146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Los Tachos",
+                  "text": "A geothermal attraction featuring natural hot springs and fumaroles near the slopes of the Domuyo volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.545903,
+                        -36.69113
+                  ]
+            },
+            {
+                  "name": "Las Olletas",
+                  "text": "A fascinating geothermal site known for its bubbling hot pools at the foot of the Domuyo volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.58439,
+                        -36.659561
+                  ]
+            },
+            {
+                  "name": "El Humazo",
+                  "text": "A prominent fumarole emitting steam and geothermal gases in the volcanic landscape of Domuyo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.556575,
+                        -36.651243
+                  ]
+            },
+            {
+                  "name": "Capilla de Ahilinco",
+                  "text": "A small Christian chapel serving the remote mountainous communities near the Domuyo volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.609971,
+                        -36.626599
+                  ]
+            },
+            {
+                  "name": "Las Piedras",
+                  "text": "Natural hot springs emerging among the rocky terrain, offering thermal bathing near the Domuyo volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -70.611016,
+                        -36.686146
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-Q",
     coords: [-70.5333, -36.6333],
@@ -52,7 +241,124 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "cerro-mercedario-relief-v2",
+    id: "cerro-mercedario-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Wanda",
+                  "text": "Dieser Berggipfel ist Teil des zerklüfteten Geländes im Gebiet von Cerro Mercedario.",
+                  "category": "natural",
+                  "coords": [
+                        -70.02352,
+                        -31.974179
+                  ]
+            },
+            {
+                  "name": "Fin sendero Arroyo Turquesa",
+                  "text": "Diese Attraktion markiert das Ende des Arroyo Turquesa-Wanderwegs in der Region Cerro Mercedario.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.042362,
+                        -31.949817
+                  ]
+            },
+            {
+                  "name": "Cerro Mercedario",
+                  "text": "Dieser markante Andenberg ist einer der höchsten Gipfel auf dem amerikanischen Kontinent.",
+                  "category": "natural",
+                  "coords": [
+                        -70.113091,
+                        -31.979269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Wanda",
+                  "text": "Ez a hegycsúcs a Cerro Mercedario terület zord terepének része.",
+                  "category": "natural",
+                  "coords": [
+                        -70.02352,
+                        -31.974179
+                  ]
+            },
+            {
+                  "name": "Fin sendero Arroyo Turquesa",
+                  "text": "Ez a látványosság az Arroyo Turquesa ösvény végét jelzi a Cerro Mercedario régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.042362,
+                        -31.949817
+                  ]
+            },
+            {
+                  "name": "Cerro Mercedario",
+                  "text": "Ez a kiemelkedő andoki hegy az amerikai kontinens egyik legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -70.113091,
+                        -31.979269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Wanda",
+                  "text": "Acest vârf de munte face parte din terenul accidentat din zona Cerro Mercedario.",
+                  "category": "natural",
+                  "coords": [
+                        -70.02352,
+                        -31.974179
+                  ]
+            },
+            {
+                  "name": "Fin sendero Arroyo Turquesa",
+                  "text": "Această atracție marchează sfârșitul traseului Arroyo Turquesa din regiunea Cerro Mercedario.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.042362,
+                        -31.949817
+                  ]
+            },
+            {
+                  "name": "Cerro Mercedario",
+                  "text": "Acest munte proeminent din Anzi este unul dintre cele mai înalte vârfuri din America.",
+                  "category": "natural",
+                  "coords": [
+                        -70.113091,
+                        -31.979269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Wanda",
+                  "text": "This mountain peak forms part of the rugged terrain in the Cerro Mercedario area.",
+                  "category": "natural",
+                  "coords": [
+                        -70.02352,
+                        -31.974179
+                  ]
+            },
+            {
+                  "name": "Fin sendero Arroyo Turquesa",
+                  "text": "This attraction marks the end of the Arroyo Turquesa trail in the Cerro Mercedario region.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.042362,
+                        -31.949817
+                  ]
+            },
+            {
+                  "name": "Cerro Mercedario",
+                  "text": "This prominent Andean mountain is one of the highest peaks in the Americas.",
+                  "category": "natural",
+                  "coords": [
+                        -70.113091,
+                        -31.979269
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-J",
     coords: [-70.1167, -31.9667],
@@ -100,7 +406,88 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "volcan-maipo-relief-v2",
+    id: "volcan-maipo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lavas columnares",
+                  "text": "Dieser natürliche Aussichtspunkt bietet einen Blick auf markante sechseckige Basaltsäulen, die durch die uralte Abkühlung von Vulkanlava entstanden sind.",
+                  "category": "natural",
+                  "coords": [
+                        -69.905651,
+                        -34.193554
+                  ]
+            },
+            {
+                  "name": "Cerro Amarillo",
+                  "text": "Dieser Gipfel, der sich durch die gelbliche Färbung seiner Hänge auszeichnet, bietet eine raue Wanderung durch vulkanisches Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        -69.852343,
+                        -34.098761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lavas columnares",
+                  "text": "Ebből a természetes kilátóból lenyűgöző hatszögletű bazaltoszlopokra nyílik kilátás, amelyeket a vulkáni láva ősi lehűlése alakított ki.",
+                  "category": "natural",
+                  "coords": [
+                        -69.905651,
+                        -34.193554
+                  ]
+            },
+            {
+                  "name": "Cerro Amarillo",
+                  "text": "A lejtőinek sárgás árnyalatáról ismert csúcs zord túrát kínál a vulkáni terepen.",
+                  "category": "natural",
+                  "coords": [
+                        -69.852343,
+                        -34.098761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lavas columnares",
+                  "text": "Acest punct de belvedere natural are vedere la coloane izbitoare de bazalt hexagonal, formate prin răcirea antică a lavei vulcanice.",
+                  "category": "natural",
+                  "coords": [
+                        -69.905651,
+                        -34.193554
+                  ]
+            },
+            {
+                  "name": "Cerro Amarillo",
+                  "text": "Distins prin nuanța gălbuie a versanților săi, acest vârf oferă o drumeție accidentată prin teren vulcanic.",
+                  "category": "natural",
+                  "coords": [
+                        -69.852343,
+                        -34.098761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lavas columnares",
+                  "text": "This natural viewpoint overlooks striking hexagonal basalt columns formed by the ancient cooling of volcanic lava.",
+                  "category": "natural",
+                  "coords": [
+                        -69.905651,
+                        -34.193554
+                  ]
+            },
+            {
+                  "name": "Cerro Amarillo",
+                  "text": "Distinguished by the yellowish hue of its slopes, this peak offers a rugged trek through volcanic terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -69.852343,
+                        -34.098761
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-M",
     coords: [-69.8333, -34.1667],
@@ -148,7 +535,88 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "cerro-bonete-chico-relief-v2",
+    id: "cerro-bonete-chico-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peñas Azules",
+                  "text": "Ein schroffer Berggipfel, der Teil des zerklüfteten Andenreliefs in der Nähe des Cerro Bonete Chico ist.",
+                  "category": "natural",
+                  "coords": [
+                        -68.652525,
+                        -27.991954
+                  ]
+            },
+            {
+                  "name": "Cerro Bonete Chico",
+                  "text": "Ein erloschener Vulkan und einer der höchsten Gipfel der Anden in der Provinz La Rioja.",
+                  "category": "natural",
+                  "coords": [
+                        -68.756287,
+                        -28.018823
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peñas Azules",
+                  "text": "Egy zord hegycsúcs, amely a Cerro Bonete Chico közelében lévő andoki domborzat részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -68.652525,
+                        -27.991954
+                  ]
+            },
+            {
+                  "name": "Cerro Bonete Chico",
+                  "text": "Egy kialudt vulkán és az Andok egyik legmagasabb csúcsa La Rioja tartományban.",
+                  "category": "natural",
+                  "coords": [
+                        -68.756287,
+                        -28.018823
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peñas Azules",
+                  "text": "Un vârf de munte accidentat care face parte din relieful andin de lângă Cerro Bonete Chico.",
+                  "category": "natural",
+                  "coords": [
+                        -68.652525,
+                        -27.991954
+                  ]
+            },
+            {
+                  "name": "Cerro Bonete Chico",
+                  "text": "Un vulcan stins și unul dintre cele mai înalte vârfuri din Anzi, situat în provincia La Rioja.",
+                  "category": "natural",
+                  "coords": [
+                        -68.756287,
+                        -28.018823
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peñas Azules",
+                  "text": "A rugged mountain peak forming part of the Andean relief near Cerro Bonete Chico.",
+                  "category": "natural",
+                  "coords": [
+                        -68.652525,
+                        -27.991954
+                  ]
+            },
+            {
+                  "name": "Cerro Bonete Chico",
+                  "text": "An extinct volcano and one of the highest peaks of the Andes in La Rioja province.",
+                  "category": "natural",
+                  "coords": [
+                        -68.756287,
+                        -28.018823
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-F",
     coords: [-68.7500, -28.0167],
@@ -196,7 +664,52 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "tupungato-relief-v2",
+    id: "tupungato-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sitio del accidente del BSAA Star Dust en 1947",
+                  "text": "Diese hochgelegene Gedenkstätte markiert den Absturzort des Fluges BSAA Star Dust am Berg Tupungato im Jahr 1947.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.761111,
+                        -33.370834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sitio del accidente del BSAA Star Dust en 1947",
+                  "text": "Ez a magasan fekvő helyszín az 1947-es BSAA Star Dust járat Tupungato hegyen történt katasztrófájának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.761111,
+                        -33.370834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sitio del accidente del BSAA Star Dust en 1947",
+                  "text": "Acest loc la mare altitudine marchează prăbușirea din 1947 a zborului BSAA Star Dust pe Muntele Tupungato.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.761111,
+                        -33.370834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sitio del accidente del BSAA Star Dust en 1947",
+                  "text": "This high-altitude site marks the 1947 crash location of the BSAA Star Dust flight on Mount Tupungato.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.761111,
+                        -33.370834
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-M",
     coords: [-69.7667, -33.3500],
@@ -244,7 +757,52 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "incahuasi-relief-v2",
+    id: "incahuasi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Ojo de Las Lozas",
+                  "text": "Der Cerro Ojo de Las Lozas ist ein andiner Berggipfel in der Incahuasi-Region und bietet karge Landschaften aus hochgelegenem Fels und Sand.",
+                  "category": "natural",
+                  "coords": [
+                        -68.275505,
+                        -27.107459
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Ojo de Las Lozas",
+                  "text": "A Cerro Ojo de Las Lozas egy andoki hegycsúcs az Incahuasi régióban, amely a magasan fekvő sziklák és homok kietlen tájait nyújtja.",
+                  "category": "natural",
+                  "coords": [
+                        -68.275505,
+                        -27.107459
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Ojo de Las Lozas",
+                  "text": "Cerro Ojo de Las Lozas este un vârf montan andin din regiunea Incahuasi, oferind peisaje aride de stâncă și nisip la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -68.275505,
+                        -27.107459
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Ojo de Las Lozas",
+                  "text": "Cerro Ojo de Las Lozas is an Andean mountain peak in the Incahuasi region, offering stark landscapes of high-altitude rock and sand.",
+                  "category": "natural",
+                  "coords": [
+                        -68.275505,
+                        -27.107459
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-K",
     coords: [-68.2833, -27.0333],
@@ -292,7 +850,52 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "cerro-galan-relief-v2",
+    id: "cerro-galan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Vicuñorco",
+                  "text": "Der Cerro Vicuñorco ist ein markanter Berggipfel, der sich über die Landschaft der Cerro-Galán-Caldera-Region erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -66.853397,
+                        -25.913158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Vicuñorco",
+                  "text": "A Cerro Vicuñorco egy zord hegycsúcs, amely a Cerro Galán kaldera vidékének tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -66.853397,
+                        -25.913158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Vicuñorco",
+                  "text": "Cerro Vicuñorco este un vârf montan accidentat care se înalță deasupra peisajului din regiunea calderei Cerro Galán.",
+                  "category": "natural",
+                  "coords": [
+                        -66.853397,
+                        -25.913158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Vicuñorco",
+                  "text": "Cerro Vicuñorco is a rugged mountain peak towering over the landscape of the Cerro Galán caldera region.",
+                  "category": "natural",
+                  "coords": [
+                        -66.853397,
+                        -25.913158
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-K",
     coords: [-66.8333, -25.9167],
@@ -388,7 +991,160 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     },
   },
   {
-    id: "sierras-de-cordoba-relief-v2",
+    id: "sierras-de-cordoba-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Escalada deportiva - Cerro de la Cruz",
+                  "text": "Ein Sportklettergebiet an den Felswänden des Cerro de la Cruz in den Sierras de Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.795539,
+                        -31.422121
+                  ]
+            },
+            {
+                  "name": "Cerro Mogote",
+                  "text": "Ein Berggipfel, der einen Panoramablick über die Landschaft der Sierras de Córdoba bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -64.806054,
+                        -31.418836
+                  ]
+            },
+            {
+                  "name": "Cascada Salto del Jaime",
+                  "text": "Ein malerischer natürlicher Wasserfall, der in den Sierras de Córdoba in ein felsiges Becken stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.881618,
+                        -31.453446
+                  ]
+            },
+            {
+                  "name": "Cerro la Cara",
+                  "text": "Ein markanter Hügel in den Sierras de Córdoba, der für seine charakteristischen Felsformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.86475,
+                        -31.530574
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Escalada deportiva - Cerro de la Cruz",
+                  "text": "Egy sportmászó terület a Sierras de Córdoba hegységben, a Cerro de la Cruz sziklafalain.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.795539,
+                        -31.422121
+                  ]
+            },
+            {
+                  "name": "Cerro Mogote",
+                  "text": "Egy hegycsúcs, amely panorámás kilátást nyújt a Sierras de Córdoba tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -64.806054,
+                        -31.418836
+                  ]
+            },
+            {
+                  "name": "Cascada Salto del Jaime",
+                  "text": "Egy festői természetes vízesés a Sierras de Córdoba hegységben, amely egy sziklás medencébe zuhan.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.881618,
+                        -31.453446
+                  ]
+            },
+            {
+                  "name": "Cerro la Cara",
+                  "text": "Egy kiemelkedő domb a Sierras de Córdoba hegységben, amely jellegzetes sziklaalakzatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.86475,
+                        -31.530574
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Escalada deportiva - Cerro de la Cruz",
+                  "text": "O zonă de escaladă sportivă amenajată pe fețele stâncoase ale Cerro de la Cruz din Sierras de Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.795539,
+                        -31.422121
+                  ]
+            },
+            {
+                  "name": "Cerro Mogote",
+                  "text": "Un vârf de munte care oferă vederi panoramice asupra peisajului Sierras de Córdoba.",
+                  "category": "natural",
+                  "coords": [
+                        -64.806054,
+                        -31.418836
+                  ]
+            },
+            {
+                  "name": "Cascada Salto del Jaime",
+                  "text": "O cascadă naturală pitorească care se varsă într-un bazin stâncos din Sierras de Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.881618,
+                        -31.453446
+                  ]
+            },
+            {
+                  "name": "Cerro la Cara",
+                  "text": "Un deal proeminent din Sierras de Córdoba, prezentând formațiuni stâncoase distinctive.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.86475,
+                        -31.530574
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Escalada deportiva - Cerro de la Cruz",
+                  "text": "A sports climbing area established on the rocky faces of Cerro de la Cruz in the Sierras de Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.795539,
+                        -31.422121
+                  ]
+            },
+            {
+                  "name": "Cerro Mogote",
+                  "text": "A mountain peak offering panoramic views across the Sierras de Córdoba landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -64.806054,
+                        -31.418836
+                  ]
+            },
+            {
+                  "name": "Cascada Salto del Jaime",
+                  "text": "A scenic natural waterfall plunging into a rocky pool in the Sierras de Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.881618,
+                        -31.453446
+                  ]
+            },
+            {
+                  "name": "Cerro la Cara",
+                  "text": "A prominent hill attraction featuring distinctive rock formations in the Sierras de Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.86475,
+                        -31.530574
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AR-X",
     coords: [-64.8333, -31.5000],
@@ -436,7 +1192,700 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "sierras-de-la-ventana-relief-v2",
+    id: "sierras-de-la-ventana-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cueva de los Guanacos",
+                  "text": "Dieser Aussichtspunkt bietet Blicke von der sogenannten Höhle der Guanakos.",
+                  "category": "natural",
+                  "coords": [
+                        -61.960168,
+                        -38.144633
+                  ]
+            },
+            {
+                  "name": "Sillón del Tres Picos",
+                  "text": "Diese Attraktion ist eine markante Felsformation, die als Sessel der drei Gipfel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.955769,
+                        -38.152733
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über die Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -61.943584,
+                        -38.090347
+                  ]
+            },
+            {
+                  "name": "Museo Histórico",
+                  "text": "Dieses Museum dokumentiert die regionale Geschichte der Bergregion.",
+                  "category": "museum",
+                  "coords": [
+                        -61.953965,
+                        -38.091407
+                  ]
+            },
+            {
+                  "name": "Fuente del Bautismo",
+                  "text": "Diese Attraktion ist eine natürliche Wasserquelle, die als Taufbecken bezeichnet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.957052,
+                        -38.109754
+                  ]
+            },
+            {
+                  "name": "Paredes Blancas",
+                  "text": "Diese Attraktion ist durch ihre auffälligen weißen Felswände geprägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.962791,
+                        -38.109438
+                  ]
+            },
+            {
+                  "name": "Cabeza del Indio",
+                  "text": "Diese Attraktion zeigt eine Felsformation, deren Profil an einen Indianerkopf erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.95227,
+                        -38.108565
+                  ]
+            },
+            {
+                  "name": "Ex -Club Hotel y Casino de la Ventana",
+                  "text": "Diese Attraktion zeigt die Ruinen eines ehemaligen Luxushotels und Casinos in den Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.937435,
+                        -38.103934
+                  ]
+            },
+            {
+                  "name": "Cerro Napostá",
+                  "text": "Dieser markante Berggipfel ist ein beliebtes Ziel für Wanderer in den Sierras.",
+                  "category": "natural",
+                  "coords": [
+                        -61.959915,
+                        -38.132843
+                  ]
+            },
+            {
+                  "name": "El Centinela",
+                  "text": "Diese als der Wächter bekannte Felsformation thront über der Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.943447,
+                        -38.136572
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Picos",
+                  "text": "Dieser Berggipfel ist die höchste Erhebung in der Provinz Buenos Aires.",
+                  "category": "natural",
+                  "coords": [
+                        -61.952416,
+                        -38.158032
+                  ]
+            },
+            {
+                  "name": "Paredes Rosas",
+                  "text": "Diese natürliche Attraktion ist für ihre auffälligen rosa Felswände bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.921439,
+                        -38.171609
+                  ]
+            },
+            {
+                  "name": "Piletones",
+                  "text": "Diese Attraktion besteht aus natürlichen Wasserbecken in der felsigen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.910105,
+                        -38.169523
+                  ]
+            },
+            {
+                  "name": "Cerro Colorado",
+                  "text": "Dieser Berggipfel verdankt seinen Namen der rötlichen Färbung seines Gesteins.",
+                  "category": "natural",
+                  "coords": [
+                        -61.90901,
+                        -38.152437
+                  ]
+            },
+            {
+                  "name": "Cerro de La Carpa",
+                  "text": "Die Form dieses Berggipfels erinnert an ein großes Zelt.",
+                  "category": "natural",
+                  "coords": [
+                        -61.934271,
+                        -38.180414
+                  ]
+            },
+            {
+                  "name": "Cerro Sombra del Toro",
+                  "text": "Dieser Berggipfel trägt den malerischen Namen Schatten des Stiers.",
+                  "category": "natural",
+                  "coords": [
+                        -62.020666,
+                        -38.235009
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico",
+                  "text": "Dieser Aussichtspunkt bietet einen umfassenden Panoramablick auf die umliegenden Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        -61.978255,
+                        -38.140973
+                  ]
+            },
+            {
+                  "name": "Los Ojos del Napostá",
+                  "text": "Diese Naturattraktion besteht aus zwei kreisrunden Wasserbecken, die wie Augen aussehen.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.979432,
+                        -38.132508
+                  ]
+            },
+            {
+                  "name": "Cerro Fundación Funke",
+                  "text": "Dieser Berggipfel befindet sich auf dem Gelände der Funke-Stiftung.",
+                  "category": "natural",
+                  "coords": [
+                        -62.056535,
+                        -38.092863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cueva de los Guanacos",
+                  "text": "Ez a kilátó a Guanacók barlangjaként ismert pontról kínál panorámát.",
+                  "category": "natural",
+                  "coords": [
+                        -61.960168,
+                        -38.144633
+                  ]
+            },
+            {
+                  "name": "Sillón del Tres Picos",
+                  "text": "Ez a látványosság egy jellegzetes sziklaképződmény, amely a Három Csúcs Foteleként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.955769,
+                        -38.152733
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a kilátó széles panorámát nyújt a hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -61.943584,
+                        -38.090347
+                  ]
+            },
+            {
+                  "name": "Museo Histórico",
+                  "text": "Ez a múzeum a hegyvidéki régió helytörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -61.953965,
+                        -38.091407
+                  ]
+            },
+            {
+                  "name": "Fuente del Bautismo",
+                  "text": "Ez a látványosság egy Keresztelőkút néven ismert természetes vízforrás.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.957052,
+                        -38.109754
+                  ]
+            },
+            {
+                  "name": "Paredes Blancas",
+                  "text": "Ezt a látványosságot feltűnő fehér sziklafalai jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.962791,
+                        -38.109438
+                  ]
+            },
+            {
+                  "name": "Cabeza del Indio",
+                  "text": "Ez a látványosság egy sziklaalakzat, amelynek profilja egy indián fejre emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.95227,
+                        -38.108565
+                  ]
+            },
+            {
+                  "name": "Ex -Club Hotel y Casino de la Ventana",
+                  "text": "Ez a látványosság egykori hegyi luxusszálloda és kaszinó romjait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.937435,
+                        -38.103934
+                  ]
+            },
+            {
+                  "name": "Cerro Napostá",
+                  "text": "Ez a kiemelkedő hegycsúcs a Sierras túrázóinak népszerű célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        -61.959915,
+                        -38.132843
+                  ]
+            },
+            {
+                  "name": "El Centinela",
+                  "text": "Ez az Őrszemként ismert sziklaképződmény tornyosul a táj fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.943447,
+                        -38.136572
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Picos",
+                  "text": "Ez a hegycsúcs Buenos Aires tartomány legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -61.952416,
+                        -38.158032
+                  ]
+            },
+            {
+                  "name": "Paredes Rosas",
+                  "text": "Ez a természeti látványosság feltűnő rózsaszín sziklafalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.921439,
+                        -38.171609
+                  ]
+            },
+            {
+                  "name": "Piletones",
+                  "text": "Ez a látványosság a sziklás tájban kialakult természetes vízmedencékből áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.910105,
+                        -38.169523
+                  ]
+            },
+            {
+                  "name": "Cerro Colorado",
+                  "text": "Ez a hegycsúcs a kőzet vöröses színéről kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -61.90901,
+                        -38.152437
+                  ]
+            },
+            {
+                  "name": "Cerro de La Carpa",
+                  "text": "Ennek a hegycsúcsnak az alakja egy nagy sátorra emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -61.934271,
+                        -38.180414
+                  ]
+            },
+            {
+                  "name": "Cerro Sombra del Toro",
+                  "text": "Ez a hegycsúcs a Bika árnyéka festői nevet viseli.",
+                  "category": "natural",
+                  "coords": [
+                        -62.020666,
+                        -38.235009
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico",
+                  "text": "Ez a kilátó átfogó panorámát nyújt a környező dombokra.",
+                  "category": "natural",
+                  "coords": [
+                        -61.978255,
+                        -38.140973
+                  ]
+            },
+            {
+                  "name": "Los Ojos del Napostá",
+                  "text": "Ez a természeti látványosság két kör alakú vízmedencéből áll, amelyek szemre hasonlítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.979432,
+                        -38.132508
+                  ]
+            },
+            {
+                  "name": "Cerro Fundación Funke",
+                  "text": "Ez a hegycsúcs a Funke Alapítvány területén található.",
+                  "category": "natural",
+                  "coords": [
+                        -62.056535,
+                        -38.092863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cueva de los Guanacos",
+                  "text": "Acest punct de belvedere oferă priveliști de la Peștera Guanacilor.",
+                  "category": "natural",
+                  "coords": [
+                        -61.960168,
+                        -38.144633
+                  ]
+            },
+            {
+                  "name": "Sillón del Tres Picos",
+                  "text": "Această atracție este o formațiune stâncoasă proeminentă, cunoscută sub numele de Fotoliul celor Trei Vârfuri.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.955769,
+                        -38.152733
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest punct de belvedere oferă o panoramă largă asupra peisajului montan.",
+                  "category": "natural",
+                  "coords": [
+                        -61.943584,
+                        -38.090347
+                  ]
+            },
+            {
+                  "name": "Museo Histórico",
+                  "text": "Acest muzeu documentează istoria regională a zonei montane.",
+                  "category": "museum",
+                  "coords": [
+                        -61.953965,
+                        -38.091407
+                  ]
+            },
+            {
+                  "name": "Fuente del Bautismo",
+                  "text": "Această atracție este un izvor natural de apă denumit Izvorul Botezului.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.957052,
+                        -38.109754
+                  ]
+            },
+            {
+                  "name": "Paredes Blancas",
+                  "text": "Această atracție se remarcă prin pereții săi stâncoși albi izbitori.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.962791,
+                        -38.109438
+                  ]
+            },
+            {
+                  "name": "Cabeza del Indio",
+                  "text": "Această atracție prezintă o formațiune stâncoasă al cărei profil amintește de capul unui indian.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.95227,
+                        -38.108565
+                  ]
+            },
+            {
+                  "name": "Ex -Club Hotel y Casino de la Ventana",
+                  "text": "Această atracție prezintă ruinele unui fost hotel de lux și cazinou montan.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.937435,
+                        -38.103934
+                  ]
+            },
+            {
+                  "name": "Cerro Napostá",
+                  "text": "Acest vârf de munte proeminent este o destinație populară pentru drumeții din Sierras.",
+                  "category": "natural",
+                  "coords": [
+                        -61.959915,
+                        -38.132843
+                  ]
+            },
+            {
+                  "name": "El Centinela",
+                  "text": "Această formațiune stâncoasă cunoscută sub numele de Santinela domină peisajul.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.943447,
+                        -38.136572
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Picos",
+                  "text": "Acest vârf de munte este cea mai înaltă altitudine din provincia Buenos Aires.",
+                  "category": "natural",
+                  "coords": [
+                        -61.952416,
+                        -38.158032
+                  ]
+            },
+            {
+                  "name": "Paredes Rosas",
+                  "text": "Această atracție naturală este cunoscută pentru pereții săi stâncoși roz vizibili.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.921439,
+                        -38.171609
+                  ]
+            },
+            {
+                  "name": "Piletones",
+                  "text": "Această atracție constă în bazine naturale de apă formate în peisajul stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.910105,
+                        -38.169523
+                  ]
+            },
+            {
+                  "name": "Cerro Colorado",
+                  "text": "Acest vârf de munte își trage numele de la culoarea roșiatică a rocii sale.",
+                  "category": "natural",
+                  "coords": [
+                        -61.90901,
+                        -38.152437
+                  ]
+            },
+            {
+                  "name": "Cerro de La Carpa",
+                  "text": "Forma acestui vârf de munte amintește de un cort mare.",
+                  "category": "natural",
+                  "coords": [
+                        -61.934271,
+                        -38.180414
+                  ]
+            },
+            {
+                  "name": "Cerro Sombra del Toro",
+                  "text": "Acest vârf de munte poartă numele pitoresc de Umbra Taurului.",
+                  "category": "natural",
+                  "coords": [
+                        -62.020666,
+                        -38.235009
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico",
+                  "text": "Acest punct de belvedere oferă o panoramă vastă asupra dealurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -61.978255,
+                        -38.140973
+                  ]
+            },
+            {
+                  "name": "Los Ojos del Napostá",
+                  "text": "Această atracție naturală constă din două bazine circulare de apă care arată ca niște ochi.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.979432,
+                        -38.132508
+                  ]
+            },
+            {
+                  "name": "Cerro Fundación Funke",
+                  "text": "Acest vârf de munte este situat pe terenurile Fundației Funke.",
+                  "category": "natural",
+                  "coords": [
+                        -62.056535,
+                        -38.092863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cueva de los Guanacos",
+                  "text": "This viewpoint offers vistas from the so-called Cave of the Guanacos.",
+                  "category": "natural",
+                  "coords": [
+                        -61.960168,
+                        -38.144633
+                  ]
+            },
+            {
+                  "name": "Sillón del Tres Picos",
+                  "text": "This attraction is a prominent rock formation known as the Armchair of the Three Peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.955769,
+                        -38.152733
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This viewpoint offers a wide panoramic view over the mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -61.943584,
+                        -38.090347
+                  ]
+            },
+            {
+                  "name": "Museo Histórico",
+                  "text": "This museum documents the regional history of the mountain area.",
+                  "category": "museum",
+                  "coords": [
+                        -61.953965,
+                        -38.091407
+                  ]
+            },
+            {
+                  "name": "Fuente del Bautismo",
+                  "text": "This attraction is a natural water spring referred to as the Font of Baptism.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.957052,
+                        -38.109754
+                  ]
+            },
+            {
+                  "name": "Paredes Blancas",
+                  "text": "This attraction is characterized by its striking white rock walls.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.962791,
+                        -38.109438
+                  ]
+            },
+            {
+                  "name": "Cabeza del Indio",
+                  "text": "This attraction features a rock formation whose profile resembles an Indian head.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.95227,
+                        -38.108565
+                  ]
+            },
+            {
+                  "name": "Ex -Club Hotel y Casino de la Ventana",
+                  "text": "This attraction displays the ruins of a former luxury mountain hotel and casino.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.937435,
+                        -38.103934
+                  ]
+            },
+            {
+                  "name": "Cerro Napostá",
+                  "text": "This prominent mountain peak is a popular destination for hikers in the Sierras.",
+                  "category": "natural",
+                  "coords": [
+                        -61.959915,
+                        -38.132843
+                  ]
+            },
+            {
+                  "name": "El Centinela",
+                  "text": "This rock formation known as the Sentinel towers over the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.943447,
+                        -38.136572
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Picos",
+                  "text": "This mountain peak is the highest elevation in the Buenos Aires province.",
+                  "category": "natural",
+                  "coords": [
+                        -61.952416,
+                        -38.158032
+                  ]
+            },
+            {
+                  "name": "Paredes Rosas",
+                  "text": "This natural attraction is known for its conspicuous pink rock walls.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.921439,
+                        -38.171609
+                  ]
+            },
+            {
+                  "name": "Piletones",
+                  "text": "This attraction consists of natural water pools formed in the rocky landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.910105,
+                        -38.169523
+                  ]
+            },
+            {
+                  "name": "Cerro Colorado",
+                  "text": "This mountain peak gets its name from the reddish coloration of its rock.",
+                  "category": "natural",
+                  "coords": [
+                        -61.90901,
+                        -38.152437
+                  ]
+            },
+            {
+                  "name": "Cerro de La Carpa",
+                  "text": "The shape of this mountain peak resembles a large tent.",
+                  "category": "natural",
+                  "coords": [
+                        -61.934271,
+                        -38.180414
+                  ]
+            },
+            {
+                  "name": "Cerro Sombra del Toro",
+                  "text": "This mountain peak bears the picturesque name Bull's Shadow.",
+                  "category": "natural",
+                  "coords": [
+                        -62.020666,
+                        -38.235009
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico",
+                  "text": "This viewpoint offers a comprehensive panoramic view of the surrounding hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.978255,
+                        -38.140973
+                  ]
+            },
+            {
+                  "name": "Los Ojos del Napostá",
+                  "text": "This natural attraction consists of two circular water pools that look like eyes.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.979432,
+                        -38.132508
+                  ]
+            },
+            {
+                  "name": "Cerro Fundación Funke",
+                  "text": "This mountain peak is located on the grounds of the Funke Foundation.",
+                  "category": "natural",
+                  "coords": [
+                        -62.056535,
+                        -38.092863
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AR-B",
     coords: [-62.0000, -38.1667],
@@ -484,7 +1933,1240 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "sistema-de-tandilia-relief-v2",
+    id: "sistema-de-tandilia-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capilla Santa Gemma",
+                  "text": "Die historische Steinkapelle in Tandil zeichnet sich durch ihre schlichte Architektur und ihre friedliche Lage in der argentinischen Hügellandschaft aus.",
+                  "category": "religious",
+                  "coords": [
+                        -59.152644,
+                        -37.328994
+                  ]
+            },
+            {
+                  "name": "Monte Calvario",
+                  "text": "Dieser wichtige Pilgerort verfügt über einen steinernen Kreuzweg, der sich zwischen Eukalyptus- und Pinienbäumen einen Hügel hinaufschlängelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.152267,
+                        -37.327862
+                  ]
+            },
+            {
+                  "name": "Réplica de la Piedra Movediza",
+                  "text": "Diese beeindruckende Nachbildung gedenkt dem berühmten, 1912 herabgestürzten Wackelstein von Tandil und thront wieder auf dem ursprünglichen Berggipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.169531,
+                        -37.309513
+                  ]
+            },
+            {
+                  "name": "Cerro El Centinela",
+                  "text": "Der markante Granitgipfel ragt stolz über die Pampa und ist bekannt für einen kurios balancierenden, vertikalen Felsen an seinem Hang.",
+                  "category": "natural",
+                  "coords": [
+                        -59.171977,
+                        -37.355473
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y la Cultura del Bicentenario",
+                  "text": "Dieses moderne Kulturzentrum widmet sich der Bewahrung und Ausstellung der lokalen Geschichte Tandils durch wechselnde Kunst- und Fotografieausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -59.107239,
+                        -37.306591
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Das städtische Naturkundemuseum beherbergt eine wertvolle Sammlung von Fossilien und Mineralien aus der geologisch alten Region Sistema de Tandilia.",
+                  "category": "museum",
+                  "coords": [
+                        -59.140922,
+                        -37.325055
+                  ]
+            },
+            {
+                  "name": "Museo del Fuerte Indepencia",
+                  "text": "Dieses historische Museum dokumentiert mit zahlreichen Artefakten und Dokumenten die Gründungszeit Tandils als militärische Grenzfestung in der Pampa.",
+                  "category": "museum",
+                  "coords": [
+                        -59.130872,
+                        -37.320539
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Religioso",
+                  "text": "Das Museum für sakrale Kunst präsentiert in seinen Vitrinen antike Gewänder, Kruzifixe und religiöse Malereien aus der Geschichte der örtlichen Diözesen.",
+                  "category": "museum",
+                  "coords": [
+                        -59.136112,
+                        -37.329744
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Bellas Artes",
+                  "text": "Das städtische Kunstmuseum zeigt eine bemerkenswerte Sammlung argentinischer Malerei und Skulpturen, mit einem Fokus auf regionale Künstler des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        -59.137305,
+                        -37.330361
+                  ]
+            },
+            {
+                  "name": "Museo Vehiculos de Epoca",
+                  "text": "In dieser Halle können Autoliebhaber liebevoll restaurierte Oldtimer und historische Motorräder bewundern, die auf den argentinischen Straßen einst unterwegs waren.",
+                  "category": "museum",
+                  "coords": [
+                        -59.129194,
+                        -37.331036
+                  ]
+            },
+            {
+                  "name": "Granero 66",
+                  "text": "Dieses originelle Technik- und Transportmuseum ist in einer alten Scheune untergebracht und stellt nostalgische landwirtschaftliche Maschinen und Werkzeuge aus.",
+                  "category": "museum",
+                  "coords": [
+                        -59.111796,
+                        -37.36969
+                  ]
+            },
+            {
+                  "name": "Castillo Morisco",
+                  "text": "Die im maurischen Stil erbaute Burgfestung thront auf dem Parque Independencia und ist ein beliebtes Wahrzeichen, das von der spanischen Einwanderung erzählt.",
+                  "category": "castle",
+                  "coords": [
+                        -59.137764,
+                        -37.340319
+                  ]
+            },
+            {
+                  "name": "Cuna de la Aviacion",
+                  "text": "Das Denkmal feiert die argentinische Luftfahrtgeschichte und steht symbolträchtig an einem Ort, der eng mit den frühen Fliegerpionieren der Region verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -59.137654,
+                        -37.335858
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Diese sanfte Steinskulptur im öffentlichen Raum würdigt die universelle Rolle der Mutter und stellt eine klassische Frauengestalt mit einem Kind in den Armen dar.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132067,
+                        -37.336702
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Fugl",
+                  "text": "Das Denkmal ehrt den dänischen Einwanderer Juan Fugl, der im 19. Jahrhundert entscheidend zur Entwicklung der Landwirtschaft und Bildung in Tandil beitrug.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132405,
+                        -37.342557
+                  ]
+            },
+            {
+                  "name": "Monumento a Facundo Cabral",
+                  "text": "Die Gedenkstätte erinnert an den berühmten argentinischen Cantautor und Poeten Facundo Cabral und dessen tiefgründiges musikalisches Erbe.",
+                  "category": "historical",
+                  "coords": [
+                        -59.10487,
+                        -37.32297
+                  ]
+            },
+            {
+                  "name": "Monumento al Gaucho",
+                  "text": "Diese bronzene Reiterstatue verkörpert den Geist des südamerikanischen Gauchos und feiert die traditionelle Reiter- und Rinderkultur der argentinischen Pampa.",
+                  "category": "historical",
+                  "coords": [
+                        -59.118561,
+                        -37.315264
+                  ]
+            },
+            {
+                  "name": "Monumento a Manuel Belgrano",
+                  "text": "Die würdevolle Statue erinnert an General Manuel Belgrano, den Schöpfer der argentinischen Nationalflagge und einen der wichtigsten Befreier des Landes.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127921,
+                        -37.326525
+                  ]
+            },
+            {
+                  "name": "Denominación de Origen Tandil",
+                  "text": "Dieses markante Wahrzeichen zelebriert die regionale gastronomische Identität Tandils, das besonders für seine exzellenten Wurstwaren und handwerklichen Käsesorten landesweit bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -59.116732,
+                        -37.313648
+                  ]
+            },
+            {
+                  "name": "Monumento Santiago Selvetti",
+                  "text": "Die Gedenkplatte ehrt Santiago Selvetti und sein beständiges Wirken für die infrastrukturelle Entwicklung und das lokale Wohl der Stadt Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.144988,
+                        -37.313194
+                  ]
+            },
+            {
+                  "name": "Avión Mirage",
+                  "text": "Auf einem Sockel präsentiert, erinnert dieses ausgemusterte Mirage-Kampfflugzeug an die argentinische Luftwaffe und die in Tandil stationierte Flugbrigade.",
+                  "category": "historical",
+                  "coords": [
+                        -59.158348,
+                        -37.311608
+                  ]
+            },
+            {
+                  "name": "Cruz Monte Calvario (12)",
+                  "text": "Dieses große Kruzifix markiert die zwölfte Station des Kreuzwegs auf dem Monte Calvario und lädt Pilger inmitten der bewaldeten Hügel zum Gebet ein.",
+                  "category": "historical",
+                  "coords": [
+                        -59.154949,
+                        -37.328835
+                  ]
+            },
+            {
+                  "name": "Monumento al Comerciante de Tandil",
+                  "text": "Die Skulptur würdigt die harte Arbeit und den Pioniergeist der lokalen Händler, die maßgeblich zum wirtschaftlichen Wachstum der Gemeinde beigetragen haben.",
+                  "category": "historical",
+                  "coords": [
+                        -59.130049,
+                        -37.341914
+                  ]
+            },
+            {
+                  "name": "Fuente de los Vascos",
+                  "text": "Der Brunnen der Basken ist ein steinernes Denkmal, das den baskischen Einwanderern in der Region Tandilia Tribut zollt.",
+                  "category": "historical",
+                  "coords": [
+                        -59.138338,
+                        -37.342966
+                  ]
+            },
+            {
+                  "name": "Monumento Eduardo Aldasoro",
+                  "text": "Das Eduardo-Aldasoro-Denkmal ist eine lokale Gedenkstätte im Tandilia-Gebiet, die dem Erbe dieser bemerkenswerten regionalen Persönlichkeit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -59.128811,
+                        -37.350641
+                  ]
+            },
+            {
+                  "name": "Monumento a El Fundidor",
+                  "text": "Dieses Denkmal aus Metallguss ehrt die traditionellen Schmelzer und Metallarbeiter, die zur industriellen Entwicklung der Region beigetragen haben.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127128,
+                        -37.342952
+                  ]
+            },
+            {
+                  "name": "Monumento al Libertador José de San Martín",
+                  "text": "Ein stolzes bürgerliches Denkmal, das dem Befreier José de San Martín gewidmet ist und eine klassische Darstellung des südamerikanischen Helden auf einem Steinsockel zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -59.121114,
+                        -37.332625
+                  ]
+            },
+            {
+                  "name": "Centro Clandestino \"Quinta de los Méndez\"",
+                  "text": "Dieses ehemalige geheime Internierungslager dient heute als feierliches Mahnmal der Erinnerung an die Opfer der Militärdiktatur.",
+                  "category": "historical",
+                  "coords": [
+                        -59.082879,
+                        -37.334809
+                  ]
+            },
+            {
+                  "name": "Almacén La Porteña",
+                  "text": "Dieses erhaltene historische Kaufmannsgebäude im Tandilia-System steht als architektonisches Denkmal für den frühen ländlichen Handel.",
+                  "category": "historical",
+                  "coords": [
+                        -59.199276,
+                        -37.348663
+                  ]
+            },
+            {
+                  "name": "Portada del Parque Independencia",
+                  "text": "Der kunstvolle Granitbogen dient als monumentaler Eingang zum Parque Independencia und empfängt die Besucher an den grünen Hängen.",
+                  "category": "historical",
+                  "coords": [
+                        -59.137819,
+                        -37.33866
+                  ]
+            },
+            {
+                  "name": "Teatro de la Confraternidad Ferroviaria",
+                  "text": "Dieses historische Theater, das von der Bruderschaft der Eisenbahner erbaut wurde, ist bis heute Schauplatz regionaler Theateraufführungen und kultureller Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.134553,
+                        -37.314299
+                  ]
+            },
+            {
+                  "name": "Incubadora de Arte",
+                  "text": "Dieser Kunst-Inkubator ist in einem umgenutzten Gebäude untergebracht und bietet gemeinschaftliche Atelierräume und Galerien für aufstrebende lokale Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135934,
+                        -37.310579
+                  ]
+            },
+            {
+                  "name": "Cervantes, Club De teatro",
+                  "text": "Der Cervantes Theatre Club ist ein intimer Veranstaltungsort in der Stadt, der für seine Aufführungen unabhängiger und experimenteller Stücke bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136285,
+                        -37.32691
+                  ]
+            },
+            {
+                  "name": "\"El Club del Teatro\"",
+                  "text": "\"El Club del Teatro\" bietet eine gemütliche Bühne für lokale Theatertruppen und fördert das Engagement der Gemeinde durch regelmäßige Theater-Workshops und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.138587,
+                        -37.328242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capilla Santa Gemma",
+                  "text": "A tandili történelmi kőkápolnát egyszerű építészete és békés elhelyezkedése jellemzi az argentin dombvidéken.",
+                  "category": "religious",
+                  "coords": [
+                        -59.152644,
+                        -37.328994
+                  ]
+            },
+            {
+                  "name": "Monte Calvario",
+                  "text": "Ez a fontos zarándokhely egy kőből épült keresztúttal büszkélkedhet, amely eukaliptusz- és fenyőfák között kanyarog fel egy dombra.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.152267,
+                        -37.327862
+                  ]
+            },
+            {
+                  "name": "Réplica de la Piedra Movediza",
+                  "text": "Ez a lenyűgöző másolat az 1912-ben lezuhant híres tandili mozgó kőnek állít emléket, és ismét az eredeti hegycsúcson trónol.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.169531,
+                        -37.309513
+                  ]
+            },
+            {
+                  "name": "Cerro El Centinela",
+                  "text": "A jellegzetes gránitcsúcs büszkén emelkedik a pampa fölé, és a lejtőjén lévő furcsán egyensúlyozó, függőleges szikláról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -59.171977,
+                        -37.355473
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y la Cultura del Bicentenario",
+                  "text": "Ez a modern kulturális központ Tandil helyi történelmének megőrzésének és bemutatásának szenteli magát időszaki művészeti és fotókiállításokon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        -59.107239,
+                        -37.306591
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "A városi természettudományi múzeum értékes kövület- és ásványgyűjteménynek ad otthont a geológiailag ősi Sistema de Tandilia régióból.",
+                  "category": "museum",
+                  "coords": [
+                        -59.140922,
+                        -37.325055
+                  ]
+            },
+            {
+                  "name": "Museo del Fuerte Indepencia",
+                  "text": "Ez a történelmi múzeum számos tárggyal és dokumentummal mutatja be Tandil alapításának idejét, amikor a pampa katonai határállomása volt.",
+                  "category": "museum",
+                  "coords": [
+                        -59.130872,
+                        -37.320539
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Religioso",
+                  "text": "A szakrális művészetek múzeuma vitrinjeiben antik ruhákat, feszületeket és vallási festményeket mutat be a helyi egyházmegyék történetéből.",
+                  "category": "museum",
+                  "coords": [
+                        -59.136112,
+                        -37.329744
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Bellas Artes",
+                  "text": "A városi művészeti múzeum az argentin festészet és szobrászat figyelemre méltó gyűjteményét mutatja be, a 20. századi regionális művészekre összpontosítva.",
+                  "category": "museum",
+                  "coords": [
+                        -59.137305,
+                        -37.330361
+                  ]
+            },
+            {
+                  "name": "Museo Vehiculos de Epoca",
+                  "text": "Ebben a csarnokban az autórajongók szeretettel felújított veterán autókat és történelmi motorkerékpárokat csodálhatnak meg, amelyek egykor az argentin utakon jártak.",
+                  "category": "museum",
+                  "coords": [
+                        -59.129194,
+                        -37.331036
+                  ]
+            },
+            {
+                  "name": "Granero 66",
+                  "text": "Ez az eredeti technikai és közlekedési múzeum egy régi pajtában kapott helyet, és nosztalgikus mezőgazdasági gépeket és szerszámokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -59.111796,
+                        -37.36969
+                  ]
+            },
+            {
+                  "name": "Castillo Morisco",
+                  "text": "A mór stílusban épült várerőd a Parque Independencia parkban trónol, és a spanyol bevándorlásról mesélő népszerű nevezetesség.",
+                  "category": "castle",
+                  "coords": [
+                        -59.137764,
+                        -37.340319
+                  ]
+            },
+            {
+                  "name": "Cuna de la Aviacion",
+                  "text": "Az emlékmű az argentin repülés történetét ünnepli, és szimbolikusan egy olyan helyen áll, amely szorosan kapcsolódik a régió korai repülési úttörőihez.",
+                  "category": "historical",
+                  "coords": [
+                        -59.137654,
+                        -37.335858
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Ez a közterületen található lágy kőszobor az anya egyetemes szerepe előtt tiszteleg, és egy klasszikus nőalakot ábrázol karjaiban gyermekével.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132067,
+                        -37.336702
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Fugl",
+                  "text": "Az emlékmű a dán bevándorló, Juan Fugl előtt tiszteleg, aki a 19. században jelentősen hozzájárult a tandili mezőgazdaság és oktatás fejlesztéséhez.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132405,
+                        -37.342557
+                  ]
+            },
+            {
+                  "name": "Monumento a Facundo Cabral",
+                  "text": "Az emlékhely a híres argentin énekes-dalszerző és költő, Facundo Cabral és mélyreható zenei öröksége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -59.10487,
+                        -37.32297
+                  ]
+            },
+            {
+                  "name": "Monumento al Gaucho",
+                  "text": "Ez a bronz lovasszobor a dél-amerikai gaucho szellemét testesíti meg, és az argentin pampa hagyományos lovas- és szarvasmarhakultúráját ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -59.118561,
+                        -37.315264
+                  ]
+            },
+            {
+                  "name": "Monumento a Manuel Belgrano",
+                  "text": "A méltóságteljes szobor Manuel Belgrano tábornoknak, az argentin nemzeti zászló megalkotójának és az ország egyik legfontosabb felszabadítójának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127921,
+                        -37.326525
+                  ]
+            },
+            {
+                  "name": "Denominación de Origen Tandil",
+                  "text": "Ez a feltűnő nevezetesség Tandil regionális gasztronómiai identitását ünnepli, amely különösen kiváló felvágottairól és kézműves sajtjairól ismert országszerte.",
+                  "category": "historical",
+                  "coords": [
+                        -59.116732,
+                        -37.313648
+                  ]
+            },
+            {
+                  "name": "Monumento Santiago Selvetti",
+                  "text": "Az emléktábla Santiago Selvetti előtt tiszteleg, és annak tartós munkásságát dicséri Tandil város infrastrukturális fejlesztése és a helyi jólét érdekében.",
+                  "category": "historical",
+                  "coords": [
+                        -59.144988,
+                        -37.313194
+                  ]
+            },
+            {
+                  "name": "Avión Mirage",
+                  "text": "Az emelvényen bemutatott, forgalomból kivont Mirage vadászrepülőgép az argentin légierőre és a Tandilban állomásozó repülődandárra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -59.158348,
+                        -37.311608
+                  ]
+            },
+            {
+                  "name": "Cruz Monte Calvario (12)",
+                  "text": "Ez a nagy feszület jelzi a keresztút tizenkettedik állomását a Monte Calvario-n, és imádságra hívja a zarándokokat az erdős dombok között.",
+                  "category": "historical",
+                  "coords": [
+                        -59.154949,
+                        -37.328835
+                  ]
+            },
+            {
+                  "name": "Monumento al Comerciante de Tandil",
+                  "text": "A szobor a helyi kereskedők kemény munkáját és úttörő szellemét díjazza, akik jelentősen hozzájárultak a közösség gazdasági növekedéséhez.",
+                  "category": "historical",
+                  "coords": [
+                        -59.130049,
+                        -37.341914
+                  ]
+            },
+            {
+                  "name": "Fuente de los Vascos",
+                  "text": "A Baszkok kútja egy kőből épült emlékmű, amely a Tandilia régióban letelepedett baszk bevándorlók előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -59.138338,
+                        -37.342966
+                  ]
+            },
+            {
+                  "name": "Monumento Eduardo Aldasoro",
+                  "text": "Az Eduardo Aldasoro emlékmű egy helyi emlékhely a Tandilia régióban, amelyet e jelentős regionális személyiség örökségének megőrzésére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        -59.128811,
+                        -37.350641
+                  ]
+            },
+            {
+                  "name": "Monumento a El Fundidor",
+                  "text": "Ez a fémműves emlékmű azokat a hagyományos olvasztárokat és kohászokat tiszteli, akik hozzájárultak a régió ipari fejlődéséhez.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127128,
+                        -37.342952
+                  ]
+            },
+            {
+                  "name": "Monumento al Libertador José de San Martín",
+                  "text": "A Szabadító, José de San Martín tiszteletére emelt büszke polgári emlékmű, amely a dél-amerikai hőst ábrázolja egy klasszikus kőtalapzaton.",
+                  "category": "historical",
+                  "coords": [
+                        -59.121114,
+                        -37.332625
+                  ]
+            },
+            {
+                  "name": "Centro Clandestino \"Quinta de los Méndez\"",
+                  "text": "Ez az egykori titkos fogolytábor ma a katonai diktatúra áldozataira emlékező ünnepélyes emlékműként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -59.082879,
+                        -37.334809
+                  ]
+            },
+            {
+                  "name": "Almacén La Porteña",
+                  "text": "Ez a Tandilia rendszerben megőrzött történelmi vegyesbolt épülete a korai vidéki kereskedelem építészeti emléke.",
+                  "category": "historical",
+                  "coords": [
+                        -59.199276,
+                        -37.348663
+                  ]
+            },
+            {
+                  "name": "Portada del Parque Independencia",
+                  "text": "A díszes gránitboltív a Parque Independencia monumentális bejárataként szolgál, fogadva a zöldellő domboldalak látogatóit.",
+                  "category": "historical",
+                  "coords": [
+                        -59.137819,
+                        -37.33866
+                  ]
+            },
+            {
+                  "name": "Teatro de la Confraternidad Ferroviaria",
+                  "text": "A vasutas testvériség által épített történelmi színház ma is regionális drámai előadásoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.134553,
+                        -37.314299
+                  ]
+            },
+            {
+                  "name": "Incubadora de Arte",
+                  "text": "Ez az újrahasznosított épületben kialakított művészeti inkubátorház közös stúdiótereket és galériákat kínál a feltörekvő helyi művészek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135934,
+                        -37.310579
+                  ]
+            },
+            {
+                  "name": "Cervantes, Club De teatro",
+                  "text": "A Cervantes Színházi Klub egy intim előadó-művészeti helyszín a városban, amely független és kísérleti darabok színpadra állításáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136285,
+                        -37.32691
+                  ]
+            },
+            {
+                  "name": "\"El Club del Teatro\"",
+                  "text": "Az „El Club del Teatro” hangulatos színpadot kínál a helyi színtársulatoknak, rendszeres drámaműhelyekkel és előadásokkal ösztönözve a közösségi részvételt.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.138587,
+                        -37.328242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capilla Santa Gemma",
+                  "text": "Capela istorică de piatră din Tandil se remarcă prin arhitectura sa simplă și prin locația sa pașnică din peisajul deluros argentinian.",
+                  "category": "religious",
+                  "coords": [
+                        -59.152644,
+                        -37.328994
+                  ]
+            },
+            {
+                  "name": "Monte Calvario",
+                  "text": "Acest important loc de pelerinaj are o Cale a Crucii din piatră, care șerpuiește pe un deal printre eucalipți și pini.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.152267,
+                        -37.327862
+                  ]
+            },
+            {
+                  "name": "Réplica de la Piedra Movediza",
+                  "text": "Această replică impresionantă comemorează faimoasa piatră mișcătoare din Tandil care a căzut în 1912 și stă din nou pe vârful original al muntelui.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.169531,
+                        -37.309513
+                  ]
+            },
+            {
+                  "name": "Cerro El Centinela",
+                  "text": "Vârful distinctiv de granit se înalță mândru deasupra pampasului și este cunoscut pentru o stâncă verticală care se balansează curios pe versantul său.",
+                  "category": "natural",
+                  "coords": [
+                        -59.171977,
+                        -37.355473
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y la Cultura del Bicentenario",
+                  "text": "Acest centru cultural modern este dedicat păstrării și expunerii istoriei locale din Tandil, prin expoziții rotative de artă și fotografie.",
+                  "category": "museum",
+                  "coords": [
+                        -59.107239,
+                        -37.306591
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Muzeul municipal de științe naturale găzduiește o colecție valoroasă de fosile și minerale din regiunea antică geologic Sistema de Tandilia.",
+                  "category": "museum",
+                  "coords": [
+                        -59.140922,
+                        -37.325055
+                  ]
+            },
+            {
+                  "name": "Museo del Fuerte Indepencia",
+                  "text": "Acest muzeu istoric documentează cu numeroase artefacte și documente perioada de înființare a orașului Tandil ca fortăreață de frontieră militară în pampas.",
+                  "category": "museum",
+                  "coords": [
+                        -59.130872,
+                        -37.320539
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Religioso",
+                  "text": "Muzeul de artă sacră prezintă în vitrinele sale veșminte antice, crucifixuri și picturi religioase din istoria diecezelor locale.",
+                  "category": "museum",
+                  "coords": [
+                        -59.136112,
+                        -37.329744
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Bellas Artes",
+                  "text": "Muzeul municipal de artă prezintă o colecție remarcabilă de pictură și sculptură argentiniană, cu accent pe artiștii regionali din secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -59.137305,
+                        -37.330361
+                  ]
+            },
+            {
+                  "name": "Museo Vehiculos de Epoca",
+                  "text": "În această hală, pasionații de mașini pot admira mașini de epocă și motociclete istorice restaurate cu grijă, care au circulat odinioară pe drumurile argentiniene.",
+                  "category": "museum",
+                  "coords": [
+                        -59.129194,
+                        -37.331036
+                  ]
+            },
+            {
+                  "name": "Granero 66",
+                  "text": "Acest muzeu original de tehnică și transport este găzduit într-un hambar vechi și expune utilaje și unelte agricole nostalgice.",
+                  "category": "museum",
+                  "coords": [
+                        -59.111796,
+                        -37.36969
+                  ]
+            },
+            {
+                  "name": "Castillo Morisco",
+                  "text": "Fortăreața castelului, construită în stil maur, tronează în Parque Independencia și este un punct de reper popular care spune povestea imigrației spaniole.",
+                  "category": "castle",
+                  "coords": [
+                        -59.137764,
+                        -37.340319
+                  ]
+            },
+            {
+                  "name": "Cuna de la Aviacion",
+                  "text": "Monumentul celebrează istoria aviației argentiniene și este așezat simbolic într-un loc strâns legat de primii pionieri ai aviației din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -59.137654,
+                        -37.335858
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Această sculptură blândă de piatră din spațiul public onorează rolul universal al mamei și înfățișează o figură feminină clasică cu un copil în brațe.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132067,
+                        -37.336702
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Fugl",
+                  "text": "Monumentul îl onorează pe imigrantul danez Juan Fugl, care a contribuit decisiv la dezvoltarea agriculturii și a educației din Tandil în secolul al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132405,
+                        -37.342557
+                  ]
+            },
+            {
+                  "name": "Monumento a Facundo Cabral",
+                  "text": "Monumentul comemorează faimosul cântăreț și poet argentinian Facundo Cabral și moștenirea sa muzicală profundă.",
+                  "category": "historical",
+                  "coords": [
+                        -59.10487,
+                        -37.32297
+                  ]
+            },
+            {
+                  "name": "Monumento al Gaucho",
+                  "text": "Această statuie ecvestră de bronz întruchipează spiritul gaucho-ului sud-american și celebrează cultura tradițională a echitației și a bovinelor din pampasul argentinian.",
+                  "category": "historical",
+                  "coords": [
+                        -59.118561,
+                        -37.315264
+                  ]
+            },
+            {
+                  "name": "Monumento a Manuel Belgrano",
+                  "text": "Statuia demnă îl comemorează pe generalul Manuel Belgrano, creatorul drapelului național argentinian și unul dintre principalii eliberatori ai țării.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127921,
+                        -37.326525
+                  ]
+            },
+            {
+                  "name": "Denominación de Origen Tandil",
+                  "text": "Acest punct de reper distinctiv celebrează identitatea gastronomică regională din Tandil, renumit la nivel național în special pentru mezelurile și brânzeturile sale artizanale.",
+                  "category": "historical",
+                  "coords": [
+                        -59.116732,
+                        -37.313648
+                  ]
+            },
+            {
+                  "name": "Monumento Santiago Selvetti",
+                  "text": "Placa comemorativă îl onorează pe Santiago Selvetti și munca sa continuă pentru dezvoltarea infrastructurală și bunăstarea locală a orașului Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.144988,
+                        -37.313194
+                  ]
+            },
+            {
+                  "name": "Avión Mirage",
+                  "text": "Prezentat pe un piedestal, acest avion de vânătoare Mirage dezafectat amintește de forțele aeriene argentiniene și de brigada aeriană staționată în Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.158348,
+                        -37.311608
+                  ]
+            },
+            {
+                  "name": "Cruz Monte Calvario (12)",
+                  "text": "Acest mare crucifix marchează a douăsprezecea stațiune a Căii Crucii de pe Monte Calvario și invită pelerinii la rugăciune în mijlocul dealurilor împădurite.",
+                  "category": "historical",
+                  "coords": [
+                        -59.154949,
+                        -37.328835
+                  ]
+            },
+            {
+                  "name": "Monumento al Comerciante de Tandil",
+                  "text": "Sculptura recunoaște munca asiduă și spiritul de pionierat al comercianților locali, care au contribuit semnificativ la creșterea economică a comunității.",
+                  "category": "historical",
+                  "coords": [
+                        -59.130049,
+                        -37.341914
+                  ]
+            },
+            {
+                  "name": "Fuente de los Vascos",
+                  "text": "Fântâna Bascilor este un monument de piatră care aduce un omagiu imigranților basci care s-au stabilit în zona Tandilia.",
+                  "category": "historical",
+                  "coords": [
+                        -59.138338,
+                        -37.342966
+                  ]
+            },
+            {
+                  "name": "Monumento Eduardo Aldasoro",
+                  "text": "Monumentul Eduardo Aldasoro este un memorial local din zona Tandilia, dedicat păstrării moștenirii acestei figuri regionale notabile.",
+                  "category": "historical",
+                  "coords": [
+                        -59.128811,
+                        -37.350641
+                  ]
+            },
+            {
+                  "name": "Monumento a El Fundidor",
+                  "text": "Acest monument realizat din metal onorează topitorii și lucrătorii metalurgici tradiționali care au contribuit la dezvoltarea industrială a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127128,
+                        -37.342952
+                  ]
+            },
+            {
+                  "name": "Monumento al Libertador José de San Martín",
+                  "text": "Un mândru memorial civic dedicat Eliberatorului José de San Martín, prezentând o reprezentare clasică a eroului sud-american pe un piedestal de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -59.121114,
+                        -37.332625
+                  ]
+            },
+            {
+                  "name": "Centro Clandestino \"Quinta de los Méndez\"",
+                  "text": "Acest fost centru clandestin de detenție servește acum drept un monument solemn de amintire a victimelor dictaturii militare.",
+                  "category": "historical",
+                  "coords": [
+                        -59.082879,
+                        -37.334809
+                  ]
+            },
+            {
+                  "name": "Almacén La Porteña",
+                  "text": "Această clădire istorică conservată a unei băcănii din sistemul Tandilia se prezintă ca un monument arhitectural al comerțului rural timpuriu.",
+                  "category": "historical",
+                  "coords": [
+                        -59.199276,
+                        -37.348663
+                  ]
+            },
+            {
+                  "name": "Portada del Parque Independencia",
+                  "text": "Arcada ornamentată din granit servește drept intrare monumentală în Parcul Independenței, întâmpinând vizitatorii pe pantele verzi ale dealului.",
+                  "category": "historical",
+                  "coords": [
+                        -59.137819,
+                        -37.33866
+                  ]
+            },
+            {
+                  "name": "Teatro de la Confraternidad Ferroviaria",
+                  "text": "Construit de frăția lucrătorilor feroviari, acest teatru istoric continuă să găzduiască spectacole dramatice regionale și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.134553,
+                        -37.314299
+                  ]
+            },
+            {
+                  "name": "Incubadora de Arte",
+                  "text": "Amplasat într-o clădire reamenajată, acest incubator de artă oferă spații de studio colaborative și galerii pentru artiștii locali emergenți.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135934,
+                        -37.310579
+                  ]
+            },
+            {
+                  "name": "Cervantes, Club De teatro",
+                  "text": "Cervantes Theatre Club este un spațiu intim de arte spectacolului din oraș, cunoscut pentru punerea în scenă a pieselor independente și experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136285,
+                        -37.32691
+                  ]
+            },
+            {
+                  "name": "\"El Club del Teatro\"",
+                  "text": "„El Club del Teatro” oferă o scenă primitoare pentru trupele de teatru locale, stimulând implicarea comunității prin ateliere și spectacole de teatru regulate.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.138587,
+                        -37.328242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capilla Santa Gemma",
+                  "text": "The historic stone chapel in Tandil is characterized by its simple architecture and its peaceful location in the Argentine hilly landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -59.152644,
+                        -37.328994
+                  ]
+            },
+            {
+                  "name": "Monte Calvario",
+                  "text": "This important pilgrimage site features a stone Way of the Cross that winds up a hill amidst eucalyptus and pine trees.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.152267,
+                        -37.327862
+                  ]
+            },
+            {
+                  "name": "Réplica de la Piedra Movediza",
+                  "text": "This impressive replica commemorates the famous moving stone of Tandil that fell in 1912, and it once again sits atop the original mountain peak.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.169531,
+                        -37.309513
+                  ]
+            },
+            {
+                  "name": "Cerro El Centinela",
+                  "text": "The distinctive granite peak proudly rises above the pampas and is known for a curiously balancing, vertical rock on its slope.",
+                  "category": "natural",
+                  "coords": [
+                        -59.171977,
+                        -37.355473
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y la Cultura del Bicentenario",
+                  "text": "This modern cultural center is dedicated to preserving and exhibiting the local history of Tandil through rotating art and photography exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -59.107239,
+                        -37.306591
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "The municipal natural history museum houses a valuable collection of fossils and minerals from the geologically ancient Sistema de Tandilia region.",
+                  "category": "museum",
+                  "coords": [
+                        -59.140922,
+                        -37.325055
+                  ]
+            },
+            {
+                  "name": "Museo del Fuerte Indepencia",
+                  "text": "This historical museum documents with numerous artifacts and documents the founding period of Tandil as a military border fortress in the pampas.",
+                  "category": "museum",
+                  "coords": [
+                        -59.130872,
+                        -37.320539
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Religioso",
+                  "text": "The museum of sacred art presents in its display cases antique vestments, crucifixes, and religious paintings from the history of local dioceses.",
+                  "category": "museum",
+                  "coords": [
+                        -59.136112,
+                        -37.329744
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Bellas Artes",
+                  "text": "The municipal art museum displays a remarkable collection of Argentine painting and sculpture, with a focus on regional artists of the 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        -59.137305,
+                        -37.330361
+                  ]
+            },
+            {
+                  "name": "Museo Vehiculos de Epoca",
+                  "text": "In this hall, car enthusiasts can admire lovingly restored vintage cars and historic motorcycles that once roamed Argentine roads.",
+                  "category": "museum",
+                  "coords": [
+                        -59.129194,
+                        -37.331036
+                  ]
+            },
+            {
+                  "name": "Granero 66",
+                  "text": "This original technology and transport museum is housed in an old barn and exhibits nostalgic agricultural machinery and tools.",
+                  "category": "museum",
+                  "coords": [
+                        -59.111796,
+                        -37.36969
+                  ]
+            },
+            {
+                  "name": "Castillo Morisco",
+                  "text": "The castle fortress, built in the Moorish style, dominates Parque Independencia and is a popular landmark telling the story of Spanish immigration.",
+                  "category": "castle",
+                  "coords": [
+                        -59.137764,
+                        -37.340319
+                  ]
+            },
+            {
+                  "name": "Cuna de la Aviacion",
+                  "text": "The monument celebrates Argentine aviation history and stands symbolically at a site closely linked to the early aviation pioneers of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -59.137654,
+                        -37.335858
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "This gentle stone sculpture in the public space honors the universal role of the mother and depicts a classical female figure holding a child in her arms.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132067,
+                        -37.336702
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Fugl",
+                  "text": "The monument honors the Danish immigrant Juan Fugl, who made a decisive contribution to the development of agriculture and education in Tandil in the 19th century.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132405,
+                        -37.342557
+                  ]
+            },
+            {
+                  "name": "Monumento a Facundo Cabral",
+                  "text": "The memorial commemorates the famous Argentine cantautor and poet Facundo Cabral and his profound musical legacy.",
+                  "category": "historical",
+                  "coords": [
+                        -59.10487,
+                        -37.32297
+                  ]
+            },
+            {
+                  "name": "Monumento al Gaucho",
+                  "text": "This bronze equestrian statue embodies the spirit of the South American gaucho and celebrates the traditional equestrian and cattle culture of the Argentine pampas.",
+                  "category": "historical",
+                  "coords": [
+                        -59.118561,
+                        -37.315264
+                  ]
+            },
+            {
+                  "name": "Monumento a Manuel Belgrano",
+                  "text": "The dignified statue commemorates General Manuel Belgrano, creator of the Argentine national flag and one of the country's most important liberators.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127921,
+                        -37.326525
+                  ]
+            },
+            {
+                  "name": "Denominación de Origen Tandil",
+                  "text": "This striking landmark celebrates the regional gastronomic identity of Tandil, which is known nationwide especially for its excellent cold cuts and artisanal cheeses.",
+                  "category": "historical",
+                  "coords": [
+                        -59.116732,
+                        -37.313648
+                  ]
+            },
+            {
+                  "name": "Monumento Santiago Selvetti",
+                  "text": "The memorial plaque honors Santiago Selvetti and his persistent work for the infrastructural development and local welfare of the city of Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.144988,
+                        -37.313194
+                  ]
+            },
+            {
+                  "name": "Avión Mirage",
+                  "text": "Presented on a pedestal, this decommissioned Mirage fighter jet commemorates the Argentine Air Force and the aviation brigade stationed in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.158348,
+                        -37.311608
+                  ]
+            },
+            {
+                  "name": "Cruz Monte Calvario (12)",
+                  "text": "This large crucifix marks the twelfth station of the Way of the Cross on Monte Calvario, inviting pilgrims to pray amidst the wooded hills.",
+                  "category": "historical",
+                  "coords": [
+                        -59.154949,
+                        -37.328835
+                  ]
+            },
+            {
+                  "name": "Monumento al Comerciante de Tandil",
+                  "text": "The sculpture acknowledges the hard work and pioneering spirit of the local merchants who contributed significantly to the economic growth of the community.",
+                  "category": "historical",
+                  "coords": [
+                        -59.130049,
+                        -37.341914
+                  ]
+            },
+            {
+                  "name": "Fuente de los Vascos",
+                  "text": "The Fountain of the Basques is a stone monument paying tribute to the Basque immigrants who settled in the Tandilia area.",
+                  "category": "historical",
+                  "coords": [
+                        -59.138338,
+                        -37.342966
+                  ]
+            },
+            {
+                  "name": "Monumento Eduardo Aldasoro",
+                  "text": "The Eduardo Aldasoro monument is a local memorial in the Tandilia area dedicated to preserving the legacy of this notable regional figure.",
+                  "category": "historical",
+                  "coords": [
+                        -59.128811,
+                        -37.350641
+                  ]
+            },
+            {
+                  "name": "Monumento a El Fundidor",
+                  "text": "This metalwork monument honors the traditional smelters and metallurgical workers who contributed to the industrial development of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127128,
+                        -37.342952
+                  ]
+            },
+            {
+                  "name": "Monumento al Libertador José de San Martín",
+                  "text": "A proud civic memorial dedicated to the Liberator José de San Martín, featuring a classic depiction of the South American hero on a stone pedestal.",
+                  "category": "historical",
+                  "coords": [
+                        -59.121114,
+                        -37.332625
+                  ]
+            },
+            {
+                  "name": "Centro Clandestino \"Quinta de los Méndez\"",
+                  "text": "This former clandestine detention center now serves as a solemn monument of remembrance for the victims of the military dictatorship.",
+                  "category": "historical",
+                  "coords": [
+                        -59.082879,
+                        -37.334809
+                  ]
+            },
+            {
+                  "name": "Almacén La Porteña",
+                  "text": "This preserved historic grocery store building in the Tandilia system stands as an architectural monument to early rural commerce.",
+                  "category": "historical",
+                  "coords": [
+                        -59.199276,
+                        -37.348663
+                  ]
+            },
+            {
+                  "name": "Portada del Parque Independencia",
+                  "text": "The ornate granite archway serves as the monumental entrance to Independence Park, welcoming visitors to the green hillside slopes.",
+                  "category": "historical",
+                  "coords": [
+                        -59.137819,
+                        -37.33866
+                  ]
+            },
+            {
+                  "name": "Teatro de la Confraternidad Ferroviaria",
+                  "text": "Built by the railway workers' brotherhood, this historic theatre continues to host regional dramatic performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.134553,
+                        -37.314299
+                  ]
+            },
+            {
+                  "name": "Incubadora de Arte",
+                  "text": "Set in a repurposed building, this arts incubator provides collaborative studio spaces and galleries for emerging local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135934,
+                        -37.310579
+                  ]
+            },
+            {
+                  "name": "Cervantes, Club De teatro",
+                  "text": "The Cervantes Theatre Club is an intimate performing arts venue in the city, known for its staging of independent and experimental plays.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136285,
+                        -37.32691
+                  ]
+            },
+            {
+                  "name": "\"El Club del Teatro\"",
+                  "text": "\"El Club del Teatro\" offers a cozy stage for local theater troupes, fostering community engagement through regular drama workshops and shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.138587,
+                        -37.328242
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AR-B",
     coords: [-59.1333, -37.3167],
@@ -532,7 +3214,484 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "quebrada-de-humahuaca-relief-v2",
+    id: "quebrada-de-humahuaca-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reloj San Francisco Solano",
+                  "text": "Dieser markante Uhrmechanismus in der Gegend der Quebrada de Humahuaca ist eine bekannte lokale Attraktion, die oft neugierige Zuschauer anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.348633,
+                        -23.204121
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Municipal",
+                  "text": "Dieses städtische archäologische Museum zeigt faszinierende präkolumbianische Artefakte, die die indigenen Kulturen der Humahuaca-Schlucht beleuchten.",
+                  "category": "museum",
+                  "coords": [
+                        -65.349745,
+                        -23.204356
+                  ]
+            },
+            {
+                  "name": "Condor de metal",
+                  "text": "Eine markante Kondorskulptur aus Metall dient als eindrucksvolle künstlerische Hommage an den majestätischen Vogel der Anden.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.353296,
+                        -23.216189
+                  ]
+            },
+            {
+                  "name": "Peña Blanca",
+                  "text": "Die Peña Blanca präsentiert eine atemberaubende natürliche Felsformation, deren blasse Klippen einen schönen Kontrast zur rauen Umgebungslandschaft bilden.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.338966,
+                        -23.200039
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Die dunklen Hänge des Cerro Negro heben sich dramatisch von der farbenfrohen Berglandschaft der Quebrada de Humahuaca ab.",
+                  "category": "natural",
+                  "coords": [
+                        -65.325093,
+                        -23.130418
+                  ]
+            },
+            {
+                  "name": "Quebrada de Humahuaca",
+                  "text": "Dieses spektakuläre Tal ist berühmt für seine farbenprächtigen geologischen Formationen und sein tief verwurzeltes kulturelles Erbe entlang des alten Inka-Pfades.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.332996,
+                        -23.099639
+                  ]
+            },
+            {
+                  "name": "Ruinas de Coctaca",
+                  "text": "Die weitläufigen archäologischen Ruinen von Coctaca zeigen ausgedehnte landwirtschaftliche Terrassen, die von präkolumbianischen Gesellschaften für den Ackerbau angelegt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -65.284393,
+                        -23.137455
+                  ]
+            },
+            {
+                  "name": "Templo bautista evangelico Eben-ezer",
+                  "text": "Dieser baptistische evangelische Tempel bietet ein bescheidenes und einladendes spirituelles Zentrum für seine Gemeinde im Herzen der Schlucht.",
+                  "category": "religious",
+                  "coords": [
+                        -65.348189,
+                        -23.202853
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine traditionelle christliche Kirche, deren einfache, aber robuste Architektur die religiöse Hingabe der lokalen andinen Gemeinschaft widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.351398,
+                        -23.202402
+                  ]
+            },
+            {
+                  "name": "Centro gnostico netzah",
+                  "text": "Dieses lokale gnostische Zentrum veranstaltet spirituelle Treffen und esoterische Studien für Praktizierende, die im Humahuaca-Tal leben.",
+                  "category": "religious",
+                  "coords": [
+                        -65.343121,
+                        -23.202613
+                  ]
+            },
+            {
+                  "name": "Los testigos de Jehova",
+                  "text": "Dieser moderne Versammlungssaal wird regelmäßig von Zeugen Jehovas für das Bibelstudium und den gemeinsamen Gottesdienst in der Region genutzt.",
+                  "category": "religious",
+                  "coords": [
+                        -65.351048,
+                        -23.211106
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de la Merced",
+                  "text": "Die christliche Kirche Virgen de la Merced ist ein kulturell bedeutendes Heiligtum, das sich durch seine friedliche Atmosphäre und lokale religiöse Kunst auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.341662,
+                        -23.208632
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Humahuaca",
+                  "text": "Auf dem städtischen Markt von Humahuaca verkaufen Händler regionale Spezialitäten wie farbenfrohe Maissorten und handgewebte Kunsthandwerke.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.347368,
+                        -23.203852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reloj San Francisco Solano",
+                  "text": "Ez a különleges óraszerkezet a Quebrada de Humahuaca térségében egy jól ismert helyi látványosság, amely gyakran vonzza a kíváncsiskodókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.348633,
+                        -23.204121
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Municipal",
+                  "text": "Ez a városi régészeti múzeum lenyűgöző prekolumbiánus leleteket mutat be, amelyek megvilágítják a Humahuaca-szurdok őslakos kultúráit.",
+                  "category": "museum",
+                  "coords": [
+                        -65.349745,
+                        -23.204356
+                  ]
+            },
+            {
+                  "name": "Condor de metal",
+                  "text": "Egy kiemelkedő fém kondorkeselyű-szobor lenyűgöző művészi tisztelgésként szolgál az andoki égbolton honos fenséges madár előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.353296,
+                        -23.216189
+                  ]
+            },
+            {
+                  "name": "Peña Blanca",
+                  "text": "A Peña Blanca egy lenyűgöző természetes sziklaképződmény, amelynek sápadt sziklái gyönyörű kontrasztot alkotnak a zord környező tájjal.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.338966,
+                        -23.200039
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "A Cerro Negro sötét lejtői drámaian elütnek a Quebrada de Humahuaca színes hegyvidéki terepétől.",
+                  "category": "natural",
+                  "coords": [
+                        -65.325093,
+                        -23.130418
+                  ]
+            },
+            {
+                  "name": "Quebrada de Humahuaca",
+                  "text": "Ez a látványos völgy élénk színű geológiai képződményeiről és az ősi inka ösvény mentén található mélyen gyökerező kulturális örökségéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.332996,
+                        -23.099639
+                  ]
+            },
+            {
+                  "name": "Ruinas de Coctaca",
+                  "text": "Coctaca kiterjedt régészeti romjai a prekolumbiánus társadalmak által a növénytermesztés céljából épített kiterjedt mezőgazdasági teraszokat mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        -65.284393,
+                        -23.137455
+                  ]
+            },
+            {
+                  "name": "Templo bautista evangelico Eben-ezer",
+                  "text": "Ez a baptista evangélikus templom szerény és barátságos spirituális központot biztosít gyülekezete számára a szurdok szívében.",
+                  "category": "religious",
+                  "coords": [
+                        -65.348189,
+                        -23.202853
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egy hagyományos keresztény templom, amelynek egyszerű, mégis masszív építészete a helyi andoki közösség vallási odaadását tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.351398,
+                        -23.202402
+                  ]
+            },
+            {
+                  "name": "Centro gnostico netzah",
+                  "text": "Ez a helyi gnosztikus központ spirituális találkozóknak és ezoterikus tanulmányoknak ad otthont a Humahuaca-völgyben élő gyakorlók számára.",
+                  "category": "religious",
+                  "coords": [
+                        -65.343121,
+                        -23.202613
+                  ]
+            },
+            {
+                  "name": "Los testigos de Jehova",
+                  "text": "Ezt a modern gyülekezeti termet Jehova Tanúi rendszeresen használják bibliatanulmányozásra és közösségi istentiszteletre a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -65.351048,
+                        -23.211106
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de la Merced",
+                  "text": "A Virgen de la Merced keresztény templom kulturális jelentőségű szentély, amelyet békés légköre és helyi vallási művészete tesz különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.341662,
+                        -23.208632
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Humahuaca",
+                  "text": "A Humahuaca városi piacon az árusok olyan regionális specialitásokat árulnak, mint a színes kukoricafajták és a kézzel szőtt kézműves termékek.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.347368,
+                        -23.203852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reloj San Francisco Solano",
+                  "text": "Acest mecanism cu ceas distinct de pe raza Quebrada de Humahuaca este o atracție locală recunoscută, care atrage adesea privitori curioși.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.348633,
+                        -23.204121
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Municipal",
+                  "text": "Acest muzeu arheologic municipal expune artefacte precolumbiene fascinante care aduc lumină asupra culturilor indigene din defileul Humahuaca.",
+                  "category": "museum",
+                  "coords": [
+                        -65.349745,
+                        -23.204356
+                  ]
+            },
+            {
+                  "name": "Condor de metal",
+                  "text": "O sculptură proeminentă din metal a unui condor servește ca un tribut artistic impresionant adus păsării maiestuoase originare din cerurile andine.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.353296,
+                        -23.216189
+                  ]
+            },
+            {
+                  "name": "Peña Blanca",
+                  "text": "Peña Blanca prezintă o formațiune stâncoasă naturală uimitoare, ale cărei stânci palide contrastează frumos cu peisajul accidentat din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.338966,
+                        -23.200039
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Pantele întunecate ale masivului Cerro Negro se evidențiază dramatic pe fundalul terenului muntos colorat din Quebrada de Humahuaca.",
+                  "category": "natural",
+                  "coords": [
+                        -65.325093,
+                        -23.130418
+                  ]
+            },
+            {
+                  "name": "Quebrada de Humahuaca",
+                  "text": "Această vale spectaculoasă este renumită pentru formațiunile sale geologice viu colorate și moștenirea culturală adânc înrădăcinată de-a lungul vechiului drum incaș.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.332996,
+                        -23.099639
+                  ]
+            },
+            {
+                  "name": "Ruinas de Coctaca",
+                  "text": "Ruinele arheologice întinse de la Coctaca prezintă terase agricole extinse construite de societățile precolumbiene pentru cultivarea recoltelor.",
+                  "category": "historical",
+                  "coords": [
+                        -65.284393,
+                        -23.137455
+                  ]
+            },
+            {
+                  "name": "Templo bautista evangelico Eben-ezer",
+                  "text": "Acest templu evanghelic baptist oferă un centru spiritual modest și primitor pentru congregația sa din inima defileului.",
+                  "category": "religious",
+                  "coords": [
+                        -65.348189,
+                        -23.202853
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O biserică creștină tradițională a cărei arhitectură simplă, dar robustă, reflectă devotamentul religios al comunității andine locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.351398,
+                        -23.202402
+                  ]
+            },
+            {
+                  "name": "Centro gnostico netzah",
+                  "text": "Acest centru gnostic local găzduiește întâlniri spirituale și studii ezoterice pentru practicanții care locuiesc în valea Humahuaca.",
+                  "category": "religious",
+                  "coords": [
+                        -65.343121,
+                        -23.202613
+                  ]
+            },
+            {
+                  "name": "Los testigos de Jehova",
+                  "text": "Această sală de adunări modernă este folosită în mod regulat de Martorii lui Iehova pentru studiul biblic și închinarea comunitară din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -65.351048,
+                        -23.211106
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de la Merced",
+                  "text": "Biserica creștină Virgen de la Merced este un sanctuar semnificativ din punct de vedere cultural, care se distinge prin atmosfera sa pașnică și arta religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.341662,
+                        -23.208632
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Humahuaca",
+                  "text": "La piața municipală din Humahuaca, vânzătorii oferă specialități regionale, cum ar fi varietăți de porumb colorat și obiecte de artizanat țesute manual.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.347368,
+                        -23.203852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reloj San Francisco Solano",
+                  "text": "This distinct clock mechanism in the Quebrada de Humahuaca area is a recognizable local attraction often drawing curious onlookers.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.348633,
+                        -23.204121
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Municipal",
+                  "text": "This municipal archaeological museum displays fascinating pre-Columbian artifacts that shed light on the indigenous cultures of the Humahuaca gorge.",
+                  "category": "museum",
+                  "coords": [
+                        -65.349745,
+                        -23.204356
+                  ]
+            },
+            {
+                  "name": "Condor de metal",
+                  "text": "A prominent metal condor sculpture serves as a striking artistic tribute to the majestic bird native to the Andean skies.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.353296,
+                        -23.216189
+                  ]
+            },
+            {
+                  "name": "Peña Blanca",
+                  "text": "The Peña Blanca presents a stunning natural rock formation whose pale cliffs beautifully contrast with the rugged surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.338966,
+                        -23.200039
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "The dark slopes of Cerro Negro stand out dramatically against the colorful mountainous terrain of the Quebrada de Humahuaca.",
+                  "category": "natural",
+                  "coords": [
+                        -65.325093,
+                        -23.130418
+                  ]
+            },
+            {
+                  "name": "quebrada de Humahuaca",
+                  "text": "This spectacular valley is renowned for its vividly colored geological formations and deep-rooted cultural heritage along the ancient Inca trail.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.332996,
+                        -23.099639
+                  ]
+            },
+            {
+                  "name": "Ruinas de Coctaca",
+                  "text": "The sprawling archaeological ruins of Coctaca showcase extensive agricultural terraces built by pre-Columbian societies for cultivating crops.",
+                  "category": "historical",
+                  "coords": [
+                        -65.284393,
+                        -23.137455
+                  ]
+            },
+            {
+                  "name": "Templo bautista evangelico Eben-ezer",
+                  "text": "This Baptist Evangelical temple provides a modest and welcoming spiritual center for its congregation in the heart of the gorge.",
+                  "category": "religious",
+                  "coords": [
+                        -65.348189,
+                        -23.202853
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A traditional Christian church whose simple yet sturdy architecture reflects the religious devotion of the local Andean community.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.351398,
+                        -23.202402
+                  ]
+            },
+            {
+                  "name": "Centro gnostico netzah",
+                  "text": "This local Gnostic center hosts spiritual meetings and esoteric studies for practitioners residing in the Humahuaca valley.",
+                  "category": "religious",
+                  "coords": [
+                        -65.343121,
+                        -23.202613
+                  ]
+            },
+            {
+                  "name": "Los testigos de Jehova",
+                  "text": "This modern meeting hall is regularly used by Jehovah's Witnesses for Bible study and community worship in the region.",
+                  "category": "religious",
+                  "coords": [
+                        -65.351048,
+                        -23.211106
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de la Merced",
+                  "text": "The Christian church of Virgen de la Merced is a culturally significant sanctuary distinguished by its peaceful atmosphere and local religious art.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.341662,
+                        -23.208632
+                  ]
+            },
+            {
+                  "name": "Humahuaca Municipal Market",
+                  "text": "At the Humahuaca Municipal Market, vendors sell regional specialties such as colorful corn varieties and handmade woven crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.347368,
+                        -23.203852
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AR-Y",
     coords: [-65.3500, -23.1833],
@@ -580,7 +3739,52 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "valles-calchaquies-relief-v2",
+    id: "valles-calchaquies-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Abra Blanca",
+                  "text": "Der Cerro Abra Blanca ist ein markanter Berggipfel, der die dramatischen Landschaften der Calchaquí-Täler überragt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.976918,
+                        -25.412892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Abra Blanca",
+                  "text": "A Cerro Abra Blanca egy lenyűgöző hegycsúcs, amely a Calchaquí-völgyek drámai tájai fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -65.976918,
+                        -25.412892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Abra Blanca",
+                  "text": "Cerro Abra Blanca este un vârf muntos izbitor care se înalță deasupra peisajelor dramatice ale văilor Calchaquí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.976918,
+                        -25.412892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Abra Blanca",
+                  "text": "Cerro Abra Blanca is a striking mountain peak towering over the dramatic landscapes of the Calchaquí Valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -65.976918,
+                        -25.412892
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AR-A",
     coords: [-66.0000, -25.5000],
@@ -676,7 +3880,124 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "puna-de-atacama-relief-v2",
+    id: "puna-de-atacama-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Cantera",
+                  "text": "Der Cerro La Cantera ist ein markanter Berggipfel, der sich dramatisch in der Region Puna de Atacama erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.439157,
+                        -24.012148
+                  ]
+            },
+            {
+                  "name": "Cerro Casliri",
+                  "text": "Dieser Berggipfel ist Teil des zerklüfteten, hochgelegenen Geländes der Puna de Atacama.",
+                  "category": "natural",
+                  "coords": [
+                        -67.486495,
+                        -24.037807
+                  ]
+            },
+            {
+                  "name": "Cerros de Incahuasi",
+                  "text": "Die Cerros de Incahuasi sind eine massive Bergkette, die das dramatische Hochgebirgsrelief der Puna de Atacama dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        -67.528273,
+                        -24.019365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Cantera",
+                  "text": "A Cerro La Cantera egy kiemelkedő hegycsúcs, amely drámaian emelkedik ki a Puna de Atacama régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -67.439157,
+                        -24.012148
+                  ]
+            },
+            {
+                  "name": "Cerro Casliri",
+                  "text": "Ez a hegycsúcs a Puna de Atacama zord, magasan fekvő terepének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -67.486495,
+                        -24.037807
+                  ]
+            },
+            {
+                  "name": "Cerros de Incahuasi",
+                  "text": "A Cerros de Incahuasi egy hatalmas hegylánc, amely a Puna de Atacama drámai, magaslati domborzatát uralja.",
+                  "category": "natural",
+                  "coords": [
+                        -67.528273,
+                        -24.019365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Cantera",
+                  "text": "Cerro La Cantera este un vârf muntos proeminent care se înalță spectaculos în regiunea Puna de Atacama.",
+                  "category": "natural",
+                  "coords": [
+                        -67.439157,
+                        -24.012148
+                  ]
+            },
+            {
+                  "name": "Cerro Casliri",
+                  "text": "Acest vârf muntos face parte din terenul accidentat și de mare altitudine din Puna de Atacama.",
+                  "category": "natural",
+                  "coords": [
+                        -67.486495,
+                        -24.037807
+                  ]
+            },
+            {
+                  "name": "Cerros de Incahuasi",
+                  "text": "Cerros de Incahuasi este un lanț muntos masiv care domină relieful dramatic de mare altitudine din Puna de Atacama.",
+                  "category": "natural",
+                  "coords": [
+                        -67.528273,
+                        -24.019365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Cantera",
+                  "text": "Cerro La Cantera is a prominent mountain peak rising dramatically in the Puna de Atacama region.",
+                  "category": "natural",
+                  "coords": [
+                        -67.439157,
+                        -24.012148
+                  ]
+            },
+            {
+                  "name": "Cerro Casliri",
+                  "text": "This mountain peak forms part of the rugged, high-altitude terrain of the Puna de Atacama.",
+                  "category": "natural",
+                  "coords": [
+                        -67.486495,
+                        -24.037807
+                  ]
+            },
+            {
+                  "name": "Cerros de Incahuasi",
+                  "text": "The Cerros de Incahuasi is a massive mountain range dominating the dramatic high-altitude relief of the Puna de Atacama.",
+                  "category": "natural",
+                  "coords": [
+                        -67.528273,
+                        -24.019365
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AR-A",
     coords: [-67.5000, -24.0000],
@@ -724,7 +4045,160 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "canon-de-talampaya-relief-v2",
+    id: "canon-de-talampaya-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Tótem",
+                  "text": "Eine markante, hohe Felsformation in der Talampaya-Schlucht, die an einen Totempfahl erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.785089,
+                        -29.776567
+                  ]
+            },
+            {
+                  "name": "La Catedral",
+                  "text": "Ein spektakulärer Aussichtspunkt mit Blick auf die grandiosen, kathedralenartigen roten Felsklippen im Talampaya-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -67.818271,
+                        -29.776773
+                  ]
+            },
+            {
+                  "name": "Grand Mirador",
+                  "text": "Ein weitläufiger Aussichtspunkt, der ein weites Panorama über das majestätische Relief der Talampaya-Schlucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -67.832307,
+                        -29.768359
+                  ]
+            },
+            {
+                  "name": "Petroglifos",
+                  "text": "Eine archäologische Attraktion mit alten indigenen Felszeichnungen, die an den Wänden des Talampaya-Canyons erhalten geblieben sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.844632,
+                        -29.791496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Tótem",
+                  "text": "Egy lenyűgöző, magas sziklaképződmény a Talampaya-kanyonban, amely egy totemoszlopra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.785089,
+                        -29.776567
+                  ]
+            },
+            {
+                  "name": "La Catedral",
+                  "text": "Látványos kilátó, amely a Talampaya Nemzeti Park hatalmas, katedrálisszerű vörös sziklafalaira tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -67.818271,
+                        -29.776773
+                  ]
+            },
+            {
+                  "name": "Grand Mirador",
+                  "text": "Széles kilátó, amely hatalmas panorámát nyújt a Talampaya-kanyon fenséges domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        -67.832307,
+                        -29.768359
+                  ]
+            },
+            {
+                  "name": "Petroglifos",
+                  "text": "Régészeti látványosság ősi őslakos sziklafaragványokkal, amelyek a Talampaya-kanyon falain maradtak fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.844632,
+                        -29.791496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Tótem",
+                  "text": "O formațiune stâncoasă înaltă și impresionantă în Canionul Talampaya, care seamănă cu un totem.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.785089,
+                        -29.776567
+                  ]
+            },
+            {
+                  "name": "La Catedral",
+                  "text": "Un punct de belvedere spectaculos cu vedere la stâncile roșii grandioase, asemănătoare unei catedrale, din Parcul Național Talampaya.",
+                  "category": "natural",
+                  "coords": [
+                        -67.818271,
+                        -29.776773
+                  ]
+            },
+            {
+                  "name": "Grand Mirador",
+                  "text": "Un punct de belvedere vast care oferă o panoramă largă asupra reliefului maiestuos al Canionului Talampaya.",
+                  "category": "natural",
+                  "coords": [
+                        -67.832307,
+                        -29.768359
+                  ]
+            },
+            {
+                  "name": "Petroglifos",
+                  "text": "O atracție arheologică care prezintă sculpturi antice indigene în piatră, păstrate pe pereții Canionului Talampaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.844632,
+                        -29.791496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Tótem",
+                  "text": "A striking, tall rock formation resembling a totem pole in the Talampaya Canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.785089,
+                        -29.776567
+                  ]
+            },
+            {
+                  "name": "La Catedral",
+                  "text": "A spectacular viewpoint overlooking grand, cathedral-like red rock cliffs in Talampaya National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -67.818271,
+                        -29.776773
+                  ]
+            },
+            {
+                  "name": "Grand Mirador",
+                  "text": "A sweeping scenic viewpoint offering expansive vistas over the majestic relief of Talampaya Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -67.832307,
+                        -29.768359
+                  ]
+            },
+            {
+                  "name": "Petroglifos",
+                  "text": "An archaeological attraction featuring ancient indigenous rock carvings preserved on the canyon walls of Talampaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.844632,
+                        -29.791496
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AR-F",
     coords: [-67.8333, -29.8000],
@@ -772,7 +4246,88 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "yungas-relief-v2",
+    id: "yungas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Torre",
+                  "text": "Dieser erhöhte Aussichtsturm bietet spektakuläre Panoramablicke auf die dichten, grünen subtropischen Wälder, die typisch für die Yungas-Region sind.",
+                  "category": "natural",
+                  "coords": [
+                        -64.853563,
+                        -23.754109
+                  ]
+            },
+            {
+                  "name": "Muestra Se",
+                  "text": "Diese ruhige christliche Stätte in den Yungas bietet Besuchern einen besinnlichen Ort inmitten der üppigen umliegenden Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.829042,
+                        -23.77694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torre",
+                  "text": "Ez a magasított kilátótorony látványos panorámát nyújt a Yungas régióra jellemző sűrű, zöld szubtrópusi erdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        -64.853563,
+                        -23.754109
+                  ]
+            },
+            {
+                  "name": "Muestra Se",
+                  "text": "Ez a Yungasban megbúvó csendes keresztény helyszín szemlélődő helyet kínál a látogatóknak a buja környező természet lágy ölén.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.829042,
+                        -23.77694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Torre",
+                  "text": "Acest turn de observație înalt oferă priveliști panoramice spectaculoase asupra pădurilor subtropicale dense și verzi, tipice regiunii Yungas.",
+                  "category": "natural",
+                  "coords": [
+                        -64.853563,
+                        -23.754109
+                  ]
+            },
+            {
+                  "name": "Muestra Se",
+                  "text": "Acest sit creștin liniștit, cuibărit în Yungas, oferă vizitatorilor un loc de contemplare în mijlocul naturii luxuriante din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.829042,
+                        -23.77694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torre",
+                  "text": "This elevated viewing tower provides spectacular panoramic vistas of the dense, green subtropical forests typical of the Yungas region.",
+                  "category": "natural",
+                  "coords": [
+                        -64.853563,
+                        -23.754109
+                  ]
+            },
+            {
+                  "name": "Muestra Se",
+                  "text": "This quiet Christian site nestled in the Yungas offers visitors a contemplative spot amidst the lush surrounding nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.829042,
+                        -23.77694
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "AR-A",
     coords: [-64.8333, -23.8333],
@@ -868,7 +4423,160 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "quebrada-de-las-conchas-relief-v2",
+    id: "quebrada-de-las-conchas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tres cruces",
+                  "text": "Dieser spektakuläre Aussichtspunkt am Straßenrand bietet einen weiten, erhöhten Panoramablick über die tiefe, rote Felsenschlucht, die vom Fluss Las Conchas geformt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -65.7115,
+                        -25.890922
+                  ]
+            },
+            {
+                  "name": "Geoforma del Sapo",
+                  "text": "Eine massive, natürlich geformte Formation aus rotem Sandstein, die eine verblüffende Ähnlichkeit mit einer riesigen, sitzenden Kröte aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.728168,
+                        -25.944436
+                  ]
+            },
+            {
+                  "name": "Casa de los Loros",
+                  "text": "Diese hohe, poröse Sandsteinwand dient als natürlicher Nistplatz und Aussichtspunkt für Schwärme von lauten, bunten Felsensittichen.",
+                  "category": "natural",
+                  "coords": [
+                        -65.747169,
+                        -25.950343
+                  ]
+            },
+            {
+                  "name": "El fraile",
+                  "text": "Dieser Aussichtspunkt am Straßenrand bietet den idealen Winkel, um die hoch aufragende Sandsteinsäule zu fotografieren, deren Silhouette einem stehenden Mönch ähnelt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.743717,
+                        -25.949154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tres cruces",
+                  "text": "Ez a látványos útmenti kilátó elsöprő, magaslati panorámát nyújt a Las Conchas folyó által kivájt mély vörös sziklaszurdokra.",
+                  "category": "natural",
+                  "coords": [
+                        -65.7115,
+                        -25.890922
+                  ]
+            },
+            {
+                  "name": "Geoforma del Sapo",
+                  "text": "Egy masszív, természetesen formált vörös homokkő képződmény, amely kísértetiesen hasonlít egy hatalmas, ülő varangyra.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.728168,
+                        -25.944436
+                  ]
+            },
+            {
+                  "name": "Casa de los Loros",
+                  "text": "Ez a magas, porózus homokkő sziklafal természetes fészkelőhelyként és kilátóként szolgál a zajos, színes üregi papagájok csapatai számára.",
+                  "category": "natural",
+                  "coords": [
+                        -65.747169,
+                        -25.950343
+                  ]
+            },
+            {
+                  "name": "El fraile",
+                  "text": "Ez az útmenti kilátó ideális szöget kínál a magasodó homokkőoszlop lefotózásához, amelynek sziluettje egy álló szerzetesre emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.743717,
+                        -25.949154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tres cruces",
+                  "text": "Acest punct de belvedere spectaculos de pe marginea drumului oferă panorame vaste, ridicate asupra canionului adânc de stâncă roșie, sculptat de râul Las Conchas.",
+                  "category": "natural",
+                  "coords": [
+                        -65.7115,
+                        -25.890922
+                  ]
+            },
+            {
+                  "name": "Geoforma del Sapo",
+                  "text": "O formațiune masivă din gresie roșie, sculptată natural, care seamănă izbitor de mult cu o broască uriașă, așezată.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.728168,
+                        -25.944436
+                  ]
+            },
+            {
+                  "name": "Casa de los Loros",
+                  "text": "Acest perete înalt și poros din gresie servește ca habitat natural de cuibărit și punct de observație pentru stolurile de papagali zgomotoși și colorați care se adăpostesc aici.",
+                  "category": "natural",
+                  "coords": [
+                        -65.747169,
+                        -25.950343
+                  ]
+            },
+            {
+                  "name": "El fraile",
+                  "text": "Acest punct de observație de pe marginea drumului oferă unghiul ideal pentru a fotografia stâlpul falnic de gresie a cărui siluetă seamănă cu un călugăr stând în picioare.",
+                  "category": "natural",
+                  "coords": [
+                        -65.743717,
+                        -25.949154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tres cruces",
+                  "text": "This spectacular roadside viewpoint provides sweeping, elevated panoramas over the deep red rock canyon carved by the Las Conchas River.",
+                  "category": "natural",
+                  "coords": [
+                        -65.7115,
+                        -25.890922
+                  ]
+            },
+            {
+                  "name": "Geoforma del Sapo",
+                  "text": "A massive, naturally sculpted red sandstone formation that bears a striking resemblance to a giant, sitting toad.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.728168,
+                        -25.944436
+                  ]
+            },
+            {
+                  "name": "Casa de los Loros",
+                  "text": "This tall, porous sandstone cliff face serves as a natural nesting habitat and viewpoint for flocks of noisy, colorful burrowing parrots.",
+                  "category": "natural",
+                  "coords": [
+                        -65.747169,
+                        -25.950343
+                  ]
+            },
+            {
+                  "name": "El fraile",
+                  "text": "This roadside vantage point offers the ideal angle to photograph the towering sandstone pillar whose silhouette resembles a standing monk.",
+                  "category": "natural",
+                  "coords": [
+                        -65.743717,
+                        -25.949154
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AR-A",
     coords: [-65.6500, -25.9500],
@@ -916,7 +4624,304 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "cuesta-del-obispo-relief-v2",
+    id: "cuesta-del-obispo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Laguna",
+                  "text": "Dieser markante Andengipfel erhebt sich steil über die kurvenreiche Bergstraße der Cuesta del Obispo.",
+                  "category": "natural",
+                  "coords": [
+                        -65.709647,
+                        -25.210038
+                  ]
+            },
+            {
+                  "name": "Mirador del Valle Encantado",
+                  "text": "Dieser Aussichtspunkt bietet einen Panoramablick über ein Tal, das für seine surrealen Felsformationen und leuchtend grünen Hänge bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -65.846825,
+                        -25.190584
+                  ]
+            },
+            {
+                  "name": "Abra Piedra de Molino",
+                  "text": "Dieser Hochgebirgspass auf 3.348 Metern Höhe markiert den höchsten Punkt der kurvenreichen Strecke nach Cachi.",
+                  "category": "natural",
+                  "coords": [
+                        -65.858062,
+                        -25.180533
+                  ]
+            },
+            {
+                  "name": "Cuesta del Obispo",
+                  "text": "Dieser Aussichtspunkt erfasst die dramatische, kurvenreiche Naturstraße, die steil durch die Wolken in die fruchtbare Schlucht hinabführt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.853294,
+                        -25.171086
+                  ]
+            },
+            {
+                  "name": "Mirador El Balcon",
+                  "text": "Von dieser Klippenterrasse blicken Besucher über die tiefen Schluchten und geschichteten Sedimentgesteine des Tals.",
+                  "category": "natural",
+                  "coords": [
+                        -65.84791,
+                        -25.173196
+                  ]
+            },
+            {
+                  "name": "Mirador Peña Caracol",
+                  "text": "Dieser Aussichtspunkt liegt gegenüber einer markanten, spiralförmigen Bergklippe, die den hoch gelegenen Pass überragt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.842233,
+                        -25.168103
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Eine unbefestigte Haltebucht an der Bergstraße, die freie Sicht auf den natürlichen Lebensraum des Andenkondors bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.816429,
+                        -25.179316
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Eine abgelegene Lehmkapelle vor der dramatischen Kulisse der Berge der Cuesta del Obispo.",
+                  "category": "religious",
+                  "coords": [
+                        -65.834799,
+                        -25.165224
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Laguna",
+                  "text": "Ez a kiemelkedő andoki csúcs meredeken emelkedik a Cuesta del Obispo kanyargós hegyi útja fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -65.709647,
+                        -25.210038
+                  ]
+            },
+            {
+                  "name": "Mirador del Valle Encantado",
+                  "text": "Ez a kilátó panorámás kilátást nyújt a szürreális sziklaalakzatairól és élénkzöld lejtőiről ismert völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -65.846825,
+                        -25.190584
+                  ]
+            },
+            {
+                  "name": "Abra Piedra de Molino",
+                  "text": "A 3348 méteres magasságban fekvő magashegyi hágó a Cachiba vezető kanyargós útvonal legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -65.858062,
+                        -25.180533
+                  ]
+            },
+            {
+                  "name": "Cuesta del Obispo",
+                  "text": "Erről a kilátópontról csodálatos rálátás nyílik a felhők közül a lenti termékeny szurdokba meredeken leereszkedő kanyargós hegyi útra.",
+                  "category": "natural",
+                  "coords": [
+                        -65.853294,
+                        -25.171086
+                  ]
+            },
+            {
+                  "name": "Mirador El Balcon",
+                  "text": "Erről a sziklaszirten kialakított teraszról a látogatók a völgy mély szakadékaira és rétegzett üledékes kőzeteire tekinthetnek le.",
+                  "category": "natural",
+                  "coords": [
+                        -65.84791,
+                        -25.173196
+                  ]
+            },
+            {
+                  "name": "Mirador Peña Caracol",
+                  "text": "Ez a kilátópont a magasan fekvő hágó fölé magasodó, jellegzetes, spirál alakú sziklaszirttel néz farkasszemet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.842233,
+                        -25.168103
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Egy burkolatlan pihenőhely a hegyi útvonal mentén, amely akadálytalan rálátást biztosít a környező andoki kondorkeselyűk élőhelyére.",
+                  "category": "natural",
+                  "coords": [
+                        -65.816429,
+                        -25.179316
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Egy távoli vályogkápolna, amely a Cuesta del Obispo hegyek drámai háttere előtt áll.",
+                  "category": "religious",
+                  "coords": [
+                        -65.834799,
+                        -25.165224
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Laguna",
+                  "text": "Acest vârf andin proeminent se înalță abrupt deasupra drumului montan șerpuitor de la Cuesta del Obispo.",
+                  "category": "natural",
+                  "coords": [
+                        -65.709647,
+                        -25.210038
+                  ]
+            },
+            {
+                  "name": "Mirador del Valle Encantado",
+                  "text": "Acest punct de belvedere oferă priveliști panoramice peste o vale cunoscută pentru formațiunile sale stâncoase suprarealiste și pantele de un verde viu.",
+                  "category": "natural",
+                  "coords": [
+                        -65.846825,
+                        -25.190584
+                  ]
+            },
+            {
+                  "name": "Abra Piedra de Molino",
+                  "text": "Situat la o altitudine de 3.348 de metri, această trecătoare montană marchează cel mai înalt punct al traseului șerpuitor către Cachi.",
+                  "category": "natural",
+                  "coords": [
+                        -65.858062,
+                        -25.180533
+                  ]
+            },
+            {
+                  "name": "Cuesta del Obispo",
+                  "text": "Acest punct de belvedere surprinde drumul spectaculos, șerpuitor și neasfaltat care coboară abrupt prin nori în defileul fertil de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.853294,
+                        -25.171086
+                  ]
+            },
+            {
+                  "name": "Mirador El Balcon",
+                  "text": "De pe această terasă de pe stâncă, vizitatorii pot privi peste râpele adânci și rocile sedimentare stratificate ale văii.",
+                  "category": "natural",
+                  "coords": [
+                        -65.84791,
+                        -25.173196
+                  ]
+            },
+            {
+                  "name": "Mirador Peña Caracol",
+                  "text": "Acest punct de observație se află vizavi de o stâncă montană distinctivă, în formă de spirală, care domină trecătoarea de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -65.842233,
+                        -25.168103
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "O parcare neasfaltată de-a lungul traseului montan, oferind o vedere neobstrucționată a habitatului condorilor andini din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -65.816429,
+                        -25.179316
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "O capelă izolată din chirpici, care se profilează pe fundalul dramatic al munților din Cuesta del Obispo.",
+                  "category": "religious",
+                  "coords": [
+                        -65.834799,
+                        -25.165224
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Laguna",
+                  "text": "This prominent Andean peak rises steeply above the winding mountain road of Cuesta del Obispo.",
+                  "category": "natural",
+                  "coords": [
+                        -65.709647,
+                        -25.210038
+                  ]
+            },
+            {
+                  "name": "Mirador del Valle Encantado",
+                  "text": "This scenic overlook provides panoramic views across a valley known for its surreal rock formations and vivid green slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -65.846825,
+                        -25.190584
+                  ]
+            },
+            {
+                  "name": "Abra Piedra de Molino",
+                  "text": "Situated at an elevation of 3,348 meters, this high mountain pass marks the highest point of the winding route to Cachi.",
+                  "category": "natural",
+                  "coords": [
+                        -65.858062,
+                        -25.180533
+                  ]
+            },
+            {
+                  "name": "Cuesta del Obispo",
+                  "text": "This viewpoint captures the dramatic, winding unpaved road that descends steeply through the clouds into the fertile gorge below.",
+                  "category": "natural",
+                  "coords": [
+                        -65.853294,
+                        -25.171086
+                  ]
+            },
+            {
+                  "name": "Mirador El Balcon",
+                  "text": "From this cliffside terrace, visitors can look out over the deep ravines and layered sedimentary rock of the valley.",
+                  "category": "natural",
+                  "coords": [
+                        -65.84791,
+                        -25.173196
+                  ]
+            },
+            {
+                  "name": "Mirador Peña Caracol",
+                  "text": "This observation point faces a distinctive, spiral-shaped mountain crag towering above the high-altitude pass.",
+                  "category": "natural",
+                  "coords": [
+                        -65.842233,
+                        -25.168103
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "An unpaved pull-out along the mountain route, providing an unobstructed view of the surrounding Andean condor habitat.",
+                  "category": "natural",
+                  "coords": [
+                        -65.816429,
+                        -25.179316
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "A remote adobe chapel standing against the dramatic backdrop of the Cuesta del Obispo mountains.",
+                  "category": "religious",
+                  "coords": [
+                        -65.834799,
+                        -25.165224
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "AR-A",
     coords: [-65.7833, -25.1833],
@@ -1012,7 +5017,1348 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "cerro-campanario-relief-v2",
+    id: "cerro-campanario-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruinas del \"Proyecto Huemul\"",
+                  "text": "Die historischen Ruinen des 1949 initiierten Proyecto Huemul zeugen von einem geheimen argentinischen Kernfusionsprojekt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.396271,
+                        -41.105377
+                  ]
+            },
+            {
+                  "name": "Capilla San Eduardo",
+                  "text": "Eine malerische Holzkapelle in den Bergen, die San Eduardo gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.527308,
+                        -41.054677
+                  ]
+            },
+            {
+                  "name": "Cerro Campanario",
+                  "text": "Dieser prominente Berggipfel ist bekannt für seinen Sessellift und die Panoramasicht auf die Nahuel Huapi-Seen.",
+                  "category": "natural",
+                  "coords": [
+                        -71.476421,
+                        -41.075751
+                  ]
+            },
+            {
+                  "name": "Cerro Huemul",
+                  "text": "Ein rauer Berggipfel in der Region, der bei erfahrenen Trekkern wegen seines anspruchsvollen Geländes beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.398001,
+                        -40.997394
+                  ]
+            },
+            {
+                  "name": "Estación Araucanía",
+                  "text": "Dieses Theater und kulturelle Zentrum veranstaltet Aufführungen und Gemeindeveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.430775,
+                        -41.110024
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Freilicht-Amphitheater, das für kulturelle Vorführungen und Versammlungen unter freiem Himmel konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.509251,
+                        -41.096263
+                  ]
+            },
+            {
+                  "name": "Puente Romano",
+                  "text": "Eine historische Steinbrücke im romanischen Stil, die ein lokales Gewässer überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.565917,
+                        -41.050178
+                  ]
+            },
+            {
+                  "name": "Playa Moreno",
+                  "text": "Ein landschaftlich reizvoller Strand an den Ufern des Lago Moreno, der ideal zum Entspannen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.549157,
+                        -41.058559
+                  ]
+            },
+            {
+                  "name": "Aldea Duende",
+                  "text": "Eine märchenhafte Attraktion im Wald, die sich dem Thema Zwerge und Waldgeister widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.511387,
+                        -41.095103
+                  ]
+            },
+            {
+                  "name": "Ardilla Buceo",
+                  "text": "Eine Wasserattraktion, die Taucherlebnisse in den kalten, klaren Andenseen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.507189,
+                        -41.073195
+                  ]
+            },
+            {
+                  "name": "Hermita",
+                  "text": "Eine kleine christliche Einsiedelei, die einen ruhigen Ort zum Beten inmitten des Bergwaldes bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.445624,
+                        -41.10857
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine lokale christliche Kirche, die den spirituellen Bedürfnissen der umliegenden Seegemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.450709,
+                        -41.108032
+                  ]
+            },
+            {
+                  "name": "Capilla María Madre de la Luz",
+                  "text": "Eine christliche Kapelle, die Maria, der Mutter des Lichts, gewidmet ist und sich durch traditionelle andine Architektur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.458061,
+                        -41.065642
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora del Rosario",
+                  "text": "Eine katholische Kapelle, die Unserer Lieben Frau vom Rosenkranz geweiht ist und ein ruhiges Heiligtum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.50773,
+                        -41.096266
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Escondido (muelle)",
+                  "text": "Ein malerischer Aussichtspunkt direkt am Pier, der Spiegelungen des versteckten Sees bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.566329,
+                        -41.060392
+                  ]
+            },
+            {
+                  "name": "Mirador Del Tacul",
+                  "text": "Ein Aussichtspunkt mit Blick auf die ruhigen Buchten und dichten einheimischen Wälder der Region Villa Tacul.",
+                  "category": "natural",
+                  "coords": [
+                        -71.572761,
+                        -41.040141
+                  ]
+            },
+            {
+                  "name": "Mirador Llao Llao",
+                  "text": "Ein weitläufiger Aussichtspunkt, der die berühmte Halbinsel Llao Llao und ihre zusammenhängenden Gletscherseen einrahmt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.555314,
+                        -41.046025
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Moreno",
+                  "text": "Ein erhöhter Ort, der ununterbrochene Panoramen über das tiefblaue Wasser des Lago Moreno bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.556284,
+                        -41.055502
+                  ]
+            },
+            {
+                  "name": "Mirador de los navegantes",
+                  "text": "Der Aussichtspunkt der Seefahrer bietet eine gute Sicht auf Boote, die den riesigen See Nahuel Huapi überqueren.",
+                  "category": "natural",
+                  "coords": [
+                        -71.531007,
+                        -41.052035
+                  ]
+            },
+            {
+                  "name": "Mirador al Cerro Capilla",
+                  "text": "Ein Aussichtspunkt, der perfekt ausgerichtet ist, um den markanten, kapellenartigen Felsgipfel des Cerro Capilla hervorzuheben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.571789,
+                        -41.066401
+                  ]
+            },
+            {
+                  "name": "Mirador Bahía López",
+                  "text": "Eine Aussichtsplattform über dem tiefen Gletschereinlass der Bahía López, umgeben von steilen Klippen.",
+                  "category": "natural",
+                  "coords": [
+                        -71.570235,
+                        -41.067328
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Tronador",
+                  "text": "Ein Aussichtspunkt, der speziell auf den massiven, gletscherbedeckten Gipfel des Mount Tronador in der Ferne gerichtet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.581514,
+                        -41.073416
+                  ]
+            },
+            {
+                  "name": "Mirador Brazo Tristeza",
+                  "text": "Ein Aussichtspunkt mit dramatischen Ausblicken direkt in das schmale, fjordähnliche Wasser des Brazo Tristeza.",
+                  "category": "natural",
+                  "coords": [
+                        -71.580714,
+                        -41.07115
+                  ]
+            },
+            {
+                  "name": "Descanso del pedrero",
+                  "text": "Ein malerischer Rastplatz im felsigen Gelände, der Wanderern ein wohlverdientes Panorama bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.548142,
+                        -41.095338
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein Panoramapunkt, der so positioniert ist, dass er die weitläufige Landschaft der patagonischen Seen und Berge erfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -71.522184,
+                        -41.071827
+                  ]
+            },
+            {
+                  "name": "Vista al Lago Nahuel Huapi",
+                  "text": "Ein spezieller Aussichtspunkt mit freiem Blick über die weite, tiefblaue Oberfläche des Nahuel-Huapi-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49014,
+                        -41.057623
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Las Cartas",
+                  "text": "Ein städtisches Naturschutzgebiet, das sich der Erhaltung wichtiger Teile des einheimischen Andenwaldes inmitten der Bebauung widmet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.532429,
+                        -41.076158
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Bosque de la Ermita",
+                  "text": "Ein geschütztes Waldgebiet, das eine lokale Einsiedelei umgibt und ruhige, schattige Wanderwege bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.444492,
+                        -41.109596
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Isla Desembocadura del Arroyo Casa de Piedra",
+                  "text": "Ein geschütztes Insel-Naturschutzgebiet direkt an der Mündung des Baches Casa de Piedra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.464324,
+                        -41.111524
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Laguna El Trébol",
+                  "text": "Ein städtisches Naturschutzgebiet, das die kleine Lagune El Trébol und ihre reichen Lebensräume für Feuchtgebietsvögel schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.488016,
+                        -41.072397
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Lago Morenito - Laguna Ezquerra",
+                  "text": "Eine Naturschutzzone, die die miteinander verbundenen, ruhigen Gewässer des Lago Morenito und der Laguna Ezquerra umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -71.513766,
+                        -41.058592
+                  ]
+            },
+            {
+                  "name": "Playa Los Troncos",
+                  "text": "Ein malerisches Strandbad am Seeufer, benannt nach den charakteristischen Treibholzstämmen, die an seine Ufer gespült werden.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.570363,
+                        -41.063379
+                  ]
+            },
+            {
+                  "name": "Playa Villa Tacul",
+                  "text": "Ein geschützter Kieselstrand, der von dichten einheimischen Coihue- und Arrayán-Bäumen umgeben ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.567203,
+                        -41.041332
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "Ein Abschnitt mit sandiger und felsiger Küste, der direkten Zugang zum kühlen Bergseewasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.559586,
+                        -41.03804
+                  ]
+            },
+            {
+                  "name": "Playa Bahía Llao Llao",
+                  "text": "Ein beliebtes Strandbad an den ruhigen, von Bäumen gesäumten Ufern der Bucht von Llao Llao.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.561533,
+                        -41.038871
+                  ]
+            },
+            {
+                  "name": "Playa Angostura",
+                  "text": "Ein Resortstrand direkt am schmalen Kanal, an dem die Gewässer zweier großer Seen aufeinandertreffen.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.563022,
+                        -41.071876
+                  ]
+            },
+            {
+                  "name": "Playa Bahía López",
+                  "text": "Ein dramatisches Felsenstrand-Resort am Fuße hoch aufragender alpiner Klippen in der López-Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.568751,
+                        -41.07421
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"Huemul Project\" romjai",
+                  "text": "Az 1949-ben indított Proyecto Huemul történelmi romjai egy titkos argentin magfúziós projektről tanúskodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.396271,
+                        -41.105377
+                  ]
+            },
+            {
+                  "name": "Capilla San Eduardo",
+                  "text": "Egy festői hegyi fakápolna, amelyet San Eduardónak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -71.527308,
+                        -41.054677
+                  ]
+            },
+            {
+                  "name": "Cerro Campanario",
+                  "text": "Ez a kiemelkedő hegycsúcs libegőjéről és a Nahuel Huapi tavakra nyíló panorámájáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        -71.476421,
+                        -41.075751
+                  ]
+            },
+            {
+                  "name": "Cerro Huemul",
+                  "text": "Egy zord hegycsúcs a régióban, amely kihívást jelentő terepe miatt népszerű a tapasztalt túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.398001,
+                        -40.997394
+                  ]
+            },
+            {
+                  "name": "Estación Araucanía",
+                  "text": "Ez a színház és kulturális központ előadásoknak és közösségi rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.430775,
+                        -41.110024
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Szabadtéri amfiteátrum, amelyet szabadtéri kulturális előadásokra és összejövetelekre terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.509251,
+                        -41.096263
+                  ]
+            },
+            {
+                  "name": "Puente Romano",
+                  "text": "Román stílusban épült történelmi kőhíd, amely egy helyi vizecskét ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.565917,
+                        -41.050178
+                  ]
+            },
+            {
+                  "name": "Playa Moreno",
+                  "text": "Festői strand a Lago Moreno partján, amely ideális a kikapcsolódásra.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.549157,
+                        -41.058559
+                  ]
+            },
+            {
+                  "name": "Aldea Duende",
+                  "text": "Mesebeli erdei látványosság, amelyet a törpék és erdei szellemek témájának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.511387,
+                        -41.095103
+                  ]
+            },
+            {
+                  "name": "Ardilla Buceo",
+                  "text": "Vízi látványosság, amely búvárkodási élményeket kínál a hideg, tiszta andoki tavakban.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.507189,
+                        -41.073195
+                  ]
+            },
+            {
+                  "name": "Hermita",
+                  "text": "Egy kis keresztény remeteség, amely csendes helyet kínál az imádkozásra a hegyi erdő közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.445624,
+                        -41.10857
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egy helyi keresztény templom, amely a környező tóparti közösség hitéletét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.450709,
+                        -41.108032
+                  ]
+            },
+            {
+                  "name": "Capilla María Madre de la Luz",
+                  "text": "A Fény Anyjának, Máriának szentelt keresztény kápolna hagyományos andoki építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.458061,
+                        -41.065642
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora del Rosario",
+                  "text": "A Rózsafüzér Királynőjének szentelt katolikus kápolna, amely békés szentélyt nyújt a hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.50773,
+                        -41.096266
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Escondido (muelle)",
+                  "text": "Közvetlenül a mólón található festői kilátó, ahonnan a rejtett tó tükröződéseiben gyönyörködhetünk.",
+                  "category": "natural",
+                  "coords": [
+                        -71.566329,
+                        -41.060392
+                  ]
+            },
+            {
+                  "name": "Mirador Del Tacul",
+                  "text": "Kilátó, amely a Villa Tacul környékének csendes öbleire és sűrű őshonos erdeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.572761,
+                        -41.040141
+                  ]
+            },
+            {
+                  "name": "Mirador Llao Llao",
+                  "text": "Lenyűgöző kilátópont, ahonnan a híres Llao Llao-félsziget és a gleccsertavak hálózata tárul elénk.",
+                  "category": "natural",
+                  "coords": [
+                        -71.555314,
+                        -41.046025
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Moreno",
+                  "text": "Magaslati pont, ahonnan zavartalan panoráma nyílik a Lago Moreno mélykék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -71.556284,
+                        -41.055502
+                  ]
+            },
+            {
+                  "name": "Mirador de los navegantes",
+                  "text": "A navigátorok kilátója remek rálátást biztosít a hatalmas Nahuel Huapi-tavon áthaladó hajókra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.531007,
+                        -41.052035
+                  ]
+            },
+            {
+                  "name": "Mirador al Cerro Capilla",
+                  "text": "Festői kilátó, amely tökéletesen rálát a Cerro Capilla drámai, kápolnaszerű sziklás csúcsára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.571789,
+                        -41.066401
+                  ]
+            },
+            {
+                  "name": "Mirador Bahía López",
+                  "text": "A Bahía López mély gleccseröble fölé magasodó, meredek sziklákkal körülvett kilátóterasz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.570235,
+                        -41.067328
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Tronador",
+                  "text": "Egy kilátó, amely kifejezetten a távolban magasodó, gleccserekkel borított Tronador-hegy csúcsára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.581514,
+                        -41.073416
+                  ]
+            },
+            {
+                  "name": "Mirador Brazo Tristeza",
+                  "text": "Lenyűgöző kilátást nyújtó pont közvetlenül a Brazo Tristeza keskeny, fjordszerű vizeire.",
+                  "category": "natural",
+                  "coords": [
+                        -71.580714,
+                        -41.07115
+                  ]
+            },
+            {
+                  "name": "Descanso del pedrero",
+                  "text": "Sziklás terepen található festői pihenőhely, amely jól megérdemelt panorámát kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -71.548142,
+                        -41.095338
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Panorámás kilátó, ahonnan megcsodálhatjuk a patagóniai tavak és hegyek kiterjedt táját.",
+                  "category": "natural",
+                  "coords": [
+                        -71.522184,
+                        -41.071827
+                  ]
+            },
+            {
+                  "name": "Vista al Lago Nahuel Huapi",
+                  "text": "Kijelölt festői pont, ahonnan akadálytalan kilátás nyílik a Nahuel Huapi-tó hatalmas, mélykék felszínére.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49014,
+                        -41.057623
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Las Cartas",
+                  "text": "Városi természetvédelmi terület, amely az őshonos andoki erdők fontos foltjainak megőrzésére szolgál a beépített területek között.",
+                  "category": "natural",
+                  "coords": [
+                        -71.532429,
+                        -41.076158
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Bosque de la Ermita",
+                  "text": "Egy helyi remeteséget körülölelő védett erdőterület, amely csendes, árnyékos sétautakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -71.444492,
+                        -41.109596
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Isla Desembocadura del Arroyo Casa de Piedra",
+                  "text": "A Casa de Piedra patak torkolatánál található védett szigeti természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -71.464324,
+                        -41.111524
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Laguna El Trébol",
+                  "text": "Városi természetvédelmi terület, amely a kis El Trébol lagúnát és annak gazdag vizes élőhelyeit védi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.488016,
+                        -41.072397
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Lago Morenito - Laguna Ezquerra",
+                  "text": "A Lago Morenito és a Laguna Ezquerra összekapcsolódó, nyugodt vizeit magába foglaló természetvédelmi övezet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.513766,
+                        -41.058592
+                  ]
+            },
+            {
+                  "name": "Playa Los Troncos",
+                  "text": "Festői tóparti strand, amely a partra mosott jellegzetes uszadékfákról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.570363,
+                        -41.063379
+                  ]
+            },
+            {
+                  "name": "Playa Villa Tacul",
+                  "text": "Sűrű, őshonos coihue és arrayán fákkal körülvett, védett kavicsos strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.567203,
+                        -41.041332
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "Homokos és sziklás partszakasz, amely közvetlen hozzáférést biztosít a hűvös hegyi tó vizéhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.559586,
+                        -41.03804
+                  ]
+            },
+            {
+                  "name": "Playa Bahía Llao Llao",
+                  "text": "Népszerű strand a Llao Llao-öböl nyugodt, fákkal övezett partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.561533,
+                        -41.038871
+                  ]
+            },
+            {
+                  "name": "Playa Angostura",
+                  "text": "Közvetlenül a két nagy tó vízét összekötő keskeny csatornánál található üdülőstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.563022,
+                        -41.071876
+                  ]
+            },
+            {
+                  "name": "Playa Bahía López",
+                  "text": "Drámai, sziklás strand a magasba tornyosuló alpesi sziklák lábánál a López-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.568751,
+                        -41.07421
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruinas del \"Proyecto Huemul\"",
+                  "text": "Ruinele istorice ale Proyecto Huemul, inițiat în 1949, mărturisesc despre un proiect secret argentinian de fuziune nucleară.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.396271,
+                        -41.105377
+                  ]
+            },
+            {
+                  "name": "Capilla San Eduardo",
+                  "text": "O capelă pitorească de lemn în munți, dedicată Sfântului Eduard.",
+                  "category": "religious",
+                  "coords": [
+                        -71.527308,
+                        -41.054677
+                  ]
+            },
+            {
+                  "name": "Cerro Campanario",
+                  "text": "Acest vârf de munte proeminent este faimos pentru telescaunul său și vederea panoramică asupra lacurilor Nahuel Huapi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.476421,
+                        -41.075751
+                  ]
+            },
+            {
+                  "name": "Cerro Huemul",
+                  "text": "Un vârf de munte accidentat din regiune, popular printre drumeții experimentați datorită terenului său provocator.",
+                  "category": "natural",
+                  "coords": [
+                        -71.398001,
+                        -40.997394
+                  ]
+            },
+            {
+                  "name": "Estación Araucanía",
+                  "text": "Acest teatru și centru cultural găzduiește spectacole și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.430775,
+                        -41.110024
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un amfiteatru în aer liber proiectat pentru spectacole culturale și adunări în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.509251,
+                        -41.096263
+                  ]
+            },
+            {
+                  "name": "Puente Romano",
+                  "text": "Un pod istoric de piatră construit în stil romanic, care traversează un curs de apă local.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.565917,
+                        -41.050178
+                  ]
+            },
+            {
+                  "name": "Playa Moreno",
+                  "text": "O plajă pitorească pe malul lacului Lago Moreno, ideală pentru relaxare.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.549157,
+                        -41.058559
+                  ]
+            },
+            {
+                  "name": "Aldea Duende",
+                  "text": "O atracție de basm în pădure, dedicată temei piticilor și spiritelor pădurii.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.511387,
+                        -41.095103
+                  ]
+            },
+            {
+                  "name": "Ardilla Buceo",
+                  "text": "O atracție acvatică ce oferă experiențe de scufundare în apele reci și limpezi ale lacurilor andine.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.507189,
+                        -41.073195
+                  ]
+            },
+            {
+                  "name": "Hermita",
+                  "text": "Un mic schit creștin care oferă un loc liniștit pentru rugăciune în mijlocul pădurii de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.445624,
+                        -41.10857
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O biserică creștină locală construită pentru a servi nevoilor spirituale ale comunității de pe malul lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.450709,
+                        -41.108032
+                  ]
+            },
+            {
+                  "name": "Capilla María Madre de la Luz",
+                  "text": "O capelă creștină dedicată Mariei, Mama Luminii, remarcabilă prin arhitectura tradițională andină.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.458061,
+                        -41.065642
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora del Rosario",
+                  "text": "O capelă catolică dedicată Maicii Domnului a Rozariului, oferind un sanctuar senin pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.50773,
+                        -41.096266
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Escondido (muelle)",
+                  "text": "Un punct de belvedere pitoresc situat chiar pe debarcader, oferind reflexii intime ale lacului ascuns.",
+                  "category": "natural",
+                  "coords": [
+                        -71.566329,
+                        -41.060392
+                  ]
+            },
+            {
+                  "name": "Mirador Del Tacul",
+                  "text": "Un punct de observație cu vedere la golfurile liniștite și pădurile dese native din zona Villa Tacul.",
+                  "category": "natural",
+                  "coords": [
+                        -71.572761,
+                        -41.040141
+                  ]
+            },
+            {
+                  "name": "Mirador Llao Llao",
+                  "text": "Un punct de observație amplu care încadrează faimoasa peninsulă Llao Llao și lacurile sale glaciare interconectate.",
+                  "category": "natural",
+                  "coords": [
+                        -71.555314,
+                        -41.046025
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Moreno",
+                  "text": "Un loc la înălțime ce oferă panorame neîntrerupte peste apele de un albastru intens ale lacului Moreno.",
+                  "category": "natural",
+                  "coords": [
+                        -71.556284,
+                        -41.055502
+                  ]
+            },
+            {
+                  "name": "Mirador de los navegantes",
+                  "text": "Punctul de observație al navigatorilor oferă o perspectivă înaltă pentru a privi bărcile ce traversează vastul lac Nahuel Huapi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.531007,
+                        -41.052035
+                  ]
+            },
+            {
+                  "name": "Mirador al Cerro Capilla",
+                  "text": "Un punct de belvedere perfect aliniat pentru a evidenția vârful stâncos, asemănător unei capele, al Cerro Capilla.",
+                  "category": "natural",
+                  "coords": [
+                        -71.571789,
+                        -41.066401
+                  ]
+            },
+            {
+                  "name": "Mirador Bahía López",
+                  "text": "O platformă de vizionare suspendată deasupra golfului glaciar adânc Bahía López, înconjurată de stânci abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        -71.570235,
+                        -41.067328
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Tronador",
+                  "text": "Un punct de observație orientat special către vârful masiv, acoperit de ghețari, al Muntelui Tronador din depărtare.",
+                  "category": "natural",
+                  "coords": [
+                        -71.581514,
+                        -41.073416
+                  ]
+            },
+            {
+                  "name": "Mirador Brazo Tristeza",
+                  "text": "Un loc de observație ce oferă vederi dramatice direct spre apele înguste, asemănătoare unui fiord, ale Brazo Tristeza.",
+                  "category": "natural",
+                  "coords": [
+                        -71.580714,
+                        -41.07115
+                  ]
+            },
+            {
+                  "name": "Descanso del pedrero",
+                  "text": "Un loc de odihnă pitoresc printre terenurile stâncoase, oferind o panoramă bine meritată drumeților.",
+                  "category": "natural",
+                  "coords": [
+                        -71.548142,
+                        -41.095338
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere panoramic poziționat pentru a surprinde peisajul vast al lacurilor și munților patagonezi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.522184,
+                        -41.071827
+                  ]
+            },
+            {
+                  "name": "Vista al Lago Nahuel Huapi",
+                  "text": "Un loc pitoresc dedicat, ce oferă o vedere neobstrucționată peste suprafața vastă și albastră a lacului Nahuel Huapi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49014,
+                        -41.057623
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Las Cartas",
+                  "text": "O rezervație naturală urbană dedicată conservării porțiunilor vitale de pădure andină nativă în mijlocul dezvoltării urbane.",
+                  "category": "natural",
+                  "coords": [
+                        -71.532429,
+                        -41.076158
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Bosque de la Ermita",
+                  "text": "O zonă împădurită protejată ce înconjoară un schit local, oferind poteci de plimbare liniștite și umbrite.",
+                  "category": "natural",
+                  "coords": [
+                        -71.444492,
+                        -41.109596
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Isla Desembocadura del Arroyo Casa de Piedra",
+                  "text": "O rezervație naturală insulară conservată, situată chiar la gura de vărsare a pârâului Casa de Piedra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.464324,
+                        -41.111524
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Laguna El Trébol",
+                  "text": "O rezervație naturală municipală ce protejează mica lagună El Trébol și habitatele sale bogate în păsări de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -71.488016,
+                        -41.072397
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Lago Morenito - Laguna Ezquerra",
+                  "text": "O zonă de conservare care cuprinde apele calme și interconectate ale Lago Morenito și Laguna Ezquerra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.513766,
+                        -41.058592
+                  ]
+            },
+            {
+                  "name": "Playa Los Troncos",
+                  "text": "O stațiune pitorească pe plaja lacului, numită după trunchiurile de lemn aduse de ape pe țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.570363,
+                        -41.063379
+                  ]
+            },
+            {
+                  "name": "Playa Villa Tacul",
+                  "text": "O plajă adăpostită cu pietriș, înconjurată de păduri dese de copaci nativi coihue și arrayán.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.567203,
+                        -41.041332
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "O porțiune de coastă cu nisip și stânci care oferă acces direct la apele răcoroase ale lacului de munte.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.559586,
+                        -41.03804
+                  ]
+            },
+            {
+                  "name": "Playa Bahía Llao Llao",
+                  "text": "O stațiune de plajă populară situată de-a lungul țărmurilor liniștite, mărginite de copaci, ale golfului Llao Llao.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.561533,
+                        -41.038871
+                  ]
+            },
+            {
+                  "name": "Playa Angostura",
+                  "text": "O plajă de stațiune situată chiar pe canalul îngust unde se întâlnesc apele a două mari lacuri.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.563022,
+                        -41.071876
+                  ]
+            },
+            {
+                  "name": "Playa Bahía López",
+                  "text": "O stațiune de plajă stâncoasă dramatică poziționată la poalele stâncilor alpine falnice din Golful López.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.568751,
+                        -41.07421
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruins of \"Proyecto Huemul\"",
+                  "text": "The historical ruins of the Proyecto Huemul, initiated in 1949, testify to a secret Argentine nuclear fusion project.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.396271,
+                        -41.105377
+                  ]
+            },
+            {
+                  "name": "Capilla San Eduardo",
+                  "text": "A picturesque wooden chapel in the mountains dedicated to San Eduardo.",
+                  "category": "religious",
+                  "coords": [
+                        -71.527308,
+                        -41.054677
+                  ]
+            },
+            {
+                  "name": "Cerro Campanario",
+                  "text": "This prominent mountain peak is famous for its chairlift and panoramic view of the Nahuel Huapi lakes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.476421,
+                        -41.075751
+                  ]
+            },
+            {
+                  "name": "Cerro Huemul",
+                  "text": "A rugged mountain peak in the region, popular with experienced trekkers for its challenging terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -71.398001,
+                        -40.997394
+                  ]
+            },
+            {
+                  "name": "Estación Araucanía",
+                  "text": "This theatre and cultural venue hosts performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.430775,
+                        -41.110024
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An open-air amphitheater designed for outdoor cultural performances and gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.509251,
+                        -41.096263
+                  ]
+            },
+            {
+                  "name": "Puente Romano",
+                  "text": "A historic stone bridge built in a Romanesque style, spanning a local waterway.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.565917,
+                        -41.050178
+                  ]
+            },
+            {
+                  "name": "Moreno Beach",
+                  "text": "A scenic beach on the shores of Lago Moreno, ideal for relaxation.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.549157,
+                        -41.058559
+                  ]
+            },
+            {
+                  "name": "Aldea Duende",
+                  "text": "A fairytale forest attraction dedicated to the theme of gnomes and forest spirits.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.511387,
+                        -41.095103
+                  ]
+            },
+            {
+                  "name": "Diving",
+                  "text": "An aquatic attraction offering diving experiences in the cold, clear Andean lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.507189,
+                        -41.073195
+                  ]
+            },
+            {
+                  "name": "Hermita",
+                  "text": "A small Christian hermitage offering a quiet place for prayer amidst the mountain forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.445624,
+                        -41.10857
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A local Christian church built to serve the spiritual needs of the surrounding lakeside community.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.450709,
+                        -41.108032
+                  ]
+            },
+            {
+                  "name": "Capilla María Madre de la Luz",
+                  "text": "A Christian chapel specifically dedicated to Mary, Mother of Light, featuring traditional Andean architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.458061,
+                        -41.065642
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora del Rosario",
+                  "text": "A Catholic chapel dedicated to Our Lady of the Rosary, providing a serene sanctuary for worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.50773,
+                        -41.096266
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Escondido (muelle)",
+                  "text": "A scenic viewpoint situated right on the pier, offering intimate reflections of the hidden lake.",
+                  "category": "natural",
+                  "coords": [
+                        -71.566329,
+                        -41.060392
+                  ]
+            },
+            {
+                  "name": "Mirador Del Tacul",
+                  "text": "A viewpoint overlooking the tranquil bays and dense native forests of the Villa Tacul area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.572761,
+                        -41.040141
+                  ]
+            },
+            {
+                  "name": "Mirador Llao Llao",
+                  "text": "A sweeping vantage point framing the famous Llao Llao peninsula and its interconnected glacial lakes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.555314,
+                        -41.046025
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Moreno",
+                  "text": "An elevated spot providing uninterrupted panoramas across the deep blue waters of Lago Moreno.",
+                  "category": "natural",
+                  "coords": [
+                        -71.556284,
+                        -41.055502
+                  ]
+            },
+            {
+                  "name": "Mirador de los navegantes",
+                  "text": "The navigators' viewpoint offers a high vantage to watch boats traversing the vast Nahuel Huapi lake.",
+                  "category": "natural",
+                  "coords": [
+                        -71.531007,
+                        -41.052035
+                  ]
+            },
+            {
+                  "name": "Mirador al Cerro Capilla",
+                  "text": "A scenic outlook perfectly aligned to highlight the dramatic, chapel-like rocky summit of Cerro Capilla.",
+                  "category": "natural",
+                  "coords": [
+                        -71.571789,
+                        -41.066401
+                  ]
+            },
+            {
+                  "name": "Mirador Bahía López",
+                  "text": "A viewing platform perched above the deep glacial inlet of Bahía López, surrounded by steep cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        -71.570235,
+                        -41.067328
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Tronador",
+                  "text": "A viewpoint specifically directed towards the massive, glacier-capped peak of Mount Tronador in the distance.",
+                  "category": "natural",
+                  "coords": [
+                        -71.581514,
+                        -41.073416
+                  ]
+            },
+            {
+                  "name": "Mirador Brazo Tristeza",
+                  "text": "A lookout offering dramatic views straight down into the narrow, fjord-like waters of Brazo Tristeza.",
+                  "category": "natural",
+                  "coords": [
+                        -71.580714,
+                        -41.07115
+                  ]
+            },
+            {
+                  "name": "Descanso del pedrero",
+                  "text": "A scenic resting spot among the rocky terrain offering a well-deserved panorama for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        -71.548142,
+                        -41.095338
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A panoramic lookout point positioned to take in the sprawling landscape of Patagonian lakes and mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.522184,
+                        -41.071827
+                  ]
+            },
+            {
+                  "name": "Vista al Lago Nahuel Huapi",
+                  "text": "A dedicated scenic spot offering unobstructed views over the expansive, deep blue surface of Nahuel Huapi Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49014,
+                        -41.057623
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Las Cartas",
+                  "text": "An urban nature reserve dedicated to preserving vital patches of native Andean forest amidst development.",
+                  "category": "natural",
+                  "coords": [
+                        -71.532429,
+                        -41.076158
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Bosque de la Ermita",
+                  "text": "A protected woodland area enveloping a local hermitage, offering tranquil, shaded walking paths.",
+                  "category": "natural",
+                  "coords": [
+                        -71.444492,
+                        -41.109596
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Isla Desembocadura del Arroyo Casa de Piedra",
+                  "text": "A conserved island nature reserve located right at the mouth of the Casa de Piedra stream.",
+                  "category": "natural",
+                  "coords": [
+                        -71.464324,
+                        -41.111524
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Laguna El Trébol",
+                  "text": "A municipal nature reserve protecting the small El Trébol lagoon and its rich wetland bird habitats.",
+                  "category": "natural",
+                  "coords": [
+                        -71.488016,
+                        -41.072397
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Lago Morenito - Laguna Ezquerra",
+                  "text": "A conservation zone encompassing the interconnected, calm waters of Lago Morenito and Laguna Ezquerra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.513766,
+                        -41.058592
+                  ]
+            },
+            {
+                  "name": "Playa Los Troncos",
+                  "text": "A scenic lakeshore beach resort named for the characteristic driftwood logs that wash up on its shores.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.570363,
+                        -41.063379
+                  ]
+            },
+            {
+                  "name": "Playa Villa Tacul",
+                  "text": "A sheltered pebble beach resort surrounded by dense native coihue and arrayán trees.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.567203,
+                        -41.041332
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "A stretch of sandy and rocky shoreline providing direct access to the cool mountain lake waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.559586,
+                        -41.03804
+                  ]
+            },
+            {
+                  "name": "Playa Bahía Llao Llao",
+                  "text": "A popular beach resort resting along the tranquil, tree-lined shores of the Llao Llao bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.561533,
+                        -41.038871
+                  ]
+            },
+            {
+                  "name": "Playa Angostura",
+                  "text": "A resort beach situated right at the narrow channel where the waters of two major lake bodies meet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.563022,
+                        -41.071876
+                  ]
+            },
+            {
+                  "name": "Playa Bahía López",
+                  "text": "A dramatic rocky beach resort positioned at the foot of towering alpine cliffs in López Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.568751,
+                        -41.07421
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-R",
     coords: [-71.4667, -41.0500],
@@ -1060,7 +6406,808 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "cerro-catedral-relief-v2",
+    id: "cerro-catedral-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Bonita",
+                  "text": "Ein Strandresort am See mit Freizeitangeboten in der Nähe des Cerro Catedral.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.394604,
+                        -41.120356
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral Norte",
+                  "text": "Der nördliche Gipfel der markanten Bergkette Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49082,
+                        -41.179567
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral",
+                  "text": "Ein hochgelegener Aussichtspunkt an den Hängen des berühmten Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49357,
+                        -41.180161
+                  ]
+            },
+            {
+                  "name": "Cerro Bella Vista",
+                  "text": "Ein Berggipfel, der weite Panoramablicke auf die umliegende andine Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495714,
+                        -41.132184
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein malerischer Aussichtspunkt im bergigen Gelände in der Nähe des Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.489876,
+                        -41.145586
+                  ]
+            },
+            {
+                  "name": "Mirador Playa Bonita",
+                  "text": "Ein erhöhter Aussichtspunkt mit Blick auf die Sandstrände der Playa Bonita.",
+                  "category": "natural",
+                  "coords": [
+                        -71.397147,
+                        -41.121361
+                  ]
+            },
+            {
+                  "name": "Piedra de Habsburgo",
+                  "text": "Eine markante Felsformation, die als malerischer Aussichtspunkt im Hochgebirge dient.",
+                  "category": "natural",
+                  "coords": [
+                        -71.388467,
+                        -41.157529
+                  ]
+            },
+            {
+                  "name": "Playa Los Coihues",
+                  "text": "Ein Seestrandresort, umgeben von einheimischen Coihue-Bäumen am patagonischen Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.412017,
+                        -41.161807
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Gutiérrez",
+                  "text": "Ein Aussichtspunkt in den Bergen mit Blick auf das unberührte blaue Wasser des Gutiérrez-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        -71.419822,
+                        -41.188101
+                  ]
+            },
+            {
+                  "name": "Deck Panorámico",
+                  "text": "Eine hölzerne Panoramaterrasse, die gebaut wurde, um einen weiten Blick auf die Andengipfel zu bieten.",
+                  "category": "natural",
+                  "coords": [
+                        -71.375442,
+                        -41.14477
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Dieser buddhistische Stupa dient als friedlicher Aussichtspunkt mit Blick auf die malerische Landschaft am Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.381065,
+                        -41.137672
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Dieses lokale Theater bietet kulturelle Aufführungen eingebettet in die raue Landschaft des Cerro Catedral.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.370833,
+                        -41.12864
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "Diese historische Mühlenstruktur steht als rustikale Attraktion in der Umgebung des Cerro Catedral.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.378346,
+                        -41.120397
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Diese lokale Kirche bietet einen ruhigen spirituellen Zufluchtsort inmitten der Berglandschaft des Cerro Catedral.",
+                  "category": "religious",
+                  "coords": [
+                        -71.468363,
+                        -41.239552
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Cerro",
+                  "text": "Diese christliche Kapelle, die Unserer Lieben Frau vom Berge gewidmet ist, dient den Gläubigen im Gebiet des Cerro Catedral.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.440134,
+                        -41.163829
+                  ]
+            },
+            {
+                  "name": "Gruta de Nuestra Señora de las Nieves",
+                  "text": "Diese Grotte in einer Felsnische ist ein verehrter Schrein, der der Muttergottes vom Schnee gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.413517,
+                        -41.13305
+                  ]
+            },
+            {
+                  "name": "Bendición Inauguración Templo Parroquial Virgen Misionera",
+                  "text": "Dieses religiöse Wahrzeichen erinnert an die Einweihungssegnung der Pfarrkirche Virgen Misionera.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.393526,
+                        -41.128809
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia Virgen de Lujan",
+                  "text": "Diese der Jungfrau von Luján gewidmete christliche Pfarrei bietet Gottesdienste für die Gemeinde in der Nähe des Cerro Catedral.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.415834,
+                        -41.165816
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Las Nieves",
+                  "text": "Diese Bergpfarrkirche ehrt die Muttergottes vom Schnee und bietet regelmäßige christliche Gottesdienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.360629,
+                        -41.126649
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista Melipal",
+                  "text": "Diese evangelisch-baptistische Kirche im Viertel Melipal versammelt die lokale protestantische Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.364954,
+                        -41.131163
+                  ]
+            },
+            {
+                  "name": "Capilla San Ignacio de Loyola",
+                  "text": "Diese bescheidene Kapelle, die dem Heiligen Ignatius von Loyola gewidmet ist, bietet einen ruhigen Raum für Gebete in der Nähe des Cerro Catedral.",
+                  "category": "religious",
+                  "coords": [
+                        -71.412623,
+                        -41.114548
+                  ]
+            },
+            {
+                  "name": "La Orquita",
+                  "text": "Dieser lebhafte lokale Markt bietet Einwohnern und Besuchern von Cerro Catedral frische regionale Produkte und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.369576,
+                        -41.12833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Bonita",
+                  "text": "Szabadidős tevékenységeket kínáló tóparti üdülőövezet a Cerro Catedral közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.394604,
+                        -41.120356
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral Norte",
+                  "text": "A kiemelkedő Cerro Catedral hegylánc északi csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49082,
+                        -41.179567
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral",
+                  "text": "Magaslati megfigyelőpont a híres Cerro Catedral lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49357,
+                        -41.180161
+                  ]
+            },
+            {
+                  "name": "Cerro Bella Vista",
+                  "text": "Hegyi csúcs, amely pazar panorámát nyújt a környező andoki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495714,
+                        -41.132184
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Festői kilátópont a Cerro Catedral melletti hegyvidéki terepen.",
+                  "category": "natural",
+                  "coords": [
+                        -71.489876,
+                        -41.145586
+                  ]
+            },
+            {
+                  "name": "Mirador Playa Bonita",
+                  "text": "Magaslati kilátó, ahonnan le lehet tekinteni a Playa Bonita homokos partjaira.",
+                  "category": "natural",
+                  "coords": [
+                        -71.397147,
+                        -41.121361
+                  ]
+            },
+            {
+                  "name": "Piedra de Habsburgo",
+                  "text": "Kiemelkedő sziklaalakzat, amely festői kilátóként szolgál a magashegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.388467,
+                        -41.157529
+                  ]
+            },
+            {
+                  "name": "Playa Los Coihues",
+                  "text": "Őshonos coihue-fákkal körülvett tóparti üdülőhely a patagóniai parton.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.412017,
+                        -41.161807
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Gutiérrez",
+                  "text": "Hegyi kilátópont, amely a Gutiérrez-tó érintetlen kék vizére néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.419822,
+                        -41.188101
+                  ]
+            },
+            {
+                  "name": "Deck Panorámico",
+                  "text": "Panorámás fából készült terasz, ahonnan lenyűgöző kilátás nyílik az Andok csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        -71.375442,
+                        -41.14477
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Ez a buddhista sztúpa békés kilátóként szolgál a Cerro Catedral festői tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.381065,
+                        -41.137672
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Ez a helyi színház kulturális előadásoknak ad otthont a Cerro Catedral hegyvidéki környezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.370833,
+                        -41.12864
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "Ez a történelmi malomépület rusztikus látványosságként szolgál a Cerro Catedral környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.378346,
+                        -41.120397
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a helyi templom csendes spirituális menedéket nyújt a Cerro Catedral hegyvidéki terepén.",
+                  "category": "religious",
+                  "coords": [
+                        -71.468363,
+                        -41.239552
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Cerro",
+                  "text": "A Hegy Miasszonyának szentelt keresztény kápolna a Cerro Catedral környékének híveit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.440134,
+                        -41.163829
+                  ]
+            },
+            {
+                  "name": "Gruta de Nuestra Señora de las Nieves",
+                  "text": "A sziklás fülkében kialakított barlang a Havas Boldogasszonynak szentelt, tisztelt kegyhely.",
+                  "category": "religious",
+                  "coords": [
+                        -71.413517,
+                        -41.13305
+                  ]
+            },
+            {
+                  "name": "Bendición Inauguración Templo Parroquial Virgen Misionera",
+                  "text": "Ez a vallási nevezetesség a Virgen Misionera plébániatemplom felavatási áldásának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.393526,
+                        -41.128809
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia Virgen de Lujan",
+                  "text": "A Lujáni Szűznek szentelt keresztény plébánia közösségi istentiszteleteket tart a Cerro Catedral közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.415834,
+                        -41.165816
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Las Nieves",
+                  "text": "Ez a hegyi plébániatemplom a Havas Boldogasszonyt tiszteli, és rendszeres keresztény istentiszteleteket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.360629,
+                        -41.126649
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista Melipal",
+                  "text": "A Melipal negyedben található evangéliumi baptista templom a helyi protestáns közösséget gyűjti egybe.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.364954,
+                        -41.131163
+                  ]
+            },
+            {
+                  "name": "Capilla San Ignacio de Loyola",
+                  "text": "A Loyolai Szent Ignácnak szentelt szerény kápolna békés teret biztosít az imádkozáshoz a Cerro Catedral közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -71.412623,
+                        -41.114548
+                  ]
+            },
+            {
+                  "name": "La Orquita",
+                  "text": "Ez a nyüzsgő helyi piac friss regionális termékeket és árukat kínál a Cerro Catedral lakosainak és látogatóinak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.369576,
+                        -41.12833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Bonita",
+                  "text": "O zonă de stațiune pe plaja lacului care oferă activități recreative în apropiere de Cerro Catedral.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.394604,
+                        -41.120356
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral Norte",
+                  "text": "Vârful nordic al lanțului montan proeminent Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49082,
+                        -41.179567
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral",
+                  "text": "Un punct de observație la mare altitudine pe versanții faimosului Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49357,
+                        -41.180161
+                  ]
+            },
+            {
+                  "name": "Cerro Bella Vista",
+                  "text": "Un vârf montan care oferă vederi panoramice ample asupra peisajului andin înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495714,
+                        -41.132184
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere pitoresc situat în terenul muntos de lângă Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.489876,
+                        -41.145586
+                  ]
+            },
+            {
+                  "name": "Mirador Playa Bonita",
+                  "text": "Un punct de belvedere înalt cu vedere la țărmurile nisipoase ale Playa Bonita.",
+                  "category": "natural",
+                  "coords": [
+                        -71.397147,
+                        -41.121361
+                  ]
+            },
+            {
+                  "name": "Piedra de Habsburgo",
+                  "text": "O formațiune stâncoasă proeminentă care servește drept punct de belvedere pitoresc în munții înalți.",
+                  "category": "natural",
+                  "coords": [
+                        -71.388467,
+                        -41.157529
+                  ]
+            },
+            {
+                  "name": "Playa Los Coihues",
+                  "text": "O stațiune de plajă pe lac înconjurată de copaci autohtoni Coihue pe țărmul patagonian.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.412017,
+                        -41.161807
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Gutiérrez",
+                  "text": "Un punct de observație montan cu vedere la apele albastre imaculate ale lacului Gutiérrez.",
+                  "category": "natural",
+                  "coords": [
+                        -71.419822,
+                        -41.188101
+                  ]
+            },
+            {
+                  "name": "Deck Panorámico",
+                  "text": "O terasă panoramică din lemn construită pentru a oferi vederi ample asupra vârfurilor andine.",
+                  "category": "natural",
+                  "coords": [
+                        -71.375442,
+                        -41.14477
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "Această stupă budistă servește ca un punct de belvedere liniștit cu vedere la peisajul pitoresc din Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.381065,
+                        -41.137672
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Acest teatru local găzduiește spectacole culturale cuibarite în peisajul de la Cerro Catedral.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.370833,
+                        -41.12864
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "Această structură istorică a unei mori este o atracție rustică în împrejurimile de la Cerro Catedral.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.378346,
+                        -41.120397
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Această biserică locală oferă un refugiu spiritual liniștit în mijlocul terenului muntos de la Cerro Catedral.",
+                  "category": "religious",
+                  "coords": [
+                        -71.468363,
+                        -41.239552
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Cerro",
+                  "text": "Închinată Maicii Domnului a Dealului, această capelă creștină deservește credincioșii din zona Cerro Catedral.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.440134,
+                        -41.163829
+                  ]
+            },
+            {
+                  "name": "Gruta de Nuestra Señora de las Nieves",
+                  "text": "Situată într-o nișă stâncoasă, această grotă este un sanctuar venerat dedicat Maicii Domnului Zăpezilor.",
+                  "category": "religious",
+                  "coords": [
+                        -71.413517,
+                        -41.13305
+                  ]
+            },
+            {
+                  "name": "Bendición Inauguración Templo Parroquial Virgen Misionera",
+                  "text": "Acest punct de reper religios comemorează binecuvântarea de inaugurare a templului parohial Virgen Misionera.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.393526,
+                        -41.128809
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia Virgen de Lujan",
+                  "text": "Dedicată Fecioarei din Luján, această parohie creștină oferă servicii de cult comunității din apropiere de Cerro Catedral.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.415834,
+                        -41.165816
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Las Nieves",
+                  "text": "Această biserică parohială montană o onorează pe Maica Domnului a Zăpezilor, oferind slujbe creștine regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.360629,
+                        -41.126649
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista Melipal",
+                  "text": "Situată în cartierul Melipal, această biserică evanghelică baptistă adună comunitatea protestantă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.364954,
+                        -41.131163
+                  ]
+            },
+            {
+                  "name": "Capilla San Ignacio de Loyola",
+                  "text": "Dedicată Sfântului Ignațiu de Loyola, această capelă modestă oferă un spațiu liniștit pentru rugăciune lângă Cerro Catedral.",
+                  "category": "religious",
+                  "coords": [
+                        -71.412623,
+                        -41.114548
+                  ]
+            },
+            {
+                  "name": "La Orquita",
+                  "text": "Această piață locală vibrantă oferă produse și mărfuri regionale proaspete locuitorilor și vizitatorilor din Cerro Catedral.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.369576,
+                        -41.12833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Bonita",
+                  "text": "A lakeside beach resort area offering recreational activities near Cerro Catedral.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.394604,
+                        -41.120356
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral Norte",
+                  "text": "The northern summit of the prominent Cerro Catedral mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49082,
+                        -41.179567
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral",
+                  "text": "A high-altitude observation point on the slopes of the famous Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49357,
+                        -41.180161
+                  ]
+            },
+            {
+                  "name": "Cerro Bella Vista",
+                  "text": "A mountain peak providing sweeping panoramic vistas over the surrounding Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495714,
+                        -41.132184
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A scenic lookout spot situated in the mountainous terrain near Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.489876,
+                        -41.145586
+                  ]
+            },
+            {
+                  "name": "Mirador Playa Bonita",
+                  "text": "An elevated viewpoint looking down upon the sandy shores of Playa Bonita.",
+                  "category": "natural",
+                  "coords": [
+                        -71.397147,
+                        -41.121361
+                  ]
+            },
+            {
+                  "name": "Piedra de Habsburgo",
+                  "text": "A prominent rock formation serving as a scenic viewpoint in the high mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.388467,
+                        -41.157529
+                  ]
+            },
+            {
+                  "name": "Playa Los Coihues",
+                  "text": "A lake beach resort surrounded by native Coihue trees on the Patagonian shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.412017,
+                        -41.161807
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Gutiérrez",
+                  "text": "A mountain vantage point overlooking the pristine blue waters of Lake Gutiérrez.",
+                  "category": "natural",
+                  "coords": [
+                        -71.419822,
+                        -41.188101
+                  ]
+            },
+            {
+                  "name": "Deck Panorámico",
+                  "text": "A panoramic wooden deck constructed to offer sweeping views of the Andean peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -71.375442,
+                        -41.14477
+                  ]
+            },
+            {
+                  "name": "Stupa",
+                  "text": "This Buddhist stupa serves as a serene viewpoint overlooking the scenic landscape of Cerro Catedral.",
+                  "category": "natural",
+                  "coords": [
+                        -71.381065,
+                        -41.137672
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "This local theatre venue hosts cultural performances nestled within the Cerro Catedral landscape.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.370833,
+                        -41.12864
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "This historic mill structure stands as a rustic attraction in the surroundings of Cerro Catedral.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.378346,
+                        -41.120397
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "This local church provides a quiet spiritual refuge amidst the mountainous terrain of Cerro Catedral.",
+                  "category": "religious",
+                  "coords": [
+                        -71.468363,
+                        -41.239552
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Cerro",
+                  "text": "Dedicated to Our Lady of the Hill, this Christian chapel serves the faithful in the Cerro Catedral area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.440134,
+                        -41.163829
+                  ]
+            },
+            {
+                  "name": "Gruta de Nuestra Señora de las Nieves",
+                  "text": "Set within a rocky niche, this grotto is a revered shrine dedicated to Our Lady of the Snows.",
+                  "category": "religious",
+                  "coords": [
+                        -71.413517,
+                        -41.13305
+                  ]
+            },
+            {
+                  "name": "Bendición Inauguración Templo Parroquial Virgen Misionera",
+                  "text": "This religious landmark commemorates the inauguration blessing of the Virgen Misionera parish temple.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.393526,
+                        -41.128809
+                  ]
+            },
+            {
+                  "name": "Cuasiparroquia Virgen de Lujan",
+                  "text": "Dedicated to the Virgin of Luján, this Christian parish provides community worship services near Cerro Catedral.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.415834,
+                        -41.165816
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Las Nieves",
+                  "text": "This mountain parish church honors Our Lady of the Snows, offering regular Christian services.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.360629,
+                        -41.126649
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista Melipal",
+                  "text": "Situated in the Melipal neighborhood, this Evangelical Baptist church gathers the local Protestant community.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.364954,
+                        -41.131163
+                  ]
+            },
+            {
+                  "name": "Capilla San Ignacio de Loyola",
+                  "text": "Dedicated to St. Ignatius of Loyola, this modest chapel provides a peaceful space for prayer near Cerro Catedral.",
+                  "category": "religious",
+                  "coords": [
+                        -71.412623,
+                        -41.114548
+                  ]
+            },
+            {
+                  "name": "La Orquita",
+                  "text": "This vibrant local marketplace offers fresh regional produce and goods to residents and visitors of Cerro Catedral.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.369576,
+                        -41.12833
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-R",
     coords: [-71.4333, -41.1833],
@@ -1156,7 +7303,268 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     }
   },
   {
-    id: "cerro-champaqui-relief-v2",
+    id: "cerro-champaqui-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "Ein schroffer Berggipfel in der Region Cerro Champaquí, der bei Wanderern sehr beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -64.92908,
+                        -31.950087
+                  ]
+            },
+            {
+                  "name": "Casa minero Jesús Torres",
+                  "text": "Die historischen Ruinen einer steinernen Minenarbeiterhütte in der Landschaft des Cerro Champaquí.",
+                  "category": "historical",
+                  "coords": [
+                        -64.918277,
+                        -31.990582
+                  ]
+            },
+            {
+                  "name": "Cerro Champaqui",
+                  "text": "Der höchste Berggipfel der Provinz Córdoba, der eine Höhe von 2.790 Metern über dem Meeresspiegel erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        -64.936172,
+                        -31.987397
+                  ]
+            },
+            {
+                  "name": "Bodega San Javier",
+                  "text": "Ein regionales Weingut am Fuße des Cerro Champaquí, das handwerkliche Weine herstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.014064,
+                        -32.02398
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal Los Hornillos",
+                  "text": "Ein städtisches Bad mit natürlichen Becken in Los Hornillos nahe dem Cerro Champaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.981239,
+                        -31.9031
+                  ]
+            },
+            {
+                  "name": "Piedra Encajada",
+                  "text": "Eine markante, eingeklemmte Felsformation in einer engen Schlucht der Region Cerro Champaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.967839,
+                        -31.903801
+                  ]
+            },
+            {
+                  "name": "Iglesia del Champaquí",
+                  "text": "Eine abgelegene christliche Kirche, die im zerklüfteten Hochland des Cerro Champaquí erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.904649,
+                        -31.991372
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "Egy zord hegycsúcs a Cerro Champaquí régióban, amely népszerű a túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        -64.92908,
+                        -31.950087
+                  ]
+            },
+            {
+                  "name": "Casa minero Jesús Torres",
+                  "text": "Egy bányász kőből épült lakóházának történelmi romjai a Cerro Champaquí vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        -64.918277,
+                        -31.990582
+                  ]
+            },
+            {
+                  "name": "Cerro Champaqui",
+                  "text": "Córdoba tartomány legmagasabb hegycsúcsa, amely 2790 méterrel magasodik a tengerszint fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -64.936172,
+                        -31.987397
+                  ]
+            },
+            {
+                  "name": "Bodega San Javier",
+                  "text": "Egy regionális pincészet a Cerro Champaquí lábánál, amely kézműves borokat állít elő.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.014064,
+                        -32.02398
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal Los Hornillos",
+                  "text": "Egy természetes medencékkel rendelkező városi fürdőhely Los Hornillosban, a Cerro Champaquí közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.981239,
+                        -31.9031
+                  ]
+            },
+            {
+                  "name": "Piedra Encajada",
+                  "text": "Egy jellegzetes, beékelődött sziklaalakzat egy szűk szurdokban a Cerro Champaquí régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.967839,
+                        -31.903801
+                  ]
+            },
+            {
+                  "name": "Iglesia del Champaquí",
+                  "text": "Egy távoli keresztény templom a Cerro Champaquí zord, magasan fekvő terepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.904649,
+                        -31.991372
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "Un vârf de munte accidentat din regiunea Cerro Champaquí, popular printre excursioniști.",
+                  "category": "natural",
+                  "coords": [
+                        -64.92908,
+                        -31.950087
+                  ]
+            },
+            {
+                  "name": "Casa minero Jesús Torres",
+                  "text": "Ruinele istorice ale unei locuințe din piatră de miner din peisajul Cerro Champaquí.",
+                  "category": "historical",
+                  "coords": [
+                        -64.918277,
+                        -31.990582
+                  ]
+            },
+            {
+                  "name": "Cerro Champaqui",
+                  "text": "Cel mai înalt vârf de munte din provincia Córdoba, atingând 2.790 de metri deasupra nivelului mării.",
+                  "category": "natural",
+                  "coords": [
+                        -64.936172,
+                        -31.987397
+                  ]
+            },
+            {
+                  "name": "Bodega San Javier",
+                  "text": "O cramă regională care produce vinuri artizanale la poalele dealului Cerro Champaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.014064,
+                        -32.02398
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal Los Hornillos",
+                  "text": "O zonă municipală de scăldat cu piscine naturale situate în Los Hornillos, lângă Cerro Champaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.981239,
+                        -31.9031
+                  ]
+            },
+            {
+                  "name": "Piedra Encajada",
+                  "text": "O formațiune stâncoasă distinctivă, înțepenită într-un defileu îngust din regiunea Cerro Champaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.967839,
+                        -31.903801
+                  ]
+            },
+            {
+                  "name": "Iglesia del Champaquí",
+                  "text": "O biserică creștină îndepărtată, construită în terenul accidentat de mare altitudine din Cerro Champaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.904649,
+                        -31.991372
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "A rugged mountain peak in the Cerro Champaquí region popular with hikers.",
+                  "category": "natural",
+                  "coords": [
+                        -64.92908,
+                        -31.950087
+                  ]
+            },
+            {
+                  "name": "Casa minero Jesús Torres",
+                  "text": "The historic ruins of a miner's stone dwelling in the Cerro Champaquí landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -64.918277,
+                        -31.990582
+                  ]
+            },
+            {
+                  "name": "Cerro Champaqui",
+                  "text": "The highest mountain peak in Córdoba province, reaching 2,790 meters above sea level.",
+                  "category": "natural",
+                  "coords": [
+                        -64.936172,
+                        -31.987397
+                  ]
+            },
+            {
+                  "name": "Bodega San Javier",
+                  "text": "A regional winery producing artisanal wines at the foothills of the Cerro Champaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.014064,
+                        -32.02398
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal Los Hornillos",
+                  "text": "A municipal bathing area featuring natural pools situated in Los Hornillos near Cerro Champaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.981239,
+                        -31.9031
+                  ]
+            },
+            {
+                  "name": "Piedra Encajada",
+                  "text": "A distinctive wedged rock formation nestled within a narrow gorge in the Cerro Champaquí region.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.967839,
+                        -31.903801
+                  ]
+            },
+            {
+                  "name": "Iglesia del Champaquí",
+                  "text": "A remote Christian church constructed in the rugged high-altitude terrain of Cerro Champaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.904649,
+                        -31.991372
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-X",
     coords: [-64.9333, -31.9833],

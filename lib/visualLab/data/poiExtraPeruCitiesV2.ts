@@ -3,7 +3,1096 @@ import type { POI } from "./poi";
 
 export const poiExtraPeruCitiesV2: POI[] = [
   {
-    id: "lima-cities-v2",
+    id: "lima-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Señor de los Milagros",
+                  "text": "Dieses 2014 in Lima eröffnete Museum zeigt die Geschichte und Hingabe, die mit dem Herrn der Wunder verbunden sind.",
+                  "category": "museum",
+                  "coords": [
+                        -77.037603,
+                        -12.045154
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Cultura Peruana",
+                  "text": "Ein bedeutendes Museum in Lima, das eine umfangreiche Sammlung traditioneller peruanischer Volkskunst und kultureller Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.043118,
+                        -12.047909
+                  ]
+            },
+            {
+                  "name": "Combate del Dos de Mayo",
+                  "text": "Ein historisches Denkmal in Lima nach dem Entwurf des Architekten Edmond Guillaume, das am 29. Juli 1874 zum Gedenken an die Schlacht von Callao eingeweiht wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -77.042766,
+                        -12.046385
+                  ]
+            },
+            {
+                  "name": "Teatro Colón",
+                  "text": "Ein historisches Zentrum für darstellende Künste in Lima, das für seine elegante Architektur aus dem frühen 20. Jahrhundert bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.035793,
+                        -12.051472
+                  ]
+            },
+            {
+                  "name": "Plaza Ramón Castilla",
+                  "text": "Ein öffentlicher Park in Lima, der dem peruanischen Präsidenten des 19. Jahrhunderts Ramón Castilla gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        -77.042989,
+                        -12.04337
+                  ]
+            },
+            {
+                  "name": "Museo Universitario UNFV",
+                  "text": "Ein Universitätsmuseum in Lima, das von der Nationalen Universität Federico Villarreal betrieben wird und akademische Sammlungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.040762,
+                        -12.047492
+                  ]
+            },
+            {
+                  "name": "Museo Geológico y Paleontológico (UNI)",
+                  "text": "Ein Museum an der Nationalen Universität für Ingenieurwesen in Lima, das geologische Proben und antike Fossilien ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.04769,
+                        -12.020151
+                  ]
+            },
+            {
+                  "name": "Teatro Republica",
+                  "text": "Eine Kunstgalerie und ein kultureller Veranstaltungsort im historischen Herzen von Lima.",
+                  "category": "museum",
+                  "coords": [
+                        -77.035525,
+                        -12.054437
+                  ]
+            },
+            {
+                  "name": "Museo Gráfico El Peruano",
+                  "text": "Ein Museum in Lima, das die Geschichte von „El Peruano“, dem offiziellen Staatsanzeiger und einer der ältesten Zeitungen Südamerikas, dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -77.041593,
+                        -12.050755
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología Josefina Ramos de Cox",
+                  "text": "Ein archäologisches Museum in Lima, das präkolumbianische Artefakte und historische Funde aus der Region aufbewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.037905,
+                        -12.052695
+                  ]
+            },
+            {
+                  "name": "Museo Andrés Avelino Cáceres",
+                  "text": "Ein Museum in Lima zu Ehren des militärischen Erbes des peruanischen Nationalhelden Andrés Avelino Cáceres.",
+                  "category": "museum",
+                  "coords": [
+                        -77.04389,
+                        -12.057075
+                  ]
+            },
+            {
+                  "name": "Huaca Palao",
+                  "text": "Eine alte präinkaische Ruinenstätte in der städtischen Landschaft von Lima.",
+                  "category": "historical",
+                  "coords": [
+                        -77.061916,
+                        -12.02774
+                  ]
+            },
+            {
+                  "name": "Centro Representativo Quipan",
+                  "text": "Ein lokales Kunst- und Kulturzentrum in Lima, in dem Gemeindeveranstaltungen und traditionelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.05244,
+                        -12.024058
+                  ]
+            },
+            {
+                  "name": "Centro Cultural UCH",
+                  "text": "Ein von der Universidad de Ciencias y Humanidades betriebenes Kunstzentrum in Lima, das akademische und kulturelle Aktivitäten fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.04285,
+                        -12.056515
+                  ]
+            },
+            {
+                  "name": "Teatro UNI",
+                  "text": "Ein Theatergebäude an der Nationalen Universität für Ingenieurwesen in Lima, in dem studentische und professionelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049383,
+                        -12.02316
+                  ]
+            },
+            {
+                  "name": "Templo de San Sebastián",
+                  "text": "Eine historische Kultstätte in Lima mit traditioneller kolonialer religiöser Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -77.036634,
+                        -12.043817
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Vida",
+                  "text": "Eine lokale christliche Kirche in Lima, die als Versammlungsort für die Gemeinde Fuente de Vida dient.",
+                  "category": "religious",
+                  "coords": [
+                        -77.068982,
+                        -12.040332
+                  ]
+            },
+            {
+                  "name": "Mercado El Trebol",
+                  "text": "Ein Nachbarschaftsmarkt in Lima, auf dem Einheimische frische Produkte und Dinge des täglichen Bedarfs einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.042964,
+                        -12.034909
+                  ]
+            },
+            {
+                  "name": "Señor de los Milagros",
+                  "text": "Ein lebhafter lokaler Markt in Lima, auf dem frische Produkte und alltägliche Haushaltswaren angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.039082,
+                        -12.044419
+                  ]
+            },
+            {
+                  "name": "Mercado La Merced",
+                  "text": "Ein traditioneller Nachbarschaftsmarkt in Lima mit einer vielfältigen Auswahl an lokalem Obst, Gemüse und regionalen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.039291,
+                        -12.045507
+                  ]
+            },
+            {
+                  "name": "Campo ferial María Auxiliadora",
+                  "text": "Ein weitläufiger Jahrmarkt in Lima, auf dem Verkäufer eine große Auswahl an Kleidung, Kunsthandwerk und Streetfood anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049519,
+                        -12.054239
+                  ]
+            },
+            {
+                  "name": "Mercado Pedro Paulet",
+                  "text": "Ein geschäftiger Gemeinschaftsmarkt in Lima, der für seine täglichen Frischfleischtheken und lokalen Lebensmittelstände bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053604,
+                        -12.025137
+                  ]
+            },
+            {
+                  "name": "Ricardo Palma",
+                  "text": "Dieser lebhafte, nach dem berühmten peruanischen Autor benannte Markt in Lima bietet eine Mischung aus Anbietern von frischen Lebensmitteln und kleinen Einzelhandelsgeschäften.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053015,
+                        -12.021428
+                  ]
+            },
+            {
+                  "name": "Mercado Mártir Olaya",
+                  "text": "Ein traditioneller Lebensmittelmarkt in Lima, auf dem Einheimische Dinge des täglichen Bedarfs, frische regionale Zutaten und fertige Mahlzeiten einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049154,
+                        -12.033882
+                  ]
+            },
+            {
+                  "name": "Minimarket Flores",
+                  "text": "Ein kompakter Nachbarschaftsmarkt in Lima, der schnellen Zugang zu Snacks, Getränken und täglichen Lebensmitteln bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053243,
+                        -12.033129
+                  ]
+            },
+            {
+                  "name": "Mercado Las Mercedes",
+                  "text": "Ein belebter lokaler Markt in Lima, der sich durch seine dichten Gänge mit frischen Produkten, farbenfrohen Textilien und Haushaltswaren auszeichnet.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.057804,
+                        -12.031945
+                  ]
+            },
+            {
+                  "name": "Minimercado Fortaleza",
+                  "text": "Ein kleiner, praktischer Lebensmittelmarkt in Lima, der die unmittelbare Gemeinde mit einer Auswahl an Grundnahrungsmitteln und frischen Artikeln versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.056169,
+                        -12.027775
+                  ]
+            },
+            {
+                  "name": "Tienda Minaya",
+                  "text": "Ein malerischer Eckladen in Lima, der die Nachbarschaft mit Dingen des täglichen Bedarfs und einer Auswahl lokaler Leckereien versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.056469,
+                        -12.025616
+                  ]
+            },
+            {
+                  "name": "Mercado El Chaco",
+                  "text": "Ein lebhafter Markt in Lima, auf dem die Bewohner verschiedene Stände mit saisonalen Produkten, frischen Meeresfrüchten und handgefertigten Waren erkunden können.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.065068,
+                        -12.031288
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Catalina de Palermo",
+                  "text": "Ein traditioneller überdachter Markt in Lima, der für seine gut organisierten Bereiche mit frischem lokalem Gemüse, Fleisch und Milchprodukten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.067442,
+                        -12.041176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Señor de los Milagros",
+                  "text": "A 2014-ben Limában megnyílt múzeum a Csodák Urához fűződő történelmet és áhítatot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.037603,
+                        -12.045154
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Cultura Peruana",
+                  "text": "Egy jelentős limai múzeum, amely a hagyományos perui népművészet és kulturális leletek hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.043118,
+                        -12.047909
+                  ]
+            },
+            {
+                  "name": "Combate del Dos de Mayo",
+                  "text": "Edmond Guillaume építész által tervezett történelmi emlékmű Limában, amelyet 1874. július 29-én avattak fel az 1866-os callaói csata emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -77.042766,
+                        -12.046385
+                  ]
+            },
+            {
+                  "name": "Teatro Colón",
+                  "text": "Történelmi előadó-művészeti központ Limában, amely a kora 20. századi elegáns építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.035793,
+                        -12.051472
+                  ]
+            },
+            {
+                  "name": "Plaza Ramón Castilla",
+                  "text": "A 19. századi perui elnöknek, Ramón Castillának szentelt nyilvános park Limában.",
+                  "category": "park",
+                  "coords": [
+                        -77.042989,
+                        -12.04337
+                  ]
+            },
+            {
+                  "name": "Museo Universitario UNFV",
+                  "text": "A Federico Villarreal Nemzeti Egyetem által működtetett egyetemi múzeum Limában, amely tudományos gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.040762,
+                        -12.047492
+                  ]
+            },
+            {
+                  "name": "Museo Geológico y Paleontológico (UNI)",
+                  "text": "A Limai Nemzeti Műszaki Egyetem geológiai példányokat és ősi fosszíliákat bemutató múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -77.04769,
+                        -12.020151
+                  ]
+            },
+            {
+                  "name": "Teatro Republica",
+                  "text": "Limában, a történelmi központban található művészeti galéria és kulturális helyszín.",
+                  "category": "museum",
+                  "coords": [
+                        -77.035525,
+                        -12.054437
+                  ]
+            },
+            {
+                  "name": "Museo Gráfico El Peruano",
+                  "text": "Limai múzeum, amely az \"El Peruano\", a hivatalos állami közlöny és Dél-Amerika egyik legrégebbi újságjának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.041593,
+                        -12.050755
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología Josefina Ramos de Cox",
+                  "text": "Limai régészeti múzeum, amely a régió prekolumbiánus leleteit és történelmi felfedezéseit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -77.037905,
+                        -12.052695
+                  ]
+            },
+            {
+                  "name": "Museo Andrés Avelino Cáceres",
+                  "text": "Andrés Avelino Cáceres perui nemzeti hős katonai örökségének emléket állító múzeum Limában.",
+                  "category": "museum",
+                  "coords": [
+                        -77.04389,
+                        -12.057075
+                  ]
+            },
+            {
+                  "name": "Huaca Palao",
+                  "text": "Egy ősi inka előtti romterület a limai városi tájba ágyazva.",
+                  "category": "historical",
+                  "coords": [
+                        -77.061916,
+                        -12.02774
+                  ]
+            },
+            {
+                  "name": "Centro Representativo Quipan",
+                  "text": "Helyi művészeti és kulturális központ Limában, amely közösségi eseményeknek és hagyományos előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.05244,
+                        -12.024058
+                  ]
+            },
+            {
+                  "name": "Centro Cultural UCH",
+                  "text": "Az Universidad de Ciencias y Humanidades által működtetett limai művészeti központ, amely tudományos és kulturális tevékenységeket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.04285,
+                        -12.056515
+                  ]
+            },
+            {
+                  "name": "Teatro UNI",
+                  "text": "A Limai Nemzeti Műszaki Egyetem területén található színház, amely hallgatói és profi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049383,
+                        -12.02316
+                  ]
+            },
+            {
+                  "name": "Templo de San Sebastián",
+                  "text": "Történelmi istentiszteleti hely Limában, amely a hagyományos gyarmati vallási építészet jegyeit viseli magán.",
+                  "category": "religious",
+                  "coords": [
+                        -77.036634,
+                        -12.043817
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Vida",
+                  "text": "Helyi keresztény templom Limában, amely a Fuente de Vida gyülekezet találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -77.068982,
+                        -12.040332
+                  ]
+            },
+            {
+                  "name": "Mercado El Trebol",
+                  "text": "Egy limai szomszédsági piac, ahol a helyiek friss termékeket és mindennapi cikkeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.042964,
+                        -12.034909
+                  ]
+            },
+            {
+                  "name": "Señor de los Milagros",
+                  "text": "Egy nyüzsgő helyi piac Limában, amely friss termékeket és mindennapi háztartási cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.039082,
+                        -12.044419
+                  ]
+            },
+            {
+                  "name": "Mercado La Merced",
+                  "text": "Hagyományos környékbeli piac Limában, amely helyi gyümölcsök, zöldségek és regionális ételek változatos választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.039291,
+                        -12.045507
+                  ]
+            },
+            {
+                  "name": "Campo ferial María Auxiliadora",
+                  "text": "Kiterjedt vásártér Limában, ahol az árusok ruházati cikkek, kézműves termékek és utcai ételek széles skáláját árusítják.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049519,
+                        -12.054239
+                  ]
+            },
+            {
+                  "name": "Mercado Pedro Paulet",
+                  "text": "Egy forgalmas közösségi piac Limában, amely a mindennapi friss húsokat kínáló pultjairól és élelmiszerstandjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053604,
+                        -12.025137
+                  ]
+            },
+            {
+                  "name": "Ricardo Palma",
+                  "text": "A híres perui íróról elnevezett, nyüzsgő limai piac friss élelmiszereket árusító árusok és kiskereskedelmi üzletek keverékét kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053015,
+                        -12.021428
+                  ]
+            },
+            {
+                  "name": "Mercado Mártir Olaya",
+                  "text": "Hagyományos élelmiszerpiac Limában, ahol a helyiek beszerezhetik a mindennapi szükségleteket, a friss regionális alapanyagokat és a készételeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049154,
+                        -12.033882
+                  ]
+            },
+            {
+                  "name": "Minimarket Flores",
+                  "text": "Kompakt környékbeli kisbolt Limában, amely gyors hozzáférést biztosít rágcsálnivalókhoz, italokhoz és a mindennapi élelmiszerekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053243,
+                        -12.033129
+                  ]
+            },
+            {
+                  "name": "Mercado Las Mercedes",
+                  "text": "Nyüzsgő helyi piac Limában, amelyet a friss termékek, színes textilek és háztartási cikkek sűrű sorai jellemeznek.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.057804,
+                        -12.031945
+                  ]
+            },
+            {
+                  "name": "Minimercado Fortaleza",
+                  "text": "Kicsi, praktikus élelmiszerpiac Limában, amely alapvető élelmiszerek és friss termékek választékával szolgálja ki a közvetlen közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.056169,
+                        -12.027775
+                  ]
+            },
+            {
+                  "name": "Tienda Minaya",
+                  "text": "Egy hangulatos sarki kisbolt Limában, amely a környék lakóit látja el a mindennapi szükségletekkel és válogatott helyi finomságokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.056469,
+                        -12.025616
+                  ]
+            },
+            {
+                  "name": "Mercado El Chaco",
+                  "text": "Nyüzsgő piac Limában, ahol a lakosok szezonális termékekkel, friss tenger gyümölcseivel és kézműves termékekkel teli standokat fedezhetnek fel.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.065068,
+                        -12.031288
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Catalina de Palermo",
+                  "text": "Hagyományos fedett piac Limában, amely a friss helyi zöldségeket, húsokat és tejtermékeket kínáló, jól szervezett részlegeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.067442,
+                        -12.041176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Señor de los Milagros",
+                  "text": "Deschis în 2014, acest muzeu din Lima prezintă istoria și devotamentul asociate cu Domnul Miracolelor.",
+                  "category": "museum",
+                  "coords": [
+                        -77.037603,
+                        -12.045154
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Cultura Peruana",
+                  "text": "Un muzeu remarcabil din Lima care expune o vastă colecție de artă populară peruană tradițională și artefacte culturale.",
+                  "category": "museum",
+                  "coords": [
+                        -77.043118,
+                        -12.047909
+                  ]
+            },
+            {
+                  "name": "Combate del Dos de Mayo",
+                  "text": "Un monument istoric din Lima proiectat de arhitectul Edmond Guillaume, inaugurat la 29 iulie 1874 pentru a comemora Bătălia de la Callao din 1866.",
+                  "category": "historical",
+                  "coords": [
+                        -77.042766,
+                        -12.046385
+                  ]
+            },
+            {
+                  "name": "Teatro Colón",
+                  "text": "Un centru istoric de arte spectacolului din Lima, cunoscut pentru arhitectura sa elegantă de la începutul secolului al XX-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.035793,
+                        -12.051472
+                  ]
+            },
+            {
+                  "name": "Plaza Ramón Castilla",
+                  "text": "Un parc public din Lima dedicat președintelui peruan din secolul al XIX-lea, Ramón Castilla.",
+                  "category": "park",
+                  "coords": [
+                        -77.042989,
+                        -12.04337
+                  ]
+            },
+            {
+                  "name": "Museo Universitario UNFV",
+                  "text": "Un muzeu universitar din Lima operat de Universitatea Națională Federico Villarreal, prezentând colecții academice.",
+                  "category": "museum",
+                  "coords": [
+                        -77.040762,
+                        -12.047492
+                  ]
+            },
+            {
+                  "name": "Museo Geológico y Paleontológico (UNI)",
+                  "text": "Un muzeu la Universitatea Națională de Inginerie din Lima care expune specimene geologice și fosile antice.",
+                  "category": "museum",
+                  "coords": [
+                        -77.04769,
+                        -12.020151
+                  ]
+            },
+            {
+                  "name": "Teatro Republica",
+                  "text": "O galerie de artă și locație culturală situată în inima istorică a orașului Lima.",
+                  "category": "museum",
+                  "coords": [
+                        -77.035525,
+                        -12.054437
+                  ]
+            },
+            {
+                  "name": "Museo Gráfico El Peruano",
+                  "text": "Un muzeu din Lima care prezintă istoria „El Peruano”, Monitorul Oficial al statului și unul dintre cele mai vechi ziare din America de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        -77.041593,
+                        -12.050755
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología Josefina Ramos de Cox",
+                  "text": "Un muzeu arheologic din Lima care păstrează artefacte precolumbiene și descoperiri istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -77.037905,
+                        -12.052695
+                  ]
+            },
+            {
+                  "name": "Museo Andrés Avelino Cáceres",
+                  "text": "Un muzeu din Lima care onorează moștenirea militară a eroului național peruan Andrés Avelino Cáceres.",
+                  "category": "museum",
+                  "coords": [
+                        -77.04389,
+                        -12.057075
+                  ]
+            },
+            {
+                  "name": "Huaca Palao",
+                  "text": "Un sit antic cu ruine pre-incașe situat în peisajul urban din Lima.",
+                  "category": "historical",
+                  "coords": [
+                        -77.061916,
+                        -12.02774
+                  ]
+            },
+            {
+                  "name": "Centro Representativo Quipan",
+                  "text": "Un centru local de artă și cultură din Lima care găzduiește evenimente comunitare și reprezentări tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.05244,
+                        -12.024058
+                  ]
+            },
+            {
+                  "name": "Centro Cultural UCH",
+                  "text": "Un centru de arte din Lima condus de Universidad de Ciencias y Humanidades, care promovează activitățile academice și culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.04285,
+                        -12.056515
+                  ]
+            },
+            {
+                  "name": "Teatro UNI",
+                  "text": "O sală de teatru situată la Universitatea Națională de Inginerie din Lima, care găzduiește spectacole studențești și profesionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049383,
+                        -12.02316
+                  ]
+            },
+            {
+                  "name": "Templo de San Sebastián",
+                  "text": "Un lăcaș de cult istoric din Lima cu arhitectură religioasă colonială tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -77.036634,
+                        -12.043817
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Vida",
+                  "text": "O biserică creștină locală din Lima care oferă un loc de adunare pentru congregația Fuente de Vida.",
+                  "category": "religious",
+                  "coords": [
+                        -77.068982,
+                        -12.040332
+                  ]
+            },
+            {
+                  "name": "Mercado El Trebol",
+                  "text": "O piață de cartier din Lima unde localnicii cumpără produse proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.042964,
+                        -12.034909
+                  ]
+            },
+            {
+                  "name": "Señor de los Milagros",
+                  "text": "O piață locală vibrantă din Lima, plină de tarabe cu produse proaspete și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.039082,
+                        -12.044419
+                  ]
+            },
+            {
+                  "name": "Mercado La Merced",
+                  "text": "O piață tradițională de cartier din Lima, care oferă o selecție diversă de fructe, legume și mâncăruri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.039291,
+                        -12.045507
+                  ]
+            },
+            {
+                  "name": "Campo ferial María Auxiliadora",
+                  "text": "Un târg spațios din Lima, unde vânzătorii se adună pentru a vinde o gamă largă de haine, meșteșuguri și mâncare stradală.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049519,
+                        -12.054239
+                  ]
+            },
+            {
+                  "name": "Mercado Pedro Paulet",
+                  "text": "O piață comunitară aglomerată din Lima, cunoscută pentru galantarele cu carne proaspătă și tarabele cu alimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053604,
+                        -12.025137
+                  ]
+            },
+            {
+                  "name": "Ricardo Palma",
+                  "text": "Numită după celebrul autor peruan, această piață plină de viață din Lima oferă o combinație de vânzători de alimente proaspete și mici magazine de vânzare cu amănuntul.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053015,
+                        -12.021428
+                  ]
+            },
+            {
+                  "name": "Mercado Mártir Olaya",
+                  "text": "O piață tradițională de alimente din Lima, unde localnicii își fac cumpărăturile zilnice de ingrediente regionale proaspete și mâncăruri preparate.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049154,
+                        -12.033882
+                  ]
+            },
+            {
+                  "name": "Minimarket Flores",
+                  "text": "Un minimarket compact de cartier din Lima, care oferă acces rapid la gustări, băuturi și alimente de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053243,
+                        -12.033129
+                  ]
+            },
+            {
+                  "name": "Mercado Las Mercedes",
+                  "text": "O piață locală aglomerată din Lima, caracterizată prin rândurile sale dense cu produse proaspete, textile colorate și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.057804,
+                        -12.031945
+                  ]
+            },
+            {
+                  "name": "Minimercado Fortaleza",
+                  "text": "Un minimarket mic și practic din Lima, care deservește comunitatea imediată cu o selecție de alimente de bază și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.056169,
+                        -12.027775
+                  ]
+            },
+            {
+                  "name": "Tienda Minaya",
+                  "text": "Un magazin pitoresc de colț din Lima, care oferă produse de uz cotidian și o selecție de bunătăți locale pentru cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.056469,
+                        -12.025616
+                  ]
+            },
+            {
+                  "name": "Mercado El Chaco",
+                  "text": "O piață vibrantă din Lima, unde rezidenții pot explora diverse tarabe pline cu produse de sezon, fructe de mare proaspete și bunuri artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.065068,
+                        -12.031288
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Catalina de Palermo",
+                  "text": "O piață interioară tradițională din Lima, cunoscută pentru secțiunile sale bine organizate cu legume locale proaspete, carne și produse lactate.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.067442,
+                        -12.041176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Señor de los Milagros",
+                  "text": "Opened in 2014, this museum in Lima showcases the history and devotion associated with the Lord of Miracles.",
+                  "category": "museum",
+                  "coords": [
+                        -77.037603,
+                        -12.045154
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Cultura Peruana",
+                  "text": "A notable museum in Lima exhibiting a vast collection of traditional Peruvian folk art and cultural artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -77.043118,
+                        -12.047909
+                  ]
+            },
+            {
+                  "name": "Combate del Dos de Mayo",
+                  "text": "A historic monument in Lima designed by architect Edmond Guillaume, inaugurated on July 29, 1874, to commemorate the 1866 Battle of Callao.",
+                  "category": "historical",
+                  "coords": [
+                        -77.042766,
+                        -12.046385
+                  ]
+            },
+            {
+                  "name": "Teatro Colón",
+                  "text": "A historic performing arts centre in Lima known for its elegant early 20th-century architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.035793,
+                        -12.051472
+                  ]
+            },
+            {
+                  "name": "Plaza Ramón Castilla",
+                  "text": "A public park in Lima dedicated to the 19th-century Peruvian president Ramón Castilla.",
+                  "category": "park",
+                  "coords": [
+                        -77.042989,
+                        -12.04337
+                  ]
+            },
+            {
+                  "name": "Museo Universitario UNFV",
+                  "text": "A university museum in Lima operated by the Federico Villarreal National University, showcasing academic collections.",
+                  "category": "museum",
+                  "coords": [
+                        -77.040762,
+                        -12.047492
+                  ]
+            },
+            {
+                  "name": "Museo Geológico y Paleontológico (UNI)",
+                  "text": "A museum at the National University of Engineering in Lima displaying geological specimens and ancient fossils.",
+                  "category": "museum",
+                  "coords": [
+                        -77.04769,
+                        -12.020151
+                  ]
+            },
+            {
+                  "name": "Teatro Republica",
+                  "text": "An art gallery and cultural venue located in the historic heart of Lima.",
+                  "category": "museum",
+                  "coords": [
+                        -77.035525,
+                        -12.054437
+                  ]
+            },
+            {
+                  "name": "Museo Gráfico El Peruano",
+                  "text": "A museum in Lima chronicling the history of \"El Peruano\", the official state gazette and one of the oldest newspapers in South America.",
+                  "category": "museum",
+                  "coords": [
+                        -77.041593,
+                        -12.050755
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología Josefina Ramos de Cox",
+                  "text": "An archaeological museum in Lima preserving Pre-Columbian artifacts and historical findings from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -77.037905,
+                        -12.052695
+                  ]
+            },
+            {
+                  "name": "Museo Andrés Avelino Cáceres",
+                  "text": "A museum in Lima honoring the military legacy of Peruvian national hero Andrés Avelino Cáceres.",
+                  "category": "museum",
+                  "coords": [
+                        -77.04389,
+                        -12.057075
+                  ]
+            },
+            {
+                  "name": "Huaca Palao",
+                  "text": "An ancient pre-Inca ruin site located within the urban landscape of Lima.",
+                  "category": "historical",
+                  "coords": [
+                        -77.061916,
+                        -12.02774
+                  ]
+            },
+            {
+                  "name": "Centro Representativo Quipan",
+                  "text": "A local arts and cultural centre in Lima hosting community events and traditional representations.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.05244,
+                        -12.024058
+                  ]
+            },
+            {
+                  "name": "Centro Cultural UCH",
+                  "text": "An arts centre in Lima run by the Universidad de Ciencias y Humanidades, promoting academic and cultural activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.04285,
+                        -12.056515
+                  ]
+            },
+            {
+                  "name": "Teatro UNI",
+                  "text": "A theatre venue located at the National University of Engineering in Lima, hosting student and professional performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049383,
+                        -12.02316
+                  ]
+            },
+            {
+                  "name": "Templo de San Sebastián",
+                  "text": "A historic place of worship in Lima featuring traditional colonial religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -77.036634,
+                        -12.043817
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Vida",
+                  "text": "A local Christian church in Lima providing a gathering place for the Fuente de Vida congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -77.068982,
+                        -12.040332
+                  ]
+            },
+            {
+                  "name": "Mercado El Trebol",
+                  "text": "A neighborhood marketplace in Lima where locals shop for fresh produce and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.042964,
+                        -12.034909
+                  ]
+            },
+            {
+                  "name": "Señor de los Milagros",
+                  "text": "A vibrant local marketplace in Lima, bustling with stalls selling fresh produce and everyday household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.039082,
+                        -12.044419
+                  ]
+            },
+            {
+                  "name": "Mercado La Merced",
+                  "text": "A traditional neighbourhood market in Lima offering a diverse selection of local fruits, vegetables, and regional foods.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.039291,
+                        -12.045507
+                  ]
+            },
+            {
+                  "name": "Campo ferial María Auxiliadora",
+                  "text": "An expansive fairground market in Lima where vendors gather to sell a wide array of clothing, crafts, and street food.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049519,
+                        -12.054239
+                  ]
+            },
+            {
+                  "name": "Mercado Pedro Paulet",
+                  "text": "A busy community marketplace in Lima, known for its daily fresh meat counters and local grocery stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053604,
+                        -12.025137
+                  ]
+            },
+            {
+                  "name": "Ricardo Palma",
+                  "text": "Named after the famous Peruvian author, this lively marketplace in Lima features a mix of fresh food vendors and small retail shops.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053015,
+                        -12.021428
+                  ]
+            },
+            {
+                  "name": "Mercado Mártir Olaya",
+                  "text": "A traditional food market in Lima where locals shop for daily essentials, fresh regional ingredients, and prepared meals.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.049154,
+                        -12.033882
+                  ]
+            },
+            {
+                  "name": "Minimarket Flores",
+                  "text": "A compact neighborhood convenience market in Lima, providing quick access to snacks, beverages, and daily groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.053243,
+                        -12.033129
+                  ]
+            },
+            {
+                  "name": "Mercado Las Mercedes",
+                  "text": "A bustling local marketplace in Lima characterized by its dense aisles of fresh produce, colorful textiles, and household wares.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.057804,
+                        -12.031945
+                  ]
+            },
+            {
+                  "name": "Minimercado Fortaleza",
+                  "text": "A small, practical grocery market in Lima serving the immediate community with a selection of pantry staples and fresh items.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.056169,
+                        -12.027775
+                  ]
+            },
+            {
+                  "name": "Tienda Minaya",
+                  "text": "A quaint corner store market in Lima providing everyday essentials and a selection of local treats to the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.056469,
+                        -12.025616
+                  ]
+            },
+            {
+                  "name": "Mercado El Chaco",
+                  "text": "A vibrant market in Lima where residents can explore various stalls filled with seasonal produce, fresh seafood, and handmade goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.065068,
+                        -12.031288
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Catalina de Palermo",
+                  "text": "A traditional indoor market in Lima known for its well-organized sections of fresh local vegetables, meats, and dairy products.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.067442,
+                        -12.041176
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PE-LMA",
     coords: [-77.0428, -12.0464],
@@ -50,7 +1139,1096 @@ export const poiExtraPeruCitiesV2: POI[] = [
       fr: ["La capitale et la plus grande ville du Pérou.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/lima-cities-v2.webp"},
   {
-    id: "arequipa-cities-v2",
+    id: "arequipa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa museo Mario Vargas Llosa",
+                  "text": "Die Casa Museo Mario Vargas Llosa in Arequipa ist ein biografisches Museum im Geburtshaus des berühmten peruanischen Nobelpreisträgers.",
+                  "category": "museum",
+                  "coords": [
+                        -71.541005,
+                        -16.406668
+                  ]
+            },
+            {
+                  "name": "Palacio Mario Vargas Llosa",
+                  "text": "Der Palacio Mario Vargas Llosa in Arequipa ist ein Kultur- und Kunstzentrum, das dem literarischen Erbe des Schriftstellers gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.542621,
+                        -16.409848
+                  ]
+            },
+            {
+                  "name": "Museo de arte contemporáneo",
+                  "text": "Das Museo de Arte Contemporáneo in Arequipa stellt moderne Kunstwerke regionaler und internationaler Künstler in seinen Galerien aus.",
+                  "category": "museum",
+                  "coords": [
+                        -71.541639,
+                        -16.40902
+                  ]
+            },
+            {
+                  "name": "Busto María Parado de Bellido",
+                  "text": "Der Busto María Parado de Bellido in Arequipa ist eine Skulptur, die an die Heldin der peruanischen Unabhängigkeit erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -71.513042,
+                        -16.411442
+                  ]
+            },
+            {
+                  "name": "Auditorio Alberto Molina",
+                  "text": "Das Auditorio Alberto Molina in Arequipa ist ein lokaler Theatersaal, in dem Konzerte und kulturelle Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.521524,
+                        -16.422726
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Das Anfiteatro in Arequipa ist ein offener Freiluft-Theaterbereich, der als Bühne für öffentliche Vorführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.524474,
+                        -16.405206
+                  ]
+            },
+            {
+                  "name": "Campo Ferial Cerro Juli",
+                  "text": "Der Campo Ferial Cerro Juli ist ein weitläufiges Kunst- und Messegelände in Arequipa, das große regionale Ausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.544658,
+                        -16.433391
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Salvador",
+                  "text": "Eine lokale Pfarrkirche, die den Gläubigen in den städtischen Vierteln von Arequipa dient.",
+                  "category": "religious",
+                  "coords": [
+                        -71.510806,
+                        -16.414565
+                  ]
+            },
+            {
+                  "name": "Comercial Cóndor",
+                  "text": "Ein geschäftiger kommerzieller Marktplatz in Arequipa, der eine Vielzahl von Alltagsgütern anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.514882,
+                        -16.407412
+                  ]
+            },
+            {
+                  "name": "Omeño Import",
+                  "text": "Ein lokaler Importmarktplatz, der den Bewohnern von Arequipa verschiedene Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.538589,
+                        -16.406868
+                  ]
+            },
+            {
+                  "name": "Centro comercial La Merced",
+                  "text": "Ein Handelszentrum in Arequipa, in dem zahlreiche Händler lokale und importierte Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.53958,
+                        -16.403922
+                  ]
+            },
+            {
+                  "name": "La Marina",
+                  "text": "Ein lokaler Marktplatz, auf dem Händler frische Produkte und Haushaltswaren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.544476,
+                        -16.406863
+                  ]
+            },
+            {
+                  "name": "Virgen del Chapi",
+                  "text": "Ein belebter täglicher Marktplatz in Arequipa, benannt nach der beliebten Schutzpatronin der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.534107,
+                        -16.424425
+                  ]
+            },
+            {
+                  "name": "Mercado metropolitano de productores mayoristas Andrés Avenlino Cáceres",
+                  "text": "Ein großer Großmarkt der Metropole, der Einzelhändler in ganz Arequipa mit frischen Produkten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.536513,
+                        -16.423448
+                  ]
+            },
+            {
+                  "name": "Nueva Esperanza",
+                  "text": "Ein lokaler Nachbarschaftsmarkt, der den täglichen Einkaufsbedarf der umliegenden Gemeinde deckt.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537003,
+                        -16.424507
+                  ]
+            },
+            {
+                  "name": "Señor del Gran Poder",
+                  "text": "Ein kommunales Handelszentrum in Arequipa, das zu Ehren des Señor del Gran Poder benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.535367,
+                        -16.425615
+                  ]
+            },
+            {
+                  "name": "Asociación Indpendientes de Abril",
+                  "text": "Ein geschäftiger Marktplatz der Händlervereinigung, auf dem Kleidung, Lebensmittel und Haushaltswaren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537492,
+                        -16.425659
+                  ]
+            },
+            {
+                  "name": "Gratersa",
+                  "text": "Ein beliebter kommerzieller Markt in Arequipa, der für seine große Vielfalt an lokalen Ständen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.541971,
+                        -16.422369
+                  ]
+            },
+            {
+                  "name": "Vírgen del Rosario",
+                  "text": "Ein lebhafter Nachbarschaftsmarkt, der frische Lebensmittel und Artikel des täglichen Gebrauchs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.543308,
+                        -16.423185
+                  ]
+            },
+            {
+                  "name": "Mercado total",
+                  "text": "Ein umfassender lokaler Markt, auf dem Käufer ein riesiges Sortiment an Alltagsprodukten finden.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.516624,
+                        -16.422971
+                  ]
+            },
+            {
+                  "name": "Las Malvinas",
+                  "text": "Ein geschäftiger Indoor-Marktplatz in Arequipa, der für Elektronik und verschiedene Handelswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.516062,
+                        -16.405617
+                  ]
+            },
+            {
+                  "name": "Centro Comercial El Palacio",
+                  "text": "Eine kommerzielle Einkaufsgalerie mit mehreren Ständen im Herzen der städtischen Bezirke von Arequipa.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.533258,
+                        -16.403961
+                  ]
+            },
+            {
+                  "name": "San Juan de Dios",
+                  "text": "Ein lebhafter täglicher Marktplatz in Arequipa, benannt nach der Institution San Juan de Dios.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537552,
+                        -16.404032
+                  ]
+            },
+            {
+                  "name": "Mercado Cuzco",
+                  "text": "Ein kommerzieller Marktplatz in Arequipa mit Waren und Textilien, die an die Andenregion erinnern.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.535306,
+                        -16.424623
+                  ]
+            },
+            {
+                  "name": "Mercado de productores",
+                  "text": "Ein großer Bauernmarkt für Erzeuger, auf dem Landarbeiter direkt an die Verbraucher in Arequipa verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537546,
+                        -16.413501
+                  ]
+            },
+            {
+                  "name": "Sur Andino",
+                  "text": "Ein spezialisierter Marktplatz, der sich auf landwirtschaftliche Produkte und Waren aus dem südlichen Andenhochland konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537438,
+                        -16.420578
+                  ]
+            },
+            {
+                  "name": "13 de Enero",
+                  "text": "Ein Gemeinschaftsmarktplatz, der mit verschiedenen Händlern und Ständen an das Datum des 13. Januars erinnert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.530674,
+                        -16.433153
+                  ]
+            },
+            {
+                  "name": "ASOCOMAT",
+                  "text": "Ein spezialisierter, von Händlern betriebener Markt in Arequipa, der Baumaterialien und Eisenwaren liefert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.545414,
+                        -16.425485
+                  ]
+            },
+            {
+                  "name": "Mi Mercado",
+                  "text": "Ein einladender lokaler Markt, auf dem die Bewohner frisches Gemüse, Obst und Fleisch kaufen können.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.539817,
+                        -16.426956
+                  ]
+            },
+            {
+                  "name": "4 de Octubre",
+                  "text": "Ein lebhafter Nachbarschaftsmarkt in Arequipa, der die Anwohner mit frischen täglichen Vorräten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.538727,
+                        -16.425072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa museo Mario Vargas Llosa",
+                  "text": "Az arequipai Casa Museo Mario Vargas Llosa egy életrajzi múzeum a híres perui Nobel-díjas író szülőházában.",
+                  "category": "museum",
+                  "coords": [
+                        -71.541005,
+                        -16.406668
+                  ]
+            },
+            {
+                  "name": "Palacio Mario Vargas Llosa",
+                  "text": "Az arequipai Palacio Mario Vargas Llosa egy kulturális és művészeti központ, amelyet az író irodalmi örökségének szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.542621,
+                        -16.409848
+                  ]
+            },
+            {
+                  "name": "Museo de arte contemporáneo",
+                  "text": "Az arequipai Museo de Arte Contemporáneo regionális és nemzetközi művészek modern alkotásait állítja ki galériáiban.",
+                  "category": "museum",
+                  "coords": [
+                        -71.541639,
+                        -16.40902
+                  ]
+            },
+            {
+                  "name": "Busto María Parado de Bellido",
+                  "text": "Az arequipai Busto María Parado de Bellido egy szobor, amely a perui függetlenség hősnőjének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -71.513042,
+                        -16.411442
+                  ]
+            },
+            {
+                  "name": "Auditorio Alberto Molina",
+                  "text": "Az arequipai Auditorio Alberto Molina egy helyi színházterem, ahol koncerteket és kulturális eseményeket rendeznek.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.521524,
+                        -16.422726
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Az arequipai Anfiteatro egy nyitott szabadtéri színházi terület, amelyet nyilvános előadások színpadaként használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.524474,
+                        -16.405206
+                  ]
+            },
+            {
+                  "name": "Campo Ferial Cerro Juli",
+                  "text": "A Campo Ferial Cerro Juli egy kiterjedt művészeti és vásárterület Arequipában, amely nagy regionális kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.544658,
+                        -16.433391
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Salvador",
+                  "text": "Egy helyi plébániatemplom, amely Arequipa városi negyedeinek hívőit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -71.510806,
+                        -16.414565
+                  ]
+            },
+            {
+                  "name": "Comercial Cóndor",
+                  "text": "Forgalmas kereskedelmi piac Arequipában, amely különféle mindennapi cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.514882,
+                        -16.407412
+                  ]
+            },
+            {
+                  "name": "Omeño Import",
+                  "text": "Helyi importpiac, amely különféle árukat kínál Arequipa lakosainak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.538589,
+                        -16.406868
+                  ]
+            },
+            {
+                  "name": "Centro comercial La Merced",
+                  "text": "Kereskedelmi központ Arequipában, ahol számos árus kínál helyi és importált árukat.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.53958,
+                        -16.403922
+                  ]
+            },
+            {
+                  "name": "La Marina",
+                  "text": "Helyi kereskedelmi piac, ahol az árusok friss terményeket és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.544476,
+                        -16.406863
+                  ]
+            },
+            {
+                  "name": "Virgen del Chapi",
+                  "text": "Egy forgalmas mindennapi piac Arequipában, amelyet a régió szeretett védőszentjéről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.534107,
+                        -16.424425
+                  ]
+            },
+            {
+                  "name": "Mercado metropolitano de productores mayoristas Andrés Avenlino Cáceres",
+                  "text": "Egy nagyvárosi nagybani piac, amely friss terményekkel látja el Arequipa kiskereskedőit.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.536513,
+                        -16.423448
+                  ]
+            },
+            {
+                  "name": "Nueva Esperanza",
+                  "text": "Helyi környékbeli piac, amely a környező közösség napi bevásárlási igényeit elégíti ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537003,
+                        -16.424507
+                  ]
+            },
+            {
+                  "name": "Señor del Gran Poder",
+                  "text": "Közösségi kereskedelmi központ Arequipában, amelyet Señor del Gran Poder tiszteletére neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.535367,
+                        -16.425615
+                  ]
+            },
+            {
+                  "name": "Asociación Indpendientes de Abril",
+                  "text": "Egy forgalmas áruszövetkezeti piac, ahol ruházatot, élelmiszert és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537492,
+                        -16.425659
+                  ]
+            },
+            {
+                  "name": "Gratersa",
+                  "text": "Népszerű kereskedelmi piac Arequipában, amely a helyi standok széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.541971,
+                        -16.422369
+                  ]
+            },
+            {
+                  "name": "Vírgen del Rosario",
+                  "text": "Élénk környékbeli piac, amely friss élelmiszereket és napi használati cikkeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.543308,
+                        -16.423185
+                  ]
+            },
+            {
+                  "name": "Mercado total",
+                  "text": "Átfogó helyi piac, ahol a vásárlók a mindennapi termékek hatalmas választékát találhatják meg.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.516624,
+                        -16.422971
+                  ]
+            },
+            {
+                  "name": "Las Malvinas",
+                  "text": "Egy nyüzsgő fedett piac Arequipában, amely elektronikáról és különféle kereskedelmi árukról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.516062,
+                        -16.405617
+                  ]
+            },
+            {
+                  "name": "Centro Comercial El Palacio",
+                  "text": "Több standos kereskedelmi bevásárlógaléria Arequipa városi negyedeinek szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.533258,
+                        -16.403961
+                  ]
+            },
+            {
+                  "name": "San Juan de Dios",
+                  "text": "Egy nyüzsgő mindennapi piac Arequipában, amelyet a San Juan de Dios intézményről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537552,
+                        -16.404032
+                  ]
+            },
+            {
+                  "name": "Mercado Cuzco",
+                  "text": "Kereskedelmi piac Arequipában, amely az andoki régióra emlékeztető árukat és textíliákat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.535306,
+                        -16.424623
+                  ]
+            },
+            {
+                  "name": "Mercado de productores",
+                  "text": "Egy nagy termelői piac, ahol a mezőgazdasági munkások közvetlenül az arequipai fogyasztóknak adnak el.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537546,
+                        -16.413501
+                  ]
+            },
+            {
+                  "name": "Sur Andino",
+                  "text": "A déli andoki felföldről származó mezőgazdasági termékekre és árukra összpontosító speciális piac.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537438,
+                        -16.420578
+                  ]
+            },
+            {
+                  "name": "13 de Enero",
+                  "text": "Közösségi piac, amely különféle árusokkal és standokkal állít emléket január 13-ának.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.530674,
+                        -16.433153
+                  ]
+            },
+            {
+                  "name": "ASOCOMAT",
+                  "text": "Egy speciális, árusok által üzemeltetett piac Arequipában, amely építőanyagokat és vasárukat szállít.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.545414,
+                        -16.425485
+                  ]
+            },
+            {
+                  "name": "Mi Mercado",
+                  "text": "Barátságos helyi piac, ahol a lakosok friss zöldséget, gyümölcsöt és húst vásárolhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.539817,
+                        -16.426956
+                  ]
+            },
+            {
+                  "name": "4 de Octubre",
+                  "text": "Egy nyüzsgő környékbeli piac Arequipában, amely friss napi élelemmel látja el a helyi lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.538727,
+                        -16.425072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa museo Mario Vargas Llosa",
+                  "text": "Casa Museo Mario Vargas Llosa din Arequipa este un muzeu biografic amenajat în casa natală a celebrului laureat peruan al Premiului Nobel.",
+                  "category": "museum",
+                  "coords": [
+                        -71.541005,
+                        -16.406668
+                  ]
+            },
+            {
+                  "name": "Palacio Mario Vargas Llosa",
+                  "text": "Palacio Mario Vargas Llosa din Arequipa este un centru cultural și de artă dedicat moștenirii literare a scriitorului.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.542621,
+                        -16.409848
+                  ]
+            },
+            {
+                  "name": "Museo de arte contemporáneo",
+                  "text": "Museo de Arte Contemporáneo din Arequipa expune lucrări de artă modernă ale artiștilor regionali și internaționali în galeriile sale.",
+                  "category": "museum",
+                  "coords": [
+                        -71.541639,
+                        -16.40902
+                  ]
+            },
+            {
+                  "name": "Busto María Parado de Bellido",
+                  "text": "Busto María Parado de Bellido din Arequipa este o sculptură care o comemorează pe eroina independenței peruane.",
+                  "category": "historical",
+                  "coords": [
+                        -71.513042,
+                        -16.411442
+                  ]
+            },
+            {
+                  "name": "Auditorio Alberto Molina",
+                  "text": "Auditorio Alberto Molina din Arequipa este o sală de teatru locală care găzduiește concerte și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.521524,
+                        -16.422726
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Anfiteatro din Arequipa este o zonă de teatru în aer liber folosită ca scenă pentru spectacole publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.524474,
+                        -16.405206
+                  ]
+            },
+            {
+                  "name": "Campo Ferial Cerro Juli",
+                  "text": "Campo Ferial Cerro Juli este un vast complex de arte și expoziții în Arequipa, care găzduiește mari târguri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.544658,
+                        -16.433391
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Salvador",
+                  "text": "O biserică parohială locală care servește credincioșii din cartierele urbane ale orașului Arequipa.",
+                  "category": "religious",
+                  "coords": [
+                        -71.510806,
+                        -16.414565
+                  ]
+            },
+            {
+                  "name": "Comercial Cóndor",
+                  "text": "O piață comercială plină de viață în Arequipa, oferind o varietate de bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.514882,
+                        -16.407412
+                  ]
+            },
+            {
+                  "name": "Omeño Import",
+                  "text": "O piață locală de import care oferă diverse mărfuri locuitorilor din Arequipa.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.538589,
+                        -16.406868
+                  ]
+            },
+            {
+                  "name": "Centro comercial La Merced",
+                  "text": "Un centru comercial din Arequipa, unde numeroși vânzători comercializează bunuri locale și de import.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.53958,
+                        -16.403922
+                  ]
+            },
+            {
+                  "name": "La Marina",
+                  "text": "O piață comercială locală unde vânzătorii se adună pentru a oferi produse proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.544476,
+                        -16.406863
+                  ]
+            },
+            {
+                  "name": "Virgen del Chapi",
+                  "text": "O piață zilnică aglomerată din Arequipa, numită după îndrăgita sfântă patroană a regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.534107,
+                        -16.424425
+                  ]
+            },
+            {
+                  "name": "Mercado metropolitano de productores mayoristas Andrés Avenlino Cáceres",
+                  "text": "O mare piață metropolitană angro care aprovizionează comercianții din Arequipa cu produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.536513,
+                        -16.423448
+                  ]
+            },
+            {
+                  "name": "Nueva Esperanza",
+                  "text": "O piață de cartier care deservește nevoile zilnice de cumpărături ale comunității din jur.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537003,
+                        -16.424507
+                  ]
+            },
+            {
+                  "name": "Señor del Gran Poder",
+                  "text": "Un centru comunitar de tranzacționare din Arequipa, numit în onoarea Señor del Gran Poder.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.535367,
+                        -16.425615
+                  ]
+            },
+            {
+                  "name": "Asociación Indpendientes de Abril",
+                  "text": "O piață aglomerată a unei asociații de vânzători care comercializează haine, alimente și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537492,
+                        -16.425659
+                  ]
+            },
+            {
+                  "name": "Gratersa",
+                  "text": "O piață comercială populară din Arequipa, cunoscută pentru marea varietate de tarabe locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.541971,
+                        -16.422369
+                  ]
+            },
+            {
+                  "name": "Vírgen del Rosario",
+                  "text": "O piață de cartier animată, care oferă alimente proaspete și articole de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.543308,
+                        -16.423185
+                  ]
+            },
+            {
+                  "name": "Mercado total",
+                  "text": "O piață locală cuprinzătoare unde cumpărătorii pot găsi un sortiment vast de produse de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.516624,
+                        -16.422971
+                  ]
+            },
+            {
+                  "name": "Las Malvinas",
+                  "text": "O piață interioară plină de viață din Arequipa, renumită pentru electronice și diverse bunuri comerciale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.516062,
+                        -16.405617
+                  ]
+            },
+            {
+                  "name": "Centro Comercial El Palacio",
+                  "text": "O galerie comercială cu mai multe tarabe situată în inima districtelor urbane din Arequipa.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.533258,
+                        -16.403961
+                  ]
+            },
+            {
+                  "name": "San Juan de Dios",
+                  "text": "O piață zilnică vibrantă din Arequipa, numită după instituția San Juan de Dios.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537552,
+                        -16.404032
+                  ]
+            },
+            {
+                  "name": "Mercado Cuzco",
+                  "text": "O piață comercială din Arequipa, prezentând bunuri și textile care amintesc de regiunea andină.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.535306,
+                        -16.424623
+                  ]
+            },
+            {
+                  "name": "Mercado de productores",
+                  "text": "O mare piață a producătorilor agricoli, unde lucrătorii agricoli vând direct consumatorilor din Arequipa.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537546,
+                        -16.413501
+                  ]
+            },
+            {
+                  "name": "Sur Andino",
+                  "text": "O piață specializată axată pe produse agricole și bunuri din zonele muntoase andine sudice.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537438,
+                        -16.420578
+                  ]
+            },
+            {
+                  "name": "13 de Enero",
+                  "text": "O piață comunitară care comemorează data de 13 ianuarie cu diverși vânzători și tarabe.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.530674,
+                        -16.433153
+                  ]
+            },
+            {
+                  "name": "ASOCOMAT",
+                  "text": "O piață specializată, operată de vânzători în Arequipa, care furnizează materiale de construcții și feronerie.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.545414,
+                        -16.425485
+                  ]
+            },
+            {
+                  "name": "Mi Mercado",
+                  "text": "O piață locală primitoare, unde locuitorii pot cumpăra legume proaspete, fructe și carne.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.539817,
+                        -16.426956
+                  ]
+            },
+            {
+                  "name": "4 de Octubre",
+                  "text": "O piață vibrantă de cartier din Arequipa, care servește locuitorii locali cu provizii zilnice proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.538727,
+                        -16.425072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa museo Mario Vargas Llosa",
+                  "text": "The Casa Museo Mario Vargas Llosa in Arequipa is a biographical museum housed in the birthplace of the famous Peruvian Nobel laureate.",
+                  "category": "museum",
+                  "coords": [
+                        -71.541005,
+                        -16.406668
+                  ]
+            },
+            {
+                  "name": "Palacio Mario Vargas Llosa",
+                  "text": "The Palacio Mario Vargas Llosa in Arequipa is a cultural and arts center dedicated to the literary legacy of the writer.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.542621,
+                        -16.409848
+                  ]
+            },
+            {
+                  "name": "Museo de arte contemporáneo",
+                  "text": "The Museo de Arte Contemporáneo in Arequipa exhibits modern artworks by regional and international artists in its galleries.",
+                  "category": "museum",
+                  "coords": [
+                        -71.541639,
+                        -16.40902
+                  ]
+            },
+            {
+                  "name": "Busto María Parado de Bellido",
+                  "text": "The Busto María Parado de Bellido in Arequipa is a sculpture commemorating the heroine of Peruvian independence.",
+                  "category": "historical",
+                  "coords": [
+                        -71.513042,
+                        -16.411442
+                  ]
+            },
+            {
+                  "name": "Auditorio Alberto Molina",
+                  "text": "The Auditorio Alberto Molina in Arequipa is a local theater hall hosting concerts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.521524,
+                        -16.422726
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "The Anfiteatro in Arequipa is an open-air theater area utilized as a stage for public performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.524474,
+                        -16.405206
+                  ]
+            },
+            {
+                  "name": "Campo Ferial Cerro Juli",
+                  "text": "The Campo Ferial Cerro Juli is a sprawling arts and fairground complex in Arequipa hosting major regional exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.544658,
+                        -16.433391
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Salvador",
+                  "text": "A local parish church serving the faithful in Arequipa's urban neighborhoods.",
+                  "category": "religious",
+                  "coords": [
+                        -71.510806,
+                        -16.414565
+                  ]
+            },
+            {
+                  "name": "Comercial Cóndor",
+                  "text": "A bustling commercial marketplace in Arequipa offering a variety of everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.514882,
+                        -16.407412
+                  ]
+            },
+            {
+                  "name": "Omeño Import",
+                  "text": "A local import marketplace providing various merchandise to Arequipa's residents.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.538589,
+                        -16.406868
+                  ]
+            },
+            {
+                  "name": "Centro comercial La Merced",
+                  "text": "A commercial center in Arequipa where numerous vendors sell local and imported goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.53958,
+                        -16.403922
+                  ]
+            },
+            {
+                  "name": "La Marina",
+                  "text": "A local commercial marketplace where vendors gather to sell fresh produce and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.544476,
+                        -16.406863
+                  ]
+            },
+            {
+                  "name": "Virgen del Chapi",
+                  "text": "A busy daily marketplace in Arequipa named after the region's beloved patron saint.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.534107,
+                        -16.424425
+                  ]
+            },
+            {
+                  "name": "Mercado metropolitano de productores mayoristas Andrés Avenlino Cáceres",
+                  "text": "A large metropolitan wholesale market supplying fresh produce to retailers across Arequipa.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.536513,
+                        -16.423448
+                  ]
+            },
+            {
+                  "name": "Nueva Esperanza",
+                  "text": "A local neighborhood marketplace serving the daily shopping needs of the surrounding community.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537003,
+                        -16.424507
+                  ]
+            },
+            {
+                  "name": "Señor del Gran Poder",
+                  "text": "A community trading hub in Arequipa named in honor of Señor del Gran Poder.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.535367,
+                        -16.425615
+                  ]
+            },
+            {
+                  "name": "Asociación Indpendientes de Abril",
+                  "text": "A busy vendors' association marketplace selling clothing, food, and household supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537492,
+                        -16.425659
+                  ]
+            },
+            {
+                  "name": "Gratersa",
+                  "text": "A popular commercial market in Arequipa known for its wide variety of local stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.541971,
+                        -16.422369
+                  ]
+            },
+            {
+                  "name": "Vírgen del Rosario",
+                  "text": "A lively neighborhood marketplace providing fresh groceries and items of daily use.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.543308,
+                        -16.423185
+                  ]
+            },
+            {
+                  "name": "Mercado total",
+                  "text": "A comprehensive local market where shoppers can find a vast assortment of everyday products.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.516624,
+                        -16.422971
+                  ]
+            },
+            {
+                  "name": "Las Malvinas",
+                  "text": "A bustling indoor marketplace in Arequipa renowned for electronics and assorted commercial goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.516062,
+                        -16.405617
+                  ]
+            },
+            {
+                  "name": "Centro Comercial El Palacio",
+                  "text": "A multi-stall commercial shopping gallery located in the heart of Arequipa's urban districts.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.533258,
+                        -16.403961
+                  ]
+            },
+            {
+                  "name": "San Juan de Dios",
+                  "text": "A vibrant daily marketplace in Arequipa named after the San Juan de Dios institution.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537552,
+                        -16.404032
+                  ]
+            },
+            {
+                  "name": "Mercado Cuzco",
+                  "text": "A commercial marketplace in Arequipa featuring goods and textiles reminiscent of the Andean region.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.535306,
+                        -16.424623
+                  ]
+            },
+            {
+                  "name": "Mercado de productores",
+                  "text": "A large producers' farmers market where agricultural workers sell direct to Arequipa's consumers.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537546,
+                        -16.413501
+                  ]
+            },
+            {
+                  "name": "Sur Andino",
+                  "text": "A specialized marketplace focusing on agricultural products and goods from the southern Andean highlands.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.537438,
+                        -16.420578
+                  ]
+            },
+            {
+                  "name": "13 de Enero",
+                  "text": "A community marketplace commemorating the date of January 13th with various vendors and stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.530674,
+                        -16.433153
+                  ]
+            },
+            {
+                  "name": "ASOCOMAT",
+                  "text": "A specialized vendor-operated market in Arequipa supplying construction materials and hardware.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.545414,
+                        -16.425485
+                  ]
+            },
+            {
+                  "name": "Mi Mercado",
+                  "text": "A welcoming local market where residents can purchase fresh vegetables, fruits, and meat.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.539817,
+                        -16.426956
+                  ]
+            },
+            {
+                  "name": "4 de Octubre",
+                  "text": "A vibrant neighborhood market in Arequipa serving local residents with fresh daily provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.538727,
+                        -16.425072
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PE-ARE",
     coords: [-71.5369, -16.409],
@@ -1561,7 +3739,232 @@ export const poiExtraPeruCitiesV2: POI[] = [
       fr: ["L'une des plus anciennes villes espagnoles d'Amérique du Sud.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/piura-cities-v2.webp"},
   {
-    id: "iquitos-cities-v2",
+    id: "iquitos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parroquia Nuestra Señora del Amazonas",
+                  "text": "Diese christliche Pfarrei in Iquitos ist der Jungfrau des Amazonas gewidmet und spiegelt die regionale Identität wider.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.269229,
+                        -3.754285
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "Eine dem Heiligen Martin von Porres gewidmete Pfarrei in Iquitos, die als wichtiges religiöses Zentrum im Stadtviertel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.257329,
+                        -3.752309
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein modernes Kirchengebäude der Heiligen der Letzten Tage in Iquitos, das durch seine klare Architektur im Stadtbild auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.262238,
+                        -3.752342
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Redentor",
+                  "text": "Die Pfarrei Cristo Redentor in Iquitos ist eine christliche Kultstätte, die für ihre engagierte Gemeindearbeit im Amazonasgebiet bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.270427,
+                        -3.760988
+                  ]
+            },
+            {
+                  "name": "Mercado Celia Ruíz Cachique",
+                  "text": "Ein lokaler Markt in Iquitos, auf dem frischer Fisch aus dem Amazonas und typische regionale Kräuter gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.271202,
+                        -3.757912
+                  ]
+            },
+            {
+                  "name": "El Mercadillo",
+                  "text": "Ein kleinerer Nachbarschaftsmarkt in Iquitos, der für seine authentische Atmosphäre und frischen tropischen Säfte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.265541,
+                        -3.747241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parroquia Nuestra Señora del Amazonas",
+                  "text": "Ez az iquitosi keresztény plébánia az Amazonas Szűzének van szentelt, tükrözve a régió vallási identitását.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.269229,
+                        -3.754285
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "Porres Szent Mártonnak szentelt plébánia Iquitosban, amely a negyed fontos vallási központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.257329,
+                        -3.752309
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek modern templomépülete Iquitosban, amely letisztult építészetével tűnik ki a városképből.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.262238,
+                        -3.752342
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Redentor",
+                  "text": "A Cristo Redentor plébánia Iquitosban egy keresztény istentiszteleti hely, amely az Amazonas-vidéki aktív közösségi munkájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.270427,
+                        -3.760988
+                  ]
+            },
+            {
+                  "name": "Mercado Celia Ruíz Cachique",
+                  "text": "Egy helyi piac Iquitosban, ahol friss amazóniai halakat és jellegzetes helyi gyógynövényeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.271202,
+                        -3.757912
+                  ]
+            },
+            {
+                  "name": "El Mercadillo",
+                  "text": "Egy kisebb szomszédsági piac Iquitosban, amely autentikus hangulatáról és friss trópusi gyümölcsleveiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.265541,
+                        -3.747241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parroquia Nuestra Señora del Amazonas",
+                  "text": "Această parohie creștină din Iquitos este dedicată Fecioarei Amazonului, reflectând identitatea religioasă regională.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.269229,
+                        -3.754285
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "O parohie dedicată Sfântului Martin de Porres în Iquitos, care servește ca un centru religios important în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.257329,
+                        -3.752309
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O clădire modernă a bisericii Sfinților din Zilele din Urmă în Iquitos, remarcându-se prin arhitectura sa simplă în peisajul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.262238,
+                        -3.752342
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Redentor",
+                  "text": "Parohia Cristo Redentor din Iquitos este un lăcaș de cult creștin cunoscut pentru activitatea sa comunitară intensă în zona Amazonului.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.270427,
+                        -3.760988
+                  ]
+            },
+            {
+                  "name": "Mercado Celia Ruíz Cachique",
+                  "text": "O piață locală în Iquitos unde se vând pești proaspeți din Amazon și ierburi regionale tipice.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.271202,
+                        -3.757912
+                  ]
+            },
+            {
+                  "name": "El Mercadillo",
+                  "text": "O piață de cartier mai mică în Iquitos, cunoscută pentru atmosfera sa autentică și sucurile tropicale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.265541,
+                        -3.747241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parroquia Nuestra Señora del Amazonas",
+                  "text": "This Christian parish in Iquitos is dedicated to the Virgin of the Amazon, reflecting the region's religious identity.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.269229,
+                        -3.754285
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "A parish dedicated to Saint Martin de Porres in Iquitos, serving as a significant religious center in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.257329,
+                        -3.752309
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A modern Latter-day Saints church building in Iquitos, standing out with its clean architecture in the cityscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.262238,
+                        -3.752342
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Redentor",
+                  "text": "The Cristo Redentor parish in Iquitos is a Christian place of worship known for its active community work in the Amazon region.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.270427,
+                        -3.760988
+                  ]
+            },
+            {
+                  "name": "Mercado Celia Ruíz Cachique",
+                  "text": "A local market in Iquitos where fresh Amazonian fish and typical regional herbs are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.271202,
+                        -3.757912
+                  ]
+            },
+            {
+                  "name": "El Mercadillo",
+                  "text": "A smaller neighborhood market in Iquitos known for its authentic atmosphere and fresh tropical juices.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.265541,
+                        -3.747241
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PE-LOR",
     coords: [-73.2538, -3.7491],
@@ -1608,7 +4011,1420 @@ export const poiExtraPeruCitiesV2: POI[] = [
       fr: ["La plus grande ville de l'Amazonie péruvienne.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/iquitos-cities-v2.webp"},
   {
-    id: "cusco-cities-v2",
+    id: "cusco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sitio arqueológico RumiWasi",
+                  "text": "Eine alte archäologische Stätte der Inkas mit klassischem Steinmauerwerk am Rande von Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.940423,
+                        -13.519243
+                  ]
+            },
+            {
+                  "name": "San Sebastian",
+                  "text": "Eine koloniale Barockkirche in Cusco, die für ihre kunstvoll geschnitzte Steinfassade bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.938103,
+                        -13.530028
+                  ]
+            },
+            {
+                  "name": "Muyu Urqu",
+                  "text": "Ein kulturell bedeutsamer Andengipfel mit Blick auf die historische Stadt Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.956311,
+                        -13.543011
+                  ]
+            },
+            {
+                  "name": "Araway Qhata",
+                  "text": "Ein markanter Berggipfel, der Teil des zerklüfteten Geländes um Cusco ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.969392,
+                        -13.543124
+                  ]
+            },
+            {
+                  "name": "Anahuarque",
+                  "text": "Ein heiliger Berggipfel in den Anden, der stark in der lokalen indigenen Mythologie in der Nähe von Cusco verwurzelt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.955372,
+                        -13.577103
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Qencha Pata",
+                  "text": "Historische Inka-Ruinen mit verbliebenen Steinmauern und landwirtschaftlichen Terrassen in der Nähe von Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.935726,
+                        -13.518379
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Recoleta",
+                  "text": "Eine katholische Kirche aus dem 16. Jahrhundert in Cusco, die eine bemerkenswerte Sammlung kolonialer Kunst beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        -71.96559,
+                        -13.516529
+                  ]
+            },
+            {
+                  "name": "Sitio arqueologico Sucsumarca",
+                  "text": "Präkolumbianische archäologische Überreste, die alte Siedlungsmuster in der Region Cusco offenbaren.",
+                  "category": "historical",
+                  "coords": [
+                        -71.925419,
+                        -13.508777
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Patapatayoq",
+                  "text": "Eine alte, in Terrassen angelegte archäologische Stätte, die Inka-Techniken der Landbewirtschaftung zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -71.913382,
+                        -13.518596
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Wayna Tawqaray",
+                  "text": "Ruinen eines Inka-Komplexes vor der gebirgigen Kulisse des Cusco-Tals.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938641,
+                        -13.54465
+                  ]
+            },
+            {
+                  "name": "Sito Arqueológico Qotacalle",
+                  "text": "Eine städtische archäologische Stätte, an der prähispanische Steinfundamente in Cusco erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        -71.944071,
+                        -13.544258
+                  ]
+            },
+            {
+                  "name": "Zona Arqueologica Muyu Orqo",
+                  "text": "Alte Ruinen auf einem Hügel, die eine strategische Aussicht über die umliegenden Täler von Cusco bieten.",
+                  "category": "historical",
+                  "coords": [
+                        -71.958018,
+                        -13.542358
+                  ]
+            },
+            {
+                  "name": "Inka Roka",
+                  "text": "Ein hoch aufragendes zylindrisches Steindenkmal, das von einer Bronzestatue des Inkaherrschers Pachacútec gekrönt wird.",
+                  "category": "historical",
+                  "coords": [
+                        -71.968482,
+                        -13.535581
+                  ]
+            },
+            {
+                  "name": "Garcilaso (1990)",
+                  "text": "Dieses 1990 errichtete Denkmal erinnert an den berühmten Chronisten Inca Garcilaso de la Vega aus Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.967361,
+                        -13.521122
+                  ]
+            },
+            {
+                  "name": "Teteccaca",
+                  "text": "Diese alten Steinruinen bieten einen Einblick in die präkolumbianische Geschichte des Cusco-Tals.",
+                  "category": "historical",
+                  "coords": [
+                        -71.96525,
+                        -13.514932
+                  ]
+            },
+            {
+                  "name": "Huaca Pachakutec",
+                  "text": "Dieser heilige Steinschrein ist Pachacútec gewidmet, dem einflussreichen Herrscher, der das Inkareich erweiterte.",
+                  "category": "historical",
+                  "coords": [
+                        -71.959946,
+                        -13.51525
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Hatun Plaza",
+                  "text": "Diese archäologische Stätte schützt die Überreste eines einst riesigen zeremoniellen Platzes in der Region Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.943979,
+                        -13.51729
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Wakapunku",
+                  "text": "Diese archäologische Stätte, bekannt als das „Heilige Tor“, weist historische Steinfundamente und vorspanische Überreste auf.",
+                  "category": "historical",
+                  "coords": [
+                        -71.944944,
+                        -13.520355
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Qencha Qencha",
+                  "text": "Besucher können die alten Terrassenstrukturen und steinernen Stützmauern dieser präkolumbianischen Siedlung erkunden.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938961,
+                        -13.519607
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Kusikallanka",
+                  "text": "Diese archäologische Zone umfasst die Ruinen einer traditionellen Kallanka, einer großen rechteckigen Halle, die für Inka-Zeremonien genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -71.937134,
+                        -13.516923
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Machu Anden",
+                  "text": "Alte landwirtschaftliche Terrassen bilden den Kern dieser archäologischen Stätte und zeugen von fortschrittlichen vorspanischen Anbautechniken.",
+                  "category": "historical",
+                  "coords": [
+                        -71.939255,
+                        -13.516167
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO DE LARAPA",
+                  "text": "Diese im Bezirk Larapa gelegenen ausgegrabenen Ruinen offenbaren frühe Siedlungsmuster des Cusco-Tals.",
+                  "category": "historical",
+                  "coords": [
+                        -71.895736,
+                        -13.534263
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO ANDENES DE LARAPA NORTE",
+                  "text": "Dieser nördliche Sektor bewahrt eine Reihe von gestuften landwirtschaftlichen Steinterrassen, die von frühen andinen Bewohnern angelegt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -71.889774,
+                        -13.528085
+                  ]
+            },
+            {
+                  "name": "Qolqapampa",
+                  "text": "Diese einst wichtige landwirtschaftliche Ebene birgt die Steinfundamente von präkolumbianischen Vorratshäusern, die als Qolqas bekannt sind.",
+                  "category": "historical",
+                  "coords": [
+                        -71.937774,
+                        -13.528409
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico",
+                  "text": "Diese verwitterten Steinruinen in der Region Cusco bieten ein stummes Zeugnis für die architektonischen Fähigkeiten ihrer alten Bewohner.",
+                  "category": "historical",
+                  "coords": [
+                        -71.943382,
+                        -13.528585
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Wimpillay",
+                  "text": "Diese bedeutende archäologische Zone ist bekannt für ihre Vor-Inka-Fundamente und Funde von alter Wari-Keramik.",
+                  "category": "historical",
+                  "coords": [
+                        -71.952604,
+                        -13.53968
+                  ]
+            },
+            {
+                  "name": "ZONA ARQUEOLÓGICA WAYNA TAUQARAY",
+                  "text": "Diese alte archäologische Zone an den Talhängen weist Überreste von Terrassierungen und steinernen Stützmauern auf.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938488,
+                        -13.547477
+                  ]
+            },
+            {
+                  "name": "Kallachaka",
+                  "text": "Diese beeindruckende archäologische Stätte umfasst die Überreste alter Steinbrückenfundamente, die die örtliche Schlucht überquerten.",
+                  "category": "historical",
+                  "coords": [
+                        -71.950395,
+                        -13.512045
+                  ]
+            },
+            {
+                  "name": "Raqayraqayniyuq",
+                  "text": "Dieser offiziell als Kulturerbe anerkannte archäologische Komplex bewahrt bemerkenswerte präkolumbianische Architekturelemente.",
+                  "category": "historical",
+                  "coords": [
+                        -71.977635,
+                        -13.551123
+                  ]
+            },
+            {
+                  "name": "Epicentro Centro de Artes",
+                  "text": "Dieses lebendige Kunstzentrum bietet zeitgenössische Ausstellungen und kreative Workshops für die lokale Gemeinde von Cusco.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.908387,
+                        -13.535979
+                  ]
+            },
+            {
+                  "name": "Casa DARTE - Centro de Artes Escénicas",
+                  "text": "Dieser den darstellenden Künsten gewidmete Kulturort veranstaltet unabhängige Theaterproduktionen, Tänze und lokale künstlerische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.964432,
+                        -13.522713
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Gal school",
+                  "text": "Dieser pädagogische Kunstraum verfügt über eine Galerie, in der wechselnde Ausstellungen von Schülerkunstwerken und lokalen Talenten gezeigt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.902323,
+                        -13.525817
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Micaela Bastidas",
+                  "text": "Dieses Freiluft-Amphitheater, benannt nach der berühmten peruanischen Revolutionärin, bietet Platz für Gemeindetreffen und lebendige kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.908406,
+                        -13.539046
+                  ]
+            },
+            {
+                  "name": "Capilla de Tankarpata",
+                  "text": "Diese bescheidene Kapelle im Bezirk Tankarpata weist traditionelle andin-koloniale Architekturmerkmale auf.",
+                  "category": "religious",
+                  "coords": [
+                        -71.947846,
+                        -13.546151
+                  ]
+            },
+            {
+                  "name": "Seminario Arquidiocesano \"San Antonio Abad\" de Cusco",
+                  "text": "In diesem weitläufigen historischen Seminarkomplex wird seit Jahrhunderten katholischer Klerus in der Region Cusco ausgebildet.",
+                  "category": "religious",
+                  "coords": [
+                        -71.950308,
+                        -13.544995
+                  ]
+            },
+            {
+                  "name": "Casa de retiro -Juan Pablo II",
+                  "text": "Dieses nach Papst Johannes Paul II. benannte, friedliche Exerzitienhaus bietet einen ruhigen spirituellen Zufluchtsort abseits der geschäftigen Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -71.949592,
+                        -13.543871
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Mormon\"",
+                  "text": "Diese moderne Kirche der Heiligen der Letzten Tage zeichnet sich durch einen markanten, funktionalen Architekturstil aus und veranstaltet regelmäßige Gemeindegottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -71.924941,
+                        -13.531975
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "Diese kleine Kapelle, die der Schutzpatronin der Mestizen gewidmet ist, steht im Juli im Mittelpunkt farbenfroher lokaler Festlichkeiten.",
+                  "category": "religious",
+                  "coords": [
+                        -71.970302,
+                        -13.536779
+                  ]
+            },
+            {
+                  "name": "Capilla de Chocco",
+                  "text": "Diese traditionelle andine Kapelle in der Gemeinde Chocco dient als spiritueller Versammlungsort für die Anwohner.",
+                  "category": "religious",
+                  "coords": [
+                        -71.978481,
+                        -13.554241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sitio arqueológico RumiWasi",
+                  "text": "Egy ősi inka régészeti lelőhely, amely klasszikus kőfalazattal rendelkezik Cusco szélén.",
+                  "category": "historical",
+                  "coords": [
+                        -71.940423,
+                        -13.519243
+                  ]
+            },
+            {
+                  "name": "San Sebastian",
+                  "text": "Egy gyarmati korabeli barokk templom Cuscóban, amely kidolgozott, faragott kőhomlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -71.938103,
+                        -13.530028
+                  ]
+            },
+            {
+                  "name": "Muyu Urqu",
+                  "text": "Egy kulturálisan jelentős andoki hegycsúcs, amely Cusco történelmi városára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.956311,
+                        -13.543011
+                  ]
+            },
+            {
+                  "name": "Araway Qhata",
+                  "text": "Egy kiemelkedő hegycsúcs, amely a Cuscót körülvevő zord terep részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.969392,
+                        -13.543124
+                  ]
+            },
+            {
+                  "name": "Anahuarque",
+                  "text": "Egy szent hegycsúcs az Andokban, amely a helyi őslakos mitológiában gyökerezik Cusco közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.955372,
+                        -13.577103
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Qencha Pata",
+                  "text": "Történelmi inka romok megmaradt kőfalakkal és mezőgazdasági teraszokkal Cusco közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -71.935726,
+                        -13.518379
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Recoleta",
+                  "text": "Egy 16. századi katolikus templom Cuscóban, amely figyelemre méltó gyarmati művészeti gyűjteménynek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -71.96559,
+                        -13.516529
+                  ]
+            },
+            {
+                  "name": "Sitio arqueologico Sucsumarca",
+                  "text": "Prekolumbiánus régészeti maradványok, amelyek ősi településszerkezeteket tárnak fel Cusco régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -71.925419,
+                        -13.508777
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Patapatayoq",
+                  "text": "Egy ősi teraszos régészeti lelőhely, amely bemutatja az inkák földgazdálkodási technikáit.",
+                  "category": "historical",
+                  "coords": [
+                        -71.913382,
+                        -13.518596
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Wayna Tawqaray",
+                  "text": "Egy inka komplexum romjai Cusco völgyének hegyvidéki háttere előtt.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938641,
+                        -13.54465
+                  ]
+            },
+            {
+                  "name": "Sito Arqueológico Qotacalle",
+                  "text": "Egy városi régészeti lelőhely, amely a spanyol hódítás előtti kőalapozásokat őrzi Cusco területén.",
+                  "category": "historical",
+                  "coords": [
+                        -71.944071,
+                        -13.544258
+                  ]
+            },
+            {
+                  "name": "Zona Arqueologica Muyu Orqo",
+                  "text": "Ősi hegytetői romok, amelyek stratégiai kilátást nyújtanak a környező Cusco völgyeire.",
+                  "category": "historical",
+                  "coords": [
+                        -71.958018,
+                        -13.542358
+                  ]
+            },
+            {
+                  "name": "Inka Roka",
+                  "text": "Egy tornyosuló hengeres kőemlékmű, amelynek tetején Pachacuti inka uralkodó bronzszobra áll.",
+                  "category": "historical",
+                  "coords": [
+                        -71.968482,
+                        -13.535581
+                  ]
+            },
+            {
+                  "name": "Garcilaso (1990)",
+                  "text": "Ez az 1990-ben emelt emlékmű a neves cuzcói krónikásnak, Inca Garcilaso de la Vegának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -71.967361,
+                        -13.521122
+                  ]
+            },
+            {
+                  "name": "Teteccaca",
+                  "text": "Ezek az ősi kőromok bepillantást engednek a Cuzco-völgy prekolumbiánus történetébe.",
+                  "category": "historical",
+                  "coords": [
+                        -71.96525,
+                        -13.514932
+                  ]
+            },
+            {
+                  "name": "Huaca Pachakutec",
+                  "text": "Ezt a szent kőszentélyt Pachacutecnek, az Inka Birodalmat kiterjesztő befolyásos uralkodónak szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        -71.959946,
+                        -13.51525
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Hatun Plaza",
+                  "text": "Ez a régészeti lelőhely egy egykor hatalmas szertartási tér maradványait védi a Cuzco régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -71.943979,
+                        -13.51729
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Wakapunku",
+                  "text": "A „Szent Kapu” néven is ismert régészeti lelőhely történelmi kőalapzatokat és spanyol hódítás előtti maradványokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        -71.944944,
+                        -13.520355
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Qencha Qencha",
+                  "text": "A látogatók felfedezhetik e prekolumbiánus település ősi teraszos szerkezeteit és kőből épült támfalait.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938961,
+                        -13.519607
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Kusikallanka",
+                  "text": "Ez a régészeti terület egy hagyományos kallanka, azaz egy inka szertartásokhoz használt nagy téglalap alakú csarnok romjait rejtik.",
+                  "category": "historical",
+                  "coords": [
+                        -71.937134,
+                        -13.516923
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Machu Anden",
+                  "text": "Ősi mezőgazdasági teraszok alkotják e régészeti lelőhely magját, bemutatva a spanyolok előtti fejlett gazdálkodási technikákat.",
+                  "category": "historical",
+                  "coords": [
+                        -71.939255,
+                        -13.516167
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO DE LARAPA",
+                  "text": "A Larapa negyedben található feltárt romok a Cuzco-völgy korai településszerkezetéről árulkodnak.",
+                  "category": "historical",
+                  "coords": [
+                        -71.895736,
+                        -13.534263
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO ANDENES DE LARAPA NORTE",
+                  "text": "Ez az északi szektor a korai andoki lakosok által épített lépcsőzetes mezőgazdasági kőteraszok sorozatát őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -71.889774,
+                        -13.528085
+                  ]
+            },
+            {
+                  "name": "Qolqapampa",
+                  "text": "Ezen az egykor fontos mezőgazdasági síkságon találhatók a qolqa néven ismert prekolumbiánus raktárak kőalapjai.",
+                  "category": "historical",
+                  "coords": [
+                        -71.937774,
+                        -13.528409
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico",
+                  "text": "E cuzcói régióban található, időjárás viszontagságaitól kikezdett kőromok némán tanúskodnak egykori lakóinak építészeti képességeiről.",
+                  "category": "historical",
+                  "coords": [
+                        -71.943382,
+                        -13.528585
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Wimpillay",
+                  "text": "Ez a jelentős régészeti zóna inka előtti alapjairól és az ősi Wari-kerámiák felfedezéséről híres.",
+                  "category": "historical",
+                  "coords": [
+                        -71.952604,
+                        -13.53968
+                  ]
+            },
+            {
+                  "name": "ZONA ARQUEOLÓGICA WAYNA TAUQARAY",
+                  "text": "A völgy lejtőin elterülő ősi régészeti zónában teraszok és kőből épült támfalak maradványai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938488,
+                        -13.547477
+                  ]
+            },
+            {
+                  "name": "Kallachaka",
+                  "text": "Ez a lenyűgöző régészeti lelőhely a helyi szurdokon átívelő ősi kőhíd alapjainak maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        -71.950395,
+                        -13.512045
+                  ]
+            },
+            {
+                  "name": "Raqayraqayniyuq",
+                  "text": "A hivatalosan is kulturális örökségként elismert régészeti komplexum figyelemre méltó prekolumbiánus építészeti elemeket őriz.",
+                  "category": "historical",
+                  "coords": [
+                        -71.977635,
+                        -13.551123
+                  ]
+            },
+            {
+                  "name": "Epicentro Centro de Artes",
+                  "text": "Ez a nyüzsgő művészeti központ kortárs kiállításoknak és kreatív műhelyeknek ad otthont a helyi cuzcói közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.908387,
+                        -13.535979
+                  ]
+            },
+            {
+                  "name": "Casa DARTE - Centro de Artes Escénicas",
+                  "text": "Az előadóművészeteknek szentelt kulturális helyszín független színházi produkcióknak, táncoknak és helyi művészeti előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.964432,
+                        -13.522713
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Gal school",
+                  "text": "Ez az oktatási művészeti tér egy galériával büszkélkedhet, amely a diákok és a helyi tehetségek munkáinak időszaki kiállításait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.902323,
+                        -13.525817
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Micaela Bastidas",
+                  "text": "A híres perui forradalmárról elnevezett szabadtéri amfiteátrum közösségi összejöveteleknek és pezsgő kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.908406,
+                        -13.539046
+                  ]
+            },
+            {
+                  "name": "Capilla de Tankarpata",
+                  "text": "A Tankarpata negyedben található szerény kápolna hagyományos andoki-gyarmati építészeti jegyeket hordoz.",
+                  "category": "religious",
+                  "coords": [
+                        -71.947846,
+                        -13.546151
+                  ]
+            },
+            {
+                  "name": "Seminario Arquidiocesano \"San Antonio Abad\" de Cusco",
+                  "text": "Ebben a kiterjedt, történelmi szemináriumi komplexumban évszázadok óta képeznek katolikus papokat a Cuzco régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -71.950308,
+                        -13.544995
+                  ]
+            },
+            {
+                  "name": "Casa de retiro -Juan Pablo II",
+                  "text": "A II. János Pál pápáról elnevezett nyugodt lelkigyakorlatos ház csendes spirituális menedéket kínál a nyüzsgő várostól távol.",
+                  "category": "religious",
+                  "coords": [
+                        -71.949592,
+                        -13.543871
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Mormon\"",
+                  "text": "Ez az Utolsó Napok Szentjeinek modern temploma jellegzetes, funkcionális építészeti stílussal rendelkezik, és rendszeres közösségi istentiszteleteknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -71.924941,
+                        -13.531975
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "A meszticek védőszentjének szentelt kis kápolna júliusban a színes helyi ünnepségek központjává válik.",
+                  "category": "religious",
+                  "coords": [
+                        -71.970302,
+                        -13.536779
+                  ]
+            },
+            {
+                  "name": "Capilla de Chocco",
+                  "text": "A Chocco közösségben található hagyományos andoki kápolna a helyi lakosok spirituális gyülekezési helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -71.978481,
+                        -13.554241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sitio arqueológico RumiWasi",
+                  "text": "Un vechi sit arheologic incaș, cu zidărie clasică din piatră la periferia orașului Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.940423,
+                        -13.519243
+                  ]
+            },
+            {
+                  "name": "San Sebastian",
+                  "text": "O biserică barocă colonială din Cusco, cunoscută pentru fațada sa din piatră bogat sculptată.",
+                  "category": "religious",
+                  "coords": [
+                        -71.938103,
+                        -13.530028
+                  ]
+            },
+            {
+                  "name": "Muyu Urqu",
+                  "text": "Un vârf andin cu o semnificație culturală deosebită, care domină orașul istoric Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.956311,
+                        -13.543011
+                  ]
+            },
+            {
+                  "name": "Araway Qhata",
+                  "text": "Un vârf muntos proeminent, făcând parte din terenul accidentat din jurul orașului Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.969392,
+                        -13.543124
+                  ]
+            },
+            {
+                  "name": "Anahuarque",
+                  "text": "Un vârf de munte sacru din Anzi, plin de mitologie indigenă locală, lângă Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.955372,
+                        -13.577103
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Qencha Pata",
+                  "text": "Ruine istorice incașe, prezentând resturi de ziduri de piatră și terase agricole lângă Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.935726,
+                        -13.518379
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Recoleta",
+                  "text": "O biserică catolică din secolul al XVI-lea din Cusco, adăpostind o colecție remarcabilă de artă colonială.",
+                  "category": "religious",
+                  "coords": [
+                        -71.96559,
+                        -13.516529
+                  ]
+            },
+            {
+                  "name": "Sitio arqueologico Sucsumarca",
+                  "text": "Rămășițe arheologice precolumbiene care dezvăluie modele de așezare antice în regiunea Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.925419,
+                        -13.508777
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Patapatayoq",
+                  "text": "Un vechi sit arheologic terasat care prezintă tehnicile incașe de gestionare a terenurilor.",
+                  "category": "historical",
+                  "coords": [
+                        -71.913382,
+                        -13.518596
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Wayna Tawqaray",
+                  "text": "Ruinele unui complex incaș situate pe fundalul muntos al văii Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938641,
+                        -13.54465
+                  ]
+            },
+            {
+                  "name": "Sito Arqueológico Qotacalle",
+                  "text": "Un sit arheologic urban care păstrează fundații de piatră prehispanice în zona Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.944071,
+                        -13.544258
+                  ]
+            },
+            {
+                  "name": "Zona Arqueologica Muyu Orqo",
+                  "text": "Ruine antice pe un deal, care oferă vederi strategice asupra văilor Cusco din jur.",
+                  "category": "historical",
+                  "coords": [
+                        -71.958018,
+                        -13.542358
+                  ]
+            },
+            {
+                  "name": "Inka Roka",
+                  "text": "Un monument cilindric impunător din piatră, încununat de o statuie de bronz a împăratului incaș Pachacuti.",
+                  "category": "historical",
+                  "coords": [
+                        -71.968482,
+                        -13.535581
+                  ]
+            },
+            {
+                  "name": "Garcilaso (1990)",
+                  "text": "Acest monument, ridicat în 1990, îl comemorează pe renumitul cronicar cuschean Inca Garcilaso de la Vega.",
+                  "category": "historical",
+                  "coords": [
+                        -71.967361,
+                        -13.521122
+                  ]
+            },
+            {
+                  "name": "Teteccaca",
+                  "text": "Aceste ruine antice din piatră oferă o privire în istoria precolumbiană a văii Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.96525,
+                        -13.514932
+                  ]
+            },
+            {
+                  "name": "Huaca Pachakutec",
+                  "text": "Acest altar sacru din piatră este dedicat lui Pachacutec, influentul împărat care a extins Imperiul Incaș.",
+                  "category": "historical",
+                  "coords": [
+                        -71.959946,
+                        -13.51525
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Hatun Plaza",
+                  "text": "Acest sit arheologic protejează rămășițele unei piețe ceremoniale odinioară vaste din regiunea Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.943979,
+                        -13.51729
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Wakapunku",
+                  "text": "Cunoscut sub numele de „Poarta Sacră”, acest sit arheologic prezintă fundații istorice din piatră și vestigii pre-hispanice.",
+                  "category": "historical",
+                  "coords": [
+                        -71.944944,
+                        -13.520355
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Qencha Qencha",
+                  "text": "Vizitatorii pot explora structurile antice terasate și zidurile de sprijin din piatră ale acestei așezări precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938961,
+                        -13.519607
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Kusikallanka",
+                  "text": "Această zonă arheologică prezintă ruinele unei Kallanka tradiționale, o sală mare dreptunghiulară folosită pentru ceremoniile incașe.",
+                  "category": "historical",
+                  "coords": [
+                        -71.937134,
+                        -13.516923
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Machu Anden",
+                  "text": "Terasele agricole antice formează nucleul acestui sit arheologic, demonstrând tehnicile agricole pre-hispanice avansate.",
+                  "category": "historical",
+                  "coords": [
+                        -71.939255,
+                        -13.516167
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO DE LARAPA",
+                  "text": "Situate în districtul Larapa, aceste ruine excavate dezvăluie modelele timpurii de așezare din valea Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.895736,
+                        -13.534263
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO ANDENES DE LARAPA NORTE",
+                  "text": "Acest sector nordic păstrează o serie de terase agricole în trepte din piatră, construite de primii locuitori andini.",
+                  "category": "historical",
+                  "coords": [
+                        -71.889774,
+                        -13.528085
+                  ]
+            },
+            {
+                  "name": "Qolqapampa",
+                  "text": "Cândva o importantă câmpie agricolă, acest sit găzduiește fundațiile de piatră ale depozitelor precolumbiene cunoscute sub numele de qolqa.",
+                  "category": "historical",
+                  "coords": [
+                        -71.937774,
+                        -13.528409
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico",
+                  "text": "Aceste ruine de piatră erodate din regiunea Cusco oferă o mărturie tăcută a abilităților arhitecturale ale vechilor săi locuitori.",
+                  "category": "historical",
+                  "coords": [
+                        -71.943382,
+                        -13.528585
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Wimpillay",
+                  "text": "Această zonă arheologică semnificativă este remarcată pentru fundațiile sale pre-incașe și descoperirile de ceramică antică Wari.",
+                  "category": "historical",
+                  "coords": [
+                        -71.952604,
+                        -13.53968
+                  ]
+            },
+            {
+                  "name": "ZONA ARQUEOLÓGICA WAYNA TAUQARAY",
+                  "text": "Situată pe pantele văii, această zonă arheologică antică prezintă rămășițe de terasare și ziduri de sprijin din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938488,
+                        -13.547477
+                  ]
+            },
+            {
+                  "name": "Kallachaka",
+                  "text": "Acest sit arheologic impresionant include rămășițele fundațiilor unui pod antic de piatră care traversa defileul local.",
+                  "category": "historical",
+                  "coords": [
+                        -71.950395,
+                        -13.512045
+                  ]
+            },
+            {
+                  "name": "Raqayraqayniyuq",
+                  "text": "Recunoscut oficial ca sit de patrimoniu cultural, acest complex arheologic păstrează elemente arhitecturale precolumbiene notabile.",
+                  "category": "historical",
+                  "coords": [
+                        -71.977635,
+                        -13.551123
+                  ]
+            },
+            {
+                  "name": "Epicentro Centro de Artes",
+                  "text": "Acest centru de arte vibrant găzduiește expoziții contemporane și ateliere creative pentru comunitatea locală cuscheană.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.908387,
+                        -13.535979
+                  ]
+            },
+            {
+                  "name": "Casa DARTE - Centro de Artes Escénicas",
+                  "text": "Dedicat artelor spectacolului, acest spațiu cultural găzduiește producții de teatru independent, dansuri și spectacole artistice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.964432,
+                        -13.522713
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Gal school",
+                  "text": "Acest spațiu de artă educațional dispune de o galerie care prezintă expoziții temporare ale lucrărilor studenților și ale talentelor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.902323,
+                        -13.525817
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Micaela Bastidas",
+                  "text": "Numit după faimoasa revoluționară peruană, acest amfiteatru în aer liber găzduiește adunări comunitare și spectacole culturale vibrante.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.908406,
+                        -13.539046
+                  ]
+            },
+            {
+                  "name": "Capilla de Tankarpata",
+                  "text": "Situată în districtul Tankarpata, această capelă modestă prezintă elemente arhitecturale tradiționale andino-coloniale.",
+                  "category": "religious",
+                  "coords": [
+                        -71.947846,
+                        -13.546151
+                  ]
+            },
+            {
+                  "name": "Seminario Arquidiocesano \"San Antonio Abad\" de Cusco",
+                  "text": "Acest vast complex istoric al seminarului pregătește clerici catolici în regiunea Cusco de secole.",
+                  "category": "religious",
+                  "coords": [
+                        -71.950308,
+                        -13.544995
+                  ]
+            },
+            {
+                  "name": "Casa de retiro -Juan Pablo II",
+                  "text": "Numită după Papa Ioan Paul al II-lea, această casă de retragere senină oferă un sanctuar spiritual liniștit, departe de orașul plin de viață.",
+                  "category": "religious",
+                  "coords": [
+                        -71.949592,
+                        -13.543871
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Mormon\"",
+                  "text": "Această biserică modernă a Sfinților din Zilele din Urmă prezintă un stil arhitectural distinctiv și funcțional și găzduiește slujbe religioase regulate pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -71.924941,
+                        -13.531975
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "Dedicată sfântului patron al metișilor, această mică capelă devine punctul focal al festivităților locale colorate din luna iulie.",
+                  "category": "religious",
+                  "coords": [
+                        -71.970302,
+                        -13.536779
+                  ]
+            },
+            {
+                  "name": "Capilla de Chocco",
+                  "text": "Situată în comunitatea Chocco, această capelă tradițională andină servește drept loc de adunare spirituală pentru rezidenții locali.",
+                  "category": "religious",
+                  "coords": [
+                        -71.978481,
+                        -13.554241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sitio arqueológico RumiWasi",
+                  "text": "An ancient Incan archaeological site featuring classic stone masonry on the outskirts of Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.940423,
+                        -13.519243
+                  ]
+            },
+            {
+                  "name": "San Sebastian",
+                  "text": "A colonial Baroque church in Cusco known for its elaborately carved stone facade.",
+                  "category": "religious",
+                  "coords": [
+                        -71.938103,
+                        -13.530028
+                  ]
+            },
+            {
+                  "name": "Muyu Urqu",
+                  "text": "A culturally significant Andean peak overlooking the historic city of Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.956311,
+                        -13.543011
+                  ]
+            },
+            {
+                  "name": "Araway Qhata",
+                  "text": "A prominent mountain summit forming part of the rugged terrain surrounding Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.969392,
+                        -13.543124
+                  ]
+            },
+            {
+                  "name": "Anahuarque",
+                  "text": "A sacred mountain peak in the Andes, steeped in local indigenous mythology near Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.955372,
+                        -13.577103
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Qencha Pata",
+                  "text": "Historic Incan ruins featuring remnant stone walls and agricultural terraces near Cusco.",
+                  "category": "historical",
+                  "coords": [
+                        -71.935726,
+                        -13.518379
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Recoleta",
+                  "text": "A 16th-century Catholic church in Cusco housing a notable collection of colonial art.",
+                  "category": "religious",
+                  "coords": [
+                        -71.96559,
+                        -13.516529
+                  ]
+            },
+            {
+                  "name": "Sitio arqueologico Sucsumarca",
+                  "text": "Pre-Columbian archaeological remains revealing ancient settlement patterns in the Cusco region.",
+                  "category": "historical",
+                  "coords": [
+                        -71.925419,
+                        -13.508777
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Patapatayoq",
+                  "text": "An ancient terraced archaeological site showcasing Incan land management techniques.",
+                  "category": "historical",
+                  "coords": [
+                        -71.913382,
+                        -13.518596
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Wayna Tawqaray",
+                  "text": "Ruins of an Incan complex set against the mountainous backdrop of the Cusco valley.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938641,
+                        -13.54465
+                  ]
+            },
+            {
+                  "name": "Sito Arqueológico Qotacalle",
+                  "text": "An urban archaeological site preserving pre-Hispanic stone foundations within the Cusco area.",
+                  "category": "historical",
+                  "coords": [
+                        -71.944071,
+                        -13.544258
+                  ]
+            },
+            {
+                  "name": "Zona Arqueologica Muyu Orqo",
+                  "text": "Ancient hilltop ruins providing strategic views over the surrounding Cusco valleys.",
+                  "category": "historical",
+                  "coords": [
+                        -71.958018,
+                        -13.542358
+                  ]
+            },
+            {
+                  "name": "Pachacuteq's mirador",
+                  "text": "A towering cylindrical stone monument topped with a bronze statue of the Incan emperor Pachacuti.",
+                  "category": "historical",
+                  "coords": [
+                        -71.968482,
+                        -13.535581
+                  ]
+            },
+            {
+                  "name": "Garcilaso (1990)",
+                  "text": "This monument, erected in 1990, commemorates the renowned Cusqueñan chronicler Inca Garcilaso de la Vega.",
+                  "category": "historical",
+                  "coords": [
+                        -71.967361,
+                        -13.521122
+                  ]
+            },
+            {
+                  "name": "Teteccaca",
+                  "text": "These ancient stone ruins offer a glimpse into the pre-Columbian history of the Cusco valley.",
+                  "category": "historical",
+                  "coords": [
+                        -71.96525,
+                        -13.514932
+                  ]
+            },
+            {
+                  "name": "Huaca Pachakutec",
+                  "text": "This sacred stone shrine is dedicated to Pachacuti, the influential emperor who expanded the Inca Empire.",
+                  "category": "historical",
+                  "coords": [
+                        -71.959946,
+                        -13.51525
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Hatun Plaza",
+                  "text": "This archaeological site protects the remains of a once-vast ceremonial plaza in the Cusco region.",
+                  "category": "historical",
+                  "coords": [
+                        -71.943979,
+                        -13.51729
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Wakapunku",
+                  "text": "Known as the \"Sacred Gate\", this archaeological site features historic stone foundations and pre-Hispanic remnants.",
+                  "category": "historical",
+                  "coords": [
+                        -71.944944,
+                        -13.520355
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Qencha Qencha",
+                  "text": "Visitors can explore the ancient terraced structures and stone retaining walls of this pre-Columbian settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938961,
+                        -13.519607
+                  ]
+            },
+            {
+                  "name": "Sitio arqueológico Kusikallanka",
+                  "text": "This archaeological area features the ruins of a traditional Kallanka, a large rectangular hall used for Inca ceremonies.",
+                  "category": "historical",
+                  "coords": [
+                        -71.937134,
+                        -13.516923
+                  ]
+            },
+            {
+                  "name": "Machu Anden Archaeological Site",
+                  "text": "Ancient agricultural terraces form the core of this archaeological site, demonstrating advanced pre-Hispanic farming techniques.",
+                  "category": "historical",
+                  "coords": [
+                        -71.939255,
+                        -13.516167
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO DE LARAPA",
+                  "text": "Situated in the Larapa district, these excavated ruins reveal early settlement patterns of the Cusco valley.",
+                  "category": "historical",
+                  "coords": [
+                        -71.895736,
+                        -13.534263
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLÓGICO ANDENES DE LARAPA NORTE",
+                  "text": "This northern sector preserves a series of stepped agricultural stone terraces built by early Andean inhabitants.",
+                  "category": "historical",
+                  "coords": [
+                        -71.889774,
+                        -13.528085
+                  ]
+            },
+            {
+                  "name": "Qolqapampa",
+                  "text": "Once an important agricultural plain, this site holds the stone foundations of pre-Columbian storehouses known as qolqas.",
+                  "category": "historical",
+                  "coords": [
+                        -71.937774,
+                        -13.528409
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico",
+                  "text": "These weathered stone ruins in the Cusco region offer silent testimony to the architectural skills of its ancient inhabitants.",
+                  "category": "historical",
+                  "coords": [
+                        -71.943382,
+                        -13.528585
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Wimpillay",
+                  "text": "This significant archaeological zone is noted for its pre-Inca foundations and discoveries of ancient Wari ceramics.",
+                  "category": "historical",
+                  "coords": [
+                        -71.952604,
+                        -13.53968
+                  ]
+            },
+            {
+                  "name": "ZONA ARQUEOLÓGICA WAYNA TAUQARAY",
+                  "text": "Set against the valley slopes, this ancient archaeological zone features remnants of terracing and stone retaining walls.",
+                  "category": "historical",
+                  "coords": [
+                        -71.938488,
+                        -13.547477
+                  ]
+            },
+            {
+                  "name": "Kallachaka",
+                  "text": "This impressive archaeological site includes the remains of ancient stone bridge foundations crossing the local gorge.",
+                  "category": "historical",
+                  "coords": [
+                        -71.950395,
+                        -13.512045
+                  ]
+            },
+            {
+                  "name": "Raqayraqayniyuq",
+                  "text": "Officially recognized as a cultural heritage site, this archaeological complex preserves notable pre-Columbian architectural elements.",
+                  "category": "historical",
+                  "coords": [
+                        -71.977635,
+                        -13.551123
+                  ]
+            },
+            {
+                  "name": "Epicentro Centro de Artes",
+                  "text": "This vibrant arts center hosts contemporary exhibitions and creative workshops for the local Cusqueñan community.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.908387,
+                        -13.535979
+                  ]
+            },
+            {
+                  "name": "Casa DARTE - Centro de Artes Escénicas",
+                  "text": "Dedicated to the performing arts, this cultural venue stages independent theater productions, dances, and local artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.964432,
+                        -13.522713
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Gal school",
+                  "text": "This educational art space features a gallery that showcases rotating exhibitions of student artwork and local talent.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.902323,
+                        -13.525817
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Micaela Bastidas",
+                  "text": "Named after the famous Peruvian revolutionary, this open-air amphitheater hosts community gatherings and vibrant cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.908406,
+                        -13.539046
+                  ]
+            },
+            {
+                  "name": "Capilla de Tankarpata",
+                  "text": "Situated in the Tankarpata district, this modest chapel features traditional Andean-colonial architectural touches.",
+                  "category": "religious",
+                  "coords": [
+                        -71.947846,
+                        -13.546151
+                  ]
+            },
+            {
+                  "name": "Seminario Arquidiocesano \"San Antonio Abad\" de Cusco",
+                  "text": "This sprawling historic seminary complex has been training Catholic clergy in the Cusco region for centuries.",
+                  "category": "religious",
+                  "coords": [
+                        -71.950308,
+                        -13.544995
+                  ]
+            },
+            {
+                  "name": "Casa de retiro -Juan Pablo II",
+                  "text": "Named after Pope John Paul II, this serene retreat house offers a quiet spiritual sanctuary away from the bustling city.",
+                  "category": "religious",
+                  "coords": [
+                        -71.949592,
+                        -13.543871
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Mormon\"",
+                  "text": "This modern Latter-day Saints church features a distinctive, functional architectural style and hosts regular community worship services.",
+                  "category": "religious",
+                  "coords": [
+                        -71.924941,
+                        -13.531975
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "Dedicated to the patron saint of the Mestizos, this small chapel becomes the focal point of colorful local festivities in July.",
+                  "category": "religious",
+                  "coords": [
+                        -71.970302,
+                        -13.536779
+                  ]
+            },
+            {
+                  "name": "Capilla de Chocco",
+                  "text": "Located in the community of Chocco, this traditional Andean chapel serves as a spiritual gathering place for local residents.",
+                  "category": "religious",
+                  "coords": [
+                        -71.978481,
+                        -13.554241
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "PE-CUS",
     coords: [-71.9674, -13.5226],
@@ -2065,7 +5881,1420 @@ export const poiExtraPeruCitiesV2: POI[] = [
       fr: ["Important port de pêche au Pérou.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/chimbote-cities-v2.webp"},
   {
-    id: "huancayo-cities-v2",
+    id: "huancayo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wari Willka",
+                  "text": "Diese denkmalgeschützte präkolumbianische Ausgrabungsstätte nahe Huancayo war das zeremonielle Hauptzentrum des Wanca-Volkes und besticht durch dicke Steinmauern.",
+                  "category": "historical",
+                  "coords": [
+                        -75.206123,
+                        -12.117598
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral de Huancayo",
+                  "text": "Diese majestätische neoklassizistische Kathedrale überragt die Plaza Constitución in Huancayo und beeindruckt mit ihren markanten Zwillingstürmen.",
+                  "category": "religious",
+                  "coords": [
+                        -75.20971,
+                        -12.067565
+                  ]
+            },
+            {
+                  "name": "Torre Torre",
+                  "text": "Diese beeindruckende geologische Formation bei Huancayo besteht aus bis zu 30 Meter hohen, turmartigen Erosionspfeilern aus Lehm und Fels.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.183825,
+                        -12.059122
+                  ]
+            },
+            {
+                  "name": "Plaza Huamanmarca",
+                  "text": "Die Plaza Huamanmarca ist ein historischer öffentlicher Platz im andinen Huancayo, wo einst die Gründung der Stadt erklärt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208323,
+                        -12.070851
+                  ]
+            },
+            {
+                  "name": "Parque de la Identidad Huanca",
+                  "text": "Der Parque de la Identidad Huanca ist ein kultureller Park, der mit Statuen lokaler Helden und Monumenten das Erbe der Huanca feiert.",
+                  "category": "park",
+                  "coords": [
+                        -75.197797,
+                        -12.049116
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Arqueología de Junín",
+                  "text": "Das regionale Archäologiemuseum von Junín präsentiert präkolumbianische Artefakte und Keramiken, die die indigene Geschichte der Region dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        -75.28807,
+                        -12.060443
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Memoria",
+                  "text": "Das Museo Casa de la Memoria in Huancayo ist eine Gedenkstätte, die sich mit der jüngeren politischen Geschichte und den sozialen Konflikten Perus auseinandersetzt.",
+                  "category": "museum",
+                  "coords": [
+                        -75.198545,
+                        -12.079448
+                  ]
+            },
+            {
+                  "name": "Castillo El Tumi",
+                  "text": "Das Castillo El Tumi ist ein markantes Denkmal, dessen Architektur von den traditionellen peruanischen Tumi-Opfermessern inspiriert ist.",
+                  "category": "historical",
+                  "coords": [
+                        -75.224137,
+                        -12.062761
+                  ]
+            },
+            {
+                  "name": "Florero ornamental",
+                  "text": "Der Florero ornamental ist ein skulpturales Denkmal in Form einer reich verzierten Vase, das als dekorativer Blickfang im städtischen Raum dient.",
+                  "category": "historical",
+                  "coords": [
+                        -75.219126,
+                        -12.066636
+                  ]
+            },
+            {
+                  "name": "Instituto Biblico de Huamanmarca",
+                  "text": "Das Instituto Biblico de Huamanmarca dient als theologische Ausbildungsstätte und lokales Zentrum für christliche Gottesdienste in Huancayo.",
+                  "category": "religious",
+                  "coords": [
+                        -75.217902,
+                        -12.119205
+                  ]
+            },
+            {
+                  "name": "Capilla de Palián",
+                  "text": "Die Capilla de Palián ist eine kleine, traditionell andine Kapelle, die den Bewohnern des Viertels Palián als spiritueller Rückzugsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        -75.192189,
+                        -12.038478
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de la Merced",
+                  "text": "Die Gruta Virgen de la Merced ist ein felsiger Gebetsschrein in Huancayo, an dem Gläubige der Jungfrau der Barmherzigkeit Kerzen und Votivgaben darbringen.",
+                  "category": "religious",
+                  "coords": [
+                        -75.19258,
+                        -12.049521
+                  ]
+            },
+            {
+                  "name": "Capilla Colegio Andino",
+                  "text": "Die Capilla Colegio Andino ist die schuleigene Kirche der Bildungseinrichtung, die von Schülern und Lehrern für Andachten und Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -75.206173,
+                        -12.064178
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Virgen de la Candelaria",
+                  "text": "Das Centro Comercial Virgen de la Candelaria ist ein lebhaftes Einkaufszentrum in Huancayo, in dem Händler regionale Textilien und andines Kunsthandwerk feilbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.205963,
+                        -12.069394
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Nazaret",
+                  "text": "Das Centro Comercial Nazaret beherbergt zahlreiche kleine Stände, die eine große Auswahl an Alltagswaren, Kleidung und lokalen Produkten anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.204529,
+                        -12.070024
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Huancayo",
+                  "text": "Der Mercado Modelo Huancayo ist der zentrale Marktplatz der Stadt, bekannt für seine riesige Auswahl an frischen andinen Agrarprodukten und lokalen Spezialitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.205238,
+                        -12.071816
+                  ]
+            },
+            {
+                  "name": "La Moderna de Chilca",
+                  "text": "Der Markt La Moderna im Bezirk Chilca ist ein wichtiger lokaler Umschlagplatz für frisches Gemüse, Fleisch und Haushaltswaren aus der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.203227,
+                        -12.080809
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo de Chupaca",
+                  "text": "Der Mercado Modelo de Chupaca ist ein traditioneller Markt in der Nachbarprovinz, auf dem Bauern aus dem Mantaro-Tal jeden Samstag ihre Ernte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.288593,
+                        -12.062814
+                  ]
+            },
+            {
+                  "name": "Mercado La Florida",
+                  "text": "Der Mercado La Florida ist ein Nachbarschaftsmarkt in Huancayo, der die Anwohner täglich mit frischen Lebensmitteln und regionalen Köstlichkeiten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.22599,
+                        -12.066047
+                  ]
+            },
+            {
+                  "name": "Mercado Pío Pata",
+                  "text": "Der überdachte Markt Pío Pata bietet ein geschäftiges Treiben, bei dem Einheimische Fleisch, frisches Obst und traditionell peruanische Gewürze einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.226508,
+                        -12.064092
+                  ]
+            },
+            {
+                  "name": "Mercado Jorge Chávez",
+                  "text": "Der Mercado Jorge Chávez ist ein belebter Marktkomplex, der für seine zahlreichen Saftstände und preiswerten Mittagstische mit lokaler Hausmannskost geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.224513,
+                        -12.053534
+                  ]
+            },
+            {
+                  "name": "Año Nuevo",
+                  "text": "Der Marktbereich Año Nuevo zeichnet sich durch saisonale Händler aus, die eine bunte Mischung aus Kleidung, andinen Stoffen und lokalen Handwerksprodukten anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.212407,
+                        -12.049959
+                  ]
+            },
+            {
+                  "name": "hacienda Vargas",
+                  "text": "Die Hacienda Vargas ist ein historisches Landgut, das mit seiner erhaltenen Kolonialarchitektur Einblicke in die landwirtschaftliche Vergangenheit des Tals bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.203765,
+                        -12.046617
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "Die historische Dampflokomotive in Huancayo ist ein eisernes Freiluftdenkmal, das an den Bau der berühmten Andenbahn Ferrocarril Central Andino erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.206028,
+                        -12.067096
+                  ]
+            },
+            {
+                  "name": "Zoologico de Huancayo",
+                  "text": "Der städtische Zoo von Huancayo beherbergt auf einem Hügelgelände vor allem einheimische Tierarten der Anden und des Amazonasgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.196929,
+                        -12.061804
+                  ]
+            },
+            {
+                  "name": "Zoológico cerrito de la libertad",
+                  "text": "Der kleine Zoo am Cerrito de la Libertad bietet neben seinen Tiergehegen auch einen malerischen Panoramablick über das gesamte Stadtgebiet von Huancayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.19559,
+                        -12.061712
+                  ]
+            },
+            {
+                  "name": "Puente D. A. Carrión",
+                  "text": "Die Puente D. A. Carrión ist eine markante Eisenbahnbrücke über den Fluss Mantaro, benannt nach dem peruanischen Medizinhelden Daniel Alcides Carrión.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.220211,
+                        -12.070787
+                  ]
+            },
+            {
+                  "name": "Motocrossl la union",
+                  "text": "Motocross La Union ist eine staubige Offroad-Rennstrecke vor den Toren Huancayos, auf der an Wochenenden lokale Motorsportwettbewerbe ausgetragen werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.232688,
+                        -12.00297
+                  ]
+            },
+            {
+                  "name": "Mirador Huama Huata",
+                  "text": "Der Mirador Huama Huata ist ein erhöhter Aussichtspunkt in den Bergen, der eine weite Sicht über die landwirtschaftlich genutzten Terrassen des Mantaro-Tals bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.248234,
+                        -12.111816
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista El Alfarero",
+                  "text": "Die Iglesia Bautista El Alfarero ist eine moderne baptistische Gemeinde, die regelmäßige christliche Gottesdienste und Bibelkreise in Huancayo veranstaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.195083,
+                        -12.047123
+                  ]
+            },
+            {
+                  "name": "Dios Es Amor",
+                  "text": "Die christliche Einrichtung Dios Es Amor in Huancayo bietet Gläubigen einen Versammlungsort für gemeinschaftliche Gebete und seelsorgerische Betreuung.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208374,
+                        -12.062639
+                  ]
+            },
+            {
+                  "name": "IEP Bethel",
+                  "text": "Die Kirche der evangelischen Gemeinde Bethel ist ein lokales christliches Zentrum, das sich auf religiöse Unterweisung und Jugendarbeit konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.20692,
+                        -12.073081
+                  ]
+            },
+            {
+                  "name": "IEP Calle Arequipa",
+                  "text": "Die Iglesia Evangélica Peruana an der Calle Arequipa ist ein schlichtes Gotteshaus, in dem sich die lokale protestantische Gemeinde versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208604,
+                        -12.073293
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "Die lokale Iglesia Evangelica Pentecostal zeichnet sich durch lebhafte, von Musik begleitete pfingstlerische Gottesdienste aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.205896,
+                        -12.075611
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana Huayucachi",
+                  "text": "In der ländlichen Umgebung von Huayucachi dient diese peruanisch-evangelikale Kirche als spiritueller Mittelpunkt für die protestantischen Familien der Landwirtschaftsgemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.222179,
+                        -12.133257
+                  ]
+            },
+            {
+                  "name": "Virgen de Lurdes",
+                  "text": "Die christliche Andachtsstätte Virgen de Lurdes ehrt die Muttergottes mit einer Nachbildung der berühmten Mariengrotte, vor der die Gläubigen beten.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.288758,
+                        -12.059259
+                  ]
+            },
+            {
+                  "name": "Iglesia De 3 De Diciembre",
+                  "text": "Die Kirche im Distrikt 3 de Diciembre ist ein christlicher Versammlungsort, dessen Name an das historische Gründungsdatum der Gemeinde erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.245995,
+                        -12.109796
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana Cajas Chico",
+                  "text": "In der Nachbarschaft Cajas Chico bietet diese evangelikale Kirche regelmäßige Gottesdienste und Gemeindeunterstützung für die Bewohner des Viertels an.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.227709,
+                        -12.080057
+                  ]
+            },
+            {
+                  "name": "Iglesia Innovada Virgen de Cocharcas",
+                  "text": "Diese Kirche ist der in den Anden tief verehrten Virgen de Cocharcas geweiht und verbindet katholische Traditionen mit synkretistischen andinen Elementen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.215786,
+                        -12.071749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wari Willka",
+                  "text": "Ez a Huancayo közelében található, műemlékvédelem alatt álló prekolumbián régészeti lelőhely a Wanca nép fő ceremoniális központja volt, és vastag kőfalaival nyűgöz le.",
+                  "category": "historical",
+                  "coords": [
+                        -75.206123,
+                        -12.117598
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral de Huancayo",
+                  "text": "Ez a fenséges neoklasszikus katedrális a huancayói Plaza Constitución téren magasodik, és lenyűgöző ikertornyaival vonzza a tekinteteket.",
+                  "category": "religious",
+                  "coords": [
+                        -75.20971,
+                        -12.067565
+                  ]
+            },
+            {
+                  "name": "Torre Torre",
+                  "text": "Ez a lenyűgöző geológiai képződmény Huancayo közelében akár 30 méter magas, agyagból és sziklából álló, toronyszerű eróziós oszlopokból áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.183825,
+                        -12.059122
+                  ]
+            },
+            {
+                  "name": "Plaza Huamanmarca",
+                  "text": "A Plaza Huamanmarca egy történelmi köztér az andoki Huancayo városában, ahol egykor a város alapítását kikiáltották.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208323,
+                        -12.070851
+                  ]
+            },
+            {
+                  "name": "Parque de la Identidad Huanca",
+                  "text": "A Parque de la Identidad Huanca egy kulturális park, amely helyi hősök szobraival és emlékművekkel ünnepli a huanca örökséget.",
+                  "category": "park",
+                  "coords": [
+                        -75.197797,
+                        -12.049116
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Arqueología de Junín",
+                  "text": "A Junín Regionális Régészeti Múzeum prekolumbiánus leleteket és kerámiákat mutat be, dokumentálva a régió őslakos történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        -75.28807,
+                        -12.060443
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Memoria",
+                  "text": "A huancayói Museo Casa de la Memoria egy emlékhely, amely Peru közelmúltbeli politikai történelmével és társadalmi konfliktusaival foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -75.198545,
+                        -12.079448
+                  ]
+            },
+            {
+                  "name": "Castillo El Tumi",
+                  "text": "A Castillo El Tumi egy jellegzetes emlékmű, amelynek építészetét a hagyományos perui Tumi áldozati kések ihlették.",
+                  "category": "historical",
+                  "coords": [
+                        -75.224137,
+                        -12.062761
+                  ]
+            },
+            {
+                  "name": "Florero ornamental",
+                  "text": "A Florero ornamental egy gazdagon díszített vázát formázó szobrászati emlékmű, amely dekoratív színfoltja a városi térnek.",
+                  "category": "historical",
+                  "coords": [
+                        -75.219126,
+                        -12.066636
+                  ]
+            },
+            {
+                  "name": "Instituto Biblico de Huamanmarca",
+                  "text": "Az Instituto Biblico de Huamanmarca teológiai oktatóközpontként és a keresztény istentiszteletek helyi helyszíneként szolgál Huancayóban.",
+                  "category": "religious",
+                  "coords": [
+                        -75.217902,
+                        -12.119205
+                  ]
+            },
+            {
+                  "name": "Capilla de Palián",
+                  "text": "A Capilla de Palián egy kis, hagyományos andoki kápolna, amely a paliáni negyed lakóinak nyújt spirituális menedéket.",
+                  "category": "religious",
+                  "coords": [
+                        -75.192189,
+                        -12.038478
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de la Merced",
+                  "text": "A Gruta Virgen de la Merced egy sziklás imaház Huancayóban, ahol a hívők gyertyákat és fogadalmi ajándékokat ajánlanak fel az Irgalmasság Szűzének.",
+                  "category": "religious",
+                  "coords": [
+                        -75.19258,
+                        -12.049521
+                  ]
+            },
+            {
+                  "name": "Capilla Colegio Andino",
+                  "text": "A Capilla Colegio Andino az oktatási intézmény saját temploma, amelyet diákok és tanárok használnak áhítatokra és istentiszteletekre.",
+                  "category": "religious",
+                  "coords": [
+                        -75.206173,
+                        -12.064178
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Virgen de la Candelaria",
+                  "text": "A Centro Comercial Virgen de la Candelaria egy forgalmas huancayói bevásárlóközpont, ahol az árusok regionális textíliákat és andoki kézműves termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.205963,
+                        -12.069394
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Nazaret",
+                  "text": "A Centro Comercial Nazaret számos kis standnak ad otthont, amelyek mindennapi cikkek, ruházati termékek és helyi áruk széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.204529,
+                        -12.070024
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Huancayo",
+                  "text": "A Mercado Modelo Huancayo a város központi piaca, amely friss andoki mezőgazdasági termékek és helyi specialitások hatalmas választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.205238,
+                        -12.071816
+                  ]
+            },
+            {
+                  "name": "La Moderna de Chilca",
+                  "text": "A chilcai körzetben található La Moderna piac a friss zöldségek, húsok és régiós háztartási cikkek fontos helyi kereskedelmi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.203227,
+                        -12.080809
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo de Chupaca",
+                  "text": "A Mercado Modelo de Chupaca egy hagyományos piac a szomszédos tartományban, ahol a Mantaro-völgy gazdái minden szombaton árulják terményeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.288593,
+                        -12.062814
+                  ]
+            },
+            {
+                  "name": "Mercado La Florida",
+                  "text": "A Mercado La Florida egy huancayói szomszédsági piac, amely naponta friss élelmiszerekkel és regionális finomságokkal látja el a lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.22599,
+                        -12.066047
+                  ]
+            },
+            {
+                  "name": "Mercado Pío Pata",
+                  "text": "A fedett Pío Pata piacon nyüzsgő élet folyik, a helyiek itt vásárolják a húst, a friss gyümölcsöt és a hagyományos perui fűszereket.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.226508,
+                        -12.064092
+                  ]
+            },
+            {
+                  "name": "Mercado Jorge Chávez",
+                  "text": "A Mercado Jorge Chávez egy forgalmas piackomplexum, amelyet számos gyümölcsleves standja és a helyi házias ételeket kínáló olcsó ebédlőasztalai miatt kedvelnek.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.224513,
+                        -12.053534
+                  ]
+            },
+            {
+                  "name": "Año Nuevo",
+                  "text": "Az Año Nuevo piactéren szezonális árusok kínálják a ruházati cikkek, andoki szövetek és helyi kézműves termékek színes keverékét.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.212407,
+                        -12.049959
+                  ]
+            },
+            {
+                  "name": "hacienda Vargas",
+                  "text": "A Hacienda Vargas egy történelmi vidéki birtok, amely megőrzött gyarmati építészetével bepillantást enged a völgy mezőgazdasági múltjába.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.203765,
+                        -12.046617
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "A huancayói történelmi gőzmozdony egy szabadtéri vasemlék, amely a híres andoki vasút, a Ferrocarril Central Andino építésének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.206028,
+                        -12.067096
+                  ]
+            },
+            {
+                  "name": "Zoologico de Huancayo",
+                  "text": "A dombtetőn fekvő huancayói állatkert elsősorban az Andok és az Amazonas-medence őshonos állatfajainak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.196929,
+                        -12.061804
+                  ]
+            },
+            {
+                  "name": "Zoológico cerrito de la libertad",
+                  "text": "A Cerrito de la Libertadnál található kis állatkert állatkifutói mellett festői panorámát is nyújt Huancayo egész városára.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.19559,
+                        -12.061712
+                  ]
+            },
+            {
+                  "name": "Puente D. A. Carrión",
+                  "text": "A Puente D. A. Carrión egy feltűnő vasúti híd a Mantaro folyó felett, amelyet Daniel Alcides Carrión perui orvos hősről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.220211,
+                        -12.070787
+                  ]
+            },
+            {
+                  "name": "Motocrossl la union",
+                  "text": "A Motocross La Union egy poros tereppálya Huancayo kapujában, ahol hétvégente helyi motorsport-versenyeket rendeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.232688,
+                        -12.00297
+                  ]
+            },
+            {
+                  "name": "Mirador Huama Huata",
+                  "text": "A Mirador Huama Huata egy magaslati kilátó a hegyekben, ahonnan széles kilátás nyílik a Mantaro-völgy mezőgazdasági teraszaira.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.248234,
+                        -12.111816
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista El Alfarero",
+                  "text": "Az Iglesia Bautista El Alfarero egy modern baptista gyülekezet, amely rendszeres keresztény istentiszteleteket és bibliaórákat tart Huancayóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.195083,
+                        -12.047123
+                  ]
+            },
+            {
+                  "name": "Dios Es Amor",
+                  "text": "A huancayói Dios Es Amor keresztény intézmény gyülekezeti helyet biztosít a hívők számára a közös imákhoz és a lelkipásztori gondozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208374,
+                        -12.062639
+                  ]
+            },
+            {
+                  "name": "IEP Bethel",
+                  "text": "A Bethel evangéliumi gyülekezet temploma egy helyi keresztény központ, amely a vallásoktatásra és az ifjúsági munkára összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.20692,
+                        -12.073081
+                  ]
+            },
+            {
+                  "name": "IEP Calle Arequipa",
+                  "text": "A Calle Arequipa utcai Iglesia Evangélica Peruana egy egyszerű imaház, ahol a helyi protestáns közösség gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208604,
+                        -12.073293
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "A helyi Iglesia Evangelica Pentecostal gyülekezetet élénk, zenével kísért pünkösdi istentiszteletek jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.205896,
+                        -12.075611
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana Huayucachi",
+                  "text": "Huayucachi vidéki környezetében ez a perui evangéliumi templom spirituális központként szolgál a mezőgazdasági közösség protestáns családjai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.222179,
+                        -12.133257
+                  ]
+            },
+            {
+                  "name": "Virgen de Lurdes",
+                  "text": "A Virgen de Lurdes keresztény emlékhely a híres Mária-barlang másolatával tiszteleg az Istenanya előtt, amely előtt a hívők imádkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.288758,
+                        -12.059259
+                  ]
+            },
+            {
+                  "name": "Iglesia De 3 De Diciembre",
+                  "text": "A 3 de Diciembre körzetben található templom egy keresztény gyülekezeti hely, amelynek neve a közösség alapításának történelmi dátumára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.245995,
+                        -12.109796
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana Cajas Chico",
+                  "text": "A Cajas Chico negyedben ez az evangéliumi templom rendszeres istentiszteleteket és közösségi támogatást nyújt a környék lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.227709,
+                        -12.080057
+                  ]
+            },
+            {
+                  "name": "Iglesia Innovada Virgen de Cocharcas",
+                  "text": "Ezt a templomot az Andokban mélyen tisztelt Virgen de Cocharcasnak szentelték, és a katolikus hagyományokat szinkretikus andoki elemekkel ötvözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.215786,
+                        -12.071749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wari Willka",
+                  "text": "Acest sit arheologic precolumbian de patrimoniu de lângă Huancayo a fost principalul centru ceremonial al poporului Wanca și impresionează prin zidurile sale groase de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -75.206123,
+                        -12.117598
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral de Huancayo",
+                  "text": "Această maiestuoasă catedrală neoclasică domină Plaza Constitución din Huancayo și impresionează prin turnurile sale gemene izbitoare.",
+                  "category": "religious",
+                  "coords": [
+                        -75.20971,
+                        -12.067565
+                  ]
+            },
+            {
+                  "name": "Torre Torre",
+                  "text": "Această impresionantă formațiune geologică de lângă Huancayo este formată din stâlpi de eroziune din lut și rocă, asemănători unor turnuri, înalți de până la 30 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.183825,
+                        -12.059122
+                  ]
+            },
+            {
+                  "name": "Plaza Huamanmarca",
+                  "text": "Plaza Huamanmarca este o piață publică istorică din orașul andin Huancayo, cunoscută drept locul unde a fost declarată fondarea orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208323,
+                        -12.070851
+                  ]
+            },
+            {
+                  "name": "Parque de la Identidad Huanca",
+                  "text": "Parque de la Identidad Huanca este un parc cultural care celebrează moștenirea Huanca prin statui ale eroilor locali și monumente specifice.",
+                  "category": "park",
+                  "coords": [
+                        -75.197797,
+                        -12.049116
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Arqueología de Junín",
+                  "text": "Muzeul Regional de Arheologie din Junín expune artefacte precolumbiene și ceramică care documentează istoria indigenă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -75.28807,
+                        -12.060443
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Memoria",
+                  "text": "Museo Casa de la Memoria din Huancayo este un muzeu memorial dedicat istoriei politice recente și conflictelor sociale din Peru.",
+                  "category": "museum",
+                  "coords": [
+                        -75.198545,
+                        -12.079448
+                  ]
+            },
+            {
+                  "name": "Castillo El Tumi",
+                  "text": "Castillo El Tumi este un monument distinctiv a cărui arhitectură este inspirată de cuțitele ceremoniale tradiționale peruane Tumi.",
+                  "category": "historical",
+                  "coords": [
+                        -75.224137,
+                        -12.062761
+                  ]
+            },
+            {
+                  "name": "Florero ornamental",
+                  "text": "Florero ornamental este un monument sculptural sub forma unei vaze bogat decorate, servind ca punct de atracție vizuală în spațiul urban.",
+                  "category": "historical",
+                  "coords": [
+                        -75.219126,
+                        -12.066636
+                  ]
+            },
+            {
+                  "name": "Instituto Biblico de Huamanmarca",
+                  "text": "Instituto Biblico de Huamanmarca servește ca centru de educație teologică și loc local de rugăciune creștină în Huancayo.",
+                  "category": "religious",
+                  "coords": [
+                        -75.217902,
+                        -12.119205
+                  ]
+            },
+            {
+                  "name": "Capilla de Palián",
+                  "text": "Capilla de Palián este o mică capelă tradițională andină care oferă un refugiu spiritual locuitorilor din cartierul Palián.",
+                  "category": "religious",
+                  "coords": [
+                        -75.192189,
+                        -12.038478
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de la Merced",
+                  "text": "Gruta Virgen de la Merced este un altar stâncos din Huancayo, unde credincioșii aduc lumânări și ofrande Fecioarei Îndurării.",
+                  "category": "religious",
+                  "coords": [
+                        -75.19258,
+                        -12.049521
+                  ]
+            },
+            {
+                  "name": "Capilla Colegio Andino",
+                  "text": "Capilla Colegio Andino este biserica instituției de învățământ, folosită de elevi și profesori pentru slujbe și momente de reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        -75.206173,
+                        -12.064178
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Virgen de la Candelaria",
+                  "text": "Centro Comercial Virgen de la Candelaria este un centru comercial plin de viață din Huancayo, unde comercianții vând textile regionale și obiecte de artizanat andin.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.205963,
+                        -12.069394
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Nazaret",
+                  "text": "Centro Comercial Nazaret găzduiește numeroase tarabe mici care oferă o gamă largă de bunuri de uz cotidian, îmbrăcăminte și produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.204529,
+                        -12.070024
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Huancayo",
+                  "text": "Mercado Modelo Huancayo este piața centrală a orașului, renumită pentru selecția sa vastă de produse agricole andine proaspete și specialități locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.205238,
+                        -12.071816
+                  ]
+            },
+            {
+                  "name": "La Moderna de Chilca",
+                  "text": "Piața La Moderna din cartierul Chilca este un important punct de desfacere local pentru legume proaspete, carne și articole de uz casnic din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.203227,
+                        -12.080809
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo de Chupaca",
+                  "text": "Mercado Modelo de Chupaca este o piață tradițională din provincia învecinată, unde fermierii din Valea Mantaro își vând recoltele în fiecare sâmbătă.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.288593,
+                        -12.062814
+                  ]
+            },
+            {
+                  "name": "Mercado La Florida",
+                  "text": "Mercado La Florida este o piață de cartier din Huancayo care aprovizionează zilnic locuitorii cu alimente proaspete și delicatese regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.22599,
+                        -12.066047
+                  ]
+            },
+            {
+                  "name": "Mercado Pío Pata",
+                  "text": "Piața acoperită Pío Pata este un loc aglomerat unde localnicii cumpără carne, fructe proaspete și condimente tradiționale peruane.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.226508,
+                        -12.064092
+                  ]
+            },
+            {
+                  "name": "Mercado Jorge Chávez",
+                  "text": "Mercado Jorge Chávez este un complex de piață aglomerat, apreciat pentru numeroasele sale standuri de sucuri și prânzurile ieftine cu mâncare de casă locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.224513,
+                        -12.053534
+                  ]
+            },
+            {
+                  "name": "Año Nuevo",
+                  "text": "Zona de piață Año Nuevo se distinge prin comercianți sezonieri care oferă un amestec colorat de îmbrăcăminte, țesături andine și produse artizanale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.212407,
+                        -12.049959
+                  ]
+            },
+            {
+                  "name": "hacienda Vargas",
+                  "text": "Hacienda Vargas este o proprietate rurală istorică care, prin arhitectura sa colonială conservată, oferă o perspectivă asupra trecutului agricol al văii.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.203765,
+                        -12.046617
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "Locomotiva istorică cu aburi din Huancayo este un monument de fier în aer liber care comemorează construcția faimoasei căi ferate andine Ferrocarril Central Andino.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.206028,
+                        -12.067096
+                  ]
+            },
+            {
+                  "name": "Zoologico de Huancayo",
+                  "text": "Grădina zoologică municipală din Huancayo, situată pe un deal, găzduiește în principal specii de animale native din Anzi și din bazinul Amazonului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.196929,
+                        -12.061804
+                  ]
+            },
+            {
+                  "name": "Zoológico cerrito de la libertad",
+                  "text": "Mica grădină zoologică de la Cerrito de la Libertad oferă, pe lângă incintele animalelor, o vedere panoramică pitorească asupra întregului oraș Huancayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.19559,
+                        -12.061712
+                  ]
+            },
+            {
+                  "name": "Puente D. A. Carrión",
+                  "text": "Puente D. A. Carrión este un pod feroviar impresionant peste râul Mantaro, numit după eroul medicinei peruane Daniel Alcides Carrión.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.220211,
+                        -12.070787
+                  ]
+            },
+            {
+                  "name": "Motocrossl la union",
+                  "text": "Motocross La Union este un circuit de off-road prăfuit de la periferia orașului Huancayo, unde în weekenduri se desfășoară competiții locale de sporturi cu motor.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.232688,
+                        -12.00297
+                  ]
+            },
+            {
+                  "name": "Mirador Huama Huata",
+                  "text": "Mirador Huama Huata este un punct de belvedere la altitudine care oferă o panoramă vastă asupra teraselor agricole din Valea Mantaro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.248234,
+                        -12.111816
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista El Alfarero",
+                  "text": "Iglesia Bautista El Alfarero este o comunitate baptistă modernă care organizează slujbe creștine regulate și studii biblice în Huancayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.195083,
+                        -12.047123
+                  ]
+            },
+            {
+                  "name": "Dios Es Amor",
+                  "text": "Lăcașul creștin Dios Es Amor din Huancayo oferă credincioșilor un loc de adunare pentru rugăciuni comunitare și asistență spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208374,
+                        -12.062639
+                  ]
+            },
+            {
+                  "name": "IEP Bethel",
+                  "text": "Biserica comunității evanghelice Bethel este un centru creștin local care se concentrează pe educația religioasă și activitățile pentru tineret.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.20692,
+                        -12.073081
+                  ]
+            },
+            {
+                  "name": "IEP Calle Arequipa",
+                  "text": "Iglesia Evangélica Peruana de pe Calle Arequipa este un lăcaș de cult simplu unde se adună comunitatea protestantă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208604,
+                        -12.073293
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "Biserica locală Iglesia Evangelica Pentecostal se remarcă prin slujbe penticostale pline de viață, acompaniate de muzică.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.205896,
+                        -12.075611
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana Huayucachi",
+                  "text": "În peisajul rural din Huayucachi, această biserică evanghelică peruană servește ca centru spiritual pentru familiile protestante din comunitatea agricolă.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.222179,
+                        -12.133257
+                  ]
+            },
+            {
+                  "name": "Virgen de Lurdes",
+                  "text": "Altarul creștin Virgen de Lurdes o onorează pe Maica Domnului cu o replică a faimoasei grote mariane, în fața căreia credincioșii se roagă.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.288758,
+                        -12.059259
+                  ]
+            },
+            {
+                  "name": "Iglesia De 3 De Diciembre",
+                  "text": "Biserica din districtul 3 de Diciembre este un loc de adunare creștin al cărui nume amintește de data istorică de înființare a comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.245995,
+                        -12.109796
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana Cajas Chico",
+                  "text": "În cartierul Cajas Chico, această biserică evanghelică oferă slujbe regulate și sprijin comunitar locuitorilor zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.227709,
+                        -12.080057
+                  ]
+            },
+            {
+                  "name": "Iglesia Innovada Virgen de Cocharcas",
+                  "text": "Această biserică este dedicată Fecioarei de Cocharcas, profund venerată în Anzi, îmbinând tradițiile catolice cu elemente sincretice andine.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.215786,
+                        -12.071749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wari Willka",
+                  "text": "This heritage-listed pre-Columbian archaeological site near Huancayo was the main ceremonial center of the Wanca people and features thick stone walls.",
+                  "category": "historical",
+                  "coords": [
+                        -75.206123,
+                        -12.117598
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral de Huancayo",
+                  "text": "This majestic neoclassical cathedral overlooks the Plaza Constitución in Huancayo and impresses with its striking twin towers.",
+                  "category": "religious",
+                  "coords": [
+                        -75.20971,
+                        -12.067565
+                  ]
+            },
+            {
+                  "name": "Torre Torre",
+                  "text": "This impressive geological formation near Huancayo consists of tower-like erosion pillars made of clay and rock, reaching up to 30 meters in height.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.183825,
+                        -12.059122
+                  ]
+            },
+            {
+                  "name": "Plaza Huamanmarca",
+                  "text": "Plaza Huamanmarca is a historic public square in the Andean city of Huancayo, notable as the site where the city's foundation was originally declared.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208323,
+                        -12.070851
+                  ]
+            },
+            {
+                  "name": "Parque de la Identidad Huanca",
+                  "text": "Parque de la Identidad Huanca is a cultural park showcasing statues of local historical figures and monuments that celebrate the region's indigenous Huanca heritage.",
+                  "category": "park",
+                  "coords": [
+                        -75.197797,
+                        -12.049116
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Arqueología de Junín",
+                  "text": "The Regional Museum of Archaeology of Junín exhibits pre-Columbian artifacts and ceramics that document the indigenous history of the area.",
+                  "category": "museum",
+                  "coords": [
+                        -75.28807,
+                        -12.060443
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Memoria",
+                  "text": "The Museo Casa de la Memoria in Huancayo is a memorial museum dedicated to documenting the recent political history and social conflicts of Peru.",
+                  "category": "museum",
+                  "coords": [
+                        -75.198545,
+                        -12.079448
+                  ]
+            },
+            {
+                  "name": "Castillo El Tumi",
+                  "text": "Castillo El Tumi is a striking monument featuring architectural elements inspired by the traditional Peruvian Tumi ceremonial knives.",
+                  "category": "historical",
+                  "coords": [
+                        -75.224137,
+                        -12.062761
+                  ]
+            },
+            {
+                  "name": "Florero ornamental",
+                  "text": "The Florero ornamental is a sculptural monument in the shape of an ornate vase, serving as a decorative landmark in the urban space.",
+                  "category": "historical",
+                  "coords": [
+                        -75.219126,
+                        -12.066636
+                  ]
+            },
+            {
+                  "name": "Instituto Biblico de Huamanmarca",
+                  "text": "The Instituto Biblico de Huamanmarca serves as both a theological training center and a local venue for Christian worship in Huancayo.",
+                  "category": "religious",
+                  "coords": [
+                        -75.217902,
+                        -12.119205
+                  ]
+            },
+            {
+                  "name": "Capilla de Palián",
+                  "text": "The Capilla de Palián is a small, traditional Andean chapel providing a spiritual retreat for the residents of the Palián neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -75.192189,
+                        -12.038478
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de la Merced",
+                  "text": "The Gruta Virgen de la Merced is a rocky prayer shrine in Huancayo where devotees offer candles and votives to the Virgin of Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        -75.19258,
+                        -12.049521
+                  ]
+            },
+            {
+                  "name": "Capilla Colegio Andino",
+                  "text": "The Capilla Colegio Andino is the educational institution's own church, utilized by students and teachers for devotions and religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -75.206173,
+                        -12.064178
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Virgen de la Candelaria",
+                  "text": "The Centro Comercial Virgen de la Candelaria is a bustling shopping center in Huancayo where vendors sell regional textiles and Andean handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.205963,
+                        -12.069394
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Nazaret",
+                  "text": "The Centro Comercial Nazaret features numerous small stalls offering a wide variety of everyday goods, clothing, and local products.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.204529,
+                        -12.070024
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Huancayo",
+                  "text": "The Mercado Modelo Huancayo is the city's central traditional market, renowned for its massive selection of fresh Andean agricultural produce and local specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.205238,
+                        -12.071816
+                  ]
+            },
+            {
+                  "name": "La Moderna de Chilca",
+                  "text": "The La Moderna market in the Chilca district is a vital local trading hub for fresh vegetables, meats, and regional household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.203227,
+                        -12.080809
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo de Chupaca",
+                  "text": "The Mercado Modelo de Chupaca is a traditional market in the neighboring province where farmers from the Mantaro Valley gather to sell their harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.288593,
+                        -12.062814
+                  ]
+            },
+            {
+                  "name": "Mercado La Florida",
+                  "text": "The Mercado La Florida is a neighborhood market in Huancayo that supplies local residents with fresh daily groceries and regional delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.22599,
+                        -12.066047
+                  ]
+            },
+            {
+                  "name": "Mercado Pío Pata",
+                  "text": "The indoor Pío Pata market features a bustling atmosphere where locals shop for meats, fresh fruits, and traditional Peruvian spices.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.226508,
+                        -12.064092
+                  ]
+            },
+            {
+                  "name": "Mercado Jorge Chávez",
+                  "text": "The Mercado Jorge Chávez is a busy market complex appreciated for its numerous juice stands and affordable lunches featuring home-style local cooking.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.224513,
+                        -12.053534
+                  ]
+            },
+            {
+                  "name": "Año Nuevo",
+                  "text": "The Año Nuevo market area features seasonal vendors offering a colorful mix of clothing, Andean fabrics, and locally crafted goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.212407,
+                        -12.049959
+                  ]
+            },
+            {
+                  "name": "hacienda Vargas",
+                  "text": "Hacienda Vargas is a historic rural estate featuring preserved colonial architecture that provides insights into the valley's agricultural past.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.203765,
+                        -12.046617
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "The historic steam locomotive in Huancayo is an open-air iron monument commemorating the construction of the famous Ferrocarril Central Andino railway.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.206028,
+                        -12.067096
+                  ]
+            },
+            {
+                  "name": "Zoologico de Huancayo",
+                  "text": "The municipal zoo of Huancayo, situated on a hillside, primarily houses native animal species from the Andes and the Amazon basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.196929,
+                        -12.061804
+                  ]
+            },
+            {
+                  "name": "Zoológico cerrito de la libertad",
+                  "text": "The small zoo at Cerrito de la Libertad offers not only animal enclosures but also a picturesque panoramic view across the entire city of Huancayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.19559,
+                        -12.061712
+                  ]
+            },
+            {
+                  "name": "Puente D. A. Carrión",
+                  "text": "The Puente D. A. Carrión is a striking railway bridge spanning the Mantaro River, named in honor of the Peruvian medical hero Daniel Alcides Carrión.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.220211,
+                        -12.070787
+                  ]
+            },
+            {
+                  "name": "Motocrossl la union",
+                  "text": "Motocross La Union is a dusty off-road dirt track on the outskirts of Huancayo that hosts local motorsport competitions on weekends.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.232688,
+                        -12.00297
+                  ]
+            },
+            {
+                  "name": "Mirador Huama Huata",
+                  "text": "The Mirador Huama Huata is an elevated mountain viewpoint offering sweeping vistas over the agricultural terraces of the Mantaro Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.248234,
+                        -12.111816
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista El Alfarero",
+                  "text": "The Iglesia Bautista El Alfarero is a modern Baptist congregation hosting regular Christian worship services and Bible study groups in Huancayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.195083,
+                        -12.047123
+                  ]
+            },
+            {
+                  "name": "Dios Es Amor",
+                  "text": "The Dios Es Amor Christian facility in Huancayo provides a gathering place for communal prayers and pastoral care for local believers.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208374,
+                        -12.062639
+                  ]
+            },
+            {
+                  "name": "IEP Bethel",
+                  "text": "The Bethel evangelical church is a local Christian center that focuses on religious instruction and youth community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.20692,
+                        -12.073081
+                  ]
+            },
+            {
+                  "name": "IEP Calle Arequipa",
+                  "text": "The Iglesia Evangélica Peruana on Calle Arequipa is a modest house of worship serving as a gathering point for the local Protestant community.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.208604,
+                        -12.073293
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "The local Iglesia Evangelica Pentecostal is characterized by its lively, music-filled Pentecostal worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.205896,
+                        -12.075611
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana Huayucachi",
+                  "text": "Located in the rural setting of Huayucachi, this Peruvian Evangelical church serves as a spiritual hub for the Protestant families of the farming community.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.222179,
+                        -12.133257
+                  ]
+            },
+            {
+                  "name": "Virgen de Lurdes",
+                  "text": "The Virgen de Lurdes Christian shrine honors the Virgin Mary with a replica of the famous Marian grotto where local faithful gather to pray.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.288758,
+                        -12.059259
+                  ]
+            },
+            {
+                  "name": "Iglesia De 3 De Diciembre",
+                  "text": "The church in the 3 de Diciembre district is a Christian assembly point named after the historical founding date of the local municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.245995,
+                        -12.109796
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana Cajas Chico",
+                  "text": "Situated in the Cajas Chico neighborhood, this evangelical church offers regular worship services and community support for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.227709,
+                        -12.080057
+                  ]
+            },
+            {
+                  "name": "Iglesia Innovada Virgen de Cocharcas",
+                  "text": "Dedicated to the Virgen de Cocharcas, highly venerated in the Andes, this church blends Catholic traditions with syncretic Andean elements.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.215786,
+                        -12.071749
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "PE-JUN",
     coords: [-75.2048, -12.0651],
@@ -2106,7 +7335,1168 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Huancayo is the capital of both the Huancayo Province and the Junín Region.", "The city’s official foundation date by the Spanish is June 1, 1572.", "The 'Incontrastable' title was granted by the supreme protector José de San Martín.", "The Mantaro River, which flows past the city, is one of the longest in the Peruvian highlands.", "Traditional Huancayo embroidery is recognized for its colorful and floral patterns.", "The city hosts the 'Santiago' festival in July, celebrating cattle branding and fertility.", "The nearby town of Ingenio is famous for its trout farms and picturesque landscapes.", "Huancayo has a population of approximately 500,000, making it the 6th largest city in Peru."],
     }, image: "/poi-images/huancayo-cities-v2.webp"},
   {
-    id: "tacna-cities-v2",
+    id: "tacna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ferroviario Nacional de Tacna",
+                  "text": "Dieses Museum befindet sich im historischen Bahnhof Tacna-Arica und zeigt wunderschön erhaltene Dampflokomotiven aus dem 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        -70.254496,
+                        -18.012938
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Regional",
+                  "text": "Das Museum ist in einem eleganten Gebäude aus der republikanischen Ära untergebracht und zeigt regionale Artefakte, die von prähispanischen Kulturen bis zum Salpeterkrieg reichen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.249198,
+                        -18.013313
+                  ]
+            },
+            {
+                  "name": "Casa de Zela",
+                  "text": "Dieses koloniale Steinhaus war der Wohnsitz von Francisco Antonio de Zela, der hier 1811 den ersten peruanischen Schrei nach Unabhängigkeit auslöste.",
+                  "category": "museum",
+                  "coords": [
+                        -70.249841,
+                        -18.01185
+                  ]
+            },
+            {
+                  "name": "Casa Jurídica",
+                  "text": "Dieses historische Gebäude wird als der genaue Ort verehrt, an dem 1929 die Akte zur Wiedereingliederung von Tacna in Peru offiziell unterzeichnet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -70.248475,
+                        -18.010936
+                  ]
+            },
+            {
+                  "name": "Museo de sitio Peañas",
+                  "text": "Das Museo de Sitio Las Peañas ist ein archäologisches Museum in Tacna, das das regionale Erbe bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.216992,
+                        -17.998662
+                  ]
+            },
+            {
+                  "name": "Arco Parabólico",
+                  "text": "Dieser 1957 in Tacna errichtete Parabelbogen ist ein markantes Denkmal zu Ehren der Helden des Pazifikkrieges.",
+                  "category": "historical",
+                  "coords": [
+                        -70.25065,
+                        -18.013586
+                  ]
+            },
+            {
+                  "name": "Catedral de Tacna",
+                  "text": "Die Kathedrale von Tacna ist ein bedeutendes religiöses Bauwerk der Stadt, das für seine Steinfassade bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -70.251998,
+                        -18.01455
+                  ]
+            },
+            {
+                  "name": "Bab ul Islam",
+                  "text": "Die Bab ul Islam Moschee in Tacna ist ein zentraler Treffpunkt für die lokale muslimische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -70.25681,
+                        -18.019955
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Tacna",
+                  "text": "Das Teatro Municipal de Tacna ist ein historisches städtisches Theater und ein wichtiger kultureller Veranstaltungsort der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.249221,
+                        -18.009929
+                  ]
+            },
+            {
+                  "name": "Cripta de los Héroes",
+                  "text": "Die Cripta de los Héroes in Tacna ist eine Gedenkkrypta für die gefallenen Soldaten des Pazifikkrieges.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.259927,
+                        -17.991682
+                  ]
+            },
+            {
+                  "name": "Cerro Intiorko",
+                  "text": "Der Cerro Intiorko ist ein markanter Hügel bei Tacna, der für seine historische und strategische Bedeutung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.25859,
+                        -17.990249
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio del Alto de la Alianza",
+                  "text": "Dieses Museum befindet sich auf dem Schlachtfeld von Alto de la Alianza bei Tacna und erinnert an einen entscheidenden Konflikt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.293832,
+                        -18.000366
+                  ]
+            },
+            {
+                  "name": "Santuario de Luli",
+                  "text": "Das Santuario de Luli in Tacna ist eine lokale Galerie und ein spiritueller Raum, in dem kulturelle Gegenstände ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        -70.18275,
+                        -17.999291
+                  ]
+            },
+            {
+                  "name": "Casino Militar de Sub Oficiales E.P.",
+                  "text": "Dieses Gebäude in Tacna dient als militärisches Gesellschafts- und Kulturzentrum für Unteroffiziere.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.256963,
+                        -18.006769
+                  ]
+            },
+            {
+                  "name": "Zona de Espectaculos",
+                  "text": "Die Zona de Espectaculos in Tacna ist ein ausgewiesener Bereich für öffentliche Aufführungen und Unterhaltung.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.210861,
+                        -17.994204
+                  ]
+            },
+            {
+                  "name": "Auditorio UPT",
+                  "text": "Das Auditorio UPT in Tacna ist ein akademischer Veranstaltungssaal der örtlichen Universität für Vorträge und Events.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.226302,
+                        -18.006104
+                  ]
+            },
+            {
+                  "name": "Auditorio Juan Figueroa Salgado",
+                  "text": "Das Auditorio Juan Figueroa Salgado in Tacna ist ein lokaler Veranstaltungssaal für kulturelle Präsentationen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.248566,
+                        -18.023803
+                  ]
+            },
+            {
+                  "name": "Salones de Usos Multiples Candarave y Tarata",
+                  "text": "Diese Mehrzweckhallen in Tacna sind für vielfältige Gemeinschaftstreffen und Aufführungen konzipiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.253099,
+                        -18.014491
+                  ]
+            },
+            {
+                  "name": "Centro cultural",
+                  "text": "Dieses öffentliche Kulturzentrum in Tacna fördert lokale Kunstausstellungen und kulturelle Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.244477,
+                        -17.993812
+                  ]
+            },
+            {
+                  "name": "Mercado Leoncio Prado",
+                  "text": "Der Mercado Leoncio Prado ist ein lebhafter lokaler Markt in Tacna, auf dem frische Produkte und regionale Waren angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.24947,
+                        -18.000141
+                  ]
+            },
+            {
+                  "name": "Mercado San Martín",
+                  "text": "Der Mercado San Martín ist ein Nachbarschaftsmarkt in Tacna, auf dem die Einheimischen ihren täglichen Bedarf decken.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.244856,
+                        -17.986068
+                  ]
+            },
+            {
+                  "name": "Mercado Jerusalén",
+                  "text": "Der Mercado Jerusalén in Tacna ist bekannt für seine Vielzahl an Ständen und den lebhaften lokalen Handel.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.220872,
+                        -17.974172
+                  ]
+            },
+            {
+                  "name": "Mercado Loyola",
+                  "text": "Der Mercado Loyola ist ein Gemeinschaftsmarkt in Tacna, der die täglichen Einkaufsbedürfnisse der Umgebung bedient.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.293157,
+                        -18.067979
+                  ]
+            },
+            {
+                  "name": "Mercado Grau",
+                  "text": "Der Mercado Grau ist einer der wichtigsten Handelsmärkte in Tacna, der voller einheimischer Händler und Käufer ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.260955,
+                        -18.003094
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "Der Mercado Central ist der zentrale Markt von Tacna und dient als Knotenpunkt für frische Lebensmittel und traditionelle Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.245832,
+                        -18.011982
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Patricio Melendez",
+                  "text": "Das Centro Comercial Patricio Melendez in Tacna ist ein Einkaufszentrum mit zahlreichen lokalen Verkaufsständen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.254848,
+                        -18.002723
+                  ]
+            },
+            {
+                  "name": "Mercado Julio Rospigliosi",
+                  "text": "Der Mercado Julio Rospigliosi ist ein Nachbarschaftsmarkt in Tacna, auf dem frische Lebensmittel und Alltagsgegenstände angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25229,
+                        -18.006119
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Pesquero",
+                  "text": "Der Mercado Mayorista Pesquero in Tacna ist ein Großhandelsmarkt für Fisch und Meeresfrüchte, der die Stadt versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25598,
+                        -17.998621
+                  ]
+            },
+            {
+                  "name": "Galeria Comercial San Gregorio",
+                  "text": "Die Galeria Comercial San Gregorio in Tacna ist eine lokale Einkaufspassage mit verschiedenen kleinen Geschäften und Händlern.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.252407,
+                        -17.994174
+                  ]
+            },
+            {
+                  "name": "Mercado Juan Velasco Alvarado",
+                  "text": "Der Mercado Juan Velasco Alvarado ist ein Gemeinschaftsmarkt in Tacna, der einen Knotenpunkt für den täglichen lokalen Handel bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25179,
+                        -17.993134
+                  ]
+            },
+            {
+                  "name": "Mercado de la Esperanza",
+                  "text": "Der Mercado de la Esperanza in Tacna ist ein lokaler Markt, der für seine frischen Produkte und Alltagswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.247228,
+                        -17.995439
+                  ]
+            },
+            {
+                  "name": "Mercado Intiorko",
+                  "text": "Der Mercado Intiorko ist ein lokaler Markt nahe der gleichnamigen Gegend in Tacna, der den täglichen Einkaufsbedarf deckt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.24137,
+                        -17.983146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ferroviario Nacional de Tacna",
+                  "text": "A történelmi Tacna-Arica vasútállomáson található múzeum gyönyörűen megőrzött 19. századi gőzmozdonyokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -70.254496,
+                        -18.012938
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Regional",
+                  "text": "Az elegáns köztársaság kori épületben működő múzeum a spanyol hódítás előtti kultúráktól a csendes-óceáni háborúig mutat be regionális műtárgyakat.",
+                  "category": "museum",
+                  "coords": [
+                        -70.249198,
+                        -18.013313
+                  ]
+            },
+            {
+                  "name": "Casa de Zela",
+                  "text": "Ez a gyarmati kőkúria Francisco Antonio de Zela rezidenciája volt, aki 1811-ben itt hirdette meg a perui függetlenség első kiáltványát.",
+                  "category": "museum",
+                  "coords": [
+                        -70.249841,
+                        -18.01185
+                  ]
+            },
+            {
+                  "name": "Casa Jurídica",
+                  "text": "Ezt a történelmi épületet mély tisztelet övezi, mivel pontosan itt írták alá hivatalosan 1929-ben Tacna Peruhoz való visszacsatolásának okmányát.",
+                  "category": "museum",
+                  "coords": [
+                        -70.248475,
+                        -18.010936
+                  ]
+            },
+            {
+                  "name": "Museo de sitio Peañas",
+                  "text": "A Museo de Sitio Las Peañas egy régészeti múzeum Tacnában, amely a regionális örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.216992,
+                        -17.998662
+                  ]
+            },
+            {
+                  "name": "Arco Parabólico",
+                  "text": "Ezt az 1957-ben Tacnában emelt parabolikus ívet a csendes-óceáni háború hőseinek tiszteletére állították.",
+                  "category": "historical",
+                  "coords": [
+                        -70.25065,
+                        -18.013586
+                  ]
+            },
+            {
+                  "name": "Catedral de Tacna",
+                  "text": "A tacnai katedrális a város jelentős vallási épülete, amely kőhomlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -70.251998,
+                        -18.01455
+                  ]
+            },
+            {
+                  "name": "Bab ul Islam",
+                  "text": "A tacnai Bab ul Islam mecset a helyi muszlim közösség fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        -70.25681,
+                        -18.019955
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Tacna",
+                  "text": "A Teatro Municipal de Tacna egy történelmi városi színház és a régió fontos kulturális helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.249221,
+                        -18.009929
+                  ]
+            },
+            {
+                  "name": "Cripta de los Héroes",
+                  "text": "A tacnai Cripta de los Héroes egy emlékkripta, amelyet a csendes-óceáni háborúban elesett katonáknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.259927,
+                        -17.991682
+                  ]
+            },
+            {
+                  "name": "Cerro Intiorko",
+                  "text": "A Cerro Intiorko egy jelentős domb Tacna közelében, amely történelmi és stratégiai fontosságáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.25859,
+                        -17.990249
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio del Alto de la Alianza",
+                  "text": "Ez a múzeum az Alto de la Alianza csatatéren található Tacna közelében, és egy sorsdöntő konfliktusnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -70.293832,
+                        -18.000366
+                  ]
+            },
+            {
+                  "name": "Santuario de Luli",
+                  "text": "A tacnai Santuario de Luli egy helyi galéria és szellemi tér, amely kulturális tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.18275,
+                        -17.999291
+                  ]
+            },
+            {
+                  "name": "Casino Militar de Sub Oficiales E.P.",
+                  "text": "Ez a tacnai épület katonai társadalmi és kulturális központként szolgál az altisztek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.256963,
+                        -18.006769
+                  ]
+            },
+            {
+                  "name": "Zona de Espectaculos",
+                  "text": "A tacnai Zona de Espectaculos a nyilvános előadások és szórakoztató műsorok kijelölt területe.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.210861,
+                        -17.994204
+                  ]
+            },
+            {
+                  "name": "Auditorio UPT",
+                  "text": "A tacnai Auditorio UPT a helyi egyetem akadémiai rendezvényterme, amely előadásoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.226302,
+                        -18.006104
+                  ]
+            },
+            {
+                  "name": "Auditorio Juan Figueroa Salgado",
+                  "text": "A tacnai Auditorio Juan Figueroa Salgado egy helyi rendezvényterem, amelyet kulturális bemutatókra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.248566,
+                        -18.023803
+                  ]
+            },
+            {
+                  "name": "Salones de Usos Multiples Candarave y Tarata",
+                  "text": "Ezeket a tacnai többcélú termeket változatos közösségi összejövetelekre és előadásokra tervezték.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.253099,
+                        -18.014491
+                  ]
+            },
+            {
+                  "name": "Centro cultural",
+                  "text": "Ez a tacnai nyilvános kulturális központ a helyi művészeti kiállításokat és kulturális tevékenységeket népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.244477,
+                        -17.993812
+                  ]
+            },
+            {
+                  "name": "Mercado Leoncio Prado",
+                  "text": "A Mercado Leoncio Prado egy nyüzsgő helyi piac Tacnában, ahol friss termékeket és regionális árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.24947,
+                        -18.000141
+                  ]
+            },
+            {
+                  "name": "Mercado San Martín",
+                  "text": "A Mercado San Martín egy szomszédsági piac Tacnában, ahol a helyiek beszerzik a mindennapi szükségleteiket.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.244856,
+                        -17.986068
+                  ]
+            },
+            {
+                  "name": "Mercado Jerusalén",
+                  "text": "A tacnai Mercado Jerusalén sokféle standjáról és élénk helyi kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.220872,
+                        -17.974172
+                  ]
+            },
+            {
+                  "name": "Mercado Loyola",
+                  "text": "A Mercado Loyola egy közösségi piac Tacnában, amely a környék mindennapi vásárlási igényeit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.293157,
+                        -18.067979
+                  ]
+            },
+            {
+                  "name": "Mercado Grau",
+                  "text": "A Mercado Grau Tacna egyik legfontosabb kereskedelmi piaca, amely tele van helyi árusokkal és vásárlókkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.260955,
+                        -18.003094
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "A Mercado Central Tacna központi piaca, amely a friss élelmiszerek és hagyományos áruk központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.245832,
+                        -18.011982
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Patricio Melendez",
+                  "text": "A tacnai Centro Comercial Patricio Melendez egy bevásárlóközpont számos helyi kiskereskedelmi standdal.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.254848,
+                        -18.002723
+                  ]
+            },
+            {
+                  "name": "Mercado Julio Rospigliosi",
+                  "text": "A Mercado Julio Rospigliosi egy szomszédsági piac Tacnában, ahol friss élelmiszereket és mindennapi cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25229,
+                        -18.006119
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Pesquero",
+                  "text": "A tacnai Mercado Mayorista Pesquero egy hal- és tenger gyümölcsei nagykereskedelmi piac, amely a várost látja el.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25598,
+                        -17.998621
+                  ]
+            },
+            {
+                  "name": "Galeria Comercial San Gregorio",
+                  "text": "A tacnai Galeria Comercial San Gregorio egy helyi bevásárlóárkád különféle kis boltokkal és árusokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.252407,
+                        -17.994174
+                  ]
+            },
+            {
+                  "name": "Mercado Juan Velasco Alvarado",
+                  "text": "A Mercado Juan Velasco Alvarado egy közösségi piac Tacnában, amely a mindennapi helyi kereskedelem központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25179,
+                        -17.993134
+                  ]
+            },
+            {
+                  "name": "Mercado de la Esperanza",
+                  "text": "A tacnai Mercado de la Esperanza egy helyi piac, amely friss termékeiről és mindennapi áruiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.247228,
+                        -17.995439
+                  ]
+            },
+            {
+                  "name": "Mercado Intiorko",
+                  "text": "A Mercado Intiorko egy helyi piac a tacnai azonos nevű terület közelében, amely a mindennapi vásárlási igényeket elégíti ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.24137,
+                        -17.983146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ferroviario Nacional de Tacna",
+                  "text": "Situat în gara istorică Tacna-Arica, acest muzeu expune locomotive cu abur frumos conservate din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -70.254496,
+                        -18.012938
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Regional",
+                  "text": "Găzduit într-o clădire elegantă din era republicană, muzeul prezintă artefacte regionale care acoperă perioada de la culturile pre-hispanice până la Războiul Pacificului.",
+                  "category": "museum",
+                  "coords": [
+                        -70.249198,
+                        -18.013313
+                  ]
+            },
+            {
+                  "name": "Casa de Zela",
+                  "text": "Acest conac colonial de piatră a fost reședința lui Francisco Antonio de Zela, care a lansat aici faimosul prim strigăt de independență al Peruului în 1811.",
+                  "category": "museum",
+                  "coords": [
+                        -70.249841,
+                        -18.01185
+                  ]
+            },
+            {
+                  "name": "Casa Jurídica",
+                  "text": "Această clădire istorică este profund venerată ca fiind locația exactă în care a fost semnat oficial Actul de Reîncorporare a orașului Tacna la Peru în 1929.",
+                  "category": "museum",
+                  "coords": [
+                        -70.248475,
+                        -18.010936
+                  ]
+            },
+            {
+                  "name": "Museo de sitio Peañas",
+                  "text": "Museo de Sitio Las Peañas este un muzeu arheologic din Tacna, care conservă patrimoniul regional.",
+                  "category": "museum",
+                  "coords": [
+                        -70.216992,
+                        -17.998662
+                  ]
+            },
+            {
+                  "name": "Arco Parabólico",
+                  "text": "Acest arc parabolic, ridicat în Tacna în 1957, este un monument impresionant dedicat eroilor din Războiul Pacificului.",
+                  "category": "historical",
+                  "coords": [
+                        -70.25065,
+                        -18.013586
+                  ]
+            },
+            {
+                  "name": "Catedral de Tacna",
+                  "text": "Catedrala din Tacna este un edificiu religios important al orașului, cunoscut pentru fațada sa de piatră.",
+                  "category": "religious",
+                  "coords": [
+                        -70.251998,
+                        -18.01455
+                  ]
+            },
+            {
+                  "name": "Bab ul Islam",
+                  "text": "Moscheea Bab ul Islam din Tacna este un loc central de adunare pentru comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        -70.25681,
+                        -18.019955
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Tacna",
+                  "text": "Teatro Municipal de Tacna este un teatru municipal istoric și un centru cultural important din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.249221,
+                        -18.009929
+                  ]
+            },
+            {
+                  "name": "Cripta de los Héroes",
+                  "text": "Cripta de los Héroes din Tacna este o criptă memorială dedicată soldaților căzuți în Războiul Pacificului.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.259927,
+                        -17.991682
+                  ]
+            },
+            {
+                  "name": "Cerro Intiorko",
+                  "text": "Cerro Intiorko este un deal proeminent de lângă Tacna, cunoscut pentru importanța sa istorică și strategică.",
+                  "category": "natural",
+                  "coords": [
+                        -70.25859,
+                        -17.990249
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio del Alto de la Alianza",
+                  "text": "Acest muzeu se află pe câmpul de luptă Alto de la Alianza de lângă Tacna, comemorând un conflict decisiv.",
+                  "category": "museum",
+                  "coords": [
+                        -70.293832,
+                        -18.000366
+                  ]
+            },
+            {
+                  "name": "Santuario de Luli",
+                  "text": "Santuario de Luli din Tacna este o galerie locală și un spațiu spiritual care expune obiecte culturale.",
+                  "category": "museum",
+                  "coords": [
+                        -70.18275,
+                        -17.999291
+                  ]
+            },
+            {
+                  "name": "Casino Militar de Sub Oficiales E.P.",
+                  "text": "Această clădire din Tacna servește drept centru social și cultural militar pentru subofițeri.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.256963,
+                        -18.006769
+                  ]
+            },
+            {
+                  "name": "Zona de Espectaculos",
+                  "text": "Zona de Espectaculos din Tacna este o zonă desemnată pentru spectacole publice și divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.210861,
+                        -17.994204
+                  ]
+            },
+            {
+                  "name": "Auditorio UPT",
+                  "text": "Auditorio UPT din Tacna este o sală academică a universității locale, destinată prelegerilor și evenimentelor.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.226302,
+                        -18.006104
+                  ]
+            },
+            {
+                  "name": "Auditorio Juan Figueroa Salgado",
+                  "text": "Auditorio Juan Figueroa Salgado din Tacna este o sală de evenimente locală utilizată pentru prezentări culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.248566,
+                        -18.023803
+                  ]
+            },
+            {
+                  "name": "Salones de Usos Multiples Candarave y Tarata",
+                  "text": "Aceste săli polivalente din Tacna sunt concepute pentru diverse întâlniri comunitare și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.253099,
+                        -18.014491
+                  ]
+            },
+            {
+                  "name": "Centro cultural",
+                  "text": "Acest centru cultural public din Tacna promovează expoziții de artă și activități culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.244477,
+                        -17.993812
+                  ]
+            },
+            {
+                  "name": "Mercado Leoncio Prado",
+                  "text": "Mercado Leoncio Prado este o piață locală plină de viață din Tacna, care oferă produse proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.24947,
+                        -18.000141
+                  ]
+            },
+            {
+                  "name": "Mercado San Martín",
+                  "text": "Mercado San Martín este o piață de cartier din Tacna, unde localnicii își cumpără proviziile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.244856,
+                        -17.986068
+                  ]
+            },
+            {
+                  "name": "Mercado Jerusalén",
+                  "text": "Mercado Jerusalén din Tacna este cunoscută pentru varietatea de tarabe și comerțul local plin de viață.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.220872,
+                        -17.974172
+                  ]
+            },
+            {
+                  "name": "Mercado Loyola",
+                  "text": "Mercado Loyola este o piață comunitară din Tacna, care deservește nevoile zilnice de cumpărături ale zonei.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.293157,
+                        -18.067979
+                  ]
+            },
+            {
+                  "name": "Mercado Grau",
+                  "text": "Mercado Grau este una dintre cele mai importante piețe comerciale din Tacna, plină de comercianți și cumpărători locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.260955,
+                        -18.003094
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "Mercado Central este piața centrală din Tacna, servind ca un hub pentru alimente proaspete și mărfuri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.245832,
+                        -18.011982
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Patricio Melendez",
+                  "text": "Centro Comercial Patricio Melendez din Tacna este un centru comercial cu numeroase standuri de vânzare cu amănuntul.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.254848,
+                        -18.002723
+                  ]
+            },
+            {
+                  "name": "Mercado Julio Rospigliosi",
+                  "text": "Mercado Julio Rospigliosi este o piață de cartier din Tacna, care oferă produse proaspete și articole de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25229,
+                        -18.006119
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Pesquero",
+                  "text": "Mercado Mayorista Pesquero din Tacna este o piață cu ridicata de pește și fructe de mare, care aprovizionează orașul.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25598,
+                        -17.998621
+                  ]
+            },
+            {
+                  "name": "Galeria Comercial San Gregorio",
+                  "text": "Galeria Comercial San Gregorio din Tacna este un pasaj comercial local cu diverse magazine mici și vânzători.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.252407,
+                        -17.994174
+                  ]
+            },
+            {
+                  "name": "Mercado Juan Velasco Alvarado",
+                  "text": "Mercado Juan Velasco Alvarado este o piață comunitară din Tacna, care oferă un hub pentru comerțul local zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25179,
+                        -17.993134
+                  ]
+            },
+            {
+                  "name": "Mercado de la Esperanza",
+                  "text": "Mercado de la Esperanza din Tacna este o piață locală cunoscută pentru produsele proaspete și mărfurile de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.247228,
+                        -17.995439
+                  ]
+            },
+            {
+                  "name": "Mercado Intiorko",
+                  "text": "Mercado Intiorko este o piață locală situată în apropierea zonei cu același nume din Tacna, care acoperă nevoile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.24137,
+                        -17.983146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ferroviario Nacional de Tacna",
+                  "text": "Located in the historic Tacna-Arica railway station, this museum exhibits beautifully preserved 19th-century steam locomotives.",
+                  "category": "museum",
+                  "coords": [
+                        -70.254496,
+                        -18.012938
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Regional",
+                  "text": "Housed in an elegant Republican-era building, the museum showcases regional artifacts spanning from pre-Hispanic cultures to the War of the Pacific.",
+                  "category": "museum",
+                  "coords": [
+                        -70.249198,
+                        -18.013313
+                  ]
+            },
+            {
+                  "name": "Casa de Zela",
+                  "text": "This colonial stone mansion was the residence of Francisco Antonio de Zela, who famously launched the first Peruvian cry for independence here in 1811.",
+                  "category": "museum",
+                  "coords": [
+                        -70.249841,
+                        -18.01185
+                  ]
+            },
+            {
+                  "name": "Casa Jurídica",
+                  "text": "This historic building is deeply revered as the exact location where the 1929 Act of Reincorporation of Tacna into Peru was officially signed.",
+                  "category": "museum",
+                  "coords": [
+                        -70.248475,
+                        -18.010936
+                  ]
+            },
+            {
+                  "name": "Museo de sitio Peañas",
+                  "text": "The Museo de Sitio Las Peañas is an archaeological museum in Tacna preserving regional heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -70.216992,
+                        -17.998662
+                  ]
+            },
+            {
+                  "name": "Parabolic Arch",
+                  "text": "Erected in 1957 in Tacna, this parabolic arch is a striking monument honoring the heroes of the War of the Pacific.",
+                  "category": "historical",
+                  "coords": [
+                        -70.25065,
+                        -18.013586
+                  ]
+            },
+            {
+                  "name": "Catedral de Tacna",
+                  "text": "The Cathedral of Tacna is a significant religious edifice in the city, notable for its stone facade.",
+                  "category": "religious",
+                  "coords": [
+                        -70.251998,
+                        -18.01455
+                  ]
+            },
+            {
+                  "name": "Bab ul Islam",
+                  "text": "The Bab ul Islam mosque in Tacna serves as a key place of worship for the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        -70.25681,
+                        -18.019955
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Tacna",
+                  "text": "The Teatro Municipal de Tacna is a historic municipal theater serving as a key cultural venue for the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.249221,
+                        -18.009929
+                  ]
+            },
+            {
+                  "name": "Cripta de los Héroes",
+                  "text": "The Cripta de los Héroes in Tacna is a memorial crypt dedicated to the fallen soldiers of the War of the Pacific.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.259927,
+                        -17.991682
+                  ]
+            },
+            {
+                  "name": "Cerro Intiorko",
+                  "text": "Cerro Intiorko is a prominent hill overlooking Tacna, known for its historical and strategic significance.",
+                  "category": "natural",
+                  "coords": [
+                        -70.25859,
+                        -17.990249
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio del Alto de la Alianza",
+                  "text": "This museum is situated on the Alto de la Alianza battlefield near Tacna, commemorating a pivotal conflict.",
+                  "category": "museum",
+                  "coords": [
+                        -70.293832,
+                        -18.000366
+                  ]
+            },
+            {
+                  "name": "Santuario de Luli",
+                  "text": "The Santuario de Luli in Tacna is a local gallery and spiritual space exhibiting regional cultural items.",
+                  "category": "museum",
+                  "coords": [
+                        -70.18275,
+                        -17.999291
+                  ]
+            },
+            {
+                  "name": "Casino Militar de Sub Oficiales E.P.",
+                  "text": "This facility in Tacna serves as a military social and arts center for non-commissioned officers.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.256963,
+                        -18.006769
+                  ]
+            },
+            {
+                  "name": "Zona de Espectaculos",
+                  "text": "The Zona de Espectaculos in Tacna is a designated area for public performances and entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.210861,
+                        -17.994204
+                  ]
+            },
+            {
+                  "name": "Auditorio UPT",
+                  "text": "The Auditorio UPT in Tacna is an academic auditorium affiliated with the local university, used for lectures and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.226302,
+                        -18.006104
+                  ]
+            },
+            {
+                  "name": "Auditorio Juan Figueroa Salgado",
+                  "text": "The Auditorio Juan Figueroa Salgado in Tacna is a local auditorium used for various cultural presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.248566,
+                        -18.023803
+                  ]
+            },
+            {
+                  "name": "Salones de Usos Multiples Candarave y Tarata",
+                  "text": "These multipurpose halls in Tacna are designed for diverse community gatherings and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.253099,
+                        -18.014491
+                  ]
+            },
+            {
+                  "name": "Centro cultural",
+                  "text": "This public arts center in Tacna promotes local cultural exhibitions and activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.244477,
+                        -17.993812
+                  ]
+            },
+            {
+                  "name": "Mercado Leoncio Prado",
+                  "text": "The Mercado Leoncio Prado is a bustling local marketplace in Tacna offering fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.24947,
+                        -18.000141
+                  ]
+            },
+            {
+                  "name": "Mercado San Martín",
+                  "text": "The Mercado San Martín is a neighborhood market in Tacna where locals gather to buy daily provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.244856,
+                        -17.986068
+                  ]
+            },
+            {
+                  "name": "Mercado Jerusalén",
+                  "text": "The Mercado Jerusalén in Tacna is known for its variety of stalls and lively local commerce.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.220872,
+                        -17.974172
+                  ]
+            },
+            {
+                  "name": "Mercado Loyola",
+                  "text": "The Mercado Loyola is a community market in Tacna serving the everyday shopping needs of the area.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.293157,
+                        -18.067979
+                  ]
+            },
+            {
+                  "name": "Mercado Grau",
+                  "text": "The Mercado Grau is one of the major commercial markets in Tacna, bustling with local traders and shoppers.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.260955,
+                        -18.003094
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "The Mercado Central is the central marketplace of Tacna, serving as a hub for fresh food and traditional wares.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.245832,
+                        -18.011982
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Patricio Melendez",
+                  "text": "The Centro Comercial Patricio Melendez in Tacna is a commercial shopping center featuring numerous local retail stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.254848,
+                        -18.002723
+                  ]
+            },
+            {
+                  "name": "Mercado Julio Rospigliosi",
+                  "text": "The Mercado Julio Rospigliosi is a neighborhood marketplace in Tacna offering fresh groceries and everyday items.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25229,
+                        -18.006119
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Pesquero",
+                  "text": "The Mercado Mayorista Pesquero in Tacna is a wholesale fish and seafood market supplying fresh marine products to the city.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25598,
+                        -17.998621
+                  ]
+            },
+            {
+                  "name": "Galeria Comercial San Gregorio",
+                  "text": "The Galeria Comercial San Gregorio in Tacna is a local commercial gallery with various small shops and vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.252407,
+                        -17.994174
+                  ]
+            },
+            {
+                  "name": "Mercado Juan Velasco Alvarado",
+                  "text": "The Mercado Juan Velasco Alvarado is a community marketplace in Tacna providing a hub for daily local trade.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.25179,
+                        -17.993134
+                  ]
+            },
+            {
+                  "name": "Mercado de la Esperanza",
+                  "text": "The Mercado de la Esperanza in Tacna is a community-focused market known for its local produce and daily wares.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.247228,
+                        -17.995439
+                  ]
+            },
+            {
+                  "name": "Mercado Intiorko",
+                  "text": "The Mercado Intiorko is a local market situated near the Intiorko area of Tacna, catering to everyday shopping needs.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.24137,
+                        -17.983146
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "PE-TAC",
     coords: [-70.2527, -18.0146],

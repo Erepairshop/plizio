@@ -2,7 +2,736 @@
 import type { POI } from "./poi";
 
 export const poiExtraGuyanaNatureV2: POI[] = [ {
-    id: "guyana-essequibo-river-nature-v2",
+    id: "guyana-essequibo-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Educational Facility",
+                  "text": "Eine lokale Bildungseinrichtung, die als Gemeindewahrzeichen in der Nähe des Essequibo-Flusses dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.395378,
+                        6.916754
+                  ]
+            },
+            {
+                  "name": "St. Peter's Anglican Church",
+                  "text": "Ein historisches anglikanisches Kirchengebäude, das für seine markante Architektur entlang des Essequibo-Flusses bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.396373,
+                        6.916255
+                  ]
+            },
+            {
+                  "name": "Religious Building - Church",
+                  "text": "Ein lokales christliches Kirchengebäude, das den Gemeinden am Flussufer spirituelle Führung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.397542,
+                        6.915699
+                  ]
+            },
+            {
+                  "name": "Leguan Stelling",
+                  "text": "Ein wichtiger Fähranleger und Pier, der Leguan Island über den Essequibo-Fluss mit dem Festland verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.39986,
+                        6.914557
+                  ]
+            },
+            {
+                  "name": "Religious Building - Mandir",
+                  "text": "Ein lokaler Hindu-Mandir, der sich durch seine farbenfrohe Architektur in der Essequibo-Flussregion auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.39048,
+                        6.919615
+                  ]
+            },
+            {
+                  "name": "Meten Meer Zorg Masjid",
+                  "text": "Eine islamische Moschee, die der Gemeinde Meten Meer Zorg als Ort für das gemeinsame Gebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.327275,
+                        6.879392
+                  ]
+            },
+            {
+                  "name": "St. Simon Anglican Church",
+                  "text": "Ein anglikanisches Pfarrkirchengebäude, das christlichen Gläubigen in der umliegenden Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.328761,
+                        6.878902
+                  ]
+            },
+            {
+                  "name": "Rama Krishna Mandir",
+                  "text": "Ein lokaler Hindu-Tempel, in dem sich Mitglieder der Flussgemeinde zum Gebet und zu religiösen Festen versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.38724,
+                        6.921862
+                  ]
+            },
+            {
+                  "name": "Bush",
+                  "text": "Ein malerischer Aussichtspunkt, der einen Blick auf die dichte tropische Vegetation entlang des Essequibo River bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.343721,
+                        6.876633
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Ein Aussichtspunkt am Rande eines Pfades mit Blick auf die weitläufige Flusslandschaft des Essequibo.",
+                  "category": "natural",
+                  "coords": [
+                        -58.344403,
+                        6.879774
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Ein Aussichtspunkt am Anfang eines Wanderwegs, der einen ersten Blick auf die üppige Flusslandschaft Guyanas bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.340863,
+                        6.877757
+                  ]
+            },
+            {
+                  "name": "End 1 philadelhia",
+                  "text": "Ein Aussichtspunkt in der Nähe der Gegend von Philadelphia, der eine freie Sicht auf die örtlichen Flussufer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.36477,
+                        6.873654
+                  ]
+            },
+            {
+                  "name": "Barnwell 5",
+                  "text": "Einer der Barnwell-Aussichtspunkte, der die für die Region charakteristische üppige tropische Flora zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.371902,
+                        6.873256
+                  ]
+            },
+            {
+                  "name": "Barnwell 3",
+                  "text": "Ein malerischer Aussichtsbereich entlang des Barnwell-Abschnitts, der einen ungehinderten Blick auf die Naturlandschaft ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -58.372828,
+                        6.873165
+                  ]
+            },
+            {
+                  "name": "Barnwell 8",
+                  "text": "Ein natürlicher Aussichtspunkt im Barnwell-Gebiet, der das dichte Blätterdach und die nahe gelegenen Gewässer überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.370412,
+                        6.873529
+                  ]
+            },
+            {
+                  "name": "Barnwell 10",
+                  "text": "Eine Lichtung entlang des Barnwell-Pfades, die als Aussichtspunkt dient, um das dichte Laub und die Flusslandschaft zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        -58.369188,
+                        6.873542
+                  ]
+            },
+            {
+                  "name": "Philadelphia 1",
+                  "text": "Ein Aussichtspunkt in der Siedlung Philadelphia, der eine hervorragende Perspektive auf die angrenzenden Uferfarmen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.367527,
+                        6.873582
+                  ]
+            },
+            {
+                  "name": "End 9",
+                  "text": "Eine malerische Lichtung, die einen ruhigen Ort bietet, um das vielfältige Ökosystem rund um den Essequibo zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -58.376564,
+                        6.871857
+                  ]
+            },
+            {
+                  "name": "End 7",
+                  "text": "Eine Aussichtsplattform oder ein natürlicher Bergrücken, der weite Ausblicke auf die grüne tropische Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.379504,
+                        6.870391
+                  ]
+            },
+            {
+                  "name": "End 4",
+                  "text": "Ein ruhiger und abgelegener Aussichtspunkt, der tief in die üppige Vegetation des Flussufers eingebettet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -58.38015,
+                        6.869259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Educational Facility",
+                  "text": "Helyi oktatási intézmény, amely közösségi nevezetességként szolgál az Essequibo-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.395378,
+                        6.916754
+                  ]
+            },
+            {
+                  "name": "St. Peter's Anglican Church",
+                  "text": "Történelmi anglikán templomépület, amely egyedi építészetéről ismert az Essequibo-folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.396373,
+                        6.916255
+                  ]
+            },
+            {
+                  "name": "Religious Building - Church",
+                  "text": "Egy helyi keresztény templomépület, amely spirituális útmutatást nyújt a folyóparti közösségeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.397542,
+                        6.915699
+                  ]
+            },
+            {
+                  "name": "Leguan Stelling",
+                  "text": "Egy kulcsfontosságú kompkikötő és móló, amely összeköti a Leguan-szigetet a szárazfölddel az Essequibo-folyón keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.39986,
+                        6.914557
+                  ]
+            },
+            {
+                  "name": "Religious Building - Mandir",
+                  "text": "Egy helyi hindu mandir, amelyet színes építészete jellemez az Essequibo-folyó régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.39048,
+                        6.919615
+                  ]
+            },
+            {
+                  "name": "Meten Meer Zorg Masjid",
+                  "text": "Iszlám mecset, amely gyülekezeti imádkozási helyet biztosít a Meten Meer Zorg közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.327275,
+                        6.879392
+                  ]
+            },
+            {
+                  "name": "St. Simon Anglican Church",
+                  "text": "Anglikán plébániatemplom, amely a környező régió keresztény hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.328761,
+                        6.878902
+                  ]
+            },
+            {
+                  "name": "Rama Krishna Mandir",
+                  "text": "Egy helyi hindu templom, ahol a folyó menti közösség tagjai imádkozni és vallási ünnepekre gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.38724,
+                        6.921862
+                  ]
+            },
+            {
+                  "name": "Bush",
+                  "text": "Festői kilátópont, amely bepillantást enged az Essequibo folyó menti sűrű trópusi növényzetbe.",
+                  "category": "natural",
+                  "coords": [
+                        -58.343721,
+                        6.876633
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Egy ösvény szélét jelző kilátópont, ahonnan kilátás nyílik a hatalmas Essequibo folyó tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -58.344403,
+                        6.879774
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Az ösvény kezdeténél található megfigyelőhely, amely első pillantást nyújt a buja guyanai folyókörnyezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.340863,
+                        6.877757
+                  ]
+            },
+            {
+                  "name": "End 1 philadelhia",
+                  "text": "A Philadelphia térségének közelében található kilátópont tiszta rálátást nyújt a helyi folyópartokra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.36477,
+                        6.873654
+                  ]
+            },
+            {
+                  "name": "Barnwell 5",
+                  "text": "A Barnwell kilátópontok egyike, amely bemutatja a régióra jellemző buja trópusi növényzetet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.371902,
+                        6.873256
+                  ]
+            },
+            {
+                  "name": "Barnwell 3",
+                  "text": "Festői kilátóhely a Barnwell szakaszon, amely akadálytalan kilátást nyújt a természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.372828,
+                        6.873165
+                  ]
+            },
+            {
+                  "name": "Barnwell 8",
+                  "text": "A Barnwell területen található természetes kilátó, ahonnan rálátni a sűrű lombkoronára és a közeli vizekre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.370412,
+                        6.873529
+                  ]
+            },
+            {
+                  "name": "Barnwell 10",
+                  "text": "Egy tisztás a Barnwell ösvény mentén, amely kilátópontként szolgál a sűrű lombozat és a folyami környezet megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        -58.369188,
+                        6.873542
+                  ]
+            },
+            {
+                  "name": "Philadelphia 1",
+                  "text": "A Philadelphia településen lévő kilátópont, amely kiváló perspektívát nyújt a szomszédos folyóparti termőföldekre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.367527,
+                        6.873582
+                  ]
+            },
+            {
+                  "name": "End 9",
+                  "text": "Festői tisztás, amely csendes helyet biztosít az Essequibo körüli változatos ökoszisztéma megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -58.376564,
+                        6.871857
+                  ]
+            },
+            {
+                  "name": "End 7",
+                  "text": "Egy kilátóterasz vagy egy természetes hegygerinc, amely kiterjedt panorámát nyújt a zöld trópusi környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.379504,
+                        6.870391
+                  ]
+            },
+            {
+                  "name": "End 4",
+                  "text": "Nyugodt és eldugott megfigyelőpont a folyópart zöldellő növényzetének mélyén.",
+                  "category": "natural",
+                  "coords": [
+                        -58.38015,
+                        6.869259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Educational Facility",
+                  "text": "O instituție de învățământ locală care servește drept punct de reper comunitar lângă râul Essequibo.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.395378,
+                        6.916754
+                  ]
+            },
+            {
+                  "name": "St. Peter's Anglican Church",
+                  "text": "O clădire istorică a bisericii anglicane, cunoscută pentru arhitectura sa distinctă de-a lungul râului Essequibo.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.396373,
+                        6.916255
+                  ]
+            },
+            {
+                  "name": "Religious Building - Church",
+                  "text": "O clădire a bisericii creștine locale care oferă îndrumare spirituală comunităților de pe malul râului.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.397542,
+                        6.915699
+                  ]
+            },
+            {
+                  "name": "Leguan Stelling",
+                  "text": "Un debarcader crucial pentru feriboturi care face legătura între Insula Leguan și continent peste râul Essequibo.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.39986,
+                        6.914557
+                  ]
+            },
+            {
+                  "name": "Religious Building - Mandir",
+                  "text": "Un mandir hindus local caracterizat prin arhitectura sa colorată în regiunea râului Essequibo.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.39048,
+                        6.919615
+                  ]
+            },
+            {
+                  "name": "Meten Meer Zorg Masjid",
+                  "text": "O moschee islamică care oferă un loc pentru rugăciunea congregațională pentru comunitatea din Meten Meer Zorg.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.327275,
+                        6.879392
+                  ]
+            },
+            {
+                  "name": "St. Simon Anglican Church",
+                  "text": "O clădire parohială a bisericii anglicane care servește credincioșilor creștini din regiunea înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.328761,
+                        6.878902
+                  ]
+            },
+            {
+                  "name": "Rama Krishna Mandir",
+                  "text": "Un templu hindus local unde membrii comunității riverane se adună pentru rugăciune și festivaluri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.38724,
+                        6.921862
+                  ]
+            },
+            {
+                  "name": "Bush",
+                  "text": "Un punct de belvedere pitoresc care oferă o privire asupra vegetației tropicale dense de-a lungul râului Essequibo.",
+                  "category": "natural",
+                  "coords": [
+                        -58.343721,
+                        6.876633
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Un punct de observație care marchează marginea unui traseu, cu vedere spre peisajul întins al râului Essequibo.",
+                  "category": "natural",
+                  "coords": [
+                        -58.344403,
+                        6.879774
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Un punct de observație la începutul traseului, care oferă o primă vedere asupra mediului fluvial luxuriant din Guyana.",
+                  "category": "natural",
+                  "coords": [
+                        -58.340863,
+                        6.877757
+                  ]
+            },
+            {
+                  "name": "End 1 philadelhia",
+                  "text": "Un punct de belvedere în apropiere de zona Philadelphia care oferă o vedere clară asupra malurilor râului local.",
+                  "category": "natural",
+                  "coords": [
+                        -58.36477,
+                        6.873654
+                  ]
+            },
+            {
+                  "name": "Barnwell 5",
+                  "text": "Unul dintre punctele de observație Barnwell, care prezintă flora tropicală luxuriantă caracteristică regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -58.371902,
+                        6.873256
+                  ]
+            },
+            {
+                  "name": "Barnwell 3",
+                  "text": "O zonă de vizionare pitorească de-a lungul secțiunii Barnwell, care permite vederi neobstrucționate ale peisajului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -58.372828,
+                        6.873165
+                  ]
+            },
+            {
+                  "name": "Barnwell 8",
+                  "text": "Un punct de observație natural situat în zona Barnwell, care supraveghează coronamentul dens și apele din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -58.370412,
+                        6.873529
+                  ]
+            },
+            {
+                  "name": "Barnwell 10",
+                  "text": "Un luminiș de-a lungul potecii Barnwell care servește ca punct de belvedere pentru a admira frunzișul dens și cadrul fluvial.",
+                  "category": "natural",
+                  "coords": [
+                        -58.369188,
+                        6.873542
+                  ]
+            },
+            {
+                  "name": "Philadelphia 1",
+                  "text": "Un punct de belvedere în așezarea Philadelphia care oferă o perspectivă excelentă asupra terenurilor agricole adiacente malului râului.",
+                  "category": "natural",
+                  "coords": [
+                        -58.367527,
+                        6.873582
+                  ]
+            },
+            {
+                  "name": "End 9",
+                  "text": "Un luminiș pitoresc care oferă un loc liniștit pentru a observa diversul ecosistem din jurul Essequibo.",
+                  "category": "natural",
+                  "coords": [
+                        -58.376564,
+                        6.871857
+                  ]
+            },
+            {
+                  "name": "End 7",
+                  "text": "O punte de observație sau o creastă naturală care oferă vederi extinse ale împrejurimilor tropicale verzi.",
+                  "category": "natural",
+                  "coords": [
+                        -58.379504,
+                        6.870391
+                  ]
+            },
+            {
+                  "name": "End 4",
+                  "text": "Un punct de observație calm și retras situat adânc în vegetația înverzită a malului râului.",
+                  "category": "natural",
+                  "coords": [
+                        -58.38015,
+                        6.869259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Educational Facility",
+                  "text": "A local educational institution that serves as a community landmark near the Essequibo River.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.395378,
+                        6.916754
+                  ]
+            },
+            {
+                  "name": "St. Peter's Anglican Church",
+                  "text": "A historic Anglican church building known for its distinctive architecture along the Essequibo River.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.396373,
+                        6.916255
+                  ]
+            },
+            {
+                  "name": "Religious Building - Church",
+                  "text": "A local Christian church building that provides spiritual guidance to riverside communities.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.397542,
+                        6.915699
+                  ]
+            },
+            {
+                  "name": "Leguan Stelling",
+                  "text": "A crucial ferry stelling and pier that connects Leguan Island to the mainland across the Essequibo River.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.39986,
+                        6.914557
+                  ]
+            },
+            {
+                  "name": "Religious Building - Mandir",
+                  "text": "A local Hindu mandir characterized by its colorful architecture in the Essequibo River region.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.39048,
+                        6.919615
+                  ]
+            },
+            {
+                  "name": "Meten Meer Zorg Masjid",
+                  "text": "An Islamic mosque providing a place for congregational prayer for the Meten Meer Zorg community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.327275,
+                        6.879392
+                  ]
+            },
+            {
+                  "name": "St. Simon Anglican Church",
+                  "text": "An Anglican parish church building serving Christian worshippers in the surrounding region.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.328761,
+                        6.878902
+                  ]
+            },
+            {
+                  "name": "Rama Krishna Mandir",
+                  "text": "A local Hindu temple where members of the riverine community gather for prayer and religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.38724,
+                        6.921862
+                  ]
+            },
+            {
+                  "name": "Bush",
+                  "text": "A scenic viewpoint offering a glimpse into the dense tropical vegetation along the Essequibo River.",
+                  "category": "natural",
+                  "coords": [
+                        -58.343721,
+                        6.876633
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "A vantage point marking the edge of a trail, overlooking the sprawling Essequibo river landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -58.344403,
+                        6.879774
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "A trailhead observation spot offering an initial view of the lush Guyanese river environment.",
+                  "category": "natural",
+                  "coords": [
+                        -58.340863,
+                        6.877757
+                  ]
+            },
+            {
+                  "name": "End 1 philadelhia",
+                  "text": "A viewpoint near the Philadelphia area offering a clear line of sight over the local river banks.",
+                  "category": "natural",
+                  "coords": [
+                        -58.36477,
+                        6.873654
+                  ]
+            },
+            {
+                  "name": "Barnwell 5",
+                  "text": "One of the Barnwell observation points, showcasing the lush tropical flora characteristic of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -58.371902,
+                        6.873256
+                  ]
+            },
+            {
+                  "name": "Barnwell 3",
+                  "text": "A scenic viewing area along the Barnwell stretch, allowing for unhindered views of the natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -58.372828,
+                        6.873165
+                  ]
+            },
+            {
+                  "name": "Barnwell 8",
+                  "text": "A natural lookout located within the Barnwell tract, overseeing the dense canopy and nearby waters.",
+                  "category": "natural",
+                  "coords": [
+                        -58.370412,
+                        6.873529
+                  ]
+            },
+            {
+                  "name": "Barnwell 10",
+                  "text": "A clearing along the Barnwell path serving as a viewpoint to admire the dense foliage and river setting.",
+                  "category": "natural",
+                  "coords": [
+                        -58.369188,
+                        6.873542
+                  ]
+            },
+            {
+                  "name": "Philadelphia 1",
+                  "text": "A viewpoint in the Philadelphia settlement offering an excellent perspective on the adjacent riverside farmlands.",
+                  "category": "natural",
+                  "coords": [
+                        -58.367527,
+                        6.873582
+                  ]
+            },
+            {
+                  "name": "End 9",
+                  "text": "A scenic clearing providing a quiet spot to observe the diverse ecosystem around the Essequibo.",
+                  "category": "natural",
+                  "coords": [
+                        -58.376564,
+                        6.871857
+                  ]
+            },
+            {
+                  "name": "End 7",
+                  "text": "An observation deck or natural ridge offering extensive vistas of the green tropical surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -58.379504,
+                        6.870391
+                  ]
+            },
+            {
+                  "name": "End 4",
+                  "text": "A calm and secluded observation point nestled deep within the verdant vegetation of the riverbank.",
+                  "category": "natural",
+                  "coords": [
+                        -58.38015,
+                        6.869259
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GY-UT",
     coords: [-58.37, 6.95],
@@ -36,7 +765,160 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       pt: ["Mais de 1.000 km de comprimento.", "Desagua no oceano Atlântico."],
       fr: ["Plus de 1 000 km de long.", "Se jette dans l'océan Atlantique."],
     }, image: "/poi-images/guyana-essequibo-river-nature-v2.webp"}, {
-    id: "guyana-demerara-river-nature-v2",
+    id: "guyana-demerara-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church",
+                  "text": "Ein friedliches christliches Gotteshaus in einer Flussgemeinde am Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.164048,
+                        6.794834
+                  ]
+            },
+            {
+                  "name": "New Mosque",
+                  "text": "Ein moderner islamischer Bau, der die flussnahen Gemeinden am Demerara bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167853,
+                        6.796863
+                  ]
+            },
+            {
+                  "name": "Faith Tabernacle AGS",
+                  "text": "Eine Kirche der Assemblies of God in der üppigen Naturregion am Demerara-Fluss.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.165171,
+                        6.796099
+                  ]
+            },
+            {
+                  "name": "La Penitance Market",
+                  "text": "Ein historischer Markt am Wasser in Georgetown, der lokale Lebensmittel und Handwerk anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.168069,
+                        6.800879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church",
+                  "text": "Békés keresztény istentiszteleti hely egy Demerara-menti folyóparti közösségben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.164048,
+                        6.794834
+                  ]
+            },
+            {
+                  "name": "New Mosque",
+                  "text": "Modern iszlám épület, amely a Demerara-folyó menti közösségeket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167853,
+                        6.796863
+                  ]
+            },
+            {
+                  "name": "Faith Tabernacle AGS",
+                  "text": "Az Assemblies of God egyháza a Demerara-folyó buja természeti régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.165171,
+                        6.796099
+                  ]
+            },
+            {
+                  "name": "La Penitance Market",
+                  "text": "Georgetown történelmi vízparti piaca, ahol helyi élelmiszereket és kézműves termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.168069,
+                        6.800879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church",
+                  "text": "Un lăcaș de cult creștin liniștit într-o comunitate de pe malul râului Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.164048,
+                        6.794834
+                  ]
+            },
+            {
+                  "name": "New Mosque",
+                  "text": "O structură islamică modernă care deservește comunitățile de lângă râul Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167853,
+                        6.796863
+                  ]
+            },
+            {
+                  "name": "Faith Tabernacle AGS",
+                  "text": "O biserică Assemblies of God situată în regiunea naturală luxuriantă a râului Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.165171,
+                        6.796099
+                  ]
+            },
+            {
+                  "name": "La Penitance Market",
+                  "text": "O piață istorică de pe malul apei din Georgetown, care oferă alimente și obiecte de artizanat locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.168069,
+                        6.800879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church",
+                  "text": "A peaceful Christian house of worship in a riverside community along the Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.164048,
+                        6.794834
+                  ]
+            },
+            {
+                  "name": "New Mosque",
+                  "text": "A modern Islamic structure serving the communities near the Demerara River.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167853,
+                        6.796863
+                  ]
+            },
+            {
+                  "name": "Faith Tabernacle AGS",
+                  "text": "An Assemblies of God church located in the lush natural region of the Demerara River.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.165171,
+                        6.796099
+                  ]
+            },
+            {
+                  "name": "La Penitance Market",
+                  "text": "A historic waterfront market in Georgetown offering local food and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.168069,
+                        6.800879
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GY-UD",
     coords: [-58.17, 6.8],
@@ -71,7 +953,448 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["Longueur d'environ 346 km", "Se jette dans l'Atlantique au niveau de Georgetown", "Navigable pour les navires de haute mer jusqu'à 100 km", "Enjambé par le Demerara Harbour Bridge", "A donné son nom à l'ancienne colonie de Demerara", "Centre de l'industrie de la bauxite du Guyana"],
     },
   }, {
-    id: "guyana-berbice-river-nature-v2",
+    id: "guyana-berbice-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "No. 3 school dam",
+                  "text": "Dieser lokale Dammweg bietet weite, malerische Ausblicke über die ländliche Agrarlandschaft und die nahe gelegenen Wasserwege.",
+                  "category": "natural",
+                  "coords": [
+                        -57.546083,
+                        6.302152
+                  ]
+            },
+            {
+                  "name": "Berbice Bridge",
+                  "text": "Diese schwimmende Ponton-Mautbrücke überspannt den breiten Berbice River und ist eine wichtige Verbindung zwischen den Städten Rosignol und Neu-Amsterdam.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.527794,
+                        6.281067
+                  ]
+            },
+            {
+                  "name": "Cotton Tree Church of Christ",
+                  "text": "Diese christliche Gemeindekirche in der am Flussufer gelegenen Siedlung dient dem Dorf mit wöchentlicher spiritueller Führung.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.548358,
+                        6.291325
+                  ]
+            },
+            {
+                  "name": "Shieldstown Mandir",
+                  "text": "Dieser Tempel im ruhigen Dorf Shieldstown ist ein zentraler Ort für hinduistische Andachtsübungen und Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543781,
+                        6.270385
+                  ]
+            },
+            {
+                  "name": "Lifespring Ministries Rosignol",
+                  "text": "Dieser aktive christliche Dienst arbeitet in der lebhaften Flussuferstadt Rosignol und bietet Gottesdienste und Gemeindeunterstützung.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541131,
+                        6.276797
+                  ]
+            },
+            {
+                  "name": "Rosignol - D' Edward Sunnahtul Jamaat",
+                  "text": "Dieses prominente islamische Zentrum verbindet die Gemeinden D'Edward und Rosignol und erleichtert die täglichen Gemeinschaftsgebete und Lehren.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.53942,
+                        6.277272
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Zeugen Jehovas aus den umliegenden Flussdörfern versammeln sich in diesem gepflegten Saal zu ihren biblischen Zusammenkünften.",
+                  "category": "religious",
+                  "coords": [
+                        -57.536943,
+                        6.279847
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Diese örtliche Kapelle ist an ihrer typischen, gepflegten Architektur zu erkennen und dient der Gemeinde der Heiligen der Letzten Tage in der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.540294,
+                        6.283218
+                  ]
+            },
+            {
+                  "name": "Guardian Angels Roman Catholic Church",
+                  "text": "Diese katholische Pfarrkirche steht als Zeugnis für die langjährige römisch-katholische Präsenz in der Küstenregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.538557,
+                        6.282716
+                  ]
+            },
+            {
+                  "name": "No.3 Mosque",
+                  "text": "Diese Moschee in der Nachbarschaft dient den Gläubigen von Dorf Nummer 3 und ist dem täglichen islamischen Gottesdienst gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.552355,
+                        6.306559
+                  ]
+            },
+            {
+                  "name": "Rosignol daily Open-air Market",
+                  "text": "An diesen von lokalen Verkäufern belebten Ständen gibt es täglich ein frisches Angebot an landwirtschaftlichen Produkten und regionalem Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.540531,
+                        6.273552
+                  ]
+            },
+            {
+                  "name": "Rosignol - Zeelust N.D.C. weekly market",
+                  "text": "Dieser lebhafte Wochenmarkt, der vom örtlichen Gemeinderat organisiert wird, zieht Bauern und Händler von der Küste an, die hier ihre frischen Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.537609,
+                        6.270993
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "No. 3 school dam",
+                  "text": "Ez a helyi gátösvény széles, festői kilátást nyújt a vidéki mezőgazdasági tájra és a közeli vízi utakra.",
+                  "category": "natural",
+                  "coords": [
+                        -57.546083,
+                        6.302152
+                  ]
+            },
+            {
+                  "name": "Berbice Bridge",
+                  "text": "Ez az úszó ponton fizetős híd ível át a széles Berbice folyón, és kulcsfontosságú összeköttetést biztosít Rosignol és New Amsterdam városai között.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.527794,
+                        6.281067
+                  ]
+            },
+            {
+                  "name": "Cotton Tree Church of Christ",
+                  "text": "A folyóparti településen található keresztény közösségi templom heti spirituális útmutatással szolgálja a falut.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.548358,
+                        6.291325
+                  ]
+            },
+            {
+                  "name": "Shieldstown Mandir",
+                  "text": "A csendes Shieldstown faluban található templom a hindu áhítat és szertartások központi helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543781,
+                        6.270385
+                  ]
+            },
+            {
+                  "name": "Lifespring Ministries Rosignol",
+                  "text": "A nyüzsgő folyóparti városban, Rosignolban működő aktív keresztény szolgálat istentiszteleteket és közösségi támogatást nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541131,
+                        6.276797
+                  ]
+            },
+            {
+                  "name": "Rosignol - D' Edward Sunnahtul Jamaat",
+                  "text": "A D'Edward és Rosignol közösségeket összekötő kiemelkedő iszlám központ napi gyülekezeti imákat és tanításokat tart.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.53942,
+                        6.277272
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A környező folyómenti falvakból érkező Jehova Tanúi ebben a jól karbantartott teremben gyűlnek össze bibliai találkozóikra.",
+                  "category": "religious",
+                  "coords": [
+                        -57.536943,
+                        6.279847
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A szabványos, letisztult építészetéről felismerhető helyi kápolna a környék Utolsó Napok Szentjei gyülekezetét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.540294,
+                        6.283218
+                  ]
+            },
+            {
+                  "name": "Guardian Angels Roman Catholic Church",
+                  "text": "Ez a katolikus plébániatemplom a római katolikusok régóta fennálló jelenlétét bizonyítja a part menti régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.538557,
+                        6.282716
+                  ]
+            },
+            {
+                  "name": "No.3 Mosque",
+                  "text": "A 3-as számú falu hívőit szolgáló szomszédsági mecset a napi iszlám istentiszteletek helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.552355,
+                        6.306559
+                  ]
+            },
+            {
+                  "name": "Rosignol daily Open-air Market",
+                  "text": "A helyi árusoktól nyüzsgő standok naponta friss mezőgazdasági termékeket és regionális kézműves termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.540531,
+                        6.273552
+                  ]
+            },
+            {
+                  "name": "Rosignol - Zeelust N.D.C. weekly market",
+                  "text": "A helyi tanács által szervezett nyüzsgő heti piac vonzza a gazdákat és a kereskedőket a part mentén, hogy friss áruikat értékesítsék.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.537609,
+                        6.270993
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "No. 3 school dam",
+                  "text": "Această cărare pe un baraj local oferă vederi ample și pitorești asupra peisajului agricol rural și a cursurilor de apă din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -57.546083,
+                        6.302152
+                  ]
+            },
+            {
+                  "name": "Berbice Bridge",
+                  "text": "Acest pod plutitor cu taxă pe pontoane traversează râul larg Berbice, conectând în mod esențial orașele Rosignol și New Amsterdam.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.527794,
+                        6.281067
+                  ]
+            },
+            {
+                  "name": "Cotton Tree Church of Christ",
+                  "text": "Situată în așezarea de pe malul râului, această biserică a comunității creștine servește satul cu îndrumare spirituală săptămânală.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.548358,
+                        6.291325
+                  ]
+            },
+            {
+                  "name": "Shieldstown Mandir",
+                  "text": "Situat în satul liniștit Shieldstown, acest templu acționează ca un sit central pentru practicile devotate și ceremoniile hinduse.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543781,
+                        6.270385
+                  ]
+            },
+            {
+                  "name": "Lifespring Ministries Rosignol",
+                  "text": "Operând în vibrantul oraș riveran Rosignol, această lucrare creștină activă oferă slujbe de închinare și sprijin comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541131,
+                        6.276797
+                  ]
+            },
+            {
+                  "name": "Rosignol - D' Edward Sunnahtul Jamaat",
+                  "text": "Făcând legătura între comunitățile D'Edward și Rosignol, acest centru islamic proeminent facilitează rugăciunile și învățăturile congregaționale zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.53942,
+                        6.277272
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Martorii lui Iehova din satele riverane învecinate se adună în această sală bine întreținută pentru întâlnirile lor scripturale.",
+                  "category": "religious",
+                  "coords": [
+                        -57.536943,
+                        6.279847
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Recunoscută după arhitectura sa standard îngrijită, această capelă locală deservește congregația Sfinților din Zilele din Urmă din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.540294,
+                        6.283218
+                  ]
+            },
+            {
+                  "name": "Guardian Angels Roman Catholic Church",
+                  "text": "Această biserică parohială catolică stă ca o mărturie a prezenței romano-catolice îndelungate în regiunea de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.538557,
+                        6.282716
+                  ]
+            },
+            {
+                  "name": "No.3 Mosque",
+                  "text": "Deservind credincioșii din satul numărul 3, această moschee de cartier este dedicată cultului islamic zilnic.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.552355,
+                        6.306559
+                  ]
+            },
+            {
+                  "name": "Rosignol daily Open-air Market",
+                  "text": "Pline de vânzători locali, aceste tarabe oferă o aprovizionare zilnică cu produse agricole proaspete și meșteșuguri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.540531,
+                        6.273552
+                  ]
+            },
+            {
+                  "name": "Rosignol - Zeelust N.D.C. weekly market",
+                  "text": "Organizată de consiliul local, această piață săptămânală plină de viață atrage fermieri și comercianți de-a lungul coastei pentru a vinde bunuri proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.537609,
+                        6.270993
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "No. 3 school dam",
+                  "text": "This local dam pathway offers wide, scenic vistas across the rural agricultural landscape and nearby waterways.",
+                  "category": "natural",
+                  "coords": [
+                        -57.546083,
+                        6.302152
+                  ]
+            },
+            {
+                  "name": "Berbice Bridge",
+                  "text": "This floating pontoon toll bridge spans the wide Berbice River, crucially connecting the towns of Rosignol and New Amsterdam.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.527794,
+                        6.281067
+                  ]
+            },
+            {
+                  "name": "Cotton Tree Church of Christ",
+                  "text": "Located in the riverside settlement, this Christian community church serves the village with weekly spiritual guidance.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.548358,
+                        6.291325
+                  ]
+            },
+            {
+                  "name": "Shieldstown Mandir",
+                  "text": "Set within the quiet village of Shieldstown, this temple acts as a central site for Hindu devotional practices and ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543781,
+                        6.270385
+                  ]
+            },
+            {
+                  "name": "Lifespring Ministries Rosignol",
+                  "text": "Operating in the vibrant riverside town of Rosignol, this active Christian ministry provides worship services and community support.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541131,
+                        6.276797
+                  ]
+            },
+            {
+                  "name": "Rosignol - D' Edward Sunnahtul Jamaat",
+                  "text": "Bridging the D'Edward and Rosignol communities, this prominent Islamic center facilitates daily congregational prayers and teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.53942,
+                        6.277272
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Jehovah's Witnesses from the surrounding riverside villages gather at this well-kept hall for their scriptural meetings.",
+                  "category": "religious",
+                  "coords": [
+                        -57.536943,
+                        6.279847
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Recognizable by its standard neat architecture, this local chapel serves the area's Latter-day Saint congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.540294,
+                        6.283218
+                  ]
+            },
+            {
+                  "name": "Guardian Angels Roman Catholic Church",
+                  "text": "This Catholic parish church stands as a testament to the long-standing Roman Catholic presence in the coastal region.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.538557,
+                        6.282716
+                  ]
+            },
+            {
+                  "name": "No.3 Mosque",
+                  "text": "Serving the faithful of Village Number 3, this neighborhood mosque is dedicated to daily Islamic worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.552355,
+                        6.306559
+                  ]
+            },
+            {
+                  "name": "Daily Market Stalls",
+                  "text": "Bustling with local vendors, these stalls offer a daily supply of fresh agricultural produce and regional crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.540531,
+                        6.273552
+                  ]
+            },
+            {
+                  "name": "Rosignol - Zeelust N.D.C. weekly market",
+                  "text": "Organized by the local council, this lively weekly market draws farmers and traders from along the coast to sell fresh goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.537609,
+                        6.270993
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GY-EB",
     coords: [-57.53, 6.27],
@@ -106,7 +1429,520 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["Longueur d'environ 595 km", "Se jette dans l'Atlantique près de New Amsterdam", "Théâtre de la révolte des esclaves de 1763", "Le pont sur la rivière Berbice a été ouvert en 2008", "Importante pour l'industrie du bois et l'agriculture", "Navigable sur environ 160 km en amont"],
     },
   }, {
-    id: "guyana-corentyne-river-nature-v2",
+    id: "guyana-corentyne-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "No. 63 Beach",
+                  "text": "Ein berühmter guyanischer Sandstrand, der sich kontinuierlich an der Küste in der Nähe des Corentyne-Flusses erstreckt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.144302,
+                        5.986488
+                  ]
+            },
+            {
+                  "name": "Masjid Waheda",
+                  "text": "Eine lokale islamische Moschee, die der muslimischen Gemeinde in der Nähe des Corentyne-Flusses als Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.149698,
+                        5.908067
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Ein traditioneller Hindu-Tempel, der als spirituelles Zentrum in der Region des Corentyne-Flusses dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.14485,
+                        5.910172
+                  ]
+            },
+            {
+                  "name": "Khalid Complex",
+                  "text": "Ein islamisches Zentrum und ein Komplex, der das religiöse Leben und die Versammlungen der Muslime in der Corentyne-Region unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.146333,
+                        5.919336
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "Ein christliches Gotteshaus nach presbyterianischer Tradition in der Nähe der Ufer des Corentyne-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150628,
+                        5.936107
+                  ]
+            },
+            {
+                  "name": "Chosen Generation Church of God",
+                  "text": "Eine lebendige christliche Kirchengemeinde, die sich um die spirituellen Bedürfnisse der Bewohner der Corentyne-Region kümmert.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.15085,
+                        5.937259
+                  ]
+            },
+            {
+                  "name": "No. 70 Sunnatul Jammat",
+                  "text": "Eine islamische Moschee im Dorfgebiet Nr. 70, die der Sunnatul-Jammat-Gemeinde gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150225,
+                        5.940256
+                  ]
+            },
+            {
+                  "name": "No. 71 Masjid",
+                  "text": "Ein prominentes muslimisches Gotteshaus, das der lokalen Gemeinschaft im Dorf Nr. 71 an der Corentyne-Küste dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.15059,
+                        5.938664
+                  ]
+            },
+            {
+                  "name": "No. 75 First Baptist Church",
+                  "text": "Eine christliche Baptisten-Gemeinde, die regelmäßige Gottesdienste und Versammlungen im Dorfgebiet Nr. 75 abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.148788,
+                        5.926564
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "Ein lebendiger Hindu-Tempel, in dessen Mittelpunkt die Verehrung und die Feste von Lord Krishna stehen.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.149293,
+                        5.961226
+                  ]
+            },
+            {
+                  "name": "Roadside Baptist Church",
+                  "text": "Eine einladende christliche Baptistenkirche, die gut sichtbar an der Hauptküstenstraße der Region liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.14687,
+                        5.952773
+                  ]
+            },
+            {
+                  "name": "Living Stone Baptist Church",
+                  "text": "Ein christliches Gotteshaus, das der lokalen Gemeinde in Corentyne treue Baptisten-Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.165486,
+                        6.015402
+                  ]
+            },
+            {
+                  "name": "No. 56 Full Gospel",
+                  "text": "Eine christliche Full-Gospel-Kirche, die den Bewohnern des Dorfes Nr. 56 spirituelle Führung und Gebetsdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.168474,
+                        6.019644
+                  ]
+            },
+            {
+                  "name": "No. 54 Church of God",
+                  "text": "Eine christliche Gemeinde, die der Church of God im Dorf Nr. 54 angehört und den lokalen Gläubigen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.173802,
+                        6.031845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "No. 63 Beach",
+                  "text": "Egy híres guyanai homokos partvidék, amely folyamatosan húzódik a part mentén a Corentyne folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.144302,
+                        5.986488
+                  ]
+            },
+            {
+                  "name": "Masjid Waheda",
+                  "text": "Egy helyi iszlám mecset, amely imádkozási helyet biztosít a muszlim közösség számára a Corentyne folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.149698,
+                        5.908067
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Egy hagyományos hindu templom, amely spirituális központként szolgál a Corentyne folyó régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.14485,
+                        5.910172
+                  ]
+            },
+            {
+                  "name": "Khalid Complex",
+                  "text": "Egy iszlám központ és komplexum, amely támogatja a Corentyne térség muszlimjainak vallási életét és összejöveteleit.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.146333,
+                        5.919336
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "Egy presbiteriánus hagyományokat követő keresztény istentiszteleti hely a Corentyne folyó partja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150628,
+                        5.936107
+                  ]
+            },
+            {
+                  "name": "Chosen Generation Church of God",
+                  "text": "Egy élénk keresztény gyülekezet, amely a Corentyne régió lakóinak spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.15085,
+                        5.937259
+                  ]
+            },
+            {
+                  "name": "No. 70 Sunnatul Jammat",
+                  "text": "A 70-es falu területén található iszlám mecset, amelyet a Sunnatul Jammat gyülekezetnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150225,
+                        5.940256
+                  ]
+            },
+            {
+                  "name": "No. 71 Masjid",
+                  "text": "Egy kiemelkedő muszlim istentiszteleti hely, amely a 71-es falu helyi közösségét szolgálja a Corentyne partja mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.15059,
+                        5.938664
+                  ]
+            },
+            {
+                  "name": "No. 75 First Baptist Church",
+                  "text": "Egy keresztény baptista gyülekezet, amely rendszeres istentiszteleteket és összejöveteleket tart a 75-ös falu területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.148788,
+                        5.926564
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "Egy nyüzsgő hindu templom, amelynek középpontjában Krisna úr imádata és fesztiváljai állnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.149293,
+                        5.961226
+                  ]
+            },
+            {
+                  "name": "Roadside Baptist Church",
+                  "text": "Egy barátságos keresztény baptista templom, amely a régió fő tengerparti útja mentén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.14687,
+                        5.952773
+                  ]
+            },
+            {
+                  "name": "Living Stone Baptist Church",
+                  "text": "Egy keresztény istentiszteleti hely, amely hűséges baptista szolgálatokat nyújt a helyi Corentyne közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.165486,
+                        6.015402
+                  ]
+            },
+            {
+                  "name": "No. 56 Full Gospel",
+                  "text": "Egy keresztény teljes evangéliumi templom, amely spirituális útmutatást és imaszolgálatokat kínál az 56-os falu lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.168474,
+                        6.019644
+                  ]
+            },
+            {
+                  "name": "No. 54 Church of God",
+                  "text": "Az Isten Egyházához tartozó keresztény gyülekezet az 54-es faluban, amely a helyi híveket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.173802,
+                        6.031845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "No. 63 Beach",
+                  "text": "Un faimos țărm nisipos guyanez care se întinde continuu de-a lungul coastei lângă râul Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.144302,
+                        5.986488
+                  ]
+            },
+            {
+                  "name": "Masjid Waheda",
+                  "text": "O moschee islamică locală care oferă un loc de rugăciune pentru comunitatea musulmană din apropierea râului Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.149698,
+                        5.908067
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Un templu hindus tradițional care servește ca centru spiritual în regiunea râului Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.14485,
+                        5.910172
+                  ]
+            },
+            {
+                  "name": "Khalid Complex",
+                  "text": "Un centru și complex islamic care sprijină viața religioasă și adunările musulmanilor din zona Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.146333,
+                        5.919336
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "Un lăcaș de cult creștin de tradiție prezbiteriană situat în apropierea malurilor râului Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150628,
+                        5.936107
+                  ]
+            },
+            {
+                  "name": "Chosen Generation Church of God",
+                  "text": "O congregație bisericească creștină plină de viață care deservește nevoile spirituale ale rezidenților din regiunea Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.15085,
+                        5.937259
+                  ]
+            },
+            {
+                  "name": "No. 70 Sunnatul Jammat",
+                  "text": "O moschee islamică situată în zona satului nr. 70, dedicată congregației Sunnatul Jammat.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150225,
+                        5.940256
+                  ]
+            },
+            {
+                  "name": "No. 71 Masjid",
+                  "text": "Un lăcaș de cult musulman proeminent care deservește comunitatea locală din satul nr. 71 de-a lungul coastei Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.15059,
+                        5.938664
+                  ]
+            },
+            {
+                  "name": "No. 75 First Baptist Church",
+                  "text": "O congregație creștină baptistă care organizează slujbe și adunări regulate în zona satului nr. 75.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.148788,
+                        5.926564
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "Un templu hindus vibrant centrat în jurul venerării și festivalurilor Lordului Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.149293,
+                        5.961226
+                  ]
+            },
+            {
+                  "name": "Roadside Baptist Church",
+                  "text": "O biserică baptistă creștină primitoare situată vizibil de-a lungul drumului principal de coastă al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.14687,
+                        5.952773
+                  ]
+            },
+            {
+                  "name": "Living Stone Baptist Church",
+                  "text": "Un lăcaș de cult creștin care oferă slujbe baptiste credincioșilor comunității locale din Corentyne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.165486,
+                        6.015402
+                  ]
+            },
+            {
+                  "name": "No. 56 Full Gospel",
+                  "text": "O biserică creștină a Evangheliei Depline care oferă îndrumare spirituală și slujbe de rugăciune locuitorilor din satul nr. 56.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.168474,
+                        6.019644
+                  ]
+            },
+            {
+                  "name": "No. 54 Church of God",
+                  "text": "O congregație creștină afiliată Bisericii lui Dumnezeu, situată în satul nr. 54, deservind credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.173802,
+                        6.031845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "No. 63 Beach",
+                  "text": "A famous Guyanese sandy shoreline stretching continuously along the coast near the Corentyne River.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.144302,
+                        5.986488
+                  ]
+            },
+            {
+                  "name": "Masjid Waheda",
+                  "text": "A local Islamic mosque providing a place of prayer for the Muslim community near the Corentyne River.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.149698,
+                        5.908067
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "A traditional Hindu temple serving as a spiritual center in the Corentyne River region.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.14485,
+                        5.910172
+                  ]
+            },
+            {
+                  "name": "Khalid Complex",
+                  "text": "An Islamic center and complex supporting the religious life and gatherings of Muslims in the Corentyne area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.146333,
+                        5.919336
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "A Christian place of worship following the Presbyterian tradition near the banks of the Corentyne River.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150628,
+                        5.936107
+                  ]
+            },
+            {
+                  "name": "Chosen Generation Church of God",
+                  "text": "A lively Christian church congregation serving the spiritual needs of residents in the Corentyne region.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.15085,
+                        5.937259
+                  ]
+            },
+            {
+                  "name": "No. 70 Sunnatul Jammat",
+                  "text": "An Islamic mosque located in the No. 70 village area, dedicated to the Sunnatul Jammat congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150225,
+                        5.940256
+                  ]
+            },
+            {
+                  "name": "No. 71 Masjid",
+                  "text": "A prominent Muslim place of worship serving the local community in village No. 71 along the Corentyne coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.15059,
+                        5.938664
+                  ]
+            },
+            {
+                  "name": "No. 75 First Baptist Church",
+                  "text": "A Christian Baptist congregation holding regular services and gatherings in the No. 75 village area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.148788,
+                        5.926564
+                  ]
+            },
+            {
+                  "name": "Krishna Mandir",
+                  "text": "A vibrant Hindu temple centered around the worship and festivals of Lord Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.149293,
+                        5.961226
+                  ]
+            },
+            {
+                  "name": "Roadside Baptist Church",
+                  "text": "A welcoming Christian Baptist church situated visibly along the region's main coastal road.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.14687,
+                        5.952773
+                  ]
+            },
+            {
+                  "name": "Living Stone Baptist Church",
+                  "text": "A Christian house of worship providing faithful Baptist services to the local Corentyne community.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.165486,
+                        6.015402
+                  ]
+            },
+            {
+                  "name": "No. 56 Full Gospel",
+                  "text": "A Christian Full Gospel church offering spiritual guidance and prayer services to the residents of village No. 56.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.168474,
+                        6.019644
+                  ]
+            },
+            {
+                  "name": "No. 54 Church of God",
+                  "text": "A Christian congregation affiliated with the Church of God located in No. 54 village, serving the local faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.173802,
+                        6.031845
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GY-EB",
     coords: [-57.14, 5.95],
@@ -316,7 +2152,88 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["La rivière Barima a une longueur d'environ 340 kilomètres.", "Elle se jette dans l'océan à seulement quelques kilomètres à l'est du delta de l'Orénoque.", "Les marées de l'Atlantique sont perceptibles loin à l'intérieur des terres.", "Morawhanna est l'un des rares établissements permanents sur la rivière.", "Dans les années 1890, la rivière était au cœur du conflit frontalier vénézuélien.", "La région de Barima-Waini est connue pour ses marécages de mangroves."],
     },
   }, {
-    id: "guyana-pomeroon-river-nature-v2",
+    id: "guyana-pomeroon-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Channel 2",
+                  "text": "Der Aussichtspunkt Channel 2 bietet Beobachtern einen freien Blick auf die Wasserwege entlang des Pomeroon-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        -58.803371,
+                        7.673951
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Der Aussichtspunkt End markiert einen Beobachtungsposten am Wasser in der Region des Pomeroon-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        -58.800353,
+                        7.675224
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Channel 2",
+                  "text": "A Channel 2 kilátópont szabad rálátást biztosít a megfigyelők számára a Pomeroon folyó menti vízi utakra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.803371,
+                        7.673951
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Az End kilátópont egy vízparti megfigyelőállomást jelöl a Pomeroon folyó régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -58.800353,
+                        7.675224
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Channel 2",
+                  "text": "Punctul de belvedere Channel 2 oferă observatorilor o vedere neobstrucționată asupra căilor navigabile de-a lungul râului Pomeroon.",
+                  "category": "natural",
+                  "coords": [
+                        -58.803371,
+                        7.673951
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Punctul de belvedere End marchează un post de observație pe malul apei în regiunea râului Pomeroon.",
+                  "category": "natural",
+                  "coords": [
+                        -58.800353,
+                        7.675224
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Channel 2",
+                  "text": "The Channel 2 viewpoint offers observers a clear sightline over the waterways along the Pomeroon River.",
+                  "category": "natural",
+                  "coords": [
+                        -58.803371,
+                        7.673951
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "The End viewpoint marks a waterside observation post in the Pomeroon River region.",
+                  "category": "natural",
+                  "coords": [
+                        -58.800353,
+                        7.675224
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GY-PM",
     coords: [-58.74, 7.61],
@@ -526,7 +2443,52 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["Superficie de 3 710 km² au centre du Guyana", "Fondée en 1996 par une loi nationale", "Abrite plus de 500 espèces d'oiseaux", "Le point culminant est le mont Iwokrama", "Abrite l'Arapaima, le plus grand poisson à écailles", "Collaboration avec 20 villages Makushi locaux"],
     },
   }, {
-    id: "guyana-sloth-island-nature-v2",
+    id: "guyana-sloth-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sloth Island",
+                  "text": "Ein Ökotourismus-Inselreservat, das für seine namensgebende Population wilder Faultiere und seine vielfältige Vogelwelt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.596435,
+                        6.370113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sloth Island",
+                  "text": "Ökoturisztikai szigetrezervátum, amely a nevét adó vadon élő lajhárpopulációjáról és gazdag madárvilágáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.596435,
+                        6.370113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sloth Island",
+                  "text": "O rezervație insulară de ecoturism renumită pentru populația sa omonimă de leneși sălbatici și păsările diverse.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.596435,
+                        6.370113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sloth Island",
+                  "text": "An ecotourism island reserve renowned for its namesake population of wild sloths and diverse birdlife.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.596435,
+                        6.370113
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GY-CU",
     coords: [-58.61, 6.38],
@@ -561,7 +2523,52 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["Superficie d'environ 160 hectares.", "Située sur le fleuve Essequibo près de Bartica.", "Abrite plus de 180 espèces d'oiseaux.", "L'attraction principale est le paresseux à trois doigts.", "Accessible uniquement par bateau.", "Éco-resort privé."],
     },
   }, {
-    id: "guyana-hogg-island-nature-v2",
+    id: "guyana-hogg-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Main navigation start point",
+                  "text": "Ein Aussichtspunkt, der den wichtigsten Startpunkt für die Flussschifffahrt rund um Hogg Island markiert.",
+                  "category": "natural",
+                  "coords": [
+                        -58.472168,
+                        6.75921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Main navigation start point",
+                  "text": "A Hogg-sziget körüli folyami hajózás elsődleges kiindulópontját jelző kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        -58.472168,
+                        6.75921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Main navigation start point",
+                  "text": "Un punct de belvedere care marchează punctul principal de plecare pentru navigația fluvială în jurul Insulei Hogg.",
+                  "category": "natural",
+                  "coords": [
+                        -58.472168,
+                        6.75921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Main navigation start point",
+                  "text": "A viewpoint marking the primary starting point for riverboat navigation around Hogg Island.",
+                  "category": "natural",
+                  "coords": [
+                        -58.472168,
+                        6.75921
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GY-ES",
     coords: [-58.46, 6.8],
@@ -596,7 +2603,124 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["Plus grande île du Guyana", "Superficie d'environ 60 km²", "Plus grande que l'État insulaire des Bermudes", "Située dans l'embouchure de l'Essequibo", "Le principal secteur économique est la riziculture", "Uniquement accessible par bateau"],
     },
   }, {
-    id: "guyana-wakenaam-island-nature-v2",
+    id: "guyana-wakenaam-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Julie Sooklall Memorial",
+                  "text": "Ein spezielles Gedenkmonument zu Ehren von Julie Sooklall auf Wakenaam Island.",
+                  "category": "historical",
+                  "coords": [
+                        -58.46352,
+                        6.949018
+                  ]
+            },
+            {
+                  "name": "Aurora Masjid",
+                  "text": "Eine islamische Moschee, die als zentraler Ort der Anbetung für die muslimische Gemeinschaft auf der Insel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.48986,
+                        7.008046
+                  ]
+            },
+            {
+                  "name": "Meer-Zorg Vishwa Jyoti Mandir",
+                  "text": "Ein lebhafter Hindu-Mandir, der als spirituelles und kulturelles Zentrum für die Gläubigen in Meer-Zorg dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.438885,
+                        6.984122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Julie Sooklall Memorial",
+                  "text": "Különleges emlékmű, amely Julie Sooklall előtt tiszteleg a Wakenaam-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        -58.46352,
+                        6.949018
+                  ]
+            },
+            {
+                  "name": "Aurora Masjid",
+                  "text": "Iszlám mecset, amely központi istentiszteleti helyet biztosít a szigeten élő muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.48986,
+                        7.008046
+                  ]
+            },
+            {
+                  "name": "Meer-Zorg Vishwa Jyoti Mandir",
+                  "text": "Élénk hindu mandir, amely spirituális és kulturális központként szolgál a hívők számára Meer-Zorgban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.438885,
+                        6.984122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Julie Sooklall Memorial",
+                  "text": "Un monument memorial dedicat, care aduce un omagiu lui Julie Sooklall pe Insula Wakenaam.",
+                  "category": "historical",
+                  "coords": [
+                        -58.46352,
+                        6.949018
+                  ]
+            },
+            {
+                  "name": "Aurora Masjid",
+                  "text": "O moschee islamică care oferă un loc central de cult pentru comunitatea musulmană de pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.48986,
+                        7.008046
+                  ]
+            },
+            {
+                  "name": "Meer-Zorg Vishwa Jyoti Mandir",
+                  "text": "Un mandir hindus vibrant care servește ca un centru spiritual și cultural pentru credincioșii din Meer-Zorg.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.438885,
+                        6.984122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Julie Sooklall Memorial",
+                  "text": "A dedicated memorial monument paying tribute to Julie Sooklall on Wakenaam Island.",
+                  "category": "historical",
+                  "coords": [
+                        -58.46352,
+                        6.949018
+                  ]
+            },
+            {
+                  "name": "Aurora Masjid",
+                  "text": "An Islamic mosque providing a central place of worship for the Muslim community on the island.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.48986,
+                        7.008046
+                  ]
+            },
+            {
+                  "name": "Meer-Zorg Vishwa Jyoti Mandir",
+                  "text": "A vibrant Hindu mandir serving as a spiritual and cultural hub for devotees in Meer-Zorg.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.438885,
+                        6.984122
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GY-ES",
     coords: [-58.48, 6.95],
@@ -631,7 +2755,268 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["Nom d'origine néerlandaise signifiant 'Nom en attente'.", "Superficie d'environ 45 km².", "Le centre administratif est Sans Souci.", "Important producteur de noix de coco.", "Située dans l'embouchure de l'Essequibo.", "Liaison régulière par ferry vers Parika."],
     },
   }, {
-    id: "guyana-leguan-island-nature-v2",
+    id: "guyana-leguan-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "End",
+                  "text": "Aussichtspunkt am Flussufer, der den Endpunkt eines Küstenwegs auf Leguan Island markiert.",
+                  "category": "natural",
+                  "coords": [
+                        -58.219155,
+                        6.833502
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Aussichtspunkt am Ausgangspunkt, der den ersten Blick auf die Flussuferlandschaften der Insel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.233239,
+                        6.845591
+                  ]
+            },
+            {
+                  "name": "Kaashi Dhaam",
+                  "text": "Hinduistischer Ashram, der einen friedlichen spirituellen Rückzugsort in der Nähe der Flussufer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.227704,
+                        6.84204
+                  ]
+            },
+            {
+                  "name": "Hanuman Statue",
+                  "text": "Hoch aufragende Andachtsskulptur, die den hinduistischen Affengott Hanuman darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.228201,
+                        6.840708
+                  ]
+            },
+            {
+                  "name": "Windsor Forest Masjid",
+                  "text": "Lokale Moschee, die in Windsor Forest einen Ort für islamische Gebete und Gemeindetreffen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.236226,
+                        6.847751
+                  ]
+            },
+            {
+                  "name": "Aum Sai Ram",
+                  "text": "Hinduistischer Schrein, der mit Andachtssymbolen geschmückt ist, die der spirituellen Figur Sai Baba gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.234378,
+                        6.847071
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Dieser christliche Königreichssaal dient als zentraler Versammlungsort für die Gläubigen in der ländlichen Inselgemeinde Leguan.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.254984,
+                        6.855941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "End",
+                  "text": "Folyóparti kilátó, amely egy tengerparti ösvény végállomását jelzi a Leguan-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -58.219155,
+                        6.833502
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Az ösvény kezdeténél lévő kilátó, ahonnan először pillanthatjuk meg a sziget folyóparti tájait.",
+                  "category": "natural",
+                  "coords": [
+                        -58.233239,
+                        6.845591
+                  ]
+            },
+            {
+                  "name": "Kaashi Dhaam",
+                  "text": "Hindu ásram, amely békés spirituális menedéket kínál a folyópartok közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.227704,
+                        6.84204
+                  ]
+            },
+            {
+                  "name": "Hanuman Statue",
+                  "text": "A hindu majomistent, Hanumánt ábrázoló magasztos áhítatos szobor.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.228201,
+                        6.840708
+                  ]
+            },
+            {
+                  "name": "Windsor Forest Masjid",
+                  "text": "Helyi mecset, amely az iszlám ima és a közösségi összejövetelek helyszíne Windsor Forestben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.236226,
+                        6.847751
+                  ]
+            },
+            {
+                  "name": "Aum Sai Ram",
+                  "text": "A spirituális alaknak, Sai Babának szentelt, áhítatos szimbólumokkal díszített hindu szentély.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.234378,
+                        6.847071
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ez a keresztény Királyság-terem a vidéki Leguan-sziget közösségének központi hitéleti gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.254984,
+                        6.855941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "End",
+                  "text": "Punct de belvedere pe malul râului marcând capătul unui traseu de coastă pe Insula Leguan.",
+                  "category": "natural",
+                  "coords": [
+                        -58.219155,
+                        6.833502
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Punct de belvedere la începutul traseului, oferind prima privire asupra peisajelor de pe malul râului de pe insulă.",
+                  "category": "natural",
+                  "coords": [
+                        -58.233239,
+                        6.845591
+                  ]
+            },
+            {
+                  "name": "Kaashi Dhaam",
+                  "text": "Un așezământ hindus ce oferă un refugiu spiritual pașnic lângă malurile râului.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.227704,
+                        6.84204
+                  ]
+            },
+            {
+                  "name": "Hanuman Statue",
+                  "text": "Sculptură devoțională impunătoare ce îl înfățișează pe zeul maimuță hindus Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.228201,
+                        6.840708
+                  ]
+            },
+            {
+                  "name": "Windsor Forest Masjid",
+                  "text": "Moschee locală oferind un loc de rugăciune islamică și adunare comunitară în Windsor Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.236226,
+                        6.847751
+                  ]
+            },
+            {
+                  "name": "Aum Sai Ram",
+                  "text": "Altar hindus împodobit cu simboluri devoționale dedicate figurii spirituale Sai Baba.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.234378,
+                        6.847071
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Această Sală a Regatului creștină servește drept loc central de adunare pentru credincioșii din comunitatea rurală a insulei Leguan.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.254984,
+                        6.855941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "End",
+                  "text": "Riverside viewpoint marking the terminus of a coastal trail on Leguan Island.",
+                  "category": "natural",
+                  "coords": [
+                        -58.219155,
+                        6.833502
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Trailhead viewpoint offering the first glimpse of the riverbank landscapes on the island.",
+                  "category": "natural",
+                  "coords": [
+                        -58.233239,
+                        6.845591
+                  ]
+            },
+            {
+                  "name": "Kaashi Dhaam",
+                  "text": "Hindu ashram site offering a peaceful spiritual retreat near the riverbanks.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.227704,
+                        6.84204
+                  ]
+            },
+            {
+                  "name": "Hanuman Statue",
+                  "text": "Towering devotional sculpture depicting the Hindu monkey god Hanuman.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.228201,
+                        6.840708
+                  ]
+            },
+            {
+                  "name": "Windsor Forest Masjid",
+                  "text": "Local mosque providing a place of Islamic prayer and community gathering in Windsor Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.236226,
+                        6.847751
+                  ]
+            },
+            {
+                  "name": "Aum Sai Ram",
+                  "text": "Hindu shrine adorned with devotional symbols dedicated to the spiritual figure Sai Baba.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.234378,
+                        6.847071
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "This Christian Kingdom Hall serves as a central gathering place for worshippers in the rural Leguan Island community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.254984,
+                        6.855941
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "GY-ES",
     coords: [-58.26, 6.82],
@@ -666,7 +3051,52 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["L'île de Leguan a une superficie de 44 km².", "L'île a été colonisée au XVIIIe siècle par les Néerlandais.", "Le nombre d'habitants est d'environ 1 000.", "Le point culminant de l'île est à environ 2 m au-dessus du niveau de la mer.", "La saison des pluies dure de mai à août.", "Il y a 4 villages sur l'île."],
     },
   }, {
-    id: "guyana-shell-beach-nature-v2",
+    id: "guyana-shell-beach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Three Brothers",
+                  "text": "Der Aussichtspunkt Three Brothers bietet einen Blick auf die Küstenlandschaft der Shell Beach Region in Guyana.",
+                  "category": "natural",
+                  "coords": [
+                        -59.468658,
+                        8.171558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Three Brothers",
+                  "text": "A Three Brothers kilátópont a guyanai Shell Beach régió partvidéki tájára nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        -59.468658,
+                        8.171558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Three Brothers",
+                  "text": "Punctul de belvedere Three Brothers oferă o priveliște asupra peisajului de coastă al regiunii Shell Beach din Guyana.",
+                  "category": "natural",
+                  "coords": [
+                        -59.468658,
+                        8.171558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Three Brothers",
+                  "text": "The Three Brothers viewpoint offers a view of the coastal landscape of the Shell Beach region in Guyana.",
+                  "category": "natural",
+                  "coords": [
+                        -59.468658,
+                        8.171558
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "GY-BA",
     coords: [-59.4, 8.2],
@@ -701,7 +3131,52 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["Shell Beach s'étend sur 120 km de long.", "La plage a été classée zone protégée en 2010.", "Quatre espèces de tortues marines y nichent.", "Environ 2 000 nids sont enregistrés chaque année.", "La saison des tortues s'étend de mars à juillet.", "La plage est principalement constituée de fragments de coquillages."],
     },
   }, {
-    id: "guyana-mount-ayanganna-nature-v2",
+    id: "guyana-mount-ayanganna-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Ayanganna",
+                  "text": "Der Mount Ayanganna ist ein zerklüfteter, dicht bewaldeter Berg im Pakaraima-Gebirge, der sich durch steile Hänge auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.988687,
+                        5.386099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Ayanganna",
+                  "text": "A Mount Ayanganna egy zord, sűrű erdővel borított hegy a Pakaraima-hegységben, amelyet meredek lejtők jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        -59.988687,
+                        5.386099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Ayanganna",
+                  "text": "Muntele Ayanganna este un munte stâncos, împădurit dens din lanțul muntos Pakaraima, caracterizat de versanți abrupți.",
+                  "category": "natural",
+                  "coords": [
+                        -59.988687,
+                        5.386099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Ayanganna",
+                  "text": "Mount Ayanganna is a rugged, densely forested mountain in the Pakaraima range, characterized by steep slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -59.988687,
+                        5.386099
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GY-PT",
     coords: [-59.9, 5.38],
@@ -806,7 +3281,1024 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["Affluent du Rupununi.", "Patrie du gigantesque poisson Arapaima.", "Traverse les monts Kanuku.", "Centre important pour l'écotourisme.", "Présence des 8 espèces de singes du Guyana.", "Accessible uniquement par bateau."],
     },
   }, {
-    id: "guyana-takutu-river-nature-v2",
+    id: "guyana-takutu-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Land start front",
+                  "text": "Ein Aussichtspunkt am Flussufer, der Einblicke in die üppigen Uferzonen am Beginn der Takutu-Flussregion bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.755802,
+                        3.373229
+                  ]
+            },
+            {
+                  "name": "Back land part",
+                  "text": "Ein in Richtung Hinterland gelegener Beobachtungspunkt, der die dichte natürliche Vegetation nahe dem Takutu-Fluss zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -59.757787,
+                        3.371719
+                  ]
+            },
+            {
+                  "name": "Culvert 3",
+                  "text": "Ein lokaler Aussichtspunkt an einem Betondurchlass, ideal zur Beobachtung des saisonalen Wasserflusses am Takutu-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        -59.789504,
+                        3.365173
+                  ]
+            },
+            {
+                  "name": "Culvert 4",
+                  "text": "Ein Beobachtungsplatz neben einem Infrastrukturdurchlass, der das Wassermanagement der Region inmitten der Natur des Takutu-Flusses hervorhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -59.791006,
+                        3.366489
+                  ]
+            },
+            {
+                  "name": "Nis culvert",
+                  "text": "Ein Aussichtspunkt nahe dem Nis-Durchlass, der Blicke auf die umgebende Entwässerungslandschaft am Takutu-Fluss bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.796762,
+                        3.376368
+                  ]
+            },
+            {
+                  "name": "Tabatinga flooded area",
+                  "text": "Ein malerischer Aussichtspunkt über das überschwemmte Tabatinga-Gebiet, der eine hervorragende Perspektive auf das saisonale aquatische Ökosystem der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.802032,
+                        3.380636
+                  ]
+            },
+            {
+                  "name": "Tabatinga bridge",
+                  "text": "Ein Aussichtspunkt auf einer Brücke, der einen imposanten Blick über die fließenden Gewässer und Ufer des Takutu-Flusses bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.802261,
+                        3.379567
+                  ]
+            },
+            {
+                  "name": "Location culvert 2",
+                  "text": "Ein Aussichtspunkt am Wasser bei einem Betondurchlass zur Beobachtung der komplexen lokalen Entwässerungsmuster.",
+                  "category": "natural",
+                  "coords": [
+                        -59.806882,
+                        3.376354
+                  ]
+            },
+            {
+                  "name": "Tabatinga mouth",
+                  "text": "Ein strategischer Aussichtspunkt an der Mündung von Tabatinga mit Blick auf den Zusammenfluss der Wasserwege im Einzugsgebiet des Takutu-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        -59.808291,
+                        3.378108
+                  ]
+            },
+            {
+                  "name": "Cashew Grove Park",
+                  "text": "Eine Naturattraktion, die sich durch ihren Cashewbaumhain auszeichnet und einen schattigen Rückzugsort in der Nähe des Takutu-Flusses bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.806665,
+                        3.37439
+                  ]
+            },
+            {
+                  "name": "Boston culvert",
+                  "text": "Ein Beobachtungspunkt neben dem Boston-Durchlass mit Blick auf die Feuchtgebietsökosysteme des Takutu-Flusses.",
+                  "category": "natural",
+                  "coords": [
+                        -59.804718,
+                        3.375114
+                  ]
+            },
+            {
+                  "name": "RDC House",
+                  "text": "Ein Aussichtspunkt in der Nähe des RDC House, der klare Blicke auf die umliegenden städtischen und natürlichen Landschaften bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.803056,
+                        3.370927
+                  ]
+            },
+            {
+                  "name": "Culvert",
+                  "text": "Ein einfacher Aussichtspunkt an einem örtlichen Durchlass, perfekt zur Beobachtung der saisonalen Wasserbewegungen in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -59.803714,
+                        3.371996
+                  ]
+            },
+            {
+                  "name": "One Guyana Monument",
+                  "text": "Ein Gedenkmonument, das die nationale Einheit feiert und prominent in der natürlichen Umgebung des Takutu-Flusses steht.",
+                  "category": "historical",
+                  "coords": [
+                        -59.798276,
+                        3.369513
+                  ]
+            },
+            {
+                  "name": "Culvert city new scheme flood low house",
+                  "text": "Ein einzigartiger Aussichtspunkt mit Blick auf die niedrig gelegenen Häuser und das zur Hochwasserbewältigung konzipierte Entwässerungssystem.",
+                  "category": "natural",
+                  "coords": [
+                        -59.795918,
+                        3.366679
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "Ein Aussichtspunkt am Flussufer, der malerische Ausblicke auf einen Sandstreifen entlang des sich schlängelnden Takutu-Flusses bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.830142,
+                        3.343993
+                  ]
+            },
+            {
+                  "name": "Lago do Bicho",
+                  "text": "Eine malerische Seeattraktion nahe dem Takutu-Fluss, die für ihr pulsierendes Wasserleben und ihre ruhigen Gewässer bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.834243,
+                        3.344798
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jeovah's Witness",
+                  "text": "Eine christliche Kultstätte, die der lokalen Gemeinschaft der Zeugen Jehovas mit ihrem charakteristischen schlichten Architekturstil dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792335,
+                        3.376662
+                  ]
+            },
+            {
+                  "name": "The Universal Church of the Kingdom of God",
+                  "text": "Eine lebendige christliche Kirche der Universalkirche des Reiches Gottes, die in der Nähe des Takutu-Flusses spirituelle Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792704,
+                        3.375102
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ein bescheidener christlicher Versammlungsort, der religiöse Gemeinschaft in der ruhigen Umgebung der Takutu-Flussregion bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.798835,
+                        3.377038
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Eine muslimische Kultstätte mit traditionellen islamischen Architekturelementen vor der natürlichen Kulisse der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792097,
+                        3.3723
+                  ]
+            },
+            {
+                  "name": "Igreja Assembleia de Deus",
+                  "text": "Eine christliche Kirche der Assembleia de Deus, die als Zentrum für die lokale portugiesischsprachige Gemeinde nahe dem Takutu-Fluss dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.822702,
+                        3.371268
+                  ]
+            },
+            {
+                  "name": "Adventista do Sétimo Dia",
+                  "text": "Eine christliche Kultstätte, die den Gottesdiensten und der Gemeinschaftsunterstützung der Siebenten-Tags-Adventisten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.821631,
+                        3.371963
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "Ein lokaler Versammlungsraum einer christlichen Gemeinde, der die lebendige religiöse Vielfalt der Region innerhalb der Assembleia de Deus-Konfession widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.836303,
+                        3.361175
+                  ]
+            },
+            {
+                  "name": "Baptist Church",
+                  "text": "Eine christliche Baptistenkirche, die den Bewohnern in der Nähe des Takutu-Flusses einen spirituellen Zufluchtsort und Gemeinschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.796283,
+                        3.379738
+                  ]
+            },
+            {
+                  "name": "St. Ignatius Roman Catholic Church",
+                  "text": "Eine historische katholische Kirche, die dem heiligen Ignatius gewidmet ist und als spiritueller Eckpfeiler für die örtliche Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.802727,
+                        3.356036
+                  ]
+            },
+            {
+                  "name": "Igreja Católica São Sebastião",
+                  "text": "Eine christliche katholische Kirche, die São Sebastião gewidmet ist und für ihre Gottesdienste für die portugiesischsprachigen Gläubigen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.833471,
+                        3.357404
+                  ]
+            },
+            {
+                  "name": "Tabatinga Full Gospel Fellowship",
+                  "text": "Ein lebendiges christliches Gemeinschaftszentrum, das im Tabatinga-Gebiet spirituelle Führung und Gottesdienste nach dem vollen Evangelium bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.791772,
+                        3.379253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Land start front",
+                  "text": "Folyóparti kilátó, amely bepillantást enged a Takutu-folyó régiójának kezdetét jelző buja part menti zónákba.",
+                  "category": "natural",
+                  "coords": [
+                        -59.755802,
+                        3.373229
+                  ]
+            },
+            {
+                  "name": "Back land part",
+                  "text": "A hátsó területek felé néző megfigyelőpont, amely bemutatja a Takutu-folyó melletti sűrű természetes növényzetet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.757787,
+                        3.371719
+                  ]
+            },
+            {
+                  "name": "Culvert 3",
+                  "text": "Egy betonáteresz mellett található helyi kilátó, amely alkalmas a Takutu-folyó melletti szezonális vízfolyás megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -59.789504,
+                        3.365173
+                  ]
+            },
+            {
+                  "name": "Culvert 4",
+                  "text": "Egy infrastrukturális áteresz melletti megfigyelőhely, amely kiemeli a terület vízgazdálkodását a Takutu-folyó természetének közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -59.791006,
+                        3.366489
+                  ]
+            },
+            {
+                  "name": "Nis culvert",
+                  "text": "A Nis áteresz közelében lévő kilátó, amely rálátást nyújt a Takutu-folyó melletti környező vízelvezető tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -59.796762,
+                        3.376368
+                  ]
+            },
+            {
+                  "name": "Tabatinga flooded area",
+                  "text": "Festői kilátó a Tabatinga elárasztott területére, amely kiváló rálátást nyújt a régió szezonális vízi ökoszisztémájára.",
+                  "category": "natural",
+                  "coords": [
+                        -59.802032,
+                        3.380636
+                  ]
+            },
+            {
+                  "name": "Tabatinga bridge",
+                  "text": "Hídra épült kilátó, amely lenyűgöző kilátást nyújt a Takutu-folyó áramló vizére és partjaira.",
+                  "category": "natural",
+                  "coords": [
+                        -59.802261,
+                        3.379567
+                  ]
+            },
+            {
+                  "name": "Location culvert 2",
+                  "text": "Vízparti kilátópont egy betonáteresz mellett, amely a bonyolult helyi vízelvezetési mintákat figyeli meg.",
+                  "category": "natural",
+                  "coords": [
+                        -59.806882,
+                        3.376354
+                  ]
+            },
+            {
+                  "name": "Tabatinga mouth",
+                  "text": "Stratégiai fontosságú kilátó Tabatinga torkolatánál, amely a Takutu-folyó medencéjének vízi útjainak összefolyására tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -59.808291,
+                        3.378108
+                  ]
+            },
+            {
+                  "name": "Cashew Grove Park",
+                  "text": "Kesudióligettel rendelkező természeti látványosság, amely árnyékos menedéket nyújt a Takutu-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.806665,
+                        3.37439
+                  ]
+            },
+            {
+                  "name": "Boston culvert",
+                  "text": "A Boston áteresz melletti megfigyelőhely, amely a Takutu-folyó vizes élőhelyeire tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -59.804718,
+                        3.375114
+                  ]
+            },
+            {
+                  "name": "RDC House",
+                  "text": "Az RDC House közelében lévő kilátó, amely tiszta rálátást nyújt a környező polgári és természeti tájakra.",
+                  "category": "natural",
+                  "coords": [
+                        -59.803056,
+                        3.370927
+                  ]
+            },
+            {
+                  "name": "Culvert",
+                  "text": "Egy helyi áteresz mellett található egyszerű kilátópont, amely tökéletes a környék szezonális vízmozgásainak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -59.803714,
+                        3.371996
+                  ]
+            },
+            {
+                  "name": "One Guyana Monument",
+                  "text": "A nemzeti egységet ünneplő emlékmű, amely kiemelkedő helyet foglal el a Takutu-folyó természeti környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        -59.798276,
+                        3.369513
+                  ]
+            },
+            {
+                  "name": "Culvert city new scheme flood low house",
+                  "text": "Egyedülálló kilátópont, amely az alacsonyan fekvő házakra és az árvízkezelésre tervezett vízelvezető rendszerre tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -59.795918,
+                        3.366679
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "Folyóparti kilátó, amely festői kilátást nyújt a kanyargós Takutu-folyó mentén húzódó homokos szakaszra.",
+                  "category": "natural",
+                  "coords": [
+                        -59.830142,
+                        3.343993
+                  ]
+            },
+            {
+                  "name": "Lago do Bicho",
+                  "text": "A Takutu-folyó közelében található festői tó, amely nyüzsgő vízi életéről és nyugodt vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.834243,
+                        3.344798
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jeovah's Witness",
+                  "text": "Keresztény istentiszteleti hely, amely Jehova Tanúi helyi közösségét szolgálja jellegzetes, dísztelen építészeti stílusával.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792335,
+                        3.376662
+                  ]
+            },
+            {
+                  "name": "The Universal Church of the Kingdom of God",
+                  "text": "Az Isten Országa Egyetemes Egyházának élénk keresztény temploma, amely spirituális szolgáltatásokat nyújt a Takutu-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792704,
+                        3.375102
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Szerény keresztény gyülekezeti hely, amely vallási közösséget kínál a Takutu-folyó régiójának nyugodt környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.798835,
+                        3.377038
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Muszlim istentiszteleti hely, amely hagyományos iszlám építészeti elemeket mutat be a régió természeti hátterével.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792097,
+                        3.3723
+                  ]
+            },
+            {
+                  "name": "Igreja Assembleia de Deus",
+                  "text": "Keresztény Assembleia de Deus templom, amely a helyi portugál nyelvű gyülekezet központjaként szolgál a Takutu-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.822702,
+                        3.371268
+                  ]
+            },
+            {
+                  "name": "Adventista do Sétimo Dia",
+                  "text": "Keresztény istentiszteleti hely, amelyet a Hetednapi Adventista istentiszteleteknek és a közösségi támogatásnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.821631,
+                        3.371963
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "Egy helyi keresztény gyülekezeti tér, amely a terület élénk vallási sokszínűségét tükrözi az Assembleia de Deus felekezeten belül.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.836303,
+                        3.361175
+                  ]
+            },
+            {
+                  "name": "Baptist Church",
+                  "text": "Keresztény baptista templom, amely spirituális menedéket és közösséget kínál a Takutu-folyó közelében élőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.796283,
+                        3.379738
+                  ]
+            },
+            {
+                  "name": "St. Ignatius Roman Catholic Church",
+                  "text": "Egy történelmi katolikus templom, amelyet Szent Ignácnak szenteltek, és amely a helyi közösség spirituális sarokköveként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.802727,
+                        3.356036
+                  ]
+            },
+            {
+                  "name": "Igreja Católica São Sebastião",
+                  "text": "A São Sebastião tiszteletére szentelt keresztény katolikus templom, amely a portugál ajkú hívek számára tartott istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.833471,
+                        3.357404
+                  ]
+            },
+            {
+                  "name": "Tabatinga Full Gospel Fellowship",
+                  "text": "Élénk keresztény közösségi központ, amely spirituális útmutatást és teljes evangéliumi istentiszteletet nyújt a Tabatinga térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.791772,
+                        3.379253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Land start front",
+                  "text": "Un punct de belvedere pe malul râului care oferă o privire asupra zonelor riverane luxuriante de unde începe regiunea râului Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.755802,
+                        3.373229
+                  ]
+            },
+            {
+                  "name": "Back land part",
+                  "text": "Un punct de observație orientat spre terenurile din spate, prezentând vegetația naturală densă de lângă râul Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.757787,
+                        3.371719
+                  ]
+            },
+            {
+                  "name": "Culvert 3",
+                  "text": "Un punct de belvedere local situat lângă un podeț de beton, util pentru observarea fluxului de apă sezonier de lângă râul Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.789504,
+                        3.365173
+                  ]
+            },
+            {
+                  "name": "Culvert 4",
+                  "text": "Un punct de observație lângă un podeț de infrastructură care evidențiază gestionarea apei din zonă în mijlocul naturii râului Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.791006,
+                        3.366489
+                  ]
+            },
+            {
+                  "name": "Nis culvert",
+                  "text": "Un punct de belvedere lângă structura podețului Nis, oferind vederi asupra peisajului de drenaj din jur de lângă râul Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.796762,
+                        3.376368
+                  ]
+            },
+            {
+                  "name": "Tabatinga flooded area",
+                  "text": "Un punct de belvedere pitoresc asupra zonei inundate Tabatinga, oferind o perspectivă excelentă asupra ecosistemului acvatic sezonier al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -59.802032,
+                        3.380636
+                  ]
+            },
+            {
+                  "name": "Tabatinga bridge",
+                  "text": "Un punct de belvedere pe un pod care oferă o priveliște impresionantă asupra apelor curgătoare și malurilor râului Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.802261,
+                        3.379567
+                  ]
+            },
+            {
+                  "name": "Location culvert 2",
+                  "text": "Un punct de belvedere pe malul apei, lângă un podeț de beton, observând modelele locale complexe de drenaj.",
+                  "category": "natural",
+                  "coords": [
+                        -59.806882,
+                        3.376354
+                  ]
+            },
+            {
+                  "name": "Tabatinga mouth",
+                  "text": "Un punct de belvedere strategic situat la vărsarea Tabatinga, cu vedere la confluența căilor navigabile din bazinul râului Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.808291,
+                        3.378108
+                  ]
+            },
+            {
+                  "name": "Cashew Grove Park",
+                  "text": "O atracție a naturii care se distinge prin crângul său de caju, oferind un refugiu umbrit lângă râul Takutu.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.806665,
+                        3.37439
+                  ]
+            },
+            {
+                  "name": "Boston culvert",
+                  "text": "Un loc de observație lângă podețul Boston, cu vedere la ecosistemele zonelor umede ale râului Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.804718,
+                        3.375114
+                  ]
+            },
+            {
+                  "name": "RDC House",
+                  "text": "Un punct de belvedere în apropiere de RDC House, care oferă vederi clare asupra peisajelor civice și naturale din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -59.803056,
+                        3.370927
+                  ]
+            },
+            {
+                  "name": "Culvert",
+                  "text": "Un punct de belvedere simplu situat lângă un podeț local, perfect pentru observarea mișcărilor sezoniere ale apei din zonă.",
+                  "category": "natural",
+                  "coords": [
+                        -59.803714,
+                        3.371996
+                  ]
+            },
+            {
+                  "name": "One Guyana Monument",
+                  "text": "Un monument comemorativ care celebrează unitatea națională, stând proeminent în împrejurimile naturale ale râului Takutu.",
+                  "category": "historical",
+                  "coords": [
+                        -59.798276,
+                        3.369513
+                  ]
+            },
+            {
+                  "name": "Culvert city new scheme flood low house",
+                  "text": "Un punct de belvedere unic, cu vedere la casele joase și la schema de drenaj concepută pentru gestionarea inundațiilor.",
+                  "category": "natural",
+                  "coords": [
+                        -59.795918,
+                        3.366679
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "Un punct de belvedere pe malul râului care oferă priveliști pitorești ale unei întinderi de nisip de-a lungul râului meandrat Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.830142,
+                        3.343993
+                  ]
+            },
+            {
+                  "name": "Lago do Bicho",
+                  "text": "O atracție a lacului pitoresc, cunoscută pentru viața sa acvatică vibrantă și apele senine din apropierea râului Takutu.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.834243,
+                        3.344798
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jeovah's Witness",
+                  "text": "Un lăcaș de cult creștin care deservește comunitatea locală a Martorilor lui Iehova cu stilul său arhitectural caracteristic, neîmpodobit.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792335,
+                        3.376662
+                  ]
+            },
+            {
+                  "name": "The Universal Church of the Kingdom of God",
+                  "text": "O biserică creștină vibrantă a Bisericii Universale a Împărăției lui Dumnezeu care oferă servicii spirituale lângă râul Takutu.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792704,
+                        3.375102
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Un loc de întâlnire creștin modest, care oferă părtășie religioasă în cadrul senin al regiunii râului Takutu.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.798835,
+                        3.377038
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "Un lăcaș de cult musulman cu elemente arhitecturale islamice tradiționale așezate pe fundalul natural al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792097,
+                        3.3723
+                  ]
+            },
+            {
+                  "name": "Igreja Assembleia de Deus",
+                  "text": "O biserică creștină Assembleia de Deus, care servește ca centru pentru congregația locală vorbitoare de limbă portugheză de lângă râul Takutu.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.822702,
+                        3.371268
+                  ]
+            },
+            {
+                  "name": "Adventista do Sétimo Dia",
+                  "text": "Un lăcaș de cult creștin dedicat slujbelor Adventiste de Ziua a Șaptea și sprijinului comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.821631,
+                        3.371963
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "Un spațiu de adunare al unei congregații creștine locale care reflectă diversitatea religioasă vibrantă a zonei în cadrul confesiunii Assembleia de Deus.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.836303,
+                        3.361175
+                  ]
+            },
+            {
+                  "name": "Baptist Church",
+                  "text": "O biserică creștină baptistă care oferă un sanctuar spiritual și părtășie pentru locuitorii din apropierea râului Takutu.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.796283,
+                        3.379738
+                  ]
+            },
+            {
+                  "name": "St. Ignatius Roman Catholic Church",
+                  "text": "O biserică catolică istorică dedicată Sfântului Ignațiu, servind ca piatră de temelie spirituală pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.802727,
+                        3.356036
+                  ]
+            },
+            {
+                  "name": "Igreja Católica São Sebastião",
+                  "text": "O biserică catolică creștină dedicată lui São Sebastião, remarcabilă pentru slujbele sale religioase pentru credincioșii vorbitori de portugheză.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.833471,
+                        3.357404
+                  ]
+            },
+            {
+                  "name": "Tabatinga Full Gospel Fellowship",
+                  "text": "Un centru de părtășie creștină plin de viață care oferă îndrumare spirituală și închinare Full Gospel în zona Tabatinga.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.791772,
+                        3.379253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Land start front",
+                  "text": "A riverfront viewpoint offering glimpses of the lush riparian zones where the Takutu River region begins.",
+                  "category": "natural",
+                  "coords": [
+                        -59.755802,
+                        3.373229
+                  ]
+            },
+            {
+                  "name": "Back land part",
+                  "text": "An observation point positioned towards the rear lands, showcasing the dense natural vegetation near the Takutu River.",
+                  "category": "natural",
+                  "coords": [
+                        -59.757787,
+                        3.371719
+                  ]
+            },
+            {
+                  "name": "Culvert 3",
+                  "text": "A local viewpoint situated by a concrete culvert, useful for observing the seasonal water flow near the Takutu River.",
+                  "category": "natural",
+                  "coords": [
+                        -59.789504,
+                        3.365173
+                  ]
+            },
+            {
+                  "name": "Culvert 4",
+                  "text": "An observation spot beside an infrastructure culvert that highlights the area's water management amidst the Takutu River's nature.",
+                  "category": "natural",
+                  "coords": [
+                        -59.791006,
+                        3.366489
+                  ]
+            },
+            {
+                  "name": "Nis culvert",
+                  "text": "A vantage point near the Nis culvert structure, offering views of the surrounding drainage landscape by the Takutu River.",
+                  "category": "natural",
+                  "coords": [
+                        -59.796762,
+                        3.376368
+                  ]
+            },
+            {
+                  "name": "Tabatinga flooded area",
+                  "text": "A scenic lookout over the Tabatinga flooded area, providing an excellent perspective on the region's seasonal aquatic ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -59.802032,
+                        3.380636
+                  ]
+            },
+            {
+                  "name": "Tabatinga bridge",
+                  "text": "A bridge-based viewpoint offering a commanding look over the flowing waters and banks of the Takutu River.",
+                  "category": "natural",
+                  "coords": [
+                        -59.802261,
+                        3.379567
+                  ]
+            },
+            {
+                  "name": "Location culvert 2",
+                  "text": "A waterside vantage point by a concrete culvert, observing the intricate local drainage patterns.",
+                  "category": "natural",
+                  "coords": [
+                        -59.806882,
+                        3.376354
+                  ]
+            },
+            {
+                  "name": "Tabatinga mouth",
+                  "text": "A strategic viewpoint located at the mouth of Tabatinga, overlooking the confluence of waterways in the Takutu River basin.",
+                  "category": "natural",
+                  "coords": [
+                        -59.808291,
+                        3.378108
+                  ]
+            },
+            {
+                  "name": "Cashew Grove Park",
+                  "text": "A nature attraction distinguished by its grove of cashew trees, providing a shaded retreat near the Takutu River.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.806665,
+                        3.37439
+                  ]
+            },
+            {
+                  "name": "Boston culvert",
+                  "text": "An observation location beside the Boston culvert, looking out over the wetland ecosystems of the Takutu River.",
+                  "category": "natural",
+                  "coords": [
+                        -59.804718,
+                        3.375114
+                  ]
+            },
+            {
+                  "name": "RDC House",
+                  "text": "A viewpoint near the RDC House, offering clear sights of the surrounding civic and natural landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -59.803056,
+                        3.370927
+                  ]
+            },
+            {
+                  "name": "Culvert",
+                  "text": "A simple vantage point situated by a local culvert, perfect for observing seasonal water movements in the area.",
+                  "category": "natural",
+                  "coords": [
+                        -59.803714,
+                        3.371996
+                  ]
+            },
+            {
+                  "name": "One Guyana Monument",
+                  "text": "A commemorative monument celebrating national unity, standing prominently within the natural surroundings of the Takutu River.",
+                  "category": "historical",
+                  "coords": [
+                        -59.798276,
+                        3.369513
+                  ]
+            },
+            {
+                  "name": "Culvert city new scheme flood low house",
+                  "text": "A unique vantage point overlooking the low-lying houses and drainage scheme designed for flood management.",
+                  "category": "natural",
+                  "coords": [
+                        -59.795918,
+                        3.366679
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "A riverbank viewpoint offering scenic vistas of a sandy stretch along the meandering Takutu River.",
+                  "category": "natural",
+                  "coords": [
+                        -59.830142,
+                        3.343993
+                  ]
+            },
+            {
+                  "name": "Lago do Bicho",
+                  "text": "A picturesque lake attraction known for its vibrant aquatic life and serene waters near the Takutu River.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.834243,
+                        3.344798
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jeovah's Witness",
+                  "text": "A Christian place of worship serving the local community of Jehovah's Witnesses with its characteristic unadorned architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792335,
+                        3.376662
+                  ]
+            },
+            {
+                  "name": "The Universal Church of the Kingdom of God",
+                  "text": "A vibrant Christian church of the Universal Church of the Kingdom of God providing spiritual services near the Takutu River.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792704,
+                        3.375102
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A modest Christian meeting place offering religious fellowship in the serene setting of the Takutu River region.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.798835,
+                        3.377038
+                  ]
+            },
+            {
+                  "name": "Mosque",
+                  "text": "A Muslim place of worship featuring traditional Islamic architectural elements set against the region's natural backdrop.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.792097,
+                        3.3723
+                  ]
+            },
+            {
+                  "name": "Igreja Assembleia de Deus",
+                  "text": "A Christian Assembleia de Deus church serving as a hub for the local Portuguese-speaking congregation near the Takutu River.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.822702,
+                        3.371268
+                  ]
+            },
+            {
+                  "name": "Adventista do Sétimo Dia",
+                  "text": "A Christian place of worship dedicated to Seventh-day Adventist services and community support.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.821631,
+                        3.371963
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "A local Christian congregation gathering space reflecting the area's vibrant religious diversity within the Assembleia de Deus denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.836303,
+                        3.361175
+                  ]
+            },
+            {
+                  "name": "Baptist Church",
+                  "text": "A Christian Baptist church that offers spiritual sanctuary and fellowship for residents near the Takutu River.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.796283,
+                        3.379738
+                  ]
+            },
+            {
+                  "name": "St. Ignatius Roman Catholic Church",
+                  "text": "A historic Catholic church dedicated to St. Ignatius, serving as a spiritual cornerstone for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.802727,
+                        3.356036
+                  ]
+            },
+            {
+                  "name": "Igreja Católica São Sebastião",
+                  "text": "A Christian Catholic church dedicated to São Sebastião, notable for its religious services for the Portuguese-speaking faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.833471,
+                        3.357404
+                  ]
+            },
+            {
+                  "name": "Tabatinga Full Gospel Fellowship",
+                  "text": "A lively Christian fellowship centre providing spiritual guidance and Full Gospel worship in the Tabatinga area.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.791772,
+                        3.379253
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GY-UT",
     coords: [-59.8, 3.38],
@@ -841,7 +4333,88 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       fr: ["Rivière frontalière entre le Guyana et le Brésil.", "Se jette dans le Rio Branco.", "Le pont du Takutu a été inauguré en 2009.", "Relie Lethem (GY) à Bonfim (BR).", "Fortes fluctuations du niveau d'eau.", "Traverse la savane du Rupununi."],
     },
   }, {
-    id: "guyana-ireng-river-nature-v2",
+    id: "guyana-ireng-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lago Caracaranã",
+                  "text": "Ein wunderschöner natürlicher See mit feinen Sandstränden und klarem Wasser, eingebettet in die Savannenlandschaft in der Nähe des Ireng-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.783396,
+                        3.840287
+                  ]
+            },
+            {
+                  "name": "Lagoa Caracaranã",
+                  "text": "Eine malerische Lagunenattraktion, bekannt für ihr ruhiges Wasser und die umgebende Naturschönheit in der Region des Ireng-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.781207,
+                        3.845838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lago Caracaranã",
+                  "text": "Gyönyörű természetes tó finom homokos strandokkal és tiszta vízzel, amely az Ireng-folyó melletti szavanna tájában fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.783396,
+                        3.840287
+                  ]
+            },
+            {
+                  "name": "Lagoa Caracaranã",
+                  "text": "Festői lagúnalátványosság, amely nyugodt vizéről és az Ireng-folyó régiójának környező természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.781207,
+                        3.845838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lago Caracaranã",
+                  "text": "Un lac natural frumos, cu plaje cu nisip fin și ape limpezi, amplasat în peisajul de savană de lângă râul Ireng.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.783396,
+                        3.840287
+                  ]
+            },
+            {
+                  "name": "Lagoa Caracaranã",
+                  "text": "O atracție a unei lagune pitorești, cunoscută pentru apele sale liniștite și frumusețea naturală din jur din regiunea râului Ireng.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.781207,
+                        3.845838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lago Caracaranã",
+                  "text": "A beautiful natural lake featuring fine sandy beaches and clear waters, nestled in the savannah landscape near the Ireng River.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.783396,
+                        3.840287
+                  ]
+            },
+            {
+                  "name": "Lagoa Caracaranã",
+                  "text": "A picturesque lagoon attraction known for its tranquil waters and surrounding natural beauty in the Ireng River region.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.781207,
+                        3.845838
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GY-PT",
     coords: [-59.82, 3.9],

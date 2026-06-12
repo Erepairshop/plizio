@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraFrenchguianaEconomicV2: POI[] = [
   {
-    id: "gf-port-larivot-economic-v2",
+    id: "gf-port-larivot-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Petit Matoury",
+                  "text": "Ein kleiner bewaldeter Hügel mit Blick auf die Küstenebenen und das nahe gelegene Hafengebiet von Larivot.",
+                  "category": "natural",
+                  "coords": [
+                        -52.350485,
+                        4.897131
+                  ]
+            },
+            {
+                  "name": "L'Île aux Trésors",
+                  "text": "Ein familienorientierter Freizeit- und Themenpark mit verschiedenen Outdoor-Aktivitäten in Küstennähe.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.335865,
+                        4.892343
+                  ]
+            },
+            {
+                  "name": "Église de la Miséricorde-Divine",
+                  "text": "Eine zeitgenössische katholische Kirche, bekannt für ihr modernes Design und ihre spirituelle Bedeutung in Larivot.",
+                  "category": "religious",
+                  "coords": [
+                        -52.409446,
+                        4.926404
+                  ]
+            },
+            {
+                  "name": "Église De Soula",
+                  "text": "Eine lokale Kirche, die der Wohngemeinde von Soula in der Nähe der Larivot-Brücke dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.406419,
+                        4.933591
+                  ]
+            },
+            {
+                  "name": "Témoins de Jehova",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas in dem sich entwickelnden Stadtgebiet bei Matoury.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.337597,
+                        4.894262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Petit Matoury",
+                  "text": "Egy kis erdős domb, amely a tengerparti síkságra és a közeli Larivot kikötőre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -52.350485,
+                        4.897131
+                  ]
+            },
+            {
+                  "name": "L'Île aux Trésors",
+                  "text": "Családbarát szabadidős és vidámpark, amely különféle szabadtéri tevékenységeket kínál a part közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.335865,
+                        4.892343
+                  ]
+            },
+            {
+                  "name": "Église de la Miséricorde-Divine",
+                  "text": "Kortárs katolikus templom, amely modern dizájnjáról és spirituális jelentőségéről ismert Larivotban.",
+                  "category": "religious",
+                  "coords": [
+                        -52.409446,
+                        4.926404
+                  ]
+            },
+            {
+                  "name": "Église De Soula",
+                  "text": "Helyi templom, amely Soula lakóközösségét szolgálja a Larivot-híd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.406419,
+                        4.933591
+                  ]
+            },
+            {
+                  "name": "Témoins de Jehova",
+                  "text": "Jehova Tanúi Királyság-terme Matoury közelében, egy fejlődő városi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.337597,
+                        4.894262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Petit Matoury",
+                  "text": "Un deal mic împădurit care domină câmpiile de coastă și zona portului Larivot din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -52.350485,
+                        4.897131
+                  ]
+            },
+            {
+                  "name": "L'Île aux Trésors",
+                  "text": "Un parc tematic și de recreere pentru familii, care oferă diverse activități în aer liber lângă coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.335865,
+                        4.892343
+                  ]
+            },
+            {
+                  "name": "Église de la Miséricorde-Divine",
+                  "text": "O biserică catolică contemporană, cunoscută pentru designul său modern și importanța spirituală în Larivot.",
+                  "category": "religious",
+                  "coords": [
+                        -52.409446,
+                        4.926404
+                  ]
+            },
+            {
+                  "name": "Église De Soula",
+                  "text": "O biserică locală care deservește comunitatea rezidențială Soula, lângă podul Larivot.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.406419,
+                        4.933591
+                  ]
+            },
+            {
+                  "name": "Témoins de Jehova",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova situată în zona urbană în curs de dezvoltare de lângă Matoury.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.337597,
+                        4.894262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Petit Matoury",
+                  "text": "A small forested hill overlooking the coastal plains and the nearby Larivot port area.",
+                  "category": "natural",
+                  "coords": [
+                        -52.350485,
+                        4.897131
+                  ]
+            },
+            {
+                  "name": "L'Île aux Trésors",
+                  "text": "A family-oriented recreation and theme park offering various outdoor activities near the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.335865,
+                        4.892343
+                  ]
+            },
+            {
+                  "name": "Église de la Miséricorde-Divine",
+                  "text": "A contemporary Catholic church known for its modern design and spiritual importance in Larivot.",
+                  "category": "religious",
+                  "coords": [
+                        -52.409446,
+                        4.926404
+                  ]
+            },
+            {
+                  "name": "Église De Soula",
+                  "text": "A local church serving the residential community of Soula near the Larivot bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.406419,
+                        4.933591
+                  ]
+            },
+            {
+                  "name": "Témoins de Jehova",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses located in the developing urban area near Matoury.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.337597,
+                        4.894262
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GF",
     coords: [-52.3614, 4.9048],
@@ -53,7 +242,124 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Neuvième port de pêche de France.", "Traite des milliers de tonnes de poisson chaque année."],
     }, image: "/poi-images/gf-port-larivot-economic-v2.webp"},
   {
-    id: "gf-port-pariacabo-economic-v2",
+    id: "gf-port-pariacabo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Leblond",
+                  "text": "Ein bewaldeter Hügel in der Nähe der Hafenanlagen von Pariacabo.",
+                  "category": "natural",
+                  "coords": [
+                        -52.644681,
+                        5.113702
+                  ]
+            },
+            {
+                  "name": "Montagne Galliot",
+                  "text": "Ein kleiner Gipfel, der das Industrie- und Hafengebiet von Kourou überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -52.639402,
+                        5.098396
+                  ]
+            },
+            {
+                  "name": "Montagne Guatemala",
+                  "text": "Ein tropischer Hügel am Rande der Hafenzone von Kourou.",
+                  "category": "natural",
+                  "coords": [
+                        -52.642804,
+                        5.102792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Leblond",
+                  "text": "Esőerdővel borított domb a Pariacabo kikötő létesítményei közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.644681,
+                        5.113702
+                  ]
+            },
+            {
+                  "name": "Montagne Galliot",
+                  "text": "Kourou ipari kikötői negyedére néző kisebb hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -52.639402,
+                        5.098396
+                  ]
+            },
+            {
+                  "name": "Montagne Guatemala",
+                  "text": "Trópusi domb Kourou kikötői zónájának szélén.",
+                  "category": "natural",
+                  "coords": [
+                        -52.642804,
+                        5.102792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Leblond",
+                  "text": "Deal acoperit de junglă situat în apropierea facilităților portuare Pariacabo.",
+                  "category": "natural",
+                  "coords": [
+                        -52.644681,
+                        5.113702
+                  ]
+            },
+            {
+                  "name": "Montagne Galliot",
+                  "text": "Un mic vârf care domină zona portuară industrială din Kourou.",
+                  "category": "natural",
+                  "coords": [
+                        -52.639402,
+                        5.098396
+                  ]
+            },
+            {
+                  "name": "Montagne Guatemala",
+                  "text": "Deal tropical situat la periferia zonei portuare a orașului Kourou.",
+                  "category": "natural",
+                  "coords": [
+                        -52.642804,
+                        5.102792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Leblond",
+                  "text": "A rainforest-covered hill situated near the Pariacabo port facilities.",
+                  "category": "natural",
+                  "coords": [
+                        -52.644681,
+                        5.113702
+                  ]
+            },
+            {
+                  "name": "Montagne Galliot",
+                  "text": "A small peak overlooking the industrial shipping area of Kourou.",
+                  "category": "natural",
+                  "coords": [
+                        -52.639402,
+                        5.098396
+                  ]
+            },
+            {
+                  "name": "Montagne Guatemala",
+                  "text": "A tropical hill located on the outskirts of Kourou's port zone.",
+                  "category": "natural",
+                  "coords": [
+                        -52.642804,
+                        5.102792
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GF",
     coords: [-52.6583, 5.1472],
@@ -103,7 +409,304 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Crucial pour le programme spatial européen.", "Spécialement équipé pour les pièces lourdes de fusées."],
     }, image: "/poi-images/gf-port-pariacabo-economic-v2.webp"},
   {
-    id: "gf-zi-pariacabo-economic-v2",
+    id: "gf-zi-pariacabo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Baloupi",
+                  "text": "Ein bewaldeter Berggipfel, der über dem Industriegebiet von Pariacabo aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        -52.628444,
+                        5.084109
+                  ]
+            },
+            {
+                  "name": "Pôle culturel Kourou",
+                  "text": "Ein modernes Kulturzentrum, in dem lokale Ausstellungen und Aufführungen stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.648729,
+                        5.156941
+                  ]
+            },
+            {
+                  "name": "Association Libi Na Wan",
+                  "text": "Ein Kunstzentrum, das sich der Förderung der traditionellen guyanischen Kultur widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.639336,
+                        5.156555
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Eine markante katholische Kirche, die der örtlichen Gemeinde von Kourou dient.",
+                  "category": "religious",
+                  "coords": [
+                        -52.643893,
+                        5.152659
+                  ]
+            },
+            {
+                  "name": "Église International",
+                  "text": "Eine überkonfessionelle christliche Gebetsstätte in Kourou.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.646607,
+                        5.152149
+                  ]
+            },
+            {
+                  "name": "Église Adventiste",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten im Wohnviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.644982,
+                        5.151931
+                  ]
+            },
+            {
+                  "name": "Église Pencotiste",
+                  "text": "Ein Kirchengebäude der Pfingstgemeinde für lokale Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.647761,
+                        5.154215
+                  ]
+            },
+            {
+                  "name": "Marché Fortuna Ringuet",
+                  "text": "Ein belebter städtischer Markt mit frischen tropischen Früchten und lokalem Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.643129,
+                        5.154875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Baloupi",
+                  "text": "A Pariacabo ipari negyed fölé magasodó erdős hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -52.628444,
+                        5.084109
+                  ]
+            },
+            {
+                  "name": "Pôle culturel Kourou",
+                  "text": "Modern kulturális központ, amely helyi kiállításoknak és művészeti előadásoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.648729,
+                        5.156941
+                  ]
+            },
+            {
+                  "name": "Association Libi Na Wan",
+                  "text": "A hagyományos guyanai kultúra népszerűsítésének szentelt művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.639336,
+                        5.156555
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Kourou helyi közösségét szolgáló jelentős katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -52.643893,
+                        5.152659
+                  ]
+            },
+            {
+                  "name": "Église International",
+                  "text": "Több felekezetet kiszolgáló keresztény imaház Kourouban.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.646607,
+                        5.152149
+                  ]
+            },
+            {
+                  "name": "Église Adventiste",
+                  "text": "Hetednapi Adventista templom a lakónegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.644982,
+                        5.151931
+                  ]
+            },
+            {
+                  "name": "Église Pencotiste",
+                  "text": "Pünkösdi templomépület a helyi közösségi szertartások számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.647761,
+                        5.154215
+                  ]
+            },
+            {
+                  "name": "Marché Fortuna Ringuet",
+                  "text": "Nyüzsgő városi piac, ahol friss trópusi gyümölcsöket és helyi kézműves termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.643129,
+                        5.154875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Baloupi",
+                  "text": "Vârf împădurit care se înalță deasupra zonei industriale Pariacabo.",
+                  "category": "natural",
+                  "coords": [
+                        -52.628444,
+                        5.084109
+                  ]
+            },
+            {
+                  "name": "Pôle culturel Kourou",
+                  "text": "Centru cultural modern care găzduiește expoziții locale și spectacole artistice.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.648729,
+                        5.156941
+                  ]
+            },
+            {
+                  "name": "Association Libi Na Wan",
+                  "text": "Centru de arte dedicat promovării culturii tradiționale din Guyana Franceză.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.639336,
+                        5.156555
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Biserică catolică proeminentă care deservește comunitatea locală din Kourou.",
+                  "category": "religious",
+                  "coords": [
+                        -52.643893,
+                        5.152659
+                  ]
+            },
+            {
+                  "name": "Église International",
+                  "text": "Lăcaș de cult creștin multidenominațional în Kourou.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.646607,
+                        5.152149
+                  ]
+            },
+            {
+                  "name": "Église Adventiste",
+                  "text": "Biserică Adventistă de Ziua a Șaptea situată în cartierul rezidențial.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.644982,
+                        5.151931
+                  ]
+            },
+            {
+                  "name": "Église Pencotiste",
+                  "text": "Clădirea unei biserici penticostale pentru serviciile religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.647761,
+                        5.154215
+                  ]
+            },
+            {
+                  "name": "Marché Fortuna Ringuet",
+                  "text": "Piață municipală animată unde vânzătorii oferă fructe tropicale proaspete și artizanat local.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.643129,
+                        5.154875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Baloupi",
+                  "text": "A forested peak rising above the Pariacabo industrial estate.",
+                  "category": "natural",
+                  "coords": [
+                        -52.628444,
+                        5.084109
+                  ]
+            },
+            {
+                  "name": "Pôle culturel Kourou",
+                  "text": "A modern cultural hub hosting local exhibitions and artistic performances.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.648729,
+                        5.156941
+                  ]
+            },
+            {
+                  "name": "Association Libi Na Wan",
+                  "text": "An arts centre dedicated to the promotion of traditional and local Guianese culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.639336,
+                        5.156555
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "A prominent Catholic church serving the local community of Kourou.",
+                  "category": "religious",
+                  "coords": [
+                        -52.643893,
+                        5.152659
+                  ]
+            },
+            {
+                  "name": "Église International",
+                  "text": "A multi-denominational Christian place of worship in Kourou.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.646607,
+                        5.152149
+                  ]
+            },
+            {
+                  "name": "Église Adventiste",
+                  "text": "A Seventh-day Adventist church located in the residential district.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.644982,
+                        5.151931
+                  ]
+            },
+            {
+                  "name": "Église Pencotiste",
+                  "text": "A Pentecostal church building hosting local community services.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.647761,
+                        5.154215
+                  ]
+            },
+            {
+                  "name": "Marché Fortuna Ringuet",
+                  "text": "A lively municipal market where vendors sell fresh tropical fruits and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.643129,
+                        5.154875
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.65, 5.15],
@@ -153,7 +756,520 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Pôle de l'industrie de haute technologie en Guyane.", "Étroitement liée au programme spatial européen."],
     }, image: "/poi-images/gf-zi-pariacabo-economic-v2.webp"},
   {
-    id: "gf-zi-collery-economic-v2",
+    id: "gf-zi-collery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne du Tigre",
+                  "text": "Die Montagne du Tigre ist ein markanter natürlicher Gipfel, der sich durch seine steilen, bewaldeten Hänge auszeichnet, die sich über das Gelände erheben.",
+                  "category": "natural",
+                  "coords": [
+                        -52.303255,
+                        4.911759
+                  ]
+            },
+            {
+                  "name": "Mont Lucas",
+                  "text": "Der Mont Lucas ist ein erhöhter natürlicher Berggipfel, der malerische Aussichtspunkte über die umliegende tropische Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -52.298901,
+                        4.921996
+                  ]
+            },
+            {
+                  "name": "Mont Baduel",
+                  "text": "Der Mont Baduel ist ein markanter natürlicher Gipfel, der von üppiger Vegetation bedeckt ist und eine raue Wanderumgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -52.307395,
+                        4.921672
+                  ]
+            },
+            {
+                  "name": "Montagne des Maringouins",
+                  "text": "Die Montagne des Maringouins ist ein steiler natürlicher Berggipfel, der durch das dichte tropische Waldgebiet der Region geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -52.317784,
+                        4.908538
+                  ]
+            },
+            {
+                  "name": "Église du Christianisme Céleste",
+                  "text": "Eine westafrikanische christliche Kirche der Denomination „Christlicher Himmelsorden“.",
+                  "category": "religious",
+                  "coords": [
+                        -52.319789,
+                        4.921711
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Fatima",
+                  "text": "Katholische Kirche, die Unserer Lieben Frau von Fátima gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -52.31874,
+                        4.920883
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Katholische Kirche, die dem Apostel Paulus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -52.321811,
+                        4.915527
+                  ]
+            },
+            {
+                  "name": "Église de Dieu de la Porte Étroite de Guyane",
+                  "text": "Lokale christliche Kirche der Glaubensgemeinschaft „Porte Étroite“ (Enge Pforte).",
+                  "category": "landmark",
+                  "coords": [
+                        -52.333422,
+                        4.894637
+                  ]
+            },
+            {
+                  "name": "Église évangélique",
+                  "text": "Ein evangelisches christliches Gotteshaus in der Nähe des Stadtzentrums.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.313664,
+                        4.918204
+                  ]
+            },
+            {
+                  "name": "Assemblée de la Grâce",
+                  "text": "Ein Versammlungssaal der christlichen Gemeinde „Assemblée de la Grâce“.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.317939,
+                        4.90162
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche",
+                  "text": "Eine Gemeinde der Neuapostolischen Kirche, einer internationalen christlichen Denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.314445,
+                        4.91987
+                  ]
+            },
+            {
+                  "name": "Église de la Pentecôte",
+                  "text": "Eine pfingstkirchliche Gemeinde für christliche Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.317309,
+                        4.92292
+                  ]
+            },
+            {
+                  "name": "Église Eben-Ezer",
+                  "text": "Eine christliche Kirche, die den biblischen Namen Eben-Ezer trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.318358,
+                        4.922787
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas für religiöse Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.3192,
+                        4.918909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne du Tigre",
+                  "text": "A Montagne du Tigre egy kiemelkedő természetes hegycsúcs, amelyet a terep fölé magasodó meredek, erdős lejtők jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        -52.303255,
+                        4.911759
+                  ]
+            },
+            {
+                  "name": "Mont Lucas",
+                  "text": "A Mont Lucas egy magaslati természetes hegycsúcs, amely festői kilátóhelyeket kínál a környező trópusi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -52.298901,
+                        4.921996
+                  ]
+            },
+            {
+                  "name": "Mont Baduel",
+                  "text": "A Mont Baduel egy buja növényzettel borított, jellegzetes természetes hegycsúcs, amely zord túrakörnyezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        -52.307395,
+                        4.921672
+                  ]
+            },
+            {
+                  "name": "Montagne des Maringouins",
+                  "text": "A Montagne des Maringouins egy meredek természetes hegycsúcs, amelyet a régió sűrű trópusi erdei terepe alakított ki.",
+                  "category": "natural",
+                  "coords": [
+                        -52.317784,
+                        4.908538
+                  ]
+            },
+            {
+                  "name": "Église du Christianisme Céleste",
+                  "text": "Nyugat-afrikai keresztény templom, amely az Égi Kereszténység Egyházához tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        -52.319789,
+                        4.921711
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Fatima",
+                  "text": "A fatimai Szűzanyának szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -52.31874,
+                        4.920883
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Szent Pálnak szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -52.321811,
+                        4.915527
+                  ]
+            },
+            {
+                  "name": "Église de Dieu de la Porte Étroite de Guyane",
+                  "text": "Helyi keresztény templom, a „Szűk Kapu” gyülekezetének székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.333422,
+                        4.894637
+                  ]
+            },
+            {
+                  "name": "Église évangélique",
+                  "text": "Evangélikus keresztény imaház a városközpont közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.313664,
+                        4.918204
+                  ]
+            },
+            {
+                  "name": "Assemblée de la Grâce",
+                  "text": "Az „Assemblée de la Grâce” keresztény gyülekezet gyülekezeti terme.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.317939,
+                        4.90162
+                  ]
+            },
+            {
+                  "name": "Nouvelle Église Apostolique",
+                  "text": "Nemzetközi keresztény felekezet, az Új Apostoli Egyház gyülekezete.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.314445,
+                        4.91987
+                  ]
+            },
+            {
+                  "name": "Église de la Pentecôte",
+                  "text": "Pünkösdi keresztény közösség istentiszteleti helye.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.317309,
+                        4.92292
+                  ]
+            },
+            {
+                  "name": "Église Eben-Ezer",
+                  "text": "A bibliai Eben-Ezer nevet viselő keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.318358,
+                        4.922787
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah",
+                  "text": "Jehova Tanúi Királyság-terme vallási összejövetelek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.3192,
+                        4.918909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne du Tigre",
+                  "text": "Montagne du Tigre este un vârf natural proeminent, caracterizat de versanții săi abrupți și împăduriți care se înalță deasupra terenului.",
+                  "category": "natural",
+                  "coords": [
+                        -52.303255,
+                        4.911759
+                  ]
+            },
+            {
+                  "name": "Mont Lucas",
+                  "text": "Mont Lucas este un vârf montan natural înalt care oferă puncte de belvedere pitorești asupra peisajului tropical înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -52.298901,
+                        4.921996
+                  ]
+            },
+            {
+                  "name": "Mont Baduel",
+                  "text": "Mont Baduel este un vârf natural distinct acoperit de vegetație luxuriantă, care oferă un mediu accidentat pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        -52.307395,
+                        4.921672
+                  ]
+            },
+            {
+                  "name": "Montagne des Maringouins",
+                  "text": "Montagne des Maringouins este un vârf montan natural abrupt, modelat de terenul forestier tropical dens al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -52.317784,
+                        4.908538
+                  ]
+            },
+            {
+                  "name": "Église du Christianisme Céleste",
+                  "text": "O biserică creștină vest-africană aparținând Confesiunii Creștine Cerești.",
+                  "category": "religious",
+                  "coords": [
+                        -52.319789,
+                        4.921711
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Fatima",
+                  "text": "Biserică catolică dedicată Maicii Domnului de la Fatima.",
+                  "category": "religious",
+                  "coords": [
+                        -52.31874,
+                        4.920883
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Biserică catolică dedicată Sfântului Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        -52.321811,
+                        4.915527
+                  ]
+            },
+            {
+                  "name": "Église de Dieu de la Porte Étroite de Guyane",
+                  "text": "Biserică creștină locală a congregației „Poarta Strâmtă”.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.333422,
+                        4.894637
+                  ]
+            },
+            {
+                  "name": "Église évangélique",
+                  "text": "Lăcaș de cult creștin evanghelic situat în apropierea centrului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.313664,
+                        4.918204
+                  ]
+            },
+            {
+                  "name": "Assemblée de la Grâce",
+                  "text": "O sală de adunare a comunității creștine „Adunarea Harului”.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.317939,
+                        4.90162
+                  ]
+            },
+            {
+                  "name": "Nouvelle Église Apostolique",
+                  "text": "O congregație a Bisericii Nou Apostolice, o confesiune creștină internațională.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.314445,
+                        4.91987
+                  ]
+            },
+            {
+                  "name": "Église de la Pentecôte",
+                  "text": "O comunitate creștină penticostală pentru servicii religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.317309,
+                        4.92292
+                  ]
+            },
+            {
+                  "name": "Église Eben-Ezer",
+                  "text": "O biserică creștină care poartă numele biblic Eben-Ezer.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.318358,
+                        4.922787
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova pentru întruniri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.3192,
+                        4.918909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne du Tigre",
+                  "text": "Montagne du Tigre is a prominent natural peak characterized by its steep, forested slopes rising above the terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -52.303255,
+                        4.911759
+                  ]
+            },
+            {
+                  "name": "Mont Lucas",
+                  "text": "Mont Lucas is an elevated natural mountain summit offering scenic viewpoints over the surrounding tropical landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -52.298901,
+                        4.921996
+                  ]
+            },
+            {
+                  "name": "Mont Baduel",
+                  "text": "Mont Baduel is a distinct natural peak covered in lush vegetation that provides a rugged hiking environment.",
+                  "category": "natural",
+                  "coords": [
+                        -52.307395,
+                        4.921672
+                  ]
+            },
+            {
+                  "name": "Montagne des Maringouins",
+                  "text": "Montagne des Maringouins is a steep natural mountain peak shaped by the region's dense tropical forest terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -52.317784,
+                        4.908538
+                  ]
+            },
+            {
+                  "name": "Église du Christianisme Céleste",
+                  "text": "A West African Christian church belonging to the Celestial denomination.",
+                  "category": "religious",
+                  "coords": [
+                        -52.319789,
+                        4.921711
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Fatima",
+                  "text": "Catholic church dedicated to Our Lady of Fatima.",
+                  "category": "religious",
+                  "coords": [
+                        -52.31874,
+                        4.920883
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Catholic church dedicated to Saint Paul.",
+                  "category": "religious",
+                  "coords": [
+                        -52.321811,
+                        4.915527
+                  ]
+            },
+            {
+                  "name": "Église de Dieu de la Porte Étroite de Guyane",
+                  "text": "Local Christian church of the 'Narrow Gate' congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.333422,
+                        4.894637
+                  ]
+            },
+            {
+                  "name": "Église évangélique",
+                  "text": "An evangelical Christian place of worship located near the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.313664,
+                        4.918204
+                  ]
+            },
+            {
+                  "name": "Assemblée de la Grâce",
+                  "text": "A meeting hall for the Christian congregation 'Assembly of Grace'.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.317939,
+                        4.90162
+                  ]
+            },
+            {
+                  "name": "Nouvelle Église Apostolique",
+                  "text": "A congregation of the New Apostolic Church, an international Christian denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.314445,
+                        4.91987
+                  ]
+            },
+            {
+                  "name": "Église de la Pentecôte",
+                  "text": "A Pentecostal Christian congregation for religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.317309,
+                        4.92292
+                  ]
+            },
+            {
+                  "name": "Église Eben-Ezer",
+                  "text": "A Christian church bearing the biblical name Eben-Ezer.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.318358,
+                        4.922787
+                  ]
+            },
+            {
+                  "name": "Témoins de Jéhovah",
+                  "text": "A Kingdom Hall of the Jehovah's Witnesses for religious meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.3192,
+                        4.918909
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.3167, 4.9167],
@@ -203,7 +1319,232 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Cœur économique de l'agglomération de Cayenne.", "Abrite des centaines d'entreprises."],
     }, image: "/poi-images/gf-zi-collery-economic-v2.webp"},
   {
-    id: "gf-zi-degrad-cannes-economic-v2",
+    id: "gf-zi-degrad-cannes-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pressoir",
+                  "text": "Historische Ruinen einer mechanischen Presse aus dem 19. Jahrhundert, die zur Verarbeitung von Zuckerrohr oder Roucou diente.",
+                  "category": "historical",
+                  "coords": [
+                        -52.295567,
+                        4.866284
+                  ]
+            },
+            {
+                  "name": "Sentier du Rorota",
+                  "text": "Ein beliebter Rundweg durch den Küstenwald, der für die häufigen Sichtungen von Faultieren in den Baumkronen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.262375,
+                        4.887295
+                  ]
+            },
+            {
+                  "name": "Montagne de Rémire",
+                  "text": "Ein kleiner Berg nahe der Küste mit Wanderwegen und Ausblicken über den Atlantik und Rémire-Montjoly.",
+                  "category": "natural",
+                  "coords": [
+                        -52.267878,
+                        4.89192
+                  ]
+            },
+            {
+                  "name": "Mont Caïa",
+                  "text": "Ein grüner Berggipfel in der Region Rémire-Montjoly, erreichbar über Pfade durch dichte tropische Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -52.255653,
+                        4.883125
+                  ]
+            },
+            {
+                  "name": "Plage de Gosselin",
+                  "text": "Ein ruhiger Sandstrand, gesäumt von Felsen und tropischen Bäumen, ideal für Küstenwanderungen und Vogelbeobachtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.255792,
+                        4.893474
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée-Conception",
+                  "text": "Eine Kirche aus dem 19. Jahrhundert in Rémire-Montjoly, bekannt für ihre elegante weiße Fassade und das schlichte Kolonialdesign.",
+                  "category": "religious",
+                  "coords": [
+                        -52.276172,
+                        4.885873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pressoir",
+                  "text": "19. századi mechanikus prés történelmi romjai, amelyet cukornád vagy orleánfa feldolgozására használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -52.295567,
+                        4.866284
+                  ]
+            },
+            {
+                  "name": "Sentier du Rorota",
+                  "text": "Népszerű körút a parti erdőben, amely a lombkoronában gyakran megfigyelhető lajhárokról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.262375,
+                        4.887295
+                  ]
+            },
+            {
+                  "name": "Montagne de Rémire",
+                  "text": "Kis hegy a part közelében, amelynek túraútvonalairól kilátás nyílik az Atlanti-óceánra és Rémire-Montjolyra.",
+                  "category": "natural",
+                  "coords": [
+                        -52.267878,
+                        4.89192
+                  ]
+            },
+            {
+                  "name": "Mont Caïa",
+                  "text": "Zöldellő hegycsúcs Rémire-Montjoly régiójában, amely sűrű trópusi növényzeten átvezető ösvényeken érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        -52.255653,
+                        4.883125
+                  ]
+            },
+            {
+                  "name": "Plage de Gosselin",
+                  "text": "Sziklákkal és trópusi fákkal szegélyezett csendes homokos tengerpart, amely népszerű a parti séták és a madármegfigyelés körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.255792,
+                        4.893474
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée-Conception",
+                  "text": "19. századi templom Rémire-Montjolyban, amely elegáns fehér homlokzatáról és egyszerű gyarmati stílusáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -52.276172,
+                        4.885873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pressoir",
+                  "text": "Ruinele istorice ale unei prese mecanice folosite în secolul al XIX-lea pentru procesarea trestiei de zahăr sau a roucou-ului.",
+                  "category": "historical",
+                  "coords": [
+                        -52.295567,
+                        4.866284
+                  ]
+            },
+            {
+                  "name": "Sentier du Rorota",
+                  "text": "Un traseu circular popular prin pădurea de coastă, faimos pentru observațiile frecvente de leneși în coronament.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.262375,
+                        4.887295
+                  ]
+            },
+            {
+                  "name": "Montagne de Rémire",
+                  "text": "Un munte mic lângă coastă, oferind trasee de drumeție cu vedere spre Oceanul Atlantic și Rémire-Montjoly.",
+                  "category": "natural",
+                  "coords": [
+                        -52.267878,
+                        4.89192
+                  ]
+            },
+            {
+                  "name": "Mont Caïa",
+                  "text": "Un vârf de deal înverzit în regiunea Rémire-Montjoly, accesibil prin poteci ce străbat vegetația tropicală densă.",
+                  "category": "natural",
+                  "coords": [
+                        -52.255653,
+                        4.883125
+                  ]
+            },
+            {
+                  "name": "Plage de Gosselin",
+                  "text": "O plajă de nisip liniștită, mărginită de stânci și arbori tropicali, populară pentru plimbări pe coastă și observarea păsărilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.255792,
+                        4.893474
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée-Conception",
+                  "text": "O biserică din secolul al XIX-lea în Rémire-Montjoly, cunoscută pentru fațada sa albă elegantă și designul colonial simplu.",
+                  "category": "religious",
+                  "coords": [
+                        -52.276172,
+                        4.885873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pressoir",
+                  "text": "Historical ruins of a mechanical press used in the 19th century for processing sugarcane or roucou.",
+                  "category": "historical",
+                  "coords": [
+                        -52.295567,
+                        4.866284
+                  ]
+            },
+            {
+                  "name": "Sentier du Rorota",
+                  "text": "A popular loop trail through the coastal forest, famous for frequent sightings of sloths in the canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.262375,
+                        4.887295
+                  ]
+            },
+            {
+                  "name": "Montagne de Rémire",
+                  "text": "A small mountain near the coast offering hiking trails with views over the Atlantic Ocean and Rémire-Montjoly.",
+                  "category": "natural",
+                  "coords": [
+                        -52.267878,
+                        4.89192
+                  ]
+            },
+            {
+                  "name": "Mont Caïa",
+                  "text": "A verdant hill peak in the Rémire-Montjoly region, reachable via trails through dense tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -52.255653,
+                        4.883125
+                  ]
+            },
+            {
+                  "name": "Plage de Gosselin",
+                  "text": "A quiet sandy beach fringed by rocks and tropical trees, popular for coastal walks and birdwatching.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.255792,
+                        4.893474
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée-Conception",
+                  "text": "A 19th-century church in Rémire-Montjoly, known for its elegant white facade and simple colonial design.",
+                  "category": "religious",
+                  "coords": [
+                        -52.276172,
+                        4.885873
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.275, 4.88],
@@ -253,7 +1594,52 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Emplacement logistique stratégique.", "Pôle majeur pour les entreprises d'import-export."],
     }, image: "/poi-images/gf-zi-degrad-cannes-economic-v2.webp"},
   {
-    id: "gf-port-saint-laurent-economic-v2",
+    id: "gf-port-saint-laurent-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chapelle Fatima",
+                  "text": "Eine kleine katholische Kapelle in der Grenzstadt Saint-Laurent-du-Maroni in Französisch-Guayana.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.012302,
+                        5.49625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chapelle Fatima",
+                  "text": "Kicsiny katolikus kápolna a francia guyanai határvárosban, Saint-Laurent-du-Maroni-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.012302,
+                        5.49625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chapelle Fatima",
+                  "text": "O mică chapelă catolică în orașul de frontieră Saint-Laurent-du-Maroni din Guyana Franceză.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.012302,
+                        5.49625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chapelle Fatima",
+                  "text": "A small Catholic chapel in the French Guianese border town of Saint-Laurent-du-Maroni.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.012302,
+                        5.49625
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GF",
     coords: [-54.0267, 5.5019],
@@ -303,7 +1689,160 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Deuxième port le plus important après Dégrad des Cannes.", "Plaque tournante pour le transport de passagers et de fret vers le Suriname."],
     }, image: "/poi-images/gf-port-saint-laurent-economic-v2.webp"},
   {
-    id: "gf-sawmills-saint-laurent-economic-v2",
+    id: "gf-sawmills-saint-laurent-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camp Lorrain",
+                  "text": "Ruinen eines ehemaligen Lagers der Strafkolonie, das die harte Geschichte der Zwangsarbeit in Französisch-Guayana zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -53.991859,
+                        5.477327
+                  ]
+            },
+            {
+                  "name": "Église de Zeboth",
+                  "text": "Eine christliche Kirche in der Grenzstadt Saint-Laurent-du-Maroni für die örtliche Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.010596,
+                        5.486799
+                  ]
+            },
+            {
+                  "name": "Eau de Vie",
+                  "text": "Ein kleines christliches Gotteshaus, das spirituellen Beistand in der Region am Maroni-Fluss bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.010985,
+                        5.484085
+                  ]
+            },
+            {
+                  "name": "Nouvelle Vie",
+                  "text": "Ein modernes christliches Versammlungshaus für die wachsende religiöse Gemeinschaft in der Grenzregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.01223,
+                        5.483649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camp Lorrain",
+                  "text": "Egy egykori büntetőtelep romjai, amelyek Francia Guyana kényszermunkás múltját mutatják be.",
+                  "category": "historical",
+                  "coords": [
+                        -53.991859,
+                        5.477327
+                  ]
+            },
+            {
+                  "name": "Église de Zeboth",
+                  "text": "Keresztény templom a határmenti Saint-Laurent-du-Maroni városában a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.010596,
+                        5.486799
+                  ]
+            },
+            {
+                  "name": "Eau de Vie",
+                  "text": "Kicsi keresztény imaház, amely lelki támaszt nyújt a Maroni-folyó menti régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.010985,
+                        5.484085
+                  ]
+            },
+            {
+                  "name": "Nouvelle Vie",
+                  "text": "Modern keresztény gyülekezeti ház a határmenti régió növekvő vallási közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.01223,
+                        5.483649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camp Lorrain",
+                  "text": "Ruinele unei foste tabere de condamnați, care prezintă istoria dură a muncii forțate în Guyana Franceză.",
+                  "category": "historical",
+                  "coords": [
+                        -53.991859,
+                        5.477327
+                  ]
+            },
+            {
+                  "name": "Église de Zeboth",
+                  "text": "O biserică creștină în orașul de frontieră Saint-Laurent-du-Maroni pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.010596,
+                        5.486799
+                  ]
+            },
+            {
+                  "name": "Eau de Vie",
+                  "text": "Un mic lăcaș de cult creștin care oferă sprijin spiritual în regiunea de pe malul râului Maroni.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.010985,
+                        5.484085
+                  ]
+            },
+            {
+                  "name": "Nouvelle Vie",
+                  "text": "O casă de adunare creștină modernă pentru comunitatea religioasă în creștere din regiunea de frontieră.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.01223,
+                        5.483649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camp Lorrain",
+                  "text": "Ruins of a former penal camp showing the harsh history of forced labor in French Guiana.",
+                  "category": "historical",
+                  "coords": [
+                        -53.991859,
+                        5.477327
+                  ]
+            },
+            {
+                  "name": "Église de Zeboth",
+                  "text": "A Christian church in the border town of Saint-Laurent-du-Maroni for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.010596,
+                        5.486799
+                  ]
+            },
+            {
+                  "name": "Eau de Vie",
+                  "text": "A small Christian place of worship providing spiritual support in the region along the Maroni River.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.010985,
+                        5.484085
+                  ]
+            },
+            {
+                  "name": "Nouvelle Vie",
+                  "text": "A modern Christian meeting house for the growing religious community in the border region.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.01223,
+                        5.483649
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-54.03, 5.48],
@@ -453,7 +1992,52 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["L'une des plus grandes mines actives de Guyane.", "L'or est le principal produit d'exportation du pays (après les fusées)."],
     }, image: "/poi-images/gf-mine-esperance-economic-v2.webp"},
   {
-    id: "gf-mine-dieu-merci-economic-v2",
+    id: "gf-mine-dieu-merci-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Devis",
+                  "text": "Ein Gipfel in der Region Dieu Merci, der einen Panoramablick über die umliegenden Goldabbaugebiete und den Regenwald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -53.294114,
+                        4.809608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Devis",
+                  "text": "Csúcs a Dieu Merci régióban, amely panorámás kilátást nyújt a környező aranybányákra és az esőerdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -53.294114,
+                        4.809608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Devis",
+                  "text": "Un vârf în regiunea Dieu Merci care oferă vederi panoramice asupra zonelor miniere de aur și a pădurii tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -53.294114,
+                        4.809608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Devis",
+                  "text": "A peak in the Dieu Merci region offering panoramic views over the surrounding gold-mining areas and rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -53.294114,
+                        4.809608
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-53.2833, 4.8167],
@@ -703,7 +2287,124 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Comprend d'énormes carneaux (canaux d'évacuation des flammes).", "A été pendant des décennies le pilier de l'aventure spatiale européenne."],
     }, image: "/poi-images/gf-ela3-launchpad-economic-v2.webp"},
   {
-    id: "gf-ela4-launchpad-economic-v2",
+    id: "gf-ela4-launchpad-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agami",
+                  "text": "Ein Aussichtspunkt mit direktem Blick auf die Startrampe der Ariane 6 (ELA4).",
+                  "category": "natural",
+                  "coords": [
+                        -52.833774,
+                        5.224099
+                  ]
+            },
+            {
+                  "name": "Colibri",
+                  "text": "Ein nach dem Kolibri benannter Beobachtungsplatz für Raketenstarts am Weltraumzentrum.",
+                  "category": "natural",
+                  "coords": [
+                        -52.801377,
+                        5.267692
+                  ]
+            },
+            {
+                  "name": "Kikiwi",
+                  "text": "Ein Aussichtspunkt für Weltraumbegeisterte auf dem Gelände des Centre Spatial Guyanais.",
+                  "category": "natural",
+                  "coords": [
+                        -52.797599,
+                        5.266244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agami",
+                  "text": "Kilátópont, ahonnan közvetlen rálátás nyílik az Ariane 6 (ELA4) kilövőállására.",
+                  "category": "natural",
+                  "coords": [
+                        -52.833774,
+                        5.224099
+                  ]
+            },
+            {
+                  "name": "Colibri",
+                  "text": "A kolibriról elnevezett kilövés-megfigyelő hely az űrközpont közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.801377,
+                        5.267692
+                  ]
+            },
+            {
+                  "name": "Kikiwi",
+                  "text": "Kilátóhely rakétafellövések megtekintéséhez a Francia Guianai Űrközpont területén.",
+                  "category": "natural",
+                  "coords": [
+                        -52.797599,
+                        5.266244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agami",
+                  "text": "Punct de observație public cu vedere directă către rampa de lansare Ariane 6 (ELA4).",
+                  "category": "natural",
+                  "coords": [
+                        -52.833774,
+                        5.224099
+                  ]
+            },
+            {
+                  "name": "Colibri",
+                  "text": "Loc de observare a lansărilor spațiale, numit după pasărea colibri, situat lângă centrul spațial.",
+                  "category": "natural",
+                  "coords": [
+                        -52.801377,
+                        5.267692
+                  ]
+            },
+            {
+                  "name": "Kikiwi",
+                  "text": "Punct de belvedere pentru urmărirea lansărilor de rachete din cadrul Centrului Spațial Guyanez.",
+                  "category": "natural",
+                  "coords": [
+                        -52.797599,
+                        5.266244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agami",
+                  "text": "A public viewpoint offering a clear line of sight to the Ariane 6 (ELA4) launch pad.",
+                  "category": "natural",
+                  "coords": [
+                        -52.833774,
+                        5.224099
+                  ]
+            },
+            {
+                  "name": "Colibri",
+                  "text": "A strategic launch observation site named after the hummingbird, facing the space centre.",
+                  "category": "natural",
+                  "coords": [
+                        -52.801377,
+                        5.267692
+                  ]
+            },
+            {
+                  "name": "Kikiwi",
+                  "text": "A viewpoint for watching rocket launches, located within the Guiana Space Centre grounds.",
+                  "category": "natural",
+                  "coords": [
+                        -52.797599,
+                        5.266244
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.775, 5.25],
@@ -803,7 +2504,52 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Construit sur les fondations de l'ancien pas de tir d'Ariane 1.", "Essentiel pour l'offre commerciale d'Arianespace."],
     }, image: "/poi-images/gf-elv-launchpad-economic-v2.webp"},
   {
-    id: "gf-els-launchpad-economic-v2",
+    id: "gf-els-launchpad-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Début de la piste à l'océan",
+                  "text": "Aussichtspunkt am Beginn des Pfades, der zur Atlantikküste führt.",
+                  "category": "natural",
+                  "coords": [
+                        -52.849094,
+                        5.347308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Début de la piste à l'océan",
+                  "text": "Kilátópont az óceánhoz vezető ösvény kezdeténél, kilátással az Atlanti-partra.",
+                  "category": "natural",
+                  "coords": [
+                        -52.849094,
+                        5.347308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Début de la piste à l'océan",
+                  "text": "Punct de observare la începutul potecii care duce spre coasta Atlanticului.",
+                  "category": "natural",
+                  "coords": [
+                        -52.849094,
+                        5.347308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Début de la piste à l'océan",
+                  "text": "Trailhead viewpoint overlooking the path leading to the Atlantic coast.",
+                  "category": "natural",
+                  "coords": [
+                        -52.849094,
+                        5.347308
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.8333, 5.3],
@@ -903,7 +2649,88 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Production extrêmement énergivore.", "Indispensable à la propulsion des lanceurs."],
     }, image: "/poi-images/gf-air-liquide-kourou-economic-v2.webp"},
   {
-    id: "gf-upg-propellant-economic-v2",
+    id: "gf-upg-propellant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Belvédère Orchidée",
+                  "text": "Ein erhöhter Beobachtungspunkt in der Nähe der Treibstoffproduktionsanlagen des Weltraumzentrums.",
+                  "category": "natural",
+                  "coords": [
+                        -52.762338,
+                        5.223039
+                  ]
+            },
+            {
+                  "name": "Site d'Observation Toucan - Décollage fusée",
+                  "text": "Einer der offiziellen öffentlichen Plätze zur Beobachtung von Ariane- und Vega-Raketenstarts.",
+                  "category": "natural",
+                  "coords": [
+                        -52.770227,
+                        5.19445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Belvédère Orchidée",
+                  "text": "Magaslati megfigyelőpont az űrközpont hajtóanyaggyártó üzemei közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.762338,
+                        5.223039
+                  ]
+            },
+            {
+                  "name": "Site d'Observation Toucan - Décollage fusée",
+                  "text": "Az Ariane és Vega rakéták indításának egyik hivatalos nyilvános megfigyelőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        -52.770227,
+                        5.19445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Belvédère Orchidée",
+                  "text": "Punct de observație elevat în apropierea instalațiilor de producție a combustibilului rachetelor.",
+                  "category": "natural",
+                  "coords": [
+                        -52.762338,
+                        5.223039
+                  ]
+            },
+            {
+                  "name": "Site d'Observation Toucan - Décollage fusée",
+                  "text": "Unul dintre locurile publice oficiale pentru vizionarea lansărilor rachetelor Ariane și Vega.",
+                  "category": "natural",
+                  "coords": [
+                        -52.770227,
+                        5.19445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belvédère Orchidée",
+                  "text": "An elevated observation point near the propellant production plants of the space centre.",
+                  "category": "natural",
+                  "coords": [
+                        -52.762338,
+                        5.223039
+                  ]
+            },
+            {
+                  "name": "Toucan launch observation point",
+                  "text": "One of the official public sites for viewing Ariane and Vega rocket liftoffs.",
+                  "category": "natural",
+                  "coords": [
+                        -52.770227,
+                        5.19445
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.76, 5.22],
@@ -953,7 +2780,304 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Traite des centaines de tonnes de matières hautement explosives.", "Mesures de sécurité maximales dans toute l'installation."],
     }, image: "/poi-images/gf-upg-propellant-economic-v2.webp"},
   {
-    id: "gf-kourou-biomass-economic-v2",
+    id: "gf-kourou-biomass-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Lombard",
+                  "text": "Ein tropischer Berggipfel in der bewaldeten Region nahe Kourou.",
+                  "category": "natural",
+                  "coords": [
+                        -52.674212,
+                        5.153377
+                  ]
+            },
+            {
+                  "name": "Bienvenue à Kourou",
+                  "text": "Ein ikonisches Denkmal, das die Besucher am Eingang der „Weltraumstadt“ begrüßt.",
+                  "category": "historical",
+                  "coords": [
+                        -52.672775,
+                        5.1544
+                  ]
+            },
+            {
+                  "name": "Montagne Café",
+                  "text": "Ein kleiner Regenwaldhügel in der Nähe des Biomassekraftwerks.",
+                  "category": "natural",
+                  "coords": [
+                        -52.672595,
+                        5.156022
+                  ]
+            },
+            {
+                  "name": "Mont Pariacabo",
+                  "text": "Ein küstennaher Berggipfel mit technischen Installationen des Weltraumzentrums.",
+                  "category": "natural",
+                  "coords": [
+                        -52.680453,
+                        5.16347
+                  ]
+            },
+            {
+                  "name": "Site d'observation Ibis - Décollage fusée",
+                  "text": "Eine nach dem roten Ibis benannte Plattform zur Beobachtung von Weltraummissionen.",
+                  "category": "natural",
+                  "coords": [
+                        -52.67954,
+                        5.163167
+                  ]
+            },
+            {
+                  "name": "Site d'Observation Public Carapa - Décollage fusée",
+                  "text": "Ein erhöhter Standort am Mont Carapa mit weitem Blick auf die Startrampen.",
+                  "category": "natural",
+                  "coords": [
+                        -52.669236,
+                        5.165272
+                  ]
+            },
+            {
+                  "name": "Roches gravées de la Carapa",
+                  "text": "Eine bedeutende archäologische Stätte mit in den Fels gehauenen präkolumbianischen Petroglyphen.",
+                  "category": "historical",
+                  "coords": [
+                        -52.66461,
+                        5.159248
+                  ]
+            },
+            {
+                  "name": "Musée de l'Espace",
+                  "text": "Das große Weltraummuseum am Centre Spatial Guyanais mit lebensgroßen Raketenmodellen.",
+                  "category": "museum",
+                  "coords": [
+                        -52.683661,
+                        5.169016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Lombard",
+                  "text": "Kourou közeli erdős területen található trópusi hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -52.674212,
+                        5.153377
+                  ]
+            },
+            {
+                  "name": "Bienvenue à Kourou",
+                  "text": "Ikonikus üdvözlő emlékmű az „űrváros” bejáratánál.",
+                  "category": "historical",
+                  "coords": [
+                        -52.672775,
+                        5.1544
+                  ]
+            },
+            {
+                  "name": "Montagne Café",
+                  "text": "Kisméretű esőerdei domb a biomassza erőmű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.672595,
+                        5.156022
+                  ]
+            },
+            {
+                  "name": "Mont Pariacabo",
+                  "text": "Partközeli hegycsúcs az űrközpont technikai berendezéseivel.",
+                  "category": "natural",
+                  "coords": [
+                        -52.680453,
+                        5.16347
+                  ]
+            },
+            {
+                  "name": "Site d'observation Ibis - Décollage fusée",
+                  "text": "A vörös íbiszről elnevezett platform űrmissziók megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -52.67954,
+                        5.163167
+                  ]
+            },
+            {
+                  "name": "Site d'Observation Public Carapa - Décollage fusée",
+                  "text": "A Mont Carapa magaslati pontja, ahonnan széles kilátás nyílik a kilövőállásokra.",
+                  "category": "natural",
+                  "coords": [
+                        -52.669236,
+                        5.165272
+                  ]
+            },
+            {
+                  "name": "Roches gravées de la Carapa",
+                  "text": "Jelentős régészeti lelőhely a sziklába vésett prekolumbián petroglifákkal.",
+                  "category": "historical",
+                  "coords": [
+                        -52.66461,
+                        5.159248
+                  ]
+            },
+            {
+                  "name": "Musée de l'Espace",
+                  "text": "A Francia Guianai Űrközpont nagy űrmúzeuma életnagyságú rakétamodellekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -52.683661,
+                        5.169016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Lombard",
+                  "text": "Vârf tropical situat în regiunea împădurită din apropierea orașului Kourou.",
+                  "category": "natural",
+                  "coords": [
+                        -52.674212,
+                        5.153377
+                  ]
+            },
+            {
+                  "name": "Bienvenue à Kourou",
+                  "text": "Monument iconic de bun venit care marchează intrarea în „Orașul Spațial”.",
+                  "category": "historical",
+                  "coords": [
+                        -52.672775,
+                        5.1544
+                  ]
+            },
+            {
+                  "name": "Montagne Café",
+                  "text": "Mic deal cu pădure tropicală situat lângă zona centralei electrice pe biomasă.",
+                  "category": "natural",
+                  "coords": [
+                        -52.672595,
+                        5.156022
+                  ]
+            },
+            {
+                  "name": "Mont Pariacabo",
+                  "text": "Vârf muntos lângă coastă, unde se află instalații tehnice ale centrului spațial.",
+                  "category": "natural",
+                  "coords": [
+                        -52.680453,
+                        5.16347
+                  ]
+            },
+            {
+                  "name": "Site d'observation Ibis - Décollage fusée",
+                  "text": "Platformă de observație numită după ibisul roșu, utilizată pentru vizionarea misiunilor spațiale.",
+                  "category": "natural",
+                  "coords": [
+                        -52.67954,
+                        5.163167
+                  ]
+            },
+            {
+                  "name": "Site d'Observation Public Carapa - Décollage fusée",
+                  "text": "Sit elevat pe Muntele Carapa care oferă o vedere largă asupra rampelor de lansare.",
+                  "category": "natural",
+                  "coords": [
+                        -52.669236,
+                        5.165272
+                  ]
+            },
+            {
+                  "name": "Roches gravées de la Carapa",
+                  "text": "Sit arheologic semnificativ cu petroglife precolumbiene sculptate în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        -52.66461,
+                        5.159248
+                  ]
+            },
+            {
+                  "name": "Musée de l'Espace",
+                  "text": "Muzeul spațial principal de la Centrul Spațial Guyanez, cu machete de rachete la scară naturală.",
+                  "category": "museum",
+                  "coords": [
+                        -52.683661,
+                        5.169016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Lombard",
+                  "text": "A tropical peak set in the forested inland region near Kourou.",
+                  "category": "natural",
+                  "coords": [
+                        -52.674212,
+                        5.153377
+                  ]
+            },
+            {
+                  "name": "Bienvenue à Kourou",
+                  "text": "An iconic welcome monument marking the entrance to the 'Space City'.",
+                  "category": "historical",
+                  "coords": [
+                        -52.672775,
+                        5.1544
+                  ]
+            },
+            {
+                  "name": "Montagne Café",
+                  "text": "A small rainforest hill located near the biomass power plant area.",
+                  "category": "natural",
+                  "coords": [
+                        -52.672595,
+                        5.156022
+                  ]
+            },
+            {
+                  "name": "Mont Pariacabo",
+                  "text": "A peak near the coast, home to technical installations of the space centre.",
+                  "category": "natural",
+                  "coords": [
+                        -52.680453,
+                        5.16347
+                  ]
+            },
+            {
+                  "name": "Ibis launch observation deck",
+                  "text": "An observation platform named after the scarlet ibis, used for viewing space missions.",
+                  "category": "natural",
+                  "coords": [
+                        -52.67954,
+                        5.163167
+                  ]
+            },
+            {
+                  "name": "Carapa launch observation deck",
+                  "text": "An elevated site on Mount Carapa providing a wide vista of the launch pads.",
+                  "category": "natural",
+                  "coords": [
+                        -52.669236,
+                        5.165272
+                  ]
+            },
+            {
+                  "name": "Roches gravées de la Carapa",
+                  "text": "A significant archaeological site featuring Pre-Columbian petroglyphs carved into the rock.",
+                  "category": "historical",
+                  "coords": [
+                        -52.66461,
+                        5.159248
+                  ]
+            },
+            {
+                  "name": "Musée de l'Espace",
+                  "text": "A major space museum at the Guiana Space Centre featuring full-scale rocket models.",
+                  "category": "museum",
+                  "coords": [
+                        -52.683661,
+                        5.169016
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.6667, 5.1667],
@@ -1053,7 +3177,124 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Projet phare pour les énergies renouvelables.", "Alimente des milliers de foyers en électricité de manière stable."],
     }, image: "/poi-images/gf-cacao-biomass-economic-v2.webp"},
   {
-    id: "gf-port-saint-georges-economic-v2",
+    id: "gf-port-saint-georges-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "Ein französisches Gotteshaus in der Grenzstadt Saint-Georges am Ufer des Oyapock-Flusses.",
+                  "category": "religious",
+                  "coords": [
+                        -51.80208,
+                        3.888419
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "Ein schlichtes religiöses Gebäude der Zeugen Jehovas in der Nähe der brasilianischen Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.801813,
+                        3.891582
+                  ]
+            },
+            {
+                  "name": "Markt",
+                  "text": "Dieser lebhafte Marktplatz am Fluss ist der zentrale Ort für den Handel mit lokalen Agrarprodukten.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.800486,
+                        3.888903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "Francia templom az Oyapock-folyó partján fekvő határvárosban, Brazília szomszédságában.",
+                  "category": "religious",
+                  "coords": [
+                        -51.80208,
+                        3.888419
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "Jehova Tanúinak egyszerű vallási épülete a brazil határ közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.801813,
+                        3.891582
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Élénk folyóparti piactér, amely a helyi mezőgazdasági termékek kereskedelmének központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.800486,
+                        3.888903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "O biserică franceză situată în orașul de frontieră Saint-Georges, pe malul râului Oyapock.",
+                  "category": "religious",
+                  "coords": [
+                        -51.80208,
+                        3.888419
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "O clădire religioasă simplă a Martorilor lui Iehova, situată aproape de granița cu Brazilia.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.801813,
+                        3.891582
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Această piață plină de viață de pe malul râului este centrul comerțului cu produse agricole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.800486,
+                        3.888903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Saint-Georges",
+                  "text": "A French house of worship located in the border town of Saint-Georges on the banks of the Oyapock River.",
+                  "category": "religious",
+                  "coords": [
+                        -51.80208,
+                        3.888419
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "A simple religious building of Jehovah's Witnesses located near the Brazilian border.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.801813,
+                        3.891582
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "This lively riverside marketplace is the central hub for trading local agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.800486,
+                        3.888903
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GF",
     coords: [-51.8, 3.8833],
@@ -1103,7 +3344,124 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Important pour les échanges avec l'État brésilien de l'Amapá.", "Complète le pont frontalier sur l'Oyapock."],
     }, image: "/poi-images/gf-port-saint-georges-economic-v2.webp"},
   {
-    id: "gf-port-maripasoula-economic-v2",
+    id: "gf-port-maripasoula-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fromager",
+                  "text": "Dieser monumentale Kapokbaum ist ein markantes Wahrzeichen in der abgelegenen Grenzstadt Maripasoula.",
+                  "category": "historical",
+                  "coords": [
+                        -54.041534,
+                        3.720431
+                  ]
+            },
+            {
+                  "name": "Sables blancs",
+                  "text": "Ein schöner Flussstrand mit weißem Sand am Ufer des Lawa-Flusses nahe Maripasoula.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.04049,
+                        3.68167
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Délivrance",
+                  "text": "Eine historische katholische Kirche in Maripasoula, die für die christliche Gemeinde am Maroni-Fluss von Bedeutung ist.",
+                  "category": "religious",
+                  "coords": [
+                        -54.028215,
+                        3.638704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fromager",
+                  "text": "Ez a monumentális gyapotfa (fromager) Maripasoula határvárosának egyik jellegzetes természeti emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        -54.041534,
+                        3.720431
+                  ]
+            },
+            {
+                  "name": "Sables blancs",
+                  "text": "Fehér homokos folyóparti strand a Lawa-folyó mentén, Maripasoula közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.04049,
+                        3.68167
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Délivrance",
+                  "text": "Történelmi katolikus templom Maripasoulában, amely a Maroni-folyó menti keresztény közösség fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        -54.028215,
+                        3.638704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fromager",
+                  "text": "Acest arbore monumental de kapok este un punct de reper distinctiv în orașul de frontieră Maripasoula.",
+                  "category": "historical",
+                  "coords": [
+                        -54.041534,
+                        3.720431
+                  ]
+            },
+            {
+                  "name": "Sables blancs",
+                  "text": "O plajă fluvială cu nisip alb pe malul râului Lawa, în apropiere de Maripasoula.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.04049,
+                        3.68167
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Délivrance",
+                  "text": "O biserică catolică istorică din Maripasoula, importantă pentru comunitatea creștină de pe fluviul Maroni.",
+                  "category": "religious",
+                  "coords": [
+                        -54.028215,
+                        3.638704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fromager",
+                  "text": "This monumental silk-cotton tree is a striking landmark in the remote border town of Maripasoula.",
+                  "category": "historical",
+                  "coords": [
+                        -54.041534,
+                        3.720431
+                  ]
+            },
+            {
+                  "name": "Sables blancs",
+                  "text": "A white sand river beach located along the banks of the Lawa River near Maripasoula.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.04049,
+                        3.68167
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Délivrance",
+                  "text": "A historic Catholic church in Maripasoula, significant for the Christian community along the Maroni River.",
+                  "category": "religious",
+                  "coords": [
+                        -54.028215,
+                        3.638704
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GF",
     coords: [-54.0333, 3.6333],
@@ -1153,7 +3511,88 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Principale voie d'approvisionnement en vivres et carburant dans le sud.", "Dépendant des canoës et des pirogues."],
     }, image: "/poi-images/gf-port-maripasoula-economic-v2.webp"},
   {
-    id: "gf-port-grand-santi-economic-v2",
+    id: "gf-port-grand-santi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Presbytère",
+                  "text": "Das am Ufer des Maroni-Grenzflusses gelegene Presbyterium ist ein wichtiger religiöser Stützpunkt in der abgelegenen Gemeinde Grand-Santi.",
+                  "category": "religious",
+                  "coords": [
+                        -54.383911,
+                        4.274515
+                  ]
+            },
+            {
+                  "name": "Espace Dintu",
+                  "text": "Der Espace Dintu ist der zentrale Marktplatz von Grand-Santi, auf dem lokale Produkte aus dem Regenwald gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.382601,
+                        4.273335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Presbytère",
+                  "text": "A Maroni határfolyó partján fekvő plébánia fontos vallási bázis a távoli Grand-Santi közösségben.",
+                  "category": "religious",
+                  "coords": [
+                        -54.383911,
+                        4.274515
+                  ]
+            },
+            {
+                  "name": "Espace Dintu",
+                  "text": "Az Espace Dintu Grand-Santi központi piactere, ahol az esőerdőből származó helyi termékekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.382601,
+                        4.273335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Presbytère",
+                  "text": "Situat pe malul râului de frontieră Maroni, prezbiteriul este un punct religios important în comunitatea izolată Grand-Santi.",
+                  "category": "religious",
+                  "coords": [
+                        -54.383911,
+                        4.274515
+                  ]
+            },
+            {
+                  "name": "Espace Dintu",
+                  "text": "Espace Dintu este piața centrală din Grand-Santi, unde se comercializează produse locale din pădurea tropicală.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.382601,
+                        4.273335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Presbytère",
+                  "text": "Located on the banks of the Maroni border river, the presbytery is a vital religious outpost in the remote Grand-Santi community.",
+                  "category": "religious",
+                  "coords": [
+                        -54.383911,
+                        4.274515
+                  ]
+            },
+            {
+                  "name": "Espace Dintu",
+                  "text": "The Espace Dintu is the central marketplace of Grand-Santi, where local rainforest produce is traded.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.382601,
+                        4.273335
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GF",
     coords: [-54.3833, 4.2667],
@@ -1203,7 +3642,88 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Ligne de vie pour les riverains du fleuve.", "Le commerce repose souvent sur des embarcations fluviales traditionnelles."],
     }, image: "/poi-images/gf-port-grand-santi-economic-v2.webp"},
   {
-    id: "gf-port-sinnamary-economic-v2",
+    id: "gf-port-sinnamary-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrière de sable",
+                  "text": "Eine lokale Sandgrube, die die industriellen Aktivitäten in der Region Sinnamary veranschaulicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.009663,
+                        5.423649
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Douleurs",
+                  "text": "Die Pfarrkirche von Sinnamary mit ihrer charakteristischen Architektur unweit des Flussufers.",
+                  "category": "religious",
+                  "coords": [
+                        -52.958557,
+                        5.376832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrière de sable",
+                  "text": "Helyi homokbánya, amely a Sinnamary régió ipari tevékenységét szemlélteti.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.009663,
+                        5.423649
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Douleurs",
+                  "text": "Sinnamary plébániatemploma, amely jellegzetes építészettel bír a folyópart közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -52.958557,
+                        5.376832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrière de sable",
+                  "text": "O exploatare locală de nisip care ilustrează activitățile industriale din regiunea Sinnamary.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.009663,
+                        5.423649
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Douleurs",
+                  "text": "Biserica parohială din Sinnamary, cu o arhitectură distinctivă situată în apropierea malului râului.",
+                  "category": "religious",
+                  "coords": [
+                        -52.958557,
+                        5.376832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrière de sable",
+                  "text": "A local sand extraction site illustrating the industrial activities in the Sinnamary region.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.009663,
+                        5.423649
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame des Douleurs",
+                  "text": "The parish church of Sinnamary, featuring a distinctive architecture near the banks of the river.",
+                  "category": "religious",
+                  "coords": [
+                        -52.958557,
+                        5.376832
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GF",
     coords: [-52.95, 5.3667],
@@ -1253,7 +3773,160 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Focus sur la petite pêche durable.", "Réputé pour ses prises fraîches de l'Atlantique."],
     }, image: "/poi-images/gf-port-sinnamary-economic-v2.webp"},
   {
-    id: "gf-ecoparc-matoury-economic-v2",
+    id: "gf-ecoparc-matoury-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Municipal",
+                  "text": "Ein lokales Kulturmuseum, das die Geschichte, das Erbe und die Artenvielfalt der Region Matoury präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -52.33144,
+                        4.850142
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Eine bedeutende katholische Kirche, die als religiöses und architektonisches Zentrum in Matoury dient.",
+                  "category": "religious",
+                  "coords": [
+                        -52.328275,
+                        4.849957
+                  ]
+            },
+            {
+                  "name": "Église Adventiste du Septième Jour",
+                  "text": "Ein lokales Gotteshaus der Siebenten-Tags-Adventisten in der Gemeinde Matoury.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329668,
+                        4.849696
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Ein belebter Gemeindemarkt in Matoury, auf dem Einheimische frische Lebensmittel und Kunsthandwerk tauschen.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.325975,
+                        4.847858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Municipal",
+                  "text": "Helyi kulturális múzeum, amely Matoury régió történelmét, örökségét és biológiai sokféleségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -52.33144,
+                        4.850142
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Egy kiemelkedő katolikus templom, amely vallási és építészeti központként szolgál Matoury területén.",
+                  "category": "religious",
+                  "coords": [
+                        -52.328275,
+                        4.849957
+                  ]
+            },
+            {
+                  "name": "Église Adventiste du Septième Jour",
+                  "text": "A Hetednapi Adventista Egyház helyi imaháza Matoury közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329668,
+                        4.849696
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Nyüzsgő közösségi piac Matouryban, ahol a helyiek friss élelmiszerekkel és kézműves termékekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.325975,
+                        4.847858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Municipal",
+                  "text": "Un muzeu cultural local care prezintă istoria, patrimoniul și biodiversitatea regiunii Matoury.",
+                  "category": "museum",
+                  "coords": [
+                        -52.33144,
+                        4.850142
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "O biserică catolică proeminentă care servește ca centru religios și arhitectural în zona Matoury.",
+                  "category": "religious",
+                  "coords": [
+                        -52.328275,
+                        4.849957
+                  ]
+            },
+            {
+                  "name": "Église Adventiste du Septième Jour",
+                  "text": "Un lăcaș de cult adventist de ziua a șaptea situat în comunitatea Matoury.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329668,
+                        4.849696
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "O piață comunală plină de viață în Matoury, unde localnicii se adună pentru a face schimb de alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.325975,
+                        4.847858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Municipal",
+                  "text": "A local cultural museum showcasing the history, heritage, and biodiversity of the Matoury region.",
+                  "category": "museum",
+                  "coords": [
+                        -52.33144,
+                        4.850142
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "A prominent Catholic church serving as a religious and architectural center in the Matoury area.",
+                  "category": "religious",
+                  "coords": [
+                        -52.328275,
+                        4.849957
+                  ]
+            },
+            {
+                  "name": "Église Adventiste du Septième Jour",
+                  "text": "A local Seventh-day Adventist place of worship located within the Matoury community.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329668,
+                        4.849696
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "A bustling communal market in Matoury where locals gather to trade fresh food and handmade crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.325975,
+                        4.847858
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.3333, 4.85],
@@ -1304,7 +3977,88 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
     }
   },
   {
-    id: "gf-mana-rice-mills-economic-v2",
+    id: "gf-mana-rice-mills-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Makandra : centre d'action sociale",
+                  "text": "Ein Gemeinschaftszentrum für Kunst in Mana, das lokale soziale Projekte und kreative Kulturarbeit fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.776705,
+                        5.670234
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph-de-Mana",
+                  "text": "Eine historische Kirche aus dem 19. Jahrhundert in Mana, gegründet von Mutter Anne-Marie Javouhey.",
+                  "category": "religious",
+                  "coords": [
+                        -53.77684,
+                        5.666762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Makandra : centre d'action sociale",
+                  "text": "Közösségi művészeti központ Manában, amely a helyi szociális és kulturális projekteket támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.776705,
+                        5.670234
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph-de-Mana",
+                  "text": "Történelmi 19. századi templom Manában, amelyet a régió úttörője, Anne-Marie Javouhey anya alapított.",
+                  "category": "religious",
+                  "coords": [
+                        -53.77684,
+                        5.666762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Makandra : centre d'action sociale",
+                  "text": "Un centru de artă comunitară din Mana, care promovează acțiunile sociale locale și proiectele culturale creative.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.776705,
+                        5.670234
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph-de-Mana",
+                  "text": "O biserică istorică din secolul al XIX-lea în Mana, fondată de Maica Anne-Marie Javouhey, o pionieră a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        -53.77684,
+                        5.666762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Makandra : centre d'action sociale",
+                  "text": "A community arts center in Mana promoting local social action and creative cultural projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.776705,
+                        5.670234
+                  ]
+            },
+            {
+                  "name": "Église Saint-Joseph-de-Mana",
+                  "text": "A historic 19th-century church in Mana founded by Mother Anne-Marie Javouhey, a pioneer of the region.",
+                  "category": "religious",
+                  "coords": [
+                        -53.77684,
+                        5.666762
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-53.7667, 5.6667],
@@ -1354,7 +4108,628 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Assure l'indépendance alimentaire de la région.", "Installations modernes de séchage et de stockage en silos."],
     }, image: "/poi-images/gf-mana-rice-mills-economic-v2.webp"},
   {
-    id: "gf-roura-logging-economic-v2",
+    id: "gf-roura-logging-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Gabrielle",
+                  "text": "Ein bewaldeter Berg in der Nähe von Roura, der einen Blick auf die umliegenden Feuchtgebiete bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -52.265511,
+                        4.651076
+                  ]
+            },
+            {
+                  "name": "Habitation Grande Marée",
+                  "text": "Ruinen eines kolonialen Plantagenhauses, das einst Teil der landwirtschaftlichen Geschichte von Roura war.",
+                  "category": "historical",
+                  "coords": [
+                        -52.285435,
+                        4.661295
+                  ]
+            },
+            {
+                  "name": "Vestiges",
+                  "text": "Historische Überreste kolonialer Bauwerke, die heute mitten im dichten tropischen Grün liegen.",
+                  "category": "historical",
+                  "coords": [
+                        -52.284079,
+                        4.66438
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "Ein Aussichtspunkt, der ein weites Panorama über den Mahury-Fluss und den Regenwald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -52.301708,
+                        4.654999
+                  ]
+            },
+            {
+                  "name": "Montagne François",
+                  "text": "Ein typischer Gipfel des guyanischen Schildes, umgeben von unberührtem Urwald.",
+                  "category": "natural",
+                  "coords": [
+                        -52.34986,
+                        4.68759
+                  ]
+            },
+            {
+                  "name": "Montagne Boroukin",
+                  "text": "Ein abgelegener Regenwaldgipfel im Landesinneren der Gemeinde Roura.",
+                  "category": "natural",
+                  "coords": [
+                        -52.390884,
+                        4.702945
+                  ]
+            },
+            {
+                  "name": "Morne aux Échos",
+                  "text": "Ein Hügel, der für die besondere Akustik und das Echo im dichten Wald bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -52.371481,
+                        4.649768
+                  ]
+            },
+            {
+                  "name": "Cascades de Fourgassier",
+                  "text": "Eine Reihe kleiner Wasserfälle im Wald, die ein beliebtes Ziel zum Schwimmen im kühlen Wasser sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.306799,
+                        4.627681
+                  ]
+            },
+            {
+                  "name": "Montagne des Chevaux",
+                  "text": "Dieser Gipfel dient als Standort für ökologische Beobachtungen und bietet Sicht auf das Küstenvorland.",
+                  "category": "natural",
+                  "coords": [
+                        -52.400097,
+                        4.715709
+                  ]
+            },
+            {
+                  "name": "Maison Créole",
+                  "text": "Ein Kulturzentrum, das die traditionelle kreolische Holzarchitektur und Kunsthandwerk präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.326177,
+                        4.725638
+                  ]
+            },
+            {
+                  "name": "Montagne des Serpents",
+                  "text": "Ein Berg am Ufer des Mahury, bekannt für seine Wanderwege und den Blick auf den Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        -52.35604,
+                        4.726158
+                  ]
+            },
+            {
+                  "name": "Mont de la Cordelière",
+                  "text": "Ein Hügel über den Küstensümpfen, der eine wichtige Rolle in der lokalen Geographie spielt.",
+                  "category": "natural",
+                  "coords": [
+                        -52.35205,
+                        4.71743
+                  ]
+            },
+            {
+                  "name": "Montagne de Tourémé",
+                  "text": "Ein bewaldeter Bergrücken im Hinterland von Roura, Teil des primären Regenwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        -52.30992,
+                        4.729626
+                  ]
+            },
+            {
+                  "name": "Montagnes Anglaises",
+                  "text": "Hügelkette im dichten Dschungel Zentral-Guyanas mit hoher biologischer Vielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -52.314248,
+                        4.748672
+                  ]
+            },
+            {
+                  "name": "Chapelle du Saint-Esprit",
+                  "text": "Eine schlichte katholische Kapelle im Zentrum des Dorfes Roura.",
+                  "category": "religious",
+                  "coords": [
+                        -52.339477,
+                        4.771835
+                  ]
+            },
+            {
+                  "name": "Mairie de Roura",
+                  "text": "Das Rathaus von Roura ist in einem für die Region typischen Verwaltungsbau untergebracht.",
+                  "category": "historical",
+                  "coords": [
+                        -52.324194,
+                        4.728439
+                  ]
+            },
+            {
+                  "name": "Waïky Village",
+                  "text": "Ein Ökotourismus-Dorf am Comté-Fluss, das Ausflüge in die wilde Natur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.320261,
+                        4.741045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Gabrielle",
+                  "text": "Erdős hegy Roura közelében, ahonnan kilátás nyílik a környező vizes élőhelyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -52.265511,
+                        4.651076
+                  ]
+            },
+            {
+                  "name": "Habitation Grande Marée",
+                  "text": "Egy koloniális ültetvényház romjai, amely egykor Roura mezőgazdasági történelmének része volt.",
+                  "category": "historical",
+                  "coords": [
+                        -52.285435,
+                        4.661295
+                  ]
+            },
+            {
+                  "name": "Vestiges",
+                  "text": "Koloniális építmények történelmi maradványai, amelyek ma a sűrű trópusi zöldben fekszenek.",
+                  "category": "historical",
+                  "coords": [
+                        -52.284079,
+                        4.66438
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "Kilátópont, amely széles panorámát nyújt a Mahury-folyóra és az esőerdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -52.301708,
+                        4.654999
+                  ]
+            },
+            {
+                  "name": "Montagne François",
+                  "text": "A guyanai pajzs egyik jellegzetes hegycsúcsa, érintetlen őserdővel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -52.34986,
+                        4.68759
+                  ]
+            },
+            {
+                  "name": "Montagne Boroukin",
+                  "text": "Távoli esőerdei csúcs Roura község belsejében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.390884,
+                        4.702945
+                  ]
+            },
+            {
+                  "name": "Morne aux Échos",
+                  "text": "Domb, amely a sűrű erdőben tapasztalható különleges akusztikájáról és visszhangjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -52.371481,
+                        4.649768
+                  ]
+            },
+            {
+                  "name": "Cascades de Fourgassier",
+                  "text": "Erdei vízeséssorozat, amely népszerű célpont a hűsítő fürdőzéshez a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.306799,
+                        4.627681
+                  ]
+            },
+            {
+                  "name": "Montagne des Chevaux",
+                  "text": "Ez a csúcs ökológiai megfigyelőpontként szolgál, és kilátást nyújt a part menti síkságra.",
+                  "category": "natural",
+                  "coords": [
+                        -52.400097,
+                        4.715709
+                  ]
+            },
+            {
+                  "name": "Maison Créole",
+                  "text": "Kulturális központ, amely a hagyományos kreol faépítészetet és kézművességet mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.326177,
+                        4.725638
+                  ]
+            },
+            {
+                  "name": "Montagne des Serpents",
+                  "text": "Hegy a Mahury-folyó partján, amely túraútvonalairól és a folyóra nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -52.35604,
+                        4.726158
+                  ]
+            },
+            {
+                  "name": "Mont de la Cordelière",
+                  "text": "A part menti mocsarak feletti domb, amely fontos szerepet játszik a helyi földrajzban.",
+                  "category": "natural",
+                  "coords": [
+                        -52.35205,
+                        4.71743
+                  ]
+            },
+            {
+                  "name": "Montagne de Tourémé",
+                  "text": "Erdős hegyhát Roura hátországában, az elsődleges esőerdő része.",
+                  "category": "natural",
+                  "coords": [
+                        -52.30992,
+                        4.729626
+                  ]
+            },
+            {
+                  "name": "Montagnes Anglaises",
+                  "text": "Dombvonulat Közép-Guyana sűrű dzsungelében, kiemelkedő biológiai sokféleséggel.",
+                  "category": "natural",
+                  "coords": [
+                        -52.314248,
+                        4.748672
+                  ]
+            },
+            {
+                  "name": "Chapelle du Saint-Esprit",
+                  "text": "Egyszerű katolikus kápolna Roura falu központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -52.339477,
+                        4.771835
+                  ]
+            },
+            {
+                  "name": "Mairie de Roura",
+                  "text": "Roura városháza a régióra jellemző adminisztratív épületben kapott helyet.",
+                  "category": "historical",
+                  "coords": [
+                        -52.324194,
+                        4.728439
+                  ]
+            },
+            {
+                  "name": "Waïky Village",
+                  "text": "Ökoturisztikai falu a Comté-folyó mentén, amely kirándulásokat kínál a vadonba.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.320261,
+                        4.741045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Gabrielle",
+                  "text": "Un munte împădurit lângă Roura, care oferă o vedere asupra zonelor umede înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -52.265511,
+                        4.651076
+                  ]
+            },
+            {
+                  "name": "Habitation Grande Marée",
+                  "text": "Ruinele unei case de plantație colonială, care a făcut odată parte din istoria agricolă a localității Roura.",
+                  "category": "historical",
+                  "coords": [
+                        -52.285435,
+                        4.661295
+                  ]
+            },
+            {
+                  "name": "Vestiges",
+                  "text": "Vestigii istorice ale unor structuri coloniale, situate astăzi în mijlocul verdelui tropical dens.",
+                  "category": "historical",
+                  "coords": [
+                        -52.284079,
+                        4.66438
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "Un punct de observație care oferă o panoramă largă asupra râului Mahury și a pădurii tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -52.301708,
+                        4.654999
+                  ]
+            },
+            {
+                  "name": "Montagne François",
+                  "text": "Un vârf tipic al scutului guianez, înconjurat de pădure virgină.",
+                  "category": "natural",
+                  "coords": [
+                        -52.34986,
+                        4.68759
+                  ]
+            },
+            {
+                  "name": "Montagne Boroukin",
+                  "text": "Un vârf izolat din pădurea tropicală, situat în interiorul comunei Roura.",
+                  "category": "natural",
+                  "coords": [
+                        -52.390884,
+                        4.702945
+                  ]
+            },
+            {
+                  "name": "Morne aux Échos",
+                  "text": "Un deal cunoscut pentru acustica deosebită și ecoul din pădurea densă.",
+                  "category": "natural",
+                  "coords": [
+                        -52.371481,
+                        4.649768
+                  ]
+            },
+            {
+                  "name": "Cascades de Fourgassier",
+                  "text": "O serie de mici cascade în pădure, fiind o destinație populară pentru scăldat în apele răcoroase.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.306799,
+                        4.627681
+                  ]
+            },
+            {
+                  "name": "Montagne des Chevaux",
+                  "text": "Acest vârf servește ca punct de observație ecologică și oferă vedere spre câmpia de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -52.400097,
+                        4.715709
+                  ]
+            },
+            {
+                  "name": "Maison Créole",
+                  "text": "Un centru cultural care prezintă arhitectura tradițională creolă din lemn și meșteșugurile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.326177,
+                        4.725638
+                  ]
+            },
+            {
+                  "name": "Montagne des Serpents",
+                  "text": "Un munte pe malul râului Mahury, cunoscut pentru traseele sale de drumeție și vederea spre râu.",
+                  "category": "natural",
+                  "coords": [
+                        -52.35604,
+                        4.726158
+                  ]
+            },
+            {
+                  "name": "Mont de la Cordelière",
+                  "text": "Un deal deasupra mlaștinilor de coastă, care joacă un rol important în geografia locală.",
+                  "category": "natural",
+                  "coords": [
+                        -52.35205,
+                        4.71743
+                  ]
+            },
+            {
+                  "name": "Montagne de Tourémé",
+                  "text": "O creastă împădurită în hinterlandul localității Roura, parte a pădurii tropicale primare.",
+                  "category": "natural",
+                  "coords": [
+                        -52.30992,
+                        4.729626
+                  ]
+            },
+            {
+                  "name": "Montagnes Anglaises",
+                  "text": "Lanț de dealuri în jungla densă din centrul Guianei, cu o biodiversitate ridicată.",
+                  "category": "natural",
+                  "coords": [
+                        -52.314248,
+                        4.748672
+                  ]
+            },
+            {
+                  "name": "Chapelle du Saint-Esprit",
+                  "text": "O capelă catolică simplă situată în centrul satului Roura.",
+                  "category": "religious",
+                  "coords": [
+                        -52.339477,
+                        4.771835
+                  ]
+            },
+            {
+                  "name": "Mairie de Roura",
+                  "text": "Primăria din Roura este găzduită într-o clădire administrativă tipică pentru regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -52.324194,
+                        4.728439
+                  ]
+            },
+            {
+                  "name": "Waïky Village",
+                  "text": "Un sat de ecoturism pe râul Comté, care oferă excursii în natura sălbatică.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.320261,
+                        4.741045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Gabrielle",
+                  "text": "A forested mountain near Roura offering a view over the surrounding wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        -52.265511,
+                        4.651076
+                  ]
+            },
+            {
+                  "name": "Habitation Grande Marée",
+                  "text": "Ruins of a colonial plantation house that was once part of Roura's agricultural history.",
+                  "category": "historical",
+                  "coords": [
+                        -52.285435,
+                        4.661295
+                  ]
+            },
+            {
+                  "name": "Vestiges",
+                  "text": "Historic remnants of colonial structures, now lying amidst the dense tropical greenery.",
+                  "category": "historical",
+                  "coords": [
+                        -52.284079,
+                        4.66438
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "A viewpoint offering a wide panorama over the Mahury River and the rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -52.301708,
+                        4.654999
+                  ]
+            },
+            {
+                  "name": "Montagne François",
+                  "text": "A typical peak of the Guiana Shield, surrounded by untouched virgin forest.",
+                  "category": "natural",
+                  "coords": [
+                        -52.34986,
+                        4.68759
+                  ]
+            },
+            {
+                  "name": "Montagne Boroukin",
+                  "text": "A remote rainforest peak located in the interior of the Roura municipality.",
+                  "category": "natural",
+                  "coords": [
+                        -52.390884,
+                        4.702945
+                  ]
+            },
+            {
+                  "name": "Morne aux Échos",
+                  "text": "A hill known for its peculiar acoustics and echo within the dense forest.",
+                  "category": "natural",
+                  "coords": [
+                        -52.371481,
+                        4.649768
+                  ]
+            },
+            {
+                  "name": "Cascades de Fourgassier",
+                  "text": "A series of small forest waterfalls that are a popular destination for swimming in cool natural pools.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.306799,
+                        4.627681
+                  ]
+            },
+            {
+                  "name": "Montagne des Chevaux",
+                  "text": "This peak serves as a site for ecological observations and offers views of the coastal lowlands.",
+                  "category": "natural",
+                  "coords": [
+                        -52.400097,
+                        4.715709
+                  ]
+            },
+            {
+                  "name": "Maison Créole",
+                  "text": "A cultural center showcasing traditional Creole wooden architecture and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.326177,
+                        4.725638
+                  ]
+            },
+            {
+                  "name": "Montagne des Serpents",
+                  "text": "A mountain on the banks of the Mahury, known for its hiking trails and river views.",
+                  "category": "natural",
+                  "coords": [
+                        -52.35604,
+                        4.726158
+                  ]
+            },
+            {
+                  "name": "Mont de la Cordelière",
+                  "text": "A hill overlooking the coastal marshes, playing a significant role in local geography.",
+                  "category": "natural",
+                  "coords": [
+                        -52.35205,
+                        4.71743
+                  ]
+            },
+            {
+                  "name": "Montagne de Tourémé",
+                  "text": "A forested ridge in the hinterland of Roura, part of the primary rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -52.30992,
+                        4.729626
+                  ]
+            },
+            {
+                  "name": "Montagnes Anglaises",
+                  "text": "A range of hills in the dense jungle of central Guiana with high biological diversity.",
+                  "category": "natural",
+                  "coords": [
+                        -52.314248,
+                        4.748672
+                  ]
+            },
+            {
+                  "name": "Chapelle du Saint-Esprit",
+                  "text": "A simple Catholic chapel located in the center of Roura village.",
+                  "category": "religious",
+                  "coords": [
+                        -52.339477,
+                        4.771835
+                  ]
+            },
+            {
+                  "name": "Mairie de Roura",
+                  "text": "The Roura town hall is housed in an administrative building typical of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -52.324194,
+                        4.728439
+                  ]
+            },
+            {
+                  "name": "Waïky Village",
+                  "text": "An ecotourism village on the Comté River offering excursions into the wild nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.320261,
+                        4.741045
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.3167, 4.7167],
@@ -1404,7 +4779,52 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Opère sous des directives strictes de l'ONF.", "Fournisseur pour le bâtiment et l'ébénisterie."],
     }, image: "/poi-images/gf-roura-logging-economic-v2.webp"},
   {
-    id: "gf-gold-refinery-cayenne-economic-v2",
+    id: "gf-gold-refinery-cayenne-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Peintecostal",
+                  "text": "Eine portugiesischsprachige Pfingstkirche in Cayenne, die die kulturelle Vielfalt der Hauptstadt von Französisch-Guayana widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.332843,
+                        4.930052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Peintecostal",
+                  "text": "Portugál nyelvű pünkösdi templom Cayenne-ben, amely tükrözi Francia-Guayana fővárosának kulturális sokszínűségét.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.332843,
+                        4.930052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Peintecostal",
+                  "text": "O biserică penticostală de limbă portugheză din Cayenne, care reflectă diversitatea culturală a capitalei Guyanei Franceze.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.332843,
+                        4.930052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Peintecostal",
+                  "text": "A Portuguese-speaking Pentecostal church in Cayenne, reflecting the cultural diversity of French Guiana's capital.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.332843,
+                        4.930052
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.3333, 4.9333],
@@ -1454,7 +4874,196 @@ export const poiExtraFrenchguianaEconomicV2: POI[] = [
       fr: ["Dernière étape avant l'exportation aérienne vers l'Europe.", "Soumis à des contrôles de sécurité extrêmes."],
     }, image: "/poi-images/gf-gold-refinery-cayenne-economic-v2.webp"},
   {
-    id: "gf-zi-macouria-economic-v2",
+    id: "gf-zi-macouria-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théatre de Macouria",
+                  "text": "Ein lebendiger Kulturort in Tonate, der als „Scène Conventionnée“ von Französisch-Guayana Theateraufführungen und Workshops veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.474336,
+                        5.012942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Eine historische Pfarrkirche im Herzen von Macouria mit traditioneller Architektur im Kolonialstil.",
+                  "category": "religious",
+                  "coords": [
+                        -52.473832,
+                        5.014019
+                  ]
+            },
+            {
+                  "name": "Assemblée de Dieu",
+                  "text": "Ein modernes christliches Gotteshaus, das der lokalen protestantischen Gemeinde in Macouria dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.470958,
+                        5.011034
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "Ein schlichter religiöser Saal, der von der örtlichen Gemeinde der Zeugen Jehovas für Versammlungen genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -52.472081,
+                        5.010444
+                  ]
+            },
+            {
+                  "name": "Marché de Tonate",
+                  "text": "Ein bunter Wochenmarkt in Macouria, auf dem Einheimische frische tropische Früchte, Gemüse und traditionelles Kunsthandwerk verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.473062,
+                        5.012992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théatre de Macouria",
+                  "text": "Tonate kulturális központja, amely színházi előadásoknak és workshopoknak ad otthont Francia Guyana elismert színpadaként.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.474336,
+                        5.012942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Történelmi plébániatemplom Macouria szívében, amely hagyományos gyarmati stílusú építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -52.473832,
+                        5.014019
+                  ]
+            },
+            {
+                  "name": "Assemblée de Dieu",
+                  "text": "Modern keresztény istentiszteleti hely Macouria helyi protestáns közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.470958,
+                        5.011034
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "Egyszerű vallási terem, amelyet a Jehova Tanúi helyi gyülekezete használ összejövetelekre.",
+                  "category": "religious",
+                  "coords": [
+                        -52.472081,
+                        5.010444
+                  ]
+            },
+            {
+                  "name": "Marché de Tonate",
+                  "text": "Színes heti piac Macouriában, ahol a helyiek friss trópusi gyümölcsöket, zöldségeket és hagyományos kézműves termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.473062,
+                        5.012992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théatre de Macouria",
+                  "text": "Un centru cultural vibrant în Tonate, care găzduiește spectacole de teatru și ateliere, fiind scena națională din Guyana Franceză.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.474336,
+                        5.012942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "O biserică parohială istorică în inima localității Macouria, prezentând o arhitectură tradițională în stil colonial.",
+                  "category": "religious",
+                  "coords": [
+                        -52.473832,
+                        5.014019
+                  ]
+            },
+            {
+                  "name": "Assemblée de Dieu",
+                  "text": "Un lăcaș de cult creștin modern care deservește comunitatea protestantă locală din Macouria.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.470958,
+                        5.011034
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "O sală religioasă simplă folosită pentru întâlniri și servicii de către congregația locală a Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -52.472081,
+                        5.010444
+                  ]
+            },
+            {
+                  "name": "Marché de Tonate",
+                  "text": "O piață săptămânală colorată în Macouria, unde localnicii vând fructe tropicale proaspete, legume și obiecte de artizanat tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.473062,
+                        5.012992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théatre de Macouria",
+                  "text": "A vibrant cultural venue in Tonate, hosting theatre productions and workshops as the Scène Conventionnée of French Guiana.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.474336,
+                        5.012942
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "A historic parish church in the heart of Macouria, featuring traditional colonial-style architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -52.473832,
+                        5.014019
+                  ]
+            },
+            {
+                  "name": "Assemblée de Dieu",
+                  "text": "A modern Christian place of worship serving the local Protestant community in Macouria.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.470958,
+                        5.011034
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume des Témoins de Jéhovah",
+                  "text": "A simple religious hall used for meetings and services by the local Jehovah's Witnesses congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -52.472081,
+                        5.010444
+                  ]
+            },
+            {
+                  "name": "Marché de Tonate",
+                  "text": "A colorful weekly market in Macouria where locals sell fresh tropical fruits, vegetables, and traditional handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.473062,
+                        5.012992
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GF",
     coords: [-52.4667, 5.0167],

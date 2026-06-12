@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraBoliviaHistoryV2: POI[] = [
   {
-    id: "bo-tiwanaku-history-v2",
+    id: "bo-tiwanaku-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monolito Ponce",
+                  "text": "Eine berühmte denkmalgeschützte Tiwanaku-Stele im Innenhof von Kalasasaya mit aufwendigen prähistorischen Schnitzereien.",
+                  "category": "historical",
+                  "coords": [
+                        -68.673181,
+                        -16.554774
+                  ]
+            },
+            {
+                  "name": "Kantat hallita",
+                  "text": "Eine alte architektonische Attraktion innerhalb der archäologischen Stätte von Tiwanaku, die typische präkolumbianische Steinmetzarbeiten zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.670593,
+                        -16.555669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monolito Ponce",
+                  "text": "Egy híres, műemléki védelem alatt álló tiwanakui sztélé a Kalasasaya udvarán, amely bonyolult őskori faragásokkal van díszítve.",
+                  "category": "historical",
+                  "coords": [
+                        -68.673181,
+                        -16.554774
+                  ]
+            },
+            {
+                  "name": "Kantat hallita",
+                  "text": "Ősi szerkezeti attrakció a tiwanakui régészeti lelőhelyen belül, amely a tipikus Kolumbusz előtti kőfaragást mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.670593,
+                        -16.555669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monolito Ponce",
+                  "text": "O celebră stela ruină Tiwanaku de patrimoniu, aflată în curtea Kalasasaya cu sculpturi preistorice complexe.",
+                  "category": "historical",
+                  "coords": [
+                        -68.673181,
+                        -16.554774
+                  ]
+            },
+            {
+                  "name": "Kantat hallita",
+                  "text": "O atracție structurală antică din cadrul sitului arheologic Tiwanaku, prezentând zidăria tipică precolumbiană.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.670593,
+                        -16.555669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monolito Ponce",
+                  "text": "A famous heritage-listed Tiwanaku stela ruin, standing in the Kalasasaya courtyard with intricate prehistoric carvings.",
+                  "category": "historical",
+                  "coords": [
+                        -68.673181,
+                        -16.554774
+                  ]
+            },
+            {
+                  "name": "Kantat hallita",
+                  "text": "An ancient structural attraction within the Tiwanaku archaeological site, showcasing typical pre-Columbian stonemasonry.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.670593,
+                        -16.555669
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Tiwanaku war das spirituelle und politische Zentrum einer bedeutenden präkolumbianischen Zivilisation in den Anden.",
@@ -52,7 +133,88 @@ image: "/poi-images/bo-tiwanaku-history-v2.webp",
       fr: ["Situé sur le territoire de l'État plurinational de Bolivie.", "Niché entre la cordillère des Andes, l'Altiplano et les plaines de l'Est.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Lié au patrimoine culturel des Aymaras et des Quechuas.", "Géré par les autorités et les communautés locales.", "Lié à la tradition de l'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bo-tiwanaku-history-v2.webp"},
   {
-    id: "bo-puma-punku-history-v2",
+    id: "bo-puma-punku-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qaluyu",
+                  "text": "Ein bemerkenswerter präkolumbianischer archäologischer Berggipfel in der Nähe von Puma Punku, der mit der alten Qaluyu-Kultur verbunden ist.",
+                  "category": "natural",
+                  "coords": [
+                        -68.634944,
+                        -16.626367
+                  ]
+            },
+            {
+                  "name": "Puerta",
+                  "text": "Eine denkmalgeschützte monumentale Torattraktion inmitten der präzise behauenen Andesit-Ruinen von Puma Punku.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.679864,
+                        -16.561642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qaluyu",
+                  "text": "Egy figyelemre méltó Kolumbusz előtti régészeti hegycsúcs Puma Punku közelében, amely az ősi Qaluyu kultúrához kapcsolódik.",
+                  "category": "natural",
+                  "coords": [
+                        -68.634944,
+                        -16.626367
+                  ]
+            },
+            {
+                  "name": "Kapu petroglifa-monolit",
+                  "text": "Egy műemlékvédelem alatt álló, monumentális kapu, amely Puma Punku precízen faragott andezit romjai között található.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.679864,
+                        -16.561642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qaluyu",
+                  "text": "Un sit arheologic precolumbian notabil situat pe un vârf, legat de vechea cultură Qaluyu, lângă Puma Punku.",
+                  "category": "natural",
+                  "coords": [
+                        -68.634944,
+                        -16.626367
+                  ]
+            },
+            {
+                  "name": "Puerta",
+                  "text": "O atracție sub formă de poartă monumentală de patrimoniu, aflată printre ruinele de andezit sculptate cu precizie din Puma Punku.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.679864,
+                        -16.561642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qaluyu",
+                  "text": "A notable pre-Columbian archaeological peak site related to the ancient Qaluyu culture near Puma Punku.",
+                  "category": "natural",
+                  "coords": [
+                        -68.634944,
+                        -16.626367
+                  ]
+            },
+            {
+                  "name": "Gateway",
+                  "text": "A heritage-listed monumental gateway attraction among the precisely carved andesite ruins of Puma Punku.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.679864,
+                        -16.561642
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Puma Punku ist ein Teil des Tiwanaku-Komplexes und berühmt für seine präzise bearbeiteten, massiven Steinblöcke.",
@@ -101,7 +263,232 @@ image: "/poi-images/bo-puma-punku-history-v2.webp",
       fr: ["Situé sur le territoire de l'État plurinational de Bolivie.", "Niché entre la cordillère des Andes, l'Altiplano et les basses terres de l'Est.", "Joue un rôle dans l'identité locale de la région.", "Réputé pour son importance paysagère ou culturelle.", "Lié à l'héritage culturel des Aymaras et des Quechuas.", "Géré par les autorités et les communautés locales.", "Lié à la tradition d'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bo-puma-punku-history-v2.webp"},
   {
-    id: "bo-akapana-history-v2",
+    id: "bo-akapana-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Lítico",
+                  "text": "Das Museo Lítico ist ein archäologisches Museum in bo-akapana-history-v2, das massive geschnitzte Steinmonolithen der alten Tiwanaku-Kultur ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -68.675885,
+                        -16.558624
+                  ]
+            },
+            {
+                  "name": "Pirámide de Akapana",
+                  "text": "Die Pirámide de Akapana ist eine anerkannte Kulturstätte in bo-akapana-history-v2 und umfasst die massiven Erd- und Steinüberreste einer kreuzförmigen Stufenpyramide.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.67287,
+                        -16.556266
+                  ]
+            },
+            {
+                  "name": "Mullukuntu",
+                  "text": "Mullukuntu bietet Besuchern von bo-akapana-history-v2 durch seine verwitterten archäologischen Steinruinen einen Einblick in die präkolumbianische Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        -68.672526,
+                        -16.559045
+                  ]
+            },
+            {
+                  "name": "Centro Espiritual y Político de la Cultura Tiahuanacu",
+                  "text": "Diese weitläufige archäologische Anlage, die als erstklassige Kulturstätte in bo-akapana-history-v2 ausgewiesen ist, diente als monumentales Zentrum des präinkaischen Tiwanaku-Reiches.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.674487,
+                        -16.558284
+                  ]
+            },
+            {
+                  "name": "Kalasasaya",
+                  "text": "Kalasasaya ist eine monumentale Kulturstätte in bo-akapana-history-v2, berühmt für ihren großen Innenhof, der von massiven stehenden Megalithpfeilern umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.673914,
+                        -16.555688
+                  ]
+            },
+            {
+                  "name": "Mercado de Artesanías",
+                  "text": "Der Mercado de Artesanías ist ein belebter Markt in bo-akapana-history-v2, auf dem lokale Kunsthandwerker traditionelle andine Textilien, Töpferwaren und Souvenirs verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.675619,
+                        -16.557493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Lítico",
+                  "text": "A Museo Lítico egy régészeti múzeum bo-akapana-history-v2 területén, amely az ősi Tiwanaku kultúra hatalmas faragott kőmonolitjait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -68.675885,
+                        -16.558624
+                  ]
+            },
+            {
+                  "name": "Akapana piramis",
+                  "text": "A Pirámide de Akapana egy elismert örökségi látványosság bo-akapana-history-v2 területén, amely egy kereszt alakú lépcsős piramis hatalmas föld- és kőmaradványait őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.67287,
+                        -16.556266
+                  ]
+            },
+            {
+                  "name": "Mullukuntu",
+                  "text": "A bo-akapana-history-v2 területén fekvő Mullukuntu az időjárás által kikezdett régészeti kőromjain keresztül enged bepillantást a Kolumbusz előtti történelembe.",
+                  "category": "historical",
+                  "coords": [
+                        -68.672526,
+                        -16.559045
+                  ]
+            },
+            {
+                  "name": "Tiahuanaco-kultúra szellemi és politikai központja",
+                  "text": "A bo-akapana-history-v2 kiemelkedő örökségi helyszíneként számontartott, kiterjedt régészeti komplexum az inka előtti Tiwanaku birodalom monumentális központjaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.674487,
+                        -16.558284
+                  ]
+            },
+            {
+                  "name": "Kalasasaja",
+                  "text": "A Kalasasaya egy monumentális örökségi látványosság bo-akapana-history-v2 területén, amely híres a hatalmas, álló megalitikus oszlopokkal körülvett nagy udvaráról.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.673914,
+                        -16.555688
+                  ]
+            },
+            {
+                  "name": "Mercado de Artesanías",
+                  "text": "A Mercado de Artesanías egy nyüzsgő piac bo-akapana-history-v2 területén, ahol a helyi kézművesek hagyományos andoki textíliákat, kerámiákat és ajándéktárgyakat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.675619,
+                        -16.557493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Lítico",
+                  "text": "Museo Lítico este un muzeu arheologic din bo-akapana-history-v2 care expune megaliți de piatră masivi sculptați de vechea cultură Tiwanaku.",
+                  "category": "museum",
+                  "coords": [
+                        -68.675885,
+                        -16.558624
+                  ]
+            },
+            {
+                  "name": "Pirámide de Akapana",
+                  "text": "Pirámide de Akapana este o atracție de patrimoniu recunoscută în bo-akapana-history-v2, remarcându-se prin rămășițele masive din pământ și piatră ale unei piramide în trepte în formă de cruce.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.67287,
+                        -16.556266
+                  ]
+            },
+            {
+                  "name": "Mullukuntu",
+                  "text": "Mullukuntu oferă vizitatorilor din bo-akapana-history-v2 o privire în istoria precolumbiană prin ruinele sale arheologice de piatră erodate.",
+                  "category": "historical",
+                  "coords": [
+                        -68.672526,
+                        -16.559045
+                  ]
+            },
+            {
+                  "name": "Centro Espiritual y Político de la Cultura Tiahuanacu",
+                  "text": "Desemnat drept un sit de patrimoniu de prim rang în bo-akapana-history-v2, acest vast complex arheologic a servit drept nucleu monumental al imperiului pre-incaș Tiwanaku.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.674487,
+                        -16.558284
+                  ]
+            },
+            {
+                  "name": "Kalasasaya",
+                  "text": "Kalasasaya este o atracție monumentală de patrimoniu în bo-akapana-history-v2, faimoasă pentru curtea sa mare înconjurată de stâlpi megalitici masivi.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.673914,
+                        -16.555688
+                  ]
+            },
+            {
+                  "name": "Mercado de Artesanías",
+                  "text": "Mercado de Artesanías este o piață animată din bo-akapana-history-v2, unde meșteșugarii locali vând textile tradiționale andine, ceramică și suveniruri.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.675619,
+                        -16.557493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Lítico",
+                  "text": "The Museo Lítico is an archaeological museum in bo-akapana-history-v2 that exhibits massive carved stone monoliths from the ancient Tiwanaku culture.",
+                  "category": "museum",
+                  "coords": [
+                        -68.675885,
+                        -16.558624
+                  ]
+            },
+            {
+                  "name": "Pirámide de Akapana",
+                  "text": "The Pirámide de Akapana is a recognized heritage attraction in bo-akapana-history-v2, featuring the massive earthen and stone remains of a cross-shaped stepped pyramid.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.67287,
+                        -16.556266
+                  ]
+            },
+            {
+                  "name": "Mullukuntu",
+                  "text": "Mullukuntu offers visitors to bo-akapana-history-v2 a glimpse into pre-Columbian history through its weathered archaeological stone ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -68.672526,
+                        -16.559045
+                  ]
+            },
+            {
+                  "name": "Spiritual and Political Centre of the Tiwanaku Culture",
+                  "text": "Designated as a premier heritage site in bo-akapana-history-v2, this expansive archaeological complex served as the monumental core of the pre-Inca Tiwanaku empire.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.674487,
+                        -16.558284
+                  ]
+            },
+            {
+                  "name": "Kalasasaya",
+                  "text": "Kalasasaya is a monumental heritage attraction in bo-akapana-history-v2, famous for its large courtyard surrounded by massive standing megalithic pillars.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.673914,
+                        -16.555688
+                  ]
+            },
+            {
+                  "name": "Mercado de Artesanías",
+                  "text": "Mercado de Artesanías is a bustling marketplace in bo-akapana-history-v2 where local artisans sell traditional Andean textiles, pottery, and souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.675619,
+                        -16.557493
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Die Akapana-Pyramide ist eines der größten Bauwerke in Tiwanaku und diente vermutlich als ritueller Ort.",
@@ -150,7 +537,160 @@ image: "/poi-images/bo-akapana-history-v2.webp",
       fr: ["Située sur le territoire de l'État plurinational de Bolivie.", "Nichée entre la cordillère des Andes, l'Altiplano et les terres basses de l'Est.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle.", "Liée au patrimoine culturel des Aymaras et des Quechuas.", "Gérée par les autorités et les communautés locales.", "Associée à la tradition d'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bo-akapana-history-v2.webp"},
   {
-    id: "bo-puerta-del-sol-history-v2",
+    id: "bo-puerta-del-sol-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estela Fraile",
+                  "text": "Die Estela Fraile ist ein alter, geschnitzter Steinmonolith in bo-puerta-del-sol-history-v2, der eine mysteriöse Figur darstellt, die traditionelle Zeremonienstäbe hält.",
+                  "category": "historical",
+                  "coords": [
+                        -68.67381,
+                        -16.55522
+                  ]
+            },
+            {
+                  "name": "Puerta de la Luna",
+                  "text": "Das Mondtor ist ein bedeutendes Kulturdenkmal in bo-puerta-del-sol-history-v2 und ein bogenförmiges Steinportal, das mit zoomorphen Schnitzereien der Tiwanaku-Kultur verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.676138,
+                        -16.553618
+                  ]
+            },
+            {
+                  "name": "Monolito Tatito",
+                  "text": "Der Monolito Tatito ist eine eindrucksvolle Steinsäule in bo-puerta-del-sol-history-v2, die alte Schnitzereien bewahrt, die präkolumbianische spirituelle Überzeugungen widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        -68.68108,
+                        -16.55309
+                  ]
+            },
+            {
+                  "name": "Kherikala",
+                  "text": "Kherikala in bo-puerta-del-sol-history-v2 ist für sein archäologisches Erbe anerkannt und besteht aus alten Gebäudefundamenten und Steinblöcken, die einst für große Zeremonien verwendet wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.675611,
+                        -16.554885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estela Fraile",
+                  "text": "Az Estela Fraile egy ősi faragott kőmonolit bo-puerta-del-sol-history-v2 területén, amely egy hagyományos szertartási botokat tartó, titokzatos alakot ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        -68.67381,
+                        -16.55522
+                  ]
+            },
+            {
+                  "name": "Hold kapuja",
+                  "text": "A bo-puerta-del-sol-history-v2 egyik figyelemre méltó örökségi emlékműve, a Holdkapu egy íves kőportál, amelyet a Tiwanaku kultúra zoomorf faragványai díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.676138,
+                        -16.553618
+                  ]
+            },
+            {
+                  "name": "Monolito Tatito",
+                  "text": "A Monolito Tatito egy hangulatos kőoszlop bo-puerta-del-sol-history-v2 területén, amely a Kolumbusz előtti spirituális hiedelmeket tükröző ősi faragványokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        -68.68108,
+                        -16.55309
+                  ]
+            },
+            {
+                  "name": "Kherikala",
+                  "text": "A régészeti örökségként elismert Kherikala bo-puerta-del-sol-history-v2 területén ősi szerkezeti alapokból és kőtömbökből áll, amelyeket egykor nagyobb szertartásokon használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.675611,
+                        -16.554885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estela Fraile",
+                  "text": "Estela Fraile este un monolit antic de piatră sculptată din bo-puerta-del-sol-history-v2, înfățișând o figură misterioasă care ține toiege ceremoniale tradiționale.",
+                  "category": "historical",
+                  "coords": [
+                        -68.67381,
+                        -16.55522
+                  ]
+            },
+            {
+                  "name": "Puerta de la Luna",
+                  "text": "Remarcându-se ca un monument de patrimoniu notabil în bo-puerta-del-sol-history-v2, Poarta Lunii este un portal de piatră arcuit, împodobit cu sculpturi zoomorfe din cultura Tiwanaku.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.676138,
+                        -16.553618
+                  ]
+            },
+            {
+                  "name": "Monolito Tatito",
+                  "text": "Monolito Tatito este un stâlp de piatră evocator din bo-puerta-del-sol-history-v2, care păstrează sculpturi antice ce reflectă credințele spirituale precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -68.68108,
+                        -16.55309
+                  ]
+            },
+            {
+                  "name": "Kherikala",
+                  "text": "Recunoscut pentru patrimoniul său arheologic, Kherikala din bo-puerta-del-sol-history-v2 constă din fundații structurale antice și blocuri de piatră folosite odinioară în ceremoniile majore.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.675611,
+                        -16.554885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estela Fraile",
+                  "text": "The Estela Fraile is an ancient carved stone monolith in bo-puerta-del-sol-history-v2, depicting a mysterious figure holding traditional ceremonial staffs.",
+                  "category": "historical",
+                  "coords": [
+                        -68.67381,
+                        -16.55522
+                  ]
+            },
+            {
+                  "name": "Moon Gate",
+                  "text": "Standing as a notable heritage monument in bo-puerta-del-sol-history-v2, the Moon Gate is an arched stone portal adorned with zoomorphic carvings from the Tiwanaku culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.676138,
+                        -16.553618
+                  ]
+            },
+            {
+                  "name": "Monolito Tatito",
+                  "text": "Monolito Tatito is an evocative stone pillar in bo-puerta-del-sol-history-v2, preserving ancient carvings that reflect pre-Columbian spiritual beliefs.",
+                  "category": "historical",
+                  "coords": [
+                        -68.68108,
+                        -16.55309
+                  ]
+            },
+            {
+                  "name": "Kherikala",
+                  "text": "Recognized for its archaeological heritage, Kherikala in bo-puerta-del-sol-history-v2 consists of ancient structural foundations and stone blocks once used in major ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.675611,
+                        -16.554885
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Das Sonnentor ist ein monolithisches Portal in Tiwanaku, verziert mit komplexen ikonographischen Reliefs.",
@@ -199,7 +739,52 @@ image: "/poi-images/bo-puerta-del-sol-history-v2.webp",
       fr: ["Situé sur le territoire de l'État plurinational de Bolivie.", "Niché entre la cordillère des Andes, l'Altiplano et les basses terres de l'Est.", "Joue un rôle dans l'identité locale de la région.", "Réputé pour son importance paysagère ou culturelle.", "Lié à l'héritage culturel des Aymaras et des Quechuas.", "Géré par les autorités et les communautés locales.", "Lié à la tradition d'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bo-puerta-del-sol-history-v2.webp"},
   {
-    id: "bo-kalasasaya-history-v2",
+    id: "bo-kalasasaya-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monolito Barbado",
+                  "text": "Ein denkmalgeschützter bärtiger Monolith, der für den Tempelkomplex von Kalasasaya von historischer Bedeutung ist.",
+                  "category": "historical",
+                  "coords": [
+                        -68.672518,
+                        -16.554765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monolito Barbado",
+                  "text": "Egy műemlékvédelem alatt álló, szakállas monolit rom, amely történelmi jelentőséggel bír a Kalasasaya templomkomplexum számára.",
+                  "category": "historical",
+                  "coords": [
+                        -68.672518,
+                        -16.554765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monolito Barbado",
+                  "text": "Un monolit cu barbă, listat ca patrimoniu, semnificativ din punct de vedere istoric pentru complexul de temple Kalasasaya.",
+                  "category": "historical",
+                  "coords": [
+                        -68.672518,
+                        -16.554765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monolito Barbado",
+                  "text": "A heritage-listed bearded monolith ruin, historically significant to the Kalasasaya temple complex.",
+                  "category": "historical",
+                  "coords": [
+                        -68.672518,
+                        -16.554765
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Kalasasaya ist ein großer, rechteckiger Tempelhof in Tiwanaku, der für astronomische Beobachtungen genutzt wurde.",
@@ -315,7 +900,268 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["La statue pèse environ 20 tonnes et mesure 7,30 mètres de haut.", "Le monolithe a été trouvé dans le temple semi-souterrain de Tiwanaku.", "Ses sculptures contiennent des représentations de prêtres consommant des substances rituelles.", "Le dos du monolithe est décoré avec autant de détails que la face avant.", "Le transport de la statue vers Tiwanaku a nécessité une logistique moderne et a duré plusieurs jours."],
     }, image: "/poi-images/bo-monolito-bennett-history-v2.webp"},
   {
-    id: "bo-chincana-history-v2",
+    id: "bo-chincana-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Las Huellas del Sol",
+                  "text": "Diese archäologische Stätte bewahrt alte Felsabdrücke, die historisch als die legendären Fußspuren des Sonnengottes verehrt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -69.19918,
+                        -15.990771
+                  ]
+            },
+            {
+                  "name": "Museo de Oro de Challapampa",
+                  "text": "Dieses Museum in Challapampa beherbergt eine wichtige Sammlung präkolumbianischer Artefakte, darunter Goldstücke und Keramiken, die im umliegenden See gefunden wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -69.18305,
+                        -15.997366
+                  ]
+            },
+            {
+                  "name": "Ciudad Perdida",
+                  "text": "Eine eindrucksvolle historische Attraktion auf der Insel, die mit den legendären Erzählungen von alten versunkenen oder verlassenen andinen Siedlungen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.218514,
+                        -15.960163
+                  ]
+            },
+            {
+                  "name": "Mesa Ceremonica",
+                  "text": "Ein großer, flacher Steinaltar inmitten der Ruinen, der traditionell für alte Inka-Rituale und Tieropfer genutzt worden sein soll.",
+                  "category": "historical",
+                  "coords": [
+                        -69.201476,
+                        -15.990862
+                  ]
+            },
+            {
+                  "name": "Ruinas de Chinkana",
+                  "text": "Diese komplexe archäologische Stätte verfügt über ein Labyrinth aus Steinmauern und engen Gängen, die einst von Inka-Priestern genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.202966,
+                        -15.990222
+                  ]
+            },
+            {
+                  "name": "Playa de las Gemelas",
+                  "text": "Ein ruhiger Sandstrand mit zwei Buchten an der hochgelegenen Küste der Insel, dessen klares, eisiges Wasser zur friedlichen Besinnung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.20481,
+                        -15.99048
+                  ]
+            },
+            {
+                  "name": "Playa de Challapampa",
+                  "text": "Ein malerischer weißer Sandstrand am Rande des lokalen Dorfes, umspült von den tiefblauen, hochgelegenen Wassern des Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.184702,
+                        -15.996921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Las Huellas del Sol",
+                  "text": "Ez a régészeti lelőhely olyan ősi szikla-lenyomatokat őriz, amelyeket történelmileg a napisten legendás lábnyomaiként tiszteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -69.19918,
+                        -15.990771
+                  ]
+            },
+            {
+                  "name": "Museo de Oro de Challapampa",
+                  "text": "A Challapampában található múzeum a Kolumbusz előtti tárgyak fontos gyűjteményének ad otthont, beleértve a környező tóban talált aranytárgyakat és kerámiákat.",
+                  "category": "museum",
+                  "coords": [
+                        -69.18305,
+                        -15.997366
+                  ]
+            },
+            {
+                  "name": "Ciudad Perdida",
+                  "text": "Egy hangulatos történelmi látványosság a szigeten, amely az ősi elsüllyedt vagy elhagyott andoki települések legendás történeteihez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.218514,
+                        -15.960163
+                  ]
+            },
+            {
+                  "name": "Mesa Ceremonica",
+                  "text": "Egy nagy, lapos kőoltár a romok között, amelyet a hagyomány szerint ősi inka rituálékhoz és állatáldozatokhoz használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -69.201476,
+                        -15.990862
+                  ]
+            },
+            {
+                  "name": "Ruinas de Chinkana",
+                  "text": "Ez a komplex régészeti lelőhely kőfalak és szűk folyosók labirintusával rendelkezik, amelyet egykor az inka papok használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.202966,
+                        -15.990222
+                  ]
+            },
+            {
+                  "name": "Playa de las Gemelas",
+                  "text": "Egy csendes, ikeröblös homokos strand a sziget magaslati partján, amelynek tiszta, fagyos vize békés elmélkedésre hív.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.20481,
+                        -15.99048
+                  ]
+            },
+            {
+                  "name": "Playa de Challapampa",
+                  "text": "Festői fehér homokos partszakasz a helyi falu szélén, amelyet a tó mélykék, magaslati vize mos.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.184702,
+                        -15.996921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Las Huellas del Sol",
+                  "text": "Acest sit arheologic păstrează amprente antice în stâncă, venerate istoric ca fiind urmele legendare ale zeului soarelui.",
+                  "category": "historical",
+                  "coords": [
+                        -69.19918,
+                        -15.990771
+                  ]
+            },
+            {
+                  "name": "Museo de Oro de Challapampa",
+                  "text": "Situat în Challapampa, acest muzeu găzduiește o colecție importantă de artefacte precolumbiene, inclusiv piese de aur și ceramică găsite în lacul din jur.",
+                  "category": "museum",
+                  "coords": [
+                        -69.18305,
+                        -15.997366
+                  ]
+            },
+            {
+                  "name": "Ciudad Perdida",
+                  "text": "O atracție istorică evocatoare de pe insulă, legată de poveștile legendare ale vechilor așezări andine scufundate sau abandonate.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.218514,
+                        -15.960163
+                  ]
+            },
+            {
+                  "name": "Mesa Ceremonica",
+                  "text": "Un altar mare din piatră plată, așezat printre ruine, despre care se crede tradițional că a fost folosit pentru ritualuri antice incașe și sacrificii de animale.",
+                  "category": "historical",
+                  "coords": [
+                        -69.201476,
+                        -15.990862
+                  ]
+            },
+            {
+                  "name": "Ruinas de Chinkana",
+                  "text": "Acest sit arheologic complex prezintă un labirint de ziduri de piatră și pasaje înguste folosite cândva de preoții incași.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.202966,
+                        -15.990222
+                  ]
+            },
+            {
+                  "name": "Playa de las Gemelas",
+                  "text": "O plajă de nisip liniștită, cu două golfuri de-a lungul coastei de mare altitudine a insulei, oferind ape clare și reci perfecte pentru contemplare pașnică.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.20481,
+                        -15.99048
+                  ]
+            },
+            {
+                  "name": "Playa de Challapampa",
+                  "text": "O fâșie pitorească de nisip alb la marginea satului local, spălată de apele de mare altitudine, de un albastru intens, ale lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.184702,
+                        -15.996921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Las Huellas del Sol",
+                  "text": "This archaeological site preserves ancient rock impressions historically revered as the legendary footprints of the sun god.",
+                  "category": "historical",
+                  "coords": [
+                        -69.19918,
+                        -15.990771
+                  ]
+            },
+            {
+                  "name": "Museo de Oro de Challapampa",
+                  "text": "Located in Challapampa, this museum houses an important collection of pre-Columbian artifacts, including gold pieces and ceramics found in the surrounding lake.",
+                  "category": "museum",
+                  "coords": [
+                        -69.18305,
+                        -15.997366
+                  ]
+            },
+            {
+                  "name": "Lost City",
+                  "text": "An evocative historical attraction on the island, linked to the legendary tales of ancient sunken or abandoned Andean settlements.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.218514,
+                        -15.960163
+                  ]
+            },
+            {
+                  "name": "Mesa Ceremonica",
+                  "text": "A large, flat stone altar set among the ruins, traditionally believed to have been used for ancient Incan rituals and animal sacrifices.",
+                  "category": "historical",
+                  "coords": [
+                        -69.201476,
+                        -15.990862
+                  ]
+            },
+            {
+                  "name": "Ruinas de Chinkana",
+                  "text": "This complex archaeological site features a labyrinth of stone walls and narrow passages once used by Incan priests.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.202966,
+                        -15.990222
+                  ]
+            },
+            {
+                  "name": "Playa de las Gemelas",
+                  "text": "A quiet twin-bay sandy beach along the island's high-altitude coast, offering clear, frigid waters perfect for peaceful contemplation.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.20481,
+                        -15.99048
+                  ]
+            },
+            {
+                  "name": "Playa de Challapampa",
+                  "text": "A picturesque stretch of white sand at the edge of the local village, washed by the deep blue, high-altitude waters of the lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.184702,
+                        -15.996921
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-L",
     coords: [-69.1764, -15.9866],
@@ -367,7 +1213,196 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Le mot 'Chincana' signifie en quechua 'le lieu où l'on se perd'.", "Le complexe est situé juste à côté du rocher sacré 'Titikala', à l'origine du nom Titicaca.", "Il s'y trouve une source naturelle captée dans un bassin et considérée comme sacrée.", "La construction combine des pierres non taillées avec de fines couches de briques de terre.", "Le complexe a été conçu pour être presque invisible depuis le côté du lac."],
     }, image: "/poi-images/bo-chincana-history-v2.webp"},
   {
-    id: "bo-inak-uyu-history-v2",
+    id: "bo-inak-uyu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pucaras Archeological Site",
+                  "text": "Vor einer weiten andinen Kulisse bietet dieser malerische Aussichtspunkt einen Blick auf die alten Steinreste der Pucara-Ruinen.",
+                  "category": "natural",
+                  "coords": [
+                        -69.126578,
+                        -16.061317
+                  ]
+            },
+            {
+                  "name": "Patapatani",
+                  "text": "Von diesem erhöhten Aussichtspunkt aus können Besucher einen klaren, ungehinderten Blick über das strahlend blaue Wasser des Sees genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -69.122875,
+                        -16.089086
+                  ]
+            },
+            {
+                  "name": "Cerro Pucara (Mirador Turístico de Sampaya)",
+                  "text": "Diese Hangattraktion in der Nähe des Steindorfs Sampaya bietet außergewöhnliche Ausblicke auf den Titicacasee und die fernen schneebedeckten Gipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093968,
+                        -16.08699
+                  ]
+            },
+            {
+                  "name": "Palacio de las Vírgenes del Sol",
+                  "text": "Diese präkolumbianischen Inka-Ruinen auf der Mondinsel weisen die gut erhaltenen Steinmauern eines ehemaligen heiligen Klosters auf.",
+                  "category": "historical",
+                  "coords": [
+                        -69.071301,
+                        -16.038607
+                  ]
+            },
+            {
+                  "name": "Playa Isla de la Luna",
+                  "text": "Dieser ruhige Inselstrand liegt an den Ufern der Isla de la Luna und bietet ruhigen Sand mit Blick auf das tiefe Wasser des Titicacasees.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.071873,
+                        -16.039542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pucaras Archeological Site",
+                  "text": "A kiterjedt andoki háttérrel rendelkező festői kilátó a Pucara-romok ősi kőmaradványaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        -69.126578,
+                        -16.061317
+                  ]
+            },
+            {
+                  "name": "Patapatani",
+                  "text": "Ebből a magasan fekvő kilátópontból a látogatók tiszta, akadálytalan kilátást élvezhetnek a tó ragyogó kék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -69.122875,
+                        -16.089086
+                  ]
+            },
+            {
+                  "name": "Cerro Pucara (Mirador Turístico de Sampaya)",
+                  "text": "A kőből épült Sampaya falu közelében található hegyoldali látványosság kivételes kilátást nyújt a Titicaca-tóra és a távoli hósapkás csúcsokra.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093968,
+                        -16.08699
+                  ]
+            },
+            {
+                  "name": "Palacio de las Vírgenes del Sol",
+                  "text": "A Hold-szigeten található prekolumbiánus inka romok egy egykori szent kolostor jól karbantartott kőfalait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        -69.071301,
+                        -16.038607
+                  ]
+            },
+            {
+                  "name": "Playa Isla de la Luna",
+                  "text": "Ez a csendes szigeti strand az Isla de la Luna partjai mentén fekszik, és csendes homokot kínál, amely a Titicaca-tó mély vizeire néz.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.071873,
+                        -16.039542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pucaras Archeological Site",
+                  "text": "Având pe fundal peisajul andin, acest punct de belvedere pitoresc oferă o priveliște asupra vechilor ruine de piatră Pucara.",
+                  "category": "natural",
+                  "coords": [
+                        -69.126578,
+                        -16.061317
+                  ]
+            },
+            {
+                  "name": "Patapatani",
+                  "text": "Din acest punct de belvedere ridicat, vizitatorii se pot bucura de vederi clare și neobstrucționate peste apele de un albastru strălucitor ale lacului.",
+                  "category": "natural",
+                  "coords": [
+                        -69.122875,
+                        -16.089086
+                  ]
+            },
+            {
+                  "name": "Cerro Pucara (Mirador Turístico de Sampaya)",
+                  "text": "Poziționată lângă satul de piatră Sampaya, această atracție de pe deal oferă perspective excepționale asupra lacului Titicaca și a vârfurilor îndepărtate acoperite de zăpadă.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093968,
+                        -16.08699
+                  ]
+            },
+            {
+                  "name": "Palacio de las Vírgenes del Sol",
+                  "text": "Aceste ruine incașe precolumbiene de pe Insula Lunii prezintă zidurile de piatră bine conservate ale unei foste mănăstiri sacre.",
+                  "category": "historical",
+                  "coords": [
+                        -69.071301,
+                        -16.038607
+                  ]
+            },
+            {
+                  "name": "Playa Isla de la Luna",
+                  "text": "Această plajă insulară liniștită se întinde de-a lungul țărmurilor insulei Isla de la Luna, oferind un nisip tăcut cu fața spre apele adânci ale lacului Titicaca.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.071873,
+                        -16.039542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pucaras Archeological Site",
+                  "text": "Set against a sweeping Andean backdrop, this scenic viewpoint overlooks the ancient stone remains of the Pucara ruins.",
+                  "category": "natural",
+                  "coords": [
+                        -69.126578,
+                        -16.061317
+                  ]
+            },
+            {
+                  "name": "Patapatani",
+                  "text": "From this elevated vantage point, visitors can enjoy clear, unobstructed views across the brilliant blue waters of the lake.",
+                  "category": "natural",
+                  "coords": [
+                        -69.122875,
+                        -16.089086
+                  ]
+            },
+            {
+                  "name": "Cerro Pucara (Mirador Turístico de Sampaya)",
+                  "text": "Positioned near the stone village of Sampaya, this hillside attraction offers exceptional perspectives of Lake Titicaca and the distant snow-capped peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093968,
+                        -16.08699
+                  ]
+            },
+            {
+                  "name": "Palace of the Virgins of Sun",
+                  "text": "These pre-Columbian Inca ruins on the Island of the Moon feature the well-preserved stone walls of a former sacred convent.",
+                  "category": "historical",
+                  "coords": [
+                        -69.071301,
+                        -16.038607
+                  ]
+            },
+            {
+                  "name": "Island of the Moon",
+                  "text": "This tranquil island beach lies along the shores of Isla de la Luna, offering quiet sands facing the deep waters of Lake Titicaca.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.071873,
+                        -16.039542
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-L",
     coords: [-69.0768, -16.0350],
@@ -434,7 +1469,1060 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Le nom Iñak Uyu est souvent traduit par 'Maison des Femmes' ou 'Maison des Vierges'.", "Le complexe comprend plus de 30 pièces disposées autour d'une cour centrale.", "Le temple fut édifié sous le règne de Tupaq Inka Yupanki au XVe siècle.", "Contrairement à de nombreux autres sites incas, beaucoup d'éléments originaux ont été peu modifiés.", "L'île était considérée dans la cosmologie inca comme le lieu où la Lune fut créée."],
     }, image: "/poi-images/bo-inak-uyu-history-v2.webp"},
   {
-    id: "bo-fuerte-samaipata-history-v2",
+    id: "bo-fuerte-samaipata-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fuerte de Samaipata",
+                  "text": "Eine UNESCO-Weltkulturerbestätte aus dem Jahr 300 n. Chr. mit einem massiven gemeißelten Sandsteinfelsen, der für präkolumbianische religiöse Zeremonien genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -63.818051,
+                        -18.181528
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Regional de Samaipata",
+                  "text": "Ein aufschlussreiches Museum, das alte Keramik und Artefakte ausstellt, die am nahe gelegenen präkolumbianischen Felsen El Fuerte ausgegraben wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -63.874098,
+                        -18.178309
+                  ]
+            },
+            {
+                  "name": "Allkawasi",
+                  "text": "Die Ruinen spezialisierter alter Verwaltungsgebäude, die den monumentalen behauenen Felsen von El Fuerte flankieren.",
+                  "category": "historical",
+                  "coords": [
+                        -63.821045,
+                        -18.179926
+                  ]
+            },
+            {
+                  "name": "Centro Político",
+                  "text": "Der zentrale Platzbereich, in dem die Provinzherrscher der Inka und Vor-Inka ihre administrativen und militärischen Operationen leiteten.",
+                  "category": "historical",
+                  "coords": [
+                        -63.819116,
+                        -18.1795
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Samaipata",
+                  "text": "Das Kulturzentrum von Samaipata bietet Einblicke in die regionalen Kunsttraditionen der Andenstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.874201,
+                        -18.180444
+                  ]
+            },
+            {
+                  "name": "Monasterio Gnostico Tipheret",
+                  "text": "Dieses gnostische Kloster in den Bergen von Samaipata dient als spirituelles Zentrum und Ort der Kontemplation.",
+                  "category": "religious",
+                  "coords": [
+                        -63.82772,
+                        -18.183888
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Maranatha",
+                  "text": "Die kleine Baptistenkirche von Samaipata ist ein lokaler Treffpunkt für Gottesdienste und die evangelische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -63.873938,
+                        -18.176801
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Dia",
+                  "text": "Diese Kirche in Samaipata ist die Kultstätte der lokalen Gemeinschaft der Siebenten-Tags-Adventisten.",
+                  "category": "religious",
+                  "coords": [
+                        -63.872978,
+                        -18.178246
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "Der Königreichssaal der Zeugen Jehovas in Samaipata ist der zentrale Versammlungsort dieser Glaubensgemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -63.876869,
+                        -18.177643
+                  ]
+            },
+            {
+                  "name": "Iglesia fuente de vida",
+                  "text": "Diese christliche Kirche in Samaipata zeichnet sich durch ihre schlichte Architektur und ihre Rolle als lokales Gemeindezentrum aus.",
+                  "category": "religious",
+                  "coords": [
+                        -63.866798,
+                        -18.176896
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Samaipata",
+                  "text": "Der städtische Hauptmarkt von Samaipata ist ein lebhafter Knotenpunkt für lokale andine Erzeugnisse und Handwerkswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.875704,
+                        -18.176446
+                  ]
+            },
+            {
+                  "name": "Achira Entrada",
+                  "text": "Dieses Naturgebiet nahe Samaipata ist für seine zerklüftete Berglandschaft und die einheimische Flora bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.815287,
+                        -18.16338
+                  ]
+            },
+            {
+                  "name": "Inka Face",
+                  "text": "Diese auffällige Felsformation in der archäologischen Stätte El Fuerte erinnert an ein menschliches Gesicht und zeigt Spuren präkolumbischer Bearbeitung.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.823367,
+                        -18.177382
+                  ]
+            },
+            {
+                  "name": "Felinos",
+                  "text": "Die Petroglyphen dieser Zone in El Fuerte de Samaipata stellen Raubkatzen dar, die wichtige Symbole der lokalen prähispanischen Kulturen waren.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.820424,
+                        -18.178631
+                  ]
+            },
+            {
+                  "name": "Templo de las Cinco Hornacinas",
+                  "text": "Die fünf charakteristischen Nischen dieses prähispanischen Tempels in Samaipata dienten vermutlich der Aufbewahrung heiliger Reliquien.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.819289,
+                        -18.178228
+                  ]
+            },
+            {
+                  "name": "Sendero Espiral Luz Inicio Rio",
+                  "text": "Dieser spiralförmig angelegte Naturpfad in Samaipata führt hinab zum Flussufer und wird oft für meditative Spaziergänge genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.818417,
+                        -18.139911
+                  ]
+            },
+            {
+                  "name": "Arroyo ando",
+                  "text": "Dieser klare Gebirgsbach fließt durch das dichte Grün der Täler rund um Samaipata.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.863255,
+                        -18.123211
+                  ]
+            },
+            {
+                  "name": "Pino Negro",
+                  "text": "Dieser markante Schwarzkiefernbestand in der andinen Landschaft bei Samaipata bietet einen dunklen Kontrast zur einheimischen Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.864284,
+                        -18.124032
+                  ]
+            },
+            {
+                  "name": "Bruja Terapia",
+                  "text": "Diese rustikale Einrichtung in Samaipata ist auf traditionelle Naturheilverfahren und lokale Kräutertherapien spezialisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.878922,
+                        -18.179161
+                  ]
+            },
+            {
+                  "name": "Refugio Jacha Inti",
+                  "text": "Diese Schutzhütte in den Ausläufern der Anden bei Samaipata bietet Wanderern und Naturbeobachtern eine Unterkunft.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.87978,
+                        -18.197709
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Diese einfache christliche Steinkirche ist ein wichtiges architektonisches Zentrum für die lokalen Gläubigen in Samaipata.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.790849,
+                        -18.172653
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra de la Merced",
+                  "text": "Die Kirche der Barmherzigkeit in der Nähe von Samaipata ist ein lokaler Wallfahrtsort mit kolonialen Stilelementen.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.869896,
+                        -18.177678
+                  ]
+            },
+            {
+                  "name": "Capilla Exaltacion de La Cruz",
+                  "text": "Diese kleine christliche Kapelle, die der Kreuzerhöhung geweiht ist, liegt idyllisch in den andinen Tälern.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.879038,
+                        -18.180391
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Candelaria",
+                  "text": "Diese Kirche in Samaipata ist der Jungfrau von Candelaria geweiht und ein zentraler Bestandteil der lokalen katholischen Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.875648,
+                        -18.179223
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Die evangelische Kirche von Samaipata zeichnet sich durch ihr schlichtes Äußeres und ihren Schwerpunkt auf der Gemeindearbeit aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.879734,
+                        -18.177144
+                  ]
+            },
+            {
+                  "name": "Mirador Las Cuevas",
+                  "text": "Von diesem Aussichtspunkt blickt man direkt auf die malerischen Wasserfälle und die dichte subtropische Vegetation des Gebiets Las Cuevas.",
+                  "category": "natural",
+                  "coords": [
+                        -63.727906,
+                        -18.190824
+                  ]
+            },
+            {
+                  "name": "Parque Aeronáutico",
+                  "text": "Dieser Aussichtspunkt, benannt nach einem Luftfahrtpark, bietet einen weiten Panoramablick über die Täler um Samaipata.",
+                  "category": "natural",
+                  "coords": [
+                        -63.877172,
+                        -18.176173
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Diese primäre Aussichtsplattform an der Straße bei Samaipata gewährt einen ungestörten Blick auf die zerklüfteten Ausläufer der Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -63.821357,
+                        -18.178703
+                  ]
+            },
+            {
+                  "name": "Paradero 2",
+                  "text": "Dieser zweite offizielle Rast- und Aussichtspunkt an der Strecke nach Samaipata ist ideal, um die weite Gebirgslandschaft zu fotografieren.",
+                  "category": "natural",
+                  "coords": [
+                        -63.824297,
+                        -18.178451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuerte de Samaipata",
+                  "text": "Egy i. sz. 300-ból származó UNESCO Világörökségi helyszín, amely egy hatalmas, faragott homokkő sziklát foglal magában, amelyet kolumbusz előtti vallási szertartásokhoz használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -63.818051,
+                        -18.181528
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Regional de Samaipata",
+                  "text": "Egy tanulságos múzeum, amely a közeli, kolumbusz előtti El Fuerte szikláról feltárt ősi kerámiákat és műtárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -63.874098,
+                        -18.178309
+                  ]
+            },
+            {
+                  "name": "Allkawasi",
+                  "text": "Különleges ősi közigazgatási épületek romjai, amelyek El Fuerte monumentális faragott szikláját szegélyezik.",
+                  "category": "historical",
+                  "coords": [
+                        -63.821045,
+                        -18.179926
+                  ]
+            },
+            {
+                  "name": "Centro Político",
+                  "text": "A központi tér térsége, ahol a tartományi inka és inka előtti uralkodók irányították közigazgatási és katonai műveleteiket.",
+                  "category": "historical",
+                  "coords": [
+                        -63.819116,
+                        -18.1795
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Samaipata",
+                  "text": "Samaipata kulturális központja a régió hagyományos andoki művészetét és kézművességét mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.874201,
+                        -18.180444
+                  ]
+            },
+            {
+                  "name": "Monasterio Gnostico Tipheret",
+                  "text": "Ez a Samaipata hegyei között megbúvó gnosztikus kolostor a spirituális elmélyülés központja.",
+                  "category": "religious",
+                  "coords": [
+                        -63.82772,
+                        -18.183888
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Maranatha",
+                  "text": "Samaipata kis baptista temploma a helyi evangéliumi közösség hitéletének központja.",
+                  "category": "religious",
+                  "coords": [
+                        -63.873938,
+                        -18.176801
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Dia",
+                  "text": "Ez a templom ad otthont Samaipata Hetednapi Adventista közösségének.",
+                  "category": "religious",
+                  "coords": [
+                        -63.872978,
+                        -18.178246
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "Jehova Tanúinak Királyság-terme Samaipata városában ennek a vallási közösségnek a központi gyülekezeti helye.",
+                  "category": "religious",
+                  "coords": [
+                        -63.876869,
+                        -18.177643
+                  ]
+            },
+            {
+                  "name": "Iglesia fuente de vida",
+                  "text": "Ez a keresztény templom Samaipatában egyszerű építészetével és helyi közösségi központként betöltött szerepével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        -63.866798,
+                        -18.176896
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Samaipata",
+                  "text": "Samaipata fő városi piaca a helyi andoki termékek és kézműves áruk nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.875704,
+                        -18.176446
+                  ]
+            },
+            {
+                  "name": "Achira Entrada",
+                  "text": "Ez a Samaipata közelében található természeti terület zord hegyi tájáról és őshonos növényvilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.815287,
+                        -18.16338
+                  ]
+            },
+            {
+                  "name": "Inka Face",
+                  "text": "Ez a feltűnő sziklaképződmény az El Fuerte régészeti lelőhelyen egy emberi arcra emlékeztet, és prekolumbiánus megmunkálás nyomait viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.823367,
+                        -18.177382
+                  ]
+            },
+            {
+                  "name": "Felinos",
+                  "text": "Az El Fuerte de Samaipata ezen zónájában található sziklarajzok nagymacskákat ábrázolnak, amelyek a helyi spanyol hódítás előtti kultúrák fontos szimbólumai voltak.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.820424,
+                        -18.178631
+                  ]
+            },
+            {
+                  "name": "Templo de las Cinco Hornacinas",
+                  "text": "Ennek a spanyol hódítás előtti samaipatai templomnak az öt jellegzetes fülkéje valószínűleg szent ereklyék tárolására szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.819289,
+                        -18.178228
+                  ]
+            },
+            {
+                  "name": "Sendero Espiral Luz Inicio Rio",
+                  "text": "Ez a Samaipata közelében található spirális ösvény a folyópartra vezet, és gyakran használják meditatív sétákra.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.818417,
+                        -18.139911
+                  ]
+            },
+            {
+                  "name": "Arroyo ando",
+                  "text": "Ez a tiszta hegyi patak a Samaipata körüli völgyek sűrű zöldjén folyik keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.863255,
+                        -18.123211
+                  ]
+            },
+            {
+                  "name": "Pino Negro",
+                  "text": "Ez a feltűnő feketefenyő-állomány a Samaipata környéki andoki tájon sötét kontrasztot nyújt a helyi növényzettel szemben.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.864284,
+                        -18.124032
+                  ]
+            },
+            {
+                  "name": "Bruja Terapia",
+                  "text": "Ez a rusztikus létesítmény Samaipatában a hagyományos természetgyógyászati ​​gyógymódokra és a helyi gyógynövényterápiákra specializálódott.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.878922,
+                        -18.179161
+                  ]
+            },
+            {
+                  "name": "Refugio Jacha Inti",
+                  "text": "Ez az Andok lábánál, Samaipata közelében található menedékház szállást kínál a túrázóknak és a természetkedvelőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.87978,
+                        -18.197709
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez az egyszerű keresztény kőtemplom fontos építészeti központ Samaipata helyi hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.790849,
+                        -18.172653
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra de la Merced",
+                  "text": "A Samaipata közelében található Irgalmasság temploma egy helyi zarándokhely, gyarmati stíluselemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.869896,
+                        -18.177678
+                  ]
+            },
+            {
+                  "name": "Capilla Exaltacion de La Cruz",
+                  "text": "Ez a Szent Kereszt felmagasztalásának szentelt kis keresztény kápolna idilli helyen fekszik az andoki völgyekben.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.879038,
+                        -18.180391
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Candelaria",
+                  "text": "Ezt a samaipatai templomot a Candelariai Szűzanyának szentelték, és a helyi katolikus ünnepek központi eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.875648,
+                        -18.179223
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "A samaipatai evangélikus templom egyszerű külsejével és a közösségi munkára helyezett hangsúlyával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.879734,
+                        -18.177144
+                  ]
+            },
+            {
+                  "name": "Mirador Las Cuevas",
+                  "text": "Ebből a kilátóból közvetlenül a Las Cuevas terület festői vízeséseire és sűrű szubtrópusi növényzetére nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -63.727906,
+                        -18.190824
+                  ]
+            },
+            {
+                  "name": "Parque Aeronáutico",
+                  "text": "Ez a repülőparkról elnevezett kilátó széles panorámát kínál a Samaipata körüli völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -63.877172,
+                        -18.176173
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Ez a Samaipata melletti út elsődleges kilátója zavartalan kilátást nyújt az Andok zord lábaira.",
+                  "category": "natural",
+                  "coords": [
+                        -63.821357,
+                        -18.178703
+                  ]
+            },
+            {
+                  "name": "Paradero 2",
+                  "text": "Ez a második hivatalos pihenő- és kilátóhely a Samaipatába vezető úton ideális a hatalmas hegyvidéki táj fényképezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -63.824297,
+                        -18.178451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuerte de Samaipata",
+                  "text": "Un sit al Patrimoniului Mondial UNESCO datând din 300 e.n., cu o masivă stâncă de gresie sculptată folosită pentru ceremonii religioase precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -63.818051,
+                        -18.181528
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Regional de Samaipata",
+                  "text": "Un muzeu interesant care expune ceramice antice și artefacte excavate de la stânca precolumbiană El Fuerte din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        -63.874098,
+                        -18.178309
+                  ]
+            },
+            {
+                  "name": "Allkawasi",
+                  "text": "Ruinele unor clădiri administrative antice specializate care flanchează stânca sculptată monumentală de la El Fuerte.",
+                  "category": "historical",
+                  "coords": [
+                        -63.821045,
+                        -18.179926
+                  ]
+            },
+            {
+                  "name": "Centro Político",
+                  "text": "Zona pieței centrale unde conducătorii provinciali incași și pre-incași își comandau operațiunile administrative și militare.",
+                  "category": "historical",
+                  "coords": [
+                        -63.819116,
+                        -18.1795
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Samaipata",
+                  "text": "Centrul cultural din Samaipata oferă o perspectivă asupra tradițiilor artistice andine din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.874201,
+                        -18.180444
+                  ]
+            },
+            {
+                  "name": "Monasterio Gnostico Tipheret",
+                  "text": "Această mănăstire gnostică ascunsă în munții din Samaipata servește ca centru spiritual și loc de contemplare.",
+                  "category": "religious",
+                  "coords": [
+                        -63.82772,
+                        -18.183888
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Maranatha",
+                  "text": "Mica biserică baptistă din Samaipata este un loc de întâlnire pentru slujbe și pentru comunitatea evanghelică locală.",
+                  "category": "religious",
+                  "coords": [
+                        -63.873938,
+                        -18.176801
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Dia",
+                  "text": "Această biserică din Samaipata este lăcașul de cult al comunității locale a adventiștilor de ziua a șaptea.",
+                  "category": "religious",
+                  "coords": [
+                        -63.872978,
+                        -18.178246
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "Sala Regatului a Martorilor lui Iehova din Samaipata este principalul loc de adunare al acestei comunități religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -63.876869,
+                        -18.177643
+                  ]
+            },
+            {
+                  "name": "Iglesia fuente de vida",
+                  "text": "Această biserică creștină din Samaipata se remarcă prin arhitectura sa simplă și prin rolul său de centru comunitar local.",
+                  "category": "religious",
+                  "coords": [
+                        -63.866798,
+                        -18.176896
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Samaipata",
+                  "text": "Piața municipală principală din Samaipata este un centru plin de viață pentru produsele andine și mărfurile artizanale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.875704,
+                        -18.176446
+                  ]
+            },
+            {
+                  "name": "Achira Entrada",
+                  "text": "Această zonă naturală de lângă Samaipata este cunoscută pentru peisajul său montan accidentat și flora autohtonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.815287,
+                        -18.16338
+                  ]
+            },
+            {
+                  "name": "Inka Face",
+                  "text": "Această formațiune stâncoasă izbitoare din situl arheologic El Fuerte seamănă cu o față umană și prezintă urme de prelucrare precolumbiană.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.823367,
+                        -18.177382
+                  ]
+            },
+            {
+                  "name": "Felinos",
+                  "text": "Petroglifele din această zonă a sitului El Fuerte de Samaipata înfățișează feline, care erau simboluri importante ale culturilor prehispanice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.820424,
+                        -18.178631
+                  ]
+            },
+            {
+                  "name": "Templo de las Cinco Hornacinas",
+                  "text": "Cele cinci nișe caracteristice ale acestui templu prehispanic din Samaipata au servit probabil pentru păstrarea relicvelor sacre.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.819289,
+                        -18.178228
+                  ]
+            },
+            {
+                  "name": "Sendero Espiral Luz Inicio Rio",
+                  "text": "Această potecă naturală în spirală din Samaipata duce la malul râului și este adesea folosită pentru plimbări meditative.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.818417,
+                        -18.139911
+                  ]
+            },
+            {
+                  "name": "Arroyo ando",
+                  "text": "Acest pârâu limpede de munte curge prin verdeața densă a văilor din jurul orașului Samaipata.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.863255,
+                        -18.123211
+                  ]
+            },
+            {
+                  "name": "Pino Negro",
+                  "text": "Această pădure de pin negru din peisajul andin de lângă Samaipata oferă un contrast întunecat cu vegetația autohtonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.864284,
+                        -18.124032
+                  ]
+            },
+            {
+                  "name": "Bruja Terapia",
+                  "text": "Această facilitate rustică din Samaipata este specializată în tratamente naturiste tradiționale și terapii locale cu plante.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.878922,
+                        -18.179161
+                  ]
+            },
+            {
+                  "name": "Refugio Jacha Inti",
+                  "text": "Acest refugiu de la poalele Anzilor, lângă Samaipata, oferă cazare pentru drumeți și pasionații de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.87978,
+                        -18.197709
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Această biserică creștină simplă din piatră este un centru arhitectural important pentru credincioșii locali din Samaipata.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.790849,
+                        -18.172653
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra de la Merced",
+                  "text": "Biserica Îndurării de lângă Samaipata este un loc de pelerinaj local cu elemente de stil colonial.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.869896,
+                        -18.177678
+                  ]
+            },
+            {
+                  "name": "Capilla Exaltacion de La Cruz",
+                  "text": "Această mică capelă creștină dedicată Înălțării Sfintei Cruci este situată idilic în văile andine.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.879038,
+                        -18.180391
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Candelaria",
+                  "text": "Această biserică din Samaipata este dedicată Fecioarei din Candelaria și este o parte centrală a festivalurilor catolice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.875648,
+                        -18.179223
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Biserica evanghelică din Samaipata se distinge prin exteriorul său simplu și prin accentul pus pe munca în folosul comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.879734,
+                        -18.177144
+                  ]
+            },
+            {
+                  "name": "Mirador Las Cuevas",
+                  "text": "Din acest punct de belvedere se pot vedea direct cascadele pitorești și vegetația subtropicală densă din zona Las Cuevas.",
+                  "category": "natural",
+                  "coords": [
+                        -63.727906,
+                        -18.190824
+                  ]
+            },
+            {
+                  "name": "Parque Aeronáutico",
+                  "text": "Acest punct de belvedere, numit după un parc aeronautic, oferă o vedere panoramică largă asupra văilor din jurul orașului Samaipata.",
+                  "category": "natural",
+                  "coords": [
+                        -63.877172,
+                        -18.176173
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Această platformă principală de observare de pe drumul de lângă Samaipata oferă o vedere neobstrucționată a poalelor stâncoase ale Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -63.821357,
+                        -18.178703
+                  ]
+            },
+            {
+                  "name": "Paradero 2",
+                  "text": "Acest al doilea loc oficial de odihnă și de belvedere de pe traseul spre Samaipata este ideal pentru fotografierea vastului peisaj montan.",
+                  "category": "natural",
+                  "coords": [
+                        -63.824297,
+                        -18.178451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fuerte de Samaipata",
+                  "text": "A UNESCO World Heritage site dating back to 300 CE, featuring a massive sculpted sandstone rock used for pre-Columbian religious ceremonies.",
+                  "category": "historical",
+                  "coords": [
+                        -63.818051,
+                        -18.181528
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Regional de Samaipata",
+                  "text": "An insightful museum exhibiting ancient ceramics and artifacts excavated from the nearby pre-Columbian El Fuerte rock.",
+                  "category": "museum",
+                  "coords": [
+                        -63.874098,
+                        -18.178309
+                  ]
+            },
+            {
+                  "name": "Allkawasi",
+                  "text": "The ruins of specialized ancient administrative buildings flanking the monumental carved rock of El Fuerte.",
+                  "category": "historical",
+                  "coords": [
+                        -63.821045,
+                        -18.179926
+                  ]
+            },
+            {
+                  "name": "Centro Político",
+                  "text": "The central plaza area where provincial Inca and pre-Inca rulers commanded their administrative and military operations.",
+                  "category": "historical",
+                  "coords": [
+                        -63.819116,
+                        -18.1795
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Samaipata",
+                  "text": "The cultural centre of Samaipata showcases the region's traditional Andean art and crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.874201,
+                        -18.180444
+                  ]
+            },
+            {
+                  "name": "Monasterio Gnostico Tipheret",
+                  "text": "This Gnostic monastery nestled in the mountains of Samaipata serves as a spiritual centre and place of contemplation.",
+                  "category": "religious",
+                  "coords": [
+                        -63.82772,
+                        -18.183888
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Maranatha",
+                  "text": "The small Baptist church of Samaipata serves as a local gathering place for worship and the evangelical community.",
+                  "category": "religious",
+                  "coords": [
+                        -63.873938,
+                        -18.176801
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Dia",
+                  "text": "This church in Samaipata is the place of worship for the local Seventh-day Adventist community.",
+                  "category": "religious",
+                  "coords": [
+                        -63.872978,
+                        -18.178246
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "The Kingdom Hall of Jehovah's Witnesses in Samaipata serves as the primary meeting place for this religious community.",
+                  "category": "religious",
+                  "coords": [
+                        -63.876869,
+                        -18.177643
+                  ]
+            },
+            {
+                  "name": "Iglesia fuente de vida",
+                  "text": "This Christian church in Samaipata is characterized by its simple architecture and its role as a local community centre.",
+                  "category": "religious",
+                  "coords": [
+                        -63.866798,
+                        -18.176896
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Samaipata",
+                  "text": "The main municipal market of Samaipata is a bustling hub for local Andean produce and craft goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.875704,
+                        -18.176446
+                  ]
+            },
+            {
+                  "name": "Achira Entrada",
+                  "text": "This natural area near Samaipata is known for its rugged mountain landscape and native flora.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.815287,
+                        -18.16338
+                  ]
+            },
+            {
+                  "name": "Inka Face",
+                  "text": "This striking rock formation at the El Fuerte archaeological site resembles a human face and shows traces of pre-Columbian carving.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.823367,
+                        -18.177382
+                  ]
+            },
+            {
+                  "name": "Felinos",
+                  "text": "The petroglyphs in this zone of El Fuerte de Samaipata depict felines, which were important symbols in local pre-Hispanic cultures.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.820424,
+                        -18.178631
+                  ]
+            },
+            {
+                  "name": "Templo de las Cinco Hornacinas",
+                  "text": "The five characteristic niches of this pre-Hispanic temple in Samaipata likely served to store sacred relics.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.819289,
+                        -18.178228
+                  ]
+            },
+            {
+                  "name": "Sendero Espiral Luz Inicio Rio",
+                  "text": "This spiraling nature trail in Samaipata leads down to the riverbank and is often used for meditative walks.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.818417,
+                        -18.139911
+                  ]
+            },
+            {
+                  "name": "Arroyo ando",
+                  "text": "This clear mountain stream flows through the dense greenery of the valleys surrounding Samaipata.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.863255,
+                        -18.123211
+                  ]
+            },
+            {
+                  "name": "Pino Negro",
+                  "text": "This striking stand of black pine in the Andean landscape near Samaipata provides a dark contrast to the native vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.864284,
+                        -18.124032
+                  ]
+            },
+            {
+                  "name": "Bruja Terapia",
+                  "text": "This rustic facility in Samaipata specializes in traditional natural remedies and local herbal therapies.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.878922,
+                        -18.179161
+                  ]
+            },
+            {
+                  "name": "Refugio Jacha Inti",
+                  "text": "This refuge in the foothills of the Andes near Samaipata provides accommodation for hikers and nature watchers.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.87978,
+                        -18.197709
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "This simple Christian stone church is an important architectural centre for the local believers in Samaipata.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.790849,
+                        -18.172653
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra de la Merced",
+                  "text": "The Church of Our Lady of Mercy near Samaipata is a local pilgrimage site featuring colonial style elements.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.869896,
+                        -18.177678
+                  ]
+            },
+            {
+                  "name": "Capilla Exaltacion de La Cruz",
+                  "text": "This small Christian chapel dedicated to the Exaltation of the Holy Cross is idylically situated in the Andean valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.879038,
+                        -18.180391
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Candelaria",
+                  "text": "This church in Samaipata is dedicated to the Virgin of Candelaria and is a central part of the local Catholic festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.875648,
+                        -18.179223
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "The Evangelical church of Samaipata stands out for its simple exterior and its focus on community work.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.879734,
+                        -18.177144
+                  ]
+            },
+            {
+                  "name": "Mirador Las Cuevas",
+                  "text": "From this viewpoint, one can look directly at the picturesque waterfalls and the dense subtropical vegetation of the Las Cuevas area.",
+                  "category": "natural",
+                  "coords": [
+                        -63.727906,
+                        -18.190824
+                  ]
+            },
+            {
+                  "name": "Parque Aeronáutico",
+                  "text": "This viewpoint, named after an aeronautical park, offers a wide panoramic view over the valleys surrounding Samaipata.",
+                  "category": "natural",
+                  "coords": [
+                        -63.877172,
+                        -18.176173
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "This primary observation deck on the road near Samaipata provides an unobstructed view of the rugged foothills of the Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -63.821357,
+                        -18.178703
+                  ]
+            },
+            {
+                  "name": "Paradero 2",
+                  "text": "This second official rest and viewing stop on the route to Samaipata is ideal for photographing the expansive mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -63.824297,
+                        -18.178451
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-S",
     coords: [-63.8202, -18.1765],
@@ -501,7 +2589,340 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Le rocher sculpté mesure environ 220 mètres de long et 60 mètres de large.", "On y trouve des représentations de jaguars et de serpents, sacrés dans la cosmologie locale.", "Les Espagnols ont plus tard établi une petite colonie sur le site, d'où le nom 'El Fuerte'.", "Le site marque la frontière orientale de l'Empire inca face aux tribus guerrières Guaraní.", "Les visiteurs peuvent faire le tour du complexe sur des passerelles en bois pour protéger les sculptures fragiles."],
     }, image: "/poi-images/bo-fuerte-samaipata-history-v2.webp"},
   {
-    id: "bo-incallajta-history-v2",
+    id: "bo-incallajta-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Machaqa Marka",
+                  "text": "Ein markanter Andengipfel in der bergigen Landschaft des Departements Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -65.415859,
+                        -17.580624
+                  ]
+            },
+            {
+                  "name": "Qucha Qucha",
+                  "text": "Ein markanter Berggipfel, der sich über die zerklüftete Landschaft der bolivianischen Anden in Cochabamba erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.398892,
+                        -17.637537
+                  ]
+            },
+            {
+                  "name": "Qutani",
+                  "text": "Dieser felsige Andengipfel dominiert die hochgelegene Umgebung von Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -65.415006,
+                        -17.633999
+                  ]
+            },
+            {
+                  "name": "Piedra de Sacrificio",
+                  "text": "Ein alter Inka-Opferstein, der in die historischen Geheimnisse der archäologischen Stätte Incallajta eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.415691,
+                        -17.605006
+                  ]
+            },
+            {
+                  "name": "Qolqewayrachina",
+                  "text": "Die alten Steinfundamente eines Inka-Windofens, der zum Schmelzen von Silbererzen diente.",
+                  "category": "historical",
+                  "coords": [
+                        -65.415027,
+                        -17.60139
+                  ]
+            },
+            {
+                  "name": "Torreón",
+                  "text": "Die runden Steinruinen eines Wachturms, der einst das Verwaltungszentrum der Inka verteidigte.",
+                  "category": "historical",
+                  "coords": [
+                        -65.417875,
+                        -17.603013
+                  ]
+            },
+            {
+                  "name": "Lawayqu",
+                  "text": "Eine markante Erhebung, die steil über den zerklüfteten Andentälern von Cochabamba aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.500561,
+                        -17.567111
+                  ]
+            },
+            {
+                  "name": "Incallajta",
+                  "text": "Eine monumentale Inka-Festung und Verwaltungszentrum, erbaut von Túpac Yupanqui zur Sicherung der Ostgrenzen des Reiches.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.413883,
+                        -17.603702
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Asis de Pocona",
+                  "text": "Eine historische katholische Kirche aus der Kolonialzeit mit traditioneller Lehmziegelarchitektur im Herzen von Pocona.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420817,
+                        -17.675274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Machaqa Marka",
+                  "text": "Egy látványos andoki hegycsúcs Cochabamba megye hegyvidéki terepén.",
+                  "category": "natural",
+                  "coords": [
+                        -65.415859,
+                        -17.580624
+                  ]
+            },
+            {
+                  "name": "Qucha Qucha",
+                  "text": "A bolíviai Andok zord tája fölé magasodó tekintélyes hegycsúcs Cochabambában.",
+                  "category": "natural",
+                  "coords": [
+                        -65.398892,
+                        -17.637537
+                  ]
+            },
+            {
+                  "name": "Qutani",
+                  "text": "Ez a sziklás andoki hegycsúcs uralja Cochabamba magaslati környezetét.",
+                  "category": "natural",
+                  "coords": [
+                        -65.415006,
+                        -17.633999
+                  ]
+            },
+            {
+                  "name": "Piedra de Sacrificio",
+                  "text": "Egy ősi inka áldozati kőoltár, amely az Incallajta régészeti lelőhely történelmi rejtélyeibe burkolózik.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.415691,
+                        -17.605006
+                  ]
+            },
+            {
+                  "name": "Qolqewayrachina",
+                  "text": "Egy inka szélkemence ősi kőalapjai, amelyet ezüstérc olvasztására használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -65.415027,
+                        -17.60139
+                  ]
+            },
+            {
+                  "name": "Torreón",
+                  "text": "Egy őrtorony kör alakú kőromjai, amely egykor az inka közigazgatási központot védte.",
+                  "category": "historical",
+                  "coords": [
+                        -65.417875,
+                        -17.603013
+                  ]
+            },
+            {
+                  "name": "Lawayqu",
+                  "text": "Kiemelkedő hegyvonulat, amely meredeken emelkedik Cochabamba zord andoki völgyei fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -65.500561,
+                        -17.567111
+                  ]
+            },
+            {
+                  "name": "Incallajta",
+                  "text": "Monumentális inka erőd és közigazgatási központ, amelyet Tupac Inca Yupanqui épített a birodalom keleti határainak biztosítására.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.413883,
+                        -17.603702
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Asis de Pocona",
+                  "text": "Egy történelmi, gyarmati kori katolikus templom hagyományos vályogépítészettel Pocona szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420817,
+                        -17.675274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Machaqa Marka",
+                  "text": "Un vârf andin impresionant situat în peisajul montan al departamentului Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -65.415859,
+                        -17.580624
+                  ]
+            },
+            {
+                  "name": "Qucha Qucha",
+                  "text": "Un vârf montan proeminent care se înalță deasupra peisajului accidentat al Anzilor bolivieni din Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -65.398892,
+                        -17.637537
+                  ]
+            },
+            {
+                  "name": "Qutani",
+                  "text": "Acest vârf muntos stâncos andin domină împrejurimile de mare altitudine din Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -65.415006,
+                        -17.633999
+                  ]
+            },
+            {
+                  "name": "Piedra de Sacrificio",
+                  "text": "Un vechi altar de piatră incaș pentru sacrificii, învăluit în misterele istorice ale sitului arheologic Incallajta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.415691,
+                        -17.605006
+                  ]
+            },
+            {
+                  "name": "Qolqewayrachina",
+                  "text": "Fundațiile antice de piatră ale unui cuptor incaș cu tiraj de vânt folosit pentru topirea minereurilor de argint.",
+                  "category": "historical",
+                  "coords": [
+                        -65.415027,
+                        -17.60139
+                  ]
+            },
+            {
+                  "name": "Torreón",
+                  "text": "Ruinele circulare de piatră ale unui turn de veghe care apăra odinioară centrul administrativ incaș.",
+                  "category": "historical",
+                  "coords": [
+                        -65.417875,
+                        -17.603013
+                  ]
+            },
+            {
+                  "name": "Lawayqu",
+                  "text": "O proeminență montană marcantă care se înalță abrupt deasupra văilor andine accidentate din Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -65.500561,
+                        -17.567111
+                  ]
+            },
+            {
+                  "name": "Incallajta",
+                  "text": "O fortăreață monumentală și centru administrativ incaș, construită de Tupac Inca Yupanqui pentru a securiza granițele estice ale imperiului.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.413883,
+                        -17.603702
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Asis de Pocona",
+                  "text": "O biserică catolică istorică din epoca colonială, prezentând o arhitectură tradițională din chirpici în inima orașului Pocona.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420817,
+                        -17.675274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Machaqa Marka",
+                  "text": "A striking Andean peak located in the mountainous terrain of the Cochabamba department.",
+                  "category": "natural",
+                  "coords": [
+                        -65.415859,
+                        -17.580624
+                  ]
+            },
+            {
+                  "name": "Qucha Qucha",
+                  "text": "A prominent mountain peak rising above the rugged landscape of the Bolivian Andes in Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -65.398892,
+                        -17.637537
+                  ]
+            },
+            {
+                  "name": "Qutani",
+                  "text": "This rocky Andean mountain peak dominates the high-altitude surroundings of Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -65.415006,
+                        -17.633999
+                  ]
+            },
+            {
+                  "name": "Piedra de Sacrificio",
+                  "text": "An ancient Incan sacrificial stone altar steeped in the historical mysteries of the Incallajta archaeological site.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.415691,
+                        -17.605006
+                  ]
+            },
+            {
+                  "name": "Qolqewayrachina",
+                  "text": "The ancient stone foundations of an Incan wind-draft furnace used for smelting silver ores.",
+                  "category": "historical",
+                  "coords": [
+                        -65.415027,
+                        -17.60139
+                  ]
+            },
+            {
+                  "name": "Torreón",
+                  "text": "The circular stone ruins of a watchtower that once defended the Incan administrative center.",
+                  "category": "historical",
+                  "coords": [
+                        -65.417875,
+                        -17.603013
+                  ]
+            },
+            {
+                  "name": "Lawayqu",
+                  "text": "A prominent mountain elevation rising starkly above the rugged Andean valleys of Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -65.500561,
+                        -17.567111
+                  ]
+            },
+            {
+                  "name": "Incallajta",
+                  "text": "A monumental Incan fortress and administrative center built by Tupac Inca Yupanqui to secure the empire's eastern borders.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.413883,
+                        -17.603702
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Asis de Pocona",
+                  "text": "A historic colonial-era Catholic church featuring traditional adobe architecture in the heart of Pocona.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420817,
+                        -17.675274
+                  ]
+            }
+      ]
+},
     description: "Az Inka Birodalom legnagyobb erődítménye Bolíviában, stratégiai helyen az andoki völgyekben.",
     facts: [
       "Inka erődítmény",
@@ -554,7 +2975,520 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["La Kallanka d'Incallajta possède des dimensions impressionnantes de 78 mètres sur 25.", "La cité fut érigée sur un site offrant une protection naturelle grâce à de profonds canyons.", "Une cascade spectaculaire nommée Pajcha se trouve à proximité des ruines.", "Incallajta était reliée à Cusco par le Qapac Ñan, le grand système routier inca.", "Les archéologues supposent que la cité fut abandonnée après une lourde défaite contre les tribus Chiriguano."],
     }, image: "/poi-images/bo-incallajta-history-v2.webp"},
   {
-    id: "bo-inka-rakay-history-v2",
+    id: "bo-inka-rakay-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Campanario",
+                  "text": "Campanario ist eine traditionelle Glockenturm-Attraktion in der Region Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.353133,
+                        -17.452314
+                  ]
+            },
+            {
+                  "name": "Yuraq Yaku",
+                  "text": "Yuraq Yaku ist ein weltweit anerkannter Berggipfel in der Nähe des Inka-Rakay-Gebiets.",
+                  "category": "natural",
+                  "coords": [
+                        -66.376731,
+                        -17.500349
+                  ]
+            },
+            {
+                  "name": "Zorra",
+                  "text": "Zorra ist eine lokale Besucherattraktion in der historischen Umgebung von Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331246,
+                        -17.518019
+                  ]
+            },
+            {
+                  "name": "Inka Raqay",
+                  "text": "Inka Raqay dient als erhöhter Aussichtspunkt und bietet einen Panoramablick über die historische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -66.385369,
+                        -17.479403
+                  ]
+            },
+            {
+                  "name": "Templo Virgen de Surumi",
+                  "text": "Der Templo Virgen de Surumi ist eine architektonisch bemerkenswerte Tempelattraktion in der Region Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.286944,
+                        -17.519471
+                  ]
+            },
+            {
+                  "name": "Balneario Señor de los Milagros",
+                  "text": "Das Balneario Señor de los Milagros ist ein öffentlicher Wasserpark zur Erholung in Inka Rakay.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.352162,
+                        -17.452901
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de SipeSipe",
+                  "text": "Das Teatro Municipal de SipeSipe ist ein städtisches Theater in der Nähe von Inka Rakay, in dem Kulturveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.356938,
+                        -17.453455
+                  ]
+            },
+            {
+                  "name": "Balneario Los Molles",
+                  "text": "Das Balneario Los Molles ist ein lokaler Wasserpark, der zum Schwimmen und für die Freizeitgestaltung in Inka Rakay konzipiert wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.349275,
+                        -17.455165
+                  ]
+            },
+            {
+                  "name": "Balneario Tío Sam II",
+                  "text": "Das Balneario Tío Sam II ist ein Freizeit-Wasserpark-Komplex in der Region Inka Rakay.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.349966,
+                        -17.457024
+                  ]
+            },
+            {
+                  "name": "Ruinas de Inka Raqay",
+                  "text": "Ruinas de Inka Raqay ist eine weltweit bekannte archäologische Stätte mit dem Kulturdenkmal-Status 2, die antike Ruinen beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        -66.385967,
+                        -17.480588
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Diese La Iglesia de Jesucristo de los Santos de los Últimos Días ist ein christliches Gebäude für die Heiligen der Letzten Tage in der Nähe von Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.35837,
+                        -17.455615
+                  ]
+            },
+            {
+                  "name": "Capilla Shirle",
+                  "text": "Die Capilla Shirle ist eine spiritualistische Kapelle, die in Inka Rakay einen Raum für Kontemplation bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.371045,
+                        -17.462541
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana Evangelica Suticollo",
+                  "text": "Die Iglesia Presbiteriana Evangelica Suticollo ist eine evangelisch-presbyterianische christliche Kirche im Gebiet von Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.346956,
+                        -17.463064
+                  ]
+            },
+            {
+                  "name": "Mercado Suticollo",
+                  "text": "Der Mercado Suticollo dient als lokaler Marktplatz für Verkäufer und Käufer im Bezirk Inka Rakay.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.337629,
+                        -17.462829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Campanario",
+                  "text": "A Campanario egy hagyományos harangtorony látványosság az Inka Rakay régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.353133,
+                        -17.452314
+                  ]
+            },
+            {
+                  "name": "Yuraq Yaku",
+                  "text": "A Yuraq Yaku egy világszerte ismert hegycsúcs az Inka Rakay terület közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -66.376731,
+                        -17.500349
+                  ]
+            },
+            {
+                  "name": "Zorra",
+                  "text": "A Zorra egy helyi látogatói attrakció, amely Inka Rakay történelmi környezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331246,
+                        -17.518019
+                  ]
+            },
+            {
+                  "name": "Inka Raqay",
+                  "text": "Az Inka Raqay magasan fekvő kilátóként szolgál, ahonnan panorámás kilátás nyílik a történelmi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -66.385369,
+                        -17.479403
+                  ]
+            },
+            {
+                  "name": "Templo Virgen de Surumi",
+                  "text": "A Templo Virgen de Surumi egy építészetileg figyelemre méltó templom és látványosság az Inka Rakay régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.286944,
+                        -17.519471
+                  ]
+            },
+            {
+                  "name": "Balneario Señor de los Milagros",
+                  "text": "A Balneario Señor de los Milagros egy nyilvános vízipark célpont rekreációhoz Inka Rakayban.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.352162,
+                        -17.452901
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de SipeSipe",
+                  "text": "A Teatro Municipal de SipeSipe egy városi színház, amely kulturális eseményeknek ad otthont Inka Rakay közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.356938,
+                        -17.453455
+                  ]
+            },
+            {
+                  "name": "Balneario Los Molles",
+                  "text": "A Balneario Los Molles egy helyi vízipark látványosság, amelyet fürdőzésre és szabadidős tevékenységekre terveztek Inka Rakayban.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.349275,
+                        -17.455165
+                  ]
+            },
+            {
+                  "name": "Balneario Tío Sam II",
+                  "text": "A Balneario Tío Sam II egy rekreációs vízipark komplexum, amely az Inka Rakay régióban található.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.349966,
+                        -17.457024
+                  ]
+            },
+            {
+                  "name": "Ruinas de Inka Raqay",
+                  "text": "A Ruinas de Inka Raqay egy világszerte ismert régészeti lelőhely ősi romokkal, amely 2-es szintű örökségvédelmi státusszal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        -66.385967,
+                        -17.480588
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a La Iglesia de Jesucristo de los Santos de los Últimos Días egy keresztény épület az Utolsó Napok Szentjeinek Inka Rakay közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.35837,
+                        -17.455615
+                  ]
+            },
+            {
+                  "name": "Capilla Shirle",
+                  "text": "A Capilla Shirle spiritiszta kápolnaként működik, amely teret ad az elmélyülésnek Inka Rakayban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.371045,
+                        -17.462541
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana Evangelica Suticollo",
+                  "text": "Az Iglesia Presbiteriana Evangelica Suticollo egy evangéliumi presbiteriánus keresztény templom az Inka Rakay területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.346956,
+                        -17.463064
+                  ]
+            },
+            {
+                  "name": "Mercado Suticollo",
+                  "text": "A Mercado Suticollo helyi piacként szolgál az árusok és vásárlók számára az Inka Rakay kerületben.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.337629,
+                        -17.462829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Campanario",
+                  "text": "Campanario este o atracție tradițională a unui turn cu clopot situată în regiunea Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.353133,
+                        -17.452314
+                  ]
+            },
+            {
+                  "name": "Yuraq Yaku",
+                  "text": "Yuraq Yaku este un vârf de munte recunoscut la nivel mondial, situat în apropierea zonei Inka Rakay.",
+                  "category": "natural",
+                  "coords": [
+                        -66.376731,
+                        -17.500349
+                  ]
+            },
+            {
+                  "name": "Zorra",
+                  "text": "Zorra este o atracție locală pentru vizitatori situată în împrejurimile istorice din Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331246,
+                        -17.518019
+                  ]
+            },
+            {
+                  "name": "Inka Raqay",
+                  "text": "Inka Raqay servește drept punct de belvedere înalt, oferind o priveliște panoramică asupra peisajului istoric.",
+                  "category": "natural",
+                  "coords": [
+                        -66.385369,
+                        -17.479403
+                  ]
+            },
+            {
+                  "name": "Templo Virgen de Surumi",
+                  "text": "Templo Virgen de Surumi este o atracție a unui templu remarcabil din punct de vedere arhitectural în regiunea Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.286944,
+                        -17.519471
+                  ]
+            },
+            {
+                  "name": "Balneario Señor de los Milagros",
+                  "text": "Balneario Señor de los Milagros este un parc acvatic public destinat recreerii în Inka Rakay.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.352162,
+                        -17.452901
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de SipeSipe",
+                  "text": "Teatro Municipal de SipeSipe este un teatru urban care găzduiește evenimente culturale lângă Inka Rakay.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.356938,
+                        -17.453455
+                  ]
+            },
+            {
+                  "name": "Balneario Los Molles",
+                  "text": "Balneario Los Molles este un parc acvatic local conceput pentru înot și agrement în Inka Rakay.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.349275,
+                        -17.455165
+                  ]
+            },
+            {
+                  "name": "Balneario Tío Sam II",
+                  "text": "Balneario Tío Sam II este un complex de parcuri acvatice de agrement situat în regiunea Inka Rakay.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.349966,
+                        -17.457024
+                  ]
+            },
+            {
+                  "name": "Ruinas de Inka Raqay",
+                  "text": "Ruinas de Inka Raqay este un sit arheologic remarcabil la nivel mondial, cu statut de patrimoniu de nivel 2, ce prezintă ruine antice.",
+                  "category": "historical",
+                  "coords": [
+                        -66.385967,
+                        -17.480588
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această La Iglesia de Jesucristo de los Santos de los Últimos Días este o clădire creștină pentru Sfinții din Zilele din Urmă din apropiere de Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.35837,
+                        -17.455615
+                  ]
+            },
+            {
+                  "name": "Capilla Shirle",
+                  "text": "Capilla Shirle funcționează ca o capelă spiritualistă care oferă un spațiu de contemplare în Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.371045,
+                        -17.462541
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana Evangelica Suticollo",
+                  "text": "Iglesia Presbiteriana Evangelica Suticollo este o biserică creștină presbiteriană evanghelică situată în zona Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.346956,
+                        -17.463064
+                  ]
+            },
+            {
+                  "name": "Mercado Suticollo",
+                  "text": "Mercado Suticollo servește drept piață locală pentru vânzători și cumpărători în districtul Inka Rakay.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.337629,
+                        -17.462829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Campanario",
+                  "text": "Campanario is a traditional bell tower attraction situated in the region of Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.353133,
+                        -17.452314
+                  ]
+            },
+            {
+                  "name": "Yuraq Yaku",
+                  "text": "Yuraq Yaku is a globally recognized mountain peak standing near the Inka Rakay area.",
+                  "category": "natural",
+                  "coords": [
+                        -66.376731,
+                        -17.500349
+                  ]
+            },
+            {
+                  "name": "Zorra",
+                  "text": "Zorra is a local visitor attraction located within the historical surroundings of Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331246,
+                        -17.518019
+                  ]
+            },
+            {
+                  "name": "Inka Raqay",
+                  "text": "Inka Raqay serves as an elevated viewpoint offering panoramic sights over the historical landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -66.385369,
+                        -17.479403
+                  ]
+            },
+            {
+                  "name": "Templo Virgen de Surumi",
+                  "text": "Templo Virgen de Surumi is an architecturally notable temple attraction in the Inka Rakay region.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.286944,
+                        -17.519471
+                  ]
+            },
+            {
+                  "name": "Balneario Señor de los Milagros",
+                  "text": "Balneario Señor de los Milagros is a public water park destination for recreation in Inka Rakay.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.352162,
+                        -17.452901
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de SipeSipe",
+                  "text": "Teatro Municipal de SipeSipe is an urban theatre venue hosting cultural events near Inka Rakay.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.356938,
+                        -17.453455
+                  ]
+            },
+            {
+                  "name": "Balneario Los Molles",
+                  "text": "Balneario Los Molles is a local water park attraction designed for swimming and leisure in Inka Rakay.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.349275,
+                        -17.455165
+                  ]
+            },
+            {
+                  "name": "Balneario Tío Sam II",
+                  "text": "Balneario Tío Sam II is a recreational water park complex situated in the region of Inka Rakay.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.349966,
+                        -17.457024
+                  ]
+            },
+            {
+                  "name": "Ruinas de Inka Raqay",
+                  "text": "Ruinas de Inka Raqay is a globally notable archaeological site with level 2 heritage status featuring ancient ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -66.385967,
+                        -17.480588
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This La Iglesia de Jesucristo de los Santos de los Últimos Días is a Christian building for Latter-day Saints near Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.35837,
+                        -17.455615
+                  ]
+            },
+            {
+                  "name": "Capilla Shirle",
+                  "text": "Capilla Shirle operates as a spiritualist chapel providing a space for contemplation in Inka Rakay.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.371045,
+                        -17.462541
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana Evangelica Suticollo",
+                  "text": "Iglesia Presbiteriana Evangelica Suticollo is an Evangelical Presbyterian Christian church located in the Inka Rakay area.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.346956,
+                        -17.463064
+                  ]
+            },
+            {
+                  "name": "Mercado Suticollo",
+                  "text": "Mercado Suticollo serves as a local marketplace for vendors and shoppers in the Inka Rakay district.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.337629,
+                        -17.462829
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-C",
     coords: [-66.3686, -17.4812],
@@ -621,7 +3555,1204 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Le complexe est situé à une altitude de près de 3 300 mètres au-dessus du niveau de la mer.", "Le nom 'Inka Rakay' signifie 'ruines de l'Inca' en quechua.", "Lors du solstice d'hiver, le 21 juin, de grandes cérémonies indigènes y ont lieu.", "Certains murs présentent les niches trapézoïdales caractéristiques de l'architecture inca.", "Le site fait partie d'un plus large corridor archéologique reliant les différentes vallées."],
     }, image: "/poi-images/bo-inka-rakay-history-v2.webp"},
   {
-    id: "bo-cotapachi-history-v2",
+    id: "bo-cotapachi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gruta Virgen Urkupiña",
+                  "text": "Dieser bemerkenswerte Schrein in bo-cotapachi-history-v2 ist der berühmten Virgen de Urkupiña gewidmet, einer wichtigen lokalen religiösen Figur.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.284519,
+                        -17.42229
+                  ]
+            },
+            {
+                  "name": "Carruaje Landau",
+                  "text": "Diese Attraktion in bo-cotapachi-history-v2 präsentiert einen historischen Landau, eine Art luxuriöse Pferdekutsche.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.319825,
+                        -17.365842
+                  ]
+            },
+            {
+                  "name": "Monumento El Cristo",
+                  "text": "Diese markante monumentale Christusstatue steht als auffälliges religiöses Wahrzeichen in bo-cotapachi-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -66.286245,
+                        -17.399552
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Sipe Sipe 3",
+                  "text": "Diese am 8. August 2016 dokumentierte archäologische Stätte in bo-cotapachi-history-v2 enthält freigelegte historische Überreste im Boden.",
+                  "category": "historical",
+                  "coords": [
+                        -66.302862,
+                        -17.427249
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 117",
+                  "text": "Diese archäologische Stätte in bo-cotapachi-history-v2, die am 8. August 2016 verzeichnet wurde, bewahrt signifikante historische Geländemerkmale.",
+                  "category": "historical",
+                  "coords": [
+                        -66.302632,
+                        -17.437496
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 128",
+                  "text": "Diese im Jahr 2016 erfasste archäologische Ausgrabungsstätte in bo-cotapachi-history-v2 offenbart frühere Spuren alter Siedlungsaktivitäten.",
+                  "category": "historical",
+                  "coords": [
+                        -66.316331,
+                        -17.439058
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 127",
+                  "text": "Diese am 8. August 2016 registrierte archäologische Zone in bo-cotapachi-history-v2 zeichnet sich durch erhaltene Bodenausgrabungen aus.",
+                  "category": "historical",
+                  "coords": [
+                        -66.31284,
+                        -17.430038
+                  ]
+            },
+            {
+                  "name": "Teatro Teófilo Vargas",
+                  "text": "Dieser lokale Theaterort in bo-cotapachi-history-v2 verfügt über eine Bühne für regionale darstellende Künste und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.281503,
+                        -17.397215
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Ildefonso",
+                  "text": "Diese historische Kultstätte in bo-cotapachi-history-v2 ist für ihre architektonische Bedeutung mit dem Denkmalstatus der Stufe 2 anerkannt.",
+                  "category": "religious",
+                  "coords": [
+                        -66.281537,
+                        -17.398345
+                  ]
+            },
+            {
+                  "name": "Centro Biocultural Tierra Verde",
+                  "text": "Dieses Kunstzentrum in bo-cotapachi-history-v2 veranstaltet Ausstellungen, die die biologische Umwelt der Region mit der lokalen Kultur verbinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.294492,
+                        -17.403198
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza Cristiana y Misionera",
+                  "text": "Diese spezifische Kirche der Christlichen und Missionarischen Allianz in bo-cotapachi-history-v2 dient als religiöser Treffpunkt für ihre Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -66.279676,
+                        -17.388286
+                  ]
+            },
+            {
+                  "name": "Capilla del Cementerio",
+                  "text": "Diese lokale Kapelle, die innerhalb des Friedhofsgeländes liegt, bietet einen ruhigen Ort für Gedenkfeiern in bo-cotapachi-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -66.293746,
+                        -17.400537
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten in bo-cotapachi-history-v2 bietet ihren Mitgliedern wöchentliche Gottesdienste und gemeinschaftliche Unterstützung.",
+                  "category": "religious",
+                  "coords": [
+                        -66.316649,
+                        -17.387509
+                  ]
+            },
+            {
+                  "name": "Mercado Martín Cárdenas",
+                  "text": "Dieser kommerzielle Marktplatz in bo-cotapachi-history-v2 verfügt über zahlreiche, dicht gedrängte Verkaufsstände für alltägliche Besorgungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282803,
+                        -17.406028
+                  ]
+            },
+            {
+                  "name": "Mercado de Granos",
+                  "text": "Dieser auf landwirtschaftliche Grundnahrungsmittel ausgerichtete Marktplatz in bo-cotapachi-history-v2 ist ein zentraler Knotenpunkt für Schüttgüter und Getreide.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.285367,
+                        -17.401314
+                  ]
+            },
+            {
+                  "name": "Plaza de Granos",
+                  "text": "Dieser Open-Air-Marktplatz in bo-cotapachi-history-v2 dient als traditioneller Handelsplatz speziell für Getreidehändler.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.28407,
+                        -17.398945
+                  ]
+            },
+            {
+                  "name": "Mercado de Papas",
+                  "text": "Dieser spezifische Markt in bo-cotapachi-history-v2 ist ganz den Wurzelgemüsen gewidmet und handelt in erster Linie mit großen Mengen an Kartoffeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282996,
+                        -17.399956
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Quilllacollo",
+                  "text": "Dieser zentrale Hauptmarktplatz in bo-cotapachi-history-v2 bietet ein weitreichendes Sortiment an frischen landwirtschaftlichen Produkten und Fleisch.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.279903,
+                        -17.397401
+                  ]
+            },
+            {
+                  "name": "Mercado de Verduras y Frutas",
+                  "text": "Dieser spezialisierte Marktplatz in bo-cotapachi-history-v2 betreibt Stände voller frischem Gemüse der Saison und reifem Obst.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282245,
+                        -17.394045
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Vinto",
+                  "text": "Dieser zentrale Marktplatz fungiert als Haupthandelsplatz in Vinto und bietet überdachte Stände für die Bewohner von bo-cotapachi-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.316237,
+                        -17.399839
+                  ]
+            },
+            {
+                  "name": "Mercado Ambulante de Vinto",
+                  "text": "Dieser Wandermarkt in bo-cotapachi-history-v2 besteht aus mobilen Händlern, die eine wechselnde Auswahl an Waren unter freiem Himmel verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.316469,
+                        -17.398795
+                  ]
+            },
+            {
+                  "name": "Letrero de Quillacollo",
+                  "text": "Dieses markante Außenschild fungiert als auffällige visuelle Markierung für die Quillacollo-Zone in bo-cotapachi-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.291238,
+                        -17.394748
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Cotapachi",
+                  "text": "Diese 2016 verzeichnete archäologische Ausgrabungsstätte in bo-cotapachi-history-v2 bewahrt die historischen Steinruinen der Cotapachi-Siedlung.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.291763,
+                        -17.439186
+                  ]
+            },
+            {
+                  "name": "Santurario de la Virgen de Urkupiña",
+                  "text": "Dieses bedeutende religiöse Heiligtum in bo-cotapachi-history-v2 ist ein wichtiges Pilgerziel, das der Verehrung der lokalen Jungfrau gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.283039,
+                        -17.422726
+                  ]
+            },
+            {
+                  "name": "Plaza de la Integración Max Fernandez Rojas",
+                  "text": "Die Plaza de la Integración Max Fernandez Rojas ist ein öffentlicher Platz und eine städtische Sehenswürdigkeit im Gebiet von Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.284053,
+                        -17.418979
+                  ]
+            },
+            {
+                  "name": "Prado de Quillacollo",
+                  "text": "Der Prado de Quillacollo ist eine landschaftlich gestaltete Promenade und eine lokale Attraktion in der Nähe von Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.283268,
+                        -17.39423
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "La Iglesia de Jesucristo de los Santos de los Últimos Días ist eine christliche Einrichtung der Heiligen der Letzten Tage in Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.276898,
+                        -17.405574
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Quillacollo",
+                  "text": "Die Iglesia Pentecostal Quillacollo dient als christlich-pfingstliches Gottesdienstzentrum in der Nähe von Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.276968,
+                        -17.394803
+                  ]
+            },
+            {
+                  "name": "Iglesia Kairos Casa de Fares",
+                  "text": "Die Iglesia Kairos Casa de Fares ist ein Gebäude einer christlichen Gemeinde in der Region Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.272963,
+                        -17.392421
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día Lazarte",
+                  "text": "Die Iglesia Adventista del Séptimo Día Lazarte ist eine christliche Kirche der Siebenten-Tags-Adventisten in Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.318462,
+                        -17.393146
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día Maranatha",
+                  "text": "Die Iglesia Adventista del Séptimo Día Maranatha ist eine christliche Andachtsstätte der Siebenten-Tags-Adventisten im Gebiet von Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.319136,
+                        -17.394106
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario",
+                  "text": "Nuestra Señora del Rosario ist eine christliche Kirche in Cotapachi, die Unserer Lieben Frau vom Rosenkranz geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.313857,
+                        -17.397902
+                  ]
+            },
+            {
+                  "name": "Calvario Khuturipa",
+                  "text": "Der Calvario Khuturipa ist eine anerkannte Kulturstätte und ein christliches Wahrzeichen in Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.314789,
+                        -17.409491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gruta Virgen Urkupiña",
+                  "text": "Ezt a figyelemre méltó szentélyt a bo-cotapachi-history-v2 területén a híres Virgen de Urkupiña-nak, egy fontos helyi vallási alaknak szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.284519,
+                        -17.42229
+                  ]
+            },
+            {
+                  "name": "Carruaje Landau",
+                  "text": "Ez a látványosság a bo-cotapachi-history-v2 területén egy történelmi landau-t, egyfajta luxus lovaskocsit mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.319825,
+                        -17.365842
+                  ]
+            },
+            {
+                  "name": "Monumento El Cristo",
+                  "text": "Ez a kiemelkedő monumentális Krisztus-szobor észrevehető vallási mérföldkőként áll a bo-cotapachi-history-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        -66.286245,
+                        -17.399552
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Sipe Sipe 3",
+                  "text": "A 2016. augusztus 8-án dokumentált régészeti lelőhely a bo-cotapachi-history-v2 területén feltárt történelmi maradványokat tartalmaz a talajban.",
+                  "category": "historical",
+                  "coords": [
+                        -66.302862,
+                        -17.427249
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 117",
+                  "text": "Ez a bo-cotapachi-history-v2 területén található, 2016. augusztus 8-án rögzített régészeti lelőhely jelentős történelmi terepjellemzőket őriz.",
+                  "category": "historical",
+                  "coords": [
+                        -66.302632,
+                        -17.437496
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 128",
+                  "text": "A 2016-ban rögzített régészeti ásatási terület a bo-cotapachi-history-v2 területén régi települési tevékenységek korai nyomait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        -66.316331,
+                        -17.439058
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 127",
+                  "text": "Ez a 2016. augusztus 8-án nyilvántartásba vett régészeti övezet a bo-cotapachi-history-v2 területén fennmaradt földi ásatásokkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        -66.31284,
+                        -17.430038
+                  ]
+            },
+            {
+                  "name": "Teatro Teófilo Vargas",
+                  "text": "Ez a helyi színház a bo-cotapachi-history-v2 területén regionális előadó-művészeti előadásokhoz biztosít színpadot.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.281503,
+                        -17.397215
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Ildefonso",
+                  "text": "Ez a történelmi istentiszteleti hely a bo-cotapachi-history-v2 területén építészeti jelentősége miatt 2-es szintű örökségi státusszal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -66.281537,
+                        -17.398345
+                  ]
+            },
+            {
+                  "name": "Centro Biocultural Tierra Verde",
+                  "text": "Ez a művészeti központ a bo-cotapachi-history-v2 területén olyan kiállításoknak ad otthont, amelyek összekapcsolják a régió biológiai környezetét a helyi kultúrával.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.294492,
+                        -17.403198
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza Cristiana y Misionera",
+                  "text": "A Keresztény és Misszionárius Szövetség ezen temploma a bo-cotapachi-history-v2 területén a gyülekezet vallási találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -66.279676,
+                        -17.388286
+                  ]
+            },
+            {
+                  "name": "Capilla del Cementerio",
+                  "text": "A temető területén elhelyezkedő helyi kápolna csendes helyet biztosít a megemlékezések számára a bo-cotapachi-history-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -66.293746,
+                        -17.400537
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "Ez a Hetednapi Adventista Egyház a bo-cotapachi-history-v2 területén heti istentiszteleteket és közösségi támogatást kínál tagjainak.",
+                  "category": "religious",
+                  "coords": [
+                        -66.316649,
+                        -17.387509
+                  ]
+            },
+            {
+                  "name": "Mercado Martín Cárdenas",
+                  "text": "Ez a kereskedelmi piac a bo-cotapachi-history-v2 területén számos, egymás mellé zsúfolt árusítóstanddal rendelkezik a mindennapi bevásárlásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282803,
+                        -17.406028
+                  ]
+            },
+            {
+                  "name": "Mercado de Granos",
+                  "text": "Ez a mezőgazdasági alapanyagokra összpontosító piac a bo-cotapachi-history-v2 területén az ömlesztett áruk és gabonafélék központi csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.285367,
+                        -17.401314
+                  ]
+            },
+            {
+                  "name": "Plaza de Granos",
+                  "text": "Ez a szabadtéri piactér a bo-cotapachi-history-v2 területén a gabonakereskedők hagyományos kereskedelmi helyeként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.28407,
+                        -17.398945
+                  ]
+            },
+            {
+                  "name": "Mercado de Papas",
+                  "text": "Ez a teljes egészében gyökérzöldségeknek szentelt specifikus piac a bo-cotapachi-history-v2 területén elsősorban nagy mennyiségű burgonyával kereskedik.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282996,
+                        -17.399956
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Quilllacollo",
+                  "text": "Ez az elsődleges központi piac a bo-cotapachi-history-v2 területén friss mezőgazdasági termékek és húsok átfogó választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.279903,
+                        -17.397401
+                  ]
+            },
+            {
+                  "name": "Mercado de Verduras y Frutas",
+                  "text": "Ez a speciális piac a bo-cotapachi-history-v2 területén friss szezonális zöldségekkel és érett gyümölcsökkel teli standokat üzemeltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282245,
+                        -17.394045
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Vinto",
+                  "text": "Vinto fő kereskedési színtereként ez a központi piac fedett standokat biztosít a bo-cotapachi-history-v2 lakói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.316237,
+                        -17.399839
+                  ]
+            },
+            {
+                  "name": "Mercado Ambulante de Vinto",
+                  "text": "Ez a vándorpiac a bo-cotapachi-history-v2 területén mozgóárusokból áll, akik folyamatosan változó áruválasztékot kínálnak a szabad ég alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.316469,
+                        -17.398795
+                  ]
+            },
+            {
+                  "name": "Letrero de Quillacollo",
+                  "text": "Ez a jellegzetes kültéri tábla figyelemfelkeltő vizuális jelölőként szolgál a Quillacollo zóna számára a bo-cotapachi-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.291238,
+                        -17.394748
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Cotapachi",
+                  "text": "A 2016-ban nyilvántartásba vett régészeti lelőhely a bo-cotapachi-history-v2 területén őrzi a Cotapachi település történelmi kőromjait.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.291763,
+                        -17.439186
+                  ]
+            },
+            {
+                  "name": "Santurario de la Virgen de Urkupiña",
+                  "text": "Ez a jelentős vallási szentély a bo-cotapachi-history-v2 területén fontos zarándokcélpont, amelyet a helyi Szűz tiszteletének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.283039,
+                        -17.422726
+                  ]
+            },
+            {
+                  "name": "Plaza de la Integración Max Fernandez Rojas",
+                  "text": "A Plaza de la Integración Max Fernandez Rojas egy köztér és városi látványosság a Cotapachi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.284053,
+                        -17.418979
+                  ]
+            },
+            {
+                  "name": "Prado de Quillacollo",
+                  "text": "A Prado de Quillacollo egy parkosított sétány és helyi látványosság Cotapachi közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.283268,
+                        -17.39423
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A La Iglesia de Jesucristo de los Santos de los Últimos Días egy Utolsó Napok Szentjei keresztény létesítmény Cotapachiban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.276898,
+                        -17.405574
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Quillacollo",
+                  "text": "Az Iglesia Pentecostal Quillacollo keresztény pünkösdi istentiszteleti központként működik Cotapachi közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.276968,
+                        -17.394803
+                  ]
+            },
+            {
+                  "name": "Iglesia Kairos Casa de Fares",
+                  "text": "Az Iglesia Kairos Casa de Fares egy keresztény gyülekezeti épület a Cotapachi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.272963,
+                        -17.392421
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día Lazarte",
+                  "text": "Az Iglesia Adventista del Séptimo Día Lazarte egy hetednapi adventista keresztény templom Cotapachiban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.318462,
+                        -17.393146
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día Maranatha",
+                  "text": "Az Iglesia Adventista del Séptimo Día Maranatha egy hetednapi adventista keresztény istentiszteleti hely Cotapachi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.319136,
+                        -17.394106
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario",
+                  "text": "A Nuestra Señora del Rosario egy Cotapachiban található, Rózsafüzér Királynőjének szentelt keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.313857,
+                        -17.397902
+                  ]
+            },
+            {
+                  "name": "Calvario Khuturipa",
+                  "text": "A Calvario Khuturipa egy elismert örökségi helyszín és keresztény nevezetesség Cotapachiban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.314789,
+                        -17.409491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gruta Virgen Urkupiña",
+                  "text": "Acest altar notabil din bo-cotapachi-history-v2 este dedicat faimoasei Fecioare de Urkupiña, o importantă figură religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.284519,
+                        -17.42229
+                  ]
+            },
+            {
+                  "name": "Carruaje Landau",
+                  "text": "Această atracție din bo-cotapachi-history-v2 prezintă un landou istoric, un tip de trăsură de lux trasă de cai.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.319825,
+                        -17.365842
+                  ]
+            },
+            {
+                  "name": "Monumento El Cristo",
+                  "text": "Această proeminentă statuie monumentală a lui Hristos stă ca un punct de reper religios vizibil în bo-cotapachi-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -66.286245,
+                        -17.399552
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Sipe Sipe 3",
+                  "text": "Documentat pe 8 august 2016, acest sit arheologic din bo-cotapachi-history-v2 conține vestigii istorice excavate din pământ.",
+                  "category": "historical",
+                  "coords": [
+                        -66.302862,
+                        -17.427249
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 117",
+                  "text": "Acest sit arheologic din bo-cotapachi-history-v2, înregistrat pe 8 august 2016, păstrează caracteristici istorice semnificative ale terenului.",
+                  "category": "historical",
+                  "coords": [
+                        -66.302632,
+                        -17.437496
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 128",
+                  "text": "Înregistrat în 2016, acest sit de excavații arheologice din bo-cotapachi-history-v2 dezvăluie urme anterioare ale activităților de așezare antice.",
+                  "category": "historical",
+                  "coords": [
+                        -66.316331,
+                        -17.439058
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 127",
+                  "text": "Înregistrată pe 8 august 2016, această zonă arheologică din bo-cotapachi-history-v2 este marcată de excavații terestre conservate.",
+                  "category": "historical",
+                  "coords": [
+                        -66.31284,
+                        -17.430038
+                  ]
+            },
+            {
+                  "name": "Teatro Teófilo Vargas",
+                  "text": "Acest teatru local din bo-cotapachi-history-v2 dispune de o scenă pentru artele spectacolului regionale și reprezentații.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.281503,
+                        -17.397215
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Ildefonso",
+                  "text": "Acest lăcaș de cult istoric din bo-cotapachi-history-v2 este recunoscut cu statut de patrimoniu de nivelul 2 pentru importanța sa arhitecturală.",
+                  "category": "religious",
+                  "coords": [
+                        -66.281537,
+                        -17.398345
+                  ]
+            },
+            {
+                  "name": "Centro Biocultural Tierra Verde",
+                  "text": "Acest centru de arte din bo-cotapachi-history-v2 găzduiește expoziții care conectează mediul biologic al regiunii cu cultura locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.294492,
+                        -17.403198
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza Cristiana y Misionera",
+                  "text": "Această biserică specifică a Alianței Creștine și Misionare din bo-cotapachi-history-v2 servește ca loc de întâlnire religioasă pentru congregația sa.",
+                  "category": "religious",
+                  "coords": [
+                        -66.279676,
+                        -17.388286
+                  ]
+            },
+            {
+                  "name": "Capilla del Cementerio",
+                  "text": "Situată în incinta cimitirului, această capelă locală oferă un spațiu liniștit pentru slujbele de comemorare din bo-cotapachi-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -66.293746,
+                        -17.400537
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "Această biserică Adventistă de Ziua a Șaptea din bo-cotapachi-history-v2 oferă slujbe săptămânale și sprijin comunitar membrilor săi.",
+                  "category": "religious",
+                  "coords": [
+                        -66.316649,
+                        -17.387509
+                  ]
+            },
+            {
+                  "name": "Mercado Martín Cárdenas",
+                  "text": "Această piață comercială din bo-cotapachi-history-v2 prezintă numeroase tarabe aglomerate pentru cumpărăturile de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282803,
+                        -17.406028
+                  ]
+            },
+            {
+                  "name": "Mercado de Granos",
+                  "text": "Concentrată pe produsele agricole de bază, această piață din bo-cotapachi-history-v2 este un centru principal pentru mărfuri în vrac și cereale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.285367,
+                        -17.401314
+                  ]
+            },
+            {
+                  "name": "Plaza de Granos",
+                  "text": "Această piață în aer liber din bo-cotapachi-history-v2 servește ca un teren tradițional de tranzacționare, în special pentru comercianții de cereale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.28407,
+                        -17.398945
+                  ]
+            },
+            {
+                  "name": "Mercado de Papas",
+                  "text": "Dedicată în întregime legumelor rădăcinoase, această piață specifică din bo-cotapachi-history-v2 tranzacționează în principal cantități mari de cartofi.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282996,
+                        -17.399956
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Quilllacollo",
+                  "text": "Această piață centrală principală din bo-cotapachi-history-v2 oferă o varietate cuprinzătoare de produse agricole proaspete și cărnuri.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.279903,
+                        -17.397401
+                  ]
+            },
+            {
+                  "name": "Mercado de Verduras y Frutas",
+                  "text": "Această piață specializată din bo-cotapachi-history-v2 operează tarabe pline cu legume proaspete de sezon și fructe coapte.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282245,
+                        -17.394045
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Vinto",
+                  "text": "Acționând ca principală zonă de tranzacționare în Vinto, această piață centrală oferă tarabe acoperite pentru rezidenții din bo-cotapachi-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.316237,
+                        -17.399839
+                  ]
+            },
+            {
+                  "name": "Mercado Ambulante de Vinto",
+                  "text": "Această piață itinerantă din bo-cotapachi-history-v2 este formată din vânzători mobili care vând o selecție rotativă de bunuri în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.316469,
+                        -17.398795
+                  ]
+            },
+            {
+                  "name": "Letrero de Quillacollo",
+                  "text": "Acest indicator exterior distinctiv funcționează ca un marcator vizual atrăgător pentru zona Quillacollo din bo-cotapachi-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.291238,
+                        -17.394748
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Cotapachi",
+                  "text": "Acest sit arheologic din bo-cotapachi-history-v2, înregistrat în 2016, păstrează ruinele istorice din piatră ale așezării Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.291763,
+                        -17.439186
+                  ]
+            },
+            {
+                  "name": "Santurario de la Virgen de Urkupiña",
+                  "text": "Acest sanctuar religios important din bo-cotapachi-history-v2 este o destinație majoră de pelerinaj dedicată venerării Fecioarei locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.283039,
+                        -17.422726
+                  ]
+            },
+            {
+                  "name": "Plaza de la Integración Max Fernandez Rojas",
+                  "text": "Plaza de la Integración Max Fernandez Rojas este o piață publică și o atracție urbană în zona Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.284053,
+                        -17.418979
+                  ]
+            },
+            {
+                  "name": "Prado de Quillacollo",
+                  "text": "Prado de Quillacollo este o promenadă amenajată și o atracție locală lângă Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.283268,
+                        -17.39423
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "La Iglesia de Jesucristo de los Santos de los Últimos Días este o unitate creștină a Sfinților din Zilele din Urmă din Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.276898,
+                        -17.405574
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Quillacollo",
+                  "text": "Iglesia Pentecostal Quillacollo servește drept centru de cult creștin penticostal în apropiere de Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.276968,
+                        -17.394803
+                  ]
+            },
+            {
+                  "name": "Iglesia Kairos Casa de Fares",
+                  "text": "Iglesia Kairos Casa de Fares este o clădire a unei congregații creștine situată în regiunea Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.272963,
+                        -17.392421
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día Lazarte",
+                  "text": "Iglesia Adventista del Séptimo Día Lazarte este o biserică creștină adventistă de ziua a șaptea din Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.318462,
+                        -17.393146
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día Maranatha",
+                  "text": "Iglesia Adventista del Séptimo Día Maranatha este un lăcaș de cult creștin adventist de ziua a șaptea în zona Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.319136,
+                        -17.394106
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario",
+                  "text": "Nuestra Señora del Rosario este o biserică creștină din Cotapachi dedicată Maicii Domnului a Rozariului.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.313857,
+                        -17.397902
+                  ]
+            },
+            {
+                  "name": "Calvario Khuturipa",
+                  "text": "Calvario Khuturipa este un sit de patrimoniu recunoscut și un punct de reper creștin situat în Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.314789,
+                        -17.409491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gruta Virgen Urkupiña",
+                  "text": "This notable shrine in bo-cotapachi-history-v2 is dedicated to the famous Virgen de Urkupiña, an important local religious figure.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.284519,
+                        -17.42229
+                  ]
+            },
+            {
+                  "name": "Carruaje Landau",
+                  "text": "This attraction in bo-cotapachi-history-v2 features a historic landau, a type of horse-drawn luxury carriage.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.319825,
+                        -17.365842
+                  ]
+            },
+            {
+                  "name": "Monumento El Cristo",
+                  "text": "This prominent monumental statue of Christ stands as a noticeable religious landmark in bo-cotapachi-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -66.286245,
+                        -17.399552
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Sipe Sipe 3",
+                  "text": "Documented on August 8, 2016, this archaeological site in bo-cotapachi-history-v2 contains excavated historical remains in the ground.",
+                  "category": "historical",
+                  "coords": [
+                        -66.302862,
+                        -17.427249
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 117",
+                  "text": "This archaeological site in bo-cotapachi-history-v2, recorded on August 8, 2016, preserves significant historical terrain features.",
+                  "category": "historical",
+                  "coords": [
+                        -66.302632,
+                        -17.437496
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 128",
+                  "text": "Recorded in 2016, this archaeological excavation site in bo-cotapachi-history-v2 reveals earlier traces of ancient settlement activities.",
+                  "category": "historical",
+                  "coords": [
+                        -66.316331,
+                        -17.439058
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Qu 127",
+                  "text": "Registered on August 8, 2016, this archaeological zone in bo-cotapachi-history-v2 is marked by preserved ground excavations.",
+                  "category": "historical",
+                  "coords": [
+                        -66.31284,
+                        -17.430038
+                  ]
+            },
+            {
+                  "name": "Teatro Teófilo Vargas",
+                  "text": "This local theatre venue in bo-cotapachi-history-v2 features a stage for regional performing arts and shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.281503,
+                        -17.397215
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Ildefonso",
+                  "text": "This historic place of worship in bo-cotapachi-history-v2 is recognized with level 2 heritage status for its architectural significance.",
+                  "category": "religious",
+                  "coords": [
+                        -66.281537,
+                        -17.398345
+                  ]
+            },
+            {
+                  "name": "Centro Biocultural Tierra Verde",
+                  "text": "This arts centre in bo-cotapachi-history-v2 hosts exhibitions that bridge the region's biological environment and local culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.294492,
+                        -17.403198
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza Cristiana y Misionera",
+                  "text": "This specific Christian and Missionary Alliance church in bo-cotapachi-history-v2 serves as a religious meeting place for its congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -66.279676,
+                        -17.388286
+                  ]
+            },
+            {
+                  "name": "Capilla del Cementerio",
+                  "text": "Situated within the burial grounds, this local chapel provides a quiet space for memorial services in bo-cotapachi-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -66.293746,
+                        -17.400537
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "This Seventh-day Adventist church in bo-cotapachi-history-v2 offers weekly services and community support to its members.",
+                  "category": "religious",
+                  "coords": [
+                        -66.316649,
+                        -17.387509
+                  ]
+            },
+            {
+                  "name": "Mercado Martín Cárdenas",
+                  "text": "This commercial marketplace in bo-cotapachi-history-v2 features numerous, tightly packed vendor stalls for everyday provisions.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282803,
+                        -17.406028
+                  ]
+            },
+            {
+                  "name": "Mercado de Granos",
+                  "text": "Focused on agricultural staples, this marketplace in bo-cotapachi-history-v2 is a central hub for bulk goods and various grains.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.285367,
+                        -17.401314
+                  ]
+            },
+            {
+                  "name": "Plaza de Granos",
+                  "text": "This open-air marketplace square in bo-cotapachi-history-v2 serves as a traditional trading ground specifically for grain merchants.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.28407,
+                        -17.398945
+                  ]
+            },
+            {
+                  "name": "Mercado de Papas",
+                  "text": "Dedicated entirely to root vegetables, this specific marketplace in bo-cotapachi-history-v2 primarily deals in large quantities of potatoes.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282996,
+                        -17.399956
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Quilllacollo",
+                  "text": "This primary central marketplace in bo-cotapachi-history-v2 offers a comprehensive variety of fresh agricultural produce and meats.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.279903,
+                        -17.397401
+                  ]
+            },
+            {
+                  "name": "Mercado de Verduras y Frutas",
+                  "text": "This specialized marketplace in bo-cotapachi-history-v2 operates stalls full of fresh seasonal vegetables and ripe fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.282245,
+                        -17.394045
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Vinto",
+                  "text": "Acting as the main trading floor in Vinto, this central marketplace provides sheltered vendor stalls for residents of bo-cotapachi-history-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.316237,
+                        -17.399839
+                  ]
+            },
+            {
+                  "name": "Mercado Ambulante de Vinto",
+                  "text": "This itinerant marketplace in bo-cotapachi-history-v2 consists of mobile vendors selling a rotating selection of goods in an open-air setting.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.316469,
+                        -17.398795
+                  ]
+            },
+            {
+                  "name": "Quillacollo Sign",
+                  "text": "This distinctive outdoor sign functions as an eye-catching visual marker for the Quillacollo zone in bo-cotapachi-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.291238,
+                        -17.394748
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Cotapachi",
+                  "text": "Recorded in 2016, this archaeological site in bo-cotapachi-history-v2 preserves the historic stone ruins of the Cotapachi settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.291763,
+                        -17.439186
+                  ]
+            },
+            {
+                  "name": "Santurario de la Virgen de Urkupiña",
+                  "text": "This prominent religious sanctuary in bo-cotapachi-history-v2 is a major pilgrimage destination dedicated to venerating the local Virgin.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.283039,
+                        -17.422726
+                  ]
+            },
+            {
+                  "name": "Plaza de la Integración Max Fernandez Rojas",
+                  "text": "Plaza de la Integración Max Fernandez Rojas is a public square and urban attraction in the Cotapachi area.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.284053,
+                        -17.418979
+                  ]
+            },
+            {
+                  "name": "Prado de Quillacollo",
+                  "text": "Prado de Quillacollo is a landscaped promenade and local attraction near Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.283268,
+                        -17.39423
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "La Iglesia de Jesucristo de los Santos de los Últimos Días is a Latter-day Saint Christian facility in Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.276898,
+                        -17.405574
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Quillacollo",
+                  "text": "Iglesia Pentecostal Quillacollo serves as a Christian Pentecostal worship center near Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.276968,
+                        -17.394803
+                  ]
+            },
+            {
+                  "name": "Iglesia Kairos Casa de Fares",
+                  "text": "Iglesia Kairos Casa de Fares is a Christian congregation building located in the Cotapachi region.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.272963,
+                        -17.392421
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día Lazarte",
+                  "text": "Iglesia Adventista del Séptimo Día Lazarte is a Seventh-day Adventist Christian church in Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.318462,
+                        -17.393146
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día Maranatha",
+                  "text": "Iglesia Adventista del Séptimo Día Maranatha is a Seventh-day Adventist Christian worship site in the Cotapachi area.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.319136,
+                        -17.394106
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario",
+                  "text": "Nuestra Señora del Rosario is a Christian church in Cotapachi dedicated to Our Lady of the Rosary.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.313857,
+                        -17.397902
+                  ]
+            },
+            {
+                  "name": "Calvario Khuturipa",
+                  "text": "Calvario Khuturipa is a recognized heritage site and Christian landmark located in Cotapachi.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.314789,
+                        -17.409491
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-C",
     coords: [-66.2796, -17.4326],
@@ -689,7 +4820,124 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
     },
   },
   {
-    id: "bo-casa-moneda-history-v2",
+    id: "bo-casa-moneda-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carroza",
+                  "text": "Diese ausgestellte historische Kutsche bietet einen Einblick in die Transportmethoden der Region während der Kolonialzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.754108,
+                        -19.588703
+                  ]
+            },
+            {
+                  "name": "Acueducto de la Ribera de los Ingenios",
+                  "text": "Dieses historische Steinaquädukt wurde ursprünglich gebaut, um die zahlreichen Silbermühlen der Region mit Wasser zu versorgen.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.754336,
+                        -19.591318
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangelica Calle Chuquisaca",
+                  "text": "Diese christliche Kultstätte liegt direkt an der Calle Chuquisaca und dient der örtlichen evangelischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.753647,
+                        -19.590305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carroza",
+                  "text": "Ez a kiállított történelmi hintó bepillantást enged a régió gyarmati korszakának közlekedési módszereibe.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.754108,
+                        -19.588703
+                  ]
+            },
+            {
+                  "name": "Acueducto de la Ribera de los Ingenios",
+                  "text": "Ezt a történelmi kő vízvezetéket eredetileg a régió számos ezüstmalmának vízellátására építették.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.754336,
+                        -19.591318
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangelica Calle Chuquisaca",
+                  "text": "A közvetlenül a Chuquisaca utcában található keresztény istentiszteleti hely a helyi evangéliumi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.753647,
+                        -19.590305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carroza",
+                  "text": "Această trăsură istorică expusă oferă o privire asupra metodelor de transport din epoca colonială ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.754108,
+                        -19.588703
+                  ]
+            },
+            {
+                  "name": "Acueducto de la Ribera de los Ingenios",
+                  "text": "Acest apeduct istoric din piatră a fost construit inițial pentru a furniza apă numeroaselor mori de argint din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.754336,
+                        -19.591318
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangelica Calle Chuquisaca",
+                  "text": "Situat direct pe strada Chuquisaca, acest lăcaș de cult creștin deservește comunitatea evanghelică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.753647,
+                        -19.590305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carroza",
+                  "text": "This historical carriage on display offers a glimpse into the colonial-era transportation methods of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.754108,
+                        -19.588703
+                  ]
+            },
+            {
+                  "name": "Acueducto de la Ribera de los Ingenios",
+                  "text": "This historic stone aqueduct was originally built to supply water to the numerous silver mills of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.754336,
+                        -19.591318
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangelica Calle Chuquisaca",
+                  "text": "Located directly on Chuquisaca Street, this Christian place of worship serves the local evangelical community.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.753647,
+                        -19.590305
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-P",
     coords: [-65.7533, -19.5888],
@@ -756,7 +5004,952 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Le bâtiment dispose de cinq grandes cours intérieures et de murs massifs pour protéger le précieux argent.", "Au-dessus de l'entrée de la deuxième cour se trouve le célèbre masque « Mascarón », dont le sourire reste un mystère.", "Les engrenages en bois des machines ont été fabriqués à partir de bois dur de la région du Chaco et transportés à travers les Andes.", "Outre les pièces de monnaie, le musée expose d'importantes peintures coloniales de l'école de Potosí, notamment des œuvres de Melchor Pérez de Holguín.", "La Casa de la Moneda est inscrite au patrimoine mondial de l'UNESCO depuis 1987."],
     }, image: "/poi-images/bo-casa-moneda-history-v2.webp"},
   {
-    id: "bo-santa-teresa-potosi-history-v2",
+    id: "bo-santa-teresa-potosi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mawk'a Tampu",
+                  "text": "Dieser bemerkenswerte andine Berggipfel in der Region Potosí ist von historischer Bedeutung für das Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        -65.666685,
+                        -19.583464
+                  ]
+            },
+            {
+                  "name": "Kimsa Waylla",
+                  "text": "Der markante Gipfel des Kimsa Waylla prägt die raue Gebirgslandschaft rund um Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.670007,
+                        -19.607415
+                  ]
+            },
+            {
+                  "name": "Kimsa Kunturiri",
+                  "text": "Dieser prominente Andengipfel in der Nähe von Potosí ist nach den drei Kondoren aus den indigenen Legenden benannt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.669586,
+                        -19.592068
+                  ]
+            },
+            {
+                  "name": "Mirador Kari Kari",
+                  "text": "Dieser Aussichtspunkt in Potosí bietet einen spektakulären Blick auf die historischen Stauseen des Kari-Kari-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        -65.700655,
+                        -19.60441
+                  ]
+            },
+            {
+                  "name": "Nariz del Lama",
+                  "text": "Dieser markante Aussichtspunkt bei Potosí hat eine felsige Form, die an die Schnauze eines Lamas erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -65.704514,
+                        -19.599788
+                  ]
+            },
+            {
+                  "name": "Khari Khari",
+                  "text": "Dieser bekannte Berggipfel in Potosí gehört zur gleichnamigen Bergkette, die die historischen Silberminen mit Wasser versorgte.",
+                  "category": "natural",
+                  "coords": [
+                        -65.685495,
+                        -19.585646
+                  ]
+            },
+            {
+                  "name": "Monumento al Minero",
+                  "text": "Dieses Bronzedenkmal in Potosí ehrt die unzähligen Minenarbeiter, die den Reichtum der Region aus dem Cerro Rico förderten.",
+                  "category": "historical",
+                  "coords": [
+                        -65.746121,
+                        -19.6026
+                  ]
+            },
+            {
+                  "name": "Tourist mine",
+                  "text": "Diese Besucher-Mine in Potosí bietet geführte Touren in die dunklen, historischen Stollen des berühmten Silberbergs Cerro Rico.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.747735,
+                        -19.602951
+                  ]
+            },
+            {
+                  "name": "Gruta de Copacabana",
+                  "text": "Dieses religiöse Denkmal in Potosí ist ein höhlenartiger Schrein, der der Jungfrau von Copacabana gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -65.746103,
+                        -19.588801
+                  ]
+            },
+            {
+                  "name": "Caja del Agua",
+                  "text": "Diese historische Wasserinfrastruktur in Potosí verteilte einst das Wasser aus den Andenseen in die Silbermühlen der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.745483,
+                        -19.590133
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "Diese historische Mühle in Potosí nutzte einst Wasserkraft, um Silbererz aus den umliegenden Minen zu verarbeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.750475,
+                        -19.591812
+                  ]
+            },
+            {
+                  "name": "Eduardo Avaroa Hidalgo",
+                  "text": "Dieses Denkmal in Potosí würdigt Eduardo Avaroa, einen gefeierten bolivianischen Kriegshelden aus dem Salpeterkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        -65.748573,
+                        -19.58946
+                  ]
+            },
+            {
+                  "name": "Acueducto de la Ribera de los Ingenios",
+                  "text": "Dieses historische Aquädukt in Potosí kanalisierte das Wasser der Kari-Kari-Seen, um das große Netz der kolonialen Silbermühlen anzutreiben.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749313,
+                        -19.591332
+                  ]
+            },
+            {
+                  "name": "Laguna San Pablo",
+                  "text": "Dieser historische, von den Kari-Kari-Seen gespeiste Stausee bei Potosí wurde künstlich angelegt, um die kolonialen Silberminen mit Wasser zu versorgen.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.714275,
+                        -19.604929
+                  ]
+            },
+            {
+                  "name": "Laguna San Idelfonso",
+                  "text": "Als Teil des Kari-Kari-Wassersystems versorgte diese andine Lagune bei Potosí einst die wasserbetriebenen Ingenios der Silberindustrie.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.718557,
+                        -19.60204
+                  ]
+            },
+            {
+                  "name": "Complejo Deportivo Pampa Ingenio",
+                  "text": "Dieser moderne, am 3. April 2016 eröffnete Sportkomplex in Potosí bietet der lokalen Gemeinde vielfältige Freizeiteinrichtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.742328,
+                        -19.59251
+                  ]
+            },
+            {
+                  "name": "Capilla Monte Calvario",
+                  "text": "Die Capilla Monte Calvario ist eine christliche Kapelle in Potosí, die in erhöhter Lage zur spirituellen Besinnung einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.748269,
+                        -19.597471
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal",
+                  "text": "Die Iglesia San Cristóbal ist eine historische christliche Kirche in Potosí mit klassischer kolonialer Andenarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.745725,
+                        -19.596028
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Die Iglesia San Juan Bautista ist eine traditionelle christliche Kirche, die sich in das aus Stein erbaute koloniale Straßenbild von Potosí einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.746399,
+                        -19.590287
+                  ]
+            },
+            {
+                  "name": "Iglesia La Concepción",
+                  "text": "Diese historische christliche Kirche ist der Unbefleckten Empfängnis geweiht und zeugt vom reichen religiösen Erbe Potosís.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.746855,
+                        -19.59257
+                  ]
+            },
+            {
+                  "name": "Iglesia San Sebastián",
+                  "text": "Die Iglesia San Sebastián ist eine christliche Pfarrkirche, die eine friedliche Atmosphäre in der historischen Bergbaustadt Potosí bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749842,
+                        -19.592752
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses moderne Versammlungshaus der Heiligen der Letzten Tage bietet einen eigenen Ort für christliche Gottesdienste im hochgelegenen Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.750996,
+                        -19.595352
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro",
+                  "text": "Die in der Kolonialzeit erbaute Iglesia de San Pedro ist ein geschichtsträchtiges christliches Heiligtum, das den lokalen Vierteln von Potosí dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.752187,
+                        -19.59458
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "Dieser Königreichssaal der Zeugen Jehovas ist eine zeitgemäße christliche Einrichtung für lokale Gemeindeversammlungen in Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749611,
+                        -19.590123
+                  ]
+            },
+            {
+                  "name": "San Francisco",
+                  "text": "Der Kloster- und Kirchenkomplex San Francisco in Potosí ist ein bemerkenswertes christliches Wahrzeichen, das für seine beeindruckenden kolonialen Steinarbeiten und sakrale Kunst bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.752838,
+                        -19.591102
+                  ]
+            },
+            {
+                  "name": "Mercado Ballivián",
+                  "text": "Der im hochgelegenen städtischen Netz von Potosí gelegene Mercado Ballivián bietet einen lebendigen Rahmen für lokalen Handel und Essensstände.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.750645,
+                        -19.590832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mawk'a Tampu",
+                  "text": "Ez a Potosí régióban található figyelemre méltó andoki hegycsúcs történelmi jelentőséggel bír a felvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -65.666685,
+                        -19.583464
+                  ]
+            },
+            {
+                  "name": "Kimsa Waylla",
+                  "text": "A Kimsa Waylla jellegzetes csúcsa uralja a Potosí körüli zord hegyvidéki tájat.",
+                  "category": "natural",
+                  "coords": [
+                        -65.670007,
+                        -19.607415
+                  ]
+            },
+            {
+                  "name": "Kimsa Kunturiri",
+                  "text": "Ez a Potosí közeli, kiemelkedő andoki hegycsúcs a bennszülött legendák három kondorkeselyűjéről kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -65.669586,
+                        -19.592068
+                  ]
+            },
+            {
+                  "name": "Mirador Kari Kari",
+                  "text": "Ez a Potosí-i kilátó látványos kilátást nyújt a Kari Kari-hegység történelmi víztározóira.",
+                  "category": "natural",
+                  "coords": [
+                        -65.700655,
+                        -19.60441
+                  ]
+            },
+            {
+                  "name": "Nariz del Lama",
+                  "text": "Ennek a Potosí melletti lenyűgöző kilátópontnak sziklás formája van, amely egy láma orrára emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.704514,
+                        -19.599788
+                  ]
+            },
+            {
+                  "name": "Khari Khari",
+                  "text": "Ez a híres Potosí-i hegycsúcs a hasonnevű hegységhez tartozik, amely történelmi ezüstbányákat látott el vízzel.",
+                  "category": "natural",
+                  "coords": [
+                        -65.685495,
+                        -19.585646
+                  ]
+            },
+            {
+                  "name": "Monumento al Minero",
+                  "text": "Ez a Potosí-i bronz emlékmű a számtalan bányász elött tiszteleg, akik a régió gazdagságát hozták felszínre a Cerro Rico-ból.",
+                  "category": "historical",
+                  "coords": [
+                        -65.746121,
+                        -19.6026
+                  ]
+            },
+            {
+                  "name": "Tourist mine",
+                  "text": "Ez a Potosí-i látogatóbánya vezetett túrákat kínál a híres Cerro Rico ezüsthegy sötét, történelmi tárnáiba.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.747735,
+                        -19.602951
+                  ]
+            },
+            {
+                  "name": "Gruta de Copacabana",
+                  "text": "Ez a vallási műemlék Potosíban egy barlangszerű szentély, amelyet a Copacabana-i Szűznek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -65.746103,
+                        -19.588801
+                  ]
+            },
+            {
+                  "name": "Caja del Agua",
+                  "text": "Ez a Potosí-i történelmi vízi infrastruktúra egykor az andoki tavakból származó vizet osztotta szét a város ezüstmalmaiba.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.745483,
+                        -19.590133
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "Ez a Potosí-i történelmi malom egykor vízenergiát használt a környező bányákból származó ezüstérc feldolgozására.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.750475,
+                        -19.591812
+                  ]
+            },
+            {
+                  "name": "Eduardo Avaroa Hidalgo",
+                  "text": "Ez a Potosí-i emlékmű Eduardo Avaroa, a csendes-óceáni háború ünnepelt bolíviai hősének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -65.748573,
+                        -19.58946
+                  ]
+            },
+            {
+                  "name": "Acueducto de la Ribera de los Ingenios",
+                  "text": "Ez a Potosí-i történelmi vízvezeték a Kari Kari tavak vizét terelte a gyarmati ezüstmalmok kiterjedt hálózatának meghajtására.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749313,
+                        -19.591332
+                  ]
+            },
+            {
+                  "name": "Laguna San Pablo",
+                  "text": "Ezt a Kari Kari tavak által táplált történelmi víztározót Potosí mellett mesterségesen hozták létre, hogy a gyarmati ezüstbányákat vízzel lássa el.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.714275,
+                        -19.604929
+                  ]
+            },
+            {
+                  "name": "Laguna San Idelfonso",
+                  "text": "A Kari Kari vízrendszer részeként ez a Potosí melletti andoki lagúna egykor az ezüstipar vízhajtású ingenios-ait látta el.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.718557,
+                        -19.60204
+                  ]
+            },
+            {
+                  "name": "Complejo Deportivo Pampa Ingenio",
+                  "text": "Ez a 2016. április 3-án megnyitott modern Potosí-i sportkomplexum különféle szabadidős létesítményeket kínál a helyi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.742328,
+                        -19.59251
+                  ]
+            },
+            {
+                  "name": "Capilla Monte Calvario",
+                  "text": "A Capilla Monte Calvario egy keresztény kápolna Potosíban, amely magaslati elhelyezkedésével nyújt lehetőséget a spirituális elmélyülésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.748269,
+                        -19.597471
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal",
+                  "text": "Az Iglesia San Cristóbal egy történelmi keresztény templom Potosíban, mely a klasszikus andesi gyarmati építészet jegyeit viseli magán.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.745725,
+                        -19.596028
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Az Iglesia San Juan Bautista egy hagyományos keresztény templom, amely szorosan illeszkedik Potosí kőből épült gyarmati utcaképébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.746399,
+                        -19.590287
+                  ]
+            },
+            {
+                  "name": "Iglesia La Concepción",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt történelmi keresztény templom Potosí gazdag vallási örökségének egyik jeles emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.746855,
+                        -19.59257
+                  ]
+            },
+            {
+                  "name": "Iglesia San Sebastián",
+                  "text": "Az Iglesia San Sebastián egy keresztény plébániatemplom, amely békés légkört biztosít a történelmi bányászvárosban, Potosíban.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749842,
+                        -19.592752
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek modern gyülekezeti háza dedikált helyet biztosít a keresztény istentiszteletek számára a magasan fekvő Potosíban.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.750996,
+                        -19.595352
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro",
+                  "text": "A gyarmati korban épült Iglesia de San Pedro egy történelmi keresztény szentély, amely Potosí helyi negyedeinek közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.752187,
+                        -19.59458
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "A Jehova Tanúi Királyság-terme egy kortárs keresztény létesítmény, amelyet a helyi gyülekezeti találkozókra használnak Potosíban.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749611,
+                        -19.590123
+                  ]
+            },
+            {
+                  "name": "San Francisco",
+                  "text": "A potosí-i San Francisco kolostor- és templomkomplexum egy figyelemre méltó keresztény nevezetesség, mely lenyűgöző gyarmati kőfaragásairól és szakrális művészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.752838,
+                        -19.591102
+                  ]
+            },
+            {
+                  "name": "Mercado Ballivián",
+                  "text": "A magasan fekvő Potosí városszövetében található Mercado Ballivián nyüzsgő környékbeli helyszínt biztosít a helyi kereskedelemnek és ételárusoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.750645,
+                        -19.590832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mawk'a Tampu",
+                  "text": "Acest vârf montan andin notabil din regiunea Potosí are o importanță istorică pentru zonele muntoase.",
+                  "category": "natural",
+                  "coords": [
+                        -65.666685,
+                        -19.583464
+                  ]
+            },
+            {
+                  "name": "Kimsa Waylla",
+                  "text": "Vârful proeminent al Kimsa Waylla domină peisajul montan accidentat din jurul Potosíului.",
+                  "category": "natural",
+                  "coords": [
+                        -65.670007,
+                        -19.607415
+                  ]
+            },
+            {
+                  "name": "Kimsa Kunturiri",
+                  "text": "Acest vârf andin proeminent de lângă Potosí poartă numele celor trei condori din legendele indigene.",
+                  "category": "natural",
+                  "coords": [
+                        -65.669586,
+                        -19.592068
+                  ]
+            },
+            {
+                  "name": "Mirador Kari Kari",
+                  "text": "Acest punct de belvedere din Potosí oferă o priveliște spectaculoasă asupra rezervoarelor istorice ale lanțului muntos Kari Kari.",
+                  "category": "natural",
+                  "coords": [
+                        -65.700655,
+                        -19.60441
+                  ]
+            },
+            {
+                  "name": "Nariz del Lama",
+                  "text": "Acest punct de belvedere impresionant de lângă Potosí are o formă stâncoasă care amintește de nasul unei lame.",
+                  "category": "natural",
+                  "coords": [
+                        -65.704514,
+                        -19.599788
+                  ]
+            },
+            {
+                  "name": "Khari Khari",
+                  "text": "Acest vârf montan renumit din Potosí aparține lanțului muntos omonim care a furnizat apă istoricelor mine de argint.",
+                  "category": "natural",
+                  "coords": [
+                        -65.685495,
+                        -19.585646
+                  ]
+            },
+            {
+                  "name": "Monumento al Minero",
+                  "text": "Acest monument de bronz din Potosí onorează nenumărații mineri care au extras bogăția regiunii din Cerro Rico.",
+                  "category": "historical",
+                  "coords": [
+                        -65.746121,
+                        -19.6026
+                  ]
+            },
+            {
+                  "name": "Tourist mine",
+                  "text": "Această mină turistică din Potosí oferă tururi ghidate în galeriile istorice și întunecate ale celebrului munte de argint Cerro Rico.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.747735,
+                        -19.602951
+                  ]
+            },
+            {
+                  "name": "Gruta de Copacabana",
+                  "text": "Acest monument religios din Potosí este un altar asemănător unei peșteri dedicat Fecioarei din Copacabana.",
+                  "category": "historical",
+                  "coords": [
+                        -65.746103,
+                        -19.588801
+                  ]
+            },
+            {
+                  "name": "Caja del Agua",
+                  "text": "Această infrastructură istorică de apă din Potosí distribuia odată apa de la lacurile andine către morile de argint din oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.745483,
+                        -19.590133
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "Această moară istorică din Potosí folosea odată energia apei pentru a procesa minereul de argint din minele din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.750475,
+                        -19.591812
+                  ]
+            },
+            {
+                  "name": "Eduardo Avaroa Hidalgo",
+                  "text": "Acest monument din Potosí îi aduce un omagiu lui Eduardo Avaroa, un celebru erou de război bolivian din Războiul Pacificului.",
+                  "category": "historical",
+                  "coords": [
+                        -65.748573,
+                        -19.58946
+                  ]
+            },
+            {
+                  "name": "Acueducto de la Ribera de los Ingenios",
+                  "text": "Acest apeduct istoric din Potosí canaliza apa lacurilor Kari Kari pentru a alimenta vasta rețea de mori de argint coloniale.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749313,
+                        -19.591332
+                  ]
+            },
+            {
+                  "name": "Laguna San Pablo",
+                  "text": "Acest rezervor istoric, alimentat de lacurile Kari Kari de lângă Potosí, a fost creat artificial pentru a furniza apă minelor de argint coloniale.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.714275,
+                        -19.604929
+                  ]
+            },
+            {
+                  "name": "Laguna San Idelfonso",
+                  "text": "Ca parte a sistemului de apă Kari Kari, această lagună andină de lângă Potosí a aprovizionat odată morile hidraulice (ingenios) ale industriei argintului.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.718557,
+                        -19.60204
+                  ]
+            },
+            {
+                  "name": "Complejo Deportivo Pampa Ingenio",
+                  "text": "Acest complex sportiv modern din Potosí, deschis la 3 aprilie 2016, oferă comunității locale diverse facilități de recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.742328,
+                        -19.59251
+                  ]
+            },
+            {
+                  "name": "Capilla Monte Calvario",
+                  "text": "Capilla Monte Calvario este o capelă creștină din Potosí, situată pe un loc înalt destinat reflecției spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.748269,
+                        -19.597471
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal",
+                  "text": "Iglesia San Cristóbal este o biserică creștină istorică din Potosí, caracterizată prin arhitectura colonială clasică andină.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.745725,
+                        -19.596028
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Iglesia San Juan Bautista este o biserică creștină tradițională perfect integrată în peisajul stradal colonial din piatră al orașului Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.746399,
+                        -19.590287
+                  ]
+            },
+            {
+                  "name": "Iglesia La Concepción",
+                  "text": "Închinată Imaculatei Concepții, această biserică creștină istorică este o mărturie a bogatei moșteniri religioase a orașului Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.746855,
+                        -19.59257
+                  ]
+            },
+            {
+                  "name": "Iglesia San Sebastián",
+                  "text": "Iglesia San Sebastián este o biserică parohială creștină care oferă o atmosferă pașnică în orașul minier istoric Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749842,
+                        -19.592752
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri modernă a Sfinților din Zilele din Urmă oferă un spațiu dedicat pentru cultul creștin în orașul aflat la mare altitudine, Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.750996,
+                        -19.595352
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro",
+                  "text": "Construită în epoca colonială, Iglesia de San Pedro este un sanctuar creștin istoric care deservește cartierele locale din Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.752187,
+                        -19.59458
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "Această Sală a Regatului a Martorilor lui Iehova este o facilitate creștină contemporană folosită pentru întrunirile congregației locale din Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749611,
+                        -19.590123
+                  ]
+            },
+            {
+                  "name": "San Francisco",
+                  "text": "Complexul mănăstiresc și biserica San Francisco din Potosí este un reper creștin remarcabil, cunoscut pentru lucrările sale impresionante în piatră colonială și arta sacră.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.752838,
+                        -19.591102
+                  ]
+            },
+            {
+                  "name": "Mercado Ballivián",
+                  "text": "Situat în rețeaua urbană de la mare altitudine din Potosí, Mercado Ballivián oferă un cadru de cartier plin de viață pentru comerțul local și tarabele cu mâncare.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.750645,
+                        -19.590832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mawk'a Tampu",
+                  "text": "This notable Andean mountain peak in the Potosí region holds historical significance for the highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -65.666685,
+                        -19.583464
+                  ]
+            },
+            {
+                  "name": "Kimsa Waylla",
+                  "text": "The prominent peak of Kimsa Waylla dominates the rugged mountainous landscape around Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.670007,
+                        -19.607415
+                  ]
+            },
+            {
+                  "name": "Kimsa Kunturiri",
+                  "text": "This prominent Andean peak near Potosí is named after the three condors from indigenous legends.",
+                  "category": "natural",
+                  "coords": [
+                        -65.669586,
+                        -19.592068
+                  ]
+            },
+            {
+                  "name": "Kari Kari Viewpoint",
+                  "text": "This viewpoint in Potosí offers a spectacular look over the historic reservoirs of the Kari Kari mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -65.700655,
+                        -19.60441
+                  ]
+            },
+            {
+                  "name": "Lama's Nose",
+                  "text": "This striking viewpoint near Potosí features a rocky formation that resembles a llama's nose.",
+                  "category": "natural",
+                  "coords": [
+                        -65.704514,
+                        -19.599788
+                  ]
+            },
+            {
+                  "name": "Khari Khari",
+                  "text": "This well-known mountain peak in Potosí belongs to the eponymous mountain range that supplied water to the historic silver mines.",
+                  "category": "natural",
+                  "coords": [
+                        -65.685495,
+                        -19.585646
+                  ]
+            },
+            {
+                  "name": "Monumento al Minero",
+                  "text": "This bronze monument in Potosí honors the countless miners who extracted the region's wealth from the Cerro Rico.",
+                  "category": "historical",
+                  "coords": [
+                        -65.746121,
+                        -19.6026
+                  ]
+            },
+            {
+                  "name": "Tourist mine",
+                  "text": "This tourist mine in Potosí offers guided tours into the dark, historic tunnels of the famous Cerro Rico silver mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.747735,
+                        -19.602951
+                  ]
+            },
+            {
+                  "name": "Gruta de Copacabana",
+                  "text": "This religious monument in Potosí is a cave-like shrine dedicated to the Virgin of Copacabana.",
+                  "category": "historical",
+                  "coords": [
+                        -65.746103,
+                        -19.588801
+                  ]
+            },
+            {
+                  "name": "Caja del Agua",
+                  "text": "This historic water infrastructure in Potosí once distributed water from the Andean lakes to the city's silver mills.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.745483,
+                        -19.590133
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "This historic mill in Potosí once used water power to process silver ore from the surrounding mines.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.750475,
+                        -19.591812
+                  ]
+            },
+            {
+                  "name": "Eduardo Avaroa Hidalgo",
+                  "text": "This monument in Potosí pays tribute to Eduardo Avaroa, a celebrated Bolivian war hero from the War of the Pacific.",
+                  "category": "historical",
+                  "coords": [
+                        -65.748573,
+                        -19.58946
+                  ]
+            },
+            {
+                  "name": "Acueducto de la Ribera de los Ingenios",
+                  "text": "This historic aqueduct in Potosí channeled the Kari Kari lakes' water to power the vast network of colonial silver mills.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749313,
+                        -19.591332
+                  ]
+            },
+            {
+                  "name": "Laguna San Pablo",
+                  "text": "This historic reservoir, part of the Kari Kari lakes near Potosí, was artificially created to supply water to the colonial silver mines.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.714275,
+                        -19.604929
+                  ]
+            },
+            {
+                  "name": "Laguna San Idelfonso",
+                  "text": "As part of the Kari Kari water system, this Andean lagoon near Potosí once supplied the water-powered ingenios of the silver industry.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.718557,
+                        -19.60204
+                  ]
+            },
+            {
+                  "name": "Complejo Deportivo Pampa Ingenio",
+                  "text": "Opened on April 3, 2016, this modern sports complex in Potosí provides the local community with various recreational facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.742328,
+                        -19.59251
+                  ]
+            },
+            {
+                  "name": "Capilla Monte Calvario",
+                  "text": "The Capilla Monte Calvario is a Christian chapel in Potosí, historically perched at an elevated location for spiritual reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.748269,
+                        -19.597471
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal",
+                  "text": "The Iglesia San Cristóbal is a historic Christian church in Potosí, featuring classic colonial Andean architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.745725,
+                        -19.596028
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "The Iglesia San Juan Bautista is a traditional Christian church woven into the stone-built colonial streetscape of Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.746399,
+                        -19.590287
+                  ]
+            },
+            {
+                  "name": "Iglesia La Concepción",
+                  "text": "Dedicated to the Immaculate Conception, this historic Christian church stands as a testament to Potosí's rich religious heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.746855,
+                        -19.59257
+                  ]
+            },
+            {
+                  "name": "Iglesia San Sebastián",
+                  "text": "The Iglesia San Sebastián is a Christian parish church offering a peaceful atmosphere within the historic mining city of Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749842,
+                        -19.592752
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This modern Latter-day Saints meetinghouse provides a dedicated place of Christian worship in the high-altitude city of Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.750996,
+                        -19.595352
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro",
+                  "text": "Built during the colonial era, the Iglesia de San Pedro is a storied Christian sanctuary serving the local neighborhoods of Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.752187,
+                        -19.59458
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "This Jehovah's Witnesses Kingdom Hall is a contemporary Christian facility used for local congregation meetings in Potosí.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749611,
+                        -19.590123
+                  ]
+            },
+            {
+                  "name": "San Francisco",
+                  "text": "The San Francisco convent and church complex in Potosí is a remarkable Christian landmark noted for its impressive colonial stonework and sacred art.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.752838,
+                        -19.591102
+                  ]
+            },
+            {
+                  "name": "Mercado Ballivián",
+                  "text": "Located in the high-altitude urban grid of Potosí, Mercado Ballivián provides a lively neighborhood setting for local commerce and food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.750645,
+                        -19.590832
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-P",
     coords: [-65.7516, -19.5901],
@@ -823,7 +6016,448 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Le couvent était entouré d'un mur de pierre massif pour assurer une séparation totale d'avec le monde extérieur.", "L'intérieur abrite une précieuse collection de peintures de l'école de Potosí représentant des thèmes religieux.", "Les religieuses ne communiquaient avec les visiteurs qu'à travers une grille ou un tour en bois rotatif.", "L'architecture du couvent présente un mélange harmonieux d'éléments baroques et locaux.", "L'église du couvent possède un magnifique autel orné de feuilles d'or."],
     }, image: "/poi-images/bo-santa-teresa-potosi-history-v2.webp"},
   {
-    id: "bo-san-lorenzo-carangas-history-v2",
+    id: "bo-san-lorenzo-carangas-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia de San Lorenzo",
+                  "text": "Diese historische Kultstätte wird für ihre exquisite, aus Stein gehauene Mestizo-Barock-Fassade gefeiert und ist ein Meisterwerk der Kolonialkunst.",
+                  "category": "religious",
+                  "coords": [
+                        -65.754819,
+                        -19.586745
+                  ]
+            },
+            {
+                  "name": "Guitare",
+                  "text": "Diese auffällige Außenskulptur in Form einer großen Gitarre zelebriert die reichen musikalischen Traditionen der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.75606,
+                        -19.58673
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Dieses Freilicht-Amphitheater wird häufig für Freiluftkonzerte, Kulturfestivals und große öffentliche Versammlungen genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.785254,
+                        -19.581882
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mineros",
+                  "text": "Dieses robuste öffentliche Denkmal ist der zermürbenden Arbeit und den historischen Opfern der Silberminenarbeiter der Region gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        -65.757304,
+                        -19.582553
+                  ]
+            },
+            {
+                  "name": "Teatro IV Centenario",
+                  "text": "Dieses zur Erinnerung an ein städtisches Jubiläum erbaute Innentheater dient als Hauptbühne für lokale darstellende Künste und Zeremonien.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.757611,
+                        -19.58523
+                  ]
+            },
+            {
+                  "name": "Pari Urqu",
+                  "text": "Dieser markante Berggipfel überragt die Stadt und bietet steile Wanderrouten sowie weite Panoramablicke auf das umliegende Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        -65.804554,
+                        -19.56715
+                  ]
+            },
+            {
+                  "name": "Quebrada de Mullu Punqu",
+                  "text": "Diese schroffe natürliche Schlucht weist dramatische Felsformationen auf und bietet abenteuerlustigen Besuchern eine malerische, ungezähmte Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.821506,
+                        -19.567612
+                  ]
+            },
+            {
+                  "name": "Iglesia San Clemente",
+                  "text": "Diese traditionelle christliche Pfarrkirche, bekannt für ihre bescheidene koloniale Fassade, bietet eine ruhige Atmosphäre der Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.763883,
+                        -19.578504
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bernardo",
+                  "text": "Diese imposante historische christliche Kirche zeichnet sich durch ihre robuste Steinarchitektur und die traditionellen Gewölbedecken aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.757121,
+                        -19.586364
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Informelle Händler versammeln sich täglich auf diesem geschäftigen lokalen Marktplatz, um frisches Obst, Gemüse und grundlegende Haushaltswaren zu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.762931,
+                        -19.578799
+                  ]
+            },
+            {
+                  "name": "Mercado Chuquimia",
+                  "text": "Dieser überdachte Nachbarschaftsmarkt ist auf regionale andine Produkte, traditionelle Gewürze und farbenfrohe Textilien spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.76333,
+                        -19.58067
+                  ]
+            },
+            {
+                  "name": "Mercado Anselmo Tapia",
+                  "text": "Vollgepackt mit Ständen, die warmes Essen und frische Lebensmittel anbieten, ist dieser lebendige Handelsplatz ein wichtiger kommerzieller Knotenpunkt für die Bewohner.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.773227,
+                        -19.575229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia de San Lorenzo",
+                  "text": "A pompás mesztic barokk faragott kőhomlokzatáról híres történelmi istentiszteleti hely a gyarmati művészet remekműve.",
+                  "category": "religious",
+                  "coords": [
+                        -65.754819,
+                        -19.586745
+                  ]
+            },
+            {
+                  "name": "Guitare",
+                  "text": "Ez a nagy gitárt formázó, figyelemfelkeltő szabadtéri szobor a régió gazdag zenei hagyományait ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.75606,
+                        -19.58673
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Ezt a szabadtéri amfiteátrumot gyakran használják szabadtéri koncertekhez, kulturális fesztiválokhoz és nagy nyilvános összejövetelekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.785254,
+                        -19.581882
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mineros",
+                  "text": "Ezt a masszív köztéri emlékművet a régió ezüstbányászainak fárasztó munkájának és történelmi áldozatainak szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        -65.757304,
+                        -19.582553
+                  ]
+            },
+            {
+                  "name": "Teatro IV Centenario",
+                  "text": "A városi mérföldkő emlékére épült beltéri színház a helyi drámai művészetek és ceremoniák elsődleges színpadaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.757611,
+                        -19.58523
+                  ]
+            },
+            {
+                  "name": "Pari Urqu",
+                  "text": "Ez a városra néző, kiemelkedő hegycsúcs meredek túraútvonalakat és pazar panorámát kínál a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -65.804554,
+                        -19.56715
+                  ]
+            },
+            {
+                  "name": "Quebrada de Mullu Punqu",
+                  "text": "Ez a zord, természetes szurdok drámai sziklaalakzatokkal rendelkezik, és festői, vadregényes tájat kínál a kalandvágyó látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.821506,
+                        -19.567612
+                  ]
+            },
+            {
+                  "name": "Iglesia San Clemente",
+                  "text": "A szerény gyarmati homlokzatáról ismert hagyományos keresztény plébániatemplom csendes légkört biztosít az elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.763883,
+                        -19.578504
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bernardo",
+                  "text": "Ez az impozáns történelmi keresztény templom masszív kőépítészetéről és hagyományos boltozatos mennyezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.757121,
+                        -19.586364
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Az informális árusok naponta összegyűlnek ezen a forgalmas helyi piacon, hogy friss gyümölcsöket, zöldségeket és alapvető háztartási cikkeket áruljanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.762931,
+                        -19.578799
+                  ]
+            },
+            {
+                  "name": "Mercado Chuquimia",
+                  "text": "Ez a fedett környékbeli piac regionális andoki termékekre, hagyományos fűszerekre és színes textíliákra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.76333,
+                        -19.58067
+                  ]
+            },
+            {
+                  "name": "Mercado Anselmo Tapia",
+                  "text": "A meleg ételeket és friss élelmiszereket kínáló standokkal teli, nyüzsgő kereskedelmi állomás a lakosok alapvető bevásárlóközpontja.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.773227,
+                        -19.575229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia de San Lorenzo",
+                  "text": "Celebrat pentru fațada sa rafinată din piatră sculptată în stil baroc mestizo, acest lăcaș de cult istoric este o capodoperă a artei coloniale.",
+                  "category": "religious",
+                  "coords": [
+                        -65.754819,
+                        -19.586745
+                  ]
+            },
+            {
+                  "name": "Guitare",
+                  "text": "Această sculptură în aer liber atrăgătoare, în formă de chitară mare, celebrează bogatele tradiții muzicale ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.75606,
+                        -19.58673
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Acest amfiteatru în aer liber este frecvent utilizat pentru concerte în aer liber, festivaluri culturale și mari adunări publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.785254,
+                        -19.581882
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mineros",
+                  "text": "Acest monument public robust este dedicat muncii istovitoare și sacrificiilor istorice ale minerilor de argint din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -65.757304,
+                        -19.582553
+                  ]
+            },
+            {
+                  "name": "Teatro IV Centenario",
+                  "text": "Construit pentru a comemora un reper al orașului, acest teatru interior servește ca scenă principală pentru artele dramatice și ceremoniile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.757611,
+                        -19.58523
+                  ]
+            },
+            {
+                  "name": "Pari Urqu",
+                  "text": "Acest vârf de munte proeminent domină orașul, oferind trasee abrupte de drumeție și vederi panoramice ample ale zonelor muntoase din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -65.804554,
+                        -19.56715
+                  ]
+            },
+            {
+                  "name": "Quebrada de Mullu Punqu",
+                  "text": "Această râpă naturală accidentată prezintă formațiuni stâncoase dramatice și oferă un peisaj pitoresc, neîmblânzit pentru vizitatorii aventuroși.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.821506,
+                        -19.567612
+                  ]
+            },
+            {
+                  "name": "Iglesia San Clemente",
+                  "text": "Cunoscută pentru fațada sa colonială modestă, această biserică parohială creștină tradițională oferă o atmosferă liniștită pentru contemplare.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.763883,
+                        -19.578504
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bernardo",
+                  "text": "Această biserică creștină istorică impunătoare este remarcabilă pentru arhitectura sa robustă din piatră și tavanele boltite tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.757121,
+                        -19.586364
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Vânzătorii informali se adună zilnic în această piață locală aglomerată pentru a vinde fructe proaspete, legume și produse de bază pentru gospodărie.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.762931,
+                        -19.578799
+                  ]
+            },
+            {
+                  "name": "Mercado Chuquimia",
+                  "text": "Această piață de cartier acoperită este specializată în produse regionale andine, condimente tradiționale și textile colorate.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.76333,
+                        -19.58067
+                  ]
+            },
+            {
+                  "name": "Mercado Anselmo Tapia",
+                  "text": "Plin de tarabe care oferă mâncare caldă și alimente proaspete, acest post de tranzacționare vibrant este un centru comercial esențial pentru locuitori.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.773227,
+                        -19.575229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia de San Lorenzo",
+                  "text": "Celebrated for its exquisite Mestizo Baroque carved stone facade, this historic place of worship is a masterpiece of colonial art.",
+                  "category": "religious",
+                  "coords": [
+                        -65.754819,
+                        -19.586745
+                  ]
+            },
+            {
+                  "name": "Guitare",
+                  "text": "This eye-catching outdoor sculpture shaped like a large guitar celebrates the region's rich musical traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.75606,
+                        -19.58673
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "This open-air amphitheatre is frequently utilized for outdoor concerts, cultural festivals, and large public gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.785254,
+                        -19.581882
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mineros",
+                  "text": "This sturdy public monument is dedicated to the grueling labor and historical sacrifices of the region's silver miners.",
+                  "category": "historical",
+                  "coords": [
+                        -65.757304,
+                        -19.582553
+                  ]
+            },
+            {
+                  "name": "Teatro IV Centenario",
+                  "text": "Built to commemorate a city milestone, this indoor theatre serves as a primary stage for local dramatic arts and ceremonies.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.757611,
+                        -19.58523
+                  ]
+            },
+            {
+                  "name": "Pari Urqu",
+                  "text": "This prominent mountain peak overlooks the city, providing steep hiking routes and sweeping panoramic views of the surrounding highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -65.804554,
+                        -19.56715
+                  ]
+            },
+            {
+                  "name": "Quebrada de Mullu Punqu",
+                  "text": "This rugged natural ravine features dramatic rock formations and offers a scenic, untamed landscape for adventurous visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.821506,
+                        -19.567612
+                  ]
+            },
+            {
+                  "name": "Iglesia San Clemente",
+                  "text": "Known for its modest colonial facade, this traditional Christian parish church provides a quiet atmosphere for contemplation.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.763883,
+                        -19.578504
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bernardo",
+                  "text": "This imposing historic Christian church is notable for its sturdy stone architecture and traditional vaulted ceilings.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.757121,
+                        -19.586364
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Informal vendors gather daily at this busy local marketplace to sell fresh fruits, vegetables, and basic household staples.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.762931,
+                        -19.578799
+                  ]
+            },
+            {
+                  "name": "Mercado Chuquimia",
+                  "text": "This covered neighborhood marketplace specializes in regional Andean produce, traditional spices, and colorful textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.76333,
+                        -19.58067
+                  ]
+            },
+            {
+                  "name": "Mercado Anselmo Tapia",
+                  "text": "Packed with stalls offering hot food and fresh groceries, this vibrant trading post is an essential commercial hub for residents.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.773227,
+                        -19.575229
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-P",
     coords: [-65.7554, -19.5857],
@@ -890,7 +6524,160 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Sur la façade, on peut voir deux sirènes jouant d'instruments de musique locaux (charangos).", "Le portail a été achevé entre 1728 et 1744.", "L'église est l'une des plus anciennes paroisses de Potosí et date du XVIe siècle.", "Les fines sculptures ont été réalisées à partir de pierre locale des environs.", "L'intérieur abrite de précieuses sculptures religieuses et des peintures de l'époque coloniale."],
     }, image: "/poi-images/bo-san-lorenzo-carangas-history-v2.webp"},
   {
-    id: "bo-catedral-potosi-history-v2",
+    id: "bo-catedral-potosi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de las Tres Portadas",
+                  "text": "Die Casa de las Tres Portadas ist eine beeindruckende koloniale Sehenswürdigkeit in Potosí, berühmt für ihre Fassade mit drei sorgfältig geschnitzten Steintoren.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.751546,
+                        -19.587625
+                  ]
+            },
+            {
+                  "name": "Museo Universitario Ricardo Bohórquez",
+                  "text": "Das im historischen Potosí untergebrachte Museo Universitario Ricardo Bohórquez bewahrt wichtige regionale Sammlungen andiner Paläontologie und kolonialer Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -65.753057,
+                        -19.587491
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Modesto Omiste",
+                  "text": "Dieses städtische Theater dient als wichtiger kultureller Veranstaltungsort für darstellende Künste in der hochgelegenen Stadt Potosí.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.752781,
+                        -19.588801
+                  ]
+            },
+            {
+                  "name": "Iglesia La Merced",
+                  "text": "Diese historische christliche Kirche ist Unserer Lieben Frau von der Barmherzigkeit geweiht und zeichnet sich durch traditionelle religiöse Architektur der Kolonialzeit aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.751715,
+                        -19.588628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de las Tres Portadas",
+                  "text": "A Casa de las Tres Portadas Potosí egyik lenyűgöző gyarmati látványossága, amely híres homlokzatáról, melyen három aprólékosan faragott kőajtó található.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.751546,
+                        -19.587625
+                  ]
+            },
+            {
+                  "name": "Museo Universitario Ricardo Bohórquez",
+                  "text": "A történelmi Potosíban található Museo Universitario Ricardo Bohórquez fontos regionális gyűjteményeket őriz az andesi őslénytanból és gyarmati műtárgyakból.",
+                  "category": "museum",
+                  "coords": [
+                        -65.753057,
+                        -19.587491
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Modesto Omiste",
+                  "text": "Ez a városi színház fontos kulturális helyszínként szolgál az előadóművészetek számára Potosí hegyvidéki városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.752781,
+                        -19.588801
+                  ]
+            },
+            {
+                  "name": "Iglesia La Merced",
+                  "text": "Az Irgalmas Szűzanyának szentelt történelmi keresztény templom hagyományos, gyarmati kori vallási építészettel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.751715,
+                        -19.588628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de las Tres Portadas",
+                  "text": "Casa de las Tres Portadas este o atracție colonială impresionantă din Potosí, renumită pentru fațada sa care prezintă trei uși din piatră sculptate cu meticulozitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.751546,
+                        -19.587625
+                  ]
+            },
+            {
+                  "name": "Museo Universitario Ricardo Bohórquez",
+                  "text": "Găzduit în istoricul Potosí, Museo Universitario Ricardo Bohórquez conservă colecții regionale importante de paleontologie andină și artefacte coloniale.",
+                  "category": "museum",
+                  "coords": [
+                        -65.753057,
+                        -19.587491
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Modesto Omiste",
+                  "text": "Acest teatru municipal servește drept un loc cultural important pentru artele spectacolului în orașul montan Potosí.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.752781,
+                        -19.588801
+                  ]
+            },
+            {
+                  "name": "Iglesia La Merced",
+                  "text": "Închinată Maicii Domnului a Milei, această biserică creștină istorică prezintă o arhitectură religioasă tradițională din epoca colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.751715,
+                        -19.588628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de las Tres Portadas",
+                  "text": "The Casa de las Tres Portadas is a striking colonial attraction in Potosí, famous for its facade which features three meticulously carved stone doorways.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.751546,
+                        -19.587625
+                  ]
+            },
+            {
+                  "name": "Museo Universitario Ricardo Bohórquez",
+                  "text": "Housed in historic Potosí, the Museo Universitario Ricardo Bohórquez preserves important regional collections of Andean paleontology and colonial artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -65.753057,
+                        -19.587491
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Modesto Omiste",
+                  "text": "This municipal theatre serves as a key cultural venue for performing arts in the highland city of Potosí.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.752781,
+                        -19.588801
+                  ]
+            },
+            {
+                  "name": "Iglesia La Merced",
+                  "text": "Dedicated to Our Lady of Mercy, this historic Christian church features traditional colonial-era religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.751715,
+                        -19.588628
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-P",
     coords: [-65.7530, -19.5885],
@@ -957,7 +6744,196 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["La construction actuelle a duré près de 30 ans et a été solennellement inaugurée en 1836.", "L'architecte Manuel de Sanahuja a introduit le style néoclassique pur dans la région de Potosí.", "La cathédrale possède un orgue impressionnant offert par les barons de l'argent au XIXe siècle.", "Elle a été déclarée monument national et fait partie du patrimoine mondial de l'UNESCO."],
     }, image: "/poi-images/bo-catedral-potosi-history-v2.webp"},
   {
-    id: "bo-casa-libertad-history-v2",
+    id: "bo-casa-libertad-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Eclesiástico",
+                  "text": "Dieses kirchliche Museum in Sucre zeigt eine reiche Sammlung religiöser Kunstwerke und historischer Artefakte aus dem katholischen Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -65.260012,
+                        -19.049022
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Masis",
+                  "text": "Dieses Kunstzentrum in Sucre fördert andine Musik und indigene Traditionen durch verschiedene Aufführungen und Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.258345,
+                        -19.049094
+                  ]
+            },
+            {
+                  "name": "Museo de Santa Clara",
+                  "text": "Dieses in einem Kloster untergebrachte Museum zeigt religiöse Gemälde, Skulpturen und liturgische Gegenstände aus der Kolonialzeit in Sucre.",
+                  "category": "museum",
+                  "coords": [
+                        -65.256623,
+                        -19.049226
+                  ]
+            },
+            {
+                  "name": "Museo de Anatomía Humana",
+                  "text": "Dieses spezialisierte Museum für menschliche Anatomie in Sucre bietet lehrreiche Ausstellungen mit konservierten anatomischen Präparaten für das Medizinstudium.",
+                  "category": "museum",
+                  "coords": [
+                        -65.257067,
+                        -19.047497
+                  ]
+            },
+            {
+                  "name": "Museo Charcas",
+                  "text": "Dieses von der Universität geleitete Museum in Sucre umfasst Bereiche für koloniale, anthropologische und moderne Kunst und bewahrt die vielfältige Kulturgeschichte der Region Charcas.",
+                  "category": "museum",
+                  "coords": [
+                        -65.25896,
+                        -19.050374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Eclesiástico",
+                  "text": "Ez a sucrei egyházi múzeum a régió katolikus örökségéből származó vallási művészet és történelmi leletek gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.260012,
+                        -19.049022
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Masis",
+                  "text": "Ez a sucrei művészeti központként működő kulturális központ andoki zenét és őslakos hagyományokat népszerűsít különféle előadások és műhelymunkák révén.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.258345,
+                        -19.049094
+                  ]
+            },
+            {
+                  "name": "Museo de Santa Clara",
+                  "text": "A kolostorban helyet kapó múzeum vallási festményeket, szobrokat és a gyarmati korszakból származó liturgikus tárgyakat mutat be Sucréban.",
+                  "category": "museum",
+                  "coords": [
+                        -65.256623,
+                        -19.049226
+                  ]
+            },
+            {
+                  "name": "Museo de Anatomía Humana",
+                  "text": "Ez a Sucre városában található specializált emberi anatómiai múzeum oktatási kiállításokat kínál, amelyeken orvosi tanulmányozás céljából tartósított anatómiai mintákat mutatnak be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.257067,
+                        -19.047497
+                  ]
+            },
+            {
+                  "name": "Museo Charcas",
+                  "text": "Ez az egyetem által fenntartott sucrei múzeum gyarmati, antropológiai és modern művészeti részlegekből áll, és a Charcas régió változatos kultúrtörténetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -65.25896,
+                        -19.050374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Eclesiástico",
+                  "text": "Acest muzeu ecleziastic din Sucre prezintă o colecție bogată de artă religioasă și artefacte istorice din patrimoniul catolic al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -65.260012,
+                        -19.049022
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Masis",
+                  "text": "Funcționând ca un centru de artă în Sucre, acest centru cultural promovează muzica andină și tradițiile indigene prin diverse spectacole și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.258345,
+                        -19.049094
+                  ]
+            },
+            {
+                  "name": "Museo de Santa Clara",
+                  "text": "Găzduit în cadrul unei mănăstiri, acest muzeu expune picturi religioase, sculpturi și obiecte liturgice din epoca colonială din Sucre.",
+                  "category": "museum",
+                  "coords": [
+                        -65.256623,
+                        -19.049226
+                  ]
+            },
+            {
+                  "name": "Museo de Anatomía Humana",
+                  "text": "Acest muzeu specializat de anatomie umană din Sucre oferă exponate educaționale cu specimene anatomice conservate pentru studii medicale.",
+                  "category": "museum",
+                  "coords": [
+                        -65.257067,
+                        -19.047497
+                  ]
+            },
+            {
+                  "name": "Museo Charcas",
+                  "text": "Cuprinzând secțiuni de artă colonială, antropologică și modernă, acest muzeu administrat de universitate din Sucre conservă istoria culturală diversă a regiunii Charcas.",
+                  "category": "museum",
+                  "coords": [
+                        -65.25896,
+                        -19.050374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Eclesiástico",
+                  "text": "This ecclesiastical museum in Sucre showcases a rich collection of religious art and historical artifacts from the region's Catholic heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -65.260012,
+                        -19.049022
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Masis",
+                  "text": "Operating as an arts centre in Sucre, this cultural hub promotes Andean music and indigenous traditions through various performances and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.258345,
+                        -19.049094
+                  ]
+            },
+            {
+                  "name": "Museo de Santa Clara",
+                  "text": "Housed within a convent setting, this museum displays religious paintings, sculptures, and colonial-era liturgical items in Sucre.",
+                  "category": "museum",
+                  "coords": [
+                        -65.256623,
+                        -19.049226
+                  ]
+            },
+            {
+                  "name": "Museo de Anatomía Humana",
+                  "text": "This specialized human anatomy museum in Sucre offers educational exhibits featuring preserved anatomical specimens for medical study.",
+                  "category": "museum",
+                  "coords": [
+                        -65.257067,
+                        -19.047497
+                  ]
+            },
+            {
+                  "name": "Museo Charcas",
+                  "text": "Comprising colonial, anthropological, and modern art sections, this university-run museum in Sucre preserves the diverse cultural history of the Charcas region.",
+                  "category": "museum",
+                  "coords": [
+                        -65.25896,
+                        -19.050374
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-H",
     coords: [-65.2597, -19.0483],
@@ -1024,7 +7000,304 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Conserve l'acte d'indépendance original de la Bolivie dans une urne de cristal.", "Le bâtiment date du XVIIe siècle et était à l'origine une chapelle jésuite.", "C'est ici que la première Constitution de la Bolivie fut rédigée par Simón Bolívar.", "Le musée expose les restes mortels de l'héroïne de l'indépendance Juana Azurduy de Padilla."],
     }, image: "/poi-images/bo-casa-libertad-history-v2.webp"},
   {
-    id: "bo-felipe-neri-sucre-history-v2",
+    id: "bo-felipe-neri-sucre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palacio de La Florida",
+                  "text": "Dieses historische Museum in Sucre präsentiert Ausstellungen zur regionalen Geschichte in einem eleganten palastartigen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        -65.268687,
+                        -19.07652
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses christliche Gotteshaus in Sucre dient der lokalen Gemeinde der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.276516,
+                        -19.036553
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen",
+                  "text": "Diese christliche Grotte in Sucre ist ein lokaler Andachtsort, der der Jungfrau Maria gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.272631,
+                        -19.059428
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de Los Testigos de Jehová",
+                  "text": "Dieser christliche Königreichssaal in Sucre ist der zentrale Versammlungsort der örtlichen Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.265713,
+                        -19.050314
+                  ]
+            },
+            {
+                  "name": "Templo de San Agustín",
+                  "text": "Diese christliche Kirche in Sucre ist für ihre historische Architektur aus der Kolonialzeit bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.262428,
+                        -19.048173
+                  ]
+            },
+            {
+                  "name": "Templo de San Roque",
+                  "text": "Diese historische christliche Kirche in Sucre zeichnet sich durch ihren markanten Glockenturm und koloniales Design aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.26378,
+                        -19.053334
+                  ]
+            },
+            {
+                  "name": "Mercado de Lajastambo",
+                  "text": "Dieser belebte Marktplatz im Viertel Lajastambo von Sucre ist ein Zentrum für den täglichen lokalen Handel.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.308733,
+                        -19.012657
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Rosario",
+                  "text": "Auf diesem Markt im Viertel Villa Rosario in Sucre finden Besucher eine Vielzahl an frischen Lebensmitteln und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.271273,
+                        -19.057222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palacio de La Florida",
+                  "text": "Ez a Sucre-i történelmi múzeum a regionális történelmet mutatja be egy elegáns palotaszerű épületben.",
+                  "category": "museum",
+                  "coords": [
+                        -65.268687,
+                        -19.07652
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a keresztény istentiszteleti hely Sucre-ban a helyi Utolsó Napi Szentek közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.276516,
+                        -19.036553
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen",
+                  "text": "Ez a keresztény barlang Sucre-ban egy helyi imádkozóhely, amelyet Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.272631,
+                        -19.059428
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de Los Testigos de Jehová",
+                  "text": "Ez a keresztény Királyság-terem Sucre-ban a helyi Jehova Tanúi központi gyülekezeti helye.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.265713,
+                        -19.050314
+                  ]
+            },
+            {
+                  "name": "Templo de San Agustín",
+                  "text": "Ez a keresztény templom Sucre-ban történelmi gyarmati építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.262428,
+                        -19.048173
+                  ]
+            },
+            {
+                  "name": "Templo de San Roque",
+                  "text": "Ezt a történelmi keresztény templomot Sucre-ban jellegzetes harangtornya és gyarmati kialakítása teszi különlegessé.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.26378,
+                        -19.053334
+                  ]
+            },
+            {
+                  "name": "Mercado de Lajastambo",
+                  "text": "Ez a nyüzsgő piac Sucre Lajastambo negyedében a mindennapi helyi kereskedelem központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.308733,
+                        -19.012657
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Rosario",
+                  "text": "Ezen a piacon, Sucre Villa Rosario negyedében a látogatók sokféle friss élelmiszert és háztartási cikket találhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.271273,
+                        -19.057222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palacio de La Florida",
+                  "text": "Acest muzeu istoric din Sucre prezintă expoziții despre istoria regională într-o clădire elegantă, asemănătoare unui palat.",
+                  "category": "museum",
+                  "coords": [
+                        -65.268687,
+                        -19.07652
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Acest lăcaș de cult creștin din Sucre deservește comunitatea locală a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.276516,
+                        -19.036553
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen",
+                  "text": "Această grotă creștină din Sucre este un loc de rugăciune local închinat Fecioarei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.272631,
+                        -19.059428
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de Los Testigos de Jehová",
+                  "text": "Această Sală a Regatului creștină din Sucre este locul central de adunare al Martorilor lui Iehova locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.265713,
+                        -19.050314
+                  ]
+            },
+            {
+                  "name": "Templo de San Agustín",
+                  "text": "Această biserică creștină din Sucre este cunoscută pentru arhitectura sa istorică colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.262428,
+                        -19.048173
+                  ]
+            },
+            {
+                  "name": "Templo de San Roque",
+                  "text": "Această biserică istorică creștină din Sucre se distinge prin turnul clopotniței sale remarcabil și designul colonial.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.26378,
+                        -19.053334
+                  ]
+            },
+            {
+                  "name": "Mercado de Lajastambo",
+                  "text": "Această piață plină de viață din cartierul Lajastambo din Sucre este un centru pentru comerțul local de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.308733,
+                        -19.012657
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Rosario",
+                  "text": "În această piață din cartierul Villa Rosario din Sucre, vizitatorii pot găsi o varietate de alimente proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.271273,
+                        -19.057222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palacio de La Florida",
+                  "text": "This historic museum in Sucre presents exhibits on regional history within an elegant palatial building.",
+                  "category": "museum",
+                  "coords": [
+                        -65.268687,
+                        -19.07652
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This Christian place of worship in Sucre serves the local Latter-day Saints community.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.276516,
+                        -19.036553
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen",
+                  "text": "This Christian grotto in Sucre is a local prayer site dedicated to the Virgin Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.272631,
+                        -19.059428
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de Los Testigos de Jehová",
+                  "text": "This Christian Kingdom Hall in Sucre is the central meeting place for the local Jehovah's Witnesses.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.265713,
+                        -19.050314
+                  ]
+            },
+            {
+                  "name": "Templo de San Agustín",
+                  "text": "This Christian church in Sucre is known for its historic colonial-era architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.262428,
+                        -19.048173
+                  ]
+            },
+            {
+                  "name": "Templo de San Roque",
+                  "text": "This historic Christian church in Sucre is distinguished by its notable bell tower and colonial design.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.26378,
+                        -19.053334
+                  ]
+            },
+            {
+                  "name": "Mercado de Lajastambo",
+                  "text": "This bustling marketplace in the Lajastambo neighborhood of Sucre is a hub for daily local trade.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.308733,
+                        -19.012657
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Rosario",
+                  "text": "At this market in the Villa Rosario neighborhood of Sucre, visitors can find a variety of fresh groceries and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.271273,
+                        -19.057222
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-H",
     coords: [-65.2618, -19.0494],
@@ -1091,7 +7364,304 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Les pierres utilisées pour la construction proviennent de carrières locales proches de Sucre.", "Les terrasses de toit sont un point d'observation prisé des photographes et des touristes.", "Le couvent a également servi de siège à l'archidiocèse de La Plata.", "Aujourd'hui, une partie du bâtiment abrite une école paroissiale, perpétuant la tradition éducative."],
     }, image: "/poi-images/bo-felipe-neri-sucre-history-v2.webp"},
   {
-    id: "bo-glorieta-history-v2",
+    id: "bo-glorieta-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de La Glorieta",
+                  "text": "Dieses Museum befindet sich in einem eklektischen Märchenschloss vor den Toren von Sucre.",
+                  "category": "museum",
+                  "coords": [
+                        -65.268516,
+                        -19.084597
+                  ]
+            },
+            {
+                  "name": "La Torre",
+                  "text": "Dieser Aussichtspunkt in Sucre bietet einen weiten Panoramablick über das umliegende Glorieta-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.264866,
+                        -19.160219
+                  ]
+            },
+            {
+                  "name": "Cachimayu",
+                  "text": "Diese natürliche Attraktion in der Nähe von Sucre ist mit dem Flusssystem des Cachimayu-Tals verbunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.292079,
+                        -19.14944
+                  ]
+            },
+            {
+                  "name": "Ch'aki Mayu",
+                  "text": "Dieser bemerkenswerte Berggipfel im Departamento Chuquisaca ist ein markantes Naturdenkmal der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -65.373909,
+                        -19.074235
+                  ]
+            },
+            {
+                  "name": "Jatun Q'asa",
+                  "text": "Dieser Berggipfel in der Region Chuquisaca erhebt sich majestätisch über die umliegende Andenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -65.363631,
+                        -19.148189
+                  ]
+            },
+            {
+                  "name": "Hacienda Pitantorilla",
+                  "text": "Dieses historische Landgut in Sucre zeugt vom landwirtschaftlichen und architektonischen Erbe der Glorieta-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.317185,
+                        -19.154853
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan",
+                  "text": "Diese christliche Kirche im Glorieta-Viertel von Sucre zeichnet sich durch ihre traditionelle spanische Kolonialarchitektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.310145,
+                        -19.089391
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana",
+                  "text": "Die Santa-Ana-Kirche in Sucre ist eine malerische christliche Gebetsstätte mit historischer Steinfassade.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.265219,
+                        -19.161617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de La Glorieta",
+                  "text": "Ez a múzeum egy eklektikus mesekastélyban kapott helyet Sucre mellett.",
+                  "category": "museum",
+                  "coords": [
+                        -65.268516,
+                        -19.084597
+                  ]
+            },
+            {
+                  "name": "La Torre",
+                  "text": "Ez a Sucre-i kilátó széles panorámát nyújt a környező Glorieta területre.",
+                  "category": "natural",
+                  "coords": [
+                        -65.264866,
+                        -19.160219
+                  ]
+            },
+            {
+                  "name": "Cachimayu",
+                  "text": "Ez a Sucre közeli természeti látványosság a Cachimayu-völgy folyórendszeréhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.292079,
+                        -19.14944
+                  ]
+            },
+            {
+                  "name": "Ch'aki Mayu",
+                  "text": "Ez a figyelemre méltó hegycsúcs Chuquisaca megyében a régió egyik kiemelkedő természeti nevezetessége.",
+                  "category": "natural",
+                  "coords": [
+                        -65.373909,
+                        -19.074235
+                  ]
+            },
+            {
+                  "name": "Jatun Q'asa",
+                  "text": "Ez a Chuquisaca régióban található hegycsúcs fenségesen emelkedik a környező andoki táj fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -65.363631,
+                        -19.148189
+                  ]
+            },
+            {
+                  "name": "Hacienda Pitantorilla",
+                  "text": "Ez a történelmi birtok Sucre-ban a Glorieta régió mezőgazdasági és építészeti örökségéről tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.317185,
+                        -19.154853
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan",
+                  "text": "Ezt a Sucre Glorieta negyedében található keresztény templomot a hagyományos spanyol gyarmati építészet jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.310145,
+                        -19.089391
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana",
+                  "text": "A Sucre-i Santa Ana-templom egy festői keresztény imádkozóhely történelmi kőhomlokzattal.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.265219,
+                        -19.161617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de La Glorieta",
+                  "text": "Acest muzeu este găzduit într-un castel de poveste eclectic, chiar în afara orașului Sucre.",
+                  "category": "museum",
+                  "coords": [
+                        -65.268516,
+                        -19.084597
+                  ]
+            },
+            {
+                  "name": "La Torre",
+                  "text": "Acest punct de belvedere din Sucre oferă o vedere panoramică largă asupra zonei înconjurătoare Glorieta.",
+                  "category": "natural",
+                  "coords": [
+                        -65.264866,
+                        -19.160219
+                  ]
+            },
+            {
+                  "name": "Cachimayu",
+                  "text": "Această atracție naturală de lângă Sucre este conectată la sistemul fluvial al văii Cachimayu.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.292079,
+                        -19.14944
+                  ]
+            },
+            {
+                  "name": "Ch'aki Mayu",
+                  "text": "Acest vârf montan notabil din departamentul Chuquisaca este un reper natural proeminent al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -65.373909,
+                        -19.074235
+                  ]
+            },
+            {
+                  "name": "Jatun Q'asa",
+                  "text": "Acest vârf montan din regiunea Chuquisaca se înalță maiestuos deasupra peisajului andin înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -65.363631,
+                        -19.148189
+                  ]
+            },
+            {
+                  "name": "Hacienda Pitantorilla",
+                  "text": "Această moșie istorică din Sucre stă mărturie patrimoniului agricol și arhitectural al regiunii Glorieta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.317185,
+                        -19.154853
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan",
+                  "text": "Această biserică creștină din zona Glorieta din Sucre prezintă o arhitectură tradițională colonială spaniolă.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.310145,
+                        -19.089391
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana",
+                  "text": "Biserica Santa Ana din Sucre este un lăcaș de cult creștin pitoresc, cu o fațadă istorică din piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.265219,
+                        -19.161617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de La Glorieta",
+                  "text": "This museum is housed in an eclectic fairytale castle just outside Sucre.",
+                  "category": "museum",
+                  "coords": [
+                        -65.268516,
+                        -19.084597
+                  ]
+            },
+            {
+                  "name": "La Torre",
+                  "text": "This viewpoint in Sucre offers a wide panoramic vista over the surrounding Glorieta area.",
+                  "category": "natural",
+                  "coords": [
+                        -65.264866,
+                        -19.160219
+                  ]
+            },
+            {
+                  "name": "Cachimayu",
+                  "text": "This natural attraction near Sucre is connected to the Cachimayu valley's river system.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.292079,
+                        -19.14944
+                  ]
+            },
+            {
+                  "name": "Ch'aki Mayu",
+                  "text": "This notable mountain peak in the Chuquisaca Department is a prominent natural landmark of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -65.373909,
+                        -19.074235
+                  ]
+            },
+            {
+                  "name": "Jatun Q'asa",
+                  "text": "This mountain peak in the Chuquisaca region rises majestically above the surrounding Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -65.363631,
+                        -19.148189
+                  ]
+            },
+            {
+                  "name": "Hacienda Pitantorilla",
+                  "text": "This historic hacienda in Sucre stands as a testament to the agricultural and architectural heritage of the Glorieta region.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.317185,
+                        -19.154853
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan",
+                  "text": "This Christian church in the Glorieta area of Sucre features traditional Spanish colonial architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.310145,
+                        -19.089391
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana",
+                  "text": "The Santa Ana Church in Sucre is a picturesque Christian place of worship with a historic stone facade.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.265219,
+                        -19.161617
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-H",
     coords: [-65.2974, -19.0838],
@@ -1158,7 +7728,52 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["La tour principale est de style gothique et offre une vue imprenable sur la vallée.", "Le château possède une réplique miniature de la Giralda de Séville en style mauresque.", "Les propriétaires étaient de grands philanthropes et fondèrent un orphelinat sur le domaine.", "Il a été déclaré monument national en 1970 en raison de sa valeur architecturale unique."],
     }, image: "/poi-images/bo-glorieta-history-v2.webp"},
   {
-    id: "bo-palacio-quemado-history-v2",
+    id: "bo-palacio-quemado-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "Das Museo de Arte Sacro ist ein Museum in La Paz, das religiöse Reliquien und sakrale Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -68.134289,
+                        -16.496314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "A Museo de Arte Sacro egy múzeum La Pazban, amely vallási ereklyéket és szakrális műalkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -68.134289,
+                        -16.496314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "Museo de Arte Sacro este un muzeu din La Paz care expune relicve religioase și opere de artă sacră.",
+                  "category": "museum",
+                  "coords": [
+                        -68.134289,
+                        -16.496314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "The Museo de Arte Sacro is a museum exhibiting religious relics and sacred art pieces in La Paz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.134289,
+                        -16.496314
+                  ]
+            }
+      ]
+},
     description: "La Pazban található történelmi kormányzati épület, amely hosszú ideig az elnöki palota volt.",
     facts: [
       "La Paz",
@@ -1211,7 +7826,268 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["La façade actuelle a été conçue au XIXe siècle par l'architecte José Núñez del Prado.", "C'est devant le palais qu'a eu lieu le tragique lynchage du président Gualberto Villarroel en 1946.", "Il conserve une garde d'honneur formée par le régiment historique 'Colorados de Bolivia'.", "Il est relié par un passage à la cathédrale métropolitaine de La Paz."],
     }, image: "/poi-images/bo-palacio-quemado-history-v2.webp"},
   {
-    id: "bo-san-francisco-lapaz-history-v2",
+    id: "bo-san-francisco-lapaz-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tambo Quirquincho",
+                  "text": "In einem Gebäude aus der Kolonialzeit untergebracht, zeigt dieses Museum regionale historische Artefakte und traditionelle Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -68.138039,
+                        -16.493559
+                  ]
+            },
+            {
+                  "name": "Museo de Instrumentos Musicales de Bolivia",
+                  "text": "Besucher können in diesem Spezialmuseum eine riesige Sammlung traditioneller bolivianischer Streich- und Blasinstrumente erkunden.",
+                  "category": "museum",
+                  "coords": [
+                        -68.136117,
+                        -16.492577
+                  ]
+            },
+            {
+                  "name": "Urban Rush",
+                  "text": "Nervenkitzel-Suchende können bei dieser einzigartigen Attraktion direkt an der Fassade eines Hochhauses abseilen.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.136059,
+                        -16.495753
+                  ]
+            },
+            {
+                  "name": "Museo San Francisco",
+                  "text": "In einem historischen Kloster gelegen, zeigt dieses Museum eine umfangreiche Sammlung kolonialer religiöser Kunst und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -68.137276,
+                        -16.496221
+                  ]
+            },
+            {
+                  "name": "Plaza Vicenta Juaristi Eguino",
+                  "text": "Dieser städtische öffentliche Park ist Vicenta Juaristi Eguino gewidmet, einer bekannten Heldin der bolivianischen Unabhängigkeitsbewegung.",
+                  "category": "park",
+                  "coords": [
+                        -68.140787,
+                        -16.493867
+                  ]
+            },
+            {
+                  "name": "Mercado Lanza",
+                  "text": "Bekannt für seine massive Betonarchitektur, ist dieser anerkannte Marktkomplex voll von Ständen, die lokale Lebensmittel und frische Blumen verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.13745,
+                        -16.494735
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Sebastián",
+                  "text": "Diese traditionelle christliche Kirche, die das historische Stadtzentrum bedient, verfügt über eine einfache, aber elegante architektonische Fassade.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.139022,
+                        -16.492938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tambo Quirquincho",
+                  "text": "A gyarmati kori épületben helyet kapó múzeum regionális történelmi leleteket és hagyományos művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -68.138039,
+                        -16.493559
+                  ]
+            },
+            {
+                  "name": "Museo de Instrumentos Musicales de Bolivia",
+                  "text": "A látogatók hagyományos bolíviai húros és fúvós hangszerek hatalmas gyűjteményét fedezhetik fel ebben a különleges múzeumban.",
+                  "category": "museum",
+                  "coords": [
+                        -68.136117,
+                        -16.492577
+                  ]
+            },
+            {
+                  "name": "Urban Rush",
+                  "text": "Az izgalmakat keresők egy egyedülálló attrakció keretében egyenesen egy toronyház oldalán ereszkedhetnek le a mélybe.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.136059,
+                        -16.495753
+                  ]
+            },
+            {
+                  "name": "Museo San Francisco",
+                  "text": "A történelmi kolostorban található múzeum a gyarmati vallásos művészet és tárgyi emlékek kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -68.137276,
+                        -16.496221
+                  ]
+            },
+            {
+                  "name": "Plaza Vicenta Juaristi Eguino",
+                  "text": "Ezt a nyilvános városi parkot Vicenta Juaristi Eguinónak, a bolíviai függetlenségi mozgalom híres hősnőjének szentelték.",
+                  "category": "park",
+                  "coords": [
+                        -68.140787,
+                        -16.493867
+                  ]
+            },
+            {
+                  "name": "Mercado Lanza",
+                  "text": "A masszív betonépítészetéről ismert, elismert piackomplexum tele van helyi ételeket és friss virágokat árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.13745,
+                        -16.494735
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Sebastián",
+                  "text": "A történelmi belvárost kiszolgáló hagyományos keresztény templom egyszerű, de elegáns építészeti homlokzattal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.139022,
+                        -16.492938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tambo Quirquincho",
+                  "text": "Găzduit într-o clădire din epoca colonială, acest muzeu expune artefacte istorice regionale și artă tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        -68.138039,
+                        -16.493559
+                  ]
+            },
+            {
+                  "name": "Museo de Instrumentos Musicales de Bolivia",
+                  "text": "Vizitatorii pot explora o colecție vastă de instrumente tradiționale boliviene cu coarde și suflat la acest muzeu de specialitate.",
+                  "category": "museum",
+                  "coords": [
+                        -68.136117,
+                        -16.492577
+                  ]
+            },
+            {
+                  "name": "Urban Rush",
+                  "text": "Căutătorii de senzații tari pot experimenta rapelul urban direct pe fațada unei clădiri înalte la această atracție unică.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.136059,
+                        -16.495753
+                  ]
+            },
+            {
+                  "name": "Museo San Francisco",
+                  "text": "Situat într-o mănăstire istorică, acest muzeu expune o colecție vastă de artă și artefacte religioase coloniale.",
+                  "category": "museum",
+                  "coords": [
+                        -68.137276,
+                        -16.496221
+                  ]
+            },
+            {
+                  "name": "Plaza Vicenta Juaristi Eguino",
+                  "text": "Acest parc urban public este dedicat Vicentei Juaristi Eguino, o renumită eroină a mișcării de independență a Boliviei.",
+                  "category": "park",
+                  "coords": [
+                        -68.140787,
+                        -16.493867
+                  ]
+            },
+            {
+                  "name": "Mercado Lanza",
+                  "text": "Cunoscut pentru arhitectura sa masivă din beton, acest complex de piețe recunoscut este plin de tarabe care vând alimente locale și flori proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.13745,
+                        -16.494735
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Sebastián",
+                  "text": "Deservind zona istorică a centrului orașului, această biserică creștină tradițională are o fațadă arhitecturală simplă, dar elegantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.139022,
+                        -16.492938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tambo Quirquincho",
+                  "text": "Housed in a colonial-era building, this museum exhibits regional historical artifacts and traditional art.",
+                  "category": "museum",
+                  "coords": [
+                        -68.138039,
+                        -16.493559
+                  ]
+            },
+            {
+                  "name": "Museo de Instrumentos Musicales de Bolivia",
+                  "text": "Visitors can explore a vast collection of traditional Bolivian string and wind instruments at this specialized museum.",
+                  "category": "museum",
+                  "coords": [
+                        -68.136117,
+                        -16.492577
+                  ]
+            },
+            {
+                  "name": "Urban Rush",
+                  "text": "Thrill-seekers can experience urban rappelling straight down the side of a high-rise building at this unique attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.136059,
+                        -16.495753
+                  ]
+            },
+            {
+                  "name": "Museo San Francisco",
+                  "text": "Situated within a historic convent, this museum displays an extensive collection of colonial religious art and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -68.137276,
+                        -16.496221
+                  ]
+            },
+            {
+                  "name": "Plaza Vicenta Juaristi Eguino",
+                  "text": "This public urban park is dedicated to Vicenta Juaristi Eguino, a renowned heroine of the Bolivian independence movement.",
+                  "category": "park",
+                  "coords": [
+                        -68.140787,
+                        -16.493867
+                  ]
+            },
+            {
+                  "name": "Mercado Lanza",
+                  "text": "Known for its massive concrete architecture, this recognized market complex is filled with stalls selling local food and fresh flowers.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.13745,
+                        -16.494735
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Sebastián",
+                  "text": "Serving the historic downtown area, this traditional Christian church features a simple yet elegant architectural facade.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.139022,
+                        -16.492938
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-L",
     coords: [-68.1374, -16.4960],
@@ -1278,7 +8154,160 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Elle est entièrement construite en pierres de taille provenant des carrières de Viacha.", "La place devant la basilique est le lieu de rassemblement social et de contestation politique le plus important de La Paz.", "Elle a été élevée au rang de basilique mineure en 1948, pour le 400e anniversaire de la fondation de la ville.", "Le monastère conserve une bibliothèque historique contenant des volumes rares de l'époque coloniale."],
     }, image: "/poi-images/bo-san-francisco-lapaz-history-v2.webp"},
   {
-    id: "bo-catedral-lapaz-history-v2",
+    id: "bo-catedral-lapaz-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "Das am 23. März 2014 eröffnete Museo Histórico Naval ist ein Museum zur Geschichte der Marine in La Paz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.131422,
+                        -16.498369
+                  ]
+            },
+            {
+                  "name": "E-Sports Arena",
+                  "text": "Die E-Sports Arena ist eine Veranstaltungsstätte für Videospielturniere in La Paz.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.132017,
+                        -16.497059
+                  ]
+            },
+            {
+                  "name": "El Reloj del Sur",
+                  "text": "El Reloj del Sur ist eine einzigartige Uhr und Attraktion in La Paz, deren Zeiger gegen den Uhrzeigersinn laufen.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.133171,
+                        -16.496004
+                  ]
+            },
+            {
+                  "name": "Mercado Yungas",
+                  "text": "Der Mercado Yungas ist ein Marktplatz in La Paz, der oft Produkte aus der nahegelegenen Yungas-Region anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.129319,
+                        -16.497075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "A 2014. március 23-án megnyílt Museo Histórico Naval egy haditengerészeti történelmi múzeum La Pazban.",
+                  "category": "museum",
+                  "coords": [
+                        -68.131422,
+                        -16.498369
+                  ]
+            },
+            {
+                  "name": "E-Sports Arena",
+                  "text": "Az E-Sports Arena egy videojáték-versenyeknek otthont adó rendezvényhelyszín La Pazban.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.132017,
+                        -16.497059
+                  ]
+            },
+            {
+                  "name": "El Reloj del Sur",
+                  "text": "Az El Reloj del Sur egy egyedülálló óra-látványosság La Pazban, amelynek mutatói az óramutató járásával ellentétes irányban mozognak.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.133171,
+                        -16.496004
+                  ]
+            },
+            {
+                  "name": "Mercado Yungas",
+                  "text": "A Mercado Yungas egy piac La Pazban, amely gyakran kínál a közeli Yungas régióból származó termékeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.129319,
+                        -16.497075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "Deschis pe 23 martie 2014, Museo Histórico Naval este un muzeu de istorie navală din La Paz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.131422,
+                        -16.498369
+                  ]
+            },
+            {
+                  "name": "E-Sports Arena",
+                  "text": "E-Sports Arena este o locație dedicată turneelor de jocuri video în La Paz.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.132017,
+                        -16.497059
+                  ]
+            },
+            {
+                  "name": "El Reloj del Sur",
+                  "text": "El Reloj del Sur este un ceas-atracție unic din La Paz, cu limbi care se mișcă în sens invers acelor de ceasornic.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.133171,
+                        -16.496004
+                  ]
+            },
+            {
+                  "name": "Mercado Yungas",
+                  "text": "Mercado Yungas este o piață din La Paz, numită după regiunea învecinată Yungas.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.129319,
+                        -16.497075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "Opened on March 23, 2014, the Museo Histórico Naval is a naval history museum in La Paz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.131422,
+                        -16.498369
+                  ]
+            },
+            {
+                  "name": "E-Sports Arena",
+                  "text": "The E-Sports Arena is an attraction hosting video game tournaments in La Paz.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.132017,
+                        -16.497059
+                  ]
+            },
+            {
+                  "name": "El Reloj del Sur",
+                  "text": "El Reloj del Sur is a unique clock attraction in La Paz with hands that run anti-clockwise.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.133171,
+                        -16.496004
+                  ]
+            },
+            {
+                  "name": "Mercado Yungas",
+                  "text": "The Mercado Yungas is a marketplace in La Paz, often featuring produce from the nearby Yungas region.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.129319,
+                        -16.497075
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-L",
     coords: [-68.1332, -16.4959],
@@ -1345,7 +8374,484 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Abrite le mausolée du président Andrés de Santa Cruz, dont les restes ont été rapatriés de France.", "La différence de hauteur des tours n'a été corrigée que dans la seconde moitié du XXe siècle.", "Les magnifiques vitraux ont été fabriqués en Europe spécialement pour cette cathédrale.", "Elle a été érigée sur un terrain extrêmement incliné, nécessitant des fondations et des murs de soutènement massifs."],
     }, image: "/poi-images/bo-catedral-lapaz-history-v2.webp"},
   {
-    id: "bo-basilica-copacabana-history-v2",
+    id: "bo-basilica-copacabana-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Pucara",
+                  "text": "Dieser bemerkenswerte Gipfel mit Blick auf die umliegenden Hochebenen befindet sich im Departamento La Paz.",
+                  "category": "natural",
+                  "coords": [
+                        -69.091828,
+                        -16.128825
+                  ]
+            },
+            {
+                  "name": "Mirador del Inca",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen weiten Blick über den Titicacasee und würdigt das reiche Inka-Erbe der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.088387,
+                        -16.134046
+                  ]
+            },
+            {
+                  "name": "playa blanca",
+                  "text": "Dieser helle Sandstrand liegt direkt an den weiten Ufern des hochgelegenen Titicacasees.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.089286,
+                        -16.132044
+                  ]
+            },
+            {
+                  "name": "Mirador Sagrado Corazón de Jesús",
+                  "text": "Dieser von einem religiösen Herz-Jesu-Denkmal gekrönte Aussichtspunkt überblickt die Dächer von Copacabana und den dahinter liegenden See.",
+                  "category": "natural",
+                  "coords": [
+                        -69.089338,
+                        -16.160854
+                  ]
+            },
+            {
+                  "name": "Mirador El Calvario",
+                  "text": "Dieser über einen steilen, gepflasterten Weg erreichbare Aussichtspunkt auf dem Hügel bietet einen spektakulären Blick auf die Bucht von Copacabana.",
+                  "category": "natural",
+                  "coords": [
+                        -69.091364,
+                        -16.16164
+                  ]
+            },
+            {
+                  "name": "Boca del Sapo",
+                  "text": "Diese natürlich erodierte Felsformation hat die Form eines riesigen Krötenmauls und dient als Ort für traditionelle Andenrituale.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093776,
+                        -16.160612
+                  ]
+            },
+            {
+                  "name": "Faro Copacabana",
+                  "text": "Dieser um 2010 erbaute Binnenleuchtturm hilft bei der Navigation auf den hochgelegenen Gewässern des Titicacasees.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093728,
+                        -16.16247
+                  ]
+            },
+            {
+                  "name": "Museo del Poncho",
+                  "text": "Dieses Kulturmuseum zeigt eine lebendige Sammlung traditioneller gewebter Anden-Ponchos und lokaler Textilien.",
+                  "category": "museum",
+                  "coords": [
+                        -69.090188,
+                        -16.164921
+                  ]
+            },
+            {
+                  "name": "Mujeres Artesanas",
+                  "text": "Dieses gemeinschaftliche Kunstzentrum zeigt aufwendige handgefertigte Textilien und Kunsthandwerk, das von lokalen Kunsthandwerkerinnen hergestellt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.085023,
+                        -16.166653
+                  ]
+            },
+            {
+                  "name": "Playa de Copacabana",
+                  "text": "Diese felsige und sandige Küste ist von kleinen Bootsstegen und Tretbooten gesäumt und grenzt an den Rand des Titicacasees.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.095869,
+                        -16.174135
+                  ]
+            },
+            {
+                  "name": "Capilla del Señor de la Cruz de Colquepata",
+                  "text": "Diese kleine christliche Kapelle ist dem Herrn des Kreuzes geweiht und dient als ruhiger lokaler Gebetsort.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.086932,
+                        -16.162727
+                  ]
+            },
+            {
+                  "name": "Gruta de Lourdes (Gruta de Fatimá)",
+                  "text": "Diese felsige, künstliche Grotte dient als Kultstätte zu Ehren der Erscheinungen der Jungfrau Maria.",
+                  "category": "religious",
+                  "coords": [
+                        -69.084357,
+                        -16.114472
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Copacabana",
+                  "text": "Dieser belebte überdachte Markt ist ein zentraler Knotenpunkt für den Kauf von frischen regionalen Produkten und lokalen Forellen aus dem Titicacasee.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.085841,
+                        -16.164538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Pucara",
+                  "text": "A környező fennsíkokra néző nevezetes csúcs La Paz megyében található.",
+                  "category": "natural",
+                  "coords": [
+                        -69.091828,
+                        -16.128825
+                  ]
+            },
+            {
+                  "name": "Mirador del Inca",
+                  "text": "Ez a magasan fekvő kilátó széles kilátást nyújt a Titicaca-tó vizére, és tiszteleg a régió gazdag inka öröksége előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.088387,
+                        -16.134046
+                  ]
+            },
+            {
+                  "name": "playa blanca",
+                  "text": "Ez a világos, homokos strand közvetlenül a magasan fekvő Titicaca-tó kiterjedt partján fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.089286,
+                        -16.132044
+                  ]
+            },
+            {
+                  "name": "Mirador Sagrado Corazón de Jesús",
+                  "text": "A Szent Szív vallási emlékművével koronázott kilátóról a Copacabana háztetőire és a tóra nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -69.089338,
+                        -16.160854
+                  ]
+            },
+            {
+                  "name": "Mirador El Calvario",
+                  "text": "A meredek, kővel burkolt ösvényen megközelíthető dombtetőről látványos kilátás nyílik a Copacabana-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -69.091364,
+                        -16.16164
+                  ]
+            },
+            {
+                  "name": "Boca del Sapo",
+                  "text": "Ez a természetes úton erodálódott sziklaképződmény egy óriási varangy szájához hasonlít, és hagyományos andoki rituálék helyszínéül szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093776,
+                        -16.160612
+                  ]
+            },
+            {
+                  "name": "Faro Copacabana",
+                  "text": "A 2010 körül épült szárazföldi világítótorony a Titicaca-tó magasan fekvő vizein segíti a navigációt.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093728,
+                        -16.16247
+                  ]
+            },
+            {
+                  "name": "Museo del Poncho",
+                  "text": "Ez a kulturális múzeum hagyományos andoki szőtt poncsók és helyi textíliák élénk gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -69.090188,
+                        -16.164921
+                  ]
+            },
+            {
+                  "name": "Mujeres Artesanas",
+                  "text": "Ez az együttműködésen alapuló művészeti központ a helyi kézműves nők által készített bonyolult, kézzel készített textíliákat és kézműves termékeket mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.085023,
+                        -16.166653
+                  ]
+            },
+            {
+                  "name": "Playa de Copacabana",
+                  "text": "Kis csónakkikötőkkel és vízibiciklikkel szegélyezett, sziklás és homokos partvidék határolja a Titicaca-tó szélét.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.095869,
+                        -16.174135
+                  ]
+            },
+            {
+                  "name": "Capilla del Señor de la Cruz de Colquepata",
+                  "text": "Ezt a kis keresztény kápolnát a Kereszt Urának szentelték, és csendes helyi imádkozóhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.086932,
+                        -16.162727
+                  ]
+            },
+            {
+                  "name": "Gruta de Lourdes (Gruta de Fatimá)",
+                  "text": "Ez a sziklás, mesterséges barlang a Szűz Mária-jelenések tiszteletére szentelt istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -69.084357,
+                        -16.114472
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Copacabana",
+                  "text": "Ez a nyüzsgő fedett piac a friss regionális termékek és a helyi Titicaca-tavi pisztráng vásárlásának központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.085841,
+                        -16.164538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Pucara",
+                  "text": "Având vedere la câmpiile înalte din jur, acest vârf notabil este situat în departamentul La Paz.",
+                  "category": "natural",
+                  "coords": [
+                        -69.091828,
+                        -16.128825
+                  ]
+            },
+            {
+                  "name": "Mirador del Inca",
+                  "text": "Acest punct de belvedere ridicat oferă vederi ample asupra lacului Titicaca și onorează bogata moștenire incașă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.088387,
+                        -16.134046
+                  ]
+            },
+            {
+                  "name": "playa blanca",
+                  "text": "Această plajă cu nisip luminos se află direct pe țărmurile întinse ale lacului Titicaca de mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.089286,
+                        -16.132044
+                  ]
+            },
+            {
+                  "name": "Mirador Sagrado Corazón de Jesús",
+                  "text": "Încoronat de un monument religios dedicat Inimii Sacre, acest punct de belvedere domină acoperișurile din Copacabana și lacul de dincolo.",
+                  "category": "natural",
+                  "coords": [
+                        -69.089338,
+                        -16.160854
+                  ]
+            },
+            {
+                  "name": "Mirador El Calvario",
+                  "text": "Accesibil printr-o potecă abruptă și pietruită, acest punct de belvedere de pe deal oferă o perspectivă spectaculoasă asupra Golfului Copacabana.",
+                  "category": "natural",
+                  "coords": [
+                        -69.091364,
+                        -16.16164
+                  ]
+            },
+            {
+                  "name": "Boca del Sapo",
+                  "text": "Această formațiune stâncoasă erodată natural are forma gurii unei broaște uriașe și servește ca loc pentru ritualurile andine tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093776,
+                        -16.160612
+                  ]
+            },
+            {
+                  "name": "Faro Copacabana",
+                  "text": "Construit în jurul anului 2010, acest far interior ajută la navigarea pe apele la mare altitudine ale lacului Titicaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093728,
+                        -16.16247
+                  ]
+            },
+            {
+                  "name": "Museo del Poncho",
+                  "text": "Acest muzeu cultural expune o colecție vibrantă de poncho-uri tradiționale andine țesute și textile locale.",
+                  "category": "museum",
+                  "coords": [
+                        -69.090188,
+                        -16.164921
+                  ]
+            },
+            {
+                  "name": "Mujeres Artesanas",
+                  "text": "Acest centru de arte colaborativ prezintă textile și obiecte de artizanat complexe realizate manual de către femeile meșteșugar locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.085023,
+                        -16.166653
+                  ]
+            },
+            {
+                  "name": "Playa de Copacabana",
+                  "text": "Mărginit de docuri mici pentru bărci și hidrobiciclete, acest țărm stâncos și nisipos se află la marginea lacului Titicaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.095869,
+                        -16.174135
+                  ]
+            },
+            {
+                  "name": "Capilla del Señor de la Cruz de Colquepata",
+                  "text": "Această mică capelă creștină este dedicată Domnului Crucii și servește ca un loc de rugăciune local liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.086932,
+                        -16.162727
+                  ]
+            },
+            {
+                  "name": "Gruta de Lourdes (Gruta de Fatimá)",
+                  "text": "Această grotă artificială și stâncoasă servește drept loc de cult dedicat onorării aparițiilor Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        -69.084357,
+                        -16.114472
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Copacabana",
+                  "text": "Această piață interioară plină de viață este un centru principal pentru cumpărarea de produse regionale proaspete și păstrăv local din lacul Titicaca.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.085841,
+                        -16.164538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Pucara",
+                  "text": "Overlooking the surrounding high-altitude plains, this notable peak is situated in the La Paz Department.",
+                  "category": "natural",
+                  "coords": [
+                        -69.091828,
+                        -16.128825
+                  ]
+            },
+            {
+                  "name": "Mirador del Inca",
+                  "text": "This elevated lookout point offers sweeping views over Lake Titicaca and honors the region's rich Inca heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.088387,
+                        -16.134046
+                  ]
+            },
+            {
+                  "name": "playa blanca",
+                  "text": "This bright, sandy beach rests directly on the expansive shores of high-altitude Lake Titicaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.089286,
+                        -16.132044
+                  ]
+            },
+            {
+                  "name": "Mirador Sagrado Corazón de Jesús",
+                  "text": "Crowned by a religious monument to the Sacred Heart, this viewpoint overlooks the rooftops of Copacabana and the lake beyond.",
+                  "category": "natural",
+                  "coords": [
+                        -69.089338,
+                        -16.160854
+                  ]
+            },
+            {
+                  "name": "Mirador El Calvario",
+                  "text": "Reached by a steep, stone-paved path, this hilltop viewpoint provides a spectacular vantage over Copacabana Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -69.091364,
+                        -16.16164
+                  ]
+            },
+            {
+                  "name": "Boca del Sapo",
+                  "text": "This naturally eroded rock formation is shaped like a giant toad's mouth and serves as a site for traditional Andean rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093776,
+                        -16.160612
+                  ]
+            },
+            {
+                  "name": "Faro Copacabana",
+                  "text": "Built around 2010, this inland lighthouse aids navigation along the elevated waters of Lake Titicaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.093728,
+                        -16.16247
+                  ]
+            },
+            {
+                  "name": "Museo del Poncho",
+                  "text": "This cultural museum exhibits a vibrant collection of traditional Andean woven ponchos and local textiles.",
+                  "category": "museum",
+                  "coords": [
+                        -69.090188,
+                        -16.164921
+                  ]
+            },
+            {
+                  "name": "Mujeres Artesanas",
+                  "text": "This collaborative arts center showcases intricate handmade textiles and crafts produced by local artisan women.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.085023,
+                        -16.166653
+                  ]
+            },
+            {
+                  "name": "Playa de Copacabana",
+                  "text": "Lined with small boat docks and pedal boats, this rocky and sandy shoreline borders the edge of Lake Titicaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.095869,
+                        -16.174135
+                  ]
+            },
+            {
+                  "name": "Capilla del Señor de la Cruz de Colquepata",
+                  "text": "This small Christian chapel is dedicated to the Lord of the Cross and serves as a quiet local prayer site.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.086932,
+                        -16.162727
+                  ]
+            },
+            {
+                  "name": "Gruta de Lourdes (Gruta de Fatimá)",
+                  "text": "This rocky, artificial grotto serves as a dedicated place of worship honoring the apparitions of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        -69.084357,
+                        -16.114472
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Copacabana",
+                  "text": "This bustling indoor marketplace is a central hub for purchasing fresh regional produce and local Lake Titicaca trout.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.085841,
+                        -16.164538
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-L",
     coords: [-69.0858, -16.1661],
@@ -1412,7 +8918,52 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["La statue de la Vierge est vêtue de robes d'or et d'argent et porte des bijoux précieux offerts par les fidèles.", "Le bâtiment précédant l'église actuelle a été construit sur un site que les Incas considéraient comme sacré.", "Chaque dimanche a lieu le rituel de la bénédiction des voitures (Ch'alla), unique au monde.", "La basilique abrite une bibliothèque précieuse et un musée d'art sacré colonial."],
     }, image: "/poi-images/bo-basilica-copacabana-history-v2.webp"},
   {
-    id: "bo-san-javier-history-v2",
+    id: "bo-san-javier-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Misión de San Francisco Xavier",
+                  "text": "Diese historische Jesuitenmission gehört zum UNESCO-Weltkulturerbe und ist für ihre kunstvollen Holzschnitzereien bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.505596,
+                        -16.274577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Misión de San Francisco Xavier",
+                  "text": "Ez a történelmi jezsuita misszió az UNESCO Világörökség része, és díszes fafaragásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.505596,
+                        -16.274577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Misión de San Francisco Xavier",
+                  "text": "Această misiune iezuită istorică face parte din Patrimoniul Mondial UNESCO și este cunoscută pentru sculpturile sale ornamentate în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.505596,
+                        -16.274577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Misión de San Francisco Xavier",
+                  "text": "This historic Jesuit mission is a UNESCO World Heritage site known for its ornate wood carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.505596,
+                        -16.274577
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-S",
     coords: [-62.5975, -16.2730],
@@ -1609,7 +9160,88 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
     },
   },
   {
-    id: "bo-san-rafael-velasco-history-v2",
+    id: "bo-san-rafael-velasco-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Templo Jesuítico de San Rafael",
+                  "text": "Eine gut erhaltene Missionskirche aus dem 18. Jahrhundert mit beeindruckenden Altarbildern und barocker Architektur aus Holz.",
+                  "category": "religious",
+                  "coords": [
+                        -60.674891,
+                        -16.786198
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "Ein lokaler Königreichssaal der Zeugen Jehovas, der als Versammlungsort für die Religionsgemeinschaft in der Region Velasco dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.675021,
+                        -16.789191
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Templo Jesuítico de San Rafael",
+                  "text": "Egy jól megőrzött 18. századi missziós templom lenyűgöző oltárképekkel és barokk faépítészettel.",
+                  "category": "religious",
+                  "coords": [
+                        -60.674891,
+                        -16.786198
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "Jehova Tanúi helyi Királyság-terme, amely a Velasco régió vallási közösségének gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.675021,
+                        -16.789191
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Templo Jesuítico de San Rafael",
+                  "text": "O biserică de misiune bine conservată din secolul al XVIII-lea, cu altare impresionante și arhitectură barocă din lemn.",
+                  "category": "religious",
+                  "coords": [
+                        -60.674891,
+                        -16.786198
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "O sală locală a Regatului Martorilor lui Iehova, care servește ca loc de întâlnire pentru comunitatea religioasă din regiunea Velasco.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.675021,
+                        -16.789191
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Templo Jesuítico de San Rafael",
+                  "text": "A well-preserved 18th-century mission church featuring impressive altarpieces and wooden Baroque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -60.674891,
+                        -16.786198
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "A local Kingdom Hall of Jehovah's Witnesses serving as a meeting place for the religious community in the Velasco region.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.675021,
+                        -16.789191
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-S",
     coords: [-60.6729, -16.7845],
@@ -1676,7 +9308,304 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Les plaques de mica utilisées aux fenêtres confèrent à l'intérieur une lumière chaude et diffuse, unique dans l'architecture coloniale.", "L'église conserve une chaire sculptée à la main, ornée de motifs végétaux locaux.", "San Rafael était un carrefour important sur les routes reliant les différentes missions.", "Le processus de restauration a révélé les couleurs originales et vives des murs peints."],
     }, image: "/poi-images/bo-san-rafael-velasco-history-v2.webp"},
   {
-    id: "bo-socavon-history-v2",
+    id: "bo-socavon-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro San Pedro",
+                  "text": "Dieser markante Hügel überblickt den historischen Bergbaubezirk von Oruro und prägt die lokale Skyline.",
+                  "category": "natural",
+                  "coords": [
+                        -67.123965,
+                        -17.938718
+                  ]
+            },
+            {
+                  "name": "Wayras",
+                  "text": "Diese historischen Steinruinen sind die Überreste indigener, windbetriebener Öfen, die einst zum Schmelzen von Silbererz verwendet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -67.123157,
+                        -17.961714
+                  ]
+            },
+            {
+                  "name": "Arenales Kochiraya",
+                  "text": "Diese natürliche Attraktion besteht aus ausgedehnten Sanddünen auf der hochgelegenen Hochebene direkt vor der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.136352,
+                        -17.932196
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Eine lokale christliche Kirche der Siebenten-Tags-Adventisten, die der Gemeinde in dieser historischen Bergbauregion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.120428,
+                        -17.946681
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "Dieses lokale adventistische Gotteshaus versammelt seine Gemeinde in einem bescheidenen Gebäude in der Nähe der historischen Minen.",
+                  "category": "religious",
+                  "coords": [
+                        -67.121207,
+                        -17.928351
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro",
+                  "text": "Diese dem Heiligen Petrus gewidmete christliche Kirche steht als ruhiger spiritueller Zufluchtsort in dem geschäftigen, historischen Bergbaugebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.120373,
+                        -17.943838
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelista",
+                  "text": "Ein evangelisches Gotteshaus in der Nachbarschaft, das als Gemeindezentrum in der Gegend von Socavón dient.",
+                  "category": "religious",
+                  "coords": [
+                        -67.118038,
+                        -17.952228
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Reformada Illimani",
+                  "text": "Diese christliche Kirche der reformierten Konfession trägt den Namen des majestätischen Berges Illimani.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.118029,
+                        -17.959996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro San Pedro",
+                  "text": "Ez a kiemelkedő domb Oruro történelmi bányásznegyedére néz, és meghatározza a helyi látképet.",
+                  "category": "natural",
+                  "coords": [
+                        -67.123965,
+                        -17.938718
+                  ]
+            },
+            {
+                  "name": "Wayras",
+                  "text": "Ezek a történelmi kőromok olyan őslakos, szélhajtású kemencék maradványai, amelyeket egykor ezüstérc olvasztására használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -67.123157,
+                        -17.961714
+                  ]
+            },
+            {
+                  "name": "Arenales Kochiraya",
+                  "text": "Ez a természeti látványosság a város közvetlen közelében, a magaslati fennsíkon elterülő kiterjedt homokdűnékből áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.136352,
+                        -17.932196
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Egy helyi hetednapi adventista keresztény templom, amely a közösséget szolgálja ebben a történelmi bányászati régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.120428,
+                        -17.946681
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "Ez a helyi adventista istentiszteleti hely egy szerény épületben gyűjti össze gyülekezetét a történelmi bányák közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -67.121207,
+                        -17.928351
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro",
+                  "text": "Ez a Szent Péternek szentelt keresztény templom csendes spirituális menedékként áll a nyüzsgő történelmi bányászati területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.120373,
+                        -17.943838
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelista",
+                  "text": "Egy környékbeli evangélikus istentiszteleti hely, amely közösségi központként szolgál a Socavón térségben.",
+                  "category": "religious",
+                  "coords": [
+                        -67.118038,
+                        -17.952228
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Reformada Illimani",
+                  "text": "Ez a református felekezetű keresztény templom a fenséges Illimani hegy nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.118029,
+                        -17.959996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro San Pedro",
+                  "text": "Acest deal proeminent domină districtul istoric de minerit din Oruro și conturează orizontul local.",
+                  "category": "natural",
+                  "coords": [
+                        -67.123965,
+                        -17.938718
+                  ]
+            },
+            {
+                  "name": "Wayras",
+                  "text": "Aceste ruine istorice din piatră sunt rămășițele unor cuptoare indigene alimentate de vânt, folosite odinioară pentru topirea minereului de argint.",
+                  "category": "historical",
+                  "coords": [
+                        -67.123157,
+                        -17.961714
+                  ]
+            },
+            {
+                  "name": "Arenales Kochiraya",
+                  "text": "Această atracție naturală constă din dune de nisip întinse, situate pe platoul de mare altitudine, chiar la marginea orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.136352,
+                        -17.932196
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "O biserică creștină adventistă de ziua a șaptea care servește comunitatea din această regiune istorică de minerit.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.120428,
+                        -17.946681
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "Acest lăcaș de cult adventist local își adună congregația într-o clădire modestă lângă minele istorice.",
+                  "category": "religious",
+                  "coords": [
+                        -67.121207,
+                        -17.928351
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro",
+                  "text": "Această biserică creștină dedicată Sfântului Petru este un refugiu spiritual liniștit în aglomerata zonă istorică de minerit.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.120373,
+                        -17.943838
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelista",
+                  "text": "Un lăcaș de cult evanghelic de cartier care servește ca centru comunitar în zona Socavón.",
+                  "category": "religious",
+                  "coords": [
+                        -67.118038,
+                        -17.952228
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Reformada Illimani",
+                  "text": "Această biserică creștină de confesiune reformată poartă numele maiestuosului munte Illimani.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.118029,
+                        -17.959996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro San Pedro",
+                  "text": "This prominent hill overlooks the historic mining district of Oruro and shapes the local skyline.",
+                  "category": "natural",
+                  "coords": [
+                        -67.123965,
+                        -17.938718
+                  ]
+            },
+            {
+                  "name": "Wayras",
+                  "text": "These historic stone ruins are the remnants of indigenous wind-powered furnaces once used for smelting silver ore.",
+                  "category": "historical",
+                  "coords": [
+                        -67.123157,
+                        -17.961714
+                  ]
+            },
+            {
+                  "name": "Arenales Kochiraya",
+                  "text": "This natural attraction consists of expansive sandy dunes located on the high-altitude plateau just outside the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.136352,
+                        -17.932196
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "A local Seventh-day Adventist Christian church serving the community in this historic mining region.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.120428,
+                        -17.946681
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "This local Adventist place of worship gathers its congregation in a modest building near the historic mines.",
+                  "category": "religious",
+                  "coords": [
+                        -67.121207,
+                        -17.928351
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro",
+                  "text": "This Christian church dedicated to Saint Peter stands as a quiet spiritual refuge in the bustling historic mining area.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.120373,
+                        -17.943838
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelista",
+                  "text": "A neighborhood Evangelical place of worship that serves as a community hub in the Socavón area.",
+                  "category": "religious",
+                  "coords": [
+                        -67.118038,
+                        -17.952228
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Reformada Illimani",
+                  "text": "This Christian church of the Reformed denomination bears the name of the majestic Illimani mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.118029,
+                        -17.959996
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-O",
     coords: [-67.1186, -17.9658],
@@ -1743,7 +9672,1204 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["Le nom 'Socavón' signifie galerie de mine et reflète le lien étroit avec l'exploitation minière.", "Chaque groupe de danse du carnaval a l'obligation de rendre hommage à la Vierge dans ce sanctuaire.", "L'intérieur de l'église abrite une peinture murale de la Vierge datant du XVIIIe siècle.", "Le musée de la mine présente des machines anciennes et une statue d'El Tío, le dieu des mines dans la cosmologie andine."],
     }, image: "/poi-images/bo-socavon-history-v2.webp"},
   {
-    id: "bo-heroinas-coronilla-history-v2",
+    id: "bo-heroinas-coronilla-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aérospatiale SA315B Lama",
+                  "text": "Diese im Jahr 2016 hinzugefügte Ausstellung zeigt einen klassischen, in Frankreich gebauten einmotorigen Höhenhubschrauber.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.171199,
+                        -17.422416
+                  ]
+            },
+            {
+                  "name": "Curtiss C-46 Commando",
+                  "text": "Diese Luftfahrtausstellung präsentiert ein erhaltenes zweimotoriges Transportflugzeug, das ursprünglich für militärische Zwecke entwickelt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.171897,
+                        -17.417113
+                  ]
+            },
+            {
+                  "name": "McDonnell Douglas DC-10-10",
+                  "text": "Besucher können diese beeindruckende Ausstellung eines erhaltenen dreistrahligen Großraumflugzeugs bewundern, das für sein markantes Triebwerk am Heck bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.169624,
+                        -17.423017
+                  ]
+            },
+            {
+                  "name": "Capilla Cementerio Cochabamba",
+                  "text": "Diese feierliche Friedhofskapelle bietet einen ruhigen Raum für Gottesdienste und zum Nachdenken auf dem Begräbnisgelände.",
+                  "category": "religious",
+                  "coords": [
+                        -66.159533,
+                        -17.410394
+                  ]
+            },
+            {
+                  "name": "Cementerio de Aviones AeroSur",
+                  "text": "Dieses Freilichtmuseum dient als Flugzeugfriedhof und zeigt die ausgemusterten Maschinen der ehemaligen Fluggesellschaft AeroSur.",
+                  "category": "museum",
+                  "coords": [
+                        -66.163672,
+                        -17.429523
+                  ]
+            },
+            {
+                  "name": "Museo yGalería de Arte Gamboa",
+                  "text": "Diese kulturelle Einrichtung fungiert sowohl als Museum als auch als Kunstgalerie und zeigt bildende Kunstwerke und lokale Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -66.166211,
+                        -17.398456
+                  ]
+            },
+            {
+                  "name": "Museo del Paracaidismo",
+                  "text": "Dieses spezialisierte Museum zeigt Exponate und Ausrüstung, die der Geschichte und Praxis des Fallschirmspringens gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        -66.171888,
+                        -17.396697
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Dieser überdachte Theatersaal bietet eine spezielle Bühne und Sitzplätze für lokale Gemeinschaftsaufführungen und Versammlungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.168736,
+                        -17.404721
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Dieses Freilufttheater nutzt seine Außenkulisse, um öffentliche Aufführungen, Konzerte und kulturelle Veranstaltungen unter freiem Himmel zu veranstalten.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.165607,
+                        -17.400343
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Coronilla",
+                  "text": "Vor der Kulisse des Hügels Coronilla bietet dieses Freiluft-Amphitheater stufenförmige Sitzplätze für öffentliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.15868,
+                        -17.406121
+                  ]
+            },
+            {
+                  "name": "Auditorio Asamblea Legislativa Cochabamba",
+                  "text": "Dieser formelle Hörsaal, der im Jahr 2021 eingerichtet wurde, beherbergt gesetzgeberische Sitzungen und wichtige städtische Präsentationen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.159496,
+                        -17.40067
+                  ]
+            },
+            {
+                  "name": "Paraninfo Libertad",
+                  "text": "Diese große Aula dient als eleganter Theaterraum für akademische Zeremonien, Vorträge und kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.160725,
+                        -17.397695
+                  ]
+            },
+            {
+                  "name": "señor de Burgos",
+                  "text": "Diese religiöse Stätte bietet der lokalen Gemeinde ein Heiligtum, um sich zum traditionellen Gebet und Gottesdienst zu versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        -66.1854,
+                        -17.458609
+                  ]
+            },
+            {
+                  "name": "Casa de Oración",
+                  "text": "Dieser ganz dem Gottesdienst gewidmete Ort bietet eine ruhige Umgebung für gemeinschaftliche und individuelle Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        -66.173355,
+                        -17.394119
+                  ]
+            },
+            {
+                  "name": "Iglesia Encuentro con Dios",
+                  "text": "Mitglieder der lokalen christlichen Gemeinde versammeln sich in diesem Kirchengebäude zu regelmäßigen Gottesdiensten und zur Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -66.186962,
+                        -17.384208
+                  ]
+            },
+            {
+                  "name": "La Troje",
+                  "text": "Diese historische, im 18. Jahrhundert erbaute Kirche bewahrt ihren architektonischen Charme aus der Kolonialzeit und ihre spirituelle Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        -66.188339,
+                        -17.396882
+                  ]
+            },
+            {
+                  "name": "MErcado Villa Sajama",
+                  "text": "Dieser Nachbarschaftsmarkt bietet den Bewohnern der Villa Sajama eine bequeme tägliche Quelle für Lebensmittel und Einzelhandelswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.149216,
+                        -17.475046
+                  ]
+            },
+            {
+                  "name": "Feria Franca Cornelio Savedra",
+                  "text": "Dieser belebte Markt, der als Open-Air-Messe organisiert ist, bietet Reihen temporärer Stände, die eine Vielzahl von Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.181944,
+                        -17.404807
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Barbara",
+                  "text": "Einkäufer auf diesem lebhaften Gemeinschaftsmarkt können in einer vielfältigen Auswahl an frischen Produkten und lokalem Fleisch stöbern.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.156028,
+                        -17.428165
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Productores",
+                  "text": "Auf diesem zentralen Markt handeln lokale Produzenten ihre landwirtschaftlichen Erträge und handwerklichen Güter direkt mit der Öffentlichkeit.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.149361,
+                        -17.436333
+                  ]
+            },
+            {
+                  "name": "Mercado 8 de Septiembre",
+                  "text": "Dieser geschäftige tägliche Markt bietet eine dichte Ansammlung von Ständen mit frischen Lebensmitteln und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.156831,
+                        -17.434342
+                  ]
+            },
+            {
+                  "name": "Mercado Mixta Ferroviaria - Tamborada",
+                  "text": "In der Nähe der Eisenbahn gelegen, bietet dieser gemischte Markt ein lebhaftes Sortiment an Ständen, die sowohl Lebensmittel als auch allgemeine Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.146779,
+                        -17.448043
+                  ]
+            },
+            {
+                  "name": "Mercado Integración del Sur",
+                  "text": "Dieser regionale Markt im Süden fungiert als lebhafter kommerzieller Treffpunkt für den Kauf von täglichen Lebensmitteln und lokalen Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.174121,
+                        -17.446142
+                  ]
+            },
+            {
+                  "name": "Mercado Base Aérea",
+                  "text": "Ein lokaler Markt, der frische Lebensmittel in der Nähe des Luftwaffenstützpunkts anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.164401,
+                        -17.425781
+                  ]
+            },
+            {
+                  "name": "Mercado Gerónimo de Osorio",
+                  "text": "Dieser nach dem Gründer von Cochabamba benannte Markt ist ein lebhafter Ort für den täglichen Einkauf.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.162555,
+                        -17.39699
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Ingavi",
+                  "text": "Ein typischer Viertelmarkt, der die Bewohner der Gegend von Villa Ingavi mit frischen Produkten versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.171042,
+                        -17.390101
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Rosario",
+                  "text": "Dieser lebhafte Markt bietet eine Vielzahl von lokalen Waren für die Gemeinde Villa Rosario.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.17862,
+                        -17.398133
+                  ]
+            },
+            {
+                  "name": "Mercado El Progreso",
+                  "text": "Ein lokales Handelszentrum, das sich durch seine traditionellen Marktstände und frischen Lebensmittel auszeichnet.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.190279,
+                        -17.394697
+                  ]
+            },
+            {
+                  "name": "Mercado Coraca",
+                  "text": "Dieser Markt ist ein wichtiger Treffpunkt für den täglichen Einkauf im Viertel Coraca.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.186531,
+                        -17.398042
+                  ]
+            },
+            {
+                  "name": "Carrusel",
+                  "text": "Ein klassisches Karussell, das als charmante Vergnügungsattraktion für Familien dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.174051,
+                        -17.400445
+                  ]
+            },
+            {
+                  "name": "Renta de Botes",
+                  "text": "Hier können Besucher Tret- und Ruderboote mieten, um auf dem örtlichen See zu entspannen.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.175575,
+                        -17.399452
+                  ]
+            },
+            {
+                  "name": "Arco Chino y Dragones",
+                  "text": "Ein beeindruckender chinesischer Bogen, der von detaillierten Drachenskulpturen verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.182297,
+                        -17.387004
+                  ]
+            },
+            {
+                  "name": "Parque El Pulpo",
+                  "text": "Ein Themenpark, dessen Gestaltung und Spielgeräte sich um eine große Oktopus-Figur drehen.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.15627,
+                        -17.439525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aérospatiale SA315B Lama",
+                  "text": "A helyszínre 2016-ban került kiállítás egy klasszikus, francia építésű, egymotoros magaslati helikoptert mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.171199,
+                        -17.422416
+                  ]
+            },
+            {
+                  "name": "Curtiss C-46 Commando",
+                  "text": "Ez a repülési kiállítás egy megőrzött kétmotoros szállító repülőgépet mutat be, amelyet eredetileg katonai használatra fejlesztettek ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.171897,
+                        -17.417113
+                  ]
+            },
+            {
+                  "name": "McDonnell Douglas DC-10-10",
+                  "text": "A látogatók megtekinthetik ezt a lenyűgöző kiállított, háromhajtóműves szélestörzsű utasszállítót, amely a farokba épített hajtóművéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.169624,
+                        -17.423017
+                  ]
+            },
+            {
+                  "name": "Capilla Cementerio Cochabamba",
+                  "text": "Ez az ünnepélyes temetőkápolna csendes teret biztosít a vallási szertartások és az elmélkedés számára a temetkezési területen.",
+                  "category": "religious",
+                  "coords": [
+                        -66.159533,
+                        -17.410394
+                  ]
+            },
+            {
+                  "name": "Cementerio de Aviones AeroSur",
+                  "text": "Ez a szabadtéri múzeum repülőgép-temetőként szolgál, ahol az egykori AeroSur légitársaság forgalomból kivont gépeit állítják ki.",
+                  "category": "museum",
+                  "coords": [
+                        -66.163672,
+                        -17.429523
+                  ]
+            },
+            {
+                  "name": "Museo yGalería de Arte Gamboa",
+                  "text": "Ez a kulturális intézmény múzeumként és művészeti galériaként is működik, képzőművészeti alkotásokat és helyi kiállításokat mutatva be.",
+                  "category": "museum",
+                  "coords": [
+                        -66.166211,
+                        -17.398456
+                  ]
+            },
+            {
+                  "name": "Museo del Paracaidismo",
+                  "text": "Ez a specializált múzeum az ejtőernyőzés történetének és gyakorlatának szentelt kiállítási tárgyakat és felszereléseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -66.171888,
+                        -17.396697
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Ez a fedett színházi tér dedikált színpadot és ülőhelyeket biztosít a helyi közösségi előadások és összejövetelek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.168736,
+                        -17.404721
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Ez a szabadtéri színház kihasználja a kinti környezetet, hogy nyilvános előadásoknak, koncerteknek és kulturális eseményeknek adjon otthont a szabad ég alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.165607,
+                        -17.400343
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Coronilla",
+                  "text": "A Coronilla domb hátterében elhelyezkedő szabadtéri amfiteátrum lépcsőzetes ülőhelyeket kínál a nyilvános rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.15868,
+                        -17.406121
+                  ]
+            },
+            {
+                  "name": "Auditorio Asamblea Legislativa Cochabamba",
+                  "text": "A 2021-ben átadott formális előadóterem jogalkotói üléseknek és fontos polgári bemutatóknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.159496,
+                        -17.40067
+                  ]
+            },
+            {
+                  "name": "Paraninfo Libertad",
+                  "text": "Ez a nagyszerű díszterem elegáns színházi térként szolgál egyetemi ceremóniák, előadások és kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.160725,
+                        -17.397695
+                  ]
+            },
+            {
+                  "name": "señor de Burgos",
+                  "text": "Ez a vallási helyszín menedéket nyújt a helyi gyülekezet számára, hogy összegyűljenek a hagyományos imára és istentiszteletre.",
+                  "category": "religious",
+                  "coords": [
+                        -66.1854,
+                        -17.458609
+                  ]
+            },
+            {
+                  "name": "Casa de Oración",
+                  "text": "A teljes egészében az istentiszteletnek szentelt spirituális helyszín nyugodt környezetet biztosít a közösségi és egyéni imádkozáshoz.",
+                  "category": "religious",
+                  "coords": [
+                        -66.173355,
+                        -17.394119
+                  ]
+            },
+            {
+                  "name": "Iglesia Encuentro con Dios",
+                  "text": "A helyi keresztény közösség tagjai ebben a templomépületben gyűlnek össze rendszeres istentiszteletekre és közösségi alkalmakra.",
+                  "category": "religious",
+                  "coords": [
+                        -66.186962,
+                        -17.384208
+                  ]
+            },
+            {
+                  "name": "La Troje",
+                  "text": "Ez a 18. században épült történelmi templom máig őrzi gyarmati kori építészeti báját és spirituális jelentőségét.",
+                  "category": "religious",
+                  "coords": [
+                        -66.188339,
+                        -17.396882
+                  ]
+            },
+            {
+                  "name": "MErcado Villa Sajama",
+                  "text": "Ez a környékbeli piac kényelmes napi élelmiszer- és kiskereskedelmi áruforrást biztosít Villa Sajama lakói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.149216,
+                        -17.475046
+                  ]
+            },
+            {
+                  "name": "Feria Franca Cornelio Savedra",
+                  "text": "A szabadtéri vásárként szervezett nyüzsgő piacon ideiglenes standok sorai találhatók, amelyek a legkülönfélébb árukat árusítják.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.181944,
+                        -17.404807
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Barbara",
+                  "text": "Ennek az élénk közösségi piacnak a vásárlói a friss termékek és a helyi húsok változatos kínálatából válogathatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.156028,
+                        -17.428165
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Productores",
+                  "text": "Ezen a központi piacon a helyi termelők közvetlenül a nagyközönséggel kereskednek mezőgazdasági hozamaikkal és kézműves termékeikkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.149361,
+                        -17.436333
+                  ]
+            },
+            {
+                  "name": "Mercado 8 de Septiembre",
+                  "text": "Ez a nyüzsgő napi piac a friss élelmiszereket és háztartási cikkeket kínáló standok sűrű gyűjteményét kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.156831,
+                        -17.434342
+                  ]
+            },
+            {
+                  "name": "Mercado Mixta Ferroviaria - Tamborada",
+                  "text": "A vasút közelében található vegyes piac élénk standkínálatot nyújt, ahol élelmiszereket és általános árucikkeket egyaránt árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.146779,
+                        -17.448043
+                  ]
+            },
+            {
+                  "name": "Mercado Integración del Sur",
+                  "text": "Ez a déli regionális piac nyüzsgő kereskedelmi gyülekezőhelyként szolgál a napi élelmiszerek és helyi áruk megvásárlására.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.174121,
+                        -17.446142
+                  ]
+            },
+            {
+                  "name": "Mercado Base Aérea",
+                  "text": "Helyi piac, amely friss élelmiszereket kínál a légibázis közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.164401,
+                        -17.425781
+                  ]
+            },
+            {
+                  "name": "Mercado Gerónimo de Osorio",
+                  "text": "Ez a Cochabamba alapítójáról elnevezett piac nyüzsgő hely a mindennapi bevásárlásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.162555,
+                        -17.39699
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Ingavi",
+                  "text": "Egy jellegzetes negyedbeli piac, amely friss termékekkel látja el Villa Ingavi lakóit.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.171042,
+                        -17.390101
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Rosario",
+                  "text": "Ez a nyüzsgő piac különféle helyi árukat kínál a Villa Rosario közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.17862,
+                        -17.398133
+                  ]
+            },
+            {
+                  "name": "Mercado El Progreso",
+                  "text": "Helyi kereskedelmi központ, amely hagyományos piaci standjaival és friss élelmiszereivel tűnik ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.190279,
+                        -17.394697
+                  ]
+            },
+            {
+                  "name": "Mercado Coraca",
+                  "text": "Ez a piac fontos találkozóhely a mindennapi bevásárlásokhoz a Coraca negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.186531,
+                        -17.398042
+                  ]
+            },
+            {
+                  "name": "Carrusel",
+                  "text": "Egy klasszikus körhinta, amely bájos vidámparki látványosságként szolgál a családok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.174051,
+                        -17.400445
+                  ]
+            },
+            {
+                  "name": "Renta de Botes",
+                  "text": "Itt a látogatók vízibiciklit és csónakot bérelhetnek a helyi tavon való kikapcsolódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.175575,
+                        -17.399452
+                  ]
+            },
+            {
+                  "name": "Arco Chino y Dragones",
+                  "text": "Egy lenyűgöző kínai diadalív, amelyet részletgazdag sárkányszobrok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.182297,
+                        -17.387004
+                  ]
+            },
+            {
+                  "name": "Parque El Pulpo",
+                  "text": "Egy vidámpark, amelynek kialakítása és játékai egy nagy polipfigura köré épülnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.15627,
+                        -17.439525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aérospatiale SA315B Lama",
+                  "text": "Adăugată în 2016, această expoziție prezintă un elicopter clasic de mare altitudine, cu un singur motor, de fabricație franceză.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.171199,
+                        -17.422416
+                  ]
+            },
+            {
+                  "name": "Curtiss C-46 Commando",
+                  "text": "Această expoziție de aviație prezintă un avion de transport bimotor conservat, dezvoltat inițial pentru uz militar.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.171897,
+                        -17.417113
+                  ]
+            },
+            {
+                  "name": "McDonnell Douglas DC-10-10",
+                  "text": "Vizitatorii pot admira această expoziție impresionantă a unui avion de pasageri cu trei motoare, recunoscut pentru motorul său distinctiv montat pe coadă.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.169624,
+                        -17.423017
+                  ]
+            },
+            {
+                  "name": "Capilla Cementerio Cochabamba",
+                  "text": "Această capelă solemnă de cimitir oferă un spațiu liniștit pentru servicii religioase și reflecție asupra terenurilor de înmormântare.",
+                  "category": "religious",
+                  "coords": [
+                        -66.159533,
+                        -17.410394
+                  ]
+            },
+            {
+                  "name": "Cementerio de Aviones AeroSur",
+                  "text": "Acest muzeu în aer liber servește ca cimitir de aviație, expunând aeronavele retrase din folosință ale fostei companii aeriene AeroSur.",
+                  "category": "museum",
+                  "coords": [
+                        -66.163672,
+                        -17.429523
+                  ]
+            },
+            {
+                  "name": "Museo yGalería de Arte Gamboa",
+                  "text": "Această instituție culturală funcționează atât ca muzeu, cât și ca galerie de artă, prezentând opere de artă vizuală și expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        -66.166211,
+                        -17.398456
+                  ]
+            },
+            {
+                  "name": "Museo del Paracaidismo",
+                  "text": "Acest muzeu specializat prezintă exponate și echipamente dedicate istoriei și practicii parașutismului.",
+                  "category": "museum",
+                  "coords": [
+                        -66.171888,
+                        -17.396697
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Această sală de teatru interioară oferă o scenă dedicată și locuri pe scaune pentru spectacole și adunări ale comunității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.168736,
+                        -17.404721
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Acest teatru în aer liber își folosește cadrul exterior pentru a găzdui spectacole publice, concerte și evenimente culturale sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.165607,
+                        -17.400343
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Coronilla",
+                  "text": "Având ca fundal dealul Coronilla, acest amfiteatru în aer liber are scaune în trepte pentru evenimente publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.15868,
+                        -17.406121
+                  ]
+            },
+            {
+                  "name": "Auditorio Asamblea Legislativa Cochabamba",
+                  "text": "Înființat în 2021, acest auditoriu formal găzduiește ședințe legislative și prezentări civice importante.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.159496,
+                        -17.40067
+                  ]
+            },
+            {
+                  "name": "Paraninfo Libertad",
+                  "text": "Această mare sală de adunări servește drept spațiu elegant de teatru pentru ceremonii academice, prelegeri și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.160725,
+                        -17.397695
+                  ]
+            },
+            {
+                  "name": "señor de Burgos",
+                  "text": "Acest sit religios oferă un sanctuar pentru congregația locală, unde se adună pentru rugăciune și închinare tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -66.1854,
+                        -17.458609
+                  ]
+            },
+            {
+                  "name": "Casa de Oración",
+                  "text": "Dedicat în întregime închinării, acest loc spiritual oferă un mediu liniștit pentru rugăciunea comunală și individuală.",
+                  "category": "religious",
+                  "coords": [
+                        -66.173355,
+                        -17.394119
+                  ]
+            },
+            {
+                  "name": "Iglesia Encuentro con Dios",
+                  "text": "Membrii comunității creștine locale se adună în această clădire a bisericii pentru servicii religioase regulate și părtășie.",
+                  "category": "religious",
+                  "coords": [
+                        -66.186962,
+                        -17.384208
+                  ]
+            },
+            {
+                  "name": "La Troje",
+                  "text": "Construită în secolul al XVIII-lea, această biserică istorică își păstrează farmecul arhitectural din epoca colonială și semnificația spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        -66.188339,
+                        -17.396882
+                  ]
+            },
+            {
+                  "name": "MErcado Villa Sajama",
+                  "text": "Această piață de cartier le oferă locuitorilor din Villa Sajama o sursă zilnică convenabilă de alimente și bunuri cu amănuntul.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.149216,
+                        -17.475046
+                  ]
+            },
+            {
+                  "name": "Feria Franca Cornelio Savedra",
+                  "text": "Organizată ca un târg în aer liber, această piață animată are rânduri de tarabe temporare care vând o mare varietate de mărfuri.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.181944,
+                        -17.404807
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Barbara",
+                  "text": "Cumpărătorii de la această piață comunitară plină de viață pot explora o gamă diversă de produse proaspete și carne de proveniență locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.156028,
+                        -17.428165
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Productores",
+                  "text": "La această piață centrală, producătorii locali își vând direct recoltele agricole și bunurile manufacturate către public.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.149361,
+                        -17.436333
+                  ]
+            },
+            {
+                  "name": "Mercado 8 de Septiembre",
+                  "text": "Această piață zilnică aglomerată oferă o colecție densă de tarabe care oferă alimente proaspete și produse esențiale pentru casă.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.156831,
+                        -17.434342
+                  ]
+            },
+            {
+                  "name": "Mercado Mixta Ferroviaria - Tamborada",
+                  "text": "Situată lângă calea ferată, această piață mixtă prezintă un sortiment vibrant de tarabe care vând atât alimente, cât și mărfuri generale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.146779,
+                        -17.448043
+                  ]
+            },
+            {
+                  "name": "Mercado Integración del Sur",
+                  "text": "Această piață regională sudică acționează ca un punct de întâlnire comercial vibrant pentru achiziționarea de alimente zilnice și bunuri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.174121,
+                        -17.446142
+                  ]
+            },
+            {
+                  "name": "Mercado Base Aérea",
+                  "text": "O piață locală ce oferă produse alimentare proaspete în apropierea bazei aeriene.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.164401,
+                        -17.425781
+                  ]
+            },
+            {
+                  "name": "Mercado Gerónimo de Osorio",
+                  "text": "Denumită după fondatorul orașului Cochabamba, această piață este un loc plin de viață pentru cumpărăturile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.162555,
+                        -17.39699
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Ingavi",
+                  "text": "O piață de cartier tipică, care aprovizionează locuitorii din zona Villa Ingavi cu produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.171042,
+                        -17.390101
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Rosario",
+                  "text": "Această piață plină de viață oferă o varietate de bunuri locale pentru comunitatea Villa Rosario.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.17862,
+                        -17.398133
+                  ]
+            },
+            {
+                  "name": "Mercado El Progreso",
+                  "text": "Un centru comercial local, care se remarcă prin tarabele sale tradiționale și alimentele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.190279,
+                        -17.394697
+                  ]
+            },
+            {
+                  "name": "Mercado Coraca",
+                  "text": "Această piață este un punct de întâlnire important pentru cumpărăturile zilnice din cartierul Coraca.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.186531,
+                        -17.398042
+                  ]
+            },
+            {
+                  "name": "Carrusel",
+                  "text": "Un carusel clasic care servește drept atracție fermecătoare de agrement pentru familii.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.174051,
+                        -17.400445
+                  ]
+            },
+            {
+                  "name": "Renta de Botes",
+                  "text": "Aici vizitatorii pot închiria hidrobiciclete și bărci cu vâsle pentru a se relaxa pe lacul local.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.175575,
+                        -17.399452
+                  ]
+            },
+            {
+                  "name": "Arco Chino y Dragones",
+                  "text": "Un arc chinezesc impresionant, decorat cu sculpturi detaliate de dragoni.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.182297,
+                        -17.387004
+                  ]
+            },
+            {
+                  "name": "Parque El Pulpo",
+                  "text": "Un parc tematic ale cărui design și echipamente de joacă se concentrează în jurul unei figurine de caracatiță mari.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.15627,
+                        -17.439525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aérospatiale SA315B Lama",
+                  "text": "Added to the site in 2016, this display features a classic French-built single-engine high-altitude helicopter.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.171199,
+                        -17.422416
+                  ]
+            },
+            {
+                  "name": "Curtiss C-46 Commando",
+                  "text": "This aviation display features a preserved twin-engine transport aircraft originally developed for military use.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.171897,
+                        -17.417113
+                  ]
+            },
+            {
+                  "name": "McDonnell Douglas DC-10-10",
+                  "text": "Visitors can view this impressive display of a preserved trijet wide-body airliner known for its distinctive tail-mounted engine.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.169624,
+                        -17.423017
+                  ]
+            },
+            {
+                  "name": "Capilla Cementerio Cochabamba",
+                  "text": "This solemn cemetery chapel provides a quiet space for religious services and reflection on the burial grounds.",
+                  "category": "religious",
+                  "coords": [
+                        -66.159533,
+                        -17.410394
+                  ]
+            },
+            {
+                  "name": "Cementerio de Aviones AeroSur",
+                  "text": "This outdoor museum serves as an aviation boneyard, displaying the retired aircraft of the former AeroSur airline.",
+                  "category": "museum",
+                  "coords": [
+                        -66.163672,
+                        -17.429523
+                  ]
+            },
+            {
+                  "name": "Museo yGalería de Arte Gamboa",
+                  "text": "This cultural institution functions as both a museum and an art gallery showcasing visual artworks and local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -66.166211,
+                        -17.398456
+                  ]
+            },
+            {
+                  "name": "Museo del Paracaidismo",
+                  "text": "This specialized museum features exhibits and equipment dedicated to the history and practice of skydiving.",
+                  "category": "museum",
+                  "coords": [
+                        -66.171888,
+                        -17.396697
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "This indoor theater venue provides a dedicated stage and seating for local community performances and gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.168736,
+                        -17.404721
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "This open-air theater utilizes its outdoor setting to host public performances, concerts, and cultural events under the sky.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.165607,
+                        -17.400343
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Coronilla",
+                  "text": "Set against the backdrop of the Coronilla hill, this outdoor amphitheater features stepped seating for public events.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.15868,
+                        -17.406121
+                  ]
+            },
+            {
+                  "name": "Auditorio Asamblea Legislativa Cochabamba",
+                  "text": "Established in 2021, this formal auditorium hosts legislative meetings and important civic presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.159496,
+                        -17.40067
+                  ]
+            },
+            {
+                  "name": "Paraninfo Libertad",
+                  "text": "This grand assembly hall serves as an elegant theater space for academic ceremonies, lectures, and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.160725,
+                        -17.397695
+                  ]
+            },
+            {
+                  "name": "señor de Burgos",
+                  "text": "This religious site offers a sanctuary for the local congregation to gather for traditional prayer and worship.",
+                  "category": "religious",
+                  "coords": [
+                        -66.1854,
+                        -17.458609
+                  ]
+            },
+            {
+                  "name": "House of prayer",
+                  "text": "Dedicated entirely to worship, this spiritual venue provides a tranquil environment for communal and individual prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -66.173355,
+                        -17.394119
+                  ]
+            },
+            {
+                  "name": "Iglesia Encuentro con Dios",
+                  "text": "Members of the local Christian community gather at this church building for regular religious services and fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        -66.186962,
+                        -17.384208
+                  ]
+            },
+            {
+                  "name": "La Troje",
+                  "text": "Built during the 18th century, this historic church retains its colonial-era architectural charm and spiritual significance.",
+                  "category": "religious",
+                  "coords": [
+                        -66.188339,
+                        -17.396882
+                  ]
+            },
+            {
+                  "name": "MErcado Villa Sajama",
+                  "text": "This neighborhood marketplace provides residents of Villa Sajama with a convenient daily source for food and retail goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.149216,
+                        -17.475046
+                  ]
+            },
+            {
+                  "name": "Feria Franca Cornelio Savedra",
+                  "text": "Organized as an open-air fair, this bustling marketplace features rows of temporary stalls selling a wide variety of merchandise.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.181944,
+                        -17.404807
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Barbara",
+                  "text": "Shoppers at this lively community marketplace can browse a diverse array of fresh produce and locally sourced meats.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.156028,
+                        -17.428165
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Productores",
+                  "text": "At this central marketplace, local producers directly trade their agricultural yields and manufactured goods to the public.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.149361,
+                        -17.436333
+                  ]
+            },
+            {
+                  "name": "Mercado 8 de Septiembre",
+                  "text": "This bustling daily marketplace offers a dense collection of stalls providing fresh groceries and household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.156831,
+                        -17.434342
+                  ]
+            },
+            {
+                  "name": "Mercado Mixta Ferroviaria - Tamborada",
+                  "text": "Situated near the railway, this mixed marketplace features a vibrant assortment of stalls selling both food and general merchandise.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.146779,
+                        -17.448043
+                  ]
+            },
+            {
+                  "name": "Mercado Integración del Sur",
+                  "text": "This southern regional marketplace acts as a vibrant commercial gathering point for purchasing daily groceries and local wares.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.174121,
+                        -17.446142
+                  ]
+            },
+            {
+                  "name": "Mercado Base Aérea",
+                  "text": "A local market offering fresh food stalls near the air base.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.164401,
+                        -17.425781
+                  ]
+            },
+            {
+                  "name": "Mercado Gerónimo de Osorio",
+                  "text": "Named after the founder of Cochabamba, this marketplace is a bustling spot for daily shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.162555,
+                        -17.39699
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Ingavi",
+                  "text": "A typical neighborhood market supplying fresh produce to the residents of the Villa Ingavi area.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.171042,
+                        -17.390101
+                  ]
+            },
+            {
+                  "name": "Mercado Villa Rosario",
+                  "text": "This bustling market offers a variety of local goods for the Villa Rosario community.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.17862,
+                        -17.398133
+                  ]
+            },
+            {
+                  "name": "Mercado El Progreso",
+                  "text": "A local commercial hub characterized by its traditional market stalls and fresh food vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.190279,
+                        -17.394697
+                  ]
+            },
+            {
+                  "name": "Mercado Coraca",
+                  "text": "This marketplace is a key gathering point for daily grocery shopping in the Coraca neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.186531,
+                        -17.398042
+                  ]
+            },
+            {
+                  "name": "Carrusel",
+                  "text": "A classic carousel ride that serves as a charming amusement attraction for families.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.174051,
+                        -17.400445
+                  ]
+            },
+            {
+                  "name": "Renta de Botes",
+                  "text": "A boat rental station where visitors can hire pedal and rowboats to relax on the local lake.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.175575,
+                        -17.399452
+                  ]
+            },
+            {
+                  "name": "Arco Chino y Dragones",
+                  "text": "An impressive Chinese archway decorated with intricate dragon sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.182297,
+                        -17.387004
+                  ]
+            },
+            {
+                  "name": "Parque El Pulpo",
+                  "text": "A themed park whose layout and play structures are centered around a large octopus figure.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.15627,
+                        -17.439525
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-C",
     coords: [-66.1633, -17.4022],
@@ -1810,7 +10936,1204 @@ image: "/poi-images/bo-kalasasaya-history-v2.webp",
       fr: ["La bataille de Coronilla est la seule dans l'histoire de l'Amérique latine à avoir été menée presque exclusivement par des femmes.", "La colline sur laquelle se dresse le monument offre un panorama complet sur la vallée de Cochabamba.", "L'héroïne Manuela Gandarillas était une femme âgée et aveugle qui mena l'assaut.", "Le monument est un lieu de pèlerinage patriotique chaque année en mai."],
     }, image: "/poi-images/bo-heroinas-coronilla-history-v2.webp"},
   {
-    id: "bo-palacio-portales-history-v2",
+    id: "bo-palacio-portales-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palacio Portales",
+                  "text": "Dieses 1927 fertiggestellte und vom Architekten Eugène Bliault entworfene, denkmalgeschützte Schloss besticht durch seinen markanten eklektischen Architekturstil.",
+                  "category": "castle",
+                  "coords": [
+                        -66.152782,
+                        -17.374901
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural Alcide d'Orbigny",
+                  "text": "Dieses im Januar 2003 eröffnete Naturkundemuseum widmet sich der Artenvielfalt der Region und ehrt den französischen Naturforscher Alcide d'Orbigny.",
+                  "category": "museum",
+                  "coords": [
+                        -66.153109,
+                        -17.373798
+                  ]
+            },
+            {
+                  "name": "Cochabamba Bolivia Temple",
+                  "text": "Der Cochabamba-Bolivien-Tempel ist ein markantes christliches Heiligtum, das die klassische, elegante religiöse Architektur der Heiligen der Letzten Tage aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.147584,
+                        -17.363658
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestro Señor de Exaltación de la Recoleta",
+                  "text": "Diese denkmalgeschützte Pfarrkirche in La Recoleta ist für ihre unverwechselbare religiöse Architektur und ihre große lokale Bedeutung bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        -66.152114,
+                        -17.377707
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Ubuntu",
+                  "text": "Die im August 2023 eröffnete Galería de Arte Ubuntu ist ein zeitgenössischer Raum, der der Präsentation moderner visueller Ausdrucksformen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -66.167039,
+                        -17.364855
+                  ]
+            },
+            {
+                  "name": "Museo de Autos Clásicos Carlos Salinas",
+                  "text": "Dieses spezialisierte Museum zeigt eine umfangreiche und sorgfältig erhaltene Sammlung von Oldtimern und historischen Automobilen.",
+                  "category": "museum",
+                  "coords": [
+                        -66.158942,
+                        -17.358425
+                  ]
+            },
+            {
+                  "name": "Galería Paseo Aranjuez",
+                  "text": "Die Galería Paseo Aranjuez ist eine elegante Kunstgalerie in einem Einkaufskomplex, die eine Vielzahl lokaler Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -66.155054,
+                        -17.373215
+                  ]
+            },
+            {
+                  "name": "Casona Mayorazgo",
+                  "text": "Dieses historische Kolonialherrenhaus aus der Zeit um 1571 dient heute als Museum zur Erhaltung des lokalen Kulturerbes von Cochabamba.",
+                  "category": "museum",
+                  "coords": [
+                        -66.174574,
+                        -17.365326
+                  ]
+            },
+            {
+                  "name": "Monumento Al Deportista",
+                  "text": "Das 1968 errichtete Monumento Al Deportista ist ein markantes Denkmal, das sportliche Leistungen und die lokale Sportkultur feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -66.160584,
+                        -17.380095
+                  ]
+            },
+            {
+                  "name": "Capilla Seminario Mayor Arquidiocesano San Luis",
+                  "text": "Diese monumentale Kapelle ist mit dem erzbischöflichen Priesterseminar von San Luis verbunden und weist traditionelle kirchliche Gestaltungselemente auf.",
+                  "category": "historical",
+                  "coords": [
+                        -66.148812,
+                        -17.382204
+                  ]
+            },
+            {
+                  "name": "Creatio",
+                  "text": "Creatio ist ein dynamisches Kunstzentrum, das sich auf die Förderung kreativer Workshops, Ausstellungen und kultureller Darbietungen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.152563,
+                        -17.370328
+                  ]
+            },
+            {
+                  "name": "Centro de Literatura Boliviana",
+                  "text": "Das Centro de Literatura Boliviana ist ein Kunst- und Kulturzentrum, das sich der Förderung, dem Studium und der Erhaltung bolivianischer literarischer Werke widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.15369,
+                        -17.374713
+                  ]
+            },
+            {
+                  "name": "La Casa Negra",
+                  "text": "La Casa Negra ist ein unverwechselbares Kunstzentrum, das einen speziellen Raum für unabhängige kulturelle Veranstaltungen und zeitgenössischen künstlerischen Ausdruck bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153508,
+                        -17.379287
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Dieses lokale Auditorium verfügt über eine abgestufte Sitzordnung und ist für eine Vielzahl von Theater- und Musikaufführungen ausgelegt.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153046,
+                        -17.380681
+                  ]
+            },
+            {
+                  "name": "Auditorio Christian Valbert",
+                  "text": "Das Auditorio Christian Valbert ist ein spezieller Veranstaltungsort, der auf Theaterproduktionen zugeschnitten ist und zu Ehren seines kulturellen Wohltäters benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153389,
+                        -17.383106
+                  ]
+            },
+            {
+                  "name": "ICREA Casa Cultural",
+                  "text": "Die im Oktober 2022 gegründete ICREA Casa Cultural dient als lebendiger Knotenpunkt für Gemeinschaftskunst und gemeinschaftliche kreative Initiativen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.163897,
+                        -17.377954
+                  ]
+            },
+            {
+                  "name": "Das Deutsch – Bolivianische Kulturinstitut",
+                  "text": "Das Instituto Cultural Boliviano Alemán ist ein binationales Kunstzentrum, das den kulturellen, künstlerischen und sprachlichen Austausch zwischen Bolivien und Deutschland aktiv fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.158305,
+                        -17.374301
+                  ]
+            },
+            {
+                  "name": "Auditorio Universidad Católica Boliviana",
+                  "text": "Das Auditorio Universidad Católica Boliviana ist ein bedeutendes Universitätstheater, in dem häufig wissenschaftliche Vorträge und kulturelle Präsentationen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.143987,
+                        -17.372005
+                  ]
+            },
+            {
+                  "name": "El Camino Antiguo",
+                  "text": "El Camino Antiguo ist ein lokales Gotteshaus, das der umliegenden Nachbarschaft einen eigenen Raum für spirituelle Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -66.181154,
+                        -17.375214
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "San Lorenzo ist ein traditionelles Gotteshaus, das den spirituellen Bedürfnissen und Gemeindetreffen seiner örtlichen Pfarrei dient.",
+                  "category": "religious",
+                  "coords": [
+                        -66.171187,
+                        -17.380221
+                  ]
+            },
+            {
+                  "name": "Ekklesía Cochabamba",
+                  "text": "Ekklesía Cochabamba ist eine zeitgenössische christliche Kirche, die als aktiver spiritueller Versammlungsort für die lokale Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -66.160188,
+                        -17.383265
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana de Cala Cala",
+                  "text": "Die Iglesia Santa Ana de Cala Cala ist eine charmante katholische Gemeindekirche mit traditioneller religiöser Architektur im Viertel Cala Cala.",
+                  "category": "religious",
+                  "coords": [
+                        -66.163866,
+                        -17.369569
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser moderne Königreichssaal bietet der örtlichen Versammlung der Zeugen Jehovas einen eigenen religiösen Versammlungsraum und ein Bildungszentrum.",
+                  "category": "religious",
+                  "coords": [
+                        -66.158672,
+                        -17.360164
+                  ]
+            },
+            {
+                  "name": "Mercado Parque de las Etnias",
+                  "text": "Der Mercado Parque de las Etnias ist ein belebter Markt unter freiem Himmel, der sich auf traditionelles Kunsthandwerk, Textilien und Waren verschiedener lokaler ethnischer Gruppen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.185478,
+                        -17.375611
+                  ]
+            },
+            {
+                  "name": "Mercado de Productos de Contrabando",
+                  "text": "Dieser informelle und geschäftige Markt ist vor Ort dafür bekannt, eine große, unregulierte Auswahl an importierten und kommerziellen Waren anzubieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.180754,
+                        -17.373646
+                  ]
+            },
+            {
+                  "name": "Feria Sabatina Ecológica",
+                  "text": "Die Feria Sabatina Ecológica ist ein lebendiger Samstagsmarkt, der dem Verkauf von frischen, lokal angebauten ökologischen Produkten und handwerklichen Lebensmitteln gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.176197,
+                        -17.380516
+                  ]
+            },
+            {
+                  "name": "Feria Franca Villarroel",
+                  "text": "Dieser Freiluftmarkt in Cochabamba vereint lokale Händler, die frische Produkte und Alltagsgüter anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.159148,
+                        -17.372581
+                  ]
+            },
+            {
+                  "name": "Feria Franca Calampampa",
+                  "text": "Ein lebhafter Marktplatz, auf dem Händler aus der Region Obst, Gemüse und Haushaltswaren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.171764,
+                        -17.365327
+                  ]
+            },
+            {
+                  "name": "Feria Franca Taquiña",
+                  "text": "Dieser Markt nahe dem Taquiña-Viertel bietet eine Vielzahl an landwirtschaftlichen Produkten aus der Umgebung an.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.178876,
+                        -17.342431
+                  ]
+            },
+            {
+                  "name": "Mercado Seccional Cala Cala",
+                  "text": "Diese überdachte Markthalle im Bezirk Cala Cala versorgt die Bewohner mit Grundnahrungsmitteln, Fleisch und frischen Anden-Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.161729,
+                        -17.372119
+                  ]
+            },
+            {
+                  "name": "Mercado Barrio Colquiri",
+                  "text": "Ein lokaler Markt, der die Nachbarschaft Colquiri mit frischen Lebensmitteln und Waren des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.182171,
+                        -17.357635
+                  ]
+            },
+            {
+                  "name": "Mercado 10 de Febrero",
+                  "text": "Benannt nach einem historischen Datum, versorgt dieser belebte Marktplatz die Gemeinde mit frischen Lebensmitteln und Handwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.182678,
+                        -17.361025
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de Mayo",
+                  "text": "Ein lebhafter lokaler Markt, der sich auf frische bolivianische Produkte und alltägliche Handelsgüter spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.176307,
+                        -17.364542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palacio Portales",
+                  "text": "Az Eugène Bliault építész által tervezett és 1927-ben elkészült, műemlékvédelem alatt álló kastély lenyűgöző eklektikus építészeti stílussal büszkélkedhet.",
+                  "category": "castle",
+                  "coords": [
+                        -66.152782,
+                        -17.374901
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural Alcide d'Orbigny",
+                  "text": "A 2003 januárjában megnyílt természettudományi múzeum a régió biológiai sokféleségének szenteli magát, és Alcide d'Orbigny francia természettudósnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -66.153109,
+                        -17.373798
+                  ]
+            },
+            {
+                  "name": "Cochabamba Bolivia Temple",
+                  "text": "A Cochabamba Bolívia Templom egy kiemelkedő keresztény szentély, amely az Utolsó Napi Szentek klasszikus, elegáns vallási építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.147584,
+                        -17.363658
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestro Señor de Exaltación de la Recoleta",
+                  "text": "Ez a műemlékvédelem alatt álló La Recoleta-i plébániatemplom jellegzetes vallási építészetéről és nagy helyi jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -66.152114,
+                        -17.377707
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Ubuntu",
+                  "text": "A 2023 augusztusában megnyílt Galería de Arte Ubuntu egy kortárs tér, amely a modern vizuális kifejezésmódok bemutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -66.167039,
+                        -17.364855
+                  ]
+            },
+            {
+                  "name": "Museo de Autos Clásicos Carlos Salinas",
+                  "text": "Ez a specializált múzeum klasszikus és veterán autók kiterjedt és gondosan megőrzött gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -66.158942,
+                        -17.358425
+                  ]
+            },
+            {
+                  "name": "Galería Paseo Aranjuez",
+                  "text": "A Galería Paseo Aranjuez egy elegáns művészeti galéria egy bevásárlóközpontban, amely különféle helyi alkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -66.155054,
+                        -17.373215
+                  ]
+            },
+            {
+                  "name": "Casona Mayorazgo",
+                  "text": "A körülbelül 1571-ből származó történelmi gyarmati kúria ma múzeumként működik, és a helyi cochabambai örökséget őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -66.174574,
+                        -17.365326
+                  ]
+            },
+            {
+                  "name": "Monumento Al Deportista",
+                  "text": "Az 1968-ban emelt Monumento Al Deportista egy kiemelkedő emlékmű, amely a sporteredményeket és a helyi sportkultúrát ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -66.160584,
+                        -17.380095
+                  ]
+            },
+            {
+                  "name": "Capilla Seminario Mayor Arquidiocesano San Luis",
+                  "text": "Ez a monumentális kápolna a San Luis Főegyházmegyei Szemináriumhoz tartozik, és hagyományos egyházi tervezési elemekkel rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        -66.148812,
+                        -17.382204
+                  ]
+            },
+            {
+                  "name": "Creatio",
+                  "text": "A Creatio egy dinamikus művészeti központ, amely a kreatív workshopok, kiállítások és kulturális előadások ösztönzésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.152563,
+                        -17.370328
+                  ]
+            },
+            {
+                  "name": "Centro de Literatura Boliviana",
+                  "text": "A Centro de Literatura Boliviana egy művészeti és kulturális központ, amely a bolíviai irodalmi művek népszerűsítésének, tanulmányozásának és megőrzésének szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.15369,
+                        -17.374713
+                  ]
+            },
+            {
+                  "name": "La Casa Negra",
+                  "text": "A La Casa Negra egy jellegzetes művészeti központ, amely dedikált teret biztosít független kulturális események és kortárs művészeti megnyilvánulások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153508,
+                        -17.379287
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Ez a helyi nézőtér lépcsőzetes ülésrenddel rendelkezik, amelyet különféle színházi és zenei előadások lebonyolítására terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153046,
+                        -17.380681
+                  ]
+            },
+            {
+                  "name": "Auditorio Christian Valbert",
+                  "text": "Az Auditorio Christian Valbert egy speciális előadóterem, amelyet színházi produkciókra szabtak, és kulturális jótevője tiszteletére neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153389,
+                        -17.383106
+                  ]
+            },
+            {
+                  "name": "ICREA Casa Cultural",
+                  "text": "A 2022 októberében alapított ICREA Casa Cultural a közösségi művészetek és az együttműködésen alapuló kreatív kezdeményezések élénk központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.163897,
+                        -17.377954
+                  ]
+            },
+            {
+                  "name": "Instituto Cultural Boliviano Alemán",
+                  "text": "Az Instituto Cultural Boliviano Alemán egy kétnemzetiségű művészeti központ, amely aktívan támogatja Bolívia és Németország közötti kulturális, művészeti és nyelvi cserét.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.158305,
+                        -17.374301
+                  ]
+            },
+            {
+                  "name": "Auditorio Universidad Católica Boliviana",
+                  "text": "Az Auditorio Universidad Católica Boliviana egy kiemelkedő egyetemi színház, amely gyakran ad otthont tudományos előadásoknak és kulturális bemutatóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.143987,
+                        -17.372005
+                  ]
+            },
+            {
+                  "name": "El Camino Antiguo",
+                  "text": "Az El Camino Antiguo egy helyi istentiszteleti hely, amely dedikált teret biztosít a lelki elmélyüléshez a környező környék számára.",
+                  "category": "religious",
+                  "coords": [
+                        -66.181154,
+                        -17.375214
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "A San Lorenzo egy hagyományos istentiszteleti hely, amely a helyi plébánia folyamatos spirituális szükségleteit és közösségi összejöveteleit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -66.171187,
+                        -17.380221
+                  ]
+            },
+            {
+                  "name": "Ekklesía Cochabamba",
+                  "text": "Az Ekklesía Cochabamba egy kortárs keresztény templom, amely a helyi gyülekezet aktív spirituális gyülekezési helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -66.160188,
+                        -17.383265
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana de Cala Cala",
+                  "text": "Az Iglesia Santa Ana de Cala Cala egy hangulatos környékbeli katolikus templom, amely hagyományos vallási építészettel büszkélkedhet a Cala Cala negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -66.163866,
+                        -17.369569
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ez a modern Királyság-terem dedikált vallási találkozóhelyet és oktatási központot biztosít a helyi Jehova Tanúi gyülekezet számára.",
+                  "category": "religious",
+                  "coords": [
+                        -66.158672,
+                        -17.360164
+                  ]
+            },
+            {
+                  "name": "Mercado Parque de las Etnias",
+                  "text": "A Mercado Parque de las Etnias egy nyüzsgő szabadtéri piac, amely a különböző helyi etnikai csoportokat képviselő hagyományos kézműves termékekre, textilekre és árukra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.185478,
+                        -17.375611
+                  ]
+            },
+            {
+                  "name": "Mercado de Productos de Contrabando",
+                  "text": "Ez az informális és forgalmas piac helyi szinten arról ismert, hogy az importált és kereskedelmi áruk széles, nem szabályozott választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.180754,
+                        -17.373646
+                  ]
+            },
+            {
+                  "name": "Feria Sabatina Ecológica",
+                  "text": "A Feria Sabatina Ecológica egy nyüzsgő szombati piac, amely friss, helyben termesztett ökológiai termékek és kézműves élelmiszerek árusításának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.176197,
+                        -17.380516
+                  ]
+            },
+            {
+                  "name": "Feria Franca Villarroel",
+                  "text": "Ez a cochabambai szabadtéri piac helyi árusokat fog össze, akik friss termékeket és mindennapi cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.159148,
+                        -17.372581
+                  ]
+            },
+            {
+                  "name": "Feria Franca Calampampa",
+                  "text": "Élénk piac, ahol a régió árusai gyümölcsöt, zöldséget és háztartási cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.171764,
+                        -17.365327
+                  ]
+            },
+            {
+                  "name": "Feria Franca Taquiña",
+                  "text": "A Taquiña negyed közelében található piac számos környékbeli mezőgazdasági terméket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.178876,
+                        -17.342431
+                  ]
+            },
+            {
+                  "name": "Mercado Seccional Cala Cala",
+                  "text": "A Cala Cala kerületben található fedett piac alapvető élelmiszerekkel, húsokkal és friss andoki termékekkel látja el a lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.161729,
+                        -17.372119
+                  ]
+            },
+            {
+                  "name": "Mercado Barrio Colquiri",
+                  "text": "Helyi piac, amely a Colquiri környékét látja el friss élelmiszerekkel és mindennapi cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.182171,
+                        -17.357635
+                  ]
+            },
+            {
+                  "name": "Mercado 10 de Febrero",
+                  "text": "A történelmi dátumról elnevezett nyüzsgő piac friss élelmiszerekkel és kézműves termékekkel látja el a közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.182678,
+                        -17.361025
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de Mayo",
+                  "text": "Nyüzsgő helyi piac, amely a friss bolíviai termékekre és a mindennapi árukra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.176307,
+                        -17.364542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palacio Portales",
+                  "text": "Proiectat de arhitectul Eugène Bliault și finalizat în 1927, acest castel de patrimoniu prezintă un stil arhitectural eclectic impresionant.",
+                  "category": "castle",
+                  "coords": [
+                        -66.152782,
+                        -17.374901
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural Alcide d'Orbigny",
+                  "text": "Deschis în ianuarie 2003, acest muzeu de istorie naturală este dedicat biodiversității regiunii și îl onorează pe naturalistul francez Alcide d'Orbigny.",
+                  "category": "museum",
+                  "coords": [
+                        -66.153109,
+                        -17.373798
+                  ]
+            },
+            {
+                  "name": "Cochabamba Bolivia Temple",
+                  "text": "Templul Cochabamba Bolivia este un sanctuar creștin proeminent, caracterizat de arhitectura religioasă clasică și elegantă a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.147584,
+                        -17.363658
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestro Señor de Exaltación de la Recoleta",
+                  "text": "Această biserică parohială de patrimoniu din La Recoleta este cunoscută pentru arhitectura sa religioasă distinctivă și importanța locală puternică.",
+                  "category": "religious",
+                  "coords": [
+                        -66.152114,
+                        -17.377707
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Ubuntu",
+                  "text": "Deschisă în august 2023, Galería de Arte Ubuntu este un spațiu contemporan dedicat prezentării expresiilor vizuale moderne.",
+                  "category": "museum",
+                  "coords": [
+                        -66.167039,
+                        -17.364855
+                  ]
+            },
+            {
+                  "name": "Museo de Autos Clásicos Carlos Salinas",
+                  "text": "Acest muzeu specializat expune o colecție vastă și atent conservată de automobile clasice și de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        -66.158942,
+                        -17.358425
+                  ]
+            },
+            {
+                  "name": "Galería Paseo Aranjuez",
+                  "text": "Galería Paseo Aranjuez este o galerie de artă elegantă situată într-un complex comercial, expunând o varietate de opere de artă locale.",
+                  "category": "museum",
+                  "coords": [
+                        -66.155054,
+                        -17.373215
+                  ]
+            },
+            {
+                  "name": "Casona Mayorazgo",
+                  "text": "Datând din aproximativ 1571, acest conac colonial istoric servește acum ca muzeu care păstrează patrimoniul local din Cochabamba.",
+                  "category": "museum",
+                  "coords": [
+                        -66.174574,
+                        -17.365326
+                  ]
+            },
+            {
+                  "name": "Monumento Al Deportista",
+                  "text": "Ridicat în 1968, Monumento Al Deportista este un monument proeminent care celebrează performanțele atletice și cultura sportivă locală.",
+                  "category": "historical",
+                  "coords": [
+                        -66.160584,
+                        -17.380095
+                  ]
+            },
+            {
+                  "name": "Capilla Seminario Mayor Arquidiocesano San Luis",
+                  "text": "Această capelă monumentală este asociată cu Seminarul Major Arhidiecezan din San Luis, prezentând elemente de design ecleziastic tradițional.",
+                  "category": "historical",
+                  "coords": [
+                        -66.148812,
+                        -17.382204
+                  ]
+            },
+            {
+                  "name": "Creatio",
+                  "text": "Creatio este un centru de arte dinamic, axat pe promovarea atelierelor creative, a expozițiilor și a spectacolelor culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.152563,
+                        -17.370328
+                  ]
+            },
+            {
+                  "name": "Centro de Literatura Boliviana",
+                  "text": "Centro de Literatura Boliviana este un centru de artă și cultură dedicat promovării, studierii și conservării operelor literare boliviene.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.15369,
+                        -17.374713
+                  ]
+            },
+            {
+                  "name": "La Casa Negra",
+                  "text": "La Casa Negra este un centru de arte distinctiv care oferă un spațiu dedicat evenimentelor culturale independente și expresiei artistice contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153508,
+                        -17.379287
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Acest auditoriu local are o dispunere în trepte a scaunelor, concepută pentru a găzdui o varietate de spectacole teatrale și muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153046,
+                        -17.380681
+                  ]
+            },
+            {
+                  "name": "Auditorio Christian Valbert",
+                  "text": "Auditorio Christian Valbert este o sală de spectacole specializată, adaptată pentru producții teatrale și numită în onoarea binefăcătorului său cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153389,
+                        -17.383106
+                  ]
+            },
+            {
+                  "name": "ICREA Casa Cultural",
+                  "text": "Înființată în octombrie 2022, ICREA Casa Cultural servește drept centru vibrant pentru artele comunitare și inițiativele creative de colaborare.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.163897,
+                        -17.377954
+                  ]
+            },
+            {
+                  "name": "Instituto Cultural Boliviano Alemán",
+                  "text": "Instituto Cultural Boliviano Alemán este un centru de arte binațional care promovează activ schimbul cultural, artistic și lingvistic între Bolivia și Germania.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.158305,
+                        -17.374301
+                  ]
+            },
+            {
+                  "name": "Auditorio Universidad Católica Boliviana",
+                  "text": "Auditorio Universidad Católica Boliviana este un teatru universitar proeminent care găzduiește frecvent prelegeri academice și prezentări culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.143987,
+                        -17.372005
+                  ]
+            },
+            {
+                  "name": "El Camino Antiguo",
+                  "text": "El Camino Antiguo este un lăcaș de cult local care oferă un spațiu dedicat reflecției spirituale pentru cartierul înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        -66.181154,
+                        -17.375214
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "San Lorenzo este un lăcaș de cult tradițional care deservește nevoile spirituale continue și adunările comunității din parohia sa locală.",
+                  "category": "religious",
+                  "coords": [
+                        -66.171187,
+                        -17.380221
+                  ]
+            },
+            {
+                  "name": "Ekklesía Cochabamba",
+                  "text": "Ekklesía Cochabamba este o biserică creștină contemporană care servește ca un loc activ de adunare spirituală pentru congregația locală.",
+                  "category": "religious",
+                  "coords": [
+                        -66.160188,
+                        -17.383265
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana de Cala Cala",
+                  "text": "Iglesia Santa Ana de Cala Cala este o biserică catolică fermecătoare de cartier, care prezintă o arhitectură religioasă tradițională în districtul Cala Cala.",
+                  "category": "religious",
+                  "coords": [
+                        -66.163866,
+                        -17.369569
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Această Sală a Regatului modernă oferă un spațiu dedicat de întâlnire religioasă și un centru educațional pentru congregația locală a Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -66.158672,
+                        -17.360164
+                  ]
+            },
+            {
+                  "name": "Mercado Parque de las Etnias",
+                  "text": "Mercado Parque de las Etnias este o piață în aer liber plină de viață, axată pe meșteșuguri tradiționale, textile și bunuri care reprezintă diverse grupuri etnice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.185478,
+                        -17.375611
+                  ]
+            },
+            {
+                  "name": "Mercado de Productos de Contrabando",
+                  "text": "Această piață informală și aglomerată este cunoscută pe plan local pentru oferta sa largă și nereglementată de bunuri de import și comerciale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.180754,
+                        -17.373646
+                  ]
+            },
+            {
+                  "name": "Feria Sabatina Ecológica",
+                  "text": "Feria Sabatina Ecológica este o piață de sâmbătă vibrantă, dedicată vânzării de produse ecologice proaspete, cultivate local, și de alimente artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.176197,
+                        -17.380516
+                  ]
+            },
+            {
+                  "name": "Feria Franca Villarroel",
+                  "text": "Această piață în aer liber din Cochabamba reunește comercianți locali care vând produse proaspete și bunuri de uz curent.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.159148,
+                        -17.372581
+                  ]
+            },
+            {
+                  "name": "Feria Franca Calampampa",
+                  "text": "O piață de cartier animată unde comercianții din regiune oferă fructe, legume și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.171764,
+                        -17.365327
+                  ]
+            },
+            {
+                  "name": "Feria Franca Taquiña",
+                  "text": "Această piață situată în apropiere de zona Taquiña oferă o varietate de produse agricole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.178876,
+                        -17.342431
+                  ]
+            },
+            {
+                  "name": "Mercado Seccional Cala Cala",
+                  "text": "Această piață acoperită din cartierul Cala Cala aprovizionează locuitorii cu alimente de bază, carne și produse proaspete andine.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.161729,
+                        -17.372119
+                  ]
+            },
+            {
+                  "name": "Mercado Barrio Colquiri",
+                  "text": "O piață locală care deservește cartierul Colquiri cu alimente proaspete și produse de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.182171,
+                        -17.357635
+                  ]
+            },
+            {
+                  "name": "Mercado 10 de Febrero",
+                  "text": "Numită după o dată istorică, această piață animată aprovizionează comunitatea cu alimente proaspete și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.182678,
+                        -17.361025
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de Mayo",
+                  "text": "O piață locală vibrantă dedicată produselor proaspete boliviene și bunurilor comerciale de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.176307,
+                        -17.364542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palacio Portales",
+                  "text": "Designed by architect Eugène Bliault and completed in 1927, this heritage-listed castle features a striking eclectic architectural style.",
+                  "category": "castle",
+                  "coords": [
+                        -66.152782,
+                        -17.374901
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural Alcide d'Orbigny",
+                  "text": "Opened in January 2003, this natural history museum is dedicated to the region's biodiversity and honors the French naturalist Alcide d'Orbigny.",
+                  "category": "museum",
+                  "coords": [
+                        -66.153109,
+                        -17.373798
+                  ]
+            },
+            {
+                  "name": "Cochabamba Bolivia Temple",
+                  "text": "The Cochabamba Bolivia Temple is a prominent Christian sanctuary featuring the classic, elegant religious architecture of the Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.147584,
+                        -17.363658
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestro Señor de Exaltación de la Recoleta",
+                  "text": "This heritage-listed parish church in La Recoleta is known for its distinctive religious architecture and strong local significance.",
+                  "category": "religious",
+                  "coords": [
+                        -66.152114,
+                        -17.377707
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Ubuntu",
+                  "text": "Opened in August 2023, the Galería de Arte Ubuntu is a contemporary space dedicated to showcasing modern visual expressions.",
+                  "category": "museum",
+                  "coords": [
+                        -66.167039,
+                        -17.364855
+                  ]
+            },
+            {
+                  "name": "Museo de Autos Clásicos Carlos Salinas",
+                  "text": "This specialized museum displays an extensive and carefully preserved collection of classic and vintage automobiles.",
+                  "category": "museum",
+                  "coords": [
+                        -66.158942,
+                        -17.358425
+                  ]
+            },
+            {
+                  "name": "Galería Paseo Aranjuez",
+                  "text": "Galería Paseo Aranjuez is an elegant art gallery situated within a shopping complex, exhibiting a variety of local artworks.",
+                  "category": "museum",
+                  "coords": [
+                        -66.155054,
+                        -17.373215
+                  ]
+            },
+            {
+                  "name": "Casona Mayorazgo",
+                  "text": "Dating back to approximately 1571, this historic colonial mansion now serves as a museum preserving local Cochabamba heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -66.174574,
+                        -17.365326
+                  ]
+            },
+            {
+                  "name": "Monumento Al Deportista",
+                  "text": "Erected in 1968, the Monumento Al Deportista is a prominent monument celebrating athletic achievement and local sporting culture.",
+                  "category": "historical",
+                  "coords": [
+                        -66.160584,
+                        -17.380095
+                  ]
+            },
+            {
+                  "name": "Capilla Seminario Mayor Arquidiocesano San Luis",
+                  "text": "This monumental chapel is associated with the Archdiocesan Major Seminary of San Luis, featuring traditional ecclesiastical design elements.",
+                  "category": "historical",
+                  "coords": [
+                        -66.148812,
+                        -17.382204
+                  ]
+            },
+            {
+                  "name": "Creatio",
+                  "text": "Creatio is a dynamic arts center focused on fostering creative workshops, exhibitions, and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.152563,
+                        -17.370328
+                  ]
+            },
+            {
+                  "name": "Centro de Literatura Boliviana",
+                  "text": "The Centro de Literatura Boliviana is an arts and cultural hub dedicated to the promotion, study, and preservation of Bolivian literary works.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.15369,
+                        -17.374713
+                  ]
+            },
+            {
+                  "name": "La Casa Negra",
+                  "text": "La Casa Negra is a distinctive arts center providing a dedicated space for independent cultural events and contemporary artistic expression.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153508,
+                        -17.379287
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "This local auditorium features a tiered seating arrangement designed to host a variety of theatrical and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153046,
+                        -17.380681
+                  ]
+            },
+            {
+                  "name": "Auditorio Christian Valbert",
+                  "text": "The Auditorio Christian Valbert is a specialized performance venue tailored for theatrical productions and named in honor of its cultural benefactor.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.153389,
+                        -17.383106
+                  ]
+            },
+            {
+                  "name": "ICREA Casa Cultural",
+                  "text": "Established in October 2022, the ICREA Casa Cultural serves as a vibrant hub for community arts and collaborative creative initiatives.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.163897,
+                        -17.377954
+                  ]
+            },
+            {
+                  "name": "Instituto Cultural Boliviano Alemán",
+                  "text": "The Instituto Cultural Boliviano Alemán is a binational arts center that actively promotes cultural, artistic, and linguistic exchange between Bolivia and Germany.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.158305,
+                        -17.374301
+                  ]
+            },
+            {
+                  "name": "Auditorio Universidad Católica Boliviana",
+                  "text": "The Auditorio Universidad Católica Boliviana is a prominent university theater frequently hosting academic lectures and cultural presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.143987,
+                        -17.372005
+                  ]
+            },
+            {
+                  "name": "El Camino Antiguo",
+                  "text": "El Camino Antiguo is a local place of worship providing a dedicated space for spiritual reflection for the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -66.181154,
+                        -17.375214
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "San Lorenzo is a traditional place of worship serving the ongoing spiritual needs and community gatherings of its local parish.",
+                  "category": "religious",
+                  "coords": [
+                        -66.171187,
+                        -17.380221
+                  ]
+            },
+            {
+                  "name": "Ekklesía Cochabamba",
+                  "text": "Ekklesía Cochabamba is a contemporary Christian church serving as an active spiritual gathering place for the local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -66.160188,
+                        -17.383265
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Ana de Cala Cala",
+                  "text": "The Iglesia Santa Ana de Cala Cala is a charming neighborhood Catholic church featuring traditional religious architecture in the Cala Cala district.",
+                  "category": "religious",
+                  "coords": [
+                        -66.163866,
+                        -17.369569
+                  ]
+            },
+            {
+                  "name": "Kimdom hall of Jehova's Witnesses",
+                  "text": "This modern Kingdom Hall provides a dedicated religious meeting space and educational center for the local Jehovah's Witnesses congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -66.158672,
+                        -17.360164
+                  ]
+            },
+            {
+                  "name": "Mercado Parque de las Etnias",
+                  "text": "The Mercado Parque de las Etnias is a bustling outdoor marketplace focused on traditional crafts, textiles, and goods representing various local ethnic groups.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.185478,
+                        -17.375611
+                  ]
+            },
+            {
+                  "name": "Mercado de Productos de Contrabando",
+                  "text": "This informal and busy marketplace is known locally for offering a wide, unregulated array of imported and commercial goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.180754,
+                        -17.373646
+                  ]
+            },
+            {
+                  "name": "Feria Sabatina Ecológica",
+                  "text": "The Feria Sabatina Ecológica is a vibrant Saturday market dedicated to the sale of fresh, locally grown ecological produce and artisanal foods.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.176197,
+                        -17.380516
+                  ]
+            },
+            {
+                  "name": "Feria Franca Villarroel",
+                  "text": "This open-air market in Cochabamba brings together local vendors selling fresh produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.159148,
+                        -17.372581
+                  ]
+            },
+            {
+                  "name": "Feria Franca Calampampa",
+                  "text": "A neighborhood marketplace providing regional fruits, vegetables, and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.171764,
+                        -17.365327
+                  ]
+            },
+            {
+                  "name": "Feria Franca Taquiña",
+                  "text": "A community market situated near the Taquiña area, offering local agricultural products.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.178876,
+                        -17.342431
+                  ]
+            },
+            {
+                  "name": "Mercado Seccional Cala Cala",
+                  "text": "Serving the Cala Cala district, this enclosed market provides daily staples, meats, and fresh Andean produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.161729,
+                        -17.372119
+                  ]
+            },
+            {
+                  "name": "Mercado Barrio Colquiri",
+                  "text": "A local market serving the Colquiri neighborhood with fresh groceries and everyday items.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.182171,
+                        -17.357635
+                  ]
+            },
+            {
+                  "name": "Mercado 10 de Febrero",
+                  "text": "Named after a historic date, this bustling marketplace supplies the community with fresh foods and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.182678,
+                        -17.361025
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de Mayo",
+                  "text": "A vibrant local market dedicated to fresh Bolivian produce and everyday commercial goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.176307,
+                        -17.364542
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "BO-C",
     coords: [-66.1558, -17.3776],

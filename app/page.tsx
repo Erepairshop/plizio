@@ -6,13 +6,11 @@ import { useRouter } from "next/navigation";
 import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Timer, Radio, ScrollText, Castle, Cpu, GraduationCap, Map as MapIcon, type LucideIcon } from "lucide-react";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import HamburgerMenu from "@/components/HamburgerMenu";
-import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
+import type { Island, IslandGame } from "@/components/IslandMap";
 import { getCards } from "@/lib/cards";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
 import { getStats } from "@/lib/milestones";
 import { claimDailyReward, awardPendingDailyStars, type DailyRewardResult } from "@/lib/dailyReward";
-import { getUser, onAuthChange } from "@/lib/auth";
-import { syncToSupabase } from "@/lib/sync";
 import { getUsername, hasUsername } from "@/lib/username";
 import { useLang } from "@/components/LanguageProvider";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -23,6 +21,13 @@ import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/acce
 
 const AuthModal = dynamic(() => import("@/components/AuthModal"), { ssr: false });
 const UsernameModal = dynamic(() => import("@/components/UsernameModal"), { ssr: false });
+// Lazy: IslandMap pulls in framer-motion (~131KB, the heaviest homepage chunk). The wrapping
+// <main> already reserves h-screen + bg, so a null placeholder avoids CLS while framer-motion
+// loads as a separate async chunk instead of blocking initial hydration.
+const IslandMap = dynamic(() => import("@/components/IslandMap"), {
+  ssr: false,
+  loading: () => <div className="w-full h-screen bg-[#060614]" />,
+});
 
 interface GameDef {
   id: string;
@@ -1015,17 +1020,32 @@ export default function Home() {
       setSpecialCount(getSpecialCardCount());
     }
 
-    // Check auth — only show registration popup once (after 5 games, never again after dismiss)
-    const checkAuth = async () => {
-      const user = await getUser();
-      setIsLoggedIn(!!user);
-      if (user) syncToSupabase(user.id).then(() => {
+    // Supabase auth + cloud sync are NOT needed for first paint/interaction — defer to idle and
+    // dynamic-import so @supabase/supabase-js stays out of the initial bundle (homepage TBT).
+    let unsubscribe: (() => void) | null = null;
+    let cancelled = false;
+    const idleId: number = window.requestIdleCallback
+      ? window.requestIdleCallback(() => { void initAuth(); }, { timeout: 2500 })
+      : window.setTimeout(() => { void initAuth(); }, 1200);
+    async function initAuth() {
+      const [{ getUser, onAuthChange }, { syncToSupabase }] = await Promise.all([
+        import("@/lib/auth"),
+        import("@/lib/sync"),
+      ]);
+      if (cancelled) return;
+      const syncUser = (id: string) => syncToSupabase(id).then(() => {
         setCardCount(getCards().length);
         setSpecialCount(getSpecialCardCount());
         window.dispatchEvent(new Event("plizio-cards-changed"));
       }).catch((err) => console.error("Sync error:", err));
-      // Never auto-show auth modal again after dismissed or registered
-      if (!user) {
+
+      const user = await getUser();
+      if (cancelled) return;
+      setIsLoggedIn(!!user);
+      if (user) {
+        syncUser(user.id);
+      } else {
+        // Never auto-show auth modal again after dismissed or registered
         const stats = getStats();
         const dismissed = localStorage.getItem("plizio_auth_dismissed");
         const registered = localStorage.getItem("plizio_registered");
@@ -1038,17 +1058,14 @@ export default function Home() {
           }
         }
       }
-    };
-    checkAuth();
 
-    const { data: { subscription } } = onAuthChange((user) => {
-      setIsLoggedIn(!!user);
-      if (user) syncToSupabase(user.id).then(() => {
-        setCardCount(getCards().length);
-        setSpecialCount(getSpecialCardCount());
-        window.dispatchEvent(new Event("plizio-cards-changed"));
-      }).catch((err) => console.error("Sync error:", err));
-    });
+      const { data: { subscription } } = onAuthChange((u) => {
+        setIsLoggedIn(!!u);
+        if (u) syncUser(u.id);
+      });
+      if (cancelled) { subscription.unsubscribe(); return; }
+      unsubscribe = () => subscription.unsubscribe();
+    }
 
     // Refresh card + star badge whenever cards change (earn / exchange)
     const refreshCounts = () => {
@@ -1067,7 +1084,9 @@ export default function Home() {
     window.addEventListener("plizio-game-played", onGamePlayed);
 
     return () => {
-      subscription.unsubscribe();
+      cancelled = true;
+      if (window.cancelIdleCallback) window.cancelIdleCallback(idleId);
+      if (unsubscribe) unsubscribe();
       window.removeEventListener("plizio-cards-changed", refreshCounts);
       document.removeEventListener("visibilitychange", onVisible);
       window.removeEventListener("plizio-game-played", onGamePlayed);

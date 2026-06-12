@@ -237,7 +237,376 @@ export const poiExtraChileNatureV2: POI[] = [
       fr: ["Certaines régions n'ont enregistré aucune précipitation depuis des siècles.", "C'est un paradis pour les astronomes."],
     }, image: "/poi-images/desierto-de-atacama-nature-v2.webp"},
   {
-    id: "parque-nacional-chiloé-nature-v2",
+    id: "parque-nacional-chiloé-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piedra Roja",
+                  "text": "Piedra Roja ist eine markante, rötliche Felsformation, die malerisch in der grünen Küstenlandschaft liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.136166,
+                        -42.573313
+                  ]
+            },
+            {
+                  "name": "Mirador La Huenchula",
+                  "text": "Der Mirador La Huenchula bietet einen weiten Blick über die dichten Wälder und die raue Küstenlinie des Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        -74.123069,
+                        -42.591269
+                  ]
+            },
+            {
+                  "name": "Puente de Bote",
+                  "text": "Diese originelle Bootsbrücke, Puente de Bote, verbindet Uferbereiche und ist eine lokale hölzerne Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.121129,
+                        -42.602076
+                  ]
+            },
+            {
+                  "name": "Mirador del Sur Cordillera Piuchén",
+                  "text": "Von diesem südlichen Aussichtspunkt aus überblickt man die majestätischen bewaldeten Hänge der Cordillera Piuchén.",
+                  "category": "natural",
+                  "coords": [
+                        -74.107643,
+                        -42.621606
+                  ]
+            },
+            {
+                  "name": "Museo Fogón",
+                  "text": "Das Museo Fogón ist rund um eine traditionelle Feuerstelle aufgebaut und beleuchtet die ländliche Kultur Chiloés.",
+                  "category": "museum",
+                  "coords": [
+                        -74.108964,
+                        -42.624099
+                  ]
+            },
+            {
+                  "name": "Mirador Las Dunas",
+                  "text": "Der Mirador Las Dunas eröffnet einen fantastischen Blick auf die weiten Sanddünen, die auf den Ozean treffen.",
+                  "category": "natural",
+                  "coords": [
+                        -74.114916,
+                        -42.620881
+                  ]
+            },
+            {
+                  "name": "Mirador Ecoparque Laguna Quilque",
+                  "text": "Der Mirador im Ecoparque bietet einen ruhigen Ausblick über das ruhige Wasser der Laguna Quilque.",
+                  "category": "natural",
+                  "coords": [
+                        -74.060171,
+                        -42.658576
+                  ]
+            },
+            {
+                  "name": "Playa Cucao",
+                  "text": "Playa Cucao ist ein ausgedehnter, oft windiger Sandstrand, der direkt an den Pazifischen Ozean grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.131643,
+                        -42.596174
+                  ]
+            },
+            {
+                  "name": "Iglesia de Chanquín",
+                  "text": "Die kleine christliche Holzkirche von Chanquín ist ein typisches Beispiel für die traditionelle Architektur der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.119543,
+                        -42.603605
+                  ]
+            },
+            {
+                  "name": "Iglesia Cucao",
+                  "text": "Die Iglesia Cucao ist eine malerische Holzkirche, die das spirituelle Zentrum der lokalen Küstengemeinde bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.103604,
+                        -42.631919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piedra Roja",
+                  "text": "A Piedra Roja egy jellegzetes, vöröses sziklaalakzat, amely festőien emelkedik ki a zöldellő partvidékből.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.136166,
+                        -42.573313
+                  ]
+            },
+            {
+                  "name": "Mirador La Huenchula",
+                  "text": "A Mirador La Huenchula széles kilátást nyújt a nemzeti park sűrű erdeire és zord partvonalára.",
+                  "category": "natural",
+                  "coords": [
+                        -74.123069,
+                        -42.591269
+                  ]
+            },
+            {
+                  "name": "Puente de Bote",
+                  "text": "Ez az eredeti csónakhíd, a Puente de Bote, összeköti a partokat, és jellegzetes fából készült helyi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.121129,
+                        -42.602076
+                  ]
+            },
+            {
+                  "name": "Mirador del Sur Cordillera Piuchén",
+                  "text": "Ebből a déli kilátóból a Cordillera Piuchén fenséges fás lejtőire nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -74.107643,
+                        -42.621606
+                  ]
+            },
+            {
+                  "name": "Museo Fogón",
+                  "text": "A hagyományos tűzhely köré épült Museo Fogón a chiloéi vidéki kultúrát és életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -74.108964,
+                        -42.624099
+                  ]
+            },
+            {
+                  "name": "Mirador Las Dunas",
+                  "text": "A Mirador Las Dunas fantasztikus kilátást nyújt a hatalmas homokdűnékre, amelyek az óceánnal találkoznak.",
+                  "category": "natural",
+                  "coords": [
+                        -74.114916,
+                        -42.620881
+                  ]
+            },
+            {
+                  "name": "Mirador Ecoparque Laguna Quilque",
+                  "text": "Az Ecoparque kilátója békés panorámát nyújt a Laguna Quilque nyugodt vizeire.",
+                  "category": "natural",
+                  "coords": [
+                        -74.060171,
+                        -42.658576
+                  ]
+            },
+            {
+                  "name": "Playa Cucao",
+                  "text": "A Playa Cucao egy kiterjedt, gyakran szeles homokos strand, amely közvetlenül a Csendes-óceánnal határos.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.131643,
+                        -42.596174
+                  ]
+            },
+            {
+                  "name": "Iglesia de Chanquín",
+                  "text": "A kis chanquíni keresztény fatemplom tipikus példája a sziget hagyományos építészetének.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.119543,
+                        -42.603605
+                  ]
+            },
+            {
+                  "name": "Iglesia Cucao",
+                  "text": "Az Iglesia Cucao egy festői fatemplom, amely a helyi partmenti közösség szellemi központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.103604,
+                        -42.631919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piedra Roja",
+                  "text": "Piedra Roja este o formațiune stâncoasă roșiatică izbitoare, situată pitoresc pe coasta înverzită.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.136166,
+                        -42.573313
+                  ]
+            },
+            {
+                  "name": "Mirador La Huenchula",
+                  "text": "Mirador La Huenchula oferă o priveliște largă asupra pădurilor dese și a coastei accidentate a parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        -74.123069,
+                        -42.591269
+                  ]
+            },
+            {
+                  "name": "Puente de Bote",
+                  "text": "Acest pod original de bărci, Puente de Bote, leagă malurile și este o atracție locală distinctivă din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.121129,
+                        -42.602076
+                  ]
+            },
+            {
+                  "name": "Mirador del Sur Cordillera Piuchén",
+                  "text": "Din acest punct de belvedere sudic se pot admira versanții împăduriți maiestuoși ai Cordilierilor Piuchén.",
+                  "category": "natural",
+                  "coords": [
+                        -74.107643,
+                        -42.621606
+                  ]
+            },
+            {
+                  "name": "Museo Fogón",
+                  "text": "Construit în jurul unei vetre tradiționale, Museo Fogón ilustrează cultura și viața rurală din Chiloé.",
+                  "category": "museum",
+                  "coords": [
+                        -74.108964,
+                        -42.624099
+                  ]
+            },
+            {
+                  "name": "Mirador Las Dunas",
+                  "text": "Mirador Las Dunas oferă o priveliște fantastică a vastelor dune de nisip care se întâlnesc cu oceanul.",
+                  "category": "natural",
+                  "coords": [
+                        -74.114916,
+                        -42.620881
+                  ]
+            },
+            {
+                  "name": "Mirador Ecoparque Laguna Quilque",
+                  "text": "Punctul de belvedere din Ecoparque oferă o priveliște liniștită asupra apelor calme ale Lagunei Quilque.",
+                  "category": "natural",
+                  "coords": [
+                        -74.060171,
+                        -42.658576
+                  ]
+            },
+            {
+                  "name": "Playa Cucao",
+                  "text": "Playa Cucao este o plajă de nisip vastă, adesea bătută de vânt, care se învecinează cu Oceanul Pacific.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.131643,
+                        -42.596174
+                  ]
+            },
+            {
+                  "name": "Iglesia de Chanquín",
+                  "text": "Mica biserică creștină de lemn din Chanquín este un exemplu tipic al arhitecturii tradiționale a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.119543,
+                        -42.603605
+                  ]
+            },
+            {
+                  "name": "Iglesia Cucao",
+                  "text": "Iglesia Cucao este o biserică pitorească de lemn, centrul spiritual al comunității de coastă locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.103604,
+                        -42.631919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piedra Roja",
+                  "text": "Piedra Roja is a striking, reddish rock formation set picturesquely against the verdant coastal landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.136166,
+                        -42.573313
+                  ]
+            },
+            {
+                  "name": "Mirador La Huenchula",
+                  "text": "Mirador La Huenchula provides a sweeping view over the dense forests and rugged coastline of the national park.",
+                  "category": "natural",
+                  "coords": [
+                        -74.123069,
+                        -42.591269
+                  ]
+            },
+            {
+                  "name": "Puente de Bote",
+                  "text": "This original boat bridge, Puente de Bote, connects the banks and serves as a distinctive local wooden attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.121129,
+                        -42.602076
+                  ]
+            },
+            {
+                  "name": "Mirador del Sur Cordillera Piuchén",
+                  "text": "From this southern viewpoint, visitors can look out over the majestic forested slopes of the Cordillera Piuchén.",
+                  "category": "natural",
+                  "coords": [
+                        -74.107643,
+                        -42.621606
+                  ]
+            },
+            {
+                  "name": "Museo Fogón",
+                  "text": "Built around a traditional hearth, the Museo Fogón showcases the rural culture and lifestyle of Chiloé.",
+                  "category": "museum",
+                  "coords": [
+                        -74.108964,
+                        -42.624099
+                  ]
+            },
+            {
+                  "name": "Mirador Las Dunas",
+                  "text": "Mirador Las Dunas opens up a fantastic view of the vast sand dunes meeting the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -74.114916,
+                        -42.620881
+                  ]
+            },
+            {
+                  "name": "Mirador Ecoparque Laguna Quilque",
+                  "text": "The viewpoint in the Ecoparque provides a tranquil outlook over the calm waters of Laguna Quilque.",
+                  "category": "natural",
+                  "coords": [
+                        -74.060171,
+                        -42.658576
+                  ]
+            },
+            {
+                  "name": "Playa Cucao",
+                  "text": "Playa Cucao is an extensive, often windy sandy beach directly bordering the Pacific Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.131643,
+                        -42.596174
+                  ]
+            },
+            {
+                  "name": "Iglesia de Chanquín",
+                  "text": "The small Christian wooden church of Chanquín is a typical example of the island's traditional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.119543,
+                        -42.603605
+                  ]
+            },
+            {
+                  "name": "Iglesia Cucao",
+                  "text": "Iglesia Cucao is a picturesque wooden church forming the spiritual center of the local coastal community.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.103604,
+                        -42.631919
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "CL-LL",
     coords: [-74.0500, -42.6000],
@@ -284,7 +653,808 @@ export const poiExtraChileNatureV2: POI[] = [
       fr: ["La côte est sauvage et marquée par l'influence du Pacifique.", "Il abrite une riche variété de plantes indigènes."],
     }, image: "/poi-images/parque-nacional-chiloé-nature-v2.webp"},
   {
-    id: "parque-nacional-tierra-del-fuego-nature-v2",
+    id: "parque-nacional-tierra-del-fuego-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Cóndor",
+                  "text": "Ein majestätischer Berggipfel im Nationalpark Tierra del Fuego, bekannt für sein raues andines Terrain und den weiten subantarktischen Ausblick.",
+                  "category": "natural",
+                  "coords": [
+                        -68.643415,
+                        -54.825004
+                  ]
+            },
+            {
+                  "name": "La castorera",
+                  "text": "Ein Aussichtspunkt im Wald, von dem aus Besucher die komplexen Holzdämme betrachten können, die von den eingeführten nordamerikanischen Bibern errichtet wurden.",
+                  "category": "natural",
+                  "coords": [
+                        -68.594562,
+                        -54.855079
+                  ]
+            },
+            {
+                  "name": "Bahía Lapataia",
+                  "text": "Eine atemberaubende Küstenbucht, umgeben von subpolaren Wäldern, die das äußerste Ende der Panamericana markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.576746,
+                        -54.855267
+                  ]
+            },
+            {
+                  "name": "Mirador Lapataia",
+                  "text": "Ein erhöhter Aussichtspunkt, der einen weiten Blick über die ruhigen, von Wäldern gesäumten Gewässer der Bahía Lapataia bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.578348,
+                        -54.853119
+                  ]
+            },
+            {
+                  "name": "Puerto Arias",
+                  "text": "Ein malerischer Holzsteg in der Bahía Lapataia, der einen hervorragenden Aussichtspunkt bietet, um die umliegenden magellanschen subpolaren Wälder zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        -68.573238,
+                        -54.855292
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein Aussichtspunkt am Wegesrand, der Wanderern einen freien Blick auf die tiefen Täler und rauen, schneebedeckten Gipfel Feuerlands bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.562435,
+                        -54.860047
+                  ]
+            },
+            {
+                  "name": "Bahia Ensenada Zaratiegui",
+                  "text": "Eine malerische Bucht am Beagle-Kanal, die an ihren Ufern das berühmte Postamt am Ende der Welt beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.480732,
+                        -54.84655
+                  ]
+            },
+            {
+                  "name": "Paso de La Oveja",
+                  "text": "Ein abgelegener, bergiger Aussichtspunkt an einem rauen Trekkingpass in der wilden Hochlandschaft Feuerlands.",
+                  "category": "natural",
+                  "coords": [
+                        -68.437995,
+                        -54.774139
+                  ]
+            },
+            {
+                  "name": "Monte Susana",
+                  "text": "Dieser steil über dem Beagle-Kanal aufragende, bewaldete Andengipfel bildet eine dramatische Kulisse für die Wanderwege der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -68.448397,
+                        -54.83225
+                  ]
+            },
+            {
+                  "name": "Avistamiento del Tren del Fin del Mundo",
+                  "text": "Eine ausgewiesene Lichtung, auf der Besucher die historischen Dampflokomotiven des Zugs am Ende der Welt bei ihrer Fahrt durch den Wald beobachten können.",
+                  "category": "natural",
+                  "coords": [
+                        -68.464265,
+                        -54.82399
+                  ]
+            },
+            {
+                  "name": "Mirador al Cerro Condor",
+                  "text": "Ein Panoramapunkt, der so angelegt ist, dass er einen klaren, direkten Blick auf die rauen Hänge des Cerro Cóndor bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.563072,
+                        -54.826271
+                  ]
+            },
+            {
+                  "name": "Lago Roca",
+                  "text": "Ein ruhiger Aussichtspunkt am See, an dem sich die umliegenden Andengipfel unberührt im Gletscherwasser des Lago Roca spiegeln.",
+                  "category": "natural",
+                  "coords": [
+                        -68.563688,
+                        -54.830472
+                  ]
+            },
+            {
+                  "name": "Sala de Interpretación Maiá-Kú",
+                  "text": "Ein pädagogisches Interpretationszentrum mit Ausstellungen zur einzigartigen subpolaren Ökologie und der indigenen Geschichte Feuerlands.",
+                  "category": "museum",
+                  "coords": [
+                        -68.561616,
+                        -54.837506
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Verde",
+                  "text": "Eine hölzerne Aussichtsplattform mit Blick auf das smaragdgrüne Wasser der Laguna Verde, umgeben von dichten subantarktischen Wäldern.",
+                  "category": "natural",
+                  "coords": [
+                        -68.574314,
+                        -54.844064
+                  ]
+            },
+            {
+                  "name": "Cerro Falso Tonelli",
+                  "text": "Ein rauer Andengipfel in der feuerländischen Landschaft, der sich durch steile Felswände und Höhenwinde auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.508648,
+                        -54.759327
+                  ]
+            },
+            {
+                  "name": "Cerro Martial",
+                  "text": "Ein markanter Berg, der die Skyline über Ushuaia dominiert und an seinen oberen Hängen einen bekannten Hängegletscher beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        -68.419214,
+                        -54.784961
+                  ]
+            },
+            {
+                  "name": "Glaciar Martial",
+                  "text": "Ein sich zurückziehender Kargletscher hoch über Ushuaia, der über einen kurvenreichen Weg erreichbar ist, welcher spektakuläre Ausblicke auf den Beagle-Kanal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.40975,
+                        -54.785342
+                  ]
+            },
+            {
+                  "name": "Mirador del condor",
+                  "text": "Ein hoch gelegener Felsvorsprung mit hervorragender Thermik, der sich ideal zur Beobachtung fliegender Andenkondore über den südlichen Gipfeln eignet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.402735,
+                        -54.786897
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Martial",
+                  "text": "Dieser Aussichtspunkt im Nationalpark Feuerland bietet weite Panoramablicke auf die umliegende Gletscherlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -68.405748,
+                        -54.786985
+                  ]
+            },
+            {
+                  "name": "Cerro Tonelli",
+                  "text": "Dieser markante Berggipfel im Nationalpark Feuerland fordert Wanderer mit seinem rauen patagonischen Gelände heraus.",
+                  "category": "natural",
+                  "coords": [
+                        -68.425158,
+                        -54.775396
+                  ]
+            },
+            {
+                  "name": "El Tren del Fin del Mundo",
+                  "text": "Diese als Zug am Ende der Welt bekannte, historische Schmalspurbahn fährt durch die spektakuläre Landschaft des Nationalparks Feuerland.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.423796,
+                        -54.833191
+                  ]
+            },
+            {
+                  "name": "Cerro Susana",
+                  "text": "Dieser felsige Berggipfel im Nationalpark Feuerland bietet weite Ausblicke über die unberührte patagonische Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        -68.417637,
+                        -54.842031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Cóndor",
+                  "text": "Fenséges hegycsúcs a Tűzföld Nemzeti Parkban, amely zord andoki terepéről és a lenyűgöző szubantarktikus kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -68.643415,
+                        -54.825004
+                  ]
+            },
+            {
+                  "name": "La castorera",
+                  "text": "Erdei kilátó, ahonnan a látogatók megfigyelhetik a betelepített észak-amerikai hódok által épített bonyolult fagátakat.",
+                  "category": "natural",
+                  "coords": [
+                        -68.594562,
+                        -54.855079
+                  ]
+            },
+            {
+                  "name": "Bahía Lapataia",
+                  "text": "Szubpoláris erdőkkel övezett, lenyűgöző tengerparti öböl, amely a Pánamerikai főútvonal legvégét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.576746,
+                        -54.855267
+                  ]
+            },
+            {
+                  "name": "Mirador Lapataia",
+                  "text": "Magaslati festői kilátó, ahonnan tágas panoráma nyílik a Lapataia-öböl nyugodt, erdőkkel szegélyezett vizeire.",
+                  "category": "natural",
+                  "coords": [
+                        -68.578348,
+                        -54.853119
+                  ]
+            },
+            {
+                  "name": "Puerto Arias",
+                  "text": "Festői fa móló a Lapataia-öbölben, amely kiváló kilátópontot kínál a környező magelláni szubpoláris erdők megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -68.573238,
+                        -54.855292
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Az ösvény menti kilátó zavartalan rálátást biztosít a túrázóknak Tűzföld mély völgyeire és zord, havas csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        -68.562435,
+                        -54.860047
+                  ]
+            },
+            {
+                  "name": "Bahia Ensenada Zaratiegui",
+                  "text": "Festői öböl a Beagle-csatorna mentén, amelynek partján található a híres Világvége Postahivatal.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.480732,
+                        -54.84655
+                  ]
+            },
+            {
+                  "name": "Paso de La Oveja",
+                  "text": "Távoli hegyi kilátó egy vadregényes túraútvonal mentén, Tűzföld magasan fekvő vadonjában.",
+                  "category": "natural",
+                  "coords": [
+                        -68.437995,
+                        -54.774139
+                  ]
+            },
+            {
+                  "name": "Monte Susana",
+                  "text": "A Beagle-csatorna fölé meredeken emelkedő erdős andoki csúcs drámai hátteret biztosít a régió túraútvonalainak.",
+                  "category": "natural",
+                  "coords": [
+                        -68.448397,
+                        -54.83225
+                  ]
+            },
+            {
+                  "name": "Avistamiento del Tren del Fin del Mundo",
+                  "text": "Egy kijelölt tisztás, ahol a látogatók megfigyelhetik, ahogy a Világvége Vonat történelmi gőzmozdonyai átpöfögnek az erdőn.",
+                  "category": "natural",
+                  "coords": [
+                        -68.464265,
+                        -54.82399
+                  ]
+            },
+            {
+                  "name": "Mirador al Cerro Condor",
+                  "text": "Panorámás megfigyelőpont, amely tiszta, közvetlen kilátást nyújt a Cerro Cóndor zord lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        -68.563072,
+                        -54.826271
+                  ]
+            },
+            {
+                  "name": "Lago Roca",
+                  "text": "Csendes tóparti kilátó, ahonnan a környező andoki csúcsok érintetlen tükörképe látható a Roca-tó gleccservizében.",
+                  "category": "natural",
+                  "coords": [
+                        -68.563688,
+                        -54.830472
+                  ]
+            },
+            {
+                  "name": "Sala de Interpretación Maiá-Kú",
+                  "text": "Oktatási értelmező központ, amely Tűzföld egyedülálló szubpoláris ökológiáját és őslakos történelmét bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -68.561616,
+                        -54.837506
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Verde",
+                  "text": "Fából készült kilátóterasz, amely a Laguna Verde lenyűgöző smaragdzöld vizére néz, sűrű szubantarktikus erdőkkel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -68.574314,
+                        -54.844064
+                  ]
+            },
+            {
+                  "name": "Cerro Falso Tonelli",
+                  "text": "Zord andoki csúcs a tűzföldi tájon, amelyet meredek sziklafalak és nagy magasságban fújó szelek jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        -68.508648,
+                        -54.759327
+                  ]
+            },
+            {
+                  "name": "Cerro Martial",
+                  "text": "Ushuaia látképét uraló, kiemelkedő hegy, amelynek felső lejtőin egy jól ismert függőgleccser található.",
+                  "category": "natural",
+                  "coords": [
+                        -68.419214,
+                        -54.784961
+                  ]
+            },
+            {
+                  "name": "Glaciar Martial",
+                  "text": "Ushuaia felett magasan fekvő, visszahúzódó cirkuszgleccser, amely egy kanyargós ösvényen érhető el, ahonnan látványos kilátás nyílik a Beagle-csatornára.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.40975,
+                        -54.785342
+                  ]
+            },
+            {
+                  "name": "Mirador del condor",
+                  "text": "Magasan fekvő sziklapárkány, amely kiváló termikeket biztosít az andoki kondorkeselyűk megfigyeléséhez, amint a déli csúcsok felett repülnek.",
+                  "category": "natural",
+                  "coords": [
+                        -68.402735,
+                        -54.786897
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Martial",
+                  "text": "Ez a Tűzföld Nemzeti Parkban található kilátópont panorámás rálátást nyújt a környező gleccseres tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -68.405748,
+                        -54.786985
+                  ]
+            },
+            {
+                  "name": "Cerro Tonelli",
+                  "text": "A Tűzföld Nemzeti Parkban magasodó sziklás hegycsúcs zord patagóniai tereppel várja a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        -68.425158,
+                        -54.775396
+                  ]
+            },
+            {
+                  "name": "El Tren del Fin del Mundo",
+                  "text": "A Világvége Vonatként is ismert történelmi keskenynyomtávú gőzös a Tűzföld Nemzeti Park látványos tájain halad keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.423796,
+                        -54.833191
+                  ]
+            },
+            {
+                  "name": "Cerro Susana",
+                  "text": "Ez a Tűzföld Nemzeti Parkban lévő sziklás hegycsúcs széles kilátást nyújt az érintetlen patagóniai vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        -68.417637,
+                        -54.842031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Cóndor",
+                  "text": "Un vârf montan maiestuos din Parcul Național Țara de Foc, cunoscut pentru terenul său andin accidentat și priveliștile subantarctice vaste.",
+                  "category": "natural",
+                  "coords": [
+                        -68.643415,
+                        -54.825004
+                  ]
+            },
+            {
+                  "name": "La castorera",
+                  "text": "Un punct de belvedere în pădure de unde vizitatorii pot observa barajele complexe de lemn create de castorii nord-americani introduși aici.",
+                  "category": "natural",
+                  "coords": [
+                        -68.594562,
+                        -54.855079
+                  ]
+            },
+            {
+                  "name": "Bahía Lapataia",
+                  "text": "Un golf de coastă uimitor înconjurat de păduri subpolare, care marchează sfârșitul absolut al Autostrăzii Panamericane.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.576746,
+                        -54.855267
+                  ]
+            },
+            {
+                  "name": "Mirador Lapataia",
+                  "text": "Un punct de belvedere pitoresc la înălțime, care oferă priveliști vaste asupra apelor liniștite, mărginite de păduri, ale Golfului Lapataia.",
+                  "category": "natural",
+                  "coords": [
+                        -68.578348,
+                        -54.853119
+                  ]
+            },
+            {
+                  "name": "Puerto Arias",
+                  "text": "Un debarcader pitoresc din lemn în Golful Lapataia, care oferă un punct de observație excelent pentru a vedea pădurile subpolare magellaneze din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -68.573238,
+                        -54.855292
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere pe marginea traseului care le oferă drumeților o vedere neobstrucționată a văilor adânci și a vârfurilor accidentate și înzăpezite din Țara de Foc.",
+                  "category": "natural",
+                  "coords": [
+                        -68.562435,
+                        -54.860047
+                  ]
+            },
+            {
+                  "name": "Bahia Ensenada Zaratiegui",
+                  "text": "Un golf pitoresc de-a lungul Canalului Beagle care găzduiește faimosul Oficiu Poștal de la Capătul Lumii pe țărmurile sale.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.480732,
+                        -54.84655
+                  ]
+            },
+            {
+                  "name": "Paso de La Oveja",
+                  "text": "Un punct de belvedere montan izolat, situat de-a lungul unui pas de drumeție accidentat din sălbăticia înaltă a Țării de Foc.",
+                  "category": "natural",
+                  "coords": [
+                        -68.437995,
+                        -54.774139
+                  ]
+            },
+            {
+                  "name": "Monte Susana",
+                  "text": "Înălțându-se abrupt deasupra Canalului Beagle, acest vârf andin împădurit oferă un fundal dramatic traseelor de drumeție din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -68.448397,
+                        -54.83225
+                  ]
+            },
+            {
+                  "name": "Avistamiento del Tren del Fin del Mundo",
+                  "text": "Un luminiș desemnat unde vizitatorii pot urmări locomotivele cu abur istorice ale Trenului de la Capătul Lumii pufăind prin pădure.",
+                  "category": "natural",
+                  "coords": [
+                        -68.464265,
+                        -54.82399
+                  ]
+            },
+            {
+                  "name": "Mirador al Cerro Condor",
+                  "text": "Un punct de observație panoramic situat pentru a oferi vederi clare și directe asupra versanților accidentați ai Cerro Cóndor.",
+                  "category": "natural",
+                  "coords": [
+                        -68.563072,
+                        -54.826271
+                  ]
+            },
+            {
+                  "name": "Lago Roca",
+                  "text": "Un punct de belvedere liniștit pe malul lacului, oferind reflexii clare ale vârfurilor andine înconjurătoare în apele glaciare ale Lacului Roca.",
+                  "category": "natural",
+                  "coords": [
+                        -68.563688,
+                        -54.830472
+                  ]
+            },
+            {
+                  "name": "Sala de Interpretación Maiá-Kú",
+                  "text": "Un centru de interpretare educațional care oferă exponate despre ecologia subpolară unică și istoria indigenă a Țării de Foc.",
+                  "category": "museum",
+                  "coords": [
+                        -68.561616,
+                        -54.837506
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Verde",
+                  "text": "O platformă de vizionare din lemn cu vedere la apele de smarald izbitoare ale Lagunei Verde, înconjurată de păduri subantarctice dese.",
+                  "category": "natural",
+                  "coords": [
+                        -68.574314,
+                        -54.844064
+                  ]
+            },
+            {
+                  "name": "Cerro Falso Tonelli",
+                  "text": "Un vârf andin accidentat în peisajul fuegian, remarcat prin pereții săi stâncoși abrupți și vânturile de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -68.508648,
+                        -54.759327
+                  ]
+            },
+            {
+                  "name": "Cerro Martial",
+                  "text": "Un munte proeminent care domină orizontul deasupra Ushuhaiei, găzduind un ghețar suspendat bine-cunoscut pe versanții săi superiori.",
+                  "category": "natural",
+                  "coords": [
+                        -68.419214,
+                        -54.784961
+                  ]
+            },
+            {
+                  "name": "Glaciar Martial",
+                  "text": "Un ghețar de circ în retragere, situat sus deasupra Ushuhaiei, accesibil printr-un traseu șerpuitor care oferă priveliști spectaculoase asupra Canalului Beagle.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.40975,
+                        -54.785342
+                  ]
+            },
+            {
+                  "name": "Mirador del condor",
+                  "text": "O cornișă stâncoasă la mare altitudine care oferă curenți termici excelenți pentru observarea condorilor andini în zbor peste vârfurile sudice.",
+                  "category": "natural",
+                  "coords": [
+                        -68.402735,
+                        -54.786897
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Martial",
+                  "text": "Acest punct de belvedere din Parcul Național Țara de Foc oferă o panoramă vastă asupra peisajului glaciar înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -68.405748,
+                        -54.786985
+                  ]
+            },
+            {
+                  "name": "Cerro Tonelli",
+                  "text": "Ridicându-se în Parcul Național Țara de Foc, acest vârf montan stâncos provoacă drumeții prin terenul său patagonez accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        -68.425158,
+                        -54.775396
+                  ]
+            },
+            {
+                  "name": "El Tren del Fin del Mundo",
+                  "text": "Cunoscut sub numele de Trenul de la Capătul Lumii, acest tren istoric cu aburi cu ecartament îngust traversează peisajul spectaculos din Parcul Național Țara de Foc.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.423796,
+                        -54.833191
+                  ]
+            },
+            {
+                  "name": "Cerro Susana",
+                  "text": "Acest vârf montan stâncos din Parcul Național Țara de Foc oferă priveliști largi asupra sălbăticiei patagoneze virgine.",
+                  "category": "natural",
+                  "coords": [
+                        -68.417637,
+                        -54.842031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Cóndor",
+                  "text": "A majestic mountain peak in Tierra del Fuego National Park known for its rugged Andean terrain and sweeping subantarctic views.",
+                  "category": "natural",
+                  "coords": [
+                        -68.643415,
+                        -54.825004
+                  ]
+            },
+            {
+                  "name": "La castorera",
+                  "text": "A forest viewpoint where visitors can observe the complex wooden dams created by the introduced North American beavers.",
+                  "category": "natural",
+                  "coords": [
+                        -68.594562,
+                        -54.855079
+                  ]
+            },
+            {
+                  "name": "Bahía Lapataia",
+                  "text": "A stunning coastal bay ringed by subpolar forests that notably marks the very end of the Pan-American Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.576746,
+                        -54.855267
+                  ]
+            },
+            {
+                  "name": "Mirador Lapataia",
+                  "text": "An elevated scenic overlook providing sweeping vistas of the serene, forest-fringed waters of Lapataia Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -68.578348,
+                        -54.853119
+                  ]
+            },
+            {
+                  "name": "Puerto Arias",
+                  "text": "A scenic wooden pier in Lapataia Bay offering an excellent vantage point to view the surrounding Magellanic subpolar forests.",
+                  "category": "natural",
+                  "coords": [
+                        -68.573238,
+                        -54.855292
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A trailside viewpoint granting hikers an unobstructed view of Tierra del Fuego's deep valleys and rugged, snowy peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -68.562435,
+                        -54.860047
+                  ]
+            },
+            {
+                  "name": "Bahia Ensenada Zaratiegui",
+                  "text": "A picturesque cove along the Beagle Channel that hosts the famous End of the World Post Office on its shores.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.480732,
+                        -54.84655
+                  ]
+            },
+            {
+                  "name": "Paso de La Oveja",
+                  "text": "A remote mountainous overlook situated along a rugged trekking pass in the high wilderness of Tierra del Fuego.",
+                  "category": "natural",
+                  "coords": [
+                        -68.437995,
+                        -54.774139
+                  ]
+            },
+            {
+                  "name": "Monte Susana",
+                  "text": "Rising steeply above the Beagle Channel, this forested Andean peak provides a dramatic backdrop to the region's hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        -68.448397,
+                        -54.83225
+                  ]
+            },
+            {
+                  "name": "Avistamiento del Tren del Fin del Mundo",
+                  "text": "A designated clearing where visitors can watch the historic steam locomotives of the End of the World Train chug through the forest.",
+                  "category": "natural",
+                  "coords": [
+                        -68.464265,
+                        -54.82399
+                  ]
+            },
+            {
+                  "name": "Mirador al Cerro Condor",
+                  "text": "A panoramic observation point situated to offer clear, direct views of the rugged slopes of Cerro Cóndor.",
+                  "category": "natural",
+                  "coords": [
+                        -68.563072,
+                        -54.826271
+                  ]
+            },
+            {
+                  "name": "Lago Roca",
+                  "text": "A tranquil lakeside viewpoint offering pristine reflections of the surrounding Andean peaks in the glacial waters of Lake Roca.",
+                  "category": "natural",
+                  "coords": [
+                        -68.563688,
+                        -54.830472
+                  ]
+            },
+            {
+                  "name": "Sala de Interpretación Maiá-Kú",
+                  "text": "An educational interpretation center providing exhibits on the unique subpolar ecology and indigenous history of Tierra del Fuego.",
+                  "category": "museum",
+                  "coords": [
+                        -68.561616,
+                        -54.837506
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Verde",
+                  "text": "A wooden viewing platform overlooking the striking emerald waters of Laguna Verde, surrounded by dense subantarctic woods.",
+                  "category": "natural",
+                  "coords": [
+                        -68.574314,
+                        -54.844064
+                  ]
+            },
+            {
+                  "name": "Cerro Falso Tonelli",
+                  "text": "A rugged Andean summit in the Fuegian landscape, distinguished by its steep rock faces and high-altitude winds.",
+                  "category": "natural",
+                  "coords": [
+                        -68.508648,
+                        -54.759327
+                  ]
+            },
+            {
+                  "name": "Cerro Martial",
+                  "text": "A prominent mountain dominating the skyline above Ushuaia, home to a well-known hanging glacier on its upper slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -68.419214,
+                        -54.784961
+                  ]
+            },
+            {
+                  "name": "Glacier Martial",
+                  "text": "A retreating cirque glacier situated high above Ushuaia, accessible via a winding trail that offers spectacular views of the Beagle Channel.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.40975,
+                        -54.785342
+                  ]
+            },
+            {
+                  "name": "Mirador del condor",
+                  "text": "A high-altitude rocky ledge that provides excellent thermals for observing Andean condors in flight over the southern peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -68.402735,
+                        -54.786897
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Martial",
+                  "text": "This elevated viewpoint in Parque Nacional Tierra del Fuego offers panoramic vistas of the surrounding glacial landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -68.405748,
+                        -54.786985
+                  ]
+            },
+            {
+                  "name": "Cerro Tonelli",
+                  "text": "Rising prominently in Parque Nacional Tierra del Fuego, this striking mountain peak challenges hikers with its rugged Patagonian terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -68.425158,
+                        -54.775396
+                  ]
+            },
+            {
+                  "name": "El Tren del Fin del Mundo",
+                  "text": "Known as the End of the World Train, this historic narrow-gauge steam railway travels through the spectacular scenery of Parque Nacional Tierra del Fuego.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.423796,
+                        -54.833191
+                  ]
+            },
+            {
+                  "name": "Cerro Susana",
+                  "text": "This rocky mountain peak in Parque Nacional Tierra del Fuego commands wide views over the pristine Patagonian wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -68.417637,
+                        -54.842031
+                  ]
+            }
+      ]
+},
     type: "nature",
     parent: "CL-MA",
     coords: [-68.5000, -54.8000],

@@ -142,7 +142,160 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["La savane s'étend sur environ 13 000 kilomètres carrés.", "Les montagnes Kanuku divisent la région en nord et sud.", "Plus de 1 500 espèces de plantes sont indigènes de la savane du Rupununi.", "L'élevage commercial de bétail y a débuté dans les années 1860.", "C'est l'un des rares endroits où l'on peut observer la loutre géante.", "La région abrite plus de 80 % des espèces de mammifères de Guyane."],
     },
   }, {
-    id: "mahaica-mangrove-reserve-life-v2",
+    id: "mahaica-mangrove-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Start14",
+                  "text": "Dieser Aussichtspunkt beginnt in der Nähe der Feuchtgebiete und bietet frühe Einblicke in die dichte Küstenvegetation, die im Mahaica Mangrove Reserve geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -57.911187,
+                        6.644047
+                  ]
+            },
+            {
+                  "name": "End 9",
+                  "text": "Dieser Aussichtspunkt bietet einen ungehinderten Blick auf das Küstenökosystem und hebt die blühende Flora des Mahaica Mangrove Reserve hervor.",
+                  "category": "natural",
+                  "coords": [
+                        -57.910455,
+                        6.645915
+                  ]
+            },
+            {
+                  "name": "Jesus is the Answer",
+                  "text": "Dieses lokale christliche Heiligtum bietet spirituelle Führung und regelmäßige Gottesdienste für die Bewohner in der Nähe des Mahaica Mangrove Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.927377,
+                        6.708875
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Dieser Königreichssaal fungiert als spezieller Ort der christlichen Anbetung und ist ein aktives religiöses Zentrum in der Nähe der Mahaica-Mangroven.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.916771,
+                        6.689393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Start14",
+                  "text": "A vizes élőhelyek közelében kezdődő kilátópont korai bepillantást nyújt a Mahaica Mangrove Rezervátumban védett sűrű tengerparti növényzetbe.",
+                  "category": "natural",
+                  "coords": [
+                        -57.911187,
+                        6.644047
+                  ]
+            },
+            {
+                  "name": "End 9",
+                  "text": "A part menti ökoszisztémára zavartalan kilátást nyújtó kilátópont kiemeli a Mahaica Mangrove Rezervátum virágzó növényvilágát.",
+                  "category": "natural",
+                  "coords": [
+                        -57.910455,
+                        6.645915
+                  ]
+            },
+            {
+                  "name": "Jesus is the Answer",
+                  "text": "Ez a helyi keresztény szentély spirituális útmutatást és rendszeres istentiszteleteket nyújt a Mahaica Mangrove Rezervátum közelében élőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.927377,
+                        6.708875
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A keresztény istentisztelet dedikált helyeként működő Királyság-terem egy aktív vallási központ a Mahaica mangrovék közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.916771,
+                        6.689393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Start14",
+                  "text": "Începând lângă zonele umede, acest punct de belvedere oferă primele imagini ale vegetației de coastă dense protejate în Rezervația de Mangrove Mahaica.",
+                  "category": "natural",
+                  "coords": [
+                        -57.911187,
+                        6.644047
+                  ]
+            },
+            {
+                  "name": "End 9",
+                  "text": "Oferind o vedere neobstrucționată a ecosistemului de coastă, acest punct de belvedere evidențiază flora înfloritoare a Rezervației de Mangrove Mahaica.",
+                  "category": "natural",
+                  "coords": [
+                        -57.910455,
+                        6.645915
+                  ]
+            },
+            {
+                  "name": "Jesus is the Answer",
+                  "text": "Acest sanctuar creștin local oferă îndrumare spirituală și servicii de cult regulate pentru rezidenții din apropierea Rezervației de Mangrove Mahaica.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.927377,
+                        6.708875
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Funcționând ca un loc dedicat de închinare creștină, această Sală a Regatului este un centru religios activ situat în apropierea mangrovelor Mahaica.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.916771,
+                        6.689393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Start14",
+                  "text": "Beginning near the wetlands, this viewpoint offers early glimpses of the dense coastal vegetation protected within the Mahaica Mangrove Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -57.911187,
+                        6.644047
+                  ]
+            },
+            {
+                  "name": "End 9",
+                  "text": "Providing an unobstructed view of the coastal ecosystem, this vantage point highlights the thriving flora of the Mahaica Mangrove Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -57.910455,
+                        6.645915
+                  ]
+            },
+            {
+                  "name": "Jesus is the Answer",
+                  "text": "This local Christian sanctuary provides spiritual guidance and regular worship services for the residents near the Mahaica Mangrove Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.927377,
+                        6.708875
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Functioning as a dedicated place of Christian worship, this Kingdom Hall is an active religious center located near the Mahaica mangroves.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.916771,
+                        6.689393
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GY-DE",
     coords: [-57.92, 6.7],
@@ -236,7 +389,52 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Les plateformes sont situées à 30 mètres au-dessus du sol.", "L'ensemble du parcours a une longueur d'environ 154 mètres.", "La construction se compose de quatre ponts suspendus distincts.", "Il est situé à l'intérieur des 3 710 km² de la forêt d'Iwokrama.", "Le site a été ouvert au public en 2003.", "Les scientifiques utilisent les ponts pour étudier des épiphytes rares."],
     },
   }, {
-    id: "burro-burro-river-wildlife-life-v2",
+    id: "burro-burro-river-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iwokrama Wilderness Reserve",
+                  "text": "Ein riesiges Schutzgebiet am Burro-Burro-Fluss, das der Erhaltung des tropischen Regenwaldes gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -58.827759,
+                        4.451437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iwokrama Wilderness Reserve",
+                  "text": "Hatalmas védett terület a Burro-Burro folyó mentén, amely a trópusi esőerdő megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        -58.827759,
+                        4.451437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iwokrama Wilderness Reserve",
+                  "text": "O vastă zonă protejată pe râul Burro-Burro, dedicată conservării pădurii tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -58.827759,
+                        4.451437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iwokrama Wilderness Reserve",
+                  "text": "A vast protected area on the Burro-Burro River dedicated to tropical rainforest conservation.",
+                  "category": "natural",
+                  "coords": [
+                        -58.827759,
+                        4.451437
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GY-PT",
     coords: [-58.8, 4.4],
@@ -283,7 +481,124 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Le Burro-Burro est un affluent principal de l'Essequibo.", "L'eau est sombre en raison des tanins organiques.", "C'est un site de reproduction majeur pour la loutre géante, espèce menacée.", "La navigation n'est possible qu'avec de petits canoës.", "La végétation des rives abrite des espèces d'orchidées rares.", "La rivière se situe entièrement dans la réserve forestière d'Iwokrama."],
     },
   }, {
-    id: "turtle-mountain-reserve-life-v2",
+    id: "turtle-mountain-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Turtle Mountain Lookout",
+                  "text": "Der Turtle Mountain Lookout ermöglicht einen weiten Blick über das Kronendach des unberührten Iwokrama-Regenwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        -58.73367,
+                        4.732701
+                  ]
+            },
+            {
+                  "name": "Kupurkari",
+                  "text": "Der Aussichtspunkt bei Kupurkari bietet eine gute Position zur Vogelbeobachtung am Rande des dichten Dschungels.",
+                  "category": "natural",
+                  "coords": [
+                        -58.676823,
+                        4.660792
+                  ]
+            },
+            {
+                  "name": "Kurupukari crossing",
+                  "text": "Vom Kurupukari Crossing blickt man auf die Fährüberfahrt am Essequibo-Fluss, die den unbefestigten Dschungel-Highway verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.681615,
+                        4.660165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Turtle Mountain Lookout",
+                  "text": "A Turtle Mountain kilátó széles rálátást biztosít az érintetlen Iwokrama-esőerdő lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        -58.73367,
+                        4.732701
+                  ]
+            },
+            {
+                  "name": "Kupurkari",
+                  "text": "A Kupurkari kilátópont jó helyet kínál a madármegfigyeléshez a sűrű dzsungel szélén.",
+                  "category": "natural",
+                  "coords": [
+                        -58.676823,
+                        4.660792
+                  ]
+            },
+            {
+                  "name": "Kurupukari crossing",
+                  "text": "A Kurupukari Crossing kilátóból az Essequibo folyón áthaladó kompjáratra nyílik kilátás, amely a burkolatlan dzsungel-autópályát köti össze.",
+                  "category": "natural",
+                  "coords": [
+                        -58.681615,
+                        4.660165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turtle Mountain Lookout",
+                  "text": "Punctul de belvedere Turtle Mountain permite o priveliște amplă peste coronamentul pădurii tropicale virgine Iwokrama.",
+                  "category": "natural",
+                  "coords": [
+                        -58.73367,
+                        4.732701
+                  ]
+            },
+            {
+                  "name": "Kupurkari",
+                  "text": "Punctul de belvedere de la Kupurkari oferă o poziție bună pentru observarea păsărilor la marginea junglei dense.",
+                  "category": "natural",
+                  "coords": [
+                        -58.676823,
+                        4.660792
+                  ]
+            },
+            {
+                  "name": "Kurupukari crossing",
+                  "text": "Din punctul de belvedere Kurupukari Crossing se poate vedea trecerea cu feribotul pe râul Essequibo, care conectează autostrada de junglă neasfaltată.",
+                  "category": "natural",
+                  "coords": [
+                        -58.681615,
+                        4.660165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turtle Mountain Lookout",
+                  "text": "The Turtle Mountain Lookout allows for an expansive view over the canopy of the pristine Iwokrama rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -58.73367,
+                        4.732701
+                  ]
+            },
+            {
+                  "name": "Kupurkari",
+                  "text": "The viewpoint at Kupurkari provides a good position for birdwatching on the edge of the dense jungle.",
+                  "category": "natural",
+                  "coords": [
+                        -58.676823,
+                        4.660792
+                  ]
+            },
+            {
+                  "name": "Kurupukari crossing",
+                  "text": "From the Kurupukari crossing viewpoint, one looks out over the ferry passage on the Essequibo River that connects the unpaved jungle highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.681615,
+                        4.660165
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GY-PT",
     coords: [-58.72, 4.72],
@@ -377,7 +692,160 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Fondé en 2004", "Superficie d'environ 800 km²", "Plus de 400 espèces d'oiseaux recensées", "Habitat de 60 espèces de mammifères", "Précipitations annuelles : 2000–3000 mm", "Température moyenne : 26–28 °C"],
     },
   }, {
-    id: "caiman-house-sanctuary-life-v2",
+    id: "caiman-house-sanctuary-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quatata Centre",
+                  "text": "Ein Aussichtspunkt am Quatata Centre, der aufschlussreiche Blicke auf das umliegende Naturschutzgebiet und die Erhaltungsbemühungen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.423571,
+                        3.653836
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Ein christlicher Gottesdienstraum der Church of Christ, eingebettet in die friedliche Umgebung des örtlichen Naturschutzgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.357286,
+                        3.662863
+                  ]
+            },
+            {
+                  "name": "Anglican",
+                  "text": "Eine anglikanische Kirche, die inmitten des aktiven Naturschutzlebens der Region einen ruhigen spirituellen Zufluchtsort bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.353477,
+                        3.662154
+                  ]
+            },
+            {
+                  "name": "Christian Brethren",
+                  "text": "Eine christliche Gebetsstätte in der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.354654,
+                        3.662949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quatata Centre",
+                  "text": "A Quatata Centre kilátópontja, amely betekintést nyújt a környező vadvédelmi területre és a természetvédelmi erőfeszítésekbe.",
+                  "category": "natural",
+                  "coords": [
+                        -59.423571,
+                        3.653836
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "A Krisztus Egyháza (Church of Christ) keresztény istentiszteleti tere a helyi vadvédelmi terület békés környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.357286,
+                        3.662863
+                  ]
+            },
+            {
+                  "name": "Anglican",
+                  "text": "Anglikán templom, amely csendes spirituális menedéket nyújt a terület aktív természetvédelmi élete közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.353477,
+                        3.662154
+                  ]
+            },
+            {
+                  "name": "Christian Brethren",
+                  "text": "Egy keresztény istentiszteleti hely a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.354654,
+                        3.662949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quatata Centre",
+                  "text": "Un punct de belvedere la Quatata Centre care oferă vederi perspicace asupra sanctuarului faunei sălbatice din jur și eforturilor de conservare.",
+                  "category": "natural",
+                  "coords": [
+                        -59.423571,
+                        3.653836
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Un spațiu de cult creștin al Bisericii lui Hristos, situat în mediul pașnic al sanctuarului local al faunei sălbatice.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.357286,
+                        3.662863
+                  ]
+            },
+            {
+                  "name": "Anglican",
+                  "text": "O biserică anglicană care oferă un refugiu spiritual liniștit în mijlocul vieții active de conservare a naturii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.353477,
+                        3.662154
+                  ]
+            },
+            {
+                  "name": "Christian Brethren",
+                  "text": "Un lăcaș de cult creștin din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.354654,
+                        3.662949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quatata Centre",
+                  "text": "A vantage point at the Quatata Centre offering insightful views of the surrounding wildlife sanctuary and conservation efforts.",
+                  "category": "natural",
+                  "coords": [
+                        -59.423571,
+                        3.653836
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "A Christian Church of Christ worship space set within the peaceful environment of the local wildlife sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.357286,
+                        3.662863
+                  ]
+            },
+            {
+                  "name": "Anglican",
+                  "text": "An Anglican church providing a quiet spiritual refuge amidst the area's active nature conservation life.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.353477,
+                        3.662154
+                  ]
+            },
+            {
+                  "name": "Christian Brethren",
+                  "text": "A Christian place of worship located in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.354654,
+                        3.662949
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GY-UT",
     coords: [-59.34, 3.66],
@@ -471,7 +939,232 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Fondé en 2012", "Superficie : 5 000 hectares", "Plus de 300 espèces d'oiseaux documentées", "60 espèces de mammifères", "Accessible uniquement par bateau ou avion léger", "Précipitations annuelles : 2500-3500 mm"],
     },
   }, {
-    id: "hope-coconut-estate-life-v2",
+    id: "hope-coconut-estate-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Start 1",
+                  "text": "Dieser ausgewiesene Aussichtspunkt bietet einen weiten Blick über die Palmenhaine des Hope Coconut Estate.",
+                  "category": "natural",
+                  "coords": [
+                        -57.938794,
+                        6.724484
+                  ]
+            },
+            {
+                  "name": "Eric",
+                  "text": "Von diesem lokalen Aussichtspunkt aus können Besucher die landwirtschaftliche Landschaft des Hope Coconut Estate betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        -57.943767,
+                        6.725544
+                  ]
+            },
+            {
+                  "name": "Start clean",
+                  "text": "Dieser Beobachtungsbereich bietet einen klaren, ungehinderten Blick auf die umliegenden Palmen und das Gelände des Anwesens.",
+                  "category": "natural",
+                  "coords": [
+                        -57.947667,
+                        6.69743
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Dieses lokale Gotteshaus bietet der Gemeinschaft, die rund um das Hope Coconut Estate lebt, einen ruhigen spirituellen Rückzugsort.",
+                  "category": "religious",
+                  "coords": [
+                        -57.947519,
+                        6.726542
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Als Zentrum des christlichen Gemeindelebens dient diese methodistische Kirche den Bewohnern des nahegelegenen landwirtschaftlichen Anwesens.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.949047,
+                        6.727683
+                  ]
+            },
+            {
+                  "name": "Clonbrook Assembly of God Church",
+                  "text": "Diese im Gebiet von Clonbrook gelegene Kirche der Assembly of God versammelt ihre Gemeinde in der Nähe der Hope-Kokosnussplantagen.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.945094,
+                        6.728892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Start 1",
+                  "text": "Ez a kijelölt kilátópont széles tekintetet nyújt a Hope Kókuszbirtok pálmaligeteire.",
+                  "category": "natural",
+                  "coords": [
+                        -57.938794,
+                        6.724484
+                  ]
+            },
+            {
+                  "name": "Eric",
+                  "text": "A látogatók ebből a helyi kilátóból gyönyörködhetnek a Hope Kókuszbirtok mezőgazdasági tájában.",
+                  "category": "natural",
+                  "coords": [
+                        -57.943767,
+                        6.725544
+                  ]
+            },
+            {
+                  "name": "Start clean",
+                  "text": "Ez a megfigyelőterület tiszta, akadálytalan kilátást biztosít a környező pálmafákra és a birtok területére.",
+                  "category": "natural",
+                  "coords": [
+                        -57.947667,
+                        6.69743
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Ez a helyi istentiszteleti hely csendes spirituális menedéket nyújt a Hope Kókuszbirtok körül élő közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -57.947519,
+                        6.726542
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "A keresztény közösségi élet központjaként ez a metodista templom a közeli mezőgazdasági birtok lakóit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.949047,
+                        6.727683
+                  ]
+            },
+            {
+                  "name": "Clonbrook Assembly of God Church",
+                  "text": "A Clonbrook területén található Isten Gyülekezete templom a Hope kókuszültetvények közelében gyűjti össze híveit.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.945094,
+                        6.728892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Start 1",
+                  "text": "Acest punct de observare desemnat oferă vederi ample asupra plantațiilor de palmieri de la Hope Coconut Estate.",
+                  "category": "natural",
+                  "coords": [
+                        -57.938794,
+                        6.724484
+                  ]
+            },
+            {
+                  "name": "Eric",
+                  "text": "Vizitatorii pot admira peisajul agricol al plantației de cocos Hope din acest punct de observație local.",
+                  "category": "natural",
+                  "coords": [
+                        -57.943767,
+                        6.725544
+                  ]
+            },
+            {
+                  "name": "Start clean",
+                  "text": "Această zonă de observare oferă o vedere clară și neobstrucționată asupra palmierilor din jur și a terenurilor domeniului.",
+                  "category": "natural",
+                  "coords": [
+                        -57.947667,
+                        6.69743
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Acest lăcaș de cult local oferă o retragere spirituală liniștită pentru comunitatea care trăiește în jurul plantației Hope Coconut Estate.",
+                  "category": "religious",
+                  "coords": [
+                        -57.947519,
+                        6.726542
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Fiind un centru al vieții comunitare creștine, această biserică metodistă deservește locuitorii proprietății agricole din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.949047,
+                        6.727683
+                  ]
+            },
+            {
+                  "name": "Clonbrook Assembly of God Church",
+                  "text": "Situată în zona Clonbrook, această biserică Adunarea lui Dumnezeu își adună congregația lângă plantațiile de cocos Hope.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.945094,
+                        6.728892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Start 1",
+                  "text": "This designated observation point offers sweeping views over the palm groves of the Hope Coconut Estate.",
+                  "category": "natural",
+                  "coords": [
+                        -57.938794,
+                        6.724484
+                  ]
+            },
+            {
+                  "name": "Eric",
+                  "text": "Visitors can take in the agricultural landscape of the Hope Coconut Estate from this local vantage point.",
+                  "category": "natural",
+                  "coords": [
+                        -57.943767,
+                        6.725544
+                  ]
+            },
+            {
+                  "name": "Start clean",
+                  "text": "This observation area provides a clear, unobstructed view of the surrounding palm trees and estate grounds.",
+                  "category": "natural",
+                  "coords": [
+                        -57.947667,
+                        6.69743
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "This local place of worship provides a quiet spiritual retreat for the community living around the Hope Coconut Estate.",
+                  "category": "religious",
+                  "coords": [
+                        -57.947519,
+                        6.726542
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "A center for Christian community life, this Methodist church serves the residents of the nearby agricultural estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.949047,
+                        6.727683
+                  ]
+            },
+            {
+                  "name": "Clonbrook Assembly of God Church",
+                  "text": "Located in the Clonbrook area, this Assembly of God church gathers its congregation near the Hope coconut plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.945094,
+                        6.728892
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GY-DE",
     coords: [-57.95, 6.72],
@@ -518,7 +1211,52 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Fondée en 1960", "Superficie : 1 000 hectares", "Production annuelle : 10 millions de noix de coco", "200 employés", "Agriculture biologique depuis 2018", "Plage de nidification des tortues luths"],
     },
   }, {
-    id: "santa-fe-mega-farm-life-v2",
+    id: "santa-fe-mega-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jr ranch",
+                  "text": "Ein ländlicher Aussichtspunkt, der weite Blicke über die landwirtschaftlichen Flächen der Jr Ranch bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.724086,
+                        3.456555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jr ranch",
+                  "text": "Vidéki kilátó, amely széleskörű rálátást biztosít a Jr ranch mezőgazdasági tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -59.724086,
+                        3.456555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jr ranch",
+                  "text": "Un punct de belvedere rural care oferă vederi extinse asupra peisajelor agricole de la Jr ranch.",
+                  "category": "natural",
+                  "coords": [
+                        -59.724086,
+                        3.456555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jr ranch",
+                  "text": "A rural vantage point that offers extensive views across the agricultural landscapes of Jr ranch.",
+                  "category": "natural",
+                  "coords": [
+                        -59.724086,
+                        3.456555
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GY-UT",
     coords: [-59.8, 3.5],
@@ -706,7 +1444,52 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Superficie : 12 000 hectares", "Production annuelle : 60 000 tonnes", "Variété principale : GRDB-16", "Deux récoltes par an", "2 000 ouvriers", "Exportation vers les Caraïbes"],
     },
   }, {
-    id: "wakenaam-rice-farms-life-v2",
+    id: "wakenaam-rice-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Supenaam Market",
+                  "text": "Ein geschäftiger Markt am Fähranleger, wo Bauern ihre Produkte direkt von den Booten der Essequibo-Inseln verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.517683,
+                        6.971348
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Supenaam Market",
+                  "text": "Forgalmas kikötői piac, ahol a helyi gazdák az Essequibo-szigetekről érkező hajókról árulják friss termékeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.517683,
+                        6.971348
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Supenaam Market",
+                  "text": "O piață aglomerată la debarcader, unde fermierii locali vând produse proaspete aduse cu barca din insulele râului Essequibo.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.517683,
+                        6.971348
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Supenaam Market",
+                  "text": "A busy stelling market where local farmers sell fresh produce arriving by boat from the nearby Essequibo islands.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.517683,
+                        6.971348
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GY-ES",
     coords: [-58.5, 6.95],
@@ -753,7 +1536,772 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Superficie d'environ 45 kilomètres carrés", "Située dans la région des îles Essequibo-West Demerara", "L'infrastructure comprend plus de 10 miles de routes goudronnées", "La principale source de revenus est l'agriculture", "Des moulins à riz transforment directement la récolte locale", "Fait partie des '365 îles' de l'Essequibo"],
     },
   }, {
-    id: "enmore-sugar-fields-life-v2",
+    id: "enmore-sugar-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linden drive",
+                  "text": "Der Linden Drive ist eine von Bäumen gesäumte Route, die durch die ruhigen, ehemaligen Zuckerrohrgebiete von Enmore führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "Das Golden Heart Day and Night Care Centre dient als wichtige Betreuungseinrichtung, die Kunst- und Gemeinschaftsaktivitäten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Dieser Start-Aussichtspunkt markiert den Beginn eines lokalen Wanderwegs durch die weiten Zuckerrohrfelder von Enmore.",
+                  "category": "natural",
+                  "coords": [
+                        -57.968687,
+                        6.751762
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Der zweite Endpunkt der Route belohnt Spaziergänger mit einem erhobenen Blick auf das ländliche landwirtschaftliche Hinterland.",
+                  "category": "natural",
+                  "coords": [
+                        -57.969611,
+                        6.752492
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "An diesem End-Aussichtspunkt können Besucher die ruhige Küstenbrise genießen, nachdem sie die historischen Plantagenwege erkundet haben.",
+                  "category": "natural",
+                  "coords": [
+                        -57.97668,
+                        6.750376
+                  ]
+            },
+            {
+                  "name": "Seventh Adventist Church Hebron",
+                  "text": "Die Seventh Adventist Church Hebron bietet eine besinnliche Atmosphäre für die samstäglichen Bibelstudien der Adventisten.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.999407,
+                        6.760896
+                  ]
+            },
+            {
+                  "name": "Holy Ghost Miracle Healing and Deliverance Ministries",
+                  "text": "Die Holy Ghost Miracle Healing and Deliverance Ministries laden zu emotionalen charismatischen Heilungsgottesdiensten ein.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.998506,
+                        6.765969
+                  ]
+            },
+            {
+                  "name": "Golden Grove  Mosque",
+                  "text": "Die Golden Grove Mosque ist ein islamisches Gotteshaus mit einem schlanken Minarett, in dem sich die örtliche muslimische Gemeinde zum Freitagsgebet versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.979918,
+                        6.761874
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Dieser Königreichssaal nahe den Zuckerrohrfeldern von Enmore wird von den Zeugen Jehovas für theokratische Predigtdienste genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.984233,
+                        6.762033
+                  ]
+            },
+            {
+                  "name": "Haslington Seventh Day Adventist Church",
+                  "text": "Die Haslington Seventh Day Adventist Church betreibt eine aktive Pfadfindergruppe und organisiert wöchentliche Sabbatfeiern.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.985545,
+                        6.759173
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Diese christliche Kultstätte dient der lokalen Gemeinde in der Nähe der landwirtschaftlichen Zuckerrohrfelder von Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.984779,
+                        6.752704
+                  ]
+            },
+            {
+                  "name": "Bachelors Adventure Seventh-day Adventist Church",
+                  "text": "Diese lokale Gemeinde der Siebenten-Tags-Adventisten versammelt sich in der Nähe der landwirtschaftlichen Flächen von Enmore zum Gottesdienst.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.998619,
+                        6.774202
+                  ]
+            },
+            {
+                  "name": "Bethel Wesleyan Church",
+                  "text": "Diese wesleyanische Kirche ist ein zentraler Treffpunkt des christlichen Gemeindelebens nahe den Zuckerrohrfeldern von Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.000486,
+                        6.775105
+                  ]
+            },
+            {
+                  "name": "Lymen's Evangelical Fellowship International",
+                  "text": "Diese evangelikale Gemeinschaft versammelt ihre internationale Kongregation im landwirtschaftlichen Bezirk rund um Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.011235,
+                        6.771177
+                  ]
+            },
+            {
+                  "name": "Paradise Assembly of God Church",
+                  "text": "Diese Assembly of God-Gemeinde bietet der umliegenden ländlichen Gemeinschaft in der Nähe von Enmore christliche Gottesdienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.001035,
+                        6.763718
+                  ]
+            },
+            {
+                  "name": "Hindu temple",
+                  "text": "Dieser lokale Hindu-Tempel bietet den inmitten der Zuckerrohrfelder von Enmore lebenden Gläubigen einen spirituellen Versammlungsort.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.990003,
+                        6.756353
+                  ]
+            },
+            {
+                  "name": "Golden Grove Methodist Church",
+                  "text": "Diese im Gebiet von Golden Grove gelegene methodistische Kirche dient den christlichen Gläubigen in der Nähe der Zuckerrohrplantagen von Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.981034,
+                        6.759194
+                  ]
+            },
+            {
+                  "name": "St. Mark's Anglican Church",
+                  "text": "Diese anglikanische Pfarrkirche bietet traditionelle christliche Gottesdienste und Gemeindeunterstützung in der Nähe der Felder von Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.987013,
+                        6.764064
+                  ]
+            },
+            {
+                  "name": "Mount Olivet Wesleyan Church",
+                  "text": "Die Gemeinde von Mount Olivet unterhält diese wesleyanische Kirche als spirituelles Heiligtum in der landwirtschaftlichen Region von Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.977562,
+                        6.75628
+                  ]
+            },
+            {
+                  "name": "Golden Grove Seventh Day Adventist Church",
+                  "text": "Diese im Bezirk Golden Grove gelegene Kirche der Siebenten-Tags-Adventisten veranstaltet Samstagsgottesdienste für die lokalen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.978822,
+                        6.756228
+                  ]
+            },
+            {
+                  "name": "Victoria Methodist Church",
+                  "text": "Diese methodistische Kirche im historischen Dorfgebiet von Victoria ist ein aktives Zentrum für christliche Gottesdienste in der Nähe von Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.968336,
+                        6.750096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linden drive",
+                  "text": "A Linden Drive egy fákkal szegélyezett útvonal, amely Enmore csendes, egykori cukornádtermelő területein vezet keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "A Golden Heart Nappali és Éjszakai Gondozó Központ fontos intézmény, amely művészeti és közösségi tevékenységeket is kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Ez a kezdő kilátópont jelzi a helyi túraútvonal kezdetét, amely Enmore tágas cukornádföldjein halad át.",
+                  "category": "natural",
+                  "coords": [
+                        -57.968687,
+                        6.751762
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Az útvonal második végpontja emelt szintű kilátással jutalmazza a sétálókat a vidéki mezőgazdasági területekre.",
+                  "category": "natural",
+                  "coords": [
+                        -57.969611,
+                        6.752492
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Ezen a végponti kilátón a látogatók élvezhetik a csendes tengerparti szellőt a történelmi ültetvények ösvényeinek felfedezése után.",
+                  "category": "natural",
+                  "coords": [
+                        -57.97668,
+                        6.750376
+                  ]
+            },
+            {
+                  "name": "Seventh Adventist Church Hebron",
+                  "text": "A Hebron Hetednapi Adventista Templom elmélyült légkört biztosít a szombati adventista bibliatanulmányozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.999407,
+                        6.760896
+                  ]
+            },
+            {
+                  "name": "Holy Ghost Miracle Healing and Deliverance Ministries",
+                  "text": "A Holy Ghost Miracle Healing and Deliverance Ministries érzelmekkel teli karizmatikus gyógyító istentiszteletekre hívja a híveket.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.998506,
+                        6.765969
+                  ]
+            },
+            {
+                  "name": "Golden Grove  Mosque",
+                  "text": "A Golden Grove mecset egy karcsú minarettel rendelkező iszlám imahely, ahol a helyi muszlim közösség pénteki imára gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.979918,
+                        6.761874
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ezt az Enmore cukornádföldjeihez közeli Királyság-termet Jehova Tanúi használják teokratikus prédikálószolgálatra.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.984233,
+                        6.762033
+                  ]
+            },
+            {
+                  "name": "Haslington Seventh Day Adventist Church",
+                  "text": "A Haslingtoni Hetednapi Adventista Templom aktív cserkészcsoportot működtet, és heti sabbat ünnepségeket szervez.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.985545,
+                        6.759173
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Ez a keresztény istentiszteleti hely az Enmore környéki cukornádmezők közelében élő helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.984779,
+                        6.752704
+                  ]
+            },
+            {
+                  "name": "Bachelors Adventure Seventh-day Adventist Church",
+                  "text": "Ez a helyi hetednapi adventista gyülekezet az Enmore-i mezőgazdasági területek közelében gyűlik össze istentiszteletre.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.998619,
+                        6.774202
+                  ]
+            },
+            {
+                  "name": "Bethel Wesleyan Church",
+                  "text": "Ez a wesleyánus templom a keresztény közösségi élet központja az Enmore-i cukornádmezők közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.000486,
+                        6.775105
+                  ]
+            },
+            {
+                  "name": "Lymen's Evangelical Fellowship International",
+                  "text": "Ez az evangéliumi közösség az Enmore körüli mezőgazdasági negyedben gyűjti össze nemzetközi gyülekezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.011235,
+                        6.771177
+                  ]
+            },
+            {
+                  "name": "Paradise Assembly of God Church",
+                  "text": "Ez az Isten Gyülekezete közösség keresztény istentiszteleteket kínál az Enmore melletti vidéki lakosságnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.001035,
+                        6.763718
+                  ]
+            },
+            {
+                  "name": "Hindu temple",
+                  "text": "Ez a helyi hindu templom spirituális gyülekezőhelyet biztosít az Enmore cukornádmezői között élő hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.990003,
+                        6.756353
+                  ]
+            },
+            {
+                  "name": "Golden Grove Methodist Church",
+                  "text": "A Golden Grove területén található metodista templom az Enmore-i cukornádültetvények közelében élő keresztény hívőket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.981034,
+                        6.759194
+                  ]
+            },
+            {
+                  "name": "St. Mark's Anglican Church",
+                  "text": "Ez az anglikán plébániatemplom hagyományos keresztény istentiszteleteket és közösségi támogatást kínál az Enmore-i földek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.987013,
+                        6.764064
+                  ]
+            },
+            {
+                  "name": "Mount Olivet Wesleyan Church",
+                  "text": "A Mount Olivet gyülekezet ezt a wesleyánus templomot spirituális menedékként tartja fenn az Enmore-i mezőgazdasági régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.977562,
+                        6.75628
+                  ]
+            },
+            {
+                  "name": "Golden Grove Seventh Day Adventist Church",
+                  "text": "A Golden Grove negyedben található hetednapi adventista templom szombati istentiszteleteket tart a helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.978822,
+                        6.756228
+                  ]
+            },
+            {
+                  "name": "Victoria Methodist Church",
+                  "text": "A történelmi Victoria falu területén szolgáló metodista templom a keresztény istentiszteletek aktív központja Enmore közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.968336,
+                        6.750096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linden drive",
+                  "text": "Linden Drive este un traseu mărginit de copaci care traversează fostele zone liniștite ale plantațiilor de trestie de zahăr din Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "Centrul de îngrijire de zi și de noapte Golden Heart funcționează ca o unitate importantă ce oferă activități artistice și comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Acest punct de belvedere de start marchează începutul unui traseu local de drumeție prin vastele câmpuri de trestie de zahăr din Enmore.",
+                  "category": "natural",
+                  "coords": [
+                        -57.968687,
+                        6.751762
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Cel de-al doilea punct final al traseului răsplătește plimbăreții cu o perspectivă înaltă asupra terenurilor agricole rurale.",
+                  "category": "natural",
+                  "coords": [
+                        -57.969611,
+                        6.752492
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "La acest punct de belvedere final, vizitatorii se pot bucura de briza liniștită a coastei după ce au explorat potecile istorice ale plantațiilor.",
+                  "category": "natural",
+                  "coords": [
+                        -57.97668,
+                        6.750376
+                  ]
+            },
+            {
+                  "name": "Seventh Adventist Church Hebron",
+                  "text": "Biserica Adventistă Hebron oferă o atmosferă contemplativă pentru studiile biblice adventiste desfășurate sâmbăta.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.999407,
+                        6.760896
+                  ]
+            },
+            {
+                  "name": "Holy Ghost Miracle Healing and Deliverance Ministries",
+                  "text": "Holy Ghost Miracle Healing and Deliverance Ministries invită credincioșii la slujbe carismatice de vindecare pline de emoție.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.998506,
+                        6.765969
+                  ]
+            },
+            {
+                  "name": "Golden Grove  Mosque",
+                  "text": "Moscheea Golden Grove este un lăcaș de cult islamic cu un minaret zvelt, unde comunitatea musulmană locală se adună pentru rugăciunile de vineri.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.979918,
+                        6.761874
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Această Sală a Regatului situată lângă câmpurile de trestie de zahăr din Enmore este folosită de Martorii lui Iehova pentru slujiri teocratice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.984233,
+                        6.762033
+                  ]
+            },
+            {
+                  "name": "Haslington Seventh Day Adventist Church",
+                  "text": "Biserica Adventistă de Ziua a Șaptea din Haslington coordonează un grup activ de cercetași și organizează celebrări săptămânale de Sabat.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.985545,
+                        6.759173
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Acest lăcaș de cult creștin deservește comunitatea locală din apropierea câmpurilor agricole de trestie de zahăr din Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.984779,
+                        6.752704
+                  ]
+            },
+            {
+                  "name": "Bachelors Adventure Seventh-day Adventist Church",
+                  "text": "Această congregație locală a adventiștilor de ziua a șaptea se adună pentru închinare lângă terenurile agricole din Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.998619,
+                        6.774202
+                  ]
+            },
+            {
+                  "name": "Bethel Wesleyan Church",
+                  "text": "Această biserică wesleyană este un punct central al vieții comunității creștine din apropierea câmpurilor de trestie de zahăr din Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.000486,
+                        6.775105
+                  ]
+            },
+            {
+                  "name": "Lymen's Evangelical Fellowship International",
+                  "text": "Această comunitate evanghelică își adună congregația internațională în districtul agricol din jurul Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.011235,
+                        6.771177
+                  ]
+            },
+            {
+                  "name": "Paradise Assembly of God Church",
+                  "text": "Această congregație Adunarea lui Dumnezeu oferă slujbe creștine comunității rurale din împrejurimile orașului Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.001035,
+                        6.763718
+                  ]
+            },
+            {
+                  "name": "Hindu temple",
+                  "text": "Acest templu hindus local oferă un loc de adunare spirituală pentru devotații care trăiesc printre câmpurile de trestie de zahăr din Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.990003,
+                        6.756353
+                  ]
+            },
+            {
+                  "name": "Golden Grove Methodist Church",
+                  "text": "Situată în zona Golden Grove, această biserică metodistă deservește credincioșii creștini din apropierea plantațiilor de trestie de zahăr din Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.981034,
+                        6.759194
+                  ]
+            },
+            {
+                  "name": "St. Mark's Anglican Church",
+                  "text": "Această biserică parohială anglicană oferă slujbe creștine tradiționale și sprijin comunitar în apropierea câmpurilor din Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.987013,
+                        6.764064
+                  ]
+            },
+            {
+                  "name": "Mount Olivet Wesleyan Church",
+                  "text": "Congregația Mount Olivet menține această biserică wesleyană ca un sanctuar spiritual în apropierea comunității agricole din Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.977562,
+                        6.75628
+                  ]
+            },
+            {
+                  "name": "Golden Grove Seventh Day Adventist Church",
+                  "text": "Situată în districtul Golden Grove, această biserică adventistă de ziua a șaptea găzduiește slujbe de sâmbătă pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.978822,
+                        6.756228
+                  ]
+            },
+            {
+                  "name": "Victoria Methodist Church",
+                  "text": "Deservind zona istorică a satului Victoria, această biserică metodistă este un centru activ pentru închinarea creștină lângă Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.968336,
+                        6.750096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive is a tree-lined route winding through the quiet, former sugarcane-producing areas of Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "The Golden Heart Day and Night Care Centre serves as a vital care facility offering art and community activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "This start viewpoint marks the beginning of a local walking trail traversing the expansive sugarcane fields of Enmore.",
+                  "category": "natural",
+                  "coords": [
+                        -57.968687,
+                        6.751762
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "The second end point of the route rewards walkers with an elevated look across the rural agricultural hinterlands.",
+                  "category": "natural",
+                  "coords": [
+                        -57.969611,
+                        6.752492
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "At this end viewpoint, visitors can enjoy the quiet coastal breeze after exploring the historic plantation pathways.",
+                  "category": "natural",
+                  "coords": [
+                        -57.97668,
+                        6.750376
+                  ]
+            },
+            {
+                  "name": "Seventh Adventist Church Hebron",
+                  "text": "The Seventh Adventist Church Hebron provides a contemplative setting for Saturday Adventist Bible studies.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.999407,
+                        6.760896
+                  ]
+            },
+            {
+                  "name": "Holy Ghost Miracle Healing and Deliverance Ministries",
+                  "text": "The Holy Ghost Miracle Healing and Deliverance Ministries invite worshippers to emotional charismatic healing services.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.998506,
+                        6.765969
+                  ]
+            },
+            {
+                  "name": "Golden Grove  Mosque",
+                  "text": "The Golden Grove Mosque is an Islamic place of worship featuring a slender minaret where the local Muslim community gathers for Friday prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.979918,
+                        6.761874
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "This Kingdom Hall near the Enmore sugarcane fields is used by Jehovah's Witnesses for theocratic ministry training.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.984233,
+                        6.762033
+                  ]
+            },
+            {
+                  "name": "Haslington Seventh Day Adventist Church",
+                  "text": "The Haslington Seventh Day Adventist Church runs an active Pathfinder club alongside its weekly Sabbath celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.985545,
+                        6.759173
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "This Christian place of worship serves the local community near the agricultural sugar fields of Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.984779,
+                        6.752704
+                  ]
+            },
+            {
+                  "name": "Bachelors Adventure Seventh-day Adventist Church",
+                  "text": "This local Seventh-day Adventist congregation gathers for worship near the agricultural lands of Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.998619,
+                        6.774202
+                  ]
+            },
+            {
+                  "name": "Bethel Wesleyan Church",
+                  "text": "Serving the local faithful, this Wesleyan church is a focal point of Christian community life near the Enmore sugar fields.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.000486,
+                        6.775105
+                  ]
+            },
+            {
+                  "name": "Lymen's Evangelical Fellowship International",
+                  "text": "This evangelical fellowship gathers its international congregation in the agricultural district around Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.011235,
+                        6.771177
+                  ]
+            },
+            {
+                  "name": "Paradise Assembly of God Church",
+                  "text": "This Assembly of God congregation offers Christian services to the surrounding rural community near Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.001035,
+                        6.763718
+                  ]
+            },
+            {
+                  "name": "Hindu temple",
+                  "text": "This local Hindu temple provides a spiritual gathering place for devotees living among the Enmore sugar fields.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.990003,
+                        6.756353
+                  ]
+            },
+            {
+                  "name": "Golden Grove Methodist Church",
+                  "text": "Located in the Golden Grove area, this Methodist church serves Christian worshippers near the Enmore sugar estates.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.981034,
+                        6.759194
+                  ]
+            },
+            {
+                  "name": "St. Mark's Anglican Church",
+                  "text": "This Anglican parish church offers traditional Christian worship and community support near the Enmore fields.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.987013,
+                        6.764064
+                  ]
+            },
+            {
+                  "name": "Mount Olivet Wesleyan Church",
+                  "text": "The Mount Olivet congregation maintains this Wesleyan church as a spiritual sanctuary near the Enmore agricultural community.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.977562,
+                        6.75628
+                  ]
+            },
+            {
+                  "name": "Golden Grove Seventh Day Adventist Church",
+                  "text": "Situated in the Golden Grove district, this Seventh-day Adventist church hosts Saturday worship services for the local faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.978822,
+                        6.756228
+                  ]
+            },
+            {
+                  "name": "Victoria Methodist Church",
+                  "text": "Serving the historic Victoria village area, this Methodist church is an active center for Christian worship near Enmore.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.968336,
+                        6.750096
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GY-DE",
     coords: [-57.98, 6.75],
@@ -847,7 +2395,124 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Fondé en 1965", "Superficie : 500 hectares", "200 agriculteurs formés par an", "50 variétés locales dans la banque de semences", "Aquaculture : Tilapia", "Distance de Georgetown : 100 km"],
     },
   }, {
-    id: "hosororo-agricultural-station-life-v2",
+    id: "hosororo-agricultural-station-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arakumai",
+                  "text": "Der Aussichtspunkt Aruka mai bietet Weitblicke über die ländliche Umgebung nahe der Hosororo Agricultural Station.",
+                  "category": "natural",
+                  "coords": [
+                        -59.845472,
+                        8.084942
+                  ]
+            },
+            {
+                  "name": "Lower Koraibo",
+                  "text": "Von Lower Koraibo aus können Besucher die landwirtschaftlich geprägte Landschaft bei Hosororo überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        -59.822099,
+                        8.148056
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Roman Catholic Church",
+                  "text": "Die Our Lady of Lourdes Roman Catholic Church ist eine christliche Andachtsstätte, die der katholischen Gemeinde in Hosororo dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.810491,
+                        8.172404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arakumai",
+                  "text": "Az Aruka mai kilátópont széles rálátást nyújt a Hosororo Mezőgazdasági Állomás környékének vidéki tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -59.845472,
+                        8.084942
+                  ]
+            },
+            {
+                  "name": "Lower Koraibo",
+                  "text": "A Lower Koraibo kilátóból a látogatók a Hosororo melletti, mezőgazdaságilag meghatározott tájban gyönyörködhetnek.",
+                  "category": "natural",
+                  "coords": [
+                        -59.822099,
+                        8.148056
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Roman Catholic Church",
+                  "text": "A Our Lady of Lourdes római katolikus templom egy keresztény istentiszteleti hely, amely a hosororói katolikus közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.810491,
+                        8.172404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arakumai",
+                  "text": "Punctul de belvedere Aruka mai oferă priveliști ample asupra zonei rurale de lângă Stația Agricolă Hosororo.",
+                  "category": "natural",
+                  "coords": [
+                        -59.845472,
+                        8.084942
+                  ]
+            },
+            {
+                  "name": "Lower Koraibo",
+                  "text": "Din Lower Koraibo, vizitatorii pot admira peisajul predominant agricol de lângă Hosororo.",
+                  "category": "natural",
+                  "coords": [
+                        -59.822099,
+                        8.148056
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Roman Catholic Church",
+                  "text": "Biserica Romano-Catolică Our Lady of Lourdes este un lăcaș de cult creștin care deservește comunitatea catolică din Hosororo.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.810491,
+                        8.172404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aruka mai",
+                  "text": "The Aruka mai viewpoint offers expansive views over the rural surroundings near the Hosororo Agricultural Station.",
+                  "category": "natural",
+                  "coords": [
+                        -59.845472,
+                        8.084942
+                  ]
+            },
+            {
+                  "name": "Lower Koraibo",
+                  "text": "From Lower Koraibo, visitors can overlook the agriculturally dominated landscape near Hosororo.",
+                  "category": "natural",
+                  "coords": [
+                        -59.822099,
+                        8.148056
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Roman Catholic Church",
+                  "text": "The Our Lady of Lourdes Roman Catholic Church is a Christian place of worship serving the Catholic community in Hosororo.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.810491,
+                        8.172404
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GY-BA",
     coords: [-59.8, 8.16],
@@ -894,7 +2559,88 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Fondée au début du XXe siècle", "Située dans la région de Barima-Waini (Région 1)", "Spécialisée dans la culture du cacao et des épices", "Réputée pour l'agriculture de montagne (Hill Farming)", "Exploite des sols latéritiques fertiles", "Pépinière majeure pour la région de Mabaruma"],
     },
   }, {
-    id: "ebini-livestock-station-life-v2",
+    id: "ebini-livestock-station-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hydromet house",
+                  "text": "Der Aussichtspunkt am Hydromet house überblickt das Gelände der Ebini Livestock Station und deren weite Savannenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -57.781004,
+                        5.563801
+                  ]
+            },
+            {
+                  "name": "Laterite pit",
+                  "text": "Aussichtspunkt auf eine tiefe, rote Laterit-Grube, die zur Gewinnung von Straßenbaumaterial genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -57.788435,
+                        5.519173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hydromet house",
+                  "text": "A Hydromet house melletti kilátópont az Ebini Állattenyésztési Állomás területére és annak kiterjedt szavannájára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -57.781004,
+                        5.563801
+                  ]
+            },
+            {
+                  "name": "Laterite pit",
+                  "text": "Kilátópont egy mély, vörös lateritbányára, amelyből útépítési alapanyagot termelnek ki.",
+                  "category": "natural",
+                  "coords": [
+                        -57.788435,
+                        5.519173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hydromet house",
+                  "text": "Punctul de belvedere de la Hydromet house are vedere spre terenurile Stației de Zootehnie Ebini și spre peisajul său întins de savană.",
+                  "category": "natural",
+                  "coords": [
+                        -57.781004,
+                        5.563801
+                  ]
+            },
+            {
+                  "name": "Laterite pit",
+                  "text": "Punct de belvedere asupra unei cariere de laterit roșu, utilizat ca material pentru construcția drumurilor.",
+                  "category": "natural",
+                  "coords": [
+                        -57.788435,
+                        5.519173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hydromet house",
+                  "text": "The viewpoint at the Hydromet house overlooks the grounds of the Ebini Livestock Station and its vast savanna landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -57.781004,
+                        5.563801
+                  ]
+            },
+            {
+                  "name": "Laterite pit",
+                  "text": "A viewpoint overlooking a deep red laterite pit used for sourcing road construction materials.",
+                  "category": "natural",
+                  "coords": [
+                        -57.788435,
+                        5.519173
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GY-UD",
     coords: [-57.78, 5.55],
@@ -941,7 +2687,700 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Fondée en 1941", "Située au bord du fleuve Berbice en Région 10", "Accent sur l'élevage de bovins Brahman", "Comprend des milliers d'hectares de pâturages", "Recherche sur les graminées fourragères tropicales", "Principal fournisseur d'animaux reproducteurs au Guyana"],
     },
   }, {
-    id: "cane-grove-rice-life-v2",
+    id: "cane-grove-rice-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "137 start",
+                  "text": "Von diesem landwirtschaftlichen Aussichtspunkt aus können Besucher über die weiten, wassergefüllten Reisfelder von Cane Grove blicken.",
+                  "category": "natural",
+                  "coords": [
+                        -57.90603,
+                        6.617567
+                  ]
+            },
+            {
+                  "name": "Grader 1",
+                  "text": "Dieser Aussichtspunkt bietet eine klare Sicht auf die schweren landwirtschaftlichen Maschinen, die auf den Reisfeldern von Cane Grove arbeiten.",
+                  "category": "natural",
+                  "coords": [
+                        -57.899337,
+                        6.622493
+                  ]
+            },
+            {
+                  "name": "Turn",
+                  "text": "An einer Biegung der landwirtschaftlichen Wege gelegen, dieser Aussichtspunkt überblickt das organisierte Raster des lokalen Reisanbaus.",
+                  "category": "natural",
+                  "coords": [
+                        -57.897551,
+                        6.614926
+                  ]
+            },
+            {
+                  "name": "End 137",
+                  "text": "Dieser Beobachtungspunkt markiert den Rand der landwirtschaftlichen Parzellen und bietet einen weiten Blick auf die Reisernte in Cane Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -57.895664,
+                        6.611857
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Mit Blick auf die fruchtbaren Feuchtgebiete fängt dieser Aussichtspunkt die ausgedehnte Dimension des Reisanbaus im Gebiet Cane Grove ein.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906005,
+                        6.627793
+                  ]
+            },
+            {
+                  "name": "End 3",
+                  "text": "Dieser spezielle Aussichtspunkt im Gebiet von Cane Grove bietet einen malerischen Blick auf die lokale Reisanbaulandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -57.904639,
+                        6.631567
+                  ]
+            },
+            {
+                  "name": "End 4",
+                  "text": "Dieser Aussichtspunkt in der landwirtschaftlichen Region Cane Grove bietet Besuchern ein offenes Panorama auf die umliegenden Getreidefelder.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906283,
+                        6.633915
+                  ]
+            },
+            {
+                  "name": "End 5",
+                  "text": "An den ländlichen Wegen von Cane Grove gelegen, bietet dieser malerische Ort einen klaren Beobachtungspunkt über die landwirtschaftlichen Feuchtgebiete.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906787,
+                        6.632082
+                  ]
+            },
+            {
+                  "name": "Check1",
+                  "text": "Dieser Aussichtspunkt dient als Wegmarkierung in der Gegend von Cane Grove und lädt Besucher ein, innezuhalten und die ländliche Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -57.914807,
+                        6.630736
+                  ]
+            },
+            {
+                  "name": "Towards main road",
+                  "text": "Dieser spezielle Aussichtspunkt blickt auf die Hauptzufahrtsstraße und kontrastiert die asphaltierte Route mit den umliegenden Reisfeldern von Cane Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91444,
+                        6.632259
+                  ]
+            },
+            {
+                  "name": "End 6",
+                  "text": "Dieser Aussichtspunkt bietet einen ruhigen Ort zur Beobachtung in Cane Grove und ist vom satten Grün der lokalen Landwirtschaft umgeben.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91387,
+                        6.633943
+                  ]
+            },
+            {
+                  "name": "Start 8",
+                  "text": "Dieser Beobachtungspunkt im Bezirk Cane Grove überblickt das komplexe Netzwerk von Feldern, das für die lokale Reisproduktion unerlässlich ist.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91309,
+                        6.637258
+                  ]
+            },
+            {
+                  "name": "Start 9",
+                  "text": "Positioniert im landwirtschaftlichen Herzen von Cane Grove, ermöglicht dieser Aussichtspunkt Besuchern, die täglichen Rhythmen des Landlebens zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -57.912389,
+                        6.639087
+                  ]
+            },
+            {
+                  "name": "Yankee canal",
+                  "text": "Mit Blick auf das fließende Wasser des Yankee-Kanals hebt dieser Aussichtspunkt die entscheidenden Bewässerungssysteme der Reisfelder von Cane Grove hervor.",
+                  "category": "natural",
+                  "coords": [
+                        -57.887664,
+                        6.574308
+                  ]
+            },
+            {
+                  "name": "End 3 x4",
+                  "text": "Inmitten der produktiven ländlichen Ländereien von Cane Grove gelegen, fängt dieser Aussichtspunkt einen weiten Winkel der sorgfältig gepflegten Reisfelder ein.",
+                  "category": "natural",
+                  "coords": [
+                        -57.900966,
+                        6.604152
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Dieser markante Aussichtspunkt in Cane Grove markiert den Beginn des Weges und präsentiert ein einführendes Panorama des lokalen landwirtschaftlichen Anwesens.",
+                  "category": "natural",
+                  "coords": [
+                        -57.902064,
+                        6.600517
+                  ]
+            },
+            {
+                  "name": "Sugrim grass hook",
+                  "text": "Benannt nach einem markanten lokalen Wahrzeichen, bietet dieser Aussichtspunkt einen Panoramablick über die grasbewachsenen Ränder der Reisfelder von Cane Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -57.911025,
+                        6.533041
+                  ]
+            },
+            {
+                  "name": "Martin burial ground",
+                  "text": "Mit Blick auf einen historischen lokalen Friedhof bietet dieser ruhige Aussichtspunkt in Cane Grove einen Raum für Besinnung inmitten der landwirtschaftlichen Felder.",
+                  "category": "natural",
+                  "coords": [
+                        -57.896516,
+                        6.527012
+                  ]
+            },
+            {
+                  "name": "Cane Grove Methodist Church",
+                  "text": "Diese historische methodistische Kirche dient als zentraler Ort der christlichen Anbetung und der Gemeindezusammenkunft im Herzen von Cane Grove.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.919956,
+                        6.626109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "137 start",
+                  "text": "Ebből a mezőgazdasági kilátóból a látogatók végignézhetnek Cane Grove hatalmas, vízzel teli rizsföldjein.",
+                  "category": "natural",
+                  "coords": [
+                        -57.90603,
+                        6.617567
+                  ]
+            },
+            {
+                  "name": "Grader 1",
+                  "text": "Ez a kilátópont tiszta rálátást biztosít a Cane Grove rizsföldjein dolgozó nehéz mezőgazdasági gépekre.",
+                  "category": "natural",
+                  "coords": [
+                        -57.899337,
+                        6.622493
+                  ]
+            },
+            {
+                  "name": "Turn",
+                  "text": "A mezőgazdasági utak kanyarulatában található kilátó a helyi rizstermesztés szervezett rácsozatára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -57.897551,
+                        6.614926
+                  ]
+            },
+            {
+                  "name": "End 137",
+                  "text": "Ez a megfigyelőhely a mezőgazdasági parcellák szélét jelzi, és széles kilátást nyújt a Cane Grove-i rizstermésre.",
+                  "category": "natural",
+                  "coords": [
+                        -57.895664,
+                        6.611857
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "A termékeny vizes élőhelyekre néző kilátó megörökíti a Cane Grove területén folyó rizstermesztés kiterjedt méreteit.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906005,
+                        6.627793
+                  ]
+            },
+            {
+                  "name": "End 3",
+                  "text": "Ez a különleges kilátópont a Cane Grove térségében festői kilátást nyújt a helyi rizstermelő vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -57.904639,
+                        6.631567
+                  ]
+            },
+            {
+                  "name": "End 4",
+                  "text": "A Cane Grove mezőgazdasági régiójában található kilátópont nyitott panorámát kínál a látogatóknak a környező termőföldekre.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906283,
+                        6.633915
+                  ]
+            },
+            {
+                  "name": "End 5",
+                  "text": "A Cane Grove vidéki ösvényei mentén található festői hely tiszta megfigyelőpontot biztosít a mezőgazdasági vizes élőhelyek felett.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906787,
+                        6.632082
+                  ]
+            },
+            {
+                  "name": "Check1",
+                  "text": "Ez a Cane Grove környéki ösvényjelzőként is szolgáló kilátó lehetővé teszi a látogatók számára, hogy megpihenjenek és gyönyörködjenek a vidéki tájban.",
+                  "category": "natural",
+                  "coords": [
+                        -57.914807,
+                        6.630736
+                  ]
+            },
+            {
+                  "name": "Towards main road",
+                  "text": "Ez a különleges kilátópont a fő bekötőútra néz, szembeállítva a kikövezett utat a környező Cane Grove-i rizsföldekkel.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91444,
+                        6.632259
+                  ]
+            },
+            {
+                  "name": "End 6",
+                  "text": "A Cane Grove-i csendes megfigyelőhelyet kínáló kilátópontot a helyi mezőgazdaság élénk zöldje veszi körül.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91387,
+                        6.633943
+                  ]
+            },
+            {
+                  "name": "Start 8",
+                  "text": "Ez a Cane Grove kerületben található megfigyelőpont a helyi rizstermeléshez nélkülözhetetlen bonyolult mezőhálózatra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91309,
+                        6.637258
+                  ]
+            },
+            {
+                  "name": "Start 9",
+                  "text": "A Cane Grove mezőgazdasági szívében elhelyezkedő kilátó lehetővé teszi a látogatók számára, hogy megfigyeljék a mezőgazdasági élet napi ritmusát.",
+                  "category": "natural",
+                  "coords": [
+                        -57.912389,
+                        6.639087
+                  ]
+            },
+            {
+                  "name": "Yankee canal",
+                  "text": "A Yankee-csatorna áramló vizére néző kilátópont kiemeli a Cane Grove rizsföldek kulcsfontosságú öntözőrendszereit.",
+                  "category": "natural",
+                  "coords": [
+                        -57.887664,
+                        6.574308
+                  ]
+            },
+            {
+                  "name": "End 3 x4",
+                  "text": "A Cane Grove termékeny vidéki földjei között elhelyezkedő kilátó széles látószöget biztosít a gondosan ápolt rizsföldekre.",
+                  "category": "natural",
+                  "coords": [
+                        -57.900966,
+                        6.604152
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Az ösvény kezdetét jelző kiemelkedő kilátópont Cane Grove-ban bevezető panorámát nyújt a helyi mezőgazdasági birtokra.",
+                  "category": "natural",
+                  "coords": [
+                        -57.902064,
+                        6.600517
+                  ]
+            },
+            {
+                  "name": "Sugrim grass hook",
+                  "text": "A jellegzetes helyi nevezetességről elnevezett kilátópont panorámás kilátást nyújt a Cane Grove-i rizsföldek füves határaira.",
+                  "category": "natural",
+                  "coords": [
+                        -57.911025,
+                        6.533041
+                  ]
+            },
+            {
+                  "name": "Martin burial ground",
+                  "text": "A történelmi helyi temetőre néző csendes Cane Grove-i kilátó teret biztosít az elmélkedésre a mezőgazdasági földek között.",
+                  "category": "natural",
+                  "coords": [
+                        -57.896516,
+                        6.527012
+                  ]
+            },
+            {
+                  "name": "Cane Grove Methodist Church",
+                  "text": "Ez a történelmi metodista templom a keresztény istentisztelet és a közösségi összejövetelek központi helyeként szolgál Cane Grove szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.919956,
+                        6.626109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "137 start",
+                  "text": "Vizitatorii pot privi peste orezăriile vaste și pline de apă din Cane Grove din acest punct de observație agricol.",
+                  "category": "natural",
+                  "coords": [
+                        -57.90603,
+                        6.617567
+                  ]
+            },
+            {
+                  "name": "Grader 1",
+                  "text": "Acest punct de observație oferă o vedere clară asupra utilajelor agricole grele care lucrează câmpurile de orez din Cane Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -57.899337,
+                        6.622493
+                  ]
+            },
+            {
+                  "name": "Turn",
+                  "text": "Situat la o cotitură a potecilor agricole, acest punct de belvedere are vedere spre grila organizată a cultivării locale a orezului.",
+                  "category": "natural",
+                  "coords": [
+                        -57.897551,
+                        6.614926
+                  ]
+            },
+            {
+                  "name": "End 137",
+                  "text": "Acest loc de observare marchează marginea parcelelor agricole, oferind vederi ample asupra recoltei de orez din Cane Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -57.895664,
+                        6.611857
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Cu vedere la zonele umede fertile, acest punct de belvedere surprinde scara extinsă a cultivării orezului în zona Cane Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906005,
+                        6.627793
+                  ]
+            },
+            {
+                  "name": "End 3",
+                  "text": "Acest punct de belvedere specific din zona Cane Grove oferă o priveliște pitorească asupra peisajului agricol local de orez.",
+                  "category": "natural",
+                  "coords": [
+                        -57.904639,
+                        6.631567
+                  ]
+            },
+            {
+                  "name": "End 4",
+                  "text": "Situat în regiunea agricolă din Cane Grove, acest punct de belvedere oferă vizitatorilor o panoramă deschisă a câmpurilor de cultură din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906283,
+                        6.633915
+                  ]
+            },
+            {
+                  "name": "End 5",
+                  "text": "Situat de-a lungul traseelor rurale din Cane Grove, acest loc pitoresc oferă un punct clar de observație asupra zonelor umede agricole.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906787,
+                        6.632082
+                  ]
+            },
+            {
+                  "name": "Check1",
+                  "text": "Servind ca marcaj de traseu în zona Cane Grove, acest punct de belvedere permite vizitatorilor să se oprească și să admire peisajul rural.",
+                  "category": "natural",
+                  "coords": [
+                        -57.914807,
+                        6.630736
+                  ]
+            },
+            {
+                  "name": "Towards main road",
+                  "text": "Acest punct de belvedere specific privește spre drumul principal de acces, contrastând ruta asfaltată cu orezăriile din jur din Cane Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91444,
+                        6.632259
+                  ]
+            },
+            {
+                  "name": "End 6",
+                  "text": "Oferind un loc liniștit pentru observație în Cane Grove, acest punct de belvedere este înconjurat de verdeața vibrantă a agriculturii locale.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91387,
+                        6.633943
+                  ]
+            },
+            {
+                  "name": "Start 8",
+                  "text": "Acest punct de observație din districtul Cane Grove are vedere la rețeaua complicată de câmpuri esențiale pentru producția locală de orez.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91309,
+                        6.637258
+                  ]
+            },
+            {
+                  "name": "Start 9",
+                  "text": "Poziționat în inima agricolă a zonei Cane Grove, acest punct de belvedere permite vizitatorilor să observe ritmurile zilnice ale vieții agricole.",
+                  "category": "natural",
+                  "coords": [
+                        -57.912389,
+                        6.639087
+                  ]
+            },
+            {
+                  "name": "Yankee canal",
+                  "text": "Având vedere la apele curgătoare ale canalului Yankee, acest punct de belvedere evidențiază sistemele cruciale de irigare ale orezăriilor din Cane Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -57.887664,
+                        6.574308
+                  ]
+            },
+            {
+                  "name": "End 3 x4",
+                  "text": "Situat printre terenurile rurale productive din Cane Grove, acest loc de perspectivă surprinde un unghi larg al câmpurilor de orez atent îngrijite.",
+                  "category": "natural",
+                  "coords": [
+                        -57.900966,
+                        6.604152
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Marcând începutul traseului, acest punct de belvedere proeminent din Cane Grove prezintă o panoramă introductivă a domeniului agricol local.",
+                  "category": "natural",
+                  "coords": [
+                        -57.902064,
+                        6.600517
+                  ]
+            },
+            {
+                  "name": "Sugrim grass hook",
+                  "text": "Numit după un punct de reper local distinct, acest punct de belvedere oferă vederi panoramice peste granițele cu iarbă ale orezăriilor din Cane Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -57.911025,
+                        6.533041
+                  ]
+            },
+            {
+                  "name": "Martin burial ground",
+                  "text": "Având vedere la un cimitir local istoric, acest punct de belvedere liniștit din Cane Grove oferă un spațiu de reflecție în mijlocul câmpurilor agricole.",
+                  "category": "natural",
+                  "coords": [
+                        -57.896516,
+                        6.527012
+                  ]
+            },
+            {
+                  "name": "Cane Grove Methodist Church",
+                  "text": "Această biserică metodistă istorică servește ca loc central de cult creștin și de adunare a comunității în inima zonei Cane Grove.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.919956,
+                        6.626109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "137 start",
+                  "text": "Visitors can look out over the vast, water-filled rice paddies of Cane Grove from this agricultural viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        -57.90603,
+                        6.617567
+                  ]
+            },
+            {
+                  "name": "Grader 1",
+                  "text": "This vantage point provides a clear view of the heavy agricultural machinery working the Cane Grove rice fields.",
+                  "category": "natural",
+                  "coords": [
+                        -57.899337,
+                        6.622493
+                  ]
+            },
+            {
+                  "name": "Turn",
+                  "text": "Situated at a bend in the agricultural paths, this viewpoint overlooks the organized grid of the local rice cultivation.",
+                  "category": "natural",
+                  "coords": [
+                        -57.897551,
+                        6.614926
+                  ]
+            },
+            {
+                  "name": "End 137",
+                  "text": "This observation spot marks the edge of the farming plots, offering sweeping views of the Cane Grove rice harvest.",
+                  "category": "natural",
+                  "coords": [
+                        -57.895664,
+                        6.611857
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Overlooking the fertile wetlands, this viewpoint captures the expansive scale of rice farming in the Cane Grove area.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906005,
+                        6.627793
+                  ]
+            },
+            {
+                  "name": "End 3",
+                  "text": "This specific vantage point in the Cane Grove area provides a scenic outlook over the local rice-farming landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -57.904639,
+                        6.631567
+                  ]
+            },
+            {
+                  "name": "End 4",
+                  "text": "Situated in the agricultural region of Cane Grove, this viewpoint offers visitors an open panorama of the surrounding crop fields.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906283,
+                        6.633915
+                  ]
+            },
+            {
+                  "name": "End 5",
+                  "text": "Located along the rural trails of Cane Grove, this scenic spot provides a clear observation point over the agricultural wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        -57.906787,
+                        6.632082
+                  ]
+            },
+            {
+                  "name": "Check1",
+                  "text": "Serving as a trail marker in the Cane Grove area, this viewpoint allows visitors to pause and take in the rural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -57.914807,
+                        6.630736
+                  ]
+            },
+            {
+                  "name": "Towards main road",
+                  "text": "This specific viewpoint looks out towards the main access road, contrasting the paved route with the surrounding Cane Grove rice fields.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91444,
+                        6.632259
+                  ]
+            },
+            {
+                  "name": "End 6",
+                  "text": "Offering a quiet place for observation in Cane Grove, this viewpoint is surrounded by the vibrant greenery of local agriculture.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91387,
+                        6.633943
+                  ]
+            },
+            {
+                  "name": "Start 8",
+                  "text": "This observation point in the Cane Grove district overlooks the intricate network of fields essential to local rice production.",
+                  "category": "natural",
+                  "coords": [
+                        -57.91309,
+                        6.637258
+                  ]
+            },
+            {
+                  "name": "Start 9",
+                  "text": "Positioned within the agricultural heart of Cane Grove, this viewpoint allows visitors to observe the daily rhythms of farming life.",
+                  "category": "natural",
+                  "coords": [
+                        -57.912389,
+                        6.639087
+                  ]
+            },
+            {
+                  "name": "Yankee canal",
+                  "text": "Overlooking the flowing waters of the Yankee canal, this viewpoint highlights the crucial irrigation systems of the Cane Grove rice fields.",
+                  "category": "natural",
+                  "coords": [
+                        -57.887664,
+                        6.574308
+                  ]
+            },
+            {
+                  "name": "End 3 x4",
+                  "text": "Set amongst the productive rural lands of Cane Grove, this outlook spot captures a wide angle of the carefully tended paddies.",
+                  "category": "natural",
+                  "coords": [
+                        -57.900966,
+                        6.604152
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Marking the beginning of the trail, this prominent viewpoint in Cane Grove presents an introductory panorama of the local farming estate.",
+                  "category": "natural",
+                  "coords": [
+                        -57.902064,
+                        6.600517
+                  ]
+            },
+            {
+                  "name": "Sugrim grass hook",
+                  "text": "Named after a distinct local landmark, this viewpoint offers panoramic vistas across the grassy borders of the Cane Grove rice fields.",
+                  "category": "natural",
+                  "coords": [
+                        -57.911025,
+                        6.533041
+                  ]
+            },
+            {
+                  "name": "Martin burial ground",
+                  "text": "Overlooking a historic local cemetery, this quiet viewpoint in Cane Grove provides a space for reflection amidst the agricultural fields.",
+                  "category": "natural",
+                  "coords": [
+                        -57.896516,
+                        6.527012
+                  ]
+            },
+            {
+                  "name": "Cane Grove Methodist Church",
+                  "text": "This historic Methodist church serves as a central place of Christian worship and community gathering in the heart of Cane Grove.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.919956,
+                        6.626109
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GY-DE",
     coords: [-57.92, 6.58],
@@ -988,7 +3427,88 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Ancienne plantation de sucre", "Conversion au riz au XXe siècle", "Situé sur la côte est de Demerara (Région 4)", "Utilise un vaste système de canaux d'irrigation", "Plusieurs rizeries modernes sur place", "Centre des coopératives agricoles"],
     },
   }, {
-    id: "guyana-zoological-park-life-v2",
+    id: "guyana-zoological-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Culture Centre",
+                  "text": "Das wichtigste Kulturzentrum des Landes, das über einen großen Theatersaal für nationale Aufführungen verfügt.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.139961,
+                        6.802564
+                  ]
+            },
+            {
+                  "name": "Olivet Seventh Day Adventist Church",
+                  "text": "Ein Gotteshaus der Siebenten-Tags-Adventisten, das sich durch seine aktive Gemeindearbeit in Georgetown auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.137507,
+                        6.798881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Culture Centre",
+                  "text": "Az ország legfontosabb kulturális központja, amely nagy színházteremmel rendelkezik a nemzeti előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.139961,
+                        6.802564
+                  ]
+            },
+            {
+                  "name": "Olivet Seventh Day Adventist Church",
+                  "text": "A Hetednapi Adventista Egyház temploma, amely aktív közösségi munkájáról ismert Georgetownban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.137507,
+                        6.798881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Culture Centre",
+                  "text": "Cel mai important centru cultural al țării, care dispune de o sală mare de teatru pentru spectacole naționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.139961,
+                        6.802564
+                  ]
+            },
+            {
+                  "name": "Olivet Seventh Day Adventist Church",
+                  "text": "Un lăcaș de cult al Adventiștilor de Ziua a Șaptea, cunoscut pentru activitatea sa comunitară intensă în Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.137507,
+                        6.798881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Culture Centre",
+                  "text": "The nation's premier cultural hub, featuring a large theatre hall for national performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.139961,
+                        6.802564
+                  ]
+            },
+            {
+                  "name": "Olivet Seventh Day Adventist Church",
+                  "text": "A Seventh-Day Adventist house of worship known for its active community work in Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.137507,
+                        6.798881
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GY-DE",
     coords: [-58.14, 6.81],
@@ -1035,7 +3555,160 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Ouverture en 1952", "Situé dans les jardins botaniques de Georgetown", "Abrite de rares aigles harpies", "Célèbre population de lamantins dans les étangs", "Accent sur les espèces animales indigènes du Guyana", "Centre de réhabilitation de la faune sauvage"],
     },
   }, {
-    id: "guyana-national-park-life-v2",
+    id: "guyana-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "1823 Monument",
+                  "text": "Dieses ergreifende Denkmal erinnert an die versklavten Afrikaner, die während des Demerara-Aufstands von 1823 ihr Leben verloren.",
+                  "category": "historical",
+                  "coords": [
+                        -58.145257,
+                        6.825128
+                  ]
+            },
+            {
+                  "name": "Guyana Deaf Mission",
+                  "text": "Diese spezialisierte Kultstätte bietet barrierefreie religiöse Gottesdienste und Gemeinschaftsunterstützung, die auf die gehörlose Gemeinde zugeschnitten sind.",
+                  "category": "religious",
+                  "coords": [
+                        -58.145445,
+                        6.814486
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary Roman Catholic Church",
+                  "text": "Katholische Kirche, die der lokalen Gemeinde in der Nähe des Nationalparks dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.142725,
+                        6.82257
+                  ]
+            },
+            {
+                  "name": "Kitty Market",
+                  "text": "Historisches Marktgebäude im lebhaften Viertel Kitty.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.142218,
+                        6.818838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "1823 Monument",
+                  "text": "Ez a megrendítő emlékmű a rabszolgasorba taszított afrikaiaknak állít emléket, akik az 1823-as demerarai lázadás során vesztették életüket.",
+                  "category": "historical",
+                  "coords": [
+                        -58.145257,
+                        6.825128
+                  ]
+            },
+            {
+                  "name": "Guyana Deaf Mission",
+                  "text": "Ez a speciális istentiszteleti hely hozzáférhető vallási szertartásokat és közösségi támogatást kínál, amelyet a siket gyülekezetre szabtak.",
+                  "category": "religious",
+                  "coords": [
+                        -58.145445,
+                        6.814486
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary Roman Catholic Church",
+                  "text": "A helyi egyházközséget szolgáló katolikus templom a nemzeti park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.142725,
+                        6.82257
+                  ]
+            },
+            {
+                  "name": "Kitty Market",
+                  "text": "Történelmi piacépület a nyüzsgő Kitty negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.142218,
+                        6.818838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "1823 Monument",
+                  "text": "Acest memorial emoționant îi comemorează pe africanii înrobiți care și-au pierdut viața în timpul rebeliunii Demerara din 1823.",
+                  "category": "historical",
+                  "coords": [
+                        -58.145257,
+                        6.825128
+                  ]
+            },
+            {
+                  "name": "Guyana Deaf Mission",
+                  "text": "Acest lăcaș de cult specializat oferă slujbe religioase accesibile și sprijin comunitar adaptat pentru congregația surzilor.",
+                  "category": "religious",
+                  "coords": [
+                        -58.145445,
+                        6.814486
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary Roman Catholic Church",
+                  "text": "Biserică catolică ce deservește parohia locală, situată lângă parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.142725,
+                        6.82257
+                  ]
+            },
+            {
+                  "name": "Kitty Market",
+                  "text": "Clădire istorică de piață situată în cartierul vibrant Kitty.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.142218,
+                        6.818838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "1823 Monument",
+                  "text": "This poignant memorial commemorates the enslaved Africans who lost their lives during the 1823 Demerara rebellion.",
+                  "category": "historical",
+                  "coords": [
+                        -58.145257,
+                        6.825128
+                  ]
+            },
+            {
+                  "name": "Guyana Deaf Mission",
+                  "text": "This specialized place of worship offers accessible religious services and community support tailored for the deaf congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -58.145445,
+                        6.814486
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary Roman Catholic Church",
+                  "text": "Catholic church serving the local parish near the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.142725,
+                        6.82257
+                  ]
+            },
+            {
+                  "name": "Kitty Market",
+                  "text": "Historic marketplace building located in the vibrant Kitty neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.142218,
+                        6.818838
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GY-DE",
     coords: [-58.145, 6.82],
@@ -1082,7 +3755,196 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Anciennement connu sous le nom de Bel Air Park", "Reconversion en parc national dans les années 1960", "Site des célébrations de l'indépendance", "Abrite des lamantins dans les cours d'eau", "Lieu principal des festivités du Mashramani", "Site central pour le cricket et le rugby"],
     },
   }, {
-    id: "splashmins-water-park-life-v2",
+    id: "splashmins-water-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farm land",
+                  "text": "Ein erhöhter Punkt in der Nähe von Splashmin's, der einen weiten Blick über die fruchtbaren landwirtschaftlichen Parzellen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.170539,
+                        6.539189
+                  ]
+            },
+            {
+                  "name": "Marudi Creek Resort",
+                  "text": "Ein tropischer Freizeitpark und ein Resort an den erfrischenden schwarzen Gewässern des Marudi Creek.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.203943,
+                        6.518539
+                  ]
+            },
+            {
+                  "name": "Splashmin's Water Park",
+                  "text": "Ein belebter Wasser-Themenpark, der für seine Erholungsmöglichkeiten am See, seine Wasserrutschen und seine natürlichen weißen Sandufer bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.214789,
+                        6.504064
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Ein lokales Gotteshaus der Siebenten-Tags-Adventisten, das der Gemeinde in der Nähe der Wasserparks spirituelle Unterstützung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -58.200029,
+                        6.537005
+                  ]
+            },
+            {
+                  "name": "St. Cathrine Roman Catholic Church",
+                  "text": "Eine lokale katholische Pfarrkirche, die den Bewohnern in der Gegend von Splashmin's einen Ort des Gebets und des Gottesdienstes bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.195508,
+                        6.539377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farm land",
+                  "text": "Egy magaslat Splashmin's közelében, ahonnan átfogó kilátás nyílik a termékeny mezőgazdasági parcellákra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.170539,
+                        6.539189
+                  ]
+            },
+            {
+                  "name": "Marudi Creek Resort",
+                  "text": "Trópusi vidámpark és üdülőközpont, amely a Marudi Creek frissítő fekete vize mellett fészkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.203943,
+                        6.518539
+                  ]
+            },
+            {
+                  "name": "Splashmin's Water Park",
+                  "text": "Egy nyüzsgő vízi vidámpark, amely a tóparti kikapcsolódásról, a vízi csúszdákról és a természetes fehér homokos partokról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.214789,
+                        6.504064
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Egy helyi Hetednapi Adventista istentiszteleti hely, amely lelki támogatást nyújt a vízi parkok melletti közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -58.200029,
+                        6.537005
+                  ]
+            },
+            {
+                  "name": "St. Cathrine Roman Catholic Church",
+                  "text": "Helyi katolikus plébániatemplom, amely imádkozási és istentiszteleti helyet kínál a Splashmin's környékén élők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.195508,
+                        6.539377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farm land",
+                  "text": "Un loc înalt în apropiere de Splashmin's care oferă o vedere panoramică asupra parcelelor agricole fertile.",
+                  "category": "natural",
+                  "coords": [
+                        -58.170539,
+                        6.539189
+                  ]
+            },
+            {
+                  "name": "Marudi Creek Resort",
+                  "text": "Un parc tematic și complex turistic tropical amplasat alături de apele negre și răcoritoare ale pârâului Marudi Creek.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.203943,
+                        6.518539
+                  ]
+            },
+            {
+                  "name": "Splashmin's Water Park",
+                  "text": "Un parc tematic acvatic plin de viață, renumit pentru recreerea pe malul lacului, toboganele cu apă și țărmurile sale naturale de nisip alb.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.214789,
+                        6.504064
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Un lăcaș de cult local al Adventiștilor de Ziua a Șaptea, oferind sprijin spiritual comunității din apropierea parcurilor acvatice.",
+                  "category": "religious",
+                  "coords": [
+                        -58.200029,
+                        6.537005
+                  ]
+            },
+            {
+                  "name": "St. Cathrine Roman Catholic Church",
+                  "text": "O biserică parohială catolică locală, oferind un loc de rugăciune și închinare locuitorilor din zona Splashmin's.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.195508,
+                        6.539377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farm land",
+                  "text": "An elevated spot near Splashmin's offering a sweeping view across the fertile agricultural plots.",
+                  "category": "natural",
+                  "coords": [
+                        -58.170539,
+                        6.539189
+                  ]
+            },
+            {
+                  "name": "Marudi Creek Resort",
+                  "text": "A tropical theme park and resort nestled alongside the refreshing black waters of Marudi Creek.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.203943,
+                        6.518539
+                  ]
+            },
+            {
+                  "name": "Splashmin's Water Park",
+                  "text": "A bustling water theme park famous for its lakeside recreation, waterslides, and natural white-sand shores.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.214789,
+                        6.504064
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A local Seventh Day Adventist place of worship providing spiritual support for the community near the water parks.",
+                  "category": "religious",
+                  "coords": [
+                        -58.200029,
+                        6.537005
+                  ]
+            },
+            {
+                  "name": "St. Cathrine Roman Catholic Church",
+                  "text": "A local Catholic parish church offering a place of prayer and worship to residents in the Splashmin's area.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.195508,
+                        6.539377
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GY-DE",
     coords: [-58.18, 6.5],
@@ -1129,7 +3991,160 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Ouvert en l'an 2000", "Situé sur l'autoroute Soesdyke-Linden", "Dispose de lacs naturels d'eau noire", "S'étend sur plus de 100 hectares", "Premier grand parc aquatique du Guyana", "Proche de l'aéroport international Cheddi Jagan"],
     },
   }, {
-    id: "joe-vieira-park-life-v2",
+    id: "joe-vieira-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten nahe dem beliebten Erholungspark Joe Vieira.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.183959,
+                        6.800125
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ein lokaler Versammlungssaal der Zeugen Jehovas am Westufer des Demerara-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.18636,
+                        6.792498
+                  ]
+            },
+            {
+                  "name": "Malgre Tout Mosque",
+                  "text": "Eine Moschee im historischen Dorf Malgre Tout, bekannt für ihre Lage am Flussufer.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.185358,
+                        6.795284
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Roman Catholic Church",
+                  "text": "Diese katholische Kirche dient der Gemeinde Malgre Tout am Westufer des Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186314,
+                        6.795493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Hetednapi adventista templom a népszerű Joe Vieira szabadidőpark közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.183959,
+                        6.800125
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Jehova Tanúi helyi gyülekezeti terme a Demerara-folyó nyugati partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.18636,
+                        6.792498
+                  ]
+            },
+            {
+                  "name": "Malgre Tout Mosque",
+                  "text": "Mecset a történelmi Malgre Tout faluban, amely folyóparti fekvéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.185358,
+                        6.795284
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Roman Catholic Church",
+                  "text": "Ez a katolikus templom a Demerara nyugati partján fekvő Malgre Tout közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186314,
+                        6.795493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "O biserică adventistă de ziua a șaptea lângă popularul parc recreativ Joe Vieira.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.183959,
+                        6.800125
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "O sală de regat a Martorilor lui Iehova pe malul de vest al râului Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.18636,
+                        6.792498
+                  ]
+            },
+            {
+                  "name": "Malgre Tout Mosque",
+                  "text": "O moschee în satul istoric Malgre Tout, cunoscută pentru așezarea sa pe malul râului.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.185358,
+                        6.795284
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Roman Catholic Church",
+                  "text": "Această biserică catolică deservește comunitatea Malgre Tout de pe malul de vest al Demerarei.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186314,
+                        6.795493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A Seventh-day Adventist church near the popular Joe Vieira Park recreational area.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.183959,
+                        6.800125
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A local Jehovah's Witness meeting hall on the West Bank of the Demerara River.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.18636,
+                        6.792498
+                  ]
+            },
+            {
+                  "name": "Malgre Tout Mosque",
+                  "text": "A mosque in the historic Malgre Tout village, known for its riverside setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.185358,
+                        6.795284
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation Roman Catholic Church",
+                  "text": "This Catholic church serves the Malgre Tout community on the West Bank of the Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186314,
+                        6.795493
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GY-ES",
     coords: [-58.18, 6.8],
@@ -1176,7 +4191,124 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Situé sur la rive ouest du fleuve Demerara", "Nommé d'après le philanthrope Joseph Vieira", "Lieu principal pour le lâcher de cerfs-volants à Pâques", "Site de grands événements culturels et sportifs", "À proximité du Demerara Harbour Bridge (ouvert en 1978)", "Espace vert majeur pour la région de Schoonord"],
     },
   }, {
-    id: "georgetown-botanical-gardens-life-v2",
+    id: "georgetown-botanical-gardens-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "East Georgetown Sunnatul Jamma Masjid",
+                  "text": "Eine sunnitische Moschee im Osten von Georgetown, die der muslimischen Gemeinde der Hauptstadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.13001,
+                        6.812067
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas für religiöse Versammlungen in Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.134157,
+                        6.815663
+                  ]
+            },
+            {
+                  "name": "St. Teresa's Roman Catholic Church",
+                  "text": "Die römisch-katholische St.-Teresa-Kirche, ein markantes religiöses Gebäude in Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.135059,
+                        6.813173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "East Georgetown Sunnatul Jamma Masjid",
+                  "text": "Szunnita mecset Georgetown keleti részén, amely a főváros muszlim közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.13001,
+                        6.812067
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Jehova Tanúi királyságterme vallási összejövetelekhez Georgetownban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.134157,
+                        6.815663
+                  ]
+            },
+            {
+                  "name": "St. Teresa's Roman Catholic Church",
+                  "text": "A Szent Teréz római katolikus templom, Georgetown egyik jellegzetes vallási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.135059,
+                        6.813173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "East Georgetown Sunnatul Jamma Masjid",
+                  "text": "O moschee sunnită în estul orașului Georgetown, care deservește comunitatea musulmană din capitală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.13001,
+                        6.812067
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova pentru întruniri religioase în Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.134157,
+                        6.815663
+                  ]
+            },
+            {
+                  "name": "St. Teresa's Roman Catholic Church",
+                  "text": "Biserica romano-catolică Sfânta Tereza, o clădire religioasă proeminentă din Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.135059,
+                        6.813173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "East Georgetown Sunnatul Jamma Masjid",
+                  "text": "A Sunni mosque in East Georgetown, serving the capital city's Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.13001,
+                        6.812067
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses used for religious meetings in Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.134157,
+                        6.815663
+                  ]
+            },
+            {
+                  "name": "St. Teresa's Roman Catholic Church",
+                  "text": "St. Teresa's Roman Catholic Church, a prominent religious building in Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.135059,
+                        6.813173
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GY-DE",
     coords: [-58.135, 6.81],
@@ -1223,7 +4355,268 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Fondé en 1879", "Conçu par le botaniste John Frederick Waby", "Abrite la Victoria amazonica (fleur nationale)", "Célèbre étang aux lamantins des Antilles", "Siège du zoo national du Guyana", "Accueille plus de 270 espèces d'oiseaux différentes"],
     },
   }, {
-    id: "colgrain-swimming-pool-life-v2",
+    id: "colgrain-swimming-pool-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Work",
+                  "text": "Dieser städtische Beobachtungspunkt bietet einen täglichen Blick auf die umliegenden gewerblichen Arbeitsbereiche und den Straßenverkehr.",
+                  "category": "natural",
+                  "coords": [
+                        -58.148855,
+                        6.81095
+                  ]
+            },
+            {
+                  "name": "Queenstown Mosque",
+                  "text": "Diese markante Moschee im Viertel Queenstown ist ein wichtiges spirituelles Zentrum für die lokale islamische Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -58.151113,
+                        6.810152
+                  ]
+            },
+            {
+                  "name": "New Apostolic Church",
+                  "text": "Dieses christliche Kirchengebäude beherbergt die traditionellen Gottesdienste und die Chormusik des neuapostolischen Glaubens.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.151043,
+                        6.807814
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Roman Catolich Church",
+                  "text": "Diese der Marienerscheinung geweihte katholische Pfarrkirche bietet ein friedliches Heiligtum für das tägliche Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.150826,
+                        6.808846
+                  ]
+            },
+            {
+                  "name": "Guyana Open Bible Church",
+                  "text": "Als Teil des Open Bible-Netzwerks bietet diese Kirche der lokalen Gemeinschaft evangelikal-christliche Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.149944,
+                        6.815976
+                  ]
+            },
+            {
+                  "name": "Rose's Memorial Presbyterian Church",
+                  "text": "Diese presbyterianische Kirche dient sowohl als Ort für traditionelle christliche Gottesdienste als auch als Denkmal für ihre Gründer.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.146635,
+                        6.814106
+                  ]
+            },
+            {
+                  "name": "St. Peter's AME Church",
+                  "text": "Diese historische Kirche gehört zur African Methodist Episcopal-Konfession und veranstaltet regelmäßig Gemeindegottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -58.149826,
+                        6.812275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Work",
+                  "text": "Ez a városi megfigyelőpont napi rálátást biztosít a környező kereskedelmi munkaterületekre és az utcai forgalomra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.148855,
+                        6.81095
+                  ]
+            },
+            {
+                  "name": "Queenstown Mosque",
+                  "text": "A Queenstown negyedben található kiemelkedő mecset a helyi iszlám közösség fontos spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        -58.151113,
+                        6.810152
+                  ]
+            },
+            {
+                  "name": "New Apostolic Church",
+                  "text": "Ez a keresztény templomépület az újapostoli hit hagyományos istentiszteleteinek és kóruszenéjének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.151043,
+                        6.807814
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Roman Catolich Church",
+                  "text": "A Mária-jelenésnek szentelt katolikus plébániatemplom békés menedéket nyújt a napi imákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.150826,
+                        6.808846
+                  ]
+            },
+            {
+                  "name": "Guyana Open Bible Church",
+                  "text": "Az Open Bible hálózat részeként ez a templom evangéliumi keresztény istentiszteleteket kínál a helyi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.149944,
+                        6.815976
+                  ]
+            },
+            {
+                  "name": "Rose's Memorial Presbyterian Church",
+                  "text": "Ez a presbiteriánus templom egyaránt szolgál a hagyományos keresztény istentiszteletek helyszíneként és az alapítók emlékműveként.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.146635,
+                        6.814106
+                  ]
+            },
+            {
+                  "name": "St. Peter's AME Church",
+                  "text": "Ez a történelmi templom az Afrikai Metodista Püspöki felekezethez tartozik, és rendszeres közösségi istentiszteleteknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -58.149826,
+                        6.812275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Work",
+                  "text": "Acest punct de observație urban oferă o vedere zilnică asupra spațiilor comerciale din jur și a traficului stradal.",
+                  "category": "natural",
+                  "coords": [
+                        -58.148855,
+                        6.81095
+                  ]
+            },
+            {
+                  "name": "Queenstown Mosque",
+                  "text": "Situată în cartierul Queenstown, această moschee proeminentă este un centru spiritual important pentru comunitatea islamică locală.",
+                  "category": "religious",
+                  "coords": [
+                        -58.151113,
+                        6.810152
+                  ]
+            },
+            {
+                  "name": "New Apostolic Church",
+                  "text": "Această clădire a bisericii creștine găzduiește slujbele tradiționale și muzica corală a credinței Nou Apostolice.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.151043,
+                        6.807814
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima Roman Catolich Church",
+                  "text": "Dedicată apariției Fecioarei Maria, această biserică parohială catolică oferă un sanctuar pașnic pentru rugăciunea zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.150826,
+                        6.808846
+                  ]
+            },
+            {
+                  "name": "Guyana Open Bible Church",
+                  "text": "Ca parte a rețelei Open Bible, această biserică oferă slujbe creștine evanghelice comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.149944,
+                        6.815976
+                  ]
+            },
+            {
+                  "name": "Rose's Memorial Presbyterian Church",
+                  "text": "Această biserică presbiteriană servește atât ca loc de închinare creștină tradițională, cât și ca memorial pentru fondatorii săi.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.146635,
+                        6.814106
+                  ]
+            },
+            {
+                  "name": "St. Peter's AME Church",
+                  "text": "Această biserică istorică aparține confesiunii Episcopale Metodiste Africane, găzduind regulat slujbe de închinare comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        -58.149826,
+                        6.812275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Work",
+                  "text": "This urban observation point provides a daily view over the surrounding commercial workspaces and street traffic.",
+                  "category": "natural",
+                  "coords": [
+                        -58.148855,
+                        6.81095
+                  ]
+            },
+            {
+                  "name": "Queenstown Mosque",
+                  "text": "Located in the Queenstown neighborhood, this prominent mosque is an important spiritual center for the local Islamic community.",
+                  "category": "religious",
+                  "coords": [
+                        -58.151113,
+                        6.810152
+                  ]
+            },
+            {
+                  "name": "New Apostolic Church",
+                  "text": "This Christian church building hosts the traditional services and choral music of the New Apostolic faith.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.151043,
+                        6.807814
+                  ]
+            },
+            {
+                  "name": "Our Lady of Fatima",
+                  "text": "Dedicated to the Marian apparition, this Catholic parish church provides a peaceful sanctuary for daily prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.150826,
+                        6.808846
+                  ]
+            },
+            {
+                  "name": "Guyana Open Bible Church",
+                  "text": "As part of the Open Bible network, this church provides evangelical Christian services to the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.149944,
+                        6.815976
+                  ]
+            },
+            {
+                  "name": "Rose's Memorial Presbyterian Church",
+                  "text": "This Presbyterian church serves as both a place of traditional Christian worship and a memorial to its founders.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.146635,
+                        6.814106
+                  ]
+            },
+            {
+                  "name": "St. Peter's AME Church",
+                  "text": "This historical church belongs to the African Methodist Episcopal denomination, hosting regular community worship services.",
+                  "category": "religious",
+                  "coords": [
+                        -58.149826,
+                        6.812275
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GY-DE",
     coords: [-58.15, 6.81],
@@ -1270,7 +4663,196 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Anciennement partie de Colgrain House (construite en 1870)", "Centre national d'entraînement pour la natation", "Dispose d'un bassin de 25 mètres", "Située sur Camp Street à Georgetown", "Ancienne propriété de la famille Booker", "Lieu des championnats nationaux de natation"],
     },
   }, {
-    id: "pandama-retreat-life-v2",
+    id: "pandama-retreat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burke Farm and Retreat",
+                  "text": "Diese landwirtschaftliche Attraktion in der Nähe des Pandama Retreat-Gebiets bietet Besuchern ein faszinierendes Erlebnis des ländlichen Farmlebens und der lokalen Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.19996,
+                        6.436512
+                  ]
+            },
+            {
+                  "name": "Hauraruni village",
+                  "text": "Mit Blick auf die malerische Siedlung Hauraruni ermöglicht dieser Aussichtspunkt Besuchern, das friedliche Alltagsleben in der Region Pandama Retreat zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -58.239825,
+                        6.439136
+                  ]
+            },
+            {
+                  "name": "Camp Wesleyana",
+                  "text": "Dieser Ort bietet einen Aussichtspunkt über das Campinggelände und hebt die im Pandama Retreat-Gebiet verfügbaren Erholungsräume im Freien hervor.",
+                  "category": "natural",
+                  "coords": [
+                        -58.237388,
+                        6.390936
+                  ]
+            },
+            {
+                  "name": "Umberalla Resort",
+                  "text": "Dieser malerische Beobachtungspunkt blickt auf das Gelände des lokalen Resorts und zeigt die entspannende Umgebung der Region Pandama Retreat.",
+                  "category": "natural",
+                  "coords": [
+                        -58.240675,
+                        6.405076
+                  ]
+            },
+            {
+                  "name": "Black Water",
+                  "text": "Diese Attraktion im Gebiet von Pandama Retreat fungiert als einzigartiger natürlicher Wasserpark und ist berühmt für ihre dunklen, erfrischenden, tanninreichen Bäche.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.2409,
+                        6.372859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burke Farm and Retreat",
+                  "text": "Ez a Pandama Retreat területéhez közeli mezőgazdasági látványosság lenyűgöző élményt nyújt a látogatóknak a vidéki tanyasi életről és a helyi természetről.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.19996,
+                        6.436512
+                  ]
+            },
+            {
+                  "name": "Hauraruni village",
+                  "text": "A festői Hauraruni településre néző kilátópont lehetővé teszi a látogatók számára, hogy megfigyeljék a békés mindennapi életet a Pandama Retreat régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -58.239825,
+                        6.439136
+                  ]
+            },
+            {
+                  "name": "Camp Wesleyana",
+                  "text": "A kemping felett kilátást nyújtó hely kiemeli a Pandama Retreat területén elérhető szabadtéri rekreációs tereket.",
+                  "category": "natural",
+                  "coords": [
+                        -58.237388,
+                        6.390936
+                  ]
+            },
+            {
+                  "name": "Umberalla Resort",
+                  "text": "Ez a festői megfigyelőpont a helyi üdülőhelyre néz, bemutatva a Pandama Retreat régió pihentető környezetét.",
+                  "category": "natural",
+                  "coords": [
+                        -58.240675,
+                        6.405076
+                  ]
+            },
+            {
+                  "name": "Black Water",
+                  "text": "Az egyedülálló természetes vízi parkként működő látványosság a Pandama Retreat területén híres sötét, frissítő, csersavban gazdag patakjairól.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.2409,
+                        6.372859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burke Farm and Retreat",
+                  "text": "Această atracție agricolă din apropierea zonei Pandama Retreat oferă vizitatorilor o experiență captivantă a vieții rurale la fermă și a naturii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.19996,
+                        6.436512
+                  ]
+            },
+            {
+                  "name": "Hauraruni village",
+                  "text": "Având vedere la așezarea pitorească Hauraruni, acest punct de belvedere permite vizitatorilor să observe viața de zi cu zi pașnică din regiunea Pandama Retreat.",
+                  "category": "natural",
+                  "coords": [
+                        -58.239825,
+                        6.439136
+                  ]
+            },
+            {
+                  "name": "Camp Wesleyana",
+                  "text": "Oferind un punct de belvedere deasupra terenurilor de campare, acest loc evidențiază spațiile de recreere în aer liber disponibile în zona Pandama Retreat.",
+                  "category": "natural",
+                  "coords": [
+                        -58.237388,
+                        6.390936
+                  ]
+            },
+            {
+                  "name": "Umberalla Resort",
+                  "text": "Acest punct de observație pitoresc are vedere la terenurile stațiunii locale, prezentând mediul relaxant al regiunii Pandama Retreat.",
+                  "category": "natural",
+                  "coords": [
+                        -58.240675,
+                        6.405076
+                  ]
+            },
+            {
+                  "name": "Black Water",
+                  "text": "Funcționând ca un parc acvatic natural unic, această atracție din zona Pandama Retreat este renumită pentru pâraiele sale întunecate, răcoritoare și bogate în tanin.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.2409,
+                        6.372859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burke Farm and Retreat",
+                  "text": "This agricultural attraction near the Pandama Retreat area offers visitors an engaging experience of rural farm life and local nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.19996,
+                        6.436512
+                  ]
+            },
+            {
+                  "name": "Hauraruni village",
+                  "text": "Overlooking the scenic settlement of Hauraruni, this viewpoint allows visitors to observe the peaceful daily life in the Pandama Retreat region.",
+                  "category": "natural",
+                  "coords": [
+                        -58.239825,
+                        6.439136
+                  ]
+            },
+            {
+                  "name": "Camp Wesleyana",
+                  "text": "Providing a vantage point over the campgrounds, this spot highlights the outdoor recreational spaces available in the Pandama Retreat area.",
+                  "category": "natural",
+                  "coords": [
+                        -58.237388,
+                        6.390936
+                  ]
+            },
+            {
+                  "name": "Umberalla Resort",
+                  "text": "This scenic observation point looks out over the local resort grounds, showcasing the relaxing environment of the Pandama Retreat region.",
+                  "category": "natural",
+                  "coords": [
+                        -58.240675,
+                        6.405076
+                  ]
+            },
+            {
+                  "name": "Black Water",
+                  "text": "Functioning as a unique natural water park, this attraction in the Pandama Retreat area is famous for its dark, refreshing, tannin-rich streams.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.2409,
+                        6.372859
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GY-DE",
     coords: [-58.2, 6.45],
@@ -1317,7 +4899,88 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Fondé en 2009", "Spécialisé dans les vins de fruits exotiques", "Situé sur l'autoroute Soesdyke-Linden", "Dispose d'un ruisseau naturel d'eau noire", "Propose des ateliers d'art et l'observation des oiseaux", "Dirigé par Bernice et Warren Mansell"],
     },
   }, {
-    id: "kissing-bridge-georgetown-life-v2",
+    id: "kissing-bridge-georgetown-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Campbellville Temple",
+                  "text": "Ein ruhiger Hindu-Mandir im Wohnviertel Campbellville von Georgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -58.137622,
+                        6.816091
+                  ]
+            },
+            {
+                  "name": "Kitty Masjid",
+                  "text": "Eine traditionelle Moschee im historischen Viertel Kitty nahe dem Seewall.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.140061,
+                        6.817111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Campbellville Temple",
+                  "text": "Nyugodt hindu mandir Georgetown Campbellville lakónegyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -58.137622,
+                        6.816091
+                  ]
+            },
+            {
+                  "name": "Kitty Masjid",
+                  "text": "Hagyományos mecset a történelmi Kitty negyedben, a tengerparti gát közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.140061,
+                        6.817111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Campbellville Temple",
+                  "text": "Un mandir hindu liniștit în districtul rezidențial Campbellville din Georgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -58.137622,
+                        6.816091
+                  ]
+            },
+            {
+                  "name": "Kitty Masjid",
+                  "text": "O moschee tradițională în cartierul istoric Kitty, lângă digul de la mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.140061,
+                        6.817111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Campbellville Temple",
+                  "text": "A serene Hindu Mandir in the Campbellville residential district of Georgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -58.137622,
+                        6.816091
+                  ]
+            },
+            {
+                  "name": "Kitty Masjid",
+                  "text": "A traditional mosque in the historic Kitty neighborhood near the seawall.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.140061,
+                        6.817111
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GY-DE",
     coords: [-58.14, 6.812],
@@ -1364,7 +5027,124 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       fr: ["Situé dans les jardins botaniques", "Construit à la fin du XIXe siècle", "Architecture victorienne classique en bois", "Lieu le plus prisé pour les photos de mariage", "Enjambe un canal ornemental", "Restauré à plusieurs reprises pour préserver le patrimoine"],
     },
   }, {
-    id: "evergreen-nature-centre-life-v2",
+    id: "evergreen-nature-centre-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tina Pugsley",
+                  "text": "Die Attraktion Tina Pugsley fügt sich harmonisch in die tropische Landschaft des Evergreen Nature Centre ein.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.112595,
+                        6.809447
+                  ]
+            },
+            {
+                  "name": "Revival Baptist Church",
+                  "text": "Die Revival Baptist Church zeichnet sich durch ihre freikirchlichen Erweckungsversammlungen mit Chorgesang aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.11359,
+                        6.806572
+                  ]
+            },
+            {
+                  "name": "True Wariors of God Church",
+                  "text": "Die christliche Kirche True Warriors of God bietet spirituelle Zuflucht und tatkräftige Unterstützung für die Menschen der ländlichen Siedlung.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.12218,
+                        6.804719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tina Pugsley",
+                  "text": "A Tina Pugsley látványosság harmonikusan illeszkedik az Evergreen Természeti Központ trópusi tájába.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.112595,
+                        6.809447
+                  ]
+            },
+            {
+                  "name": "Revival Baptist Church",
+                  "text": "A Revival Baptista Gyülekezetet a kórusénekekkel kísért szabadegyházi ébredési összejövetelek jellemzik.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.11359,
+                        6.806572
+                  ]
+            },
+            {
+                  "name": "True Wariors of God Church",
+                  "text": "Az Isten Igaz Harcosai keresztény egyház spirituális menedéket és aktív támogatást nyújt a vidéki település lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.12218,
+                        6.804719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tina Pugsley",
+                  "text": "Atracția Tina Pugsley se integrează armonios în peisajul tropical al Centrului pentru Natură Evergreen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.112595,
+                        6.809447
+                  ]
+            },
+            {
+                  "name": "Revival Baptist Church",
+                  "text": "Biserica Baptistă Revival se remarcă prin întâlnirile sale de trezire spirituală însoțite de muzică corală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.11359,
+                        6.806572
+                  ]
+            },
+            {
+                  "name": "True Wariors of God Church",
+                  "text": "Biserica creștină True Warriors of God oferă un refugiu spiritual și sprijin activ oamenilor din așezarea rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.12218,
+                        6.804719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tina Pugsley",
+                  "text": "The Tina Pugsley attraction blends harmoniously into the tropical landscape of the Evergreen Nature Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.112595,
+                        6.809447
+                  ]
+            },
+            {
+                  "name": "Revival Baptist Church",
+                  "text": "The Revival Baptist Church is characterized by its free-church revival meetings featuring enthusiastic choir singing.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.11359,
+                        6.806572
+                  ]
+            },
+            {
+                  "name": "True Wariors of God Church",
+                  "text": "The True Warriors of God Christian church provides spiritual refuge and active community support for the people of the rural settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.12218,
+                        6.804719
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GY-DE",
     coords: [-58.12, 6.81],

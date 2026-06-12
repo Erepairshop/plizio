@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraPeruNatureV2: POI[] = [
   {
-    id: "pe-anc-huascaran-nature-v2",
+    id: "pe-anc-huascaran-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huascarán Sur",
+                  "text": "Der höchste Berggipfel in Peru, gelegen in der spektakulären Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.604301,
+                        -9.121233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huascarán Sur",
+                  "text": "Peru legmagasabb hegycsúcsa, amely a látványos Cordillera Blanca hegységben található.",
+                  "category": "natural",
+                  "coords": [
+                        -77.604301,
+                        -9.121233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huascarán Sur",
+                  "text": "Cel mai înalt vârf de munte din Peru, situat în spectaculoasa Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.604301,
+                        -9.121233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huascarán Sur",
+                  "text": "The highest mountain peak in Peru, located within the spectacular Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.604301,
+                        -9.121233
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PE-ANC",
     coords: [-77.605, -9.122],
@@ -101,7 +146,412 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-pun-lake-titicaca-nature-v2.webp"
   },
   {
-    id: "pe-lor-amazon-river-nature-v2",
+    id: "pe-lor-amazon-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Culturas Indigenas Amazonas",
+                  "text": "In der Nähe des mächtigen Flusssystems gelegen, dokumentieren die Ausstellungen detailliert die besondere Werkzeugherstellung und das spirituelle Handwerk der einheimischen Amazonas-Stämme.",
+                  "category": "museum",
+                  "coords": [
+                        -73.244276,
+                        -3.751999
+                  ]
+            },
+            {
+                  "name": "Belen Commercial Area",
+                  "text": "Dieses geschäftige Gewerbegebiet am Rande des Amazonas bietet einen authentischen Einblick in den lokalen Handel.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.247889,
+                        -3.759076
+                  ]
+            },
+            {
+                  "name": "Ayapua",
+                  "text": "Dieses historische Flussboot-Museum am Ufer des Amazonas zeigt die Schifffahrtsgeschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -73.241274,
+                        -3.746681
+                  ]
+            },
+            {
+                  "name": "Amazon Golden snake",
+                  "text": "Diese Dschungelattraktion präsentiert faszinierende Reptilien des Amazonas, insbesondere Schlangen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.242704,
+                        -3.748142
+                  ]
+            },
+            {
+                  "name": "Boulevard de Iquitos",
+                  "text": "Die lebhafte Uferpromenade bietet einen malerischen Blick auf die vorbeifahrenden Boote des Amazonas.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.242837,
+                        -3.749939
+                  ]
+            },
+            {
+                  "name": "Plaza 28 de Julio",
+                  "text": "Dieser markante öffentliche Park ist ein zentraler Treffpunkt mit schattigen Wegen in der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        -73.249374,
+                        -3.754614
+                  ]
+            },
+            {
+                  "name": "Casa de Fierro",
+                  "text": "Dieses ikonische Eisenhaus wurde von Gustave Eiffel entworfen und während des Kautschukbooms importiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.244072,
+                        -3.749914
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan Bautista",
+                  "text": "Die historische Pfarrkirche ist Johannes dem Täufer gewidmet und ein Ort der Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.285691,
+                        -3.774298
+                  ]
+            },
+            {
+                  "name": "Iglesia Matriz San Juan Bautista",
+                  "text": "Diese zentrale Pfarrkirche beeindruckt mit ihrer historischen Architektur und religiösen Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.245104,
+                        -3.749577
+                  ]
+            },
+            {
+                  "name": "Super Mercado Amy",
+                  "text": "Dieser belebte lokale Markt bietet eine große Auswahl an regionalen Lebensmitteln und Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.253503,
+                        -3.75824
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "Der zentrale Markt ist der ideale Ort, um frische Produkte und lokales Kunsthandwerk zu entdecken.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.248297,
+                        -3.748977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Culturas Indigenas Amazonas",
+                  "text": "A hatalmas folyórendszer közelében található kiállítások részletesen dokumentálják az őslakos amazóniai törzsek jellegzetes szerszámkészítési és spirituális mesterségeit.",
+                  "category": "museum",
+                  "coords": [
+                        -73.244276,
+                        -3.751999
+                  ]
+            },
+            {
+                  "name": "Belen Commercial Area",
+                  "text": "Ez a nyüzsgő amazóniai kereskedelmi negyed hiteles bepillantást nyújt a helyi árucsere mindennapjaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.247889,
+                        -3.759076
+                  ]
+            },
+            {
+                  "name": "Ayapua",
+                  "text": "Ez a történelmi folyami hajómúzeum az Amazonas partján a régió hajózási múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -73.241274,
+                        -3.746681
+                  ]
+            },
+            {
+                  "name": "Amazon Golden snake",
+                  "text": "Ez a dzsungellátványosság az Amazonas lenyűgöző hüllőit, különösen a kígyókat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.242704,
+                        -3.748142
+                  ]
+            },
+            {
+                  "name": "Boulevard de Iquitos",
+                  "text": "A nyüzsgő folyóparti sétány festői kilátást nyújt az Amazonason elhaladó hajókra.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.242837,
+                        -3.749939
+                  ]
+            },
+            {
+                  "name": "Plaza 28 de Julio",
+                  "text": "Ez a feltűnő nyilvános park a város egyik központi találkozóhelye árnyékos sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        -73.249374,
+                        -3.754614
+                  ]
+            },
+            {
+                  "name": "Casa de Fierro",
+                  "text": "Ezt az ikonikus vasházat Gustave Eiffel tervezte, és a gumi-boom idején importálták a városba.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.244072,
+                        -3.749914
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan Bautista",
+                  "text": "A Keresztelő Szent Jánosnak szentelt történelmi plébániatemplom a csendes elmélkedés helye.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.285691,
+                        -3.774298
+                  ]
+            },
+            {
+                  "name": "Iglesia Matriz San Juan Bautista",
+                  "text": "Ez a központi plébániatemplom történelmi építészetével és vallási jelentőségével hódít.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.245104,
+                        -3.749577
+                  ]
+            },
+            {
+                  "name": "Super Mercado Amy",
+                  "text": "Ez a nyüzsgő helyi piac regionális élelmiszerek és áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.253503,
+                        -3.75824
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "A központi piac ideális hely a friss termékek és a helyi kézműves alkotások felfedezésére.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.248297,
+                        -3.748977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Culturas Indigenas Amazonas",
+                  "text": "Situate în apropierea sistemului fluvial măreț, exponatele documentează îndeaproape producția distinctă de unelte și meșteșugurile spirituale ale triburilor native amazoniene.",
+                  "category": "museum",
+                  "coords": [
+                        -73.244276,
+                        -3.751999
+                  ]
+            },
+            {
+                  "name": "Belen Commercial Area",
+                  "text": "Această zonă comercială aglomerată de pe malul Amazonului oferă o privire autentică asupra comerțului local.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.247889,
+                        -3.759076
+                  ]
+            },
+            {
+                  "name": "Ayapua",
+                  "text": "Acest muzeu istoric amenajat pe o barcă fluvială de pe Amazon prezintă istoria navigației din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -73.241274,
+                        -3.746681
+                  ]
+            },
+            {
+                  "name": "Amazon Golden snake",
+                  "text": "Această atracție din junglă prezintă reptile fascinante ale Amazonului, în special șerpi.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.242704,
+                        -3.748142
+                  ]
+            },
+            {
+                  "name": "Boulevard de Iquitos",
+                  "text": "Această promenadă plină de viață oferă o priveliște pitorească asupra bărcilor care trec pe Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.242837,
+                        -3.749939
+                  ]
+            },
+            {
+                  "name": "Plaza 28 de Julio",
+                  "text": "Acest parc public proeminent este un loc central de întâlnire cu alei umbrite din oraș.",
+                  "category": "park",
+                  "coords": [
+                        -73.249374,
+                        -3.754614
+                  ]
+            },
+            {
+                  "name": "Casa de Fierro",
+                  "text": "Această casă emblematică din fier a fost proiectată de Gustave Eiffel și adusă aici în timpul boom-ului cauciucului.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.244072,
+                        -3.749914
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan Bautista",
+                  "text": "Această biserică parohială istorică, închinată Sfântului Ioan Botezătorul, este un loc de reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.285691,
+                        -3.774298
+                  ]
+            },
+            {
+                  "name": "Iglesia Matriz San Juan Bautista",
+                  "text": "Această biserică parohială centrală impresionează prin arhitectura sa istorică și importanța religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.245104,
+                        -3.749577
+                  ]
+            },
+            {
+                  "name": "Super Mercado Amy",
+                  "text": "Acestă piață locală aglomerată oferă o gamă largă de alimente și produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.253503,
+                        -3.75824
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "Piața centrală este locul ideal pentru a descoperi produse proaspete și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.248297,
+                        -3.748977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Culturas Indigenas Amazonas",
+                  "text": "Situated near the mighty river system, the exhibits closely document the distinct toolmaking and spiritual crafts of native Amazonian tribes.",
+                  "category": "museum",
+                  "coords": [
+                        -73.244276,
+                        -3.751999
+                  ]
+            },
+            {
+                  "name": "Belen Commercial Area",
+                  "text": "This bustling commercial area on the edge of the Amazon offers an authentic glimpse into local trade.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.247889,
+                        -3.759076
+                  ]
+            },
+            {
+                  "name": "Ayapua",
+                  "text": "This historic riverboat museum on the shores of the Amazon showcases the region's navigational history.",
+                  "category": "museum",
+                  "coords": [
+                        -73.241274,
+                        -3.746681
+                  ]
+            },
+            {
+                  "name": "Amazon Golden snake",
+                  "text": "This jungle attraction showcases fascinating Amazonian reptiles, particularly snakes.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.242704,
+                        -3.748142
+                  ]
+            },
+            {
+                  "name": "Boulevard de Iquitos",
+                  "text": "This lively riverfront promenade offers a scenic view of the boats passing on the Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.242837,
+                        -3.749939
+                  ]
+            },
+            {
+                  "name": "Plaza 28 de Julio",
+                  "text": "This prominent public park serves as a central gathering place with shaded walkways in the city.",
+                  "category": "park",
+                  "coords": [
+                        -73.249374,
+                        -3.754614
+                  ]
+            },
+            {
+                  "name": "Casa de Fierro",
+                  "text": "This iconic iron house was designed by Gustave Eiffel and imported during the rubber boom.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.244072,
+                        -3.749914
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Juan Bautista",
+                  "text": "Dedicated to John the Baptist, this historic parish church is a place for quiet reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.285691,
+                        -3.774298
+                  ]
+            },
+            {
+                  "name": "Iglesia Matriz San Juan Bautista",
+                  "text": "This central parish church impresses with its historic architecture and religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.245104,
+                        -3.749577
+                  ]
+            },
+            {
+                  "name": "Super Mercado Amy",
+                  "text": "This bustling local marketplace offers a wide selection of regional foods and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.253503,
+                        -3.75824
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "The central market is the ideal place to discover fresh produce and local handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.248297,
+                        -3.748977
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PE-LOR",
     coords: [-73.25, -3.75],
@@ -150,7 +600,196 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-lor-amazon-river-nature-v2.webp"
   },
   {
-    id: "pe-cus-ausangate-nature-v2",
+    id: "pe-cus-ausangate-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abra Paloman",
+                  "text": "Dieser majestätische Gebirgspass liegt auf extremer Höhe auf dem Ausangate-Trek und bietet Wanderern einen atemberaubenden Panoramablick auf die gletscherbedeckten Andengipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -71.222823,
+                        -13.816743
+                  ]
+            },
+            {
+                  "name": "Ausangate",
+                  "text": "Ein markanter, hochgelegener Gipfel in den Anden, der der höchste Berg der Vilcanota-Kette ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.229901,
+                        -13.789075
+                  ]
+            },
+            {
+                  "name": "Nevado Queullacocha",
+                  "text": "Ein vergletscherter Berggipfel in den Hochanden.",
+                  "category": "natural",
+                  "coords": [
+                        -71.29416,
+                        -13.774883
+                  ]
+            },
+            {
+                  "name": "Sisyphos‘ Fels",
+                  "text": "Ein natürlicher, felsiger Aussichtspunkt mit Blick auf die weiten Andenlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        -71.252764,
+                        -13.820405
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Upis",
+                  "text": "Eine Reihe natürlicher Thermalbäder in großer Höhe in den Anden.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.275851,
+                        -13.75124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abra Paloman",
+                  "text": "Az Ausangate-túra során, rendkívüli magasságban található ez a fenséges hágó, ahonnan lélegzetelállító panoráma nyílik a gleccserekkel borított andoki csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.222823,
+                        -13.816743
+                  ]
+            },
+            {
+                  "name": "Ausangate",
+                  "text": "Egy kiemelkedő, magasan fekvő hegycsúcs az Andokban, amely a Vilcanota-hegység legmagasabb hegye.",
+                  "category": "natural",
+                  "coords": [
+                        -71.229901,
+                        -13.789075
+                  ]
+            },
+            {
+                  "name": "Nevado Queullacocha",
+                  "text": "Egy eljegesedett hegycsúcs a Magas-Andokban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.29416,
+                        -13.774883
+                  ]
+            },
+            {
+                  "name": "Roca de Sísifo",
+                  "text": "Természetes sziklás kilátó, amely a végtelen andoki tájra tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -71.252764,
+                        -13.820405
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Upis",
+                  "text": "Nagy tengerszint feletti magasságban fekvő természetes termálfürdők sora az Andokban.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.275851,
+                        -13.75124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abra Paloman",
+                  "text": "Situată la o altitudine extremă pe traseul Ausangate, această trecătoare montană maiestuoasă oferă drumeților vederi panoramice uluitoare ale vârfurilor andine acoperite de ghețari.",
+                  "category": "natural",
+                  "coords": [
+                        -71.222823,
+                        -13.816743
+                  ]
+            },
+            {
+                  "name": "Ausangate",
+                  "text": "Un vârf proeminent de mare altitudine din Anzi, fiind cel mai înalt munte din lanțul Vilcanota.",
+                  "category": "natural",
+                  "coords": [
+                        -71.229901,
+                        -13.789075
+                  ]
+            },
+            {
+                  "name": "Nevado Queullacocha",
+                  "text": "Un vârf de munte glaciar din Anzii înalți.",
+                  "category": "natural",
+                  "coords": [
+                        -71.29416,
+                        -13.774883
+                  ]
+            },
+            {
+                  "name": "Roca de Sísifo",
+                  "text": "Un punct de belvedere stâncos natural, cu vedere spre peisajele vaste ale Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -71.252764,
+                        -13.820405
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Upis",
+                  "text": "O serie de băi termale naturale situate la mare altitudine în Anzi.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.275851,
+                        -13.75124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abra Paloman",
+                  "text": "Located at an extreme altitude on the Ausangate trek, this majestic mountain pass offers hikers breathtaking panoramic views of the glacier-covered Andean peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -71.222823,
+                        -13.816743
+                  ]
+            },
+            {
+                  "name": "Ausangate",
+                  "text": "A prominent high-altitude peak in the Andes, serving as the highest mountain of the Vilcanota range.",
+                  "category": "natural",
+                  "coords": [
+                        -71.229901,
+                        -13.789075
+                  ]
+            },
+            {
+                  "name": "Nevado Queullacocha",
+                  "text": "A glaciated mountain peak in the high Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.29416,
+                        -13.774883
+                  ]
+            },
+            {
+                  "name": "Sisyphus boulder",
+                  "text": "A natural rocky viewpoint overlooking the vast Andean landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.252764,
+                        -13.820405
+                  ]
+            },
+            {
+                  "name": "Upis Hot Springs",
+                  "text": "A series of natural thermal baths situated at a high altitude in the Andes.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.275851,
+                        -13.75124
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PE-CUS",
     coords: [-71.2269, -13.7888],
@@ -199,7 +838,484 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-cus-ausangate-nature-v2.webp"
   },
   {
-    id: "pe-cus-vinicunca-nature-v2",
+    id: "pe-cus-vinicunca-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wasaqucha",
+                  "text": "Ein Berggipfel in den Anden in der hochgelegenen Landschaft nahe Vinicunca.",
+                  "category": "natural",
+                  "coords": [
+                        -71.298791,
+                        -13.844109
+                  ]
+            },
+            {
+                  "name": "Takusiri",
+                  "text": "Ein bemerkenswerter Berggipfel mit der für die peruanischen Anden typischen Felslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -71.280852,
+                        -13.827441
+                  ]
+            },
+            {
+                  "name": "Rainbow Mountain",
+                  "text": "Eine berühmte hochgelegene Bergattraktion, die für ihre natürlich vorkommenden mehrfarbigen Mineralstreifen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.30275,
+                        -13.870321
+                  ]
+            },
+            {
+                  "name": "Vinicunca",
+                  "text": "Dieser Andengipfel, auch als Berg der sieben Farben bekannt, weist markante Mineralstreifen auf.",
+                  "category": "natural",
+                  "coords": [
+                        -71.302978,
+                        -13.867852
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Colorado",
+                  "text": "Ein malerischer Aussichtspunkt, der einen Panoramablick auf die farbenfrohe, mineralienreiche Berglandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.302946,
+                        -13.869341
+                  ]
+            },
+            {
+                  "name": "Hatun Rit'iyuq",
+                  "text": "Ein schneebedeckter Berggipfel, der zur dramatischen Skyline der Anden beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.301723,
+                        -13.873502
+                  ]
+            },
+            {
+                  "name": "Valle Rojo",
+                  "text": "Ein atemberaubender Aussichtspunkt mit Blick auf die markant karmesinroten, eisenreichen Täler der Hochanden.",
+                  "category": "natural",
+                  "coords": [
+                        -71.307978,
+                        -13.876155
+                  ]
+            },
+            {
+                  "name": "Vista de Valle Rojo",
+                  "text": "Ein Beobachtungspunkt, der die leuchtend roten, steilen Hänge des umliegenden Hochtals zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.296462,
+                        -13.87498
+                  ]
+            },
+            {
+                  "name": "Salida de Monte Arco Iris",
+                  "text": "Der Ausgangspunkt und die Basis für Trekking-Expeditionen zum farbenfrohen Gipfel des Vinicunca.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.264483,
+                        -13.883207
+                  ]
+            },
+            {
+                  "name": "Yuraq Q'asa",
+                  "text": "Ein Berggipfel in den großen Höhen der Provinzen Canchis und Quispicanchi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.359603,
+                        -13.907211
+                  ]
+            },
+            {
+                  "name": "Chachacomayoc",
+                  "text": "Ein hochgelegener Berggipfel in den schroffen peruanischen Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -71.318189,
+                        -13.899263
+                  ]
+            },
+            {
+                  "name": "Ch'aqu",
+                  "text": "Ein abgelegener Berggipfel, der das hochgelegene Gelände der Anden dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.367193,
+                        -13.878273
+                  ]
+            },
+            {
+                  "name": "Tiklla Q'asa",
+                  "text": "Ein markanter Berggipfel, der Teil der riesigen Andenkette ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.384589,
+                        -13.910991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wasaqucha",
+                  "text": "Egy andoki hegycsúcs a Vinicunca közeli magasan fekvő tájon.",
+                  "category": "natural",
+                  "coords": [
+                        -71.298791,
+                        -13.844109
+                  ]
+            },
+            {
+                  "name": "Takusiri",
+                  "text": "Egy figyelemre méltó hegycsúcs, amely a perui Andokra jellemző sziklás környezettel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.280852,
+                        -13.827441
+                  ]
+            },
+            {
+                  "name": "Rainbow Mountain",
+                  "text": "Híres, magasan fekvő hegyi látványosság, amely a természetben előforduló többszínű ásványi sávjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.30275,
+                        -13.870321
+                  ]
+            },
+            {
+                  "name": "Winikunka",
+                  "text": "A Hét Szín Hegyeként is ismert andoki csúcs lenyűgöző ásványi sávozással büszkélkedhet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.302978,
+                        -13.867852
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Colorado",
+                  "text": "Festői kilátó, amely panorámás kilátást nyújt a színes, ásványi anyagokban gazdag hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.302946,
+                        -13.869341
+                  ]
+            },
+            {
+                  "name": "Hatun Rit'iyuq",
+                  "text": "Hófödte hegycsúcs, amely hozzájárul az Andok drámai látképéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -71.301723,
+                        -13.873502
+                  ]
+            },
+            {
+                  "name": "Valle Rojo",
+                  "text": "Lenyűgöző kilátó, amely a Magas-Andok jellegzetes karmazsinszínű, vasban gazdag völgyeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.307978,
+                        -13.876155
+                  ]
+            },
+            {
+                  "name": "Vista de Valle Rojo",
+                  "text": "Megfigyelőpont, amely a környező, magasan fekvő völgy élénkvörös, meredek lejtőit mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        -71.296462,
+                        -13.87498
+                  ]
+            },
+            {
+                  "name": "Salida de Monte Arco Iris",
+                  "text": "A színes Vinicunca csúcshoz vezető túraexpedíciók kiindulópontja és bázisa.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.264483,
+                        -13.883207
+                  ]
+            },
+            {
+                  "name": "Yuraq Q'asa",
+                  "text": "A Canchis és Quispicanchi tartományok nagy tengerszint feletti magasságában fekvő hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -71.359603,
+                        -13.907211
+                  ]
+            },
+            {
+                  "name": "Chachacomayoc",
+                  "text": "Egy magasan fekvő hegycsúcs a zord perui Andokban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.318189,
+                        -13.899263
+                  ]
+            },
+            {
+                  "name": "Ch'aqu",
+                  "text": "Egy távoli hegycsúcs, amely a magasan fekvő andoki terepet uralja.",
+                  "category": "natural",
+                  "coords": [
+                        -71.367193,
+                        -13.878273
+                  ]
+            },
+            {
+                  "name": "Tiklla Q'asa",
+                  "text": "Egy kiemelkedő hegycsúcs, amely a hatalmas Andok hegység részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.384589,
+                        -13.910991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wasaqucha",
+                  "text": "Un vârf de munte andin situat în peisajul de mare altitudine din apropiere de Vinicunca.",
+                  "category": "natural",
+                  "coords": [
+                        -71.298791,
+                        -13.844109
+                  ]
+            },
+            {
+                  "name": "Takusiri",
+                  "text": "Un vârf de munte notabil, prezentând mediul stâncos tipic Anzilor peruvieni.",
+                  "category": "natural",
+                  "coords": [
+                        -71.280852,
+                        -13.827441
+                  ]
+            },
+            {
+                  "name": "Rainbow Mountain",
+                  "text": "O celebră atracție montană de mare altitudine, cunoscută pentru dungile sale minerale multicolore naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.30275,
+                        -13.870321
+                  ]
+            },
+            {
+                  "name": "Winikunka",
+                  "text": "Cunoscut și sub numele de Muntele celor Șapte Culori, acest vârf andin prezintă dungi minerale uimitoare.",
+                  "category": "natural",
+                  "coords": [
+                        -71.302978,
+                        -13.867852
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Colorado",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame asupra peisajului montan colorat, bogat în minerale.",
+                  "category": "natural",
+                  "coords": [
+                        -71.302946,
+                        -13.869341
+                  ]
+            },
+            {
+                  "name": "Hatun Rit'iyuq",
+                  "text": "Un vârf de munte acoperit de zăpadă care contribuie la orizontul dramatic andin.",
+                  "category": "natural",
+                  "coords": [
+                        -71.301723,
+                        -13.873502
+                  ]
+            },
+            {
+                  "name": "Valle Rojo",
+                  "text": "Un punct de belvedere uimitor cu vedere la văile stacojii, bogate în fier, ale Anzilor înalți.",
+                  "category": "natural",
+                  "coords": [
+                        -71.307978,
+                        -13.876155
+                  ]
+            },
+            {
+                  "name": "Vista de Valle Rojo",
+                  "text": "Un punct de observație care prezintă pantele abrupte, roșii aprins, ale văii înconjurătoare de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -71.296462,
+                        -13.87498
+                  ]
+            },
+            {
+                  "name": "Salida de Monte Arco Iris",
+                  "text": "Punctul de plecare și baza de atracție pentru expedițiile de drumeție care duc spre vârful colorat Vinicunca.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.264483,
+                        -13.883207
+                  ]
+            },
+            {
+                  "name": "Yuraq Q'asa",
+                  "text": "Un vârf de munte situat la marile altitudini ale provinciilor Canchis și Quispicanchi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.359603,
+                        -13.907211
+                  ]
+            },
+            {
+                  "name": "Chachacomayoc",
+                  "text": "Un vârf de munte de mare altitudine, situat în accidentații Anzi peruvieni.",
+                  "category": "natural",
+                  "coords": [
+                        -71.318189,
+                        -13.899263
+                  ]
+            },
+            {
+                  "name": "Ch'aqu",
+                  "text": "Un vârf de munte izolat care domină terenul andin de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -71.367193,
+                        -13.878273
+                  ]
+            },
+            {
+                  "name": "Tiklla Q'asa",
+                  "text": "Un vârf de munte proeminent care face parte din vastul lanț muntos al Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -71.384589,
+                        -13.910991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wasaqucha",
+                  "text": "An Andean mountain peak located in the high-altitude landscape near Vinicunca.",
+                  "category": "natural",
+                  "coords": [
+                        -71.298791,
+                        -13.844109
+                  ]
+            },
+            {
+                  "name": "Takusiri",
+                  "text": "A notable mountain peak featuring the rocky environment typical of the Peruvian Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.280852,
+                        -13.827441
+                  ]
+            },
+            {
+                  "name": "Rainbow Mountain",
+                  "text": "A famous high-altitude mountain attraction known for its naturally occurring multi-colored mineral stripes.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.30275,
+                        -13.870321
+                  ]
+            },
+            {
+                  "name": "Vinicunca",
+                  "text": "Also known as the Mountain of Seven Colors, this Andean peak features striking mineral striping.",
+                  "category": "natural",
+                  "coords": [
+                        -71.302978,
+                        -13.867852
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Colorado",
+                  "text": "A scenic viewpoint offering panoramic vistas of the colorful, mineral-rich mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.302946,
+                        -13.869341
+                  ]
+            },
+            {
+                  "name": "Jatunrritioc",
+                  "text": "A snow-capped mountain peak contributing to the dramatic Andean skyline.",
+                  "category": "natural",
+                  "coords": [
+                        -71.301723,
+                        -13.873502
+                  ]
+            },
+            {
+                  "name": "Valle Rojo",
+                  "text": "A stunning viewpoint overlooking the distinctly crimson-colored, iron-rich valleys of the high Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.307978,
+                        -13.876155
+                  ]
+            },
+            {
+                  "name": "View of Red Valleyw",
+                  "text": "An observation point showcasing the bright red, steep slopes of the surrounding high-altitude valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.296462,
+                        -13.87498
+                  ]
+            },
+            {
+                  "name": "Departure Rainbow Mountain",
+                  "text": "The starting point and attraction base for trekking expeditions leading to the colorful Vinicunca peak.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.264483,
+                        -13.883207
+                  ]
+            },
+            {
+                  "name": "Yuraq Q'asa",
+                  "text": "A mountain peak situated in the high altitudes of the Canchis and Quispicanchi provinces.",
+                  "category": "natural",
+                  "coords": [
+                        -71.359603,
+                        -13.907211
+                  ]
+            },
+            {
+                  "name": "Chachacomayoc",
+                  "text": "A high-altitude mountain peak situated within the rugged Peruvian Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.318189,
+                        -13.899263
+                  ]
+            },
+            {
+                  "name": "Ch'aqu",
+                  "text": "A remote mountain peak dominating the high-altitude Andean terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -71.367193,
+                        -13.878273
+                  ]
+            },
+            {
+                  "name": "Tiklla Q'asa",
+                  "text": "A prominent mountain peak forming part of the vast Andes mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -71.384589,
+                        -13.910991
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PE-CUS",
     coords: [-71.303, -13.87],
@@ -248,7 +1364,88 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-cus-vinicunca-nature-v2.webp"
   },
   {
-    id: "pe-ica-ballestas-nature-v2",
+    id: "pe-ica-ballestas-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa los viejos",
+                  "text": "Playa los viejos ist ein zerklüfteter Aussichtspunkt an der Küste, der weite Ausblicke über das aufgewühlte Wasser des Naturschutzgebiets der Ballestas-Inseln bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -76.339706,
+                        -13.80224
+                  ]
+            },
+            {
+                  "name": "Ballestas-Inseln",
+                  "text": "Die Ballestas-Inseln sind eine bemerkenswerte Gruppe von Felsinseln, die für ihre dichten Populationen von Seelöwen und Guanovögeln bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.396473,
+                        -13.733431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa los viejos",
+                  "text": "A Playa los viejos egy zord tengerparti kilátópont, amely széleskörű kilátást nyújt a Ballestas-szigetek természetvédelmi területének viharos vizeire.",
+                  "category": "natural",
+                  "coords": [
+                        -76.339706,
+                        -13.80224
+                  ]
+            },
+            {
+                  "name": "Ballestas-szigetek",
+                  "text": "A Ballestas-szigetek egy nevezetes sziklás szigetcsoport, amely híres a sűrű oroszlánfóka- és guanómadár-populációjáról.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.396473,
+                        -13.733431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa los viejos",
+                  "text": "Playa los viejos este un punct de belvedere de pe o coastă accidentată care oferă vederi ample asupra apelor agitate ale rezervației naturale Insulele Ballestas.",
+                  "category": "natural",
+                  "coords": [
+                        -76.339706,
+                        -13.80224
+                  ]
+            },
+            {
+                  "name": "Islas Ballestas",
+                  "text": "Insulele Ballestas sunt un grup remarcabil de insulițe stâncoase renumite pentru populațiile lor dense de lei de mare și păsări producătoare de guano.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.396473,
+                        -13.733431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa los viejos",
+                  "text": "Playa los viejos is a rugged coastal viewpoint offering sweeping vistas over the turbulent waters of the Ballestas Islands nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -76.339706,
+                        -13.80224
+                  ]
+            },
+            {
+                  "name": "Ballestas Islands",
+                  "text": "The Ballestas Islands are a notable group of rocky islets renowned for their dense populations of sea lions and guano birds.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.396473,
+                        -13.733431
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "PE-ICA",
     coords: [-76.398, -13.738],
@@ -444,7 +1641,160 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-lor-maranon-nature-v2.webp"
   },
   {
-    id: "pe-lor-ucayali-nature-v2",
+    id: "pe-lor-ucayali-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Ucamara",
+                  "text": "Ein lokales Theater in der Amazonasstadt Nauta, das für kulturelle Aufführungen und Gemeinschaftsveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.574995,
+                        -4.506497
+                  ]
+            },
+            {
+                  "name": "Capilla Señore de los Milagros",
+                  "text": "Eine kleine Kapelle, die dem „Herrn der Wunder“ gewidmet ist, einer der wichtigsten religiösen Ikonen Perus.",
+                  "category": "religious",
+                  "coords": [
+                        -73.584369,
+                        -4.500946
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescadores",
+                  "text": "Ein lebhafter Markt am Flussufer, auf dem Fischer ihren täglichen Fang direkt aus den Gewässern des Amazonas verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.572817,
+                        -4.506486
+                  ]
+            },
+            {
+                  "name": "Terminal Pesquero Nauta",
+                  "text": "Ein spezialisierter Fischereiterminal am Hafen, der den Umschlag von Speisefischen aus dem peruanischen Amazonasgebiet regelt.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.573914,
+                        -4.506299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Ucamara",
+                  "text": "Helyi színház Nauta amazóniai városában, amelyet kulturális előadásokra és közösségi eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.574995,
+                        -4.506497
+                  ]
+            },
+            {
+                  "name": "Capilla Señore de los Milagros",
+                  "text": "Egy kis kápolna, amelyet a „Csodák Urának” szenteltek, amely Peru egyik legfontosabb vallási ikonja.",
+                  "category": "religious",
+                  "coords": [
+                        -73.584369,
+                        -4.500946
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescadores",
+                  "text": "Nyüzsgő folyóparti piac, ahol a halászok közvetlenül az Amazonas vizeiből származó napi fogásukat árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.572817,
+                        -4.506486
+                  ]
+            },
+            {
+                  "name": "Terminal Pesquero Nauta",
+                  "text": "Specializált halászati terminál a kikötőben, amely a perui Amazonas-vidékről származó étkezési halak forgalmát kezeli.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.573914,
+                        -4.506299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Ucamara",
+                  "text": "Un teatru local din orașul amazonian Nauta, utilizat pentru spectacole culturale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.574995,
+                        -4.506497
+                  ]
+            },
+            {
+                  "name": "Capilla Señore de los Milagros",
+                  "text": "O mică capelă dedicată „Domnului Minunilor”, una dintre cele mai importante icoane religioase din Peru.",
+                  "category": "religious",
+                  "coords": [
+                        -73.584369,
+                        -4.500946
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescadores",
+                  "text": "O piață vibrantă de pe malul râului, unde pescarii își vând captura zilnică direct din apele Amazonului.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.572817,
+                        -4.506486
+                  ]
+            },
+            {
+                  "name": "Terminal Pesquero Nauta",
+                  "text": "Un terminal pescăresc specializat în port, care gestionează transportul de pește comestibil din regiunea amazoniană peruană.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.573914,
+                        -4.506299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Ucamara",
+                  "text": "A local theatre in the Amazonian town of Nauta, used for cultural performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.574995,
+                        -4.506497
+                  ]
+            },
+            {
+                  "name": "Capilla Señore de los Milagros",
+                  "text": "A small chapel dedicated to the 'Lord of Miracles', one of Peru's most important religious icons.",
+                  "category": "religious",
+                  "coords": [
+                        -73.584369,
+                        -4.500946
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescadores",
+                  "text": "A vibrant riverside market where fishermen sell their daily catch directly from the waters of the Amazon.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.572817,
+                        -4.506486
+                  ]
+            },
+            {
+                  "name": "Terminal Pesquero Nauta",
+                  "text": "A specialized fishing terminal at the port that handles the distribution of food fish from the Peruvian Amazon region.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.573914,
+                        -4.506299
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PE-LOR",
     coords: [-73.5, -4.5],
@@ -591,7 +1941,484 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-mdd-sandoval-nature-v2.webp"
   },
   {
-    id: "pe-anc-alpamayo-nature-v2",
+    id: "pe-anc-alpamayo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pilanco",
+                  "text": "Ein markanter Berggipfel in der Cordillera Blanca in den Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -77.685045,
+                        -8.828845
+                  ]
+            },
+            {
+                  "name": "Collota",
+                  "text": "Ein bekannter Berggipfel in der Provinz Huaylas in der Cordillera Negra.",
+                  "category": "natural",
+                  "coords": [
+                        -77.649444,
+                        -8.804213
+                  ]
+            },
+            {
+                  "name": "Tawlli Qaqa",
+                  "text": "Ein zerklüfteter andiner Berggipfel, der für seine steilen Felswände bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -77.671117,
+                        -8.916979
+                  ]
+            },
+            {
+                  "name": "Quitaraju",
+                  "text": "Ein steiler, vergletscherter Berggipfel, der in der Cordillera Blanca auf über 6000 Meter ansteigt.",
+                  "category": "natural",
+                  "coords": [
+                        -77.663504,
+                        -8.894517
+                  ]
+            },
+            {
+                  "name": "Alpamayo",
+                  "text": "Ein berühmter eisbedeckter pyramidenförmiger Gipfel in der Cordillera Blanca, der 5947 Meter erreicht.",
+                  "category": "natural",
+                  "coords": [
+                        -77.653605,
+                        -8.878934
+                  ]
+            },
+            {
+                  "name": "Santa Cruz",
+                  "text": "Ein gewaltiger Gipfel in der Cordillera Blanca, der für seine anspruchsvollen hochalpinen Aufstiege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -77.709074,
+                        -8.89428
+                  ]
+            },
+            {
+                  "name": "Wira Wira",
+                  "text": "Ein zerklüfteter Berggipfel in den Anden, der abgelegene Wanderrouten und weite Ausblicke auf das Hochland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -77.580564,
+                        -8.811177
+                  ]
+            },
+            {
+                  "name": "Pucajirca Norte",
+                  "text": "Der nördlichste schneebedeckte Gipfel des Pucajirca-Massivs in der spektakulären Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.595243,
+                        -8.849604
+                  ]
+            },
+            {
+                  "name": "Taulliraju",
+                  "text": "Ein markanter, steiler, schneebedeckter Berg, der die Skyline über dem Punta-Union-Pass dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        -77.577433,
+                        -8.893777
+                  ]
+            },
+            {
+                  "name": "Arhuaycocha",
+                  "text": "Ein atemberaubender natürlicher Aussichtspunkt mit Blick auf einen leuchtend türkisfarbenen Gletschersee in den Hochanden.",
+                  "category": "natural",
+                  "coords": [
+                        -77.631325,
+                        -8.889652
+                  ]
+            },
+            {
+                  "name": "Mirador Alpamayo",
+                  "text": "Ein malerischer Aussichtspunkt, der den weltberühmten Blick auf die fast perfekte pyramidenförmige Eiswand des Berges Alpamayo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -77.623906,
+                        -8.910665
+                  ]
+            },
+            {
+                  "name": "Punta Union",
+                  "text": "Ein spektakulärer Hochgebirgspass, der einen atemberaubenden Panoramablick über das Santa-Cruz-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -77.581943,
+                        -8.912261
+                  ]
+            },
+            {
+                  "name": "Tuctubamba",
+                  "text": "Ein imposanter Andengipfel, umgeben von tiefen Tälern und traditionellen hochgelegenen Weidepfaden.",
+                  "category": "natural",
+                  "coords": [
+                        -77.558339,
+                        -8.903363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pilanco",
+                  "text": "Egy kiemelkedő hegycsúcs az Andok Cordillera Blanca vonulatában.",
+                  "category": "natural",
+                  "coords": [
+                        -77.685045,
+                        -8.828845
+                  ]
+            },
+            {
+                  "name": "Collota",
+                  "text": "Egy nevezetes hegycsúcs a Cordillera Negra Huaylas tartományában.",
+                  "category": "natural",
+                  "coords": [
+                        -77.649444,
+                        -8.804213
+                  ]
+            },
+            {
+                  "name": "Tawlli Qaqa",
+                  "text": "Egy zord andoki hegycsúcs, amely meredek sziklafalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -77.671117,
+                        -8.916979
+                  ]
+            },
+            {
+                  "name": "Quitaraju",
+                  "text": "Egy meredek, eljegesedett hegycsúcs, amely több mint 6000 méter magasságba emelkedik a Cordillera Blancában.",
+                  "category": "natural",
+                  "coords": [
+                        -77.663504,
+                        -8.894517
+                  ]
+            },
+            {
+                  "name": "Alpamayo",
+                  "text": "A Cordillera Blanca híres, jéggel borított, 5947 métert elérő piramis alakú csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -77.653605,
+                        -8.878934
+                  ]
+            },
+            {
+                  "name": "Santa Cruz",
+                  "text": "A Cordillera Blanca egyik hatalmas hegycsúcsa, amely kihívást jelentő magashegyi mászásairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -77.709074,
+                        -8.89428
+                  ]
+            },
+            {
+                  "name": "Wira Wira",
+                  "text": "Zord andoki hegycsúcs, amely eldugott túraútvonalakat és kiterjedt felföldi kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -77.580564,
+                        -8.811177
+                  ]
+            },
+            {
+                  "name": "Pucajirca Norte",
+                  "text": "A Pucajirca-masszívum legészakibb hófedte csúcsa a látványos Cordillera Blancában.",
+                  "category": "natural",
+                  "coords": [
+                        -77.595243,
+                        -8.849604
+                  ]
+            },
+            {
+                  "name": "Taulliraju",
+                  "text": "Kiemelkedő, meredek hófedte hegy, amely a Punta Union hágó feletti horizontot uralja.",
+                  "category": "natural",
+                  "coords": [
+                        -77.577433,
+                        -8.893777
+                  ]
+            },
+            {
+                  "name": "Arhuaycocha",
+                  "text": "Lenyűgöző természetes kilátóhely, ahonnan csodás kilátás nyílik egy élénk türkizkék gleccsertóra a Magas-Andokban.",
+                  "category": "natural",
+                  "coords": [
+                        -77.631325,
+                        -8.889652
+                  ]
+            },
+            {
+                  "name": "Mirador Alpamayo",
+                  "text": "Festői kilátópont, amely világhírű kilátást nyújt az Alpamayo hegy szinte tökéletes piramis alakú jégfalára.",
+                  "category": "natural",
+                  "coords": [
+                        -77.623906,
+                        -8.910665
+                  ]
+            },
+            {
+                  "name": "Punta Union",
+                  "text": "Látványos magashegyi hágó, amely széles panorámát nyújt a Santa Cruz-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -77.581943,
+                        -8.912261
+                  ]
+            },
+            {
+                  "name": "Tuctubamba",
+                  "text": "Impozáns andoki hegycsúcs, amelyet mély völgyek és hagyományos magashegyi legeltetési ösvények vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        -77.558339,
+                        -8.903363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pilanco",
+                  "text": "Un vârf muntos proeminent din lanțul Cordillera Blanca al Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -77.685045,
+                        -8.828845
+                  ]
+            },
+            {
+                  "name": "Collota",
+                  "text": "Un vârf muntos notabil situat în provincia Huaylas din Cordillera Negra.",
+                  "category": "natural",
+                  "coords": [
+                        -77.649444,
+                        -8.804213
+                  ]
+            },
+            {
+                  "name": "Tawlli Qaqa",
+                  "text": "Un vârf andin accidentat, cunoscut pentru fețele sale abrupte de stâncă.",
+                  "category": "natural",
+                  "coords": [
+                        -77.671117,
+                        -8.916979
+                  ]
+            },
+            {
+                  "name": "Quitaraju",
+                  "text": "Un vârf muntos abrupt, cu ghețari, care se înalță la peste 6.000 de metri în Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.663504,
+                        -8.894517
+                  ]
+            },
+            {
+                  "name": "Alpamayo",
+                  "text": "Un renumit vârf piramidal brăzdat de gheață din Cordillera Blanca, ce atinge 5.947 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        -77.653605,
+                        -8.878934
+                  ]
+            },
+            {
+                  "name": "Santa Cruz",
+                  "text": "Un vârf impunător din Cordillera Blanca, renumit pentru ascensiunile sale dificile la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -77.709074,
+                        -8.89428
+                  ]
+            },
+            {
+                  "name": "Wira Wira",
+                  "text": "Un vârf stâncos din Anzi, care oferă trasee izolate de drumeție și vederi panoramice asupra ținuturilor înalte.",
+                  "category": "natural",
+                  "coords": [
+                        -77.580564,
+                        -8.811177
+                  ]
+            },
+            {
+                  "name": "Pucajirca Norte",
+                  "text": "Cel mai nordic vârf înzăpezit al masivului Pucajirca din spectaculoasa Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.595243,
+                        -8.849604
+                  ]
+            },
+            {
+                  "name": "Taulliraju",
+                  "text": "Un munte proeminent, cu pante abrupte și creste înzăpezite, dominând orizontul deasupra pasului Punta Union.",
+                  "category": "natural",
+                  "coords": [
+                        -77.577433,
+                        -8.893777
+                  ]
+            },
+            {
+                  "name": "Arhuaycocha",
+                  "text": "Un punct de belvedere natural uimitor, care oferă o panoramă asupra unui lac glaciar cu ape de un turcoaz intens în Anzii înalți.",
+                  "category": "natural",
+                  "coords": [
+                        -77.631325,
+                        -8.889652
+                  ]
+            },
+            {
+                  "name": "Mirador Alpamayo",
+                  "text": "Un punct de observație pitoresc care oferă o vedere de renume mondial asupra peretelui de gheață aproape perfect piramidal al Muntelui Alpamayo.",
+                  "category": "natural",
+                  "coords": [
+                        -77.623906,
+                        -8.910665
+                  ]
+            },
+            {
+                  "name": "Punta Union",
+                  "text": "Un pas montan spectaculos la mare altitudine, care oferă o panoramă vastă asupra văii Santa Cruz.",
+                  "category": "natural",
+                  "coords": [
+                        -77.581943,
+                        -8.912261
+                  ]
+            },
+            {
+                  "name": "Tuctubamba",
+                  "text": "Un vârf andin impunător, înconjurat de văi adânci și trasee tradiționale de pășunat la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -77.558339,
+                        -8.903363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pilanco",
+                  "text": "A prominent mountain peak in the Cordillera Blanca range of the Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -77.685045,
+                        -8.828845
+                  ]
+            },
+            {
+                  "name": "Collota",
+                  "text": "A notable mountain peak situated in the Huaylas province of the Cordillera Negra.",
+                  "category": "natural",
+                  "coords": [
+                        -77.649444,
+                        -8.804213
+                  ]
+            },
+            {
+                  "name": "Tawlli Qaqa",
+                  "text": "A rugged Andean mountain peak known for its steep rock faces.",
+                  "category": "natural",
+                  "coords": [
+                        -77.671117,
+                        -8.916979
+                  ]
+            },
+            {
+                  "name": "Quitaraju",
+                  "text": "A steep, glaciated mountain peak rising to over 6,000 metres in the Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.663504,
+                        -8.894517
+                  ]
+            },
+            {
+                  "name": "Alpamayo",
+                  "text": "A renowned ice-fluted pyramidal peak in the Cordillera Blanca, reaching 5,947 metres.",
+                  "category": "natural",
+                  "coords": [
+                        -77.653605,
+                        -8.878934
+                  ]
+            },
+            {
+                  "name": "Santa Cruz",
+                  "text": "A towering peak in the Cordillera Blanca known for its challenging high-altitude ascents.",
+                  "category": "natural",
+                  "coords": [
+                        -77.709074,
+                        -8.89428
+                  ]
+            },
+            {
+                  "name": "Wira Wira",
+                  "text": "A rugged Andean mountain peak offering remote hiking routes and expansive highland views.",
+                  "category": "natural",
+                  "coords": [
+                        -77.580564,
+                        -8.811177
+                  ]
+            },
+            {
+                  "name": "Pucajirca Norte",
+                  "text": "The northernmost snow-capped peak of the Pucajirca massif in the spectacular Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.595243,
+                        -8.849604
+                  ]
+            },
+            {
+                  "name": "Taulliraju",
+                  "text": "A prominent, steep snow-capped mountain dominating the skyline above the Punta Union pass.",
+                  "category": "natural",
+                  "coords": [
+                        -77.577433,
+                        -8.893777
+                  ]
+            },
+            {
+                  "name": "Arhuaycocha",
+                  "text": "A stunning natural viewpoint overlooking a vividly turquoise glacial lake in the high Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -77.631325,
+                        -8.889652
+                  ]
+            },
+            {
+                  "name": "Mirador Alpamayo",
+                  "text": "A scenic vantage point providing world-famous views of the nearly perfect pyramidal ice face of Mount Alpamayo.",
+                  "category": "natural",
+                  "coords": [
+                        -77.623906,
+                        -8.910665
+                  ]
+            },
+            {
+                  "name": "Punta Union",
+                  "text": "A dramatic high-altitude mountain pass offering panoramic sweeping vistas of the Santa Cruz valley.",
+                  "category": "natural",
+                  "coords": [
+                        -77.581943,
+                        -8.912261
+                  ]
+            },
+            {
+                  "name": "Tuctubamba",
+                  "text": "An imposing Andean peak surrounded by deep valleys and traditional high-altitude grazing trails.",
+                  "category": "natural",
+                  "coords": [
+                        -77.558339,
+                        -8.903363
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PE-ANC",
     coords: [-77.63, -8.88],
@@ -640,7 +2467,412 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-anc-alpamayo-nature-v2.webp"
   },
   {
-    id: "pe-huc-yerupaja-nature-v2",
+    id: "pe-huc-yerupaja-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yerupajá Chico",
+                  "text": "Dieser imposante Gipfel der Cordillera Huayhuash verfügt über anspruchsvolle vergletscherte Wände, die bei erfahrenen Bergsteigern beliebt sind.",
+                  "category": "natural",
+                  "coords": [
+                        -76.903485,
+                        -10.252237
+                  ]
+            },
+            {
+                  "name": "Rasac",
+                  "text": "Ein imposanter Berg der Cordillera Huayhuash, der für seine stark vergletscherten Hänge und technischen Kletterrouten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -76.921309,
+                        -10.274962
+                  ]
+            },
+            {
+                  "name": "Yerupajá",
+                  "text": "Er dominiert die Skyline, ist der höchste Punkt der Cordillera Huayhuash und weist tückische Eisrinnen auf.",
+                  "category": "natural",
+                  "coords": [
+                        -76.905564,
+                        -10.268624
+                  ]
+            },
+            {
+                  "name": "Paso Yaucha",
+                  "text": "Ein hochgelegener Gebirgspass, der Trekkern einen Panoramablick auf die schroffen Huayhuash-Gipfel und Gletscherseen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -76.976879,
+                        -10.267114
+                  ]
+            },
+            {
+                  "name": "Cerro Paria",
+                  "text": "Ein bemerkenswerter Andengipfel in der Huayhuash-Kette, der für seine dramatischen Felsnadeln auf dem Grat geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -76.911398,
+                        -10.193512
+                  ]
+            },
+            {
+                  "name": "Cerro Minapata",
+                  "text": "Dieser beeindruckende Gipfel ist Teil des steilen, vergletscherten Terrains, das für die abgelegene Cordillera Huayhuash charakteristisch ist.",
+                  "category": "natural",
+                  "coords": [
+                        -76.947716,
+                        -10.220168
+                  ]
+            },
+            {
+                  "name": "Rondoy",
+                  "text": "Dieser spektakuläre Berg ist für seine steilen und gefährlichen Eiswände bekannt und stellt eine große Herausforderung für Alpinkletterer dar.",
+                  "category": "natural",
+                  "coords": [
+                        -76.915886,
+                        -10.224473
+                  ]
+            },
+            {
+                  "name": "Ninashanca",
+                  "text": "Diese Eispyramide markiert den nördlichen Rand der Cordillera Huayhuash und verfügt über scharfe, schneebedeckte Grate.",
+                  "category": "natural",
+                  "coords": [
+                        -76.914214,
+                        -10.212749
+                  ]
+            },
+            {
+                  "name": "Jirishanca",
+                  "text": "Dieser markante, spitz zulaufende Gipfel wird oft als „Eisiger Kolibrischnabel“ bezeichnet und ist einer der atemberaubendsten in den Huayhuash.",
+                  "category": "natural",
+                  "coords": [
+                        -76.905743,
+                        -10.236976
+                  ]
+            },
+            {
+                  "name": "Alcay",
+                  "text": "Ein schroffer Andengipfel in der Region Huánuco, der ein markantes Profil gegen den weiten Himmel in großer Höhe bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -76.889325,
+                        -10.231057
+                  ]
+            },
+            {
+                  "name": "Mirador Jirishanca",
+                  "text": "Ein exponierter, atemberaubender Aussichtspunkt auf dem Weg, der den rasiermesserscharfen Gipfel des Berges Jirishanca perfekt einrahmt.",
+                  "category": "natural",
+                  "coords": [
+                        -76.875617,
+                        -10.239445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yerupajá Chico",
+                  "text": "Ez a Cordillera Huayhuash hegységben található impozáns csúcs a tapasztalt hegymászók körében népszerű, kihívást jelentő eljegesedett falakkal büszkélkedhet.",
+                  "category": "natural",
+                  "coords": [
+                        -76.903485,
+                        -10.252237
+                  ]
+            },
+            {
+                  "name": "Rasac",
+                  "text": "A Cordillera Huayhuash egyik impozáns hegye, amely erősen eljegesedett lejtőiről és technikai mászóútjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -76.921309,
+                        -10.274962
+                  ]
+            },
+            {
+                  "name": "Yerupajá",
+                  "text": "A látóhatárt uraló csúcs a Cordillera Huayhuash legmagasabb pontja, amelyen veszélyes jégbordák találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        -76.905564,
+                        -10.268624
+                  ]
+            },
+            {
+                  "name": "Paso Yaucha",
+                  "text": "Magasan fekvő hegyi hágó, amely panorámás kilátást nyújt a túrázóknak a zord Huayhuash-csúcsokra és gleccsertavakra.",
+                  "category": "natural",
+                  "coords": [
+                        -76.976879,
+                        -10.267114
+                  ]
+            },
+            {
+                  "name": "Cerro Paria",
+                  "text": "A Huayhuash-hegység egyik figyelemre méltó andoki csúcsa, amelyet a gerincét meghatározó drámai sziklatornyok miatt kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        -76.911398,
+                        -10.193512
+                  ]
+            },
+            {
+                  "name": "Cerro Minapata",
+                  "text": "Ez a félelmetes csúcs a távoli Cordillera Huayhuashra jellemző meredek, eljegesedett terep részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -76.947716,
+                        -10.220168
+                  ]
+            },
+            {
+                  "name": "Rondoy",
+                  "text": "A meredek és veszélyes jégfalairól ismert látványos hegy hatalmas kihívást jelent az alpesi hegymászók számára.",
+                  "category": "natural",
+                  "coords": [
+                        -76.915886,
+                        -10.224473
+                  ]
+            },
+            {
+                  "name": "Ninashanca",
+                  "text": "A Cordillera Huayhuash északi szélét jelző jeges piramis éles, hóval borított gerincekkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        -76.914214,
+                        -10.212749
+                  ]
+            },
+            {
+                  "name": "Jirishanca",
+                  "text": "A gyakran „Jeges Kolibricsőrnek” nevezett ikonikus, hegyes csúcs a Huayhuash egyik legszebb hegye.",
+                  "category": "natural",
+                  "coords": [
+                        -76.905743,
+                        -10.236976
+                  ]
+            },
+            {
+                  "name": "Alcay",
+                  "text": "Zord andoki csúcs a Huánuco régióban, amely feltűnő profilt rajzol a kiterjedt magashegyi égboltra.",
+                  "category": "natural",
+                  "coords": [
+                        -76.889325,
+                        -10.231057
+                  ]
+            },
+            {
+                  "name": "Mirador Jirishanca",
+                  "text": "Egy kitett, lélegzetelállító kilátópont az ösvényen, amely tökéletesen keretezi a Jirishanca-hegy borotvaéles csúcsát.",
+                  "category": "natural",
+                  "coords": [
+                        -76.875617,
+                        -10.239445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yerupajá Chico",
+                  "text": "Acest vârf impunător din Cordillera Huayhuash prezintă fețe glaciare provocatoare, populare printre alpiniștii experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        -76.903485,
+                        -10.252237
+                  ]
+            },
+            {
+                  "name": "Rasac",
+                  "text": "Un munte impunător din Cordillera Huayhuash, cunoscut pentru versanții săi puternic glaciați și rutele tehnice de alpinism.",
+                  "category": "natural",
+                  "coords": [
+                        -76.921309,
+                        -10.274962
+                  ]
+            },
+            {
+                  "name": "Yerupajá",
+                  "text": "Dominând orizontul, acesta este cel mai înalt punct din Cordillera Huayhuash și prezintă formațiuni de gheață înșelătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -76.905564,
+                        -10.268624
+                  ]
+            },
+            {
+                  "name": "Paso Yaucha",
+                  "text": "O trecătoare montană de mare altitudine care oferă pasionaților de drumeții vederi panoramice ale vârfurilor accidentate Huayhuash și ale lacurilor glaciare.",
+                  "category": "natural",
+                  "coords": [
+                        -76.976879,
+                        -10.267114
+                  ]
+            },
+            {
+                  "name": "Cerro Paria",
+                  "text": "Un vârf andin notabil din lanțul Huayhuash, favorizat pentru turlele stâncoase dramatice care îi definesc creasta.",
+                  "category": "natural",
+                  "coords": [
+                        -76.911398,
+                        -10.193512
+                  ]
+            },
+            {
+                  "name": "Cerro Minapata",
+                  "text": "Acest vârf formidabil face parte din terenul abrupt și glaciar caracteristic îndepărtatei Cordillera Huayhuash.",
+                  "category": "natural",
+                  "coords": [
+                        -76.947716,
+                        -10.220168
+                  ]
+            },
+            {
+                  "name": "Rondoy",
+                  "text": "Cunoscut pentru fețele sale de gheață abrupte și periculoase, acest munte spectaculos reprezintă o provocare masivă pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        -76.915886,
+                        -10.224473
+                  ]
+            },
+            {
+                  "name": "Ninashanca",
+                  "text": "Marcând marginea de nord a Cordillera Huayhuash, această piramidă de gheață prezintă creste ascuțite, acoperite de zăpadă.",
+                  "category": "natural",
+                  "coords": [
+                        -76.914214,
+                        -10.212749
+                  ]
+            },
+            {
+                  "name": "Jirishanca",
+                  "text": "Adesea numit „Ciocul de Colibri Înghețat”, acest vârf emblematic, ascuțit, este unul dintre cele mai uimitoare din Huayhuash.",
+                  "category": "natural",
+                  "coords": [
+                        -76.905743,
+                        -10.236976
+                  ]
+            },
+            {
+                  "name": "Alcay",
+                  "text": "Un vârf andin accidentat din regiunea Huánuco, care oferă un profil izbitor pe fundalul cerului expansiv de la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -76.889325,
+                        -10.231057
+                  ]
+            },
+            {
+                  "name": "Mirador Jirishanca",
+                  "text": "Un punct de belvedere expus, uluitor pe traseu, care încadrează perfect vârful ascuțit ca briciul al muntelui Jirishanca.",
+                  "category": "natural",
+                  "coords": [
+                        -76.875617,
+                        -10.239445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yerupajá Chico",
+                  "text": "This imposing peak in the Cordillera Huayhuash features challenging glaciated faces popular with experienced mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        -76.903485,
+                        -10.252237
+                  ]
+            },
+            {
+                  "name": "Rasac",
+                  "text": "An imposing mountain in the Cordillera Huayhuash known for its heavily glaciated slopes and technical climbing routes.",
+                  "category": "natural",
+                  "coords": [
+                        -76.921309,
+                        -10.274962
+                  ]
+            },
+            {
+                  "name": "Yerupajá",
+                  "text": "Dominating the skyline, this is the highest point of the Cordillera Huayhuash and features treacherous ice flutings.",
+                  "category": "natural",
+                  "coords": [
+                        -76.905564,
+                        -10.268624
+                  ]
+            },
+            {
+                  "name": "Paso Yaucha",
+                  "text": "A high-altitude mountain pass providing trekkers with panoramic views of the rugged Huayhuash peaks and glacial lakes.",
+                  "category": "natural",
+                  "coords": [
+                        -76.976879,
+                        -10.267114
+                  ]
+            },
+            {
+                  "name": "Cerro Paria",
+                  "text": "A notable Andean summit within the Huayhuash range, favored for the dramatic rocky spires defining its ridgeline.",
+                  "category": "natural",
+                  "coords": [
+                        -76.911398,
+                        -10.193512
+                  ]
+            },
+            {
+                  "name": "Cerro Minapata",
+                  "text": "This formidable peak forms part of the steep, glaciated terrain characteristic of the remote Cordillera Huayhuash.",
+                  "category": "natural",
+                  "coords": [
+                        -76.947716,
+                        -10.220168
+                  ]
+            },
+            {
+                  "name": "Rondoy",
+                  "text": "Known for its sheer and perilous ice faces, this spectacular mountain presents a massive challenge for alpine climbers.",
+                  "category": "natural",
+                  "coords": [
+                        -76.915886,
+                        -10.224473
+                  ]
+            },
+            {
+                  "name": "Ninashanca",
+                  "text": "Marking the northern edge of the Cordillera Huayhuash, this icy pyramid features sharp, snow-covered ridges.",
+                  "category": "natural",
+                  "coords": [
+                        -76.914214,
+                        -10.212749
+                  ]
+            },
+            {
+                  "name": "Jirishanca",
+                  "text": "Often called the \"Icy Hummingbird Beak\", this iconic, sharply pointed peak is one of the most stunning in the Huayhuash.",
+                  "category": "natural",
+                  "coords": [
+                        -76.905743,
+                        -10.236976
+                  ]
+            },
+            {
+                  "name": "Alcay",
+                  "text": "A rugged Andean summit in the Huánuco region offering a striking profile against the expansive high-altitude skies.",
+                  "category": "natural",
+                  "coords": [
+                        -76.889325,
+                        -10.231057
+                  ]
+            },
+            {
+                  "name": "Mirador Jirishanca",
+                  "text": "An exposed, breathtaking vantage point on the trail that perfectly frames the razor-sharp peak of the Jirishanca mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -76.875617,
+                        -10.239445
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PE-HUC",
     coords: [-76.9, -10.26],
@@ -689,7 +2921,1060 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-huc-yerupaja-nature-v2.webp"
   },
   {
-    id: "pe-ica-huacachina-nature-v2",
+    id: "pe-ica-huacachina-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "sand boarding",
+                  "text": "Das Sandboarden auf den steilen Wüstendünen rund um Huacachina ist eine beliebte und rasante Outdoor-Aktivität.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.770015,
+                        -14.125647
+                  ]
+            },
+            {
+                  "name": "Duna",
+                  "text": "Dieser hochgelegene Aussichtspunkt auf einer Düne bietet einen Panoramablick über die weite Wüste und die Oase.",
+                  "category": "natural",
+                  "coords": [
+                        -75.764769,
+                        -14.084272
+                  ]
+            },
+            {
+                  "name": "La Huega",
+                  "text": "La Huega ist ein malerisches Naturgebiet am Rande der Sanddünenausläufer von Ica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.758751,
+                        -14.101107
+                  ]
+            },
+            {
+                  "name": "Huacachina",
+                  "text": "Dieses malerische Dorf ist um eine natürliche Wüstenoase mit einem von Palmen gesäumten See gebaut.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.763077,
+                        -14.087418
+                  ]
+            },
+            {
+                  "name": "Volcan Park",
+                  "text": "Ein lokaler Vergnügungspark in Ica, der der ganzen Familie Unterhaltung am Rande der Wüste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.754292,
+                        -14.034062
+                  ]
+            },
+            {
+                  "name": "Castillo Las Dunas",
+                  "text": "Dieses schlossähnliche Bauwerk, das sich in die sandige Umgebung einfügt, ist ein markanter Blickfang in den Dünen von Ica.",
+                  "category": "castle",
+                  "coords": [
+                        -75.753565,
+                        -14.046617
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "Dieses Zentrum der Heilsarmee bietet religiöse Dienste und Unterstützung für die örtliche Gemeinschaft in Ica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.747933,
+                        -14.070105
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Eine kleine christliche Kapelle, die den Bewohnern der Wüstenregion als Ort der stillen Andacht dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.748317,
+                        -14.069044
+                  ]
+            },
+            {
+                  "name": "San Antonio",
+                  "text": "Diese christliche Stätte in Ica ist dem Heiligen Antonius gewidmet und ein Ort des regelmäßigen Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.749864,
+                        -14.024945
+                  ]
+            },
+            {
+                  "name": "Cristo Moreno",
+                  "text": "Ein christlicher Andachtsort, der den tief verehrten Cristo Moreno, den Herrn der Wunder, ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.697376,
+                        -14.045898
+                  ]
+            },
+            {
+                  "name": "Nuestra Sra del Tránsito",
+                  "text": "Diese katholische Pfarrkirche feiert das Fest Mariä Himmelfahrt und dient als Gemeinde-Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.691212,
+                        -14.09622
+                  ]
+            },
+            {
+                  "name": "Capilla Chulpaca",
+                  "text": "Die kleine Kapelle im Viertel Chulpaca wird von der lokalen Nachbarschaft für christliche Feiern genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.709005,
+                        -14.130961
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "Diese Kirche ist der Jungfrau auf dem Berge Karmel, einer wichtigen Schutzpatronin, gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.705636,
+                        -14.127134
+                  ]
+            },
+            {
+                  "name": "Cruz de Conuca",
+                  "text": "Ein christliches Kreuzmonument auf einem Hügel, das oft das Ziel lokaler Pilgerwanderungen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.701986,
+                        -14.118261
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "Die Pfarrei San Antonio de Padua versammelt Gläubige zu katholischen Gottesdiensten in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.700131,
+                        -14.135344
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rosa de Lima",
+                  "text": "Eine bedeutende Pfarrkirche, die zu Ehren von Santa Rosa de Lima, der Patronin von Peru, errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.74301,
+                        -14.043979
+                  ]
+            },
+            {
+                  "name": "Cristo Vivo",
+                  "text": "Die Kapelle des Lebendigen Christus ist ein einfacher, aber spirituell wichtiger Andachtsraum für die Anwohner.",
+                  "category": "religious",
+                  "coords": [
+                        -75.704334,
+                        -14.036955
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor Crucificado de Orongo",
+                  "text": "Diese Kirche beherbergt die verehrte Statue des gekreuzigten Herrn von Orongo, einem Symbol des örtlichen Glaubens.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699665,
+                        -14.065437
+                  ]
+            },
+            {
+                  "name": "Iglesia Amor Verde",
+                  "text": "Eine lokale evangelische Kirche, deren Name auf die christliche Botschaft von der 'grünen Liebe' hinweist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.751308,
+                        -14.035671
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Evangelica Vida Nueva",
+                  "text": "Diese pfingstliche Freikirche bietet ihren Mitgliedern spirituelle Erneuerung unter dem Motto 'Neues Leben'.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.702271,
+                        -14.043895
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana de La Tinguiña",
+                  "text": "Die evangelische Kirche von Peru im Bezirk La Tinguiña ist ein Zentrum des protestantischen Glaubens in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.703946,
+                        -14.035816
+                  ]
+            },
+            {
+                  "name": "Misión Internacional Pentecostés Primitiva",
+                  "text": "Eine internationale pfingstliche Missionsgemeinde, die in der lokalen Gemeinschaft von Ica tief verwurzelt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.708854,
+                        -14.040074
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen María de Las Nieves",
+                  "text": "Eine katholische Pfarrkirche, die der Maria Schnee, einer alten römischen Marienverehrung, geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.711562,
+                        -14.038912
+                  ]
+            },
+            {
+                  "name": "Milagroso Divino Niño Jesus",
+                  "text": "Dieser christliche Anbetungsort widmet sich dem göttlichen Jesuskind, dem viele wundersame Taten nachgesagt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.711109,
+                        -14.036449
+                  ]
+            },
+            {
+                  "name": "Mercado Niño Jesús de Ayavi",
+                  "text": "Auf diesem geschäftigen Markt von Ayavi werden täglich frische Lebensmittel und regionale Produkte angeboten.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.706259,
+                        -14.046275
+                  ]
+            },
+            {
+                  "name": "Mercado Los Hermanos",
+                  "text": "Der 'Markt der Brüder' ist ein lokaler Handelsknotenpunkt für frisches Gemüse, Fleisch und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.698061,
+                        -14.051307
+                  ]
+            },
+            {
+                  "name": "Mercado 9 de Diciembre",
+                  "text": "Dieser Lebensmittelmarkt trägt das Datum einer historischen peruanischen Schlacht und versorgt die umliegenden Straßen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.697676,
+                        -14.044872
+                  ]
+            },
+            {
+                  "name": "Mercado La Unión",
+                  "text": "Der Markt La Unión fungiert als zentraler Treffpunkt der Nachbarschaft für den täglichen Lebensmitteleinkauf.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.704852,
+                        -14.048012
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de las Nieves",
+                  "text": "Ein lebhafter lokaler Markt in der Nähe der Wüstenoase Huacachina, der regionale Produkte anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.710123,
+                        -14.039176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "sand boarding",
+                  "text": "A Huacachina körüli meredek sivatagi dűnéken való sandboarding népszerű és gyors szabadtéri tevékenység.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.770015,
+                        -14.125647
+                  ]
+            },
+            {
+                  "name": "Duna",
+                  "text": "Ez a dűnén magasan fekvő kilátó panorámás kilátást nyújt a hatalmas sivatagra és az oázisra.",
+                  "category": "natural",
+                  "coords": [
+                        -75.764769,
+                        -14.084272
+                  ]
+            },
+            {
+                  "name": "La Huega",
+                  "text": "La Huega egy festői természeti terület az Ica homokdűnék lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.758751,
+                        -14.101107
+                  ]
+            },
+            {
+                  "name": "Huacachina",
+                  "text": "Ez a festői falu egy természetes sivatagi oázis köré épült, pálmafákkal szegélyezett tóval.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.763077,
+                        -14.087418
+                  ]
+            },
+            {
+                  "name": "Volcan Park",
+                  "text": "Egy helyi vidámpark Icában, amely az egész családnak szórakozást kínál a sivatag szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.754292,
+                        -14.034062
+                  ]
+            },
+            {
+                  "name": "Castillo Las Dunas",
+                  "text": "Ez a homokos környezetbe olvadó, kastélyszerű építmény egy lenyűgöző látványosság az Ica-dűnék között.",
+                  "category": "castle",
+                  "coords": [
+                        -75.753565,
+                        -14.046617
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "Az Üdvhadsereg e központja vallási szolgálatokat és támogatást nyújt a helyi közösségnek Icában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.747933,
+                        -14.070105
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Egy kis keresztény kápolna, amely a sivatagi régió lakói számára a csendes áhítat helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.748317,
+                        -14.069044
+                  ]
+            },
+            {
+                  "name": "San Antonio",
+                  "text": "Ez a Szent Antalnak szentelt icai keresztény imahely a rendszeres imádságok központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.749864,
+                        -14.024945
+                  ]
+            },
+            {
+                  "name": "Cristo Moreno",
+                  "text": "Egy keresztény imahely, amely a mélyen tisztelt Cristo Morenót, a Csodák Urát ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.697376,
+                        -14.045898
+                  ]
+            },
+            {
+                  "name": "Nuestra Sra del Tránsito",
+                  "text": "Ez a katolikus plébániatemplom Mária mennybevételének ünnepét ünnepli, és közösségi központként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.691212,
+                        -14.09622
+                  ]
+            },
+            {
+                  "name": "Capilla Chulpaca",
+                  "text": "A Chulpaca negyedben található kis kápolnát a helyi közösség keresztény ünnepségekre használja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.709005,
+                        -14.130961
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "Ezt a templomot a Kármel-hegyi Boldogasszonynak, egy fontos védőszentnek szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.705636,
+                        -14.127134
+                  ]
+            },
+            {
+                  "name": "Cruz de Conuca",
+                  "text": "Egy domboldali keresztény kereszt emlékmű, amely gyakran helyi zarándoklatok célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.701986,
+                        -14.118261
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "A Páduai Szent Antal plébánia katolikus istentiszteletekre gyűjti össze a régió hívőit.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.700131,
+                        -14.135344
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rosa de Lima",
+                  "text": "Egy jelentős plébániatemplom, amelyet Limai Szent Róza, Peru védőszentje tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.74301,
+                        -14.043979
+                  ]
+            },
+            {
+                  "name": "Cristo Vivo",
+                  "text": "Az Élő Krisztus kápolnája egy egyszerű, de lelkileg fontos imahely a helyi lakosok számára.",
+                  "category": "religious",
+                  "coords": [
+                        -75.704334,
+                        -14.036955
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor Crucificado de Orongo",
+                  "text": "Ebben a templomban található az Orongói Megfeszített Úr tisztelt szobra, amely a helyi hit szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699665,
+                        -14.065437
+                  ]
+            },
+            {
+                  "name": "Iglesia Amor Verde",
+                  "text": "Egy helyi evangéliumi templom, amelynek neve a 'zöld szeretet' keresztény üzenetére utal.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.751308,
+                        -14.035671
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Evangelica Vida Nueva",
+                  "text": "Ez a pünkösdi gyülekezet szellemi megújulást kínál tagjainak az 'Új Élet' mottó jegyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.702271,
+                        -14.043895
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana de La Tinguiña",
+                  "text": "A perui evangélikus templom La Tinguiña kerületben a protestáns hit központja a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.703946,
+                        -14.035816
+                  ]
+            },
+            {
+                  "name": "Misión Internacional Pentecostés Primitiva",
+                  "text": "Egy nemzetközi pünkösdi missziós gyülekezet, amely mélyen gyökerezik az icai helyi közösségben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.708854,
+                        -14.040074
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen María de Las Nieves",
+                  "text": "A Havas Boldogasszonynak, egy ősi római Mária-tiszteletnek szentelt katolikus plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.711562,
+                        -14.038912
+                  ]
+            },
+            {
+                  "name": "Milagroso Divino Niño Jesus",
+                  "text": "Ez a keresztény imahely a csodatevő Isteni Gyermek Jézus tiszteletére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.711109,
+                        -14.036449
+                  ]
+            },
+            {
+                  "name": "Mercado Niño Jesús de Ayavi",
+                  "text": "Ezen a nyüzsgő ayavi piacon naponta friss élelmiszereket és regionális termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.706259,
+                        -14.046275
+                  ]
+            },
+            {
+                  "name": "Mercado Los Hermanos",
+                  "text": "A 'Fivérek piaca' egy helyi kereskedelmi csomópont, ahol friss zöldséget, húst és háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.698061,
+                        -14.051307
+                  ]
+            },
+            {
+                  "name": "Mercado 9 de Diciembre",
+                  "text": "Ez az élelmiszerpiac egy történelmi perui csata dátumát viseli, és a környező utcákat látja el.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.697676,
+                        -14.044872
+                  ]
+            },
+            {
+                  "name": "Mercado La Unión",
+                  "text": "A La Unión piac a szomszédság központi találkozóhelyeként működik a napi bevásárlásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.704852,
+                        -14.048012
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de las Nieves",
+                  "text": "Egy nyüzsgő helyi piac a huacachinai sivatagi oázis közelében, amely regionális termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.710123,
+                        -14.039176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "sand boarding",
+                  "text": "Sandboarding-ul pe dunele abrupte de deșert din jurul orașului Huacachina este o activitate în aer liber populară și rapidă.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.770015,
+                        -14.125647
+                  ]
+            },
+            {
+                  "name": "Duna",
+                  "text": "Acest punct de belvedere situat la înălțime pe o dună oferă o vedere panoramică asupra vastului deșert și a oazei.",
+                  "category": "natural",
+                  "coords": [
+                        -75.764769,
+                        -14.084272
+                  ]
+            },
+            {
+                  "name": "La Huega",
+                  "text": "La Huega este o zonă naturală pitorească la marginea dunelor de nisip din Ica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.758751,
+                        -14.101107
+                  ]
+            },
+            {
+                  "name": "Huacachina",
+                  "text": "Acest sat pitoresc este construit în jurul unei oaze naturale de deșert, cu un lac mărginit de palmieri.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.763077,
+                        -14.087418
+                  ]
+            },
+            {
+                  "name": "Volcan Park",
+                  "text": "Un parc tematic local din Ica, care oferă divertisment pentru întreaga familie la marginea deșertului.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.754292,
+                        -14.034062
+                  ]
+            },
+            {
+                  "name": "Castillo Las Dunas",
+                  "text": "Această structură asemănătoare unui castel, care se îmbină cu împrejurimile nisipoase, este o atracție izbitoare în dunele din Ica.",
+                  "category": "castle",
+                  "coords": [
+                        -75.753565,
+                        -14.046617
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "Acest centru al Armatei Salvării oferă servicii religioase și sprijin comunității locale din Ica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.747933,
+                        -14.070105
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "O mică capelă creștină care servește drept loc de rugăciune tăcută pentru locuitorii din regiunea deșertului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.748317,
+                        -14.069044
+                  ]
+            },
+            {
+                  "name": "San Antonio",
+                  "text": "Acest lăcaș de cult creștin din Ica este dedicat Sfântului Anton și servește ca loc de rugăciune regulată.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.749864,
+                        -14.024945
+                  ]
+            },
+            {
+                  "name": "Cristo Moreno",
+                  "text": "Un lăcaș de cult creștin care îl onorează pe veneratul Cristo Moreno, Domnul Minunilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.697376,
+                        -14.045898
+                  ]
+            },
+            {
+                  "name": "Nuestra Sra del Tránsito",
+                  "text": "Această biserică parohială catolică sărbătorește Adormirea Maicii Domnului și servește drept centru comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.691212,
+                        -14.09622
+                  ]
+            },
+            {
+                  "name": "Capilla Chulpaca",
+                  "text": "Micuța capelă din cartierul Chulpaca este folosită de vecinătatea locală pentru sărbători creștine.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.709005,
+                        -14.130961
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "Această biserică este dedicată Fecioarei de pe Muntele Carmel, o importantă sfântă patroană.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.705636,
+                        -14.127134
+                  ]
+            },
+            {
+                  "name": "Cruz de Conuca",
+                  "text": "Un monument cu o cruce creștină pe un deal, care este adesea destinația pelerinajelor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.701986,
+                        -14.118261
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "Parohia Sfântul Anton de Padova adună credincioșii pentru slujbe catolice în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.700131,
+                        -14.135344
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rosa de Lima",
+                  "text": "O importantă biserică parohială construită în onoarea Sfintei Roza de Lima, patroana statului Peru.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.74301,
+                        -14.043979
+                  ]
+            },
+            {
+                  "name": "Cristo Vivo",
+                  "text": "Capela lui Hristos cel Viu este un spațiu de rugăciune simplu, dar important din punct de vedere spiritual pentru locuitorii zonei.",
+                  "category": "religious",
+                  "coords": [
+                        -75.704334,
+                        -14.036955
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor Crucificado de Orongo",
+                  "text": "Această biserică adăpostește statuia venerată a Domnului Răstignit din Orongo, un simbol al credinței locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699665,
+                        -14.065437
+                  ]
+            },
+            {
+                  "name": "Iglesia Amor Verde",
+                  "text": "O biserică evanghelică locală al cărei nume face referire la mesajul creștin al 'iubirii verzi'.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.751308,
+                        -14.035671
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Evangelica Vida Nueva",
+                  "text": "Această biserică penticostală oferă reînnoire spirituală membrilor săi sub deviza 'Viață Nouă'.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.702271,
+                        -14.043895
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana de La Tinguiña",
+                  "text": "Biserica evanghelică peruană din districtul La Tinguiña este un centru al credinței protestante din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.703946,
+                        -14.035816
+                  ]
+            },
+            {
+                  "name": "Misión Internacional Pentecostés Primitiva",
+                  "text": "O congregație misionară penticostală internațională profund înrădăcinată în comunitatea locală din Ica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.708854,
+                        -14.040074
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen María de Las Nieves",
+                  "text": "O biserică parohială catolică dedicată Fecioarei Zăpezii, o venerație mariană romană străveche.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.711562,
+                        -14.038912
+                  ]
+            },
+            {
+                  "name": "Milagroso Divino Niño Jesus",
+                  "text": "Acest lăcaș de cult creștin este dedicat Pruncului Iisus Divin, căruia i se atribuie fapte miraculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.711109,
+                        -14.036449
+                  ]
+            },
+            {
+                  "name": "Mercado Niño Jesús de Ayavi",
+                  "text": "În această piață plină de viață din Ayavi sunt oferite zilnic alimente proaspete și produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.706259,
+                        -14.046275
+                  ]
+            },
+            {
+                  "name": "Mercado Los Hermanos",
+                  "text": "Piața 'Fraților' este un centru comercial local pentru legume proaspete, carne și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.698061,
+                        -14.051307
+                  ]
+            },
+            {
+                  "name": "Mercado 9 de Diciembre",
+                  "text": "Această piață alimentară poartă data unei bătălii istorice peruane și aprovizionează străzile înconjurătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.697676,
+                        -14.044872
+                  ]
+            },
+            {
+                  "name": "Mercado La Unión",
+                  "text": "Piața La Unión acționează ca un punct de întâlnire central al cartierului pentru cumpărăturile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.704852,
+                        -14.048012
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de las Nieves",
+                  "text": "O piață locală plină de viață situată lângă oaza deșertică Huacachina, oferind produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.710123,
+                        -14.039176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "sand boarding",
+                  "text": "Sandboarding down the steep desert dunes around Huacachina is a popular and fast-paced outdoor activity.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.770015,
+                        -14.125647
+                  ]
+            },
+            {
+                  "name": "Duna",
+                  "text": "This high-elevation viewpoint on a dune offers panoramic views over the vast desert and the oasis.",
+                  "category": "natural",
+                  "coords": [
+                        -75.764769,
+                        -14.084272
+                  ]
+            },
+            {
+                  "name": "La Huega",
+                  "text": "La Huega is a scenic natural area located at the edge of the Ica sand dune foothills.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.758751,
+                        -14.101107
+                  ]
+            },
+            {
+                  "name": "Huacachina",
+                  "text": "This picturesque village is built around a natural desert oasis featuring a palm-lined lake.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.763077,
+                        -14.087418
+                  ]
+            },
+            {
+                  "name": "Volcan Park",
+                  "text": "A local theme park in Ica offering family-friendly entertainment on the edge of the desert.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.754292,
+                        -14.034062
+                  ]
+            },
+            {
+                  "name": "Castillo Las Dunas",
+                  "text": "This castle-like structure, blending into its sandy surroundings, is a striking feature among the dunes of Ica.",
+                  "category": "castle",
+                  "coords": [
+                        -75.753565,
+                        -14.046617
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "This Salvation Army center provides religious services and support to the local community in Ica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.747933,
+                        -14.070105
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "A small Christian chapel serving as a place of quiet devotion for residents of the desert region.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.748317,
+                        -14.069044
+                  ]
+            },
+            {
+                  "name": "San Antonio",
+                  "text": "Dedicated to Saint Anthony, this Christian site in Ica is a place of regular prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.749864,
+                        -14.024945
+                  ]
+            },
+            {
+                  "name": "Cristo Moreno",
+                  "text": "A Christian place of worship honoring the deeply revered Cristo Moreno, the Lord of Miracles.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.697376,
+                        -14.045898
+                  ]
+            },
+            {
+                  "name": "Nuestra Sra del Tránsito",
+                  "text": "This Catholic parish church celebrates the Assumption of Mary and serves as a community center.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.691212,
+                        -14.09622
+                  ]
+            },
+            {
+                  "name": "Capilla Chulpaca",
+                  "text": "The small chapel in the Chulpaca neighborhood is used by the local community for Christian celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.709005,
+                        -14.130961
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen",
+                  "text": "This church is dedicated to the Virgin of Mount Carmel, an important patron saint.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.705636,
+                        -14.127134
+                  ]
+            },
+            {
+                  "name": "Cruz de Conuca",
+                  "text": "A hillside Christian cross monument that is often the destination of local pilgrimages.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.701986,
+                        -14.118261
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "The San Antonio de Padua parish gathers believers for Catholic mass in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.700131,
+                        -14.135344
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Rosa de Lima",
+                  "text": "A significant parish church built in honor of Santa Rosa de Lima, the patron saint of Peru.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.74301,
+                        -14.043979
+                  ]
+            },
+            {
+                  "name": "Cristo Vivo",
+                  "text": "The Living Christ Chapel is a simple but spiritually important place of worship for local residents.",
+                  "category": "religious",
+                  "coords": [
+                        -75.704334,
+                        -14.036955
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor Crucificado de Orongo",
+                  "text": "This church houses the revered statue of the Crucified Lord of Orongo, a symbol of local faith.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699665,
+                        -14.065437
+                  ]
+            },
+            {
+                  "name": "Iglesia Amor Verde",
+                  "text": "A local evangelical church whose name refers to the Christian message of 'green love'.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.751308,
+                        -14.035671
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Evangelica Vida Nueva",
+                  "text": "This Pentecostal church offers spiritual renewal to its members under the motto of 'New Life'.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.702271,
+                        -14.043895
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Peruana de La Tinguiña",
+                  "text": "The Peruvian Evangelical Church in the La Tinguiña district is a center of Protestant faith in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.703946,
+                        -14.035816
+                  ]
+            },
+            {
+                  "name": "Misión Internacional Pentecostés Primitiva",
+                  "text": "An international primitive Pentecostal mission congregation deeply rooted in the local community of Ica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.708854,
+                        -14.040074
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen María de Las Nieves",
+                  "text": "A Catholic parish church dedicated to Our Lady of the Snows, an ancient Roman Marian devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.711562,
+                        -14.038912
+                  ]
+            },
+            {
+                  "name": "Milagroso Divino Niño Jesus",
+                  "text": "This Christian place of worship is dedicated to the Miraculous Divine Child Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.711109,
+                        -14.036449
+                  ]
+            },
+            {
+                  "name": "Mercado Niño Jesús de Ayavi",
+                  "text": "This bustling market in Ayavi offers fresh food and regional produce daily.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.706259,
+                        -14.046275
+                  ]
+            },
+            {
+                  "name": "Mercado Los Hermanos",
+                  "text": "The 'Brothers Market' is a local trading hub for fresh vegetables, meat, and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.698061,
+                        -14.051307
+                  ]
+            },
+            {
+                  "name": "Mercado 9 de Diciembre",
+                  "text": "This food market bears the date of a historical Peruvian battle and supplies the surrounding streets.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.697676,
+                        -14.044872
+                  ]
+            },
+            {
+                  "name": "Mercado La Unión",
+                  "text": "The La Unión market acts as a central neighborhood meeting point for daily grocery shopping.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.704852,
+                        -14.048012
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de las Nieves",
+                  "text": "A vibrant local marketplace situated near the desert oasis of Huacachina, offering regional products.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.710123,
+                        -14.039176
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PE-ICA",
     coords: [-75.76, -14.08],
@@ -738,7 +4023,340 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-ica-huacachina-nature-v2.webp"
   },
   {
-    id: "pe-cus-salcantay-nature-v2",
+    id: "pe-cus-salcantay-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wamantay",
+                  "text": "Der Wamantay ist ein markanter, schneebedeckter andiner Gipfel, der majestätisch über dem leuchtenden, gletschergespeisten türkisfarbenen Wasser des Humantay-Sees thront.",
+                  "category": "natural",
+                  "coords": [
+                        -72.58008,
+                        -13.300741
+                  ]
+            },
+            {
+                  "name": "7 Culebras",
+                  "text": "Die Attraktion 7 Snakes ist ein berüchtigt steiler und anspruchsvoller Gebirgspassabschnitt mit mehreren engen Serpentinen, die sich im Zickzack das zerklüftete Andenterrain hinaufschlängeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.561222,
+                        -13.362107
+                  ]
+            },
+            {
+                  "name": "Tukarway",
+                  "text": "Tukarway ist ein dramatischer, vergletscherter Berggipfel, der einen optisch beeindruckenden Teil der abgelegenen und zerklüfteten Vilcabamba-Bergkette bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.593513,
+                        -13.360838
+                  ]
+            },
+            {
+                  "name": "Nevado Humantay",
+                  "text": "Der Humantay Peak ist ein majestätischer, eisbedeckter Berggipfel, der das essentielle Gletscherschmelzwasser für den berühmten leuchtend blauen Alpensee an seinem Fuß liefert.",
+                  "category": "natural",
+                  "coords": [
+                        -72.579639,
+                        -13.361324
+                  ]
+            },
+            {
+                  "name": "Jatunjasa",
+                  "text": "Jatunjasa ist ein markanter Andengipfel, der sich steil inmitten der hochgelegenen, windgepeitschten Felslandschaften der ländlichen Region Cusco erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.541,
+                        -13.3672
+                  ]
+            },
+            {
+                  "name": "Llamahuasi",
+                  "text": "Llamahuasi ist ein zerklüfteter Berggipfel in den Hochanden, der traditionelle Weidegebiete überblickt, die von lokalen Alpakahirten genutzt werden.",
+                  "category": "natural",
+                  "coords": [
+                        -72.461939,
+                        -13.364779
+                  ]
+            },
+            {
+                  "name": "P'allqay",
+                  "text": "P'allqay ist ein markanter andiner Berggipfel, der an seiner gegabelten oder verzweigten felsigen Gipfelstruktur zu erkennen ist, die in den hochgelegenen Himmel ragt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.502876,
+                        -13.289466
+                  ]
+            },
+            {
+                  "name": "Nevado Salkantay",
+                  "text": "Der schneebedeckte Gipfel des Nevado Salkantay ragt markant über die zerklüftete Andenlandschaft der Vilcabamba-Kordillere hinaus.",
+                  "category": "natural",
+                  "coords": [
+                        -72.543606,
+                        -13.333398
+                  ]
+            },
+            {
+                  "name": "Inkaraqay",
+                  "text": "Inkaraqay ist eine antike archäologische Stätte, die die steinernen Ruinen einer präkolumbianischen Siedlung umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        -72.548642,
+                        -13.292819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wamantay",
+                  "text": "A Wamantay egy kiemelkedő, hófödte andoki hegycsúcs, amely fenségesen tornyosul a Humantay-tó világos, gleccser táplálta türkizkék vize fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -72.58008,
+                        -13.300741
+                  ]
+            },
+            {
+                  "name": "7 Culebras",
+                  "text": "A 7 Kígyó látványosság egy hírhedten meredek és kihívást jelentő hágószakasz, amelynek számos szűk hajtűkanyarja cikkcakkban kanyarog felfelé a zord andoki terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.561222,
+                        -13.362107
+                  ]
+            },
+            {
+                  "name": "Tukarway",
+                  "text": "A Tukarway egy drámai, eljegesedett hegycsúcs, amely a távoli és zord Vilcabamba-hegység vizuálisan is feltűnő részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -72.593513,
+                        -13.360838
+                  ]
+            },
+            {
+                  "name": "Nevado Humantay",
+                  "text": "A Humantay Peak egy fenséges, jég borította hegycsúcs, amely a tövében fekvő, híresen élénk kék alpesi tó létfontosságú gleccserolvadékvizét biztosítja.",
+                  "category": "natural",
+                  "coords": [
+                        -72.579639,
+                        -13.361324
+                  ]
+            },
+            {
+                  "name": "Jatunjasa",
+                  "text": "A Jatunjasa egy kiemelkedő andoki hegycsúcs, amely meredeken emelkedik ki Cusco vidéki régiójának magasan fekvő, szélfútta sziklás tájain.",
+                  "category": "natural",
+                  "coords": [
+                        -72.541,
+                        -13.3672
+                  ]
+            },
+            {
+                  "name": "Llamahuasi",
+                  "text": "A Llamahuasi egy zord hegycsúcs a Magas-Andokban, amely a helyi alpakapásztorok által használt hagyományos legelőkre tekint le.",
+                  "category": "natural",
+                  "coords": [
+                        -72.461939,
+                        -13.364779
+                  ]
+            },
+            {
+                  "name": "P'allqay",
+                  "text": "A P'allqay egy jellegzetes andoki hegycsúcs, amely magaslégtérbe nyúló, kettéágazó vagy elágazó sziklás csúcsszerkezetéről ismerhető fel.",
+                  "category": "natural",
+                  "coords": [
+                        -72.502876,
+                        -13.289466
+                  ]
+            },
+            {
+                  "name": "Nevado Salkantay",
+                  "text": "A hófödte Nevado Salkantay lenyűgöző hegycsúcsa meredeken magasodik a Vilcabamba-hegység zord andoki tája fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -72.543606,
+                        -13.333398
+                  ]
+            },
+            {
+                  "name": "Inkaraqay",
+                  "text": "Inkaraqay egy ősi régészeti lelőhely, amely egy Kolumbusz előtti település kőromjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -72.548642,
+                        -13.292819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wamantay",
+                  "text": "Wamantay este un vârf andin proeminent, acoperit de zăpadă, care se înalță maiestuos deasupra apelor turcoaz strălucitoare, hrănite de ghețari, ale lacului Humantay.",
+                  "category": "natural",
+                  "coords": [
+                        -72.58008,
+                        -13.300741
+                  ]
+            },
+            {
+                  "name": "7 Culebras",
+                  "text": "Atracția 7 Șerpi este o secțiune de trecătoare montană notoriu de abruptă și provocatoare, care prezintă mai multe serpentine strânse ce șerpuiesc în zigzag pe terenul andin accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.561222,
+                        -13.362107
+                  ]
+            },
+            {
+                  "name": "Tukarway",
+                  "text": "Tukarway este un vârf montan dramatic, acoperit de ghețari, care formează o parte uimitoare vizual a lanțului muntos izolat și accidentat Vilcabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -72.593513,
+                        -13.360838
+                  ]
+            },
+            {
+                  "name": "Nevado Humantay",
+                  "text": "Vârful Humantay este un summit montan maiestuos, îmbrăcat în gheață, care furnizează apa de topire glaciară esențială pentru faimosul lac alpin albastru vibrant situat la baza sa.",
+                  "category": "natural",
+                  "coords": [
+                        -72.579639,
+                        -13.361324
+                  ]
+            },
+            {
+                  "name": "Jatunjasa",
+                  "text": "Jatunjasa este un vârf andin proeminent care se înalță abrupt în mijlocul peisajelor stâncoase de mare altitudine, bătute de vânt, din regiunea rurală Cusco.",
+                  "category": "natural",
+                  "coords": [
+                        -72.541,
+                        -13.3672
+                  ]
+            },
+            {
+                  "name": "Llamahuasi",
+                  "text": "Llamahuasi este un vârf montan accidentat situat în Anzii Înalți, care are vedere la pășunile pastorale tradiționale folosite de păstorii locali de alpaca.",
+                  "category": "natural",
+                  "coords": [
+                        -72.461939,
+                        -13.364779
+                  ]
+            },
+            {
+                  "name": "P'allqay",
+                  "text": "P'allqay este un vârf muntos andin distinctiv, recunoscut prin structura sa de vârf stâncos bifurcat sau ramificat, care se profilează pe cerul de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -72.502876,
+                        -13.289466
+                  ]
+            },
+            {
+                  "name": "Nevado Salkantay",
+                  "text": "Vârful înzăpezit Nevado Salkantay se înalță impunător deasupra peisajului andin accidentat din lanțul muntos Vilcabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -72.543606,
+                        -13.333398
+                  ]
+            },
+            {
+                  "name": "Inkaraqay",
+                  "text": "Inkaraqay este un sit arheologic antic ce păstrează ruinele de piatră ale unei așezări precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -72.548642,
+                        -13.292819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wamantay",
+                  "text": "Wamantay is a prominent snow-capped Andean peak towering majestically above the bright, glacier-fed turquoise waters of Lake Humantay.",
+                  "category": "natural",
+                  "coords": [
+                        -72.58008,
+                        -13.300741
+                  ]
+            },
+            {
+                  "name": "7 Snakes",
+                  "text": "The 7 Snakes attraction is a notoriously steep and challenging mountain pass section featuring multiple tight switchbacks that zig-zag up the rugged Andean terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.561222,
+                        -13.362107
+                  ]
+            },
+            {
+                  "name": "Tukarway",
+                  "text": "Tukarway is a dramatic, glaciated mountain peak forming a visually striking part of the remote and rugged Vilcabamba mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -72.593513,
+                        -13.360838
+                  ]
+            },
+            {
+                  "name": "Humantay Peak",
+                  "text": "Humantay Peak is a majestic, ice-clad mountain summit that provides the essential glacial meltwater for the famously vibrant blue alpine lake situated at its base.",
+                  "category": "natural",
+                  "coords": [
+                        -72.579639,
+                        -13.361324
+                  ]
+            },
+            {
+                  "name": "Jatunjasa",
+                  "text": "Jatunjasa is a prominent Andean summit rising steeply amidst the high-altitude, windswept rock landscapes of the rural Cusco region.",
+                  "category": "natural",
+                  "coords": [
+                        -72.541,
+                        -13.3672
+                  ]
+            },
+            {
+                  "name": "Llamahuasi",
+                  "text": "Llamahuasi is a rugged mountain peak located in the high Andes, overlooking traditional pastoral grazing lands used by local alpaca herders.",
+                  "category": "natural",
+                  "coords": [
+                        -72.461939,
+                        -13.364779
+                  ]
+            },
+            {
+                  "name": "P'allqay",
+                  "text": "P'allqay is a distinctive Andean mountain peak recognized by its bifurcated or branching rocky summit structure that juts into the high-altitude sky.",
+                  "category": "natural",
+                  "coords": [
+                        -72.502876,
+                        -13.289466
+                  ]
+            },
+            {
+                  "name": "Nevado Salkantay",
+                  "text": "The snow-capped Nevado Salkantay is a prominent mountain peak towering over the rugged Andean landscape of the Vilcabamba range.",
+                  "category": "natural",
+                  "coords": [
+                        -72.543606,
+                        -13.333398
+                  ]
+            },
+            {
+                  "name": "Inkaraqay",
+                  "text": "Inkaraqay is an ancient archaeological site featuring the stone ruins of a pre-Columbian settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -72.548642,
+                        -13.292819
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PE-CUS",
     coords: [-72.54, -13.33],
@@ -787,7 +4405,232 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-cus-salcantay-nature-v2.webp"
   },
   {
-    id: "pe-cus-urubamba-nature-v2",
+    id: "pe-cus-urubamba-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Guardian Farm",
+                  "text": "The Guardian Farm ist eine ländliche landwirtschaftliche Attraktion, die Besuchern einen Einblick in lokale Anbaumethoden bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.570278,
+                        -13.008737
+                  ]
+            },
+            {
+                  "name": "Parador turistico",
+                  "text": "Dieser touristische Rastplatz dient als malerischer Zwischenstopp für Reisende, die das Urubamba-Tal erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.55429,
+                        -13.005687
+                  ]
+            },
+            {
+                  "name": "Chochapata lodge",
+                  "text": "Chochapata ist eine hochgelegene Attraktion in den Anden, die weite Ausblicke auf das umliegende zerklüftete Gelände bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.545905,
+                        -13.005216
+                  ]
+            },
+            {
+                  "name": "Camino a catarata el Oso",
+                  "text": "Dieser schattige Wanderweg schlängelt sich durch die Waldlandschaft bis zu den herabstürzenden Wassermassen des Wasserfalls El Oso.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.530844,
+                        -12.973747
+                  ]
+            },
+            {
+                  "name": "Incatambo",
+                  "text": "Die archäologische Stätte Incatambo zeigt die terrassierten steinernen Überreste einer alten Inka-Wegestation.",
+                  "category": "historical",
+                  "coords": [
+                        -72.444695,
+                        -13.054563
+                  ]
+            },
+            {
+                  "name": "Wamanmarka",
+                  "text": "Die denkmalgeschützte archäologische Stätte Wamanmarka umfasst weitläufige präkolumbianische Steinruinen und zeremonielle Plattformen.",
+                  "category": "historical",
+                  "coords": [
+                        -72.495574,
+                        -13.020751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Guardian Farm",
+                  "text": "A The Guardian Farm egy vidéki mezőgazdasági látványosság, amely bemutatja a látogatóknak a helyi gazdálkodási módszereket.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.570278,
+                        -13.008737
+                  ]
+            },
+            {
+                  "name": "Parador turistico",
+                  "text": "Ez az útmenti turisztikai pavilon festői pihenőhelyként szolgál az Urubamba-völgyet felfedező utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.55429,
+                        -13.005687
+                  ]
+            },
+            {
+                  "name": "Chochapata lodge",
+                  "text": "A magaslati Chochapata andoki látványosság panorámás kilátást nyújt a környező zord vidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.545905,
+                        -13.005216
+                  ]
+            },
+            {
+                  "name": "Camino a catarata el Oso",
+                  "text": "Ez az árnyékos túraútvonal az erdős tájon keresztül kanyarog egészen az El Oso vízesés zuhatagáig.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.530844,
+                        -12.973747
+                  ]
+            },
+            {
+                  "name": "Incatambo",
+                  "text": "Az Incatambo régészeti lelőhely egy ősi inka pihenőállomás teraszos kőmaradványait rejti.",
+                  "category": "historical",
+                  "coords": [
+                        -72.444695,
+                        -13.054563
+                  ]
+            },
+            {
+                  "name": "Wamanmarka",
+                  "text": "A műemlékvédelem alatt álló Wamanmarka régészeti lelőhely kiterjedt Kolumbusz előtti kőromokat és szertartási emelvényeket foglal magába.",
+                  "category": "historical",
+                  "coords": [
+                        -72.495574,
+                        -13.020751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Guardian Farm",
+                  "text": "The Guardian Farm este o atracție agricolă rurală care oferă vizitatorilor o privire asupra practicilor agricole locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.570278,
+                        -13.008737
+                  ]
+            },
+            {
+                  "name": "Parador turistico",
+                  "text": "Acest pavilion turistic de pe marginea drumului servește drept punct de popas pitoresc pentru călătorii care explorează valea Urubamba.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.55429,
+                        -13.005687
+                  ]
+            },
+            {
+                  "name": "Chochapata lodge",
+                  "text": "Chochapata este o atracție andină aflată la mare altitudine, care oferă vederi panoramice asupra terenului accidentat din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.545905,
+                        -13.005216
+                  ]
+            },
+            {
+                  "name": "Camino a catarata el Oso",
+                  "text": "Această potecă de drumeție umbrită șerpuiește prin peisajul împădurit pentru a ajunge la apele cascadei El Oso.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.530844,
+                        -12.973747
+                  ]
+            },
+            {
+                  "name": "Incatambo",
+                  "text": "Situl arheologic Incatambo prezintă rămășițele de piatră terasate ale unui vechi popas incaș.",
+                  "category": "historical",
+                  "coords": [
+                        -72.444695,
+                        -13.054563
+                  ]
+            },
+            {
+                  "name": "Wamanmarka",
+                  "text": "Situl arheologic de patrimoniu Wamanmarka cuprinde vaste ruine de piatră și platforme ceremoniale precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -72.495574,
+                        -13.020751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Guardian Farm",
+                  "text": "The Guardian Farm is a rural agricultural attraction offering visitors a glimpse into local farming practices.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.570278,
+                        -13.008737
+                  ]
+            },
+            {
+                  "name": "Parador turistico",
+                  "text": "This roadside tourist pavilion serves as a scenic resting point for travelers exploring the Urubamba valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.55429,
+                        -13.005687
+                  ]
+            },
+            {
+                  "name": "Chochapata",
+                  "text": "Chochapata is a high-altitude Andean attraction offering sweeping views of the surrounding rugged terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.545905,
+                        -13.005216
+                  ]
+            },
+            {
+                  "name": "Path to waterfall “El Oso”",
+                  "text": "This shaded hiking trail winds through the forested landscape to reach the cascading waters of the El Oso waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.530844,
+                        -12.973747
+                  ]
+            },
+            {
+                  "name": "Incatambo",
+                  "text": "The archaeological site of Incatambo features the terraced stone remains of an ancient Incan waystation.",
+                  "category": "historical",
+                  "coords": [
+                        -72.444695,
+                        -13.054563
+                  ]
+            },
+            {
+                  "name": "Wamanmarka",
+                  "text": "The heritage-listed archaeological site of Wamanmarka encompasses extensive pre-Columbian stone ruins and ceremonial platforms.",
+                  "category": "historical",
+                  "coords": [
+                        -72.495574,
+                        -13.020751
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PE-CUS",
     coords: [-72.5, -13.0],
@@ -836,7 +4679,232 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-cus-urubamba-nature-v2.webp"
   },
   {
-    id: "pe-ama-gocta-nature-v2",
+    id: "pe-ama-gocta-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Refugio del colibrí espatula",
+                  "text": "Naturschutzgebiet, das dem Schutz des seltenen und endemischen Wundersylphe-Kolibris gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.894261,
+                        -6.061485
+                  ]
+            },
+            {
+                  "name": "Catarata de Golondrina",
+                  "text": "Ein malerischer Wasserfall, der kraftvoll durch den dichten andinen Nebelwald stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.867443,
+                        -6.048715
+                  ]
+            },
+            {
+                  "name": "Catarata del Gocta",
+                  "text": "Spektakulärer zweistufiger Wasserfall, der tief in das üppige Nebelwaldtal stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.887721,
+                        -6.024651
+                  ]
+            },
+            {
+                  "name": "Cueva de Atunpampa",
+                  "text": "Natürliches Kalksteinhöhlensystem, das im bewaldeten Gelände der Anden verborgen ist.",
+                  "category": "natural",
+                  "coords": [
+                        -77.88832,
+                        -5.971875
+                  ]
+            },
+            {
+                  "name": "Catarata del Gocta",
+                  "text": "Einer der höchsten Wasserfälle der Welt, der in zwei atemberaubenden Stufen beeindruckende 771 Meter in die Tiefe stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.886137,
+                        -6.020437
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pablo",
+                  "text": "Traditionelle christliche Kirche, die dem kleinen Andendorf mit ihrer markanten lokalen Architektur dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919748,
+                        -6.042573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Refugio del colibrí espatula",
+                  "text": "Természetvédelmi terület, amelyet a ritka és endemikus csodálatos spatulafarkú kolibri védelmének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.894261,
+                        -6.061485
+                  ]
+            },
+            {
+                  "name": "Catarata de Golondrina",
+                  "text": "Festői vízesés, amely erőteljesen zuhan alá a sűrű andoki köderdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.867443,
+                        -6.048715
+                  ]
+            },
+            {
+                  "name": "Catarata del Gocta",
+                  "text": "Látványos, kétszintes vízesés, amely mélyen a buja köderdő völgyébe zuhan.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.887721,
+                        -6.024651
+                  ]
+            },
+            {
+                  "name": "Cueva de Atunpampa",
+                  "text": "Az Andok erdős terepén megbúvó természetes mészkőbarlang-rendszer.",
+                  "category": "natural",
+                  "coords": [
+                        -77.88832,
+                        -5.971875
+                  ]
+            },
+            {
+                  "name": "Catarata del Gocta",
+                  "text": "A világ egyik legmagasabb vízesése, amely lenyűgöző, 771 méteres mélységbe zuhan két elképesztő lépcsőben.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.886137,
+                        -6.020437
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pablo",
+                  "text": "Hagyományos keresztény templom jellegzetes helyi építészettel, amely a kis andoki falut szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919748,
+                        -6.042573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Refugio del colibrí espatula",
+                  "text": "Rezervație naturală dedicată protejării păsării colibri rare și endemice cu coadă în formă de spatulă.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.894261,
+                        -6.061485
+                  ]
+            },
+            {
+                  "name": "Catarata de Golondrina",
+                  "text": "O cascadă pitorească ce se revarsă cu putere prin pădurea tropicală andină densă.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.867443,
+                        -6.048715
+                  ]
+            },
+            {
+                  "name": "Catarata del Gocta",
+                  "text": "Spectaculoasă cascadă cu două trepte care se prăbușește adânc în valea luxuriantă a pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.887721,
+                        -6.024651
+                  ]
+            },
+            {
+                  "name": "Cueva de Atunpampa",
+                  "text": "Sistem natural de peșteri de calcar ascuns în relieful împădurit al Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -77.88832,
+                        -5.971875
+                  ]
+            },
+            {
+                  "name": "Catarata del Gocta",
+                  "text": "Una dintre cele mai înalte cascade din lume, având o cădere impresionantă de 771 de metri în două trepte uluitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.886137,
+                        -6.020437
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pablo",
+                  "text": "Biserică creștină tradițională ce deservește micul sat andin, remarcabilă prin arhitectura sa locală distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919748,
+                        -6.042573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Refugio del colibrí espatula",
+                  "text": "Nature reserve dedicated to protecting the rare and endemic marvelous spatuletail hummingbird.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.894261,
+                        -6.061485
+                  ]
+            },
+            {
+                  "name": "Catarata de Golondrina",
+                  "text": "Scenic waterfall cascading powerfully through the dense Andean cloud forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.867443,
+                        -6.048715
+                  ]
+            },
+            {
+                  "name": "Catarata del Gocta",
+                  "text": "Spectacular two-tiered waterfall plunging deep into the lush cloud forest valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.887721,
+                        -6.024651
+                  ]
+            },
+            {
+                  "name": "Cueva de Atunpampa",
+                  "text": "Natural limestone cave system hidden within the forested Andean terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -77.88832,
+                        -5.971875
+                  ]
+            },
+            {
+                  "name": "Gocta Cataracts",
+                  "text": "One of the world's tallest waterfalls, dropping an impressive 771 meters in two stunning leaps.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.886137,
+                        -6.020437
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pablo",
+                  "text": "Traditional Christian church serving the small Andean village with its distinctive local architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919748,
+                        -6.042573
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PE-AMA",
     coords: [-77.85, -6.02],
@@ -885,7 +4953,196 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-ama-gocta-nature-v2.webp"
   },
   {
-    id: "pe-anc-llanganuco-nature-v2",
+    id: "pe-anc-llanganuco-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puchkayuq Punta",
+                  "text": "Ein hoch gelegener Berggipfel in der andinen Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.654999,
+                        -9.099779
+                  ]
+            },
+            {
+                  "name": "Llanganuco lakes",
+                  "text": "Die malerischen Uferbereiche rund um die leuchtend türkisfarbenen Gletscherseen von Llanganuco.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.651059,
+                        -9.078066
+                  ]
+            },
+            {
+                  "name": "Portachuelo de Llanganuco",
+                  "text": "Ein hoch gelegener Gebirgspass mit Panoramablick auf die Llanganuco-Seen und die umliegenden Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -77.591242,
+                        -9.051032
+                  ]
+            },
+            {
+                  "name": "Yanarrajo",
+                  "text": "Ein zerklüfteter Berggipfel in der malerischen Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.587777,
+                        -9.037258
+                  ]
+            },
+            {
+                  "name": "Yanapaccha",
+                  "text": "Ein markanter vergletscherter Berggipfel in der Cordillera Blanca, der oft für das Bergsteigertraining genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -77.576778,
+                        -9.026916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puchkayuq Punta",
+                  "text": "Egy magasan fekvő hegycsúcs az andokbeli Cordillera Blanca hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -77.654999,
+                        -9.099779
+                  ]
+            },
+            {
+                  "name": "Llanganuco lakes",
+                  "text": "A Llanganuco élénk türkizkék gleccsertavait körülvevő festői partmenti területek.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.651059,
+                        -9.078066
+                  ]
+            },
+            {
+                  "name": "Portachuelo de Llanganuco",
+                  "text": "Egy magasan fekvő hegyi hágó, ahonnan panorámás kilátás nyílik a Llanganuco-tavakra és a környező csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        -77.591242,
+                        -9.051032
+                  ]
+            },
+            {
+                  "name": "Yanarrajo",
+                  "text": "Egy zord hegycsúcs a festői Cordillera Blanca hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -77.587777,
+                        -9.037258
+                  ]
+            },
+            {
+                  "name": "Yanapaccha",
+                  "text": "Egy kiemelkedő eljegesedett hegycsúcs a Cordillera Blanca hegységben, amelyet gyakran hegymászó edzésekhez használnak.",
+                  "category": "natural",
+                  "coords": [
+                        -77.576778,
+                        -9.026916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puchkayuq Punta",
+                  "text": "Un vârf de munte de mare altitudine situat în Cordillera Blanca din Anzi.",
+                  "category": "natural",
+                  "coords": [
+                        -77.654999,
+                        -9.099779
+                  ]
+            },
+            {
+                  "name": "Llanganuco lakes",
+                  "text": "Zonele pitorești de țărm care înconjoară lacurile glaciare de un turcoaz viu din Llanganuco.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.651059,
+                        -9.078066
+                  ]
+            },
+            {
+                  "name": "Portachuelo de Llanganuco",
+                  "text": "O trecătoare montană de mare altitudine care oferă vederi panoramice ale lacurilor Llanganuco și ale vârfurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -77.591242,
+                        -9.051032
+                  ]
+            },
+            {
+                  "name": "Yanarrajo",
+                  "text": "Un vârf de munte accidentat situat în pitoreasca Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.587777,
+                        -9.037258
+                  ]
+            },
+            {
+                  "name": "Yanapaccha",
+                  "text": "Un vârf de munte glaciar proeminent din Cordillera Blanca, adesea folosit pentru antrenamentul de alpinism.",
+                  "category": "natural",
+                  "coords": [
+                        -77.576778,
+                        -9.026916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puchkayuq Punta",
+                  "text": "A high-altitude mountain summit located in the Andean Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.654999,
+                        -9.099779
+                  ]
+            },
+            {
+                  "name": "Llanganuco lakes",
+                  "text": "The scenic shoreline areas surrounding the vivid turquoise glacial lakes of Llanganuco.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.651059,
+                        -9.078066
+                  ]
+            },
+            {
+                  "name": "Portachuelo de Llanganuco",
+                  "text": "A high-altitude mountain pass offering panoramic views of the Llanganuco lakes and surrounding peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -77.591242,
+                        -9.051032
+                  ]
+            },
+            {
+                  "name": "Yanarrajo",
+                  "text": "A rugged mountain peak situated within the scenic Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.587777,
+                        -9.037258
+                  ]
+            },
+            {
+                  "name": "Yanapaccha",
+                  "text": "A prominent glaciated mountain peak in the Cordillera Blanca often used for mountaineering training.",
+                  "category": "natural",
+                  "coords": [
+                        -77.576778,
+                        -9.026916
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PE-ANC",
     coords: [-77.63, -9.06],
@@ -934,7 +5191,52 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-anc-llanganuco-nature-v2.webp"
   },
   {
-    id: "pe-pun-taquile-nature-v2",
+    id: "pe-pun-taquile-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taquile",
+                  "text": "Diese Insel im Titicacasee ist weltweit bekannt für ihre einzigartige Textilkunst, die von der UNESCO als Kulturerbe anerkannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.685343,
+                        -15.769909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taquile",
+                  "text": "Ez a Titicaca-tóban található sziget világszerte ismert egyedülálló textilvásznairól, amelyeket az UNESCO a világörökség részévé nyilvánított.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.685343,
+                        -15.769909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taquile",
+                  "text": "Această insulă din Lacul Titicaca este renumită în întreaga lume pentru arta sa textilă unică, recunoscută de UNESCO ca patrimoniu cultural.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.685343,
+                        -15.769909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taquile",
+                  "text": "This island in Lake Titicaca is world-renowned for its unique textile art, recognized by UNESCO as cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.685343,
+                        -15.769909
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "PE-PUN",
     coords: [-69.68, -15.76],
@@ -983,7 +5285,160 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-pun-taquile-nature-v2.webp"
   },
   {
-    id: "pe-pun-amantani-nature-v2",
+    id: "pe-pun-amantani-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pachamama",
+                  "text": "Diese alte, kreisförmige Tempelruine hoch oben auf der Insel Amantaní ist der verehrten andinen Erdmuttergottheit gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        -69.716904,
+                        -15.672671
+                  ]
+            },
+            {
+                  "name": "Cerro Carus",
+                  "text": "Diese markante Anhöhe auf der Insel bietet einen erhöhten Aussichtspunkt für ungestörte Sonnenuntergänge über den weiten Titicacasee.",
+                  "category": "natural",
+                  "coords": [
+                        -69.7601,
+                        -15.720887
+                  ]
+            },
+            {
+                  "name": "Playa Ccotos",
+                  "text": "Ein abgelegenes Ufer in der Nähe der andinen Hochlandgemeinden, das sich durch seinen Kieselstrand und die frische, klare Seebrise auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.768727,
+                        -15.666817
+                  ]
+            },
+            {
+                  "name": "Roca Incaica",
+                  "text": "Ein freiliegender, verwitterter Steinblock am Hang, der seit Jahrhunderten als kontinuierlicher Ort für indigene spirituelle Opfergaben dient.",
+                  "category": "religious",
+                  "coords": [
+                        -69.726211,
+                        -15.668603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pachamama",
+                  "text": "Az Amantaní sziget magasan fekvő, ősi, kör alakú templomromját a tisztelt andoki Földanya istenségnek szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        -69.716904,
+                        -15.672671
+                  ]
+            },
+            {
+                  "name": "Cerro Carus",
+                  "text": "Ez a kiemelkedő szigeti dombtető magaslati kilátópontot nyújt a zavartalan naplementék megtekintéséhez a Titicaca-tó hatalmas kiterjedésén.",
+                  "category": "natural",
+                  "coords": [
+                        -69.7601,
+                        -15.720887
+                  ]
+            },
+            {
+                  "name": "Playa Ccotos",
+                  "text": "A magas andoki közösségek közelében fekvő, eldugott partszakasz, melyet kavicsos part és friss, tiszta tavi szellő jellemez.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.768727,
+                        -15.666817
+                  ]
+            },
+            {
+                  "name": "Roca Incaica",
+                  "text": "Egy szabadon álló, viharvert kőtömb a domboldalon, amely évszázadok óta folyamatosan az őslakosok spirituális felajánlásainak helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -69.726211,
+                        -15.668603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pachamama",
+                  "text": "Cocoțată sus pe insula Amantaní, această veche ruină a unui templu circular este dedicată veneratei zeități andine a mamei pământ.",
+                  "category": "historical",
+                  "coords": [
+                        -69.716904,
+                        -15.672671
+                  ]
+            },
+            {
+                  "name": "Cerro Carus",
+                  "text": "Acest deal proeminent de pe insulă oferă un punct de observație înalt pentru apusuri de soare neîntrerupte peste vasta întindere a lacului Titicaca.",
+                  "category": "natural",
+                  "coords": [
+                        -69.7601,
+                        -15.720887
+                  ]
+            },
+            {
+                  "name": "Playa Ccotos",
+                  "text": "Un țărm retras în apropierea comunităților andine înalte, caracterizat prin linia sa de coastă cu pietriș și briza aspră și clară a lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.768727,
+                        -15.666817
+                  ]
+            },
+            {
+                  "name": "Roca Incaica",
+                  "text": "Un bloc de piatră expus și erodat pe versant, care a servit drept loc continuu pentru ofrande spirituale indigene timp de secole.",
+                  "category": "religious",
+                  "coords": [
+                        -69.726211,
+                        -15.668603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pachamama",
+                  "text": "Perched high on Amantaní Island, this ancient circular temple ruin is dedicated to the revered Andean earth mother deity.",
+                  "category": "historical",
+                  "coords": [
+                        -69.716904,
+                        -15.672671
+                  ]
+            },
+            {
+                  "name": "Cerro Carus",
+                  "text": "This prominent island hilltop provides an elevated vantage point for uninterrupted sunset views across the vast expanse of Lake Titicaca.",
+                  "category": "natural",
+                  "coords": [
+                        -69.7601,
+                        -15.720887
+                  ]
+            },
+            {
+                  "name": "Playa Ccotos",
+                  "text": "A secluded shore near the high Andean communities, characterized by its pebbled shoreline and crisp, clear lake breezes.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.768727,
+                        -15.666817
+                  ]
+            },
+            {
+                  "name": "holy Inca rock",
+                  "text": "An exposed, weathered stone block on the hillside that has served as a continuous site of indigenous spiritual offerings for centuries.",
+                  "category": "religious",
+                  "coords": [
+                        -69.726211,
+                        -15.668603
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "PE-PUN",
     coords: [-69.71, -15.66],
@@ -1080,7 +5535,124 @@ export const poiExtraPeruNatureV2: POI[] = [
     },
   },
   {
-    id: "pe-lma-siula-nature-v2",
+    id: "pe-lma-siula-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wank'a Marka",
+                  "text": "Ein markanter Berggipfel in den Anden, dessen schroffe Hänge in der Siula-Region anspruchsvolle Aufstiege bieten.",
+                  "category": "natural",
+                  "coords": [
+                        -76.838476,
+                        -10.348083
+                  ]
+            },
+            {
+                  "name": "Mirador Tres Lagunas",
+                  "text": "Ein malerischer hochgelegener Aussichtspunkt, der Wanderer mit weiten Ausblicken über drei verschiedene Alpenseen belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        -76.864638,
+                        -10.285024
+                  ]
+            },
+            {
+                  "name": "Cerro Yanaccocha",
+                  "text": "Dieser nach den dunklen hochgelegenen Gewässern in der Nähe benannte Andengipfel zeichnet sich durch steile felsige Hänge in der Gegend von Siula aus.",
+                  "category": "natural",
+                  "coords": [
+                        -76.861336,
+                        -10.26779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wank'a Marka",
+                  "text": "Kiemelkedő andoki hegycsúcs, amelynek zord lejtői kihívásokkal teli emelkedőket kínálnak a Siula régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -76.838476,
+                        -10.348083
+                  ]
+            },
+            {
+                  "name": "Mirador Tres Lagunas",
+                  "text": "Festői magaslati kilátó, amely három különálló alpesi tóra nyíló pazar kilátással jutalmazza a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        -76.864638,
+                        -10.285024
+                  ]
+            },
+            {
+                  "name": "Cerro Yanaccocha",
+                  "text": "A közeli sötét, magashegyi vizekről elnevezett andoki csúcs a Siula térségben meredek sziklás lejtőkkel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        -76.861336,
+                        -10.26779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wank'a Marka",
+                  "text": "Un vârf muntos andin proeminent ale cărui pante accidentate oferă ascensiuni provocatoare în regiunea Siula.",
+                  "category": "natural",
+                  "coords": [
+                        -76.838476,
+                        -10.348083
+                  ]
+            },
+            {
+                  "name": "Mirador Tres Lagunas",
+                  "text": "Un punct de belvedere panoramic la mare altitudine care răsplătește excursioniștii cu priveliști ample peste trei lacuri alpine distincte.",
+                  "category": "natural",
+                  "coords": [
+                        -76.864638,
+                        -10.285024
+                  ]
+            },
+            {
+                  "name": "Cerro Yanaccocha",
+                  "text": "Numit după apele întunecate de mare altitudine din apropiere, acest vârf andin prezintă pante stâncoase abrupte în zona Siula.",
+                  "category": "natural",
+                  "coords": [
+                        -76.861336,
+                        -10.26779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wank'a Marka",
+                  "text": "A prominent Andean mountain peak whose rugged slopes offer challenging ascents in the Siula region.",
+                  "category": "natural",
+                  "coords": [
+                        -76.838476,
+                        -10.348083
+                  ]
+            },
+            {
+                  "name": "Mirador Tres Lagunas",
+                  "text": "A scenic high-altitude viewpoint that rewards hikers with sweeping vistas over three distinct alpine lakes.",
+                  "category": "natural",
+                  "coords": [
+                        -76.864638,
+                        -10.285024
+                  ]
+            },
+            {
+                  "name": "Cerro Yanaccocha",
+                  "text": "Named for the dark high-altitude waters nearby, this Andean peak features steep rocky inclines in the Siula area.",
+                  "category": "natural",
+                  "coords": [
+                        -76.861336,
+                        -10.26779
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PE-LMA",
     coords: [-76.87, -10.29],
@@ -1129,7 +5701,52 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-lma-siula-nature-v2.webp"
   },
   {
-    id: "pe-anc-chopicalqui-nature-v2",
+    id: "pe-anc-chopicalqui-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chopicalqui",
+                  "text": "Ein aufragender, vergletscherter Berggipfel, der in der Cordillera Blanca oft bestiegen wird.",
+                  "category": "natural",
+                  "coords": [
+                        -77.573926,
+                        -9.086987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chopicalqui",
+                  "text": "Egy magasba tornyosuló, eljegesedett hegycsúcs, amelyet gyakran megmásznak a Cordillera Blanca hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -77.573926,
+                        -9.086987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chopicalqui",
+                  "text": "Un vârf de munte glaciar înalt, adesea escaladat în Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.573926,
+                        -9.086987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chopicalqui",
+                  "text": "A towering, glaciated mountain peak often climbed in the Cordillera Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -77.573926,
+                        -9.086987
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PE-ANC",
     coords: [-77.57, -9.09],
@@ -1325,7 +5942,160 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-pun-bahuaja-nature-v2.webp"
   },
   {
-    id: "pe-cal-palomino-nature-v2",
+    id: "pe-cal-palomino-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Islas San Lorenzo, Fronton, Cavinzas y Palomino",
+                  "text": "Diese Inselgruppe vor der Küste Limas ist als Zufluchtsort für zahlreiche Seevögel und Robben bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.194328,
+                        -12.101906
+                  ]
+            },
+            {
+                  "name": "Gran Almirante Grau",
+                  "text": "Dieser markante Leuchtturm dient der Navigation der Schiffe rund um die felsigen Küstengewässer.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.245965,
+                        -12.062897
+                  ]
+            },
+            {
+                  "name": "Pabellón Azul",
+                  "text": "Die Überreste des Blue Pavilion zeugen von früheren Küstenstrukturen auf den Palomino-Inseln.",
+                  "category": "historical",
+                  "coords": [
+                        -77.182369,
+                        -12.111524
+                  ]
+            },
+            {
+                  "name": "Plongée SeaLions",
+                  "text": "Dieses Wassersportzentrum bietet Tauchgänge an, bei denen man die heimischen Seelöwen in ihrem natürlichen Lebensraum beobachten kann.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.234094,
+                        -12.128851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Islas San Lorenzo, Fronton, Cavinzas y Palomino",
+                  "text": "Ez a Lima partjainál fekvő szigetcsoport számos tengeri madár és fóka menedékeként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.194328,
+                        -12.101906
+                  ]
+            },
+            {
+                  "name": "Gran Almirante Grau",
+                  "text": "Ez a feltűnő világítótorony a sziklás part menti vizeken közlekedő hajók navigációját segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.245965,
+                        -12.062897
+                  ]
+            },
+            {
+                  "name": "Pabellón Azul",
+                  "text": "A Blue Pavilion romjai a Palomino-szigetek korábbi tengerparti építményeinek állítanak emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -77.182369,
+                        -12.111524
+                  ]
+            },
+            {
+                  "name": "Plongée SeaLions",
+                  "text": "Ez a vízi sportközpont olyan merüléseket kínál, amelyek során a helyi oroszlánfókákat természetes élőhelyükön figyelhetjük meg.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.234094,
+                        -12.128851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Islas San Lorenzo, Fronton, Cavinzas y Palomino",
+                  "text": "Acest grup de insule din largul coastei Limei este un refugiu binecunoscut pentru numeroase păsări marine și foci.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.194328,
+                        -12.101906
+                  ]
+            },
+            {
+                  "name": "Gran Almirante Grau",
+                  "text": "Acest far proeminent servește la navigarea navelor în jurul apelor de coastă stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.245965,
+                        -12.062897
+                  ]
+            },
+            {
+                  "name": "Pabellón Azul",
+                  "text": "Ruinele Blue Pavilion sunt o mărturie a fostelor structuri de coastă de pe Insulele Palomino.",
+                  "category": "historical",
+                  "coords": [
+                        -77.182369,
+                        -12.111524
+                  ]
+            },
+            {
+                  "name": "Plongée SeaLions",
+                  "text": "Acest centru de sporturi acvatice oferă scufundări unde vizitatorii pot observa leii de mare locali în habitatul lor natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.234094,
+                        -12.128851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Islas San Lorenzo, Fronton, Cavinzas y Palomino",
+                  "text": "This group of islands off the coast of Lima is known as a sanctuary for numerous seabirds and seals.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.194328,
+                        -12.101906
+                  ]
+            },
+            {
+                  "name": "Gran Almirante Grau",
+                  "text": "This prominent lighthouse aids in the navigation of ships around the rocky coastal waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.245965,
+                        -12.062897
+                  ]
+            },
+            {
+                  "name": "Blue Pavilion",
+                  "text": "The ruins of the Blue Pavilion stand as a remnant of former coastal structures on the Palomino Islands.",
+                  "category": "historical",
+                  "coords": [
+                        -77.182369,
+                        -12.111524
+                  ]
+            },
+            {
+                  "name": "Plongée SeaLions",
+                  "text": "This water sports center offers diving experiences where visitors can observe local sea lions in their natural habitat.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.234094,
+                        -12.128851
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "PE-CAL",
     coords: [-77.2, -12.1],
@@ -1423,7 +6193,304 @@ export const poiExtraPeruNatureV2: POI[] = [
     image: "/poi-images/pe-apu-apurimac-nature-v2.webp"
   },
   {
-    id: "pe-are-cotahuasi-nature-v2",
+    id: "pe-are-cotahuasi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saraqutu",
+                  "text": "Ein markanter Berggipfel in den Anden, der sich durch seine steilen, kargen Hänge auszeichnet, die das umliegende Gelände überragen.",
+                  "category": "natural",
+                  "coords": [
+                        -72.786834,
+                        -15.254797
+                  ]
+            },
+            {
+                  "name": "Kuntur Sayana",
+                  "text": "Dieser hohe Andengipfel, dessen Name 'Ruheplatz des Kondors' bedeutet, verfügt über felsige Vorsprünge, die oft von den großen Vögeln besucht werden.",
+                  "category": "natural",
+                  "coords": [
+                        -72.726695,
+                        -15.251479
+                  ]
+            },
+            {
+                  "name": "Huiñao",
+                  "text": "Diese schroffe Bergerhebung prägt maßgeblich die dramatische Skyline der Cotahuasi-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -72.873233,
+                        -15.20782
+                  ]
+            },
+            {
+                  "name": "Mirador Allhuay",
+                  "text": "Dieser Panoramablick bietet eine weite Aussicht tief in den riesigen Cotahuasi-Canyon, einen der tiefsten auf dem amerikanischen Kontinent.",
+                  "category": "natural",
+                  "coords": [
+                        -72.876953,
+                        -15.246693
+                  ]
+            },
+            {
+                  "name": "Sitio Historico Huamahuarco",
+                  "text": "Diese alten Ruinen aus der Vor-Inka-Zeit bewahren die historischen Steinmauern und strukturellen Fundamente einer frühen andinen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -72.883222,
+                        -15.238659
+                  ]
+            },
+            {
+                  "name": "Baños Termales de Luicho",
+                  "text": "Diese natürlichen Thermalbecken unter freiem Himmel werden von geothermaler Aktivität in der Nähe des Flusses Cotahuasi gespeist.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.783876,
+                        -15.143439
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro de Alca",
+                  "text": "Diese historische andine Kirche zeichnet sich durch ihre dicken Lehmmauern und einen traditionellen kolonialen Glockenturm aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.765073,
+                        -15.13386
+                  ]
+            },
+            {
+                  "name": "Mercado de Cotahuasi",
+                  "text": "Dieser belebte lokale Markt ist voll von Verkäufern, die frische andine Produkte, Fleisch und leuchtend bunte traditionelle Textilien anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.891123,
+                        -15.211687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saraqutu",
+                  "text": "Egy lenyűgöző hegycsúcs az Andokban, amelyet a környező terep fölé magasodó meredek, kopár lejtői jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        -72.786834,
+                        -15.254797
+                  ]
+            },
+            {
+                  "name": "Kuntur Sayana",
+                  "text": "A 'kondorkeselyű pihenőhelye' jelentésű magas andoki hegycsúcs zord, sziklás kiemelkedésekkel rendelkezik, amelyeket gyakran látogatnak a nagy madarak.",
+                  "category": "natural",
+                  "coords": [
+                        -72.726695,
+                        -15.251479
+                  ]
+            },
+            {
+                  "name": "Huiñao",
+                  "text": "Ez a zord hegyvonulat jelentősen meghatározza a Cotahuasi régió drámai sziluettjét.",
+                  "category": "natural",
+                  "coords": [
+                        -72.873233,
+                        -15.20782
+                  ]
+            },
+            {
+                  "name": "Mirador Allhuay",
+                  "text": "Ebből a panorámás kilátóból lenyűgöző kilátás nyílik a hatalmas Cotahuasi-kanyon mélyére, amely Amerika egyik legmélyebb kanyonja.",
+                  "category": "natural",
+                  "coords": [
+                        -72.876953,
+                        -15.246693
+                  ]
+            },
+            {
+                  "name": "Sitio Historico Huamahuarco",
+                  "text": "Ezek az ősi preinka romok egy korai andoki település történelmi kőfalait és szerkezeti alapjait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        -72.883222,
+                        -15.238659
+                  ]
+            },
+            {
+                  "name": "Baños Termales de Luicho",
+                  "text": "Ezeket a szabadtéri természetes melegvizes medencéket a Cotahuasi folyó közelében lévő geotermikus aktivitás táplálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.783876,
+                        -15.143439
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro de Alca",
+                  "text": "Ezt a történelmi andoki templomot vastag vályogfalai és egy hagyományos gyarmati harangláb jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.765073,
+                        -15.13386
+                  ]
+            },
+            {
+                  "name": "Mercado de Cotahuasi",
+                  "text": "Ez a nyüzsgő helyi piac tele van árusokkal, akik friss andoki termékeket, húsokat és élénk színű hagyományos textíliákat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.891123,
+                        -15.211687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saraqutu",
+                  "text": "Un vârf montan impresionant din Anzi, caracterizat de pantele sale abrupte și sterpe care domină terenul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -72.786834,
+                        -15.254797
+                  ]
+            },
+            {
+                  "name": "Kuntur Sayana",
+                  "text": "Tradus ca „locul de odihnă al condorului”, acest vârf andin înalt prezintă aflorimente stâncoase abrupte vizitate adesea de păsările mari.",
+                  "category": "natural",
+                  "coords": [
+                        -72.726695,
+                        -15.251479
+                  ]
+            },
+            {
+                  "name": "Huiñao",
+                  "text": "Această elevație montană accidentată conturează în mod semnificativ orizontul dramatic al regiunii Cotahuasi.",
+                  "category": "natural",
+                  "coords": [
+                        -72.873233,
+                        -15.20782
+                  ]
+            },
+            {
+                  "name": "Mirador Allhuay",
+                  "text": "Acest punct de belvedere panoramic oferă priveliști vaste în adâncul imensului Canion Cotahuasi, unul dintre cele mai adânci din America.",
+                  "category": "natural",
+                  "coords": [
+                        -72.876953,
+                        -15.246693
+                  ]
+            },
+            {
+                  "name": "Sitio Historico Huamahuarco",
+                  "text": "Aceste ruine antice pre-incașe păstrează zidurile istorice din piatră și fundațiile structurale ale unei așezări andine timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -72.883222,
+                        -15.238659
+                  ]
+            },
+            {
+                  "name": "Baños Termales de Luicho",
+                  "text": "Aceste bazine naturale cu izvoare termale în aer liber sunt alimentate de activitatea geotermală situată în apropierea râului Cotahuasi.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.783876,
+                        -15.143439
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro de Alca",
+                  "text": "Această biserică istorică andină se caracterizează prin pereții săi groși de chirpici și o clopotniță colonială tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.765073,
+                        -15.13386
+                  ]
+            },
+            {
+                  "name": "Mercado de Cotahuasi",
+                  "text": "Această piață locală plină de viață este plină de vânzători care oferă produse proaspete andine, carne și textile tradiționale viu colorate.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.891123,
+                        -15.211687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saraqutu",
+                  "text": "A striking mountain peak in the Andes, characterized by its steep, barren slopes towering over the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -72.786834,
+                        -15.254797
+                  ]
+            },
+            {
+                  "name": "Kuntur Sayana",
+                  "text": "Translating to 'condor's resting place', this high Andean peak features craggy rocky outcrops often visited by the large birds.",
+                  "category": "natural",
+                  "coords": [
+                        -72.726695,
+                        -15.251479
+                  ]
+            },
+            {
+                  "name": "Huiñao",
+                  "text": "This rugged mountain elevation significantly shapes the dramatic skyline of the Cotahuasi region.",
+                  "category": "natural",
+                  "coords": [
+                        -72.873233,
+                        -15.20782
+                  ]
+            },
+            {
+                  "name": "Mirador Allhuay",
+                  "text": "This panoramic overlook provides sweeping views deep into the vast Cotahuasi Canyon, one of the deepest in the Americas.",
+                  "category": "natural",
+                  "coords": [
+                        -72.876953,
+                        -15.246693
+                  ]
+            },
+            {
+                  "name": "Sitio Historico Huamahuarco",
+                  "text": "These ancient pre-Inca ruins preserve the historic stone walls and structural foundations of an early Andean settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -72.883222,
+                        -15.238659
+                  ]
+            },
+            {
+                  "name": "Luicho Thermal Baths",
+                  "text": "These open-air natural hot spring pools are fed by geothermal activity located near the Cotahuasi River.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.783876,
+                        -15.143439
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro de Alca",
+                  "text": "This historical Andean church is characterized by its thick adobe walls and a traditional colonial belfry.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.765073,
+                        -15.13386
+                  ]
+            },
+            {
+                  "name": "Mercado de Cotahuasi",
+                  "text": "This bustling local market is filled with vendors selling fresh Andean produce, meats, and brightly colored traditional textiles.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.891123,
+                        -15.211687
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PE-ARE",
     coords: [-72.8, -15.2],

@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraFrenchguianaReliefV2: POI[] = [
   {
-    id: "gf-mont-itoupe-relief-v2",
+    id: "gf-mont-itoupe-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Itoupé",
+                  "text": "Der zweithöchste Gipfel in Französisch-Guayana, der 830 Meter hoch aus dem Tumuc-Humac-Gebirge ragt.",
+                  "category": "natural",
+                  "coords": [
+                        -53.083884,
+                        3.022909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Itoupé",
+                  "text": "Francia-Guyana második legmagasabb csúcsa, amely 830 méter magasságba emelkedik a Tumuc-Humac-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -53.083884,
+                        3.022909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Itoupé",
+                  "text": "Al doilea cel mai înalt vârf din Guiana Franceză, ridicându-se la 830 de metri în munții Tumuc-Humac.",
+                  "category": "natural",
+                  "coords": [
+                        -53.083884,
+                        3.022909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Itoupé",
+                  "text": "The second highest peak in French Guiana, rising to 830 metres within the Tumuc-Humac range.",
+                  "category": "natural",
+                  "coords": [
+                        -53.083884,
+                        3.022909
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GF",
     coords: [-53.05, 3.01],
@@ -153,7 +198,52 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Zone écologique majeure.", "Massif jumeau de celui de Lucifer."],
     }, image: "/poi-images/gf-massif-dekou-dekou-relief-v2.webp"},
   {
-    id: "gf-montagnes-de-la-trinite-relief-v2",
+    id: "gf-montagnes-de-la-trinite-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve naturelle de La Trinité",
+                  "text": "Ein isoliertes Naturschutzgebiet im Herzen des guyanischen Regenwaldes zum Schutz der Primärvegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -53.300371,
+                        4.587404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve naturelle de La Trinité",
+                  "text": "Elszigetelt természetvédelmi terület a guyanai esőerdő szívében, az őshonos növényzet védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        -53.300371,
+                        4.587404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve naturelle de La Trinité",
+                  "text": "O rezervație naturală izolată în inima pădurii tropicale din Guyana, protejând vegetația primară.",
+                  "category": "natural",
+                  "coords": [
+                        -53.300371,
+                        4.587404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve naturelle de La Trinité",
+                  "text": "An isolated nature reserve in the heart of the Guyanese rainforest, protecting primary vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -53.300371,
+                        4.587404
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GF",
     coords: [-53.3, 4.6],
@@ -253,7 +343,124 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Altitude non déterminée avec précision.", "Au cœur d'une nature vierge."],
     }, image: "/poi-images/gf-mont-machalou-relief-v2.webp"},
   {
-    id: "gf-montagne-d-argent-relief-v2",
+    id: "gf-montagne-d-argent-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bagne de la Montagne d'Argent",
+                  "text": "Ruinen einer ehemaligen Strafkolonie aus dem 19. Jahrhundert an der Atlantikküste von Französisch-Guayana.",
+                  "category": "historical",
+                  "coords": [
+                        -51.69268,
+                        4.38719
+                  ]
+            },
+            {
+                  "name": "Montagne d'Argent",
+                  "text": "Ein markanter Küstenhügel an der Mündung des Oyapock, der weite Ausblicke auf den Ozean bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -51.695366,
+                        4.3924
+                  ]
+            },
+            {
+                  "name": "Fausse Montagne d'Argent",
+                  "text": "Ein bewaldeter Neben Gipfel an der Küste nahe der Grenze zu Brasilien.",
+                  "category": "natural",
+                  "coords": [
+                        -51.737999,
+                        4.451683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bagne de la Montagne d'Argent",
+                  "text": "Egy 19. századi egykori büntetőtelep romjai Francia Guyana atlanti-óceáni partvidékén.",
+                  "category": "historical",
+                  "coords": [
+                        -51.69268,
+                        4.38719
+                  ]
+            },
+            {
+                  "name": "Montagne d'Argent",
+                  "text": "Jellegzetes parti domb az Oyapock torkolatánál, amely tágas kilátást nyújt az óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        -51.695366,
+                        4.3924
+                  ]
+            },
+            {
+                  "name": "Fausse Montagne d'Argent",
+                  "text": "Erdős mellékcsúcs a tengerparton, a brazil határ közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -51.737999,
+                        4.451683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bagne de la Montagne d'Argent",
+                  "text": "Ruinele unei foste colonii penitenciare din secolul al XIX-lea, situate pe coasta atlantică a Guianei Franceze.",
+                  "category": "historical",
+                  "coords": [
+                        -51.69268,
+                        4.38719
+                  ]
+            },
+            {
+                  "name": "Montagne d'Argent",
+                  "text": "Un deal de coastă proeminent la gura de vărsare a râului Oyapock, oferind vederi largi spre ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -51.695366,
+                        4.3924
+                  ]
+            },
+            {
+                  "name": "Fausse Montagne d'Argent",
+                  "text": "Un vârf secundar împădurit pe coastă, situat aproape de granița cu Brazilia.",
+                  "category": "natural",
+                  "coords": [
+                        -51.737999,
+                        4.451683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bagne de la Montagne d'Argent",
+                  "text": "Ruins of a former 19th-century penal colony located on the Atlantic coast of French Guiana.",
+                  "category": "historical",
+                  "coords": [
+                        -51.69268,
+                        4.38719
+                  ]
+            },
+            {
+                  "name": "Montagne d'Argent",
+                  "text": "A prominent coastal hill at the mouth of the Oyapock, offering wide views over the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -51.695366,
+                        4.3924
+                  ]
+            },
+            {
+                  "name": "Fausse Montagne d'Argent",
+                  "text": "A forested secondary peak on the coast, located near the border with Brazil.",
+                  "category": "natural",
+                  "coords": [
+                        -51.737999,
+                        4.451683
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GF",
     coords: [-51.68, 4.41],
@@ -303,7 +510,52 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Emplacement côtier.", "Anciennes plantations de café."],
     }, image: "/poi-images/gf-montagne-d-argent-relief-v2.webp"},
   {
-    id: "gf-pic-coudreau-relief-v2",
+    id: "gf-pic-coudreau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amazonaspark von Guayana",
+                  "text": "Dieser riesige Nationalpark im Amazonas-Regenwald schützt eine außergewöhnliche Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -53.26517,
+                        2.968595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc amazonien de Guyane (cœur)",
+                  "text": "Ez a hatalmas amazóniai nemzeti park kivételes biológiai sokféleséget oltalmaz az esőerdő mélyén.",
+                  "category": "natural",
+                  "coords": [
+                        -53.26517,
+                        2.968595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Amazonian al Guyanei",
+                  "text": "Acest imens parc național amazonian protejează o biodiversitate excepțională în inima pădurii tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -53.26517,
+                        2.968595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guiana Amazonian Park",
+                  "text": "This massive Amazonian national park protects exceptional biodiversity deep within the rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -53.26517,
+                        2.968595
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GF",
     coords: [-53.28, 2.95],
@@ -404,7 +656,52 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
     }
   },
   {
-    id: "gf-monts-tumuc-humac-relief-v2",
+    id: "gf-monts-tumuc-humac-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Amana",
+                  "text": "Ein abgelegener Berggipfel im südlichen Grenzhochland nahe der Grenze zu Brasilien.",
+                  "category": "natural",
+                  "coords": [
+                        -54.181413,
+                        2.258735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Amana",
+                  "text": "Távoli hegycsúcs a déli határvidéki felföldön, a brazíliai határ közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -54.181413,
+                        2.258735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Amana",
+                  "text": "Un vârf muntos izolat situat în zonele muntoase de la frontiera de sud, lângă granița cu Brazilia.",
+                  "category": "natural",
+                  "coords": [
+                        -54.181413,
+                        2.258735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Amana",
+                  "text": "A remote mountain peak located in the southern frontier highlands near the border with Brazil.",
+                  "category": "natural",
+                  "coords": [
+                        -54.181413,
+                        2.258735
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GF",
     coords: [-54.2, 2.2],
@@ -504,7 +801,52 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Situé au centre.", "Important pour l'approvisionnement local en eau."],
     }, image: "/poi-images/gf-monts-d-arawa-relief-v2.webp"},
   {
-    id: "gf-massif-lucifer-relief-v2",
+    id: "gf-massif-lucifer-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Pauline",
+                  "text": "Ein markanter Berggipfel im luciferischen Massiv, umgeben von dichtem biologischem Schutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -53.935089,
+                        4.718153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Pauline",
+                  "text": "Jellegzetes hegycsúcs a Lucifer-masszívumban, sűrű biológiai védelmi terület ölelésében.",
+                  "category": "natural",
+                  "coords": [
+                        -53.935089,
+                        4.718153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Pauline",
+                  "text": "Un vârf montan proeminent în masivul Lucifer, înconjurat de o rezervație biologică densă.",
+                  "category": "natural",
+                  "coords": [
+                        -53.935089,
+                        4.718153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Pauline",
+                  "text": "A prominent mountain peak in the Lucifer massif, surrounded by a dense biological reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -53.935089,
+                        4.718153
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GF",
     coords: [-53.85, 4.7],
@@ -604,7 +946,52 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Altitude 730 m.", "Région montagneuse isolée."],
     }, image: "/poi-images/gf-mont-kotika-relief-v2.webp"},
   {
-    id: "gf-mont-saint-clair-relief-v2",
+    id: "gf-mont-saint-clair-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monts Barruol",
+                  "text": "Ein Berggipfel im abgelegenen zentralen Hochland von Französisch-Guayana.",
+                  "category": "natural",
+                  "coords": [
+                        -53.313237,
+                        4.119594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monts Barruol",
+                  "text": "Hegyi csúcs Francia Guyana távoli központi felföldjén.",
+                  "category": "natural",
+                  "coords": [
+                        -53.313237,
+                        4.119594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monts Barruol",
+                  "text": "Un vârf muntos în zonele muntoase centrale izolate din Guyana Franceză.",
+                  "category": "natural",
+                  "coords": [
+                        -53.313237,
+                        4.119594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monts Barruol",
+                  "text": "A mountain peak in the remote central highlands of French Guiana.",
+                  "category": "natural",
+                  "coords": [
+                        -53.313237,
+                        4.119594
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GF",
     coords: [-53.4, 4.1],
@@ -654,7 +1041,52 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Élévation marquante.", "Flore unique."],
     }, image: "/poi-images/gf-mont-saint-clair-relief-v2.webp"},
   {
-    id: "gf-mont-galbao-relief-v2",
+    id: "gf-mont-galbao-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Galbao",
+                  "text": "Ein Gipfel bei Saül im artenreichen Galbao-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        -53.290654,
+                        3.610402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Galbao",
+                  "text": "Hegyi csúcs Saül közelében, a fajgazdag Galbao-masszívumban.",
+                  "category": "natural",
+                  "coords": [
+                        -53.290654,
+                        3.610402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Galbao",
+                  "text": "Un vârf lângă Saül, parte a masivului Galbao, bogat în biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        -53.290654,
+                        3.610402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Galbao",
+                  "text": "A peak near Saül, part of the biodiversity-rich Galbao Massif.",
+                  "category": "natural",
+                  "coords": [
+                        -53.290654,
+                        3.610402
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GF",
     coords: [-53.25, 3.6],
@@ -804,7 +1236,160 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Forêt de montagne.", "Riche en orchidées."],
     }, image: "/poi-images/gf-foret-de-la-montagne-de-plomb-relief-v2.webp"},
   {
-    id: "gf-foret-de-l-acarouany-relief-v2",
+    id: "gf-foret-de-l-acarouany-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Javouhey Randonnées / Balades en forêt et canoë",
+                  "text": "Geführte Ausflüge mit Kanufahrten durch Mangrovenbäche und Wanderungen im tropischen Acarouany-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.816748,
+                        5.608019
+                  ]
+            },
+            {
+                  "name": "Ancienne léproserie de l'Acarouany",
+                  "text": "Überwucherte Ruinen einer Leprakolonie aus dem 19. Jahrhundert, die tief im tropischen Wald verborgen liegen.",
+                  "category": "historical",
+                  "coords": [
+                        -53.8138,
+                        5.592305
+                  ]
+            },
+            {
+                  "name": "Église Évangélique de Javouhey",
+                  "text": "Eine evangelische Kirche, die der Hmong-Gemeinde im Dorf Javouhey als geistliches Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.820396,
+                        5.609448
+                  ]
+            },
+            {
+                  "name": "Marché de Javouhey",
+                  "text": "Ein lebhafter Sonntagsmarkt, bekannt für Hmong-Stickereien, Kunsthandwerk und exotisches südostasiatisches Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.816999,
+                        5.604379
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Javouhey Randonnées / Balades en forêt et canoë",
+                  "text": "Vezetett kirándulások, amelyek kenuzást kínálnak a mangrove-mocsarakban és túrázást az Acarouany erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.816748,
+                        5.608019
+                  ]
+            },
+            {
+                  "name": "Ancienne léproserie de l'Acarouany",
+                  "text": "Egy 19. századi lepratelep benőtt romjai a sűrű trópusi erdő mélyén.",
+                  "category": "historical",
+                  "coords": [
+                        -53.8138,
+                        5.592305
+                  ]
+            },
+            {
+                  "name": "Église Évangélique de Javouhey",
+                  "text": "Javouhey falu hmong közösségét kiszolgáló evangélikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.820396,
+                        5.609448
+                  ]
+            },
+            {
+                  "name": "Marché de Javouhey",
+                  "text": "Hangulatos vasárnapi piac, amely hmong hímzéseiről, kézműves termékeiről és ázsiai zöldségeiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.816999,
+                        5.604379
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Javouhey Randonnées / Balades en forêt et canoë",
+                  "text": "Excursii ghidate care oferă plimbări cu canoea prin mangrove și drumeții în pădurea tropicală Acarouany.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.816748,
+                        5.608019
+                  ]
+            },
+            {
+                  "name": "Ancienne léproserie de l'Acarouany",
+                  "text": "Ruinele năpădite de vegetație ale unei foste leprozerii din secolul al XIX-lea, ascunse în pădurea tropicală.",
+                  "category": "historical",
+                  "coords": [
+                        -53.8138,
+                        5.592305
+                  ]
+            },
+            {
+                  "name": "Église Évangélique de Javouhey",
+                  "text": "O biserică evanghelică ce deservește comunitatea Hmong din satul Javouhey.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.820396,
+                        5.609448
+                  ]
+            },
+            {
+                  "name": "Marché de Javouhey",
+                  "text": "O piață duminicală vibrantă, faimoasă pentru broderiile Hmong, artizanat și legume exotice din Asia de Sud-Est.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.816999,
+                        5.604379
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Javouhey Randonnées / Balades en forêt et canoë",
+                  "text": "Guided excursions offering canoeing through mangrove creeks and hiking in the tropical Acarouany forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.816748,
+                        5.608019
+                  ]
+            },
+            {
+                  "name": "Ancienne léproserie de l'Acarouany",
+                  "text": "Overgrown ruins of a 19th-century leper colony hidden within the dense tropical forest.",
+                  "category": "historical",
+                  "coords": [
+                        -53.8138,
+                        5.592305
+                  ]
+            },
+            {
+                  "name": "Église Évangélique de Javouhey",
+                  "text": "An evangelical church serving the Hmong community in the village of Javouhey.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.820396,
+                        5.609448
+                  ]
+            },
+            {
+                  "name": "Marché de Javouhey",
+                  "text": "A vibrant Sunday market famous for Hmong embroidery, crafts, and exotic Southeast Asian vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.816999,
+                        5.604379
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GF",
     coords: [-53.8, 5.6],
@@ -854,7 +1439,52 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Région nord-ouest.", "Zones de forêts marécageuses."],
     }, image: "/poi-images/gf-foret-de-l-acarouany-relief-v2.webp"},
   {
-    id: "gf-foret-de-regina-relief-v2",
+    id: "gf-foret-de-regina-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Manie Penchée",
+                  "text": "Bewaldeter Berggipfel in der Wildnis südlich von Régina.",
+                  "category": "natural",
+                  "coords": [
+                        -52.040713,
+                        4.244774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Manie Penchée",
+                  "text": "Erdős hegycsúcs a vadonban, Reginától délre.",
+                  "category": "natural",
+                  "coords": [
+                        -52.040713,
+                        4.244774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Manie Penchée",
+                  "text": "Vârf împădurit situat în zona sălbatică de la sud de Régina.",
+                  "category": "natural",
+                  "coords": [
+                        -52.040713,
+                        4.244774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Manie Penchée",
+                  "text": "Forested mountain peak located in the wilderness south of Régina.",
+                  "category": "natural",
+                  "coords": [
+                        -52.040713,
+                        4.244774
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "GF",
     coords: [-52.1, 4.3],
@@ -1154,7 +1784,88 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Élévation très isolée.", "Grande valeur scientifique."],
     }, image: "/poi-images/gf-sommet-emeric-relief-v2.webp"},
   {
-    id: "gf-savane-roche-virginie-relief-v2",
+    id: "gf-savane-roche-virginie-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monts Baugé",
+                  "text": "Ein Gipfel im bewaldeten Landesinneren nahe Savane-Roche Virginie.",
+                  "category": "natural",
+                  "coords": [
+                        -52.219627,
+                        4.215863
+                  ]
+            },
+            {
+                  "name": "Inselberg Savane-Roche Virginie",
+                  "text": "Ein Granit-Inselberg mit Panoramablick über das Kronendach des Regenwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        -52.152194,
+                        4.197896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monts Baugé",
+                  "text": "Hegyi csúcs az erdős belső területeken, Savane-Roche Virginie közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.219627,
+                        4.215863
+                  ]
+            },
+            {
+                  "name": "Inselberg Savane-Roche Virginie",
+                  "text": "Gránit inszelberg (szigethegy), ahonnan kilátás nyílik az esőerdő lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        -52.152194,
+                        4.197896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monts Baugé",
+                  "text": "Un vârf în interiorul împădurit, aproape de Savane-Roche Virginie.",
+                  "category": "natural",
+                  "coords": [
+                        -52.219627,
+                        4.215863
+                  ]
+            },
+            {
+                  "name": "Inselberg Savane-Roche Virginie",
+                  "text": "Un inselberg de granit ce oferă vedere panoramică peste coronamentul pădurii tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -52.152194,
+                        4.197896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monts Baugé",
+                  "text": "A peak in the forested interior near Savane-Roche Virginie.",
+                  "category": "natural",
+                  "coords": [
+                        -52.219627,
+                        4.215863
+                  ]
+            },
+            {
+                  "name": "Inselberg Savane-Roche Virginie",
+                  "text": "A granite inselberg offering panoramic views over the rainforest canopy.",
+                  "category": "natural",
+                  "coords": [
+                        -52.152194,
+                        4.197896
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GF",
     coords: [-52.15, 4.2],
@@ -1204,7 +1915,52 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       fr: ["Formation rocheuse importante.", "Vue unique."],
     }, image: "/poi-images/gf-savane-roche-virginie-relief-v2.webp"},
   {
-    id: "gf-inselberg-des-nouragues-relief-v2",
+    id: "gf-inselberg-des-nouragues-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve naturelle des Nouragues",
+                  "text": "Dieses Reservat im Amazonas-Regenwald ist bekannt für seine markanten Granit-Inselberge.",
+                  "category": "natural",
+                  "coords": [
+                        -52.733549,
+                        4.073076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve naturelle des Nouragues",
+                  "text": "Az amazonasi esőerdőben fekvő rezervátum jellegzetes gránit szigethegyeiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        -52.733549,
+                        4.073076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve naturelle des Nouragues",
+                  "text": "Această rezervație din pădurea amazoniană este cunoscută pentru inselbergurile sale de granit.",
+                  "category": "natural",
+                  "coords": [
+                        -52.733549,
+                        4.073076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve naturelle des Nouragues",
+                  "text": "This Amazonian rainforest reserve is notable for its prominent granite inselbergs rising above the canopy.",
+                  "category": "natural",
+                  "coords": [
+                        -52.733549,
+                        4.073076
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "GF",
     coords: [-52.68, 4.08],

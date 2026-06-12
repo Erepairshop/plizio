@@ -3,7 +3,340 @@ import type { POI } from "./poi";
 
 export const poiExtraSurinameCitiesV2: POI[] = [
   {
-    id: "paramaribo-cities-v2",
+    id: "paramaribo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kwatta Markt",
+                  "text": "Ein großer Sonntagsmarkt im Freien, auf dem frische tropische Früchte, Gemüse und Kleidung verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.230162,
+                        5.846564
+                  ]
+            },
+            {
+                  "name": "Hindu Cremation Site",
+                  "text": "Eine heilige Stätte am Ufer des Suriname-Flusses, die für hinduistische Feuerbestattungen genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -55.24192,
+                        5.909765
+                  ]
+            },
+            {
+                  "name": "Masdjid Al Husnah",
+                  "text": "Diese Moschee im Kwatta-Viertel dient als wichtiges Gebetshaus für die lokale muslimische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -55.226576,
+                        5.899337
+                  ]
+            },
+            {
+                  "name": "Weg naar zee",
+                  "text": "Ein Pilgerort an der Küste mit mehreren bunten Hindu-Tempeln und Schreinen direkt am Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.226146,
+                        5.904076
+                  ]
+            },
+            {
+                  "name": "Logos Weg Naar Zee",
+                  "text": "Eine christliche Kirche in Meeresnähe, die Gottesdienste für die Bewohner der Küstenregion anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -55.218939,
+                        5.871586
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehova's Getuigen",
+                  "text": "Ein Versammlungsort der Zeugen Jehovas im Kwatta-Viertel für biblische Unterweisung und Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.20154,
+                        5.839198
+                  ]
+            },
+            {
+                  "name": "Shri Krishna Mandir Kwatta",
+                  "text": "Ein kunstvoll verzierter Hindu-Tempel an der belebten Kwatta-Straße, gewidmet der Gottheit Krishna.",
+                  "category": "religious",
+                  "coords": [
+                        -55.246691,
+                        5.847732
+                  ]
+            },
+            {
+                  "name": "Fu Wing Trading",
+                  "text": "Ein geschäftiges Handelszentrum und Markt, der eine Vielzahl lokaler und importierter Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.224161,
+                        5.84512
+                  ]
+            },
+            {
+                  "name": "Parkeer Plaats Rubim",
+                  "text": "Ein lokaler Marktplatz und Parkplatz, der regelmäßig für Marktstände und Handel genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.261294,
+                        5.848968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kwatta Markt",
+                  "text": "Egy nagy szabadtéri vasárnapi piac, ahol friss trópusi gyümölcsöket, zöldségeket és ruhákat árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.230162,
+                        5.846564
+                  ]
+            },
+            {
+                  "name": "Hindu Cremation Site",
+                  "text": "Egy szent hely a Suriname-folyó partján, amelyet hindu hamvasztásokhoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -55.24192,
+                        5.909765
+                  ]
+            },
+            {
+                  "name": "Masdjid Al Husnah",
+                  "text": "Ez a Kwatta negyedben található mecset a helyi muszlim közösség fontos imaházaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -55.226576,
+                        5.899337
+                  ]
+            },
+            {
+                  "name": "Weg naar zee",
+                  "text": "Egy tengerparti zarándokhely több színes hindu templommal és szentéllyel közvetlenül a tengernél.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.226146,
+                        5.904076
+                  ]
+            },
+            {
+                  "name": "Logos Weg Naar Zee",
+                  "text": "Egy tenger közeli keresztény templom, amely a parti régió lakói számára tart istentiszteleteket.",
+                  "category": "religious",
+                  "coords": [
+                        -55.218939,
+                        5.871586
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehova's Getuigen",
+                  "text": "Jehova Tanúi gyülekezeti helye a Kwatta negyedben, bibliai oktatásra és imádságra.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.20154,
+                        5.839198
+                  ]
+            },
+            {
+                  "name": "Shri Krishna Mandir Kwatta",
+                  "text": "Egy díszes hindu templom a forgalmas Kwatta úton, amelyet Krisna istenségnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -55.246691,
+                        5.847732
+                  ]
+            },
+            {
+                  "name": "Fu Wing Trading",
+                  "text": "Egy nyüzsgő kereskedelmi központ és piac, amely helyi és importált áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.224161,
+                        5.84512
+                  ]
+            },
+            {
+                  "name": "Parkeer Plaats Rubim",
+                  "text": "Egy helyi piactér és parkoló, amelyet rendszeresen használnak árusításra és kereskedelemre.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.261294,
+                        5.848968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kwatta Markt",
+                  "text": "O piață mare în aer liber de duminică, unde se vând fructe tropicale proaspete, legume și haine.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.230162,
+                        5.846564
+                  ]
+            },
+            {
+                  "name": "Hindu Cremation Site",
+                  "text": "Un loc sacru pe malul râului Suriname, utilizat pentru incinerările hinduse.",
+                  "category": "religious",
+                  "coords": [
+                        -55.24192,
+                        5.909765
+                  ]
+            },
+            {
+                  "name": "Masdjid Al Husnah",
+                  "text": "Această moschee din cartierul Kwatta servește ca loc de rugăciune important pentru comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        -55.226576,
+                        5.899337
+                  ]
+            },
+            {
+                  "name": "Weg naar zee",
+                  "text": "Un loc de pelerinaj pe coastă, cu mai multe temple hinduse colorate și altare situate chiar lângă mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.226146,
+                        5.904076
+                  ]
+            },
+            {
+                  "name": "Logos Weg Naar Zee",
+                  "text": "O biserică creștină situată aproape de mare, care oferă servicii religioase pentru locuitorii din zona de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        -55.218939,
+                        5.871586
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehova's Getuigen",
+                  "text": "O sală a Regatului a Martorilor lui Iehova din cartierul Kwatta, pentru instruire biblică și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.20154,
+                        5.839198
+                  ]
+            },
+            {
+                  "name": "Shri Krishna Mandir Kwatta",
+                  "text": "Un templu hindu decorat detaliat pe strada aglomerată Kwatta, dedicat zeității Krishna.",
+                  "category": "religious",
+                  "coords": [
+                        -55.246691,
+                        5.847732
+                  ]
+            },
+            {
+                  "name": "Fu Wing Trading",
+                  "text": "Un centru comercial și o piață aglomerată care oferă o varietate de bunuri locale și importate.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.224161,
+                        5.84512
+                  ]
+            },
+            {
+                  "name": "Parkeer Plaats Rubim",
+                  "text": "O piață locală și o parcare utilizată regulat pentru tarabe și comerț.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.261294,
+                        5.848968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kwatta Markt",
+                  "text": "A large open-air Sunday market selling fresh tropical fruits, vegetables, and clothing.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.230162,
+                        5.846564
+                  ]
+            },
+            {
+                  "name": "Hindu Cremation Site",
+                  "text": "A sacred site on the banks of the Suriname River used for Hindu open-air cremations.",
+                  "category": "religious",
+                  "coords": [
+                        -55.24192,
+                        5.909765
+                  ]
+            },
+            {
+                  "name": "Masdjid Al Husnah",
+                  "text": "This mosque in the Kwatta district serves as an important prayer house for the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        -55.226576,
+                        5.899337
+                  ]
+            },
+            {
+                  "name": "Weg naar zee",
+                  "text": "A coastal pilgrimage site with several colorful Hindu temples and shrines right by the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.226146,
+                        5.904076
+                  ]
+            },
+            {
+                  "name": "Logos Weg Naar Zee",
+                  "text": "A Christian church located near the sea, offering services for the coastal region's residents.",
+                  "category": "religious",
+                  "coords": [
+                        -55.218939,
+                        5.871586
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehova's Getuigen",
+                  "text": "A meeting place for Jehovah's Witnesses in the Kwatta district for biblical instruction and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.20154,
+                        5.839198
+                  ]
+            },
+            {
+                  "name": "Shri Krishna Mandir Kwatta",
+                  "text": "An intricately decorated Hindu temple on the busy Kwatta road, dedicated to the deity Krishna.",
+                  "category": "religious",
+                  "coords": [
+                        -55.246691,
+                        5.847732
+                  ]
+            },
+            {
+                  "name": "Fu Wing Trading",
+                  "text": "A bustling trade center and market offering a variety of local and imported goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.224161,
+                        5.84512
+                  ]
+            },
+            {
+                  "name": "Parkeer Plaats Rubim",
+                  "text": "A local marketplace and parking area used regularly for market stalls and trade.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.261294,
+                        5.848968
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "SR-PM",
     coords: [-55.2038, 5.8520],

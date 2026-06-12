@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraFrenchguianaHistoryV2: POI[] = [
   {
-    id: "gf-camp-de-la-transportation-history-v2",
+    id: "gf-camp-de-la-transportation-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camp de la transportation",
+                  "text": "Das historische Hauptquartier der Strafkolonie von Französisch-Guayana mit erhaltenen Zellentrakten und Höfen.",
+                  "category": "museum",
+                  "coords": [
+                        -54.031974,
+                        5.503816
+                  ]
+            },
+            {
+                  "name": "Hangar de l'ancienne gare",
+                  "text": "Ruinen des alten Bahnhofs, der einst das Straflager mit dem umliegenden Wald verband.",
+                  "category": "historical",
+                  "coords": [
+                        -54.025613,
+                        5.507125
+                  ]
+            },
+            {
+                  "name": "Débarcadère du bagne de Saint-Laurent-du-Maroni",
+                  "text": "Die historische steinerne Anlegestelle am Maroni-Fluss, an der die Sträflinge erstmals in der Kolonie ankamen.",
+                  "category": "historical",
+                  "coords": [
+                        -54.02813,
+                        5.507229
+                  ]
+            },
+            {
+                  "name": "Epave Edith Cavell",
+                  "text": "Das verrostete Wrack eines britischen Dampfers im Maroni-Fluss, das heute von tropischer Vegetation überwuchert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.031699,
+                        5.507824
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Eine von Sträflingen errichtete Kirche aus dem 19. Jahrhundert mit farbenfrohem Gewölbe und historischem Denkmalstatus.",
+                  "category": "religious",
+                  "coords": [
+                        -54.028362,
+                        5.503214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camp de la transportation",
+                  "text": "A francia guyanai fegyenctelep egykori központja, ahol megtekinthetők a fennmaradt börtöncellák és udvarok.",
+                  "category": "museum",
+                  "coords": [
+                        -54.031974,
+                        5.503816
+                  ]
+            },
+            {
+                  "name": "Hangar de l'ancienne gare",
+                  "text": "A régi vasútállomás romjai, amely egykor a fegyenctábort kötötte össze a környező erdővel.",
+                  "category": "historical",
+                  "coords": [
+                        -54.025613,
+                        5.507125
+                  ]
+            },
+            {
+                  "name": "Débarcadère du bagne de Saint-Laurent-du-Maroni",
+                  "text": "A Maroni-folyó menti történelmi kőrakpart, ahol a fegyencek először szálltak partra a telepen.",
+                  "category": "historical",
+                  "coords": [
+                        -54.02813,
+                        5.507229
+                  ]
+            },
+            {
+                  "name": "Epave Edith Cavell",
+                  "text": "Egy brit gőzhajó rozsdás roncsa a Maroni-folyóban, amelyet mára benőtt a trópusi növényzet.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.031699,
+                        5.507824
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Egy fegyencek által épített 19. századi templom, amely színes boltozatos belsővel és műemléki státusszal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -54.028362,
+                        5.503214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camp de la transportation",
+                  "text": "Sediul istoric principal al coloniei penitenciare din Guyana Franceză, unde pot fi văzute celulele și curțile deținuților.",
+                  "category": "museum",
+                  "coords": [
+                        -54.031974,
+                        5.503816
+                  ]
+            },
+            {
+                  "name": "Hangar de l'ancienne gare",
+                  "text": "Ruinele vechii gări care făcea legătura între lagărul de detenție și pădurea din jur.",
+                  "category": "historical",
+                  "coords": [
+                        -54.025613,
+                        5.507125
+                  ]
+            },
+            {
+                  "name": "Débarcadère du bagne de Saint-Laurent-du-Maroni",
+                  "text": "Debarcaderul istoric din piatră de pe râul Maroni, unde deținuții debarcau pentru prima dată în colonie.",
+                  "category": "historical",
+                  "coords": [
+                        -54.02813,
+                        5.507229
+                  ]
+            },
+            {
+                  "name": "Epave Edith Cavell",
+                  "text": "Epava ruginită a unui vapor britanic situată în râul Maroni, colonizată acum de vegetație tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.031699,
+                        5.507824
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "O biserică din secolul al XIX-lea construită de deținuți, cu un interior boltit colorat și statut de monument istoric.",
+                  "category": "religious",
+                  "coords": [
+                        -54.028362,
+                        5.503214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Transportation camp",
+                  "text": "The historic main headquarters of the French Guiana penal colony, featuring preserved cell blocks and convict courtyards.",
+                  "category": "museum",
+                  "coords": [
+                        -54.031974,
+                        5.503816
+                  ]
+            },
+            {
+                  "name": "Hangar de l'ancienne gare",
+                  "text": "Ruins of the old railway station that once connected the penal camp to the surrounding forest.",
+                  "category": "historical",
+                  "coords": [
+                        -54.025613,
+                        5.507125
+                  ]
+            },
+            {
+                  "name": "Débarcadère du bagne de Saint-Laurent-du-Maroni",
+                  "text": "The historic stone landing pier on the Maroni River where convicts first arrived in the penal colony.",
+                  "category": "historical",
+                  "coords": [
+                        -54.02813,
+                        5.507229
+                  ]
+            },
+            {
+                  "name": "Epave Edith Cavell",
+                  "text": "The rusted shipwreck of a British steamer lying in the Maroni River, now colonized by tropical vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.031699,
+                        5.507824
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "A 19th-century church built by convicts, featuring a colorful vaulted interior and historical heritage status.",
+                  "category": "religious",
+                  "coords": [
+                        -54.028362,
+                        5.503214
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-54.0286, 5.5033],
@@ -53,7 +242,124 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Construit en 1852.", "A accueilli des prisonniers célèbres comme Papillon."],
     }, image: "/poi-images/gf-camp-de-la-transportation-history-v2.webp"},
   {
-    id: "gf-les-du-salut-history-v2",
+    id: "gf-les-du-salut-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Four à chaux du bagne",
+                  "text": "Überreste eines Kalkofens, in dem Häftlinge Baumaterialien aus Korallen und Muscheln herstellten.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583528,
+                        5.283004
+                  ]
+            },
+            {
+                  "name": "Gravures des peuples originaires",
+                  "text": "Antike Petroglyphen der Arawak, die in Küstenfelsen geritzt wurden und aus der Zeit vor der Ankunft der Europäer stammen.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.578995,
+                        5.282031
+                  ]
+            },
+            {
+                  "name": "Bagne",
+                  "text": "Verfallende Steinmauern und Zellen der berüchtigten französischen Strafkolonie, die teils vom Tropenwald zurückerobert wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583506,
+                        5.281842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Four à chaux du bagne",
+                  "text": "Egy mészégető kemence maradványai, ahol a rabok korallból és kagylóból állítottak elő építőanyagot.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583528,
+                        5.283004
+                  ]
+            },
+            {
+                  "name": "Gravures des peuples originaires",
+                  "text": "Ősi arawak sziklarajzok a tengerparti köveken, amelyek az európaiak érkezése előtti időkből származnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.578995,
+                        5.282031
+                  ]
+            },
+            {
+                  "name": "Bagne",
+                  "text": "A hírhedt francia fegyenctelep omladozó kőfalai és cellái, amelyeket részben már visszahódított a trópusi erdő.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583506,
+                        5.281842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Four à chaux du bagne",
+                  "text": "Rămășițele unui cuptor de var unde deținuții produceau materiale de construcție din corali și scoici.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583528,
+                        5.283004
+                  ]
+            },
+            {
+                  "name": "Gravures des peuples originaires",
+                  "text": "Petroglife antice arawak sculptate în stâncile de pe coastă, datând dinaintea sosirii europenilor pe insule.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.578995,
+                        5.282031
+                  ]
+            },
+            {
+                  "name": "Bagne",
+                  "text": "Ziduri de piatră și celule în ruină ale infamei colonii penitenciare franceze, parțial recucerite de pădurea tropicală.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583506,
+                        5.281842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Four à chaux du bagne",
+                  "text": "Remains of a lime kiln where convicts produced building materials from coral and shells.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583528,
+                        5.283004
+                  ]
+            },
+            {
+                  "name": "Gravures des peuples originaires",
+                  "text": "Ancient Arawak petroglyphs carved into coastal rocks, predating the European arrival on the islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.578995,
+                        5.282031
+                  ]
+            },
+            {
+                  "name": "Bagne",
+                  "text": "Crumbling stone walls and cells of the infamous French penal colony, now partially reclaimed by tropical forest.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583506,
+                        5.281842
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.5833, 5.2833],
@@ -153,7 +459,124 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Abritait la population générale des prisonniers.", "Possède une église restaurée et un hôpital."],
     }, image: "/poi-images/gf-le-royale-history-v2.webp"},
   {
-    id: "gf-le-saint-joseph-history-v2",
+    id: "gf-le-saint-joseph-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscine des Bagnards",
+                  "text": "Ein von Häftlingen in die Felsen gehauenes Meerwasserbecken, das einen vor Haien geschützten Badebereich bot.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583061,
+                        5.279383
+                  ]
+            },
+            {
+                  "name": "Maison du chef de camp",
+                  "text": "Die Ruinen des Hauses des Lagerkommandanten auf einem Hügel über den Gefängnisunterkünften der Île Saint-Joseph.",
+                  "category": "historical",
+                  "coords": [
+                        -52.584206,
+                        5.279815
+                  ]
+            },
+            {
+                  "name": "Bagne",
+                  "text": "Stimmungsvolle Ruinen der Hochsicherheitszellen auf der Île Saint-Joseph, bekannt für die schweigende Einzelhaft.",
+                  "category": "historical",
+                  "coords": [
+                        -52.5828,
+                        5.281018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscine des Bagnards",
+                  "text": "Rabok által a sziklákba vájt, tengervízzel telt medence, amely cápáktól védett fürdőhelyet biztosított.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583061,
+                        5.279383
+                  ]
+            },
+            {
+                  "name": "Maison du chef de camp",
+                  "text": "A táborparancsnok házának romjai egy dombtetőn, ahonnan belátható az Île Saint-Joseph börtönnegyede.",
+                  "category": "historical",
+                  "coords": [
+                        -52.584206,
+                        5.279815
+                  ]
+            },
+            {
+                  "name": "Bagne",
+                  "text": "Az Île Saint-Joseph szigorúan őrzött börtöncelláinak romjai, amely a néma magánzárkáiról volt hírhedt.",
+                  "category": "historical",
+                  "coords": [
+                        -52.5828,
+                        5.281018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscine des Bagnards",
+                  "text": "O piscină alimentată de mare, săpată în stâncă de deținuți pentru a oferi un loc de scăldat protejat de rechini.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583061,
+                        5.279383
+                  ]
+            },
+            {
+                  "name": "Maison du chef de camp",
+                  "text": "Ruinele casei comandantului taberei, situată pe un deal care domină cartierele închisorii de pe Île Saint-Joseph.",
+                  "category": "historical",
+                  "coords": [
+                        -52.584206,
+                        5.279815
+                  ]
+            },
+            {
+                  "name": "Bagne",
+                  "text": "Ruinele atmosferice ale celulelor de înaltă securitate de pe Île Saint-Joseph, cunoscute pentru regimul de izolare totală.",
+                  "category": "historical",
+                  "coords": [
+                        -52.5828,
+                        5.281018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscine des Bagnards",
+                  "text": "A sea-fed swimming pool carved into the rocks by prisoners to provide a safe bathing area protected from sharks.",
+                  "category": "historical",
+                  "coords": [
+                        -52.583061,
+                        5.279383
+                  ]
+            },
+            {
+                  "name": "Maison du chef de camp",
+                  "text": "The ruins of the camp commander's house, situated on a hill overlooking the prison quarters of Île Saint-Joseph.",
+                  "category": "historical",
+                  "coords": [
+                        -52.584206,
+                        5.279815
+                  ]
+            },
+            {
+                  "name": "Bagne",
+                  "text": "Atmospheric ruins of the high-security prison cells on Île Saint-Joseph, known for silent solitary confinement.",
+                  "category": "historical",
+                  "coords": [
+                        -52.5828,
+                        5.281018
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.5835, 5.28],
@@ -303,7 +726,124 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Construit en 1643 par Charles Poncet de Brétigny.", "Plusieurs fois détruit et reconstruit."],
     }, image: "/poi-images/gf-fort-c-p-rou-history-v2.webp"},
   {
-    id: "gf-place-des-palmistes-history-v2",
+    id: "gf-place-des-palmistes-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Chrétienne Évangelique",
+                  "text": "Diese evangelische Kirche liegt in der Nähe der berühmten Place des Palmistes in Cayenne und ist ein Ort lebendiger Andacht.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330061,
+                        4.934657
+                  ]
+            },
+            {
+                  "name": "Igreja Padroneira",
+                  "text": "Die Igreja Padroneira ist eine traditionsreiche Kirche im Zentrum von Cayenne, nahe dem historischen Palmenplatz.",
+                  "category": "religious",
+                  "coords": [
+                        -52.327673,
+                        4.935149
+                  ]
+            },
+            {
+                  "name": "Église Mondiale",
+                  "text": "Die 'Église Mondiale' in Cayenne dient der internationalen christlichen Gemeinschaft in Französisch-Guayana.",
+                  "category": "religious",
+                  "coords": [
+                        -52.329112,
+                        4.935924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Chrétienne Évangelique",
+                  "text": "Ez az evangélikus templom a cayenne-i híres Place des Palmistes közelében található, és az élénk áhítat helye.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330061,
+                        4.934657
+                  ]
+            },
+            {
+                  "name": "Igreja Padroneira",
+                  "text": "Az Igreja Padroneira egy nagy múltú templom Cayenne központjában, a történelmi pálmás tér közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -52.327673,
+                        4.935149
+                  ]
+            },
+            {
+                  "name": "Église Mondiale",
+                  "text": "A cayenne-i 'Église Mondiale' a francia-guayanai nemzetközi keresztény közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -52.329112,
+                        4.935924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Chrétienne Évangelique",
+                  "text": "Această biserică evanghelică este situată lângă celebra Place des Palmistes din Cayenne și este un loc de devoțiune vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330061,
+                        4.934657
+                  ]
+            },
+            {
+                  "name": "Igreja Padroneira",
+                  "text": "Igreja Padroneira este o biserică cu tradiție din centrul orașului Cayenne, situată lângă piața istorică cu palmieri.",
+                  "category": "religious",
+                  "coords": [
+                        -52.327673,
+                        4.935149
+                  ]
+            },
+            {
+                  "name": "Église Mondiale",
+                  "text": "„Église Mondiale” din Cayenne deservește comunitatea creștină internațională din Guyana Franceză.",
+                  "category": "religious",
+                  "coords": [
+                        -52.329112,
+                        4.935924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Chrétienne Évangelique",
+                  "text": "Located near the famous Place des Palmistes in Cayenne, this evangelical church is a site of vibrant worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.330061,
+                        4.934657
+                  ]
+            },
+            {
+                  "name": "Igreja Padroneira",
+                  "text": "The Igreja Padroneira is a traditional church in the center of Cayenne, near the historic palm-lined square.",
+                  "category": "religious",
+                  "coords": [
+                        -52.327673,
+                        4.935149
+                  ]
+            },
+            {
+                  "name": "Église Mondiale",
+                  "text": "The 'Église Mondiale' in Cayenne serves the international Christian community in French Guiana.",
+                  "category": "religious",
+                  "coords": [
+                        -52.329112,
+                        4.935924
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.33, 4.935],
@@ -453,7 +993,88 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Installé dans une maison créole traditionnelle.", "Fondé en 1901."],
     }, image: "/poi-images/gf-mus-e-d-partemental-alexandre-franconie-history-v2.webp"},
   {
-    id: "gf-maison-de-f-lix-bou-history-v2",
+    id: "gf-maison-de-f-lix-bou-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "1914-1918",
+                  "text": "Ein feierliches Kriegerdenkmal in Cayenne, das den im Ersten Weltkrieg gefallenen lokalen Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -52.334414,
+                        4.936188
+                  ]
+            },
+            {
+                  "name": "Fort Cépérou",
+                  "text": "Ruinen einer Festung aus dem 17. Jahrhundert auf einem Hügel mit Panoramablick über die Stadt Cayenne.",
+                  "category": "castle",
+                  "coords": [
+                        -52.336791,
+                        4.937716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "1914-1918",
+                  "text": "Ünnepélyes háborús emlékmű Cayenne-ben, amelyet az első világháborúban elesett helyi katonáknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -52.334414,
+                        4.936188
+                  ]
+            },
+            {
+                  "name": "Fort Cépérou",
+                  "text": "Egy 17. századi erőd romjai egy dombon, ahonnan panorámás kilátás nyílik Cayenne városára.",
+                  "category": "castle",
+                  "coords": [
+                        -52.336791,
+                        4.937716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "1914-1918",
+                  "text": "Un monument de război solemn în Cayenne, dedicat soldaților locali care au căzut în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        -52.334414,
+                        4.936188
+                  ]
+            },
+            {
+                  "name": "Fort Cépérou",
+                  "text": "Ruinele unui fort din secolul al XVII-lea aflat pe un deal, oferind vedere panoramică asupra orașului Cayenne.",
+                  "category": "castle",
+                  "coords": [
+                        -52.336791,
+                        4.937716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "1914-1918",
+                  "text": "A solemn war memorial in Cayenne dedicated to the local soldiers who fell during World War I.",
+                  "category": "historical",
+                  "coords": [
+                        -52.334414,
+                        4.936188
+                  ]
+            },
+            {
+                  "name": "Fort Cépérou",
+                  "text": "Ruins of a 17th-century fort on a hill, offering panoramic views over the city of Cayenne.",
+                  "category": "castle",
+                  "coords": [
+                        -52.336791,
+                        4.937716
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.334, 4.937],
@@ -503,7 +1124,160 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Construite au milieu du XIXe siècle.", "Félix Éboué était un héros des Forces Françaises Libres."],
     }, image: "/poi-images/gf-maison-de-f-lix-bou-history-v2.webp"},
   {
-    id: "gf-bagne-des-annamites-history-v2",
+    id: "gf-bagne-des-annamites-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Penchée",
+                  "text": "Ein bewaldeter Gipfel nahe dem Bagne des Annamites, einem Ort, der mit der Geschichte indochinesischer Deportierter verbunden ist.",
+                  "category": "natural",
+                  "coords": [
+                        -52.72589,
+                        4.941481
+                  ]
+            },
+            {
+                  "name": "Montagne la Tribouille",
+                  "text": "Ein Hügel im dichten Wald von Montsinéry mit Blick auf die Überreste ehemaliger Straflager.",
+                  "category": "natural",
+                  "coords": [
+                        -52.731247,
+                        4.99376
+                  ]
+            },
+            {
+                  "name": "Montagne des Trois Carbets",
+                  "text": "Ein tropischer Berggipfel inmitten des dichten Regenwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        -52.701831,
+                        5.027439
+                  ]
+            },
+            {
+                  "name": "Matiti Paradise",
+                  "text": "Ein Wasserpark mit Schwimmbecken und Rutschen in der Matiti-Savanne.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.60424,
+                        5.049828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Penchée",
+                  "text": "Erdős csúcs a Bagne des Annamites közelében, amely az indokínai deportáltak történelméhez kötődik.",
+                  "category": "natural",
+                  "coords": [
+                        -52.72589,
+                        4.941481
+                  ]
+            },
+            {
+                  "name": "Montagne la Tribouille",
+                  "text": "Domb Montsinéry sűrű erdejében, ahonnan kilátás nyílik az egykori fegyenctáborok maradványaira.",
+                  "category": "natural",
+                  "coords": [
+                        -52.731247,
+                        4.99376
+                  ]
+            },
+            {
+                  "name": "Montagne des Trois Carbets",
+                  "text": "Sűrű esőerdővel borított trópusi hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -52.701831,
+                        5.027439
+                  ]
+            },
+            {
+                  "name": "Matiti Paradise",
+                  "text": "Vízi park medencékkel és csúszdákkal a Matiti-szavannán.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.60424,
+                        5.049828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Penchée",
+                  "text": "Un vârf împădurit lângă Bagne des Annamites, un sit legat de istoria deportaților indochinezi.",
+                  "category": "natural",
+                  "coords": [
+                        -52.72589,
+                        4.941481
+                  ]
+            },
+            {
+                  "name": "Montagne la Tribouille",
+                  "text": "Un deal situat în pădurea deasă din Montsinéry, cu vedere spre vestigiile fostelor lagăre de detenție.",
+                  "category": "natural",
+                  "coords": [
+                        -52.731247,
+                        4.99376
+                  ]
+            },
+            {
+                  "name": "Montagne des Trois Carbets",
+                  "text": "Un vârf muntos tropical acoperit de o pădure pluvială densă.",
+                  "category": "natural",
+                  "coords": [
+                        -52.701831,
+                        5.027439
+                  ]
+            },
+            {
+                  "name": "Matiti Paradise",
+                  "text": "Parc acvatic cu piscine și tobogane situat în savana Matiti.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.60424,
+                        5.049828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Penchée",
+                  "text": "A forested peak near the Bagne des Annamites, a site linked to the history of Indochinese deportees.",
+                  "category": "natural",
+                  "coords": [
+                        -52.72589,
+                        4.941481
+                  ]
+            },
+            {
+                  "name": "Montagne la Tribouille",
+                  "text": "A hill located within the dense forest of Montsinéry, overlooking the remains of former penal camps.",
+                  "category": "natural",
+                  "coords": [
+                        -52.731247,
+                        4.99376
+                  ]
+            },
+            {
+                  "name": "Montagne des Trois Carbets",
+                  "text": "A tropical peak covered in dense rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -52.701831,
+                        5.027439
+                  ]
+            },
+            {
+                  "name": "Matiti Paradise",
+                  "text": "A water park with swimming pools and slides in the Matiti savanna.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.60424,
+                        5.049828
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.6833, 5.0167],
@@ -553,7 +1327,160 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Fondé en 1930.", "Les prisonniers provenaient d'Indochine française."],
     }, image: "/poi-images/gf-bagne-des-annamites-history-v2.webp"},
   {
-    id: "gf-roches-grav-es-de-la-carapa-history-v2",
+    id: "gf-roches-grav-es-de-la-carapa-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Diese Kirche am Rande des historischen Kourou dient der lokalen katholischen Pfarrei.",
+                  "category": "religious",
+                  "coords": [
+                        -52.642596,
+                        5.15907
+                  ]
+            },
+            {
+                  "name": "Église Évengélique",
+                  "text": "Ein evangelisches Gotteshaus, das die Vielfalt der christlichen Glaubensrichtungen in Guyana widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.655648,
+                        5.168341
+                  ]
+            },
+            {
+                  "name": "Centre Chrétien International",
+                  "text": "Ein modernes religiöses Zentrum, das internationale christliche Gottesdienste in Kourou anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.643707,
+                        5.160083
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Dieser typische Markt bietet frischen Fisch und tropische Früchte aus der Region an.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.64098,
+                        5.163942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "A történelmi Kourou szélén álló templom a helyi katolikus egyházközséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -52.642596,
+                        5.15907
+                  ]
+            },
+            {
+                  "name": "Église Évengélique",
+                  "text": "Evangélikus templom, amely a guyanai keresztény hitélet sokszínűségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.655648,
+                        5.168341
+                  ]
+            },
+            {
+                  "name": "Centre Chrétien International",
+                  "text": "Modern vallási központ, amely nemzetközi keresztény istentiszteleteknek ad otthont Kourouban.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.643707,
+                        5.160083
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Ez a jellegzetes piac friss halat és a régió egzotikus trópusi gyümölcseit kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.64098,
+                        5.163942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Această biserică de la marginea centrului istoric din Kourou deservește parohia catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        -52.642596,
+                        5.15907
+                  ]
+            },
+            {
+                  "name": "Église Évengélique",
+                  "text": "O biserică evanghelică ce reflectă diversitatea confesiunilor creștine din Guyana.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.655648,
+                        5.168341
+                  ]
+            },
+            {
+                  "name": "Centre Chrétien International",
+                  "text": "Un centru religios modern care oferă servicii creștine internaționale în Kourou.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.643707,
+                        5.160083
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Această piață tipică oferă pește proaspăt și fructe tropicale specifice regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.64098,
+                        5.163942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "This church on the edge of historic Kourou serves the local Catholic parish.",
+                  "category": "religious",
+                  "coords": [
+                        -52.642596,
+                        5.15907
+                  ]
+            },
+            {
+                  "name": "Église Évengélique",
+                  "text": "An evangelical house of worship reflecting the diversity of Christian faiths in French Guiana.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.655648,
+                        5.168341
+                  ]
+            },
+            {
+                  "name": "Centre Chrétien International",
+                  "text": "A modern religious center offering international Christian services in Kourou.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.643707,
+                        5.160083
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "This typical marketplace offers fresh fish and tropical fruits from the surrounding region.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.64098,
+                        5.163942
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.65, 5.1667],
@@ -603,7 +1530,808 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Comporte plus de 200 gravures rupestres.", "Remontent à plusieurs millénaires."],
     }, image: "/poi-images/gf-roches-grav-es-de-la-carapa-history-v2.webp"},
   {
-    id: "gf-habitation-loyola-history-v2",
+    id: "gf-habitation-loyola-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Polissoirs",
+                  "text": "Diese archäologische Stätte weist alte Rillen im Grundgestein auf, in denen frühe Bewohner ihre Steinwerkzeuge polierten.",
+                  "category": "historical",
+                  "coords": [
+                        -52.283045,
+                        4.93752
+                  ]
+            },
+            {
+                  "name": "Point de vue du sentier des pêcheurs",
+                  "text": "Dieser malerische Aussichtspunkt am Wanderweg der Fischer bietet einen weiten Blick über die angrenzenden Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -52.258213,
+                        4.911535
+                  ]
+            },
+            {
+                  "name": "Point de Vue sur l'Estuaire",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet Besuchern ein ungehindertes Panorama auf die Küstenmündung, wo der Fluss ins Meer fließt.",
+                  "category": "natural",
+                  "coords": [
+                        -52.257871,
+                        4.910486
+                  ]
+            },
+            {
+                  "name": "Vestige du moulin à vent des jésuites",
+                  "text": "Diese archäologische Stätte beherbergt die historischen Steinruinen einer alten Windmühle, die ursprünglich von Jesuiten erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -52.274244,
+                        4.902965
+                  ]
+            },
+            {
+                  "name": "Habitation des Jésuites",
+                  "text": "Diese als Kulturerbe der Kategorie 3 geschützten archäologischen Ruinen bewahren die strukturellen Fundamente einer bedeutenden historischen Jesuitenplantage.",
+                  "category": "historical",
+                  "coords": [
+                        -52.270375,
+                        4.899006
+                  ]
+            },
+            {
+                  "name": "Le Pagaret",
+                  "text": "Le Pagaret ist ein lokaler Kulturort, der regelmäßig kreative Workshops und Kunstausstellungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.272652,
+                        4.912886
+                  ]
+            },
+            {
+                  "name": "Espace Culturel Joseph Ho Ten You",
+                  "text": "Das Espace Culturel Joseph Ho Ten You dient als engagiertes Kunstzentrum für Gemeindevorführungen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.273895,
+                        4.91097
+                  ]
+            },
+            {
+                  "name": "Mont Saint-Martin",
+                  "text": "Der Mont Saint-Martin ist ein natürlicher Berggipfel, der sich markant über die umgebende tropische Landschaft erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -52.283775,
+                        4.92019
+                  ]
+            },
+            {
+                  "name": "Mont Sec",
+                  "text": "Der Mont Sec ist ein markanter Berggipfel, der unerschrockenen Wanderern und Naturliebhabern ein schroffes Gelände bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -52.293037,
+                        4.915704
+                  ]
+            },
+            {
+                  "name": "Mont Cabassou",
+                  "text": "Der Mont Cabassou ist ein erhöhter natürlicher Gipfel, der eine bewaldete Wanderumgebung über der Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -52.298972,
+                        4.893172
+                  ]
+            },
+            {
+                  "name": "Morne Coco",
+                  "text": "Morne Coco ist ein steiler, von Vegetation bedeckter natürlicher Gipfel, der Teil der hügeligen Topographie der Gegend ist.",
+                  "category": "natural",
+                  "coords": [
+                        -52.285922,
+                        4.901527
+                  ]
+            },
+            {
+                  "name": "Plage de Bourda",
+                  "text": "Die Plage de Bourda ist ein sandiger Meeresstrand, der einen natürlichen Küstenabschnitt für die Erholung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.282507,
+                        4.932466
+                  ]
+            },
+            {
+                  "name": "Plage des Fromagers",
+                  "text": "Die Plage des Fromagers ist ein ruhiger Sandstrand an der Küste, der von tropischer Vegetation gesäumt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.258567,
+                        4.909233
+                  ]
+            },
+            {
+                  "name": "Plage du Rorota",
+                  "text": "Die Plage du Rorota ist eine malerische Sandküste vor der Kulisse bewaldeter Küstenwege.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.262819,
+                        4.899747
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Die Église Sainte-Thérèse ist ein christliches Gotteshaus, das den spirituellen Bedürfnissen der örtlichen Gemeindemitglieder dient.",
+                  "category": "religious",
+                  "coords": [
+                        -52.270221,
+                        4.911984
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-Xavier",
+                  "text": "Die Église Saint-François-Xavier ist ein christliches Kirchengebäude, in dem sich die Gemeinde zum traditionellen liturgischen Gottesdienst versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -52.276971,
+                        4.904028
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Die Église Sainte-Anne fungiert als christliches Heiligtum für das lokale Gemeindegemeinschaftsgebet und die Messe.",
+                  "category": "religious",
+                  "coords": [
+                        -52.28532,
+                        4.911988
+                  ]
+            },
+            {
+                  "name": "Plage Louis Caristan",
+                  "text": "Die Plage Louis Caristan bietet einen sandigen Meeresküstenabschnitt für Besucher, die Entspannung am Wasser suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.271104,
+                        4.922459
+                  ]
+            },
+            {
+                  "name": "Oratoire",
+                  "text": "Dieses kleine Oratorium ist eine religiöse Stätte, die einen ruhigen Raum für persönliches Gebet und Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -52.303213,
+                        4.889037
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume",
+                  "text": "Dieser Salle du Royaume ist ein dedizierter christlicher Versammlungssaal, der für das Bibelstudium und die Gemeinschaft konzipiert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.273349,
+                        4.908573
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal dos Milagres de Deus",
+                  "text": "Diese christliche Pfingstkirche bietet der lokalen portugiesischsprachigen Gemeinschaft religiöse Gottesdienste und spirituelle Unterstützung.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.286735,
+                        4.893757
+                  ]
+            },
+            {
+                  "name": "Marché de Rémire-Montjoly",
+                  "text": "Der Marché de Rémire-Montjoly ist ein belebter öffentlicher Markt, auf dem Verkäufer frische lokale Produkte und regionale Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.2744,
+                        4.91196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polissoirs",
+                  "text": "Ezen a régészeti lelőhelyen olyan ősi kőzetvájatok találhatók, ahol a korai lakosok kőszerszámaikat csiszolták.",
+                  "category": "historical",
+                  "coords": [
+                        -52.283045,
+                        4.93752
+                  ]
+            },
+            {
+                  "name": "Point de vue du sentier des pêcheurs",
+                  "text": "Ez a halászok túraútvonala mentén található festői kilátó lenyűgöző panorámát nyújt a szomszédos vizekre.",
+                  "category": "natural",
+                  "coords": [
+                        -52.258213,
+                        4.911535
+                  ]
+            },
+            {
+                  "name": "Point de Vue sur l'Estuaire",
+                  "text": "Ez a magaslaton fekvő kilátó zavartalan panorámát nyújt a tengerparti torkolatra, ahol a folyó a tengerbe ömlik.",
+                  "category": "natural",
+                  "coords": [
+                        -52.257871,
+                        4.910486
+                  ]
+            },
+            {
+                  "name": "Vestige du moulin à vent des jésuites",
+                  "text": "Ez a régészeti lelőhely egy régi szélmalom történelmi kőromjait rejti, amelyet eredetileg jezsuiták építettek.",
+                  "category": "historical",
+                  "coords": [
+                        -52.274244,
+                        4.902965
+                  ]
+            },
+            {
+                  "name": "Habitation des Jésuites",
+                  "text": "3-as kategóriájú örökségvédelmi területként ezek a régészeti romok egy jelentős történelmi jezsuita ültetvény szerkezeti alapjait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        -52.270375,
+                        4.899006
+                  ]
+            },
+            {
+                  "name": "Le Pagaret",
+                  "text": "A Le Pagaret egy helyi kulturális helyszín, amely rendszeresen ad otthont kreatív műhelyeknek és művészeti kiállításoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.272652,
+                        4.912886
+                  ]
+            },
+            {
+                  "name": "Espace Culturel Joseph Ho Ten You",
+                  "text": "Az Espace Culturel Joseph Ho Ten You a közösségi előadások és kulturális rendezvények dedikált művészeti központjaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.273895,
+                        4.91097
+                  ]
+            },
+            {
+                  "name": "Mont Saint-Martin",
+                  "text": "A Mont Saint-Martin egy természetes hegycsúcs, amely kiemelkedik a környező trópusi tájból.",
+                  "category": "natural",
+                  "coords": [
+                        -52.283775,
+                        4.92019
+                  ]
+            },
+            {
+                  "name": "Mont Sec",
+                  "text": "A Mont Sec egy jellegzetes hegycsúcs, amely zord terepet kínál a merész túrázóknak és a természetkedvelőknek.",
+                  "category": "natural",
+                  "coords": [
+                        -52.293037,
+                        4.915704
+                  ]
+            },
+            {
+                  "name": "Mont Cabassou",
+                  "text": "A Mont Cabassou egy magaslati természetes hegycsúcs, amely erdős túrakörnyezetet biztosít a régió felett.",
+                  "category": "natural",
+                  "coords": [
+                        -52.298972,
+                        4.893172
+                  ]
+            },
+            {
+                  "name": "Morne Coco",
+                  "text": "A Morne Coco egy meredek, növényzettel borított természetes csúcs, amely a terület hullámzó domborzatának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -52.285922,
+                        4.901527
+                  ]
+            },
+            {
+                  "name": "Plage de Bourda",
+                  "text": "A Plage de Bourda egy homokos tengerparti strand, amely természetes partszakaszt kínál a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.282507,
+                        4.932466
+                  ]
+            },
+            {
+                  "name": "Plage des Fromagers",
+                  "text": "A Plage des Fromagers egy nyugodt homokos strand a tengerpart mentén, amelyet trópusi növényzet szegélyez.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.258567,
+                        4.909233
+                  ]
+            },
+            {
+                  "name": "Plage du Rorota",
+                  "text": "A Plage du Rorota egy festői homokos partvidék, melynek hátterében erdős tengerparti ösvények húzódnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.262819,
+                        4.899747
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Az Église Sainte-Thérèse egy dedikált keresztény istentiszteleti hely, amely a helyi hívek spirituális igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -52.270221,
+                        4.911984
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-Xavier",
+                  "text": "Az Église Saint-François-Xavier egy keresztény templomépület, ahol a közösség hagyományos liturgikus istentiszteletre gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        -52.276971,
+                        4.904028
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Az Église Sainte-Anne keresztény vallási szentélyként működik a helyi közösségi imák és misék számára.",
+                  "category": "religious",
+                  "coords": [
+                        -52.28532,
+                        4.911988
+                  ]
+            },
+            {
+                  "name": "Plage Louis Caristan",
+                  "text": "A Plage Louis Caristan az óceán partjának homokos szakaszát kínálja a vízparti kikapcsolódásra vágyó látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.271104,
+                        4.922459
+                  ]
+            },
+            {
+                  "name": "Oratoire",
+                  "text": "Ez a kis oratórium egy dedikált vallási építmény, amely csendes teret biztosít a személyes imának és elmélkedésnek.",
+                  "category": "religious",
+                  "coords": [
+                        -52.303213,
+                        4.889037
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume",
+                  "text": "Ez a Salle du Royaume egy dedikált keresztény gyülekezeti terem, amelyet bibliai tanulmányozásra és közösségi életre terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.273349,
+                        4.908573
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal dos Milagres de Deus",
+                  "text": "Ez a keresztény pünkösdi egyház vallási szolgáltatásokat és szellemi támogatást nyújt a helyi portugál ajkú közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.286735,
+                        4.893757
+                  ]
+            },
+            {
+                  "name": "Marché de Rémire-Montjoly",
+                  "text": "A Marché de Rémire-Montjoly egy nyüzsgő nyilvános piac, ahol az árusok friss helyi termékeket és regionális árukat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.2744,
+                        4.91196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polissoirs",
+                  "text": "Acest sit arheologic prezintă caneluri antice în stâncă unde primii locuitori își șlefuiau uneltele de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -52.283045,
+                        4.93752
+                  ]
+            },
+            {
+                  "name": "Point de vue du sentier des pêcheurs",
+                  "text": "Acest punct de belvedere pitoresc de-a lungul traseului de drumeție al pescarilor oferă vederi ample asupra apelor adiacente.",
+                  "category": "natural",
+                  "coords": [
+                        -52.258213,
+                        4.911535
+                  ]
+            },
+            {
+                  "name": "Point de Vue sur l'Estuaire",
+                  "text": "Acest punct de belvedere elevat oferă vizitatorilor o panoramă neobstrucționată a estuarului de coastă unde râul întâlnește marea.",
+                  "category": "natural",
+                  "coords": [
+                        -52.257871,
+                        4.910486
+                  ]
+            },
+            {
+                  "name": "Vestige du moulin à vent des jésuites",
+                  "text": "Acest sit arheologic conține ruinele istorice din piatră ale unei vechi mori de vânt construite inițial de iezuiți.",
+                  "category": "historical",
+                  "coords": [
+                        -52.274244,
+                        4.902965
+                  ]
+            },
+            {
+                  "name": "Habitation des Jésuites",
+                  "text": "Protejate ca sit de patrimoniu de clasa 3, aceste ruine arheologice păstrează fundațiile structurale ale unei importante plantații istorice iezuite.",
+                  "category": "historical",
+                  "coords": [
+                        -52.270375,
+                        4.899006
+                  ]
+            },
+            {
+                  "name": "Le Pagaret",
+                  "text": "Le Pagaret este un centru cultural local care găzduiește periodic ateliere creative și expoziții de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.272652,
+                        4.912886
+                  ]
+            },
+            {
+                  "name": "Espace Culturel Joseph Ho Ten You",
+                  "text": "Espace Culturel Joseph Ho Ten You servește ca un centru de arte dedicat spectacolelor comunitare și evenimentelor culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.273895,
+                        4.91097
+                  ]
+            },
+            {
+                  "name": "Mont Saint-Martin",
+                  "text": "Mont Saint-Martin este un vârf montan natural care se înalță proeminent deasupra peisajului tropical înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -52.283775,
+                        4.92019
+                  ]
+            },
+            {
+                  "name": "Mont Sec",
+                  "text": "Mont Sec este un vârf montan distinct care oferă un teren accidentat pentru drumeții intrepizi și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        -52.293037,
+                        4.915704
+                  ]
+            },
+            {
+                  "name": "Mont Cabassou",
+                  "text": "Mont Cabassou este un vârf natural înalt care oferă un mediu de drumeție împădurit deasupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -52.298972,
+                        4.893172
+                  ]
+            },
+            {
+                  "name": "Morne Coco",
+                  "text": "Morne Coco este un vârf natural abrupt, acoperit de vegetație, care face parte din topografia ondulată a zonei.",
+                  "category": "natural",
+                  "coords": [
+                        -52.285922,
+                        4.901527
+                  ]
+            },
+            {
+                  "name": "Plage de Bourda",
+                  "text": "Plage de Bourda este o plajă nisipoasă la ocean care oferă o întindere de țărm natural pentru recreere pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.282507,
+                        4.932466
+                  ]
+            },
+            {
+                  "name": "Plage des Fromagers",
+                  "text": "Plage des Fromagers este o plajă nisipoasă liniștită de-a lungul coastei, mărginită de vegetație tropicală.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.258567,
+                        4.909233
+                  ]
+            },
+            {
+                  "name": "Plage du Rorota",
+                  "text": "Plage du Rorota este un țărm nisipos pitoresc situat pe fundalul unor trasee de coastă împădurite.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.262819,
+                        4.899747
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Église Sainte-Thérèse este un lăcaș de cult creștin dedicat care deservește nevoile spirituale ale enoriașilor locali.",
+                  "category": "religious",
+                  "coords": [
+                        -52.270221,
+                        4.911984
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-Xavier",
+                  "text": "Église Saint-François-Xavier este o clădire bisericească creștină unde comunitatea se adună pentru cultul liturgic tradițional.",
+                  "category": "religious",
+                  "coords": [
+                        -52.276971,
+                        4.904028
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne funcționează ca un sanctuar religios creștin pentru rugăciunea și liturghia comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        -52.28532,
+                        4.911988
+                  ]
+            },
+            {
+                  "name": "Plage Louis Caristan",
+                  "text": "Plage Louis Caristan oferă o întindere nisipoasă a țărmului oceanic pentru vizitatorii care caută relaxare pe faleză.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.271104,
+                        4.922459
+                  ]
+            },
+            {
+                  "name": "Oratoire",
+                  "text": "Acest mic oratoriu este o structură religioasă dedicată care oferă un spațiu liniștit pentru rugăciune și reflecție personală.",
+                  "category": "religious",
+                  "coords": [
+                        -52.303213,
+                        4.889037
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume",
+                  "text": "Această Salle du Royaume este o sală de întruniri creștină dedicată studiului biblic și părtășiei.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.273349,
+                        4.908573
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal dos Milagres de Deus",
+                  "text": "Această biserică penticostală creștină oferă servicii religioase și sprijin spiritual pentru comunitatea locală vorbitoare de limbă portugheză.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.286735,
+                        4.893757
+                  ]
+            },
+            {
+                  "name": "Marché de Rémire-Montjoly",
+                  "text": "Marché de Rémire-Montjoly este o piață publică plină de viață unde vânzătorii oferă produse locale proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.2744,
+                        4.91196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polissoirs",
+                  "text": "This archaeological site features ancient bedrock grooves where early inhabitants polished their stone tools.",
+                  "category": "historical",
+                  "coords": [
+                        -52.283045,
+                        4.93752
+                  ]
+            },
+            {
+                  "name": "Point de vue du sentier des pêcheurs",
+                  "text": "This scenic viewpoint along the fisherman's hiking trail offers sweeping vistas over the adjacent waters.",
+                  "category": "natural",
+                  "coords": [
+                        -52.258213,
+                        4.911535
+                  ]
+            },
+            {
+                  "name": "Point de Vue sur l'Estuaire",
+                  "text": "This elevated viewpoint provides visitors with an unobstructed panorama of the coastal estuary where the river meets the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -52.257871,
+                        4.910486
+                  ]
+            },
+            {
+                  "name": "Vestige du moulin à vent des jésuites",
+                  "text": "This archaeological site contains the historic stone ruins of an old windmill originally constructed by Jesuits.",
+                  "category": "historical",
+                  "coords": [
+                        -52.274244,
+                        4.902965
+                  ]
+            },
+            {
+                  "name": "Habitation des Jésuites",
+                  "text": "Protected as a category 3 heritage site, these archaeological ruins preserve the structural foundations of a significant historical Jesuit plantation.",
+                  "category": "historical",
+                  "coords": [
+                        -52.270375,
+                        4.899006
+                  ]
+            },
+            {
+                  "name": "Le Pagaret",
+                  "text": "Le Pagaret is a local cultural venue that regularly hosts creative workshops and artistic exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.272652,
+                        4.912886
+                  ]
+            },
+            {
+                  "name": "Espace Culturel Joseph Ho Ten You",
+                  "text": "The Espace Culturel Joseph Ho Ten You serves as a dedicated arts center for community performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.273895,
+                        4.91097
+                  ]
+            },
+            {
+                  "name": "Mont Saint-Martin",
+                  "text": "Mont Saint-Martin is a natural mountain peak that rises prominently over the surrounding tropical landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -52.283775,
+                        4.92019
+                  ]
+            },
+            {
+                  "name": "Mont Sec",
+                  "text": "Mont Sec is a distinct mountain summit offering rugged terrain for intrepid hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        -52.293037,
+                        4.915704
+                  ]
+            },
+            {
+                  "name": "Mont Cabassou",
+                  "text": "Mont Cabassou is an elevated natural peak that provides a forested hiking environment over the region.",
+                  "category": "natural",
+                  "coords": [
+                        -52.298972,
+                        4.893172
+                  ]
+            },
+            {
+                  "name": "Morne Coco",
+                  "text": "Morne Coco is a steep, vegetation-covered natural peak that forms part of the area's undulating topography.",
+                  "category": "natural",
+                  "coords": [
+                        -52.285922,
+                        4.901527
+                  ]
+            },
+            {
+                  "name": "Plage de Bourda",
+                  "text": "Plage de Bourda is a sandy oceanfront beach offering a stretch of natural shoreline for seaside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.282507,
+                        4.932466
+                  ]
+            },
+            {
+                  "name": "Plage des Fromagers",
+                  "text": "Plage des Fromagers is a tranquil sandy beach set along the coast, fringed by tropical vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.258567,
+                        4.909233
+                  ]
+            },
+            {
+                  "name": "Plage du Rorota",
+                  "text": "Plage du Rorota is a scenic sandy shoreline set against a backdrop of forested coastal trails.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.262819,
+                        4.899747
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Église Sainte-Thérèse is a dedicated Christian place of worship serving the spiritual needs of its local parishioners.",
+                  "category": "religious",
+                  "coords": [
+                        -52.270221,
+                        4.911984
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-Xavier",
+                  "text": "Église Saint-François-Xavier is a Christian church building where the community gathers for traditional liturgical worship.",
+                  "category": "religious",
+                  "coords": [
+                        -52.276971,
+                        4.904028
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne functions as a Christian religious sanctuary for localized community prayer and mass.",
+                  "category": "religious",
+                  "coords": [
+                        -52.28532,
+                        4.911988
+                  ]
+            },
+            {
+                  "name": "Plage Louis Caristan",
+                  "text": "Plage Louis Caristan offers a sandy stretch of ocean shoreline for visitors seeking waterfront relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.271104,
+                        4.922459
+                  ]
+            },
+            {
+                  "name": "Oratoire",
+                  "text": "This small oratory is a dedicated religious structure providing a quiet space for personal prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -52.303213,
+                        4.889037
+                  ]
+            },
+            {
+                  "name": "Salle du Royaume",
+                  "text": "This Salle du Royaume is a dedicated Christian meeting hall designed for biblical study and fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.273349,
+                        4.908573
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal dos Milagres de Deus",
+                  "text": "This Christian Pentecostal church provides religious services and spiritual support for the local Portuguese-speaking community.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.286735,
+                        4.893757
+                  ]
+            },
+            {
+                  "name": "Marché de Rémire-Montjoly",
+                  "text": "The Marché de Rémire-Montjoly is a bustling public marketplace where vendors sell fresh local produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.2744,
+                        4.91196
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.2833, 4.9],
@@ -653,7 +2381,52 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Produisait du sucre, du café et du cacao.", "Exploitée par des personnes esclavisées et des jésuites."],
     }, image: "/poi-images/gf-habitation-loyola-history-v2.webp"},
   {
-    id: "gf-glise-saint-joseph-d-iracoubo-history-v2",
+    id: "gf-glise-saint-joseph-d-iracoubo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Évangélique Hmong d'Iracoubo",
+                  "text": "Diese evangelische Kirche in Iracoubo zeugt vom kulturellen Erbe der Hmong-Gemeinschaft in Französisch-Guayana.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.160835,
+                        5.438481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Évangélique Hmong d'Iracoubo",
+                  "text": "Ez az iracoubói evangélikus templom a francia-guayanai hmong közösség kulturális örökségéről tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.160835,
+                        5.438481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Évangélique Hmong d'Iracoubo",
+                  "text": "Această biserică evanghelică din Iracoubo atestă moștenirea culturală a comunității Hmong din Guyana Franceză.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.160835,
+                        5.438481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Évangélique Hmong d'Iracoubo",
+                  "text": "This evangelical church in Iracoubo reflects the cultural heritage of the Hmong community in French Guiana.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.160835,
+                        5.438481
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-53.2, 5.4833],
@@ -703,7 +2476,196 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Décorée par le bagnard Pierre Huguet.", "Classée monument historique."],
     }, image: "/poi-images/gf-glise-saint-joseph-d-iracoubo-history-v2.webp"},
   {
-    id: "gf-fort-diamant-history-v2",
+    id: "gf-fort-diamant-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Trio",
+                  "text": "Eine koloniale Festungsanlage aus dem 19. Jahrhundert und geschütztes Kulturerbe in Küstennähe.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.288503,
+                        4.84708
+                  ]
+            },
+            {
+                  "name": "Le Serpent de Pascaud",
+                  "text": "Antike archäologische Stätte mit präkolumbianischen Felsritzungen einer Schlange auf Granitblöcken.",
+                  "category": "historical",
+                  "coords": [
+                        -52.270758,
+                        4.860695
+                  ]
+            },
+            {
+                  "name": "Habitation Artur",
+                  "text": "Ruinen eines kolonialen Plantagenhauses und Nebengebäuden, die Einblick in die landwirtschaftliche Vergangenheit geben.",
+                  "category": "historical",
+                  "coords": [
+                        -52.249197,
+                        4.872416
+                  ]
+            },
+            {
+                  "name": "mozaïk",
+                  "text": "Ein ruhiger Sandstrand an der Atlantikküste, bekannt für seine natürliche Umgebung und Küstenvegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.256785,
+                        4.859431
+                  ]
+            },
+            {
+                  "name": "Fort Diamant",
+                  "text": "Strategische Festungsanlage aus dem 17. Jahrhundert, erbaut zur Verteidigung der Mündung des Flusses Mahury.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.247496,
+                        4.871369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Trio",
+                  "text": "19. századi gyarmati erődítmény és védett örökségi helyszín a part közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.288503,
+                        4.84708
+                  ]
+            },
+            {
+                  "name": "Le Serpent de Pascaud",
+                  "text": "Ősi régészeti lelőhely prekolumbiai sziklarajzokkal, amelyek egy kígyót ábrázolnak gránittömbökön.",
+                  "category": "historical",
+                  "coords": [
+                        -52.270758,
+                        4.860695
+                  ]
+            },
+            {
+                  "name": "Habitation Artur",
+                  "text": "Egy gyarmati ültetvényház és melléképületeinek romjai, amelyek betekintést nyújtanak a régió mezőgazdasági múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        -52.249197,
+                        4.872416
+                  ]
+            },
+            {
+                  "name": "mozaïk",
+                  "text": "Csendes homokos strand az atlanti-parton, amely természetes környezetéről és parti növényzetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.256785,
+                        4.859431
+                  ]
+            },
+            {
+                  "name": "Fort Diamant",
+                  "text": "Stratégiai 17. századi erődítmény, amelyet a Mahury-folyó torkolatának védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.247496,
+                        4.871369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Trio",
+                  "text": "O fortificație colonială din secolul al XIX-lea și sit de patrimoniu protejat lângă coastă.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.288503,
+                        4.84708
+                  ]
+            },
+            {
+                  "name": "Le Serpent de Pascaud",
+                  "text": "Sit arheologic antic cu gravuri rupestre precolumbiene reprezentând un șarpe pe bolovani de granit.",
+                  "category": "historical",
+                  "coords": [
+                        -52.270758,
+                        4.860695
+                  ]
+            },
+            {
+                  "name": "Habitation Artur",
+                  "text": "Ruinele unei case de plantație colonială și ale anexelor sale, oferind o perspectivă asupra trecutului agricol.",
+                  "category": "historical",
+                  "coords": [
+                        -52.249197,
+                        4.872416
+                  ]
+            },
+            {
+                  "name": "mozaïk",
+                  "text": "O plajă liniștită cu nisip pe coasta Atlanticului, cunoscută pentru cadrul său natural și vegetația de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.256785,
+                        4.859431
+                  ]
+            },
+            {
+                  "name": "Fort Diamant",
+                  "text": "Fortificație strategică din secolul al XVII-lea, construită pentru a apăra intrarea în râul Mahury.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.247496,
+                        4.871369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Trio",
+                  "text": "A 19th-century colonial fortification and protected heritage site near the coast.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.288503,
+                        4.84708
+                  ]
+            },
+            {
+                  "name": "Le Serpent de Pascaud",
+                  "text": "Ancient archaeological site featuring pre-Columbian rock carvings of a serpent on granite boulders.",
+                  "category": "historical",
+                  "coords": [
+                        -52.270758,
+                        4.860695
+                  ]
+            },
+            {
+                  "name": "Habitation Artur",
+                  "text": "Ruins of a colonial plantation house and outbuildings, providing insight into the region's agricultural past.",
+                  "category": "historical",
+                  "coords": [
+                        -52.249197,
+                        4.872416
+                  ]
+            },
+            {
+                  "name": "mozaïk",
+                  "text": "A quiet sandy beach on the Atlantic coast, known for its natural setting and coastal vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.256785,
+                        4.859431
+                  ]
+            },
+            {
+                  "name": "Fort Diamant",
+                  "text": "Strategic 17th-century fortification built to defend the entrance to the Mahury River.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.247496,
+                        4.871369
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.2667, 4.8667],
@@ -853,7 +2815,88 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Créé pour les prisonniers « relégués ».", "De nombreux détenus travaillaient dans les forêts environnantes."],
     }, image: "/poi-images/gf-bagne-de-saint-jean-du-maroni-history-v2.webp"},
   {
-    id: "gf-camp-crique-anguille-history-v2",
+    id: "gf-camp-crique-anguille-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bagne des Annamites",
+                  "text": "Überwucherte Ruinen einer kolonialen Strafkolonie, in der einst politische Gefangene aus Indochina untergebracht waren.",
+                  "category": "historical",
+                  "coords": [
+                        -52.516157,
+                        4.826562
+                  ]
+            },
+            {
+                  "name": "Pont Jaune",
+                  "text": "Ein markantes, gelb gestrichenes Bauwerk, das als historisches Wahrzeichen auf dem Waldweg dient.",
+                  "category": "historical",
+                  "coords": [
+                        -52.482872,
+                        4.816703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bagne des Annamites",
+                  "text": "Egy gyarmati büntetőtelep benőtt romjai, ahol egykor indokínai politikai foglyokat őriztek.",
+                  "category": "historical",
+                  "coords": [
+                        -52.516157,
+                        4.826562
+                  ]
+            },
+            {
+                  "name": "Pont Jaune",
+                  "text": "Jellegzetes sárgára festett építmény, amely történelmi mérföldkőként szolgál az erdei ösvényen.",
+                  "category": "historical",
+                  "coords": [
+                        -52.482872,
+                        4.816703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bagne des Annamites",
+                  "text": "Ruinele năpădite de vegetație ale unei colonii penitenciare coloniale, care a adăpostit cândva prizonieri politici din Indochina.",
+                  "category": "historical",
+                  "coords": [
+                        -52.516157,
+                        4.826562
+                  ]
+            },
+            {
+                  "name": "Pont Jaune",
+                  "text": "O structură distinctivă vopsită în galben, care servește ca reper istoric pe traseul prin pădure.",
+                  "category": "historical",
+                  "coords": [
+                        -52.482872,
+                        4.816703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bagne des Annamites",
+                  "text": "Overgrown ruins of a colonial penal colony that once held political prisoners from Indochina.",
+                  "category": "historical",
+                  "coords": [
+                        -52.516157,
+                        4.826562
+                  ]
+            },
+            {
+                  "name": "Pont Jaune",
+                  "text": "A distinctive yellow-painted structure serving as a historical landmark within the forest trail.",
+                  "category": "historical",
+                  "coords": [
+                        -52.482872,
+                        4.816703
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.5333, 4.8333],
@@ -953,7 +2996,232 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["L'or y a été découvert en 1873.", "A entraîné un afflux massif de chercheurs d'or."],
     }, image: "/poi-images/gf-puits-des-orpailleurs-history-v2.webp"},
   {
-    id: "gf-h-pital-de-l-le-royale-history-v2",
+    id: "gf-h-pital-de-l-le-royale-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jetée des Morts",
+                  "text": "Ein historischer Steinanleger aus der Zeit der Strafkolonie, von dem aus die Körper verstorbener Häftlinge dem Meer übergeben wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -52.592661,
+                        5.289066
+                  ]
+            },
+            {
+                  "name": "Anceinne maison des soeurs",
+                  "text": "Die Ruinen des Wohnhauses der Nonnen, die einst als Krankenschwestern im Krankenhaus der Île Royale arbeiteten.",
+                  "category": "historical",
+                  "coords": [
+                        -52.591567,
+                        5.286516
+                  ]
+            },
+            {
+                  "name": "atelier et forge",
+                  "text": "Steinreste der Werkstatt und Schmiede der Strafkolonie, in der die Häftlinge Handarbeit verrichteten.",
+                  "category": "historical",
+                  "coords": [
+                        -52.585314,
+                        5.28584
+                  ]
+            },
+            {
+                  "name": "Musée du bagne",
+                  "text": "In der ehemaligen Residenz des Gefängnisdirektors untergebracht, zeigt dieses Museum Exponate zur Geschichte der französischen Strafkolonie.",
+                  "category": "museum",
+                  "coords": [
+                        -52.588204,
+                        5.287005
+                  ]
+            },
+            {
+                  "name": "ancienne porcherie",
+                  "text": "Die Ruinen des Gefängnis-Schweinestalls, die die Bemühungen der Strafkolonie um landwirtschaftliche Selbstversorgung zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        -52.586136,
+                        5.28773
+                  ]
+            },
+            {
+                  "name": "Quartier des aliénés",
+                  "text": "Die überwucherten Ruinen der psychiatrischen Abteilung, in der psychisch kranke Häftlinge isoliert untergebracht waren.",
+                  "category": "historical",
+                  "coords": [
+                        -52.586259,
+                        5.286011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jetée des Morts",
+                  "text": "Történelmi kőmóló a fegyenctelep idejéből, ahonnan az elhunyt rabok holttesteit a tengerbe bocsátották.",
+                  "category": "historical",
+                  "coords": [
+                        -52.592661,
+                        5.289066
+                  ]
+            },
+            {
+                  "name": "Anceinne maison des soeurs",
+                  "text": "Az Île Royale kórházában ápolónőként szolgáló apácák egykori lakóházának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -52.591567,
+                        5.286516
+                  ]
+            },
+            {
+                  "name": "atelier et forge",
+                  "text": "A fegyenctelep műhelyének és kovácsműhelyének kőmaradványai, ahol a rabok fizikai munkát végeztek.",
+                  "category": "historical",
+                  "coords": [
+                        -52.585314,
+                        5.28584
+                  ]
+            },
+            {
+                  "name": "Musée du bagne",
+                  "text": "Az egykori börtönparancsnoki épületben berendezett múzeum a francia fegyenctelep történetét és emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -52.588204,
+                        5.287005
+                  ]
+            },
+            {
+                  "name": "ancienne porcherie",
+                  "text": "A börtön egykori sertésóljának romjai, amelyek a fegyenctelep mezőgazdasági önellátását szemléltetik.",
+                  "category": "historical",
+                  "coords": [
+                        -52.586136,
+                        5.28773
+                  ]
+            },
+            {
+                  "name": "Quartier des aliénés",
+                  "text": "A pszichiátriai osztály benőtt romjai, ahol a mentálisan beteg rabokat különítették el.",
+                  "category": "historical",
+                  "coords": [
+                        -52.586259,
+                        5.286011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jetée des Morts",
+                  "text": "Un debarcader istoric de piatră din epoca coloniei penitenciare, folosit pentru a transporta trupurile deținuților decedați în mare.",
+                  "category": "historical",
+                  "coords": [
+                        -52.592661,
+                        5.289066
+                  ]
+            },
+            {
+                  "name": "Anceinne maison des soeurs",
+                  "text": "Ruinele locuinței călugărițelor care au servit ca asistente medicale la spitalul de pe Île Royale.",
+                  "category": "historical",
+                  "coords": [
+                        -52.591567,
+                        5.286516
+                  ]
+            },
+            {
+                  "name": "atelier et forge",
+                  "text": "Rămășițele de piatră ale atelierului și fierăriei coloniei penitenciare, unde deținuții prestau muncă manuală.",
+                  "category": "historical",
+                  "coords": [
+                        -52.585314,
+                        5.28584
+                  ]
+            },
+            {
+                  "name": "Musée du bagne",
+                  "text": "Găzduit în fosta reședință a directorului închisorii, acest muzeu expune artefacte și istoria coloniei penitenciare franceze.",
+                  "category": "museum",
+                  "coords": [
+                        -52.588204,
+                        5.287005
+                  ]
+            },
+            {
+                  "name": "ancienne porcherie",
+                  "text": "Ruinele fostei crescătorii de porci a închisorii, ilustrând eforturile agricole de autosuficiență ale coloniei.",
+                  "category": "historical",
+                  "coords": [
+                        -52.586136,
+                        5.28773
+                  ]
+            },
+            {
+                  "name": "Quartier des aliénés",
+                  "text": "Ruinele invadate de vegetație ale secției de psihiatrie, unde deținuții cu afecțiuni mintale erau ținuți în izolare.",
+                  "category": "historical",
+                  "coords": [
+                        -52.586259,
+                        5.286011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jetée des Morts",
+                  "text": "A historic stone pier used during the penal colony era to transport the bodies of deceased prisoners to the sea.",
+                  "category": "historical",
+                  "coords": [
+                        -52.592661,
+                        5.289066
+                  ]
+            },
+            {
+                  "name": "Anceinne maison des soeurs",
+                  "text": "The ruins of the residence for the nuns who once served as nurses at the Île Royale hospital.",
+                  "category": "historical",
+                  "coords": [
+                        -52.591567,
+                        5.286516
+                  ]
+            },
+            {
+                  "name": "atelier et forge",
+                  "text": "Stone remains of the penal colony's workshop and forge, where prisoners performed manual labor.",
+                  "category": "historical",
+                  "coords": [
+                        -52.585314,
+                        5.28584
+                  ]
+            },
+            {
+                  "name": "Musée du bagne",
+                  "text": "Housed in the former warden's residence, this museum exhibits artifacts and history of the French penal colony.",
+                  "category": "museum",
+                  "coords": [
+                        -52.588204,
+                        5.287005
+                  ]
+            },
+            {
+                  "name": "ancienne porcherie",
+                  "text": "The ruins of the prison's pigsty, illustrating the self-sufficient agricultural efforts of the penal colony.",
+                  "category": "historical",
+                  "coords": [
+                        -52.586136,
+                        5.28773
+                  ]
+            },
+            {
+                  "name": "Quartier des aliénés",
+                  "text": "The overgrown ruins of the psychiatric ward where mentally ill prisoners were confined in isolation.",
+                  "category": "historical",
+                  "coords": [
+                        -52.586259,
+                        5.286011
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.5835, 5.286],
@@ -1003,7 +3271,52 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["A souffert d'épidémies de maladies tropicales.", "Les soins médicaux étaient limités."],
     }, image: "/poi-images/gf-h-pital-de-l-le-royale-history-v2.webp"},
   {
-    id: "gf-poudri-re-de-cayenne-history-v2",
+    id: "gf-poudri-re-de-cayenne-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marché de Cayenne",
+                  "text": "Ein farbenfroher Markt in Cayenne, berühmt für seine Stände mit tropischen Früchten, Gewürzen und kreolischen Spezialitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.335039,
+                        4.935857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marché de Cayenne",
+                  "text": "Cayenne színes piaca, amely trópusi gyümölcsöket, fűszereket és kreol különlegességeket kínáló standjairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.335039,
+                        4.935857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marché de Cayenne",
+                  "text": "O piață colorată în Cayenne, renumită pentru standurile sale cu fructe tropicale, condimente și specialități creole.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.335039,
+                        4.935857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marché de Cayenne",
+                  "text": "A colorful marketplace in Cayenne famous for its stalls of tropical fruits, exotic spices, and local Creole specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.335039,
+                        4.935857
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.3345, 4.935],
@@ -1153,7 +3466,88 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Des poteries et des outils y ont été découverts.", "Éclaire les premières cultures amazoniennes."],
     }, image: "/poi-images/gf-gisement-arch-ologique-de-l-inini-history-v2.webp"},
   {
-    id: "gf-vestiges-de-guisanbourg-history-v2",
+    id: "gf-vestiges-de-guisanbourg-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne des Rochers",
+                  "text": "Ein Berggipfel in der Nähe der historischen Ruinen von Guisanbourg.",
+                  "category": "natural",
+                  "coords": [
+                        -52.000115,
+                        4.296407
+                  ]
+            },
+            {
+                  "name": "Guisanbourg",
+                  "text": "Ruinen einer im 19. Jahrhundert verlassenen Kolonialstadt am Approuague.",
+                  "category": "historical",
+                  "coords": [
+                        -51.932191,
+                        4.408468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne des Rochers",
+                  "text": "Hegyi csúcs az elhagyatott Guisanbourg történelmi romjainak közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.000115,
+                        4.296407
+                  ]
+            },
+            {
+                  "name": "Guisanbourg",
+                  "text": "Egy 19. században elhagyott gyarmati város romjai az Approuague folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        -51.932191,
+                        4.408468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne des Rochers",
+                  "text": "Un vârf muntos lângă ruinele istorice ale orașului abandonat Guisanbourg.",
+                  "category": "natural",
+                  "coords": [
+                        -52.000115,
+                        4.296407
+                  ]
+            },
+            {
+                  "name": "Guisanbourg",
+                  "text": "Ruinele unui oraș colonial din secolul al XIX-lea, abandonat pe râul Approuague.",
+                  "category": "historical",
+                  "coords": [
+                        -51.932191,
+                        4.408468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne des Rochers",
+                  "text": "A mountain peak near the historical ruins of the abandoned town of Guisanbourg.",
+                  "category": "natural",
+                  "coords": [
+                        -52.000115,
+                        4.296407
+                  ]
+            },
+            {
+                  "name": "Guisanbourg",
+                  "text": "Ruins of a 19th-century colonial town abandoned on the Approuague river.",
+                  "category": "historical",
+                  "coords": [
+                        -51.932191,
+                        4.408468
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.0167, 4.3833],
@@ -1203,7 +3597,124 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Nommé d'après Jean Samuel Guisan.", "Lentement reconquis par la jungle."],
     }, image: "/poi-images/gf-vestiges-de-guisanbourg-history-v2.webp"},
   {
-    id: "gf-glise-de-saint-laurent-du-maroni-history-v2",
+    id: "gf-glise-de-saint-laurent-du-maroni-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Mama Bobi",
+                  "text": "Ein Kulturzentrum, das sich der Bewahrung und Förderung der Kunst und Traditionen der Maroon-Völker widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.033169,
+                        5.500717
+                  ]
+            },
+            {
+                  "name": "Théâtre école Kokolampoe",
+                  "text": "Eine Schauspielschule und ein Theater, das in einem historischen Gebäude der ehemaligen Strafkolonie untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.03238,
+                        5.503258
+                  ]
+            },
+            {
+                  "name": "Marché de Saint-Laurent",
+                  "text": "Ein lebhafter Marktplatz, bekannt für farbenfrohes Kunsthandwerk der Maroons und Indigenen sowie lokale tropische Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.029279,
+                        5.501205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Mama Bobi",
+                  "text": "Kulturális központ, amely a maron népcsoportok művészetének és hagyományainak megőrzésére és népszerűsítésére irányul.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.033169,
+                        5.500717
+                  ]
+            },
+            {
+                  "name": "Théâtre école Kokolampoe",
+                  "text": "Színművészeti iskola és színház, amely az egykori fegyenctelep egyik történelmi épületében kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.03238,
+                        5.503258
+                  ]
+            },
+            {
+                  "name": "Marché de Saint-Laurent",
+                  "text": "Nyüzsgő piactér, amely a maron és indián kézműves termékeiről, valamint a helyi trópusi gyümölcsökről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.029279,
+                        5.501205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Mama Bobi",
+                  "text": "Un centru cultural dedicat conservării și promovării artei și tradițiilor popoarelor maroon.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.033169,
+                        5.500717
+                  ]
+            },
+            {
+                  "name": "Théâtre école Kokolampoe",
+                  "text": "O școală de teatru și spectacole găzduită într-o clădire istorică a fostei colonii penitenciare.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.03238,
+                        5.503258
+                  ]
+            },
+            {
+                  "name": "Marché de Saint-Laurent",
+                  "text": "O piață plină de viață, cunoscută pentru obiectele de artizanat maron și amerindiene și produsele tropicale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.029279,
+                        5.501205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Mama Bobi",
+                  "text": "A cultural center dedicated to preserving and promoting the art and traditions of the Maroon people.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.033169,
+                        5.500717
+                  ]
+            },
+            {
+                  "name": "Théâtre école Kokolampoe",
+                  "text": "A performing arts school and theatre housed in a historic building of the former penal colony.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.03238,
+                        5.503258
+                  ]
+            },
+            {
+                  "name": "Marché de Saint-Laurent",
+                  "text": "A bustling marketplace known for colorful Maroon and Amerindian handicrafts and local tropical produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.029279,
+                        5.501205
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-54.029, 5.502],
@@ -1303,7 +3814,160 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Construite avec des briques du continent.", "L'un des rares bâtiments restaurés sur l'île."],
     }, image: "/poi-images/gf-chapelle-de-l-le-royale-history-v2.webp"},
   {
-    id: "gf-site-arch-ologique-de-mont-grand-matoury-history-v2",
+    id: "gf-site-arch-ologique-de-mont-grand-matoury-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Grand Matoury",
+                  "text": "Der höchste Punkt im Gebiet von Matoury, bedeckt von primärem Regenwald und reich an lokaler Flora.",
+                  "category": "natural",
+                  "coords": [
+                        -52.356594,
+                        4.863284
+                  ]
+            },
+            {
+                  "name": "Mont Fortuné",
+                  "text": "Ein markanter Hügel in der Landschaft von Matoury, Teil des erhöhten Regenwaldgeländes der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -52.351291,
+                        4.880741
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Mont Grand Matoury",
+                  "text": "Ein 2006 eingerichtetes Naturschutzgebiet zur Erhaltung der Artenvielfalt im Regenwald des Berges.",
+                  "category": "natural",
+                  "coords": [
+                        -52.373071,
+                        4.857132
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Lourdes",
+                  "text": "Eine friedliche katholische Kirche in der Nähe der archäologischen Stätten von Mont Grand Matoury.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.337834,
+                        4.88878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Grand Matoury",
+                  "text": "Matoury területének legmagasabb pontja, amelyet őserdő borít és gazdag helyi flórával rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        -52.356594,
+                        4.863284
+                  ]
+            },
+            {
+                  "name": "Mont Fortuné",
+                  "text": "Egy kiemelkedő domb Matoury táján, a régió magaslati esőerdei terepének része.",
+                  "category": "natural",
+                  "coords": [
+                        -52.351291,
+                        4.880741
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Mont Grand Matoury",
+                  "text": "2006-ban alapított természetvédelmi terület a hegy esőerdejének biológiai sokféleségének megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        -52.373071,
+                        4.857132
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Lourdes",
+                  "text": "Egy békés katolikus templom a Mont Grand Matoury régészeti lelőhelyei közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.337834,
+                        4.88878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Grand Matoury",
+                  "text": "Cel mai înalt punct din zona Matoury, acoperit de pădure tropicală primară și bogat în floră locală.",
+                  "category": "natural",
+                  "coords": [
+                        -52.356594,
+                        4.863284
+                  ]
+            },
+            {
+                  "name": "Mont Fortuné",
+                  "text": "Un deal proeminent în peisajul Matoury, parte a terenului înalt cu pădure tropicală din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -52.351291,
+                        4.880741
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Mont Grand Matoury",
+                  "text": "O rezervație naturală protejată, înființată în 2006 pentru a păstra biodiversitatea pădurii tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -52.373071,
+                        4.857132
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Lourdes",
+                  "text": "O biserică catolică liniștită situată lângă siturile arheologice de pe Mont Grand Matoury.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.337834,
+                        4.88878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Grand Matoury",
+                  "text": "The highest point in the Matoury area, covered by primary rainforest and rich in local flora.",
+                  "category": "natural",
+                  "coords": [
+                        -52.356594,
+                        4.863284
+                  ]
+            },
+            {
+                  "name": "Mont Fortuné",
+                  "text": "A prominent hill within the Matoury landscape, part of the region's elevated rainforest terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -52.351291,
+                        4.880741
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle du Mont Grand Matoury",
+                  "text": "A protected nature reserve established in 2006 to preserve the biodiversity of the mountain's rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -52.373071,
+                        4.857132
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Lourdes",
+                  "text": "A peaceful Catholic church located near the archaeological sites of Mont Grand Matoury.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.337834,
+                        4.88878
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.35, 4.8667],
@@ -1353,7 +4017,88 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Des tessons de poterie y ont été découverts.", "Situé sur la plus haute colline des environs de Cayenne."],
     }, image: "/poi-images/gf-site-arch-ologique-de-mont-grand-matoury-history-v2.webp"},
   {
-    id: "gf-monument-aux-morts-de-cayenne-history-v2",
+    id: "gf-monument-aux-morts-de-cayenne-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paroisse Saint-Martin-de-Porrès",
+                  "text": "Eine katholische Pfarrkirche in Cayenne, benannt nach dem Schutzheiligen für soziale Gerechtigkeit.",
+                  "category": "religious",
+                  "coords": [
+                        -52.331101,
+                        4.930692
+                  ]
+            },
+            {
+                  "name": "Centre d'accueil Universel",
+                  "text": "Ein Zentrum einer christlichen Bewegung, das spirituelle Unterstützung und soziale Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329151,
+                        4.930279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paroisse Saint-Martin-de-Porrès",
+                  "text": "Cayenne-i katolikus plébániatemplom, amelyet a társadalmi igazságosság védőszentjéről neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        -52.331101,
+                        4.930692
+                  ]
+            },
+            {
+                  "name": "Centre d'accueil Universel",
+                  "text": "Egy keresztény mozgalom központja, amely lelki támogatást és szociális szolgáltatásokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329151,
+                        4.930279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paroisse Saint-Martin-de-Porrès",
+                  "text": "O biserică parohială catolică din Cayenne, numită după sfântul protector al dreptății sociale.",
+                  "category": "religious",
+                  "coords": [
+                        -52.331101,
+                        4.930692
+                  ]
+            },
+            {
+                  "name": "Centre d'accueil Universel",
+                  "text": "Un centru al unei mișcări creștine care oferă sprijin spiritual și servicii sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329151,
+                        4.930279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paroisse Saint-Martin-de-Porrès",
+                  "text": "A Catholic parish church in Cayenne named after the patron saint of social justice, Martin de Porres.",
+                  "category": "religious",
+                  "coords": [
+                        -52.331101,
+                        4.930692
+                  ]
+            },
+            {
+                  "name": "Centre d'accueil Universel",
+                  "text": "A center for a Christian movement offering spiritual support and social services.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.329151,
+                        4.930279
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.331, 4.934],
@@ -1453,7 +4198,52 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       fr: ["Préserve l'atmosphère des pionniers.", "Se situe le long d'une route de transport traditionnelle."],
     }, image: "/poi-images/gf-l-auberge-des-orpailleurs-history-v2.webp"},
   {
-    id: "gf-ancienne-mairie-de-cayenne-history-v2",
+    id: "gf-ancienne-mairie-de-cayenne-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Témoins de Jéhovah",
+                  "text": "Der Versammlungssaal der Zeugen Jehovas in Cayenne bietet einen schlichten Raum für die Gemeinde im historischen Stadtzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.332971,
+                        4.93647
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Témoins de Jéhovah",
+                  "text": "Jehova Tanúi gyülekezeti terme Cayenne-ben egyszerű teret biztosít a közösség számára a történelmi városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.332971,
+                        4.93647
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Témoins de Jéhovah",
+                  "text": "Sala de adunări a Martorilor lui Iehova din Cayenne oferă un spațiu simplu pentru comunitate în centrul istoric al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.332971,
+                        4.93647
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Témoins de Jéhovah",
+                  "text": "The Jehovah's Witnesses meeting hall in Cayenne provides a simple space for the congregation in the historic city center.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.332971,
+                        4.93647
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GF",
     coords: [-52.3325, 4.9365],

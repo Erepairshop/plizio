@@ -97,7 +97,52 @@ export const poiExtraSurinameNatureV2: POI[] = [
       fr: ["Galibi travaille en étroite collaboration avec les communautés autochtones locales pour assurer la protection des tortues."],
     }, image: "/poi-images/sr-galibi-nature-v2.webp"},
   {
-    id: "sr-bigi-pan-nature-v2",
+    id: "sr-bigi-pan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Departure Stephany Eco Lodge",
+                  "text": "Dieser Abfahrtsort fungiert als Tor zu den Feuchtgebieten und bringt Ökotouristen mit dem Boot in das artenreiche Bigi Pan-Reservat.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.937112,
+                        5.924693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Departure Stephany Eco Lodge",
+                  "text": "A vizes élőhelyek kapujaként működő indulási pont csónakkal szállítja az ökoturistákat a biológiailag sokszínű Bigi Pan rezervátumba.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.937112,
+                        5.924693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Departure Stephany Eco Lodge",
+                  "text": "Funcționând ca o poartă către zonele umede, acest punct de plecare transportă ecoturiștii cu barca în rezervația bogată în biodiversitate Bigi Pan.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.937112,
+                        5.924693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Departure Stephany Eco Lodge",
+                  "text": "Operating as a gateway to the wetlands, this departure point ferries eco-tourists via boat into the biodiverse Bigi Pan reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.937112,
+                        5.924693
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "SR-NI",
     coords: [-56.95, 5.95],
@@ -144,7 +189,52 @@ export const poiExtraSurinameNatureV2: POI[] = [
       fr: ["Bigi Pan est également une zone importante pour la pêche locale."],
     }, image: "/poi-images/sr-bigi-pan-nature-v2.webp"},
   {
-    id: "sr-brownsberg-nature-v2",
+    id: "sr-brownsberg-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mazaroni top",
+                  "text": "Ein spektakulärer Aussichtspunkt im Brownsberg-Reservat mit Panorama-Blick auf den Brokopondo-Stausee.",
+                  "category": "natural",
+                  "coords": [
+                        -55.175754,
+                        4.951293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mazaroni top",
+                  "text": "Látványos kilátópont a Brownsberg rezervátumban, panorámás kilátással a Brokopondo-víztározóra.",
+                  "category": "natural",
+                  "coords": [
+                        -55.175754,
+                        4.951293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mazaroni top",
+                  "text": "Un punct de belvedere spectaculos în rezervația Brownsberg, cu vedere panoramică asupra lacului de acumulare Brokopondo.",
+                  "category": "natural",
+                  "coords": [
+                        -55.175754,
+                        4.951293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mazaroni top",
+                  "text": "A spectacular viewpoint in the Brownsberg reserve with a panoramic view of the Brokopondo Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        -55.175754,
+                        4.951293
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "SR-BR",
     coords: [-55.18, 4.95],

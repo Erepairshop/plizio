@@ -3,7 +3,1204 @@ import type { POI } from "./poi";
 
 export const poiExtraBrazilNatureV2: POI[] = [
   {
-    id: "br-amazon-river-nature-v2",
+    id: "br-amazon-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Exposição Peixe Gente",
+                  "text": "Eine einzigartige Museumsausstellung in Manaus, die die kulturelle und ökologische Beziehung zwischen lokalen Gemeinschaften und Amazonasfischen untersucht.",
+                  "category": "museum",
+                  "coords": [
+                        -59.939742,
+                        -3.007314
+                  ]
+            },
+            {
+                  "name": "Casa das Serpentes",
+                  "text": "Diese spezielle Museumsausstellung konzentriert sich auf die im Amazonasbecken heimischen, vielfältigen Schlangenarten.",
+                  "category": "museum",
+                  "coords": [
+                        -59.940869,
+                        -3.006761
+                  ]
+            },
+            {
+                  "name": "Estátua do Papa",
+                  "text": "Dieses Gedenkmonument ehrt einen historischen Papstbesuch mit einer hoch aufragenden Papststatue.",
+                  "category": "historical",
+                  "coords": [
+                        -59.989913,
+                        -2.982639
+                  ]
+            },
+            {
+                  "name": "IDPB CIDADE NOVA",
+                  "text": "Eine lokale Pfingstkirche, die Gottesdienste und Gemeinschaft im Viertel Cidade Nova anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -59.982157,
+                        -3.023497
+                  ]
+            },
+            {
+                  "name": "Ministério MCM",
+                  "text": "Ein lokales religiöses Zentrum, das der evangelischen Lehre und Gemeindezusammenkünften gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -59.990848,
+                        -3.009638
+                  ]
+            },
+            {
+                  "name": "Clubinho Bíblico",
+                  "text": "Eine gemeindliche Kultstätte, die sich auf Jugendarbeit und biblische Bildung konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        -59.991846,
+                        -3.009252
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal Jesus na Galiléia",
+                  "text": "Eine Pfingstkirche, in der sich die örtliche Gemeinde zu lebendigen Gebetsdiensten versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -59.968311,
+                        -3.045375
+                  ]
+            },
+            {
+                  "name": "Igreja Internacional da Graça de Deus- Cidade Nova",
+                  "text": "Ein Zweig der International Church of God's Grace, der spirituelle Dienste im Viertel Cidade Nova anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -59.991643,
+                        -3.032884
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Assembleia de Deus",
+                  "text": "Eine lokale evangelische Kirche, die regelmäßige Gottesdienste für die Gemeinde der Assembly of God anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -60.021231,
+                        -2.976917
+                  ]
+            },
+            {
+                  "name": "FEIRA DA SEPROR",
+                  "text": "Ein lebhafter lokaler Markt, auf dem landwirtschaftliche Produkte und regionale Waren aus dem Amazonasgebiet gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.028689,
+                        -2.996847
+                  ]
+            },
+            {
+                  "name": "Comercial Costa",
+                  "text": "Ein lokaler kommerzieller Marktplatz oder eine Markthalle, die den täglichen Einkaufsbedarf in der Nachbarschaft deckt.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.998366,
+                        -2.965611
+                  ]
+            },
+            {
+                  "name": "Feira do Produtor",
+                  "text": "Ein belebter Bauernmarkt, auf dem lokale Bauern frisches regionales Obst, Gemüse und Fisch verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.940408,
+                        -3.036172
+                  ]
+            },
+            {
+                  "name": "5 - Parque Estadual Sumaúma (OBRAC)",
+                  "text": "Dieser Staatspark bietet ein geschütztes Stück Stadtwald in Manaus, das für seine riesigen Sumaúma-Bäume bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.980369,
+                        -3.032716
+                  ]
+            },
+            {
+                  "name": "Salida",
+                  "text": "Ein Zugang oder Ausgang, der mit einem der örtlichen Naturparks oder Reservate verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.945853,
+                        -3.008351
+                  ]
+            },
+            {
+                  "name": "Reserva Ducke",
+                  "text": "Eine riesige Fläche des Amazonas-Primärregenwaldes am Rande von Manaus, die der ökologischen Forschung und Erhaltung gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.932532,
+                        -2.961246
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Santo Expedito",
+                  "text": "Eine katholische Kirche in der Nachbarschaft, die dem Heiligen Expeditus gewidmet ist und lokale Gläubige willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.987409,
+                        -3.045016
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "Eine lokale Assembly of God-Kirche, die evangelische Gottesdienste für die umliegende Gemeinde anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.97856,
+                        -3.047984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten dient den Gläubigen im üppigen Amazonasbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.984782,
+                        -3.044288
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal Deus é Amor",
+                  "text": "Die Pfingstkirche „Gott ist Liebe“ versammelt ihre Gemeinde in der tropischen Amazonasregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.985654,
+                        -3.040805
+                  ]
+            },
+            {
+                  "name": "Igreja Católica",
+                  "text": "Eine katholische Kirche, die einen Andachtsraum inmitten der lebendigen Amazonasumgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.984344,
+                        -3.029709
+                  ]
+            },
+            {
+                  "name": "Nova Igreja Batista",
+                  "text": "Diese Neue Baptistenkirche ist ein christlicher Versammlungsort in der Nähe des Amazonas.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.024364,
+                        -3.045125
+                  ]
+            },
+            {
+                  "name": "C.E.B.U.D.V. Núcleo Jardim do Norte",
+                  "text": "Ein christliches Zentrum in Jardim do Norte, das in die tropische Landschaft des Amazonas integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.018003,
+                        -2.987896
+                  ]
+            },
+            {
+                  "name": "Igreja Católica São Padre Pio",
+                  "text": "Diese Padre Pio gewidmete katholische Pfarrei dient der Gemeinde im feuchten Amazonasbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.02569,
+                        -2.95442
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus no Amazonas",
+                  "text": "Eine Gemeinde der Assemblies of God, die im weiten Bundesstaat Amazonas spirituelle Führung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.994753,
+                        -2.96698
+                  ]
+            },
+            {
+                  "name": "Igreja Batista Novo Milênio",
+                  "text": "Die Baptistenkirche des Neuen Jahrtausends heißt Gläubige in ihrer tropischen Amazonasumgebung willkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.989937,
+                        -2.974089
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Sagrado Coração",
+                  "text": "Die katholische Herz-Jesu-Kirche bietet Gottesdienste in der Nähe der Ufer des Amazonas an.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.990788,
+                        -2.975964
+                  ]
+            },
+            {
+                  "name": "São Miguel Arcanjo",
+                  "text": "Eine dem Erzengel Michael geweihte christliche Kultstätte im tropischen Flussbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.985699,
+                        -2.980892
+                  ]
+            },
+            {
+                  "name": "Pentecostal do Brasil",
+                  "text": "Eine brasilianische Pfingstkirche, die tief in der tropischen lokalen Gemeinschaft des Amazonas verwurzelt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.991046,
+                        -2.982406
+                  ]
+            },
+            {
+                  "name": "Comunidade Católica São João Batista",
+                  "text": "Die katholische Gemeinde St. Johannes der Täufer ist ein zentraler Anlaufpunkt für die Gläubigen im Amazonasbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.988144,
+                        -3.014051
+                  ]
+            },
+            {
+                  "name": "Comunidade São Francisco de Assis",
+                  "text": "Eine katholische Gemeinde zu Ehren des Heiligen Franz von Assisi in der Nähe des Amazonas-Regenwaldes.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.990691,
+                        -3.008575
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus da Aliança",
+                  "text": "Die Covenant Assembly of God bietet einen Ort des christlichen Gottesdienstes in der tropischen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.934076,
+                        -3.013958
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora de Fátima",
+                  "text": "Diese Unserer Lieben Frau von Fatima geweihte katholische Kirche dient den Gemeindemitgliedern in der üppigen Amazonaslandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.978511,
+                        -3.006305
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Maria Goreth",
+                  "text": "Diese nach der Heiligen Maria Goretti benannte katholische Kirche versammelt ihre Gemeinde in der Nähe des Amazonas.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.937635,
+                        -3.04193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Exposição Peixe Gente",
+                  "text": "Egyedülálló múzeumi kiállítás Manausban, amely a helyi közösségek és az amazóniai halak közötti kulturális és ökológiai kapcsolatot tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        -59.939742,
+                        -3.007314
+                  ]
+            },
+            {
+                  "name": "Casa das Serpentes",
+                  "text": "Ez a speciális múzeumi kiállítás az Amazonas medencéjében őshonos, változatos kígyófajokra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -59.940869,
+                        -3.006761
+                  ]
+            },
+            {
+                  "name": "Estátua do Papa",
+                  "text": "Ez az emlékmű egy történelmi pápai látogatásnak állít emléket a pápa tornyosuló szobrával.",
+                  "category": "historical",
+                  "coords": [
+                        -59.989913,
+                        -2.982639
+                  ]
+            },
+            {
+                  "name": "IDPB CIDADE NOVA",
+                  "text": "Egy helyi pünkösdi templom, amely istentiszteletet és közösségi összejöveteleket biztosít a Cidade Nova kerületben.",
+                  "category": "religious",
+                  "coords": [
+                        -59.982157,
+                        -3.023497
+                  ]
+            },
+            {
+                  "name": "Ministério MCM",
+                  "text": "Helyi vallási központ, amelyet az evangéliumi tanításnak és a gyülekezeti összejöveteleknek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -59.990848,
+                        -3.009638
+                  ]
+            },
+            {
+                  "name": "Clubinho Bíblico",
+                  "text": "Egy közösségi istentiszteleti hely, amely az ifjúsági szolgálatra és a bibliai oktatásra összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        -59.991846,
+                        -3.009252
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal Jesus na Galiléia",
+                  "text": "Egy pünkösdi istentiszteleti hely, ahol a helyi gyülekezet élénk imaalkalmakra gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        -59.968311,
+                        -3.045375
+                  ]
+            },
+            {
+                  "name": "Igreja Internacional da Graça de Deus- Cidade Nova",
+                  "text": "Az Isten Kegyelme Nemzetközi Egyházának egyik fiókja, amely spirituális szolgáltatásokat kínál a Cidade Nova negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -59.991643,
+                        -3.032884
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Assembleia de Deus",
+                  "text": "Egy helyi evangélikus egyház, amely rendszeres istentiszteleteket biztosít az Isten Gyülekezete számára.",
+                  "category": "religious",
+                  "coords": [
+                        -60.021231,
+                        -2.976917
+                  ]
+            },
+            {
+                  "name": "FEIRA DA SEPROR",
+                  "text": "Nyüzsgő helyi piac, ahol mezőgazdasági termékeket és az Amazonas régió áruit cserélik.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.028689,
+                        -2.996847
+                  ]
+            },
+            {
+                  "name": "Comercial Costa",
+                  "text": "Egy helyi kereskedelmi piac vagy vásárcsarnok, amely a környék mindennapi bevásárlási igényeit szolgálja ki.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.998366,
+                        -2.965611
+                  ]
+            },
+            {
+                  "name": "Feira do Produtor",
+                  "text": "Egy nyüzsgő termelői piac, ahol a helyi termelők friss regionális gyümölcsöket, zöldségeket és halat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.940408,
+                        -3.036172
+                  ]
+            },
+            {
+                  "name": "5 - Parque Estadual Sumaúma (OBRAC)",
+                  "text": "Ez az állami park a városi erdő egy védett foltját kínálja Manausban, amely óriási sumaúma fáiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.980369,
+                        -3.032716
+                  ]
+            },
+            {
+                  "name": "Salida",
+                  "text": "A helyi természeti parkok vagy rezervátumok egyikéhez tartozó hozzáférési pont vagy kijárati kapu.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.945853,
+                        -3.008351
+                  ]
+            },
+            {
+                  "name": "Reserva Ducke",
+                  "text": "Hatalmas kiterjedésű, elsődleges amazonasi esőerdő Manaus szélén, az ökológiai kutatásnak és megőrzésnek szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.932532,
+                        -2.961246
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Santo Expedito",
+                  "text": "Szent Expeditusnak szentelt környékbeli katolikus templom, amely szeretettel várja a helyi hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.987409,
+                        -3.045016
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "Helyi Isten Gyülekezete templom, amely evangéliumi istentiszteleteket kínál a környező közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.97856,
+                        -3.047984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "Ez a hetednapi adventista templom a buja Amazonas-medence hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.984782,
+                        -3.044288
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal Deus é Amor",
+                  "text": "Az „Isten a szeretet” pünkösdi templom a trópusi Amazonas régióban gyűjti össze gyülekezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.985654,
+                        -3.040805
+                  ]
+            },
+            {
+                  "name": "Igreja Católica",
+                  "text": "Egy katolikus templom, amely a nyüzsgő amazóniai környezetben kínál istentiszteleti helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.984344,
+                        -3.029709
+                  ]
+            },
+            {
+                  "name": "Nova Igreja Batista",
+                  "text": "Ez az Új Baptista gyülekezet egy keresztény találkozóhely az Amazonas folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.024364,
+                        -3.045125
+                  ]
+            },
+            {
+                  "name": "C.E.B.U.D.V. Núcleo Jardim do Norte",
+                  "text": "Egy keresztény központ Jardim do Nortéban, amely az Amazonas trópusi tájába illeszkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.018003,
+                        -2.987896
+                  ]
+            },
+            {
+                  "name": "Igreja Católica São Padre Pio",
+                  "text": "A Pio atyának szentelt katolikus plébánia a párás Amazonas-medence közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.02569,
+                        -2.95442
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus no Amazonas",
+                  "text": "Az Isten Gyülekezete közössége, amely lelki útmutatást nyújt a hatalmas Amazonas államban.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.994753,
+                        -2.96698
+                  ]
+            },
+            {
+                  "name": "Igreja Batista Novo Milênio",
+                  "text": "Az Új Évezred Baptista Gyülekezete a trópusi amazóniai környezetben várja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.989937,
+                        -2.974089
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Sagrado Coração",
+                  "text": "A Szent Szív katolikus templom az Amazonas folyó partjának közelében tartja istentiszteleteit.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.990788,
+                        -2.975964
+                  ]
+            },
+            {
+                  "name": "São Miguel Arcanjo",
+                  "text": "Egy trópusi folyómedencében található, Szent Mihály arkangyalnak szentelt keresztény istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.985699,
+                        -2.980892
+                  ]
+            },
+            {
+                  "name": "Pentecostal do Brasil",
+                  "text": "Egy brazil pünkösdi templom, amely mélyen gyökerezik az Amazonas trópusi helyi közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.991046,
+                        -2.982406
+                  ]
+            },
+            {
+                  "name": "Comunidade Católica São João Batista",
+                  "text": "A Keresztelő Szent János katolikus közösség a hívők központja az Amazonas-medencében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.988144,
+                        -3.014051
+                  ]
+            },
+            {
+                  "name": "Comunidade São Francisco de Assis",
+                  "text": "Egy Assisi Szent Ferencet tisztelő katolikus közösség az Amazonas esőerdeje közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.990691,
+                        -3.008575
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus da Aliança",
+                  "text": "A Szövetség Isten Gyülekezete keresztény istentiszteleti helyet biztosít a trópusi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.934076,
+                        -3.013958
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora de Fátima",
+                  "text": "Ez a Fatimai Szűzanyának szentelt katolikus templom a buja amazóniai táj híveit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.978511,
+                        -3.006305
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Maria Goreth",
+                  "text": "Ez a Goretti Szent Máriáról elnevezett katolikus templom az Amazonas folyó közelében gyűjti össze gyülekezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.937635,
+                        -3.04193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Exposição Peixe Gente",
+                  "text": "O expoziție muzeală unică în Manaus care explorează relația culturală și ecologică dintre comunitățile locale și peștii amazonieni.",
+                  "category": "museum",
+                  "coords": [
+                        -59.939742,
+                        -3.007314
+                  ]
+            },
+            {
+                  "name": "Casa das Serpentes",
+                  "text": "Această expoziție de muzeu specializată se concentrează asupra diverselor specii de șerpi originare din bazinul Amazonului.",
+                  "category": "museum",
+                  "coords": [
+                        -59.940869,
+                        -3.006761
+                  ]
+            },
+            {
+                  "name": "Estátua do Papa",
+                  "text": "Acest monument comemorativ onorează o vizită papală istorică printr-o statuie impunătoare a Papei.",
+                  "category": "historical",
+                  "coords": [
+                        -59.989913,
+                        -2.982639
+                  ]
+            },
+            {
+                  "name": "IDPB CIDADE NOVA",
+                  "text": "O biserică penticostală locală care oferă slujbe și părtășie comunitară în cartierul Cidade Nova.",
+                  "category": "religious",
+                  "coords": [
+                        -59.982157,
+                        -3.023497
+                  ]
+            },
+            {
+                  "name": "Ministério MCM",
+                  "text": "Un centru de slujire religioasă local dedicat învățăturii evanghelice și adunărilor congregației.",
+                  "category": "religious",
+                  "coords": [
+                        -59.990848,
+                        -3.009638
+                  ]
+            },
+            {
+                  "name": "Clubinho Bíblico",
+                  "text": "Un lăcaș de cult comunitar axat pe slujirea tinerilor și educația biblică.",
+                  "category": "religious",
+                  "coords": [
+                        -59.991846,
+                        -3.009252
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal Jesus na Galiléia",
+                  "text": "Un lăcaș de cult penticostal unde congregația locală se adună pentru slujbe pline de viață.",
+                  "category": "religious",
+                  "coords": [
+                        -59.968311,
+                        -3.045375
+                  ]
+            },
+            {
+                  "name": "Igreja Internacional da Graça de Deus- Cidade Nova",
+                  "text": "O ramură a Bisericii Internaționale a Harului lui Dumnezeu ce oferă servicii spirituale în cartierul Cidade Nova.",
+                  "category": "religious",
+                  "coords": [
+                        -59.991643,
+                        -3.032884
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Assembleia de Deus",
+                  "text": "O biserică evanghelică locală care oferă slujbe regulate pentru congregația Adunării lui Dumnezeu.",
+                  "category": "religious",
+                  "coords": [
+                        -60.021231,
+                        -2.976917
+                  ]
+            },
+            {
+                  "name": "FEIRA DA SEPROR",
+                  "text": "O piață locală plină de viață unde sunt comercializate produse agricole și mărfuri regionale din Amazon.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.028689,
+                        -2.996847
+                  ]
+            },
+            {
+                  "name": "Comercial Costa",
+                  "text": "O piață comercială locală sau o hală care deservește nevoile zilnice de cumpărături din cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.998366,
+                        -2.965611
+                  ]
+            },
+            {
+                  "name": "Feira do Produtor",
+                  "text": "O piață agricolă plină de viață unde cultivatorii locali vând fructe, legume și pește regional proaspăt.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.940408,
+                        -3.036172
+                  ]
+            },
+            {
+                  "name": "5 - Parque Estadual Sumaúma (OBRAC)",
+                  "text": "Acest parc de stat oferă o porțiune protejată de pădure urbană în Manaus, cunoscută pentru arborii săi giganți de sumaúma.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.980369,
+                        -3.032716
+                  ]
+            },
+            {
+                  "name": "Salida",
+                  "text": "Un punct de acces sau o poartă de ieșire asociată cu unul dintre parcurile sau rezervațiile naturale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.945853,
+                        -3.008351
+                  ]
+            },
+            {
+                  "name": "Reserva Ducke",
+                  "text": "O vastă întindere de pădure tropicală primară amazoniană la marginea orașului Manaus, dedicată cercetării și conservării ecologice.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.932532,
+                        -2.961246
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Santo Expedito",
+                  "text": "O biserică catolică de cartier dedicată Sfântului Expedit, care primește credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.987409,
+                        -3.045016
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "O biserică locală a Adunării lui Dumnezeu care oferă slujbe de închinare evanghelică pentru comunitatea din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.97856,
+                        -3.047984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "Această biserică adventistă de ziua a șaptea servește credincioșii din bazinul luxuriant al râului Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.984782,
+                        -3.044288
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal Deus é Amor",
+                  "text": "Biserica penticostală „Dumnezeu este Iubire” își adună congregația în regiunea tropicală a Amazonului.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.985654,
+                        -3.040805
+                  ]
+            },
+            {
+                  "name": "Igreja Católica",
+                  "text": "O biserică catolică care oferă un spațiu de cult înconjurat de mediul vibrant amazonian.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.984344,
+                        -3.029709
+                  ]
+            },
+            {
+                  "name": "Nova Igreja Batista",
+                  "text": "Această Nouă Biserică Baptistă este un loc de adunare creștin cuibărit lângă râul Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.024364,
+                        -3.045125
+                  ]
+            },
+            {
+                  "name": "C.E.B.U.D.V. Núcleo Jardim do Norte",
+                  "text": "Un centru creștin în Jardim do Norte, integrat în peisajul tropical al Amazonului.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.018003,
+                        -2.987896
+                  ]
+            },
+            {
+                  "name": "Igreja Católica São Padre Pio",
+                  "text": "Dedicată lui Padre Pio, această parohie catolică servește comunitatea din umedul bazin amazonian.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.02569,
+                        -2.95442
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus no Amazonas",
+                  "text": "O congregație a Adunării lui Dumnezeu care oferă îndrumare spirituală în vastul stat Amazonas.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.994753,
+                        -2.96698
+                  ]
+            },
+            {
+                  "name": "Igreja Batista Novo Milênio",
+                  "text": "Biserica Baptistă Noul Mileniu își întâmpină credincioșii în mediul său tropical amazonian.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.989937,
+                        -2.974089
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Sagrado Coração",
+                  "text": "Biserica catolică Inima Sacră oferă slujbe religioase lângă malurile râului Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.990788,
+                        -2.975964
+                  ]
+            },
+            {
+                  "name": "São Miguel Arcanjo",
+                  "text": "Un lăcaș de cult creștin dedicat Sfântului Arhanghel Mihail din bazinul tropical al râului.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.985699,
+                        -2.980892
+                  ]
+            },
+            {
+                  "name": "Pentecostal do Brasil",
+                  "text": "O biserică penticostală braziliană adânc înrădăcinată în comunitatea locală tropicală a Amazonului.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.991046,
+                        -2.982406
+                  ]
+            },
+            {
+                  "name": "Comunidade Católica São João Batista",
+                  "text": "Comunitatea catolică Sfântul Ioan Botezătorul este un punct central pentru credincioșii din bazinul Amazonului.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.988144,
+                        -3.014051
+                  ]
+            },
+            {
+                  "name": "Comunidade São Francisco de Assis",
+                  "text": "O comunitate catolică care îl onorează pe Sfântul Francisc de Assisi, situată lângă pădurea amazoniană.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.990691,
+                        -3.008575
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus da Aliança",
+                  "text": "Adunarea de Legământ a lui Dumnezeu oferă un loc de cult creștin în mediul tropical.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.934076,
+                        -3.013958
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora de Fátima",
+                  "text": "Această biserică catolică dedicată Maicii Domnului din Fatima deservește enoriașii din peisajul amazonian luxuriant.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.978511,
+                        -3.006305
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Maria Goreth",
+                  "text": "Numită după Sfânta Maria Goretti, această biserică catolică își adună congregația lângă râul Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.937635,
+                        -3.04193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Exposição Peixe Gente",
+                  "text": "A unique museum exhibition in Manaus that explores the cultural and ecological relationship between local communities and Amazonian fish.",
+                  "category": "museum",
+                  "coords": [
+                        -59.939742,
+                        -3.007314
+                  ]
+            },
+            {
+                  "name": "Casa das Serpentes",
+                  "text": "This specialized museum exhibit focuses on the diverse snake species indigenous to the Amazon basin.",
+                  "category": "museum",
+                  "coords": [
+                        -59.940869,
+                        -3.006761
+                  ]
+            },
+            {
+                  "name": "Estátua do Papa",
+                  "text": "This commemorative monument honors a historic papal visit with a towering statue of the Pope.",
+                  "category": "historical",
+                  "coords": [
+                        -59.989913,
+                        -2.982639
+                  ]
+            },
+            {
+                  "name": "IDPB CIDADE NOVA",
+                  "text": "A local Pentecostal church providing worship and community fellowship in the Cidade Nova district.",
+                  "category": "religious",
+                  "coords": [
+                        -59.982157,
+                        -3.023497
+                  ]
+            },
+            {
+                  "name": "Ministério MCM",
+                  "text": "A local religious ministry center dedicated to evangelical teaching and congregation gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -59.990848,
+                        -3.009638
+                  ]
+            },
+            {
+                  "name": "Clubinho Bíblico",
+                  "text": "A community place of worship focused on youth ministry and biblical education.",
+                  "category": "religious",
+                  "coords": [
+                        -59.991846,
+                        -3.009252
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal Jesus na Galiléia",
+                  "text": "A Pentecostal place of worship where the local congregation gathers for lively prayer services.",
+                  "category": "religious",
+                  "coords": [
+                        -59.968311,
+                        -3.045375
+                  ]
+            },
+            {
+                  "name": "Igreja Internacional da Graça de Deus- Cidade Nova",
+                  "text": "A branch of the International Church of God's Grace offering spiritual services in the Cidade Nova neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -59.991643,
+                        -3.032884
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Assembleia de Deus",
+                  "text": "A local evangelical church providing regular services for the Assembly of God congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -60.021231,
+                        -2.976917
+                  ]
+            },
+            {
+                  "name": "FEIRA DA SEPROR",
+                  "text": "A lively local marketplace where agricultural produce and regional goods from the Amazon are traded.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.028689,
+                        -2.996847
+                  ]
+            },
+            {
+                  "name": "Comercial Costa",
+                  "text": "A local commercial marketplace or market hall serving everyday shopping needs in the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.998366,
+                        -2.965611
+                  ]
+            },
+            {
+                  "name": "Feira do Produtor",
+                  "text": "A bustling farmers' marketplace where local growers sell fresh regional fruits, vegetables, and fish.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.940408,
+                        -3.036172
+                  ]
+            },
+            {
+                  "name": "5 - Parque Estadual Sumaúma (OBRAC)",
+                  "text": "This state park offers a protected patch of urban forest in Manaus, known for its giant sumaúma trees.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.980369,
+                        -3.032716
+                  ]
+            },
+            {
+                  "name": "Exit",
+                  "text": "An access point or exit gate associated with one of the local nature parks or reserves.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.945853,
+                        -3.008351
+                  ]
+            },
+            {
+                  "name": "Reserva Ducke",
+                  "text": "A vast expanse of primary Amazon rainforest on the edge of Manaus, dedicated to ecological research and preservation.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.932532,
+                        -2.961246
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Santo Expedito",
+                  "text": "A neighborhood Catholic church dedicated to Saint Expeditus, welcoming local worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.987409,
+                        -3.045016
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "A local Assembly of God church offering evangelical worship services for the surrounding community.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.97856,
+                        -3.047984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "This Seventh-day Adventist church serves the faithful within the lush Amazon River basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.984782,
+                        -3.044288
+                  ]
+            },
+            {
+                  "name": "Igreja Pentecostal Deus é Amor",
+                  "text": "The \"God is Love\" Pentecostal church gathers its congregation in the tropical Amazon region.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.985654,
+                        -3.040805
+                  ]
+            },
+            {
+                  "name": "Igreja Católica",
+                  "text": "A Catholic church offering a space of worship surrounded by the vibrant Amazonian environment.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.984344,
+                        -3.029709
+                  ]
+            },
+            {
+                  "name": "Nova Igreja Batista",
+                  "text": "This New Baptist church is a Christian gathering place nestled near the Amazon River.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.024364,
+                        -3.045125
+                  ]
+            },
+            {
+                  "name": "C.E.B.U.D.V. Núcleo Jardim do Norte",
+                  "text": "A Christian center in Jardim do Norte, integrated into the tropical landscape of the Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.018003,
+                        -2.987896
+                  ]
+            },
+            {
+                  "name": "Igreja Católica São Padre Pio",
+                  "text": "Dedicated to Padre Pio, this Catholic parish serves the community in the humid Amazon basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.02569,
+                        -2.95442
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus no Amazonas",
+                  "text": "An Assembly of God congregation providing spiritual guidance within the vast Amazonas state.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.994753,
+                        -2.96698
+                  ]
+            },
+            {
+                  "name": "Igreja Batista Novo Milênio",
+                  "text": "The New Millennium Baptist church welcomes worshippers in its tropical Amazonian setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.989937,
+                        -2.974089
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Sagrado Coração",
+                  "text": "The Sacred Heart Catholic church provides religious services near the banks of the Amazon River.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.990788,
+                        -2.975964
+                  ]
+            },
+            {
+                  "name": "São Miguel Arcanjo",
+                  "text": "A Christian place of worship dedicated to St. Michael the Archangel in the tropical river basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.985699,
+                        -2.980892
+                  ]
+            },
+            {
+                  "name": "Pentecostal do Brasil",
+                  "text": "A Brazilian Pentecostal church deeply rooted in the tropical local community of the Amazon.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.991046,
+                        -2.982406
+                  ]
+            },
+            {
+                  "name": "Comunidade Católica São João Batista",
+                  "text": "The St. John the Baptist Catholic community is a focal point for the faithful in the Amazon basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.988144,
+                        -3.014051
+                  ]
+            },
+            {
+                  "name": "Comunidade São Francisco de Assis",
+                  "text": "A Catholic community honoring St. Francis of Assisi, located near the Amazon rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.990691,
+                        -3.008575
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus da Aliança",
+                  "text": "The Covenant Assembly of God provides a place of Christian worship in the tropical environment.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.934076,
+                        -3.013958
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora de Fátima",
+                  "text": "This Catholic church devoted to Our Lady of Fatima serves parishioners in the lush Amazonian landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.978511,
+                        -3.006305
+                  ]
+            },
+            {
+                  "name": "Igreja Católica Maria Goreth",
+                  "text": "Named after Saint Maria Goretti, this Catholic church gathers its congregation near the Amazon River.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.937635,
+                        -3.04193
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BR-AM",
     coords: [-60.0, -3.0],
@@ -453,7 +1650,124 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Forme les chutes d'Iguaçu", "À la frontière avec l'Argentine", "Monument naturel célèbre"],
     }, image: "/poi-images/br-iguazu-river-nature-v2.webp"},
   {
-    id: "br-pico-da-neblina-nature-v2",
+    id: "br-pico-da-neblina-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Phelps",
+                  "text": "Ein markanter Berggipfel im Neblina-Massiv an der Grenze zwischen Brasilien und Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -66.004143,
+                        0.806577
+                  ]
+            },
+            {
+                  "name": "Pico 31 de Março",
+                  "text": "Ein hoher Berggipfel im Bergland von Guayana an der Grenze zwischen Brasilien und Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -66.006748,
+                        0.805063
+                  ]
+            },
+            {
+                  "name": "Pico da Neblina",
+                  "text": "Der höchste Berggipfel Brasiliens, der sich majestätisch im abgelegenen Bergland von Guayana erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -66.0075,
+                        0.8
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Phelps",
+                  "text": "Egy kiemelkedő hegycsúcs a Neblina-masszívumban, a brazil-venezuelai határon.",
+                  "category": "natural",
+                  "coords": [
+                        -66.004143,
+                        0.806577
+                  ]
+            },
+            {
+                  "name": "Pico 31 de Março",
+                  "text": "Magas hegycsúcs a guyanai pajzson, a Brazília és Venezuela közötti határon.",
+                  "category": "natural",
+                  "coords": [
+                        -66.006748,
+                        0.805063
+                  ]
+            },
+            {
+                  "name": "Pico da Neblina",
+                  "text": "Brazília legmagasabb hegycsúcsa, amely fenségesen magasodik a távoli guyanai hegyvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -66.0075,
+                        0.8
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Phelps",
+                  "text": "Un vârf montan proeminent situat în masivul Neblina, la granița dintre Brazilia și Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -66.004143,
+                        0.806577
+                  ]
+            },
+            {
+                  "name": "Pico 31 de Março",
+                  "text": "Un vârf montan înalt situat în Scutul Guianei, la granița dintre Brazilia și Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -66.006748,
+                        0.805063
+                  ]
+            },
+            {
+                  "name": "Pico da Neblina",
+                  "text": "Cel mai înalt vârf montan din Brazilia, care se înalță maiestuos în îndepărtatul Podiș al Guianei.",
+                  "category": "natural",
+                  "coords": [
+                        -66.0075,
+                        0.8
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Phelps",
+                  "text": "A prominent mountain peak located in the Neblina massif along the Brazil-Venezuela border.",
+                  "category": "natural",
+                  "coords": [
+                        -66.004143,
+                        0.806577
+                  ]
+            },
+            {
+                  "name": "Pico 31 de Março",
+                  "text": "A high mountain peak situated in the Guiana Shield on the border between Brazil and Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -66.006748,
+                        0.805063
+                  ]
+            },
+            {
+                  "name": "Pico da Neblina",
+                  "text": "The highest mountain peak in Brazil, towering majestically within the remote Guiana Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -66.0075,
+                        0.8
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BR-AM",
     coords: [-66.0, 0.8],
@@ -500,7 +1814,304 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Le plus haut sommet du Brésil, souvent brumeux, situé près de la frontière avec le Venezuela.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Lié à la vie quotidienne et à l'histoire du pays.", "Soumis à l'influence du climat majoritairement tropical du Brésil."],
     }, image: "/poi-images/br-pico-da-neblina-nature-v2.webp"},
   {
-    id: "br-pico-das-agulhas-negras-nature-v2",
+    id: "br-pico-das-agulhas-negras-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lagoa Azul",
+                  "text": "Ein kristallklarer See in der Hochgebirgslandschaft des Itatiaia-Nationalparks, umgeben von markanten Felsen.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.613718,
+                        -22.450857
+                  ]
+            },
+            {
+                  "name": "Pico das Agulhas Negras",
+                  "text": "Mit 2.791 Metern ist dies der höchste Gipfel im Bundesstaat Rio de Janeiro und berühmt für seine spitzen Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        -44.661545,
+                        -22.380238
+                  ]
+            },
+            {
+                  "name": "Pedra do Sino de Itatiaia",
+                  "text": "Ein markanter Gipfel im Itatiaia-Massiv, der für seine weite Aussicht über die Serra da Mantiqueira bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -44.662506,
+                        -22.371298
+                  ]
+            },
+            {
+                  "name": "Cachoeira Véu de Noiva",
+                  "text": "Ein malerischer, etwa 40 Meter hoher Wasserfall im Itatiaia-Nationalpark, der über eine steile Felswand stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.600228,
+                        -22.327049
+                  ]
+            },
+            {
+                  "name": "Cachoeira Poção",
+                  "text": "Dieser Wasserfall bietet ein tiefes, natürliches Becken, das ideal zum Schwimmen in den kühlen Bergwassern ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.605244,
+                        -22.326955
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Escorrega",
+                  "text": "Eine natürliche Felsrutsche, auf der Besucher sicher in ein erfrischendes Flussbecken gleiten können.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.614763,
+                        -22.330208
+                  ]
+            },
+            {
+                  "name": "Parque Nacional do Itatiaia",
+                  "text": "Brasiliens ältester Nationalpark (gegründet 1937) schützt die alpine Flora und markante Felsgipfel der Serra da Mantiqueira.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.578441,
+                        -22.33373
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "Ein ländliches Bethaus der Congregação Cristã, gelegen in der Nähe der bergigen Region von Itatiaia.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.741783,
+                        -22.425316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lagoa Azul",
+                  "text": "Kristálytiszta vizű tó az Itatiaia Nemzeti Park magashegyi táján, jellegzetes sziklák között.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.613718,
+                        -22.450857
+                  ]
+            },
+            {
+                  "name": "Pico das Agulhas Negras",
+                  "text": "Rio de Janeiro állam legmagasabb pontja (2791 m), amely nevét tűhegyes fekete sziklaformációiról kapta.",
+                  "category": "natural",
+                  "coords": [
+                        -44.661545,
+                        -22.380238
+                  ]
+            },
+            {
+                  "name": "Pedra do Sino de Itatiaia",
+                  "text": "Az Itatiaia-masszívum egyik meghatározó csúcsa, amelyről pazar kilátás nyílik a Mantiqueira-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -44.662506,
+                        -22.371298
+                  ]
+            },
+            {
+                  "name": "Cachoeira Véu de Noiva",
+                  "text": "Festői, körülbelül 40 méter magas vízesés az Itatiaia Nemzeti Parkban, amely egy meredek sziklafalon zúdul le.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.600228,
+                        -22.327049
+                  ]
+            },
+            {
+                  "name": "Cachoeira Poção",
+                  "text": "Mély vizű természetes medencével rendelkező vízesés, amely ideális a frissítő hegyi fürdőzésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.605244,
+                        -22.326955
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Escorrega",
+                  "text": "Természetes kőcsúszda, ahol a látogatók a sziklán lecsúszva csobbanhatnak egy frissítő medencébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.614763,
+                        -22.330208
+                  ]
+            },
+            {
+                  "name": "Parque Nacional do Itatiaia",
+                  "text": "Brazília legrégebbi nemzeti parkja (1937), amely az Atlanti-parti esőerdő és a Mantiqueira-hegység magashegyi növényvilágát őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.578441,
+                        -22.33373
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "A brazíliai Keresztény Gyülekezet vidéki imaháza az Itatiaia-hegység lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.741783,
+                        -22.425316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lagoa Azul",
+                  "text": "Un lac cu ape limpezi situat în peisajul alpin al Parcului Național Itatiaia, înconjurat de stânci proeminente.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.613718,
+                        -22.450857
+                  ]
+            },
+            {
+                  "name": "Pico das Agulhas Negras",
+                  "text": "Cel mai înalt vârf din statul Rio de Janeiro (2.791 m), faimos pentru formațiunile sale stâncoase ascuțite.",
+                  "category": "natural",
+                  "coords": [
+                        -44.661545,
+                        -22.380238
+                  ]
+            },
+            {
+                  "name": "Pedra do Sino de Itatiaia",
+                  "text": "Un vârf proeminent din masivul Itatiaia, cunoscut pentru panoramele vaste asupra munților Serra da Mantiqueira.",
+                  "category": "natural",
+                  "coords": [
+                        -44.662506,
+                        -22.371298
+                  ]
+            },
+            {
+                  "name": "Cachoeira Véu de Noiva",
+                  "text": "O cascadă pitorească de aproximativ 40 de metri înălțime din Parcul Național Itatiaia, ce cade peste un perete de stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.600228,
+                        -22.327049
+                  ]
+            },
+            {
+                  "name": "Cachoeira Poção",
+                  "text": "O cascadă ce oferă un bazin natural adânc, ideal pentru înot în apele reci de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.605244,
+                        -22.326955
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Escorrega",
+                  "text": "Un tobogan natural în stâncă, unde vizitatorii pot aluneca în siguranță într-un bazin revigorant al râului.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.614763,
+                        -22.330208
+                  ]
+            },
+            {
+                  "name": "Parque Nacional do Itatiaia",
+                  "text": "Cel mai vechi parc național din Brazilia (fondat în 1937), protejând flora alpină și vârfurile stâncoase ale munților Mantiqueira.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.578441,
+                        -22.33373
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "O casă de rugăciune rurală a Congregației Creștine, situată în apropierea regiunii muntoase Itatiaia.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.741783,
+                        -22.425316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lagoa Azul",
+                  "text": "A crystal-clear lagoon located in the high-altitude landscape of Itatiaia National Park, surrounded by rocky peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.613718,
+                        -22.450857
+                  ]
+            },
+            {
+                  "name": "Pico das Agulhas Negras",
+                  "text": "The highest point in Rio de Janeiro state at 2,791 meters, renowned for its jagged black rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        -44.661545,
+                        -22.380238
+                  ]
+            },
+            {
+                  "name": "Pedra do Sino de Itatiaia",
+                  "text": "A prominent peak in the Itatiaia massif, known for its sweeping views across the Serra da Mantiqueira mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -44.662506,
+                        -22.371298
+                  ]
+            },
+            {
+                  "name": "Cachoeira Véu de Noiva",
+                  "text": "A picturesque 40-meter-high waterfall in Itatiaia National Park, cascading down a steep rocky cliff face.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.600228,
+                        -22.327049
+                  ]
+            },
+            {
+                  "name": "Cachoeira Poção",
+                  "text": "A waterfall featuring a deep natural pool at its base, ideal for swimming in the cool mountain waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.605244,
+                        -22.326955
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Escorrega",
+                  "text": "A natural rock slide where visitors can glide down the smooth stone into a refreshing river pool.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.614763,
+                        -22.330208
+                  ]
+            },
+            {
+                  "name": "Parque Nacional do Itatiaia",
+                  "text": "Brazil's oldest national park (est. 1937), protecting alpine flora and the jagged peaks of the Serra da Mantiqueira.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.578441,
+                        -22.33373
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "A rural place of worship for the Christian Congregation, located near the mountainous region of Itatiaia.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.741783,
+                        -22.425316
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BR-RJ",
     coords: [-44.66, -22.38],
@@ -547,7 +2158,340 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Le plus haut sommet de l'État de Rio de Janeiro aux aiguilles de roche noire caractéristiques.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Lié à la vie quotidienne et à l'histoire du pays.", "Soumis à l'influence du climat majoritairement tropical du Brésil."],
     }, image: "/poi-images/br-pico-das-agulhas-negras-nature-v2.webp"},
   {
-    id: "br-mount-roraima-nature-v2",
+    id: "br-mount-roraima-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wei Assipu",
+                  "text": "Der Wei-Assipu-tepui ist ein markanter Tafelberg, der sich steil über die umgebende Savannen- und Regenwaldlandschaft erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -60.705034,
+                        5.218885
+                  ]
+            },
+            {
+                  "name": "Prow Viewpoint",
+                  "text": "Der Prow Viewpoint liegt am steilen Rand des Roraima-Tepui und eröffnet dramatische Blicke in die Tiefe.",
+                  "category": "natural",
+                  "coords": [
+                        -60.737541,
+                        5.24827
+                  ]
+            },
+            {
+                  "name": "Mirante Roraiminha",
+                  "text": "Vom Roraiminha Viewpoint aus können Wanderer die spektakuläre Felsformation des benachbarten kleineren Tafelbergs betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        -60.726335,
+                        5.209124
+                  ]
+            },
+            {
+                  "name": "La Fosa",
+                  "text": "La Fosa ist eine tiefe, mit Wasser gefüllte Doline auf dem Hochplateau des Mount Roraima, die von Klippen umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.744217,
+                        5.198899
+                  ]
+            },
+            {
+                  "name": "Roraima",
+                  "text": "Der Grenzstein Roraima auf dem Tafelberg markiert als Dreiländereck den genauen Punkt, an dem die Grenzen von Venezuela, Brasilien und Guyana zusammentreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.737554,
+                        5.201898
+                  ]
+            },
+            {
+                  "name": "Vale dos Cristais",
+                  "text": "Das Valley of Crystals ist ein von Quarzvorkommen geprägter Bereich auf dem Mount Roraima, wo unzählige kleine Kristalle am Boden liegen.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.734847,
+                        5.200582
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "Die Jacuzzi genannten, natürlichen Wasserbecken auf dem Mount Roraima besitzen einen sandigen Grund und kristallklares Wasser inmitten der Felsen.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.781282,
+                        5.174836
+                  ]
+            },
+            {
+                  "name": "El Elefante",
+                  "text": "El Elefante ist eine massive, durch Erosion geformte Felsformation auf dem Mount Roraima, die an die Gestalt eines Elefanten erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.747659,
+                        5.179582
+                  ]
+            },
+            {
+                  "name": "Gladys Lake",
+                  "text": "Der Gladys Lake ist ein kleiner See auf dem Hochplateau des Mount Roraima, benannt nach Arthur Conan Doyles fiktiver Figur in 'Die vergessene Welt'.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.734824,
+                        5.241381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wei Assipu",
+                  "text": "A Wei-Assipu-tepui egy jellegzetes táblahegy, amely meredeken emelkedik ki a környező szavanna- és esőerdő-tájból.",
+                  "category": "natural",
+                  "coords": [
+                        -60.705034,
+                        5.218885
+                  ]
+            },
+            {
+                  "name": "Prow Viewpoint",
+                  "text": "A Prow kilátópont a Roraima-tepui meredek peremén fekszik, és drámai mélységekbe nyújt bepillantást.",
+                  "category": "natural",
+                  "coords": [
+                        -60.737541,
+                        5.24827
+                  ]
+            },
+            {
+                  "name": "Mirante Roraiminha",
+                  "text": "A Roraiminha kilátópontról a túrázók megtekinthetik a szomszédos, kisebb táblahegy látványos sziklaalakzatát.",
+                  "category": "natural",
+                  "coords": [
+                        -60.726335,
+                        5.209124
+                  ]
+            },
+            {
+                  "name": "La Fosa",
+                  "text": "A La Fosa egy mély, vízzel teli víznyelő a Roraima-hegy fennsíkján, amelyet sziklák vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.744217,
+                        5.198899
+                  ]
+            },
+            {
+                  "name": "Roraima",
+                  "text": "A Roraima határkő a táblahegyen hármashatárként jelöli azt a pontos pontot, ahol Venezuela, Brazília és Guyana határai találkoznak.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.737554,
+                        5.201898
+                  ]
+            },
+            {
+                  "name": "Vale dos Cristais",
+                  "text": "A Valley of Crystals egy kvarclelőhelyek által meghatározott terület a Roraima-hegyen, ahol számtalan apró kristály hever a földön.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.734847,
+                        5.200582
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "A Roraima-hegy Jacuzzinak nevezett természetes medencéi homokos fenékkel és kristálytiszta vízzel rendelkeznek a sziklák között.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.781282,
+                        5.174836
+                  ]
+            },
+            {
+                  "name": "El Elefante",
+                  "text": "Az El Elefante egy masszív, erózió formálta sziklaalakzat a Roraima-hegyen, amely egy elefánt alakjára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.747659,
+                        5.179582
+                  ]
+            },
+            {
+                  "name": "Gladys Lake",
+                  "text": "A Gladys-tó egy kis tó a Roraima-hegy fennsíkján, amelyet Arthur Conan Doyle Az elveszett világ című regényének kitalált szereplőjéről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.734824,
+                        5.241381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wei Assipu",
+                  "text": "Wei-Assipu-tepui este un munte cu vârf plat distinctiv, care se ridică abrupt deasupra peisajului înconjurător de savană și pădure tropicală.",
+                  "category": "natural",
+                  "coords": [
+                        -60.705034,
+                        5.218885
+                  ]
+            },
+            {
+                  "name": "Prow Viewpoint",
+                  "text": "Punctul de belvedere Prow se află pe marginea abruptă a tepuiului Roraima, deschizând priveliști dramatice în adâncuri.",
+                  "category": "natural",
+                  "coords": [
+                        -60.737541,
+                        5.24827
+                  ]
+            },
+            {
+                  "name": "Mirante Roraiminha",
+                  "text": "Din punctul de belvedere Roraiminha, drumeții pot privi spectaculoasa formațiune stâncoasă a micului munte cu vârf plat învecinat.",
+                  "category": "natural",
+                  "coords": [
+                        -60.726335,
+                        5.209124
+                  ]
+            },
+            {
+                  "name": "La Fosa",
+                  "text": "La Fosa este o dolină adâncă, plină cu apă, pe platoul înalt al Muntelui Roraima, înconjurată de stânci.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.744217,
+                        5.198899
+                  ]
+            },
+            {
+                  "name": "Roraima",
+                  "text": "Piatra de hotar Roraima de pe muntele cu vârf plat marchează tripla frontieră unde se întâlnesc granițele Venezuelei, Braziliei și Guyanei.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.737554,
+                        5.201898
+                  ]
+            },
+            {
+                  "name": "Vale dos Cristais",
+                  "text": "Valley of Crystals este o zonă cu zăcăminte de cuarț pe Muntele Roraima, unde pe pământ se găsesc nenumărate cristale mici.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.734847,
+                        5.200582
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "Bazinele naturale de apă numite Jacuzzi de pe Muntele Roraima au un fund nisipos și apă cristalină în mijlocul stâncilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.781282,
+                        5.174836
+                  ]
+            },
+            {
+                  "name": "El Elefante",
+                  "text": "El Elefante este o formațiune stâncoasă masivă, modelată de eroziune, pe Muntele Roraima, care amintește de forma unui elefant.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.747659,
+                        5.179582
+                  ]
+            },
+            {
+                  "name": "Gladys Lake",
+                  "text": "Lacul Gladys este un mic lac pe platoul înalt al Muntelui Roraima, numit după personajul fictiv al lui Arthur Conan Doyle din Lumea pierdută.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.734824,
+                        5.241381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wei-Assipu-tepui",
+                  "text": "The Wei-Assipu-tepui is a distinctive flat-topped mountain rising abruptly above the surrounding savanna and rainforest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -60.705034,
+                        5.218885
+                  ]
+            },
+            {
+                  "name": "Prow Viewpoint",
+                  "text": "The Prow Viewpoint is situated on the steep edge of the Mount Roraima tepui, revealing dramatic views into the depths.",
+                  "category": "natural",
+                  "coords": [
+                        -60.737541,
+                        5.24827
+                  ]
+            },
+            {
+                  "name": "Roraiminha viewpoint",
+                  "text": "From the Roraiminha viewpoint, hikers can view the spectacular rock formation of the neighboring smaller flat-topped mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -60.726335,
+                        5.209124
+                  ]
+            },
+            {
+                  "name": "La Fosa",
+                  "text": "La Fosa is a deep, water-filled sinkhole on the high plateau of Mount Roraima, surrounded by cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.744217,
+                        5.198899
+                  ]
+            },
+            {
+                  "name": "Roraima",
+                  "text": "The Roraima boundary stone on the tepui marks the tripoint where the borders of Venezuela, Brazil, and Guyana meet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.737554,
+                        5.201898
+                  ]
+            },
+            {
+                  "name": "Valley of Crystals",
+                  "text": "The Valley of Crystals is an area characterized by quartz deposits on Mount Roraima, where countless small crystals lie on the ground.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.734847,
+                        5.200582
+                  ]
+            },
+            {
+                  "name": "Jacuzzi",
+                  "text": "The natural pools of water called Jacuzzi on Mount Roraima feature sandy bottoms and crystal-clear water set amidst the rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.781282,
+                        5.174836
+                  ]
+            },
+            {
+                  "name": "El Elefante",
+                  "text": "El Elefante is a massive, erosion-shaped rock formation on Mount Roraima that resembles the shape of an elephant.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.747659,
+                        5.179582
+                  ]
+            },
+            {
+                  "name": "Gladys Lake",
+                  "text": "Gladys Lake is a small lake on the high plateau of Mount Roraima, named after Arthur Conan Doyle's fictional character in The Lost World.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.734824,
+                        5.241381
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BR-RR",
     coords: [-60.73, 5.2],
@@ -595,7 +2539,520 @@ export const poiExtraBrazilNatureV2: POI[] = [
     }
   },
   {
-    id: "br-pico-da-bandeira-nature-v2",
+    id: "br-pico-da-bandeira-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vale Encantado",
+                  "text": "Eine üppige, malerische Bergtal-Attraktion, übersät mit natürlichen Felsenbecken und Wasserfällen.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.833061,
+                        -20.411663
+                  ]
+            },
+            {
+                  "name": "Pico do Cristal",
+                  "text": "Ein markanter Berggipfel im Caparaó-Nationalpark, der durch seine Quarzgesteinsformationen gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -41.811841,
+                        -20.444018
+                  ]
+            },
+            {
+                  "name": "Vale Verde",
+                  "text": "Eine grüne Bergattraktion mit kristallklaren Flussstromschnellen und natürlichen Schwimmlöchern.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.845963,
+                        -20.419951
+                  ]
+            },
+            {
+                  "name": "Cachoeira Bonita",
+                  "text": "Ein malerischer Wasserfall, der über die rauen, bewaldeten Berghänge in die Tiefe stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.836866,
+                        -20.407156
+                  ]
+            },
+            {
+                  "name": "Mirante do José Pedro (1820 m)",
+                  "text": "Ein hoch gelegener Aussichtspunkt, der von 1820 Metern Höhe aus weite Bergpanoramen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -41.840307,
+                        -20.402727
+                  ]
+            },
+            {
+                  "name": "Casa Queimada",
+                  "text": "Eine hochgelegene Bergattraktion, die als historisches Basislager für Gipfelbesteigungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.808734,
+                        -20.457948
+                  ]
+            },
+            {
+                  "name": "Pico da Bandeira",
+                  "text": "Brasiliens dritthöchster Berggipfel, der spektakuläre Sonnenaufgangsblicke über den Wolken bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -41.79582,
+                        -20.434925
+                  ]
+            },
+            {
+                  "name": "Vale da Pedra Roxa",
+                  "text": "Ein malerisches Bergtal, das für seine markanten purpurfarbenen Felsen und klaren Gewässer bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.726125,
+                        -20.405884
+                  ]
+            },
+            {
+                  "name": "Poço do Regino",
+                  "text": "Ein erfrischendes natürliches Flussbecken inmitten der felsigen, bewaldeten Berglandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.702944,
+                        -20.417667
+                  ]
+            },
+            {
+                  "name": "Cachoeira da Pedra Roxa",
+                  "text": "Ein wunderschöner Bergwasserfall, der über markante, violett getönte Felsformationen stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.70859,
+                        -20.412841
+                  ]
+            },
+            {
+                  "name": "Primeira Igreja Batista em Alto Caparaó",
+                  "text": "Die Erste Baptistenkirche, die der lokalen Gebirgszugangsgemeinde Alto Caparaó dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.867936,
+                        -20.439655
+                  ]
+            },
+            {
+                  "name": "Primeira Igreja Presbiteriana em Alto Caparaó",
+                  "text": "Die historische Erste Presbyterianische Kirche, die in der hochgelegenen Stadt nahe dem Nationalpark liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.868593,
+                        -20.434895
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora de Fátima",
+                  "text": "Eine traditionelle katholische Kirche, die Unserer Lieben Frau von Fátima in der Bergregion gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.844806,
+                        -20.356496
+                  ]
+            },
+            {
+                  "name": "Igreja de São João Batista",
+                  "text": "Diese dem Johannes dem Täufer geweihte christliche Kirche liegt in der Naturregion rund um den Pico da Bandeira.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.70413,
+                        -20.42272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vale Encantado",
+                  "text": "Buja, festői hegyvidéki völgy, amely természetes sziklamedencékkel és vízesésekkel van tele.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.833061,
+                        -20.411663
+                  ]
+            },
+            {
+                  "name": "Pico do Cristal",
+                  "text": "Feltűnő hegycsúcs a Caparaó Nemzeti Parkban, amelyet kvarcszikla-képződményei jellemeznek.",
+                  "category": "natural",
+                  "coords": [
+                        -41.811841,
+                        -20.444018
+                  ]
+            },
+            {
+                  "name": "Vale Verde",
+                  "text": "Zöldellő hegyvidéki látványosság, kristálytiszta folyami zuhatagokkal és természetes úszómedencékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.845963,
+                        -20.419951
+                  ]
+            },
+            {
+                  "name": "Cachoeira Bonita",
+                  "text": "Festői vízesés, amely a zord, erdős hegyoldalakon zuhan alá.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.836866,
+                        -20.407156
+                  ]
+            },
+            {
+                  "name": "Mirante do José Pedro (1820 m)",
+                  "text": "Magasan fekvő kilátó, amely 1820 méteres magasságból lenyűgöző hegyvidéki panorámát kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -41.840307,
+                        -20.402727
+                  ]
+            },
+            {
+                  "name": "Casa Queimada",
+                  "text": "Magasan fekvő hegyvidéki látványosság, amely történelmi táborhelyként szolgál a csúcsmászásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.808734,
+                        -20.457948
+                  ]
+            },
+            {
+                  "name": "Pico da Bandeira",
+                  "text": "Brazília harmadik legmagasabb hegycsúcsa, amely látványos napfelkeltét kínál a felhők felett.",
+                  "category": "natural",
+                  "coords": [
+                        -41.79582,
+                        -20.434925
+                  ]
+            },
+            {
+                  "name": "Vale da Pedra Roxa",
+                  "text": "Festői hegyvidéki völgy, amely jellegzetes lila árnyalatú szikláiról és tiszta vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.726125,
+                        -20.405884
+                  ]
+            },
+            {
+                  "name": "Poço do Regino",
+                  "text": "Frissítő természetes folyami medence a sziklás, erdős hegyvidéki tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.702944,
+                        -20.417667
+                  ]
+            },
+            {
+                  "name": "Cachoeira da Pedra Roxa",
+                  "text": "Gyönyörű hegyi vízesés, amely lenyűgöző, lila árnyalatú sziklaalakzatokon zuhan le.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.70859,
+                        -20.412841
+                  ]
+            },
+            {
+                  "name": "Primeira Igreja Batista em Alto Caparaó",
+                  "text": "Az Első Baptista Gyülekezet temploma, amely Alto Caparaó hegyvidéki bejárati közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.867936,
+                        -20.439655
+                  ]
+            },
+            {
+                  "name": "Primeira Igreja Presbiteriana em Alto Caparaó",
+                  "text": "A történelmi Első Presbiteriánus templom, amely a nemzeti park közelében lévő magaslati városban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.868593,
+                        -20.434895
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora de Fátima",
+                  "text": "A hegyvidéki régióban található, a Fátimai Szűzanyának szentelt hagyományos katolikus keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.844806,
+                        -20.356496
+                  ]
+            },
+            {
+                  "name": "Igreja de São João Batista",
+                  "text": "A Keresztelő Szent Jánosnak szentelt keresztény templom a Pico da Bandeira természetvédelmi terület közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.70413,
+                        -20.42272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vale Encantado",
+                  "text": "O vale de munte luxuriantă și pitorească, presărată cu bazine naturale din stâncă și cascade.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.833061,
+                        -20.411663
+                  ]
+            },
+            {
+                  "name": "Pico do Cristal",
+                  "text": "Un vârf de munte impresionant în Parcul Național Caparaó, caracterizat prin formațiunile sale de rocă de cuarț.",
+                  "category": "natural",
+                  "coords": [
+                        -41.811841,
+                        -20.444018
+                  ]
+            },
+            {
+                  "name": "Vale Verde",
+                  "text": "O atracție montană înverzită, cu râuri cu ape cristaline și bazine naturale de înot.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.845963,
+                        -20.419951
+                  ]
+            },
+            {
+                  "name": "Cachoeira Bonita",
+                  "text": "O cascadă pitorească care se prăvălește pe versanții muntoși abrupți și împăduriți.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.836866,
+                        -20.407156
+                  ]
+            },
+            {
+                  "name": "Mirante do José Pedro (1820 m)",
+                  "text": "Un punct de belvedere situat la mare altitudine, oferind panorame montane ample de la o altitudine de 1820 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        -41.840307,
+                        -20.402727
+                  ]
+            },
+            {
+                  "name": "Casa Queimada",
+                  "text": "O atracție montană la mare altitudine, care servește drept tabără istorică de bază pentru ascensiunile pe vârf.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.808734,
+                        -20.457948
+                  ]
+            },
+            {
+                  "name": "Pico da Bandeira",
+                  "text": "Al treilea cel mai înalt vârf muntos din Brazilia, oferind priveliști spectaculoase la răsărit, deasupra norilor.",
+                  "category": "natural",
+                  "coords": [
+                        -41.79582,
+                        -20.434925
+                  ]
+            },
+            {
+                  "name": "Vale da Pedra Roxa",
+                  "text": "O vale montană pitorească, cunoscută pentru rocile sale distinctive cu nuanțe mov și apele limpezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.726125,
+                        -20.405884
+                  ]
+            },
+            {
+                  "name": "Poço do Regino",
+                  "text": "Un bazin natural revigorant pe râu, situat în peisajul montan stâncos și împădurit.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.702944,
+                        -20.417667
+                  ]
+            },
+            {
+                  "name": "Cachoeira da Pedra Roxa",
+                  "text": "O cascadă frumoasă de munte care curge peste formațiuni de rocă uimitoare, cu nuanțe mov.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.70859,
+                        -20.412841
+                  ]
+            },
+            {
+                  "name": "Primeira Igreja Batista em Alto Caparaó",
+                  "text": "Prima Biserică Baptistă care deservește comunitatea locală de la porțile muntelui din Alto Caparaó.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.867936,
+                        -20.439655
+                  ]
+            },
+            {
+                  "name": "Primeira Igreja Presbiteriana em Alto Caparaó",
+                  "text": "Prima Biserică Presbiteriană istorică, situată în orașul de la mare altitudine de lângă parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.868593,
+                        -20.434895
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora de Fátima",
+                  "text": "O biserică creștină catolică tradițională închinată Fecioarei din Fátima în regiunea montană.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.844806,
+                        -20.356496
+                  ]
+            },
+            {
+                  "name": "Igreja de São João Batista",
+                  "text": "Această biserică creștină dedicată Sfântului Ioan Botezătorul se află în regiunea pitorească a rezervației naturale Pico da Bandeira.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.70413,
+                        -20.42272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vale Encantado",
+                  "text": "A lush, scenic mountain valley attraction dotted with natural rock pools and cascades.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.833061,
+                        -20.411663
+                  ]
+            },
+            {
+                  "name": "Pico do Cristal",
+                  "text": "A striking mountain peak in Caparaó National Park, characterized by its quartz rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        -41.811841,
+                        -20.444018
+                  ]
+            },
+            {
+                  "name": "Vale Verde",
+                  "text": "A verdant mountain attraction featuring crystal-clear river rapids and natural swimming holes.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.845963,
+                        -20.419951
+                  ]
+            },
+            {
+                  "name": "Cachoeira Bonita",
+                  "text": "A picturesque waterfall attraction cascading down the rugged, forested mountain slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.836866,
+                        -20.407156
+                  ]
+            },
+            {
+                  "name": "Mirante do José Pedro (1820 m)",
+                  "text": "A high-altitude scenic viewpoint offering sweeping mountain panoramas from an elevation of 1820 meters.",
+                  "category": "natural",
+                  "coords": [
+                        -41.840307,
+                        -20.402727
+                  ]
+            },
+            {
+                  "name": "Casa Queimada",
+                  "text": "A high-elevation mountain attraction that serves as a historic camping base for peak ascents.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.808734,
+                        -20.457948
+                  ]
+            },
+            {
+                  "name": "Pico da Bandeira",
+                  "text": "Brazil's third-highest mountain peak, offering spectacular sunrise views above the clouds.",
+                  "category": "natural",
+                  "coords": [
+                        -41.79582,
+                        -20.434925
+                  ]
+            },
+            {
+                  "name": "Vale da Pedra Roxa",
+                  "text": "A picturesque mountain valley known for its distinctive purple-hued rocks and clear waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.726125,
+                        -20.405884
+                  ]
+            },
+            {
+                  "name": "Poço do Regino",
+                  "text": "A refreshing natural river pool set within the rocky, forested mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.702944,
+                        -20.417667
+                  ]
+            },
+            {
+                  "name": "Cachoeira da Pedra Roxa",
+                  "text": "A beautiful mountain waterfall cascading over striking, purple-toned rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.70859,
+                        -20.412841
+                  ]
+            },
+            {
+                  "name": "Primeira Igreja Batista em Alto Caparaó",
+                  "text": "The First Baptist Church serving the local mountain gateway community of Alto Caparaó.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.867936,
+                        -20.439655
+                  ]
+            },
+            {
+                  "name": "Primeira Igreja Presbiteriana em Alto Caparaó",
+                  "text": "The historic First Presbyterian church located in the high-altitude town near the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.868593,
+                        -20.434895
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora de Fátima",
+                  "text": "A traditional Catholic Christian church dedicated to Our Lady of Fátima in the mountain region.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.844806,
+                        -20.356496
+                  ]
+            },
+            {
+                  "name": "Igreja de São João Batista",
+                  "text": "Dedicated to Saint John the Baptist, this Christian church is located in the scenic nature region of Pico da Bandeira.",
+                  "category": "landmark",
+                  "coords": [
+                        -41.70413,
+                        -20.42272
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BR-ES",
     coords: [-41.79, -20.43],
@@ -642,7 +3099,1240 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["La troisième plus haute montagne du Brésil, destination prisée pour le lever du soleil.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Lié à la vie quotidienne et à l'histoire du pays.", "Soumis à l'influence du climat majoritairement tropical du Brésil."],
     }, image: "/poi-images/br-pico-da-bandeira-nature-v2.webp"},
   {
-    id: "br-sugarloaf-mountain-nature-v2",
+    id: "br-sugarloaf-mountain-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "Dieses Museum befindet sich in einem eleganten neoklassizistischen Palast in Niterói und zeigt umfangreiche Sammlungen zur politischen Geschichte und Kunst des Bundesstaates.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Forte Tamandaré da Lage",
+                  "text": "Diese historische Marinefestung, die auf einer kleinen Felseninsel in der Guanabara-Bucht erbaut wurde, bewachte einst streng den maritimen Zugang zu Rio.",
+                  "category": "castle",
+                  "coords": [
+                        -43.146903,
+                        -22.934591
+                  ]
+            },
+            {
+                  "name": "Forte Duque de Caxias",
+                  "text": "Diese ehemalige militärische Befestigungsanlage liegt auf einem steilen Küstenhügel und fungiert heute als Museum mit weitem Blick auf den Atlantik.",
+                  "category": "museum",
+                  "coords": [
+                        -43.162156,
+                        -22.96322
+                  ]
+            },
+            {
+                  "name": "Museu de Ciências da Terra",
+                  "text": "Dieses spezialisierte Wissenschaftsmuseum beherbergt umfangreiche, gut erhaltene Sammlungen einzigartiger Mineralien, Meteoriten und faszinierender paläontologischer Fossilien.",
+                  "category": "museum",
+                  "coords": [
+                        -43.170396,
+                        -22.954041
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea",
+                  "text": "Dieses vom visionären Architekten Oscar Niemeyer entworfene, futuristische, untertassenförmige Museum auf einer Klippe ist eine weltweite Architekturikone.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Farol da Fortaleza de Santa Cruz",
+                  "text": "Dieser historische Leuchtturm zur Navigation ist nahtlos in die robusten Steinmauern einer großen Kolonialfestung aus dem 16. Jahrhundert integriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.134311,
+                        -22.937953
+                  ]
+            },
+            {
+                  "name": "Zuckerhut",
+                  "text": "Dieser ikonische monolithische Granitgipfel ragt dramatische 396 Meter über dem Hafen auf und ist durch eine berühmte gläserne Seilbahn erreichbar.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.156157,
+                        -22.949489
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "Diese lebendige lokale Sambaschule ist ein leidenschaftlicher Eckpfeiler von Niteróis reichen Karnevalstraditionen und der energiegeladenen Rhythmuskultur.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095535,
+                        -22.889758
+                  ]
+            },
+            {
+                  "name": "Morro Cara de Cão",
+                  "text": "Dieser strategisch günstig gelegene, felsige Gipfel bildet genau die Halbinsel, auf der die erste portugiesische Siedlung in Rio offiziell gegründet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -43.152924,
+                        -22.940689
+                  ]
+            },
+            {
+                  "name": "Morro da Babilônia",
+                  "text": "Dieser markante Küstenhügel ist sowohl für seine historischen militärischen Überreste als auch für die lebendigen, dichten Favela-Gemeinden an seinen steilen Hängen bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        -43.169802,
+                        -22.957394
+                  ]
+            },
+            {
+                  "name": "Praia do Sossego",
+                  "text": "Versteckt zwischen steilen Felsklippen bietet diese abgelegene, sandige Bucht einen friedlichen Rückzugsort in der Natur abseits der belebten Stadtstrände.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.069935,
+                        -22.958098
+                  ]
+            },
+            {
+                  "name": "Praia Vermelha",
+                  "text": "Dieser malerische, geschwungene Strand zeichnet sich durch seinen einzigartigen rötlichen Sand aus und liegt direkt am imposanten Fuß des Zuckerhuts.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.16465,
+                        -22.955268
+                  ]
+            },
+            {
+                  "name": "Aos Herois de Laguna e Dourados",
+                  "text": "Dieses imposante Granitdenkmal ehrt die tapferen brasilianischen Soldaten, die in den entscheidenden Feldzügen des Paraguay-Krieges kämpften und starben.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165878,
+                        -22.954947
+                  ]
+            },
+            {
+                  "name": "Morro do Macaco",
+                  "text": "Diese zerklüftete, mit dichter tropischer Vegetation bedeckte Graniterhebung trägt maßgeblich zu der dramatischen, hügeligen Topographie bei, die die Küstenlandschaft der Region prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -43.12294,
+                        -22.93306
+                  ]
+            },
+            {
+                  "name": "Morro da Urca",
+                  "text": "Dieser 220 Meter hohe Gipfel, der als wichtiger erster Halt auf der berühmten Seilbahnstrecke dient, bietet einen atemberaubenden Panoramablick auf die glitzernde Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        -43.163986,
+                        -22.95082
+                  ]
+            },
+            {
+                  "name": "Morro dos Urubus",
+                  "text": "Dieser dicht bewaldete, steile Gipfel ragt in der Nähe der zerklüfteten Küste abrupt auf und trägt direkt zur üppigen, bergigen, grünen Kulisse des umliegenden Stadtgebiets bei.",
+                  "category": "natural",
+                  "coords": [
+                        -43.162335,
+                        -22.959454
+                  ]
+            },
+            {
+                  "name": "Praia de Camboinhas",
+                  "text": "Dieser weitläufige, geschwungene Küstenabschnitt zeichnet sich durch besonders klares Wasser aus und ist in Niterói ein sehr beliebtes Wochenendziel zum Sonnenbaden und für aktive Wassersportarten.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.057778,
+                        -22.961944
+                  ]
+            },
+            {
+                  "name": "Praia de Fora",
+                  "text": "Dieser kleine, geschützte Sandstrand liegt genau am historischen befestigten Fuß der Festung São João und blickt direkt auf die schmale Mündung der Guanabara-Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.155702,
+                        -22.945184
+                  ]
+            },
+            {
+                  "name": "Praia da Urca",
+                  "text": "Dieser Sandstrand am Fuße des Zuckerhuts bietet ruhiges Wasser im Viertel Urca.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.16315,
+                        -22.948022
+                  ]
+            },
+            {
+                  "name": "Ponta do Imbuí",
+                  "text": "Diese historische Küstenverteidigungsanlage auf einer Felszunge bewacht die Einfahrt zur Bucht.",
+                  "category": "castle",
+                  "coords": [
+                        -43.113506,
+                        -22.95103
+                  ]
+            },
+            {
+                  "name": "Forte Barão do Rio Branco",
+                  "text": "Diese historische Militärfestung überblickt die Gewässer der Guanabara-Bucht und wurde zum Schutz der Küstenlinie errichtet.",
+                  "category": "castle",
+                  "coords": [
+                        -43.115929,
+                        -22.936998
+                  ]
+            },
+            {
+                  "name": "Centro Ecocultural Sueli Pontes",
+                  "text": "Dieses ökokulturelle Museum in der Nähe des Zuckerhuts bietet Ausstellungen, die dem lokalen Naturschutz gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        -43.089247,
+                        -22.948673
+                  ]
+            },
+            {
+                  "name": "Forte do Pico",
+                  "text": "Auf einem hohen Küstengipfel gelegen, dient dieses ehemalige Militärfort heute als Museum mit Panoramablick auf die Bucht.",
+                  "category": "museum",
+                  "coords": [
+                        -43.122656,
+                        -22.936554
+                  ]
+            },
+            {
+                  "name": "Forte São José",
+                  "text": "Diese historische Steinbefestigung am Ufer war Teil des Kreuzfeuer-Verteidigungssystems für die Bucht.",
+                  "category": "castle",
+                  "coords": [
+                        -43.151492,
+                        -22.94061
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "Umgeben von Küstengrün beherbergt dieses Kulturzentrum lokale Kunstausstellungen und Gemeindeveranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Cópia Pequena do Cristo Redentor do Rio de Janeiro",
+                  "text": "Diese verkleinerte Nachbildung der ikonischen Christus-Erlöser-Statue bietet die Möglichkeit, das Art-déco-Design aus der Nähe zu betrachten.",
+                  "category": "historical",
+                  "coords": [
+                        -43.079015,
+                        -22.952957
+                  ]
+            },
+            {
+                  "name": "Ruínas do Atalaia",
+                  "text": "Diese verwitterten Steinruinen sind die Überreste eines historischen Küstenwachturms, der einst einlaufende Schiffe überwachte.",
+                  "category": "historical",
+                  "coords": [
+                        -43.103301,
+                        -22.944402
+                  ]
+            },
+            {
+                  "name": "Casarão em Ruinas",
+                  "text": "Die von tropischer Vegetation überwachsenen, bröckelnden Mauern dieses Herrenhauses aus der Kolonialzeit bieten einen Einblick in die Vergangenheit der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -43.122005,
+                        -22.926324
+                  ]
+            },
+            {
+                  "name": "O segundo bondinho",
+                  "text": "Diese auf dem Berg ausgestellte historische Metallkabine diente als zweite Generation der Zuckerhut-Seilbahn.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165196,
+                        -22.951594
+                  ]
+            },
+            {
+                  "name": "Monumento Almirante Júlio Cesar de Noronha",
+                  "text": "Dieses Steindenkmal erinnert an Admiral Júlio Cesar de Noronha und spiegelt Brasiliens reiche Marinegeschichte an der Küste wider.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165215,
+                        -22.961948
+                  ]
+            },
+            {
+                  "name": "Mario de Andrade",
+                  "text": "Diese öffentliche Skulptur ist dem modernistischen Schriftsteller Mário de Andrade gewidmet und feiert seinen tiefgreifenden Einfluss auf die brasilianische Literatur.",
+                  "category": "historical",
+                  "coords": [
+                        -43.170193,
+                        -22.955105
+                  ]
+            },
+            {
+                  "name": "Chaminé de Botafogo",
+                  "text": "Dieser hohe Backsteinschornstein, der sich vor der Skyline der Stadt erhebt, ist ein industrielles Relikt einer historischen Küstenfabrik.",
+                  "category": "historical",
+                  "coords": [
+                        -43.173611,
+                        -22.955246
+                  ]
+            },
+            {
+                  "name": "Fortinho",
+                  "text": "Die Steinfundamente dieser kleinen Festungsruine überblicken die Einfahrt zur Bucht und zeugen von ihrer einstigen Verteidigungsfunktion.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130955,
+                        -22.910952
+                  ]
+            },
+            {
+                  "name": "Teatro Qorpo Santo",
+                  "text": "Dieser gemütliche Theatersaal an der Küste führt regelmäßig intime lokale Theaterproduktionen und kulturelle Aufführungen auf.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.17548,
+                        -22.953864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "A Niteróiban található elegáns neoklasszikus palotában helyet kapó múzeum az állam politikai történetével és művészetével kapcsolatos hatalmas gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Forte Tamandaré da Lage",
+                  "text": "A Guanabara-öböl egy kis, sziklás szigetén épült történelmi haditengerészeti erőd egykor szigorúan őrizte a Rio felé vezető tengeri bejáratot.",
+                  "category": "castle",
+                  "coords": [
+                        -43.146903,
+                        -22.934591
+                  ]
+            },
+            {
+                  "name": "Forte Duque de Caxias",
+                  "text": "Egy meredek tengerparti domb tetején található ez az egykori katonai erődítmény, amely ma múzeumként működik, és lenyűgöző kilátást nyújt az Atlanti-óceánra.",
+                  "category": "museum",
+                  "coords": [
+                        -43.162156,
+                        -22.96322
+                  ]
+            },
+            {
+                  "name": "Museu de Ciências da Terra",
+                  "text": "Ez a specializált tudományos múzeum egyedi ásványok, meteoritok és lenyűgöző őslénytani kövületek kiterjedt, jól megőrzött gyűjteményeinek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -43.170396,
+                        -22.954041
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea",
+                  "text": "A látnok építész, Oscar Niemeyer által tervezett futurisztikus, csészealj alakú, szikla szélén egyensúlyozó múzeum egy globális építészeti ikon.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Farol da Fortaleza de Santa Cruz",
+                  "text": "Ez a történelmi navigációs világítótorony zökkenőmentesen illeszkedik egy nagy 16. századi gyarmati erőd robusztus kőfalaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.134311,
+                        -22.937953
+                  ]
+            },
+            {
+                  "name": "Pão de Açúcar",
+                  "text": "A kikötő fölé drámaian 396 méterre magasodó ikonikus gránit monolit csúcs egy híres üvegfalú felvonóval közelíthető meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.156157,
+                        -22.949489
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "Ez a vibráló helyi szambaiskola Niterói gazdag karneváli hagyományainak és energikus ritmuskultúrájának szenvedélyes alapköve.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095535,
+                        -22.889758
+                  ]
+            },
+            {
+                  "name": "Morro Cara de Cão",
+                  "text": "Ez a stratégiai elhelyezkedésű sziklás csúcs alkotja azt a félszigetet, ahol Rio első portugál települését hivatalosan megalapították.",
+                  "category": "natural",
+                  "coords": [
+                        -43.152924,
+                        -22.940689
+                  ]
+            },
+            {
+                  "name": "Morro da Babilônia",
+                  "text": "Ez a kiemelkedő tengerparti domb egyaránt figyelemre méltó történelmi katonai maradványairól és a meredek lejtőin kapaszkodó élénk, sűrű favela közösségekről.",
+                  "category": "natural",
+                  "coords": [
+                        -43.169802,
+                        -22.957394
+                  ]
+            },
+            {
+                  "name": "Praia do Sossego",
+                  "text": "A meredek sziklaszirtok között diszkréten megbúvó eldugott, homokos öböl békés természeti menedéket kínál a nyüzsgő városi strandok elől.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.069935,
+                        -22.958098
+                  ]
+            },
+            {
+                  "name": "Praia Vermelha",
+                  "text": "Az egyedülálló, vöröses árnyalatú homokjáról ismert festői, ívelt strand közvetlenül a Cukorsüveg-hegy impozáns lábánál fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.16465,
+                        -22.955268
+                  ]
+            },
+            {
+                  "name": "Aos Herois de Laguna e Dourados",
+                  "text": "Ez az impozáns gránit emlékmű a paraguayi háború sorsdöntő hadjárataiban harcoló és hősi halált halt bátor brazil katonáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165878,
+                        -22.954947
+                  ]
+            },
+            {
+                  "name": "Morro do Macaco",
+                  "text": "Ez a sűrű trópusi növényzettel borított zord gránitkiemelkedés jelentősen hozzájárul a régió tengerparti táját meghatározó drámai, dombos domborzathoz.",
+                  "category": "natural",
+                  "coords": [
+                        -43.12294,
+                        -22.93306
+                  ]
+            },
+            {
+                  "name": "Morro da Urca",
+                  "text": "A híres drótkötélpálya kulcsfontosságú első állomásaként szolgáló 220 méteres csúcsról lenyűgöző, köztes panoráma nyílik a csillogó öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -43.163986,
+                        -22.95082
+                  ]
+            },
+            {
+                  "name": "Morro dos Urubus",
+                  "text": "Ez a sűrűn erdősült, meredek hegycsúcs hirtelen emelkedik a zord partvonal közelében, közvetlenül hozzájárulva a környező városi terület buja, hegyvidéki zöld hátteréhez.",
+                  "category": "natural",
+                  "coords": [
+                        -43.162335,
+                        -22.959454
+                  ]
+            },
+            {
+                  "name": "Praia de Camboinhas",
+                  "text": "Ez a kiterjedt, ívelt partszakasz figyelemre méltóan tiszta vízzel rendelkezik, és Niteróiban rendkívül népszerű hétvégi célpont a napozás és az aktív vízi sportok kedvelői körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.057778,
+                        -22.961944
+                  ]
+            },
+            {
+                  "name": "Praia de Fora",
+                  "text": "Pontosan a São João erőd történelmi, megerősített tövében található ez a kis, védett homokos strand, amely közvetlenül a Guanabara-öböl szűk torkolatára néz.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.155702,
+                        -22.945184
+                  ]
+            },
+            {
+                  "name": "Praia da Urca",
+                  "text": "Ez a Cukorsüveg-hegy lábánál fekvő homokos strand nyugodt vizeket kínál az Urca negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.16315,
+                        -22.948022
+                  ]
+            },
+            {
+                  "name": "Ponta do Imbuí",
+                  "text": "A sziklás fokon elhelyezkedő történelmi partvédelmi építmény az öböl bejáratát őrzi.",
+                  "category": "castle",
+                  "coords": [
+                        -43.113506,
+                        -22.95103
+                  ]
+            },
+            {
+                  "name": "Forte Barão do Rio Branco",
+                  "text": "A Guanabara-öböl vizeire néző történelmi katonai erődöt a partvonal védelmére hozták létre.",
+                  "category": "castle",
+                  "coords": [
+                        -43.115929,
+                        -22.936998
+                  ]
+            },
+            {
+                  "name": "Centro Ecocultural Sueli Pontes",
+                  "text": "Ez a Cukorsüveg-hegy közelében található ökokulturális múzeum a helyi környezetvédelemnek szentelt kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -43.089247,
+                        -22.948673
+                  ]
+            },
+            {
+                  "name": "Forte do Pico",
+                  "text": "Egy magas tengerparti csúcson elhelyezkedő egykori katonai erőd ma múzeumként működik, ahonnan panorámás kilátás nyílik az öbölre.",
+                  "category": "museum",
+                  "coords": [
+                        -43.122656,
+                        -22.936554
+                  ]
+            },
+            {
+                  "name": "Forte São José",
+                  "text": "A part mentén megbúvó történelmi kőerődítmény az öböl kereszttűzvédelmi rendszerének része volt.",
+                  "category": "castle",
+                  "coords": [
+                        -43.151492,
+                        -22.94061
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "A tengerparti növényzettel körülvett kulturális központ helyi művészeti kiállításoknak és közösségi eseményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Cópia Pequena do Cristo Redentor do Rio de Janeiro",
+                  "text": "Az ikonikus Megváltó Krisztus szobor ezen kicsinyített másolata lehetővé teszi az art deco dizájn közelebbi megcsodálását.",
+                  "category": "historical",
+                  "coords": [
+                        -43.079015,
+                        -22.952957
+                  ]
+            },
+            {
+                  "name": "Ruínas do Atalaia",
+                  "text": "Ezek a viharvert kőromok egy történelmi parti őrtorony maradványai, amely egykor az érkező hajókat figyelte.",
+                  "category": "historical",
+                  "coords": [
+                        -43.103301,
+                        -22.944402
+                  ]
+            },
+            {
+                  "name": "Casarão em Ruinas",
+                  "text": "A trópusi növényzettel benőtt gyarmati kori kúria omladozó falai bepillantást engednek a régió múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        -43.122005,
+                        -22.926324
+                  ]
+            },
+            {
+                  "name": "O segundo bondinho",
+                  "text": "A hegyen kiállított évjáratú fémkabin a Cukorsüveg-hegyi kötélpálya-rendszer második generációjaként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165196,
+                        -22.951594
+                  ]
+            },
+            {
+                  "name": "Monumento Almirante Júlio Cesar de Noronha",
+                  "text": "Ez a kőemlékmű Júlio Cesar de Noronha admirálisnak állít emléket, tükrözve Brazília gazdag tengerészeti múltját a partok mentén.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165215,
+                        -22.961948
+                  ]
+            },
+            {
+                  "name": "Mario de Andrade",
+                  "text": "A modernista írónak, Mário de Andradénak szentelt köztéri szobor a brazil irodalomra gyakorolt mélyreható hatását ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -43.170193,
+                        -22.955105
+                  ]
+            },
+            {
+                  "name": "Chaminé de Botafogo",
+                  "text": "A város látképéből kiemelkedő magas téglakémény egy történelmi tengerparti gyár ipari emléke.",
+                  "category": "historical",
+                  "coords": [
+                        -43.173611,
+                        -22.955246
+                  ]
+            },
+            {
+                  "name": "Fortinho",
+                  "text": "A kis romos erődítmény kőalapjai az öböl bejáratára néznek, felfedve egykori védelmi szerepét.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130955,
+                        -22.910952
+                  ]
+            },
+            {
+                  "name": "Teatro Qorpo Santo",
+                  "text": "Ez a hangulatos tengerparti színházi helyszín rendszeresen ad otthont intim helyi drámai produkcióknak és kulturális előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.17548,
+                        -22.953864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "Găzduit într-un palat neoclasic elegant din Niterói, acest muzeu expune colecții vaste legate de istoria politică și artele statului.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Forte Tamandaré da Lage",
+                  "text": "Construit pe o mică insulă stâncoasă din Golful Guanabara, acest fort naval istoric a păzit odată cu strășnicie intrarea maritimă către Rio.",
+                  "category": "castle",
+                  "coords": [
+                        -43.146903,
+                        -22.934591
+                  ]
+            },
+            {
+                  "name": "Forte Duque de Caxias",
+                  "text": "Situată în vârful unui deal de coastă abrupt, această fostă fortificație militară funcționează acum ca un muzeu care oferă vederi panoramice ale Atlanticului.",
+                  "category": "museum",
+                  "coords": [
+                        -43.162156,
+                        -22.96322
+                  ]
+            },
+            {
+                  "name": "Museu de Ciências da Terra",
+                  "text": "Acest muzeu științific specializat adăpostește colecții extinse și bine conservate de minerale unice, meteoriți și fosile paleontologice fascinante.",
+                  "category": "museum",
+                  "coords": [
+                        -43.170396,
+                        -22.954041
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea",
+                  "text": "Proiectat de arhitectul vizionar Oscar Niemeyer, acest muzeu futurist, în formă de farfurie, așezat grațios pe marginea unei stânci, este o icoană arhitecturală globală.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Farol da Fortaleza de Santa Cruz",
+                  "text": "Acest far istoric de navigație este integrat perfect în pereții robuști de piatră ai unei importante fortărețe coloniale din secolul al XVI-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.134311,
+                        -22.937953
+                  ]
+            },
+            {
+                  "name": "Pão de Açúcar",
+                  "text": "Ridicându-se spectaculos la 396 de metri deasupra portului, acest vârf monolitic de granit iconic este faimos pentru accesul cu telecabina cu pereți de sticlă.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.156157,
+                        -22.949489
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "Această școală de samba locală vibrantă este o piatră de temelie pasională a bogatelor tradiții de carnaval și a culturii ritmice energice din Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095535,
+                        -22.889758
+                  ]
+            },
+            {
+                  "name": "Morro Cara de Cão",
+                  "text": "Acest vârf stâncos, situat strategic, formează chiar peninsula unde a fost stabilită oficial așezarea portugheză inițială a orașului Rio.",
+                  "category": "natural",
+                  "coords": [
+                        -43.152924,
+                        -22.940689
+                  ]
+            },
+            {
+                  "name": "Morro da Babilônia",
+                  "text": "Acest deal proeminent de coastă este notabil atât pentru rămășițele sale militare istorice, cât și pentru comunitățile dense și pline de viață din favelele agățate de pantele sale abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        -43.169802,
+                        -22.957394
+                  ]
+            },
+            {
+                  "name": "Praia do Sossego",
+                  "text": "Ascuns discret între stânci abrupte, acest golf izolat, cu nisip, oferă o retragere pașnică în natură de la plajele aglomerate ale orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.069935,
+                        -22.958098
+                  ]
+            },
+            {
+                  "name": "Praia Vermelha",
+                  "text": "Caracterizată prin nisipul său unic cu tentă roșiatică, această plajă pitorească, curbată, se află chiar la baza impunătoare a Muntelui Căpățâna de Zahăr.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.16465,
+                        -22.955268
+                  ]
+            },
+            {
+                  "name": "Aos Herois de Laguna e Dourados",
+                  "text": "Acest impozant memorial de granit onorează curajoșii soldați brazilieni care au luptat și au pierit în campaniile esențiale ale Războiului Paraguayan.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165878,
+                        -22.954947
+                  ]
+            },
+            {
+                  "name": "Morro do Macaco",
+                  "text": "Această elevație robustă de granit, acoperită de vegetație tropicală densă, contribuie semnificativ la topografia dramatică și deluroasă care definește peisajul de coastă al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -43.12294,
+                        -22.93306
+                  ]
+            },
+            {
+                  "name": "Morro da Urca",
+                  "text": "Servind ca primă oprire critică pe faimosul traseu al telecabinei, acest vârf de 220 de metri oferă o vedere panoramică intermediară uimitoare a golfului strălucitor.",
+                  "category": "natural",
+                  "coords": [
+                        -43.163986,
+                        -22.95082
+                  ]
+            },
+            {
+                  "name": "Morro dos Urubus",
+                  "text": "Acest vârf abrupt, dens împădurit, se înalță brusc în apropierea coastei stâncoase, adăugând direct la fundalul verde, muntos și luxuriant al zonei urbane înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -43.162335,
+                        -22.959454
+                  ]
+            },
+            {
+                  "name": "Praia de Camboinhas",
+                  "text": "Această întindere vastă și curbată a coastei are ape deosebit de limpezi și este o destinație de weekend foarte populară pentru plajă și sporturi nautice active în Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.057778,
+                        -22.961944
+                  ]
+            },
+            {
+                  "name": "Praia de Fora",
+                  "text": "Situată exact la baza fortificată istorică a Fortăreței São João, această plajă mică de nisip, adăpostită, are vedere directă la gura îngustă a Golfului Guanabara.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.155702,
+                        -22.945184
+                  ]
+            },
+            {
+                  "name": "Praia da Urca",
+                  "text": "Situată la baza Muntelui Căpățâna de Zahăr, această plajă cu nisip oferă ape calme în cartierul Urca.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.16315,
+                        -22.948022
+                  ]
+            },
+            {
+                  "name": "Ponta do Imbuí",
+                  "text": "Poziționată pe un promontoriu stâncos cu vedere la golf, această structură istorică de apărare a coastei păzește intrarea în port.",
+                  "category": "castle",
+                  "coords": [
+                        -43.113506,
+                        -22.95103
+                  ]
+            },
+            {
+                  "name": "Forte Barão do Rio Branco",
+                  "text": "Având vedere la apele Golfului Guanabara, acest fort militar istoric a fost înființat pentru a proteja coasta.",
+                  "category": "castle",
+                  "coords": [
+                        -43.115929,
+                        -22.936998
+                  ]
+            },
+            {
+                  "name": "Centro Ecocultural Sueli Pontes",
+                  "text": "Acest muzeu eco-cultural din apropierea Muntelui Căpățâna de Zahăr prezintă expoziții dedicate conservării mediului local.",
+                  "category": "museum",
+                  "coords": [
+                        -43.089247,
+                        -22.948673
+                  ]
+            },
+            {
+                  "name": "Forte do Pico",
+                  "text": "Situat în vârful unui vârf de coastă înalt, acest fost fort militar servește acum ca muzeu cu vedere panoramică la golf.",
+                  "category": "museum",
+                  "coords": [
+                        -43.122656,
+                        -22.936554
+                  ]
+            },
+            {
+                  "name": "Forte São José",
+                  "text": "Amplasată de-a lungul coastei, această fortificație istorică de piatră a făcut parte din sistemul de apărare în foc încrucișat al golfului.",
+                  "category": "castle",
+                  "coords": [
+                        -43.151492,
+                        -22.94061
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "Înconjurat de verdeață de coastă, acest centru cultural găzduiește expoziții de artă locală și evenimente comunitare.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Cópia Pequena do Cristo Redentor do Rio de Janeiro",
+                  "text": "Această replică la scară redusă a emblematicei statui Hristos Mântuitorul oferă o apreciere îndeaproape a designului său Art Deco.",
+                  "category": "historical",
+                  "coords": [
+                        -43.079015,
+                        -22.952957
+                  ]
+            },
+            {
+                  "name": "Ruínas do Atalaia",
+                  "text": "Aceste ruine de piatră erodate sunt rămășițele unui turn de veghe istoric de coastă care monitoriza cândva navele care soseau.",
+                  "category": "historical",
+                  "coords": [
+                        -43.103301,
+                        -22.944402
+                  ]
+            },
+            {
+                  "name": "Casarão em Ruinas",
+                  "text": "Acoperiți de vegetație tropicală, pereții prăbușiți ai acestui conac din epoca colonială oferă o privire în trecutul regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -43.122005,
+                        -22.926324
+                  ]
+            },
+            {
+                  "name": "O segundo bondinho",
+                  "text": "Expusă pe munte, această cabină metalică de epocă a servit drept a doua generație a sistemului de telecabină Căpățâna de Zahăr.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165196,
+                        -22.951594
+                  ]
+            },
+            {
+                  "name": "Monumento Almirante Júlio Cesar de Noronha",
+                  "text": "Acest monument de piatră îl comemorează pe amiralul Júlio Cesar de Noronha, reflectând istoria navală bogată a Braziliei de-a lungul coastei.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165215,
+                        -22.961948
+                  ]
+            },
+            {
+                  "name": "Mario de Andrade",
+                  "text": "Dedicată scriitorului modernist Mário de Andrade, această sculptură publică celebrează influența sa profundă asupra literaturii braziliene.",
+                  "category": "historical",
+                  "coords": [
+                        -43.170193,
+                        -22.955105
+                  ]
+            },
+            {
+                  "name": "Chaminé de Botafogo",
+                  "text": "Ridicându-se pe orizontul orașului, acest coș de fum înalt din cărămidă este o relicvă industrială rămasă de la o fabrică istorică de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -43.173611,
+                        -22.955246
+                  ]
+            },
+            {
+                  "name": "Fortinho",
+                  "text": "Fundațiile de piatră ale acestei mici fortificații ruinate au vedere la intrarea în golf, dezvăluind rolul său defensiv din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130955,
+                        -22.910952
+                  ]
+            },
+            {
+                  "name": "Teatro Qorpo Santo",
+                  "text": "Această sală de teatru de coastă intimă pune în scenă în mod regulat producții dramatice locale și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.17548,
+                        -22.953864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "Set in an elegant Neoclassical palace in Niterói, this museum displays vast collections related to the state's political history and arts.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Forte Tamandaré da Lage",
+                  "text": "Constructed on a small, rocky islet in Guanabara Bay, this historic naval fort once heavily guarded the maritime entrance to Rio.",
+                  "category": "castle",
+                  "coords": [
+                        -43.146903,
+                        -22.934591
+                  ]
+            },
+            {
+                  "name": "Forte Duque de Caxias",
+                  "text": "Situated atop a steep coastal hill, this former military fortification now operates as a museum offering sweeping views of the Atlantic.",
+                  "category": "museum",
+                  "coords": [
+                        -43.162156,
+                        -22.96322
+                  ]
+            },
+            {
+                  "name": "Earth Science Museum",
+                  "text": "This specialized scientific museum houses extensive, well-preserved collections of unique minerals, meteorites, and fascinating paleontological fossils.",
+                  "category": "museum",
+                  "coords": [
+                        -43.170396,
+                        -22.954041
+                  ]
+            },
+            {
+                  "name": "Niterói Contemporary Art Museum",
+                  "text": "Designed by visionary architect Oscar Niemeyer, this futuristic, saucer-shaped museum perched gracefully on a cliff edge is a global architectural icon.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Farol da Fortaleza de Santa Cruz",
+                  "text": "This historic navigational lighthouse is seamlessly integrated into the robust stone walls of a major 16th-century colonial fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.134311,
+                        -22.937953
+                  ]
+            },
+            {
+                  "name": "Sugarloaf",
+                  "text": "Rising dramatically 396 meters above the harbor, this iconic granite monolithic peak is famously accessible by a glass-walled cable car.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.156157,
+                        -22.949489
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "This vibrant local samba school is a passionate cornerstone of Niterói's rich carnival traditions and energetic rhythmic culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095535,
+                        -22.889758
+                  ]
+            },
+            {
+                  "name": "Morro Cara de Cão",
+                  "text": "This strategically located, rocky peak forms the very peninsula where the initial Portuguese settlement of Rio was formally established.",
+                  "category": "natural",
+                  "coords": [
+                        -43.152924,
+                        -22.940689
+                  ]
+            },
+            {
+                  "name": "Morro da Babilônia",
+                  "text": "This prominent coastal hill is notable both for its historic military remnants and the lively, dense favela communities clinging to its steep slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -43.169802,
+                        -22.957394
+                  ]
+            },
+            {
+                  "name": "Praia do Sossego",
+                  "text": "Tucked away discreetly between steep rocky cliffs, this secluded, sandy cove offers a peaceful nature retreat from the bustling city beaches.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.069935,
+                        -22.958098
+                  ]
+            },
+            {
+                  "name": "Praia Vermelha",
+                  "text": "Characterized by its unique reddish-tinted sand, this picturesque, curving beach sits directly at the imposing base of Sugarloaf Mountain.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.16465,
+                        -22.955268
+                  ]
+            },
+            {
+                  "name": "Aos Herois de Laguna e Dourados",
+                  "text": "This imposing granite memorial honors the valiant Brazilian soldiers who fought and perished in the pivotal campaigns of the Paraguayan War.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165878,
+                        -22.954947
+                  ]
+            },
+            {
+                  "name": "Morro do Macaco",
+                  "text": "This rugged granite elevation, covered in dense tropical vegetation, contributes significantly to the dramatic, hilly topography that defines the region's coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -43.12294,
+                        -22.93306
+                  ]
+            },
+            {
+                  "name": "Urca Hill",
+                  "text": "Serving as the critical first stop on the famous aerial cable car route, this 220-meter peak provides a stunning, intermediate panoramic view of the sparkling bay.",
+                  "category": "natural",
+                  "coords": [
+                        -43.163986,
+                        -22.95082
+                  ]
+            },
+            {
+                  "name": "Morro dos Urubus",
+                  "text": "This densely forested, steep peak rises abruptly near the rugged coastline, directly adding to the lush, mountainous green backdrop of the surrounding urban area.",
+                  "category": "natural",
+                  "coords": [
+                        -43.162335,
+                        -22.959454
+                  ]
+            },
+            {
+                  "name": "Praia de Camboinhas",
+                  "text": "This expansive, curving stretch of coastline features notably clear waters and is a highly popular weekend destination for sunbathing and active water sports in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.057778,
+                        -22.961944
+                  ]
+            },
+            {
+                  "name": "Praia de Fora",
+                  "text": "Located precisely at the historic fortified base of the São João Fortress, this small, sheltered sandy beach directly overlooks the narrow mouth of Guanabara Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.155702,
+                        -22.945184
+                  ]
+            },
+            {
+                  "name": "Urca Beach",
+                  "text": "Located at the base of Sugarloaf Mountain, this sandy beach offers calm waters in the Urca neighborhood.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.16315,
+                        -22.948022
+                  ]
+            },
+            {
+                  "name": "Ponta do Imbuí",
+                  "text": "Positioned on a rocky point overlooking the bay, this historic coastal defense structure guards the entrance to the harbor.",
+                  "category": "castle",
+                  "coords": [
+                        -43.113506,
+                        -22.95103
+                  ]
+            },
+            {
+                  "name": "Forte Barão do Rio Branco",
+                  "text": "Overlooking the waters of Guanabara Bay, this historical military fort was established to protect the coastline.",
+                  "category": "castle",
+                  "coords": [
+                        -43.115929,
+                        -22.936998
+                  ]
+            },
+            {
+                  "name": "Centro Ecocultural Sueli Pontes",
+                  "text": "This eco-cultural museum near Sugarloaf Mountain features exhibitions dedicated to local environmental conservation.",
+                  "category": "museum",
+                  "coords": [
+                        -43.089247,
+                        -22.948673
+                  ]
+            },
+            {
+                  "name": "Forte do Pico",
+                  "text": "Set atop a high coastal peak, this former military fort now serves as a museum with panoramic views of the bay.",
+                  "category": "museum",
+                  "coords": [
+                        -43.122656,
+                        -22.936554
+                  ]
+            },
+            {
+                  "name": "Forte São José",
+                  "text": "Nestled along the shoreline, this historical stone fortification was part of the crossfire defense system for the bay.",
+                  "category": "castle",
+                  "coords": [
+                        -43.151492,
+                        -22.94061
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "Surrounded by coastal greenery, this cultural center hosts local art exhibitions and community events.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Cópia Pequena do Cristo Redentor do Rio de Janeiro",
+                  "text": "This scaled-down replica of the iconic Christ the Redeemer statue offers a close-up appreciation of its Art Deco design.",
+                  "category": "historical",
+                  "coords": [
+                        -43.079015,
+                        -22.952957
+                  ]
+            },
+            {
+                  "name": "Ruínas do Atalaia",
+                  "text": "These weathered stone ruins are the remnants of a historic coastal watchtower that once monitored incoming ships.",
+                  "category": "historical",
+                  "coords": [
+                        -43.103301,
+                        -22.944402
+                  ]
+            },
+            {
+                  "name": "Casarão em Ruinas",
+                  "text": "Overgrown with tropical vegetation, the crumbling walls of this colonial-era mansion offer a glimpse into the region's past.",
+                  "category": "historical",
+                  "coords": [
+                        -43.122005,
+                        -22.926324
+                  ]
+            },
+            {
+                  "name": "The second cable car",
+                  "text": "Displayed on the mountain, this vintage metal cabin served as the second generation of the Sugarloaf cable car system.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165196,
+                        -22.951594
+                  ]
+            },
+            {
+                  "name": "Monumento Almirante Júlio Cesar de Noronha",
+                  "text": "This stone monument commemorates Admiral Júlio Cesar de Noronha, reflecting Brazil's rich naval history along the coast.",
+                  "category": "historical",
+                  "coords": [
+                        -43.165215,
+                        -22.961948
+                  ]
+            },
+            {
+                  "name": "Mario de Andrade",
+                  "text": "Dedicated to the modernist writer Mário de Andrade, this public sculpture celebrates his profound influence on Brazilian literature.",
+                  "category": "historical",
+                  "coords": [
+                        -43.170193,
+                        -22.955105
+                  ]
+            },
+            {
+                  "name": "Botafogo's Chimney",
+                  "text": "Rising against the city skyline, this tall brick chimney is an industrial relic left over from a historic coastal factory.",
+                  "category": "historical",
+                  "coords": [
+                        -43.173611,
+                        -22.955246
+                  ]
+            },
+            {
+                  "name": "Fortinho",
+                  "text": "The stone foundations of this small ruined fortification overlook the entrance to the bay, revealing its past defensive role.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130955,
+                        -22.910952
+                  ]
+            },
+            {
+                  "name": "Teatro Qorpo Santo",
+                  "text": "This cozy coastal theater venue regularly stages intimate local drama productions and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.17548,
+                        -22.953864
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BR-RJ",
     coords: [-43.15, -22.94],
@@ -689,7 +4379,1204 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Un rocher de granit distinctif dans la baie de Guanabara, emblème de Rio.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Lié à la vie quotidienne et à l'histoire du pays.", "Sous l'influence du climat majoritairement tropical du Brésil."],
     }, image: "/poi-images/br-sugarloaf-mountain-nature-v2.webp"},
   {
-    id: "br-corcovado-nature-v2",
+    id: "br-corcovado-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fundação Casa de Rui Barbosa",
+                  "text": "Die Fundação Casa de Rui Barbosa ist ein Museum, das das Anwesen und die umfangreiche Bibliothek des brasilianischen Universalgelehrten Rui Barbosa bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -43.187032,
+                        -22.948753
+                  ]
+            },
+            {
+                  "name": "Museu Villa-Lobos",
+                  "text": "Das Museu Villa-Lobos ist ganz dem Leben und dem musikalischen Erbe des renommierten brasilianischen Komponisten Heitor Villa-Lobos gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -43.190515,
+                        -22.951926
+                  ]
+            },
+            {
+                  "name": "Museu Internacional de Arte Naïf",
+                  "text": "Das Museu Internacional de Arte Naïf beherbergt eine umfangreiche Sammlung farbenfroher, naiver Kunst aus aller Welt.",
+                  "category": "museum",
+                  "coords": [
+                        -43.198898,
+                        -22.940436
+                  ]
+            },
+            {
+                  "name": "Palácio da Cidade",
+                  "text": "Der Palácio da Cidade ist ein prächtiges Bauwerk, das als offizieller Amtssitz des Bürgermeisters von Rio de Janeiro dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.194186,
+                        -22.950163
+                  ]
+            },
+            {
+                  "name": "Morro Dona Marta",
+                  "text": "Der Morro Dona Marta ist ein markanter Berggipfel, der weite Panoramablicke über die Stadt und die Guanabara-Bucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -43.196429,
+                        -22.945136
+                  ]
+            },
+            {
+                  "name": "Morro do Sumaré",
+                  "text": "Der Morro do Sumaré ist ein hoher Gipfel, der durch die zahlreichen Fernseh- und Radiosenditürme auf seiner Spitze leicht erkennbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        -43.224099,
+                        -22.937586
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Die Christ Church ist eine historische, englischsprachige Kultstätte, deren Gründung bis in das Jahr 1819 zurückreicht.",
+                  "category": "religious",
+                  "coords": [
+                        -43.192936,
+                        -22.953165
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São João Batista",
+                  "text": "Die Igreja Matriz de São João Batista ist eine traditionelle Pfarrkirche, die dem Heiligen Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -43.191272,
+                        -22.95427
+                  ]
+            },
+            {
+                  "name": "Bica da Rainha",
+                  "text": "Die Bica da Rainha ist ein historischer Brunnen, der während der Zeit der portugiesischen Königsfamilie in Brasilien für deren Nutzung errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.197056,
+                        -22.940672
+                  ]
+            },
+            {
+                  "name": "Morro do Mirante",
+                  "text": "Der Morro do Mirante ist ein hochgelegener Gipfel, der als natürlicher Aussichtspunkt über die Region fungiert.",
+                  "category": "natural",
+                  "coords": [
+                        -43.22228,
+                        -22.932297
+                  ]
+            },
+            {
+                  "name": "Alto da Coroa",
+                  "text": "Der Alto da Coroa ist ein steiler Gipfel, der sich in die dramatische bergige Kulisse von Rio einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        -43.213369,
+                        -22.944523
+                  ]
+            },
+            {
+                  "name": "Morro do Inglês",
+                  "text": "Der Morro do Inglês ist ein markanter Hügel, der zur üppig bewachsenen, unebenen Topografie der Stadt beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -43.20499,
+                        -22.944928
+                  ]
+            },
+            {
+                  "name": "Morro dos Prazeres",
+                  "text": "Der Morro dos Prazeres ist ein steiler Berggipfel, an dessen Hängen sich das dichte urbane Gefüge der Stadt drängt.",
+                  "category": "natural",
+                  "coords": [
+                        -43.204443,
+                        -22.93482
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes Paineiras",
+                  "text": "Das Paineiras Visitor Centre ist eine Informationsstätte, die sich in der üppigen Waldlandschaft nahe dem Corcovado befindet.",
+                  "category": "museum",
+                  "coords": [
+                        -43.217513,
+                        -22.947738
+                  ]
+            },
+            {
+                  "name": "instituto casa Roberto Marinho",
+                  "text": "Das instituto casa Roberto Marinho ist ein Museum in einem modernistischen Wohnhaus, das eine bedeutende Sammlung brasilianischer Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -43.204431,
+                        -22.939716
+                  ]
+            },
+            {
+                  "name": "Casa do Carioca",
+                  "text": "Die Casa do Carioca besteht aus den überwucherten Ruinen eines traditionellen Hauses inmitten der tropischen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -43.216712,
+                        -22.945169
+                  ]
+            },
+            {
+                  "name": "Banheira do Imperador",
+                  "text": "Die Banheira do Imperador umfasst die steinernen Überreste einer historischen imperialen Badeanlage.",
+                  "category": "historical",
+                  "coords": [
+                        -43.217828,
+                        -22.945784
+                  ]
+            },
+            {
+                  "name": "Teatro Ser ou Não Ser",
+                  "text": "Das Teatro Ser ou Não Ser ist ein Theater, dessen Name spielerisch auf Hamlets berühmten existenziellen Monolog anspielt.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.200034,
+                        -22.933285
+                  ]
+            },
+            {
+                  "name": "Centro Cultural João XXIII",
+                  "text": "Dieses nach Papst Johannes XXIII. benannte Kunstzentrum bietet der Gemeinde in der Corcovado-Gegend kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.18513,
+                        -22.947465
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Solar de Botafogo",
+                  "text": "Dieses Kulturzentrum und Theater im Stil eines traditionellen brasilianischen Herrenhauses veranstaltet lokale darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.186249,
+                        -22.956197
+                  ]
+            },
+            {
+                  "name": "Forró e Pagode",
+                  "text": "Diese einzigartige Kultstätte der Gemeinde ist tief mit den lebhaften lokalen Rhythmen von Forró und Pagode verbunden.",
+                  "category": "religious",
+                  "coords": [
+                        -43.192713,
+                        -22.948618
+                  ]
+            },
+            {
+                  "name": "Baile de Lenta",
+                  "text": "Ursprünglich als Tanzlokal bekannt, wurde dieser Raum als Kultstätte für die lokale Berggemeinde umfunktioniert.",
+                  "category": "religious",
+                  "coords": [
+                        -43.194197,
+                        -22.946946
+                  ]
+            },
+            {
+                  "name": "Baile Funk",
+                  "text": "Dieser Gemeinderaum, der den Namen des beliebten Baile Funk trägt, fungiert derzeit als lokaler Ort der Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        -43.193843,
+                        -22.948559
+                  ]
+            },
+            {
+                  "name": "Centro de religião afrobrasileira",
+                  "text": "Dieses spirituelle Zentrum ist den Praktiken und Ritualen traditioneller afrobrasilianischer Religionen wie Candomblé oder Umbanda gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -43.201072,
+                        -22.930885
+                  ]
+            },
+            {
+                  "name": "Quadra d G.R.E.S. Unidos ds Zona Sul",
+                  "text": "Dieser lebhafte Probenplatz ist die Heimat der Sambaschule Unidos da Zona Sul, wo farbenfrohe Karnevalsvorbereitungen stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202782,
+                        -22.9401
+                  ]
+            },
+            {
+                  "name": "Comunidade Cristã Restaurando Vidas",
+                  "text": "Diese lokale christliche Gemeinde konzentriert sich auf die Gemeindearbeit und die spirituelle Wiederherstellung in der Hügelgegend von Corcovado.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.183364,
+                        -22.951246
+                  ]
+            },
+            {
+                  "name": "Igreja Renascer",
+                  "text": "Diese evangelikale christliche Kirche bietet einen Raum für gemeinschaftliche Gottesdienste und spirituelle Erneuerung in der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.188114,
+                        -22.949401
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo Inácio",
+                  "text": "Diese dem Heiligen Ignatius gewidmete christliche Kirche besticht durch traditionelle religiöse Architektur und dient der lokalen katholischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.189728,
+                        -22.949543
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten versammelt ihre lokale Gemeinde zum samstäglichen Sabbatgottesdienst und zur Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.192804,
+                        -22.951175
+                  ]
+            },
+            {
+                  "name": "Igreja Assembleia de Deus",
+                  "text": "Als lokaler Zweig der Assembleia de Deus veranstaltet diese Pfingstkirche lebhafte Gottesdienste für die Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.182411,
+                        -22.955155
+                  ]
+            },
+            {
+                  "name": "Igreja ADMBP",
+                  "text": "Diese lokale Pfingstgemeinde bietet einen engagierten Gemeinschaftsraum für evangelikale christliche Gottesdienste und Gebetsversammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.201053,
+                        -22.932431
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Monte Gerezim",
+                  "text": "Diese nach dem biblischen Berg Garizim benannte evangelikale Kirche ist ein spiritueller Treffpunkt für einheimische Christen.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202233,
+                        -22.931854
+                  ]
+            },
+            {
+                  "name": "Congregação Evangélica Bethânia",
+                  "text": "Diese evangelikale Gemeinde von Bethanien bietet einen einladenden Raum für Gebet, Bibelstudium und lokale christliche Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202824,
+                        -22.933346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fundação Casa de Rui Barbosa",
+                  "text": "A Fundação Casa de Rui Barbosa egy múzeum, amely a brazil polihisztor, Rui Barbosa birtokát és kiterjedt könyvtárát őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -43.187032,
+                        -22.948753
+                  ]
+            },
+            {
+                  "name": "Museu Villa-Lobos",
+                  "text": "A Museu Villa-Lobos teljes egészében a neves brazil zeneszerző, Heitor Villa-Lobos életének és zenei örökségének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -43.190515,
+                        -22.951926
+                  ]
+            },
+            {
+                  "name": "Museu Internacional de Arte Naïf",
+                  "text": "A Museu Internacional de Arte Naïf a világ minden tájáról származó színes, naiv művészet kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -43.198898,
+                        -22.940436
+                  ]
+            },
+            {
+                  "name": "Palácio da Cidade",
+                  "text": "A Palácio da Cidade egy impozáns épület, amely Rio de Janeiro polgármesterének hivatalos munkahelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.194186,
+                        -22.950163
+                  ]
+            },
+            {
+                  "name": "Morro Dona Marta",
+                  "text": "A Morro Dona Marta egy kiemelkedő hegycsúcs, amely széles panorámát kínál a városra és a Guanabara-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -43.196429,
+                        -22.945136
+                  ]
+            },
+            {
+                  "name": "Morro do Sumaré",
+                  "text": "A Morro do Sumaré egy magas csúcs, amely könnyen felismerhető a tetején található számos televízió- és rádióadónak köszönhetően.",
+                  "category": "natural",
+                  "coords": [
+                        -43.224099,
+                        -22.937586
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Christ Church egy történelmi angol nyelvű istentiszteleti hely, amelynek alapítása 1819-re nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        -43.192936,
+                        -22.953165
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São João Batista",
+                  "text": "Az Igreja Matriz de São João Batista egy hagyományos plébániatemplom, amelyet Keresztelő Szent Jánosnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -43.191272,
+                        -22.95427
+                  ]
+            },
+            {
+                  "name": "Bica da Rainha",
+                  "text": "A Bica da Rainha egy történelmi kút, amelyet a portugál királyi család brazíliai tartózkodása idején építettek használatukra.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.197056,
+                        -22.940672
+                  ]
+            },
+            {
+                  "name": "Morro do Mirante",
+                  "text": "A Morro do Mirante egy magaslati csúcs, amely természetes kilátópontként szolgál a régió felett.",
+                  "category": "natural",
+                  "coords": [
+                        -43.22228,
+                        -22.932297
+                  ]
+            },
+            {
+                  "name": "Alto da Coroa",
+                  "text": "Az Alto da Coroa egy meredek csúcs, amely beleolvad Rio drámai hegyvidéki hátterébe.",
+                  "category": "natural",
+                  "coords": [
+                        -43.213369,
+                        -22.944523
+                  ]
+            },
+            {
+                  "name": "Morro do Inglês",
+                  "text": "A Morro do Inglês egy kiemelkedő domb, amely hozzájárul a város buja, egyenetlen domborzatához.",
+                  "category": "natural",
+                  "coords": [
+                        -43.20499,
+                        -22.944928
+                  ]
+            },
+            {
+                  "name": "Morro dos Prazeres",
+                  "text": "A Morro dos Prazeres egy meredek hegycsúcs, amelynek lejtőin a város sűrű városi szövete zsúfolódik.",
+                  "category": "natural",
+                  "coords": [
+                        -43.204443,
+                        -22.93482
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes Paineiras",
+                  "text": "A Paineiras Visitor Centre egy információs központ, amely a Corcovado melletti buja erdei környezetben található.",
+                  "category": "museum",
+                  "coords": [
+                        -43.217513,
+                        -22.947738
+                  ]
+            },
+            {
+                  "name": "instituto casa Roberto Marinho",
+                  "text": "Az instituto casa Roberto Marinho egy modernista rezidenciában található múzeum, amely jelentős brazil művészeti gyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -43.204431,
+                        -22.939716
+                  ]
+            },
+            {
+                  "name": "Casa do Carioca",
+                  "text": "A Casa do Carioca egy hagyományos ház benőtt romjaiból áll a trópusi táj közepén.",
+                  "category": "historical",
+                  "coords": [
+                        -43.216712,
+                        -22.945169
+                  ]
+            },
+            {
+                  "name": "Banheira do Imperador",
+                  "text": "A Banheira do Imperador egy történelmi birodalmi fürdőlétesítmény kőmaradványait foglalja magába.",
+                  "category": "historical",
+                  "coords": [
+                        -43.217828,
+                        -22.945784
+                  ]
+            },
+            {
+                  "name": "Teatro Ser ou Não Ser",
+                  "text": "A Teatro Ser ou Não Ser egy színház, amelynek neve játékosan utal Hamlet híres egzisztenciális monológjára.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.200034,
+                        -22.933285
+                  ]
+            },
+            {
+                  "name": "Centro Cultural João XXIII",
+                  "text": "Ez a XXIII. János pápáról elnevezett művészeti központ kulturális rendezvényekkel szolgálja a Corcovado környékének közösségét.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.18513,
+                        -22.947465
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Solar de Botafogo",
+                  "text": "A hagyományos brazil udvarház stílusában épült kulturális központ és színház helyi előadó-művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.186249,
+                        -22.956197
+                  ]
+            },
+            {
+                  "name": "Forró e Pagode",
+                  "text": "Ez az egyedi közösségi istentiszteleti hely szorosan kapcsolódik a Forró és a Pagode élénk helyi ritmusaihoz.",
+                  "category": "religious",
+                  "coords": [
+                        -43.192713,
+                        -22.948618
+                  ]
+            },
+            {
+                  "name": "Baile de Lenta",
+                  "text": "Ezt az eredetileg tánchelyszínként ismert teret a helyi hegyoldali közösség istentiszteleti helyévé alakították át.",
+                  "category": "religious",
+                  "coords": [
+                        -43.194197,
+                        -22.946946
+                  ]
+            },
+            {
+                  "name": "Baile Funk",
+                  "text": "A népszerű Baile Funk nevét viselő közösségi tér jelenleg helyi istentiszteleti helyként funkcionál.",
+                  "category": "religious",
+                  "coords": [
+                        -43.193843,
+                        -22.948559
+                  ]
+            },
+            {
+                  "name": "Centro de religião afrobrasileira",
+                  "text": "Ez a spirituális központ a hagyományos afro-brazil vallások, például a Candomblé vagy az Umbanda gyakorlatainak és rituáléinak szentelt.",
+                  "category": "religious",
+                  "coords": [
+                        -43.201072,
+                        -22.930885
+                  ]
+            },
+            {
+                  "name": "Quadra d G.R.E.S. Unidos ds Zona Sul",
+                  "text": "Ez a nyüzsgő próbaterem az Unidos da Zona Sul szambaiskola otthona, ahol a színes karneváli előkészületek zajlanak.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202782,
+                        -22.9401
+                  ]
+            },
+            {
+                  "name": "Comunidade Cristã Restaurando Vidas",
+                  "text": "Ez a helyi keresztény gyülekezet a közösségi segítségnyújtásra és a spirituális megújulásra összpontosít a Corcovado hegyoldalában.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.183364,
+                        -22.951246
+                  ]
+            },
+            {
+                  "name": "Igreja Renascer",
+                  "text": "Ez az evangéliumi keresztény közösség teret ad a közös istentiszteletnek és a spirituális megújulásnak a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.188114,
+                        -22.949401
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo Inácio",
+                  "text": "A Szent Ignácnak szentelt keresztény templom hagyományos vallási építészettel büszkélkedhet, és a helyi katolikus közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.189728,
+                        -22.949543
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "Ez a Hetednapi Adventista templom a szombati istentiszteletekre és a közösségi találkozókra gyűjti össze helyi gyülekezetét.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.192804,
+                        -22.951175
+                  ]
+            },
+            {
+                  "name": "Igreja Assembleia de Deus",
+                  "text": "Az Assembleia de Deus helyi ágaként ez a pünkösdi templom élénk vallási szertartásoknak ad otthont a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.182411,
+                        -22.955155
+                  ]
+            },
+            {
+                  "name": "Igreja ADMBP",
+                  "text": "Ez a helyi pünkösdi gyülekezet dedikált közösségi teret biztosít az evangéliumi keresztény istentiszteletek és imatalálkozók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.201053,
+                        -22.932431
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Monte Gerezim",
+                  "text": "A bibliai Garizim hegyéről elnevezett evangéliumi templom a helyi keresztény lakosok spirituális gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202233,
+                        -22.931854
+                  ]
+            },
+            {
+                  "name": "Congregação Evangélica Bethânia",
+                  "text": "Ez a betániai evangéliumi gyülekezet barátságos teret kínál az imádság, a bibliatanulmányozás és a helyi keresztény közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202824,
+                        -22.933346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fundação Casa de Rui Barbosa",
+                  "text": "Fundação Casa de Rui Barbosa este un muzeu care păstrează proprietatea și biblioteca vastă a eruditului brazilian Rui Barbosa.",
+                  "category": "museum",
+                  "coords": [
+                        -43.187032,
+                        -22.948753
+                  ]
+            },
+            {
+                  "name": "Museu Villa-Lobos",
+                  "text": "Museu Villa-Lobos este dedicat în întregime vieții și moștenirii muzicale a renumitului compozitor brazilian Heitor Villa-Lobos.",
+                  "category": "museum",
+                  "coords": [
+                        -43.190515,
+                        -22.951926
+                  ]
+            },
+            {
+                  "name": "Museu Internacional de Arte Naïf",
+                  "text": "Museu Internacional de Arte Naïf găzduiește o colecție vastă de artă naivă plină de culoare din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        -43.198898,
+                        -22.940436
+                  ]
+            },
+            {
+                  "name": "Palácio da Cidade",
+                  "text": "Palácio da Cidade este o clădire impunătoare care servește drept loc de muncă oficial pentru primarul din Rio de Janeiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.194186,
+                        -22.950163
+                  ]
+            },
+            {
+                  "name": "Morro Dona Marta",
+                  "text": "Morro Dona Marta este un vârf montan proeminent care oferă vederi panoramice largi asupra orașului și a Golfului Guanabara.",
+                  "category": "natural",
+                  "coords": [
+                        -43.196429,
+                        -22.945136
+                  ]
+            },
+            {
+                  "name": "Morro do Sumaré",
+                  "text": "Morro do Sumaré este un vârf înalt ușor de recunoscut datorită numeroaselor turnuri de transmisie de televiziune și radio de pe culmea sa.",
+                  "category": "natural",
+                  "coords": [
+                        -43.224099,
+                        -22.937586
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church este un lăcaș de cult istoric de limbă engleză a cărui înființare datează din anul 1819.",
+                  "category": "religious",
+                  "coords": [
+                        -43.192936,
+                        -22.953165
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São João Batista",
+                  "text": "Igreja Matriz de São João Batista este o biserică parohială tradițională cu hramul Sfântul Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        -43.191272,
+                        -22.95427
+                  ]
+            },
+            {
+                  "name": "Bica da Rainha",
+                  "text": "Bica da Rainha este o fântână istorică construită pentru uzul familiei regale portugheze în timpul șederii lor în Brazilia.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.197056,
+                        -22.940672
+                  ]
+            },
+            {
+                  "name": "Morro do Mirante",
+                  "text": "Morro do Mirante este un vârf de mare altitudine care servește ca punct de belvedere natural asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -43.22228,
+                        -22.932297
+                  ]
+            },
+            {
+                  "name": "Alto da Coroa",
+                  "text": "Alto da Coroa este un vârf abrupt care se îmbină cu fundalul muntos dramatic al orașului Rio.",
+                  "category": "natural",
+                  "coords": [
+                        -43.213369,
+                        -22.944523
+                  ]
+            },
+            {
+                  "name": "Morro do Inglês",
+                  "text": "Morro do Inglês este un deal proeminent care contribuie la topografia luxuriantă și neuniformă a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -43.20499,
+                        -22.944928
+                  ]
+            },
+            {
+                  "name": "Morro dos Prazeres",
+                  "text": "Morro dos Prazeres este un vârf de munte abrupt pe pantele căruia se înghesuie țesutul urban dens al orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -43.204443,
+                        -22.93482
+                  ]
+            },
+            {
+                  "name": "Centro de Visitantes Paineiras",
+                  "text": "Paineiras Visitor Centre este un centru de informare situat în mediul forestier luxuriant de lângă Corcovado.",
+                  "category": "museum",
+                  "coords": [
+                        -43.217513,
+                        -22.947738
+                  ]
+            },
+            {
+                  "name": "instituto casa Roberto Marinho",
+                  "text": "Instituto casa Roberto Marinho este un muzeu aflat într-o reședință modernistă, care expune o colecție semnificativă de artă braziliană.",
+                  "category": "museum",
+                  "coords": [
+                        -43.204431,
+                        -22.939716
+                  ]
+            },
+            {
+                  "name": "Casa do Carioca",
+                  "text": "Casa do Carioca constă din ruinele invadate de vegetație ale unei case tradiționale în mijlocul peisajului tropical.",
+                  "category": "historical",
+                  "coords": [
+                        -43.216712,
+                        -22.945169
+                  ]
+            },
+            {
+                  "name": "Banheira do Imperador",
+                  "text": "Banheira do Imperador cuprinde rămășițele de piatră ale unei băi imperiale istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -43.217828,
+                        -22.945784
+                  ]
+            },
+            {
+                  "name": "Teatro Ser ou Não Ser",
+                  "text": "Teatro Ser ou Não Ser este un teatru al cărui nume face aluzie în mod jucăuș la faimosul monolog existențial al lui Hamlet.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.200034,
+                        -22.933285
+                  ]
+            },
+            {
+                  "name": "Centro Cultural João XXIII",
+                  "text": "Acest centru de arte, numit după Papa Ioan al XXIII-lea, găzduiește evenimente culturale pentru comunitatea din zona Corcovado.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.18513,
+                        -22.947465
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Solar de Botafogo",
+                  "text": "Găzduit într-un conac tradițional brazilian, acest centru cultural și teatru prezintă spectacole de arte ale spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.186249,
+                        -22.956197
+                  ]
+            },
+            {
+                  "name": "Forró e Pagode",
+                  "text": "Acest lăcaș de cult comunitar unic este profund legat de ritmurile locale vibrante de Forró și Pagode.",
+                  "category": "religious",
+                  "coords": [
+                        -43.192713,
+                        -22.948618
+                  ]
+            },
+            {
+                  "name": "Baile de Lenta",
+                  "text": "Cunoscut inițial ca un loc de dans, acest spațiu a fost transformat într-un lăcaș de cult pentru comunitatea locală de pe deal.",
+                  "category": "religious",
+                  "coords": [
+                        -43.194197,
+                        -22.946946
+                  ]
+            },
+            {
+                  "name": "Baile Funk",
+                  "text": "Acest spațiu de adunare comunitară, care poartă numele popularului Baile Funk, funcționează în prezent ca lăcaș de cult local.",
+                  "category": "religious",
+                  "coords": [
+                        -43.193843,
+                        -22.948559
+                  ]
+            },
+            {
+                  "name": "Centro de religião afrobrasileira",
+                  "text": "Acest centru spiritual este dedicat practicilor și ritualurilor religiilor tradiționale afro-braziliene, cum ar fi Candomblé sau Umbanda.",
+                  "category": "religious",
+                  "coords": [
+                        -43.201072,
+                        -22.930885
+                  ]
+            },
+            {
+                  "name": "Quadra d G.R.E.S. Unidos ds Zona Sul",
+                  "text": "Această curte de repetiții vibrantă este sediul școlii de samba Unidos da Zona Sul, unde au loc pregătirile colorate pentru carnaval.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202782,
+                        -22.9401
+                  ]
+            },
+            {
+                  "name": "Comunidade Cristã Restaurando Vidas",
+                  "text": "Această congregație creștină locală se concentrează pe asistența comunitară și restaurarea spirituală în zona de deal din Corcovado.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.183364,
+                        -22.951246
+                  ]
+            },
+            {
+                  "name": "Igreja Renascer",
+                  "text": "Această biserică creștină evanghelică oferă un spațiu pentru închinare comunitară și reînnoire spirituală în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.188114,
+                        -22.949401
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo Inácio",
+                  "text": "Dedicată Sfântului Ignațiu, această biserică creștină are o arhitectură religioasă tradițională și servește comunitatea catolică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.189728,
+                        -22.949543
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "Această biserică Adventistă de Ziua a Șaptea își adună congregația locală pentru închinarea de Sabat sâmbăta și părtășie comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.192804,
+                        -22.951175
+                  ]
+            },
+            {
+                  "name": "Igreja Assembleia de Deus",
+                  "text": "Ca filială locală a Adunării lui Dumnezeu, această biserică penticostală găzduiește slujbe religioase pline de viață pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.182411,
+                        -22.955155
+                  ]
+            },
+            {
+                  "name": "Igreja ADMBP",
+                  "text": "Această congregație penticostală locală oferă un spațiu comunitar dedicat pentru slujbe creștine evanghelice și întâlniri de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.201053,
+                        -22.932431
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Monte Gerezim",
+                  "text": "Numită după muntele biblic Garizim, această biserică evanghelică este un punct de adunare spirituală pentru rezidenții creștini locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202233,
+                        -22.931854
+                  ]
+            },
+            {
+                  "name": "Congregação Evangélica Bethânia",
+                  "text": "Această congregație evanghelică Betania oferă un spațiu primitor pentru rugăciune, studiu biblic și părtășie creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202824,
+                        -22.933346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fundação Casa de Rui Barbosa",
+                  "text": "Fundação Casa de Rui Barbosa is a museum that preserves the estate and extensive library of the Brazilian polymath Rui Barbosa.",
+                  "category": "museum",
+                  "coords": [
+                        -43.187032,
+                        -22.948753
+                  ]
+            },
+            {
+                  "name": "Museu Villa-Lobos",
+                  "text": "Museu Villa-Lobos is dedicated entirely to the life and musical legacy of the renowned Brazilian composer Heitor Villa-Lobos.",
+                  "category": "museum",
+                  "coords": [
+                        -43.190515,
+                        -22.951926
+                  ]
+            },
+            {
+                  "name": "Museu Internacional de Arte Naïf",
+                  "text": "Museu Internacional de Arte Naïf houses an extensive collection of colorful naive art from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        -43.198898,
+                        -22.940436
+                  ]
+            },
+            {
+                  "name": "Palácio da Cidade",
+                  "text": "Palácio da Cidade is an imposing palace that serves as the official workplace of the mayor of Rio de Janeiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.194186,
+                        -22.950163
+                  ]
+            },
+            {
+                  "name": "Morro Dona Marta",
+                  "text": "Morro Dona Marta is a prominent mountain peak offering wide panoramic views over the city and Guanabara Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -43.196429,
+                        -22.945136
+                  ]
+            },
+            {
+                  "name": "Morro do Sumaré",
+                  "text": "Morro do Sumaré is a towering peak easily recognizable by the numerous television and radio transmission towers on its summit.",
+                  "category": "natural",
+                  "coords": [
+                        -43.224099,
+                        -22.937586
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church is a historic English-speaking place of worship dating back to its establishment in 1819.",
+                  "category": "religious",
+                  "coords": [
+                        -43.192936,
+                        -22.953165
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São João Batista",
+                  "text": "Igreja Matriz de São João Batista is a traditional parish church dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        -43.191272,
+                        -22.95427
+                  ]
+            },
+            {
+                  "name": "Bica da Rainha",
+                  "text": "Bica da Rainha is a historic water fountain built for the use of the Portuguese royal family during their time in Brazil.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.197056,
+                        -22.940672
+                  ]
+            },
+            {
+                  "name": "Morro do Mirante",
+                  "text": "Morro do Mirante is a high-elevation peak acting as a natural viewpoint over the region.",
+                  "category": "natural",
+                  "coords": [
+                        -43.22228,
+                        -22.932297
+                  ]
+            },
+            {
+                  "name": "Alto da Coroa",
+                  "text": "Alto da Coroa is a steep peak blending into Rio's dramatic mountainous backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        -43.213369,
+                        -22.944523
+                  ]
+            },
+            {
+                  "name": "Morro do Inglês",
+                  "text": "Morro do Inglês is a prominent hill contributing to the lush, uneven topography of the city.",
+                  "category": "natural",
+                  "coords": [
+                        -43.20499,
+                        -22.944928
+                  ]
+            },
+            {
+                  "name": "Morro dos Prazeres",
+                  "text": "Morro dos Prazeres is a steep hillside peak surrounded by the dense urban fabric of the city.",
+                  "category": "natural",
+                  "coords": [
+                        -43.204443,
+                        -22.93482
+                  ]
+            },
+            {
+                  "name": "Paineiras Visitor Centre",
+                  "text": "Paineiras Visitor Centre is an informational hub situated within the lush forest environment near Corcovado.",
+                  "category": "museum",
+                  "coords": [
+                        -43.217513,
+                        -22.947738
+                  ]
+            },
+            {
+                  "name": "instituto casa Roberto Marinho",
+                  "text": "Instituto casa Roberto Marinho is a museum located in a modernist residence exhibiting a significant collection of Brazilian art.",
+                  "category": "museum",
+                  "coords": [
+                        -43.204431,
+                        -22.939716
+                  ]
+            },
+            {
+                  "name": "Casa do Carioca",
+                  "text": "Casa do Carioca consists of the overgrown ruins of a traditional house set within the tropical landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -43.216712,
+                        -22.945169
+                  ]
+            },
+            {
+                  "name": "Banheira do Imperador",
+                  "text": "Banheira do Imperador comprises the stone ruins of a historic imperial bathing structure.",
+                  "category": "historical",
+                  "coords": [
+                        -43.217828,
+                        -22.945784
+                  ]
+            },
+            {
+                  "name": "Teatro Ser ou Não Ser",
+                  "text": "Teatro Ser ou Não Ser is a theatre whose name playfully references Hamlet's famous existential soliloquy.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.200034,
+                        -22.933285
+                  ]
+            },
+            {
+                  "name": "Centro Cultural João XXIII",
+                  "text": "This arts center, named after Pope John XXIII, serves the community in the Corcovado area with cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.18513,
+                        -22.947465
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Solar de Botafogo",
+                  "text": "Set in a traditional Brazilian manor house style, this cultural center and theater hosts local performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.186249,
+                        -22.956197
+                  ]
+            },
+            {
+                  "name": "Forró e Pagode",
+                  "text": "This unique community place of worship is deeply connected to the vibrant local rhythms of Forró and Pagode.",
+                  "category": "religious",
+                  "coords": [
+                        -43.192713,
+                        -22.948618
+                  ]
+            },
+            {
+                  "name": "Baile de Lenta",
+                  "text": "Originally known as a dance venue, this space has been repurposed as a place of worship for the local hillside community.",
+                  "category": "religious",
+                  "coords": [
+                        -43.194197,
+                        -22.946946
+                  ]
+            },
+            {
+                  "name": "Baile Funk",
+                  "text": "This community gathering space, bearing the name of the popular Baile Funk, currently functions as a local place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        -43.193843,
+                        -22.948559
+                  ]
+            },
+            {
+                  "name": "Centro de religião afrobrasileira",
+                  "text": "This spiritual center is dedicated to the practices and rituals of traditional Afro-Brazilian religions such as Candomblé or Umbanda.",
+                  "category": "religious",
+                  "coords": [
+                        -43.201072,
+                        -22.930885
+                  ]
+            },
+            {
+                  "name": "Quadra d G.R.E.S. Unidos ds Zona Sul",
+                  "text": "This vibrant rehearsal court is the home of the Unidos da Zona Sul samba school, where colorful carnival preparations take place.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202782,
+                        -22.9401
+                  ]
+            },
+            {
+                  "name": "Comunidade Cristã Restaurando Vidas",
+                  "text": "This local Christian congregation focuses on community outreach and spiritual restoration in the Corcovado hillside area.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.183364,
+                        -22.951246
+                  ]
+            },
+            {
+                  "name": "Igreja Renascer",
+                  "text": "This evangelical Christian church provides a space for community worship and spiritual renewal in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.188114,
+                        -22.949401
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo Inácio",
+                  "text": "Dedicated to Saint Ignatius, this Christian church features traditional religious architecture and serves the local Catholic community.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.189728,
+                        -22.949543
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "This Seventh-day Adventist church gathers its local congregation for Saturday Sabbath worship and community fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.192804,
+                        -22.951175
+                  ]
+            },
+            {
+                  "name": "Igreja Assembleia de Deus",
+                  "text": "As a local branch of the Assembly of God, this Pentecostal church hosts lively religious services for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.182411,
+                        -22.955155
+                  ]
+            },
+            {
+                  "name": "Igreja ADMBP",
+                  "text": "This local Pentecostal congregation provides a dedicated community space for evangelical Christian services and prayer meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.201053,
+                        -22.932431
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Monte Gerezim",
+                  "text": "Named after the biblical Mount Gerizim, this evangelical church is a spiritual gathering point for local Christian residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202233,
+                        -22.931854
+                  ]
+            },
+            {
+                  "name": "Congregação Evangélica Bethânia",
+                  "text": "This Bethany evangelical congregation offers a welcoming space for prayer, biblical study, and local Christian fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.202824,
+                        -22.933346
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BR-RJ",
     coords: [-43.21, -22.95],
@@ -736,7 +5623,1276 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Une montagne de Rio de Janeiro, mondialement célèbre pour l'imposante statue du Christ à son sommet.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Lié à la vie quotidienne et à l'histoire du pays.", "Sous l'influence du climat principalement tropical du Brésil."],
     }, image: "/poi-images/br-corcovado-nature-v2.webp"},
   {
-    id: "br-pedra-da-gavea-nature-v2",
+    id: "br-pedra-da-gavea-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cidade das Artes",
+                  "text": "Cidade das Artes ist ein renommiertes Kunstzentrum, das vom Architekten Christian de Portzamparc entworfen wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.365804,
+                        -22.999117
+                  ]
+            },
+            {
+                  "name": "Pedra da Gávea",
+                  "text": "Pedra da Gávea ist eine weltweit bekannte monolithische Bergattraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.282973,
+                        -22.998982
+                  ]
+            },
+            {
+                  "name": "Pedra Bonita",
+                  "text": "Pedra Bonita ist ein markanter Berggipfel, der für seine malerischen Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -43.284091,
+                        -22.989182
+                  ]
+            },
+            {
+                  "name": "Morro Dois Irmãos",
+                  "text": "Morro Dois Irmãos ist ein Parkgebiet rund um die berühmten Zwillingsgipfel, das 1990 offiziell gegründet wurde.",
+                  "category": "park",
+                  "coords": [
+                        -43.244923,
+                        -22.994798
+                  ]
+            },
+            {
+                  "name": "Parque Natural Municipal Bosque da Barra",
+                  "text": "Parque Natural Municipal Bosque da Barra ist ein städtischer Naturpark mit erhaltener Vegetation, der 1983 gegründet wurde.",
+                  "category": "park",
+                  "coords": [
+                        -43.371457,
+                        -22.996484
+                  ]
+            },
+            {
+                  "name": "Praia do Vidigal",
+                  "text": "Praia do Vidigal ist ein bekannter Sandstrand an der Atlantikküste.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.232227,
+                        -22.992113
+                  ]
+            },
+            {
+                  "name": "Praia da Barra da Tijuca",
+                  "text": "Barra da Tijuca Beach ist ein berühmter, weitläufiger Sandstrand, der für seinen langen Küstenabschnitt bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.331771,
+                        -23.012672
+                  ]
+            },
+            {
+                  "name": "Praia da Joatinga",
+                  "text": "Praia da Joatinga ist ein abgelegener Sandstrand, der über einen felsigen Pfad erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.290615,
+                        -23.014707
+                  ]
+            },
+            {
+                  "name": "Museu Seleção Brasileira",
+                  "text": "Museu Seleção Brasileira ist ein weltweit anerkanntes Museum, das der Geschichte der brasilianischen Fußballnationalmannschaft gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -43.364245,
+                        -22.995822
+                  ]
+            },
+            {
+                  "name": "Morro do Laboriaux",
+                  "text": "Morro do Laboriaux ist ein malerischer natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.253731,
+                        -22.983523
+                  ]
+            },
+            {
+                  "name": "Morro do Cochrane",
+                  "text": "Morro do Cochrane ist ein landschaftlich reizvoller natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.265913,
+                        -22.98321
+                  ]
+            },
+            {
+                  "name": "Morro do Cipó",
+                  "text": "Morro do Cipó ist ein malerischer natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.304586,
+                        -22.968232
+                  ]
+            },
+            {
+                  "name": "Morro do Quilombo",
+                  "text": "Morro do Quilombo ist ein landschaftlich reizvoller natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.315015,
+                        -22.978855
+                  ]
+            },
+            {
+                  "name": "Morro da Marimbeira",
+                  "text": "Morro da Marimbeira ist ein malerischer natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.317121,
+                        -22.973837
+                  ]
+            },
+            {
+                  "name": "Morro do Pinheiro",
+                  "text": "Morro do Pinheiro ist ein landschaftlich reizvoller natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.328705,
+                        -22.968027
+                  ]
+            },
+            {
+                  "name": "Pedra da Panela",
+                  "text": "Pedra da Panela ist ein malerischer natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.343378,
+                        -22.969669
+                  ]
+            },
+            {
+                  "name": "Outeiro",
+                  "text": "Outeiro ist ein landschaftlich reizvoller natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.369105,
+                        -22.962004
+                  ]
+            },
+            {
+                  "name": "Morro da Muzema",
+                  "text": "Morro da Muzema ist ein malerischer natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.322053,
+                        -22.983141
+                  ]
+            },
+            {
+                  "name": "Morro do Pica Pau",
+                  "text": "Morro do Pica Pau ist ein landschaftlich reizvoller natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.312207,
+                        -22.985372
+                  ]
+            },
+            {
+                  "name": "Pedra do Itanhangá",
+                  "text": "Pedra do Itanhangá ist ein malerischer natürlicher Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -43.314972,
+                        -22.99417
+                  ]
+            },
+            {
+                  "name": "Morro da Bandeira",
+                  "text": "Dieser markante Berggipfel ist Teil des zerklüfteten Geländes rund um das Massiv der Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.283813,
+                        -22.993952
+                  ]
+            },
+            {
+                  "name": "Morro da Gávea Pequena",
+                  "text": "Diese markante felsige Erhebung ist ein bekannter Gipfel in der Küstenlandschaft der Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.282912,
+                        -22.982495
+                  ]
+            },
+            {
+                  "name": "Morro do Chapecó",
+                  "text": "Dieser markante Berggipfel liegt eingebettet in das üppige Naturschutzgebiet rund um die Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.284691,
+                        -22.98189
+                  ]
+            },
+            {
+                  "name": "Aguilhinha da Gávea",
+                  "text": "Dieser für seine steile Granitwand bekannte Klettergipfel liegt in der Nähe der berühmten Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.276992,
+                        -22.985972
+                  ]
+            },
+            {
+                  "name": "Pico dos Quatro",
+                  "text": "Dieser steile Gipfel bietet weite Ausblicke über die Atlantikküste und das Gebiet der Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.286313,
+                        -23.003302
+                  ]
+            },
+            {
+                  "name": "Morro da Joatinga",
+                  "text": "Dieser erhöhte Gipfel mit Blick auf die Küstenregion Joatinga weist steile, vom Atlantischen Regenwald bedeckte Hänge auf.",
+                  "category": "natural",
+                  "coords": [
+                        -43.289176,
+                        -23.011494
+                  ]
+            },
+            {
+                  "name": "Praia do Pepino",
+                  "text": "Dieser Sandstrand ist ein beliebter Landeplatz für Drachenflieger, die von der Pedra Bonita herabgleiten.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.265144,
+                        -23.000192
+                  ]
+            },
+            {
+                  "name": "Praia dos Amores",
+                  "text": "Dieser abgelegene Sandstrand wird von den Atlantikwellen und den schroffen Hängen nahe der Pedra da Gávea begrenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.295434,
+                        -23.012818
+                  ]
+            },
+            {
+                  "name": "Passarela da Rocinha",
+                  "text": "Diese markante Fußgängerbrücke dient als architektonisches Denkmal, das die Gemeinde Rocinha verbindet.",
+                  "category": "historical",
+                  "coords": [
+                        -43.251096,
+                        -22.992684
+                  ]
+            },
+            {
+                  "name": "mina de escravos",
+                  "text": "Diese historischen Minenruinen in der Nähe der Pedra da Gávea sind eine düstere Erinnerung an die Kolonialzeit der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -43.291572,
+                        -22.984948
+                  ]
+            },
+            {
+                  "name": "Anfitrião",
+                  "text": "Dieser lokale Theatersaal veranstaltet dramatische Aufführungen und kulturelle Events nahe der Pedra da Gávea.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.245054,
+                        -22.995979
+                  ]
+            },
+            {
+                  "name": "Teátro do Vidigal",
+                  "text": "Dieses Theater in der Gemeinde Vidigal ist ein lebendiges Zentrum für die lokalen darstellenden Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.235798,
+                        -22.993596
+                  ]
+            },
+            {
+                  "name": "Teatro Fashion Mall",
+                  "text": "Dieser moderne Indoor-Theatersaal befindet sich in einem belebten Einkaufszentrum nahe der Pedra da Gávea.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.258889,
+                        -22.996033
+                  ]
+            },
+            {
+                  "name": "Teatro Multiplan",
+                  "text": "Ein modernes Theater für darstellende Künste, das ein abwechslungsreiches Programm in der Nähe der Pedra da Gávea bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.351212,
+                        -22.997214
+                  ]
+            },
+            {
+                  "name": "Teatro Nathália Timberg",
+                  "text": "Dieses nach einer berühmten brasilianischen Schauspielerin benannte Theater zeigt eine Vielzahl von Bühnenwerken.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.335269,
+                        -22.99815
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cidade das Artes",
+                  "text": "A Cidade das Artes egy neves művészeti központ, amelyet Christian de Portzamparc építész tervezett.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.365804,
+                        -22.999117
+                  ]
+            },
+            {
+                  "name": "Pedra da Gávea",
+                  "text": "A Pedra da Gávea egy világszerte elismert monolit hegyi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.282973,
+                        -22.998982
+                  ]
+            },
+            {
+                  "name": "Pedra Bonita",
+                  "text": "A Pedra Bonita egy kiemelkedő hegycsúcs, amely festői túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -43.284091,
+                        -22.989182
+                  ]
+            },
+            {
+                  "name": "Morro Dois Irmãos",
+                  "text": "A Morro Dois Irmãos egy 1990-ben hivatalosan alapított park, amely az ikonikus ikercsúcsokat veszi körül.",
+                  "category": "park",
+                  "coords": [
+                        -43.244923,
+                        -22.994798
+                  ]
+            },
+            {
+                  "name": "Parque Natural Municipal Bosque da Barra",
+                  "text": "A Parque Natural Municipal Bosque da Barra egy 1983-ban alapított városi natúrpark megőrzött növényzettel.",
+                  "category": "park",
+                  "coords": [
+                        -43.371457,
+                        -22.996484
+                  ]
+            },
+            {
+                  "name": "Praia do Vidigal",
+                  "text": "A Praia do Vidigal egy figyelemre méltó homokos strand az Atlanti-óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.232227,
+                        -22.992113
+                  ]
+            },
+            {
+                  "name": "Praia da Barra da Tijuca",
+                  "text": "A Barra da Tijuca Beach egy híres, kiterjedt homokos strand, amely hosszú partszakaszáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.331771,
+                        -23.012672
+                  ]
+            },
+            {
+                  "name": "Praia da Joatinga",
+                  "text": "A Praia da Joatinga egy eldugott homokos strand, amely egy sziklás ösvényen keresztül közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.290615,
+                        -23.014707
+                  ]
+            },
+            {
+                  "name": "Museu Seleção Brasileira",
+                  "text": "A Museu Seleção Brasileira egy világszerte elismert múzeum, amelyet a brazil labdarúgó-válogatott történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -43.364245,
+                        -22.995822
+                  ]
+            },
+            {
+                  "name": "Morro do Laboriaux",
+                  "text": "A Morro do Laboriaux egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.253731,
+                        -22.983523
+                  ]
+            },
+            {
+                  "name": "Morro do Cochrane",
+                  "text": "A Morro do Cochrane egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.265913,
+                        -22.98321
+                  ]
+            },
+            {
+                  "name": "Morro do Cipó",
+                  "text": "A Morro do Cipó egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.304586,
+                        -22.968232
+                  ]
+            },
+            {
+                  "name": "Morro do Quilombo",
+                  "text": "A Morro do Quilombo egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.315015,
+                        -22.978855
+                  ]
+            },
+            {
+                  "name": "Morro da Marimbeira",
+                  "text": "A Morro da Marimbeira egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.317121,
+                        -22.973837
+                  ]
+            },
+            {
+                  "name": "Morro do Pinheiro",
+                  "text": "A Morro do Pinheiro egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.328705,
+                        -22.968027
+                  ]
+            },
+            {
+                  "name": "Pedra da Panela",
+                  "text": "A Pedra da Panela egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.343378,
+                        -22.969669
+                  ]
+            },
+            {
+                  "name": "Outeiro",
+                  "text": "Az Outeiro egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.369105,
+                        -22.962004
+                  ]
+            },
+            {
+                  "name": "Morro da Muzema",
+                  "text": "A Morro da Muzema egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.322053,
+                        -22.983141
+                  ]
+            },
+            {
+                  "name": "Morro do Pica Pau",
+                  "text": "A Morro do Pica Pau egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.312207,
+                        -22.985372
+                  ]
+            },
+            {
+                  "name": "Pedra do Itanhangá",
+                  "text": "A Pedra do Itanhangá egy festői természetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.314972,
+                        -22.99417
+                  ]
+            },
+            {
+                  "name": "Morro da Bandeira",
+                  "text": "Ez a kiemelkedő hegycsúcs a Pedra da Gávea masszívum körüli zord terep része.",
+                  "category": "natural",
+                  "coords": [
+                        -43.283813,
+                        -22.993952
+                  ]
+            },
+            {
+                  "name": "Morro da Gávea Pequena",
+                  "text": "Ez a jellegzetes sziklás magaslat egy ismert csúcs a Pedra da Gávea tengerparti táján.",
+                  "category": "natural",
+                  "coords": [
+                        -43.282912,
+                        -22.982495
+                  ]
+            },
+            {
+                  "name": "Morro do Chapecó",
+                  "text": "Ez a lenyűgöző hegycsúcs a Pedra da Gávea körüli buja természetvédelmi területen bújik meg.",
+                  "category": "natural",
+                  "coords": [
+                        -43.284691,
+                        -22.98189
+                  ]
+            },
+            {
+                  "name": "Aguilhinha da Gávea",
+                  "text": "A meredek gránitfaláról ismert kihívást jelentő sziklamászó csúcs a híres Pedra da Gávea szomszédságában található.",
+                  "category": "natural",
+                  "coords": [
+                        -43.276992,
+                        -22.985972
+                  ]
+            },
+            {
+                  "name": "Pico dos Quatro",
+                  "text": "Ez a meredek csúcs kiterjedt kilátást nyújt az atlanti partvidékre és a Pedra da Gávea területére.",
+                  "category": "natural",
+                  "coords": [
+                        -43.286313,
+                        -23.003302
+                  ]
+            },
+            {
+                  "name": "Morro da Joatinga",
+                  "text": "A Joatinga tengerparti régióra néző magas csúcs meredek lejtőit atlanti-parti esőerdő borítja.",
+                  "category": "natural",
+                  "coords": [
+                        -43.289176,
+                        -23.011494
+                  ]
+            },
+            {
+                  "name": "Praia do Pepino",
+                  "text": "Ez a homokos tengerpart népszerű leszállóhely a Pedra Bonitáról leereszkedő sárkányrepülők számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.265144,
+                        -23.000192
+                  ]
+            },
+            {
+                  "name": "Praia dos Amores",
+                  "text": "Ezt a félreeső homokos strandot az atlanti hullámok és a Pedra da Gávea melletti zord lejtők szegélyezik.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.295434,
+                        -23.012818
+                  ]
+            },
+            {
+                  "name": "Passarela da Rocinha",
+                  "text": "Ez a feltűnő gyalogos híd építészeti műemlékként szolgál, amely a Rocinha közösséget köti össze.",
+                  "category": "historical",
+                  "coords": [
+                        -43.251096,
+                        -22.992684
+                  ]
+            },
+            {
+                  "name": "mina de escravos",
+                  "text": "Ezek a történelmi bányaromok komor emlékeztetőül szolgálnak a régió gyarmati korszakára a Pedra da Gávea közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -43.291572,
+                        -22.984948
+                  ]
+            },
+            {
+                  "name": "Anfitrião",
+                  "text": "Ez a helyi színház drámai előadásoknak és kulturális eseményeknek ad otthont a Pedra da Gávea közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.245054,
+                        -22.995979
+                  ]
+            },
+            {
+                  "name": "Teátro do Vidigal",
+                  "text": "A Vidigal közösségben található színház a helyi előadóművészetek nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.235798,
+                        -22.993596
+                  ]
+            },
+            {
+                  "name": "Teatro Fashion Mall",
+                  "text": "Ez a kortárs beltéri színház egy nyüzsgő kereskedelmi központban található a Pedra da Gávea közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.258889,
+                        -22.996033
+                  ]
+            },
+            {
+                  "name": "Teatro Multiplan",
+                  "text": "Egy modern előadóművészeti színház, amely változatos színházi produkciókat kínál a Pedra da Gávea közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.351212,
+                        -22.997214
+                  ]
+            },
+            {
+                  "name": "Teatro Nathália Timberg",
+                  "text": "A híres brazil színésznőről elnevezett előadóművészeti helyszín változatos színházi műveket állít színpadra.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.335269,
+                        -22.99815
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cidade das Artes",
+                  "text": "Cidade das Artes este un centru de arte renumit, proiectat de arhitectul Christian de Portzamparc.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.365804,
+                        -22.999117
+                  ]
+            },
+            {
+                  "name": "Pedra da Gávea",
+                  "text": "Pedra da Gávea este o atracție montană monolitică recunoscută la nivel mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.282973,
+                        -22.998982
+                  ]
+            },
+            {
+                  "name": "Pedra Bonita",
+                  "text": "Pedra Bonita este un vârf montan proeminent, cunoscut pentru traseele sale pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -43.284091,
+                        -22.989182
+                  ]
+            },
+            {
+                  "name": "Morro Dois Irmãos",
+                  "text": "Morro Dois Irmãos este o zonă de parc care înconjoară emblematicele vârfuri gemene, înființată oficial în 1990.",
+                  "category": "park",
+                  "coords": [
+                        -43.244923,
+                        -22.994798
+                  ]
+            },
+            {
+                  "name": "Parque Natural Municipal Bosque da Barra",
+                  "text": "Parque Natural Municipal Bosque da Barra este un parc natural municipal cu vegetație conservată, înființat în 1983.",
+                  "category": "park",
+                  "coords": [
+                        -43.371457,
+                        -22.996484
+                  ]
+            },
+            {
+                  "name": "Praia do Vidigal",
+                  "text": "Praia do Vidigal este o plajă de nisip notabilă situată de-a lungul coastei atlantice.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.232227,
+                        -22.992113
+                  ]
+            },
+            {
+                  "name": "Praia da Barra da Tijuca",
+                  "text": "Barra da Tijuca Beach este o plajă de nisip extinsă, renumită pentru întinderea sa lungă de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.331771,
+                        -23.012672
+                  ]
+            },
+            {
+                  "name": "Praia da Joatinga",
+                  "text": "Praia da Joatinga este o plajă de nisip izolată, accesibilă printr-o potecă stâncoasă.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.290615,
+                        -23.014707
+                  ]
+            },
+            {
+                  "name": "Museu Seleção Brasileira",
+                  "text": "Museu Seleção Brasileira este un muzeu recunoscut la nivel mondial, dedicat istoriei echipei naționale de fotbal a Braziliei.",
+                  "category": "museum",
+                  "coords": [
+                        -43.364245,
+                        -22.995822
+                  ]
+            },
+            {
+                  "name": "Morro do Laboriaux",
+                  "text": "Morro do Laboriaux este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.253731,
+                        -22.983523
+                  ]
+            },
+            {
+                  "name": "Morro do Cochrane",
+                  "text": "Morro do Cochrane este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.265913,
+                        -22.98321
+                  ]
+            },
+            {
+                  "name": "Morro do Cipó",
+                  "text": "Morro do Cipó este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.304586,
+                        -22.968232
+                  ]
+            },
+            {
+                  "name": "Morro do Quilombo",
+                  "text": "Morro do Quilombo este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.315015,
+                        -22.978855
+                  ]
+            },
+            {
+                  "name": "Morro da Marimbeira",
+                  "text": "Morro da Marimbeira este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.317121,
+                        -22.973837
+                  ]
+            },
+            {
+                  "name": "Morro do Pinheiro",
+                  "text": "Morro do Pinheiro este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.328705,
+                        -22.968027
+                  ]
+            },
+            {
+                  "name": "Pedra da Panela",
+                  "text": "Pedra da Panela este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.343378,
+                        -22.969669
+                  ]
+            },
+            {
+                  "name": "Outeiro",
+                  "text": "Outeiro este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.369105,
+                        -22.962004
+                  ]
+            },
+            {
+                  "name": "Morro da Muzema",
+                  "text": "Morro da Muzema este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.322053,
+                        -22.983141
+                  ]
+            },
+            {
+                  "name": "Morro do Pica Pau",
+                  "text": "Morro do Pica Pau este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.312207,
+                        -22.985372
+                  ]
+            },
+            {
+                  "name": "Pedra do Itanhangá",
+                  "text": "Pedra do Itanhangá este un vârf montan natural pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -43.314972,
+                        -22.99417
+                  ]
+            },
+            {
+                  "name": "Morro da Bandeira",
+                  "text": "Acest vârf montan proeminent face parte din terenul accidentat din jurul masivului Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.283813,
+                        -22.993952
+                  ]
+            },
+            {
+                  "name": "Morro da Gávea Pequena",
+                  "text": "Această elevație stâncoasă distinctă este un vârf notabil în peisajul de coastă de la Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.282912,
+                        -22.982495
+                  ]
+            },
+            {
+                  "name": "Morro do Chapecó",
+                  "text": "Acest vârf montan impresionant este amplasat în rezervația naturală luxuriantă din jurul Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.284691,
+                        -22.98189
+                  ]
+            },
+            {
+                  "name": "Aguilhinha da Gávea",
+                  "text": "Cunoscut pentru peretele său abrupt de granit, acest vârf de alpinism se învecinează cu faimoasa Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.276992,
+                        -22.985972
+                  ]
+            },
+            {
+                  "name": "Pico dos Quatro",
+                  "text": "Acest vârf abrupt oferă vederi extinse asupra coastei Atlanticului și a zonei Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.286313,
+                        -23.003302
+                  ]
+            },
+            {
+                  "name": "Morro da Joatinga",
+                  "text": "Cu vedere la regiunea de coastă Joatinga, acest vârf înalt prezintă pante abrupte acoperite de pădurea atlantică.",
+                  "category": "natural",
+                  "coords": [
+                        -43.289176,
+                        -23.011494
+                  ]
+            },
+            {
+                  "name": "Praia do Pepino",
+                  "text": "Această porțiune de coastă nisipoasă servește drept loc de aterizare popular pentru deltaplanoriștii care coboară de pe Pedra Bonita.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.265144,
+                        -23.000192
+                  ]
+            },
+            {
+                  "name": "Praia dos Amores",
+                  "text": "Această plajă retrasă cu nisip este mărginită de valurile Atlanticului și de pantele accidentate din apropiere de Pedra da Gávea.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.295434,
+                        -23.012818
+                  ]
+            },
+            {
+                  "name": "Passarela da Rocinha",
+                  "text": "Această pasarelă pietonală proeminentă servește ca monument arhitectural care conectează comunitatea Rocinha.",
+                  "category": "historical",
+                  "coords": [
+                        -43.251096,
+                        -22.992684
+                  ]
+            },
+            {
+                  "name": "mina de escravos",
+                  "text": "Aceste ruine istorice ale unei mine oferă o amintire sumbră a epocii coloniale a regiunii de lângă Pedra da Gávea.",
+                  "category": "historical",
+                  "coords": [
+                        -43.291572,
+                        -22.984948
+                  ]
+            },
+            {
+                  "name": "Anfitrião",
+                  "text": "Acest teatru local găzduiește spectacole dramatice și evenimente culturale în apropiere de Pedra da Gávea.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.245054,
+                        -22.995979
+                  ]
+            },
+            {
+                  "name": "Teátro do Vidigal",
+                  "text": "Situat în comunitatea Vidigal, acest teatru este un centru vibrant pentru artele spectacolului local.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.235798,
+                        -22.993596
+                  ]
+            },
+            {
+                  "name": "Teatro Fashion Mall",
+                  "text": "Acest teatru interior contemporan este situat într-un centru comercial aglomerat de lângă Pedra da Gávea.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.258889,
+                        -22.996033
+                  ]
+            },
+            {
+                  "name": "Teatro Multiplan",
+                  "text": "Un teatru modern de arte interpretative care oferă un program variat de producții teatrale în apropiere de Pedra da Gávea.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.351212,
+                        -22.997214
+                  ]
+            },
+            {
+                  "name": "Teatro Nathália Timberg",
+                  "text": "Numit în onoarea unei renumite actrițe braziliene, acest loc de spectacol pune în scenă diverse opere teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.335269,
+                        -22.99815
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cidade das Artes",
+                  "text": "Cidade das Artes is a renowned arts centre designed by architect Christian de Portzamparc.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.365804,
+                        -22.999117
+                  ]
+            },
+            {
+                  "name": "Pedra da Gávea",
+                  "text": "Pedra da Gávea is a globally recognized monolithic mountain attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.282973,
+                        -22.998982
+                  ]
+            },
+            {
+                  "name": "Pedra Bonita",
+                  "text": "Pedra Bonita is a prominent mountain peak known for its scenic trails.",
+                  "category": "natural",
+                  "coords": [
+                        -43.284091,
+                        -22.989182
+                  ]
+            },
+            {
+                  "name": "Morro Dois Irmãos",
+                  "text": "Morro Dois Irmãos is a park area surrounding the iconic twin peaks, officially established in 1990.",
+                  "category": "park",
+                  "coords": [
+                        -43.244923,
+                        -22.994798
+                  ]
+            },
+            {
+                  "name": "Parque Natural Municipal Bosque da Barra",
+                  "text": "Parque Natural Municipal Bosque da Barra is a municipal nature park with preserved vegetation, established in 1983.",
+                  "category": "park",
+                  "coords": [
+                        -43.371457,
+                        -22.996484
+                  ]
+            },
+            {
+                  "name": "Praia do Vidigal",
+                  "text": "Praia do Vidigal is a notable sandy beach situated along the Atlantic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.232227,
+                        -22.992113
+                  ]
+            },
+            {
+                  "name": "Barra da Tijuca Beach",
+                  "text": "Barra da Tijuca Beach is a renowned expansive sandy beach known for its long stretch of coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.331771,
+                        -23.012672
+                  ]
+            },
+            {
+                  "name": "Praia da Joatinga",
+                  "text": "Praia da Joatinga is a secluded sandy beach accessible via a rocky trail.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.290615,
+                        -23.014707
+                  ]
+            },
+            {
+                  "name": "Museu Seleção Brasileira",
+                  "text": "Museu Seleção Brasileira is a globally recognized museum dedicated to the history of the Brazilian national football team.",
+                  "category": "museum",
+                  "coords": [
+                        -43.364245,
+                        -22.995822
+                  ]
+            },
+            {
+                  "name": "Morro do Laboriaux",
+                  "text": "Morro do Laboriaux is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.253731,
+                        -22.983523
+                  ]
+            },
+            {
+                  "name": "Morro do Cochrane",
+                  "text": "Morro do Cochrane is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.265913,
+                        -22.98321
+                  ]
+            },
+            {
+                  "name": "Morro do Cipó",
+                  "text": "Morro do Cipó is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.304586,
+                        -22.968232
+                  ]
+            },
+            {
+                  "name": "Morro do Quilombo",
+                  "text": "Morro do Quilombo is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.315015,
+                        -22.978855
+                  ]
+            },
+            {
+                  "name": "Morro da Marimbeira",
+                  "text": "Morro da Marimbeira is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.317121,
+                        -22.973837
+                  ]
+            },
+            {
+                  "name": "Morro do Pinheiro",
+                  "text": "Morro do Pinheiro is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.328705,
+                        -22.968027
+                  ]
+            },
+            {
+                  "name": "Pedra da Panela",
+                  "text": "Pedra da Panela is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.343378,
+                        -22.969669
+                  ]
+            },
+            {
+                  "name": "Outeiro",
+                  "text": "Outeiro is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.369105,
+                        -22.962004
+                  ]
+            },
+            {
+                  "name": "Morro da Muzema",
+                  "text": "Morro da Muzema is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.322053,
+                        -22.983141
+                  ]
+            },
+            {
+                  "name": "Morro do Pica Pau",
+                  "text": "Morro do Pica Pau is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.312207,
+                        -22.985372
+                  ]
+            },
+            {
+                  "name": "Pedra do Itanhangá",
+                  "text": "Pedra do Itanhangá is a scenic natural mountain peak.",
+                  "category": "natural",
+                  "coords": [
+                        -43.314972,
+                        -22.99417
+                  ]
+            },
+            {
+                  "name": "Morro da Bandeira",
+                  "text": "This prominent mountain peak forms part of the rugged terrain surrounding the Pedra da Gávea massif.",
+                  "category": "natural",
+                  "coords": [
+                        -43.283813,
+                        -22.993952
+                  ]
+            },
+            {
+                  "name": "Morro da Gávea Pequena",
+                  "text": "This distinct rocky elevation stands as a notable peak within the Pedra da Gávea coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -43.282912,
+                        -22.982495
+                  ]
+            },
+            {
+                  "name": "Morro do Chapecó",
+                  "text": "This striking mountain peak is nestled within the lush natural reserve around Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.284691,
+                        -22.98189
+                  ]
+            },
+            {
+                  "name": "Aguilhinha da Gávea",
+                  "text": "Known for its steep granitic face, this challenging rock climbing peak neighbors the famous Pedra da Gávea.",
+                  "category": "natural",
+                  "coords": [
+                        -43.276992,
+                        -22.985972
+                  ]
+            },
+            {
+                  "name": "Pico dos Quatro",
+                  "text": "This steep summit offers expansive views over the Atlantic coastline and the Pedra da Gávea area.",
+                  "category": "natural",
+                  "coords": [
+                        -43.286313,
+                        -23.003302
+                  ]
+            },
+            {
+                  "name": "Morro da Joatinga",
+                  "text": "Overlooking the Joatinga coastal region, this elevated peak features steep slopes covered by Atlantic forest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.289176,
+                        -23.011494
+                  ]
+            },
+            {
+                  "name": "Praia do Pepino",
+                  "text": "This sandy coastal stretch serves as a popular landing spot for hang gliders descending from Pedra Bonita.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.265144,
+                        -23.000192
+                  ]
+            },
+            {
+                  "name": "Praia dos Amores",
+                  "text": "This secluded sandy beach is bordered by Atlantic waves and the rugged slopes near Pedra da Gávea.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.295434,
+                        -23.012818
+                  ]
+            },
+            {
+                  "name": "Passarela da Rocinha",
+                  "text": "This prominent pedestrian footbridge serves as an architectural monument connecting the Rocinha community.",
+                  "category": "historical",
+                  "coords": [
+                        -43.251096,
+                        -22.992684
+                  ]
+            },
+            {
+                  "name": "mina de escravos",
+                  "text": "These historical mine ruins offer a somber reminder of the region's colonial era near Pedra da Gávea.",
+                  "category": "historical",
+                  "coords": [
+                        -43.291572,
+                        -22.984948
+                  ]
+            },
+            {
+                  "name": "Anfitrião",
+                  "text": "This local theater venue hosts dramatic performances and cultural events close to Pedra da Gávea.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.245054,
+                        -22.995979
+                  ]
+            },
+            {
+                  "name": "Teátro do Vidigal",
+                  "text": "Situated in the Vidigal community, this theater is a vibrant hub for local performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.235798,
+                        -22.993596
+                  ]
+            },
+            {
+                  "name": "Teatro Fashion Mall",
+                  "text": "This contemporary indoor theater venue is located within a bustling commercial center near Pedra da Gávea.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.258889,
+                        -22.996033
+                  ]
+            },
+            {
+                  "name": "Teatro Multiplan",
+                  "text": "A modern performing arts theater offering a varied schedule of theatrical productions near Pedra da Gávea.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.351212,
+                        -22.997214
+                  ]
+            },
+            {
+                  "name": "Teatro Nathália Timberg",
+                  "text": "Named in honor of a renowned Brazilian actress, this performing arts venue stages diverse theatrical works.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.335269,
+                        -22.99815
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BR-RJ",
     coords: [-43.28, -22.99],
@@ -783,7 +6939,52 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Un immense monolithe qui s'élève directement de l'océan à Rio de Janeiro.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Lié à la vie quotidienne et à l'histoire du pays.", "Soumis à l'influence du climat majoritairement tropical du Brésil."],
     }, image: "/poi-images/br-pedra-da-gavea-nature-v2.webp"},
   {
-    id: "br-monte-pascoal-nature-v2",
+    id: "br-monte-pascoal-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Pascoal",
+                  "text": "Ein markanter Berg, der als erste von den Portugiesen im Jahr 1500 gesichtete Landform berühmt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -39.407561,
+                        -16.896321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Pascoal",
+                  "text": "Kiemelkedő hegy, amely arról híres, hogy a portugálok ezt a szárazföldi formát pillantották meg először 1500-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -39.407561,
+                        -16.896321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Pascoal",
+                  "text": "Un munte proeminent faimos ca fiind prima formă de relief zărită de portughezi în anul 1500.",
+                  "category": "landmark",
+                  "coords": [
+                        -39.407561,
+                        -16.896321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Pascoal",
+                  "text": "A prominent mountain famously known as the first landform sighted by the Portuguese in 1500.",
+                  "category": "landmark",
+                  "coords": [
+                        -39.407561,
+                        -16.896321
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BR-BA",
     coords: [-39.4, -16.89],
@@ -924,7 +7125,1204 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Une grande lagune côtière partagée entre le Brésil et l'Uruguay, connue pour sa biodiversité.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Lié à la vie quotidienne et à l'histoire du pays.", "Sous l'influence du climat principalement tropical du Brésil."],
     }, image: "/poi-images/br-lagoa-mirim-nature-v2.webp"},
   {
-    id: "br-lagoa-da-conceicao-nature-v2",
+    id: "br-lagoa-da-conceicao-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia da Joaquina",
+                  "text": "Dieser Strand ist weltberühmt für seine riesigen Wanderdünen und die hohen Wellen, die Surfer aus aller Welt anlocken.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.452959,
+                        -27.63334
+                  ]
+            },
+            {
+                  "name": "Praia do Moçambique",
+                  "text": "Mit über 8 Kilometern Länge ist dies der größte Strand von Florianópolis, eingebettet in ein unberührtes Naturschutzgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.414241,
+                        -27.525273
+                  ]
+            },
+            {
+                  "name": "Praia Mole",
+                  "text": "Der Strand ist für seinen besonders weichen, nachgiebigen Sand bekannt und ein beliebter Treffpunkt für die junge Szene.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.432686,
+                        -27.602398
+                  ]
+            },
+            {
+                  "name": "Praia do Gravatá",
+                  "text": "Dieser versteckte, kleine Strand ist nur über einen Wanderweg erreichbar und bietet Ruhe abseits der Massen.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.43356,
+                        -27.613429
+                  ]
+            },
+            {
+                  "name": "Praia da Galheta",
+                  "text": "Inmitten eines Naturschutzgebiets gelegen, ist dies der einzige offiziell für FKK zugelassene Strand der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.424166,
+                        -27.592432
+                  ]
+            },
+            {
+                  "name": "Museu Aberto da Tartaruga Marinha",
+                  "text": "Ein Freilichtmuseum des Projekts TAMAR, das sich dem Schutz und der Rehabilitation von Meeresschildkröten widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -48.428009,
+                        -27.571797
+                  ]
+            },
+            {
+                  "name": "Jardim das Esculturas - Maia",
+                  "text": "In diesem Skulpturengarten unter freiem Himmel werden die beeindruckenden Steinarbeiten des lokalen Künstlers José Maia ausgestellt.",
+                  "category": "museum",
+                  "coords": [
+                        -48.442404,
+                        -27.609255
+                  ]
+            },
+            {
+                  "name": "Sítio Arqueológico",
+                  "text": "Diese archäologische Stätte bewahrt prähistorische Felsgravuren, die von den frühen Bewohnern der Region hinterlassen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -48.4216,
+                        -27.590251
+                  ]
+            },
+            {
+                  "name": "Sambaqui",
+                  "text": "Ein prähistorischer Muschelhaufen, der von frühen Küstenbewohnern als Wohnstätte und Grabplatz genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -48.421914,
+                        -27.572698
+                  ]
+            },
+            {
+                  "name": "Menir Central",
+                  "text": "Ein zentraler, aufrecht stehender Monolith, der vermutlich rituellen oder astronomischen Zwecken diente.",
+                  "category": "historical",
+                  "coords": [
+                        -48.427866,
+                        -27.58806
+                  ]
+            },
+            {
+                  "name": "Dólmen da Oração",
+                  "text": "Diese megalithische Steinstruktur wird als antiker Ort für Rituale und Himmelsbeobachtungen interpretiert.",
+                  "category": "historical",
+                  "coords": [
+                        -48.429141,
+                        -27.590698
+                  ]
+            },
+            {
+                  "name": "Monumento à Rendeira",
+                  "text": "Dieses Denkmal ehrt die traditionellen Spitzenklöpplerinnen, deren Handwerk ein wichtiger Teil des lokalen Kulturerbes ist.",
+                  "category": "historical",
+                  "coords": [
+                        -48.464114,
+                        -27.604094
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Veras",
+                  "text": "Ein lebendiges Kulturzentrum im Stadtteil Córrego Grande, das Ausstellungen zeitgenössischer Kunst und Workshops anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.498609,
+                        -27.598375
+                  ]
+            },
+            {
+                  "name": "Clube Cultural Pró Ecológico Independente",
+                  "text": "Dieses Zentrum fördert durch künstlerische Projekte und Bildungsveranstaltungen das ökologische Bewusstsein der Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.492825,
+                        -27.558651
+                  ]
+            },
+            {
+                  "name": "CCMV - Conselho Comunitário do Monte Verde",
+                  "text": "Ein von der Nachbarschaft geführtes Kulturzentrum im Viertel Monte Verde, das lokale Talente und soziale Projekte unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.495061,
+                        -27.558352
+                  ]
+            },
+            {
+                  "name": "Mercado São Jorge",
+                  "text": "Ein moderner Marktplatz für Bioprodukte und Kunsthandwerk, bekannt für sein gesundes Gastronomieangebot.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.49589,
+                        -27.589436
+                  ]
+            },
+            {
+                  "name": "Farol da Barra",
+                  "text": "Dieser kleine Leuchtturm markiert die Stelle, an der die Lagune durch einen Kanal mit dem offenen Meer verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.416643,
+                        -27.575932
+                  ]
+            },
+            {
+                  "name": "Pedra de Observação de Equinócios",
+                  "text": "Diese Felsformation wurde von frühen Kulturen genutzt, um den Sonnenstand während der Tagundnachtgleichen zu bestimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.428919,
+                        -27.589796
+                  ]
+            },
+            {
+                  "name": "Rampa Voo Livre",
+                  "text": "Ein beliebter Startplatz für Gleitschirmflieger, der einen spektakulären Panoramablick über die Lagune bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.471611,
+                        -27.591455
+                  ]
+            },
+            {
+                  "name": "Praia do Rio Tavares",
+                  "text": "Ein langer Sandstrand, der besonders bei Kitesurfern beliebt ist und direkt an ein Naturschutzgebiet grenzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.467928,
+                        -27.653039
+                  ]
+            },
+            {
+                  "name": "Igreja São Pedro",
+                  "text": "Diese katholische Kirche ist dem Heiligen Petrus gewidmet, dem Schutzpatron der örtlichen Fischergemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.423283,
+                        -27.575428
+                  ]
+            },
+            {
+                  "name": "Gruta de Nossa Senhora de Guadalupe",
+                  "text": "Eine kleine, andächtige Grotte am Ufer der Lagune, die Unserer Lieben Frau von Guadalupe gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49491,
+                        -27.58141
+                  ]
+            },
+            {
+                  "name": "Capela Santa Cruz",
+                  "text": "Eine traditionelle Kapelle mit weiß getünchten Wänden im malerischen Fischerdorf Barra da Lagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.472326,
+                        -27.632668
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "Ein modernes Kirchengebäude der Siebenten-Tags-Adventisten, das als geistliches Zentrum für die Anwohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.491893,
+                        -27.660533
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Conceição da Lagoa",
+                  "text": "Diese historische Kapelle im Kolonialstil thront auf einem Hügel und bietet eine der besten Aussichten auf die Lagune.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.467497,
+                        -27.598171
+                  ]
+            },
+            {
+                  "name": "Sara Nossa Terra",
+                  "text": "Ein christliches Gemeindezentrum, das religiöse Dienste und soziale Unterstützung für die umliegende Nachbarschaft anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.497535,
+                        -27.595814
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "Eine moderne Versammlungsstätte der Zeugen Jehovas für die lokale Gemeinde nahe der malerischen Lagune.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49589,
+                        -27.550791
+                  ]
+            },
+            {
+                  "name": "Paróquia São Francisco Xavier Arquidiocese",
+                  "text": "Diese katholische Pfarrei dient als geistliches Zentrum für die Bewohner der Region Lagoa da Conceição.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49682,
+                        -27.555121
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "Eine Pfingstkirche, die religiöse Dienste für die lokale Nachbarschaft in diesem Küstenviertel anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.434547,
+                        -27.580252
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "Eine religiöse Versammlungsstätte der Christlichen Versammlung, bekannt für ihre schlichte und zweckmäßige Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.494299,
+                        -27.557339
+                  ]
+            },
+            {
+                  "name": "Igreja Deus é Amor",
+                  "text": "Ein Pfingstmissionshaus, das evangelikale Dienste für die örtliche Gemeinschaft anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49214,
+                        -27.584097
+                  ]
+            },
+            {
+                  "name": "Bola de Neve Church",
+                  "text": "Eine charismatische christliche Kirche, die bei der örtlichen Jugend und der Surfer-Community beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.493721,
+                        -27.59082
+                  ]
+            },
+            {
+                  "name": "Igreja São Sebastião do Campeche",
+                  "text": "Eine lokale Pfarrei, die der traditionellen Fischer- und Wohngemeinde von Campeche dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.483101,
+                        -27.676566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia da Joaquina",
+                  "text": "Ez a strand világhírű hatalmas vándorló homokdűnéiről és a magas hullámokról, amelyek vonzzák a szörfösöket.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.452959,
+                        -27.63334
+                  ]
+            },
+            {
+                  "name": "Praia do Moçambique",
+                  "text": "Több mint 8 kilométeres hosszával ez Florianópolis legnagyobb strandja, amely egy érintetlen természetvédelmi területen fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.414241,
+                        -27.525273
+                  ]
+            },
+            {
+                  "name": "Praia Mole",
+                  "text": "A strand különösen puha, besüppedő homokjáról ismert, és a fiatalok körében népszerű találkozóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.432686,
+                        -27.602398
+                  ]
+            },
+            {
+                  "name": "Praia do Gravatá",
+                  "text": "Ez a rejtett, apró strand csak egy gyalogösvényen keresztül érhető el, nyugalmat kínálva a tömegtől távol.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.43356,
+                        -27.613429
+                  ]
+            },
+            {
+                  "name": "Praia da Galheta",
+                  "text": "Egy természetvédelmi terület közepén található; ez a város egyetlen hivatalosan naturista strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.424166,
+                        -27.592432
+                  ]
+            },
+            {
+                  "name": "Museu Aberto da Tartaruga Marinha",
+                  "text": "A TAMAR projekt szabadtéri múzeuma, amely a tengeri teknősök védelmének és rehabilitációjának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -48.428009,
+                        -27.571797
+                  ]
+            },
+            {
+                  "name": "Jardim das Esculturas - Maia",
+                  "text": "Ebben a szabadtéri szoborkertben José Maia helyi művész lenyűgöző kőszobrait állítják ki.",
+                  "category": "museum",
+                  "coords": [
+                        -48.442404,
+                        -27.609255
+                  ]
+            },
+            {
+                  "name": "Sítio Arqueológico",
+                  "text": "Ez a régészeti lelőhely prehisztorikus sziklavéseteket őriz, amelyeket a régió korai lakói hagytak hátra.",
+                  "category": "historical",
+                  "coords": [
+                        -48.4216,
+                        -27.590251
+                  ]
+            },
+            {
+                  "name": "Sambaqui",
+                  "text": "Prehisztorikus kagylódomb, amelyet a korai parti lakók lakóhelyként és temetkezési helyként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -48.421914,
+                        -27.572698
+                  ]
+            },
+            {
+                  "name": "Menir Central",
+                  "text": "Egy központi, álló monolit, amely feltehetően rituális vagy csillagászati célokat szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -48.427866,
+                        -27.58806
+                  ]
+            },
+            {
+                  "name": "Dólmen da Oração",
+                  "text": "Ezt a megalitikus kőszerkezetet ősi rituális helyszínként és csillagászati megfigyelőpontként értelmezik.",
+                  "category": "historical",
+                  "coords": [
+                        -48.429141,
+                        -27.590698
+                  ]
+            },
+            {
+                  "name": "Monumento à Rendeira",
+                  "text": "Ez az emlékmű a hagyományos csipkeverő asszonyok előtt tiszteleg, akiknek mestersége a helyi örökség fontos része.",
+                  "category": "historical",
+                  "coords": [
+                        -48.464114,
+                        -27.604094
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Veras",
+                  "text": "Córrego Grande negyedben található pezsgő kulturális központ, amely kortárs művészeti kiállításokat és workshopokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.498609,
+                        -27.598375
+                  ]
+            },
+            {
+                  "name": "Clube Cultural Pró Ecológico Independente",
+                  "text": "Ez a központ művészeti projektekkel és oktatási programokkal segíti a közösség ökológiai tudatosságát.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.492825,
+                        -27.558651
+                  ]
+            },
+            {
+                  "name": "CCMV - Conselho Comunitário do Monte Verde",
+                  "text": "A Monte Verde negyedben található, közösség által irányított kulturális központ, amely helyi tehetségeket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.495061,
+                        -27.558352
+                  ]
+            },
+            {
+                  "name": "Mercado São Jorge",
+                  "text": "Modern biopiac és kézműves központ, amely egészséges gasztronómiai kínálatáról és biotermékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.49589,
+                        -27.589436
+                  ]
+            },
+            {
+                  "name": "Farol da Barra",
+                  "text": "Ez a kis világítótorony jelzi azt a pontot, ahol a lagúna egy csatornán keresztül az óceánhoz csatlakozik.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.416643,
+                        -27.575932
+                  ]
+            },
+            {
+                  "name": "Pedra de Observação de Equinócios",
+                  "text": "Ezt a sziklaformációt ősi kultúrák használták a napállás megfigyelésére a napéjegyenlőségek idején.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.428919,
+                        -27.589796
+                  ]
+            },
+            {
+                  "name": "Rampa Voo Livre",
+                  "text": "Népszerű siklóernyős felszállóhely, amely látványos panorámát nyújt a lagúnára és a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.471611,
+                        -27.591455
+                  ]
+            },
+            {
+                  "name": "Praia do Rio Tavares",
+                  "text": "Hosszú homokos tengerpart, amely különösen a kiteszörfösök körében népszerű, és közvetlenül egy természetvédelmi terület mellett fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.467928,
+                        -27.653039
+                  ]
+            },
+            {
+                  "name": "Igreja São Pedro",
+                  "text": "Ez a katolikus templom Szent Péternek, a helyi halászközösség védőszentjének van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.423283,
+                        -27.575428
+                  ]
+            },
+            {
+                  "name": "Gruta de Nossa Senhora de Guadalupe",
+                  "text": "Kicsi, meghitt sziklabarlang-szentély a lagúna partján, amelyet a Guadalupe-i Szűzanyának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49491,
+                        -27.58141
+                  ]
+            },
+            {
+                  "name": "Capela Santa Cruz",
+                  "text": "Hagyományos, fehérre meszelt falú kápolna Barra da Lagoa festői halászfalujában.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.472326,
+                        -27.632668
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "A Hetednapi Adventista Egyház modern épülete, amely szellemi központként szolgál a környéken lakók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.491893,
+                        -27.660533
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Conceição da Lagoa",
+                  "text": "Ez a dombtetőn álló történelmi, gyarmati stílusú kápolna az egyik legszebb kilátást nyújtja a lagúnára.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.467497,
+                        -27.598171
+                  ]
+            },
+            {
+                  "name": "Sara Nossa Terra",
+                  "text": "Keresztény közösségi központ, amely vallási szolgáltatásokat és szociális támogatást nyújt a környező környéknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.497535,
+                        -27.595814
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "A Jehova Tanúi helyi közösségének modern imaháza a festői lagúna közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49589,
+                        -27.550791
+                  ]
+            },
+            {
+                  "name": "Paróquia São Francisco Xavier Arquidiocese",
+                  "text": "Ez a katolikus plébánia a Lagoa da Conceição régió lakóinak lelki központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49682,
+                        -27.555121
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "Pünkösdi templom, amely vallási szolgáltatásokat nyújt a helyi közösségnek ebben a tengerparti negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.434547,
+                        -27.580252
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "A Keresztény Gyülekezet vallási találkozóhelye, amely egyszerű és célratörő építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.494299,
+                        -27.557339
+                  ]
+            },
+            {
+                  "name": "Igreja Deus é Amor",
+                  "text": "Pünkösdi missziós ház, amely evangéliumi szolgáltatásokat nyújt a helyi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49214,
+                        -27.584097
+                  ]
+            },
+            {
+                  "name": "Bola de Neve Church",
+                  "text": "Karizmatikus keresztény templom, amely népszerű a helyi fiatalok és a szörfös közösség körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.493721,
+                        -27.59082
+                  ]
+            },
+            {
+                  "name": "Igreja São Sebastião do Campeche",
+                  "text": "Helyi plébánia, amely Campeche hagyományos halász- és lakóközösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.483101,
+                        -27.676566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia da Joaquina",
+                  "text": "Această plajă este faimoasă în întreaga lume pentru dunele sale uriașe de nisip și valurile mari care atrag surferii.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.452959,
+                        -27.63334
+                  ]
+            },
+            {
+                  "name": "Praia do Moçambique",
+                  "text": "Cu o lungime de peste 8 kilometri, aceasta este cea mai mare plajă din Florianópolis, situată într-o rezervație naturală virgină.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.414241,
+                        -27.525273
+                  ]
+            },
+            {
+                  "name": "Praia Mole",
+                  "text": "Plaja este cunoscută pentru nisipul său deosebit de moale și este un loc de întâlnire popular pentru tineri.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.432686,
+                        -27.602398
+                  ]
+            },
+            {
+                  "name": "Praia do Gravatá",
+                  "text": "Această plajă mică și ascunsă este accesibilă doar printr-o potecă, oferind liniște departe de mulțime.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.43356,
+                        -27.613429
+                  ]
+            },
+            {
+                  "name": "Praia da Galheta",
+                  "text": "Situată în mijlocul unei rezervații naturale, aceasta este singura plajă din oraș desemnată oficial pentru nudism.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.424166,
+                        -27.592432
+                  ]
+            },
+            {
+                  "name": "Museu Aberto da Tartaruga Marinha",
+                  "text": "Un muzeu în aer liber al proiectului TAMAR, dedicat protecției și reabilitării țestoaselor marine.",
+                  "category": "museum",
+                  "coords": [
+                        -48.428009,
+                        -27.571797
+                  ]
+            },
+            {
+                  "name": "Jardim das Esculturas - Maia",
+                  "text": "Această grădină de sculpturi în aer liber expune lucrările impresionante în piatră ale artistului local José Maia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.442404,
+                        -27.609255
+                  ]
+            },
+            {
+                  "name": "Sítio Arqueológico",
+                  "text": "Acest sit arheologic păstrează gravuri rupestre preistorice lăsate de primii locuitori ai regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -48.4216,
+                        -27.590251
+                  ]
+            },
+            {
+                  "name": "Sambaqui",
+                  "text": "O movilă preistorică de scoici, folosită de vechii locuitori ai coastei ca loc de locuire și de înmormântare.",
+                  "category": "historical",
+                  "coords": [
+                        -48.421914,
+                        -27.572698
+                  ]
+            },
+            {
+                  "name": "Menir Central",
+                  "text": "Un monolit central, în picioare, care probabil a servit unor scopuri rituale sau astronomice.",
+                  "category": "historical",
+                  "coords": [
+                        -48.427866,
+                        -27.58806
+                  ]
+            },
+            {
+                  "name": "Dólmen da Oração",
+                  "text": "Această structură megalitică din piatră este interpretată ca un sit antic pentru ritualuri și observații cerești.",
+                  "category": "historical",
+                  "coords": [
+                        -48.429141,
+                        -27.590698
+                  ]
+            },
+            {
+                  "name": "Monumento à Rendeira",
+                  "text": "Acest monument onorează dantelăresele tradiționale, a căror meșteșug este o parte importantă a moștenirii locale.",
+                  "category": "historical",
+                  "coords": [
+                        -48.464114,
+                        -27.604094
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Veras",
+                  "text": "Un centru cultural vibrant în cartierul Córrego Grande, care oferü expoziții de artă contemporană și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.498609,
+                        -27.598375
+                  ]
+            },
+            {
+                  "name": "Clube Cultural Pró Ecológico Independente",
+                  "text": "Acest centru promovează conștientizarea ecologică a comunității prin proiecte artistice și programe educaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.492825,
+                        -27.558651
+                  ]
+            },
+            {
+                  "name": "CCMV - Conselho Comunitário do Monte Verde",
+                  "text": "Un centru cultural administrat de comunitate în cartierul Monte Verde, care susține talentele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.495061,
+                        -27.558352
+                  ]
+            },
+            {
+                  "name": "Mercado São Jorge",
+                  "text": "O piață modernă de produse organice și artizanat, cunoscută pentru oferta sa gastronomică sănătoasă.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.49589,
+                        -27.589436
+                  ]
+            },
+            {
+                  "name": "Farol da Barra",
+                  "text": "Acest mic far marchează punctul în care laguna se conectează cu oceanul printr-un canal.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.416643,
+                        -27.575932
+                  ]
+            },
+            {
+                  "name": "Pedra de Observação de Equinócios",
+                  "text": "Această formațiune stâncoasă a fost folosită de culturile antice pentru a observa poziția soarelui în timpul echinocțiilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.428919,
+                        -27.589796
+                  ]
+            },
+            {
+                  "name": "Rampa Voo Livre",
+                  "text": "O rampă de lansare populară pentru parapantă, oferind o vedere panoramică spectaculoasă asupra lagunei.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.471611,
+                        -27.591455
+                  ]
+            },
+            {
+                  "name": "Praia do Rio Tavares",
+                  "text": "O plajă lungă de nisip, populară în special pentru kitesurfing, situată chiar lângă o rezervație naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.467928,
+                        -27.653039
+                  ]
+            },
+            {
+                  "name": "Igreja São Pedro",
+                  "text": "Această biserică catolică este dedicată Sfântului Petru, patronul comunității locale de pescari.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.423283,
+                        -27.575428
+                  ]
+            },
+            {
+                  "name": "Gruta de Nossa Senhora de Guadalupe",
+                  "text": "O mică grotă religioasă pe malul lagunei, dedicată Maicii Domnului din Guadalupe.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49491,
+                        -27.58141
+                  ]
+            },
+            {
+                  "name": "Capela Santa Cruz",
+                  "text": "O capelă tradițională cu pereți albi, situată în satul pitoresc de pescari Barra da Lagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.472326,
+                        -27.632668
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "O clădire modernă a Bisericii Adventiste de Ziua a Șaptea, care servește ca centru spiritual pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.491893,
+                        -27.660533
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Conceição da Lagoa",
+                  "text": "Această capelă istorică în stil colonial se află pe un deal și oferă una dintre cele mai frumoase priveliști asupra lagunei.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.467497,
+                        -27.598171
+                  ]
+            },
+            {
+                  "name": "Sara Nossa Terra",
+                  "text": "Un centru comunitar creștin care oferă servicii religioase și sprijin social pentru cartierul învecinat.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.497535,
+                        -27.595814
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "O sală de cult modernă a comunității Martorii lui Iehova, situată în apropierea lagunei pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49589,
+                        -27.550791
+                  ]
+            },
+            {
+                  "name": "Paróquia São Francisco Xavier Arquidiocese",
+                  "text": "Această parohie catolică servește ca centru spiritual pentru locuitorii din regiunea Lagoa da Conceição.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49682,
+                        -27.555121
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "O biserică penticostală care oferă servicii religioase comunității locale din acest district de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.434547,
+                        -27.580252
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "Un loc de întâlnire religios al Congregației Creștine, cunoscut pentru arhitectura sa simplă și dedicată.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.494299,
+                        -27.557339
+                  ]
+            },
+            {
+                  "name": "Igreja Deus é Amor",
+                  "text": "O casă de misiune penticostală activă în furnizarea de servicii evanghelice comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49214,
+                        -27.584097
+                  ]
+            },
+            {
+                  "name": "Bola de Neve Church",
+                  "text": "O biserică creștină carismatică, populară în rândul tinerilor locali și al comunității de surferi.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.493721,
+                        -27.59082
+                  ]
+            },
+            {
+                  "name": "Igreja São Sebastião do Campeche",
+                  "text": "O parohie locală care servește comunitatea tradițională de pescari și rezidenți din Campeche.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.483101,
+                        -27.676566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia da Joaquina",
+                  "text": "This beach is world-famous for its massive shifting sand dunes and high waves that attract surfers globally.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.452959,
+                        -27.63334
+                  ]
+            },
+            {
+                  "name": "Praia do Moçambique",
+                  "text": "Over 8 kilometers long, this is the largest beach in Florianópolis, nestled within a pristine nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.414241,
+                        -27.525273
+                  ]
+            },
+            {
+                  "name": "Praia Mole",
+                  "text": "The beach is known for its exceptionally soft, yielding sand and is a popular hangout spot for the younger crowd.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.432686,
+                        -27.602398
+                  ]
+            },
+            {
+                  "name": "Praia do Gravatá",
+                  "text": "This small, hidden beach is accessible only via a hiking trail, offering peace away from the crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.43356,
+                        -27.613429
+                  ]
+            },
+            {
+                  "name": "Praia da Galheta",
+                  "text": "Located within a nature reserve, this is the only beach in the city officially designated for nudism.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.424166,
+                        -27.592432
+                  ]
+            },
+            {
+                  "name": "Museu Aberto da Tartaruga Marinha",
+                  "text": "An open-air museum run by Project TAMAR, dedicated to the protection and rehabilitation of sea turtles.",
+                  "category": "museum",
+                  "coords": [
+                        -48.428009,
+                        -27.571797
+                  ]
+            },
+            {
+                  "name": "Jardim das Esculturas - Maia",
+                  "text": "This open-air sculpture garden displays the impressive stone works of local artist José Maia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.442404,
+                        -27.609255
+                  ]
+            },
+            {
+                  "name": "Sítio Arqueológico",
+                  "text": "This archaeological site preserves prehistoric rock engravings left by the early inhabitants of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -48.4216,
+                        -27.590251
+                  ]
+            },
+            {
+                  "name": "Sambaqui",
+                  "text": "A prehistoric shell mound used by early coastal inhabitants as a living site and burial ground.",
+                  "category": "historical",
+                  "coords": [
+                        -48.421914,
+                        -27.572698
+                  ]
+            },
+            {
+                  "name": "Menir Central",
+                  "text": "A central standing monolith that likely served ritual or astronomical purposes for ancient cultures.",
+                  "category": "historical",
+                  "coords": [
+                        -48.427866,
+                        -27.58806
+                  ]
+            },
+            {
+                  "name": "Dólmen da Oração",
+                  "text": "This megalithic stone structure is interpreted as an ancient site for rituals and celestial observations.",
+                  "category": "historical",
+                  "coords": [
+                        -48.429141,
+                        -27.590698
+                  ]
+            },
+            {
+                  "name": "Monumento à Rendeira",
+                  "text": "This monument honors the traditional lace-makers, whose craft is a vital part of the local cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -48.464114,
+                        -27.604094
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Veras",
+                  "text": "A vibrant cultural center in the Córrego Grande neighborhood, offering contemporary art exhibitions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.498609,
+                        -27.598375
+                  ]
+            },
+            {
+                  "name": "Clube Cultural Pró Ecológico Independente",
+                  "text": "This center promotes ecological awareness in the community through artistic projects and educational events.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.492825,
+                        -27.558651
+                  ]
+            },
+            {
+                  "name": "CCMV - Conselho Comunitário do Monte Verde",
+                  "text": "A community-led cultural center in the Monte Verde neighborhood, supporting local talent and social projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.495061,
+                        -27.558352
+                  ]
+            },
+            {
+                  "name": "Mercado São Jorge",
+                  "text": "A modern organic market and artisanal center, known for its healthy food options and organic products.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.49589,
+                        -27.589436
+                  ]
+            },
+            {
+                  "name": "Farol da Barra",
+                  "text": "This small lighthouse marks the point where the lagoon connects to the open ocean through a canal.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.416643,
+                        -27.575932
+                  ]
+            },
+            {
+                  "name": "Pedra de Observação de Equinócios",
+                  "text": "This rock formation was used by ancient cultures to track the sun's position during the equinoxes.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.428919,
+                        -27.589796
+                  ]
+            },
+            {
+                  "name": "Rampa Voo Livre",
+                  "text": "A popular paragliding launch site offering spectacular panoramic views over the lagoon and coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.471611,
+                        -27.591455
+                  ]
+            },
+            {
+                  "name": "Praia do Rio Tavares",
+                  "text": "A long sandy beach popular for kitesurfing, located right next to a coastal nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.467928,
+                        -27.653039
+                  ]
+            },
+            {
+                  "name": "São Pedro Church",
+                  "text": "This Catholic church is dedicated to Saint Peter, the patron saint of the local fishing community.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.423283,
+                        -27.575428
+                  ]
+            },
+            {
+                  "name": "Gruta de Nossa Senhora de Guadalupe",
+                  "text": "A small, peaceful grotto on the shores of the lagoon, dedicated to Our Lady of Guadalupe.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49491,
+                        -27.58141
+                  ]
+            },
+            {
+                  "name": "Capela Santa Cruz",
+                  "text": "A traditional white-walled chapel located in the picturesque fishing village of Barra da Lagoa.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.472326,
+                        -27.632668
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista do Sétimo Dia",
+                  "text": "A modern Seventh-day Adventist church building serving as a spiritual center for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.491893,
+                        -27.660533
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Conceição da Lagoa",
+                  "text": "This historic colonial-style chapel perched on a hill offers one of the best views over the lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.467497,
+                        -27.598171
+                  ]
+            },
+            {
+                  "name": "Sara Nossa Terra",
+                  "text": "A Christian community center providing religious services and social support for the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.497535,
+                        -27.595814
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "A modern place of worship for the local Jehovah's Witnesses community near the scenic lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49589,
+                        -27.550791
+                  ]
+            },
+            {
+                  "name": "Paróquia São Francisco Xavier Arquidiocese",
+                  "text": "This Catholic parish serves as a spiritual hub for the residents in the Lagoa da Conceição region.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49682,
+                        -27.555121
+                  ]
+            },
+            {
+                  "name": "Assembleia de Deus",
+                  "text": "A Pentecostal church providing religious services to the local neighborhood in this coastal district.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.434547,
+                        -27.580252
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "A religious meeting place of the Christian Congregation, known for its simple and dedicated architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.494299,
+                        -27.557339
+                  ]
+            },
+            {
+                  "name": "Igreja Deus é Amor",
+                  "text": "A Pentecostal mission house active in providing evangelical services to the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.49214,
+                        -27.584097
+                  ]
+            },
+            {
+                  "name": "Bola de Neve Church",
+                  "text": "A charismatic Christian church popular among the local youth and surfing community.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.493721,
+                        -27.59082
+                  ]
+            },
+            {
+                  "name": "Igreja São Sebastião do Campeche",
+                  "text": "A local parish serving the traditional fishing and residential community of Campeche.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.483101,
+                        -27.676566
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BR-SC",
     coords: [-48.45, -27.6],
@@ -1018,7 +8416,1348 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Un archipel volcanique protégé dans l'Atlantique, célèbre pour ses plages immaculées et sa faune marine.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Lié à la vie quotidienne et à l'histoire du pays.", "Sous l'influence du climat principalement tropical du Brésil."],
     }, image: "/poi-images/br-fernando-de-noronha-nature-v2.webp"},
   {
-    id: "br-ilha-grande-nature-v2",
+    id: "br-ilha-grande-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico do Papagaio",
+                  "text": "Ein 982 Meter hoher Gipfel auf Ilha Grande, berühmt für seine Felsformation in Form eines Papageienschnabels.",
+                  "category": "natural",
+                  "coords": [
+                        -44.196806,
+                        -23.155062
+                  ]
+            },
+            {
+                  "name": "Museu do Meio Ambiente",
+                  "text": "Ein Naturmuseum, das die einzigartige Flora und Fauna der geschützten Ökosysteme von Ilha Grande präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -44.190697,
+                        -23.181013
+                  ]
+            },
+            {
+                  "name": "Museu do cárcere",
+                  "text": "In den Räumen eines alten Gefängnisses wird hier die Geschichte der Insel als Strafkolonie dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -44.19172,
+                        -23.182592
+                  ]
+            },
+            {
+                  "name": "Praia do Cachadaço",
+                  "text": "Ein abgelegener Strand mit wilder Natur, der über Dschungelpfade oder per Boot erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.171648,
+                        -23.182243
+                  ]
+            },
+            {
+                  "name": "Poço dos Soldados",
+                  "text": "Ein natürliches Felsbecken, das von einem Süßwasserbach inmitten des küstennahen Regenwaldes gespeist wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.183968,
+                        -23.168031
+                  ]
+            },
+            {
+                  "name": "Lagoa Azul",
+                  "text": "Eine flache Bucht mit türkisfarbenem Wasser, die ideal zum Schnorcheln zwischen tropischen Fischen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.229128,
+                        -23.083144
+                  ]
+            },
+            {
+                  "name": "Lagoa Azul",
+                  "text": "Eine idyllische Lagune mit kristallklarem blauem Wasser, die zwischen kleinen bewaldeten Inseln liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.240034,
+                        -23.085211
+                  ]
+            },
+            {
+                  "name": "Garganta do Diabo",
+                  "text": "Ein dramatischer Felsspalt an der Küste, in dem die Meeresbrandung mit voller Wucht gegen die Klippen schlägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.228373,
+                        -23.077363
+                  ]
+            },
+            {
+                  "name": "Lagoa Verde",
+                  "text": "Eine ruhige Bucht, die für ihr smaragdgrünes Wasser und die reiche marine Artenvielfalt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.322667,
+                        -23.138965
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora dos Homens",
+                  "text": "Eine kleine Kapelle im Kolonialstil, die idyllisch direkt an der Küstenlinie von Ilha Grande steht.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.189339,
+                        -23.179723
+                  ]
+            },
+            {
+                  "name": "Igreja de Freguesia de Santana",
+                  "text": "Eine historische Pfarrkirche aus dem 18. Jahrhundert, die einsam an einer ruhigen Bucht liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.235262,
+                        -23.090943
+                  ]
+            },
+            {
+                  "name": "Igrejinha da Parnaioca",
+                  "text": "Diese kleine, einsame Kirche ist der letzte Rest eines ehemaligen Dorfes am abgelegenen Parnaioca-Strand.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.251452,
+                        -23.189987
+                  ]
+            },
+            {
+                  "name": "Torre de Pedras",
+                  "text": "Eine markante Felsformation, die einen Panoramablick über die Südküste der Insel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -44.163047,
+                        -23.174909
+                  ]
+            },
+            {
+                  "name": "Mirante Bananal",
+                  "text": "Ein erhöhter Aussichtspunkt mit Blick auf das ruhige Wasser und die grünen Hügel des Bananal-Einschnitts.",
+                  "category": "natural",
+                  "coords": [
+                        -44.246892,
+                        -23.114466
+                  ]
+            },
+            {
+                  "name": "Praia do Mangue",
+                  "text": "Ein schmaler Sandstrand, der von dichten Mangroven und üppiger Atlantikflora gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.141033,
+                        -23.15683
+                  ]
+            },
+            {
+                  "name": "Tapera",
+                  "text": "Ein kleiner, friedlicher Strand, der oft als Zwischenstopp bei Bootstouren rund um die Insel dient.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.289611,
+                        -23.137162
+                  ]
+            },
+            {
+                  "name": "Sítio Forte",
+                  "text": "Eine weite Bucht mit ruhigem Wasser, die historisch als sicherer Hafen für Küstenschiffe genutzt wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.282615,
+                        -23.136985
+                  ]
+            },
+            {
+                  "name": "Praia da Baleia",
+                  "text": "Eine ruhige Bucht an der Nordküste, die für ihr klares Wasser und ihre geschützte Lage bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.235151,
+                        -23.085182
+                  ]
+            },
+            {
+                  "name": "Praia da Cachoeira",
+                  "text": "Ein ruhiger Strand am Rande des dichten Regenwaldes, der für seinen kleinen Süßwasserbach bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.32037,
+                        -23.142664
+                  ]
+            },
+            {
+                  "name": "Pouso",
+                  "text": "Dieser ruhige Strand dient als wichtiger Anlegepunkt für Boote und als Ausgangspunkt für den Wanderweg nach Lopes Mendes.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.138625,
+                        -23.1594
+                  ]
+            },
+            {
+                  "name": "Praia de Dois Rios",
+                  "text": "Berühmt für die zwei Flüsse, die hier ins Meer münden, beherbergt dieser Strand auch die Ruinen eines ehemaligen Hochsicherheitsgefängnisses.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.188487,
+                        -23.184034
+                  ]
+            },
+            {
+                  "name": "Santo Antonio",
+                  "text": "Ein kleiner, unberührter Strandabschnitt mit oft starken Wellen, der eine ruhigere Alternative zum benachbarten Lopes Mendes bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.144953,
+                        -23.167986
+                  ]
+            },
+            {
+                  "name": "Praia Japariz",
+                  "text": "Ein belebter Strand mit traditionellen Fischerhäusern und zahlreichen Restaurants, die frische Meeresfrüchte direkt am Wasser servieren.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.21399,
+                        -23.091934
+                  ]
+            },
+            {
+                  "name": "Praia do funil",
+                  "text": "Eine winzige, trichterförmige Bucht mit ruhigem Wasser, die in der malerischen Enseada das Estrelas versteckt liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.211207,
+                        -23.093144
+                  ]
+            },
+            {
+                  "name": "Praia de Fora",
+                  "text": "Ein abgeschiedener Naturstrand an der Außenseite der Insel, der für seine raue Schönheit und den hellen Sand bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.204975,
+                        -23.112812
+                  ]
+            },
+            {
+                  "name": "Praia da Caravela",
+                  "text": "Eine kleine, geschützte Bucht in der Nähe des Saco do Céu, die ideal zum Schnorcheln im spiegelglatten Wasser ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.207894,
+                        -23.103538
+                  ]
+            },
+            {
+                  "name": "Praia do Amor",
+                  "text": "Eine winzige, romantische Sandbucht, die nur mit dem Boot erreichbar ist und absolute Privatsphäre bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.202595,
+                        -23.104639
+                  ]
+            },
+            {
+                  "name": "Praia da Camiranga",
+                  "text": "Ein idyllischer Strand in der Enseada das Estrelas, an dem ein kleiner Fluss aus den Bergen in das warme Meer fließt.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.198303,
+                        -23.121313
+                  ]
+            },
+            {
+                  "name": "Praia do Perequê",
+                  "text": "Ein flacher Strandabschnitt mit Mangrovenwäldern und sehr ruhigem Wasser, der oft von Seekühen besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.202712,
+                        -23.117735
+                  ]
+            },
+            {
+                  "name": "Praia do Leste",
+                  "text": "Dieser wilde Strand gehört zu einem biologischen Schutzgebiet und bietet unberührte Natur mit strengen Zugangsbeschränkungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.27755,
+                        -23.178207
+                  ]
+            },
+            {
+                  "name": "Praia do Sul",
+                  "text": "Ein geschützter Naturstrand mit feinem Sand und kräftiger Brandung, der als eines der wichtigsten Ökosysteme der Insel gilt.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.299872,
+                        -23.177793
+                  ]
+            },
+            {
+                  "name": "Praia de Passaterra",
+                  "text": "Ein friedlicher Strand mit kristallklarem Wasser in der Bananal-Bucht, der oft von Schildkröten besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.276181,
+                        -23.125889
+                  ]
+            },
+            {
+                  "name": "Praia de Maguariquessaba",
+                  "text": "Bekannt für seine exzellenten Fischrestaurants am Ufer und die ruhige See, die perfekt zum Schwimmen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.27243,
+                        -23.122644
+                  ]
+            },
+            {
+                  "name": "Aripeba",
+                  "text": "Eine kleine, felsige Bucht mit dunklem Sand, die tief im tropischen Wald versteckt liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.273506,
+                        -23.117262
+                  ]
+            },
+            {
+                  "name": "Praia de Matariz",
+                  "text": "Ein ruhiges Fischerdorf an einem Strand, der einst ein bedeutendes Zentrum der Fischkonservenindustrie war.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.257956,
+                        -23.115358
+                  ]
+            },
+            {
+                  "name": "Praia do Bananal",
+                  "text": "Ein beliebtes Ziel zum Schnorcheln, geprägt von der Geschichte japanischer Einwanderer und ruhigem, tiefblauem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.24905,
+                        -23.107132
+                  ]
+            },
+            {
+                  "name": "Praia de Grumichama",
+                  "text": "Ein schmaler Sandstreifen umgeben von üppiger Vegetation, ideal für eine Pause während einer Küstenwanderung.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.237263,
+                        -23.091606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico do Papagaio",
+                  "text": "Az Ilha Grande-sziget 982 méter magas csúcsa, amely papagájcsőrre emlékeztető sziklaformációjáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        -44.196806,
+                        -23.155062
+                  ]
+            },
+            {
+                  "name": "Museu do Meio Ambiente",
+                  "text": "Természettudományi múzeum, amely az Ilha Grande védett ökoszisztémáinak egyedülálló növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -44.190697,
+                        -23.181013
+                  ]
+            },
+            {
+                  "name": "Museu do cárcere",
+                  "text": "Egy régi börtön helyiségeiben berendezett múzeum, amely a sziget büntetőtelepként való múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -44.19172,
+                        -23.182592
+                  ]
+            },
+            {
+                  "name": "Praia do Cachadaço",
+                  "text": "Elszigetelt strand vadregényes természettel, amely dzsungelösvényeken vagy hajóval érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.171648,
+                        -23.182243
+                  ]
+            },
+            {
+                  "name": "Poço dos Soldados",
+                  "text": "Természetes sziklamedence, amelyet édesvizű patak táplál a tengerparti esőerdő mélyén.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.183968,
+                        -23.168031
+                  ]
+            },
+            {
+                  "name": "Lagoa Azul",
+                  "text": "Türkizkék vizű, sekély öböl, amely ideális helyszín a trópusi halak közötti sznorkelezéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.229128,
+                        -23.083144
+                  ]
+            },
+            {
+                  "name": "Lagoa Azul",
+                  "text": "Idilli lagúna kristálytiszta kék vízzel, apró erdős szigetek között elterülve.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.240034,
+                        -23.085211
+                  ]
+            },
+            {
+                  "name": "Garganta do Diabo",
+                  "text": "Drámai sziklahasadék a parton, ahol a tengeri hullámok nagy erővel csapódnak a szikláknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.228373,
+                        -23.077363
+                  ]
+            },
+            {
+                  "name": "Lagoa Verde",
+                  "text": "Nyugodt öböl, amely smaragdzöld vizéről és gazdag tengeri élővilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.322667,
+                        -23.138965
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora dos Homens",
+                  "text": "Apró, gyarmati stílusú kápolna, amely idilli környezetben, közvetlenül az Ilha Grande partján áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.189339,
+                        -23.179723
+                  ]
+            },
+            {
+                  "name": "Igreja de Freguesia de Santana",
+                  "text": "Történelmi plébániatemplom a 18. századból, amely magányosan áll egy nyugodt öböl partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.235262,
+                        -23.090943
+                  ]
+            },
+            {
+                  "name": "Igrejinha da Parnaioca",
+                  "text": "Ez a kicsi, magányos templom egy egykori falu utolsó maradványa az elszigetelt Parnaioca-strandon.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.251452,
+                        -23.189987
+                  ]
+            },
+            {
+                  "name": "Torre de Pedras",
+                  "text": "Jellegzetes sziklaformáció, amely panorámás kilátást nyújt a sziget déli partvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -44.163047,
+                        -23.174909
+                  ]
+            },
+            {
+                  "name": "Mirante Bananal",
+                  "text": "Magaslati kilátópont, ahonnan rálátás nyílik a Bananal-öböl nyugodt vizére és zöld dombjaira.",
+                  "category": "natural",
+                  "coords": [
+                        -44.246892,
+                        -23.114466
+                  ]
+            },
+            {
+                  "name": "Praia do Mangue",
+                  "text": "Keskeny homokos tengerpart, amelyet sűrű mangroveerdő és dús atlanti növényzet szegélyez.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.141033,
+                        -23.15683
+                  ]
+            },
+            {
+                  "name": "Tapera",
+                  "text": "Kicsi, békés strand, amely gyakran szolgál pihenőhelyként a sziget körüli hajótúrák során.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.289611,
+                        -23.137162
+                  ]
+            },
+            {
+                  "name": "Sítio Forte",
+                  "text": "Széles, nyugodt vizű öböl, amelyet történelmileg a parti hajók biztonságos kikötőjeként használtak.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.282615,
+                        -23.136985
+                  ]
+            },
+            {
+                  "name": "Praia da Baleia",
+                  "text": "Csendes öböl az északi parton, amely tiszta vizéről és védett fekvéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.235151,
+                        -23.085182
+                  ]
+            },
+            {
+                  "name": "Praia da Cachoeira",
+                  "text": "Sűrű esőerdő szélén fekvő, nyugodt tengerpart, amely egy kis édesvizű patakról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.32037,
+                        -23.142664
+                  ]
+            },
+            {
+                  "name": "Pouso",
+                  "text": "Ez a nyugodt part fontos kikötőhely a hajók számára és a Lopes Mendes felé vezető túraútvonal kezdőpontja.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.138625,
+                        -23.1594
+                  ]
+            },
+            {
+                  "name": "Praia de Dois Rios",
+                  "text": "A tengerbe torkolló két folyóról híres parton egy egykori szigorúan őrzött börtön romjai is megtalálhatóak.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.188487,
+                        -23.184034
+                  ]
+            },
+            {
+                  "name": "Santo Antonio",
+                  "text": "Kicsi, érintetlen tengerpart gyakran erős hullámokkal, amely nyugodtabb alternatívát kínál a szomszédos Lopes Mendes helyett.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.144953,
+                        -23.167986
+                  ]
+            },
+            {
+                  "name": "Praia Japariz",
+                  "text": "Hagyományos halászházakkal teli, élénk part, ahol számos étterem kínál friss tengeri ételeket közvetlenül a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.21399,
+                        -23.091934
+                  ]
+            },
+            {
+                  "name": "Praia do funil",
+                  "text": "Apró, tölcsér alakú öböl nyugodt vízzel, amely a festői Enseada das Estrelas mélyén rejtőzik.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.211207,
+                        -23.093144
+                  ]
+            },
+            {
+                  "name": "Praia de Fora",
+                  "text": "A sziget külső részén fekvő, elszigetelt természeti strand, amely vad szépségéről és világos homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.204975,
+                        -23.112812
+                  ]
+            },
+            {
+                  "name": "Praia da Caravela",
+                  "text": "A Saco do Céu közelében található kicsi, védett öböl, amely ideális a búvárkodáshoz a tükörsima vízben.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.207894,
+                        -23.103538
+                  ]
+            },
+            {
+                  "name": "Praia do Amor",
+                  "text": "Apró, romantikus homokos öböl, amely csak hajóval érhető el, és teljes elszigeteltséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.202595,
+                        -23.104639
+                  ]
+            },
+            {
+                  "name": "Praia da Camiranga",
+                  "text": "Idilli strand az Enseada das Estrelas öbölben, ahol a hegyekből lefutó kis folyó a meleg tengerbe torkollik.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.198303,
+                        -23.121313
+                  ]
+            },
+            {
+                  "name": "Praia do Perequê",
+                  "text": "Mangroveerdőkkel szegélyezett, sekély part szakasz nagyon nyugodt vízzel, ahol gyakran láthatóak tengeri tehenek.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.202712,
+                        -23.117735
+                  ]
+            },
+            {
+                  "name": "Praia do Leste",
+                  "text": "Ez a vadregényes part egy biológiai rezervátum része, érintetlen természetet kínál szigorú belépési korlátozásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.27755,
+                        -23.178207
+                  ]
+            },
+            {
+                  "name": "Praia do Sul",
+                  "text": "Védett természeti strand finom homokkal és erős hullámveréssel, amely a sziget egyik legfontosabb ökoszisztémája.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.299872,
+                        -23.177793
+                  ]
+            },
+            {
+                  "name": "Praia de Passaterra",
+                  "text": "Kristálytiszta vizű, békés tengerpart a Bananal-öbölben, ahol gyakran látni tengeri teknősöket.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.276181,
+                        -23.125889
+                  ]
+            },
+            {
+                  "name": "Praia de Maguariquessaba",
+                  "text": "A parton található kiváló haléttermeiről és a fürdésre tökéletesen alkalmas, nyugodt tengeréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.27243,
+                        -23.122644
+                  ]
+            },
+            {
+                  "name": "Aripeba",
+                  "text": "Apró, sziklás öböl sötét homokkal, amely mélyen a trópusi erdőben rejtőzik.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.273506,
+                        -23.117262
+                  ]
+            },
+            {
+                  "name": "Praia de Matariz",
+                  "text": "Csendes halászfalu egy olyan parton, amely egykor a halkonzervipar jelentős központja volt.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.257956,
+                        -23.115358
+                  ]
+            },
+            {
+                  "name": "Praia do Bananal",
+                  "text": "Népszerű búvárkodási helyszín, amelyet a japán bevándorlók története és nyugodt, mélykék víz jellemez.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.24905,
+                        -23.107132
+                  ]
+            },
+            {
+                  "name": "Praia de Grumichama",
+                  "text": "Buján zöldellő növényzettel körülvett keskeny homoksáv, amely ideális egy pihenőre a parti túra során.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.237263,
+                        -23.091606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico do Papagaio",
+                  "text": "Un vârf de 982 de metri pe Ilha Grande, faimos pentru formațiunea stâncoasă în formă de cioc de papagal.",
+                  "category": "natural",
+                  "coords": [
+                        -44.196806,
+                        -23.155062
+                  ]
+            },
+            {
+                  "name": "Museu do Meio Ambiente",
+                  "text": "Un muzeu al mediului care prezintă flora și fauna unică din ecosistemele protejate ale Ilha Grande.",
+                  "category": "museum",
+                  "coords": [
+                        -44.190697,
+                        -23.181013
+                  ]
+            },
+            {
+                  "name": "Museu do cárcere",
+                  "text": "Găzduit în clădirea unei foste închisori, acest muzeu documentează istoria insulei ca colonie penală.",
+                  "category": "museum",
+                  "coords": [
+                        -44.19172,
+                        -23.182592
+                  ]
+            },
+            {
+                  "name": "Praia do Cachadaço",
+                  "text": "O plajă izolată cu natură sălbatică, accesibilă prin poteci de junglă sau cu barca.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.171648,
+                        -23.182243
+                  ]
+            },
+            {
+                  "name": "Poço dos Soldados",
+                  "text": "O piscină naturală în stâncă, alimentată de un pârâu de apă dulce în mijlocul pădurii tropicale de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.183968,
+                        -23.168031
+                  ]
+            },
+            {
+                  "name": "Lagoa Azul",
+                  "text": "Un golf cu ape puțin adânci și turcoaz, ideal pentru snorkeling printre pești tropicali.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.229128,
+                        -23.083144
+                  ]
+            },
+            {
+                  "name": "Lagoa Azul",
+                  "text": "O lagună idilică cu ape de un albastru cristalinit, situată între mici insule împădurite.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.240034,
+                        -23.085211
+                  ]
+            },
+            {
+                  "name": "Garganta do Diabo",
+                  "text": "O crăpătură dramatică în stâncă pe coastă, unde valurile mării se izbesc cu forță de faleze.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.228373,
+                        -23.077363
+                  ]
+            },
+            {
+                  "name": "Lagoa Verde",
+                  "text": "Un golf liniștit, cunoscut pentru apele sale de smarald și biodiversitatea marină bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.322667,
+                        -23.138965
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora dos Homens",
+                  "text": "O mică capelă în stil colonial, situată idilic chiar pe linia de coastă a insulei Ilha Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.189339,
+                        -23.179723
+                  ]
+            },
+            {
+                  "name": "Igreja de Freguesia de Santana",
+                  "text": "O biserică parohială istorică din secolul al XVIII-lea, situată izolat pe malul unui golf liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.235262,
+                        -23.090943
+                  ]
+            },
+            {
+                  "name": "Igrejinha da Parnaioca",
+                  "text": "Această mică biserică izolată este ultima vestigie a unui fost sat de pe plaja retrasă Parnaioca.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.251452,
+                        -23.189987
+                  ]
+            },
+            {
+                  "name": "Torre de Pedras",
+                  "text": "O formațiune stâncoasă proeminentă care oferă o vedere panoramică asupra coastei de sud a insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -44.163047,
+                        -23.174909
+                  ]
+            },
+            {
+                  "name": "Mirante Bananal",
+                  "text": "Un punct de observație ridicat, cu vedere spre apele calme și dealurile verzi ale golfului Bananal.",
+                  "category": "natural",
+                  "coords": [
+                        -44.246892,
+                        -23.114466
+                  ]
+            },
+            {
+                  "name": "Praia do Mangue",
+                  "text": "O plajă îngustă de nisip, mărginită de mangrove dense și vegetație luxuriantă de Pădure Atlantică.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.141033,
+                        -23.15683
+                  ]
+            },
+            {
+                  "name": "Tapera",
+                  "text": "O plajă mică și liniștită, folosită adesea ca oprire pentru tururile cu barca în jurul insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.289611,
+                        -23.137162
+                  ]
+            },
+            {
+                  "name": "Sítio Forte",
+                  "text": "Un golf larg cu ape calme, folosit istoric ca port sigur pentru navele de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.282615,
+                        -23.136985
+                  ]
+            },
+            {
+                  "name": "Praia da Baleia",
+                  "text": "Un golf liniștit pe coasta de nord, cunoscut pentru apele sale limpezi și poziția adăpostită.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.235151,
+                        -23.085182
+                  ]
+            },
+            {
+                  "name": "Praia da Cachoeira",
+                  "text": "O plajă liniștită la marginea pădurii tropicale dese, cunoscută pentru micul său pârâu cu apă dulce.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.32037,
+                        -23.142664
+                  ]
+            },
+            {
+                  "name": "Pouso",
+                  "text": "Această plajă liniștită servește ca punct principal de acostare pentru bărci și începutul potecii către Lopes Mendes.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.138625,
+                        -23.1594
+                  ]
+            },
+            {
+                  "name": "Praia de Dois Rios",
+                  "text": "Faimoasă pentru cele două râuri care se varsă în mare, această plajă găzduiește și ruinele unei foste închisori de maximă siguranță.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.188487,
+                        -23.184034
+                  ]
+            },
+            {
+                  "name": "Santo Antonio",
+                  "text": "O porțiune mică de plajă virgină, cu valuri adesea puternice, oferind o alternativă mai liniștită la vecina Lopes Mendes.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.144953,
+                        -23.167986
+                  ]
+            },
+            {
+                  "name": "Praia Japariz",
+                  "text": "O plajă animată cu case tradiționale de pescari și numeroase restaurante care servesc fructe de mare proaspete chiar pe mal.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.21399,
+                        -23.091934
+                  ]
+            },
+            {
+                  "name": "Praia do funil",
+                  "text": "Un golfuleț minuscul în formă de pâlnie, cu ape liniștite, ascuns în pitoreasca Enseada das Estrelas.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.211207,
+                        -23.093144
+                  ]
+            },
+            {
+                  "name": "Praia de Fora",
+                  "text": "O plajă naturală izolată pe partea exterioară a insulei, cunoscută pentru frumusețea sa sălbatică și nisipul fin.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.204975,
+                        -23.112812
+                  ]
+            },
+            {
+                  "name": "Praia da Caravela",
+                  "text": "Un mic golf protejat lângă Saco do Céu, ideal pentru snorkeling în apele sale extrem de calme.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.207894,
+                        -23.103538
+                  ]
+            },
+            {
+                  "name": "Praia do Amor",
+                  "text": "Un mic golf romantic cu nisip, accesibil doar cu barca, oferind intimitate totală.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.202595,
+                        -23.104639
+                  ]
+            },
+            {
+                  "name": "Praia da Camiranga",
+                  "text": "O plajă idilică în Enseada das Estrelas, unde un mic râu ce coboară din munți se varsă în marea caldă.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.198303,
+                        -23.121313
+                  ]
+            },
+            {
+                  "name": "Praia do Perequê",
+                  "text": "O porțiune de plajă cu ape puțin adânci, mărginită de mangrove și ape foarte calde, vizitată adesea de lamantini.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.202712,
+                        -23.117735
+                  ]
+            },
+            {
+                  "name": "Praia do Leste",
+                  "text": "Această plajă sălbatică face parte dintr-o rezervație biologică și oferă natură virgină, având restricții stricte de acces.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.27755,
+                        -23.178207
+                  ]
+            },
+            {
+                  "name": "Praia do Sul",
+                  "text": "O plajă naturală protejată, cu nisip fin și valuri puternice, considerată unul dintre cele mai importante ecosisteme de pe insulă.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.299872,
+                        -23.177793
+                  ]
+            },
+            {
+                  "name": "Praia de Passaterra",
+                  "text": "O plajă liniștită cu ape cristaline în golful Bananal, unde pot fi văzute adesea țestoase marine.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.276181,
+                        -23.125889
+                  ]
+            },
+            {
+                  "name": "Praia de Maguariquessaba",
+                  "text": "Cunoscută pentru restaurantele sale excelente cu specific pescăresc de pe mal și marea liniștită, perfectă pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.27243,
+                        -23.122644
+                  ]
+            },
+            {
+                  "name": "Aripeba",
+                  "text": "Un mic golf stâncos cu nisip închis la culoare, ascuns adânc în pădurea tropicală.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.273506,
+                        -23.117262
+                  ]
+            },
+            {
+                  "name": "Praia de Matariz",
+                  "text": "Un sat de pescari liniștit pe o plajă care a fost odată un centru important al industriei conservelor de pește.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.257956,
+                        -23.115358
+                  ]
+            },
+            {
+                  "name": "Praia do Bananal",
+                  "text": "O destinație populară pentru snorkeling, marcată de istoria imigranților japonezi și ape liniștite, de un albastru intens.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.24905,
+                        -23.107132
+                  ]
+            },
+            {
+                  "name": "Praia de Grumichama",
+                  "text": "O fâșie îngustă de nisip înconjurată de vegetație luxuriantă, ideală pentru o pauză în timpul unei drumeții pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.237263,
+                        -23.091606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico do Papagaio",
+                  "text": "A 982-meter peak on Ilha Grande, famous for its rock formation resembling a parrot's beak.",
+                  "category": "natural",
+                  "coords": [
+                        -44.196806,
+                        -23.155062
+                  ]
+            },
+            {
+                  "name": "Museu do Meio Ambiente",
+                  "text": "A nature museum showcasing the unique flora and fauna of Ilha Grande's protected ecosystems.",
+                  "category": "museum",
+                  "coords": [
+                        -44.190697,
+                        -23.181013
+                  ]
+            },
+            {
+                  "name": "Museu do cárcere",
+                  "text": "Located in former prison buildings, this museum documents the island's history as a penal colony.",
+                  "category": "museum",
+                  "coords": [
+                        -44.19172,
+                        -23.182592
+                  ]
+            },
+            {
+                  "name": "Praia do Cachadaço",
+                  "text": "A secluded beach with wild nature, accessible via jungle trails or by boat.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.171648,
+                        -23.182243
+                  ]
+            },
+            {
+                  "name": "Soldier's Pool",
+                  "text": "A natural rock pool fed by a freshwater stream deep within the coastal rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.183968,
+                        -23.168031
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "A shallow bay with turquoise waters, ideal for snorkeling among tropical fish.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.229128,
+                        -23.083144
+                  ]
+            },
+            {
+                  "name": "Lagoa Azul",
+                  "text": "An idyllic lagoon with crystal clear blue water, situated between small forested islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.240034,
+                        -23.085211
+                  ]
+            },
+            {
+                  "name": "Garganta do Diabo",
+                  "text": "A dramatic rocky cleft on the coast where the sea crashes with force against the cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.228373,
+                        -23.077363
+                  ]
+            },
+            {
+                  "name": "Lagoa Verde",
+                  "text": "A tranquil bay known for its emerald-green waters and rich marine biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.322667,
+                        -23.138965
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora dos Homens",
+                  "text": "A small colonial-style chapel situated idyllically right on the coastline of Ilha Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.189339,
+                        -23.179723
+                  ]
+            },
+            {
+                  "name": "Igreja de Freguesia de Santana",
+                  "text": "A historical parish church from the 18th century, standing isolated on the shores of a quiet bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.235262,
+                        -23.090943
+                  ]
+            },
+            {
+                  "name": "Igrejinha da Parnaioca",
+                  "text": "This small, lonely church is the last remnant of a former village on the isolated Parnaioca beach.",
+                  "category": "landmark",
+                  "coords": [
+                        -44.251452,
+                        -23.189987
+                  ]
+            },
+            {
+                  "name": "Torre de Pedras",
+                  "text": "A prominent rock formation providing a panoramic view over the island's southern coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -44.163047,
+                        -23.174909
+                  ]
+            },
+            {
+                  "name": "Mirante Bananal",
+                  "text": "An elevated lookout point overlooking the calm waters and green hills of the Bananal inlet.",
+                  "category": "natural",
+                  "coords": [
+                        -44.246892,
+                        -23.114466
+                  ]
+            },
+            {
+                  "name": "Praia do Mangue",
+                  "text": "A narrow sandy beach lined with dense mangroves and lush Atlantic Forest vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.141033,
+                        -23.15683
+                  ]
+            },
+            {
+                  "name": "Tapera",
+                  "text": "A small, peaceful beach often used as a stop for boat tours around the island.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.289611,
+                        -23.137162
+                  ]
+            },
+            {
+                  "name": "Sítio Forte",
+                  "text": "A wide bay with calm waters, historically used as a safe harbor for coastal vessels.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.282615,
+                        -23.136985
+                  ]
+            },
+            {
+                  "name": "Praia da Baleia",
+                  "text": "A quiet cove on the northern shore, known for its clear waters and sheltered position.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.235151,
+                        -23.085182
+                  ]
+            },
+            {
+                  "name": "Praia da Cachoeira",
+                  "text": "A tranquil beach at the edge of the dense rainforest, known for the small freshwater stream that flows into the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.32037,
+                        -23.142664
+                  ]
+            },
+            {
+                  "name": "Pouso Beach",
+                  "text": "This calm beach serves as a major arrival point for boats and the starting point for the trail to Lopes Mendes.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.138625,
+                        -23.1594
+                  ]
+            },
+            {
+                  "name": "Praia de Dois Rios",
+                  "text": "Famous for the two rivers meeting the sea, this beach also hosts the ruins of a former high-security prison.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.188487,
+                        -23.184034
+                  ]
+            },
+            {
+                  "name": "Santo Antonio",
+                  "text": "A small, pristine stretch of beach with often strong waves, offering a quieter alternative to neighboring Lopes Mendes.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.144953,
+                        -23.167986
+                  ]
+            },
+            {
+                  "name": "Praia Japariz",
+                  "text": "A lively beach featuring traditional fisherman houses and numerous restaurants serving fresh seafood right by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.21399,
+                        -23.091934
+                  ]
+            },
+            {
+                  "name": "Praia do funil",
+                  "text": "A tiny, funnel-shaped cove with calm waters hidden within the scenic Enseada das Estrelas.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.211207,
+                        -23.093144
+                  ]
+            },
+            {
+                  "name": "Fora's Beach",
+                  "text": "A secluded natural beach on the outer side of the island, known for its wild beauty and bright sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.204975,
+                        -23.112812
+                  ]
+            },
+            {
+                  "name": "Praia da Caravela",
+                  "text": "A small, sheltered cove near Saco do Céu, ideal for snorkeling in its mirror-like waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.207894,
+                        -23.103538
+                  ]
+            },
+            {
+                  "name": "Praia do Amor",
+                  "text": "A tiny, romantic sandy cove accessible only by boat, offering total privacy and seclusion.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.202595,
+                        -23.104639
+                  ]
+            },
+            {
+                  "name": "Praia da Camiranga",
+                  "text": "An idyllic beach in the Enseada das Estrelas, where a small river descending from the mountains meets the warm sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.198303,
+                        -23.121313
+                  ]
+            },
+            {
+                  "name": "Praia do Perequê",
+                  "text": "A shallow beach area featuring mangroves and very calm waters, often visited by local marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.202712,
+                        -23.117735
+                  ]
+            },
+            {
+                  "name": "Praia do Leste",
+                  "text": "Part of a biological reserve, this wild beach offers pristine nature with strict access restrictions to protect its ecosystem.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.27755,
+                        -23.178207
+                  ]
+            },
+            {
+                  "name": "Praia do Sul",
+                  "text": "A protected natural beach with fine sand and strong surf, regarded as one of the island's most vital ecosystems.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.299872,
+                        -23.177793
+                  ]
+            },
+            {
+                  "name": "Praia de Passaterra",
+                  "text": "A peaceful beach with crystal-clear water in the Bananal bay, where sea turtles are frequently spotted.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.276181,
+                        -23.125889
+                  ]
+            },
+            {
+                  "name": "Praia de Maguariquessaba",
+                  "text": "Known for its excellent seafood restaurants along the shore and calm sea conditions perfect for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.27243,
+                        -23.122644
+                  ]
+            },
+            {
+                  "name": "Aripeba",
+                  "text": "A small, rocky cove with dark sand, tucked deep within the surrounding tropical forest.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.273506,
+                        -23.117262
+                  ]
+            },
+            {
+                  "name": "Praia de Matariz",
+                  "text": "A quiet fishing village set on a beach that was once a significant center for the fish canning industry.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.257956,
+                        -23.115358
+                  ]
+            },
+            {
+                  "name": "Praia do Bananal",
+                  "text": "A popular snorkeling spot characterized by the history of Japanese immigrants and calm, deep blue waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.24905,
+                        -23.107132
+                  ]
+            },
+            {
+                  "name": "Praia de Grumichama",
+                  "text": "A narrow strip of sand surrounded by lush vegetation, ideal for a rest during a coastal hike.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.237263,
+                        -23.091606
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "BR-RJ",
     coords: [-44.23, -23.14],
@@ -1159,7 +9898,1204 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Une île côtière massive à l'embouchure de l'Amazone, connue pour ses buffles d'eau.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Lié à la vie quotidienne et à l'histoire du pays.", "Sous l'influence du climat principalement tropical du Brésil."],
     }, image: "/poi-images/br-ilha-de-marajo-nature-v2.webp"},
   {
-    id: "br-ilhabela-nature-v2",
+    id: "br-ilhabela-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico de São Sebastião",
+                  "text": "Mit 1378 Metern ist dies der höchste Gipfel der Insel Ilhabela und bietet weite Ausblicke über den Atlantik.",
+                  "category": "natural",
+                  "coords": [
+                        -45.378724,
+                        -23.875559
+                  ]
+            },
+            {
+                  "name": "Praia de Barequeçaba",
+                  "text": "Ein Strand mit sehr ruhigem Wasser, der ideal für Stand-up-Paddling und Familien mit Kindern ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -45.435749,
+                        -23.828022
+                  ]
+            },
+            {
+                  "name": "Praia de Guaecá",
+                  "text": "Dieser malerische Surfstrand ist für seine starken Wellen und den sauberen, hellen Sand bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        -45.449259,
+                        -23.826241
+                  ]
+            },
+            {
+                  "name": "Museu Nautico de Ilhabela",
+                  "text": "Dieses Museum zeigt Artefakte und Geschichten von zahlreichen historischen Schiffswracks rund um die Insel.",
+                  "category": "museum",
+                  "coords": [
+                        -45.360915,
+                        -23.833294
+                  ]
+            },
+            {
+                  "name": "Morro do Papagaio",
+                  "text": "Ein markanter Berggipfel in Ilhabela, der Wanderer mit Panoramablicken auf den tropischen Regenwald belohnt.",
+                  "category": "natural",
+                  "coords": [
+                        -45.410398,
+                        -23.895763
+                  ]
+            },
+            {
+                  "name": "Monumento Bíblico",
+                  "text": "Ein Monument in Form einer aufgeschlagenen Bibel, das sich in einem Park direkt am Meer befindet.",
+                  "category": "historical",
+                  "coords": [
+                        -45.36674,
+                        -23.811635
+                  ]
+            },
+            {
+                  "name": "Esculturas de Aluminio",
+                  "text": "Eine Sammlung moderner Aluminiumskulpturen, die im Freien in der Nähe der Küste von Ilhabela ausgestellt sind.",
+                  "category": "historical",
+                  "coords": [
+                        -45.366616,
+                        -23.823765
+                  ]
+            },
+            {
+                  "name": "Mirante do Piúva \"Amanda Almeida\"",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über den Meereskanal zwischen Ilhabela und dem Festland bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -45.38402,
+                        -23.825817
+                  ]
+            },
+            {
+                  "name": "Mapa de Ilhabela",
+                  "text": "Ein großes Reliefdenkmal, das die geografischen Details und Wanderwege der Insel Ilhabela zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -45.376616,
+                        -23.822302
+                  ]
+            },
+            {
+                  "name": "Convento Franciscano de Nossa Senhora do Amparo",
+                  "text": "Dieses historische Franziskanerkloster aus der Kolonialzeit liegt am Festland gegenüber von Ilhabela.",
+                  "category": "religious",
+                  "coords": [
+                        -45.409718,
+                        -23.760732
+                  ]
+            },
+            {
+                  "name": "Ilha das Cabras",
+                  "text": "Ein kleines Inselchen und ökologisches Schutzgebiet, das berühmt für seine bunten tropischen Fische und Tauchgründe ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.392636,
+                        -23.829668
+                  ]
+            },
+            {
+                  "name": "Pedra do Sino",
+                  "text": "Diese großen Felsen am Strand erzeugen beim Anschlagen einen metallischen Glockenklang.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.34864,
+                        -23.746574
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Couro de Boi",
+                  "text": "Ein versteckter Wasserfall im Regenwald, dessen Becken zum Schwimmen in der Natur einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.333349,
+                        -23.762626
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Bananal",
+                  "text": "Ein kleiner Wasserfall, der von dichtem Bananengrün und tropischer Vegetation umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.337504,
+                        -23.804145
+                  ]
+            },
+            {
+                  "name": "Poço da Ducha",
+                  "text": "Künstlich angelegte Duschen, die durch das natürliche Wasser eines Gebirgsbachs gespeist werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.356689,
+                        -23.843107
+                  ]
+            },
+            {
+                  "name": "Poço do Jabuti",
+                  "text": "Ein natürliches Felsenbecken inmitten des Waldes, das klares Wasser zum Erfrischen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.350663,
+                        -23.846115
+                  ]
+            },
+            {
+                  "name": "Poço da Escada",
+                  "text": "Dieser Wasserfall stürzt über mehrere Felsstufen herab und bildet kleine natürliche Badestellen.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.3593,
+                        -23.8406
+                  ]
+            },
+            {
+                  "name": "Santuario Ecológico",
+                  "text": "Ein geschütztes Meeresgebiet, das ideal zum Schnorcheln zwischen Korallen und Rifffischen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.404496,
+                        -23.844161
+                  ]
+            },
+            {
+                  "name": "Praia do oscar",
+                  "text": "Ein winziger, felsiger Strandabschnitt mit sehr klarem und flachem Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.400259,
+                        -23.839782
+                  ]
+            },
+            {
+                  "name": "Praia de feiticeira",
+                  "text": "Ein beliebter Strand mit einem historischen Herrenhaus im Hintergrund und sehr ruhigem Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.408933,
+                        -23.845681
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Veloso",
+                  "text": "Mit einer Fallhöhe von etwa 50 Metern gehört dieser Wasserfall zu den höchsten der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.431917,
+                        -23.884035
+                  ]
+            },
+            {
+                  "name": "Paquetá",
+                  "text": "Ein Ort mit natürlichen Felsbecken, die sich hervorragend für ein sicheres Bad im Meerwasser eignen.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.422909,
+                        -23.868993
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Saquinho",
+                  "text": "Ein versteckter Wasserfall am Ende eines Wanderwegs im südlichen Teil der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.354923,
+                        -23.918418
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Poço Fundo",
+                  "text": "Dieser Wasserfall mündet in ein besonders tiefes natürliches Becken, das zum Springen einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.341305,
+                        -23.912589
+                  ]
+            },
+            {
+                  "name": "Cachoeira da Friagem",
+                  "text": "Ein abgelegener Wasserfall an der Nordküste der Insel, der nur über anspruchsvolle Pfade erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.329799,
+                        -23.758685
+                  ]
+            },
+            {
+                  "name": "Assembléia de Deus",
+                  "text": "Eine pfingstkirchliche Versammlungshalle in Ilhabela, die Teil der größten evangelischen Kirche Brasiliens ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.347077,
+                        -23.744379
+                  ]
+            },
+            {
+                  "name": "Igreja Morumbi",
+                  "text": "Diese moderne evangelische Kirche bietet eine lebendige Gemeinschaft in der Inselstadt Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.36435,
+                        -23.825406
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Verônica",
+                  "text": "Diese kleine Kapelle liegt am Rande des Atlantischen Regenwaldes in der Nähe der Küste von Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.344815,
+                        -23.916667
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "Ein lokales christliches Gotteshaus in der tropischen Umgebung der Insel Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.355244,
+                        -23.82761
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "Ein modernes religiöses Versammlungsgebäude in einem der Wohngebiete von Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.379083,
+                        -23.823003
+                  ]
+            },
+            {
+                  "name": "Igreja Catolica",
+                  "text": "Eine katholische Kirche, die als geistliches Zentrum für die Bewohner dieses Inselviertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.368303,
+                        -23.824324
+                  ]
+            },
+            {
+                  "name": "Capela São João Batista",
+                  "text": "Diese dem Heiligen Johannes dem Täufer gewidmete Kapelle liegt in einer ruhigen, tropischen Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.368301,
+                        -23.813864
+                  ]
+            },
+            {
+                  "name": "Capela",
+                  "text": "Eine kleine, schlichte Kapelle, die harmonisch in die natürliche Grünlandschaft der Insel eingebettet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.41622,
+                        -23.85803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico de São Sebastião",
+                  "text": "Ez az 1378 méteres csúcs Ilhabela szigetének legmagasabb pontja, ahonnan pazar kilátás nyílik az óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        -45.378724,
+                        -23.875559
+                  ]
+            },
+            {
+                  "name": "Praia de Barequeçaba",
+                  "text": "Nagyon nyugodt vizű tengerpart, amely ideális állva evezéshez (SUP) és kisgyermekes családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -45.435749,
+                        -23.828022
+                  ]
+            },
+            {
+                  "name": "Praia de Guaecá",
+                  "text": "Ez a festői szörfös strand erős hullámairól és tiszta, világos homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -45.449259,
+                        -23.826241
+                  ]
+            },
+            {
+                  "name": "Museu Nautico de Ilhabela",
+                  "text": "Ez a múzeum a sziget körüli számos történelmi hajóroncsból származó leleteket és történeteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -45.360915,
+                        -23.833294
+                  ]
+            },
+            {
+                  "name": "Morro do Papagaio",
+                  "text": "Jellegzetes hegycsúcs Ilhabelán, amely panorámás kilátást nyújt a trópusi esőerdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -45.410398,
+                        -23.895763
+                  ]
+            },
+            {
+                  "name": "Monumento Bíblico",
+                  "text": "Egy nyitott Bibliát ábrázoló emlékmű, amely egy közvetlenül a tengerparton fekvő parkban található.",
+                  "category": "historical",
+                  "coords": [
+                        -45.36674,
+                        -23.811635
+                  ]
+            },
+            {
+                  "name": "Esculturas de Aluminio",
+                  "text": "Modern alumíniumszobrok gyűjteménye, amelyeket a szabadban állítottak ki Ilhabela partjainál.",
+                  "category": "historical",
+                  "coords": [
+                        -45.366616,
+                        -23.823765
+                  ]
+            },
+            {
+                  "name": "Mirante do Piúva \"Amanda Almeida\"",
+                  "text": "Kilátópont, ahonnan pazar kilátás nyílik az Ilhabela és a szárazföld közötti tengeri csatornára.",
+                  "category": "historical",
+                  "coords": [
+                        -45.38402,
+                        -23.825817
+                  ]
+            },
+            {
+                  "name": "Mapa de Ilhabela",
+                  "text": "Egy nagy domborműves emlékmű, amely Ilhabela szigetének földrajzi részleteit és ösvényeit ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        -45.376616,
+                        -23.822302
+                  ]
+            },
+            {
+                  "name": "Convento Franciscano de Nossa Senhora do Amparo",
+                  "text": "Ez a történelmi, gyarmati kori ferences kolostor az Ilhabelával szemközti szárazföldön található.",
+                  "category": "religious",
+                  "coords": [
+                        -45.409718,
+                        -23.760732
+                  ]
+            },
+            {
+                  "name": "Ilha das Cabras",
+                  "text": "Apró sziget és ökológiai menedékhely, amely híres színes trópusi halairól és merülőhelyeiről.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.392636,
+                        -23.829668
+                  ]
+            },
+            {
+                  "name": "Pedra do Sino",
+                  "text": "Ezek a tengerparti sziklák fémes, harangszerű hangot adnak ki, ha megütik őket.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.34864,
+                        -23.746574
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Couro de Boi",
+                  "text": "Az esőerdőben rejtőző vízesés, amelynek medencéje fürdésre csábít a természet lágy ölén.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.333349,
+                        -23.762626
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Bananal",
+                  "text": "Kisebb vízesés, amelyet sűrű banánfák és trópusi növényzet vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.337504,
+                        -23.804145
+                  ]
+            },
+            {
+                  "name": "Poço da Ducha",
+                  "text": "Mesterséges zuhanyok, amelyeket egy hegyi patak természetes vize táplál.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.356689,
+                        -23.843107
+                  ]
+            },
+            {
+                  "name": "Poço do Jabuti",
+                  "text": "Természetes sziklamedence az erdő közepén, amely tiszta vizet kínál a felfrissüléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.350663,
+                        -23.846115
+                  ]
+            },
+            {
+                  "name": "Poço da Escada",
+                  "text": "Ez a vízesés több sziklalépcsőn zúdul le, apró természetes fürdőhelyeket alkotva.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.3593,
+                        -23.8406
+                  ]
+            },
+            {
+                  "name": "Santuario Ecológico",
+                  "text": "Védett tengeri terület, amely ideális a korallok és szirti halak közötti búvárkodáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.404496,
+                        -23.844161
+                  ]
+            },
+            {
+                  "name": "Praia do oscar",
+                  "text": "Apró, sziklás tengerparti szakasz, ahol a víz rendkívül tiszta és sekély.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.400259,
+                        -23.839782
+                  ]
+            },
+            {
+                  "name": "Praia de feiticeira",
+                  "text": "Népszerű strand egy történelmi udvarházzal a háttérben és rendkívül nyugodt tengerrel.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.408933,
+                        -23.845681
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Veloso",
+                  "text": "Körülbelül 50 méteres magasságával ez a vízesés a sziget egyik legmagasabbja.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.431917,
+                        -23.884035
+                  ]
+            },
+            {
+                  "name": "Paquetá",
+                  "text": "Természetes sziklamedencék helyszíne, amelyek kiválóan alkalmasak a biztonságos tengervízi fürdőzésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.422909,
+                        -23.868993
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Saquinho",
+                  "text": "Rejtett vízesés egy túraútvonal végén, a sziget déli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.354923,
+                        -23.918418
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Poço Fundo",
+                  "text": "Ez a vízesés egy különösen mély természetes medencébe torkollik, amely ugrálásra csábít.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.341305,
+                        -23.912589
+                  ]
+            },
+            {
+                  "name": "Cachoeira da Friagem",
+                  "text": "Távoli vízesés a sziget északi partján, amely csak nehéz ösvényeken érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.329799,
+                        -23.758685
+                  ]
+            },
+            {
+                  "name": "Assembléia de Deus",
+                  "text": "Pünkösdi imaház Ilhabelán, amely Brazília legnagyobb evangéliumi egyházának része.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.347077,
+                        -23.744379
+                  ]
+            },
+            {
+                  "name": "Igreja Morumbi",
+                  "text": "Ez a modern evangéliumi templom élénk közösségi életet kínál Ilhabela szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.36435,
+                        -23.825406
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Verônica",
+                  "text": "Ez a kis kápolna az atlanti esőerdő szélén, Ilhabela partjainak közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.344815,
+                        -23.916667
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "Helyi keresztény imaház Ilhabela szigetének trópusi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.355244,
+                        -23.82761
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "Modern vallási gyülekezeti ház Ilhabela egyik lakóövezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.379083,
+                        -23.823003
+                  ]
+            },
+            {
+                  "name": "Igreja Catolica",
+                  "text": "Katolikus templom, amely a szigeti negyed lakóinak lelki központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.368303,
+                        -23.824324
+                  ]
+            },
+            {
+                  "name": "Capela São João Batista",
+                  "text": "Ez a Keresztelő Szent Jánosnak szentelt kápolna egy csendes, trópusi negyedben található.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.368301,
+                        -23.813864
+                  ]
+            },
+            {
+                  "name": "Capela",
+                  "text": "Kicsi, egyszerű kápolna, amely harmonikusan illeszkedik a sziget természetes zöld tájába.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.41622,
+                        -23.85803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico de São Sebastião",
+                  "text": "Cu o înălțime de 1378 de metri, acesta este cel mai înalt vârf de pe insula Ilhabela, oferind panorame vaste.",
+                  "category": "natural",
+                  "coords": [
+                        -45.378724,
+                        -23.875559
+                  ]
+            },
+            {
+                  "name": "Praia de Barequeçaba",
+                  "text": "O plajă cu ape foarte liniștite, ideală pentru stand-up paddling și familii cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        -45.435749,
+                        -23.828022
+                  ]
+            },
+            {
+                  "name": "Praia de Guaecá",
+                  "text": "Această plajă pitorească pentru surf este cunoscută pentru valurile sale puternice și nisipul curat și deschis la culoare.",
+                  "category": "recreational",
+                  "coords": [
+                        -45.449259,
+                        -23.826241
+                  ]
+            },
+            {
+                  "name": "Museu Nautico de Ilhabela",
+                  "text": "Acest muzeu expune artefacte și povești ale numeroaselor epave istorice din jurul insulei.",
+                  "category": "museum",
+                  "coords": [
+                        -45.360915,
+                        -23.833294
+                  ]
+            },
+            {
+                  "name": "Morro do Papagaio",
+                  "text": "Un vârf muntos distinctiv din Ilhabela, care răsplătește drumeții cu vederi panoramice asupra pădurii tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -45.410398,
+                        -23.895763
+                  ]
+            },
+            {
+                  "name": "Monumento Bíblico",
+                  "text": "Un monument în formă de Biblie deschisă, situat într-un parc chiar pe malul mării.",
+                  "category": "historical",
+                  "coords": [
+                        -45.36674,
+                        -23.811635
+                  ]
+            },
+            {
+                  "name": "Esculturas de Aluminio",
+                  "text": "O colecție de sculpturi moderne din aluminiu expuse în aer liber lângă coasta din Ilhabela.",
+                  "category": "historical",
+                  "coords": [
+                        -45.366616,
+                        -23.823765
+                  ]
+            },
+            {
+                  "name": "Mirante do Piúva \"Amanda Almeida\"",
+                  "text": "Un punct de belvedere care oferă o vedere largă asupra canalului maritim dintre Ilhabela și continent.",
+                  "category": "historical",
+                  "coords": [
+                        -45.38402,
+                        -23.825817
+                  ]
+            },
+            {
+                  "name": "Mapa de Ilhabela",
+                  "text": "Un monument de mari dimensiuni care înfățișează detaliile geografice și potecile insulei Ilhabela.",
+                  "category": "historical",
+                  "coords": [
+                        -45.376616,
+                        -23.822302
+                  ]
+            },
+            {
+                  "name": "Convento Franciscano de Nossa Senhora do Amparo",
+                  "text": "Această mănăstire franciscană istorică din epoca colonială este situată pe continent, vis-à-vis de Ilhabela.",
+                  "category": "religious",
+                  "coords": [
+                        -45.409718,
+                        -23.760732
+                  ]
+            },
+            {
+                  "name": "Ilha das Cabras",
+                  "text": "O mică insulă și sanctuar ecologic, faimoasă pentru peștii tropicali colorați și locurile de scufundări.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.392636,
+                        -23.829668
+                  ]
+            },
+            {
+                  "name": "Pedra do Sino",
+                  "text": "Aceste stânci mari de pe plajă emit un sunet metalic de clopot atunci când sunt lovite.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.34864,
+                        -23.746574
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Couro de Boi",
+                  "text": "O cascadă ascunsă în pădurea tropicală, al cărei bazin invită la scăldat în mijlocul naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.333349,
+                        -23.762626
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Bananal",
+                  "text": "O mică cascadă înconjurată de vegetație tropicală densă și bananieri.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.337504,
+                        -23.804145
+                  ]
+            },
+            {
+                  "name": "Poço da Ducha",
+                  "text": "Dușuri amenajate artificial, alimentate de apa naturală a unui pârâu de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.356689,
+                        -23.843107
+                  ]
+            },
+            {
+                  "name": "Poço do Jabuti",
+                  "text": "Un bazin natural în stâncă, în mijlocul pădurii, care oferă apă limpede pentru răcorire.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.350663,
+                        -23.846115
+                  ]
+            },
+            {
+                  "name": "Poço da Escada",
+                  "text": "Această cascadă cade peste mai multe trepte de stâncă, formând mici locuri naturale pentru baie.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.3593,
+                        -23.8406
+                  ]
+            },
+            {
+                  "name": "Santuario Ecológico",
+                  "text": "O zonă marină protejată, ideală pentru snorkeling printre corali și pești de recif.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.404496,
+                        -23.844161
+                  ]
+            },
+            {
+                  "name": "Praia do oscar",
+                  "text": "O porțiune de plajă mică și stâncoasă, cu apă foarte limpede și puțin adâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.400259,
+                        -23.839782
+                  ]
+            },
+            {
+                  "name": "Praia de feiticeira",
+                  "text": "O plajă populară cu un conac istoric în fundal și o mare foarte liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.408933,
+                        -23.845681
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Veloso",
+                  "text": "Cu o cădere de aproximativ 50 de metri, această cascadă este printre cele mai înalte de pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.431917,
+                        -23.884035
+                  ]
+            },
+            {
+                  "name": "Paquetá",
+                  "text": "Un loc cu bazine naturale în stâncă, excelente pentru o baie sigură în apă de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.422909,
+                        -23.868993
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Saquinho",
+                  "text": "O cascadă ascunsă la capătul unui traseu de drumeție în partea de sud a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.354923,
+                        -23.918418
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Poço Fundo",
+                  "text": "Această cascadă se varsă într-un bazin natural deosebit de adânc, care invită la sărituri.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.341305,
+                        -23.912589
+                  ]
+            },
+            {
+                  "name": "Cachoeira da Friagem",
+                  "text": "O cascadă retrasă de pe coasta de nord a insulei, accesibilă doar prin poteci dificile.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.329799,
+                        -23.758685
+                  ]
+            },
+            {
+                  "name": "Assembléia de Deus",
+                  "text": "O sală de rugăciune penticostală din Ilhabela, parte a celei mai mari biserici evanghelice din Brazilia.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.347077,
+                        -23.744379
+                  ]
+            },
+            {
+                  "name": "Igreja Morumbi",
+                  "text": "Această biserică evanghelică modernă oferă o comunitate vibrantă în orașul de pe insulă, Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.36435,
+                        -23.825406
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Verônica",
+                  "text": "Această mică capelă este situată la marginea pădurii tropicale atlantice, lângă coasta insulei Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.344815,
+                        -23.916667
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "Un lăcaș de cult creștin local situat în cadrul tropical al insulei Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.355244,
+                        -23.82761
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "O sală religioasă modernă de adunare situată într-una dintre zonele rezidențiale din Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.379083,
+                        -23.823003
+                  ]
+            },
+            {
+                  "name": "Igreja Catolica",
+                  "text": "O biserică catolică ce servește ca centru spiritual pentru locuitorii acestui cartier de pe insulă.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.368303,
+                        -23.824324
+                  ]
+            },
+            {
+                  "name": "Capela São João Batista",
+                  "text": "Această capelă dedicată Sfântului Ioan Botezătorul este situată într-un cartier tropical liniștit.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.368301,
+                        -23.813864
+                  ]
+            },
+            {
+                  "name": "Capela",
+                  "text": "O capelă mică și simplă, integrată armonios în peisajul verde natural al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.41622,
+                        -23.85803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico de São Sebastião",
+                  "text": "At 1378 meters, this is the highest peak on the island of Ilhabela, offering vast ocean views.",
+                  "category": "natural",
+                  "coords": [
+                        -45.378724,
+                        -23.875559
+                  ]
+            },
+            {
+                  "name": "Praia de Barequeçaba",
+                  "text": "A beach with very calm waters, ideal for stand-up paddling and families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        -45.435749,
+                        -23.828022
+                  ]
+            },
+            {
+                  "name": "Praia de Guaecá",
+                  "text": "This scenic surf beach is known for its strong waves and clean, light sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -45.449259,
+                        -23.826241
+                  ]
+            },
+            {
+                  "name": "Museu Nautico de Ilhabela",
+                  "text": "This museum displays artifacts and stories from numerous historic shipwrecks around the island.",
+                  "category": "museum",
+                  "coords": [
+                        -45.360915,
+                        -23.833294
+                  ]
+            },
+            {
+                  "name": "Morro do Papagaio",
+                  "text": "A distinctive mountain peak in Ilhabela that rewards hikers with panoramic views of the tropical rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -45.410398,
+                        -23.895763
+                  ]
+            },
+            {
+                  "name": "Monumento Bíblico",
+                  "text": "A monument featuring an open Bible, located in a park right by the seaside.",
+                  "category": "historical",
+                  "coords": [
+                        -45.36674,
+                        -23.811635
+                  ]
+            },
+            {
+                  "name": "Esculturas de Aluminio",
+                  "text": "A collection of modern aluminum sculptures displayed outdoors near the Ilhabela coast.",
+                  "category": "historical",
+                  "coords": [
+                        -45.366616,
+                        -23.823765
+                  ]
+            },
+            {
+                  "name": "Mirante do Piúva \"Amanda Almeida\"",
+                  "text": "A viewpoint offering a wide view over the sea channel between Ilhabela and the mainland.",
+                  "category": "historical",
+                  "coords": [
+                        -45.38402,
+                        -23.825817
+                  ]
+            },
+            {
+                  "name": "Mapa de Ilhabela",
+                  "text": "A large relief monument depicting the geographic details and trails of Ilhabela island.",
+                  "category": "historical",
+                  "coords": [
+                        -45.376616,
+                        -23.822302
+                  ]
+            },
+            {
+                  "name": "Convento Franciscano de Nossa Senhora do Amparo",
+                  "text": "This historic Franciscan monastery from the colonial era is located on the mainland across from Ilhabela.",
+                  "category": "religious",
+                  "coords": [
+                        -45.409718,
+                        -23.760732
+                  ]
+            },
+            {
+                  "name": "Ilha das Cabras",
+                  "text": "A tiny islet and ecological sanctuary famous for its colorful tropical fish and diving spots.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.392636,
+                        -23.829668
+                  ]
+            },
+            {
+                  "name": "Pedra do Sino",
+                  "text": "These large rocks on the beach emit a metallic bell-like sound when struck.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.34864,
+                        -23.746574
+                  ]
+            },
+            {
+                  "name": "Couro de Boi Waterfall",
+                  "text": "A hidden waterfall in the rainforest whose pool invites swimming in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.333349,
+                        -23.762626
+                  ]
+            },
+            {
+                  "name": "Bananal Waterfall",
+                  "text": "A small waterfall surrounded by dense banana trees and tropical vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.337504,
+                        -23.804145
+                  ]
+            },
+            {
+                  "name": "Poço da Ducha",
+                  "text": "Man-made showers fed by the natural water of a mountain stream.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.356689,
+                        -23.843107
+                  ]
+            },
+            {
+                  "name": "Poço do Jabuti",
+                  "text": "A natural rock pool in the middle of the forest, offering clear water for refreshing.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.350663,
+                        -23.846115
+                  ]
+            },
+            {
+                  "name": "Poço da Escada",
+                  "text": "This waterfall cascades over several rock steps, forming small natural bathing spots.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.3593,
+                        -23.8406
+                  ]
+            },
+            {
+                  "name": "Santuario Ecológico",
+                  "text": "A protected marine area ideal for snorkeling among corals and reef fish.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.404496,
+                        -23.844161
+                  ]
+            },
+            {
+                  "name": "Praia do oscar",
+                  "text": "A tiny, rocky beach section with very clear and shallow water.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.400259,
+                        -23.839782
+                  ]
+            },
+            {
+                  "name": "Praia de feiticeira",
+                  "text": "A popular beach with a historic manor house in the background and very calm sea.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.408933,
+                        -23.845681
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Veloso",
+                  "text": "With a drop of about 50 meters, this waterfall is among the highest on the island.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.431917,
+                        -23.884035
+                  ]
+            },
+            {
+                  "name": "Paquetá",
+                  "text": "A site with natural rock pools that are excellent for a safe dip in seawater.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.422909,
+                        -23.868993
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Saquinho",
+                  "text": "A hidden waterfall at the end of a hiking trail in the southern part of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.354923,
+                        -23.918418
+                  ]
+            },
+            {
+                  "name": "Cachoeira do Poço Fundo",
+                  "text": "This waterfall flows into a particularly deep natural pool that invites jumping.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.341305,
+                        -23.912589
+                  ]
+            },
+            {
+                  "name": "Friagem Waterfall",
+                  "text": "A remote waterfall on the island's north coast, accessible only via challenging trails.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.329799,
+                        -23.758685
+                  ]
+            },
+            {
+                  "name": "Assembléia de Deus",
+                  "text": "A Pentecostal assembly hall in Ilhabela, part of the largest evangelical church in Brazil.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.347077,
+                        -23.744379
+                  ]
+            },
+            {
+                  "name": "Igreja Morumbi",
+                  "text": "This modern evangelical church offers a vibrant community in the island town of Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.36435,
+                        -23.825406
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Verônica",
+                  "text": "This small chapel is situated at the edge of the Atlantic Forest near the coast of Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.344815,
+                        -23.916667
+                  ]
+            },
+            {
+                  "name": "Congregação Cristã no Brasil",
+                  "text": "A local Christian place of worship set within the tropical surroundings of Ilhabela island.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.355244,
+                        -23.82761
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "A modern religious assembly hall located in one of the residential areas of Ilhabela.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.379083,
+                        -23.823003
+                  ]
+            },
+            {
+                  "name": "Igreja Catolica",
+                  "text": "A Catholic church serving as a spiritual center for the residents of this island neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.368303,
+                        -23.824324
+                  ]
+            },
+            {
+                  "name": "Capela São João Batista",
+                  "text": "This chapel dedicated to Saint John the Baptist is located in a quiet, tropical neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.368301,
+                        -23.813864
+                  ]
+            },
+            {
+                  "name": "Capela",
+                  "text": "A small, simple chapel harmoniously integrated into the natural green landscape of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.41622,
+                        -23.85803
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "BR-SP",
     coords: [-45.36, -23.83],
@@ -1253,7 +11189,304 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["La plus grande forêt tropicale de la Terre, cruciale pour la régulation du climat mondial.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Liée à la vie quotidienne et à l'histoire du pays.", "Sous l'influence du climat majoritairement tropical du Brésil."],
     }, image: "/poi-images/br-amazon-rainforest-nature-v2.webp"},
   {
-    id: "br-atlantic-forest-nature-v2",
+    id: "br-atlantic-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Olivença",
+                  "text": "Dieser Strand am Rand des Atlantischen Regenwalds bietet weite Sandflächen und ist für seine nahen Thermalbäder bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.018813,
+                        -14.922927
+                  ]
+            },
+            {
+                  "name": "Praia do Jairi",
+                  "text": "Praia do Jairi ist ein von Riffen geschützter Strand an der Küste des Atlantischen Regenwalds, an dem sich bei Ebbe natürliche Gezeitenbecken bilden.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.001605,
+                        -14.978962
+                  ]
+            },
+            {
+                  "name": "Praia de Back Door",
+                  "text": "Dieser Strand der Atlantischen Regenwaldküste ist berühmt für seine konstanten Wellen, die ihn zu einem Hotspot für erfahrene Surfer machen.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.014089,
+                        -14.938252
+                  ]
+            },
+            {
+                  "name": "Praia dos Milagres",
+                  "text": "Praia dos Milagres ist ein ruhiger Sandstrand in der Nähe des Atlantischen Regenwalds, der von Kokospalmen und sanften Wellen gesäumt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.008824,
+                        -14.949497
+                  ]
+            },
+            {
+                  "name": "Praia de Batuba",
+                  "text": "Dieser von Palmen beschattete Strand am Rand des Atlantischen Regenwalds zeichnet sich durch goldfarbenen Sand und lebhafte Strandkioske aus.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.011186,
+                        -14.942831
+                  ]
+            },
+            {
+                  "name": "Praia de Sirihyba",
+                  "text": "Praia de Sirihyba ist ein naturbelassener Küstenabschnitt am Atlantischen Regenwald, wo dichter Dschungel direkt an den weichen Sand grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.006888,
+                        -14.955851
+                  ]
+            },
+            {
+                  "name": "Cana Brava All Inclusive Resort",
+                  "text": "Dieses weitläufige Strandresort an der Atlantischen Regenwaldküste bietet direkten Meerzugang und von Palmen umgebene Poollandschaften.",
+                  "category": "recreational",
+                  "coords": [
+                        -38.998878,
+                        -14.993898
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora da Escada",
+                  "text": "Diese historische christliche Kirche am Atlantischen Regenwald wurde einst von Jesuiten erbaut, um die indigenen Bevölkerungsgruppen der Region zu bekehren.",
+                  "category": "landmark",
+                  "coords": [
+                        -39.01181,
+                        -14.947313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Olivença",
+                  "text": "Ez a strand az Atlanti-parti esőerdő szélén széles homokos területeket kínál, és a közeli termálfürdőiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.018813,
+                        -14.922927
+                  ]
+            },
+            {
+                  "name": "Praia do Jairi",
+                  "text": "A Praia do Jairi egy zátonyok által védett strand az Atlanti-parti esőerdőnél, ahol apálykor természetes árapály-medencék alakulnak ki.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.001605,
+                        -14.978962
+                  ]
+            },
+            {
+                  "name": "Praia de Back Door",
+                  "text": "Az Atlanti-parti esőerdő mentén található strand állandó hullámairól híres, amelyek a tapasztalt szörfösök kedvelt helyévé teszik.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.014089,
+                        -14.938252
+                  ]
+            },
+            {
+                  "name": "Praia dos Milagres",
+                  "text": "A Praia dos Milagres egy nyugodt homokos strand az Atlanti-parti esőerdő közelében, kókuszpálmákkal és szelíd hullámokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.008824,
+                        -14.949497
+                  ]
+            },
+            {
+                  "name": "Praia de Batuba",
+                  "text": "Az Atlanti-parti esőerdő szélén található, pálmafákkal árnyékolt strandot aranyhomok és nyüzsgő tengerparti bódék jellemzik.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.011186,
+                        -14.942831
+                  ]
+            },
+            {
+                  "name": "Praia de Sirihyba",
+                  "text": "A Praia de Sirihyba egy érintetlen partszakasz az Atlanti-parti esőerdőnél, ahol a sűrű dzsungel közvetlenül a puha homokkal találkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.006888,
+                        -14.955851
+                  ]
+            },
+            {
+                  "name": "Cana Brava All Inclusive Resort",
+                  "text": "Ez a kiterjedt tengerparti üdülőhely az Atlanti-parti esőerdő mentén közvetlen tengerparti hozzáférést és pálmafákkal körülvett medencéket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -38.998878,
+                        -14.993898
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora da Escada",
+                  "text": "Ezt a történelmi keresztény templomot az Atlanti-parti esőerdőnél egykor jezsuiták építették a régió őslakosainak megtérítésére.",
+                  "category": "landmark",
+                  "coords": [
+                        -39.01181,
+                        -14.947313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Olivença",
+                  "text": "Această plajă de la marginea Pădurii Atlantice oferă întinderi largi de nisip și este cunoscută pentru băile sale termale din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.018813,
+                        -14.922927
+                  ]
+            },
+            {
+                  "name": "Praia do Jairi",
+                  "text": "Praia do Jairi este o plajă protejată de recife pe coasta Pădurii Atlantice, unde se formează piscine naturale la reflux.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.001605,
+                        -14.978962
+                  ]
+            },
+            {
+                  "name": "Praia de Back Door",
+                  "text": "Această plajă de pe coasta Pădurii Atlantice este faimoasă pentru valurile sale constante, fiind un punct de atracție pentru surferii experimentați.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.014089,
+                        -14.938252
+                  ]
+            },
+            {
+                  "name": "Praia dos Milagres",
+                  "text": "Praia dos Milagres este o plajă de nisip liniștită de lângă Pădurea Atlantică, mărginită de palmieri de cocos și valuri blânde.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.008824,
+                        -14.949497
+                  ]
+            },
+            {
+                  "name": "Praia de Batuba",
+                  "text": "Această plajă umbrită de palmieri, la marginea Pădurii Atlantice, are nisip auriu și chioșcuri vibrante pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.011186,
+                        -14.942831
+                  ]
+            },
+            {
+                  "name": "Praia de Sirihyba",
+                  "text": "Praia de Sirihyba este o fâșie de coastă naturală la Pădurea Atlantică, unde jungla deasă se întâlnește cu nisipul fin.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.006888,
+                        -14.955851
+                  ]
+            },
+            {
+                  "name": "Cana Brava All Inclusive Resort",
+                  "text": "Această stațiune extinsă de pe coasta Pădurii Atlantice oferă acces direct la mare și piscine înconjurate de palmieri.",
+                  "category": "recreational",
+                  "coords": [
+                        -38.998878,
+                        -14.993898
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora da Escada",
+                  "text": "Această biserică creștină istorică de lângă Pădurea Atlantică a fost construită inițial de iezuiți pentru a converti populațiile indigene.",
+                  "category": "landmark",
+                  "coords": [
+                        -39.01181,
+                        -14.947313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Olivença",
+                  "text": "Located on the edge of the Atlantic Forest, this beach offers wide sandy stretches and is known for its nearby thermal baths.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.018813,
+                        -14.922927
+                  ]
+            },
+            {
+                  "name": "Praia do Jairi",
+                  "text": "Praia do Jairi is a reef-protected beach along the Atlantic Forest coast where natural tide pools form at low tide.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.001605,
+                        -14.978962
+                  ]
+            },
+            {
+                  "name": "Praia de Back Door",
+                  "text": "This Atlantic Forest coastal beach is famous for its consistent right-hand breaking waves, making it a hotspot for advanced surfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.014089,
+                        -14.938252
+                  ]
+            },
+            {
+                  "name": "Praia dos Milagres",
+                  "text": "Praia dos Milagres is a tranquil sandy beach near the Atlantic Forest, fringed by coconut palms and gentle ocean waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.008824,
+                        -14.949497
+                  ]
+            },
+            {
+                  "name": "Praia de Batuba",
+                  "text": "This palm-shaded beach on the edge of the Atlantic Forest features golden sands and lively seaside kiosks.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.011186,
+                        -14.942831
+                  ]
+            },
+            {
+                  "name": "Praia de Sirihyba",
+                  "text": "Praia de Sirihyba is a pristine coastal stretch near the Atlantic Forest where dense jungle vegetation meets the soft sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -39.006888,
+                        -14.955851
+                  ]
+            },
+            {
+                  "name": "Cana Brava All Inclusive Resort",
+                  "text": "This expansive beach resort along the Atlantic Forest coast offers direct oceanfront access and palm-fringed swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -38.998878,
+                        -14.993898
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora da Escada",
+                  "text": "This historic Christian church near the Atlantic Forest was originally founded by Jesuit missionaries ministering to the indigenous population.",
+                  "category": "landmark",
+                  "coords": [
+                        -39.01181,
+                        -14.947313
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BR-BA",
     coords: [-39.0, -15.0],
@@ -1300,7 +11533,1456 @@ export const poiExtraBrazilNatureV2: POI[] = [
       fr: ["Un biome gravement menacé mais extrêmement riche en biodiversité le long de la côte est du Brésil.", "Situé sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région.", "Liée à la vie quotidienne et à l'histoire du pays.", "Sous l'influence du climat majoritairement tropical du Brésil."],
     }, image: "/poi-images/br-atlantic-forest-nature-v2.webp"},
   {
-    id: "br-tijuca-forest-nature-v2",
+    id: "br-tijuca-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Histórico da Cidade do Rio de Janeiro",
+                  "text": "Dieses Museum liegt am bewaldeten Rand der Tijuca und bewahrt historische Artefakte zur Entwicklung von Rio de Janeiro auf.",
+                  "category": "museum",
+                  "coords": [
+                        -43.244722,
+                        -22.978698
+                  ]
+            },
+            {
+                  "name": "GRESE Império da Tijuca",
+                  "text": "Diese bemerkenswerte Sambaschule ist eine lebendige kulturelle Institution, die in der Region Tijuca brasilianische Karnevalstraditionen feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.244858,
+                        -22.939771
+                  ]
+            },
+            {
+                  "name": "Pico do Perdido",
+                  "text": "Dieser markante Berggipfel erhebt sich steil über dem dichten Kronendach des Atlantischen Regenwaldes von Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.27126,
+                        -22.926183
+                  ]
+            },
+            {
+                  "name": "Morro do Céu",
+                  "text": "Dieser erhöhte Gipfel, bekannt als 'Himmelsberg', bietet einen Panoramablick über den Tijuca-Wald.",
+                  "category": "natural",
+                  "coords": [
+                        -43.291604,
+                        -22.913851
+                  ]
+            },
+            {
+                  "name": "Pico da Tijuca",
+                  "text": "Als höchster Punkt des Tijuca-Waldes ist dieser markante Gipfel über in den massiven Fels gehauene Stufen erreichbar.",
+                  "category": "natural",
+                  "coords": [
+                        -43.286707,
+                        -22.944003
+                  ]
+            },
+            {
+                  "name": "Morro de São Maron",
+                  "text": "Dieser bewaldete Berggipfel ist Teil des ausgedehnten Küstengebirges, das das Tijuca-Gebiet schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -43.280871,
+                        -22.932513
+                  ]
+            },
+            {
+                  "name": "Alto dos Pretos Forros",
+                  "text": "Dieser erhöhte Bergrücken im Tijuca-Massiv hat eine historische Bedeutung, die bis in die Zeit der entflohenen Sklaven zurückreicht.",
+                  "category": "natural",
+                  "coords": [
+                        -43.314575,
+                        -22.916625
+                  ]
+            },
+            {
+                  "name": "Morro do Inácio Dias",
+                  "text": "Dieser schroffe Gipfel ist einer der vielen bewaldeten Berge, die die bergige Landschaft von Tijuca prägen.",
+                  "category": "natural",
+                  "coords": [
+                        -43.326215,
+                        -22.904947
+                  ]
+            },
+            {
+                  "name": "Morro do Paraíso",
+                  "text": "Dieser 'Paradieshügel' erhebt sich inmitten des üppigen Atlantischen Regenwaldes und trägt zur dramatischen Topographie von Tijuca bei.",
+                  "category": "natural",
+                  "coords": [
+                        -43.316739,
+                        -22.893976
+                  ]
+            },
+            {
+                  "name": "Vista Chinesa",
+                  "text": "Dieser 1903 erbaute, verzierte Pavillon im orientalischen Stil bietet einen spektakulären Panoramablick über den Tijuca-Wald.",
+                  "category": "natural",
+                  "coords": [
+                        -43.249468,
+                        -22.973256
+                  ]
+            },
+            {
+                  "name": "Museu do Açude",
+                  "text": "Dieses Museum befindet sich auf einem historischen Anwesen im Tijuca-Wald und präsentiert Kunstsammlungen inmitten üppiger Gärten.",
+                  "category": "museum",
+                  "coords": [
+                        -43.282866,
+                        -22.963601
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Penna",
+                  "text": "Diese historische christliche Kirche wurde 1661 gegründet und steht als ehrwürdige Kultstätte in der Region Tijuca.",
+                  "category": "religious",
+                  "coords": [
+                        -43.34832,
+                        -22.941587
+                  ]
+            },
+            {
+                  "name": "Capela São Gerardo",
+                  "text": "Diese kleine, eigens errichtete Kapelle dient als friedlicher Ort der Andacht inmitten der Umgebung von Tijuca.",
+                  "category": "religious",
+                  "coords": [
+                        -43.276226,
+                        -22.965114
+                  ]
+            },
+            {
+                  "name": "Cachoeira das Almas",
+                  "text": "Dieser malerische natürliche Wasserfall stürzt sanft durch eine felsige Schlucht im Tijuca-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.286836,
+                        -22.948637
+                  ]
+            },
+            {
+                  "name": "Lago das Fadas",
+                  "text": "Dieses ruhige natürliche Gewässer, bekannt als 'Feensee', liegt eingebettet im grünen Tijuca-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.28371,
+                        -22.952208
+                  ]
+            },
+            {
+                  "name": "Capela Mayrink",
+                  "text": "Diese bezaubernde rosa historische Kapelle liegt malerisch inmitten des dichten Grüns des Tijuca-Waldes.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.278083,
+                        -22.956828
+                  ]
+            },
+            {
+                  "name": "Cascatinha Taunay",
+                  "text": "Dieser beeindruckende Wasserfall stürzt über eine steile Felswand und ist eine der berühmtesten Natursehenswürdigkeiten im Tijuca-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.27748,
+                        -22.958538
+                  ]
+            },
+            {
+                  "name": "Morro da Freira",
+                  "text": "Dieser einzigartig geformte felsige Gipfel ist ein markantes natürliches Wahrzeichen in der bergigen Gegend von Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.268128,
+                        -22.96671
+                  ]
+            },
+            {
+                  "name": "Morro da Moganga",
+                  "text": "Ein steiler Berggipfel, der von der reichen Artenvielfalt des Atlantischen Regenwaldes in Tijuca umhüllt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -43.258603,
+                        -22.956537
+                  ]
+            },
+            {
+                  "name": "Morro do Queimado",
+                  "text": "Diese hoch aufragende Erhebung ist Teil des schroffen Höhenzugs, der für die Landschaft des Tijuca-Waldes charakteristisch ist.",
+                  "category": "natural",
+                  "coords": [
+                        -43.256207,
+                        -22.962285
+                  ]
+            },
+            {
+                  "name": "Morro da Casa Branca",
+                  "text": "Dieser Gipfel erhebt sich im dichten atlantischen Regenwald des Tijuca-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        -43.252246,
+                        -22.935663
+                  ]
+            },
+            {
+                  "name": "Morro do Borel",
+                  "text": "Dieser markante Hügel ist für die steile, historische Gemeinde bekannt, die an seinen Hängen liegt.",
+                  "category": "natural",
+                  "coords": [
+                        -43.258924,
+                        -22.939108
+                  ]
+            },
+            {
+                  "name": "Morro do Felizardo",
+                  "text": "Dieser bewaldete Gipfel bietet ein raues Naturdenkmal innerhalb der Grenzen des Tijuca-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.269417,
+                        -22.939384
+                  ]
+            },
+            {
+                  "name": "Morro da Cachoeirinha",
+                  "text": "Dieser Berg hat seinen Namen von den kleinen Wasserfällen, die seine üppigen Regenwaldhänge prägen.",
+                  "category": "natural",
+                  "coords": [
+                        -43.277249,
+                        -22.920433
+                  ]
+            },
+            {
+                  "name": "Morro da Cotia",
+                  "text": "Dieser natürliche Gipfel ist ein auffälliges, dicht bewachsenes Wahrzeichen in den Tijuca-Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        -43.282013,
+                        -22.920354
+                  ]
+            },
+            {
+                  "name": "Morro do Gambá",
+                  "text": "Dieser erhöhte Gipfel ist von der reichen Artenvielfalt des städtischen Atlantikwaldes von Rio umgeben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.290682,
+                        -22.916895
+                  ]
+            },
+            {
+                  "name": "Pico do Ramalho",
+                  "text": "Dieser schroffe Gipfel ist eine der vielen bewaldeten Erhebungen, die das Tijuca-Gebirge bilden.",
+                  "category": "natural",
+                  "coords": [
+                        -43.292529,
+                        -22.928332
+                  ]
+            },
+            {
+                  "name": "Pico Jorge Lossio",
+                  "text": "Dieser höchste Punkt weist steile, bewaldete Hänge auf, die für das Tijuca-Massiv charakteristisch sind.",
+                  "category": "natural",
+                  "coords": [
+                        -43.303646,
+                        -22.936853
+                  ]
+            },
+            {
+                  "name": "Pico Magalhães Castro",
+                  "text": "Dieser Gipfel, der sich über die Stadt erhebt, ist vom dichten tropischen Blätterdach des Atlantischen Waldes bedeckt.",
+                  "category": "natural",
+                  "coords": [
+                        -43.302058,
+                        -22.940726
+                  ]
+            },
+            {
+                  "name": "Pico Taunay",
+                  "text": "Dieser Berg ist Teil der üppigen natürlichen Skyline, die den Tijuca-Nationalpark definiert.",
+                  "category": "natural",
+                  "coords": [
+                        -43.30747,
+                        -22.944341
+                  ]
+            },
+            {
+                  "name": "Pico Escragnolle",
+                  "text": "Dieser markante Gipfel ist nach der Familie benannt, die an der historischen Wiederaufforstung des Tijuca-Gebiets beteiligt war.",
+                  "category": "natural",
+                  "coords": [
+                        -43.304867,
+                        -22.945192
+                  ]
+            },
+            {
+                  "name": "Alto dos Ciganos",
+                  "text": "Dieser erhöhte natürliche Aussichtspunkt liegt inmitten der dichten Vegetation des Tijuca-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        -43.296303,
+                        -22.939661
+                  ]
+            },
+            {
+                  "name": "Morro do Elefante",
+                  "text": "Dieser markant geformte Gipfel erhebt sich prominent inmitten der tropischen Blätter der Küstenberge.",
+                  "category": "natural",
+                  "coords": [
+                        -43.287505,
+                        -22.935631
+                  ]
+            },
+            {
+                  "name": "Morro Redondo",
+                  "text": "Wie der Name schon sagt, weist dieser Gipfel ein abgerundetes Profil auf, das den umliegenden Stadtwald überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -43.27431,
+                        -22.933376
+                  ]
+            },
+            {
+                  "name": "Pico do Andaraí Maior",
+                  "text": "Dieser imposante Felsgipfel überragt die nördliche Zone von Rio mit seinen steilen, anspruchsvollen Hängen.",
+                  "category": "natural",
+                  "coords": [
+                        -43.278969,
+                        -22.939704
+                  ]
+            },
+            {
+                  "name": "Excelsior",
+                  "text": "Dieser berühmte Gipfel belohnt Wanderer mit einem weiten Panoramablick von seinem hohen Aussichtspunkt im Tijuca-Wald.",
+                  "category": "natural",
+                  "coords": [
+                        -43.272741,
+                        -22.94382
+                  ]
+            },
+            {
+                  "name": "Pedra do Conde",
+                  "text": "Dieser felsige Gipfel bietet einen steilen, anspruchsvollen Aufstieg durch den atlantischen Regenwald.",
+                  "category": "natural",
+                  "coords": [
+                        -43.273999,
+                        -22.948895
+                  ]
+            },
+            {
+                  "name": "Morro do Almeida",
+                  "text": "Dieser bewaldete Hügel dient als markantes Naturdenkmal im Tijuca-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        -43.28369,
+                        -22.96021
+                  ]
+            },
+            {
+                  "name": "Alto da Bandeira",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet weite Panoramablicke über das dichte Blätterdach des Tijuca-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        -43.274334,
+                        -22.957286
+                  ]
+            },
+            {
+                  "name": "Morro Tijuaçu",
+                  "text": "Dieser markante Berg steht als rauer, bewaldeter Wächter innerhalb des Tijuca-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        -43.288539,
+                        -22.970087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Histórico da Cidade do Rio de Janeiro",
+                  "text": "A Tijuca erdős határain belül található múzeum Rio de Janeiro fejlődését bemutató történelmi tárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -43.244722,
+                        -22.978698
+                  ]
+            },
+            {
+                  "name": "GRESE Império da Tijuca",
+                  "text": "Ez a figyelemre méltó szambaiskola egy élénk kulturális intézmény, amely a brazil karneváli hagyományokat ünnepli a Tijuca régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.244858,
+                        -22.939771
+                  ]
+            },
+            {
+                  "name": "Pico do Perdido",
+                  "text": "Ez a kiemelkedő hegycsúcs meredeken emelkedik Tijuca sűrű atlanti esőerdőjének lombkoronája fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -43.27126,
+                        -22.926183
+                  ]
+            },
+            {
+                  "name": "Morro do Céu",
+                  "text": "Az 'Ég hegye'-ként ismert magas csúcs panorámás kilátást nyújt a Tijuca-erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -43.291604,
+                        -22.913851
+                  ]
+            },
+            {
+                  "name": "Pico da Tijuca",
+                  "text": "A Tijuca-erdő legmagasabb pontjaként ez a kiemelkedő csúcs a szilárd sziklába vájt lépcsőkön érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        -43.286707,
+                        -22.944003
+                  ]
+            },
+            {
+                  "name": "Morro de São Maron",
+                  "text": "Ez az erdős hegycsúcs a Tijuca területét védelmező kiterjedt part menti hegység része.",
+                  "category": "natural",
+                  "coords": [
+                        -43.280871,
+                        -22.932513
+                  ]
+            },
+            {
+                  "name": "Alto dos Pretos Forros",
+                  "text": "A Tijuca-hegység ezen magas gerince a szökött rabszolgák koráig visszanyúló történelmi jelentőséggel bír.",
+                  "category": "natural",
+                  "coords": [
+                        -43.314575,
+                        -22.916625
+                  ]
+            },
+            {
+                  "name": "Morro do Inácio Dias",
+                  "text": "Ez a zord csúcs egyike azon sok erdős hegynek, amelyek Tijuca hegyvidéki táját formálják.",
+                  "category": "natural",
+                  "coords": [
+                        -43.326215,
+                        -22.904947
+                  ]
+            },
+            {
+                  "name": "Morro do Paraíso",
+                  "text": "A buja atlanti-parti esőerdőből kiemelkedő 'Paradicsom-hegy' hozzájárul Tijuca drámai domborzatához.",
+                  "category": "natural",
+                  "coords": [
+                        -43.316739,
+                        -22.893976
+                  ]
+            },
+            {
+                  "name": "Vista Chinesa",
+                  "text": "Az 1903-ban épült, díszes keleti stílusú pavilon látványos panorámát nyújt a Tijuca-erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -43.249468,
+                        -22.973256
+                  ]
+            },
+            {
+                  "name": "Museu do Açude",
+                  "text": "A Tijuca-erdő egyik történelmi birtokán található múzeum művészeti gyűjteményeket mutat be buja kertekkel körülvéve.",
+                  "category": "museum",
+                  "coords": [
+                        -43.282866,
+                        -22.963601
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Penna",
+                  "text": "Az 1661-ben alapított történelmi keresztény templom tiszteletreméltó istentiszteleti hely Tijuca régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        -43.34832,
+                        -22.941587
+                  ]
+            },
+            {
+                  "name": "Capela São Gerardo",
+                  "text": "Ez a kis vallási kápolna békés istentiszteleti helyként szolgál a Tijuca környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -43.276226,
+                        -22.965114
+                  ]
+            },
+            {
+                  "name": "Cachoeira das Almas",
+                  "text": "Ez a festői természetes vízesés lágyan zuhan alá egy sziklás szurdokon a Tijuca-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.286836,
+                        -22.948637
+                  ]
+            },
+            {
+                  "name": "Lago das Fadas",
+                  "text": "A 'Tündérek tava' néven ismert nyugodt természetes vízfelület a zöldellő Tijuca-erdőben bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.28371,
+                        -22.952208
+                  ]
+            },
+            {
+                  "name": "Capela Mayrink",
+                  "text": "Ez a bájos, rózsaszín történelmi kápolna festői környezetben fekszik a Tijuca-erdő sűrű zöldjében.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.278083,
+                        -22.956828
+                  ]
+            },
+            {
+                  "name": "Cascatinha Taunay",
+                  "text": "Ez a lenyűgöző vízesés egy meredek sziklafalon zuhan alá, és a Tijuca-erdő egyik leghíresebb természeti látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.27748,
+                        -22.958538
+                  ]
+            },
+            {
+                  "name": "Morro da Freira",
+                  "text": "Ez az egyedi formájú sziklás csúcs egy jellegzetes természeti tájékozódási pont Tijuca hegyvidéki területén.",
+                  "category": "natural",
+                  "coords": [
+                        -43.268128,
+                        -22.96671
+                  ]
+            },
+            {
+                  "name": "Morro da Moganga",
+                  "text": "Egy meredek hegycsúcs, amelyet a tijucai atlanti esőerdő gazdag biológiai sokfélesége borít.",
+                  "category": "natural",
+                  "coords": [
+                        -43.258603,
+                        -22.956537
+                  ]
+            },
+            {
+                  "name": "Morro do Queimado",
+                  "text": "Ez a tornyosuló magaslat a Tijuca-erdő tájára jellemző zord gerincvonal részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -43.256207,
+                        -22.962285
+                  ]
+            },
+            {
+                  "name": "Morro da Casa Branca",
+                  "text": "Ez a csúcs a Tijuca Nemzeti Park sűrű atlanti esőerdejében emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        -43.252246,
+                        -22.935663
+                  ]
+            },
+            {
+                  "name": "Morro do Borel",
+                  "text": "Ez a kiemelkedő domb a lejtőin elhelyezkedő meredek, történelmi közösségről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -43.258924,
+                        -22.939108
+                  ]
+            },
+            {
+                  "name": "Morro do Felizardo",
+                  "text": "Ez az erdős csúcs zord természeti tájékozódási pontot kínál a Tijuca-hegység határain belül.",
+                  "category": "natural",
+                  "coords": [
+                        -43.269417,
+                        -22.939384
+                  ]
+            },
+            {
+                  "name": "Morro da Cachoeirinha",
+                  "text": "Ez a hegy a nevét azokról a kis vízesésekről kapta, amelyek buja esőerdei lejtőit jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        -43.277249,
+                        -22.920433
+                  ]
+            },
+            {
+                  "name": "Morro da Cotia",
+                  "text": "Ez a természetes csúcs feltűnő, sűrűn benőtt tájékozódási pont a Tijuca-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.282013,
+                        -22.920354
+                  ]
+            },
+            {
+                  "name": "Morro do Gambá",
+                  "text": "Ezt a magaslatot Rio városi atlanti erdejének gazdag biológiai sokfélesége veszi körül.",
+                  "category": "natural",
+                  "coords": [
+                        -43.290682,
+                        -22.916895
+                  ]
+            },
+            {
+                  "name": "Pico do Ramalho",
+                  "text": "Ez a zord csúcs a Tijuca-hegységet alkotó sok erdős magaslat egyike.",
+                  "category": "natural",
+                  "coords": [
+                        -43.292529,
+                        -22.928332
+                  ]
+            },
+            {
+                  "name": "Pico Jorge Lossio",
+                  "text": "Ez a legmagasabb pont meredek, erdős lejtőkkel rendelkezik, amelyek jellemzőek a Tijuca-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -43.303646,
+                        -22.936853
+                  ]
+            },
+            {
+                  "name": "Pico Magalhães Castro",
+                  "text": "A város fölé magasodó csúcsot az atlanti erdő sűrű, trópusi lombkoronája borítja.",
+                  "category": "natural",
+                  "coords": [
+                        -43.302058,
+                        -22.940726
+                  ]
+            },
+            {
+                  "name": "Pico Taunay",
+                  "text": "Ez a hegy része annak a buja természeti sziluettnek, amely meghatározza a Tijuca Nemzeti Parkot.",
+                  "category": "natural",
+                  "coords": [
+                        -43.30747,
+                        -22.944341
+                  ]
+            },
+            {
+                  "name": "Pico Escragnolle",
+                  "text": "Ez a kiemelkedő csúcs arról a családról kapta a nevét, amely részt vett a Tijuca terület történelmi erdősítésében.",
+                  "category": "natural",
+                  "coords": [
+                        -43.304867,
+                        -22.945192
+                  ]
+            },
+            {
+                  "name": "Alto dos Ciganos",
+                  "text": "Ez a magasan fekvő, természetes kilátó a Tijuca-erdő sűrű növényzetében bújik meg.",
+                  "category": "natural",
+                  "coords": [
+                        -43.296303,
+                        -22.939661
+                  ]
+            },
+            {
+                  "name": "Morro do Elefante",
+                  "text": "Ez a jellegzetes formájú csúcs kiemelkedik a part menti hegyek trópusi lombozatából.",
+                  "category": "natural",
+                  "coords": [
+                        -43.287505,
+                        -22.935631
+                  ]
+            },
+            {
+                  "name": "Morro Redondo",
+                  "text": "Ahogy a neve is sugallja, ez a csúcs lekerekített profillal rendelkezik, amely a környező városi erdőre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -43.27431,
+                        -22.933376
+                  ]
+            },
+            {
+                  "name": "Pico do Andaraí Maior",
+                  "text": "Ez az impozáns sziklás csúcs meredek, kihívást jelentő lejtőivel Rio északi zónája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -43.278969,
+                        -22.939704
+                  ]
+            },
+            {
+                  "name": "Excelsior",
+                  "text": "Ez a híres csúcs a Tijuca-erdőben található magas kilátópontjáról lenyűgöző panorámával jutalmazza a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        -43.272741,
+                        -22.94382
+                  ]
+            },
+            {
+                  "name": "Pedra do Conde",
+                  "text": "Ez a sziklás csúcs meredek, kihívást jelentő mászást kínál az atlanti esőerdőn keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -43.273999,
+                        -22.948895
+                  ]
+            },
+            {
+                  "name": "Morro do Almeida",
+                  "text": "Ez az erdős domb kiemelkedő természeti tájékozódási pontként szolgál a Tijuca-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.28369,
+                        -22.96021
+                  ]
+            },
+            {
+                  "name": "Alto da Bandeira",
+                  "text": "Ez a magasan fekvő kilátó lenyűgöző panorámát kínál a Tijuca Nemzeti Park sűrű lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        -43.274334,
+                        -22.957286
+                  ]
+            },
+            {
+                  "name": "Morro Tijuaçu",
+                  "text": "Ez a kiemelkedő hegy zord, erdős őrszemként áll a Tijuca-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.288539,
+                        -22.970087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Histórico da Cidade do Rio de Janeiro",
+                  "text": "Amplasat la marginile împădurite din Tijuca, acest muzeu păstrează artefacte istorice care detaliază dezvoltarea orașului Rio de Janeiro.",
+                  "category": "museum",
+                  "coords": [
+                        -43.244722,
+                        -22.978698
+                  ]
+            },
+            {
+                  "name": "GRESE Império da Tijuca",
+                  "text": "Această școală de samba notabilă este o instituție culturală vibrantă care sărbătorește tradițiile carnavalului brazilian în regiunea Tijuca.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.244858,
+                        -22.939771
+                  ]
+            },
+            {
+                  "name": "Pico do Perdido",
+                  "text": "Acest vârf montan proeminent se ridică abrupt deasupra coronamentului dens al pădurii atlantice din Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.27126,
+                        -22.926183
+                  ]
+            },
+            {
+                  "name": "Morro do Céu",
+                  "text": "Cunoscut sub numele de „Dealul Cerului”, acest summit înalt oferă vederi panoramice asupra Pădurii Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.291604,
+                        -22.913851
+                  ]
+            },
+            {
+                  "name": "Pico da Tijuca",
+                  "text": "Fiind cel mai înalt punct din Pădurea Tijuca, acest vârf proeminent este accesat prin trepte sculptate în stâncă solidă.",
+                  "category": "natural",
+                  "coords": [
+                        -43.286707,
+                        -22.944003
+                  ]
+            },
+            {
+                  "name": "Morro de São Maron",
+                  "text": "Acest vârf montan împădurit face parte din extinsul lanț muntos de coastă care adăpostește zona Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.280871,
+                        -22.932513
+                  ]
+            },
+            {
+                  "name": "Alto dos Pretos Forros",
+                  "text": "Această creastă înaltă din masivul Tijuca deține o importanță istorică datând din epoca sclavilor evadați.",
+                  "category": "natural",
+                  "coords": [
+                        -43.314575,
+                        -22.916625
+                  ]
+            },
+            {
+                  "name": "Morro do Inácio Dias",
+                  "text": "Acest vârf accidentat este unul dintre multele vârfuri împădurite care modelează peisajul muntos din Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.326215,
+                        -22.904947
+                  ]
+            },
+            {
+                  "name": "Morro do Paraíso",
+                  "text": "Ridicându-se în mijlocul luxuriantei păduri atlantice, acest 'Deal al Paradisului' contribuie la topografia dramatică a Tijucăi.",
+                  "category": "natural",
+                  "coords": [
+                        -43.316739,
+                        -22.893976
+                  ]
+            },
+            {
+                  "name": "Vista Chinesa",
+                  "text": "Construit în 1903, acest pavilion ornamentat în stil oriental oferă vederi pitorești spectaculoase asupra Pădurii Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.249468,
+                        -22.973256
+                  ]
+            },
+            {
+                  "name": "Museu do Açude",
+                  "text": "Situat pe un domeniu istoric din Pădurea Tijuca, acest muzeu prezintă colecții de artă înconjurate de grădini luxuriante.",
+                  "category": "museum",
+                  "coords": [
+                        -43.282866,
+                        -22.963601
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Penna",
+                  "text": "Fondată în 1661, această biserică creștină istorică reprezintă un loc de cult venerabil în regiunea Tijuca.",
+                  "category": "religious",
+                  "coords": [
+                        -43.34832,
+                        -22.941587
+                  ]
+            },
+            {
+                  "name": "Capela São Gerardo",
+                  "text": "Această mică capelă religioasă servește ca un loc de cult liniștit în mijlocul împrejurimilor din Tijuca.",
+                  "category": "religious",
+                  "coords": [
+                        -43.276226,
+                        -22.965114
+                  ]
+            },
+            {
+                  "name": "Cachoeira das Almas",
+                  "text": "Această cascadă naturală pitorească cade ușor printr-un defileu stâncos din Pădurea Tijuca.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.286836,
+                        -22.948637
+                  ]
+            },
+            {
+                  "name": "Lago das Fadas",
+                  "text": "Cunoscut sub numele de „Lacul Zânelor”, această apă naturală liniștită este amplasată în verdele Pădurii Tijuca.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.28371,
+                        -22.952208
+                  ]
+            },
+            {
+                  "name": "Capela Mayrink",
+                  "text": "Această fermecătoare capelă istorică roz se află într-un peisaj pitoresc printre verdeața deasă a Pădurii Tijuca.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.278083,
+                        -22.956828
+                  ]
+            },
+            {
+                  "name": "Cascatinha Taunay",
+                  "text": "Această cascadă impresionantă se prăvălește peste un perete de stâncă abrupt, fiind una dintre cele mai faimoase atracții naturale din Pădurea Tijuca.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.27748,
+                        -22.958538
+                  ]
+            },
+            {
+                  "name": "Morro da Freira",
+                  "text": "Acest vârf stâncos cu o formă unică reprezintă un reper natural distinctiv în zona muntoasă Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.268128,
+                        -22.96671
+                  ]
+            },
+            {
+                  "name": "Morro da Moganga",
+                  "text": "Un vârf montan abrupt acoperit de bogata biodiversitate a pădurii atlantice din Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.258603,
+                        -22.956537
+                  ]
+            },
+            {
+                  "name": "Morro do Queimado",
+                  "text": "Această elevație impunătoare face parte din creasta accidentată caracteristică peisajului din Pădurea Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.256207,
+                        -22.962285
+                  ]
+            },
+            {
+                  "name": "Morro da Casa Branca",
+                  "text": "Acest vârf se ridică în densa pădure tropicală atlantică din Parcul Național Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.252246,
+                        -22.935663
+                  ]
+            },
+            {
+                  "name": "Morro do Borel",
+                  "text": "Acest deal proeminent este cunoscut pentru comunitatea istorică și abruptă situată pe versanții săi.",
+                  "category": "natural",
+                  "coords": [
+                        -43.258924,
+                        -22.939108
+                  ]
+            },
+            {
+                  "name": "Morro do Felizardo",
+                  "text": "Acest vârf împădurit oferă un punct de reper natural accidentat în limitele masivului Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.269417,
+                        -22.939384
+                  ]
+            },
+            {
+                  "name": "Morro da Cachoeirinha",
+                  "text": "Acest munte își ia numele de la micile cascade care îi caracterizează versanții luxurianți de pădure tropicală.",
+                  "category": "natural",
+                  "coords": [
+                        -43.277249,
+                        -22.920433
+                  ]
+            },
+            {
+                  "name": "Morro da Cotia",
+                  "text": "Acest vârf natural reprezintă un punct de reper izbitor, cu vegetație densă, în munții Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.282013,
+                        -22.920354
+                  ]
+            },
+            {
+                  "name": "Morro do Gambá",
+                  "text": "Acest vârf înalt este înconjurat de bogata biodiversitate a pădurii urbane atlantice din Rio.",
+                  "category": "natural",
+                  "coords": [
+                        -43.290682,
+                        -22.916895
+                  ]
+            },
+            {
+                  "name": "Pico do Ramalho",
+                  "text": "Acest vârf accidentat este una dintre multele înălțimi împădurite care formează lanțul muntos Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.292529,
+                        -22.928332
+                  ]
+            },
+            {
+                  "name": "Pico Jorge Lossio",
+                  "text": "Acest punct înalt prezintă versanți abrupți și împăduriți caracteristici masivului Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.303646,
+                        -22.936853
+                  ]
+            },
+            {
+                  "name": "Pico Magalhães Castro",
+                  "text": "Ridicându-se deasupra orașului, acest vârf este acoperit de densul coronament tropical al Pădurii Atlantice.",
+                  "category": "natural",
+                  "coords": [
+                        -43.302058,
+                        -22.940726
+                  ]
+            },
+            {
+                  "name": "Pico Taunay",
+                  "text": "Acest munte face parte din orizontul natural luxuriant care definește Parcul Național Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.30747,
+                        -22.944341
+                  ]
+            },
+            {
+                  "name": "Pico Escragnolle",
+                  "text": "Acest vârf proeminent este numit în onoarea familiei implicate în reîmpădurirea istorică a zonei Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.304867,
+                        -22.945192
+                  ]
+            },
+            {
+                  "name": "Alto dos Ciganos",
+                  "text": "Acest punct de observație natural, aflat la înălțime, este cuibărit în vegetația densă a pădurii Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.296303,
+                        -22.939661
+                  ]
+            },
+            {
+                  "name": "Morro do Elefante",
+                  "text": "Acest vârf cu o formă distinctivă se ridică proeminent în mijlocul frunzișului tropical al munților de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -43.287505,
+                        -22.935631
+                  ]
+            },
+            {
+                  "name": "Morro Redondo",
+                  "text": "După cum sugerează și numele său, acest vârf prezintă un profil rotunjit cu vedere la pădurea urbană din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -43.27431,
+                        -22.933376
+                  ]
+            },
+            {
+                  "name": "Pico do Andaraí Maior",
+                  "text": "Acest impunător vârf stâncos se înalță deasupra zonei de nord a orașului Rio, cu versanți abrupți și plini de provocări.",
+                  "category": "natural",
+                  "coords": [
+                        -43.278969,
+                        -22.939704
+                  ]
+            },
+            {
+                  "name": "Excelsior",
+                  "text": "Acest vârf faimos îi răsplătește pe excursioniști cu priveliști panoramice ample din punctul său înalt de observație din Pădurea Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.272741,
+                        -22.94382
+                  ]
+            },
+            {
+                  "name": "Pedra do Conde",
+                  "text": "Acest vârf stâncos oferă o ascensiune abruptă și provocatoare prin pădurea tropicală atlantică.",
+                  "category": "natural",
+                  "coords": [
+                        -43.273999,
+                        -22.948895
+                  ]
+            },
+            {
+                  "name": "Morro do Almeida",
+                  "text": "Acest deal împădurit servește drept un reper natural proeminent în lanțul muntos Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.28369,
+                        -22.96021
+                  ]
+            },
+            {
+                  "name": "Alto da Bandeira",
+                  "text": "Acest punct de belvedere înalt oferă priveliști panoramice ample peste coronamentul dens al Parcului Național Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.274334,
+                        -22.957286
+                  ]
+            },
+            {
+                  "name": "Morro Tijuaçu",
+                  "text": "Acest munte proeminent stă ca o santinelă accidentată și împădurită în cadrul masivului Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.288539,
+                        -22.970087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Histórico da Cidade do Rio de Janeiro",
+                  "text": "Set within the forested borders of Tijuca, this museum preserves historical artifacts detailing the development of Rio de Janeiro.",
+                  "category": "museum",
+                  "coords": [
+                        -43.244722,
+                        -22.978698
+                  ]
+            },
+            {
+                  "name": "GRESE Império da Tijuca",
+                  "text": "This notable samba school is a vibrant cultural institution celebrating Brazilian carnival traditions in the Tijuca region.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.244858,
+                        -22.939771
+                  ]
+            },
+            {
+                  "name": "Pico do Perdido",
+                  "text": "This prominent mountain peak rises steeply above the dense Atlantic rainforest canopy of Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.27126,
+                        -22.926183
+                  ]
+            },
+            {
+                  "name": "Morro do Céu",
+                  "text": "Known as the 'Hill of the Sky', this elevated summit offers panoramic views across the Tijuca Forest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.291604,
+                        -22.913851
+                  ]
+            },
+            {
+                  "name": "Pico da Tijuca",
+                  "text": "As the highest point in the Tijuca Forest, this prominent summit is accessed via steps carved into the solid rock.",
+                  "category": "natural",
+                  "coords": [
+                        -43.286707,
+                        -22.944003
+                  ]
+            },
+            {
+                  "name": "Morro de São Maron",
+                  "text": "This forested mountain peak is part of the extensive coastal mountain range sheltering the Tijuca area.",
+                  "category": "natural",
+                  "coords": [
+                        -43.280871,
+                        -22.932513
+                  ]
+            },
+            {
+                  "name": "Alto dos Pretos Forros",
+                  "text": "This elevated ridge in the Tijuca massif holds historical significance dating back to the era of escaped slaves.",
+                  "category": "natural",
+                  "coords": [
+                        -43.314575,
+                        -22.916625
+                  ]
+            },
+            {
+                  "name": "Morro do Inácio Dias",
+                  "text": "This rugged summit is one of the many forested peaks shaping the mountainous landscape of Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.326215,
+                        -22.904947
+                  ]
+            },
+            {
+                  "name": "Morro do Paraíso",
+                  "text": "Rising amidst the lush Atlantic forest, this 'Paradise Hill' contributes to the dramatic topography of Tijuca.",
+                  "category": "natural",
+                  "coords": [
+                        -43.316739,
+                        -22.893976
+                  ]
+            },
+            {
+                  "name": "Chinese Belvedere",
+                  "text": "Built in 1903, this ornate Oriental-style pavilion offers spectacular scenic views over the Tijuca Forest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.249468,
+                        -22.973256
+                  ]
+            },
+            {
+                  "name": "Museu do Açude",
+                  "text": "Located in a historical estate in the Tijuca Forest, this museum showcases art collections surrounded by lush gardens.",
+                  "category": "museum",
+                  "coords": [
+                        -43.282866,
+                        -22.963601
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Penna",
+                  "text": "Founded in 1661, this historic Christian church stands as a venerable site of worship in the Tijuca region.",
+                  "category": "religious",
+                  "coords": [
+                        -43.34832,
+                        -22.941587
+                  ]
+            },
+            {
+                  "name": "Capela São Gerardo",
+                  "text": "This small, dedicated religious chapel serves as a serene place of worship amid the Tijuca surroundings.",
+                  "category": "religious",
+                  "coords": [
+                        -43.276226,
+                        -22.965114
+                  ]
+            },
+            {
+                  "name": "Cachoeira das Almas",
+                  "text": "This picturesque natural waterfall cascades gently through a rocky gorge in the Tijuca Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.286836,
+                        -22.948637
+                  ]
+            },
+            {
+                  "name": "Lago das Fadas",
+                  "text": "Known as the 'Fairy Lake', this tranquil natural water body is nestled within the verdant Tijuca Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.28371,
+                        -22.952208
+                  ]
+            },
+            {
+                  "name": "Mayrink Chapel",
+                  "text": "This charming pink historical chapel sits picturesquely amid the dense greenery of the Tijuca Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.278083,
+                        -22.956828
+                  ]
+            },
+            {
+                  "name": "Cascatinha Taunay",
+                  "text": "This impressive waterfall plunges over a sheer rock face, serving as one of the most famous natural sights in Tijuca Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.27748,
+                        -22.958538
+                  ]
+            },
+            {
+                  "name": "Morro da Freira",
+                  "text": "This uniquely shaped rocky peak stands as a distinctive natural landmark within the mountainous Tijuca area.",
+                  "category": "natural",
+                  "coords": [
+                        -43.268128,
+                        -22.96671
+                  ]
+            },
+            {
+                  "name": "Morro da Moganga",
+                  "text": "A steep mountain summit cloaked in the rich biodiversity of the Tijuca Atlantic forest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.258603,
+                        -22.956537
+                  ]
+            },
+            {
+                  "name": "Morro do Queimado",
+                  "text": "This towering elevation forms part of the rugged ridgeline characteristic of the Tijuca Forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -43.256207,
+                        -22.962285
+                  ]
+            },
+            {
+                  "name": "Morro da Casa Branca",
+                  "text": "This peak rises within the dense Atlantic rainforest of the Tijuca National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -43.252246,
+                        -22.935663
+                  ]
+            },
+            {
+                  "name": "Morro do Borel",
+                  "text": "This prominent hill is known for the steep, historic community situated on its slopes within the city.",
+                  "category": "natural",
+                  "coords": [
+                        -43.258924,
+                        -22.939108
+                  ]
+            },
+            {
+                  "name": "Morro do Felizardo",
+                  "text": "This forested summit offers a rugged natural landmark within the bounds of the Tijuca massif.",
+                  "category": "natural",
+                  "coords": [
+                        -43.269417,
+                        -22.939384
+                  ]
+            },
+            {
+                  "name": "Morro da Cachoeirinha",
+                  "text": "This mountain takes its name from the small waterfalls that characterize its lush rainforest slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -43.277249,
+                        -22.920433
+                  ]
+            },
+            {
+                  "name": "Morro da Cotia",
+                  "text": "This natural peak provides a striking, densely vegetated landmark within the Tijuca mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -43.282013,
+                        -22.920354
+                  ]
+            },
+            {
+                  "name": "Morro do Gambá",
+                  "text": "This elevated summit is surrounded by the rich biodiversity of Rio's urban Atlantic forest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.290682,
+                        -22.916895
+                  ]
+            },
+            {
+                  "name": "Pico do Ramalho",
+                  "text": "This rugged peak is one of the many forested elevations forming the Tijuca mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -43.292529,
+                        -22.928332
+                  ]
+            },
+            {
+                  "name": "Pico Jorge Lossio",
+                  "text": "This high point features steep, forested slopes characteristic of the Tijuca massif.",
+                  "category": "natural",
+                  "coords": [
+                        -43.303646,
+                        -22.936853
+                  ]
+            },
+            {
+                  "name": "Pico Magalhães Castro",
+                  "text": "Rising above the city, this peak is covered by the dense tropical canopy of the Atlantic Forest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.302058,
+                        -22.940726
+                  ]
+            },
+            {
+                  "name": "Pico Taunay",
+                  "text": "This mountain forms part of the lush natural skyline defining the Tijuca National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -43.30747,
+                        -22.944341
+                  ]
+            },
+            {
+                  "name": "Pico Escragnolle",
+                  "text": "This prominent peak is named in honor of the family involved in the historic reforestation of the Tijuca area.",
+                  "category": "natural",
+                  "coords": [
+                        -43.304867,
+                        -22.945192
+                  ]
+            },
+            {
+                  "name": "Alto dos Ciganos",
+                  "text": "This elevated natural lookout point is nestled within the dense vegetation of the Tijuca forest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.296303,
+                        -22.939661
+                  ]
+            },
+            {
+                  "name": "Morro do Elefante",
+                  "text": "This distinctively shaped peak rises prominently amidst the tropical foliage of the coastal mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -43.287505,
+                        -22.935631
+                  ]
+            },
+            {
+                  "name": "Morro Redondo",
+                  "text": "As its name suggests, this summit features a rounded profile overlooking the surrounding urban forest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.27431,
+                        -22.933376
+                  ]
+            },
+            {
+                  "name": "Pico do Andaraí Maior",
+                  "text": "This imposing rocky peak towers over the northern zone of Rio with steep, challenging slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -43.278969,
+                        -22.939704
+                  ]
+            },
+            {
+                  "name": "Excelsior",
+                  "text": "This famous peak rewards hikers with sweeping panoramic views from its high vantage point in the Tijuca Forest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.272741,
+                        -22.94382
+                  ]
+            },
+            {
+                  "name": "Pedra do Conde",
+                  "text": "This rocky summit provides a steep, challenging climb through the Atlantic rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -43.273999,
+                        -22.948895
+                  ]
+            },
+            {
+                  "name": "Morro do Almeida",
+                  "text": "This forested hill serves as a prominent natural landmark in the Tijuca mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -43.28369,
+                        -22.96021
+                  ]
+            },
+            {
+                  "name": "Alto da Bandeira",
+                  "text": "This elevated viewpoint offers sweeping panoramic vistas across the dense canopy of the Tijuca National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -43.274334,
+                        -22.957286
+                  ]
+            },
+            {
+                  "name": "Morro Tijuaçu",
+                  "text": "This prominent mountain stands as a rugged, forested sentinel within the Tijuca massif.",
+                  "category": "natural",
+                  "coords": [
+                        -43.288539,
+                        -22.970087
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BR-RJ",
     coords: [-43.27, -22.96],

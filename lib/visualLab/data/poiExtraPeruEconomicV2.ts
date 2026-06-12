@@ -3,7 +3,1096 @@ import type { POI } from "./poi";
 
 export const poiExtraPeruEconomicV2: POI[] = [
   {
-    id: "port-callao-economic-v2",
+    id: "port-callao-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huaca Santa Rosa",
+                  "text": "Dieser präkolumbianische Zeremonialhügel aus Lehmziegeln ist eine der wenigen erhaltenen archäologischen Ruinen im städtischen Ballungsraum von Callao.",
+                  "category": "historical",
+                  "coords": [
+                        -77.088008,
+                        -11.995216
+                  ]
+            },
+            {
+                  "name": "Huaca Lechuza",
+                  "text": "Eine alte, aus Erde und Lehmziegeln errichtete Stufenstruktur aus der Vor-Inka-Zeit, die das indigene Erbe in der Küstenregion von Callao bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -77.099333,
+                        -12.003987
+                  ]
+            },
+            {
+                  "name": "Museo de la Fuerza de Aviacion Naval",
+                  "text": "Dieses spezialisierte Militärmuseum dokumentiert die Geschichte der peruanischen Marineflieger mit Ausstellungen historischer Flugzeuge und Flugausrüstung.",
+                  "category": "museum",
+                  "coords": [
+                        -77.102436,
+                        -12.03051
+                  ]
+            },
+            {
+                  "name": "Museo Compañía de Bomberos Voluntarios Italia N° 5",
+                  "text": "Dieses in einer historischen Feuerwache untergebrachte Museum zeigt antike Feuerwehrausrüstung, Helme und das reiche Erbe der italienischen Freiwilligenbrigade in Callao.",
+                  "category": "museum",
+                  "coords": [
+                        -77.117423,
+                        -12.059265
+                  ]
+            },
+            {
+                  "name": "Ovalo Centenario",
+                  "text": "Dieses runde Kreisverkehrsdenkmal in Callao erinnert mit seinem zentralen Skulpturen-Wahrzeichen an die lokale Stadtgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        -77.125928,
+                        -12.050848
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "Ein hoch aufragender Steinobelisk, der sich über die umliegenden Straßen erhebt und als markante Gedenksäule für die Küstengemeinde dient.",
+                  "category": "historical",
+                  "coords": [
+                        -77.134127,
+                        -12.051577
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Lasarita",
+                  "text": "Ein Open-Air-Veranstaltungsort mit terrassenförmigen Sitzplätzen, der unter dem Himmel von Callao lokale Aufführungen und kulturelle Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110044,
+                        -12.048768
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"Bocanegra\"",
+                  "text": "Ein lebendiges Gemeindekunstzentrum im Stadtteil Bocanegra, das Galerieräume und kreative Workshops für die Anwohner bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.103378,
+                        -12.023713
+                  ]
+            },
+            {
+                  "name": "Happy Srote",
+                  "text": "Ein Raum für zeitgenössische Kunst und Handwerk, der sich basisdemokratischen kreativen Projekten und dem lokalen künstlerischen Ausdruck in Callao widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.108822,
+                        -12.022262
+                  ]
+            },
+            {
+                  "name": "El espíritu santo rescatando vidas",
+                  "text": "Dieses Nachbarschaftsheiligtum bietet in seinem warm beleuchteten Gebetssaal spirituelle Zuflucht und gemeinnützige Programme.",
+                  "category": "religious",
+                  "coords": [
+                        -77.090219,
+                        -12.003002
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Eine bescheidene, ruhige Nachbarschaftskapelle, die abseits des Stadttrubels einen friedlichen Raum für tägliche Gebete und Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -77.116519,
+                        -12.055455
+                  ]
+            },
+            {
+                  "name": "Capilla virgen de la medalla milagrosa",
+                  "text": "Eine friedliche katholische Kapelle, die der Jungfrau der Wundertätigen Medaille gewidmet ist, mit Marienikonographie und einem ruhigen Altar.",
+                  "category": "religious",
+                  "coords": [
+                        -77.095685,
+                        -11.998728
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Maria",
+                  "text": "Ein lebendiger lokaler Markt, auf dem zahlreiche Verkäufer frische tropische Früchte, andine Kartoffeln und Haushaltswaren des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10908,
+                        -12.044451
+                  ]
+            },
+            {
+                  "name": "Adelasa",
+                  "text": "Ein kommerzielles Handelszentrum in Callao, in dem Großhändler und Einzelhandelskäufer über regionale Produkte und Trockenwaren verhandeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.108599,
+                        -12.023591
+                  ]
+            },
+            {
+                  "name": "Mercado El Alamo",
+                  "text": "Ein überdachter Nachbarschaftsbasar, der für seine duftenden Essensstände mit traditioneller peruanischer Ceviche und frisch gepressten Säften bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.107207,
+                        -12.00147
+                  ]
+            },
+            {
+                  "name": "Vírgen del Carmen",
+                  "text": "Ein tief traditioneller, mit religiösen Motiven geschmückter Lebensmittelmarkt, auf dem Einheimische frische Meeresfrüchte von der Küste und saisonales Gemüse einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.099773,
+                        -12.006478
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo 200 Millas",
+                  "text": "Dieser belebte Markt, der passend nach Perus Seegebiet benannt ist, hat sich auf den morgendlichen frischen Fischfang und maritime Waren spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.12363,
+                        -11.997572
+                  ]
+            },
+            {
+                  "name": "Mercado La Chalaca",
+                  "text": "Dieser authentische lokale Basar, der die stolze „Chalaco“-Identität verkörpert, lockt mit Ständen voller frisch gefangener pazifischer Meeresfrüchte und Streetfood von der Küste.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.129781,
+                        -12.049968
+                  ]
+            },
+            {
+                  "name": "Mercado Plaza de Barrio",
+                  "text": "Dieser Nachbarschaftsmarkt fungiert als zentrales Nervensystem seines Viertels und bietet dichte Reihen von Ständen, die frisches Geflügel, Kräuter und Backwaren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.100439,
+                        -12.023083
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de la Caridad",
+                  "text": "Eine lebendige Einkaufsgalerie der Gemeinde, in der lokale Metzger, Floristen und Gemüsehändler stolz ihre täglichen peruanischen Ernten präsentieren.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.113375,
+                        -12.00175
+                  ]
+            },
+            {
+                  "name": "Mercado San Juan Masias",
+                  "text": "Dieser lebhafte Markt, der nach dem beliebten Dominikanermönch aus Lima benannt ist, ist voll von Verkäufern, die frisches andines Getreide und Küstenprodukte anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.118109,
+                        -11.998814
+                  ]
+            },
+            {
+                  "name": "Mercado Tambo Machay",
+                  "text": "Dieser Markt hat seinen Namen vom alten Wasserheiligtum der Inkas und ist bekannt für seine frischen Hochlandprodukte, die in die Küstenstadt gebracht werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.117141,
+                        -11.996913
+                  ]
+            },
+            {
+                  "name": "Mercado Los Ángeles",
+                  "text": "Ein stark frequentiertes Einkaufszentrum in der Gemeinde, das durch Verkaufsstände mit Blechdächern gekennzeichnet ist, die mit peruanischen Grundnahrungsmitteln und handwerklichen Brotsorten gefüllt sind.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.117555,
+                        -11.995696
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de Huanca",
+                  "text": "Dieser Markt trägt den Namen einer berühmten andinen Andacht und verbindet durch sein vielfältiges Angebot an regionalen Lebensmitteln die Bergkultur mit dem Küstenleben.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.112313,
+                        -11.987314
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Las Casuarinas",
+                  "text": "Ein modernes, geschlossenes Einkaufszentrum, das eine Reihe von Bekleidungsboutiquen, Elektronikständen und kleinen gastronomischen Einrichtungen für das Hafengebiet von Callao bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110289,
+                        -11.989499
+                  ]
+            },
+            {
+                  "name": "Mercado San Pedro",
+                  "text": "Eine geschäftige traditionelle Lebensmittelpassage, in der Fischhändler geschickt den frischen Fang des Tages neben Ständen voller buntem peruanischem Mais zubereiten.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10629,
+                        -11.990358
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de la Puerta",
+                  "text": "Ein lebhafter Basar am Straßenrand mit dichten Korridoren lokaler Verkäufer, die duftende andine Kräuter und frisch geschlachtetes Fleisch verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.111664,
+                        -11.993019
+                  ]
+            },
+            {
+                  "name": "Mercado Los Olivos de Santa Rosa",
+                  "text": "Eine Handelshalle der Gemeinde, die für ihre weitläufigen Auslagen an saisonalen Küstenprodukten und handwerklichen Käseständen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110496,
+                        -11.997519
+                  ]
+            },
+            {
+                  "name": "Mercado Los Robles de Santa Rosa",
+                  "text": "Ein florierender täglicher Markt, der mit frischen Fruchtsäften und bunten Blumenständen als kulinarisches Herz der Nachbarschaft dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10867,
+                        -11.99706
+                  ]
+            },
+            {
+                  "name": "Mercado Venecia",
+                  "text": "Ein weitläufiges Netzwerk aus überdachten Marktgassen voller spezialisierter Händler, die alles von pazifischen Meeresfrüchten bis hin zu Haushaltswaren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.105292,
+                        -11.995092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huaca Santa Rosa",
+                  "text": "Ez a prekolumbiánus, vályogtéglából épült ceremoniális halom ritka fennmaradt régészeti romként emelkedik ki Callao városi szövetéből.",
+                  "category": "historical",
+                  "coords": [
+                        -77.088008,
+                        -11.995216
+                  ]
+            },
+            {
+                  "name": "Huaca Lechuza",
+                  "text": "Földből és vályogtéglából épült, inka előtti lépcsőzetes építmény, amely a partvidéki Callao régió őslakos örökségét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -77.099333,
+                        -12.003987
+                  ]
+            },
+            {
+                  "name": "Museo de la Fuerza de Aviacion Naval",
+                  "text": "Ez a specializált katonai múzeum a perui haditengerészeti légiközlekedés történetét mutatja be történelmi repülőgépek és repülési felszerelések kiállításával.",
+                  "category": "museum",
+                  "coords": [
+                        -77.102436,
+                        -12.03051
+                  ]
+            },
+            {
+                  "name": "Museo Compañía de Bomberos Voluntarios Italia N° 5",
+                  "text": "A történelmi tűzoltóállomáson berendezett múzeum antik tűzoltókészülékeket, sisakokat és a callaoi olasz önkéntes dandár gazdag örökségét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -77.117423,
+                        -12.059265
+                  ]
+            },
+            {
+                  "name": "Ovalo Centenario",
+                  "text": "Ez a kör alakú körforgalmi emlékmű egy központi szoborral állít emléket Callao helyi polgári történetének.",
+                  "category": "historical",
+                  "coords": [
+                        -77.125928,
+                        -12.050848
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "A környező utcák fölé magasodó, magas kőobeliszk, amely a partvidéki közösség kiemelkedő emlékoszlopaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -77.134127,
+                        -12.051577
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Lasarita",
+                  "text": "Nyitott, lépcsőzetes ülőhelyekkel rendelkező amfiteátrum, amely helyi közösségi előadásoknak és kulturális eseményeknek ad otthont Callao ege alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110044,
+                        -12.048768
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"Bocanegra\"",
+                  "text": "Egy élettel teli közösségi művészeti központ a Bocanegra negyedben, amely galériatereket és kreatív műhelyeket kínál a helyi lakosoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.103378,
+                        -12.023713
+                  ]
+            },
+            {
+                  "name": "Happy Srote",
+                  "text": "Kortárs művészeti és kézműves tér, amelyet alulról szerveződő kreatív projekteknek és a helyi művészi kifejezésnek szenteltek Callaóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.108822,
+                        -12.022262
+                  ]
+            },
+            {
+                  "name": "El espíritu santo rescatando vidas",
+                  "text": "Ez a környékbeli szentély spirituális menedéket és közösségi programokat kínál meleg fényű imatermében.",
+                  "category": "religious",
+                  "coords": [
+                        -77.090219,
+                        -12.003002
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Szerény, csendes környékbeli kápolna, amely békés teret biztosít a mindennapi imához és az elmélkedéshez a város zajától távol.",
+                  "category": "religious",
+                  "coords": [
+                        -77.116519,
+                        -12.055455
+                  ]
+            },
+            {
+                  "name": "Capilla virgen de la medalla milagrosa",
+                  "text": "A Csodás Érem Szűzanyjának szentelt békés katolikus kápolna, Mária-ikonográfiával és békés oltárral.",
+                  "category": "religious",
+                  "coords": [
+                        -77.095685,
+                        -11.998728
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Maria",
+                  "text": "Élénk helyi piac, ahol árusok sokasága kínál friss trópusi gyümölcsöket, andoki burgonyát és mindennapi háztartási cikkeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10908,
+                        -12.044451
+                  ]
+            },
+            {
+                  "name": "Adelasa",
+                  "text": "Egy kereskedelmi központ Callaóban, ahol a nagykereskedelmi forgalmazók és a kiskereskedelmi vásárlók regionális termékekről és szárazárukról tárgyalnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.108599,
+                        -12.023591
+                  ]
+            },
+            {
+                  "name": "Mercado El Alamo",
+                  "text": "Zárt környékbeli bazár, amely hagyományos perui cevichét és frissen facsart gyümölcsleveket kínáló illatos ételstandjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.107207,
+                        -12.00147
+                  ]
+            },
+            {
+                  "name": "Vírgen del Carmen",
+                  "text": "Egy mélyen hagyományos, vallási motívumokkal díszített termelői piac, ahol a helyiek friss tengeri halakat és szezonális zöldségeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.099773,
+                        -12.006478
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo 200 Millas",
+                  "text": "A perui tengeri területről találóan elnevezett nyüzsgő piac a reggeli friss halfogásokra és tengeri árukra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.12363,
+                        -11.997572
+                  ]
+            },
+            {
+                  "name": "Mercado La Chalaca",
+                  "text": "A büszke „Chalaco” identitást felvállalva, ezen az autentikus helyi bazáron a csendes-óceáni, frissen fogott tengeri ételekkel és parti street foodokkal megrakott standok találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.129781,
+                        -12.049968
+                  ]
+            },
+            {
+                  "name": "Mercado Plaza de Barrio",
+                  "text": "A negyed központi idegrendszereként működő környékbeli piacon sűrű sorokban állnak a friss baromfit, fűszernövényeket és pékárukat árusító standok.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.100439,
+                        -12.023083
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de la Caridad",
+                  "text": "Élénk közösségi bevásárlógaléria, ahol a helyi hentesek, virágkötők és zöldségesek büszkén mutatják be napi perui terményeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.113375,
+                        -12.00175
+                  ]
+            },
+            {
+                  "name": "Mercado San Juan Masias",
+                  "text": "A szeretett limai domonkos szerzetesről elnevezett nyüzsgő piacon rengeteg árus kínál friss andoki gabonát és parti termékeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.118109,
+                        -11.998814
+                  ]
+            },
+            {
+                  "name": "Mercado Tambo Machay",
+                  "text": "Az ősi inka vízszentélyről elnevezett piac híres a hegyvidékről a tengerparti városba hozott friss termékeiről.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.117141,
+                        -11.996913
+                  ]
+            },
+            {
+                  "name": "Mercado Los Ángeles",
+                  "text": "Forgalmas közösségi bevásárlónegyed, amelyet a mindennapi perui alapanyagokkal és kézműves kenyerekkel teli bádogtetős standok jellemeznek.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.117555,
+                        -11.995696
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de Huanca",
+                  "text": "A híres andoki áhítat nevét viselő piac regionális élelmiszerek sokszínű kínálatával hidalja át a hegyvidéki kultúrát és a tengerparti életet.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.112313,
+                        -11.987314
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Las Casuarinas",
+                  "text": "Modern, zárt bevásárlóközpont, amely számos ruházati butikot, elektronikai standot és kis étkezési lehetőségeket kínál a callaoi kikötő környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110289,
+                        -11.989499
+                  ]
+            },
+            {
+                  "name": "Mercado San Pedro",
+                  "text": "Nyüzsgő hagyományos élelmiszerárkád, ahol a halárusok ügyesen készítik el a nap friss fogásait a színes perui kukoricával megrakott standok mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10629,
+                        -11.990358
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de la Puerta",
+                  "text": "Élénk utcai bazár, ahol a helyi árusok sűrű folyosói illatos andoki fűszernövényeket és frissen vágott húsokat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.111664,
+                        -11.993019
+                  ]
+            },
+            {
+                  "name": "Mercado Los Olivos de Santa Rosa",
+                  "text": "A közösségi vásárcsarnok a szezonális parti termékek és a kézműves sajtstandok hatalmas választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110496,
+                        -11.997519
+                  ]
+            },
+            {
+                  "name": "Mercado Los Robles de Santa Rosa",
+                  "text": "Egy virágzó mindennapi piac, amely a környék kulináris szíveként szolgál friss gyümölcslevekkel és élénk virágstandokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10867,
+                        -11.99706
+                  ]
+            },
+            {
+                  "name": "Mercado Venecia",
+                  "text": "Fedett piaci sikátorok kiterjedt hálózata, amely tele van specializált árusokkal, akik a csendes-óceáni tengeri ételektől kezdve a háztartási cikkekig mindent kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.105292,
+                        -11.995092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huaca Santa Rosa",
+                  "text": "Acest complex de movile ceremoniale precolumbiene din chirpici se distinge ca o rară ruină arheologică păstrată în peisajul urban din Callao.",
+                  "category": "historical",
+                  "coords": [
+                        -77.088008,
+                        -11.995216
+                  ]
+            },
+            {
+                  "name": "Huaca Lechuza",
+                  "text": "O structură antică în trepte din perioada pre-incașă, realizată din pământ și cărămizi de chirpici, ce conservă moștenirea indigenă pe coasta regiunii Callao.",
+                  "category": "historical",
+                  "coords": [
+                        -77.099333,
+                        -12.003987
+                  ]
+            },
+            {
+                  "name": "Museo de la Fuerza de Aviacion Naval",
+                  "text": "Acest muzeu militar specializat prezintă istoria aviației navale peruviene prin expoziții de aeronave istorice și echipamente de zbor.",
+                  "category": "museum",
+                  "coords": [
+                        -77.102436,
+                        -12.03051
+                  ]
+            },
+            {
+                  "name": "Museo Compañía de Bomberos Voluntarios Italia N° 5",
+                  "text": "Găzduit într-o stație de pompieri istorică, acest muzeu expune aparate de stins incendii antice, căști și bogata moștenire a brigăzii de voluntari italieni din Callao.",
+                  "category": "museum",
+                  "coords": [
+                        -77.117423,
+                        -12.059265
+                  ]
+            },
+            {
+                  "name": "Ovalo Centenario",
+                  "text": "Acest monument situat într-un sens giratoriu din Callao comemorează istoria civică locală printr-o sculptură centrală.",
+                  "category": "historical",
+                  "coords": [
+                        -77.125928,
+                        -12.050848
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "Un obelisc falnic din piatră ce se înalță deasupra străzilor din jur, servind drept un pilon comemorativ proeminent pentru comunitatea de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -77.134127,
+                        -12.051577
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Lasarita",
+                  "text": "Un amfiteatru în aer liber cu locuri dispuse în trepte, care găzduiește spectacole comunitare locale și evenimente culturale sub cerul din Callao.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110044,
+                        -12.048768
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"Bocanegra\"",
+                  "text": "Un centru cultural comunitar animat din cartierul Bocanegra, care oferă spații de galerie și ateliere creative pentru localnici.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.103378,
+                        -12.023713
+                  ]
+            },
+            {
+                  "name": "Happy Srote",
+                  "text": "Un spațiu de arte și meșteșuguri contemporane dedicat proiectelor creative de bază și expresiei artistice locale din Callao.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.108822,
+                        -12.022262
+                  ]
+            },
+            {
+                  "name": "El espíritu santo rescatando vidas",
+                  "text": "Acest sanctuar de cartier oferă un refugiu spiritual și programe de asistență comunitară în sala sa de rugăciune primitoare.",
+                  "category": "religious",
+                  "coords": [
+                        -77.090219,
+                        -12.003002
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "O capelă de cartier modestă și liniștită, ce oferă un spațiu pașnic pentru rugăciunea și reflecția zilnică, departe de agitația orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -77.116519,
+                        -12.055455
+                  ]
+            },
+            {
+                  "name": "Capilla virgen de la medalla milagrosa",
+                  "text": "O capelă catolică senină dedicată Fecioarei Medaliei Miraculoase, având iconografie mariană și un altar liniștit.",
+                  "category": "religious",
+                  "coords": [
+                        -77.095685,
+                        -11.998728
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Maria",
+                  "text": "O piață locală vibrantă, plină de vânzători ce oferă fructe tropicale proaspete, cartofi andini și bunuri de uz casnic zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10908,
+                        -12.044451
+                  ]
+            },
+            {
+                  "name": "Adelasa",
+                  "text": "Un centru comercial din Callao unde distribuitorii en-gros și cumpărătorii cu amănuntul negociază pentru produse regionale și mărfuri uscate.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.108599,
+                        -12.023591
+                  ]
+            },
+            {
+                  "name": "Mercado El Alamo",
+                  "text": "Un bazar de cartier acoperit, cunoscut pentru tarabele sale parfumate cu mâncare ce servesc ceviche tradițional peruvian și sucuri proaspăt stoarse.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.107207,
+                        -12.00147
+                  ]
+            },
+            {
+                  "name": "Vírgen del Carmen",
+                  "text": "O piață de produse profund tradițională, decorată cu motive religioase, unde localnicii se adună pentru a cumpăra fructe de mare proaspete și verdețuri de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.099773,
+                        -12.006478
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo 200 Millas",
+                  "text": "Numită sugestiv după teritoriul maritim al statului Peru, această piață plină de viață este specializată în captura de pește proaspăt de dimineață și bunuri maritime.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.12363,
+                        -11.997572
+                  ]
+            },
+            {
+                  "name": "Mercado La Chalaca",
+                  "text": "Îmbrățișând mândra identitate „Chalaco”, acest bazar local autentic prezintă tarabe pline cu fructe de mare proaspăt prinse din Pacific și mâncare stradală de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.129781,
+                        -12.049968
+                  ]
+            },
+            {
+                  "name": "Mercado Plaza de Barrio",
+                  "text": "Acționând ca sistemul nervos central al districtului său, această piață de cartier prezintă rânduri dense de tarabe ce vând carne proaspătă de pasăre, ierburi și produse de panificație.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.100439,
+                        -12.023083
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de la Caridad",
+                  "text": "O galerie comercială comunală vibrantă unde măcelarii, florarii și zarzavagiii locali își expun cu mândrie recoltele zilnice peruviene.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.113375,
+                        -12.00175
+                  ]
+            },
+            {
+                  "name": "Mercado San Juan Masias",
+                  "text": "Numită după iubitul călugăr dominican din Lima, această piață plină de viață este plină de vânzători ce oferă cereale andine proaspete și produse de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.118109,
+                        -11.998814
+                  ]
+            },
+            {
+                  "name": "Mercado Tambo Machay",
+                  "text": "Preluând numele de la vechiul sanctuar incaș al apei, această piață este renumită pentru produsele proaspete din zonele înalte aduse în orașul de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.117141,
+                        -11.996913
+                  ]
+            },
+            {
+                  "name": "Mercado Los Ángeles",
+                  "text": "O zonă comercială comunitară cu trafic intens, caracterizată prin tarabe cu acoperiș de tablă pline cu alimente de bază peruviene și pâine artizanală.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.117555,
+                        -11.995696
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de Huanca",
+                  "text": "Purtând numele unei celebre devoțiuni andine, această piață face legătura între cultura montană și viața de coastă prin oferta sa diversă de alimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.112313,
+                        -11.987314
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Las Casuarinas",
+                  "text": "Un complex comercial modern închis ce oferă o serie de buticuri de îmbrăcăminte, tarabe cu electronice și mici opțiuni de luat masa pentru zona portului Callao.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110289,
+                        -11.989499
+                  ]
+            },
+            {
+                  "name": "Mercado San Pedro",
+                  "text": "O piață tradițională animată unde vânzătorii de pește prepară cu pricepere capturile proaspete ale zilei alături de tarabe pline cu porumb peruvian colorat.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10629,
+                        -11.990358
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de la Puerta",
+                  "text": "Un bazar stradal plin de viață, cu coridoare dense de vânzători locali ce vând ierburi andine parfumate și carne proaspăt măcelărită.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.111664,
+                        -11.993019
+                  ]
+            },
+            {
+                  "name": "Mercado Los Olivos de Santa Rosa",
+                  "text": "O hală comercială comunitară recunoscută pentru expunerile sale vaste de produse de coastă de sezon și tarabele cu brânzeturi artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110496,
+                        -11.997519
+                  ]
+            },
+            {
+                  "name": "Mercado Los Robles de Santa Rosa",
+                  "text": "O piață zilnică prosperă ce servește drept inima culinară a cartierului, cu sucuri de fructe proaspete și tarabe vibrante cu flori.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10867,
+                        -11.99706
+                  ]
+            },
+            {
+                  "name": "Mercado Venecia",
+                  "text": "O rețea vastă de alei acoperite ale pieței, plină de vânzători specializați ce oferă de toate, de la fructe de mare din Pacific la articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.105292,
+                        -11.995092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huaca Santa Rosa",
+                  "text": "This pre-Columbian adobe ceremonial mound complex stands as a rare surviving archaeological ruin within the urban sprawl of Callao.",
+                  "category": "historical",
+                  "coords": [
+                        -77.088008,
+                        -11.995216
+                  ]
+            },
+            {
+                  "name": "Huaca Lechuza",
+                  "text": "An ancient pre-Inca stepped structure made of earth and adobe bricks, preserving indigenous heritage in the coastal Callao region.",
+                  "category": "historical",
+                  "coords": [
+                        -77.099333,
+                        -12.003987
+                  ]
+            },
+            {
+                  "name": "Museo de la Fuerza de Aviacion Naval",
+                  "text": "This specialized military museum chronicles the history of the Peruvian naval aviation with displays of historical aircraft and flight equipment.",
+                  "category": "museum",
+                  "coords": [
+                        -77.102436,
+                        -12.03051
+                  ]
+            },
+            {
+                  "name": "Museo Compañía de Bomberos Voluntarios Italia N° 5",
+                  "text": "Housed in a historic fire station, this museum exhibits antique firefighting apparatus, helmets, and the rich legacy of the Italian volunteer brigade in Callao.",
+                  "category": "museum",
+                  "coords": [
+                        -77.117423,
+                        -12.059265
+                  ]
+            },
+            {
+                  "name": "Ovalo Centenario",
+                  "text": "This circular traffic roundabout monument in Callao commemorates local civic history with a central sculptural landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -77.125928,
+                        -12.050848
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "A towering stone obelisk rising above the surrounding streets, serving as a prominent commemorative pillar for the coastal community.",
+                  "category": "historical",
+                  "coords": [
+                        -77.134127,
+                        -12.051577
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Lasarita",
+                  "text": "An open-air, tiered seating venue that hosts local community performances and cultural events under the Callao sky.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110044,
+                        -12.048768
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"Bocanegra\"",
+                  "text": "A lively community arts hub in the Bocanegra neighborhood providing gallery spaces and creative workshops for local residents.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.103378,
+                        -12.023713
+                  ]
+            },
+            {
+                  "name": "Happy Srote",
+                  "text": "A contemporary arts and crafts space dedicated to grassroots creative projects and local artistic expression in Callao.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.108822,
+                        -12.022262
+                  ]
+            },
+            {
+                  "name": "El espíritu santo rescatando vidas",
+                  "text": "This neighborhood sanctuary offers spiritual refuge and community outreach programs within its warmly lit prayer hall.",
+                  "category": "religious",
+                  "coords": [
+                        -77.090219,
+                        -12.003002
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "A modest, quiet neighborhood chapel providing a peaceful space for daily prayer and reflection away from the city bustle.",
+                  "category": "religious",
+                  "coords": [
+                        -77.116519,
+                        -12.055455
+                  ]
+            },
+            {
+                  "name": "Capilla virgen de la medalla milagrosa",
+                  "text": "A serene Catholic chapel dedicated to the Virgin of the Miraculous Medal, featuring Marian iconography and a peaceful altar.",
+                  "category": "religious",
+                  "coords": [
+                        -77.095685,
+                        -11.998728
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Maria",
+                  "text": "A vibrant local market bustling with vendors selling fresh tropical fruits, Andean potatoes, and daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10908,
+                        -12.044451
+                  ]
+            },
+            {
+                  "name": "Adelasa",
+                  "text": "A commercial trading hub in Callao where wholesale distributors and retail shoppers negotiate over regional produce and dry goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.108599,
+                        -12.023591
+                  ]
+            },
+            {
+                  "name": "Mercado El Alamo",
+                  "text": "An enclosed neighborhood bazaar known for its fragrant food stalls serving traditional Peruvian ceviche and freshly squeezed juices.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.107207,
+                        -12.00147
+                  ]
+            },
+            {
+                  "name": "Vírgen del Carmen",
+                  "text": "A deeply traditional produce market decorated with religious motifs, where locals gather to buy fresh coastal seafood and seasonal greens.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.099773,
+                        -12.006478
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo 200 Millas",
+                  "text": "Appropriately named for Peru's maritime territory, this bustling market specializes in the morning's fresh fish catch and maritime goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.12363,
+                        -11.997572
+                  ]
+            },
+            {
+                  "name": "Mercado La Chalaca",
+                  "text": "Embracing the proud \"Chalaco\" identity, this authentic local bazaar features stalls laden with freshly caught Pacific seafood and coastal street food.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.129781,
+                        -12.049968
+                  ]
+            },
+            {
+                  "name": "Mercado Plaza de Barrio",
+                  "text": "Acting as the central nervous system of its district, this neighborhood market features dense rows of stalls selling fresh poultry, herbs, and bakery items.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.100439,
+                        -12.023083
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de la Caridad",
+                  "text": "A vibrant communal shopping gallery where local butchers, florists, and greengrocers proudly display their daily Peruvian harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.113375,
+                        -12.00175
+                  ]
+            },
+            {
+                  "name": "Mercado San Juan Masias",
+                  "text": "Named after the beloved Dominican friar of Lima, this lively marketplace is packed with vendors offering fresh Andean grains and coastal produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.118109,
+                        -11.998814
+                  ]
+            },
+            {
+                  "name": "Mercado Tambo Machay",
+                  "text": "Taking its name from the ancient Incan water sanctuary, this market is renowned for its fresh highland produce brought down to the coastal city.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.117141,
+                        -11.996913
+                  ]
+            },
+            {
+                  "name": "Mercado Los Ángeles",
+                  "text": "A heavily trafficked community shopping area characterized by tin-roofed stalls packed with daily Peruvian staples and artisan breads.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.117555,
+                        -11.995696
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de Huanca",
+                  "text": "Bearing the name of a famous Andean devotion, this market bridges mountain culture and coastal life through its diverse offering of regional foods.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.112313,
+                        -11.987314
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Las Casuarinas",
+                  "text": "A modern enclosed shopping precinct providing an array of clothing boutiques, electronics stalls, and small dining options for the Callao port area.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110289,
+                        -11.989499
+                  ]
+            },
+            {
+                  "name": "Mercado San Pedro",
+                  "text": "A bustling traditional grocery arcade where fishmongers skillfully prepare the day's fresh catches alongside stalls stacked with colorful Peruvian corn.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10629,
+                        -11.990358
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de la Puerta",
+                  "text": "A lively street-side bazaar featuring dense corridors of local vendors selling fragrant Andean herbs and freshly butchered meats.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.111664,
+                        -11.993019
+                  ]
+            },
+            {
+                  "name": "Mercado Los Olivos de Santa Rosa",
+                  "text": "A community trading hall recognized for its sprawling displays of seasonal coastal produce and artisanal cheese stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.110496,
+                        -11.997519
+                  ]
+            },
+            {
+                  "name": "Mercado Los Robles de Santa Rosa",
+                  "text": "A thriving daily marketplace that serves as the culinary heart of the neighborhood with fresh fruit juices and vibrant flower stands.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.10867,
+                        -11.99706
+                  ]
+            },
+            {
+                  "name": "Mercado Venecia",
+                  "text": "A sprawling network of roofed market alleys packed with specialized vendors offering everything from Pacific seafood to household wares.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.105292,
+                        -11.995092
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PE-CAL",
     coords: [-77.14, -12.05],
@@ -48,7 +1137,268 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/port-callao-economic-v2.webp"
   },
   {
-    id: "port-matarani-economic-v2",
+    id: "port-matarani-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado San José",
+                  "text": "Ein geschäftiger Markt in der Hafenstadt, der für sein breites Angebot an frischen regionalen Lebensmitteln und Haushaltswaren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.016346,
+                        -17.02755
+                  ]
+            },
+            {
+                  "name": "La Aguadita",
+                  "text": "Ein familienfreundlicher Wasserpark mit Schwimmbecken und Rutschen, der Erholung in der Küstenregion von Matarani bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.018202,
+                        -17.027377
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Asambleo de Dios",
+                  "text": "Ein modernes evangelisches Gotteshaus, das der lokalen Gemeinde der Versammlungen Gottes in der Hafenstadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.014012,
+                        -17.014932
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco",
+                  "text": "Eine christliche Kirche im Hafenviertel, die dem Heiligen Franziskus gewidmet ist und regelmäßig Gottesdienste abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.015831,
+                        -17.025143
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein Gemeindehaus der Mormonen in Matarani, das Versammlungsräume für religiöse Lehre und Gebete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.013807,
+                        -17.023566
+                  ]
+            },
+            {
+                  "name": "Capilla del Hospital",
+                  "text": "Eine kleine Kapelle innerhalb des örtlichen Krankenhauses, die Patienten und Angehörigen einen Ort der Stille und des Gebets bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -72.015854,
+                        -17.019442
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de Copacabana",
+                  "text": "Ein traditioneller Marktplatz, der besonders für frischen Fisch und lokale Produkte aus der Küstenzone bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.096426,
+                        -17.000973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado San José",
+                  "text": "A kikötőváros forgalmas piaca, amely a friss regionális élelmiszerek és háztartási cikkek széles választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.016346,
+                        -17.02755
+                  ]
+            },
+            {
+                  "name": "La Aguadita",
+                  "text": "Családbarát vízi park medencékkel és csúszdákkal, amely kikapcsolódást nyújt Matarani tengerparti régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.018202,
+                        -17.027377
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Asambleo de Dios",
+                  "text": "Modern evangéliumi imaház, amely a kikötőváros helyi Isten Gyülekezetei közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.014012,
+                        -17.014932
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco",
+                  "text": "Keresztény templom a kikötői negyedben, amelyet Szent Ferencnek szenteltek, és rendszeresen tartanak benne istentiszteleteket.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.015831,
+                        -17.025143
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Mormon gyülekezeti ház Mataraniban, amely vallási tanításokhoz és imákhoz biztosít gyülekezési helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.013807,
+                        -17.023566
+                  ]
+            },
+            {
+                  "name": "Capilla del Hospital",
+                  "text": "A helyi kórházon belüli kis kápolna, amely a betegek és hozzátartozóik számára biztosít helyet az imádsághoz.",
+                  "category": "religious",
+                  "coords": [
+                        -72.015854,
+                        -17.019442
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de Copacabana",
+                  "text": "Hagyományos piactér, amely különösen a friss halairól és a parti övezet helyi termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.096426,
+                        -17.000973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado San José",
+                  "text": "O piață aglomerată din orașul portuar, cunoscută pentru gama sa largă de alimente regionale proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.016346,
+                        -17.02755
+                  ]
+            },
+            {
+                  "name": "La Aguadita",
+                  "text": "Un parc acvatic pentru familii, cu piscine și tobogane, care oferă recreere în regiunea de coastă din Matarani.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.018202,
+                        -17.027377
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Asambleo de Dios",
+                  "text": "O casă de cult evanghelică modernă, care servește comunitatea locală a Adunărilor lui Dumnezeu din orașul portuar.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.014012,
+                        -17.014932
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco",
+                  "text": "O biserică creștină din cartierul portuar, dedicată Sfântului Francisc, unde se țin slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.015831,
+                        -17.025143
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întrunire mormonă din Matarani, care oferă spații pentru învățătura religioasă și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.013807,
+                        -17.023566
+                  ]
+            },
+            {
+                  "name": "Capilla del Hospital",
+                  "text": "O mică capelă în incinta spitalului local, care oferă pacienților și rudelor un loc pentru rugăciune și liniște.",
+                  "category": "religious",
+                  "coords": [
+                        -72.015854,
+                        -17.019442
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de Copacabana",
+                  "text": "O piață tradițională, cunoscută în special pentru peștele proaspăt și produsele locale din zona de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.096426,
+                        -17.000973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercado San José",
+                  "text": "A bustling market in the port city, known for its wide range of fresh regional food and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.016346,
+                        -17.02755
+                  ]
+            },
+            {
+                  "name": "La Aguadita",
+                  "text": "A family-friendly water park with pools and slides, offering recreation in the coastal region of Matarani.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.018202,
+                        -17.027377
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Asambleo de Dios",
+                  "text": "A modern evangelical house of worship serving the local Assemblies of God community in the port city.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.014012,
+                        -17.014932
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco",
+                  "text": "A Christian church in the port district dedicated to Saint Francis, holding regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.015831,
+                        -17.025143
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "An LDS meetinghouse in Matarani providing spaces for religious teaching and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.013807,
+                        -17.023566
+                  ]
+            },
+            {
+                  "name": "Capilla del Hospital",
+                  "text": "A small chapel within the local hospital, providing a place for prayer and quiet for patients and relatives.",
+                  "category": "religious",
+                  "coords": [
+                        -72.015854,
+                        -17.019442
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen de Copacabana",
+                  "text": "A traditional marketplace known especially for its fresh fish and local products from the coastal zone.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.096426,
+                        -17.000973
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PE-ARE",
     coords: [-72.1, -16.99],
@@ -93,7 +1443,124 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/port-matarani-economic-v2.webp"
   },
   {
-    id: "port-salaverry-economic-v2",
+    id: "port-salaverry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pergola",
+                  "text": "Eine schattige Pergola-Struktur in der Nähe des Hafens, die einen Ort zum Ausruhen und Genießen der Küstenbrise bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.976736,
+                        -8.224239
+                  ]
+            },
+            {
+                  "name": "El Triángulo",
+                  "text": "Ein Sandstrand am Küstenhafen von Salaverry, beliebt für Spaziergänge am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.014279,
+                        -8.182259
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Ein typischer überdachter Markt im Hafengebiet, der die Bewohner mit frischen Meeresfrüchten und täglichem Proviant versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.98557,
+                        -8.188607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pergola",
+                  "text": "Egy árnyékos pergola a kikötő közelében, amely pihenési lehetőséget kínál a tengerparti szellőben.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.976736,
+                        -8.224239
+                  ]
+            },
+            {
+                  "name": "El Triángulo",
+                  "text": "A salaverry-i parti kikötő melletti homokos strand, amely népszerű a tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.014279,
+                        -8.182259
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Egy jellegzetes fedett piac a kikötő területén, amely friss tenger gyümölcseivel és napi élelmiszerrel látja el a lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.98557,
+                        -8.188607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pergola",
+                  "text": "O structură umbrită cu pergolă în apropierea portului, oferind un loc de odihnă și de a te bucura de briza coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.976736,
+                        -8.224239
+                  ]
+            },
+            {
+                  "name": "El Triángulo",
+                  "text": "O zonă de plajă cu nisip lângă portul de coastă Salaverry, populară pentru plimbări pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.014279,
+                        -8.182259
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "O piață tipică acoperită din zona portului, care aprovizionează locuitorii cu fructe de mare proaspete și provizii zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.98557,
+                        -8.188607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pergola",
+                  "text": "A shaded pergola structure near the port offering a place to rest and enjoy the coastal breeze.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.976736,
+                        -8.224239
+                  ]
+            },
+            {
+                  "name": "El Triángulo",
+                  "text": "A sandy beach area by the coastal port of Salaverry, popular for seaside strolls.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.014279,
+                        -8.182259
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "A typical covered market in the port area supplying fresh seafood and daily provisions to residents.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.98557,
+                        -8.188607
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PE-LAL",
     coords: [-78.98, -8.22],
@@ -138,7 +1605,664 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/port-salaverry-economic-v2.webp"
   },
   {
-    id: "port-marcona-economic-v2",
+    id: "port-marcona-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de la Ninfa",
+                  "text": "Dieser als Aussichtspunkt der Nymphe bekannte Küstenort bietet einen weiten, ungestörten Blick über den Ozean bei Port Marcona.",
+                  "category": "natural",
+                  "coords": [
+                        -75.164736,
+                        -15.37833
+                  ]
+            },
+            {
+                  "name": "Punta San Juan",
+                  "text": "Dieses zerklüftete Küstenreservat ist berühmt für den Schutz großer Kolonien von Humboldt-Pinguinen und südamerikanischen Seelöwen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.200838,
+                        -15.370207
+                  ]
+            },
+            {
+                  "name": "Faro Punta San Juan",
+                  "text": "Dieser hohe Leuchtturm auf den zerklüfteten Klippen von Punta San Juan führt Schiffe sicher an der Küste entlang.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.180817,
+                        -15.361258
+                  ]
+            },
+            {
+                  "name": "Estatua de Saul Cantoral Huamani",
+                  "text": "Diese Monumentalstatue ehrt Saul Cantoral Huamani, einen wichtigen peruanischen Gewerkschaftsführer aus der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -75.166626,
+                        -15.361671
+                  ]
+            },
+            {
+                  "name": "El Elefante",
+                  "text": "Diese natürliche Felsformation an der Küste, die durch unerbittliche Meereserosion geformt wurde, ähnelt auffallend der Form eines Elefanten.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.15854,
+                        -15.392206
+                  ]
+            },
+            {
+                  "name": "Coliseo Sur Andino",
+                  "text": "Diese runde Indoor-Arena dient als zentraler Knotenpunkt für große lokale Veranstaltungen, Sport- und Kulturaufführungen in Port Marcona.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.166646,
+                        -15.368043
+                  ]
+            },
+            {
+                  "name": "Playa La Herradura",
+                  "text": "Dieser malerische, hufeisenförmige Strand macht seinem Namen alle Ehre und bietet geschützte Sandufer an der Küste von Port Marcona.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.179756,
+                        -15.372099
+                  ]
+            },
+            {
+                  "name": "Playa Hermosa",
+                  "text": "Dieser zutreffend als „Schöner Strand“ bezeichnete Küstenabschnitt besticht durch makellosen Sand direkt am weiten Pazifischen Ozean.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.169037,
+                        -15.355624
+                  ]
+            },
+            {
+                  "name": "Playa Los Leones",
+                  "text": "Dieser zerklüftete Strand ist für seine Meeresbewohner bekannt und ein beliebter Rastplatz für einheimische Seelöwen.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.158788,
+                        -15.383059
+                  ]
+            },
+            {
+                  "name": "Playa Los Pinguinos",
+                  "text": "Dieser charakteristische Sandstrand ist nach der Anwesenheit der beliebten Humboldt-Pinguine benannt, die an der lokalen Küste leben.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.161452,
+                        -15.379123
+                  ]
+            },
+            {
+                  "name": "Playa Acapulco",
+                  "text": "Dieser einladende Strand, benannt nach dem berühmten mexikanischen Ferienort, bietet in Port Marcona hervorragende Bedingungen zum Sonnenbaden und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.166752,
+                        -15.376455
+                  ]
+            },
+            {
+                  "name": "Playa La Lobera",
+                  "text": "Dieser mit Felsvorsprüngen versehene Küstenstreifen ist nach den lauten Seelöwenkolonien benannt, die sich oft vor der Küste versammeln.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.144663,
+                        -15.394154
+                  ]
+            },
+            {
+                  "name": "Playa El Hambre",
+                  "text": "Dieser auffallend einsame und abgelegene Sandstrand, dessen Name sich mit „Strand des Hungers“ übersetzen lässt, ist den unnachgiebigen Wellen des Pazifiks ausgesetzt.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.142513,
+                        -15.399458
+                  ]
+            },
+            {
+                  "name": "Bahía San Juan",
+                  "text": "Diese große, geschützte Pazifikbucht ist bekannt für ihre reiche marine Artenvielfalt und den geschäftigen Tiefseehafenbetrieb.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.183071,
+                        -15.327377
+                  ]
+            },
+            {
+                  "name": "Iglesia Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses Versammlungshaus der Heiligen der Letzten Tage bietet der lokalen Mormonen-Gemeinde einen eigenen Ort der Anbetung und Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -75.166681,
+                        -15.36271
+                  ]
+            },
+            {
+                  "name": "Casa del sacerdote",
+                  "text": "Dieses Pfarrhaus dient als primärer Wohnsitz für den Klerus, der in der örtlichen katholischen Pfarrei dient.",
+                  "category": "religious",
+                  "coords": [
+                        -75.166573,
+                        -15.360226
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "Dieser geschäftige zentrale Markt fungiert als Haupthandelsplatz und versorgt die Einwohner täglich mit Lebensmitteln und frischem Küstenfisch.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.165515,
+                        -15.362366
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Diese städtische Markthalle bietet Reihen von lokalen Händlern, die frische landwirtschaftliche Produkte und Waren des täglichen Bedarfs verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.16446,
+                        -15.363038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de la Ninfa",
+                  "text": "A Nimfa kilátójaként ismert tengerparti pont széles, zavartalan kilátást nyújt az óceánra Port Marconánál.",
+                  "category": "natural",
+                  "coords": [
+                        -75.164736,
+                        -15.37833
+                  ]
+            },
+            {
+                  "name": "Punta San Juan",
+                  "text": "Ez a zord tengerparti rezervátum arról híres, hogy hatalmas Humboldt-pingvin- és dél-amerikai oroszlánfóka-kolóniákat véd.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.200838,
+                        -15.370207
+                  ]
+            },
+            {
+                  "name": "Faro Punta San Juan",
+                  "text": "A Punta San Juan zord szikláin magasodó tengerészeti jelzőtorony biztonságosan vezeti a hajókat a part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.180817,
+                        -15.361258
+                  ]
+            },
+            {
+                  "name": "Estatua de Saul Cantoral Huamani",
+                  "text": "Ez az emlékmű Saul Cantoral Huamani tiszteletére készült, aki a régió egyik fontos perui szakszervezeti vezetője volt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.166626,
+                        -15.361671
+                  ]
+            },
+            {
+                  "name": "El Elefante",
+                  "text": "A könyörtelen óceáni erózió által kivájt természetes tengerparti sziklaképződmény feltűnően hasonlít egy elefánt alakjára.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.15854,
+                        -15.392206
+                  ]
+            },
+            {
+                  "name": "Coliseo Sur Andino",
+                  "text": "Ez a kör alakú beltéri aréna Port Marcona nagy helyi rendezvényeinek, sport- és kulturális előadásainak központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.166646,
+                        -15.368043
+                  ]
+            },
+            {
+                  "name": "Playa La Herradura",
+                  "text": "A nevéhez hűen ez a festői, patkó alakú strand védett, homokos partokat kínál Port Marcona partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.179756,
+                        -15.372099
+                  ]
+            },
+            {
+                  "name": "Playa Hermosa",
+                  "text": "A találóan „Gyönyörű strandnak” nevezett partszakasz érintetlen homokjával közvetlenül a hatalmas Csendes-óceánra néz.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.169037,
+                        -15.355624
+                  ]
+            },
+            {
+                  "name": "Playa Los Leones",
+                  "text": "A tengeri élőlényeiről ismert zord strand a helyi oroszlánfókák népszerű pihenőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.158788,
+                        -15.383059
+                  ]
+            },
+            {
+                  "name": "Playa Los Pinguinos",
+                  "text": "Ezt a jellegzetes homokos partvidéket a helyi partokat benépesítő, közkedvelt Humboldt-pingvinek jelenlétéről nevezték el.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.161452,
+                        -15.379123
+                  ]
+            },
+            {
+                  "name": "Playa Acapulco",
+                  "text": "A híres mexikói üdülőhelyről elnevezett hívogató strand kiváló feltételeket kínál a napozáshoz és úszáshoz Port Marconában.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.166752,
+                        -15.376455
+                  ]
+            },
+            {
+                  "name": "Playa La Lobera",
+                  "text": "A sziklás kiemelkedésekkel tarkított partszakasz a gyakran a part mentén gyülekező hangos oroszlánfóka-kolóniákról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.144663,
+                        -15.394154
+                  ]
+            },
+            {
+                  "name": "Playa El Hambre",
+                  "text": "Az „Éhség strandja” névre fordítható, feltűnően elhagyatott és távoli homokos szakasz a Csendes-óceán kérlelhetetlen hullámaival néz farkasszemet.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.142513,
+                        -15.399458
+                  ]
+            },
+            {
+                  "name": "Bahía San Juan",
+                  "text": "Ez a nagy, védett csendes-óceáni öböl gazdag tengeri biológiai sokféleségéről és nyüzsgő mélyvízi kikötői műveleteiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.183071,
+                        -15.327377
+                  ]
+            },
+            {
+                  "name": "Iglesia Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek ez a gyülekezeti háza a helyi mormon közösség istentiszteleti és közösségi helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -75.166681,
+                        -15.36271
+                  ]
+            },
+            {
+                  "name": "Casa del sacerdote",
+                  "text": "Ez a plébániai épület elsődleges otthonként szolgál a helyi katolikus plébánián szolgáló papság számára.",
+                  "category": "religious",
+                  "coords": [
+                        -75.166573,
+                        -15.360226
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "A fő kereskedelmi központként működő nyüzsgő központi piac napi élelmiszerekkel és friss tengeri halakkal látja el a lakosokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.165515,
+                        -15.362366
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Ebben az önkormányzati fenntartású vásárcsarnokban a helyi árusok sorai kínálnak friss mezőgazdasági termékeket és mindennapi cikkeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.16446,
+                        -15.363038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de la Ninfa",
+                  "text": "Cunoscut sub numele de Punctul de Belvedere al Nimfei, acest loc de coastă oferă o panoramă vastă și neîntreruptă asupra oceanului la Port Marcona.",
+                  "category": "natural",
+                  "coords": [
+                        -75.164736,
+                        -15.37833
+                  ]
+            },
+            {
+                  "name": "Punta San Juan",
+                  "text": "Această rezervație de coastă accidentată este renumită pentru protejarea unor mari colonii de pinguini Humboldt și lei de mare sud-americani.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.200838,
+                        -15.370207
+                  ]
+            },
+            {
+                  "name": "Faro Punta San Juan",
+                  "text": "Înălțându-se pe stâncile accidentate din Punta San Juan, acest far maritim ghidează navele în siguranță de-a lungul coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.180817,
+                        -15.361258
+                  ]
+            },
+            {
+                  "name": "Estatua de Saul Cantoral Huamani",
+                  "text": "Această statuie monumentală îl onorează pe Saul Cantoral Huamani, un important lider sindical peruan din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -75.166626,
+                        -15.361671
+                  ]
+            },
+            {
+                  "name": "El Elefante",
+                  "text": "Sculptată de eroziunea neobosită a oceanului, această formațiune stâncoasă naturală de pe coastă seamănă izbitor cu forma unui elefant.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.15854,
+                        -15.392206
+                  ]
+            },
+            {
+                  "name": "Coliseo Sur Andino",
+                  "text": "Această arenă interioară circulară servește ca un centru principal pentru evenimente locale mari, sporturi și spectacole culturale în Port Marcona.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.166646,
+                        -15.368043
+                  ]
+            },
+            {
+                  "name": "Playa La Herradura",
+                  "text": "Ridicându-se la înălțimea numelui său, această plajă pitorească în formă de potcoavă oferă țărmuri nisipoase și adăpostite de-a lungul coastei Port Marcona.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.179756,
+                        -15.372099
+                  ]
+            },
+            {
+                  "name": "Playa Hermosa",
+                  "text": "Denumită pe bună dreptate „Plaja Frumoasă”, această porțiune de coastă se mândrește cu nisipuri impecabile cu fața direct spre vastul Ocean Pacific.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.169037,
+                        -15.355624
+                  ]
+            },
+            {
+                  "name": "Playa Los Leones",
+                  "text": "Cunoscută pentru întâlnirile cu viața marină, această plajă accidentată este un loc popular de odihnă pentru leii de mare locali.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.158788,
+                        -15.383059
+                  ]
+            },
+            {
+                  "name": "Playa Los Pinguinos",
+                  "text": "Acest țărm nisipos distinctiv este numit după prezența iubiților pinguini Humboldt care locuiesc pe coasta locală.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.161452,
+                        -15.379123
+                  ]
+            },
+            {
+                  "name": "Playa Acapulco",
+                  "text": "Numită după faimoasa stațiune mexicană, această plajă primitoare oferă condiții excelente pentru plajă și înot la Port Marcona.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.166752,
+                        -15.376455
+                  ]
+            },
+            {
+                  "name": "Playa La Lobera",
+                  "text": "Având aflorimente stâncoase, această fâșie de coastă este numită după coloniile zgomotoase de lei de mare care se adună adesea în larg.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.144663,
+                        -15.394154
+                  ]
+            },
+            {
+                  "name": "Playa El Hambre",
+                  "text": "Traducându-se prin „Plaja Foamei”, această întindere de nisip uimitor de pustie și izolată înfruntă valurile neînduplecate ale Pacificului.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.142513,
+                        -15.399458
+                  ]
+            },
+            {
+                  "name": "Bahía San Juan",
+                  "text": "Acest golf mare și adăpostit din Pacific este renumit pentru biodiversitatea marină bogată și operațiunile portuare de apă adâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.183071,
+                        -15.327377
+                  ]
+            },
+            {
+                  "name": "Iglesia Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri a Sfinților din Zilele din Urmă oferă un loc dedicat de cult și părtășie pentru comunitatea mormonă locală.",
+                  "category": "religious",
+                  "coords": [
+                        -75.166681,
+                        -15.36271
+                  ]
+            },
+            {
+                  "name": "Casa del sacerdote",
+                  "text": "Această casă parohială rezidențială servește drept locuință principală pentru clerul care slujește la parohia catolică locală.",
+                  "category": "religious",
+                  "coords": [
+                        -75.166573,
+                        -15.360226
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "Funcționând ca principalul centru comercial, această piață centrală plină de viață furnizează locuitorilor alimente zilnice și pește proaspăt de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.165515,
+                        -15.362366
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Această hală a pieței administrată de municipalitate prezintă rânduri de vânzători locali care vând produse agricole proaspete și bunuri de uz cotidian.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.16446,
+                        -15.363038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de la Ninfa",
+                  "text": "Known as the Nymph's Viewpoint, this coastal spot offers expansive, uninterrupted views over the ocean at Port Marcona.",
+                  "category": "natural",
+                  "coords": [
+                        -75.164736,
+                        -15.37833
+                  ]
+            },
+            {
+                  "name": "Punta San Juan",
+                  "text": "This rugged coastal reserve is famous for protecting large colonies of Humboldt penguins and South American sea lions.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.200838,
+                        -15.370207
+                  ]
+            },
+            {
+                  "name": "Faro Punta San Juan",
+                  "text": "Standing tall on the rugged cliffs of Punta San Juan, this maritime beacon guides vessels safely along the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.180817,
+                        -15.361258
+                  ]
+            },
+            {
+                  "name": "Estatua de Saul Cantoral Huamani",
+                  "text": "This monument statue honors Saul Cantoral Huamani, an important Peruvian trade union leader from the region.",
+                  "category": "historical",
+                  "coords": [
+                        -75.166626,
+                        -15.361671
+                  ]
+            },
+            {
+                  "name": "El Elefante",
+                  "text": "Carved by relentless ocean erosion, this natural coastal rock formation strikingly resembles the shape of an elephant.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.15854,
+                        -15.392206
+                  ]
+            },
+            {
+                  "name": "Coliseo Sur Andino",
+                  "text": "This circular indoor arena serves as a central hub for large local events, sports, and cultural performances in Port Marcona.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.166646,
+                        -15.368043
+                  ]
+            },
+            {
+                  "name": "Playa La Herradura",
+                  "text": "Living up to its name, this scenic horseshoe-shaped beach offers sheltered, sandy shores along the Port Marcona coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.179756,
+                        -15.372099
+                  ]
+            },
+            {
+                  "name": "Playa Hermosa",
+                  "text": "Aptly named the \"Beautiful Beach,\" this stretch of coastline boasts pristine sands directly facing the sweeping Pacific Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.169037,
+                        -15.355624
+                  ]
+            },
+            {
+                  "name": "Playa Los Leones",
+                  "text": "Known for its marine life encounters, this rugged beach is a popular resting spot for local sea lions.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.158788,
+                        -15.383059
+                  ]
+            },
+            {
+                  "name": "Playa Los Pinguinos",
+                  "text": "This distinctive sandy shoreline is named for the presence of the beloved Humboldt penguins that inhabit the local coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.161452,
+                        -15.379123
+                  ]
+            },
+            {
+                  "name": "Playa Acapulco",
+                  "text": "Named after the famous Mexican resort, this inviting beach offers excellent conditions for sunbathing and swimming at Port Marcona.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.166752,
+                        -15.376455
+                  ]
+            },
+            {
+                  "name": "Playa La Lobera",
+                  "text": "Featuring rocky outcrops, this coastal strip is named for the noisy colonies of sea lions that often gather offshore.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.144663,
+                        -15.394154
+                  ]
+            },
+            {
+                  "name": "Playa El Hambre",
+                  "text": "Translating to \"Hunger Beach,\" this strikingly desolate and remote stretch of sand faces the unyielding Pacific waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.142513,
+                        -15.399458
+                  ]
+            },
+            {
+                  "name": "San Juan Bay",
+                  "text": "This large, sheltered Pacific inlet is renowned for its rich marine biodiversity and bustling deep-water port operations.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.183071,
+                        -15.327377
+                  ]
+            },
+            {
+                  "name": "Iglesia Jesucristo de los Santos de los Últimos Días",
+                  "text": "This Latter-day Saints meetinghouse provides a dedicated place of worship and fellowship for the local Mormon community.",
+                  "category": "religious",
+                  "coords": [
+                        -75.166681,
+                        -15.36271
+                  ]
+            },
+            {
+                  "name": "Casa del sacerdote",
+                  "text": "This residential rectory serves as the primary home for the clergy ministering to the local Catholic parish.",
+                  "category": "religious",
+                  "coords": [
+                        -75.166573,
+                        -15.360226
+                  ]
+            },
+            {
+                  "name": "Mercado Central",
+                  "text": "Functioning as the main trading hub, this bustling central marketplace supplies daily groceries and fresh coastal fish to the residents.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.165515,
+                        -15.362366
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "This municipal-run market hall features rows of local vendors selling fresh agricultural produce and everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.16446,
+                        -15.363038
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PE-ICA",
     coords: [-75.16, -15.35],
@@ -183,7 +2307,88 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/port-marcona-economic-v2.webp"
   },
   {
-    id: "port-bayovar-economic-v2",
+    id: "port-bayovar-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Tantalean",
+                  "text": "Playa Tantalean ist ein Sandstrand an der Küste von Port Bayovar, der Besucher mit seinen ruhigen Gewässern anlockt.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.082506,
+                        -5.803811
+                  ]
+            },
+            {
+                  "name": "Mirador La Pingüinera",
+                  "text": "Der Mirador La Pingüinera ist ein Küstenaussichtspunkt in der Gegend von Port Bayovar, der speziell für die Beobachtung lokaler Pinguinkolonien in ihrem natürlichen Lebensraum bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -81.08146,
+                        -5.791571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Tantalean",
+                  "text": "A Playa Tantalean egy homokos strand, amely Port Bayovar partja mentén található, és nyugodt vizével vonzza a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.082506,
+                        -5.803811
+                  ]
+            },
+            {
+                  "name": "Mirador La Pingüinera",
+                  "text": "A Mirador La Pingüinera egy tengerparti kilátó Port Bayovar környékén, amely kifejezetten a helyi pingvinkolóniák természetes élőhelyükön történő megfigyeléséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -81.08146,
+                        -5.791571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Tantalean",
+                  "text": "Playa Tantalean este o destinație cu plajă de nisip situată de-a lungul coastei din Port Bayovar, atrăgând vizitatorii cu apele sale liniștite.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.082506,
+                        -5.803811
+                  ]
+            },
+            {
+                  "name": "Mirador La Pingüinera",
+                  "text": "Mirador La Pingüinera este un punct de belvedere de coastă în zona Port Bayovar, recunoscut în mod special pentru observarea coloniilor locale de pinguini în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        -81.08146,
+                        -5.791571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Tantalean",
+                  "text": "Playa Tantalean is a sandy beach destination situated along the coast of Port Bayovar, attracting visitors with its tranquil waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.082506,
+                        -5.803811
+                  ]
+            },
+            {
+                  "name": "Mirador La Pingüinera",
+                  "text": "Mirador La Pingüinera is a coastal viewpoint in the Port Bayovar area specifically known for observing local penguin colonies in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        -81.08146,
+                        -5.791571
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PE-PIU",
     coords: [-81.03, -5.79],
@@ -228,7 +2433,916 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/port-bayovar-economic-v2.webp"
   },
   {
-    id: "port-chancay-economic-v2",
+    id: "port-chancay-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa La Ensenada",
+                  "text": "Ein sandiger Küstenstrand am Pazifischen Ozean im Hafengebiet von Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.295943,
+                        -11.530159
+                  ]
+            },
+            {
+                  "name": "Museo de la cultura Chancay",
+                  "text": "Ein Museum, das präkolumbianische Artefakte und Keramiken der alten Chancay-Kultur bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.271313,
+                        -11.574033
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Chancay",
+                  "text": "Ein archäologisches Museum mit umfangreichen Sammlungen von Textilien und Töpferwaren aus Chancay.",
+                  "category": "museum",
+                  "coords": [
+                        -77.270485,
+                        -11.562955
+                  ]
+            },
+            {
+                  "name": "Playa La Vina",
+                  "text": "Ein ruhiger Sandstrand an der Pazifikküste, nicht weit vom Hafen von Chancay entfernt.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.283655,
+                        -11.548412
+                  ]
+            },
+            {
+                  "name": "Playa La Calichera",
+                  "text": "Ein Küstenabschnitt in Chancay, der für seine raue Uferlinie und Meeresbrise bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.294994,
+                        -11.538016
+                  ]
+            },
+            {
+                  "name": "Cerro Trinidad",
+                  "text": "Ein Küstenhügel und eine archäologische Stätte mit Prä-Inka-Ruinen in der Nähe der Stadt Chancay.",
+                  "category": "natural",
+                  "coords": [
+                        -77.265341,
+                        -11.583831
+                  ]
+            },
+            {
+                  "name": "Eco Truly Park",
+                  "text": "Eine ökologische Gemeinde und ein Themenpark der Hare-Krishna-Bewegung mit markanten konischen Lehmziegelhäusern in der Nähe von Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.216545,
+                        -11.638048
+                  ]
+            },
+            {
+                  "name": "Playa Puerto Chancay",
+                  "text": "Der öffentliche Hauptstrand, der sich direkt neben den historischen Hafenanlagen von Chancay befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.271897,
+                        -11.584168
+                  ]
+            },
+            {
+                  "name": "Playa de Chorrillos Chancay",
+                  "text": "Ein beliebter Sandstrand in Chancay, der für seine Nähe zu lokalen Fischrestaurants bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.272699,
+                        -11.568803
+                  ]
+            },
+            {
+                  "name": "Chacra y Mar",
+                  "text": "Ein sandiger Pazifikstrand in der Nähe von Chancay, der oft von Einheimischen und Ökotouristen besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.21849,
+                        -11.638349
+                  ]
+            },
+            {
+                  "name": "SANTO TORIBIO DE MOGROBEJO",
+                  "text": "Eine katholische Kirche in Chancay, die dem Erzbischof von Lima aus der Kolonialzeit geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.24927,
+                        -11.528271
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Día.",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten, die der örtlichen Gemeinde in der Hafenstadt Chancay dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.253819,
+                        -11.505475
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nueva Estrella",
+                  "text": "Dieses als „Neuer Stern“ bekannte christliche Heiligtum versammelt Gläubige in der Küstenumgebung von Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.256132,
+                        -11.506139
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betesda",
+                  "text": "Eine baptistische Kirche namens Bethesda, die einen Treffpunkt für die christliche Gemeinde im Hafengebiet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.271516,
+                        -11.56954
+                  ]
+            },
+            {
+                  "name": "Elim",
+                  "text": "Die Elim-Kirche bietet den Bewohnern der Hafenstadt einen Raum für christliche Gottesdienste und spirituelle Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.27252,
+                        -11.567228
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage, das der Hafengemeinde von Chancay dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.270526,
+                        -11.564173
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Los Dolores",
+                  "text": "Eine bescheidene christliche Kapelle, die der Schmerzensmutter gewidmet ist und einen ruhigen Ort für Andachten in der Nähe des Hafens bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.27126,
+                        -11.56088
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado de Jesus",
+                  "text": "Diese dem Heiligsten Herzen Jesu geweihte christliche Kapelle bietet ein Heiligtum für die Gläubigen der Küstenregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.226299,
+                        -11.502384
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "Die Pfarrei der Heiligen Dreifaltigkeit fungiert als aktiver christlicher Versammlungsort inmitten des Alltags der Hafenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.234048,
+                        -11.498717
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista Chancay",
+                  "text": "Eine lokale biblisch-baptistische Gemeinde, die regelmäßige christliche Gottesdienste für die Gemeinde in Chancay abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.266954,
+                        -11.555485
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Metodista",
+                  "text": "Eine evangelisch-methodistische Kirche, die das spirituelle Wachstum im geschäftigen Küstenzentrum Chancay fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.258073,
+                        -11.591253
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial El Pacifico",
+                  "text": "Ein Zweig der weltweiten Missionsbewegung namens „Der Pazifik“, was seine Lage nahe dem Ozean in Chancay widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.25368,
+                        -11.59599
+                  ]
+            },
+            {
+                  "name": "Mercado Chancay",
+                  "text": "Der wichtigste traditionelle Marktplatz im Herzen von Chancay, auf dem Einheimische mit frischen Produkten und Waren des täglichen Bedarfs handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.270399,
+                        -11.566118
+                  ]
+            },
+            {
+                  "name": "Mega Mercado ACOMESAR",
+                  "text": "Ein großer Handelsmarkt, der eine große Vielfalt an Ständen und Massengütern für die wachsende Bevölkerung der Hafenstadt bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.264985,
+                        -11.560263
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos",
+                  "text": "Ein belebter Versorgungsmarkt, auf dem regionale Lebensmittel und frische Zutaten von der Küste eingekauft werden können.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.266458,
+                        -11.568569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa La Ensenada",
+                  "text": "Homokos part a Csendes-óceán mentén, Chancay kikötői területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.295943,
+                        -11.530159
+                  ]
+            },
+            {
+                  "name": "Museo de la cultura Chancay",
+                  "text": "Múzeum, amely az ősi Chancay-kultúra prekolumbián leleteit és kerámiáit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -77.271313,
+                        -11.574033
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Chancay",
+                  "text": "Régészeti múzeum, amely kiterjedt Chancay textil- és kerámiagyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -77.270485,
+                        -11.562955
+                  ]
+            },
+            {
+                  "name": "Playa La Vina",
+                  "text": "Csendes homokos strand a csendes-óceáni partvidéken, rövid távolságra Chancay kikötőjétől.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.283655,
+                        -11.548412
+                  ]
+            },
+            {
+                  "name": "Playa La Calichera",
+                  "text": "Egy part menti szakasz Chancayban, amely zord partvonaláról és óceáni szellőiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.294994,
+                        -11.538016
+                  ]
+            },
+            {
+                  "name": "Cerro Trinidad",
+                  "text": "Tengerparti domb és régészeti lelőhely, amely preinka romokat rejt Chancay városa közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -77.265341,
+                        -11.583831
+                  ]
+            },
+            {
+                  "name": "Eco Truly Park",
+                  "text": "A Hare Krisna mozgalom ökológiai közössége és vidámparkja, jellegzetes kúp alakú vályogtéglaházakkal Chancay közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.216545,
+                        -11.638048
+                  ]
+            },
+            {
+                  "name": "Playa Puerto Chancay",
+                  "text": "A fő nyilvános strand, amely közvetlenül Chancay történelmi kikötői létesítményei mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.271897,
+                        -11.584168
+                  ]
+            },
+            {
+                  "name": "Playa de Chorrillos Chancay",
+                  "text": "Egy népszerű homokos part Chancayban, amely a helyi tengeri éttermek közelségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.272699,
+                        -11.568803
+                  ]
+            },
+            {
+                  "name": "Chacra y Mar",
+                  "text": "Homokos csendes-óceáni strand Chancay közelében, amelyet gyakran látogatnak a helyiek és az ökoturisták.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.21849,
+                        -11.638349
+                  ]
+            },
+            {
+                  "name": "SANTO TORIBIO DE MOGROBEJO",
+                  "text": "Egy katolikus templom Chancayban, amelyet Lima gyarmati kori érsekének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.24927,
+                        -11.528271
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Día.",
+                  "text": "A Hetednapi Adventista Egyház temploma, amely a tengerparti kikötőváros, Chancay helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.253819,
+                        -11.505475
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nueva Estrella",
+                  "text": "Az „Új Csillag” templomként ismert keresztény szentély Chancay tengerparti környezetében gyűjti össze a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.256132,
+                        -11.506139
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betesda",
+                  "text": "A Bethesda nevű baptista gyülekezet a kikötő területén kínál gyülekezési helyet a keresztény közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.271516,
+                        -11.56954
+                  ]
+            },
+            {
+                  "name": "Elim",
+                  "text": "Az Elim templom a keresztény istentisztelet és a spirituális elmélkedés terét kínálja a kikötőváros lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.27252,
+                        -11.567228
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza gyülekezeti háza, amely a chancay-i kikötői közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.270526,
+                        -11.564173
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Los Dolores",
+                  "text": "A Fájdalmas Szűzanyának szentelt szerény keresztény kápolna, amely csendes helyet kínál az áhítathoz a kikötő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.27126,
+                        -11.56088
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado de Jesus",
+                  "text": "Ez a Jézus Szent Szívének szentelt keresztény kápolna szentélyt biztosít a tengerparti hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.226299,
+                        -11.502384
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "A Szentháromság plébánia aktív keresztény gyülekezési pontként működik a kikötőváros mindennapi életében.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.234048,
+                        -11.498717
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista Chancay",
+                  "text": "Egy helyi bibliai baptista gyülekezet, amely rendszeres keresztény istentiszteleteket tart a chancayi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.266954,
+                        -11.555485
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Metodista",
+                  "text": "Egy evangéliumi metodista egyház, amely a spirituális növekedést segíti Chancay nyüzsgő tengerparti központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.258073,
+                        -11.591253
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial El Pacifico",
+                  "text": "A Világméretű Missziós Mozgalom „A Csendes-óceán” nevű ága, amely a chancayi óceánhoz közeli fekvését tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.25368,
+                        -11.59599
+                  ]
+            },
+            {
+                  "name": "Mercado Chancay",
+                  "text": "Az elsődleges hagyományos piac Chancay szívében, ahol a helyiek friss termékekkel és napi árucikkekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.270399,
+                        -11.566118
+                  ]
+            },
+            {
+                  "name": "Mega Mercado ACOMESAR",
+                  "text": "Egy nagyszabású kereskedelmi piac, amely bódék széles választékát és ömlesztett árut biztosít a kikötőváros növekvő lakossága számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.264985,
+                        -11.560263
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos",
+                  "text": "Nyüzsgő ellátó piac, amely nélkülözhetetlen a regionális élelmiszerek és a friss tengerparti alapanyagok beszerzéséhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.266458,
+                        -11.568569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa La Ensenada",
+                  "text": "O plajă de coastă nisipoasă de-a lungul Oceanului Pacific în zona portuară din Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.295943,
+                        -11.530159
+                  ]
+            },
+            {
+                  "name": "Museo de la cultura Chancay",
+                  "text": "Un muzeu care păstrează artefacte precolumbiene și ceramică a culturii antice Chancay.",
+                  "category": "museum",
+                  "coords": [
+                        -77.271313,
+                        -11.574033
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Chancay",
+                  "text": "Un muzeu arheologic care găzduiește colecții extinse de textile și ceramică Chancay.",
+                  "category": "museum",
+                  "coords": [
+                        -77.270485,
+                        -11.562955
+                  ]
+            },
+            {
+                  "name": "Playa La Vina",
+                  "text": "O plajă nisipoasă liniștită pe coasta Pacificului, la mică distanță de portul Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.283655,
+                        -11.548412
+                  ]
+            },
+            {
+                  "name": "Playa La Calichera",
+                  "text": "O porțiune de coastă în Chancay, cunoscută pentru țărmul său accidentat și briza oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.294994,
+                        -11.538016
+                  ]
+            },
+            {
+                  "name": "Cerro Trinidad",
+                  "text": "Un deal de coastă și sit arheologic care deține ruine pre-incașe lângă orașul Chancay.",
+                  "category": "natural",
+                  "coords": [
+                        -77.265341,
+                        -11.583831
+                  ]
+            },
+            {
+                  "name": "Eco Truly Park",
+                  "text": "O comunitate ecologică și un parc tematic Hare Krishna cu case conice distinctive din cărămidă de noroi lângă Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.216545,
+                        -11.638048
+                  ]
+            },
+            {
+                  "name": "Playa Puerto Chancay",
+                  "text": "Principala plajă publică situată chiar lângă facilitățile portuare istorice din Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.271897,
+                        -11.584168
+                  ]
+            },
+            {
+                  "name": "Playa de Chorrillos Chancay",
+                  "text": "O plajă cu nisip populară în Chancay, cunoscută pentru proximitatea față de restaurantele locale cu fructe de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.272699,
+                        -11.568803
+                  ]
+            },
+            {
+                  "name": "Chacra y Mar",
+                  "text": "O plajă nisipoasă pe malul Pacificului lângă Chancay, adesea vizitată de localnici și ecoturiști.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.21849,
+                        -11.638349
+                  ]
+            },
+            {
+                  "name": "SANTO TORIBIO DE MOGROBEJO",
+                  "text": "O biserică catolică din Chancay dedicată arhiepiscopului din epoca colonială a Limei.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.24927,
+                        -11.528271
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Día.",
+                  "text": "O biserică adventistă de ziua a șaptea care deservește comunitatea locală din orașul-port de coastă Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.253819,
+                        -11.505475
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nueva Estrella",
+                  "text": "Cunoscut ca biserica „Noua Stea”, acest sanctuar creștin adună credincioșii în cadrul de coastă din Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.256132,
+                        -11.506139
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betesda",
+                  "text": "O biserică baptistă numită Bethesda, oferind un loc de adunare a comunității creștine în zona portuară.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.271516,
+                        -11.56954
+                  ]
+            },
+            {
+                  "name": "Elim",
+                  "text": "Biserica Elim oferă un spațiu pentru cultul creștin și reflecție spirituală pentru locuitorii orașului-port.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.27252,
+                        -11.567228
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de adunare a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă, care slujește comunitatea portuară din Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.270526,
+                        -11.564173
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Los Dolores",
+                  "text": "O modestă capelă creștină închinată Fecioarei Durerilor, oferind un loc liniștit pentru devotament lângă port.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.27126,
+                        -11.56088
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado de Jesus",
+                  "text": "Această capelă creștină dedicată Sfintei Inimi a lui Isus oferă un sanctuar pentru credincioșii de pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.226299,
+                        -11.502384
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "Parohia Sfânta Treime acționează ca un punct de adunare creștină activă în mijlocul vieții de zi cu zi a orașului-port.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.234048,
+                        -11.498717
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista Chancay",
+                  "text": "O congregație baptistă biblică locală care ține slujbe creștine regulate pentru comunitatea din Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.266954,
+                        -11.555485
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Metodista",
+                  "text": "O biserică evanghelică metodistă care promovează creșterea spirituală în centrul de coastă aglomerat al orașului Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.258073,
+                        -11.591253
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial El Pacifico",
+                  "text": "O filială a Mișcării Misionare Mondiale numită „Pacificul”, reflectând locația sa lângă oceanul din Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.25368,
+                        -11.59599
+                  ]
+            },
+            {
+                  "name": "Mercado Chancay",
+                  "text": "Piața tradițională principală unde localnicii tranzacționează produse proaspete și bunuri de zi cu zi în inima orașului Chancay.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.270399,
+                        -11.566118
+                  ]
+            },
+            {
+                  "name": "Mega Mercado ACOMESAR",
+                  "text": "O piață comercială la scară largă care oferă o mare varietate de tarabe și bunuri în vrac pentru populația în creștere a orașului-port.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.264985,
+                        -11.560263
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos",
+                  "text": "O piață de aprovizionare plină de viață, esențială pentru achiziționarea de provizii alimentare regionale și ingrediente proaspete de coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.266458,
+                        -11.568569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa La Ensenada",
+                  "text": "A sandy coastal beach along the Pacific Ocean in the port area of Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.295943,
+                        -11.530159
+                  ]
+            },
+            {
+                  "name": "Museo de la cultura Chancay",
+                  "text": "A museum preserving pre-Columbian artifacts and ceramics of the ancient Chancay culture.",
+                  "category": "museum",
+                  "coords": [
+                        -77.271313,
+                        -11.574033
+                  ]
+            },
+            {
+                  "name": "Chancay Museum",
+                  "text": "An archaeological museum housing extensive collections of Chancay textile and pottery.",
+                  "category": "museum",
+                  "coords": [
+                        -77.270485,
+                        -11.562955
+                  ]
+            },
+            {
+                  "name": "Playa La Vina",
+                  "text": "A quiet sandy beach on the Pacific coast, a short distance from the port of Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.283655,
+                        -11.548412
+                  ]
+            },
+            {
+                  "name": "Playa La Calichera",
+                  "text": "A coastal stretch in Chancay known for its rugged shoreline and ocean breezes.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.294994,
+                        -11.538016
+                  ]
+            },
+            {
+                  "name": "Cerro Trinidad",
+                  "text": "A coastal hill and archaeological site holding pre-Inca ruins near the town of Chancay.",
+                  "category": "natural",
+                  "coords": [
+                        -77.265341,
+                        -11.583831
+                  ]
+            },
+            {
+                  "name": "Eco Truly Park",
+                  "text": "A Hare Krishna ecological community and theme park featuring distinctive mud-brick conical houses near Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.216545,
+                        -11.638048
+                  ]
+            },
+            {
+                  "name": "Playa Puerto Chancay",
+                  "text": "The main public beach located right beside the historic port facilities of Chancay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.271897,
+                        -11.584168
+                  ]
+            },
+            {
+                  "name": "Playa de Chorrillos Chancay",
+                  "text": "A popular sandy beach in Chancay known for its proximity to local seafood restaurants.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.272699,
+                        -11.568803
+                  ]
+            },
+            {
+                  "name": "Chacra y Mar",
+                  "text": "A sandy Pacific beach near Chancay often visited by locals and eco-tourists from nearby communities.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.21849,
+                        -11.638349
+                  ]
+            },
+            {
+                  "name": "SANTO TORIBIO DE MOGROBEJO",
+                  "text": "A Catholic church in Chancay dedicated to the colonial-era Archbishop of Lima.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.24927,
+                        -11.528271
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Día.",
+                  "text": "A Seventh-day Adventist church serving the local community in the coastal port city of Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.253819,
+                        -11.505475
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nueva Estrella",
+                  "text": "Known as the \"New Star\" church, this Christian sanctuary gathers worshippers in the coastal setting of Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.256132,
+                        -11.506139
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betesda",
+                  "text": "A Baptist church named Bethesda, offering a Christian community gathering place within the port area.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.271516,
+                        -11.56954
+                  ]
+            },
+            {
+                  "name": "Elim",
+                  "text": "The Elim church offers a space for Christian worship and spiritual reflection for the residents of the port city.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.27252,
+                        -11.567228
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A meetinghouse for the Church of Jesus Christ of Latter-day Saints, ministering to the Chancay port community.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.270526,
+                        -11.564173
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Los Dolores",
+                  "text": "A modest Christian chapel dedicated to the Virgin of Sorrows, offering a quiet place for devotion near the port.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.27126,
+                        -11.56088
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado de Jesus",
+                  "text": "This Christian chapel dedicated to the Sacred Heart of Jesus provides a sanctuary for coastal worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.226299,
+                        -11.502384
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "The Holy Trinity Parish acts as an active Christian congregation point amid the daily life of the port city.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.234048,
+                        -11.498717
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista Chancay",
+                  "text": "A local Biblical Baptist congregation holding regular Christian services for the community in Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.266954,
+                        -11.555485
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Metodista",
+                  "text": "An Evangelical Methodist church fostering spiritual growth within the bustling coastal hub of Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.258073,
+                        -11.591253
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial El Pacifico",
+                  "text": "A branch of the Worldwide Missionary Movement named \"The Pacific\", reflecting its location near the ocean in Chancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.25368,
+                        -11.59599
+                  ]
+            },
+            {
+                  "name": "Mercado Chancay",
+                  "text": "The primary traditional marketplace where locals trade fresh produce and daily goods in the heart of Chancay.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.270399,
+                        -11.566118
+                  ]
+            },
+            {
+                  "name": "Mega Mercado ACOMESAR",
+                  "text": "A large-scale commercial market providing a wide variety of stalls and bulk goods for the port city's growing population.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.264985,
+                        -11.560263
+                  ]
+            },
+            {
+                  "name": "Mercado de Abastos",
+                  "text": "A bustling supply market essential for purchasing regional food provisions and fresh coastal ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.266458,
+                        -11.568569
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PE-LMA",
     coords: [-77.27, -11.58],
@@ -273,7 +3387,484 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/port-chancay-economic-v2.webp"
   },
   {
-    id: "port-iquitos-economic-v2",
+    id: "port-iquitos-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pilpintuwasi Schmetterlingsfarm und Wildtier- Auffangstation",
+                  "text": "Dieses Rettungszentrum für Wildtiere beherbergt eine farbenprächtige Schmetterlingsfarm inmitten der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.282691,
+                        -3.704393
+                  ]
+            },
+            {
+                  "name": "Quebrada del amor",
+                  "text": "Dieser malerische natürliche Bach bietet Besuchern eine erfrischende Abkühlung im tropischen Klima.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.290267,
+                        -3.69419
+                  ]
+            },
+            {
+                  "name": "Irapay",
+                  "text": "Diese Attraktion hebt die einzigartige lokale Flora des Amazonasgebiets hervor.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.278544,
+                        -3.689693
+                  ]
+            },
+            {
+                  "name": "Hafen Padre Cocha",
+                  "text": "Dieser geschäftige Flusshafen ist der Ausgangspunkt zu den umliegenden indigenen Gemeinschaften.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.276936,
+                        -3.699462
+                  ]
+            },
+            {
+                  "name": "Puerto Bellavista Nanay",
+                  "text": "Das lebhafte Hafengebiet ist berühmt für seine traditionellen Essensstände am Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.249205,
+                        -3.70267
+                  ]
+            },
+            {
+                  "name": "Jungle wolf expeditions",
+                  "text": "Dieser Tourenanbieter organisiert geführte Abenteuer tief in den dichten Amazonasdschungel.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.248311,
+                        -3.741039
+                  ]
+            },
+            {
+                  "name": "La Lámpara (Unión Bíblica del Perú)",
+                  "text": "Eine christliche Einrichtung der lokalen Biblischen Union, die sich der Gemeindearbeit widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.245239,
+                        -3.740562
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Dia San Antonio",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten versammelt die lokale gläubige Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.248577,
+                        -3.735483
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Loreto",
+                  "text": "Diese Andachtsstätte ist der Jungfrau von Loreto, der Schutzpatronin der Region, gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -73.246501,
+                        -3.742449
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Die evangelische Kirche im Hafenviertel ist ein spiritueller Ankerpunkt für die Bewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.25088,
+                        -3.721301
+                  ]
+            },
+            {
+                  "name": "Mercadillo de Punchana",
+                  "text": "Ein lokaler Straßenmarkt, der täglich Dinge des täglichen Bedarfs und regionale Spezialitäten verkauft.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.250419,
+                        -3.731374
+                  ]
+            },
+            {
+                  "name": "Mercado La Norteñita",
+                  "text": "Dieser lebhafte Nachbarschaftsmarkt beherbergt verschiedene Stände mit frischen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.255898,
+                        -3.740588
+                  ]
+            },
+            {
+                  "name": "Mercado de Productores",
+                  "text": "Auf diesem großen Erzeugermarkt verkaufen lokale Bauern direkt ihre frische Ernte.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.240949,
+                        -3.742396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mariposario Pilpintuwasi",
+                  "text": "Ez a vadvilág-mentőközpont egy színpompás lepkefarmnak ad otthont a természet lágy ölén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.282691,
+                        -3.704393
+                  ]
+            },
+            {
+                  "name": "Quebrada del amor",
+                  "text": "Ez a festői természetes patak frissítő menedéket nyújt a látogatóknak a trópusi éghajlaton.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.290267,
+                        -3.69419
+                  ]
+            },
+            {
+                  "name": "Irapay",
+                  "text": "Ez a látványosság az Amazonas vidékének egyedülálló helyi növényvilágát emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.278544,
+                        -3.689693
+                  ]
+            },
+            {
+                  "name": "Puerto Padre Cocha",
+                  "text": "Ez a forgalmas folyami kikötő a környező őslakos közösségek felé vezető utak kiindulópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.276936,
+                        -3.699462
+                  ]
+            },
+            {
+                  "name": "Puerto Bellavista Nanay",
+                  "text": "A nyüzsgő kikötőnegyed híres a vízparton sorakozó hagyományos ételstandjairól.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.249205,
+                        -3.70267
+                  ]
+            },
+            {
+                  "name": "Jungle wolf expeditions",
+                  "text": "Ez az utazásszervező vezetett kalandtúrákat kínál mélyen a sűrű amazóniai dzsungelbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.248311,
+                        -3.741039
+                  ]
+            },
+            {
+                  "name": "La Lámpara (Unión Bíblica del Perú)",
+                  "text": "A helyi Szentírás Szövetség keresztény létesítménye, amely a közösség építésének szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.245239,
+                        -3.740562
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Dia San Antonio",
+                  "text": "A Hetednapi Adventista Egyház ezen temploma gyűjti egybe a helyi hívő közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.248577,
+                        -3.735483
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Loreto",
+                  "text": "Ezt az istentiszteleti helyet a régió védőszentjének, a loretói Szűzanyának szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -73.246501,
+                        -3.742449
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "A kikötői negyed evangéliumi keresztény temploma a lakosok spirituális horgonya.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.25088,
+                        -3.721301
+                  ]
+            },
+            {
+                  "name": "Mercadillo de Punchana",
+                  "text": "Egy helyi utcai piac, amely napi szükségleti cikkeket és regionális ételkülönlegességeket árul.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.250419,
+                        -3.731374
+                  ]
+            },
+            {
+                  "name": "Mercado La Norteñita",
+                  "text": "Ez az élettel teli környékbeli piac számos friss élelmiszert kínáló standnak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.255898,
+                        -3.740588
+                  ]
+            },
+            {
+                  "name": "Mercado de Productores",
+                  "text": "Ezen a nagy termelői piacon a helyi gazdák közvetlenül árulják friss terményeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.240949,
+                        -3.742396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mariposario Pilpintuwasi",
+                  "text": "Acest centru de salvare a faunei sălbatice găzduiește o fermă de fluturi colorați în mijlocul naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.282691,
+                        -3.704393
+                  ]
+            },
+            {
+                  "name": "Quebrada del amor",
+                  "text": "Acest pârâu natural pitoresc oferă vizitatorilor o răcorire plăcută în climatul tropical.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.290267,
+                        -3.69419
+                  ]
+            },
+            {
+                  "name": "Irapay",
+                  "text": "Această atracție evidențiază flora locală unică a regiunii amazoniene.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.278544,
+                        -3.689693
+                  ]
+            },
+            {
+                  "name": "Puerto Padre Cocha",
+                  "text": "Acest port fluvial aglomerat este punctul de plecare către comunitățile indigene din împrejurimi.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.276936,
+                        -3.699462
+                  ]
+            },
+            {
+                  "name": "Puerto Bellavista Nanay",
+                  "text": "Această zonă portuară plină de viață este renumită pentru tarabele sale tradiționale cu mâncare de pe malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.249205,
+                        -3.70267
+                  ]
+            },
+            {
+                  "name": "Jungle wolf expeditions",
+                  "text": "Acest operator de turism organizează aventuri ghidate adânc în jungla deasă a Amazonului.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.248311,
+                        -3.741039
+                  ]
+            },
+            {
+                  "name": "La Lámpara (Unión Bíblica del Perú)",
+                  "text": "O facilitate creștină a Uniunii Biblice locale dedicată muncii în comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.245239,
+                        -3.740562
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Dia San Antonio",
+                  "text": "Această biserică adventistă de ziua a șaptea adună comunitatea locală de credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.248577,
+                        -3.735483
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Loreto",
+                  "text": "Acest lăcaș de cult este dedicat Fecioarei de la Loreto, ocrotitoarea regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        -73.246501,
+                        -3.742449
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Biserica evanghelică din cartierul portului este o ancoră spirituală pentru locuitori.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.25088,
+                        -3.721301
+                  ]
+            },
+            {
+                  "name": "Mercadillo de Punchana",
+                  "text": "O piață stradală locală care vinde necesități zilnice și specialități regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.250419,
+                        -3.731374
+                  ]
+            },
+            {
+                  "name": "Mercado La Norteñita",
+                  "text": "Această piață de cartier animată găzduiește diverse tarabe cu alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.255898,
+                        -3.740588
+                  ]
+            },
+            {
+                  "name": "Mercado de Productores",
+                  "text": "În această mare piață a producătorilor, fermierii locali își vând direct recolta proaspătă.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.240949,
+                        -3.742396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pilpintuwasi butterfly can and wildlife rescue center",
+                  "text": "This wildlife rescue center houses a vibrantly colored butterfly farm surrounded by nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.282691,
+                        -3.704393
+                  ]
+            },
+            {
+                  "name": "Quebrada del amor",
+                  "text": "This scenic natural stream provides visitors with a refreshing escape in the tropical climate.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.290267,
+                        -3.69419
+                  ]
+            },
+            {
+                  "name": "Irapay",
+                  "text": "This attraction highlights the unique local flora native to the Amazon region.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.278544,
+                        -3.689693
+                  ]
+            },
+            {
+                  "name": "Port Padre Cocha",
+                  "text": "This busy river port serves as the starting point for journeys to surrounding indigenous communities.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.276936,
+                        -3.699462
+                  ]
+            },
+            {
+                  "name": "Puerto Bellavista Nanay",
+                  "text": "This vibrant port area is famous for its traditional food stalls lined up along the water.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.249205,
+                        -3.70267
+                  ]
+            },
+            {
+                  "name": "Jungle wolf expeditions",
+                  "text": "This tour operator organizes guided adventures deep into the dense Amazon jungle.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.248311,
+                        -3.741039
+                  ]
+            },
+            {
+                  "name": "La Lámpara (Unión Bíblica del Perú)",
+                  "text": "A Christian facility of the local Scripture Union dedicated to community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.245239,
+                        -3.740562
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Dia San Antonio",
+                  "text": "This Seventh-day Adventist church gathers the local congregation of believers.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.248577,
+                        -3.735483
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Loreto",
+                  "text": "This place of worship is dedicated to the Virgin of Loreto, the patroness of the region.",
+                  "category": "religious",
+                  "coords": [
+                        -73.246501,
+                        -3.742449
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "The evangelical Christian church in the port district acts as a spiritual anchor for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.25088,
+                        -3.721301
+                  ]
+            },
+            {
+                  "name": "Mercadillo de Punchana",
+                  "text": "A local street market selling daily necessities and regional food specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.250419,
+                        -3.731374
+                  ]
+            },
+            {
+                  "name": "Mercado La Norteñita",
+                  "text": "This lively neighborhood market hosts various stalls featuring fresh food.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.255898,
+                        -3.740588
+                  ]
+            },
+            {
+                  "name": "Mercado de Productores",
+                  "text": "At this large producers' market, local farmers sell their fresh harvest directly.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.240949,
+                        -3.742396
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PE-LOR",
     coords: [-73.25, -3.74],
@@ -317,7 +3908,1276 @@ export const poiExtraPeruEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-pucallpa-economic-v2",
+    id: "port-pucallpa-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gobierno Regional de Ucayali",
+                  "text": "Das Gebäude des Gobierno Regional de Ucayali in Pucallpa ist der Verwaltungssitz, von dem aus die Regierungsgeschäfte der umliegenden Amazonasregion gelenkt werden.",
+                  "category": "historical",
+                  "coords": [
+                        -74.528936,
+                        -8.382734
+                  ]
+            },
+            {
+                  "name": "Usko-Ayar",
+                  "text": "Usko-Ayar ist eine renommierte Kunstschule in Pucallpa, die sich der visionären amazonischen Malerei und der Darstellung indigenen Wissens widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.540211,
+                        -8.372036
+                  ]
+            },
+            {
+                  "name": "Vicariato Apostólico de Pucallpa",
+                  "text": "Das Gebäude des Apostolischen Vikariats von Pucallpa ist das katholische Verwaltungszentrum für die Missionsarbeit und die Kirchengemeinden im amazonischen Tiefland.",
+                  "category": "religious",
+                  "coords": [
+                        -74.529969,
+                        -8.381245
+                  ]
+            },
+            {
+                  "name": "Catedral de Pucallpa",
+                  "text": "Die neugotische katholische Kathedrale besticht durch ihren markanten modernen Turm und die bunten Glasfenster, die das Erbe des Amazonas widerspiegeln.",
+                  "category": "religious",
+                  "coords": [
+                        -74.533027,
+                        -8.38383
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Pucallpa",
+                  "text": "Dieser zoologische und ökologische Park dient als Schutzgebiet für eine vielfältige amazonische Tierwelt und einheimische tropische Pflanzenarten.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.556899,
+                        -8.39409
+                  ]
+            },
+            {
+                  "name": "Chosko Maimato",
+                  "text": "Diese lokale Kunstgalerie zeigt traditionelle und zeitgenössische bildende Kunst, die die regionale Kultur widerspiegelt.",
+                  "category": "museum",
+                  "coords": [
+                        -74.57515,
+                        -8.354591
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Pucallpa",
+                  "text": "Dieses lebendige städtische Kulturinstitut veranstaltet Ausstellungen und Gemeinschaftsevents, die die Kunst des peruanischen Amazonasgebiets feiern.",
+                  "category": "museum",
+                  "coords": [
+                        -74.527828,
+                        -8.381972
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Ucayali",
+                  "text": "Die regionale Einrichtung bewahrt indigene Artefakte aus dem Amazonasgebiet auf und zeigt die tiefe ethnografische und archäologische Geschichte der Ucayali-Region.",
+                  "category": "museum",
+                  "coords": [
+                        -74.554465,
+                        -8.39546
+                  ]
+            },
+            {
+                  "name": "Amazon World Travel Service & Tour Operator",
+                  "text": "Diese Stätte fungiert sowohl als kultureller Ausstellungsraum als auch als Expeditionszentrum und bietet detaillierte Einblicke in regionale Dschungeltouren.",
+                  "category": "museum",
+                  "coords": [
+                        -74.537932,
+                        -8.383247
+                  ]
+            },
+            {
+                  "name": "Desconocido",
+                  "text": "Dieses skulpturale Denkmal aus Beton erhebt sich als markantes städtisches Wahrzeichen mit einer gewissen Mystik um seine ursprüngliche Widmung.",
+                  "category": "historical",
+                  "coords": [
+                        -74.539074,
+                        -8.382233
+                  ]
+            },
+            {
+                  "name": "Eduardo Mesa Saravia",
+                  "text": "Dieses nach einer lokalen Persönlichkeit benannte Kunstzentrum bietet einen Veranstaltungsort für visuelle Ausstellungen und Workshops für darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.56962,
+                        -8.375893
+                  ]
+            },
+            {
+                  "name": "Filadelfia",
+                  "text": "Diese aktive lokale Gemeinde versammelt sich in einem bescheidenen Kirchengebäude, das der spirituellen Anbetung und der Gemeinschaft gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -74.587352,
+                        -8.359216
+                  ]
+            },
+            {
+                  "name": "Iglesia pentecostal del séptimo día 3 de octubre",
+                  "text": "Als lebendiger Pfingst-Gottesdienstraum dient der Gemeindesaal den Gläubigen, die die Traditionen des Siebenten-Tags-Sabbats befolgen.",
+                  "category": "religious",
+                  "coords": [
+                        -74.580954,
+                        -8.357632
+                  ]
+            },
+            {
+                  "name": "Iglesia central de Yarinacocha Movimiento Misionero Mundial",
+                  "text": "Dieses prominente evangelikale Heiligtum im Bezirk Yarinacocha ist der zentrale Treffpunkt für die Weltmissionsbewegung.",
+                  "category": "religious",
+                  "coords": [
+                        -74.574552,
+                        -8.359897
+                  ]
+            },
+            {
+                  "name": "Iglesia de Corea",
+                  "text": "Dieses christliche Heiligtum mit besonderen kulturellen architektonischen Akzenten bietet der lokalen und der koreanischen Expat-Gemeinschaft spirituelle Dienste.",
+                  "category": "religious",
+                  "coords": [
+                        -74.550444,
+                        -8.384693
+                  ]
+            },
+            {
+                  "name": "Mercado informal",
+                  "text": "Dieser geschäftige informelle Straßenmarkt unter freiem Himmel ist voller provisorischer Stände, an denen Alltagsgüter, regionale Produkte und Streetfood verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.538838,
+                        -8.387362
+                  ]
+            },
+            {
+                  "name": "Mercado 3",
+                  "text": "Dieser belebte Handelsplatz, der lokal unter seiner Nummer bekannt ist, beherbergt überdachte Verkaufsstände für frische tropische Früchte, Fleisch und Dinge des täglichen Bedarfs.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.541766,
+                        -8.375458
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Yarinacocha",
+                  "text": "Dieser lebendige öffentliche Markt befindet sich in einem großen städtischen Pavillon in der Nähe der Lagune und ist ein Knotenpunkt für lokal gefangenen Flussfisch und Ernten aus dem Amazonasgebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.576057,
+                        -8.352961
+                  ]
+            },
+            {
+                  "name": "Mercado 2",
+                  "text": "Dieses geschlossene sekundäre Handelszentrum, das dem dichten städtischen Viertel dient, besteht aus engen Gängen voller lokaler Essensstände und Haushaltswarenverkäufer.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.533665,
+                        -8.38474
+                  ]
+            },
+            {
+                  "name": "Mercado 1",
+                  "text": "Als eine der wichtigsten kommerziellen Markthallen der Stadt summt der Markt vor Aktivität, von den morgendlichen Produktlieferungen bis zu den späten Nachmittagskäufern.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.528018,
+                        -8.385112
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Dieser weitläufige Logistikknotenpunkt, der im großen Großhandelsmaßstab operiert, verwaltet Massenverteilungen von regionalen Agrargütern und Großhandelslieferungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.579048,
+                        -8.401453
+                  ]
+            },
+            {
+                  "name": "Mercado 4 Micaela Bastidas",
+                  "text": "Dieser Gemeinschaftsmarkt ist nach der bekannten indigenen Pionierin benannt und beherbergt Reihen bunter Obst- und Gemüsestände unter seinem Wellblechdach.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.551482,
+                        -8.386142
+                  ]
+            },
+            {
+                  "name": "Chacra San Lorenzo",
+                  "text": "Dieses traditionelle ländliche Landgut bietet einen eindringlichen Einblick in tropische landwirtschaftliche Praktiken und die üppige Vegetation der Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.609197,
+                        -8.350158
+                  ]
+            },
+            {
+                  "name": "Iglesia profética mundial morando bajo",
+                  "text": "Die lokale prophetische evangelikale Gemeinschaft versammelt sich in diesem einfachen Versammlungssaal für lebendige, von Musik erfüllte charismatische Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.589417,
+                        -8.351677
+                  ]
+            },
+            {
+                  "name": "Iglesia adventista del Séptimo día",
+                  "text": "Diese Kapelle der Siebenten-Tags-Adventisten pflegt strenge Samstag-Gottesdiensttraditionen und ist ein ruhiger religiöser Mittelpunkt in der Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.58831,
+                        -8.352679
+                  ]
+            },
+            {
+                  "name": "Arca de Dios",
+                  "text": "Dieser lokale evangelikale Dienst, der unter einem Namen operiert, der Zuflucht bedeutet, heißt Gläubige in seinem speziellen Gebetsraum im Viertel willkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.589786,
+                        -8.359443
+                  ]
+            },
+            {
+                  "name": "Sagrado Corazón de Jesús",
+                  "text": "Diese katholische Pfarrgemeinde, die dem Heiligen Herzen gewidmet ist, verfügt über einen besonders geschmückten Altar, der den Gläubigen der täglichen Messe dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.529419,
+                        -8.374169
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de la Fe",
+                  "text": "Dieses robuste Kirchengebäude in der Nachbarschaft, das auf baptistischer Theologie basiert, wird von einer zentralen Kanzel verankert, die die Schriftlesung betont.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.545089,
+                        -8.380811
+                  ]
+            },
+            {
+                  "name": "Iglesia del Movimiento Misionero Mundial Villa el Salvador",
+                  "text": "Diese geräumige Missionskongregationshalle im Sektor Villa el Salvador überträgt ihre leidenschaftlichen evangelikalen Predigten oft auf die Straße.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.549895,
+                        -8.40961
+                  ]
+            },
+            {
+                  "name": "Iglesia de dios de la profecía",
+                  "text": "Als spirituelles Glaubenszentrum bekannt, ist dieser Zweig der Gemeinde Gottes der Prophetie für seine dynamischen Erweckungsgottesdienste im Pfingststil bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.577039,
+                        -8.362101
+                  ]
+            },
+            {
+                  "name": "iglesia advestista del séptimo dia-puerto callao",
+                  "text": "Diese bescheidene adventistische Einrichtung im Bezirk Puerto Callao bringt die Bewohner des Flussufers zu speziellen liturgischen Feierlichkeiten am Samstag zusammen.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.574976,
+                        -8.357201
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cristo",
+                  "text": "Unter Verzicht auf kunstvolle Dekoration konzentriert sich diese Kirche Christi in ihrem funktional strengen Versammlungsraum rein auf biblische Lehren.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.544806,
+                        -8.366441
+                  ]
+            },
+            {
+                  "name": "Fray Martín de Porras",
+                  "text": "Diese katholische Stätte, die den Namen des berühmten peruanischen Heiligen trägt, ehrt sein Erbe mit Andachtssymbolen, die vom Kirchenschiff aus sichtbar sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.540117,
+                        -8.373379
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Guadalupe",
+                  "text": "Diese Marienpfarrei zeigt eine markante gemalte Reproduktion der Jungfrau von Guadalupe, die Gläubige zum abendlichen Rosenkranzgebet anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.537587,
+                        -8.398421
+                  ]
+            },
+            {
+                  "name": "Señora de Guadalupe",
+                  "text": "Diese kleine Kapelle, die den unmittelbaren Wohnblock bedient, verehrt die Guadalupe-Erscheinung mit einem aufwendig verzierten zentralen Altarraum.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.555792,
+                        -8.377842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gobierno Regional de Ucayali",
+                  "text": "Az ucayali regionális kormányzat pucallpai épülete a közigazgatási székhely, ahonnan a környező amazóniai régió kormányzati ügyeit irányítják.",
+                  "category": "historical",
+                  "coords": [
+                        -74.528936,
+                        -8.382734
+                  ]
+            },
+            {
+                  "name": "Usko-Ayar",
+                  "text": "Az Usko-Ayar egy neves művészeti iskola Pucallpában, amely a látnoki amazóniai festészetnek és az őslakosok tudásának ábrázolásának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.540211,
+                        -8.372036
+                  ]
+            },
+            {
+                  "name": "Vicariato Apostólico de Pucallpa",
+                  "text": "A Pucallpai Apostoli Vikariátus épülete az amazóniai alföldön folyó missziós munka és egyházközségek katolikus közigazgatási központja.",
+                  "category": "religious",
+                  "coords": [
+                        -74.529969,
+                        -8.381245
+                  ]
+            },
+            {
+                  "name": "Catedral de Pucallpa",
+                  "text": "A neogótikus katolikus katedrális kiemelkedik jellegzetes, modern tornyával és az amazonasi örökséget tükröző ólomüveg ablakaival.",
+                  "category": "religious",
+                  "coords": [
+                        -74.533027,
+                        -8.38383
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Pucallpa",
+                  "text": "Ez a zoológiai és ökológiai park a változatos amazonasi vadvilág és az őshonos trópusi növényfajok menedékeként szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.556899,
+                        -8.39409
+                  ]
+            },
+            {
+                  "name": "Chosko Maimato",
+                  "text": "Ez a helyi művészeti galéria a regionális kultúrát tükröző hagyományos és kortárs képzőművészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -74.57515,
+                        -8.354591
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Pucallpa",
+                  "text": "Ez a nyüzsgő városi kulturális intézmény a perui Amazonas művészetét ünneplő kiállításoknak és közösségi eseményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -74.527828,
+                        -8.381972
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Ucayali",
+                  "text": "A regionális intézmény az őslakos amazóniai leleteket őrzi, bemutatva az Ucayali terület mély néprajzi és régészeti történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        -74.554465,
+                        -8.39546
+                  ]
+            },
+            {
+                  "name": "Amazon World Travel Service & Tour Operator",
+                  "text": "Ez a kulturális kiállítótérként és expedíciós központként is működő helyszín részletes betekintést nyújt a regionális dzsungeltúrák világába.",
+                  "category": "museum",
+                  "coords": [
+                        -74.537932,
+                        -8.383247
+                  ]
+            },
+            {
+                  "name": "Desconocido",
+                  "text": "Ez a beton szobormű egy kiemelkedő városi nevezetesség, amelynek eredeti felajánlását rejtély övezi.",
+                  "category": "historical",
+                  "coords": [
+                        -74.539074,
+                        -8.382233
+                  ]
+            },
+            {
+                  "name": "Eduardo Mesa Saravia",
+                  "text": "A helyi személyiségről elnevezett művészeti központ vizuális kiállításoknak és előadóművészeti workshopoknak biztosít helyszínt.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.56962,
+                        -8.375893
+                  ]
+            },
+            {
+                  "name": "Filadelfia",
+                  "text": "Ez az aktív helyi gyülekezet egy szerény közösségi épületben gyűlik össze spirituális istentiszteletre és testvéri közösségre.",
+                  "category": "religious",
+                  "coords": [
+                        -74.587352,
+                        -8.359216
+                  ]
+            },
+            {
+                  "name": "Iglesia pentecostal del séptimo día 3 de octubre",
+                  "text": "Egy nyüzsgő pünkösdi istentiszteleti hely, ahol a közösségi terem a hetednapi szombat hagyományait követő gyülekezetet szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -74.580954,
+                        -8.357632
+                  ]
+            },
+            {
+                  "name": "Iglesia central de Yarinacocha Movimiento Misionero Mundial",
+                  "text": "A Yarinacocha negyedben található kiemelkedő evangéliumi szentély a Világmissziós Mozgalom központi találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -74.574552,
+                        -8.359897
+                  ]
+            },
+            {
+                  "name": "Iglesia de Corea",
+                  "text": "A jellegzetes kulturális építészeti vonásokkal rendelkező keresztény szentély a helyi és a külföldi koreai közösség számára nyújt hitéleti szolgáltatásokat.",
+                  "category": "religious",
+                  "coords": [
+                        -74.550444,
+                        -8.384693
+                  ]
+            },
+            {
+                  "name": "Mercado informal",
+                  "text": "Ez a nyüzsgő, informális szabadtéri utcai piac tele van rögtönzött standokkal, ahol mindennapi cikkeket, regionális terményeket és utcai ételeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.538838,
+                        -8.387362
+                  ]
+            },
+            {
+                  "name": "Mercado 3",
+                  "text": "A helyiek által a száma alapján ismert nyüzsgő kereskedelmi téren fedett árusok kínálnak friss trópusi gyümölcsöket, húsokat és napi közszükségleti cikkeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.541766,
+                        -8.375458
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Yarinacocha",
+                  "text": "A lagúna közelében egy nagy önkormányzati pavilonban helyet kapó nyüzsgő közpiac a helyben fogott folyami halak és az amazonasi termények központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.576057,
+                        -8.352961
+                  ]
+            },
+            {
+                  "name": "Mercado 2",
+                  "text": "A sűrűn beépített városrészt kiszolgáló, zárt másodlagos kereskedelmi központ szűk folyosókból áll, amelyek tele vannak helyi ételstandokkal és háztartási árusokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.533665,
+                        -8.38474
+                  ]
+            },
+            {
+                  "name": "Mercado 1",
+                  "text": "A város egyik elsődleges kereskedelmi csarnokaként a piac zsong a tevékenységtől, a kora reggeli áruszállításoktól kezdve a késő délutáni vásárlókig.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.528018,
+                        -8.385112
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "A nagyobb nagykereskedelmi léptékben működő kiterjedt logisztikai központ a regionális mezőgazdasági cikkek és nagykereskedelmi készletek tömeges elosztását kezeli.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.579048,
+                        -8.401453
+                  ]
+            },
+            {
+                  "name": "Mercado 4 Micaela Bastidas",
+                  "text": "A híres bennszülött úttörőről elnevezett közösségi piac hullámlemez teteje alatt színes terményes standok sorakoznak.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.551482,
+                        -8.386142
+                  ]
+            },
+            {
+                  "name": "Chacra San Lorenzo",
+                  "text": "Ez a hagyományos vidéki mezőgazdasági birtok magával ragadó bepillantást nyújt a trópusi gazdálkodási gyakorlatokba és a buja vidéki növényzetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.609197,
+                        -8.350158
+                  ]
+            },
+            {
+                  "name": "Iglesia profética mundial morando bajo",
+                  "text": "A helyi prófétai evangéliumi közösség ebben az egyszerű gyülekezeti teremben jön össze élénk, zenével teli karizmatikus istentiszteletekre.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.589417,
+                        -8.351677
+                  ]
+            },
+            {
+                  "name": "Iglesia adventista del Séptimo día",
+                  "text": "A szigorú szombati istentiszteleti hagyományokat ápoló hetednapi adventista kápolna a környék csendes vallási központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.58831,
+                        -8.352679
+                  ]
+            },
+            {
+                  "name": "Arca de Dios",
+                  "text": "A menedéket jelentő név alatt működő helyi evangéliumi szolgálat a környéken kialakított dedikált imatermében várja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.589786,
+                        -8.359443
+                  ]
+            },
+            {
+                  "name": "Sagrado Corazón de Jesús",
+                  "text": "A Jézus Szent Szívének szentelt környékbeli katolikus plébánia jellegzetesen díszített oltárral rendelkezik, amely a napi szentmisén részt vevő gyülekezeteket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.529419,
+                        -8.374169
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de la Fe",
+                  "text": "A baptista teológián alapuló masszív környékbeli templomépület központjában a Szentírás felolvasását hangsúlyozó szószék áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.545089,
+                        -8.380811
+                  ]
+            },
+            {
+                  "name": "Iglesia del Movimiento Misionero Mundial Villa el Salvador",
+                  "text": "A Villa el Salvador szektorban található tágas misszionárius gyülekezeti terem gyakran sugározza az utcára fervens evangéliumi prédikációit.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.549895,
+                        -8.40961
+                  ]
+            },
+            {
+                  "name": "Iglesia de dios de la profecía",
+                  "text": "A hit lelkes központjaként működő Church of God of Prophecy gyülekezet dinamikus, pünkösdi stílusú ébredési istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.577039,
+                        -8.362101
+                  ]
+            },
+            {
+                  "name": "iglesia advestista del séptimo dia-puerto callao",
+                  "text": "A Puerto Callao negyedben elhelyezkedő szerény adventista létesítmény a folyóparti lakosokat gyűjti össze a dedikált szombati liturgikus szertartásokra.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.574976,
+                        -8.357201
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cristo",
+                  "text": "A díszes dekorációt mellőző Krisztus Egyháza pusztán a szentírási tanításokra összpontosít funkcionálisan szigorú tárgyalótermében.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.544806,
+                        -8.366441
+                  ]
+            },
+            {
+                  "name": "Fray Martín de Porras",
+                  "text": "Az ünnepelt perui szent nevét viselő katolikus kegyhely a főhajóból látható áhítatos ikonográfiával tiszteleg öröksége előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.540117,
+                        -8.373379
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Guadalupe",
+                  "text": "Ez a Mária-plébánia a Guadalupei Szűzanya kiemelkedő festett reprodukcióját mutatja be, amely az esti rózsafüzér-imádságra vonzza a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.537587,
+                        -8.398421
+                  ]
+            },
+            {
+                  "name": "Señora de Guadalupe",
+                  "text": "A közvetlen lakótömböt kiszolgáló kis kápolna a Guadalupei jelenést egy bonyolult díszítésű központi oltártérrel tiszteli meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.555792,
+                        -8.377842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gobierno Regional de Ucayali",
+                  "text": "Clădirea Gobierno Regional de Ucayali din Pucallpa este sediul administrativ din care sunt gestionate afacerile guvernamentale ale regiunii amazoniene înconjurătoare.",
+                  "category": "historical",
+                  "coords": [
+                        -74.528936,
+                        -8.382734
+                  ]
+            },
+            {
+                  "name": "Usko-Ayar",
+                  "text": "Usko-Ayar este o școală de artă renumită din Pucallpa, dedicată picturii vizionare amazoniene și reprezentării cunoștințelor indigene.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.540211,
+                        -8.372036
+                  ]
+            },
+            {
+                  "name": "Vicariato Apostólico de Pucallpa",
+                  "text": "Clădirea Vicariatului Apostolic de Pucallpa este centrul administrativ catolic pentru munca misionară și parohiile din câmpiile amazoniene.",
+                  "category": "religious",
+                  "coords": [
+                        -74.529969,
+                        -8.381245
+                  ]
+            },
+            {
+                  "name": "Catedral de Pucallpa",
+                  "text": "Catedrala catolică neogotică se remarcă prin turla sa modernă și vitraliile colorate care reflectă moștenirea amazoniană.",
+                  "category": "religious",
+                  "coords": [
+                        -74.533027,
+                        -8.38383
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Pucallpa",
+                  "text": "Acest parc zoologic și ecologic servește drept sanctuar pentru diverse specii de faună sălbatică amazoniană și plante tropicale native.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.556899,
+                        -8.39409
+                  ]
+            },
+            {
+                  "name": "Chosko Maimato",
+                  "text": "Această galerie de artă locală expune lucrări de artă vizuală tradițională și contemporană care reflectă cultura regională.",
+                  "category": "museum",
+                  "coords": [
+                        -74.57515,
+                        -8.354591
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Pucallpa",
+                  "text": "Această instituție culturală urbană vibrantă găzduiește expoziții și evenimente comunitare care celebrează arta Amazonului peruvian.",
+                  "category": "museum",
+                  "coords": [
+                        -74.527828,
+                        -8.381972
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Ucayali",
+                  "text": "Instituția regională conservă artefacte indigene amazoniene, prezentând istoria etnografică și arheologică profundă a zonei Ucayali.",
+                  "category": "museum",
+                  "coords": [
+                        -74.554465,
+                        -8.39546
+                  ]
+            },
+            {
+                  "name": "Amazon World Travel Service & Tour Operator",
+                  "text": "Funcționând atât ca spațiu expozițional cultural, cât și ca centru de expediții, acest sit oferă informații detaliate despre tururile regionale în junglă.",
+                  "category": "museum",
+                  "coords": [
+                        -74.537932,
+                        -8.383247
+                  ]
+            },
+            {
+                  "name": "Desconocido",
+                  "text": "Acest monument sculptural din beton se înalță ca un reper urban proeminent, cu un aer de mister înconjurând dedicația sa originală.",
+                  "category": "historical",
+                  "coords": [
+                        -74.539074,
+                        -8.382233
+                  ]
+            },
+            {
+                  "name": "Eduardo Mesa Saravia",
+                  "text": "Numit după o personalitate locală, acest centru de arte dedicat oferă un spațiu pentru expoziții vizuale și ateliere de artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.56962,
+                        -8.375893
+                  ]
+            },
+            {
+                  "name": "Filadelfia",
+                  "text": "Această congregație locală activă se adună într-o clădire modestă dedicată închinării spirituale și părtășiei comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        -74.587352,
+                        -8.359216
+                  ]
+            },
+            {
+                  "name": "Iglesia pentecostal del séptimo día 3 de octubre",
+                  "text": "Un lăcaș de cult penticostal vibrant, sala comunitară servește congregației care respectă tradițiile Sabatului de ziua a șaptea.",
+                  "category": "religious",
+                  "coords": [
+                        -74.580954,
+                        -8.357632
+                  ]
+            },
+            {
+                  "name": "Iglesia central de Yarinacocha Movimiento Misionero Mundial",
+                  "text": "Situat în districtul Yarinacocha, acest sanctuar evanghelic proeminent este punctul central de întâlnire pentru Mișcarea Misionară Mondială.",
+                  "category": "religious",
+                  "coords": [
+                        -74.574552,
+                        -8.359897
+                  ]
+            },
+            {
+                  "name": "Iglesia de Corea",
+                  "text": "Prezentând accente arhitecturale culturale distincte, acest sanctuar creștin oferă servicii spirituale comunității locale și expatriaților coreeni.",
+                  "category": "religious",
+                  "coords": [
+                        -74.550444,
+                        -8.384693
+                  ]
+            },
+            {
+                  "name": "Mercado informal",
+                  "text": "Această piață stradală informală plină de viață în aer liber este plină de tarabe improvizate care vând bunuri de zi cu zi, produse regionale și mâncare stradală.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.538838,
+                        -8.387362
+                  ]
+            },
+            {
+                  "name": "Mercado 3",
+                  "text": "Cunoscută local după numărul său, această piață comercială animată prezintă comercianți acoperiți care tranzacționează fructe tropicale proaspete, carne și produse esențiale zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.541766,
+                        -8.375458
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Yarinacocha",
+                  "text": "Găzduită într-un pavilion municipal mare lângă lagună, această piață publică vibrantă este un centru pentru peștele de râu prins local și recoltele amazoniene.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.576057,
+                        -8.352961
+                  ]
+            },
+            {
+                  "name": "Mercado 2",
+                  "text": "Deservind cartierul urban dens, acest centru comercial secundar închis constă din coridoare înguste pline de tarabe cu mâncare locală și vânzători de articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.533665,
+                        -8.38474
+                  ]
+            },
+            {
+                  "name": "Mercado 1",
+                  "text": "Ca una dintre principalele hale comerciale din oraș, piața freamătă de activitate, de la livrările de produse de dimineață devreme până la cumpărătorii de după-amiază târziu.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.528018,
+                        -8.385112
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Funcționând la o scară mai mare de vânzare cu ridicata, acest hub logistic extins gestionează distribuția în vrac a produselor agricole regionale și a proviziilor en-gros.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.579048,
+                        -8.401453
+                  ]
+            },
+            {
+                  "name": "Mercado 4 Micaela Bastidas",
+                  "text": "Numită după renumita pionieră indigenă, această piață comunitară adăpostește rânduri de tarabe colorate cu produse sub acoperișul său ondulat.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.551482,
+                        -8.386142
+                  ]
+            },
+            {
+                  "name": "Chacra San Lorenzo",
+                  "text": "Acest domeniu agricol rural tradițional oferă o privire captivantă asupra practicilor agricole tropicale și a vegetației luxuriante din mediul rural.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.609197,
+                        -8.350158
+                  ]
+            },
+            {
+                  "name": "Iglesia profética mundial morando bajo",
+                  "text": "Comunitatea evanghelică profetică locală se adună în această sală simplă de adunare pentru slujbe carismatice vibrante, pline de muzică.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.589417,
+                        -8.351677
+                  ]
+            },
+            {
+                  "name": "Iglesia adventista del Séptimo día",
+                  "text": "Menținând tradiții stricte de închinare sâmbăta, această capelă adventistă de ziua a șaptea stă ca un punct focal religios liniștit în cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.58831,
+                        -8.352679
+                  ]
+            },
+            {
+                  "name": "Arca de Dios",
+                  "text": "Operând sub un nume care semnifică un refugiu, această slujire evanghelică localizată primește credincioșii în sala sa de rugăciune dedicată din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.589786,
+                        -8.359443
+                  ]
+            },
+            {
+                  "name": "Sagrado Corazón de Jesús",
+                  "text": "Dedicată Inimii Sacre, această parohie catolică de cartier prezintă un altar cu podoabe distincte care servește congregațiilor la slujba zilnică.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.529419,
+                        -8.374169
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de la Fe",
+                  "text": "Bazată pe teologia baptistă, această clădire bisericească robustă de cartier este ancorată de un amvon central care subliniază citirea scripturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.545089,
+                        -8.380811
+                  ]
+            },
+            {
+                  "name": "Iglesia del Movimiento Misionero Mundial Villa el Salvador",
+                  "text": "Situată în sectorul Villa el Salvador, această sală spațioasă a congregației misionare își transmite frecvent predicile evanghelice fervente în stradă.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.549895,
+                        -8.40961
+                  ]
+            },
+            {
+                  "name": "Iglesia de dios de la profecía",
+                  "text": "Funcționând ca un centru spiritual de credință, această filială a Bisericii lui Dumnezeu a Profeției este recunoscută pentru slujbele sale dinamice de trezire în stil penticostal.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.577039,
+                        -8.362101
+                  ]
+            },
+            {
+                  "name": "iglesia advestista del séptimo dia-puerto callao",
+                  "text": "Poziționată în districtul Puerto Callao, această unitate adventistă modestă aduce împreună locuitorii de pe malul râului pentru observări liturgice dedicate sâmbăta.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.574976,
+                        -8.357201
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cristo",
+                  "text": "Evitând decorațiunile ornamentate, această Biserică a lui Hristos se concentrează pur pe învățăturile scripturale în sala sa de întâlnire austeră din punct de vedere funcțional.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.544806,
+                        -8.366441
+                  ]
+            },
+            {
+                  "name": "Fray Martín de Porras",
+                  "text": "Purtând numele celebrului sfânt peruvian, acest sit catolic onorează moștenirea sa cu iconografie devotată vizibilă din navă.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.540117,
+                        -8.373379
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Guadalupe",
+                  "text": "Această parohie mariană expune o reproducere pictată proeminentă a Fecioarei de Guadalupe, atrăgând devotații pentru rugăciunile de seară ale rozariului.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.537587,
+                        -8.398421
+                  ]
+            },
+            {
+                  "name": "Señora de Guadalupe",
+                  "text": "Deservind blocul rezidențial imediat, această mică capelă venerează apariția de la Guadalupe cu un spațiu central al altarului decorat complex.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.555792,
+                        -8.377842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gobierno Regional de Ucayali",
+                  "text": "The Gobierno Regional de Ucayali building in Pucallpa serves as the administrative headquarters directing the governmental affairs of the surrounding Amazon region.",
+                  "category": "historical",
+                  "coords": [
+                        -74.528936,
+                        -8.382734
+                  ]
+            },
+            {
+                  "name": "Usko-Ayar",
+                  "text": "Usko-Ayar is a renowned art center in Pucallpa dedicated to visionary Amazonian painting and the artistic expression of indigenous ecological knowledge.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.540211,
+                        -8.372036
+                  ]
+            },
+            {
+                  "name": "Vicariato Apostólico de Pucallpa",
+                  "text": "The headquarters of the Apostolic Vicariate of Pucallpa serves as the Catholic administrative center coordinating missionary work across the Amazonian lowlands.",
+                  "category": "religious",
+                  "coords": [
+                        -74.529969,
+                        -8.381245
+                  ]
+            },
+            {
+                  "name": "Catedral de Pucallpa",
+                  "text": "The neo-Gothic Catholic cathedral stands out with its striking modern spire and stained glass windows reflecting the Amazonian heritage.",
+                  "category": "religious",
+                  "coords": [
+                        -74.533027,
+                        -8.38383
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Pucallpa",
+                  "text": "This zoological and ecological park serves as a sanctuary for diverse Amazonian wildlife and native tropical plant species.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.556899,
+                        -8.39409
+                  ]
+            },
+            {
+                  "name": "Chosko Maimato",
+                  "text": "This local art gallery showcases traditional and contemporary visual arts reflecting the regional culture.",
+                  "category": "museum",
+                  "coords": [
+                        -74.57515,
+                        -8.354591
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Pucallpa",
+                  "text": "This vibrant urban cultural institution hosts exhibitions and community events celebrating the arts of the Peruvian Amazon.",
+                  "category": "museum",
+                  "coords": [
+                        -74.527828,
+                        -8.381972
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Ucayali",
+                  "text": "The regional institution preserves indigenous Amazonian artifacts, showcasing the deep ethnographic and archaeological history of the Ucayali area.",
+                  "category": "museum",
+                  "coords": [
+                        -74.554465,
+                        -8.39546
+                  ]
+            },
+            {
+                  "name": "Amazon World Travel Service & Tour Operator",
+                  "text": "Operating as both a cultural exhibition space and an expedition hub, this site offers detailed insights into regional jungle tours.",
+                  "category": "museum",
+                  "coords": [
+                        -74.537932,
+                        -8.383247
+                  ]
+            },
+            {
+                  "name": "Desconocido",
+                  "text": "This concrete sculptural monument stands as a prominent urban landmark with an air of mystery surrounding its original dedication.",
+                  "category": "historical",
+                  "coords": [
+                        -74.539074,
+                        -8.382233
+                  ]
+            },
+            {
+                  "name": "Eduardo Mesa Saravia",
+                  "text": "Named after a local figure, this dedicated arts center provides a venue for visual exhibitions and performing arts workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.56962,
+                        -8.375893
+                  ]
+            },
+            {
+                  "name": "Filadelfia",
+                  "text": "This active local congregation gathers in a modest congregational building dedicated to spiritual worship and community fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        -74.587352,
+                        -8.359216
+                  ]
+            },
+            {
+                  "name": "Iglesia pentecostal del séptimo día 3 de octubre",
+                  "text": "A vibrant Pentecostal place of worship, the community hall serves congregants observing the Seventh-day Sabbath traditions.",
+                  "category": "religious",
+                  "coords": [
+                        -74.580954,
+                        -8.357632
+                  ]
+            },
+            {
+                  "name": "Iglesia central de Yarinacocha Movimiento Misionero Mundial",
+                  "text": "Situated in the Yarinacocha district, this prominent evangelical sanctuary is the central meeting point for the World Missionary Movement.",
+                  "category": "religious",
+                  "coords": [
+                        -74.574552,
+                        -8.359897
+                  ]
+            },
+            {
+                  "name": "Iglesia de Corea",
+                  "text": "Featuring distinct cultural architectural touches, this Christian sanctuary provides spiritual services to the local and expatriate Korean community.",
+                  "category": "religious",
+                  "coords": [
+                        -74.550444,
+                        -8.384693
+                  ]
+            },
+            {
+                  "name": "Mercado informal",
+                  "text": "This bustling open-air informal street market is packed with makeshift stalls selling everyday goods, regional produce, and street food.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.538838,
+                        -8.387362
+                  ]
+            },
+            {
+                  "name": "Mercado 3",
+                  "text": "Known locally by its number, this bustling commercial plaza features enclosed vendors trading fresh tropical fruits, meats, and daily essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.541766,
+                        -8.375458
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Yarinacocha",
+                  "text": "Housed in a large municipal pavilion near the lagoon, this vibrant public market is a hub for locally caught river fish and Amazonian harvests.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.576057,
+                        -8.352961
+                  ]
+            },
+            {
+                  "name": "Mercado 2",
+                  "text": "Serving the dense urban neighborhood, this enclosed secondary trading center consists of narrow aisles packed with local food stalls and household vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.533665,
+                        -8.38474
+                  ]
+            },
+            {
+                  "name": "Mercado 1",
+                  "text": "As one of the primary commercial trading halls in the city, the market hums with activity from early morning produce deliveries to late afternoon shoppers.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.528018,
+                        -8.385112
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Operating on a larger wholesale scale, this expansive logistical hub manages bulk distributions of regional agricultural goods and wholesale supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.579048,
+                        -8.401453
+                  ]
+            },
+            {
+                  "name": "Mercado 4 Micaela Bastidas",
+                  "text": "Named after the renowned indigenous pioneer, this community marketplace shelters rows of colorful produce stalls under its corrugated roof.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.551482,
+                        -8.386142
+                  ]
+            },
+            {
+                  "name": "Chacra San Lorenzo",
+                  "text": "This traditional rural agricultural estate provides an immersive glimpse into tropical farming practices and the lush countryside vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.609197,
+                        -8.350158
+                  ]
+            },
+            {
+                  "name": "Iglesia profética mundial morando bajo",
+                  "text": "The local prophetic evangelical community gathers in this simple assembly hall for vibrant, music-filled charismatic services.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.589417,
+                        -8.351677
+                  ]
+            },
+            {
+                  "name": "Iglesia adventista del Séptimo día",
+                  "text": "Maintaining strict Saturday worship traditions, this Seventh-day Adventist chapel stands as a quiet religious focal point in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.58831,
+                        -8.352679
+                  ]
+            },
+            {
+                  "name": "Arca de Dios",
+                  "text": "Operating under a name signifying refuge, this localized evangelical ministry welcomes believers into its dedicated neighborhood prayer room.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.589786,
+                        -8.359443
+                  ]
+            },
+            {
+                  "name": "Sagrado Corazón de Jesús",
+                  "text": "Dedicated to the Sacred Heart, this neighborhood Catholic parish features a distinctly adorned altar that serves daily Mass congregations.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.529419,
+                        -8.374169
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de la Fe",
+                  "text": "Grounded in Baptist theology, this sturdy neighborhood church building is anchored by a central pulpit emphasizing scripture reading.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.545089,
+                        -8.380811
+                  ]
+            },
+            {
+                  "name": "Iglesia del Movimiento Misionero Mundial Villa el Salvador",
+                  "text": "Located within the Villa el Salvador sector, this spacious missionary congregation hall frequently broadcasts its fervent evangelical sermons to the street.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.549895,
+                        -8.40961
+                  ]
+            },
+            {
+                  "name": "Iglesia de dios de la profecía",
+                  "text": "Functioning as a spirited center of faith, this Church of God of Prophecy branch is recognized for its dynamic Pentecostal-style revival services.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.577039,
+                        -8.362101
+                  ]
+            },
+            {
+                  "name": "iglesia advestista del séptimo dia-puerto callao",
+                  "text": "Positioned in the Puerto Callao district, this modest Adventist facility brings together riverfront residents for dedicated Saturday liturgical observances.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.574976,
+                        -8.357201
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cristo",
+                  "text": "Eschewing ornate decoration, this Church of Christ focuses purely on scriptural teachings within its functionally austere meeting room.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.544806,
+                        -8.366441
+                  ]
+            },
+            {
+                  "name": "Fray Martín de Porras",
+                  "text": "Bearing the name of the celebrated Peruvian saint, this Catholic site honors his legacy with devotional iconography visible from the nave.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.540117,
+                        -8.373379
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Guadalupe",
+                  "text": "This Marian parish displays a prominent painted reproduction of the Virgin of Guadalupe, drawing devotees for evening rosary prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.537587,
+                        -8.398421
+                  ]
+            },
+            {
+                  "name": "Señora de Guadalupe",
+                  "text": "Serving the immediate residential block, this small chapel venerates the Guadalupe apparition with an intricately decorated central altar space.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.555792,
+                        -8.377842
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PE-UCA",
     coords: [-74.53, -8.38],
@@ -361,7 +5221,448 @@ export const poiExtraPeruEconomicV2: POI[] = [
     },
   },
   {
-    id: "port-yurimaguas-economic-v2",
+    id: "port-yurimaguas-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "Die Heilig-Kreuz-Pfarrei in Yurimaguas ist ein markantes religiöses Gebäude in dieser Hafenstadt am Amazonas.",
+                  "category": "religious",
+                  "coords": [
+                        -76.109939,
+                        -5.889902
+                  ]
+            },
+            {
+                  "name": "Vicariato Apostólico de Yurimaguas",
+                  "text": "Der Sitz des apostolischen Vikariats von Yurimaguas koordiniert die Missionsarbeit im peruanischen Regenwald.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.104317,
+                        -5.893982
+                  ]
+            },
+            {
+                  "name": "Seminario Cristo Salvador",
+                  "text": "Dieses Priesterseminar in Yurimaguas widmet sich der Ausbildung künftiger Geistlicher für die Region.",
+                  "category": "religious",
+                  "coords": [
+                        -76.110224,
+                        -5.909223
+                  ]
+            },
+            {
+                  "name": "Parroquia Señor de Los Milagros",
+                  "text": "Diese Pfarrei ist dem 'Herrn der Wunder' gewidmet, einem der am meisten verehrten religiösen Bilder Perus.",
+                  "category": "religious",
+                  "coords": [
+                        -76.101522,
+                        -5.901596
+                  ]
+            },
+            {
+                  "name": "Monasterio Carmelita San José",
+                  "text": "Ein kontemplatives Karmeliterkloster in Yurimaguas, das ein Ort der Stille und des Gebets ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.114809,
+                        -5.898004
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Gema",
+                  "text": "Eine charmante Kapelle in Yurimaguas, die der Heiligen Gemma Galgani gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.119499,
+                        -5.900165
+                  ]
+            },
+            {
+                  "name": "Parroquia San Isidro Labrador",
+                  "text": "Diese Pfarrei ist dem Heiligen Isidor dem Bauern gewidmet, dem Schutzpatron der Landwirte in Yurimaguas.",
+                  "category": "religious",
+                  "coords": [
+                        -76.110883,
+                        -5.903458
+                  ]
+            },
+            {
+                  "name": "Capilla Santos Pedro y Pablo",
+                  "text": "Eine Kapelle, die den Aposteln Petrus und Paulus gewidmet ist und die Fischergemeinde von Yurimaguas betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.122134,
+                        -5.894803
+                  ]
+            },
+            {
+                  "name": "Capilla San Gabriel de la Dolorosa",
+                  "text": "Diese Kapelle ist dem Heiligen Gabriel von der schmerzhaften Jungfrau gewidmet, einem Schutzheiligen der Jugend.",
+                  "category": "religious",
+                  "coords": [
+                        -76.115699,
+                        -5.890723
+                  ]
+            },
+            {
+                  "name": "Templo Virgen de las Nieves",
+                  "text": "Ein historischer Tempel in Yurimaguas, der der Jungfrau vom Schnee gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.105056,
+                        -5.895096
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cristo",
+                  "text": "Eine christliche Kirche in Yurimaguas, die für ihre schlichte Architektur und lebhafte Gemeinde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.113828,
+                        -5.90233
+                  ]
+            },
+            {
+                  "name": "Mercado Central Agua Pura",
+                  "text": "Ein lebhafter Marktplatz in der Hafenstadt Yurimaguas, der für frische Produkte aus dem peruanischen Amazonasgebiet bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.124521,
+                        -5.903219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "A Szent Kereszt plébánia Yurimaguasban egy jellegzetes vallási épület ebben az amazóniai kikötővárosban.",
+                  "category": "religious",
+                  "coords": [
+                        -76.109939,
+                        -5.889902
+                  ]
+            },
+            {
+                  "name": "Vicariato Apostólico de Yurimaguas",
+                  "text": "A Yurimaguas-i Apostoli Vikariátus székhelye a perui esőerdő missziós munkáját koordinálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.104317,
+                        -5.893982
+                  ]
+            },
+            {
+                  "name": "Seminario Cristo Salvador",
+                  "text": "Ez a yurimaguas-i papnevelde a régió jövőbeli lelkipásztorainak képzésére szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -76.110224,
+                        -5.909223
+                  ]
+            },
+            {
+                  "name": "Parroquia Señor de Los Milagros",
+                  "text": "Ez a plébánia a 'Csodák Urának' van szentelve, amely Peru egyik legtiszteltebb vallási ábrázolása.",
+                  "category": "religious",
+                  "coords": [
+                        -76.101522,
+                        -5.901596
+                  ]
+            },
+            {
+                  "name": "Monasterio Carmelita San José",
+                  "text": "Szemlélődő karmelita kolostor Yurimaguasban, amely a csend és az ima helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.114809,
+                        -5.898004
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Gema",
+                  "text": "Bájos kápolna Yurimaguasban, amelyet Szent Gemma Galganinak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.119499,
+                        -5.900165
+                  ]
+            },
+            {
+                  "name": "Parroquia San Isidro Labrador",
+                  "text": "Ez a plébánia Dehmel Szent Izidornak, a földművesek védőszentjének van szentelve Yurimaguasban.",
+                  "category": "religious",
+                  "coords": [
+                        -76.110883,
+                        -5.903458
+                  ]
+            },
+            {
+                  "name": "Capilla Santos Pedro y Pablo",
+                  "text": "Péter és Pál apostoloknak szentelt kápolna, amely Yurimaguas halászközösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.122134,
+                        -5.894803
+                  ]
+            },
+            {
+                  "name": "Capilla San Gabriel de la Dolorosa",
+                  "text": "Ez a kápolna Fájdalmas Szűzről nevezett Szent Gábrielnek, az ifjúság védőszentjének van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -76.115699,
+                        -5.890723
+                  ]
+            },
+            {
+                  "name": "Templo Virgen de las Nieves",
+                  "text": "Havas Boldogasszonynak szentelt történelmi templom Yurimaguas városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.105056,
+                        -5.895096
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cristo",
+                  "text": "Yurimaguas-i keresztény templom, amely egyszerű építészetéről és élénk közösségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.113828,
+                        -5.90233
+                  ]
+            },
+            {
+                  "name": "Mercado Central Agua Pura",
+                  "text": "Egy pezsgő piactér Yurimaguas kikötővárosában, amely az Amazonas-vidék friss termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.124521,
+                        -5.903219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "Parohia Sfânta Cruce din Yurimaguas este o clădire religioasă proeminentă în acest oraș-port amazonian.",
+                  "category": "religious",
+                  "coords": [
+                        -76.109939,
+                        -5.889902
+                  ]
+            },
+            {
+                  "name": "Vicariato Apostólico de Yurimaguas",
+                  "text": "Sediul Vicariatului Apostolic din Yurimaguas coordonează activitatea misionară în jungla peruană.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.104317,
+                        -5.893982
+                  ]
+            },
+            {
+                  "name": "Seminario Cristo Salvador",
+                  "text": "Acest seminar teologic din Yurimaguas este dedicat formării viitorilor clerici pentru regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -76.110224,
+                        -5.909223
+                  ]
+            },
+            {
+                  "name": "Parroquia Señor de Los Milagros",
+                  "text": "Această parohie este dedicată „Domnului Minunilor”, una dintre cele mai venerate imagini religioase din Peru.",
+                  "category": "religious",
+                  "coords": [
+                        -76.101522,
+                        -5.901596
+                  ]
+            },
+            {
+                  "name": "Monasterio Carmelita San José",
+                  "text": "O mănăstire carmelită contemplativă în Yurimaguas, fiind un loc de liniște și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.114809,
+                        -5.898004
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Gema",
+                  "text": "O capelă fermecătoare în Yurimaguas, dedicată Sfintei Gemma Galgani.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.119499,
+                        -5.900165
+                  ]
+            },
+            {
+                  "name": "Parroquia San Isidro Labrador",
+                  "text": "Această parohie este dedicată Sfântului Isidor Plugarul, patronul agricultorilor din Yurimaguas.",
+                  "category": "religious",
+                  "coords": [
+                        -76.110883,
+                        -5.903458
+                  ]
+            },
+            {
+                  "name": "Capilla Santos Pedro y Pablo",
+                  "text": "O capelă dedicată Sfinților Apostoli Petru și Pavel, deservind comunitatea de pescari din Yurimaguas.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.122134,
+                        -5.894803
+                  ]
+            },
+            {
+                  "name": "Capilla San Gabriel de la Dolorosa",
+                  "text": "Această capelă este dedicată Sfântului Gabriel al Maicii Îndurerate, un sfânt patron al tineretului.",
+                  "category": "religious",
+                  "coords": [
+                        -76.115699,
+                        -5.890723
+                  ]
+            },
+            {
+                  "name": "Templo Virgen de las Nieves",
+                  "text": "Un templu istoric în Yurimaguas, dedicat Fecioarei Zăpezii.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.105056,
+                        -5.895096
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cristo",
+                  "text": "O biserică creștină din Yurimaguas, cunoscută pentru arhitectura sa simplă și comunitatea vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.113828,
+                        -5.90233
+                  ]
+            },
+            {
+                  "name": "Mercado Central Agua Pura",
+                  "text": "O piață plină de viață în orașul portuar Yurimaguas, cunoscută pentru produsele proaspete din regiunea amazoniană a Peru.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.124521,
+                        -5.903219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parroquia La Santa Cruz",
+                  "text": "The Holy Cross Parish in Yurimaguas is a prominent religious building in this Amazonian port city.",
+                  "category": "religious",
+                  "coords": [
+                        -76.109939,
+                        -5.889902
+                  ]
+            },
+            {
+                  "name": "Vicariato Apostólico de Yurimaguas",
+                  "text": "The seat of the Apostolic Vicariate of Yurimaguas coordinates missionary work in the Peruvian rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.104317,
+                        -5.893982
+                  ]
+            },
+            {
+                  "name": "Seminario Cristo Salvador",
+                  "text": "This theological seminary in Yurimaguas is dedicated to training future clergy for the region.",
+                  "category": "religious",
+                  "coords": [
+                        -76.110224,
+                        -5.909223
+                  ]
+            },
+            {
+                  "name": "Parroquia Señor de Los Milagros",
+                  "text": "This parish is dedicated to the 'Lord of Miracles', one of the most revered religious icons in Peru.",
+                  "category": "religious",
+                  "coords": [
+                        -76.101522,
+                        -5.901596
+                  ]
+            },
+            {
+                  "name": "Monasterio Carmelita San José",
+                  "text": "A contemplative Carmelite monastery in Yurimaguas, serving as a site of silence and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.114809,
+                        -5.898004
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Gema",
+                  "text": "A charming chapel in Yurimaguas dedicated to Saint Gemma Galgani.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.119499,
+                        -5.900165
+                  ]
+            },
+            {
+                  "name": "Parroquia San Isidro Labrador",
+                  "text": "This parish is dedicated to Saint Isidore the Laborer, the patron saint of farmers in Yurimaguas.",
+                  "category": "religious",
+                  "coords": [
+                        -76.110883,
+                        -5.903458
+                  ]
+            },
+            {
+                  "name": "Capilla Santos Pedro y Pablo",
+                  "text": "A chapel dedicated to Saints Peter and Paul, serving the fishing community of Yurimaguas.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.122134,
+                        -5.894803
+                  ]
+            },
+            {
+                  "name": "Capilla San Gabriel de la Dolorosa",
+                  "text": "This chapel is dedicated to Saint Gabriel of Our Lady of Sorrows, a patron saint of youth.",
+                  "category": "religious",
+                  "coords": [
+                        -76.115699,
+                        -5.890723
+                  ]
+            },
+            {
+                  "name": "Templo Virgen de las Nieves",
+                  "text": "A historic temple in Yurimaguas dedicated to the Virgin of the Snows.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.105056,
+                        -5.895096
+                  ]
+            },
+            {
+                  "name": "Iglesia de Cristo",
+                  "text": "A Christian church in Yurimaguas known for its simple architecture and vibrant congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.113828,
+                        -5.90233
+                  ]
+            },
+            {
+                  "name": "Mercado Central Agua Pura",
+                  "text": "A vibrant marketplace in the port city of Yurimaguas, known for fresh products from the Peruvian Amazon region.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.124521,
+                        -5.903219
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "PE-LOR",
     coords: [-76.11, -5.9],
@@ -406,7 +5707,52 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/port-yurimaguas-economic-v2.webp"
   },
   {
-    id: "ind-antamina-economic-v2",
+    id: "ind-antamina-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Condor Tocllana",
+                  "text": "Ein hoher Andengipfel in der Cordillera Blanca in der Nähe der Antamina-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -76.962001,
+                        -9.528838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Condor Tocllana",
+                  "text": "Egy magas andoki hegycsúcs a Cordillera Blanca hegységben, az Antamina régió közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -76.962001,
+                        -9.528838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Condor Tocllana",
+                  "text": "Un vârf andin înalt din Cordillera Blanca, în apropiere de regiunea Antamina.",
+                  "category": "natural",
+                  "coords": [
+                        -76.962001,
+                        -9.528838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Condor Tocllana",
+                  "text": "An Andean mountain peak rising high in the Cordillera Blanca near the Antamina region.",
+                  "category": "natural",
+                  "coords": [
+                        -76.962001,
+                        -9.528838
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-ANC",
     coords: [-77.05, -9.53],
@@ -451,7 +5797,88 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-antamina-economic-v2.webp"
   },
   {
-    id: "ind-cerroverde-economic-v2",
+    id: "ind-cerroverde-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cristo Redentor",
+                  "text": "Eine hoch aufragende Christusstatue mit ausgebreiteten Armen auf einem Hügel, die über die umliegende trockene Landschaft blickt.",
+                  "category": "historical",
+                  "coords": [
+                        -71.616316,
+                        -16.450358
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen de Congata",
+                  "text": "Ein tief verehrter religiöser Schrein in der Stadt Congata, wo Einheimische jährliche Prozessionen für die Jungfrau vom Berge Karmel abhalten.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.619583,
+                        -16.444689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cristo Redentor",
+                  "text": "Egy magasba törő, kitárt karú Krisztus-szobor a hegytetőn, amely a környező száraz tájra néz.",
+                  "category": "historical",
+                  "coords": [
+                        -71.616316,
+                        -16.450358
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen de Congata",
+                  "text": "Congata városának mélyen tisztelt vallási kegyhelye, ahol a helyiek évente körmenetet tartanak a Kármelhegyi Boldogasszony tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.619583,
+                        -16.444689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cristo Redentor",
+                  "text": "O statuie impunătoare pe vârful dealului a lui Hristos cu brațele întinse, care domină peisajul arid înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        -71.616316,
+                        -16.450358
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen de Congata",
+                  "text": "Un altar religios profund venerat în orașul Congata, unde localnicii organizează procesiuni anuale pentru Fecioara de pe Muntele Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.619583,
+                        -16.444689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cristo Redentor",
+                  "text": "A towering hilltop statue of Christ with outstretched arms that overlooks the surrounding arid landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -71.616316,
+                        -16.450358
+                  ]
+            },
+            {
+                  "name": "Virgen del Carmen de Congata",
+                  "text": "A deeply venerated religious shrine in the town of Congata where locals hold annual processions for the Virgin of Mount Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.619583,
+                        -16.444689
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-ARE",
     coords: [-71.59, -16.53],
@@ -586,7 +6013,52 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-cuajone-economic-v2.webp"
   },
   {
-    id: "ind-toquepala-economic-v2",
+    id: "ind-toquepala-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia Santa Fortunata",
+                  "text": "Die Kirche Santa Fortunata in Moquegua beherbergt die Reliquien der Heiligen und ist ein zentraler Wallfahrtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.632059,
+                        -17.279744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia Santa Fortunata",
+                  "text": "A moqueguai Santa Fortunata-templom őrzi a szent ereklyéit, és központi zarándokhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.632059,
+                        -17.279744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia Santa Fortunata",
+                  "text": "Biserica Santa Fortunata din Moquegua adăpostește moaștele sfintei și este un loc central de pelerinaj.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.632059,
+                        -17.279744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia Santa Fortunata",
+                  "text": "The Santa Fortunata church in Moquegua houses the relics of the saint and is a central pilgrimage site.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.632059,
+                        -17.279744
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-TAC",
     coords: [-70.61, -17.25],
@@ -676,7 +6148,700 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-yanacocha-economic-v2.webp"
   },
   {
-    id: "ind-toromocho-economic-v2",
+    id: "ind-toromocho-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Inka Kancha",
+                  "text": "Dieser bemerkenswerte Andengipfel bietet anspruchsvolle alpine Aufstiege und einen weiten Blick über die zerklüftete hochgelegene Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -76.240793,
+                        -11.582698
+                  ]
+            },
+            {
+                  "name": "Qanchis Kancha",
+                  "text": "Ein markanter Berggipfel in den Anden, bekannt für seine steilen Felswände und sein raues, windiges alpines Umfeld.",
+                  "category": "natural",
+                  "coords": [
+                        -76.246726,
+                        -11.632292
+                  ]
+            },
+            {
+                  "name": "Chuqi Chukchu",
+                  "text": "Dieser markante Andengipfel sticht durch seine dramatische Höhe und die schneebedeckten Grate über der Bergbauregion hervor.",
+                  "category": "natural",
+                  "coords": [
+                        -76.215492,
+                        -11.656637
+                  ]
+            },
+            {
+                  "name": "Putka",
+                  "text": "Ein bekannter Berggipfel in der Region Lima, der Bergsteiger an seine steilen, anspruchsvollen Felshänge lockt.",
+                  "category": "natural",
+                  "coords": [
+                        -76.214095,
+                        -11.686138
+                  ]
+            },
+            {
+                  "name": "Wayrakancha",
+                  "text": "Dieser hohe Andengipfel zeichnet sich durch seine ständigen Höhenwinde und das karge, felsige Gelände aus.",
+                  "category": "natural",
+                  "coords": [
+                        -76.197127,
+                        -11.690351
+                  ]
+            },
+            {
+                  "name": "Paraqti",
+                  "text": "Ein beeindruckender Berggipfel, der Wanderern und Bergsteigern weite Ausblicke über die umliegenden tiefen Andentäler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -76.197991,
+                        -11.652544
+                  ]
+            },
+            {
+                  "name": "Chinchirusa",
+                  "text": "Dieser markante Andenberg weist ein zerklüftetes topografisches Relief auf und erfordert von Besuchern einen anspruchsvollen alpinen Aufstieg.",
+                  "category": "natural",
+                  "coords": [
+                        -76.191666,
+                        -11.634701
+                  ]
+            },
+            {
+                  "name": "Jirishmachay",
+                  "text": "Ein anerkannter hochgelegener Gipfel in der Region, der weite Teile unberührter, rauer Andenwildnis überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -76.217751,
+                        -11.613982
+                  ]
+            },
+            {
+                  "name": "Tictimachay",
+                  "text": "Ein beeindruckender Andengipfel, bekannt für seine imposanten Felsformationen und seine exponierte Höhenlage.",
+                  "category": "natural",
+                  "coords": [
+                        -76.219928,
+                        -11.603987
+                  ]
+            },
+            {
+                  "name": "Tikti Mach'ay",
+                  "text": "Dieser markante Berggipfel bietet dramatische Ausblicke über das raue und extrem hoch gelegene alpine Gelände der Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -76.213821,
+                        -11.594023
+                  ]
+            },
+            {
+                  "name": "Sillaqaqa",
+                  "text": "Ein markanter Berggipfel, der sich durch seine sattelartigen Felsformationen und weite Ausblicke auf das Hochland auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -76.23794,
+                        -11.569565
+                  ]
+            },
+            {
+                  "name": "Pukaqucha",
+                  "text": "Dieser hohe Andengipfel überragt eine raue alpine Landschaft und hat seinen Namen von einem nahegelegenen rötlichen Bergsee.",
+                  "category": "natural",
+                  "coords": [
+                        -76.226291,
+                        -11.561164
+                  ]
+            },
+            {
+                  "name": "Yuraqqucha",
+                  "text": "Ein hoch aufragender Berggipfel, der die Skyline von Lima-Junín dominiert und nach einem hellen Alpensee benannt ist, der an seinen Hängen liegt.",
+                  "category": "natural",
+                  "coords": [
+                        -76.218697,
+                        -11.573475
+                  ]
+            },
+            {
+                  "name": "Yanasinqa",
+                  "text": "Dieser dramatische Andengipfel ist bekannt für seine dunklen, hoch aufragenden Felswände, die sich scharf vom Himmel abheben.",
+                  "category": "natural",
+                  "coords": [
+                        -76.172872,
+                        -11.579276
+                  ]
+            },
+            {
+                  "name": "Anticona",
+                  "text": "Ein berühmter hochgelegener Berggipfel in der Nähe eines wichtigen Andenpasses, bekannt für sein raues Klima und seine schneebedeckten Grate.",
+                  "category": "natural",
+                  "coords": [
+                        -76.18109,
+                        -11.585119
+                  ]
+            },
+            {
+                  "name": "Arco de Ticlio",
+                  "text": "Ein hoch gelegener monumentaler Bogen, der den rauen Andenpass nahe dem Bergbaugebiet Toromocho markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.192035,
+                        -11.598459
+                  ]
+            },
+            {
+                  "name": "Shawaq",
+                  "text": "Ein markanter Andengipfel, der sich über die hochgelegene Landschaft der Region Toromocho erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -76.164703,
+                        -11.563429
+                  ]
+            },
+            {
+                  "name": "Killa Wañunan",
+                  "text": "Ein rauer Berggipfel in den Anden, der einen weiten Blick über die hoch gelegene Landschaft von Toromocho bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -76.131249,
+                        -11.629993
+                  ]
+            },
+            {
+                  "name": "Mit'u",
+                  "text": "Ein steiler Berggipfel in den Anden, der die zerklüftete Skyline in der Nähe des Bergbaubezirks Toromocho dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        -76.16655,
+                        -11.535479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inka Kancha",
+                  "text": "Ez a nevezetes andoki hegycsúcs kihívást jelentő alpesi emelkedőket és pazar kilátást kínál a zord, magaslati tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -76.240793,
+                        -11.582698
+                  ]
+            },
+            {
+                  "name": "Qanchis Kancha",
+                  "text": "Kiemelkedő hegycsúcs az Andokban, amely meredek sziklafalairól és zord, szeles alpesi környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -76.246726,
+                        -11.632292
+                  ]
+            },
+            {
+                  "name": "Chuqi Chukchu",
+                  "text": "Ez a lenyűgöző andoki csúcs drámai magasságával és a bányavidék fölé magasodó, hóval borított hegygerinceivel tűnik ki.",
+                  "category": "natural",
+                  "coords": [
+                        -76.215492,
+                        -11.656637
+                  ]
+            },
+            {
+                  "name": "Putka",
+                  "text": "A Lima régió egyik híres hegycsúcsa, amely meredek, kihívást jelentő sziklás lejtőivel vonzza a hegymászókat.",
+                  "category": "natural",
+                  "coords": [
+                        -76.214095,
+                        -11.686138
+                  ]
+            },
+            {
+                  "name": "Wayrakancha",
+                  "text": "Ezt a magas andoki csúcsot az állandó magaslati szelek és a kopár, sziklás terep jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        -76.197127,
+                        -11.690351
+                  ]
+            },
+            {
+                  "name": "Paraqti",
+                  "text": "Félelmetes hegycsúcs, amely hatalmas kilátást nyújt a túrázóknak és a hegymászóknak a környező mély andoki völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -76.197991,
+                        -11.652544
+                  ]
+            },
+            {
+                  "name": "Chinchirusa",
+                  "text": "Ez a kiemelkedő andoki hegy zord domborzati formákkal rendelkezik, és kihívást jelentő alpesi mászást követel meg a látogatóktól.",
+                  "category": "natural",
+                  "coords": [
+                        -76.191666,
+                        -11.634701
+                  ]
+            },
+            {
+                  "name": "Jirishmachay",
+                  "text": "A régió elismert magaslati csúcsa, amely hatalmas, érintetlen, zord andoki vadonra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -76.217751,
+                        -11.613982
+                  ]
+            },
+            {
+                  "name": "Tictimachay",
+                  "text": "Lenyűgöző andoki csúcs, amely impozáns sziklaképződményeiről és kitett, magaslati környezetéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -76.219928,
+                        -11.603987
+                  ]
+            },
+            {
+                  "name": "Tikti Mach'ay",
+                  "text": "Ez a kiemelkedő hegycsúcs drámai kilátást nyújt az Andok zord és magasan fekvő alpesi terepére.",
+                  "category": "natural",
+                  "coords": [
+                        -76.213821,
+                        -11.594023
+                  ]
+            },
+            {
+                  "name": "Sillaqaqa",
+                  "text": "Jellegzetes hegycsúcs, amelyet nyeregszerű sziklás képződményei és a felvidékre nyíló pazar kilátás jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -76.23794,
+                        -11.569565
+                  ]
+            },
+            {
+                  "name": "Pukaqucha",
+                  "text": "Ez a magas andoki csúcs a zord alpesi táj fölé magasodik, és a nevét egy közeli vöröses árnyalatú hegyi tóról kapta.",
+                  "category": "natural",
+                  "coords": [
+                        -76.226291,
+                        -11.561164
+                  ]
+            },
+            {
+                  "name": "Yuraqqucha",
+                  "text": "A Lima-Junín horizontját uraló, tornyosuló hegycsúcs, amely a lejtőin megbúvó világos alpesi tóról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -76.218697,
+                        -11.573475
+                  ]
+            },
+            {
+                  "name": "Yanasinqa",
+                  "text": "Ez a drámai andoki csúcs sötét, tornyosuló sziklafalairól híres, amelyek élesen elütnek az égbolttól.",
+                  "category": "natural",
+                  "coords": [
+                        -76.172872,
+                        -11.579276
+                  ]
+            },
+            {
+                  "name": "Anticona",
+                  "text": "Egy jelentős andoki hágó közelében fekvő, híres magaslati hegycsúcs, amely kihívást jelentő klímájáról és havas hegygerinceiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -76.18109,
+                        -11.585119
+                  ]
+            },
+            {
+                  "name": "Arco de Ticlio",
+                  "text": "Egy magasan fekvő monumentális diadalív, amely a Toromocho bányászati ​​terület közelében lévő andoki hegyi hágót jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.192035,
+                        -11.598459
+                  ]
+            },
+            {
+                  "name": "Shawaq",
+                  "text": "Egy kiemelkedő andoki hegycsúcs, amely a Toromocho régió magasan fekvő tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -76.164703,
+                        -11.563429
+                  ]
+            },
+            {
+                  "name": "Killa Wañunan",
+                  "text": "Egy zord andoki hegycsúcs, amely nagyszerű kilátást nyújt a környező magaslati Toromocho tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -76.131249,
+                        -11.629993
+                  ]
+            },
+            {
+                  "name": "Mit'u",
+                  "text": "Egy meredek andoki hegycsúcs, amely a Toromocho bányavidék közelében lévő zord sziluettet uralja.",
+                  "category": "natural",
+                  "coords": [
+                        -76.16655,
+                        -11.535479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inka Kancha",
+                  "text": "Acest remarcabil vârf montan andin oferă ascensiuni alpine provocatoare și vederi panoramice ale peisajului accidentat de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -76.240793,
+                        -11.582698
+                  ]
+            },
+            {
+                  "name": "Qanchis Kancha",
+                  "text": "Un vârf montan proeminent din Anzi, cunoscut pentru fețele sale stâncoase abrupte și mediul alpin aspru și vântos.",
+                  "category": "natural",
+                  "coords": [
+                        -76.246726,
+                        -11.632292
+                  ]
+            },
+            {
+                  "name": "Chuqi Chukchu",
+                  "text": "Acest vârf andin izbitor iese în evidență prin altitudinea sa dramatică și crestele acoperite de zăpadă deasupra regiunii miniere.",
+                  "category": "natural",
+                  "coords": [
+                        -76.215492,
+                        -11.656637
+                  ]
+            },
+            {
+                  "name": "Putka",
+                  "text": "Un renumit vârf de munte din regiunea Lima, care atrage alpiniștii pe versanții săi stâncoși abrupți și provocatori.",
+                  "category": "natural",
+                  "coords": [
+                        -76.214095,
+                        -11.686138
+                  ]
+            },
+            {
+                  "name": "Wayrakancha",
+                  "text": "Acest vârf andin înalt se caracterizează prin vânturile sale constante de mare altitudine și terenul arid, stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        -76.197127,
+                        -11.690351
+                  ]
+            },
+            {
+                  "name": "Paraqti",
+                  "text": "Un vârf montan formidabil care oferă excursioniștilor și alpiniștilor vederi întinse asupra văilor adânci andine din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -76.197991,
+                        -11.652544
+                  ]
+            },
+            {
+                  "name": "Chinchirusa",
+                  "text": "Acest munte andin proeminent prezintă un relief topografic accidentat și necesită o ascensiune alpină provocatoare din partea vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        -76.191666,
+                        -11.634701
+                  ]
+            },
+            {
+                  "name": "Jirishmachay",
+                  "text": "Un vârf recunoscut de mare altitudine din regiune, cu vedere la întinderi vaste de sălbăticie andină accidentată și neatinsă.",
+                  "category": "natural",
+                  "coords": [
+                        -76.217751,
+                        -11.613982
+                  ]
+            },
+            {
+                  "name": "Tictimachay",
+                  "text": "Un summit andin impresionant renumit pentru formațiunile sale stâncoase impunătoare și mediul expus de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -76.219928,
+                        -11.603987
+                  ]
+            },
+            {
+                  "name": "Tikti Mach'ay",
+                  "text": "Acest vârf montan proeminent oferă priveliști dramatice peste terenul alpin accidentat și foarte înalt al Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -76.213821,
+                        -11.594023
+                  ]
+            },
+            {
+                  "name": "Sillaqaqa",
+                  "text": "Un vârf de munte distinctiv, caracterizat prin formațiunile sale stâncoase în formă de șa și vederi panoramice ale ținutului muntos.",
+                  "category": "natural",
+                  "coords": [
+                        -76.23794,
+                        -11.569565
+                  ]
+            },
+            {
+                  "name": "Pukaqucha",
+                  "text": "Acest vârf andin înalt se înalță deasupra unui peisaj alpin accidentat și își trage numele de la un lac de munte din apropiere cu nuanțe roșii.",
+                  "category": "natural",
+                  "coords": [
+                        -76.226291,
+                        -11.561164
+                  ]
+            },
+            {
+                  "name": "Yuraqqucha",
+                  "text": "Un vârf montan impunător care domină orizontul Lima-Junín, numit după un lac alpin luminos cuibărit pe versanții săi.",
+                  "category": "natural",
+                  "coords": [
+                        -76.218697,
+                        -11.573475
+                  ]
+            },
+            {
+                  "name": "Yanasinqa",
+                  "text": "Acest vârf andin dramatic este renumit pentru fețele sale de stâncă întunecate și impunătoare, care ies în evidență pe fundalul cerului.",
+                  "category": "natural",
+                  "coords": [
+                        -76.172872,
+                        -11.579276
+                  ]
+            },
+            {
+                  "name": "Anticona",
+                  "text": "Un faimos vârf de munte de mare altitudine din apropierea unei trecători majore andine, renumit pentru clima sa provocatoare și crestele acoperite de zăpadă.",
+                  "category": "natural",
+                  "coords": [
+                        -76.18109,
+                        -11.585119
+                  ]
+            },
+            {
+                  "name": "Arco de Ticlio",
+                  "text": "Un arc monumental de mare altitudine care marchează trecătoarea andină din apropierea zonei miniere Toromocho.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.192035,
+                        -11.598459
+                  ]
+            },
+            {
+                  "name": "Shawaq",
+                  "text": "Un vârf montan proeminent din Anzi, care se înalță deasupra peisajului de mare altitudine din regiunea Toromocho.",
+                  "category": "natural",
+                  "coords": [
+                        -76.164703,
+                        -11.563429
+                  ]
+            },
+            {
+                  "name": "Killa Wañunan",
+                  "text": "Un vârf stâncos din Anzi care oferă vederi panoramice asupra peisajului înalt din jurul minei Toromocho.",
+                  "category": "natural",
+                  "coords": [
+                        -76.131249,
+                        -11.629993
+                  ]
+            },
+            {
+                  "name": "Mit'u",
+                  "text": "Un vârf abrupt din Anzi care domină orizontul accidentat din apropierea districtului minier Toromocho.",
+                  "category": "natural",
+                  "coords": [
+                        -76.16655,
+                        -11.535479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inka Kancha",
+                  "text": "This notable Andean mountain peak offers challenging alpine ascents and sweeping views of the rugged high-altitude landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -76.240793,
+                        -11.582698
+                  ]
+            },
+            {
+                  "name": "Qanchis Kancha",
+                  "text": "A prominent mountain peak in the Andes, known for its sheer rocky faces and harsh, windy alpine environment.",
+                  "category": "natural",
+                  "coords": [
+                        -76.246726,
+                        -11.632292
+                  ]
+            },
+            {
+                  "name": "Chuqi Chukchu",
+                  "text": "This striking Andean peak stands out with its dramatic elevation and snow-dusted ridges above the mining region.",
+                  "category": "natural",
+                  "coords": [
+                        -76.215492,
+                        -11.656637
+                  ]
+            },
+            {
+                  "name": "Putka",
+                  "text": "A renowned mountain peak in the Lima region that attracts climbers to its steep, challenging rocky slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -76.214095,
+                        -11.686138
+                  ]
+            },
+            {
+                  "name": "Wayrakancha",
+                  "text": "This elevated Andean peak is characterized by its constant high-altitude winds and barren, rocky terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -76.197127,
+                        -11.690351
+                  ]
+            },
+            {
+                  "name": "Paraqti",
+                  "text": "A formidable mountain peak offering hikers and mountaineers expansive views over the surrounding deep Andean valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -76.197991,
+                        -11.652544
+                  ]
+            },
+            {
+                  "name": "Chinchirusa",
+                  "text": "This prominent Andean mountain features rugged topographical relief and demands a challenging alpine ascent from visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -76.191666,
+                        -11.634701
+                  ]
+            },
+            {
+                  "name": "Jirishmachay",
+                  "text": "A recognized high-altitude peak in the region that overlooks vast stretches of untouched, rugged Andean wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -76.217751,
+                        -11.613982
+                  ]
+            },
+            {
+                  "name": "Tictimachay",
+                  "text": "An impressive Andean summit renowned for its imposing rock formations and exposed high-elevation environment.",
+                  "category": "natural",
+                  "coords": [
+                        -76.219928,
+                        -11.603987
+                  ]
+            },
+            {
+                  "name": "Tikti Mach'ay",
+                  "text": "This prominent mountain peak offers dramatic vistas across the rugged and highly elevated alpine terrain of the Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -76.213821,
+                        -11.594023
+                  ]
+            },
+            {
+                  "name": "Sillaqaqa",
+                  "text": "A distinctive mountain peak characterized by its saddle-like rocky formations and sweeping highland views.",
+                  "category": "natural",
+                  "coords": [
+                        -76.23794,
+                        -11.569565
+                  ]
+            },
+            {
+                  "name": "Pukaqucha",
+                  "text": "This high Andean peak towers over a rugged alpine landscape and draws its name from a nearby red-hued mountain lake.",
+                  "category": "natural",
+                  "coords": [
+                        -76.226291,
+                        -11.561164
+                  ]
+            },
+            {
+                  "name": "Yuraqqucha",
+                  "text": "A towering mountain peak that dominates the Lima-Junín skyline, named after a bright alpine lake nestled in its slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -76.218697,
+                        -11.573475
+                  ]
+            },
+            {
+                  "name": "Yanasinqa",
+                  "text": "This dramatic Andean peak is renowned for its dark, towering rock faces that stand out starkly against the sky.",
+                  "category": "natural",
+                  "coords": [
+                        -76.172872,
+                        -11.579276
+                  ]
+            },
+            {
+                  "name": "Anticona",
+                  "text": "A famous high-altitude mountain peak near a major Andean pass, renowned for its challenging climate and snowy ridges.",
+                  "category": "natural",
+                  "coords": [
+                        -76.18109,
+                        -11.585119
+                  ]
+            },
+            {
+                  "name": "Arco de Ticlio",
+                  "text": "A high-altitude monumental archway marking the rugged Andean mountain pass near the Toromocho mining area.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.192035,
+                        -11.598459
+                  ]
+            },
+            {
+                  "name": "Shawaq",
+                  "text": "A prominent Andean mountain peak rising above the high-altitude landscape of the Toromocho region.",
+                  "category": "natural",
+                  "coords": [
+                        -76.164703,
+                        -11.563429
+                  ]
+            },
+            {
+                  "name": "Killa Wañunan",
+                  "text": "A rugged Andean mountain peak offering commanding views over the surrounding high-altitude Toromocho landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -76.131249,
+                        -11.629993
+                  ]
+            },
+            {
+                  "name": "Mit'u",
+                  "text": "A steep Andean mountain summit dominating the rugged skyline near the Toromocho mining district.",
+                  "category": "natural",
+                  "coords": [
+                        -76.16655,
+                        -11.535479
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-JUN",
     coords: [-76.17, -11.61],
@@ -766,7 +6931,52 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-quellaveco-economic-v2.webp"
   },
   {
-    id: "ind-constancia-economic-v2",
+    id: "ind-constancia-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hatun Urqu",
+                  "text": "Diese gewaltige Felsformation, deren Name auf Quechua 'Großer Berg' bedeutet, dominiert die umliegende andine Hochlandlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -71.801665,
+                        -14.519476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hatun Urqu",
+                  "text": "A kecsua nyelven 'Nagy Hegyet' jelentő hatalmas sziklás magaslat uralja a környező andoki fennsík táját.",
+                  "category": "natural",
+                  "coords": [
+                        -71.801665,
+                        -14.519476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hatun Urqu",
+                  "text": "Tradus ca „Muntele Mare” în limba quechua, această proeminență stâncoasă masivă domină peisajul montan andin înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -71.801665,
+                        -14.519476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hatun Urqu",
+                  "text": "Translating to 'Great Mountain' in Quechua, this massive rocky prominence dominates the surrounding Andean highland landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.801665,
+                        -14.519476
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-CUS",
     coords: [-71.78, -14.44],
@@ -856,7 +7066,52 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-lagunasnorte-economic-v2.webp"
   },
   {
-    id: "ind-laarena-economic-v2",
+    id: "ind-laarena-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aguas Termales de Yanasara",
+                  "text": "Heiße Quellen in einem malerischen Andental mit verschiedenen Becken für medizinische und therapeutische Bäder.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.908825,
+                        -7.815376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aguas Termales de Yanasara",
+                  "text": "Egy festői andoki völgyben fekvő hévízforrás, amely különböző hőmérsékletű medencéket kínál gyógyászati célokra.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.908825,
+                        -7.815376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aguas Termales de Yanasara",
+                  "text": "Izvoare termale situate într-o vale pitorească din Anzi, oferind bazine cu temperaturi diferite pentru băi medicinale.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.908825,
+                        -7.815376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yanasara Thermal Baths`",
+                  "text": "Hot springs located in a scenic Andean valley, featuring several pools with varying temperatures for medicinal soaking.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.908825,
+                        -7.815376
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-LAL",
     coords: [-77.85, -7.83],
@@ -1034,7 +7289,232 @@ export const poiExtraPeruEconomicV2: POI[] = [
     },
   },
   {
-    id: "ind-talara-economic-v2",
+    id: "ind-talara-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de Talara",
+                  "text": "Ein maritimer Leuchtturm in Talara, der Schiffen an der Pazifikküste den Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.284666,
+                        -4.574372
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein lokales Gotteshaus, das der mormonischen Gemeinde in Talara dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.268836,
+                        -4.579374
+                  ]
+            },
+            {
+                  "name": "Parroquia La Inmaculada",
+                  "text": "Eine christliche Pfarrkirche in Talara, die der Unbefleckten Empfängnis gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.271818,
+                        -4.580348
+                  ]
+            },
+            {
+                  "name": "Mercado Acapulco",
+                  "text": "Ein belebter Nachbarschaftsmarkt in Talara, der frische regionale Produkte anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.273221,
+                        -4.572772
+                  ]
+            },
+            {
+                  "name": "Mercado Central Talara",
+                  "text": "Der städtische Hauptmarkt in Talara, auf dem Einheimische ihre täglichen Lebensmittel und Waren einkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.2701,
+                        -4.579653
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Negritos",
+                  "text": "Ein öffentlicher Markt, der den Bezirk Negritos in Talara mit Ständen für frische Lebensmittel versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.304087,
+                        -4.652863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de Talara",
+                  "text": "Egy tengeri világítótorony Talarában, amely a csendes-óceáni partvidéken hajózókat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.284666,
+                        -4.574372
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A helyi mormon közösséget szolgáló istentiszteleti hely Talarában.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.268836,
+                        -4.579374
+                  ]
+            },
+            {
+                  "name": "Parroquia La Inmaculada",
+                  "text": "Egy keresztény plébániatemplom Talarában, amelyet a Szeplőtelen Fogantatásnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.271818,
+                        -4.580348
+                  ]
+            },
+            {
+                  "name": "Mercado Acapulco",
+                  "text": "Egy nyüzsgő környékbeli piac Talarában, amely friss regionális termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.273221,
+                        -4.572772
+                  ]
+            },
+            {
+                  "name": "Mercado Central Talara",
+                  "text": "Talara fő városi piaca, ahol a helyiek napi élelmiszereket és árukat vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.2701,
+                        -4.579653
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Negritos",
+                  "text": "Egy nyilvános piac, amely Talara Negritos kerületét látja el friss élelmiszereket árusító standokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.304087,
+                        -4.652863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de Talara",
+                  "text": "Un far maritim din Talara care ghidează navele ce navighează pe coasta Pacificului.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.284666,
+                        -4.574372
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Un lăcaș de cult local care deservește comunitatea sfinților din zilele din urmă din Talara.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.268836,
+                        -4.579374
+                  ]
+            },
+            {
+                  "name": "Parroquia La Inmaculada",
+                  "text": "O biserică parohială creștină din Talara, dedicată Imaculatei Concepții.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.271818,
+                        -4.580348
+                  ]
+            },
+            {
+                  "name": "Mercado Acapulco",
+                  "text": "O piață de cartier plină de viață din Talara, care oferă produse regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.273221,
+                        -4.572772
+                  ]
+            },
+            {
+                  "name": "Mercado Central Talara",
+                  "text": "Piața municipală principală din Talara, unde localnicii cumpără alimente și bunuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.2701,
+                        -4.579653
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Negritos",
+                  "text": "O piață publică ce deservește districtul Negritos din Talara cu tarabe de alimente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.304087,
+                        -4.652863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de Talara",
+                  "text": "A maritime lighthouse in Talara guiding ships navigating the Pacific coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.284666,
+                        -4.574372
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A local place of worship serving the Latter-day Saint community in Talara.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.268836,
+                        -4.579374
+                  ]
+            },
+            {
+                  "name": "Parroquia La Inmaculada",
+                  "text": "A Christian parish church in Talara dedicated to the Immaculate Conception.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.271818,
+                        -4.580348
+                  ]
+            },
+            {
+                  "name": "Mercado Acapulco",
+                  "text": "A bustling neighborhood marketplace in Talara offering fresh regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.273221,
+                        -4.572772
+                  ]
+            },
+            {
+                  "name": "Mercado Central Talara",
+                  "text": "The primary municipal market in Talara where locals purchase daily groceries and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.2701,
+                        -4.579653
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Negritos",
+                  "text": "A public market serving the Negritos district of Talara with fresh food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.304087,
+                        -4.652863
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-PIU",
     coords: [-81.27, -4.57],
@@ -1079,7 +7559,1384 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-talara-economic-v2.webp"
   },
   {
-    id: "ind-lapampilla-economic-v2",
+    id: "ind-lapampilla-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muralla de Tungasuca",
+                  "text": "Diese prähispanische archäologische Stätte weist die Überreste alter Verteidigungs- oder Landwirtschaftsmauern auf.",
+                  "category": "historical",
+                  "coords": [
+                        -77.041828,
+                        -11.895385
+                  ]
+            },
+            {
+                  "name": "Huaca El Paraíso",
+                  "text": "Diese spätpräkeramische Ruine zeichnet sich durch monumentale Steinarchitektur im Tal des Río Chillón aus.",
+                  "category": "historical",
+                  "coords": [
+                        -77.118337,
+                        -11.953972
+                  ]
+            },
+            {
+                  "name": "Huaca Sinchi Roca",
+                  "text": "Diese präkolumbianische archäologische Stätte bewahrt alte Lehmziegelstrukturen, die in die moderne Stadtlandschaft integriert sind.",
+                  "category": "historical",
+                  "coords": [
+                        -77.045589,
+                        -11.930363
+                  ]
+            },
+            {
+                  "name": "Cerro Pro",
+                  "text": "Diese archäologische Stätte umfasst alte indigene Strukturen, die an den Hängen eines markanten lokalen Hügels errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -77.081043,
+                        -11.941806
+                  ]
+            },
+            {
+                  "name": "Huaca Pro",
+                  "text": "Dieser prähispanische monumentale Hügel ist ein physisches Zeugnis früher indigener Siedlungen in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -77.076294,
+                        -11.939998
+                  ]
+            },
+            {
+                  "name": "Huaca El Retablo",
+                  "text": "Dieser archäologische Komplex bewahrt eine terrassierte Lehmziegelpyramide, die ursprünglich für alte zeremonielle Zwecke erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -77.062923,
+                        -11.935573
+                  ]
+            },
+            {
+                  "name": "Huaca Naranjal",
+                  "text": "Diese alte gestufte Lehmziegelstruktur ist historisch mit den präkolumbianischen Kulturen des umliegenden Flusstals verbunden.",
+                  "category": "historical",
+                  "coords": [
+                        -77.076129,
+                        -11.961963
+                  ]
+            },
+            {
+                  "name": "Huaca Infantas I",
+                  "text": "Der erste Sektor dieses alten Erdhügelkomplexes enthüllt die Fundamente früher lokaler Siedlungsarchitektur.",
+                  "category": "historical",
+                  "coords": [
+                        -77.072864,
+                        -11.95126
+                  ]
+            },
+            {
+                  "name": "Huaca Infantas II",
+                  "text": "Diese zweite archäologische Zone setzt die prähispanische Erdarchitektur fort, die im gesamten Infantas-Sektor zu finden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -77.072573,
+                        -11.947736
+                  ]
+            },
+            {
+                  "name": "Huaca Fundo Naranjal",
+                  "text": "Diese Überreste einer indigenen Siedlung befinden sich auf Ländereien, die später zu einem historischen landwirtschaftlichen Gut wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -77.095765,
+                        -11.967907
+                  ]
+            },
+            {
+                  "name": "Palacio Oquendo Sector A",
+                  "text": "Dieser Verwaltungskomplex aus der Inka-Zeit zeichnet sich durch seine weitläufigen, ummauerten Anlagen aus Stein und Lehm aus.",
+                  "category": "historical",
+                  "coords": [
+                        -77.117818,
+                        -11.968952
+                  ]
+            },
+            {
+                  "name": "Huaca Tambo Inga",
+                  "text": "Dieses alte Verwaltungszentrum verfügt über klassische Inka-Lehmziegelmauern, die einst zur Kontrolle des regionalen Talhandels dienten.",
+                  "category": "historical",
+                  "coords": [
+                        -77.071072,
+                        -11.88957
+                  ]
+            },
+            {
+                  "name": "Huaca Márquez",
+                  "text": "Dieser präkolumbianische archäologische Hügel bewahrt terrassierte Erdplattformen in der Nähe des Beckens des Río Chillón.",
+                  "category": "historical",
+                  "coords": [
+                        -77.12935,
+                        -11.941501
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico Murallas de Oquendo",
+                  "text": "Dieses ausgedehnte Netzwerk alter Verteidigungsmauern schlängelt sich über die Küstenebene und markiert alte Gebietsgrenzen.",
+                  "category": "historical",
+                  "coords": [
+                        -77.122454,
+                        -11.963041
+                  ]
+            },
+            {
+                  "name": "Club Metropolitano Sinchi Roca",
+                  "text": "Dieser große Stadtpark bietet weitläufige grüne Rasenflächen, schattige Gehwege und kommunale Sportanlagen zur lokalen Erholung.",
+                  "category": "park",
+                  "coords": [
+                        -77.048836,
+                        -11.922615
+                  ]
+            },
+            {
+                  "name": "Club Metropolitano Lloque Yupanqui",
+                  "text": "Dieser weitläufige Großstadtpark verfügt über große öffentliche Schwimmbäder und spezielle Erholungszonen für Familien.",
+                  "category": "park",
+                  "coords": [
+                        -77.074602,
+                        -11.977404
+                  ]
+            },
+            {
+                  "name": "Galeria Santa Luisa",
+                  "text": "Diese lokale überdachte Einkaufsgalerie beherbergt zahlreiche unabhängige Verkaufsstände, an denen regionale Waren und Alltagsgegenstände angeboten werden.",
+                  "category": "museum",
+                  "coords": [
+                        -77.070066,
+                        -11.953751
+                  ]
+            },
+            {
+                  "name": "Huaca Collique",
+                  "text": "Diese alten befestigten Ruinen thronen auf den felsigen Hängen mit Blick auf das Küstental.",
+                  "category": "historical",
+                  "coords": [
+                        -77.040278,
+                        -11.912222
+                  ]
+            },
+            {
+                  "name": "Gruta de Santa Rosa",
+                  "text": "Diese steinerne Andachtsgrotte dient als ruhiges lokales Denkmal, das der Verehrung der Heiligen Rosa von Lima gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -77.079997,
+                        -11.956606
+                  ]
+            },
+            {
+                  "name": "Huaca Cerro Culebras",
+                  "text": "Dieses alte zeremonielle Zentrum befindet sich historisch an den steilen, felsigen Hängen des Schlangenhügels (Cerro Culebras).",
+                  "category": "historical",
+                  "coords": [
+                        -77.121849,
+                        -11.941033
+                  ]
+            },
+            {
+                  "name": "Huaca Pampa de los perros",
+                  "text": "Dieser präkolumbianische archäologische Hügelkomplex erstreckt sich über eine weite, flache Küstenebene.",
+                  "category": "historical",
+                  "coords": [
+                        -77.116972,
+                        -11.943515
+                  ]
+            },
+            {
+                  "name": "Petróleo",
+                  "text": "Diese archäologische Stätte mit ihrem interessanten Namen bewahrt alte strukturelle Überreste inmitten der modernen Industriegebiete.",
+                  "category": "historical",
+                  "coords": [
+                        -77.0725,
+                        -11.895833
+                  ]
+            },
+            {
+                  "name": "Panteón",
+                  "text": "Dieses historische archäologische Gelände dient als alte Grabstätte, in der lokale indigene Grabstrukturen erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        -77.071944,
+                        -11.890833
+                  ]
+            },
+            {
+                  "name": "Augusto B. Leguia",
+                  "text": "Dieses markante öffentliche Denkmal zeigt eine Gedenkstatue zu Ehren des ehemaligen peruanischen Präsidenten Augusto B. Leguía.",
+                  "category": "historical",
+                  "coords": [
+                        -77.078091,
+                        -11.867178
+                  ]
+            },
+            {
+                  "name": "Huaca Capilla - Márquez II",
+                  "text": "Diese prähispanischen Lehmziegelruinen integrieren auf einzigartige Weise die Grundmauern einer alten Zeremonialkapelle.",
+                  "category": "historical",
+                  "coords": [
+                        -77.128609,
+                        -11.946932
+                  ]
+            },
+            {
+                  "name": "Huaca El Rosario",
+                  "text": "Dieser historische präkolumbianische Erdhügel ist als archäologische Insel innerhalb eines sich entwickelnden städtischen Viertels erhalten geblieben.",
+                  "category": "historical",
+                  "coords": [
+                        -77.092554,
+                        -11.983202
+                  ]
+            },
+            {
+                  "name": "Ancla",
+                  "text": "Dieses öffentliche Denkmal zeigt einen massiven maritimen Anker, der zu Ehren des maritimen Küstenerbes der Region ausgestellt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -77.041644,
+                        -11.902314
+                  ]
+            },
+            {
+                  "name": "Muralla de Chuquitanta",
+                  "text": "Diese archäologische Stätte weist die erhaltenen Überreste ausgedehnter alter Steinmauern auf, die einst die lokale Siedlung schützten.",
+                  "category": "historical",
+                  "coords": [
+                        -77.109493,
+                        -11.952311
+                  ]
+            },
+            {
+                  "name": "Iglesia Menacho",
+                  "text": "Dieses lokale Gotteshaus bietet regelmäßige Gottesdienste und Versammlungen für die umliegende Nachbarschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -77.074138,
+                        -11.965604
+                  ]
+            },
+            {
+                  "name": "Vida nueva pastor Manuel Menacho",
+                  "text": "Dieses lokale evangelikale Anbetungszentrum wird aktiv von Pastor Manuel Menacho geleitet, um den örtlichen Gläubigen zu dienen.",
+                  "category": "religious",
+                  "coords": [
+                        -77.075498,
+                        -11.969004
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco Solano",
+                  "text": "Diese katholische Pfarrkirche ist architektonisch dem berühmten Franziskanermissionar St. Franziskus Solanus gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -77.160982,
+                        -11.836062
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Familiar Amor Ererno",
+                  "text": "Dieses christliche Familienanbetungszentrum operiert in einem lokalen Saal und konzentriert seinen Dienst auf das Konzept der ewigen Liebe.",
+                  "category": "religious",
+                  "coords": [
+                        -77.127224,
+                        -11.8973
+                  ]
+            },
+            {
+                  "name": "Capilla Jesus el Gran Maestro",
+                  "text": "Diese intime lokale Kirchenkapelle ist speziell der Verehrung von Jesus, dem Großen Lehrer, gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -77.107488,
+                        -11.985836
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Luisa",
+                  "text": "Diese kleine, traditionelle Kapelle in der Nachbarschaft bietet einen ruhigen Raum für lokale Gemeindegebete, die der Heiligen Luise gewidmet sind.",
+                  "category": "religious",
+                  "coords": [
+                        -77.067701,
+                        -11.951965
+                  ]
+            },
+            {
+                  "name": "Santos Rosa y Martín de Lima",
+                  "text": "Diese Andachtskapelle ehrt die berühmten peruanischen Schutzheiligen Rosa von Lima und Martin von Porres.",
+                  "category": "religious",
+                  "coords": [
+                        -77.087619,
+                        -11.961945
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera Casa De Oracion Anexo Oquendo",
+                  "text": "Dieses missionarische Gebetshaus wurde im Oquendo-Sektor gegründet, um lebendige lokale Gemeindegottesdienste zu veranstalten.",
+                  "category": "religious",
+                  "coords": [
+                        -77.121767,
+                        -11.979271
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial - Sede Ventanilla",
+                  "text": "Dieses Gotteshaus dient als regionaler Hauptsitz in Ventanilla und als Hauptsaal für die Weltweite Missionarische Bewegung.",
+                  "category": "religious",
+                  "coords": [
+                        -77.121021,
+                        -11.872927
+                  ]
+            },
+            {
+                  "name": "Mercado Canta Callao",
+                  "text": "Dieser belebte Marktplatz entlang der Avenue Canta Callao ist voll von Verkaufsständen, die frische regionale Produkte und Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.098002,
+                        -11.98346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muralla de Tungasuca",
+                  "text": "Ez a spanyol hódítás előtti régészeti lelőhely ősi védelmi vagy mezőgazdasági falak maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -77.041828,
+                        -11.895385
+                  ]
+            },
+            {
+                  "name": "Huaca El Paraíso",
+                  "text": "Ez a késő prekerámikus kori rom monumentális kőépítészettel büszkélkedhet a Chillón-folyó völgyében.",
+                  "category": "historical",
+                  "coords": [
+                        -77.118337,
+                        -11.953972
+                  ]
+            },
+            {
+                  "name": "Huaca Sinchi Roca",
+                  "text": "Ez a Kolumbusz előtti régészeti lelőhely a modern városképbe integrált ősi vályogépületeket őriz.",
+                  "category": "historical",
+                  "coords": [
+                        -77.045589,
+                        -11.930363
+                  ]
+            },
+            {
+                  "name": "Cerro Pro",
+                  "text": "Ezen a régészeti lelőhelyen egy kiemelkedő helyi domb lejtőire épült ősi őslakos építmények találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -77.081043,
+                        -11.941806
+                  ]
+            },
+            {
+                  "name": "Huaca Pro",
+                  "text": "Ez a spanyol hódítás előtti monumentális domb a térség korai őslakos településeinek fizikai bizonyítéka.",
+                  "category": "historical",
+                  "coords": [
+                        -77.076294,
+                        -11.939998
+                  ]
+            },
+            {
+                  "name": "Huaca El Retablo",
+                  "text": "Ez a régészeti komplexum egy teraszos vályogpiramist őriz, amelyet eredetileg ősi ceremoniális célokra építettek.",
+                  "category": "historical",
+                  "coords": [
+                        -77.062923,
+                        -11.935573
+                  ]
+            },
+            {
+                  "name": "Huaca Naranjal",
+                  "text": "Ez az ősi, lépcsőzetes vályogépítmény történelmileg a környező folyóvölgy Kolumbusz előtti kultúráihoz kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        -77.076129,
+                        -11.961963
+                  ]
+            },
+            {
+                  "name": "Huaca Infantas I",
+                  "text": "Ennek az ősi földhalom-komplexumnak az első szektora a korai helyi településépítészet alapjait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        -77.072864,
+                        -11.95126
+                  ]
+            },
+            {
+                  "name": "Huaca Infantas II",
+                  "text": "Ez a második régészeti zóna az Infantas szektorban található spanyol hódítás előtti földépítészetet folytatja.",
+                  "category": "historical",
+                  "coords": [
+                        -77.072573,
+                        -11.947736
+                  ]
+            },
+            {
+                  "name": "Huaca Fundo Naranjal",
+                  "text": "Ennek az őslakos településnek a maradványai olyan földeken találhatók, amelyek később történelmi mezőgazdasági birtokká váltak.",
+                  "category": "historical",
+                  "coords": [
+                        -77.095765,
+                        -11.967907
+                  ]
+            },
+            {
+                  "name": "Palacio Oquendo Sector A",
+                  "text": "Ezt az inka kori adminisztratív komplexumot kőből és vályogból készült kiterjedt fallal körülvett területei határozzák meg.",
+                  "category": "historical",
+                  "coords": [
+                        -77.117818,
+                        -11.968952
+                  ]
+            },
+            {
+                  "name": "Huaca Tambo Inga",
+                  "text": "Ez az ősi adminisztratív központ klasszikus inka vályogfalakkal rendelkezik, amelyeket egykor a regionális völgyi kereskedelem ellenőrzésére használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -77.071072,
+                        -11.88957
+                  ]
+            },
+            {
+                  "name": "Huaca Márquez",
+                  "text": "Ez a Kolumbusz előtti régészeti domb teraszos földplatformokat őriz a Chillón-folyó medencéje közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -77.12935,
+                        -11.941501
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico Murallas de Oquendo",
+                  "text": "Ez az ősi védőfalakból álló kiterjedt hálózat a tengerparti síkságon kanyarog, régi területi határokat jelölve.",
+                  "category": "historical",
+                  "coords": [
+                        -77.122454,
+                        -11.963041
+                  ]
+            },
+            {
+                  "name": "Club Metropolitano Sinchi Roca",
+                  "text": "Ez a nagy városi park hatalmas zöld pázsitokat, árnyékos sétányokat és közösségi sportlétesítményeket kínál a helyi kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        -77.048836,
+                        -11.922615
+                  ]
+            },
+            {
+                  "name": "Club Metropolitano Lloque Yupanqui",
+                  "text": "Ez a hatalmas fővárosi park nagy nyilvános uszodákkal és külön családi rekreációs övezetekkel rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        -77.074602,
+                        -11.977404
+                  ]
+            },
+            {
+                  "name": "Galeria Santa Luisa",
+                  "text": "Ebben a helyi fedett kereskedelmi galériában számos független árus standja található, akik regionális árukat és mindennapi cikkeket árulnak.",
+                  "category": "museum",
+                  "coords": [
+                        -77.070066,
+                        -11.953751
+                  ]
+            },
+            {
+                  "name": "Huaca Collique",
+                  "text": "Ezek az ősi erődített romok a parti völgyre néző sziklás lejtőkön helyezkednek el.",
+                  "category": "historical",
+                  "coords": [
+                        -77.040278,
+                        -11.912222
+                  ]
+            },
+            {
+                  "name": "Gruta de Santa Rosa",
+                  "text": "Ez a köves áhítati barlang egy csendes helyi emlékműként szolgál, amelyet Limai Szent Róza tiszteletére szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -77.079997,
+                        -11.956606
+                  ]
+            },
+            {
+                  "name": "Huaca Cerro Culebras",
+                  "text": "Ez az ősi ceremoniális központ történelmileg a Kígyó-domb (Cerro Culebras) meredek, sziklás lejtőin található.",
+                  "category": "historical",
+                  "coords": [
+                        -77.121849,
+                        -11.941033
+                  ]
+            },
+            {
+                  "name": "Huaca Pampa de los perros",
+                  "text": "Ez a Kolumbusz előtti régészeti halomkomplexum egy széles, lapos tengerparti síkságon terül el.",
+                  "category": "historical",
+                  "coords": [
+                        -77.116972,
+                        -11.943515
+                  ]
+            },
+            {
+                  "name": "Petróleo",
+                  "text": "Ez az érdekes nevű régészeti lelőhely ősi szerkezeti maradványokat őriz a modern ipari övezetek közepette.",
+                  "category": "historical",
+                  "coords": [
+                        -77.0725,
+                        -11.895833
+                  ]
+            },
+            {
+                  "name": "Panteón",
+                  "text": "Ez a történelmi régészeti terület ősi temetkezési helyként szolgál, amely megőrzi a helyi őslakosok temetkezési építményeit.",
+                  "category": "historical",
+                  "coords": [
+                        -77.071944,
+                        -11.890833
+                  ]
+            },
+            {
+                  "name": "Augusto B. Leguia",
+                  "text": "Ez a kiemelkedő köztéri emlékmű egy emlékstatútummal tiszteleg a korábbi perui elnök, Augusto B. Leguía előtt.",
+                  "category": "historical",
+                  "coords": [
+                        -77.078091,
+                        -11.867178
+                  ]
+            },
+            {
+                  "name": "Huaca Capilla - Márquez II",
+                  "text": "Ezek a spanyol hódítás előtti vályogromok egyedülálló módon foglalják magukba egy ősi ceremoniális kápolna alapozásának maradványait.",
+                  "category": "historical",
+                  "coords": [
+                        -77.128609,
+                        -11.946932
+                  ]
+            },
+            {
+                  "name": "Huaca El Rosario",
+                  "text": "Ez a történelmi, Kolumbusz előtti földsáncdomb régészeti szigetként maradt fenn egy fejlődő városi negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        -77.092554,
+                        -11.983202
+                  ]
+            },
+            {
+                  "name": "Ancla",
+                  "text": "Ez a köztéri emlékmű egy hatalmas tengeri horgonyt ábrázol, amelyet a régió tengerparti haditengerészeti örökségének tiszteletére állítottak ki.",
+                  "category": "historical",
+                  "coords": [
+                        -77.041644,
+                        -11.902314
+                  ]
+            },
+            {
+                  "name": "Muralla de Chuquitanta",
+                  "text": "Ez a régészeti lelőhely kiterjedt ősi kőfalak fennmaradt maradványait mutatja be, amelyek egykor a helyi települést védték.",
+                  "category": "historical",
+                  "coords": [
+                        -77.109493,
+                        -11.952311
+                  ]
+            },
+            {
+                  "name": "Iglesia Menacho",
+                  "text": "Ez a helyi közösségi istentiszteleti hely rendszeres vallási szertartásokat és összejöveteleket biztosít a környező negyed számára.",
+                  "category": "religious",
+                  "coords": [
+                        -77.074138,
+                        -11.965604
+                  ]
+            },
+            {
+                  "name": "Vida nueva pastor Manuel Menacho",
+                  "text": "Ezt a helyi evangéliumi istentiszteleti központot aktívan vezeti Manuel Menacho lelkész, hogy a helyi híveket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -77.075498,
+                        -11.969004
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco Solano",
+                  "text": "Ezt a katolikus plébániatemplomot építészetileg a híres ferences misszionáriusnak, Solano Szent Ferencnek szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -77.160982,
+                        -11.836062
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Familiar Amor Ererno",
+                  "text": "Ez a keresztény családi istentiszteleti központ egy helyi teremben működik, és szolgálatát az örök szerelem koncepciójára összpontosítja.",
+                  "category": "religious",
+                  "coords": [
+                        -77.127224,
+                        -11.8973
+                  ]
+            },
+            {
+                  "name": "Capilla Jesus el Gran Maestro",
+                  "text": "Ez a meghitt helyi templomi kápolna kifejezetten Jézus, a Nagy Tanító tiszteletére van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -77.107488,
+                        -11.985836
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Luisa",
+                  "text": "Ez a kis, hagyományos környékbeli kápolna csendes teret kínál a helyi közösségi imádkozáshoz Szent Lujza tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        -77.067701,
+                        -11.951965
+                  ]
+            },
+            {
+                  "name": "Santos Rosa y Martín de Lima",
+                  "text": "Ez az áhítati kápolna a híres perui védőszentek, Limai Szent Róza és Porres Szent Márton előtt tiszteleg.",
+                  "category": "religious",
+                  "coords": [
+                        -77.087619,
+                        -11.961945
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera Casa De Oracion Anexo Oquendo",
+                  "text": "Ezt a misszionárius imaházat az Oquendo szektorban hozták létre, hogy élénk helyi gyülekezeti istentiszteleteknek adjon otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -77.121767,
+                        -11.979271
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial - Sede Ventanilla",
+                  "text": "Ez az istentiszteleti hely a Ventanilla regionális központjaként és a Világméretű Missziós Mozgalom főcsarnokaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -77.121021,
+                        -11.872927
+                  ]
+            },
+            {
+                  "name": "Mercado Canta Callao",
+                  "text": "Ez a nyüzsgő piac a Canta Callao sugárút mentén tele van árusok standjaival, amelyek friss regionális termékeket és árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.098002,
+                        -11.98346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muralla de Tungasuca",
+                  "text": "Acest sit arheologic pre-hispanic prezintă rămășițele unor vechi ziduri de apărare sau agricole.",
+                  "category": "historical",
+                  "coords": [
+                        -77.041828,
+                        -11.895385
+                  ]
+            },
+            {
+                  "name": "Huaca El Paraíso",
+                  "text": "Această ruină din perioada preceramică târzie prezintă o arhitectură monumentală din piatră în valea râului Chillón.",
+                  "category": "historical",
+                  "coords": [
+                        -77.118337,
+                        -11.953972
+                  ]
+            },
+            {
+                  "name": "Huaca Sinchi Roca",
+                  "text": "Acest sit arheologic precolumbian păstrează structuri antice din chirpici integrate în peisajul urban modern.",
+                  "category": "historical",
+                  "coords": [
+                        -77.045589,
+                        -11.930363
+                  ]
+            },
+            {
+                  "name": "Cerro Pro",
+                  "text": "Acest sit arheologic prezintă structuri indigene antice construite pe versanții unui deal proeminent la nivel local.",
+                  "category": "historical",
+                  "coords": [
+                        -77.081043,
+                        -11.941806
+                  ]
+            },
+            {
+                  "name": "Huaca Pro",
+                  "text": "Această movilă monumentală pre-hispanică reprezintă o mărturie fizică a primelor așezări indigene din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        -77.076294,
+                        -11.939998
+                  ]
+            },
+            {
+                  "name": "Huaca El Retablo",
+                  "text": "Acest complex arheologic păstrează o piramidă de chirpici terasată, construită inițial pentru scopuri ceremoniale antice.",
+                  "category": "historical",
+                  "coords": [
+                        -77.062923,
+                        -11.935573
+                  ]
+            },
+            {
+                  "name": "Huaca Naranjal",
+                  "text": "Această structură antică în trepte din chirpici este asociată istoric cu culturile precolumbiene din valea râului înconjurător.",
+                  "category": "historical",
+                  "coords": [
+                        -77.076129,
+                        -11.961963
+                  ]
+            },
+            {
+                  "name": "Huaca Infantas I",
+                  "text": "Primul sector al acestui complex antic de movile de pământ dezvăluie fundațiile arhitecturii primelor așezări locale.",
+                  "category": "historical",
+                  "coords": [
+                        -77.072864,
+                        -11.95126
+                  ]
+            },
+            {
+                  "name": "Huaca Infantas II",
+                  "text": "Această a doua zonă arheologică continuă arhitectura de pământ pre-hispanică găsită în întregul sector Infantas.",
+                  "category": "historical",
+                  "coords": [
+                        -77.072573,
+                        -11.947736
+                  ]
+            },
+            {
+                  "name": "Huaca Fundo Naranjal",
+                  "text": "Aceste rămășițe ale unei așezări indigene sunt situate pe terenuri care au devenit ulterior o moșie agricolă istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -77.095765,
+                        -11.967907
+                  ]
+            },
+            {
+                  "name": "Palacio Oquendo Sector A",
+                  "text": "Acest complex administrativ din epoca incașă este definit de incintele sale întinse, înconjurate de ziduri din piatră și chirpici.",
+                  "category": "historical",
+                  "coords": [
+                        -77.117818,
+                        -11.968952
+                  ]
+            },
+            {
+                  "name": "Huaca Tambo Inga",
+                  "text": "Acest vechi centru administrativ prezintă ziduri clasice incașe din chirpici, folosite odată pentru a controla comerțul regional din vale.",
+                  "category": "historical",
+                  "coords": [
+                        -77.071072,
+                        -11.88957
+                  ]
+            },
+            {
+                  "name": "Huaca Márquez",
+                  "text": "Această movilă arheologică precolumbiană păstrează platforme de pământ terasate lângă bazinul râului Chillón.",
+                  "category": "historical",
+                  "coords": [
+                        -77.12935,
+                        -11.941501
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico Murallas de Oquendo",
+                  "text": "Această rețea extinsă de ziduri de apărare antice șerpuiește peste câmpia de coastă, marcând vechi granițe teritoriale.",
+                  "category": "historical",
+                  "coords": [
+                        -77.122454,
+                        -11.963041
+                  ]
+            },
+            {
+                  "name": "Club Metropolitano Sinchi Roca",
+                  "text": "Acest parc urban mare oferă peluze verzi întinse, alei umbrite și facilități sportive comunitare pentru recreere locală.",
+                  "category": "park",
+                  "coords": [
+                        -77.048836,
+                        -11.922615
+                  ]
+            },
+            {
+                  "name": "Club Metropolitano Lloque Yupanqui",
+                  "text": "Acest parc metropolitan întins are piscine publice mari și zone de recreere dedicate familiilor.",
+                  "category": "park",
+                  "coords": [
+                        -77.074602,
+                        -11.977404
+                  ]
+            },
+            {
+                  "name": "Galeria Santa Luisa",
+                  "text": "Această galerie comercială interioară locală găzduiește numeroase tarabe independente ale vânzătorilor care vând produse regionale și articole de zi cu zi.",
+                  "category": "museum",
+                  "coords": [
+                        -77.070066,
+                        -11.953751
+                  ]
+            },
+            {
+                  "name": "Huaca Collique",
+                  "text": "Aceste ruine antice fortificate sunt așezate pe pantele stâncoase cu vedere la valea de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -77.040278,
+                        -11.912222
+                  ]
+            },
+            {
+                  "name": "Gruta de Santa Rosa",
+                  "text": "Această grotă devoțională din piatră servește ca un monument local liniștit dedicat venerației Sfintei Roza de Lima.",
+                  "category": "historical",
+                  "coords": [
+                        -77.079997,
+                        -11.956606
+                  ]
+            },
+            {
+                  "name": "Huaca Cerro Culebras",
+                  "text": "Acest vechi centru ceremonial este situat istoric pe pantele abrupte și stâncoase ale Dealului Șarpelui.",
+                  "category": "historical",
+                  "coords": [
+                        -77.121849,
+                        -11.941033
+                  ]
+            },
+            {
+                  "name": "Huaca Pampa de los perros",
+                  "text": "Acest complex arheologic precolumbian cu movile este situat de-a lungul unei câmpii de coastă largi și plate.",
+                  "category": "historical",
+                  "coords": [
+                        -77.116972,
+                        -11.943515
+                  ]
+            },
+            {
+                  "name": "Petróleo",
+                  "text": "Acest sit arheologic cu un nume interesant păstrează rămășițe structurale antice în mijlocul zonelor industriale moderne.",
+                  "category": "historical",
+                  "coords": [
+                        -77.0725,
+                        -11.895833
+                  ]
+            },
+            {
+                  "name": "Panteón",
+                  "text": "Acest teren arheologic istoric servește ca un vechi sit funerar care păstrează structurile de înmormântare indigene locale.",
+                  "category": "historical",
+                  "coords": [
+                        -77.071944,
+                        -11.890833
+                  ]
+            },
+            {
+                  "name": "Augusto B. Leguia",
+                  "text": "Acest monument public proeminent prezintă o statuie comemorativă în onoarea fostului președinte peruan Augusto B. Leguía.",
+                  "category": "historical",
+                  "coords": [
+                        -77.078091,
+                        -11.867178
+                  ]
+            },
+            {
+                  "name": "Huaca Capilla - Márquez II",
+                  "text": "Aceste ruine pre-hispanice din chirpici încorporează în mod unic rămășițele fundației unei vechi capele ceremoniale.",
+                  "category": "historical",
+                  "coords": [
+                        -77.128609,
+                        -11.946932
+                  ]
+            },
+            {
+                  "name": "Huaca El Rosario",
+                  "text": "Această movilă istorică de pământ precolumbiană este păstrată ca o insulă arheologică într-un cartier urban în evoluție.",
+                  "category": "historical",
+                  "coords": [
+                        -77.092554,
+                        -11.983202
+                  ]
+            },
+            {
+                  "name": "Ancla",
+                  "text": "Acest monument public prezintă o ancoră maritimă masivă expusă pentru a onora moștenirea navală de coastă a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -77.041644,
+                        -11.902314
+                  ]
+            },
+            {
+                  "name": "Muralla de Chuquitanta",
+                  "text": "Acest sit arheologic prezintă rămășițele supraviețuitoare ale unor ziduri vechi extinse din piatră care odată protejau așezarea locală.",
+                  "category": "historical",
+                  "coords": [
+                        -77.109493,
+                        -11.952311
+                  ]
+            },
+            {
+                  "name": "Iglesia Menacho",
+                  "text": "Acest lăcaș de cult comunitar local oferă slujbe și adunări religioase regulate pentru cartierul înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        -77.074138,
+                        -11.965604
+                  ]
+            },
+            {
+                  "name": "Vida nueva pastor Manuel Menacho",
+                  "text": "Acest centru de cult evanghelic local este condus activ de pastorul Manuel Menacho pentru a sluji credincioșilor locali.",
+                  "category": "religious",
+                  "coords": [
+                        -77.075498,
+                        -11.969004
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco Solano",
+                  "text": "Această biserică parohială catolică este dedicată din punct de vedere arhitectural celebrului misionar franciscan Sfântul Francisc Solanus.",
+                  "category": "religious",
+                  "coords": [
+                        -77.160982,
+                        -11.836062
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Familiar Amor Ererno",
+                  "text": "Acest centru de cult al familiei creștine funcționează într-o sală locală, concentrându-și lucrarea pe conceptul de dragoste eternă.",
+                  "category": "religious",
+                  "coords": [
+                        -77.127224,
+                        -11.8973
+                  ]
+            },
+            {
+                  "name": "Capilla Jesus el Gran Maestro",
+                  "text": "Această capelă intimă a bisericii locale este dedicată în mod special venerării lui Isus Marele Învățător.",
+                  "category": "religious",
+                  "coords": [
+                        -77.107488,
+                        -11.985836
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Luisa",
+                  "text": "Această mică capelă tradițională de cartier oferă un spațiu liniștit pentru rugăciunea comunității locale dedicate Sfintei Luiza.",
+                  "category": "religious",
+                  "coords": [
+                        -77.067701,
+                        -11.951965
+                  ]
+            },
+            {
+                  "name": "Santos Rosa y Martín de Lima",
+                  "text": "Această capelă devoțională îi onorează pe iconicii sfinți patroni peruvieni, Roza de Lima și Martin de Porres.",
+                  "category": "religious",
+                  "coords": [
+                        -77.087619,
+                        -11.961945
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera Casa De Oracion Anexo Oquendo",
+                  "text": "Această casă de rugăciune misionară este stabilită în sectorul Oquendo pentru a găzdui slujbe locale vibrante ale congregației.",
+                  "category": "religious",
+                  "coords": [
+                        -77.121767,
+                        -11.979271
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial - Sede Ventanilla",
+                  "text": "Acest lăcaș de cult servește ca sediu regional Ventanilla și sală principală pentru Mișcarea Misionară Mondială.",
+                  "category": "religious",
+                  "coords": [
+                        -77.121021,
+                        -11.872927
+                  ]
+            },
+            {
+                  "name": "Mercado Canta Callao",
+                  "text": "Această piață plină de viață de-a lungul bulevardului Canta Callao este plină de tarabe ale vânzătorilor care oferă produse și mărfuri regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.098002,
+                        -11.98346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muralla de Tungasuca",
+                  "text": "This pre-Hispanic archaeological site features the remains of ancient defensive or agricultural walls.",
+                  "category": "historical",
+                  "coords": [
+                        -77.041828,
+                        -11.895385
+                  ]
+            },
+            {
+                  "name": "Huaca El Paraíso",
+                  "text": "This Late Preceramic ruin features monumental stone architecture in the Chillón River valley.",
+                  "category": "historical",
+                  "coords": [
+                        -77.118337,
+                        -11.953972
+                  ]
+            },
+            {
+                  "name": "Huaca Sinchi Roca",
+                  "text": "This pre-Columbian archaeological site preserves ancient adobe structures integrated into the modern urban landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -77.045589,
+                        -11.930363
+                  ]
+            },
+            {
+                  "name": "Cerro Pro",
+                  "text": "This archaeological site features ancient indigenous structures built on the slopes of a prominent local hill.",
+                  "category": "historical",
+                  "coords": [
+                        -77.081043,
+                        -11.941806
+                  ]
+            },
+            {
+                  "name": "Huaca Pro",
+                  "text": "This pre-Hispanic monumental mound stands as a physical testament to early indigenous settlements in the area.",
+                  "category": "historical",
+                  "coords": [
+                        -77.076294,
+                        -11.939998
+                  ]
+            },
+            {
+                  "name": "Huaca El Retablo",
+                  "text": "This archaeological complex preserves a terraced adobe pyramid originally built for ancient ceremonial purposes.",
+                  "category": "historical",
+                  "coords": [
+                        -77.062923,
+                        -11.935573
+                  ]
+            },
+            {
+                  "name": "Huaca Naranjal",
+                  "text": "This ancient stepped adobe structure is historically associated with the pre-Columbian cultures of the surrounding river valley.",
+                  "category": "historical",
+                  "coords": [
+                        -77.076129,
+                        -11.961963
+                  ]
+            },
+            {
+                  "name": "Huaca Infantas I",
+                  "text": "The first sector of this ancient earthen mound complex reveals foundations of early local settlement architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -77.072864,
+                        -11.95126
+                  ]
+            },
+            {
+                  "name": "Huaca Infantas II",
+                  "text": "This second archaeological zone continues the pre-Hispanic earthen architecture found throughout the Infantas sector.",
+                  "category": "historical",
+                  "coords": [
+                        -77.072573,
+                        -11.947736
+                  ]
+            },
+            {
+                  "name": "Huaca Fundo Naranjal",
+                  "text": "These remnants of an indigenous settlement are situated on lands that later became a historic agricultural estate.",
+                  "category": "historical",
+                  "coords": [
+                        -77.095765,
+                        -11.967907
+                  ]
+            },
+            {
+                  "name": "Palacio Oquendo Sector A",
+                  "text": "This Inca-era administrative complex is defined by its extensive walled enclosures made of stone and adobe mud.",
+                  "category": "historical",
+                  "coords": [
+                        -77.117818,
+                        -11.968952
+                  ]
+            },
+            {
+                  "name": "Huaca Tambo Inga",
+                  "text": "This ancient administrative center features classic Inca adobe walls once used to control regional valley trade.",
+                  "category": "historical",
+                  "coords": [
+                        -77.071072,
+                        -11.88957
+                  ]
+            },
+            {
+                  "name": "Huaca Márquez",
+                  "text": "This Pre-Columbian archaeological mound preserves terraced earthen platforms near the basin of the Chillón River.",
+                  "category": "historical",
+                  "coords": [
+                        -77.12935,
+                        -11.941501
+                  ]
+            },
+            {
+                  "name": "Complejo Arqueológico Murallas de Oquendo",
+                  "text": "This extensive network of ancient defensive walls snakes across the coastal plain, marking old territorial boundaries.",
+                  "category": "historical",
+                  "coords": [
+                        -77.122454,
+                        -11.963041
+                  ]
+            },
+            {
+                  "name": "Club Metropolitano Sinchi Roca",
+                  "text": "This large urban park offers extensive green lawns, shaded walkways, and community sports facilities for local recreation.",
+                  "category": "park",
+                  "coords": [
+                        -77.048836,
+                        -11.922615
+                  ]
+            },
+            {
+                  "name": "Club Metropolitano Lloque Yupanqui",
+                  "text": "This sprawling metropolitan park features large public swimming pools and dedicated family recreation zones.",
+                  "category": "park",
+                  "coords": [
+                        -77.074602,
+                        -11.977404
+                  ]
+            },
+            {
+                  "name": "Galeria Santa Luisa",
+                  "text": "This local indoor commercial gallery houses numerous independent vendor stalls selling regional goods and everyday items.",
+                  "category": "museum",
+                  "coords": [
+                        -77.070066,
+                        -11.953751
+                  ]
+            },
+            {
+                  "name": "Huaca Collique",
+                  "text": "These ancient fortified ruins are perched on the rocky slopes overlooking the coastal valley.",
+                  "category": "historical",
+                  "coords": [
+                        -77.040278,
+                        -11.912222
+                  ]
+            },
+            {
+                  "name": "Grotto of Santa Rosa",
+                  "text": "This devotional stone grotto serves as a quiet local monument dedicated to the veneration of Saint Rose of Lima.",
+                  "category": "historical",
+                  "coords": [
+                        -77.079997,
+                        -11.956606
+                  ]
+            },
+            {
+                  "name": "Huaca Cerro Culebras",
+                  "text": "This ancient ceremonial center is historically situated on the steep, rocky inclines of Snake Hill.",
+                  "category": "historical",
+                  "coords": [
+                        -77.121849,
+                        -11.941033
+                  ]
+            },
+            {
+                  "name": "Huaca Pampa de los perros",
+                  "text": "This pre-Columbian archaeological mound complex is set across a wide, flat coastal plain.",
+                  "category": "historical",
+                  "coords": [
+                        -77.116972,
+                        -11.943515
+                  ]
+            },
+            {
+                  "name": "Petróleo",
+                  "text": "This interestingly named archaeological site preserves ancient structural remnants amidst the modern industrial zones.",
+                  "category": "historical",
+                  "coords": [
+                        -77.0725,
+                        -11.895833
+                  ]
+            },
+            {
+                  "name": "Panteón",
+                  "text": "This historic archaeological ground serves as an ancient funerary site preserving local indigenous burial structures.",
+                  "category": "historical",
+                  "coords": [
+                        -77.071944,
+                        -11.890833
+                  ]
+            },
+            {
+                  "name": "Augusto B. Leguia",
+                  "text": "This prominent public monument features a commemorative statue honoring the former Peruvian president Augusto B. Leguía.",
+                  "category": "historical",
+                  "coords": [
+                        -77.078091,
+                        -11.867178
+                  ]
+            },
+            {
+                  "name": "Huaca Capilla - Márquez II",
+                  "text": "These pre-Hispanic adobe ruins uniquely incorporate the foundational remnants of an ancient ceremonial chapel.",
+                  "category": "historical",
+                  "coords": [
+                        -77.128609,
+                        -11.946932
+                  ]
+            },
+            {
+                  "name": "Huaca El Rosario",
+                  "text": "This historic pre-Columbian earthwork mound is preserved as an archaeological island within an evolving urban neighborhood.",
+                  "category": "historical",
+                  "coords": [
+                        -77.092554,
+                        -11.983202
+                  ]
+            },
+            {
+                  "name": "Ancla",
+                  "text": "This public monument features a massive maritime anchor displayed to honor the region's coastal naval heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -77.041644,
+                        -11.902314
+                  ]
+            },
+            {
+                  "name": "Muralla de Chuquitanta",
+                  "text": "This archaeological site features the surviving remnants of extensive ancient stone walls that once protected the local settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -77.109493,
+                        -11.952311
+                  ]
+            },
+            {
+                  "name": "Iglesia Menacho",
+                  "text": "This local community place of worship provides regular religious services and gatherings for the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -77.074138,
+                        -11.965604
+                  ]
+            },
+            {
+                  "name": "Vida nueva pastor Manuel Menacho",
+                  "text": "This local evangelical worship center is actively led by Pastor Manuel Menacho to serve the local faithful.",
+                  "category": "religious",
+                  "coords": [
+                        -77.075498,
+                        -11.969004
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco Solano",
+                  "text": "This Catholic parish church is architecturally dedicated to the famous Franciscan missionary Saint Francis Solanus.",
+                  "category": "religious",
+                  "coords": [
+                        -77.160982,
+                        -11.836062
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Familiar Amor Ererno",
+                  "text": "This Christian family worship center operates out of a local hall, focusing its ministry on the concept of eternal love.",
+                  "category": "religious",
+                  "coords": [
+                        -77.127224,
+                        -11.8973
+                  ]
+            },
+            {
+                  "name": "Capilla Jesus el Gran Maestro",
+                  "text": "This intimate local church chapel is specifically dedicated to the veneration of Jesus the Great Teacher.",
+                  "category": "religious",
+                  "coords": [
+                        -77.107488,
+                        -11.985836
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Luisa",
+                  "text": "This small, traditional neighborhood chapel offers a quiet space for local community prayer dedicated to Saint Louise.",
+                  "category": "religious",
+                  "coords": [
+                        -77.067701,
+                        -11.951965
+                  ]
+            },
+            {
+                  "name": "Santos Rosa y Martín de Lima",
+                  "text": "This devotional chapel honors the iconic Peruvian patron saints, Rose of Lima and Martin de Porres.",
+                  "category": "religious",
+                  "coords": [
+                        -77.087619,
+                        -11.961945
+                  ]
+            },
+            {
+                  "name": "Iglesia Misionera Casa De Oracion Anexo Oquendo",
+                  "text": "This missionary house of prayer is established in the Oquendo sector to host vibrant local congregational services.",
+                  "category": "religious",
+                  "coords": [
+                        -77.121767,
+                        -11.979271
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial - Sede Ventanilla",
+                  "text": "This place of worship serves as the regional Ventanilla headquarters and main hall for the Worldwide Missionary Movement.",
+                  "category": "religious",
+                  "coords": [
+                        -77.121021,
+                        -11.872927
+                  ]
+            },
+            {
+                  "name": "Mercado Canta Callao",
+                  "text": "This bustling marketplace along Canta Callao avenue is filled with vendor stalls offering fresh regional produce and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.098002,
+                        -11.98346
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-CAL",
     coords: [-77.13, -11.92],
@@ -1124,7 +8981,1276 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-lapampilla-economic-v2.webp"
   },
   {
-    id: "ind-siderperu-economic-v2",
+    id: "ind-siderperu-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bahía de Chimbote",
+                  "text": "Diese große natürliche Bucht am Pazifischen Ozean ist ein historisch wichtiger Knotenpunkt für die regionale Fischerei- und Stahlindustrie.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.588955,
+                        -9.123385
+                  ]
+            },
+            {
+                  "name": "Bahía de Coishco",
+                  "text": "Die Bucht von Coishco ist eine markante Bucht an der Pazifikküste Perus und ein wichtiges natürliches Merkmal für die lokale maritime Umwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.639945,
+                        -9.017089
+                  ]
+            },
+            {
+                  "name": "Almirante Miguel Grau Seminario",
+                  "text": "Dieses Denkmal ehrt Admiral Miguel Grau Seminario, einen bekannten peruanischen Marinehelden, und steht als Hommage an sein Erbe in der Küstenregion.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590154,
+                        -9.078398
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires Beatos",
+                  "text": "Dieses Denkmal ist den seligen Märtyrern gewidmet und erinnert an die seliggesprochenen Personen, die in der Region ihr Leben für ihren Glauben gaben.",
+                  "category": "historical",
+                  "coords": [
+                        -78.587721,
+                        -9.077073
+                  ]
+            },
+            {
+                  "name": "Monumento a la Justicia",
+                  "text": "Das Monumento a la Justicia symbolisiert die Ideale von Gerechtigkeit und Gesetz und steht als markantes öffentliches Skulpturenwerk in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -78.58959,
+                        -9.076533
+                  ]
+            },
+            {
+                  "name": "Monumento a Haya de la Torre",
+                  "text": "Dieses öffentliche Denkmal erinnert an Víctor Raúl Haya de la Torre, eine bedeutende Figur der peruanischen politischen Geschichte, und ehrt seinen anhaltenden Einfluss.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590774,
+                        -9.07621
+                  ]
+            },
+            {
+                  "name": "Monumentos Marinos",
+                  "text": "Die Monumentos Marinos sind eine Sammlung maritim geprägter Skulpturen, die die starke Verbundenheit der Gegend mit dem Pazifik und der Fischereiindustrie widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        -78.59898,
+                        -9.073704
+                  ]
+            },
+            {
+                  "name": "Iglesia de Mormones",
+                  "text": "Dieses lokale Versammlungshaus der Heiligen der Letzten Tage bietet der mormonischen Gemeinde der Region einen Ort für Gottesdienst und Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -78.565195,
+                        -9.10214
+                  ]
+            },
+            {
+                  "name": "Parroquia San José Obrero (Laderas del Norte)",
+                  "text": "Die Parroquia San José Obrero befindet sich im Viertel Laderas del Norte und ist eine lokale Pfarrkirche, die den spirituellen Bedürfnissen ihrer Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.587202,
+                        -9.058452
+                  ]
+            },
+            {
+                  "name": "Iglesia del Cerro de la Juventud",
+                  "text": "Auf dem Cerro de la Juventud gelegen, bietet diese Kirche nicht nur einen Ort der religiösen Andacht, sondern auch einen weiten Panoramablick über die Küstenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        -78.617433,
+                        -9.064734
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Santa",
+                  "text": "Der Mercado Municipal de Santa ist ein belebter städtischer Markt, auf dem die Einheimischen frische regionale Produkte, Fleisch und Waren des täglichen Bedarfs handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.614928,
+                        -8.986345
+                  ]
+            },
+            {
+                  "name": "Mercado 3 de Octubre",
+                  "text": "Dieser lebhafte lokale Marktplatz, genannt Mercado 3 de Octubre, verfügt über zahlreiche Verkaufsstände, die eine bunte Auswahl an lokalen Lebensmitteln und Dingen des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.540025,
+                        -9.116337
+                  ]
+            },
+            {
+                  "name": "Mercado de Villa María",
+                  "text": "Im Viertel Villa María gelegen, dient dieser belebte Markt als wichtiges Handelszentrum für die Bewohner, um frischen Küstenfang und landwirtschaftliche Güter zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.544926,
+                        -9.119478
+                  ]
+            },
+            {
+                  "name": "Mercado minorista PPao",
+                  "text": "Der Mercado minorista PPao ist ein Einzelhandelsmarkt, der dem umliegenden Viertel einen konzentrierten Ort für den Einkauf frischer Lebensmittel und täglicher Waren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.535147,
+                        -9.110425
+                  ]
+            },
+            {
+                  "name": "Mercado La Perla",
+                  "text": "Der von einheimischen Käufern gut besuchte Mercado La Perla ist ein lebendiger Gemeinschaftsmarkt, der eine vielfältige Auswahl an traditionellen peruanischen Zutaten und Haushaltswaren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.555584,
+                        -9.09839
+                  ]
+            },
+            {
+                  "name": "Los Ferroles",
+                  "text": "Der Marktplatz Los Ferroles ist ein aktiver Handelsplatz, an dem die Gemeinde zusammenkommt, um regionale landwirtschaftliche Produkte und lokales Kunsthandwerk zu kaufen und zu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.558741,
+                        -9.101416
+                  ]
+            },
+            {
+                  "name": "Mercado Miramar",
+                  "text": "In Küstennähe gelegen, ist der Mercado Miramar ein typischer Viertelmarkt, der dafür bekannt ist, die Bewohner mit Dingen des täglichen Bedarfs und frischen regionalen Vorräten zu versorgen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.583843,
+                        -9.078895
+                  ]
+            },
+            {
+                  "name": "Mercado de Peces La Sirena",
+                  "text": "Getreu seinem Namen ist der Mercado de Peces La Sirena ein spezialisierter Fischmarkt, der eine große Vielfalt an frischen Meeresfrüchten anbietet, die täglich vor der Pazifikküste gefangen werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.588767,
+                        -9.072634
+                  ]
+            },
+            {
+                  "name": "Las Malvinas",
+                  "text": "Las Malvinas ist ein bedeutendes lokales Handelszentrum und Marktgebiet, das durch seine große Auswahl an Einzelhändlern gekennzeichnet ist, die Waren von Lebensmitteln bis hin zu Elektronik verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.589054,
+                        -9.074815
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Esquina del Movimiento",
+                  "text": "Das Centro Comercial Esquina del Movimiento fungiert als geschäftiger städtischer Handelsplatz und versammelt zahlreiche Stände, die eine vielfältige Mischung aus täglichen Einzelhandelsartikeln anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.589099,
+                        -9.073787
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo",
+                  "text": "Als Grundpfeiler des lokalen Handels präsentiert der Mercado Modelo eine traditionelle Marktatmosphäre mit belebten Gängen voller frischem Gemüse, Fleisch und regionalen Gewürzen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.590256,
+                        -9.074488
+                  ]
+            },
+            {
+                  "name": "mercado 2 de mayo",
+                  "text": "Benannt nach dem bedeutenden Datum in der regionalen Geschichte, ist der Mercado 2 de Mayo ein Knotenpunkt im Viertel, der eine große Auswahl an täglichen Lebensmitteln und Haushaltswaren bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.571081,
+                        -9.067753
+                  ]
+            },
+            {
+                  "name": "Mercado Pueblos Unidos",
+                  "text": "Der Mercado Pueblos Unidos dient der örtlichen Gemeinschaft und ist ein gemeinschaftliches Marktumfeld, in dem unabhängige Händler frische Produkte und wichtige Güter verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.570369,
+                        -9.076462
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Der Mercado Mayorista fungiert als Großhandelsverteilzentrum und schlägt große Mengen an landwirtschaftlichen und kommerziellen Gütern um, die kleinere lokale Einzelhändler versorgen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.56007,
+                        -9.085122
+                  ]
+            },
+            {
+                  "name": "Mercado Alfonso Ugarte",
+                  "text": "Der Mercado Alfonso Ugarte ist ein energiegeladener lokaler Markt, der nach dem peruanischen Militärhelden benannt ist und die umliegenden Straßen mit frischen Lebensmitteln und Dingen des täglichen Bedarfs versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.595013,
+                        -9.07166
+                  ]
+            },
+            {
+                  "name": "Plazuela Las Banderas",
+                  "text": "Die Plazuela Las Banderas ist ein offener städtischer Platz, der mit Fahnenmasten geschmückt ist und einen gepflasterten Raum für bürgerliche Versammlungen und Spaziergänge im Viertel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.59377,
+                        -9.075223
+                  ]
+            },
+            {
+                  "name": "Parque \"El Alcón Dorado\"",
+                  "text": "Bekannt als Park des \"Goldenen Falken\", bietet dieser grüne städtische Raum ein landschaftlich gestaltetes Erholungsgebiet mit Gehwegen zur Freude lokaler Familien.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564315,
+                        -9.103732
+                  ]
+            },
+            {
+                  "name": "Boulevard",
+                  "text": "Dieser städtische Boulevard dient als landschaftlich gestaltete Fußgängerpromenade, ideal für gemütliche Abendspaziergänge und um die lebhafte Straßenatmosphäre zu erleben.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597517,
+                        -9.074119
+                  ]
+            },
+            {
+                  "name": "Catedral de Chimbote (Basílica de la Asunción de María Santísima)",
+                  "text": "Die Catedral de Chimbote, auch bekannt als Basilika Mariä Himmelfahrt, ist die katholische Hauptkathedrale der Stadt und zeichnet sich durch ihre bedeutende lokale kirchliche Rolle aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.530776,
+                        -9.121022
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieses Gebäude fungiert als Königreichssaal der Zeugen Jehovas und bietet einen strukturierten Rahmen für die Bibelstudien und den christlichen Gottesdienst der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.537192,
+                        -9.114024
+                  ]
+            },
+            {
+                  "name": "Avivamiento Enmanuel del Peru",
+                  "text": "Das Avivamiento Enmanuel del Peru ist ein evangelisches christliches Zentrum, das sich auf geistliche Erweckungsversammlungen und gemeindebasierte Seelsorge konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.573525,
+                        -9.076987
+                  ]
+            },
+            {
+                  "name": "Iglesia Zarza Ardiendo",
+                  "text": "Übersetzt als \"Brennender Dornbusch Kirche\", bietet dieses lokale christliche Heiligtum einen Raum für charismatischen Gottesdienst und spirituelle Gemeindeversammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.583623,
+                        -9.048739
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Salvador",
+                  "text": "Die Parroquia Cristo Salvador ist eine katholische Pfarrkirche, die Christus dem Erlöser geweiht ist und regelmäßige Messen und religiöse Zeremonien für die lokalen Gläubigen organisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.614905,
+                        -9.02312
+                  ]
+            },
+            {
+                  "name": "Cruz de la Paz",
+                  "text": "Das Cruz de la Paz ist ein großes christliches Kreuzdenkmal, das als prominentes Symbol des Friedens und der spirituellen Hingabe mit Blick auf die Gemeinde errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.621168,
+                        -9.062544
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dies ist ein regionales Versammlungshaus der Kirche Jesu Christi der Heiligen der Letzten Tage, das lokale Gottesdienste und Gemeindeaktivitäten erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.579779,
+                        -9.061646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bahía de Chimbote",
+                  "text": "Ez a nagy természetes öböl a Csendes-óceánon történelmileg létfontosságú központja a regionális halászati és acéliparnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.588955,
+                        -9.123385
+                  ]
+            },
+            {
+                  "name": "Bahía de Coishco",
+                  "text": "A Coishco-öböl egy jelentős öböl Peru csendes-óceáni partvidékén, amely a helyi tengeri környezet fontos természeti jellemzőjeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.639945,
+                        -9.017089
+                  ]
+            },
+            {
+                  "name": "Almirante Miguel Grau Seminario",
+                  "text": "Ez az emlékmű Almirante Miguel Grau Seminario híres perui haditengerészeti hős előtt tiszteleg, a partvidéki régióban hagyott örökségének állítva emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590154,
+                        -9.078398
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires Beatos",
+                  "text": "A Boldog Vértanúknak szentelt emlékmű azoknak a boldoggá avatott személyeknek állít emléket, akik a régióban életüket adták hitükért.",
+                  "category": "historical",
+                  "coords": [
+                        -78.587721,
+                        -9.077073
+                  ]
+            },
+            {
+                  "name": "Monumento a la Justicia",
+                  "text": "A méltányosság és a törvény ideáljait szimbolizáló Monumento a la Justicia a város kiemelkedő köztéri szobrászati alkotása.",
+                  "category": "historical",
+                  "coords": [
+                        -78.58959,
+                        -9.076533
+                  ]
+            },
+            {
+                  "name": "Monumento a Haya de la Torre",
+                  "text": "Ez a köztéri emlékmű Víctor Raúl Haya de la Torrénak, a perui politikatörténet egyik meghatározó alakjának állít emléket, tisztelegve tartós befolyása előtt.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590774,
+                        -9.07621
+                  ]
+            },
+            {
+                  "name": "Monumentos Marinos",
+                  "text": "A Monumentos Marinos egy tengeri témájú szoborcsoport, amely a területnek a Csendes-óceánhoz és a halászati iparhoz fűződő szoros kapcsolatát tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -78.59898,
+                        -9.073704
+                  ]
+            },
+            {
+                  "name": "Iglesia de Mormones",
+                  "text": "Ez a helyi Utolsó Napi Szentek gyülekezeti ház dedikált istentiszteleti és közösségi teret biztosít a környék mormon közösségének.",
+                  "category": "religious",
+                  "coords": [
+                        -78.565195,
+                        -9.10214
+                  ]
+            },
+            {
+                  "name": "Parroquia San José Obrero (Laderas del Norte)",
+                  "text": "A Laderas del Norte negyedben található Parroquia San José Obrero egy helyi plébániatemplom, amely a közösség spirituális igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -78.587202,
+                        -9.058452
+                  ]
+            },
+            {
+                  "name": "Iglesia del Cerro de la Juventud",
+                  "text": "A Cerro de la Juventud hegyen magasodó templom nemcsak a vallási áhítat helyszíne, hanem lenyűgöző panorámát is nyújt a tengerparti városra.",
+                  "category": "religious",
+                  "coords": [
+                        -78.617433,
+                        -9.064734
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Santa",
+                  "text": "A Mercado Municipal de Santa egy nyüzsgő városi piac, ahol a helyiek friss regionális termékeket, húsokat és napi háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.614928,
+                        -8.986345
+                  ]
+            },
+            {
+                  "name": "Mercado 3 de Octubre",
+                  "text": "Ez a Mercado 3 de Octubre nevű nyüzsgő helyi piac számos árusító bódéval rendelkezik, amelyek helyi élelmiszerek és mindennapi alapcikkek élénk választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.540025,
+                        -9.116337
+                  ]
+            },
+            {
+                  "name": "Mercado de Villa María",
+                  "text": "A Villa María negyedben található nyüzsgő piac kulcsfontosságú kereskedelmi központként szolgál a lakosok számára a friss tengeri fogások és mezőgazdasági termékek beszerzéséhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.544926,
+                        -9.119478
+                  ]
+            },
+            {
+                  "name": "Mercado minorista PPao",
+                  "text": "A Mercado minorista PPao egy kiskereskedelmi piac, amely a környező negyed számára központosított teret biztosít a friss élelmiszerek és napi árucikkek vásárlásához.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.535147,
+                        -9.110425
+                  ]
+            },
+            {
+                  "name": "Mercado La Perla",
+                  "text": "A helyi vásárlók által sűrűn látogatott Mercado La Perla egy nyüzsgő közösségi piac, amely a hagyományos perui alapanyagok és háztartási cikkek változatos választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.555584,
+                        -9.09839
+                  ]
+            },
+            {
+                  "name": "Los Ferroles",
+                  "text": "A Los Ferroles piac egy aktív kereskedelmi pont, ahol a közösség összegyűlik, hogy regionális mezőgazdasági termékeket és helyi kézműves termékeket adjon-vegyen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.558741,
+                        -9.101416
+                  ]
+            },
+            {
+                  "name": "Mercado Miramar",
+                  "text": "A part közelében található Mercado Miramar egy tipikus környékbeli piac, amely arról ismert, hogy ellátja a lakosokat napi szükségleti cikkekkel és friss regionális készletekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.583843,
+                        -9.078895
+                  ]
+            },
+            {
+                  "name": "Mercado de Peces La Sirena",
+                  "text": "Nevéhez hűen a Mercado de Peces La Sirena egy halakra specializálódott piac, amely a csendes-óceáni partoknál naponta fogott friss tenger gyümölcseinek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.588767,
+                        -9.072634
+                  ]
+            },
+            {
+                  "name": "Las Malvinas",
+                  "text": "A Las Malvinas egy kiemelkedő helyi kereskedelmi központ és piactér, amelyet az élelmiszerektől az elektronikáig terjedő árukat árusító egyéni árusok széles köre jellemez.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.589054,
+                        -9.074815
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Esquina del Movimiento",
+                  "text": "A forgalmas városi kereskedelmi állomásként működő Centro Comercial Esquina del Movimiento számos standot gyűjt egybe, amelyek a napi kiskereskedelmi cikkek változatos keverékét kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.589099,
+                        -9.073787
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo",
+                  "text": "A helyi kereskedelem alapanyagaként a Mercado Modelo hagyományos piaci hangulatot áraszt friss zöldségekkel, húsokkal és regionális fűszerekkel teli nyüzsgő folyosóival.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.590256,
+                        -9.074488
+                  ]
+            },
+            {
+                  "name": "mercado 2 de mayo",
+                  "text": "A regionális történelem jelentős dátumáról elnevezett Mercado 2 de Mayo egy környékbeli központ, amely a napi élelmiszerek és háztartási cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.571081,
+                        -9.067753
+                  ]
+            },
+            {
+                  "name": "Mercado Pueblos Unidos",
+                  "text": "A helyi közösséget kiszolgáló Mercado Pueblos Unidos egy együttműködésen alapuló piaci környezet, ahol a független árusok friss termékeket és alapvető árukat értékesítenek.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.570369,
+                        -9.076462
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "A nagykereskedelmi elosztó központként működő Mercado Mayorista nagy mennyiségű mezőgazdasági és kereskedelmi árut kezel, ellátva a kisebb helyi kiskereskedőket.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.56007,
+                        -9.085122
+                  ]
+            },
+            {
+                  "name": "Mercado Alfonso Ugarte",
+                  "text": "A perui katonai hős nevét viselő Mercado Alfonso Ugarte egy energikus helyi piac, amely a környező utcákat látja el friss élelmiszerekkel és napi szükségleti cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.595013,
+                        -9.07166
+                  ]
+            },
+            {
+                  "name": "Plazuela Las Banderas",
+                  "text": "A Plazuela Las Banderas egy zászlórudakkal díszített nyitott városi tér, amely kövezett teret kínál a polgári összejövetelekhez és a környékbeli sétákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.59377,
+                        -9.075223
+                  ]
+            },
+            {
+                  "name": "Parque \"El Alcón Dorado\"",
+                  "text": "Az \"Arany Sólyom\" parkként ismert zöld városi tér parkosított rekreációs területet kínál sétányokkal a helyi családok örömére.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564315,
+                        -9.103732
+                  ]
+            },
+            {
+                  "name": "Boulevard",
+                  "text": "Ez a városi Boulevard egy parkosított gyalogos átjáróként szolgál, amely ideális a nyugodt esti sétákhoz és a nyüzsgő utcai hangulat megtapasztalásához.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597517,
+                        -9.074119
+                  ]
+            },
+            {
+                  "name": "Catedral de Chimbote (Basílica de la Asunción de María Santísima)",
+                  "text": "A Catedral de Chimbote, más néven a Mária Mennybevétele Bazilika, a város fő katolikus katedrálisa, amely jelentős helyi egyházi szerepéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.530776,
+                        -9.121022
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Jehova Tanúi Királyság-termeként működő épület strukturált környezetet kínál a gyülekezet bibliatanulmányozásaihoz és keresztény istentiszteleteihez.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.537192,
+                        -9.114024
+                  ]
+            },
+            {
+                  "name": "Avivamiento Enmanuel del Peru",
+                  "text": "Az Avivamiento Enmanuel del Peru egy evangéliumi keresztény központ, amely a spirituális ébredési találkozókra és a közösségi alapú lelkigondozásra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.573525,
+                        -9.076987
+                  ]
+            },
+            {
+                  "name": "Iglesia Zarza Ardiendo",
+                  "text": "Az \"Égő Csipkebokor Templomra\" fordítható helyi keresztény szentély teret biztosít a karizmatikus istentiszteletnek és a spirituális közösségi összejöveteleknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.583623,
+                        -9.048739
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Salvador",
+                  "text": "A Parroquia Cristo Salvador a Megváltó Krisztusnak szentelt katolikus plébániatemplom, amely rendszeres miséket és vallási szertartásokat szervez a helyi hívek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.614905,
+                        -9.02312
+                  ]
+            },
+            {
+                  "name": "Cruz de la Paz",
+                  "text": "A Cruz de la Paz egy nagyméretű keresztény kereszt emlékmű, amelyet a béke és a spirituális áhítat kiemelkedő szimbólumaként emeltek, kilátással a közösségre.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.621168,
+                        -9.062544
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez Az Utolsó Napi Szentek Jézus Krisztus Egyházának regionális gyülekezeti háza, amely helyi istentiszteleteknek és gyülekezeti tevékenységeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.579779,
+                        -9.061646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bahía de Chimbote",
+                  "text": "Acest mare golf natural la Oceanul Pacific este un centru vital din punct de vedere istoric pentru industria regională a pescuitului și a oțelului.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.588955,
+                        -9.123385
+                  ]
+            },
+            {
+                  "name": "Bahía de Coishco",
+                  "text": "Golful Coishco este un golf important situat pe coasta pacifică a statului Peru, servind drept element natural esențial pentru mediul maritim local.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.639945,
+                        -9.017089
+                  ]
+            },
+            {
+                  "name": "Almirante Miguel Grau Seminario",
+                  "text": "Acest monument îl onorează pe Almirante Miguel Grau Seminario, un renumit erou naval peruvian, reprezentând un omagiu adus moștenirii sale în regiunea de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590154,
+                        -9.078398
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires Beatos",
+                  "text": "Dedicat Martirilor Fericiți, acest monument comemorează persoanele beatificate care și-au dat viața pentru credința lor în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -78.587721,
+                        -9.077073
+                  ]
+            },
+            {
+                  "name": "Monumento a la Justicia",
+                  "text": "Simbolizând idealurile de echitate și lege, Monumento a la Justicia este o lucrare sculpturală publică proeminentă în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -78.58959,
+                        -9.076533
+                  ]
+            },
+            {
+                  "name": "Monumento a Haya de la Torre",
+                  "text": "Acest monument public îl comemorează pe Víctor Raúl Haya de la Torre, o figură majoră în istoria politică peruviană, onorând influența sa de durată.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590774,
+                        -9.07621
+                  ]
+            },
+            {
+                  "name": "Monumentos Marinos",
+                  "text": "Monumentos Marinos reprezintă o colecție de piese sculpturale cu tematică maritimă care reflectă legătura puternică a zonei cu Oceanul Pacific și industria pescuitului.",
+                  "category": "historical",
+                  "coords": [
+                        -78.59898,
+                        -9.073704
+                  ]
+            },
+            {
+                  "name": "Iglesia de Mormones",
+                  "text": "Această casă de adunare locală a Sfinților din Zilele din Urmă oferă un spațiu dedicat de cult și de adunare pentru comunitatea mormonă din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        -78.565195,
+                        -9.10214
+                  ]
+            },
+            {
+                  "name": "Parroquia San José Obrero (Laderas del Norte)",
+                  "text": "Situată în cartierul Laderas del Norte, Parroquia San José Obrero este o biserică parohială locală care deservește nevoile spirituale ale comunității sale.",
+                  "category": "religious",
+                  "coords": [
+                        -78.587202,
+                        -9.058452
+                  ]
+            },
+            {
+                  "name": "Iglesia del Cerro de la Juventud",
+                  "text": "Așezată pe Cerro de la Juventud, această biserică oferă nu doar un loc de devoțiune religioasă, ci și vederi panoramice ample asupra orașului de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        -78.617433,
+                        -9.064734
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Santa",
+                  "text": "Mercado Municipal de Santa este o piață municipală plină de viață unde localnicii se adună pentru a comercializa produse regionale proaspete, carne și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.614928,
+                        -8.986345
+                  ]
+            },
+            {
+                  "name": "Mercado 3 de Octubre",
+                  "text": "Această piață locală animată, numită Mercado 3 de Octubre, prezintă numeroase tarabe ale vânzătorilor care oferă o gamă vibrantă de alimente locale și produse de bază.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.540025,
+                        -9.116337
+                  ]
+            },
+            {
+                  "name": "Mercado de Villa María",
+                  "text": "Situată în zona Villa María, această piață plină de viață servește drept centru comercial esențial pentru ca rezidenții să cumpere capturi proaspete de coastă și produse agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.544926,
+                        -9.119478
+                  ]
+            },
+            {
+                  "name": "Mercado minorista PPao",
+                  "text": "Mercado minorista PPao este o facilitate de piață cu amănuntul care oferă cartierului înconjurător un spațiu concentrat pentru a face cumpărături de alimente proaspete și mărfuri zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.535147,
+                        -9.110425
+                  ]
+            },
+            {
+                  "name": "Mercado La Perla",
+                  "text": "Frecventată de cumpărătorii locali, Mercado La Perla este o piață comunitară vibrantă, care oferă o selecție diversă de ingrediente tradiționale peruviene și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.555584,
+                        -9.09839
+                  ]
+            },
+            {
+                  "name": "Los Ferroles",
+                  "text": "Piața Los Ferroles este un loc de tranzacționare activ unde comunitatea se întrunește pentru a cumpăra și vinde produse agricole regionale și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.558741,
+                        -9.101416
+                  ]
+            },
+            {
+                  "name": "Mercado Miramar",
+                  "text": "Situată în apropiere de coastă, Mercado Miramar este o piață de cartier tipică, cunoscută pentru aprovizionarea rezidenților cu necesități zilnice și provizii regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.583843,
+                        -9.078895
+                  ]
+            },
+            {
+                  "name": "Mercado de Peces La Sirena",
+                  "text": "Fidel numelui său, Mercado de Peces La Sirena este o piață de pește specializată care oferă o mare varietate de fructe de mare proaspete prinse zilnic în largul coastei Pacificului.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.588767,
+                        -9.072634
+                  ]
+            },
+            {
+                  "name": "Las Malvinas",
+                  "text": "Las Malvinas este un centru comercial local proeminent și o zonă de piață caracterizată prin gama sa largă de vânzători individuali care vând mărfuri, de la alimente la electronice.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.589054,
+                        -9.074815
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Esquina del Movimiento",
+                  "text": "Funcționând ca un post de comerț urban aglomerat, Centro Comercial Esquina del Movimiento adună numeroase tarabe care oferă un mix divers de articole de vânzare cu amănuntul zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.589099,
+                        -9.073787
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo",
+                  "text": "Ca element de bază al comerțului local, Mercado Modelo prezintă o atmosferă de piață tradițională plină de culoare de legume proaspete, carne și condimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.590256,
+                        -9.074488
+                  ]
+            },
+            {
+                  "name": "mercado 2 de mayo",
+                  "text": "Numită după data semnificativă din istoria regională, piața Mercado 2 de Mayo este un hub de cartier care oferă o gamă vastă de alimente zilnice și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.571081,
+                        -9.067753
+                  ]
+            },
+            {
+                  "name": "Mercado Pueblos Unidos",
+                  "text": "Deservind comunitatea locală, Mercado Pueblos Unidos este un mediu de piață colaborativ în care vânzătorii independenți vând produse proaspete și bunuri esențiale.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.570369,
+                        -9.076462
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Funcționând ca un centru de distribuție cu ridicata, Mercado Mayorista gestionează volume mari de mărfuri agricole și comerciale care aprovizionează comercianții cu amănuntul locali mai mici.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.56007,
+                        -9.085122
+                  ]
+            },
+            {
+                  "name": "Mercado Alfonso Ugarte",
+                  "text": "Mercado Alfonso Ugarte este o piață locală energică, numită după eroul militar peruvian, oferind străzilor din jur alimente proaspete și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.595013,
+                        -9.07166
+                  ]
+            },
+            {
+                  "name": "Plazuela Las Banderas",
+                  "text": "Plazuela Las Banderas este o piațetă urbană deschisă, împodobită cu catarge, oferind un spațiu pavat pentru adunări civice și plimbări prin cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.59377,
+                        -9.075223
+                  ]
+            },
+            {
+                  "name": "Parque \"El Alcón Dorado\"",
+                  "text": "Cunoscut sub numele de parcul „Șoimul de Aur”, acest spațiu urban verde oferă o zonă de agrement amenajată cu alei pentru bucuria familiilor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564315,
+                        -9.103732
+                  ]
+            },
+            {
+                  "name": "Boulevard",
+                  "text": "Acest bulevard urban servește drept arteră pietonală amenajată, ideală pentru plimbări relaxante de seară și pentru a experimenta atmosfera plină de viață a străzii.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597517,
+                        -9.074119
+                  ]
+            },
+            {
+                  "name": "Catedral de Chimbote (Basílica de la Asunción de María Santísima)",
+                  "text": "Catedral de Chimbote, cunoscută și sub numele de Bazilica Adormirea Maicii Domnului, este principala catedrală catolică din oraș, remarcabilă pentru rolul ecleziastic local semnificativ.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.530776,
+                        -9.121022
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Funcționând ca o Sală a Regatului pentru Martorii lui Iehova, această clădire oferă un cadru structurat pentru studiile biblice ale congregației și pentru închinarea creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.537192,
+                        -9.114024
+                  ]
+            },
+            {
+                  "name": "Avivamiento Enmanuel del Peru",
+                  "text": "Avivamiento Enmanuel del Peru este un centru creștin evanghelic care se concentrează pe întâlniri de trezire spirituală și pe îngrijirea pastorală comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.573525,
+                        -9.076987
+                  ]
+            },
+            {
+                  "name": "Iglesia Zarza Ardiendo",
+                  "text": "Traducându-se ca „Biserica Rugului Aprins”, acest sanctuar creștin local oferă un spațiu pentru închinare carismatică și adunări comunitare spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.583623,
+                        -9.048739
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Salvador",
+                  "text": "Parroquia Cristo Salvador este o biserică parohială catolică cu hramul Hristos Mântuitorul, organizând slujbe regulate și ceremonii religioase pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.614905,
+                        -9.02312
+                  ]
+            },
+            {
+                  "name": "Cruz de la Paz",
+                  "text": "Cruz de la Paz este un monument mare cu cruce creștină înființat ca un simbol proeminent al păcii și al devoțiunii spirituale care domină comunitatea.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.621168,
+                        -9.062544
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Aceasta este o casă de adunare regională pentru Biserica lui Isus Hristos a Sfinților din Zilele din Urmă, facilitând serviciile de cult locale și activitățile congregației.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.579779,
+                        -9.061646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chimbote Bay",
+                  "text": "This large natural bay on the Pacific Ocean is a historically vital hub for the regional fishing and steel industries.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.588955,
+                        -9.123385
+                  ]
+            },
+            {
+                  "name": "Coishco Bay",
+                  "text": "The Bahía de Coishco is a prominent bay located on the Pacific coast of Peru, serving as an important natural feature for the local maritime environment.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.639945,
+                        -9.017089
+                  ]
+            },
+            {
+                  "name": "Almirante Miguel Grau Seminario",
+                  "text": "This monument honors Almirante Miguel Grau Seminario, a renowned Peruvian naval hero, standing as a tribute to his legacy in the coastal region.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590154,
+                        -9.078398
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires Beatos",
+                  "text": "Dedicated to the Blessed Martyrs, this monument commemorates the beatified individuals who gave their lives for their faith in the region.",
+                  "category": "historical",
+                  "coords": [
+                        -78.587721,
+                        -9.077073
+                  ]
+            },
+            {
+                  "name": "Monumento a la Justicia",
+                  "text": "Symbolizing the ideals of fairness and law, the Monumento a la Justicia stands as a prominent public sculptural work in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -78.58959,
+                        -9.076533
+                  ]
+            },
+            {
+                  "name": "Monumento a Haya de la Torre",
+                  "text": "This public monument commemorates Víctor Raúl Haya de la Torre, a major figure in Peruvian political history, honoring his lasting influence.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590774,
+                        -9.07621
+                  ]
+            },
+            {
+                  "name": "Monumentos Marinos",
+                  "text": "The Monumentos Marinos are a collection of maritime-themed sculptural pieces that reflect the area's strong connection to the Pacific Ocean and fishing industry.",
+                  "category": "historical",
+                  "coords": [
+                        -78.59898,
+                        -9.073704
+                  ]
+            },
+            {
+                  "name": "Iglesia de Mormones",
+                  "text": "This local Latter-day Saints meetinghouse provides a dedicated space of worship and community gathering for the area's Mormon congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -78.565195,
+                        -9.10214
+                  ]
+            },
+            {
+                  "name": "Parroquia San José Obrero (Laderas del Norte)",
+                  "text": "Situated in the Laderas del Norte neighborhood, the Parroquia San José Obrero is a local parish church serving the spiritual needs of its community.",
+                  "category": "religious",
+                  "coords": [
+                        -78.587202,
+                        -9.058452
+                  ]
+            },
+            {
+                  "name": "Iglesia del Cerro de la Juventud",
+                  "text": "Perched on the Cerro de la Juventud, this church offers not only a place of religious devotion but also sweeping panoramic views over the coastal city.",
+                  "category": "religious",
+                  "coords": [
+                        -78.617433,
+                        -9.064734
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Santa",
+                  "text": "The Mercado Municipal de Santa is a bustling municipal market where locals gather to trade fresh regional produce, meats, and daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.614928,
+                        -8.986345
+                  ]
+            },
+            {
+                  "name": "Mercado 3 de Octubre",
+                  "text": "This lively local marketplace, named Mercado 3 de Octubre, features numerous vendor stalls offering a vibrant array of local foods and everyday essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.540025,
+                        -9.116337
+                  ]
+            },
+            {
+                  "name": "Mercado de Villa María",
+                  "text": "Located in the Villa María area, this bustling marketplace serves as a crucial commercial hub for residents to purchase fresh coastal catches and agricultural goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.544926,
+                        -9.119478
+                  ]
+            },
+            {
+                  "name": "Mercado minorista PPao",
+                  "text": "The Mercado minorista PPao is a retail market facility providing the surrounding neighborhood with a concentrated space to shop for fresh groceries and daily wares.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.535147,
+                        -9.110425
+                  ]
+            },
+            {
+                  "name": "Mercado La Perla",
+                  "text": "Frequented by local shoppers, Mercado La Perla is a vibrant community market offering a diverse selection of traditional Peruvian ingredients and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.555584,
+                        -9.09839
+                  ]
+            },
+            {
+                  "name": "Los Ferroles",
+                  "text": "The Los Ferroles marketplace is an active trading spot where the community convenes to buy and sell regional agricultural produce and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.558741,
+                        -9.101416
+                  ]
+            },
+            {
+                  "name": "Mercado Miramar",
+                  "text": "Situated near the coast, Mercado Miramar is a typical neighborhood market known for supplying residents with daily necessities and fresh regional supplies.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.583843,
+                        -9.078895
+                  ]
+            },
+            {
+                  "name": "Mercado de Peces La Sirena",
+                  "text": "True to its name, the Mercado de Peces La Sirena is a specialized fish market offering a wide variety of fresh seafood caught daily off the Pacific coast.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.588767,
+                        -9.072634
+                  ]
+            },
+            {
+                  "name": "Las Malvinas",
+                  "text": "Las Malvinas is a prominent local commercial center and market area characterized by its wide array of individual vendors selling goods ranging from food to electronics.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.589054,
+                        -9.074815
+                  ]
+            },
+            {
+                  "name": "Centro Comercial Esquina del Movimiento",
+                  "text": "Operating as a busy urban trading post, the Centro Comercial Esquina del Movimiento gathers numerous stalls offering a diverse mix of daily retail items.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.589099,
+                        -9.073787
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo",
+                  "text": "As a staple of local trade, Mercado Modelo presents a traditional market atmosphere filled with bustling aisles of fresh vegetables, meats, and regional spices.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.590256,
+                        -9.074488
+                  ]
+            },
+            {
+                  "name": "mercado 2 de mayo",
+                  "text": "Named after the significant date in regional history, the Mercado 2 de Mayo is a neighborhood hub providing a vast array of daily groceries and household wares.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.571081,
+                        -9.067753
+                  ]
+            },
+            {
+                  "name": "Mercado Pueblos Unidos",
+                  "text": "Serving the local community, the Mercado Pueblos Unidos is a collaborative marketplace environment where independent vendors sell fresh produce and essential goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.570369,
+                        -9.076462
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Functioning as a wholesale distribution center, the Mercado Mayorista handles large volumes of agricultural and commercial goods supplying smaller local retailers.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.56007,
+                        -9.085122
+                  ]
+            },
+            {
+                  "name": "Mercado Alfonso Ugarte",
+                  "text": "The Mercado Alfonso Ugarte is an energetic local market named for the Peruvian military hero, providing the surrounding streets with fresh food and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.595013,
+                        -9.07166
+                  ]
+            },
+            {
+                  "name": "Plazuela Las Banderas",
+                  "text": "The Plazuela Las Banderas is an open urban plaza adorned with flagpoles, offering a paved space for civic gatherings and neighborhood strolls.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.59377,
+                        -9.075223
+                  ]
+            },
+            {
+                  "name": "Parque \"El Alcón Dorado\"",
+                  "text": "Known as the \"Golden Falcon\" park, this green urban space provides a landscaped recreational area with walkways for the enjoyment of local families.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564315,
+                        -9.103732
+                  ]
+            },
+            {
+                  "name": "Boulevard",
+                  "text": "This urban Boulevard serves as a landscaped pedestrian thoroughfare, ideal for leisurely evening walks and experiencing the lively street atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597517,
+                        -9.074119
+                  ]
+            },
+            {
+                  "name": "Catedral de Chimbote (Basílica de la Asunción de María Santísima)",
+                  "text": "The Catedral de Chimbote, also known as the Basilica of Our Lady of the Assumption, is the principal Catholic cathedral in the city, notable for its significant local ecclesiastical role.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.530776,
+                        -9.121022
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Operating as a Kingdom Hall for Jehovah's Witnesses, this building offers a structured setting for the congregation's Bible studies and Christian worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.537192,
+                        -9.114024
+                  ]
+            },
+            {
+                  "name": "Avivamiento Enmanuel del Peru",
+                  "text": "The Avivamiento Enmanuel del Peru is an evangelical Christian center focusing on spiritual revival meetings and community-based pastoral care.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.573525,
+                        -9.076987
+                  ]
+            },
+            {
+                  "name": "Iglesia Zarza Ardiendo",
+                  "text": "Translating to the \"Burning Bush Church,\" this local Christian sanctuary provides a space for charismatic worship and spiritual community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.583623,
+                        -9.048739
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Salvador",
+                  "text": "The Parroquia Cristo Salvador is a Catholic parish church dedicated to Christ the Savior, organizing regular masses and religious ceremonies for the local faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.614905,
+                        -9.02312
+                  ]
+            },
+            {
+                  "name": "Cruz de la Paz",
+                  "text": "The Cruz de la Paz is a large Christian cross monument established as a prominent symbol of peace and spiritual devotion overlooking the community.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.621168,
+                        -9.062544
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This is a regional meetinghouse for The Church of Jesus Christ of Latter-day Saints, facilitating local worship services and congregation activities.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.579779,
+                        -9.061646
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-ANC",
     coords: [-78.59, -9.06],
@@ -1169,7 +10295,124 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-siderperu-economic-v2.webp"
   },
   {
-    id: "ind-ilosmelter-economic-v2",
+    id: "ind-ilosmelter-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Pocoma",
+                  "text": "Ein malerischer Pazifikküstenstreifen, der sich durch seine schroffe, felsige Küste und starke Meeresströmungen auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.38436,
+                        -17.424725
+                  ]
+            },
+            {
+                  "name": "Playa Wawakiki",
+                  "text": "Ein abgelegener Sandstrand an der süperuanischen Küste, der bei einheimischen Fischern und abenteuerlustigen Surfern beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.384197,
+                        -17.414947
+                  ]
+            },
+            {
+                  "name": "Playa Jaboncillo",
+                  "text": "Dieser wenig besuchte Küstenort ist nach seinen schaumigen Wellen benannt und bietet groben Sand, der mit kleinen Gezeitentümpeln gemischt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.383248,
+                        -17.419692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Pocoma",
+                  "text": "Festői csendes-óceáni partszakasz, amelyet zord sziklás partvonal és erős óceáni hullámzás jellemez.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.38436,
+                        -17.424725
+                  ]
+            },
+            {
+                  "name": "Playa Wawakiki",
+                  "text": "Egy eldugott homokos strand a dél-perui partvidéken, amely népszerű a helyi halászok és a kalandvágyó szörfösök körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.384197,
+                        -17.414947
+                  ]
+            },
+            {
+                  "name": "Playa Jaboncillo",
+                  "text": "A habos hullámairól elnevezett, nem zsúfolt tengerparti részen apró árapálymedencékkel kevert durva homok található.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.383248,
+                        -17.419692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Pocoma",
+                  "text": "O porțiune de coastă pitorească la Oceanul Pacific, caracterizată prin țărmul său stâncos și valurile puternice.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.38436,
+                        -17.424725
+                  ]
+            },
+            {
+                  "name": "Playa Wawakiki",
+                  "text": "O plajă de nisip izolată de pe coasta de sud a Peruului, populară printre pescarii locali și surferii aventuroși.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.384197,
+                        -17.414947
+                  ]
+            },
+            {
+                  "name": "Playa Jaboncillo",
+                  "text": "Numit după valurile sale spumoase, acest loc de coastă neaglomerat prezintă nisip grunjos amestecat cu mici bazine de maree.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.383248,
+                        -17.419692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Pocoma",
+                  "text": "A scenic Pacific coastal stretch characterized by its rugged rocky shoreline and strong ocean swells.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.38436,
+                        -17.424725
+                  ]
+            },
+            {
+                  "name": "Playa Wawakiki",
+                  "text": "A secluded sandy beach on the southern Peruvian coast, popular with local fishermen and adventurous surfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.384197,
+                        -17.414947
+                  ]
+            },
+            {
+                  "name": "Playa Jaboncillo",
+                  "text": "Named for its frothy, soap-like waves, this uncrowded coastal spot features coarse sand mixed with small rock pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.383248,
+                        -17.419692
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-MOQ",
     coords: [-71.36, -17.5],
@@ -1214,7 +10457,1348 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-ilosmelter-economic-v2.webp"
   },
   {
-    id: "ind-cajamarquilla-economic-v2",
+    id: "ind-cajamarquilla-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cajamarquilla",
+                  "text": "Diese weitläufige archäologische Stätte ist eine präkolumbianische Lehmziegelstadt im Jicamarca-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        -76.896667,
+                        -11.981111
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Cajamarquilla",
+                  "text": "Eine bedeutende antike Lehmziegelsiedlung mit Überresten von Verwaltungsgebäuden aus der Prä-Inka-Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        -76.908831,
+                        -11.984979
+                  ]
+            },
+            {
+                  "name": "Lotización Ñaña",
+                  "text": "Diese archäologischen Überreste im Sektor Ñaña bieten Einblicke in frühe indigene Siedlungsmuster.",
+                  "category": "historical",
+                  "coords": [
+                        -76.833611,
+                        -11.980833
+                  ]
+            },
+            {
+                  "name": "Sector Laberinto",
+                  "text": "Dieser Ruinenkomplex zeichnet sich durch ein labyrinthartiges Netzwerk alter Lehmziegelmauern aus.",
+                  "category": "historical",
+                  "coords": [
+                        -76.9063,
+                        -11.985227
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Monumental Huaycán de Pariachi",
+                  "text": "Dieses monumentale Verwaltungszentrum aus der Prä-Inka-Zeit verfügt über erhaltene Architektursektoren aus Stein und Lehmziegeln.",
+                  "category": "historical",
+                  "coords": [
+                        -76.834196,
+                        -12.010111
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Eine antike, geschwungene Theaterstruktur, die in die umliegende archäologische Landschaft integriert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.811152,
+                        -11.985714
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial Santa María",
+                  "text": "Eine lokale christliche Andachtsstätte, die die Nachbarschaft Santa María zu evangelikalen Gottesdiensten versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -76.978765,
+                        -11.963943
+                  ]
+            },
+            {
+                  "name": "IEP Jerusalén",
+                  "text": "Eine auf die Gemeinschaft ausgerichtete Andachtsstätte, die religiöse Zusammenkünfte mit Bildungsaktivitäten verbindet.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820953,
+                        -12.015848
+                  ]
+            },
+            {
+                  "name": "Anexo Fundo Rodolfo",
+                  "text": "Diese bescheidene Andachtsstätte dient den spirituellen Bedürfnissen des ländlichen Nebengebäudes Fundo Rodolfo.",
+                  "category": "religious",
+                  "coords": [
+                        -76.845555,
+                        -12.010319
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Eine protestantische Gemeinde, die sich durch ihre Sabbatgottesdienste am Samstag und ihr lokales Engagement auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820052,
+                        -11.98836
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa de Lima",
+                  "text": "Eine kleine katholische Kapelle, die der ersten Heiligen Amerikas gewidmet ist und einen ruhigen Ort zum Beten bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -76.898742,
+                        -11.985311
+                  ]
+            },
+            {
+                  "name": "Capilla De Alfonso Cobian",
+                  "text": "Eine kleine Gemeindekirche, die dem Viertel Alfonso Cobian regelmäßige katholische Messen und spirituelle Führung anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -76.806588,
+                        -11.986505
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein gepflegtes Gemeindehaus der HLT-Kirche, erkennbar an seiner modernen, funktionalen Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -76.81128,
+                        -11.987584
+                  ]
+            },
+            {
+                  "name": "Iglesia Divino Niño Jesús de Praga - Ñaña",
+                  "text": "Diese katholische Kirche im Bezirk Ñaña ist speziell der Verehrung des Prager Jesulein gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -76.818263,
+                        -11.981437
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Maria de los Angeles",
+                  "text": "Eine malerische lokale Kapelle, die mit traditioneller religiöser Ikonographie für katholische Gläubige geschmückt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820531,
+                        -11.978538
+                  ]
+            },
+            {
+                  "name": "Mercado Nuevo Horizonte",
+                  "text": "Ein belebter Nachbarschaftsmarkt, auf dem Händler frische regionale Produkte und Haushaltswaren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.853409,
+                        -12.001277
+                  ]
+            },
+            {
+                  "name": "Mercado El Progreso",
+                  "text": "Ein lebhafter, überdachter Marktplatz mit einer großen Auswahl an frischem Obst, Gemüse und lokalem Streetfood.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.949852,
+                        -11.944126
+                  ]
+            },
+            {
+                  "name": "Mercado Vella Rinconada",
+                  "text": "Dieser gemeinschaftliche Handelsplatz ist im Gebiet Rinconada die erste Adresse für frische Lebensmittel und farbenfrohe Stände.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.941391,
+                        -11.913847
+                  ]
+            },
+            {
+                  "name": "Mercado Julio C. Tello",
+                  "text": "Dieser lebhafte Markt, benannt nach dem berühmten peruanischen Archäologen, versorgt die Gemeinde mit frischem Fleisch und Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.946947,
+                        -11.982232
+                  ]
+            },
+            {
+                  "name": "Mercado Metro",
+                  "text": "Ein modernes Einkaufszentrum, das den Bewohnern einen bequemen Ort bietet, um verschiedene Güter des täglichen Bedarfs zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.945139,
+                        -11.984597
+                  ]
+            },
+            {
+                  "name": "Mercado Corazón de Jesús",
+                  "text": "Ein traditioneller lokaler Markt, auf dem geschäftige Händler alles von andinen Knollen bis hin zu fangfrischem Fisch anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.899959,
+                        -11.986507
+                  ]
+            },
+            {
+                  "name": "Mercado Flor de Oliva",
+                  "text": "Ein eng verbundenes Gemeinschaftsmarktplatz mit Reihen von Frischwarenständen und kleinen Lebensmitteltheken.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.864629,
+                        -12.00262
+                  ]
+            },
+            {
+                  "name": "Mercado Pariachi I",
+                  "text": "Dieser lokale Markt versorgt die Bewohner des Pariachi-Sektors mit einer täglichen Lieferung frischer lokaler Zutaten.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.844233,
+                        -12.005841
+                  ]
+            },
+            {
+                  "name": "Mercado 21 de Julio",
+                  "text": "Ein lebhafter Tagesmarkt zur Erinnerung an ein historisches Datum im Juli, gefüllt mit kleinen Händlern, die Haushaltsartikel verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.809473,
+                        -12.012389
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo de Huaycán Nº 1",
+                  "text": "Ein großer, hochgradig organisierter städtischer Markt, der als primäres Einkaufsziel für die riesige Gemeinde Huaycán dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.823836,
+                        -12.011522
+                  ]
+            },
+            {
+                  "name": "Mercado La Arenera Huaycán",
+                  "text": "Dieser belebte Markt in der Nähe der Sandgebiete von Huaycán bietet eine vielfältige Auswahl an Textilien und Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.825434,
+                        -12.007429
+                  ]
+            },
+            {
+                  "name": "Mercado 1ro de Mayo - Huascata",
+                  "text": "Dieser nach dem Tag der Arbeit benannte Markt in Huascata bietet farbenfrohe Stände mit saisonalen lokalen Früchten.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.819695,
+                        -11.993477
+                  ]
+            },
+            {
+                  "name": "Mercado Monitor Huascar",
+                  "text": "Ein lebhafter Nachbarschaftsmarkt, benannt nach dem historischen peruanischen Panzerschiff, der frische Lebensmittel für den täglichen Bedarf liefert.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.813051,
+                        -11.986384
+                  ]
+            },
+            {
+                  "name": "Mercado Ñaña",
+                  "text": "Der zentrale Handelsplatz für das Gebiet Ñaña, gekennzeichnet durch seine energiegeladene Atmosphäre und frische regionale Essensstände.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.819502,
+                        -11.986219
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Inmaculada Concepción",
+                  "text": "Dieser lokale Markt, der der Unbefleckten Empfängnis gewidmet ist, ist ein beliebter täglicher Stopp für frisches Geflügel und Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.908785,
+                        -11.979211
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Natividad",
+                  "text": "Ein lebhafter Lebensmittel- und Warenmarkt, der als wichtiger Treffpunkt für Einwohner beim Kauf frischer Zutaten dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.9415,
+                        -11.980141
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de los Milagros",
+                  "text": "Benannt nach Perus am meisten verehrtem Schutzpatron, bietet dieser geschäftige überdachte Markt Reihen von Gewürzen, Fleisch und lokalen Köstlichkeiten.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.967062,
+                        -11.938946
+                  ]
+            },
+            {
+                  "name": "Mercado Jicamarca Anexo 22",
+                  "text": "Dieser wichtige lokale Markt im felsigen Sektor Anexo 22 von Jicamarca versorgt die aufstrebende Hanggemeinde mit lebenswichtigen Vorräten.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.95972,
+                        -11.92572
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Santa María",
+                  "text": "Ein strukturierter, gut organisierter städtischer Marktplatz, auf dem die Gemeinde Santa María ihre täglichen Kochzutaten einkauft.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.975697,
+                        -11.964831
+                  ]
+            },
+            {
+                  "name": "Cristo Es El Camino",
+                  "text": "Ein bescheidenes evangelikales christliches Zentrum, das lebendige Gottesdienste mit dem Fokus auf die Botschaft „Christus ist der Weg“ anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.824796,
+                        -12.016569
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal Misionera-Jicamarca",
+                  "text": "Diese lebendige pfingstliche Missionskirche dient dem Gebiet Jicamarca mit energischem musikalischem Lobpreis und Gemeindearbeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.943909,
+                        -11.981389
+                  ]
+            },
+            {
+                  "name": "La iglesia de Jesucristo",
+                  "text": "Eine moderne christliche Gemeindeeinrichtung, die regelmäßig Sonntagspredigten und nachbarschaftliche Unterstützungsinitiativen veranstaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.87885,
+                        -11.99999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cajamarquilla",
+                  "text": "Ez a kiterjedt régészeti lelőhely egy Kolumbusz előtti vályogváros a Jicamarca-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -76.896667,
+                        -11.981111
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Cajamarquilla",
+                  "text": "Jelentős ősi, vályogtéglából épült település, amely az inka előtti közigazgatási épületek maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -76.908831,
+                        -11.984979
+                  ]
+            },
+            {
+                  "name": "Lotización Ñaña",
+                  "text": "A Ñaña szektorban található régészeti maradványok bepillantást engednek a korai őslakos településszerkezetbe.",
+                  "category": "historical",
+                  "coords": [
+                        -76.833611,
+                        -11.980833
+                  ]
+            },
+            {
+                  "name": "Sector Laberinto",
+                  "text": "Ezt a romegyüttest az ősi vályogfalak labirintusszerű hálózata jellemzi.",
+                  "category": "historical",
+                  "coords": [
+                        -76.9063,
+                        -11.985227
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Monumental Huaycán de Pariachi",
+                  "text": "Ez a monumentális inka előtti közigazgatási központ jó állapotban fennmaradt kő- és vályogépítészeti szektorokkal rendelkezik.",
+                  "category": "historical",
+                  "coords": [
+                        -76.834196,
+                        -12.010111
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Egy ősi, ívelt színházi építmény, amely tökéletesen illeszkedik a környező régészeti tájba.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.811152,
+                        -11.985714
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial Santa María",
+                  "text": "Egy helyi keresztény istentiszteleti hely, amely a Santa María negyed lakóit gyűjti össze evangéliumi szertartásokra.",
+                  "category": "religious",
+                  "coords": [
+                        -76.978765,
+                        -11.963943
+                  ]
+            },
+            {
+                  "name": "IEP Jerusalén",
+                  "text": "Egy közösségközpontú istentiszteleti hely, amely a vallási összejöveteleket oktatási tevékenységekkel ötvözi.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820953,
+                        -12.015848
+                  ]
+            },
+            {
+                  "name": "Anexo Fundo Rodolfo",
+                  "text": "Ez a szerény istentiszteleti hely a vidéki Fundo Rodolfo melléképület spirituális igényeit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        -76.845555,
+                        -12.010319
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Egy protestáns gyülekezet, amelyet a szombati istentiszteletek és a helyi közösségi szerepvállalás jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820052,
+                        -11.98836
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa de Lima",
+                  "text": "Az Amerika első szentjének szentelt kis katolikus kápolna, amely csendes teret kínál az imádkozásra.",
+                  "category": "religious",
+                  "coords": [
+                        -76.898742,
+                        -11.985311
+                  ]
+            },
+            {
+                  "name": "Capilla De Alfonso Cobian",
+                  "text": "Egy negyedbeli templom, amely rendszeres katolikus miséket és lelki útmutatást nyújt az Alfonso Cobian környékieknek.",
+                  "category": "religious",
+                  "coords": [
+                        -76.806588,
+                        -11.986505
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az LDS Egyház gondozott gyülekezeti háza, amely modern, funkcionális építészetéről ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        -76.81128,
+                        -11.987584
+                  ]
+            },
+            {
+                  "name": "Iglesia Divino Niño Jesús de Praga - Ñaña",
+                  "text": "Ez a Ñaña kerületben található katolikus templom kifejezetten a prágai Kisjézus tiszteletének van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -76.818263,
+                        -11.981437
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Maria de los Angeles",
+                  "text": "Hagyományos vallási ikonográfiával díszített festői helyi kápolna a katolikus hívők számára.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820531,
+                        -11.978538
+                  ]
+            },
+            {
+                  "name": "Mercado Nuevo Horizonte",
+                  "text": "Egy nyüzsgő környékbeli piac, ahol az árusok friss regionális termékeket és mindennapi háztartási cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.853409,
+                        -12.001277
+                  ]
+            },
+            {
+                  "name": "Mercado El Progreso",
+                  "text": "Nyüzsgő, fedett piac, amely friss gyümölcsök, zöldségek és helyi utcai ételek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.949852,
+                        -11.944126
+                  ]
+            },
+            {
+                  "name": "Mercado Vella Rinconada",
+                  "text": "Ez a közösségi kereskedelmi csomópont a Rinconada térség legnépszerűbb helye a friss élelmiszerek és a színes standok miatt.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.941391,
+                        -11.913847
+                  ]
+            },
+            {
+                  "name": "Mercado Julio C. Tello",
+                  "text": "A híres perui régészről elnevezett nyüzsgő piac friss hússal és zöldséggel látja el a helyi közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.946947,
+                        -11.982232
+                  ]
+            },
+            {
+                  "name": "Mercado Metro",
+                  "text": "Egy modern kereskedelmi központ, amely kényelmes teret biztosít a lakosok számára a legkülönfélébb mindennapi cikkek megvásárlásához.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.945139,
+                        -11.984597
+                  ]
+            },
+            {
+                  "name": "Mercado Corazón de Jesús",
+                  "text": "Egy hagyományos helyi piac, amely nyüzsög az árusoktól, akik az andoki gumóktól kezdve a frissen fogott halakig mindent kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.899959,
+                        -11.986507
+                  ]
+            },
+            {
+                  "name": "Mercado Flor de Oliva",
+                  "text": "Egy szoros közösségi piac, ahol friss termékeket kínáló standok és kis ételpultok sorakoznak.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.864629,
+                        -12.00262
+                  ]
+            },
+            {
+                  "name": "Mercado Pariachi I",
+                  "text": "Ez a helyi piac a Pariachi szektor lakosait látja el mindennap friss helyi alapanyagokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.844233,
+                        -12.005841
+                  ]
+            },
+            {
+                  "name": "Mercado 21 de Julio",
+                  "text": "Egy nyüzsgő napi piac, amely egy júliusi történelmi dátumnak állít emléket, tele háztartási cikkeket árusító kiskereskedőkkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.809473,
+                        -12.012389
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo de Huaycán Nº 1",
+                  "text": "Egy nagy, magasan szervezett önkormányzati piac, amely az óriási Huaycán közösség elsődleges bevásárlóhelyeként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.823836,
+                        -12.011522
+                  ]
+            },
+            {
+                  "name": "Mercado La Arenera Huaycán",
+                  "text": "A Huaycán homokos területei közelében található nyüzsgő piac textíliák és élelmiszerek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.825434,
+                        -12.007429
+                  ]
+            },
+            {
+                  "name": "Mercado 1ro de Mayo - Huascata",
+                  "text": "A nemzetközi munka ünnepe után elnevezett huascatai piac színes standjain szezonális helyi gyümölcsöket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.819695,
+                        -11.993477
+                  ]
+            },
+            {
+                  "name": "Mercado Monitor Huascar",
+                  "text": "A történelmi perui páncéloshajó tiszteletére elnevezett nyüzsgő környékbeli piac, amely friss napi élelmiszereket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.813051,
+                        -11.986384
+                  ]
+            },
+            {
+                  "name": "Mercado Ñaña",
+                  "text": "A Ñaña terület központi kereskedelmi csomópontja, amelyet energikus légkör és friss regionális ételstandok jellemeznek.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.819502,
+                        -11.986219
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Inmaculada Concepción",
+                  "text": "Ez a Szeplőtelen Fogantatásnak szentelt helyi piac kedvelt napi megálló a friss baromfi és zöldség vásárlására.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.908785,
+                        -11.979211
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Natividad",
+                  "text": "Egy élénk élelmiszer- és árupiac, amely elengedhetetlen közösségi találkozóhelyként szolgál a friss alapanyagokat vásárló lakosok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.9415,
+                        -11.980141
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de los Milagros",
+                  "text": "A Peru legtiszteltebb védőszentjéről elnevezett nyüzsgő fedett piac fűszerek, húsok és helyi finomságok sorait kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.967062,
+                        -11.938946
+                  ]
+            },
+            {
+                  "name": "Mercado Jicamarca Anexo 22",
+                  "text": "A Jicamarca sziklás Anexo 22 szektorában található kulcsfontosságú helyi piac alapvető kellékekkel látja el a fejlődő hegyoldali közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.95972,
+                        -11.92572
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Santa María",
+                  "text": "Egy strukturált, jól szervezett önkormányzati piac, ahol a Santa María közösség megvásárolja napi főzési alapanyagait.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.975697,
+                        -11.964831
+                  ]
+            },
+            {
+                  "name": "Cristo Es El Camino",
+                  "text": "Egy szerény evangéliumi keresztény központ, amely élénk istentiszteleteket kínál a \"Krisztus az Út\" üzenetére összpontosítva.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.824796,
+                        -12.016569
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal Misionera-Jicamarca",
+                  "text": "Ez a nyüzsgő pünkösdi missziós gyülekezet energikus zenés istentisztelettel és közösségi munkával szolgálja a Jicamarca térséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.943909,
+                        -11.981389
+                  ]
+            },
+            {
+                  "name": "La iglesia de Jesucristo",
+                  "text": "Egy kortárs keresztény közösségi létesítmény, amely rendszeres vasárnapi prédikációknak és a környékbeli támogató kezdeményezéseknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.87885,
+                        -11.99999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cajamarquilla",
+                  "text": "Acest vast sit arheologic este o structură urbană precolumbiană din chirpici, situată în valea Jicamarca.",
+                  "category": "historical",
+                  "coords": [
+                        -76.896667,
+                        -11.981111
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Cajamarquilla",
+                  "text": "O așezare antică importantă din chirpici, care păstrează ruinele clădirilor administrative pre-incașe.",
+                  "category": "historical",
+                  "coords": [
+                        -76.908831,
+                        -11.984979
+                  ]
+            },
+            {
+                  "name": "Lotización Ñaña",
+                  "text": "Aceste vestigii arheologice din sectorul Ñaña oferă o privire asupra primelor tipare de așezare indigenă.",
+                  "category": "historical",
+                  "coords": [
+                        -76.833611,
+                        -11.980833
+                  ]
+            },
+            {
+                  "name": "Sector Laberinto",
+                  "text": "Acest complex de ruine se distinge printr-o rețea labirintică de ziduri antice din chirpici.",
+                  "category": "historical",
+                  "coords": [
+                        -76.9063,
+                        -11.985227
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Monumental Huaycán de Pariachi",
+                  "text": "Acest centru administrativ monumental pre-incaș prezintă sectoare arhitecturale conservate din piatră și chirpici.",
+                  "category": "historical",
+                  "coords": [
+                        -76.834196,
+                        -12.010111
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "O structură antică de teatru cu formă curbată, integrată în peisajul arheologic înconjurător.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.811152,
+                        -11.985714
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial Santa María",
+                  "text": "Un lăcaș de cult creștin local care adună comunitatea din cartierul Santa María pentru slujbe evanghelice.",
+                  "category": "religious",
+                  "coords": [
+                        -76.978765,
+                        -11.963943
+                  ]
+            },
+            {
+                  "name": "IEP Jerusalén",
+                  "text": "Un lăcaș de cult orientat spre comunitate, care integrează adunările religioase cu activități educaționale.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820953,
+                        -12.015848
+                  ]
+            },
+            {
+                  "name": "Anexo Fundo Rodolfo",
+                  "text": "Acest modest lăcaș de cult deservește nevoile spirituale ale anexei rurale Fundo Rodolfo.",
+                  "category": "religious",
+                  "coords": [
+                        -76.845555,
+                        -12.010319
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "O congregație protestantă caracterizată prin slujbele de Sabat de sâmbătă și implicarea în comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820052,
+                        -11.98836
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa de Lima",
+                  "text": "O mică capelă catolică dedicată primei sfinte a Americilor, oferind un spațiu liniștit pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -76.898742,
+                        -11.985311
+                  ]
+            },
+            {
+                  "name": "Capilla De Alfonso Cobian",
+                  "text": "O biserică de cartier care oferă liturghii catolice regulate și îndrumare spirituală pentru zona Alfonso Cobian.",
+                  "category": "religious",
+                  "coords": [
+                        -76.806588,
+                        -11.986505
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de adunare bine întreținută a Bisericii SZZ, recunoscută prin arhitectura sa modernă și funcțională.",
+                  "category": "religious",
+                  "coords": [
+                        -76.81128,
+                        -11.987584
+                  ]
+            },
+            {
+                  "name": "Iglesia Divino Niño Jesús de Praga - Ñaña",
+                  "text": "Această biserică catolică din districtul Ñaña este dedicată în mod specific venerației Pruncului Iisus din Praga.",
+                  "category": "religious",
+                  "coords": [
+                        -76.818263,
+                        -11.981437
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Maria de los Angeles",
+                  "text": "O capelă locală pitorească împodobită cu iconografie religioasă tradițională pentru credincioșii catolici.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820531,
+                        -11.978538
+                  ]
+            },
+            {
+                  "name": "Mercado Nuevo Horizonte",
+                  "text": "O piață de cartier plină de viață, unde vânzătorii comercializează produse regionale proaspete și bunuri de uz casnic zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.853409,
+                        -12.001277
+                  ]
+            },
+            {
+                  "name": "Mercado El Progreso",
+                  "text": "O piață acoperită și animată, care oferă o gamă largă de fructe, legume proaspete și mâncare stradală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.949852,
+                        -11.944126
+                  ]
+            },
+            {
+                  "name": "Mercado Vella Rinconada",
+                  "text": "Acest centru comercial comunitar este locul principal din zona Rinconada pentru cumpărături alimentare proaspete la tarabe colorate.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.941391,
+                        -11.913847
+                  ]
+            },
+            {
+                  "name": "Mercado Julio C. Tello",
+                  "text": "Numită după celebrul arheolog peruvian, această piață vibrantă aprovizionează comunitatea locală cu carne și produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.946947,
+                        -11.982232
+                  ]
+            },
+            {
+                  "name": "Mercado Metro",
+                  "text": "Un centru comercial modern care oferă locuitorilor un spațiu convenabil pentru a cumpăra diverse bunuri de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.945139,
+                        -11.984597
+                  ]
+            },
+            {
+                  "name": "Mercado Corazón de Jesús",
+                  "text": "O piață locală tradițională, plină de vânzători care oferă de toate, de la tuberculi andini la pește proaspăt prins.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.899959,
+                        -11.986507
+                  ]
+            },
+            {
+                  "name": "Mercado Flor de Oliva",
+                  "text": "O piață comunitară restrânsă, cu șiruri de tarabe cu produse proaspete și mici tejghele cu mâncare.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.864629,
+                        -12.00262
+                  ]
+            },
+            {
+                  "name": "Mercado Pariachi I",
+                  "text": "Această piață locală deservește locuitorii din sectorul Pariachi cu o aprovizionare zilnică de ingrediente locale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.844233,
+                        -12.005841
+                  ]
+            },
+            {
+                  "name": "Mercado 21 de Julio",
+                  "text": "O piață zilnică plină de viață care comemorează o dată istorică din iulie, plină de mici comercianți care vând produse de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.809473,
+                        -12.012389
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo de Huaycán Nº 1",
+                  "text": "O piață municipală mare, foarte organizată, care servește drept principala destinație de cumpărături pentru vasta comunitate Huaycán.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.823836,
+                        -12.011522
+                  ]
+            },
+            {
+                  "name": "Mercado La Arenera Huaycán",
+                  "text": "Situată în apropierea zonelor nisipoase din Huaycán, această piață plină de viață oferă o gamă variată de textile și produse alimentare.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.825434,
+                        -12.007429
+                  ]
+            },
+            {
+                  "name": "Mercado 1ro de Mayo - Huascata",
+                  "text": "Numită după Ziua Internațională a Muncii, această piață din Huascata se remarcă prin tarabe colorate cu fructe locale de sezon.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.819695,
+                        -11.993477
+                  ]
+            },
+            {
+                  "name": "Mercado Monitor Huascar",
+                  "text": "O piață de cartier vibrantă, numită în onoarea navei blindate istorice peruviene, care furnizează alimente proaspete zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.813051,
+                        -11.986384
+                  ]
+            },
+            {
+                  "name": "Mercado Ñaña",
+                  "text": "Centrul comercial central pentru zona Ñaña, caracterizat de atmosfera sa plină de energie și de tarabele cu mâncare regională proaspătă.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.819502,
+                        -11.986219
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Inmaculada Concepción",
+                  "text": "Această piață locală, dedicată Imaculatei Concepții, este o oprire zilnică populară pentru carne proaspătă de pasăre și legume.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.908785,
+                        -11.979211
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Natividad",
+                  "text": "O piață animată de alimente și bunuri, care servește drept punct esențial de adunare comunitară pentru rezidenții care cumpără ingrediente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.9415,
+                        -11.980141
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de los Milagros",
+                  "text": "Numită după cel mai venerat patron al Peruului, această piață interioară animată prezintă șiruri de condimente, carne și delicatese locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.967062,
+                        -11.938946
+                  ]
+            },
+            {
+                  "name": "Mercado Jicamarca Anexo 22",
+                  "text": "Situată în sectorul stâncos Anexo 22 din Jicamarca, această piață locală cheie furnizează provizii esențiale comunității în dezvoltare de pe deal.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.95972,
+                        -11.92572
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Santa María",
+                  "text": "O piață municipală structurată și bine organizată, unde comunitatea Santa María își face cumpărăturile zilnice pentru gătit.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.975697,
+                        -11.964831
+                  ]
+            },
+            {
+                  "name": "Cristo Es El Camino",
+                  "text": "Un centru creștin evanghelic umil care oferă slujbe de închinare vibrante axate pe mesajul că „Hristos este Calea”.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.824796,
+                        -12.016569
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal Misionera-Jicamarca",
+                  "text": "Această biserică misionară penticostală plină de viață deservește zona Jicamarca prin slujbe muzicale energice și implicare comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.943909,
+                        -11.981389
+                  ]
+            },
+            {
+                  "name": "La iglesia de Jesucristo",
+                  "text": "O unitate comunitară creștină contemporană, care găzduiește predici regulate de duminică și inițiative de sprijin pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.87885,
+                        -11.99999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cajamarquilla",
+                  "text": "This expansive archaeological site is a pre-Columbian adobe city located in the Jicamarca Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -76.896667,
+                        -11.981111
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Cajamarquilla",
+                  "text": "A significant ancient mud-brick settlement featuring remnants of pre-Inca administrative buildings.",
+                  "category": "historical",
+                  "coords": [
+                        -76.908831,
+                        -11.984979
+                  ]
+            },
+            {
+                  "name": "Lotización Ñaña",
+                  "text": "These archaeological remains in the Ñaña sector offer glimpses into early indigenous settlement patterns.",
+                  "category": "historical",
+                  "coords": [
+                        -76.833611,
+                        -11.980833
+                  ]
+            },
+            {
+                  "name": "Sector Laberinto",
+                  "text": "This ruin complex is characterized by a labyrinthine network of ancient adobe walls.",
+                  "category": "historical",
+                  "coords": [
+                        -76.9063,
+                        -11.985227
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Monumental Huaycán de Pariachi",
+                  "text": "This monumental pre-Inca administrative center features preserved stone and mud-brick architectural sectors.",
+                  "category": "historical",
+                  "coords": [
+                        -76.834196,
+                        -12.010111
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An ancient, curved theater structure integrated into the surrounding archaeological landscape.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.811152,
+                        -11.985714
+                  ]
+            },
+            {
+                  "name": "Movimiento Misionero Mundial Santa María",
+                  "text": "A local Christian place of worship that gathers the Santa María neighborhood for evangelical services.",
+                  "category": "religious",
+                  "coords": [
+                        -76.978765,
+                        -11.963943
+                  ]
+            },
+            {
+                  "name": "IEP Jerusalén",
+                  "text": "A community-focused place of worship that integrates religious gatherings with educational activities.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820953,
+                        -12.015848
+                  ]
+            },
+            {
+                  "name": "Anexo Fundo Rodolfo",
+                  "text": "This modest place of worship serves the spiritual needs of the rural Fundo Rodolfo annex.",
+                  "category": "religious",
+                  "coords": [
+                        -76.845555,
+                        -12.010319
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A Protestant congregation characterized by its Saturday Sabbath services and local community outreach.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820052,
+                        -11.98836
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa de Lima",
+                  "text": "A small Catholic chapel dedicated to the first saint of the Americas, offering a quiet space for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -76.898742,
+                        -11.985311
+                  ]
+            },
+            {
+                  "name": "Capilla De Alfonso Cobian",
+                  "text": "A neighborhood church providing regular Catholic masses and spiritual guidance for the Alfonso Cobian area.",
+                  "category": "religious",
+                  "coords": [
+                        -76.806588,
+                        -11.986505
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A neatly maintained meetinghouse of the LDS Church, recognizable by its modern, functional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -76.81128,
+                        -11.987584
+                  ]
+            },
+            {
+                  "name": "Iglesia Divino Niño Jesús de Praga - Ñaña",
+                  "text": "This Catholic church in the Ñaña district is specifically dedicated to the veneration of the Infant Jesus of Prague.",
+                  "category": "religious",
+                  "coords": [
+                        -76.818263,
+                        -11.981437
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Maria de los Angeles",
+                  "text": "A quaint local chapel adorned with traditional religious iconography for Catholic worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        -76.820531,
+                        -11.978538
+                  ]
+            },
+            {
+                  "name": "Mercado Nuevo Horizonte",
+                  "text": "A bustling neighborhood market where vendors sell fresh regional produce and daily household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.853409,
+                        -12.001277
+                  ]
+            },
+            {
+                  "name": "Mercado El Progreso",
+                  "text": "A lively, covered marketplace offering a wide array of fresh fruits, vegetables, and local street food.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.949852,
+                        -11.944126
+                  ]
+            },
+            {
+                  "name": "Mercado Vella Rinconada",
+                  "text": "This community trading hub is the go-to spot in the Rinconada area for fresh groceries and colorful stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.941391,
+                        -11.913847
+                  ]
+            },
+            {
+                  "name": "Mercado Julio C. Tello",
+                  "text": "Named after the famous Peruvian archaeologist, this vibrant market supplies the local community with fresh meat and produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.946947,
+                        -11.982232
+                  ]
+            },
+            {
+                  "name": "Mercado Metro",
+                  "text": "A modern commercial center providing residents with a convenient space to buy diverse everyday goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.945139,
+                        -11.984597
+                  ]
+            },
+            {
+                  "name": "Mercado Corazón de Jesús",
+                  "text": "A traditional local market bustling with vendors offering everything from Andean tubers to freshly caught fish.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.899959,
+                        -11.986507
+                  ]
+            },
+            {
+                  "name": "Mercado Flor de Oliva",
+                  "text": "A closely-knit community marketplace featuring rows of fresh produce stalls and small food counters.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.864629,
+                        -12.00262
+                  ]
+            },
+            {
+                  "name": "Mercado Pariachi I",
+                  "text": "This local market serves the residents of the Pariachi sector with a daily supply of fresh local ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.844233,
+                        -12.005841
+                  ]
+            },
+            {
+                  "name": "Mercado 21 de Julio",
+                  "text": "A lively daily market commemorating a July historical date, filled with small merchants selling household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.809473,
+                        -12.012389
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo de Huaycán Nº 1",
+                  "text": "A large, highly organized municipal market that acts as the primary shopping destination for the vast Huaycán community.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.823836,
+                        -12.011522
+                  ]
+            },
+            {
+                  "name": "Mercado La Arenera Huaycán",
+                  "text": "Located near the sandy areas of Huaycán, this bustling market offers a diverse range of textiles and food products.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.825434,
+                        -12.007429
+                  ]
+            },
+            {
+                  "name": "Mercado 1ro de Mayo - Huascata",
+                  "text": "Named after International Workers' Day, this market in Huascata features colorful stalls with seasonal local fruits.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.819695,
+                        -11.993477
+                  ]
+            },
+            {
+                  "name": "Mercado Monitor Huascar",
+                  "text": "A vibrant neighborhood marketplace named in honor of the historic Peruvian ironclad ship, supplying fresh daily groceries.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.813051,
+                        -11.986384
+                  ]
+            },
+            {
+                  "name": "Mercado Ñaña",
+                  "text": "The central trading hub for the Ñaña area, characterized by its energetic atmosphere and fresh regional food stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.819502,
+                        -11.986219
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Inmaculada Concepción",
+                  "text": "This local market, dedicated to the Immaculate Conception, is a popular daily stop for fresh poultry and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.908785,
+                        -11.979211
+                  ]
+            },
+            {
+                  "name": "Mercado Virgen Natividad",
+                  "text": "A lively food and goods market serving as an essential community gathering point for residents buying fresh ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.9415,
+                        -11.980141
+                  ]
+            },
+            {
+                  "name": "Mercado Señor de los Milagros",
+                  "text": "Named after Peru's most revered patron, this bustling indoor market features rows of spices, meats, and local delicacies.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.967062,
+                        -11.938946
+                  ]
+            },
+            {
+                  "name": "Mercado Jicamarca Anexo 22",
+                  "text": "Located in the rocky Anexo 22 sector of Jicamarca, this key local market supplies essential provisions to the developing hillside community.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.95972,
+                        -11.92572
+                  ]
+            },
+            {
+                  "name": "Mercado Modelo Santa María",
+                  "text": "A structured, well-organized municipal marketplace where the Santa María community shops for their daily cooking ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.975697,
+                        -11.964831
+                  ]
+            },
+            {
+                  "name": "Cristo Es El Camino",
+                  "text": "A humble evangelical Christian center offering vibrant worship services focused on the message that \"Christ is the Way.\"",
+                  "category": "landmark",
+                  "coords": [
+                        -76.824796,
+                        -12.016569
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal Misionera-Jicamarca",
+                  "text": "This lively Pentecostal missionary church serves the Jicamarca area with energetic musical worship and community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.943909,
+                        -11.981389
+                  ]
+            },
+            {
+                  "name": "La iglesia de Jesucristo",
+                  "text": "A contemporary Christian community facility hosting regular Sunday sermons and neighborhood support initiatives.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.87885,
+                        -11.99999
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-LMA",
     coords: [-76.89, -11.98],
@@ -1259,7 +11843,88 @@ export const poiExtraPeruEconomicV2: POI[] = [
     image: "/poi-images/ind-cajamarquilla-economic-v2.webp"
   },
   {
-    id: "ind-orcopampa-economic-v2",
+    id: "ind-orcopampa-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huamangore",
+                  "text": "Dieser markante Andengipfel zeichnet sich durch schroffes, felsiges Gelände aus, das typisch für die Region Orcopampa ist.",
+                  "category": "natural",
+                  "coords": [
+                        -72.2669,
+                        -15.29366
+                  ]
+            },
+            {
+                  "name": "Aguas Termales de Huancarama",
+                  "text": "Diese natürlichen Thermalquellen bieten warme, therapeutische Mineralbäder inmitten der schroffen Andenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.312062,
+                        -15.215357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huamangore",
+                  "text": "Ez a kiemelkedő andoki hegycsúcs zord, sziklás tereppel rendelkezik, amely az Orcopampa régióra jellemző.",
+                  "category": "natural",
+                  "coords": [
+                        -72.2669,
+                        -15.29366
+                  ]
+            },
+            {
+                  "name": "Aguas Termales de Huancarama",
+                  "text": "Ezek a természetes hőforrások meleg, terápiás ásványvizes fürdőket kínálnak a zord andoki tájjal körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.312062,
+                        -15.215357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huamangore",
+                  "text": "Acest vârf andin proeminent prezintă un teren accidentat și stâncos, tipic regiunii Orcopampa.",
+                  "category": "natural",
+                  "coords": [
+                        -72.2669,
+                        -15.29366
+                  ]
+            },
+            {
+                  "name": "Aguas Termales de Huancarama",
+                  "text": "Aceste izvoare termale naturale oferă băi minerale calde, terapeutice, înconjurate de peisajul andin accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.312062,
+                        -15.215357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huamangore",
+                  "text": "This prominent Andean peak features rugged, rocky terrain typical of the Orcopampa region.",
+                  "category": "natural",
+                  "coords": [
+                        -72.2669,
+                        -15.29366
+                  ]
+            },
+            {
+                  "name": "Aguas Termales de Huancarama",
+                  "text": "These natural thermal springs offer warm, therapeutic mineral baths surrounded by the rugged Andean landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.312062,
+                        -15.215357
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "PE-ARE",
     coords: [-72.32, -15.26],

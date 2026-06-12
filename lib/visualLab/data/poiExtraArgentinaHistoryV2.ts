@@ -3,7 +3,52 @@ import type { POI } from "./poi";
 
 export const poiExtraArgentinaHistoryV2: POI[] = [
   {
-    id: "ar-cueva-de-las-manos-history-v2",
+    id: "ar-cueva-de-las-manos-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Corona",
+                  "text": "Ein schroffer patagonischer Berggipfel, der sich markant über die trockene Steppenlandschaft der Region erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.199432,
+                        -47.136116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Corona",
+                  "text": "Zord patagóniai hegycsúcs, amely kiemelkedik a régió száraz sztyeppés tájából.",
+                  "category": "natural",
+                  "coords": [
+                        -70.199432,
+                        -47.136116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Corona",
+                  "text": "Un vârf muntos accidentat din Patagonia care se înalță proeminent deasupra peisajului arid de stepă al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -70.199432,
+                        -47.136116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Corona",
+                  "text": "A rugged Patagonian mountain peak rising prominently above the arid steppe landscape of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -70.199432,
+                        -47.136116
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "An ancient cave featuring prehistoric paintings of hands, dating back thousands of years.",
       hu: "Világhírű régészeti lelőhely Santa Cruz tartományban, a Pinturas-folyó kanyonjában. A barlang falait több ezer éves, vadászó közösségek által készített festmények díszítik.",
@@ -55,7 +100,556 @@ image: "/poi-images/ar-cueva-de-las-manos-history-v2.webp",
       fr: ["Les peintures les plus anciennes datent d'environ 11 000 av. J.-C.", "La plupart des empreintes montrent des mains gauches (les artistes étaient droitiers).", "Les pigments étaient soufflés sur la paroi à l'aide d'un tube en os.", "Inscrite au patrimoine mondial de l'UNESCO en 1999.", "La grotte est située à 88 mètres au-dessus du fond de la vallée du río Pinturas.", "Trois phases culturelles ont été distinguées archéologiquement (jusqu'en 1 000 av. J.-C.).", "Documentée systématiquement pour la première fois en 1949 par Carlos Gradin.", "Les pigments rouges proviennent de l'oxyde de fer, les noirs du manganèse."],
     }, image: "/poi-images/ar-cueva-de-las-manos-history-v2.webp"},
   {
-    id: "ar-nuestra-senora-de-santa-ana-history-v2",
+    id: "ar-nuestra-senora-de-santa-ana-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Columpio del fin del Parana de Samuhuu",
+                  "text": "Diese Aussichtsplattform bietet eine Schaukel mit Blick auf den mächtigen Fluss Paraná.",
+                  "category": "natural",
+                  "coords": [
+                        -55.596247,
+                        -27.321097
+                  ]
+            },
+            {
+                  "name": "Guitarra Gigante",
+                  "text": "Eine riesige Gitarrenskulptur, die als Aussichtspunkt über den umliegenden Dschungel dient.",
+                  "category": "natural",
+                  "coords": [
+                        -55.596524,
+                        -27.319966
+                  ]
+            },
+            {
+                  "name": "Silla Gigante",
+                  "text": "Ein überdimensionaler Stuhl, der einen originellen Fotopunkt im Park bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.597477,
+                        -27.320626
+                  ]
+            },
+            {
+                  "name": "La Vieja Curtiembre",
+                  "text": "Ein historisches Industriegebäude einer alten Gerberei, das von der Wirtschaftsgeschichte der Region zeugt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.601663,
+                        -27.352566
+                  ]
+            },
+            {
+                  "name": "Talleres",
+                  "text": "Steinerne Überreste der Werkstätten, in denen einst Guaraní-Handwerker der Jesuitenreduktion arbeiteten.",
+                  "category": "historical",
+                  "coords": [
+                        -55.579643,
+                        -27.391045
+                  ]
+            },
+            {
+                  "name": "Misión Jesuítica de Santa Ana",
+                  "text": "Die 1633 gegründeten UNESCO-Welterberuinen zeigen den typischen Grundriss einer Jesuitenmission.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.580745,
+                        -27.390602
+                  ]
+            },
+            {
+                  "name": "Herta",
+                  "text": "Steinerne Ruinen der ehemaligen Gartenanlagen und Anbauflächen der Mission.",
+                  "category": "historical",
+                  "coords": [
+                        -55.579718,
+                        -27.392011
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Überreste einer kleineren Steinkapelle innerhalb der historischen Ausgrabungsstätte.",
+                  "category": "historical",
+                  "coords": [
+                        -55.58042,
+                        -27.389541
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuiticas de Santa Ana",
+                  "text": "Ein Museum vor Ort, das Fundstücke und kunstvolle Steinmetzarbeiten aus der Jesuitenzeit ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -55.580579,
+                        -27.388365
+                  ]
+            },
+            {
+                  "name": "Mástil de las Banderas",
+                  "text": "Ein monumentaler Flaggenmast, der 2019 zur Ehrung der regionalen Identität eingeweiht wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -55.581373,
+                        -27.369679
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Eine lokale evangelische Kirche, die als geistliches Zentrum für die Gemeinde von Santa Ana dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.554047,
+                        -27.355764
+                  ]
+            },
+            {
+                  "name": "Capilla Don José Obrero",
+                  "text": "Eine einfache katholische Kapelle, die dem Heiligen Josef dem Arbeiter gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.585692,
+                        -27.337726
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica de Santa Ana",
+                  "text": "Die katholische Hauptpfarrkirche der Stadt, erbaut in traditionellem Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.581909,
+                        -27.368447
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen del Itatí y San Pantaleon",
+                  "text": "Ein viel besuchtes Heiligtum, das den regionalen Schutzheiligen Jungfrau von Itatí und San Pantaleon gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.585767,
+                        -27.380448
+                  ]
+            },
+            {
+                  "name": "Capilla San Roque",
+                  "text": "Eine kleine Andachtskapelle, die dem Heiligen Rochus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -55.635362,
+                        -27.34136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Columpio del fin del Parana de Samuhuu",
+                  "text": "Ez a kilátóhely egy hintát kínál, amelyről kilátás nyílik a hatalmas Paraná-folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        -55.596247,
+                        -27.321097
+                  ]
+            },
+            {
+                  "name": "Guitarra Gigante",
+                  "text": "Egy hatalmas gitárszobor, amely kilátóként szolgál a környező dzsungelre.",
+                  "category": "natural",
+                  "coords": [
+                        -55.596524,
+                        -27.319966
+                  ]
+            },
+            {
+                  "name": "Silla Gigante",
+                  "text": "Egy hatalmas szék, amely különleges fotópontot kínál a parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -55.597477,
+                        -27.320626
+                  ]
+            },
+            {
+                  "name": "La Vieja Curtiembre",
+                  "text": "Egy régi cserzőműhely történelmi ipari épülete, amely a régió gazdaságtörténetéről tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.601663,
+                        -27.352566
+                  ]
+            },
+            {
+                  "name": "Talleres",
+                  "text": "A műhelyek kőmaradványai, ahol egykor a jezsuita misszió guarani kézművesei dolgoztak.",
+                  "category": "historical",
+                  "coords": [
+                        -55.579643,
+                        -27.391045
+                  ]
+            },
+            {
+                  "name": "Misión Jesuítica de Santa Ana",
+                  "text": "Az 1633-ban alapított, UNESCO világörökségi helyszín a jezsuita missziók jellegzetes alaprajzát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.580745,
+                        -27.390602
+                  ]
+            },
+            {
+                  "name": "Herta",
+                  "text": "A misszió egykori kertjeinek és művelési területeinek kőmaradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -55.579718,
+                        -27.392011
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Egy kleiner kőkápolna maradványai a történelmi régészeti lelőhelyen belül.",
+                  "category": "historical",
+                  "coords": [
+                        -55.58042,
+                        -27.389541
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuiticas de Santa Ana",
+                  "text": "Helyi múzeum, amely a jezsuita korszakból származó leleteket és művészi kőfaragásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -55.580579,
+                        -27.388365
+                  ]
+            },
+            {
+                  "name": "Mástil de las Banderas",
+                  "text": "Egy monumentális zászlórúd, amelyet 2019-ben avattak fel a regionális identitás tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -55.581373,
+                        -27.369679
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Helyi evangélikus templom, amely a Santa Ana-i közösség hitéletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.554047,
+                        -27.355764
+                  ]
+            },
+            {
+                  "name": "Capilla Don José Obrero",
+                  "text": "Egy egyszerű katolikus kápolna, amelyet Munkás Szent Józsefnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.585692,
+                        -27.337726
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica de Santa Ana",
+                  "text": "A város katolikus főplébániatemploma, amely hagyományos stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.581909,
+                        -27.368447
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen del Itatí y San Pantaleon",
+                  "text": "Népszerű szentély, amelyet a régió védőszentjeinek, az Itatí-i Szűznek és Szent Pantaleonnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.585767,
+                        -27.380448
+                  ]
+            },
+            {
+                  "name": "Capilla San Roque",
+                  "text": "Egy kis fogadalmi kápolna, amelyet Szent Rókusnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -55.635362,
+                        -27.34136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Columpio del fin del Parana de Samuhuu",
+                  "text": "Acest punct de observare oferă un leagăn cu vedere la fluviul Paraná.",
+                  "category": "natural",
+                  "coords": [
+                        -55.596247,
+                        -27.321097
+                  ]
+            },
+            {
+                  "name": "Guitarra Gigante",
+                  "text": "O sculptură gigantică în formă de chitară care servește ca punct de belvedere peste jungla din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -55.596524,
+                        -27.319966
+                  ]
+            },
+            {
+                  "name": "Silla Gigante",
+                  "text": "Un scaun supradimensionat care oferă un punct de fotografiere inedit în parc.",
+                  "category": "natural",
+                  "coords": [
+                        -55.597477,
+                        -27.320626
+                  ]
+            },
+            {
+                  "name": "La Vieja Curtiembre",
+                  "text": "O clădire industrială istorică a unei vechi tăbăcării, care atestă istoria economică a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.601663,
+                        -27.352566
+                  ]
+            },
+            {
+                  "name": "Talleres",
+                  "text": "Rămășițele de piatră ale atelierelor unde lucrau odinioară meșteșugarii guaraní ai reducțiunii iezuite.",
+                  "category": "historical",
+                  "coords": [
+                        -55.579643,
+                        -27.391045
+                  ]
+            },
+            {
+                  "name": "Misión Jesuítica de Santa Ana",
+                  "text": "Fondată în 1633, această ruină inclusă în patrimoniul UNESCO prezintă planul tipic al unei misiuni iezuite.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.580745,
+                        -27.390602
+                  ]
+            },
+            {
+                  "name": "Herta",
+                  "text": "Ruinele de piatră ale fostelor grădini și zone de cultivare ale misiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -55.579718,
+                        -27.392011
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Rămășițele unei mici capele de piatră din cadrul sitului arheologic istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -55.58042,
+                        -27.389541
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuiticas de Santa Ana",
+                  "text": "Un muzeu la fața locului care expune artefacte și sculpturi în piatră din epoca iezuite.",
+                  "category": "museum",
+                  "coords": [
+                        -55.580579,
+                        -27.388365
+                  ]
+            },
+            {
+                  "name": "Mástil de las Banderas",
+                  "text": "Un catarg monumental, inaugurat în 2019 pentru a onora identitatea regională.",
+                  "category": "historical",
+                  "coords": [
+                        -55.581373,
+                        -27.369679
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "O biserică evanghelică locală care servește drept centru spiritual pentru comunitatea din Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.554047,
+                        -27.355764
+                  ]
+            },
+            {
+                  "name": "Capilla Don José Obrero",
+                  "text": "O capelă catolică simplă, dedicată Sfântului Iosif Muncitorul.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.585692,
+                        -27.337726
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica de Santa Ana",
+                  "text": "Biserica parohială catolică principală a orașului, construită în stil tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.581909,
+                        -27.368447
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen del Itatí y San Pantaleon",
+                  "text": "Un sanctuar popular dedicat patronilor regionali, Fecioara de Itatí și Sfântul Pantaleon.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.585767,
+                        -27.380448
+                  ]
+            },
+            {
+                  "name": "Capilla San Roque",
+                  "text": "O mică capelă devoțională dedicată Sfântului Rochus.",
+                  "category": "religious",
+                  "coords": [
+                        -55.635362,
+                        -27.34136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Columpio del fin del Parana de Samuhuu",
+                  "text": "This viewpoint features a swing overlooking the mighty Paraná River.",
+                  "category": "natural",
+                  "coords": [
+                        -55.596247,
+                        -27.321097
+                  ]
+            },
+            {
+                  "name": "Guitarra Gigante",
+                  "text": "A giant guitar sculpture that serves as a viewpoint over the surrounding jungle.",
+                  "category": "natural",
+                  "coords": [
+                        -55.596524,
+                        -27.319966
+                  ]
+            },
+            {
+                  "name": "Silla Gigante",
+                  "text": "An oversized chair that offers a unique photo spot within the park.",
+                  "category": "natural",
+                  "coords": [
+                        -55.597477,
+                        -27.320626
+                  ]
+            },
+            {
+                  "name": "La Vieja Curtiembre",
+                  "text": "A historic industrial building of an old tannery, reflecting the region's economic history.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.601663,
+                        -27.352566
+                  ]
+            },
+            {
+                  "name": "Talleres",
+                  "text": "Stone remains of the workshops where Guaraní craftsmen of the Jesuit reduction once worked.",
+                  "category": "historical",
+                  "coords": [
+                        -55.579643,
+                        -27.391045
+                  ]
+            },
+            {
+                  "name": "Misión Jesuítica de Santa Ana",
+                  "text": "Founded in 1633, these UNESCO World Heritage ruins showcase the typical layout of a Jesuit mission.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.580745,
+                        -27.390602
+                  ]
+            },
+            {
+                  "name": "Herta",
+                  "text": "Stone ruins of the former mission's gardens and cultivation areas.",
+                  "category": "historical",
+                  "coords": [
+                        -55.579718,
+                        -27.392011
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Remains of a smaller stone chapel located within the historic archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -55.58042,
+                        -27.389541
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuiticas de Santa Ana",
+                  "text": "An on-site museum exhibiting artifacts and artistic stonework from the Jesuit era.",
+                  "category": "museum",
+                  "coords": [
+                        -55.580579,
+                        -27.388365
+                  ]
+            },
+            {
+                  "name": "Mástil de las Banderas",
+                  "text": "A monumental flagpole inaugurated in 2019 to honor regional identity.",
+                  "category": "historical",
+                  "coords": [
+                        -55.581373,
+                        -27.369679
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "A local evangelical church serving as a spiritual center for the Santa Ana community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.554047,
+                        -27.355764
+                  ]
+            },
+            {
+                  "name": "Capilla Don José Obrero",
+                  "text": "A simple Catholic chapel dedicated to Saint Joseph the Worker.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.585692,
+                        -27.337726
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica de Santa Ana",
+                  "text": "The main Catholic parish church of the town, built in a traditional style.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.581909,
+                        -27.368447
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen del Itatí y San Pantaleon",
+                  "text": "A popular sanctuary dedicated to the regional patron saints, the Virgin of Itatí and San Pantaleon.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.585767,
+                        -27.380448
+                  ]
+            },
+            {
+                  "name": "Capilla San Roque",
+                  "text": "A small devotional chapel dedicated to Saint Roch.",
+                  "category": "religious",
+                  "coords": [
+                        -55.635362,
+                        -27.34136
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The ruins of a Jesuit reduction, reflecting the historical missionary efforts in the Misiones region.",
       hu: "Jezsuita misszió romjai Misiones tartományban. Az egykori redukció a guarani indiánok megtérítésére és védelmére jött létre a gyarmati időszakban.",
@@ -107,7 +701,196 @@ image: "/poi-images/ar-nuestra-senora-de-santa-ana-history-v2.webp",
       fr: ["Fondée en 1633 par les jésuites sous la direction du père Pedro de Oñate.", "Déclarée patrimoine mondial de l'UNESCO en 1984.", "Abandonnée après l'expulsion des jésuites en 1767.", "Abrite un chemin de croix (via crucis) unique en pierre.", "Le cimetière a été utilisé jusqu'au milieu du XXe siècle.", "Disposait d'un système d'irrigation avancé.", "Construite en grès rouge de la région (asperón colorado).", "Située à quelques kilomètres de l'actuelle ville de Santa Ana."],
     }, image: "/poi-images/ar-nuestra-senora-de-santa-ana-history-v2.webp"},
   {
-    id: "ar-nuestra-senora-de-loreto-history-v2",
+    id: "ar-nuestra-senora-de-loreto-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ruinas Jesuiticas de Loreto",
+                  "text": "Ein Museum, das Fundstücke und sakrale Kunst aus der Jesuitenmission Nuestra Señora de Loreto ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -55.520116,
+                        -27.332502
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Die massiven Steinfundamente der ehemaligen Missionskirche, die einst das geistige Zentrum von Loreto bildete.",
+                  "category": "historical",
+                  "coords": [
+                        -55.517622,
+                        -27.333045
+                  ]
+            },
+            {
+                  "name": "Letrinas",
+                  "text": "Seltene archäologische Überreste des steisernen Abwassersystems der Mission, die Einblick in die Hygiene der Zeit geben.",
+                  "category": "historical",
+                  "coords": [
+                        -55.518113,
+                        -27.332078
+                  ]
+            },
+            {
+                  "name": "Capilla de la Virgen de Loreto",
+                  "text": "Die Überreste einer kleinen Kapelle, die der Jungfrau von Loreto gewidmet war und als Pilgerziel diente.",
+                  "category": "historical",
+                  "coords": [
+                        -55.517184,
+                        -27.335439
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Loreto",
+                  "text": "Eine moderne Kirche, die das geistige Erbe der historischen Mission von Loreto in der heutigen Gemeinde fortführt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.520646,
+                        -27.333909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ruinas Jesuiticas de Loreto",
+                  "text": "Múzeum, amely a Nuestra Señora de Loreto jezsuita misszióból származó leleteket és szakrális művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -55.520116,
+                        -27.332502
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Az egykori missziós templom masszív kőalapjai, amely egykor Loreto szellemi központja volt.",
+                  "category": "historical",
+                  "coords": [
+                        -55.517622,
+                        -27.333045
+                  ]
+            },
+            {
+                  "name": "Letrinas",
+                  "text": "A misszió kőből készült csatornarendszerének ritka régészeti maradványai, amelyek betekintést nyújtanak a korabeli higiéniába.",
+                  "category": "historical",
+                  "coords": [
+                        -55.518113,
+                        -27.332078
+                  ]
+            },
+            {
+                  "name": "Capilla de la Virgen de Loreto",
+                  "text": "A Loreto Szűzének szentelt kis kápolna maradványai, amely egykor zarándokhelyként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -55.517184,
+                        -27.335439
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Loreto",
+                  "text": "Modern templom, amely a mai közösségben viszi tovább a történelmi loretói misszió szellemi örökségét.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.520646,
+                        -27.333909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ruinas Jesuiticas de Loreto",
+                  "text": "Un muzeu care expune artefacte și artă sacră din misiunea iezuită Nuestra Señora de Loreto.",
+                  "category": "museum",
+                  "coords": [
+                        -55.520116,
+                        -27.332502
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Fundațiile masive de piatră ale fostei biserici a misiunii, care formau odinioară centrul spiritual al Loretoului.",
+                  "category": "historical",
+                  "coords": [
+                        -55.517622,
+                        -27.333045
+                  ]
+            },
+            {
+                  "name": "Letrinas",
+                  "text": "Rămășițe arheologice rare ale sistemului de canalizare din piatră al misiunii, oferind o imagine asupra igienei din acea epocă.",
+                  "category": "historical",
+                  "coords": [
+                        -55.518113,
+                        -27.332078
+                  ]
+            },
+            {
+                  "name": "Capilla de la Virgen de Loreto",
+                  "text": "Rămășițele unei mici capele dedicate Fecioarei din Loreto, care servea drept loc de pelerinaj.",
+                  "category": "historical",
+                  "coords": [
+                        -55.517184,
+                        -27.335439
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Loreto",
+                  "text": "O biserică modernă care continuă moștenirea spirituală a misiunii istorice din Loreto în comunitatea actuală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.520646,
+                        -27.333909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ruinas Jesuiticas de Loreto",
+                  "text": "A museum displaying artifacts and sacred art recovered from the Nuestra Señora de Loreto Jesuit mission.",
+                  "category": "museum",
+                  "coords": [
+                        -55.520116,
+                        -27.332502
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "The massive stone foundations of the former mission church, which once formed the spiritual center of Loreto.",
+                  "category": "historical",
+                  "coords": [
+                        -55.517622,
+                        -27.333045
+                  ]
+            },
+            {
+                  "name": "Letrinas",
+                  "text": "Rare archaeological remains of the mission's stone sewage system, offering insight into historical sanitation.",
+                  "category": "historical",
+                  "coords": [
+                        -55.518113,
+                        -27.332078
+                  ]
+            },
+            {
+                  "name": "Capilla de la Virgen de Loreto",
+                  "text": "The remains of a small chapel dedicated to the Virgin of Loreto, which served as a pilgrimage site.",
+                  "category": "historical",
+                  "coords": [
+                        -55.517184,
+                        -27.335439
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Loreto",
+                  "text": "A modern church continuing the spiritual legacy of the historic Loreto mission within the current community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.520646,
+                        -27.333909
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A former Jesuit reduction site, significant for its historical influence on the indigenous population.",
       hu: "Egy másik jelentős jezsuita misszió maradványai Argentína északkeleti részén. A település fontos kulturális és vallási központ volt a 17-18. században.",
@@ -159,7 +942,376 @@ image: "/poi-images/ar-nuestra-senora-de-loreto-history-v2.webp",
       fr: ["Fondée en 1610, transférée sur le site actuel en 1631.", "Site de la première presse à imprimer de l'actuelle Argentine (vers 1700).", "Lieu de sépulture de l'influent père jésuite Antonio Ruiz de Montoya.", "Célèbre pour l'enseignement musical et choral de haute qualité des Guaranis.", "Inscrite au patrimoine mondial de l'UNESCO depuis 1984.", "Contient les restes d'un cadran solaire monumental.", "Envahie par la forêt après l'expulsion des jésuites en 1767.", "Suit un système de trille strict avec une place centrale."],
     }, image: "/poi-images/ar-nuestra-senora-de-loreto-history-v2.webp"},
   {
-    id: "ar-santa-maria-la-mayor-history-v2",
+    id: "ar-santa-maria-la-mayor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viviendas",
+                  "text": "Die archäologischen Überreste der Steinhäuser, in denen einst die Familien der Guarani lebten.",
+                  "category": "historical",
+                  "coords": [
+                        -55.345799,
+                        -27.887374
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Die Ruinen der Hauptkirche aus Stein, die die einstigen Ausmaße der Jesuitenmission zeigen.",
+                  "category": "historical",
+                  "coords": [
+                        -55.343857,
+                        -27.88761
+                  ]
+            },
+            {
+                  "name": "Huerta",
+                  "text": "Im Obstgarten der Mission wurden einst Zitrusbäume und Heilpflanzen aus Europa neben einheimischen Arten angebaut.",
+                  "category": "historical",
+                  "coords": [
+                        -55.34467,
+                        -27.889076
+                  ]
+            },
+            {
+                  "name": "Patio de la Residencia",
+                  "text": "Dieser Innenhof bot einen privaten Wohnraum für die Jesuitenpatres, getrennt von den gemeinschaftlichen Unterkünften der Guaraní.",
+                  "category": "historical",
+                  "coords": [
+                        -55.344857,
+                        -27.887846
+                  ]
+            },
+            {
+                  "name": "Cerro Inglés",
+                  "text": "Ein malerischer Gipfel in der Region Misiones, bekannt für seinen roten Boden und den Blick auf den umliegenden subtropischen Wald.",
+                  "category": "natural",
+                  "coords": [
+                        -55.412412,
+                        -27.925189
+                  ]
+            },
+            {
+                  "name": "Capilla abandonada",
+                  "text": "Eine verlassene ländliche Kapelle, deren schlichte Fassade und verwitterte Mauern das einsame geistige Leben auf dem Land widerspiegeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.38849,
+                        -27.903315
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuíticas de Santa María la Mayor",
+                  "text": "Diese Sandsteinruinen gehören zu den am besten erhaltenen Beispielen jesuitischer Architektur in der Region mit kunstvollen Reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.342817,
+                        -27.88711
+                  ]
+            },
+            {
+                  "name": "Jesús Buen Pastor",
+                  "text": "Eine kleine christliche Stätte, die Jesus dem Guten Hirten gewidmet ist und als stiller Ort für das lokale Andachtsgebet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.303639,
+                        -27.879164
+                  ]
+            },
+            {
+                  "name": "Parroquía Santa Rosa de Lima",
+                  "text": "Eine zentrale Pfarrkirche in Artigas, die für ihre traditionelle Architektur und ihre Rolle als Gastgeberin von Gemeindefesten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.262656,
+                        -27.8708
+                  ]
+            },
+            {
+                  "name": "Feria Franca",
+                  "text": "Ein wöchentlicher Markt, auf dem lokale Erzeuger zusammenkommen, um frisches Obst, Gemüse und handwerkliche Produkte aus Misiones zu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.261823,
+                        -27.869895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viviendas",
+                  "text": "Azoknak a kőházaknak a régészeti maradványai, amelyekben egykor a guarani családok laktak.",
+                  "category": "historical",
+                  "coords": [
+                        -55.345799,
+                        -27.887374
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A fő kőtemplom romjai, amelyek a jezsuita misszió egykori monumentális méreteit mutatják.",
+                  "category": "historical",
+                  "coords": [
+                        -55.343857,
+                        -27.88761
+                  ]
+            },
+            {
+                  "name": "Huerta",
+                  "text": "A misszió gyümölcsöskertjében egykor Európából hozott citrusféléket és gyógynövényeket termesztettek a helyi fajok mellett.",
+                  "category": "historical",
+                  "coords": [
+                        -55.34467,
+                        -27.889076
+                  ]
+            },
+            {
+                  "name": "Patio de la Residencia",
+                  "text": "Ez az udvar privát lakóteret biztosított a jezsuita atyák számára, elkülönítve a közösségi guaraní negyedektől.",
+                  "category": "historical",
+                  "coords": [
+                        -55.344857,
+                        -27.887846
+                  ]
+            },
+            {
+                  "name": "Cerro Inglés",
+                  "text": "Egy festői csúcs Misiones régióban, amely vörös földjéről és a környező szubtrópusi erdőre nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.412412,
+                        -27.925189
+                  ]
+            },
+            {
+                  "name": "Capilla abandonada",
+                  "text": "Elhagyatott vidéki kápolna, amelynek egyszerű homlokzata és megkopott falai a vidék magányos hitéletét tükrözik.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.38849,
+                        -27.903315
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuíticas de Santa María la Mayor",
+                  "text": "Ezek a homokkő romok a jezsuita építészet legjobban megőrzött példái közé tartoznak a régióban, bonyolult faragott reliefekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.342817,
+                        -27.88711
+                  ]
+            },
+            {
+                  "name": "Jesús Buen Pastor",
+                  "text": "Egy kis keresztény helyszín, amelyet a Jó Pásztor Jézusnak szenteltek, és csendes helyként szolgál a helyi imádságokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.303639,
+                        -27.879164
+                  ]
+            },
+            {
+                  "name": "Parroquía Santa Rosa de Lima",
+                  "text": "Artigas központi plébániatemploma, amely hagyományos építészetéről és a közösségi fesztiválok rendezésében betöltött szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.262656,
+                        -27.8708
+                  ]
+            },
+            {
+                  "name": "Feria Franca",
+                  "text": "Heti piac, ahol a helyi termelők összeülnek, hogy friss gyümölcsöt, zöldséget és kézműves Misiones-i termékeket áruljanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.261823,
+                        -27.869895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viviendas",
+                  "text": "Vestigiile arheologice ale locuințelor din piatră unde trăiau odinioară familiile Guarani.",
+                  "category": "historical",
+                  "coords": [
+                        -55.345799,
+                        -27.887374
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ruinele bisericii principale din piatră, care demonstrează scara monumentală a misiunii iezuite originale.",
+                  "category": "historical",
+                  "coords": [
+                        -55.343857,
+                        -27.88761
+                  ]
+            },
+            {
+                  "name": "Huerta",
+                  "text": "Livada misiunii cultiva odinioară citrice și plante medicinale aduse din Europa, alături de specii locale.",
+                  "category": "historical",
+                  "coords": [
+                        -55.34467,
+                        -27.889076
+                  ]
+            },
+            {
+                  "name": "Patio de la Residencia",
+                  "text": "Această curte oferea un spațiu rezidențial privat pentru preoții iezuiți, separat de cartierele comune ale guaraníilor.",
+                  "category": "historical",
+                  "coords": [
+                        -55.344857,
+                        -27.887846
+                  ]
+            },
+            {
+                  "name": "Cerro Inglés",
+                  "text": "Un vârf pitoresc în regiunea Misiones, cunoscut pentru solul său roșu și vederile asupra pădurii subtropicale înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -55.412412,
+                        -27.925189
+                  ]
+            },
+            {
+                  "name": "Capilla abandonada",
+                  "text": "O capelă rurală abandonată a cărei fațadă simplă și ziduri degradate reflectă viața spirituală solitară de la țară.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.38849,
+                        -27.903315
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuíticas de Santa María la Mayor",
+                  "text": "Aceste ruine din gresie sunt printre cele mai bine conservate exemple de arhitectură iezuită din regiune, cu reliefuri sculptate complex.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.342817,
+                        -27.88711
+                  ]
+            },
+            {
+                  "name": "Jesús Buen Pastor",
+                  "text": "Un sit creștin mic dedicat lui Iisus Bunul Păstor, servind ca loc liniștit pentru rugăciunile devoționale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.303639,
+                        -27.879164
+                  ]
+            },
+            {
+                  "name": "Parroquía Santa Rosa de Lima",
+                  "text": "O biserică parohială centrală din Artigas, remarcată pentru arhitectura sa tradițională și rolul său în găzduirea festivalurilor comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.262656,
+                        -27.8708
+                  ]
+            },
+            {
+                  "name": "Feria Franca",
+                  "text": "O piață săptămânală unde producătorii locali se adună pentru a vinde fructe și legume proaspete și produse artizanale din Misiones.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.261823,
+                        -27.869895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viviendas",
+                  "text": "The archaeological remains of the stone dwellings where the Guarani families once lived.",
+                  "category": "historical",
+                  "coords": [
+                        -55.345799,
+                        -27.887374
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "The ruins of the main stone church, showing the grand scale of the original 17th-century Jesuit mission.",
+                  "category": "historical",
+                  "coords": [
+                        -55.343857,
+                        -27.88761
+                  ]
+            },
+            {
+                  "name": "Huerta",
+                  "text": "The mission orchard once cultivated citrus trees and medicinal plants brought from Europe alongside local species.",
+                  "category": "historical",
+                  "coords": [
+                        -55.34467,
+                        -27.889076
+                  ]
+            },
+            {
+                  "name": "Patio de la Residencia",
+                  "text": "This courtyard provided a private residential space for the Jesuit fathers, separate from the communal Guaraní quarters.",
+                  "category": "historical",
+                  "coords": [
+                        -55.344857,
+                        -27.887846
+                  ]
+            },
+            {
+                  "name": "Cerro Inglés",
+                  "text": "A scenic peak in the Misiones region, known for its red soil and views of the surrounding subtropical forest.",
+                  "category": "natural",
+                  "coords": [
+                        -55.412412,
+                        -27.925189
+                  ]
+            },
+            {
+                  "name": "Capilla abandonada",
+                  "text": "An abandoned rural chapel whose simple facade and weathered walls reflect the solitary spiritual life of the countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.38849,
+                        -27.903315
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuíticas de Santa María la Mayor",
+                  "text": "These sandstone ruins are among the best-preserved examples of Jesuit architecture in the region, featuring intricate carved reliefs.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.342817,
+                        -27.88711
+                  ]
+            },
+            {
+                  "name": "Jesús Buen Pastor",
+                  "text": "A small Christian site dedicated to Jesus the Good Shepherd, serving as a quiet place for local devotional prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.303639,
+                        -27.879164
+                  ]
+            },
+            {
+                  "name": "Parroquía Santa Rosa de Lima",
+                  "text": "A central parish church in Artigas, noted for its traditional architecture and its role in hosting community festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.262656,
+                        -27.8708
+                  ]
+            },
+            {
+                  "name": "Feria Franca",
+                  "text": "A weekly market where local producers gather to sell fresh fruit, vegetables, and artisanal Misiones products.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.261823,
+                        -27.869895
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "One of the Jesuit missions in the Misiones region, showcasing historical architecture and cultural preservation.",
       hu: "A jezsuita-guarani missziók sorába tartozó település romjai. Az egykori gazdasági és oktatási központ ma fontos történelmi emlékhely Misionesben.",
@@ -211,7 +1363,1276 @@ image: "/poi-images/ar-santa-maria-la-mayor-history-v2.webp",
       fr: ["Fondée en 1626 par le père Diego de Boroa.", "Classée au patrimoine mondial de l'UNESCO en 1984.", "Vestiges bien conservés des ateliers de la mission.", "Située près de l'actuelle ville de Santa María à Misiones.", "Abandonnée après l'expulsion des jésuites en 1767.", "Construite principalement en grès rouge (asperón).", "Abrite une précieuse collection de fragments archéologiques en pierre.", "Entourée par la forêt tropicale humide du Paraná."],
     }, image: "/poi-images/ar-santa-maria-la-mayor-history-v2.webp"},
   {
-    id: "ar-casa-historica-de-tucuman-history-v2",
+    id: "ar-casa-historica-de-tucuman-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Provincial de Bellas Artes “Timoteo Navarro”",
+                  "text": "Dieses am 18. Juni 1916 gegründete Museum für bildende Künste der Provinz in San Miguel de Tucumán beherbergt eine umfangreiche Sammlung regionaler Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -65.20475,
+                        -26.831592
+                  ]
+            },
+            {
+                  "name": "Casa Histórica de la Independencia",
+                  "text": "Dieses Museum, das aus einem historischen Haus aus dem Jahr 1760 hervorging, ist als der Ort bekannt, an dem die Unabhängigkeit Argentiniens erklärt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -65.204382,
+                        -26.833004
+                  ]
+            },
+            {
+                  "name": "Parque 9 de Julio",
+                  "text": "Dieser weitläufige öffentliche Park verfügt über strukturierte Gärten und wurde zu Ehren des argentinischen Unabhängigkeitstages benannt.",
+                  "category": "park",
+                  "coords": [
+                        -65.186256,
+                        -26.828003
+                  ]
+            },
+            {
+                  "name": "Plaza Urquiza",
+                  "text": "Ein belebter städtischer Platz mit schattigen Promenaden, der von eleganter historischer Architektur umgeben ist.",
+                  "category": "park",
+                  "coords": [
+                        -65.202657,
+                        -26.819264
+                  ]
+            },
+            {
+                  "name": "Plaza Independencia",
+                  "text": "Der zentrale Platz der Stadt zeichnet sich durch seine üppigen Lapacho-Bäume und die Nähe zu wichtigen Regierungsgebäuden aus.",
+                  "category": "park",
+                  "coords": [
+                        -65.203852,
+                        -26.830464
+                  ]
+            },
+            {
+                  "name": "Casa Museo de la Ciudad",
+                  "text": "Dieses 2018 eingeweihte städtische Museum beleuchtet die Stadtentwicklung und die lokale Geschichte der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -65.209239,
+                        -26.822208
+                  ]
+            },
+            {
+                  "name": "Museo Miguel Lillo de Ciencias Naturales",
+                  "text": "Ein bedeutendes naturhistorisches Museum, das umfangreiche Sammlungen der einheimischen Flora und Fauna der Region beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -65.22207,
+                        -26.831582
+                  ]
+            },
+            {
+                  "name": "Museo Iramain",
+                  "text": "Dieses Kunstmuseum zeigt hauptsächlich die ausdrucksstarken skulpturalen Werke des bekannten Künstlers Juan Carlos Iramain.",
+                  "category": "museum",
+                  "coords": [
+                        -65.200392,
+                        -26.832262
+                  ]
+            },
+            {
+                  "name": "Museo Universidad Nacional de Tucumán",
+                  "text": "Dieses von der nationalen Universität verwaltete Museum zeigt regionale Kulturgüter und historische akademische Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        -65.220381,
+                        -26.825912
+                  ]
+            },
+            {
+                  "name": "San Francisco",
+                  "text": "Eine historische katholische Kirche, die für ihre kunstvolle religiöse Architektur und ihre bedeutende Rolle in der kolonialen Vergangenheit der Stadt bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -65.204692,
+                        -26.829465
+                  ]
+            },
+            {
+                  "name": "Virgen de La Merced",
+                  "text": "Ein bedeutendes katholisches Heiligtum, das der Schutzpatronin der argentinischen Armee gewidmet ist und verehrte religiöse Bilder beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        -65.201341,
+                        -26.831519
+                  ]
+            },
+            {
+                  "name": "Parque Avellaneda",
+                  "text": "Ein grüner Stadtpark, der der Gemeinde erholsame Grünflächen und malerische Wanderwege bietet.",
+                  "category": "park",
+                  "coords": [
+                        -65.224088,
+                        -26.826172
+                  ]
+            },
+            {
+                  "name": "Museo folklórico",
+                  "text": "Dieses Museum bewahrt das regionale Kulturerbe durch Ausstellungen von traditionellen Textilien, Kunsthandwerk und folkloristischen Gegenständen.",
+                  "category": "museum",
+                  "coords": [
+                        -65.205666,
+                        -26.830729
+                  ]
+            },
+            {
+                  "name": "Museo de Antropología",
+                  "text": "Ein Bildungsmuseum, das archäologische Funde und Artefakte ausstellt, die das Leben präkolumbianischer Kulturen im Nordwesten Argentiniens detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        -65.203744,
+                        -26.82754
+                  ]
+            },
+            {
+                  "name": "Museo de Prehistoria y Arqueología",
+                  "text": "Besucher können Sammlungen antiker Steinwerkzeuge und früher Keramiktöpferwaren erkunden, die von den ersten indigenen Bewohnern der Region hinterlassen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -65.201726,
+                        -26.825834
+                  ]
+            },
+            {
+                  "name": "Museo histórico provincial Nicolas Avellaneda",
+                  "text": "Diese auf die Provinzgeschichte ausgerichtete Einrichtung stellt politische Dokumente und Artefakte aus den Gründungsjahren der Region aus.",
+                  "category": "museum",
+                  "coords": [
+                        -65.203321,
+                        -26.832249
+                  ]
+            },
+            {
+                  "name": "Museo de la Industria Azucarera",
+                  "text": "Dieses spezialisierte Museum beleuchtet die technologische Entwicklung und die tiefgreifenden wirtschaftlichen Auswirkungen der lokalen Zuckerrohrindustrie.",
+                  "category": "museum",
+                  "coords": [
+                        -65.190283,
+                        -26.826603
+                  ]
+            },
+            {
+                  "name": "Museo casa de los Patricios Tucumanos",
+                  "text": "Das in einem denkmalgeschützten Gebäude untergebrachte Museum ehrt die zivilen Führer und die patriotische Militärgeschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -65.199714,
+                        -26.83058
+                  ]
+            },
+            {
+                  "name": "Monumento al Bicentenario",
+                  "text": "Ein hoch aufragendes zeitgenössisches Betonmonument, das zur Feier des 200. Jahrestages der argentinischen Unabhängigkeitserklärung errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -65.182996,
+                        -26.779122
+                  ]
+            },
+            {
+                  "name": "San José Obrero",
+                  "text": "Ein religiöses Denkmal, das als öffentliche Hommage an den heiligen Josef den Arbeiter steht.",
+                  "category": "historical",
+                  "coords": [
+                        -65.183849,
+                        -26.78168
+                  ]
+            },
+            {
+                  "name": "Monumento al General José de San Martín",
+                  "text": "Eine imposante bronzene Reiterstatue, die an die strategische militärische Führung des südamerikanischen Befreiers erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -65.210689,
+                        -26.839002
+                  ]
+            },
+            {
+                  "name": "Reloj Floral - Centenario del Parque 9 de Julio",
+                  "text": "Eine große, funktionstüchtige Uhr aus farbenfrohen Blumenbeeten, die ursprünglich für die Hundertjahrfeiern des Parks geschaffen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -65.188614,
+                        -26.829112
+                  ]
+            },
+            {
+                  "name": "Teatro Alberdi",
+                  "text": "Ein traditioneller Theaterort, der regelmäßig Orchesterkonzerte, Universitätsaufführungen und klassische Theaterstücke veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.210889,
+                        -26.830803
+                  ]
+            },
+            {
+                  "name": "centro cultural",
+                  "text": "Dieses lokale Kunstzentrum bietet einen kreativen Treffpunkt für Gemeindeausstellungen, Workshops und intime Live-Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.212647,
+                        -26.82816
+                  ]
+            },
+            {
+                  "name": "CiTá Abasto de Cultura",
+                  "text": "Dieser Veranstaltungsort befindet sich in einer umgebauten Marktstruktur und bietet eine alternative Bühne für unabhängiges lokales Theater und Musik.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.220944,
+                        -26.834138
+                  ]
+            },
+            {
+                  "name": "Casa de la cultura",
+                  "text": "Das zentrale Kulturhaus ist ein zentraler Veranstaltungsort, der die künstlerischen Initiativen und lokalen Theateraufführungen der Stadt unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.293907,
+                        -26.804306
+                  ]
+            },
+            {
+                  "name": "Orestes Caviglia",
+                  "text": "Dieses nach dem prominenten argentinischen Schauspieler benannte Theater ist eine zentrale Bühne für regionale darstellende Künste und Theaterproduktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.200695,
+                        -26.830365
+                  ]
+            },
+            {
+                  "name": "Teatro Alfredo Guzmán",
+                  "text": "Ein historisches Theatergebäude, das die lokale Kulturlandschaft durch die Aufführung klassischer Dramen und Gemeindeproduktionen bereichert.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.161851,
+                        -26.83883
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del séptimo día (Villa Muñecas)",
+                  "text": "Ein protestantisches Gotteshaus, das Samstagsgottesdienste und eine geistliche Gemeinschaft für das Viertel Villa Muñecas anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -65.237334,
+                        -26.792749
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado Corazón de Jesús de las HHEE",
+                  "text": "Eine bescheidene katholische Kapelle, in der sich die lokalen Gemeindemitglieder zum Gebet treffen, das dem Heiligsten Herzen Jesu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -65.216131,
+                        -26.836321
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de La Merced",
+                  "text": "Diese engagierte Nachbarschaftskapelle dient der lokalen katholischen Gemeinde mit regelmäßigen Gottesdiensten zu Ehren Unserer Lieben Frau von der Barmherzigkeit.",
+                  "category": "religious",
+                  "coords": [
+                        -65.154561,
+                        -26.81239
+                  ]
+            },
+            {
+                  "name": "Expo - Lugar de Exposiciones",
+                  "text": "Ein weitläufiges kommerzielles Ausstellungsgelände mit Pavillons, das für die Ausrichtung regionaler Agrar- und Handelsmessen konzipiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.260632,
+                        -26.798677
+                  ]
+            },
+            {
+                  "name": "Ortega Camiones SA",
+                  "text": "Ein weitläufiger Autohaus-Marktplatz im Freien, der speziell auf den Verkauf und die Ausstellung von schweren Lkw ausgerichtet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.138227,
+                        -26.823161
+                  ]
+            },
+            {
+                  "name": "Mercado del Norte",
+                  "text": "Ein historischer überdachter Marktplatz, auf dem viele Händler frische regionale Produkte, Fleisch und traditionelle lokale Lebensmittel verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.207514,
+                        -26.827149
+                  ]
+            },
+            {
+                  "name": "Mercado Dorrego",
+                  "text": "Ein belebter Nachbarschaftsmarkt, auf dem Einheimische frische Lebensmittel, alltägliche Haushaltswaren und regionale Snacks kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.200919,
+                        -26.844843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Provincial de Bellas Artes “Timoteo Navarro”",
+                  "text": "Az 1916. június 18-án alapított San Miguel de Tucumán-i tartományi szépművészeti múzeum kiterjedt regionális művészeti gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -65.20475,
+                        -26.831592
+                  ]
+            },
+            {
+                  "name": "Casa Histórica de la Independencia",
+                  "text": "Ez az 1760-ból származó történelmi házban működő múzeum arról híres, hogy itt kiáltották ki Argentína függetlenségét.",
+                  "category": "museum",
+                  "coords": [
+                        -65.204382,
+                        -26.833004
+                  ]
+            },
+            {
+                  "name": "Parque 9 de Julio",
+                  "text": "Ez a kiterjedt közpark gondozott kertekkel büszkélkedhet, és nevét az argentin függetlenség napja tiszteletére kapta.",
+                  "category": "park",
+                  "coords": [
+                        -65.186256,
+                        -26.828003
+                  ]
+            },
+            {
+                  "name": "Plaza Urquiza",
+                  "text": "Egy nyüzsgő városi tér, amely árnyékos sétányokkal rendelkezik, és elegáns történelmi építészet veszi körül.",
+                  "category": "park",
+                  "coords": [
+                        -65.202657,
+                        -26.819264
+                  ]
+            },
+            {
+                  "name": "Plaza Independencia",
+                  "text": "A város központi terét buja lapacho fák és a legfontosabb kormányzati épületek közelsége jellemzi.",
+                  "category": "park",
+                  "coords": [
+                        -65.203852,
+                        -26.830464
+                  ]
+            },
+            {
+                  "name": "Casa Museo de la Ciudad",
+                  "text": "A 2018-ban felavatott városi múzeum a városfejlesztést és a helytörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.209239,
+                        -26.822208
+                  ]
+            },
+            {
+                  "name": "Museo Miguel Lillo de Ciencias Naturales",
+                  "text": "Kiemelkedő természettudományi múzeum, amely a régió őshonos növény- és állatvilágának kiterjedt gyűjteményeinek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -65.22207,
+                        -26.831582
+                  ]
+            },
+            {
+                  "name": "Museo Iramain",
+                  "text": "Ez a művészeti múzeum elsősorban a neves művész, Juan Carlos Iramain kifejező szobrászati alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.200392,
+                        -26.832262
+                  ]
+            },
+            {
+                  "name": "Museo Universidad Nacional de Tucumán",
+                  "text": "A nemzeti egyetem által fenntartott múzeum a régió örökségét és az akadémiai történelmi gyűjteményeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.220381,
+                        -26.825912
+                  ]
+            },
+            {
+                  "name": "San Francisco",
+                  "text": "Történelmi katolikus templom, amely díszes vallási építészetéről és a város gyarmati múltjában játszott jelentős szerepéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -65.204692,
+                        -26.829465
+                  ]
+            },
+            {
+                  "name": "Virgen de La Merced",
+                  "text": "Az argentin hadsereg védőszentjének szentelt jelentős katolikus szentély, amely tiszteletben tartott vallási képekkel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -65.201341,
+                        -26.831519
+                  ]
+            },
+            {
+                  "name": "Parque Avellaneda",
+                  "text": "Egy zöldellő városi park, amely rekreációs zöldterületeket és festői sétautakat kínál a közösség számára.",
+                  "category": "park",
+                  "coords": [
+                        -65.224088,
+                        -26.826172
+                  ]
+            },
+            {
+                  "name": "Museo folklórico",
+                  "text": "Ez a múzeum a régió kulturális örökségét őrzi a hagyományos textíliák, kézműves tárgyak és folklór elemek kiállításával.",
+                  "category": "museum",
+                  "coords": [
+                        -65.205666,
+                        -26.830729
+                  ]
+            },
+            {
+                  "name": "Museo de Antropología",
+                  "text": "Oktatási múzeum, amely régészeti leleteket és műtárgyakat mutat be az északnyugat-argentinai prekolumbián kultúrák életéről.",
+                  "category": "museum",
+                  "coords": [
+                        -65.203744,
+                        -26.82754
+                  ]
+            },
+            {
+                  "name": "Museo de Prehistoria y Arqueología",
+                  "text": "A látogatók a régió első őslakosai által hátrahagyott ősi kőszerszámok és korai kerámiaedények gyűjteményeit fedezhetik fel.",
+                  "category": "museum",
+                  "coords": [
+                        -65.201726,
+                        -26.825834
+                  ]
+            },
+            {
+                  "name": "Museo histórico provincial Nicolas Avellaneda",
+                  "text": "A tartományi történelemre összpontosító intézmény a régió kialakulásának éveiből származó politikai dokumentumokat és műtárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -65.203321,
+                        -26.832249
+                  ]
+            },
+            {
+                  "name": "Museo de la Industria Azucarera",
+                  "text": "Ez a speciális múzeum a helyi cukornádipar technológiai fejlődését és mélyreható gazdasági hatását emeli ki.",
+                  "category": "museum",
+                  "coords": [
+                        -65.190283,
+                        -26.826603
+                  ]
+            },
+            {
+                  "name": "Museo casa de los Patricios Tucumanos",
+                  "text": "A műemléképületben helyet kapó múzeum a régió civil vezetői és hazafias hadtörténete előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        -65.199714,
+                        -26.83058
+                  ]
+            },
+            {
+                  "name": "Monumento al Bicentenario",
+                  "text": "Egy magasba törő kortárs beton emlékmű, amelyet az argentin függetlenségi nyilatkozat 200. évfordulójának megünneplésére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        -65.182996,
+                        -26.779122
+                  ]
+            },
+            {
+                  "name": "San José Obrero",
+                  "text": "Egy vallási emlékmű, amely Munkás Szent József előtti nyilvános tisztelgésként áll.",
+                  "category": "historical",
+                  "coords": [
+                        -65.183849,
+                        -26.78168
+                  ]
+            },
+            {
+                  "name": "Monumento al General José de San Martín",
+                  "text": "Egy impozáns lovas bronzszobor, amely a dél-amerikai felszabadító stratégiai katonai vezetése előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -65.210689,
+                        -26.839002
+                  ]
+            },
+            {
+                  "name": "Reloj Floral - Centenario del Parque 9 de Julio",
+                  "text": "Egy élénk virágágyásokból álló, működő nagyméretű óra, amelyet eredetileg a park centenáriumi ünnepségeire hoztak létre.",
+                  "category": "historical",
+                  "coords": [
+                        -65.188614,
+                        -26.829112
+                  ]
+            },
+            {
+                  "name": "Teatro Alberdi",
+                  "text": "Hagyományos színházi helyszín, amely rendszeresen ad otthont zenekari koncerteknek, egyetemi előadásoknak és klasszikus színdaraboknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.210889,
+                        -26.830803
+                  ]
+            },
+            {
+                  "name": "centro cultural",
+                  "text": "Ez a helyi művészeti központ kreatív központot biztosít közösségi kiállítások, workshopok és bensőséges élő előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.212647,
+                        -26.82816
+                  ]
+            },
+            {
+                  "name": "CiTá Abasto de Cultura",
+                  "text": "Az újrahasznosított piacépületben működő helyszín alternatív színpadot kínál a független helyi színház és zene számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.220944,
+                        -26.834138
+                  ]
+            },
+            {
+                  "name": "Casa de la cultura",
+                  "text": "A központi kultúrház kulcsfontosságú helyszín, amely támogatja a város művészeti kezdeményezéseit és a helyi drámai előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.293907,
+                        -26.804306
+                  ]
+            },
+            {
+                  "name": "Orestes Caviglia",
+                  "text": "A kiemelkedő argentin színészről elnevezett színház a regionális előadóművészetek és színházi produkciók központi színpada.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.200695,
+                        -26.830365
+                  ]
+            },
+            {
+                  "name": "Teatro Alfredo Guzmán",
+                  "text": "Egy történelmi színházépület, amely klasszikus drámák és közösségi produkciók befogadásával gazdagítja a helyi kulturális tájat.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.161851,
+                        -26.83883
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del séptimo día (Villa Muñecas)",
+                  "text": "Egy protestáns istentiszteleti hely, amely szombati istentiszteleteket és spirituális közösséget biztosít a Villa Muñecas negyed számára.",
+                  "category": "religious",
+                  "coords": [
+                        -65.237334,
+                        -26.792749
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado Corazón de Jesús de las HHEE",
+                  "text": "Egy szerény katolikus kápolna, ahol a helyi gyülekezet tagjai a Jézus Szentséges Szívének szentelt imára gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        -65.216131,
+                        -26.836321
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de La Merced",
+                  "text": "Ez az elkötelezett környékbeli kápolna a helyi katolikus közösséget szolgálja rendszeres istentiszteletekkel az Irgalmasság Anyja tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        -65.154561,
+                        -26.81239
+                  ]
+            },
+            {
+                  "name": "Expo - Lugar de Exposiciones",
+                  "text": "Egy kiterjedt kereskedelmi kiállítási terület, amely pavilonokkal van felszerelve a regionális mezőgazdasági és kereskedelmi vásárok megrendezésére.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.260632,
+                        -26.798677
+                  ]
+            },
+            {
+                  "name": "Ortega Camiones SA",
+                  "text": "Egy kiterjedt szabadtéri márkakereskedői piac, amely kifejezetten a nehéz tehergépjárművek értékesítésére és kiállítására összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.138227,
+                        -26.823161
+                  ]
+            },
+            {
+                  "name": "Mercado del Norte",
+                  "text": "Egy történelmi fedett piac, ahol nyüzsögnek az árusok, akik friss regionális terményeket, húsokat és hagyományos helyi ételeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.207514,
+                        -26.827149
+                  ]
+            },
+            {
+                  "name": "Mercado Dorrego",
+                  "text": "Egy nyüzsgő környékbeli piac, ahol a helyiek friss élelmiszereket, mindennapi háztartási cikkeket és regionális rágcsálnivalókat vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.200919,
+                        -26.844843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Provincial de Bellas Artes “Timoteo Navarro”",
+                  "text": "Înființat la 18 iunie 1916, acest muzeu provincial de arte frumoase din San Miguel de Tucumán găzduiește o colecție vastă de artă regională.",
+                  "category": "museum",
+                  "coords": [
+                        -65.20475,
+                        -26.831592
+                  ]
+            },
+            {
+                  "name": "Casa Histórica de la Independencia",
+                  "text": "Acest muzeu, amenajat într-o casă istorică din 1760, este renumit ca fiind locul unde s-a declarat independența Argentinei.",
+                  "category": "museum",
+                  "coords": [
+                        -65.204382,
+                        -26.833004
+                  ]
+            },
+            {
+                  "name": "Parque 9 de Julio",
+                  "text": "Acest parc public extins dispune de grădini structurate și a fost numit în onoarea Zilei Independenței Argentinei.",
+                  "category": "park",
+                  "coords": [
+                        -65.186256,
+                        -26.828003
+                  ]
+            },
+            {
+                  "name": "Plaza Urquiza",
+                  "text": "O piață urbană plină de viață, cu promenade umbrite și înconjurată de o arhitectură istorică elegantă.",
+                  "category": "park",
+                  "coords": [
+                        -65.202657,
+                        -26.819264
+                  ]
+            },
+            {
+                  "name": "Plaza Independencia",
+                  "text": "Piața centrală a orașului se caracterizează prin copacii săi lapacho luxurianți și proximitatea față de principalele clădiri guvernamentale.",
+                  "category": "park",
+                  "coords": [
+                        -65.203852,
+                        -26.830464
+                  ]
+            },
+            {
+                  "name": "Casa Museo de la Ciudad",
+                  "text": "Inaugurat în 2018, acest muzeu municipal evidențiază dezvoltarea urbană și istoria locală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -65.209239,
+                        -26.822208
+                  ]
+            },
+            {
+                  "name": "Museo Miguel Lillo de Ciencias Naturales",
+                  "text": "Un muzeu de istorie naturală proeminent care găzduiește colecții vaste ale florei și faunei native din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -65.22207,
+                        -26.831582
+                  ]
+            },
+            {
+                  "name": "Museo Iramain",
+                  "text": "Acest muzeu de artă prezintă în primul rând lucrările sculpturale expresive ale renumitului artist Juan Carlos Iramain.",
+                  "category": "museum",
+                  "coords": [
+                        -65.200392,
+                        -26.832262
+                  ]
+            },
+            {
+                  "name": "Museo Universidad Nacional de Tucumán",
+                  "text": "Administrat de universitatea națională, acest muzeu expune artefacte ale patrimoniului regional și colecții istorice academice.",
+                  "category": "museum",
+                  "coords": [
+                        -65.220381,
+                        -26.825912
+                  ]
+            },
+            {
+                  "name": "San Francisco",
+                  "text": "O biserică catolică istorică, cunoscută pentru arhitectura sa religioasă ornamentată și rolul semnificativ în trecutul colonial al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -65.204692,
+                        -26.829465
+                  ]
+            },
+            {
+                  "name": "Virgen de La Merced",
+                  "text": "Un sanctuar catolic major dedicat patroanei Armatei Argentiniene, care prezintă imagini religioase venerate.",
+                  "category": "religious",
+                  "coords": [
+                        -65.201341,
+                        -26.831519
+                  ]
+            },
+            {
+                  "name": "Parque Avellaneda",
+                  "text": "Un parc municipal înverzit care oferă comunității spații verzi de recreere și trasee pitorești de plimbare.",
+                  "category": "park",
+                  "coords": [
+                        -65.224088,
+                        -26.826172
+                  ]
+            },
+            {
+                  "name": "Museo folklórico",
+                  "text": "Acest muzeu conservă patrimoniul cultural regional prin expoziții de textile tradiționale, obiecte de artizanat și articole folclorice.",
+                  "category": "museum",
+                  "coords": [
+                        -65.205666,
+                        -26.830729
+                  ]
+            },
+            {
+                  "name": "Museo de Antropología",
+                  "text": "Un muzeu educațional care expune descoperiri arheologice și artefacte ce detaliază viața culturilor precolumbiene din nord-vestul Argentinei.",
+                  "category": "museum",
+                  "coords": [
+                        -65.203744,
+                        -26.82754
+                  ]
+            },
+            {
+                  "name": "Museo de Prehistoria y Arqueología",
+                  "text": "Vizitatorii pot explora colecții de unelte antice din piatră și ceramică timpurie lăsate de primii locuitori indigeni ai regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -65.201726,
+                        -26.825834
+                  ]
+            },
+            {
+                  "name": "Museo histórico provincial Nicolas Avellaneda",
+                  "text": "Axată pe istoria provincială, această instituție expune documente politice și artefacte din anii de formare ai regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -65.203321,
+                        -26.832249
+                  ]
+            },
+            {
+                  "name": "Museo de la Industria Azucarera",
+                  "text": "Acest muzeu specializat subliniază evoluția tehnologică și impactul economic profund al industriei locale a trestiei de zahăr.",
+                  "category": "museum",
+                  "coords": [
+                        -65.190283,
+                        -26.826603
+                  ]
+            },
+            {
+                  "name": "Museo casa de los Patricios Tucumanos",
+                  "text": "Găzduit într-o clădire de patrimoniu, muzeul onorează liderii civici și istoria militară patriotică a regiunii locale.",
+                  "category": "museum",
+                  "coords": [
+                        -65.199714,
+                        -26.83058
+                  ]
+            },
+            {
+                  "name": "Monumento al Bicentenario",
+                  "text": "Un monument contemporan falnic din beton, ridicat pentru a sărbători a 200-a aniversare a declarației de independență a Argentinei.",
+                  "category": "historical",
+                  "coords": [
+                        -65.182996,
+                        -26.779122
+                  ]
+            },
+            {
+                  "name": "San José Obrero",
+                  "text": "Un monument religios dedicat care stă ca un tribut public adus Sfântului Iosif Muncitorul.",
+                  "category": "historical",
+                  "coords": [
+                        -65.183849,
+                        -26.78168
+                  ]
+            },
+            {
+                  "name": "Monumento al General José de San Martín",
+                  "text": "O statuie ecvestră impunătoare din bronz care comemorează conducerea militară strategică a eliberatorului sud-american.",
+                  "category": "historical",
+                  "coords": [
+                        -65.210689,
+                        -26.839002
+                  ]
+            },
+            {
+                  "name": "Reloj Floral - Centenario del Parque 9 de Julio",
+                  "text": "Un ceas mare, funcțional, compus din straturi de flori vibrante, creat inițial pentru sărbătorile centenare ale parcului.",
+                  "category": "historical",
+                  "coords": [
+                        -65.188614,
+                        -26.829112
+                  ]
+            },
+            {
+                  "name": "Teatro Alberdi",
+                  "text": "Un spațiu teatral tradițional care găzduiește regulat concerte orchestrale, spectacole universitare și piese clasice.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.210889,
+                        -26.830803
+                  ]
+            },
+            {
+                  "name": "centro cultural",
+                  "text": "Acest centru de arte local oferă un spațiu creativ pentru expoziții comunitare, ateliere și spectacole live intime.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.212647,
+                        -26.82816
+                  ]
+            },
+            {
+                  "name": "CiTá Abasto de Cultura",
+                  "text": "Funcționând într-o structură de piață reconvertită, acest loc oferă o scenă alternativă pentru teatrul și muzica locală independentă.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.220944,
+                        -26.834138
+                  ]
+            },
+            {
+                  "name": "Casa de la cultura",
+                  "text": "Casa centrală de cultură este un spațiu esențial care sprijină inițiativele artistice ale orașului și spectacolele dramatice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.293907,
+                        -26.804306
+                  ]
+            },
+            {
+                  "name": "Orestes Caviglia",
+                  "text": "Numit după proeminentul actor argentinian, acest teatru este o scenă de bază pentru artele spectacolului regionale și producțiile teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.200695,
+                        -26.830365
+                  ]
+            },
+            {
+                  "name": "Teatro Alfredo Guzmán",
+                  "text": "O clădire istorică de teatru care îmbogățește peisajul cultural local găzduind drame clasice și producții comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.161851,
+                        -26.83883
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del séptimo día (Villa Muñecas)",
+                  "text": "Un lăcaș de cult protestant care oferă slujbe sâmbăta și o comunitate spirituală pentru cartierul Villa Muñecas.",
+                  "category": "religious",
+                  "coords": [
+                        -65.237334,
+                        -26.792749
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado Corazón de Jesús de las HHEE",
+                  "text": "O capelă catolică modestă unde congregația locală se adună pentru rugăciune dedicată Inimii Sacre a lui Isus.",
+                  "category": "religious",
+                  "coords": [
+                        -65.216131,
+                        -26.836321
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de La Merced",
+                  "text": "Această capelă de cartier dedicată deservește comunitatea catolică locală cu slujbe regulate care o onorează pe Sfânta Fecioară a Îndurării.",
+                  "category": "religious",
+                  "coords": [
+                        -65.154561,
+                        -26.81239
+                  ]
+            },
+            {
+                  "name": "Expo - Lugar de Exposiciones",
+                  "text": "Un vast spațiu expozițional comercial echipat cu pavilioane destinate găzduirii târgurilor regionale agricole și comerciale.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.260632,
+                        -26.798677
+                  ]
+            },
+            {
+                  "name": "Ortega Camiones SA",
+                  "text": "O piață de reprezentanță expansivă în aer liber, specializată în vânzarea și expoziția camioanelor de mare tonaj.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.138227,
+                        -26.823161
+                  ]
+            },
+            {
+                  "name": "Mercado del Norte",
+                  "text": "O piață istorică interioară plină de vânzători care oferă produse regionale proaspete, carne și alimente tradiționale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.207514,
+                        -26.827149
+                  ]
+            },
+            {
+                  "name": "Mercado Dorrego",
+                  "text": "O piață de cartier plină de viață unde localnicii cumpără alimente proaspete, bunuri de uz casnic de zi cu zi și gustări regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.200919,
+                        -26.844843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Provincial de Bellas Artes “Timoteo Navarro”",
+                  "text": "Established on June 18, 1916, this provincial fine arts museum in San Miguel de Tucumán houses an extensive collection of regional art.",
+                  "category": "museum",
+                  "coords": [
+                        -65.20475,
+                        -26.831592
+                  ]
+            },
+            {
+                  "name": "Casa Histórica de la Independencia",
+                  "text": "This museum, originating from a historic 1760 house, is renowned as the site where Argentina's independence was declared.",
+                  "category": "museum",
+                  "coords": [
+                        -65.204382,
+                        -26.833004
+                  ]
+            },
+            {
+                  "name": "Parque 9 de Julio",
+                  "text": "This expansive public park features structured gardens and was named to honor Argentina's Independence Day.",
+                  "category": "park",
+                  "coords": [
+                        -65.186256,
+                        -26.828003
+                  ]
+            },
+            {
+                  "name": "Plaza Urquiza",
+                  "text": "A lively urban square featuring shaded promenades and surrounded by elegant historic architecture.",
+                  "category": "park",
+                  "coords": [
+                        -65.202657,
+                        -26.819264
+                  ]
+            },
+            {
+                  "name": "Plaza Independencia",
+                  "text": "The central plaza of the city is characterized by its lush lapacho trees and proximity to key government buildings.",
+                  "category": "park",
+                  "coords": [
+                        -65.203852,
+                        -26.830464
+                  ]
+            },
+            {
+                  "name": "Casa Museo de la Ciudad",
+                  "text": "Inaugurated in 2018, this municipal museum highlights the urban development and local history of the city.",
+                  "category": "museum",
+                  "coords": [
+                        -65.209239,
+                        -26.822208
+                  ]
+            },
+            {
+                  "name": "Museo Miguel Lillo de Ciencias Naturales",
+                  "text": "A prominent natural history museum that houses extensive collections of the region's native flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        -65.22207,
+                        -26.831582
+                  ]
+            },
+            {
+                  "name": "Museo Iramain",
+                  "text": "This dedicated art museum primarily showcases the expressive sculptural works of the renowned artist Juan Carlos Iramain.",
+                  "category": "museum",
+                  "coords": [
+                        -65.200392,
+                        -26.832262
+                  ]
+            },
+            {
+                  "name": "Museo Universidad Nacional de Tucumán",
+                  "text": "Administered by the national university, this museum displays regional heritage artifacts and academic historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        -65.220381,
+                        -26.825912
+                  ]
+            },
+            {
+                  "name": "San Francisco",
+                  "text": "A historic Catholic church known for its ornate religious architecture and significant role in the city's colonial past.",
+                  "category": "religious",
+                  "coords": [
+                        -65.204692,
+                        -26.829465
+                  ]
+            },
+            {
+                  "name": "Virgen de La Merced",
+                  "text": "A major Catholic sanctuary dedicated to the patroness of the Argentine Army, featuring venerated religious imagery.",
+                  "category": "religious",
+                  "coords": [
+                        -65.201341,
+                        -26.831519
+                  ]
+            },
+            {
+                  "name": "Parque Avellaneda",
+                  "text": "A verdant municipal park that provides the community with recreational green spaces and scenic walking trails.",
+                  "category": "park",
+                  "coords": [
+                        -65.224088,
+                        -26.826172
+                  ]
+            },
+            {
+                  "name": "Museo folklórico",
+                  "text": "This museum preserves the regional cultural heritage through exhibits of traditional textiles, crafts, and folkloric items.",
+                  "category": "museum",
+                  "coords": [
+                        -65.205666,
+                        -26.830729
+                  ]
+            },
+            {
+                  "name": "Museo de Antropología",
+                  "text": "An educational museum displaying archaeological finds and artifacts that detail the lives of pre-Columbian cultures in northwestern Argentina.",
+                  "category": "museum",
+                  "coords": [
+                        -65.203744,
+                        -26.82754
+                  ]
+            },
+            {
+                  "name": "Museo de Prehistoria y Arqueología",
+                  "text": "Visitors can explore collections of ancient stone tools and early ceramic pottery left by the region's first indigenous inhabitants.",
+                  "category": "museum",
+                  "coords": [
+                        -65.201726,
+                        -26.825834
+                  ]
+            },
+            {
+                  "name": "Museo histórico provincial Nicolas Avellaneda",
+                  "text": "Focused on provincial history, this institution exhibits political documents and artifacts from the formative years of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -65.203321,
+                        -26.832249
+                  ]
+            },
+            {
+                  "name": "Museo de la Industria Azucarera",
+                  "text": "This specialized museum highlights the technological evolution and profound economic impact of the local sugar cane industry.",
+                  "category": "museum",
+                  "coords": [
+                        -65.190283,
+                        -26.826603
+                  ]
+            },
+            {
+                  "name": "Museo casa de los Patricios Tucumanos",
+                  "text": "Housed in a heritage building, the museum honors the civic leaders and patriotic military history of the local region.",
+                  "category": "museum",
+                  "coords": [
+                        -65.199714,
+                        -26.83058
+                  ]
+            },
+            {
+                  "name": "Monumento al Bicentenario",
+                  "text": "A soaring contemporary concrete monument erected to celebrate the 200th anniversary of Argentina's independence declaration.",
+                  "category": "historical",
+                  "coords": [
+                        -65.182996,
+                        -26.779122
+                  ]
+            },
+            {
+                  "name": "San José Obrero",
+                  "text": "A dedicated religious monument standing as a public tribute to Saint Joseph the Worker.",
+                  "category": "historical",
+                  "coords": [
+                        -65.183849,
+                        -26.78168
+                  ]
+            },
+            {
+                  "name": "Monumento al General José de San Martín",
+                  "text": "An imposing equestrian bronze statue that commemorates the strategic military leadership of the South American liberator.",
+                  "category": "historical",
+                  "coords": [
+                        -65.210689,
+                        -26.839002
+                  ]
+            },
+            {
+                  "name": "Reloj Floral - Centenario del Parque 9 de Julio",
+                  "text": "A large, functional clock composed of vibrant flowerbeds, originally created for the park's centenary celebrations.",
+                  "category": "historical",
+                  "coords": [
+                        -65.188614,
+                        -26.829112
+                  ]
+            },
+            {
+                  "name": "Teatro Alberdi",
+                  "text": "A traditional theatrical venue that regularly hosts orchestral concerts, university performances, and classical plays.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.210889,
+                        -26.830803
+                  ]
+            },
+            {
+                  "name": "centro cultural",
+                  "text": "This local arts center provides a creative hub for community exhibitions, workshops, and intimate live performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.212647,
+                        -26.82816
+                  ]
+            },
+            {
+                  "name": "CiTá Abasto de Cultura",
+                  "text": "Operating within a repurposed market structure, this venue offers an alternative stage for independent local theater and music.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.220944,
+                        -26.834138
+                  ]
+            },
+            {
+                  "name": "Casa de la cultura",
+                  "text": "The central house of culture is a pivotal venue supporting the city's artistic initiatives and local dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.293907,
+                        -26.804306
+                  ]
+            },
+            {
+                  "name": "Orestes Caviglia",
+                  "text": "Named after the prominent Argentine actor, this theater is a core stage for regional performing arts and theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.200695,
+                        -26.830365
+                  ]
+            },
+            {
+                  "name": "Teatro Alfredo Guzmán",
+                  "text": "A historic theater building that enriches the local cultural landscape by hosting classic dramas and community productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.161851,
+                        -26.83883
+                  ]
+            },
+            {
+                  "name": "7th Day Adventist Church (Villa Muñecas)",
+                  "text": "A Protestant place of worship providing Saturday services and spiritual community for the Villa Muñecas neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -65.237334,
+                        -26.792749
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado Corazón de Jesús de las HHEE",
+                  "text": "A modest Catholic chapel where local congregants gather for prayer dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        -65.216131,
+                        -26.836321
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de La Merced",
+                  "text": "This dedicated neighborhood chapel serves the local Catholic community with regular services honoring Our Lady of Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        -65.154561,
+                        -26.81239
+                  ]
+            },
+            {
+                  "name": "Expo - Lugar de Exposiciones",
+                  "text": "A sprawling commercial exhibition site equipped with pavilions designed to host regional agricultural and trade fairs.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.260632,
+                        -26.798677
+                  ]
+            },
+            {
+                  "name": "Ortega Camiones SA",
+                  "text": "An expansive outdoor dealership marketplace specifically catering to the sale and exhibition of heavy-duty trucks.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.138227,
+                        -26.823161
+                  ]
+            },
+            {
+                  "name": "Mercado del Norte",
+                  "text": "A historic indoor marketplace bustling with vendors selling fresh regional produce, meats, and traditional local foods.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.207514,
+                        -26.827149
+                  ]
+            },
+            {
+                  "name": "Mercado Dorrego",
+                  "text": "A lively neighborhood market where locals purchase fresh groceries, everyday household goods, and regional snacks.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.200919,
+                        -26.844843
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The site where the Argentine Declaration of Independence was signed in 1816.",
       hu: "Történelmi épület San Miguel de Tucumánban, ahol 1816. július 9-én kikiáltották Argentína függetlenségét a spanyol koronától.",
@@ -263,7 +2684,1204 @@ image: "/poi-images/ar-casa-historica-de-tucuman-history-v2.webp",
       fr: ["La déclaration d'indépendance y a été signée le 9 juillet 1816.", "La propriétaire d'origine était Francisca Bazán de Laguna.", "Le « Salón de la Jura » est la seule partie d'origine n'ayant jamais été détruite.", "Reconstruite en 1943 selon des plans historiques.", "Les murs blancs et les portes bleues sont caractéristiques.", "Abrite la table en bois originale des membres du congrès.", "Deux grands reliefs en bronze illustrent les scènes clés de 1816.", "Monument national avec relève de la garde quotidienne."],
     }, image: "/poi-images/ar-casa-historica-de-tucuman-history-v2.webp"},
   {
-    id: "ar-manzana-jesuitica-history-v2",
+    id: "ar-manzana-jesuitica-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Genaro Pérez",
+                  "text": "Ein Museum der Schönen Künste, das in einem historischen Herrenhaus im Zentrum von Córdoba untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -64.186711,
+                        -31.414783
+                  ]
+            },
+            {
+                  "name": "Cabildo",
+                  "text": "Ein restauriertes Rathaus aus der Kolonialzeit mit weiß getünchten Bögen und historischen Exponaten in Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184342,
+                        -31.41621
+                  ]
+            },
+            {
+                  "name": "Municipalidad de Córdoba",
+                  "text": "Das zentrale städtische Verwaltungsgebäude im brutalistischen Stil, das der Stadt Córdoba dient.",
+                  "category": "historical",
+                  "coords": [
+                        -64.191215,
+                        -31.416147
+                  ]
+            },
+            {
+                  "name": "Templo Mormones Córdoba",
+                  "text": "Ein Tempel der Heiligen der Letzten Tage mit einem klassischen Turmdesign in Córdoba.",
+                  "category": "religious",
+                  "coords": [
+                        -64.245962,
+                        -31.358697
+                  ]
+            },
+            {
+                  "name": "Teatro del Libertador General San Martín",
+                  "text": "Ein opulentes Theater aus dem 19. Jahrhundert, das für seine hervorragende Akustik und klassische italienische Architektur bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.187914,
+                        -31.419208
+                  ]
+            },
+            {
+                  "name": "Plaza Colón",
+                  "text": "Ein weitläufiger Stadtpark, dessen Mittelpunkt ein markanter historischer Brunnen in Córdoba ist.",
+                  "category": "park",
+                  "coords": [
+                        -64.195781,
+                        -31.409287
+                  ]
+            },
+            {
+                  "name": "Plaza de la Intendencia",
+                  "text": "Ein moderner, gepflasterter städtischer Platz, der von Regierungsgebäuden in Córdoba flankiert wird.",
+                  "category": "park",
+                  "coords": [
+                        -64.19118,
+                        -31.417219
+                  ]
+            },
+            {
+                  "name": "Antiguo Rectorado - Universidad Nacional de Córdoba",
+                  "text": "Das alte Rektoratsgebäude ist heute ein Museum und Teil der ältesten Universität Argentiniens, die als Weltkulturerbe anerkannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        -64.186902,
+                        -31.418243
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Religioso Juan de Tejeda",
+                  "text": "Dieses Museum für religiöse Kunst befindet sich in einem kolonialen Kloster in Córdoba und beherbergt eine bedeutende Sammlung sakraler Gegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184715,
+                        -31.417357
+                  ]
+            },
+            {
+                  "name": "Museo Provincial del Deporte",
+                  "text": "Dieses Sportmuseum in Córdoba dokumentiert die regionale Sportgeschichte mit Erinnerungsstücken lokaler Athleten und Mannschaften.",
+                  "category": "museum",
+                  "coords": [
+                        -64.247273,
+                        -31.368569
+                  ]
+            },
+            {
+                  "name": "Espacio Cultural Museo de las Mujeres",
+                  "text": "Das im ehemaligen Gebäude der Provinzbank untergebrachte Kulturzentrum widmet sich der Förderung von Kunstwerken, die von Frauen geschaffen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -64.185093,
+                        -31.414811
+                  ]
+            },
+            {
+                  "name": "Museo iberoamericano de artesanias de Fundart",
+                  "text": "Das Museum präsentiert eine umfangreiche Sammlung traditioneller iberoamerikanischer Kunsthandwerke aus verschiedenen lateinamerikanischen Ländern.",
+                  "category": "museum",
+                  "coords": [
+                        -64.192175,
+                        -31.423827
+                  ]
+            },
+            {
+                  "name": "Galería Marchiaro",
+                  "text": "In dieser Kunstgalerie in Córdoba werden regelmäßig zeitgenössische Gemälde und Skulpturen lokaler Künstler ausgestellt.",
+                  "category": "museum",
+                  "coords": [
+                        -64.191026,
+                        -31.422113
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Contemporáneo Chateau Carreras",
+                  "text": "Das Kunstzentrum befindet sich in einem historischen Schloss im italienischen Stil und fokussiert sich auf zeitgenössische Kunstausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -64.255221,
+                        -31.373297
+                  ]
+            },
+            {
+                  "name": "Museo de la Reforma Universitaria",
+                  "text": "Das Museum dokumentiert die argentinische Universitätsreform von 1918, die in Córdoba ihren Ursprung nahm und die akademische Welt Lateinamerikas prägte.",
+                  "category": "museum",
+                  "coords": [
+                        -64.204417,
+                        -31.405206
+                  ]
+            },
+            {
+                  "name": "Museo Metereológico del Observatorio",
+                  "text": "Das Museum befindet sich auf dem Gelände des Nationalobservatoriums und bewahrt historische Instrumente zur Wetterbeobachtung auf.",
+                  "category": "museum",
+                  "coords": [
+                        -64.197946,
+                        -31.420896
+                  ]
+            },
+            {
+                  "name": "Museo Casa De Pepino",
+                  "text": "Das Haus war einst ein traditioneller Gemischtwarenladen und bewahrt heute die Architektur sowie die Alltagsgeschichte des Viertels Güemes.",
+                  "category": "museum",
+                  "coords": [
+                        -64.192488,
+                        -31.425561
+                  ]
+            },
+            {
+                  "name": "La Pirámide",
+                  "text": "Dieses pyramidenförmige Denkmal in Córdoba markiert einen zentralen historischen oder städtischen Knotenpunkt der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -64.257355,
+                        -31.395215
+                  ]
+            },
+            {
+                  "name": "El Descubridor",
+                  "text": "Das skulpturale Denkmal würdigt Entdecker und befindet sich im öffentlichen Raum des Stadtzentrums von Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.251659,
+                        -31.396487
+                  ]
+            },
+            {
+                  "name": "Mujer Urbana",
+                  "text": "Die riesige, bunt bemalte Stahlskulptur ist ein Werk des Künstlers Antonio Seguí und gehört zur Serie der Stadtmenschen in Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.240003,
+                        -31.357984
+                  ]
+            },
+            {
+                  "name": "Rotonda del Ala",
+                  "text": "Das Flügel-Denkmal steht in der Mitte eines Kreisverkehrs und dient als markantes architektonisches Wahrzeichen zur Orientierung in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -64.210893,
+                        -31.429277
+                  ]
+            },
+            {
+                  "name": "General José María Paz",
+                  "text": "Die Reiterstatue ehrt den argentinischen Militärführer General Paz und prägt einen der Hauptplätze in Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.224293,
+                        -31.382613
+                  ]
+            },
+            {
+                  "name": "Auditório",
+                  "text": "Der Theatersaal bietet eine Bühne für vielfältige akademische und kulturelle Aufführungen im städtischen Umfeld Córdobas.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.218466,
+                        -31.431173
+                  ]
+            },
+            {
+                  "name": "Casa de arte Alberdi",
+                  "text": "Das Kunstzentrum im Viertel Alberdi fördert kommunale Kunstworkshops und Ausstellungen zur Stärkung der lokalen Kulturszene.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.20085,
+                        -31.409204
+                  ]
+            },
+            {
+                  "name": "Posnoviciado Salesiano \"Miguel Rua\"",
+                  "text": "Die salesianische Einrichtung dient als Ausbildungsstätte für Ordensleute und umfasst eine eigene Kapelle für gemeinschaftliche Gebete.",
+                  "category": "religious",
+                  "coords": [
+                        -64.265329,
+                        -31.386353
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "Die kleine Kapelle der Heiligen Familie bietet einen ruhigen Ort für Gebete innerhalb eines Wohngebiets in Córdoba.",
+                  "category": "religious",
+                  "coords": [
+                        -64.230578,
+                        -31.390421
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "Die katholische Pfarrkirche Unserer Lieben Frau auf dem Berge Karmel zeichnet sich durch ihre traditionelle Fassade und regelmäßige Gemeindegottesdienste aus.",
+                  "category": "religious",
+                  "coords": [
+                        -64.191137,
+                        -31.41207
+                  ]
+            },
+            {
+                  "name": "Mercado de Villa Fuega",
+                  "text": "In dieser überdachten Markthalle versorgen sich die Anwohner mit frischen Lebensmitteln und regionalen Produkten aus Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.194212,
+                        -31.4239
+                  ]
+            },
+            {
+                  "name": "Frutas y Verduras",
+                  "text": "Der lokale Straßenmarkt ist spezialisiert auf den Verkauf von saisonalem Obst und Gemüse direkt von den Erzeugern der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.203399,
+                        -31.43182
+                  ]
+            },
+            {
+                  "name": "Il Plamonte",
+                  "text": "Dieser Handelsplatz in Córdoba bietet eine Mischung aus gastronomischen Ständen und kleinen Geschäften für den täglichen Bedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.223337,
+                        -31.425257
+                  ]
+            },
+            {
+                  "name": "Chimenea de la Iggam",
+                  "text": "Der hohe industrielle Schornstein ist ein Relikt einer ehemaligen Fabrik und zeugt von der industriellen Vergangenheit Córdobas.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.219453,
+                        -31.365882
+                  ]
+            },
+            {
+                  "name": "Ex Cárcel Barrio San Martín",
+                  "text": "Das verlassene Gefängnisgebäude im Viertel San Martín ist eine düstere historische Stätte der städtischen Justizgeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.197779,
+                        -31.390927
+                  ]
+            },
+            {
+                  "name": "El Edificio Raquítico",
+                  "text": "Dieses ungewöhnlich schmale Gebäude zieht als architektonische Kuriosität im Straßenbild von Córdoba die Blicke auf sich.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.192452,
+                        -31.422378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Genaro Pérez",
+                  "text": "Egy képzőművészeti múzeum, amely egy műemlék kúriában kapott helyet Córdoba történelmi központjában.",
+                  "category": "museum",
+                  "coords": [
+                        -64.186711,
+                        -31.414783
+                  ]
+            },
+            {
+                  "name": "Cabildo",
+                  "text": "Egy felújított gyarmati korszakbeli városháza, amely meszelt boltívekkel és történelmi kiállításokkal büszkélkedhet Córdobában.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184342,
+                        -31.41621
+                  ]
+            },
+            {
+                  "name": "Municipalidad de Córdoba",
+                  "text": "A Córdoba városát szolgáló, brutalista stílusú központi önkormányzati közigazgatási épület.",
+                  "category": "historical",
+                  "coords": [
+                        -64.191215,
+                        -31.416147
+                  ]
+            },
+            {
+                  "name": "Templo Mormones Córdoba",
+                  "text": "A Utolsó Napok Szentjeinek temploma, amely klasszikus toronydizájnnal rendelkezik Córdobában.",
+                  "category": "religious",
+                  "coords": [
+                        -64.245962,
+                        -31.358697
+                  ]
+            },
+            {
+                  "name": "Teatro del Libertador General San Martín",
+                  "text": "Egy pazar, 19. századi színház, amely kiváló akusztikájáról és klasszikus olaszos építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.187914,
+                        -31.419208
+                  ]
+            },
+            {
+                  "name": "Plaza Colón",
+                  "text": "Egy tágas városi park, amelynek középpontjában egy kiemelkedő történelmi szökőkút áll Córdobában.",
+                  "category": "park",
+                  "coords": [
+                        -64.195781,
+                        -31.409287
+                  ]
+            },
+            {
+                  "name": "Plaza de la Intendencia",
+                  "text": "Egy modern, burkolt önkormányzati tér, amelyet kormányzati épületek szegélyeznek Córdobában.",
+                  "category": "park",
+                  "coords": [
+                        -64.19118,
+                        -31.417219
+                  ]
+            },
+            {
+                  "name": "Antiguo Rectorado - Universidad Nacional de Córdoba",
+                  "text": "A régi rektori épület ma múzeum, amely Argentína legrégebbi, világörökségi védelem alatt álló egyetemének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -64.186902,
+                        -31.418243
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Religioso Juan de Tejeda",
+                  "text": "Ez a córdobai koloniális kolostorban található vallásművészeti múzeum jelentős szakrális tárgygyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184715,
+                        -31.417357
+                  ]
+            },
+            {
+                  "name": "Museo Provincial del Deporte",
+                  "text": "Ez a córdobai sportmúzeum a régió sporttörténetét mutatja be helyi sportolók és csapatok relikviáin keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        -64.247273,
+                        -31.368569
+                  ]
+            },
+            {
+                  "name": "Espacio Cultural Museo de las Mujeres",
+                  "text": "Az egykori tartományi bank épületében kialakított kulturális központ kifejezetten a nők által alkotott művészeti alkotások bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -64.185093,
+                        -31.414811
+                  ]
+            },
+            {
+                  "name": "Museo iberoamericano de artesanias de Fundart",
+                  "text": "A múzeum a különböző latin-amerikai országokból származó, hagyományos ibero-amerikai kézműves alkotások kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -64.192175,
+                        -31.423827
+                  ]
+            },
+            {
+                  "name": "Galería Marchiaro",
+                  "text": "Ez a córdobai művészeti galéria rendszeresen állít ki kortárs festményeket és szobrokat helyi alkotóktól.",
+                  "category": "museum",
+                  "coords": [
+                        -64.191026,
+                        -31.422113
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Contemporáneo Chateau Carreras",
+                  "text": "A kortárs művészeti központ egy történelmi, olasz stílusú kastélyban működik, és modern kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -64.255221,
+                        -31.373297
+                  ]
+            },
+            {
+                  "name": "Museo de la Reforma Universitaria",
+                  "text": "A múzeum az 1918-as, Córdobából induló argentin egyetemi reformot mutatja be, amely egész Latin-Amerika felsőoktatására hatással volt.",
+                  "category": "museum",
+                  "coords": [
+                        -64.204417,
+                        -31.405206
+                  ]
+            },
+            {
+                  "name": "Museo Metereológico del Observatorio",
+                  "text": "A Nemzeti Csillagvizsgáló területén működő múzeum történelmi meteorológiai mérőműszereket és időjárás-megfigyelő eszközöket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -64.197946,
+                        -31.420896
+                  ]
+            },
+            {
+                  "name": "Museo Casa De Pepino",
+                  "text": "Az épület egykor hagyományos szatócsboltként működött, ma pedig a Güemes negyed építészetét és mindennapi történetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -64.192488,
+                        -31.425561
+                  ]
+            },
+            {
+                  "name": "La Pirámide",
+                  "text": "Ez a córdobai piramis alakú emlékmű a város egy központi történelmi vagy urbanisztikai csomópontját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        -64.257355,
+                        -31.395215
+                  ]
+            },
+            {
+                  "name": "El Descubridor",
+                  "text": "A felfedezők előtt tisztelgő szobor Córdoba belvárosának egyik közösségi terén kapott helyet.",
+                  "category": "historical",
+                  "coords": [
+                        -64.251659,
+                        -31.396487
+                  ]
+            },
+            {
+                  "name": "Mujer Urbana",
+                  "text": "A hatalmas, színesre festett acélszobor Antonio Seguí alkotása, amely a córdobai városi embereket ábrázoló sorozat része.",
+                  "category": "historical",
+                  "coords": [
+                        -64.240003,
+                        -31.357984
+                  ]
+            },
+            {
+                  "name": "Rotonda del Ala",
+                  "text": "A szárnyat formázó emlékmű egy körforgalom közepén áll, és jellegzetes építészeti tájékozódási pontként szolgál a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -64.210893,
+                        -31.429277
+                  ]
+            },
+            {
+                  "name": "General José María Paz",
+                  "text": "A lovasszobor José María Paz argentin katonai vezetőnek állít emléket Córdoba egyik főterén.",
+                  "category": "historical",
+                  "coords": [
+                        -64.224293,
+                        -31.382613
+                  ]
+            },
+            {
+                  "name": "Auditório",
+                  "text": "A színházterem különféle tudományos és kulturális előadásoknak ad otthont Córdoba városi környezetében.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.218466,
+                        -31.431173
+                  ]
+            },
+            {
+                  "name": "Casa de arte Alberdi",
+                  "text": "Az Alberdi negyedben található művészeti központ közösségi műhelyekkel és kiállításokkal támogatja a helyi kulturális életet.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.20085,
+                        -31.409204
+                  ]
+            },
+            {
+                  "name": "Posnoviciado Salesiano \"Miguel Rua\"",
+                  "text": "A szalézi intézmény a szerzetesek képzési központjaként működik, és egy saját kápolnát is magában foglal a közös imádságokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        -64.265329,
+                        -31.386353
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "A Szent Család-kápolna egy csendes imádkozóhely Córdoba egyik lakóövezetében.",
+                  "category": "religious",
+                  "coords": [
+                        -64.230578,
+                        -31.390421
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "A Kármelhegyi Boldogasszony katolikus plébániatemplom hagyományos homlokzatával és rendszeres közösségi miséivel várja a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        -64.191137,
+                        -31.41207
+                  ]
+            },
+            {
+                  "name": "Mercado de Villa Fuega",
+                  "text": "Ebben a fedett vásárcsarnokban a környékbeliek friss élelmiszereket és córdobai regionális termékeket vásárolhatnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.194212,
+                        -31.4239
+                  ]
+            },
+            {
+                  "name": "Frutas y Verduras",
+                  "text": "A helyi utcai piac a régió termelőitől származó, szezonális zöldségek és gyümölcsök árusítására specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.203399,
+                        -31.43182
+                  ]
+            },
+            {
+                  "name": "Il Plamonte",
+                  "text": "Ez a córdobai piactér gasztronómiai standok és a napi szükségleteket kielégítő kisboltok keverékét kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.223337,
+                        -31.425257
+                  ]
+            },
+            {
+                  "name": "Chimenea de la Iggam",
+                  "text": "A magas ipari kémény egykori gyár mementójaként őrzi Córdoba ipari múltjának emlékét.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.219453,
+                        -31.365882
+                  ]
+            },
+            {
+                  "name": "Ex Cárcel Barrio San Martín",
+                  "text": "A San Martín negyedben található elhagyatott börtönépület a városi igazságszolgáltatás zord történelmi emlékhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.197779,
+                        -31.390927
+                  ]
+            },
+            {
+                  "name": "El Edificio Raquítico",
+                  "text": "Ez a szokatlanul keskeny épület építészeti érdekességként vonzza a tekinteteket Córdoba utcaképében.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.192452,
+                        -31.422378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Genaro Pérez",
+                  "text": "Un muzeu de arte frumoase găzduit într-un conac de patrimoniu din centrul istoric al orașului Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -64.186711,
+                        -31.414783
+                  ]
+            },
+            {
+                  "name": "Cabildo",
+                  "text": "O primărie restaurată din epoca colonială, cu arcade văruite și exponate istorice în Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184342,
+                        -31.41621
+                  ]
+            },
+            {
+                  "name": "Municipalidad de Córdoba",
+                  "text": "Clădirea administrativă municipală centrală în stil brutalist care deservește orașul Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.191215,
+                        -31.416147
+                  ]
+            },
+            {
+                  "name": "Templo Mormones Córdoba",
+                  "text": "Un templu al Sfinților din Zilele din Urmă, cu un design clasic de turlă, situat în Córdoba.",
+                  "category": "religious",
+                  "coords": [
+                        -64.245962,
+                        -31.358697
+                  ]
+            },
+            {
+                  "name": "Teatro del Libertador General San Martín",
+                  "text": "Un teatru opulent din secolul al XIX-lea, cunoscut pentru acustica sa rafinată și arhitectura clasică italiană.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.187914,
+                        -31.419208
+                  ]
+            },
+            {
+                  "name": "Plaza Colón",
+                  "text": "Un parc urban spațios centrat în jurul unei fântâni istorice proeminente din Córdoba.",
+                  "category": "park",
+                  "coords": [
+                        -64.195781,
+                        -31.409287
+                  ]
+            },
+            {
+                  "name": "Plaza de la Intendencia",
+                  "text": "O piață municipală modernă, pavată, flancată de clădiri guvernamentale în Córdoba.",
+                  "category": "park",
+                  "coords": [
+                        -64.19118,
+                        -31.417219
+                  ]
+            },
+            {
+                  "name": "Antiguo Rectorado - Universidad Nacional de Córdoba",
+                  "text": "Vechea clădire a rectoratului funcționează astăzi ca muzeu în cadrul celei mai vechi universități din Argentina, un sit de patrimoniu recunoscut.",
+                  "category": "museum",
+                  "coords": [
+                        -64.186902,
+                        -31.418243
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Religioso Juan de Tejeda",
+                  "text": "Găzduit într-o mănăstire colonială din Córdoba, acest muzeu de artă religioasă prezintă o colecție importantă de obiecte sacre.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184715,
+                        -31.417357
+                  ]
+            },
+            {
+                  "name": "Museo Provincial del Deporte",
+                  "text": "Acest muzeu al sportului din Córdoba documentează istoria sportivă regională prin suveniruri ale sportivilor și echipelor locale.",
+                  "category": "museum",
+                  "coords": [
+                        -64.247273,
+                        -31.368569
+                  ]
+            },
+            {
+                  "name": "Espacio Cultural Museo de las Mujeres",
+                  "text": "Găzduit în fosta clădire a băncii provinciale, acest centru cultural este dedicat promovării operelor de artă create de femei.",
+                  "category": "museum",
+                  "coords": [
+                        -64.185093,
+                        -31.414811
+                  ]
+            },
+            {
+                  "name": "Museo iberoamericano de artesanias de Fundart",
+                  "text": "Muzeul prezintă o colecție vastă de obiecte de artizanat tradițional ibero-american din diverse țări latino-americane.",
+                  "category": "museum",
+                  "coords": [
+                        -64.192175,
+                        -31.423827
+                  ]
+            },
+            {
+                  "name": "Galería Marchiaro",
+                  "text": "Această galerie de artă din Córdoba expune în mod regulat picturi și sculpturi contemporane ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -64.191026,
+                        -31.422113
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Contemporáneo Chateau Carreras",
+                  "text": "Centrul de artă este situat într-un castel istoric în stil italian și se concentrează pe expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -64.255221,
+                        -31.373297
+                  ]
+            },
+            {
+                  "name": "Museo de la Reforma Universitaria",
+                  "text": "Muzeul documentează reforma universitară argentiniană din 1918, care a început în Córdoba și a influențat mediul academic din America Latină.",
+                  "category": "museum",
+                  "coords": [
+                        -64.204417,
+                        -31.405206
+                  ]
+            },
+            {
+                  "name": "Museo Metereológico del Observatorio",
+                  "text": "Situat pe domeniul Observatorului Național, muzeul păstrează instrumente istorice folosite pentru observații meteorologice.",
+                  "category": "museum",
+                  "coords": [
+                        -64.197946,
+                        -31.420896
+                  ]
+            },
+            {
+                  "name": "Museo Casa De Pepino",
+                  "text": "Clădirea a fost cândva un magazin universal tradițional, iar astăzi păstrează arhitectura și istoria cotidiană a cartierului Güemes.",
+                  "category": "museum",
+                  "coords": [
+                        -64.192488,
+                        -31.425561
+                  ]
+            },
+            {
+                  "name": "La Pirámide",
+                  "text": "Acest monument în formă de piramidă din Córdoba marchează un punct central istoric sau urban al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -64.257355,
+                        -31.395215
+                  ]
+            },
+            {
+                  "name": "El Descubridor",
+                  "text": "Monumentul sculptural aduce un omagiu exploratorilor și este amplasat în spațiul public din centrul orașului Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.251659,
+                        -31.396487
+                  ]
+            },
+            {
+                  "name": "Mujer Urbana",
+                  "text": "Sculptura uriașă din oțel, pictată în culori vii, este o lucrare a artistului Antonio Seguí și face parte din seria figurilor urbane din Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.240003,
+                        -31.357984
+                  ]
+            },
+            {
+                  "name": "Rotonda del Ala",
+                  "text": "Monumentul în formă de aripă este situat în mijlocul unui sens giratoriu, servind drept un reper arhitectural distinctiv în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -64.210893,
+                        -31.429277
+                  ]
+            },
+            {
+                  "name": "General José María Paz",
+                  "text": "Statuia ecvestră îl onorează pe liderul militar argentinian Generalul Paz și domină una dintre piețele principale din Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.224293,
+                        -31.382613
+                  ]
+            },
+            {
+                  "name": "Auditório",
+                  "text": "Sala de teatru oferă o scenă pentru diverse spectacole academice și culturale în mediul urban al orașului Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.218466,
+                        -31.431173
+                  ]
+            },
+            {
+                  "name": "Casa de arte Alberdi",
+                  "text": "Centrul de artă din cartierul Alberdi promovează ateliere de creație comunitară și expoziții pentru a consolida scena culturală locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.20085,
+                        -31.409204
+                  ]
+            },
+            {
+                  "name": "Posnoviciado Salesiano \"Miguel Rua\"",
+                  "text": "Această instituție saleziană servește ca centru de formare pentru călugări și include o capelă proprie pentru rugăciuni comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        -64.265329,
+                        -31.386353
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "Mica capelă a Sfintei Familii oferă un loc liniștit pentru rugăciune într-o zonă rezidențială din Córdoba.",
+                  "category": "religious",
+                  "coords": [
+                        -64.230578,
+                        -31.390421
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "Biserica parohială catolică Maica Domnului de pe Muntele Carmel se remarcă prin fațada sa tradițională și slujbele religioase regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -64.191137,
+                        -31.41207
+                  ]
+            },
+            {
+                  "name": "Mercado de Villa Fuega",
+                  "text": "În această hală acoperită, localnicii se aprovizionează cu alimente proaspete și produse regionale din Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.194212,
+                        -31.4239
+                  ]
+            },
+            {
+                  "name": "Frutas y Verduras",
+                  "text": "Piața stradală locală este specializată în vânzarea de fructe și legume de sezon direct de la producătorii din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.203399,
+                        -31.43182
+                  ]
+            },
+            {
+                  "name": "Il Plamonte",
+                  "text": "Acest centru comercial din Córdoba oferă un amestec de standuri gastronomice și mici magazine pentru necesitățile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.223337,
+                        -31.425257
+                  ]
+            },
+            {
+                  "name": "Chimenea de la Iggam",
+                  "text": "Coșul de fum industrial înalt este o rămășiță a unei foste fabrici, mărturie a trecutului industrial al orașului Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.219453,
+                        -31.365882
+                  ]
+            },
+            {
+                  "name": "Ex Cárcel Barrio San Martín",
+                  "text": "Clădirea abandonată a închisorii din cartierul San Martín este un sit istoric sumbru al sistemului penitenciar urban.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.197779,
+                        -31.390927
+                  ]
+            },
+            {
+                  "name": "El Edificio Raquítico",
+                  "text": "Această clădire neobișnuit de îngustă atrage privirile ca o curiozitate arhitecturală pe străzile din Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.192452,
+                        -31.422378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Genaro Pérez",
+                  "text": "A fine arts museum housed in a heritage mansion in the historic center of Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -64.186711,
+                        -31.414783
+                  ]
+            },
+            {
+                  "name": "Cabildo",
+                  "text": "A restored colonial-era town hall featuring whitewashed arches and historic exhibits in Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184342,
+                        -31.41621
+                  ]
+            },
+            {
+                  "name": "Municipalidad de Córdoba",
+                  "text": "The brutalist-style central municipal administrative building serving the city of Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.191215,
+                        -31.416147
+                  ]
+            },
+            {
+                  "name": "Córdoba Argentina Temple",
+                  "text": "A Latter-day Saint temple featuring a classic spire design located in Córdoba.",
+                  "category": "religious",
+                  "coords": [
+                        -64.245962,
+                        -31.358697
+                  ]
+            },
+            {
+                  "name": "Teatro del Libertador General San Martín",
+                  "text": "An opulent, 19th-century theater known for its exquisite acoustics and classic Italianate architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.187914,
+                        -31.419208
+                  ]
+            },
+            {
+                  "name": "Plaza Colón",
+                  "text": "A spacious urban park centered around a prominent historic fountain in Córdoba.",
+                  "category": "park",
+                  "coords": [
+                        -64.195781,
+                        -31.409287
+                  ]
+            },
+            {
+                  "name": "Plaza de la Intendencia",
+                  "text": "A modern, paved municipal square flanked by government buildings in Córdoba.",
+                  "category": "park",
+                  "coords": [
+                        -64.19118,
+                        -31.417219
+                  ]
+            },
+            {
+                  "name": "Antiguo Rectorado - Universidad Nacional de Córdoba",
+                  "text": "The former rectory building now serves as a museum within Argentina's oldest university, a recognized heritage site.",
+                  "category": "museum",
+                  "coords": [
+                        -64.186902,
+                        -31.418243
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Religioso Juan de Tejeda",
+                  "text": "Housed in a colonial convent in Córdoba, this religious art museum showcases a significant collection of sacred objects.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184715,
+                        -31.417357
+                  ]
+            },
+            {
+                  "name": "Museo Provincial del Deporte",
+                  "text": "This sports museum in Córdoba documents regional athletic history through memorabilia of local athletes and teams.",
+                  "category": "museum",
+                  "coords": [
+                        -64.247273,
+                        -31.368569
+                  ]
+            },
+            {
+                  "name": "Espacio Cultural Museo de las Mujeres",
+                  "text": "Housed in the former provincial bank building, this cultural centre is dedicated to promoting artworks created by women.",
+                  "category": "museum",
+                  "coords": [
+                        -64.185093,
+                        -31.414811
+                  ]
+            },
+            {
+                  "name": "Museo iberoamericano de artesanias de Fundart",
+                  "text": "The museum presents an extensive collection of traditional Ibero-American handicrafts sourced from various Latin American countries.",
+                  "category": "museum",
+                  "coords": [
+                        -64.192175,
+                        -31.423827
+                  ]
+            },
+            {
+                  "name": "Galería Marchiaro",
+                  "text": "This art gallery in Córdoba regularly exhibits contemporary paintings and sculptures by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -64.191026,
+                        -31.422113
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Contemporáneo Chateau Carreras",
+                  "text": "The art centre is set in a historic Italian-style chateau and focuses on contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -64.255221,
+                        -31.373297
+                  ]
+            },
+            {
+                  "name": "Museo de la Reforma Universitaria",
+                  "text": "The museum documents the 1918 Argentine university reform, which originated in Córdoba and shaped the academic landscape of Latin America.",
+                  "category": "museum",
+                  "coords": [
+                        -64.204417,
+                        -31.405206
+                  ]
+            },
+            {
+                  "name": "Museo Metereológico del Observatorio",
+                  "text": "Located on the grounds of the National Observatory, the museum preserves historical instruments used for meteorological observations.",
+                  "category": "museum",
+                  "coords": [
+                        -64.197946,
+                        -31.420896
+                  ]
+            },
+            {
+                  "name": "Museo Casa De Pepino",
+                  "text": "The building was once a traditional general store and now preserves the architecture and everyday history of the Güemes neighbourhood.",
+                  "category": "museum",
+                  "coords": [
+                        -64.192488,
+                        -31.425561
+                  ]
+            },
+            {
+                  "name": "La Pirámide",
+                  "text": "This pyramid-shaped monument in Córdoba marks a central historical or urban focal point in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -64.257355,
+                        -31.395215
+                  ]
+            },
+            {
+                  "name": "El Descubridor",
+                  "text": "The sculptural monument pays tribute to explorers and is situated in the public space of downtown Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.251659,
+                        -31.396487
+                  ]
+            },
+            {
+                  "name": "Mujer Urbana",
+                  "text": "The massive, brightly painted steel sculpture is a work by artist Antonio Seguí, part of his series depicting urban figures in Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.240003,
+                        -31.357984
+                  ]
+            },
+            {
+                  "name": "Rotonda del Ala",
+                  "text": "The wing-shaped monument stands in the centre of a roundabout, serving as a distinctive architectural landmark for navigation in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -64.210893,
+                        -31.429277
+                  ]
+            },
+            {
+                  "name": "General José María Paz",
+                  "text": "The equestrian statue honours Argentine military leader General Paz and dominates one of the main squares in Córdoba.",
+                  "category": "historical",
+                  "coords": [
+                        -64.224293,
+                        -31.382613
+                  ]
+            },
+            {
+                  "name": "Auditório",
+                  "text": "The auditorium provides a stage for diverse academic and cultural performances within Córdoba's urban environment.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.218466,
+                        -31.431173
+                  ]
+            },
+            {
+                  "name": "Casa de arte Alberdi",
+                  "text": "The art centre in the Alberdi neighbourhood promotes community art workshops and exhibitions to strengthen the local cultural scene.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.20085,
+                        -31.409204
+                  ]
+            },
+            {
+                  "name": "Posnoviciado Salesiano \"Miguel Rua\"",
+                  "text": "The Salesian facility serves as a training centre for religious members and includes its own chapel for communal prayers.",
+                  "category": "religious",
+                  "coords": [
+                        -64.265329,
+                        -31.386353
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "The small Holy Family chapel offers a quiet place for prayer within a residential area of Córdoba.",
+                  "category": "religious",
+                  "coords": [
+                        -64.230578,
+                        -31.390421
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Carmen",
+                  "text": "The Catholic parish church of Our Lady of Mount Carmel features a traditional facade and hosts regular community masses.",
+                  "category": "religious",
+                  "coords": [
+                        -64.191137,
+                        -31.41207
+                  ]
+            },
+            {
+                  "name": "Mercado de Villa Fuega",
+                  "text": "In this indoor market, local residents purchase fresh food and regional products from Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.194212,
+                        -31.4239
+                  ]
+            },
+            {
+                  "name": "Frutas y Verduras",
+                  "text": "The local street market specializes in selling seasonal fruit and vegetables directly from regional producers.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.203399,
+                        -31.43182
+                  ]
+            },
+            {
+                  "name": "Il Plamonte",
+                  "text": "This marketplace in Córdoba offers a mix of gastronomic stalls and small shops for daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.223337,
+                        -31.425257
+                  ]
+            },
+            {
+                  "name": "Chimenea de la Iggam",
+                  "text": "The tall industrial chimney is a relic of a former factory, standing as a testament to Córdoba's industrial past.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.219453,
+                        -31.365882
+                  ]
+            },
+            {
+                  "name": "Ex Cárcel Barrio San Martín",
+                  "text": "The abandoned prison building in the San Martín neighbourhood is a sombre historical site of urban penal history.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.197779,
+                        -31.390927
+                  ]
+            },
+            {
+                  "name": "El Edificio Raquítico",
+                  "text": "This unusually narrow building catches the eye as an architectural curiosity in the streetscape of Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.192452,
+                        -31.422378
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historical block in Córdoba featuring buildings from the Jesuit period, including the oldest university in Argentina.",
       hu: "Córdoba szívében található történelmi negyed, amely a jezsuiták egykori oktatási és vallási központja volt. Itt található Argentína legrégebbi egyeteme.",
@@ -315,7 +3933,1312 @@ image: "/poi-images/ar-manzana-jesuitica-history-v2.webp",
       fr: ["L'Université nationale de Córdoba y fut fondée en 1613.", "Inscrite au patrimoine mondial de l'UNESCO en 2000.", "L'église des Jésuites fut achevée en 1671.", "Le plafond en bois fut construit selon une technique navale sans clous.", "Abrite une bibliothèque historique riche de milliers de volumes anciens.", "Le Colegio Monserrat est l'un des plus prestigieux du pays.", "Situé dans le centre historique exact de Córdoba.", "La Chapelle domestique possède un autel élaboré en feuilles d'or."],
     }, image: "/poi-images/ar-manzana-jesuitica-history-v2.webp"},
   {
-    id: "ar-estancia-alta-gracia-history-v2",
+    id: "ar-estancia-alta-gracia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Bonete",
+                  "text": "Der Cerro Bonete ist ein markanter Berggipfel, der weite Ausblicke über die raue umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -64.519771,
+                        -31.689426
+                  ]
+            },
+            {
+                  "name": "Casa Chorizo",
+                  "text": "Die Casa Chorizo ist eine Kunstgalerie, die in einem für Argentinien typischen, langgestreckten traditionellen Wohnhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -64.431523,
+                        -31.65855
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Die Casa de la Cultura ist ein lokales Museum, das sich der Bewahrung und Ausstellung des kulturellen und historischen Erbes der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -64.433609,
+                        -31.658551
+                  ]
+            },
+            {
+                  "name": "Parque de Esculturas de Saúl Miller",
+                  "text": "Der Parque de Esculturas de Saúl Miller ist eine Freiluftgalerie, in der die großformatigen Skulpturen des Künstlers in eine Parklandschaft eingebettet sind.",
+                  "category": "museum",
+                  "coords": [
+                        -64.398235,
+                        -31.710665
+                  ]
+            },
+            {
+                  "name": "Morteros Comechingones",
+                  "text": "Die archäologische Stätte Morteros Comechingones zeigt historische, in den Fels gehauene Mörser der indigenen Bevölkerung zum Mahlen von Getreide.",
+                  "category": "historical",
+                  "coords": [
+                        -64.418093,
+                        -31.719214
+                  ]
+            },
+            {
+                  "name": "Monumento a Mercedes Sosa",
+                  "text": "Dieses Denkmal ehrt das musikalische Erbe und den kulturellen Einfluss der berühmten argentinischen Volkssängerin Mercedes Sosa.",
+                  "category": "historical",
+                  "coords": [
+                        -64.404028,
+                        -31.720473
+                  ]
+            },
+            {
+                  "name": "Monumento a Nestor Kirchner",
+                  "text": "Das Monumento a Nestor Kirchner ist eine Gedenkstätte, die dem Leben und der Amtszeit des ehemaligen argentinischen Präsidenten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -64.403524,
+                        -31.718636
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Monumental Sierras",
+                  "text": "Das Cine Teatro Monumental Sierras ist ein grandioser historischer Veranstaltungsort, der sowohl Kinovorführungen als auch Live-Theateraufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.430668,
+                        -31.657315
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Dieses Freiluft-Amphitheater bietet eine halbrunde, abgestufte Zuschauertribüne für kulturelle Aufführungen und Konzerte im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.4283,
+                        -31.660118
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Luján",
+                  "text": "Diese traditionelle Kapelle ist Unserer Lieben Frau von Luján, der Schutzpatronin Argentiniens, gewidmet und dient als lokaler Pilgerort.",
+                  "category": "religious",
+                  "coords": [
+                        -64.479206,
+                        -31.717324
+                  ]
+            },
+            {
+                  "name": "Capilla Stella Montis",
+                  "text": "Die Capilla Stella Montis ist eine besinnliche, historische Kapelle, die am 11. Januar 1942 feierlich eröffnet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -64.45307,
+                        -31.733782
+                  ]
+            },
+            {
+                  "name": "Capilla Divino Niño Jesús",
+                  "text": "Diese kleine Andachtskapelle ist der Verehrung des göttlichen Jesuskindes gewidmet und bietet den Gläubigen einen ruhigen Rückzugsort.",
+                  "category": "religious",
+                  "coords": [
+                        -64.40672,
+                        -31.665028
+                  ]
+            },
+            {
+                  "name": "El Santuario Marquitos",
+                  "text": "El Santuario Marquitos ist eine bescheidene lokale Andachtsstätte, die von den Anwohnern als intimer Ort des Gebets gepflegt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -64.427189,
+                        -31.722435
+                  ]
+            },
+            {
+                  "name": "Capilla Corazón Inmaculado de María",
+                  "text": "Diese katholische Kapelle ist dem Unbefleckten Herz Mariä gewidmet und dient als spirituelles Zentrum der lokalen Nachbarschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -64.402269,
+                        -31.699463
+                  ]
+            },
+            {
+                  "name": "Capilla Santa María Goretti",
+                  "text": "Die Capilla Santa María Goretti ist eine malerische Kapelle, die der Schutzpatronin der Jugend und Reinheit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -64.429309,
+                        -31.729021
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario del Milagro",
+                  "text": "Diese historische Kapelle ehrt Unsere Liebe Frau vom Rosenkranz des Wunders und bewahrt die tiefe religiöse Tradition der Region.",
+                  "category": "religious",
+                  "coords": [
+                        -64.439084,
+                        -31.73449
+                  ]
+            },
+            {
+                  "name": "Autoservicio El Chiche",
+                  "text": "Das Autoservicio El Chiche ist ein traditioneller lokaler Selbstbedienungsmarkt, in dem frische Lebensmittel und Waren des täglichen Bedarfs verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.437478,
+                        -31.73918
+                  ]
+            },
+            {
+                  "name": "Volcano",
+                  "text": "Diese vulkanbezogene Attraktion bietet Besuchern ein aufregendes, interaktives Erlebnis rund um geologische Naturphänomene.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402563,
+                        -31.717771
+                  ]
+            },
+            {
+                  "name": "Molino Hidráulico",
+                  "text": "Der Molino Hidráulico ist ein historisches Mühlengebäude, dessen Mechanismus ursprünglich von fließendem Wasser angetrieben wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.40688,
+                        -31.723793
+                  ]
+            },
+            {
+                  "name": "Balneario La Curva",
+                  "text": "Das Balneario La Curva ist ein beliebter Badeplatz, der an einer malerischen Flussbiegung liegt und an warmen Tagen zur Abkühlung einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.436606,
+                        -31.729289
+                  ]
+            },
+            {
+                  "name": "Carreras de Bolitas",
+                  "text": "Diese nostalgische Attraktion ist traditionellen Murmelrennen gewidmet und lädt Besucher jeden Alters zu verspielten Wettkämpfen ein.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.453796,
+                        -31.739125
+                  ]
+            },
+            {
+                  "name": "Laberinto Mágico",
+                  "text": "Das Laberinto Mágico ist ein verwinkelter Irrgarten, der Familien und Kindern ein spielerisches und magisches Navigationserlebnis bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.454447,
+                        -31.74006
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica",
+                  "text": "Die Iglesia Cristiana Evangélica ist ein Gotteshaus, in dem sich die Gemeinde zum gemeinsamen Gebet und zum Bibelstudium versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.428122,
+                        -31.658071
+                  ]
+            },
+            {
+                  "name": "Noviciado Salesiano",
+                  "text": "Das Noviciado Salesiano ist eine christliche Ausbildungsstätte, in der junge Novizen auf ihr Ordensleben nach der Tradition der Salesianer Don Boscos vorbereitet werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.427801,
+                        -31.666216
+                  ]
+            },
+            {
+                  "name": "San Expedito",
+                  "text": "Diese christliche Andachtsstätte ist dem Heiligen Expeditus gewidmet, der von den Gläubigen oft in dringenden und verzweifelten Anliegen angerufen wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.442534,
+                        -31.730059
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten ist ein Ort des christlichen Glaubens, an dem der wöchentliche Gottesdienst traditionell am Samstag gefeiert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.432201,
+                        -31.660722
+                  ]
+            },
+            {
+                  "name": "Sagrado Corazón de Jesús (Salesianos)",
+                  "text": "Die von den Salesianern geleitete Kirche Sagrado Corazón de Jesús ist der Verehrung des Heiligsten Herzens Jesu gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.426888,
+                        -31.664993
+                  ]
+            },
+            {
+                  "name": "Capilla Ortodoxa Rusa “San Nicolás de Bari”",
+                  "text": "Die im Jahr 1956 errichtete russisch-orthodoxe Kapelle „San Nicolás de Bari“ dient den Gläubigen der orthodoxen Tradition als spirituelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.418681,
+                        -31.724288
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculado Corazon De María",
+                  "text": "Diese christliche Kapelle ist tief in der Marienverehrung verwurzelt und trägt den Namen des Unbefleckten Herzens Mariä.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402533,
+                        -31.70259
+                  ]
+            },
+            {
+                  "name": "Salón Del Reino De Los Testigos De Jehová",
+                  "text": "Dieser Königreichssaal dient der örtlichen Versammlung der Zeugen Jehovas als zentraler Treffpunkt für Bibelstudien und religiöse Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.40531,
+                        -31.712963
+                  ]
+            },
+            {
+                  "name": "Iglesia Rey de Reyes",
+                  "text": "Die Iglesia Rey de Reyes ist eine protestantische Kirche, in der die Gemeinde zu modernen, gemeinschaftlichen Gottesdiensten zusammenkommt.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402196,
+                        -31.714838
+                  ]
+            },
+            {
+                  "name": "Templo del Sagrado Corazón",
+                  "text": "Der Templo del Sagrado Corazón ist ein historisches christliches Heiligtum aus dem Jahr 1941, das dem Heiligsten Herzen Jesu gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.407936,
+                        -31.730335
+                  ]
+            },
+            {
+                  "name": "La Iglesia De Jesucristo De Los Santos De Los Últimos días",
+                  "text": "Dieses Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage bietet den Mitgliedern Räumlichkeiten für Sonntagsgottesdienste und familiäre Aktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.411662,
+                        -31.729364
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Bethel",
+                  "text": "Das Centro Cristiano Bethel ist eine lebendige christliche Gemeinde, die durch vielfältige Programme und regelmäßige Gottesdienste den spirituellen Austausch fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.417085,
+                        -31.728435
+                  ]
+            },
+            {
+                  "name": "Reserva El Amanecer",
+                  "text": "Das Naturschutzgebiet Reserva El Amanecer bietet Erholungssuchenden nahe ar-estancia-alta-gracia-history-v2 eine grüne Oase der Ruhe.",
+                  "category": "natural",
+                  "coords": [
+                        -64.443867,
+                        -31.677523
+                  ]
+            },
+            {
+                  "name": "Mirador de Costa Azul",
+                  "text": "Der Mirador de Costa Azul ist ein malerischer Aussichtspunkt in der Nähe von ar-estancia-alta-gracia-history-v2, der weite Panoramablicke über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -64.393955,
+                        -31.72301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Bonete",
+                  "text": "A Cerro Bonete egy kiemelkedő hegycsúcs, amely széleskörű kilátást nyújt a környező zord tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -64.519771,
+                        -31.689426
+                  ]
+            },
+            {
+                  "name": "Casa Chorizo",
+                  "text": "A Casa Chorizo egy művészeti galéria, amely egy jellegzetes, hosszúkás argentin hagyományos lakóépületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -64.431523,
+                        -31.65855
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A Casa de la Cultura egy helyi múzeum, amely a régió kulturális és történelmi örökségének bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -64.433609,
+                        -31.658551
+                  ]
+            },
+            {
+                  "name": "Parque de Esculturas de Saúl Miller",
+                  "text": "A Parque de Esculturas de Saúl Miller egy szabadtéri galéria, ahol a művész szobrai egy parkosított környezetben tekinthetők meg.",
+                  "category": "museum",
+                  "coords": [
+                        -64.398235,
+                        -31.710665
+                  ]
+            },
+            {
+                  "name": "Morteros Comechingones",
+                  "text": "A Morteros Comechingones régészeti lelőhely az őslakosok által a gabona őrlésére használt, sziklába vájt történelmi mozsarakat mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -64.418093,
+                        -31.719214
+                  ]
+            },
+            {
+                  "name": "Monumento a Mercedes Sosa",
+                  "text": "Ez az emlékmű a híres argentin népdalénekes, Mercedes Sosa zenei öröksége és kulturális hatása előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -64.404028,
+                        -31.720473
+                  ]
+            },
+            {
+                  "name": "Monumento a Nestor Kirchner",
+                  "text": "A Monumento a Nestor Kirchner egy emlékmű, amelyet a volt argentin elnök életének és hivatali idejének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -64.403524,
+                        -31.718636
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Monumental Sierras",
+                  "text": "A Cine Teatro Monumental Sierras egy grandiózus történelmi színházépület, amely filmvetítéseknek és élő előadásoknak egyaránt otthont ad.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.430668,
+                        -31.657315
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ez a szabadtéri amfiteátrum félkör alakú, lépcsőzetes nézőtérrel várja a kulturális előadások és koncertek közönségét.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.4283,
+                        -31.660118
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Luján",
+                  "text": "Ez a hagyományos kápolna a Lujáni Szűzanyának, Argentína védőszentjének van szentelve, és helyi zarándokhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -64.479206,
+                        -31.717324
+                  ]
+            },
+            {
+                  "name": "Capilla Stella Montis",
+                  "text": "A Capilla Stella Montis egy békés történelmi kápolna, amelynek kapuit 1942. január 11-én nyitották meg a hívek előtt.",
+                  "category": "religious",
+                  "coords": [
+                        -64.45307,
+                        -31.733782
+                  ]
+            },
+            {
+                  "name": "Capilla Divino Niño Jesús",
+                  "text": "Ez a kis kápolna az Isteni Gyermek Jézus tiszteletének van szentelve, csendes menedéket nyújtva a hívőknek.",
+                  "category": "religious",
+                  "coords": [
+                        -64.40672,
+                        -31.665028
+                  ]
+            },
+            {
+                  "name": "El Santuario Marquitos",
+                  "text": "Az El Santuario Marquitos egy szerény helyi szentély, amelyet a lakosok meghitt imádkozóhelyként tartanak karban.",
+                  "category": "religious",
+                  "coords": [
+                        -64.427189,
+                        -31.722435
+                  ]
+            },
+            {
+                  "name": "Capilla Corazón Inmaculado de María",
+                  "text": "Ezt a katolikus kápolnát Mária Szeplőtelen Szívének szentelték, és a helyi közösség spirituális központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -64.402269,
+                        -31.699463
+                  ]
+            },
+            {
+                  "name": "Capilla Santa María Goretti",
+                  "text": "A Capilla Santa María Goretti egy festői kápolna, amelyet az ifjúság és a tisztaság védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -64.429309,
+                        -31.729021
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario del Milagro",
+                  "text": "Ez a történelmi kápolna a Csodatevő Rózsafüzér Királynőjét tiszteli, megőrizve a régió mély vallási hagyományait.",
+                  "category": "religious",
+                  "coords": [
+                        -64.439084,
+                        -31.73449
+                  ]
+            },
+            {
+                  "name": "Autoservicio El Chiche",
+                  "text": "Az Autoservicio El Chiche egy hagyományos helyi önkiszolgáló piac, ahol friss élelmiszereket és mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.437478,
+                        -31.73918
+                  ]
+            },
+            {
+                  "name": "Volcano",
+                  "text": "Ez a vulkános tematikájú látványosság izgalmas és interaktív élményt nyújt a látogatóknak a geológiai jelenségekkel kapcsolatban.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402563,
+                        -31.717771
+                  ]
+            },
+            {
+                  "name": "Molino Hidráulico",
+                  "text": "A Molino Hidráulico egy történelmi malomépület, amelynek gépezetét eredetileg a folyóvíz energiája hajtotta.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.40688,
+                        -31.723793
+                  ]
+            },
+            {
+                  "name": "Balneario La Curva",
+                  "text": "A Balneario La Curva egy népszerű folyóparti fürdőhely, amely a víz egy festői kanyarulatában fekszik, és ideális a hűsölésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.436606,
+                        -31.729289
+                  ]
+            },
+            {
+                  "name": "Carreras de Bolitas",
+                  "text": "Ez a nosztalgikus látványosság a hagyományos üveggolyó-versenyeknek állít emléket, játékos megmérettetésre hívva a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.453796,
+                        -31.739125
+                  ]
+            },
+            {
+                  "name": "Laberinto Mágico",
+                  "text": "A Laberinto Mágico egy kanyargós útvesztő, amely varázslatos és játékos tájékozódási élményt nyújt családoknak és gyerekeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.454447,
+                        -31.74006
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica",
+                  "text": "Az Iglesia Cristiana Evangélica egy evangéliumi keresztény templom, ahol a közösség közös imádságra és bibliaóra keretében gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.428122,
+                        -31.658071
+                  ]
+            },
+            {
+                  "name": "Noviciado Salesiano",
+                  "text": "A Noviciado Salesiano egy keresztény képzési központ, ahol a fiatal novíciusok a szalézi rend szerzetesi életére készülnek fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.427801,
+                        -31.666216
+                  ]
+            },
+            {
+                  "name": "San Expedito",
+                  "text": "Ez a keresztény imahely Szent Expeditusnak van szentelve, akihez a hívők gyakran fordulnak sürgős és nehéz ügyekben.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.442534,
+                        -31.730059
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Ez a Hetednapi Adventista Egyházhoz tartozó templom olyan keresztény hitéleti központ, ahol a heti istentiszteletet hagyományosan szombaton tartják.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.432201,
+                        -31.660722
+                  ]
+            },
+            {
+                  "name": "Sagrado Corazón de Jesús (Salesianos)",
+                  "text": "A szalézi rend által vezetett Sagrado Corazón de Jesús templom a Jézus Szentséges Szíve tiszteletére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.426888,
+                        -31.664993
+                  ]
+            },
+            {
+                  "name": "Capilla Ortodoxa Rusa “San Nicolás de Bari”",
+                  "text": "Az 1956-ban alapított, Bari Szent Miklósnak szentelt orosz ortodox kápolna az ortodox hagyományokat követő közösség számára nyújt istentiszteleti helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.418681,
+                        -31.724288
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculado Corazon De María",
+                  "text": "Ez a Mária-tiszteletben mélyen gyökerező keresztény kápolna a Szeplőtelen Szív nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402533,
+                        -31.70259
+                  ]
+            },
+            {
+                  "name": "Salón Del Reino De Los Testigos De Jehová",
+                  "text": "Ez a Királyság-terem Jehova Tanúi helyi gyülekezetének központja, ahol bibliaórákat és vallási összejöveteleket tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.40531,
+                        -31.712963
+                  ]
+            },
+            {
+                  "name": "Iglesia Rey de Reyes",
+                  "text": "Az Iglesia Rey de Reyes egy protestáns templom, ahol a gyülekezet modern, közösségi dicsőítésekre gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402196,
+                        -31.714838
+                  ]
+            },
+            {
+                  "name": "Templo del Sagrado Corazón",
+                  "text": "A Templo del Sagrado Corazón egy 1941-ből származó történelmi keresztény szentély, amelyet Jézus Szentséges Szívének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.407936,
+                        -31.730335
+                  ]
+            },
+            {
+                  "name": "La Iglesia De Jesucristo De Los Santos De Los Últimos días",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyházához tartozó gyülekezeti ház vasárnapi istentiszteletek és családi tevékenységek helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.411662,
+                        -31.729364
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Bethel",
+                  "text": "A Centro Cristiano Bethel egy élénk keresztény közösségi központ, amely változatos programokkal és rendszeres istentiszteletekkel támogatja a hitéletet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.417085,
+                        -31.728435
+                  ]
+            },
+            {
+                  "name": "Reserva El Amanecer",
+                  "text": "A Reserva El Amanecer természetvédelmi terület csendes zöld oázist kínál a ar-estancia-alta-gracia-history-v2 közelében pihenni vágyóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -64.443867,
+                        -31.677523
+                  ]
+            },
+            {
+                  "name": "Mirador de Costa Azul",
+                  "text": "A Mirador de Costa Azul egy festői kilátó, ahonnan lenyűgöző panoráma nyílik a ar-estancia-alta-gracia-history-v2 körüli vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -64.393955,
+                        -31.72301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Bonete",
+                  "text": "Cerro Bonete este un vârf montan proeminent care oferă vederi panoramice vaste asupra peisajului accidentat din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -64.519771,
+                        -31.689426
+                  ]
+            },
+            {
+                  "name": "Casa Chorizo",
+                  "text": "Casa Chorizo este o galerie de artă găzduită într-o locuință tradițională argentiniană cu o arhitectură alungită distinctivă.",
+                  "category": "museum",
+                  "coords": [
+                        -64.431523,
+                        -31.65855
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura este un muzeu local dedicat conservării și expunerii moștenirii artistice și istorice a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -64.433609,
+                        -31.658551
+                  ]
+            },
+            {
+                  "name": "Parque de Esculturas de Saúl Miller",
+                  "text": "Parque de Esculturas de Saúl Miller este o galerie în aer liber unde sculpturile artistului sunt expuse într-un cadru natural amenajat.",
+                  "category": "museum",
+                  "coords": [
+                        -64.398235,
+                        -31.710665
+                  ]
+            },
+            {
+                  "name": "Morteros Comechingones",
+                  "text": "Situl arheologic Morteros Comechingones prezintă mozaicuri istorice sculptate în piatră de populațiile indigene pentru măcinarea cerealelor.",
+                  "category": "historical",
+                  "coords": [
+                        -64.418093,
+                        -31.719214
+                  ]
+            },
+            {
+                  "name": "Monumento a Mercedes Sosa",
+                  "text": "Acest monument onorează moștenirea muzicală și influența culturală a celebrei cântărețe de muzică folk argentiniană, Mercedes Sosa.",
+                  "category": "historical",
+                  "coords": [
+                        -64.404028,
+                        -31.720473
+                  ]
+            },
+            {
+                  "name": "Monumento a Nestor Kirchner",
+                  "text": "Monumento a Nestor Kirchner este un memorial dedicat vieții și mandatului fostului președinte argentinian.",
+                  "category": "historical",
+                  "coords": [
+                        -64.403524,
+                        -31.718636
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Monumental Sierras",
+                  "text": "Cine Teatro Monumental Sierras este o sală istorică grandioasă care găzduiește atât proiecții de film, cât și spectacole de teatru live.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.430668,
+                        -31.657315
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Acest amfiteatru în aer liber are o zonă de relaxare în trepte, semicirculară, concepută pentru spectacole culturale și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.4283,
+                        -31.660118
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Luján",
+                  "text": "Această capelă tradițională este închinată Sfintei Fecioare din Luján, patroana Argentinei, și servește drept lăcaș de reculegere local.",
+                  "category": "religious",
+                  "coords": [
+                        -64.479206,
+                        -31.717324
+                  ]
+            },
+            {
+                  "name": "Capilla Stella Montis",
+                  "text": "Capilla Stella Montis este o capelă istorică liniștită a cărei construcție datează din 11 ianuarie 1942.",
+                  "category": "religious",
+                  "coords": [
+                        -64.45307,
+                        -31.733782
+                  ]
+            },
+            {
+                  "name": "Capilla Divino Niño Jesús",
+                  "text": "Această capelă mică este dedicată devoțiunii față de Pruncul Iisus Divin, oferind un loc de refugiu spiritual pentru credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        -64.40672,
+                        -31.665028
+                  ]
+            },
+            {
+                  "name": "El Santuario Marquitos",
+                  "text": "El Santuario Marquitos este un sanctuar local modest, întreținut de rezidenți ca un loc intim de rugăciune și ofrande.",
+                  "category": "religious",
+                  "coords": [
+                        -64.427189,
+                        -31.722435
+                  ]
+            },
+            {
+                  "name": "Capilla Corazón Inmaculado de María",
+                  "text": "Această capelă catolică este închinată Inimii Imaculate a Mariei, servind drept centru spiritual al cartierului.",
+                  "category": "religious",
+                  "coords": [
+                        -64.402269,
+                        -31.699463
+                  ]
+            },
+            {
+                  "name": "Capilla Santa María Goretti",
+                  "text": "Capilla Santa María Goretti este o capelă pitorească dedicată Sfintei protectoare a tineretului și a purității.",
+                  "category": "religious",
+                  "coords": [
+                        -64.429309,
+                        -31.729021
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario del Milagro",
+                  "text": "Această capelă istorică onorează Fecioara Rozariului Miracolului, păstrând profunda tradiție religioasă a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        -64.439084,
+                        -31.73449
+                  ]
+            },
+            {
+                  "name": "Autoservicio El Chiche",
+                  "text": "Autoservicio El Chiche este o piață locală tradițională cu autoservire, de unde se pot cumpăra alimente proaspete și produse esențiale de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.437478,
+                        -31.73918
+                  ]
+            },
+            {
+                  "name": "Volcano",
+                  "text": "Această atracție cu tematică vulcanică oferă vizitatorilor o experiență interactivă și captivantă axată pe fenomenele geologice.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402563,
+                        -31.717771
+                  ]
+            },
+            {
+                  "name": "Molino Hidráulico",
+                  "text": "Molino Hidráulico este o clădire istorică a cărei moară mecanică era acționată inițial de energia apei curgătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.40688,
+                        -31.723793
+                  ]
+            },
+            {
+                  "name": "Balneario La Curva",
+                  "text": "Balneario La Curva este o stațiune balneară populară de pe malul râului, situată la o cotitură pitorească a apei, ideală pentru scăldat.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.436606,
+                        -31.729289
+                  ]
+            },
+            {
+                  "name": "Carreras de Bolitas",
+                  "text": "Această atracție nostalgică este dedicată curselor tradiționale de bile, invitând vizitatorii de toate vârstele să se bucure de un joc clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.453796,
+                        -31.739125
+                  ]
+            },
+            {
+                  "name": "Laberinto Mágico",
+                  "text": "Laberinto Mágico este un labirint întortocheat care oferă familiilor și copiilor o experiență de navigare plină de magie și joacă.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.454447,
+                        -31.74006
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica",
+                  "text": "Iglesia Cristiana Evangélica este un lăcaș de cult creștin unde congregația se adună pentru rugăciune și studiul scripturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.428122,
+                        -31.658071
+                  ]
+            },
+            {
+                  "name": "Noviciado Salesiano",
+                  "text": "Noviciado Salesiano este un centru de formare religioasă unde tinerii novici se pregătesc pentru viața monahală în tradiția saleziană.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.427801,
+                        -31.666216
+                  ]
+            },
+            {
+                  "name": "San Expedito",
+                  "text": "Acest altar creștin este închinat Sfântului Expedit, sfântul patron invocat adesea de credincioși pentru cauze urgente și presante.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.442534,
+                        -31.730059
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Această biserică adventistă de ziua a șaptea este un lăcaș de cult creștin unde slujbele religioase se desfășoară în mod tradițional sâmbăta.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.432201,
+                        -31.660722
+                  ]
+            },
+            {
+                  "name": "Sagrado Corazón de Jesús (Salesianos)",
+                  "text": "Biserica Sagrado Corazón de Jesús, administrată de ordinul salezian, este dedicată devoțiunii față de Preasfânta Inimă a lui Iisus.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.426888,
+                        -31.664993
+                  ]
+            },
+            {
+                  "name": "Capilla Ortodoxa Rusa “San Nicolás de Bari”",
+                  "text": "Fondată în anul 1956, această capelă ortodoxă rusă este dedicată Sfântului Nicolae din Bari, deservind credincioșii de rit oriental.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.418681,
+                        -31.724288
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculado Corazon De María",
+                  "text": "Această capelă creștină este profund înrădăcinată în devoțiunea mariană, purtând numele Inimii Imaculate a Mariei.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402533,
+                        -31.70259
+                  ]
+            },
+            {
+                  "name": "Salón Del Reino De Los Testigos De Jehová",
+                  "text": "Această Sală a Regatului servește drept loc de întâlnire pentru congregația locală a Martorilor lui Iehova, găzduind studii biblice și întruniri.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.40531,
+                        -31.712963
+                  ]
+            },
+            {
+                  "name": "Iglesia Rey de Reyes",
+                  "text": "Iglesia Rey de Reyes este o biserică protestantă unde comunitatea se adună pentru slujbe religioase moderne de laudă și închinare.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402196,
+                        -31.714838
+                  ]
+            },
+            {
+                  "name": "Templo del Sagrado Corazón",
+                  "text": "Templo del Sagrado Corazón este un sanctuar creștin istoric care datează din anul 1941, dedicat Preasfintei Inimi a lui Iisus.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.407936,
+                        -31.730335
+                  ]
+            },
+            {
+                  "name": "La Iglesia De Jesucristo De Los Santos De Los Últimos días",
+                  "text": "Această casă de întruniri a Bisericii lui Iisus Hristos a Sfinților din Zilele din Urmă oferă spații pentru slujbele de duminică și activități de familie.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.411662,
+                        -31.729364
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Bethel",
+                  "text": "Centro Cristiano Bethel este un centru comunitar creștin activ, care încurajează creșterea spirituală prin programe diverse și slujbe religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.417085,
+                        -31.728435
+                  ]
+            },
+            {
+                  "name": "Reserva El Amanecer",
+                  "text": "Rezervația naturală Reserva El Amanecer oferă o oază verde de liniște vizitatorilor din apropierea orașului ar-estancia-alta-gracia-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -64.443867,
+                        -31.677523
+                  ]
+            },
+            {
+                  "name": "Mirador de Costa Azul",
+                  "text": "Mirador de Costa Azul este un punct de belvedere pitoresc, care oferă panorame ample asupra împrejurimilor de lângă ar-estancia-alta-gracia-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -64.393955,
+                        -31.72301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Bonete",
+                  "text": "Cerro Bonete is a prominent mountain peak that offers sweeping panoramic views over the surrounding rugged landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -64.519771,
+                        -31.689426
+                  ]
+            },
+            {
+                  "name": "Casa Chorizo",
+                  "text": "Casa Chorizo is an art gallery housed within a traditional Argentine home featuring the distinctive, elongated architectural style.",
+                  "category": "museum",
+                  "coords": [
+                        -64.431523,
+                        -31.65855
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "The Casa de la Cultura is a local museum dedicated to preserving and exhibiting the region's artistic and historical heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -64.433609,
+                        -31.658551
+                  ]
+            },
+            {
+                  "name": "Parque de Esculturas de Saúl Miller",
+                  "text": "The Parque de Esculturas de Saúl Miller is an open-air gallery showcasing the artist's sculptures set amidst a landscaped park.",
+                  "category": "museum",
+                  "coords": [
+                        -64.398235,
+                        -31.710665
+                  ]
+            },
+            {
+                  "name": "Morteros Comechingones",
+                  "text": "The Morteros Comechingones archaeological site features historic bedrock mortars carved by the indigenous peoples for grinding grains.",
+                  "category": "historical",
+                  "coords": [
+                        -64.418093,
+                        -31.719214
+                  ]
+            },
+            {
+                  "name": "Monumento a Mercedes Sosa",
+                  "text": "This monument honors the enduring musical legacy and cultural impact of the renowned Argentine folk singer Mercedes Sosa.",
+                  "category": "historical",
+                  "coords": [
+                        -64.404028,
+                        -31.720473
+                  ]
+            },
+            {
+                  "name": "Monumento a Nestor Kirchner",
+                  "text": "The Monumento a Nestor Kirchner is a commemorative structure dedicated to the life and tenure of the former Argentine president.",
+                  "category": "historical",
+                  "coords": [
+                        -64.403524,
+                        -31.718636
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Monumental Sierras",
+                  "text": "The Cine Teatro Monumental Sierras is a grandiose historic venue hosting both cinematic screenings and live theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.430668,
+                        -31.657315
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "This open-air amphitheater features semi-circular, tiered seating designed to host outdoor cultural performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.4283,
+                        -31.660118
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Luján",
+                  "text": "This traditional chapel is dedicated to Our Lady of Luján, the patroness of Argentina, serving as a quiet place for local devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -64.479206,
+                        -31.717324
+                  ]
+            },
+            {
+                  "name": "Capilla Stella Montis",
+                  "text": "The Capilla Stella Montis is a tranquil historic chapel that originally opened its doors to the congregation on January 11, 1942.",
+                  "category": "religious",
+                  "coords": [
+                        -64.45307,
+                        -31.733782
+                  ]
+            },
+            {
+                  "name": "Capilla Divino Niño Jesús",
+                  "text": "This small devotional chapel is dedicated to the Divine Child Jesus, providing a peaceful retreat for local worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        -64.40672,
+                        -31.665028
+                  ]
+            },
+            {
+                  "name": "El Santuario Marquitos",
+                  "text": "El Santuario Marquitos is a modest local place of worship, maintained by residents as an intimate sanctuary for prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -64.427189,
+                        -31.722435
+                  ]
+            },
+            {
+                  "name": "Capilla Corazón Inmaculado de María",
+                  "text": "This Catholic chapel is dedicated to the Immaculate Heart of Mary and serves as a spiritual center for the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -64.402269,
+                        -31.699463
+                  ]
+            },
+            {
+                  "name": "Capilla Santa María Goretti",
+                  "text": "The Capilla Santa María Goretti is a quaint local chapel dedicated to the patron saint of youth and purity.",
+                  "category": "religious",
+                  "coords": [
+                        -64.429309,
+                        -31.729021
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario del Milagro",
+                  "text": "This historic chapel honors Our Lady of the Rosary of the Miracle, preserving the region's deep-rooted religious traditions.",
+                  "category": "religious",
+                  "coords": [
+                        -64.439084,
+                        -31.73449
+                  ]
+            },
+            {
+                  "name": "Autoservicio El Chiche",
+                  "text": "Autoservicio El Chiche is a traditional local self-service marketplace stocked with fresh groceries and everyday essential goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.437478,
+                        -31.73918
+                  ]
+            },
+            {
+                  "name": "Volcano",
+                  "text": "This volcano-themed attraction provides visitors with an exciting, interactive experience centered around simulated geological phenomena.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402563,
+                        -31.717771
+                  ]
+            },
+            {
+                  "name": "Molino Hidráulico",
+                  "text": "The Molino Hidráulico is a historic mill structure whose grinding mechanisms were traditionally powered by flowing water.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.40688,
+                        -31.723793
+                  ]
+            },
+            {
+                  "name": "Balneario La Curva",
+                  "text": "Balneario La Curva is a popular riverside bathing spot situated along a scenic bend in the water, perfect for cooling off.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.436606,
+                        -31.729289
+                  ]
+            },
+            {
+                  "name": "Carreras de Bolitas",
+                  "text": "This nostalgic attraction is dedicated to traditional marble racing tracks, inviting visitors of all ages to engage in playful competition.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.453796,
+                        -31.739125
+                  ]
+            },
+            {
+                  "name": "Laberinto Mágico",
+                  "text": "The Laberinto Mágico is a twisting maze attraction that offers families and children a playful and magical navigation challenge.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.454447,
+                        -31.74006
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica",
+                  "text": "The Iglesia Cristiana Evangélica is a local house of worship where the congregation gathers for prayer and scriptural study.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.428122,
+                        -31.658071
+                  ]
+            },
+            {
+                  "name": "Noviciado Salesiano",
+                  "text": "The Noviciado Salesiano is a religious formation center where young novices are prepared for monastic life within the Salesian tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.427801,
+                        -31.666216
+                  ]
+            },
+            {
+                  "name": "San Expedito",
+                  "text": "This Christian shrine is dedicated to Saint Expeditus, the patron saint frequently invoked by believers for urgent and pressing causes.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.442534,
+                        -31.730059
+                  ]
+            },
+            {
+                  "name": "Seven Day Adventist Churc",
+                  "text": "This Seventh-day Adventist church is a Christian place of worship where the congregation traditionally observes its weekly services on Saturdays.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.432201,
+                        -31.660722
+                  ]
+            },
+            {
+                  "name": "Sagrado Corazón de Jesús (Salesianos)",
+                  "text": "Managed by the Salesian order, the Sagrado Corazón de Jesús church is a Christian sanctuary dedicated to the Sacred Heart of Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.426888,
+                        -31.664993
+                  ]
+            },
+            {
+                  "name": "Capilla Ortodoxa Rusa “San Nicolás de Bari”",
+                  "text": "Established in 1956, this Russian Orthodox chapel dedicated to Saint Nicholas of Bari serves the spiritual needs of the Eastern Orthodox community.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.418681,
+                        -31.724288
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculado Corazon De María",
+                  "text": "Deeply rooted in Marian devotion, this Christian chapel is fittingly named in honor of the Immaculate Heart of Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402533,
+                        -31.70259
+                  ]
+            },
+            {
+                  "name": "Salón Del Reino De Los Testigos De Jehová",
+                  "text": "This Kingdom Hall serves as the meeting place for the local congregation of Jehovah's Witnesses, hosting Bible studies and religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.40531,
+                        -31.712963
+                  ]
+            },
+            {
+                  "name": "Iglesia Rey de Reyes",
+                  "text": "The Iglesia Rey de Reyes is a Protestant church where the congregation gathers for modern, community-focused worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.402196,
+                        -31.714838
+                  ]
+            },
+            {
+                  "name": "Templo del Sagrado Corazón",
+                  "text": "The Templo del Sagrado Corazón is a historic Christian sanctuary dating back to 1941, deeply dedicated to the Sacred Heart of Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.407936,
+                        -31.730335
+                  ]
+            },
+            {
+                  "name": "La Iglesia De Jesucristo De Los Santos De Los Últimos días",
+                  "text": "This meetinghouse of the Church of Jesus Christ of Latter-day Saints provides facilities for Sunday worship services and family-oriented activities.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.411662,
+                        -31.729364
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Bethel",
+                  "text": "The Centro Cristiano Bethel is an active Christian community center that fosters spiritual growth through diverse outreach programs and regular worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.417085,
+                        -31.728435
+                  ]
+            },
+            {
+                  "name": "Reserva El Amanecer",
+                  "text": "The Reserva El Amanecer nature reserve provides a quiet green oasis for visitors near ar-estancia-alta-gracia-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -64.443867,
+                        -31.677523
+                  ]
+            },
+            {
+                  "name": "Mirador de Costa Azul",
+                  "text": "The Mirador de Costa Azul is a scenic viewpoint offering sweeping panoramas of the surrounding area near ar-estancia-alta-gracia-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -64.393955,
+                        -31.72301
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic Jesuit estancia in Córdoba, reflecting colonial agricultural and cultural practices.",
       hu: "Az egykori jezsuita gazdasági birtok (estancia) Córdoba tartományban. A komplexum ma múzeumként működik, bemutatva a missziók mezőgazdasági rendszerét.",
@@ -367,7 +5290,448 @@ image: "/poi-images/ar-estancia-alta-gracia-history-v2.webp",
       fr: ["Fondée vers 1643 par les jésuites.", "Inscrite au patrimoine mondial de l'UNESCO depuis 2000.", "Le barrage du « Tajamar » est le plus ancien de la province de Córdoba.", "Ancienne résidence de Santiago de Liniers (dernier vice-roi).", "L'église possède une façade baroque curviligne avec un clocher.", "C'était un grand centre de production de textiles et de bétail à l'époque coloniale.", "Le musée expose des meubles originaux et des objets jésuites.", "Située au centre de l'actuelle ville d'Alta Gracia."],
     }, image: "/poi-images/ar-estancia-alta-gracia-history-v2.webp"},
   {
-    id: "ar-estancia-jesus-maria-history-v2",
+    id: "ar-estancia-jesus-maria-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estancia Jesuitica Colonia Caroya",
+                  "text": "Dieses historische Museum ist in einem ehemaligen Jesuitengut untergebracht und zeigt die koloniale Landwirtschaft und Religionsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -64.106076,
+                        -30.988143
+                  ]
+            },
+            {
+                  "name": "Posta de Sinsacate",
+                  "text": "Die Ruinen einer alten kolonialen Poststation, die einst Reisenden entlang der Königsstraße diente.",
+                  "category": "historical",
+                  "coords": [
+                        -64.094226,
+                        -30.942042
+                  ]
+            },
+            {
+                  "name": "Museo Biondi",
+                  "text": "Ein spezialisiertes Museum, das sich der Bewahrung und Ausstellung von Sammlungen widmet, die für das kulturelle Erbe der Region von Bedeutung sind.",
+                  "category": "museum",
+                  "coords": [
+                        -64.101149,
+                        -30.978613
+                  ]
+            },
+            {
+                  "name": "Reserva Hídrica, Natural, Patrimonial y Cultural San Carlos",
+                  "text": "Ein geschütztes Naturschutzgebiet, das wichtige Wasserressourcen, einheimische Flora und Stätten des kulturellen Erbes umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -64.155394,
+                        -31.026518
+                  ]
+            },
+            {
+                  "name": "Museo Jesuítico Nacional",
+                  "text": "Diese als Erbe anerkannte Stätte, die 1946 in einem ehemaligen Jesuitengut als Museum eröffnet wurde, bewahrt umfangreiche koloniale Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -64.097376,
+                        -30.970143
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Sra. Del Valle",
+                  "text": "Eine ruhige christliche Kapelle, die Unserer Lieben Frau vom Tal gewidmet ist und die charakteristische lokale Kirchenarchitektur aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.111881,
+                        -31.016622
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fátima",
+                  "text": "Eine ruhige christliche Kapelle in der Nachbarschaft, die regelmäßige Gottesdienste und einen Raum für das gemeinsame Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.102609,
+                        -30.982781
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein modernes christliches Gemeindehaus der örtlichen Kirche Jesu Christi der Heiligen der Letzten Tage mit der typischen Architektur der Glaubensgemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.086142,
+                        -30.975389
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora delHuerto",
+                  "text": "Eine lokale christliche Kirche, die Unserer Lieben Frau vom Garten gewidmet ist und der Pfarrgemeinde aktiv dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.091932,
+                        -30.974454
+                  ]
+            },
+            {
+                  "name": "Capilla del Hospital",
+                  "text": "Eine kleine christliche Kapelle auf dem Krankenhausgelände, die Patienten und Personal spirituellen Trost spendet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.090214,
+                        -30.97719
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús y María",
+                  "text": "Diese christliche Hauptpfarrkirche ist ein zentraler Punkt der Stadt und beherbergt wichtige religiöse Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.093719,
+                        -30.98259
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose Obrero",
+                  "text": "Eine dem Heiligen Josef dem Arbeiter gewidmete christliche Kapelle, die sich durch ihr einfaches und einladendes Design auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.092794,
+                        -30.987494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estancia Jesuitica Colonia Caroya",
+                  "text": "Ez a történelmi múzeum egy egykori jezsuita birtokon működik, és a gyarmati mezőgazdaságot, valamint a vallástörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -64.106076,
+                        -30.988143
+                  ]
+            },
+            {
+                  "name": "Posta de Sinsacate",
+                  "text": "Egy régi gyarmati postaállomás romjai, amely egykor a királyi úton utazókat szolgálta ki.",
+                  "category": "historical",
+                  "coords": [
+                        -64.094226,
+                        -30.942042
+                  ]
+            },
+            {
+                  "name": "Museo Biondi",
+                  "text": "Egy specializált múzeum, amely a régió kulturális öröksége szempontjából releváns gyűjtemények megőrzésének és kiállításának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -64.101149,
+                        -30.978613
+                  ]
+            },
+            {
+                  "name": "Reserva Hídrica, Natural, Patrimonial y Cultural San Carlos",
+                  "text": "Védett természetvédelmi terület, amely létfontosságú vízkészleteket, őshonos növényvilágot és kulturális örökségi helyszíneket foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        -64.155394,
+                        -31.026518
+                  ]
+            },
+            {
+                  "name": "Museo Jesuítico Nacional",
+                  "text": "Az 1946-ban egy egykori jezsuita birtokon alapított, örökségként elismert múzeum gazdag gyarmati leletanyagot őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -64.097376,
+                        -30.970143
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Sra. Del Valle",
+                  "text": "A Völgy Szűzanyjának szentelt békés keresztény kápolna, amelyre a jellegzetes helyi egyházi építészet jellemző.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.111881,
+                        -31.016622
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fátima",
+                  "text": "Egy csendes környékbeli keresztény kápolna, amely rendszeres istentiszteleteket és közösségi imádkozóhelyet biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.102609,
+                        -30.982781
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek helyi gyülekezetének modern keresztény találkozóhelye, jellegzetes felekezeti építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.086142,
+                        -30.975389
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora delHuerto",
+                  "text": "A Kerti Szűzanyának szentelt helyi keresztény templom, amely aktívan szolgálja az egyházközséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.091932,
+                        -30.974454
+                  ]
+            },
+            {
+                  "name": "Capilla del Hospital",
+                  "text": "A kórház területén található kis keresztény kápolna, amely lelki vigaszt nyújt a betegeknek és a személyzetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.090214,
+                        -30.97719
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús y María",
+                  "text": "Ez a fő keresztény plébániatemplom a város egyik központja, amely jelentős vallási eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.093719,
+                        -30.98259
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose Obrero",
+                  "text": "A Munkás Szent Józsefről elnevezett keresztény kápolna, amelyet egyszerű és barátságos kialakítás jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.092794,
+                        -30.987494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estancia Jesuitica Colonia Caroya",
+                  "text": "Acest muzeu istoric este găzduit într-o fostă moșie iezuită, prezentând agricultura colonială și istoria religioasă.",
+                  "category": "museum",
+                  "coords": [
+                        -64.106076,
+                        -30.988143
+                  ]
+            },
+            {
+                  "name": "Posta de Sinsacate",
+                  "text": "Ruinele unei vechi stații de poștă coloniale care deservea odinioară călătorii de-a lungul drumului regal.",
+                  "category": "historical",
+                  "coords": [
+                        -64.094226,
+                        -30.942042
+                  ]
+            },
+            {
+                  "name": "Museo Biondi",
+                  "text": "Un muzeu specializat dedicat conservării și expunerii colecțiilor relevante pentru patrimoniul cultural al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -64.101149,
+                        -30.978613
+                  ]
+            },
+            {
+                  "name": "Reserva Hídrica, Natural, Patrimonial y Cultural San Carlos",
+                  "text": "O rezervație naturală protejată care cuprinde resurse de apă vitale, floră nativă și situri de patrimoniu cultural.",
+                  "category": "natural",
+                  "coords": [
+                        -64.155394,
+                        -31.026518
+                  ]
+            },
+            {
+                  "name": "Museo Jesuítico Nacional",
+                  "text": "Înființat ca muzeu în 1946 într-o fostă moșie iezuită, acest sit de patrimoniu păstrează numeroase artefacte coloniale.",
+                  "category": "museum",
+                  "coords": [
+                        -64.097376,
+                        -30.970143
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Sra. Del Valle",
+                  "text": "O capelă creștină liniștită, închinată Maicii Domnului din Vale, caracterizată prin arhitectura ecleziastică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.111881,
+                        -31.016622
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fátima",
+                  "text": "O capelă creștină de cartier liniștită, oferind slujbe religioase regulate și un spațiu pentru rugăciunea comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.102609,
+                        -30.982781
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri creștină modernă pentru congregația locală a Sfinților din Zilele din Urmă, cu arhitectură confesională tipică.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.086142,
+                        -30.975389
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora delHuerto",
+                  "text": "O biserică creștină locală închinată Maicii Domnului a Grădinii, slujind activ comunitatea parohială.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.091932,
+                        -30.974454
+                  ]
+            },
+            {
+                  "name": "Capilla del Hospital",
+                  "text": "O mică capelă creștină situată în incinta spitalului, oferind alinare spirituală pacienților și personalului.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.090214,
+                        -30.97719
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús y María",
+                  "text": "Această biserică parohială creștină principală este un punct central al orașului, găzduind evenimente religioase semnificative.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.093719,
+                        -30.98259
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose Obrero",
+                  "text": "O capelă creștină închinată Sfântului Iosif Muncitorul, caracterizată prin designul său simplu și primitor.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.092794,
+                        -30.987494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estancia Jesuitica Colonia Caroya",
+                  "text": "This historic museum is housed in a former Jesuit estate, showcasing colonial agriculture and religious history.",
+                  "category": "museum",
+                  "coords": [
+                        -64.106076,
+                        -30.988143
+                  ]
+            },
+            {
+                  "name": "Posta de Sinsacate",
+                  "text": "The ruins of an old colonial post house that once served travellers along the royal road.",
+                  "category": "historical",
+                  "coords": [
+                        -64.094226,
+                        -30.942042
+                  ]
+            },
+            {
+                  "name": "Museo Biondi",
+                  "text": "A specialized museum dedicated to preserving and exhibiting collections relevant to the region's cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -64.101149,
+                        -30.978613
+                  ]
+            },
+            {
+                  "name": "Reserva Hídrica, Natural, Patrimonial y Cultural San Carlos",
+                  "text": "A protected nature reserve encompassing vital water resources, native flora, and sites of cultural heritage.",
+                  "category": "natural",
+                  "coords": [
+                        -64.155394,
+                        -31.026518
+                  ]
+            },
+            {
+                  "name": "Museo Jesuítico Nacional",
+                  "text": "Established as a museum in 1946 within a former Jesuit estate, this heritage site preserves extensive colonial artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -64.097376,
+                        -30.970143
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Sra. Del Valle",
+                  "text": "A serene Christian chapel dedicated to Our Lady of the Valley, featuring characteristic local ecclesiastical architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.111881,
+                        -31.016622
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fátima",
+                  "text": "A quiet neighborhood Christian chapel providing regular religious services and a space for community prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.102609,
+                        -30.982781
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A modern Christian meetinghouse for the local Latter-day Saint congregation, featuring typical denominational architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.086142,
+                        -30.975389
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora delHuerto",
+                  "text": "A local Christian church dedicated to Our Lady of the Garden, actively serving the parish community.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.091932,
+                        -30.974454
+                  ]
+            },
+            {
+                  "name": "Capilla del Hospital",
+                  "text": "A small Christian chapel situated within the hospital grounds, offering spiritual comfort to patients and staff.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.090214,
+                        -30.97719
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús y María",
+                  "text": "This principal Christian parish church is a focal point of the town, hosting significant religious events.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.093719,
+                        -30.98259
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose Obrero",
+                  "text": "A dedicated Christian chapel named after St Joseph the Worker, characterized by its simple and welcoming design.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.092794,
+                        -30.987494
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "An important Jesuit estate, known for its well-preserved colonial structure and winemaking history.",
       hu: "A jezsuita missziók bortermelő központja volt Córdoba tartományban. A gyönyörű gyarmati stílusú épületek ma a jezsuita múlt emlékét őrzik.",
@@ -419,7 +5783,88 @@ image: "/poi-images/ar-estancia-jesus-maria-history-v2.webp",
       fr: ["Fondée en 1618 par les jésuites spécifiquement pour la viticulture.", "Inscrite au patrimoine mondial de l'UNESCO en 2000.", "Lieu d'origine du vin « Lagrimilla », le premier vin exporté de la région.", "La façade de l'église est un chef-d'œuvre de la taille de pierre coloniale.", "Le cloître quadrilatère avec ses colonnes massives est conservé.", "Abrite le Musée national jésuite.", "Située sur l'historique « Camino Real » vers le Haut-Pérou (Potosí).", "La région est aujourd'hui célèbre pour son salami et ses fêtes folkloriques."],
     }, image: "/poi-images/ar-estancia-jesus-maria-history-v2.webp"},
   {
-    id: "ar-estancia-santa-catalina-history-v2",
+    id: "ar-estancia-santa-catalina-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia de Santa Catalina",
+                  "text": "Diese berühmte jesuitische Kultstätte ist ein markantes historisches Wahrzeichen auf dem kolonialen Landgut Santa Catalina.",
+                  "category": "religious",
+                  "coords": [
+                        -64.233816,
+                        -30.869756
+                  ]
+            },
+            {
+                  "name": "Convento Agua de Las Piedras",
+                  "text": "Ein christliches Kloster, das einen abgelegenen Rückzugsort für klösterliches Leben und kontemplative spirituelle Praxis bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.207482,
+                        -30.81145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia de Santa Catalina",
+                  "text": "Ez a híres jezsuita istentiszteleti hely a gyarmati Santa Catalina birtok kiemelkedő történelmi nevezetessége.",
+                  "category": "religious",
+                  "coords": [
+                        -64.233816,
+                        -30.869756
+                  ]
+            },
+            {
+                  "name": "Convento Agua de Las Piedras",
+                  "text": "Keresztény kolostor, amely elzárt menedéket nyújt a szerzetesi élethez és az elmélyült spirituális gyakorlatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.207482,
+                        -30.81145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia de Santa Catalina",
+                  "text": "Acest renumit lăcaș de cult iezuit este un punct de reper istoric proeminent pe moșia colonială Santa Catalina.",
+                  "category": "religious",
+                  "coords": [
+                        -64.233816,
+                        -30.869756
+                  ]
+            },
+            {
+                  "name": "Convento Agua de Las Piedras",
+                  "text": "Un convent creștin ce oferă un refugiu retras pentru viața monahală și practici spirituale contemplative.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.207482,
+                        -30.81145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia de Santa Catalina",
+                  "text": "This renowned Jesuit place of worship stands as a prominent historical landmark within the colonial Santa Catalina estate.",
+                  "category": "religious",
+                  "coords": [
+                        -64.233816,
+                        -30.869756
+                  ]
+            },
+            {
+                  "name": "Convento Agua de Las Piedras",
+                  "text": "A Christian convent providing a secluded retreat for monastic life and contemplative spiritual practice.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.207482,
+                        -30.81145
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A former Jesuit ranch, representative of the religious order's historical economic impact in the region.",
       hu: "A legnagyobb a Córdoba környéki jezsuita estanciák közül, monumentális templomáról és gazdag állattenyésztési múltjáról ismert.",
@@ -471,7 +5916,340 @@ image: "/poi-images/ar-estancia-santa-catalina-history-v2.webp",
       fr: ["Fondée en 1622, c'est la plus vaste des estancias de Córdoba.", "Inscrite au patrimoine mondial de l'UNESCO depuis 2000.", "L'église est considérée comme l'édifice baroque le plus important d'Argentine.", "Trois cours intérieures massives et un cimetière privé.", "Ancien centre majeur d'élevage de mules (pour les mines de Potosí).", "Accessible par une route pittoresque à travers les Sierras Chicas.", "Intérieur de l'église orné de feuilles d'or et de peintures sacrées.", "Propriété de la famille Frías depuis le XVIIIe siècle."],
     }, image: "/poi-images/ar-estancia-santa-catalina-history-v2.webp"},
   {
-    id: "ar-estancia-caroya-history-v2",
+    id: "ar-estancia-caroya-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento a Los Inmigrantes",
+                  "text": "Dieses Gedenkdenkmal in Colonia Caroya ehrt die friaulischen und norditalienischen Einwanderer, die diese landwirtschaftliche Stadt gegründet und entwickelt haben.",
+                  "category": "historical",
+                  "coords": [
+                        -64.028138,
+                        -31.049979
+                  ]
+            },
+            {
+                  "name": "Museo Casa Copetti",
+                  "text": "Dieses heimatkundliche Museum befindet sich in einem traditionellen Wohnhaus und bewahrt das Erbe der italienischen Einwanderer der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -64.043054,
+                        -31.027115
+                  ]
+            },
+            {
+                  "name": "Bodega La Caroyense",
+                  "text": "Ein bekanntes lokales Weingut, das regionale Weine produziert und die Weinbautradition der Gegend präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.075578,
+                        -31.007695
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fátima",
+                  "text": "Eine kleine christliche Kapelle, die Unserer Lieben Frau von Fátima gewidmet ist und einen ruhigen Raum für lokale Gottesdienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.041759,
+                        -31.051282
+                  ]
+            },
+            {
+                  "name": "Ntra.Señora de Fatima",
+                  "text": "Diese bescheidene christliche Kultstätte dient der örtlichen religiösen Gemeinschaft mit regelmäßigen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.046258,
+                        -31.04822
+                  ]
+            },
+            {
+                  "name": "Oratorio San Roque",
+                  "text": "Ein christliches Oratorium, das ein traditionelles Heiligtum für Gebet und Besinnung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.082075,
+                        -31.003649
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Santísimo Rosario",
+                  "text": "Eine lokale christliche Kapelle, die dem Heiligen Rosenkranz gewidmet ist und traditionelle religiöse Architektur aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.072239,
+                        -31.032155
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de Monserrat",
+                  "text": "Eine bemerkenswerte christliche Kirche, die Unserer Lieben Frau von Montserrat gewidmet ist und als Mittelpunkt für die Gläubigen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.063326,
+                        -31.02061
+                  ]
+            },
+            {
+                  "name": "Iglesia del Santísimo Rosario",
+                  "text": "Diese etablierte christliche Kirche, die dem Heiligen Rosenkranz gewidmet ist, beherbergt lokale Gemeindetreffen und religiöse Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.090611,
+                        -30.99731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento a Los Inmigrantes",
+                  "text": "Ez a Colonia Caroya-i emlékmű azokat a friuli és észak-olasz bevándorlókat tiszteli, akik megalapították és fejlesztették ezt a mezőgazdasági várost.",
+                  "category": "historical",
+                  "coords": [
+                        -64.028138,
+                        -31.049979
+                  ]
+            },
+            {
+                  "name": "Museo Casa Copetti",
+                  "text": "Ez a helytörténeti múzeum egy hagyományos lakóházban található, és a régió olasz bevándorlóinak örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -64.043054,
+                        -31.027115
+                  ]
+            },
+            {
+                  "name": "Bodega La Caroyense",
+                  "text": "A helyi borászati hagyományokat bemutató, regionális borokat termelő jelentős pincészet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.075578,
+                        -31.007695
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fátima",
+                  "text": "A Fatimai Szűzanyának szentelt kis keresztény kápolna, amely csendes helyet kínál a helyi hívőknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.041759,
+                        -31.051282
+                  ]
+            },
+            {
+                  "name": "Ntra.Señora de Fatima",
+                  "text": "Ez a szerény keresztény istentiszteleti hely rendszeres szertartásokkal szolgálja a helyi vallási közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.046258,
+                        -31.04822
+                  ]
+            },
+            {
+                  "name": "Oratorio San Roque",
+                  "text": "Egy keresztény oratórium, amely hagyományos szentélyt nyújt az imádsághoz és az elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.082075,
+                        -31.003649
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Santísimo Rosario",
+                  "text": "A Szent Rózsafüzérnek szentelt helyi keresztény kápolna hagyományos vallási építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.072239,
+                        -31.032155
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de Monserrat",
+                  "text": "A Montserrati Szűzanyának szentelt jelentős keresztény templom, amely a hívők központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.063326,
+                        -31.02061
+                  ]
+            },
+            {
+                  "name": "Iglesia del Santísimo Rosario",
+                  "text": "Ez a Szent Rózsafüzérnek szentelt, jól ismert keresztény templom helyi közösségi összejöveteleknek és vallási szertartásoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.090611,
+                        -30.99731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento a Los Inmigrantes",
+                  "text": "Acest monument comemorativ din Colonia Caroya onorează imigranții friulani și din nordul Italiei care au fondat și dezvoltat orașul agricol.",
+                  "category": "historical",
+                  "coords": [
+                        -64.028138,
+                        -31.049979
+                  ]
+            },
+            {
+                  "name": "Museo Casa Copetti",
+                  "text": "Acest muzeu de istorie locală funcționează într-o casă tradițională, păstrând moștenirea imigranților italieni din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -64.043054,
+                        -31.027115
+                  ]
+            },
+            {
+                  "name": "Bodega La Caroyense",
+                  "text": "O cramă locală proeminentă care produce vinuri regionale, prezentând tradițiile viticole ale zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.075578,
+                        -31.007695
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fátima",
+                  "text": "O mică capelă creștină închinată Maicii Domnului de la Fátima, oferind un spațiu liniștit pentru cultul local.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.041759,
+                        -31.051282
+                  ]
+            },
+            {
+                  "name": "Ntra.Señora de Fatima",
+                  "text": "Acest lăcaș de cult creștin modest servește comunitatea religioasă locală cu slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.046258,
+                        -31.04822
+                  ]
+            },
+            {
+                  "name": "Oratorio San Roque",
+                  "text": "Un oratoriu creștin ce oferă un sanctuar tradițional pentru rugăciune și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.082075,
+                        -31.003649
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Santísimo Rosario",
+                  "text": "O capelă creștină locală închinată Sfântului Rozariu, având o arhitectură religioasă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.072239,
+                        -31.032155
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de Monserrat",
+                  "text": "O biserică creștină notabilă închinată Maicii Domnului de la Montserrat, servind ca punct central pentru credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.063326,
+                        -31.02061
+                  ]
+            },
+            {
+                  "name": "Iglesia del Santísimo Rosario",
+                  "text": "Această biserică creștină consacrată Sfântului Rozariu găzduiește adunări ale comunității locale și ceremonii religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.090611,
+                        -30.99731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento a Los Inmigrantes",
+                  "text": "This commemorative monument in Colonia Caroya honors the friulian and northern Italian immigrants who founded and developed the agricultural town.",
+                  "category": "historical",
+                  "coords": [
+                        -64.028138,
+                        -31.049979
+                  ]
+            },
+            {
+                  "name": "Museo Casa Copetti",
+                  "text": "This local history museum is set in a traditional house, preserving the heritage of the region's Italian immigrants.",
+                  "category": "museum",
+                  "coords": [
+                        -64.043054,
+                        -31.027115
+                  ]
+            },
+            {
+                  "name": "Bodega La Caroyense",
+                  "text": "A prominent local winery that produces regional wines, showcasing the area's viticultural traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.075578,
+                        -31.007695
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fátima",
+                  "text": "A small Christian chapel dedicated to Our Lady of Fátima, offering a quiet space for local worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.041759,
+                        -31.051282
+                  ]
+            },
+            {
+                  "name": "Ntra.Señora de Fatima",
+                  "text": "This modest Christian place of worship serves the local religious community with regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.046258,
+                        -31.04822
+                  ]
+            },
+            {
+                  "name": "Oratorio San Roque",
+                  "text": "A dedicated Christian oratory providing a traditional sanctuary for prayer and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.082075,
+                        -31.003649
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Santísimo Rosario",
+                  "text": "A local Christian chapel dedicated to the Holy Rosary, featuring traditional religious architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.072239,
+                        -31.032155
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de Monserrat",
+                  "text": "A notable Christian church dedicated to Our Lady of Montserrat, serving as a focal point for the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.063326,
+                        -31.02061
+                  ]
+            },
+            {
+                  "name": "Iglesia del Santísimo Rosario",
+                  "text": "This established Christian church dedicated to the Holy Rosary hosts local community gatherings and religious ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.090611,
+                        -30.99731
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic Jesuit estancia famous for its role in colonial economy and architecture.",
       hu: "A jezsuiták első nagy gazdasági egysége volt a régióban. Később a függetlenségi háború idején fegyvergyárként és katonai pihenőhelyként is szolgált.",
@@ -523,7 +6301,124 @@ image: "/poi-images/ar-estancia-caroya-history-v2.webp",
       fr: ["Fondée en 1616, c'est la plus ancienne des estancias jésuites.", "Inscrite au patrimoine mondial de l'UNESCO en 2000.", "Servit de manufacture d'épées pendant les guerres d'indépendance.", "Important centre colonial de transformation du maïs et du blé.", "Plan carré avec une grande cour intérieure.", "Abrite un musée sur l'histoire de la région.", "Située dans la zone d'immigration piémontaise du XIXe siècle.", "Joua un rôle logistique pour l'armée des Andes de San Martín en 1817."],
     }, image: "/poi-images/ar-estancia-caroya-history-v2.webp"},
   {
-    id: "ar-estancia-la-candelaria-history-v2",
+    id: "ar-estancia-la-candelaria-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascada El Salto",
+                  "text": "Der Wasserfall El Salto stürzt über felsiges Terrain in der Nähe der Estancia La Candelaria und bildet ein natürliches Becken.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.835423,
+                        -31.091124
+                  ]
+            },
+            {
+                  "name": "Estancia Jesuítica La Candelaria",
+                  "text": "Diese historische Anlage aus dem 17. Jahrhundert ist eine der von der UNESCO geschützten Jesuitenreduktionen von Córdoba und diente einst als Viehzuchtbetrieb.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.854933,
+                        -31.098377
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario del Milagro",
+                  "text": "Die christliche Kapelle in der Estancia La Candelaria zeichnet sich durch ihre dicken Steinmauern und die koloniale Architektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.750328,
+                        -31.111306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascada El Salto",
+                  "text": "Az El Salto-vízesés sziklás terepen zuhan le az Estancia La Candelaria közelében, és egy természetes medencét alkot.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.835423,
+                        -31.091124
+                  ]
+            },
+            {
+                  "name": "Estancia Jesuítica La Candelaria",
+                  "text": "Ez a 17. századi történelmi birtok Córdoba UNESCO által védett jezsuita misszióinak egyike, amely egykor szarvasmarha-tenyésztő telepként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.854933,
+                        -31.098377
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario del Milagro",
+                  "text": "Az Estancia La Candelaria területén található keresztény kápolnát vastag kőfalak és gyarmati építészet jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.750328,
+                        -31.111306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascada El Salto",
+                  "text": "Cascada El Salto se prăvălește peste teren stâncos lângă Estancia La Candelaria, formând un bazin natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.835423,
+                        -31.091124
+                  ]
+            },
+            {
+                  "name": "Estancia Jesuítica La Candelaria",
+                  "text": "Această fermă istorică din secolul al XVII-lea face parte din patrimoniul UNESCO al iezuiților din Córdoba și a funcționat odinioară ca o crescătorie de vite.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.854933,
+                        -31.098377
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario del Milagro",
+                  "text": "Capela creștină de pe domeniul Estancia La Candelaria se remarcă prin zidurile sale groase de piatră și arhitectura colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.750328,
+                        -31.111306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascada El Salto",
+                  "text": "The El Salto waterfall plunges over rocky terrain near the Estancia La Candelaria, forming a natural pool.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.835423,
+                        -31.091124
+                  ]
+            },
+            {
+                  "name": "Estancia Jesuítica La Candelaria",
+                  "text": "This historic 17th-century estate is one of the UNESCO-listed Jesuit blocks of Córdoba and once functioned as a major cattle ranch.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.854933,
+                        -31.098377
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario del Milagro",
+                  "text": "The Christian chapel at the Estancia La Candelaria is characterized by its thick stone walls and colonial architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.750328,
+                        -31.111306
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A remote Jesuit estate located in the mountains of Córdoba, historic for its rural colonial life.",
       hu: "Az Andok-hegység lábánál fekvő jezsuita birtok, amely elszigetelt fekvése miatt különleges hangulatot áraszt. Fő profilja az öszvértenyésztés volt.",
@@ -575,7 +6470,1168 @@ image: "/poi-images/ar-estancia-la-candelaria-history-v2.webp",
       fr: ["Fondée en 1683 dans les Sierras Grandes à 1 200 m d'altitude.", "La plus isolée et la plus haute des estancias de Córdoba.", "Inscrite au patrimoine mondial de l'UNESCO en 2000.", "Chapelle caractéristique avec un clocher sobre.", "Construite comme une forteresse pour l'autodéfense et l'élevage.", "Important producteur de mules pour la route commerciale de Potosí.", "Le domaine original s'étendait sur plus de 300 000 hectares.", "Accessible par une route de montagne exigeante."],
     }, image: "/poi-images/ar-estancia-la-candelaria-history-v2.webp"},
   {
-    id: "ar-monumento-bandera-history-v2",
+    id: "ar-monumento-bandera-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Estevez",
+                  "text": "Dieses bemerkenswerte Museum für dekorative Kunst in ar-monumento-bandera-history-v2 zeigt die umfangreichen persönlichen Sammlungen von Firma und Odilo Estévez.",
+                  "category": "museum",
+                  "coords": [
+                        -60.632972,
+                        -32.94648
+                  ]
+            },
+            {
+                  "name": "Monumento Histórico Nacional a la Bandera",
+                  "text": "Diese von Alejandro Bustillo und Ángel Francisco Guido entworfene monumentale Attraktion in ar-monumento-bandera-history-v2 wurde am 20. Juni 1957 eingeweiht.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.630648,
+                        -32.94764
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral de Nuestra Señora del Rosario",
+                  "text": "Diese herausragende historische Kathedrale und Basilika in ar-monumento-bandera-history-v2 beeindruckt mit ihrer religiösen Architektur, die Unserer Lieben Frau vom Rosenkranz geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.63225,
+                        -32.94748
+                  ]
+            },
+            {
+                  "name": "Viaducto Ingeniero Emigdio Pinasco",
+                  "text": "Diese bemerkenswerte Viaduktbrücke in ar-monumento-bandera-history-v2 bietet eine erhöhte Überquerung der städtischen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.677465,
+                        -32.932503
+                  ]
+            },
+            {
+                  "name": "Parque Mitre",
+                  "text": "Dieser bekannte öffentliche Park in ar-monumento-bandera-history-v2 verfügt über eine gepflegte städtische Grünfläche zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        -60.712558,
+                        -32.940218
+                  ]
+            },
+            {
+                  "name": "Sede fundacional del Club Atlético Rosario Central",
+                  "text": "Dieses am 24. Dezember 1889 gegründete Museum in ar-monumento-bandera-history-v2 erinnert an die Gründungsstätte des Club Atlético Rosario Central.",
+                  "category": "museum",
+                  "coords": [
+                        -60.673702,
+                        -32.929692
+                  ]
+            },
+            {
+                  "name": "Parque Scalabrini Ortiz",
+                  "text": "Dieser weitläufige Stadtpark in ar-monumento-bandera-history-v2 bietet große Rasenflächen und Freizeiteinrichtungen auf ehemaligen Bahngeländen.",
+                  "category": "park",
+                  "coords": [
+                        -60.667625,
+                        -32.930009
+                  ]
+            },
+            {
+                  "name": "Galpón 11",
+                  "text": "Dieses Museum in ar-monumento-bandera-history-v2 ist in einer umfunktionierten Lagerhalle untergebracht und bietet Kultur- und Musikausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -60.632052,
+                        -32.942606
+                  ]
+            },
+            {
+                  "name": "Teatro Vorterix Rosario",
+                  "text": "Dieses etablierte Veranstaltungstheater in ar-monumento-bandera-history-v2 fungiert als wichtiger Veranstaltungsort für Live-Musik und Unterhaltungsevents.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.669631,
+                        -32.933611
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rita",
+                  "text": "Diese Kultstätte in ar-monumento-bandera-history-v2 ist eine lokale Kapelle, die Santa Rita für die Andacht der Gemeinde geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -60.697101,
+                        -32.929532
+                  ]
+            },
+            {
+                  "name": "Mercado de Pulgas del Bajo",
+                  "text": "Dieser beliebte Flohmarkt in ar-monumento-bandera-history-v2 bietet zahlreiche Stände, an denen Antiquitäten, Kunsthandwerk und Vintage-Waren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.630772,
+                        -32.94622
+                  ]
+            },
+            {
+                  "name": "Feria del Eucalipto",
+                  "text": "Dieser nach den Eukalyptusbäumen benannte Freiluftmarkt in ar-monumento-bandera-history-v2 ist ein Treffpunkt für lokale Händler.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.696105,
+                        -32.971297
+                  ]
+            },
+            {
+                  "name": "Barquito de Papel",
+                  "text": "Diese einzigartige Attraktion in ar-monumento-bandera-history-v2 besticht durch eine großformatige Skulptur, die wie ein gefaltetes Papierschiffchen aussieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.661474,
+                        -32.925269
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de las Llagas",
+                  "text": "Diese christliche Kirche in ar-monumento-bandera-history-v2 bietet einen eigenen Raum für regelmäßige Gottesdienste und das Gemeindegebet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.676823,
+                        -32.962458
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Rocca",
+                  "text": "Diese christliche Pfarrkirche in ar-monumento-bandera-history-v2 ist speziell Nuestra Señora de la Rocca gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.695208,
+                        -32.95193
+                  ]
+            },
+            {
+                  "name": "Parroquia Espiritu Santo",
+                  "text": "Diese dem Heiligen Geist geweihte christliche Pfarrei in ar-monumento-bandera-history-v2 dient ihrer Gemeinde als religiöses Heiligtum.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.708272,
+                        -32.94956
+                  ]
+            },
+            {
+                  "name": "Santería",
+                  "text": "Dieser spirituelle Ort in ar-monumento-bandera-history-v2 bietet spezialisierte Waren und Dienstleistungen für religiöse und esoterische Praktiken.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.672298,
+                        -32.938812
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser Königreichssaal in ar-monumento-bandera-history-v2 dient als regelmäßiger Treffpunkt für die lokale christliche Gemeinde der Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.678336,
+                        -32.954635
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Perpetuo Socorro",
+                  "text": "Diese christliche Kirche in ar-monumento-bandera-history-v2 ist ein architektonischer Kultort, der Unserer Lieben Frau von der Immerwährenden Hilfe gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.68045,
+                        -32.921022
+                  ]
+            },
+            {
+                  "name": "Iglesia Santuario de Fe",
+                  "text": "Dieses christliche Heiligtum in ar-monumento-bandera-history-v2 fungiert als aktive Kirche, die den Glauben und gemeinschaftliche religiöse Versammlungen fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.712372,
+                        -32.952421
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Diese christliche Einrichtung in ar-monumento-bandera-history-v2 ist der Heiligen Dreifaltigkeit gewidmet und unterstützt das spirituelle Leben ihrer Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.72608,
+                        -32.943644
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses christliche Gemeindehaus in ar-monumento-bandera-history-v2 bietet Gottesdienste und Aktivitäten für Mitglieder der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.70975,
+                        -32.967493
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico Bautista",
+                  "text": "Dieser evangelisch-baptistische Tempel in ar-monumento-bandera-history-v2 hält für seine lokale Gemeinde schriftgemäße Gottesdienste ab.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.680539,
+                        -32.949478
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco Solano",
+                  "text": "Diese christliche Pfarrei in ar-monumento-bandera-history-v2 ehrt San Francisco Solano und dient als spirituelles Zentrum des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.68081,
+                        -32.944609
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Pompeya",
+                  "text": "Diese katholische Pfarrkirche ist Unserer Lieben Frau von Pompeji geweiht und dient den örtlichen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.695158,
+                        -32.941303
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Bíblica",
+                  "text": "Eine lokale biblisch-baptistische Kirche, die einen zentralen Raum für protestantische Gottesdienste und Gemeinschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.706449,
+                        -32.93988
+                  ]
+            },
+            {
+                  "name": "Parroquia Santo Domingo Savio",
+                  "text": "Diese nach dem heiligen Dominikus Savio benannte christliche Gemeinde bietet einen einladenden Raum für Gebet und Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.680195,
+                        -32.928516
+                  ]
+            },
+            {
+                  "name": "Asamblea Cristiana",
+                  "text": "Dieser örtliche christliche Versammlungssaal fungiert als Treffpunkt für regelmäßige protestantische Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.686683,
+                        -32.926706
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Evangelista",
+                  "text": "Diese dem Heiligen Johannes dem Evangelisten gewidmete christliche Gemeinde veranstaltet traditionelle religiöse Zeremonien für die Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.673404,
+                        -32.922926
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Luján",
+                  "text": "Diese Pfarrkirche im Viertel ist zu Ehren Unserer Lieben Frau von Luján, der Schutzpatronin Argentiniens, benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.672932,
+                        -32.955994
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísimo Sacramento",
+                  "text": "Eine nach dem Allerheiligsten Sakrament benannte christliche Pfarrkirche, die als lebendiges Zentrum für lokale Gläubige fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.660611,
+                        -32.974789
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Salud",
+                  "text": "Eine katholische Pfarrei, die Unsere Liebe Frau der Gesundheit verehrt und ihrer Gemeinde spirituellen Trost sowie regelmäßige Messen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.693834,
+                        -32.971122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Estevez",
+                  "text": "Ez a jelentős iparművészeti múzeum ar-monumento-bandera-history-v2 városában Firma és Odilo Estévez kiterjedt személyes gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -60.632972,
+                        -32.94648
+                  ]
+            },
+            {
+                  "name": "A nemzeti zászló emlékműve",
+                  "text": "Ezt az Alejandro Bustillo és Ángel Francisco Guido által tervezett monumentális látványosságot ar-monumento-bandera-history-v2 városában 1957. június 20-án adták át.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.630648,
+                        -32.94764
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral de Nuestra Señora del Rosario",
+                  "text": "Ez a kiemelkedő örökségi katedrális és bazilika ar-monumento-bandera-history-v2 városában a Rózsafüzér Királynőjének szentelt, lenyűgöző vallási építészettel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.63225,
+                        -32.94748
+                  ]
+            },
+            {
+                  "name": "Viaducto Ingeniero Emigdio Pinasco",
+                  "text": "Ez a figyelemre méltó infrastrukturális viadukthíd ar-monumento-bandera-history-v2 városában magasított átkelést biztosít a városi táj felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.677465,
+                        -32.932503
+                  ]
+            },
+            {
+                  "name": "Parque Mitre",
+                  "text": "Ez a híres nyilvános park ar-monumento-bandera-history-v2 városában jól karbantartott városi zöldterülettel rendelkezik, amelyet kikapcsolódásra terveztek.",
+                  "category": "park",
+                  "coords": [
+                        -60.712558,
+                        -32.940218
+                  ]
+            },
+            {
+                  "name": "Sede fundacional del Club Atlético Rosario Central",
+                  "text": "Az 1889. december 24-én alapított múzeum ar-monumento-bandera-history-v2 városában a Club Atlético Rosario Central alapítási helyszínének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -60.673702,
+                        -32.929692
+                  ]
+            },
+            {
+                  "name": "Parque Scalabrini Ortiz",
+                  "text": "Ez a kiterjedt városi park ar-monumento-bandera-history-v2 városában hatalmas pázsitot és szabadidős létesítményeket kínál egykori vasúti területeken.",
+                  "category": "park",
+                  "coords": [
+                        -60.667625,
+                        -32.930009
+                  ]
+            },
+            {
+                  "name": "Galpón 11",
+                  "text": "Az egykori raktárépületben helyet kapó múzeum ar-monumento-bandera-history-v2 városában kulturális és zenei kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -60.632052,
+                        -32.942606
+                  ]
+            },
+            {
+                  "name": "Teatro Vorterix Rosario",
+                  "text": "Ez a jól ismert színház ar-monumento-bandera-history-v2 városában kulcsfontosságú helyszínként működik élőzenei és szórakoztató rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.669631,
+                        -32.933611
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rita",
+                  "text": "Ez az istentiszteleti hely ar-monumento-bandera-history-v2 városában egy helyi kápolna, amelyet Szent Rita tiszteletére szenteltek a közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -60.697101,
+                        -32.929532
+                  ]
+            },
+            {
+                  "name": "Mercado de Pulgas del Bajo",
+                  "text": "Ez a népszerű bolhapiac ar-monumento-bandera-history-v2 városában számos régiségeket, kézműves termékeket és vintage árukat árusító standot kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.630772,
+                        -32.94622
+                  ]
+            },
+            {
+                  "name": "Feria del Eucalipto",
+                  "text": "Az eukaliptuszfákról elnevezett szabadtéri piac ar-monumento-bandera-history-v2 városában a helyi árusok találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.696105,
+                        -32.971297
+                  ]
+            },
+            {
+                  "name": "Barquito de Papel",
+                  "text": "Ez a különleges látványosság ar-monumento-bandera-history-v2 városában egy nagy méretű szobrot mutat be, amelyet úgy terveztek, mintha hajtogatott papírhajó lenne.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.661474,
+                        -32.925269
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de las Llagas",
+                  "text": "Ez a keresztény templom ar-monumento-bandera-history-v2 városában külön teret biztosít a rendszeres vallási szertartások és a közösségi ima számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.676823,
+                        -32.962458
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Rocca",
+                  "text": "Ez a keresztény plébániatemplom ar-monumento-bandera-history-v2 városában kifejezetten Nuestra Señora de la Rocca tiszteletére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.695208,
+                        -32.95193
+                  ]
+            },
+            {
+                  "name": "Parroquia Espiritu Santo",
+                  "text": "A Szentléleknek szentelt keresztény plébánia ar-monumento-bandera-history-v2 városában vallási szentélyként szolgál gyülekezete számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.708272,
+                        -32.94956
+                  ]
+            },
+            {
+                  "name": "Santería",
+                  "text": "Ez a spiritiszta hely ar-monumento-bandera-history-v2 városában speciális árukat és szolgáltatásokat nyújt vallási és ezoterikus gyakorlatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.672298,
+                        -32.938812
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ez a Királyság-terem ar-monumento-bandera-history-v2 városában a helyi Jehova Tanúi keresztény közösség rendszeres találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.678336,
+                        -32.954635
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Perpetuo Socorro",
+                  "text": "Ez a keresztény templom ar-monumento-bandera-history-v2 városában egy építészeti istentiszteleti hely, amelyet a Mindenkor Segítő Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.68045,
+                        -32.921022
+                  ]
+            },
+            {
+                  "name": "Iglesia Santuario de Fe",
+                  "text": "Ez a keresztény szentély ar-monumento-bandera-history-v2 városában aktív templomként működik, amely a hitet és a közös vallási összejöveteleket hirdeti.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.712372,
+                        -32.952421
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Ez a Szentháromságnak szentelt keresztény intézmény ar-monumento-bandera-history-v2 városában a hívők spirituális életét támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.72608,
+                        -32.943644
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a keresztény gyülekezeti ház ar-monumento-bandera-history-v2 városában istentiszteleteket és tevékenységeket biztosít Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza tagjai számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.70975,
+                        -32.967493
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico Bautista",
+                  "text": "Ez a keresztény evangéliumi baptista templom ar-monumento-bandera-history-v2 városában a Szentíráson alapuló istentiszteleteknek ad otthont helyi gyülekezete számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.680539,
+                        -32.949478
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco Solano",
+                  "text": "Ez a keresztény plébánia ar-monumento-bandera-history-v2 városában San Francisco Solano előtt tiszteleg, és a környék spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.68081,
+                        -32.944609
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Pompeya",
+                  "text": "Ez a katolikus plébániatemplom a Pompeji Miasszonyunknak van szentelve, és a helyi híveket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.695158,
+                        -32.941303
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Bíblica",
+                  "text": "Egy helyi bibliai baptista gyülekezet, amely központi teret biztosít a protestáns istentiszteleteknek és közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.706449,
+                        -32.93988
+                  ]
+            },
+            {
+                  "name": "Parroquia Santo Domingo Savio",
+                  "text": "A Savio Szent Domonkosról elnevezett keresztény plébánia barátságos teret kínál a közösségi összejövetelekhez és az imához.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.680195,
+                        -32.928516
+                  ]
+            },
+            {
+                  "name": "Asamblea Cristiana",
+                  "text": "Ez a helyi keresztény gyülekezeti terem a rendszeres protestáns istentiszteletek találkozóhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.686683,
+                        -32.926706
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Evangelista",
+                  "text": "A Szent János evangélistának szentelt keresztény plébánia hagyományos vallási szertartásoknak ad otthont a környék számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.673404,
+                        -32.922926
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Luján",
+                  "text": "Ez a kerületi plébániatemplom a Lujáni Miasszonyunk, Argentína védőszentje tiszteletére kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.672932,
+                        -32.955994
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísimo Sacramento",
+                  "text": "Az Oltáriszentségről elnevezett keresztény plébániatemplom, amely a helyi hívők élénk központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.660611,
+                        -32.974789
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Salud",
+                  "text": "Az Egészség Miasszonyát tisztelő katolikus plébánia, amely lelki vigaszt és rendszeres miséket kínál gyülekezetének.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.693834,
+                        -32.971122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Estevez",
+                  "text": "Acest muzeu notabil de arte decorative din ar-monumento-bandera-history-v2 prezintă colecțiile personale extinse ale Firmei și Odilo Estévez.",
+                  "category": "museum",
+                  "coords": [
+                        -60.632972,
+                        -32.94648
+                  ]
+            },
+            {
+                  "name": "Monumento Histórico Nacional a la Bandera",
+                  "text": "Proiectată de Alejandro Bustillo și Ángel Francisco Guido, această atracție monumentală din ar-monumento-bandera-history-v2 a fost inaugurată la 20 iunie 1957.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.630648,
+                        -32.94764
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral de Nuestra Señora del Rosario",
+                  "text": "Această catedrală și bazilică de patrimoniu din ar-monumento-bandera-history-v2 prezintă o arhitectură religioasă impresionantă închinată Maicii Domnului a Rozariului.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.63225,
+                        -32.94748
+                  ]
+            },
+            {
+                  "name": "Viaducto Ingeniero Emigdio Pinasco",
+                  "text": "Acest pod viaduct de infrastructură notabil din ar-monumento-bandera-history-v2 oferă o trecere ridicată peste peisajul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.677465,
+                        -32.932503
+                  ]
+            },
+            {
+                  "name": "Parque Mitre",
+                  "text": "Acest renumit parc public din ar-monumento-bandera-history-v2 prezintă un spațiu verde urban bine întreținut, conceput pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        -60.712558,
+                        -32.940218
+                  ]
+            },
+            {
+                  "name": "Sede fundacional del Club Atlético Rosario Central",
+                  "text": "Înființat pe 24 decembrie 1889, acest muzeu din ar-monumento-bandera-history-v2 comemorează locul de fondare al Club Atlético Rosario Central.",
+                  "category": "museum",
+                  "coords": [
+                        -60.673702,
+                        -32.929692
+                  ]
+            },
+            {
+                  "name": "Parque Scalabrini Ortiz",
+                  "text": "Acest parc extins din orașul ar-monumento-bandera-history-v2 oferă peluze întinse și facilități de recreere pe fostele terenuri feroviare.",
+                  "category": "park",
+                  "coords": [
+                        -60.667625,
+                        -32.930009
+                  ]
+            },
+            {
+                  "name": "Galpón 11",
+                  "text": "Găzduit într-un depozit reamenajat, acest muzeu din ar-monumento-bandera-history-v2 prezintă expoziții culturale și muzicale.",
+                  "category": "museum",
+                  "coords": [
+                        -60.632052,
+                        -32.942606
+                  ]
+            },
+            {
+                  "name": "Teatro Vorterix Rosario",
+                  "text": "Acest teatru de spectacole consacrat din ar-monumento-bandera-history-v2 funcționează ca un loc cheie pentru evenimente de muzică live și divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.669631,
+                        -32.933611
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rita",
+                  "text": "Acest lăcaș de cult din ar-monumento-bandera-history-v2 este o capelă locală închinată Sfintei Rita pentru devotamentul comunității.",
+                  "category": "religious",
+                  "coords": [
+                        -60.697101,
+                        -32.929532
+                  ]
+            },
+            {
+                  "name": "Mercado de Pulgas del Bajo",
+                  "text": "Această piață populară de vechituri din ar-monumento-bandera-history-v2 are numeroase tarabe care vând antichități, obiecte de artizanat și produse de epocă.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.630772,
+                        -32.94622
+                  ]
+            },
+            {
+                  "name": "Feria del Eucalipto",
+                  "text": "Numită după arborii de eucalipt, această piață în aer liber din ar-monumento-bandera-history-v2 oferă un loc de adunare pentru vânzătorii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.696105,
+                        -32.971297
+                  ]
+            },
+            {
+                  "name": "Barquito de Papel",
+                  "text": "Această atracție unică din ar-monumento-bandera-history-v2 prezintă o sculptură la scară largă concepută să arate ca o barcă de hârtie pliată.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.661474,
+                        -32.925269
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de las Llagas",
+                  "text": "Această biserică creștină din ar-monumento-bandera-history-v2 oferă un spațiu dedicat pentru slujbele religioase regulate și rugăciunea comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.676823,
+                        -32.962458
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Rocca",
+                  "text": "Această biserică parohială creștină din ar-monumento-bandera-history-v2 este dedicată în mod specific Nuestra Señora de la Rocca.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.695208,
+                        -32.95193
+                  ]
+            },
+            {
+                  "name": "Parroquia Espiritu Santo",
+                  "text": "Dedicată Sfântului Duh, această parohie creștină din ar-monumento-bandera-history-v2 servește ca un sanctuar religios pentru congregația sa.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.708272,
+                        -32.94956
+                  ]
+            },
+            {
+                  "name": "Santería",
+                  "text": "Această locație spiritualistă din ar-monumento-bandera-history-v2 oferă bunuri și servicii specializate pentru practicile religioase și ezoterice.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.672298,
+                        -32.938812
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Această Sală a Regatului din ar-monumento-bandera-history-v2 servește ca loc de întâlnire regulat pentru comunitatea locală creștină a Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.678336,
+                        -32.954635
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Perpetuo Socorro",
+                  "text": "Această biserică creștină din ar-monumento-bandera-history-v2 este un lăcaș de cult arhitectural închinat Maicii Domnului a Ajutorului Perpetuu.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.68045,
+                        -32.921022
+                  ]
+            },
+            {
+                  "name": "Iglesia Santuario de Fe",
+                  "text": "Acest sanctuar creștin din ar-monumento-bandera-history-v2 funcționează ca o biserică activă care promovează credința și adunările religioase comunale.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.712372,
+                        -32.952421
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Această instituție creștină din ar-monumento-bandera-history-v2 este închinată Sfintei Treimi și sprijină viața spirituală a credincioșilor săi.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.72608,
+                        -32.943644
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de adunare creștină din ar-monumento-bandera-history-v2 oferă slujbe de cult și activități pentru membrii Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.70975,
+                        -32.967493
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico Bautista",
+                  "text": "Acest templu creștin evanghelic baptist din ar-monumento-bandera-history-v2 găzduiește slujbe bazate pe scripturi pentru congregația sa locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.680539,
+                        -32.949478
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco Solano",
+                  "text": "Această parohie creștină din ar-monumento-bandera-history-v2 onorează San Francisco Solano și servește ca centru spiritual al cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.68081,
+                        -32.944609
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Pompeya",
+                  "text": "Această biserică parohială catolică este închinată Maicii Domnului din Pompei și servește credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.695158,
+                        -32.941303
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Bíblica",
+                  "text": "O biserică baptistă biblică locală care oferă un spațiu central pentru închinare protestantă și părtășie.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.706449,
+                        -32.93988
+                  ]
+            },
+            {
+                  "name": "Parroquia Santo Domingo Savio",
+                  "text": "Numită după Sfântul Dominic Savio, această parohie creștină oferă un spațiu primitor pentru adunări și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.680195,
+                        -32.928516
+                  ]
+            },
+            {
+                  "name": "Asamblea Cristiana",
+                  "text": "Această sală de adunare creștină locală funcționează ca un punct de întâlnire pentru slujbele de închinare protestante.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.686683,
+                        -32.926706
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Evangelista",
+                  "text": "Dedicată Sfântului Ioan Evanghelistul, această parohie creștină găzduiește ceremonii religioase tradiționale pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.673404,
+                        -32.922926
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Luján",
+                  "text": "Această biserică parohială de cartier este numită în onoarea Maicii Domnului din Luján, patroana Argentinei.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.672932,
+                        -32.955994
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísimo Sacramento",
+                  "text": "O biserică parohială creștină numită după Sfântul Sacrament, funcționând ca un centru plin de viață pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.660611,
+                        -32.974789
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Salud",
+                  "text": "O parohie catolică care o venerează pe Maica Domnului a Sănătății, oferind mângâiere spirituală și liturghii regulate congregației sale.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.693834,
+                        -32.971122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Estevez",
+                  "text": "This notable decorative arts museum in ar-monumento-bandera-history-v2 showcases the extensive personal collections of Firma and Odilo Estévez.",
+                  "category": "museum",
+                  "coords": [
+                        -60.632972,
+                        -32.94648
+                  ]
+            },
+            {
+                  "name": "National Flag Memorial",
+                  "text": "Designed by Alejandro Bustillo and Ángel Francisco Guido, this monumental attraction in ar-monumento-bandera-history-v2 was inaugurated on June 20, 1957.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.630648,
+                        -32.94764
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral de Nuestra Señora del Rosario",
+                  "text": "This distinguished heritage cathedral and basilica in ar-monumento-bandera-history-v2 features striking religious architecture dedicated to Our Lady of the Rosary.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.63225,
+                        -32.94748
+                  ]
+            },
+            {
+                  "name": "Viaducto Ingeniero Emigdio Pinasco",
+                  "text": "This notable infrastructural viaduct bridge in ar-monumento-bandera-history-v2 provides an elevated crossing over the urban landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.677465,
+                        -32.932503
+                  ]
+            },
+            {
+                  "name": "Parque Mitre",
+                  "text": "This renowned public park in ar-monumento-bandera-history-v2 features a well-maintained urban green space designed for recreation.",
+                  "category": "park",
+                  "coords": [
+                        -60.712558,
+                        -32.940218
+                  ]
+            },
+            {
+                  "name": "Sede fundacional del Club Atlético Rosario Central",
+                  "text": "Established on December 24, 1889, this museum in ar-monumento-bandera-history-v2 commemorates the foundational site of the Club Atlético Rosario Central.",
+                  "category": "museum",
+                  "coords": [
+                        -60.673702,
+                        -32.929692
+                  ]
+            },
+            {
+                  "name": "Parque Scalabrini Ortiz",
+                  "text": "This expansive city park in ar-monumento-bandera-history-v2 provides extensive lawns and recreational facilities on former railway lands.",
+                  "category": "park",
+                  "coords": [
+                        -60.667625,
+                        -32.930009
+                  ]
+            },
+            {
+                  "name": "Galpón 11",
+                  "text": "Housed in a repurposed warehouse, this museum in ar-monumento-bandera-history-v2 features cultural and musical exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -60.632052,
+                        -32.942606
+                  ]
+            },
+            {
+                  "name": "Teatro Vorterix Rosario",
+                  "text": "This established performance theatre in ar-monumento-bandera-history-v2 operates as a key venue for live music and entertainment events.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.669631,
+                        -32.933611
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rita",
+                  "text": "This place of worship in ar-monumento-bandera-history-v2 is a local chapel dedicated to Santa Rita for community devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -60.697101,
+                        -32.929532
+                  ]
+            },
+            {
+                  "name": "Mercado de Pulgas del Bajo",
+                  "text": "This popular flea marketplace in ar-monumento-bandera-history-v2 features numerous stalls selling antiques, crafts, and vintage goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.630772,
+                        -32.94622
+                  ]
+            },
+            {
+                  "name": "Feria del Eucalipto",
+                  "text": "Named after the eucalyptus trees, this outdoor marketplace in ar-monumento-bandera-history-v2 provides a gathering spot for local vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.696105,
+                        -32.971297
+                  ]
+            },
+            {
+                  "name": "Barquito de Papel",
+                  "text": "This unique attraction in ar-monumento-bandera-history-v2 features a large-scale sculpture designed to look like a folded paper boat.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.661474,
+                        -32.925269
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de las Llagas",
+                  "text": "This Christian church in ar-monumento-bandera-history-v2 provides a dedicated space for regular religious services and community prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.676823,
+                        -32.962458
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Rocca",
+                  "text": "This Christian parish church in ar-monumento-bandera-history-v2 is specifically devoted to Nuestra Señora de la Rocca.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.695208,
+                        -32.95193
+                  ]
+            },
+            {
+                  "name": "Parroquia Espiritu Santo",
+                  "text": "Dedicated to the Holy Spirit, this Christian parish in ar-monumento-bandera-history-v2 serves as a religious sanctuary for its congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.708272,
+                        -32.94956
+                  ]
+            },
+            {
+                  "name": "Santería",
+                  "text": "This spiritualist location in ar-monumento-bandera-history-v2 provides specialized goods and services for religious and esoteric practices.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.672298,
+                        -32.938812
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "This Kingdom Hall in ar-monumento-bandera-history-v2 serves as a regular meeting place for the local Christian Jehovah's Witnesses community.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.678336,
+                        -32.954635
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Perpetuo Socorro",
+                  "text": "This Christian church in ar-monumento-bandera-history-v2 is an architectural place of worship dedicated to Our Lady of Perpetual Help.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.68045,
+                        -32.921022
+                  ]
+            },
+            {
+                  "name": "Iglesia Santuario de Fe",
+                  "text": "This Christian sanctuary in ar-monumento-bandera-history-v2 functions as an active church promoting faith and communal religious gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.712372,
+                        -32.952421
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "This Christian institution in ar-monumento-bandera-history-v2 is dedicated to the Holy Trinity and supports the spiritual life of its believers.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.72608,
+                        -32.943644
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter Day Saints",
+                  "text": "This Christian meetinghouse in ar-monumento-bandera-history-v2 provides worship services and activities for members of The Church of Jesus Christ of Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.70975,
+                        -32.967493
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico Bautista",
+                  "text": "This Christian evangelical Baptist temple in ar-monumento-bandera-history-v2 hosts scripture-based services for its local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.680539,
+                        -32.949478
+                  ]
+            },
+            {
+                  "name": "Parroquia San Francisco Solano",
+                  "text": "This Christian parish in ar-monumento-bandera-history-v2 honors San Francisco Solano and serves as a neighborhood spiritual center.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.68081,
+                        -32.944609
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Pompeya",
+                  "text": "This Catholic parish church is dedicated to Our Lady of Pompeii and serves the local faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.695158,
+                        -32.941303
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Bíblica",
+                  "text": "A local Biblical Baptist church that provides a central space for Protestant worship and fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.706449,
+                        -32.93988
+                  ]
+            },
+            {
+                  "name": "Parroquia Santo Domingo Savio",
+                  "text": "Named after Saint Dominic Savio, this Christian parish offers a welcoming space for community gatherings and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.680195,
+                        -32.928516
+                  ]
+            },
+            {
+                  "name": "Asamblea Cristiana",
+                  "text": "This local Christian assembly hall functions as a gathering point for regular Protestant worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.686683,
+                        -32.926706
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Evangelista",
+                  "text": "Dedicated to Saint John the Evangelist, this Christian parish hosts traditional religious ceremonies for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.673404,
+                        -32.922926
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Luján",
+                  "text": "This neighborhood parish church is named in honor of Our Lady of Luján, the patroness of Argentina.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.672932,
+                        -32.955994
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísimo Sacramento",
+                  "text": "A Christian parish church named for the Blessed Sacrament, functioning as a lively center for local believers.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.660611,
+                        -32.974789
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Salud",
+                  "text": "A Catholic parish venerating Our Lady of Health, offering spiritual comfort and regular mass to its congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.693834,
+                        -32.971122
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A major monument in Rosario, dedicated to the creation of the Argentine flag by Manuel Belgrano.",
       hu: "Impozáns emlékmű Rosario városában, azon a helyen, ahol Manuel Belgrano először vonta fel az argentin nemzeti zászlót 1812-ben.",
@@ -627,7 +7683,340 @@ image: "/poi-images/ar-monumento-bandera-history-v2.webp",
       fr: ["Inauguré le 20 juin 1957 après 14 ans de travaux.", "Conçu par les architectes Ángel Guido et Alejandro Bustillo.", "La tour mesure 70 mètres de haut et offre une vue panoramique.", "Entièrement construit en marbre et pierre des Andes.", "La crypte de Belgrano se trouve à la base de la tour.", "La Cour civique peut accueillir jusqu'à 30 000 personnes.", "Sculptures de la célèbre artiste Lola Mora.", "Commémore le premier lever du drapeau par Belgrano le 27 février 1812."],
     }, image: "/poi-images/ar-monumento-bandera-history-v2.webp"},
   {
-    id: "ar-cayasta-ruins-history-v2",
+    id: "ar-cayasta-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa ambientada de Vera Muxica",
+                  "text": "Ein nachgebautes Kolonialhaus, das die historischen Lebensbedingungen der Familie Vera Muxica in den Cayastá-Ruinen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -60.158569,
+                        -31.213068
+                  ]
+            },
+            {
+                  "name": "Casa de González de Ataide",
+                  "text": "Ein historisches Hausmuseum, das die Architektur und die Artefakte aus der Kolonialzeit der Residenz González de Ataide bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -60.155897,
+                        -31.212655
+                  ]
+            },
+            {
+                  "name": "Iglesia y convento de San Francisco",
+                  "text": "Die ausgegrabenen Ruinen einer Franziskanerkirche und eines Klosters aus dem 17. Jahrhundert, die das klösterliche Leben der Kolonialzeit zeigen.",
+                  "category": "museum",
+                  "coords": [
+                        -60.154738,
+                        -31.212971
+                  ]
+            },
+            {
+                  "name": "Museo del recuerdo \"Cecil González\"",
+                  "text": "Ein Gedenkmuseum, das historische Artefakte und Erinnerungen an die alte Siedlung Cayastá ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -60.158815,
+                        -31.200107
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio",
+                  "text": "Dieses Standortmuseum dokumentiert die reiche archäologische Geschichte der umliegenden Ruinen.",
+                  "category": "museum",
+                  "coords": [
+                        -60.160811,
+                        -31.209177
+                  ]
+            },
+            {
+                  "name": "Explanada de entrada",
+                  "text": "Die großzügige Eingangsesplanade dient als Hauptzugang zum archäologischen Museumskomplex.",
+                  "category": "museum",
+                  "coords": [
+                        -60.162045,
+                        -31.210714
+                  ]
+            },
+            {
+                  "name": "Casa de Zapata Gollan",
+                  "text": "Das historische Hausmuseum ist Agustín Zapata Gollán gewidmet, der die kolonialen Ruinen ausgrub.",
+                  "category": "museum",
+                  "coords": [
+                        -60.161031,
+                        -31.212948
+                  ]
+            },
+            {
+                  "name": "Playa Natural de Arena",
+                  "text": "Ein naturbelassener Sandstrand, der in der Nähe der historischen Ruinen zur Erholung einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.129949,
+                        -31.186536
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "Eine christliche Kirche aus der Kolonialzeit, die sich inmitten des historischen Areals befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.157501,
+                        -31.209863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa ambientada de Vera Muxica",
+                  "text": "Egy rekonstruált gyarmati ház, amely a Vera Muxica család történelmi életkörülményeit mutatja be a Cayastá romoknál.",
+                  "category": "museum",
+                  "coords": [
+                        -60.158569,
+                        -31.213068
+                  ]
+            },
+            {
+                  "name": "Casa de González de Ataide",
+                  "text": "Egy történelmi házmúzeum, amely a González de Ataide rezidencia gyarmati kori építészetét és műtárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -60.155897,
+                        -31.212655
+                  ]
+            },
+            {
+                  "name": "Iglesia y convento de San Francisco",
+                  "text": "Egy 17. századi ferences templom és kolostor feltárt romjai, amelyek a gyarmati kor vallási életét mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        -60.154738,
+                        -31.212971
+                  ]
+            },
+            {
+                  "name": "Museo del recuerdo \"Cecil González\"",
+                  "text": "A régi Cayastá település történelmi emlékeit és műtárgyait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -60.158815,
+                        -31.200107
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio",
+                  "text": "Ez a helytörténeti múzeum a környező romok gazdag régészeti történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -60.160811,
+                        -31.209177
+                  ]
+            },
+            {
+                  "name": "Explanada de entrada",
+                  "text": "A tágas bejárati sétány az épületegyüttes és a régészeti múzeum fő kapujaként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        -60.162045,
+                        -31.210714
+                  ]
+            },
+            {
+                  "name": "Casa de Zapata Gollan",
+                  "text": "A történelmi emlékházat az egykori gyarmati romokat feltáró Agustín Zapata Gollánnak szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        -60.161031,
+                        -31.212948
+                  ]
+            },
+            {
+                  "name": "Playa Natural de Arena",
+                  "text": "Egy természetes, homokos strand a történelmi romok közelében, amely ideális a pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.129949,
+                        -31.186536
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "Egy gyarmati korabeli keresztény templom, amely a történelmi terület központjában található.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.157501,
+                        -31.209863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa ambientada de Vera Muxica",
+                  "text": "O casă colonială recreată care prezintă condițiile de viață istorice ale familiei Vera Muxica în ruinele Cayastá.",
+                  "category": "museum",
+                  "coords": [
+                        -60.158569,
+                        -31.213068
+                  ]
+            },
+            {
+                  "name": "Casa de González de Ataide",
+                  "text": "Un muzeu al unei case istorice care păstrează arhitectura și artefactele din epoca colonială ale reședinței González de Ataide.",
+                  "category": "museum",
+                  "coords": [
+                        -60.155897,
+                        -31.212655
+                  ]
+            },
+            {
+                  "name": "Iglesia y convento de San Francisco",
+                  "text": "Ruinele excavate ale unei biserici și mănăstiri franciscane din secolul al XVII-lea, care prezintă viața religioasă colonială.",
+                  "category": "museum",
+                  "coords": [
+                        -60.154738,
+                        -31.212971
+                  ]
+            },
+            {
+                  "name": "Museo del recuerdo \"Cecil González\"",
+                  "text": "Un muzeu memorial care expune artefacte istorice și amintiri ale vechii așezări Cayastá.",
+                  "category": "museum",
+                  "coords": [
+                        -60.158815,
+                        -31.200107
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio",
+                  "text": "Acest muzeu de sit documentează istoria arheologică bogată a ruinelor din jur.",
+                  "category": "museum",
+                  "coords": [
+                        -60.160811,
+                        -31.209177
+                  ]
+            },
+            {
+                  "name": "Explanada de entrada",
+                  "text": "Această esplanadă de intrare spațioasă servește drept poartă principală către complexul muzeal arheologic.",
+                  "category": "museum",
+                  "coords": [
+                        -60.162045,
+                        -31.210714
+                  ]
+            },
+            {
+                  "name": "Casa de Zapata Gollan",
+                  "text": "Muzeul memorial este dedicat lui Agustín Zapata Gollán, cel care a excavat ruinele coloniale.",
+                  "category": "museum",
+                  "coords": [
+                        -60.161031,
+                        -31.212948
+                  ]
+            },
+            {
+                  "name": "Playa Natural de Arena",
+                  "text": "O stațiune cu plajă de nisip naturală, situată în apropierea ruinelor istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.129949,
+                        -31.186536
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "O biserică creștină din epoca colonială, situată în incinta zonei istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.157501,
+                        -31.209863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa ambientada de Vera Muxica",
+                  "text": "A recreated colonial home displaying the historic living conditions of the Vera Muxica family in the Cayastá ruins.",
+                  "category": "museum",
+                  "coords": [
+                        -60.158569,
+                        -31.213068
+                  ]
+            },
+            {
+                  "name": "Casa de González de Ataide",
+                  "text": "A historic house museum preserving the colonial-era architecture and artifacts of the González de Ataide residence.",
+                  "category": "museum",
+                  "coords": [
+                        -60.155897,
+                        -31.212655
+                  ]
+            },
+            {
+                  "name": "Iglesia y convento de San Francisco",
+                  "text": "The excavated ruins of a 17th-century Franciscan church and convent displaying colonial religious life.",
+                  "category": "museum",
+                  "coords": [
+                        -60.154738,
+                        -31.212971
+                  ]
+            },
+            {
+                  "name": "Museo del recuerdo \"Cecil González\"",
+                  "text": "A memorial museum displaying historical artifacts and memories of the old Cayastá settlement.",
+                  "category": "museum",
+                  "coords": [
+                        -60.158815,
+                        -31.200107
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio",
+                  "text": "This site museum documents the rich archaeological history of the surrounding ruins.",
+                  "category": "museum",
+                  "coords": [
+                        -60.160811,
+                        -31.209177
+                  ]
+            },
+            {
+                  "name": "Explanada de entrada",
+                  "text": "The spacious entrance esplanade serves as the main gateway to the archaeological museum complex.",
+                  "category": "museum",
+                  "coords": [
+                        -60.162045,
+                        -31.210714
+                  ]
+            },
+            {
+                  "name": "Casa de Zapata Gollan",
+                  "text": "The historic house museum is dedicated to Agustín Zapata Gollán, who excavated the colonial ruins.",
+                  "category": "museum",
+                  "coords": [
+                        -60.161031,
+                        -31.212948
+                  ]
+            },
+            {
+                  "name": "Playa Natural de Arena",
+                  "text": "A natural sandy beach resort area near the historical ruins, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.129949,
+                        -31.186536
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "A colonial-era Christian church located within the historic area.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.157501,
+                        -31.209863
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The archaeological site of the first city of Santa Fe, destroyed and then abandoned.",
       hu: "Santa Fe városának eredeti helyszíne, ahol a 16. századi település romjai maradtak fenn. Fontos régészeti park, amely bemutatja a korai spanyol gyarmatosítást.",
@@ -679,7 +8068,160 @@ image: "/poi-images/ar-cayasta-ruins-history-v2.webp",
       fr: ["Fondée le 15 novembre 1573 par Juan de Garay.", "Abandonnée et déplacée entre 1650 et 1660.", "Redécouverte en 1949 par Agustín Zapata Gollán.", "Vestiges de l'église franciscaine avec sépultures d'origine.", "L'un des sites coloniaux précoces les mieux conservés d'Amérique.", "Situé à 80 km au nord de l'actuelle ville de Santa Fe.", "Classé monument historique national en 1957.", "Le musée conserve plus de 30 000 objets archéologiques."],
     }, image: "/poi-images/ar-cayasta-ruins-history-v2.webp"},
   {
-    id: "ar-shincal-quimivil-history-v2",
+    id: "ar-shincal-quimivil-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona de Expectadores 1 - Dakar 2014",
+                  "text": "Ein ehemaliger Zuschauerbereich, der während der Rallye Dakar 2014 in dieser historischen Region genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.020897,
+                        -27.723301
+                  ]
+            },
+            {
+                  "name": "Vírgen de Belén",
+                  "text": "Ein markantes Denkmal, das der Jungfrau von Bethlehem gewidmet ist und über das historische Gebiet von Shincal-Quimivil wacht.",
+                  "category": "historical",
+                  "coords": [
+                        -67.03621,
+                        -27.647185
+                  ]
+            },
+            {
+                  "name": "Cubo Blanco Móvil",
+                  "text": "Ein mobiler Kunst- oder Ausstellungsraum, der als einzigartiges Museum in der historischen Gegend von Shincal fungiert.",
+                  "category": "museum",
+                  "coords": [
+                        -67.026988,
+                        -27.653118
+                  ]
+            },
+            {
+                  "name": "Nuestra seňora de Belén",
+                  "text": "Ein christliches Heiligtum, das Unserer Lieben Frau von Bethlehem in der historischen Region Quimivil gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.027003,
+                        -27.64931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona de Expectadores 1 - Dakar 2014",
+                  "text": "Egykori nézőtér, amelyet a 2014-es Dakar-rali során használtak ebben a történelmi régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.020897,
+                        -27.723301
+                  ]
+            },
+            {
+                  "name": "Vírgen de Belén",
+                  "text": "Egy kiemelkedő emlékmű, amelyet a Betlehemi Szűznek szenteltek, és amely Shincal-Quimivil történelmi területe fölé magasodik.",
+                  "category": "historical",
+                  "coords": [
+                        -67.03621,
+                        -27.647185
+                  ]
+            },
+            {
+                  "name": "Cubo Blanco Móvil",
+                  "text": "Egy mobil művészeti vagy kiállítótér, amely egyedülálló múzeumként működik Shincal történelmi negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -67.026988,
+                        -27.653118
+                  ]
+            },
+            {
+                  "name": "Nuestra seňora de Belén",
+                  "text": "Egy keresztény szentély Quimivil történelmi régiójában, amelyet a Betlehemi Szűzanyának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.027003,
+                        -27.64931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona de Expectadores 1 - Dakar 2014",
+                  "text": "O fostă zonă pentru spectatori folosită în timpul Raliului Dakar din 2014 în această regiune istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.020897,
+                        -27.723301
+                  ]
+            },
+            {
+                  "name": "Vírgen de Belén",
+                  "text": "Un monument proeminent dedicat Fecioarei din Betleem, care veghează asupra zonei istorice Shincal-Quimivil.",
+                  "category": "historical",
+                  "coords": [
+                        -67.03621,
+                        -27.647185
+                  ]
+            },
+            {
+                  "name": "Cubo Blanco Móvil",
+                  "text": "Un spațiu expozițional mobil care funcționează ca un muzeu inedit în zona istorică Shincal.",
+                  "category": "museum",
+                  "coords": [
+                        -67.026988,
+                        -27.653118
+                  ]
+            },
+            {
+                  "name": "Nuestra seňora de Belén",
+                  "text": "Un sanctuar creștin dedicat Maicii Domnului din Betleem în regiunea istorică Quimivil.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.027003,
+                        -27.64931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona de Expectadores 1 - Dakar 2014",
+                  "text": "A former spectator viewing area used during the 2014 Dakar Rally in this historic region.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.020897,
+                        -27.723301
+                  ]
+            },
+            {
+                  "name": "Vírgen de Belén",
+                  "text": "A prominent monument dedicated to the Virgin of Bethlehem overlooking the historic area of Shincal-Quimivil.",
+                  "category": "historical",
+                  "coords": [
+                        -67.03621,
+                        -27.647185
+                  ]
+            },
+            {
+                  "name": "Cubo Blanco Móvil",
+                  "text": "A mobile art or exhibition space functioning as a unique museum in the historic Shincal area.",
+                  "category": "museum",
+                  "coords": [
+                        -67.026988,
+                        -27.653118
+                  ]
+            },
+            {
+                  "name": "Nuestra seňora de Belén",
+                  "text": "A Christian sanctuary dedicated to Our Lady of Bethlehem in the historic Quimivil region.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.027003,
+                        -27.64931
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "An significant archaeological site showcasing Inca architecture and influence in Catamarca.",
       hu: "Fontos inka adminisztratív központ Catamarca tartományban. Az Inka Birodalom déli végvára volt, amelynek romjai ma is látványosak.",
@@ -731,7 +8273,268 @@ image: "/poi-images/ar-shincal-quimivil-history-v2.webp",
       fr: ["Construit par les Incas entre 1470 et 1536.", "S'étend sur plus de 23 hectares.", "L'\"Ushnu\" est une pyramide tronquée monumentale pour les rituels solaires.", "Nœud important du patrimoine mondial Qhapaq Ñan (depuis 2014).", "Contient les restes de plusieurs kallankas (grandes salles rectangulaires).", "Centre stratégique pour la production textile et le stockage.", "Était autrefois la capitale d'une province inca (wamani).", "Situé à seulement 5 km de la ville de Londres à Catamarca."],
     }, image: "/poi-images/ar-shincal-quimivil-history-v2.webp"},
   {
-    id: "ar-tastil-ruins-history-v2",
+    id: "ar-tastil-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morro Colorado",
+                  "text": "Dieser durch seine rötlichen Felsformationen erkennbare Berggipfel bietet ein raues hochalpines Gelände nahe der archäologischen Zone von Tastil.",
+                  "category": "natural",
+                  "coords": [
+                        -65.859416,
+                        -24.41091
+                  ]
+            },
+            {
+                  "name": "Museo y Kiosko",
+                  "text": "Diese Einrichtung fungiert sowohl als kleines interpretatives Museum als auch als Besucher-Kiosk und zeigt vorläufige Artefakte aus den umliegenden Ruinen.",
+                  "category": "museum",
+                  "coords": [
+                        -65.890702,
+                        -24.490948
+                  ]
+            },
+            {
+                  "name": "Cistas",
+                  "text": "Diese alten, mit Steinen ausgekleideten Grabkisten bieten einen Einblick in die Bestattungspraktiken der Vor-Inka-Bewohner von Tastil.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.956742,
+                        -24.453229
+                  ]
+            },
+            {
+                  "name": "Patio de Molienda",
+                  "text": "Dieser ausgewiesene archäologische Mahlplatz enthält flache Steinmörser, die einst von indigenen Gemeinschaften zur Verarbeitung von lokalem Getreide genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.957577,
+                        -24.452074
+                  ]
+            },
+            {
+                  "name": "Basural arqueologico",
+                  "text": "Ausgrabungen an diesem alten häuslichen Abfallhaufen brachten wertvolle Tonscherben und Knochenfragmente aus Tastils Vergangenheit zutage.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.958936,
+                        -24.452538
+                  ]
+            },
+            {
+                  "name": "Museo archeologico de Tastil",
+                  "text": "Dieses spezialisierte Museum bewahrt und stellt die kunstvollen Textilien, Keramiken und Mumien aus, die aus den nahegelegenen Tastil-Ruinen geborgen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -65.95259,
+                        -24.450853
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "Diese kleine ländliche Kapelle wurde aus regionalen Materialien erbaut und bietet den Gläubigen einen speziellen Raum zur Verehrung von San Cayetano.",
+                  "category": "religious",
+                  "coords": [
+                        -65.890536,
+                        -24.491909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morro Colorado",
+                  "text": "A vöröses sziklaalakzatairól felismerhető hegycsúcs zord, magaslati terepet kínál a Tastil régészeti övezet közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -65.859416,
+                        -24.41091
+                  ]
+            },
+            {
+                  "name": "Museo y Kiosko",
+                  "text": "A kis értelmező múzeumként és látogatói kioszkként is működő létesítmény a környező romokból származó előzetes leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.890702,
+                        -24.490948
+                  ]
+            },
+            {
+                  "name": "Cistas",
+                  "text": "Ezek az ősi, kővel bélelt sírládák bepillantást engednek Tastil inka előtti lakóinak temetkezési szokásaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.956742,
+                        -24.453229
+                  ]
+            },
+            {
+                  "name": "Patio de Molienda",
+                  "text": "Ez a kijelölt régészeti őrlőudvar olyan lapos kőmozsarakat tartalmaz, amelyeket az őslakos közösségek egykor a helyi gabonafélék feldolgozására használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.957577,
+                        -24.452074
+                  ]
+            },
+            {
+                  "name": "Basural arqueologico",
+                  "text": "Az ezen az ősi háztartási szemétdombon végzett ásatások értékes cserépdarabokat és csonttöredékeket tártak fel Tastil múltjából.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.958936,
+                        -24.452538
+                  ]
+            },
+            {
+                  "name": "Museo archeologico de Tastil",
+                  "text": "Ez a specializált múzeum a közeli Tastil romokból előkerült bonyolult textíliákat, kerámiákat és múmiákat őrzi és állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -65.95259,
+                        -24.450853
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "A regionális anyagokból épült kis vidéki kápolna dedikált teret biztosít a hívők számára San Cayetano tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        -65.890536,
+                        -24.491909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morro Colorado",
+                  "text": "Recunoscut pentru formațiunile sale stâncoase roșiatice, acest vârf montan oferă un teren accidentat de mare altitudine în apropierea zonei arheologice Tastil.",
+                  "category": "natural",
+                  "coords": [
+                        -65.859416,
+                        -24.41091
+                  ]
+            },
+            {
+                  "name": "Museo y Kiosko",
+                  "text": "Funcționând atât ca un mic muzeu de interpretare, cât și ca un chioșc pentru vizitatori, această facilitate expune artefacte preliminare din ruinele înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        -65.890702,
+                        -24.490948
+                  ]
+            },
+            {
+                  "name": "Cistas",
+                  "text": "Aceste ciste funerare antice căptușite cu piatră oferă o perspectivă asupra practicilor funerare ale locuitorilor pre-incași din Tastil.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.956742,
+                        -24.453229
+                  ]
+            },
+            {
+                  "name": "Patio de Molienda",
+                  "text": "Această curte arheologică desemnată pentru măcinat conține mortare plate de piatră folosite odinioară de comunitățile indigene pentru prelucrarea cerealelor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.957577,
+                        -24.452074
+                  ]
+            },
+            {
+                  "name": "Basural arqueologico",
+                  "text": "Săpăturile la această veche groapă de gunoi menajer au scos la iveală cioburi de ceramică valoroase și fragmente de oase din trecutul orașului Tastil.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.958936,
+                        -24.452538
+                  ]
+            },
+            {
+                  "name": "Museo archeologico de Tastil",
+                  "text": "Acest muzeu specializat păstrează și expune textilele complexe, ceramica și mumiile recuperate din ruinele Tastil din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        -65.95259,
+                        -24.450853
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "Construită din materiale regionale, această mică capelă de țară oferă un spațiu dedicat credincioșilor pentru a-l onora pe San Cayetano.",
+                  "category": "religious",
+                  "coords": [
+                        -65.890536,
+                        -24.491909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morro Colorado",
+                  "text": "Recognizable by its reddish rock formations, this mountain peak offers rugged high-altitude terrain near the Tastil archaeological zone.",
+                  "category": "natural",
+                  "coords": [
+                        -65.859416,
+                        -24.41091
+                  ]
+            },
+            {
+                  "name": "Museo y Kiosko",
+                  "text": "Operating as both a small interpretive museum and a visitor kiosk, this facility displays preliminary artifacts from the surrounding ruins.",
+                  "category": "museum",
+                  "coords": [
+                        -65.890702,
+                        -24.490948
+                  ]
+            },
+            {
+                  "name": "Cistas",
+                  "text": "These ancient stone-lined burial cists offer a glimpse into the funerary practices of the pre-Inca inhabitants of Tastil.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.956742,
+                        -24.453229
+                  ]
+            },
+            {
+                  "name": "Patio de Molienda",
+                  "text": "This designated archaeological grinding patio contains flat stone mortars once used by indigenous communities to process local grains.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.957577,
+                        -24.452074
+                  ]
+            },
+            {
+                  "name": "Basural arqueologico",
+                  "text": "Excavations at this ancient domestic refuse midden have yielded valuable pottery shards and bone fragments from Tastil's past.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.958936,
+                        -24.452538
+                  ]
+            },
+            {
+                  "name": "Museo archeologico de Tastil",
+                  "text": "This specialized museum preserves and exhibits the intricate textiles, ceramics, and mummies recovered from the nearby Tastil ruins.",
+                  "category": "museum",
+                  "coords": [
+                        -65.95259,
+                        -24.450853
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "Built with regional materials, this small countryside chapel provides a dedicated space for worshippers to honor San Cayetano.",
+                  "category": "religious",
+                  "coords": [
+                        -65.890536,
+                        -24.491909
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A pre-Columbian city in the Salta region, representing indigenous urban planning before the colonial period.",
       hu: "Pre-inka kori település romjai Salta tartományban, a Lerma-völgyben. Az egykori nagyváros az andoki civilizáció egyik legfontosabb központja volt.",
@@ -783,7 +8586,88 @@ image: "/poi-images/ar-tastil-ruins-history-v2.webp",
       fr: ["Habitée entre 1300 et 1450 apr. J.-C.", "Couvre une superficie d'environ 12 hectares.", "Murs en pierre sèche (pirca) sans mortier.", "Située à 3 200 mètres d'altitude.", "Fait partie du patrimoine mondial de l'UNESCO (Qhapaq Ñan) depuis 2014.", "Des milliers de pétroglyphes dans les montagnes environnantes.", "Le musée conserve une momie vieille de 600 ans.", "Située sur la route du célèbre \"Train des Nuages\"."],
     }, image: "/poi-images/ar-tastil-ruins-history-v2.webp"},
   {
-    id: "ar-potrero-payogasta-history-v2",
+    id: "ar-potrero-payogasta-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Nevado de Cachi",
+                  "text": "Dieser malerische Aussichtspunkt bietet eine herrliche, freie Sicht auf den schneebedeckten Berg Nevado de Cachi.",
+                  "category": "natural",
+                  "coords": [
+                        -66.009712,
+                        -25.090345
+                  ]
+            },
+            {
+                  "name": "Iglesia de Payogastaa",
+                  "text": "Diese lokale christliche Kirche ist ein zentrales spirituelles und architektonisches Wahrzeichen der historischen Stadt Payogasta.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.102762,
+                        -25.051474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Nevado de Cachi",
+                  "text": "Ez a festői kilátó csodálatos, akadálytalan kilátást nyújt a hóval borított Nevado de Cachi hegyre.",
+                  "category": "natural",
+                  "coords": [
+                        -66.009712,
+                        -25.090345
+                  ]
+            },
+            {
+                  "name": "Iglesia de Payogastaa",
+                  "text": "Ez a helyi keresztény templom a történelmi Payogasta város központi spirituális és építészeti nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.102762,
+                        -25.051474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Nevado de Cachi",
+                  "text": "Acest punct de belvedere pitoresc oferă o priveliște magnifică, nestingherită, asupra muntelui înzăpezit Nevado de Cachi.",
+                  "category": "natural",
+                  "coords": [
+                        -66.009712,
+                        -25.090345
+                  ]
+            },
+            {
+                  "name": "Iglesia de Payogastaa",
+                  "text": "Această biserică creștină locală este un reper spiritual și arhitectural central în orașul istoric Payogasta.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.102762,
+                        -25.051474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Nevado de Cachi",
+                  "text": "This scenic viewpoint offers magnificent, unimpeded sights of the snow-capped Nevado de Cachi mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -66.009712,
+                        -25.090345
+                  ]
+            },
+            {
+                  "name": "Iglesia de Payogastaa",
+                  "text": "This local Christian church is a central spiritual and architectural landmark in the historic town of Payogasta.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.102762,
+                        -25.051474
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historical site reflecting early indigenous settlements in the Salta region.",
       hu: "Inka kori régészeti lelőhely a Calchaquí-völgyben. Stratégiai helyszín volt a hegyek és völgyek közötti kereskedelem ellenőrzésére.",
@@ -835,7 +8719,160 @@ image: "/poi-images/ar-potrero-payogasta-history-v2.webp",
       fr: ["La Kallanka de 30 mètres de long est l'une des mieux conservées d'Argentine.", "Patrimoine mondial de l'UNESCO depuis 2014 au titre du Chemin de l'Inca.", "Vue stratégique sur la haute vallée de Calchaquí.", "Construit au XVe siècle en adobe et en pierre.", "Dispose d'une zone rituelle et de points d'observation astronomique.", "Situé près du village de Payogasta à 2 500 m d'altitude.", "Centre important pour le stockage du maïs et du piment.", "Conservé dans un état original largement non restauré."],
     }, image: "/poi-images/ar-potrero-payogasta-history-v2.webp"},
   {
-    id: "ar-posta-yatasto-history-v2",
+    id: "ar-posta-yatasto-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gauffin",
+                  "text": "Dieses Kulturmuseum präsentiert lokale Artefakte und Exponate, die das literarische und historische Erbe der umliegenden Region dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        -64.973827,
+                        -25.498413
+                  ]
+            },
+            {
+                  "name": "Posta de Yatasto",
+                  "text": "Diese historische koloniale Relaisstation ist berühmt als der legendäre Treffpunkt der Generäle San Martín und Belgrano während des argentinischen Unabhängigkeitskrieges.",
+                  "category": "museum",
+                  "coords": [
+                        -64.949779,
+                        -25.590083
+                  ]
+            },
+            {
+                  "name": "Iglesia Señor y Virgen del Milagro",
+                  "text": "Diese traditionelle Kultstätte, die dem Herrn und der Jungfrau des Wunders gewidmet ist, fungiert als wichtiges spirituelles Zentrum und Treffpunkt für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -64.969914,
+                        -25.496644
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "Diese dem Heiligen Josef geweihte lokale Pfarrkirche ist ein aktives Gotteshaus, das für seine gut erhaltene kirchliche Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -64.966686,
+                        -25.488208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gauffin",
+                  "text": "Ez a kulturális múzeum a környező régió irodalmi és történelmi örökségét dokumentáló helyi tárgyakat és kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -64.973827,
+                        -25.498413
+                  ]
+            },
+            {
+                  "name": "Posta de Yatasto",
+                  "text": "Ez a történelmi gyarmati postaállomás az argentin függetlenségi háború idején San Martín és Belgrano tábornokok legendás találkozóhelyeként híres.",
+                  "category": "museum",
+                  "coords": [
+                        -64.949779,
+                        -25.590083
+                  ]
+            },
+            {
+                  "name": "Iglesia Señor y Virgen del Milagro",
+                  "text": "A Csoda Urának és Szűzének szentelt hagyományos istentiszteleti hely a helyi közösség fontos spirituális és gyülekezési központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -64.969914,
+                        -25.496644
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "Ez a Szent Józsefnek szentelt helyi plébániatemplom egy aktív istentiszteleti hely, amely jól megőrzött egyházi építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        -64.966686,
+                        -25.488208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gauffin",
+                  "text": "Acest muzeu cultural prezintă artefacte și expoziții locale care documentează moștenirea literară și istorică a regiunii înconjurătoare.",
+                  "category": "museum",
+                  "coords": [
+                        -64.973827,
+                        -25.498413
+                  ]
+            },
+            {
+                  "name": "Posta de Yatasto",
+                  "text": "Această stație istorică de releu colonială este renumită ca locul legendar de întâlnire al generalilor San Martín și Belgrano în timpul Războiului de Independență al Argentinei.",
+                  "category": "museum",
+                  "coords": [
+                        -64.949779,
+                        -25.590083
+                  ]
+            },
+            {
+                  "name": "Iglesia Señor y Virgen del Milagro",
+                  "text": "Închinat Domnului și Fecioarei Miracolului, acest lăcaș de cult tradițional funcționează ca un centru spiritual și de adunare cheie pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -64.969914,
+                        -25.496644
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "Închinată Sfântului Iosif, această biserică parohială locală este un lăcaș de cult activ, remarcabil prin arhitectura sa ecleziastică bine conservată.",
+                  "category": "religious",
+                  "coords": [
+                        -64.966686,
+                        -25.488208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gauffin",
+                  "text": "This cultural museum presents local artifacts and exhibits documenting the literary and historical heritage of the surrounding region.",
+                  "category": "museum",
+                  "coords": [
+                        -64.973827,
+                        -25.498413
+                  ]
+            },
+            {
+                  "name": "Posta de Yatasto",
+                  "text": "This historic colonial relay station is famous as the legendary meeting place of generals San Martín and Belgrano during the Argentine War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        -64.949779,
+                        -25.590083
+                  ]
+            },
+            {
+                  "name": "Iglesia Señor y Virgen del Milagro",
+                  "text": "Dedicated to the Lord and Virgin of the Miracle, this traditional place of worship functions as a key spiritual and gathering center for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -64.969914,
+                        -25.496644
+                  ]
+            },
+            {
+                  "name": "Parroquia San José",
+                  "text": "Dedicated to Saint Joseph, this local parish church is an active place of worship notable for its well-preserved ecclesiastical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -64.966686,
+                        -25.488208
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic colonial post station where key independence figures met during the war.",
       hu: "Történelmi postaállomás Salta tartományban, ahol az argentin függetlenségi háború nagy tábornokai, Belgrano és San Martín találkoztak.",
@@ -887,7 +8924,196 @@ image: "/poi-images/ar-posta-yatasto-history-v2.webp",
       fr: ["Construit à la fin du XVIIIe siècle comme relais de poste.", "Théâtre de la remise de commandement Belgrano-San Martín en 1814.", "Classé monument historique national en 1942.", "Situé près de la ville de Metán, au sud de Salta.", "Balcon caractéristique et épais murs en adobe.", "Dispose d'une petite chapelle des chefs révolutionnaires.", "Le domaine environnant était autrefois un important élevage de bétail.", "Le musée présente des documents et des objets de l'époque de l'indépendance."],
     }, image: "/poi-images/ar-posta-yatasto-history-v2.webp"},
   {
-    id: "ar-iglesia-yavi-history-v2",
+    id: "ar-iglesia-yavi-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Indígena",
+                  "text": "Das Museo Indígena in Yavi widmet sich der Bewahrung der antiken kulturellen Artefakte und der Geschichte der indigenen Bevölkerung der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -65.454923,
+                        -22.09863
+                  ]
+            },
+            {
+                  "name": "Mirador de Yavi",
+                  "text": "Der Mirador de Yavi ist ein erhöhter Aussichtspunkt, der weite Ausblicke auf die historische, trockene Landschaft der Puna-Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.469575,
+                        -22.125909
+                  ]
+            },
+            {
+                  "name": "Pinturas Repestres De Yavi",
+                  "text": "Diese archäologische Stätte in Yavi zeigt faszinierende alte Felsmalereien, die von den frühen indigenen Bewohnern der Region geschaffen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -65.465807,
+                        -22.1282
+                  ]
+            },
+            {
+                  "name": "Petroglifos Laguna Colorada",
+                  "text": "In der Nähe von Yavi bewahrt diese archäologische Stätte alte Petroglyphen, die in die Felsformationen rund um die Laguna Colorada gemeißelt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -65.517491,
+                        -22.181849
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Provincial Casa Hacienda de Yavi del Marquesado de Tojo",
+                  "text": "Dieses in einem historischen Kolonialanwesen aus dem Jahr 1708 untergebrachte Provinzmuseum bewahrt das denkmalgeschützte Erbe des Marquisats von Tojo.",
+                  "category": "museum",
+                  "coords": [
+                        -65.46359,
+                        -22.130992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Indígena",
+                  "text": "A yavi-i Museo Indígena a régió őslakos népességének ősi kulturális műtárgyainak és történelmének megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -65.454923,
+                        -22.09863
+                  ]
+            },
+            {
+                  "name": "Mirador de Yavi",
+                  "text": "A Mirador de Yavi egy magaslati kilátó, amely szélesvásznú kilátást nyújt a Puna régió történelmi, száraz tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -65.469575,
+                        -22.125909
+                  ]
+            },
+            {
+                  "name": "Pinturas Repestres De Yavi",
+                  "text": "Ez a yavi-i régészeti lelőhely lenyűgöző ősi sziklafestményeket mutat be, amelyeket a régió korai őslakos lakói alkottak.",
+                  "category": "historical",
+                  "coords": [
+                        -65.465807,
+                        -22.1282
+                  ]
+            },
+            {
+                  "name": "Petroglifos Laguna Colorada",
+                  "text": "A Yavi közelében található régészeti lelőhely a Laguna Colorada körüli sziklaalakzatokba vájt ősi petroglifákat őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -65.517491,
+                        -22.181849
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Provincial Casa Hacienda de Yavi del Marquesado de Tojo",
+                  "text": "Az 1708-ból származó történelmi gyarmati birtokon helyet kapó tartományi múzeum a Tojo őrgrófság örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -65.46359,
+                        -22.130992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Indígena",
+                  "text": "Museo Indígena din Yavi este dedicat conservării artefactelor culturale antice și istoriei populațiilor indigene din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -65.454923,
+                        -22.09863
+                  ]
+            },
+            {
+                  "name": "Mirador de Yavi",
+                  "text": "Mirador de Yavi este un punct de belvedere înalt care oferă vederi ample asupra peisajului arid și istoric al regiunii Puna.",
+                  "category": "natural",
+                  "coords": [
+                        -65.469575,
+                        -22.125909
+                  ]
+            },
+            {
+                  "name": "Pinturas Repestres De Yavi",
+                  "text": "Acest sit arheologic din Yavi prezintă picturi rupestre antice fascinante, create de primii locuitori indigeni ai regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -65.465807,
+                        -22.1282
+                  ]
+            },
+            {
+                  "name": "Petroglifos Laguna Colorada",
+                  "text": "Situat lângă Yavi, acest sit arheologic păstrează petroglife antice sculptate în formațiunile stâncoase din jurul Lagunei Colorada.",
+                  "category": "historical",
+                  "coords": [
+                        -65.517491,
+                        -22.181849
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Provincial Casa Hacienda de Yavi del Marquesado de Tojo",
+                  "text": "Găzduit într-un domeniu colonial istoric din 1708, acest muzeu provincial păstrează moștenirea de patrimoniu a Marchizatului de Tojo.",
+                  "category": "museum",
+                  "coords": [
+                        -65.46359,
+                        -22.130992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Indígena",
+                  "text": "The Museo Indígena in Yavi is dedicated to preserving the ancient cultural artifacts and history of the region's indigenous populations.",
+                  "category": "museum",
+                  "coords": [
+                        -65.454923,
+                        -22.09863
+                  ]
+            },
+            {
+                  "name": "Mirador de Yavi",
+                  "text": "Mirador de Yavi is an elevated viewpoint that provides sweeping views over the historical arid landscape of the Puna region.",
+                  "category": "natural",
+                  "coords": [
+                        -65.469575,
+                        -22.125909
+                  ]
+            },
+            {
+                  "name": "Pinturas Repestres De Yavi",
+                  "text": "This archaeological site in Yavi features fascinating ancient rock paintings created by early indigenous inhabitants of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -65.465807,
+                        -22.1282
+                  ]
+            },
+            {
+                  "name": "Petroglifos Laguna Colorada",
+                  "text": "Located near Yavi, this archaeological site preserves ancient petroglyphs carved into the rock formations around Laguna Colorada.",
+                  "category": "historical",
+                  "coords": [
+                        -65.517491,
+                        -22.181849
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Provincial Casa Hacienda de Yavi del Marquesado de Tojo",
+                  "text": "Housed in a historic 1708 colonial estate, this provincial museum preserves the heritage of the Marquisate of Tojo.",
+                  "category": "museum",
+                  "coords": [
+                        -65.46359,
+                        -22.130992
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A unique colonial church in Yavi, significant for its architectural and historical value in Jujuy.",
       hu: "Lenyűgöző 17. századi templom Jujuy tartomány északi részén, Yavi faluban. Híres aranyozott oltáráról és gazdag barokk díszítéséről.",
@@ -939,7 +9165,52 @@ image: "/poi-images/ar-iglesia-yavi-history-v2.webp",
       fr: ["Achevée dans sa forme actuelle vers 1690.", "Célèbre pour ses fenêtres en onyx filtrant une lumière dorée.", "Trois autels massifs entièrement recouverts de feuilles d'or.", "Importante collection de peintures de l'école de Cusco du XVIIe siècle.", "Faisait partie du seul marquisat du territoire argentin.", "Située à quelques kilomètres de la frontière bolivienne.", "Tribune avec un plafond en bois peint unique.", "Monument historique national et trésor de la Puna argentine."],
     }, image: "/poi-images/ar-iglesia-yavi-history-v2.webp"},
   {
-    id: "ar-capilla-casabindo-history-v2",
+    id: "ar-capilla-casabindo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia de La Asunción",
+                  "text": "Die als 'Kathedrale der Puna' bekannte Kirche La Asunción in Casabindo ist berühmt für das traditionelle Toreo de la Vincha.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.032953,
+                        -22.986778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia de La Asunción",
+                  "text": "A Casabindóban található La Asunción-templom, amelyet a 'Puna katedrálisaként' ismernek, a hagyományos Toreo de la Vincha-ról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.032953,
+                        -22.986778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia de La Asunción",
+                  "text": "Biserica La Asunción din Casabindo, cunoscută drept „Catedrala din Puna”, este faimoasă pentru tradiționalul Toreo de la Vincha.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.032953,
+                        -22.986778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia de La Asunción",
+                  "text": "Known as the 'Cathedral of the Puna', the La Asunción church in Casabindo is famous for the traditional Toreo de la Vincha bullfight.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.032953,
+                        -22.986778
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic chapel famous for its religious and cultural significance in the Jujuy highlands.",
       hu: "A 'Puna Katedrálisa' néven ismert hatalmas templom egy apró hegyi faluban. Híres a minden évben megrendezett bikaviadal-ünnepéről.",
@@ -991,7 +9262,1168 @@ image: "/poi-images/ar-capilla-casabindo-history-v2.webp",
       fr: ["Achevée en 1722 sur l'emplacement d'une chapelle plus ancienne.", "Dimensions massives à 3 400 m d'altitude.", "Célèbres peintures d'archanges avec mousquets (XVIIe siècle).", "Fête du « Toreo de la Vincha » chaque année le 15 août.", "Cloches prétendument rapportées d'Espagne au XVIIIe siècle.", "L'un des villages les plus anciens et traditionnels de la Puna.", "Épaisses parois en pierre et toit de terre et de paille.", "Lieu clé du syncrétisme religieux des Andes."],
     }, image: "/poi-images/ar-capilla-casabindo-history-v2.webp"},
   {
-    id: "ar-fuerte-patagones-history-v2",
+    id: "ar-fuerte-patagones-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa José Antonio Ruiz",
+                  "text": "Ein sandiger Flussstrand an den malerischen Ufern des Río Negro in Carmen de Patagones.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.995954,
+                        -40.80025
+                  ]
+            },
+            {
+                  "name": "Cartel de Carmen de Patagones",
+                  "text": "Ein großes typografisches Wahrzeichen in der Nähe des Flussufers, das bei Touristen für Erinnerungsfotos der Stadt sehr beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.994876,
+                        -40.793414
+                  ]
+            },
+            {
+                  "name": "Cañón",
+                  "text": "Ein authentisches historisches Artilleriegeschütz, das als Denkmal für die Verteidigungsbemühungen von Carmen de Patagones erhalten geblieben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.985151,
+                        -40.802406
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura \"Tahona\"",
+                  "text": "Ein Kunstzentrum, das in einer alten Tahona (Mühle) untergebracht ist und in dem heute kulturelle Ausstellungen und lokale Workshops stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.984266,
+                        -40.803601
+                  ]
+            },
+            {
+                  "name": "Cañones",
+                  "text": "Eine Batterie historischer Kanonen in der Nähe des Flusses, die an die legendäre militärische Verteidigung der Stadt im Jahr 1827 erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.985621,
+                        -40.803464
+                  ]
+            },
+            {
+                  "name": "Muelle Mihanovich",
+                  "text": "Ein historischer Aussichtspunkt auf einem Holzpier, der in den Río Negro ragt und einst ein geschäftiges Zentrum für Dampfschiffe und Handel war.",
+                  "category": "natural",
+                  "coords": [
+                        -62.985145,
+                        -40.804838
+                  ]
+            },
+            {
+                  "name": "Cápsula del Tiempo \"Nuntius\"",
+                  "text": "Eine versiegelte Zeitkapsel-Installation, die lokale patagonische Geschichte und Botschaften für zukünftige Generationen bewahren soll.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.989765,
+                        -40.804947
+                  ]
+            },
+            {
+                  "name": "Espacio INCAA",
+                  "text": "Ein kulturelles Kunstzentrum, das sich der Vorführung nationaler argentinischer Filme für die lokale Gemeinschaft widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.985269,
+                        -40.799242
+                  ]
+            },
+            {
+                  "name": "La Maragata",
+                  "text": "Ein Denkmal zu Ehren der Pionierfrauen aus der spanischen Region Maragatería, die bei der Besiedlung dieses Außenpostens halfen.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.979804,
+                        -40.791911
+                  ]
+            },
+            {
+                  "name": "Réplica al Monumento del Cerro de la Caballada",
+                  "text": "Ein Gedenkmonument in Form einer Nachbildung, das die entscheidende Schlacht am Cerro de la Caballada von 1827 am Hang feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -62.983566,
+                        -40.788149
+                  ]
+            },
+            {
+                  "name": "Enterratorio Eltuwe",
+                  "text": "Eine indigene archäologische Stätte, die eine angestammte Begräbnisstätte in der patagonischen Landschaft bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -62.969103,
+                        -40.810862
+                  ]
+            },
+            {
+                  "name": "Balneario Gabriela Cassano",
+                  "text": "Ein entspannter Strandabschnitt am Río Negro, der im Sommer zum Schwimmen und Sonnenbaden am Flussufer beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.008984,
+                        -40.794877
+                  ]
+            },
+            {
+                  "name": "Balneario de Barrio Belgrano",
+                  "text": "Ein lokales Flussbad im Viertel Barrio Belgrano, das Erholung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.993313,
+                        -40.801286
+                  ]
+            },
+            {
+                  "name": "Teatro España",
+                  "text": "Ein großartiges, historisches Theater, das von spanischen Einwanderern erbaut wurde und im Stadtzentrum mit klassischen architektonischen Details aufwartet.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.984989,
+                        -40.801457
+                  ]
+            },
+            {
+                  "name": "Museo Carmen de Patagones de la Prefectura Naval Argentina",
+                  "text": "Dieses 1995 gegründete Marinemuseum beleuchtet die maritime Geschichte und die Flussschifffahrt auf dem Río Negro.",
+                  "category": "museum",
+                  "coords": [
+                        -62.990674,
+                        -40.799286
+                  ]
+            },
+            {
+                  "name": "Tiro Federal 7 de Marzo",
+                  "text": "Ein schlossartiger historischer Schießstand, der zu Ehren des Datums benannt wurde, an dem die Stadt bekanntermaßen eine brasilianische Invasion abwehrte.",
+                  "category": "castle",
+                  "coords": [
+                        -62.97198,
+                        -40.806275
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "Eine lokale christliche Kapelle, die Gläubige mit ihrer Hingabe an Unsere Liebe Frau von Guadalupe willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.992273,
+                        -40.787587
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Ein bescheidenes Gotteshaus in der Nachbarschaft, das eine ruhige Umgebung für das christliche Gebet in der Gemeinde bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -62.967607,
+                        -40.801848
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Sobrenatural",
+                  "text": "Eine evangelikal-christliche Kirche in der patagonischen Stadt, die sich auf dynamische, von der Gemeinschaft getragene Gottesdienste konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.997443,
+                        -40.785682
+                  ]
+            },
+            {
+                  "name": "Centro Comunitario San Cayetano",
+                  "text": "Ein religiöses Gemeindezentrum und Gotteshaus zu Ehren des Heiligen Kajetan, dem Schutzpatron für Brot und Arbeit.",
+                  "category": "religious",
+                  "coords": [
+                        -62.999376,
+                        -40.794095
+                  ]
+            },
+            {
+                  "name": "Capilla Madre María Dominga Mazzarello",
+                  "text": "Eine christliche Kapelle, die nach der Mitbegründerin der Don-Bosco-Schwestern benannt ist und den regionalen Bildungseinfluss des Ordens widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.991705,
+                        -40.793624
+                  ]
+            },
+            {
+                  "name": "Capilla Don Bosco",
+                  "text": "Diese christliche Kapelle ehrt Don Bosco, eine Schlüsselfigur in der Evangelisierung und Schulbildung im argentinischen Patagonien.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.984589,
+                        -40.791869
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Eine Kirche Jesu Christi der Heiligen der Letzten Tage, die religiöse Gottesdienste und ein Gemeindehaus für die lokale Mormonen-Gemeinde bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -62.977703,
+                        -40.798535
+                  ]
+            },
+            {
+                  "name": "Capilla del Rosario de San Nicolás",
+                  "text": "Die Capilla del Rosario de San Nicolás ist eine lokale christliche Kapelle, die der betenden Gemeinde in Fuerte Patagones als Andachtsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.970383,
+                        -40.798792
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "Die Capilla Sagrada Familia ist eine christliche Kapelle in Fuerte Patagones, die der Heiligen Familie gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.972274,
+                        -40.79425
+                  ]
+            },
+            {
+                  "name": "Iglesia Unida Metodista Pentecostal",
+                  "text": "Die Iglesia Unida Metodista Pentecostal ist eine Kapelle, in der sich die lokale pfingstlerische Gemeinde von Fuerte Patagones versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -62.969562,
+                        -40.790223
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional \"Hijos del Altísimo\"",
+                  "text": "Das Ministerio Internacional „Hijos del Altísimo“ ist eine evangelikale Kapelle in Fuerte Patagones, die für ihre lebendigen Gottesdienste bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -62.969458,
+                        -40.791269
+                  ]
+            },
+            {
+                  "name": "Capilla Don Zatti",
+                  "text": "Die Capilla Don Zatti ist eine kleine Kapelle in Fuerte Patagones, die zu Ehren des bekannten patagonischen Krankenpflegers Artémides Zatti benannt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -62.963669,
+                        -40.788068
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Restaurador",
+                  "text": "Das Centro Cristiano Restaurador dient als gemeinschaftsorientiertes christliches Anbetungszentrum in Fuerte Patagones.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.963996,
+                        -40.786461
+                  ]
+            },
+            {
+                  "name": "Feria La Pichona",
+                  "text": "Die Feria La Pichona ist ein lebhafter lokaler Markt in Fuerte Patagones, auf dem Händler Handwerk und regionale Waren verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.986481,
+                        -40.786228
+                  ]
+            },
+            {
+                  "name": "Feria Comunitaria La Comarca",
+                  "text": "Die Feria Comunitaria La Comarca ist ein belebter Markt, auf dem Einheimische aus der Region Viedma-Patagones frische Produkte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.980444,
+                        -40.797525
+                  ]
+            },
+            {
+                  "name": "Feria La Familia",
+                  "text": "Die Feria La Familia ist ein familienorientierter Markt in Fuerte Patagones, der eine Vielzahl an Gemeinschaftsständen umfasst.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.97263,
+                        -40.792038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa José Antonio Ruiz",
+                  "text": "Egy homokos folyóparti strand a Río Negro festői partján Carmen de Patagonesben.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.995954,
+                        -40.80025
+                  ]
+            },
+            {
+                  "name": "Cartel de Carmen de Patagones",
+                  "text": "Egy nagy tipográfiai tábla a folyópart közelében, amely a turisták körében népszerű szuvenírfotók készítéséhez a városról.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.994876,
+                        -40.793414
+                  ]
+            },
+            {
+                  "name": "Cañón",
+                  "text": "Egy eredeti történelmi tüzérségi ágyú, amelyet a Carmen de Patagones-i védelmi erőfeszítések emlékműveként őriztek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.985151,
+                        -40.802406
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura \"Tahona\"",
+                  "text": "Egy régi malom (tahona) épületében működő művészeti központ, amely ma kulturális kiállításoknak és helyi workshopoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.984266,
+                        -40.803601
+                  ]
+            },
+            {
+                  "name": "Cañones",
+                  "text": "A folyó közelében kiállított történelmi ágyúk ütege, amely a város legendás 1827-es katonai védelmére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.985621,
+                        -40.803464
+                  ]
+            },
+            {
+                  "name": "Muelle Mihanovich",
+                  "text": "A Río Negroba nyúló történelmi fapólus kilátópontja, amely egykor a gőzhajók és a kereskedelem nyüzsgő központja volt.",
+                  "category": "natural",
+                  "coords": [
+                        -62.985145,
+                        -40.804838
+                  ]
+            },
+            {
+                  "name": "Cápsula del Tiempo \"Nuntius\"",
+                  "text": "Egy lezárt időkapszula-installáció, amelyet a helyi patagóniai történelem és a jövő generációinak szóló üzenetek megőrzésére terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.989765,
+                        -40.804947
+                  ]
+            },
+            {
+                  "name": "Espacio INCAA",
+                  "text": "Egy kulturális művészeti központ, amely a nemzeti argentin mozi bemutatásának van szentelve a helyi közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.985269,
+                        -40.799242
+                  ]
+            },
+            {
+                  "name": "La Maragata",
+                  "text": "Emlékmű, amely a spanyolországi Maragatería régióból származó úttörő nők előtt tiszteleg, akik segítettek betelepíteni ezt az előőrsöt.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.979804,
+                        -40.791911
+                  ]
+            },
+            {
+                  "name": "Réplica al Monumento del Cerro de la Caballada",
+                  "text": "Egy emlékmű-másolat, amely az 1827-es sorsdöntő Cerro de la Caballada-i hegyi csatát ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -62.983566,
+                        -40.788149
+                  ]
+            },
+            {
+                  "name": "Enterratorio Eltuwe",
+                  "text": "Őslakos régészeti lelőhely, amely egy ősi temetkezési helyet őriz a patagóniai tájon.",
+                  "category": "historical",
+                  "coords": [
+                        -62.969103,
+                        -40.810862
+                  ]
+            },
+            {
+                  "name": "Balneario Gabriela Cassano",
+                  "text": "Egy nyugodt tengerparti üdülőövezet a Río Negro mentén, amely népszerű a nyári úszás és a folyóparti napozás körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.008984,
+                        -40.794877
+                  ]
+            },
+            {
+                  "name": "Balneario de Barrio Belgrano",
+                  "text": "A Barrio Belgrano negyedben található helyi folyóparti strandfürdő, amely vízparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.993313,
+                        -40.801286
+                  ]
+            },
+            {
+                  "name": "Teatro España",
+                  "text": "Egy spanyol bevándorlók által épített grandiózus, történelmi színház, amely klasszikus építészeti részletekkel büszkélkedhet a városközpontban.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.984989,
+                        -40.801457
+                  ]
+            },
+            {
+                  "name": "Museo Carmen de Patagones de la Prefectura Naval Argentina",
+                  "text": "Az 1995-ben alapított tengerészeti múzeum a tengeri történelmet és a Río Negro folyami hajózását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -62.990674,
+                        -40.799286
+                  ]
+            },
+            {
+                  "name": "Tiro Federal 7 de Marzo",
+                  "text": "Egy kastélyszerű történelmi lőtér, amelyet annak a dátumnak a tiszteletére neveztek el, amikor a város híresen visszavert egy brazil inváziót.",
+                  "category": "castle",
+                  "coords": [
+                        -62.97198,
+                        -40.806275
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "Egy helyi keresztény kápolna, amely a Guadalupei Szűzanya iránti tiszteletével fogadja a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.992273,
+                        -40.787587
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Egy szerény környékbeli istentiszteleti hely, amely csendes környezetet biztosít a közösségi keresztény imádsághoz.",
+                  "category": "religious",
+                  "coords": [
+                        -62.967607,
+                        -40.801848
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Sobrenatural",
+                  "text": "Egy evangéliumi keresztény egyház, amely dinamikus, közösségvezérelt istentiszteletekre összpontosít a patagóniai városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.997443,
+                        -40.785682
+                  ]
+            },
+            {
+                  "name": "Centro Comunitario San Cayetano",
+                  "text": "Vallási közösségi központ és istentiszteleti hely Szent Kajetán, a kenyér és a munka védőszentjének tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        -62.999376,
+                        -40.794095
+                  ]
+            },
+            {
+                  "name": "Capilla Madre María Dominga Mazzarello",
+                  "text": "A Szalézi Nővérek társalapítójáról elnevezett keresztény kápolna, amely a rend regionális oktatási hatását tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.991705,
+                        -40.793624
+                  ]
+            },
+            {
+                  "name": "Capilla Don Bosco",
+                  "text": "Ez a keresztény kápolna Don Bosco előtt tiszteleg, aki kulcsszerepet játszott az argentin Patagónia evangelizációjában és iskoláztatásában.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.984589,
+                        -40.791869
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek temploma, amely vallási istentiszteleteket és gyülekezeti házat biztosít a helyi mormon közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -62.977703,
+                        -40.798535
+                  ]
+            },
+            {
+                  "name": "Capilla del Rosario de San Nicolás",
+                  "text": "A Capilla del Rosario de San Nicolás egy helyi keresztény kápolna, amely a Fuerte Patagones-i hívő közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.970383,
+                        -40.798792
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "A Capilla Sagrada Familia egy csendes imateret biztosító, a Szent Családnak szentelt keresztény kápolna Fuerte Patagonesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.972274,
+                        -40.79425
+                  ]
+            },
+            {
+                  "name": "Iglesia Unida Metodista Pentecostal",
+                  "text": "Az Iglesia Unida Metodista Pentecostal egy kápolna, amely a helyi pünkösdi közösséget fogja össze Fuerte Patagonesben.",
+                  "category": "religious",
+                  "coords": [
+                        -62.969562,
+                        -40.790223
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional \"Hijos del Altísimo\"",
+                  "text": "A Ministerio Internacional „Hijos del Altísimo” egy evangelikál kápolna, amely aktív istentiszteleteknek ad otthont Fuerte Patagonesben.",
+                  "category": "religious",
+                  "coords": [
+                        -62.969458,
+                        -40.791269
+                  ]
+            },
+            {
+                  "name": "Capilla Don Zatti",
+                  "text": "A Capilla Don Zatti egy kis kápolna Fuerte Patagonesben, amelyet a neves patagóniai szalézi ápoló, Artémides Zatti tiszteletére neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        -62.963669,
+                        -40.788068
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Restaurador",
+                  "text": "A Centro Cristiano Restaurador egy közösségközpontú keresztény istentiszteleti központként működik Fuerte Patagonesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.963996,
+                        -40.786461
+                  ]
+            },
+            {
+                  "name": "Feria La Pichona",
+                  "text": "A Feria La Pichona egy nyüzsgő helyi piac Fuerte Patagonesben, ahol az árusok regionális termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.986481,
+                        -40.786228
+                  ]
+            },
+            {
+                  "name": "Feria Comunitaria La Comarca",
+                  "text": "A Feria Comunitaria La Comarca egy forgalmas közösségi piac, ahol a Viedma-Patagones régió lakói friss termékeket és kézműves tárgyakat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.980444,
+                        -40.797525
+                  ]
+            },
+            {
+                  "name": "Feria La Familia",
+                  "text": "A Feria La Familia egy családcentrikus piac Fuerte Patagonesben, amely különféle közösségi standokat vonultat fel.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.97263,
+                        -40.792038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa José Antonio Ruiz",
+                  "text": "O plajă cu nisip pe malul râului situată de-a lungul malurilor pitorești ale Río Negro din Carmen de Patagones.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.995954,
+                        -40.80025
+                  ]
+            },
+            {
+                  "name": "Cartel de Carmen de Patagones",
+                  "text": "Un indicator tipografic de mari dimensiuni, situat aproape de malul râului, popular printre turiști pentru fotografiile de suvenir cu orașul.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.994876,
+                        -40.793414
+                  ]
+            },
+            {
+                  "name": "Cañón",
+                  "text": "O piesă istorică autentică de artilerie, păstrată ca monument al eforturilor de apărare din Carmen de Patagones.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.985151,
+                        -40.802406
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura \"Tahona\"",
+                  "text": "Un centru de arte găzduit într-o veche tahona (moară), care găzduiește acum expoziții culturale și ateliere locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.984266,
+                        -40.803601
+                  ]
+            },
+            {
+                  "name": "Cañones",
+                  "text": "O baterie de tunuri istorice expuse lângă râu, amintind de legendara apărare militară a orașului din 1827.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.985621,
+                        -40.803464
+                  ]
+            },
+            {
+                  "name": "Muelle Mihanovich",
+                  "text": "Un punct de belvedere situat pe un debarcader istoric din lemn care se extinde în Río Negro, odată un centru plin de viață pentru nave cu aburi și comerț.",
+                  "category": "natural",
+                  "coords": [
+                        -62.985145,
+                        -40.804838
+                  ]
+            },
+            {
+                  "name": "Cápsula del Tiempo \"Nuntius\"",
+                  "text": "O instalație capsulă a timpului sigilată, concepută pentru a păstra istoria locală patagoniană și mesaje pentru generațiile viitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.989765,
+                        -40.804947
+                  ]
+            },
+            {
+                  "name": "Espacio INCAA",
+                  "text": "Un centru de arte culturale dedicat proiecției cinematografiei naționale argentiniene pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.985269,
+                        -40.799242
+                  ]
+            },
+            {
+                  "name": "La Maragata",
+                  "text": "Un monument care aduce un omagiu femeilor pioniere din regiunea spaniolă Maragatería care au ajutat la colonizarea acestui avanpost.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.979804,
+                        -40.791911
+                  ]
+            },
+            {
+                  "name": "Réplica al Monumento del Cerro de la Caballada",
+                  "text": "Un monument replică comemorativ care celebrează bătălia definitorie din 1827 de la Cerro de la Caballada pe deal.",
+                  "category": "historical",
+                  "coords": [
+                        -62.983566,
+                        -40.788149
+                  ]
+            },
+            {
+                  "name": "Enterratorio Eltuwe",
+                  "text": "Un sit arheologic indigen care păstrează un cimitir ancestral în peisajul patagonian.",
+                  "category": "historical",
+                  "coords": [
+                        -62.969103,
+                        -40.810862
+                  ]
+            },
+            {
+                  "name": "Balneario Gabriela Cassano",
+                  "text": "O zonă de stațiune pe plajă relaxată de-a lungul Río Negro, populară pentru înot de vară și plajă pe malul râului.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.008984,
+                        -40.794877
+                  ]
+            },
+            {
+                  "name": "Balneario de Barrio Belgrano",
+                  "text": "O stațiune locală cu plajă pe malul râului, situată în cartierul Barrio Belgrano, oferind recreere pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.993313,
+                        -40.801286
+                  ]
+            },
+            {
+                  "name": "Teatro España",
+                  "text": "Un teatru grandios, istoric, construit de imigranții spanioli, cu detalii arhitecturale clasice în centrul orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.984989,
+                        -40.801457
+                  ]
+            },
+            {
+                  "name": "Museo Carmen de Patagones de la Prefectura Naval Argentina",
+                  "text": "Acest muzeu naval, înființat în 1995, evidențiază istoria maritimă și navigația fluvială a Río Negro.",
+                  "category": "museum",
+                  "coords": [
+                        -62.990674,
+                        -40.799286
+                  ]
+            },
+            {
+                  "name": "Tiro Federal 7 de Marzo",
+                  "text": "Un poligon de tragere istoric, asemănător unui castel, numit în onoarea datei la care orașul a respins o invazie braziliană.",
+                  "category": "castle",
+                  "coords": [
+                        -62.97198,
+                        -40.806275
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "O capelă creștină locală care își întâmpină credincioșii cu devotamentul său față de Fecioara din Guadalupe.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.992273,
+                        -40.787587
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Un lăcaș de cult modest de cartier care oferă un cadru liniștit pentru rugăciunea creștină din comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -62.967607,
+                        -40.801848
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Sobrenatural",
+                  "text": "O biserică creștină evanghelică axată pe slujbe de închinare dinamice, conduse de comunitate, în orașul patagonian.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.997443,
+                        -40.785682
+                  ]
+            },
+            {
+                  "name": "Centro Comunitario San Cayetano",
+                  "text": "Un centru comunitar religios și lăcaș de cult care îl onorează pe Sfântul Cajetan, patronul pâinii și al muncii.",
+                  "category": "religious",
+                  "coords": [
+                        -62.999376,
+                        -40.794095
+                  ]
+            },
+            {
+                  "name": "Capilla Madre María Dominga Mazzarello",
+                  "text": "O capelă creștină numită după co-fondatoarea Surorilor Saleziene, reflectând impactul educațional regional al ordinului.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.991705,
+                        -40.793624
+                  ]
+            },
+            {
+                  "name": "Capilla Don Bosco",
+                  "text": "Această capelă creștină îl onorează pe Don Bosco, o figură cheie în evanghelizarea și școlarizarea din Patagonia argentiniană.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.984589,
+                        -40.791869
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O biserică a Sfinților din Zilele din Urmă care oferă slujbe religioase și o casă de adunare pentru comunitatea locală mormonă.",
+                  "category": "religious",
+                  "coords": [
+                        -62.977703,
+                        -40.798535
+                  ]
+            },
+            {
+                  "name": "Capilla del Rosario de San Nicolás",
+                  "text": "Capilla del Rosario de San Nicolás este o capelă creștină locală care servește drept loc de rugăciune pentru comunitatea din Fuerte Patagones.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.970383,
+                        -40.798792
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "Capilla Sagrada Familia este o capelă creștină dedicată Sfintei Familii, oferind un spațiu liniștit pentru rugăciune în Fuerte Patagones.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.972274,
+                        -40.79425
+                  ]
+            },
+            {
+                  "name": "Iglesia Unida Metodista Pentecostal",
+                  "text": "Iglesia Unida Metodista Pentecostal este o capelă care adună comunitatea penticostală locală din Fuerte Patagones.",
+                  "category": "religious",
+                  "coords": [
+                        -62.969562,
+                        -40.790223
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional \"Hijos del Altísimo\"",
+                  "text": "Ministerio Internacional „Hijos del Altísimo” este o capelă evanghelică ce găzduiește slujbe active de rugăciune în Fuerte Patagones.",
+                  "category": "religious",
+                  "coords": [
+                        -62.969458,
+                        -40.791269
+                  ]
+            },
+            {
+                  "name": "Capilla Don Zatti",
+                  "text": "Capilla Don Zatti este o mică capelă din Fuerte Patagones, numită în onoarea renumitului infirmier patagonez Artémides Zatti.",
+                  "category": "religious",
+                  "coords": [
+                        -62.963669,
+                        -40.788068
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Restaurador",
+                  "text": "Centro Cristiano Restaurador servește ca un centru de cult creștin axat pe comunitate în Fuerte Patagones.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.963996,
+                        -40.786461
+                  ]
+            },
+            {
+                  "name": "Feria La Pichona",
+                  "text": "Feria La Pichona este o piață locală vibrantă din Fuerte Patagones, unde vânzătorii se adună pentru a oferi bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.986481,
+                        -40.786228
+                  ]
+            },
+            {
+                  "name": "Feria Comunitaria La Comarca",
+                  "text": "Feria Comunitaria La Comarca este o piață comunitară plină de viață unde localnicii din regiunea Viedma-Patagones vând produse proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.980444,
+                        -40.797525
+                  ]
+            },
+            {
+                  "name": "Feria La Familia",
+                  "text": "Feria La Familia este o piață orientată spre familie în Fuerte Patagones, prezentând o varietate de tarabe comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.97263,
+                        -40.792038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa José Antonio Ruiz",
+                  "text": "A sandy riverside beach located along the scenic banks of the Río Negro in Carmen de Patagones.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.995954,
+                        -40.80025
+                  ]
+            },
+            {
+                  "name": "Cartel de Carmen de Patagones",
+                  "text": "A large typographic landmark sign near the riverfront, popular with tourists for taking souvenir photos of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.994876,
+                        -40.793414
+                  ]
+            },
+            {
+                  "name": "Cañón",
+                  "text": "An authentic historic artillery piece preserved as a monument to the defensive efforts of Carmen de Patagones.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.985151,
+                        -40.802406
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura \"Tahona\"",
+                  "text": "An arts center housed in an old tahona (mill), now hosting cultural exhibitions and local workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.984266,
+                        -40.803601
+                  ]
+            },
+            {
+                  "name": "Cañones",
+                  "text": "A battery of historic cannons displayed near the river, recalling the town's legendary 1827 military defense.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.985621,
+                        -40.803464
+                  ]
+            },
+            {
+                  "name": "Muelle Mihanovich",
+                  "text": "A historic wooden pier viewpoint extending into the Río Negro, once a bustling hub for steamboats and trade.",
+                  "category": "natural",
+                  "coords": [
+                        -62.985145,
+                        -40.804838
+                  ]
+            },
+            {
+                  "name": "Cápsula del Tiempo \"Nuntius\"",
+                  "text": "A sealed time capsule installation designed to preserve local Patagonian history and messages for future generations.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.989765,
+                        -40.804947
+                  ]
+            },
+            {
+                  "name": "Espacio INCAA",
+                  "text": "A cultural arts center dedicated to screening national Argentine cinema to the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.985269,
+                        -40.799242
+                  ]
+            },
+            {
+                  "name": "La Maragata",
+                  "text": "A monument paying tribute to the pioneering women from Spain's Maragatería region who helped settle this outpost.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.979804,
+                        -40.791911
+                  ]
+            },
+            {
+                  "name": "Réplica al Monumento del Cerro de la Caballada",
+                  "text": "A commemorative replica monument celebrating the defining 1827 Battle of Cerro de la Caballada on the hillside.",
+                  "category": "historical",
+                  "coords": [
+                        -62.983566,
+                        -40.788149
+                  ]
+            },
+            {
+                  "name": "Enterratorio Eltuwe",
+                  "text": "An indigenous archaeological site preserving an ancestral burial ground in the Patagonian landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -62.969103,
+                        -40.810862
+                  ]
+            },
+            {
+                  "name": "Balneario Gabriela Cassano",
+                  "text": "A relaxed beach resort area along the Río Negro, popular for summer swimming and riverside sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.008984,
+                        -40.794877
+                  ]
+            },
+            {
+                  "name": "Balneario de Barrio Belgrano",
+                  "text": "A local riverside beach resort situated in the Barrio Belgrano neighborhood, offering waterfront recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.993313,
+                        -40.801286
+                  ]
+            },
+            {
+                  "name": "Teatro España",
+                  "text": "A grand, historic theater constructed by Spanish immigrants, featuring classic architectural detailing in the town center.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.984989,
+                        -40.801457
+                  ]
+            },
+            {
+                  "name": "Museo Carmen de Patagones de la Prefectura Naval Argentina",
+                  "text": "This naval museum, established in 1995, highlights the maritime history and river navigation of the Río Negro.",
+                  "category": "museum",
+                  "coords": [
+                        -62.990674,
+                        -40.799286
+                  ]
+            },
+            {
+                  "name": "Tiro Federal 7 de Marzo",
+                  "text": "A castle-like historic shooting range named in honor of the date the town famously repelled a Brazilian invasion.",
+                  "category": "castle",
+                  "coords": [
+                        -62.97198,
+                        -40.806275
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "A local Christian chapel welcoming worshippers with its devotion to Our Lady of Guadalupe.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.992273,
+                        -40.787587
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "A modest neighborhood place of worship providing a quiet setting for Christian prayer in the community.",
+                  "category": "religious",
+                  "coords": [
+                        -62.967607,
+                        -40.801848
+                  ]
+            },
+            {
+                  "name": "Comunidad Cristiana Sobrenatural",
+                  "text": "An evangelical Christian church focused on dynamic, community-driven worship services in the Patagonian town.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.997443,
+                        -40.785682
+                  ]
+            },
+            {
+                  "name": "Centro Comunitario San Cayetano",
+                  "text": "A religious community center and place of worship honoring Saint Cajetan, the patron of bread and work.",
+                  "category": "religious",
+                  "coords": [
+                        -62.999376,
+                        -40.794095
+                  ]
+            },
+            {
+                  "name": "Capilla Madre María Dominga Mazzarello",
+                  "text": "A Christian chapel named for the co-foundress of the Salesian Sisters, reflecting the order's regional educational impact.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.991705,
+                        -40.793624
+                  ]
+            },
+            {
+                  "name": "Capilla Don Bosco",
+                  "text": "This Christian chapel honors Don Bosco, a key figure in the evangelization and schooling of Argentine Patagonia.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.984589,
+                        -40.791869
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A Latter-day Saints church providing religious services and a meetinghouse for the local Mormon community.",
+                  "category": "religious",
+                  "coords": [
+                        -62.977703,
+                        -40.798535
+                  ]
+            },
+            {
+                  "name": "Capilla del Rosario de San Nicolás",
+                  "text": "The Capilla del Rosario de San Nicolás is a local Christian chapel serving the faithful community in Fuerte Patagones.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.970383,
+                        -40.798792
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "The Capilla Sagrada Familia is a Christian chapel offering a quiet space for prayer dedicated to the Holy Family in Fuerte Patagones.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.972274,
+                        -40.79425
+                  ]
+            },
+            {
+                  "name": "Iglesia Unida Metodista Pentecostal",
+                  "text": "The Iglesia Unida Metodista Pentecostal is a chapel gathering the local Pentecostal community in Fuerte Patagones.",
+                  "category": "religious",
+                  "coords": [
+                        -62.969562,
+                        -40.790223
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional \"Hijos del Altísimo\"",
+                  "text": "The Ministerio Internacional \"Hijos del Altísimo\" is an evangelical chapel hosting active worship services in Fuerte Patagones.",
+                  "category": "religious",
+                  "coords": [
+                        -62.969458,
+                        -40.791269
+                  ]
+            },
+            {
+                  "name": "Capilla Don Zatti",
+                  "text": "Capilla Don Zatti is a local chapel in Fuerte Patagones, named in honor of the renowned Salesian nurse Artémides Zatti.",
+                  "category": "religious",
+                  "coords": [
+                        -62.963669,
+                        -40.788068
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Restaurador",
+                  "text": "The Centro Cristiano Restaurador serves as a community-focused Christian worship center in Fuerte Patagones.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.963996,
+                        -40.786461
+                  ]
+            },
+            {
+                  "name": "Feria La Pichona",
+                  "text": "Feria La Pichona is a vibrant local marketplace in Fuerte Patagones where vendors gather to sell regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.986481,
+                        -40.786228
+                  ]
+            },
+            {
+                  "name": "Feria Comunitaria La Comarca",
+                  "text": "Feria Comunitaria La Comarca is a bustling community marketplace where locals from the Viedma-Patagones region sell crafts and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.980444,
+                        -40.797525
+                  ]
+            },
+            {
+                  "name": "Feria La Familia",
+                  "text": "Feria La Familia is a family-oriented marketplace in Fuerte Patagones featuring a variety of community stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.97263,
+                        -40.792038
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The site of a historical fort that played a crucial role in the defense and expansion of the Patagonia region.",
       hu: "A legdélebbi spanyol erődítmény a 18. század végén. A Negro-folyó partján álló erőd megvédte a régiót a tengeri támadásoktól.",
@@ -1043,7 +10475,520 @@ image: "/poi-images/ar-fuerte-patagones-history-v2.webp",
       fr: ["Fondé le 22 avril 1779 par Francisco de Viedma.", "Lieu de la bataille navale de 1827 contre le Brésil.", "L'église paroissiale conserve deux drapeaux impériaux brésiliens.", "Abrite les « Cuevas Maragatas », des habitations creusées dans la roche.", "Plus ancien établissement de Patagonie, situé sur une colline surplombant le fleuve.", "Surnommé le « berceau de l'histoire patagonienne ».", "La « Torre del Fuerte » est le dernier vestige du mur de défense.", "Relié à Viedma par un bac fluvial historique."],
     }, image: "/poi-images/ar-fuerte-patagones-history-v2.webp"},
   {
-    id: "ar-palacio-san-jose-history-v2",
+    id: "ar-palacio-san-jose-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento a San Martin",
+                  "text": "Ein Denkmal zu Ehren von General José de San Martín in der Gegend von Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.234224,
+                        -32.480195
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pronunciamiento",
+                  "text": "Ein Gedenkdenkmal, das Urquizas Pronunciamiento von 1851 gegen Rosas in Concepción del Uruguay markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -58.232121,
+                        -32.484657
+                  ]
+            },
+            {
+                  "name": "Basílica Inmaculada Concepción",
+                  "text": "Eine Basilica minor in Concepción del Uruguay, die das Mausoleum von General Justo José de Urquiza beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        -58.233032,
+                        -32.485132
+                  ]
+            },
+            {
+                  "name": "Fauna",
+                  "text": "Ein Kunstzentrum in Concepción del Uruguay, das lokale kulturelle Veranstaltungen und Ausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.225256,
+                        -32.479287
+                  ]
+            },
+            {
+                  "name": "Monumento a la Loba",
+                  "text": "Ein Denkmal mit einer Nachbildung der Kapitolinischen Wölfin in Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.226288,
+                        -32.476122
+                  ]
+            },
+            {
+                  "name": "Paso Vera",
+                  "text": "Ein natürlicher Sandstrand am Río Uruguay in der Nähe von Concepción del Uruguay, umgeben von dichter Vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.206946,
+                        -32.436819
+                  ]
+            },
+            {
+                  "name": "Monumento a Urquiza",
+                  "text": "Ein markantes Denkmal, das dem argentinischen Führer General Justo José de Urquiza gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.261292,
+                        -32.341917
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Concepción",
+                  "text": "Ein Freizeit-Wasserpark in der Nähe von Concepción del Uruguay mit mehreren Pools und Wasserrutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.293121,
+                        -32.452137
+                  ]
+            },
+            {
+                  "name": "Termas Concepción",
+                  "text": "Ein Thermalwasserpark in Concepción del Uruguay, der beheizte Becken und Spa-Einrichtungen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.290728,
+                        -32.452147
+                  ]
+            },
+            {
+                  "name": "Banco Pelay",
+                  "text": "Ein langer Flussstrand entlang des Río Uruguay in Concepción del Uruguay, bekannt für seine ausgedehnten weißen Sandstrände.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.209166,
+                        -32.450322
+                  ]
+            },
+            {
+                  "name": "Parroquia San Roque",
+                  "text": "Eine christliche Pfarrei in Concepción del Uruguay, die dem Heiligen Rochus geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.253454,
+                        -32.476031
+                  ]
+            },
+            {
+                  "name": "Parroquia María Auxiliadora",
+                  "text": "Eine katholische Pfarrei zu Ehren von Maria Hilf in Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.250472,
+                        -32.490575
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Teresita del Niño Jesús",
+                  "text": "Eine katholische Pfarrkirche in Concepción del Uruguay, die der Heiligen Therese vom Kinde Jesu geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.240728,
+                        -32.475234
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Congregacional",
+                  "text": "Eine evangelisch-kongregationalistische Kirche, die den Gläubigen in Concepción del Uruguay dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.241146,
+                        -32.48163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento a San Martin",
+                  "text": "José de San Martín tábornok tiszteletére emelt emlékmű a Concepción del Uruguay területén.",
+                  "category": "historical",
+                  "coords": [
+                        -58.234224,
+                        -32.480195
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pronunciamiento",
+                  "text": "Emlékmű Concepción del Uruguayban, amely Urquiza 1851-es Rosas elleni Pronunciamiento-ját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        -58.232121,
+                        -32.484657
+                  ]
+            },
+            {
+                  "name": "Basílica Inmaculada Concepción",
+                  "text": "Egy basilica minor minősítésű templom Concepción del Uruguayban, amely Justo José de Urquiza tábornok mauzóleumának ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -58.233032,
+                        -32.485132
+                  ]
+            },
+            {
+                  "name": "Fauna",
+                  "text": "Művészeti központ Concepción del Uruguayban, amely helyi kulturális eseményeknek és kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.225256,
+                        -32.479287
+                  ]
+            },
+            {
+                  "name": "Monumento a la Loba",
+                  "text": "A Capitoliumi farkas másolatát ábrázoló emlékmű Concepción del Uruguayban.",
+                  "category": "historical",
+                  "coords": [
+                        -58.226288,
+                        -32.476122
+                  ]
+            },
+            {
+                  "name": "Paso Vera",
+                  "text": "Természetes, sűrű növényzettel szegélyezett homokos strand az Uruguay folyón, Concepción del Uruguay közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.206946,
+                        -32.436819
+                  ]
+            },
+            {
+                  "name": "Monumento a Urquiza",
+                  "text": "A neves argentin vezetőnek, Justo José de Urquiza tábornoknak szentelt kiemelkedő emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.261292,
+                        -32.341917
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Concepción",
+                  "text": "Több medencével és csúszdával rendelkező rekreációs vízi park Concepción del Uruguay közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.293121,
+                        -32.452137
+                  ]
+            },
+            {
+                  "name": "Termas Concepción",
+                  "text": "Termálvízi park Concepción del Uruguayban, amely fűtött medencéket és wellness-létesítményeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.290728,
+                        -32.452147
+                  ]
+            },
+            {
+                  "name": "Banco Pelay",
+                  "text": "Hosszú folyóparti strand az Uruguay folyó mentén Concepción del Uruguayban, amely kiterjedt fehér homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.209166,
+                        -32.450322
+                  ]
+            },
+            {
+                  "name": "Parroquia San Roque",
+                  "text": "Szent Rókusnak szentelt keresztény plébánia Concepción del Uruguayban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.253454,
+                        -32.476031
+                  ]
+            },
+            {
+                  "name": "Parroquia María Auxiliadora",
+                  "text": "A Keresztények Segítsége Máriát tisztelő katolikus plébánia Concepción del Uruguayban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.250472,
+                        -32.490575
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Teresita del Niño Jesús",
+                  "text": "A Gyermek Jézusról nevezett Szent Teréznek szentelt katolikus plébánia Concepción del Uruguayban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.240728,
+                        -32.475234
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Congregacional",
+                  "text": "Gyülekezeti evangéliumi templom, amely a hívőket szolgálja Concepción del Uruguayban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.241146,
+                        -32.48163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento a San Martin",
+                  "text": "Un monument care îl onorează pe generalul José de San Martín în zona Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.234224,
+                        -32.480195
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pronunciamiento",
+                  "text": "Un monument comemorativ care marchează Pronunciamiento-ul lui Urquiza din 1851 împotriva lui Rosas la Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.232121,
+                        -32.484657
+                  ]
+            },
+            {
+                  "name": "Basílica Inmaculada Concepción",
+                  "text": "O basilică minoră din Concepción del Uruguay care adăpostește mausoleul generalului Justo José de Urquiza.",
+                  "category": "religious",
+                  "coords": [
+                        -58.233032,
+                        -32.485132
+                  ]
+            },
+            {
+                  "name": "Fauna",
+                  "text": "Un centru de arte din Concepción del Uruguay care găzduiește evenimente culturale și expoziții locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.225256,
+                        -32.479287
+                  ]
+            },
+            {
+                  "name": "Monumento a la Loba",
+                  "text": "Un monument cu o replică a Lupoaicei Capitoline în Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.226288,
+                        -32.476122
+                  ]
+            },
+            {
+                  "name": "Paso Vera",
+                  "text": "O plajă naturală de nisip pe râul Uruguay, lângă Concepción del Uruguay, mărginită de vegetație deasă.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.206946,
+                        -32.436819
+                  ]
+            },
+            {
+                  "name": "Monumento a Urquiza",
+                  "text": "Un monument proeminent dedicat liderului argentinian, generalul Justo José de Urquiza.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.261292,
+                        -32.341917
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Concepción",
+                  "text": "Un parc acvatic de agrement lângă Concepción del Uruguay, cu mai multe piscine și tobogane cu apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.293121,
+                        -32.452137
+                  ]
+            },
+            {
+                  "name": "Termas Concepción",
+                  "text": "Un parc de apă termală în Concepción del Uruguay, care oferă piscine încălzite și facilități de spa.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.290728,
+                        -32.452147
+                  ]
+            },
+            {
+                  "name": "Banco Pelay",
+                  "text": "O plajă lungă de-a lungul râului Uruguay în Concepción del Uruguay, cunoscută pentru nisipurile sale albe întinse.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.209166,
+                        -32.450322
+                  ]
+            },
+            {
+                  "name": "Parroquia San Roque",
+                  "text": "O parohie creștină din Concepción del Uruguay dedicată Sfântului Rochus.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.253454,
+                        -32.476031
+                  ]
+            },
+            {
+                  "name": "Parroquia María Auxiliadora",
+                  "text": "O parohie catolică care o onorează pe Maria Ajutorul Creștinilor în Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.250472,
+                        -32.490575
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Teresita del Niño Jesús",
+                  "text": "O parohie catolică din Concepción del Uruguay dedicată Sfintei Tereza a Pruncului Iisus.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.240728,
+                        -32.475234
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Congregacional",
+                  "text": "O biserică creștină congregațională care deservește credincioșii din Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.241146,
+                        -32.48163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento a San Martin",
+                  "text": "A monument honoring General José de San Martín in the Concepción del Uruguay area.",
+                  "category": "historical",
+                  "coords": [
+                        -58.234224,
+                        -32.480195
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pronunciamiento",
+                  "text": "A commemorative monument marking Urquiza's 1851 Pronunciamiento against Rosas in Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.232121,
+                        -32.484657
+                  ]
+            },
+            {
+                  "name": "Basílica Inmaculada Concepción",
+                  "text": "A minor basilica in Concepción del Uruguay that houses the mausoleum of General Justo José de Urquiza.",
+                  "category": "religious",
+                  "coords": [
+                        -58.233032,
+                        -32.485132
+                  ]
+            },
+            {
+                  "name": "Fauna",
+                  "text": "An arts center in Concepción del Uruguay hosting local cultural events and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.225256,
+                        -32.479287
+                  ]
+            },
+            {
+                  "name": "Monumento a la Loba",
+                  "text": "A monument featuring a replica of the Capitoline Wolf in Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.226288,
+                        -32.476122
+                  ]
+            },
+            {
+                  "name": "Paso Vera",
+                  "text": "A natural sandy beach on the Uruguay River near Concepción del Uruguay, backed by dense vegetation.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.206946,
+                        -32.436819
+                  ]
+            },
+            {
+                  "name": "Monumento a Urquiza",
+                  "text": "A prominent monument dedicated to the Argentine leader General Justo José de Urquiza.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.261292,
+                        -32.341917
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Concepción",
+                  "text": "A recreational water park near Concepción del Uruguay featuring multiple pools and water slides.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.293121,
+                        -32.452137
+                  ]
+            },
+            {
+                  "name": "Termas Concepción",
+                  "text": "A thermal water park in Concepción del Uruguay offering heated pools and spa facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.290728,
+                        -32.452147
+                  ]
+            },
+            {
+                  "name": "Banco Pelay",
+                  "text": "A long river beach along the Uruguay River in Concepción del Uruguay, known for its extensive white sands.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.209166,
+                        -32.450322
+                  ]
+            },
+            {
+                  "name": "Parroquia San Roque",
+                  "text": "A Christian parish in Concepción del Uruguay dedicated to Saint Roch.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.253454,
+                        -32.476031
+                  ]
+            },
+            {
+                  "name": "Parroquia María Auxiliadora",
+                  "text": "A Catholic parish honoring Mary Help of Christians in Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.250472,
+                        -32.490575
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Teresita del Niño Jesús",
+                  "text": "A Catholic parish in Concepción del Uruguay dedicated to Saint Thérèse of the Child Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.240728,
+                        -32.475234
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Congregacional",
+                  "text": "A Congregational Evangelical church serving worshippers in Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.241146,
+                        -32.48163
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The historical residence of Justo José de Urquiza, a key figure in Argentina's constitutional development.",
       hu: "Justo José de Urquiza tábornok egykori fényűző rezidenciája Entre Ríos tartományban. A palota a 19. századi argentin politikai élet egyik legfontosabb helyszíne volt.",
@@ -1095,7 +11040,916 @@ image: "/poi-images/ar-palacio-san-jose-history-v2.webp",
       fr: ["Inauguré en 1858 après neuf ans de travaux.", "Le général Urquiza y fut assassiné le 11 avril 1870.", "Chapelle avec des fresques de coupole de Juan Manuel Blanes.", "Parc avec lac artificiel pour les exercices navals.", "Les deux tours de 25 m de haut sont caractéristiques.", "La salle des miroirs fut le théâtre de réceptions diplomatiques.", "Classé monument historique national en 1935.", "Situé près de la ville de Concepción del Uruguay."],
     }, image: "/poi-images/ar-palacio-san-jose-history-v2.webp"},
   {
-    id: "ar-casa-virrey-liniers-history-v2",
+    id: "ar-casa-virrey-liniers-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lo Quintero",
+                  "text": "Lo Quintero ist eine lokale Burgstruktur mit massiven architektonischen Merkmalen in der Nähe von ar-casa-virrey-liniers-history-v2.",
+                  "category": "castle",
+                  "coords": [
+                        -64.487853,
+                        -31.617371
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Gabriel Dubois",
+                  "text": "Das Kunstmuseum Gabriel Dubois präsentiert bemerkenswerte künstlerische Werke in seinen Ausstellungsräumen bei ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.450894,
+                        -31.651757
+                  ]
+            },
+            {
+                  "name": "La Cruz",
+                  "text": "La Cruz ist ein markantes Kreuzdenkmal, das als Wahrzeichen in der Nähe von ar-casa-virrey-liniers-history-v2 dient.",
+                  "category": "historical",
+                  "coords": [
+                        -64.459319,
+                        -31.647884
+                  ]
+            },
+            {
+                  "name": "Monumento de las Américas",
+                  "text": "Das Monumento de las Américas ist eine große öffentliche Skulptur und eine Hommage in der Nähe von ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.445633,
+                        -31.653096
+                  ]
+            },
+            {
+                  "name": "Museo 'Manuel de Falla'",
+                  "text": "Das Museum Manuel de Falla in ar-casa-virrey-liniers-history-v2 widmet sich dem Leben und dem Erbe des berühmten Komponisten.",
+                  "category": "museum",
+                  "coords": [
+                        -64.446254,
+                        -31.651424
+                  ]
+            },
+            {
+                  "name": "Ernestito",
+                  "text": "Die Attraktion Ernestito beleuchtet die frühe Kindheit von Ernesto Che Guevara in der Region ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.441408,
+                        -31.648799
+                  ]
+            },
+            {
+                  "name": "Inmigrantes",
+                  "text": "Das Inmigrantes-Denkmal ist eine skulpturale Widmung an die Siedler, die in die Region um ar-casa-virrey-liniers-history-v2 eingewandert sind.",
+                  "category": "historical",
+                  "coords": [
+                        -64.429326,
+                        -31.650139
+                  ]
+            },
+            {
+                  "name": "Observatorio Las Punillas",
+                  "text": "Das Observatorio Las Punillas bietet einen erhöhten Aussichtspunkt, um die umliegenden Täler und den Himmel bei ar-casa-virrey-liniers-history-v2 zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -64.434737,
+                        -31.65715
+                  ]
+            },
+            {
+                  "name": "Molino Jesuita",
+                  "text": "Der Molino Jesuita ist ein historisches Steinmühlendenkmal aus der Zeit der Jesuiten in der Nähe von ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.4343,
+                        -31.656076
+                  ]
+            },
+            {
+                  "name": "Museo de la Asociación de Veteranos de Bomberos Voluntarios",
+                  "text": "Dieses Museum zeigt historische Feuerwehrausrüstung und dokumentiert das Erbe der freiwilligen Feuerwehrleute nahe ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.427189,
+                        -31.652739
+                  ]
+            },
+            {
+                  "name": "Monumento entrada a Alta Gracia",
+                  "text": "Dieses Begrüßungsdenkmal steht am Tor von Alta Gracia und empfängt Besucher bei ihrer Ankunft in der Region ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.403915,
+                        -31.637068
+                  ]
+            },
+            {
+                  "name": "Hornilla jesuítica",
+                  "text": "Die Hornilla jesuítica ist eine denkmalgeschützte archäologische Stätte, die einen alten Jesuitenofen in der Nähe von ar-casa-virrey-liniers-history-v2 bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -64.466963,
+                        -31.649842
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Parque de Loyola",
+                  "text": "Das Naturschutzgebiet Parque de Loyola schützt die einheimische Flora und Fauna mit einem Netzwerk ruhiger Wanderwege nahe ar-casa-virrey-liniers-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -64.437309,
+                        -31.641969
+                  ]
+            },
+            {
+                  "name": "Balneario Las Higueritas",
+                  "text": "Balneario Las Higueritas ist ein lokaler Badeort, an dem Besucher am Wasserlauf nahe ar-casa-virrey-liniers-history-v2 schwimmen und entspannen können.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.442691,
+                        -31.658786
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Municipal",
+                  "text": "Das Archäologische Stadtmuseum zeigt regionale Artefakte und antike indigene Relikte, die rund um ar-casa-virrey-liniers-history-v2 gesammelt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -64.431269,
+                        -31.656188
+                  ]
+            },
+            {
+                  "name": "Predio de Colectividades y Polideportivo Municipal",
+                  "text": "Dieser städtische Veranstaltungsort beherbergt lebhafte Kulturfestivals und kommunale Sportveranstaltungen im Bezirk ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.42613,
+                        -31.652069
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Diese christliche Kirche zeichnet sich durch traditionelle Kirchenarchitektur aus und bietet einen ruhigen Ort für Gebete in ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.487957,
+                        -31.646086
+                  ]
+            },
+            {
+                  "name": "Parroquía Buen Pastor",
+                  "text": "Die Parroquía Buen Pastor ist eine christliche Pfarrkirche, die den spirituellen Bedürfnissen der örtlichen Gemeinde in ar-casa-virrey-liniers-history-v2 dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.428446,
+                        -31.644839
+                  ]
+            },
+            {
+                  "name": "Santuario de la Virgen de Lourdes",
+                  "text": "Das Santuario de la Virgen de Lourdes ist ein viel besuchtes Marienheiligtum, das in einer ruhigen Hügellandschaft in ar-casa-virrey-liniers-history-v2 erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -64.457342,
+                        -31.648799
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Carmelitas",
+                  "text": "Die Iglesia Las Carmelitas ist eine Karmelitenkirche, die für ihre markante religiöse Architektur und ihre kontemplative Atmosphäre bei ar-casa-virrey-liniers-history-v2 bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -64.441777,
+                        -31.657419
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses moderne Gemeindehaus dient der Versammlung der Kirche Jesu Christi der Heiligen der Letzten Tage im Viertel ar-casa-virrey-liniers-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -64.43723,
+                        -31.654608
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Victoria",
+                  "text": "Die Iglesia Bautista Victoria ist eine aktive Baptistenkirche, die christliche Gottesdienste und Gemeinschaftsprogramme in ar-casa-virrey-liniers-history-v2 anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.432886,
+                        -31.65294
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Metodista",
+                  "text": "Die Iglesia Evangelica Metodista fungiert als markantes Zentrum für methodistische Gottesdienste und Gemeindetreffen in ar-casa-virrey-liniers-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -64.430997,
+                        -31.653594
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Der Königreichssaal der Zeugen Jehovas bietet einen funktionalen und schmucklosen Raum für biblische Studien und christliche Gottesdienste in ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.427678,
+                        -31.65046
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen",
+                  "text": "Die 1903 eingeweihte Capilla Nuestra Señora del Carmen ist eine charmante historische christliche Kapelle in ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.454027,
+                        -31.584673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lo Quintero",
+                  "text": "A Lo Quintero egy robusztus építészeti vonásokkal rendelkező kastélyépület a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -64.487853,
+                        -31.617371
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Gabriel Dubois",
+                  "text": "A Gabriel Dubois Művészeti Múzeum figyelemre méltó művészeti alkotásokat mutat be a ar-casa-virrey-liniers-history-v2 közelében található kiállítótereiben.",
+                  "category": "museum",
+                  "coords": [
+                        -64.450894,
+                        -31.651757
+                  ]
+            },
+            {
+                  "name": "La Cruz",
+                  "text": "A La Cruz egy feltűnő kereszt-emlékmű, amely tájékozódási pontként szolgál a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -64.459319,
+                        -31.647884
+                  ]
+            },
+            {
+                  "name": "Monumento de las Américas",
+                  "text": "A Monumento de las Américas egy nagyméretű köztéri szobor, amely tiszteleg az amerikai kontinens előtt a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -64.445633,
+                        -31.653096
+                  ]
+            },
+            {
+                  "name": "Museo 'Manuel de Falla'",
+                  "text": "A Manuel de Falla Múzeum a neves zeneszerző életének és örökségének állít emléket a ar-casa-virrey-liniers-history-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -64.446254,
+                        -31.651424
+                  ]
+            },
+            {
+                  "name": "Ernestito",
+                  "text": "Az Ernestito nevű látványosság Ernesto Che Guevara ar-casa-virrey-liniers-history-v2 régióban töltött kora gyermekkori éveit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.441408,
+                        -31.648799
+                  ]
+            },
+            {
+                  "name": "Inmigrantes",
+                  "text": "Az Inmigrantes emlékmű a ar-casa-virrey-liniers-history-v2 környékére vándorolt telepesek előtt tisztelgő szobor.",
+                  "category": "historical",
+                  "coords": [
+                        -64.429326,
+                        -31.650139
+                  ]
+            },
+            {
+                  "name": "Observatorio Las Punillas",
+                  "text": "Az Observatorio Las Punillas egy magaslati kilátópont, ahonnan megfigyelhetők a környező völgyek és az égbolt a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -64.434737,
+                        -31.65715
+                  ]
+            },
+            {
+                  "name": "Molino Jesuita",
+                  "text": "A Molino Jesuita egy történelmi kőmalom emlékmű a jezsuita korszakból a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -64.4343,
+                        -31.656076
+                  ]
+            },
+            {
+                  "name": "Museo de la Asociación de Veteranos de Bomberos Voluntarios",
+                  "text": "Ez a múzeum történelmi tűzoltófelszereléseket állít ki, és bemutatja az önkéntes tűzoltók örökségét a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -64.427189,
+                        -31.652739
+                  ]
+            },
+            {
+                  "name": "Monumento entrada a Alta Gracia",
+                  "text": "Ez az üdvözlő emlékmű Alta Gracia bejáratánál áll, és köszönti a ar-casa-virrey-liniers-history-v2 területére érkező látogatókat.",
+                  "category": "historical",
+                  "coords": [
+                        -64.403915,
+                        -31.637068
+                  ]
+            },
+            {
+                  "name": "Hornilla jesuítica",
+                  "text": "A Hornilla jesuítica egy műemlékvédelmi régészeti lelőhely, amely egy régi jezsuita kemencét őriz a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -64.466963,
+                        -31.649842
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Parque de Loyola",
+                  "text": "A Parque de Loyola Természetvédelmi Terület megóvja az őshonos növény- és állatvilágot egy csendes sétányokból álló hálózattal a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -64.437309,
+                        -31.641969
+                  ]
+            },
+            {
+                  "name": "Balneario Las Higueritas",
+                  "text": "A Balneario Las Higueritas egy helyi fürdőhely, ahol a látogatók úszhatnak és pihenhetnek a vízfolyás mentén a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.442691,
+                        -31.658786
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Municipal",
+                  "text": "A Városi Régészeti Múzeum a ar-casa-virrey-liniers-history-v2 környékén gyűjtött regionális leleteket és ősi őslakos emlékeket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -64.431269,
+                        -31.656188
+                  ]
+            },
+            {
+                  "name": "Predio de Colectividades y Polideportivo Municipal",
+                  "text": "Ez a városi létesítmény nyüzsgő kulturális fesztiváloknak és közösségi sporteseményeknek ad otthont a ar-casa-virrey-liniers-history-v2 kerületben.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.42613,
+                        -31.652069
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a hagyományos egyházi építészettel rendelkező keresztény templom csendes imádkozóhelyet kínál a ar-casa-virrey-liniers-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.487957,
+                        -31.646086
+                  ]
+            },
+            {
+                  "name": "Parroquía Buen Pastor",
+                  "text": "A Parroquía Buen Pastor egy keresztény plébániatemplom, amely a helyi közösség spirituális igényeit szolgálja ki a ar-casa-virrey-liniers-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.428446,
+                        -31.644839
+                  ]
+            },
+            {
+                  "name": "Santuario de la Virgen de Lourdes",
+                  "text": "A Santuario de la Virgen de Lourdes egy sűrűn látogatott Mária-kegyhely, amely egy békés domboldalon épült a ar-casa-virrey-liniers-history-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -64.457342,
+                        -31.648799
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Carmelitas",
+                  "text": "Az Iglesia Las Carmelitas egy karmelita templom, amely jellegzetes vallási építészetéről és elmélyült hangulatáról ismert a ar-casa-virrey-liniers-history-v2 közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -64.441777,
+                        -31.657419
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a modern gyülekezeti ház Az Utolsó Napi Szentek Jézus Krisztus Egyháza gyülekezetét szolgálja a ar-casa-virrey-liniers-history-v2 negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -64.43723,
+                        -31.654608
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Victoria",
+                  "text": "Az Iglesia Bautista Victoria egy aktív baptista templom, amely keresztény istentiszteleteket és közösségi programokat nyújt a ar-casa-virrey-liniers-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.432886,
+                        -31.65294
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Metodista",
+                  "text": "Az Iglesia Evangelica Metodista a metodista istentiszteletek és közösségi összejövetelek kiemelkedő központjaként működik a ar-casa-virrey-liniers-history-v2 régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -64.430997,
+                        -31.653594
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi Királyság-terme praktikus és díszítetlen teret biztosít a bibliai tanulmányozáshoz és a keresztény imádatot a ar-casa-virrey-liniers-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.427678,
+                        -31.65046
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen",
+                  "text": "Az 1903-ban felavatott Capilla Nuestra Señora del Carmen egy elbűvölő történelmi keresztény kápolna a ar-casa-virrey-liniers-history-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.454027,
+                        -31.584673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lo Quintero",
+                  "text": "Lo Quintero este o structură de castel cu trăsături arhitecturale robuste, situată lângă ar-casa-virrey-liniers-history-v2.",
+                  "category": "castle",
+                  "coords": [
+                        -64.487853,
+                        -31.617371
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Gabriel Dubois",
+                  "text": "Muzeul de Artă Gabriel Dubois prezintă lucrări artistice remarcabile în spațiile sale de expoziție de lângă ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.450894,
+                        -31.651757
+                  ]
+            },
+            {
+                  "name": "La Cruz",
+                  "text": "La Cruz este un monument sub formă de cruce, care servește drept punct de reper important lângă ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.459319,
+                        -31.647884
+                  ]
+            },
+            {
+                  "name": "Monumento de las Américas",
+                  "text": "Monumento de las Américas este un tribut sculptural public de mari dimensiuni, situat în vecinătatea orașului ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.445633,
+                        -31.653096
+                  ]
+            },
+            {
+                  "name": "Museo 'Manuel de Falla'",
+                  "text": "Muzeul Manuel de Falla este dedicat vieții și moștenirii renumitului compozitor din ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.446254,
+                        -31.651424
+                  ]
+            },
+            {
+                  "name": "Ernestito",
+                  "text": "Atracția Ernestito evidențiază anii de început ai copilăriei lui Ernesto Che Guevara petrecuți în regiunea ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.441408,
+                        -31.648799
+                  ]
+            },
+            {
+                  "name": "Inmigrantes",
+                  "text": "Monumentul Inmigrantes este o dedicație sculpturală adresată coloniștilor care au migrat în regiunea din jurul ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.429326,
+                        -31.650139
+                  ]
+            },
+            {
+                  "name": "Observatorio Las Punillas",
+                  "text": "Observatorio Las Punillas oferă un punct de observație la înălțime pentru a privi văile din jur și cerul lângă ar-casa-virrey-liniers-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -64.434737,
+                        -31.65715
+                  ]
+            },
+            {
+                  "name": "Molino Jesuita",
+                  "text": "Molino Jesuita este un monument istoric al unei mori de piatră din epoca iezuită, situat lângă ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.4343,
+                        -31.656076
+                  ]
+            },
+            {
+                  "name": "Museo de la Asociación de Veteranos de Bomberos Voluntarios",
+                  "text": "Acest muzeu expune echipamente istorice de stingere a incendiilor și prezintă moștenirea pompierilor voluntari din apropiere de ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.427189,
+                        -31.652739
+                  ]
+            },
+            {
+                  "name": "Monumento entrada a Alta Gracia",
+                  "text": "Acest monument de bun venit stă la porțile orașului Alta Gracia, întâmpinând vizitatorii care sosesc în zona ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.403915,
+                        -31.637068
+                  ]
+            },
+            {
+                  "name": "Hornilla jesuítica",
+                  "text": "Hornilla jesuítica este un sit arheologic de patrimoniu care conservă un vechi cuptor iezuit lângă ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.466963,
+                        -31.649842
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Parque de Loyola",
+                  "text": "Rezervația Naturală Parque de Loyola protejează flora și fauna nativă printr-o rețea de poteci liniștite de plimbare lângă ar-casa-virrey-liniers-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -64.437309,
+                        -31.641969
+                  ]
+            },
+            {
+                  "name": "Balneario Las Higueritas",
+                  "text": "Balneario Las Higueritas este un loc de scăldat local unde vizitatorii pot înota și se pot relaxa de-a lungul cursului de apă de lângă ar-casa-virrey-liniers-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.442691,
+                        -31.658786
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Municipal",
+                  "text": "Muzeul Arheologic Municipal expune artefacte regionale și relicve indigene antice colectate în jurul orașului ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.431269,
+                        -31.656188
+                  ]
+            },
+            {
+                  "name": "Predio de Colectividades y Polideportivo Municipal",
+                  "text": "Această locație municipală găzduiește festivaluri culturale pline de viață și evenimente sportive comunitare în cartierul ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.42613,
+                        -31.652069
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Această biserică creștină prezintă o arhitectură ecleziastică tradițională, oferind un spațiu liniștit pentru rugăciune în ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.487957,
+                        -31.646086
+                  ]
+            },
+            {
+                  "name": "Parroquía Buen Pastor",
+                  "text": "Parroquía Buen Pastor este o biserică parohială creștină care servește nevoilor spirituale ale comunității locale din ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.428446,
+                        -31.644839
+                  ]
+            },
+            {
+                  "name": "Santuario de la Virgen de Lourdes",
+                  "text": "Santuario de la Virgen de Lourdes este un sanctuar marian foarte vizitat, construit într-un decor liniștit pe un deal din ar-casa-virrey-liniers-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -64.457342,
+                        -31.648799
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Carmelitas",
+                  "text": "Iglesia Las Carmelitas este o biserică carmelită cunoscută pentru arhitectura sa religioasă distinctivă și atmosfera contemplativă din apropiere de ar-casa-virrey-liniers-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -64.441777,
+                        -31.657419
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri modernă servește congregației Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din cartierul ar-casa-virrey-liniers-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -64.43723,
+                        -31.654608
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Victoria",
+                  "text": "Iglesia Bautista Victoria este o biserică baptistă activă care oferă slujbe creștine și programe de părtășie în ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.432886,
+                        -31.65294
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Metodista",
+                  "text": "Iglesia Evangelica Metodista funcționează ca un centru proeminent pentru cultul metodist și adunările comunității în ar-casa-virrey-liniers-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -64.430997,
+                        -31.653594
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Sala Regatului a Martorilor lui Iehova oferă un spațiu funcțional și neîmpodobit pentru studiul biblic și închinarea creștină în ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.427678,
+                        -31.65046
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen",
+                  "text": "Inaugurată în 1903, Capilla Nuestra Señora del Carmen este o capelă creștină istorică fermecătoare, situată în ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.454027,
+                        -31.584673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lo Quintero",
+                  "text": "Lo Quintero is a local castle structure with robust architectural features located near ar-casa-virrey-liniers-history-v2.",
+                  "category": "castle",
+                  "coords": [
+                        -64.487853,
+                        -31.617371
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Gabriel Dubois",
+                  "text": "The Gabriel Dubois Art Museum showcases notable artistic works in its dedicated exhibition spaces near ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.450894,
+                        -31.651757
+                  ]
+            },
+            {
+                  "name": "La Cruz",
+                  "text": "La Cruz is a prominent cross monument standing as a landmark near ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.459319,
+                        -31.647884
+                  ]
+            },
+            {
+                  "name": "Monumento de las Américas",
+                  "text": "The Monumento de las Américas is a large public sculptural tribute situated in the vicinity of ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.445633,
+                        -31.653096
+                  ]
+            },
+            {
+                  "name": "Museo 'Manuel de Falla'",
+                  "text": "The Manuel de Falla Museum is dedicated to the life and legacy of the renowned composer in ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.446254,
+                        -31.651424
+                  ]
+            },
+            {
+                  "name": "Ernestito",
+                  "text": "The Ernestito attraction highlights the early childhood years of Ernesto Che Guevara spent in the region of ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.441408,
+                        -31.648799
+                  ]
+            },
+            {
+                  "name": "Inmigrantes",
+                  "text": "The Inmigrantes monument is a sculptural dedication to the settlers who migrated to the region around ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.429326,
+                        -31.650139
+                  ]
+            },
+            {
+                  "name": "Observatorio Las Punillas",
+                  "text": "Observatorio Las Punillas provides an elevated vantage point for observing the surrounding valleys and skies near ar-casa-virrey-liniers-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -64.434737,
+                        -31.65715
+                  ]
+            },
+            {
+                  "name": "Molino Jesuita",
+                  "text": "The Molino Jesuita is a historic stone mill monument dating back to the Jesuit era near ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.4343,
+                        -31.656076
+                  ]
+            },
+            {
+                  "name": "Museo de la Asociación de Veteranos de Bomberos Voluntarios",
+                  "text": "This museum displays historic firefighting equipment and chronicles the legacy of volunteer firefighters near ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.427189,
+                        -31.652739
+                  ]
+            },
+            {
+                  "name": "Monumento entrada a Alta Gracia",
+                  "text": "This welcome monument stands at the gateway of Alta Gracia, greeting visitors as they arrive in the ar-casa-virrey-liniers-history-v2 area.",
+                  "category": "historical",
+                  "coords": [
+                        -64.403915,
+                        -31.637068
+                  ]
+            },
+            {
+                  "name": "Hornilla jesuítica",
+                  "text": "The Hornilla jesuítica is a heritage-listed archaeological site preserving an old Jesuit furnace near ar-casa-virrey-liniers-history-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -64.466963,
+                        -31.649842
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Parque de Loyola",
+                  "text": "The Parque de Loyola Nature Reserve protects native flora and fauna with a network of tranquil walking paths near ar-casa-virrey-liniers-history-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -64.437309,
+                        -31.641969
+                  ]
+            },
+            {
+                  "name": "Balneario Las Higueritas",
+                  "text": "Balneario Las Higueritas is a local bathing spot where visitors can swim and relax along the watercourse near ar-casa-virrey-liniers-history-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.442691,
+                        -31.658786
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Municipal",
+                  "text": "The Municipal Archaeological Museum exhibits regional artifacts and ancient indigenous relics collected around ar-casa-virrey-liniers-history-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -64.431269,
+                        -31.656188
+                  ]
+            },
+            {
+                  "name": "Predio de Colectividades y Polideportivo Municipal",
+                  "text": "This municipal venue hosts lively cultural festivals and community sports events within the ar-casa-virrey-liniers-history-v2 district.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.42613,
+                        -31.652069
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "This Christian church features traditional ecclesiastical architecture offering a quiet space for prayer in ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.487957,
+                        -31.646086
+                  ]
+            },
+            {
+                  "name": "Parroquía Buen Pastor",
+                  "text": "The Parroquía Buen Pastor is a Christian parish church serving the spiritual needs of the local community in ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.428446,
+                        -31.644839
+                  ]
+            },
+            {
+                  "name": "Santuario de la Virgen de Lourdes",
+                  "text": "The Santuario de la Virgen de Lourdes is a well-visited Marian shrine constructed into a tranquil hillside setting in ar-casa-virrey-liniers-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -64.457342,
+                        -31.648799
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Carmelitas",
+                  "text": "Iglesia Las Carmelitas is a Carmelite church known for its distinctive religious architecture and contemplative atmosphere near ar-casa-virrey-liniers-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -64.441777,
+                        -31.657419
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This modern meetinghouse serves the congregation of The Church of Jesus Christ of Latter-day Saints in the ar-casa-virrey-liniers-history-v2 neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -64.43723,
+                        -31.654608
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Victoria",
+                  "text": "Iglesia Bautista Victoria is an active Baptist church providing Christian services and fellowship programs in ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.432886,
+                        -31.65294
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Metodista",
+                  "text": "The Iglesia Evangelica Metodista functions as a prominent center for Methodist worship and community gatherings in ar-casa-virrey-liniers-history-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -64.430997,
+                        -31.653594
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "The Kingdom Hall of Jehovah's Witnesses offers a functional and unadorned space for biblical study and Christian worship in ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.427678,
+                        -31.65046
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen",
+                  "text": "Inaugurated in 1903, the Capilla Nuestra Señora del Carmen is a charming historical Christian chapel located in ar-casa-virrey-liniers-history-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.454027,
+                        -31.584673
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic colonial house associated with Viceroy Santiago de Liniers, reflecting colonial history.",
       hu: "Az utolsó spanyol alkirályok egyikének rezidenciája Buenos Airesben. Az épület a gyarmati építészet kiváló példája, és fontos szerepet játszott az 1806-os angol invázió idején.",
@@ -1147,7 +12001,1168 @@ image: "/poi-images/ar-casa-virrey-liniers-history-v2.webp",
       fr: ["Construite à la fin du XVIIe siècle comme résidence des administrateurs jésuites.", "Le vice-roi Santiago de Liniers acquit le domaine en 1807.", "Fait partie du patrimoine mondial de l'UNESCO depuis 2000.", "Plan carré avec cour intérieure centrale.", "Liniers y fut arrêté en 1810 par les troupes révolutionnaires.", "Abrite une riche collection de mobilier colonial et d'art sacré.", "L'architecture préserve des éléments jésuites et républicains d'origine.", "Principale attraction culturelle de la ville d'Alta Gracia."],
     }, image: "/poi-images/ar-casa-virrey-liniers-history-v2.webp"},
   {
-    id: "ar-casa-sarmiento-history-v2",
+    id: "ar-casa-sarmiento-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Histórico Cultural Sanmartiniano",
+                  "text": "Museum in San Juan, das die ursprüngliche Dominikanerzelle bewahrt, in der sich General José de San Martín 1815 aufhielt.",
+                  "category": "museum",
+                  "coords": [
+                        -68.526456,
+                        -31.535426
+                  ]
+            },
+            {
+                  "name": "Catedral San Juan Bautista",
+                  "text": "Modernistische katholische Kathedrale in San Juan, die nach dem verheerenden Erdbeben von 1944 mit einem separaten Glockenturm einzigartig wiederaufgebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -68.525911,
+                        -31.537053
+                  ]
+            },
+            {
+                  "name": "Museo Historico Provincial Agustín Gnecco",
+                  "text": "Historisches Provinzmuseum in San Juan mit Sammlungen von antiker Numismatik, Relikten aus der Kolonialzeit und regionalen Dokumenten.",
+                  "category": "museum",
+                  "coords": [
+                        -68.513427,
+                        -31.537006
+                  ]
+            },
+            {
+                  "name": "Escudo Provincial Iluminado",
+                  "text": "Beleuchtetes öffentliches Denkmal in San Juan, das das offizielle Wappen der Provinz zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -68.518524,
+                        -31.536762
+                  ]
+            },
+            {
+                  "name": "Cruce de los Andes",
+                  "text": "Denkmal in San Juan zum Gedenken an die historische Überquerung der Anden durch die Befreiungsarmee im Jahr 1817.",
+                  "category": "historical",
+                  "coords": [
+                        -68.526968,
+                        -31.534276
+                  ]
+            },
+            {
+                  "name": "Ciudad de San Juan",
+                  "text": "Ziviles Denkmal in San Juan, das die Gründung und die dauerhafte Identität der Stadt symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        -68.523741,
+                        -31.523055
+                  ]
+            },
+            {
+                  "name": "Espacio Cultural de Capital",
+                  "text": "Kulturraum in San Juan, in dem Kunstausstellungen, Workshops und bürgerliche Zusammenkünfte für die Hauptstadt stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.514585,
+                        -31.530665
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de San juan",
+                  "text": "Klassisches Theatergebäude in San Juan, das als wichtiger Veranstaltungsort für Theaterstücke, musikalische Darbietungen und städtische Veranstaltungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.525064,
+                        -31.538017
+                  ]
+            },
+            {
+                  "name": "Parroquia Villa el Salvador",
+                  "text": "Katholische Pfarrkirche, die den religiösen Bedürfnissen und Gemeinschaftsveranstaltungen des Viertels Villa el Salvador in San Juan dient.",
+                  "category": "religious",
+                  "coords": [
+                        -68.535447,
+                        -31.509044
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Itatí",
+                  "text": "Katholische Kapelle in San Juan, die der Jungfrau von Itatí gewidmet ist und eine beliebte nordöstliche Andacht in die westliche Provinz bringt.",
+                  "category": "religious",
+                  "coords": [
+                        -68.487647,
+                        -31.534502
+                  ]
+            },
+            {
+                  "name": "Monolito Fundacional",
+                  "text": "Dieser Gründungsmonolith ist ein historisches Gedenkzeichen in der Region San Juan.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.524253,
+                        -31.514601
+                  ]
+            },
+            {
+                  "name": "Palmera de 2 Brazos",
+                  "text": "Diese seltene zweiarmige Palme ist eine einzigartige botanische Attraktion in der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.52568,
+                        -31.523789
+                  ]
+            },
+            {
+                  "name": "Club de Autos y Motos antigüas de San Juan",
+                  "text": "Dieser lokale Club präsentiert erhaltene Oldtimer und historische Motorräder aus der Automobilgeschichte von San Juan.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.47712,
+                        -31.556181
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "Diese christliche Kapelle ist dem Heiligen Kajetan gewidmet und bietet einen ruhigen Ort für lokale Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.42018,
+                        -31.536644
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "Diese dem Heiligen Antonius von Padua geweihte christliche Kirche dient der lokalen katholischen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.440981,
+                        -31.537018
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses Gemeindehaus dient der lokalen Versammlung der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.50608,
+                        -31.535521
+                  ]
+            },
+            {
+                  "name": "Parroquia Espíritu Santo",
+                  "text": "Die Pfarrei des Heiligen Geistes ist ein christliches Gotteshaus, das dem Viertel mit regelmäßigen Gottesdiensten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.511325,
+                        -31.528002
+                  ]
+            },
+            {
+                  "name": "Oratorio San Pedro",
+                  "text": "Das Oratorium St. Peter ist ein kleiner christlicher Gebetssaal, der für die private Andacht und den Gemeindegottesdienst bestimmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.476003,
+                        -31.488776
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de Andacollo",
+                  "text": "Diese religiöse Grotte birgt eine Figur der Jungfrau von Andacollo und zieht lokale Marienverehrer an.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.535404,
+                        -31.49036
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario de Andacollo",
+                  "text": "Diese Pfarrkirche ist Unserer Lieben Frau vom Rosenkranz von Andacollo gewidmet und pflegt starke kulturelle Bindungen an marianische Traditionen.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.531907,
+                        -31.493317
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "Dieser Königreichssaal ist das lokale religiöse Zentrum, in dem sich Jehovas Zeugen zum Bibelstudium und Gottesdienst versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.530193,
+                        -31.491923
+                  ]
+            },
+            {
+                  "name": "Iglesia El Kairos",
+                  "text": "Die Iglesia El Kairos ist eine aktive christliche Kirche, die der Gemeinde spirituelle Führung und evangelische Gottesdienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.517063,
+                        -31.505249
+                  ]
+            },
+            {
+                  "name": "Iglesia Elohim",
+                  "text": "Die Elohim-Kirche dient als lokales christliches Gottesdienstzentrum, das sich dem Gebet und der biblischen Lehre widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.518125,
+                        -31.513011
+                  ]
+            },
+            {
+                  "name": "Capilla Señor y Virgen del Milagro",
+                  "text": "Diese christliche Kapelle zentriert ihre Andacht auf den Herrn und die Jungfrau des Wunders, eine bedeutende lokale religiöse Tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.528018,
+                        -31.511078
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Candelaria",
+                  "text": "Diese der Jungfrau von Candelaria gewidmete christliche Kirche verfügt über traditionelle religiöse Kunstwerke und feiert regelmäßige katholische Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.522328,
+                        -31.512599
+                  ]
+            },
+            {
+                  "name": "Iglesia Vida Eterna",
+                  "text": "Die Iglesia Vida Eterna ist eine lokale protestantische Gemeinde, die regelmäßige Bibelstunden und Gemeindegottesdienste abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.516415,
+                        -31.533667
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica",
+                  "text": "Diese evangelisch-christliche Kirche bietet einen bescheidenen Saal für Gemeindegesang, Gebet und Schriftlesungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.514375,
+                        -31.532292
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Nueva Vida",
+                  "text": "Diese christliche Kirche fungiert als spirituelle Mission und konzentriert sich auf die Gemeindearbeit und evangelische Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.512424,
+                        -31.533316
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten versammelt sich samstags und folgt den traditionellen Sabbat-Gottesdienstpraktiken der Konfession.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.519667,
+                        -31.534928
+                  ]
+            },
+            {
+                  "name": "Jezreel",
+                  "text": "Jezreel ist ein lokales christliches Gottesdienstzentrum, das nach dem biblischen Tal benannt ist und regelmäßige Gemeindegebete anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.5181,
+                        -31.533459
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa de Lima",
+                  "text": "Diese Kapelle ist der ersten Heiligen Amerikas gewidmet und bietet einen ruhigen Ort zur Verehrung der Heiligen Rosa von Lima.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.523547,
+                        -31.533107
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblia Libre",
+                  "text": "Die Iglesia Biblia Libre ist eine protestantische christliche Gemeinde, deren Zentrum die unabhängige Auslegung der Heiligen Schrift und offene Gottesdienste sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.518632,
+                        -31.464904
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Histórico Cultural Sanmartiniano",
+                  "text": "Múzeum San Juanban, amely megőrzi azt az eredeti domonkos cellát, ahol José de San Martín tábornok szállt meg 1815-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -68.526456,
+                        -31.535426
+                  ]
+            },
+            {
+                  "name": "Catedral San Juan Bautista",
+                  "text": "Modernista katolikus katedrális San Juanban, amelyet az 1944-es pusztító földrengés után egyedülálló módon, különálló harangtoronnyal építettek újjá.",
+                  "category": "religious",
+                  "coords": [
+                        -68.525911,
+                        -31.537053
+                  ]
+            },
+            {
+                  "name": "Museo Historico Provincial Agustín Gnecco",
+                  "text": "Tartományi történelmi múzeum San Juanban, amely antik numizmatikai gyűjteményeket, gyarmati kori ereklyéket és regionális dokumentumokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.513427,
+                        -31.537006
+                  ]
+            },
+            {
+                  "name": "Escudo Provincial Iluminado",
+                  "text": "Kivilágított köztéri emlékmű San Juanban, amely a tartomány hivatalos címerét ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        -68.518524,
+                        -31.536762
+                  ]
+            },
+            {
+                  "name": "Cruce de los Andes",
+                  "text": "Emlékmű San Juanban, amely a felszabadító hadsereg 1817-es történelmi Andok-átkelésének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -68.526968,
+                        -31.534276
+                  ]
+            },
+            {
+                  "name": "Ciudad de San Juan",
+                  "text": "Polgári emlékmű San Juanban, amely a város alapítását és tartós identitását szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        -68.523741,
+                        -31.523055
+                  ]
+            },
+            {
+                  "name": "Espacio Cultural de Capital",
+                  "text": "Kulturális tér San Juanban, amely művészeti kiállításoknak, workshopoknak és a főváros polgári összejöveteleinek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.514585,
+                        -31.530665
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de San juan",
+                  "text": "Klasszikus színházépület San Juanban, amely színdarabok, zenei előadások és önkormányzati események kulcsfontosságú helyszíneként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.525064,
+                        -31.538017
+                  ]
+            },
+            {
+                  "name": "Parroquia Villa el Salvador",
+                  "text": "Katolikus plébániatemplom, amely a San Juan-i Villa el Salvador negyed vallási igényeit és közösségi eseményeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -68.535447,
+                        -31.509044
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Itatí",
+                  "text": "Az Itatí Szűzanyának szentelt katolikus kápolna San Juanban, amely egy népszerű északkeleti áhítatot hoz a nyugati tartományba.",
+                  "category": "religious",
+                  "coords": [
+                        -68.487647,
+                        -31.534502
+                  ]
+            },
+            {
+                  "name": "Monolito Fundacional",
+                  "text": "Ez az alapítókő történelmi emlékműként szolgál a San Juan-i régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.524253,
+                        -31.514601
+                  ]
+            },
+            {
+                  "name": "Palmera de 2 Brazos",
+                  "text": "Ez a ritka, kétágú pálmafa egyedülálló botanikai látványosság a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.52568,
+                        -31.523789
+                  ]
+            },
+            {
+                  "name": "Club de Autos y Motos antigüas de San Juan",
+                  "text": "Ez a helyi klub San Juan autóipari történelméből származó, megőrzött klasszikus autókat és veterán motorkerékpárokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.47712,
+                        -31.556181
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "Ez a Szent Kajetánnak szentelt keresztény kápolna csendes helyet kínál a helyi istentiszteletek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.42018,
+                        -31.536644
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "A Páduai Szent Antalnak szentelt keresztény templom a helyi katolikus közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.440981,
+                        -31.537018
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a gyülekezeti ház Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.50608,
+                        -31.535521
+                  ]
+            },
+            {
+                  "name": "Parroquia Espíritu Santo",
+                  "text": "A Szentlélek Plébánia egy keresztény istentiszteleti hely, amely rendszeres vallási szertartásokkal szolgálja a környéket.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.511325,
+                        -31.528002
+                  ]
+            },
+            {
+                  "name": "Oratorio San Pedro",
+                  "text": "A Szent Péter oratórium egy kis keresztény imaterem, amelyet magánáhítatra és közösségi istentiszteletre jelöltek ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.476003,
+                        -31.488776
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de Andacollo",
+                  "text": "Ez a vallási barlang az Andacollói Szűz alakját őrzi, vonzva a helyi Mária-tisztelőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.535404,
+                        -31.49036
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario de Andacollo",
+                  "text": "Ez a plébániatemplom az Andacollói Rózsafüzér Királynőjének van szentelve, és erős kulturális szálakkal kötődik a Mária-hagyományokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.531907,
+                        -31.493317
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "Ez a Királyság-terem a helyi vallási központ, ahol Jehova Tanúi bibliatanulmányozásra és istentiszteletre gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.530193,
+                        -31.491923
+                  ]
+            },
+            {
+                  "name": "Iglesia El Kairos",
+                  "text": "Az Iglesia El Kairos egy aktív keresztény egyház, amely spirituális útmutatást és evangéliumi istentiszteleteket nyújt a közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.517063,
+                        -31.505249
+                  ]
+            },
+            {
+                  "name": "Iglesia Elohim",
+                  "text": "Az Elohim Templom helyi keresztény istentiszteleti központként szolgál, amelyet az imának és a bibliai tanításnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.518125,
+                        -31.513011
+                  ]
+            },
+            {
+                  "name": "Capilla Señor y Virgen del Milagro",
+                  "text": "Ez a keresztény kápolna áhítatának középpontjában a Csoda Ura és Szüze áll, amely jelentős helyi vallási hagyomány.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.528018,
+                        -31.511078
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Candelaria",
+                  "text": "A Candelaria Szűznek szentelt keresztény templom hagyományos vallási műalkotásokkal és rendszeres katolikus misékkel várja a híveket.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.522328,
+                        -31.512599
+                  ]
+            },
+            {
+                  "name": "Iglesia Vida Eterna",
+                  "text": "Az Iglesia Vida Eterna egy helyi protestáns gyülekezet, amely rendszeres bibliatanulmányozásokat és közösségi istentiszteleteket tart.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.516415,
+                        -31.533667
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica",
+                  "text": "Ez az evangéliumi keresztény egyház egy szerény termet biztosít a gyülekezeti énekléshez, imához és szentírás-olvasáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.514375,
+                        -31.532292
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Nueva Vida",
+                  "text": "Ez a spirituális misszióként működő keresztény egyház a közösségi munkára és az evangéliumi istentiszteletekre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.512424,
+                        -31.533316
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "A szombatonként összegyűlő Hetednapi Adventista Egyház a felekezet hagyományos szombati istentiszteleti gyakorlatait követi.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.519667,
+                        -31.534928
+                  ]
+            },
+            {
+                  "name": "Jezreel",
+                  "text": "A Jezreel a bibliai völgyről elnevezett helyi keresztény istentiszteleti központ, amely rendszeres közösségi imaszolgálatokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.5181,
+                        -31.533459
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa de Lima",
+                  "text": "Az Amerika első szentjének szentelt kápolna csendes teret biztosít Limai Szent Róza tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.523547,
+                        -31.533107
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblia Libre",
+                  "text": "Az Iglesia Biblia Libre egy protestáns keresztény gyülekezet, amelynek középpontjában az önálló szentírás-értelmezés és a nyitott istentisztelet áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.518632,
+                        -31.464904
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Histórico Cultural Sanmartiniano",
+                  "text": "Muzeu în San Juan care păstrează celula originală dominicană unde a stat generalul José de San Martín în 1815.",
+                  "category": "museum",
+                  "coords": [
+                        -68.526456,
+                        -31.535426
+                  ]
+            },
+            {
+                  "name": "Catedral San Juan Bautista",
+                  "text": "Catedrală catolică modernistă din San Juan, reconstruită în mod unic cu o clopotniță separată după cutremurul devastator din 1944.",
+                  "category": "religious",
+                  "coords": [
+                        -68.525911,
+                        -31.537053
+                  ]
+            },
+            {
+                  "name": "Museo Historico Provincial Agustín Gnecco",
+                  "text": "Muzeu istoric provincial din San Juan, care deține colecții de numismatică veche, relicve din perioada colonială și documente regionale.",
+                  "category": "museum",
+                  "coords": [
+                        -68.513427,
+                        -31.537006
+                  ]
+            },
+            {
+                  "name": "Escudo Provincial Iluminado",
+                  "text": "Monument public iluminat din San Juan care afișează stema oficială a provinciei.",
+                  "category": "historical",
+                  "coords": [
+                        -68.518524,
+                        -31.536762
+                  ]
+            },
+            {
+                  "name": "Cruce de los Andes",
+                  "text": "Structură memorială în San Juan care comemorează istorica Trecere a Anzilor din 1817 de către armata de eliberare.",
+                  "category": "historical",
+                  "coords": [
+                        -68.526968,
+                        -31.534276
+                  ]
+            },
+            {
+                  "name": "Ciudad de San Juan",
+                  "text": "Monument civic situat în San Juan, simbolizând fondarea și identitatea durabilă a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -68.523741,
+                        -31.523055
+                  ]
+            },
+            {
+                  "name": "Espacio Cultural de Capital",
+                  "text": "Spațiu cultural din San Juan care găzduiește expoziții de artă, ateliere și adunări civice pentru capitală.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.514585,
+                        -31.530665
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de San juan",
+                  "text": "Clădire de teatru clasic din San Juan care funcționează ca un loc cheie pentru piese de teatru, spectacole muzicale și evenimente municipale.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.525064,
+                        -31.538017
+                  ]
+            },
+            {
+                  "name": "Parroquia Villa el Salvador",
+                  "text": "Biserică parohială catolică care deservește nevoile religioase și evenimentele comunitare din cartierul Villa el Salvador din San Juan.",
+                  "category": "religious",
+                  "coords": [
+                        -68.535447,
+                        -31.509044
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Itatí",
+                  "text": "Capelă catolică din San Juan dedicată Fecioarei din Itatí, aducând un devotament popular din nord-est în provincia vestică.",
+                  "category": "religious",
+                  "coords": [
+                        -68.487647,
+                        -31.534502
+                  ]
+            },
+            {
+                  "name": "Monolito Fundacional",
+                  "text": "Acest monolit fondator servește ca un reper istoric comemorativ în regiunea San Juan.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.524253,
+                        -31.514601
+                  ]
+            },
+            {
+                  "name": "Palmera de 2 Brazos",
+                  "text": "Acest palmier rar cu două brațe este o atracție botanică unică în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.52568,
+                        -31.523789
+                  ]
+            },
+            {
+                  "name": "Club de Autos y Motos antigüas de San Juan",
+                  "text": "Acest club local prezintă mașini clasice conservate și motociclete de epocă din istoria auto a orașului San Juan.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.47712,
+                        -31.556181
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "Această capelă creștină este dedicată Sfântului Caietan, oferind un spațiu liniștit pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.42018,
+                        -31.536644
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "Dedicată Sfântului Anton de Padova, această biserică creștină deservește comunitatea catolică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.440981,
+                        -31.537018
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri deservește congregația locală a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.50608,
+                        -31.535521
+                  ]
+            },
+            {
+                  "name": "Parroquia Espíritu Santo",
+                  "text": "Parohia Sfântul Duh este un lăcaș de cult creștin care deservește cartierul cu slujbe religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.511325,
+                        -31.528002
+                  ]
+            },
+            {
+                  "name": "Oratorio San Pedro",
+                  "text": "Oratoriul Sfântul Petru este o mică sală de rugăciune creștină destinată devotamentului privat și cultului comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.476003,
+                        -31.488776
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de Andacollo",
+                  "text": "Această grotă religioasă adăpostește o figură a Fecioarei din Andacollo, atrăgând devotații mariani locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.535404,
+                        -31.49036
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario de Andacollo",
+                  "text": "Această biserică parohială este dedicată Maicii Domnului a Rozariului din Andacollo, menținând legături culturale puternice cu tradițiile mariane.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.531907,
+                        -31.493317
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "Această Sală a Regatului este centrul religios local unde Martorii lui Iehova se adună pentru studiu biblic și închinare.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.530193,
+                        -31.491923
+                  ]
+            },
+            {
+                  "name": "Iglesia El Kairos",
+                  "text": "Biserica El Kairos este o biserică creștină activă care oferă îndrumare spirituală și slujbe evanghelice comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.517063,
+                        -31.505249
+                  ]
+            },
+            {
+                  "name": "Iglesia Elohim",
+                  "text": "Biserica Elohim servește drept centru local de cult creștin dedicat rugăciunii și învățăturii biblice.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.518125,
+                        -31.513011
+                  ]
+            },
+            {
+                  "name": "Capilla Señor y Virgen del Milagro",
+                  "text": "Această capelă creștină își concentrează devotamentul asupra Domnului și Fecioarei Miracolului, o importantă tradiție religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.528018,
+                        -31.511078
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Candelaria",
+                  "text": "Dedicată Fecioarei din Candelaria, această biserică creștină prezintă opere de artă religioasă tradițională și găzduiește liturghii catolice regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.522328,
+                        -31.512599
+                  ]
+            },
+            {
+                  "name": "Iglesia Vida Eterna",
+                  "text": "Iglesia Vida Eterna este o congregație protestantă locală care organizează sesiuni regulate de studiu biblic și închinare comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.516415,
+                        -31.533667
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica",
+                  "text": "Această biserică creștină evanghelică oferă o sală modestă pentru cântări congregaționale, rugăciune și citiri din scripturi.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.514375,
+                        -31.532292
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Nueva Vida",
+                  "text": "Funcționând ca o misiune spirituală, această biserică creștină se concentrează pe asistență comunitară și slujbe evanghelice.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.512424,
+                        -31.533316
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Adunându-se sâmbăta, această biserică adventistă de ziua a șaptea urmează practicile tradiționale de închinare de Sabat ale confesiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.519667,
+                        -31.534928
+                  ]
+            },
+            {
+                  "name": "Jezreel",
+                  "text": "Jezreel este un centru local de cult creștin numit după valea biblică, oferind slujbe regulate de rugăciune comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.5181,
+                        -31.533459
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa de Lima",
+                  "text": "Dedicată primei sfinte din America, această capelă oferă un spațiu liniștit pentru venerarea Sfintei Roza de Lima.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.523547,
+                        -31.533107
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblia Libre",
+                  "text": "Iglesia Biblia Libre este o congregație creștină protestantă centrată pe interpretarea independentă a scripturilor și pe închinarea deschisă.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.518632,
+                        -31.464904
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Histórico Cultural Sanmartiniano",
+                  "text": "Museum in San Juan preserving the original Dominican cell where General José de San Martín stayed in 1815.",
+                  "category": "museum",
+                  "coords": [
+                        -68.526456,
+                        -31.535426
+                  ]
+            },
+            {
+                  "name": "Catedral San Juan Bautista",
+                  "text": "Modernist Catholic cathedral in San Juan, uniquely rebuilt with a separate bell tower after the devastating 1944 earthquake.",
+                  "category": "religious",
+                  "coords": [
+                        -68.525911,
+                        -31.537053
+                  ]
+            },
+            {
+                  "name": "Museo Historico Provincial Agustín Gnecco",
+                  "text": "Provincial historical museum in San Juan holding collections of antique numismatics, colonial period relics, and regional documents.",
+                  "category": "museum",
+                  "coords": [
+                        -68.513427,
+                        -31.537006
+                  ]
+            },
+            {
+                  "name": "Escudo Provincial Iluminado",
+                  "text": "Illuminated public monument in San Juan displaying the official coat of arms of the province.",
+                  "category": "historical",
+                  "coords": [
+                        -68.518524,
+                        -31.536762
+                  ]
+            },
+            {
+                  "name": "Cruce de los Andes",
+                  "text": "Memorial structure in San Juan commemorating the historic 1817 Crossing of the Andes by the liberating army.",
+                  "category": "historical",
+                  "coords": [
+                        -68.526968,
+                        -31.534276
+                  ]
+            },
+            {
+                  "name": "Ciudad de San Juan",
+                  "text": "Civic monument standing in San Juan, symbolizing the foundation and enduring identity of the city.",
+                  "category": "historical",
+                  "coords": [
+                        -68.523741,
+                        -31.523055
+                  ]
+            },
+            {
+                  "name": "Espacio Cultural de Capital",
+                  "text": "Cultural space in San Juan that hosts art exhibitions, workshops, and civic gatherings for the capital.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.514585,
+                        -31.530665
+                  ]
+            },
+            {
+                  "name": "Municipal Theatre",
+                  "text": "Classical theatre building in San Juan operating as a key venue for plays, musical performances, and municipal events.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.525064,
+                        -31.538017
+                  ]
+            },
+            {
+                  "name": "Parroquia Villa el Salvador",
+                  "text": "Catholic parish church serving the religious needs and community events of the Villa el Salvador neighborhood in San Juan.",
+                  "category": "religious",
+                  "coords": [
+                        -68.535447,
+                        -31.509044
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Itatí",
+                  "text": "Catholic chapel in San Juan dedicated to the Virgin of Itatí, bringing a popular northeastern devotion to the western province.",
+                  "category": "religious",
+                  "coords": [
+                        -68.487647,
+                        -31.534502
+                  ]
+            },
+            {
+                  "name": "Monolito Fundacional",
+                  "text": "This foundational monolith stands as a commemorative historic marker in the San Juan region.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.524253,
+                        -31.514601
+                  ]
+            },
+            {
+                  "name": "Palmera de 2 Brazos",
+                  "text": "This rare two-armed palm tree is a unique botanical attraction in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.52568,
+                        -31.523789
+                  ]
+            },
+            {
+                  "name": "Club de Autos y Motos antigüas de San Juan",
+                  "text": "This local club showcases preserved classic cars and vintage motorcycles from San Juan's automotive history.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.47712,
+                        -31.556181
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "This Christian chapel is dedicated to Saint Cajetan, offering a quiet space for local worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.42018,
+                        -31.536644
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "Dedicated to Saint Anthony of Padua, this Christian church serves the local Catholic community.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.440981,
+                        -31.537018
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This meetinghouse serves the local congregation of the Church of Jesus Christ of Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.50608,
+                        -31.535521
+                  ]
+            },
+            {
+                  "name": "Parroquia Espíritu Santo",
+                  "text": "The Holy Spirit Parish is a Christian house of worship serving the neighborhood with regular religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.511325,
+                        -31.528002
+                  ]
+            },
+            {
+                  "name": "Oratorio San Pedro",
+                  "text": "The Saint Peter Oratory is a small Christian prayer hall designated for private devotion and community worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.476003,
+                        -31.488776
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de Andacollo",
+                  "text": "This religious grotto enshrines a figure of the Virgin of Andacollo, attracting local Marian devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.535404,
+                        -31.49036
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Rosario de Andacollo",
+                  "text": "This parish church is dedicated to Our Lady of the Rosary of Andacollo, maintaining strong cultural ties to Marian traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.531907,
+                        -31.493317
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "This Kingdom Hall is the local religious center where Jehovah's Witnesses gather for biblical study and worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.530193,
+                        -31.491923
+                  ]
+            },
+            {
+                  "name": "Iglesia El Kairos",
+                  "text": "Iglesia El Kairos is an active Christian church providing spiritual guidance and evangelical services to the community.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.517063,
+                        -31.505249
+                  ]
+            },
+            {
+                  "name": "Iglesia Elohim",
+                  "text": "The Elohim Church serves as a local Christian worship center dedicated to prayer and biblical teaching.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.518125,
+                        -31.513011
+                  ]
+            },
+            {
+                  "name": "Capilla Señor y Virgen del Milagro",
+                  "text": "This Christian chapel centers its devotion on the Lord and Virgin of the Miracle, a significant local religious tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.528018,
+                        -31.511078
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Candelaria",
+                  "text": "Dedicated to the Virgin of Candelaria, this Christian church features traditional religious artwork and regular Catholic masses.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.522328,
+                        -31.512599
+                  ]
+            },
+            {
+                  "name": "Iglesia Vida Eterna",
+                  "text": "Iglesia Vida Eterna is a local Protestant congregation holding regular Bible study sessions and community worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.516415,
+                        -31.533667
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Evangélica",
+                  "text": "This evangelical Christian church provides a modest hall for congregational singing, prayer, and scripture readings.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.514375,
+                        -31.532292
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Nueva Vida",
+                  "text": "Functioning as a spiritual mission, this Christian church focuses on community outreach and evangelical services.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.512424,
+                        -31.533316
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Gathering on Saturdays, this Seventh-day Adventist church follows the denomination's traditional Sabbath worship practices.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.519667,
+                        -31.534928
+                  ]
+            },
+            {
+                  "name": "Jezreel",
+                  "text": "Jezreel is a local Christian worship center named after the biblical valley, offering regular community prayer services.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.5181,
+                        -31.533459
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa de Lima",
+                  "text": "Dedicated to the first saint of the Americas, this chapel provides a quiet space for venerating Saint Rose of Lima.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.523547,
+                        -31.533107
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblia Libre",
+                  "text": "Iglesia Biblia Libre is a Protestant Christian congregation centered on independent scriptural interpretation and open worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.518632,
+                        -31.464904
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The birthplace and historical home of Domingo Faustino Sarmiento, a former Argentine president.",
       hu: "Domingo Faustino Sarmiento, a nagy argentin elnök és tanító szülőháza San Juanban. A ház ma múzeum, amely az államférfi életét és munkásságát mutatja be.",
@@ -1199,7 +13214,952 @@ image: "/poi-images/ar-casa-sarmiento-history-v2.webp",
       fr: ["Premier bâtiment classé monument national en Argentine (1910).", "Sarmiento y est né le 15 février 1811.", "Le figuier historique de la cour intérieure existe toujours aujourd'hui.", "Construite en 1801 par Paula Albarracín.", "Abrite la pièce où Sarmiento fonda sa première école.", "Musée avec bibliothèque originale et manuscrits.", "L'un des rares bâtiments coloniaux ayant survécu au séisme de 1944.", "Bibliothèque consacrée à l'importante œuvre littéraire de Sarmiento."],
     }, image: "/poi-images/ar-casa-sarmiento-history-v2.webp"},
   {
-    id: "ar-cabildo-salta-history-v2",
+    id: "ar-cabildo-salta-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Casa Arias Rengel",
+                  "text": "Dieses Museum in Salta ist in einem kolonialen Herrenhaus untergebracht und bewahrt das architektonische Erbe und die Kunst der Familie Arias Rengel.",
+                  "category": "museum",
+                  "coords": [
+                        -65.412536,
+                        -24.790032
+                  ]
+            },
+            {
+                  "name": "Museo de Güemes",
+                  "text": "Dieses Museum in Salta bietet interaktive Ausstellungen, die dem Leben und den Feldzügen des Generals Martín Miguel de Güemes gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        -65.412799,
+                        -24.788343
+                  ]
+            },
+            {
+                  "name": "Museo Catedralicio Monseñor Carlos Mariano Pérez",
+                  "text": "Dieses Museum in der Nähe der Kathedrale von Salta stellt historische religiöse Artefakte und sakrale Kunst aus.",
+                  "category": "museum",
+                  "coords": [
+                        -65.410476,
+                        -24.787823
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporáneo",
+                  "text": "Dieses Museum im Stadtzentrum von Salta präsentiert moderne bildende Kunst und zeitgenössische argentinische Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -65.409522,
+                        -24.788828
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología de Alta Montaña",
+                  "text": "Dieses berühmte Museum in Salta bewahrt die perfekt gefrorenen Inka-Mumien auf, die auf dem Vulkan Llullaillaco entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -65.410932,
+                        -24.789049
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Merced",
+                  "text": "Diese katholische Kirche in Salta zeichnet sich durch eine markante neugotische Fassade aus und beherbergt das historische Kreuz der Schlacht von Salta.",
+                  "category": "religious",
+                  "coords": [
+                        -65.414404,
+                        -24.789838
+                  ]
+            },
+            {
+                  "name": "Museo de Bellas Artes",
+                  "text": "Dieses Museum für schöne Künste in Salta befindet sich in einem reich verzierten Herrenhaus im französischen Stil und stellt klassische und moderne regionale Kunstwerke aus.",
+                  "category": "museum",
+                  "coords": [
+                        -65.415941,
+                        -24.786553
+                  ]
+            },
+            {
+                  "name": "Cabildo de Salta",
+                  "text": "Dieses gut erhaltene koloniale Rathaus in Salta fungiert heute als historisches Museum, in dem präkolumbianische und postkoloniale Artefakte ausgestellt sind.",
+                  "category": "museum",
+                  "coords": [
+                        -65.41059,
+                        -24.790059
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Candelaria de la Viña",
+                  "text": "Diese farbenfrohe Kirche aus dem 19. Jahrhundert in Salta zeichnet sich durch ihren 44 Meter hohen Glockenturm im italienischen Stil aus.",
+                  "category": "religious",
+                  "coords": [
+                        -65.411096,
+                        -24.795819
+                  ]
+            },
+            {
+                  "name": "Parroquia del Carmen",
+                  "text": "Diese christliche Pfarrei in Salta versammelt eine lokale Gemeinde zu Gottesdiensten, die Unserer Lieben Frau auf dem Berge Karmel gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.438085,
+                        -24.791049
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jorge",
+                  "text": "Diese christliche Kirche in Salta dient der örtlichen Gemeinschaft mit religiösen Zeremonien zu Ehren des Heiligen Georg.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.415554,
+                        -24.792534
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Consolacion y Correa",
+                  "text": "Dieses christliche Heiligtum in Salta konzentriert seinen Gemeindegottesdienst auf die Verehrung Unserer Lieben Frau vom Trost.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420746,
+                        -24.812278
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "Diese christliche Kapelle in Salta fungiert als Nachbarschaftskirche, die dem Heiligen Kajetan gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.488267,
+                        -24.844695
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses Gemeindehaus in Salta beherbergt lokale Gemeinden der Heiligen der Letzten Tage für Gottesdienste und das Studium der heiligen Schriften.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.4437,
+                        -24.848005
+                  ]
+            },
+            {
+                  "name": "Parroquía de Louedes",
+                  "text": "Eine christliche Pfarrkirche im historischen Viertel von Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.44955,
+                        -24.846055
+                  ]
+            },
+            {
+                  "name": "Stella Maris",
+                  "text": "Eine christliche Kultstätte im historischen Viertel von Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.425194,
+                        -24.82995
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Eine Kirche der Heiligen der Letzten Tage für die christliche Gemeinde im historischen Zentrum von Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.439627,
+                        -24.810104
+                  ]
+            },
+            {
+                  "name": "Nra. Sra. de la Salud",
+                  "text": "Eine christliche Stätte, die Unserer Lieben Frau von der Gesundheit im historischen Viertel von Salta gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.428519,
+                        -24.812366
+                  ]
+            },
+            {
+                  "name": "Santa Lucía",
+                  "text": "Eine der Heiligen Lucia gewidmete christliche Kirche in der historischen Umgebung von Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.440544,
+                        -24.808275
+                  ]
+            },
+            {
+                  "name": "María Auxiliadora",
+                  "text": "Ein christliches Heiligtum namens Maria Hilf im historischen Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420398,
+                        -24.788894
+                  ]
+            },
+            {
+                  "name": "Templo de Salta Argentina",
+                  "text": "Der Salta-Argentinien-Tempel ist ein bedeutender Tempel der Heiligen der Letzten Tage mit markanter Architektur in der historischen Umgebung von Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.46943,
+                        -24.837877
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "Eine anerkannte christliche Pfarrkirche, die dem Apostel Petrus in der historischen Region von Salta geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.440851,
+                        -24.797806
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Atocha",
+                  "text": "Eine der Jungfrau von Atocha gewidmete christliche Kapelle im historischen Viertel von Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.480948,
+                        -24.817011
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de las Nieves",
+                  "text": "Eine christliche Kirche zu Ehren der Muttergottes vom Schnee im historischen Viertel von Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.423801,
+                        -24.796647
+                  ]
+            },
+            {
+                  "name": "Catedral de Los Milagros",
+                  "text": "Eine christliche Kathedrale der Wunder in der historischen Region von Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420243,
+                        -24.808676
+                  ]
+            },
+            {
+                  "name": "Mercado San Miguel",
+                  "text": "Ein belebter überdachter Marktplatz, der lokale Waren und landwirtschaftliche Produkte im historischen Herzen von Salta anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.413548,
+                        -24.79268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Casa Arias Rengel",
+                  "text": "A gyarmati kori kastélyban helyet kapó saltai múzeum az Arias Rengel család építészeti és művészeti örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -65.412536,
+                        -24.790032
+                  ]
+            },
+            {
+                  "name": "Museo de Güemes",
+                  "text": "Ez a saltai múzeum Martín Miguel de Güemes tábornok életét és katonai hadjáratait bemutató interaktív kiállításokkal várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        -65.412799,
+                        -24.788343
+                  ]
+            },
+            {
+                  "name": "Museo Catedralicio Monseñor Carlos Mariano Pérez",
+                  "text": "A katedrális közelében található saltai múzeum történelmi vallási tárgyakat és szakrális művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.410476,
+                        -24.787823
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporáneo",
+                  "text": "A városközpontban található saltai múzeum modern vizuális művészeteket és kortárs argentin kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.409522,
+                        -24.788828
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología de Alta Montaña",
+                  "text": "Ez a híres saltai múzeum a Llullaillaco vulkánon felfedezett, tökéletesen fagyott inka múmiákat őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -65.410932,
+                        -24.789049
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Merced",
+                  "text": "Ez a saltai katolikus templom lenyűgöző neogótikus homlokzattal büszkélkedhet, és itt őrzik a saltai csata történelmi keresztjét.",
+                  "category": "religious",
+                  "coords": [
+                        -65.414404,
+                        -24.789838
+                  ]
+            },
+            {
+                  "name": "Museo de Bellas Artes",
+                  "text": "Ez a saltai szépművészeti múzeum egy díszes francia stílusú kastélyban található, és klasszikus, valamint modern regionális műalkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -65.415941,
+                        -24.786553
+                  ]
+            },
+            {
+                  "name": "Cabildo de Salta",
+                  "text": "Ez a jól megőrzött gyarmati kori városháza Saltában ma történelmi múzeumként működik, prekolumbiánus és posztkoloniális leleteket mutatva be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.41059,
+                        -24.790059
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Candelaria de la Viña",
+                  "text": "Ezt a színes 19. századi saltai templomot 44 méter magas, olaszos stílusú harangtornya teszi különlegessé.",
+                  "category": "religious",
+                  "coords": [
+                        -65.411096,
+                        -24.795819
+                  ]
+            },
+            {
+                  "name": "Parroquia del Carmen",
+                  "text": "Ez a saltai keresztény plébánia a Kármelhegyi Boldogasszonynak szentelt istentiszteletekre gyűjti össze a helyi gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.438085,
+                        -24.791049
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jorge",
+                  "text": "Ez a saltai keresztény templom a Szent György tiszteletére rendezett vallási szertartásokkal szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.415554,
+                        -24.792534
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Consolacion y Correa",
+                  "text": "Ez a saltai keresztény szentély közösségi istentiszteleteit a Vigasztaló Szűzanya tisztelete köré összpontosítja.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420746,
+                        -24.812278
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "Ez a saltai keresztény kápolna Szent Kajetánnak szentelt környékbeli istentiszteleti helyként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.488267,
+                        -24.844695
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a saltai gyülekezeti ház a helyi Utolsó Napi Szentek közösségének ad otthont istentiszteletek és szentírás-tanulmányozás céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.4437,
+                        -24.848005
+                  ]
+            },
+            {
+                  "name": "Parroquía de Louedes",
+                  "text": "Egy keresztény plébániatemplom, amely Salta történelmi negyedében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.44955,
+                        -24.846055
+                  ]
+            },
+            {
+                  "name": "Stella Maris",
+                  "text": "Egy keresztény istentiszteleti hely Salta történelmi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.425194,
+                        -24.82995
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek egyháza, amely a keresztény közösséget szolgálja Salta történelmi szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.439627,
+                        -24.810104
+                  ]
+            },
+            {
+                  "name": "Nra. Sra. de la Salud",
+                  "text": "Az Egészség Miasszonyunk tiszteletére szentelt keresztény vallási hely Salta történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.428519,
+                        -24.812366
+                  ]
+            },
+            {
+                  "name": "Santa Lucía",
+                  "text": "A Szent Lúciának szentelt keresztény templom Salta történelmi környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.440544,
+                        -24.808275
+                  ]
+            },
+            {
+                  "name": "María Auxiliadora",
+                  "text": "A Keresztények Segítsége Máriáról elnevezett keresztény szentély a történelmi Saltában.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420398,
+                        -24.788894
+                  ]
+            },
+            {
+                  "name": "Templo de Salta Argentina",
+                  "text": "A Salta Argentína Templom az Utolsó Napi Szentek egy jelentős temploma, amely jellegzetes építészettel büszkélkedhet Salta történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.46943,
+                        -24.837877
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "Egy elismert keresztény plébániatemplom, amelyet Szent Péter apostolnak szenteltek Salta történelmi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.440851,
+                        -24.797806
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Atocha",
+                  "text": "Az Atochai Miasszonyunknak szentelt keresztény kápolna Salta történelmi negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.480948,
+                        -24.817011
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de las Nieves",
+                  "text": "A Havas Boldogasszony tiszteletére emelt keresztény templom Salta történelmi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.423801,
+                        -24.796647
+                  ]
+            },
+            {
+                  "name": "Catedral de Los Milagros",
+                  "text": "A csodák keresztény katedrálisa Salta történelmi régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420243,
+                        -24.808676
+                  ]
+            },
+            {
+                  "name": "Mercado San Miguel",
+                  "text": "Egy nyüzsgő fedett piac, amely helyi árukat és termékeket kínál Salta történelmi szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.413548,
+                        -24.79268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Casa Arias Rengel",
+                  "text": "Găzduit într-un conac colonial, acest muzeu din Salta păstrează moștenirea arhitecturală și arta familiei Arias Rengel.",
+                  "category": "museum",
+                  "coords": [
+                        -65.412536,
+                        -24.790032
+                  ]
+            },
+            {
+                  "name": "Museo de Güemes",
+                  "text": "Acest muzeu din Salta prezintă expoziții interactive dedicate vieții și campaniilor militare ale generalului Martín Miguel de Güemes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.412799,
+                        -24.788343
+                  ]
+            },
+            {
+                  "name": "Museo Catedralicio Monseñor Carlos Mariano Pérez",
+                  "text": "Situat lângă catedrală, acest muzeu din Salta expune artefacte religioase istorice și artă sacră.",
+                  "category": "museum",
+                  "coords": [
+                        -65.410476,
+                        -24.787823
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporáneo",
+                  "text": "Situat în centrul orașului, acest muzeu din Salta prezintă arte vizuale moderne și expoziții contemporane argentiniene.",
+                  "category": "museum",
+                  "coords": [
+                        -65.409522,
+                        -24.788828
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología de Alta Montaña",
+                  "text": "Acest renumit muzeu din Salta păstrează mumiile incașe perfect înghețate descoperite pe vulcanul Llullaillaco.",
+                  "category": "museum",
+                  "coords": [
+                        -65.410932,
+                        -24.789049
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Merced",
+                  "text": "Această biserică catolică din Salta are o fațadă neogotică impresionantă și adăpostește crucea istorică a Bătăliei de la Salta.",
+                  "category": "religious",
+                  "coords": [
+                        -65.414404,
+                        -24.789838
+                  ]
+            },
+            {
+                  "name": "Museo de Bellas Artes",
+                  "text": "Acest muzeu de arte frumoase din Salta ocupă un conac bogat ornamentat în stil francez și expune opere de artă regionale clasice și moderne.",
+                  "category": "museum",
+                  "coords": [
+                        -65.415941,
+                        -24.786553
+                  ]
+            },
+            {
+                  "name": "Cabildo de Salta",
+                  "text": "Această primărie colonială bine conservată din Salta funcționează acum ca un muzeu istoric care expune artefacte precolumbiene și postcoloniale.",
+                  "category": "museum",
+                  "coords": [
+                        -65.41059,
+                        -24.790059
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Candelaria de la Viña",
+                  "text": "Această biserică colorată din secolul al XIX-lea din Salta se distinge prin clopotnița sa în stil italian, înaltă de 44 de metri.",
+                  "category": "religious",
+                  "coords": [
+                        -65.411096,
+                        -24.795819
+                  ]
+            },
+            {
+                  "name": "Parroquia del Carmen",
+                  "text": "Această parohie creștină din Salta adună o congregație locală pentru slujbe dedicate Maicii Domnului de pe Muntele Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.438085,
+                        -24.791049
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jorge",
+                  "text": "Această biserică creștină din Salta deservește comunitatea locală cu ceremonii religioase în onoarea Sfântului Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.415554,
+                        -24.792534
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Consolacion y Correa",
+                  "text": "Acest sanctuar creștin din Salta își centrează închinarea comunității pe devotamentul față de Maica Domnului a Mângâierii.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420746,
+                        -24.812278
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "Această capelă creștină din Salta acționează ca un lăcaș de cult de cartier dedicat Sfântului Cajetan.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.488267,
+                        -24.844695
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri din Salta găzduiește congregațiile locale ale Sfinților din Zilele din Urmă pentru închinare și studiul scripturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.4437,
+                        -24.848005
+                  ]
+            },
+            {
+                  "name": "Parroquía de Louedes",
+                  "text": "O biserică parohială creștină situată în zona istorică din Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.44955,
+                        -24.846055
+                  ]
+            },
+            {
+                  "name": "Stella Maris",
+                  "text": "Un lăcaș de cult creștin situat în zona istorică din Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.425194,
+                        -24.82995
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O biserică a Sfinților din Zilele din Urmă care servește comunitatea creștină din inima istorică a orașului Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.439627,
+                        -24.810104
+                  ]
+            },
+            {
+                  "name": "Nra. Sra. de la Salud",
+                  "text": "Un sit religios creștin dedicat Maicii Domnului a Sănătății în cartierul istoric Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.428519,
+                        -24.812366
+                  ]
+            },
+            {
+                  "name": "Santa Lucía",
+                  "text": "O biserică creștină dedicată Sfintei Lucia în împrejurimile istorice din Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.440544,
+                        -24.808275
+                  ]
+            },
+            {
+                  "name": "María Auxiliadora",
+                  "text": "Un sanctuar creștin numit după Maria Ajutorul Creștinilor, situat în Salta istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420398,
+                        -24.788894
+                  ]
+            },
+            {
+                  "name": "Templo de Salta Argentina",
+                  "text": "Templul Salta Argentina este un templu notabil al Sfinților din Zilele din Urmă, cu o arhitectură distinctivă, în zona istorică a orașului Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.46943,
+                        -24.837877
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "O recunoscută biserică parohială creștină dedicată Sfântului Apostol Petru, în regiunea istorică Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.440851,
+                        -24.797806
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Atocha",
+                  "text": "O capelă creștină dedicată Maicii Domnului din Atocha, în cartierul istoric Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.480948,
+                        -24.817011
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de las Nieves",
+                  "text": "O biserică creștină care o onorează pe Maica Domnului a Zăpezilor, situată în zona istorică Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.423801,
+                        -24.796647
+                  ]
+            },
+            {
+                  "name": "Catedral de Los Milagros",
+                  "text": "O catedrală creștină a miracolelor, situată în regiunea istorică Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420243,
+                        -24.808676
+                  ]
+            },
+            {
+                  "name": "Mercado San Miguel",
+                  "text": "O piață interioară plină de viață care oferă bunuri și produse locale în inima istorică a orașului Salta.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.413548,
+                        -24.79268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Casa Arias Rengel",
+                  "text": "Housed in a colonial mansion, this Salta museum preserves the architectural legacy and art of the Arias Rengel family.",
+                  "category": "museum",
+                  "coords": [
+                        -65.412536,
+                        -24.790032
+                  ]
+            },
+            {
+                  "name": "Museo de Güemes",
+                  "text": "This museum in Salta features interactive exhibits dedicated to the life and military campaigns of General Martín Miguel de Güemes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.412799,
+                        -24.788343
+                  ]
+            },
+            {
+                  "name": "Museo Catedralicio Monseñor Carlos Mariano Pérez",
+                  "text": "Situated near the cathedral, this museum in Salta exhibits historical religious artifacts and sacred art.",
+                  "category": "museum",
+                  "coords": [
+                        -65.410476,
+                        -24.787823
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporáneo",
+                  "text": "Located in the city center, this Salta museum showcases modern visual arts and contemporary Argentine exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -65.409522,
+                        -24.788828
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología de Alta Montaña",
+                  "text": "This renowned museum in Salta preserves the perfectly frozen Incan mummies discovered on the Llullaillaco volcano.",
+                  "category": "museum",
+                  "coords": [
+                        -65.410932,
+                        -24.789049
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Merced",
+                  "text": "This Catholic church in Salta features a striking neo-Gothic facade and houses the historic Cross of the Battle of Salta.",
+                  "category": "religious",
+                  "coords": [
+                        -65.414404,
+                        -24.789838
+                  ]
+            },
+            {
+                  "name": "Museo de Bellas Artes",
+                  "text": "This fine arts museum in Salta occupies an ornate French-style mansion and exhibits classical and modern regional artworks.",
+                  "category": "museum",
+                  "coords": [
+                        -65.415941,
+                        -24.786553
+                  ]
+            },
+            {
+                  "name": "Cabildo de Salta",
+                  "text": "This well-preserved colonial town hall in Salta now operates as a historical museum displaying pre-Columbian and post-colonial artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -65.41059,
+                        -24.790059
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Candelaria de la Viña",
+                  "text": "This colorful 19th-century church in Salta is distinguished by its 44-meter-tall Italianate bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        -65.411096,
+                        -24.795819
+                  ]
+            },
+            {
+                  "name": "Parroquia del Carmen",
+                  "text": "This Christian parish in Salta gathers a local congregation for services dedicated to Our Lady of Mount Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.438085,
+                        -24.791049
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jorge",
+                  "text": "This Christian church in Salta serves the local community with religious ceremonies honoring Saint George.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.415554,
+                        -24.792534
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Consolacion y Correa",
+                  "text": "This Christian sanctuary in Salta centers its community worship on the devotion to Our Lady of Consolation.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420746,
+                        -24.812278
+                  ]
+            },
+            {
+                  "name": "Capilla San Cayetano",
+                  "text": "This Christian chapel in Salta acts as a neighborhood place of worship dedicated to Saint Cajetan.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.488267,
+                        -24.844695
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This meetinghouse in Salta accommodates local Latter-day Saint congregations for worship and scripture study.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.4437,
+                        -24.848005
+                  ]
+            },
+            {
+                  "name": "Parroquía de Louedes",
+                  "text": "A Christian parish church situated in the historic Salta area.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.44955,
+                        -24.846055
+                  ]
+            },
+            {
+                  "name": "Stella Maris",
+                  "text": "A Christian place of worship located in the historic area of Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.425194,
+                        -24.82995
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A Latter-day Saints church serving the Christian community in the historic heart of Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.439627,
+                        -24.810104
+                  ]
+            },
+            {
+                  "name": "Nra. Sra. de la Salud",
+                  "text": "A Christian religious site dedicated to Our Lady of Health in the historic Salta district.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.428519,
+                        -24.812366
+                  ]
+            },
+            {
+                  "name": "Santa Lucía",
+                  "text": "A Christian church dedicated to Saint Lucy in the historic surroundings of Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.440544,
+                        -24.808275
+                  ]
+            },
+            {
+                  "name": "María Auxiliadora",
+                  "text": "A Christian sanctuary named after Mary Help of Christians located in historic Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420398,
+                        -24.788894
+                  ]
+            },
+            {
+                  "name": "Salta Argentina Temple",
+                  "text": "The Salta Argentina Temple is a notable Latter-day Saint temple featuring distinctive architecture in the historic area of Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.46943,
+                        -24.837877
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "A recognized Christian parish church dedicated to Saint Peter the Apostle in the historic region of Salta.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.440851,
+                        -24.797806
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Atocha",
+                  "text": "A Christian chapel dedicated to Our Lady of Atocha in the historic Salta district.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.480948,
+                        -24.817011
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de las Nieves",
+                  "text": "A Christian church honouring Our Lady of the Snows situated in the historic Salta area.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.423801,
+                        -24.796647
+                  ]
+            },
+            {
+                  "name": "Catedral de Los Milagros",
+                  "text": "A Christian cathedral of miracles located in the historic Salta region.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.420243,
+                        -24.808676
+                  ]
+            },
+            {
+                  "name": "Mercado San Miguel",
+                  "text": "A bustling indoor marketplace offering local goods and produce in the historic heart of Salta.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.413548,
+                        -24.79268
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A well-preserved colonial building that functioned as the administrative center in Salta.",
       hu: "Salta városának egykori városháza, az ország legjobban megőrzött ilyen típusú épülete. Ma az Északnyugati Történelmi Múzeumnak ad otthont.",
@@ -1251,7 +14211,1096 @@ image: "/poi-images/ar-cabildo-salta-history-v2.webp",
       es: ["Edificio actual terminado alrededor de 1780.", "La torre del reloj posee una de las pocas maquinarias originales en funcionamiento de la región.", "Colección de arte colonial más importante del norte argentino.", "Declarado Monumento Histórico Nacional en 1941.", "Galería de arcadas (recova) con 14 arcos en la planta baja.", "Belgrano y Güemes frecuentaban este lugar.", "Sala dedicada al 'Éxodo Jujeño' de 1812.", "La torre ofrece una vista única de la Plaza 9 de Julio."],
     }, image: "/poi-images/ar-cabildo-salta-history-v2.webp"},
   {
-    id: "ar-convento-san-bernardo-history-v2",
+    id: "ar-convento-san-bernardo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento a Güemes",
+                  "text": "Ein markantes Denkmal zu Ehren von General Martín Miguel de Güemes, das seine Rolle in der argentinischen Unabhängigkeit feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -65.399235,
+                        -24.786741
+                  ]
+            },
+            {
+                  "name": "Convento San Bernardo",
+                  "text": "Ein historisches Karmeliterkloster, das an seinem wunderschönen geschnitzten Portal aus Johannisbrotbaumholz aus dem Jahr 1762 erkennbar ist.",
+                  "category": "religious",
+                  "coords": [
+                        -65.403746,
+                        -24.790358
+                  ]
+            },
+            {
+                  "name": "Cerro San Bernardo",
+                  "text": "Ein markanter Hügel, der sich über Salta erhebt und von seinem mit der Seilbahn erreichbaren Gipfel einen Panoramablick auf die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.392585,
+                        -24.789358
+                  ]
+            },
+            {
+                  "name": "Cerro La Candelaria",
+                  "text": "Ein bemerkenswerter Berggipfel im Gebiet von Salta, der Naturlandschaften und Wandermöglichkeiten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.357376,
+                        -24.817697
+                  ]
+            },
+            {
+                  "name": "Museo de Antropología Dr Juan Martín Leguizamón",
+                  "text": "Ein anthropologisches Museum, das der lokalen Geschichte und den Kulturen nachspürt und ursprünglich 1975 gegründet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -65.397747,
+                        -24.786223
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Ein Naturkundemuseum, das die regionale Flora, Fauna und geologische Geschichte im historischen Viertel von Salta zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -65.403095,
+                        -24.795674
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y Cultura",
+                  "text": "Ein Kulturmuseum, das sich der Erhaltung und Ausstellung des reichen historischen Erbes der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -65.403935,
+                        -24.808659
+                  ]
+            },
+            {
+                  "name": "Facundo de Zuviría",
+                  "text": "Ein öffentliches Denkmal zum Gedenken an die historische Figur Facundo de Zuviría im Viertel San Bernardo.",
+                  "category": "historical",
+                  "coords": [
+                        -65.404217,
+                        -24.79431
+                  ]
+            },
+            {
+                  "name": "Monumento San Martín",
+                  "text": "Ein Denkmal zu Ehren von General José de San Martín im historischen Viertel San Bernardo.",
+                  "category": "historical",
+                  "coords": [
+                        -65.401078,
+                        -24.794768
+                  ]
+            },
+            {
+                  "name": "La Palúdica",
+                  "text": "Ein Kunstzentrum im historischen ehemaligen Gebäude der Anti-Malaria-Kampagne in Salta.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.4047,
+                        -24.787489
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Doctor Gustavo \"Cuchi\" Leguizamón",
+                  "text": "Ein lokales Theater, das nach dem berühmten Musiker Gustavo „Cuchi“ Leguizamón benannt ist und verschiedene regionale Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.402748,
+                        -24.793843
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de Urkupiña",
+                  "text": "Eine religiöse Grotte, die als Kultstätte der Jungfrau von Urkupiña dient.",
+                  "category": "religious",
+                  "coords": [
+                        -65.383395,
+                        -24.818522
+                  ]
+            },
+            {
+                  "name": "Templo Filadelfia V. Monica",
+                  "text": "Eine lokale Kultstätte der Filadelfia-Gemeinde im Viertel San Bernardo.",
+                  "category": "religious",
+                  "coords": [
+                        -65.38314,
+                        -24.810053
+                  ]
+            },
+            {
+                  "name": "Gruta San Cayetano",
+                  "text": "Eine kleine Andachtsgrotte, die dem Heiligen Kajetan gewidmet ist und einen ruhigen Ort zum Beten bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -65.377347,
+                        -24.809061
+                  ]
+            },
+            {
+                  "name": "gruta en memoria de juan perez",
+                  "text": "Eine Gedenkgrotte, die als Kultstätte in Erinnerung an Juan Perez dient.",
+                  "category": "religious",
+                  "coords": [
+                        -65.376228,
+                        -24.800578
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal M. I.",
+                  "text": "Eine Pfingstkirche, die der Umgebung einen Ort der Anbetung und der Gemeindezusammenkunft bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -65.391782,
+                        -24.821242
+                  ]
+            },
+            {
+                  "name": "Gruta San José Obrero",
+                  "text": "Eine religiöse Grotte, die dem Heiligen Josef dem Arbeiter gewidmet ist und den örtlichen Gläubigen dient.",
+                  "category": "religious",
+                  "coords": [
+                        -65.390437,
+                        -24.821188
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista de 20 de Junio",
+                  "text": "Eine Adventistenkirche, die der lokalen Religionsgemeinschaft im Gebiet von San Bernardo dient.",
+                  "category": "religious",
+                  "coords": [
+                        -65.386586,
+                        -24.817724
+                  ]
+            },
+            {
+                  "name": "Vicaría B° San Benito",
+                  "text": "Ein katholisches Vikariat, das den religiösen Bedürfnissen des Viertels San Benito dient.",
+                  "category": "religious",
+                  "coords": [
+                        -65.390234,
+                        -24.835215
+                  ]
+            },
+            {
+                  "name": "Cartel de Salta",
+                  "text": "Ein großes, buntes Schild mit der Aufschrift „Salta“, das als ikonische Fotoattraktion für Touristen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.390053,
+                        -24.798534
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen del Milagro",
+                  "text": "Diese christliche Grotte ist der Jungfrau des Wunders gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.398285,
+                        -24.79614
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dies ist ein Königreichssaal, der der örtlichen Gemeinde der Zeugen Jehovas dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.373438,
+                        -24.794333
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico \"Cristo viene\"",
+                  "text": "Diese christliche Stätte fungiert als evangelischer Tempel.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.382189,
+                        -24.818634
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses Gemeindehaus dient der örtlichen christlichen Gemeinschaft der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.37602,
+                        -24.80835
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa de Lima",
+                  "text": "Diese christliche Kirche ist der Heiligen Rosa von Lima gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.396318,
+                        -24.803929
+                  ]
+            },
+            {
+                  "name": "Vicaría Sagrado Corazón",
+                  "text": "Dieses christliche Vikariat zentriert seine Anbetung um das Heiligste Herz.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.389397,
+                        -24.819125
+                  ]
+            },
+            {
+                  "name": "Vicaria San Francisco Solano",
+                  "text": "Dieses christliche Vikariat ehrt den Heiligen Franziskus Solanus.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.389223,
+                        -24.828584
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Diese christliche Andachtsstätte ist der Heiligen Dreifaltigkeit gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.396454,
+                        -24.84217
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Huerto",
+                  "text": "Diese christliche Pfarrkirche ist nach Unserer Lieben Frau vom Garten benannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.376745,
+                        -24.813907
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Cruz",
+                  "text": "Diese christliche Kirche hat ihren Namen vom Heiligen Kreuz.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.403649,
+                        -24.806245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento a Güemes",
+                  "text": "Egy kiemelkedő emlékmű Martín Miguel de Güemes tábornok tiszteletére, amely az argentin függetlenségben játszott szerepét ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -65.399235,
+                        -24.786741
+                  ]
+            },
+            {
+                  "name": "Convento San Bernardo",
+                  "text": "Egy történelmi kármelita kolostor, amely 1762-ből származó, gyönyörűen faragott szentjánoskenyérfa portáljáról ismerhető fel.",
+                  "category": "religious",
+                  "coords": [
+                        -65.403746,
+                        -24.790358
+                  ]
+            },
+            {
+                  "name": "Cerro San Bernardo",
+                  "text": "Egy kiemelkedő domb, amely Salta fölé magasodik, és a felvonóval megközelíthető csúcsáról panorámás kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -65.392585,
+                        -24.789358
+                  ]
+            },
+            {
+                  "name": "Cerro La Candelaria",
+                  "text": "Egy jelentős hegycsúcs Salta környékén, amely természeti tájakat és túrázási lehetőségeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -65.357376,
+                        -24.817697
+                  ]
+            },
+            {
+                  "name": "Museo de Antropología Dr Juan Martín Leguizamón",
+                  "text": "A helyi történelmet és kultúrákat bemutató antropológiai múzeum, amelyet 1975-ben alapítottak.",
+                  "category": "museum",
+                  "coords": [
+                        -65.397747,
+                        -24.786223
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Egy természettudományi múzeum, amely a regionális növény- és állatvilágot, valamint a geológiai történelmet mutatja be Salta történelmi negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -65.403095,
+                        -24.795674
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y Cultura",
+                  "text": "Egy kulturális múzeum, amelyet a régió gazdag történelmi örökségének megőrzésének és kiállításának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -65.403935,
+                        -24.808659
+                  ]
+            },
+            {
+                  "name": "Facundo de Zuviría",
+                  "text": "Egy köztéri emlékmű, amely Facundo de Zuviría történelmi személyiségnek állít emléket a San Bernardo negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        -65.404217,
+                        -24.79431
+                  ]
+            },
+            {
+                  "name": "Monumento San Martín",
+                  "text": "Egy emlékmű, amely José de San Martín tábornokot tiszteli a történelmi San Bernardo negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        -65.401078,
+                        -24.794768
+                  ]
+            },
+            {
+                  "name": "La Palúdica",
+                  "text": "Egy művészeti központ, amely Salta egykori, történelmi maláriaellenes kampányépületében kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.4047,
+                        -24.787489
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Doctor Gustavo \"Cuchi\" Leguizamón",
+                  "text": "A neves zenészről, Gustavo \"Cuchi\" Leguizamónról elnevezett helyi színház, amely különféle regionális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.402748,
+                        -24.793843
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de Urkupiña",
+                  "text": "A vallási barlang, amely az urkupiñai Szűz tiszteletére szentelt istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -65.383395,
+                        -24.818522
+                  ]
+            },
+            {
+                  "name": "Templo Filadelfia V. Monica",
+                  "text": "A Filadelfia gyülekezethez tartozó helyi istentiszteleti hely a San Bernardo negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -65.38314,
+                        -24.810053
+                  ]
+            },
+            {
+                  "name": "Gruta San Cayetano",
+                  "text": "Egy kis áhítatos barlang, amelyet Szent Kajetánnak szenteltek, és csendes teret kínál az imádkozáshoz.",
+                  "category": "religious",
+                  "coords": [
+                        -65.377347,
+                        -24.809061
+                  ]
+            },
+            {
+                  "name": "gruta en memoria de juan perez",
+                  "text": "Egy emlékliget, amelyet Juan Perez emlékére istentiszteleti helyként szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -65.376228,
+                        -24.800578
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal M. I.",
+                  "text": "Egy pünkösdi templom, amely istentiszteleti helyet és közösségi gyülekezést biztosít a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        -65.391782,
+                        -24.821242
+                  ]
+            },
+            {
+                  "name": "Gruta San José Obrero",
+                  "text": "A Munkás Szent Józsefnek szentelt vallási barlang, amely a helyi hívőket szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        -65.390437,
+                        -24.821188
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista de 20 de Junio",
+                  "text": "Egy adventista templom, amely a helyi vallási közösséget szolgálja San Bernardo térségében.",
+                  "category": "religious",
+                  "coords": [
+                        -65.386586,
+                        -24.817724
+                  ]
+            },
+            {
+                  "name": "Vicaría B° San Benito",
+                  "text": "Egy katolikus helynökség, amely a San Benito negyed vallási igényeit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        -65.390234,
+                        -24.835215
+                  ]
+            },
+            {
+                  "name": "Cartel de Salta",
+                  "text": "Egy nagy, élénk színű, „Salta” feliratú tábla, amely ikonikus turisztikai fotólátványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.390053,
+                        -24.798534
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen del Milagro",
+                  "text": "Ez a keresztény barlang a Csodatevő Szűzanya tiszteletére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.398285,
+                        -24.79614
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ez a Királyság-terem a helyi Jehova Tanúi gyülekezetét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.373438,
+                        -24.794333
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico \"Cristo viene\"",
+                  "text": "Ez a keresztény helyszín evangéliumi templomként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.382189,
+                        -24.818634
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a gyülekezeti ház a helyi keresztény Utolsó Napok Szentjei közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.37602,
+                        -24.80835
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa de Lima",
+                  "text": "Ezt a keresztény templomot Limai Szent Róza tiszteletére szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.396318,
+                        -24.803929
+                  ]
+            },
+            {
+                  "name": "Vicaría Sagrado Corazón",
+                  "text": "Ez a keresztény vikariátus a Szent Szív tiszteletére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.389397,
+                        -24.819125
+                  ]
+            },
+            {
+                  "name": "Vicaria San Francisco Solano",
+                  "text": "Ez a keresztény vikariátus Solano Szent Ferencet tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.389223,
+                        -24.828584
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Ezt a keresztény istentiszteleti helyet a Szentháromságnak szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.396454,
+                        -24.84217
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Huerto",
+                  "text": "Ezt a keresztény plébániatemplomot a Kerti Miasszonyunkról nevezték el.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.376745,
+                        -24.813907
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Cruz",
+                  "text": "Ez a keresztény templom a Szent Keresztről kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.403649,
+                        -24.806245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento a Güemes",
+                  "text": "Un monument proeminent care îl onorează pe generalul Martín Miguel de Güemes, celebrând rolul său în independența Argentinei.",
+                  "category": "historical",
+                  "coords": [
+                        -65.399235,
+                        -24.786741
+                  ]
+            },
+            {
+                  "name": "Convento San Bernardo",
+                  "text": "O mănăstire carmelită istorică ce poate fi recunoscută după frumosul său portal sculptat din lemn de roșcov, din anul 1762.",
+                  "category": "religious",
+                  "coords": [
+                        -65.403746,
+                        -24.790358
+                  ]
+            },
+            {
+                  "name": "Cerro San Bernardo",
+                  "text": "Un deal proeminent care se ridică deasupra orașului Salta, oferind vederi panoramice ale orașului de la vârful său accesibil cu telecabina.",
+                  "category": "natural",
+                  "coords": [
+                        -65.392585,
+                        -24.789358
+                  ]
+            },
+            {
+                  "name": "Cerro La Candelaria",
+                  "text": "Un vârf de munte notabil din zona Salta, care oferă peisaje naturale și oportunități de drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        -65.357376,
+                        -24.817697
+                  ]
+            },
+            {
+                  "name": "Museo de Antropología Dr Juan Martín Leguizamón",
+                  "text": "Un muzeu de antropologie care urmărește istoria și culturile locale, înființat inițial în 1975.",
+                  "category": "museum",
+                  "coords": [
+                        -65.397747,
+                        -24.786223
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Un muzeu de științe naturale care prezintă flora, fauna și istoria geologică regională în zona istorică Salta.",
+                  "category": "museum",
+                  "coords": [
+                        -65.403095,
+                        -24.795674
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y Cultura",
+                  "text": "Un muzeu cultural dedicat conservării și expunerii bogatului patrimoniu istoric al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -65.403935,
+                        -24.808659
+                  ]
+            },
+            {
+                  "name": "Facundo de Zuviría",
+                  "text": "Un monument public ce comemorează figura istorică Facundo de Zuviría în zona San Bernardo.",
+                  "category": "historical",
+                  "coords": [
+                        -65.404217,
+                        -24.79431
+                  ]
+            },
+            {
+                  "name": "Monumento San Martín",
+                  "text": "Un monument memorial care îl onorează pe generalul José de San Martín în cartierul istoric San Bernardo.",
+                  "category": "historical",
+                  "coords": [
+                        -65.401078,
+                        -24.794768
+                  ]
+            },
+            {
+                  "name": "La Palúdica",
+                  "text": "Un centru de artă găzduit în fosta clădire istorică a campaniei anti-malarie din Salta.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.4047,
+                        -24.787489
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Doctor Gustavo \"Cuchi\" Leguizamón",
+                  "text": "Un teatru local numit după renumitul muzician Gustavo „Cuchi” Leguizamón, care găzduiește diverse spectacole regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.402748,
+                        -24.793843
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de Urkupiña",
+                  "text": "O grotă religioasă care servește drept lăcaș de cult dedicat Fecioarei din Urkupiña.",
+                  "category": "religious",
+                  "coords": [
+                        -65.383395,
+                        -24.818522
+                  ]
+            },
+            {
+                  "name": "Templo Filadelfia V. Monica",
+                  "text": "Un lăcaș de cult local aparținând congregației Filadelfia din districtul San Bernardo.",
+                  "category": "religious",
+                  "coords": [
+                        -65.38314,
+                        -24.810053
+                  ]
+            },
+            {
+                  "name": "Gruta San Cayetano",
+                  "text": "O mică grotă devoțională dedicată Sfântului Cajetan, oferind un spațiu liniștit pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -65.377347,
+                        -24.809061
+                  ]
+            },
+            {
+                  "name": "gruta en memoria de juan perez",
+                  "text": "O grotă memorială dedicată ca lăcaș de cult în memoria lui Juan Perez.",
+                  "category": "religious",
+                  "coords": [
+                        -65.376228,
+                        -24.800578
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal M. I.",
+                  "text": "O biserică penticostală care oferă un loc de închinare și adunare a comunității în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        -65.391782,
+                        -24.821242
+                  ]
+            },
+            {
+                  "name": "Gruta San José Obrero",
+                  "text": "O grotă religioasă dedicată Sfântului Iosif Muncitorul, care servește credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        -65.390437,
+                        -24.821188
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista de 20 de Junio",
+                  "text": "O biserică adventistă care servește comunitatea religioasă locală din zona San Bernardo.",
+                  "category": "religious",
+                  "coords": [
+                        -65.386586,
+                        -24.817724
+                  ]
+            },
+            {
+                  "name": "Vicaría B° San Benito",
+                  "text": "Un vicariat catolic care servește nevoilor religioase ale cartierului San Benito.",
+                  "category": "religious",
+                  "coords": [
+                        -65.390234,
+                        -24.835215
+                  ]
+            },
+            {
+                  "name": "Cartel de Salta",
+                  "text": "Un semn mare, viu colorat, pe care scrie „Salta”, care servește ca o atracție fotografică turistică emblematică.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.390053,
+                        -24.798534
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen del Milagro",
+                  "text": "Această grotă creștină este dedicată Fecioarei Miracolului.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.398285,
+                        -24.79614
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Aceasta este o Sală a Regatului care deservește congregația locală a Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.373438,
+                        -24.794333
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico \"Cristo viene\"",
+                  "text": "Acest lăcaș creștin funcționează ca un templu evanghelic.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.382189,
+                        -24.818634
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri deservește comunitatea creștină locală a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.37602,
+                        -24.80835
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa de Lima",
+                  "text": "Această biserică creștină este dedicată Sfintei Roza de Lima.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.396318,
+                        -24.803929
+                  ]
+            },
+            {
+                  "name": "Vicaría Sagrado Corazón",
+                  "text": "Acest vicariat creștin își centrează cultul în jurul Sfintei Inimi.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.389397,
+                        -24.819125
+                  ]
+            },
+            {
+                  "name": "Vicaria San Francisco Solano",
+                  "text": "Acest vicariat creștin îl onorează pe Sfântul Francisc Solanus.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.389223,
+                        -24.828584
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Acest lăcaș de cult creștin este dedicat Sfintei Treimi.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.396454,
+                        -24.84217
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Huerto",
+                  "text": "Această biserică parohială creștină poartă numele Maicii Domnului din Grădină.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.376745,
+                        -24.813907
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Cruz",
+                  "text": "Această biserică creștină își ia numele de la Sfânta Cruce.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.403649,
+                        -24.806245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento a Güemes",
+                  "text": "A prominent monument honoring General Martín Miguel de Güemes, celebrating his role in Argentine independence.",
+                  "category": "historical",
+                  "coords": [
+                        -65.399235,
+                        -24.786741
+                  ]
+            },
+            {
+                  "name": "Convento San Bernardo",
+                  "text": "A historic Carmelite convent recognizable by its beautiful carved carob wood portal from 1762.",
+                  "category": "religious",
+                  "coords": [
+                        -65.403746,
+                        -24.790358
+                  ]
+            },
+            {
+                  "name": "Cerro San Bernardo",
+                  "text": "A prominent hill rising above Salta, offering panoramic views of the city from its summit accessible by cable car.",
+                  "category": "natural",
+                  "coords": [
+                        -65.392585,
+                        -24.789358
+                  ]
+            },
+            {
+                  "name": "Cerro La Candelaria",
+                  "text": "A notable mountain peak in the Salta area offering natural landscapes and hiking opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        -65.357376,
+                        -24.817697
+                  ]
+            },
+            {
+                  "name": "Museo de Antropología Dr Juan Martín Leguizamón",
+                  "text": "An anthropology museum tracing local history and cultures, originally established in 1975.",
+                  "category": "museum",
+                  "coords": [
+                        -65.397747,
+                        -24.786223
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "A natural sciences museum showcasing regional flora, fauna, and geological history in the historic Salta area.",
+                  "category": "museum",
+                  "coords": [
+                        -65.403095,
+                        -24.795674
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y Cultura",
+                  "text": "A cultural museum dedicated to preserving and exhibiting the rich historical heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -65.403935,
+                        -24.808659
+                  ]
+            },
+            {
+                  "name": "Facundo de Zuviría",
+                  "text": "A public monument commemorating the historical figure Facundo de Zuviría in the San Bernardo area.",
+                  "category": "historical",
+                  "coords": [
+                        -65.404217,
+                        -24.79431
+                  ]
+            },
+            {
+                  "name": "Monumento San Martín",
+                  "text": "A memorial monument honoring General José de San Martín in the historic San Bernardo neighborhood.",
+                  "category": "historical",
+                  "coords": [
+                        -65.401078,
+                        -24.794768
+                  ]
+            },
+            {
+                  "name": "La Palúdica",
+                  "text": "An arts centre housed in the historic former anti-malaria campaign building in Salta.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.4047,
+                        -24.787489
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Doctor Gustavo \"Cuchi\" Leguizamón",
+                  "text": "A local theatre named after the renowned musician Gustavo \"Cuchi\" Leguizamón, hosting various regional performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.402748,
+                        -24.793843
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen de Urkupiña",
+                  "text": "A religious grotto serving as a place of worship dedicated to the Virgin of Urkupiña.",
+                  "category": "religious",
+                  "coords": [
+                        -65.383395,
+                        -24.818522
+                  ]
+            },
+            {
+                  "name": "Templo Filadelfia V. Monica",
+                  "text": "A local place of worship belonging to the Filadelfia congregation in the San Bernardo district.",
+                  "category": "religious",
+                  "coords": [
+                        -65.38314,
+                        -24.810053
+                  ]
+            },
+            {
+                  "name": "Gruta San Cayetano",
+                  "text": "A small devotional grotto dedicated to Saint Cajetan, offering a quiet space for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -65.377347,
+                        -24.809061
+                  ]
+            },
+            {
+                  "name": "gruta en memoria de juan perez",
+                  "text": "A memorial grotto dedicated as a place of worship in memory of Juan Perez.",
+                  "category": "religious",
+                  "coords": [
+                        -65.376228,
+                        -24.800578
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal M. I.",
+                  "text": "A Pentecostal church providing a place of worship and community gathering in the area.",
+                  "category": "religious",
+                  "coords": [
+                        -65.391782,
+                        -24.821242
+                  ]
+            },
+            {
+                  "name": "Gruta San José Obrero",
+                  "text": "A religious grotto dedicated to Saint Joseph the Worker, serving local worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        -65.390437,
+                        -24.821188
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista de 20 de Junio",
+                  "text": "An Adventist church serving the local religious community in the San Bernardo area.",
+                  "category": "religious",
+                  "coords": [
+                        -65.386586,
+                        -24.817724
+                  ]
+            },
+            {
+                  "name": "Vicaría B° San Benito",
+                  "text": "A Catholic vicariate serving the religious needs of the San Benito neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -65.390234,
+                        -24.835215
+                  ]
+            },
+            {
+                  "name": "Cartel de Salta",
+                  "text": "A large, brightly colored sign spelling \"Salta\" that serves as an iconic tourist photo attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.390053,
+                        -24.798534
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen del Milagro",
+                  "text": "This Christian grotto is dedicated to the Virgin of the Miracle.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.398285,
+                        -24.79614
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "This is a Kingdom Hall serving the local Jehovah's Witness congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.373438,
+                        -24.794333
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico \"Cristo viene\"",
+                  "text": "This Christian site functions as an evangelical temple.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.382189,
+                        -24.818634
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This meetinghouse serves the local Christian Latter-day Saints community.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.37602,
+                        -24.80835
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa de Lima",
+                  "text": "This Christian church is dedicated to Saint Rose of Lima.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.396318,
+                        -24.803929
+                  ]
+            },
+            {
+                  "name": "Vicaría Sagrado Corazón",
+                  "text": "This Christian vicariate centers its worship around the Sacred Heart.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.389397,
+                        -24.819125
+                  ]
+            },
+            {
+                  "name": "Vicaria San Francisco Solano",
+                  "text": "This Christian vicariate honors Saint Francis Solanus.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.389223,
+                        -24.828584
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "This Christian place of worship is dedicated to the Holy Trinity.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.396454,
+                        -24.84217
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Huerto",
+                  "text": "This Christian parish church is named after Our Lady of the Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.376745,
+                        -24.813907
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Cruz",
+                  "text": "This Christian church takes its name from the Holy Cross.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.403649,
+                        -24.806245
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic convent in Salta, showcasing impressive colonial architecture and religious heritage.",
       hu: "Salta egyik legrégebbi épülete, amely eredetileg kórházként, majd apácakolostorként működött. Híres faragott cédrusfa kapujáról.",
@@ -1355,7 +15404,160 @@ image: "/poi-images/ar-ruinas-tolombon-history-v2.webp",
       fr: ["Apogée entre 1000 et 1500 apr. J.-C.", "Capitale de la puissante chefferie de Tolombón.", "Position stratégique pour le contrôle de la route de la vallée.", "Contient un pucará (forteresse) sur les hauteurs.", "L'un des centres les plus importants de la résistance indigène.", "Les ruines s'étendent sur une vaste zone de la pente.", "Les archéologues y ont trouvé des systèmes d'irrigation très développés.", "Site clé pour l'étude de la culture Santa María."],
     }, image: "/poi-images/ar-ruinas-tolombon-history-v2.webp"},
   {
-    id: "ar-pucara-aconquija-history-v2",
+    id: "ar-pucara-aconquija-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pucará del Aconquija",
+                  "text": "Diese monumentale Inka-Festung liegt im Aconquija-Gebirge und ist als Nationaldenkmal Argentiniens geschützt.",
+                  "category": "historical",
+                  "coords": [
+                        -65.998175,
+                        -27.708362
+                  ]
+            },
+            {
+                  "name": "Pucará del Aconquija 2",
+                  "text": "Ein Teil des Inka-Verteidigungssystems, das strategisch entlang des präkolumbischen Wegenetzes angelegt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -66.001298,
+                        -27.701292
+                  ]
+            },
+            {
+                  "name": "Del Bajo",
+                  "text": "Archäologische Ruinen im unteren Bereich der Aconquija-Berge, die Einblicke in antike Siedlungsstrukturen bieten.",
+                  "category": "historical",
+                  "coords": [
+                        -66.008755,
+                        -27.702401
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine kleine ländliche Kirche, die idyllisch an den Ausläufern der argentinischen Anden gelegen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.923852,
+                        -27.68829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pucará del Aconquija",
+                  "text": "Ez a monumentális inka erőd az Aconquija-hegységben található, és Argentína nemzeti műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        -65.998175,
+                        -27.708362
+                  ]
+            },
+            {
+                  "name": "Pucará del Aconquija 2",
+                  "text": "Az inka védelmi rendszer része, amelyet stratégiailag a kolumbusz előtti úthálózat mentén alakítottak ki.",
+                  "category": "historical",
+                  "coords": [
+                        -66.001298,
+                        -27.701292
+                  ]
+            },
+            {
+                  "name": "Del Bajo",
+                  "text": "Régészeti romok az Aconquija-hegység alsóbb részein, amelyek betekintést nyújtanak az ősi településszerkezetbe.",
+                  "category": "historical",
+                  "coords": [
+                        -66.008755,
+                        -27.702401
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Kicsiny vidéki templom, amely idilli környezetben, az argentin Andok lábánál fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.923852,
+                        -27.68829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pucará del Aconquija",
+                  "text": "Această fortăreață incașă monumentală se află în munții Aconquija și este protejată ca monument național al Argentinei.",
+                  "category": "historical",
+                  "coords": [
+                        -65.998175,
+                        -27.708362
+                  ]
+            },
+            {
+                  "name": "Pucará del Aconquija 2",
+                  "text": "O parte a sistemului defensiv incaș, amplasată strategic de-a lungul rețelei de drumuri precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -66.001298,
+                        -27.701292
+                  ]
+            },
+            {
+                  "name": "Del Bajo",
+                  "text": "Ruine arheologice aflate în zona inferioară a munților Aconquija, oferind detalii despre structurile antice de locuire.",
+                  "category": "historical",
+                  "coords": [
+                        -66.008755,
+                        -27.702401
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O mică biserică rurală situată idilic la poalele munților Anzi din Argentina.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.923852,
+                        -27.68829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pucará del Aconquija",
+                  "text": "This monumental Inca fortress is located in the Aconquija mountains and is protected as an Argentine National Monument.",
+                  "category": "historical",
+                  "coords": [
+                        -65.998175,
+                        -27.708362
+                  ]
+            },
+            {
+                  "name": "Pucará del Aconquija 2",
+                  "text": "Part of the Inca defensive system, strategically placed along the pre-Columbian road network.",
+                  "category": "historical",
+                  "coords": [
+                        -66.001298,
+                        -27.701292
+                  ]
+            },
+            {
+                  "name": "Del Bajo",
+                  "text": "Archaeological ruins in the lower area of the Aconquija mountains, offering insight into ancient settlement structures.",
+                  "category": "historical",
+                  "coords": [
+                        -66.008755,
+                        -27.702401
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A small rural church idyllically situated at the foothills of the Argentine Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.923852,
+                        -27.68829
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A mountain fortress demonstrating advanced indigenous engineering in the Catamarca region.",
       hu: "Catamarca tartományban található inka erődítmény, amely az birodalom keleti határait védte. A romok magasan a tengerszint felett fekszenek.",
@@ -1407,7 +15609,412 @@ image: "/poi-images/ar-pucara-aconquija-history-v2.webp",
       fr: ["Construit au XVe siècle comme important poste militaire méridional.", "Fait partie du patrimoine mondial de l'UNESCO Qhapaq Ñan depuis 2014.", "Le mur de défense mesure 430 mètres de long et 3 mètres de haut.", "Vue stratégique sur le Campo del Pucará.", "Grande place centrale (Ushnu) pour l'administration et les rituels.", "Construit selon la technique de la pierre sèche (pirca).", "Accessible par une randonnée en montagne exigeante.", "Centre important pour le contrôle des caravanes de lamas."],
     }, image: "/poi-images/ar-pucara-aconquija-history-v2.webp"},
   {
-    id: "ar-los-menhires-history-v2",
+    id: "ar-los-menhires-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Arqueológica Los Menhires",
+                  "text": "Die Reserva Arqueológica Los Menhires in El Mollar ist ein archäologisches Freilichtmuseum, in dem alte präkolumbianische Monolithen und Steinstelen aufbewahrt werden.",
+                  "category": "museum",
+                  "coords": [
+                        -65.709898,
+                        -26.939942
+                  ]
+            },
+            {
+                  "name": "Mirador El Mollar",
+                  "text": "Der Mirador El Mollar ist ein erhöhter Aussichtspunkt, der einen weiten Panoramablick über das Dorf El Mollar und den nahegelegenen Stausee La Angostura bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.69475,
+                        -26.932353
+                  ]
+            },
+            {
+                  "name": "Cerro Pabellón",
+                  "text": "Der Cerro Pabellón ist ein bedeutender Berggipfel, der sich majestätisch über der Landschaft des Tafí-Tals in der Nähe von El Mollar erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.697169,
+                        -26.777798
+                  ]
+            },
+            {
+                  "name": "La Antena",
+                  "text": "La Antena ist ein erhöhter Aussichtspunkt nahe einer Antennenanlage, von dem aus man weite Ausblicke auf El Mollar genießen kann.",
+                  "category": "natural",
+                  "coords": [
+                        -65.673568,
+                        -26.838602
+                  ]
+            },
+            {
+                  "name": "Ruinen",
+                  "text": "Dieser Aussichtspunkt bei El Mollar bietet einen hervorragenden Blick auf die Überreste antiker archäologischer Ruinen in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -65.660135,
+                        -26.828094
+                  ]
+            },
+            {
+                  "name": "Museo Duende Tafi del Valle",
+                  "text": "Dieses Museum in der Region Tafí del Valle widmet sich der regionalen andinen Folklore, insbesondere der lokalen Legende des „Duende“ oder Zwerges.",
+                  "category": "museum",
+                  "coords": [
+                        -65.679908,
+                        -26.87437
+                  ]
+            },
+            {
+                  "name": "Cumbre Cerro de la Cruz",
+                  "text": "Der Gipfel dieses markanten Hügels belohnt Besucher mit einem monumentalen Kreuz und einem weiten Panoramablick über das umliegende Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.714218,
+                        -26.865895
+                  ]
+            },
+            {
+                  "name": "Museo Jesuítico",
+                  "text": "Dieses Kulturmuseum bewahrt Artefakte und Architektur, die das historische religiöse und koloniale Erbe des Jesuitenordens in der Region zeigen.",
+                  "category": "museum",
+                  "coords": [
+                        -65.717221,
+                        -26.859656
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Covadonga",
+                  "text": "Diese kleine christliche Kapelle ist der Jungfrau von Covadonga geweiht und dient Einheimischen und Reisenden als ruhiger spiritueller Rückzugsort.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.702366,
+                        -26.940944
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Merced",
+                  "text": "Diese zentrale, der Barmherzigen Muttergottes geweihte Pfarrkirche zeichnet sich durch ihre traditionelle Architektur im Kolonialstil aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.711571,
+                        -26.853622
+                  ]
+            },
+            {
+                  "name": "Convento Franciscano",
+                  "text": "Dieses historische Franziskanerkloster mit Kirche spiegelt die frühe missionarische Präsenz und die traditionelle religiöse Architektur im Tal wider.",
+                  "category": "religious",
+                  "coords": [
+                        -65.69389,
+                        -26.849161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Arqueológica Los Menhires",
+                  "text": "A Reserva Arqueológica Los Menhires egy szabadtéri régészeti múzeum El Mollarban, amely ősi prekolumbiánus monolitokat és állóköveket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -65.709898,
+                        -26.939942
+                  ]
+            },
+            {
+                  "name": "Mirador El Mollar",
+                  "text": "A Mirador El Mollar egy magaslati kilátó, ahonnan panorámás kilátás nyílik El Mollar falujára és a közeli La Angostura víztározóra.",
+                  "category": "natural",
+                  "coords": [
+                        -65.69475,
+                        -26.932353
+                  ]
+            },
+            {
+                  "name": "Cerro Pabellón",
+                  "text": "A Cerro Pabellón egy jelentős hegycsúcs, amely fenségesen emelkedik a Tafí-völgy tája fölé El Mollar közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -65.697169,
+                        -26.777798
+                  ]
+            },
+            {
+                  "name": "La Antena",
+                  "text": "A La Antena egy magaslati kilátó egy antennaállomás közelében, ahonnan nagyszerű kilátás nyílik El Mollarra.",
+                  "category": "natural",
+                  "coords": [
+                        -65.673568,
+                        -26.838602
+                  ]
+            },
+            {
+                  "name": "ruina",
+                  "text": "Ez az El Mollar közelében található kilátó kiváló rálátást biztosít a régió ősi régészeti romjainak maradványaira.",
+                  "category": "natural",
+                  "coords": [
+                        -65.660135,
+                        -26.828094
+                  ]
+            },
+            {
+                  "name": "Museo Duende Tafi del Valle",
+                  "text": "Ez a Tafí del Valle régióban található múzeum a regionális andoki folklórt, különösen a helyi „Duende” (manó) legendáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -65.679908,
+                        -26.87437
+                  ]
+            },
+            {
+                  "name": "Cumbre Cerro de la Cruz",
+                  "text": "A kiemelkedő domb csúcsán egy monumentális kereszt található, ahonnan elsöprő panoráma nyílik a környező völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.714218,
+                        -26.865895
+                  ]
+            },
+            {
+                  "name": "Museo Jesuítico",
+                  "text": "Ez a kulturális múzeum olyan műtárgyakat és építészeti emlékeket őriz, amelyek a jezsuita rend történelmi és vallási örökségét mutatják be a régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -65.717221,
+                        -26.859656
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Covadonga",
+                  "text": "Ez a Covadongai Szűznek szentelt kis keresztény kápolna csendes spirituális menedékhelyként szolgál a helyiek és az utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.702366,
+                        -26.940944
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Merced",
+                  "text": "Az Irgalmas Szűzanyának szentelt központi plébániatemplomot hagyományos koloniális stílusú építészete jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.711571,
+                        -26.853622
+                  ]
+            },
+            {
+                  "name": "Convento Franciscano",
+                  "text": "Ez a történelmi ferences kolostor és templom a korai misszionáriusok jelenlétét és a völgy hagyományos vallási építészetét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        -65.69389,
+                        -26.849161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Arqueológica Los Menhires",
+                  "text": "Reserva Arqueológica Los Menhires din El Mollar este un muzeu arheologic în aer liber care conservă monoliți antici precolumbieni din piatră.",
+                  "category": "museum",
+                  "coords": [
+                        -65.709898,
+                        -26.939942
+                  ]
+            },
+            {
+                  "name": "Mirador El Mollar",
+                  "text": "Mirador El Mollar este un punct de belvedere ridicat care oferă o vedere panoramică vastă asupra satului El Mollar și a lacului de acumulare La Angostura.",
+                  "category": "natural",
+                  "coords": [
+                        -65.69475,
+                        -26.932353
+                  ]
+            },
+            {
+                  "name": "Cerro Pabellón",
+                  "text": "Cerro Pabellón este un vârf montan semnificativ care se înalță peste peisajul Văii Tafí, în apropiere de El Mollar.",
+                  "category": "natural",
+                  "coords": [
+                        -65.697169,
+                        -26.777798
+                  ]
+            },
+            {
+                  "name": "La Antena",
+                  "text": "La Antena este un punct de belvedere ridicat, situat lângă o instalație de antene, de unde se pot admira priveliști ample spre El Mollar.",
+                  "category": "natural",
+                  "coords": [
+                        -65.673568,
+                        -26.838602
+                  ]
+            },
+            {
+                  "name": "ruina",
+                  "text": "Acest punct de belvedere de lângă El Mollar oferă o priveliște excelentă asupra vestigiilor unor ruine arheologice antice din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -65.660135,
+                        -26.828094
+                  ]
+            },
+            {
+                  "name": "Museo Duende Tafi del Valle",
+                  "text": "Acest muzeu din zona Tafí del Valle explorează folclorul andin regional, concentrându-se pe legenda locală a spiridușului „Duende”.",
+                  "category": "museum",
+                  "coords": [
+                        -65.679908,
+                        -26.87437
+                  ]
+            },
+            {
+                  "name": "Cumbre Cerro de la Cruz",
+                  "text": "Atingerea vârfului acestui deal proeminent îi răsplătește pe vizitatori cu o cruce monumentală și o priveliște panoramică vastă asupra văii înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.714218,
+                        -26.865895
+                  ]
+            },
+            {
+                  "name": "Museo Jesuítico",
+                  "text": "Acest muzeu cultural păstrează artefacte și elemente de arhitectură care prezintă moștenirea religioasă și colonială istorică a ordinului iezuit în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -65.717221,
+                        -26.859656
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Covadonga",
+                  "text": "Această mică capelă creștină este închinată Fecioarei de la Covadonga, servind drept un refugiu spiritual liniștit pentru localnici și călători.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.702366,
+                        -26.940944
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Merced",
+                  "text": "Închinată Maicii Domnului a Îndurării, această biserică parohială centrală se caracterizează prin arhitectura sa tradițională în stil colonial.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.711571,
+                        -26.853622
+                  ]
+            },
+            {
+                  "name": "Convento Franciscano",
+                  "text": "Acest mănăstire și biserică franciscană istorică reflectă prezența misionară timpurie și arhitectura religioasă tradițională din vale.",
+                  "category": "religious",
+                  "coords": [
+                        -65.69389,
+                        -26.849161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Arqueológica Los Menhires",
+                  "text": "The Reserva Arqueológica Los Menhires in El Mollar is an archaeological open-air museum preserving ancient pre-Columbian stone monoliths.",
+                  "category": "museum",
+                  "coords": [
+                        -65.709898,
+                        -26.939942
+                  ]
+            },
+            {
+                  "name": "Mirador El Mollar",
+                  "text": "The Mirador El Mollar is an elevated viewpoint offering sweeping panoramic sights over the village of El Mollar and the nearby La Angostura reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        -65.69475,
+                        -26.932353
+                  ]
+            },
+            {
+                  "name": "Cerro Pabellón",
+                  "text": "Cerro Pabellón is a significant mountain peak rising majestically above the Tafí Valley landscape near El Mollar.",
+                  "category": "natural",
+                  "coords": [
+                        -65.697169,
+                        -26.777798
+                  ]
+            },
+            {
+                  "name": "La Antena",
+                  "text": "La Antena is an elevated viewpoint near an antenna installation from which wide vistas of El Mollar can be enjoyed.",
+                  "category": "natural",
+                  "coords": [
+                        -65.673568,
+                        -26.838602
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "This viewpoint near El Mollar offers an excellent sight over the remains of ancient archaeological ruins in the region.",
+                  "category": "natural",
+                  "coords": [
+                        -65.660135,
+                        -26.828094
+                  ]
+            },
+            {
+                  "name": "Museo Duende Tafi del Valle",
+                  "text": "This museum in the Tafí del Valle area explores regional Andean folklore, specifically the local legend of the \"Duende\" or gnome.",
+                  "category": "museum",
+                  "coords": [
+                        -65.679908,
+                        -26.87437
+                  ]
+            },
+            {
+                  "name": "Cumbre Cerro de la Cruz",
+                  "text": "Reaching the summit of this prominent hill rewards visitors with a monumental cross and sweeping panoramic views of the surrounding valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.714218,
+                        -26.865895
+                  ]
+            },
+            {
+                  "name": "Museum Jesuitico",
+                  "text": "This cultural museum preserves artifacts and architecture showcasing the historical religious and colonial legacy of the Jesuit order in the region.",
+                  "category": "museum",
+                  "coords": [
+                        -65.717221,
+                        -26.859656
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Covadonga",
+                  "text": "This small Christian chapel is dedicated to the Virgin of Covadonga, serving as a quiet spiritual retreat for locals and travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.702366,
+                        -26.940944
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Merced",
+                  "text": "Dedicated to Our Lady of Mercy, this central parish church is characterized by its traditional colonial-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.711571,
+                        -26.853622
+                  ]
+            },
+            {
+                  "name": "Convento Franciscano",
+                  "text": "This historic Franciscan convent and church reflects the early missionary presence and traditional religious architecture in the valley.",
+                  "category": "religious",
+                  "coords": [
+                        -65.69389,
+                        -26.849161
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A collection of ancient carved stones, significant for its pre-colonial cultural and artistic value.",
       hu: "Több tucat faragott gránitoszlop (menhir) Tucumán tartományban, a Tafí-völgyben. A több ezer éves alkotások az ősi Tafí-kultúra emlékei.",
@@ -1459,7 +16066,1168 @@ image: "/poi-images/ar-los-menhires-history-v2.webp",
       fr: ["Les menhirs datent d'une période comprise entre 800 av. J.-C. et 800 apr. J.-C.", "Plus de 50 pierres gravées sont exposées dans le parc.", "De nombreuses pierres présentent des visages humains stylisés.", "Le plus grand menhir mesure près de 3,5 mètres de haut.", "La culture Tafí fut l'une des premières sociétés sédentaires de la région.", "Des traces de pigments montrent que les pierres étaient autrefois peintes.", "Située dans la pittoresque Valle de Tafí à 2 000 m d'altitude.", "Les pierres sont composées de granit local et de roches métamorphiques."],
     }, image: "/poi-images/ar-los-menhires-history-v2.webp"},
   {
-    id: "ar-capilla-huerfanos-history-v2",
+    id: "ar-capilla-huerfanos-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cripta Jesuítica del Noviciado Viejo",
+                  "text": "Diese unterirdische Jesuiten-Krypta, die 1989 unter den Straßen der Stadt wiederentdeckt wurde, dient heute als stimmungsvolles Museum für Kolonialgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184395,
+                        -31.413277
+                  ]
+            },
+            {
+                  "name": "Teatro Real",
+                  "text": "Dieser prominente Veranstaltungsort gegenüber der Plaza San Martín führt seit den 1920er Jahren vielfältige Theater- und Musikproduktionen auf.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.183704,
+                        -31.4176
+                  ]
+            },
+            {
+                  "name": "Basílica Nuestra Señora de La Merced",
+                  "text": "Diese bedeutende Basilica minor besticht durch eine reich verzierte eklektische Fassade und beherbergt einen verehrten historischen Altar.",
+                  "category": "religious",
+                  "coords": [
+                        -64.182227,
+                        -31.414923
+                  ]
+            },
+            {
+                  "name": "Museo del Banco Provincia de Córdoba",
+                  "text": "Dieses in einem prächtigen Bankgebäude untergebrachte Museum zeigt umfangreiche Sammlungen historischer Währungen und numismatischer Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -64.182436,
+                        -31.417988
+                  ]
+            },
+            {
+                  "name": "Plaza Rivadavia",
+                  "text": "Dieser angelegte Stadtpark bietet schattige Fußwege und Sitzgelegenheiten rund um ein Denkmal für Bernardino Rivadavia.",
+                  "category": "park",
+                  "coords": [
+                        -64.184804,
+                        -31.391654
+                  ]
+            },
+            {
+                  "name": "Plaza Leandro Alem",
+                  "text": "Dieser öffentliche Platz, der von breiten Wegen und alten Bäumen geprägt ist, erinnert an den prominenten Politiker Leandro Alem.",
+                  "category": "park",
+                  "coords": [
+                        -64.172563,
+                        -31.401202
+                  ]
+            },
+            {
+                  "name": "Parque Las Heras",
+                  "text": "Diese weitläufige Grünfläche am Ufer des Río Suquía bietet den Stadtbewohnern offene Rasenflächen und Erholungswege.",
+                  "category": "park",
+                  "coords": [
+                        -64.184992,
+                        -31.405666
+                  ]
+            },
+            {
+                  "name": "Museo histórico provincial Marqués de Sombremonte",
+                  "text": "Dieses historische Museum, das in einem authentischen Wohnhaus aus der Kolonialzeit untergebracht ist, zeigt historische Möbel, Kunstwerke und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -64.18131,
+                        -31.416897
+                  ]
+            },
+            {
+                  "name": "Museo de la Industria",
+                  "text": "Mit einer Ausstellung von Oldtimern und Maschinen dokumentiert dieses Museum das reiche Industrie- und Fertigungserbe der Region Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -64.169473,
+                        -31.409129
+                  ]
+            },
+            {
+                  "name": "La nave",
+                  "text": "Dieser intime, unabhängige Theaterraum beherbergt regelmäßig zeitgenössische Stücke und lokale Produktionen der darstellenden Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.173196,
+                        -31.411398
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Dieses klassische halbrunde Amphitheater im Freien mit abgestuften Sitzplätzen ist Austragungsort für Open-Air-Konzerte und öffentliche Versammlungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.14425,
+                        -31.395352
+                  ]
+            },
+            {
+                  "name": "El Cuenco",
+                  "text": "Dieser gemütliche, alternative Theatersaal ist bekannt für die Aufführung experimenteller dramatischer Werke und unabhängiger Produktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.189511,
+                        -31.39006
+                  ]
+            },
+            {
+                  "name": "Infinito Arena (en construcción)",
+                  "text": "Diese große Arena, die sich derzeit im Bau befindet, ist für massive Hallenkonzerte und Theaterveranstaltungen konzipiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.119983,
+                        -31.408159
+                  ]
+            },
+            {
+                  "name": "Memorial Desaparecidos",
+                  "text": "Diese feierliche Gedenkstätte ist ein Ort der Besinnung, der den Opfern gewidmet ist, die während der Militärdiktatur des Landes verschwunden sind.",
+                  "category": "religious",
+                  "coords": [
+                        -64.127453,
+                        -31.415723
+                  ]
+            },
+            {
+                  "name": "COMPROMETIDA CON JESUS",
+                  "text": "Diese lokale evangelische Kirche dient ihrer christlichen Gemeinde als Versammlungsort für Gottesdienst und Bibelstudium.",
+                  "category": "religious",
+                  "coords": [
+                        -64.128357,
+                        -31.43726
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Lourdes",
+                  "text": "Eine katholische Kirche, die Unserer Lieben Frau von Lourdes geweiht ist und als lokaler Andachtsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        -64.156924,
+                        -31.432233
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Ein Gotteshaus, das der lokalen Gemeinde der Siebenten-Tags-Adventisten dient.",
+                  "category": "religious",
+                  "coords": [
+                        -64.165342,
+                        -31.410042
+                  ]
+            },
+            {
+                  "name": "San Ramon Nonato",
+                  "text": "Ein lokales Gotteshaus, das dem Heiligen Raimund Nonnatus, dem Schutzpatron der Entbindenden, geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -64.157232,
+                        -31.410347
+                  ]
+            },
+            {
+                  "name": "Capilla San José",
+                  "text": "Eine malerische lokale Kapelle, die dem Heiligen Josef geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -64.125507,
+                        -31.41225
+                  ]
+            },
+            {
+                  "name": "Capilla Crucifixión del Señor",
+                  "text": "Eine der Kreuzigung des Herrn geweihte Kapelle, die einen ruhigen Raum für Gebete bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -64.135396,
+                        -31.417083
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Madre de La Merced",
+                  "text": "Eine der Mutter der Barmherzigkeit geweihte Kirche, die sich durch traditionelle religiöse Architektur auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -64.184273,
+                        -31.388092
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Roque",
+                  "text": "Eine Kirche zu Ehren des Heiligen Rochus, die der lokalen Gemeinde mit regelmäßigen Gottesdiensten dient.",
+                  "category": "religious",
+                  "coords": [
+                        -64.179415,
+                        -31.418451
+                  ]
+            },
+            {
+                  "name": "Despensa-Kiosco",
+                  "text": "Ein kleiner nachbarschaftlicher Marktplatz und Kiosk, der tägliche Lebensmittel und wichtige Güter anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.175209,
+                        -31.363118
+                  ]
+            },
+            {
+                  "name": "La Feria de los Diablos Rojos",
+                  "text": "Ein lebhafter lokaler Marktplatz, bekannt als 'Messe der Roten Teufel', auf dem es von Verkäufern wimmelt.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.176504,
+                        -31.369552
+                  ]
+            },
+            {
+                  "name": "Mercado Norte",
+                  "text": "Ein geschäftiger nördlicher Markt, der eine große Auswahl an frischen regionalen Produkten und Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.180537,
+                        -31.409572
+                  ]
+            },
+            {
+                  "name": "Casa Eiffel",
+                  "text": "Eine architektonische Attraktion, die für ihre markante Eisenkonstruktion in Verbindung mit dem Erbe Eiffels bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.141295,
+                        -31.424157
+                  ]
+            },
+            {
+                  "name": "Iglesia Corazón de María",
+                  "text": "Eine christliche Kirche, die dem Unbefleckten Herz Mariä geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.182344,
+                        -31.394383
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Eine christliche Pfarrkirche, die Unserer Lieben Frau vom Berge Karmel geweiht ist und den Glauben der lokalen Gemeinde fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.183678,
+                        -31.381012
+                  ]
+            },
+            {
+                  "name": "Mezquita Alta Córdoba",
+                  "text": "Eine Moschee, die einen speziellen Raum für den islamischen Gottesdienst im Viertel Alta Córdoba bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.183833,
+                        -31.400204
+                  ]
+            },
+            {
+                  "name": "Templo del Santísimo Sacramento",
+                  "text": "Ein christlicher Tempel, der der Verehrung des Allerheiligsten Sakraments gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.176838,
+                        -31.418322
+                  ]
+            },
+            {
+                  "name": "Parroquia San Cayetano",
+                  "text": "Eine christliche Pfarrkirche, die dem Heiligen Kajetan, dem Schutzpatron von Brot und Arbeit, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.129956,
+                        -31.424058
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "Eine christliche Kapelle, die Unserer Lieben Frau von Guadalupe gewidmet ist und von traditioneller religiöser Hingabe zeugt.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.126691,
+                        -31.438578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cripta Jesuítica del Noviciado Viejo",
+                  "text": "Az 1989-ben a város utcái alatt újra felfedezett földalatti jezsuita kripta ma a gyarmati történelem hangulatos múzeumaként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184395,
+                        -31.413277
+                  ]
+            },
+            {
+                  "name": "Teatro Real",
+                  "text": "A Plaza San Martínnal szemben található jeles előadó-művészeti helyszín az 1920-as évek óta ad otthont különféle színházi és zenei produkcióknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.183704,
+                        -31.4176
+                  ]
+            },
+            {
+                  "name": "Basílica Nuestra Señora de La Merced",
+                  "text": "Ez a jeles basilica minor gazdagon díszített eklektikus homlokzattal rendelkezik, és egy nagy becsben tartott történelmi oltárnak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -64.182227,
+                        -31.414923
+                  ]
+            },
+            {
+                  "name": "Museo del Banco Provincia de Córdoba",
+                  "text": "Ez a nagyszerű banképületben található múzeum történelmi valuták és numizmatikai leletek kiterjedt gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -64.182436,
+                        -31.417988
+                  ]
+            },
+            {
+                  "name": "Plaza Rivadavia",
+                  "text": "Ez a parkosított városi tér árnyékos sétányokat és ülőhelyeket kínál, amelyek középpontjában Bernardino Rivadavia emlékműve áll.",
+                  "category": "park",
+                  "coords": [
+                        -64.184804,
+                        -31.391654
+                  ]
+            },
+            {
+                  "name": "Plaza Leandro Alem",
+                  "text": "A széles ösvényeiről és öreg fáiról ismert közterület a kiemelkedő politikai személyiségnek, Leandro Alemnek állít emléket.",
+                  "category": "park",
+                  "coords": [
+                        -64.172563,
+                        -31.401202
+                  ]
+            },
+            {
+                  "name": "Parque Las Heras",
+                  "text": "A Suquía folyó partján fekvő kiterjedt zöldfelület nyitott pázsitot és szabadidős utakat biztosít a városlakók számára.",
+                  "category": "park",
+                  "coords": [
+                        -64.184992,
+                        -31.405666
+                  ]
+            },
+            {
+                  "name": "Museo histórico provincial Marqués de Sombremonte",
+                  "text": "Az autentikus gyarmati kori kúriában berendezett történelmi múzeum korabeli bútorokat, műalkotásokat és tárgyi emlékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -64.18131,
+                        -31.416897
+                  ]
+            },
+            {
+                  "name": "Museo de la Industria",
+                  "text": "A régi autók és gépek bemutatásával ez a múzeum Córdoba régió gazdag ipari és gyártási örökségét örökíti meg.",
+                  "category": "museum",
+                  "coords": [
+                        -64.169473,
+                        -31.409129
+                  ]
+            },
+            {
+                  "name": "La nave",
+                  "text": "Ez a meghitt, független színházi tér rendszeresen ad otthont kortárs színdaraboknak és helyi előadó-művészeti produkcióknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.173196,
+                        -31.411398
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ez a klasszikus, félkör alakú, teraszos ülőhelyekkel rendelkező szabadtéri amfiteátrum szabadtéri koncerteknek és nyilvános összejöveteleknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.14425,
+                        -31.395352
+                  ]
+            },
+            {
+                  "name": "El Cuenco",
+                  "text": "Ez a hangulatos, alternatív színházi helyszín kísérleti drámai művek és független produkciók színpadra állításáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.189511,
+                        -31.39006
+                  ]
+            },
+            {
+                  "name": "Infinito Arena (en construcción)",
+                  "text": "A jelenleg építés alatt álló nagy aréna hatalmas beltéri koncertek és színházi események befogadására készült.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.119983,
+                        -31.408159
+                  ]
+            },
+            {
+                  "name": "Memorial Desaparecidos",
+                  "text": "Ez az ünnepélyes emlékhely egy olyan elmélkedő tér, amelyet az ország katonai diktatúrája idején eltűnt áldozatoknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -64.127453,
+                        -31.415723
+                  ]
+            },
+            {
+                  "name": "COMPROMETIDA CON JESUS",
+                  "text": "Ez a helyi evangéliumi gyülekezet a keresztény közösség istentiszteleti és bibliatanulmányozási helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -64.128357,
+                        -31.43726
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Lourdes",
+                  "text": "A Lourdes-i Szűzanyának szentelt katolikus templom, amely a helyi közösség hitéletét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -64.156924,
+                        -31.432233
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "A helyi Hetednapi Adventista közösséget szolgáló istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        -64.165342,
+                        -31.410042
+                  ]
+            },
+            {
+                  "name": "San Ramon Nonato",
+                  "text": "San Ramón Nonatónak, a szülés védőszentjének szentelt helyi istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        -64.157232,
+                        -31.410347
+                  ]
+            },
+            {
+                  "name": "Capilla San José",
+                  "text": "Egy hangulatos helyi kápolna, amelyet Szent Józsefnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -64.125507,
+                        -31.41225
+                  ]
+            },
+            {
+                  "name": "Capilla Crucifixión del Señor",
+                  "text": "Az Úr keresztre feszítésének szentelt kápolna, amely csendes teret kínál az imádkozásra.",
+                  "category": "religious",
+                  "coords": [
+                        -64.135396,
+                        -31.417083
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Madre de La Merced",
+                  "text": "Az Irgalmas Anyánknak szentelt templom, amely hagyományos vallási építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        -64.184273,
+                        -31.388092
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Roque",
+                  "text": "A Szent Rókus tiszteletére emelt templom, amely rendszeres istentiszteletekkel szolgálja a helyi gyülekezetet.",
+                  "category": "religious",
+                  "coords": [
+                        -64.179415,
+                        -31.418451
+                  ]
+            },
+            {
+                  "name": "Despensa-Kiosco",
+                  "text": "Egy kis környékbeli piac és kioszk, amely napi élelmiszereket és alapvető árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.175209,
+                        -31.363118
+                  ]
+            },
+            {
+                  "name": "La Feria de los Diablos Rojos",
+                  "text": "Egy nyüzsgő helyi piac, amelyet 'A Vörös Ördögök Vásárának' neveznek, és tele van árusokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.176504,
+                        -31.369552
+                  ]
+            },
+            {
+                  "name": "Mercado Norte",
+                  "text": "Egy forgalmas északi piac, amely friss regionális termékek és áruk széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.180537,
+                        -31.409572
+                  ]
+            },
+            {
+                  "name": "Casa Eiffel",
+                  "text": "A jellegzetes vasszerkezetéről ismert építészeti látványosság, amely az Eiffel-örökséghez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.141295,
+                        -31.424157
+                  ]
+            },
+            {
+                  "name": "Iglesia Corazón de María",
+                  "text": "A Szűzanya Szeplőtelen Szívének szentelt keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.182344,
+                        -31.394383
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "A Kármelhegyi Boldogasszonynak szentelt keresztény plébániatemplom, amely a helyi közösség hitéletét ápolja.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.183678,
+                        -31.381012
+                  ]
+            },
+            {
+                  "name": "Mezquita Alta Córdoba",
+                  "text": "Egy mecset, amely az iszlám istentisztelet számára biztosít teret az Alta Córdoba negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.183833,
+                        -31.400204
+                  ]
+            },
+            {
+                  "name": "Templo del Santísimo Sacramento",
+                  "text": "A Legméltóságosabb Oltáriszentség tiszteletének szentelt keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.176838,
+                        -31.418322
+                  ]
+            },
+            {
+                  "name": "Parroquia San Cayetano",
+                  "text": "A kenyér és a munka védőszentjének, Szent Kajetánnak szentelt keresztény plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.129956,
+                        -31.424058
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "A Guadalupei Szűzanyának szentelt keresztény kápolna, amely a hagyományos vallási tisztelet helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.126691,
+                        -31.438578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cripta Jesuítica del Noviciado Viejo",
+                  "text": "Redescoperită sub străzile orașului în 1989, această criptă iezuită subterană servește acum ca un muzeu atmosferic al istoriei coloniale.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184395,
+                        -31.413277
+                  ]
+            },
+            {
+                  "name": "Teatro Real",
+                  "text": "Situat vizavi de Plaza San Martín, acest loc proeminent de arte spectacolului a găzduit diverse producții teatrale și muzicale începând cu anii 1920.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.183704,
+                        -31.4176
+                  ]
+            },
+            {
+                  "name": "Basílica Nuestra Señora de La Merced",
+                  "text": "Această distinsă bazilică minoră prezintă o fațadă eclectică bogat decorată și adăpostește un altar istoric venerat.",
+                  "category": "religious",
+                  "coords": [
+                        -64.182227,
+                        -31.414923
+                  ]
+            },
+            {
+                  "name": "Museo del Banco Provincia de Córdoba",
+                  "text": "Situat într-o clădire bancară arhitecturală grandioasă, acest muzeu expune colecții extinse de monede istorice și artefacte numismatice.",
+                  "category": "museum",
+                  "coords": [
+                        -64.182436,
+                        -31.417988
+                  ]
+            },
+            {
+                  "name": "Plaza Rivadavia",
+                  "text": "Acest parc urban amenajat oferă alei umbrite și zone de relaxare centrate în jurul unui monument dedicat lui Bernardino Rivadavia.",
+                  "category": "park",
+                  "coords": [
+                        -64.184804,
+                        -31.391654
+                  ]
+            },
+            {
+                  "name": "Plaza Leandro Alem",
+                  "text": "Caracterizată prin aleile sale largi și copacii maturi, această piață publică îl comemorează pe proeminentul personaj politic Leandro Alem.",
+                  "category": "park",
+                  "coords": [
+                        -64.172563,
+                        -31.401202
+                  ]
+            },
+            {
+                  "name": "Parque Las Heras",
+                  "text": "Situat de-a lungul malurilor râului Suquía, acest spațiu verde vast oferă peluze deschise și alei de agrement pentru locuitorii orașului.",
+                  "category": "park",
+                  "coords": [
+                        -64.184992,
+                        -31.405666
+                  ]
+            },
+            {
+                  "name": "Museo histórico provincial Marqués de Sombremonte",
+                  "text": "Găzduit într-un conac rezidențial autentic din epoca colonială, acest muzeu istoric expune mobilier de epocă, opere de artă și artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        -64.18131,
+                        -31.416897
+                  ]
+            },
+            {
+                  "name": "Museo de la Industria",
+                  "text": "Expunând automobile și utilaje de epocă, acest muzeu prezintă bogata moștenire industrială și de producție a regiunii Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -64.169473,
+                        -31.409129
+                  ]
+            },
+            {
+                  "name": "La nave",
+                  "text": "Acest spațiu de teatru independent și intim găzduiește cu regularitate piese contemporane și producții locale de arte ale spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.173196,
+                        -31.411398
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Situat în aer liber, acest amfiteatru semicircular clasic cu scaune etajate găzduiește concerte în aer liber și adunări publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.14425,
+                        -31.395352
+                  ]
+            },
+            {
+                  "name": "El Cuenco",
+                  "text": "Acest spațiu teatral alternativ și confortabil este recunoscut pentru punerea în scenă a lucrărilor dramatice experimentale și a producțiilor independente.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.189511,
+                        -31.39006
+                  ]
+            },
+            {
+                  "name": "Infinito Arena (en construcción)",
+                  "text": "Aflată în prezent în construcție, această viitoare arenă majoră este concepută pentru a găzdui concerte masive în interior și evenimente teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.119983,
+                        -31.408159
+                  ]
+            },
+            {
+                  "name": "Memorial Desaparecidos",
+                  "text": "Acest loc memorial solemn este un spațiu de reflecție dedicat victimelor care au dispărut în timpul dictaturii militare a țării.",
+                  "category": "religious",
+                  "coords": [
+                        -64.127453,
+                        -31.415723
+                  ]
+            },
+            {
+                  "name": "COMPROMETIDA CON JESUS",
+                  "text": "Această biserică evanghelică locală servește ca spațiu dedicat de adunare pentru comunitatea sa creștină, pentru închinare și studiu.",
+                  "category": "religious",
+                  "coords": [
+                        -64.128357,
+                        -31.43726
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Lourdes",
+                  "text": "O biserică catolică închinată Fecioarei din Lourdes, care servește drept lăcaș de cult local.",
+                  "category": "religious",
+                  "coords": [
+                        -64.156924,
+                        -31.432233
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Un lăcaș de cult care deservește comunitatea locală a Adventiștilor de Ziua a Șaptea.",
+                  "category": "religious",
+                  "coords": [
+                        -64.165342,
+                        -31.410042
+                  ]
+            },
+            {
+                  "name": "San Ramon Nonato",
+                  "text": "Un lăcaș de cult local dedicat Sfântului Ramon Nonato, patronul nașterilor.",
+                  "category": "religious",
+                  "coords": [
+                        -64.157232,
+                        -31.410347
+                  ]
+            },
+            {
+                  "name": "Capilla San José",
+                  "text": "O capelă locală pitorească dedicată Sfântului Iosif.",
+                  "category": "religious",
+                  "coords": [
+                        -64.125507,
+                        -31.41225
+                  ]
+            },
+            {
+                  "name": "Capilla Crucifixión del Señor",
+                  "text": "O capelă dedicată Răstignirii Domnului, oferind un spațiu liniștit pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -64.135396,
+                        -31.417083
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Madre de La Merced",
+                  "text": "O biserică dedicată Mamei Noastre a Îndurării, remarcabilă prin arhitectura sa religioasă tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -64.184273,
+                        -31.388092
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Roque",
+                  "text": "O biserică în onoarea Sfântului Rochus, care deservește congregația locală cu slujbe regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -64.179415,
+                        -31.418451
+                  ]
+            },
+            {
+                  "name": "Despensa-Kiosco",
+                  "text": "O mică piață și chioșc de cartier, oferind alimente zilnice și bunuri de strictă necesitate.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.175209,
+                        -31.363118
+                  ]
+            },
+            {
+                  "name": "La Feria de los Diablos Rojos",
+                  "text": "O piață locală vibrantă, cunoscută sub numele de „Târgul Diavolilor Roșii”, plină de vânzători.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.176504,
+                        -31.369552
+                  ]
+            },
+            {
+                  "name": "Mercado Norte",
+                  "text": "O piață nordică plină de viață, oferind o mare varietate de produse proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.180537,
+                        -31.409572
+                  ]
+            },
+            {
+                  "name": "Casa Eiffel",
+                  "text": "O atracție arhitecturală notabilă pentru structura sa distinctivă din fier, legată de moștenirea lui Eiffel.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.141295,
+                        -31.424157
+                  ]
+            },
+            {
+                  "name": "Iglesia Corazón de María",
+                  "text": "O biserică creștină dedicată Inimii Neprihănite a Mariei.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.182344,
+                        -31.394383
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "O biserică parohială creștină dedicată Maicii Domnului de pe Muntele Carmel, susținând credința comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.183678,
+                        -31.381012
+                  ]
+            },
+            {
+                  "name": "Mezquita Alta Córdoba",
+                  "text": "O moschee care oferă un spațiu dedicat cultului islamic în cartierul Alta Córdoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.183833,
+                        -31.400204
+                  ]
+            },
+            {
+                  "name": "Templo del Santísimo Sacramento",
+                  "text": "Un templu creștin dedicat venerației Preasfântului Sacrament.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.176838,
+                        -31.418322
+                  ]
+            },
+            {
+                  "name": "Parroquia San Cayetano",
+                  "text": "O biserică parohială creștină dedicată Sfântului Cajetan, patronul pâinii și al muncii.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.129956,
+                        -31.424058
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "O capelă creștină dedicată Fecioarei din Guadalupe, un loc al devoțiunii religioase tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.126691,
+                        -31.438578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cripta Jesuítica del Noviciado Viejo",
+                  "text": "Rediscovered under the city streets in 1989, this subterranean Jesuit crypt now serves as an atmospheric museum of colonial history.",
+                  "category": "museum",
+                  "coords": [
+                        -64.184395,
+                        -31.413277
+                  ]
+            },
+            {
+                  "name": "Teatro Real",
+                  "text": "Located opposite Plaza San Martín, this prominent performing arts venue has been staging diverse theatrical and musical productions since the 1920s.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.183704,
+                        -31.4176
+                  ]
+            },
+            {
+                  "name": "Basílica Nuestra Señora de La Merced",
+                  "text": "This distinguished minor basilica features a richly decorated eclectic facade and houses a revered historical altar.",
+                  "category": "religious",
+                  "coords": [
+                        -64.182227,
+                        -31.414923
+                  ]
+            },
+            {
+                  "name": "Museo del Banco Provincia de Córdoba",
+                  "text": "Set within a grand architectural banking building, this museum displays extensive collections of historic currencies and numismatic artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -64.182436,
+                        -31.417988
+                  ]
+            },
+            {
+                  "name": "Plaza Rivadavia",
+                  "text": "This landscaped urban park offers shaded walkways and seating areas centered around a monument to Bernardino Rivadavia.",
+                  "category": "park",
+                  "coords": [
+                        -64.184804,
+                        -31.391654
+                  ]
+            },
+            {
+                  "name": "Plaza Leandro Alem",
+                  "text": "Characterized by its broad pathways and mature trees, this public square commemorates the prominent political figure Leandro Alem.",
+                  "category": "park",
+                  "coords": [
+                        -64.172563,
+                        -31.401202
+                  ]
+            },
+            {
+                  "name": "Parque Las Heras",
+                  "text": "Situated along the banks of the Suquía River, this expansive green space provides open lawns and recreational paths for city residents.",
+                  "category": "park",
+                  "coords": [
+                        -64.184992,
+                        -31.405666
+                  ]
+            },
+            {
+                  "name": "Museo histórico provincial Marqués de Sombremonte",
+                  "text": "Housed in an authentic colonial-era residential mansion, this historical museum displays period furniture, artworks, and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -64.18131,
+                        -31.416897
+                  ]
+            },
+            {
+                  "name": "Museo de la Industria",
+                  "text": "Showcasing vintage automobiles and machinery, this museum chronicles the rich industrial and manufacturing heritage of the Córdoba region.",
+                  "category": "museum",
+                  "coords": [
+                        -64.169473,
+                        -31.409129
+                  ]
+            },
+            {
+                  "name": "La nave",
+                  "text": "This intimate independent theatre space regularly hosts contemporary plays and local performing arts productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.173196,
+                        -31.411398
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Set outdoors, this classic semicircular amphitheater with tiered seating hosts open-air concerts and public gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.14425,
+                        -31.395352
+                  ]
+            },
+            {
+                  "name": "El Cuenco",
+                  "text": "This cozy, alternative theatre venue is known for staging experimental dramatic works and independent productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.189511,
+                        -31.39006
+                  ]
+            },
+            {
+                  "name": "Infinito Arena (en construcción)",
+                  "text": "Currently under construction, this major upcoming arena is designed to host massive indoor concerts and theatrical events.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.119983,
+                        -31.408159
+                  ]
+            },
+            {
+                  "name": "Memorial Desaparecidos",
+                  "text": "This solemn memorial site is a space of reflection dedicated to the victims who disappeared during the country's military dictatorship.",
+                  "category": "religious",
+                  "coords": [
+                        -64.127453,
+                        -31.415723
+                  ]
+            },
+            {
+                  "name": "COMPROMETIDA CON JESUS",
+                  "text": "This local evangelical church serves as a dedicated gathering space for its Christian congregation to worship and study.",
+                  "category": "religious",
+                  "coords": [
+                        -64.128357,
+                        -31.43726
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Lourdes",
+                  "text": "A Catholic church dedicated to Our Lady of Lourdes, serving as a local place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        -64.156924,
+                        -31.432233
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A place of worship serving the local Seventh-day Adventist community.",
+                  "category": "religious",
+                  "coords": [
+                        -64.165342,
+                        -31.410042
+                  ]
+            },
+            {
+                  "name": "San Ramon Nonato",
+                  "text": "A local place of worship dedicated to San Ramón Nonato, the patron saint of childbirth.",
+                  "category": "religious",
+                  "coords": [
+                        -64.157232,
+                        -31.410347
+                  ]
+            },
+            {
+                  "name": "Capilla San José",
+                  "text": "A quaint local chapel dedicated to Saint Joseph.",
+                  "category": "religious",
+                  "coords": [
+                        -64.125507,
+                        -31.41225
+                  ]
+            },
+            {
+                  "name": "Capilla Crucifixión del Señor",
+                  "text": "A chapel dedicated to the Crucifixion of the Lord, offering a quiet space for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -64.135396,
+                        -31.417083
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Madre de La Merced",
+                  "text": "A church dedicated to Our Mother of Mercy, featuring traditional religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -64.184273,
+                        -31.388092
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Roque",
+                  "text": "A church honoring Saint Roch, serving the local congregation with regular services.",
+                  "category": "religious",
+                  "coords": [
+                        -64.179415,
+                        -31.418451
+                  ]
+            },
+            {
+                  "name": "Despensa-Kiosco",
+                  "text": "A small neighborhood marketplace and kiosk offering daily groceries and essential goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.175209,
+                        -31.363118
+                  ]
+            },
+            {
+                  "name": "La Feria de los Diablos Rojos",
+                  "text": "A vibrant local marketplace known as 'The Fair of the Red Devils', bustling with vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.176504,
+                        -31.369552
+                  ]
+            },
+            {
+                  "name": "Mercado Norte",
+                  "text": "A bustling northern marketplace offering a wide variety of fresh regional produce and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.180537,
+                        -31.409572
+                  ]
+            },
+            {
+                  "name": "Casa Eiffel",
+                  "text": "An architectural attraction notable for its distinctive iron structure linked to the Eiffel legacy.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.141295,
+                        -31.424157
+                  ]
+            },
+            {
+                  "name": "Iglesia Corazón de María",
+                  "text": "A Christian church dedicated to the Immaculate Heart of Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.182344,
+                        -31.394383
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "A Christian parish church dedicated to Our Lady of Mount Carmel, fostering local community faith.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.183678,
+                        -31.381012
+                  ]
+            },
+            {
+                  "name": "Mezquita Alta Córdoba",
+                  "text": "A mosque providing a dedicated space for Islamic worship in the Alta Córdoba neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.183833,
+                        -31.400204
+                  ]
+            },
+            {
+                  "name": "Templo del Santísimo Sacramento",
+                  "text": "A Christian temple devoted to the veneration of the Most Holy Sacrament.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.176838,
+                        -31.418322
+                  ]
+            },
+            {
+                  "name": "Parroquia San Cayetano",
+                  "text": "A Christian parish church devoted to Saint Cajetan, the patron saint of bread and work.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.129956,
+                        -31.424058
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "A Christian chapel dedicated to Our Lady of Guadalupe, featuring traditional religious devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.126691,
+                        -31.438578
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic chapel with religious and community importance, reflecting colonial social structures.",
       hu: "Egy elhagyatott jezsuita kápolna Córdoba tartományban, amely egykor egy árvaotthonhoz tartozott. A romok magányosan állnak a pampák szélén.",
@@ -1511,7 +17279,340 @@ image: "/poi-images/ar-capilla-huerfanos-history-v2.webp",
       fr: ["Fondée en 1793 par Francisco Javier de la Rosa.", "L'une des plus anciennes institutions caritatives de Santa Fe.", "Façade sobre avec un clocher unique.", "Centre important d'éducation de base pour les enfants défavorisés.", "Abrite une petite collection d'art sacré colonial.", "L'architecture reflète l'austérité et la fonctionnalité de l'époque.", "Située dans le centre historique de la « nouvelle » ville de Santa Fe.", "Monument historique national de l'histoire sociale argentine."],
     }, image: "/poi-images/ar-capilla-huerfanos-history-v2.webp"},
   {
-    id: "ar-reduccion-yapeyu-history-v2",
+    id: "ar-reduccion-yapeyu-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Capela do Aferidor",
+                  "text": "Eine archäologische Stätte mit Überresten einer historischen Kapelle in der Region Yapeyú.",
+                  "category": "historical",
+                  "coords": [
+                        -56.76007,
+                        -29.446923
+                  ]
+            },
+            {
+                  "name": "Casa de San Martín",
+                  "text": "Ein Denkmal, das an den Geburtsort des südamerikanischen Befreiers José de San Martín in Yapeyú erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -56.813612,
+                        -29.471312
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Jesuítico-Guaraní \"Padre Guillermo Furlong\"",
+                  "text": "Ein Museum, das die Kulturgeschichte der Jesuiten-Guaraní-Missionen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -56.81457,
+                        -29.471944
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de Yapeyú",
+                  "text": "Ein regionales historisches Museum, das Artefakte aus der Kolonialzeit und der lokalen Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -56.817389,
+                        -29.470951
+                  ]
+            },
+            {
+                  "name": "Balneario La Bomba",
+                  "text": "Ein Freizeit-Strandresort am Flussufer, das Bade- und Sonnenbereiche in der Nähe von Yapeyú bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.823668,
+                        -29.48256
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuiticas",
+                  "text": "Archäologische Überreste alter Steinstrukturen, die während der Jesuitenmission erbaut wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -56.815957,
+                        -29.471757
+                  ]
+            },
+            {
+                  "name": "Capela Santo Izidro",
+                  "text": "Eine christliche Kapelle, die den spirituellen Bedürfnissen der lokalen Gläubigen in der Nähe von Yapeyú dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.810349,
+                        -29.542401
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "Ein Königreichssaal-Versammlungsort für Jehovas Zeugen.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.804883,
+                        -29.540516
+                  ]
+            },
+            {
+                  "name": "Iglesia San Martin de Tours",
+                  "text": "Eine lokale christliche Kirche, die dem Heiligen Martin von Tours gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.816197,
+                        -29.47069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capela do Aferidor",
+                  "text": "Régészeti lelőhely egy történelmi kápolna maradványaival Yapeyú régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -56.76007,
+                        -29.446923
+                  ]
+            },
+            {
+                  "name": "Casa de San Martín",
+                  "text": "A dél-amerikai felszabadító, José de San Martín szülőhelyének emléket állító emlékmű Yapeyúban.",
+                  "category": "historical",
+                  "coords": [
+                        -56.813612,
+                        -29.471312
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Jesuítico-Guaraní \"Padre Guillermo Furlong\"",
+                  "text": "A jezsuita-guaraní missziók kultúrtörténetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -56.81457,
+                        -29.471944
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de Yapeyú",
+                  "text": "A gyarmati korszakból származó tárgyi emlékeket és a helytörténetet bemutató regionális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -56.817389,
+                        -29.470951
+                  ]
+            },
+            {
+                  "name": "Balneario La Bomba",
+                  "text": "Fürdőzésre és napozásra alkalmas folyóparti szabadidős strand Yapeyú közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.823668,
+                        -29.48256
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuiticas",
+                  "text": "A jezsuita missziós időszakban épült régi kőszerkezetek régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -56.815957,
+                        -29.471757
+                  ]
+            },
+            {
+                  "name": "Capela Santo Izidro",
+                  "text": "A helyi hívők lelki igényeit kiszolgáló keresztény kápolna Yapeyú közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.810349,
+                        -29.542401
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "Királyság-terem, Jehova Tanúinak gyülekezeti helye.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.804883,
+                        -29.540516
+                  ]
+            },
+            {
+                  "name": "Iglesia San Martin de Tours",
+                  "text": "Tours-i Szent Mártonnak szentelt helyi keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.816197,
+                        -29.47069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capela do Aferidor",
+                  "text": "Un sit arheologic care prezintă rămășițele unei capele istorice din regiunea Yapeyú.",
+                  "category": "historical",
+                  "coords": [
+                        -56.76007,
+                        -29.446923
+                  ]
+            },
+            {
+                  "name": "Casa de San Martín",
+                  "text": "Un monument care comemorează locul de naștere al eliberatorului sud-american José de San Martín din Yapeyú.",
+                  "category": "historical",
+                  "coords": [
+                        -56.813612,
+                        -29.471312
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Jesuítico-Guaraní \"Padre Guillermo Furlong\"",
+                  "text": "Un muzeu care expune istoria culturală a misiunilor iezuit-guarani.",
+                  "category": "museum",
+                  "coords": [
+                        -56.81457,
+                        -29.471944
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de Yapeyú",
+                  "text": "Un muzeu istoric regional care prezintă artefacte din epoca colonială și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -56.817389,
+                        -29.470951
+                  ]
+            },
+            {
+                  "name": "Balneario La Bomba",
+                  "text": "O stațiune balneară de agrement pe malul râului, oferind zone de înot și plajă lângă Yapeyú.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.823668,
+                        -29.48256
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuiticas",
+                  "text": "Rămășițe arheologice ale vechilor structuri de piatră construite în perioada misiunilor iezuite.",
+                  "category": "historical",
+                  "coords": [
+                        -56.815957,
+                        -29.471757
+                  ]
+            },
+            {
+                  "name": "Capela Santo Izidro",
+                  "text": "O capelă creștină care deservește nevoile spirituale ale credincioșilor locali de lângă Yapeyú.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.810349,
+                        -29.542401
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "O Sală a Regatului, loc de adunare pentru Martorii lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.804883,
+                        -29.540516
+                  ]
+            },
+            {
+                  "name": "Iglesia San Martin de Tours",
+                  "text": "O biserică creștină locală dedicată Sfântului Martin de Tours.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.816197,
+                        -29.47069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capela do Aferidor",
+                  "text": "An archaeological site featuring remnants of a historic chapel in the Yapeyú region.",
+                  "category": "historical",
+                  "coords": [
+                        -56.76007,
+                        -29.446923
+                  ]
+            },
+            {
+                  "name": "Casa de San Martín",
+                  "text": "A monument commemorating the birthplace of the South American liberator José de San Martín in Yapeyú.",
+                  "category": "historical",
+                  "coords": [
+                        -56.813612,
+                        -29.471312
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Jesuítico-Guaraní \"Padre Guillermo Furlong\"",
+                  "text": "A museum exhibiting the cultural history of the Jesuit-Guaraní missions.",
+                  "category": "museum",
+                  "coords": [
+                        -56.81457,
+                        -29.471944
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de Yapeyú",
+                  "text": "A regional historical museum showcasing artifacts from the colonial era and local history.",
+                  "category": "museum",
+                  "coords": [
+                        -56.817389,
+                        -29.470951
+                  ]
+            },
+            {
+                  "name": "Balneario La Bomba",
+                  "text": "A recreational riverbank beach resort offering swimming and sunbathing areas near Yapeyú.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.823668,
+                        -29.48256
+                  ]
+            },
+            {
+                  "name": "Ruinas Jesuiticas",
+                  "text": "Archaeological remnants of old stone structures built during the Jesuit mission period.",
+                  "category": "historical",
+                  "coords": [
+                        -56.815957,
+                        -29.471757
+                  ]
+            },
+            {
+                  "name": "Capela Santo Izidro",
+                  "text": "A Christian chapel serving the spiritual needs of local worshippers near Yapeyú.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.810349,
+                        -29.542401
+                  ]
+            },
+            {
+                  "name": "Salão do Reino das Testemunhas de Jeová",
+                  "text": "A Kingdom Hall gathering place for Jehovah's Witnesses.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.804883,
+                        -29.540516
+                  ]
+            },
+            {
+                  "name": "Iglesia San Martin de Tours",
+                  "text": "A local Christian church dedicated to Saint Martin of Tours.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.816197,
+                        -29.47069
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The birthplace of General José de San Martín, a site of immense historical pride for Argentina.",
       hu: "A híres jezsuita misszió maradványai Corrientes tartományban, San Martín tábornok szülőhelyén. A település fontos spirituális és kulturális bázis volt.",

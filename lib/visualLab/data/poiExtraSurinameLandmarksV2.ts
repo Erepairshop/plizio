@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraSurinameLandmarksV2: POI[] = [
     {
-    id: "st-peter-paul-cathedral-landmarks-v2",
+    id: "st-peter-paul-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stichting der Islamitische Gemeenten in Suriname",
+                  "text": "Der Hauptsitz der islamischen Gemeinden in Suriname befindet sich in der Nähe der großen Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154941,
+                        5.831954
+                  ]
+            },
+            {
+                  "name": "Sint-Petrus-en-Pauluskathedraal",
+                  "text": "Die größte Holzkirche der westlichen Hemisphäre beeindruckt durch ihre gelbe Fassade und kunstvolle Schnitzereien.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153933,
+                        5.828717
+                  ]
+            },
+            {
+                  "name": "Heilige Driekoningenkerk",
+                  "text": "Diese katholische Kirche im Zentrum zeigt den typischen lokalen Baustil mit ihrer hölzernen Struktur.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.150509,
+                        5.835911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stichting der Islamitische Gemeenten in Suriname",
+                  "text": "A suriname-i iszlám közösségek székháza a nagy székesegyház közelében található.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154941,
+                        5.831954
+                  ]
+            },
+            {
+                  "name": "Sint-Petrus-en-Pauluskathedraal",
+                  "text": "A nyugati félteke legnagyobb fatemploma sárga homlokzatával és díszes fafaragásaival nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153933,
+                        5.828717
+                  ]
+            },
+            {
+                  "name": "Heilige Driekoningenkerk",
+                  "text": "Ez a központi katolikus templom fa szerkezetével a tipikus helyi építészeti stílust tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.150509,
+                        5.835911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stichting der Islamitische Gemeenten in Suriname",
+                  "text": "Sediul comunităților islamice din Suriname este situat în apropierea marii catedrale.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154941,
+                        5.831954
+                  ]
+            },
+            {
+                  "name": "Sint-Petrus-en-Pauluskathedraal",
+                  "text": "Cea mai mare catedrală de lemn din emisfera vestică impresionează prin fațada sa galbenă și sculpturile detaliate.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153933,
+                        5.828717
+                  ]
+            },
+            {
+                  "name": "Heilige Driekoningenkerk",
+                  "text": "Această biserică catolică centrală prezintă stilul arhitectural local tipic prin structura sa de lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.150509,
+                        5.835911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stichting der Islamitische Gemeenten in Suriname",
+                  "text": "The headquarters of the Islamic communities in Suriname is located near the large cathedral.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154941,
+                        5.831954
+                  ]
+            },
+            {
+                  "name": "Sint-Petrus-en-Pauluskathedraal",
+                  "text": "The largest wooden cathedral in the Western Hemisphere features a striking yellow facade and intricate carvings.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153933,
+                        5.828717
+                  ]
+            },
+            {
+                  "name": "Heilige Driekoningenkerk",
+                  "text": "This central Catholic church showcases the typical local architectural style with its wooden structure.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.150509,
+                        5.835911
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SR-XX",
     coords: [-55.1542, 5.8286],
@@ -50,7 +167,52 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       fr: ["La cathédrale est redevenue le joyau de la ville après une longue restauration."],
     }, image: "/poi-images/st-peter-paul-cathedral-landmarks-v2.webp"},
   {
-    id: "centrale-markt-paramaribo-landmarks-v2",
+    id: "centrale-markt-paramaribo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vreedzaammarkt",
+                  "text": "Ein Markt am Flussufer in Paramaribo, der für frischen Fisch und traditionelles Kunsthandwerk der indigenen Bevölkerung bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.15767,
+                        5.82371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vreedzaammarkt",
+                  "text": "Paramaribo folyóparti piaca, amely friss halairól és az őshonos közösségek hagyományos kézműves termékeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.15767,
+                        5.82371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vreedzaammarkt",
+                  "text": "O piață pe malul râului în Paramaribo, renumită pentru peștele proaspăt și artizanatul tradițional al populației indigene.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.15767,
+                        5.82371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vreedzaammarkt",
+                  "text": "A riverside market in Paramaribo known for its fresh fish and traditional handicrafts made by indigenous communities.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.15767,
+                        5.82371
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SR-XX",
     coords: [-55.1564, 5.8239],
@@ -144,7 +306,160 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       fr: ["La proximité immédiate entre la synagogue et la mosquée est un symbole de la tolérance surinamienne."],
     }, image: "/poi-images/neveh-shalom-synagogue-landmarks-v2.webp"},
   {
-    id: "ahmadiyya-mosque-landmarks-v2",
+    id: "ahmadiyya-mosque-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Art Castle",
+                  "text": "Ein kreatives Zentrum und Kunstzentrum, das lokale surinamische Künstler und ihre Werke fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.161136,
+                        5.828899
+                  ]
+            },
+            {
+                  "name": "Sint Alfonsuskerk",
+                  "text": "Ein markantes römisch-katholisches Kirchengebäude, das der örtlichen Pfarrei in Paramaribo dient.",
+                  "category": "religious",
+                  "coords": [
+                        -55.171121,
+                        5.834162
+                  ]
+            },
+            {
+                  "name": "Synagoge Neve Shalom",
+                  "text": "Eine historische Synagoge aus dem 19. Jahrhundert, bekannt für ihren traditionellen Sandboden und die Kolonialarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        -55.159209,
+                        5.828446
+                  ]
+            },
+            {
+                  "name": "New Generation Gods Trumpet / Nieuwe Generatie Godsbazuin",
+                  "text": "Ein modernes christliches Kirchengebäude, das für Gottesdienste und Gospel-Veranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.169631,
+                        5.833335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Art Castle",
+                  "text": "Kreatív központ és művészeti központ, amely a helyi suriname-i művészeket és munkáikat népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.161136,
+                        5.828899
+                  ]
+            },
+            {
+                  "name": "Sint Alfonsuskerk",
+                  "text": "Paramaribo helyi plébániáját kiszolgáló jelentős római katolikus templomépület.",
+                  "category": "religious",
+                  "coords": [
+                        -55.171121,
+                        5.834162
+                  ]
+            },
+            {
+                  "name": "Synagoge Neve Shalom",
+                  "text": "Történelmi, 19. századi zsinagóga, amely hagyományos homokos padlójáról és gyarmati építészetéről híres.",
+                  "category": "religious",
+                  "coords": [
+                        -55.159209,
+                        5.828446
+                  ]
+            },
+            {
+                  "name": "New Generation Gods Trumpet / Nieuwe Generatie Godsbazuin",
+                  "text": "Modern keresztény templomépület, amelyet közösségi istentiszteletekre és gospel eseményekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.169631,
+                        5.833335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Art Castle",
+                  "text": "Un hub creativ și un centru de artă care promovează artiștii locali din Surinam și lucrările acestora.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.161136,
+                        5.828899
+                  ]
+            },
+            {
+                  "name": "Sint Alfonsuskerk",
+                  "text": "O clădire importantă a bisericii romano-catolice care deservește parohia locală din Paramaribo.",
+                  "category": "religious",
+                  "coords": [
+                        -55.171121,
+                        5.834162
+                  ]
+            },
+            {
+                  "name": "Synagoge Neve Shalom",
+                  "text": "O sinagogă istorică din secolul al XIX-lea, faimoasă pentru podeaua sa tradițională de nisip și arhitectura colonială.",
+                  "category": "religious",
+                  "coords": [
+                        -55.159209,
+                        5.828446
+                  ]
+            },
+            {
+                  "name": "New Generation Gods Trumpet / Nieuwe Generatie Godsbazuin",
+                  "text": "O clădire modernă a bisericii creștine folosită pentru închinare comunitară și evenimente gospel.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.169631,
+                        5.833335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art Castle",
+                  "text": "A creative hub and arts center that promotes local Surinamese artists and their work.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.161136,
+                        5.828899
+                  ]
+            },
+            {
+                  "name": "Sint Alfonsuskerk",
+                  "text": "A prominent Roman Catholic church building serving the local parish in Paramaribo.",
+                  "category": "religious",
+                  "coords": [
+                        -55.171121,
+                        5.834162
+                  ]
+            },
+            {
+                  "name": "Synagoge Neve Shalom",
+                  "text": "A historic 19th-century synagogue famous for its traditional sandy floor and colonial architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -55.159209,
+                        5.828446
+                  ]
+            },
+            {
+                  "name": "New Generation Gods Trumpet / Nieuwe Generatie Godsbazuin",
+                  "text": "A modern Christian church building used for community worship and gospel events.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.169631,
+                        5.833335
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SR-XX",
     coords: [-55.1585, 5.8275],
@@ -285,7 +600,88 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       fr: ["La place est un symbole national de liberté et de souveraineté."],
     }, image: "/poi-images/onafhankelijkheidsplein-landmarks-v2.webp"},
   {
-    id: "palmentuin-landmarks-v2",
+    id: "palmentuin-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Combékerk",
+                  "text": "Eine historische reformierte Kirche, die das Viertel Combe in der Nähe des Palmentuins bedient.",
+                  "category": "religious",
+                  "coords": [
+                        -55.149008,
+                        5.831811
+                  ]
+            },
+            {
+                  "name": "Masdjid Nabawi",
+                  "text": "Eine Moschee für die muslimische Gemeinde, gelegen in der Nähe des schattigen Palmentuins.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.146629,
+                        5.833445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Combékerk",
+                  "text": "Egy történelmi református templom, amely a Palmentuin közelében lévő Combe negyedet szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -55.149008,
+                        5.831811
+                  ]
+            },
+            {
+                  "name": "Masdjid Nabawi",
+                  "text": "A muszlim közösség mecsetje, amely az árnyas Palmentuin közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.146629,
+                        5.833445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Combékerk",
+                  "text": "O biserică reformată istorică ce deservește cartierul Combe, situată în apropiere de Palmentuin.",
+                  "category": "religious",
+                  "coords": [
+                        -55.149008,
+                        5.831811
+                  ]
+            },
+            {
+                  "name": "Masdjid Nabawi",
+                  "text": "O moschee pentru comunitatea musulmană, situată în apropierea umbrosului Palmentuin.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.146629,
+                        5.833445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Combe Church",
+                  "text": "A historic Reformed church serving the Combe neighborhood near the Palmentuin.",
+                  "category": "religious",
+                  "coords": [
+                        -55.149008,
+                        5.831811
+                  ]
+            },
+            {
+                  "name": "Masdjid Nabawi",
+                  "text": "A mosque for the Muslim community, located near the shaded Palmentuin park.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.146629,
+                        5.833445
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SR-XX",
     coords: [-55.1519, 5.8278],
@@ -367,7 +763,592 @@ export const poiExtraSurinameLandmarksV2: POI[] = [
       en: ["The palace is a national monument and a symbol of state unity."]
     }, image: "/poi-images/presidential-palace-landmarks-v2.webp"},
   {
-    id: "arya-dewaker-temple-landmarks-v2",
+    id: "arya-dewaker-temple-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jacana Amazon Wellness Resort",
+                  "text": "Ein luxuriöses Öko-Resort in Paramaribo mit künstlichen Wasserfällen und üppigen Gärten voller Amazonas-Pflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.188474,
+                        5.813454
+                  ]
+            },
+            {
+                  "name": "Lalarookh gebouw (lalarookh partyterras/vergaderzaal)",
+                  "text": "Ein Kulturzentrum, das nach dem Schiff benannt ist, welches 1873 die ersten indischen Vertragsarbeiter nach Suriname brachte.",
+                  "category": "historical",
+                  "coords": [
+                        -55.206514,
+                        5.815034
+                  ]
+            },
+            {
+                  "name": "Shri Krishna Mandir",
+                  "text": "Ein hinduistischer Tempel in Paramaribo, der für seine kunstvollen Verzierungen und religiösen Feiern bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.191092,
+                        5.815425
+                  ]
+            },
+            {
+                  "name": "Bethaniëkerk",
+                  "text": "Eine evangelische Kirche in Paramaribo, die eine wichtige Rolle im Gemeindeleben und der Seelsorge spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.209923,
+                        5.829218
+                  ]
+            },
+            {
+                  "name": "Moskee Qamrul Islam",
+                  "text": "Eine Moschee im Wanica-Distrikt, erkennbar an ihrem markanten Minarett und der klassischen islamischen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.216693,
+                        5.80857
+                  ]
+            },
+            {
+                  "name": "Masdjid Baitur Rochmaan",
+                  "text": "Eine traditionelle javanische Moschee in Paramaribo, ein zentraler Ort für die religiösen Bräuche dieser Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -55.276207,
+                        5.786101
+                  ]
+            },
+            {
+                  "name": "Masdjid Aziezirogiem",
+                  "text": "Eine nachbarschaftliche Moschee in Paramaribo, die den lokalen Muslimen Raum für tägliche Gebete bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -55.233108,
+                        5.795544
+                  ]
+            },
+            {
+                  "name": "De Kerk van Jezus Christus van de Heiligen der Laatste Dagen",
+                  "text": "Ein modernes Versammlungshaus der Kirche Jesu Christi der Heiligen der Letzten Tage im Herzen von Paramaribo.",
+                  "category": "religious",
+                  "coords": [
+                        -55.204196,
+                        5.82323
+                  ]
+            },
+            {
+                  "name": "Oelle Evangelie Gemeente Stromen Van Kracht",
+                  "text": "Eine lebhafte evangelikale Gemeinde, die für ihre mitreißende Gospelmusik und aktive Jugendarbeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196005,
+                        5.809507
+                  ]
+            },
+            {
+                  "name": "Koningkrijkszaal van Jehovah's Getuigen",
+                  "text": "Religiöse Begegnungsstätte der Zeugen Jehovas am Stadtrand von Paramaribo für regelmäßiges Bibelstudium.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.200006,
+                        5.809778
+                  ]
+            },
+            {
+                  "name": "De Wesleyaanse Gemeente",
+                  "text": "Eine wesleyanische Kirche in Paramaribo, die Gottesdienste in einer herzlichen, gemeinschaftlichen Atmosphäre abhält.",
+                  "category": "religious",
+                  "coords": [
+                        -55.202123,
+                        5.812483
+                  ]
+            },
+            {
+                  "name": "De Bruidsgemeente",
+                  "text": "Eine christliche Glaubensgemeinschaft in Paramaribo, deren Gottesdienste den Fokus auf bibeltreue Verkündigung legen.",
+                  "category": "religious",
+                  "coords": [
+                        -55.204218,
+                        5.813041
+                  ]
+            },
+            {
+                  "name": "Shriganeshmandir",
+                  "text": "Ein dem elefantenköpfigen Gott Ganesha gewidmeter Tempel, ein wichtiges Ziel für hinduistische Pilger in Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.213023,
+                        5.813643
+                  ]
+            },
+            {
+                  "name": "Bangun Rukun Islam",
+                  "text": "Eine Moschee, die durch ihre Architektur die kulturelle Verschmelzung der javanischen Einwanderer in Suriname zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.231985,
+                        5.810187
+                  ]
+            },
+            {
+                  "name": "Shri Hanuman Mandir",
+                  "text": "Hinduistischer Tempel, der den Affengott Hanuman ehrt und für seine friedliche Atmosphäre geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.230132,
+                        5.795196
+                  ]
+            },
+            {
+                  "name": "Nasir Moskee",
+                  "text": "Die Nasir-Moschee dient als Zentrum für religiöse Unterweisung und Gemeinschaftsgebete in Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196442,
+                        5.794854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jacana Amazon Wellness Resort",
+                  "text": "Luxus öko-üdülőhely Paramaribóban mesterséges vízesésekkel és buja, amazóniai növényekkel teli kertekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.188474,
+                        5.813454
+                  ]
+            },
+            {
+                  "name": "Lalarookh gebouw (lalarookh partyterras/vergaderzaal)",
+                  "text": "Kulturális központ, amelyet arról a hajóról neveztek el, amely 1873-ban az első indiai munkásokat Suriname-ba hozta.",
+                  "category": "historical",
+                  "coords": [
+                        -55.206514,
+                        5.815034
+                  ]
+            },
+            {
+                  "name": "Shri Krishna Mandir",
+                  "text": "Hindu templom Paramaribóban, amely művészi díszítéseiről és vallási ünnepeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.191092,
+                        5.815425
+                  ]
+            },
+            {
+                  "name": "Bethaniëkerk",
+                  "text": "Evangélikus templom Paramaribóban, amely fontos szerepet játszik a közösségi életben és a lelki gondozásban.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.209923,
+                        5.829218
+                  ]
+            },
+            {
+                  "name": "Moskee Qamrul Islam",
+                  "text": "Mecset Wanica körzetében, amely jellegzetes minaretjéről és klasszikus iszlám építészetéről ismerhető fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.216693,
+                        5.80857
+                  ]
+            },
+            {
+                  "name": "Masdjid Baitur Rochmaan",
+                  "text": "Hagyományos jávai mecset Paramaribóban, a közösség vallási szokásainak központi helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -55.276207,
+                        5.786101
+                  ]
+            },
+            {
+                  "name": "Masdjid Aziezirogiem",
+                  "text": "Városrészi mecset Paramaribóban, amely helyet biztosít a helyi muszlimok napi imáihoz.",
+                  "category": "religious",
+                  "coords": [
+                        -55.233108,
+                        5.795544
+                  ]
+            },
+            {
+                  "name": "De Kerk van Jezus Christus van de Heiligen der Laatste Dagen",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza modern gyülekezeti háza Paramaribo szívében.",
+                  "category": "religious",
+                  "coords": [
+                        -55.204196,
+                        5.82323
+                  ]
+            },
+            {
+                  "name": "Oelle Evangelie Gemeente Stromen Van Kracht",
+                  "text": "Élénk evangéliumi gyülekezet, amely magával ragadó gospel zenéjéről és aktív ifjúsági munkájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196005,
+                        5.809507
+                  ]
+            },
+            {
+                  "name": "Koningkrijkszaal van Jehovah's Getuigen",
+                  "text": "Jehova Tanúi vallási találkozóhelye Paramaribo szélén, a rendszeres bibliatanulmányozás helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.200006,
+                        5.809778
+                  ]
+            },
+            {
+                  "name": "De Wesleyaanse Gemeente",
+                  "text": "Wesleyánus templom Paramaribóban, amely családias, közösségi légkörben tartja istentiszteleteit.",
+                  "category": "religious",
+                  "coords": [
+                        -55.202123,
+                        5.812483
+                  ]
+            },
+            {
+                  "name": "De Bruidsgemeente",
+                  "text": "Keresztény hitéleti közösség Paramaribóban, amelynek istentiszteletei a bibliahű tanításra összpontosítanak.",
+                  "category": "religious",
+                  "coords": [
+                        -55.204218,
+                        5.813041
+                  ]
+            },
+            {
+                  "name": "Shriganeshmandir",
+                  "text": "Az elefántfejű Ganésa istennek szentelt templom, a hindu zarándokok fontos célpontja Paramaribóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.213023,
+                        5.813643
+                  ]
+            },
+            {
+                  "name": "Bangun Rukun Islam",
+                  "text": "Mecset, amely építészetén keresztül mutatja be a suriname-i jávai bevándorlók kulturális fúzióját.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.231985,
+                        5.810187
+                  ]
+            },
+            {
+                  "name": "Shri Hanuman Mandir",
+                  "text": "Hindu templom, amely Hanumán majomistent tiszteli, és békés hangulatáért kedvelt a látogatók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.230132,
+                        5.795196
+                  ]
+            },
+            {
+                  "name": "Nasir Moskee",
+                  "text": "A Nasir-mecset a vallási oktatás és a közösségi imádságok központjaként szolgál Paramaribóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196442,
+                        5.794854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jacana Amazon Wellness Resort",
+                  "text": "Un complex eco de lux în Paramaribo, cu cascade artificiale și grădini luxuriante pline de plante amazoniene.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.188474,
+                        5.813454
+                  ]
+            },
+            {
+                  "name": "Lalarookh gebouw (lalarookh partyterras/vergaderzaal)",
+                  "text": "Un centru cultural numit după nava care a adus primii muncitori indieni în Surinam în anul 1873.",
+                  "category": "historical",
+                  "coords": [
+                        -55.206514,
+                        5.815034
+                  ]
+            },
+            {
+                  "name": "Shri Krishna Mandir",
+                  "text": "Un templu hindu din Paramaribo, cunoscut pentru decorațiunile sale artistice și celebrările religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.191092,
+                        5.815425
+                  ]
+            },
+            {
+                  "name": "Bethaniëkerk",
+                  "text": "O biserică evanghelică din Paramaribo, care joacă un rol important în viața comunității și asistența spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.209923,
+                        5.829218
+                  ]
+            },
+            {
+                  "name": "Moskee Qamrul Islam",
+                  "text": "O moschee în districtul Wanica, ușor de recunoscut după minaretul său distinctiv și arhitectura islamică clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.216693,
+                        5.80857
+                  ]
+            },
+            {
+                  "name": "Masdjid Baitur Rochmaan",
+                  "text": "O moschee tradițională javaneză din Paramaribo, un loc central pentru obiceiurile religioase ale acestei comunități.",
+                  "category": "religious",
+                  "coords": [
+                        -55.276207,
+                        5.786101
+                  ]
+            },
+            {
+                  "name": "Masdjid Aziezirogiem",
+                  "text": "O moschee de cartier din Paramaribo, care oferă spațiu pentru rugăciunile zilnice ale musulmanilor locali.",
+                  "category": "religious",
+                  "coords": [
+                        -55.233108,
+                        5.795544
+                  ]
+            },
+            {
+                  "name": "De Kerk van Jezus Christus van de Heiligen der Laatste Dagen",
+                  "text": "O casă de întruniri modernă a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă în inima orașului Paramaribo.",
+                  "category": "religious",
+                  "coords": [
+                        -55.204196,
+                        5.82323
+                  ]
+            },
+            {
+                  "name": "Oelle Evangelie Gemeente Stromen Van Kracht",
+                  "text": "O congregație evanghelică plină de viață, cunoscută pentru muzica gospel antrenantă și activitățile cu tinerii.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196005,
+                        5.809507
+                  ]
+            },
+            {
+                  "name": "Koningkrijkszaal van Jehovah's Getuigen",
+                  "text": "Loc de întâlnire religioasă al Martorilor lui Iehova la periferia orașului Paramaribo pentru studiul biblic regulat.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.200006,
+                        5.809778
+                  ]
+            },
+            {
+                  "name": "De Wesleyaanse Gemeente",
+                  "text": "O biserică wesleyană din Paramaribo, care susține slujbe religioase într-o atmosferă caldă de comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -55.202123,
+                        5.812483
+                  ]
+            },
+            {
+                  "name": "De Bruidsgemeente",
+                  "text": "O comunitate creștină din Paramaribo, ale cărei slujbe se concentrează pe predicarea fidelă a Bibliei.",
+                  "category": "religious",
+                  "coords": [
+                        -55.204218,
+                        5.813041
+                  ]
+            },
+            {
+                  "name": "Shriganeshmandir",
+                  "text": "Un templu dedicat zeului Ganesha, cu cap de elefant, o destinație importantă pentru pelerinii hinduși din Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.213023,
+                        5.813643
+                  ]
+            },
+            {
+                  "name": "Bangun Rukun Islam",
+                  "text": "O moschee care ilustrează, prin arhitectura sa, fuziunea culturală a imigranților javanezi din Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.231985,
+                        5.810187
+                  ]
+            },
+            {
+                  "name": "Shri Hanuman Mandir",
+                  "text": "Templu hindu care îl onorează pe zeul maimuță Hanuman, fiind apreciat pentru atmosfera sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.230132,
+                        5.795196
+                  ]
+            },
+            {
+                  "name": "Nasir Moskee",
+                  "text": "Moscheea Nasir servește drept centru pentru instruirea religioasă și rugăciunile comunitare din Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196442,
+                        5.794854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jacana Amazon Wellness Resort",
+                  "text": "A luxury eco-resort in Paramaribo featuring man-made waterfalls and lush gardens filled with Amazonian plants.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.188474,
+                        5.813454
+                  ]
+            },
+            {
+                  "name": "Lalarookh gebouw (lalarookh feest terras/ vergaderzaal)",
+                  "text": "A cultural complex named after the ship that brought the first Hindustani laborers to Suriname in 1873.",
+                  "category": "historical",
+                  "coords": [
+                        -55.206514,
+                        5.815034
+                  ]
+            },
+            {
+                  "name": "Shri Krishna Mandir",
+                  "text": "A Hindu temple in Paramaribo, known for its ornate decorations and vibrant religious celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.191092,
+                        5.815425
+                  ]
+            },
+            {
+                  "name": "Bethaniëkerk",
+                  "text": "An evangelical church in Paramaribo that plays a significant role in community life and spiritual care.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.209923,
+                        5.829218
+                  ]
+            },
+            {
+                  "name": "Moskee Qamrul Islam",
+                  "text": "A mosque in the Wanica district, recognizable by its prominent minaret and classical Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.216693,
+                        5.80857
+                  ]
+            },
+            {
+                  "name": "Masdjid Baitur Rochmaan",
+                  "text": "A traditional Javanese mosque in Paramaribo, serving as a central hub for the community's religious customs.",
+                  "category": "religious",
+                  "coords": [
+                        -55.276207,
+                        5.786101
+                  ]
+            },
+            {
+                  "name": "Masdjid Aziezirogiem",
+                  "text": "A neighborhood mosque in Paramaribo, providing space for the daily prayers of the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        -55.233108,
+                        5.795544
+                  ]
+            },
+            {
+                  "name": "De Kerk van Jezus Christus van de Heiligen der Laatste Dagen",
+                  "text": "A modern meetinghouse for the Church of Jesus Christ of Latter-day Saints in the heart of Paramaribo.",
+                  "category": "religious",
+                  "coords": [
+                        -55.204196,
+                        5.82323
+                  ]
+            },
+            {
+                  "name": "Oelle Evangelie Gemeente Stromen Van Kracht",
+                  "text": "A vibrant evangelical congregation known for its stirring gospel music and active youth programs.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196005,
+                        5.809507
+                  ]
+            },
+            {
+                  "name": "Koningkrijkszaal van Jehovah's Getuigen",
+                  "text": "A religious meeting place for Jehovah's Witnesses on the outskirts of Paramaribo for regular Bible study.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.200006,
+                        5.809778
+                  ]
+            },
+            {
+                  "name": "De Wesleyaanse Gemeente",
+                  "text": "A Wesleyan church in Paramaribo hosting religious services in a warm, communal atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        -55.202123,
+                        5.812483
+                  ]
+            },
+            {
+                  "name": "De Bruidsgemeente",
+                  "text": "A Christian faith community in Paramaribo whose services focus on biblical teachings and congregational life.",
+                  "category": "religious",
+                  "coords": [
+                        -55.204218,
+                        5.813041
+                  ]
+            },
+            {
+                  "name": "Shriganeshmandir",
+                  "text": "A temple dedicated to the elephant-headed god Ganesha, an important destination for Hindu pilgrims in Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.213023,
+                        5.813643
+                  ]
+            },
+            {
+                  "name": "Bangun Rukun Islam",
+                  "text": "A mosque that showcases the cultural fusion of Javanese immigrants in Suriname through its architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.231985,
+                        5.810187
+                  ]
+            },
+            {
+                  "name": "Shri Hanuman Mandir",
+                  "text": "A Hindu temple honoring the monkey god Hanuman, appreciated for its peaceful and spiritual atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.230132,
+                        5.795196
+                  ]
+            },
+            {
+                  "name": "Nasir Mosque",
+                  "text": "The Nasir Mosque serves as a center for religious instruction and communal prayers in Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196442,
+                        5.794854
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "SR-XX",
     coords: [-55.1914, 5.8169],

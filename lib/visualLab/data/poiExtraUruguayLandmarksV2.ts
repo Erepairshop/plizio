@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraUruguayLandmarksV2: POI[] = [
   {
-    id: "uy-mo-palacio-salvo-landmarks-v2",
+    id: "uy-mo-palacio-salvo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Auditorio Nelly Goitiño",
+                  "text": "Dieses ehemalige Kino dient heute als staatliches Auditorium für Ballett-, Chor- und Kammerkonzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.196285,
+                        -34.906415
+                  ]
+            },
+            {
+                  "name": "Centro de Fotografía de Montevideo",
+                  "text": "Das Fotografiezentrum befindet sich in einem ehemaligen Basar und verwaltet ein umfangreiches Archiv historischer Aufnahmen der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -56.197373,
+                        -34.906209
+                  ]
+            },
+            {
+                  "name": "espacio teatro",
+                  "text": "Dieser unabhängige Theaterraum in der Innenstadt widmet sich der Förderung lokaler zeitgenössischer Dramatiker.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.197952,
+                        -34.904357
+                  ]
+            },
+            {
+                  "name": "Museo Numismático",
+                  "text": "Das Münzmuseum in der Zentralbank präsentiert eine Sammlung seltener Geldscheine und Münzen aus der Geschichte Uruguays.",
+                  "category": "museum",
+                  "coords": [
+                        -56.199988,
+                        -34.903337
+                  ]
+            },
+            {
+                  "name": "Teatro Sala Verdi",
+                  "text": "Dieses historische Theater aus dem 19. Jahrhundert ist bekannt für seine prachtvolle Innenausstattung und klassische Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.196445,
+                        -34.908211
+                  ]
+            },
+            {
+                  "name": "Palacio Salvo",
+                  "text": "Der eklektische Wolkenkratzer aus den 1920er Jahren ist mit seinem charakteristischen Leuchtturmturm ein Wahrzeichen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.198357,
+                        -34.906766
+                  ]
+            },
+            {
+                  "name": "Parroquia San Miguel Garicoits",
+                  "text": "Diese Kirche wird aufgrund der Verbundenheit mit der baskischen Einwanderergemeinde Montevideos oft als „Kirche der Basken“ bezeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -56.195195,
+                        -34.904784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auditorio Nelly Goitiño",
+                  "text": "Ez az egykori mozi ma állami auditóriumként szolgál balett-, kórus- és kamarakoncertek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.196285,
+                        -34.906415
+                  ]
+            },
+            {
+                  "name": "Centro de Fotografía de Montevideo",
+                  "text": "A fotóművészeti központ egy egykori bazárban található, és a város történelmi felvételeinek kiterjedt archívumát kezeli.",
+                  "category": "museum",
+                  "coords": [
+                        -56.197373,
+                        -34.906209
+                  ]
+            },
+            {
+                  "name": "espacio teatro",
+                  "text": "Ez a belvárosi független színházi tér a helyi kortárs drámaírók támogatásának szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.197952,
+                        -34.904357
+                  ]
+            },
+            {
+                  "name": "Museo Numismático",
+                  "text": "A Központi Bankban található éremmúzeum Uruguay történelmének ritka bankjegyeit és érméit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.199988,
+                        -34.903337
+                  ]
+            },
+            {
+                  "name": "Teatro Sala Verdi",
+                  "text": "Ez a 19. századi történelmi színház pompás belső teréről és klasszikus építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.196445,
+                        -34.908211
+                  ]
+            },
+            {
+                  "name": "Palacio Salvo",
+                  "text": "Az 1920-as évekből származó eklektikus felhőkarcoló jellegzetes világítótorony-tornyával a város egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.198357,
+                        -34.906766
+                  ]
+            },
+            {
+                  "name": "Parroquia San Miguel Garicoits",
+                  "text": "Ezt a templomot gyakran a „baszkok templomaként” emlegetik, a montevideói baszk bevándorló közösséghez fűződő kapcsolata miatt.",
+                  "category": "religious",
+                  "coords": [
+                        -56.195195,
+                        -34.904784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auditorio Nelly Goitiño",
+                  "text": "Acest fost cinematograf servește astăzi ca auditoriu național pentru spectacole de balet, cor și concerte de cameră.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.196285,
+                        -34.906415
+                  ]
+            },
+            {
+                  "name": "Centro de Fotografía de Montevideo",
+                  "text": "Centrul de fotografie se află într-un fost bazar și administrează o arhivă vastă de imagini istorice ale orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -56.197373,
+                        -34.906209
+                  ]
+            },
+            {
+                  "name": "espacio teatro",
+                  "text": "Acest spațiu teatral independent din centrul orașului este dedicat promovării dramaturgilor locali contemporani.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.197952,
+                        -34.904357
+                  ]
+            },
+            {
+                  "name": "Museo Numismático",
+                  "text": "Muzeul numismatic din cadrul Băncii Centrale prezintă o colecție de bancnote și monede rare din istoria Uruguayului.",
+                  "category": "museum",
+                  "coords": [
+                        -56.199988,
+                        -34.903337
+                  ]
+            },
+            {
+                  "name": "Teatro Sala Verdi",
+                  "text": "Acest teatru istoric din secolul al XIX-lea este cunoscut pentru interiorul său somptuos și arhitectura clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.196445,
+                        -34.908211
+                  ]
+            },
+            {
+                  "name": "Palacio Salvo",
+                  "text": "Zgârie-norul eclectic din anii 1920 este un simbol al orașului, având un turn caracteristic în formă de far.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.198357,
+                        -34.906766
+                  ]
+            },
+            {
+                  "name": "Parroquia San Miguel Garicoits",
+                  "text": "Această biserică este adesea numită „Biserica Bascilor” datorită legăturii sale cu comunitatea de imigranți basci din Montevideo.",
+                  "category": "religious",
+                  "coords": [
+                        -56.195195,
+                        -34.904784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auditorio Nelly Goitiño",
+                  "text": "This former cinema now serves as a national auditorium for ballet, choir, and chamber music performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.196285,
+                        -34.906415
+                  ]
+            },
+            {
+                  "name": "Centro de Fotografía de Montevideo",
+                  "text": "Located in a former bazaar, this photography center manages an extensive archive of historic city images.",
+                  "category": "museum",
+                  "coords": [
+                        -56.197373,
+                        -34.906209
+                  ]
+            },
+            {
+                  "name": "espacio teatro",
+                  "text": "This independent theater space in the city center is dedicated to promoting local contemporary playwrights.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.197952,
+                        -34.904357
+                  ]
+            },
+            {
+                  "name": "Museo Numismático",
+                  "text": "The numismatic museum inside the Central Bank displays a collection of rare banknotes and coins from Uruguay's history.",
+                  "category": "museum",
+                  "coords": [
+                        -56.199988,
+                        -34.903337
+                  ]
+            },
+            {
+                  "name": "Teatro Sala Verdi",
+                  "text": "This 19th-century historic theater is known for its ornate interior and classical architectural style.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.196445,
+                        -34.908211
+                  ]
+            },
+            {
+                  "name": "Palacio Salvo",
+                  "text": "This eclectic 1920s skyscraper is a city landmark featuring a distinctive lighthouse-style tower.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.198357,
+                        -34.906766
+                  ]
+            },
+            {
+                  "name": "Parroquia San Miguel Garicoits",
+                  "text": "Often called the \"Church of the Basques,\" this temple reflects the heritage of the local Basque immigrant community.",
+                  "category": "religious",
+                  "coords": [
+                        -56.195195,
+                        -34.904784
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1983, -34.9064],
@@ -39,7 +300,232 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Palacio Salvo offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs du Palacio Salvo de nombreuses opportunités d'activités de loisirs."],
     }, image: "/poi-images/uy-mo-palacio-salvo-landmarks-v2.webp"},
   {
-    id: "uy-ma-casapueblo-landmarks-v2",
+    id: "uy-ma-casapueblo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punta Ballena",
+                  "text": "Eine dramatische felsige Halbinsel, die für ihre spektakulären Sonnenuntergänge über dem Atlantik berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.045124,
+                        -34.911581
+                  ]
+            },
+            {
+                  "name": "Museo – Taller de Casapueblo",
+                  "text": "Das ikonische weiße Skulpturenhaus des Künstlers Carlos Páez Vilaró beherbergt ein Museum und sein ehemaliges Atelier.",
+                  "category": "museum",
+                  "coords": [
+                        -55.044587,
+                        -34.908758
+                  ]
+            },
+            {
+                  "name": "Las grutas",
+                  "text": "Natürliche Küstenhöhlen, die direkt in die Klippen von Punta Ballena gehauen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.042904,
+                        -34.910563
+                  ]
+            },
+            {
+                  "name": "Punta del Chileno",
+                  "text": "Ein felsiger Küstenabschnitt mit weitem Blick über die Bucht von Maldonado.",
+                  "category": "natural",
+                  "coords": [
+                        -55.014592,
+                        -34.910888
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Ballena",
+                  "text": "Ein erhöhter Aussichtspunkt auf dem Bergrücken mit Blick auf den Atlantik und den Rio de la Plata.",
+                  "category": "natural",
+                  "coords": [
+                        -55.046641,
+                        -34.915501
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Ballena Ruta Panorámica",
+                  "text": "Aussichtspunkt an der Panoramastraße, die über den Kamm der Halbinsel Punta Ballena führt.",
+                  "category": "natural",
+                  "coords": [
+                        -55.038436,
+                        -34.895651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punta Ballena",
+                  "text": "Drámai sziklás félsziget, amely az Atlanti-óceán feletti látványos naplementéiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -55.045124,
+                        -34.911581
+                  ]
+            },
+            {
+                  "name": "Museo – Taller de Casapueblo",
+                  "text": "Carlos Páez Vilaró művész ikonikus fehér, szoborszerű épülete, amely múzeumnak és egykori műtermének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -55.044587,
+                        -34.908758
+                  ]
+            },
+            {
+                  "name": "Las grutas",
+                  "text": "Természetes tengerparti barlangok, amelyeket közvetlenül Punta Ballena szikláiba vájt a víz.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.042904,
+                        -34.910563
+                  ]
+            },
+            {
+                  "name": "Punta del Chileno",
+                  "text": "Sziklás tengerparti rész, ahonnan tágas kilátás nyílik a Maldonado-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -55.014592,
+                        -34.910888
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Ballena",
+                  "text": "Magaslati kilátó a gerincen, ahonnan rálátni az Atlanti-óceánra és a Rio de la Platára.",
+                  "category": "natural",
+                  "coords": [
+                        -55.046641,
+                        -34.915501
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Ballena Ruta Panorámica",
+                  "text": "Kilátóhely a Punta Ballena-félsziget gerincén futó panorámaút mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -55.038436,
+                        -34.895651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punta Ballena",
+                  "text": "O peninsulă stâncoasă dramatică, faimoasă pentru apusurile sale spectaculoase peste Oceanul Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        -55.045124,
+                        -34.911581
+                  ]
+            },
+            {
+                  "name": "Museo – Taller de Casapueblo",
+                  "text": "Clădirea sculpturală albă iconică a artistului Carlos Páez Vilaró găzduiește un muzeu și fostul său atelier.",
+                  "category": "museum",
+                  "coords": [
+                        -55.044587,
+                        -34.908758
+                  ]
+            },
+            {
+                  "name": "Las grutas",
+                  "text": "Grote de coastă naturale săpate direct în stâncile din Punta Ballena.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.042904,
+                        -34.910563
+                  ]
+            },
+            {
+                  "name": "Punta del Chileno",
+                  "text": "O porțiune de coastă stâncoasă cu vedere largă asupra Golfului Maldonado.",
+                  "category": "natural",
+                  "coords": [
+                        -55.014592,
+                        -34.910888
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Ballena",
+                  "text": "Un punct de belvedere ridicat pe creastă, cu vedere la Oceanul Atlantic și Rio de la Plata.",
+                  "category": "natural",
+                  "coords": [
+                        -55.046641,
+                        -34.915501
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Ballena Ruta Panorámica",
+                  "text": "Punct de observație pe drumul panoramic care străbate creasta peninsulei Punta Ballena.",
+                  "category": "natural",
+                  "coords": [
+                        -55.038436,
+                        -34.895651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punta Ballena",
+                  "text": "A dramatic rocky peninsula famous for its spectacular sunsets over the Atlantic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -55.045124,
+                        -34.911581
+                  ]
+            },
+            {
+                  "name": "Museo – Taller de Casapueblo",
+                  "text": "The iconic white sculptural building by artist Carlos Páez Vilaró houses a museum and his former studio.",
+                  "category": "museum",
+                  "coords": [
+                        -55.044587,
+                        -34.908758
+                  ]
+            },
+            {
+                  "name": "Las grutas",
+                  "text": "Natural coastal caves carved directly into the cliffs of Punta Ballena.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.042904,
+                        -34.910563
+                  ]
+            },
+            {
+                  "name": "Punta del Chileno",
+                  "text": "A rocky coastal point offering expansive views over the Maldonado Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -55.014592,
+                        -34.910888
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Ballena",
+                  "text": "An elevated viewpoint on the ridge overlooking the Atlantic and Rio de la Plata.",
+                  "category": "natural",
+                  "coords": [
+                        -55.046641,
+                        -34.915501
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Ballena Ruta Panorámica",
+                  "text": "Lookout point on the scenic road running along the ridge of the Punta Ballena peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -55.038436,
+                        -34.895651
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MA",
     coords: [-55.0442, -34.9089],
@@ -75,7 +561,232 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Casapueblo offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités de loisirs actifs dans les environs de Casapueblo."],
     }, image: "/poi-images/uy-ma-casapueblo-landmarks-v2.webp"},
   {
-    id: "uy-mo-estadio-centenario-landmarks-v2",
+    id: "uy-mo-estadio-centenario-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Fútbol",
+                  "text": "Dieses Museum befindet sich im historischen Estadio Centenario und zeigt Erinnerungsstücke der ersten Weltmeisterschaft von 1930.",
+                  "category": "museum",
+                  "coords": [
+                        -56.151487,
+                        -34.894247
+                  ]
+            },
+            {
+                  "name": "Parque Batlle",
+                  "text": "Ein weitläufiger öffentlicher Park, in dem sich das Estadio Centenario und das berühmte Denkmal „La Carreta“ befinden.",
+                  "category": "park",
+                  "coords": [
+                        -56.155288,
+                        -34.895266
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Budista Soka Gakkai",
+                  "text": "Ein buddhistisches Kulturzentrum nahe dem Parque Batlle, das als Raum für Chanten und Studium dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.143351,
+                        -34.887649
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Luján",
+                  "text": "Eine kleine katholische Kapelle für Unsere Liebe Frau von Luján, nahe dem Krankenhauskomplex im Parque Batlle.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.142784,
+                        -34.89208
+                  ]
+            },
+            {
+                  "name": "Parroquia San Ignacio de Loyola",
+                  "text": "Eine Jesuiten-Pfarrkirche, die für ihre aktive Gemeindearbeit und traditionellen Gottesdienste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.146884,
+                        -34.898506
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Renovada",
+                  "text": "Eine Baptistengemeinde, die im Viertel Parque Batlle zeitgenössische christliche Gottesdienste und Programme anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.152933,
+                        -34.903219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Fútbol",
+                  "text": "A történelmi Estadio Centenario épületében található múzeum az 1930-as első világbajnokság emléktárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.151487,
+                        -34.894247
+                  ]
+            },
+            {
+                  "name": "Parque Batlle",
+                  "text": "Kiterjedt nyilvános park, amely az Estadio Centenario stadionnak és a híres „La Carreta” emlékműnek ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        -56.155288,
+                        -34.895266
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Budista Soka Gakkai",
+                  "text": "Buddhista kulturális központ a Parque Batlle közelében, amely kántálásnak és tanulmányoknak ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.143351,
+                        -34.887649
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Luján",
+                  "text": "A Lujáni Miasszonyunknak szentelt kis katolikus kápolna a Parque Batlle kórházkomplexumának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.142784,
+                        -34.89208
+                  ]
+            },
+            {
+                  "name": "Parroquia San Ignacio de Loyola",
+                  "text": "Jezsuita plébániatemplom, amely aktív közösségi munkájáról és hagyományos istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.146884,
+                        -34.898506
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Renovada",
+                  "text": "Baptista templom, amely kortárs keresztény istentiszteleteket és közösségi programokat kínál a Parque Batlle környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.152933,
+                        -34.903219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Fútbol",
+                  "text": "Situat în incinta istoricului Estadio Centenario, acest muzeu expune obiecte de la prima Cupă Mondială din 1930.",
+                  "category": "museum",
+                  "coords": [
+                        -56.151487,
+                        -34.894247
+                  ]
+            },
+            {
+                  "name": "Parque Batlle",
+                  "text": "Un parc public vast care adăpostește Estadio Centenario și faimosul monument „La Carreta”.",
+                  "category": "park",
+                  "coords": [
+                        -56.155288,
+                        -34.895266
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Budista Soka Gakkai",
+                  "text": "Un centru cultural budist care servește ca spațiu pentru incantații și studiu lângă Parque Batlle.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.143351,
+                        -34.887649
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Luján",
+                  "text": "O mică chapelă catolică dedicată Maicii Domnului din Luján, situată lângă complexul spitalicesc din Parque Batlle.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.142784,
+                        -34.89208
+                  ]
+            },
+            {
+                  "name": "Parroquia San Ignacio de Loyola",
+                  "text": "O biserică parohială iezuită cunoscută pentru activitatea sa comunitară și slujbele religioase tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.146884,
+                        -34.898506
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Renovada",
+                  "text": "O biserică baptistă care oferă slujbe creștine contemporane în zona Parque Batlle.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.152933,
+                        -34.903219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Fútbol",
+                  "text": "Located within the historic Estadio Centenario, this museum showcases memorabilia from the first World Cup in 1930.",
+                  "category": "museum",
+                  "coords": [
+                        -56.151487,
+                        -34.894247
+                  ]
+            },
+            {
+                  "name": "Parque Batlle",
+                  "text": "An expansive public park that houses the Estadio Centenario and the famous \"La Carreta\" monument.",
+                  "category": "park",
+                  "coords": [
+                        -56.155288,
+                        -34.895266
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Budista Soka Gakkai",
+                  "text": "A Buddhist cultural center that serves as a space for chanting, study, and peace-building activities near Parque Batlle.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.143351,
+                        -34.887649
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Luján",
+                  "text": "A small Catholic chapel dedicated to Our Lady of Luján, located near the hospital complex in Parque Batlle.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.142784,
+                        -34.89208
+                  ]
+            },
+            {
+                  "name": "Parroquia San Ignacio de Loyola",
+                  "text": "A Jesuit parish church known for its active community outreach and traditional religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.146884,
+                        -34.898506
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Renovada",
+                  "text": "A Baptist church offering contemporary Christian worship and community programs in the Parque Batlle area.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.152933,
+                        -34.903219
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1528, -34.8944],
@@ -111,7 +822,448 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Estadio Centenario offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Estadio Centenario."],
     }, image: "/poi-images/uy-mo-estadio-centenario-landmarks-v2.webp"},
   {
-    id: "uy-ma-la-mano-landmarks-v2",
+    id: "uy-ma-la-mano-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montepilatus",
+                  "text": "Eine Kunstgalerie in Strandnähe, die Werke lokaler und zeitgenössischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -54.930734,
+                        -34.951007
+                  ]
+            },
+            {
+                  "name": "Museo Ralli Punta del Este",
+                  "text": "Ein bedeutendes Museum in einem weitläufigen Park, das sich auf zeitgenössische lateinamerikanische Kunst konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -54.927049,
+                        -34.92967
+                  ]
+            },
+            {
+                  "name": "Muelle La Pastora",
+                  "text": "Ein Aussichtspunkt an der Küste, der für seine spektakuläre Sicht auf den Sonnenuntergang über dem Atlantik bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -54.941951,
+                        -34.951883
+                  ]
+            },
+            {
+                  "name": "Bet Yaacob",
+                  "text": "Eine sephardische Synagoge, die als wichtiges Zentrum für die jüdische Gemeinde des Ferienortes dient.",
+                  "category": "religious",
+                  "coords": [
+                        -54.939403,
+                        -34.956985
+                  ]
+            },
+            {
+                  "name": "La Mano",
+                  "text": "Eine berühmte Skulptur am Brava-Strand, die fünf aus dem Sand ragende Finger darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.937291,
+                        -34.957891
+                  ]
+            },
+            {
+                  "name": "La Brava",
+                  "text": "Ein beliebter Atlantikstrand mit starken Wellen, an dem sich die berühmte Skulptur „Die Hand“ befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.902759,
+                        -34.937076
+                  ]
+            },
+            {
+                  "name": "Playa Mansa",
+                  "text": "Ein geschützter Strand auf der Westseite der Halbinsel mit ruhigem Wasser, ideal zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.946126,
+                        -34.944446
+                  ]
+            },
+            {
+                  "name": "El Emir",
+                  "text": "Ein bei Surfern beliebter Küstenabschnitt mit beständigen Wellen und feinem goldenem Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.940186,
+                        -34.96285
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Candelaria",
+                  "text": "Eine historische katholische Kirche im alten Stadtkern, bekannt für ihre blau-weiße Fassade.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.940399,
+                        -34.964506
+                  ]
+            },
+            {
+                  "name": "San Rafael",
+                  "text": "Eine charmante Kirche im Wohnviertel San Rafael, die sich durch ihre ruhige Lage auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.917168,
+                        -34.939443
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Fátima",
+                  "text": "Eine kleine katholische Kapelle, die der Jungfrau von Fatima gewidmet ist und für stille Andachten genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.938319,
+                        -34.95179
+                  ]
+            },
+            {
+                  "name": "Galería Sagasti",
+                  "text": "Eine Einkaufsgalerie an der Hauptstraße, die lokale Mode und kunsthandwerkliche Souvenirs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.93977,
+                        -34.95892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montepilatus",
+                  "text": "Művészeti galéria a tengerpart közelében, amely helyi és kortárs művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -54.930734,
+                        -34.951007
+                  ]
+            },
+            {
+                  "name": "Museo Ralli Punta del Este",
+                  "text": "Jelentős múzeum egy tágas parkban, amely a kortárs latin-amerikai művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -54.927049,
+                        -34.92967
+                  ]
+            },
+            {
+                  "name": "Muelle La Pastora",
+                  "text": "Tengerparti kilátópont, amely az Atlanti-óceán feletti látványos naplementéiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -54.941951,
+                        -34.951883
+                  ]
+            },
+            {
+                  "name": "Bet Yaacob",
+                  "text": "Szefárd zsinagóga, amely az üdülőváros zsidó közösségének fontos központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -54.939403,
+                        -34.956985
+                  ]
+            },
+            {
+                  "name": "La Mano",
+                  "text": "Híres szobor a Brava-strandon, amely öt homokból kiemelkedő ujjat ábrázol.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.937291,
+                        -34.957891
+                  ]
+            },
+            {
+                  "name": "La Brava",
+                  "text": "Népszerű atlanti-óceáni strand erős hullámokkal, ahol a híres „Kéz” szobor található.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.902759,
+                        -34.937076
+                  ]
+            },
+            {
+                  "name": "Playa Mansa",
+                  "text": "A félsziget nyugati oldalán található védett strand nyugodt vízzel, amely ideális úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.946126,
+                        -34.944446
+                  ]
+            },
+            {
+                  "name": "El Emir",
+                  "text": "Szörfösök körében népszerű tengerparti szakasz állandó hullámokkal és finom aranyhomokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.940186,
+                        -34.96285
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Candelaria",
+                  "text": "Történelmi katolikus templom az óvárosban, amely kék-fehér homlokzatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.940399,
+                        -34.964506
+                  ]
+            },
+            {
+                  "name": "San Rafael",
+                  "text": "Bájos templom a San Rafael lakónegyedben, amely nyugodt elhelyezkedésével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.917168,
+                        -34.939443
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Fátima",
+                  "text": "A Fatimai Szűznek szentelt kis katolikus kápolna, amelyet csendes imádságokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.938319,
+                        -34.95179
+                  ]
+            },
+            {
+                  "name": "Galería Sagasti",
+                  "text": "Bevásárlógaléria a főutcán, amely helyi divatcikkeket és kézműves szuveníreket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.93977,
+                        -34.95892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montepilatus",
+                  "text": "O galerie de artă situată aproape de plajă, care expune lucrări ale artiștilor locali și contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        -54.930734,
+                        -34.951007
+                  ]
+            },
+            {
+                  "name": "Museo Ralli Punta del Este",
+                  "text": "Un muzeu important situat într-un parc vast, concentrat pe arta contemporană latino-americană.",
+                  "category": "museum",
+                  "coords": [
+                        -54.927049,
+                        -34.92967
+                  ]
+            },
+            {
+                  "name": "Muelle La Pastora",
+                  "text": "Un punct de observație pe coastă, renumit pentru vederea spectaculoasă a apusului peste Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        -54.941951,
+                        -34.951883
+                  ]
+            },
+            {
+                  "name": "Bet Yaacob",
+                  "text": "O sinagogă sefardă care servește ca un centru important pentru comunitatea evreiască din stațiune.",
+                  "category": "religious",
+                  "coords": [
+                        -54.939403,
+                        -34.956985
+                  ]
+            },
+            {
+                  "name": "La Mano",
+                  "text": "O sculptură celebră pe plaja Brava, reprezentând cinci degete care ies din nisip.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.937291,
+                        -34.957891
+                  ]
+            },
+            {
+                  "name": "La Brava",
+                  "text": "O plajă populară la Atlantic, cu valuri puternice, unde se află faimoasa sculptură „Mâna”.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.902759,
+                        -34.937076
+                  ]
+            },
+            {
+                  "name": "Playa Mansa",
+                  "text": "O plajă adăpostită pe partea de vest a peninsulei, cu ape calme, ideală pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.946126,
+                        -34.944446
+                  ]
+            },
+            {
+                  "name": "El Emir",
+                  "text": "O porțiune de coastă populară printre surferi, cu valuri constante și nisip fin auriu.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.940186,
+                        -34.96285
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Candelaria",
+                  "text": "O biserică catolică istorică din centrul vechi, cunoscută pentru fațada sa albastru-alb.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.940399,
+                        -34.964506
+                  ]
+            },
+            {
+                  "name": "San Rafael",
+                  "text": "O biserică fermecătoare în cartierul rezidențial San Rafael, remarcată prin locația sa liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.917168,
+                        -34.939443
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Fátima",
+                  "text": "O mică capelă catolică dedicată Fecioarei de la Fatima, folosită pentru rugăciune discretă.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.938319,
+                        -34.95179
+                  ]
+            },
+            {
+                  "name": "Galería Sagasti",
+                  "text": "O galerie comercială pe strada principală, care oferă modă locală și suveniruri artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.93977,
+                        -34.95892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montepilatus",
+                  "text": "An art gallery located near the beach, showcasing works by local and contemporary artists.",
+                  "category": "museum",
+                  "coords": [
+                        -54.930734,
+                        -34.951007
+                  ]
+            },
+            {
+                  "name": "Museo Ralli Punta del Este",
+                  "text": "A major museum set in a spacious park, focusing on contemporary Latin American art.",
+                  "category": "museum",
+                  "coords": [
+                        -54.927049,
+                        -34.92967
+                  ]
+            },
+            {
+                  "name": "Sunset point",
+                  "text": "A coastal viewpoint renowned for its spectacular views of the sunset over the Atlantic Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -54.941951,
+                        -34.951883
+                  ]
+            },
+            {
+                  "name": "Bet Yaacob",
+                  "text": "A Sephardic synagogue serving as an important center for the resort's Jewish community.",
+                  "category": "religious",
+                  "coords": [
+                        -54.939403,
+                        -34.956985
+                  ]
+            },
+            {
+                  "name": "The Hand",
+                  "text": "A famous sculpture on Brava Beach depicting five fingers emerging from the sand.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.937291,
+                        -34.957891
+                  ]
+            },
+            {
+                  "name": "La Brava",
+                  "text": "A popular Atlantic beach with strong surf, home to the famous 'The Hand' sculpture.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.902759,
+                        -34.937076
+                  ]
+            },
+            {
+                  "name": "Mansa Beach",
+                  "text": "A sheltered beach on the west side of the peninsula with calm waters, ideal for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.946126,
+                        -34.944446
+                  ]
+            },
+            {
+                  "name": "El Emir",
+                  "text": "A coastal stretch popular among surfers, featuring consistent waves and fine golden sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.940186,
+                        -34.96285
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Candelaria",
+                  "text": "A historic Catholic church in the old town center, known for its blue and white facade.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.940399,
+                        -34.964506
+                  ]
+            },
+            {
+                  "name": "San Rafael",
+                  "text": "A charming church in the San Rafael residential neighborhood, noted for its peaceful setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.917168,
+                        -34.939443
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Fátima",
+                  "text": "A small Catholic chapel dedicated to Our Lady of Fatima, used for quiet devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.938319,
+                        -34.95179
+                  ]
+            },
+            {
+                  "name": "Galería Sagasti",
+                  "text": "A shopping gallery on the main avenue offering local fashion and artisanal souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.93977,
+                        -34.95892
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MA",
     coords: [-54.9372, -34.9575],
@@ -147,7 +1299,700 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["La Mano de Punta del Este offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités de loisirs actifs dans les environs de La Mano de Punta del Este."],
     }, image: "/poi-images/uy-ma-la-mano-landmarks-v2.webp"},
   {
-    id: "uy-mo-palacio-legislativo-landmarks-v2",
+    id: "uy-mo-palacio-legislativo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Cultural Mi Morena",
+                  "text": "Ein Kulturzentrum, das den afro-uruguayischen Traditionen gewidmet ist und Candombe-Trommelaufführungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.18584,
+                        -34.898501
+                  ]
+            },
+            {
+                  "name": "La Trastienda",
+                  "text": "Ein beliebter Veranstaltungsort für Konzerte, bekannt für internationale Künstler sowie lokale uruguayische Rockbands.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.178423,
+                        -34.898403
+                  ]
+            },
+            {
+                  "name": "Espacio de Arte Contemporáneo",
+                  "text": "Ein Museum für zeitgenössische Kunst, das in den umgebauten Zellen des ehemaligen Miguelete-Gefängnisses untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -56.180768,
+                        -34.894629
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Historia Natural",
+                  "text": "Uruguays ältestes Museum beherbergt umfangreiche Sammlungen von Fossilien, Flora und Fauna im Herzen von Montevideo.",
+                  "category": "museum",
+                  "coords": [
+                        -56.179769,
+                        -34.894493
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Diese historische Basilica minor im Viertel Aguada ist ein bedeutendes Zentrum katholischer Wallfahrt und Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        -56.187935,
+                        -34.89377
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pancracio",
+                  "text": "Diese katholische Pfarrei wird häufig von Einheimischen besucht, die die Fürsprache des heiligen Pankratius, des Patrons der Arbeit, suchen.",
+                  "category": "religious",
+                  "coords": [
+                        -56.177389,
+                        -34.891215
+                  ]
+            },
+            {
+                  "name": "Mercado Agrícola de Montevideo",
+                  "text": "In einem wunderschön restaurierten Eisenbau von 1913 bietet dieser Markt vielfältige lokale Produkte und Gourmet-Speisen.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.183359,
+                        -34.886887
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Merced y San Judas Tadeo",
+                  "text": "Diese städtische katholische Kirche ist Unserer Lieben Frau von der Barmherzigkeit und dem heiligen Judas Thaddäus gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -56.17431,
+                        -34.885632
+                  ]
+            },
+            {
+                  "name": "Iglesia del Reducto",
+                  "text": "Diese neoromanische Kirche im Viertel Reducto ist für ihre markanten Zwillingsglockentürme bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        -56.182162,
+                        -34.874456
+                  ]
+            },
+            {
+                  "name": "Palacio Legislativo",
+                  "text": "Dieses neoklassizistische Meisterwerk aus 27 verschiedenen uruguayischen Marmorsorten ist der Sitz des nationalen Parlaments.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.187171,
+                        -34.891213
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Pentecostal",
+                  "text": "Dieses pfingstlerische Gotteshaus dient der örtlichen christlichen Gemeinde mit lebendigen Gottesdiensten nahe dem Palacio Legislativo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.18197,
+                        -34.895592
+                  ]
+            },
+            {
+                  "name": "Parroquia San Miguel Arcángel",
+                  "text": "Eine katholische Stadtteilpfarrei, die dem Erzengel Michael gewidmet ist und Gottesdienste für die umliegenden Wohngebiete anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.17876,
+                        -34.881776
+                  ]
+            },
+            {
+                  "name": "Iglesia Puerta de Bendicion",
+                  "text": "Diese evangelikale christliche Kirche ist ein lokales Zentrum für spirituelle Zusammenkünfte und Gemeinschaftshilfe in Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.174549,
+                        -34.877172
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Eine örtliche Gemeinde der Kirche Gottes, die einen Ort für Gebet und christliche Gemeinschaft im Viertel bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.184772,
+                        -34.87477
+                  ]
+            },
+            {
+                  "name": "Seminario Cristo Rey",
+                  "text": "Dieses katholische Seminar und Gotteshaus ist Christus dem König gewidmet und liegt in der Stadtlandschaft von Montevideo.",
+                  "category": "religious",
+                  "coords": [
+                        -56.19304,
+                        -34.867387
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista de la Aguada",
+                  "text": "Diese methodistische Kirche im Viertel Aguada ist für ihr soziales Engagement und ihre schlichte Architektur bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.182896,
+                        -34.893495
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Guardia",
+                  "text": "Eine katholische Pfarrei, die Unserer Lieben Frau von der Wacht gewidmet ist und den Gläubigen vor Ort eine Heimat bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.181042,
+                        -34.886687
+                  ]
+            },
+            {
+                  "name": "Parroquia San Antonino",
+                  "text": "Diese örtliche katholische Kirche ehrt den heiligen Antoninus und dient den spirituellen Bedürfnissen der Bewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171288,
+                        -34.877014
+                  ]
+            },
+            {
+                  "name": "Capilla Hermanas del Perpetuo Socorro",
+                  "text": "Eine ruhige religiöse Kapelle, die von den Schwestern von der Immerwährenden Hilfe geführt wird und Raum für Gebet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.188828,
+                        -34.873074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Cultural Mi Morena",
+                  "text": "Az afro-uruguayi hagyományoknak szentelt kulturális központ, ahol élő candombe dobos előadások várják a látogatókat.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.18584,
+                        -34.898501
+                  ]
+            },
+            {
+                  "name": "La Trastienda",
+                  "text": "Népszerű koncerthelyszín, amely nemzetközi előadóknak, valamint helyi uruguayi rockzenekaroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.178423,
+                        -34.898403
+                  ]
+            },
+            {
+                  "name": "Espacio de Arte Contemporáneo",
+                  "text": "Kortárs művészeti múzeum, amely az egykori Miguelete börtön átalakított celláiban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -56.180768,
+                        -34.894629
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Historia Natural",
+                  "text": "Uruguay legrégebbi múzeuma kiterjedt fosszília-, növény- és állatgyűjteménynek ad otthont Montevideo szívében.",
+                  "category": "museum",
+                  "coords": [
+                        -56.179769,
+                        -34.894493
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Ez a történelmi kisbazilika Aguada negyedben a katolikus zarándoklat és áhítat kiemelkedő központja.",
+                  "category": "religious",
+                  "coords": [
+                        -56.187935,
+                        -34.89377
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pancracio",
+                  "text": "Ezt a katolikus plébániát sokan keresik fel Szent Pongrác, a munka és az egészség védőszentjének közbenjárását kérve.",
+                  "category": "religious",
+                  "coords": [
+                        -56.177389,
+                        -34.891215
+                  ]
+            },
+            {
+                  "name": "Mercado Agrícola de Montevideo",
+                  "text": "Egy gyönyörűen felújított, 1913-as vasszerkezetes épületben található piac helyi termékeket és ínyenc ételeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.183359,
+                        -34.886887
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Merced y San Judas Tadeo",
+                  "text": "Ez a városi katolikus templom az Irgalmas Szűzanyának és Szent Júdás Tádénak, a kilátástalan ügyek pártfogójának van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -56.17431,
+                        -34.885632
+                  ]
+            },
+            {
+                  "name": "Iglesia del Reducto",
+                  "text": "Ez a jellegzetes ikertornyairól ismert neoromán templom a Reducto negyed fölé magasodik.",
+                  "category": "religious",
+                  "coords": [
+                        -56.182162,
+                        -34.874456
+                  ]
+            },
+            {
+                  "name": "Palacio Legislativo",
+                  "text": "Ez a 27 féle uruguayi márványból épült neoklasszicista remekmű a nemzeti parlament székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.187171,
+                        -34.891213
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Pentecostal",
+                  "text": "Ez a pünkösdi imaház élénk istentiszteletekkel szolgálja a helyi keresztény közösséget a Palacio Legislativo környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.18197,
+                        -34.895592
+                  ]
+            },
+            {
+                  "name": "Parroquia San Miguel Arcángel",
+                  "text": "Mihály arkangyalnak szentelt katolikus plébánia, amely a környező lakóövezet hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.17876,
+                        -34.881776
+                  ]
+            },
+            {
+                  "name": "Iglesia Puerta de Bendicion",
+                  "text": "Ez az evangéliumi keresztény templom a spirituális összejövetelek és a közösségi támogatás helyi központja Montevideóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.174549,
+                        -34.877172
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Az Isten Gyülekezete helyi közössége, amely imádságra és keresztény közösségi életre nyújt lehetőséget a negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.184772,
+                        -34.87477
+                  ]
+            },
+            {
+                  "name": "Seminario Cristo Rey",
+                  "text": "Ez a Krisztus Királynak szentelt katolikus szeminárium és imaház Montevideo városi környezetében található.",
+                  "category": "religious",
+                  "coords": [
+                        -56.19304,
+                        -34.867387
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista de la Aguada",
+                  "text": "Ez az Aguada negyedben található metodista templom szociális tevékenységéről és egyszerű építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.182896,
+                        -34.893495
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Guardia",
+                  "text": "Az Őrző Szűzanyának szentelt katolikus plébánia, amely a helyi hívők spirituális otthona.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.181042,
+                        -34.886687
+                  ]
+            },
+            {
+                  "name": "Parroquia San Antonino",
+                  "text": "Ez a helyi katolikus templom Szent Antoninus tiszteletére épült, a környék lakóinak hitéletét szolgálva.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171288,
+                        -34.877014
+                  ]
+            },
+            {
+                  "name": "Capilla Hermanas del Perpetuo Socorro",
+                  "text": "A Mindigsegítő Szűzanya Nővérei által vezetett csendes kápolna, amely elmélyült imádságra nyújt lehetőséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.188828,
+                        -34.873074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Cultural Mi Morena",
+                  "text": "Un centru cultural dedicat tradițiilor afro-uruguayene, oferind spectacole live de tobe Candombe.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.18584,
+                        -34.898501
+                  ]
+            },
+            {
+                  "name": "La Trastienda",
+                  "text": "O locație populară pentru concerte, cunoscută pentru găzduirea artiștilor internaționali și locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.178423,
+                        -34.898403
+                  ]
+            },
+            {
+                  "name": "Espacio de Arte Contemporáneo",
+                  "text": "Un muzeu de artă contemporană găzduit în mod unic în celulele transformate ale fostei închisori Miguelete.",
+                  "category": "museum",
+                  "coords": [
+                        -56.180768,
+                        -34.894629
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Historia Natural",
+                  "text": "Cel mai vechi muzeu din Uruguay găzduiește colecții vaste de fosile, floră și faună în inima orașului Montevideo.",
+                  "category": "museum",
+                  "coords": [
+                        -56.179769,
+                        -34.894493
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Această basilică minoră istorică din cartierul Aguada este un centru important de pelerinaj și devoțiune catolică.",
+                  "category": "religious",
+                  "coords": [
+                        -56.187935,
+                        -34.89377
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pancracio",
+                  "text": "Această parohie catolică este vizitată de localnici care cer mijlocirea Sfântului Pancrațiu, patronul muncii și al sănătății.",
+                  "category": "religious",
+                  "coords": [
+                        -56.177389,
+                        -34.891215
+                  ]
+            },
+            {
+                  "name": "Mercado Agrícola de Montevideo",
+                  "text": "Găzduită într-o clădire cu structură de fier din 1913, restaurată superb, această piață oferă produse locale diverse și mâncare gourmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.183359,
+                        -34.886887
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Merced y San Judas Tadeo",
+                  "text": "Această biserică catolică urbană este dedicată Maicii Domnului a Milei și Sfântului Iuda Tadeul, patronul cauzelor pierdute.",
+                  "category": "religious",
+                  "coords": [
+                        -56.17431,
+                        -34.885632
+                  ]
+            },
+            {
+                  "name": "Iglesia del Reducto",
+                  "text": "Cunoscută pentru turnurile sale clopotniță gemene, această biserică neoromanică domină cartierul Reducto.",
+                  "category": "religious",
+                  "coords": [
+                        -56.182162,
+                        -34.874456
+                  ]
+            },
+            {
+                  "name": "Palacio Legislativo",
+                  "text": "Această capodoperă neoclasică, construită cu 27 de varietăți de marmură uruguayană, servește drept sediu al parlamentului național.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.187171,
+                        -34.891213
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Pentecostal",
+                  "text": "Această casă de cult penticostală servește comunitatea creștină locală cu slujbe pline de însuflețire în zona Palacio Legislativo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.18197,
+                        -34.895592
+                  ]
+            },
+            {
+                  "name": "Parroquia San Miguel Arcángel",
+                  "text": "O parohie catolică de cartier dedicată Arhanghelului Mihail, care oferă servicii religioase pentru zonele rezidențiale din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.17876,
+                        -34.881776
+                  ]
+            },
+            {
+                  "name": "Iglesia Puerta de Bendicion",
+                  "text": "Această biserică creștină evanghelică este un centru local pentru adunări spirituale și sprijin comunitar în Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.174549,
+                        -34.877172
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "O congregație locală a Bisericii lui Dumnezeu, care oferă un loc pentru rugăciune și părtășie creștină în district.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.184772,
+                        -34.87477
+                  ]
+            },
+            {
+                  "name": "Seminario Cristo Rey",
+                  "text": "Acest seminar catolic și loc de cult este dedicat lui Cristos Rege, fiind situat în peisajul urban al orașului Montevideo.",
+                  "category": "religious",
+                  "coords": [
+                        -56.19304,
+                        -34.867387
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista de la Aguada",
+                  "text": "Această biserică metodistă din zona Aguada este cunoscută pentru activitățile sale sociale și prezența arhitecturală simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.182896,
+                        -34.893495
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Guardia",
+                  "text": "O parohie catolică dedicată Maicii Domnului a Pazei, care oferă un cămin spiritual credincioșilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.181042,
+                        -34.886687
+                  ]
+            },
+            {
+                  "name": "Parroquia San Antonino",
+                  "text": "Această biserică catolică locală îl onorează pe Sfântul Antonin, servind nevoile spirituale ale locuitorilor din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171288,
+                        -34.877014
+                  ]
+            },
+            {
+                  "name": "Capilla Hermanas del Perpetuo Socorro",
+                  "text": "O capelă religioasă liniștită administrată de Surorile Ajutorului Perpetuu, oferind un spațiu pentru rugăciune contemplativă.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.188828,
+                        -34.873074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Cultural Mi Morena",
+                  "text": "A cultural center dedicated to Afro-Uruguayan traditions, featuring live Candombe drum performances and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.18584,
+                        -34.898501
+                  ]
+            },
+            {
+                  "name": "La Trastienda",
+                  "text": "A popular concert venue known for hosting both international artists and local Uruguayan rock and pop bands.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.178423,
+                        -34.898403
+                  ]
+            },
+            {
+                  "name": "Espacio de Arte Contemporáneo",
+                  "text": "A contemporary art museum uniquely housed in the converted cells of the former Miguelete Prison.",
+                  "category": "museum",
+                  "coords": [
+                        -56.180768,
+                        -34.894629
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Historia Natural",
+                  "text": "Uruguay's oldest museum features extensive collections of fossils, flora, and fauna in the heart of Montevideo.",
+                  "category": "museum",
+                  "coords": [
+                        -56.179769,
+                        -34.894493
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "This historic minor basilica in the Aguada neighborhood is a prominent center of Catholic pilgrimage and devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -56.187935,
+                        -34.89377
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pancracio",
+                  "text": "This Catholic parish is widely visited by locals seeking the intercession of Saint Pancras, the patron of work and health.",
+                  "category": "religious",
+                  "coords": [
+                        -56.177389,
+                        -34.891215
+                  ]
+            },
+            {
+                  "name": "Mercado Agrícola de Montevideo",
+                  "text": "Housed in a beautifully restored 1913 iron-structure building, this market offers diverse local produce and gourmet food.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.183359,
+                        -34.886887
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Merced y San Judas Tadeo",
+                  "text": "This urban Catholic church is dedicated to Our Lady of Mercy and Saint Jude Thaddeus, the patron of lost causes.",
+                  "category": "religious",
+                  "coords": [
+                        -56.17431,
+                        -34.885632
+                  ]
+            },
+            {
+                  "name": "Iglesia del Reducto",
+                  "text": "Known for its distinctive twin bell towers, this landmark Neo-Romanesque church overlooks the Reducto neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -56.182162,
+                        -34.874456
+                  ]
+            },
+            {
+                  "name": "Palacio Legislativo",
+                  "text": "Constructed with 27 varieties of Uruguayan marble, this Neoclassical masterpiece serves as the seat of the national parliament.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.187171,
+                        -34.891213
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Pentecostal",
+                  "text": "This Pentecostal house of worship serves the local Christian community with spirited services in the Palacio Legislativo area.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.18197,
+                        -34.895592
+                  ]
+            },
+            {
+                  "name": "Parroquia San Miguel Arcángel",
+                  "text": "A neighborhood Catholic parish dedicated to Archangel Michael, offering religious services to the surrounding residential streets.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.17876,
+                        -34.881776
+                  ]
+            },
+            {
+                  "name": "Iglesia Puerta de Bendicion",
+                  "text": "This evangelical Christian church is a local center for spiritual gathering and community support in Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.174549,
+                        -34.877172
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "A local congregation of the Church of God, providing a place for prayer and Christian fellowship in the district.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.184772,
+                        -34.87477
+                  ]
+            },
+            {
+                  "name": "Seminario Cristo Rey",
+                  "text": "This Catholic seminary and place of worship is dedicated to Christ the King, situated within Montevideo's urban landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -56.19304,
+                        -34.867387
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista de la Aguada",
+                  "text": "This Methodist church in the Aguada area is known for its social outreach and simple architectural presence.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.182896,
+                        -34.893495
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Guard Parish",
+                  "text": "A Catholic parish dedicated to Our Lady of the Guard, providing a spiritual home for the local faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.181042,
+                        -34.886687
+                  ]
+            },
+            {
+                  "name": "Parroquia San Antonino",
+                  "text": "This local Catholic church honors Saint Antoninus, serving the spiritual needs of the neighborhood's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171288,
+                        -34.877014
+                  ]
+            },
+            {
+                  "name": "Capilla Hermanas del Perpetuo Socorro",
+                  "text": "A quiet religious chapel run by the Sisters of Perpetual Help, providing a space for contemplative prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.188828,
+                        -34.873074
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1872, -34.8911],
@@ -183,7 +2028,52 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Palacio Legislativo offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs du Palacio Legislativo de nombreuses opportunités d'activités de loisirs."],
     }, image: "/poi-images/uy-mo-palacio-legislativo-landmarks-v2.webp"},
   {
-    id: "uy-mo-teatro-solis-landmarks-v2",
+    id: "uy-mo-teatro-solis-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Solís",
+                  "text": "Das Teatro Solís ist Uruguays wichtigstes Opernhaus und besticht durch seine monumentale neoklassizistische Fassade mit korinthischen Säulen.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.201,
+                        -34.907877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Solís",
+                  "text": "A Teatro Solís Uruguay legfontosabb operaháza, amely monumentális neoklasszicista homlokzatával és korinthoszi oszlopaival nyűgözi le a látogatókat.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.201,
+                        -34.907877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Solís",
+                  "text": "Teatro Solís este cea mai importantă operă din Uruguay, impresionând prin fațada sa neoclasică monumentală cu coloane corintice.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.201,
+                        -34.907877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Solís",
+                  "text": "The Solís Theatre is Uruguay's premier opera house, boasting a monumental neoclassical facade with Corinthian columns.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.201,
+                        -34.907877
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.2008, -34.9078],
@@ -255,7 +2145,160 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Fortaleza del Cerro offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Fortaleza del Cerro."],
     }, image: "/poi-images/uy-mo-fortaleza-del-cerro-landmarks-v2.webp"},
   {
-    id: "uy-mo-torre-antel-landmarks-v2",
+    id: "uy-mo-torre-antel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de las Telecomunicaciones",
+                  "text": "Dieses Museum im Antel-Turm zeigt die Geschichte der uruguayischen Telekommunikation vom Telegrafen bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        -56.194103,
+                        -34.892085
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro y San Alfonso",
+                  "text": "Diese neugotische Kirche aus dem 19. Jahrhundert in Bella Vista ist für ihre eklektische Architektur und Doppeltürme bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        -56.197644,
+                        -34.880336
+                  ]
+            },
+            {
+                  "name": "Catedral San Nerses Shnorhali",
+                  "text": "Die armenisch-katholische Kathedrale von Montevideo besticht durch ihre traditionelle Architektur mit Kreuzkuppel.",
+                  "category": "religious",
+                  "coords": [
+                        -56.195991,
+                        -34.878186
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana del Uruguay",
+                  "text": "Ein protestantisches Gotteshaus in Montevideo, das die presbyterianische Glaubenstradition in Uruguay vertritt.",
+                  "category": "religious",
+                  "coords": [
+                        -56.199418,
+                        -34.878852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de las Telecomunicaciones",
+                  "text": "Az Antel-torony komplexumban található múzeum az uruguayi távközlés fejlődését mutatja be a távírótól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        -56.194103,
+                        -34.892085
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro y San Alfonso",
+                  "text": "Ez a 19. századi neogótikus templom Bella Vista negyedben eklektikus építészetéről és ikertornyairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -56.197644,
+                        -34.880336
+                  ]
+            },
+            {
+                  "name": "Catedral San Nerses Shnorhali",
+                  "text": "Montevideo örmény katolikus székesegyháza hagyományos keresztkupolás építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        -56.195991,
+                        -34.878186
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana del Uruguay",
+                  "text": "Protestáns istentiszteleti hely Montevideóban, amely a presbiteriánus hagyományt képviseli Uruguayban.",
+                  "category": "religious",
+                  "coords": [
+                        -56.199418,
+                        -34.878852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de las Telecomunicaciones",
+                  "text": "Acest muzeu din complexul Turnului Antel prezintă evoluția telecomunicațiilor uruguayene, de la telegraf până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        -56.194103,
+                        -34.892085
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro y San Alfonso",
+                  "text": "Această biserică neogotică din secolul al XIX-lea din Bella Vista este cunoscută pentru arhitectura sa eclectică și turnurile gemene.",
+                  "category": "religious",
+                  "coords": [
+                        -56.197644,
+                        -34.880336
+                  ]
+            },
+            {
+                  "name": "Catedral San Nerses Shnorhali",
+                  "text": "Catedrala armeano-catolică din Montevideo se remarcă prin arhitectura sa tradițională cu cupolă în cruce.",
+                  "category": "religious",
+                  "coords": [
+                        -56.195991,
+                        -34.878186
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana del Uruguay",
+                  "text": "Un lăcaș de cult protestant din Montevideo, reprezentând tradiția prezbiteriană în Uruguay.",
+                  "category": "religious",
+                  "coords": [
+                        -56.199418,
+                        -34.878852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de las Telecomunicaciones",
+                  "text": "Located in the Antel Tower complex, this museum traces the evolution of Uruguayan telecommunications.",
+                  "category": "museum",
+                  "coords": [
+                        -56.194103,
+                        -34.892085
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro y San Alfonso",
+                  "text": "An architectural landmark in Bella Vista, this 19th-century church features eclectic style and twin towers.",
+                  "category": "religious",
+                  "coords": [
+                        -56.197644,
+                        -34.880336
+                  ]
+            },
+            {
+                  "name": "Catedral San Nerses Shnorhali",
+                  "text": "A spiritual center for the Armenian community, this cathedral is notable for its traditional cross-domed architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -56.195991,
+                        -34.878186
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana del Uruguay",
+                  "text": "A Protestant place of worship in Montevideo representing the Presbyterian tradition in Uruguay.",
+                  "category": "religious",
+                  "coords": [
+                        -56.199418,
+                        -34.878852
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1917, -34.8922],
@@ -291,7 +2334,124 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["La Torre de las Telecomunicaciones offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs de la Torre de las Telecomunicaciones de nombreuses opportunités d'activités de loisirs."],
     }, image: "/poi-images/uy-mo-torre-antel-landmarks-v2.webp"},
   {
-    id: "uy-ro-faro-cabo-polonio-landmarks-v2",
+    id: "uy-ro-faro-cabo-polonio-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de Cabo Polonio",
+                  "text": "Dieser 1881 erbaute Leuchtturm bietet einen Panoramablick über die Dünenlandschaft und Seelöwenkolonien.",
+                  "category": "natural",
+                  "coords": [
+                        -53.777805,
+                        -34.405369
+                  ]
+            },
+            {
+                  "name": "Lobos marinos",
+                  "text": "Hier lebt eine der weltweit größten Kolonien von Seelöwen und Pelzrobben direkt auf den Küstenfelsen.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.77767,
+                        -34.40631
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Cabo Polonio",
+                  "text": "Ein seit 2009 geschütztes Naturreservat, berühmt für seine riesigen, wandernden Wanderdünen.",
+                  "category": "natural",
+                  "coords": [
+                        -53.753339,
+                        -34.400652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de Cabo Polonio",
+                  "text": "Az 1881-ben épült világítótorony panorámás kilátást nyújt a dűnékre és a fókakolóniákra.",
+                  "category": "natural",
+                  "coords": [
+                        -53.777805,
+                        -34.405369
+                  ]
+            },
+            {
+                  "name": "Lobos marinos",
+                  "text": "Itt él a világ egyik legnagyobb fókakolóniája közvetlenül a tengerparti sziklákon.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.77767,
+                        -34.40631
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Cabo Polonio",
+                  "text": "2009 óta védett természetvédelmi terület, amely hatalmas, vándorló homokdűnéiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -53.753339,
+                        -34.400652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de Cabo Polonio",
+                  "text": "Acest far construit în 1881 oferă o vedere panoramică asupra dunelor și a coloniilor de lei de mare.",
+                  "category": "natural",
+                  "coords": [
+                        -53.777805,
+                        -34.405369
+                  ]
+            },
+            {
+                  "name": "Lobos marinos",
+                  "text": "Aici trăiește una dintre cele mai mari colonii de lei de mare din lume, chiar pe stâncile de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.77767,
+                        -34.40631
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Cabo Polonio",
+                  "text": "O rezervație naturală protejată din 2009, celebră pentru dunele sale de nisip mișcătoare gigantice.",
+                  "category": "natural",
+                  "coords": [
+                        -53.753339,
+                        -34.400652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de Cabo Polonio",
+                  "text": "Built in 1881, this lighthouse offers a panoramic view over the dunes and sea lion colonies.",
+                  "category": "natural",
+                  "coords": [
+                        -53.777805,
+                        -34.405369
+                  ]
+            },
+            {
+                  "name": "Sea lions - seals",
+                  "text": "One of the world's largest colonies of sea lions and fur seals lives here directly on the coastal rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.77767,
+                        -34.40631
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Cabo Polonio",
+                  "text": "A nature reserve protected since 2009, famous for its massive, shifting sand dunes.",
+                  "category": "natural",
+                  "coords": [
+                        -53.753339,
+                        -34.400652
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-RO",
     coords: [-53.7808, -34.4031],
@@ -327,7 +2487,52 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Faro de Cabo Polonio offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs du Faro de Cabo Polonio de nombreuses opportunités d'activités de loisirs."],
     }, image: "/poi-images/uy-ro-faro-cabo-polonio-landmarks-v2.webp"},
   {
-    id: "uy-ma-castillo-de-piria-landmarks-v2",
+    id: "uy-ma-castillo-de-piria-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Hermosa",
+                  "text": "Ruhiger Sandstrand am Fuße der umliegenden Hügel.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.305623,
+                        -34.840126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Hermosa",
+                  "text": "Nyugodt homokos tengerpart a környező dombok lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.305623,
+                        -34.840126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Hermosa",
+                  "text": "O plajă cu nisip liniștită situată la poalele dealurilor înconjurătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.305623,
+                        -34.840126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Hermosa",
+                  "text": "A serene sandy beach located at the foot of the surrounding hills.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.305623,
+                        -34.840126
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MA",
     coords: [-55.2636, -34.8214],
@@ -363,7 +2568,1096 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Castillo de Piria offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités de loisirs actifs dans les environs du Castillo de Piria."],
     }, image: "/poi-images/uy-ma-castillo-de-piria-landmarks-v2.webp"},
   {
-    id: "uy-ca-iglesia-cristo-obrero-landmarks-v2",
+    id: "uy-ca-iglesia-cristo-obrero-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bodega Pablo Fallabrino",
+                  "text": "Ein handwerklich geführter Weinkeller in Atlántida, der für seine direkt an der Küste gereiften Weine bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.772497,
+                        -34.730777
+                  ]
+            },
+            {
+                  "name": "Mirador del Sendero Mirasol",
+                  "text": "Ein Aussichtspunkt am Ende eines Naturpfades mit weitem Blick über den Solís Chico Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        -55.84682,
+                        -34.789135
+                  ]
+            },
+            {
+                  "name": "Teatro AlSur",
+                  "text": "Ein unabhängiges Kulturzentrum und Theater in Atlántida, das lokale Produktionen und Konzerte fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.758114,
+                        -34.774202
+                  ]
+            },
+            {
+                  "name": "Letras de Atlántida",
+                  "text": "Ein farbenfroher Schriftzug an der Küste von Atlántida, der ein beliebter Fotostopp für Touristen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.765941,
+                        -34.767339
+                  ]
+            },
+            {
+                  "name": "Playa Edén Rock",
+                  "text": "Ein felsiger Strandabschnitt, der für seine raue Brandung und die markanten Steinplatten am Ufer bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.747899,
+                        -34.779281
+                  ]
+            },
+            {
+                  "name": "Zoologico de Atlántida",
+                  "text": "Ein kleiner lokaler Zoo, der sich auf die Pflege und Ausstellung einheimischer uruguayischer Tierarten konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.752705,
+                        -34.776116
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen de las Flores",
+                  "text": "Ein bedeutendes Wallfahrtsheiligtum in der Nähe von La Floresta, das der Jungfrau der Blumen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -55.682758,
+                        -34.727125
+                  ]
+            },
+            {
+                  "name": "Capilla Susana Soca",
+                  "text": "Diese vom Architekten Antonio Bonet entworfene Kapelle besticht durch ihre moderne Geometrie und ein einzigartiges Lichtspiel.",
+                  "category": "religious",
+                  "coords": [
+                        -55.694778,
+                        -34.684755
+                  ]
+            },
+            {
+                  "name": "Paseo del Puente",
+                  "text": "Ein Erholungsgebiet am Ufer des Flusses Solís Chico, ideal für Picknicks und Naturbeobachtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.715745,
+                        -34.684557
+                  ]
+            },
+            {
+                  "name": "Playa Pinamar",
+                  "text": "Ein ruhiger, von Dünen geprägter Strandabschnitt der Costa de Oro, ideal für ausgedehnte Küstenwanderungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.855241,
+                        -34.793754
+                  ]
+            },
+            {
+                  "name": "Sendero Mirasol",
+                  "text": "Ein ökologischer Pfad durch Küstenvegetation und Feuchtgebiete, der die lokale Artenvielfalt schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -55.848469,
+                        -34.790348
+                  ]
+            },
+            {
+                  "name": "Playa Salinas",
+                  "text": "Ein beliebter Familienstrand in einem der traditionsreichsten Badeorte des Departements Canelones.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.836408,
+                        -34.78621
+                  ]
+            },
+            {
+                  "name": "Playa Marindia",
+                  "text": "Ein feinsandiger Badestrand am Río de la Plata, der für seine ruhige Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.822694,
+                        -34.780895
+                  ]
+            },
+            {
+                  "name": "Playa Brava",
+                  "text": "Dieser Strandabschnitt ist für seinen stärkeren Wellengang bekannt und zieht viele Surfer an.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.756859,
+                        -34.78072
+                  ]
+            },
+            {
+                  "name": "Playa mansa",
+                  "text": "Ein beliebter Familienstrand in Atlántida mit ruhigem, flachem Wasser ideal zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.766677,
+                        -34.774938
+                  ]
+            },
+            {
+                  "name": "Expoplatea de Atlántida",
+                  "text": "Ein Freilicht-Amphitheater direkt am Meer, das als Zentrum für kulturelle Veranstaltungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.763387,
+                        -34.775489
+                  ]
+            },
+            {
+                  "name": "Parque El Águila",
+                  "text": "Berühmt für das rätselhafte Steingebäude 'El Águila', das in Form eines Adlerkopfes erbaut wurde.",
+                  "category": "park",
+                  "coords": [
+                        -55.778244,
+                        -34.770826
+                  ]
+            },
+            {
+                  "name": "Playa Parque del Plata",
+                  "text": "Ein weitläufiger Sandstrand an der Mündung des Baches Solís Chico.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.715259,
+                        -34.767157
+                  ]
+            },
+            {
+                  "name": "Playa Las Toscas",
+                  "text": "Ein breiter Strand an der Goldküste, der von sanften Dünen und Pinienwäldern gesäumt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.735925,
+                        -34.774797
+                  ]
+            },
+            {
+                  "name": "Playa La Floresta",
+                  "text": "Ein klassischer Badeort-Strand mit einer von Villen und Gärten gesäumten Uferpromenade.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.692382,
+                        -34.763467
+                  ]
+            },
+            {
+                  "name": "Playa Costa Azul",
+                  "text": "Ein malerischer Küstenabschnitt, der sich durch seine markanten Felsformationen am Wasser auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.6632,
+                        -34.767137
+                  ]
+            },
+            {
+                  "name": "Jesucristo Es El Señor",
+                  "text": "Ein schlichtes christliches Gotteshaus inmitten der grünen Küstenlandschaft von Canelones.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.760373,
+                        -34.774098
+                  ]
+            },
+            {
+                  "name": "Iglesia de Soca",
+                  "text": "Diese avantgardistische Kapelle von Antoni Bonet beeindruckt durch ihre markante geometrische Betonform.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.705389,
+                        -34.683443
+                  ]
+            },
+            {
+                  "name": "Iglesia Nueva Apostolica de Pinamar",
+                  "text": "Ein Kirchengebäude der Neuapostolischen Gemeinde im Küstenort Pinamar.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.855219,
+                        -34.772447
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Isabel de Hungria",
+                  "text": "Eine kleine Kapelle in Salinas, die der Heiligen Elisabeth von Ungarn gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.841866,
+                        -34.779711
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein Versammlungshaus der Mormonen mit der charakteristischen schlichten und gepflegten Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.852388,
+                        -34.777711
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Obrero",
+                  "text": "Dieses UNESCO-Welterbe von Eladio Dieste ist für seine revolutionären, gewellten Backsteinwände weltbekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.766363,
+                        -34.743944
+                  ]
+            },
+            {
+                  "name": "Iglesia de Parque del Plata",
+                  "text": "Die katholische Pfarrkirche des Ortes, ein traditionelles religiöses Zentrum nahe der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.706359,
+                        -34.759225
+                  ]
+            },
+            {
+                  "name": "Feria vecinal",
+                  "text": "Ein lebhafter lokaler Straßenmarkt, auf dem frisches Obst, Gemüse und Kunsthandwerk angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.721371,
+                        -34.767291
+                  ]
+            },
+            {
+                  "name": "Kabemar",
+                  "text": "Ein belebtes Handelszentrum in der Region, das als lokaler Treffpunkt und Einkaufsort dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.750784,
+                        -34.772396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bodega Pablo Fallabrino",
+                  "text": "Kézműves borászat Atlántidában, amely a közvetlenül a parton érlelt borairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.772497,
+                        -34.730777
+                  ]
+            },
+            {
+                  "name": "Mirador del Sendero Mirasol",
+                  "text": "Egy tanösvény végén található kilátóhely, ahonnan pazar kilátás nyílik a Solís Chico-folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        -55.84682,
+                        -34.789135
+                  ]
+            },
+            {
+                  "name": "Teatro AlSur",
+                  "text": "Független kulturális központ és színház Atlántidában, amely helyi előadásokat és koncerteket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.758114,
+                        -34.774202
+                  ]
+            },
+            {
+                  "name": "Letras de Atlántida",
+                  "text": "Színes felirat Atlántida partján, amely a turisták kedvelt fotópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.765941,
+                        -34.767339
+                  ]
+            },
+            {
+                  "name": "Playa Edén Rock",
+                  "text": "Sziklás strandrész, amely vad hullámairól és a parton található jellegzetes kőlapokról nevezetes.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.747899,
+                        -34.779281
+                  ]
+            },
+            {
+                  "name": "Zoologico de Atlántida",
+                  "text": "Kisméretű helyi állatkert, amely az őshonos uruguayi fajok gondozására és bemutatására összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.752705,
+                        -34.776116
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen de las Flores",
+                  "text": "Jelentős zarándokhely La Floresta közelében, amelyet a Virágok Szűzének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -55.682758,
+                        -34.727125
+                  ]
+            },
+            {
+                  "name": "Capilla Susana Soca",
+                  "text": "Ez az Antonio Bonet építész által tervezett kápolna modern geometriájával és egyedülálló fényjátékával nyűgöz le.",
+                  "category": "religious",
+                  "coords": [
+                        -55.694778,
+                        -34.684755
+                  ]
+            },
+            {
+                  "name": "Paseo del Puente",
+                  "text": "Pihenőövezet a Solís Chico-folyó partján, amely ideális piknikezéshez és a természet megfigyeléséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.715745,
+                        -34.684557
+                  ]
+            },
+            {
+                  "name": "Playa Pinamar",
+                  "text": "A Costa de Oro dűnékkel tarkított, csendes strandja, amely ideális hosszú partmenti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.855241,
+                        -34.793754
+                  ]
+            },
+            {
+                  "name": "Sendero Mirasol",
+                  "text": "Partmenti növényzeten és vizes élőhelyeken keresztülvezető ökológiai ösvény, amely a helyi élővilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        -55.848469,
+                        -34.790348
+                  ]
+            },
+            {
+                  "name": "Playa Salinas",
+                  "text": "Népszerű családi strand Canelones megye egyik legrégebbi fürdőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.836408,
+                        -34.78621
+                  ]
+            },
+            {
+                  "name": "Playa Marindia",
+                  "text": "Finom homokos strand a Río de la Plata partján, amely nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.822694,
+                        -34.780895
+                  ]
+            },
+            {
+                  "name": "Playa Brava",
+                  "text": "Ez a tengerparti szakasz erősebb hullámairól ismert, és sok szörföst vonz.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.756859,
+                        -34.78072
+                  ]
+            },
+            {
+                  "name": "Playa mansa",
+                  "text": "Népszerű családi strand Atlántidában, amelynek nyugodt, sekély vize ideális az úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.766677,
+                        -34.774938
+                  ]
+            },
+            {
+                  "name": "Expoplatea de Atlántida",
+                  "text": "Közvetlenül a tengerparton található szabadtéri amfiteátrum, amely kulturális események központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.763387,
+                        -34.775489
+                  ]
+            },
+            {
+                  "name": "Parque El Águila",
+                  "text": "Híres a rejtélyes „El Águila” kőépületről, amelyet sasfej alakúra építettek.",
+                  "category": "park",
+                  "coords": [
+                        -55.778244,
+                        -34.770826
+                  ]
+            },
+            {
+                  "name": "Playa Parque del Plata",
+                  "text": "Tágas homokos strand a Solís Chico-patak torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.715259,
+                        -34.767157
+                  ]
+            },
+            {
+                  "name": "Playa Las Toscas",
+                  "text": "Az Aranypart széles strandja, amelyet lágy dűnék és fenyőerdők szegélyeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.735925,
+                        -34.774797
+                  ]
+            },
+            {
+                  "name": "Playa La Floresta",
+                  "text": "Klasszikus üdülőhelyi strand, amelyet villákkal és kertekkel szegélyezett sétány kísér.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.692382,
+                        -34.763467
+                  ]
+            },
+            {
+                  "name": "Playa Costa Azul",
+                  "text": "Festői tengerparti szakasz, amelyet a vízparti jellegzetes sziklaalakzatok határoznak meg.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.6632,
+                        -34.767137
+                  ]
+            },
+            {
+                  "name": "Jesucristo Es El Señor",
+                  "text": "Egyszerű keresztény templom Canelones zöldellő tengerparti tájai között.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.760373,
+                        -34.774098
+                  ]
+            },
+            {
+                  "name": "Iglesia de Soca",
+                  "text": "Antoni Bonet avantgárd kápolnája lenyűgöző geometrikus betonformájával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.705389,
+                        -34.683443
+                  ]
+            },
+            {
+                  "name": "Iglesia Nueva Apostolica de Pinamar",
+                  "text": "Az Új Apostoli Egyház templomépülete Pinamar tengerparti településén.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.855219,
+                        -34.772447
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Isabel de Hungria",
+                  "text": "Egy kis kápolna Salinasban, amelyet Árpád-házi Szent Erzsébet tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.841866,
+                        -34.779711
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Mormon gyülekezeti ház a rá jellemző egyszerű és gondozott építészeti stílussal.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.852388,
+                        -34.777711
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Obrero",
+                  "text": "Eladio Dieste UNESCO világörökségi helyszíne, amely forradalmi, hullámzó téglafalairól világhírű.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.766363,
+                        -34.743944
+                  ]
+            },
+            {
+                  "name": "Iglesia de Parque del Plata",
+                  "text": "A település katolikus plébániatemploma, hagyományos vallási központ a part közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.706359,
+                        -34.759225
+                  ]
+            },
+            {
+                  "name": "Feria vecinal",
+                  "text": "Élénk helyi utcai piac, ahol friss gyümölcsöt, zöldséget és kézműves termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.721371,
+                        -34.767291
+                  ]
+            },
+            {
+                  "name": "Kabemar",
+                  "text": "A régió forgalmas kereskedelmi központja, amely helyi találkozóhelyként és bevásárlóhelyként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.750784,
+                        -34.772396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bodega Pablo Fallabrino",
+                  "text": "O cramă artizanală din Atlántida, cunoscută pentru vinurile sale maturate chiar pe malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.772497,
+                        -34.730777
+                  ]
+            },
+            {
+                  "name": "Mirador del Sendero Mirasol",
+                  "text": "Un punct de belvedere la capătul unui traseu natural, oferind vederi largi peste râul Solís Chico.",
+                  "category": "natural",
+                  "coords": [
+                        -55.84682,
+                        -34.789135
+                  ]
+            },
+            {
+                  "name": "Teatro AlSur",
+                  "text": "Un centru cultural și teatru independent din Atlántida, care promovează producții locale și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.758114,
+                        -34.774202
+                  ]
+            },
+            {
+                  "name": "Letras de Atlántida",
+                  "text": "Literele colorate de pe coasta din Atlántida, reprezentând un punct de oprire popular pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.765941,
+                        -34.767339
+                  ]
+            },
+            {
+                  "name": "Playa Edén Rock",
+                  "text": "O secțiune de plajă stâncoasă cunoscută pentru valurile puternice și plăcile de piatră distinctive de la țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.747899,
+                        -34.779281
+                  ]
+            },
+            {
+                  "name": "Zoologico de Atlántida",
+                  "text": "O mică grădină zoologică locală care se concentrează pe îngrijirea și expunerea speciilor native uruguayene.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.752705,
+                        -34.776116
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen de las Flores",
+                  "text": "Un important sanctuar de pelerinaj lângă La Floresta, dedicat Fecioarei Florilor.",
+                  "category": "religious",
+                  "coords": [
+                        -55.682758,
+                        -34.727125
+                  ]
+            },
+            {
+                  "name": "Capilla Susana Soca",
+                  "text": "Această capelă proiectată de arhitectul Antonio Bonet impresionează prin geometria sa modernă și un joc de lumini unic.",
+                  "category": "religious",
+                  "coords": [
+                        -55.694778,
+                        -34.684755
+                  ]
+            },
+            {
+                  "name": "Paseo del Puente",
+                  "text": "O zonă de recreere pe malul râului Solís Chico, ideală pentru picnicuri și observarea naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.715745,
+                        -34.684557
+                  ]
+            },
+            {
+                  "name": "Playa Pinamar",
+                  "text": "O secțiune de plajă liniștită de pe Costa de Oro, caracterizată de dune, ideală pentru plimbări lungi pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.855241,
+                        -34.793754
+                  ]
+            },
+            {
+                  "name": "Sendero Mirasol",
+                  "text": "Un traseu ecologic prin vegetația de coastă și zone umede, care protejează biodiversitatea locală.",
+                  "category": "natural",
+                  "coords": [
+                        -55.848469,
+                        -34.790348
+                  ]
+            },
+            {
+                  "name": "Playa Salinas",
+                  "text": "O plajă populară pentru familii într-una dintre cele mai tradiționale stațiuni din departamentul Canelones.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.836408,
+                        -34.78621
+                  ]
+            },
+            {
+                  "name": "Playa Marindia",
+                  "text": "O plajă cu nisip fin pe malul fluviului Río de la Plata, cunoscută pentru atmosfera sa liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.822694,
+                        -34.780895
+                  ]
+            },
+            {
+                  "name": "Playa Brava",
+                  "text": "Această secțiune de plajă este cunoscută pentru valurile sale mai puternice și atrage mulți surferi.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.756859,
+                        -34.78072
+                  ]
+            },
+            {
+                  "name": "Playa mansa",
+                  "text": "O plajă populară pentru familii în Atlántida, cu ape liniștite și puțin adânci, ideale pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.766677,
+                        -34.774938
+                  ]
+            },
+            {
+                  "name": "Expoplatea de Atlántida",
+                  "text": "Un amfiteatru în aer liber direct pe malul mării, care servește drept centru pentru evenimente culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.763387,
+                        -34.775489
+                  ]
+            },
+            {
+                  "name": "Parque El Águila",
+                  "text": "Faimos pentru clădirea enigmatică de piatră „El Águila”, construită sub formă de cap de vultur.",
+                  "category": "park",
+                  "coords": [
+                        -55.778244,
+                        -34.770826
+                  ]
+            },
+            {
+                  "name": "Playa Parque del Plata",
+                  "text": "O plajă lungă de nisip situată la gura de vărsare a pârâului Solís Chico.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.715259,
+                        -34.767157
+                  ]
+            },
+            {
+                  "name": "Playa Las Toscas",
+                  "text": "O plajă lată pe Coasta de Aur, mărginită de dune blânde și păduri de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.735925,
+                        -34.774797
+                  ]
+            },
+            {
+                  "name": "Playa La Floresta",
+                  "text": "O plajă clasică de stațiune, cu o faleză mărginită de vile și grădini.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.692382,
+                        -34.763467
+                  ]
+            },
+            {
+                  "name": "Playa Costa Azul",
+                  "text": "O secțiune pitorească de coastă, caracterizată prin formațiunile sale stâncoase distinctive de la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.6632,
+                        -34.767137
+                  ]
+            },
+            {
+                  "name": "Jesucristo Es El Señor",
+                  "text": "Un lăcaș de cult creștin simplu, situat în mijlocul peisajului de coastă verde din Canelones.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.760373,
+                        -34.774098
+                  ]
+            },
+            {
+                  "name": "Iglesia de Soca",
+                  "text": "Această capelă avangardistă de Antoni Bonet impresionează prin forma sa geometrică distinctivă din beton.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.705389,
+                        -34.683443
+                  ]
+            },
+            {
+                  "name": "Iglesia Nueva Apostolica de Pinamar",
+                  "text": "O clădire bisericească a Bisericii Nou Apostolice din localitatea de coastă Pinamar.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.855219,
+                        -34.772447
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Isabel de Hungria",
+                  "text": "O mică capelă în Salinas, dedicată Sfintei Elisabeta a Ungariei.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.841866,
+                        -34.779711
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de adunare mormonă cu arhitectura caracteristică simplă și bine întreținută.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.852388,
+                        -34.777711
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Obrero",
+                  "text": "Acest sit UNESCO de Eladio Dieste este faimos în întreaga lume pentru pereții săi revoluționari din cărămidă ondulați.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.766363,
+                        -34.743944
+                  ]
+            },
+            {
+                  "name": "Iglesia de Parque del Plata",
+                  "text": "Biserica parohială catolică a localității, un centru religios tradițional situat aproape de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.706359,
+                        -34.759225
+                  ]
+            },
+            {
+                  "name": "Feria vecinal",
+                  "text": "O piață locală plină de viață, unde se vând fructe și legume proaspete, precum și produse de artizanat.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.721371,
+                        -34.767291
+                  ]
+            },
+            {
+                  "name": "Kabemar",
+                  "text": "Un centru comercial aglomerat din regiune, care servește drept punct de întâlnire și loc de cumpărături.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.750784,
+                        -34.772396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bodega Pablo Fallabrino",
+                  "text": "An artisanal winery in Atlántida known for its wines aged right on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.772497,
+                        -34.730777
+                  ]
+            },
+            {
+                  "name": "Mirador del Sendero Mirasol",
+                  "text": "A viewpoint at the end of a nature trail, offering wide views over the Solís Chico river.",
+                  "category": "natural",
+                  "coords": [
+                        -55.84682,
+                        -34.789135
+                  ]
+            },
+            {
+                  "name": "Teatro AlSur",
+                  "text": "An independent cultural center and theatre in Atlántida, promoting local productions and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.758114,
+                        -34.774202
+                  ]
+            },
+            {
+                  "name": "Letras de Atlántida",
+                  "text": "A colorful sign on the Atlántida coast that is a popular photo stop for tourists.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.765941,
+                        -34.767339
+                  ]
+            },
+            {
+                  "name": "Playa Edén Rock",
+                  "text": "A rocky beach section known for its rough surf and distinctive stone slabs at the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.747899,
+                        -34.779281
+                  ]
+            },
+            {
+                  "name": "Zoologico de Atlántida",
+                  "text": "A small local zoo focused on the care and display of native Uruguayan species.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.752705,
+                        -34.776116
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen de las Flores",
+                  "text": "A significant pilgrimage sanctuary near La Floresta, dedicated to the Virgin of the Flowers.",
+                  "category": "religious",
+                  "coords": [
+                        -55.682758,
+                        -34.727125
+                  ]
+            },
+            {
+                  "name": "Capilla Susana Soca",
+                  "text": "Designed by architect Antonio Bonet, this chapel impresses with its modern geometry and a unique play of light.",
+                  "category": "religious",
+                  "coords": [
+                        -55.694778,
+                        -34.684755
+                  ]
+            },
+            {
+                  "name": "Paseo del Puente",
+                  "text": "A recreational area on the banks of the Solís Chico river, ideal for picnics and nature watching.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.715745,
+                        -34.684557
+                  ]
+            },
+            {
+                  "name": "Playa Pinamar",
+                  "text": "A quiet, dune-filled stretch of the Costa de Oro beach, ideal for long coastal walks.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.855241,
+                        -34.793754
+                  ]
+            },
+            {
+                  "name": "Sendero Mirasol",
+                  "text": "An ecological trail through coastal vegetation and wetlands, protecting local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -55.848469,
+                        -34.790348
+                  ]
+            },
+            {
+                  "name": "Playa Salinas",
+                  "text": "A popular family beach in one of the most traditional seaside resorts of the Canelones department.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.836408,
+                        -34.78621
+                  ]
+            },
+            {
+                  "name": "Playa Marindia",
+                  "text": "A fine-sand beach on the Río de la Plata coast, known for its quiet atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.822694,
+                        -34.780895
+                  ]
+            },
+            {
+                  "name": "Playa Brava",
+                  "text": "This beach section is known for its stronger swell and attracts many surfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.756859,
+                        -34.78072
+                  ]
+            },
+            {
+                  "name": "Playa mansa",
+                  "text": "A popular family beach in Atlántida with calm, shallow waters ideal for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.766677,
+                        -34.774938
+                  ]
+            },
+            {
+                  "name": "Expoplatea de Atlántida",
+                  "text": "An open-air amphitheater right by the sea that serves as a center for cultural events.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.763387,
+                        -34.775489
+                  ]
+            },
+            {
+                  "name": "Parque El Águila",
+                  "text": "Famous for the enigmatic 'El Águila' stone building, which was built in the shape of an eagle's head.",
+                  "category": "park",
+                  "coords": [
+                        -55.778244,
+                        -34.770826
+                  ]
+            },
+            {
+                  "name": "Playa Parque del Plata",
+                  "text": "A wide sandy beach located at the mouth of the Solís Chico stream.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.715259,
+                        -34.767157
+                  ]
+            },
+            {
+                  "name": "Playa Las Toscas",
+                  "text": "A wide beach on the Gold Coast, bordered by gentle dunes and pine forests.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.735925,
+                        -34.774797
+                  ]
+            },
+            {
+                  "name": "Playa La Floresta",
+                  "text": "A classic resort beach with a waterfront promenade lined with villas and gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.692382,
+                        -34.763467
+                  ]
+            },
+            {
+                  "name": "Playa Costa Azul",
+                  "text": "A scenic coastal stretch characterized by its distinctive rock formations along the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.6632,
+                        -34.767137
+                  ]
+            },
+            {
+                  "name": "Jesucristo Es El Señor",
+                  "text": "A simple Christian place of worship set amidst the verdant coastal landscape of Canelones.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.760373,
+                        -34.774098
+                  ]
+            },
+            {
+                  "name": "Iglesia de Soca",
+                  "text": "This avant-garde chapel by Antoni Bonet impresses with its striking geometric concrete form.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.705389,
+                        -34.683443
+                  ]
+            },
+            {
+                  "name": "Iglesia Nueva Apostolica de Pinamar",
+                  "text": "A church building of the New Apostolic community in the coastal town of Pinamar.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.855219,
+                        -34.772447
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Isabel de Hungria",
+                  "text": "A small chapel in Salinas dedicated to Saint Elizabeth of Hungary.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.841866,
+                        -34.779711
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A Mormon meetinghouse with its characteristic simple and well-maintained architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.852388,
+                        -34.777711
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Obrero",
+                  "text": "A UNESCO World Heritage site by Eladio Dieste, world-famous for its revolutionary undulating brick walls.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.766363,
+                        -34.743944
+                  ]
+            },
+            {
+                  "name": "Iglesia de Parque del Plata",
+                  "text": "The town's Catholic parish church, a traditional religious center located near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.706359,
+                        -34.759225
+                  ]
+            },
+            {
+                  "name": "Feria vecinal",
+                  "text": "A lively local street market offering fresh fruit, vegetables, and regional handicrafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.721371,
+                        -34.767291
+                  ]
+            },
+            {
+                  "name": "Kabemar",
+                  "text": "A busy commercial hub in the region that serves as a local meeting point and shopping area.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.750784,
+                        -34.772396
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-CA",
     coords: [-55.7656, -34.7431],
@@ -399,7 +3693,340 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["L'Iglesia de Cristo Obrero offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités de loisirs actifs dans les environs de l'Iglesia de Cristo Obrero."],
     }, image: "/poi-images/uy-ca-iglesia-cristo-obrero-landmarks-v2.webp"},
   {
-    id: "uy-mo-monumento-a-la-carreta-landmarks-v2",
+    id: "uy-mo-monumento-a-la-carreta-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parroquia Nuestra Señora de los Dolores",
+                  "text": "Diese auch als 'Tierra Santa' bekannte Kirche wird von Franziskanern geführt und zeigt Motive, die an die heiligen Stätten in Jerusalem erinnern.",
+                  "category": "religious",
+                  "coords": [
+                        -56.15936,
+                        -34.887785
+                  ]
+            },
+            {
+                  "name": "Cristo es el Todo",
+                  "text": "Ein kleines evangelisches Gebetshaus, das sich durch seine familiäre Atmosphäre und die persönliche Seelsorge in Montevideo auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.147386,
+                        -34.879439
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora de Bzommar",
+                  "text": "Diese Kirche der armenisch-katholischen Gemeinde beherbergt traditionelle Ikonen und pflegt die armenische Liturgie in Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.168877,
+                        -34.882995
+                  ]
+            },
+            {
+                  "name": "Capilla Mater Dei Universidad Católica (La Blanqueda)",
+                  "text": "Die Kapelle Mater Dei befindet sich auf dem Campus der Katholischen Universität und bietet Studenten einen modernen Raum für Meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.159082,
+                        -34.888953
+                  ]
+            },
+            {
+                  "name": "Capilla Hospital Militar",
+                  "text": "Diese im Militärkrankenhaus gelegene Kapelle dient Patienten und Personal als Ort der spirituellen Unterstützung und des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.153827,
+                        -34.883077
+                  ]
+            },
+            {
+                  "name": "Parroquia María de Nazaret Reina de la Paz",
+                  "text": "Eine moderne katholische Pfarrei, die Maria von Nazareth gewidmet ist und durch ihre lebendige Jugendarbeit im Stadtviertel auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.144924,
+                        -34.881991
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista San Pablo",
+                  "text": "Die methodistische St.-Pauls-Kirche ist ein historisches Backsteingebäude, das für seine Kirchenmusik und soziale Integration bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161385,
+                        -34.888161
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Asunción",
+                  "text": "Eine katholische Pfarrkirche im Stadtteil Sayago von Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.149612,
+                        -34.886625
+                  ]
+            },
+            {
+                  "name": "Parroquia Santos Apóstoles",
+                  "text": "Schlichte katholische Pfarrei, die den Stadtteil Prado bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.156998,
+                        -34.87635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parroquia Nuestra Señora de los Dolores",
+                  "text": "A 'Tierra Santa' néven is ismert templomot ferencesek vezetik, és a jeruzsálemi szent helyekre emlékeztető motívumokat mutat be.",
+                  "category": "religious",
+                  "coords": [
+                        -56.15936,
+                        -34.887785
+                  ]
+            },
+            {
+                  "name": "Cristo es el Todo",
+                  "text": "Kicsi evangéliumi imaház, amely családias légkörével és személyes lelkigondozásával tűnik ki Montevideóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.147386,
+                        -34.879439
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora de Bzommar",
+                  "text": "Az örmény katolikus közösség temploma, amely hagyományos ikonoknak ad otthont és az örmény liturgiát ápolja Montevideóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.168877,
+                        -34.882995
+                  ]
+            },
+            {
+                  "name": "Capilla Mater Dei Universidad Católica (La Blanqueda)",
+                  "text": "A Mater Dei kápolna a Katolikus Egyetem kampuszán található, és modern teret kínál a hallgatóknak az elmélkedésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.159082,
+                        -34.888953
+                  ]
+            },
+            {
+                  "name": "Capilla Hospital Militar",
+                  "text": "A katonai kórházban található kápolna a betegek és a személyzet számára a lelki támogatás és az ima helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.153827,
+                        -34.883077
+                  ]
+            },
+            {
+                  "name": "Parroquia María de Nazaret Reina de la Paz",
+                  "text": "Názáreti Máriának szentelt modern katolikus plébánia, amely élénk ifjúsági munkájával tűnik ki a negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.144924,
+                        -34.881991
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista San Pablo",
+                  "text": "A Szent Pál metodista templom egy történelmi téglaépület, amely egyházi zenéjéről és szociális integrációs törekvéseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161385,
+                        -34.888161
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Asunción",
+                  "text": "Katolikus plébániatemplom Montevideo Sayago negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.149612,
+                        -34.886625
+                  ]
+            },
+            {
+                  "name": "Parroquia Santos Apóstoles",
+                  "text": "Egyszerű katolikus plébánia, amely a Prado negyedet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.156998,
+                        -34.87635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parroquia Nuestra Señora de los Dolores",
+                  "text": "Cunoscută și sub numele de 'Tierra Santa', această biserică este administrată de franciscani și prezintă motive care amintesc de locurile sfinte din Ierusalim.",
+                  "category": "religious",
+                  "coords": [
+                        -56.15936,
+                        -34.887785
+                  ]
+            },
+            {
+                  "name": "Cristo es el Todo",
+                  "text": "O mică casă de rugăciune evanghelică, remarcabilă prin atmosfera sa familială și consilierea spirituală personală în Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.147386,
+                        -34.879439
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora de Bzommar",
+                  "text": "Această biserică a comunității armeano-catolice adăpostește icoane tradiționale și păstrează liturghia armeană în Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.168877,
+                        -34.882995
+                  ]
+            },
+            {
+                  "name": "Capilla Mater Dei Universidad Católica (La Blanqueda)",
+                  "text": "Capela Mater Dei este situată în campusul Universității Catolice și oferă studenților un spațiu modern pentru meditație.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.159082,
+                        -34.888953
+                  ]
+            },
+            {
+                  "name": "Capilla Hospital Militar",
+                  "text": "Această capelă situată în spitalul militar servește pacienților și personalului ca loc de sprijin spiritual și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.153827,
+                        -34.883077
+                  ]
+            },
+            {
+                  "name": "Parroquia María de Nazaret Reina de la Paz",
+                  "text": "O parohie catolică modernă dedicată Mariei din Nazaret, remarcabilă prin activitățile sale vibrante pentru tineret din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.144924,
+                        -34.881991
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista San Pablo",
+                  "text": "Biserica Metodistă Sfântul Paul este o clădire istorică din cărămidă, cunoscută pentru muzica sa religioasă și integrarea socială.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161385,
+                        -34.888161
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Asunción",
+                  "text": "O biserică parohială catolică situată în cartierul Sayago din Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.149612,
+                        -34.886625
+                  ]
+            },
+            {
+                  "name": "Parroquia Santos Apóstoles",
+                  "text": "O parohie catolică simplă care deservește cartierul Prado.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.156998,
+                        -34.87635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parroquia Nuestra Señora de los Dolores",
+                  "text": "Also known as 'Tierra Santa', this church is run by Franciscans and features motifs reminiscent of the holy sites in Jerusalem.",
+                  "category": "religious",
+                  "coords": [
+                        -56.15936,
+                        -34.887785
+                  ]
+            },
+            {
+                  "name": "Cristo es el Todo",
+                  "text": "A small evangelical prayer house, notable for its family atmosphere and personal spiritual counseling in Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.147386,
+                        -34.879439
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora de Bzommar",
+                  "text": "This church of the Armenian Catholic community houses traditional icons and maintains the Armenian liturgy in Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.168877,
+                        -34.882995
+                  ]
+            },
+            {
+                  "name": "Capilla Mater Dei Universidad Católica (La Blanqueda)",
+                  "text": "The Mater Dei Chapel is located on the Catholic University campus and offers students a modern space for meditation.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.159082,
+                        -34.888953
+                  ]
+            },
+            {
+                  "name": "Capilla Hospital Militar",
+                  "text": "This chapel located within the military hospital serves as a place of spiritual support and prayer for patients and staff.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.153827,
+                        -34.883077
+                  ]
+            },
+            {
+                  "name": "Parroquia María de Nazaret Reina de la Paz",
+                  "text": "A modern Catholic parish dedicated to Mary of Nazareth, notable for its vibrant youth outreach in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.144924,
+                        -34.881991
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista San Pablo",
+                  "text": "The St. Paul Methodist Church is a historic brick building known for its sacred music and social integration efforts.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161385,
+                        -34.888161
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Asunción",
+                  "text": "A Catholic parish church serving the Sayago neighborhood of Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.149612,
+                        -34.886625
+                  ]
+            },
+            {
+                  "name": "Parroquia Santos Apóstoles",
+                  "text": "A simple Catholic parish serving the Prado neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.156998,
+                        -34.87635
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1558, -34.8922],
@@ -435,7 +4062,268 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Monumento a La Carreta offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Monumento a La Carreta."],
     }, image: "/poi-images/uy-mo-monumento-a-la-carreta-landmarks-v2.webp"},
   {
-    id: "uy-mo-obelisco-a-los-constituyentes-landmarks-v2",
+    id: "uy-mo-obelisco-a-los-constituyentes-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento al Doctor Julio Carrere",
+                  "text": "Ein Denkmal aus Bronze und Stein, das dem angesehenen uruguayischen Arzt Dr. Julio Carrere gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -56.158938,
+                        -34.896087
+                  ]
+            },
+            {
+                  "name": "Plaza de La Democracia",
+                  "text": "Ein bedeutender öffentlicher Platz mit einer großen uruguayischen Flagge, der oft für staatliche Zeremonien genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        -56.164374,
+                        -34.893656
+                  ]
+            },
+            {
+                  "name": "Universidad de Montevideo (Capilla)",
+                  "text": "Eine ruhige Universitätskapelle, die Studenten und Mitarbeitern einen Ort für Gebet und spirituelle Begleitung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.160323,
+                        -34.897894
+                  ]
+            },
+            {
+                  "name": "Capilla Sanatorio Americano",
+                  "text": "Eine Krankenhauskapelle im Sanatorio Americano, die Patienten und ihren Angehörigen spirituellen Beistand bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.160021,
+                        -34.899111
+                  ]
+            },
+            {
+                  "name": "Santuario del Señor Resucitado",
+                  "text": "Ein katholisches Heiligtum, das dem auferstandenen Herrn gewidmet ist und für seine moderne Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165547,
+                        -34.892972
+                  ]
+            },
+            {
+                  "name": "Capilla de Nuestra Señora de Luján",
+                  "text": "Eine friedliche katholische Kapelle, die Unserer Lieben Frau von Luján gewidmet ist, für tägliche Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.16803,
+                        -34.891503
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Buenas Nuevas",
+                  "text": "Eine einladende Baptistengemeinde, die evangelikale Gottesdienste und soziale Programme in Montevideo durchführt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.164944,
+                        -34.88928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento al Doctor Julio Carrere",
+                  "text": "Bronzból és kőből készült emlékmű, amelyet a kiváló uruguayi orvosnak, Dr. Julio Carrere-nek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -56.158938,
+                        -34.896087
+                  ]
+            },
+            {
+                  "name": "Plaza de La Democracia",
+                  "text": "Jelentős nyilvános tér egy hatalmas uruguayi zászlóval, amelyet gyakran polgári szertartások helyszínéül használnak.",
+                  "category": "park",
+                  "coords": [
+                        -56.164374,
+                        -34.893656
+                  ]
+            },
+            {
+                  "name": "Universidad de Montevideo (Capilla)",
+                  "text": "Békés egyetemi kápolna, amely imádságra és lelki vezetésre alkalmas helyet biztosít a hallgatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.160323,
+                        -34.897894
+                  ]
+            },
+            {
+                  "name": "Capilla Sanatorio Americano",
+                  "text": "Kórházi kápolna a Sanatorio Americano területén, amely lelki támogatást nyújt a betegeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.160021,
+                        -34.899111
+                  ]
+            },
+            {
+                  "name": "Santuario del Señor Resucitado",
+                  "text": "A Feltámadott Úrnak szentelt katolikus szentély, amely modern építészetéről és liturgikus ünnepeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165547,
+                        -34.892972
+                  ]
+            },
+            {
+                  "name": "Capilla de Nuestra Señora de Luján",
+                  "text": "Békés, a Lujáni Miasszonyunknak szentelt katolikus kápolna, amely napi miséknek ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.16803,
+                        -34.891503
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Buenas Nuevas",
+                  "text": "Barátságos baptista templom, amely evangéliumi istentiszteleteknek és közösségi programoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.164944,
+                        -34.88928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento al Doctor Julio Carrere",
+                  "text": "Un monument din bronz și piatră dedicat distinsului medic uruguayan Dr. Julio Carrere.",
+                  "category": "historical",
+                  "coords": [
+                        -56.158938,
+                        -34.896087
+                  ]
+            },
+            {
+                  "name": "Plaza de La Democracia",
+                  "text": "O piață publică semnificativă care arborează un drapel mare al Uruguayului, fiind adesea folosită pentru ceremonii civice.",
+                  "category": "park",
+                  "coords": [
+                        -56.164374,
+                        -34.893656
+                  ]
+            },
+            {
+                  "name": "Universidad de Montevideo (Capilla)",
+                  "text": "O chapelă universitară liniștită care oferă un spațiu pentru rugăciune și îndrumare spirituală studenților.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.160323,
+                        -34.897894
+                  ]
+            },
+            {
+                  "name": "Capilla Sanatorio Americano",
+                  "text": "O chapelă de spital situată în incinta Sanatorio Americano, oferind sprijin spiritual pacienților.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.160021,
+                        -34.899111
+                  ]
+            },
+            {
+                  "name": "Santuario del Señor Resucitado",
+                  "text": "Un sanctuar catolic dedicat Domnului Înviat, cunoscut pentru arhitectura sa modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165547,
+                        -34.892972
+                  ]
+            },
+            {
+                  "name": "Capilla de Nuestra Señora de Luján",
+                  "text": "O chapelă catolică liniștită dedicată Maicii Domnului din Luján, oferind un loc pentru liturghii zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.16803,
+                        -34.891503
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Buenas Nuevas",
+                  "text": "O biserică baptistă primitoare care găzduiește slujbe evanghelice și programe de ajutorare comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.164944,
+                        -34.88928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento al Doctor Julio Carrere",
+                  "text": "A bronze and stone monument dedicated to the distinguished Uruguayan physician Dr. Julio Carrere.",
+                  "category": "historical",
+                  "coords": [
+                        -56.158938,
+                        -34.896087
+                  ]
+            },
+            {
+                  "name": "Plaza de La Democracia",
+                  "text": "A significant public square featuring a large Uruguayan flag, often used for civic ceremonies and gatherings.",
+                  "category": "park",
+                  "coords": [
+                        -56.164374,
+                        -34.893656
+                  ]
+            },
+            {
+                  "name": "Universidad de Montevideo (Capilla)",
+                  "text": "A serene university chapel providing a quiet space for prayer and spiritual guidance for students and staff.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.160323,
+                        -34.897894
+                  ]
+            },
+            {
+                  "name": "Capilla Sanatorio Americano",
+                  "text": "A hospital chapel located within the Sanatorio Americano, offering spiritual support to patients and their families.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.160021,
+                        -34.899111
+                  ]
+            },
+            {
+                  "name": "Santuario del Señor Resucitado",
+                  "text": "A Catholic sanctuary dedicated to the Risen Lord, known for its modern architecture and liturgical celebrations.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165547,
+                        -34.892972
+                  ]
+            },
+            {
+                  "name": "Capilla de Nuestra Señora de Luján",
+                  "text": "A peaceful Catholic chapel dedicated to Our Lady of Luján, providing a place for daily mass and devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.16803,
+                        -34.891503
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Buenas Nuevas",
+                  "text": "A welcoming Baptist church that hosts evangelical services and community outreach programs in Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.164944,
+                        -34.88928
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1633, -34.8972],
@@ -507,7 +4395,88 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Mercado del Puerto offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Mercado del Puerto."],
     }, image: "/poi-images/uy-mo-mercado-del-puerto-landmarks-v2.webp"},
   {
-    id: "uy-mo-catedral-metropolitana-landmarks-v2",
+    id: "uy-mo-catedral-metropolitana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Cultural de España",
+                  "text": "Dieses Kulturzentrum befindet sich in einem restaurierten alten Eisenwarengeschäft und fördert den spanisch-uruguayischen Austausch.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.202721,
+                        -34.905778
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Música",
+                  "text": "Dieses Zentrum ist ein wichtiger Treffpunkt für klassische Musik und veranstaltet regelmäßig Konzerte renommierter Ensembles.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.2037,
+                        -34.905345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Cultural de España",
+                  "text": "Ez a kulturális központ egy felújított régi vaskereskedésben található, és a spanyol-uruguayi kapcsolatokat ápolja.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.202721,
+                        -34.905778
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Música",
+                  "text": "Ez a központ a komolyzene fontos találkozóhelye, ahol rendszeresen rendeznek koncerteket neves együttesekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.2037,
+                        -34.905345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Cultural de España",
+                  "text": "Acest centru cultural se află într-o veche feronerie restaurată și promovează schimburile culturale spaniolo-uruguayene.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.202721,
+                        -34.905778
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Música",
+                  "text": "Acest centru este un punct de întâlnire important pentru muzica clasică, găzduind regulat concerte ale unor ansambluri renumite.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.2037,
+                        -34.905345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Cultural de España",
+                  "text": "Located in a restored old hardware store, this cultural center promotes Spanish-Uruguayan artistic exchange.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.202721,
+                        -34.905778
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Música",
+                  "text": "This center is a key venue for classical music, hosting regular concerts by renowned ensembles.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.2037,
+                        -34.905345
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.2039, -34.9069],
@@ -543,7 +4512,232 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Catedral Metropolitana offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Catedral Metropolitana."],
     }, image: "/poi-images/uy-mo-catedral-metropolitana-landmarks-v2.webp"},
   {
-    id: "uy-ma-puente-leonel-viera-landmarks-v2",
+    id: "uy-ma-puente-leonel-viera-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Arte Contemporáneo Atchugarry",
+                  "text": "Ein großer Skulpturenpark und Museum, gegründet vom Künstler Pablo Atchugarry, inmitten von Natur.",
+                  "category": "museum",
+                  "coords": [
+                        -54.821367,
+                        -34.866287
+                  ]
+            },
+            {
+                  "name": "Montoya",
+                  "text": "Ein trendiger strand in La Barra, der für seine lebhafte Atmosphäre und hervorragenden Surfbedingungen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.844602,
+                        -34.91327
+                  ]
+            },
+            {
+                  "name": "La Posta Del Cangrejo",
+                  "text": "Ein ikonischer Sandstrand in der Nähe des Maldonado-Bachlaufs, ein beliebter Treffpunkt im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.858592,
+                        -34.916566
+                  ]
+            },
+            {
+                  "name": "De la Boca",
+                  "text": "Ein ruhiger Strandabschnitt an der Mündung des Maldonado-Baches in den Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.864774,
+                        -34.915686
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "Ein lokaler Königreichssaal der Zeugen Jehovas, der für religiöse Studien und Gemeindetreffen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.790061,
+                        -34.887394
+                  ]
+            },
+            {
+                  "name": "Parroquia Ntra. Sra. del Rosario",
+                  "text": "Diese katholische Pfarrkirche dient der lokalen Gemeinschaft in der Nähe der markanten, wellenförmigen Leonel-Viera-Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.86206,
+                        -34.913644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Arte Contemporáneo Atchugarry",
+                  "text": "Hatalmas szoborpark és múzeum, amelyet Pablo Atchugarry művész alapított a természet lágy ölén.",
+                  "category": "museum",
+                  "coords": [
+                        -54.821367,
+                        -34.866287
+                  ]
+            },
+            {
+                  "name": "Montoya",
+                  "text": "Trendi strand La Barrában, amely élénk hangulatáról és kiváló szörfözési feltételeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.844602,
+                        -34.91327
+                  ]
+            },
+            {
+                  "name": "La Posta Del Cangrejo",
+                  "text": "Ikonikus homokos strand a Maldonado-patak közelében, népszerű nyári találkozóhely.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.858592,
+                        -34.916566
+                  ]
+            },
+            {
+                  "name": "De la Boca",
+                  "text": "Nyugodt tengerparti szakasz, ahol a Maldonado-patak az Atlanti-óceánba torkollik.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.864774,
+                        -34.915686
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "A Jehova Tanúi helyi Királyság-terme, amelyet vallási tanulmányokra és gyülekezeti találkozókra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.790061,
+                        -34.887394
+                  ]
+            },
+            {
+                  "name": "Parroquia Ntra. Sra. del Rosario",
+                  "text": "Helyi katolikus plébániatemplom, amely a közösséget szolgálja a jellegzetes, hullámzó Leonel Viera híd közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.86206,
+                        -34.913644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Arte Contemporáneo Atchugarry",
+                  "text": "Un parc vast de sculpturi și muzeu, fondat de artistul Pablo Atchugarry, situat în mijlocul naturii.",
+                  "category": "museum",
+                  "coords": [
+                        -54.821367,
+                        -34.866287
+                  ]
+            },
+            {
+                  "name": "Montoya",
+                  "text": "O plajă la modă în La Barra, cunoscută pentru atmosfera sa vibrantă și condițiile excelente de surf.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.844602,
+                        -34.91327
+                  ]
+            },
+            {
+                  "name": "La Posta Del Cangrejo",
+                  "text": "O plajă de nisip iconică lângă pârâul Maldonado, un punct de întâlnire popular în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.858592,
+                        -34.916566
+                  ]
+            },
+            {
+                  "name": "De la Boca",
+                  "text": "O porțiune de plajă liniștită situată la vărsarea pârâului Maldonado în Oceanul Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.864774,
+                        -34.915686
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "O Sală a Regatului locală a Martorilor lui Iehova, folosită pentru studii religioase și întâlniri ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.790061,
+                        -34.887394
+                  ]
+            },
+            {
+                  "name": "Parroquia Ntra. Sra. del Rosario",
+                  "text": "Această biserică parohială catolică deservește comunitatea locală din apropierea podului ondulat Leonel Viera.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.86206,
+                        -34.913644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Arte Contemporáneo Atchugarry",
+                  "text": "A vast sculpture park and museum founded by artist Pablo Atchugarry, set in a natural landscape.",
+                  "category": "museum",
+                  "coords": [
+                        -54.821367,
+                        -34.866287
+                  ]
+            },
+            {
+                  "name": "Montoya",
+                  "text": "A trendy beach in La Barra known for its lively atmosphere and excellent surfing conditions.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.844602,
+                        -34.91327
+                  ]
+            },
+            {
+                  "name": "La Posta Del Cangrejo",
+                  "text": "An iconic sandy beach located near the Maldonado stream, a popular meeting spot in summer.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.858592,
+                        -34.916566
+                  ]
+            },
+            {
+                  "name": "De la Boca",
+                  "text": "A quiet beach section located where the Maldonado stream flows into the Atlantic Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.864774,
+                        -34.915686
+                  ]
+            },
+            {
+                  "name": "Testigos de Jehová",
+                  "text": "A local Kingdom Hall of Jehovah's Witnesses used for religious study and community meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.790061,
+                        -34.887394
+                  ]
+            },
+            {
+                  "name": "Parroquia Ntra. Sra. del Rosario",
+                  "text": "A local Catholic parish church serving the community near the distinctive, wavy Leonel Viera Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.86206,
+                        -34.913644
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MA",
     coords: [-54.8631, -34.9103],
@@ -579,7 +4773,520 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Puente Leonel Viera offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Puente Leonel Viera."],
     }, image: "/poi-images/uy-ma-puente-leonel-viera-landmarks-v2.webp"},
   {
-    id: "uy-ca-puente-de-las-americas-landmarks-v2",
+    id: "uy-ca-puente-de-las-americas-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galería de Arte & Subastas",
+                  "text": "Eine lokale Kunstgalerie, in der regelmäßig Auktionen mit Werken regionaler uruguayischer Künstler stattfinden.",
+                  "category": "museum",
+                  "coords": [
+                        -56.057347,
+                        -34.889276
+                  ]
+            },
+            {
+                  "name": "MUDE - Museo Uruguayo del Escultismo",
+                  "text": "Ein einzigartiges Museum, das der Geschichte und den Traditionen der Pfadfinderbewegung in Uruguay gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -56.062362,
+                        -34.866074
+                  ]
+            },
+            {
+                  "name": "Playa Carrasco",
+                  "text": "Ein breiter Sandstrand in einem exklusiven Viertel, ideal für Spaziergänge am Rio de la Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.039599,
+                        -34.885073
+                  ]
+            },
+            {
+                  "name": "Parroquía Stella Maris",
+                  "text": "Eine markante katholische Kirche in Carrasco, die für ihre Backsteinarchitektur und die Stella-Maris-Statue bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -56.056615,
+                        -34.888181
+                  ]
+            },
+            {
+                  "name": "Parque Fernando Garcia",
+                  "text": "Ein bewaldeter Park, in dem ein Museum für historische Kutschen und ländliche Artefakte untergebracht ist.",
+                  "category": "park",
+                  "coords": [
+                        -56.061652,
+                        -34.864582
+                  ]
+            },
+            {
+                  "name": "Capilla del Santo Pesebre",
+                  "text": "Eine ruhige katholische Kapelle, die der Heiligen Krippe gewidmet ist und für intime Gottesdienste genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.057369,
+                        -34.847829
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Eugenia",
+                  "text": "Eine bescheidene christliche Kapelle, die den spirituellen Bedürfnissen der lokalen Nachbarschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.061217,
+                        -34.847751
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein Königreichssaal, in dem sich die örtliche Gemeinde der Zeugen Jehovas zum Bibelstudium trifft.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.006495,
+                        -34.846564
+                  ]
+            },
+            {
+                  "name": "San Leonardo",
+                  "text": "Ein christliches Gotteshaus, das dem Heiligen Leonhard gewidmet ist und oft von Einheimischen besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.984588,
+                        -34.849227
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Eine überkonfessionelle Kirche in Carrasco, die historisch die englischsprachige Gemeinde betreute.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.060855,
+                        -34.882604
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista de Carrasco",
+                  "text": "Eine Baptistengemeinde im Viertel Carrasco, die evangelikale Gottesdienste und Programme anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.06397,
+                        -34.869954
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Transfiguración del Señor",
+                  "text": "Eine christliche Kirche, die der Verklärung des Herrn gewidmet ist und ein lokales Wahrzeichen darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.069914,
+                        -34.858876
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Ein Zweig der Universalkirche des Königreichs Gottes, bekannt für ihre großen Gottesdienstveranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.051525,
+                        -34.859895
+                  ]
+            },
+            {
+                  "name": "Feria Shangrilá",
+                  "text": "Ein belebter Straßenmarkt in Shangrilá, auf dem Einheimische frische Produkte und Kunsthandwerk kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.007855,
+                        -34.856495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galería de Arte & Subastas",
+                  "text": "Helyi művészeti galéria, amely rendszeresen tart aukciókat regionális uruguayi művészek alkotásaiból.",
+                  "category": "museum",
+                  "coords": [
+                        -56.057347,
+                        -34.889276
+                  ]
+            },
+            {
+                  "name": "MUDE - Museo Uruguayo del Escultismo",
+                  "text": "Egyedülálló múzeum, amely az uruguayi cserkészmozgalom történetét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.062362,
+                        -34.866074
+                  ]
+            },
+            {
+                  "name": "Playa Carrasco",
+                  "text": "Széles, homokos strand egy elegáns negyedben, amely népszerű a Rio de la Plata menti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.039599,
+                        -34.885073
+                  ]
+            },
+            {
+                  "name": "Parroquía Stella Maris",
+                  "text": "Carrasco kiemelkedő katolikus temploma, amely téglaépítészetéről és Stella Maris-szobráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -56.056615,
+                        -34.888181
+                  ]
+            },
+            {
+                  "name": "Parque Fernando Garcia",
+                  "text": "Fásított park, amely egy történelmi lovaskocsikat és vidéki tárgyakat bemutató múzeumnak ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        -56.061652,
+                        -34.864582
+                  ]
+            },
+            {
+                  "name": "Capilla del Santo Pesebre",
+                  "text": "A Szent Jászolnak szentelt nyugodt katolikus kápolna, amelyet meghitt szertatásokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.057369,
+                        -34.847829
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Eugenia",
+                  "text": "Szerény keresztény kápolna, amely a helyi szomszédság hitéletét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.061217,
+                        -34.847751
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Királyság-terem, ahol Jehova Tanúi helyi gyülekezete bibliaóra céljából találkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.006495,
+                        -34.846564
+                  ]
+            },
+            {
+                  "name": "San Leonardo",
+                  "text": "Szent Lénárdnak szentelt keresztény istentiszteleti hely, amelyet gyakran látogatnak a helyi hívők.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.984588,
+                        -34.849227
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Egy felekezetközi keresztény templom Carrascóban, amely történelmileg az angol nyelvű közösséget szolgálta.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.060855,
+                        -34.882604
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista de Carrasco",
+                  "text": "Bautista templom Carrasco negyedében, amely evangéliumi istentiszteleteket és programokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.06397,
+                        -34.869954
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Transfiguración del Señor",
+                  "text": "Az Úr Színeváltozásának szentelt keresztény templom, amely a hitélet helyi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.069914,
+                        -34.858876
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Isten Országának Egyetemes Egyháza egyik ága, amely nagyszabású istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.051525,
+                        -34.859895
+                  ]
+            },
+            {
+                  "name": "Feria Shangrilá",
+                  "text": "Nyüzsgő utcai piac Shangrilában, ahol a helyiek friss árut és kézműves termékeket vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.007855,
+                        -34.856495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galería de Arte & Subastas",
+                  "text": "O galerie de artă locală care găzduiește frecvent licitații cu lucrări ale artiștilor uruguayeni regionali.",
+                  "category": "museum",
+                  "coords": [
+                        -56.057347,
+                        -34.889276
+                  ]
+            },
+            {
+                  "name": "MUDE - Museo Uruguayo del Escultismo",
+                  "text": "Un muzeu unic dedicat istoriei și tradițiilor mișcării cercetașilor din Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.062362,
+                        -34.866074
+                  ]
+            },
+            {
+                  "name": "Playa Carrasco",
+                  "text": "O plajă largă cu nisip într-un cartier exclusivist, populară pentru plimbări la apus de-a lungul Rio de la Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.039599,
+                        -34.885073
+                  ]
+            },
+            {
+                  "name": "Parroquía Stella Maris",
+                  "text": "O biserică catolică proeminentă în Carrasco, cunoscută pentru arhitectura sa din cărămidă și dedicarea „Steaua Mării”.",
+                  "category": "religious",
+                  "coords": [
+                        -56.056615,
+                        -34.888181
+                  ]
+            },
+            {
+                  "name": "Parque Fernando Garcia",
+                  "text": "Un parc împădurit care adăpostește un muzeu de trăsuri istorice trase de cai și artefacte rurale.",
+                  "category": "park",
+                  "coords": [
+                        -56.061652,
+                        -34.864582
+                  ]
+            },
+            {
+                  "name": "Capilla del Santo Pesebre",
+                  "text": "O capelă catolică liniștită dedicată Sfântului Iesle, utilizată pentru servicii religioase intime.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.057369,
+                        -34.847829
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Eugenia",
+                  "text": "O capelă creștină modestă care deservește nevoile spirituale ale comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.061217,
+                        -34.847751
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului unde se întrunește congregația locală a Martorilor lui Iehova pentru studiul Bibliei.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.006495,
+                        -34.846564
+                  ]
+            },
+            {
+                  "name": "San Leonardo",
+                  "text": "Un lăcaș de cult creștin dedicat Sfântului Leonard, vizitat adesea de credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.984588,
+                        -34.849227
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "O biserică creștină inter-denominațională din Carrasco, care a servit istoric comunitatea de limbă engleză.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.060855,
+                        -34.882604
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista de Carrasco",
+                  "text": "O biserică baptistă din districtul Carrasco care oferă servicii evanghelice și programe comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.06397,
+                        -34.869954
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Transfiguración del Señor",
+                  "text": "O biserică creștină dedicată Schimbării la Față, servind ca punct de reper local pentru închinare.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.069914,
+                        -34.858876
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "O filială a Bisericii Universale a Împărăției lui Dumnezeu, cunoscută pentru evenimentele sale religioase la scară largă.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.051525,
+                        -34.859895
+                  ]
+            },
+            {
+                  "name": "Feria Shangrilá",
+                  "text": "O piață stradală plină de viață în Shangrilá, unde localnicii cumpără produse proaspete și bunuri artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.007855,
+                        -34.856495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galería de Arte & Subastas",
+                  "text": "A local art gallery that hosts frequent auctions showcasing works by regional Uruguayan artists.",
+                  "category": "museum",
+                  "coords": [
+                        -56.057347,
+                        -34.889276
+                  ]
+            },
+            {
+                  "name": "MUDE - Museo Uruguayo del Escultismo",
+                  "text": "A unique museum dedicated to the history and traditions of the scouting movement in Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.062362,
+                        -34.866074
+                  ]
+            },
+            {
+                  "name": "Playa Carrasco",
+                  "text": "A wide, sandy beach in an upscale neighborhood, popular for sunset walks along the Rio de la Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.039599,
+                        -34.885073
+                  ]
+            },
+            {
+                  "name": "Parroquía Stella Maris",
+                  "text": "A prominent Catholic church in Carrasco known for its brick architecture and \"Our Lady, Star of the Sea\" dedication.",
+                  "category": "religious",
+                  "coords": [
+                        -56.056615,
+                        -34.888181
+                  ]
+            },
+            {
+                  "name": "Parque Fernando Garcia",
+                  "text": "A wooded park housing a museum of traditional horse-drawn carriages and historical rural artifacts.",
+                  "category": "park",
+                  "coords": [
+                        -56.061652,
+                        -34.864582
+                  ]
+            },
+            {
+                  "name": "Capilla del Santo Pesebre",
+                  "text": "A tranquil Catholic chapel dedicated to the Holy Manger, used for intimate religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.057369,
+                        -34.847829
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Eugenia",
+                  "text": "A modest Christian chapel serving the spiritual needs of the local neighborhood community.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.061217,
+                        -34.847751
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Kingdom Hall where the local congregation of Jehovah’s Witnesses meets for Bible study.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.006495,
+                        -34.846564
+                  ]
+            },
+            {
+                  "name": "San Leonardo",
+                  "text": "A Christian place of worship dedicated to Saint Leonard, often visited by local devotees.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.984588,
+                        -34.849227
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "An inter-denominational Christian church in Carrasco, historically serving the English-speaking community.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.060855,
+                        -34.882604
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Bautista de Carrasco",
+                  "text": "A Baptist church in the Carrasco district offering community-focused evangelical services and programs.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.06397,
+                        -34.869954
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Transfiguración del Señor",
+                  "text": "A Christian church dedicated to the Transfiguration, serving as a local landmark for worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.069914,
+                        -34.858876
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "A branch of the Universal Church of the Kingdom of God, known for its large-scale worship events.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.051525,
+                        -34.859895
+                  ]
+            },
+            {
+                  "name": "Feria Shangrilá",
+                  "text": "A bustling street market in Shangrilá where locals shop for fresh produce and artisanal goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.007855,
+                        -34.856495
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-CA",
     coords: [-56.0319, -34.8647],
@@ -615,7 +5322,124 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Puente de las Américas offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités de loisirs actifs dans les environs du Puente de las Américas."],
     }, image: "/poi-images/uy-ca-puente-de-las-americas-landmarks-v2.webp"},
   {
-    id: "uy-co-faro-de-colonia-landmarks-v2",
+    id: "uy-co-faro-de-colonia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espacio del Azulejo",
+                  "text": "Ein spezialisiertes Museum, das eine umfangreiche Sammlung historischer portugiesischer Keramikfliesen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -57.85337,
+                        -34.472267
+                  ]
+            },
+            {
+                  "name": "Galeria de los suspiros",
+                  "text": "Eine Kunstgalerie in einem traditionellen Kolonialgebäude an einer berühmten Kopfsteinpflasterstraße.",
+                  "category": "museum",
+                  "coords": [
+                        -57.851091,
+                        -34.473058
+                  ]
+            },
+            {
+                  "name": "lacasa galería",
+                  "text": "Ein malerischer lokaler Galerieraum, in dem regionale Kunstwerke, Gemälde und traditionelles Kunsthandwerk ausgestellt werden.",
+                  "category": "museum",
+                  "coords": [
+                        -57.851992,
+                        -34.473039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espacio del Azulejo",
+                  "text": "Történelmi portugál kerámiacsempék hatalmas gyűjteményét bemutató szakmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -57.85337,
+                        -34.472267
+                  ]
+            },
+            {
+                  "name": "Galeria de los suspiros",
+                  "text": "Hagyományos gyarmati épületben található művészeti galéria egy híres macskaköves utca mentén.",
+                  "category": "museum",
+                  "coords": [
+                        -57.851091,
+                        -34.473058
+                  ]
+            },
+            {
+                  "name": "lacasa galería",
+                  "text": "Különleges helyi galéria, amely regionális művészeti alkotásokat, festményeket és hagyományos kézműves termékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -57.851992,
+                        -34.473039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espacio del Azulejo",
+                  "text": "Un muzeu specializat care expune o colecție vastă de plăci ceramice portugheze istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -57.85337,
+                        -34.472267
+                  ]
+            },
+            {
+                  "name": "Galeria de los suspiros",
+                  "text": "O galerie de artă amplasată într-o clădire colonială tradițională de-a lungul unei faimoase străzi pietruite.",
+                  "category": "museum",
+                  "coords": [
+                        -57.851091,
+                        -34.473058
+                  ]
+            },
+            {
+                  "name": "lacasa galería",
+                  "text": "Un spațiu de galerie local pitoresc care prezintă opere de artă regionale, picturi și meșteșuguri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        -57.851992,
+                        -34.473039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tile Space",
+                  "text": "A specialized museum displaying a vast collection of historic Portuguese ceramic tiles.",
+                  "category": "museum",
+                  "coords": [
+                        -57.85337,
+                        -34.472267
+                  ]
+            },
+            {
+                  "name": "Galeria de los suspiros",
+                  "text": "An art gallery set within a traditional colonial building along a famous cobblestone street.",
+                  "category": "museum",
+                  "coords": [
+                        -57.851091,
+                        -34.473058
+                  ]
+            },
+            {
+                  "name": "lacasa galería",
+                  "text": "A quaint local gallery space showcasing regional artworks, paintings, and traditional crafts.",
+                  "category": "museum",
+                  "coords": [
+                        -57.851992,
+                        -34.473039
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-CO",
     coords: [-57.8525, -34.4725],
@@ -651,7 +5475,484 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Faro de Colonia del Sacramento offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités de loisirs actifs dans les environs du Faro de Colonia del Sacramento."],
     }, image: "/poi-images/uy-co-faro-de-colonia-landmarks-v2.webp"},
   {
-    id: "uy-mo-castillo-pittamiglio-landmarks-v2",
+    id: "uy-mo-castillo-pittamiglio-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Casa de Juan Zorrilla de San Martín",
+                  "text": "Das ehemalige Wohnhaus des Dichters Juan Zorrilla de San Martín beherbergt seine persönliche Bibliothek und Einrichtungsgegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        -56.159769,
+                        -34.927633
+                  ]
+            },
+            {
+                  "name": "Tour 360º da Sede do Mercosul",
+                  "text": "Bietet eine virtuelle 360-Grad-Tour durch das Mercosur-Hauptquartier im historischen Gebäude des ehemaligen Parque Hotels.",
+                  "category": "museum",
+                  "coords": [
+                        -56.171383,
+                        -34.914002
+                  ]
+            },
+            {
+                  "name": "Patio Andaluz",
+                  "text": "Ein farbenfroher, im Jahr 1930 erbauter Innenhof, der mit traditionellen andalusischen Fliesen und Keramiken geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.16871,
+                        -34.914237
+                  ]
+            },
+            {
+                  "name": "Ensenada de Ramírez",
+                  "text": "Eine kleine Bucht am Río de la Plata, die für ihre Sonnenuntergänge und die Nähe zum Stadtpark bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171004,
+                        -34.916411
+                  ]
+            },
+            {
+                  "name": "Museo Casa Villamajó",
+                  "text": "Ein modernistisches Haus, das vom bedeutenden uruguayischen Architekten Julio Vilamajó entworfen und bewohnt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -56.16331,
+                        -34.914961
+                  ]
+            },
+            {
+                  "name": "Faro de Punta Carretas",
+                  "text": "Ein historischer Leuchtturm aus dem 19. Jahrhundert auf der Punta Brava, der Schiffen den Weg in die Bucht von Montevideo weist.",
+                  "category": "natural",
+                  "coords": [
+                        -56.160534,
+                        -34.935236
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Artes Visuales",
+                  "text": "Beherbergt die wichtigste Kunstsammlung des Landes, darunter bedeutende Werke von Juan Manuel Blanes.",
+                  "category": "museum",
+                  "coords": [
+                        -56.164967,
+                        -34.913872
+                  ]
+            },
+            {
+                  "name": "Iglesia del Sagrado Corazón de Jesús",
+                  "text": "Eine markante neoromanische Kirche in Punta Carretas, die für ihre große Zentralkuppel und ihr feierliches Interieur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -56.158642,
+                        -34.922888
+                  ]
+            },
+            {
+                  "name": "Parque Rodó",
+                  "text": "Ein traditioneller Jahrmarkt innerhalb des Parks mit klassischen Karussells und familienfreundlichen Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.168079,
+                        -34.916844
+                  ]
+            },
+            {
+                  "name": "Playa Ramírez",
+                  "text": "Ein breiter Sandstrand am Río de la Plata, der als Hauptort für die jährlichen Iemanjá-Feierlichkeiten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.17008,
+                        -34.91645
+                  ]
+            },
+            {
+                  "name": "Teatro de Verano Ramón Collazo",
+                  "text": "Ein großes Freilufttheater mit einem markanten Wellendach, das als Hauptbühne für den Karneval von Montevideo dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.170039,
+                        -34.920009
+                  ]
+            },
+            {
+                  "name": "Juegos Infantiles",
+                  "text": "Ein spezieller Bereich für jüngere Kinder mit verschiedenen kleinen Fahrgeschäften und Spielplätzen.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.16348,
+                        -34.913217
+                  ]
+            },
+            {
+                  "name": "Templo Tehilat-David",
+                  "text": "Eine Synagoge der lokalen jüdischen Gemeinde, die Raum für Gebete und religiöse Studien bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.158631,
+                        -34.914743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Casa de Juan Zorrilla de San Martín",
+                  "text": "Juan Zorrilla de San Martín költő egykori otthona, ahol személyes könyvtára és eredeti bútorai tekinthetők meg.",
+                  "category": "museum",
+                  "coords": [
+                        -56.159769,
+                        -34.927633
+                  ]
+            },
+            {
+                  "name": "Tour 360º da Sede do Mercosul",
+                  "text": "360 fokos virtuális túrát kínál a Mercosur székházában, amely az egykori Parque Hotel történelmi épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        -56.171383,
+                        -34.914002
+                  ]
+            },
+            {
+                  "name": "Patio Andaluz",
+                  "text": "Egy színes, 1930-ban épült belső udvar, amelyet hagyományos andalúz csempék és kerámiák díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.16871,
+                        -34.914237
+                  ]
+            },
+            {
+                  "name": "Ensenada de Ramírez",
+                  "text": "Egy kis öböl a Río de la Platán, amely naplementéiről és a városi park közelségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171004,
+                        -34.916411
+                  ]
+            },
+            {
+                  "name": "Museo Casa Villamajó",
+                  "text": "Modernista ház, amelyet a neves uruguayi építész, Julio Vilamajó tervezett és ahol egykor élt.",
+                  "category": "museum",
+                  "coords": [
+                        -56.16331,
+                        -34.914961
+                  ]
+            },
+            {
+                  "name": "Faro de Punta Carretas",
+                  "text": "Történelmi, 19. századi világítótorony a Punta Brava-fokon, amely a montevideói öbölbe tartó hajókat segíti.",
+                  "category": "natural",
+                  "coords": [
+                        -56.160534,
+                        -34.935236
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Artes Visuales",
+                  "text": "Az ország legjelentősebb művészeti gyűjteményének ad otthont, többek között Juan Manuel Blanes alkotásaival.",
+                  "category": "museum",
+                  "coords": [
+                        -56.164967,
+                        -34.913872
+                  ]
+            },
+            {
+                  "name": "Iglesia del Sagrado Corazón de Jesús",
+                  "text": "Jellegzetes neoromán templom Punta Carretasban, amely nagy központi kupolájáról és ünnepélyes belső teréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -56.158642,
+                        -34.922888
+                  ]
+            },
+            {
+                  "name": "Parque Rodó",
+                  "text": "Hagyományos vidámpark a parkon belül, klasszikus körhintákkal és családbarát játékokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.168079,
+                        -34.916844
+                  ]
+            },
+            {
+                  "name": "Playa Ramírez",
+                  "text": "Széles homokos strand a Río de la Platán, amely az éves Iemanjá-fesztivál ünnepségeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.17008,
+                        -34.91645
+                  ]
+            },
+            {
+                  "name": "Teatro de Verano Ramón Collazo",
+                  "text": "Hatalmas szabadtéri színház jellegzetes hullámos tetővel, amely a montevideói karnevál főszínhelyeként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.170039,
+                        -34.920009
+                  ]
+            },
+            {
+                  "name": "Juegos Infantiles",
+                  "text": "Speciális terület kisebb gyermekek számára, különféle kisléptékű játékokkal és játszóterekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.16348,
+                        -34.913217
+                  ]
+            },
+            {
+                  "name": "Templo Tehilat-David",
+                  "text": "A helyi zsidó közösség zsinagógája, amely imádságoknak és vallási tanulmányoknak ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.158631,
+                        -34.914743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Casa de Juan Zorrilla de San Martín",
+                  "text": "Fosta reședință a poetului Juan Zorrilla de San Martín găzduiește biblioteca sa personală și obiecte de mobilier originale.",
+                  "category": "museum",
+                  "coords": [
+                        -56.159769,
+                        -34.927633
+                  ]
+            },
+            {
+                  "name": "Tour 360º da Sede do Mercosul",
+                  "text": "Oferă un tur virtual de 360 de grade al sediului Mercosur, situat în clădirea istorică a fostului Hotel Parque.",
+                  "category": "museum",
+                  "coords": [
+                        -56.171383,
+                        -34.914002
+                  ]
+            },
+            {
+                  "name": "Patio Andaluz",
+                  "text": "O curte interioară colorată, construită în 1930, decorată cu plăci de faianță și ceramice tradiționale andaluze.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.16871,
+                        -34.914237
+                  ]
+            },
+            {
+                  "name": "Ensenada de Ramírez",
+                  "text": "Un mic golf la Río de la Plata, cunoscut pentru apusurile sale și proximitatea față de parcul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171004,
+                        -34.916411
+                  ]
+            },
+            {
+                  "name": "Museo Casa Villamajó",
+                  "text": "O casă modernistă proiectată și locuită de proeminentul arhitect uruguayan Julio Vilamajó.",
+                  "category": "museum",
+                  "coords": [
+                        -56.16331,
+                        -34.914961
+                  ]
+            },
+            {
+                  "name": "Faro de Punta Carretas",
+                  "text": "Un far istoric din secolul al XIX-lea de pe Punta Brava, care ghidează navele în golful Montevideo.",
+                  "category": "natural",
+                  "coords": [
+                        -56.160534,
+                        -34.935236
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Artes Visuales",
+                  "text": "Găzduiește cea mai importantă colecție de artă a țării, inclusiv lucrări semnificative de Juan Manuel Blanes.",
+                  "category": "museum",
+                  "coords": [
+                        -56.164967,
+                        -34.913872
+                  ]
+            },
+            {
+                  "name": "Iglesia del Sagrado Corazón de Jesús",
+                  "text": "O biserică neoromanică proeminentă în Punta Carretas, cunoscută pentru cupola sa centrală mare și interiorul solemn.",
+                  "category": "religious",
+                  "coords": [
+                        -56.158642,
+                        -34.922888
+                  ]
+            },
+            {
+                  "name": "Parque Rodó",
+                  "text": "Un parc de distracții tradițional în interiorul parcului, cu caruseluri clasice și atracții pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.168079,
+                        -34.916844
+                  ]
+            },
+            {
+                  "name": "Playa Ramírez",
+                  "text": "O plajă largă de nisip la Río de la Plata, cunoscută pentru găzduirea celebrărilor anuale ale festivalului Iemanjá.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.17008,
+                        -34.91645
+                  ]
+            },
+            {
+                  "name": "Teatro de Verano Ramón Collazo",
+                  "text": "Un amfiteatru în aer liber mare, cu un acoperiș ondulat distinctiv, care servește ca scenă principală pentru Carnavalul din Montevideo.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.170039,
+                        -34.920009
+                  ]
+            },
+            {
+                  "name": "Juegos Infantiles",
+                  "text": "O zonă dedicată copiilor mai mici, cu diverse atracții la scară mică și locuri de joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.16348,
+                        -34.913217
+                  ]
+            },
+            {
+                  "name": "Templo Tehilat-David",
+                  "text": "O sinagogă care deservește comunitatea evreiască locală, oferind spațiu pentru rugăciune și studii religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.158631,
+                        -34.914743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Casa de Juan Zorrilla de San Martín",
+                  "text": "The former home of poet Juan Zorrilla de San Martín houses his personal library and original belongings.",
+                  "category": "museum",
+                  "coords": [
+                        -56.159769,
+                        -34.927633
+                  ]
+            },
+            {
+                  "name": "Tour 360º da Sede do Mercosul",
+                  "text": "Offers a 360-degree virtual tour of the Mercosur headquarters, located in the historic former Parque Hotel building.",
+                  "category": "museum",
+                  "coords": [
+                        -56.171383,
+                        -34.914002
+                  ]
+            },
+            {
+                  "name": "Andalusian Patio",
+                  "text": "A colorful courtyard built in 1930, decorated with traditional Andalusian tiles and ceramics.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.16871,
+                        -34.914237
+                  ]
+            },
+            {
+                  "name": "Ensenada de Ramírez",
+                  "text": "A small bay on the Río de la Plata, known for its sunsets and proximity to the urban park.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171004,
+                        -34.916411
+                  ]
+            },
+            {
+                  "name": "Museo Casa Villamajó",
+                  "text": "A modernist house designed and inhabited by the prominent Uruguayan architect Julio Vilamajó.",
+                  "category": "museum",
+                  "coords": [
+                        -56.16331,
+                        -34.914961
+                  ]
+            },
+            {
+                  "name": "Faro de Punta Carretas",
+                  "text": "A historic 19th-century lighthouse on Punta Brava that guides ships into the Montevideo bay.",
+                  "category": "natural",
+                  "coords": [
+                        -56.160534,
+                        -34.935236
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Artes Visuales",
+                  "text": "Houses the country's most significant art collection, including major works by Juan Manuel Blanes.",
+                  "category": "museum",
+                  "coords": [
+                        -56.164967,
+                        -34.913872
+                  ]
+            },
+            {
+                  "name": "Iglesia del Sagrado Corazón de Jesús",
+                  "text": "A prominent Neo-Romanesque church in Punta Carretas, known for its large central dome and solemn interior.",
+                  "category": "religious",
+                  "coords": [
+                        -56.158642,
+                        -34.922888
+                  ]
+            },
+            {
+                  "name": "Parque Rodó",
+                  "text": "A traditional amusement park within the park, featuring classic carousels and family-friendly rides.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.168079,
+                        -34.916844
+                  ]
+            },
+            {
+                  "name": "Playa Ramírez",
+                  "text": "A wide sandy beach on the Río de la Plata, known for hosting the annual Iemanjá festival celebrations.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.17008,
+                        -34.91645
+                  ]
+            },
+            {
+                  "name": "Teatro de Verano Ramón Collazo",
+                  "text": "A large open-air amphitheater with a distinctive wavy roof, serving as the main stage for Montevideo's Carnival.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.170039,
+                        -34.920009
+                  ]
+            },
+            {
+                  "name": "Juegos Infantiles",
+                  "text": "A dedicated area for younger children featuring various small-scale rides and playgrounds.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.16348,
+                        -34.913217
+                  ]
+            },
+            {
+                  "name": "Templo Tehilat-David",
+                  "text": "A synagogue serving the local Jewish community, providing space for prayer and religious studies.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.158631,
+                        -34.914743
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1578, -34.9214],
@@ -687,7 +5988,628 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Castillo Pittamiglio offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Castillo Pittamiglio."],
     }, image: "/poi-images/uy-mo-castillo-pittamiglio-landmarks-v2.webp"},
   {
-    id: "uy-mo-wtc-montevideo-landmarks-v2",
+    id: "uy-mo-wtc-montevideo-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montevideo",
+                  "text": "Das moderne Geschäftszentrum der Hauptstadt mit den Hochhäusern des World Trade Center Komplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.138629,
+                        -34.910426
+                  ]
+            },
+            {
+                  "name": "Admiral Graf Spee Gun",
+                  "text": "Dieses Geschütz stammt vom deutschen Panzerschiff Admiral Graf Spee, das 1939 im Río de la Plata versenkt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.135764,
+                        -34.910734
+                  ]
+            },
+            {
+                  "name": "El Comedy",
+                  "text": "Ein lokales Theater in Montevideo, das regelmäßig Aufführungen und Stand-up-Comedy präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.14933,
+                        -34.908022
+                  ]
+            },
+            {
+                  "name": "Sinagoga de la Nueva Congregación Israelita",
+                  "text": "Eine Synagoge der jüdischen Gemeinde in Montevideo für Gottesdienste und kulturelle Treffen.",
+                  "category": "religious",
+                  "coords": [
+                        -56.149428,
+                        -34.905514
+                  ]
+            },
+            {
+                  "name": "Playa del Buceo",
+                  "text": "Ein ruhiger Sandstrand im Stadtteil Buceo, der sich entlang der Rambla von Montevideo erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.119757,
+                        -34.899163
+                  ]
+            },
+            {
+                  "name": "Museo Oceanográfico",
+                  "text": "Ein Naturkundemuseum in einem markanten arabesken Gebäude, das sich der Meeresfauna widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -56.123576,
+                        -34.903325
+                  ]
+            },
+            {
+                  "name": "Plaza Ituzaingó",
+                  "text": "Ein öffentlicher Platz in Montevideo, der als grüne Erholungsfläche im Stadtviertel dient.",
+                  "category": "park",
+                  "coords": [
+                        -56.129834,
+                        -34.902862
+                  ]
+            },
+            {
+                  "name": "Planetario de Montevideo \"Agrimensor Germán Barbato\"",
+                  "text": "Das erste Planetarium Lateinamerikas bietet astronomische Projektionen unter einer großen Kuppel.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.144545,
+                        -34.901883
+                  ]
+            },
+            {
+                  "name": "Guerro",
+                  "text": "Eine Kunstgalerie in Montevideo, die Werke lokaler und regionaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -56.134631,
+                        -34.905482
+                  ]
+            },
+            {
+                  "name": "Playa Pocitos",
+                  "text": "Einer der bekanntesten Strände Montevideos, gesäumt von Hochhäusern und der berühmten Rambla.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.145315,
+                        -34.912784
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Eine markante katholische Kirche im Stadtteil Pocitos, bekannt für ihre eklektische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -56.150175,
+                        -34.909638
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein Versammlungsort der Zeugen Jehovas für religiöse Zusammenkünfte und Bibelstudium.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.133217,
+                        -34.891927
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betania",
+                  "text": "Eine evangelische Freikirche in Montevideo, die Gottesdienste für die baptistische Gemeinde anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.129232,
+                        -34.893238
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "Eine katholische Pfarrkirche in Montevideo, die dem Apostel Petrus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.134976,
+                        -34.895032
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico Bautista",
+                  "text": "Ein protestantisches Gotteshaus, das als Zentrum für die baptistische Glaubensgemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.141454,
+                        -34.902491
+                  ]
+            },
+            {
+                  "name": "Parroquia San Alejandro y San Pedro Claver",
+                  "text": "Eine lokale katholische Kirche, die nach den Heiligen Alexander und Petrus Claver benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.139104,
+                        -34.906484
+                  ]
+            },
+            {
+                  "name": "Centro de Budismo Kadampa Mahamudra",
+                  "text": "Ein buddhistisches Meditationszentrum, das Kurse zur Kadampa-Tradition und inneren Ruhe anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.150703,
+                        -34.908221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montevideo",
+                  "text": "A főváros modern üzleti központja, ahol a World Trade Center komplexum felhőkarcolói találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.138629,
+                        -34.910426
+                  ]
+            },
+            {
+                  "name": "Admiral Graf Spee Gun",
+                  "text": "Az Admiral Graf Spee német zsebcsatahajó ágyúja, amelyet 1939-ben süllyesztettek el a Río de la Platában.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.135764,
+                        -34.910734
+                  ]
+            },
+            {
+                  "name": "El Comedy",
+                  "text": "Montevideo egyik helyi színháza, amely előadásoknak és stand-up esteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.14933,
+                        -34.908022
+                  ]
+            },
+            {
+                  "name": "Sinagoga de la Nueva Congregación Israelita",
+                  "text": "A montevideói zsidó közösség zsinagógája, amely hitéleti és kulturális központként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -56.149428,
+                        -34.905514
+                  ]
+            },
+            {
+                  "name": "Playa del Buceo",
+                  "text": "Homokos tengerpart Buceo negyedében, amely a montevideói Rambla mentén fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.119757,
+                        -34.899163
+                  ]
+            },
+            {
+                  "name": "Museo Oceanográfico",
+                  "text": "Egy markáns, mór stílusú épületben elhelyezkedő múzeum, amely a tengeri élővilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.123576,
+                        -34.903325
+                  ]
+            },
+            {
+                  "name": "Plaza Ituzaingó",
+                  "text": "Montevideo egyik nyilvános tere, amely zöld pihenőhelyként szolgál a városrészben.",
+                  "category": "park",
+                  "coords": [
+                        -56.129834,
+                        -34.902862
+                  ]
+            },
+            {
+                  "name": "Planetario de Montevideo \"Agrimensor Germán Barbato\"",
+                  "text": "Latin-Amerika első planetáriuma, amely csillagászati bemutatókat tart a hatalmas kupola alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.144545,
+                        -34.901883
+                  ]
+            },
+            {
+                  "name": "Guerro",
+                  "text": "Egy montevideói művészeti galéria, amely helyi és regionális művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.134631,
+                        -34.905482
+                  ]
+            },
+            {
+                  "name": "Playa Pocitos",
+                  "text": "Montevideo egyik legismertebb strandja, amelyet toronyházak és a népszerű Rambla sétány övez.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.145315,
+                        -34.912784
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Pocitos negyedének jellegzetes katolikus temploma, amely eklektikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -56.150175,
+                        -34.909638
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi királyságterme, amely hitéleti gyülekezetek és bibliaóra helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.133217,
+                        -34.891927
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betania",
+                  "text": "Egy montevideói baptista templom, amely hitéleti alkalmakat kínál a közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.129232,
+                        -34.893238
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "Szent Péter apostolnak szentelt katolikus plébániatemplom Montevideo egyik városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.134976,
+                        -34.895032
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico Bautista",
+                  "text": "Protestáns templom, amely a baptista hívő közösség központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.141454,
+                        -34.902491
+                  ]
+            },
+            {
+                  "name": "Parroquia San Alejandro y San Pedro Claver",
+                  "text": "Szent Sándorról és Szent Claver Péterről elnevezett helyi katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.139104,
+                        -34.906484
+                  ]
+            },
+            {
+                  "name": "Centro de Budismo Kadampa Mahamudra",
+                  "text": "Buddhista meditációs központ, amely a Kadampa hagyomány tanításait és kurzusait kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.150703,
+                        -34.908221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montevideo",
+                  "text": "Inima comercială modernă a capitalei, având turnuri de birouri și complexul World Trade Center.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.138629,
+                        -34.910426
+                  ]
+            },
+            {
+                  "name": "Admiral Graf Spee Gun",
+                  "text": "Tun de pe cuirasatul german Admiral Graf Spee, scufundat în Río de la Plata în 1939.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.135764,
+                        -34.910734
+                  ]
+            },
+            {
+                  "name": "El Comedy",
+                  "text": "Un teatru local din Montevideo care găzduiește spectacole de scenă și comedie.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.14933,
+                        -34.908022
+                  ]
+            },
+            {
+                  "name": "Sinagoga de la Nueva Congregación Israelita",
+                  "text": "O sinagogă a comunității evreiești din Montevideo, utilizată pentru servicii religioase și evenimente.",
+                  "category": "religious",
+                  "coords": [
+                        -56.149428,
+                        -34.905514
+                  ]
+            },
+            {
+                  "name": "Playa del Buceo",
+                  "text": "O plajă cu nisip în cartierul Buceo, situată de-a lungul promenadei Rambla din Montevideo.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.119757,
+                        -34.899163
+                  ]
+            },
+            {
+                  "name": "Museo Oceanográfico",
+                  "text": "Un muzeu de istorie naturală situat într-o clădire cu arhitectură arabă, dedicat faunei marine.",
+                  "category": "museum",
+                  "coords": [
+                        -56.123576,
+                        -34.903325
+                  ]
+            },
+            {
+                  "name": "Plaza Ituzaingó",
+                  "text": "O piață publică din Montevideo care oferă un spațiu verde pentru recreere în cartier.",
+                  "category": "park",
+                  "coords": [
+                        -56.129834,
+                        -34.902862
+                  ]
+            },
+            {
+                  "name": "Planetario de Montevideo \"Agrimensor Germán Barbato\"",
+                  "text": "Primul planetariu din America Latină, oferind proiecții astronomice sub o cupolă impunătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.144545,
+                        -34.901883
+                  ]
+            },
+            {
+                  "name": "Guerro",
+                  "text": "O galerie de artă din Montevideo care expune lucrări ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        -56.134631,
+                        -34.905482
+                  ]
+            },
+            {
+                  "name": "Playa Pocitos",
+                  "text": "Una dintre cele mai cunoscute plaje din Montevideo, mărginită de clădiri înalte și de faimoasa Rambla.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.145315,
+                        -34.912784
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "O biserică catolică distinctivă din cartierul Pocitos, cunoscută pentru arhitectura sa eclectică.",
+                  "category": "religious",
+                  "coords": [
+                        -56.150175,
+                        -34.909638
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O sală a regatului pentru Martorii lui Iehova, utilizată pentru întruniri religioase și studiu biblic.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.133217,
+                        -34.891927
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betania",
+                  "text": "O biserică baptistă din Montevideo care oferă servicii religioase pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.129232,
+                        -34.893238
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "O biserică parohială catolică din Montevideo, dedicată Sfântului Apostol Petru.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.134976,
+                        -34.895032
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico Bautista",
+                  "text": "Un lăcaș de cult protestant care servește drept centru pentru comunitatea baptistă.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.141454,
+                        -34.902491
+                  ]
+            },
+            {
+                  "name": "Parroquia San Alejandro y San Pedro Claver",
+                  "text": "O biserică catolică locală, numită după Sfinții Alexandru și Petru Claver.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.139104,
+                        -34.906484
+                  ]
+            },
+            {
+                  "name": "Centro de Budismo Kadampa Mahamudra",
+                  "text": "Un centru budist de meditație care oferă cursuri despre tradiția Kadampa și liniștea interioară.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.150703,
+                        -34.908221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montevideo",
+                  "text": "The modern commercial heart of the capital, featuring high-rise office towers and the World Trade Center complex.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.138629,
+                        -34.910426
+                  ]
+            },
+            {
+                  "name": "Admiral Graf Spee Gun",
+                  "text": "This gun is a relic from the German cruiser Admiral Graf Spee, scuttled in the River Plate during World War II.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.135764,
+                        -34.910734
+                  ]
+            },
+            {
+                  "name": "El Comedy",
+                  "text": "A local theatre in Montevideo known for hosting various stage performances and comedy shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.14933,
+                        -34.908022
+                  ]
+            },
+            {
+                  "name": "Synagogue of the New Jewish Congregation",
+                  "text": "A synagogue serving the Jewish community in Montevideo for religious services and gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -56.149428,
+                        -34.905514
+                  ]
+            },
+            {
+                  "name": "Playa del Buceo",
+                  "text": "A sandy beach in the Buceo neighborhood, situated along the scenic Rambla of Montevideo.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.119757,
+                        -34.899163
+                  ]
+            },
+            {
+                  "name": "Museo Oceanográfico",
+                  "text": "A natural history museum housed in a striking Moorish-style building, dedicated to marine wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        -56.123576,
+                        -34.903325
+                  ]
+            },
+            {
+                  "name": "Plaza Ituzaingó",
+                  "text": "A public square in Montevideo providing a green space for recreation within the neighborhood.",
+                  "category": "park",
+                  "coords": [
+                        -56.129834,
+                        -34.902862
+                  ]
+            },
+            {
+                  "name": "Planetario de Montevideo \"Agrimensor Germán Barbato\"",
+                  "text": "The first planetarium in Ibero-America, offering astronomical projections under its large dome.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.144545,
+                        -34.901883
+                  ]
+            },
+            {
+                  "name": "Guerro",
+                  "text": "An art gallery in Montevideo showcasing works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        -56.134631,
+                        -34.905482
+                  ]
+            },
+            {
+                  "name": "Pocitos Beach",
+                  "text": "One of Montevideo's most famous beaches, lined with high-rise buildings and the iconic Rambla promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.145315,
+                        -34.912784
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "A prominent Catholic church in the Pocitos neighborhood, noted for its eclectic architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        -56.150175,
+                        -34.909638
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses used for religious meetings and Bible study.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.133217,
+                        -34.891927
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Betania",
+                  "text": "A Baptist church in Montevideo providing religious services for the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.129232,
+                        -34.893238
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "A Catholic parish church in Montevideo dedicated to Saint Peter the Apostle.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.134976,
+                        -34.895032
+                  ]
+            },
+            {
+                  "name": "Templo Evangelico Bautista",
+                  "text": "A Protestant place of worship serving as a center for the Baptist faith community.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.141454,
+                        -34.902491
+                  ]
+            },
+            {
+                  "name": "Parroquia San Alejandro y San Pedro Claver",
+                  "text": "A local Catholic church named after Saints Alexander and Peter Claver.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.139104,
+                        -34.906484
+                  ]
+            },
+            {
+                  "name": "Centro de Budismo Kadampa Mahamudra",
+                  "text": "A Buddhist meditation center offering classes on the Kadampa tradition and inner peace.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.150703,
+                        -34.908221
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1367, -34.9042],
@@ -795,7 +6717,1060 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Mausoleo de José Gervasio Artigas offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Mausoleo de José Gervasio Artigas."],
     }, image: "/poi-images/uy-mo-mausoleo-artigas-landmarks-v2.webp"},
   {
-    id: "uy-mo-antel-arena-landmarks-v2",
+    id: "uy-mo-antel-arena-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Quinta de Luis Alberto de Herrera",
+                  "text": "Das ehemalige Landhaus einer bedeutenden uruguayischen Politikerfigur beherbergt ein historisches Wohnhaus und einen üppigen Garten.",
+                  "category": "museum",
+                  "coords": [
+                        -56.176218,
+                        -34.863737
+                  ]
+            },
+            {
+                  "name": "Capilla Juan Pablo II",
+                  "text": "Diese moderne katholische Kapelle ist Papst Johannes Paul II. gewidmet und bietet einen Ort der Besinnung nahe der Antel Arena.",
+                  "category": "religious",
+                  "coords": [
+                        -56.178007,
+                        -34.863562
+                  ]
+            },
+            {
+                  "name": "Salla Jorge Lazaroff",
+                  "text": "Ein kulturelles Theater und Auditorium, in dem vielfältige musikalische und künstlerische Darbietungen in Malvín Norte stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.132493,
+                        -34.855766
+                  ]
+            },
+            {
+                  "name": "Espacio Campo",
+                  "text": "Ein vielseitiger öffentlicher Park mit Grünflächen und Freizeiteinrichtungen für die lokale Gemeinschaft nahe dem Stadion.",
+                  "category": "park",
+                  "coords": [
+                        -56.153125,
+                        -34.87273
+                  ]
+            },
+            {
+                  "name": "Santuario Nacional del Corazón de Jesús",
+                  "text": "Dieses auf einem Hügel gelegene Heiligtum mit markanter Backsteinarchitektur bietet einen Panoramablick über Montevideo.",
+                  "category": "religious",
+                  "coords": [
+                        -56.170082,
+                        -34.85695
+                  ]
+            },
+            {
+                  "name": "Parroquia San Vicente de Paúl",
+                  "text": "Eine katholische Pfarrei, die dem heiligen Vinzenz von Paul gewidmet ist und für ihre karitativen Aufgaben bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.141859,
+                        -34.86766
+                  ]
+            },
+            {
+                  "name": "Capilla San Vicente Pallotti",
+                  "text": "Diese kleine christliche Kapelle ehrt den heiligen Vinzenz Pallotti und dient als ruhiger Ort für lokales Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165036,
+                        -34.871749
+                  ]
+            },
+            {
+                  "name": "Capilla de la Transfiguración del Señor",
+                  "text": "Eine religiöse Kapelle, die der Verklärung des Herrn gewidmet ist und spirituelle Dienste im Wohnviertel anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.169264,
+                        -34.864165
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein modernes Gemeindehaus der Heiligen der Letzten Tage, in dem sich die Gemeinde zu Gottesdiensten und Kursen trifft.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.173453,
+                        -34.868672
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco",
+                  "text": "Eine christliche Stadtteilkapelle, benannt nach dem heiligen Franziskus, die einen bescheidenen Ort der Besinnung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.186343,
+                        -34.841683
+                  ]
+            },
+            {
+                  "name": "Salesianos – Obra Social Tacurú",
+                  "text": "Dieses salesianische soziale und religiöse Zentrum bietet Bildung und berufliche Unterstützung für Jugendliche der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.187944,
+                        -34.835725
+                  ]
+            },
+            {
+                  "name": "Parroquia de los Sagrados Corazones",
+                  "text": "Eine katholische Pfarrei, die den Heiligsten Herzen gewidmet ist und als spiritueller Anlaufpunkt im Wohngebiet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.159274,
+                        -34.841958
+                  ]
+            },
+            {
+                  "name": "Capilla San Pablo Apóstol",
+                  "text": "Diese dem Apostel Paulus gewidmete Kapelle beherbergt regelmäßige Gebetstreffen und Gottesdienste für die Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165438,
+                        -34.843042
+                  ]
+            },
+            {
+                  "name": "Temple Saron",
+                  "text": "Ein lokaler Ort christlicher Verehrung, an dem sich die Gemeinde zu biblischer Lehre und spirituellem Beistand trifft.",
+                  "category": "religious",
+                  "coords": [
+                        -56.133996,
+                        -34.860145
+                  ]
+            },
+            {
+                  "name": "Capilla Domingo Savio",
+                  "text": "Benannt nach dem jungen Heiligen Dominikus Savio, konzentriert sich diese Kapelle auf das spirituelle Wohl von Kindern und Familien.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.140375,
+                        -34.853705
+                  ]
+            },
+            {
+                  "name": "Centro Evangelistico",
+                  "text": "Dieses evangelikale Zentrum dient als lebendiger Ort für Gottesdienste, Gemeindearbeit und biblische Bildung.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.145614,
+                        -34.865444
+                  ]
+            },
+            {
+                  "name": "Primer Tabernáculo Cristiano",
+                  "text": "Ein christliches Gotteshaus, das dem Gebet und der traditionellen biblischen Predigt gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.180715,
+                        -34.853007
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "Eine katholische Pfarrei, die Unserer Lieben Frau von Guadalupe gewidmet ist und als Zentrum für Marienverehrung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.174278,
+                        -34.833193
+                  ]
+            },
+            {
+                  "name": "Parroquia Virgen de los Treinta y Tres",
+                  "text": "Diese Pfarrei ehrt die Jungfrau der Dreiunddreißig, die Patronin Uruguays, und fördert die religiöse Identität.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171779,
+                        -34.845641
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Magdalena Sofía Barat",
+                  "text": "Eine katholische Stadtteilkirche, die der Gründerin der Gesellschaft vom Heiligen Herzen Jesu gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.184262,
+                        -34.851679
+                  ]
+            },
+            {
+                  "name": "Cristo vive",
+                  "text": "Diese christliche Gemeinde konzentriert sich auf lebendige, zeitgenössische Gottesdienste und spirituelles Wachstum.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.158861,
+                        -34.871306
+                  ]
+            },
+            {
+                  "name": "Parroquía San José Obrero",
+                  "text": "Diese dem heiligen Josef dem Arbeiter gewidmete Pfarrei dient der örtlichen Arbeitergemeinde mit regelmäßigen Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.149484,
+                        -34.870257
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Fundación",
+                  "text": "Katholische Pfarrkirche mit einer schlichten modernen Fassade im Viertel Villa Española.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161561,
+                        -34.862414
+                  ]
+            },
+            {
+                  "name": "Universal - Jesucristo es el Senor",
+                  "text": "Große Pfingstler-Versammlungshalle, die oft in markanten ehemaligen Kinogebäuden untergebracht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161556,
+                        -34.854446
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Anunciación",
+                  "text": "Katholische Kirche der Verkündigung in einer ruhigen Wohngegend nahe der Antel Arena.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.156267,
+                        -34.855978
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gema Galgani",
+                  "text": "Diese der italienischen Mystikerin gewidmete Kirche ist für ihre enge Bindung zur lokalen Gemeinde bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.132152,
+                        -34.851939
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Sagrado Corazón y Santa Rita",
+                  "text": "Traditionelle katholische Nachbarschaftskirche mit einem schlichten Altarraum und religiösen Statuen.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.145252,
+                        -34.846602
+                  ]
+            },
+            {
+                  "name": "Parroquia San José Esposo de María",
+                  "text": "Kleine katholische Pfarrkirche mit einem markanten, bescheidenen Glockenturm.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.194341,
+                        -34.837599
+                  ]
+            },
+            {
+                  "name": "Maran Ata",
+                  "text": "Schlichtes evangelisches Gebetshaus mit funktionalem Design in einem Wohnviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.189835,
+                        -34.839345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Quinta de Luis Alberto de Herrera",
+                  "text": "Egy meghatározó uruguayi politikai alak egykori birtoka történelmi rezidenciával és dús botanikus kerttel várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        -56.176218,
+                        -34.863737
+                  ]
+            },
+            {
+                  "name": "Capilla Juan Pablo II",
+                  "text": "Ez a modern katolikus kápolna II. János Pál pápának van szentelve, és az Antel Arena közelében nyújt helyet az elmélkedésre.",
+                  "category": "religious",
+                  "coords": [
+                        -56.178007,
+                        -34.863562
+                  ]
+            },
+            {
+                  "name": "Salla Jorge Lazaroff",
+                  "text": "Kulturális színház és előadóterem, amely változatos zenei és művészeti előadásoknak ad otthont Malvín Norte negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.132493,
+                        -34.855766
+                  ]
+            },
+            {
+                  "name": "Espacio Campo",
+                  "text": "Sokoldalú nyilvános park, amely zöldterületet és szabadidős lehetőségeket biztosít a helyi közösség számára a stadion közelében.",
+                  "category": "park",
+                  "coords": [
+                        -56.153125,
+                        -34.87273
+                  ]
+            },
+            {
+                  "name": "Santuario Nacional del Corazón de Jesús",
+                  "text": "Ez a dombtetőn álló, jellegzetes téglaarchitektúrájú szentély panorámás kilátást nyújt Montevideóra.",
+                  "category": "religious",
+                  "coords": [
+                        -56.170082,
+                        -34.85695
+                  ]
+            },
+            {
+                  "name": "Parroquia San Vicente de Paúl",
+                  "text": "Páli Szent Vincének szentelt katolikus plébánia, amely karitatív tevékenységéről és közösségi fókuszáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.141859,
+                        -34.86766
+                  ]
+            },
+            {
+                  "name": "Capilla San Vicente Pallotti",
+                  "text": "Ez a kis keresztény kápolna Pallotti Szent Vincének állít emléket, csendes helyszínt biztosítva a helyi áhítathoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165036,
+                        -34.871749
+                  ]
+            },
+            {
+                  "name": "Capilla de la Transfiguración del Señor",
+                  "text": "Az Úr színeváltozásának szentelt kápolna, amely hitéleti szolgáltatásokat nyújt a lakónegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.169264,
+                        -34.864165
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Modern mormon gyülekezeti ház, ahol a helyi közösség istentiszteletekre, órákra és közösségi eseményekre gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.173453,
+                        -34.868672
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco",
+                  "text": "Szent Ferencről elnevezett keresztény kápolna, amely szerény helyszínt biztosít a vallási elmélyüléshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.186343,
+                        -34.841683
+                  ]
+            },
+            {
+                  "name": "Salesianos – Obra Social Tacurú",
+                  "text": "Ez a szalézi szociális és vallási központ oktatást és szakmai támogatást nyújt a közösség fiataljainak.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.187944,
+                        -34.835725
+                  ]
+            },
+            {
+                  "name": "Parroquia de los Sagrados Corazones",
+                  "text": "A Szent Szíveknek szentelt katolikus plébánia, amely a helyi lakóövezet spirituális tájékozódási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.159274,
+                        -34.841958
+                  ]
+            },
+            {
+                  "name": "Capilla San Pablo Apóstol",
+                  "text": "Ez a Pál apostolnak szentelt kápolna rendszeres imaóráknak és istentiszteleteknek ad otthont a hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165438,
+                        -34.843042
+                  ]
+            },
+            {
+                  "name": "Temple Saron",
+                  "text": "Keresztény istentiszteleti hely, ahol a közösség bibliai tanításokért és lelki támogatásért gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        -56.133996,
+                        -34.860145
+                  ]
+            },
+            {
+                  "name": "Capilla Domingo Savio",
+                  "text": "A fiatal Szent Domonkos Savio-ról elnevezett kápolna a helyi gyermekek és családok hitéletére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.140375,
+                        -34.853705
+                  ]
+            },
+            {
+                  "name": "Centro Evangelistico",
+                  "text": "Ez az evangéliumi központ az istentiszteletek, a közösségi munka és a bibliai oktatás élénk csomópontja Montevideóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.145614,
+                        -34.865444
+                  ]
+            },
+            {
+                  "name": "Primer Tabernáculo Cristiano",
+                  "text": "Keresztény imaház, amely az imádságnak és a hagyományos bibliai prédikációnak van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.180715,
+                        -34.853007
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "A Guadalupe-i Szűzanyának szentelt katolikus plébánia, amely a környék Mária-tiszteletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.174278,
+                        -34.833193
+                  ]
+            },
+            {
+                  "name": "Parroquia Virgen de los Treinta y Tres",
+                  "text": "Ez a plébánia a Harminchárom Szűzét, Uruguay védőszentjét tiszteli, erősítve a helyi vallási identitást.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171779,
+                        -34.845641
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Magdalena Sofía Barat",
+                  "text": "Magdolna Zsófia Baratnak, a Szent Szív Társaság alapítójának szentelt katolikus templom a lakónegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.184262,
+                        -34.851679
+                  ]
+            },
+            {
+                  "name": "Cristo vive",
+                  "text": "Ez a keresztény gyülekezet az élénk kortárs istentiszteletekre és a személyes lelki fejlődésre összpontosít a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.158861,
+                        -34.871306
+                  ]
+            },
+            {
+                  "name": "Parroquía San José Obrero",
+                  "text": "Munkás Szent Józsefnek szentelt plébánia, amely rendszeres misékkel és támogatással szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.149484,
+                        -34.870257
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Fundación",
+                  "text": "Katolikus plébániatemplom egyszerű, modern homlokzattal Villa Española negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161561,
+                        -34.862414
+                  ]
+            },
+            {
+                  "name": "Universal - Jesucristo es el Senor",
+                  "text": "Hatalmas pünkösdi gyülekezeti terem, amely gyakran jellegzetes egykori moziépületekben kap helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161556,
+                        -34.854446
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Anunciación",
+                  "text": "Az Angyali üdvözlet katolikus temploma egy csendes lakóövezetben, az Antel Arena közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.156267,
+                        -34.855978
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gema Galgani",
+                  "text": "Az olasz misztikusnak szentelt templom a helyi közösséggel való szoros kapcsolatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.132152,
+                        -34.851939
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Sagrado Corazón y Santa Rita",
+                  "text": "Hagyományos katolikus szomszédsági templom egyszerű oltártérrel és vallási szobrokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.145252,
+                        -34.846602
+                  ]
+            },
+            {
+                  "name": "Parroquia San José Esposo de María",
+                  "text": "Kisméretű katolikus plébániatemplom jellegzetes, szerény harangtoronnyal.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.194341,
+                        -34.837599
+                  ]
+            },
+            {
+                  "name": "Maran Ata",
+                  "text": "Egyszerű evangélikus imaház funkcionális kialakítással egy lakónegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.189835,
+                        -34.839345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Quinta de Luis Alberto de Herrera",
+                  "text": "Fosta proprietate a unei figuri politice cheie din Uruguay cuprinde o reședință istorică și o grădină botanică luxuriantă.",
+                  "category": "museum",
+                  "coords": [
+                        -56.176218,
+                        -34.863737
+                  ]
+            },
+            {
+                  "name": "Capilla Juan Pablo II",
+                  "text": "Această capelă catolică modernă este dedicată Papei Ioan Paul al II-lea, oferind un loc de reculegere lângă Antel Arena.",
+                  "category": "religious",
+                  "coords": [
+                        -56.178007,
+                        -34.863562
+                  ]
+            },
+            {
+                  "name": "Salla Jorge Lazaroff",
+                  "text": "Un teatru și auditoriu cultural care găzduiește diverse spectacole muzicale și artistice în zona Malvín Norte.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.132493,
+                        -34.855766
+                  ]
+            },
+            {
+                  "name": "Espacio Campo",
+                  "text": "Un parc public versatil care oferă spații verzi și facilități de recreere pentru comunitatea locală de lângă stadion.",
+                  "category": "park",
+                  "coords": [
+                        -56.153125,
+                        -34.87273
+                  ]
+            },
+            {
+                  "name": "Santuario Nacional del Corazón de Jesús",
+                  "text": "Cocoțat pe un deal, cu o arhitectură de cărămidă frapantă, acest sanctuar emblematic oferă vederi panoramice asupra orașului Montevideo.",
+                  "category": "religious",
+                  "coords": [
+                        -56.170082,
+                        -34.85695
+                  ]
+            },
+            {
+                  "name": "Parroquia San Vicente de Paúl",
+                  "text": "O parohie catolică de cartier dedicată Sfântului Vincențiu de Paul, cunoscută pentru misiunea sa caritabilă și focarul comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.141859,
+                        -34.86766
+                  ]
+            },
+            {
+                  "name": "Capilla San Vicente Pallotti",
+                  "text": "Această mică capelă creștină îl onorează pe Sfântul Vincențiu Pallotti, servind ca loc liniștit pentru rugăciune locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165036,
+                        -34.871749
+                  ]
+            },
+            {
+                  "name": "Capilla de la Transfiguración del Señor",
+                  "text": "O capelă religioasă dedicată Schimbării la Față a Domnului, oferind servicii spirituale în districtul rezidențial.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.169264,
+                        -34.864165
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri modernă a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă, unde congregația se adună pentru cult.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.173453,
+                        -34.868672
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco",
+                  "text": "O capelă creștină de cartier numită după Sfântul Francisc, oferind un spațiu modest pentru reflecție religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.186343,
+                        -34.841683
+                  ]
+            },
+            {
+                  "name": "Salesianos – Obra Social Tacurú",
+                  "text": "Acest centru social și religios salezian oferă educație și sprijin vocațional pentru tinerii din comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.187944,
+                        -34.835725
+                  ]
+            },
+            {
+                  "name": "Parroquia de los Sagrados Corazones",
+                  "text": "O parohie catolică dedicată Inimilor Sacre, servind ca reper spiritual în zona rezidențială locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.159274,
+                        -34.841958
+                  ]
+            },
+            {
+                  "name": "Capilla San Pablo Apóstol",
+                  "text": "Dedicată Sfântului Apostol Pavel, această capela găzduiește întâlniri regulate de rugăciune și slujbe religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165438,
+                        -34.843042
+                  ]
+            },
+            {
+                  "name": "Temple Saron",
+                  "text": "Un loc local de cult creștin unde comunitatea se adună pentru învățătură biblică și sprijin spiritual.",
+                  "category": "religious",
+                  "coords": [
+                        -56.133996,
+                        -34.860145
+                  ]
+            },
+            {
+                  "name": "Capilla Domingo Savio",
+                  "text": "Numită după tânărul sfânt Dominic Savio, această capelă se concentrează pe creșterea spirituală a copiilor și familiilor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.140375,
+                        -34.853705
+                  ]
+            },
+            {
+                  "name": "Centro Evangelistico",
+                  "text": "Acest centru evanghelic servește ca un hub vibrant pentru cult, activități comunitare și educație biblică în Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.145614,
+                        -34.865444
+                  ]
+            },
+            {
+                  "name": "Primer Tabernáculo Cristiano",
+                  "text": "O casă de cult creștină dedicată rugăciunii și predicării biblice tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.180715,
+                        -34.853007
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "O parohie catolică dedicată Fecioarei de la Guadalupe, servind ca centru pentru devoțiunea mariană din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.174278,
+                        -34.833193
+                  ]
+            },
+            {
+                  "name": "Parroquia Virgen de los Treinta y Tres",
+                  "text": "Această parohie o onorează pe Fecioara celor Treizeci și Trei, patroana Uruguayului, promovând identitatea religioasă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171779,
+                        -34.845641
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Magdalena Sofía Barat",
+                  "text": "O biserică catolică de cartier dedicată fondatoarei Societății Inimii Sacre, oferind îndrumare spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.184262,
+                        -34.851679
+                  ]
+            },
+            {
+                  "name": "Cristo vive",
+                  "text": "Această congregație creștină se concentrează pe slujbe contemporane pline de viață și pe creșterea spirituală personală.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.158861,
+                        -34.871306
+                  ]
+            },
+            {
+                  "name": "Parroquía San José Obrero",
+                  "text": "Dedicată Sfântului Iosif Muncitorul, această parohie deservește comunitatea locală cu mise regulate și sprijin.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.149484,
+                        -34.870257
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Fundación",
+                  "text": "Biserică parohială catolică cu o fațadă modernă simplă în cartierul Villa Española.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161561,
+                        -34.862414
+                  ]
+            },
+            {
+                  "name": "Universal - Jesucristo es el Senor",
+                  "text": "Mare sală de adunare penticostală, situată adesea în clădiri proeminente ale fostelor cinematografe.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161556,
+                        -34.854446
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Anunciación",
+                  "text": "Biserica catolică a Bunei Vestiri, situată într-o zonă rezidențială liniștită lângă Antel Arena.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.156267,
+                        -34.855978
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gema Galgani",
+                  "text": "Această biserică dedicată misticei italiene este cunoscută pentru legătura sa strânsă cu comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.132152,
+                        -34.851939
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Sagrado Corazón y Santa Rita",
+                  "text": "Biserică parohială catolică tradițională, cu un altar simplu și statui religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.145252,
+                        -34.846602
+                  ]
+            },
+            {
+                  "name": "Parroquia San José Esposo de María",
+                  "text": "Mică biserică parohială catolică, dotată cu un turn clopotniță modest.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.194341,
+                        -34.837599
+                  ]
+            },
+            {
+                  "name": "Maran Ata",
+                  "text": "Casă de rugăciune evanghelică simplă, cu un design funcțional, într-un cartier rezidențial.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.189835,
+                        -34.839345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Quinta de Luis Alberto de Herrera",
+                  "text": "The former estate of a key Uruguayan political figure features a historic residence and a lush botanical garden.",
+                  "category": "museum",
+                  "coords": [
+                        -56.176218,
+                        -34.863737
+                  ]
+            },
+            {
+                  "name": "Capilla Juan Pablo II",
+                  "text": "This modern Catholic chapel is dedicated to Pope John Paul II, offering a place for reflection near the Antel Arena.",
+                  "category": "religious",
+                  "coords": [
+                        -56.178007,
+                        -34.863562
+                  ]
+            },
+            {
+                  "name": "Salla Jorge Lazaroff",
+                  "text": "A cultural theatre and auditorium that hosts diverse musical and artistic performances in the Malvín Norte area.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.132493,
+                        -34.855766
+                  ]
+            },
+            {
+                  "name": "Espacio Campo",
+                  "text": "A versatile public park providing green space and recreational facilities for the local community near the stadium.",
+                  "category": "park",
+                  "coords": [
+                        -56.153125,
+                        -34.87273
+                  ]
+            },
+            {
+                  "name": "Santuario Nacional del Corazón de Jesús",
+                  "text": "Perched on a hill with striking brick architecture, this landmark sanctuary offers panoramic views over Montevideo.",
+                  "category": "religious",
+                  "coords": [
+                        -56.170082,
+                        -34.85695
+                  ]
+            },
+            {
+                  "name": "Parroquia San Vicente de Paúl",
+                  "text": "A neighborhood Catholic parish dedicated to Saint Vincent de Paul, known for its charitable mission and community focus.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.141859,
+                        -34.86766
+                  ]
+            },
+            {
+                  "name": "Capilla San Vicente Pallotti",
+                  "text": "This small Christian chapel honors Saint Vincent Pallotti, serving as a quiet site for local prayer and devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165036,
+                        -34.871749
+                  ]
+            },
+            {
+                  "name": "Capilla de la Transfiguración del Señor",
+                  "text": "A religious chapel dedicated to the Transfiguration of Jesus, providing spiritual services in the residential district.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.169264,
+                        -34.864165
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A modern LDS meetinghouse where the local congregation gathers for worship, classes, and community events.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.173453,
+                        -34.868672
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco",
+                  "text": "A neighborhood Christian chapel named after Saint Francis, offering a modest space for religious reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.186343,
+                        -34.841683
+                  ]
+            },
+            {
+                  "name": "Salesianos – Obra Social Tacurú",
+                  "text": "This Salesian social and religious center provides education and vocational support for youth in the community.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.187944,
+                        -34.835725
+                  ]
+            },
+            {
+                  "name": "Parroquia de los Sagrados Corazones",
+                  "text": "A Catholic parish dedicated to the Sacred Hearts, serving as a spiritual landmark in the local residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.159274,
+                        -34.841958
+                  ]
+            },
+            {
+                  "name": "Capilla San Pablo Apóstol",
+                  "text": "Dedicated to Saint Paul the Apostle, this chapel hosts regular prayer meetings and religious services for the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.165438,
+                        -34.843042
+                  ]
+            },
+            {
+                  "name": "Temple Saron",
+                  "text": "A local place of Christian worship where the community gathers for biblical teaching and spiritual support.",
+                  "category": "religious",
+                  "coords": [
+                        -56.133996,
+                        -34.860145
+                  ]
+            },
+            {
+                  "name": "Capilla Domingo Savio",
+                  "text": "Named after the young saint Dominic Savio, this chapel focuses on the spiritual growth of local children and families.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.140375,
+                        -34.853705
+                  ]
+            },
+            {
+                  "name": "Centro Evangelistico",
+                  "text": "This evangelical center serves as a vibrant hub for worship, community outreach, and biblical education in Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.145614,
+                        -34.865444
+                  ]
+            },
+            {
+                  "name": "Primer Tabernáculo Cristiano",
+                  "text": "A fundamentalist Christian house of worship dedicated to prayer and traditional biblical preaching.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.180715,
+                        -34.853007
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Guadalupe",
+                  "text": "A Catholic parish dedicated to Our Lady of Guadalupe, serving as a center for Marian devotion in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.174278,
+                        -34.833193
+                  ]
+            },
+            {
+                  "name": "Parroquia Virgen de los Treinta y Tres",
+                  "text": "This parish honors the Virgin of the Thirty-Three, the patroness of Uruguay, fostering national and local religious identity.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.171779,
+                        -34.845641
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Magdalena Sofía Barat",
+                  "text": "A neighborhood Catholic church dedicated to the founder of the Society of the Sacred Heart, offering spiritual guidance.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.184262,
+                        -34.851679
+                  ]
+            },
+            {
+                  "name": "Cristo vive",
+                  "text": "This Christian congregation focuses on lively contemporary worship and personal spiritual growth within the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.158861,
+                        -34.871306
+                  ]
+            },
+            {
+                  "name": "Parroquía San José Obrero",
+                  "text": "Dedicated to Saint Joseph the Worker, this parish serves the local laboring community with regular masses and support.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.149484,
+                        -34.870257
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Fundación",
+                  "text": "Catholic parish church featuring a simple modern facade in the Villa Española neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161561,
+                        -34.862414
+                  ]
+            },
+            {
+                  "name": "Universal - Jesucristo es el Senor",
+                  "text": "Large Pentecostal assembly hall, often housed in prominent former cinema buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.161556,
+                        -34.854446
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Anunciación",
+                  "text": "Catholic Church of the Annunciation located in a quiet residential area near the Antel Arena.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.156267,
+                        -34.855978
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gema Galgani",
+                  "text": "This church dedicated to the Italian mystic is known for its strong ties to the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.132152,
+                        -34.851939
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Sagrado Corazón y Santa Rita",
+                  "text": "Traditional Catholic neighborhood church with a simple altar area and religious statues.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.145252,
+                        -34.846602
+                  ]
+            },
+            {
+                  "name": "Parroquia San José Esposo de María",
+                  "text": "Small Catholic parish church featuring a distinctive, modest bell tower.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.194341,
+                        -34.837599
+                  ]
+            },
+            {
+                  "name": "Maran Ata",
+                  "text": "Simple Protestant prayer house with a functional design in a residential neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.189835,
+                        -34.839345
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1517, -34.855],
@@ -831,7 +7806,88 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Antel Arena offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Antel Arena."],
     }, image: "/poi-images/uy-mo-antel-arena-landmarks-v2.webp"},
   {
-    id: "uy-ma-faro-jose-ignacio-landmarks-v2",
+    id: "uy-ma-faro-jose-ignacio-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de José Ignacio",
+                  "text": "Dieser historische Leuchtturm aus dem Jahr 1877 ist das Wahrzeichen des exklusiven Badeortes.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.632821,
+                        -34.846267
+                  ]
+            },
+            {
+                  "name": "El Mercadito",
+                  "text": "Ein charmanter Marktplatz in José Ignacio, bekannt für lokales Kunsthandwerk und frische Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.636406,
+                        -34.845565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de José Ignacio",
+                  "text": "Ez az 1877-ben épült történelmi világítótorony az exkluzív üdülőhely jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.632821,
+                        -34.846267
+                  ]
+            },
+            {
+                  "name": "El Mercadito",
+                  "text": "Bájos piactér José Ignacióban, amely helyi kézműves termékeiről és friss áruiról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.636406,
+                        -34.845565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de José Ignacio",
+                  "text": "Acest far istoric din 1877 este simbolul stațiunii exclusiviste de la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.632821,
+                        -34.846267
+                  ]
+            },
+            {
+                  "name": "El Mercadito",
+                  "text": "O piață fermecătoare în José Ignacio, cunoscută pentru meșteșugurile locale și produsele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.636406,
+                        -34.845565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de José Ignacio",
+                  "text": "This historic lighthouse from 1877 is the landmark of the exclusive seaside resort.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.632821,
+                        -34.846267
+                  ]
+            },
+            {
+                  "name": "El Mercadito",
+                  "text": "A charming marketplace in José Ignacio, known for local crafts and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.636406,
+                        -34.845565
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MA",
     coords: [-54.6347, -34.8425],
@@ -867,7 +7923,160 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Faro de José Ignacio offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités de loisirs actifs dans les environs du Faro de José Ignacio."],
     }, image: "/poi-images/uy-ma-faro-jose-ignacio-landmarks-v2.webp"},
   {
-    id: "uy-ro-fuerte-san-miguel-landmarks-v2",
+    id: "uy-ro-fuerte-san-miguel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Picudo",
+                  "text": "Ein steiler Hügel nahe der Grenze zu Brasilien, der einen Panoramablick auf die Feuchtgebiete bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.578054,
+                        -33.712331
+                  ]
+            },
+            {
+                  "name": "Cerro de la Carbonera",
+                  "text": "Eine Erhebung in der Hügelkette von Rocha, umgeben von einheimischer Vegetation und Weideland.",
+                  "category": "natural",
+                  "coords": [
+                        -53.593025,
+                        -33.71845
+                  ]
+            },
+            {
+                  "name": "Guardia Perdida",
+                  "text": "Überreste eines historischen spanischen Außenpostens, der einst die Grenzregion bewachte.",
+                  "category": "historical",
+                  "coords": [
+                        -53.541405,
+                        -33.689488
+                  ]
+            },
+            {
+                  "name": "Fuerte de San Miguel",
+                  "text": "Ein im Jahr 1734 erbautes spanisches Fort mit Zugbrücke und einem Museum für Militärgeschichte.",
+                  "category": "castle",
+                  "coords": [
+                        -53.538874,
+                        -33.689402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Picudo",
+                  "text": "Meredek domb a brazil határ közelében, ahonnan panorámás kilátás nyílik a vizes élőhelyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.578054,
+                        -33.712331
+                  ]
+            },
+            {
+                  "name": "Cerro de la Carbonera",
+                  "text": "Kiemelkedés a rochai dombságban, amelyet őshonos vegetáció és legelők vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        -53.593025,
+                        -33.71845
+                  ]
+            },
+            {
+                  "name": "Guardia Perdida",
+                  "text": "Egy történelmi spanyol őrhely maradványai, amely egykor a határvidéket őrizte.",
+                  "category": "historical",
+                  "coords": [
+                        -53.541405,
+                        -33.689488
+                  ]
+            },
+            {
+                  "name": "Fuerte de San Miguel",
+                  "text": "Egy 1734-ben épült spanyol erőd felvonóhíddal és hadtörténeti múzeummal.",
+                  "category": "castle",
+                  "coords": [
+                        -53.538874,
+                        -33.689402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Picudo",
+                  "text": "Un deal abrupt lângă granița cu Brazilia, care oferă o vedere panoramică asupra zonelor umede.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.578054,
+                        -33.712331
+                  ]
+            },
+            {
+                  "name": "Cerro de la Carbonera",
+                  "text": "O culme în lanțul muntos Rocha, înconjurată de vegetație nativă și pășuni.",
+                  "category": "natural",
+                  "coords": [
+                        -53.593025,
+                        -33.71845
+                  ]
+            },
+            {
+                  "name": "Guardia Perdida",
+                  "text": "Rămășițele unui avanpost spaniol istoric care păzea odinioară regiunea de graniță.",
+                  "category": "historical",
+                  "coords": [
+                        -53.541405,
+                        -33.689488
+                  ]
+            },
+            {
+                  "name": "Fuerte de San Miguel",
+                  "text": "Un fort spaniol construit în 1734, dotat cu pod mobil și un muzeu de istorie militară.",
+                  "category": "castle",
+                  "coords": [
+                        -53.538874,
+                        -33.689402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Picudo",
+                  "text": "A steep hill near the Brazilian border offering panoramic views of the wetlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.578054,
+                        -33.712331
+                  ]
+            },
+            {
+                  "name": "Cerro de la Carbonera",
+                  "text": "An elevation in the Rocha hill range, surrounded by native vegetation and pastures.",
+                  "category": "natural",
+                  "coords": [
+                        -53.593025,
+                        -33.71845
+                  ]
+            },
+            {
+                  "name": "Guardia Perdida",
+                  "text": "Remains of a historic Spanish outpost that once guarded the border region.",
+                  "category": "historical",
+                  "coords": [
+                        -53.541405,
+                        -33.689488
+                  ]
+            },
+            {
+                  "name": "Fuerte San Miguel",
+                  "text": "A Spanish fort built in 1734 featuring a drawbridge and a military history museum.",
+                  "category": "castle",
+                  "coords": [
+                        -53.538874,
+                        -33.689402
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-RO",
     coords: [-53.5414, -33.6933],
@@ -903,7 +8112,340 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Fuerte de San Miguel offre un aperçu approfondi de la culture et des traditions régionales.", "Le site se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs du Fuerte de San Miguel diverses possibilités de loisirs actifs."],
     }, image: "/poi-images/uy-ro-fuerte-san-miguel-landmarks-v2.webp"},
   {
-    id: "uy-ro-fortaleza-santa-teresa-landmarks-v2",
+    id: "uy-ro-fortaleza-santa-teresa-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de Ballenas",
+                  "text": "Dieser erhöhte Punkt am Atlantik bietet beste Chancen, die vorbeiziehenden Wale zu entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        -53.530333,
+                        -33.976648
+                  ]
+            },
+            {
+                  "name": "El Chorro",
+                  "text": "Ein künstlicher Wasserfall inmitten üppiger Gärten, der in ein Steinbecken stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.53841,
+                        -33.977727
+                  ]
+            },
+            {
+                  "name": "Pajarera",
+                  "text": "Ein begehbares Freigehege, das zahlreiche einheimische und exotische Vogelarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.549318,
+                        -33.987384
+                  ]
+            },
+            {
+                  "name": "Santa Teresa: Su Historia",
+                  "text": "Ein Museum innerhalb der Festung, das die militärische Vergangenheit und den Grenzkonflikt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -53.554447,
+                        -34.002157
+                  ]
+            },
+            {
+                  "name": "Mirador Mangrullo",
+                  "text": "Dieser rustikale hölzerne Wachturm bietet einen malerischen Blick auf den umliegenden Nationalpark Santa Teresa.",
+                  "category": "natural",
+                  "coords": [
+                        -53.558375,
+                        -34.015024
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "Dieser weitläufige Sandstrand ist ein beliebtes Ziel für Naturfreunde im üppigen Nationalpark Santa Teresa.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.53878,
+                        -34.014739
+                  ]
+            },
+            {
+                  "name": "Playa Las Achiras",
+                  "text": "Ein ruhiger Sandstrand, der nur eine kurze Strecke von der historischen Festung Santa Teresa entfernt liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.532544,
+                        -33.981137
+                  ]
+            },
+            {
+                  "name": "Playa de la Moza",
+                  "text": "Dieser für seine beständigen Atlantikwellen bekannte Strand ist ein beliebter Ort für lokale Surfer.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.530851,
+                        -33.973727
+                  ]
+            },
+            {
+                  "name": "Playa Del Barco",
+                  "text": "Dieser Strand ist nach einem historischen Schiffswrack benannt, dessen Überreste bei Ebbe manchmal sichtbar sind.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.53368,
+                        -33.991818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de Ballenas",
+                  "text": "Ez az atlanti-parti magaslati pont kiváló esélyt kínál a vonuló bálnák megpillantására.",
+                  "category": "natural",
+                  "coords": [
+                        -53.530333,
+                        -33.976648
+                  ]
+            },
+            {
+                  "name": "El Chorro",
+                  "text": "Mesterséges vízesés buja kertek közepén, amely egy kőmedencébe zúdul.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.53841,
+                        -33.977727
+                  ]
+            },
+            {
+                  "name": "Pajarera",
+                  "text": "Bejárható röpde, amely számos őshonos és egzotikus madárfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.549318,
+                        -33.987384
+                  ]
+            },
+            {
+                  "name": "Santa Teresa: Su Historia",
+                  "text": "Az erődben található múzeum, amely a katonai múltat és a határkonfliktust dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -53.554447,
+                        -34.002157
+                  ]
+            },
+            {
+                  "name": "Mirador Mangrullo",
+                  "text": "Ez a rusztikus fából készült őrtorony szép kilátást nyújt a környező Santa Teresa Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        -53.558375,
+                        -34.015024
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "Ez a tágas homokos strand a természetkedvelők népszerű úti célja a buja Santa Teresa Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.53878,
+                        -34.014739
+                  ]
+            },
+            {
+                  "name": "Playa Las Achiras",
+                  "text": "Nyugodt homokos strand, amely csak rövid távolságra található a történelmi Santa Teresa erődtől.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.532544,
+                        -33.981137
+                  ]
+            },
+            {
+                  "name": "Playa de la Moza",
+                  "text": "Az egyenletes atlanti hullámairól híres strand a helyi szörfösök kedvenc helye.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.530851,
+                        -33.973727
+                  ]
+            },
+            {
+                  "name": "Playa Del Barco",
+                  "text": "Ez a strand egy történelmi hajóroncsról kapta a nevét, amelynek maradványai apálykor néha láthatóak.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.53368,
+                        -33.991818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de Ballenas",
+                  "text": "Acest punct ridicat de la Atlantic oferă cele mai bune șanse de a observa balenele în trecere.",
+                  "category": "natural",
+                  "coords": [
+                        -53.530333,
+                        -33.976648
+                  ]
+            },
+            {
+                  "name": "El Chorro",
+                  "text": "O cascadă artificială în mijlocul unor grădini luxuriante, care se varsă într-un bazin de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.53841,
+                        -33.977727
+                  ]
+            },
+            {
+                  "name": "Pajarera",
+                  "text": "O volieră spațioasă care adăpostește numeroase specii de păsări native și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.549318,
+                        -33.987384
+                  ]
+            },
+            {
+                  "name": "Santa Teresa: Su Historia",
+                  "text": "Un muzeu în interiorul cetății, care documentează trecutul militar și conflictul de frontieră.",
+                  "category": "museum",
+                  "coords": [
+                        -53.554447,
+                        -34.002157
+                  ]
+            },
+            {
+                  "name": "Mirador Mangrullo",
+                  "text": "Acest turn de veghe rustic din lemn oferă o vedere panoramică asupra Parcului Național Santa Teresa înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -53.558375,
+                        -34.015024
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "Această plajă întinsă cu nisip este o destinație populară pentru iubitorii de natură în Parcul Național Santa Teresa.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.53878,
+                        -34.014739
+                  ]
+            },
+            {
+                  "name": "Playa Las Achiras",
+                  "text": "O plajă liniștită cu nisip situată la mică distanță de cetatea istorică Santa Teresa.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.532544,
+                        -33.981137
+                  ]
+            },
+            {
+                  "name": "Playa de la Moza",
+                  "text": "Faimoasă pentru valurile constante ale Atlanticului, această plajă este un loc preferat pentru surferii locali.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.530851,
+                        -33.973727
+                  ]
+            },
+            {
+                  "name": "Playa Del Barco",
+                  "text": "Această plajă poartă numele unui naufragiu istoric ale cărui rămășițe sunt uneori vizibile la reflux.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.53368,
+                        -33.991818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de Ballenas",
+                  "text": "This elevated point by the Atlantic offers the best chances to spot passing whales.",
+                  "category": "natural",
+                  "coords": [
+                        -53.530333,
+                        -33.976648
+                  ]
+            },
+            {
+                  "name": "El Chorro",
+                  "text": "An artificial waterfall amidst lush gardens that plunges into a stone basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -53.53841,
+                        -33.977727
+                  ]
+            },
+            {
+                  "name": "Pajarera",
+                  "text": "A walk-in aviary that houses numerous native and exotic bird species.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.549318,
+                        -33.987384
+                  ]
+            },
+            {
+                  "name": "Santa Teresa: Su Historia",
+                  "text": "A museum inside the fortress documenting the military past and the border conflict.",
+                  "category": "museum",
+                  "coords": [
+                        -53.554447,
+                        -34.002157
+                  ]
+            },
+            {
+                  "name": "Mirador Mangrullo",
+                  "text": "This rustic wooden watchtower provides a scenic view of the surrounding Santa Teresa National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -53.558375,
+                        -34.015024
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "This expansive sandy beach is a popular destination for nature lovers within the lush Santa Teresa National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.53878,
+                        -34.014739
+                  ]
+            },
+            {
+                  "name": "Playa Las Achiras",
+                  "text": "A serene sandy beach located just a short distance from the historic Santa Teresa fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.532544,
+                        -33.981137
+                  ]
+            },
+            {
+                  "name": "Playa de la Moza",
+                  "text": "Famous for its consistent Atlantic waves, this beach is a favorite spot for local surfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.530851,
+                        -33.973727
+                  ]
+            },
+            {
+                  "name": "Playa Del Barco",
+                  "text": "This beach is named after a historic shipwreck whose remains are sometimes visible at low tide.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.53368,
+                        -33.991818
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-RO",
     coords: [-53.5469, -33.9739],
@@ -939,7 +8481,196 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["La Fortaleza de Santa Teresa offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs de la Fortaleza de Santa Teresa de nombreuses opportunités d'activités de loisirs."],
     }, image: "/poi-images/uy-ro-fortaleza-santa-teresa-landmarks-v2.webp"},
   {
-    id: "uy-mo-palacio-taranco-landmarks-v2",
+    id: "uy-mo-palacio-taranco-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Antiguo Respirador De Colector",
+                  "text": "Ein im Freien ausgestelltes historisches Industriegerät, das bei den Hafenarbeiten des frühen 20. Jahrhunderts verwendet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.210554,
+                        -34.912177
+                  ]
+            },
+            {
+                  "name": "Casa de Giuseppe Garibaldi",
+                  "text": "Das ehemalige Wohnhaus des italienischen Revolutionärs Giuseppe Garibaldi während seines Exils in Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.209234,
+                        -34.907119
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Decorativas \"Palacio Taranco\"",
+                  "text": "Dieses in einem prunkvollen französischen Palais untergebrachte Museum zeigt europäische Möbel, Porzellan und Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        -56.208186,
+                        -34.906816
+                  ]
+            },
+            {
+                  "name": "Recreo Ciudad Vieja",
+                  "text": "Ein Kulturzentrum in der Altstadt, in dem lokale Theateraufführungen und künstlerische Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.208311,
+                        -34.908906
+                  ]
+            },
+            {
+                  "name": "Sinagoga de la Comunidad Israelita Sefaradí",
+                  "text": "Eine sephardische Synagoge in der Altstadt mit modernen architektonischen Linien und einem friedlichen Innenraum.",
+                  "category": "religious",
+                  "coords": [
+                        -56.209736,
+                        -34.9103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Antiguo Respirador De Colector",
+                  "text": "Szabadtéren kiállított történelmi ipari légzőkészülék, amelyet a 20. század eleji kikötői munkálatoknál használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.210554,
+                        -34.912177
+                  ]
+            },
+            {
+                  "name": "Casa de Giuseppe Garibaldi",
+                  "text": "Giuseppe Garibaldi olasz forradalmár egykori lakóhelye uruguayi száműzetése és katonai szolgálata alatt.",
+                  "category": "museum",
+                  "coords": [
+                        -56.209234,
+                        -34.907119
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Decorativas \"Palacio Taranco\"",
+                  "text": "Ez a pompás francia stílusú palotában elhelyezett múzeum európai bútorokat, porcelánokat és képzőművészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.208186,
+                        -34.906816
+                  ]
+            },
+            {
+                  "name": "Recreo Ciudad Vieja",
+                  "text": "Kulturális helyszín az óvárosban, ahol helyi színházi előadásokat és művészeti eseményeket rendeznek.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.208311,
+                        -34.908906
+                  ]
+            },
+            {
+                  "name": "Sinagoga de la Comunidad Israelita Sefaradí",
+                  "text": "Szefárd zsinagóga az óvárosban, modern építészeti vonalakkal és békés belső térrel.",
+                  "category": "religious",
+                  "coords": [
+                        -56.209736,
+                        -34.9103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Antiguo Respirador De Colector",
+                  "text": "Un dispozitiv industrial istoric expus în aer liber, utilizat în lucrările portuare de la începutul secolului al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.210554,
+                        -34.912177
+                  ]
+            },
+            {
+                  "name": "Casa de Giuseppe Garibaldi",
+                  "text": "Fosta reședință a revoluționarului italian Giuseppe Garibaldi în timpul anilor săi de exil în Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.209234,
+                        -34.907119
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Decorativas \"Palacio Taranco\"",
+                  "text": "Găzduit într-un palat somptuos în stil francez, acest muzeu expune mobilier european, porțelanuri și arte frumoase.",
+                  "category": "museum",
+                  "coords": [
+                        -56.208186,
+                        -34.906816
+                  ]
+            },
+            {
+                  "name": "Recreo Ciudad Vieja",
+                  "text": "Un loc cultural din Orașul Vechi care găzduiește spectacole de teatru locale și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.208311,
+                        -34.908906
+                  ]
+            },
+            {
+                  "name": "Sinagoga de la Comunidad Israelita Sefaradí",
+                  "text": "O sinagogă sefardă din Orașul Vechi, cu linii arhitecturale moderne și un interior liniștit.",
+                  "category": "religious",
+                  "coords": [
+                        -56.209736,
+                        -34.9103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Collector Respirator",
+                  "text": "An outdoor display of a historic industrial respirator used in the city's early 20th-century port works.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.210554,
+                        -34.912177
+                  ]
+            },
+            {
+                  "name": "Casa de Giuseppe Garibaldi",
+                  "text": "The former residence of Italian revolutionary Giuseppe Garibaldi during his years of exile in Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.209234,
+                        -34.907119
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Decorativas \"Palacio Taranco\"",
+                  "text": "Housed in a lavish French-style palace, this museum displays European furniture, porcelain, and fine arts.",
+                  "category": "museum",
+                  "coords": [
+                        -56.208186,
+                        -34.906816
+                  ]
+            },
+            {
+                  "name": "Recreo Ciudad Vieja",
+                  "text": "A cultural venue in the Old City that hosts local theatrical performances and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.208311,
+                        -34.908906
+                  ]
+            },
+            {
+                  "name": "Sinagoga de la Comunidad Israelita Sefaradí",
+                  "text": "A Sephardic synagogue in the Old City, featuring modern architectural lines and a peaceful interior.",
+                  "category": "religious",
+                  "coords": [
+                        -56.209736,
+                        -34.9103
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.2081, -34.9064],
@@ -975,7 +8706,340 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Palacio Taranco offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs du Palacio Taranco de nombreuses opportunités d'activités de loisirs."],
     }, image: "/poi-images/uy-mo-palacio-taranco-landmarks-v2.webp"},
   {
-    id: "uy-ma-cuartel-de-dragones-landmarks-v2",
+    id: "uy-ma-cuartel-de-dragones-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Paz y Unión",
+                  "text": "Ein historisches Theater und Kulturzentrum, das ein wichtiger Treffpunkt für die lokale Gemeinschaft ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.959688,
+                        -34.908082
+                  ]
+            },
+            {
+                  "name": "Museo Mazzoni",
+                  "text": "Regionales Geschichtsmuseum in einem Kolonialgebäude, das die soziale Entwicklung von Maldonado dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -54.958074,
+                        -34.907438
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "Eine protestantische Kirche der Siebenten-Tags-Adventisten im Herzen des Stadtgebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.952734,
+                        -34.907213
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein moderner Königreichssaal, der als lokales Versammlungszentrum für die Zeugen Jehovas dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.987533,
+                        -34.888091
+                  ]
+            },
+            {
+                  "name": "Jesucristo El Señor",
+                  "text": "Eine christliche Kapelle, die regelmäßige Gottesdienste für die örtliche Gemeinde in Maldonado anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954594,
+                        -34.907403
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein großes mormonisches Kirchengebäude mit der charakteristischen Architektur der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954023,
+                        -34.908415
+                  ]
+            },
+            {
+                  "name": "Iglesia Shekyna Jesus",
+                  "text": "Eine evangelikale christliche Kirche, die für ihre lebendigen Gottesdienste im Viertel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954598,
+                        -34.904852
+                  ]
+            },
+            {
+                  "name": "Dios es Amor",
+                  "text": "Eine pfingstkirchliche Gemeinde, die Teil einer internationalen christlichen Missionsbewegung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.957885,
+                        -34.905122
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Ein lokales mormonisches Gemeindezentrum für Gebet und Gemeinschaftsarbeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.966269,
+                        -34.899362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Paz y Unión",
+                  "text": "Történelmi színház és kulturális központ, amely a helyi közösség fontos találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.959688,
+                        -34.908082
+                  ]
+            },
+            {
+                  "name": "Museo Mazzoni",
+                  "text": "Regionális történeti múzeum egy gyarmati épületben, amely Maldonado társadalmi fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -54.958074,
+                        -34.907438
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "A Hetednapi Adventista Egyház protestáns temploma a városközpont szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.952734,
+                        -34.907213
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Modern Királyság-terem, amely a Jehova Tanúi helyi gyülekezési központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.987533,
+                        -34.888091
+                  ]
+            },
+            {
+                  "name": "Jesucristo El Señor",
+                  "text": "Keresztény kápolna, amely rendszeres istentiszteleteket tart a helyi közösség számára Maldonadóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954594,
+                        -34.907403
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Nagyméretű mormon templomépület az Utolsó Napi Szentekre jellemző építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954023,
+                        -34.908415
+                  ]
+            },
+            {
+                  "name": "Iglesia Shekyna Jesus",
+                  "text": "Evangéliumi keresztény templom, amely a környéken tartott élénk istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954598,
+                        -34.904852
+                  ]
+            },
+            {
+                  "name": "Dios es Amor",
+                  "text": "Pünkösdi gyülekezet, amely egy nemzetközi keresztény missziós mozgalom része.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.957885,
+                        -34.905122
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Helyi mormon közösségi központ, amely imádságoknak és közösségi munkának ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.966269,
+                        -34.899362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Paz y Unión",
+                  "text": "Un teatru istoric și centru cultural, fiind un punct important de întâlnire pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.959688,
+                        -34.908082
+                  ]
+            },
+            {
+                  "name": "Museo Mazzoni",
+                  "text": "Muzeu regional de istorie situat într-o clădire colonială, documentând dezvoltarea socială a orașului Maldonado.",
+                  "category": "museum",
+                  "coords": [
+                        -54.958074,
+                        -34.907438
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "O biserică protestantă a Adventiștilor de Ziua a Șaptea, situată în inima zonei urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.952734,
+                        -34.907213
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului modernă, care servește ca centru local de întrunire pentru Martorii lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.987533,
+                        -34.888091
+                  ]
+            },
+            {
+                  "name": "Jesucristo El Señor",
+                  "text": "O capelă creștină care oferă servicii religioase regulate pentru comunitatea locală din Maldonado.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954594,
+                        -34.907403
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O clădire bisericească mormonă mare, cu arhitectura caracteristică Sfinților din Ultimele Zile.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954023,
+                        -34.908415
+                  ]
+            },
+            {
+                  "name": "Iglesia Shekyna Jesus",
+                  "text": "O biserică creștină evanghelică, cunoscută pentru serviciile sale religioase vibrante din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954598,
+                        -34.904852
+                  ]
+            },
+            {
+                  "name": "Dios es Amor",
+                  "text": "O congregație penticostală care face parte dintr-o mișcare misionară creștină internațională.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.957885,
+                        -34.905122
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Un centru comunitar mormon local pentru rugăciune și activități în folosul comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.966269,
+                        -34.899362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Paz y Unión",
+                  "text": "A historic theatre and cultural center that serves as a key meeting point for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.959688,
+                        -34.908082
+                  ]
+            },
+            {
+                  "name": "Museo Mazzoni",
+                  "text": "A regional history museum housed in a colonial building, documenting the social evolution of Maldonado.",
+                  "category": "museum",
+                  "coords": [
+                        -54.958074,
+                        -34.907438
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "A Protestant church of the Seventh-day Adventists located in the heart of the urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.952734,
+                        -34.907213
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A modern Kingdom Hall serving as the local assembly center for Jehovah's Witnesses.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.987533,
+                        -34.888091
+                  ]
+            },
+            {
+                  "name": "Jesucristo El Señor",
+                  "text": "A Christian chapel offering regular worship services for the local community in Maldonado.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954594,
+                        -34.907403
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A large Mormon church building featuring the characteristic architecture of the Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954023,
+                        -34.908415
+                  ]
+            },
+            {
+                  "name": "Iglesia Shekyna Jesus",
+                  "text": "An evangelical Christian church known for its vibrant worship services in the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.954598,
+                        -34.904852
+                  ]
+            },
+            {
+                  "name": "Dios es Amor",
+                  "text": "A Pentecostal congregation that is part of an international Christian missionary movement.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.957885,
+                        -34.905122
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "A local Mormon community center dedicated to prayer and community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.966269,
+                        -34.899362
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MA",
     coords: [-54.9575, -34.9083],
@@ -1011,7 +9075,88 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Cuartel de Dragones offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités de loisirs actifs dans les environs du Cuartel de Dragones."],
     }, image: "/poi-images/uy-ma-cuartel-de-dragones-landmarks-v2.webp"},
   {
-    id: "uy-ma-puente-laguna-garzon-landmarks-v2",
+    id: "uy-ma-puente-laguna-garzon-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puente de Laguna Garzón",
+                  "text": "Einzigartige kreisförmige Brücke, entworfen von Rafael Viñoly, um den Verkehr über der Lagune zu verlangsamen.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.572054,
+                        -34.802386
+                  ]
+            },
+            {
+                  "name": "San Sebastián",
+                  "text": "Naturbelassener Atlantikstrand zwischen der Lagune und dem offenen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.554598,
+                        -34.795902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puente de Laguna Garzón",
+                  "text": "Rafael Viñoly által tervezett egyedi kör alakú híd, amely a forgalom lassítását szolgálja a lagúna felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.572054,
+                        -34.802386
+                  ]
+            },
+            {
+                  "name": "San Sebastián",
+                  "text": "Vadregényes atlanti-parti strand a lagúna és a nyílt tenger között.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.554598,
+                        -34.795902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puente de Laguna Garzón",
+                  "text": "Un pod circular unic proiectat de Rafael Viñoly pentru a încetini traficul deasupra lagunei.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.572054,
+                        -34.802386
+                  ]
+            },
+            {
+                  "name": "San Sebastián",
+                  "text": "O plajă atlantică sălbatică situată între lagună și marea deschisă.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.554598,
+                        -34.795902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laguna Garzon Bridge",
+                  "text": "A unique circular bridge designed by Rafael Viñoly to slow traffic over the lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.572054,
+                        -34.802386
+                  ]
+            },
+            {
+                  "name": "San Sebastián",
+                  "text": "A rugged Atlantic beach situated between the lagoon and the open sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.554598,
+                        -34.795902
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MA",
     coords: [-54.5583, -34.7989],
@@ -1047,7 +9192,988 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
       fr: ["Le Puente de la Laguna Garzón offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités de loisirs actifs dans les environs du Puente de la Laguna Garzón."],
     }, image: "/poi-images/uy-ma-puente-laguna-garzon-landmarks-v2.webp"},
   {
-    id: "uy-mo-palacio-santos-landmarks-v2",
+    id: "uy-mo-palacio-santos-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Pedagógico José Pedro Varela",
+                  "text": "Das Museum dokumentiert die Geschichte der Bildungsreform in Uruguay und zeigt Lehrmittel aus dem 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        -56.190833,
+                        -34.905262
+                  ]
+            },
+            {
+                  "name": "Museo del Azulejo",
+                  "text": "Das Museum beherbergt eine Sammlung von über 5.000 dekorativen Fliesen aus verschiedenen Epochen und Ländern.",
+                  "category": "museum",
+                  "coords": [
+                        -56.189179,
+                        -34.904061
+                  ]
+            },
+            {
+                  "name": "Museo de Historia del Arte",
+                  "text": "Dieses Museum im Stadtpalast zeigt bedeutende archäologische Funde aus dem alten Ägypten und Mesopotamien.",
+                  "category": "museum",
+                  "coords": [
+                        -56.186533,
+                        -34.90624
+                  ]
+            },
+            {
+                  "name": "Museo del Cannabis",
+                  "text": "Dieses Museum dokumentiert die Geschichte des Cannabis-Anbaus und seine legale Regulierung in Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.17643,
+                        -34.909934
+                  ]
+            },
+            {
+                  "name": "Teatro Victoria",
+                  "text": "Dieses kleine, unabhängige Theater ist in einem charmanten historischen Gebäude untergebracht.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193992,
+                        -34.903598
+                  ]
+            },
+            {
+                  "name": "Sala Zitarrosa",
+                  "text": "Dieser nach dem berühmten Sänger benannte Kulturraum war ursprünglich ein prächtiges Kino aus den 1920er Jahren.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.19446,
+                        -34.906255
+                  ]
+            },
+            {
+                  "name": "Parroquia San José y San Maximiliano Kolbe",
+                  "text": "Diese von Franziskanern geführte Kirche erinnert an den heiligen Maximilian Kolbe.",
+                  "category": "religious",
+                  "coords": [
+                        -56.190836,
+                        -34.909021
+                  ]
+            },
+            {
+                  "name": "Iglesia del Sagrado Corazón",
+                  "text": "Diese majestätische Jesuitenkirche beeindruckt durch ihren hohen Glockenturm und die neoromanische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -56.184147,
+                        -34.907696
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Antonio y Santa Clara",
+                  "text": "Diese Backsteinkirche der Kapuziner zeichnet sich durch ihre schlichte, aber markante Bauweise aus.",
+                  "category": "religious",
+                  "coords": [
+                        -56.179081,
+                        -34.908164
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen La Mayor",
+                  "text": "Diese bedeutende Kirche im Viertel Cordón ist ein wichtiges religiöses Zentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -56.182972,
+                        -34.904174
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista",
+                  "text": "Dieses neugotische Gebäude aus dem frühen 20. Jahrhundert ist für seine feinen Backsteinverzierungen bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        -56.184348,
+                        -34.905965
+                  ]
+            },
+            {
+                  "name": "Torre Saeta",
+                  "text": "Dieser markante Sendeturm gehört zum Fernsehsender Canal 10 und prägt die Skyline des Viertels.",
+                  "category": "tower",
+                  "coords": [
+                        -56.180328,
+                        -34.908251
+                  ]
+            },
+            {
+                  "name": "Plaza de los Treinta Y Tres",
+                  "text": "Dieser Platz ehrt die 33 Nationalhelden Uruguays und wird wegen der nahen Wache oft Plaza de los Bomberos genannt.",
+                  "category": "park",
+                  "coords": [
+                        -56.180308,
+                        -34.903017
+                  ]
+            },
+            {
+                  "name": "Gran Teatro Metro",
+                  "text": "Dieses große Theater ist ein bekannter Veranstaltungsort für internationale Musicals und Shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.189957,
+                        -34.906502
+                  ]
+            },
+            {
+                  "name": "El Galpón",
+                  "text": "Dieses traditionsreiche Theater entstand aus einer unabhängigen Bewegung und ist eine kulturelle Institution.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.181104,
+                        -34.904211
+                  ]
+            },
+            {
+                  "name": "Plaza Alfredo Zitarrosa",
+                  "text": "Dieser kleine Park ist dem berühmten uruguayischen Volkssänger Alfredo Zitarrosa gewidmet.",
+                  "category": "park",
+                  "coords": [
+                        -56.187136,
+                        -34.911605
+                  ]
+            },
+            {
+                  "name": "Museo Peugeot",
+                  "text": "Das private Museum beherbergt eine beeindruckende Sammlung klassischer Peugeot-Automobile und Erinnerungsstücke.",
+                  "category": "museum",
+                  "coords": [
+                        -56.193114,
+                        -34.901873
+                  ]
+            },
+            {
+                  "name": "Museo U.T.U",
+                  "text": "Dieses Museum der technischen Universität präsentiert Exponate zur Geschichte der Berufsbildung in Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.178594,
+                        -34.912107
+                  ]
+            },
+            {
+                  "name": "Asociación Cultural Cuareim 1080",
+                  "text": "Dieses Kulturzentrum ist ein Herzstück des Candombe und dient als Proberaum für die berühmte Trommelgruppe.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.189892,
+                        -34.911481
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Calenda",
+                  "text": "Dieses Zentrum im Barrio Sur feiert die afrouruguayische Kultur und die Traditionen des Karnevals.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193054,
+                        -34.912193
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Urbano",
+                  "text": "Diese Einrichtung bietet Gemeinschaftsworkshops und Ausstellungen, die sich auf städtische Kunst konzentrieren.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.192069,
+                        -34.909074
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Afrouruguaya",
+                  "text": "Das Haus ist ein bedeutender Ort für die Erforschung und Förderung der schwarzen Geschichte und des Candombe.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.179458,
+                        -34.910535
+                  ]
+            },
+            {
+                  "name": "Asociación Cultural y Social Uruguay Negro | ACSUN",
+                  "text": "Die ACSUN ist der älteste Verein Uruguays, der sich für die sozialen Rechte und die Kultur der Afro-Nachfahren einsetzt.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.180387,
+                        -34.909461
+                  ]
+            },
+            {
+                  "name": "Alejandría Café de las Artes",
+                  "text": "Dieses gemütliche Kunstcafé bietet eine intime Bühne für Theateraufführungen und musikalische Abende.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.177819,
+                        -34.90396
+                  ]
+            },
+            {
+                  "name": "Teatro Astral",
+                  "text": "Dieses traditionelle Theater an der Hauptstraße der Stadt ist ein fester Bestandteil der lokalen Kulturszene.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.183377,
+                        -34.910206
+                  ]
+            },
+            {
+                  "name": "Galerías DeLondon",
+                  "text": "Diese historische Einkaufspassage besticht durch ihre elegante Architektur und die gläserne Decke.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193212,
+                        -34.90618
+                  ]
+            },
+            {
+                  "name": "Galería del Notariado",
+                  "text": "Dieser Komplex beherbergt neben Geschäften auch ein bekanntes Kellertheater für lokale Produktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.178885,
+                        -34.903202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Pedagógico José Pedro Varela",
+                  "text": "A múzeum az uruguayi oktatási reform történetét dokumentálja, és 19. századi oktatési eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.190833,
+                        -34.905262
+                  ]
+            },
+            {
+                  "name": "Museo del Azulejo",
+                  "text": "A múzeum több mint 5000 dekoratív csempéből álló gyűjteménynek ad otthont különböző korszakokból és országokból.",
+                  "category": "museum",
+                  "coords": [
+                        -56.189179,
+                        -34.904061
+                  ]
+            },
+            {
+                  "name": "Museo de Historia del Arte",
+                  "text": "A városházán található múzeum ókori egyiptomi és mezopotámiai régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.186533,
+                        -34.90624
+                  ]
+            },
+            {
+                  "name": "Museo del Cannabis",
+                  "text": "A múzeum a kannabisz termesztésének történetét és uruguayi legális szabályozását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.17643,
+                        -34.909934
+                  ]
+            },
+            {
+                  "name": "Teatro Victoria",
+                  "text": "Ez a kis független színház egy hangulatos történelmi épületben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193992,
+                        -34.903598
+                  ]
+            },
+            {
+                  "name": "Sala Zitarrosa",
+                  "text": "A híres énekesről elnevezett kulturális tér eredetileg egy pompás, 1920-as évekbeli mozi volt.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.19446,
+                        -34.906255
+                  ]
+            },
+            {
+                  "name": "Parroquia San José y San Maximiliano Kolbe",
+                  "text": "Ez a ferencesek által vezetett katolikus templom Szent Maximilian Kolbénak állít emléket.",
+                  "category": "religious",
+                  "coords": [
+                        -56.190836,
+                        -34.909021
+                  ]
+            },
+            {
+                  "name": "Iglesia del Sagrado Corazón",
+                  "text": "Ez a fenséges jezsuita templom magas harangtornyával és neoromán építészetével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        -56.184147,
+                        -34.907696
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Antonio y Santa Clara",
+                  "text": "Ez a kapucinusok által épített téglatemplom egyszerű, de jellegzetes építészeti stílusával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        -56.179081,
+                        -34.908164
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen La Mayor",
+                  "text": "Ez a jelentős Cordón negyedbeli templom a város egyik fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        -56.182972,
+                        -34.904174
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista",
+                  "text": "Ez a 20. század eleji neogótikus épület finom tégladíszítéseiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -56.184348,
+                        -34.905965
+                  ]
+            },
+            {
+                  "name": "Torre Saeta",
+                  "text": "Ez a jellegzetes torony a Canal 10 televíziócsatornához tartozik, és meghatározza a környék látképét.",
+                  "category": "tower",
+                  "coords": [
+                        -56.180328,
+                        -34.908251
+                  ]
+            },
+            {
+                  "name": "Plaza de los Treinta Y Tres",
+                  "text": "Ez a tér Uruguay 33 nemzeti hősének állít emléket, és a közeli laktanya miatt gyakran Tűzoltók terének hívják.",
+                  "category": "park",
+                  "coords": [
+                        -56.180308,
+                        -34.903017
+                  ]
+            },
+            {
+                  "name": "Gran Teatro Metro",
+                  "text": "Ez a nagyméretű színház nemzetközi musicalek és látványos show-műsorok kedvelt helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.189957,
+                        -34.906502
+                  ]
+            },
+            {
+                  "name": "El Galpón",
+                  "text": "Ez a nagy múltú színház egy független mozgalomból született, és a város kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.181104,
+                        -34.904211
+                  ]
+            },
+            {
+                  "name": "Plaza Alfredo Zitarrosa",
+                  "text": "Ez a kis park a híres uruguayi népdalénekes, Alfredo Zitarrosa emlékének van szentelve.",
+                  "category": "park",
+                  "coords": [
+                        -56.187136,
+                        -34.911605
+                  ]
+            },
+            {
+                  "name": "Museo Peugeot",
+                  "text": "Ez a magánmúzeum klasszikus Peugeot gépkocsik és emléktárgyak lenyűgöző gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -56.193114,
+                        -34.901873
+                  ]
+            },
+            {
+                  "name": "Museo U.T.U",
+                  "text": "A műszaki egyetem múzeuma az uruguayi szakképzés történetéhez kapcsolódó tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -56.178594,
+                        -34.912107
+                  ]
+            },
+            {
+                  "name": "Asociación Cultural Cuareim 1080",
+                  "text": "Ez a kulturális központ a candombe egyik fellegvára, és a híres dobcspat próbáinak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.189892,
+                        -34.911481
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Calenda",
+                  "text": "Ez a Barrio Sur negyedben található központ az afrouruguayi kultúrát és a karnevál hagyományait élteti.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193054,
+                        -34.912193
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Urbano",
+                  "text": "Ez az intézmény közösségi műhelyfoglalkozásokat és a városi művészetre fókuszáló kiállításokat szervez.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.192069,
+                        -34.909074
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Afrouruguaya",
+                  "text": "Ez a ház a fekete történelem és a candombe kutatásának és népszerűsítésének egyik legfontosabb helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.179458,
+                        -34.910535
+                  ]
+            },
+            {
+                  "name": "Asociación Cultural y Social Uruguay Negro | ACSUN",
+                  "text": "Az ACSUN Uruguay legrégebbi egyesülete, amely az afro-leszármazottak szociális jogaiért és kultúrájáért küzd.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.180387,
+                        -34.909461
+                  ]
+            },
+            {
+                  "name": "Alejandría Café de las Artes",
+                  "text": "Ez a hangulatos művész kávézó meghitt színpadot kínál színi előadásokhoz és zenés estekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.177819,
+                        -34.90396
+                  ]
+            },
+            {
+                  "name": "Teatro Astral",
+                  "text": "Ez a város főútján található hagyományos színház a helyi kulturális élet szerves része.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.183377,
+                        -34.910206
+                  ]
+            },
+            {
+                  "name": "Galerías DeLondon",
+                  "text": "Ez a történelmi bevásárlóárkád elegáns építészetével és üvegtetejével nyűgözi le a látogatókat.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193212,
+                        -34.90618
+                  ]
+            },
+            {
+                  "name": "Galería del Notariado",
+                  "text": "Ez a komplexum az üzletek mellett egy népszerű alagsori színháznak is otthont ad.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.178885,
+                        -34.903202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Pedagógico José Pedro Varela",
+                  "text": "Muzeul documentează istoria reformei educaționale din Uruguay și expune instrumente didactice din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -56.190833,
+                        -34.905262
+                  ]
+            },
+            {
+                  "name": "Museo del Azulejo",
+                  "text": "Muzeul adăpostește o colecție de peste 5.000 de plăci ceramice decorative din diferite epoci și țări.",
+                  "category": "museum",
+                  "coords": [
+                        -56.189179,
+                        -34.904061
+                  ]
+            },
+            {
+                  "name": "Museo de Historia del Arte",
+                  "text": "Acest muzeu din palatul municipal expune piese arheologice importante din Egiptul Antic și Mesopotamia.",
+                  "category": "museum",
+                  "coords": [
+                        -56.186533,
+                        -34.90624
+                  ]
+            },
+            {
+                  "name": "Museo del Cannabis",
+                  "text": "Acest muzeu documentează istoria cultivării canabisului și reglementarea sa legală în Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.17643,
+                        -34.909934
+                  ]
+            },
+            {
+                  "name": "Teatro Victoria",
+                  "text": "Acest mic teatru independent funcționează într-o clădire istorică plină de farmec.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193992,
+                        -34.903598
+                  ]
+            },
+            {
+                  "name": "Sala Zitarrosa",
+                  "text": "Acest spațiu cultural numit după faimosul cântăreț a fost inițial un cinema grandios din anii 1920.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.19446,
+                        -34.906255
+                  ]
+            },
+            {
+                  "name": "Parroquia San José y San Maximiliano Kolbe",
+                  "text": "Această biserică catolică administrată de franciscani este dedicată Sfântului Maximilian Kolbe.",
+                  "category": "religious",
+                  "coords": [
+                        -56.190836,
+                        -34.909021
+                  ]
+            },
+            {
+                  "name": "Iglesia del Sagrado Corazón",
+                  "text": "Această biserică iezuitească maiestuoasă impresionează prin turnul său înalt și arhitectura neoromanică.",
+                  "category": "religious",
+                  "coords": [
+                        -56.184147,
+                        -34.907696
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Antonio y Santa Clara",
+                  "text": "Această biserică din cărămidă a capucinilor se remarcă prin stilul său arhitectural simplu, dar distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        -56.179081,
+                        -34.908164
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen La Mayor",
+                  "text": "Această biserică importantă din cartierul Cordón este un centru religios major al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -56.182972,
+                        -34.904174
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista",
+                  "text": "Această clădire neogotică de la începutul secolului XX este cunoscută pentru detaliile sale fine din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        -56.184348,
+                        -34.905965
+                  ]
+            },
+            {
+                  "name": "Torre Saeta",
+                  "text": "Acest turn de comunicații distinctiv aparține postului Canal 10 și domină orizontul cartierului.",
+                  "category": "tower",
+                  "coords": [
+                        -56.180328,
+                        -34.908251
+                  ]
+            },
+            {
+                  "name": "Plaza de los Treinta Y Tres",
+                  "text": "Această piață îi onorează pe cei 33 de eroi naționali și este adesea numită Piața Pompierilor datorită stației din apropiere.",
+                  "category": "park",
+                  "coords": [
+                        -56.180308,
+                        -34.903017
+                  ]
+            },
+            {
+                  "name": "Gran Teatro Metro",
+                  "text": "Acest teatru mare este o locație cunoscută pentru musicaluri și spectacole internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.189957,
+                        -34.906502
+                  ]
+            },
+            {
+                  "name": "El Galpón",
+                  "text": "Acest teatru cu tradiție a luat naștere dintr-o mișcare independentă și este o instituție culturală.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.181104,
+                        -34.904211
+                  ]
+            },
+            {
+                  "name": "Plaza Alfredo Zitarrosa",
+                  "text": "Acest mic parc este dedicat memoriei faimosului cântăreț de muzică populară Alfredo Zitarrosa.",
+                  "category": "park",
+                  "coords": [
+                        -56.187136,
+                        -34.911605
+                  ]
+            },
+            {
+                  "name": "Museo Peugeot",
+                  "text": "Acest muzeu privat găzduiește o colecție impresionantă de automobile Peugeot clasice și suveniruri.",
+                  "category": "museum",
+                  "coords": [
+                        -56.193114,
+                        -34.901873
+                  ]
+            },
+            {
+                  "name": "Museo U.T.U",
+                  "text": "Muzeul universității tehnice prezintă exponate legate de istoria învățământului profesional din Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.178594,
+                        -34.912107
+                  ]
+            },
+            {
+                  "name": "Asociación Cultural Cuareim 1080",
+                  "text": "Acest centru cultural este un nucleu al ritmurilor candombe, servind drept loc de repetiții pentru faimosul grup de toboșari.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.189892,
+                        -34.911481
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Calenda",
+                  "text": "Acest centru din Barrio Sur celebrează cultura afro-uruguayeană și tradițiile carnavalului.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193054,
+                        -34.912193
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Urbano",
+                  "text": "Această instituție oferă ateliere comunitare și expoziții axate pe arta urbană.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.192069,
+                        -34.909074
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Afrouruguaya",
+                  "text": "Această casă este un loc esențial pentru cercetarea și promovarea istoriei populației de culoare și a candombe.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.179458,
+                        -34.910535
+                  ]
+            },
+            {
+                  "name": "Asociación Cultural y Social Uruguay Negro | ACSUN",
+                  "text": "ACSUN este cea mai veche asociație din Uruguay care militează pentru drepturile sociale și cultura afro-descendenților.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.180387,
+                        -34.909461
+                  ]
+            },
+            {
+                  "name": "Alejandría Café de las Artes",
+                  "text": "Această cafenea artistică primitoare oferă o scenă intimă pentru spectacole de teatru și seri muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.177819,
+                        -34.90396
+                  ]
+            },
+            {
+                  "name": "Teatro Astral",
+                  "text": "Acest teatru tradițional situat pe bulevardul principal al orașului este o parte integrantă a scenei culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.183377,
+                        -34.910206
+                  ]
+            },
+            {
+                  "name": "Galerías DeLondon",
+                  "text": "Această galerie comercială istorică impresionează prin arhitectura sa elegantă și plafonul de sticlă.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193212,
+                        -34.90618
+                  ]
+            },
+            {
+                  "name": "Galería del Notariado",
+                  "text": "Acest complex găzduiește, pe lângă magazine, și un cunoscut teatru la subsol pentru producții locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.178885,
+                        -34.903202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Pedagógico José Pedro Varela",
+                  "text": "This museum documents the history of educational reform in Uruguay and displays 19th-century teaching tools.",
+                  "category": "museum",
+                  "coords": [
+                        -56.190833,
+                        -34.905262
+                  ]
+            },
+            {
+                  "name": "Museo del Azulejo",
+                  "text": "This museum houses a collection of over 5,000 decorative ceramic tiles from various periods and countries.",
+                  "category": "museum",
+                  "coords": [
+                        -56.189179,
+                        -34.904061
+                  ]
+            },
+            {
+                  "name": "Museo de Historia del Arte",
+                  "text": "Located within the municipal palace, this museum features archaeological artifacts from ancient Egypt and Mesopotamia.",
+                  "category": "museum",
+                  "coords": [
+                        -56.186533,
+                        -34.90624
+                  ]
+            },
+            {
+                  "name": "Cannabis Museum",
+                  "text": "This museum explores the history of cannabis cultivation and its legal regulation in Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.17643,
+                        -34.909934
+                  ]
+            },
+            {
+                  "name": "Teatro Victoria",
+                  "text": "This small independent theatre is housed in a charming historic building.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193992,
+                        -34.903598
+                  ]
+            },
+            {
+                  "name": "Sala Zitarrosa",
+                  "text": "Named after the famous singer, this cultural space occupies a grand former cinema from the 1920s.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.19446,
+                        -34.906255
+                  ]
+            },
+            {
+                  "name": "Saint Joseph and Saint Maximillian Kolbe Catholic Church",
+                  "text": "This Catholic church run by Conventual Franciscans is dedicated to Saint Maximilian Kolbe.",
+                  "category": "religious",
+                  "coords": [
+                        -56.190836,
+                        -34.909021
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Catholic Church",
+                  "text": "This majestic Jesuit church is notable for its high bell tower and Neo-Romanesque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -56.184147,
+                        -34.907696
+                  ]
+            },
+            {
+                  "name": "Saint Anthony and Saint Claire Catholic Church",
+                  "text": "This brick-built Capuchin church is distinguished by its simple yet striking architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        -56.179081,
+                        -34.908164
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen La Mayor",
+                  "text": "This prominent church in the Cordón neighborhood is a major religious center of the city.",
+                  "category": "religious",
+                  "coords": [
+                        -56.182972,
+                        -34.904174
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista",
+                  "text": "This early 20th-century Neo-Gothic building is known for its fine brickwork ornamentation.",
+                  "category": "religious",
+                  "coords": [
+                        -56.184348,
+                        -34.905965
+                  ]
+            },
+            {
+                  "name": "Torre Saeta",
+                  "text": "This distinctive communications tower belongs to the Canal 10 television station and marks the skyline.",
+                  "category": "tower",
+                  "coords": [
+                        -56.180328,
+                        -34.908251
+                  ]
+            },
+            {
+                  "name": "Plaza de los Treinta Y Tres",
+                  "text": "This square honors Uruguay's 33 national heroes and is often called Plaza de los Bomberos due to the nearby fire station.",
+                  "category": "park",
+                  "coords": [
+                        -56.180308,
+                        -34.903017
+                  ]
+            },
+            {
+                  "name": "Gran Teatro Metro",
+                  "text": "This large theater is a well-known venue for international musicals and major stage shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.189957,
+                        -34.906502
+                  ]
+            },
+            {
+                  "name": "El Galpón",
+                  "text": "This historic theater grew from an independent movement and is a cornerstone of the local culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.181104,
+                        -34.904211
+                  ]
+            },
+            {
+                  "name": "Plaza Alfredo Zitarrosa",
+                  "text": "This small park is dedicated to the memory of the famous Uruguayan folk singer Alfredo Zitarrosa.",
+                  "category": "park",
+                  "coords": [
+                        -56.187136,
+                        -34.911605
+                  ]
+            },
+            {
+                  "name": "Museo Peugeot",
+                  "text": "This private museum houses an impressive collection of classic Peugeot automobiles and memorabilia.",
+                  "category": "museum",
+                  "coords": [
+                        -56.193114,
+                        -34.901873
+                  ]
+            },
+            {
+                  "name": "Museo U.T.U",
+                  "text": "This technical university museum presents exhibits related to the history of vocational training in Uruguay.",
+                  "category": "museum",
+                  "coords": [
+                        -56.178594,
+                        -34.912107
+                  ]
+            },
+            {
+                  "name": "Asociación Cultural Cuareim 1080",
+                  "text": "This cultural center is a hub for Candombe rhythms, serving as a rehearsal space for the famous drumming group.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.189892,
+                        -34.911481
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Calenda",
+                  "text": "Located in Barrio Sur, this center celebrates Afro-Uruguayan culture and carnival traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193054,
+                        -34.912193
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Urbano",
+                  "text": "This facility offers community workshops and exhibitions focused on urban art projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.192069,
+                        -34.909074
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Afrouruguaya",
+                  "text": "This house is a key site for the research and promotion of Black history and Candombe traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.179458,
+                        -34.910535
+                  ]
+            },
+            {
+                  "name": "Asociación Cultural y Social Uruguay Negro | ACSUN",
+                  "text": "ACSUN is Uruguay's oldest association advocating for the social rights and culture of Afro-descendants.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.180387,
+                        -34.909461
+                  ]
+            },
+            {
+                  "name": "Alejandría Café de las Artes",
+                  "text": "This cozy arts café offers an intimate stage for theatrical performances and musical evenings.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.177819,
+                        -34.90396
+                  ]
+            },
+            {
+                  "name": "Teatro Astral",
+                  "text": "This traditional theater located on the city's main avenue is a fixture of the local cultural scene.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.183377,
+                        -34.910206
+                  ]
+            },
+            {
+                  "name": "Galerías DeLondon",
+                  "text": "This historic shopping arcade is notable for its elegant architecture and glass ceiling.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.193212,
+                        -34.90618
+                  ]
+            },
+            {
+                  "name": "Galería del Notariado",
+                  "text": "This complex houses shops as well as a well-known basement theater for local productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.178885,
+                        -34.903202
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "UY-MO",
     coords: [-56.1911, -34.9056],

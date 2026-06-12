@@ -3,7 +3,304 @@ import type { POI } from "./poi";
 
 export const poiExtraBoliviaNatureV2: POI[] = [
   {
-    id: "bo-illimani-nature-v2",
+    id: "bo-illimani-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ch'iyar Qullu",
+                  "text": "Dieser andine Berggipfel befindet sich in der Provinz Sud Yungas.",
+                  "category": "natural",
+                  "coords": [
+                        -67.810892,
+                        -16.614305
+                  ]
+            },
+            {
+                  "name": "Illimani",
+                  "text": "Dieser massive Berg mit seinen ikonischen schneebedeckten Gipfeln dominiert die Skyline von La Paz.",
+                  "category": "natural",
+                  "coords": [
+                        -67.790835,
+                        -16.633352
+                  ]
+            },
+            {
+                  "name": "Silla Pata",
+                  "text": "Dieser markante Berggipfel in den Anden liegt in unmittelbarer Nähe des Illimani.",
+                  "category": "natural",
+                  "coords": [
+                        -67.760137,
+                        -16.676623
+                  ]
+            },
+            {
+                  "name": "Layqa Qullu",
+                  "text": "Dieser Berggipfel erhebt sich majestätisch in der bolivianischen Andenkette.",
+                  "category": "natural",
+                  "coords": [
+                        -67.766732,
+                        -16.653127
+                  ]
+            },
+            {
+                  "name": "Link'u Link'u",
+                  "text": "Dieser zerklüftete Andengipfel ist Teil der weiten Gebirgslandschaft der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -67.737145,
+                        -16.663693
+                  ]
+            },
+            {
+                  "name": "Wisk'achani",
+                  "text": "Dieser hochgelegene Andengipfel liegt in der bolivianischen Provinz Sud Yungas.",
+                  "category": "natural",
+                  "coords": [
+                        -67.71131,
+                        -16.640972
+                  ]
+            },
+            {
+                  "name": "P'iq'iñ Q'ara",
+                  "text": "Dieser imposante Berggipfel befindet sich im gebirgigen Departamento La Paz.",
+                  "category": "natural",
+                  "coords": [
+                        -67.824282,
+                        -16.611925
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Dieses lokale Gotteshaus liegt in der gebirgigen Umgebung und dient der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -67.703964,
+                        -16.604664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ch'iyar Qullu",
+                  "text": "Ez az andoki hegycsúcs a Sud Yungas tartományban található.",
+                  "category": "natural",
+                  "coords": [
+                        -67.810892,
+                        -16.614305
+                  ]
+            },
+            {
+                  "name": "Illimani",
+                  "text": "Ez a hatalmas hegy az ikonikus hófödte csúcsaival uralja La Paz látképét.",
+                  "category": "natural",
+                  "coords": [
+                        -67.790835,
+                        -16.633352
+                  ]
+            },
+            {
+                  "name": "Silla Pata",
+                  "text": "Ez a markáns hegycsúcs az Andokban, az Illimani közvetlen közelében fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        -67.760137,
+                        -16.676623
+                  ]
+            },
+            {
+                  "name": "Layqa Qullu",
+                  "text": "Ez a hegycsúcs fenségesen emelkedik a bolíviai Andok hegyláncában.",
+                  "category": "natural",
+                  "coords": [
+                        -67.766732,
+                        -16.653127
+                  ]
+            },
+            {
+                  "name": "Link'u Link'u",
+                  "text": "Ez a zord andoki csúcs a régió kiterjedt hegyvidéki tájának része.",
+                  "category": "natural",
+                  "coords": [
+                        -67.737145,
+                        -16.663693
+                  ]
+            },
+            {
+                  "name": "Wisk'achani",
+                  "text": "Ez a magasan fekvő andoki csúcs a bolíviai Sud Yungas tartományban található.",
+                  "category": "natural",
+                  "coords": [
+                        -67.71131,
+                        -16.640972
+                  ]
+            },
+            {
+                  "name": "P'iq'iñ Q'ara",
+                  "text": "Ez az impozáns hegycsúcs a hegyvidéki La Paz megyében található.",
+                  "category": "natural",
+                  "coords": [
+                        -67.824282,
+                        -16.611925
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a helyi istentiszteleti hely a hegyvidéki környezetben található, és a közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -67.703964,
+                        -16.604664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ch'iyar Qullu",
+                  "text": "Acest vârf andin este situat în provincia Sud Yungas.",
+                  "category": "natural",
+                  "coords": [
+                        -67.810892,
+                        -16.614305
+                  ]
+            },
+            {
+                  "name": "Illimani",
+                  "text": "Acest munte masiv, cu vârfurile sale iconice acoperite de zăpadă, domină orizontul orașului La Paz.",
+                  "category": "natural",
+                  "coords": [
+                        -67.790835,
+                        -16.633352
+                  ]
+            },
+            {
+                  "name": "Silla Pata",
+                  "text": "Acest vârf montan proeminent din Anzi este situat în imediata apropiere a muntelui Illimani.",
+                  "category": "natural",
+                  "coords": [
+                        -67.760137,
+                        -16.676623
+                  ]
+            },
+            {
+                  "name": "Layqa Qullu",
+                  "text": "Acest vârf montan se înalță maiestuos în lanțul andin bolivian.",
+                  "category": "natural",
+                  "coords": [
+                        -67.766732,
+                        -16.653127
+                  ]
+            },
+            {
+                  "name": "Link'u Link'u",
+                  "text": "Acest vârf andin accidentat face parte din peisajul montan vast al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -67.737145,
+                        -16.663693
+                  ]
+            },
+            {
+                  "name": "Wisk'achani",
+                  "text": "Acest vârf andin de mare altitudine se află în provincia boliviană Sud Yungas.",
+                  "category": "natural",
+                  "coords": [
+                        -67.71131,
+                        -16.640972
+                  ]
+            },
+            {
+                  "name": "P'iq'iñ Q'ara",
+                  "text": "Acest vârf montan impunător se află în departamentul muntos La Paz.",
+                  "category": "natural",
+                  "coords": [
+                        -67.824282,
+                        -16.611925
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Acest lăcaș de cult local se află în mediul montan și deservește comunitatea.",
+                  "category": "religious",
+                  "coords": [
+                        -67.703964,
+                        -16.604664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ch'iyar Qullu",
+                  "text": "This Andean mountain peak is situated in the Sud Yungas province.",
+                  "category": "natural",
+                  "coords": [
+                        -67.810892,
+                        -16.614305
+                  ]
+            },
+            {
+                  "name": "Illimani",
+                  "text": "This massive mountain, with its iconic snow-capped peaks, dominates the skyline of La Paz.",
+                  "category": "natural",
+                  "coords": [
+                        -67.790835,
+                        -16.633352
+                  ]
+            },
+            {
+                  "name": "Silla Pata",
+                  "text": "This prominent mountain peak in the Andes is located in close proximity to Illimani.",
+                  "category": "natural",
+                  "coords": [
+                        -67.760137,
+                        -16.676623
+                  ]
+            },
+            {
+                  "name": "Layqa Qullu",
+                  "text": "This mountain peak rises majestically within the Bolivian Andes range.",
+                  "category": "natural",
+                  "coords": [
+                        -67.766732,
+                        -16.653127
+                  ]
+            },
+            {
+                  "name": "Link'u Link'u",
+                  "text": "This rugged Andean mountain peak is part of the extensive mountainous landscape of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -67.737145,
+                        -16.663693
+                  ]
+            },
+            {
+                  "name": "Wisk'achani",
+                  "text": "This high-altitude Andean peak is located in the Bolivian province of Sud Yungas.",
+                  "category": "natural",
+                  "coords": [
+                        -67.71131,
+                        -16.640972
+                  ]
+            },
+            {
+                  "name": "P'iq'iñ Q'ara",
+                  "text": "This imposing mountain peak is located within the mountainous La Paz Department.",
+                  "category": "natural",
+                  "coords": [
+                        -67.824282,
+                        -16.611925
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "This local place of worship is situated in the mountainous setting and serves the community.",
+                  "category": "religious",
+                  "coords": [
+                        -67.703964,
+                        -16.604664
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Der Illimani ist der majestätische, schneebedeckte Gipfel, der über der Stadt La Paz thront.",
@@ -52,7 +349,232 @@ image: "/poi-images/bo-illimani-nature-v2.webp",
       fr: ["Situé sur le territoire de l'État plurinational de Bolivie.", "Nichée entre la cordillère des Andes, l'Altiplano et les basses terres de l'est.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Lié à l'héritage culturel des Aymaras et des Quechuas.", "Géré par les autorités et les communautés locales.", "Lié à la tradition de l'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bo-illimani-nature-v2.webp"},
   {
-    id: "bo-sajama-nature-v2",
+    id: "bo-sajama-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aguas Termales Privadas Doña Teodora",
+                  "text": "Die Thermalquellen von Dona Teodora in bo-sajama-nature-v2 bieten Besuchern beruhigende natürliche heiße Becken vor der atemberaubenden Kulisse der schneebedeckten Andenvulkane.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.973201,
+                        -18.085827
+                  ]
+            },
+            {
+                  "name": "Huisalla",
+                  "text": "Der markante Gipfel des Huisalla in bo-sajama-nature-v2 ist ein herausragendes Merkmal der hochgelegenen Landschaft und bietet einen weiten Blick über den zerklüfteten Altiplano.",
+                  "category": "natural",
+                  "coords": [
+                        -68.944348,
+                        -18.117269
+                  ]
+            },
+            {
+                  "name": "Place of Peace",
+                  "text": "Der Ort des Friedens ist ein ruhiges Denkmal in bo-sajama-nature-v2, das still inmitten der weiten Hochebenen als Symbol der Besinnung steht.",
+                  "category": "historical",
+                  "coords": [
+                        -68.946092,
+                        -18.137509
+                  ]
+            },
+            {
+                  "name": "Bosque de Quewiñas",
+                  "text": "Der Bosque de Quewiñas ist eine bemerkenswerte Attraktion in bo-sajama-nature-v2 mit alten, knorrigen Polylepis-Bäumen, die einen der höchstgelegenen Wälder der Welt bilden.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.892522,
+                        -18.113429
+                  ]
+            },
+            {
+                  "name": "Capilla Rosario",
+                  "text": "Die Capilla Rosario ist eine kleine christliche Kapelle in bo-sajama-nature-v2, die aus traditionellen lokalen Materialien erbaut wurde und einen ruhigen Ort der Anbetung in der rauen andinen Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.869531,
+                        -18.023719
+                  ]
+            },
+            {
+                  "name": "Doña Ines Thermal Waters Entrance",
+                  "text": "Der Eingang zu den Thermalquellen von Doña Ines in bo-sajama-nature-v2 bildet das Tor zu einer Reihe von therapeutischen, natürlichen Thermalbecken, die in die andine Landschaft eingebettet sind.",
+                  "category": "natural",
+                  "coords": [
+                        -68.960363,
+                        -18.088164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aguas Termales Privadas Doña Teodora",
+                  "text": "A Dona Teodora termálvíz bo-sajama-nature-v2 területén nyugtató természetes melegvizes medencékkel várja a látogatókat a hófödte andoki vulkánok lenyűgöző hátterében.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.973201,
+                        -18.085827
+                  ]
+            },
+            {
+                  "name": "Huisalla",
+                  "text": "A Huisalla feltűnő csúcsa bo-sajama-nature-v2 területén a magasan fekvő táj kiemelkedő eleme, amely széleskörű kilátást nyújt a zord Altiplanóra.",
+                  "category": "natural",
+                  "coords": [
+                        -68.944348,
+                        -18.117269
+                  ]
+            },
+            {
+                  "name": "Place of Peace",
+                  "text": "A Béke Helye egy nyugodt emlékmű bo-sajama-nature-v2 területén, amely csendesen áll a hatalmas fennsíkok között az elmélkedés szimbólumaként.",
+                  "category": "historical",
+                  "coords": [
+                        -68.946092,
+                        -18.137509
+                  ]
+            },
+            {
+                  "name": "Bosque de Quewiñas",
+                  "text": "A Bosque de Quewiñas egy figyelemre méltó látványosság bo-sajama-nature-v2 területén, amely ősi, göcsörtös Polylepis fákból áll, és a világ egyik legmagasabban fekvő erdejét alkotja.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.892522,
+                        -18.113429
+                  ]
+            },
+            {
+                  "name": "Capilla Rosario",
+                  "text": "A Capilla Rosario egy kis keresztény kápolna bo-sajama-nature-v2 területén, amely hagyományos helyi anyagokból épült, és csendes istentiszteleti helyet kínál a zord andoki környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.869531,
+                        -18.023719
+                  ]
+            },
+            {
+                  "name": "Doña Ines Thermal Waters Entrance",
+                  "text": "A Doña Ines termálvíz bejárata bo-sajama-nature-v2 területén a kaput jelenti a terápiás hatású, természetes melegvizes medencék sorozatához, amelyek az andoki tájban fészkelnek.",
+                  "category": "natural",
+                  "coords": [
+                        -68.960363,
+                        -18.088164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aguas Termales Privadas Doña Teodora",
+                  "text": "Apele termale Dona Teodora din bo-sajama-nature-v2 oferă vizitatorilor piscine naturale calde și relaxante, așezate pe fundalul uimitor al vulcanilor andini acoperiți de zăpadă.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.973201,
+                        -18.085827
+                  ]
+            },
+            {
+                  "name": "Huisalla",
+                  "text": "Vârful impresionant Huisalla din bo-sajama-nature-v2 este o trăsătură proeminentă a peisajului de mare altitudine, oferind vederi panoramice ale Altiplanului accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        -68.944348,
+                        -18.117269
+                  ]
+            },
+            {
+                  "name": "Place of Peace",
+                  "text": "Locul Păcii este un monument senin din bo-sajama-nature-v2, stând liniștit printre câmpiile vaste de mare altitudine ca un simbol al reflecției.",
+                  "category": "historical",
+                  "coords": [
+                        -68.946092,
+                        -18.137509
+                  ]
+            },
+            {
+                  "name": "Bosque de Quewiñas",
+                  "text": "Bosque de Quewiñas este o atracție remarcabilă din bo-sajama-nature-v2, prezentând copaci străvechi și noduroși de Polylepis care formează una dintre pădurile situate la cea mai mare altitudine din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.892522,
+                        -18.113429
+                  ]
+            },
+            {
+                  "name": "Capilla Rosario",
+                  "text": "Capilla Rosario este o mică capelă creștină din bo-sajama-nature-v2, construită din materiale locale tradiționale și oferind un loc liniștit de rugăciune în asprul mediu andin.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.869531,
+                        -18.023719
+                  ]
+            },
+            {
+                  "name": "Doña Ines Thermal Waters Entrance",
+                  "text": "Intrarea la apele termale Doña Ines din bo-sajama-nature-v2 marchează poarta către o serie de piscine naturale, terapeutice cu apă caldă, amplasate în peisajul andin.",
+                  "category": "natural",
+                  "coords": [
+                        -68.960363,
+                        -18.088164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dona Teodora thermal water's",
+                  "text": "Dona Teodora thermal water's in bo-sajama-nature-v2 provides visitors with soothing natural hot pools set against the stunning backdrop of snow-capped Andean volcanoes.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.973201,
+                        -18.085827
+                  ]
+            },
+            {
+                  "name": "Huisalla",
+                  "text": "The striking peak of Huisalla in bo-sajama-nature-v2 is a prominent feature of the high-altitude landscape, offering sweeping views of the rugged Altiplano.",
+                  "category": "natural",
+                  "coords": [
+                        -68.944348,
+                        -18.117269
+                  ]
+            },
+            {
+                  "name": "Place of Peace",
+                  "text": "The Place of Peace is a serene monument in bo-sajama-nature-v2, standing quietly amid the sweeping high-altitude plains as a symbol of reflection.",
+                  "category": "historical",
+                  "coords": [
+                        -68.946092,
+                        -18.137509
+                  ]
+            },
+            {
+                  "name": "Bosque de Quewiñas",
+                  "text": "The Bosque de Quewiñas is a remarkable attraction in bo-sajama-nature-v2, featuring ancient, gnarled Polylepis trees that form one of the highest-altitude forests in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.892522,
+                        -18.113429
+                  ]
+            },
+            {
+                  "name": "Capilla Rosario",
+                  "text": "Capilla Rosario is a small Christian chapel in bo-sajama-nature-v2, built from traditional local materials and offering a quiet place of worship in the harsh Andean environment.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.869531,
+                        -18.023719
+                  ]
+            },
+            {
+                  "name": "Doña Ines Thermal Waters Entrance",
+                  "text": "The Doña Ines Thermal Waters Entrance in bo-sajama-nature-v2 marks the gateway to a series of therapeutic, natural hot spring pools nestled in the Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -68.960363,
+                        -18.088164
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Der Sajama ist der höchste Berg Boliviens und ein erloschener Vulkan inmitten eines gleichnamigen Nationalparks.",
@@ -101,7 +623,376 @@ image: "/poi-images/bo-sajama-nature-v2.webp",
       fr: ["Situé sur le territoire de l'État plurinational de Bolivie.", "Niché entre la cordillère des Andes, l'Altiplano et les plaines orientales.", "Joue un rôle dans l'identité locale de la région.", "Reconnu pour son importance paysagère ou culturelle.", "Lié à l'héritage culturel des peuples Aymara et Quechua.", "Géré par les autorités et les communautés locales.", "Lié à la tradition de l'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bo-sajama-nature-v2.webp"},
   {
-    id: "bo-huayna-potosi-nature-v2",
+    id: "bo-huayna-potosi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ice climbing",
+                  "text": "Gelegen an den eisigen Hängen des hoch aufragenden Berges Huayna Potosí, fordert diese extreme Attraktion Bergsteiger heraus, steile, hochgelegene Gletschereiswände zu erklimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.137426,
+                        -16.279006
+                  ]
+            },
+            {
+                  "name": "Vista al Glaciar",
+                  "text": "Ein hochgelegener Aussichtspunkt mit Panoramablick auf den nahegelegenen Andengletscher.",
+                  "category": "natural",
+                  "coords": [
+                        -68.135282,
+                        -16.279018
+                  ]
+            },
+            {
+                  "name": "Huayna Potosí",
+                  "text": "Ein markanter, schneebedeckter Gipfel in der Cordillera Real, der über 6.000 Meter hoch ist und bei Bergsteigern sehr beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -68.154129,
+                        -16.262443
+                  ]
+            },
+            {
+                  "name": "Imilla Apachita",
+                  "text": "Ein hoch aufragender Berggipfel im zerklüfteten Gelände der Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.190049,
+                        -16.27839
+                  ]
+            },
+            {
+                  "name": "Saltuni",
+                  "text": "Ein bemerkenswerter Gipfel in der hochgelegenen Landschaft der bolivianischen Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -68.182501,
+                        -16.236696
+                  ]
+            },
+            {
+                  "name": "Qala Wathiyani",
+                  "text": "Ein felsiger Andenberg, dessen traditioneller Name tief in der lokalen Aymara-Sprache verwurzelt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -68.145401,
+                        -16.21907
+                  ]
+            },
+            {
+                  "name": "Kunturiri",
+                  "text": "Ein majestätischer Berggipfel in der Cordillera Real, benannt nach dem ikonischen Andenkondor.",
+                  "category": "natural",
+                  "coords": [
+                        -68.194724,
+                        -16.187254
+                  ]
+            },
+            {
+                  "name": "Ch'alla Willk'i",
+                  "text": "Ein imposanter Berggipfel, der durch seine karge, hochalpine Felsumgebung gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -68.17252,
+                        -16.184618
+                  ]
+            },
+            {
+                  "name": "Llamp'u",
+                  "text": "Ein bedeutender Andengipfel, der einen integralen Bestandteil der imposanten Skyline der Cordillera Real bildet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.093564,
+                        -16.201261
+                  ]
+            },
+            {
+                  "name": "Cerro Telata",
+                  "text": "Ein Berggipfel, der anspruchsvolles Gelände in den hochgelegenen bolivianischen Anden bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.087774,
+                        -16.254929
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ice climbing",
+                  "text": "A tornyosuló Huayna Potosí hegy fagyos lejtőin található extrém attrakció kihívás elé állítja a hegymászókat, hogy meredek, nagy magasságú gleccserfalakat másszanak meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.137426,
+                        -16.279006
+                  ]
+            },
+            {
+                  "name": "Vista al Glaciar",
+                  "text": "Magasan fekvő kilátóhely, ahonnan panorámás kilátás nyílik a közeli andoki gleccserre.",
+                  "category": "natural",
+                  "coords": [
+                        -68.135282,
+                        -16.279018
+                  ]
+            },
+            {
+                  "name": "Huayna Potosí",
+                  "text": "A Cordillera Real kiemelkedő, több mint 6000 méter magas hófedte csúcsa, amely híresen népszerű a hegymászók körében.",
+                  "category": "natural",
+                  "coords": [
+                        -68.154129,
+                        -16.262443
+                  ]
+            },
+            {
+                  "name": "Imilla Apachita",
+                  "text": "A Cordillera Real hegység zord terepén magasodó hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -68.190049,
+                        -16.27839
+                  ]
+            },
+            {
+                  "name": "Saltuni",
+                  "text": "Figyelemre méltó csúcs a bolíviai Andok magasan fekvő vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        -68.182501,
+                        -16.236696
+                  ]
+            },
+            {
+                  "name": "Qala Wathiyani",
+                  "text": "Sziklás andoki hegy, amelynek hagyományos neve mélyen gyökerezik a helyi aymara nyelvben.",
+                  "category": "natural",
+                  "coords": [
+                        -68.145401,
+                        -16.21907
+                  ]
+            },
+            {
+                  "name": "Kunturiri",
+                  "text": "A Cordillera Real fenséges hegycsúcsa, amelyet az ikonikus andoki kondorról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -68.194724,
+                        -16.187254
+                  ]
+            },
+            {
+                  "name": "Ch'alla Willk'i",
+                  "text": "Impozáns hegycsúcs, amelyet zord, magasan fekvő sziklás környezete jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -68.17252,
+                        -16.184618
+                  ]
+            },
+            {
+                  "name": "Llamp'u",
+                  "text": "Jelentős andoki csúcs, amely az impozáns Cordillera Real sziluettjének szerves részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -68.093564,
+                        -16.201261
+                  ]
+            },
+            {
+                  "name": "Cerro Telata",
+                  "text": "Hegyi csúcs, amely kihívást jelentő terepet kínál a magasan fekvő bolíviai Andokban.",
+                  "category": "natural",
+                  "coords": [
+                        -68.087774,
+                        -16.254929
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ice climbing",
+                  "text": "Situată pe versanții înghețați ai impunătorului munte Huayna Potosí, această atracție extremă provoacă alpiniștii să escaladeze pereți abrupți de gheață glaciară la mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.137426,
+                        -16.279006
+                  ]
+            },
+            {
+                  "name": "Vista al Glaciar",
+                  "text": "Un punct de belvedere la mare altitudine care oferă vederi panoramice ale ghețarului andin din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -68.135282,
+                        -16.279018
+                  ]
+            },
+            {
+                  "name": "Huayna Potosí",
+                  "text": "Un vârf proeminent acoperit de zăpadă din Cordillera Real, care atinge peste 6.000 de metri, renumit printre alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        -68.154129,
+                        -16.262443
+                  ]
+            },
+            {
+                  "name": "Imilla Apachita",
+                  "text": "Un vârf de munte falnic situat pe terenul accidentat al lanțului Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.190049,
+                        -16.27839
+                  ]
+            },
+            {
+                  "name": "Saltuni",
+                  "text": "Un vârf notabil situat în peisajul de mare altitudine al Anzilor bolivieni.",
+                  "category": "natural",
+                  "coords": [
+                        -68.182501,
+                        -16.236696
+                  ]
+            },
+            {
+                  "name": "Qala Wathiyani",
+                  "text": "Un munte stâncos andin al cărui nume tradițional este adânc înrădăcinat în limba locală aymara.",
+                  "category": "natural",
+                  "coords": [
+                        -68.145401,
+                        -16.21907
+                  ]
+            },
+            {
+                  "name": "Kunturiri",
+                  "text": "Un vârf de munte maiestuos din Cordillera Real, numit după legendarul condor andin.",
+                  "category": "natural",
+                  "coords": [
+                        -68.194724,
+                        -16.187254
+                  ]
+            },
+            {
+                  "name": "Ch'alla Willk'i",
+                  "text": "Un vârf de munte impunător caracterizat de mediul său stâncos auster, de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -68.17252,
+                        -16.184618
+                  ]
+            },
+            {
+                  "name": "Llamp'u",
+                  "text": "Un vârf andin semnificativ care formează o parte integrantă a orizontului impunător al Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.093564,
+                        -16.201261
+                  ]
+            },
+            {
+                  "name": "Cerro Telata",
+                  "text": "Un vârf muntos care oferă un teren plin de provocări în Anzii bolivieni de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -68.087774,
+                        -16.254929
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ice climbing",
+                  "text": "Set on the freezing slopes of the towering Huayna Potosí mountain, this extreme attraction challenges mountaineers to scale steep, high-altitude glacial ice walls.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.137426,
+                        -16.279006
+                  ]
+            },
+            {
+                  "name": "Vista al Glaciar",
+                  "text": "A high-altitude scenic viewpoint offering panoramic vistas of the nearby Andean glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -68.135282,
+                        -16.279018
+                  ]
+            },
+            {
+                  "name": "Huayna Potosí",
+                  "text": "A prominent snow-capped peak in the Cordillera Real reaching over 6,000 metres, famously popular with mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        -68.154129,
+                        -16.262443
+                  ]
+            },
+            {
+                  "name": "Imilla Apachita",
+                  "text": "A towering mountain peak situated in the rugged terrain of the Cordillera Real range.",
+                  "category": "natural",
+                  "coords": [
+                        -68.190049,
+                        -16.27839
+                  ]
+            },
+            {
+                  "name": "Saltuni",
+                  "text": "A notable peak located within the high-altitude landscape of the Bolivian Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -68.182501,
+                        -16.236696
+                  ]
+            },
+            {
+                  "name": "Qala Wathiyani",
+                  "text": "A rocky Andean mountain whose traditional name is deeply rooted in the local Aymara language.",
+                  "category": "natural",
+                  "coords": [
+                        -68.145401,
+                        -16.21907
+                  ]
+            },
+            {
+                  "name": "Kunturiri",
+                  "text": "A majestic mountain peak in the Cordillera Real, named after the iconic Andean condor.",
+                  "category": "natural",
+                  "coords": [
+                        -68.194724,
+                        -16.187254
+                  ]
+            },
+            {
+                  "name": "Ch'alla Willk'i",
+                  "text": "An imposing mountain peak characterized by its stark, high-altitude rocky environment.",
+                  "category": "natural",
+                  "coords": [
+                        -68.17252,
+                        -16.184618
+                  ]
+            },
+            {
+                  "name": "Llamp'u",
+                  "text": "A significant Andean peak that forms an integral part of the imposing Cordillera Real skyline.",
+                  "category": "natural",
+                  "coords": [
+                        -68.093564,
+                        -16.201261
+                  ]
+            },
+            {
+                  "name": "Tilata",
+                  "text": "A mountainous summit offering challenging terrain in the high-altitude Bolivian Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -68.087774,
+                        -16.254929
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Der Huayna Potosí ist einer der beliebtesten Sechstausender für Bergsteiger aufgrund seines relativ einfachen Zugangs von La Paz.",
@@ -150,7 +1041,196 @@ image: "/poi-images/bo-huayna-potosi-nature-v2.webp",
       fr: ["Situé sur le territoire de l'État plurinational de Bolivie.", "Nichée entre la cordillère des Andes, l'Altiplano et les basses terres de l'est.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Lié à l'héritage culturel des Aymaras et des Quechuas.", "Géré par les autorités et les communautés locales.", "Lié à la tradition de l'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bo-huayna-potosi-nature-v2.webp"},
   {
-    id: "bo-illampu-nature-v2",
+    id: "bo-illampu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ch'uxñani",
+                  "text": "Ein anerkannter Berggipfel in der Andenkette, der beeindruckende Ausblicke auf die Hochgebirgslandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.501667,
+                        -15.764481
+                  ]
+            },
+            {
+                  "name": "Llawi Imaña",
+                  "text": "Ein bemerkenswerter Andengipfel, der zur rauen und spektakulären Skyline des lokalen Gebirges beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -68.569721,
+                        -15.753089
+                  ]
+            },
+            {
+                  "name": "Qala Phusa",
+                  "text": "Dieser andine Berggipfel ist Teil der schroffen Cordillera Real in Bolivien.",
+                  "category": "natural",
+                  "coords": [
+                        -68.562108,
+                        -15.761636
+                  ]
+            },
+            {
+                  "name": "Wila Quta",
+                  "text": "Dieser in der Cordillera Real gelegene Andengipfel erhebt sich dramatisch über die bolivianische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -68.557503,
+                        -15.777801
+                  ]
+            },
+            {
+                  "name": "Illampu",
+                  "text": "Als einer der höchsten Gipfel der bolivianischen Anden ist dieser steile Berg ein markantes Merkmal der nördlichen Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.5433,
+                        -15.815994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ch'uxñani",
+                  "text": "Egy elismert hegycsúcs az Andok hegységben, amely lenyűgöző kilátást nyújt a magaslati tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -68.501667,
+                        -15.764481
+                  ]
+            },
+            {
+                  "name": "Llawi Imaña",
+                  "text": "Egy figyelemre méltó andoki csúcs, amely hozzájárul a helyi hegység zord és látványos sziluettjéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -68.569721,
+                        -15.753089
+                  ]
+            },
+            {
+                  "name": "Qala Phusa",
+                  "text": "Ez az andoki hegycsúcs a bolíviai Cordillera Real zord hegyláncának része.",
+                  "category": "natural",
+                  "coords": [
+                        -68.562108,
+                        -15.761636
+                  ]
+            },
+            {
+                  "name": "Wila Quta",
+                  "text": "A Cordillera Real területén található andoki hegycsúcs drámaian emelkedik a bolíviai táj fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -68.557503,
+                        -15.777801
+                  ]
+            },
+            {
+                  "name": "Illampu",
+                  "text": "A bolíviai Andok egyik legmagasabb csúcsaként ez a meredek hegy az északi Cordillera Real kiemelkedő vonása.",
+                  "category": "natural",
+                  "coords": [
+                        -68.5433,
+                        -15.815994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ch'uxñani",
+                  "text": "Un vârf montan recunoscut din lanțul Andin, oferind priveliști izbitoare asupra peisajului de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -68.501667,
+                        -15.764481
+                  ]
+            },
+            {
+                  "name": "Llawi Imaña",
+                  "text": "Un vârf andin notabil care contribuie la orizontul accidentat și spectaculos al lanțului muntos local.",
+                  "category": "natural",
+                  "coords": [
+                        -68.569721,
+                        -15.753089
+                  ]
+            },
+            {
+                  "name": "Qala Phusa",
+                  "text": "Acest vârf montan andin face parte din lanțul muntos accidentat Cordillera Real din Bolivia.",
+                  "category": "natural",
+                  "coords": [
+                        -68.562108,
+                        -15.761636
+                  ]
+            },
+            {
+                  "name": "Wila Quta",
+                  "text": "Situat în Cordillera Real, acest vârf montan andin se înalță spectaculos deasupra peisajului bolivian.",
+                  "category": "natural",
+                  "coords": [
+                        -68.557503,
+                        -15.777801
+                  ]
+            },
+            {
+                  "name": "Illampu",
+                  "text": "Fiind unul dintre cele mai înalte vârfuri din Anzii bolivieni, acest munte abrupt este o caracteristică proeminentă a nordului Cordillerei Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.5433,
+                        -15.815994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ch'uxñani",
+                  "text": "A recognized mountain peak in the Andean range, offering striking views of the high-altitude landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -68.501667,
+                        -15.764481
+                  ]
+            },
+            {
+                  "name": "Llawi Imaña",
+                  "text": "A notable Andean summit contributing to the rugged and spectacular skyline of the local mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -68.569721,
+                        -15.753089
+                  ]
+            },
+            {
+                  "name": "Qala Phusa",
+                  "text": "This Andean mountain peak forms part of the rugged Cordillera Real mountain range in Bolivia.",
+                  "category": "natural",
+                  "coords": [
+                        -68.562108,
+                        -15.761636
+                  ]
+            },
+            {
+                  "name": "Wila Quta",
+                  "text": "Situated in the Cordillera Real, this Andean mountain peak rises dramatically above the Bolivian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -68.557503,
+                        -15.777801
+                  ]
+            },
+            {
+                  "name": "Illampu",
+                  "text": "As one of the highest peaks in the Bolivian Andes, this steep mountain is a prominent feature of the northern Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.5433,
+                        -15.815994
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Der Illampu ist einer der mächtigsten und technisch anspruchsvollsten Gipfel in der Cordillera Real.",
@@ -199,7 +1279,232 @@ image: "/poi-images/bo-illampu-nature-v2.webp",
       fr: ["Situé sur le territoire de l'État plurinational de Bolivie.", "Nichée entre la cordillère des Andes, l'Altiplano et les basses terres de l'est.", "Joue un rôle dans l'identité locale de la région.", "Connu pour son importance paysagère ou culturelle.", "Lié à l'héritage culturel des Aymaras et des Quechuas.", "Géré par les autorités et les communautés locales.", "Lié à la tradition de l'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bo-illampu-nature-v2.webp"},
   {
-    id: "bo-ancohuma-nature-v2",
+    id: "bo-ancohuma-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Titisani",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen weiten Panoramablick auf die umliegenden schroffen Andengipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -68.583555,
+                        -15.808598
+                  ]
+            },
+            {
+                  "name": "Ancohuma",
+                  "text": "Dieser massive, vergletscherte Gipfel, der als dritthöchster Berg Boliviens bekannt ist, dominiert die Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.540834,
+                        -15.85414
+                  ]
+            },
+            {
+                  "name": "Ch'iyar Qullu",
+                  "text": "Der Aymara-Name dieses schroffen Andengipfels in der Cordillera Real bedeutet übersetzt „schwarzer Berg“.",
+                  "category": "natural",
+                  "coords": [
+                        -68.58226,
+                        -15.857736
+                  ]
+            },
+            {
+                  "name": "Quña Quñani",
+                  "text": "Dieser hoch aufragende Berggipfel ist ein markantes Naturmerkmal innerhalb der spektakulären Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.567781,
+                        -15.904195
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Laguna San Francisco",
+                  "text": "Dieses natürliche Thermalwasser lädt Besucher ein, sich in den heißen Quellen neben einer hochgelegenen Andenlagune zu entspannen.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.532577,
+                        -15.927302
+                  ]
+            },
+            {
+                  "name": "P'iq'iñ Qullu",
+                  "text": "Dieser von alten tektonischen Kräften geformte Andengipfel ist ein markantes Merkmal in der Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.594392,
+                        -15.813192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Titisani",
+                  "text": "Ez a festői kilátó lenyűgöző panorámát nyújt a környező zord andoki csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        -68.583555,
+                        -15.808598
+                  ]
+            },
+            {
+                  "name": "Ancohuma",
+                  "text": "A Bolívia harmadik legmagasabb hegyeként ismert hatalmas, eljegesedett csúcs uralja a Cordillera Realt.",
+                  "category": "natural",
+                  "coords": [
+                        -68.540834,
+                        -15.85414
+                  ]
+            },
+            {
+                  "name": "Ch'iyar Qullu",
+                  "text": "A Cordillera Realban található zord andoki csúcs aymara neve „fekete hegyet” jelent.",
+                  "category": "natural",
+                  "coords": [
+                        -68.58226,
+                        -15.857736
+                  ]
+            },
+            {
+                  "name": "Quña Quñani",
+                  "text": "Ez a magasba tornyosuló hegycsúcs a látványos Cordillera Real hegylánc kiemelkedő természeti képződménye.",
+                  "category": "natural",
+                  "coords": [
+                        -68.567781,
+                        -15.904195
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Laguna San Francisco",
+                  "text": "Ezek a természetes termálvizek arra csábítják a látogatókat, hogy megpihenjenek egy magasan fekvő andoki lagúna melletti hőforrásokban.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.532577,
+                        -15.927302
+                  ]
+            },
+            {
+                  "name": "P'iq'iñ Qullu",
+                  "text": "Az ősi tektonikus erők által formált andoki hegycsúcs a Cordillera Real egyik lenyűgöző vonása.",
+                  "category": "natural",
+                  "coords": [
+                        -68.594392,
+                        -15.813192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Titisani",
+                  "text": "Acest punct de belvedere pitoresc oferă panorame vaste asupra vârfurilor andine accidentate din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -68.583555,
+                        -15.808598
+                  ]
+            },
+            {
+                  "name": "Ancohuma",
+                  "text": "Recunoscut ca fiind al treilea cel mai înalt munte din Bolivia, acest masiv vârf glaciar domină Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.540834,
+                        -15.85414
+                  ]
+            },
+            {
+                  "name": "Ch'iyar Qullu",
+                  "text": "Situat în Cordillera Real, numele aymara al acestui vârf andin accidentat se traduce prin „muntele negru”.",
+                  "category": "natural",
+                  "coords": [
+                        -68.58226,
+                        -15.857736
+                  ]
+            },
+            {
+                  "name": "Quña Quñani",
+                  "text": "Acest vârf montan impunător este o caracteristică naturală proeminentă în cadrul spectaculosului lanț muntos Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.567781,
+                        -15.904195
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Laguna San Francisco",
+                  "text": "Aceste ape termale naturale invită vizitatorii să se relaxeze în izvoare fierbinți lângă o lagună andină de mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.532577,
+                        -15.927302
+                  ]
+            },
+            {
+                  "name": "P'iq'iñ Qullu",
+                  "text": "Format de forțele tectonice antice, acest vârf montan andin este o caracteristică marcantă în Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.594392,
+                        -15.813192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Titisani",
+                  "text": "This scenic viewpoint offers sweeping panoramic vistas of the surrounding rugged Andean peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -68.583555,
+                        -15.808598
+                  ]
+            },
+            {
+                  "name": "Ancohuma",
+                  "text": "Recognized as the third highest mountain in Bolivia, this massive glaciated peak dominates the Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.540834,
+                        -15.85414
+                  ]
+            },
+            {
+                  "name": "Ch'iyar Qullu",
+                  "text": "Situated in the Cordillera Real, this rugged Andean peak's Aymara name translates to \"black mountain\".",
+                  "category": "natural",
+                  "coords": [
+                        -68.58226,
+                        -15.857736
+                  ]
+            },
+            {
+                  "name": "Quña Quñani",
+                  "text": "This towering mountain peak is a prominent natural feature within the spectacular Cordillera Real range.",
+                  "category": "natural",
+                  "coords": [
+                        -68.567781,
+                        -15.904195
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Laguna San Francisco",
+                  "text": "These natural thermal waters invite visitors to relax in natural hot springs beside a high-altitude Andean lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.532577,
+                        -15.927302
+                  ]
+            },
+            {
+                  "name": "P'iq'iñ Qullu",
+                  "text": "Formed by ancient tectonic forces, this Andean mountain peak stands as a stark feature in the Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.594392,
+                        -15.813192
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Der Ancohuma ist der zweithöchste Berg der Cordillera Real und besticht durch seine ausgedehnten Gletscherflächen.",
@@ -248,7 +1553,196 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["Situé sur le territoire de l'État plurinational de Bolivie.", "Niché entre la cordillère des Andes, l'Altiplano et les plaines orientales.", "Joue un rôle dans l'identité locale de la région.", "Réputé pour son importance paysagère ou culturelle.", "Lié à l'héritage culturel des Aymaras et des Quechuas.", "Géré par les autorités et les communautés locales.", "Associé à la tradition d'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bo-ancohuma-nature-v2.webp"},
   {
-    id: "bo-licancabur-nature-v2",
+    id: "bo-licancabur-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punto de Aceso al Camino a la Cumbre del Volcán Licancabur",
+                  "text": "Diese Sehenswürdigkeit markiert den Ausgangspunkt für Wanderer, die sich auf die rauen Pfade des Vulkans Licancabur begeben.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.854594,
+                        -22.828681
+                  ]
+            },
+            {
+                  "name": "Cráter del Volcan Licancabur",
+                  "text": "Dieser hochgelegene Aussichtspunkt bietet einen direkten Blick in den massiven Krater des ruhenden Vulkans Licancabur.",
+                  "category": "natural",
+                  "coords": [
+                        -67.882559,
+                        -22.833136
+                  ]
+            },
+            {
+                  "name": "Ruinas Incas Tata Maico Licanco",
+                  "text": "Die Inka-Ruinen Tata Maico Licanco sind eine archäologische Stätte, die alte Steinstrukturen an den vulkanischen Hängen freilegt.",
+                  "category": "historical",
+                  "coords": [
+                        -67.904627,
+                        -22.815535
+                  ]
+            },
+            {
+                  "name": "Cerro Chaxas",
+                  "text": "Der Cerro Chaxas ist ein markanter Gipfel, der sich hoch inmitten der dramatischen Hochwüstenlandschaft erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.966753,
+                        -22.792865
+                  ]
+            },
+            {
+                  "name": "Ruinas Incas",
+                  "text": "Diese Inka-Ruinen bestehen aus historischen Steinmauern, die über das raue Gelände der Anden verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        -67.856786,
+                        -22.832137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punto de Aceso al Camino a la Cumbre del Volcán Licancabur",
+                  "text": "Ez a látványosság a kiindulópontot jelzi a Licancabur vulkán zord ösvényeire induló túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.854594,
+                        -22.828681
+                  ]
+            },
+            {
+                  "name": "Cráter del Volcan Licancabur",
+                  "text": "Ez a magashegyi kilátó egyenesen a szunnyadó Licancabur vulkán hatalmas kráterébe nyújt betekintést.",
+                  "category": "natural",
+                  "coords": [
+                        -67.882559,
+                        -22.833136
+                  ]
+            },
+            {
+                  "name": "Ruinas Incas Tata Maico Licanco",
+                  "text": "A Tata Maico Licanco inka romok egy régészeti lelőhely, amely ősi kőépítményeket tár fel a vulkán lejtőin.",
+                  "category": "historical",
+                  "coords": [
+                        -67.904627,
+                        -22.815535
+                  ]
+            },
+            {
+                  "name": "Cerro Chaxas",
+                  "text": "A Cerro Chaxas egy figyelemre méltó csúcs, amely magasan emelkedik a drámai magas sivatagi táj közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -67.966753,
+                        -22.792865
+                  ]
+            },
+            {
+                  "name": "Ruinas Incas",
+                  "text": "Ezek az inka romok történelmi kőfalakból állnak, amelyek a zord andoki terepen szóródtak szét.",
+                  "category": "historical",
+                  "coords": [
+                        -67.856786,
+                        -22.832137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punto de Aceso al Camino a la Cumbre del Volcán Licancabur",
+                  "text": "Această atracție marchează punctul de plecare pentru drumeții care se aventurează pe traseele accidentate ale Vulcanului Licancabur.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.854594,
+                        -22.828681
+                  ]
+            },
+            {
+                  "name": "Cráter del Volcan Licancabur",
+                  "text": "Acest punct de belvedere de la mare altitudine privește direct în craterul masiv al vulcanului adormit Licancabur.",
+                  "category": "natural",
+                  "coords": [
+                        -67.882559,
+                        -22.833136
+                  ]
+            },
+            {
+                  "name": "Ruinas Incas Tata Maico Licanco",
+                  "text": "Ruinele incașe Tata Maico Licanco sunt un sit arheologic ce dezvăluie structuri antice de piatră pe pantele vulcanice.",
+                  "category": "historical",
+                  "coords": [
+                        -67.904627,
+                        -22.815535
+                  ]
+            },
+            {
+                  "name": "Cerro Chaxas",
+                  "text": "Cerro Chaxas este un vârf remarcabil care stă impunător în mijlocul peisajului dramatic al deșertului înalt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.966753,
+                        -22.792865
+                  ]
+            },
+            {
+                  "name": "Ruinas Incas",
+                  "text": "Aceste ruine incașe constau în ziduri istorice de piatră împrăștiate pe terenul accidentat din Anzi.",
+                  "category": "historical",
+                  "coords": [
+                        -67.856786,
+                        -22.832137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Access point to the Licancabur Volcano's trail",
+                  "text": "This attraction marks the starting point for hikers venturing onto the rugged trails of the Licancabur Volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.854594,
+                        -22.828681
+                  ]
+            },
+            {
+                  "name": "Cráter del Volcan Licancabur",
+                  "text": "This high-altitude viewpoint looks directly into the massive crater of the dormant Licancabur Volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -67.882559,
+                        -22.833136
+                  ]
+            },
+            {
+                  "name": "Ruinas Incas Tata Maico Licanco",
+                  "text": "The Tata Maico Licanco Inca Ruins are an archaeological site revealing ancient stone structures on the volcanic slopes.",
+                  "category": "historical",
+                  "coords": [
+                        -67.904627,
+                        -22.815535
+                  ]
+            },
+            {
+                  "name": "Cerro Chaxas",
+                  "text": "Cerro Chaxas is a notable peak standing tall amidst the dramatic surrounding high-desert landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -67.966753,
+                        -22.792865
+                  ]
+            },
+            {
+                  "name": "Ruinas Incas",
+                  "text": "These Inca ruins consist of historic stone walls scattered across the rugged Andean terrain.",
+                  "category": "historical",
+                  "coords": [
+                        -67.856786,
+                        -22.832137
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-S",
     coords: [-67.881, -22.833],
@@ -295,7 +1789,196 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["Le sommet est situé à une altitude de 5 916 mètres.", "Le lac de cratère ne gèle jamais complètement malgré le froid extrême, en raison de la chaleur volcanique résiduelle.", "Des scientifiques de la NASA ont étudié le lac pour simuler les conditions sur Mars au début de son histoire.", "Des ruines incas sur le bord du cratère attestent de l'ascension de la montagne il y a plusieurs siècles."],
     }, image: "/poi-images/bo-licancabur-nature-v2.webp"},
   {
-    id: "bo-chacaltaya-nature-v2",
+    id: "bo-chacaltaya-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Ch'iyar Qirini",
+                  "text": "Ein zerklüfteter Andengipfel, dessen indigener Name sich auf seine markanten dunklen Felsformationen bezieht.",
+                  "category": "natural",
+                  "coords": [
+                        -68.115695,
+                        -16.34125
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Eine erhöhte Aussichtsplattform, die weitreichende Ausblicke auf die dramatischen Gebirgszüge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.128702,
+                        -16.346735
+                  ]
+            },
+            {
+                  "name": "Chacaltaya",
+                  "text": "Ein berühmter Berggipfel, auf dem sich vor dem Rückzug seines Gletschers eines der höchsten Skigebiete der Welt befand.",
+                  "category": "natural",
+                  "coords": [
+                        -68.127012,
+                        -16.349529
+                  ]
+            },
+            {
+                  "name": "Alto Milluni Sign",
+                  "text": "Ein markantes Schild, das den Eingang zur hochgelegenen Siedlung Alto Milluni markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.173163,
+                        -16.396462
+                  ]
+            },
+            {
+                  "name": "Wila Kunka Pata",
+                  "text": "Eine hoch aufragende Bergerhebung inmitten der dramatischen Gipfel der Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.210986,
+                        -16.300898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Ch'iyar Qirini",
+                  "text": "Zord andoki csúcs, amelynek őslakos neve a jellegzetes sötét sziklaalakzataira utal.",
+                  "category": "natural",
+                  "coords": [
+                        -68.115695,
+                        -16.34125
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Megemelt kilátóterasz, amely kiterjedt kilátást nyújt a drámai hegyvonulatokra.",
+                  "category": "natural",
+                  "coords": [
+                        -68.128702,
+                        -16.346735
+                  ]
+            },
+            {
+                  "name": "Chacaltaya",
+                  "text": "Híres hegycsúcs, amely egykor a világ egyik legmagasabban fekvő síközpontjának adott otthont, mielőtt gleccsere visszahúzódott volna.",
+                  "category": "natural",
+                  "coords": [
+                        -68.127012,
+                        -16.349529
+                  ]
+            },
+            {
+                  "name": "Alto Milluni Sign",
+                  "text": "Jellegzetes jelzőtábla, amely a magasan fekvő Alto Milluni település bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.173163,
+                        -16.396462
+                  ]
+            },
+            {
+                  "name": "Wila Kunka Pata",
+                  "text": "A Cordillera Real drámai csúcsai között elhelyezkedő magasodó hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -68.210986,
+                        -16.300898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Ch'iyar Qirini",
+                  "text": "Un vârf andin accidentat al cărui nume indigen se referă la trăsăturile sale stâncoase întunecate distincte.",
+                  "category": "natural",
+                  "coords": [
+                        -68.115695,
+                        -16.34125
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "O platformă de observare ridicată care oferă priveliști vaste ale lanțurilor muntoase spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        -68.128702,
+                        -16.346735
+                  ]
+            },
+            {
+                  "name": "Chacaltaya",
+                  "text": "Un vârf de munte celebru care a găzduit cândva una dintre cele mai înalte stațiuni de schi din lume, înainte de retragerea ghețarului său.",
+                  "category": "natural",
+                  "coords": [
+                        -68.127012,
+                        -16.349529
+                  ]
+            },
+            {
+                  "name": "Alto Milluni Sign",
+                  "text": "Un semn distinctiv care marchează intrarea în așezarea de mare altitudine Alto Milluni.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.173163,
+                        -16.396462
+                  ]
+            },
+            {
+                  "name": "Wila Kunka Pata",
+                  "text": "O elevație montană falnică situată printre vârfurile dramatice din Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.210986,
+                        -16.300898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Ch'iyar Qirini",
+                  "text": "A rugged Andean peak whose indigenous name refers to its distinctively dark rocky features.",
+                  "category": "natural",
+                  "coords": [
+                        -68.115695,
+                        -16.34125
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "An elevated viewing platform that provides expansive sights of the dramatic mountain ranges.",
+                  "category": "natural",
+                  "coords": [
+                        -68.128702,
+                        -16.346735
+                  ]
+            },
+            {
+                  "name": "Chacaltaya",
+                  "text": "A famous mountain peak that was once home to one of the world's highest ski resorts before its glacier retreated.",
+                  "category": "natural",
+                  "coords": [
+                        -68.127012,
+                        -16.349529
+                  ]
+            },
+            {
+                  "name": "Alto Milluni Sign",
+                  "text": "A distinctive landmark sign marking the entrance to the high-altitude settlement of Alto Milluni.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.173163,
+                        -16.396462
+                  ]
+            },
+            {
+                  "name": "Wila Kunka Pata",
+                  "text": "A towering mountain elevation situated among the dramatic peaks of the Cordillera Real.",
+                  "category": "natural",
+                  "coords": [
+                        -68.210986,
+                        -16.300898
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-L",
     coords: [-68.166, -16.345],
@@ -342,7 +2025,268 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["Le sommet se situe à 5 421 mètres d'altitude.", "La station de ski détenait le record du monde de la station de remontée la plus haute (5 395 m).", "Le glacier était âgé de plus de 18 000 ans avant de fondre en quelques décennies.", "Un site important pour la recherche scientifique sur l'atmosphère et l'astrophysique."],
     }, image: "/poi-images/bo-chacaltaya-nature-v2.webp"},
   {
-    id: "bo-cerro-rico-nature-v2",
+    id: "bo-cerro-rico-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "T'ula Qullu",
+                  "text": "T'ula Qullu ist ein andiner Berggipfel, der markant im zerklüfteten hochalpinen Gelände von Potosí aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        -65.766752,
+                        -19.677572
+                  ]
+            },
+            {
+                  "name": "Q'illu Q'asa",
+                  "text": "Dieser Andengipfel weist die für das bolivianische Hochland charakteristischen rauen, felsigen Hänge auf.",
+                  "category": "natural",
+                  "coords": [
+                        -65.681446,
+                        -19.66769
+                  ]
+            },
+            {
+                  "name": "Illimani",
+                  "text": "Der Illimani ist ein markanter Berggipfel in der hochgelegenen Landschaft des Departements Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.664444,
+                        -19.633461
+                  ]
+            },
+            {
+                  "name": "Wak'ani",
+                  "text": "Der Wak'ani-Gipfel ist Teil des imposanten Berglandes der Region Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.674445,
+                        -19.619829
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Pailaviri",
+                  "text": "Dieses im Bergbaugebiet gelegene Theatergebäude bot einst filmische Unterhaltung für die örtlichen Arbeiter.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.743448,
+                        -19.605012
+                  ]
+            },
+            {
+                  "name": "Cerro Rico",
+                  "text": "Der Cerro Rico ist ein weltberühmter, denkmalgeschützter Berg, der für seine immensen historischen Silbervorkommen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749781,
+                        -19.619437
+                  ]
+            },
+            {
+                  "name": "Mirador Mojon Punta",
+                  "text": "Von diesem bergigen Aussichtspunkt aus können Besucher den Blick über das weite, hochgelegene Gelände rund um Potosí schweifen lassen.",
+                  "category": "natural",
+                  "coords": [
+                        -65.750535,
+                        -19.605434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "T'ula Qullu",
+                  "text": "A T'ula Qullu egy andoki hegycsúcs, amely kiemelkedően magasodik Potosí zord, nagy tengerszint feletti magasságú terepén.",
+                  "category": "natural",
+                  "coords": [
+                        -65.766752,
+                        -19.677572
+                  ]
+            },
+            {
+                  "name": "Q'illu Q'asa",
+                  "text": "Ezen az andoki csúcson a bolíviai fennsíkra jellemző zord, sziklás lejtők találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        -65.681446,
+                        -19.66769
+                  ]
+            },
+            {
+                  "name": "Illimani",
+                  "text": "Az Illimani egy jelentős hegycsúcs, amely Potosí megye magasan fekvő táján helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        -65.664444,
+                        -19.633461
+                  ]
+            },
+            {
+                  "name": "Wak'ani",
+                  "text": "A Wak'ani csúcs a Potosí régió impozáns hegyvidéki terepének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -65.674445,
+                        -19.619829
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Pailaviri",
+                  "text": "A bányászati területen található színházépület egykor filmes szórakozást nyújtott a helyi munkásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.743448,
+                        -19.605012
+                  ]
+            },
+            {
+                  "name": "Cerro Rico",
+                  "text": "A Cerro Rico egy világhírű, műemlékvédelem alatt álló hegy, amely hatalmas történelmi ezüstlelőhelyeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749781,
+                        -19.619437
+                  ]
+            },
+            {
+                  "name": "Mirador Mojon Punta",
+                  "text": "Ebből a hegyvidéki kilátóból a látogatók végigtekinthetnek a Potosít körülvevő kiterjedt, magasan fekvő terepen.",
+                  "category": "natural",
+                  "coords": [
+                        -65.750535,
+                        -19.605434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "T'ula Qullu",
+                  "text": "T'ula Qullu este un vârf montan andin care se înalță proeminent în terenul accidentat de mare altitudine din Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.766752,
+                        -19.677572
+                  ]
+            },
+            {
+                  "name": "Q'illu Q'asa",
+                  "text": "Acest vârf andin prezintă pantele stâncoase și aspre caracteristice înălțimilor boliviene.",
+                  "category": "natural",
+                  "coords": [
+                        -65.681446,
+                        -19.66769
+                  ]
+            },
+            {
+                  "name": "Illimani",
+                  "text": "Illimani este un vârf montan notabil situat în peisajul de mare altitudine al departamentului Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.664444,
+                        -19.633461
+                  ]
+            },
+            {
+                  "name": "Wak'ani",
+                  "text": "Vârful Wak'ani face parte din terenul muntos impunător al regiunii Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.674445,
+                        -19.619829
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Pailaviri",
+                  "text": "Situată în zona minieră, această clădire de teatru a oferit cândva divertisment cinematografic pentru muncitorii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.743448,
+                        -19.605012
+                  ]
+            },
+            {
+                  "name": "Cerro Rico",
+                  "text": "Cerro Rico este un munte de faimă mondială, clasat în patrimoniu, renumit pentru imensele sale zăcăminte istorice de argint.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749781,
+                        -19.619437
+                  ]
+            },
+            {
+                  "name": "Mirador Mojon Punta",
+                  "text": "Din acest punct de belvedere montan, vizitatorii pot privi spre terenul vast, de mare altitudine, care înconjoară Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.750535,
+                        -19.605434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "T'ula Qullu",
+                  "text": "T'ula Qullu is an Andean mountain peak rising prominently in the rugged high-altitude terrain of Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.766752,
+                        -19.677572
+                  ]
+            },
+            {
+                  "name": "Q'illu Q'asa",
+                  "text": "This Andean peak features the harsh, rocky slopes characteristic of the Bolivian highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -65.681446,
+                        -19.66769
+                  ]
+            },
+            {
+                  "name": "Illimani",
+                  "text": "Illimani is a notable mountain peak situated in the high-altitude landscape of the Potosí Department.",
+                  "category": "natural",
+                  "coords": [
+                        -65.664444,
+                        -19.633461
+                  ]
+            },
+            {
+                  "name": "Wak'ani",
+                  "text": "The Wak'ani peak forms part of the imposing mountainous terrain of the Potosí region.",
+                  "category": "natural",
+                  "coords": [
+                        -65.674445,
+                        -19.619829
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Pailaviri",
+                  "text": "Located in the mining area, this theatre building once provided cinematic entertainment for the local workers.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.743448,
+                        -19.605012
+                  ]
+            },
+            {
+                  "name": "Cerro Rico",
+                  "text": "Cerro Rico is a world-famous, heritage-listed mountain renowned for its immense historical silver deposits.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.749781,
+                        -19.619437
+                  ]
+            },
+            {
+                  "name": "Mirador Mojon Punta",
+                  "text": "From this mountainous viewpoint, visitors can gaze out over the sweeping, high-altitude terrain surrounding Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -65.750535,
+                        -19.605434
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-S",
     coords: [-65.755, -19.617],
@@ -389,7 +2333,52 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["Le sommet de la montagne culmine à une altitude de 4 824 mètres.", "On estime que plus de 5 000 kilomètres de galeries parcourent l'intérieur du mont.", "Les mines et la ville de Potosí sont inscrites au patrimoine mondial de l'UNESCO.", "Dans les galeries, les mineurs vénèrent 'El Tio', le seigneur du monde souterrain."],
     }, image: "/poi-images/bo-cerro-rico-nature-v2.webp"},
   {
-    id: "bo-uturuncu-nature-v2",
+    id: "bo-uturuncu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laguna Celeste",
+                  "text": "Ein leuchtend türkisfarbener Hochgebirgssee am Fuße des Vulkans Uturuncu.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.106787,
+                        -22.213041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laguna Celeste",
+                  "text": "Ragyogó türkizkék hegyi tó az Uturuncu-vulkán lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.106787,
+                        -22.213041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laguna Celeste",
+                  "text": "Un lac alpin de culoare turcoaz strălucitor la poalele vulcanului Uturuncu.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.106787,
+                        -22.213041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blue Lagoon",
+                  "text": "A bright turquoise alpine lake situated at the foot of the Uturuncu volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.106787,
+                        -22.213041
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-S",
     coords: [-67.186, -22.261],
@@ -436,7 +2425,664 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["À 6 008 mètres, c'est le seul 'six mille' de l'extrême sud bolivien.", "Le nom vient du quechua et signifie 'jaguar'.", "Des fumerolles actives émettant des gaz soufrés se trouvent près du sommet.", "La dernière éruption majeure a eu lieu il y a environ 250 000 ans."],
     }, image: "/poi-images/bo-uturuncu-nature-v2.webp"},
   {
-    id: "bo-cerro-tunari-nature-v2",
+    id: "bo-cerro-tunari-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yana Qaqa",
+                  "text": "Yana Qaqa ist ein weltweit bekannter Berggipfel, der die Landschaft von Cerro Tunari dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        -66.423313,
+                        -17.348931
+                  ]
+            },
+            {
+                  "name": "Qiñwani",
+                  "text": "Qiñwani ist ein markanter und weithin anerkannter Berggipfel im Naturschutzgebiet Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.426687,
+                        -17.337873
+                  ]
+            },
+            {
+                  "name": "Phullu Punchu",
+                  "text": "Der Phullu Punchu ist ein bemerkenswerter Berggipfel, der für seine Höhe in der Gebirgskette des Cerro Tunari bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -66.424775,
+                        -17.29729
+                  ]
+            },
+            {
+                  "name": "Tunari",
+                  "text": "Der Pico Tunari ist der weltweit bekannte Berggipfel, der das Naturschutzgebiet Cerro Tunari prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -66.393301,
+                        -17.286471
+                  ]
+            },
+            {
+                  "name": "Wayna Tunari",
+                  "text": "Der Wayna Tunari ist ein weithin bekannter Gipfel, der zum schroffen Bergland des Cerro Tunari gehört.",
+                  "category": "natural",
+                  "coords": [
+                        -66.404159,
+                        -17.26617
+                  ]
+            },
+            {
+                  "name": "El Tobogan",
+                  "text": "El Tobogan ist ein malerischer Aussichtspunkt, der weite Blicke auf die Naturregion Cerro Tunari bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -66.381359,
+                        -17.281925
+                  ]
+            },
+            {
+                  "name": "Puma Apachita",
+                  "text": "Der Puma Apachita ist ein bekannter Berggipfel in den Höhenlagen des Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.427639,
+                        -17.213696
+                  ]
+            },
+            {
+                  "name": "Tawa Cruz",
+                  "text": "Tawa Cruz ist ein Gedenkmonument in der Berglandschaft des Cerro Tunari.",
+                  "category": "historical",
+                  "coords": [
+                        -66.397495,
+                        -17.24359
+                  ]
+            },
+            {
+                  "name": "Cerro Pirhuata",
+                  "text": "Der Cerro Pirhuata ist ein weltweit bekannter Berggipfel, der zur dramatischen Skyline des Cerro Tunari beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -66.399277,
+                        -17.213396
+                  ]
+            },
+            {
+                  "name": "Qina Qina",
+                  "text": "Qina Qina ist ein markanter Berggipfel im Gebiet des Cerro Tunari, der in globalen Datenbanken verzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -66.397231,
+                        -17.222534
+                  ]
+            },
+            {
+                  "name": "Janq'u Qala",
+                  "text": "Janq'u Qala ist ein markanter Berggipfel in der Andenregion von Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -66.376828,
+                        -17.23398
+                  ]
+            },
+            {
+                  "name": "Wari Warini",
+                  "text": "Wari Warini ist ein malerischer Andengipfel in der Region Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.357497,
+                        -17.225319
+                  ]
+            },
+            {
+                  "name": "T'ula Jayani Apachita",
+                  "text": "T'ula Jayani Apachita ist ein Andengipfel, der durch sein raues, hochalpines Gelände gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -66.312514,
+                        -17.255591
+                  ]
+            },
+            {
+                  "name": "Molino 1",
+                  "text": "Molino 1 ist eine historische lokale Mühlenattraktion inmitten der Naturlandschaft der Region Tunari.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.332562,
+                        -17.344941
+                  ]
+            },
+            {
+                  "name": "Cascada Pairumani",
+                  "text": "Cascada Pairumani ist ein malerischer natürlicher Wasserfall in der waldreichen Landschaft von Pairumani.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.336802,
+                        -17.335354
+                  ]
+            },
+            {
+                  "name": "Jukumarini",
+                  "text": "Jukumarini ist ein markanter Berggipfel, der sich über die Täler des Departements Cochabamba erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -66.352811,
+                        -17.345974
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturístico Pairumani",
+                  "text": "Der Parque Ecoturístico Pairumani ist ein Ökotourismus-Park, der schattige Naturpfade am Fuße des Tunari-Gebirges bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331942,
+                        -17.342399
+                  ]
+            },
+            {
+                  "name": "Planta Generadora",
+                  "text": "Die Planta Generadora ist ein historisches Kraftwerk inmitten der bergigen Umgebung des Cerro Tunari.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331983,
+                        -17.344017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yana Qaqa",
+                  "text": "A Yana Qaqa egy világszerte ismert hegycsúcs, amely a Cerro Tunari táját uralja.",
+                  "category": "natural",
+                  "coords": [
+                        -66.423313,
+                        -17.348931
+                  ]
+            },
+            {
+                  "name": "Qiñwani",
+                  "text": "A Qiñwani egy kiemelkedő és széles körben ismert hegycsúcs a Cerro Tunari természetvédelmi területen.",
+                  "category": "natural",
+                  "coords": [
+                        -66.426687,
+                        -17.337873
+                  ]
+            },
+            {
+                  "name": "Phullu Punchu",
+                  "text": "A Phullu Punchu egy figyelemre méltó hegycsúcs, amely a Cerro Tunari hegységben való magasságáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -66.424775,
+                        -17.29729
+                  ]
+            },
+            {
+                  "name": "Tunari",
+                  "text": "A Pico Tunari az a világszerte kiemelkedő hegycsúcs, amely meghatározza a Cerro Tunari természetvédelmi területet.",
+                  "category": "natural",
+                  "coords": [
+                        -66.393301,
+                        -17.286471
+                  ]
+            },
+            {
+                  "name": "Wayna Tunari",
+                  "text": "A Wayna Tunari egy széles körben elismert hegycsúcs, amely hozzájárul a Cerro Tunari zord hegyvidéki domborzatához.",
+                  "category": "natural",
+                  "coords": [
+                        -66.404159,
+                        -17.26617
+                  ]
+            },
+            {
+                  "name": "El Tobogan",
+                  "text": "Az El Tobogan egy festői kilátó, amely panorámás kilátást nyújt a Cerro Tunari természeti régióra.",
+                  "category": "natural",
+                  "coords": [
+                        -66.381359,
+                        -17.281925
+                  ]
+            },
+            {
+                  "name": "Puma Apachita",
+                  "text": "A Puma Apachita egy jól ismert hegycsúcs, amely a Cerro Tunari magaslataiban található.",
+                  "category": "natural",
+                  "coords": [
+                        -66.427639,
+                        -17.213696
+                  ]
+            },
+            {
+                  "name": "Tawa Cruz",
+                  "text": "A Tawa Cruz egy emlékemlékmű, amelyet a Cerro Tunari hegyvidéki táján emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        -66.397495,
+                        -17.24359
+                  ]
+            },
+            {
+                  "name": "Cerro Pirhuata",
+                  "text": "A Cerro Pirhuata egy világszerte ismert hegycsúcs, amely a Cerro Tunari drámai látképét gazdagítja.",
+                  "category": "natural",
+                  "coords": [
+                        -66.399277,
+                        -17.213396
+                  ]
+            },
+            {
+                  "name": "Qina Qina",
+                  "text": "A Qina Qina egy kiemelkedő, globális adatbázisokban is számon tartott hegycsúcs a Cerro Tunari térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -66.397231,
+                        -17.222534
+                  ]
+            },
+            {
+                  "name": "Janq'u Qala",
+                  "text": "A Janq'u Qala egy kiemelkedő hegycsúcs a cochabambai Andok régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -66.376828,
+                        -17.23398
+                  ]
+            },
+            {
+                  "name": "Wari Warini",
+                  "text": "A Wari Warini egy festői andoki hegycsúcs a Tunari régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -66.357497,
+                        -17.225319
+                  ]
+            },
+            {
+                  "name": "T'ula Jayani Apachita",
+                  "text": "A T'ula Jayani Apachita egy andoki hegycsúcs, amelyet zord, nagy magasságú terep jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -66.312514,
+                        -17.255591
+                  ]
+            },
+            {
+                  "name": "Molino 1",
+                  "text": "A Molino 1 egy történelmi helyi malomlátványosság a Tunari régió természeti tájain.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.332562,
+                        -17.344941
+                  ]
+            },
+            {
+                  "name": "Cascada Pairumani",
+                  "text": "A Cascada Pairumani egy festői természetes vízesés a fás Pairumani tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.336802,
+                        -17.335354
+                  ]
+            },
+            {
+                  "name": "Jukumarini",
+                  "text": "A Jukumarini egy jellegzetes hegycsúcs, amely Cochabamba megye völgyei fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -66.352811,
+                        -17.345974
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturístico Pairumani",
+                  "text": "A Parque Ecoturístico Pairumani egy ökoturisztikai park, amely árnyékos tanösvényeket kínál a Tunari-hegység lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331942,
+                        -17.342399
+                  ]
+            },
+            {
+                  "name": "Planta Generadora",
+                  "text": "A Planta Generadora egy történelmi erőmű, amely a Cerro Tunari hegyvidéki környezetében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331983,
+                        -17.344017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yana Qaqa",
+                  "text": "Yana Qaqa este un vârf de munte cunoscut la nivel mondial, care domină peisajul din Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.423313,
+                        -17.348931
+                  ]
+            },
+            {
+                  "name": "Qiñwani",
+                  "text": "Qiñwani este un vârf de munte proeminent și recunoscut pe scară largă în zona naturală Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.426687,
+                        -17.337873
+                  ]
+            },
+            {
+                  "name": "Phullu Punchu",
+                  "text": "Phullu Punchu este un vârf de munte remarcabil, recunoscut pentru altitudinea sa în lanțul muntos Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.424775,
+                        -17.29729
+                  ]
+            },
+            {
+                  "name": "Tunari",
+                  "text": "Pico Tunari este vârful de munte proeminent la nivel mondial, care definește rezervația naturală Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.393301,
+                        -17.286471
+                  ]
+            },
+            {
+                  "name": "Wayna Tunari",
+                  "text": "Wayna Tunari este un vârf muntos recunoscut la scară largă, care contribuie la terenul muntos accidentat din Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.404159,
+                        -17.26617
+                  ]
+            },
+            {
+                  "name": "El Tobogan",
+                  "text": "El Tobogan este un punct de belvedere pitoresc care oferă o priveliște vastă asupra regiunii naturale Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.381359,
+                        -17.281925
+                  ]
+            },
+            {
+                  "name": "Puma Apachita",
+                  "text": "Puma Apachita este un vârf de munte bine cunoscut situat la marile altitudini din Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.427639,
+                        -17.213696
+                  ]
+            },
+            {
+                  "name": "Tawa Cruz",
+                  "text": "Tawa Cruz este un monument comemorativ ridicat în peisajul muntos din Cerro Tunari.",
+                  "category": "historical",
+                  "coords": [
+                        -66.397495,
+                        -17.24359
+                  ]
+            },
+            {
+                  "name": "Cerro Pirhuata",
+                  "text": "Cerro Pirhuata este un vârf de munte remarcabil la nivel mondial, care se adaugă la orizontul dramatic din Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.399277,
+                        -17.213396
+                  ]
+            },
+            {
+                  "name": "Qina Qina",
+                  "text": "Qina Qina este un vârf de munte proeminent renumit în bazele de date globale din zona Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.397231,
+                        -17.222534
+                  ]
+            },
+            {
+                  "name": "Janq'u Qala",
+                  "text": "Janq'u Qala este un vârf montan proeminent situat în regiunea andină Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -66.376828,
+                        -17.23398
+                  ]
+            },
+            {
+                  "name": "Wari Warini",
+                  "text": "Wari Warini este un vârf montan pitoresc din Anzi, situat în regiunea Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.357497,
+                        -17.225319
+                  ]
+            },
+            {
+                  "name": "T'ula Jayani Apachita",
+                  "text": "T'ula Jayani Apachita este un vârf montan din Anzi, caracterizat prin terenul său accidentat de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -66.312514,
+                        -17.255591
+                  ]
+            },
+            {
+                  "name": "Molino 1",
+                  "text": "Molino 1 este o atracție istorică locală, o moară situată în peisajele naturale ale zonei Tunari.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.332562,
+                        -17.344941
+                  ]
+            },
+            {
+                  "name": "Cascada Pairumani",
+                  "text": "Cascada Pairumani este o cascadă naturală pitorească cuibărită în peisajul împădurit din Pairumani.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.336802,
+                        -17.335354
+                  ]
+            },
+            {
+                  "name": "Jukumarini",
+                  "text": "Jukumarini este un vârf montan distins care se înalță deasupra văilor din Departamentul Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -66.352811,
+                        -17.345974
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturístico Pairumani",
+                  "text": "Parque Ecoturístico Pairumani este un parc ecoturistic care oferă trasee naturale umbrite la poalele lanțului muntos Tunari.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331942,
+                        -17.342399
+                  ]
+            },
+            {
+                  "name": "Planta Generadora",
+                  "text": "Planta Generadora este o centrală electrică istorică situată în mijlocul împrejurimilor muntoase ale Cerro Tunari.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331983,
+                        -17.344017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yana Qaqa",
+                  "text": "Yana Qaqa is a globally known mountain peak dominating the landscape of Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.423313,
+                        -17.348931
+                  ]
+            },
+            {
+                  "name": "Qiñwani",
+                  "text": "Qiñwani is a prominent and widely recognized mountain peak in the Cerro Tunari nature area.",
+                  "category": "natural",
+                  "coords": [
+                        -66.426687,
+                        -17.337873
+                  ]
+            },
+            {
+                  "name": "Phullu Punchu",
+                  "text": "Phullu Punchu stands as a notable mountain peak recognized for its elevation in the Cerro Tunari range.",
+                  "category": "natural",
+                  "coords": [
+                        -66.424775,
+                        -17.29729
+                  ]
+            },
+            {
+                  "name": "Pico Tunari",
+                  "text": "Pico Tunari is the globally prominent mountain peak that defines the Cerro Tunari nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -66.393301,
+                        -17.286471
+                  ]
+            },
+            {
+                  "name": "Wayna Tunari",
+                  "text": "Wayna Tunari is a widely recognized peak contributing to the rugged mountainous terrain of Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.404159,
+                        -17.26617
+                  ]
+            },
+            {
+                  "name": "El Tobogan",
+                  "text": "El Tobogan is a scenic viewpoint offering sweeping views of the Cerro Tunari nature region.",
+                  "category": "natural",
+                  "coords": [
+                        -66.381359,
+                        -17.281925
+                  ]
+            },
+            {
+                  "name": "Puma Apachita",
+                  "text": "Puma Apachita is a well-known mountain peak situated in the high altitudes of Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.427639,
+                        -17.213696
+                  ]
+            },
+            {
+                  "name": "Tawa Cruz",
+                  "text": "Tawa Cruz is a commemorative monument erected in the mountainous landscape of Cerro Tunari.",
+                  "category": "historical",
+                  "coords": [
+                        -66.397495,
+                        -17.24359
+                  ]
+            },
+            {
+                  "name": "Cerro Pirhuata",
+                  "text": "Cerro Pirhuata is a globally notable mountain peak adding to the dramatic skyline of Cerro Tunari.",
+                  "category": "natural",
+                  "coords": [
+                        -66.399277,
+                        -17.213396
+                  ]
+            },
+            {
+                  "name": "Qina Qina",
+                  "text": "Qina Qina is a prominent mountain peak renowned in global databases within the Cerro Tunari area.",
+                  "category": "natural",
+                  "coords": [
+                        -66.397231,
+                        -17.222534
+                  ]
+            },
+            {
+                  "name": "Janq'u Qala",
+                  "text": "Janq'u Qala is a prominent mountain peak located in the Andean region of Cochabamba.",
+                  "category": "natural",
+                  "coords": [
+                        -66.376828,
+                        -17.23398
+                  ]
+            },
+            {
+                  "name": "Wari Warini",
+                  "text": "Wari Warini is a scenic Andean mountain peak situated in the Tunari region.",
+                  "category": "natural",
+                  "coords": [
+                        -66.357497,
+                        -17.225319
+                  ]
+            },
+            {
+                  "name": "T'ula Jayani Apachita",
+                  "text": "T'ula Jayani Apachita is an Andean mountain peak characterized by its rugged high-altitude terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -66.312514,
+                        -17.255591
+                  ]
+            },
+            {
+                  "name": "Molino 1",
+                  "text": "Molino 1 is a historic local mill attraction set within the natural landscapes of the Tunari area.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.332562,
+                        -17.344941
+                  ]
+            },
+            {
+                  "name": "Cascada Pairumani",
+                  "text": "Cascada Pairumani is a picturesque natural waterfall nestled in the wooded Pairumani landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.336802,
+                        -17.335354
+                  ]
+            },
+            {
+                  "name": "Jukumarini",
+                  "text": "Jukumarini is a distinguished mountain peak rising above the valleys of the Cochabamba Department.",
+                  "category": "natural",
+                  "coords": [
+                        -66.352811,
+                        -17.345974
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturístico Pairumani",
+                  "text": "Parque Ecoturístico Pairumani is an ecotourism park offering shaded nature trails at the foot of the Tunari mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331942,
+                        -17.342399
+                  ]
+            },
+            {
+                  "name": "Planta Generadora",
+                  "text": "Planta Generadora is a historic power generation plant situated amidst the mountainous surroundings of Cerro Tunari.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.331983,
+                        -17.344017
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-C",
     coords: [-66.388, -17.288],
@@ -483,7 +3129,52 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["Le sommet atteint une altitude de 5 035 mètres.", "Le parc national Tunari couvre une superficie de plus de 300 000 hectares.", "On y trouve les dernières populations d'arbres protégés Kewiña (Polylepis).", "En hiver, le sommet est souvent enneigé, ce qui offre un contraste saisissant avec la vallée verdoyante."],
     }, image: "/poi-images/bo-cerro-tunari-nature-v2.webp"},
   {
-    id: "bo-salar-de-uyuni-nature-v2",
+    id: "bo-salar-de-uyuni-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salar de Uyuni",
+                  "text": "Die größte Salzwüste der Welt, berühmt für ihre endlose weiße Ebene und den Spiegeleffekt bei Regen.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.606298,
+                        -20.205353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salar de Uyuni",
+                  "text": "A világ legnagyobb sósivataga, amely végtelen fehér síkságáról és eső utáni tükörhatásáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.606298,
+                        -20.205353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salar de Uyuni",
+                  "text": "Cea mai mare câmpie de sare din lume, faimoasă pentru câmpia albă nesfârșită și efectul de oglindă după ploaie.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.606298,
+                        -20.205353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salar de Uyuni",
+                  "text": "The world's largest salt flat, famous for its endless white plain and the mirror effect after rain.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.606298,
+                        -20.205353
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BO-S",
     coords: [-67.620, -20.133],
@@ -577,7 +3268,124 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["Avec une superficie d'environ 8 370 km², c'est le plus grand lac d'Amérique du Sud.", "Le point le plus profond du lac se situe à environ 281 mètres.", "La température de l'eau est constante entre 10 et 14 degrés tout au long de l'année.", "Il abrite la grenouille géante du Titicaca, une espèce en danger d'extinction."],
     }, image: "/poi-images/bo-lake-titicaca-nature-v2.webp"},
   {
-    id: "bo-laguna-colorada-nature-v2",
+    id: "bo-laguna-colorada-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Laguna Colorada",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über das lebhaft gefärbte, rötliche Wasser der andinen Hochlandlagune.",
+                  "category": "natural",
+                  "coords": [
+                        -67.804566,
+                        -22.170407
+                  ]
+            },
+            {
+                  "name": "Mirador de Flamencos",
+                  "text": "Diese Aussichtsplattform ist perfekt positioniert, um die Schwärme wilder Flamingos beim Waten im flachen, mineralreichen See zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -67.798617,
+                        -22.215714
+                  ]
+            },
+            {
+                  "name": "Laguna Colorada",
+                  "text": "Dieser flache Salzsee liegt auf über 4.200 Metern Höhe und ist berühmt für seine markante, durch Algen verursachte blutrote Färbung.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.774092,
+                        -22.20173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Laguna Colorada",
+                  "text": "Ez a kilátó lenyűgöző panorámát nyújt a magaslati andoki lagúna élénk, vöröses színű vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -67.804566,
+                        -22.170407
+                  ]
+            },
+            {
+                  "name": "Mirador de Flamencos",
+                  "text": "Ez a kilátóterasz tökéletes helyen fekszik ahhoz, hogy megfigyeljük a sekély, ásványi anyagokban gazdag tóban gázoló vad flamingórajokat.",
+                  "category": "natural",
+                  "coords": [
+                        -67.798617,
+                        -22.215714
+                  ]
+            },
+            {
+                  "name": "Laguna Colorada",
+                  "text": "A több mint 4200 méteres magasságban fekvő sekély sóstó az algák által okozott jellegzetes vérvörös színéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.774092,
+                        -22.20173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Laguna Colorada",
+                  "text": "Acest punct de belvedere oferă vederi panoramice ample asupra apelor roșiatice, viu colorate, ale lagunei andine aflate la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -67.804566,
+                        -22.170407
+                  ]
+            },
+            {
+                  "name": "Mirador de Flamencos",
+                  "text": "Această platformă de observație este perfect poziționată pentru a privi stolurile de păsări flamingo sălbatice care se plimbă prin lacul puțin adânc și bogat în minerale.",
+                  "category": "natural",
+                  "coords": [
+                        -67.798617,
+                        -22.215714
+                  ]
+            },
+            {
+                  "name": "Laguna Colorada",
+                  "text": "Situat la o altitudine de peste 4.200 de metri, acest lac sărat puțin adânc este renumit pentru culoarea sa distinctă roșu-sângerie cauzată de alge.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.774092,
+                        -22.20173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Red Lake - Belvedere",
+                  "text": "This lookout provides sweeping panoramic views over the vividly colored, reddish waters of the high Andean lagoon.",
+                  "category": "natural",
+                  "coords": [
+                        -67.804566,
+                        -22.170407
+                  ]
+            },
+            {
+                  "name": "Mirador de Flamencos",
+                  "text": "This observation deck is perfectly positioned to watch the flocks of wild flamingos wading in the shallow, mineral-rich lake.",
+                  "category": "natural",
+                  "coords": [
+                        -67.798617,
+                        -22.215714
+                  ]
+            },
+            {
+                  "name": "Laguna Colorada",
+                  "text": "Situated at an elevation of over 4,200 meters, this shallow salt lake is famous for its distinct blood-red coloration caused by algae.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.774092,
+                        -22.20173
+                  ]
+            }
+      ]
+},
     description: "Lélegzetelállító vörös lagúna a magas-Andokban, flamingók otthona.",
     facts: [
       "Magas-Andok",
@@ -630,7 +3438,196 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["La lagune est située à 4 278 mètres et n'a qu'une profondeur moyenne de 35 à 50 centimètres.", "Trois espèces différentes de flamants peuvent y être observées simultanément.", "La coloration rouge est la plus intense en début d'après-midi par vent fort.", "Le lac fait partie d'un important site RAMSAR pour la protection des oiseaux d'eau."],
     }, image: "/poi-images/bo-laguna-colorada-nature-v2.webp"},
   {
-    id: "bo-laguna-verde-nature-v2",
+    id: "bo-laguna-verde-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de la Laguna Verde",
+                  "text": "Dieser spezifische Aussichtspunkt bietet einen perfekten Blickwinkel, um das smaragdgrüne Wasser der Laguna Verde einzufangen.",
+                  "category": "natural",
+                  "coords": [
+                        -67.818459,
+                        -22.787862
+                  ]
+            },
+            {
+                  "name": "Mirador Noroeste Laguna Blanca",
+                  "text": "Dieser nach Nordwesten ausgerichtete Aussichtspunkt ermöglicht den Besuchern den Blick über die blassen, von Salz gesäumten Weiten der Laguna Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -67.802807,
+                        -22.780823
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Blanca y los volcanes",
+                  "text": "Dieser Panorama-Aussichtspunkt stellt die weißen Ufer der Laguna Blanca den hoch aufragenden Silhouetten der nahegelegenen Vulkane gegenüber.",
+                  "category": "natural",
+                  "coords": [
+                        -67.777347,
+                        -22.798483
+                  ]
+            },
+            {
+                  "name": "Laguna Verde",
+                  "text": "Die Laguna Verde ist ein berühmter hochgelegener Salzsee, der sich durch seine intensive, mineralhaltige grüne Farbe am Fuße des Vulkans Licancabur auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.835748,
+                        -22.794613
+                  ]
+            },
+            {
+                  "name": "Terma Laguna Blanca",
+                  "text": "Diese öffentliche Badeanstalt nutzt das natürliche Thermalwasser, das in der Nähe der Ufer der Laguna Blanca entspringt.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.802615,
+                        -22.782711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de la Laguna Verde",
+                  "text": "Ez a különleges kilátó tökéletes pontot biztosít a Laguna Verde smaragdzöld vizének megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        -67.818459,
+                        -22.787862
+                  ]
+            },
+            {
+                  "name": "Mirador Noroeste Laguna Blanca",
+                  "text": "Az északnyugatra fekvő kilátó lehetővé teszi a látogatók számára, hogy végigtekintsenek a Laguna Blanca halvány, sóval szegélyezett síkságán.",
+                  "category": "natural",
+                  "coords": [
+                        -67.802807,
+                        -22.780823
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Blanca y los volcanes",
+                  "text": "Ez a panorámás kilátó a Laguna Blanca fehér partjait és a közeli vulkánok magasodó sziluettjeit mutatja be együtt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.777347,
+                        -22.798483
+                  ]
+            },
+            {
+                  "name": "Laguna Verde",
+                  "text": "A Laguna Verde egy híres magashegyi sóstó, amely a Licancabur vulkán lábánál fekszik, és intenzív, ásványi anyagokkal telt zöld színéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.835748,
+                        -22.794613
+                  ]
+            },
+            {
+                  "name": "Terma Laguna Blanca",
+                  "text": "Ez a nyilvános fürdőlétesítmény a Laguna Blanca partjainak közelében feltörő természetes termálvizeket hasznosítja.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.802615,
+                        -22.782711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de la Laguna Verde",
+                  "text": "Acest punct specific de belvedere oferă un unghi perfect pentru a admira apele de smarald ale Laguna Verde.",
+                  "category": "natural",
+                  "coords": [
+                        -67.818459,
+                        -22.787862
+                  ]
+            },
+            {
+                  "name": "Mirador Noroeste Laguna Blanca",
+                  "text": "Poziționat la nord-vest, acest punct de belvedere le permite vizitatorilor să privească spre întinderile palide, cu inele de sare, ale Lagunei Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -67.802807,
+                        -22.780823
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Blanca y los volcanes",
+                  "text": "Acest punct de belvedere panoramic aduce laolaltă țărmurile albe ale Laguna Blanca și siluetele impunătoare ale vulcanilor din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -67.777347,
+                        -22.798483
+                  ]
+            },
+            {
+                  "name": "Laguna Verde",
+                  "text": "Laguna Verde este un celebru lac sărat de mare altitudine, care se distinge prin culoarea sa verde intensă, infuzată cu minerale, la poalele vulcanului Licancabur.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.835748,
+                        -22.794613
+                  ]
+            },
+            {
+                  "name": "Terma Laguna Blanca",
+                  "text": "Această baie publică utilizează apele termale naturale ce ies la suprafață în apropierea țărmurilor Lagunei Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.802615,
+                        -22.782711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de la Laguna Verde",
+                  "text": "This specific viewpoint provides a perfect vantage point for capturing the emerald waters of Laguna Verde.",
+                  "category": "natural",
+                  "coords": [
+                        -67.818459,
+                        -22.787862
+                  ]
+            },
+            {
+                  "name": "Mirador Noroeste Laguna Blanca",
+                  "text": "Positioned to the northwest, this viewpoint allows visitors to look out across the pale, salt-ringed expanses of Laguna Blanca.",
+                  "category": "natural",
+                  "coords": [
+                        -67.802807,
+                        -22.780823
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Blanca y los volcanes",
+                  "text": "This panoramic viewpoint juxtaposes the white shores of Laguna Blanca with the towering silhouettes of nearby volcanoes.",
+                  "category": "natural",
+                  "coords": [
+                        -67.777347,
+                        -22.798483
+                  ]
+            },
+            {
+                  "name": "Laguna Verde",
+                  "text": "Laguna Verde is a famous high-altitude salt lake distinguished by its intense, mineral-infused green color at the foot of Licancabur volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.835748,
+                        -22.794613
+                  ]
+            },
+            {
+                  "name": "Terma Laguna Blanca",
+                  "text": "This public bath facility utilizes natural thermal waters emerging near the shores of Laguna Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.802615,
+                        -22.782711
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BO-S",
     coords: [-67.808, -22.795],
@@ -677,7 +3674,88 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["Le lac est situé à une altitude d'environ 4 300 mètres au-dessus du niveau de la mer.", "En raison des minéraux toxiques, il n'y a aucune vie animale dans le lac.", "La couleur du lac est la plus intense lorsque le vent se lève l'après-midi.", "Il est relié par un canal étroit à la Laguna Blanca voisine."],
     }, image: "/poi-images/bo-laguna-verde-nature-v2.webp"},
   {
-    id: "bo-laguna-blanca-nature-v2",
+    id: "bo-laguna-blanca-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Sur Laguna Blanca",
+                  "text": "Von seiner südlichen Position aus bietet dieser Aussichtspunkt eine weite Perspektive über das mineralreiche weiße Wasser des Sees.",
+                  "category": "natural",
+                  "coords": [
+                        -67.785858,
+                        -22.821854
+                  ]
+            },
+            {
+                  "name": "Laguna Blanca",
+                  "text": "Die Laguna Blanca ist ein bekannter endorheischer Salzsee mit einer markanten blassen Oberfläche, die durch suspendierte Borax-Mineralien verursacht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.791807,
+                        -22.802863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Sur Laguna Blanca",
+                  "text": "Déli elhelyezkedéséből fakadóan ez a kilátó széles perspektívát kínál a tó ásványi anyagokban gazdag, fehér vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -67.785858,
+                        -22.821854
+                  ]
+            },
+            {
+                  "name": "Laguna Blanca",
+                  "text": "A Laguna Blanca egy jelentős lefolyástalan sóstó, amelynek jellegzetes sápadt felszínét a lebegő bórax ásványok okozzák.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.791807,
+                        -22.802863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Sur Laguna Blanca",
+                  "text": "Din poziția sa sudică, acest punct de belvedere oferă o perspectivă amplă asupra apelor albe bogate în minerale ale lacului.",
+                  "category": "natural",
+                  "coords": [
+                        -67.785858,
+                        -22.821854
+                  ]
+            },
+            {
+                  "name": "Laguna Blanca",
+                  "text": "Laguna Blanca este un lac sărat endoreic notabil, cu o suprafață palidă distinctă, cauzată de mineralele de borax suspendate.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.791807,
+                        -22.802863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Sur Laguna Blanca",
+                  "text": "From its southern position, this viewpoint offers a sweeping perspective over the mineral-rich white waters of the lake.",
+                  "category": "natural",
+                  "coords": [
+                        -67.785858,
+                        -22.821854
+                  ]
+            },
+            {
+                  "name": "Laguna Blanca",
+                  "text": "Laguna Blanca is a notable endorheic salt lake with a distinctive pale surface caused by suspended borax minerals.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.791807,
+                        -22.802863
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BO-S",
     coords: [-67.808, -22.810],
@@ -912,7 +3990,376 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["La longueur totale du fleuve est d'environ 1 100 kilomètres.", "L'Angosto del Bala est l'un des passages les plus étroits et impressionnants du cours d'eau.", "Le fleuve est la voie de transport majeure pour les produits de la forêt tropicale septentrionale.", "Il est considéré comme l'un des réseaux fluviaux les plus riches en biodiversité au monde."],
     }, image: "/poi-images/bo-beni-river-nature-v2.webp"},
   {
-    id: "bo-madre-de-dios-river-nature-v2",
+    id: "bo-madre-de-dios-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Planta Electrica Usina El Palmar",
+                  "text": "Dieses industrielle Kraftwerk spielt eine entscheidende Rolle bei der Stromversorgung der Gemeinden entlang des Flusses Madre de Dios.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.053413,
+                        -10.997687
+                  ]
+            },
+            {
+                  "name": "Monumento al Pacahuara",
+                  "text": "Ein markantes Denkmal in der Region Riberalta zu Ehren des indigenen Volkes der Pacahuara und ihrer tiefen Verwurzelung im Amazonasbecken.",
+                  "category": "historical",
+                  "coords": [
+                        -66.045315,
+                        -11.005328
+                  ]
+            },
+            {
+                  "name": "Monumento a la Castaña",
+                  "text": "Eine skulpturale Hommage an die Paranussindustrie, die die entscheidende wirtschaftliche Rolle der wilden Kastanienernte im bolivianischen Amazonasgebiet feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -66.080146,
+                        -11.002367
+                  ]
+            },
+            {
+                  "name": "Puerto Capitanía",
+                  "text": "Ein belebtes Flusshafengebäude, wo Boote auf den Flüssen Madre de Dios und Beni navigieren und das als wichtiger Verkehrsknotenpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.07258,
+                        -10.994606
+                  ]
+            },
+            {
+                  "name": "Monumento a la Mujer",
+                  "text": "Dieses städtische Denkmal ist eine Hommage an die widerstandsfähigen Frauen des bolivianischen Amazonasgebiets und steht stolz als öffentliches kulturelles Symbol.",
+                  "category": "historical",
+                  "coords": [
+                        -66.06285,
+                        -10.999708
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein modernes Versammlungshaus der Heiligen der Letzten Tage aus Backstein, das einen Ort für christliche Gemeindegottesdienste in der tropischen Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.048844,
+                        -11.021083
+                  ]
+            },
+            {
+                  "name": "Königreichssaal Jehovas Zeugen",
+                  "text": "Ein schlicht gestalteter Königreichssaal, der als lokales Gottesdienstzentrum und Einrichtung für biblische Bildung der Zeugen Jehovas in der Umgebung dient.",
+                  "category": "religious",
+                  "coords": [
+                        -66.076248,
+                        -11.003128
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten, die Sabbatgottesdienste und kommunale Unterstützungsprogramme für die Anwohner im amazonischen Klima anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.064061,
+                        -11.003454
+                  ]
+            },
+            {
+                  "name": "Mercado Riberalta",
+                  "text": "Ein großer, belebter Markt im Amazonasgebiet in Riberalta, der eine Fülle an tropischen Früchten, frisch gefangenem Flussfisch und geernteten Paranüssen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.077754,
+                        -11.000246
+                  ]
+            },
+            {
+                  "name": "Mercado San José",
+                  "text": "Dieser Viertelmarkt bietet dem lokalen Bezirk San José täglichen Zugang zu frischem Fleisch, regionalem Gemüse und wichtigen Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.064804,
+                        -11.000268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Planta Electrica Usina El Palmar",
+                  "text": "Ez az ipari erőmű létfontosságú szerepet játszik a Madre de Dios folyó menti közösségek villamosenergia-ellátásában.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.053413,
+                        -10.997687
+                  ]
+            },
+            {
+                  "name": "Monumento al Pacahuara",
+                  "text": "A Riberalta régióban található kiemelkedő emlékmű a bennszülött pacahuara nép és az Amazonas medencéjében gyökerező múltjuk előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -66.045315,
+                        -11.005328
+                  ]
+            },
+            {
+                  "name": "Monumento a la Castaña",
+                  "text": "A brazil dió ipara előtti szobrászati tisztelgés, amely a vadgesztenye-betakarítás döntő gazdasági szerepét ünnepli a bolíviai Amazonasban.",
+                  "category": "historical",
+                  "coords": [
+                        -66.080146,
+                        -11.002367
+                  ]
+            },
+            {
+                  "name": "Puerto Capitanía",
+                  "text": "Egy nyüzsgő folyami kikötőépület, ahol a csónakok a Madre de Dios és a Beni folyókon navigálnak, fontos közlekedési csomópontként szolgálva.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.07258,
+                        -10.994606
+                  ]
+            },
+            {
+                  "name": "Monumento a la Mujer",
+                  "text": "Ez a városi emlékmű a bolíviai Amazonas ellenálló női előtt tiszteleg, és büszkén áll mint nyilvános kulturális szimbólum.",
+                  "category": "historical",
+                  "coords": [
+                        -66.06285,
+                        -10.999708
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek modern, téglaépítésű gyülekezeti háza, amely helyet ad a keresztény gyülekezeti istentiszteleteknek a trópusi városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.048844,
+                        -11.021083
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Egy szerény kialakítású Királyság-terem, amely a környék Jehova Tanúinak helyi istentiszteleti és bibliaoktatási központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -66.076248,
+                        -11.003128
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "A Hetednapi Adventista Egyház, amely szombati istentiszteleteket és közösségi támogató programokat kínál a helyi lakosok számára az amazóniai éghajlaton.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.064061,
+                        -11.003454
+                  ]
+            },
+            {
+                  "name": "Mercado Riberalta",
+                  "text": "Egy nagy, nyüzsgő amazóniai piac Riberaltában, amely bőségesen kínál trópusi gyümölcsöket, frissen fogott folyami halakat és betakarított brazil diót.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.077754,
+                        -11.000246
+                  ]
+            },
+            {
+                  "name": "Mercado San José",
+                  "text": "Ez a környékbeli piac napi szinten biztosít friss húst, regionális zöldségeket és alapvető háztartási cikkeket a helyi San José negyed számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.064804,
+                        -11.000268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Planta Electrica Usina El Palmar",
+                  "text": "Această centrală electrică industrială joacă un rol crucial în furnizarea de energie electrică comunităților de-a lungul râului Madre de Dios.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.053413,
+                        -10.997687
+                  ]
+            },
+            {
+                  "name": "Monumento al Pacahuara",
+                  "text": "Un monument proeminent din regiunea Riberalta care onorează populația indigenă Pacahuara și rădăcinile lor adânci în bazinul Amazonului.",
+                  "category": "historical",
+                  "coords": [
+                        -66.045315,
+                        -11.005328
+                  ]
+            },
+            {
+                  "name": "Monumento a la Castaña",
+                  "text": "Un tribut sculptural adus industriei nucilor de Brazilia, sărbătorind rolul economic crucial al recoltării de castane sălbatice în Amazonul bolivian.",
+                  "category": "historical",
+                  "coords": [
+                        -66.080146,
+                        -11.002367
+                  ]
+            },
+            {
+                  "name": "Puerto Capitanía",
+                  "text": "O clădire aglomerată a portului fluvial, unde bărcile navighează pe râurile Madre de Dios și Beni, servind ca un nod de transport vital.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.07258,
+                        -10.994606
+                  ]
+            },
+            {
+                  "name": "Monumento a la Mujer",
+                  "text": "Acest monument civic aduce un omagiu femeilor reziliente din Amazonul bolivian, stând cu mândrie ca un simbol cultural public.",
+                  "category": "historical",
+                  "coords": [
+                        -66.06285,
+                        -10.999708
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri modernă din cărămidă a Sfinților din Zilele din Urmă, oferind un loc pentru închinarea congregațională creștină în orașul tropical.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.048844,
+                        -11.021083
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului cu un design modest, servind ca centru local de cult și unitate de educație biblică pentru Martorii lui Iehova din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        -66.076248,
+                        -11.003128
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "O biserică Adventistă de Ziua a Șaptea care oferă servicii de cult de Sabat și programe de sprijin comunitar pentru rezidenții locali în climatul amazonian.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.064061,
+                        -11.003454
+                  ]
+            },
+            {
+                  "name": "Mercado Riberalta",
+                  "text": "O piață amazoniană mare și plină de viață din Riberalta, care oferă o abundență de fructe tropicale, pește proaspăt de râu și nuci de Brazilia recoltate.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.077754,
+                        -11.000246
+                  ]
+            },
+            {
+                  "name": "Mercado San José",
+                  "text": "Această piață de cartier oferă districtului local San José acces zilnic la carne proaspătă, legume regionale și articole de uz casnic esențiale.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.064804,
+                        -11.000268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Planta Electrica Usina El Palmar",
+                  "text": "This industrial power plant facility plays a crucial role in providing electricity to the communities along the Madre de Dios River.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.053413,
+                        -10.997687
+                  ]
+            },
+            {
+                  "name": "Monumento al Pacahuara",
+                  "text": "A prominent monument in the Riberalta region honoring the indigenous Pacahuara people and their deep roots in the Amazon basin.",
+                  "category": "historical",
+                  "coords": [
+                        -66.045315,
+                        -11.005328
+                  ]
+            },
+            {
+                  "name": "Monumento a la Castaña",
+                  "text": "A sculptural tribute to the Brazil nut industry, celebrating the crucial economic role of wild chestnut harvesting in the Bolivian Amazon.",
+                  "category": "historical",
+                  "coords": [
+                        -66.080146,
+                        -11.002367
+                  ]
+            },
+            {
+                  "name": "Puerto Capitanía",
+                  "text": "A bustling riverine port building where boats navigate the Madre de Dios and Beni rivers, serving as a vital transport hub.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.07258,
+                        -10.994606
+                  ]
+            },
+            {
+                  "name": "Monumento a la Mujer",
+                  "text": "This civic monument pays tribute to the resilient women of the Bolivian Amazon, standing proudly as a public cultural symbol.",
+                  "category": "historical",
+                  "coords": [
+                        -66.06285,
+                        -10.999708
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A modern brick meetinghouse of the Latter-day Saints providing a place for Christian congregational worship in the tropical town.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.048844,
+                        -11.021083
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah’s Witnesses",
+                  "text": "A modestly designed Kingdom Hall serving as the local worship center and Bible education facility for Jehovah's Witnesses in the area.",
+                  "category": "religious",
+                  "coords": [
+                        -66.076248,
+                        -11.003128
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Septimo Dia",
+                  "text": "A Seventh-day Adventist church offering Sabbath worship services and community support programs for local residents in the Amazonian climate.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.064061,
+                        -11.003454
+                  ]
+            },
+            {
+                  "name": "Mercado Riberalta",
+                  "text": "A large, bustling Amazonian market in Riberalta offering an abundance of tropical fruits, freshly caught river fish, and harvested Brazil nuts.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.077754,
+                        -11.000246
+                  ]
+            },
+            {
+                  "name": "Mercado San José",
+                  "text": "This neighborhood market provides the local San José district with daily access to fresh meats, regional vegetables, and essential household items.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.064804,
+                        -11.000268
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BO-P",
     coords: [-66.083, -11.016],
@@ -1053,7 +4500,124 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["Le nom vient du quechua et signifie 'rivière aux oiseaux'.", "Le poisson 'Sábalo' du Pilcomayo est une source de nourriture essentielle pour toute la Bolivie.", "Pendant la guerre du Chaco, les points d'eau de la rivière étaient d'une importance stratégique.", "C'est l'une des rares rivières au monde capable de 's'évaporer' par infiltration dans les plaines."],
     }, image: "/poi-images/bo-pilcomayo-river-nature-v2.webp"},
   {
-    id: "bo-rio-grande-guapay-nature-v2",
+    id: "bo-rio-grande-guapay-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"Los turos\" cementerio indígena",
+                  "text": "Eine indigene Begräbnisstätte in der Nähe der Überschwemmungsgebiete des Río Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.426996,
+                        -15.976633
+                  ]
+            },
+            {
+                  "name": "Comunidad Combate",
+                  "text": "Eine lokale Siedlung, die einen Einblick in den ländlichen Lebensstil an den Ufern des Río Grande bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.476509,
+                        -15.959192
+                  ]
+            },
+            {
+                  "name": "Combate",
+                  "text": "Eine traditionelle ländliche Gemeinde eingebettet in die Naturlandschaft des Río Grande Beckens.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.483312,
+                        -15.969026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"Los turos\" cementerio indígena",
+                  "text": "A Río Grande árterei közelében fekvő őslakos temető.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.426996,
+                        -15.976633
+                  ]
+            },
+            {
+                  "name": "Comunidad Combate",
+                  "text": "Helyi település, amely bepillantást enged a Río Grande menti folyami vidéki életmódba.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.476509,
+                        -15.959192
+                  ]
+            },
+            {
+                  "name": "Combate",
+                  "text": "A Río Grande medencéjének természeti tájába ágyazott hagyományos vidéki közösség.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.483312,
+                        -15.969026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"Los turos\" cementerio indígena",
+                  "text": "Un cimitir indigen situat în apropierea luncii râului Río Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.426996,
+                        -15.976633
+                  ]
+            },
+            {
+                  "name": "Comunidad Combate",
+                  "text": "O așezare locală care oferă o privire asupra stilului de viață rural de pe malurile râului Río Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.476509,
+                        -15.959192
+                  ]
+            },
+            {
+                  "name": "Combate",
+                  "text": "O comunitate rurală tradițională cuibărită în peisajul natural al bazinului râului Río Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.483312,
+                        -15.969026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Los turos\" cementerio indígena",
+                  "text": "An indigenous cemetery site situated near the floodplains of the Río Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.426996,
+                        -15.976633
+                  ]
+            },
+            {
+                  "name": "Comunidad Combate",
+                  "text": "A local settlement offering a glimpse into the rural riverine lifestyle along the Río Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.476509,
+                        -15.959192
+                  ]
+            },
+            {
+                  "name": "Combate",
+                  "text": "A traditional rural community nestled in the natural landscape of the Río Grande basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.483312,
+                        -15.969026
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BO-Z",
     coords: [-64.483, -16.033],
@@ -1147,7 +4711,196 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp",
       fr: ["Le fleuve a une longueur d'environ 436 kilomètres.", "Il marque à son origine la frontière entre la Bolivie et le Pérou.", "Son cours a été régulé à plusieurs endroits pour optimiser l'irrigation.", "Le fleuve perd d'énormes quantités d'eau par évaporation sur son chemin vers le sud."],
     }, image: "/poi-images/bo-desaguadero-river-nature-v2.webp"},
   {
-    id: "bo-isla-del-sol-nature-v2",
+    id: "bo-isla-del-sol-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Embarcadero de Pilcu",
+                  "text": "Dieses rustikale Holz- und Steindock dient als lokaler Landeplatz für Boote, die auf den hochgelegenen Gewässern des Titicacasees navigieren.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.143661,
+                        -16.048598
+                  ]
+            },
+            {
+                  "name": "Montículo de piedras",
+                  "text": "Dieser Steinhügel dient als rustikaler Aussichtspunkt auf der Sonneninsel und bietet weite Panoramen über das Wasser des Titicacasees.",
+                  "category": "natural",
+                  "coords": [
+                        -69.146682,
+                        -16.046648
+                  ]
+            },
+            {
+                  "name": "Bahía Kona",
+                  "text": "Die Bahía Kona ist eine ruhige Bucht im südlichen Teil der Sonneninsel, bekannt für ihr geschütztes Andenwasser und die alten terrassierten Ufer.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.1617,
+                        -16.0436
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "Dieses christliche Heiligtum auf der Sonneninsel bietet einen ruhigen Ort zum Gebet inmitten der hochgelegenen andinen Insellandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.146532,
+                        -16.03639
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine bescheidene lokale Kirche, die der Inselgemeinschaft dient und aus traditionellen Materialien erbaut wurde, um dem Klima am Titicacasee standzuhalten.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.148392,
+                        -16.035053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Embarcadero de Pilcu",
+                  "text": "Ez a rusztikus fa és kő dokk helyi kikötőként szolgál a Titicaca-tó magasan fekvő vizein navigáló csónakok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.143661,
+                        -16.048598
+                  ]
+            },
+            {
+                  "name": "Montículo de piedras",
+                  "text": "Ez a kőhalom rusztikus kilátóként szolgál a Nap-szigeten, ahonnan széles panoráma nyílik a Titicaca-tó vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -69.146682,
+                        -16.046648
+                  ]
+            },
+            {
+                  "name": "Bahía Kona",
+                  "text": "A Bahía Kona egy csendes öböl a Nap-sziget déli részén, amely védett andoki vizéről és ősi teraszos környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.1617,
+                        -16.0436
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "Ez a keresztény szentély a Nap-szigeten csendes imateret biztosít a magaslati andoki sziget tájában.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.146532,
+                        -16.03639
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A szigeti közösséget szolgáló szerény helyi templom hagyományos anyagokból épült, hogy ellenálljon a Titicaca-tó időjárásának.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.148392,
+                        -16.035053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Embarcadero de Pilcu",
+                  "text": "Acest doc rustic din lemn și piatră servește ca punct de debarcare local pentru bărcile care navighează pe apele de mare altitudine ale lacului Titicaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.143661,
+                        -16.048598
+                  ]
+            },
+            {
+                  "name": "Montículo de piedras",
+                  "text": "Această movilă de pietre servește drept punct de belvedere rustic pe Isla del Sol, oferind panorame ample asupra apelor lacului Titicaca.",
+                  "category": "natural",
+                  "coords": [
+                        -69.146682,
+                        -16.046648
+                  ]
+            },
+            {
+                  "name": "Bahía Kona",
+                  "text": "Bahía Kona este un golf liniștit în partea de sud a Isla del Sol, cunoscut pentru apele sale andine adăpostite și împrejurimile cu terase antice.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.1617,
+                        -16.0436
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "Acest sanctuar creștin de pe Isla del Sol oferă un spațiu liniștit pentru rugăciune în mijlocul peisajului insular andin de mare altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.146532,
+                        -16.03639
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O biserică locală modestă care deservește comunitatea insulei, construită din materiale tradiționale pentru a rezista climei de la lacul Titicaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.148392,
+                        -16.035053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Embarcadero de Pilcu",
+                  "text": "This rustic wooden and stone dock serves as a local landing point for boats navigating the high-altitude waters of Lake Titicaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.143661,
+                        -16.048598
+                  ]
+            },
+            {
+                  "name": "Montículo de piedras",
+                  "text": "This stone mound serves as a rustic viewpoint on Isla del Sol, offering sweeping panoramas over the waters of Lake Titicaca.",
+                  "category": "natural",
+                  "coords": [
+                        -69.146682,
+                        -16.046648
+                  ]
+            },
+            {
+                  "name": "Bahía Kona",
+                  "text": "Bahía Kona is a tranquil bay on the southern part of Isla del Sol, known for its sheltered Andean waters and ancient terraced surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.1617,
+                        -16.0436
+                  ]
+            },
+            {
+                  "name": "San Antonio de Padua",
+                  "text": "This Christian sanctuary on Isla del Sol provides a quiet space for prayer amidst the high-altitude Andean island landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.146532,
+                        -16.03639
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A modest local church serving the island community, built with traditional materials to withstand the elements of Lake Titicaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.148392,
+                        -16.035053
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "BO-L",
     coords: [-69.166, -16.016],

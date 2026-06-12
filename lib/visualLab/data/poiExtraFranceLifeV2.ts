@@ -1686,7 +1686,52 @@ export const franceLifeV2: POI[] = [
     image: "/poi-images/france-reunion-np-life-v2.webp",
   },
   {
-    id: "france-guyane-amazonienne-life-v2",
+    id: "france-guyane-amazonienne-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roche Gauthier",
+                  "text": "Ein markanter Granitgipfel, der steil über das dichte Blätterdach des guayanischen Amazonas-Regenwaldes ragt.",
+                  "category": "natural",
+                  "coords": [
+                        -53.028741,
+                        2.497054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roche Gauthier",
+                  "text": "Kiemelkedő gránitcsúcs, amely meredeken magasodik a guayanai esőerdő sűrű lombozata fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -53.028741,
+                        2.497054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roche Gauthier",
+                  "text": "Un vârf de granit proeminent care se ridică brusc deasupra coronamentului dens al pădurii amazoniene.",
+                  "category": "natural",
+                  "coords": [
+                        -53.028741,
+                        2.497054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roche Gauthier",
+                  "text": "A prominent granite peak rising sharply above the dense canopy of the Guyanese Amazonian forest.",
+                  "category": "natural",
+                  "coords": [
+                        -53.028741,
+                        2.497054
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Guyana-Amazonien", hu: "Guyana-Amazonas Nemzeti Park", ro: "Parcul Național Guyana Amazoniană", en: "Guiana Amazonian National Park" , fr: "Parc amazonien de Guyane"},

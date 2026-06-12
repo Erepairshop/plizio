@@ -72,7 +72,160 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-cordillera-central-relief-v2",
+    id: "co-cordillera-central-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camino del Indio",
+                  "text": "Ein Wanderweg und Aussichtspunkt entlang alter Pfade in der Zentralkordillere.",
+                  "category": "natural",
+                  "coords": [
+                        -75.495527,
+                        4.471117
+                  ]
+            },
+            {
+                  "name": "Palmas de Ceja",
+                  "text": "Ein Aussichtspunkt, der für seine hohen Wachspalmen bekannt ist, Kolumbiens Nationalbaum in den Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -75.476683,
+                        4.538791
+                  ]
+            },
+            {
+                  "name": "3000 msnm",
+                  "text": "Ein Bergaussichtspunkt in der Zentralkordillere auf einer Höhe von exakt 3000 Metern über dem Meeresspiegel.",
+                  "category": "natural",
+                  "coords": [
+                        -75.565756,
+                        4.490316
+                  ]
+            },
+            {
+                  "name": "2500 msnm",
+                  "text": "Ein Panoramapunkt auf 2500 Metern Höhe, der den Übergang zum Nebelwald der kolumbianischen Anden markiert.",
+                  "category": "natural",
+                  "coords": [
+                        -75.511428,
+                        4.443431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camino del Indio",
+                  "text": "Túraútvonal és kilátóhely a Központi-Kordillerák ősi ösvényei mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -75.495527,
+                        4.471117
+                  ]
+            },
+            {
+                  "name": "Palmas de Ceja",
+                  "text": "Kilátóhely, amely a Kolumbia nemzeti fájának számító andoki viaszpálmákról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        -75.476683,
+                        4.538791
+                  ]
+            },
+            {
+                  "name": "3000 msnm",
+                  "text": "Hegyi kilátóhely a Központi-Kordillerákban, pontosan 3000 méteres tengerszint feletti magasságban.",
+                  "category": "natural",
+                  "coords": [
+                        -75.565756,
+                        4.490316
+                  ]
+            },
+            {
+                  "name": "2500 msnm",
+                  "text": "Panorámás kilátóhely 2500 méteren, amely a kolumbiai Andok köderdeinek határát jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        -75.511428,
+                        4.443431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camino del Indio",
+                  "text": "Un traseu de drumeție și punct de belvedere de-a lungul vechilor poteci din Cordillera Central.",
+                  "category": "natural",
+                  "coords": [
+                        -75.495527,
+                        4.471117
+                  ]
+            },
+            {
+                  "name": "Palmas de Ceja",
+                  "text": "Un punct de belvedere renumit pentru palmierii de ceară înalți, arborele național al Columbiei din Anzi.",
+                  "category": "natural",
+                  "coords": [
+                        -75.476683,
+                        4.538791
+                  ]
+            },
+            {
+                  "name": "3000 msnm",
+                  "text": "Un punct de belvedere montan în Cordillera Central, situat la o altitudine de exact 3000 de metri peste nivelul mării.",
+                  "category": "natural",
+                  "coords": [
+                        -75.565756,
+                        4.490316
+                  ]
+            },
+            {
+                  "name": "2500 msnm",
+                  "text": "Un punct panoramic la 2500 de metri altitudine, marcând tranziția către pădurea de ceață a Anzilor columbieni.",
+                  "category": "natural",
+                  "coords": [
+                        -75.511428,
+                        4.443431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camino del Indio",
+                  "text": "A hiking trail and viewpoint along ancient paths in the Cordillera Central.",
+                  "category": "natural",
+                  "coords": [
+                        -75.495527,
+                        4.471117
+                  ]
+            },
+            {
+                  "name": "Palmas de Ceja",
+                  "text": "A viewpoint famous for its tall wax palms, Colombia's national tree, in the Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -75.476683,
+                        4.538791
+                  ]
+            },
+            {
+                  "name": "3000 msnm",
+                  "text": "A mountain viewpoint in the Cordillera Central situated at an elevation of exactly 3000 meters above sea level.",
+                  "category": "natural",
+                  "coords": [
+                        -75.565756,
+                        4.490316
+                  ]
+            },
+            {
+                  "name": "2500 msnm",
+                  "text": "A panoramic point at 2500 meters elevation marking the transition to the Colombian Andean cloud forest.",
+                  "category": "natural",
+                  "coords": [
+                        -75.511428,
+                        4.443431
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-TOL",
     coords: [-75.5, 4.5],
@@ -141,7 +294,196 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-cordillera-oriental-relief-v2",
+    id: "co-cordillera-oriental-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panorámica Samacá",
+                  "text": "Panorámica Samacá ist ein malerischer Aussichtspunkt an einem Hang, der weite Ausblicke über die landwirtschaftlichen Täler der Ostkordillere bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.480906,
+                        5.48915
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Das Museo Municipal bewahrt das kulturelle und archäologische Erbe der Ostkordillere durch seine Sammlung lokaler Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -73.454519,
+                        5.544016
+                  ]
+            },
+            {
+                  "name": "Capilla del Voto.",
+                  "text": "Die Capilla del Voto ist eine bescheidene Votivkapelle, die im rauen andinen Terrain der Ostkordillere versteckt liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.485673,
+                        5.491451
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de la Encarnación - La Fábrica",
+                  "text": "Diese einzigartige Kapelle, bekannt als „La Fábrica“, diente historisch den religiösen Bedürfnissen der Textilfabrikarbeiter im andinen Tal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.517981,
+                        5.47849
+                  ]
+            },
+            {
+                  "name": "EL SANTUARIO PUB",
+                  "text": "Das unkonventionell benannte El Santuario Pub ist ein faszinierendes Gebäude, das als kleine religiöse Kapelle inmitten der Berglandschaft fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        -73.450069,
+                        5.566646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panorámica Samacá",
+                  "text": "A Panorámica Samacá egy festői domboldali kilátó, ahonnan pazar kilátás nyílik a Keleti-Kordillerák mezőgazdasági völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -73.480906,
+                        5.48915
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "A Museo Municipal a Keleti-Kordillerák kulturális és régészeti örökségét őrzi a helyi műtárgyakból álló gyűjteményén keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        -73.454519,
+                        5.544016
+                  ]
+            },
+            {
+                  "name": "Capilla del Voto.",
+                  "text": "A Capilla del Voto egy szerény fogadalmi kápolna, amely a Keleti-Kordillerák zord andoki terepén bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.485673,
+                        5.491451
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de la Encarnación - La Fábrica",
+                  "text": "Ez a „La Fábrica” néven ismert egyedi kápolna történelmileg az andoki völgyben dolgozó textilgyári munkások vallási igényeit szolgálta.",
+                  "category": "religious",
+                  "coords": [
+                        -73.517981,
+                        5.47849
+                  ]
+            },
+            {
+                  "name": "EL SANTUARIO PUB",
+                  "text": "A szokatlanul El Santuario Pubnak nevezett, lenyűgöző épület egy kis vallási kápolnaként funkcionál a hegyvidéki terepen.",
+                  "category": "religious",
+                  "coords": [
+                        -73.450069,
+                        5.566646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panorámica Samacá",
+                  "text": "Panorámica Samacá este un punct de observație pitoresc pe versant, oferind priveliști ample asupra văilor agricole din Cordiliera Orientală.",
+                  "category": "natural",
+                  "coords": [
+                        -73.480906,
+                        5.48915
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Museo Municipal conservă patrimoniul cultural și arheologic al Cordilierei Orientale prin colecția sa de artefacte locale.",
+                  "category": "museum",
+                  "coords": [
+                        -73.454519,
+                        5.544016
+                  ]
+            },
+            {
+                  "name": "Capilla del Voto.",
+                  "text": "Capilla del Voto este o capelă votivă modestă, ascunsă în terenul accidentat andin din Cordiliera Orientală.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.485673,
+                        5.491451
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de la Encarnación - La Fábrica",
+                  "text": "Această capelă unică, cunoscută sub numele de „La Fábrica”, a servit istoric nevoilor religioase ale lucrătorilor din fabrica de textile din valea andină.",
+                  "category": "religious",
+                  "coords": [
+                        -73.517981,
+                        5.47849
+                  ]
+            },
+            {
+                  "name": "EL SANTUARIO PUB",
+                  "text": "Denumită neconvențional El Santuario Pub, această clădire fascinantă funcționează ca o mică capelă religioasă în mijlocul terenului montan.",
+                  "category": "religious",
+                  "coords": [
+                        -73.450069,
+                        5.566646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panorámica Samacá",
+                  "text": "Panorámica Samacá is a scenic hillside viewpoint offering sweeping vistas over the agricultural valleys of the Eastern Ranges.",
+                  "category": "natural",
+                  "coords": [
+                        -73.480906,
+                        5.48915
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "The Museo Municipal preserves the cultural and archaeological heritage of the Eastern Ranges through its collection of local artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -73.454519,
+                        5.544016
+                  ]
+            },
+            {
+                  "name": "Capilla del Voto.",
+                  "text": "The Capilla del Voto is a modest votive chapel tucked away in the rugged Andean terrain of the Eastern Ranges.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.485673,
+                        5.491451
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de la Encarnación - La Fábrica",
+                  "text": "This unique chapel, known as \"La Fábrica,\" historically served the religious needs of the textile mill workers in the Andean valley.",
+                  "category": "religious",
+                  "coords": [
+                        -73.517981,
+                        5.47849
+                  ]
+            },
+            {
+                  "name": "EL SANTUARIO PUB",
+                  "text": "Unconventionally named El Santuario Pub, this intriguing building functions as a small religious chapel amidst the mountain terrain.",
+                  "category": "religious",
+                  "coords": [
+                        -73.450069,
+                        5.566646
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-CUN",
     coords: [-73.5, 5.5],
@@ -210,7 +552,52 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-macizo-colombiano-relief-v2",
+    id: "co-macizo-colombiano-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espacio Sagrado Resguardo Wairari Atun Sacha",
+                  "text": "Ein heiliges indigenes Reservat im kolumbianischen Massiv, das hochgelegene Páramo-Ökosysteme schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -76.550842,
+                        1.781763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espacio Sagrado Resguardo Wairari Atun Sacha",
+                  "text": "Szent őslakos rezervátum a Macizo Colombianóban, amely magaslati páramo ökoszisztémákat véd.",
+                  "category": "natural",
+                  "coords": [
+                        -76.550842,
+                        1.781763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espacio Sagrado Resguardo Wairari Atun Sacha",
+                  "text": "O rezervație indigenă sacră din Masivul Columbian, care protejează ecosistemele de páramo la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -76.550842,
+                        1.781763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espacio Sagrado Resguardo Wairari Atun Sacha",
+                  "text": "A sacred indigenous reserve in the Macizo Colombiano protecting high-altitude páramo ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        -76.550842,
+                        1.781763
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-CAU",
     coords: [-76.5, 1.8],
@@ -624,7 +1011,88 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-serrania-perija-relief-v2",
+    id: "co-serrania-perija-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Perijá",
+                  "text": "Dieser majestätische Gipfel der Serranía del Perijá markiert die natürliche Grenze zwischen Kolumbien und Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -72.951992,
+                        10.031803
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida De Colombia (Las Vegas)",
+                  "text": "Eine ländliche Pfingstkirche in den Ausläufern der Serranía del Perijá, die die umliegenden Bergdörfer betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.04261,
+                        10.007537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Perijá",
+                  "text": "A Serranía del Perijá ezen fenséges csúcsa jelzi a Kolumbia és Venezuela közötti természetes határt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.951992,
+                        10.031803
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida De Colombia (Las Vegas)",
+                  "text": "Egy vidéki pünkösdi templom a Serranía del Perijá lábánál, amely a környező hegyi falvakat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.04261,
+                        10.007537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Perijá",
+                  "text": "Acest vârf maiestuos din Serranía del Perijá marchează granița naturală dintre Columbia și Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -72.951992,
+                        10.031803
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida De Colombia (Las Vegas)",
+                  "text": "O biserică penticostală rurală de la poalele Serranía del Perijá, care deservește satele montane din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.04261,
+                        10.007537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Perijá",
+                  "text": "This majestic peak in the Serranía del Perijá marks the natural border between Colombia and Venezuela.",
+                  "category": "natural",
+                  "coords": [
+                        -72.951992,
+                        10.031803
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Unida De Colombia (Las Vegas)",
+                  "text": "A rural Pentecostal church in the foothills of the Serranía del Perijá, serving the surrounding mountain villages.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.04261,
+                        10.007537
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-CES",
     coords: [-73.0, 10.0],
@@ -693,7 +1161,124 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-vulkan-azufral-relief-v2",
+    id: "co-vulkan-azufral-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parroquia Santiago Apóstol",
+                  "text": "Eine hochgelegene Kirche in der Nähe des Vulkans Azufral in den südlichen Anden.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.864685,
+                        1.139853
+                  ]
+            },
+            {
+                  "name": "Capilla de La Inmaculada",
+                  "text": "Eine ländliche Kapelle inmitten der schroffen Gebirgslandschaft von Mallama.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.774777,
+                        1.071787
+                  ]
+            },
+            {
+                  "name": "Mercado de Mallama",
+                  "text": "Dieser Hochgebirgsmarkt bietet lokale landwirtschaftliche Produkte aus der Region Nariño an.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.865817,
+                        1.142503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parroquia Santiago Apóstol",
+                  "text": "Magasan fekvő templom az Azufral-vulkán közelében, a déli Andokban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.864685,
+                        1.139853
+                  ]
+            },
+            {
+                  "name": "Capilla de La Inmaculada",
+                  "text": "Vidéki kápolna Mallama zord hegyvidéki tájai között.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.774777,
+                        1.071787
+                  ]
+            },
+            {
+                  "name": "Mercado de Mallama",
+                  "text": "Ez a magashegyi piac Nariño régió helyi mezőgazdasági termékeit kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.865817,
+                        1.142503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parroquia Santiago Apóstol",
+                  "text": "O biserică situată la mare altitudine lângă vulcanul Azufral, în Anzii de sud.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.864685,
+                        1.139853
+                  ]
+            },
+            {
+                  "name": "Capilla de La Inmaculada",
+                  "text": "O chapelă rurală în mijlocul peisajului montan accidentat din Mallama.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.774777,
+                        1.071787
+                  ]
+            },
+            {
+                  "name": "Mercado de Mallama",
+                  "text": "Această piață de munte înalt oferă produse agricole locale din regiunea Nariño.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.865817,
+                        1.142503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parroquia Santiago Apóstol",
+                  "text": "A high-altitude church located near the Azufral volcano in the southern Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.864685,
+                        1.139853
+                  ]
+            },
+            {
+                  "name": "Capilla de La Inmaculada",
+                  "text": "A rural chapel set amidst the rugged mountain landscape of Mallama.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.774777,
+                        1.071787
+                  ]
+            },
+            {
+                  "name": "Mercado de Mallama",
+                  "text": "This high-mountain market offers local agricultural products from the Nariño region.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.865817,
+                        1.142503
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-NAR",
     coords: [-77.86, 1.08],
@@ -831,7 +1416,196 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-vulkan-machin-relief-v2",
+    id: "co-vulkan-machin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de las Fumarolas la secreta",
+                  "text": "Ein Aussichtspunkt mit Blick auf die aktiven Fumarolen und dampfenden vulkanischen Gasdüsen des Vulkans Machín.",
+                  "category": "natural",
+                  "coords": [
+                        -75.384174,
+                        4.488853
+                  ]
+            },
+            {
+                  "name": "Termales Machín",
+                  "text": "Vom Vulkan Machín beheizte natürliche Thermalquellen, die in einer üppigen Berglandschaft liegen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.388322,
+                        4.474971
+                  ]
+            },
+            {
+                  "name": "Los muñecos",
+                  "text": "Eine lokale Sehenswürdigkeit mit eigenartigen Steinformationen, die den Hängen des Vulkans Machín ähneln.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.389801,
+                        4.474164
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel Arcangel",
+                  "text": "Eine ländliche Kirche in der Nähe des Vulkans Machín, die als spiritueller Treffpunkt für die Berggemeinden dient.",
+                  "category": "religious",
+                  "coords": [
+                        -75.427508,
+                        4.44222
+                  ]
+            },
+            {
+                  "name": "Plaza de mercado",
+                  "text": "Ein traditioneller Marktplatz in der Bergregion, auf dem lokale Bauern ihre frischen Produkte verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.425265,
+                        4.44281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de las Fumarolas la secreta",
+                  "text": "Kilátóhely, ahonnan rálátni a Machín-vulkán aktív fumaroláira és gőzölgő gázkitöréseire.",
+                  "category": "natural",
+                  "coords": [
+                        -75.384174,
+                        4.488853
+                  ]
+            },
+            {
+                  "name": "Termales Machín",
+                  "text": "A Machín-vulkán által fűtött természetes termálforrások buja hegyi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.388322,
+                        4.474971
+                  ]
+            },
+            {
+                  "name": "Los muñecos",
+                  "text": "Különleges, bábukra emlékeztető sziklaformációk a Machín-vulkán oldalában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.389801,
+                        4.474164
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel Arcangel",
+                  "text": "Vidéki templom a Machín-vulkán közelében, amely a hegyi közösségek lelki találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -75.427508,
+                        4.44222
+                  ]
+            },
+            {
+                  "name": "Plaza de mercado",
+                  "text": "Hagyományos hegyvidéki piac, ahol a helyi gazdák árulják friss termékeiket.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.425265,
+                        4.44281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de las Fumarolas la secreta",
+                  "text": "Un punct de belvedere cu vedere spre fumarolele active și emanațiile de vapori vulcanici ai vulcanului Machín.",
+                  "category": "natural",
+                  "coords": [
+                        -75.384174,
+                        4.488853
+                  ]
+            },
+            {
+                  "name": "Termales Machín",
+                  "text": "Izvoare termale naturale încălzite de vulcanul Machín, situate într-un cadru montan luxuriant.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.388322,
+                        4.474971
+                  ]
+            },
+            {
+                  "name": "Los muñecos",
+                  "text": "O atracție locală cu formațiuni stâncoase deosebite situate pe versanții vulcanului Machín.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.389801,
+                        4.474164
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel Arcangel",
+                  "text": "O biserică rurală lângă vulcanul Machín, care servește ca loc de întâlnire spirituală pentru comunitățile montane.",
+                  "category": "religious",
+                  "coords": [
+                        -75.427508,
+                        4.44222
+                  ]
+            },
+            {
+                  "name": "Plaza de mercado",
+                  "text": "O piață tradițională din regiunea montană, unde fermierii locali își vând produsele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.425265,
+                        4.44281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de las Fumarolas la secreta",
+                  "text": "A viewpoint overlooking the active fumaroles and steaming volcanic gas vents of the Machín Volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -75.384174,
+                        4.488853
+                  ]
+            },
+            {
+                  "name": "Termales Machín",
+                  "text": "Natural hot springs heated by the Machín Volcano, situated in a lush mountain setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.388322,
+                        4.474971
+                  ]
+            },
+            {
+                  "name": "Los muñecos",
+                  "text": "A local attraction featuring peculiar rock formations resembling figures on the slopes of the Machín Volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.389801,
+                        4.474164
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel Arcangel",
+                  "text": "A rural church near the Machín Volcano serving as a spiritual gathering place for mountain communities.",
+                  "category": "religious",
+                  "coords": [
+                        -75.427508,
+                        4.44222
+                  ]
+            },
+            {
+                  "name": "Plaza de mercado",
+                  "text": "A traditional mountain marketplace where local farmers sell their fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.425265,
+                        4.44281
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-TOL",
     coords: [-75.39, 4.48],
@@ -969,7 +1743,88 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-vulkan-cumbal-relief-v2",
+    id: "co-vulkan-cumbal-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia",
+                  "text": "Diese christliche Kirche liegt am Fuße des majestätischen Vulkans Cumbal in den hohen Anden.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.771679,
+                        0.95659
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "Die Pfarrei San Pedro Apóstol in Cumbal bietet Gläubigen auf über 3.000 Metern Höhe einen Ort der Einkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.793225,
+                        0.909731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a keresztény templom a fenséges Cumbal-vulkán lábánál fekszik a magas Andokban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.771679,
+                        0.95659
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "A cumbali San Pedro Apóstol plébánia 3000 méter feletti magasságban kínál helyet az áhítatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.793225,
+                        0.909731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia",
+                  "text": "Această biserică creștină este situată la poalele maiestuosului vulcan Cumbal, în munții înalți ai Anzilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.771679,
+                        0.95659
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "Parohia San Pedro Apóstol din Cumbal oferă credincioșilor un loc de reculegere la peste 3.000 de metri altitudine.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.793225,
+                        0.909731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia",
+                  "text": "This Christian church is situated at the foot of the majestic Cumbal Volcano in the high Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.771679,
+                        0.95659
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pedro Apóstol",
+                  "text": "The San Pedro Apóstol parish in Cumbal offers worshippers a place of devotion at over 3,000 meters above sea level.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.793225,
+                        0.909731
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-NAR",
     coords: [-77.86, 0.95],
@@ -1036,7 +1891,196 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-vulkan-chiles-relief-v2",
+    id: "co-vulkan-chiles-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aguas Hediondas",
+                  "text": "Natürliche Thermalbäder in der Nähe des Vulkans Chiles, berühmt für ihr stechend riechendes Schwefelwasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.865725,
+                        0.79842
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Manaquer",
+                  "text": "Ein Museum in Tufiño, das präkolumbianische Artefakte der lokalen Pasto-Kultur ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.854231,
+                        0.801913
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE TUFIÑO",
+                  "text": "Die katholische Hauptkirche in der Grenzstadt Tufiño, ein Zentrum der lokalen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.855245,
+                        0.801606
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ein schlichter katholischer Ort der Verehrung für die Hochlandgemeinde von Tufiño.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.844687,
+                        0.811494
+                  ]
+            },
+            {
+                  "name": "Las Aguas Hediondas",
+                  "text": "Öffentliche Thermalbäder, die von den vulkanischen Quellen des Vulkans Chiles gespeist werden.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.904238,
+                        0.810535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aguas Hediondas",
+                  "text": "Természetes termálfürdők a Chiles-vulkán közelében, amelyek erős szagú kénes vizükről híresek.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.865725,
+                        0.79842
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Manaquer",
+                  "text": "Múzeum Tufiñóban, amely a helyi Pasto-kultúra prekolumbián leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.854231,
+                        0.801913
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE TUFIÑO",
+                  "text": "A határmenti Tufiño fő katolikus temploma, a helyi közösség központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.855245,
+                        0.801606
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egyszerű katolikus istentiszteleti hely Tufiño magaslati közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.844687,
+                        0.811494
+                  ]
+            },
+            {
+                  "name": "Las Aguas Hediondas",
+                  "text": "A Chiles-vulkán vulkáni forrásaiból táplált nyilvános termálfürdők.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.904238,
+                        0.810535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aguas Hediondas",
+                  "text": "Băi termale naturale lângă vulcanul Chiles, renumite pentru apele lor sulfuroase cu miros înțepător.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.865725,
+                        0.79842
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Manaquer",
+                  "text": "Un muzeu din Tufiño care expune artefacte precolumbiene ale culturii locale Pasto.",
+                  "category": "museum",
+                  "coords": [
+                        -77.854231,
+                        0.801913
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE TUFIÑO",
+                  "text": "Principala biserică catolică din orașul de frontieră Tufiño, un centru al comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.855245,
+                        0.801606
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Un lăcaș de cult catolic simplu pentru comunitatea de munte din Tufiño.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.844687,
+                        0.811494
+                  ]
+            },
+            {
+                  "name": "Las Aguas Hediondas",
+                  "text": "Băi termale publice alimentate de izvoarele vulcanice ale vulcanului Chiles.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.904238,
+                        0.810535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aguas Hediondas",
+                  "text": "Natural thermal baths near the Chiles volcano famous for their pungent sulfurous waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.865725,
+                        0.79842
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Manaquer",
+                  "text": "A museum in Tufiño displaying pre-Columbian artifacts from the indigenous Pasto culture.",
+                  "category": "museum",
+                  "coords": [
+                        -77.854231,
+                        0.801913
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE TUFIÑO",
+                  "text": "The main Catholic church in the border town of Tufiño, serving as a focal point for the community.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.855245,
+                        0.801606
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A simple Catholic place of worship serving the high-altitude community of Tufiño.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.844687,
+                        0.811494
+                  ]
+            },
+            {
+                  "name": "Las Aguas Hediondas",
+                  "text": "Public thermal baths fed by the natural volcanic springs of the Chiles volcano.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.904238,
+                        0.810535
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-NAR",
     coords: [-77.93, 0.82],
@@ -1174,7 +2218,304 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-paramo-santurban-relief-v2",
+    id: "co-paramo-santurban-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Lagunas Negras",
+                  "text": "Der Mirador Lagunas Negras bietet einen weiten Blick über die dunklen Lagunen im hochgelegenen Páramo-Ökosystem von Santurbán.",
+                  "category": "natural",
+                  "coords": [
+                        -72.878336,
+                        7.269152
+                  ]
+            },
+            {
+                  "name": "Boqueron De La Garganta",
+                  "text": "Der Boqueron De La Garganta ist ein Aussichtspunkt an einem Gebirgspass, der die schroffe Relieflandschaft von Santurbán überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.87615,
+                        7.263848
+                  ]
+            },
+            {
+                  "name": "Camino verde",
+                  "text": "Camino verde ist ein landschaftlich reizvoller Aussichtspunkt entlang eines grünen Pfades in der hochgelegenen Páramo-Region von Santurbán.",
+                  "category": "natural",
+                  "coords": [
+                        -72.89966,
+                        7.242008
+                  ]
+            },
+            {
+                  "name": "Casa Cural",
+                  "text": "Die Casa Cural ist ein historisches Herrenhaus oder Pfarrhaus in der Páramo-Region von Santurbán, das sich durch seine traditionelle Architektur auszeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        -72.878335,
+                        7.18747
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecoste",
+                  "text": "Die Iglesia Pentecoste ist eine Pfingstkirche, die den gläubigen Gemeinden in der Bergregion von Santurbán dient.",
+                  "category": "religious",
+                  "coords": [
+                        -72.965444,
+                        7.20395
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "Die Iglesia Adventista ist eine adventistische Kirche inmitten der hochgelegenen Gemeinden der Region Santurbán.",
+                  "category": "religious",
+                  "coords": [
+                        -72.969478,
+                        7.19898
+                  ]
+            },
+            {
+                  "name": "Iglesia Movimiento Misionero Mundial",
+                  "text": "Die Iglesia Movimiento Misionero Mundial ist ein lokales Andachtshaus der Weltmissionsbewegung in der bergigen Umgebung von Santurbán.",
+                  "category": "religious",
+                  "coords": [
+                        -72.968135,
+                        7.199753
+                  ]
+            },
+            {
+                  "name": "Parroquia San Isidro de Tona",
+                  "text": "Die Parroquia San Isidro de Tona ist eine christliche Pfarrkirche, die sich im ländlichen Tona in der Páramo-Region von Santurbán befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.966174,
+                        7.202901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Lagunas Negras",
+                  "text": "A Mirador Lagunas Negras széles kilátást nyújt a sötét lagúnákra a Santurbán magasan fekvő páramo ökoszisztémájában.",
+                  "category": "natural",
+                  "coords": [
+                        -72.878336,
+                        7.269152
+                  ]
+            },
+            {
+                  "name": "Boqueron De La Garganta",
+                  "text": "A Boqueron De La Garganta egy hegyi hágónál található kilátó, amely Santurbán zord domborzati tájára tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -72.87615,
+                        7.263848
+                  ]
+            },
+            {
+                  "name": "Camino verde",
+                  "text": "A Camino verde egy festői kilátó egy zöld ösvény mentén Santurbán magasan fekvő páramo régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -72.89966,
+                        7.242008
+                  ]
+            },
+            {
+                  "name": "Casa Cural",
+                  "text": "A Casa Cural egy történelmi kúria vagy plébánia Santurbán páramo régiójában, amely hagyományos építészetével tűnik ki.",
+                  "category": "historical",
+                  "coords": [
+                        -72.878335,
+                        7.18747
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecoste",
+                  "text": "Az Iglesia Pentecoste egy pünkösdi templom, amely a Santurbán hegyvidéki régió hívő közösségeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -72.965444,
+                        7.20395
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "Az Iglesia Adventista egy adventista templom, amely a Santurbán régió magasan fekvő közösségeinek központjában található.",
+                  "category": "religious",
+                  "coords": [
+                        -72.969478,
+                        7.19898
+                  ]
+            },
+            {
+                  "name": "Iglesia Movimiento Misionero Mundial",
+                  "text": "Az Iglesia Movimiento Misionero Mundial a Világmissziós Mozgalom helyi imaháza a hegyvidéki Santurbán környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -72.968135,
+                        7.199753
+                  ]
+            },
+            {
+                  "name": "Parroquia San Isidro de Tona",
+                  "text": "A Parroquia San Isidro de Tona egy keresztény plébániatemplom, amely a vidéki Tonában, a Santurbán páramo régióban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.966174,
+                        7.202901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Lagunas Negras",
+                  "text": "Mirador Lagunas Negras oferă o priveliște vastă asupra lagunelor întunecate din ecosistemul de mare altitudine páramo din Santurbán.",
+                  "category": "natural",
+                  "coords": [
+                        -72.878336,
+                        7.269152
+                  ]
+            },
+            {
+                  "name": "Boqueron De La Garganta",
+                  "text": "Boqueron De La Garganta este un punct de belvedere situat într-o trecătoare montană cu vedere la relieful accidentat din Santurbán.",
+                  "category": "natural",
+                  "coords": [
+                        -72.87615,
+                        7.263848
+                  ]
+            },
+            {
+                  "name": "Camino verde",
+                  "text": "Camino verde este un punct de belvedere pitoresc de-a lungul unui traseu verde din regiunea înaltă de páramo din Santurbán.",
+                  "category": "natural",
+                  "coords": [
+                        -72.89966,
+                        7.242008
+                  ]
+            },
+            {
+                  "name": "Casa Cural",
+                  "text": "Casa Cural este un conac istoric sau o casă parohială în regiunea páramo din Santurbán, cu o arhitectură tradițională distinctivă.",
+                  "category": "historical",
+                  "coords": [
+                        -72.878335,
+                        7.18747
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecoste",
+                  "text": "Iglesia Pentecoste este o biserică penticostală care deservește comunitățile de credincioși din regiunea montană Santurbán.",
+                  "category": "religious",
+                  "coords": [
+                        -72.965444,
+                        7.20395
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "Iglesia Adventista este o biserică adventistă situată printre comunitățile de mare altitudine din regiunea Santurbán.",
+                  "category": "religious",
+                  "coords": [
+                        -72.969478,
+                        7.19898
+                  ]
+            },
+            {
+                  "name": "Iglesia Movimiento Misionero Mundial",
+                  "text": "Iglesia Movimiento Misionero Mundial este o casă de rugăciune locală a Mișcării Misionare Mondiale în peisajul montan din Santurbán.",
+                  "category": "religious",
+                  "coords": [
+                        -72.968135,
+                        7.199753
+                  ]
+            },
+            {
+                  "name": "Parroquia San Isidro de Tona",
+                  "text": "Parroquia San Isidro de Tona este o biserică parohială creștină situată în așezarea rurală Tona din regiunea páramo Santurbán.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.966174,
+                        7.202901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Lagunas Negras",
+                  "text": "Mirador Lagunas Negras offers expansive views over the dark lagoons within the high-altitude paramo ecosystem of Santurbán.",
+                  "category": "natural",
+                  "coords": [
+                        -72.878336,
+                        7.269152
+                  ]
+            },
+            {
+                  "name": "Boqueron De La Garganta",
+                  "text": "Boqueron De La Garganta is a mountain pass viewpoint overlooking the rugged relief landscape of Santurbán.",
+                  "category": "natural",
+                  "coords": [
+                        -72.87615,
+                        7.263848
+                  ]
+            },
+            {
+                  "name": "Camino verde",
+                  "text": "Camino verde is a scenic viewpoint along a green trail in the high-altitude paramo region of Santurbán.",
+                  "category": "natural",
+                  "coords": [
+                        -72.89966,
+                        7.242008
+                  ]
+            },
+            {
+                  "name": "Casa Cural",
+                  "text": "Casa Cural is a historic manor or rectory in the Santurbán paramo region, featuring traditional architectural elements.",
+                  "category": "historical",
+                  "coords": [
+                        -72.878335,
+                        7.18747
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecoste",
+                  "text": "Iglesia Pentecoste is a Pentecostal place of worship serving the local communities in the mountainous Santurbán region.",
+                  "category": "religious",
+                  "coords": [
+                        -72.965444,
+                        7.20395
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista",
+                  "text": "Iglesia Adventista is an Adventist church nestled among the high-altitude communities of the Santurbán region.",
+                  "category": "religious",
+                  "coords": [
+                        -72.969478,
+                        7.19898
+                  ]
+            },
+            {
+                  "name": "Iglesia Movimiento Misionero Mundial",
+                  "text": "Iglesia Movimiento Misionero Mundial is a local place of worship for the Worldwide Missionary Movement in the mountainous setting of Santurbán.",
+                  "category": "religious",
+                  "coords": [
+                        -72.968135,
+                        7.199753
+                  ]
+            },
+            {
+                  "name": "Parroquia San Isidro de Tona",
+                  "text": "Parroquia San Isidro de Tona is a Christian parish church situated in rural Tona within the Santurbán paramo region.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.966174,
+                        7.202901
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CO-NSA",
     coords: [-72.9, 7.2],
@@ -1243,7 +2584,1240 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-paramo-oceta-relief-v2",
+    id: "co-paramo-oceta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo La Troja",
+                  "text": "Ein ländliches Heimatmuseum nahe dem Páramo de Ocetá, das traditionelle landwirtschaftliche Geräte und das hochalpine Bauernleben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.004584,
+                        5.744842
+                  ]
+            },
+            {
+                  "name": "Artesanias de Boyaca",
+                  "text": "Ein Ausstellungsraum, der die traditionellen gewebten Textilien, Keramiken und Kunsthandwerke der Region Boyacá präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -72.941119,
+                        5.766696
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano de Arte Religioso Julio Franco Arango",
+                  "text": "Ein Museum, das koloniale katholische Kunst, liturgische Gewänder und historische religiöse Artefakte aus der Region Boyacá bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -72.987896,
+                        5.788584
+                  ]
+            },
+            {
+                  "name": "Usamena",
+                  "text": "Präkolumbianische indigene archäologische Ruinen in der hochandinen Landschaft des Páramo de Ocetá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.975727,
+                        5.639524
+                  ]
+            },
+            {
+                  "name": "La Quesera",
+                  "text": "Eine antike archäologische Stätte nahe dem Páramo de Ocetá mit frühen Spuren indigener Siedlungen oder Felsunterstände.",
+                  "category": "historical",
+                  "coords": [
+                        -72.975942,
+                        5.648219
+                  ]
+            },
+            {
+                  "name": "La Media Luna",
+                  "text": "Eine halbmondförmige archäologische Stätte, die die frühe indigene Geschichte des Páramo de Ocetá dokumentiert.",
+                  "category": "historical",
+                  "coords": [
+                        -72.952722,
+                        5.637232
+                  ]
+            },
+            {
+                  "name": "La Cara",
+                  "text": "Eine markante Felsformation oder antike Gravur im Páramo de Ocetá von präkolumbianischer archäologischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951801,
+                        5.636913
+                  ]
+            },
+            {
+                  "name": "Piedra Las Gabrielas",
+                  "text": "Die Piedra Las Gabrielas ist eine archäologische Felskunststätte in der hochgelegenen Landschaft des Páramo de Ocetá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951987,
+                        5.655507
+                  ]
+            },
+            {
+                  "name": "Carita Sonriente",
+                  "text": "Carita Sonriente ist eine alte archäologische Stätte mit indigenen Felsritzungen, die einem lächelnden Gesicht ähneln.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951508,
+                        5.656492
+                  ]
+            },
+            {
+                  "name": "Piedra Cargada",
+                  "text": "Piedra Cargada ist ein massiver Felsbrocken im andinen Hochland, der als wichtiges indigenes archäologisches Wahrzeichen dient.",
+                  "category": "historical",
+                  "coords": [
+                        -72.9479,
+                        5.647508
+                  ]
+            },
+            {
+                  "name": "Piedras Grandes",
+                  "text": "Piedras Grandes besteht aus einer markanten Ansammlung großer monolithischer Felsen, die für die Region von archäologischer Bedeutung sind.",
+                  "category": "historical",
+                  "coords": [
+                        -72.950574,
+                        5.644617
+                  ]
+            },
+            {
+                  "name": "La piedra de la Yuca",
+                  "text": "La piedra de la Yuca ist eine historische Steinformation mit alten Markierungen, die mit indigenen landwirtschaftlichen Traditionen in Verbindung stehen.",
+                  "category": "historical",
+                  "coords": [
+                        -72.953487,
+                        5.642995
+                  ]
+            },
+            {
+                  "name": "Tutasá",
+                  "text": "Die archäologische Stätte Tutasá zeigt wichtige Artefakte und Keramikfragmente, die die frühen indigenen Siedlungen von Boyacá dokumentieren.",
+                  "category": "historical",
+                  "coords": [
+                        -72.943577,
+                        5.651677
+                  ]
+            },
+            {
+                  "name": "Banderas Plazoleta Sol de Irika",
+                  "text": "Dieses Denkmal steht auf dem Platz Sol de Irika und ist mit markanten Flaggen geschmückt, die das Erbe der Sonnenverehrung der Muisca-Kultur feiern.",
+                  "category": "historical",
+                  "coords": [
+                        -72.930831,
+                        5.716051
+                  ]
+            },
+            {
+                  "name": "Cueva Pozo del Romero",
+                  "text": "Die Cueva Pozo del Romero ist eine alte Höhlenstätte mit einem natürlichen Brunnen, der historisch von der indigenen Bevölkerung genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -72.955553,
+                        5.659886
+                  ]
+            },
+            {
+                  "name": "La Antigua",
+                  "text": "La Antigua ist eine hochgelegene archäologische Erkundungszone, die die grundlegenden Überreste einer vorkolonialen andinen Siedlung bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -72.955725,
+                        5.658425
+                  ]
+            },
+            {
+                  "name": "Monumento a la Raza",
+                  "text": "Das Monumento a la Raza ist eine beeindruckende skulpturale Hommage vor der Kulisse der Paramo-Landschaft, die die ethnischen Wurzeln und die Widerstandsfähigkeit der lokalen indigenen Vorfahren ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -72.927526,
+                        5.714644
+                  ]
+            },
+            {
+                  "name": "Teatro Tibasosa",
+                  "text": "Das Teatro Tibasosa ist ein zentraler kultureller Veranstaltungsort der Stadt, der lokale Theateraufführungen und Gemeinschaftsveranstaltungen in einem traditionellen architektonischen Rahmen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.00354,
+                        5.746554
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Dieser marianische Schrein am Hang verfügt über eine verehrte Statue der Jungfrau Maria und dient als ruhiger Pilgerort für lokale Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        -73.004688,
+                        5.67696
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieser lokale Zweig der mormonischen Kirche bietet ein modernes Versammlungshaus für die Gemeinden im andinen Hochland.",
+                  "category": "religious",
+                  "coords": [
+                        -72.941697,
+                        5.708844
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "Die Iglesia Nuestra Señora del Rosario ist eine stattliche katholische Kirche aus der Kolonialzeit, die für ihre kunstvollen religiösen Altarbilder und ihr traditionelles Mauerwerk bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -73.003178,
+                        5.744967
+                  ]
+            },
+            {
+                  "name": "Santuario Del Espíritu Santo",
+                  "text": "Das Santuario Del Espíritu Santo ist ein friedlicher spiritueller Rückzugsort und eine Kirche, die sich durch ihre ruhige, besinnliche Atmosphäre abseits des belebten Stadtzentrums auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -72.949589,
+                        5.688106
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Die geschäftige Plaza de Mercado dient als landwirtschaftliches Zentrum der Gemeinde, in dem sich die Bauern versammeln, um mit frischen andinen Produkten und regionalem Käse zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.933561,
+                        5.721018
+                  ]
+            },
+            {
+                  "name": "Pilita de la Unión",
+                  "text": "Die Pilita de la Unión ist ein historischer öffentlicher Brunnen, der einst als primäre Wasserquelle und sozialer Treffpunkt für die frühen Bewohner der Stadt diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.926836,
+                        5.711401
+                  ]
+            },
+            {
+                  "name": "La Misericordia de Dios",
+                  "text": "La Misericordia de Dios ist ein modernes christliches Anbetungszentrum auf der Hochebene, das sich charismatischen Gebetsgottesdiensten und der Gemeindearbeit widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.001841,
+                        5.633542
+                  ]
+            },
+            {
+                  "name": "iglesia el Rosario",
+                  "text": "Die Iglesia el Rosario ist eine beständige christliche Pfarrei, die sich durch ihre rustikalen, weiß getünchten Mauern im Kolonialstil und regelmäßige Andachtszusammenkünfte auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.935333,
+                        5.712702
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Diese christliche Gemeinde ist der Schutzpatronin der Fahrer gewidmet und an ihrem zentralen Glockenturm sowie den lebhaften Feierlichkeiten während des Patronatsfestes im Juli zu erkennen.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.938126,
+                        5.724658
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten mit ihren regelmäßigen Sabbat-Gottesdiensten am Samstag bietet einen strukturierten Raum für Bibelstudien und die Unterstützung der Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.942179,
+                        5.71082
+                  ]
+            },
+            {
+                  "name": "Basílica menor de Nuestra Señora de las Nieves",
+                  "text": "Die Basilica minor Unserer Lieben Frau vom Schnee in Firavitoba ist eine monumentale neugotische Kirche, die majestätisch über die andine Hochebene ragt.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991857,
+                        5.668975
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los testigos de Jeová",
+                  "text": "Dieser Königreichssaal dient der lokalen Gemeinde der Zeugen Jehovas mit einem schmucklosen, funktionalen Versammlungsraum für das gemeinsame Bibelstudium.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.993811,
+                        5.670193
+                  ]
+            },
+            {
+                  "name": "Mirador de Osos",
+                  "text": "Der hoch im Nebelwald gelegene Mirador de Osos bietet den Besuchern weite Ausblicke und gelegentliche Sichtungen des einheimischen andinen Brillenbären.",
+                  "category": "natural",
+                  "coords": [
+                        -73.008224,
+                        5.739299
+                  ]
+            },
+            {
+                  "name": "Mirador Guátika",
+                  "text": "Mit Blick auf das weitläufige Sugamuxi-Tal fungiert der Mirador Guátika sowohl als landschaftliche Aussichtsplattform als auch als Teil eines ökologischen Zooparks.",
+                  "category": "natural",
+                  "coords": [
+                        -73.010218,
+                        5.735701
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Semillas",
+                  "text": "Das Reserva Natural Semillas schützt dichte Gebiete mit hochgelegenen Frailejón-Pflanzen und wichtige Wassereinzugsgebiete, die für das lokale andine Ökosystem unerlässlich sind.",
+                  "category": "natural",
+                  "coords": [
+                        -73.018959,
+                        5.726317
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Montecito",
+                  "text": "Das Reserva Natural Montecito ist ein raues Naturschutzgebiet, das sich der Erhaltung der einheimischen Bergwälder und der Vogelwelt der kolumbianischen Anden widmet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.927977,
+                        5.698229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo La Troja",
+                  "text": "A Páramo de Ocetá közelében található vidéki örökségmúzeum, amely hagyományos mezőgazdasági eszközöket és a magaslati paraszti életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -73.004584,
+                        5.744842
+                  ]
+            },
+            {
+                  "name": "Artesanias de Boyaca",
+                  "text": "A Boyacá régió hagyományos szőtt textíliáit, kerámiáit és kézműves termékeit bemutató kiállítótér.",
+                  "category": "museum",
+                  "coords": [
+                        -72.941119,
+                        5.766696
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano de Arte Religioso Julio Franco Arango",
+                  "text": "A Boyacá régió gyarmati katolikus művészetét, egyházi öltözeteit és történelmi vallási leleteit őrző múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -72.987896,
+                        5.788584
+                  ]
+            },
+            {
+                  "name": "Usamena",
+                  "text": "Kolumbusz előtti őslakos archéológiai romok a Páramo de Ocetá magaslati andoki táján.",
+                  "category": "historical",
+                  "coords": [
+                        -72.975727,
+                        5.639524
+                  ]
+            },
+            {
+                  "name": "La Quesera",
+                  "text": "Egy ősi régészeti lelőhely a Páramo de Ocetá közelében, amely őslakos települések vagy sziklamenedékek korai nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -72.975942,
+                        5.648219
+                  ]
+            },
+            {
+                  "name": "La Media Luna",
+                  "text": "Egy félhold alakú régészeti lelőhely, amely a Páramo de Ocetá őslakos történelmének korai szakaszába enged bepillantást.",
+                  "category": "historical",
+                  "coords": [
+                        -72.952722,
+                        5.637232
+                  ]
+            },
+            {
+                  "name": "La Cara",
+                  "text": "Egy jellegzetes sziklaképződmény vagy ősi faragott hely a Páramo de Ocetá területén, amely kolumbusz előtti régészeti jelentőséggel bír.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951801,
+                        5.636913
+                  ]
+            },
+            {
+                  "name": "Piedra Las Gabrielas",
+                  "text": "A Piedra Las Gabrielas egy régészeti sziklarajz-lelőhely a Páramo de Ocetá nagy tengerszint feletti magasságú tájain.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951987,
+                        5.655507
+                  ]
+            },
+            {
+                  "name": "Carita Sonriente",
+                  "text": "A Carita Sonriente egy ősi régészeti lelőhely, amely mosolygós arcra emlékeztető őslakos sziklafaragványokat rejt.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951508,
+                        5.656492
+                  ]
+            },
+            {
+                  "name": "Piedra Cargada",
+                  "text": "A Piedra Cargada egy masszív szikladarab az andoki fennsíkon, amely fontos őslakos régészeti tájékozódási pontként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -72.9479,
+                        5.647508
+                  ]
+            },
+            {
+                  "name": "Piedras Grandes",
+                  "text": "A Piedras Grandes nagy, monolitikus sziklák kiemelkedő csoportjából áll, amely régészeti jelentőséggel bír a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -72.950574,
+                        5.644617
+                  ]
+            },
+            {
+                  "name": "La piedra de la Yuca",
+                  "text": "A La piedra de la Yuca egy történelmi kőalakzat, amely ősi, az őslakos mezőgazdasági hagyományokhoz kapcsolódó jelzéseket visel.",
+                  "category": "historical",
+                  "coords": [
+                        -72.953487,
+                        5.642995
+                  ]
+            },
+            {
+                  "name": "Tutasá",
+                  "text": "A Tutasá régészeti lelőhely kulcsfontosságú leleteket és kerámiatöredékeket tár fel, amelyek a korai őslakos települések nyomait őrzik Boyacá régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -72.943577,
+                        5.651677
+                  ]
+            },
+            {
+                  "name": "Banderas Plazoleta Sol de Irika",
+                  "text": "Ez az emlékmű a Sol de Irika téren áll, és olyan kiemelkedő zászlókkal rendelkezik, amelyek a régió muisca napimádó örökségét ünneplik.",
+                  "category": "historical",
+                  "coords": [
+                        -72.930831,
+                        5.716051
+                  ]
+            },
+            {
+                  "name": "Cueva Pozo del Romero",
+                  "text": "A Cueva Pozo del Romero egy ősi barlangi lelőhely, amely egy természetes kutat rejt, amelyet a történelem során az őslakos populációk használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -72.955553,
+                        5.659886
+                  ]
+            },
+            {
+                  "name": "La Antigua",
+                  "text": "A La Antigua egy magasan fekvő régészeti feltárási terület, amely egy koloniális kor előtti andoki település alapjainak maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -72.955725,
+                        5.658425
+                  ]
+            },
+            {
+                  "name": "Monumento a la Raza",
+                  "text": "A Monumento a la Raza egy feltűnő szobrászati tiszteletadás a paramo táj hátterében, amely a helyi őslakos ősök etnikai gyökereit és ellenálló képességét tiszteli.",
+                  "category": "historical",
+                  "coords": [
+                        -72.927526,
+                        5.714644
+                  ]
+            },
+            {
+                  "name": "Teatro Tibasosa",
+                  "text": "A Teatro Tibasosa a város központi kulturális helyszíne, amely helyi színházi előadásoknak és közösségi eseményeknek ad otthont hagyományos építészeti környezetben.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.00354,
+                        5.746554
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Ez a domboldalon található Mária-kegyhely a Szűzanya tisztelt szobrát őrzi, és a helyi hívők csendes zarándokhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -73.004688,
+                        5.67696
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az LDS Egyház helyi gyülekezete egy modern gyülekezeti házat biztosít a mormon közösségek számára az andoki fennsíkon.",
+                  "category": "religious",
+                  "coords": [
+                        -72.941697,
+                        5.708844
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "Az Iglesia Nuestra Señora del Rosario egy impozáns gyarmati kori katolikus templom, amely díszes vallási oltárképeiről és hagyományos falazatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -73.003178,
+                        5.744967
+                  ]
+            },
+            {
+                  "name": "Santuario Del Espíritu Santo",
+                  "text": "A Santuario Del Espíritu Santo egy békés spirituális menedék és templom, amelyet a nyüzsgő városközponttól távol eső, csendes, elmélkedő légkör jellemez.",
+                  "category": "religious",
+                  "coords": [
+                        -72.949589,
+                        5.688106
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "A nyüzsgő Plaza de Mercado a közösség mezőgazdasági szíveként szolgál, ahol a gazdák összegyűlnek, hogy friss andoki termékeket és regionális sajtokat áruljanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.933561,
+                        5.721018
+                  ]
+            },
+            {
+                  "name": "Pilita de la Unión",
+                  "text": "A Pilita de la Unión egy történelmi közkút, amely egykor a város korai lakóinak elsődleges vízforrásaként és társadalmi gyülekezőhelyeként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.926836,
+                        5.711401
+                  ]
+            },
+            {
+                  "name": "La Misericordia de Dios",
+                  "text": "A La Misericordia de Dios egy modern keresztény istentiszteleti központ a fennsíkon, amelyet karizmatikus imaszolgálatoknak és közösségi programoknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.001841,
+                        5.633542
+                  ]
+            },
+            {
+                  "name": "iglesia el Rosario",
+                  "text": "Az Iglesia el Rosario egy hosszan fennálló keresztény plébánia, amelyet rusztikus gyarmati kori, meszelt falai és rendszeres áhítatos összejövetelei jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.935333,
+                        5.712702
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Ez a keresztény plébánia a sofőrök védőszentjének van szentelve, és felismerhető központi harangtornyáról, valamint a júliusi védőszent ünnepe alatti nyüzsgő fesztiválokról.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.938126,
+                        5.724658
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "A szombati istentiszteletekkel működő Hetednapi Adventista templom strukturált helyszínt kínál a bibliatanulmányozáshoz és a közösségi támogatáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.942179,
+                        5.71082
+                  ]
+            },
+            {
+                  "name": "Basílica menor de Nuestra Señora de las Nieves",
+                  "text": "A firavitobai Havas Boldogasszony-bazilika egy monumentális neogótikus templom, amely fenségesen tornyosul az andoki fennsík fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991857,
+                        5.668975
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los testigos de Jeová",
+                  "text": "Ez a Királyság-terem Jehova Tanúi helyi közösségét szolgálja egy díszítetlen, funkcionális találkozóhellyel a gyülekezeti bibliatanulmányozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.993811,
+                        5.670193
+                  ]
+            },
+            {
+                  "name": "Mirador de Osos",
+                  "text": "A magasan a köderdőben található Mirador de Osos lenyűgöző kilátást nyújt a látogatóknak, és alkalmanként az őshonos andoki pápaszemes medvét is meg lehet figyelni.",
+                  "category": "natural",
+                  "coords": [
+                        -73.008224,
+                        5.739299
+                  ]
+            },
+            {
+                  "name": "Mirador Guátika",
+                  "text": "A kiterjedt Sugamuxi-völgyre néző Mirador Guátika festői kilátóként és egy ökológiai állatkert részeként is funkcionál.",
+                  "category": "natural",
+                  "coords": [
+                        -73.010218,
+                        5.735701
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Semillas",
+                  "text": "A Reserva Natural Semillas magasan fekvő frailejón növények sűrű területeit és a helyi andoki ökoszisztéma számára létfontosságú vízgyűjtő területeket véd.",
+                  "category": "natural",
+                  "coords": [
+                        -73.018959,
+                        5.726317
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Montecito",
+                  "text": "A Reserva Natural Montecito egy zord természetvédelmi terület, amely a kolumbiai Andok őshonos hegyi erdeinek és madárvilágának megőrzésére szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        -72.927977,
+                        5.698229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo La Troja",
+                  "text": "Un muzeu de patrimoniu rural de lângă Páramo de Ocetá, prezentând unelte agricole tradiționale și viața țărănească la mare altitudine.",
+                  "category": "museum",
+                  "coords": [
+                        -73.004584,
+                        5.744842
+                  ]
+            },
+            {
+                  "name": "Artesanias de Boyaca",
+                  "text": "Un spațiu expozițional care evidențiază textilele țesute tradițional, ceramica și obiectele de artizanat din regiunea Boyacá.",
+                  "category": "museum",
+                  "coords": [
+                        -72.941119,
+                        5.766696
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano de Arte Religioso Julio Franco Arango",
+                  "text": "Un muzeu care păstrează artă catolică colonială, veșminte ecleziastice și artefacte religioase istorice din regiunea Boyacá.",
+                  "category": "museum",
+                  "coords": [
+                        -72.987896,
+                        5.788584
+                  ]
+            },
+            {
+                  "name": "Usamena",
+                  "text": "Ruine arheologice indigene precolumbiene situate în peisajul andin de mare altitudine din Páramo de Ocetá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.975727,
+                        5.639524
+                  ]
+            },
+            {
+                  "name": "La Quesera",
+                  "text": "Un vechi sit arheologic de lângă Páramo de Ocetá care conține urme timpurii ale așezărilor indigene sau ale adăposturilor în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        -72.975942,
+                        5.648219
+                  ]
+            },
+            {
+                  "name": "La Media Luna",
+                  "text": "O formă arheologică în formă de semilună care dezvăluie istoria indigenă timpurie din Páramo de Ocetá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.952722,
+                        5.637232
+                  ]
+            },
+            {
+                  "name": "La Cara",
+                  "text": "O formațiune stâncoasă distinctivă sau un sit sculptat antic din Páramo de Ocetá cu semnificație arheologică precolumbiană.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951801,
+                        5.636913
+                  ]
+            },
+            {
+                  "name": "Piedra Las Gabrielas",
+                  "text": "Piedra Las Gabrielas este un sit arheologic cu artă rupestră situat în peisajele de mare altitudine din Páramo de Ocetá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951987,
+                        5.655507
+                  ]
+            },
+            {
+                  "name": "Carita Sonriente",
+                  "text": "Carita Sonriente este un sit arheologic antic care prezintă sculpturi rupestre indigene ce seamănă cu o față zâmbitoare.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951508,
+                        5.656492
+                  ]
+            },
+            {
+                  "name": "Piedra Cargada",
+                  "text": "Piedra Cargada este un bolovan masiv din ținuturile înalte andine care servește drept un important reper arheologic indigen.",
+                  "category": "historical",
+                  "coords": [
+                        -72.9479,
+                        5.647508
+                  ]
+            },
+            {
+                  "name": "Piedras Grandes",
+                  "text": "Piedras Grandes cuprinde un grup proeminent de roci monolitice mari, cu semnificație arheologică în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -72.950574,
+                        5.644617
+                  ]
+            },
+            {
+                  "name": "La piedra de la Yuca",
+                  "text": "La piedra de la Yuca este o formațiune de piatră istorică purtând marcaje antice legate de tradițiile agricole indigene.",
+                  "category": "historical",
+                  "coords": [
+                        -72.953487,
+                        5.642995
+                  ]
+            },
+            {
+                  "name": "Tutasá",
+                  "text": "Situl arheologic Tutasá dezvăluie artefacte cruciale și fragmente ceramice care urmăresc primele așezări indigene din Boyacá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.943577,
+                        5.651677
+                  ]
+            },
+            {
+                  "name": "Banderas Plazoleta Sol de Irika",
+                  "text": "Acest monument se află în piața Sol de Irika, prezentând steaguri proeminente care celebrează moștenirea de adorare a soarelui a culturii Muisca din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -72.930831,
+                        5.716051
+                  ]
+            },
+            {
+                  "name": "Cueva Pozo del Romero",
+                  "text": "Cueva Pozo del Romero este o așezare rupestră antică ce conține un puț natural utilizat istoric de populațiile indigene.",
+                  "category": "historical",
+                  "coords": [
+                        -72.955553,
+                        5.659886
+                  ]
+            },
+            {
+                  "name": "La Antigua",
+                  "text": "La Antigua este o zonă de explorare arheologică la altitudine, care păstrează rămășițele fundaționale ale unei așezări andine precoloniale.",
+                  "category": "historical",
+                  "coords": [
+                        -72.955725,
+                        5.658425
+                  ]
+            },
+            {
+                  "name": "Monumento a la Raza",
+                  "text": "Monumento a la Raza este un tribut sculptural impresionant, plasat pe fundalul peisajului de paramo, onorând rădăcinile etnice și reziliența strămoșilor indigeni locali.",
+                  "category": "historical",
+                  "coords": [
+                        -72.927526,
+                        5.714644
+                  ]
+            },
+            {
+                  "name": "Teatro Tibasosa",
+                  "text": "Teatro Tibasosa este un loc cultural central din oraș, găzduind spectacole dramatice locale și evenimente comunitare într-un cadru arhitectural tradițional.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.00354,
+                        5.746554
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Acest sanctuar marian de pe coastă prezintă o statuie venerată a Fecioarei Maria, servind ca un loc de pelerinaj liniștit pentru credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        -73.004688,
+                        5.67696
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această ramură locală a Bisericii LDS oferă o casă de adunare modernă pentru congregațiile mormone din ținuturile andine.",
+                  "category": "religious",
+                  "coords": [
+                        -72.941697,
+                        5.708844
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "Iglesia Nuestra Señora del Rosario este o impunătoare biserică catolică din epoca colonială, cunoscută pentru retablurile sale religioase ornamentate și zidăria tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -73.003178,
+                        5.744967
+                  ]
+            },
+            {
+                  "name": "Santuario Del Espíritu Santo",
+                  "text": "Santuario Del Espíritu Santo este un refugiu spiritual pașnic și o biserică caracterizată de atmosfera sa liniștită, contemplativă, departe de centrul aglomerat al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -72.949589,
+                        5.688106
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "Animata Plaza de Mercado servește drept inima agricolă a comunității, unde fermierii se adună pentru a face comerț cu produse proaspete andine și brânzeturi regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.933561,
+                        5.721018
+                  ]
+            },
+            {
+                  "name": "Pilita de la Unión",
+                  "text": "Pilita de la Unión este o fântână publică istorică ce a servit odată drept principală sursă de apă și punct de întâlnire socială pentru primii rezidenți ai orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.926836,
+                        5.711401
+                  ]
+            },
+            {
+                  "name": "La Misericordia de Dios",
+                  "text": "La Misericordia de Dios este un centru de cult creștin modern dedicat serviciilor de rugăciune carismatică și programelor de asistență comunitară pe platoul înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.001841,
+                        5.633542
+                  ]
+            },
+            {
+                  "name": "iglesia el Rosario",
+                  "text": "Iglesia el Rosario este o parohie creștină durabilă, caracterizată prin pereții săi rustici văruiți în stil colonial și adunările de devoțiune regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.935333,
+                        5.712702
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Această parohie creștină este dedicată sfântului patron al șoferilor, fiind recunoscută după clopotnița sa centrală și sărbătorile vibrante din timpul sărbătorii patronale din iulie.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.938126,
+                        5.724658
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Funcționând cu servicii regulate de Sabat sâmbăta, această biserică Adventistă de Ziua a Șaptea oferă un loc structurat pentru studiul biblic și sprijinul comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.942179,
+                        5.71082
+                  ]
+            },
+            {
+                  "name": "Basílica menor de Nuestra Señora de las Nieves",
+                  "text": "Bazilica Minoră a Fecioarei Zăpezilor din Firavitoba este o biserică neogotică monumentală care se înalță maiestuos deasupra platoului andin.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991857,
+                        5.668975
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los testigos de Jeová",
+                  "text": "Această Sală a Regatului deservește comunitatea locală a Martorilor lui Iehova cu un spațiu de întâlnire neornamentat și funcțional pentru studiul biblic al congregației.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.993811,
+                        5.670193
+                  ]
+            },
+            {
+                  "name": "Mirador de Osos",
+                  "text": "Situat sus în pădurea de nori, Mirador de Osos oferă vizitatorilor priveliști ample și observări ocazionale ale ursului indigen andin cu ochelari.",
+                  "category": "natural",
+                  "coords": [
+                        -73.008224,
+                        5.739299
+                  ]
+            },
+            {
+                  "name": "Mirador Guátika",
+                  "text": "Având vedere la extinsa vale Sugamuxi, Mirador Guátika funcționează atât ca o punte de observație pitorească, cât și ca parte a unui parc zoologic ecologic.",
+                  "category": "natural",
+                  "coords": [
+                        -73.010218,
+                        5.735701
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Semillas",
+                  "text": "Reserva Natural Semillas protejează porțiuni dense de plante frailejón de mare altitudine și bazine hidrografice vitale, esențiale pentru ecosistemul andin local.",
+                  "category": "natural",
+                  "coords": [
+                        -73.018959,
+                        5.726317
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Montecito",
+                  "text": "Reserva Natural Montecito este o arie de conservare accidentată dedicată păstrării pădurilor montane native și a avifaunei din Anzii columbieni.",
+                  "category": "natural",
+                  "coords": [
+                        -72.927977,
+                        5.698229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo La Troja",
+                  "text": "A rural heritage museum near the Páramo de Ocetá showcasing traditional farming tools and high-altitude peasant life.",
+                  "category": "museum",
+                  "coords": [
+                        -73.004584,
+                        5.744842
+                  ]
+            },
+            {
+                  "name": "Artesanias de Boyaca",
+                  "text": "An exhibition space highlighting the traditional woven textiles, ceramics, and handicrafts of the Boyacá region.",
+                  "category": "museum",
+                  "coords": [
+                        -72.941119,
+                        5.766696
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano de Arte Religioso Julio Franco Arango",
+                  "text": "A museum preserving colonial Catholic art, ecclesiastical vestments, and historic religious artifacts from the Boyacá region.",
+                  "category": "museum",
+                  "coords": [
+                        -72.987896,
+                        5.788584
+                  ]
+            },
+            {
+                  "name": "Usamena",
+                  "text": "Pre-Columbian indigenous archaeological ruins located in the high-altitude Andean landscape of the Páramo de Ocetá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.975727,
+                        5.639524
+                  ]
+            },
+            {
+                  "name": "La Quesera",
+                  "text": "An ancient archaeological site near the Páramo de Ocetá containing early traces of indigenous settlements or rock shelters.",
+                  "category": "historical",
+                  "coords": [
+                        -72.975942,
+                        5.648219
+                  ]
+            },
+            {
+                  "name": "La Media Luna",
+                  "text": "A crescent-shaped archaeological feature revealing the early indigenous history embedded in the Páramo de Ocetá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.952722,
+                        5.637232
+                  ]
+            },
+            {
+                  "name": "La Cara",
+                  "text": "A distinctive rock formation or ancient carved site in the Páramo de Ocetá bearing pre-Columbian archaeological significance.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951801,
+                        5.636913
+                  ]
+            },
+            {
+                  "name": "Piedra Las Gabrielas",
+                  "text": "The Piedra Las Gabrielas is an archaeological rock art site located in the high-altitude landscapes of the Páramo de Ocetá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951987,
+                        5.655507
+                  ]
+            },
+            {
+                  "name": "Carita Sonriente",
+                  "text": "Carita Sonriente is an ancient archaeological site featuring indigenous rock carvings resembling a smiling face.",
+                  "category": "historical",
+                  "coords": [
+                        -72.951508,
+                        5.656492
+                  ]
+            },
+            {
+                  "name": "Piedra Cargada",
+                  "text": "Piedra Cargada is a massive boulder in the Andean highlands that serves as an important indigenous archaeological landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -72.9479,
+                        5.647508
+                  ]
+            },
+            {
+                  "name": "Piedras Grandes",
+                  "text": "Piedras Grandes comprises a prominent cluster of large monolithic rocks holding archaeological significance in the region.",
+                  "category": "historical",
+                  "coords": [
+                        -72.950574,
+                        5.644617
+                  ]
+            },
+            {
+                  "name": "La piedra de la Yuca",
+                  "text": "La piedra de la Yuca is a historical stone formation bearing ancient markings linked to indigenous agricultural traditions.",
+                  "category": "historical",
+                  "coords": [
+                        -72.953487,
+                        5.642995
+                  ]
+            },
+            {
+                  "name": "Tutasá",
+                  "text": "The Tutasá archaeological site reveals crucial artifacts and ceramic fragments that trace the early indigenous settlements of Boyacá.",
+                  "category": "historical",
+                  "coords": [
+                        -72.943577,
+                        5.651677
+                  ]
+            },
+            {
+                  "name": "Banderas Plazoleta Sol de Irika",
+                  "text": "This monument stands in the Sol de Irika square, featuring prominent flags that celebrate the region's Muisca sun-worshipping heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -72.930831,
+                        5.716051
+                  ]
+            },
+            {
+                  "name": "Cueva Pozo del Romero",
+                  "text": "The Cueva Pozo del Romero is an ancient cave site containing a natural well historically utilized by indigenous populations.",
+                  "category": "historical",
+                  "coords": [
+                        -72.955553,
+                        5.659886
+                  ]
+            },
+            {
+                  "name": "La Antigua",
+                  "text": "La Antigua is an elevated archaeological exploration zone preserving the foundational remnants of a pre-colonial Andean settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -72.955725,
+                        5.658425
+                  ]
+            },
+            {
+                  "name": "Monumento a la Raza",
+                  "text": "The Monumento a la Raza is a striking sculptural tribute set against the paramo landscape, honoring the ethnic roots and resilience of the local indigenous ancestors.",
+                  "category": "historical",
+                  "coords": [
+                        -72.927526,
+                        5.714644
+                  ]
+            },
+            {
+                  "name": "Teatro Tibasosa",
+                  "text": "Teatro Tibasosa is a central cultural venue in the town, hosting local dramatic performances and community events in a traditional architectural setting.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.00354,
+                        5.746554
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "This hillside Marian shrine features a venerated statue of the Virgin Mary, serving as a quiet pilgrimage spot for local believers.",
+                  "category": "religious",
+                  "coords": [
+                        -73.004688,
+                        5.67696
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This local branch of the LDS Church provides a modern meetinghouse for Mormon congregations in the Andean highlands.",
+                  "category": "religious",
+                  "coords": [
+                        -72.941697,
+                        5.708844
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Rosario",
+                  "text": "The Iglesia Nuestra Señora del Rosario is a stately colonial-era Catholic church known for its ornate religious altarpieces and traditional masonry.",
+                  "category": "religious",
+                  "coords": [
+                        -73.003178,
+                        5.744967
+                  ]
+            },
+            {
+                  "name": "Santuario Del Espíritu Santo",
+                  "text": "The Santuario Del Espíritu Santo is a peaceful spiritual retreat and church characterized by its quiet, contemplative atmosphere away from the bustling town center.",
+                  "category": "religious",
+                  "coords": [
+                        -72.949589,
+                        5.688106
+                  ]
+            },
+            {
+                  "name": "Plaza de Mercado",
+                  "text": "The bustling Plaza de Mercado serves as the agricultural heart of the community, where farmers gather to trade fresh Andean produce and regional cheeses.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.933561,
+                        5.721018
+                  ]
+            },
+            {
+                  "name": "Pilita de la Unión",
+                  "text": "The Pilita de la Unión is a historic public fountain that once served as the primary water source and social gathering point for the town's early residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.926836,
+                        5.711401
+                  ]
+            },
+            {
+                  "name": "La Misericordia de Dios",
+                  "text": "La Misericordia de Dios is a modern Christian worship center dedicated to charismatic prayer services and community outreach in the high plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.001841,
+                        5.633542
+                  ]
+            },
+            {
+                  "name": "iglesia el Rosario",
+                  "text": "The Iglesia el Rosario is an enduring Christian parish characterized by its rustic colonial whitewashed walls and regular devotional gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.935333,
+                        5.712702
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "This Christian parish is dedicated to the patron saint of drivers, recognizable by its central belfry and vibrant celebrations during July's patronal feast.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.938126,
+                        5.724658
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Operating with regular Saturday Sabbath services, this Seventh-Day Adventist church offers a structured venue for Bible study and community support.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.942179,
+                        5.71082
+                  ]
+            },
+            {
+                  "name": "Basílica menor de Nuestra Señora de las Nieves",
+                  "text": "The Minor Basilica of Our Lady of Snows in Firavitoba is a monumental neo-Gothic church towering majestically over the Andean plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991857,
+                        5.668975
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los testigos de Jeová",
+                  "text": "This Kingdom Hall serves the local community of Jehovah's Witnesses with an unadorned, functional meeting space for congregational Bible study.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.993811,
+                        5.670193
+                  ]
+            },
+            {
+                  "name": "Mirador de Osos",
+                  "text": "Set high in the cloud forest, the Mirador de Osos provides visitors with sweeping views and occasional sightings of the native Andean spectacled bear.",
+                  "category": "natural",
+                  "coords": [
+                        -73.008224,
+                        5.739299
+                  ]
+            },
+            {
+                  "name": "Mirador Guátika",
+                  "text": "Overlooking the expansive Sugamuxi valley, Mirador Guátika functions as both a scenic observation deck and part of an ecological zoological park.",
+                  "category": "natural",
+                  "coords": [
+                        -73.010218,
+                        5.735701
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Semillas",
+                  "text": "The Reserva Natural Semillas protects dense tracts of high-altitude frailejón plants and vital watersheds essential to the local Andean ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -73.018959,
+                        5.726317
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Montecito",
+                  "text": "Reserva Natural Montecito is a rugged conservation area dedicated to preserving the native montane forests and birdlife of the Colombian Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -72.927977,
+                        5.698229
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CO-BOY",
     coords: [-73.0, 5.7],
@@ -1312,7 +3886,232 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-desierto-tatacoa-relief-v2",
+    id: "co-desierto-tatacoa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Ventana",
+                  "text": "Ein malerischer Aussichtspunkt, der weite Ausblicke über die trockenen, erodierten Landschaften der Tatacoa-Wüste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -75.130424,
+                        3.224426
+                  ]
+            },
+            {
+                  "name": "Los Hoyos - Desierto Gris",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf die markanten grauen, erodierten Badlands, die als Los Hoyos in der Tatacoa-Wüste bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        -75.117371,
+                        3.236129
+                  ]
+            },
+            {
+                  "name": "Los Hoyos",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die mondähnlichen, grauen Tonformationen der Wüste.",
+                  "category": "natural",
+                  "coords": [
+                        -75.117369,
+                        3.237471
+                  ]
+            },
+            {
+                  "name": "Sendero de los Xilopalos",
+                  "text": "Ein Wüstenpfad, der an uralten versteinerten Holzresten vorbeiführt, die in dem trockenen Gelände verstreut sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.101519,
+                        3.236542
+                  ]
+            },
+            {
+                  "name": "Parque Zoologico",
+                  "text": "Ein kleiner zoologischer Park in der Nähe der Wüste, der an das regionale trockene Klima angepasste Tierarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.055291,
+                        3.152048
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora Del Carmen",
+                  "text": "Eine christliche Kirche, die der lokalen Gemeinde in der Nähe der Wüste dient und eine traditionelle Fassade aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.052761,
+                        3.153602
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Ventana",
+                  "text": "Festői kilátó, amely lenyűgöző panorámát nyújt a Tatacoa-sivatag száraz, erodált tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -75.130424,
+                        3.224426
+                  ]
+            },
+            {
+                  "name": "Los Hoyos - Desierto Gris",
+                  "text": "Ez a kilátó a Tatacoa-sivatag Los Hoyos néven ismert, jellegzetes szürke, erodált kietlen vidékére nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        -75.117371,
+                        3.236129
+                  ]
+            },
+            {
+                  "name": "Los Hoyos",
+                  "text": "Egy kilátó, ahonnan panorámás kilátás nyílik a sivatag holdszerű, szürke agyagformációira.",
+                  "category": "natural",
+                  "coords": [
+                        -75.117369,
+                        3.237471
+                  ]
+            },
+            {
+                  "name": "Sendero de los Xilopalos",
+                  "text": "A száraz terepen szétszórt, ősi megkövesedett famaradványok mellett elhaladó sivatagi ösvény.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.101519,
+                        3.236542
+                  ]
+            },
+            {
+                  "name": "Parque Zoologico",
+                  "text": "Egy kis állatkert a sivatag közelében, amely a regionális száraz éghajlathoz alkalmazkodott állatfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.055291,
+                        3.152048
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora Del Carmen",
+                  "text": "A sivataghoz közeli helyi közösséget szolgáló keresztény templom, amely hagyományos homlokzattal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.052761,
+                        3.153602
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Ventana",
+                  "text": "Un punct de belvedere pitoresc care oferă priveliști ample asupra peisajelor uscate și erodate ale deșertului Tatacoa.",
+                  "category": "natural",
+                  "coords": [
+                        -75.130424,
+                        3.224426
+                  ]
+            },
+            {
+                  "name": "Los Hoyos - Desierto Gris",
+                  "text": "Acest punct de belvedere oferă o priveliște asupra impresionantelor terenuri erodate și gri, cunoscute sub numele de Los Hoyos din Deșertul Tatacoa.",
+                  "category": "natural",
+                  "coords": [
+                        -75.117371,
+                        3.236129
+                  ]
+            },
+            {
+                  "name": "Los Hoyos",
+                  "text": "Un punct de belvedere care oferă vederi panoramice ale formațiunilor de argilă gri, asemănătoare lunii, din deșert.",
+                  "category": "natural",
+                  "coords": [
+                        -75.117369,
+                        3.237471
+                  ]
+            },
+            {
+                  "name": "Sendero de los Xilopalos",
+                  "text": "Un traseu în deșert care trece pe lângă rămășițe antice de lemn pietrificat împrăștiate pe terenul arid.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.101519,
+                        3.236542
+                  ]
+            },
+            {
+                  "name": "Parque Zoologico",
+                  "text": "Un mic parc zoologic în apropierea deșertului care expune specii de animale adaptate la clima regională uscată.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.055291,
+                        3.152048
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora Del Carmen",
+                  "text": "O biserică creștină care deservește comunitatea locală din apropierea deșertului, având o fațadă tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.052761,
+                        3.153602
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Ventana",
+                  "text": "A scenic viewpoint offering sweeping vistas over the dry, eroded landscapes of the Tatacoa Desert.",
+                  "category": "natural",
+                  "coords": [
+                        -75.130424,
+                        3.224426
+                  ]
+            },
+            {
+                  "name": "Los Hoyos - Desierto Gris",
+                  "text": "This viewpoint overlooks the striking grey, eroded badlands known as Los Hoyos in the Tatacoa Desert.",
+                  "category": "natural",
+                  "coords": [
+                        -75.117371,
+                        3.236129
+                  ]
+            },
+            {
+                  "name": "Los Hoyos",
+                  "text": "An overlook offering panoramic views of the lunar-like, grey clay formations of the desert.",
+                  "category": "natural",
+                  "coords": [
+                        -75.117369,
+                        3.237471
+                  ]
+            },
+            {
+                  "name": "Sendero de los Xilopalos",
+                  "text": "A desert trail leading past ancient fossilized wood remnants scattered in the arid terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.101519,
+                        3.236542
+                  ]
+            },
+            {
+                  "name": "Parque Zoologico",
+                  "text": "A small zoological park near the desert displaying animal species adapted to the regional dry climate.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.055291,
+                        3.152048
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora Del Carmen",
+                  "text": "A Christian church serving the local community near the desert, featuring a traditional facade.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.052761,
+                        3.153602
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CO-HUI",
     coords: [-75.1, 3.2],
@@ -1448,7 +4247,988 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-farallones-cali-relief-v2",
+    id: "co-farallones-cali-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Isla Perdida",
+                  "text": "Eine ruhige natürliche Badestelle am Pance-Fluss, umgeben von dichten tropischen Wäldern.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.619811,
+                        3.251157
+                  ]
+            },
+            {
+                  "name": "Charco Escondido",
+                  "text": "Dieses versteckte Flussbecken im kristallklaren Pance-Fluss ist ein Geheimtipp für Naturliebhaber.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.618652,
+                        3.251509
+                  ]
+            },
+            {
+                  "name": "La Ballena",
+                  "text": "Ein markanter Felsen im Flussbett des Pance, dessen Form an einen auftauchenden Wal erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.614593,
+                        3.276107
+                  ]
+            },
+            {
+                  "name": "Charco de Burbujas",
+                  "text": "Eine sprudelnde Stelle im Fluss, die für ihre erfrischenden Strudel und das saubere Gebirgswasser geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.647937,
+                        3.32704
+                  ]
+            },
+            {
+                  "name": "Charco Burbujas",
+                  "text": "Diese beliebte Badestelle am Pance-Fluss ist bekannt für ihre natürlichen Wasserblasen und Wirbel.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.651353,
+                        3.328245
+                  ]
+            },
+            {
+                  "name": "El Aleman",
+                  "text": "Ein bekannter Erholungsort am Flussufer, der am Wochenende viele Familien zum Picknick anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.636131,
+                        3.369853
+                  ]
+            },
+            {
+                  "name": "Torre de avistamiento",
+                  "text": "Ein hölzerner Beobachtungsturm, der weite Ausblicke auf die Gipfel der Farallones-Berge ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -76.580998,
+                        3.346176
+                  ]
+            },
+            {
+                  "name": "Juanes",
+                  "text": "Ein traditioneller Badeplatz im Fluss, benannt nach einem lokalen Anwesen, ideal zur Abkühlung in der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.56562,
+                        3.254499
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Das lokale Kulturhaus bietet Workshops und Ausstellungen zur Förderung der regionalen Kunstszene.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.540419,
+                        3.262154
+                  ]
+            },
+            {
+                  "name": "Alcaldía de Jamundí",
+                  "text": "Das Rathaus am Hauptplatz ist das Verwaltungszentrum von Jamundí, einer Stadt, die für ihre Cholado-Eisbecher berühmt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -76.540824,
+                        3.261046
+                  ]
+            },
+            {
+                  "name": "Las veraneras",
+                  "text": "Ein malerischer Ort am Fuße der Berge, benannt nach den farbenfrohen Bougainvillea-Blüten der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.528574,
+                        3.250227
+                  ]
+            },
+            {
+                  "name": "Auditorios Icesi",
+                  "text": "Moderne Auditorien der Icesi-Universität, die für akademische Kongresse und hochkarätige Konzerte genutzt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.52973,
+                        3.342552
+                  ]
+            },
+            {
+                  "name": "Hacienda La Gloria",
+                  "text": "Ein familienfreundlicher Tierpark am Fuße der Farallones, in dem man heimische Tierarten beobachten kann.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.520878,
+                        3.29983
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine lokale katholische Kirche, die als geistliches Zentrum für die umliegende Gemeinde im Tal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.551506,
+                        3.254721
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Sagrado Corazón",
+                  "text": "Diese kleine, dem Heiligen Herzen gewidmete Kapelle ist ein ruhiger Ort für das tägliche Gebet der Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.550111,
+                        3.25643
+                  ]
+            },
+            {
+                  "name": "Iglesia Portal del Jordan",
+                  "text": "Eine evangelikale Kirche im Viertel Portal del Jordán, bekannt für ihre lebendigen Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.544404,
+                        3.254571
+                  ]
+            },
+            {
+                  "name": "Iglecia pentecostal unida de Colombia IPU",
+                  "text": "Ein Versammlungsort der pfingstkirchlichen Gemeinde Colombias für gemeinschaftliche Gebete und Gesang.",
+                  "category": "religious",
+                  "coords": [
+                        -76.532636,
+                        3.251855
+                  ]
+            },
+            {
+                  "name": "El Rosario",
+                  "text": "Eine christliche Gebetsstätte in der Nähe von Cali, die nach dem Rosenkranz benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.544861,
+                        3.262995
+                  ]
+            },
+            {
+                  "name": "Iglesia Nazareno",
+                  "text": "Diese Kirche der Nazarener-Konfession bietet religiöse Programme für die lokale Jugend an.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.5367,
+                        3.271457
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Sacerdote",
+                  "text": "Eine katholische Pfarrkirche, die sich durch ihre moderne Architektur im südlichen Teil der Stadt auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -76.535841,
+                        3.266792
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de Los Testigos de Jehova",
+                  "text": "Ein schlichter Königreichssaal der Zeugen Jehovas, der für regelmäßige Bibelschulungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.536009,
+                        3.256642
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Portal",
+                  "text": "Eine christliche Kirche am Eingang des Wohnviertels, die den Bewohnern der Umgebung offensteht.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.535254,
+                        3.252574
+                  ]
+            },
+            {
+                  "name": "Iglesia san pedro y san pablo parque natura",
+                  "text": "Diese moderne Kirche dient der neuen Gemeinde im Parque Natura Viertel von Jamundí.",
+                  "category": "religious",
+                  "coords": [
+                        -76.557019,
+                        3.263298
+                  ]
+            },
+            {
+                  "name": "Iglesia el Castillo",
+                  "text": "Die im El Castillo Viertel gelegene Kirche ist für ihre einladende Gemeinschaftsatmosphäre bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.51614,
+                        3.27521
+                  ]
+            },
+            {
+                  "name": "La Maria",
+                  "text": "Eine christliche Kapelle, die den Namen der berühmten Hacienda aus dem Roman von Jorge Isaacs trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.532821,
+                        3.333827
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Eine einfache Kapelle für die stille Einkehr inmitten der ländlichen Umgebung bei Jamundí.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.531655,
+                        3.347788
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Reyes y sacerdotes",
+                  "text": "Eine christliche Gemeinde, die den Fokus auf das Studium der Heiligen Schrift und gemeinsame Lieder legt.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.549052,
+                        3.256617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Isla Perdida",
+                  "text": "Egy nyugodt természetes fürdőhely a Pance-folyó mentén, sűrű trópusi erdővel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.619811,
+                        3.251157
+                  ]
+            },
+            {
+                  "name": "Charco Escondido",
+                  "text": "A kristálytiszta Pance-folyó ezen rejtett medencéje igazi tipp a természet kedvelőinek.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.618652,
+                        3.251509
+                  ]
+            },
+            {
+                  "name": "La Ballena",
+                  "text": "Egy jellegzetes szikla a Pance medrében, amelynek alakja egy felszínre bukkanó bálnára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.614593,
+                        3.276107
+                  ]
+            },
+            {
+                  "name": "Charco de Burbujas",
+                  "text": "A folyó egy pezsgő szakasza, amelyet frissítő örvényei és tiszta hegyi vize miatt kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.647937,
+                        3.32704
+                  ]
+            },
+            {
+                  "name": "Charco Burbujas",
+                  "text": "A Pance-folyó ezen népszerű fürdőhelye a természetes buborékairól és örvényeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.651353,
+                        3.328245
+                  ]
+            },
+            {
+                  "name": "El Aleman",
+                  "text": "Egy ismert folyóparti pihenőhely, amely hétvégente sok családot vonz piknikezésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.636131,
+                        3.369853
+                  ]
+            },
+            {
+                  "name": "Torre de avistamiento",
+                  "text": "Egy fából készült kilátótorony, amely tágas kilátást nyújt a Farallones-hegység csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        -76.580998,
+                        3.346176
+                  ]
+            },
+            {
+                  "name": "Juanes",
+                  "text": "Egy tradicionális fürdőhely a folyóban, amely egy helyi birtokról kapta a nevét, ideális hűsölésre a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.56562,
+                        3.254499
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A helyi művelődési ház workshopokat és kiállításokat kínál a regionális művészeti élet támogatására.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.540419,
+                        3.262154
+                  ]
+            },
+            {
+                  "name": "Alcaldía de Jamundí",
+                  "text": "A főtéren álló városháza Jamundí közigazgatási központja, a városé, amely híres a cholado jégkásáiról.",
+                  "category": "historical",
+                  "coords": [
+                        -76.540824,
+                        3.261046
+                  ]
+            },
+            {
+                  "name": "Las veraneras",
+                  "text": "Egy festői hely a hegyek lábánál, amely a régió színes murvafürt virágairól kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.528574,
+                        3.250227
+                  ]
+            },
+            {
+                  "name": "Auditorios Icesi",
+                  "text": "Az Icesi Egyetem modern auditoriumai, amelyeket akadémiai kongresszusokra és rangos koncertekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.52973,
+                        3.342552
+                  ]
+            },
+            {
+                  "name": "Hacienda La Gloria",
+                  "text": "Családbarát állatpark a Farallones hegység lábánál, ahol helyi állatfajokat figyelhetünk meg.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.520878,
+                        3.29983
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Helyi katolikus templom, amely a völgyben fekvő környék hívő közösségének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.551506,
+                        3.254721
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Sagrado Corazón",
+                  "text": "Ez a Szent Szívnek szentelt kis kápolna a helyi lakosok mindennapi imádságának csendes helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.550111,
+                        3.25643
+                  ]
+            },
+            {
+                  "name": "Iglesia Portal del Jordan",
+                  "text": "Evangéliumi templom a Portal del Jordán negyedben, amely élénk istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.544404,
+                        3.254571
+                  ]
+            },
+            {
+                  "name": "Iglecia pentecostal unida de Colombia IPU",
+                  "text": "A kolumbiai pünkösdi közösség gyülekezési helye közös imádságokra és éneklésre.",
+                  "category": "religious",
+                  "coords": [
+                        -76.532636,
+                        3.251855
+                  ]
+            },
+            {
+                  "name": "El Rosario",
+                  "text": "Cali közelében található keresztény imaház, amelyet a rózsafüzérről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.544861,
+                        3.262995
+                  ]
+            },
+            {
+                  "name": "Iglesia Nazareno",
+                  "text": "Ez a Názáreti Egyházhoz tartozó templom vallási programokat kínál a helyi fiataloknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.5367,
+                        3.271457
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Sacerdote",
+                  "text": "Katolikus plébániatemplom, amely modern építészetével tűnik ki a város déli részén.",
+                  "category": "religious",
+                  "coords": [
+                        -76.535841,
+                        3.266792
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de Los Testigos de Jehova",
+                  "text": "Jehova Tanúi egyszerű királyságterme, amelyet rendszeres bibliatanulmányozásra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.536009,
+                        3.256642
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Portal",
+                  "text": "Keresztény templom a lakónegyed bejáratánál, amely nyitva áll a környező lakosok előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.535254,
+                        3.252574
+                  ]
+            },
+            {
+                  "name": "Iglesia san pedro y san pablo parque natura",
+                  "text": "Ez a modern templom Jamundí új, Parque Natura negyedének hívő közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -76.557019,
+                        3.263298
+                  ]
+            },
+            {
+                  "name": "Iglesia el Castillo",
+                  "text": "Az El Castillo negyedben található templom barátságos közösségi légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.51614,
+                        3.27521
+                  ]
+            },
+            {
+                  "name": "La Maria",
+                  "text": "Keresztény kápolna, amely Jorge Isaacs regényének híres haciendájának nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.532821,
+                        3.333827
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Egyszerű kápolna a csendes elvonuláshoz Jamundí vidéki környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.531655,
+                        3.347788
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Reyes y sacerdotes",
+                  "text": "Keresztény gyülekezet, amely a Szentírás tanulmányozására és a közös éneklésre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.549052,
+                        3.256617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Isla Perdida",
+                  "text": "Un loc natural de scăldat liniștit pe râul Pance, înconjurat de păduri tropicale dense.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.619811,
+                        3.251157
+                  ]
+            },
+            {
+                  "name": "Charco Escondido",
+                  "text": "Această piscină naturală ascunsă în râul Pance, cu ape cristaline, este un loc retras pentru iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.618652,
+                        3.251509
+                  ]
+            },
+            {
+                  "name": "La Ballena",
+                  "text": "O stâncă distinctivă în albia râului Pance, a cărei formă amintește de o balenă care iese la suprafață.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.614593,
+                        3.276107
+                  ]
+            },
+            {
+                  "name": "Charco de Burbujas",
+                  "text": "O zonă efervescentă a râului, apreciată pentru vârtejurile sale revigorante și apa curată de munte.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.647937,
+                        3.32704
+                  ]
+            },
+            {
+                  "name": "Charco Burbujas",
+                  "text": "Acest loc popular de scăldat de pe râul Pance este cunoscut pentru bulele și vârtejurile sale naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.651353,
+                        3.328245
+                  ]
+            },
+            {
+                  "name": "El Aleman",
+                  "text": "Un loc de recreere cunoscut pe malul râului, care atrage multe familii pentru picnic în weekend.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.636131,
+                        3.369853
+                  ]
+            },
+            {
+                  "name": "Torre de avistamiento",
+                  "text": "Un turn de observare din lemn care oferă vederi largi asupra vârfurilor munților Farallones.",
+                  "category": "natural",
+                  "coords": [
+                        -76.580998,
+                        3.346176
+                  ]
+            },
+            {
+                  "name": "Juanes",
+                  "text": "Un loc tradițional de scăldat în râu, numit după o proprietate locală, ideal pentru răcorire în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.56562,
+                        3.254499
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa locală de cultură oferă ateliere și expoziții pentru promovarea scenei artistice regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.540419,
+                        3.262154
+                  ]
+            },
+            {
+                  "name": "Alcaldía de Jamundí",
+                  "text": "Primăria situată în piața principală este centrul administrativ al orașului Jamundí, faimos pentru deserturile sale cholado.",
+                  "category": "historical",
+                  "coords": [
+                        -76.540824,
+                        3.261046
+                  ]
+            },
+            {
+                  "name": "Las veraneras",
+                  "text": "Un loc pitoresc la poalele munților, numit după florile colorate de buganvilla din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.528574,
+                        3.250227
+                  ]
+            },
+            {
+                  "name": "Auditorios Icesi",
+                  "text": "Auditorii moderne ale Universității Icesi, utilizate pentru congrese academice și concerte de înaltă ținută.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.52973,
+                        3.342552
+                  ]
+            },
+            {
+                  "name": "Hacienda La Gloria",
+                  "text": "Un parc de animale de familie la poalele munților Farallones, unde pot fi observate specii locale.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.520878,
+                        3.29983
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O biserică catolică locală care servește drept centru spiritual pentru comunitatea din vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.551506,
+                        3.254721
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Sagrado Corazón",
+                  "text": "Această mică capelă dedicată Inimii Sacre este un loc liniștit pentru rugăciunea zilnică a localnicilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.550111,
+                        3.25643
+                  ]
+            },
+            {
+                  "name": "Iglesia Portal del Jordan",
+                  "text": "O biserică evanghelică din cartierul Portal del Jordán, cunoscută pentru serviciile sale religioase pline de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.544404,
+                        3.254571
+                  ]
+            },
+            {
+                  "name": "Iglecia pentecostal unida de Colombia IPU",
+                  "text": "Un loc de adunare al comunității penticostale din Columbia pentru rugăciuni și cântări comune.",
+                  "category": "religious",
+                  "coords": [
+                        -76.532636,
+                        3.251855
+                  ]
+            },
+            {
+                  "name": "El Rosario",
+                  "text": "Un lăcaș de cult creștin de lângă Cali, numit după rozariu.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.544861,
+                        3.262995
+                  ]
+            },
+            {
+                  "name": "Iglesia Nazareno",
+                  "text": "Această biserică din confesiunea Nazarinean oferă programe religioase pentru tineretul local.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.5367,
+                        3.271457
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Sacerdote",
+                  "text": "O biserică parohială catolică ce se remarcă prin arhitectura sa modernă în partea de sud a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -76.535841,
+                        3.266792
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de Los Testigos de Jehova",
+                  "text": "O sală a Regatului a Martorilor lui Iehova, simplă, folosită pentru instruirea biblică regulată.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.536009,
+                        3.256642
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Portal",
+                  "text": "O biserică creștină la intrarea în cartierul rezidențial, deschisă locuitorilor din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.535254,
+                        3.252574
+                  ]
+            },
+            {
+                  "name": "Iglesia san pedro y san pablo parque natura",
+                  "text": "Această biserică modernă deservește noua comunitate din cartierul Parque Natura din Jamundí.",
+                  "category": "religious",
+                  "coords": [
+                        -76.557019,
+                        3.263298
+                  ]
+            },
+            {
+                  "name": "Iglesia el Castillo",
+                  "text": "Biserica situată în cartierul El Castillo este cunoscută pentru atmosfera sa comunitară primitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.51614,
+                        3.27521
+                  ]
+            },
+            {
+                  "name": "La Maria",
+                  "text": "O capelă creștină care poartă numele celebrei hacienda din romanul lui Jorge Isaacs.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.532821,
+                        3.333827
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "O capelă simplă pentru reculegere în mijlocul decorului rural de lângă Jamundí.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.531655,
+                        3.347788
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Reyes y sacerdotes",
+                  "text": "O comunitate creștină care se concentrează pe studiul Scripturii și pe cântările comune.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.549052,
+                        3.256617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isla Perdida",
+                  "text": "A tranquil natural swimming spot along the Pance River, surrounded by lush tropical vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.619811,
+                        3.251157
+                  ]
+            },
+            {
+                  "name": "Charco Escondido",
+                  "text": "A secluded natural pool in the crystal-clear Pance River, popular with locals seeking a quiet dip in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.618652,
+                        3.251509
+                  ]
+            },
+            {
+                  "name": "La Ballena",
+                  "text": "A distinctive large rock in the Pance River bed shaped like a whale, marking a popular riverside resting spot.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.614593,
+                        3.276107
+                  ]
+            },
+            {
+                  "name": "Charco de Burbujas",
+                  "text": "A bubbling river section known for its refreshing currents and clean mountain water, ideal for swimming.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.647937,
+                        3.32704
+                  ]
+            },
+            {
+                  "name": "Charco Burbujas",
+                  "text": "A popular recreational spot on the Pance River famous for its natural water bubbles and cool currents.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.651353,
+                        3.328245
+                  ]
+            },
+            {
+                  "name": "El Aleman",
+                  "text": "A well-known riverside recreational area that draws local families for picnics and swimming on weekends.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.636131,
+                        3.369853
+                  ]
+            },
+            {
+                  "name": "Torre de avistamiento",
+                  "text": "A wooden observation tower providing panoramic views of the Farallones de Cali mountain peaks and surrounding forests.",
+                  "category": "natural",
+                  "coords": [
+                        -76.580998,
+                        3.346176
+                  ]
+            },
+            {
+                  "name": "Juanes",
+                  "text": "A traditional river bathing area named after a local estate, offering a refreshing escape into the mountain waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.56562,
+                        3.254499
+                  ]
+            },
+            {
+                  "name": "House of the culture",
+                  "text": "A community cultural center offering workshops and art exhibitions to promote local talent and heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.540419,
+                        3.262154
+                  ]
+            },
+            {
+                  "name": "Alcaldía de Jamundí",
+                  "text": "Located in the main plaza, this town hall serves as the administrative heart of a town famous for its 'cholado' fruit desserts.",
+                  "category": "historical",
+                  "coords": [
+                        -76.540824,
+                        3.261046
+                  ]
+            },
+            {
+                  "name": "Las veraneras",
+                  "text": "A scenic recreational spot at the base of the mountains, named after the region's colorful bougainvillea flowers.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.528574,
+                        3.250227
+                  ]
+            },
+            {
+                  "name": "Auditorios Icesi",
+                  "text": "Modern university auditoriums known for hosting prestigious academic conferences and high-profile cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.52973,
+                        3.342552
+                  ]
+            },
+            {
+                  "name": "Hacienda La Gloria",
+                  "text": "A family-friendly animal park at the foot of the Farallones mountains, where you can see local species.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.520878,
+                        3.29983
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A local Catholic church that serves as a spiritual center for the surrounding valley community.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.551506,
+                        3.254721
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Sagrado Corazón",
+                  "text": "This small chapel dedicated to the Sacred Heart is a quiet spot for the daily prayers of local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.550111,
+                        3.25643
+                  ]
+            },
+            {
+                  "name": "Iglesia Portal del Jordan",
+                  "text": "An evangelical church in the Portal del Jordán neighborhood, known for its lively worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.544404,
+                        3.254571
+                  ]
+            },
+            {
+                  "name": "Iglecia pentecostal unida de Colombia IPU",
+                  "text": "A gathering place for the United Pentecostal Church of Colombia for communal prayers and singing.",
+                  "category": "religious",
+                  "coords": [
+                        -76.532636,
+                        3.251855
+                  ]
+            },
+            {
+                  "name": "El Rosario",
+                  "text": "A Christian place of worship near Cali, named after the Rosary.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.544861,
+                        3.262995
+                  ]
+            },
+            {
+                  "name": "Iglesia Nazareno",
+                  "text": "This church of the Nazarene denomination offers religious programs for the local youth.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.5367,
+                        3.271457
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Sacerdote",
+                  "text": "A Catholic parish church that stands out for its modern architecture in the southern part of the city.",
+                  "category": "religious",
+                  "coords": [
+                        -76.535841,
+                        3.266792
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de Los Testigos de Jehova",
+                  "text": "A simple Kingdom Hall of Jehovah's Witnesses used for regular Bible study and meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.536009,
+                        3.256642
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Portal",
+                  "text": "A Christian church at the entrance of the residential neighborhood, open to surrounding residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.535254,
+                        3.252574
+                  ]
+            },
+            {
+                  "name": "Iglesia san pedro y san pablo parque natura",
+                  "text": "This modern church serves the new community in the Parque Natura neighborhood of Jamundí.",
+                  "category": "religious",
+                  "coords": [
+                        -76.557019,
+                        3.263298
+                  ]
+            },
+            {
+                  "name": "Iglesia el Castillo",
+                  "text": "The church located in the El Castillo neighborhood is known for its welcoming community atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.51614,
+                        3.27521
+                  ]
+            },
+            {
+                  "name": "La Maria",
+                  "text": "A Christian chapel that bears the name of the famous hacienda from Jorge Isaacs' novel.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.532821,
+                        3.333827
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "A simple chapel for quiet reflection amidst the rural setting near Jamundí.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.531655,
+                        3.347788
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Reyes y sacerdotes",
+                  "text": "A Christian congregation that focuses on the study of the Scriptures and communal singing.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.549052,
+                        3.256617
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-VAC",
     coords: [-76.6, 3.3],
@@ -1517,7 +5297,196 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-cerro-guadalupe-relief-v2",
+    id: "co-cerro-guadalupe-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alto Los Tunjos",
+                  "text": "Der Alto Los Tunjos ist ein hochgelegener Aussichtspunkt, der einen weiten Blick über die umgebende Berglandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -74.0289,
+                        4.558519
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Mataredonda",
+                  "text": "Der Parque Ecológico Mataredonda ist ein natürliches Ausflugsziel mit Feuchtgebieten und typischer Páramo-Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.0011,
+                        4.560912
+                  ]
+            },
+            {
+                  "name": "Cueva de los monos",
+                  "text": "Die Cueva de los monos ist eine natürliche Höhlenattraktion inmitten des zerklüfteten Felsgeländes.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.962313,
+                        4.597341
+                  ]
+            },
+            {
+                  "name": "Mirador La Piedra",
+                  "text": "Der Mirador La Piedra ist eine Aussichtsplattform auf einem markanten Felsvorsprung mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -74.054675,
+                        4.596461
+                  ]
+            },
+            {
+                  "name": "Cerro de Guadalupe",
+                  "text": "Der Cerro de Guadalupe ist ein prominenter Berggipfel in den östlichen Hügeln der kolumbianischen Hauptstadt.",
+                  "category": "natural",
+                  "coords": [
+                        -74.054576,
+                        4.591427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alto Los Tunjos",
+                  "text": "Az Alto Los Tunjos egy magasan fekvő kilátó, ahonnan széles kilátás nyílik a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -74.0289,
+                        4.558519
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Mataredonda",
+                  "text": "A Parque Ecológico Mataredonda vizes élőhelyekkel és jellegzetes páramo növényzettel rendelkező természeti kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.0011,
+                        4.560912
+                  ]
+            },
+            {
+                  "name": "Cueva de los monos",
+                  "text": "A Cueva de los monos egy természetes barlanglátványosság a zord sziklás terep közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.962313,
+                        4.597341
+                  ]
+            },
+            {
+                  "name": "Mirador La Piedra",
+                  "text": "A Mirador La Piedra egy kilátó egy jellegzetes sziklakiugráson, ahonnan panorámás kilátás nyílik.",
+                  "category": "natural",
+                  "coords": [
+                        -74.054675,
+                        4.596461
+                  ]
+            },
+            {
+                  "name": "Cerro de Guadalupe",
+                  "text": "A Cerro de Guadalupe egy kiemelkedő hegycsúcs a kolumbiai főváros keleti dombjain.",
+                  "category": "natural",
+                  "coords": [
+                        -74.054576,
+                        4.591427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alto Los Tunjos",
+                  "text": "Alto Los Tunjos este un punct de belvedere la altitudine ridicată, care oferă o panoramă largă asupra peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -74.0289,
+                        4.558519
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Mataredonda",
+                  "text": "Parque Ecológico Mataredonda este o destinație naturală de excursie cu zone umede și vegetație tipică de páramo.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.0011,
+                        4.560912
+                  ]
+            },
+            {
+                  "name": "Cueva de los monos",
+                  "text": "Cueva de los monos este o atracție a unei peșteri naturale situată în mijlocul terenului stâncos accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.962313,
+                        4.597341
+                  ]
+            },
+            {
+                  "name": "Mirador La Piedra",
+                  "text": "Mirador La Piedra este o platformă de observare situată pe un afloriment stâncos distinctiv cu vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        -74.054675,
+                        4.596461
+                  ]
+            },
+            {
+                  "name": "Cerro de Guadalupe",
+                  "text": "Cerro de Guadalupe este un vârf muntos proeminent pe dealurile estice ale capitalei columbiene.",
+                  "category": "natural",
+                  "coords": [
+                        -74.054576,
+                        4.591427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alto Los Tunjos",
+                  "text": "Alto Los Tunjos is a high-altitude viewpoint offering a sweeping view of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -74.0289,
+                        4.558519
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Mataredonda",
+                  "text": "Parque Ecológico Mataredonda is a natural excursion destination with wetlands and typical páramo vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.0011,
+                        4.560912
+                  ]
+            },
+            {
+                  "name": "Cueva de los monos",
+                  "text": "Cueva de los monos is a natural cave attraction set amid the rugged rocky terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.962313,
+                        4.597341
+                  ]
+            },
+            {
+                  "name": "Mirador La Piedra",
+                  "text": "Mirador La Piedra is a viewing platform on a prominent rocky outcrop with panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -74.054675,
+                        4.596461
+                  ]
+            },
+            {
+                  "name": "Cerro de Guadalupe",
+                  "text": "Cerro de Guadalupe is a prominent mountain peak in the eastern hills of the Colombian capital.",
+                  "category": "natural",
+                  "coords": [
+                        -74.054576,
+                        4.591427
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-DC",
     coords: [-74.05, 4.59],
@@ -1586,7 +5555,52 @@ export const poiExtraColombiaReliefV2: POI[] = [
     },
   },
   {
-    id: "co-serrania-san-lucas-relief-v2",
+    id: "co-serrania-san-lucas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Serrania De San Lucas",
+                  "text": "Dieses isolierte Gebirge erhebt sich aus dem Tiefland und ist ein wichtiger Biodiversitäts-Hotspot für tropische Arten.",
+                  "category": "natural",
+                  "coords": [
+                        -74.279763,
+                        8.136469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Serrania De San Lucas",
+                  "text": "Ez az alföldről kiemelkedő elszigetelt hegység a trópusi fajok kritikus biodiverzitási forrópontja.",
+                  "category": "natural",
+                  "coords": [
+                        -74.279763,
+                        8.136469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Serrania De San Lucas",
+                  "text": "Acest lanț muntos izolat se ridică din zonele joase și este un punct critic de biodiversitate pentru speciile tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -74.279763,
+                        8.136469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Serrania De San Lucas",
+                  "text": "This isolated mountain range rises from the lowlands and is a critical biodiversity hotspot for tropical species.",
+                  "category": "natural",
+                  "coords": [
+                        -74.279763,
+                        8.136469
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CO-BOL",
     coords: [-74.2, 8.1],

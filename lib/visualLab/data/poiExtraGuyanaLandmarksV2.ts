@@ -34,7 +34,52 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       ro: ["Finalizată în 1892.", "Înălțime de peste 43 de metri."],
       en: ["Completed in 1892.", "Height of over 43 meters."]
     }, image: "/poi-images/st-georges-cathedral-landmarks-v2.webp"}, {
-    id: "stabroek-market-landmarks-v2",
+    id: "stabroek-market-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stabroek Market",
+                  "text": "Dieser markante Eisenbau aus der viktorianischen Ära ist berühmt für seinen hohen Uhrturm und sein reges Markttreiben.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.167803,
+                        6.809868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stabroek Market",
+                  "text": "Ez a jellegzetes viktoriánus kori vaskonstrukció magas óratornyáról és nyüzsgő piaci életéről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.167803,
+                        6.809868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stabroek Market",
+                  "text": "Această structură de fier distinctivă din epoca victoriană este faimoasă pentru turnul său înalt cu ceas și activitatea intensă a pieței.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.167803,
+                        6.809868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stabroek Market",
+                  "text": "This distinctive Victorian-era iron building is famous for its tall clock tower and bustling market activity.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.167803,
+                        6.809868
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1672, 6.8086],
@@ -104,7 +149,52 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le bâtiment a été officiellement achevé en 1834.", "Le projet a été conçu par l'architecte Joseph Hadfield.", "Le 26 mai 1966, l'indépendance de la Guyane y a été proclamée.", "Les coûts de construction s'élevaient à l'époque à environ 50 000 livres sterling.", "Il abrite l'Assemblée nationale de Guyane.", "Les fondations sont constituées d'épaisses plaques de bois de Greenheart."],
     },
   }, {
-    id: "umana-yana-landmarks-v2",
+    id: "umana-yana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chimney",
+                  "text": "Erhaltener Backsteinschornstein, der als Industriedenkmal in der Nähe der Küstenwahrzeichen dient.",
+                  "category": "historical",
+                  "coords": [
+                        -58.161481,
+                        6.825951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chimney",
+                  "text": "Fennmaradt tégla kémény, amely ipari műemlékként szolgál a parti nevezetességek közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -58.161481,
+                        6.825951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chimney",
+                  "text": "Coș de fum din cărămidă conservat, servind ca monument industrial lângă reperele de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -58.161481,
+                        6.825951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chimney",
+                  "text": "Preserved brick chimney serving as an industrial monument near the coastal landmarks.",
+                  "category": "historical",
+                  "coords": [
+                        -58.161481,
+                        6.825951
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.161, 6.827],
@@ -139,7 +229,52 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["L'Umana Yana original a été construit en seulement 80 jours en 1972.", "Il atteint une hauteur totale d'environ 26 mètres.", "Le nom provient de la langue des autochtones Wai-Wai.", "La structure a été détruite par un incendie en 2014 et reconstruite en 2016.", "Environ 500 000 feuilles de palmier ont été utilisées pour le toit lors de la construction.", "Il est situé près de l'hôtel Pegasus, dans le nord de Georgetown."],
     },
   }, {
-    id: "1763-monument-landmarks-v2",
+    id: "1763-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Destiny Empowerment Worship Centre",
+                  "text": "Ein modernes Anbetungszentrum in der Nähe des ikonischen 1763-Denkmals.",
+                  "category": "religious",
+                  "coords": [
+                        -58.153263,
+                        6.803143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Destiny Empowerment Worship Centre",
+                  "text": "Modern istentiszteleti központ az ikonikus 1763-as emlékmű közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -58.153263,
+                        6.803143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Destiny Empowerment Worship Centre",
+                  "text": "Un centru de cult modern situat lângă emblematicul Monument 1763.",
+                  "category": "religious",
+                  "coords": [
+                        -58.153263,
+                        6.803143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Destiny Empowerment Worship Centre",
+                  "text": "A modern worship center located near the iconic 1763 Monument.",
+                  "category": "religious",
+                  "coords": [
+                        -58.153263,
+                        6.803143
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1522, 6.8015],
@@ -279,7 +414,124 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le stade a été inauguré en 2007 pour la Coupe du monde de cricket.", "Le gouvernement indien a accordé un prêt de 19 millions USD pour la construction.", "Il offre une capacité de 15 000 places assises fixes.", "Le stade est situé sur l'ancien site d'une plantation de canne à sucre.", "C'est le stade de résidence des Guyana Amazon Warriors dans la CPL.", "Le complexe comprend deux tribunes principales et plusieurs buttes de pelouse pour les spectateurs."],
     },
   }, {
-    id: "demerara-harbour-bridge-landmarks-v2",
+    id: "demerara-harbour-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "new line taxi",
+                  "text": "Dieser städtische Aussichtspunkt befindet sich direkt über dem geschäftigen lokalen Taxistand und Verkehrsknotenpunkt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.177305,
+                        6.764966
+                  ]
+            },
+            {
+                  "name": "Independence Arch",
+                  "text": "Dieser große Aluminiumbogen steht markant am Brickdam und war ein Geschenk zur Erinnerung an die Unabhängigkeit Guyanas von Großbritannien.",
+                  "category": "historical",
+                  "coords": [
+                        -58.171774,
+                        6.776408
+                  ]
+            },
+            {
+                  "name": "St.Peter and St. Paul Roman Catholic Church",
+                  "text": "Diese historische römisch-katholische Pfarrkirche bietet ein klassisches spirituelles Zentrum für Gläubige nahe der Harbour Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.176579,
+                        6.766807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "new line taxi",
+                  "text": "Ez a városi kilátópont közvetlenül a forgalmas helyi taxiállomás és közlekedési csomópont felett található.",
+                  "category": "natural",
+                  "coords": [
+                        -58.177305,
+                        6.764966
+                  ]
+            },
+            {
+                  "name": "Independence Arch",
+                  "text": "A Brickdam-on feltűnő nagy alumíniumív egy ajándék volt Guyana Nagy-Britanniától való függetlenségének emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -58.171774,
+                        6.776408
+                  ]
+            },
+            {
+                  "name": "St.Peter and St. Paul Roman Catholic Church",
+                  "text": "Ez a történelmi római katolikus plébániatemplom klasszikus spirituális központot biztosít a Kikötői híd közelében élő hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.176579,
+                        6.766807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "new line taxi",
+                  "text": "Acest punct de observație urban este situat chiar deasupra stației aglomerate de taxiuri locale și a nodului de tranzit.",
+                  "category": "natural",
+                  "coords": [
+                        -58.177305,
+                        6.764966
+                  ]
+            },
+            {
+                  "name": "Independence Arch",
+                  "text": "Stând proeminent pe Brickdam, acest arc mare din aluminiu a fost un cadou pentru a comemora independența Guyanei față de Marea Britanie.",
+                  "category": "historical",
+                  "coords": [
+                        -58.171774,
+                        6.776408
+                  ]
+            },
+            {
+                  "name": "St.Peter and St. Paul Roman Catholic Church",
+                  "text": "Această biserică parohială romano-catolică istorică oferă un centru spiritual clasic pentru credincioșii din apropierea podului Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.176579,
+                        6.766807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "new line taxi",
+                  "text": "This urban observation point is situated directly above the busy local taxi stand and transit hub.",
+                  "category": "natural",
+                  "coords": [
+                        -58.177305,
+                        6.764966
+                  ]
+            },
+            {
+                  "name": "Independence Arch",
+                  "text": "Standing prominently on Brickdam, this large aluminum arch was a gift to commemorate Guyana's independence from Britain.",
+                  "category": "historical",
+                  "coords": [
+                        -58.171774,
+                        6.776408
+                  ]
+            },
+            {
+                  "name": "St.Peter and St. Paul Roman Catholic Church",
+                  "text": "This historic Roman Catholic parish church provides a classical spiritual center for worshippers near the Harbour Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.176579,
+                        6.766807
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1822, 6.7661],
@@ -349,7 +601,52 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le pont a été officiellement ouvert le 23 décembre 2008.", "Il a une longueur totale d'environ 1 570 mètres.", "La construction comprend 39 travées sur pontons.", "Le pont a été co-développé par le groupe allemand Bosch Rexroth.", "Il existe une section escamotable de 70 mètres pour les navires.", "Le pont relie les régions de Mahaica-Berbice et d'East Berbice-Corentyne."],
     },
   }, {
-    id: "state-house-guyana-landmarks-v2",
+    id: "state-house-guyana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Promenade Gardens",
+                  "text": "Dieser ruhige botanische Garten im viktorianischen Stil beherbergt einen historischen Musikpavillon und seltene Pflanzen.",
+                  "category": "park",
+                  "coords": [
+                        -58.161627,
+                        6.816873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Promenade Gardens",
+                  "text": "Ez a nyugodt, viktoriánus stílusú botanikus kert egy történelmi zenepavilonnak és ritka növényeknek ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        -58.161627,
+                        6.816873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Promenade Gardens",
+                  "text": "Această grădină botanică liniștită în stil victorian găzduiește un chioșc de muzică istoric și plante rare.",
+                  "category": "park",
+                  "coords": [
+                        -58.161627,
+                        6.816873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Promenade Gardens",
+                  "text": "This peaceful Victorian-style botanical garden features a historical bandstand and rare tropical plants.",
+                  "category": "park",
+                  "coords": [
+                        -58.161627,
+                        6.816873
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1617, 6.818],
@@ -384,7 +681,52 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le bâtiment a été achevé en 1852 pendant la période coloniale britannique.", "Il sert de résidence officielle et de bureau au président de Guyane.", "L'architecture combine des éléments de style victorien avec des adaptations tropicales.", "La State House est située sur le site de Carmichael Street à Georgetown.", "Elle était initialement prévue comme résidence pour les gouverneurs de la Guyane britannique.", "Elle est presque entièrement construite en bois dur local comme le Greenheart et le Wallaba."],
     },
   }, {
-    id: "guyana-national-museum-landmarks-v2",
+    id: "guyana-national-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Cenotaph",
+                  "text": "Kriegsdenkmal an einer großen Kreuzung zu Ehren der in den Weltkriegen gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        -58.165137,
+                        6.813621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Cenotaph",
+                  "text": "Egy nagyobb kereszteződésben található háborús emlékmű, amely a világháborúkban elesett katonák előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -58.165137,
+                        6.813621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Cenotaph",
+                  "text": "Monument comemorativ de război situat la o intersecție majoră, onorând soldații căzuți în Războaiele Mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        -58.165137,
+                        6.813621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cenotaph",
+                  "text": "War memorial monument located at a major intersection, honoring soldiers fallen in the World Wars.",
+                  "category": "historical",
+                  "coords": [
+                        -58.165137,
+                        6.813621
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1648, 6.8142],
@@ -419,7 +761,52 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le musée a été officiellement fondé le 13 février 1868.", "Le bâtiment actuel a été inauguré en 1951 selon les plans du gouvernement britannique.", "Il abrite une réplique grandeur nature d'un mégathérium (paresseux géant).", "La collection comprend plus de 10 000 objets d'histoire naturelle et culturels.", "L'entrée est gratuite pour le public afin de promouvoir l'éducation.", "Il est situé près du bureau de poste sur North Road à Georgetown."],
     },
   }, {
-    id: "walter-roth-museum-landmarks-v2",
+    id: "walter-roth-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parade ground",
+                  "text": "Offener, grasbewachsener städtischer Platz, der historisch für militärische Übungen und öffentliche Versammlungen genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162554,
+                        6.81581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parade ground",
+                  "text": "Nyitott füves városi tér, amelyet történelmileg katonai gyakorlatokra és nyilvános gyűlésekre használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162554,
+                        6.81581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parade ground",
+                  "text": "Piațetă urbană deschisă cu iarbă, folosită istoric pentru exerciții militare și adunări publice.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162554,
+                        6.81581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parade ground",
+                  "text": "Open grassy urban square historically used for military drills and public assemblies.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162554,
+                        6.81581
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.162, 6.8155],
@@ -454,7 +841,196 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le musée a été officiellement ouvert en 1974 en tant qu'établissement pionnier dans la région.", "Il est situé dans une maison historique sur Main Street à Georgetown.", "La collection repose en partie sur les recherches du Dr Walter Roth.", "Des artéfacts des neuf peuples autochtones du Guyana y sont exposés.", "Le bâtiment est un exemple classique de l'architecture en bois du Guyana du XIXe siècle.", "Le musée propose des programmes spéciaux pour la préservation des langues autochtones."],
     },
   }, {
-    id: "castellani-house-landmarks-v2",
+    id: "castellani-house-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moray House Trust",
+                  "text": "Kulturinstitut in einem historischen Gebäude, das sich der Förderung der guyanischen Künste und des öffentlichen Diskurses widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.159218,
+                        6.814529
+                  ]
+            },
+            {
+                  "name": "Woolford Avenue Mosque",
+                  "text": "Islamisches Gotteshaus mit traditionellen Minaretten entlang der Woolford Avenue.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153122,
+                        6.818077
+                  ]
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "Evangelisches Kirchengebäude, in dem Gottesdienste für die lokale lutherische Gemeinde stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158633,
+                        6.811126
+                  ]
+            },
+            {
+                  "name": "Dar Ulum",
+                  "text": "Islamisches Bildungsinstitut, das sich auf Koranstudien und religiöse Gelehrsamkeit konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.157127,
+                        6.813481
+                  ]
+            },
+            {
+                  "name": "St. Joseph Ursuline Convent",
+                  "text": "Katholischer Klosterkomplex, der die Schwestern des Ursulinenordens und ihre Bildungseinrichtungen beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.159713,
+                        6.812626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moray House Trust",
+                  "text": "Történelmi épületben működő kulturális intézmény, amely a guyanai művészetek és a közbeszéd népszerűsítésének szenteli magát.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.159218,
+                        6.814529
+                  ]
+            },
+            {
+                  "name": "Woolford Avenue Mosque",
+                  "text": "Hagyományos minaretekkel rendelkező iszlám istentiszteleti hely a Woolford Avenue mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153122,
+                        6.818077
+                  ]
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "Protestáns templomépület, amely a helyi evangélikus közösség számára nyújt istentiszteleteket.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158633,
+                        6.811126
+                  ]
+            },
+            {
+                  "name": "Dar Ulum",
+                  "text": "Iszlám oktatási intézmény, amely a korán tanulmányozására és a vallási ösztöndíjakra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.157127,
+                        6.813481
+                  ]
+            },
+            {
+                  "name": "St. Joseph Ursuline Convent",
+                  "text": "Katolikus kolostorkomplexum, amely az orsolyita rend nővéreinek és oktatási létesítményeiknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.159713,
+                        6.812626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moray House Trust",
+                  "text": "Instituție culturală găzduită într-o clădire istorică, dedicată promovării artelor și discursului public guyanez.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.159218,
+                        6.814529
+                  ]
+            },
+            {
+                  "name": "Woolford Avenue Mosque",
+                  "text": "Lăcaș de cult islamic cu minarete tradiționale, situat de-a lungul Bulevardului Woolford.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153122,
+                        6.818077
+                  ]
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "Clădire de biserică protestantă care oferă slujbe pentru comunitatea luterană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158633,
+                        6.811126
+                  ]
+            },
+            {
+                  "name": "Dar Ulum",
+                  "text": "Institut educațional islamic concentrat pe studiile coranice și erudiția religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.157127,
+                        6.813481
+                  ]
+            },
+            {
+                  "name": "St. Joseph Ursuline Convent",
+                  "text": "Complex monahal catolic ce găzduiește surorile ordinului ursulinelor și facilitățile lor educaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.159713,
+                        6.812626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moray House Trust",
+                  "text": "Cultural institution housed in a historic building, dedicated to promoting Guyanese arts and public discourse.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.159218,
+                        6.814529
+                  ]
+            },
+            {
+                  "name": "Woolford Avenue Mosque",
+                  "text": "Islamic place of worship with traditional minarets located along Woolford Avenue.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153122,
+                        6.818077
+                  ]
+            },
+            {
+                  "name": "Lutheran Church",
+                  "text": "Protestant church building providing services for the local Lutheran community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158633,
+                        6.811126
+                  ]
+            },
+            {
+                  "name": "Dar Ulum",
+                  "text": "Islamic educational institute focused on Quranic studies and religious scholarship.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.157127,
+                        6.813481
+                  ]
+            },
+            {
+                  "name": "St. Joseph Ursuline Convent",
+                  "text": "Catholic convent complex housing the sisters of the Ursuline order and their educational facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.159713,
+                        6.812626
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1578, 6.8145],
@@ -559,7 +1135,160 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le bâtiment a été construit à la fin du XIXe siècle.", "Il doit son nom aux bardeaux rouges caractéristiques en bois de wallaba.", "Le Dr Cheddi Jagan y a vécu de 1953 à 1957 en tant que ministre en chef.", "Situé sur High Street dans le quartier de Kingston à Georgetown.", "Il abrite le centre de recherche Cheddi Jagan depuis 1999.", "La maison a été construite presque entièrement en bois local du Guyana."],
     },
   }, {
-    id: "arthur-chung-conference-centre-landmarks-v2",
+    id: "arthur-chung-conference-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jagan Heritage Home",
+                  "text": "Das Jagan Heritage Home ehrt den ehemaligen guyanischen Präsidenten Cheddi Jagan und bewahrt sein historisches Wohnhaus samt persönlicher Gegenstände.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.128138,
+                        6.820912
+                  ]
+            },
+            {
+                  "name": "National Aquatic Center",
+                  "text": "Das National Aquatic Center verfügt über ein olympisches Schwimmbecken der Spitzenklasse, in dem nationale Schwimmwettbewerbe ausgetragen werden.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.118755,
+                        6.822784
+                  ]
+            },
+            {
+                  "name": "Cummings Lodge Industry Hindu temple",
+                  "text": "Der hinduistische Tempel Cummings Lodge Industry zeichnet sich durch seine aufwendig verzierten Murtis (Götterstatuen) aus, die von den Gläubigen verehrt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.110383,
+                        6.815647
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Die Kirche Jesu Christi der Heiligen der Letzten Tage besitzt hier ein modernes Versammlungshaus für Familienandachten der Mormonen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.128159,
+                        6.818679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jagan Heritage Home",
+                  "text": "A Jagan Heritage Home a korábbi guyanai elnök, Cheddi Jagan előtt tiszteleg, és megőrzi történelmi lakóházát személyes tárgyaival együtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.128138,
+                        6.820912
+                  ]
+            },
+            {
+                  "name": "National Aquatic Center",
+                  "text": "A Nemzeti Vízi Központ egy első osztályú olimpiai úszómedencével rendelkezik, ahol országos úszóversenyeket rendeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.118755,
+                        6.822784
+                  ]
+            },
+            {
+                  "name": "Cummings Lodge Industry Hindu temple",
+                  "text": "A Cummings Lodge Industry hindu templomot gazdagon díszített murtik (istenszobrok) jellemzik, amelyeket a hívek mélyen tisztelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.110383,
+                        6.815647
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyháza itt egy modern gyülekezeti házzal rendelkezik a mormon családi áhítatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.128159,
+                        6.818679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jagan Heritage Home",
+                  "text": "Casa de patrimoniu Jagan onorează fostul președinte guyanez Cheddi Jagan și conservă reședința sa istorică împreună cu obiecte personale.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.128138,
+                        6.820912
+                  ]
+            },
+            {
+                  "name": "National Aquatic Center",
+                  "text": "Centrul Național Acvatic dispune de un bazin olimpic de înot de primă clasă, unde se desfășoară competiții naționale de natație.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.118755,
+                        6.822784
+                  ]
+            },
+            {
+                  "name": "Cummings Lodge Industry Hindu temple",
+                  "text": "Templul hindus Cummings Lodge Industry se distinge prin statuile murti (zei) bogat ornamentate, venerate de credincioși.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.110383,
+                        6.815647
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Biserica lui Isus Hristos a Sfinților din Zilele din Urmă deține aici o casă modernă de adunări pentru devoțiunile familiilor mormone.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.128159,
+                        6.818679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jagan Heritage Home",
+                  "text": "The Jagan Heritage Home honors former Guyanese President Cheddi Jagan, preserving his historic residence and personal belongings.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.128138,
+                        6.820912
+                  ]
+            },
+            {
+                  "name": "National Aquatic Center",
+                  "text": "The National Aquatic Center features a world-class Olympic-sized swimming pool used for hosting national swimming competitions.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.118755,
+                        6.822784
+                  ]
+            },
+            {
+                  "name": "Cummings Lodge Industry Hindu temple",
+                  "text": "The Cummings Lodge Industry Hindu temple is distinguished by its elaborately decorated murtis (deity statues) revered by the faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.110383,
+                        6.815647
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "The Church of Jesus Christ of Latter-day Saints features a modern meetinghouse here for Mormon family worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.128159,
+                        6.818679
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.118, 6.817],
@@ -629,7 +1358,196 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le cénotaphe a été officiellement dévoilé le 14 août 1923.", "Il est dédié à la mémoire des victimes des deux guerres mondiales.", "Le monument mesure 15 pieds de haut et est en marbre italien.", "Il est situé exactement au centre de Main Street à Georgetown.", "Sa conception s'inspire des monuments aux morts classiques européens.", "La cérémonie nationale du dimanche du Souvenir s'y déroule chaque année."],
     },
   }, {
-    id: "fort-zeelandia-guyana-landmarks-v2",
+    id: "fort-zeelandia-guyana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Dutch Heritage Museum",
+                  "text": "Eine kulturelle Einrichtung, die Artefakte aus der niederländischen Kolonialzeit der Region bewahrt und ausstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.511166,
+                        6.779788
+                  ]
+            },
+            {
+                  "name": "Bonisika jack dam farmers",
+                  "text": "Ein Beobachtungspunkt mit Blick auf die landwirtschaftlichen Dammstrukturen, die von lokalen Bonisika-Bauern errichtet wurden.",
+                  "category": "natural",
+                  "coords": [
+                        -58.472427,
+                        6.713842
+                  ]
+            },
+            {
+                  "name": "A line intake maripa",
+                  "text": "Ein Aussichtspunkt an einer spezifischen Wasserentnahmeleitung, die für die umliegende landwirtschaftliche Bewässerung von entscheidender Bedeutung ist.",
+                  "category": "natural",
+                  "coords": [
+                        -58.473264,
+                        6.744079
+                  ]
+            },
+            {
+                  "name": "Proposed inverted siphon",
+                  "text": "Ein Aussichtspunkt mit Blick auf den geplanten Standort für einen Düker im lokalen Wassermanagementsystem.",
+                  "category": "natural",
+                  "coords": [
+                        -58.48028,
+                        6.7466
+                  ]
+            },
+            {
+                  "name": "Bypass",
+                  "text": "Ein malerischer Aussichtspunkt an einem strukturellen Bypass, der dazu dient, lokale Wasserwege umzuleiten.",
+                  "category": "natural",
+                  "coords": [
+                        -58.489793,
+                        6.750066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Dutch Heritage Museum",
+                  "text": "A régió holland gyarmati korszakából származó tárgyakat őrző és kiállító kulturális intézmény.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.511166,
+                        6.779788
+                  ]
+            },
+            {
+                  "name": "Bonisika jack dam farmers",
+                  "text": "A helyi Bonisika gazdák által épített mezőgazdasági gátakra néző megfigyelőpont.",
+                  "category": "natural",
+                  "coords": [
+                        -58.472427,
+                        6.713842
+                  ]
+            },
+            {
+                  "name": "A line intake maripa",
+                  "text": "A környező mezőgazdasági öntözés szempontjából létfontosságú vízkivételi vezetéknél található kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        -58.473264,
+                        6.744079
+                  ]
+            },
+            {
+                  "name": "Proposed inverted siphon",
+                  "text": "Kilátópont, amely a helyi vízgazdálkodási rendszerben egy bujtató tervezett helyszínére néz.",
+                  "category": "natural",
+                  "coords": [
+                        -58.48028,
+                        6.7466
+                  ]
+            },
+            {
+                  "name": "Bypass",
+                  "text": "Festői kilátás egy olyan szerkezeti elkerülőnél, amelyet a helyi vízi utak átirányítására terveztek.",
+                  "category": "natural",
+                  "coords": [
+                        -58.489793,
+                        6.750066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Dutch Heritage Museum",
+                  "text": "O instituție culturală care păstrează și expune artefacte din epoca colonială olandeză a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.511166,
+                        6.779788
+                  ]
+            },
+            {
+                  "name": "Bonisika jack dam farmers",
+                  "text": "Un punct de observație cu vedere la structurile de baraj agricol construite de fermierii locali Bonisika.",
+                  "category": "natural",
+                  "coords": [
+                        -58.472427,
+                        6.713842
+                  ]
+            },
+            {
+                  "name": "A line intake maripa",
+                  "text": "Un punct de belvedere situat la o linie specifică de captare a apei vitală pentru irigațiile agricole din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -58.473264,
+                        6.744079
+                  ]
+            },
+            {
+                  "name": "Proposed inverted siphon",
+                  "text": "Un punct de observație cu vedere la situl planificat pentru un sifon inversat în sistemul local de gestionare a apei.",
+                  "category": "natural",
+                  "coords": [
+                        -58.48028,
+                        6.7466
+                  ]
+            },
+            {
+                  "name": "Bypass",
+                  "text": "O perspectivă pitorească poziționată la o variantă ocolitoare structurală concepută pentru a redirecționa căile navigabile locale.",
+                  "category": "natural",
+                  "coords": [
+                        -58.489793,
+                        6.750066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Dutch Heritage Museum",
+                  "text": "A cultural institution preserving and exhibiting artifacts from the region's Dutch colonial era.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.511166,
+                        6.779788
+                  ]
+            },
+            {
+                  "name": "Bonisika jack dam farmers",
+                  "text": "An observation point overlooking the agricultural dam structures built by local Bonisika farmers.",
+                  "category": "natural",
+                  "coords": [
+                        -58.472427,
+                        6.713842
+                  ]
+            },
+            {
+                  "name": "A line intake maripa",
+                  "text": "A viewpoint situated at a specific water intake line vital for the surrounding agricultural irrigation.",
+                  "category": "natural",
+                  "coords": [
+                        -58.473264,
+                        6.744079
+                  ]
+            },
+            {
+                  "name": "Proposed inverted siphon",
+                  "text": "A vantage point overlooking the planned site for an inverted siphon in the local water management system.",
+                  "category": "natural",
+                  "coords": [
+                        -58.48028,
+                        6.7466
+                  ]
+            },
+            {
+                  "name": "Bypass",
+                  "text": "A scenic outlook positioned at a structural bypass designed to reroute local waterways.",
+                  "category": "natural",
+                  "coords": [
+                        -58.489793,
+                        6.750066
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-ES",
     coords: [-58.52, 6.7725],
@@ -699,7 +1617,88 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le Court of Policy a été achevé en 1752.", "Il est considéré comme le plus ancien bâtiment en maçonnerie de tout le Guyana.", "Autrefois, il servait simultanément d'église, de tribunal et de bureau du gouvernement.", "Il abrite aujourd'hui le Dutch Heritage Museum.", "Le bâtiment se trouve à quelques minutes à pied de Fort Zeelandia.", "Il abrite des pierres tombales de colons néerlandais du XVIIIe siècle."],
     },
   }, {
-    id: "mission-chapel-new-amsterdam-landmarks-v2",
+    id: "mission-chapel-new-amsterdam-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "SDA Church",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten in New Amsterdam, einer der ältesten Städte Guyanas.",
+                  "category": "religious",
+                  "coords": [
+                        -57.479352,
+                        6.227041
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall Of Jehovah’s Witnesses",
+                  "text": "Ein Versammlungsort der Zeugen Jehovas in New Amsterdam, nahe der Mündung des Berbice-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.513234,
+                        6.243175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SDA Church",
+                  "text": "A Hetednapi Adventista Egyház temploma New Amsterdamban, Guyana egyik legrégebbi városában.",
+                  "category": "religious",
+                  "coords": [
+                        -57.479352,
+                        6.227041
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall Of Jehovah’s Witnesses",
+                  "text": "Jehova Tanúi gyülekezeti helye New Amsterdamban, a Berbice-folyó torkolatának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.513234,
+                        6.243175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SDA Church",
+                  "text": "O biserică adventistă de ziua a șaptea în New Amsterdam, unul dintre cele mai vechi orașe din Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -57.479352,
+                        6.227041
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall Of Jehovah’s Witnesses",
+                  "text": "Un loc de întâlnire al Martorilor lui Iehova în New Amsterdam, lângă gura de vărsare a râului Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.513234,
+                        6.243175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SDA Church",
+                  "text": "A Seventh-day Adventist church in New Amsterdam, one of the oldest established towns in Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -57.479352,
+                        6.227041
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall Of Jehovah’s Witnesses",
+                  "text": "A meeting place for Jehovah’s Witnesses in New Amsterdam, located near the Berbice River estuary.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.513234,
+                        6.243175
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-EB",
     coords: [-57.518, 6.2425],
@@ -734,7 +1733,52 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["La chapelle a été fondée à l'origine en 1824 par le missionnaire John Wray.", "Le bâtiment actuel date de 1841 et est un monument emblématique de New Amsterdam.", "En 2004, la Mission Chapel a été officiellement classée monument national.", "L'église a joué un rôle central dans l'alphabétisation des anciens esclaves.", "Elle appartient à la tradition congrégationaliste et est l'une des plus anciennes du genre.", "La structure est située sur Chapel Street, dans la ville de New Amsterdam."],
     },
   }, {
-    id: "all-saints-anglican-church-guyana-landmarks-v2",
+    id: "all-saints-anglican-church-guyana-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ascension Palmyra Roman Catholic Church",
+                  "text": "Eine römisch-katholische Pfarrkirche im ländlichen Gebiet von Palmyra bei New Amsterdam.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.519847,
+                        6.242717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ascension Palmyra Roman Catholic Church",
+                  "text": "Római katolikus plébániatemplom Palmyra vidéki területén, New Amsterdam közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.519847,
+                        6.242717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ascension Palmyra Roman Catholic Church",
+                  "text": "O biserică parohială romano-catolică în zona rurală Palmyra, lângă New Amsterdam.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.519847,
+                        6.242717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ascension Palmyra Roman Catholic Church",
+                  "text": "A Roman Catholic parish church in the rural Palmyra area near New Amsterdam.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.519847,
+                        6.242717
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-EB",
     coords: [-57.519, 6.2435],
@@ -769,7 +1813,88 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["La première pierre de l'église a été posée en 1839 à New Amsterdam.", "Le bâtiment est un exemple exceptionnel de l'architecture coloniale néogothique.", "À l'intérieur se trouve un orgue historique du XIXe siècle.", "L'église appartient au diocèse anglican de Guyane.", "Elle est stratégiquement située à proximité du fleuve Berbice.", "L'église All Saints est protégée en tant que patrimoine historique national."],
     },
   }, {
-    id: "takutu-river-bridge-landmarks-v2",
+    id: "takutu-river-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tabatinga 2",
+                  "text": "Ein Beobachtungspunkt mit weitem Blick über das Tabatinga-Gebiet in der Nähe der markanten Brücke über den Takutu-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        -59.79961,
+                        3.382031
+                  ]
+            },
+            {
+                  "name": "Tabatinga Culvert 1",
+                  "text": "Ein lokaler Aussichtspunkt am Durchlass 1, der eine interessante Perspektive auf das Wassermanagement nahe der Brücke über den Takutu-Fluss bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -59.8012,
+                        3.382049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tabatinga 2",
+                  "text": "Megfigyelőhely, amely lenyűgöző kilátást nyújt a Tabatinga térségére a kiemelkedő Takutu-folyó hídja közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -59.79961,
+                        3.382031
+                  ]
+            },
+            {
+                  "name": "Tabatinga Culvert 1",
+                  "text": "A Culvert 1 melletti helyi kilátó, amely érdekes perspektívát nyújt a Takutu-folyó hídja körüli vízgazdálkodásról.",
+                  "category": "natural",
+                  "coords": [
+                        -59.8012,
+                        3.382049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tabatinga 2",
+                  "text": "Un punct de observație care oferă vederi ample asupra zonei Tabatinga lângă proeminentul pod peste râul Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.79961,
+                        3.382031
+                  ]
+            },
+            {
+                  "name": "Tabatinga Culvert 1",
+                  "text": "Un punct de belvedere local lângă Podețul 1, care oferă o perspectivă interesantă asupra managementului apei lângă podul peste râul Takutu.",
+                  "category": "natural",
+                  "coords": [
+                        -59.8012,
+                        3.382049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tabatinga 2",
+                  "text": "An observation spot offering sweeping views over the Tabatinga area near the prominent Takutu River bridge.",
+                  "category": "natural",
+                  "coords": [
+                        -59.79961,
+                        3.382031
+                  ]
+            },
+            {
+                  "name": "Tabatinga Culvert 1",
+                  "text": "A local viewpoint by Culvert 1 that provides an interesting perspective on water management near the Takutu River bridge.",
+                  "category": "natural",
+                  "coords": [
+                        -59.8012,
+                        3.382049
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-UT",
     coords: [-59.8, 3.383],
@@ -804,7 +1929,772 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le pont a été officiellement inauguré le 14 septembre 2009.", "Il a une longueur totale de 230 mètres au-dessus de la rivière Takutu.", "C'est l'unique liaison routière entre la Guyane et le Brésil.", "Un système de rampes spécial permet de passer de la conduite à gauche à la conduite à droite.", "Les coûts de construction ont été majoritairement supportés par l'État brésilien.", "Le pont relie directement Lethem (Guyane) à Bonfim (Brésil)."],
     },
   }, {
-    id: "linden-soesdyke-highway-monument-landmarks-v2",
+    id: "linden-soesdyke-highway-monument-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moblissa",
+                  "text": "Dieser Aussichtspunkt am Straßenrand entlang des Linden-Soesdyke Highway bietet ein weites Panorama auf die umliegende tropische Forstwirtschaft in der Nähe von Moblissa.",
+                  "category": "natural",
+                  "coords": [
+                        -58.252421,
+                        6.078267
+                  ]
+            },
+            {
+                  "name": "Joseph apartments guest house",
+                  "text": "Dieser spezielle Aussichtspunkt bietet einen Blick auf die Gästehäuser inmitten der Grünanlagen im Bereich des Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.265062,
+                        6.028547
+                  ]
+            },
+            {
+                  "name": "Track 2",
+                  "text": "Dieser Aussichtspunkt, der einen ländlichen Pfad abseits des Linden-Soesdyke Highway beobachtet, ermöglicht Besuchern einen tiefen Blick in das dichte umliegende Waldgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.246764,
+                        6.025496
+                  ]
+            },
+            {
+                  "name": "Track 3",
+                  "text": "Dieser Aussichtspunkt befindet sich entlang eines der lokalen Naturpfade und hebt die raue Landschaft am Rande des Linden-Soesdyke Highway hervor.",
+                  "category": "natural",
+                  "coords": [
+                        -58.243507,
+                        6.025307
+                  ]
+            },
+            {
+                  "name": "Road to farm turn off",
+                  "text": "An einer wichtigen Kreuzung gelegen, bietet dieser Aussichtspunkt einen klaren Blick auf die unbefestigte Straße, die zu lokalen Farmen abseits des Linden-Soesdyke Highway führt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.191666,
+                        6.024758
+                  ]
+            },
+            {
+                  "name": "Yellowish coconut",
+                  "text": "Benannt nach einer markanten Palme, bietet dieser Aussichtspunkt einen malerischen Blick auf die vielfältige tropische Vegetation am Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197342,
+                        5.996138
+                  ]
+            },
+            {
+                  "name": "400 ft side line paal",
+                  "text": "Mit Blick auf eine spezifische Landgrenzmarkierung hebt dieser Aussichtspunkt am Linden-Soesdyke Highway die Unterteilung der lokalen Grundstücksgrenzen hervor.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196202,
+                        5.99997
+                  ]
+            },
+            {
+                  "name": "Iron paal at reserve pass hicks land",
+                  "text": "Dieser spezifische Aussichtspunkt konzentriert sich auf eine eiserne Grenzmarkierung, die sich an einem Reservatspass in der Nähe des bewaldeten Randes des Linden-Soesdyke Highway befindet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.198458,
+                        6.001048
+                  ]
+            },
+            {
+                  "name": "Dave boundary paal",
+                  "text": "Inmitten der Vegetation des Linden-Soesdyke Highway gelegen, bietet dieser Ort einen klaren Beobachtungspunkt für eine lokale Landbesitzmarkierung.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197309,
+                        6.001091
+                  ]
+            },
+            {
+                  "name": "Paal",
+                  "text": "Markiert durch einen traditionellen Grundstückspfosten, bietet dieser Aussichtspunkt einen ruhigen Blick auf die Landaufteilungen entlang der ländlichen Abschnitte des Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.191575,
+                        6.001458
+                  ]
+            },
+            {
+                  "name": "Neville new start point",
+                  "text": "Dieser Aussichtspunkt dient als ausgewiesener Startpunkt für Wanderwege und bietet einen Panoramablick auf das natürliche Gelände, das an den Linden-Soesdyke Highway grenzt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196057,
+                        5.994397
+                  ]
+            },
+            {
+                  "name": "Green coconut",
+                  "text": "Ein tropischer Aussichtspunkt am Highway, der für seine umgebenden grünen Kokospalmen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197284,
+                        5.994709
+                  ]
+            },
+            {
+                  "name": "Swamp during rain",
+                  "text": "Ein Aussichtspunkt, der bei Regenwetter dramatische Blicke auf die Feuchtgebiete und Sümpfe des Highways bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197313,
+                        5.991568
+                  ]
+            },
+            {
+                  "name": "Tall trees start",
+                  "text": "Ein Aussichtspunkt, der den Beginn des dichten, hohen Waldkronendachs entlang des Linden-Soesdyke Highways markiert.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197324,
+                        5.993273
+                  ]
+            },
+            {
+                  "name": "Neville start point",
+                  "text": "Ein ausgewiesener Startpunkt und Aussichtspunkt für die Neville-Route entlang des Highways.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196023,
+                        5.993261
+                  ]
+            },
+            {
+                  "name": "Track1",
+                  "text": "Ein Aussichtspunkt am Kopf von Track 1 mit Blick in die dichte Vegetation abseits des Highways.",
+                  "category": "natural",
+                  "coords": [
+                        -58.232164,
+                        6.020629
+                  ]
+            },
+            {
+                  "name": "Entry to Blue Lake, Linden",
+                  "text": "Der Hauptzugang zu den atemberaubenden azurblauen Gewässern des verlassenen Bauxit-Minensees von Linden.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.282253,
+                        6.011694
+                  ]
+            },
+            {
+                  "name": "Blue Lake",
+                  "text": "Ein markantes Naturdenkmal in einer alten Bauxitmine, das für sein leuchtend blaues, den Himmel spiegelndes Wasser bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -58.277059,
+                        6.007307
+                  ]
+            },
+            {
+                  "name": "Cannabis Farm (2018-11-28)",
+                  "text": "Ein spezifischer Beobachtungspunkt, der den Standort einer geräumten oder historischen Cannabisplantage markiert, die 2018 entdeckt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -58.240684,
+                        5.965109
+                  ]
+            },
+            {
+                  "name": "5 Miles",
+                  "text": "Ein Aussichtspunkt am Straßenrand, der sich genau fünf Meilen entlang des Linden-Soesdyke Highways befindet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.256728,
+                        5.93951
+                  ]
+            },
+            {
+                  "name": "Bamia Al-Ansaar Masjid",
+                  "text": "Eine islamische Kultstätte, die der lokalen Gemeinschaft in der Nähe des Linden-Soesdyke-Highways dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.247306,
+                        6.046083
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moblissa",
+                  "text": "A Linden-Soesdyke autópálya mentén található út menti kilátó széles panorámát nyújt a Moblissa környéki trópusi erdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.252421,
+                        6.078267
+                  ]
+            },
+            {
+                  "name": "Joseph apartments guest house",
+                  "text": "Ez a különleges kilátópont a Linden-Soesdyke Highway térségének zöldjében található vendégház szálláshelyeire nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        -58.265062,
+                        6.028547
+                  ]
+            },
+            {
+                  "name": "Track 2",
+                  "text": "A Linden-Soesdyke autópályáról leágazó vidéki ösvényt megfigyelve ez a kilátó lehetővé teszi a látogatók számára, hogy mélyen a sűrű környező erdőbe tekintsenek.",
+                  "category": "natural",
+                  "coords": [
+                        -58.246764,
+                        6.025496
+                  ]
+            },
+            {
+                  "name": "Track 3",
+                  "text": "A helyi tanösvények egyike mentén található kilátópont kiemeli a Linden-Soesdyke autópályát szegélyező zord tájat.",
+                  "category": "natural",
+                  "coords": [
+                        -58.243507,
+                        6.025307
+                  ]
+            },
+            {
+                  "name": "Road to farm turn off",
+                  "text": "Ez a kulcsfontosságú csomópontban elhelyezkedő kilátó tiszta kilátást nyújt a Linden-Soesdyke autópályáról a helyi gazdaságokhoz vezető burkolatlan útra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.191666,
+                        6.024758
+                  ]
+            },
+            {
+                  "name": "Yellowish coconut",
+                  "text": "A jellegzetes pálmafáról elnevezett kilátóhely festői kilátást nyújt a Linden-Soesdyke autópályát szegélyező változatos trópusi növényzetre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197342,
+                        5.996138
+                  ]
+            },
+            {
+                  "name": "400 ft side line paal",
+                  "text": "Az egy konkrét telekhatárjelzőre néző, a Linden-Soesdyke autópályán található kilátópont kiemeli a helyi ingatlanhatárok megosztását.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196202,
+                        5.99997
+                  ]
+            },
+            {
+                  "name": "Iron paal at reserve pass hicks land",
+                  "text": "Ez a különleges kilátópont egy vas határjelzőre fókuszál, amely a Linden-Soesdyke autópálya erdős szélénél lévő rezervátumhágó mellett található.",
+                  "category": "natural",
+                  "coords": [
+                        -58.198458,
+                        6.001048
+                  ]
+            },
+            {
+                  "name": "Dave boundary paal",
+                  "text": "A Linden-Soesdyke autópálya növényzete között fekvő hely tiszta megfigyelőpontot biztosít a helyi földtulajdon-jelző számára.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197309,
+                        6.001091
+                  ]
+            },
+            {
+                  "name": "Paal",
+                  "text": "Egy hagyományos ingatlanoszloppal megjelölve ez a kilátó csendes bepillantást nyújt a Linden-Soesdyke autópálya vidéki szakaszai mentén lévő földosztásokba.",
+                  "category": "natural",
+                  "coords": [
+                        -58.191575,
+                        6.001458
+                  ]
+            },
+            {
+                  "name": "Neville new start point",
+                  "text": "A kijelölt ösvény kezdőpontjaként szolgáló kilátó panorámás kilátást nyújt a Linden-Soesdyke autópályával határos természeti domborzatra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196057,
+                        5.994397
+                  ]
+            },
+            {
+                  "name": "Green coconut",
+                  "text": "Egy trópusi kilátópont az autópálya mentén, amely a környező zöld kókuszpálmákról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197284,
+                        5.994709
+                  ]
+            },
+            {
+                  "name": "Swamp during rain",
+                  "text": "Egy kilátópont, amely esős időben drámai látványt nyújt az autópálya melletti mocsarakra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197313,
+                        5.991568
+                  ]
+            },
+            {
+                  "name": "Tall trees start",
+                  "text": "Egy kilátópont, amely a sűrű, magas erdei lombkorona kezdetét jelöli a Linden-Soesdyke autópálya mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197324,
+                        5.993273
+                  ]
+            },
+            {
+                  "name": "Neville start point",
+                  "text": "Egy kijelölt kezdőpont és kilátó a Neville-útvonal mentén az autópályánál.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196023,
+                        5.993261
+                  ]
+            },
+            {
+                  "name": "Track1",
+                  "text": "Egy kilátópont az 1-es ösvény elején, amely az autópályáról nyíló sűrű növényzetre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -58.232164,
+                        6.020629
+                  ]
+            },
+            {
+                  "name": "Entry to Blue Lake, Linden",
+                  "text": "A fő hozzáférési pont, amely Linden elhagyott bauxitbánya-tavának lenyűgöző azúrkék vizéhez vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.282253,
+                        6.011694
+                  ]
+            },
+            {
+                  "name": "Blue Lake",
+                  "text": "Egy régi bauxitbányában kialakult feltűnő természeti emlékmű, amely az eget tükröző élénkkék vizéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -58.277059,
+                        6.007307
+                  ]
+            },
+            {
+                  "name": "Cannabis Farm (2018-11-28)",
+                  "text": "Egy specifikus megfigyelőpont, amely egy 2018-ban felfedezett, azóta felszámolt vagy történelmi kannabiszfarm helyét jelöli.",
+                  "category": "natural",
+                  "coords": [
+                        -58.240684,
+                        5.965109
+                  ]
+            },
+            {
+                  "name": "5 Miles",
+                  "text": "Egy út menti kilátópont, amely pontosan öt mérföldre található a Linden-Soesdyke autópálya mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -58.256728,
+                        5.93951
+                  ]
+            },
+            {
+                  "name": "Bamia Al-Ansaar Masjid",
+                  "text": "Egy iszlám istentiszteleti hely, amely a Linden-Soesdyke autópálya közelében élő helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.247306,
+                        6.046083
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moblissa",
+                  "text": "Situat de-a lungul autostrăzii Linden-Soesdyke, acest punct de belvedere de pe marginea drumului oferă o panoramă largă a silviculturii tropicale din jur, lângă Moblissa.",
+                  "category": "natural",
+                  "coords": [
+                        -58.252421,
+                        6.078267
+                  ]
+            },
+            {
+                  "name": "Joseph apartments guest house",
+                  "text": "Acest punct de perspectivă specific oferă o vedere asupra locuințelor casei de oaspeți situate în mijlocul verdeții din zona autostrăzii Linden-Soesdyke.",
+                  "category": "natural",
+                  "coords": [
+                        -58.265062,
+                        6.028547
+                  ]
+            },
+            {
+                  "name": "Track 2",
+                  "text": "Observând un traseu rural în afara autostrăzii Linden-Soesdyke, acest punct de belvedere permite vizitatorilor să privească adânc în pădurea deasă din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -58.246764,
+                        6.025496
+                  ]
+            },
+            {
+                  "name": "Track 3",
+                  "text": "Situat de-a lungul unuia dintre traseele naturale locale, acest punct de belvedere evidențiază peisajul accidentat care se învecinează cu autostrada Linden-Soesdyke.",
+                  "category": "natural",
+                  "coords": [
+                        -58.243507,
+                        6.025307
+                  ]
+            },
+            {
+                  "name": "Road to farm turn off",
+                  "text": "Poziționat la o intersecție cheie, această perspectivă oferă o vedere clară pe drumul neasfaltat care duce la fermele locale de pe autostrada Linden-Soesdyke.",
+                  "category": "natural",
+                  "coords": [
+                        -58.191666,
+                        6.024758
+                  ]
+            },
+            {
+                  "name": "Yellowish coconut",
+                  "text": "Numit pentru un palmier distinctiv, acest loc de vizionare oferă o privire pitorească a vegetației tropicale variate care mărginește autostrada Linden-Soesdyke.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197342,
+                        5.996138
+                  ]
+            },
+            {
+                  "name": "400 ft side line paal",
+                  "text": "Având vedere la un marker specific pentru granița terestră, acest punct de belvedere de pe autostrada Linden-Soesdyke evidențiază împărțirea liniilor de proprietate locale.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196202,
+                        5.99997
+                  ]
+            },
+            {
+                  "name": "Iron paal at reserve pass hicks land",
+                  "text": "Acest punct de belvedere specific se concentrează pe un marcaj de graniță din fier situat lângă o trecătoare de rezervație, aproape de marginea împădurită a autostrăzii Linden-Soesdyke.",
+                  "category": "natural",
+                  "coords": [
+                        -58.198458,
+                        6.001048
+                  ]
+            },
+            {
+                  "name": "Dave boundary paal",
+                  "text": "Situat printre vegetația autostrăzii Linden-Soesdyke, acest loc oferă un punct de observație clar pentru un marcaj local de proprietate a terenului.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197309,
+                        6.001091
+                  ]
+            },
+            {
+                  "name": "Paal",
+                  "text": "Marcat de un stâlp tradițional de proprietate, acest punct de belvedere oferă o privire liniștită asupra diviziunilor terenurilor de-a lungul întinderilor rurale ale autostrăzii Linden-Soesdyke.",
+                  "category": "natural",
+                  "coords": [
+                        -58.191575,
+                        6.001458
+                  ]
+            },
+            {
+                  "name": "Neville new start point",
+                  "text": "Servind ca o locație de pornire a traseului desemnat, acest punct de belvedere prezintă o vedere panoramică a terenului natural care mărginește autostrăzii Linden-Soesdyke.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196057,
+                        5.994397
+                  ]
+            },
+            {
+                  "name": "Green coconut",
+                  "text": "Un punct de belvedere tropical de-a lungul autostrăzii, cunoscut pentru palmierii săi verzi de cocos.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197284,
+                        5.994709
+                  ]
+            },
+            {
+                  "name": "Swamp during rain",
+                  "text": "Un punct de belvedere care oferă priveliști dramatice ale mlaștinilor de lângă autostradă în timpul ploilor.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197313,
+                        5.991568
+                  ]
+            },
+            {
+                  "name": "Tall trees start",
+                  "text": "Un punct de belvedere care marchează începutul coronamentului forestier dens și înalt de-a lungul autostrăzii Linden-Soesdyke.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197324,
+                        5.993273
+                  ]
+            },
+            {
+                  "name": "Neville start point",
+                  "text": "Un punct de plecare și de belvedere desemnat pentru ruta Neville de-a lungul autostrăzii.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196023,
+                        5.993261
+                  ]
+            },
+            {
+                  "name": "Track1",
+                  "text": "Un punct de belvedere situat la capătul Traseului 1, cu vedere la vegetația densă de lângă autostradă.",
+                  "category": "natural",
+                  "coords": [
+                        -58.232164,
+                        6.020629
+                  ]
+            },
+            {
+                  "name": "Entry to Blue Lake, Linden",
+                  "text": "Punctul principal de acces care duce la apele azurii uimitoare ale lacului abandonat de mină de bauxită din Linden.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.282253,
+                        6.011694
+                  ]
+            },
+            {
+                  "name": "Blue Lake",
+                  "text": "Un monument natural impresionant format într-o veche mină de bauxită, cunoscut pentru apele sale albastre vii care reflectă cerul.",
+                  "category": "historical",
+                  "coords": [
+                        -58.277059,
+                        6.007307
+                  ]
+            },
+            {
+                  "name": "Cannabis Farm (2018-11-28)",
+                  "text": "Un punct de observație specific care marchează locul unei ferme de canabis curățate sau istorice descoperite în 2018.",
+                  "category": "natural",
+                  "coords": [
+                        -58.240684,
+                        5.965109
+                  ]
+            },
+            {
+                  "name": "5 Miles",
+                  "text": "Un punct de belvedere la marginea drumului situat la exact cinci mile de-a lungul autostrăzii Linden-Soesdyke.",
+                  "category": "natural",
+                  "coords": [
+                        -58.256728,
+                        5.93951
+                  ]
+            },
+            {
+                  "name": "Bamia Al-Ansaar Masjid",
+                  "text": "Un lăcaș de cult islamic care deservește comunitatea locală din apropierea autostrăzii Linden-Soesdyke.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.247306,
+                        6.046083
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moblissa",
+                  "text": "Located along the Linden-Soesdyke Highway, this roadside viewpoint provides a wide panorama of the surrounding tropical forestry near Moblissa.",
+                  "category": "natural",
+                  "coords": [
+                        -58.252421,
+                        6.078267
+                  ]
+            },
+            {
+                  "name": "Joseph apartments guest house",
+                  "text": "This specific outlook point provides a view of the guest house lodgings situated amidst the greenery of the Linden-Soesdyke Highway area.",
+                  "category": "natural",
+                  "coords": [
+                        -58.265062,
+                        6.028547
+                  ]
+            },
+            {
+                  "name": "Track 2",
+                  "text": "Observing a rural trail off the Linden-Soesdyke Highway, this viewpoint allows visitors to look deeply into the dense surrounding woodland.",
+                  "category": "natural",
+                  "coords": [
+                        -58.246764,
+                        6.025496
+                  ]
+            },
+            {
+                  "name": "Track 3",
+                  "text": "Situated along one of the local nature trails, this viewpoint highlights the rugged landscape bordering the Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.243507,
+                        6.025307
+                  ]
+            },
+            {
+                  "name": "Road to farm turn off",
+                  "text": "Positioned at a key junction, this outlook provides a clear view down the unpaved road leading to local farms off the Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.191666,
+                        6.024758
+                  ]
+            },
+            {
+                  "name": "Yellowish coconut",
+                  "text": "Named for a distinctive palm tree, this viewing spot provides a scenic look at the varied tropical vegetation lining the Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197342,
+                        5.996138
+                  ]
+            },
+            {
+                  "name": "400 ft side line paal",
+                  "text": "Overlooking a specific land boundary marker, this viewpoint on the Linden-Soesdyke Highway highlights the division of local property lines.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196202,
+                        5.99997
+                  ]
+            },
+            {
+                  "name": "Iron paal at reserve pass hicks land",
+                  "text": "This specific viewpoint focuses on an iron boundary marker situated by a reserve pass near the forested edge of the Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.198458,
+                        6.001048
+                  ]
+            },
+            {
+                  "name": "Dave boundary paal",
+                  "text": "Set amongst the vegetation of the Linden-Soesdyke Highway, this spot provides a clear observation point for a local land ownership marker.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197309,
+                        6.001091
+                  ]
+            },
+            {
+                  "name": "Paal",
+                  "text": "Marked by a traditional property post, this viewpoint offers a quiet look at the land divisions along the rural stretches of the Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.191575,
+                        6.001458
+                  ]
+            },
+            {
+                  "name": "Neville new start point",
+                  "text": "Serving as a designated trail starting location, this viewpoint presents a panoramic view of the natural terrain bordering the Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196057,
+                        5.994397
+                  ]
+            },
+            {
+                  "name": "Green coconut",
+                  "text": "A tropical viewpoint along the highway known for its surrounding green coconut palms.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197284,
+                        5.994709
+                  ]
+            },
+            {
+                  "name": "Swamp during rain",
+                  "text": "A viewpoint offering dramatic sights of the highway's wetlands and swamps during rainy weather.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197313,
+                        5.991568
+                  ]
+            },
+            {
+                  "name": "Tall trees start",
+                  "text": "A viewpoint marking the beginning of the dense, tall forest canopy along the Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.197324,
+                        5.993273
+                  ]
+            },
+            {
+                  "name": "Neville start point",
+                  "text": "A designated starting marker and viewpoint for the Neville route along the highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.196023,
+                        5.993261
+                  ]
+            },
+            {
+                  "name": "Track1",
+                  "text": "A viewpoint situated at the head of Track 1, looking into the dense vegetation off the highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.232164,
+                        6.020629
+                  ]
+            },
+            {
+                  "name": "Entry to Blue Lake, Linden",
+                  "text": "The main access point leading to the stunning azure waters of Linden's abandoned bauxite mine lake.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.282253,
+                        6.011694
+                  ]
+            },
+            {
+                  "name": "Blue Lake",
+                  "text": "A striking natural monument formed in an old bauxite mine, known for its vivid blue waters reflecting the sky.",
+                  "category": "historical",
+                  "coords": [
+                        -58.277059,
+                        6.007307
+                  ]
+            },
+            {
+                  "name": "Cannabis Farm (2018-11-28)",
+                  "text": "A specific observation point marking the site of a cleared or historical cannabis farm discovered in 2018.",
+                  "category": "natural",
+                  "coords": [
+                        -58.240684,
+                        5.965109
+                  ]
+            },
+            {
+                  "name": "5 Miles",
+                  "text": "A roadside viewpoint positioned exactly five miles along the Linden-Soesdyke Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.256728,
+                        5.93951
+                  ]
+            },
+            {
+                  "name": "Bamia Al-Ansaar Masjid",
+                  "text": "An Islamic place of worship serving the local community near the Linden-Soesdyke highway.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.247306,
+                        6.046083
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.261, 6.0125],
@@ -839,7 +2729,124 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["L'autoroute Linden-Soesdyke a été officiellement ouverte en 1968.", "La route s'étend sur une longueur totale de 72 kilomètres.", "Le projet a été financé en grande partie par l'agence américaine USAID.", "L'autoroute relie la région de la capitale à la ville minière de Linden.", "Le tracé traverse les caractéristiques ceintures de sable blanc du Guyana.", "Le monument rend hommage aux ingénieurs et aux ouvriers de ce grand projet."],
     },
   }, {
-    id: "rose-hall-sugar-estate-landmarks-v2",
+    id: "rose-hall-sugar-estate-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "Eine Kirche der Nazarener nahe dem Rose Hall Sugar Estate, die die lokale Arbeitergemeinde bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.22963,
+                        6.165261
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "Eine christliche Kirche der Siebenten-Tags-Adventisten im Gebiet der ehemaligen Rose Hall Zuckerplantage.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.289927,
+                        6.220331
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Ein hinduistischer Mandir-Tempel in Rose Hall, der die indo-guyanische Tradition der Region widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.238714,
+                        6.178497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "A Názáreti Egyház temploma a Rose Hall cukornádültetvény közelében, amely a helyi munkásközösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.22963,
+                        6.165261
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "A Hetednapi Adventista Egyház keresztény temploma az egykori Rose Hall cukornádültetvény területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.289927,
+                        6.220331
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Hindu mandir templom Rose Hallban, amely a régió indiai-guyana-i hagyományait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.238714,
+                        6.178497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "O biserică a Nazarineanului lângă plantația de zahăr Rose Hall, deservind comunitatea locală de muncitori.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.22963,
+                        6.165261
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "O biserică creștină adventistă de ziua a șaptea în zona fostei plantații de zahăr Rose Hall.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.289927,
+                        6.220331
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Un templu hindus (mandir) în Rose Hall, reflectând tradițiile indo-guyaneze ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.238714,
+                        6.178497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Nazarene",
+                  "text": "A Church of the Nazarene near the Rose Hall sugar estate, serving the local worker community.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.22963,
+                        6.165261
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "A Christian church of the Seventh-day Adventists located within the Rose Hall sugar estate region.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.289927,
+                        6.220331
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "A Hindu mandir in Rose Hall, reflecting the strong Indo-Guyanese religious traditions of the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.238714,
+                        6.178497
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-EB",
     coords: [-57.29, 6.23],
@@ -874,7 +2881,52 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["La plantation a été fondée dès le XVIIIe siècle.", "En 1913, 15 ouvriers y ont été tués lors du massacre de Rose Hall.", "Les victimes sont honorées chaque année en tant que « Martyrs de Rose Hall ».", "L'installation a été fermée en 2017 et rouverte en 2023.", "Le sucre a été le principal produit d'exportation du domaine pendant plus de 300 ans.", "L'usine est située près de Canje, dans la région de Berbice."],
     },
   },  {
-    id: "promenade-gardens-georgetown-landmarks-v2",
+    id: "promenade-gardens-georgetown-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Christ Church",
+                  "text": "Diese historische anglikanische Kirche in Georgetown besticht durch ihre koloniale Holzarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.160335,
+                        6.816635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Christ Church",
+                  "text": "Georgetown történelmi anglikán temploma, amely jellegzetes gyarmati faépítészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.160335,
+                        6.816635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Christ Church",
+                  "text": "Această biserică anglicană istorică din Georgetown se remarcă prin arhitectura sa colonială din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.160335,
+                        6.816635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Christ Church",
+                  "text": "This historic Anglican church in Georgetown is known for its distinctive colonial wooden architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.160335,
+                        6.816635
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.161, 6.815],
@@ -944,7 +2996,376 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       fr: ["Le Pegasus Hotel a été officiellement ouvert en 1969.", "La tour d'origine présente une architecture cylindrique remarquable.", "Des hôtes de marque comme la reine Élisabeth II y ont séjourné.", "L'hôtel est situé directement à l'embouchure du fleuve Demerara dans l'Atlantique.", "En 2022, un nouveau centre de suites de 12 étages a été ajouté.", "C'est un lieu central pour les conférences internationales sur le pétrole et le gaz."],
     },
   }, {
-    id: "cjia-airport-terminal-landmarks-v2",
+    id: "cjia-airport-terminal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marijuana Farm (2019-07-04)",
+                  "text": "Anbaugebiete, die für ihre Lage in den sandigen Bodenregionen in der Nähe des Flughafens bekannt sind.",
+                  "category": "natural",
+                  "coords": [
+                        -58.287777,
+                        6.424098
+                  ]
+            },
+            {
+                  "name": "Location of pond airport",
+                  "text": "Aussichtspunkt auf die künstlichen Wasserrückhaltebecken in der Nähe der internationalen Landebahn.",
+                  "category": "natural",
+                  "coords": [
+                        -58.258843,
+                        6.48709
+                  ]
+            },
+            {
+                  "name": "22c",
+                  "text": "Ein technischer Aussichtspunkt zur Beobachtung des Flughafenbetriebs und der Rollbewegungen.",
+                  "category": "natural",
+                  "coords": [
+                        -58.253926,
+                        6.520999
+                  ]
+            },
+            {
+                  "name": "21a",
+                  "text": "Ein Beobachtungspunkt am Begrenzungszaun des Cheddi Jagan International Airport.",
+                  "category": "natural",
+                  "coords": [
+                        -58.252968,
+                        6.521745
+                  ]
+            },
+            {
+                  "name": "NDMA site, GDF Timerhi",
+                  "text": "Eine staatliche Dateneinrichtung auf dem Stützpunkt der Guyana Defence Force in Timehri.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.261757,
+                        6.504685
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Endpunkt eines Pfades mit Blick auf die dichte tropische Vegetation nahe dem Flugplatz.",
+                  "category": "natural",
+                  "coords": [
+                        -58.225673,
+                        6.562256
+                  ]
+            },
+            {
+                  "name": "Start coverden",
+                  "text": "Der Eingang zum Uferdorf Coverden, das für seine kleinbäuerliche Landwirtschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -58.226938,
+                        6.56264
+                  ]
+            },
+            {
+                  "name": "150 machine",
+                  "text": "Ein Ort, der nach Industrieanlagen benannt ist, die in lokalen Erschließungsprojekten eingesetzt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        -58.237371,
+                        6.543663
+                  ]
+            },
+            {
+                  "name": "Start cross  drain",
+                  "text": "Der Beginn eines bedeutenden Entwässerungskanals, der den Wasserstand in der tiefgelegenen Küstenebene reguliert.",
+                  "category": "natural",
+                  "coords": [
+                        -58.233363,
+                        6.544301
+                  ]
+            },
+            {
+                  "name": "Sorsdyke drain",
+                  "text": "Teil des Soesdyke-Wassermanagementsystems, das Überschwemmungen in den nahe gelegenen Siedlungen verhindert.",
+                  "category": "natural",
+                  "coords": [
+                        -58.225526,
+                        6.539966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marijuana Farm (2019-07-04)",
+                  "text": "Mezőgazdasági területek, amelyek a repülőtér közeli homokos talajú régiókról ismertek.",
+                  "category": "natural",
+                  "coords": [
+                        -58.287777,
+                        6.424098
+                  ]
+            },
+            {
+                  "name": "Location of pond airport",
+                  "text": "Kilátópont a nemzetközi kifutópálya melletti mesterséges víztározó tavakra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.258843,
+                        6.48709
+                  ]
+            },
+            {
+                  "name": "22c",
+                  "text": "Technikai kilátópont a repülőtéri műveletek és a gurulóutak forgalmának megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -58.253926,
+                        6.520999
+                  ]
+            },
+            {
+                  "name": "21a",
+                  "text": "Megfigyelőpont a Cheddi Jagan nemzetközi repülőtér kerítése mellett.",
+                  "category": "natural",
+                  "coords": [
+                        -58.252968,
+                        6.521745
+                  ]
+            },
+            {
+                  "name": "NDMA site, GDF Timerhi",
+                  "text": "Kormányzati adatközpont a Guyana-i Védelmi Erők Timehri-ben található bázisán.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.261757,
+                        6.504685
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Egy ösvény végpontja, ahonnan kilátás nyílik a repülőtér melletti sűrű trópusi növényzetre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.225673,
+                        6.562256
+                  ]
+            },
+            {
+                  "name": "Start coverden",
+                  "text": "A folyóparti Coverden falu bejárata, amely kisléptékű mezőgazdaságáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -58.226938,
+                        6.56264
+                  ]
+            },
+            {
+                  "name": "150 machine",
+                  "text": "Helyszín, amely a helyi területfejlesztési projektekben használt ipari berendezésekről kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -58.237371,
+                        6.543663
+                  ]
+            },
+            {
+                  "name": "Start cross  drain",
+                  "text": "Egy jelentős vízelvezető csatorna kezdete, amely a mélyebben fekvő parti síkság vízszintjét szabályozza.",
+                  "category": "natural",
+                  "coords": [
+                        -58.233363,
+                        6.544301
+                  ]
+            },
+            {
+                  "name": "Sorsdyke drain",
+                  "text": "A Soesdyke vízgazdálkodási rendszer része, amely megakadályozza a közeli települések elöntését.",
+                  "category": "natural",
+                  "coords": [
+                        -58.225526,
+                        6.539966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marijuana Farm (2019-07-04)",
+                  "text": "Zone de cultivare cunoscute pentru prezența lor în regiunile cu sol nisipos din apropierea aeroportului.",
+                  "category": "natural",
+                  "coords": [
+                        -58.287777,
+                        6.424098
+                  ]
+            },
+            {
+                  "name": "Location of pond airport",
+                  "text": "Punct de belvedere asupra iazurilor artificiale de retenție a apei de lângă pista internațională.",
+                  "category": "natural",
+                  "coords": [
+                        -58.258843,
+                        6.48709
+                  ]
+            },
+            {
+                  "name": "22c",
+                  "text": "Un punct tehnic de observație utilizat pentru monitorizarea operațiunilor aeroportuare.",
+                  "category": "natural",
+                  "coords": [
+                        -58.253926,
+                        6.520999
+                  ]
+            },
+            {
+                  "name": "21a",
+                  "text": "Un punct de observație situat lângă gardul perimetral al Aeroportului Internațional Cheddi Jagan.",
+                  "category": "natural",
+                  "coords": [
+                        -58.252968,
+                        6.521745
+                  ]
+            },
+            {
+                  "name": "NDMA site, GDF Timerhi",
+                  "text": "O facilitate guvernamentală de date situată în baza Forțelor de Apărare din Guyana de la Timehri.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.261757,
+                        6.504685
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Punctul terminal al unei poteci care oferă vedere spre vegetația tropicală densă de lângă aerodrom.",
+                  "category": "natural",
+                  "coords": [
+                        -58.225673,
+                        6.562256
+                  ]
+            },
+            {
+                  "name": "Start coverden",
+                  "text": "Intrarea în satul de pe malul râului Coverden, cunoscut pentru agricultura sa la scară mică.",
+                  "category": "natural",
+                  "coords": [
+                        -58.226938,
+                        6.56264
+                  ]
+            },
+            {
+                  "name": "150 machine",
+                  "text": "Un sit numit după echipamentele industriale utilizate în proiectele locale de dezvoltare a terenurilor.",
+                  "category": "natural",
+                  "coords": [
+                        -58.237371,
+                        6.543663
+                  ]
+            },
+            {
+                  "name": "Start cross  drain",
+                  "text": "Începutul unui canal de drenaj semnificativ care gestionează nivelul apei în câmpia de coastă joasă.",
+                  "category": "natural",
+                  "coords": [
+                        -58.233363,
+                        6.544301
+                  ]
+            },
+            {
+                  "name": "Sorsdyke drain",
+                  "text": "Parte a sistemului de gestionare a apei Soesdyke, care previne inundarea așezărilor din apropiere.",
+                  "category": "natural",
+                  "coords": [
+                        -58.225526,
+                        6.539966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marijuana Farm (2019-07-04)",
+                  "text": "Cultivation areas noted for their presence in the sandy soil regions near the airport.",
+                  "category": "natural",
+                  "coords": [
+                        -58.287777,
+                        6.424098
+                  ]
+            },
+            {
+                  "name": "Location of pond airport",
+                  "text": "A viewpoint overlooking the artificial water retention ponds near the international runway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.258843,
+                        6.48709
+                  ]
+            },
+            {
+                  "name": "22c",
+                  "text": "A technical vantage point used for observing airport operations and taxiway movements.",
+                  "category": "natural",
+                  "coords": [
+                        -58.253926,
+                        6.520999
+                  ]
+            },
+            {
+                  "name": "21a",
+                  "text": "An observation spot near the perimeter fence of the Cheddi Jagan International Airport.",
+                  "category": "natural",
+                  "coords": [
+                        -58.252968,
+                        6.521745
+                  ]
+            },
+            {
+                  "name": "NDMA site, GDF Timerhi",
+                  "text": "A government data facility located within the Guyana Defence Force base at Timehri.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.261757,
+                        6.504685
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "The terminal point of a trail offering views of the dense tropical vegetation near the airfield.",
+                  "category": "natural",
+                  "coords": [
+                        -58.225673,
+                        6.562256
+                  ]
+            },
+            {
+                  "name": "Start coverden",
+                  "text": "The entrance to the riverside village of Coverden, known for its small-scale farming.",
+                  "category": "natural",
+                  "coords": [
+                        -58.226938,
+                        6.56264
+                  ]
+            },
+            {
+                  "name": "150 machine",
+                  "text": "A site named after industrial equipment used in the local land development projects.",
+                  "category": "natural",
+                  "coords": [
+                        -58.237371,
+                        6.543663
+                  ]
+            },
+            {
+                  "name": "Start cross  drain",
+                  "text": "The beginning of a significant drainage canal that manages water levels in the low-lying coastal plain.",
+                  "category": "natural",
+                  "coords": [
+                        -58.233363,
+                        6.544301
+                  ]
+            },
+            {
+                  "name": "Sorsdyke drain",
+                  "text": "Part of the Soesdyke water management system that prevents flooding in the nearby settlements.",
+                  "category": "natural",
+                  "coords": [
+                        -58.225526,
+                        6.539966
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.2545, 6.4985],

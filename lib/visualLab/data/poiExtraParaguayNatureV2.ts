@@ -3,7 +3,1420 @@ import type { POI } from "./poi";
 
 export const poiExtraParaguayNatureV2: POI[] = [
   {
-    id: "py-rio-paraguay-nature-v2",
+    id: "py-rio-paraguay-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puente Héroes del Chaco",
+                  "text": "Diese markante Brücke überspannt den Río Paraguay und verbindet die Hauptstadtregion mit dem Chaco.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.597592,
+                        -25.237426
+                  ]
+            },
+            {
+                  "name": "Parque Ñu Guasú",
+                  "text": "Dieser weitläufige Stadtpark bietet Wanderwege und Seen in der Nähe des Río Paraguay.",
+                  "category": "park",
+                  "coords": [
+                        -57.543861,
+                        -25.262729
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico y Zoológico de Asunción",
+                  "text": "Dieser 1919 gegründete zoologische und botanische Garten bewahrt die einheimische Flora und Fauna in der Nähe des Flusses.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.571562,
+                        -25.247461
+                  ]
+            },
+            {
+                  "name": "Pecarí de Collar",
+                  "text": "Das Wildgehege zeigt das Halsbandpekari, ein einheimisches Säugetier aus den Naturschutzgebieten der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.572382,
+                        -25.250198
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano Ñu Guasú",
+                  "text": "Eine riesige grüne Lunge in der Nähe des Río Paraguay, die asphaltierte Rundstrecken für Radfahrer und Läufer bietet.",
+                  "category": "park",
+                  "coords": [
+                        -57.540087,
+                        -25.264331
+                  ]
+            },
+            {
+                  "name": "Casa Guanes",
+                  "text": "Dieses historische Anwesen in der Nähe des Río Paraguay zeigt traditionelle Kolonialarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        -57.636787,
+                        -25.250041
+                  ]
+            },
+            {
+                  "name": "MUSA - Museo de Sillas de Asunción",
+                  "text": "Dieses einzigartige Museum zeigt eine eklektische Sammlung von Stühlen und Sitzdesigns aus der gesamten Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -57.579483,
+                        -25.252793
+                  ]
+            },
+            {
+                  "name": "Guggiari Arte",
+                  "text": "Die Galerie stellt die markanten Metallskulpturen und das künstlerische Vermächtnis der berühmten Familie Guggiari aus.",
+                  "category": "museum",
+                  "coords": [
+                        -57.562078,
+                        -25.282128
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural",
+                  "text": "Das Museum dokumentiert die reiche Artenvielfalt und geologische Geschichte des Einzugsgebiets des Río Paraguay.",
+                  "category": "museum",
+                  "coords": [
+                        -57.57498,
+                        -25.249608
+                  ]
+            },
+            {
+                  "name": "Museo de Historia de Chaco'i",
+                  "text": "Dieses lokale Museum bewahrt das historische Erbe und die Artefakte der Gemeinde Chaco'i am Flussufer.",
+                  "category": "museum",
+                  "coords": [
+                        -57.653306,
+                        -25.246999
+                  ]
+            },
+            {
+                  "name": "Museo del Barro",
+                  "text": "Das Museum zeigt eine beeindruckende Sammlung indigener Kunst und traditioneller paraguayischer Keramik.",
+                  "category": "museum",
+                  "coords": [
+                        -57.559272,
+                        -25.281686
+                  ]
+            },
+            {
+                  "name": "Monumento Heroes del Chaco",
+                  "text": "Dieses Denkmal ehrt die tapferen Soldaten, die im historischen Chacokrieg gekämpft haben.",
+                  "category": "historical",
+                  "coords": [
+                        -57.645402,
+                        -25.251142
+                  ]
+            },
+            {
+                  "name": "Monumento al Arpa Paraguaya",
+                  "text": "Dieses am 7. Juni 2023 enthüllte moderne Denkmal feiert die traditionelle paraguayische Harfe.",
+                  "category": "historical",
+                  "coords": [
+                        -57.614179,
+                        -25.270801
+                  ]
+            },
+            {
+                  "name": "De las Residentas",
+                  "text": "Das Denkmal ist eine Hommage an die widerstandsfähigen Frauen, die die Nation nach dem Tripel-Allianz-Krieg wiederaufgebaut haben.",
+                  "category": "historical",
+                  "coords": [
+                        -57.541282,
+                        -25.274144
+                  ]
+            },
+            {
+                  "name": "Ex Cuartel",
+                  "text": "Die historischen ehemaligen Militärkaserne erinnern an die strategische Vergangenheit der Region.",
+                  "category": "fortress",
+                  "coords": [
+                        -57.639948,
+                        -25.2561
+                  ]
+            },
+            {
+                  "name": "Artelier D'Art",
+                  "text": "Ein aktives Kunstzentrum, das Raum für kreative Workshops und zeitgenössische Ausstellungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.594294,
+                        -25.26764
+                  ]
+            },
+            {
+                  "name": "IGLESIA CENTRO DE ADORACION TRINIDAD",
+                  "text": "Dieses Gotteshaus dient der lokalen Gemeinde Trinidad mit regelmäßigen christlichen Gottesdiensten.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586604,
+                        -25.255321
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "Eine katholische Pfarrkirche, die der Heiligen Dreifaltigkeit gewidmet ist und in der Nähe des malerischen Río Paraguay liegt.",
+                  "category": "religious",
+                  "coords": [
+                        -57.580654,
+                        -25.259144
+                  ]
+            },
+            {
+                  "name": "SAN CARLOS BORROMEO",
+                  "text": "Diese lokale Andachtsstätte ehrt San Carlos Borromeo inmitten der Siedlungen am Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586358,
+                        -25.264593
+                  ]
+            },
+            {
+                  "name": "Iglesia Menonita Concordia",
+                  "text": "Ein protestantischer Versammlungsraum, der der lokalen mennonitischen Gemeinde am Río Paraguay dient.",
+                  "category": "religious",
+                  "coords": [
+                        -57.587333,
+                        -25.272069
+                  ]
+            },
+            {
+                  "name": "Capilla San Antonio",
+                  "text": "Eine bescheidene Kapelle, die dem Heiligen Antonius gewidmet ist und einen ruhigen Ort zum Beten in der Nähe des Río Paraguay bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -57.584384,
+                        -25.245281
+                  ]
+            },
+            {
+                  "name": "Iglesia Calvario (CAMP Paraguay)",
+                  "text": "Ein religiöses Heiligtum, bekannt als Kalvarienbergkirche, das der CAMP Paraguay-Gemeinde in der Flussregion dient.",
+                  "category": "religious",
+                  "coords": [
+                        -57.587626,
+                        -25.24222
+                  ]
+            },
+            {
+                  "name": "Ekklesia M.R.A.- Paraguay",
+                  "text": "Eine aktive evangelikale Gemeinde im Bezirk Mariano Roque Alonso in der Nähe des Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.551122,
+                        -25.221247
+                  ]
+            },
+            {
+                  "name": "Capilla Rosa Mistica",
+                  "text": "Eine katholische Kultstätte, die der Rosa Mystica-Andacht inmitten des Naturkorridors Río Paraguay gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -57.555453,
+                        -25.219403
+                  ]
+            },
+            {
+                  "name": "Iglesia Menonita La Amistad",
+                  "text": "Diese mennonitische Kirche mit dem treffenden Namen 'La Amistad' (Freundschaft) versammelt Gläubige in der Gegend des Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.581332,
+                        -25.243129
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "Eine lokale Gemeindekapelle, die den Erzengel Michael anruft und in der Nähe der Ufer des Río Paraguay liegt.",
+                  "category": "religious",
+                  "coords": [
+                        -57.583058,
+                        -25.245159
+                  ]
+            },
+            {
+                  "name": "Capilla Maria Auxiliadora",
+                  "text": "Eine nachbarschaftliche Kultstätte zu Ehren von Maria Hilf in der üppigen Region des Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.581422,
+                        -25.249058
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de las Mercedes",
+                  "text": "Eine kleine Marienkapelle, die der Barmherzigen Jungfrau gewidmet ist und geistliche Zuflucht im Becken des Río Paraguay bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -57.557169,
+                        -25.250951
+                  ]
+            },
+            {
+                  "name": "Centro Familiar de Adoracion Loma Pyta",
+                  "text": "Ein christliches Familien-Anbetungszentrum im Viertel Loma Pytá in der Nähe der Ökosysteme des Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.544727,
+                        -25.243269
+                  ]
+            },
+            {
+                  "name": "Ministerio Iglesia Agua Viva",
+                  "text": "Die Kirche des 'Living Water'-Dienstes bietet einen modernen Gottesdienstraum in der Gegend des Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.542641,
+                        -25.231596
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7° Dia",
+                  "text": "Ein Versammlungshaus der Siebenten-Tags-Adventisten, das Sabbat-Anbeter in der Region des Río Paraguay willkommen heißt.",
+                  "category": "religious",
+                  "coords": [
+                        -57.59195,
+                        -25.259876
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuerza Viva",
+                  "text": "Die Gemeinde 'Fuerza Viva' versammelt sich an dieser lokalen Andachtsstätte in der Nähe des Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.591086,
+                        -25.261091
+                  ]
+            },
+            {
+                  "name": "Iglesia CFA Puerto Botanico",
+                  "text": "Eine Zweigstelle des Family Worship Center in günstiger Lage in der Nähe des Ufergebiets von Puerto Botánico.",
+                  "category": "religious",
+                  "coords": [
+                        -57.585849,
+                        -25.24539
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Biblica Defensores del Chaco",
+                  "text": "Eine biblische evangelikale Kirche, die den Gläubigen nahe der Gegend Defensores del Chaco am Río Paraguay dient.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548405,
+                        -25.220873
+                  ]
+            },
+            {
+                  "name": "Capilla San Ramon Nonato",
+                  "text": "Diese lokale Kapelle ehrt den Heiligen Raimund Nonnatus und bietet katholische Gottesdienste in der Nähe des Río Paraguay an.",
+                  "category": "religious",
+                  "coords": [
+                        -57.561404,
+                        -25.22684
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Eine Pfarrkirche der Heiligen Familie, die den Gemeinden entlang des Río Paraguay geistliche Führung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548785,
+                        -25.229242
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Filadelfia El Renuevo",
+                  "text": "Ein evangelikaler Philadelphia-Kirchenzweig namens 'El Renuevo', der die spirituelle Erneuerung in Flussnähe fördert.",
+                  "category": "religious",
+                  "coords": [
+                        -57.547542,
+                        -25.233341
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica del Nazareno",
+                  "text": "Ein lokaler Versammlungsort der Kirche des Nazareners, der evangelikale Gottesdienste in der Region des Río Paraguay anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -57.55329,
+                        -25.244356
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Caacupe",
+                  "text": "Ein lokaler Kultort, der der geliebten Schutzpatronin Paraguays, der Jungfrau von Caacupé, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -57.552788,
+                        -25.246708
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puente Héroes del Chaco",
+                  "text": "Ez a lenyűgöző híd a Paraguay folyón ível át, összekötve a fővárosi régiót a Chacóval.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.597592,
+                        -25.237426
+                  ]
+            },
+            {
+                  "name": "Parque Ñu Guasú",
+                  "text": "Ez a kiterjedt nagyvárosi park túraútvonalakkal és tavakkal várja a látogatókat a Paraguay folyó közelében.",
+                  "category": "park",
+                  "coords": [
+                        -57.543861,
+                        -25.262729
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico y Zoológico de Asunción",
+                  "text": "Az 1919-ben alapított állat- és botanikus kert az őshonos növény- és állatvilágot őrzi a folyó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.571562,
+                        -25.247461
+                  ]
+            },
+            {
+                  "name": "Pecarí de Collar",
+                  "text": "A vadaspark az örvös pekarit mutatja be, amely a régió természetvédelmi területeinek őshonos emlőse.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.572382,
+                        -25.250198
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano Ñu Guasú",
+                  "text": "A Paraguay folyó közelében fekvő hatalmas zöld tüdő aszfaltozott pályákat kínál a kerékpárosok és a futók számára.",
+                  "category": "park",
+                  "coords": [
+                        -57.540087,
+                        -25.264331
+                  ]
+            },
+            {
+                  "name": "Casa Guanes",
+                  "text": "A Paraguay folyó közelében található történelmi birtok hagyományos gyarmati építészetet mutat be.",
+                  "category": "castle",
+                  "coords": [
+                        -57.636787,
+                        -25.250041
+                  ]
+            },
+            {
+                  "name": "MUSA - Museo de Sillas de Asunción",
+                  "text": "Ez az egyedülálló múzeum a történelem során készült székek és ülőbútorok eklektikus gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -57.579483,
+                        -25.252793
+                  ]
+            },
+            {
+                  "name": "Guggiari Arte",
+                  "text": "A galéria a híres Guggiari család lenyűgöző fémszobrait és művészeti örökségét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -57.562078,
+                        -25.282128
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural",
+                  "text": "A múzeum a Paraguay folyó medencéjének gazdag biológiai sokféleségét és geológiai történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -57.57498,
+                        -25.249608
+                  ]
+            },
+            {
+                  "name": "Museo de Historia de Chaco'i",
+                  "text": "Ez a helyi múzeum a Chaco'i folyóparti közösség történelmi örökségét és tárgyi emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -57.653306,
+                        -25.246999
+                  ]
+            },
+            {
+                  "name": "Museo del Barro",
+                  "text": "A múzeum az őslakos művészet és a hagyományos paraguayi kerámia lenyűgöző gyűjteményét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -57.559272,
+                        -25.281686
+                  ]
+            },
+            {
+                  "name": "Monumento Heroes del Chaco",
+                  "text": "Ez az emlékmű a történelmi chaco-háborúban harcoló bátor katonáknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -57.645402,
+                        -25.251142
+                  ]
+            },
+            {
+                  "name": "Monumento al Arpa Paraguaya",
+                  "text": "A 2023. június 7-én leleplezett modern emlékmű a hagyományos paraguayi hárfát ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -57.614179,
+                        -25.270801
+                  ]
+            },
+            {
+                  "name": "De las Residentas",
+                  "text": "Az emlékmű azok előtt a kitartó nők előtt tiszteleg, akik a paraguayi háború után újjáépítették a nemzetet.",
+                  "category": "historical",
+                  "coords": [
+                        -57.541282,
+                        -25.274144
+                  ]
+            },
+            {
+                  "name": "Ex Cuartel",
+                  "text": "A történelmi, egykori katonai laktanya a régió stratégiai múltjára emlékeztet.",
+                  "category": "fortress",
+                  "coords": [
+                        -57.639948,
+                        -25.2561
+                  ]
+            },
+            {
+                  "name": "Artelier D'Art",
+                  "text": "Aktív művészeti központ, amely kreatív műhelyeknek és kortárs kiállításoknak ad teret.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.594294,
+                        -25.26764
+                  ]
+            },
+            {
+                  "name": "IGLESIA CENTRO DE ADORACION TRINIDAD",
+                  "text": "Ez az istentiszteleti hely a helyi trinitárius közösséget szolgálja ki rendszeres keresztény szertartásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586604,
+                        -25.255321
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "A Szentháromságnak szentelt katolikus plébániatemplom, amely a festői Río Paraguay közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        -57.580654,
+                        -25.259144
+                  ]
+            },
+            {
+                  "name": "SAN CARLOS BORROMEO",
+                  "text": "Ez a helyi istentiszteleti hely Borromei Szent Károlyt tiszteli a Río Paraguay folyómedencéjének településein.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586358,
+                        -25.264593
+                  ]
+            },
+            {
+                  "name": "Iglesia Menonita Concordia",
+                  "text": "Egy protestáns gyülekezeti tér, amely a helyi mennonita közösséget szolgálja a Río Paraguay mentén.",
+                  "category": "religious",
+                  "coords": [
+                        -57.587333,
+                        -25.272069
+                  ]
+            },
+            {
+                  "name": "Capilla San Antonio",
+                  "text": "Szent Antalnak szentelt szerény kápolna, amely csendes imádkozási helyet kínál a Río Paraguay közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -57.584384,
+                        -25.245281
+                  ]
+            },
+            {
+                  "name": "Iglesia Calvario (CAMP Paraguay)",
+                  "text": "Kálvária-templomként ismert vallási szentély, amely a CAMP Paraguay közösséget szolgálja a folyóvidéken.",
+                  "category": "religious",
+                  "coords": [
+                        -57.587626,
+                        -25.24222
+                  ]
+            },
+            {
+                  "name": "Ekklesia M.R.A.- Paraguay",
+                  "text": "Egy aktív evangéliumi gyülekezet a Mariano Roque Alonso kerületben, a Río Paraguay közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -57.551122,
+                        -25.221247
+                  ]
+            },
+            {
+                  "name": "Capilla Rosa Mistica",
+                  "text": "A Rosa Mystica áhítatnak szentelt katolikus istentiszteleti hely a Río Paraguay természeti folyosó közepén.",
+                  "category": "religious",
+                  "coords": [
+                        -57.555453,
+                        -25.219403
+                  ]
+            },
+            {
+                  "name": "Iglesia Menonita La Amistad",
+                  "text": "Ez a találóan 'La Amistad' (Barátság) nevű mennonita templom a Río Paraguay környékén gyűjti össze a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        -57.581332,
+                        -25.243129
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "Szent Mihály arkangyalt megidéző helyi közösségi kápolna a Río Paraguay partjának közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -57.583058,
+                        -25.245159
+                  ]
+            },
+            {
+                  "name": "Capilla Maria Auxiliadora",
+                  "text": "Egy környékbeli istentiszteleti hely a Keresztények Segítsége Mária tiszteletére a buja Río Paraguay régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -57.581422,
+                        -25.249058
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de las Mercedes",
+                  "text": "Az Irgalmas Szűznek szentelt kis Mária-kápolna, amely spirituális menedéket nyújt a Río Paraguay medencéjében.",
+                  "category": "religious",
+                  "coords": [
+                        -57.557169,
+                        -25.250951
+                  ]
+            },
+            {
+                  "name": "Centro Familiar de Adoracion Loma Pyta",
+                  "text": "Keresztény családi istentiszteleti központ a Loma Pytá negyedben, a Río Paraguay ökoszisztémák közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -57.544727,
+                        -25.243269
+                  ]
+            },
+            {
+                  "name": "Ministerio Iglesia Agua Viva",
+                  "text": "Az 'Élő Víz' szolgálat temploma modern istentiszteleti környezetet kínál a Río Paraguay térségében.",
+                  "category": "religious",
+                  "coords": [
+                        -57.542641,
+                        -25.231596
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7° Dia",
+                  "text": "Egy hetednapi adventista imaház, amely a szombati hívőket fogadja a Río Paraguay régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -57.59195,
+                        -25.259876
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuerza Viva",
+                  "text": "A 'Fuerza Viva' gyülekezet ebben a helyi istentiszteleti helyen gyűlik össze a Río Paraguay közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -57.591086,
+                        -25.261091
+                  ]
+            },
+            {
+                  "name": "Iglesia CFA Puerto Botanico",
+                  "text": "A Családi Istentiszteleti Központ egyik fiókja, amely kényelmes helyen, a Puerto Botánico folyóparti terület közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        -57.585849,
+                        -25.24539
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Biblica Defensores del Chaco",
+                  "text": "Egy bibliai evangéliumi templom, amely a híveket szolgálja a Defensores del Chaco terület közelében, a Río Paraguay mentén.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548405,
+                        -25.220873
+                  ]
+            },
+            {
+                  "name": "Capilla San Ramon Nonato",
+                  "text": "Ez a helyi kápolna Nonnatus Szent Rajmundot tiszteli, és katolikus istentiszteleteket tart a Río Paraguay közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -57.561404,
+                        -25.22684
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "A Szent Család plébániatemplom, amely spirituális útmutatást nyújt a Río Paraguay menti közösségeknek.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548785,
+                        -25.229242
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Filadelfia El Renuevo",
+                  "text": "Az 'El Renuevo' néven ismert evangéliumi Philadelphia gyülekezet, amely a folyó közelében ápolja a lelki megújulást.",
+                  "category": "religious",
+                  "coords": [
+                        -57.547542,
+                        -25.233341
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica del Nazareno",
+                  "text": "A Názáreti Egyház helyi gyülekezeti helye, amely evangéliumi istentiszteleteket nyújt a Río Paraguay régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -57.55329,
+                        -25.244356
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Caacupe",
+                  "text": "Paraguay szeretett védőszentjének, a Caacupéi Szűznek szentelt helyi istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        -57.552788,
+                        -25.246708
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puente Héroes del Chaco",
+                  "text": "Acest pod impresionant se întinde peste râul Paraguay, legând regiunea capitalei de Chaco.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.597592,
+                        -25.237426
+                  ]
+            },
+            {
+                  "name": "Parque Ñu Guasú",
+                  "text": "Acest parc metropolitan extins are trasee de plimbare și lacuri lângă râul Paraguay.",
+                  "category": "park",
+                  "coords": [
+                        -57.543861,
+                        -25.262729
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico y Zoológico de Asunción",
+                  "text": "Fondată în 1919, această grădină zoologică și botanică păstrează flora și fauna nativă în apropierea râului.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.571562,
+                        -25.247461
+                  ]
+            },
+            {
+                  "name": "Pecarí de Collar",
+                  "text": "Incinta pentru animale sălbatice prezintă pecari cu guler, un mamifer nativ din rezervațiile naturale ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.572382,
+                        -25.250198
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano Ñu Guasú",
+                  "text": "Un vast plămân verde lângă râul Paraguay, oferind circuite asfaltate pentru bicicliști și alergători.",
+                  "category": "park",
+                  "coords": [
+                        -57.540087,
+                        -25.264331
+                  ]
+            },
+            {
+                  "name": "Casa Guanes",
+                  "text": "Această moșie istorică de lângă râul Paraguay prezintă arhitectură colonială tradițională.",
+                  "category": "castle",
+                  "coords": [
+                        -57.636787,
+                        -25.250041
+                  ]
+            },
+            {
+                  "name": "MUSA - Museo de Sillas de Asunción",
+                  "text": "Acest muzeu unic prezintă o colecție eclectică de scaune și modele de scaune de-a lungul istoriei.",
+                  "category": "museum",
+                  "coords": [
+                        -57.579483,
+                        -25.252793
+                  ]
+            },
+            {
+                  "name": "Guggiari Arte",
+                  "text": "Galeria expune sculpturile izbitoare din metal și moștenirea artistică a renumitei familii Guggiari.",
+                  "category": "museum",
+                  "coords": [
+                        -57.562078,
+                        -25.282128
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural",
+                  "text": "Muzeul documentează bogata biodiversitate și istoria geologică a bazinului râului Paraguay.",
+                  "category": "museum",
+                  "coords": [
+                        -57.57498,
+                        -25.249608
+                  ]
+            },
+            {
+                  "name": "Museo de Historia de Chaco'i",
+                  "text": "Acest muzeu local păstrează moștenirea istorică și artefactele comunității de pe malul râului Chaco'i.",
+                  "category": "museum",
+                  "coords": [
+                        -57.653306,
+                        -25.246999
+                  ]
+            },
+            {
+                  "name": "Museo del Barro",
+                  "text": "Muzeul expune o colecție impresionantă de artă indigenă și ceramică tradițională paraguayană.",
+                  "category": "museum",
+                  "coords": [
+                        -57.559272,
+                        -25.281686
+                  ]
+            },
+            {
+                  "name": "Monumento Heroes del Chaco",
+                  "text": "Acest monument îi onorează pe bravii soldați care au luptat în istoricul război Chaco.",
+                  "category": "historical",
+                  "coords": [
+                        -57.645402,
+                        -25.251142
+                  ]
+            },
+            {
+                  "name": "Monumento al Arpa Paraguaya",
+                  "text": "Dezvelit pe 7 iunie 2023, acest monument modern celebrează harpa tradițională paraguayană.",
+                  "category": "historical",
+                  "coords": [
+                        -57.614179,
+                        -25.270801
+                  ]
+            },
+            {
+                  "name": "De las Residentas",
+                  "text": "Monumentul aduce un omagiu femeilor reziliente care au reconstruit națiunea după Războiul Paraguayan.",
+                  "category": "historical",
+                  "coords": [
+                        -57.541282,
+                        -25.274144
+                  ]
+            },
+            {
+                  "name": "Ex Cuartel",
+                  "text": "Fosta cazarmă militară istorică servește drept o amintire a trecutului strategic al regiunii.",
+                  "category": "fortress",
+                  "coords": [
+                        -57.639948,
+                        -25.2561
+                  ]
+            },
+            {
+                  "name": "Artelier D'Art",
+                  "text": "Un centru de artă activ care oferă spațiu pentru ateliere creative și expoziții contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.594294,
+                        -25.26764
+                  ]
+            },
+            {
+                  "name": "IGLESIA CENTRO DE ADORACION TRINIDAD",
+                  "text": "Acest lăcaș de cult deservește comunitatea locală din Trinidad prin slujbe creștine regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586604,
+                        -25.255321
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "O biserică parohială catolică cu hramul Sfânta Treime, situată în apropiere de pitorescul Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.580654,
+                        -25.259144
+                  ]
+            },
+            {
+                  "name": "SAN CARLOS BORROMEO",
+                  "text": "Acest lăcaș de cult local îl onorează pe San Carlos Borromeo în așezările din bazinul râului Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586358,
+                        -25.264593
+                  ]
+            },
+            {
+                  "name": "Iglesia Menonita Concordia",
+                  "text": "Un spațiu de întâlnire protestant care deservește comunitatea menonită locală de-a lungul Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.587333,
+                        -25.272069
+                  ]
+            },
+            {
+                  "name": "Capilla San Antonio",
+                  "text": "O capelă modestă dedicată Sfântului Anton, oferind un spațiu liniștit pentru rugăciune în apropiere de Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.584384,
+                        -25.245281
+                  ]
+            },
+            {
+                  "name": "Iglesia Calvario (CAMP Paraguay)",
+                  "text": "Un sanctuar religios cunoscut sub numele de Biserica Calvarului, care deservește comunitatea CAMP Paraguay din regiunea râului.",
+                  "category": "religious",
+                  "coords": [
+                        -57.587626,
+                        -25.24222
+                  ]
+            },
+            {
+                  "name": "Ekklesia M.R.A.- Paraguay",
+                  "text": "O congregație evanghelică activă situată în districtul Mariano Roque Alonso, lângă Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.551122,
+                        -25.221247
+                  ]
+            },
+            {
+                  "name": "Capilla Rosa Mistica",
+                  "text": "Un loc de cult catolic dedicat devoțiunii Rosa Mystica în mijlocul coridorului natural Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.555453,
+                        -25.219403
+                  ]
+            },
+            {
+                  "name": "Iglesia Menonita La Amistad",
+                  "text": "Această biserică menonită, numită sugestiv „La Amistad” (Prieteni), adună credincioșii din zona Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.581332,
+                        -25.243129
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "O capelă comunitară locală dedicată Arhanghelului Mihail, situată pe malurile râului Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.583058,
+                        -25.245159
+                  ]
+            },
+            {
+                  "name": "Capilla Maria Auxiliadora",
+                  "text": "Un lăcaș de cult de cartier care o onorează pe Maria Ajutorul Creștinilor în regiunea luxuriantă Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.581422,
+                        -25.249058
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de las Mercedes",
+                  "text": "O mică capelă mariană dedicată Fecioarei Îndurării, oferind un refugiu spiritual în bazinul Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.557169,
+                        -25.250951
+                  ]
+            },
+            {
+                  "name": "Centro Familiar de Adoracion Loma Pyta",
+                  "text": "Un centru de închinare creștină pentru familii, situat în cartierul Loma Pytá, lângă ecosistemele Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.544727,
+                        -25.243269
+                  ]
+            },
+            {
+                  "name": "Ministerio Iglesia Agua Viva",
+                  "text": "Biserica ministerului „Apa Vie” oferă un cadru modern de închinare în zona Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.542641,
+                        -25.231596
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7° Dia",
+                  "text": "O casă de adunare a Adventiștilor de Ziua a Șaptea, care îi întâmpină pe credincioși de sabat în regiunea Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.59195,
+                        -25.259876
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuerza Viva",
+                  "text": "Congregația „Fuerza Viva” se adună în acest lăcaș de cult local de lângă Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.591086,
+                        -25.261091
+                  ]
+            },
+            {
+                  "name": "Iglesia CFA Puerto Botanico",
+                  "text": "O filială a Centrului de Închinare a Familiei, situată convenabil în apropiere de zona riverană Puerto Botánico.",
+                  "category": "religious",
+                  "coords": [
+                        -57.585849,
+                        -25.24539
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Biblica Defensores del Chaco",
+                  "text": "O biserică evanghelică biblică care îi servește pe credincioși lângă zona Defensores del Chaco de-a lungul Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548405,
+                        -25.220873
+                  ]
+            },
+            {
+                  "name": "Capilla San Ramon Nonato",
+                  "text": "Această capelă locală îl onorează pe Sfântul Raymond Nonnatus, oferind servicii catolice lângă Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.561404,
+                        -25.22684
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "O biserică parohială a Sfintei Familii care oferă îndrumare spirituală comunităților de-a lungul Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548785,
+                        -25.229242
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Filadelfia El Renuevo",
+                  "text": "O filială a bisericii evanghelice Philadelphia cunoscută sub numele de „El Renuevo”, promovând reînnoirea spirituală lângă râu.",
+                  "category": "religious",
+                  "coords": [
+                        -57.547542,
+                        -25.233341
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica del Nazareno",
+                  "text": "Un loc de adunare al Bisericii locale a Nazarineanului care oferă servicii evanghelice în regiunea Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.55329,
+                        -25.244356
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Caacupe",
+                  "text": "Un lăcaș de cult local dedicat iubitei patroane a Paraguayului, Fecioara din Caacupé.",
+                  "category": "religious",
+                  "coords": [
+                        -57.552788,
+                        -25.246708
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puente Héroes del Chaco",
+                  "text": "This striking bridge spans the Paraguay River, connecting the capital region with the Chaco.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.597592,
+                        -25.237426
+                  ]
+            },
+            {
+                  "name": "Parque Ñu Guasú",
+                  "text": "This expansive metropolitan park features walking trails and lakes near the Paraguay River.",
+                  "category": "park",
+                  "coords": [
+                        -57.543861,
+                        -25.262729
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico y Zoológico de Asunción",
+                  "text": "Founded in 1919, this zoological and botanical garden preserves native flora and fauna near the river.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.571562,
+                        -25.247461
+                  ]
+            },
+            {
+                  "name": "Pecarí de Collar",
+                  "text": "The wildlife enclosure showcases the collared peccary, an indigenous mammal of the region's nature reserves.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.572382,
+                        -25.250198
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano Ñu Guasú",
+                  "text": "A vast green lung near the Paraguay River, offering paved circuits for cyclists and runners.",
+                  "category": "park",
+                  "coords": [
+                        -57.540087,
+                        -25.264331
+                  ]
+            },
+            {
+                  "name": "Casa Guanes",
+                  "text": "This historic estate near the Paraguay River showcases traditional colonial architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -57.636787,
+                        -25.250041
+                  ]
+            },
+            {
+                  "name": "MUSA - Museo de Sillas de Asunción",
+                  "text": "This unique museum features an eclectic collection of chairs and seating designs throughout history.",
+                  "category": "museum",
+                  "coords": [
+                        -57.579483,
+                        -25.252793
+                  ]
+            },
+            {
+                  "name": "Guggiari Arte",
+                  "text": "The gallery exhibits the striking metal sculptures and artistic legacy of the renowned Guggiari family.",
+                  "category": "museum",
+                  "coords": [
+                        -57.562078,
+                        -25.282128
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural",
+                  "text": "The museum documents the rich biodiversity and geological history of the Paraguay River basin.",
+                  "category": "museum",
+                  "coords": [
+                        -57.57498,
+                        -25.249608
+                  ]
+            },
+            {
+                  "name": "Museo de Historia de Chaco'i",
+                  "text": "This local museum preserves the historical heritage and artifacts of the Chaco'i riverbank community.",
+                  "category": "museum",
+                  "coords": [
+                        -57.653306,
+                        -25.246999
+                  ]
+            },
+            {
+                  "name": "Museo del Barro",
+                  "text": "The museum exhibits an impressive collection of indigenous art and traditional Paraguayan ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        -57.559272,
+                        -25.281686
+                  ]
+            },
+            {
+                  "name": "Monumento Heroes del Chaco",
+                  "text": "This monument honors the brave soldiers who fought in the historic Chaco War.",
+                  "category": "historical",
+                  "coords": [
+                        -57.645402,
+                        -25.251142
+                  ]
+            },
+            {
+                  "name": "Monumento al Arpa Paraguaya",
+                  "text": "Unveiled on June 7, 2023, this modern monument celebrates the traditional Paraguayan harp.",
+                  "category": "historical",
+                  "coords": [
+                        -57.614179,
+                        -25.270801
+                  ]
+            },
+            {
+                  "name": "De las Residentas",
+                  "text": "The monument pays tribute to the resilient women who rebuilt the nation after the Paraguayan War.",
+                  "category": "historical",
+                  "coords": [
+                        -57.541282,
+                        -25.274144
+                  ]
+            },
+            {
+                  "name": "Ex Cuartel",
+                  "text": "The historic former military barracks stand as a reminder of the region's strategic past.",
+                  "category": "fortress",
+                  "coords": [
+                        -57.639948,
+                        -25.2561
+                  ]
+            },
+            {
+                  "name": "Artelier D'Art",
+                  "text": "An active arts center providing space for creative workshops and contemporary exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.594294,
+                        -25.26764
+                  ]
+            },
+            {
+                  "name": "IGLESIA CENTRO DE ADORACION TRINIDAD",
+                  "text": "This place of worship serves the local Trinidad community with regular Christian services.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586604,
+                        -25.255321
+                  ]
+            },
+            {
+                  "name": "Parroquia Santísima Trinidad",
+                  "text": "A Catholic parish church dedicated to the Holy Trinity, situated near the scenic Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.580654,
+                        -25.259144
+                  ]
+            },
+            {
+                  "name": "SAN CARLOS BORROMEO",
+                  "text": "This local place of worship honors San Carlos Borromeo within the Río Paraguay river basin settlements.",
+                  "category": "religious",
+                  "coords": [
+                        -57.586358,
+                        -25.264593
+                  ]
+            },
+            {
+                  "name": "Concordia Mennonite Church",
+                  "text": "A Protestant meeting space serving the local Mennonite community along the Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.587333,
+                        -25.272069
+                  ]
+            },
+            {
+                  "name": "Capilla San Antonio",
+                  "text": "A modest chapel dedicated to Saint Anthony, offering a quiet space for prayer near the Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.584384,
+                        -25.245281
+                  ]
+            },
+            {
+                  "name": "Iglesia Calvario (CAMP Paraguay)",
+                  "text": "A religious sanctuary known as the Calvary Church, serving the CAMP Paraguay community in the river region.",
+                  "category": "religious",
+                  "coords": [
+                        -57.587626,
+                        -25.24222
+                  ]
+            },
+            {
+                  "name": "Ekklesia M.R.A.- Paraguay",
+                  "text": "An active evangelical congregation located in the Mariano Roque Alonso district near the Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.551122,
+                        -25.221247
+                  ]
+            },
+            {
+                  "name": "Capilla Rosa Mistica",
+                  "text": "A Catholic worship site dedicated to the Rosa Mystica devotion amidst the Río Paraguay nature corridor.",
+                  "category": "religious",
+                  "coords": [
+                        -57.555453,
+                        -25.219403
+                  ]
+            },
+            {
+                  "name": "Iglesia Menonita La Amistad",
+                  "text": "This Mennonite church, aptly named 'La Amistad' (Friendship), gathers worshippers in the Río Paraguay area.",
+                  "category": "religious",
+                  "coords": [
+                        -57.581332,
+                        -25.243129
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "A local community chapel invoking Saint Michael the Archangel, situated near the banks of the Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.583058,
+                        -25.245159
+                  ]
+            },
+            {
+                  "name": "Capilla Maria Auxiliadora",
+                  "text": "A neighborhood place of worship honoring Mary Help of Christians in the lush Río Paraguay region.",
+                  "category": "religious",
+                  "coords": [
+                        -57.581422,
+                        -25.249058
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de las Mercedes",
+                  "text": "A small Marian chapel dedicated to the Virgin of Mercy, providing spiritual refuge in the Río Paraguay basin.",
+                  "category": "religious",
+                  "coords": [
+                        -57.557169,
+                        -25.250951
+                  ]
+            },
+            {
+                  "name": "Centro Familiar de Adoracion Loma Pyta",
+                  "text": "A Christian family worship center located in the Loma Pytá neighborhood near the Río Paraguay ecosystems.",
+                  "category": "religious",
+                  "coords": [
+                        -57.544727,
+                        -25.243269
+                  ]
+            },
+            {
+                  "name": "Ministerio Iglesia Agua Viva",
+                  "text": "The 'Living Water' ministry church offers a modern worship setting in the Río Paraguay area.",
+                  "category": "religious",
+                  "coords": [
+                        -57.542641,
+                        -25.231596
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7° Dia",
+                  "text": "A Seventh-day Adventist meetinghouse welcoming sabbath worshippers in the Río Paraguay region.",
+                  "category": "religious",
+                  "coords": [
+                        -57.59195,
+                        -25.259876
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuerza Viva",
+                  "text": "The 'Fuerza Viva' congregation gathers in this local place of worship near the Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.591086,
+                        -25.261091
+                  ]
+            },
+            {
+                  "name": "Iglesia CFA Puerto Botanico",
+                  "text": "A Family Worship Center branch conveniently located near the Puerto Botánico riverfront area.",
+                  "category": "religious",
+                  "coords": [
+                        -57.585849,
+                        -25.24539
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Biblica Defensores del Chaco",
+                  "text": "A biblical evangelical church serving the faithful near the Defensores del Chaco area along the Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548405,
+                        -25.220873
+                  ]
+            },
+            {
+                  "name": "Capilla San Ramon Nonato",
+                  "text": "This local chapel honors Saint Raymond Nonnatus, providing Catholic services near the Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.561404,
+                        -25.22684
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "A Holy Family parish church offering spiritual guidance to the communities along the Río Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548785,
+                        -25.229242
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Filadelfia El Renuevo",
+                  "text": "An evangelical Philadelphia church branch known as 'El Renuevo', fostering spiritual renewal near the river.",
+                  "category": "religious",
+                  "coords": [
+                        -57.547542,
+                        -25.233341
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica del Nazareno",
+                  "text": "A local Church of the Nazarene gathering place providing evangelical services in the Río Paraguay region.",
+                  "category": "religious",
+                  "coords": [
+                        -57.55329,
+                        -25.244356
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Caacupe",
+                  "text": "A local place of worship devoted to Paraguay's beloved patroness, the Virgin of Caacupé.",
+                  "category": "religious",
+                  "coords": [
+                        -57.552788,
+                        -25.246708
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PY-11",
     coords: [-57.6333, -25.2667],
@@ -50,7 +1463,1420 @@ export const poiExtraParaguayNatureV2: POI[] = [
       fr: ["Cinquième plus long fleuve d'Amérique du Sud avec une longueur totale d'environ 2 625 km.", "Le nom vient de la langue guaraní et signifie 'eau des gens couronnés'.", "Habitat crucial pour le Dorado, le 'roi des rivières paraguayennes'.", "Élément central de la voie navigable Paraguay-Paraná pour le transport fluvial."],
     }, image: "/poi-images/py-rio-paraguay-nature-v2.webp"},
   {
-    id: "py-rio-parana-nature-v2",
+    id: "py-rio-parana-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "A casa da piscina",
+                  "text": "Dieses Hausmuseum liegt in der Nähe des Flussufers und gewährt Einblicke in die lokale Architektur.",
+                  "category": "museum",
+                  "coords": [
+                        -54.558819,
+                        -25.541038
+                  ]
+            },
+            {
+                  "name": "Arts",
+                  "text": "Diese Kunstgalerie in der Nähe des Paraná-Flusses stellt zeitgenössische Werke regionaler Künstler aus.",
+                  "category": "museum",
+                  "coords": [
+                        -54.609234,
+                        -25.543373
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Mauro Cespedes",
+                  "text": "Dieses große städtische Auditorium dient als wichtigster Veranstaltungsort für darstellende Künste in der Region am Paraná.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.614264,
+                        -25.525696
+                  ]
+            },
+            {
+                  "name": "Quixote Espaço Cultural",
+                  "text": "Dieses Kulturzentrum am Paraná verbindet eine Buchhandlung mit Räumen für künstlerischen Austausch.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.572946,
+                        -25.539193
+                  ]
+            },
+            {
+                  "name": "Casinha Laranja",
+                  "text": "Dieses kleine, leuchtend orangefarbene Kunstzentrum beherbergt Workshops und lokale Ausstellungen am Flussufer.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.573464,
+                        -25.54962
+                  ]
+            },
+            {
+                  "name": "Teatro Barracão",
+                  "text": "Dieses Gemeinschaftstheater ist in einem einfachen schuppenartigen Gebäude untergebracht und fördert lokale Schauspielgruppen.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.551211,
+                        -25.534993
+                  ]
+            },
+            {
+                  "name": "Religioso",
+                  "text": "Diese christliche Kultstätte liegt in der Nähe der Ufer des Paraná-Flusses.",
+                  "category": "religious",
+                  "coords": [
+                        -54.610025,
+                        -25.527928
+                  ]
+            },
+            {
+                  "name": "Ilê Axé Igbá Asenró",
+                  "text": "Dieser heilige Ort dient der afro-brasilianischen Candomblé-Tradition in der Grenzregion.",
+                  "category": "religious",
+                  "coords": [
+                        -54.538471,
+                        -25.549819
+                  ]
+            },
+            {
+                  "name": "Nossa Sra Desatadora de nós",
+                  "text": "Dieser religiöse Schrein ist Maria, der Knotenlöserin, gewidmet und lädt zur stillen Andacht ein.",
+                  "category": "religious",
+                  "coords": [
+                        -54.545322,
+                        -25.539812
+                  ]
+            },
+            {
+                  "name": "ile ogun Candomblé",
+                  "text": "Dieses Candomblé-Haus in der Nähe des Paraná ist der Gottheit Ogun gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -54.540064,
+                        -25.532119
+                  ]
+            },
+            {
+                  "name": "igreja católica",
+                  "text": "Diese katholische Kirche bietet den Bewohnern am Ufer des Paraná einen Ort für das Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        -54.554055,
+                        -25.542332
+                  ]
+            },
+            {
+                  "name": "Macumba",
+                  "text": "Dieser Ort dient der rituellen Praxis afro-brasilianischer Traditionen in der Flussregion.",
+                  "category": "religious",
+                  "coords": [
+                        -54.560313,
+                        -25.535657
+                  ]
+            },
+            {
+                  "name": "Seicho no ie",
+                  "text": "Dieses spirituelle Zentrum ist der japanisch-stämmigen Seicho-no-Ie-Bewegung gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -54.579121,
+                        -25.535482
+                  ]
+            },
+            {
+                  "name": "Pastoral da Mobilidade Humana",
+                  "text": "Diese religiöse Einrichtung am Paraná widmet sich der Unterstützung von Migranten und Reisenden.",
+                  "category": "religious",
+                  "coords": [
+                        -54.577113,
+                        -25.5359
+                  ]
+            },
+            {
+                  "name": "Centro Espírita",
+                  "text": "Dieses pastorale Zentrum konzentriert sich auf soziale Gemeinschaftsprojekte in der Grenzregion am Fluss.",
+                  "category": "religious",
+                  "coords": [
+                        -54.581315,
+                        -25.543058
+                  ]
+            },
+            {
+                  "name": "Mãe Baiana",
+                  "text": "Diese religiöse Stätte wird von einer traditionellen afro-brasilianischen Priesterin geleitet.",
+                  "category": "religious",
+                  "coords": [
+                        -54.580287,
+                        -25.54882
+                  ]
+            },
+            {
+                  "name": "Pastoral da Saúde",
+                  "text": "Diese kirchliche Einrichtung bietet spirituelle Begleitung im Bereich der Gesundheitspastoral an.",
+                  "category": "religious",
+                  "coords": [
+                        -54.587199,
+                        -25.547154
+                  ]
+            },
+            {
+                  "name": "CEOM - Centro Espírita Os Mensageiros",
+                  "text": "Dieses ökumenische Zentrum in der Nähe des Paraná dient der Koordinierung missionarischer Aufgaben.",
+                  "category": "religious",
+                  "coords": [
+                        -54.5875,
+                        -25.550792
+                  ]
+            },
+            {
+                  "name": "IASD - Central de Foz",
+                  "text": "Diese protestantische Kirche der Siebenten-Tags-Adventisten liegt im Stadtzentrum von Foz.",
+                  "category": "religious",
+                  "coords": [
+                        -54.589132,
+                        -25.534077
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieser moderne Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage dient der mormonischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -54.603692,
+                        -25.533652
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Caacupe",
+                  "text": "Diese kleine Kapelle ist der Jungfrau von Caacupé, der Schutzpatronin Paraguays, gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -54.601027,
+                        -25.533017
+                  ]
+            },
+            {
+                  "name": "Igreja católica ukraniana",
+                  "text": "Diese ukrainisch-griechisch-katholische Kirche pflegt die religiösen Traditionen der lokalen osteuropäischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -54.555478,
+                        -25.504695
+                  ]
+            },
+            {
+                  "name": "Candomblé",
+                  "text": "Diese heilige Stätte ist der Praxis der afro-brasilianischen Candomblé-Religion gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -54.550356,
+                        -25.509541
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "Diese christliche Kapelle ist dem Erzengel Michael gewidmet und liegt in der Nähe des Grenzflusses.",
+                  "category": "religious",
+                  "coords": [
+                        -54.604776,
+                        -25.535127
+                  ]
+            },
+            {
+                  "name": "Iglesia generacion de la vida",
+                  "text": "Diese moderne evangelische Kirche konzentriert sich auf zeitgenössische christliche Lebensführung.",
+                  "category": "religious",
+                  "coords": [
+                        -54.606878,
+                        -25.537749
+                  ]
+            },
+            {
+                  "name": "Jhon Jesus",
+                  "text": "Dieses religiöse Zentrum bietet einen Ort für christliche Gebete und Gemeinschaftstreffen am Fluss.",
+                  "category": "religious",
+                  "coords": [
+                        -54.618842,
+                        -25.537041
+                  ]
+            },
+            {
+                  "name": "Evangelic",
+                  "text": "Diese schlichte evangelische Kirche dient der lokalen protestantischen Gemeinde in der Grenzregion.",
+                  "category": "religious",
+                  "coords": [
+                        -54.535109,
+                        -25.536193
+                  ]
+            },
+            {
+                  "name": "Igreja Episcopal Anglicana do Brasil",
+                  "text": "Eine anglikanische Kirche der Episkopal-Gemeinde in der Nähe des Paraná-Flusses.",
+                  "category": "religious",
+                  "coords": [
+                        -54.570639,
+                        -25.523381
+                  ]
+            },
+            {
+                  "name": "testemunhas de jeová",
+                  "text": "Ein Versammlungsort der Zeugen Jehovas für religiöse Zusammenkünfte in der Grenzregion.",
+                  "category": "religious",
+                  "coords": [
+                        -54.5475,
+                        -25.527887
+                  ]
+            },
+            {
+                  "name": "igreja evangélica",
+                  "text": "Eine lokale evangelische Gebetsstätte für die christliche Gemeinde am Flussufer.",
+                  "category": "religious",
+                  "coords": [
+                        -54.546091,
+                        -25.528329
+                  ]
+            },
+            {
+                  "name": "Mercado da Paz",
+                  "text": "Ein lokaler Marktplatz, auf dem frische Lebensmittel und handwerkliche Waren angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.533477,
+                        -25.534397
+                  ]
+            },
+            {
+                  "name": "Boa Constrictor",
+                  "text": "Eine Attraktion zum Thema Wildtiere, die sich der lokalen Fauna des Paraná-Beckens widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.589447,
+                        -25.532639
+                  ]
+            },
+            {
+                  "name": "Mesquita Omar Ibn Al-Khattab",
+                  "text": "Eine beeindruckende Moschee mit weißer Kuppel und filigraner islamischer Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.578639,
+                        -25.52069
+                  ]
+            },
+            {
+                  "name": "Centro Espirita del Este \"Joanna de Angelis\"",
+                  "text": "Ein spiritistisches Zentrum, das sich an den Lehren von Joanna de Ângelis orientiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.608396,
+                        -25.525984
+                  ]
+            },
+            {
+                  "name": "Igreja Catolica Rosa Mistica",
+                  "text": "Eine katholische Kirche, die der Maria Rosa Mystica gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.563366,
+                        -25.541326
+                  ]
+            },
+            {
+                  "name": "Capela Santa Luzia",
+                  "text": "Eine kleine katholische Kapelle, die zu Ehren der heiligen Lucia errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.563704,
+                        -25.530731
+                  ]
+            },
+            {
+                  "name": "Igreja Luterana Cristo Redentor",
+                  "text": "Eine lutherische Kirche der Gemeinde Cristo Redentor für Gottesdienste am Rio Paraná.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.58169,
+                        -25.54027
+                  ]
+            },
+            {
+                  "name": "Igreja Presbiteriana do Brasil",
+                  "text": "Ein presbyterianisches Gotteshaus für die protestantische Gemeinde in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.580513,
+                        -25.538267
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Ministério Sementes da Fé",
+                  "text": "Ein pfingstkirchliches Missionszentrum, das unter dem Namen \"Samen des Glaubens\" bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.58252,
+                        -25.547146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "A casa da piscina",
+                  "text": "Ez a folyópart közelében található házmúzeum betekintést nyújt a helyi építészetbe.",
+                  "category": "museum",
+                  "coords": [
+                        -54.558819,
+                        -25.541038
+                  ]
+            },
+            {
+                  "name": "Arts",
+                  "text": "Ez a Paraná-folyó közelében található művészeti galéria regionális művészek kortárs alkotásait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -54.609234,
+                        -25.543373
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Mauro Cespedes",
+                  "text": "Ez a nagy városi auditórium a Paraná-vidék előadóművészeti eseményeinek egyik fő helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.614264,
+                        -25.525696
+                  ]
+            },
+            {
+                  "name": "Quixote Espaço Cultural",
+                  "text": "Ez a Paraná-menti kulturális központ egy könyvesboltot ötvöz a művészeti eszmecsere tereivel.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.572946,
+                        -25.539193
+                  ]
+            },
+            {
+                  "name": "Casinha Laranja",
+                  "text": "Ez a kicsi, élénk narancssárga művészeti központ workshopoknak és helyi kiállításoknak ad otthont a folyóparton.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.573464,
+                        -25.54962
+                  ]
+            },
+            {
+                  "name": "Teatro Barracão",
+                  "text": "Ez a közösségi színház egy egyszerű, fészerre emlékeztető épületben kapott helyet, és helyi színjátszó köröket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.551211,
+                        -25.534993
+                  ]
+            },
+            {
+                  "name": "Religioso",
+                  "text": "Ez a keresztény istentiszteleti hely a Paraná-folyó partjának közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        -54.610025,
+                        -25.527928
+                  ]
+            },
+            {
+                  "name": "Ilê Axé Igbá Asenró",
+                  "text": "Ez a szent hely az afro-brazil Candomblé hagyományokat szolgálja a határvidéken.",
+                  "category": "religious",
+                  "coords": [
+                        -54.538471,
+                        -25.549819
+                  ]
+            },
+            {
+                  "name": "Nossa Sra Desatadora de nós",
+                  "text": "Ez a vallási szentély a Csomóoldó Boldogasszonynak van szentelve, és csendes áhítatra hív.",
+                  "category": "religious",
+                  "coords": [
+                        -54.545322,
+                        -25.539812
+                  ]
+            },
+            {
+                  "name": "ile ogun Candomblé",
+                  "text": "Ez a Paraná-közeli Candomblé-ház Ogun istenség tiszteletére van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -54.540064,
+                        -25.532119
+                  ]
+            },
+            {
+                  "name": "igreja católica",
+                  "text": "Ez a katolikus templom imádságos helyet biztosít a Paraná partján élők számára.",
+                  "category": "religious",
+                  "coords": [
+                        -54.554055,
+                        -25.542332
+                  ]
+            },
+            {
+                  "name": "Macumba",
+                  "text": "Ez a hely az afro-brazil hagyományok rituális gyakorlását szolgálja a folyómenti régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -54.560313,
+                        -25.535657
+                  ]
+            },
+            {
+                  "name": "Seicho no ie",
+                  "text": "Ez a spirituális központ a japán eredetű Seicho-no-Ie mozgalomnak szentelt hely.",
+                  "category": "religious",
+                  "coords": [
+                        -54.579121,
+                        -25.535482
+                  ]
+            },
+            {
+                  "name": "Pastoral da Mobilidade Humana",
+                  "text": "Ez a Paraná-menti vallási intézmény a migránsok és utazók támogatásának szenteli munkáját.",
+                  "category": "religious",
+                  "coords": [
+                        -54.577113,
+                        -25.5359
+                  ]
+            },
+            {
+                  "name": "Centro Espírita",
+                  "text": "Ez a pasztorális központ a folyó menti határvidék szociális közösségi projektjeire összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        -54.581315,
+                        -25.543058
+                  ]
+            },
+            {
+                  "name": "Mãe Baiana",
+                  "text": "Ezt a vallási helyszínt egy hagyományos afro-brazil papnő vezeti.",
+                  "category": "religious",
+                  "coords": [
+                        -54.580287,
+                        -25.54882
+                  ]
+            },
+            {
+                  "name": "Pastoral da Saúde",
+                  "text": "Ez az egyházi intézmény spirituális kísérést kínál az egészségügyi pasztoráció területén.",
+                  "category": "religious",
+                  "coords": [
+                        -54.587199,
+                        -25.547154
+                  ]
+            },
+            {
+                  "name": "CEOM - Centro Espírita Os Mensageiros",
+                  "text": "Ez a Paraná-közeli ökumenikus központ a missziós feladatok összehangolását szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -54.5875,
+                        -25.550792
+                  ]
+            },
+            {
+                  "name": "IASD - Central de Foz",
+                  "text": "Ez a Hetednapi Adventista protestáns templom Foz városközpontjában található.",
+                  "category": "religious",
+                  "coords": [
+                        -54.589132,
+                        -25.534077
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának ezen modern temploma a mormon közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -54.603692,
+                        -25.533652
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Caacupe",
+                  "text": "Ez a kis kápolna a Caacupé-i Szűznek, Paraguay védőszentjének van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -54.601027,
+                        -25.533017
+                  ]
+            },
+            {
+                  "name": "Igreja católica ukraniana",
+                  "text": "Ez az ukrán görögkatolikus templom a helyi kelet-európai közösség vallási hagyományait ápolja.",
+                  "category": "religious",
+                  "coords": [
+                        -54.555478,
+                        -25.504695
+                  ]
+            },
+            {
+                  "name": "Candomblé",
+                  "text": "Ez a szent hely az afro-brazil Candomblé vallás gyakorlásának szentelt helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        -54.550356,
+                        -25.509541
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "Ez a keresztény kápolna Szent Mihály arkangyal tiszteletére van szentelve, és a határfolyó közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        -54.604776,
+                        -25.535127
+                  ]
+            },
+            {
+                  "name": "Iglesia generacion de la vida",
+                  "text": "Ez a modern evangélikus templom a kortárs keresztény életvitelre összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        -54.606878,
+                        -25.537749
+                  ]
+            },
+            {
+                  "name": "Jhon Jesus",
+                  "text": "Ez a vallási központ keresztény imádságoknak és közösségi találkozóknak ad helyet a folyónál.",
+                  "category": "religious",
+                  "coords": [
+                        -54.618842,
+                        -25.537041
+                  ]
+            },
+            {
+                  "name": "Evangelic",
+                  "text": "Ez az egyszerű evangélikus templom a határvidék helyi protestáns közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -54.535109,
+                        -25.536193
+                  ]
+            },
+            {
+                  "name": "Igreja Episcopal Anglicana do Brasil",
+                  "text": "Az Anglikán Episzkopális Egyház temploma a Paraná-folyó közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -54.570639,
+                        -25.523381
+                  ]
+            },
+            {
+                  "name": "testemunhas de jeová",
+                  "text": "Jehova Tanúi királyságterme a vallási közösség összejöveteleihez.",
+                  "category": "religious",
+                  "coords": [
+                        -54.5475,
+                        -25.527887
+                  ]
+            },
+            {
+                  "name": "igreja evangélica",
+                  "text": "Helyi evangélikus templom a keresztény közösség számára a folyóparton.",
+                  "category": "religious",
+                  "coords": [
+                        -54.546091,
+                        -25.528329
+                  ]
+            },
+            {
+                  "name": "Mercado da Paz",
+                  "text": "Helyi piac, ahol friss élelmiszereket és kézműves termékeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.533477,
+                        -25.534397
+                  ]
+            },
+            {
+                  "name": "Boa Constrictor",
+                  "text": "Vadvilági tematikájú látványosság, amely a Paraná-medence helyi faunáját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.589447,
+                        -25.532639
+                  ]
+            },
+            {
+                  "name": "Mesquita Omar Ibn Al-Khattab",
+                  "text": "Lenyűgöző mecset fehér kupolával és díszes iszlám építészeti elemekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.578639,
+                        -25.52069
+                  ]
+            },
+            {
+                  "name": "Centro Espirita del Este \"Joanna de Angelis\"",
+                  "text": "Spiritiszta központ, amely Joanna de Ângelis tanításait követi.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.608396,
+                        -25.525984
+                  ]
+            },
+            {
+                  "name": "Igreja Catolica Rosa Mistica",
+                  "text": "A titokzatos rózsaként tisztelt Szűz Máriának szentelt katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.563366,
+                        -25.541326
+                  ]
+            },
+            {
+                  "name": "Capela Santa Luzia",
+                  "text": "Szent Lúcia tiszteletére emelt kisméretű katolikus kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.563704,
+                        -25.530731
+                  ]
+            },
+            {
+                  "name": "Igreja Luterana Cristo Redentor",
+                  "text": "A Krisztus Megváltó lutheránus közösség temploma a Paraná-folyónál.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.58169,
+                        -25.54027
+                  ]
+            },
+            {
+                  "name": "Igreja Presbiteriana do Brasil",
+                  "text": "A helyi protestáns közösség presbiteriánus imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.580513,
+                        -25.538267
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Ministério Sementes da Fé",
+                  "text": "A „Hit Magvai” nevet viselő pünkösdi missziós központ.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.58252,
+                        -25.547146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "A casa da piscina",
+                  "text": "Această casă memorială situată lângă malul râului oferă o perspectivă asupra arhitecturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        -54.558819,
+                        -25.541038
+                  ]
+            },
+            {
+                  "name": "Arts",
+                  "text": "Această galerie de artă de lângă râul Paraná expune lucrări contemporane ale artiștilor regionali.",
+                  "category": "museum",
+                  "coords": [
+                        -54.609234,
+                        -25.543373
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Mauro Cespedes",
+                  "text": "Acest mare auditoriu municipal servește ca locație principală pentru artele spectacolului în regiunea Paraná.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.614264,
+                        -25.525696
+                  ]
+            },
+            {
+                  "name": "Quixote Espaço Cultural",
+                  "text": "Acest centru cultural de pe malul Paranei combină o librărie cu spații pentru schimburi artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.572946,
+                        -25.539193
+                  ]
+            },
+            {
+                  "name": "Casinha Laranja",
+                  "text": "Acest mic centru de artă de culoare portocaliu intens găzduiește ateliere și expoziții locale pe malul râului.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.573464,
+                        -25.54962
+                  ]
+            },
+            {
+                  "name": "Teatro Barracão",
+                  "text": "Acest teatru comunitar este găzduit într-o clădire simplă de tip baracă și sprijină grupurile locale de actorie.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.551211,
+                        -25.534993
+                  ]
+            },
+            {
+                  "name": "Religioso",
+                  "text": "Acest loc de cult creștin este situat în apropierea malurilor râului Paraná.",
+                  "category": "religious",
+                  "coords": [
+                        -54.610025,
+                        -25.527928
+                  ]
+            },
+            {
+                  "name": "Ilê Axé Igbá Asenró",
+                  "text": "Acest loc sacru servește tradiției afro-braziliene Candomblé din regiunea de frontieră.",
+                  "category": "religious",
+                  "coords": [
+                        -54.538471,
+                        -25.549819
+                  ]
+            },
+            {
+                  "name": "Nossa Sra Desatadora de nós",
+                  "text": "Acest sanctuar religios este dedicat Fecioarei Maria, Dezlegătoarea Nodurilor, invitând la meditație tăcută.",
+                  "category": "religious",
+                  "coords": [
+                        -54.545322,
+                        -25.539812
+                  ]
+            },
+            {
+                  "name": "ile ogun Candomblé",
+                  "text": "Această casă Candomblé de lângă Paraná este dedicată zeității Ogun.",
+                  "category": "religious",
+                  "coords": [
+                        -54.540064,
+                        -25.532119
+                  ]
+            },
+            {
+                  "name": "igreja católica",
+                  "text": "Această biserică catolică oferă un loc de rugăciune pentru locuitorii de pe malul Paranei.",
+                  "category": "religious",
+                  "coords": [
+                        -54.554055,
+                        -25.542332
+                  ]
+            },
+            {
+                  "name": "Macumba",
+                  "text": "Acest loc servește practicii rituale a tradițiilor afro-braziliene în regiunea râului.",
+                  "category": "religious",
+                  "coords": [
+                        -54.560313,
+                        -25.535657
+                  ]
+            },
+            {
+                  "name": "Seicho no ie",
+                  "text": "Acest centru spiritual este dedicat mișcării Seicho-no-Ie de origine japoneză.",
+                  "category": "religious",
+                  "coords": [
+                        -54.579121,
+                        -25.535482
+                  ]
+            },
+            {
+                  "name": "Pastoral da Mobilidade Humana",
+                  "text": "Această instituție religioasă de pe Paraná este dedicată sprijinirii migranților și călătorilor.",
+                  "category": "religious",
+                  "coords": [
+                        -54.577113,
+                        -25.5359
+                  ]
+            },
+            {
+                  "name": "Centro Espírita",
+                  "text": "Acest centru pastoral se concentrează pe proiecte sociale comunitare în regiunea de frontieră a râului.",
+                  "category": "religious",
+                  "coords": [
+                        -54.581315,
+                        -25.543058
+                  ]
+            },
+            {
+                  "name": "Mãe Baiana",
+                  "text": "Acest sit religios este condus de o preoteasă tradițională afro-braziliană.",
+                  "category": "religious",
+                  "coords": [
+                        -54.580287,
+                        -25.54882
+                  ]
+            },
+            {
+                  "name": "Pastoral da Saúde",
+                  "text": "Această instituție bisericească oferă acompaniament spiritual în domeniul pastoralei sănătății.",
+                  "category": "religious",
+                  "coords": [
+                        -54.587199,
+                        -25.547154
+                  ]
+            },
+            {
+                  "name": "CEOM - Centro Espírita Os Mensageiros",
+                  "text": "Acest centru ecumenic de lângă Paraná servește la coordonarea sarcinilor misionare.",
+                  "category": "religious",
+                  "coords": [
+                        -54.5875,
+                        -25.550792
+                  ]
+            },
+            {
+                  "name": "IASD - Central de Foz",
+                  "text": "Această biserică protestantă Adventistă de Ziua a Șaptea este situată în centrul orașului Foz.",
+                  "category": "religious",
+                  "coords": [
+                        -54.589132,
+                        -25.534077
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Acest templu modern al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă servește comunitatea mormonă.",
+                  "category": "religious",
+                  "coords": [
+                        -54.603692,
+                        -25.533652
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Caacupe",
+                  "text": "Această mică capelă este dedicată Fecioarei din Caacupé, patroana Paraguayului.",
+                  "category": "religious",
+                  "coords": [
+                        -54.601027,
+                        -25.533017
+                  ]
+            },
+            {
+                  "name": "Igreja católica ukraniana",
+                  "text": "Această biserică greco-catolică ucraineană menține tradițiile religioase ale comunității est-europene locale.",
+                  "category": "religious",
+                  "coords": [
+                        -54.555478,
+                        -25.504695
+                  ]
+            },
+            {
+                  "name": "Candomblé",
+                  "text": "Acest loc sacru este dedicat practicii religiei afro-braziliene Candomblé.",
+                  "category": "religious",
+                  "coords": [
+                        -54.550356,
+                        -25.509541
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "Această capelă creștină este dedicată Arhanghelului Mihail și se află în apropierea râului de frontieră.",
+                  "category": "religious",
+                  "coords": [
+                        -54.604776,
+                        -25.535127
+                  ]
+            },
+            {
+                  "name": "Iglesia generacion de la vida",
+                  "text": "Această biserică evanghelică modernă se concentrează pe stilul de viață creștin contemporan.",
+                  "category": "religious",
+                  "coords": [
+                        -54.606878,
+                        -25.537749
+                  ]
+            },
+            {
+                  "name": "Jhon Jesus",
+                  "text": "Acest centru religios oferă un loc pentru rugăciune creștină și întâlniri comunitare lângă râu.",
+                  "category": "religious",
+                  "coords": [
+                        -54.618842,
+                        -25.537041
+                  ]
+            },
+            {
+                  "name": "Evangelic",
+                  "text": "Această biserică evanghelică simplă servește comunitatea protestantă locală din regiunea de frontieră.",
+                  "category": "religious",
+                  "coords": [
+                        -54.535109,
+                        -25.536193
+                  ]
+            },
+            {
+                  "name": "Igreja Episcopal Anglicana do Brasil",
+                  "text": "O biserică anglicană a comunității episcopale situată în apropierea râului Paraná.",
+                  "category": "religious",
+                  "coords": [
+                        -54.570639,
+                        -25.523381
+                  ]
+            },
+            {
+                  "name": "testemunhas de jeová",
+                  "text": "O sală a Regatului pentru întâlnirile religioase ale Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -54.5475,
+                        -25.527887
+                  ]
+            },
+            {
+                  "name": "igreja evangélica",
+                  "text": "Un lăcaș de cult evanghelic local pentru comunitatea creștină de pe malul râului.",
+                  "category": "religious",
+                  "coords": [
+                        -54.546091,
+                        -25.528329
+                  ]
+            },
+            {
+                  "name": "Mercado da Paz",
+                  "text": "O piață locală unde se vând alimente proaspete și produse artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.533477,
+                        -25.534397
+                  ]
+            },
+            {
+                  "name": "Boa Constrictor",
+                  "text": "O atracție cu tematică sălbatică dedicată faunei locale din bazinul Paraná.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.589447,
+                        -25.532639
+                  ]
+            },
+            {
+                  "name": "Mesquita Omar Ibn Al-Khattab",
+                  "text": "O moschee impresionantă cu o cupolă albă și arhitectură islamică detaliată.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.578639,
+                        -25.52069
+                  ]
+            },
+            {
+                  "name": "Centro Espirita del Este \"Joanna de Angelis\"",
+                  "text": "Un centru spiritist care urmează învățăturile lui Joanna de Ângelis.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.608396,
+                        -25.525984
+                  ]
+            },
+            {
+                  "name": "Igreja Catolica Rosa Mistica",
+                  "text": "O biserică catolică dedicată Fecioarei Maria sub titulatura Rosa Mystica.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.563366,
+                        -25.541326
+                  ]
+            },
+            {
+                  "name": "Capela Santa Luzia",
+                  "text": "O mică chapelă catolică ridicată în onoarea Sfintei Lucia.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.563704,
+                        -25.530731
+                  ]
+            },
+            {
+                  "name": "Igreja Luterana Cristo Redentor",
+                  "text": "O biserică luterană a comunității Hristos Mântuitorul pentru slujbe religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.58169,
+                        -25.54027
+                  ]
+            },
+            {
+                  "name": "Igreja Presbiteriana do Brasil",
+                  "text": "O casă de cult presbiteriană pentru comunitatea protestantă din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.580513,
+                        -25.538267
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Ministério Sementes da Fé",
+                  "text": "Un centru misionar penticostal cunoscut sub numele de „Semințele Credinței”.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.58252,
+                        -25.547146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "A casa da piscina",
+                  "text": "Located near the riverbank, this house museum provides insight into local domestic architecture.",
+                  "category": "museum",
+                  "coords": [
+                        -54.558819,
+                        -25.541038
+                  ]
+            },
+            {
+                  "name": "Arts",
+                  "text": "This art gallery near the Paraná River exhibits contemporary works by regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        -54.609234,
+                        -25.543373
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Mauro Cespedes",
+                  "text": "This large municipal auditorium serves as a primary venue for performing arts in the Paraná region.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.614264,
+                        -25.525696
+                  ]
+            },
+            {
+                  "name": "Quixote Espaço Cultural",
+                  "text": "This cultural center by the Paraná combines a bookstore with spaces for artistic exchange.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.572946,
+                        -25.539193
+                  ]
+            },
+            {
+                  "name": "Casinha Laranja",
+                  "text": "This small, bright orange arts center hosts workshops and local exhibitions on the riverbank.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.573464,
+                        -25.54962
+                  ]
+            },
+            {
+                  "name": "Teatro Barracão",
+                  "text": "This community theater is housed in a simple shed-like building and supports local acting troupes.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.551211,
+                        -25.534993
+                  ]
+            },
+            {
+                  "name": "Religioso",
+                  "text": "This Christian place of worship is situated near the banks of the Paraná River.",
+                  "category": "religious",
+                  "coords": [
+                        -54.610025,
+                        -25.527928
+                  ]
+            },
+            {
+                  "name": "Ilê Axé Igbá Asenró",
+                  "text": "This sacred site serves the Afro-Brazilian Candomblé tradition in the border region.",
+                  "category": "religious",
+                  "coords": [
+                        -54.538471,
+                        -25.549819
+                  ]
+            },
+            {
+                  "name": "Nossa Sra Desatadora de nós",
+                  "text": "This religious shrine is dedicated to Mary, Undoer of Knots, inviting quiet devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -54.545322,
+                        -25.539812
+                  ]
+            },
+            {
+                  "name": "ile ogun Candomblé",
+                  "text": "This Candomblé house near the Paraná is dedicated to the deity Ogun.",
+                  "category": "religious",
+                  "coords": [
+                        -54.540064,
+                        -25.532119
+                  ]
+            },
+            {
+                  "name": "igreja católica",
+                  "text": "This Catholic church provides a place of prayer for residents along the Paraná banks.",
+                  "category": "religious",
+                  "coords": [
+                        -54.554055,
+                        -25.542332
+                  ]
+            },
+            {
+                  "name": "Macumba",
+                  "text": "This site serves the ritual practice of Afro-Brazilian traditions in the river region.",
+                  "category": "religious",
+                  "coords": [
+                        -54.560313,
+                        -25.535657
+                  ]
+            },
+            {
+                  "name": "Seicho no ie",
+                  "text": "This spiritual center is dedicated to the Japanese-origin Seicho-no-Ie movement.",
+                  "category": "religious",
+                  "coords": [
+                        -54.579121,
+                        -25.535482
+                  ]
+            },
+            {
+                  "name": "Pastoral da Mobilidade Humana",
+                  "text": "This religious institution by the Paraná is dedicated to supporting migrants and travelers.",
+                  "category": "religious",
+                  "coords": [
+                        -54.577113,
+                        -25.5359
+                  ]
+            },
+            {
+                  "name": "CEPAC",
+                  "text": "This pastoral center focuses on social community projects in the river border region.",
+                  "category": "religious",
+                  "coords": [
+                        -54.581315,
+                        -25.543058
+                  ]
+            },
+            {
+                  "name": "Mãe Baiana",
+                  "text": "This religious site is led by a traditional Afro-Brazilian priestess.",
+                  "category": "religious",
+                  "coords": [
+                        -54.580287,
+                        -25.54882
+                  ]
+            },
+            {
+                  "name": "Pastoral da Saúde",
+                  "text": "This church institution offers spiritual accompaniment in the field of health pastoral care.",
+                  "category": "religious",
+                  "coords": [
+                        -54.587199,
+                        -25.547154
+                  ]
+            },
+            {
+                  "name": "CEOM",
+                  "text": "This ecumenical center near the Paraná serves to coordinate missionary tasks.",
+                  "category": "religious",
+                  "coords": [
+                        -54.5875,
+                        -25.550792
+                  ]
+            },
+            {
+                  "name": "SDAC - Downtown Foz",
+                  "text": "This Seventh-day Adventist Protestant church is located in the city center of Foz.",
+                  "category": "religious",
+                  "coords": [
+                        -54.589132,
+                        -25.534077
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This modern temple of The Church of Jesus Christ of Latter-day Saints serves the Mormon community.",
+                  "category": "religious",
+                  "coords": [
+                        -54.603692,
+                        -25.533652
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Caacupe",
+                  "text": "This small chapel is dedicated to the Virgin of Caacupé, the patroness of Paraguay.",
+                  "category": "religious",
+                  "coords": [
+                        -54.601027,
+                        -25.533017
+                  ]
+            },
+            {
+                  "name": "Igreja católica ukraniana",
+                  "text": "This Ukrainian Greek Catholic church maintains the religious traditions of the local Eastern European community.",
+                  "category": "religious",
+                  "coords": [
+                        -54.555478,
+                        -25.504695
+                  ]
+            },
+            {
+                  "name": "Candomblé",
+                  "text": "This sacred site is dedicated to the practice of the Afro-Brazilian Candomblé religion.",
+                  "category": "religious",
+                  "coords": [
+                        -54.550356,
+                        -25.509541
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "This Christian chapel is dedicated to the Archangel Michael and is located near the border river.",
+                  "category": "religious",
+                  "coords": [
+                        -54.604776,
+                        -25.535127
+                  ]
+            },
+            {
+                  "name": "Iglesia generacion de la vida",
+                  "text": "This modern evangelical church focuses on contemporary Christian lifestyle.",
+                  "category": "religious",
+                  "coords": [
+                        -54.606878,
+                        -25.537749
+                  ]
+            },
+            {
+                  "name": "Jhon Jesus",
+                  "text": "This religious center provides a place for Christian prayer and community meetings by the river.",
+                  "category": "religious",
+                  "coords": [
+                        -54.618842,
+                        -25.537041
+                  ]
+            },
+            {
+                  "name": "Evangelic",
+                  "text": "This simple evangelical church serves the local Protestant community in the border region.",
+                  "category": "religious",
+                  "coords": [
+                        -54.535109,
+                        -25.536193
+                  ]
+            },
+            {
+                  "name": "Igreja Episcopal Anglicana do Brasil",
+                  "text": "An Anglican Episcopal church serving the local community near the Paraná River.",
+                  "category": "religious",
+                  "coords": [
+                        -54.570639,
+                        -25.523381
+                  ]
+            },
+            {
+                  "name": "testemunhas de jeová",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses used for religious gatherings in the border region.",
+                  "category": "religious",
+                  "coords": [
+                        -54.5475,
+                        -25.527887
+                  ]
+            },
+            {
+                  "name": "igreja evangélica",
+                  "text": "A local evangelical place of worship for the Christian community along the riverbank.",
+                  "category": "religious",
+                  "coords": [
+                        -54.546091,
+                        -25.528329
+                  ]
+            },
+            {
+                  "name": "Mercado da Paz",
+                  "text": "A local marketplace offering fresh food and artisanal goods in the heart of the community.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.533477,
+                        -25.534397
+                  ]
+            },
+            {
+                  "name": "Boa Constrictor",
+                  "text": "A wildlife-themed attraction dedicated to the local fauna of the Paraná River basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.589447,
+                        -25.532639
+                  ]
+            },
+            {
+                  "name": "Mesquita Omar Ibn Al-Khattab",
+                  "text": "An impressive mosque featuring a prominent white dome and intricate Islamic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.578639,
+                        -25.52069
+                  ]
+            },
+            {
+                  "name": "Centro Espirita del Este \"Joanna de Angelis\"",
+                  "text": "A spiritist center focused on the teachings and philosophy of Joanna de Ângelis.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.608396,
+                        -25.525984
+                  ]
+            },
+            {
+                  "name": "Igreja Catolica Rosa Mistica",
+                  "text": "A Catholic church dedicated to the Virgin Mary under the title of Rosa Mystica.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.563366,
+                        -25.541326
+                  ]
+            },
+            {
+                  "name": "Capela Santa Luzia",
+                  "text": "A small Catholic chapel built in honor of Saint Lucy for local devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.563704,
+                        -25.530731
+                  ]
+            },
+            {
+                  "name": "Igreja Luterana Cristo Redentor",
+                  "text": "A Lutheran church of the Cristo Redentor congregation serving the local area near the river.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.58169,
+                        -25.54027
+                  ]
+            },
+            {
+                  "name": "Igreja Presbiteriana do Brasil",
+                  "text": "A Presbyterian place of worship for the Protestant community in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.580513,
+                        -25.538267
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Ministério Sementes da Fé",
+                  "text": "A Pentecostal mission center known as the Seeds of Faith Ministry.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.58252,
+                        -25.547146
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PY-10",
     coords: [-54.5999, -25.5333],
@@ -97,7 +2923,88 @@ export const poiExtraParaguayNatureV2: POI[] = [
       fr: ["Son bassin couvre presque tout le centre de l'Amérique du Sud.", "Le nom signifie 'parent de la mer' en guaraní en raison de sa taille.", "La rivière transporte des quantités gigantesques de sédiments vers le Río de la Plata.", "Habitat du Surubí, l'un des plus grands poissons-chats du continent."],
     }, image: "/poi-images/py-rio-parana-nature-v2.webp"},
   {
-    id: "py-cerro-tres-kandu-nature-v2",
+    id: "py-cerro-tres-kandu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Pero",
+                  "text": "Mit 842 Metern ist dieser Gipfel der höchste Punkt Paraguays und bietet weite Ausblicke über die Cordillera del Ybytyrusu.",
+                  "category": "natural",
+                  "coords": [
+                        -56.140936,
+                        -25.895349
+                  ]
+            },
+            {
+                  "name": "Cima Cerro Amor",
+                  "text": "Ein malerischer Berggipfel im Ybytyrusu-Gebirge, der für seinen romantischen Namen und die weite Aussicht bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.13842,
+                        -25.865453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Pero",
+                  "text": "Ez a 842 méter magas csúcs Paraguay legmagasabb pontja, ahonnan belátható az egész Cordillera del Ybytyrusu.",
+                  "category": "natural",
+                  "coords": [
+                        -56.140936,
+                        -25.895349
+                  ]
+            },
+            {
+                  "name": "Cima Cerro Amor",
+                  "text": "Az Ybytyrusu-hegység egyik festői csúcsa, amely romantikus nevéről és a tájra nyíló kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.13842,
+                        -25.865453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Pero",
+                  "text": "La 842 de metri, acest vârf este cel mai înalt punct din Paraguay, oferind vederi vaste asupra Cordillerei del Ybytyrusu.",
+                  "category": "natural",
+                  "coords": [
+                        -56.140936,
+                        -25.895349
+                  ]
+            },
+            {
+                  "name": "Cima Cerro Amor",
+                  "text": "Un vârf montan pitoresc din lanțul Ybytyrusu, cunoscut pentru numele său romantic și vederile panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.13842,
+                        -25.865453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Pero",
+                  "text": "At 842 metres, this peak is the highest point in Paraguay, offering expansive views over the Cordillera del Ybytyrusu.",
+                  "category": "natural",
+                  "coords": [
+                        -56.140936,
+                        -25.895349
+                  ]
+            },
+            {
+                  "name": "Cima Cerro Amor",
+                  "text": "A scenic mountain summit in the Ybytyrusu range, known for its romantic name and panoramic vistas.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.13842,
+                        -25.865453
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-04",
     coords: [-56.1333, -25.9000],
@@ -144,7 +3051,268 @@ export const poiExtraParaguayNatureV2: POI[] = [
       fr: ["Altitude exacte de 842,37 mètres au-dessus du niveau de la mer.", "Ancien site de stations relais radio stratégiques de l'armée.", "Destination populaire pour les randonneurs avec des sentiers balisés et des plateformes d'observation.", "L'ascension dure entre 2 et 4 heures selon la condition physique."],
     }, image: "/poi-images/py-cerro-tres-kandu-nature-v2.webp"},
   {
-    id: "py-lago-ypacarai-nature-v2",
+    id: "py-lago-ypacarai-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Bella Vista",
+                  "text": "Der Mirador Bella Vista ist ein malerischer Aussichtspunkt, der einen weiten Panoramablick über die Naturlandschaft rund um den Ypacaraí-See bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -57.303085,
+                        -25.307485
+                  ]
+            },
+            {
+                  "name": "Paseo de ilustres",
+                  "text": "Der Paseo de ilustres ist eine Freiluftattraktion in der Nähe des Ypacaraí-Sees mit einem Spazierweg, der bedeutenden lokalen Persönlichkeiten gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.295334,
+                        -25.312866
+                  ]
+            },
+            {
+                  "name": "Don Papalo",
+                  "text": "Don Papalo ist eine lokale Touristenattraktion in der Region des Ypacaraí-Sees, die Freizeiteinrichtungen inmitten einer grünen Naturkulisse bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.24125,
+                        -25.301654
+                  ]
+            },
+            {
+                  "name": "Museo del Vino",
+                  "text": "Das Museo del Vino in der Region des Ypacaraí-Sees beleuchtet die Geschichte des Weinbaus der Region anhand lokaler Weinherstellungsausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -57.258421,
+                        -25.381586
+                  ]
+            },
+            {
+                  "name": "Club de aviación de Yvytu",
+                  "text": "Der Club de aviación de Yvytu ist eine auf das Fliegen ausgerichtete Attraktion in der Nähe des Ypacaraí-Sees, die als Zentrum für die lokale Sportluftfahrt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.254428,
+                        -25.356526
+                  ]
+            },
+            {
+                  "name": "CEAA-Zweigkirche (Lutheranismus) – San Bernardino",
+                  "text": "Die CEAA Branch Church in San Bernardino ist ein lokales Zentrum des lutherischen Gottesdienstes, das die protestantische Gemeinde in der Region des Ypacaraí-Sees willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.301515,
+                        -25.306836
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica Virgen",
+                  "text": "Die Iglesia Catolica Virgen ist eine traditionelle christliche Kirche, die der lokalen Gemeinde in der Nähe des Ypacaraí-Sees regelmäßige katholische Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.271983,
+                        -25.317473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Bella Vista",
+                  "text": "A Mirador Bella Vista egy festői kilátó, amely panorámás rálátást nyújt az Ypacaraí-tó körüli természeti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -57.303085,
+                        -25.307485
+                  ]
+            },
+            {
+                  "name": "Paseo de ilustres",
+                  "text": "A Paseo de ilustres egy szabadtéri látványosság az Ypacaraí-tó közelében, ahol egy sétány állít emléket a jeles helyi személyiségeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.295334,
+                        -25.312866
+                  ]
+            },
+            {
+                  "name": "Don Papalo",
+                  "text": "A Don Papalo egy helyi turisztikai látványosság az Ypacaraí-tó régiójában, amely rekreációs létesítményeket kínál zöld természeti környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.24125,
+                        -25.301654
+                  ]
+            },
+            {
+                  "name": "Museo del Vino",
+                  "text": "Az Ypacaraí-tó környékén található Museo del Vino borkészítési kiállításokon keresztül mutatja be a régió szőlészeti történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        -57.258421,
+                        -25.381586
+                  ]
+            },
+            {
+                  "name": "Club de aviación de Yvytu",
+                  "text": "A Club de aviación de Yvytu egy repülésre fókuszáló látványosság az Ypacaraí-tó közelében, amely a helyi sportrepülés központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.254428,
+                        -25.356526
+                  ]
+            },
+            {
+                  "name": "Iglesia Filial de la CEAA (luteranismo) - San Bernardino",
+                  "text": "A San Bernardinó-i CEAA Branch Church egy helyi evangélikus központ, amely az Ypacaraí-tó régiójának protestáns közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.301515,
+                        -25.306836
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica Virgen",
+                  "text": "Az Iglesia Catolica Virgen egy hagyományos keresztény templom, amely rendszeres katolikus miséket biztosít az Ypacaraí-tó melletti helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.271983,
+                        -25.317473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Bella Vista",
+                  "text": "Mirador Bella Vista este un punct de belvedere panoramic care oferă priveliști largi asupra peisajului natural din jurul lacului Ypacaraí.",
+                  "category": "natural",
+                  "coords": [
+                        -57.303085,
+                        -25.307485
+                  ]
+            },
+            {
+                  "name": "Paseo de ilustres",
+                  "text": "Paseo de ilustres este o atracție în aer liber lângă Lacul Ypacaraí, cu o alee pietonală dedicată figurilor locale marcante.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.295334,
+                        -25.312866
+                  ]
+            },
+            {
+                  "name": "Don Papalo",
+                  "text": "Don Papalo este o atracție turistică locală din regiunea Lacului Ypacaraí, oferind facilități de recreere în mijlocul unui cadru natural verde.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.24125,
+                        -25.301654
+                  ]
+            },
+            {
+                  "name": "Museo del Vino",
+                  "text": "Museo del Vino din zona Lacului Ypacaraí explorează istoria viticulturii din regiune prin expoziții despre producția locală de vin.",
+                  "category": "museum",
+                  "coords": [
+                        -57.258421,
+                        -25.381586
+                  ]
+            },
+            {
+                  "name": "Club de aviación de Yvytu",
+                  "text": "Club de aviación de Yvytu este o atracție axată pe zbor lângă Lacul Ypacaraí, servind drept centru pentru aviația recreativă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.254428,
+                        -25.356526
+                  ]
+            },
+            {
+                  "name": "Iglesia Filial de la CEAA (luteranismo) - San Bernardino",
+                  "text": "CEAA Branch Church din San Bernardino este un centru local de cult luteran, care primește comunitatea protestantă din regiunea Lacului Ypacaraí.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.301515,
+                        -25.306836
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica Virgen",
+                  "text": "Iglesia Catolica Virgen este o biserică creștină tradițională care oferă servicii catolice regulate comunității locale din apropierea Lacului Ypacaraí.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.271983,
+                        -25.317473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Bella Vista",
+                  "text": "Mirador Bella Vista is a scenic viewpoint offering panoramic vistas over the natural landscape around Lake Ypacaraí.",
+                  "category": "natural",
+                  "coords": [
+                        -57.303085,
+                        -25.307485
+                  ]
+            },
+            {
+                  "name": "Paseo de ilustres",
+                  "text": "The Paseo de ilustres is an outdoor attraction near Lake Ypacaraí, featuring a walking path dedicated to notable local figures.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.295334,
+                        -25.312866
+                  ]
+            },
+            {
+                  "name": "Don Papalo",
+                  "text": "Don Papalo is a local tourist attraction in the Lake Ypacaraí region, offering recreational facilities amidst a natural green setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.24125,
+                        -25.301654
+                  ]
+            },
+            {
+                  "name": "Museo del Vino",
+                  "text": "The Museo del Vino in the Lake Ypacaraí area explores the region's viticulture history through local wine-making exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -57.258421,
+                        -25.381586
+                  ]
+            },
+            {
+                  "name": "Club de aviación de Yvytu",
+                  "text": "The Club de aviación de Yvytu is a flight-focused attraction near Lake Ypacaraí, serving as a hub for local recreational aviation.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.254428,
+                        -25.356526
+                  ]
+            },
+            {
+                  "name": "CEAA Branch Church (Lutheranism) – San Bernardino",
+                  "text": "The CEAA Branch Church in San Bernardino is a local center of Lutheran worship, welcoming the Protestant community in the Lake Ypacaraí region.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.301515,
+                        -25.306836
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica Virgen",
+                  "text": "The Iglesia Catolica Virgen is a traditional Christian church providing regular Catholic services to the local community near Lake Ypacaraí.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.271983,
+                        -25.317473
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "PY-11",
     coords: [-57.3000, -25.3000],
@@ -191,7 +3359,736 @@ export const poiExtraParaguayNatureV2: POI[] = [
       fr: ["La profondeur moyenne n'est que d'environ 3 mètres.", "Le nom signifie « lac qui pousse au bord » en guarani.", "Habitat important pour les oiseaux d'eau tels que la cigogne jabiru.", "Centre de la vie sociale estivale au Paraguay."],
     }, image: "/poi-images/py-lago-ypacarai-nature-v2.webp"},
   {
-    id: "py-saltos-del-monday-nature-v2",
+    id: "py-saltos-del-monday-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saltos del Monday",
+                  "text": "Spektakuläre, etwa 40 Meter hohe Wasserfälle des Monday-Flusses inmitten üppiger Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.63237,
+                        -25.562751
+                  ]
+            },
+            {
+                  "name": "Las Maravillas",
+                  "text": "Ein Erholungsort am Flussufer mit Sandstränden und Freizeitmöglichkeiten im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.617497,
+                        -25.571
+                  ]
+            },
+            {
+                  "name": "Cascada en Nativa",
+                  "text": "Ein natürlicher Wasserfall, der als Ausflugsziel für Badegäste und Naturfreunde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.587914,
+                        -25.64206
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Monday",
+                  "text": "Ein Naturschutzgebiet, das den Atlantischen Regenwald rund um die Monday-Wasserfälle schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -54.63289,
+                        -25.561655
+                  ]
+            },
+            {
+                  "name": "Santuario San Juan Pablo II",
+                  "text": "Ein modernes christliches Heiligtum, das Papst Johannes Paul II. gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.582369,
+                        -25.628616
+                  ]
+            },
+            {
+                  "name": "Ermita Virgen de Los Cerros",
+                  "text": "Eine kleine Einsiedelei auf einem Hügel, die der Jungfrau der Berge gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -54.584751,
+                        -25.626803
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Caacupe",
+                  "text": "Eine Pfarrkirche zu Ehren der Jungfrau von Caacupé, der Schutzpatronin Paraguays.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.65412,
+                        -25.537344
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein Versammlungshaus der Kirche Jesu Christi der Heiligen der Letzten Tage für lokale Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.614004,
+                        -25.554327
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Ein Tempel der Universalkirche des Königreichs Gottes mit markanter Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.612196,
+                        -25.563922
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa",
+                  "text": "Eine einfache Kapelle im Stadtviertel, die der heiligen Rosa von Lima gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.60578,
+                        -25.571104
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Caacupe",
+                  "text": "Ein kleines katholisches Gotteshaus, das der Marienverehrung der Jungfrau von Caacupé dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.618567,
+                        -25.571828
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco",
+                  "text": "Eine bescheidene Kapelle, die dem heiligen Franziskus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.602046,
+                        -25.573546
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco de Asis",
+                  "text": "Eine dem heiligen Franz von Assisi geweihte Kapelle in der Nähe der Monday-Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.602665,
+                        -25.572303
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Renovada Sioón",
+                  "text": "Eine baptistische Kirche der Sioón-Gemeinde mit Schwerpunkt auf geistlicher Erneuerung.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.614189,
+                        -25.55829
+                  ]
+            },
+            {
+                  "name": "Iglesia Maria Reina de la Paz",
+                  "text": "Eine katholische Kirche, die Maria als Königin des Friedens gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -54.711339,
+                        -25.5209
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose",
+                  "text": "Eine kleine Kapelle, die dem heiligen Josef gewidmet ist und der Nachbarschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.691007,
+                        -25.517902
+                  ]
+            },
+            {
+                  "name": "Comunidad Catolica San Antonio de Padua",
+                  "text": "Ein katholisches Gemeindezentrum, das nach dem heiligen Antonius von Padua benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -54.685115,
+                        -25.529799
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "Eine Kapelle zu Ehren des Erzengels Michael, die für lokale religiöse Feste genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.688009,
+                        -25.53305
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Librada",
+                  "text": "Eine Kapelle der heiligen Librada, einer in der Region sehr verehrten Heiligen.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.683477,
+                        -25.566793
+                  ]
+            },
+            {
+                  "name": "Siervos de Cristo",
+                  "text": "Eine religiöse Einrichtung der Diener Christi für Gebet und Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.666417,
+                        -25.57841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saltos del Monday",
+                  "text": "A Monday-folyó látványos, mintegy 40 méter magas vízesései a dús növényzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.63237,
+                        -25.562751
+                  ]
+            },
+            {
+                  "name": "Las Maravillas",
+                  "text": "Folyóparti üdülőhely homokos strandokkal és szabadtéri kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.617497,
+                        -25.571
+                  ]
+            },
+            {
+                  "name": "Cascada en Nativa",
+                  "text": "Természetes vízesés, amely népszerű célpont a fürdőzők és természetjárók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.587914,
+                        -25.64206
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Monday",
+                  "text": "A Monday-vízesés körüli atlanti esőerdőt védő természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -54.63289,
+                        -25.561655
+                  ]
+            },
+            {
+                  "name": "Santuario San Juan Pablo II",
+                  "text": "Szent II. János Pál pápának szentelt modern keresztény kegyhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.582369,
+                        -25.628616
+                  ]
+            },
+            {
+                  "name": "Ermita Virgen de Los Cerros",
+                  "text": "A Hegyek Szűzének szentelt apró dombtetői remetelak és kegyhely.",
+                  "category": "religious",
+                  "coords": [
+                        -54.584751,
+                        -25.626803
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Caacupe",
+                  "text": "Paraguay védőszentje, a Caacupéi Szűz tiszteletére szentelt plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.65412,
+                        -25.537344
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának helyi gyülekezeti háza.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.614004,
+                        -25.554327
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Az Isten Országa Egyetemes Egyházának jellegzetes építészetű temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.612196,
+                        -25.563922
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa",
+                  "text": "Egyszerű városnegyedi kápolna, amelyet Limai Szent Rózsa tiszteletére emeltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.60578,
+                        -25.571104
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Caacupe",
+                  "text": "A Caacupéi Szűz Mária-tiszteletnek szentelt kisméretű katolikus imaház.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.618567,
+                        -25.571828
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco",
+                  "text": "Assisi Szent Ferenc tiszteletére szentelt szerény katolikus kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.602046,
+                        -25.573546
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco de Asis",
+                  "text": "Assisi Szent Ferencnek szentelt kápolna a Monday-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.602665,
+                        -25.572303
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Renovada Sioón",
+                  "text": "A hitélet megújulására összpontosító Sioón baptista gyülekezet temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.614189,
+                        -25.55829
+                  ]
+            },
+            {
+                  "name": "Iglesia Maria Reina de la Paz",
+                  "text": "Szűz Máriának, a Béke Királynőjének szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -54.711339,
+                        -25.5209
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose",
+                  "text": "Szent Józsefnek szentelt kiskápolna a helyi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.691007,
+                        -25.517902
+                  ]
+            },
+            {
+                  "name": "Comunidad Catolica San Antonio de Padua",
+                  "text": "Páduai Szent Antalról elnevezett katolikus közösségi ház és imaház.",
+                  "category": "religious",
+                  "coords": [
+                        -54.685115,
+                        -25.529799
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "Szent Mihály arkangyal tiszteletére szentelt kápolna, helyi vallási ünnepek helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.688009,
+                        -25.53305
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Librada",
+                  "text": "Szent Librada kápolnája, aki a régió egyik legnépszerűbb szentje.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.683477,
+                        -25.566793
+                  ]
+            },
+            {
+                  "name": "Siervos de Cristo",
+                  "text": "Krisztus Szolgái keresztény közösségi és imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.666417,
+                        -25.57841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saltos del Monday",
+                  "text": "Cascade spectaculoase de aproximativ 40 de metri înălțime pe râul Monday.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.63237,
+                        -25.562751
+                  ]
+            },
+            {
+                  "name": "Las Maravillas",
+                  "text": "O stațiune de agrement pe malul râului cu plaje și facilități pentru activități în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.617497,
+                        -25.571
+                  ]
+            },
+            {
+                  "name": "Cascada en Nativa",
+                  "text": "O cascadă naturală ce servește ca destinație pentru scăldat și iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.587914,
+                        -25.64206
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Monday",
+                  "text": "O rezervație naturală care protejează pădurea atlantică din jurul cascadelor Monday.",
+                  "category": "natural",
+                  "coords": [
+                        -54.63289,
+                        -25.561655
+                  ]
+            },
+            {
+                  "name": "Santuario San Juan Pablo II",
+                  "text": "Un sanctuar creștin modern dedicat Sfântului Papă Ioan Paul al II-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.582369,
+                        -25.628616
+                  ]
+            },
+            {
+                  "name": "Ermita Virgen de Los Cerros",
+                  "text": "O mică ermită situată pe deal, dedicată Fecioarei de Los Cerros.",
+                  "category": "religious",
+                  "coords": [
+                        -54.584751,
+                        -25.626803
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Caacupe",
+                  "text": "O biserică parohială închinată Fecioarei de Caacupé, patroana Paraguayului.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.65412,
+                        -25.537344
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.614004,
+                        -25.554327
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Un templu al Bisericii Universale a Împărăției lui Dumnezeu cu o arhitectură distinctă.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.612196,
+                        -25.563922
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa",
+                  "text": "O capelă simplă de cartier dedicată Sfintei Rosa de Lima.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.60578,
+                        -25.571104
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Caacupe",
+                  "text": "Un mic lăcaș de cult catolic dedicat venerării Fecioarei de Caacupé.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.618567,
+                        -25.571828
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco",
+                  "text": "O capelă modestă dedicată Sfântului Francisc pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.602046,
+                        -25.573546
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco de Asis",
+                  "text": "O capelă dedicată Sfântului Francisc de Assisi în apropierea cascadelor Monday.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.602665,
+                        -25.572303
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Renovada Sioón",
+                  "text": "O biserică baptistă a comunității Sioón, axată pe reînnoirea spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.614189,
+                        -25.55829
+                  ]
+            },
+            {
+                  "name": "Iglesia Maria Reina de la Paz",
+                  "text": "O biserică catolică dedicată Sfintei Maria sub numele de Regina Păcii.",
+                  "category": "religious",
+                  "coords": [
+                        -54.711339,
+                        -25.5209
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose",
+                  "text": "O mică capelă dedicată Sfântului Iosif, deservind cartierul local.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.691007,
+                        -25.517902
+                  ]
+            },
+            {
+                  "name": "Comunidad Catolica San Antonio de Padua",
+                  "text": "Un spațiu comunitar catolic numit după Sfântul Anton de Padova.",
+                  "category": "religious",
+                  "coords": [
+                        -54.685115,
+                        -25.529799
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "O capelă în cinstea Arhanghelului Mihail, folosită pentru sărbători religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.688009,
+                        -25.53305
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Librada",
+                  "text": "Capela Sfintei Librada, o figură religioasă foarte venerată în această regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.683477,
+                        -25.566793
+                  ]
+            },
+            {
+                  "name": "Siervos de Cristo",
+                  "text": "Un lăcaș de cult al comunității Slujitorii lui Hristos pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.666417,
+                        -25.57841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saltos del Monday",
+                  "text": "Spectacular 40-meter high waterfalls on the Monday River surrounded by lush vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.63237,
+                        -25.562751
+                  ]
+            },
+            {
+                  "name": "Las Maravillas",
+                  "text": "A riverside beach resort offering sandy shores and outdoor recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.617497,
+                        -25.571
+                  ]
+            },
+            {
+                  "name": "Nativa's WaterFall",
+                  "text": "A natural waterfall attraction popular for swimming and nature excursions.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.587914,
+                        -25.64206
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Monday",
+                  "text": "A municipal nature reserve protecting the Atlantic Forest surrounding the Monday falls.",
+                  "category": "natural",
+                  "coords": [
+                        -54.63289,
+                        -25.561655
+                  ]
+            },
+            {
+                  "name": "Santuario San Juan Pablo II",
+                  "text": "A modern Christian sanctuary dedicated to Saint Pope John Paul II.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.582369,
+                        -25.628616
+                  ]
+            },
+            {
+                  "name": "Ermita Virgen de Los Cerros",
+                  "text": "A small hilltop hermitage and shrine dedicated to the Virgin of the Hills.",
+                  "category": "religious",
+                  "coords": [
+                        -54.584751,
+                        -25.626803
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Caacupe",
+                  "text": "A parish church dedicated to the Virgin of Caacupé, the patroness of Paraguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.65412,
+                        -25.537344
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A meetinghouse of the Church of Jesus Christ of Latter-day Saints for local worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.614004,
+                        -25.554327
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "A temple of the Universal Church of the Kingdom of God with its characteristic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.612196,
+                        -25.563922
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Rosa",
+                  "text": "A simple neighborhood chapel dedicated to Saint Rose of Lima.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.60578,
+                        -25.571104
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de Caacupe",
+                  "text": "A small Catholic chapel dedicated to the devotions of the Virgin of Caacupé.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.618567,
+                        -25.571828
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco",
+                  "text": "A modest chapel dedicated to Saint Francis for local religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.602046,
+                        -25.573546
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco de Asis",
+                  "text": "A chapel consecrated to Saint Francis of Assisi located near the Monday falls.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.602665,
+                        -25.572303
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Renovada Sioón",
+                  "text": "A Baptist church of the Sioón congregation with a focus on spiritual renewal.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.614189,
+                        -25.55829
+                  ]
+            },
+            {
+                  "name": "Iglesia Maria Reina de la Paz",
+                  "text": "A Catholic church dedicated to Mary, Queen of Peace.",
+                  "category": "religious",
+                  "coords": [
+                        -54.711339,
+                        -25.5209
+                  ]
+            },
+            {
+                  "name": "Capilla San Jose",
+                  "text": "A small chapel dedicated to Saint Joseph serving the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.691007,
+                        -25.517902
+                  ]
+            },
+            {
+                  "name": "Comunidad Catolica San Antonio de Padua",
+                  "text": "A Catholic community space and place of worship named after Saint Anthony of Padua.",
+                  "category": "religious",
+                  "coords": [
+                        -54.685115,
+                        -25.529799
+                  ]
+            },
+            {
+                  "name": "Capilla San Miguel",
+                  "text": "A chapel in honor of Saint Michael the Archangel, used for local religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.688009,
+                        -25.53305
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Librada",
+                  "text": "A chapel dedicated to Santa Librada, a saint widely venerated in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.683477,
+                        -25.566793
+                  ]
+            },
+            {
+                  "name": "Siervos de Cristo",
+                  "text": "A religious site of the Servants of Christ used for prayer and community meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.666417,
+                        -25.57841
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "PY-10",
     coords: [-54.6333, -25.5667],
@@ -238,7 +4135,52 @@ export const poiExtraParaguayNatureV2: POI[] = [
       fr: ["Les chutes se composent de trois sauts principaux et de plusieurs cascades mineures.", "Le nom Monday vient du mot guaraní signifiant 'voleur d'eau'.", "Elles comptent parmi les sites géologiques les plus importants du Paraguay.", "Lieu de tournage prisé pour les productions cinématographiques nationales et internationales."],
     }, image: "/poi-images/py-saltos-del-monday-nature-v2.webp"},
   {
-    id: "py-reserva-mbaracyu-nature-v2",
+    id: "py-reserva-mbaracyu-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Area de la Biosfera de Transicion del Bosque Mbaracayu",
+                  "text": "Ein UNESCO-Biosphärenreservat, das einen der letzten Reste des atlantischen Regenwaldes in Paraguay schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -55.390662,
+                        -24.181612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Area de la Biosfera de Transicion del Bosque Mbaracayu",
+                  "text": "UNESCO bioszféra-rezervátum, amely Paraguay atlanti-parti esőerdejének egyik utolsó maradványát védi.",
+                  "category": "natural",
+                  "coords": [
+                        -55.390662,
+                        -24.181612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Area de la Biosfera de Transicion del Bosque Mbaracayu",
+                  "text": "O rezervație a biosferei UNESCO care protejează una dintre ultimele rămășițe ale pădurii tropicale atlantice din Paraguay.",
+                  "category": "natural",
+                  "coords": [
+                        -55.390662,
+                        -24.181612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Area de la Biosfera de Transicion del Bosque Mbaracayu",
+                  "text": "A UNESCO biosphere reserve protecting one of the last remnants of the Atlantic forest in Paraguay.",
+                  "category": "natural",
+                  "coords": [
+                        -55.390662,
+                        -24.181612
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "PY-14",
     coords: [-55.3333, -24.1333],
@@ -286,7 +4228,196 @@ export const poiExtraParaguayNatureV2: POI[] = [
     },
   },
   {
-    id: "py-parque-cerro-cora-nature-v2",
+    id: "py-parque-cerro-cora-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sepultura del Mariscal y Panchito",
+                  "text": "Die Grabstätte von Marschall Francisco Solano López und seinem Sohn im Nationalpark Cerro Corá.",
+                  "category": "historical",
+                  "coords": [
+                        -56.02355,
+                        -22.632609
+                  ]
+            },
+            {
+                  "name": "Guerra de la Triple Alianza",
+                  "text": "Ein Denkmal im Nationalpark Cerro Corá, das an die blutigen Kämpfe des Tripel-Allianz-Krieges erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -56.020525,
+                        -22.6386
+                  ]
+            },
+            {
+                  "name": "Mariscal Lopez",
+                  "text": "Ein Ehrenmal für Marschall López an der Stelle seines Todes im heutigen paraguayischen Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -56.019706,
+                        -22.644023
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Muralla",
+                  "text": "Ein Aussichtspunkt auf den felsigen Klippen des Cerro Muralla mit Panorama über den Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -55.983078,
+                        -22.661062
+                  ]
+            },
+            {
+                  "name": "Granja selva de Rosa",
+                  "text": "Ein Aussichtspunkt im Nationalpark Cerro Corá, der den Blick über die umliegenden Wald- und Farmgebiete freigibt.",
+                  "category": "natural",
+                  "coords": [
+                        -55.949834,
+                        -22.663492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sepultura del Mariscal y Panchito",
+                  "text": "Francisco Solano López marsall és fia nyughelye a Cerro Corá Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -56.02355,
+                        -22.632609
+                  ]
+            },
+            {
+                  "name": "Guerra de la Triple Alianza",
+                  "text": "Emlékmű a Cerro Corá Nemzeti Parkban, amely a hármas szövetség háborújának véres harcaira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -56.020525,
+                        -22.6386
+                  ]
+            },
+            {
+                  "name": "Mariscal Lopez",
+                  "text": "López marsall emlékműve halálának helyszínén, a mai paraguayi nemzeti park területén.",
+                  "category": "historical",
+                  "coords": [
+                        -56.019706,
+                        -22.644023
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Muralla",
+                  "text": "Kilátópont a Cerro Muralla sziklás szirtjein, panorámás kilátással a nemzeti parkra.",
+                  "category": "natural",
+                  "coords": [
+                        -55.983078,
+                        -22.661062
+                  ]
+            },
+            {
+                  "name": "Granja selva de Rosa",
+                  "text": "Kilátóhely a Cerro Corá Nemzeti Parkban, ahonnan rálátás nyílik a környező erdőkre és tanyákra.",
+                  "category": "natural",
+                  "coords": [
+                        -55.949834,
+                        -22.663492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sepultura del Mariscal y Panchito",
+                  "text": "Locul de mormânt al mareșalului Francisco Solano López și al fiului său în Parcul Național Cerro Corá.",
+                  "category": "historical",
+                  "coords": [
+                        -56.02355,
+                        -22.632609
+                  ]
+            },
+            {
+                  "name": "Guerra de la Triple Alianza",
+                  "text": "Un monument în Parcul Național Cerro Corá care comemorează luptele sângeroase din Războiul Triplei Alianțe.",
+                  "category": "historical",
+                  "coords": [
+                        -56.020525,
+                        -22.6386
+                  ]
+            },
+            {
+                  "name": "Mariscal Lopez",
+                  "text": "Un monument în cinstea mareșalului López pe locul morții sale, în actualul parc național paraguayan.",
+                  "category": "historical",
+                  "coords": [
+                        -56.019706,
+                        -22.644023
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Muralla",
+                  "text": "Un punct de observație pe stâncile de la Cerro Muralla, oferind o panoramă asupra parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        -55.983078,
+                        -22.661062
+                  ]
+            },
+            {
+                  "name": "Granja selva de Rosa",
+                  "text": "Un punct de belvedere în Parcul Național Cerro Corá, oferind vedere peste pădurile și fermele din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -55.949834,
+                        -22.663492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sepultura del Mariscal y Panchito",
+                  "text": "The burial site of Marshal Francisco Solano López and his son in Cerro Corá National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -56.02355,
+                        -22.632609
+                  ]
+            },
+            {
+                  "name": "Guerra de la Triple Alianza",
+                  "text": "A monument in Cerro Corá National Park commemorating the bloody battles of the Triple Alliance War.",
+                  "category": "historical",
+                  "coords": [
+                        -56.020525,
+                        -22.6386
+                  ]
+            },
+            {
+                  "name": "Mariscal Lopez",
+                  "text": "A memorial to Marshal López at the site of his death in what is now a Paraguayan national park.",
+                  "category": "historical",
+                  "coords": [
+                        -56.019706,
+                        -22.644023
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Muralla",
+                  "text": "A viewpoint on the rocky cliffs of Cerro Muralla, offering a panorama over the national park.",
+                  "category": "natural",
+                  "coords": [
+                        -55.983078,
+                        -22.661062
+                  ]
+            },
+            {
+                  "name": "Granja selva de Rosa",
+                  "text": "A lookout point in Cerro Corá National Park overlooking the surrounding forest and farm areas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.949834,
+                        -22.663492
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-13",
     coords: [-56.0333, -22.6500],
@@ -521,7 +4652,160 @@ export const poiExtraParaguayNatureV2: POI[] = [
       fr: ["Abrite des arbres centenaires comme le Palo Santo et le Quebracho.", "Le parc porte le nom des soldats qui ont défendu le Paraguay pendant la guerre du Chaco.", "Possède des formations géologiques uniques au monde.", "Le climat est caractérisé par des périodes de sécheresse extrême et des pluies torrentielles soudaines."],
     }, image: "/poi-images/py-parque-defensores-chaco-nature-v2.webp"},
   {
-    id: "py-cerro-acahay-nature-v2",
+    id: "py-cerro-acahay-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parador Cerro Acahay",
+                  "text": "Ein beliebter Rastplatz und eine Attraktion am Fuße des beeindruckenden Cerro Acahay.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.160776,
+                        -25.883326
+                  ]
+            },
+            {
+                  "name": "Cerro Acahay",
+                  "text": "Ein majestätischer Hügel und ein markantes Naturdenkmal, das sich durch seine steilen Hänge und üppige Vegetation auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.156221,
+                        -25.885724
+                  ]
+            },
+            {
+                  "name": "mirador",
+                  "text": "Ein hochgelegener Aussichtspunkt, der weite Ausblicke auf die Region Cerro Acahay bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -57.117475,
+                        -25.913085
+                  ]
+            },
+            {
+                  "name": "Cima Cerro Acahay",
+                  "text": "Eine Andachtsstätte auf dem Gipfel des Cerro Acahay, die einen spirituellen Rückzugsort mit Panoramablick bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -57.153618,
+                        -25.885136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parador Cerro Acahay",
+                  "text": "Népszerű pihenőhely és látványosság a lenyűgöző Cerro Acahay hegy lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.160776,
+                        -25.883326
+                  ]
+            },
+            {
+                  "name": "Cerro Acahay",
+                  "text": "Fenséges domb és kiemelkedő természeti látványosság, amelyet meredek lejtők és buja növényzet jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.156221,
+                        -25.885724
+                  ]
+            },
+            {
+                  "name": "mirador",
+                  "text": "Magasan fekvő kilátópont, ahonnan szélesvásznú kilátás nyílik a Cerro Acahay régióra.",
+                  "category": "natural",
+                  "coords": [
+                        -57.117475,
+                        -25.913085
+                  ]
+            },
+            {
+                  "name": "Cima Cerro Acahay",
+                  "text": "Istentiszteleti hely a Cerro Acahay legtetején, amely spirituális elvonulást és panorámás kilátást biztosít.",
+                  "category": "religious",
+                  "coords": [
+                        -57.153618,
+                        -25.885136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parador Cerro Acahay",
+                  "text": "Un popas popular și punct de atracție situat la baza impresionantului Cerro Acahay.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.160776,
+                        -25.883326
+                  ]
+            },
+            {
+                  "name": "Cerro Acahay",
+                  "text": "Un deal maiestuos și o atracție naturală proeminentă, caracterizat prin pantele sale abrupte și vegetația luxuriantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.156221,
+                        -25.885724
+                  ]
+            },
+            {
+                  "name": "mirador",
+                  "text": "Un punct de observație la mare altitudine care oferă vederi extinse asupra regiunii Cerro Acahay.",
+                  "category": "natural",
+                  "coords": [
+                        -57.117475,
+                        -25.913085
+                  ]
+            },
+            {
+                  "name": "Cima Cerro Acahay",
+                  "text": "Un lăcaș de cult situat chiar în vârful Cerro Acahay, oferind un refugiu spiritual cu vedere panoramică.",
+                  "category": "religious",
+                  "coords": [
+                        -57.153618,
+                        -25.885136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parador Cerro Acahay",
+                  "text": "A popular resting stop and attraction point situated at the base of the impressive Cerro Acahay.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.160776,
+                        -25.883326
+                  ]
+            },
+            {
+                  "name": "Cerro Acahay",
+                  "text": "A majestic hill and prominent natural attraction characterized by its steep slopes and lush vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.156221,
+                        -25.885724
+                  ]
+            },
+            {
+                  "name": "mirador",
+                  "text": "A high-altitude lookout point offering expansive views of the Cerro Acahay region.",
+                  "category": "natural",
+                  "coords": [
+                        -57.117475,
+                        -25.913085
+                  ]
+            },
+            {
+                  "name": "Cima Cerro Acahay",
+                  "text": "A place of worship situated at the very summit of Cerro Acahay, providing a spiritual retreat with a panoramic view.",
+                  "category": "religious",
+                  "coords": [
+                        -57.153618,
+                        -25.885136
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-09",
     coords: [-57.1500, -25.8833],
@@ -850,7 +5134,232 @@ export const poiExtraParaguayNatureV2: POI[] = [
       fr: ["Connu pour sa richesse en poissons, notamment pour le populaire Dorado.", "La rivière sert de corridor naturel pour la faune entre l'Amambay et le fleuve Paraguay.", "Pendant la saison sèche, des bancs de sable spectaculaires se forment, invitant à la détente.", "Facteur important pour le développement de l'élevage et de l'agriculture dans le nord."],
     }, image: "/poi-images/py-rio-aquidaban-nature-v2.webp"},
   {
-    id: "py-cerro-yaguaron-nature-v2",
+    id: "py-cerro-yaguaron-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baroque ecclesia",
+                  "text": "Diese gut erhaltene Barockkirche in der Nähe des Cerro Yaguarón ist berühmt für ihre spektakulären Holzaltäre und ihre koloniale religiöse Kunst.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.28457,
+                        -25.561688
+                  ]
+            },
+            {
+                  "name": "Museo del Dr. Francia",
+                  "text": "Das Museo del Dr. Francia ist in einem Kolonialgebäude in Yaguarón untergebracht und bewahrt das historische Erbe von Paraguays erstem Diktator.",
+                  "category": "museum",
+                  "coords": [
+                        -57.283136,
+                        -25.558859
+                  ]
+            },
+            {
+                  "name": "Paseo de Los Mitos",
+                  "text": "Der Paseo de Los Mitos ist ein Wanderweg im Freien in Yaguarón, der mit künstlerischen Darstellungen traditioneller mythologischer Kreaturen der Guaraní geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.290959,
+                        -25.564731
+                  ]
+            },
+            {
+                  "name": "museo Siete Miteos - Yaguaron",
+                  "text": "Das Museo Siete Mitos in Yaguarón bietet spannende Ausstellungen, die ganz den sieben legendären Monstern der Guaraní-Folklore gewidmet sind.",
+                  "category": "museum",
+                  "coords": [
+                        -57.293309,
+                        -25.568126
+                  ]
+            },
+            {
+                  "name": "Cerro Yaguarón",
+                  "text": "Der Cerro Yaguarón ist ein markanter lokaler Hügel, der steile Wanderwege und einen weiten Panoramablick auf die umliegende paraguayische Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -57.295056,
+                        -25.569792
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage bietet ein modernes Gottesdienst- und Gemeindezentrum für Mitglieder in Yaguarón.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.291066,
+                        -25.559849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baroque ecclesia",
+                  "text": "A Cerro Yaguarón közelében található, jó állapotban fennmaradt barokk templom látványos faoltárairól és gyarmati vallási művészetéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.28457,
+                        -25.561688
+                  ]
+            },
+            {
+                  "name": "Museo del Dr. Francia",
+                  "text": "A Museo del Dr. Francia egy yaguaróni gyarmati épületben kapott helyet, amely Paraguay első diktátorának történelmi örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -57.283136,
+                        -25.558859
+                  ]
+            },
+            {
+                  "name": "Paseo de Los Mitos",
+                  "text": "A Paseo de Los Mitos egy szabadtéri sétaút Yaguarónban, amelyet a hagyományos guaraní mitológiai lények művészi ábrázolásai díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.290959,
+                        -25.564731
+                  ]
+            },
+            {
+                  "name": "museo Siete Miteos - Yaguaron",
+                  "text": "A yaguaróni Museo Siete Mitos a guaraní folklór hét legendás szörnyetegének szentelt izgalmas kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -57.293309,
+                        -25.568126
+                  ]
+            },
+            {
+                  "name": "Cerro Yaguarón",
+                  "text": "A Cerro Yaguarón egy kiemelkedő helyi domb, amely meredek túraútvonalakat és lenyűgöző panorámát kínál a környező paraguayi vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -57.295056,
+                        -25.569792
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza ezen gyülekezeti háza modern ima- és közösségi központot biztosít a tagok számára Yaguarónban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.291066,
+                        -25.559849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baroque ecclesia",
+                  "text": "Această biserică în stil baroc, bine conservată, de lângă Cerro Yaguarón este renumită pentru altarele sale spectaculoase din lemn și arta religioasă colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.28457,
+                        -25.561688
+                  ]
+            },
+            {
+                  "name": "Museo del Dr. Francia",
+                  "text": "Museo del Dr. Francia este găzduit într-o clădire colonială din Yaguarón, păstrând moștenirea istorică a primului dictator al Paraguayului.",
+                  "category": "museum",
+                  "coords": [
+                        -57.283136,
+                        -25.558859
+                  ]
+            },
+            {
+                  "name": "Paseo de Los Mitos",
+                  "text": "Paseo de Los Mitos este un traseu de plimbare în aer liber din Yaguarón, împodobit cu reprezentări artistice ale creaturilor mitologice tradiționale Guaraní.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.290959,
+                        -25.564731
+                  ]
+            },
+            {
+                  "name": "museo Siete Miteos - Yaguaron",
+                  "text": "Museo Siete Mitos din Yaguarón prezintă expoziții captivante dedicate în întregime celor șapte monștri legendari ai folclorului Guaraní.",
+                  "category": "museum",
+                  "coords": [
+                        -57.293309,
+                        -25.568126
+                  ]
+            },
+            {
+                  "name": "Cerro Yaguarón",
+                  "text": "Cerro Yaguarón este un deal local proeminent, oferind trasee abrupte de drumeții și vederi panoramice ample asupra peisajului rural paraguayan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -57.295056,
+                        -25.569792
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă oferă un centru modern de cult și comunitar pentru membrii din Yaguarón.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.291066,
+                        -25.559849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baroque church",
+                  "text": "This well-preserved Baroque church near Cerro Yaguarón is renowned for its spectacular wooden altars and colonial religious art.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.28457,
+                        -25.561688
+                  ]
+            },
+            {
+                  "name": "Museo del Dr. Francia",
+                  "text": "The Museo del Dr. Francia is housed in a colonial building in Yaguarón, preserving the historical legacy of Paraguay's first dictator.",
+                  "category": "museum",
+                  "coords": [
+                        -57.283136,
+                        -25.558859
+                  ]
+            },
+            {
+                  "name": "Paseo de Los Mitos",
+                  "text": "The Paseo de Los Mitos is an outdoor walking trail in Yaguarón adorned with artistic representations of traditional Guaraní mythological creatures.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.290959,
+                        -25.564731
+                  ]
+            },
+            {
+                  "name": "museo Siete Miteos - Yaguaron",
+                  "text": "The Museo Siete Mitos in Yaguarón features engaging exhibits dedicated entirely to the seven legendary monsters of Guaraní folklore.",
+                  "category": "museum",
+                  "coords": [
+                        -57.293309,
+                        -25.568126
+                  ]
+            },
+            {
+                  "name": "Cerro Yaguarón",
+                  "text": "Cerro Yaguarón is a prominent local hill offering steep hiking paths and sweeping panoramic views of the surrounding Paraguayan countryside.",
+                  "category": "natural",
+                  "coords": [
+                        -57.295056,
+                        -25.569792
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This meetinghouse for The Church of Jesus Christ of Latter-day Saints provides a modern worship and community center for members in Yaguarón.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.291066,
+                        -25.559849
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-09",
     coords: [-57.2833, -25.5667],
@@ -898,7 +5407,268 @@ export const poiExtraParaguayNatureV2: POI[] = [
     },
   },
   {
-    id: "py-parque-ybycui-nature-v2",
+    id: "py-parque-ybycui-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salto Mina",
+                  "text": "Ein wunderschöner Wasserfall, umgeben vom dichten subtropischen Wald des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.849267,
+                        -26.076348
+                  ]
+            },
+            {
+                  "name": "Salto Guaraní",
+                  "text": "Ein malerischer Waldwasserfall, benannt nach dem indigenen Volk der Guaraní, der tief im Naturschutzgebiet liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.848921,
+                        -26.067469
+                  ]
+            },
+            {
+                  "name": "Salto Escondido",
+                  "text": "Ein abgelegener „Versteckter Wasserfall“, der abseits der Hauptwege eine ruhige natürliche Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.841003,
+                        -26.082858
+                  ]
+            },
+            {
+                  "name": "El precipicio del temor",
+                  "text": "Ein dramatischer Aussichtspunkt am Rande einer steilen Klippe, die als „Abgrund der Angst“ bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -56.84818,
+                        -26.076764
+                  ]
+            },
+            {
+                  "name": "Vista panorámica del Salto Mbocaruzu",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weitreichenden Panoramablick auf den herrlichen Wasserfall Salto Mbocaruzu bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -56.80797,
+                        -26.051469
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de Ybycuí",
+                  "text": "Ein riesiges Naturschutzgebiet, das einen reichen Teil des Atlantischen Waldes und zahlreiche Wasserfälle schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -56.818294,
+                        -26.081309
+                  ]
+            },
+            {
+                  "name": "Museo de la Fundicion de Hierro",
+                  "text": "Ein faszinierendes historisches Museum in einer Eisengießerei aus dem 19. Jahrhundert, das das industrielle Erbe der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -56.838441,
+                        -26.095998
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salto Mina",
+                  "text": "Gyönyörű vízesés, amelyet a nemzeti park sűrű szubtrópusi erdeje vesz körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.849267,
+                        -26.076348
+                  ]
+            },
+            {
+                  "name": "Salto Guaraní",
+                  "text": "A guaraní őslakosokról elnevezett festői erdei vízesés, amely mélyen a természetvédelmi területen található.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.848921,
+                        -26.067469
+                  ]
+            },
+            {
+                  "name": "Salto Escondido",
+                  "text": "Egy eldugott „Rejtett vízesés”, amely a fő túraútvonalaktól távol eső, nyugodt természeti környezetet kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.841003,
+                        -26.082858
+                  ]
+            },
+            {
+                  "name": "El precipicio del temor",
+                  "text": "Drámai kilátó egy meredek szikla szélén, amely a „Félelem szakadékaként” ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -56.84818,
+                        -26.076764
+                  ]
+            },
+            {
+                  "name": "Vista panorámica del Salto Mbocaruzu",
+                  "text": "Festői kilátóhely, ahonnan lenyűgöző panoráma nyílik a csodálatos Salto Mbocaruzu vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -56.80797,
+                        -26.051469
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de Ybycuí",
+                  "text": "Hatalmas természetvédelmi terület, amely az Atlanti-parti esőerdő egy gazdag szakaszát és számos vízesést véd.",
+                  "category": "natural",
+                  "coords": [
+                        -56.818294,
+                        -26.081309
+                  ]
+            },
+            {
+                  "name": "Museo de la Fundicion de Hierro",
+                  "text": "Lenyűgöző történelmi múzeum egy 19. századi vasöntödében, amely bemutatja a terület ipari örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        -56.838441,
+                        -26.095998
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salto Mina",
+                  "text": "O frumoasă cascadă înconjurată de pădurea subtropicală deasă a parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.849267,
+                        -26.076348
+                  ]
+            },
+            {
+                  "name": "Salto Guaraní",
+                  "text": "O cascadă pitorească de pădure, numită după poporul indigen Guaraní, situată adânc în rezervația naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.848921,
+                        -26.067469
+                  ]
+            },
+            {
+                  "name": "Salto Escondido",
+                  "text": "O cascadă retrasă și „ascunsă”, oferind un cadru natural liniștit, departe de traseele principale.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.841003,
+                        -26.082858
+                  ]
+            },
+            {
+                  "name": "El precipicio del temor",
+                  "text": "Un punct de belvedere dramatic situat pe marginea unei stânci abrupte, cunoscut sub numele de „Prăpastia Fricii”.",
+                  "category": "natural",
+                  "coords": [
+                        -56.84818,
+                        -26.076764
+                  ]
+            },
+            {
+                  "name": "Vista panorámica del Salto Mbocaruzu",
+                  "text": "Un punct de belvedere pitoresc care oferă o vedere panoramică vastă asupra magnificei cascade Salto Mbocaruzu.",
+                  "category": "natural",
+                  "coords": [
+                        -56.80797,
+                        -26.051469
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de Ybycuí",
+                  "text": "O vastă rezervație naturală care protejează o secțiune bogată a Pădurii Atlantice și numeroase cascade.",
+                  "category": "natural",
+                  "coords": [
+                        -56.818294,
+                        -26.081309
+                  ]
+            },
+            {
+                  "name": "Museo de la Fundicion de Hierro",
+                  "text": "Un muzeu istoric fascinant, găzduit într-o turnătorie de fier din secolul al XIX-lea, care prezintă moștenirea industrială a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        -56.838441,
+                        -26.095998
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salto Mina",
+                  "text": "A beautiful cascading waterfall surrounded by the dense subtropical forest of the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.849267,
+                        -26.076348
+                  ]
+            },
+            {
+                  "name": "Salto Guaraní",
+                  "text": "A picturesque woodland waterfall named after the indigenous Guaraní people, set deep in the nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.848921,
+                        -26.067469
+                  ]
+            },
+            {
+                  "name": "Salto Escondido",
+                  "text": "A secluded \"Hidden Waterfall\" offering a tranquil natural setting away from the main trails.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.841003,
+                        -26.082858
+                  ]
+            },
+            {
+                  "name": "El precipicio del temor",
+                  "text": "A dramatic viewpoint situated on the edge of a steep cliff known as the \"Precipice of Fear\".",
+                  "category": "natural",
+                  "coords": [
+                        -56.84818,
+                        -26.076764
+                  ]
+            },
+            {
+                  "name": "Vista panorámica del Salto Mbocaruzu",
+                  "text": "A scenic lookout providing a sweeping panoramic view of the magnificent Salto Mbocaruzu waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -56.80797,
+                        -26.051469
+                  ]
+            },
+            {
+                  "name": "Parque Nacional de Ybycuí",
+                  "text": "A vast nature reserve protecting a rich section of the Atlantic Forest and numerous waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        -56.818294,
+                        -26.081309
+                  ]
+            },
+            {
+                  "name": "Museo de la Fundicion de Hierro",
+                  "text": "A fascinating historical museum housed in a 19th-century iron foundry, showcasing the industrial heritage of the area.",
+                  "category": "museum",
+                  "coords": [
+                        -56.838441,
+                        -26.095998
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "PY-09",
     coords: [-56.8833, -26.0667],
@@ -1039,7 +5809,52 @@ export const poiExtraParaguayNatureV2: POI[] = [
       fr: ["Le nom Ypané signifie 'eau qui disparaît' en guaraní.", "Rivière importante pour la pêche artisanale dans le département de Concepción.", "Le cours de la rivière est un habitat crucial pour le caïman et le capybara.", "Elle sert de drainage naturel pour les vastes plaines du centre-nord."],
     }, image: "/poi-images/py-rio-ypane-nature-v2.webp"},
   {
-    id: "py-cerro-memby-nature-v2",
+    id: "py-cerro-memby-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Memby",
+                  "text": "Ein markanter, kegelförmiger Hügel, der sich einsam aus der paraguayischen Tiefebene erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.455975,
+                        -22.901359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Memby",
+                  "text": "Jellegzetes, kúp alakú domb, amely magányosan emelkedik ki a paraguayi síkságból.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.455975,
+                        -22.901359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Memby",
+                  "text": "Un deal distinctiv, în formă de con, care se ridică solitar deasupra câmpiilor paraguayene.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.455975,
+                        -22.901359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Memby",
+                  "text": "A distinctive, cone-shaped hill that rises lonely from the surrounding Paraguayan plains.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.455975,
+                        -22.901359
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-01",
     coords: [-56.3833, -22.8833],
@@ -1133,7 +5948,232 @@ export const poiExtraParaguayNatureV2: POI[] = [
       fr: ["La rivière est un affluent important du Río Paraguay dans l'arrière-pays central.", "Sert de corridor naturel pour la migration des capybaras et des reptiles.", "Les zones riveraines abritent une variété de plantes médicinales.", "Site important pour l'étude de la qualité de l'eau dans la ceinture agricole."],
     }, image: "/poi-images/py-rio-aguaray-guazu-nature-v2.webp"},
   {
-    id: "py-cerro-pero-nature-v2",
+    id: "py-cerro-pero-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de madera",
+                  "text": "Ein rustikaler Aussichtspunkt aus Holz auf dem Weg zum Gipfel, der Rastmöglichkeit und einen weiten Blick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -56.155274,
+                        -25.902186
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Kandú",
+                  "text": "Mit 842 Metern ist dies der höchste Punkt Paraguays und bietet Wanderern einen weiten Panoramablick über das Tiefland.",
+                  "category": "natural",
+                  "coords": [
+                        -56.159461,
+                        -25.902437
+                  ]
+            },
+            {
+                  "name": "Mirador el Arbol",
+                  "text": "Dieser Aussichtspunkt bietet einen weiten Blick über die dichten subtropischen Wälder des Ybytyrusu-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        -56.153379,
+                        -25.911354
+                  ]
+            },
+            {
+                  "name": "Salón Reino de los Testigos de Jehová",
+                  "text": "Ein schlichter Königreichssaal der Zeugen Jehovas, der der lokalen Gemeinschaft in der Nähe der Ybytyrusu-Hügel dient.",
+                  "category": "religious",
+                  "coords": [
+                        -56.178243,
+                        -25.968211
+                  ]
+            },
+            {
+                  "name": "Cruz",
+                  "text": "Ein einfaches religiöses Kreuz, das auf einem malerischen Bergrücken im Naturgebiet Cerro Peró steht.",
+                  "category": "religious",
+                  "coords": [
+                        -56.142204,
+                        -25.914308
+                  ]
+            },
+            {
+                  "name": "Gruta de la Virgen del Yvytyrusu",
+                  "text": "Ein in die Felsen eingebetteter Schrein, der der Jungfrau von Yvytyrusu gewidmet ist und in der Berglandschaft liegt.",
+                  "category": "religious",
+                  "coords": [
+                        -56.143401,
+                        -25.916302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de madera",
+                  "text": "Egy rusztikus, fából készült kilátó a csúcs felé vezető úton, amely pihenőhelyet és tágas kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -56.155274,
+                        -25.902186
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Kandú",
+                  "text": "842 méteres magasságával ez Paraguay legmagasabb pontja, amely pazar panorámát kínál az alföldi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -56.159461,
+                        -25.902437
+                  ]
+            },
+            {
+                  "name": "Mirador el Arbol",
+                  "text": "Ez a kilátópont széles körpanorámát nyújt az Ybytyrusu-hegység sűrű szubtrópusi erdőire.",
+                  "category": "natural",
+                  "coords": [
+                        -56.153379,
+                        -25.911354
+                  ]
+            },
+            {
+                  "name": "Salón Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi egyszerű királyságterme, amely a környékbeli közösséget szolgálja az Ybytyrusu-dombság közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -56.178243,
+                        -25.968211
+                  ]
+            },
+            {
+                  "name": "Cruz",
+                  "text": "Egy egyszerű vallási kereszt, amely a Cerro Peró természetvédelmi terület egyik festői gerincén áll.",
+                  "category": "religious",
+                  "coords": [
+                        -56.142204,
+                        -25.914308
+                  ]
+            },
+            {
+                  "name": "Gruta de la Virgen del Yvytyrusu",
+                  "text": "Az Yvytyrusu-i Szűznek szentelt, sziklák közé ékelt kegyhely a hegyi táj szívében.",
+                  "category": "religious",
+                  "coords": [
+                        -56.143401,
+                        -25.916302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de madera",
+                  "text": "Un punct de observație rustic din lemn pe drumul spre vârf, oferind un loc de odihnă și o vedere largă.",
+                  "category": "natural",
+                  "coords": [
+                        -56.155274,
+                        -25.902186
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Kandú",
+                  "text": "Cu 842 de metri, acesta este cel mai înalt punct din Paraguay, oferind drumeților o vedere panoramică asupra câmpiilor.",
+                  "category": "natural",
+                  "coords": [
+                        -56.159461,
+                        -25.902437
+                  ]
+            },
+            {
+                  "name": "Mirador el Arbol",
+                  "text": "Acest punct de observare oferă o vedere panoramică asupra pădurilor subtropicale dense ale lanțului muntos Ybytyrusu.",
+                  "category": "natural",
+                  "coords": [
+                        -56.153379,
+                        -25.911354
+                  ]
+            },
+            {
+                  "name": "Salón Reino de los Testigos de Jehová",
+                  "text": "O sală modestă a Regatului Martorilor lui Iehova, care deservește comunitatea locală de lângă dealurile Ybytyrusu.",
+                  "category": "religious",
+                  "coords": [
+                        -56.178243,
+                        -25.968211
+                  ]
+            },
+            {
+                  "name": "Cruz",
+                  "text": "O cruce religioasă simplă, amplasată pe o creastă pitorească din zona naturală Cerro Peró.",
+                  "category": "religious",
+                  "coords": [
+                        -56.142204,
+                        -25.914308
+                  ]
+            },
+            {
+                  "name": "Gruta de la Virgen del Yvytyrusu",
+                  "text": "Un altar săpat în stâncă dedicat Fecioarei din Yvytyrusu, situat în inima peisajului montan.",
+                  "category": "religious",
+                  "coords": [
+                        -56.143401,
+                        -25.916302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de madera",
+                  "text": "A rustic wooden lookout point on the path to the summit, providing a place to rest and enjoy the expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        -56.155274,
+                        -25.902186
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Kandú",
+                  "text": "At 842 meters, this is the highest point in Paraguay, offering hikers a vast panoramic view over the surrounding lowlands.",
+                  "category": "natural",
+                  "coords": [
+                        -56.159461,
+                        -25.902437
+                  ]
+            },
+            {
+                  "name": "The Tree Viewpoint",
+                  "text": "This vantage point offers an expansive view over the dense sub-tropical forests of the Ybytyrusu mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -56.153379,
+                        -25.911354
+                  ]
+            },
+            {
+                  "name": "Salón Reino de los Testigos de Jehová",
+                  "text": "A modest Kingdom Hall of Jehovah's Witnesses serving the local community near the Ybytyrusu hills.",
+                  "category": "religious",
+                  "coords": [
+                        -56.178243,
+                        -25.968211
+                  ]
+            },
+            {
+                  "name": "Cruz",
+                  "text": "A simple religious cross standing on a scenic ridge within the Cerro Peró nature area.",
+                  "category": "religious",
+                  "coords": [
+                        -56.142204,
+                        -25.914308
+                  ]
+            },
+            {
+                  "name": "Gruta de la Virgen del Yvytyrusu",
+                  "text": "A rocky shrine dedicated to the Virgin of Yvytyrusu, nestled within the mountain landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -56.143401,
+                        -25.916302
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PY-04",
     coords: [-56.1500, -25.9000],

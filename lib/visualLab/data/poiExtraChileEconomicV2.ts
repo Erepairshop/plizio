@@ -3,7 +3,1276 @@ import type { POI } from "./poi";
 
 export const poiExtraChileEconomicV2: POI[] = [
   {
-    id: "puerto-de-iquique-economic-v2",
+    id: "puerto-de-iquique-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Naval y Marítimo",
+                  "text": "Dieses Museum in Iquique zeigt marine Artefakte und detaillierte Schifffahrtsgeschichte, mit einem starken Fokus auf den Salpeterkrieg.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152035,
+                        -20.221283
+                  ]
+            },
+            {
+                  "name": "Museo Corbeta Esmeralda",
+                  "text": "Dieses weithin bekannte Schifffahrtsmuseum aus dem Jahr 2011 präsentiert die detailgetreue Nachbildung der historischen Korvette Esmeralda.",
+                  "category": "museum",
+                  "coords": [
+                        -70.151624,
+                        -20.209362
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Iquique",
+                  "text": "Dieses anerkannte Regionalmuseum bewahrt das reiche archäologische und kulturelle Erbe der Gegend.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152287,
+                        -20.216772
+                  ]
+            },
+            {
+                  "name": "Torre de Reloj",
+                  "text": "Dieser weithin bekannte Uhrenturm ist ein markantes Denkmal auf dem zentralen Platz.",
+                  "category": "historical",
+                  "coords": [
+                        -70.152404,
+                        -20.214104
+                  ]
+            },
+            {
+                  "name": "Catedral Inmaculada Concepción de María",
+                  "text": "Diese weithin bekannte katholische Kultstätte ist ein markantes religiöses Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -70.149845,
+                        -20.211872
+                  ]
+            },
+            {
+                  "name": "Faro Serrano",
+                  "text": "Dieser markante Küstenleuchtturm sichert die Navigation der Schiffe entlang der lokalen Gewässer.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.160448,
+                        -20.207613
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Cerro Dragón",
+                  "text": "Dieses 2005 gegründete und anerkannte Naturschutzgebiet bewahrt eine riesige städtische Sanddüne.",
+                  "category": "natural",
+                  "coords": [
+                        -70.119335,
+                        -20.269792
+                  ]
+            },
+            {
+                  "name": "Centro de Extensión Cultural Palacio Astoreca",
+                  "text": "Dieses anerkannte Kunstzentrum befindet sich in einem historischen Palastgebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.151835,
+                        -20.218167
+                  ]
+            },
+            {
+                  "name": "Iglesia del Buen Pastor",
+                  "text": "Diese anerkannte Kirche ist ein wichtiger spiritueller Ort für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -70.13842,
+                        -20.220551
+                  ]
+            },
+            {
+                  "name": "Cerro Riquelme",
+                  "text": "Dieser markante Berggipfel prägt die natürliche Landschaft der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -70.10766,
+                        -20.171884
+                  ]
+            },
+            {
+                  "name": "Cerro Covadonga",
+                  "text": "Dieser weithin sichtbare Berggipfel erhebt sich imposant über das umliegende Terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -70.119896,
+                        -20.155221
+                  ]
+            },
+            {
+                  "name": "Cerro Aldea",
+                  "text": "Dieser bekannte Berggipfel bietet eine markante Erhebung in der lokalen Bergkette.",
+                  "category": "natural",
+                  "coords": [
+                        -70.111313,
+                        -20.233489
+                  ]
+            },
+            {
+                  "name": "Museo del Deporte Hernán Cortez",
+                  "text": "Dieses lokale Museum widmet sich der regionalen Sportgeschichte und deren Athleten.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152222,
+                        -20.21583
+                  ]
+            },
+            {
+                  "name": "Museo Escuela Domingo Santa María",
+                  "text": "Dieses lokale Museum in einem alten Schulgebäude bewahrt die pädagogische Geschichte der Gegend.",
+                  "category": "museum",
+                  "coords": [
+                        -70.147,
+                        -20.21741
+                  ]
+            },
+            {
+                  "name": "Museo del Mar Jorge Tomicic",
+                  "text": "Dieses kleine Museum konzentriert sich auf maritime Exponate und das Leben an der Küste.",
+                  "category": "museum",
+                  "coords": [
+                        -70.130911,
+                        -20.270436
+                  ]
+            },
+            {
+                  "name": "Museo del Boxeo de Iquique",
+                  "text": "Dieses spezialisierte lokale Museum zeigt Erinnerungsstücke rund um den Boxsport.",
+                  "category": "museum",
+                  "coords": [
+                        -70.144176,
+                        -20.212554
+                  ]
+            },
+            {
+                  "name": "Museo de la Plata de Huantajaya",
+                  "text": "Dieses lokale Museum dokumentiert die historische Bedeutung des Silberabbaus in der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.1024,
+                        -20.268951
+                  ]
+            },
+            {
+                  "name": "Escenario de Musica",
+                  "text": "Dieses lokale Theater bietet eine Bühne für musikalische Aufführungen in der Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.155197,
+                        -20.209465
+                  ]
+            },
+            {
+                  "name": "Salón de Té-Atro",
+                  "text": "Dieses einzigartige lokale Theater verbindet einen Teesalon mit einer intimen Bühne für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.149634,
+                        -20.219854
+                  ]
+            },
+            {
+                  "name": "Sala de teatro Veteranos del 79",
+                  "text": "Dieser lokale Theatersaal ist nach historischen Veteranen benannt und dient als Kulturtreffpunkt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.154587,
+                        -20.217086
+                  ]
+            },
+            {
+                  "name": "Anfiteatro plaza de Armas Alto Hospicio",
+                  "text": "Dieses lokale Open-Air-Theater bietet einen halbrunden Veranstaltungsort direkt am öffentlichen Platz.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.10291,
+                        -20.267561
+                  ]
+            },
+            {
+                  "name": "primer escenario de la Plaza los Condores",
+                  "text": "Diese lokale Freilichtbühne ist in die Platzgestaltung integriert und für kleine Aufführungen gedacht.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.110115,
+                        -20.270135
+                  ]
+            },
+            {
+                  "name": "Iglesia Confraternidad Apostólica de Chile",
+                  "text": "Diese lokale Kultstätte dient der apostolischen Gemeinde als Ort des Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        -70.143666,
+                        -20.220232
+                  ]
+            },
+            {
+                  "name": "Santuario Sagrado Corazón de Jeús",
+                  "text": "Diese lokale Kirche mit ihrer traditionellen Architektur ist dem Heiligsten Herzen gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.149505,
+                        -20.223644
+                  ]
+            },
+            {
+                  "name": "Capilla Armada",
+                  "text": "Diese kleine lokale Kapelle bietet spirituellen Beistand für das Marinepersonal.",
+                  "category": "religious",
+                  "coords": [
+                        -70.156958,
+                        -20.21584
+                  ]
+            },
+            {
+                  "name": "Terminal Agropecuario",
+                  "text": "Dieser belebte lokale Marktplatz ist ein Zentrum für frische landwirtschaftliche Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.130825,
+                        -20.227892
+                  ]
+            },
+            {
+                  "name": "Terminal AgroSur",
+                  "text": "Dieser lokale Markt bietet eine Vielzahl von landwirtschaftlichen Erzeugnissen für den täglichen Bedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.123858,
+                        -20.267583
+                  ]
+            },
+            {
+                  "name": "Agro Hospicio",
+                  "text": "Dieser lokale Markt versorgt die Gemeinde mit frischem Gemüse und anderen Gütern.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.098631,
+                        -20.26502
+                  ]
+            },
+            {
+                  "name": "Mercado de Iquique",
+                  "text": "Dieser traditionelle lokale Marktplatz beherbergt zahlreiche Stände mit regionalen Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.146943,
+                        -20.216418
+                  ]
+            },
+            {
+                  "name": "Feria Monumental",
+                  "text": "Dieser große lokale Marktplatz ist bekannt für sein geschäftiges Treiben an den Verkaufsständen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.143122,
+                        -20.21488
+                  ]
+            },
+            {
+                  "name": "Boya hundimiento Esmeralda",
+                  "text": "Diese lokale Attraktion in den Küstengewässern markiert die historische Untergangsstelle eines Schiffes.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.149986,
+                        -20.17136
+                  ]
+            },
+            {
+                  "name": "Tarapacá",
+                  "text": "Diese lokale Attraktion verweist auf die historische Bedeutung der umliegenden Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.155497,
+                        -20.218707
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Camino",
+                  "text": "Dieser lokale christliche Kultplatz lädt Pilger und Gläubige zum Verweilen ein.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.09815,
+                        -20.246399
+                  ]
+            },
+            {
+                  "name": "Sealions",
+                  "text": "Dieser Aussichtspunkt an der Küste bietet die Möglichkeit, wilde Seelöwen in ihrem natürlichen Lebensraum zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -70.153773,
+                        -20.21103
+                  ]
+            },
+            {
+                  "name": "Seals/Focas",
+                  "text": "Dieser felsige Aussichtspunkt am Wasser ist ideal für die Beobachtung von Robbenkolonien.",
+                  "category": "natural",
+                  "coords": [
+                        -70.152593,
+                        -20.2104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Naval y Marítimo",
+                  "text": "Ez az iquique-i múzeum haditengerészeti leleteket és részletes tengerészeti történelmet mutat be, nagy hangsúlyt fektetve a csendes-óceáni háborúra.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152035,
+                        -20.221283
+                  ]
+            },
+            {
+                  "name": "Museo Corbeta Esmeralda",
+                  "text": "Ez a 2011-ből származó, széles körben ismert tengerészeti múzeum a történelmi Esmeralda korvett hű másolatát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.151624,
+                        -20.209362
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Iquique",
+                  "text": "Ez az elismert regionális múzeum a környék gazdag régészeti és kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152287,
+                        -20.216772
+                  ]
+            },
+            {
+                  "name": "Torre de Reloj",
+                  "text": "Ez a széles körben ismert óratorony egy feltűnő műemlék a központi téren.",
+                  "category": "historical",
+                  "coords": [
+                        -70.152404,
+                        -20.214104
+                  ]
+            },
+            {
+                  "name": "Catedral Inmaculada Concepción de María",
+                  "text": "Ez a széles körben ismert katolikus istentiszteleti hely a város egyik meghatározó vallási nevezetessége.",
+                  "category": "religious",
+                  "coords": [
+                        -70.149845,
+                        -20.211872
+                  ]
+            },
+            {
+                  "name": "Faro Serrano",
+                  "text": "Ez a feltűnő parti világítótorony a helyi vizeken közlekedő hajók navigációját segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.160448,
+                        -20.207613
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Cerro Dragón",
+                  "text": "Ez a 2005-ben alapított, elismert természetvédelmi terület egy hatalmas városi homokdűnét őriz.",
+                  "category": "natural",
+                  "coords": [
+                        -70.119335,
+                        -20.269792
+                  ]
+            },
+            {
+                  "name": "Centro de Extensión Cultural Palacio Astoreca",
+                  "text": "Ez az elismert művészeti központ egy történelmi palotaépületben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.151835,
+                        -20.218167
+                  ]
+            },
+            {
+                  "name": "Iglesia del Buen Pastor",
+                  "text": "Ez az elismert templom a helyi közösség fontos spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        -70.13842,
+                        -20.220551
+                  ]
+            },
+            {
+                  "name": "Cerro Riquelme",
+                  "text": "Ez a feltűnő hegycsúcs meghatározza a környék természeti tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        -70.10766,
+                        -20.171884
+                  ]
+            },
+            {
+                  "name": "Cerro Covadonga",
+                  "text": "Ez a messziről látható hegycsúcs impozánsan emelkedik a környező terep fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -70.119896,
+                        -20.155221
+                  ]
+            },
+            {
+                  "name": "Cerro Aldea",
+                  "text": "Ez az ismert hegycsúcs a helyi hegylánc egyik meghatározó kiemelkedése.",
+                  "category": "natural",
+                  "coords": [
+                        -70.111313,
+                        -20.233489
+                  ]
+            },
+            {
+                  "name": "Museo del Deporte Hernán Cortez",
+                  "text": "Ez a helyi múzeum a regionális sporttörténelemnek és a sportolóknak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152222,
+                        -20.21583
+                  ]
+            },
+            {
+                  "name": "Museo Escuela Domingo Santa María",
+                  "text": "Ez az egykori iskolaépületben működő helyi múzeum a környék oktatástörténetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.147,
+                        -20.21741
+                  ]
+            },
+            {
+                  "name": "Museo del Mar Jorge Tomicic",
+                  "text": "Ez a kis múzeum a tengerészeti kiállítási tárgyakra és a part menti életre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -70.130911,
+                        -20.270436
+                  ]
+            },
+            {
+                  "name": "Museo del Boxeo de Iquique",
+                  "text": "Ez a specializált helyi múzeum az ökölvívás emléktárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.144176,
+                        -20.212554
+                  ]
+            },
+            {
+                  "name": "Museo de la Plata de Huantajaya",
+                  "text": "Ez a helyi múzeum az ezüstbányászat történelmi jelentőségét dokumentálja a régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.1024,
+                        -20.268951
+                  ]
+            },
+            {
+                  "name": "Escenario de Musica",
+                  "text": "Ez a helyi színház zenei előadások színpadaként szolgál a közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.155197,
+                        -20.209465
+                  ]
+            },
+            {
+                  "name": "Salón de Té-Atro",
+                  "text": "Ez az egyedülálló helyi színház egy teázót ötvöz egy meghitt előadói színpaddal.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.149634,
+                        -20.219854
+                  ]
+            },
+            {
+                  "name": "Sala de teatro Veteranos del 79",
+                  "text": "Ez a történelmi veteránokról elnevezett helyi színházterem kulturális találkozóhelyként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.154587,
+                        -20.217086
+                  ]
+            },
+            {
+                  "name": "Anfiteatro plaza de Armas Alto Hospicio",
+                  "text": "Ez a helyi szabadtéri színház egy félköríves rendezvényhelyszínt kínál közvetlenül a köztéren.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.10291,
+                        -20.267561
+                  ]
+            },
+            {
+                  "name": "primer escenario de la Plaza los Condores",
+                  "text": "Ez a helyi szabadtéri színpad a tér kialakításába illeszkedik, és kisebb előadásokra szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.110115,
+                        -20.270135
+                  ]
+            },
+            {
+                  "name": "Iglesia Confraternidad Apostólica de Chile",
+                  "text": "Ez a helyi istentiszteleti hely az apostoli közösség imádságos helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -70.143666,
+                        -20.220232
+                  ]
+            },
+            {
+                  "name": "Santuario Sagrado Corazón de Jeús",
+                  "text": "Ez a hagyományos építészeti stílusú helyi templom a Jézus Szíve tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        -70.149505,
+                        -20.223644
+                  ]
+            },
+            {
+                  "name": "Capilla Armada",
+                  "text": "Ez a kis helyi kápolna spirituális menedéket nyújt a haditengerészeti személyzet számára.",
+                  "category": "religious",
+                  "coords": [
+                        -70.156958,
+                        -20.21584
+                  ]
+            },
+            {
+                  "name": "Terminal Agropecuario",
+                  "text": "Ez a nyüzsgő helyi piac a friss mezőgazdasági termékek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.130825,
+                        -20.227892
+                  ]
+            },
+            {
+                  "name": "Terminal AgroSur",
+                  "text": "Ez a helyi piac különféle mezőgazdasági termékeket kínál a napi szükségletekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.123858,
+                        -20.267583
+                  ]
+            },
+            {
+                  "name": "Agro Hospicio",
+                  "text": "Ez a helyi piac friss zöldségekkel és egyéb árukkal látja el a közösséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.098631,
+                        -20.26502
+                  ]
+            },
+            {
+                  "name": "Mercado de Iquique",
+                  "text": "Ez a hagyományos helyi piac számos regionális élelmiszert árusító standnak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.146943,
+                        -20.216418
+                  ]
+            },
+            {
+                  "name": "Feria Monumental",
+                  "text": "Ez a nagy helyi piac az árusító standoknál folyó nyüzsgő életről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.143122,
+                        -20.21488
+                  ]
+            },
+            {
+                  "name": "Boya hundimiento Esmeralda",
+                  "text": "Ez a parti vizeken található helyi látványosság egy hajó történelmi süllyedésének helyét jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.149986,
+                        -20.17136
+                  ]
+            },
+            {
+                  "name": "Tarapacá",
+                  "text": "Ez a helyi látványosság a környező régió történelmi jelentőségére utal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.155497,
+                        -20.218707
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Camino",
+                  "text": "Ez a helyi keresztény istentiszteleti hely megpihenésre hívja a zarándokokat és a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.09815,
+                        -20.246399
+                  ]
+            },
+            {
+                  "name": "Sealions",
+                  "text": "Ez a parti kilátó lehetőséget kínál a vadon élő oroszlánfókák megfigyelésére természetes élőhelyükön.",
+                  "category": "natural",
+                  "coords": [
+                        -70.153773,
+                        -20.21103
+                  ]
+            },
+            {
+                  "name": "Seals/Focas",
+                  "text": "Ez a sziklás, vízparti kilátó ideális a fókakolóniák megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -70.152593,
+                        -20.2104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Naval y Marítimo",
+                  "text": "Acest muzeu din Iquique expune artefacte navale și istorie maritimă detaliată, concentrându-se puternic pe Războiul Pacificului.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152035,
+                        -20.221283
+                  ]
+            },
+            {
+                  "name": "Museo Corbeta Esmeralda",
+                  "text": "Acest muzeu maritim recunoscut din 2011 prezintă o replică a corvetei istorice Esmeralda.",
+                  "category": "museum",
+                  "coords": [
+                        -70.151624,
+                        -20.209362
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Iquique",
+                  "text": "Acest muzeu regional recunoscut conservă bogatul patrimoniu arheologic și cultural al zonei.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152287,
+                        -20.216772
+                  ]
+            },
+            {
+                  "name": "Torre de Reloj",
+                  "text": "Acest faimos turn cu ceas este un monument remarcabil din piața centrală.",
+                  "category": "historical",
+                  "coords": [
+                        -70.152404,
+                        -20.214104
+                  ]
+            },
+            {
+                  "name": "Catedral Inmaculada Concepción de María",
+                  "text": "Acest lăcaș de cult catolic recunoscut este un punct de reper religios proeminent al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -70.149845,
+                        -20.211872
+                  ]
+            },
+            {
+                  "name": "Faro Serrano",
+                  "text": "Acest far de coastă remarcabil ghidează traficul maritim de-a lungul apelor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.160448,
+                        -20.207613
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Cerro Dragón",
+                  "text": "Această rezervație naturală recunoscută din 2005 protejează o uriașă dună de nisip urbană.",
+                  "category": "natural",
+                  "coords": [
+                        -70.119335,
+                        -20.269792
+                  ]
+            },
+            {
+                  "name": "Centro de Extensión Cultural Palacio Astoreca",
+                  "text": "Acest centru de artă recunoscut este găzduit într-o clădire istorică a unui palat.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.151835,
+                        -20.218167
+                  ]
+            },
+            {
+                  "name": "Iglesia del Buen Pastor",
+                  "text": "Această biserică recunoscută este un important lăcaș de cult pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -70.13842,
+                        -20.220551
+                  ]
+            },
+            {
+                  "name": "Cerro Riquelme",
+                  "text": "Acest vârf de munte remarcabil domină peisajul natural din împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        -70.10766,
+                        -20.171884
+                  ]
+            },
+            {
+                  "name": "Cerro Covadonga",
+                  "text": "Acest vârf de munte proeminent se înalță impresionant deasupra terenului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -70.119896,
+                        -20.155221
+                  ]
+            },
+            {
+                  "name": "Cerro Aldea",
+                  "text": "Acest vârf de munte recunoscut oferă o elevație proeminentă în lanțul muntos local.",
+                  "category": "natural",
+                  "coords": [
+                        -70.111313,
+                        -20.233489
+                  ]
+            },
+            {
+                  "name": "Museo del Deporte Hernán Cortez",
+                  "text": "Acest muzeu local este dedicat istoriei sportive regionale și atleților săi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152222,
+                        -20.21583
+                  ]
+            },
+            {
+                  "name": "Museo Escuela Domingo Santa María",
+                  "text": "Acest muzeu local, situat într-o fostă școală, păstrează istoria educațională a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        -70.147,
+                        -20.21741
+                  ]
+            },
+            {
+                  "name": "Museo del Mar Jorge Tomicic",
+                  "text": "Acest mic muzeu se concentrează pe exponate maritime și pe viața de coastă.",
+                  "category": "museum",
+                  "coords": [
+                        -70.130911,
+                        -20.270436
+                  ]
+            },
+            {
+                  "name": "Museo del Boxeo de Iquique",
+                  "text": "Acest muzeu local specializat expune amintiri din lumea boxului.",
+                  "category": "museum",
+                  "coords": [
+                        -70.144176,
+                        -20.212554
+                  ]
+            },
+            {
+                  "name": "Museo de la Plata de Huantajaya",
+                  "text": "Acest muzeu local documentează importanța istorică a extracției de argint din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -70.1024,
+                        -20.268951
+                  ]
+            },
+            {
+                  "name": "Escenario de Musica",
+                  "text": "Acest teatru local oferă o scenă pentru spectacole muzicale în comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.155197,
+                        -20.209465
+                  ]
+            },
+            {
+                  "name": "Salón de Té-Atro",
+                  "text": "Acest teatru local unic combină o ceainărie cu o scenă intimă pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.149634,
+                        -20.219854
+                  ]
+            },
+            {
+                  "name": "Sala de teatro Veteranos del 79",
+                  "text": "Această sală de teatru locală, numită după veterani istorici, servește ca loc de întâlnire culturală.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.154587,
+                        -20.217086
+                  ]
+            },
+            {
+                  "name": "Anfiteatro plaza de Armas Alto Hospicio",
+                  "text": "Acest teatru local în aer liber oferă un spațiu semicircular pentru evenimente, situat chiar în piața publică.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.10291,
+                        -20.267561
+                  ]
+            },
+            {
+                  "name": "primer escenario de la Plaza los Condores",
+                  "text": "Această scenă locală în aer liber este integrată în designul pieței și destinată spectacolelor mici.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.110115,
+                        -20.270135
+                  ]
+            },
+            {
+                  "name": "Iglesia Confraternidad Apostólica de Chile",
+                  "text": "Acest lăcaș de cult local servește ca loc de rugăciune pentru congregația apostolică.",
+                  "category": "religious",
+                  "coords": [
+                        -70.143666,
+                        -20.220232
+                  ]
+            },
+            {
+                  "name": "Santuario Sagrado Corazón de Jeús",
+                  "text": "Această biserică locală cu o arhitectură tradițională este dedicată Inimii Sacre.",
+                  "category": "religious",
+                  "coords": [
+                        -70.149505,
+                        -20.223644
+                  ]
+            },
+            {
+                  "name": "Capilla Armada",
+                  "text": "Această mică capelă locală oferă sprijin spiritual personalului naval.",
+                  "category": "religious",
+                  "coords": [
+                        -70.156958,
+                        -20.21584
+                  ]
+            },
+            {
+                  "name": "Terminal Agropecuario",
+                  "text": "Această piață locală aglomerată este un centru pentru produse agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.130825,
+                        -20.227892
+                  ]
+            },
+            {
+                  "name": "Terminal AgroSur",
+                  "text": "Această piață locală oferă o varietate de produse agricole pentru necesitățile zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.123858,
+                        -20.267583
+                  ]
+            },
+            {
+                  "name": "Agro Hospicio",
+                  "text": "Această piață locală aprovizionează comunitatea cu legume proaspete și alte bunuri.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.098631,
+                        -20.26502
+                  ]
+            },
+            {
+                  "name": "Mercado de Iquique",
+                  "text": "Această piață tradițională locală găzduiește numeroase tarabe cu alimente regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.146943,
+                        -20.216418
+                  ]
+            },
+            {
+                  "name": "Feria Monumental",
+                  "text": "Această piață locală mare este recunoscută pentru activitatea sa intensă la tarabe.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.143122,
+                        -20.21488
+                  ]
+            },
+            {
+                  "name": "Boya hundimiento Esmeralda",
+                  "text": "Această atracție locală din apele de coastă marchează locul istoric al scufundării unei nave.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.149986,
+                        -20.17136
+                  ]
+            },
+            {
+                  "name": "Tarapacá",
+                  "text": "Această atracție locală reflectă importanța istorică a regiunii înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.155497,
+                        -20.218707
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Camino",
+                  "text": "Acest lăcaș de cult creștin local invită pelerinii și credincioșii la rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.09815,
+                        -20.246399
+                  ]
+            },
+            {
+                  "name": "Sealions",
+                  "text": "Acest punct de belvedere de coastă oferă posibilitatea de a observa leii de mare sălbatici în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        -70.153773,
+                        -20.21103
+                  ]
+            },
+            {
+                  "name": "Seals/Focas",
+                  "text": "Acest punct de belvedere stâncos la malul apei este ideal pentru observarea coloniilor de foci.",
+                  "category": "natural",
+                  "coords": [
+                        -70.152593,
+                        -20.2104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Naval y Marítimo",
+                  "text": "This museum in Iquique exhibits naval artifacts and detailed maritime history, strongly focusing on the War of the Pacific.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152035,
+                        -20.221283
+                  ]
+            },
+            {
+                  "name": "Museo Corbeta Esmeralda",
+                  "text": "This globally recognized 2011 maritime museum features a faithful replica of the historic Esmeralda corvette.",
+                  "category": "museum",
+                  "coords": [
+                        -70.151624,
+                        -20.209362
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Iquique",
+                  "text": "This recognized regional museum preserves the area's rich archaeological and cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152287,
+                        -20.216772
+                  ]
+            },
+            {
+                  "name": "Torre de Reloj",
+                  "text": "This well-known clock tower stands as a striking monument in the central square.",
+                  "category": "historical",
+                  "coords": [
+                        -70.152404,
+                        -20.214104
+                  ]
+            },
+            {
+                  "name": "Catedral Inmaculada Concepción de María",
+                  "text": "This well-known Catholic place of worship is a prominent religious landmark in the city.",
+                  "category": "religious",
+                  "coords": [
+                        -70.149845,
+                        -20.211872
+                  ]
+            },
+            {
+                  "name": "Faro Serrano",
+                  "text": "This notable coastal lighthouse safely guides maritime traffic along the local waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.160448,
+                        -20.207613
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Cerro Dragón",
+                  "text": "This recognized 2005 nature reserve protects a massive urban sand dune.",
+                  "category": "natural",
+                  "coords": [
+                        -70.119335,
+                        -20.269792
+                  ]
+            },
+            {
+                  "name": "Centro de Extensión Cultural Palacio Astoreca",
+                  "text": "This recognized arts centre is housed within a historic palace building.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.151835,
+                        -20.218167
+                  ]
+            },
+            {
+                  "name": "Iglesia del Buen Pastor",
+                  "text": "This recognized church serves as an important spiritual site for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -70.13842,
+                        -20.220551
+                  ]
+            },
+            {
+                  "name": "Cerro Riquelme",
+                  "text": "This notable mountain peak dominates the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -70.10766,
+                        -20.171884
+                  ]
+            },
+            {
+                  "name": "Cerro Covadonga",
+                  "text": "This prominent mountain peak rises impressively above the surrounding terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -70.119896,
+                        -20.155221
+                  ]
+            },
+            {
+                  "name": "Cerro Aldea",
+                  "text": "This recognized mountain peak stands out as a prominent elevation in the local range.",
+                  "category": "natural",
+                  "coords": [
+                        -70.111313,
+                        -20.233489
+                  ]
+            },
+            {
+                  "name": "Museo del Deporte Hernán Cortez",
+                  "text": "This local museum is dedicated to showcasing regional sports history and its athletes.",
+                  "category": "museum",
+                  "coords": [
+                        -70.152222,
+                        -20.21583
+                  ]
+            },
+            {
+                  "name": "Museo Escuela Domingo Santa María",
+                  "text": "This local museum, housed in a former school, preserves the educational history of the area.",
+                  "category": "museum",
+                  "coords": [
+                        -70.147,
+                        -20.21741
+                  ]
+            },
+            {
+                  "name": "Museo del Mar Jorge Tomicic",
+                  "text": "This small museum focuses on maritime exhibits and local coastal life.",
+                  "category": "museum",
+                  "coords": [
+                        -70.130911,
+                        -20.270436
+                  ]
+            },
+            {
+                  "name": "Museo del Boxeo de Iquique",
+                  "text": "This specialized local museum exhibits memorabilia related to the sport of boxing.",
+                  "category": "museum",
+                  "coords": [
+                        -70.144176,
+                        -20.212554
+                  ]
+            },
+            {
+                  "name": "Museo de la Plata de Huantajaya",
+                  "text": "This local museum documents the historical significance of silver mining in the region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.1024,
+                        -20.268951
+                  ]
+            },
+            {
+                  "name": "Escenario de Musica",
+                  "text": "This local theatre provides a dedicated stage for community musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.155197,
+                        -20.209465
+                  ]
+            },
+            {
+                  "name": "Salón de Té-Atro",
+                  "text": "This unique local theatre combines a tea room with an intimate performance stage.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.149634,
+                        -20.219854
+                  ]
+            },
+            {
+                  "name": "Sala de teatro Veteranos del 79",
+                  "text": "This local theatre venue, named after historic veterans, serves as a cultural meeting point.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.154587,
+                        -20.217086
+                  ]
+            },
+            {
+                  "name": "Anfiteatro plaza de Armas Alto Hospicio",
+                  "text": "This local open-air theatre provides a semi-circular event space directly within the public square.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.10291,
+                        -20.267561
+                  ]
+            },
+            {
+                  "name": "primer escenario de la Plaza los Condores",
+                  "text": "This local outdoor stage is integrated into the plaza design and intended for small performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.110115,
+                        -20.270135
+                  ]
+            },
+            {
+                  "name": "Iglesia Confraternidad Apostólica de Chile",
+                  "text": "This local place of worship serves the Apostolic congregation as a site for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -70.143666,
+                        -20.220232
+                  ]
+            },
+            {
+                  "name": "Santuario Sagrado Corazón de Jeús",
+                  "text": "This local church with its traditional architecture is dedicated to the Sacred Heart.",
+                  "category": "religious",
+                  "coords": [
+                        -70.149505,
+                        -20.223644
+                  ]
+            },
+            {
+                  "name": "Capilla Armada",
+                  "text": "This small local chapel provides spiritual support for the naval personnel.",
+                  "category": "religious",
+                  "coords": [
+                        -70.156958,
+                        -20.21584
+                  ]
+            },
+            {
+                  "name": "Terminal Agropecuario",
+                  "text": "This bustling local marketplace is a hub for trading fresh agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.130825,
+                        -20.227892
+                  ]
+            },
+            {
+                  "name": "Terminal AgroSur",
+                  "text": "This local market offers a variety of agricultural goods to meet daily household needs.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.123858,
+                        -20.267583
+                  ]
+            },
+            {
+                  "name": "Agro Hospicio",
+                  "text": "This local marketplace supplies the community with fresh vegetables and other daily goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.098631,
+                        -20.26502
+                  ]
+            },
+            {
+                  "name": "Mercado de Iquique",
+                  "text": "This traditional local marketplace features numerous stalls selling regional foods.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.146943,
+                        -20.216418
+                  ]
+            },
+            {
+                  "name": "Feria Monumental",
+                  "text": "This large local marketplace is characterized by the bustling activity at its vendor stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.143122,
+                        -20.21488
+                  ]
+            },
+            {
+                  "name": "Boya hundimiento Esmeralda",
+                  "text": "This local coastal attraction visibly marks the historic sinking site of a ship.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.149986,
+                        -20.17136
+                  ]
+            },
+            {
+                  "name": "Tarapacá",
+                  "text": "This local attraction highlights the historical significance of the surrounding region.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.155497,
+                        -20.218707
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Camino",
+                  "text": "This local Christian site invites pilgrims and worshippers for quiet reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.09815,
+                        -20.246399
+                  ]
+            },
+            {
+                  "name": "Sealions",
+                  "text": "This coastal viewpoint provides an opportunity to observe wild sealions in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        -70.153773,
+                        -20.21103
+                  ]
+            },
+            {
+                  "name": "Seals/Focas",
+                  "text": "This rocky waterfront viewpoint is an ideal spot for spotting local seal colonies.",
+                  "category": "natural",
+                  "coords": [
+                        -70.152593,
+                        -20.2104
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-TA",
     coords: [-70.1558, -20.2033],
@@ -62,7 +1331,1240 @@ export const poiExtraChileEconomicV2: POI[] = [
     }
   },
   {
-    id: "puerto-coronel-economic-v2",
+    id: "puerto-coronel-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Histórico de Lota",
+                  "text": "Dieses renommierte historische Museum dokumentiert das reiche kulturelle und industrielle Erbe von Lota.",
+                  "category": "museum",
+                  "coords": [
+                        -73.164591,
+                        -37.089691
+                  ]
+            },
+            {
+                  "name": "Fuerte de Colcura",
+                  "text": "Das historische Fuerte de Colcura bietet einen Einblick in die koloniale Militärarchitektur der Region.",
+                  "category": "fortress",
+                  "coords": [
+                        -73.160767,
+                        -37.106233
+                  ]
+            },
+            {
+                  "name": "Parroquia San Matías Apostol",
+                  "text": "Diese bedeutende Pfarrkirche ist dem Apostel Matthias gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -73.162333,
+                        -37.086786
+                  ]
+            },
+            {
+                  "name": "Pueblito Minero Chiflón del Diablo",
+                  "text": "Die berühmte Attraktion Chiflón del Diablo führt Besucher tief in ein historisches ehemaliges Kohlebergwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.160809,
+                        -37.07571
+                  ]
+            },
+            {
+                  "name": "Faro Punta Lutrín",
+                  "text": "Der markante Leuchtturm Faro Punta Lutrín dient als maritime Navigationshilfe mit Blick auf die Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.171435,
+                        -37.094878
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Boca Maule",
+                  "text": "Dieses im Oktober 2021 gegründete städtische Feuchtgebietsschutzgebiet schützt das Ökosystem rund um die Boca Maule.",
+                  "category": "natural",
+                  "coords": [
+                        -73.174937,
+                        -37.001236
+                  ]
+            },
+            {
+                  "name": "Parque de Lota Isidora Cousiño",
+                  "text": "Der weithin bekannte Isidora Cousiño Park bietet weitläufige Landschaftsgärten und historische botanische Sammlungen.",
+                  "category": "park",
+                  "coords": [
+                        -73.168193,
+                        -37.092059
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Escuadrón-Laguna Quiñenco",
+                  "text": "Dieses im Februar 2022 offiziell anerkannte städtische Feuchtgebietsschutzgebiet umfasst die lebenswichtige Laguna Quiñenco.",
+                  "category": "natural",
+                  "coords": [
+                        -73.123994,
+                        -36.980479
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Dieser bekannte Küstenstrand zeichnet sich durch seine ausgedehnten Abschnitte mit strahlend weißem Sand aus.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.144413,
+                        -37.064171
+                  ]
+            },
+            {
+                  "name": "Playa Colcura",
+                  "text": "Die bemerkenswerte Playa Colcura bietet einen geschützten Küstenstreifen, der für die Erholung am Meer beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.152864,
+                        -37.114567
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Puchoco Schwager",
+                  "text": "Dieses historische Museum konzentriert sich auf das reiche industrielle und soziale Erbe des Bergbaugebiets Puchoco Schwager.",
+                  "category": "museum",
+                  "coords": [
+                        -73.178001,
+                        -37.023849
+                  ]
+            },
+            {
+                  "name": "Museo Multicultural e Histórico Raices",
+                  "text": "Die Ausstellungen in diesem Museum erforschen die multikulturellen und historischen Wurzeln der umliegenden Gemeinden.",
+                  "category": "museum",
+                  "coords": [
+                        -73.14421,
+                        -37.005315
+                  ]
+            },
+            {
+                  "name": "Codescar",
+                  "text": "Das Codescar-Museum präsentiert kuratierte Ausstellungen zur regionalen Kunst- und Sozialgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -73.149023,
+                        -37.025545
+                  ]
+            },
+            {
+                  "name": "CICAT 'Centro Interactivo de Ciencias, Artes y Tecnologías'",
+                  "text": "Dieses interaktive Zentrum begeistert Besucher mit praktischen Ausstellungen zu den Themen Wissenschaft, Kunst und Technologie.",
+                  "category": "museum",
+                  "coords": [
+                        -73.16307,
+                        -36.976825
+                  ]
+            },
+            {
+                  "name": "Torre campanil, Reloj de Coronel",
+                  "text": "Dieses markante Denkmal verfügt über einen Glockenturm und eine Uhr, die als markantes Wahrzeichen in Coronel dienen.",
+                  "category": "historical",
+                  "coords": [
+                        -73.14862,
+                        -37.026728
+                  ]
+            },
+            {
+                  "name": "Pique minero Arenas Blancas",
+                  "text": "Diese Ruinen markieren die Überreste des Bergbauschachts Arenas Blancas, ein Zeugnis der industriellen Vergangenheit der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -73.179832,
+                        -37.011754
+                  ]
+            },
+            {
+                  "name": "Ruinas Teatro Sindical n°6",
+                  "text": "Die verfallenen Strukturen des Gewerkschaftstheaters Nr. 6 spiegeln das einstige kulturelle Leben der örtlichen Arbeiter wider.",
+                  "category": "historical",
+                  "coords": [
+                        -73.156978,
+                        -37.093994
+                  ]
+            },
+            {
+                  "name": "Anfieteatro Camilo Olavarrria",
+                  "text": "Das Amphitheater Camilo Olavarría bietet einen Open-Air-Veranstaltungsort für Theater- und Musikaufführungen der Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.161492,
+                        -37.002024
+                  ]
+            },
+            {
+                  "name": "Teatro Lota",
+                  "text": "Das historische Teatro Lota dient weiterhin als wichtiger kultureller Treffpunkt für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.161286,
+                        -37.087959
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "Dieser Königreichssaal der Zeugen Jehovas ist ein spezieller Raum für das gemeinsame Bibelstudium und den Gottesdienst.",
+                  "category": "religious",
+                  "coords": [
+                        -73.157522,
+                        -37.011084
+                  ]
+            },
+            {
+                  "name": "Misión Evangélica Wesleyana",
+                  "text": "Die örtliche evangelisch-wesleyanische Mission bietet spirituelle Unterstützung und Gemeinschaft für die umliegende Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -73.157657,
+                        -37.008617
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Wesleyana",
+                  "text": "Diese evangelisch-wesleyanische Kirche versammelt Gläubige zu regelmäßigen protestantischen Gottesdiensten und Gebetstreffen.",
+                  "category": "religious",
+                  "coords": [
+                        -73.15349,
+                        -37.019173
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor de Chile",
+                  "text": "Die Iglesia del Señor de Chile ist ein lokaler christlicher Gottesdienstraum, der durch seine Versammlungen geprägt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -73.158189,
+                        -37.089137
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Obrero",
+                  "text": "Diese Jesus dem Arbeiter gewidmete Pfarrkirche dient der örtlichen katholischen Gemeinde mit täglichen Messen.",
+                  "category": "religious",
+                  "coords": [
+                        -73.17698,
+                        -37.025789
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Mitglieder dieser Kirche Jesu Christi der Heiligen der Letzten Tage versammeln sich hier für Gottesdienste und Gemeindeaktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        -73.154112,
+                        -37.094333
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Coronel",
+                  "text": "Auf dem städtischen Markt von Coronel bieten Verkäufer frische Meeresfrüchte, Gemüse und alltägliche Haushaltswaren an.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.149942,
+                        -37.024456
+                  ]
+            },
+            {
+                  "name": "Mercado de Lota",
+                  "text": "Der Markt von Lota fungiert als lebendiges Handelszentrum für frische regionale Lebensmittel und traditionelles Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.159048,
+                        -37.095182
+                  ]
+            },
+            {
+                  "name": "Mirador schwager",
+                  "text": "Vom Aussichtspunkt Schwager aus können Besucher weite Panoramablicke über die Küstenlandschaft genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.180339,
+                        -37.025122
+                  ]
+            },
+            {
+                  "name": "Pabellón 81",
+                  "text": "Pavillon 81 ist ein markantes architektonisches Bauwerk, das mit der reichen industriellen Siedlungsgeschichte der Region verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.163083,
+                        -37.092892
+                  ]
+            },
+            {
+                  "name": "Faro Punta Puchoco",
+                  "text": "Der Leuchtturm Faro Punta Puchoco dient als wichtiges Küstenfeuer, das Schiffe sicher entlang der felsigen Küste führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.177099,
+                        -37.02873
+                  ]
+            },
+            {
+                  "name": "Plaza Carrera",
+                  "text": "Die Plaza Carrera ist ein fußgängerfreundlicher öffentlicher Platz, der mit Sitzgelegenheiten und gepflasterten Gehwegen ausgestattet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.159305,
+                        -37.081552
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Misionera Villa Alegre",
+                  "text": "Diese methodistische Missionskirche veranstaltet regelmäßig christliche Gottesdienste für das Viertel Villa Alegre.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.152051,
+                        -37.021978
+                  ]
+            },
+            {
+                  "name": "Comunidad católica Juan Pablo Segundo",
+                  "text": "Ein katholisches Gemeindezentrum in Puerto Coronel.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.154045,
+                        -37.022072
+                  ]
+            },
+            {
+                  "name": "Corporación iglesia Evangelica Pentecostal",
+                  "text": "Eine evangelisch-pfingstliche Kirche der örtlichen christlichen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.155058,
+                        -37.02237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Histórico de Lota",
+                  "text": "Ez a neves történelmi múzeum Lota gazdag kulturális és ipari örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -73.164591,
+                        -37.089691
+                  ]
+            },
+            {
+                  "name": "Fuerte de Colcura",
+                  "text": "A történelmi Fuerte de Colcura bepillantást enged a régió gyarmati katonai építészetébe.",
+                  "category": "fortress",
+                  "coords": [
+                        -73.160767,
+                        -37.106233
+                  ]
+            },
+            {
+                  "name": "Parroquia San Matías Apostol",
+                  "text": "Ezt a jelentős plébániatemplomot Mátyás apostolnak szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -73.162333,
+                        -37.086786
+                  ]
+            },
+            {
+                  "name": "Pueblito Minero Chiflón del Diablo",
+                  "text": "A híres Chiflón del Diablo látványosság egy történelmi egykori szénbányába vezeti a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.160809,
+                        -37.07571
+                  ]
+            },
+            {
+                  "name": "Faro Punta Lutrín",
+                  "text": "A jelentős Faro Punta Lutrín világítótorony tengeri navigációs segédeszközként áll, kilátással a partra.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.171435,
+                        -37.094878
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Boca Maule",
+                  "text": "A 2021 októberében alapított városi vizes élőhelyi természetvédelmi terület a Boca Maule körüli ökoszisztémát védi.",
+                  "category": "natural",
+                  "coords": [
+                        -73.174937,
+                        -37.001236
+                  ]
+            },
+            {
+                  "name": "Parque de Lota Isidora Cousiño",
+                  "text": "A széles körben elismert Isidora Cousiño Park kiterjedt parkosított kertekkel és történelmi botanikai gyűjteményekkel rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        -73.168193,
+                        -37.092059
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Escuadrón-Laguna Quiñenco",
+                  "text": "A 2022 februárjában hivatalosan elismert városi vizes élőhelyi természetvédelmi terület magában foglalja a létfontosságú Laguna Quiñencót.",
+                  "category": "natural",
+                  "coords": [
+                        -73.123994,
+                        -36.980479
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Ezt a jól ismert tengerparti strandot a hatalmas, vakítóan fehér homokos területek jellemzik.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.144413,
+                        -37.064171
+                  ]
+            },
+            {
+                  "name": "Playa Colcura",
+                  "text": "A jelentős Playa Colcura védett partszakaszt kínál, amely népszerű a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.152864,
+                        -37.114567
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Puchoco Schwager",
+                  "text": "Ez a történelmi múzeum a Puchoco Schwager bányászati ​​terület gazdag ipari és társadalmi örökségére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -73.178001,
+                        -37.023849
+                  ]
+            },
+            {
+                  "name": "Museo Multicultural e Histórico Raices",
+                  "text": "A múzeum kiállításai a környező közösségek multikulturális és történelmi gyökereit tárják fel.",
+                  "category": "museum",
+                  "coords": [
+                        -73.14421,
+                        -37.005315
+                  ]
+            },
+            {
+                  "name": "Codescar",
+                  "text": "A Codescar múzeum a regionális művészetekre és társadalomtörténetre összpontosító gondozott kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -73.149023,
+                        -37.025545
+                  ]
+            },
+            {
+                  "name": "CICAT 'Centro Interactivo de Ciencias, Artes y Tecnologías'",
+                  "text": "Ez az interaktív központ gyakorlati kiállításokkal vonzza a látogatókat a tudomány, a művészetek és a technológia területén.",
+                  "category": "museum",
+                  "coords": [
+                        -73.16307,
+                        -36.976825
+                  ]
+            },
+            {
+                  "name": "Torre campanil, Reloj de Coronel",
+                  "text": "Ez a feltűnő emlékmű harangtoronnyal és órával rendelkezik, amely Coronel kiemelkedő nevezetességeként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -73.14862,
+                        -37.026728
+                  ]
+            },
+            {
+                  "name": "Pique minero Arenas Blancas",
+                  "text": "Ezek a romok az Arenas Blancas bányászati ​​akna maradványait jelölik, ami a terület ipari múltjának bizonyítéka.",
+                  "category": "historical",
+                  "coords": [
+                        -73.179832,
+                        -37.011754
+                  ]
+            },
+            {
+                  "name": "Ruinas Teatro Sindical n°6",
+                  "text": "A 6. számú Szakszervezeti Színház omladozó szerkezetei a helyi munkások egykori kulturális életét tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        -73.156978,
+                        -37.093994
+                  ]
+            },
+            {
+                  "name": "Anfieteatro Camilo Olavarrria",
+                  "text": "A Camilo Olavarría amfiteátrum szabadtéri helyszínt biztosít a közösségi színházi és zenei előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.161492,
+                        -37.002024
+                  ]
+            },
+            {
+                  "name": "Teatro Lota",
+                  "text": "A történelmi Teatro Lota továbbra is fontos kulturális gyülekezőhelyként szolgál az előadóművészetek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.161286,
+                        -37.087959
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "Ez a Jehova Tanúi Királyság-terem a gyülekezeti bibliatanulmányozás és istentisztelet dedikált helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -73.157522,
+                        -37.011084
+                  ]
+            },
+            {
+                  "name": "Misión Evangélica Wesleyana",
+                  "text": "A helyi wesleyánus evangélikus misszió spirituális elérést és közösséget biztosít a környező közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -73.157657,
+                        -37.008617
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Wesleyana",
+                  "text": "Ez a wesleyánus evangélikus templom a hívőket rendszeres protestáns istentiszteletekre és imatalálkozókra gyűjti össze.",
+                  "category": "religious",
+                  "coords": [
+                        -73.15349,
+                        -37.019173
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor de Chile",
+                  "text": "Az Iglesia del Señor de Chile egy helyi keresztény istentiszteleti hely, amelyet a gyülekezeti összejövetelek jellemeznek.",
+                  "category": "religious",
+                  "coords": [
+                        -73.158189,
+                        -37.089137
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Obrero",
+                  "text": "A Munkás Jézusnak szentelt plébániatemplom napi misékkel szolgálja a helyi katolikus közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        -73.17698,
+                        -37.025789
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek temploma tagjai itt gyűlnek össze helyi istentiszteletre és közösségi tevékenységekre.",
+                  "category": "religious",
+                  "coords": [
+                        -73.154112,
+                        -37.094333
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Coronel",
+                  "text": "A Coronel városi piacon az árusok friss tenger gyümölcseit, zöldségeket és napi háztartási cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.149942,
+                        -37.024456
+                  ]
+            },
+            {
+                  "name": "Mercado de Lota",
+                  "text": "A Lota piac élénk kereskedelmi központként működik a friss regionális ételek és a hagyományos kézműves termékek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.159048,
+                        -37.095182
+                  ]
+            },
+            {
+                  "name": "Mirador schwager",
+                  "text": "A Schwager kilátóból a látogatók kiterjedt panorámás kilátást élvezhetnek a tengerparti tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.180339,
+                        -37.025122
+                  ]
+            },
+            {
+                  "name": "Pabellón 81",
+                  "text": "A 81-es pavilon egy különálló építészeti szerkezet, amely a térség gazdag ipari településtörténetéhez kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.163083,
+                        -37.092892
+                  ]
+            },
+            {
+                  "name": "Faro Punta Puchoco",
+                  "text": "A Faro Punta Puchoco világítótorony nélkülözhetetlen tengerparti jelzőtűzként szolgál, amely biztonságosan vezeti a hajókat a sziklás parton.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.177099,
+                        -37.02873
+                  ]
+            },
+            {
+                  "name": "Plaza Carrera",
+                  "text": "A Plaza Carrera egy gyalogosbarát köztér, amely ülőhelyekkel és kövezett sétányokkal van felszerelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.159305,
+                        -37.081552
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Misionera Villa Alegre",
+                  "text": "Ez a metodista missziós egyház rendszeresen ad otthont keresztény istentiszteletekre a Villa Alegre negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.152051,
+                        -37.021978
+                  ]
+            },
+            {
+                  "name": "Comunidad católica Juan Pablo Segundo",
+                  "text": "Egy katolikus közösségi központ Puerto Coronel-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.154045,
+                        -37.022072
+                  ]
+            },
+            {
+                  "name": "Corporación iglesia Evangelica Pentecostal",
+                  "text": "A helyi keresztény közösség pünkösdi evangéliumi temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.155058,
+                        -37.02237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Histórico de Lota",
+                  "text": "Acest renumit muzeu istoric relatează bogata moștenire culturală și industrială a orașului Lota.",
+                  "category": "museum",
+                  "coords": [
+                        -73.164591,
+                        -37.089691
+                  ]
+            },
+            {
+                  "name": "Fuerte de Colcura",
+                  "text": "Istoricul Fuerte de Colcura oferă o perspectivă asupra arhitecturii militare coloniale a regiunii.",
+                  "category": "fortress",
+                  "coords": [
+                        -73.160767,
+                        -37.106233
+                  ]
+            },
+            {
+                  "name": "Parroquia San Matías Apostol",
+                  "text": "Această biserică parohială notabilă este închinată Sfântului Apostol Matia.",
+                  "category": "religious",
+                  "coords": [
+                        -73.162333,
+                        -37.086786
+                  ]
+            },
+            {
+                  "name": "Pueblito Minero Chiflón del Diablo",
+                  "text": "Celebra atracție Chiflón del Diablo poartă vizitatorii adânc într-o fostă mină de cărbune istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.160809,
+                        -37.07571
+                  ]
+            },
+            {
+                  "name": "Faro Punta Lutrín",
+                  "text": "Servind ca ajutor de navigație maritimă, notabilul far Faro Punta Lutrín are vedere la coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.171435,
+                        -37.094878
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Boca Maule",
+                  "text": "Înființată în octombrie 2021, această rezervație naturală de zonă umedă urbană protejează ecosistemul din jurul Boca Maule.",
+                  "category": "natural",
+                  "coords": [
+                        -73.174937,
+                        -37.001236
+                  ]
+            },
+            {
+                  "name": "Parque de Lota Isidora Cousiño",
+                  "text": "Parcul Isidora Cousiño, recunoscut pe scară largă, are grădini amenajate extinse și colecții botanice istorice.",
+                  "category": "park",
+                  "coords": [
+                        -73.168193,
+                        -37.092059
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Escuadrón-Laguna Quiñenco",
+                  "text": "Recunoscută oficial în februarie 2022, această rezervație naturală de zonă umedă urbană cuprinde vitala Laguna Quiñenco.",
+                  "category": "natural",
+                  "coords": [
+                        -73.123994,
+                        -36.980479
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Această plajă de coastă bine-cunoscută este caracterizată de întinderile sale vaste de nisip alb strălucitor.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.144413,
+                        -37.064171
+                  ]
+            },
+            {
+                  "name": "Playa Colcura",
+                  "text": "Notabila Playa Colcura oferă o porțiune protejată de coastă populară pentru recreere la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.152864,
+                        -37.114567
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Puchoco Schwager",
+                  "text": "Acest muzeu istoric se concentrează pe bogata moștenire industrială și socială a zonei miniere Puchoco Schwager.",
+                  "category": "museum",
+                  "coords": [
+                        -73.178001,
+                        -37.023849
+                  ]
+            },
+            {
+                  "name": "Museo Multicultural e Histórico Raices",
+                  "text": "Expozițiile de la acest muzeu explorează rădăcinile multiculturale și istorice ale comunităților din jur.",
+                  "category": "museum",
+                  "coords": [
+                        -73.14421,
+                        -37.005315
+                  ]
+            },
+            {
+                  "name": "Codescar",
+                  "text": "Muzeul Codescar prezintă expoziții organizate axate pe artele regionale și istoria socială.",
+                  "category": "museum",
+                  "coords": [
+                        -73.149023,
+                        -37.025545
+                  ]
+            },
+            {
+                  "name": "CICAT 'Centro Interactivo de Ciencias, Artes y Tecnologías'",
+                  "text": "Acest centru interactiv atrage vizitatorii cu expoziții practice care acoperă știința, artele și tehnologia.",
+                  "category": "museum",
+                  "coords": [
+                        -73.16307,
+                        -36.976825
+                  ]
+            },
+            {
+                  "name": "Torre campanil, Reloj de Coronel",
+                  "text": "Acest monument impresionant are un turn cu clopot și ceas, servind ca un punct de reper proeminent în Coronel.",
+                  "category": "historical",
+                  "coords": [
+                        -73.14862,
+                        -37.026728
+                  ]
+            },
+            {
+                  "name": "Pique minero Arenas Blancas",
+                  "text": "Aceste ruine marchează rămășițele puțului minier Arenas Blancas, o mărturie a trecutului industrial al zonei.",
+                  "category": "historical",
+                  "coords": [
+                        -73.179832,
+                        -37.011754
+                  ]
+            },
+            {
+                  "name": "Ruinas Teatro Sindical n°6",
+                  "text": "Structurile prăbușite ale Teatrului Sindical nr. 6 reflectă fosta viață culturală a muncitorilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        -73.156978,
+                        -37.093994
+                  ]
+            },
+            {
+                  "name": "Anfieteatro Camilo Olavarrria",
+                  "text": "Amfiteatrul Camilo Olavarría oferă o locație în aer liber pentru spectacole teatrale și muzicale ale comunității.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.161492,
+                        -37.002024
+                  ]
+            },
+            {
+                  "name": "Teatro Lota",
+                  "text": "Istoricul Teatro Lota continuă să servească drept un important spațiu de adunare culturală pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.161286,
+                        -37.087959
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "Această Sală a Regatului a Martorilor lui Iehova este un spațiu dedicat pentru studiul biblic congregațional și închinare.",
+                  "category": "religious",
+                  "coords": [
+                        -73.157522,
+                        -37.011084
+                  ]
+            },
+            {
+                  "name": "Misión Evangélica Wesleyana",
+                  "text": "Misiunea locală Evanghelică Wesleyană oferă asistență spirituală și părtășie pentru comunitatea din jur.",
+                  "category": "religious",
+                  "coords": [
+                        -73.157657,
+                        -37.008617
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Wesleyana",
+                  "text": "Această biserică evanghelică wesleyană adună credincioșii pentru slujbe protestante regulate și întâlniri de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -73.15349,
+                        -37.019173
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor de Chile",
+                  "text": "Iglesia del Señor de Chile este un spațiu de închinare creștin local marcat de adunările sale congregaționale.",
+                  "category": "religious",
+                  "coords": [
+                        -73.158189,
+                        -37.089137
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Obrero",
+                  "text": "Închinată lui Iisus Muncitorul, această biserică parohială deservește comunitatea catolică locală cu liturghii zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        -73.17698,
+                        -37.025789
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Membrii acestei biserici a Sfinților din Zilele din Urmă se adună aici pentru închinare locală și activități comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        -73.154112,
+                        -37.094333
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Coronel",
+                  "text": "La Piața Municipală din Coronel, vânzătorii oferă fructe de mare proaspete, legume și articole de uz casnic zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.149942,
+                        -37.024456
+                  ]
+            },
+            {
+                  "name": "Mercado de Lota",
+                  "text": "Piața Lota funcționează ca un centru comercial vibrant pentru alimente regionale proaspete și meșteșuguri tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.159048,
+                        -37.095182
+                  ]
+            },
+            {
+                  "name": "Mirador schwager",
+                  "text": "De la punctul de belvedere Schwager, vizitatorii pot admira priveliști panoramice extinse asupra peisajului de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.180339,
+                        -37.025122
+                  ]
+            },
+            {
+                  "name": "Pabellón 81",
+                  "text": "Pavilionul 81 este o structură arhitecturală distinctă legată de bogata istorie a așezărilor industriale din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.163083,
+                        -37.092892
+                  ]
+            },
+            {
+                  "name": "Faro Punta Puchoco",
+                  "text": "Farul Faro Punta Puchoco servește ca un far de coastă esențial, ghidând navele în siguranță de-a lungul țărmului stâncos.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.177099,
+                        -37.02873
+                  ]
+            },
+            {
+                  "name": "Plaza Carrera",
+                  "text": "Plaza Carrera este o piață publică prietenoasă cu pietonii, dotată cu zone de relaxare și alei pavate.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.159305,
+                        -37.081552
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Misionera Villa Alegre",
+                  "text": "Această biserică misionară metodistă găzduiește în mod regulat slujbe de închinare creștină pentru cartierul Villa Alegre.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.152051,
+                        -37.021978
+                  ]
+            },
+            {
+                  "name": "Comunidad católica Juan Pablo Segundo",
+                  "text": "Un centru comunitar catolic în Puerto Coronel.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.154045,
+                        -37.022072
+                  ]
+            },
+            {
+                  "name": "Corporación iglesia Evangelica Pentecostal",
+                  "text": "O biserică evanghelică penticostală a comunității creștine locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.155058,
+                        -37.02237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Histórico de Lota",
+                  "text": "This renowned historical museum chronicles the rich cultural and industrial heritage of Lota.",
+                  "category": "museum",
+                  "coords": [
+                        -73.164591,
+                        -37.089691
+                  ]
+            },
+            {
+                  "name": "Fuerte de Colcura",
+                  "text": "The historic Fuerte de Colcura offers insight into the region's colonial military architecture.",
+                  "category": "fortress",
+                  "coords": [
+                        -73.160767,
+                        -37.106233
+                  ]
+            },
+            {
+                  "name": "Parroquia San Matías Apostol",
+                  "text": "This notable parish church is dedicated to Saint Matthias the Apostle.",
+                  "category": "religious",
+                  "coords": [
+                        -73.162333,
+                        -37.086786
+                  ]
+            },
+            {
+                  "name": "Mining Museum",
+                  "text": "The famous Chiflón del Diablo attraction takes visitors deep into a historic former coal mine.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.160809,
+                        -37.07571
+                  ]
+            },
+            {
+                  "name": "Faro Punta Lutrín",
+                  "text": "Standing as a maritime navigational aid, the notable Faro Punta Lutrín lighthouse overlooks the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.171435,
+                        -37.094878
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Boca Maule",
+                  "text": "Established in October 2021, this urban wetland nature reserve protects the ecosystem around the Boca Maule.",
+                  "category": "natural",
+                  "coords": [
+                        -73.174937,
+                        -37.001236
+                  ]
+            },
+            {
+                  "name": "Parque de Lota Isidora Cousiño",
+                  "text": "The widely recognized Isidora Cousiño Park features extensive landscaped gardens and historic botanical collections.",
+                  "category": "park",
+                  "coords": [
+                        -73.168193,
+                        -37.092059
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Escuadrón-Laguna Quiñenco",
+                  "text": "Officially recognized in February 2022, this urban wetland nature reserve encompasses the vital Laguna Quiñenco.",
+                  "category": "natural",
+                  "coords": [
+                        -73.123994,
+                        -36.980479
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "This well-known coastal beach is characterized by its expansive stretches of bright white sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.144413,
+                        -37.064171
+                  ]
+            },
+            {
+                  "name": "Playa Colcura",
+                  "text": "The notable Playa Colcura offers a sheltered stretch of coastline popular for seaside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.152864,
+                        -37.114567
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Puchoco Schwager",
+                  "text": "This historical museum focuses on the rich industrial and social legacy of the Puchoco Schwager mining area.",
+                  "category": "museum",
+                  "coords": [
+                        -73.178001,
+                        -37.023849
+                  ]
+            },
+            {
+                  "name": "Museo Multicultural e Histórico Raices",
+                  "text": "Exhibitions at this museum explore the multicultural and historical roots of the surrounding communities.",
+                  "category": "museum",
+                  "coords": [
+                        -73.14421,
+                        -37.005315
+                  ]
+            },
+            {
+                  "name": "Codescar",
+                  "text": "The Codescar museum presents curated displays focusing on regional arts and social history.",
+                  "category": "museum",
+                  "coords": [
+                        -73.149023,
+                        -37.025545
+                  ]
+            },
+            {
+                  "name": "CICAT 'Centro Interactivo de Ciencias, Artes y Tecnologías'",
+                  "text": "This interactive center engages visitors with hands-on exhibits covering science, arts, and technology.",
+                  "category": "museum",
+                  "coords": [
+                        -73.16307,
+                        -36.976825
+                  ]
+            },
+            {
+                  "name": "Torre campanil, Reloj de Coronel",
+                  "text": "This striking monument features a bell tower and clock, serving as a prominent landmark in Coronel.",
+                  "category": "historical",
+                  "coords": [
+                        -73.14862,
+                        -37.026728
+                  ]
+            },
+            {
+                  "name": "Pique minero Arenas Blancas",
+                  "text": "These ruins mark the remnants of the Arenas Blancas mining shaft, a testament to the area's industrial past.",
+                  "category": "historical",
+                  "coords": [
+                        -73.179832,
+                        -37.011754
+                  ]
+            },
+            {
+                  "name": "Ruinas Teatro Sindical n°6",
+                  "text": "The crumbling structures of Union Theater No. 6 reflect the former cultural life of local workers.",
+                  "category": "historical",
+                  "coords": [
+                        -73.156978,
+                        -37.093994
+                  ]
+            },
+            {
+                  "name": "Anfieteatro Camilo Olavarrria",
+                  "text": "The Camilo Olavarría amphitheater provides an open-air venue for community theatrical and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.161492,
+                        -37.002024
+                  ]
+            },
+            {
+                  "name": "Teatro Lota",
+                  "text": "The historic Teatro Lota continues to serve as an important cultural gathering space for the performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.161286,
+                        -37.087959
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "This Jehovah's Witnesses Kingdom Hall is a dedicated space for congregational Bible study and worship.",
+                  "category": "religious",
+                  "coords": [
+                        -73.157522,
+                        -37.011084
+                  ]
+            },
+            {
+                  "name": "Misión Evangélica Wesleyana",
+                  "text": "The local Wesleyan Evangelical mission provides spiritual outreach and fellowship for the surrounding community.",
+                  "category": "religious",
+                  "coords": [
+                        -73.157657,
+                        -37.008617
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Wesleyana",
+                  "text": "This Wesleyan Evangelical church gathers worshippers for regular Protestant services and prayer meetings.",
+                  "category": "religious",
+                  "coords": [
+                        -73.15349,
+                        -37.019173
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor de Chile",
+                  "text": "The Iglesia del Señor de Chile is a local Christian worship space marked by its congregational gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -73.158189,
+                        -37.089137
+                  ]
+            },
+            {
+                  "name": "Parroquia Jesús Obrero",
+                  "text": "Dedicated to Jesus the Worker, this parish church serves the local Catholic community with daily masses.",
+                  "category": "religious",
+                  "coords": [
+                        -73.17698,
+                        -37.025789
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Members of this Latter-day Saints church gather here for local worship and community activities.",
+                  "category": "religious",
+                  "coords": [
+                        -73.154112,
+                        -37.094333
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Coronel",
+                  "text": "At the Municipal Market of Coronel, vendors offer fresh seafood, vegetables, and daily household items.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.149942,
+                        -37.024456
+                  ]
+            },
+            {
+                  "name": "Mercado de Lota",
+                  "text": "The Lota Market functions as a vibrant commercial hub for fresh regional foods and traditional crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.159048,
+                        -37.095182
+                  ]
+            },
+            {
+                  "name": "Mirador schwager",
+                  "text": "From the Schwager viewpoint, visitors can take in expansive panoramic sights over the coastal landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.180339,
+                        -37.025122
+                  ]
+            },
+            {
+                  "name": "Pabellón 81",
+                  "text": "Pavilion 81 stands as a distinct architectural structure tied to the area's rich industrial settlement history.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.163083,
+                        -37.092892
+                  ]
+            },
+            {
+                  "name": "Faro Punta Puchoco",
+                  "text": "The Faro Punta Puchoco lighthouse serves as an essential coastal beacon guiding ships safely along the rocky shore.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.177099,
+                        -37.02873
+                  ]
+            },
+            {
+                  "name": "Plaza Carrera",
+                  "text": "Plaza Carrera is a pedestrian-friendly public square equipped with seating areas and paved walkways.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.159305,
+                        -37.081552
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Misionera Villa Alegre",
+                  "text": "This Methodist missionary church regularly hosts Christian worship services for the Villa Alegre neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.152051,
+                        -37.021978
+                  ]
+            },
+            {
+                  "name": "Comunidad católica Juan Pablo Segundo",
+                  "text": "A Catholic community center in Puerto Coronel.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.154045,
+                        -37.022072
+                  ]
+            },
+            {
+                  "name": "Corporación iglesia Evangelica Pentecostal",
+                  "text": "A Pentecostal Evangelical church serving the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.155058,
+                        -37.02237
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-BI",
     coords: [-73.1550, -37.0305],
@@ -120,7 +2622,1096 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Plus grand port de la région de Biobío.", "Spécialisé dans les produits forestiers."],
     }, image: "/poi-images/puerto-coronel-economic-v2.webp"},
   {
-    id: "puerto-lirquen-economic-v2",
+    id: "puerto-lirquen-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fuerte La Planchada",
+                  "text": "Fuerte La Planchada ist eine denkmalgeschützte Festung in Puerto Lirquén, die die koloniale Militärarchitektur an der Küste bewahrt.",
+                  "category": "fortress",
+                  "coords": [
+                        -72.996026,
+                        -36.736606
+                  ]
+            },
+            {
+                  "name": "Bahía de Concepción",
+                  "text": "Die Bucht von Concepcion ist ein großer Naturhafen in der Nähe von Puerto Lirquén, der für seinen umfangreichen Seeverkehr und seine malerischen Küstenansichten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.033971,
+                        -36.662756
+                  ]
+            },
+            {
+                  "name": "Sitio RHRAP Playa Isla de los Reyes Rocuant",
+                  "text": "Das 2023 zum Naturschutzgebiet erklärte WHSRN-Gebiet Isla de lo Reyes Rocuant Beach schützt wichtige Lebensräume für wandernde Küstenvögel.",
+                  "category": "natural",
+                  "coords": [
+                        -73.042938,
+                        -36.736167
+                  ]
+            },
+            {
+                  "name": "Playa Negra",
+                  "text": "Playa Negra ist ein markanter Küstenstrand in Puerto Lirquén, der für seinen einzigartig dunklen Sand entlang der Bucht bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.002966,
+                        -36.737293
+                  ]
+            },
+            {
+                  "name": "Museo de la Historia de Penco",
+                  "text": "Das Museo de la Historia de Penco stellt historische Artefakte aus, die die regionale Entwicklung und das maritime Erbe von Puerto Lirquén und Penco nachzeichnen.",
+                  "category": "museum",
+                  "coords": [
+                        -72.994864,
+                        -36.738742
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional Estableciendo el Reino",
+                  "text": "Das Ministerio Internacional Estableciendo el Reino ist eine Kultstätte in Puerto Lirquén, die der örtlichen Gemeinde regelmäßige Gottesdienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -72.984458,
+                        -36.727971
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Diese bescheidene lokale Kapelle in Puerto Lirquén dient als Treffpunkt für Gebete und religiöse Zeremonien in der Nachbarschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -72.949779,
+                        -36.639993
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Wesleyana",
+                  "text": "Die Iglesia Misión Evangélica Wesleyana in Puerto Lirquén ist eine christliche Gemeinde, die sich auf wesleyanische theologische Traditionen konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.953289,
+                        -36.631658
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Emanuel de Bellavista",
+                  "text": "Die Iglesia Evangélica Emanuel im Viertel Bellavista von Puerto Lirquén veranstaltet christliche evangelische Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.954653,
+                        -36.633543
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Nuevo Pacto",
+                  "text": "Die Iglesia Pentecostal Nuevo Pacto ist eine pfingstchristliche Kirche in Puerto Lirquén, die sich durch ihre lebendigen musikalischen Gottesdienste auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.950415,
+                        -36.637413
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile",
+                  "text": "Als Teil der Methodistischen Pfingstkirche von Chile versammelt sich diese Gemeinde in Puerto Lirquén zum inbrünstigen christlichen Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.950081,
+                        -36.63625
+                  ]
+            },
+            {
+                  "name": "Templo Evangélico Wesleyand",
+                  "text": "Der Templo Evangélico Wesleyand ist ein christlicher Tempel in Puerto Lirquén, der dem wesleyanischen evangelischen Gottesdienst gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.973723,
+                        -36.71208
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal de Chile",
+                  "text": "Die Iglesia Pentecostal de Chile betreibt diesen lokalen Tempel in Puerto Lirquén, um ihren christlichen Anhängern zu dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.975604,
+                        -36.710491
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal",
+                  "text": "Diese pfingstchristliche Kirche in Puerto Lirquén lädt die Gemeinde zu ihren lebendigen, geistlicherfüllten Gottesdiensten ein.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.972726,
+                        -36.70995
+                  ]
+            },
+            {
+                  "name": "Iglesia: Metodista Pentescostal de Chile",
+                  "text": "Ein lokaler Versammlungsraum für die Methodistische Pfingstkirche von Chile, der die christlichen Gemeinschaftsbande in Puerto Lirquén fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.971756,
+                        -36.711003
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Lirquén",
+                  "text": "Die Kirche der Siebenten-Tags-Adventisten in Puerto Lirquén veranstaltet samstägliche Gottesdienste und christliche Gesundheitsseminare.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.972804,
+                        -36.712608
+                  ]
+            },
+            {
+                  "name": "Cristo Reino",
+                  "text": "Cristo Reino ist eine christliche Kirche in Puerto Lirquén, die das Königtum Christi durch gemeinsames Gebet feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.994105,
+                        -36.736401
+                  ]
+            },
+            {
+                  "name": "Remanente Adventista",
+                  "text": "Remanente Adventista ist eine christliche Gemeinde in Puerto Lirquén, die adventistische Theologie und Bibelstudium betont.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.992274,
+                        -36.737758
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Diese lokale katholische Pfarrei in Puerto Lirquén organisiert tägliche Messen und Gemeindearbeit für christliche Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.995928,
+                        -36.740036
+                  ]
+            },
+            {
+                  "name": "Misión Evangelica Wesleyana",
+                  "text": "Die Misión Evangélica Wesleyana ist eine christliche Gemeinde in Puerto Lirquén, die auf den theologischen Lehren von John Wesley gründet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991101,
+                        -36.736731
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista de Chile",
+                  "text": "Diese methodistische christliche Kirche in puerto-lirquen-economic-v2 ist ein religiöses Zentrum für die Gläubigen der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991772,
+                        -36.742596
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Rey",
+                  "text": "Die christliche Pfarrei Cristo Rey in puerto-lirquen-economic-v2 bietet Gottesdienste für die lokale Kirchengemeinde an.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.955561,
+                        -36.633269
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "Als evangelische Pfingstkirche in puerto-lirquen-economic-v2 ist dieses Gebäude ein Ort der christlichen Anbetung.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.974454,
+                        -36.710755
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses christliche Gotteshaus der Heiligen der Letzten Tage befindet sich in puerto-lirquen-economic-v2 und dient den Gemeindemitgliedern.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.997467,
+                        -36.737934
+                  ]
+            },
+            {
+                  "name": "Parroquia de Penco",
+                  "text": "Diese lokale christliche Pfarrei in puerto-lirquen-economic-v2 ist ein zentraler Treffpunkt für Gemeindegottesdienste in Penco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.993096,
+                        -36.739555
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Parra",
+                  "text": "Dieser Aussichtspunkt in puerto-lirquen-economic-v2 bietet einen weiten Blick über die Sandstrände und das Wasser der Punta de Parra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.971356,
+                        -36.658823
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Cementerio",
+                  "text": "Dieses städtische Feuchtgebietsschutzzentrum in puerto-lirquen-economic-v2, das 2024 als Naturschutzgebiet ausgewiesen wurde, bewahrt die lokale Biodiversität nahe dem Friedhof.",
+                  "category": "natural",
+                  "coords": [
+                        -73.019149,
+                        -36.774178
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Playa Negra II",
+                  "text": "Dieses 2026 ausgewiesene städtische Feuchtgebietsreservat in puerto-lirquen-economic-v2 schützt das empfindliche Küstenökosystem an der Playa Negra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.016041,
+                        -36.753196
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Playa Negra I",
+                  "text": "Das Naturschutzgebiet Playa Negra I in puerto-lirquen-economic-v2, dessen Schutzstatus 2026 begann, bewahrt ein wichtiges städtisches Feuchtgebiet an der Küste.",
+                  "category": "natural",
+                  "coords": [
+                        -73.01529,
+                        -36.748494
+                  ]
+            },
+            {
+                  "name": "Playa Bellavista",
+                  "text": "Dieser Sandstrand in puerto-lirquen-economic-v2 lädt Besucher dazu ein, am Ufer zu entspannen und den Blick auf den Pazifischen Ozean zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.957124,
+                        -36.633524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuerte La Planchada",
+                  "text": "A Fuerte La Planchada egy műemlékké nyilvánított erőd Puerto Lirquénben, amely megőrizte a partvidék gyarmati katonai építészetét.",
+                  "category": "fortress",
+                  "coords": [
+                        -72.996026,
+                        -36.736606
+                  ]
+            },
+            {
+                  "name": "Bahía de Concepción",
+                  "text": "A Concepción-öböl egy jelentős természetes kikötő Puerto Lirquén közelében, amely kiterjedt tengeri forgalmáról és festői tengerparti kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.033971,
+                        -36.662756
+                  ]
+            },
+            {
+                  "name": "Sitio RHRAP Playa Isla de los Reyes Rocuant",
+                  "text": "A 2023-ban természetvédelmi területté nyilvánított Isla de lo Reyes Rocuant Beach WHSRN terület a vonuló partimadarak létfontosságú élőhelyeit védi.",
+                  "category": "natural",
+                  "coords": [
+                        -73.042938,
+                        -36.736167
+                  ]
+            },
+            {
+                  "name": "Playa Negra",
+                  "text": "A Playa Negra egy jellegzetes tengerparti strand Puerto Lirquénben, amely az öböl mentén található egyedülállóan sötét homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.002966,
+                        -36.737293
+                  ]
+            },
+            {
+                  "name": "Museo de la Historia de Penco",
+                  "text": "A Museo de la Historia de Penco olyan történelmi leleteket állít ki, amelyek Puerto Lirquén és Penco regionális fejlődését és tengerészeti örökségét követik nyomon.",
+                  "category": "museum",
+                  "coords": [
+                        -72.994864,
+                        -36.738742
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional Estableciendo el Reino",
+                  "text": "A Ministerio Internacional Estableciendo el Reino egy istentiszteleti hely Puerto Lirquénben, amely rendszeres szertartásokat kínál a helyi közösségnek.",
+                  "category": "religious",
+                  "coords": [
+                        -72.984458,
+                        -36.727971
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Ez a szerény helyi kápolna Puerto Lirquénben a környékbeli imádságok és vallási szertartások gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -72.949779,
+                        -36.639993
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Wesleyana",
+                  "text": "A Puerto Lirquén-i Iglesia Misión Evangélica Wesleyana egy keresztény gyülekezet, amely a wesleyánus teológiai hagyományokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.953289,
+                        -36.631658
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Emanuel de Bellavista",
+                  "text": "A Puerto Lirquén Bellavista negyedében található Iglesia Evangélica Emanuel keresztény evangéliumi istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.954653,
+                        -36.633543
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Nuevo Pacto",
+                  "text": "Az Iglesia Pentecostal Nuevo Pacto egy pünkösdi keresztény templom Puerto Lirquénben, amelyet élénk zenei istentiszteletek jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.950415,
+                        -36.637413
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile",
+                  "text": "A Chilei Metodista Pünkösdi Egyház részeként ez a Puerto Lirquén-i gyülekezet buzgó keresztény imára gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.950081,
+                        -36.63625
+                  ]
+            },
+            {
+                  "name": "Templo Evangélico Wesleyand",
+                  "text": "A Templo Evangélico Wesleyand egy keresztény templom Puerto Lirquénben, amelyet a wesleyánus evangéliumi istentiszteleteknek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.973723,
+                        -36.71208
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal de Chile",
+                  "text": "Az Iglesia Pentecostal de Chile ezt a helyi templomot működteti Puerto Lirquénben, hogy szolgálja keresztény híveit.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.975604,
+                        -36.710491
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal",
+                  "text": "Ez a Puerto Lirquén-i pünkösdi keresztény templom élénk, lélekkel teli istentiszteleteire hívja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.972726,
+                        -36.70995
+                  ]
+            },
+            {
+                  "name": "Iglesia: Metodista Pentescostal de Chile",
+                  "text": "A Chilei Metodista Pünkösdi Egyház helyi gyülekezeti tere, amely a keresztény közösségi kötelékeket ápolja Puerto Lirquénben.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.971756,
+                        -36.711003
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Lirquén",
+                  "text": "A Puerto Lirquén-i Hetednapi Adventista Egyház szombati istentiszteleteknek és keresztény egészségügyi szemináriumoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.972804,
+                        -36.712608
+                  ]
+            },
+            {
+                  "name": "Cristo Reino",
+                  "text": "A Cristo Reino egy keresztény templom Puerto Lirquénben, amely Krisztus királyságát ünnepli közös imádságon keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.994105,
+                        -36.736401
+                  ]
+            },
+            {
+                  "name": "Remanente Adventista",
+                  "text": "A Remanente Adventista egy keresztény gyülekezet Puerto Lirquénben, amely az adventista teológiát és a bibliatanulmányozást hangsúlyozza.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.992274,
+                        -36.737758
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Ez a helyi katolikus plébánia Puerto Lirquénben napi miséket és közösségi programokat szervez a keresztény hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.995928,
+                        -36.740036
+                  ]
+            },
+            {
+                  "name": "Misión Evangelica Wesleyana",
+                  "text": "A Misión Evangélica Wesleyana egy keresztény gyülekezet Puerto Lirquénben, amely John Wesley teológiai tanításain alapul.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991101,
+                        -36.736731
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista de Chile",
+                  "text": "Ez a puerto-lirquen-economic-v2-ben működő chilei metodista templom a helyi keresztény hívők vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991772,
+                        -36.742596
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Rey",
+                  "text": "A puerto-lirquen-economic-v2-ben található Krisztus Király keresztény plébánia a helyi közösség hitéletének fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.955561,
+                        -36.633269
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "Ez a puerto-lirquen-economic-v2-ben található evangéliumi pünkösdi gyülekezet egy keresztény istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.974454,
+                        -36.710755
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a puerto-lirquen-economic-v2-ben található mormon keresztény istentiszteleti hely az egyházközség tagjait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.997467,
+                        -36.737934
+                  ]
+            },
+            {
+                  "name": "Parroquia de Penco",
+                  "text": "Ez a helyi keresztény plébánia puerto-lirquen-economic-v2-ben fontos találkozóhelye Penco közösségi istentiszteleteinek.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.993096,
+                        -36.739555
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Parra",
+                  "text": "Ez a puerto-lirquen-economic-v2-ben található kilátópont széles panorámát nyújt a Punta de Parra homokos partjaira és vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -72.971356,
+                        -36.658823
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Cementerio",
+                  "text": "Ezt a puerto-lirquen-economic-v2-ben található, temetőhöz közeli városi vizes élőhelyet 2024-ben nyilvánították természetvédelmi területté a helyi biodiverzitás megőrzése érdekében.",
+                  "category": "natural",
+                  "coords": [
+                        -73.019149,
+                        -36.774178
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Playa Negra II",
+                  "text": "Ez a 2026-ban védetté nyilvánított, puerto-lirquen-economic-v2-ben fekvő városi vizes élőhely a Playa Negra érzékeny tengerparti ökoszisztémáját óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -73.016041,
+                        -36.753196
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Playa Negra I",
+                  "text": "A puerto-lirquen-economic-v2-ben található Playa Negra I természetvédelmi terület, amely 2026 óta élvez védelmet, egy fontos városi parti vizes élőhelyet őriz.",
+                  "category": "natural",
+                  "coords": [
+                        -73.01529,
+                        -36.748494
+                  ]
+            },
+            {
+                  "name": "Playa Bellavista",
+                  "text": "Ez a puerto-lirquen-economic-v2-ben található homokos strand a tengerparti pihenés és a Csendes-óceánra nyíló kilátás élvezetének helyszíne.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.957124,
+                        -36.633524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuerte La Planchada",
+                  "text": "Fuerte La Planchada este un fort de patrimoniu din Puerto Lirquén, care păstrează arhitectura militară colonială pe coastă.",
+                  "category": "fortress",
+                  "coords": [
+                        -72.996026,
+                        -36.736606
+                  ]
+            },
+            {
+                  "name": "Bahía de Concepción",
+                  "text": "Golful Concepcion este un port natural major lângă Puerto Lirquén, cunoscut pentru traficul maritim intens și priveliștile de coastă pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.033971,
+                        -36.662756
+                  ]
+            },
+            {
+                  "name": "Sitio RHRAP Playa Isla de los Reyes Rocuant",
+                  "text": "Desemnat ca rezervație naturală în 2023, site-ul WHSRN Isla de lo Reyes Rocuant Beach protejează habitatele vitale pentru păsările de țărm migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        -73.042938,
+                        -36.736167
+                  ]
+            },
+            {
+                  "name": "Playa Negra",
+                  "text": "Playa Negra este o plajă de coastă distinctivă în Puerto Lirquén, remarcată pentru nisipurile sale întunecate unice de-a lungul golfului.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.002966,
+                        -36.737293
+                  ]
+            },
+            {
+                  "name": "Museo de la Historia de Penco",
+                  "text": "Museo de la Historia de Penco expune artefacte istorice care urmăresc dezvoltarea regională și moștenirea maritimă a orașelor Puerto Lirquén și Penco.",
+                  "category": "museum",
+                  "coords": [
+                        -72.994864,
+                        -36.738742
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional Estableciendo el Reino",
+                  "text": "Ministerio Internacional Estableciendo el Reino este un lăcaș de cult din Puerto Lirquén, oferind servicii religioase regulate comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        -72.984458,
+                        -36.727971
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Această capelă locală modestă din Puerto Lirquén servește ca loc de adunare pentru rugăciunile din cartier și ceremoniile religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -72.949779,
+                        -36.639993
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Wesleyana",
+                  "text": "Iglesia Misión Evangélica Wesleyana din Puerto Lirquén este o congregație creștină care se concentrează pe tradițiile teologice wesleyane.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.953289,
+                        -36.631658
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Emanuel de Bellavista",
+                  "text": "Situată în zona Bellavista din Puerto Lirquén, Iglesia Evangélica Emanuel găzduiește slujbe creștine evanghelice.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.954653,
+                        -36.633543
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Nuevo Pacto",
+                  "text": "Iglesia Pentecostal Nuevo Pacto este o biserică creștină penticostală din Puerto Lirquén, marcată de un cult muzical vibrant.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.950415,
+                        -36.637413
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile",
+                  "text": "Ca parte a Bisericii Metodiste Penticostale din Chile, această congregație din Puerto Lirquén se adună pentru rugăciune creștină ferventă.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.950081,
+                        -36.63625
+                  ]
+            },
+            {
+                  "name": "Templo Evangélico Wesleyand",
+                  "text": "Templo Evangélico Wesleyand este un templu creștin din Puerto Lirquén dedicat cultului evanghelic wesleyan.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.973723,
+                        -36.71208
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal de Chile",
+                  "text": "Iglesia Pentecostal de Chile operează acest templu local din Puerto Lirquén pentru a-și servi adepții creștini.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.975604,
+                        -36.710491
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal",
+                  "text": "Această biserică creștină penticostală din Puerto Lirquén invită comunitatea la slujbele sale pline de viață și spiritualitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.972726,
+                        -36.70995
+                  ]
+            },
+            {
+                  "name": "Iglesia: Metodista Pentescostal de Chile",
+                  "text": "Un spațiu local de adunare pentru Biserica Metodistă Penticostală din Chile, promovând legăturile comunității creștine în Puerto Lirquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.971756,
+                        -36.711003
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Lirquén",
+                  "text": "Biserica Adventistă de Ziua a Șaptea din Puerto Lirquén găzduiește slujbe de sâmbătă și seminarii creștine de sănătate.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.972804,
+                        -36.712608
+                  ]
+            },
+            {
+                  "name": "Cristo Reino",
+                  "text": "Cristo Reino este o biserică creștină din Puerto Lirquén care sărbătorește regalitatea lui Hristos prin rugăciune comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.994105,
+                        -36.736401
+                  ]
+            },
+            {
+                  "name": "Remanente Adventista",
+                  "text": "Remanente Adventista este o congregație creștină din Puerto Lirquén care subliniază teologia adventistă și studiul biblic.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.992274,
+                        -36.737758
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Această parohie catolică locală din Puerto Lirquén organizează slujbe zilnice și activități comunitare pentru credincioșii creștini.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.995928,
+                        -36.740036
+                  ]
+            },
+            {
+                  "name": "Misión Evangelica Wesleyana",
+                  "text": "Misión Evangélica Wesleyana este o congregație creștină din Puerto Lirquén bazată pe învățăturile teologice ale lui John Wesley.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991101,
+                        -36.736731
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista de Chile",
+                  "text": "Această biserică metodistă creștină din puerto-lirquen-economic-v2 este un centru religios pentru credincioșii din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991772,
+                        -36.742596
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Rey",
+                  "text": "Parohia creștină Cristo Rey din puerto-lirquen-economic-v2 oferă slujbe pentru comunitatea bisericească locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.955561,
+                        -36.633269
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "Această biserică evanghelică penticostală din puerto-lirquen-economic-v2 este un loc de închinare creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.974454,
+                        -36.710755
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de cult creștină a Sfinților din Zilele din Urmă este situată în puerto-lirquen-economic-v2 și servește membrilor congregației.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.997467,
+                        -36.737934
+                  ]
+            },
+            {
+                  "name": "Parroquia de Penco",
+                  "text": "Această parohie creștină locală din puerto-lirquen-economic-v2 este un loc de întâlnire central pentru slujbele comunității din Penco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.993096,
+                        -36.739555
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Parra",
+                  "text": "Acest punct de belvedere din puerto-lirquen-economic-v2 oferă o priveliște largă asupra plajelor de nisip și a apelor din Punta de Parra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.971356,
+                        -36.658823
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Cementerio",
+                  "text": "Această rezervație naturală de zonă umedă urbană din puerto-lirquen-economic-v2, recunoscută oficial în 2024, protejează biodiversitatea locală din apropierea cimitirului.",
+                  "category": "natural",
+                  "coords": [
+                        -73.019149,
+                        -36.774178
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Playa Negra II",
+                  "text": "Această rezervație de zonă umedă urbană din puerto-lirquen-economic-v2, fondată în 2026, protejează ecosistemul fragil de coastă de la Playa Negra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.016041,
+                        -36.753196
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Playa Negra I",
+                  "text": "Rezervația naturală Playa Negra I din puerto-lirquen-economic-v2, protejată începând cu 2026, conservă o importantă zonă umedă urbană de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -73.01529,
+                        -36.748494
+                  ]
+            },
+            {
+                  "name": "Playa Bellavista",
+                  "text": "Această plajă de nisip din puerto-lirquen-economic-v2 invită vizitatorii să se relaxeze pe mal și să se bucure de priveliștile Oceanului Pacific.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.957124,
+                        -36.633524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fuerte La Planchada",
+                  "text": "Fuerte La Planchada is a designated heritage fort in Puerto Lirquén, preserving colonial military architecture on the coast.",
+                  "category": "fortress",
+                  "coords": [
+                        -72.996026,
+                        -36.736606
+                  ]
+            },
+            {
+                  "name": "Bay of Concepcion",
+                  "text": "The Bay of Concepcion is a major natural harbor near Puerto Lirquén, known for its extensive maritime traffic and scenic coastal views.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.033971,
+                        -36.662756
+                  ]
+            },
+            {
+                  "name": "Isla de lo Reyes Rocuant Beach WHSRN Site",
+                  "text": "Designated as a nature reserve in 2023, the Isla de lo Reyes Rocuant Beach WHSRN Site protects vital habitats for migratory shorebirds.",
+                  "category": "natural",
+                  "coords": [
+                        -73.042938,
+                        -36.736167
+                  ]
+            },
+            {
+                  "name": "Playa Negra",
+                  "text": "Playa Negra is a distinctive coastal beach in Puerto Lirquén, noted for its uniquely dark sands along the bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.002966,
+                        -36.737293
+                  ]
+            },
+            {
+                  "name": "Museo de la Historia de Penco",
+                  "text": "The Museo de la Historia de Penco exhibits historical artifacts tracing the regional development and maritime heritage of Puerto Lirquén and Penco.",
+                  "category": "museum",
+                  "coords": [
+                        -72.994864,
+                        -36.738742
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional Estableciendo el Reino",
+                  "text": "Ministerio Internacional Estableciendo el Reino is a place of worship in Puerto Lirquén, offering regular religious services to the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -72.984458,
+                        -36.727971
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "This modest local chapel in Puerto Lirquén serves as a gathering place for neighborhood prayer and religious ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        -72.949779,
+                        -36.639993
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Wesleyana",
+                  "text": "The Iglesia Misión Evangélica Wesleyana in Puerto Lirquén is a Christian congregation focusing on Wesleyan theological traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.953289,
+                        -36.631658
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Emanuel de Bellavista",
+                  "text": "Located in the Bellavista area of Puerto Lirquén, the Iglesia Evangélica Emanuel hosts Christian evangelical services.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.954653,
+                        -36.633543
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Nuevo Pacto",
+                  "text": "Iglesia Pentecostal Nuevo Pacto is a Pentecostal Christian church in Puerto Lirquén, marked by its vibrant musical worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.950415,
+                        -36.637413
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile",
+                  "text": "As part of the Methodist Pentecostal Church of Chile, this congregation in Puerto Lirquén gathers for fervent Christian prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.950081,
+                        -36.63625
+                  ]
+            },
+            {
+                  "name": "Templo Evangélico Wesleyand",
+                  "text": "Templo Evangélico Wesleyand is a Christian temple in Puerto Lirquén dedicated to Wesleyan evangelical worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.973723,
+                        -36.71208
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal de Chile",
+                  "text": "The Iglesia Pentecostal de Chile operates this local temple in Puerto Lirquén to serve its Christian followers.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.975604,
+                        -36.710491
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal",
+                  "text": "This Pentecostal Christian church in Puerto Lirquén invites the community to its lively, spirit-filled services.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.972726,
+                        -36.70995
+                  ]
+            },
+            {
+                  "name": "Iglesia: Metodista Pentescostal de Chile",
+                  "text": "A local gathering space for the Methodist Pentecostal Church of Chile, fostering Christian community bonds in Puerto Lirquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.971756,
+                        -36.711003
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día - Lirquén",
+                  "text": "The Seventh-day Adventist Church in Puerto Lirquén hosts Saturday worship services and Christian health seminars.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.972804,
+                        -36.712608
+                  ]
+            },
+            {
+                  "name": "Cristo Reino",
+                  "text": "Cristo Reino is a Christian church in Puerto Lirquén celebrating the kingship of Christ through communal prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.994105,
+                        -36.736401
+                  ]
+            },
+            {
+                  "name": "Remanente Adventista",
+                  "text": "Remanente Adventista is a Christian congregation in Puerto Lirquén emphasizing Adventist theology and biblical study.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.992274,
+                        -36.737758
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "This local Catholic parish in Puerto Lirquén organizes daily mass and community outreach for Christian believers.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.995928,
+                        -36.740036
+                  ]
+            },
+            {
+                  "name": "Misión Evangelica Wesleyana",
+                  "text": "Misión Evangélica Wesleyana is a Christian congregation in Puerto Lirquén grounded in the theological teachings of John Wesley.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991101,
+                        -36.736731
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista de Chile",
+                  "text": "This Methodist Christian church in puerto-lirquen-economic-v2 is a religious center for the region's faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.991772,
+                        -36.742596
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Rey",
+                  "text": "The Cristo Rey Christian parish in puerto-lirquen-economic-v2 provides religious services for the local church community.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.955561,
+                        -36.633269
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "Serving as an Evangelical Pentecostal church in puerto-lirquen-economic-v2, this building is a Christian place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.974454,
+                        -36.710755
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-Day Saints",
+                  "text": "This Christian meetinghouse of the Latter-Day Saints is located in puerto-lirquen-economic-v2 and serves the congregation's members.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.997467,
+                        -36.737934
+                  ]
+            },
+            {
+                  "name": "Parroquia de Penco",
+                  "text": "This local Christian parish in puerto-lirquen-economic-v2 is a central gathering point for Penco's community worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.993096,
+                        -36.739555
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Parra",
+                  "text": "This viewpoint in puerto-lirquen-economic-v2 offers sweeping views over the sandy shores and waters of Punta de Parra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.971356,
+                        -36.658823
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Cementerio",
+                  "text": "Designated as a nature reserve in 2024, this urban wetland area in puerto-lirquen-economic-v2 preserves local biodiversity near the cemetery.",
+                  "category": "natural",
+                  "coords": [
+                        -73.019149,
+                        -36.774178
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Playa Negra II",
+                  "text": "Established as a nature reserve in 2026, this urban wetland in puerto-lirquen-economic-v2 protects the fragile coastal ecosystem at Playa Negra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.016041,
+                        -36.753196
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Playa Negra I",
+                  "text": "Receiving its protected status in 2026, the Playa Negra I nature reserve in puerto-lirquen-economic-v2 conserves a vital coastal urban wetland.",
+                  "category": "natural",
+                  "coords": [
+                        -73.01529,
+                        -36.748494
+                  ]
+            },
+            {
+                  "name": "Playa Bellavista",
+                  "text": "This sandy beach in puerto-lirquen-economic-v2 invites visitors to relax along the shore and enjoy views of the Pacific Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.957124,
+                        -36.633524
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-BI",
     coords: [-72.9752, -36.7138],
@@ -178,7 +3769,196 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Situé dans la baie de Concepción.", "Important centre de transbordement privé."],
     }, image: "/poi-images/puerto-lirquen-economic-v2.webp"},
   {
-    id: "puerto-san-vicente-economic-v2",
+    id: "puerto-san-vicente-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bahía de San Vicente",
+                  "text": "Diese durch die Halbinsel Tumbes geschützte Bucht beherbergt einen der wichtigsten Industriehäfen Chiles.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.158173,
+                        -36.741453
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica ( Pastor Jimmy)",
+                  "text": "Eine evangelische Kirche im Hafenviertel von San Vicente, die von der lokalen Gemeinde unter Pastor Jimmy geführt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.147116,
+                        -36.720191
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Diese katholische Pfarrkirche befindet sich in unmittelbarer Nähe zum geschäftigen Hafenbetrieb von San Vicente.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.10638,
+                        -36.740035
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica",
+                  "text": "Eine katholische Kirche im urbanen Zentrum von San Vicente, bekannt für ihre schlichte maritime Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.134602,
+                        -36.712683
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein mormonisches Gemeindehaus in San Vicente mit der typisch modernen und funktionalen Architektur dieser Konfession.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.129345,
+                        -36.714952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bahía de San Vicente",
+                  "text": "A Tumbes-félsziget által védett öböl, amely Chile egyik legfontosabb ipari kikötőjének ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.158173,
+                        -36.741453
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica ( Pastor Jimmy)",
+                  "text": "San Vicente kikötői negyedében található evangélikus templom, amelyet a helyi közösség látogat.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.147116,
+                        -36.720191
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Katolikus plébániatemplom San Vicente nyüzsgő kikötőjének közvetlen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.10638,
+                        -36.740035
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica",
+                  "text": "San Vicente városközpontjában álló katolikus templom, amely egyszerű tengerparti építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.134602,
+                        -36.712683
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Mormon imaház San Vicentében, a felekezetre jellemző modern és funkcionális építészeti stílusban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.129345,
+                        -36.714952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bahía de San Vicente",
+                  "text": "Acest golf protejat de peninsula Tumbes găzduiește unul dintre cele mai importante porturi industriale din Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.158173,
+                        -36.741453
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica ( Pastor Jimmy)",
+                  "text": "O biserică evanghelică din districtul portuar San Vicente, condusă de comunitatea locală a pastorului Jimmy.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.147116,
+                        -36.720191
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Această parohie catolică se află în imediata apropiere a activităților portuare agitate din San Vicente.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.10638,
+                        -36.740035
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica",
+                  "text": "O biserică catolică din centrul urban San Vicente, cunoscută pentru arhitectura sa maritimă simplă.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.134602,
+                        -36.712683
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de cult mormonă din San Vicente, cu arhitectura modernă și funcțională specifică acestei confesiuni.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.129345,
+                        -36.714952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahía de San Vicente",
+                  "text": "Sheltered by the Tumbes Peninsula, this bay hosts one of Chile's most important industrial ports.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.158173,
+                        -36.741453
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica ( Pastor Jimmy)",
+                  "text": "An evangelical church in the port district of San Vicente, led by the local community under Pastor Jimmy.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.147116,
+                        -36.720191
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "This Catholic parish church is located in close proximity to the bustling port operations of San Vicente.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.10638,
+                        -36.740035
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica",
+                  "text": "A Catholic church in the urban center of San Vicente, known for its simple maritime architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.134602,
+                        -36.712683
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-Day Saints",
+                  "text": "A Mormon meetinghouse in San Vicente featuring the denomination's typically modern and functional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.129345,
+                        -36.714952
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-BI",
     coords: [-73.1360, -36.7275],
@@ -236,7 +4016,844 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Fait partie du complexe portuaire de Talcahuano.", "Dispose de postes d'amarrage profonds."],
     }, image: "/poi-images/puerto-san-vicente-economic-v2.webp"},
   {
-    id: "puerto-ventanas-economic-v2",
+    id: "puerto-ventanas-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parapente Aire Libre",
+                  "text": "Eine Abenteuerattraktion, die aufregende Gleitschirmflüge mit weitem Blick über die Küste aus der Vogelperspektive bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.441859,
+                        -32.677824
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Melinka-Puchuncaví",
+                  "text": "Dieses Standortmuseum in Puchuncaví bewahrt die historische Erinnerung an das ehemalige Internierungslager Melinka.",
+                  "category": "museum",
+                  "coords": [
+                        -71.407579,
+                        -32.72011
+                  ]
+            },
+            {
+                  "name": "Geositio Ventana de Horcón",
+                  "text": "Ein markanter Aussichtspunkt an der Küste mit einem natürlichen geologischen Bogen oder 'Fenster', das vom Meer in die felsigen Klippen gehauen wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49338,
+                        -32.708465
+                  ]
+            },
+            {
+                  "name": "San Pedro",
+                  "text": "Ein prominenter Aussichtspunkt an der Küste, benannt nach dem Schutzpatron der Fischer, der einen weiten Blick auf die örtlichen Fischerbuchten und das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.489698,
+                        -32.708663
+                  ]
+            },
+            {
+                  "name": "Playa El Clarón",
+                  "text": "Ein entspannendes Strandresort, das für sein klares Wasser und seine komfortablen Annehmlichkeiten an der Küste entlang der Bucht bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487815,
+                        -32.71079
+                  ]
+            },
+            {
+                  "name": "Ruinas Muelle",
+                  "text": "Ein stimmungsvoller Aussichtspunkt an der Küste mit Blick auf die verwitterten Ruinen eines alten See-Piers, der in die Brandung ragt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.485529,
+                        -32.713768
+                  ]
+            },
+            {
+                  "name": "Mirador de Los Tebos",
+                  "text": "Ein malerischer Aussichtspunkt, der einen hervorragenden Panoramablick auf die abgelegenen Sandstrände von El Tebo und die felsige Küste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.471347,
+                        -32.71249
+                  ]
+            },
+            {
+                  "name": "Playa Luna",
+                  "text": "Ein hoher Aussichtspunkt, der weite, malerische Perspektiven über die umliegenden Küstenklippen und den Strand bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.460452,
+                        -32.700807
+                  ]
+            },
+            {
+                  "name": "Playa Corral de los Perros",
+                  "text": "Ein rauer, relativ wenig besuchter Küstenabschnitt, der von natürlichen Felsformationen und Meereswellen umrahmt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.454104,
+                        -32.692569
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural de Puchuncaví",
+                  "text": "Ein Naturkundemuseum im Küstengebiet, in dem Exponate aufbewahrt werden, die die lokale Umwelt und ihre Entwicklung im Laufe der Zeit detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        -71.416663,
+                        -32.729968
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Los Maitenes - Campiche",
+                  "text": "Dieses städtische Feuchtgebiet wurde 2021 als Schutzgebiet ausgewiesen und bietet einen wichtigen Zufluchtsort für die lokale Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -71.452839,
+                        -32.748932
+                  ]
+            },
+            {
+                  "name": "Playa Larga de Horcón",
+                  "text": "Eine ausgedehnte Strecke mit dunklem Sand entlang der Küste in der Nähe des traditionellen Fischerdorfes Horcón.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.471983,
+                        -32.711458
+                  ]
+            },
+            {
+                  "name": "Playa Aguas Blancas",
+                  "text": "Ein beliebter Sandstrand, der sich durch sein 'weißes Wasser' und hervorragende Bedingungen für Strandspaziergänge auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.443254,
+                        -32.672363
+                  ]
+            },
+            {
+                  "name": "Playa El Barco",
+                  "text": "Ein malerischer Küstenort, bekannt als 'Das Schiff', mit interessanten Felsformationen und krachenden Pazifikwellen.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.452446,
+                        -32.690303
+                  ]
+            },
+            {
+                  "name": "Humedales Urbanos de Quirilluca",
+                  "text": "Diese städtischen Feuchtgebiete wurden 2021 offiziell ausgewiesen und schützen wichtige ökologische Korridore an der Küste.",
+                  "category": "natural",
+                  "coords": [
+                        -71.431672,
+                        -32.725392
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Eine geschwungene Sandbucht in der Gegend von Ventanas, die weite Ausblicke auf den Pazifischen Ozean bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487204,
+                        -32.74405
+                  ]
+            },
+            {
+                  "name": "Club El Tebo",
+                  "text": "Ein exklusiver Badeort-Komplex, der privaten Zugang zur Küste und Freizeiteinrichtungen entlang eines abgelegenen Strandes bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.500751,
+                        -32.725184
+                  ]
+            },
+            {
+                  "name": "Playa El Tebo",
+                  "text": "Eine ruhige, geschützte Bucht, die sich durch weichen Sand und sanfte pazifische Gewässer auszeichnet, umrahmt von felsigen Landzungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.502822,
+                        -32.725777
+                  ]
+            },
+            {
+                  "name": "Playa Cau Cau",
+                  "text": "Ein beliebter und malerischer Strand, der von einer üppigen, mit Kiefern bewachsenen Umgebung eingeschlossen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.495813,
+                        -32.710214
+                  ]
+            },
+            {
+                  "name": "Playa de Horcón",
+                  "text": "Ein lebendiger Küstenstreifen direkt an der handwerklichen Fischerbucht von Horcón, übersät mit bunten Booten.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.490672,
+                        -32.709221
+                  ]
+            },
+            {
+                  "name": "Playa Quirilluca",
+                  "text": "Ein markanter Naturstrand am Fuße dramatischer, hoher Klippen, der als Nistplatz für Küstenseevögel bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.458345,
+                        -32.697671
+                  ]
+            },
+            {
+                  "name": "Playa Las Ágatas",
+                  "text": "Eine kleine, malerische Küstenbucht, die für die glatten, bunten Kieselsteine und Achate bekannt ist, die an ihrem Ufer zu finden sind.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.456271,
+                        -32.694562
+                  ]
+            },
+            {
+                  "name": "Iglesia de Puchuncaví",
+                  "text": "Die wichtigste christliche Kirche von Puchuncaví, die als zentraler spiritueller Mittelpunkt für die Gläubigen der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.415108,
+                        -32.726716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parapente Aire Libre",
+                  "text": "Kalandvágyóknak szóló látványosság, amely izgalmas siklóernyős repüléseket kínál a partvonal csodálatos légi panorámájával.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.441859,
+                        -32.677824
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Melinka-Puchuncaví",
+                  "text": "Ez a Puchuncavíban található helytörténeti múzeum az egykori Melinka fogolytábor történelmi emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -71.407579,
+                        -32.72011
+                  ]
+            },
+            {
+                  "name": "Geositio Ventana de Horcón",
+                  "text": "Lenyűgöző tengerparti kilátópont, ahol egy természetes geológiai ív vagy „ablak” látható, amelyet a tenger vájt a sziklás szirtekbe.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49338,
+                        -32.708465
+                  ]
+            },
+            {
+                  "name": "San Pedro",
+                  "text": "A halászok védőszentjéről elnevezett kiemelkedő tengerparti kilátó, amely lenyűgöző kilátást nyújt a helyi halászöblökre és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.489698,
+                        -32.708663
+                  ]
+            },
+            {
+                  "name": "Playa El Clarón",
+                  "text": "Egy pihentető tengerparti üdülőhely, amely tiszta vizéről és kényelmes, part menti szolgáltatásairól ismert az öböl mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487815,
+                        -32.71079
+                  ]
+            },
+            {
+                  "name": "Ruinas Muelle",
+                  "text": "Hangulatos tengerparti kilátópont, ahonnan kilátás nyílik a hullámverésbe nyúló régi móló viharvert romjaira.",
+                  "category": "natural",
+                  "coords": [
+                        -71.485529,
+                        -32.713768
+                  ]
+            },
+            {
+                  "name": "Mirador de Los Tebos",
+                  "text": "Festői kilátóhely, amely kiváló panorámát nyújt az El Tebo strand eldugott homokjára és a sziklás partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.471347,
+                        -32.71249
+                  ]
+            },
+            {
+                  "name": "Playa Luna",
+                  "text": "Magasan fekvő kilátópont, amely lenyűgöző, festői perspektívát kínál a környező parti sziklákra és a lenti strandra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.460452,
+                        -32.700807
+                  ]
+            },
+            {
+                  "name": "Playa Corral de los Perros",
+                  "text": "Zord, viszonylag ritkán látogatott partszakasz, amelyet természetes sziklaképződmények és óceáni hullámok öveznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.454104,
+                        -32.692569
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural de Puchuncaví",
+                  "text": "Egy természettudományi múzeum a tengerparti övezetben, amely bemutatja a helyi környezetet és annak időbeli fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        -71.416663,
+                        -32.729968
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Los Maitenes - Campiche",
+                  "text": "A 2021-ben védett területté nyilvánított városi vizes élőhely kulcsfontosságú menedéket nyújt a helyi növény- és állatvilág számára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.452839,
+                        -32.748932
+                  ]
+            },
+            {
+                  "name": "Playa Larga de Horcón",
+                  "text": "Hosszú, sötét homokos partszakasz a partvonal mentén, Horcón hagyományos halászfalujának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.471983,
+                        -32.711458
+                  ]
+            },
+            {
+                  "name": "Playa Aguas Blancas",
+                  "text": "Népszerű homokos part, amelyet „fehér vizek” és a parti sétákhoz kiváló feltételek jellemeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.443254,
+                        -32.672363
+                  ]
+            },
+            {
+                  "name": "Playa El Barco",
+                  "text": "A „Hajó” néven ismert festői tengerparti hely, amely érdekes sziklaképződményekkel és becsapódó csendes-óceáni hullámokkal büszkélkedhet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.452446,
+                        -32.690303
+                  ]
+            },
+            {
+                  "name": "Humedales Urbanos de Quirilluca",
+                  "text": "A 2021-ben hivatalosan kijelölt városi vizes élőhelyek fontos ökológiai folyosókat védenek a part mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -71.431672,
+                        -32.725392
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Íves homokos öböl a Ventanas térségben, amely széles kilátást nyújt a Csendes-óceánra.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487204,
+                        -32.74405
+                  ]
+            },
+            {
+                  "name": "Club El Tebo",
+                  "text": "Exkluzív tengerparti üdülőközpont, amely privát part-hozzáférést és szabadidős létesítményeket kínál egy eldugott partszakaszon.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.500751,
+                        -32.725184
+                  ]
+            },
+            {
+                  "name": "Playa El Tebo",
+                  "text": "Nyugodt, védett öböl, amelyet puha homok és szelíd csendes-óceáni vizek jellemeznek, sziklás hegyfokok ölelésében.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.502822,
+                        -32.725777
+                  ]
+            },
+            {
+                  "name": "Playa Cau Cau",
+                  "text": "Népszerű és festői strand, amelyet dús, fenyővel borított környezet vesz körül, és amely pihenésre csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.495813,
+                        -32.710214
+                  ]
+            },
+            {
+                  "name": "Playa de Horcón",
+                  "text": "Nyüzsgő partszakasz közvetlenül Horcón hagyományos halászöble mellett, amelyet színes csónakok pöttyöznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.490672,
+                        -32.709221
+                  ]
+            },
+            {
+                  "name": "Playa Quirilluca",
+                  "text": "Drámai, magas sziklák lábánál megbúvó, lenyűgöző természetes strand, amely a tengeri madarak fészkelőhelyeként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.458345,
+                        -32.697671
+                  ]
+            },
+            {
+                  "name": "Playa Las Ágatas",
+                  "text": "Egy kis, festői tengerparti öböl, amely a partján található sima, színes kavicsokról és achátkövekről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.456271,
+                        -32.694562
+                  ]
+            },
+            {
+                  "name": "Iglesia de Puchuncaví",
+                  "text": "Puchuncaví fő keresztény temploma, amely központi spirituális csomópontként szolgál a város hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.415108,
+                        -32.726716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parapente Aire Libre",
+                  "text": "O atracție de aventură care oferă zboruri palpitante cu parapanta, cu vederi aeriene panoramice ale coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.441859,
+                        -32.677824
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Melinka-Puchuncaví",
+                  "text": "Acest muzeu de sit din Puchuncaví păstrează memoria istorică a fostului centru de detenție Melinka.",
+                  "category": "museum",
+                  "coords": [
+                        -71.407579,
+                        -32.72011
+                  ]
+            },
+            {
+                  "name": "Geositio Ventana de Horcón",
+                  "text": "Un punct de belvedere de coastă izbitor, cu un arc geologic natural sau „fereastră” sculptată în stânci de către mare.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49338,
+                        -32.708465
+                  ]
+            },
+            {
+                  "name": "San Pedro",
+                  "text": "Un punct de belvedere proeminent pe coastă, numit după sfântul patron al pescarilor, oferind vederi panoramice ale golfurilor locale de pescuit și ale mării.",
+                  "category": "natural",
+                  "coords": [
+                        -71.489698,
+                        -32.708663
+                  ]
+            },
+            {
+                  "name": "Playa El Clarón",
+                  "text": "O stațiune balneară relaxantă, cunoscută pentru apele sale limpezi și facilitățile de coastă confortabile de-a lungul golfului.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487815,
+                        -32.71079
+                  ]
+            },
+            {
+                  "name": "Ruinas Muelle",
+                  "text": "Un punct de belvedere de coastă plin de atmosferă cu vedere la ruinele degradate ale unui vechi debarcader maritim care iese în surf.",
+                  "category": "natural",
+                  "coords": [
+                        -71.485529,
+                        -32.713768
+                  ]
+            },
+            {
+                  "name": "Mirador de Los Tebos",
+                  "text": "O perspectivă pitorească care oferă vederi panoramice excelente asupra nisipurilor izolate ale plajei El Tebo și a coastei stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        -71.471347,
+                        -32.71249
+                  ]
+            },
+            {
+                  "name": "Playa Luna",
+                  "text": "Un punct de observație înalt, care oferă perspective pitorești ample asupra stâncilor de coastă din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -71.460452,
+                        -32.700807
+                  ]
+            },
+            {
+                  "name": "Playa Corral de los Perros",
+                  "text": "O porțiune de coastă accidentată, relativ puțin aglomerată, încadrată de formațiuni stâncoase naturale și valuri oceanice.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.454104,
+                        -32.692569
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural de Puchuncaví",
+                  "text": "Un muzeu de istorie naturală din zona de coastă care păstrează exponate ce detaliază mediul local și evoluția sa în timp.",
+                  "category": "museum",
+                  "coords": [
+                        -71.416663,
+                        -32.729968
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Los Maitenes - Campiche",
+                  "text": "Înființată ca zonă protejată în 2021, această zonă umedă urbană oferă un refugiu esențial pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -71.452839,
+                        -32.748932
+                  ]
+            },
+            {
+                  "name": "Playa Larga de Horcón",
+                  "text": "O întindere vastă de nisip închis de-a lungul coastei, situată în apropierea satului tradițional de pescari Horcón.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.471983,
+                        -32.711458
+                  ]
+            },
+            {
+                  "name": "Playa Aguas Blancas",
+                  "text": "Un țărm de nisip popular caracterizat de „apele sale albe” și de condițiile excelente pentru plimbări de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.443254,
+                        -32.672363
+                  ]
+            },
+            {
+                  "name": "Playa El Barco",
+                  "text": "Un loc pitoresc de coastă cunoscut sub numele de „Nava”, cu formațiuni stâncoase interesante și valuri puternice ale Pacificului.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.452446,
+                        -32.690303
+                  ]
+            },
+            {
+                  "name": "Humedales Urbanos de Quirilluca",
+                  "text": "Desemnate oficial în 2021, aceste zone umede urbane protejează coridoare ecologice importante de-a lungul coastei.",
+                  "category": "natural",
+                  "coords": [
+                        -71.431672,
+                        -32.725392
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Un golf de nisip curbat în zona Ventanas, oferind vederi largi ale Oceanului Pacific.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487204,
+                        -32.74405
+                  ]
+            },
+            {
+                  "name": "Club El Tebo",
+                  "text": "Un complex exclusivist de stațiune pe malul mării, oferind acces privat pe coastă și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.500751,
+                        -32.725184
+                  ]
+            },
+            {
+                  "name": "Playa El Tebo",
+                  "text": "Un golf liniștit, adăpostit, caracterizat de nisipurile sale fine și apele blânde ale Pacificului, încadrat de promontorii stâncoase.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.502822,
+                        -32.725777
+                  ]
+            },
+            {
+                  "name": "Playa Cau Cau",
+                  "text": "O plajă populară și pitorească, înconjurată de un mediu luxuriant, acoperit de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.495813,
+                        -32.710214
+                  ]
+            },
+            {
+                  "name": "Playa de Horcón",
+                  "text": "O fâșie de coastă plină de viață chiar lângă golful de pescuit artizanal din Horcón, presărată cu bărci colorate.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.490672,
+                        -32.709221
+                  ]
+            },
+            {
+                  "name": "Playa Quirilluca",
+                  "text": "O plajă naturală izbitoare, amplasată la baza stâncilor înalte dramatice, renumită ca habitat de cuibărire pentru păsările marine de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.458345,
+                        -32.697671
+                  ]
+            },
+            {
+                  "name": "Playa Las Ágatas",
+                  "text": "Un golf mic și pitoresc de coastă, cunoscut pentru pietricelele netede, colorate și pietrele de agat găsite de-a lungul țărmului său.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.456271,
+                        -32.694562
+                  ]
+            },
+            {
+                  "name": "Iglesia de Puchuncaví",
+                  "text": "Principala biserică creștină din Puchuncaví, servind drept centru spiritual central pentru credincioșii orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.415108,
+                        -32.726716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Free Air Paragliding",
+                  "text": "An adventure attraction offering exhilarating paragliding flights with sweeping aerial views of the coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.441859,
+                        -32.677824
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Melinka-Puchuncaví",
+                  "text": "This site museum in Puchuncaví preserves the historical memory of the former Melinka detention center.",
+                  "category": "museum",
+                  "coords": [
+                        -71.407579,
+                        -32.72011
+                  ]
+            },
+            {
+                  "name": "Geositio Ventana de Horcón",
+                  "text": "A striking coastal viewpoint featuring a natural geological arch or 'window' carved into the rocky cliffs by the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -71.49338,
+                        -32.708465
+                  ]
+            },
+            {
+                  "name": "San Pedro",
+                  "text": "A prominent coastal viewpoint named for the patron saint of fishermen, offering sweeping views of the local fishing coves and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -71.489698,
+                        -32.708663
+                  ]
+            },
+            {
+                  "name": "Playa El Clarón",
+                  "text": "A relaxing beach resort known for its clear waters and comfortable coastal amenities along the bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487815,
+                        -32.71079
+                  ]
+            },
+            {
+                  "name": "Ruinas Muelle",
+                  "text": "An atmospheric coastal viewpoint overlooking the weathered ruins of an old maritime pier jutting into the surf.",
+                  "category": "natural",
+                  "coords": [
+                        -71.485529,
+                        -32.713768
+                  ]
+            },
+            {
+                  "name": "Mirador de Los Tebos",
+                  "text": "A scenic overlook providing excellent panoramic views over the secluded sands of El Tebo beach and the rocky coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -71.471347,
+                        -32.71249
+                  ]
+            },
+            {
+                  "name": "Playa Luna",
+                  "text": "A high vantage point offering sweeping scenic perspectives over the surrounding coastal cliffs and the beach below.",
+                  "category": "natural",
+                  "coords": [
+                        -71.460452,
+                        -32.700807
+                  ]
+            },
+            {
+                  "name": "Playa Corral de los Perros",
+                  "text": "A rugged, relatively uncrowded stretch of coastline framed by natural rock formations and ocean waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.454104,
+                        -32.692569
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural de Puchuncaví",
+                  "text": "A natural history museum in the coastal area preserving exhibits that detail the local environment and its evolution over time.",
+                  "category": "museum",
+                  "coords": [
+                        -71.416663,
+                        -32.729968
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Los Maitenes - Campiche",
+                  "text": "Established as a protected area in 2021, this urban wetland provides a crucial refuge for local aquatic flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -71.452839,
+                        -32.748932
+                  ]
+            },
+            {
+                  "name": "Playa Larga de Horcón",
+                  "text": "An expansive stretch of dark sand along the coastline, situated near the traditional fishing village of Horcón.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.471983,
+                        -32.711458
+                  ]
+            },
+            {
+                  "name": "Playa Aguas Blancas",
+                  "text": "A popular sandy shore characterized by its 'white waters' and excellent conditions for coastal strolls.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.443254,
+                        -32.672363
+                  ]
+            },
+            {
+                  "name": "Playa El Barco",
+                  "text": "A picturesque coastal spot known as 'The Ship', featuring interesting rock formations and crashing Pacific waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.452446,
+                        -32.690303
+                  ]
+            },
+            {
+                  "name": "Humedales Urbanos de Quirilluca",
+                  "text": "Officially designated in 2021, these urban wetlands safeguard important ecological corridors and local habitats along the coast.",
+                  "category": "natural",
+                  "coords": [
+                        -71.431672,
+                        -32.725392
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "A sweeping sandy bay in the Ventanas area, offering wide views of the Pacific Ocean and nearby harbor structures.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487204,
+                        -32.74405
+                  ]
+            },
+            {
+                  "name": "Club El Tebo",
+                  "text": "An exclusive seaside resort complex offering private coastal access and leisure facilities along a secluded stretch of shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.500751,
+                        -32.725184
+                  ]
+            },
+            {
+                  "name": "Playa El Tebo",
+                  "text": "A tranquil, sheltered bay characterized by its soft sands and gentle Pacific waters, framed by rocky promontories.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.502822,
+                        -32.725777
+                  ]
+            },
+            {
+                  "name": "Playa Cau Cau",
+                  "text": "A popular and scenic beach enclosed by a lush, pine-covered environment that attracts nature lovers and surfers alike.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.495813,
+                        -32.710214
+                  ]
+            },
+            {
+                  "name": "Playa de Horcón",
+                  "text": "A lively coastal strip right by the artisan fishing cove of Horcón, dotted with colorful boats and small stalls.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.490672,
+                        -32.709221
+                  ]
+            },
+            {
+                  "name": "Playa Quirilluca",
+                  "text": "A striking natural beach nestled at the base of dramatic high cliffs, famous as a nesting habitat for coastal seabirds.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.458345,
+                        -32.697671
+                  ]
+            },
+            {
+                  "name": "Playa Las Ágatas",
+                  "text": "A small, picturesque coastal cove known for the smooth, colorful pebbles and semi-precious agate stones found along its shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.456271,
+                        -32.694562
+                  ]
+            },
+            {
+                  "name": "Iglesia de Puchuncaví",
+                  "text": "The main Christian church of Puchuncaví, serving as a central spiritual hub and architectural landmark for the town's faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.415108,
+                        -32.726716
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-VS",
     coords: [-71.4839, -32.7483],
@@ -294,7 +4911,124 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Port important pour le vrac.", "Situé dans la région de Valparaíso."],
     }, image: "/poi-images/puerto-ventanas-economic-v2.webp"},
   {
-    id: "puerto-angamos-economic-v2",
+    id: "puerto-angamos-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro San Luciano",
+                  "text": "Ein markanter Berggipfel, der sich in der Nähe des Industriehafens von Puerto Angamos erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.496259,
+                        -23.096897
+                  ]
+            },
+            {
+                  "name": "Cerro Tetas de Mejillones",
+                  "text": "Ein markanter Berg mit zwei Gipfeln, der die Landschaft der Halbinsel Mejillones dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.510629,
+                        -23.050898
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Península de Mejillones",
+                  "text": "Ein geschütztes Naturreservat, das die Küstenwüstenlandschaften der Halbinsel Mejillones umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -70.549602,
+                        -23.127911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro San Luciano",
+                  "text": "Kiemelkedő hegycsúcs, amely a Puerto Angamos-i ipari kikötő közelében magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.496259,
+                        -23.096897
+                  ]
+            },
+            {
+                  "name": "Cerro Tetas de Mejillones",
+                  "text": "Egy jellegzetes, kétcsúcsú hegy, amely a Mejillones-félsziget tájképét uralja.",
+                  "category": "natural",
+                  "coords": [
+                        -70.510629,
+                        -23.050898
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Península de Mejillones",
+                  "text": "A Mejillones-félsziget tengerparti sivatagi tájait magában foglaló védett természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -70.549602,
+                        -23.127911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro San Luciano",
+                  "text": "Un vârf montan proeminent care se înalță în apropierea portului industrial Puerto Angamos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.496259,
+                        -23.096897
+                  ]
+            },
+            {
+                  "name": "Cerro Tetas de Mejillones",
+                  "text": "Un munte distinctiv cu două vârfuri care domină peisajul peninsulei Mejillones.",
+                  "category": "natural",
+                  "coords": [
+                        -70.510629,
+                        -23.050898
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Península de Mejillones",
+                  "text": "O rezervație naturală protejată care cuprinde peisajele deșertice de coastă ale peninsulei Mejillones.",
+                  "category": "natural",
+                  "coords": [
+                        -70.549602,
+                        -23.127911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro San Luciano",
+                  "text": "A prominent mountain peak rising near the industrial port of Puerto Angamos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.496259,
+                        -23.096897
+                  ]
+            },
+            {
+                  "name": "Cerro Tetas de Mejillones",
+                  "text": "A distinctive twin-peaked mountain dominating the landscape of the Mejillones peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -70.510629,
+                        -23.050898
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Península de Mejillones",
+                  "text": "A protected natural reserve encompassing the coastal desert landscapes of the Mejillones peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -70.549602,
+                        -23.127911
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-AN",
     coords: [-70.4578, -23.1042],
@@ -353,7 +5087,304 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Terminal portuaire moderne à Mejillones.", "Soutient l'exploitation minière du cuivre."],
     }, image: "/poi-images/puerto-angamos-economic-v2.webp"},
   {
-    id: "puerto-de-mejillones-economic-v2",
+    id: "puerto-de-mejillones-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Guanaya",
+                  "text": "Ein sandiger Küstenstrand, der sich an den Ufern von Puerto de Mejillones befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.44267,
+                        -23.097258
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Angamos",
+                  "text": "Ein Küstenaussichtspunkt mit Panoramablick auf die historische Landzunge Punta Angamos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.508393,
+                        -23.027673
+                  ]
+            },
+            {
+                  "name": "Playa Mejillones",
+                  "text": "Ein langer Sandstrand, der sich entlang der geschützten Bucht von Mejillones erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.455219,
+                        -23.099049
+                  ]
+            },
+            {
+                  "name": "Museo Histórico y Natural de Mejillones \"Raúl Mavrakis Morales\"",
+                  "text": "Ein 1979 gegründetes städtisches Museum, das die lokale Geschichte und das Naturerbe von Mejillones ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.452682,
+                        -23.099964
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Gamelin Guerra",
+                  "text": "Ein städtisches Theater, das als zentraler Veranstaltungsort für kulturelle Aufführungen in Mejillones dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.448477,
+                        -23.101015
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal de Mejillones",
+                  "text": "Ein öffentlicher städtischer Badestrand mit ruhigem Wasser an der Küste von Mejillones.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.452004,
+                        -23.098629
+                  ]
+            },
+            {
+                  "name": "Punta Rieles",
+                  "text": "Ein rauer Strandbereich an einer Küstenspitze in der Nähe von Puerto de Mejillones.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.49969,
+                        -23.046922
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine lokale christliche Kirche, die der Gemeinde in Puerto de Mejillones dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.443492,
+                        -23.099792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Guanaya",
+                  "text": "Homokos tengerparti strand Puerto de Mejillones partjai mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.44267,
+                        -23.097258
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Angamos",
+                  "text": "Tengerparti kilátó, amely panorámás kilátást nyújt a történelmi Punta Angamos fokra.",
+                  "category": "natural",
+                  "coords": [
+                        -70.508393,
+                        -23.027673
+                  ]
+            },
+            {
+                  "name": "Playa Mejillones",
+                  "text": "Hosszú, homokos strand, amely Mejillones védett öble mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.455219,
+                        -23.099049
+                  ]
+            },
+            {
+                  "name": "Museo Histórico y Natural de Mejillones \"Raúl Mavrakis Morales\"",
+                  "text": "Egy 1979-ben alapított városi múzeum, amely Mejillones helytörténetét és természeti örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.452682,
+                        -23.099964
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Gamelin Guerra",
+                  "text": "Városi színház, amely Mejillones kulturális előadásainak központi helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.448477,
+                        -23.101015
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal de Mejillones",
+                  "text": "Nyilvános városi fürdőstrand, amely nyugodt vizet kínál Mejillones partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.452004,
+                        -23.098629
+                  ]
+            },
+            {
+                  "name": "Punta Rieles",
+                  "text": "Különleges tengerparti szakasz egy tengerbe nyúló földnyelven Puerto de Mejillones közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.49969,
+                        -23.046922
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A helyi közösséget szolgáló keresztény templom Puerto de Mejillones-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.443492,
+                        -23.099792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Guanaya",
+                  "text": "O plajă de coastă cu nisip, situată de-a lungul țărmurilor din Puerto de Mejillones.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.44267,
+                        -23.097258
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Angamos",
+                  "text": "Un punct de belvedere de coastă care oferă vedere panoramică asupra promontoriului istoric Punta Angamos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.508393,
+                        -23.027673
+                  ]
+            },
+            {
+                  "name": "Playa Mejillones",
+                  "text": "O plajă lungă cu nisip care se întinde de-a lungul golfului protejat Mejillones.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.455219,
+                        -23.099049
+                  ]
+            },
+            {
+                  "name": "Museo Histórico y Natural de Mejillones \"Raúl Mavrakis Morales\"",
+                  "text": "Un muzeu municipal înființat în 1979 care expune istoria locală și patrimoniul natural din Mejillones.",
+                  "category": "museum",
+                  "coords": [
+                        -70.452682,
+                        -23.099964
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Gamelin Guerra",
+                  "text": "Un teatru municipal care servește ca spațiu central pentru spectacole culturale în Mejillones.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.448477,
+                        -23.101015
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal de Mejillones",
+                  "text": "O plajă municipală publică care oferă ape calme de-a lungul coastei din Mejillones.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.452004,
+                        -23.098629
+                  ]
+            },
+            {
+                  "name": "Punta Rieles",
+                  "text": "O zonă de plajă accidentată situată pe un punct de coastă lângă Puerto de Mejillones.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.49969,
+                        -23.046922
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O biserică creștină locală care servește comunitatea din Puerto de Mejillones.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.443492,
+                        -23.099792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Guanaya",
+                  "text": "A sandy coastal beach attraction situated along the shores of Puerto de Mejillones.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.44267,
+                        -23.097258
+                  ]
+            },
+            {
+                  "name": "Mirador Punta Angamos",
+                  "text": "A coastal viewpoint offering panoramic sights over the historic Punta Angamos headland.",
+                  "category": "natural",
+                  "coords": [
+                        -70.508393,
+                        -23.027673
+                  ]
+            },
+            {
+                  "name": "Playa Mejillones",
+                  "text": "A long, sandy beach stretching along the protected bay of Mejillones.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.455219,
+                        -23.099049
+                  ]
+            },
+            {
+                  "name": "Museo Histórico y Natural de Mejillones \"Raúl Mavrakis Morales\"",
+                  "text": "A municipal museum established in 1979 that exhibits the local history and natural heritage of Mejillones.",
+                  "category": "museum",
+                  "coords": [
+                        -70.452682,
+                        -23.099964
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Gamelin Guerra",
+                  "text": "A municipal theatre serving as a central venue for cultural performances in Mejillones.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.448477,
+                        -23.101015
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal de Mejillones",
+                  "text": "A public municipal bathing beach offering calm waters along the coastline of Mejillones.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.452004,
+                        -23.098629
+                  ]
+            },
+            {
+                  "name": "Punta Rieles",
+                  "text": "A rugged beach area located on a coastal point near Puerto de Mejillones.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.49969,
+                        -23.046922
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A local Christian church serving the community in Puerto de Mejillones.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.443492,
+                        -23.099792
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-AN",
     coords: [-70.4497, -23.0967],
@@ -413,7 +5444,376 @@ export const poiExtraChileEconomicV2: POI[] = [
     }
   },
   {
-    id: "puerto-guacolda-economic-v2",
+    id: "puerto-guacolda-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MIrador Huasco",
+                  "text": "Der Mirador Huasco bietet einen weiten Küstenaussichtspunkt über den Hafen und die zerklüftete Küste der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -71.223774,
+                        -28.460747
+                  ]
+            },
+            {
+                  "name": "Faro Monumental de Huasco",
+                  "text": "Der Faro Monumental de Huasco ist ein markanter Leuchtturm mit einem unverwechselbar gestalteten Turm, der Schiffe entlang dieses Abschnitts der Pazifikküste führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217027,
+                        -28.461825
+                  ]
+            },
+            {
+                  "name": "Desembocadura",
+                  "text": "Der Aussichtspunkt Desembocadura bietet einen atemberaubenden Blick auf das Gebiet, in dem der lokale Fluss direkt in den Pazifischen Ozean mündet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.190529,
+                        -28.452635
+                  ]
+            },
+            {
+                  "name": "Campo Dunar de Punta Negra",
+                  "text": "Das Campo Dunar de Punta Negra ist ein faszinierendes Küstendünenfeld, das von den unerbittlichen pazifischen Winden geformt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.197834,
+                        -28.429093
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Costanera",
+                  "text": "Das Anfiteatro Costanera ist ein öffentliches Freilichttheater an der Uferpromenade, das häufig kulturelle Open-Air-Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.22205,
+                        -28.463623
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Desembocadura del Río Huasco",
+                  "text": "Dieses 2025 ausgewiesene städtische Feuchtgebietsreservat schützt das empfindliche Ökosystem an der Mündung des Río Huasco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.197993,
+                        -28.456392
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "Playa Grande ist ein breiter, sandiger Küstenabschnitt, der viel Platz zum Sonnenbaden und für Strandaktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.198119,
+                        -28.439687
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial San Pedro Apóstol",
+                  "text": "Die Iglesia Parroquial San Pedro Apóstol ist eine markante christliche Pfarrkirche, die den Mittelpunkt der lokalen spirituellen Gemeinschaft bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.221018,
+                        -28.465502
+                  ]
+            },
+            {
+                  "name": "Plaza San Francisco de Asís",
+                  "text": "Der St. Francisco de Asís Square bietet einen offenen Raum für Anbetung und Zusammenkünfte, der die lokalen religiösen Traditionen widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        -71.229048,
+                        -28.463691
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario",
+                  "text": "Die Capilla Nuestra Señora del Rosario ist eine malerische lokale Kirche, die Unserer Lieben Frau vom Rosenkranz gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.172921,
+                        -28.47569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MIrador Huasco",
+                  "text": "A Mirador Huasco elsöprő tengerparti kilátópontot kínál a kikötőre és a környező terület zord partvonalára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.223774,
+                        -28.460747
+                  ]
+            },
+            {
+                  "name": "Faro Monumental de Huasco",
+                  "text": "A Faro Monumental de Huasco egy kiemelkedő világítótorony egyedi stílusú toronnyal, amely ezen a csendes-óceáni partszakaszon vezeti a hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217027,
+                        -28.461825
+                  ]
+            },
+            {
+                  "name": "Desembocadura",
+                  "text": "A Desembocadura kilátó lenyűgöző kilátást nyújt arra a területre, ahol a helyi folyó közvetlenül a Csendes-óceánba ömlik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.190529,
+                        -28.452635
+                  ]
+            },
+            {
+                  "name": "Campo Dunar de Punta Negra",
+                  "text": "A Campo Dunar de Punta Negra egy lenyűgöző tengerparti dűnemező, amelyet a könyörtelen csendes-óceáni szelek formáltak.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.197834,
+                        -28.429093
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Costanera",
+                  "text": "Az Anfiteatro Costanera egy tengerparti sétány mentén található szabadtéri nyilvános színház, amely gyakran ad otthont kulturális eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.22205,
+                        -28.463623
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Desembocadura del Río Huasco",
+                  "text": "A 2025-ben kijelölt városi vizes élőhely természetvédelmi terület megvédi az érzékeny ökoszisztémát a Huasco folyó torkolatánál.",
+                  "category": "natural",
+                  "coords": [
+                        -71.197993,
+                        -28.456392
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "A Playa Grande a homokos partvonal egy széles szakasza, amely bőséges helyet biztosít a napozáshoz és a tengerparti tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.198119,
+                        -28.439687
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial San Pedro Apóstol",
+                  "text": "Az Iglesia Parroquial San Pedro Apóstol egy kiemelkedő keresztény plébániatemplom, amely a helyi spirituális közösség horgonya.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.221018,
+                        -28.465502
+                  ]
+            },
+            {
+                  "name": "Plaza San Francisco de Asís",
+                  "text": "A St. Francisco de Asís tér nyitott teret foglal magába az istentisztelet és az összejövetelek számára, tükrözve a helyi vallási hagyományokat.",
+                  "category": "religious",
+                  "coords": [
+                        -71.229048,
+                        -28.463691
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario",
+                  "text": "A Capilla Nuestra Señora del Rosario egy furcsa helyi templom, amelyet a Rózsafüzér Királynőjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -71.172921,
+                        -28.47569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MIrador Huasco",
+                  "text": "Mirador Huasco oferă un punct de belvedere de coastă amplu asupra portului și țărmului accidentat din zona înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -71.223774,
+                        -28.460747
+                  ]
+            },
+            {
+                  "name": "Faro Monumental de Huasco",
+                  "text": "Faro Monumental de Huasco este un far proeminent cu un turn cu un stil distinctiv care ghidează navele de-a lungul acestei porțiuni a coastei Pacificului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217027,
+                        -28.461825
+                  ]
+            },
+            {
+                  "name": "Desembocadura",
+                  "text": "Punctul de belvedere Desembocadura oferă vederi uimitoare ale zonei în care râul local se varsă direct în Oceanul Pacific.",
+                  "category": "natural",
+                  "coords": [
+                        -71.190529,
+                        -28.452635
+                  ]
+            },
+            {
+                  "name": "Campo Dunar de Punta Negra",
+                  "text": "Campo Dunar de Punta Negra este un câmp fascinant de dune de coastă modelat de vânturile necruțătoare ale Pacificului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.197834,
+                        -28.429093
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Costanera",
+                  "text": "Anfiteatro Costanera este un teatru public în aer liber situat de-a lungul falezei, găzduind adesea evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.22205,
+                        -28.463623
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Desembocadura del Río Huasco",
+                  "text": "Desemnată în 2025, această rezervație naturală urbană cu zone umede protejează ecosistemul sensibil de la gura râului Huasco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.197993,
+                        -28.456392
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "Playa Grande este o întindere largă de coastă nisipoasă care oferă spațiu amplu pentru plajă și activități pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.198119,
+                        -28.439687
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial San Pedro Apóstol",
+                  "text": "Iglesia Parroquial San Pedro Apóstol este o biserică parohială creștină proeminentă, care ancorează comunitatea spirituală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.221018,
+                        -28.465502
+                  ]
+            },
+            {
+                  "name": "Plaza San Francisco de Asís",
+                  "text": "Piața St. Francisco de Asís încorporează un spațiu deschis pentru închinare și adunare, reflectând tradițiile religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        -71.229048,
+                        -28.463691
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario",
+                  "text": "Capilla Nuestra Señora del Rosario este o biserică locală pitorească dedicată Maicii Domnului a Rozariului.",
+                  "category": "religious",
+                  "coords": [
+                        -71.172921,
+                        -28.47569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MIrador Huasco",
+                  "text": "Mirador Huasco offers a sweeping coastal vantage point over the port and the rugged shoreline of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.223774,
+                        -28.460747
+                  ]
+            },
+            {
+                  "name": "Faro Monumental de Huasco",
+                  "text": "The Faro Monumental de Huasco is a prominent lighthouse with a distinctively styled tower that guides ships along this stretch of the Pacific coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217027,
+                        -28.461825
+                  ]
+            },
+            {
+                  "name": "Desembocadura",
+                  "text": "The Desembocadura viewpoint provides stunning views of the area where the local river flows directly into the Pacific Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -71.190529,
+                        -28.452635
+                  ]
+            },
+            {
+                  "name": "Campo Dunar de Punta Negra",
+                  "text": "The Campo Dunar de Punta Negra is a fascinating coastal dune field shaped by the relentless Pacific winds.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.197834,
+                        -28.429093
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Costanera",
+                  "text": "Anfiteatro Costanera is an open-air public theatre located along the waterfront, often hosting outdoor cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.22205,
+                        -28.463623
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Desembocadura del Río Huasco",
+                  "text": "Designated in 2025, this urban wetland nature reserve protects the sensitive ecosystem at the mouth of the Huasco River.",
+                  "category": "natural",
+                  "coords": [
+                        -71.197993,
+                        -28.456392
+                  ]
+            },
+            {
+                  "name": "Playa Grande",
+                  "text": "Playa Grande is a broad stretch of sandy coastline providing ample space for sunbathing and beach activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.198119,
+                        -28.439687
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial San Pedro Apóstol",
+                  "text": "The Iglesia Parroquial San Pedro Apóstol is a prominent Christian parish church anchoring the local spiritual community.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.221018,
+                        -28.465502
+                  ]
+            },
+            {
+                  "name": "St. Francisco de Asís Square",
+                  "text": "St. Francisco de Asís Square incorporates an open space for worship and gathering, reflecting the local religious traditions.",
+                  "category": "religious",
+                  "coords": [
+                        -71.229048,
+                        -28.463691
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Rosario",
+                  "text": "Capilla Nuestra Señora del Rosario is a quaint local church dedicated to Our Lady of the Rosary.",
+                  "category": "religious",
+                  "coords": [
+                        -71.172921,
+                        -28.47569
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-AT",
     coords: [-71.2505, -28.4686],
@@ -472,7 +5872,1204 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Spécialisé dans le charbon et le minerai de fer.", "Sert la vallée de Huasco."],
     }, image: "/poi-images/puerto-guacolda-economic-v2.webp"},
   {
-    id: "puerto-de-punta-arenas-economic-v2",
+    id: "puerto-de-punta-arenas-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palacio Montes Pello",
+                  "text": "Dieses elegante neoklassizistische Herrenhaus, erbaut vom Pionier José Montes, dient heute als Sitz der Stadtverwaltung in Punta Arenas.",
+                  "category": "castle",
+                  "coords": [
+                        -70.908823,
+                        -53.163243
+                  ]
+            },
+            {
+                  "name": "Nao Victoria Museum",
+                  "text": "Dieses 2011 an den Ufern der Magellanstraße eröffnete Museum zeigt interaktive, maßstabsgetreue Nachbauten historischer Schiffe, darunter die Nao Victoria von Ferdinand Magellan.",
+                  "category": "museum",
+                  "coords": [
+                        -70.879509,
+                        -53.107494
+                  ]
+            },
+            {
+                  "name": "Pontón Muñoz Gamero",
+                  "text": "Die Überreste dieses historischen Schiffes aus dem 19. Jahrhundert, das einst das erste viermastige eiserne Segelschiff der Welt war, dienen heute als verrosteter Wellenbrecher.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.918931,
+                        -53.176757
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Humedal Tres Puentes",
+                  "text": "Dieses seit 2009 geschützte, wichtige städtische Feuchtgebiet bietet direkt am Rande der Stadt ein Schutzgebiet für Dutzende patagonischer Vogelarten.",
+                  "category": "natural",
+                  "coords": [
+                        -70.880218,
+                        -53.117677
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Tres Puentes",
+                  "text": "Dieses weitläufige Naturschutzgebiet innerhalb der städtischen Landschaft bietet Wanderwege, die sich ideal zur Vogelbeobachtung und zum Fotografieren vielfältiger subantarktischer Wasservögel eignen.",
+                  "category": "natural",
+                  "coords": [
+                        -70.8879,
+                        -53.117527
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Magallanes",
+                  "text": "Dieses Museum ist im opulenten Herrenhaus der Familie Braun Menéndez untergebracht und zeigt den luxuriösen Lebensstil der frühen patagonischen Pioniere sowie lokale historische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -70.906071,
+                        -53.162097
+                  ]
+            },
+            {
+                  "name": "Mirador Zapador Austral",
+                  "text": "Diese erhöhte Aussichtsplattform bietet einen atemberaubenden, weiten Blick über die Magellanstraße und die bunten Dächer der Hafenstadt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.027388,
+                        -53.152779
+                  ]
+            },
+            {
+                  "name": "Parque María Behety",
+                  "text": "Dieser weitläufige Stadtpark verfügt über ein zentrales Feuchtgebiet, lebensgroße Dinosaurierskulpturen und Erholungsräume, die bei einheimischen Familien beliebt sind.",
+                  "category": "park",
+                  "coords": [
+                        -70.929102,
+                        -53.178951
+                  ]
+            },
+            {
+                  "name": "Museo Naval Marítimo de Punta Arenas",
+                  "text": "Dieses Schifffahrtsmuseum stellt nautische Instrumente, Schiffsmodelle und Marinegeschichte aus, die Chiles Präsenz in den rauen südlichen Meeren detailliert beschreiben.",
+                  "category": "museum",
+                  "coords": [
+                        -70.904302,
+                        -53.163581
+                  ]
+            },
+            {
+                  "name": "Colección Paleontológica de Antártica y Patagonia",
+                  "text": "Diese wissenschaftliche Ausstellung zeigt seltene Fossilien und prähistorische Meeresüberreste, die aus den eisigen Landschaften Patagoniens und der Antarktis geborgen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -70.907641,
+                        -53.165466
+                  ]
+            },
+            {
+                  "name": "Museo de la Inmigración Croata en Magallanes",
+                  "text": "Dieses Kulturzentrum ist der bedeutenden dalmatinischen Diaspora gewidmet und schildert den tiefgreifenden Einfluss kroatischer Einwanderer auf die Besiedlung der Magellan-Region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.908535,
+                        -53.16432
+                  ]
+            },
+            {
+                  "name": "Taller de Artes Visuales Sala Ocre",
+                  "text": "Diese intime Galerie für visuelle Künste veranstaltet Workshops und wechselnde Ausstellungen, die die kreativen Werke zeitgenössischer patagonischer Künstler hervorheben.",
+                  "category": "museum",
+                  "coords": [
+                        -70.904228,
+                        -53.140731
+                  ]
+            },
+            {
+                  "name": "museo tematico Nao Victoria",
+                  "text": "In diesem ansprechenden maritimen Freilichtmuseum können Besucher an Bord der sorgfältig rekonstruierten Holzdecks historischer Galeonen gehen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.849188,
+                        -53.089765
+                  ]
+            },
+            {
+                  "name": "Pabellón Gabriela Mistral",
+                  "text": "Dieser Pavillon ehrt die berühmte Nobelpreisträgerin und bewahrt literarische Artefakte und Briefe aus den Jahren, in denen Gabriela Mistral in der Region unterrichtete.",
+                  "category": "museum",
+                  "coords": [
+                        -70.901034,
+                        -53.162388
+                  ]
+            },
+            {
+                  "name": "Palacio de Gobierno de Magallanes - Intendencia",
+                  "text": "Dieser imposante Verwaltungspalast gegenüber dem Hauptplatz dient als Sitz der Regionalregierung und gilt als Symbol der bürgerlichen Autorität.",
+                  "category": "castle",
+                  "coords": [
+                        -70.908872,
+                        -53.162048
+                  ]
+            },
+            {
+                  "name": "Museo Regional Salesiano Maggiorino Borgatello",
+                  "text": "Dieses vielseitige Museum wurde 1893 von salesianischen Missionaren gegründet und beherbergt umfangreiche Sammlungen zu indigenen patagonischen Kulturen sowie zur regionalen Flora und Fauna.",
+                  "category": "museum",
+                  "coords": [
+                        -70.902292,
+                        -53.15562
+                  ]
+            },
+            {
+                  "name": "Museo del Recuerdo",
+                  "text": "Dieser historische Park auf dem Gelände der örtlichen Universität zeigt alte Landmaschinen, historische Holzkutschen und rekonstruierte Pioniergebäude.",
+                  "category": "museum",
+                  "coords": [
+                        -70.882532,
+                        -53.132634
+                  ]
+            },
+            {
+                  "name": "Muelle Loreto",
+                  "text": "Die in die eisigen Gewässer ragenden, verfallenen Holzpfähle dieses alten Piers erzählen die Geschichte der frühen Kohleexporttage der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -70.901133,
+                        -53.164843
+                  ]
+            },
+            {
+                  "name": "Globo Terraqueo",
+                  "text": "Diese metallische Globus-Skulptur markiert stolz die geografische Bedeutung der Stadt als Tor, das Nord- und Südamerika mit der Antarktis verbindet.",
+                  "category": "historical",
+                  "coords": [
+                        -70.928958,
+                        -53.159305
+                  ]
+            },
+            {
+                  "name": "Antiguo muelle",
+                  "text": "Die verwitterten Holzpfähle dieses abgebauten Uferbauwerks bieten einen nostalgischen Einblick in den geschäftigen Seehandel des späten 19. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        -70.879129,
+                        -53.144075
+                  ]
+            },
+            {
+                  "name": "Bahía Catalina",
+                  "text": "Ein Küstendenkmal mit Blick auf die Bucht von Punta Arenas, das die lokale Seefahrtsgeschichte ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -70.861685,
+                        -53.135176
+                  ]
+            },
+            {
+                  "name": "Muelle Stubenrauch",
+                  "text": "Die verwitterten Holzruinen eines historischen Seepiers, das in die Meerenge ragt.",
+                  "category": "historical",
+                  "coords": [
+                        -70.903152,
+                        -53.166558
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Ein historisches Stadttheater mit klassischer Architektur, das als kulturelles Zentrum der Stadt dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.904758,
+                        -53.161086
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Vertientes",
+                  "text": "Eine bescheidene Baptistenkirche, die der örtlichen Gemeinde von Punta Arenas Gottesdienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.911305,
+                        -53.139466
+                  ]
+            },
+            {
+                  "name": "Ermita de Schoenstatt Punta Arenas",
+                  "text": "Ein friedliches katholisches Schönstatt-Heiligtum, das einen ruhigen Ort für Pilgerfahrt und Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.89831,
+                        -53.127469
+                  ]
+            },
+            {
+                  "name": "Templo",
+                  "text": "Ein lokaler religiöser Tempel, der einen Raum für den Gemeindegottesdienst in der Stadt bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.924517,
+                        -53.148621
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Punta Arenas",
+                  "text": "Eine belebte überdachte Markthalle, in der frische regionale Meeresfrüchte, lokale Produkte und patagonisches Kunsthandwerk verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.911147,
+                        -53.1671
+                  ]
+            },
+            {
+                  "name": "Lord Lonsdale Schiffswrack",
+                  "text": "Der verrostete Eisenrumpf eines alten Schiffes, das an der felsigen Küste der Meerenge gestrandet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.924455,
+                        -53.182377
+                  ]
+            },
+            {
+                  "name": "Chalet Milward",
+                  "text": "Ein markantes historisches Chalet, das die traditionelle Pionierarchitektur aus der frühen Besiedlungszeit zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.912206,
+                        -53.159739
+                  ]
+            },
+            {
+                  "name": "Árbol de Boric",
+                  "text": "Eine berühmte Zypresse, die als lokales Wahrzeichen nationale Bekanntheit erlangte.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.912337,
+                        -53.157613
+                  ]
+            },
+            {
+                  "name": "Magallanes III",
+                  "text": "Eine maritime Attraktion, die das nautische Erbe und die Erkundungsgeschichte der Magellanstraße feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.878737,
+                        -53.106589
+                  ]
+            },
+            {
+                  "name": "Monumento a Tripulantes Goleta Ancud",
+                  "text": "Ein Denkmal zu Ehren der Besatzung des Schoners Ancud, die die Meerenge einst für Chile beanspruchte.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.896505,
+                        -53.163718
+                  ]
+            },
+            {
+                  "name": "Palacio José Menéndez",
+                  "text": "Ein elegantes Herrenhaus aus dem 19. Jahrhundert, das den enormen Reichtum der frühen patagonischen Pioniere zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.907121,
+                        -53.161984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palacio Montes Pello",
+                  "text": "A José Montes úttörő által épített elegáns neoklasszikus kúria ma a Punta Arenas-i önkormányzat székhelyeként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        -70.908823,
+                        -53.163243
+                  ]
+            },
+            {
+                  "name": "Museo Nao Victoria",
+                  "text": "A Magellán-szoros partján 2011-ben megnyílt múzeum történelmi hajók, köztük Ferdinand Magellan Nao Victoria hajójának interaktív, életnagyságú másolatait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.879509,
+                        -53.107494
+                  ]
+            },
+            {
+                  "name": "Pontón Muñoz Gamero",
+                  "text": "Az egykor a világ első négárbocos vas vitorláshajójaként ismert, 19. századi történelmi hajó maradványai ma rozsdásodó hullámtörőként szolgálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.918931,
+                        -53.176757
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Humedal Tres Puentes",
+                  "text": "A 2009 óta védett, fontos városi vizenyős terület több tucat patagóniai madárfaj számára nyújt menedéket közvetlenül a város szélén.",
+                  "category": "natural",
+                  "coords": [
+                        -70.880218,
+                        -53.117677
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Tres Puentes",
+                  "text": "A városi tájban elterülő kiterjedt természetvédelmi terület túraútvonalai ideálisak madármegfigyelésre és a változatos szubantarktikus vízimadarak fotózására.",
+                  "category": "natural",
+                  "coords": [
+                        -70.8879,
+                        -53.117527
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Magallanes",
+                  "text": "Az opulens Braun Menéndez kúriában helyet kapó múzeum a korai patagóniai úttörők fényűző életmódját és a helyi történelmi leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.906071,
+                        -53.162097
+                  ]
+            },
+            {
+                  "name": "Mirador Zapador Austral",
+                  "text": "Ez a megemelt kilátóterasz lélegzetelállító, széles panorámát nyújt a Magellán-szorosra és a kikötőváros színes háztetőire.",
+                  "category": "natural",
+                  "coords": [
+                        -71.027388,
+                        -53.152779
+                  ]
+            },
+            {
+                  "name": "Parque María Behety",
+                  "text": "Ez a hatalmas városi park egy központi vizenyős területtel, életnagyságú dinoszaurusz-szobrokkal és a helyi családok körében népszerű pihenőövezetekkel várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        -70.929102,
+                        -53.178951
+                  ]
+            },
+            {
+                  "name": "Museo Naval Marítimo de Punta Arenas",
+                  "text": "Ez a tengerészeti múzeum navigációs műszereket, hajómodelleket és tengerészeti történelmet mutat be, részletezve Chile jelenlétét a zord déli tengereken.",
+                  "category": "museum",
+                  "coords": [
+                        -70.904302,
+                        -53.163581
+                  ]
+            },
+            {
+                  "name": "Colección Paleontológica de Antártica y Patagonia",
+                  "text": "Ez a tudományos kiállítás ritka kövületeket és történelem előtti tengeri maradványokat mutat be, amelyeket Patagónia és az Antarktisz fagyott tájairól hoztak felszínre.",
+                  "category": "museum",
+                  "coords": [
+                        -70.907641,
+                        -53.165466
+                  ]
+            },
+            {
+                  "name": "Museo de la Inmigración Croata en Magallanes",
+                  "text": "A jelentős dalmát diaszpórának szentelt kulturális központ a horvát bevándorlóknak a Magellán-régió betelepítésére gyakorolt mélyreható hatását részletezi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.908535,
+                        -53.16432
+                  ]
+            },
+            {
+                  "name": "Taller de Artes Visuales Sala Ocre",
+                  "text": "Ez a barátságos képzőművészeti galéria workshopoknak és időszaki kiállításoknak ad otthont, amelyek kortárs patagóniai művészek kreatív munkáit mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.904228,
+                        -53.140731
+                  ]
+            },
+            {
+                  "name": "museo tematico Nao Victoria",
+                  "text": "Ebben a vonzó, szabadtéri tematikus tengerészeti múzeumban a látogatók a történelmi gályák aprólékosan rekonstruált fafedélzeteire léphetnek.",
+                  "category": "museum",
+                  "coords": [
+                        -70.849188,
+                        -53.089765
+                  ]
+            },
+            {
+                  "name": "Pabellón Gabriela Mistral",
+                  "text": "A neves Nobel-díjas írónő előtt tisztelgő pavilon olyan irodalmi leleteket és leveleket őriz, amelyek abból az időből származnak, amikor Gabriela Mistral a régióban tanított.",
+                  "category": "museum",
+                  "coords": [
+                        -70.901034,
+                        -53.162388
+                  ]
+            },
+            {
+                  "name": "Palacio de Gobierno de Magallanes - Intendencia",
+                  "text": "A főtérre néző impozáns közigazgatási palota a regionális kormányzat székhelyeként működik, és a polgári hatalom szimbóluma.",
+                  "category": "castle",
+                  "coords": [
+                        -70.908872,
+                        -53.162048
+                  ]
+            },
+            {
+                  "name": "Museo Regional Salesiano Maggiorino Borgatello",
+                  "text": "A szalézi misszionáriusok által 1893-ban alapított eklektikus múzeum kiterjedt gyűjteményeknek ad otthont az őslakos patagóniai kultúrákról, valamint a régió növény- és állatvilágáról.",
+                  "category": "museum",
+                  "coords": [
+                        -70.902292,
+                        -53.15562
+                  ]
+            },
+            {
+                  "name": "Museo del Recuerdo",
+                  "text": "A helyi egyetem szabadtéri területén található örökségvédelmi park régi mezőgazdasági gépeket, történelmi fakocsikat és rekonstruált úttörő épületeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.882532,
+                        -53.132634
+                  ]
+            },
+            {
+                  "name": "Muelle Loreto",
+                  "text": "A fagyos vizekbe nyúló régi móló korhadt facölöpjei a város korai szénexportáló napjainak történetét mesélik el.",
+                  "category": "historical",
+                  "coords": [
+                        -70.901133,
+                        -53.164843
+                  ]
+            },
+            {
+                  "name": "Globo Terraqueo",
+                  "text": "Ez a fémföldgömb szobor büszkén jelzi a város földrajzi jelentőségét, mint az amerikai kontinenst az Antarktisszal összekötő kaput.",
+                  "category": "historical",
+                  "coords": [
+                        -70.928958,
+                        -53.159305
+                  ]
+            },
+            {
+                  "name": "Antiguo muelle",
+                  "text": "Ennek a lebontott vízparti építménynek a viharvert facölöpjei nosztalgikus bepillantást engednek a 19. század végi nyüzsgő tengeri kereskedelembe.",
+                  "category": "historical",
+                  "coords": [
+                        -70.879129,
+                        -53.144075
+                  ]
+            },
+            {
+                  "name": "Bahía Catalina",
+                  "text": "A Punta Arenas-i öbölre néző tengerparti emlékmű, amely a helyi tengerészeti történelmet tiszteli meg.",
+                  "category": "historical",
+                  "coords": [
+                        -70.861685,
+                        -53.135176
+                  ]
+            },
+            {
+                  "name": "Muelle Stubenrauch",
+                  "text": "Egy tengerszorosba nyúló történelmi tengeri móló viharvert faromjai.",
+                  "category": "historical",
+                  "coords": [
+                        -70.903152,
+                        -53.166558
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "A város fő kulturális központjaként szolgáló, klasszikus építészetű történelmi városi színház.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.904758,
+                        -53.161086
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Vertientes",
+                  "text": "Egy szerény baptista templom, amely vallási szertartásokat kínál a helyi Punta Arenas-i közösségnek.",
+                  "category": "religious",
+                  "coords": [
+                        -70.911305,
+                        -53.139466
+                  ]
+            },
+            {
+                  "name": "Ermita de Schoenstatt Punta Arenas",
+                  "text": "Békés katolikus Schönstatt-kegyhely, amely csendes teret biztosít a zarándoklatokhoz és az imádkozáshoz.",
+                  "category": "religious",
+                  "coords": [
+                        -70.89831,
+                        -53.127469
+                  ]
+            },
+            {
+                  "name": "Templo",
+                  "text": "Egy helyi vallási templom, amely dedikált teret biztosít a gyülekezeti istentiszteletek számára a városban.",
+                  "category": "religious",
+                  "coords": [
+                        -70.924517,
+                        -53.148621
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Punta Arenas",
+                  "text": "Nyüzsgő fedett piac, ahol friss regionális tenger gyümölcseit, helyi termékeket és patagóniai kézműves termékeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.911147,
+                        -53.1671
+                  ]
+            },
+            {
+                  "name": "Pontón Lord Lonsdale",
+                  "text": "Egy öreg hajó rozsdásodó vashajóteste, amely a szoros sziklás partjainál feneklett meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.924455,
+                        -53.182377
+                  ]
+            },
+            {
+                  "name": "Chalet Milward",
+                  "text": "Egy jellegzetes történelmi faház, amely a korai települési időszak hagyományos pionír építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.912206,
+                        -53.159739
+                  ]
+            },
+            {
+                  "name": "Árbol de Boric",
+                  "text": "Egy híres ciprusfa, amely helyi nevezetességként országos ismertségre tett szert.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.912337,
+                        -53.157613
+                  ]
+            },
+            {
+                  "name": "Magallanes III",
+                  "text": "A Magellán-szoros tengerészeti örökségét és felfedezéstörténetét ünneplő tengerészeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.878737,
+                        -53.106589
+                  ]
+            },
+            {
+                  "name": "Monumento a Tripulantes Goleta Ancud",
+                  "text": "Az Ancud szkúner legénységének emlékműve, akik egykor Chilének követelték a szorost.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.896505,
+                        -53.163718
+                  ]
+            },
+            {
+                  "name": "Palacio José Menéndez",
+                  "text": "Egy elegáns 19. századi kúria, amely a korai patagóniai pionírok hatalmas gazdagságát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.907121,
+                        -53.161984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palacio Montes Pello",
+                  "text": "Acest elegant conac neoclasic, construit de pionierul José Montes, servește acum drept sediu al administrației municipale din Punta Arenas.",
+                  "category": "castle",
+                  "coords": [
+                        -70.908823,
+                        -53.163243
+                  ]
+            },
+            {
+                  "name": "Museo Nao Victoria",
+                  "text": "Deschis în 2011 pe țărmul Strâmtorii Magellan, acest muzeu prezintă replici interactive, la scară reală, ale unor nave istorice, inclusiv Nao Victoria a lui Fernando Magellan.",
+                  "category": "museum",
+                  "coords": [
+                        -70.879509,
+                        -53.107494
+                  ]
+            },
+            {
+                  "name": "Pontón Muñoz Gamero",
+                  "text": "Odinioară prima navă cu pânze din fier cu patru catarge din lume, rămășițele acestei ambarcațiuni istorice din secolul al XIX-lea servesc acum drept dig ruginit.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.918931,
+                        -53.176757
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Humedal Tres Puentes",
+                  "text": "Protejată din 2009, această zonă umedă urbană esențială oferă un sanctuar pentru zeci de specii de păsări patagoniene chiar la marginea orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -70.880218,
+                        -53.117677
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Tres Puentes",
+                  "text": "Această rezervație naturală extinsă din peisajul urban dispune de trasee de mers pe jos ideale pentru observarea păsărilor și fotografierea diverselor păsări de apă subantarctice.",
+                  "category": "natural",
+                  "coords": [
+                        -70.8879,
+                        -53.117527
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Magallanes",
+                  "text": "Găzduit în opulentul conac Braun Menéndez, acest muzeu prezintă stilul de viață luxos al primilor pionieri patagonieni și artefacte istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        -70.906071,
+                        -53.162097
+                  ]
+            },
+            {
+                  "name": "Mirador Zapador Austral",
+                  "text": "Această platformă de observație ridicată oferă priveliști uluitoare, ample asupra Strâmtorii Magellan și a acoperișurilor colorate ale orașului-port.",
+                  "category": "natural",
+                  "coords": [
+                        -71.027388,
+                        -53.152779
+                  ]
+            },
+            {
+                  "name": "Parque María Behety",
+                  "text": "Acest parc municipal vast dispune de o zonă umedă centrală, sculpturi de dinozauri în mărime naturală și spații de recreere populare printre familiile locale.",
+                  "category": "park",
+                  "coords": [
+                        -70.929102,
+                        -53.178951
+                  ]
+            },
+            {
+                  "name": "Museo Naval Marítimo de Punta Arenas",
+                  "text": "Acest muzeu maritim expune instrumente nautice, machete de nave și istorie navală care detaliază prezența Chile în mările aspre din sud.",
+                  "category": "museum",
+                  "coords": [
+                        -70.904302,
+                        -53.163581
+                  ]
+            },
+            {
+                  "name": "Colección Paleontológica de Antártica y Patagonia",
+                  "text": "Această expoziție științifică prezintă fosile rare și rămășițe marine preistorice recuperate din peisajele înghețate ale Patagoniei și Antarcticii.",
+                  "category": "museum",
+                  "coords": [
+                        -70.907641,
+                        -53.165466
+                  ]
+            },
+            {
+                  "name": "Museo de la Inmigración Croata en Magallanes",
+                  "text": "Dedicat importantei diaspore dalmate, acest centru cultural detaliază impactul profund pe care imigranții croați l-au avut asupra colonizării regiunii Magallanes.",
+                  "category": "museum",
+                  "coords": [
+                        -70.908535,
+                        -53.16432
+                  ]
+            },
+            {
+                  "name": "Taller de Artes Visuales Sala Ocre",
+                  "text": "Această galerie intimă de arte vizuale găzduiește ateliere și expoziții temporare care evidențiază lucrările creative ale artiștilor contemporani din Patagonia.",
+                  "category": "museum",
+                  "coords": [
+                        -70.904228,
+                        -53.140731
+                  ]
+            },
+            {
+                  "name": "museo tematico Nao Victoria",
+                  "text": "Vizitatorii pot păși pe punțile din lemn, meticulos reconstruite, ale galioanelor istorice în acest captivant muzeu maritim tematic în aer liber.",
+                  "category": "museum",
+                  "coords": [
+                        -70.849188,
+                        -53.089765
+                  ]
+            },
+            {
+                  "name": "Pabellón Gabriela Mistral",
+                  "text": "Sărbătorind renumita laureată a premiului Nobel, acest pavilion conservă artefacte literare și scrisori din anii în care Gabriela Mistral a predat în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -70.901034,
+                        -53.162388
+                  ]
+            },
+            {
+                  "name": "Palacio de Gobierno de Magallanes - Intendencia",
+                  "text": "Situat vizavi de piața principală, acest impunător palat administrativ funcționează ca sediu al guvernului regional și reprezintă un simbol al autorității civice.",
+                  "category": "castle",
+                  "coords": [
+                        -70.908872,
+                        -53.162048
+                  ]
+            },
+            {
+                  "name": "Museo Regional Salesiano Maggiorino Borgatello",
+                  "text": "Fondat de misionarii salezieni în 1893, acest muzeu eclectic adăpostește colecții vaste despre culturile indigene patagoniene și despre flora și fauna regională.",
+                  "category": "museum",
+                  "coords": [
+                        -70.902292,
+                        -53.15562
+                  ]
+            },
+            {
+                  "name": "Museo del Recuerdo",
+                  "text": "Amplasat în aer liber la universitatea locală, acest parc de patrimoniu expune mașini agricole de epocă, trăsuri istorice din lemn și clădiri de pionieri reconstruite.",
+                  "category": "museum",
+                  "coords": [
+                        -70.882532,
+                        -53.132634
+                  ]
+            },
+            {
+                  "name": "Muelle Loreto",
+                  "text": "Întinzându-se în apele înghețate, stâlpii putreziți din lemn ai acestui vechi debarcader spun povestea primelor zile de export de cărbune ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -70.901133,
+                        -53.164843
+                  ]
+            },
+            {
+                  "name": "Globo Terraqueo",
+                  "text": "Această sculptură metalică sub formă de glob marchează cu mândrie importanța geografică a orașului ca poartă de legătură între Americi și Antarctica.",
+                  "category": "historical",
+                  "coords": [
+                        -70.928958,
+                        -53.159305
+                  ]
+            },
+            {
+                  "name": "Antiguo muelle",
+                  "text": "Stâlpii de lemn erodați de vreme ai acestei structuri riverane dezmembrate oferă o privire nostalgică asupra comerțului maritim plin de viață de la sfârșitul secolului al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -70.879129,
+                        -53.144075
+                  ]
+            },
+            {
+                  "name": "Bahía Catalina",
+                  "text": "Un monument de coastă cu vedere la golful Punta Arenas, onorând istoria maritimă locală.",
+                  "category": "historical",
+                  "coords": [
+                        -70.861685,
+                        -53.135176
+                  ]
+            },
+            {
+                  "name": "Muelle Stubenrauch",
+                  "text": "Ruinele de lemn erodate ale unui dig maritim istoric care se extinde în strâmtoare.",
+                  "category": "historical",
+                  "coords": [
+                        -70.903152,
+                        -53.166558
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Un teatru municipal istoric cu arhitectură clasică, care servește drept principal hub cultural al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.904758,
+                        -53.161086
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Vertientes",
+                  "text": "O biserică baptistă modestă care oferă slujbe religioase comunității locale din Punta Arenas.",
+                  "category": "religious",
+                  "coords": [
+                        -70.911305,
+                        -53.139466
+                  ]
+            },
+            {
+                  "name": "Ermita de Schoenstatt Punta Arenas",
+                  "text": "Un altar catolic pașnic Schoenstatt care oferă un spațiu liniștit pentru pelerinaj și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -70.89831,
+                        -53.127469
+                  ]
+            },
+            {
+                  "name": "Templo",
+                  "text": "Un templu religios local care oferă un spațiu dedicat închinării congregaționale în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        -70.924517,
+                        -53.148621
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Punta Arenas",
+                  "text": "O piață interioară plină de viață care vinde fructe de mare regionale proaspete, produse locale și meșteșuguri patagonice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.911147,
+                        -53.1671
+                  ]
+            },
+            {
+                  "name": "Pontón Lord Lonsdale",
+                  "text": "Coca de fier ruginită a unei nave vechi eșuate pe malurile stâncoase ale strâmtorii.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.924455,
+                        -53.182377
+                  ]
+            },
+            {
+                  "name": "Chalet Milward",
+                  "text": "O cabană istorică distinctă, care prezintă arhitectura tradițională a pionierilor din perioada timpurie a colonizării.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.912206,
+                        -53.159739
+                  ]
+            },
+            {
+                  "name": "Árbol de Boric",
+                  "text": "Un faimos chiparos care a câștigat proeminență națională ca punct de reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.912337,
+                        -53.157613
+                  ]
+            },
+            {
+                  "name": "Magallanes III",
+                  "text": "O atracție maritimă care celebrează moștenirea nautică și istoria explorării Strâmtorii Magellan.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.878737,
+                        -53.106589
+                  ]
+            },
+            {
+                  "name": "Monumento a Tripulantes Goleta Ancud",
+                  "text": "Un monument care onorează echipajul goletei Ancud, care a revendicat cândva strâmtoarea pentru Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.896505,
+                        -53.163718
+                  ]
+            },
+            {
+                  "name": "Palacio José Menéndez",
+                  "text": "Un conac elegant din secolul al XIX-lea care prezintă marea bogăție a pionierilor patagonici timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.907121,
+                        -53.161984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palacio Montes Pello",
+                  "text": "This elegant neoclassical mansion, built by pioneer José Montes, now serves as the seat of the municipal government in Punta Arenas.",
+                  "category": "castle",
+                  "coords": [
+                        -70.908823,
+                        -53.163243
+                  ]
+            },
+            {
+                  "name": "Nao Victoria Museum",
+                  "text": "Opened in 2011 on the shores of the Strait of Magellan, this museum features interactive, full-scale replicas of historic ships including Ferdinand Magellan's Nao Victoria.",
+                  "category": "museum",
+                  "coords": [
+                        -70.879509,
+                        -53.107494
+                  ]
+            },
+            {
+                  "name": "Pontón Muñoz Gamero",
+                  "text": "Once the world's first four-masted iron sailing ship, the remains of this historic 19th-century vessel now serve as a rusted breakwater.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.918931,
+                        -53.176757
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Humedal Tres Puentes",
+                  "text": "Protected since 2009, this critical urban wetland provides a sanctuary for dozens of Patagonian bird species right on the edge of the city.",
+                  "category": "natural",
+                  "coords": [
+                        -70.880218,
+                        -53.117677
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Tres Puentes",
+                  "text": "This sprawling natural reserve within the urban landscape features walking trails ideal for birdwatching and photographing diverse subantarctic waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        -70.8879,
+                        -53.117527
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Magallanes",
+                  "text": "Housed in the opulent Braun Menéndez mansion, this museum showcases the lavish lifestyle of early Patagonian pioneers and local historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -70.906071,
+                        -53.162097
+                  ]
+            },
+            {
+                  "name": "Zapador Austral view point",
+                  "text": "This elevated observation deck provides breathtaking, sweeping views across the Strait of Magellan and the colorful rooftops of the port city.",
+                  "category": "natural",
+                  "coords": [
+                        -71.027388,
+                        -53.152779
+                  ]
+            },
+            {
+                  "name": "Parque María Behety",
+                  "text": "This expansive municipal park features a central wetland, life-sized dinosaur sculptures, and recreational spaces popular with local families.",
+                  "category": "park",
+                  "coords": [
+                        -70.929102,
+                        -53.178951
+                  ]
+            },
+            {
+                  "name": "Naval Maritime Museum",
+                  "text": "This maritime museum exhibits nautical instruments, model ships, and naval history detailing Chile's presence in the harsh southern seas.",
+                  "category": "museum",
+                  "coords": [
+                        -70.904302,
+                        -53.163581
+                  ]
+            },
+            {
+                  "name": "Colección Paleontológica de Antártica y Patagonia",
+                  "text": "This scientific exhibition displays rare fossils and prehistoric marine remains recovered from the frozen landscapes of Patagonia and Antarctica.",
+                  "category": "museum",
+                  "coords": [
+                        -70.907641,
+                        -53.165466
+                  ]
+            },
+            {
+                  "name": "Museo de la Inmigración Croata en Magallanes",
+                  "text": "Dedicated to the significant Dalmatian diaspora, this cultural center details the profound impact Croatian immigrants had on settling the Magallanes region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.908535,
+                        -53.16432
+                  ]
+            },
+            {
+                  "name": "Taller de Artes Visuales Sala Ocre",
+                  "text": "This intimate visual arts gallery hosts workshops and rotating exhibitions that highlight the creative works of contemporary Patagonian artists.",
+                  "category": "museum",
+                  "coords": [
+                        -70.904228,
+                        -53.140731
+                  ]
+            },
+            {
+                  "name": "museo tematico Nao Victoria",
+                  "text": "Visitors can step aboard the meticulously reconstructed wooden decks of historic galleons at this engaging, open-air thematic maritime museum.",
+                  "category": "museum",
+                  "coords": [
+                        -70.849188,
+                        -53.089765
+                  ]
+            },
+            {
+                  "name": "Pabellón Gabriela Mistral",
+                  "text": "Celebrating the renowned Nobel laureate, this pavilion preserves literary artifacts and letters from the years Gabriela Mistral spent teaching in the region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.901034,
+                        -53.162388
+                  ]
+            },
+            {
+                  "name": "Palacio de Gobierno de Magallanes - Intendencia",
+                  "text": "Facing the main square, this imposing administrative palace functions as the regional government headquarters and stands as a symbol of civic authority.",
+                  "category": "castle",
+                  "coords": [
+                        -70.908872,
+                        -53.162048
+                  ]
+            },
+            {
+                  "name": "Museo Regional Salesiano Maggiorino Borgatello",
+                  "text": "Founded by Salesian missionaries in 1893, this eclectic museum houses extensive collections on indigenous Patagonian cultures and regional flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        -70.902292,
+                        -53.15562
+                  ]
+            },
+            {
+                  "name": "Museo del Recuerdo",
+                  "text": "Set outdoors at the local university, this heritage park displays vintage farm machinery, historic wooden carriages, and reconstructed pioneer buildings.",
+                  "category": "museum",
+                  "coords": [
+                        -70.882532,
+                        -53.132634
+                  ]
+            },
+            {
+                  "name": "Muelle Loreto",
+                  "text": "Stretching out into the frigid waters, the decayed timber pilings of this old pier tell the story of the city's early coal-exporting days.",
+                  "category": "historical",
+                  "coords": [
+                        -70.901133,
+                        -53.164843
+                  ]
+            },
+            {
+                  "name": "Globo Terraqueo",
+                  "text": "This metallic globe sculpture proudly marks the geographical significance of the city as a gateway connecting the Americas with Antarctica.",
+                  "category": "historical",
+                  "coords": [
+                        -70.928958,
+                        -53.159305
+                  ]
+            },
+            {
+                  "name": "Antiguo muelle",
+                  "text": "The weathered wooden pilings of this dismantled waterfront structure offer a nostalgic glimpse into the bustling maritime trade of the late 19th century.",
+                  "category": "historical",
+                  "coords": [
+                        -70.879129,
+                        -53.144075
+                  ]
+            },
+            {
+                  "name": "Bahía Catalina",
+                  "text": "A coastal monument overlooking the bay of Punta Arenas, honoring local maritime history.",
+                  "category": "historical",
+                  "coords": [
+                        -70.861685,
+                        -53.135176
+                  ]
+            },
+            {
+                  "name": "Muelle Stubenrauch",
+                  "text": "The weathered wooden ruins of a historic maritime pier extending into the strait.",
+                  "category": "historical",
+                  "coords": [
+                        -70.903152,
+                        -53.166558
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "A historic municipal theater featuring classical architecture that serves as the city's main cultural hub.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.904758,
+                        -53.161086
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Vertientes",
+                  "text": "A modest Baptist church offering religious services to the local Punta Arenas community.",
+                  "category": "religious",
+                  "coords": [
+                        -70.911305,
+                        -53.139466
+                  ]
+            },
+            {
+                  "name": "Hermitage of Schoenstatt Punta Arenas",
+                  "text": "A peaceful Catholic Schoenstatt shrine providing a quiet space for pilgrimage and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -70.89831,
+                        -53.127469
+                  ]
+            },
+            {
+                  "name": "Templo",
+                  "text": "A local religious temple offering a dedicated space for congregational worship in the city.",
+                  "category": "religious",
+                  "coords": [
+                        -70.924517,
+                        -53.148621
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Punta Arenas",
+                  "text": "A bustling indoor marketplace selling fresh regional seafood, local produce, and Patagonian crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.911147,
+                        -53.1671
+                  ]
+            },
+            {
+                  "name": "Lord Lonsdale Shipwreck",
+                  "text": "The rusted iron hull of an old ship stranded on the rocky coastal shores of the strait.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.924455,
+                        -53.182377
+                  ]
+            },
+            {
+                  "name": "Chalet Milward",
+                  "text": "A distinctive historic chalet showcasing traditional pioneer architecture from the early settlement period.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.912206,
+                        -53.159739
+                  ]
+            },
+            {
+                  "name": "Árbol de Boric",
+                  "text": "A famous cypress tree that gained national prominence as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.912337,
+                        -53.157613
+                  ]
+            },
+            {
+                  "name": "Magallanes III",
+                  "text": "A maritime attraction celebrating the nautical heritage and exploration history of the Magellan Strait.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.878737,
+                        -53.106589
+                  ]
+            },
+            {
+                  "name": "Monumento a Tripulantes Goleta Ancud",
+                  "text": "A monument honoring the crew of the schooner Ancud, who historically claimed the strait for Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.896505,
+                        -53.163718
+                  ]
+            },
+            {
+                  "name": "José Menéndez Palace",
+                  "text": "An elegant 19th-century mansion showcasing the vast wealth of early Patagonian pioneers.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.907121,
+                        -53.161984
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-MA",
     coords: [-70.8996, -53.1645],
@@ -532,7 +7129,412 @@ export const poiExtraChileEconomicV2: POI[] = [
     }
   },
   {
-    id: "puerto-chacabuco-economic-v2",
+    id: "puerto-chacabuco-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barco Encallado \"Viña del Mar\"",
+                  "text": "Die rostigen Überreste des Schiffswracks M/V Viña del Mar, die in den Küstengewässern bei Puerto Chacabuco sichtbar sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.826187,
+                        -45.460968
+                  ]
+            },
+            {
+                  "name": "Waterfall viewing platform",
+                  "text": "Eine ausgewiesene hölzerne Aussichtsplattform, die einen nahen Blick auf einen natürlichen Wasserfall bei Puerto Chacabuco bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.736817,
+                        -45.47009
+                  ]
+            },
+            {
+                  "name": "Lago Riesco",
+                  "text": "Ein Aussichtspunkt mit Blick auf das unberührte, von Gletschern gespeiste Wasser und die umliegenden Berge des Lago Riesco.",
+                  "category": "natural",
+                  "coords": [
+                        -72.733514,
+                        -45.465377
+                  ]
+            },
+            {
+                  "name": "Cascada Barbas del Viejo",
+                  "text": "Ein malerischer Aussichtspunkt, der auf die markanten, fließenden Kaskaden des Wasserfalls Barbas del Viejo gerichtet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -72.738591,
+                        -45.465666
+                  ]
+            },
+            {
+                  "name": "Ensenada Acantilada",
+                  "text": "Eine malerische Küstenbucht, die von steilen, schroffen Klippen in der Nähe von Puerto Chacabuco umrahmt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.839871,
+                        -45.392784
+                  ]
+            },
+            {
+                  "name": "Bahía Acantilada",
+                  "text": "Eine malerische Küstenattraktion, die für ihr dramatisches Klippengelände bekannt ist, das bei Puerto Chacabuco in die Bucht abfällt.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.795317,
+                        -45.385943
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturístico Aiken del Sur",
+                  "text": "Ein privater Ökotourismus-Park mit Wanderwegen durch üppige patagonische Wälder und einheimische Flora in der Nähe von Puerto Chacabuco.",
+                  "category": "natural",
+                  "coords": [
+                        -72.738328,
+                        -45.464131
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "Ein natürlicher Küstenstrand mit einer Mischung aus Sand und Kieseln entlang der Küste von Puerto Chacabuco.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.824636,
+                        -45.461818
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile",
+                  "text": "Eine lokale pfingstlich-methodistische Kirche, die der Gemeinde von Puerto Chacabuco spirituelle Dienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.815023,
+                        -45.464389
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "Ein bescheidener Gottesdienstraum der evangelisch-pfingstlichen Gemeinde in Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.81517,
+                        -45.462831
+                  ]
+            },
+            {
+                  "name": "Iglesia Universal de Cristo",
+                  "text": "Ein lokaler Versammlungsraum der Universalkirche Christi in der Küstenstadt Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.815413,
+                        -45.461074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barco Encallado \"Viña del Mar\"",
+                  "text": "Az M/V Viña del Mar hajóroncs rozsdás fém maradványai, amelyek Puerto Chacabuco part menti vizeinél láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.826187,
+                        -45.460968
+                  ]
+            },
+            {
+                  "name": "Waterfall viewing platform",
+                  "text": "Kijelölt fából készült kilátóterasz, amelyről közelről is megcsodálhatjuk a Puerto Chacabuco közelében lezúduló vízesést.",
+                  "category": "natural",
+                  "coords": [
+                        -72.736817,
+                        -45.47009
+                  ]
+            },
+            {
+                  "name": "Lago Riesco",
+                  "text": "Kilátópont, ahonnan a Lago Riesco gleccserek táplálta, tiszta vizére és a környező hegyekre nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -72.733514,
+                        -45.465377
+                  ]
+            },
+            {
+                  "name": "Cascada Barbas del Viejo",
+                  "text": "Festői kilátó, ahonnan a Barbas del Viejo vízesés jellegzetes, lezúduló zuhatagait láthatjuk.",
+                  "category": "natural",
+                  "coords": [
+                        -72.738591,
+                        -45.465666
+                  ]
+            },
+            {
+                  "name": "Ensenada Acantilada",
+                  "text": "Puerto Chacabuco közelében található, meredek, zord sziklákkal szegélyezett festői tengeröböl.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.839871,
+                        -45.392784
+                  ]
+            },
+            {
+                  "name": "Bahía Acantilada",
+                  "text": "Festői tengerparti látványosság Puerto Chacabuco közelében, amely a drámai sziklafalakról ismert, amelyek az öbölbe zuhannak.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.795317,
+                        -45.385943
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturístico Aiken del Sur",
+                  "text": "Magán ökoturisztikai park Puerto Chacabuco közelében, amelynek ösvényei buja patagóniai erdőkön és őshonos növényvilágon vezetnek keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -72.738328,
+                        -45.464131
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "Homokkal és kavicsokkal borított természetes tengerparti szakasz Puerto Chacabuco partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.824636,
+                        -45.461818
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile",
+                  "text": "Helyi pünkösdi metodista templom, amely Puerto Chacabuco közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.815023,
+                        -45.464389
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "Egy evangéliumi pünkösdi gyülekezet szerény istentiszteleti helye Puerto Chacabuco-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.81517,
+                        -45.462831
+                  ]
+            },
+            {
+                  "name": "Iglesia Universal de Cristo",
+                  "text": "A Krisztus Egyetemes Egyházának helyi gyülekezeti helye Puerto Chacabuco tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.815413,
+                        -45.461074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barco Encallado \"Viña del Mar\"",
+                  "text": "Rămășițele metalice ruginite ale epavei M/V Viña del Mar, vizibile în apele de coastă din apropiere de Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.826187,
+                        -45.460968
+                  ]
+            },
+            {
+                  "name": "Waterfall viewing platform",
+                  "text": "O platformă de observare din lemn, care oferă vederi de aproape asupra unei cascade naturale din apropiere de Puerto Chacabuco.",
+                  "category": "natural",
+                  "coords": [
+                        -72.736817,
+                        -45.47009
+                  ]
+            },
+            {
+                  "name": "Lago Riesco",
+                  "text": "Un punct de observație cu vedere la apele imaculate, alimentate de ghețari și la munții din jur ai Lago Riesco.",
+                  "category": "natural",
+                  "coords": [
+                        -72.733514,
+                        -45.465377
+                  ]
+            },
+            {
+                  "name": "Cascada Barbas del Viejo",
+                  "text": "Un punct de belvedere pitoresc îndreptat spre cascadele distincte și curgătoare ale cascadei Barbas del Viejo.",
+                  "category": "natural",
+                  "coords": [
+                        -72.738591,
+                        -45.465666
+                  ]
+            },
+            {
+                  "name": "Ensenada Acantilada",
+                  "text": "Un golf pitoresc pe coastă, înconjurat de stânci abrupte și accidentate lângă Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.839871,
+                        -45.392784
+                  ]
+            },
+            {
+                  "name": "Bahía Acantilada",
+                  "text": "O atracție de coastă pitorească, cunoscută pentru terenul său dramatic cu stânci care coboară abrupt în golful din Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.795317,
+                        -45.385943
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturístico Aiken del Sur",
+                  "text": "Un parc privat de ecoturism, cu trasee prin pădurile luxuriante din Patagonia și floră nativă lângă Puerto Chacabuco.",
+                  "category": "natural",
+                  "coords": [
+                        -72.738328,
+                        -45.464131
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "O întindere naturală de plajă de coastă, cu un amestec de nisip și pietriș de-a lungul țărmului din Puerto Chacabuco.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.824636,
+                        -45.461818
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile",
+                  "text": "O biserică metodistă penticostală locală care oferă servicii spirituale comunității din Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.815023,
+                        -45.464389
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "Un spațiu modest de cult al unei congregații evanghelice penticostale, situat în Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.81517,
+                        -45.462831
+                  ]
+            },
+            {
+                  "name": "Iglesia Universal de Cristo",
+                  "text": "Un spațiu local de adunare pentru Biserica Universală a lui Hristos în orașul de coastă Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.815413,
+                        -45.461074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rest Shipwreck M/V \"Viña del Mar\"",
+                  "text": "The rusted metal remains of the M/V Viña del Mar shipwreck, visible in the coastal waters near Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.826187,
+                        -45.460968
+                  ]
+            },
+            {
+                  "name": "Waterfall viewing platform",
+                  "text": "A designated wooden viewing platform providing close-up views of a natural waterfall cascading near Puerto Chacabuco.",
+                  "category": "natural",
+                  "coords": [
+                        -72.736817,
+                        -45.47009
+                  ]
+            },
+            {
+                  "name": "Lago Riesco",
+                  "text": "A vantage point overlooking the pristine, glacially-fed waters and surrounding mountains of Lago Riesco.",
+                  "category": "natural",
+                  "coords": [
+                        -72.733514,
+                        -45.465377
+                  ]
+            },
+            {
+                  "name": "Cascada Barbas del Viejo",
+                  "text": "A scenic lookout directed towards the distinct, flowing cascades of the Barbas del Viejo waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -72.738591,
+                        -45.465666
+                  ]
+            },
+            {
+                  "name": "Ensenada Acantilada",
+                  "text": "A picturesque coastal bay framed by steep, rugged cliffs near Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.839871,
+                        -45.392784
+                  ]
+            },
+            {
+                  "name": "Bahía Acantilada",
+                  "text": "A scenic coastal attraction known for its dramatic cliffside terrain plunging into the bay at Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.795317,
+                        -45.385943
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturístico Aiken del Sur",
+                  "text": "A private ecotourism park featuring trails through lush Patagonian forests and native flora near Puerto Chacabuco.",
+                  "category": "natural",
+                  "coords": [
+                        -72.738328,
+                        -45.464131
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "A natural expanse of coastal beach with a mix of sand and pebbles along the shoreline of Puerto Chacabuco.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.824636,
+                        -45.461818
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile",
+                  "text": "A local Pentecostal Methodist church providing spiritual services to the community of Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.815023,
+                        -45.464389
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "An Evangelical Pentecostal congregation's modest worship space situated in Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.81517,
+                        -45.462831
+                  ]
+            },
+            {
+                  "name": "Iglesia Universal de Cristo",
+                  "text": "A local assembly space for the Universal Church of Christ in the coastal town of Puerto Chacabuco.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.815413,
+                        -45.461074
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-AI",
     coords: [-72.8252, -45.4593],
@@ -592,7 +7594,1168 @@ export const poiExtraChileEconomicV2: POI[] = [
     }
   },
   {
-    id: "puerto-de-coquimbo-economic-v2",
+    id: "puerto-de-coquimbo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia de Guayacán",
+                  "text": "Die Iglesia de Guayacán in Puerto de Coquimbo ist ein historisches Kirchendenkmal, das 1889 von Joseph Danly entworfen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -71.346609,
+                        -29.967003
+                  ]
+            },
+            {
+                  "name": "Fuerte Lambert",
+                  "text": "Das Fuerte Lambert in Puerto de Coquimbo ist eine historische Festungsanlage aus dem 19. Jahrhundert.",
+                  "category": "fortress",
+                  "coords": [
+                        -71.336015,
+                        -29.934238
+                  ]
+            },
+            {
+                  "name": "Mezquita de Coquimbo",
+                  "text": "Die Mezquita de Coquimbo in Puerto de Coquimbo ist ein markantes islamisches Kulturzentrum, das als Mohammed VI Zentrum für den Dialog der Zivilisationen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.335252,
+                        -29.963181
+                  ]
+            },
+            {
+                  "name": "Cruz del Tercer Milenio",
+                  "text": "Das Cruz del Tercer Milenio in Puerto de Coquimbo ist ein monumentales Kreuz, das im Jahr 2001 fertiggestellt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.3472,
+                        -29.951909
+                  ]
+            },
+            {
+                  "name": "Faro Punta Tortuga",
+                  "text": "Der Faro Punta Tortuga ist ein markanter Leuchtturm, der die Schifffahrt vor der Küste von Puerto de Coquimbo leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.342663,
+                        -29.934043
+                  ]
+            },
+            {
+                  "name": "Sitio RHRAP Bahía de Coquimbo",
+                  "text": "Das Coquimbo Bay WHSRN Site in Puerto de Coquimbo ist ein wichtiges Naturschutzgebiet für Küstenvögel, das am 12. Januar 2024 ausgewiesen wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -71.294303,
+                        -29.918514
+                  ]
+            },
+            {
+                  "name": "Cerro Pan de Azúcar",
+                  "text": "Der Cerro Pan de Azúcar ist ein markanter Gipfel in der Landschaft von Puerto de Coquimbo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.265214,
+                        -29.990775
+                  ]
+            },
+            {
+                  "name": "Cerro Centinela Norte",
+                  "text": "Der Cerro Centinela Norte ist eine auffällige Erhebung im Gebiet von Puerto de Coquimbo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.372584,
+                        -30.00411
+                  ]
+            },
+            {
+                  "name": "Cerro Pañuelo",
+                  "text": "Der Cerro Pañuelo ist ein markanter, international katalogisierter Gipfel, der weite Ausblicke auf die Landschaft von Coquimbo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.282072,
+                        -29.954827
+                  ]
+            },
+            {
+                  "name": "Museo-Acuario FCM U. Católica del Norte",
+                  "text": "Dieses Universitätsmuseum mit Aquarium zeigt die vielfältige Meeresfauna, die von der Katholischen Universität des Nordens erforscht wird.",
+                  "category": "museum",
+                  "coords": [
+                        -71.35324,
+                        -29.965937
+                  ]
+            },
+            {
+                  "name": "Domo",
+                  "text": "Dieser markante kuppelförmige Museumsbau beherbergt immersive kulturelle und wissenschaftliche Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -71.337777,
+                        -29.952317
+                  ]
+            },
+            {
+                  "name": "Museo OVNI",
+                  "text": "Dieses einzigartige, am 2. Februar 2024 eröffnete Museum widmet sich der Erforschung und Ausstellung von UFO-Phänomenen.",
+                  "category": "museum",
+                  "coords": [
+                        -71.282594,
+                        -29.945726
+                  ]
+            },
+            {
+                  "name": "Casa del Arte Rural",
+                  "text": "Diese lokale Galerie konzentriert sich auf die Erhaltung und Ausstellung von rustikaler Kunst und traditionellem ländlichem Handwerk.",
+                  "category": "museum",
+                  "coords": [
+                        -71.300512,
+                        -29.972789
+                  ]
+            },
+            {
+                  "name": "Casona Abandonada",
+                  "text": "Die aus dem Jahr 1900 stammenden, zerfallenen Mauern dieses verlassenen Herrenhauses spiegeln die Architekturgeschichte der Jahrhundertwende wider.",
+                  "category": "historical",
+                  "coords": [
+                        -71.33583,
+                        -29.941085
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Dieses Freiluft-Amphitheater mit seinen abgestuften Sitzreihen dient als Gemeindetreffpunkt für Theateraufführungen und Musikveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.255889,
+                        -29.93122
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Jorge Alessandri",
+                  "text": "Das nach dem ehemaligen chilenischen Präsidenten benannte Kunstzentrum beherbergt verschiedene bürgerliche Ausstellungen und kreative Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.334297,
+                        -29.982772
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Parque Bernardo O'Higgins",
+                  "text": "Diese in einem öffentlichen Park gelegene Freilichtbühne ist regelmäßig Schauplatz lokaler Theater- und Musikaufführungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336594,
+                        -29.957332
+                  ]
+            },
+            {
+                  "name": "Centro Cultural El Castillo de Coquimbo",
+                  "text": "Dieses lebendige Kulturzentrum ist in einem historischen, schlossähnlichen Gebäude aus dem Jahr 1900 untergebracht und bildet einen Schwerpunkt der städtischen Kunstszene.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336946,
+                        -29.938953
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Palace",
+                  "text": "Dieser prominente palastartige Kulturraum beherbergt regelmäßig Kunstausstellungen und Aufführungen im Herzen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.337644,
+                        -29.949032
+                  ]
+            },
+            {
+                  "name": "Casa de Las Artes",
+                  "text": "Dieses Haus der Künste bietet Ateliers und Ausstellungsräume, die speziell der Förderung aufstrebender regionaler Kunstschaffender dienen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.33763,
+                        -29.94996
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "Diese bescheidene protestantische Kapelle dient der örtlichen Baptistengemeinde mit regelmäßigen Gottesdiensten und Bibelstunden.",
+                  "category": "religious",
+                  "coords": [
+                        -71.258317,
+                        -29.934737
+                  ]
+            },
+            {
+                  "name": "Capilla Santísima Trinidad",
+                  "text": "Diese der Heiligen Dreifaltigkeit geweihte ruhige Kapelle bietet der örtlichen Gemeinde eine friedliche Umgebung für das tägliche Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        -71.268226,
+                        -29.955458
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Elena",
+                  "text": "Diese Nachbarschaftskirche zu Ehren der Heiligen Helena weist eine traditionelle Kirchenarchitektur auf, die auf ihre örtliche Pfarrei zugeschnitten ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.257574,
+                        -30.004531
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Diese moderne Kirche ist für ihre Gottesdienste am Samstag bekannt und fungiert als spirituelles Zentrum für die Siebenten-Tags-Adventisten.",
+                  "category": "religious",
+                  "coords": [
+                        -71.34264,
+                        -29.986673
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Diese der Heiligen Familie geweihte Pfarrkirche ist mit ihrem aktiven religiösen Kalender ein Anker der lokalen katholischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -71.341609,
+                        -29.982746
+                  ]
+            },
+            {
+                  "name": "Terminal Agropecuario La Garza",
+                  "text": "Dieses geschäftige landwirtschaftliche Terminal verbindet regionale Landwirte direkt mit Verbrauchern, die frische, in der Region angebaute Produkte suchen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.321319,
+                        -29.96475
+                  ]
+            },
+            {
+                  "name": "Agro La Cantera",
+                  "text": "Dieser große Marktplatz ist auf den massenhaften Verkauf von Obst, Gemüse und regionalen landwirtschaftlichen Gütern aus der Umgebung spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.316606,
+                        -29.964283
+                  ]
+            },
+            {
+                  "name": "Feria de Abastos de Coquimbo",
+                  "text": "Ein lebendiger, traditioneller Versorgungsmarkt, auf dem die Einwohner tägliche Lebensmittel, Fleisch und Haushaltswaren von lokalen Verkäufern kaufen können.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336005,
+                        -29.958506
+                  ]
+            },
+            {
+                  "name": "Puerto Pesquero Artesanal",
+                  "text": "Dieser an der Küste gelegene, belebte handwerkliche Fischereihafen ermöglicht es Besuchern, fangfrische Meeresfrüchte direkt von den Booten der einheimischen Fischer zu kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.335157,
+                        -29.955729
+                  ]
+            },
+            {
+                  "name": "Pueblo Artesanal de Peñuelas",
+                  "text": "Dieses dem regionalen Kunsthandwerk gewidmete Dorf bietet Verkaufsstände mit handgefertigten Textilien, Keramik und authentischen lokalen Souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.291838,
+                        -29.949276
+                  ]
+            },
+            {
+                  "name": "Locomotora FERRANOR",
+                  "text": "Diese historisch erhaltene FERRANOR-Eisenbahnlokomotive steht als Denkmal für das industrielle Verkehrs- und Transporterbe der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.33673,
+                        -29.970803
+                  ]
+            },
+            {
+                  "name": "Piedra del Tope",
+                  "text": "Diese markante natürliche Felsformation dient in der Landschaft als leicht erkennbare geografische Markierung und lokaler Aussichtspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.260586,
+                        -29.989983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia de Guayacán",
+                  "text": "A Puerto de Coquimbo-i Iglesia de Guayacán egy történelmi műemlék templom, amelyet Joseph Danly tervezett 1889-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -71.346609,
+                        -29.967003
+                  ]
+            },
+            {
+                  "name": "Fuerte Lambert",
+                  "text": "A Puerto de Coquimbo-i Fuerte Lambert egy történelmi 19. századi erődítmény.",
+                  "category": "fortress",
+                  "coords": [
+                        -71.336015,
+                        -29.934238
+                  ]
+            },
+            {
+                  "name": "Mezquita de Coquimbo",
+                  "text": "A Puerto de Coquimbo-i Mezquita de Coquimbo egy jelentős iszlám kulturális központ, amely a VI. Mohammed Civilizációk Párbeszéde Központjaként is ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -71.335252,
+                        -29.963181
+                  ]
+            },
+            {
+                  "name": "Cruz del Tercer Milenio",
+                  "text": "A Puerto de Coquimbo-i Cruz del Tercer Milenio egy hatalmas kereszt alakú emlékmű, amelyet 2001-ben építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.3472,
+                        -29.951909
+                  ]
+            },
+            {
+                  "name": "Faro Punta Tortuga",
+                  "text": "A Faro Punta Tortuga egy világítótorony, amely a Puerto de Coquimbo partjainál haladó hajóforgalmat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.342663,
+                        -29.934043
+                  ]
+            },
+            {
+                  "name": "Sitio RHRAP Bahía de Coquimbo",
+                  "text": "A Puerto de Coquimbo-i Coquimbo Bay WHSRN Site egy fontos tengerparti madárvédelmi rezervátum, amelyet 2024. január 12-én jelöltek ki.",
+                  "category": "natural",
+                  "coords": [
+                        -71.294303,
+                        -29.918514
+                  ]
+            },
+            {
+                  "name": "Cerro Pan de Azúcar",
+                  "text": "A Cerro Pan de Azúcar egy jellegzetes hegycsúcs Puerto de Coquimbo vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        -71.265214,
+                        -29.990775
+                  ]
+            },
+            {
+                  "name": "Cerro Centinela Norte",
+                  "text": "A Cerro Centinela Norte egy kiemelkedő hegycsúcs Puerto de Coquimbo területén.",
+                  "category": "natural",
+                  "coords": [
+                        -71.372584,
+                        -30.00411
+                  ]
+            },
+            {
+                  "name": "Cerro Pañuelo",
+                  "text": "A Cerro Pañuelo egy kiemelkedő, nemzetközileg jegyzett hegycsúcs, amely szélesvásznú kilátást nyújt Coquimbo vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -71.282072,
+                        -29.954827
+                  ]
+            },
+            {
+                  "name": "Museo-Acuario FCM U. Católica del Norte",
+                  "text": "Ez az egyetemi múzeum és akvárium az Északi Katolikus Egyetem által tanulmányozott változatos tengeri élővilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -71.35324,
+                        -29.965937
+                  ]
+            },
+            {
+                  "name": "Domo",
+                  "text": "Ez a jellegzetes kupola alakú múzeumi épület magával ragadó kulturális és tudományos kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -71.337777,
+                        -29.952317
+                  ]
+            },
+            {
+                  "name": "Museo OVNI",
+                  "text": "A 2024. február 2-án megnyílt egyedülálló múzeum az UFO-jelenségek kutatásának és bemutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -71.282594,
+                        -29.945726
+                  ]
+            },
+            {
+                  "name": "Casa del Arte Rural",
+                  "text": "Ez a helyi galéria a rusztikus művészet és a hagyományos vidéki kézművesség megőrzésére és bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -71.300512,
+                        -29.972789
+                  ]
+            },
+            {
+                  "name": "Casona Abandonada",
+                  "text": "Az 1900-ból származó elhagyatott kastély omladozó falai a századforduló építészeti történelmét tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        -71.33583,
+                        -29.941085
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "A lépcsőzetes üléssorokkal rendelkező szabadtéri amfiteátrum közösségi találkozóhelyként szolgál színházi előadások és zenei rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.255889,
+                        -29.93122
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Jorge Alessandri",
+                  "text": "A korábbi chilei elnökről elnevezett művészeti központ különféle polgári kiállításoknak és kreatív workshopoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.334297,
+                        -29.982772
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Parque Bernardo O'Higgins",
+                  "text": "A nyilvános parkban található szabadtéri színpad rendszeresen ad otthont helyi színházi és zenei előadásoknak a szabad ég alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336594,
+                        -29.957332
+                  ]
+            },
+            {
+                  "name": "Centro Cultural El Castillo de Coquimbo",
+                  "text": "Az 1900-ból származó, történelmi kastélyszerű épületben helyet kapó nyüzsgő kulturális központ a város művészeti életének fókuszpontja.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336946,
+                        -29.938953
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Palace",
+                  "text": "Ez a kiemelkedő palotaszerű kulturális tér rendszeresen ad otthont művészeti kiállításoknak és előadásoknak a város szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.337644,
+                        -29.949032
+                  ]
+            },
+            {
+                  "name": "Casa de Las Artes",
+                  "text": "A Művészetek Háza olyan stúdiókat és kiállítótereket kínál, amelyek kifejezetten a feltörekvő regionális alkotók támogatását szolgálják.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.33763,
+                        -29.94996
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "Ez a szerény protestáns kápolna a helyi baptista gyülekezetet szolgálja rendszeres istentiszteletekkel és bibliaórákkal.",
+                  "category": "religious",
+                  "coords": [
+                        -71.258317,
+                        -29.934737
+                  ]
+            },
+            {
+                  "name": "Capilla Santísima Trinidad",
+                  "text": "A Szentháromságnak szentelt csendes kápolna békés környezetet biztosít a helyi közösség számára a mindennapi imához.",
+                  "category": "religious",
+                  "coords": [
+                        -71.268226,
+                        -29.955458
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Elena",
+                  "text": "A Szent Ilona tiszteletére emelt környékbeli templom hagyományos egyházi építészettel rendelkezik, amely a helyi egyházközséghez igazodik.",
+                  "category": "religious",
+                  "coords": [
+                        -71.257574,
+                        -30.004531
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "A szombati istentiszteleteiről ismert modern templom a Hetednapi Adventista Egyház spirituális központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -71.34264,
+                        -29.986673
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "A Szent Családnak szentelt plébániatemplom aktív vallási naptárával a helyi katolikus közösség horgonyaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -71.341609,
+                        -29.982746
+                  ]
+            },
+            {
+                  "name": "Terminal Agropecuario La Garza",
+                  "text": "Ez a forgalmas mezőgazdasági terminál közvetlenül köti össze a regionális gazdákat a friss, helyben termesztett termékeket kereső fogyasztókkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.321319,
+                        -29.96475
+                  ]
+            },
+            {
+                  "name": "Agro La Cantera",
+                  "text": "Ez a nagy piac a környékről származó gyümölcsök, zöldségek és regionális mezőgazdasági termékek tömeges értékesítésére specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.316606,
+                        -29.964283
+                  ]
+            },
+            {
+                  "name": "Feria de Abastos de Coquimbo",
+                  "text": "Élénk hagyományos ellátási vásár, ahol a lakosok napi élelmiszereket, húst és háztartási cikkeket vásárolhatnak a helyi árusoktól.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336005,
+                        -29.958506
+                  ]
+            },
+            {
+                  "name": "Puerto Pesquero Artesanal",
+                  "text": "A part mentén található nyüzsgő kézműves halászkikötő lehetővé teszi a látogatók számára, hogy frissen fogott tengeri gyümölcsöket vásároljanak közvetlenül a helyi halászok hajóiról.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.335157,
+                        -29.955729
+                  ]
+            },
+            {
+                  "name": "Pueblo Artesanal de Peñuelas",
+                  "text": "A regionális kézművességnek szentelt falu kézzel készített textileket, kerámiákat és autentikus helyi emléktárgyakat kínáló standokkal várja a látogatókat.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.291838,
+                        -29.949276
+                  ]
+            },
+            {
+                  "name": "Locomotora FERRANOR",
+                  "text": "Ez a történelmileg megőrzött FERRANOR vasúti mozdony a régió ipari közlekedési és szállítási örökségének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.33673,
+                        -29.970803
+                  ]
+            },
+            {
+                  "name": "Piedra del Tope",
+                  "text": "Ez a jellegzetes természetes sziklaalakzat a tájban könnyen felismerhető földrajzi tájékozódási pontként és helyi kilátóként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.260586,
+                        -29.989983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia de Guayacán",
+                  "text": "Iglesia de Guayacán din Puerto de Coquimbo este un monument istoric proiectat de Joseph Danly în 1889.",
+                  "category": "historical",
+                  "coords": [
+                        -71.346609,
+                        -29.967003
+                  ]
+            },
+            {
+                  "name": "Fuerte Lambert",
+                  "text": "Fuerte Lambert din Puerto de Coquimbo este o fortăreață istorică din secolul al XIX-lea.",
+                  "category": "fortress",
+                  "coords": [
+                        -71.336015,
+                        -29.934238
+                  ]
+            },
+            {
+                  "name": "Mezquita de Coquimbo",
+                  "text": "Mezquita de Coquimbo din Puerto de Coquimbo este un lăcaș de cult islamic, cunoscut și ca Centrul Mohammed VI pentru Dialogul Civilizațiilor.",
+                  "category": "religious",
+                  "coords": [
+                        -71.335252,
+                        -29.963181
+                  ]
+            },
+            {
+                  "name": "Cruz del Tercer Milenio",
+                  "text": "Cruz del Tercer Milenio din Puerto de Coquimbo este un monument impresionant în formă de cruce, finalizat în anul 2001.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.3472,
+                        -29.951909
+                  ]
+            },
+            {
+                  "name": "Faro Punta Tortuga",
+                  "text": "Faro Punta Tortuga este un far maritim care ghidează navigația pe coasta din Puerto de Coquimbo.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.342663,
+                        -29.934043
+                  ]
+            },
+            {
+                  "name": "Sitio RHRAP Bahía de Coquimbo",
+                  "text": "Coquimbo Bay WHSRN Site din Puerto de Coquimbo este o rezervație naturală importantă pentru păsările de țărm, desemnată la 12 ianuarie 2024.",
+                  "category": "natural",
+                  "coords": [
+                        -71.294303,
+                        -29.918514
+                  ]
+            },
+            {
+                  "name": "Cerro Pan de Azúcar",
+                  "text": "Cerro Pan de Azúcar este un vârf montan caracteristic din peisajul orașului Puerto de Coquimbo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.265214,
+                        -29.990775
+                  ]
+            },
+            {
+                  "name": "Cerro Centinela Norte",
+                  "text": "Cerro Centinela Norte este un vârf montan vizibil în regiunea Puerto de Coquimbo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.372584,
+                        -30.00411
+                  ]
+            },
+            {
+                  "name": "Cerro Pañuelo",
+                  "text": "Cerro Pañuelo este un vârf proeminent, catalogat internațional, care oferă vederi ample asupra peisajului din Coquimbo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.282072,
+                        -29.954827
+                  ]
+            },
+            {
+                  "name": "Museo-Acuario FCM U. Católica del Norte",
+                  "text": "Acest muzeu și acvariu universitar prezintă viața marină diversă studiată de Universitatea Catolică a Nordului.",
+                  "category": "museum",
+                  "coords": [
+                        -71.35324,
+                        -29.965937
+                  ]
+            },
+            {
+                  "name": "Domo",
+                  "text": "Această structură muzeală distinctivă în formă de dom găzduiește expoziții culturale și științifice imersive.",
+                  "category": "museum",
+                  "coords": [
+                        -71.337777,
+                        -29.952317
+                  ]
+            },
+            {
+                  "name": "Museo OVNI",
+                  "text": "Deschis pe 2 februarie 2024, acest muzeu unic este dedicat studiului și expoziției fenomenelor OZN.",
+                  "category": "museum",
+                  "coords": [
+                        -71.282594,
+                        -29.945726
+                  ]
+            },
+            {
+                  "name": "Casa del Arte Rural",
+                  "text": "Această galerie locală se concentrează pe conservarea și expunerea artei rustice și a meșteșugurilor rurale tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        -71.300512,
+                        -29.972789
+                  ]
+            },
+            {
+                  "name": "Casona Abandonada",
+                  "text": "Datând din 1900, zidurile prăbușite ale acestui conac abandonat reflectă istoria arhitecturală de la începutul secolului.",
+                  "category": "historical",
+                  "coords": [
+                        -71.33583,
+                        -29.941085
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Acest amfiteatru în aer liber cu rânduri de scaune în trepte servește ca loc de adunare comunitară pentru spectacole de teatru și evenimente muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.255889,
+                        -29.93122
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Jorge Alessandri",
+                  "text": "Numit după fostul președinte chilian, acest centru de arte găzduiește diverse expoziții civice și ateliere creative.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.334297,
+                        -29.982772
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Parque Bernardo O'Higgins",
+                  "text": "Situată într-un parc public, această scenă în aer liber găzduiește regulat spectacole teatrale și muzicale locale sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336594,
+                        -29.957332
+                  ]
+            },
+            {
+                  "name": "Centro Cultural El Castillo de Coquimbo",
+                  "text": "Găzduit într-o structură istorică asemănătoare unui castel datând din 1900, acest centru cultural vibrant este un punct focal pentru scena artistică a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336946,
+                        -29.938953
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Palace",
+                  "text": "Acest spațiu cultural proeminent, asemănător unui palat, găzduiește periodic expoziții de artă și spectacole în inima orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.337644,
+                        -29.949032
+                  ]
+            },
+            {
+                  "name": "Casa de Las Artes",
+                  "text": "Această Casă a Artelor oferă studiouri și spații de expunere care servesc în mod specific la sprijinirea creatorilor de artă regionali emergenți.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.33763,
+                        -29.94996
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "Această capelă protestantă modestă servește congregația baptistă locală cu slujbe regulate și studii biblice.",
+                  "category": "religious",
+                  "coords": [
+                        -71.258317,
+                        -29.934737
+                  ]
+            },
+            {
+                  "name": "Capilla Santísima Trinidad",
+                  "text": "Dedicată Sfintei Treimi, această capelă liniștită oferă un mediu pașnic comunității locale pentru rugăciunea zilnică.",
+                  "category": "religious",
+                  "coords": [
+                        -71.268226,
+                        -29.955458
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Elena",
+                  "text": "Onorând-o pe Sfânta Elena, această biserică de cartier prezintă o arhitectură ecleziastică tradițională, adaptată parohiei sale locale.",
+                  "category": "religious",
+                  "coords": [
+                        -71.257574,
+                        -30.004531
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Cunoscută pentru slujbele sale de sâmbătă, această biserică modernă funcționează ca un centru spiritual pentru adventiștii de ziua a șaptea.",
+                  "category": "religious",
+                  "coords": [
+                        -71.34264,
+                        -29.986673
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Dedicată Sfintei Familii, această biserică parohială ancorează comunitatea catolică locală prin calendarul său religios activ.",
+                  "category": "religious",
+                  "coords": [
+                        -71.341609,
+                        -29.982746
+                  ]
+            },
+            {
+                  "name": "Terminal Agropecuario La Garza",
+                  "text": "Acest terminal agricol aglomerat conectează fermierii regionali direct cu consumatorii care caută produse proaspete, cultivate local.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.321319,
+                        -29.96475
+                  ]
+            },
+            {
+                  "name": "Agro La Cantera",
+                  "text": "Această piață mare este specializată în vânzarea în vrac de fructe, legume și bunuri agricole regionale din zona înconjurătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.316606,
+                        -29.964283
+                  ]
+            },
+            {
+                  "name": "Feria de Abastos de Coquimbo",
+                  "text": "Un târg tradițional de aprovizionare vibrant unde locuitorii pot cumpăra alimente zilnice, carne și produse de uz casnic de la vânzătorii locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336005,
+                        -29.958506
+                  ]
+            },
+            {
+                  "name": "Puerto Pesquero Artesanal",
+                  "text": "Situat de-a lungul coastei, acest port de pescuit artizanal plin de viață permite vizitatorilor să cumpere fructe de mare proaspete direct de pe bărcile pescarilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.335157,
+                        -29.955729
+                  ]
+            },
+            {
+                  "name": "Pueblo Artesanal de Peñuelas",
+                  "text": "Dedicat măiestriei regionale, acest sat oferă tarabe cu textile lucrate manual, ceramică și suveniruri locale autentice.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.291838,
+                        -29.949276
+                  ]
+            },
+            {
+                  "name": "Locomotora FERRANOR",
+                  "text": "Această locomotivă de cale ferată FERRANOR, conservată istoric, reprezintă un monument al moștenirii transporturilor industriale din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.33673,
+                        -29.970803
+                  ]
+            },
+            {
+                  "name": "Piedra del Tope",
+                  "text": "Această formațiune stâncoasă naturală distinctivă servește în peisaj ca un reper geografic ușor de recunoscut și un punct de belvedere local.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.260586,
+                        -29.989983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia de Guayacán",
+                  "text": "The Iglesia de Guayacán in Puerto de Coquimbo is a historic church monument designed by Joseph Danly in 1889.",
+                  "category": "historical",
+                  "coords": [
+                        -71.346609,
+                        -29.967003
+                  ]
+            },
+            {
+                  "name": "Fuerte Lambert",
+                  "text": "Fuerte Lambert in Puerto de Coquimbo is a historic 19th-century fortification.",
+                  "category": "fortress",
+                  "coords": [
+                        -71.336015,
+                        -29.934238
+                  ]
+            },
+            {
+                  "name": "Mezquita de Coquimbo",
+                  "text": "The Mezquita de Coquimbo in Puerto de Coquimbo is a prominent Islamic cultural center known as the Mohammed VI Center for the Dialogue of Civilizations.",
+                  "category": "religious",
+                  "coords": [
+                        -71.335252,
+                        -29.963181
+                  ]
+            },
+            {
+                  "name": "Cruz del Tercer Milenio",
+                  "text": "The Cruz del Tercer Milenio in Puerto de Coquimbo is a monumental cross attraction completed in 2001.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.3472,
+                        -29.951909
+                  ]
+            },
+            {
+                  "name": "Faro Punta Tortuga",
+                  "text": "Faro Punta Tortuga is a prominent lighthouse guiding maritime traffic off the coast of Puerto de Coquimbo.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.342663,
+                        -29.934043
+                  ]
+            },
+            {
+                  "name": "Coquimbo Bay WHSRN Site",
+                  "text": "The Coquimbo Bay WHSRN Site in Puerto de Coquimbo is an important shorebird nature reserve designated on January 12, 2024.",
+                  "category": "natural",
+                  "coords": [
+                        -71.294303,
+                        -29.918514
+                  ]
+            },
+            {
+                  "name": "Cerro Pan de Azúcar",
+                  "text": "Cerro Pan de Azúcar is a distinctive mountain peak in the landscape of Puerto de Coquimbo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.265214,
+                        -29.990775
+                  ]
+            },
+            {
+                  "name": "Cerro Centinela Norte",
+                  "text": "Cerro Centinela Norte is a prominent peak situated in the Puerto de Coquimbo area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.372584,
+                        -30.00411
+                  ]
+            },
+            {
+                  "name": "Cerro Pañuelo",
+                  "text": "Cerro Pañuelo is a notable, internationally cataloged peak offering sweeping natural views over the Coquimbo landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.282072,
+                        -29.954827
+                  ]
+            },
+            {
+                  "name": "Museo-Acuario FCM U. Católica del Norte",
+                  "text": "This university museum and aquarium showcases the diverse marine life studied by the Catholic University of the North.",
+                  "category": "museum",
+                  "coords": [
+                        -71.35324,
+                        -29.965937
+                  ]
+            },
+            {
+                  "name": "Domo",
+                  "text": "This distinctive dome-shaped museum structure houses immersive cultural and scientific exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -71.337777,
+                        -29.952317
+                  ]
+            },
+            {
+                  "name": "Museo OVNI",
+                  "text": "Opened on February 2, 2024, this unique museum is dedicated to the study and exhibition of UFO phenomena.",
+                  "category": "museum",
+                  "coords": [
+                        -71.282594,
+                        -29.945726
+                  ]
+            },
+            {
+                  "name": "Casa del Arte Rural",
+                  "text": "This local gallery focuses on preserving and displaying rustic art and traditional rural craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        -71.300512,
+                        -29.972789
+                  ]
+            },
+            {
+                  "name": "Casona Abandonada",
+                  "text": "Dating back to 1900, the crumbling walls of this abandoned mansion reflect the turn-of-the-century architectural history.",
+                  "category": "historical",
+                  "coords": [
+                        -71.33583,
+                        -29.941085
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Featuring tiered seating, this open-air amphitheater serves as a community gathering space for theatrical performances and musical events.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.255889,
+                        -29.93122
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Jorge Alessandri",
+                  "text": "Named after the former Chilean president, this arts center hosts various civic exhibitions and creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.334297,
+                        -29.982772
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Parque Bernardo O'Higgins",
+                  "text": "Situated within a public park, this outdoor stage regularly hosts local theatrical and musical acts under the open sky.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336594,
+                        -29.957332
+                  ]
+            },
+            {
+                  "name": "Centro Cultural El Castillo de Coquimbo",
+                  "text": "Housed in a historic castle-like structure dating back to 1900, this vibrant cultural center is a focal point for the city's arts scene.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336946,
+                        -29.938953
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Palace",
+                  "text": "This prominent palatial cultural space regularly hosts art exhibitions and live performances in the heart of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.337644,
+                        -29.949032
+                  ]
+            },
+            {
+                  "name": "Casa de Las Artes",
+                  "text": "This House of Arts provides studios and exhibition spaces specifically aimed at supporting emerging regional creators.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.33763,
+                        -29.94996
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "This modest Protestant chapel serves the local Baptist congregation with regular worship services and Bible studies.",
+                  "category": "religious",
+                  "coords": [
+                        -71.258317,
+                        -29.934737
+                  ]
+            },
+            {
+                  "name": "Capilla Santísima Trinidad",
+                  "text": "Dedicated to the Holy Trinity, this quiet chapel provides a peaceful environment for the local community's daily prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -71.268226,
+                        -29.955458
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Elena",
+                  "text": "Honoring Saint Helena, this neighborhood church features traditional ecclesiastical architecture tailored to its local parish.",
+                  "category": "religious",
+                  "coords": [
+                        -71.257574,
+                        -30.004531
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Known for its Saturday services, this modern church functions as a spiritual center for Seventh-day Adventists.",
+                  "category": "religious",
+                  "coords": [
+                        -71.34264,
+                        -29.986673
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Dedicated to the Holy Family, this parish church anchors the local Catholic community with its active religious calendar.",
+                  "category": "religious",
+                  "coords": [
+                        -71.341609,
+                        -29.982746
+                  ]
+            },
+            {
+                  "name": "Terminal Agropecuario La Garza",
+                  "text": "This busy agricultural terminal connects regional farmers directly with consumers seeking fresh, locally grown produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.321319,
+                        -29.96475
+                  ]
+            },
+            {
+                  "name": "Agro La Cantera",
+                  "text": "This large marketplace specializes in the bulk sale of fruits, vegetables, and regional farm goods sourced from the surrounding area.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.316606,
+                        -29.964283
+                  ]
+            },
+            {
+                  "name": "Feria de Abastos de Coquimbo",
+                  "text": "A vibrant traditional supply fair where residents can purchase daily groceries, meats, and household wares from local vendors.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.336005,
+                        -29.958506
+                  ]
+            },
+            {
+                  "name": "Puerto Pesquero Artesanal",
+                  "text": "Located along the coast, this bustling artisanal fishing port allows visitors to buy freshly caught seafood straight from the local fishers' boats.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.335157,
+                        -29.955729
+                  ]
+            },
+            {
+                  "name": "Pueblo Artesanal de Peñuelas",
+                  "text": "Dedicated to regional craftsmanship, this artisan village features stalls offering handmade textiles, ceramics, and authentic local souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.291838,
+                        -29.949276
+                  ]
+            },
+            {
+                  "name": "Locomotora FERRANOR",
+                  "text": "This historically preserved FERRANOR railway locomotive stands as a monument to the industrial transport heritage of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.33673,
+                        -29.970803
+                  ]
+            },
+            {
+                  "name": "Piedra del Tope",
+                  "text": "This distinctive natural rock formation serves within the landscape as an easily recognizable geographic marker and a local viewpoint.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.260586,
+                        -29.989983
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-CO",
     coords: [-71.3364, -29.9482],
@@ -652,7 +8815,1240 @@ export const poiExtraChileEconomicV2: POI[] = [
     }
   },
   {
-    id: "puerto-de-arica-economic-v2",
+    id: "puerto-de-arica-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Mar de Arica",
+                  "text": "Dieses im Oktober 2006 eröffnete Schifffahrtsmuseum zeigt eine riesige Sammlung von Muscheln und Meereslebewesen von der chilenischen Küste.",
+                  "category": "museum",
+                  "coords": [
+                        -70.319335,
+                        -18.479247
+                  ]
+            },
+            {
+                  "name": "Casa Yanulaque",
+                  "text": "Dieses historische denkmalgeschützte Gebäude, das sich durch seine traditionelle Architektur auszeichnet, ist ein prominentes Denkmal für Aricas reiche kaufmännische Vergangenheit.",
+                  "category": "historical",
+                  "coords": [
+                        -70.315989,
+                        -18.479914
+                  ]
+            },
+            {
+                  "name": "Faro Molo de Abrigo de Arica",
+                  "text": "Dieser Küstenleuchtturm am Ende des Hauptwellenbrechers der Stadt führt die Handelsschifffahrt sicher in den geschäftigen Hafen.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.327638,
+                        -18.468537
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Desembocadura del río Lluta",
+                  "text": "Dieses Anfang 2018 offiziell anerkannte, lebenswichtige Küstenfeuchtgebiet an der Mündung des Lluta-Flusses bietet ein entscheidendes Schutzgebiet für Zugvögel.",
+                  "category": "natural",
+                  "coords": [
+                        -70.323494,
+                        -18.407945
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza y RENAMU Humedal Desembocadura Río Lluta",
+                  "text": "Dieses im April 2009 als Naturschutzgebiet ausgewiesene, geschützte Ästuar ist ein blühender ökologischer Hotspot zur Beobachtung seltener Küstenvögel.",
+                  "category": "natural",
+                  "coords": [
+                        -70.324571,
+                        -18.413783
+                  ]
+            },
+            {
+                  "name": "Reserva Marina La Puntilla - Playa Chinchorro",
+                  "text": "Dieses im Mai 2023 als Meeresschutzgebiet eingerichtete Küstengebiet schützt die reiche Unterwasserbiodiversität direkt vor dem beliebten Chinchorro-Strand.",
+                  "category": "natural",
+                  "coords": [
+                        -70.312178,
+                        -18.465894
+                  ]
+            },
+            {
+                  "name": "Playa Chinchorro",
+                  "text": "Dieser weitläufige Sandstrand an der Küste ist ein beliebter Strand in Arica, der für sein warmes Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.303984,
+                        -18.452752
+                  ]
+            },
+            {
+                  "name": "Playa Las Machas",
+                  "text": "Dieser Sandstrand erstreckt sich entlang der Pazifikküste von Arica und ist für seine starken Strömungen und Surfwellen bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.317916,
+                        -18.422411
+                  ]
+            },
+            {
+                  "name": "Museo de Bomberos de Arica",
+                  "text": "Dieses spezialisierte Museum zeigt historische Feuerwehrausrüstung und Fahrzeuge, die von den Feuerwehren in Arica verwendet wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -70.311233,
+                        -18.480621
+                  ]
+            },
+            {
+                  "name": "Museo de Arica",
+                  "text": "Dieses im Stadtzentrum gelegene Museum zeigt lokale historische Artefakte und das kulturelle Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.313321,
+                        -18.478757
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "Dieses Verkehrsmuseum bewahrt alte Lokomotiven und Waggons und dokumentiert die Eisenbahngeschichte von Arica.",
+                  "category": "museum",
+                  "coords": [
+                        -70.320618,
+                        -18.476445
+                  ]
+            },
+            {
+                  "name": "Cerro Sagrado",
+                  "text": "Diese archäologische Stätte zeichnet sich durch eine erhöhte Hanglage aus, an der alte indigene Spuren erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        -70.235987,
+                        -18.514427
+                  ]
+            },
+            {
+                  "name": "El Tren",
+                  "text": "Dieses lebendige Kunstzentrum in Arica dient als kreativer Knotenpunkt für darstellende Künste und kulturelle Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.298292,
+                        -18.453973
+                  ]
+            },
+            {
+                  "name": "Iglesia del espíritu Santo",
+                  "text": "Diese Pfarrkirche bietet einen ruhigen Ort für spirituelle Reflexion und regelmäßige katholische Gottesdienste in Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.289709,
+                        -18.480199
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "Diese lokale Baptistenkirche bietet einen aktiven Gemeinschaftsraum für Gottesdienste und evangelikale Zusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        -70.293542,
+                        -18.43746
+                  ]
+            },
+            {
+                  "name": "Iglesia Mundial Arca de Noé",
+                  "text": "Diese zeitgenössische Andachtsstätte veranstaltet regelmäßige Gottesdienste für ihre lokale Gemeinde in Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.290899,
+                        -18.434358
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses HLT-Gemeindehaus mit seiner markanten modernen Kirchenarchitektur dient der mormonischen Gemeinde in Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.291415,
+                        -18.441121
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses lokale HLT-Kirchengebäude bietet einen eigenen Raum für religiöse Unterweisung und Sonntagsgottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -70.282729,
+                        -18.454279
+                  ]
+            },
+            {
+                  "name": "Peregrinos de Emaus",
+                  "text": "Diese lokale christliche Kirche fungiert als spiritueller Versammlungsort für ihre engagierte Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -70.297921,
+                        -18.474014
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "Diese pfingstlerische Andachtsstätte ist bekannt für ihren lebhaften Gemeindegesang und ihre evangelikalen Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -70.298218,
+                        -18.479154
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Diese HLT-Einrichtung fungiert als Gemeindehaus und beherbergt Gottesdienste sowie genealogische Forschungen in Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.287791,
+                        -18.48034
+                  ]
+            },
+            {
+                  "name": "Mercado 11 de Septiembre",
+                  "text": "Dieser belebte überdachte Markt bietet lokalen Einkäufern eine große Auswahl an frischen Produkten und regionalen Waren.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.290956,
+                        -18.438042
+                  ]
+            },
+            {
+                  "name": "Mercado Loa",
+                  "text": "Aricas Mercado Loa ist ein Nachbarschaftsmarkt, auf dem Verkäufer frisches Gemüse, Obst und Dinge des täglichen Bedarfs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.291725,
+                        -18.471966
+                  ]
+            },
+            {
+                  "name": "Super Agro Santa Maria",
+                  "text": "Dieser große Agrarmarkt konzentriert sich auf den Massenverkauf von lokal angebauten Produkten und landwirtschaftlichen Gütern.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.305701,
+                        -18.470568
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Arica",
+                  "text": "Als kommerzielles Zentrum der Stadt ist dieser traditionelle Zentralmarkt voller Essensstände und handwerklicher Erzeugnisse.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.317795,
+                        -18.477304
+                  ]
+            },
+            {
+                  "name": "Feria Máximo Lira",
+                  "text": "Dieser Freiluftmarkt bietet eine farbenfrohe Atmosphäre, in der Einheimische nach Kleidung und Haushaltswaren stöbern.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.317842,
+                        -18.474003
+                  ]
+            },
+            {
+                  "name": "Mercado Benedicto",
+                  "text": "Dieser in das städtische Raster von Arica eingebettete Markt dient als tägliches Einkaufsziel für frische Zutaten.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.308661,
+                        -18.480936
+                  ]
+            },
+            {
+                  "name": "Feria Diego Portales",
+                  "text": "Dieser lebhafte Nachbarschaftsmarkt bietet zahlreiche Stände, an denen frische lokale Meeresfrüchte und Gemüse gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.300027,
+                        -18.477315
+                  ]
+            },
+            {
+                  "name": "Mercado Tucapel",
+                  "text": "Dieser überdachte Markt in einem Wohngebiet verbindet lokale Bauern direkt mit den Einwohnern von Arica.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.29774,
+                        -18.485488
+                  ]
+            },
+            {
+                  "name": "Mercado Cabo Aroca",
+                  "text": "Dieser geschlossene Marktplatz ist ein belebter Ort, an dem man frisches Fleisch, Obst, Gemüse und lokale Gewürze kaufen kann.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.284598,
+                        -18.482466
+                  ]
+            },
+            {
+                  "name": "Paseo Peatonal 21 de mayo",
+                  "text": "Diese belebte Fußgängerzone im Zentrum von Arica ist von zahlreichen lokalen Geschäften, Cafés und Straßenverkäufern gesäumt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.317226,
+                        -18.479993
+                  ]
+            },
+            {
+                  "name": "Geoglifos Cerro Sombrero",
+                  "text": "Diese großen antiken Geoglyphen, die in den trockenen Hang gezeichnet wurden, bieten einen Einblick in die präkolumbianische Wüstenkunst.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.263329,
+                        -18.51111
+                  ]
+            },
+            {
+                  "name": "Geoglifos de Atoca",
+                  "text": "Diese komplizierten Bodenzeichnungen sind direkt in den Wüstenboden geritzt und zeigen das künstlerische Erbe früher indigener Kulturen.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.250726,
+                        -18.512505
+                  ]
+            },
+            {
+                  "name": "Paseo Chinchorro",
+                  "text": "Diese malerische Küstenpromenade verläuft parallel zum Sandstrand und bietet einen weiten Blick auf den Pazifischen Ozean.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.302518,
+                        -18.457094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Mar de Arica",
+                  "text": "A 2006 októberében megnyílt tengerészeti múzeum tengeri kagylók és a chilei tengerpart tengeri élővilágának hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.319335,
+                        -18.479247
+                  ]
+            },
+            {
+                  "name": "Casa Yanulaque",
+                  "text": "Ez a hagyományos építészetével jellemezhető történelmi műemléképület Arica gazdag kereskedelmi múltjának kiemelkedő emléke.",
+                  "category": "historical",
+                  "coords": [
+                        -70.315989,
+                        -18.479914
+                  ]
+            },
+            {
+                  "name": "Faro Molo de Abrigo de Arica",
+                  "text": "A város fő hullámtörőjének végén elhelyezkedő tengerparti világítótorony biztonságosan vezeti be a kereskedelmi hajókat a nyüzsgő kikötőbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.327638,
+                        -18.468537
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Desembocadura del río Lluta",
+                  "text": "A 2018 elején hivatalosan is elismert, a Lluta folyó torkolatánál található létfontosságú part menti vizes élőhely döntő fontosságú menedéket nyújt a vándormadarak számára.",
+                  "category": "natural",
+                  "coords": [
+                        -70.323494,
+                        -18.407945
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza y RENAMU Humedal Desembocadura Río Lluta",
+                  "text": "A 2009 áprilisában természetvédelmi területté nyilvánított védett torkolat egy virágzó ökológiai hotspot a ritka partimadarak megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -70.324571,
+                        -18.413783
+                  ]
+            },
+            {
+                  "name": "Reserva Marina La Puntilla - Playa Chinchorro",
+                  "text": "A 2023 májusában tengeri rezervátummá nyilvánított tengerparti terület a népszerű Chinchorro strand melletti gazdag víz alatti biológiai sokféleséget védi.",
+                  "category": "natural",
+                  "coords": [
+                        -70.312178,
+                        -18.465894
+                  ]
+            },
+            {
+                  "name": "Playa Chinchorro",
+                  "text": "Ez a kiterjedt homokos tengerparti sáv egy népszerű strand Arica városában, amely meleg vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.303984,
+                        -18.452752
+                  ]
+            },
+            {
+                  "name": "Playa Las Machas",
+                  "text": "Az erős áramlatokról és szörfös hullámokról ismert homokos strand Arica csendes-óceáni partja mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.317916,
+                        -18.422411
+                  ]
+            },
+            {
+                  "name": "Museo de Bomberos de Arica",
+                  "text": "Ez a specializált múzeum Arica tűzoltóságai által használt történelmi tűzoltófelszereléseket és járműveket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -70.311233,
+                        -18.480621
+                  ]
+            },
+            {
+                  "name": "Museo de Arica",
+                  "text": "A városközpontban található múzeum helyi történelmi leleteket és a régió kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.313321,
+                        -18.478757
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "Ez a közlekedési múzeum régi mozdonyokat és vagonokat őriz, bemutatva Arica vasúti történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        -70.320618,
+                        -18.476445
+                  ]
+            },
+            {
+                  "name": "Cerro Sagrado",
+                  "text": "Ezen a magaslati hegyoldalon található régészeti lelőhelyen ősi őslakos nyomok maradtak fenn.",
+                  "category": "historical",
+                  "coords": [
+                        -70.235987,
+                        -18.514427
+                  ]
+            },
+            {
+                  "name": "El Tren",
+                  "text": "Ez az élénk aricai művészeti központ az előadó-művészetek és a kulturális workshopok kreatív központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.298292,
+                        -18.453973
+                  ]
+            },
+            {
+                  "name": "Iglesia del espíritu Santo",
+                  "text": "Ez a plébániatemplom nyugodt teret biztosít a spirituális elmélyüléshez és a rendszeres katolikus szentmisékhez Aricában.",
+                  "category": "religious",
+                  "coords": [
+                        -70.289709,
+                        -18.480199
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "Ez a helyi baptista templom aktív közösségi teret biztosít az istentiszteletek és evangéliumi összejövetelek számára.",
+                  "category": "religious",
+                  "coords": [
+                        -70.293542,
+                        -18.43746
+                  ]
+            },
+            {
+                  "name": "Iglesia Mundial Arca de Noé",
+                  "text": "Ez a kortárs istentiszteleti hely rendszeres vallási szertartásoknak ad otthont a helyi gyülekezet számára Aricában.",
+                  "category": "religious",
+                  "coords": [
+                        -70.290899,
+                        -18.434358
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a jellegzetes modern templomépítészettel rendelkező Utolsó Napok Szentjei gyülekezeti ház a mormon közösséget szolgálja Aricában.",
+                  "category": "religious",
+                  "coords": [
+                        -70.291415,
+                        -18.441121
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a helyi mormon templomépület dedikált teret biztosít a vallási oktatás és a vasárnapi istentiszteletek számára.",
+                  "category": "religious",
+                  "coords": [
+                        -70.282729,
+                        -18.454279
+                  ]
+            },
+            {
+                  "name": "Peregrinos de Emaus",
+                  "text": "Ez a helyi keresztény templom a helyi gyülekezet spirituális gyülekezőhelyeként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -70.297921,
+                        -18.474014
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "Ez a pünkösdi istentiszteleti hely élénk gyülekezeti énekléséről és evangéliumi szertartásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -70.298218,
+                        -18.479154
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Egyházközségi találkozóhelyként működve ez a mormon létesítmény istentiszteleteknek és családtörténeti kutatásoknak ad otthont Aricában.",
+                  "category": "religious",
+                  "coords": [
+                        -70.287791,
+                        -18.48034
+                  ]
+            },
+            {
+                  "name": "Mercado 11 de Septiembre",
+                  "text": "Ez a nyüzsgő fedett piac friss termékek és regionális áruk széles választékát kínálja a helyi vásárlóknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.290956,
+                        -18.438042
+                  ]
+            },
+            {
+                  "name": "Mercado Loa",
+                  "text": "Az aricai Mercado Loa egy környékbeli piac, ahol az árusok friss zöldségeket, gyümölcsöket és mindennapi cikkeket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.291725,
+                        -18.471966
+                  ]
+            },
+            {
+                  "name": "Super Agro Santa Maria",
+                  "text": "Ez a nagy mezőgazdasági piac a helyben termesztett termékek és mezőgazdasági áruk nagybani értékesítésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.305701,
+                        -18.470568
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Arica",
+                  "text": "A város kereskedelmi szíveként működő hagyományos központi piac tele van ételstandokkal és kézműves termékekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.317795,
+                        -18.477304
+                  ]
+            },
+            {
+                  "name": "Feria Máximo Lira",
+                  "text": "Ez a szabadtéri piac színes atmoszférát biztosít, ahol a helyiek ruhákat és háztartási cikkeket böngésznek.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.317842,
+                        -18.474003
+                  ]
+            },
+            {
+                  "name": "Mercado Benedicto",
+                  "text": "Az aricai városhálózatban található piac mindennapi bevásárlóhelyként szolgál a friss alapanyagok beszerzéséhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.308661,
+                        -18.480936
+                  ]
+            },
+            {
+                  "name": "Feria Diego Portales",
+                  "text": "Ezen a nyüzsgő környékbeli piacon több stand is árul friss helyi tenger gyümölcseit és zöldségeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.300027,
+                        -18.477315
+                  ]
+            },
+            {
+                  "name": "Mercado Tucapel",
+                  "text": "A lakóövezetben található fedett piac közvetlenül összeköti a helyi gazdákat Arica lakosaival.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.29774,
+                        -18.485488
+                  ]
+            },
+            {
+                  "name": "Mercado Cabo Aroca",
+                  "text": "Ez a zárt piac nyüzsgő hely friss húsok, termények és helyi fűszerek vásárlására.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.284598,
+                        -18.482466
+                  ]
+            },
+            {
+                  "name": "Paseo Peatonal 21 de mayo",
+                  "text": "Ezt az Arica központjában található nyüzsgő sétálóutcát számos helyi bolt, kávézó és utcai árus szegélyezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.317226,
+                        -18.479993
+                  ]
+            },
+            {
+                  "name": "Geoglifos Cerro Sombrero",
+                  "text": "A száraz hegyoldalba rajzolt nagyméretű, ősi geoglifák bepillantást engednek a Kolumbusz előtti sivatagi művészetbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.263329,
+                        -18.51111
+                  ]
+            },
+            {
+                  "name": "Geoglifos de Atoca",
+                  "text": "Ezeket a bonyolult talajrajzokat közvetlenül a sivatag talajába karcolták, bemutatva a korai bennszülött kultúrák művészeti örökségét.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.250726,
+                        -18.512505
+                  ]
+            },
+            {
+                  "name": "Paseo Chinchorro",
+                  "text": "Ez a festői tengerparti sétány a homokos parttal párhuzamosan fut, és lenyűgöző kilátást nyújt a Csendes-óceánra.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.302518,
+                        -18.457094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Mar de Arica",
+                  "text": "Deschis în octombrie 2006, acest muzeu maritim expune o vastă colecție de scoici și viață marină de pe coasta chiliană.",
+                  "category": "museum",
+                  "coords": [
+                        -70.319335,
+                        -18.479247
+                  ]
+            },
+            {
+                  "name": "Casa Yanulaque",
+                  "text": "Această clădire istorică de patrimoniu, caracterizată prin arhitectura sa tradițională, se distinge ca un monument proeminent al bogatului trecut mercantil al orașului Arica.",
+                  "category": "historical",
+                  "coords": [
+                        -70.315989,
+                        -18.479914
+                  ]
+            },
+            {
+                  "name": "Faro Molo de Abrigo de Arica",
+                  "text": "Poziționat la capătul principalului dig al orașului, acest far de coastă ghidează în siguranță transportul comercial în portul aglomerat.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.327638,
+                        -18.468537
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Desembocadura del río Lluta",
+                  "text": "Recunoscută oficial la începutul anului 2018, această zonă umedă de coastă vitală de la gura râului Lluta oferă un sanctuar crucial pentru păsările migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        -70.323494,
+                        -18.407945
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza y RENAMU Humedal Desembocadura Río Lluta",
+                  "text": "Desemnat ca sanctuar al naturii în aprilie 2009, acest estuar protejat este un punct de atracție ecologic înfloritor pentru observarea păsărilor de țărm rare.",
+                  "category": "natural",
+                  "coords": [
+                        -70.324571,
+                        -18.413783
+                  ]
+            },
+            {
+                  "name": "Reserva Marina La Puntilla - Playa Chinchorro",
+                  "text": "Înființată ca rezervație marină în mai 2023, această zonă de coastă protejează bogata biodiversitate subacvatică chiar în largul popularei plaje Chinchorro.",
+                  "category": "natural",
+                  "coords": [
+                        -70.312178,
+                        -18.465894
+                  ]
+            },
+            {
+                  "name": "Playa Chinchorro",
+                  "text": "Această vastă fâșie de coastă nisipoasă este o plajă populară din Arica, cunoscută pentru apele sale calde.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.303984,
+                        -18.452752
+                  ]
+            },
+            {
+                  "name": "Playa Las Machas",
+                  "text": "Cunoscută pentru curenții săi puternici și valurile pentru surfing, această plajă de nisip se întinde de-a lungul coastei pacifice din Arica.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.317916,
+                        -18.422411
+                  ]
+            },
+            {
+                  "name": "Museo de Bomberos de Arica",
+                  "text": "Acest muzeu specializat expune echipamente și vehicule istorice de stingere a incendiilor folosite de brigăzile de pompieri din Arica.",
+                  "category": "museum",
+                  "coords": [
+                        -70.311233,
+                        -18.480621
+                  ]
+            },
+            {
+                  "name": "Museo de Arica",
+                  "text": "Situat în centrul orașului, acest muzeu expune artefacte istorice locale și patrimoniul cultural regional.",
+                  "category": "museum",
+                  "coords": [
+                        -70.313321,
+                        -18.478757
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "Acest muzeu al transporturilor păstrează locomotive și vagoane vechi, detaliind istoria feroviară a orașului Arica.",
+                  "category": "museum",
+                  "coords": [
+                        -70.320618,
+                        -18.476445
+                  ]
+            },
+            {
+                  "name": "Cerro Sagrado",
+                  "text": "Acest sit arheologic se află pe un versant înalt care păstrează urme indigene străvechi.",
+                  "category": "historical",
+                  "coords": [
+                        -70.235987,
+                        -18.514427
+                  ]
+            },
+            {
+                  "name": "El Tren",
+                  "text": "Acest centru de arte vibrant din Arica servește ca un nucleu creativ pentru artele spectacolului și ateliere culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.298292,
+                        -18.453973
+                  ]
+            },
+            {
+                  "name": "Iglesia del espíritu Santo",
+                  "text": "Această biserică parohială oferă un spațiu liniștit pentru reflecție spirituală și slujbe catolice regulate în Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.289709,
+                        -18.480199
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "Această biserică baptistă locală oferă un spațiu comunitar activ pentru închinare și adunări evanghelice.",
+                  "category": "religious",
+                  "coords": [
+                        -70.293542,
+                        -18.43746
+                  ]
+            },
+            {
+                  "name": "Iglesia Mundial Arca de Noé",
+                  "text": "Acest lăcaș de cult contemporan găzduiește slujbe religioase regulate pentru congregația sa locală din Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.290899,
+                        -18.434358
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Având o arhitectură bisericească modernă distinctivă, această casă de întruniri a Sfinților din Zilele din Urmă deservește comunitatea mormonă din Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.291415,
+                        -18.441121
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această clădire a bisericii Sfinților din Zilele din Urmă oferă un spațiu dedicat pentru instruire religioasă și slujbe duminicale.",
+                  "category": "religious",
+                  "coords": [
+                        -70.282729,
+                        -18.454279
+                  ]
+            },
+            {
+                  "name": "Peregrinos de Emaus",
+                  "text": "Această biserică creștină locală funcționează ca un loc de adunare spirituală pentru congregația sa dedicată.",
+                  "category": "religious",
+                  "coords": [
+                        -70.297921,
+                        -18.474014
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "Acest lăcaș de cult penticostal este cunoscut pentru cântările congregaționale vibrante și slujbele evanghelice.",
+                  "category": "religious",
+                  "coords": [
+                        -70.298218,
+                        -18.479154
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Funcționând ca o casă de întruniri a episcopiei, această facilitate a Sfinților din Zilele din Urmă găzduiește slujbe religioase și cercetări de istorie familială în Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.287791,
+                        -18.48034
+                  ]
+            },
+            {
+                  "name": "Mercado 11 de Septiembre",
+                  "text": "Această piață interioară plină de viață oferă cumpărătorilor locali o gamă largă de produse proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.290956,
+                        -18.438042
+                  ]
+            },
+            {
+                  "name": "Mercado Loa",
+                  "text": "Mercado Loa din Arica este o piață de cartier unde vânzătorii oferă legume proaspete, fructe și necesități zilnice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.291725,
+                        -18.471966
+                  ]
+            },
+            {
+                  "name": "Super Agro Santa Maria",
+                  "text": "Această mare piață agricolă se concentrează pe vânzarea cu ridicata a produselor cultivate local și a bunurilor agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.305701,
+                        -18.470568
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Arica",
+                  "text": "Funcționând ca inima comercială a orașului, această piață centrală tradițională este plină de tarabe cu alimente și meșteșuguri artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.317795,
+                        -18.477304
+                  ]
+            },
+            {
+                  "name": "Feria Máximo Lira",
+                  "text": "Acest târg în aer liber oferă o atmosferă plină de culoare, unde localnicii caută printre haine și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.317842,
+                        -18.474003
+                  ]
+            },
+            {
+                  "name": "Mercado Benedicto",
+                  "text": "Amplasată în rețeaua urbană din Arica, această piață servește ca destinație zilnică de cumpărături pentru ingrediente proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.308661,
+                        -18.480936
+                  ]
+            },
+            {
+                  "name": "Feria Diego Portales",
+                  "text": "Acest târg animat de cartier prezintă numeroase tarabe care comercializează fructe de mare și legume locale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.300027,
+                        -18.477315
+                  ]
+            },
+            {
+                  "name": "Mercado Tucapel",
+                  "text": "Situată într-o zonă rezidențială, această piață acoperită conectează fermierii locali direct cu locuitorii din Arica.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.29774,
+                        -18.485488
+                  ]
+            },
+            {
+                  "name": "Mercado Cabo Aroca",
+                  "text": "Această piață închisă este un loc plin de viață pentru achiziționarea de carne proaspătă, produse agricole și condimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.284598,
+                        -18.482466
+                  ]
+            },
+            {
+                  "name": "Paseo Peatonal 21 de mayo",
+                  "text": "Această promenadă pietonală aglomerată din centrul orașului Arica este mărginită de numeroase magazine locale, cafenele și vânzători ambulanți.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.317226,
+                        -18.479993
+                  ]
+            },
+            {
+                  "name": "Geoglifos Cerro Sombrero",
+                  "text": "Trasați pe versantul arid, acești geoglife antici la scară largă oferă o perspectivă asupra artei deșertice precolumbiene.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.263329,
+                        -18.51111
+                  ]
+            },
+            {
+                  "name": "Geoglifos de Atoca",
+                  "text": "Aceste desene complexe pe sol sunt gravate direct în podeaua deșertului, prezentând moștenirea artistică a primelor culturi indigene.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.250726,
+                        -18.512505
+                  ]
+            },
+            {
+                  "name": "Paseo Chinchorro",
+                  "text": "Această promenadă de coastă pitorească merge paralel cu plaja de nisip, oferind vederi panoramice asupra Oceanului Pacific.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.302518,
+                        -18.457094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Mar de Arica",
+                  "text": "Opened in October 2006, this maritime museum displays a vast collection of sea shells and marine life from the Chilean coast.",
+                  "category": "museum",
+                  "coords": [
+                        -70.319335,
+                        -18.479247
+                  ]
+            },
+            {
+                  "name": "Casa Yanulaque",
+                  "text": "This historic heritage building, characterized by its traditional architecture, stands as a prominent monument to Arica's rich mercantile past.",
+                  "category": "historical",
+                  "coords": [
+                        -70.315989,
+                        -18.479914
+                  ]
+            },
+            {
+                  "name": "Faro Molo de Abrigo de Arica",
+                  "text": "Positioned at the end of the city's main breakwater, this coastal lighthouse safely guides commercial shipping into the bustling port.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.327638,
+                        -18.468537
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Desembocadura del río Lluta",
+                  "text": "Officially recognized in early 2018, this vital coastal wetland at the Lluta River mouth provides a crucial sanctuary for migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        -70.323494,
+                        -18.407945
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza y RENAMU Humedal Desembocadura Río Lluta",
+                  "text": "Designated as a nature sanctuary in April 2009, this protected estuary is a thriving ecological hotspot for watching rare shorebirds.",
+                  "category": "natural",
+                  "coords": [
+                        -70.324571,
+                        -18.413783
+                  ]
+            },
+            {
+                  "name": "Reserva Marina La Puntilla - Playa Chinchorro",
+                  "text": "Established as a marine reserve in May 2023, this coastal area protects the rich underwater biodiversity just off the popular Chinchorro Beach.",
+                  "category": "natural",
+                  "coords": [
+                        -70.312178,
+                        -18.465894
+                  ]
+            },
+            {
+                  "name": "Playa Chinchorro",
+                  "text": "This expansive sandy coastal stretch is a popular beach in Arica known for its warm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.303984,
+                        -18.452752
+                  ]
+            },
+            {
+                  "name": "Playa Las Machas",
+                  "text": "Known for its strong currents and surfing waves, this sandy beach stretches along the Pacific coast of Arica.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.317916,
+                        -18.422411
+                  ]
+            },
+            {
+                  "name": "Museo de Bomberos de Arica",
+                  "text": "This specialized museum displays historical firefighting equipment and vehicles used by Arica's fire brigades.",
+                  "category": "museum",
+                  "coords": [
+                        -70.311233,
+                        -18.480621
+                  ]
+            },
+            {
+                  "name": "Museo de Arica",
+                  "text": "Situated in the city center, this museum exhibits local historical artifacts and regional cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -70.313321,
+                        -18.478757
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "This transport museum preserves old locomotives and carriages, detailing Arica's railway history.",
+                  "category": "museum",
+                  "coords": [
+                        -70.320618,
+                        -18.476445
+                  ]
+            },
+            {
+                  "name": "Cerro Sagrado",
+                  "text": "This archaeological site features an elevated hillside setting that preserves ancient indigenous traces.",
+                  "category": "historical",
+                  "coords": [
+                        -70.235987,
+                        -18.514427
+                  ]
+            },
+            {
+                  "name": "El Tren",
+                  "text": "This vibrant arts centre in Arica serves as a creative hub for performing arts and cultural workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.298292,
+                        -18.453973
+                  ]
+            },
+            {
+                  "name": "Iglesia del espíritu Santo",
+                  "text": "This parish church offers a tranquil space for spiritual reflection and regular Catholic mass services in Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.289709,
+                        -18.480199
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista",
+                  "text": "This local Baptist church provides an active community space for worship and evangelical gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -70.293542,
+                        -18.43746
+                  ]
+            },
+            {
+                  "name": "Iglesia Mundial Arca de Noé",
+                  "text": "This contemporary place of worship hosts regular religious services for its local congregation in Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.290899,
+                        -18.434358
+                  ]
+            },
+            {
+                  "name": "Church of Jesuschrist of the Latter Day Saints",
+                  "text": "Featuring distinctive modern church architecture, this LDS meetinghouse serves the Mormon community in Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.291415,
+                        -18.441121
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This local LDS church building provides a dedicated space for religious instruction and Sunday services.",
+                  "category": "religious",
+                  "coords": [
+                        -70.282729,
+                        -18.454279
+                  ]
+            },
+            {
+                  "name": "Peregrinos de Emaus",
+                  "text": "This local Christian church functions as a spiritual gathering place for its dedicated congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -70.297921,
+                        -18.474014
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "This Pentecostal place of worship is known for its vibrant congregational singing and evangelical services.",
+                  "category": "religious",
+                  "coords": [
+                        -70.298218,
+                        -18.479154
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Operating as a ward meetinghouse, this LDS facility hosts religious services and family history research in Arica.",
+                  "category": "religious",
+                  "coords": [
+                        -70.287791,
+                        -18.48034
+                  ]
+            },
+            {
+                  "name": "Mercado 11 de Septiembre",
+                  "text": "This bustling indoor marketplace offers a wide array of fresh produce and regional goods to local shoppers.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.290956,
+                        -18.438042
+                  ]
+            },
+            {
+                  "name": "Mercado Loa",
+                  "text": "Arica's Mercado Loa is a neighborhood market where vendors sell fresh vegetables, fruits, and daily necessities.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.291725,
+                        -18.471966
+                  ]
+            },
+            {
+                  "name": "Super Agro Santa Maria",
+                  "text": "This large agricultural marketplace focuses on bulk sales of locally grown produce and farming goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.305701,
+                        -18.470568
+                  ]
+            },
+            {
+                  "name": "Mercado Central de Arica",
+                  "text": "Functioning as the commercial heart of the city, this traditional central market is filled with food stalls and artisanal crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.317795,
+                        -18.477304
+                  ]
+            },
+            {
+                  "name": "Feria Máximo Lira",
+                  "text": "This open-air market fair provides a colorful atmosphere where locals browse through clothes and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.317842,
+                        -18.474003
+                  ]
+            },
+            {
+                  "name": "Mercado Benedicto",
+                  "text": "Set in the urban grid of Arica, this marketplace serves as a daily shopping destination for fresh ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.308661,
+                        -18.480936
+                  ]
+            },
+            {
+                  "name": "Feria Diego Portales",
+                  "text": "This lively neighborhood market fair features multiple stalls trading fresh local seafood and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.300027,
+                        -18.477315
+                  ]
+            },
+            {
+                  "name": "Mercado Tucapel",
+                  "text": "Located in a residential area, this covered marketplace connects local farmers directly with Arica's residents.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.29774,
+                        -18.485488
+                  ]
+            },
+            {
+                  "name": "Mercado Cabo Aroca",
+                  "text": "This enclosed marketplace is a bustling spot for purchasing fresh meats, produce, and local spices.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.284598,
+                        -18.482466
+                  ]
+            },
+            {
+                  "name": "Paseo Peatonal 21 de mayo",
+                  "text": "This bustling pedestrian promenade in central Arica is lined with numerous local shops, cafes, and street vendors.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.317226,
+                        -18.479993
+                  ]
+            },
+            {
+                  "name": "Geoglifos Cerro Sombrero",
+                  "text": "Traced into the arid hillside, these large-scale ancient geoglyphs offer a glimpse into pre-Columbian desert art.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.263329,
+                        -18.51111
+                  ]
+            },
+            {
+                  "name": "Geoglifos de Atoca",
+                  "text": "These intricate ground drawings are etched directly into the desert floor, showcasing the artistic heritage of early indigenous cultures.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.250726,
+                        -18.512505
+                  ]
+            },
+            {
+                  "name": "Paseo Chinchorro",
+                  "text": "This scenic coastal promenade runs parallel to the sandy beach, offering sweeping views of the Pacific Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.302518,
+                        -18.457094
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CL-AP",
     coords: [-70.3204, -18.4756],
@@ -712,7 +10108,88 @@ export const poiExtraChileEconomicV2: POI[] = [
     }
   },
   {
-    id: "mina-chuquicamata-economic-v2",
+    id: "mina-chuquicamata-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "Ein dunkelfarbiger Berggipfel, der einen weiten Blick über die ausgedehnte Bergbauinfrastruktur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.948869,
+                        -22.367605
+                  ]
+            },
+            {
+                  "name": "Lourdes Shrine",
+                  "text": "Ein katholischer Schrein, der Lourdes gewidmet ist und ein spirituelles Heiligtum in der Nähe der riesigen Bergbaubetriebe bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.93072,
+                        -22.31686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "Egy sötét árnyalatú hegycsúcs, amely lenyűgöző kilátást nyújt az alatta elterülő kiterjedt bányászati infrastruktúrára.",
+                  "category": "natural",
+                  "coords": [
+                        -68.948869,
+                        -22.367605
+                  ]
+            },
+            {
+                  "name": "Lourdes Shrine",
+                  "text": "A Lourdes-nak szentelt katolikus kegyhely, amely spirituális szentélyt nyújt a hatalmas bányászati műveletek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.93072,
+                        -22.31686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "Un vârf de munte de culoare închisă, care oferă vederi ample asupra infrastructurii miniere extinse de mai jos.",
+                  "category": "natural",
+                  "coords": [
+                        -68.948869,
+                        -22.367605
+                  ]
+            },
+            {
+                  "name": "Lourdes Shrine",
+                  "text": "Un altar catolic dedicat Lourdes-ului, oferind un sanctuar spiritual lângă vastele operațiuni miniere.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.93072,
+                        -22.31686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "A dark-hued mountain peak offering sweeping views over the extensive mining infrastructure below.",
+                  "category": "natural",
+                  "coords": [
+                        -68.948869,
+                        -22.367605
+                  ]
+            },
+            {
+                  "name": "Lourdes Shrine",
+                  "text": "A Catholic shrine dedicated to Lourdes, providing a spiritual sanctuary near the vast mining operations.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.93072,
+                        -22.31686
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-AN",
     coords: [-68.9292, -22.3025],
@@ -771,7 +10248,52 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["L'une des plus grandes mines à ciel ouvert au monde.", "Exploitée par l'entreprise publique Codelco."],
     }, image: "/poi-images/mina-chuquicamata-economic-v2.webp"},
   {
-    id: "mina-escondida-economic-v2",
+    id: "mina-escondida-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Colorado",
+                  "text": "Der Cerro Colorado ist ein trockener, rötlich gefärbter Wüstengipfel in der kupferreichen Region um die massive Escondida-Mine.",
+                  "category": "natural",
+                  "coords": [
+                        -69.083153,
+                        -24.259778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Colorado",
+                  "text": "A Cerro Colorado egy száraz, vöröses árnyalatú sivatagi hegycsúcs a hatalmas Escondida bányát körülvevő, rézben gazdag régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -69.083153,
+                        -24.259778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Colorado",
+                  "text": "Cerro Colorado este un vârf de deșert arid, cu nuanțe roșiatice, situat în regiunea bogată în cupru care înconjoară masiva mină Escondida.",
+                  "category": "natural",
+                  "coords": [
+                        -69.083153,
+                        -24.259778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Colorado",
+                  "text": "Cerro Colorado is an arid, reddish-hued desert peak located in the copper-rich region surrounding the massive Escondida mine.",
+                  "category": "natural",
+                  "coords": [
+                        -69.083153,
+                        -24.259778
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-AN",
     coords: [-69.0683, -24.2694],
@@ -830,7 +10352,124 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Produit la plus grande quantité de cuivre au monde.", "BHP détient la majorité des parts."],
     }, image: "/poi-images/mina-escondida-economic-v2.webp"},
   {
-    id: "mina-el-teniente-economic-v2",
+    id: "mina-el-teniente-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador a Nuevo Nivel Mina",
+                  "text": "Dieser Aussichtspunkt bietet Besuchern einen direkten Blick auf die moderne Infrastruktur des unterirdischen Kupferabbaus.",
+                  "category": "natural",
+                  "coords": [
+                        -70.381745,
+                        -34.085216
+                  ]
+            },
+            {
+                  "name": "Cerro Lomas Bayas",
+                  "text": "Dieser markante Andengipfel bietet einen anspruchsvollen Aufstieg mit weitem Blick über die umliegenden hochgelegenen Täler.",
+                  "category": "natural",
+                  "coords": [
+                        -70.365859,
+                        -34.114083
+                  ]
+            },
+            {
+                  "name": "Morro La Piedra",
+                  "text": "Dieser schroffe Gipfel, der in der Berglandschaft hervorsticht, zeichnet sich durch seine massiven, freigelegten Felsformationen aus.",
+                  "category": "natural",
+                  "coords": [
+                        -70.383412,
+                        -34.145797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador a Nuevo Nivel Mina",
+                  "text": "Ebből a megfigyelőpontból a látogatók közvetlen bepillantást nyerhetnek a földalatti rézbányászat modern infrastruktúrájába.",
+                  "category": "natural",
+                  "coords": [
+                        -70.381745,
+                        -34.085216
+                  ]
+            },
+            {
+                  "name": "Cerro Lomas Bayas",
+                  "text": "Ez a kiemelkedő andoki csúcs kihívást jelentő emelkedőt kínál, ahonnan elsöprő kilátás nyílik a környező magasan fekvő völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.365859,
+                        -34.114083
+                  ]
+            },
+            {
+                  "name": "Morro La Piedra",
+                  "text": "A hegyvidéki tájból kiemelkedő, zord csúcsot hatalmas, szabadon álló sziklaalakzatok jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.383412,
+                        -34.145797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador a Nuevo Nivel Mina",
+                  "text": "Acest punct de observație oferă vizitatorilor o privire directă asupra infrastructurii moderne a operațiunilor de exploatare subterană a cuprului.",
+                  "category": "natural",
+                  "coords": [
+                        -70.381745,
+                        -34.085216
+                  ]
+            },
+            {
+                  "name": "Cerro Lomas Bayas",
+                  "text": "Acest vârf proeminent din Anzi prezintă o ascensiune provocatoare cu vederi ample asupra văilor de mare altitudine din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -70.365859,
+                        -34.114083
+                  ]
+            },
+            {
+                  "name": "Morro La Piedra",
+                  "text": "Evidențiindu-se în peisajul muntos, acest vârf accidentat se caracterizează prin formațiunile sale stâncoase masive și expuse.",
+                  "category": "natural",
+                  "coords": [
+                        -70.383412,
+                        -34.145797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador a Nuevo Nivel Mina",
+                  "text": "This observation point affords visitors a direct look at the modern infrastructure of the underground copper mining operations.",
+                  "category": "natural",
+                  "coords": [
+                        -70.381745,
+                        -34.085216
+                  ]
+            },
+            {
+                  "name": "Cerro Lomas Bayas",
+                  "text": "This prominent Andean peak presents a challenging ascent with sweeping views across the surrounding high-altitude valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -70.365859,
+                        -34.114083
+                  ]
+            },
+            {
+                  "name": "Morro La Piedra",
+                  "text": "Standing out in the mountainous landscape, this rugged peak is characterized by its massive, exposed rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        -70.383412,
+                        -34.145797
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-LI",
     coords: [-70.3800, -34.0867],
@@ -1066,7 +10705,1240 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Nommée d'après un homme politique chilien.", "Utilise des techniques d'extraction modernes."],
     }, image: "/poi-images/mina-radomiro-tomic-economic-v2.webp"},
   {
-    id: "refineria-aconcagua-economic-v2",
+    id: "refineria-aconcagua-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parroquia Santa María de los Ángeles",
+                  "text": "Eine anerkannte Kultstätte im Viertel Reñaca nahe dem Gebiet der Aconcagua-Raffinerie.",
+                  "category": "religious",
+                  "coords": [
+                        -71.544388,
+                        -32.97393
+                  ]
+            },
+            {
+                  "name": "Faro Punta Concón",
+                  "text": "Ein markanter Leuchtturm am felsigen Küstenpunkt von Concón nahe dem Aconcagua-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.551453,
+                        -32.929109
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza campo dunar de la punta de Concón",
+                  "text": "Ein 1993 gegründetes Naturschutzgebiet für Küstendünen in der Nähe der Wirtschaftszone Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5494,
+                        -32.942936
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Roca Oceánica",
+                  "text": "Ein 1990 ausgewiesenes felsiges Küstennaturschutzgebiet nahe der Raffineriezone Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.554145,
+                        -32.941334
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Estero Reñaca",
+                  "text": "Ein städtisches Feuchtgebiet-Naturschutzgebiet, das 2025 in der Nähe der Wirtschaftszone Aconcagua eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -71.506902,
+                        -32.986883
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Mantagua",
+                  "text": "Ein 2023 geschütztes städtisches Feuchtgebiet in der Nähe der Aconcagua-Raffinerie.",
+                  "category": "natural",
+                  "coords": [
+                        -71.505774,
+                        -32.881034
+                  ]
+            },
+            {
+                  "name": "Cerro Mauco",
+                  "text": "Ein markanter Berggipfel, der sich über der Region der Aconcagua-Raffinerie erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.42787,
+                        -32.880765
+                  ]
+            },
+            {
+                  "name": "Santa Rosa de Colmo",
+                  "text": "Ein gewidmetes Denkmal im Sektor Colmo der Wirtschaftszone Aconcagua.",
+                  "category": "historical",
+                  "coords": [
+                        -71.445318,
+                        -32.922379
+                  ]
+            },
+            {
+                  "name": "Corriente de Vida",
+                  "text": "Eine lokale Kultstätte, die der Religionsgemeinschaft im Aconcagua-Gebiet dient.",
+                  "category": "religious",
+                  "coords": [
+                        -71.530858,
+                        -32.97168
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Eine Kultstätte der Heiligen der Letzten Tage in der Raffineriezone Aconcagua.",
+                  "category": "religious",
+                  "coords": [
+                        -71.492502,
+                        -32.994864
+                  ]
+            },
+            {
+                  "name": "Feria Caupolicán",
+                  "text": "Ein lokaler Markt, der Waren des täglichen Bedarfs und landwirtschaftliche Produkte im Wirtschaftsraum Aconcagua anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.515782,
+                        -33.000908
+                  ]
+            },
+            {
+                  "name": "Sandboarding",
+                  "text": "Eine beliebte Outdoor-Attraktion zum Sandboarden auf den Küstendünen nahe dem Aconcagua-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.546182,
+                        -32.946111
+                  ]
+            },
+            {
+                  "name": "Sea lions' colony",
+                  "text": "Eine Attraktion mit wilden Tieren an der Küste nahe der Aconcagua-Raffinerie, wo Besucher lokale Seelöwen beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.549917,
+                        -32.959223
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan De Dios",
+                  "text": "Eine dem heiligen Johannes von Gott geweihte christliche Kapelle in der Wirtschaftszone Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.520939,
+                        -32.994426
+                  ]
+            },
+            {
+                  "name": "Capilla Visitación de la Virgen María",
+                  "text": "Eine christliche Kapelle, die Mariä Heimsuchung nahe dem Aconcagua-Gebiet gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.512512,
+                        -32.996569
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrados Corazones",
+                  "text": "Eine christliche Kapelle, die den Heiligen Herzen in der Region der Aconcagua-Raffinerie gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.518984,
+                        -32.993029
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de la Paz",
+                  "text": "Eine christliche Kapelle, die Unserer Lieben Frau vom Frieden in der Aconcagua-Zone gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.527265,
+                        -32.987891
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana La Trinidad de Reñaca",
+                  "text": "Eine presbyterianische christliche Kirche in Reñaca nahe dem Aconcagua-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.529437,
+                        -32.963828
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Los Pinos",
+                  "text": "Ein christliches Schönstatt-Heiligtum im Sektor Los Pinos nahe dem Aconcagua-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.537518,
+                        -32.954161
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Eine mormonische christliche Kirche im Gebiet der Aconcagua-Raffinerie.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.508351,
+                        -33.000148
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Evangelista",
+                  "text": "Eine christliche Pfarrei, die dem Heiligen Johannes dem Evangelisten in der Aconcagua-Zone gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.517736,
+                        -32.997575
+                  ]
+            },
+            {
+                  "name": "Iglesia Unida Metodista Pentecostal Gómez Carreño",
+                  "text": "Eine vereinigte pfingstlich-methodistische Kirche im Sektor Gómez Carreño nahe der Aconcagua-Raffinerie.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.524557,
+                        -32.989403
+                  ]
+            },
+            {
+                  "name": "Capilla Divina Providencia",
+                  "text": "Eine nach der Göttlichen Vorsehung benannte christliche Kapelle im Wirtschaftsraum Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.50502,
+                        -32.994621
+                  ]
+            },
+            {
+                  "name": "San Damián de Molokai",
+                  "text": "Eine christliche Stätte, die dem Heiligen Damian von Molokai in der Aconcagua-Zone gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.493011,
+                        -32.999349
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Eine lokale christliche Pfarrei, die spirituelle Dienste im Wirtschaftsraum Aconcagua anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.489847,
+                        -33.005062
+                  ]
+            },
+            {
+                  "name": "Mirador Avenida Costa de Montemar",
+                  "text": "Ein malerischer Aussichtspunkt entlang der Avenue Costa de Montemar in der Aconcagua-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.547827,
+                        -32.934136
+                  ]
+            },
+            {
+                  "name": "Área Marina Protegida sector Puntilla de Caleta Cochoa",
+                  "text": "Ein Meeresschutzgebiet zum Erhalt der Küstenspitze von Caleta Cochoa nahe dem Aconcagua-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.549159,
+                        -32.955607
+                  ]
+            },
+            {
+                  "name": "Área Marina Protegida Montemar",
+                  "text": "Ein ausgewiesenes Meeresschutzgebiet zur Erhaltung des aquatischen Ökosystems von Montemar nahe der Aconcagua-Raffinerie.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5488,
+                        -32.960815
+                  ]
+            },
+            {
+                  "name": "Mirador Las Cañitas",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die umliegende Landschaft des Sektors Las Cañitas in der Wirtschaftszone Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.546405,
+                        -32.979255
+                  ]
+            },
+            {
+                  "name": "Mirador Gabriela Martínez",
+                  "text": "Ein dedizierter Aussichtspunkt namens Gabriela Martínez im Aconcagua-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.520125,
+                        -32.99057
+                  ]
+            },
+            {
+                  "name": "Parque Natural Gómez Carreño",
+                  "text": "Ein Naturpark-Reservat im Gebiet Gómez Carreño nahe der Aconcagua-Raffinerie.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517814,
+                        -32.979948
+                  ]
+            },
+            {
+                  "name": "Mirador 29 Poniente",
+                  "text": "Ein ausgewiesener Aussichtspunkt bei 29 Poniente in der Wirtschaftszone Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529567,
+                        -32.987833
+                  ]
+            },
+            {
+                  "name": "Reserva Natural San Jorge",
+                  "text": "Ein Naturschutzgebiet, das einen geschützten ökologischen Raum in der Nähe des örtlichen Raffineriegeländes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.440125,
+                        -33.006655
+                  ]
+            },
+            {
+                  "name": "Parque Natural Los Almendros",
+                  "text": "Ein Naturpark, der die lokale Flora und Fauna inmitten der Industrieregion bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.52107,
+                        -32.967676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parroquia Santa María de los Ángeles",
+                  "text": "Egy elismert istentiszteleti hely a Reñaca negyedben, az Aconcagua finomító területének közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -71.544388,
+                        -32.97393
+                  ]
+            },
+            {
+                  "name": "Faro Punta Concón",
+                  "text": "Egy figyelemre méltó világítótorony Concón sziklás tengerparti pontján, az Aconcagua terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.551453,
+                        -32.929109
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza campo dunar de la punta de Concón",
+                  "text": "Egy 1993-ban létrehozott, védett tengerparti dűne természetvédelmi terület az Aconcagua gazdasági övezet közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5494,
+                        -32.942936
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Roca Oceánica",
+                  "text": "Egy 1990-ben kijelölt sziklás tengerparti természetvédelmi terület az Aconcagua finomító övezetének közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.554145,
+                        -32.941334
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Estero Reñaca",
+                  "text": "Egy 2025-ben létrehozott városi vizes élőhely természetvédelmi terület az Aconcagua gazdasági övezet közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.506902,
+                        -32.986883
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Mantagua",
+                  "text": "Egy 2023-ban védetté nyilvánított városi vizes élőhely rezervátum az Aconcagua finomító területének közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.505774,
+                        -32.881034
+                  ]
+            },
+            {
+                  "name": "Cerro Mauco",
+                  "text": "Egy kiemelkedő hegycsúcs, amely az Aconcagua finomító régiója fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.42787,
+                        -32.880765
+                  ]
+            },
+            {
+                  "name": "Santa Rosa de Colmo",
+                  "text": "Egy dedikált emlékmű az Aconcagua gazdasági övezet Colmo szektorában.",
+                  "category": "historical",
+                  "coords": [
+                        -71.445318,
+                        -32.922379
+                  ]
+            },
+            {
+                  "name": "Corriente de Vida",
+                  "text": "Egy helyi istentiszteleti hely, amely a vallási közösséget szolgálja az Aconcagua térségében.",
+                  "category": "religious",
+                  "coords": [
+                        -71.530858,
+                        -32.97168
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek istentiszteleti helye az Aconcagua finomító övezetében.",
+                  "category": "religious",
+                  "coords": [
+                        -71.492502,
+                        -32.994864
+                  ]
+            },
+            {
+                  "name": "Feria Caupolicán",
+                  "text": "Egy helyi piac, amely mindennapi cikkeket és termékeket kínál az Aconcagua gazdasági területen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.515782,
+                        -33.000908
+                  ]
+            },
+            {
+                  "name": "Sandboarding",
+                  "text": "Népszerű szabadtéri látványosság homokdeszkázáshoz a tengerparti dűnéken, az Aconcagua terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.546182,
+                        -32.946111
+                  ]
+            },
+            {
+                  "name": "Sea lions' colony",
+                  "text": "Tengerparti vadvilági látványosság az Aconcagua finomító közelében, ahol a látogatók megfigyelhetik a helyi oroszlánfókákat.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.549917,
+                        -32.959223
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan De Dios",
+                  "text": "Istenes Szent Jánosnak szentelt keresztény kápolna az Aconcagua gazdasági övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.520939,
+                        -32.994426
+                  ]
+            },
+            {
+                  "name": "Capilla Visitación de la Virgen María",
+                  "text": "A Mária látogatásának szentelt keresztény kápolna az Aconcagua terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.512512,
+                        -32.996569
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrados Corazones",
+                  "text": "A Szent Szíveknek szentelt keresztény kápolna az Aconcagua finomító régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.518984,
+                        -32.993029
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de la Paz",
+                  "text": "A Béke Miasszonyunknak szentelt keresztény kápolna az Aconcagua övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.527265,
+                        -32.987891
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana La Trinidad de Reñaca",
+                  "text": "Egy presbiteriánus keresztény templom Reñacában, az Aconcagua terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.529437,
+                        -32.963828
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Los Pinos",
+                  "text": "Keresztény Schönstatt-szentély a Los Pinos szektorban, az Aconcagua terület közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.537518,
+                        -32.954161
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Egy mormon keresztény templom az Aconcagua finomító területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.508351,
+                        -33.000148
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Evangelista",
+                  "text": "Keresztény plébánia, amelyet Szent János evangélistának szenteltek az Aconcagua övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.517736,
+                        -32.997575
+                  ]
+            },
+            {
+                  "name": "Iglesia Unida Metodista Pentecostal Gómez Carreño",
+                  "text": "Egyesült Pünkösdi Metodista templom a Gómez Carreño szektorban, az Aconcagua finomító közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.524557,
+                        -32.989403
+                  ]
+            },
+            {
+                  "name": "Capilla Divina Providencia",
+                  "text": "Az Isteni Gondviselésről elnevezett keresztény kápolna az Aconcagua gazdasági területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.50502,
+                        -32.994621
+                  ]
+            },
+            {
+                  "name": "San Damián de Molokai",
+                  "text": "Molokai Szent Damjánnak szentelt keresztény emlékhely az Aconcagua övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.493011,
+                        -32.999349
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Egy helyi keresztény plébánia, amely spirituális szolgáltatásokat nyújt az Aconcagua gazdasági területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.489847,
+                        -33.005062
+                  ]
+            },
+            {
+                  "name": "Mirador Avenida Costa de Montemar",
+                  "text": "Festői kilátó a Costa de Montemar sugárút mentén, az Aconcagua régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.547827,
+                        -32.934136
+                  ]
+            },
+            {
+                  "name": "Área Marina Protegida sector Puntilla de Caleta Cochoa",
+                  "text": "Egy tengeri természetvédelmi terület, amely Caleta Cochoa tengerparti pontját védi az Aconcagua terület közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.549159,
+                        -32.955607
+                  ]
+            },
+            {
+                  "name": "Área Marina Protegida Montemar",
+                  "text": "Kijelölt tengeri természetvédelmi terület, amely a Montemar vízi ökoszisztémáját őrzi az Aconcagua finomító közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5488,
+                        -32.960815
+                  ]
+            },
+            {
+                  "name": "Mirador Las Cañitas",
+                  "text": "Festői kilátó, amely a Las Cañitas szektor környező tájára néz az Aconcagua gazdasági övezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.546405,
+                        -32.979255
+                  ]
+            },
+            {
+                  "name": "Mirador Gabriela Martínez",
+                  "text": "A Gabriela Martínez nevét viselő dedikált kilátó az Aconcagua területen.",
+                  "category": "natural",
+                  "coords": [
+                        -71.520125,
+                        -32.99057
+                  ]
+            },
+            {
+                  "name": "Parque Natural Gómez Carreño",
+                  "text": "Természeti park rezervátum a Gómez Carreño területén, az Aconcagua finomító közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517814,
+                        -32.979948
+                  ]
+            },
+            {
+                  "name": "Mirador 29 Poniente",
+                  "text": "Kijelölt kilátó a 29 Poniente területén, az Aconcagua gazdasági övezetben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529567,
+                        -32.987833
+                  ]
+            },
+            {
+                  "name": "Reserva Natural San Jorge",
+                  "text": "Egy természetvédelmi terület, amely védett ökológiai teret kínál a helyi finomítói negyed közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.440125,
+                        -33.006655
+                  ]
+            },
+            {
+                  "name": "Parque Natural Los Almendros",
+                  "text": "A helyi növény- és állatvilágot megőrző natúrpark az ipari régió közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -71.52107,
+                        -32.967676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parroquia Santa María de los Ángeles",
+                  "text": "Un lăcaș de cult recunoscut situat în cartierul Reñaca, lângă zona rafinăriei Aconcagua.",
+                  "category": "religious",
+                  "coords": [
+                        -71.544388,
+                        -32.97393
+                  ]
+            },
+            {
+                  "name": "Faro Punta Concón",
+                  "text": "Un far notabil situat pe punctul de coastă stâncos din Concón, lângă zona Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.551453,
+                        -32.929109
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza campo dunar de la punta de Concón",
+                  "text": "O rezervație naturală de dune de coastă protejată, înființată în 1993 lângă zona economică Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5494,
+                        -32.942936
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Roca Oceánica",
+                  "text": "O rezervație naturală de coastă stâncoasă desemnată în 1990 lângă zona rafinăriei Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.554145,
+                        -32.941334
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Estero Reñaca",
+                  "text": "O rezervație naturală urbană de zonă umedă, înființată în 2025 lângă zona economică Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.506902,
+                        -32.986883
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Mantagua",
+                  "text": "O rezervație urbană protejată de zonă umedă înființată în 2023 lângă zona rafinăriei Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.505774,
+                        -32.881034
+                  ]
+            },
+            {
+                  "name": "Cerro Mauco",
+                  "text": "Un vârf de munte proeminent care se ridică deasupra regiunii rafinăriei Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.42787,
+                        -32.880765
+                  ]
+            },
+            {
+                  "name": "Santa Rosa de Colmo",
+                  "text": "Un monument dedicat situat în sectorul Colmo al zonei economice Aconcagua.",
+                  "category": "historical",
+                  "coords": [
+                        -71.445318,
+                        -32.922379
+                  ]
+            },
+            {
+                  "name": "Corriente de Vida",
+                  "text": "Un lăcaș de cult local care deservește comunitatea religioasă din zona Aconcagua.",
+                  "category": "religious",
+                  "coords": [
+                        -71.530858,
+                        -32.97168
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Un lăcaș de cult al Sfinților din Zilele din Urmă situat în zona rafinăriei Aconcagua.",
+                  "category": "religious",
+                  "coords": [
+                        -71.492502,
+                        -32.994864
+                  ]
+            },
+            {
+                  "name": "Feria Caupolicán",
+                  "text": "O piață locală care oferă bunuri de zi cu zi și produse agricole în zona economică Aconcagua.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.515782,
+                        -33.000908
+                  ]
+            },
+            {
+                  "name": "Sandboarding",
+                  "text": "O atracție populară în aer liber pentru sandboarding pe dunele de coastă din apropierea zonei Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.546182,
+                        -32.946111
+                  ]
+            },
+            {
+                  "name": "Sea lions' colony",
+                  "text": "O atracție a faunei sălbatice de coastă lângă rafinăria Aconcagua, unde vizitatorii pot observa leii de mare locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.549917,
+                        -32.959223
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan De Dios",
+                  "text": "O capelă creștină dedicată Sfântului Ioan al lui Dumnezeu, care deservește credincioșii din zona economică Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.520939,
+                        -32.994426
+                  ]
+            },
+            {
+                  "name": "Capilla Visitación de la Virgen María",
+                  "text": "O capelă creștină dedicată Vizitării Mariei, în apropiere de zona Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.512512,
+                        -32.996569
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrados Corazones",
+                  "text": "O capelă creștină dedicată Inimilor Sacre din regiunea rafinăriei Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.518984,
+                        -32.993029
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de la Paz",
+                  "text": "O capelă creștină dedicată Maicii Domnului Păcii, situată în zona Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.527265,
+                        -32.987891
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana La Trinidad de Reñaca",
+                  "text": "O biserică creștină prezbiteriană situată în Reñaca, lângă zona Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.529437,
+                        -32.963828
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Los Pinos",
+                  "text": "Un altar creștin Schoenstatt situat în sectorul Los Pinos, lângă zona Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.537518,
+                        -32.954161
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "O biserică creștină mormonă situată în zona rafinăriei Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.508351,
+                        -33.000148
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Evangelista",
+                  "text": "O parohie creștină dedicată Sfântului Ioan Evanghelistul în zona Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.517736,
+                        -32.997575
+                  ]
+            },
+            {
+                  "name": "Iglesia Unida Metodista Pentecostal Gómez Carreño",
+                  "text": "O biserică metodistă penticostală unită situată în sectorul Gómez Carreño, lângă rafinăria Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.524557,
+                        -32.989403
+                  ]
+            },
+            {
+                  "name": "Capilla Divina Providencia",
+                  "text": "O capelă creștină numită după Providența Divină, situată în zona economică Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.50502,
+                        -32.994621
+                  ]
+            },
+            {
+                  "name": "San Damián de Molokai",
+                  "text": "Un sit creștin dedicat Sfântului Damian de Molokai din zona Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.493011,
+                        -32.999349
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "O parohie creștină locală care oferă servicii spirituale în zona economică Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.489847,
+                        -33.005062
+                  ]
+            },
+            {
+                  "name": "Mirador Avenida Costa de Montemar",
+                  "text": "Un punct de belvedere pitoresc de-a lungul bulevardului Costa de Montemar din regiunea Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.547827,
+                        -32.934136
+                  ]
+            },
+            {
+                  "name": "Área Marina Protegida sector Puntilla de Caleta Cochoa",
+                  "text": "O rezervație naturală marină care protejează punctul de coastă Caleta Cochoa de lângă zona Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.549159,
+                        -32.955607
+                  ]
+            },
+            {
+                  "name": "Área Marina Protegida Montemar",
+                  "text": "O rezervație naturală marină desemnată care păstrează ecosistemul acvatic din Montemar lângă rafinăria Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5488,
+                        -32.960815
+                  ]
+            },
+            {
+                  "name": "Mirador Las Cañitas",
+                  "text": "Un punct de belvedere pitoresc cu vedere la peisajul înconjurător al sectorului Las Cañitas din zona economică Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.546405,
+                        -32.979255
+                  ]
+            },
+            {
+                  "name": "Mirador Gabriela Martínez",
+                  "text": "Un punct de belvedere dedicat, numit Gabriela Martínez, situat în zona Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.520125,
+                        -32.99057
+                  ]
+            },
+            {
+                  "name": "Parque Natural Gómez Carreño",
+                  "text": "O rezervație de parc natural situată în zona Gómez Carreño, lângă rafinăria Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517814,
+                        -32.979948
+                  ]
+            },
+            {
+                  "name": "Mirador 29 Poniente",
+                  "text": "Un punct de belvedere desemnat situat la 29 Poniente în zona economică Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529567,
+                        -32.987833
+                  ]
+            },
+            {
+                  "name": "Reserva Natural San Jorge",
+                  "text": "O rezervație naturală care oferă un spațiu ecologic protejat în apropierea zonei de rafinărie locale.",
+                  "category": "natural",
+                  "coords": [
+                        -71.440125,
+                        -33.006655
+                  ]
+            },
+            {
+                  "name": "Parque Natural Los Almendros",
+                  "text": "O zonă de parc natural care conservă flora și fauna locală în mijlocul regiunii industriale.",
+                  "category": "natural",
+                  "coords": [
+                        -71.52107,
+                        -32.967676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parroquia Santa María de los Ángeles",
+                  "text": "A recognized place of worship located in the Reñaca neighborhood near the Aconcagua refinery area.",
+                  "category": "religious",
+                  "coords": [
+                        -71.544388,
+                        -32.97393
+                  ]
+            },
+            {
+                  "name": "Faro Punta Concón",
+                  "text": "A notable lighthouse situated on the rocky coastal point of Concón near the Aconcagua area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.551453,
+                        -32.929109
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza campo dunar de la punta de Concón",
+                  "text": "A protected coastal dune nature reserve established in 1993 near the Aconcagua economic zone.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5494,
+                        -32.942936
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Roca Oceánica",
+                  "text": "A rocky coastal nature reserve designated in 1990 near the Aconcagua refinery zone.",
+                  "category": "natural",
+                  "coords": [
+                        -71.554145,
+                        -32.941334
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Estero Reñaca",
+                  "text": "An urban wetland nature reserve established in 2025 near the Aconcagua economic zone.",
+                  "category": "natural",
+                  "coords": [
+                        -71.506902,
+                        -32.986883
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Mantagua",
+                  "text": "A protected urban wetland reserve established in 2023 near the Aconcagua refinery area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.505774,
+                        -32.881034
+                  ]
+            },
+            {
+                  "name": "Cerro Mauco",
+                  "text": "A prominent mountain peak rising above the Aconcagua refinery region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.42787,
+                        -32.880765
+                  ]
+            },
+            {
+                  "name": "Santa Rosa de Colmo",
+                  "text": "A dedicated monument located in the Colmo sector of the Aconcagua economic zone.",
+                  "category": "historical",
+                  "coords": [
+                        -71.445318,
+                        -32.922379
+                  ]
+            },
+            {
+                  "name": "Corriente de Vida",
+                  "text": "A local place of worship serving the religious community in the Aconcagua area.",
+                  "category": "religious",
+                  "coords": [
+                        -71.530858,
+                        -32.97168
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A Latter-day Saints place of worship situated in the Aconcagua refinery zone.",
+                  "category": "religious",
+                  "coords": [
+                        -71.492502,
+                        -32.994864
+                  ]
+            },
+            {
+                  "name": "Feria Caupolicán",
+                  "text": "A local marketplace offering everyday goods and produce in the Aconcagua economic area.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.515782,
+                        -33.000908
+                  ]
+            },
+            {
+                  "name": "Sandboarding",
+                  "text": "A popular outdoor attraction for sandboarding on the coastal dunes near the Aconcagua area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.546182,
+                        -32.946111
+                  ]
+            },
+            {
+                  "name": "Sea lions' colony",
+                  "text": "A coastal wildlife attraction near the Aconcagua refinery where visitors can observe local sea lions.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.549917,
+                        -32.959223
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan De Dios",
+                  "text": "A Christian chapel dedicated to Saint John of God serving believers in the Aconcagua economic zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.520939,
+                        -32.994426
+                  ]
+            },
+            {
+                  "name": "Capilla Visitación de la Virgen María",
+                  "text": "A Christian chapel dedicated to the Visitation of Mary near the Aconcagua area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.512512,
+                        -32.996569
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrados Corazones",
+                  "text": "A Christian chapel dedicated to the Sacred Hearts in the Aconcagua refinery region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.518984,
+                        -32.993029
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de la Paz",
+                  "text": "A Christian chapel dedicated to Our Lady of Peace located in the Aconcagua zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.527265,
+                        -32.987891
+                  ]
+            },
+            {
+                  "name": "Iglesia Presbiteriana La Trinidad de Reñaca",
+                  "text": "A Presbyterian Christian church located in Reñaca near the Aconcagua area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.529437,
+                        -32.963828
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Los Pinos",
+                  "text": "A Christian Schoenstatt shrine situated in the Los Pinos sector near the Aconcagua area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.537518,
+                        -32.954161
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "A Mormon Christian church located in the Aconcagua refinery area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.508351,
+                        -33.000148
+                  ]
+            },
+            {
+                  "name": "Parroquia San Juan Evangelista",
+                  "text": "A Christian parish dedicated to Saint John the Evangelist in the Aconcagua zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.517736,
+                        -32.997575
+                  ]
+            },
+            {
+                  "name": "Iglesia Unida Metodista Pentecostal Gómez Carreño",
+                  "text": "A United Pentecostal Methodist church located in the Gómez Carreño sector near the Aconcagua refinery.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.524557,
+                        -32.989403
+                  ]
+            },
+            {
+                  "name": "Capilla Divina Providencia",
+                  "text": "A Christian chapel named for Divine Providence situated in the Aconcagua economic area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.50502,
+                        -32.994621
+                  ]
+            },
+            {
+                  "name": "San Damián de Molokai",
+                  "text": "A Christian site dedicated to Saint Damien of Molokai in the Aconcagua zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.493011,
+                        -32.999349
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "A local Christian parish providing spiritual services in the Aconcagua economic area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.489847,
+                        -33.005062
+                  ]
+            },
+            {
+                  "name": "Mirador Avenida Costa de Montemar",
+                  "text": "A scenic viewpoint along the Costa de Montemar avenue in the Aconcagua region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.547827,
+                        -32.934136
+                  ]
+            },
+            {
+                  "name": "Área Marina Protegida sector Puntilla de Caleta Cochoa",
+                  "text": "A marine nature reserve protecting the coastal point of Caleta Cochoa near the Aconcagua area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.549159,
+                        -32.955607
+                  ]
+            },
+            {
+                  "name": "Área Marina Protegida Montemar",
+                  "text": "A designated marine nature reserve preserving the aquatic ecosystem of Montemar near the Aconcagua refinery.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5488,
+                        -32.960815
+                  ]
+            },
+            {
+                  "name": "Mirador Las Cañitas",
+                  "text": "A scenic viewpoint overlooking the surrounding landscape of the Las Cañitas sector in the Aconcagua economic zone.",
+                  "category": "natural",
+                  "coords": [
+                        -71.546405,
+                        -32.979255
+                  ]
+            },
+            {
+                  "name": "Mirador Gabriela Martínez",
+                  "text": "A dedicated viewpoint named Gabriela Martínez located in the Aconcagua area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.520125,
+                        -32.99057
+                  ]
+            },
+            {
+                  "name": "Parque Natural Gómez Carreño",
+                  "text": "A natural park reserve located in the Gómez Carreño area near the Aconcagua refinery.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517814,
+                        -32.979948
+                  ]
+            },
+            {
+                  "name": "Mirador 29 Poniente",
+                  "text": "A designated viewpoint located at 29 Poniente in the Aconcagua economic zone.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529567,
+                        -32.987833
+                  ]
+            },
+            {
+                  "name": "Reserva Natural San Jorge",
+                  "text": "A nature reserve offering a protected ecological space near the local refinery district.",
+                  "category": "natural",
+                  "coords": [
+                        -71.440125,
+                        -33.006655
+                  ]
+            },
+            {
+                  "name": "Parque Natural Los Almendros",
+                  "text": "A natural park area preserving local flora and fauna amidst the industrial region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.52107,
+                        -32.967676
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-VS",
     coords: [-71.4642, -32.9231],
@@ -1125,7 +11997,1204 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Importante raffinerie de pétrole à Concón.", "Fournit du carburant au centre du Chili."],
     }, image: "/poi-images/refineria-aconcagua-economic-v2.webp"},
   {
-    id: "refineria-bio-bio-economic-v2",
+    id: "refineria-bio-bio-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puente Juan Pablo II",
+                  "text": "Die Puente Juan Pablo II ist eine markante Straßenbrücke, die den Fluss Biobío in der Region der Raffinerie Bio Bío überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.09172,
+                        -36.823762
+                  ]
+            },
+            {
+                  "name": "Cerro Amarillo",
+                  "text": "Der Cerro Amarillo ist ein markanter Berggipfel, der einen erhabenen Blick über die Stadtlandschaft von Hualpén nahe der Raffinerie bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102539,
+                        -36.78404
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Laguna Grande y Humedal Los Batros",
+                  "text": "Dieses im März 2022 offiziell eingerichtete Naturschutzgebiet schützt die lebenswichtigen Feuchtgebiets- und Lagunenökosysteme von Los Batros und Laguna Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -73.115999,
+                        -36.851401
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Humedal Desembocadura Río Biobío",
+                  "text": "Dieses im Dezember 2023 zum Naturschutzgebiet erklärte Küstenreservat umfasst die artenreichen Feuchtgebiete an der Mündung des Río Biobío.",
+                  "category": "natural",
+                  "coords": [
+                        -73.109745,
+                        -36.822929
+                  ]
+            },
+            {
+                  "name": "Centro Patrimonial Curarrehue",
+                  "text": "Das Centro Patrimonial Curarrehue ist eine Museumseinrichtung, die sich der Bewahrung regionaler Kulturartefakte in der Nähe der Region Bio Bío widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -73.105973,
+                        -36.834437
+                  ]
+            },
+            {
+                  "name": "Museo Pedro del Río Zañartu",
+                  "text": "Das Museo Pedro del Río Zañartu beherbergt eine umfangreiche Sammlung historischer und anthropologischer Objekte, die von dem berühmten Reisenden zusammengetragen wurden.",
+                  "category": "museum",
+                  "coords": [
+                        -73.15266,
+                        -36.7971
+                  ]
+            },
+            {
+                  "name": "Salón Azul del Colegio Concepción San Pedro",
+                  "text": "Der Salón Azul ist ein eigener Konzert- und Theatersaal im Colegio Concepción San Pedro, der für Schulaufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108383,
+                        -36.843973
+                  ]
+            },
+            {
+                  "name": "Anfiteatro San Pedro de la Paz",
+                  "text": "Das Anfiteatro San Pedro de la Paz ist ein großer Open-Air-Veranstaltungsort, der für Konzerte und Theateraufführungen in der Gemeinde konzipiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108804,
+                        -36.8449
+                  ]
+            },
+            {
+                  "name": "Centro Cultural",
+                  "text": "Dieses lokale Centro Cultural fungiert als Theater und kommunaler Kunstraum in der Umgebung der Raffinerie Bio Bío.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.107067,
+                        -36.845086
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Hualpén",
+                  "text": "Das Centro Cultural de Hualpén ist ein lebendiges Kunstzentrum, das Workshops und Kunstausstellungen für die Bewohner von Hualpén organisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.098763,
+                        -36.797893
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser Königreichssaal dient den Zeugen Jehovas in der Umgebung als ausgewiesener Ort für Gottesdienste und das Studium der Schriften.",
+                  "category": "religious",
+                  "coords": [
+                        -73.140166,
+                        -36.842356
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "Dieser Königreichssaal fungiert als Versammlungsort der Gemeinde und bietet ein spirituelles Zentrum für Zeugen Jehovas in der Nähe der Raffinerie.",
+                  "category": "religious",
+                  "coords": [
+                        -73.044845,
+                        -36.784947
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Montahue",
+                  "text": "Das Santuario de Schoenstatt Montahue ist ein friedliches Marienheiligtum, das katholischen Pilgern einen ruhigen Rückzugsort bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -73.074766,
+                        -36.867908
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestra señora de Candelaria",
+                  "text": "Das Santuario Nuestra Señora de Candelaria ist eine Marienkirche, die als Mittelpunkt der Verehrung der Jungfrau Maria in der Region dient.",
+                  "category": "religious",
+                  "coords": [
+                        -73.079656,
+                        -36.841538
+                  ]
+            },
+            {
+                  "name": "Templo Adventista del 7 Día",
+                  "text": "Dieser Tempel der Siebenten-Tags-Adventisten ist ein Ort für Sabbat-Gottesdienste und spirituelle Gemeindetreffen in der Nähe der Raffinerie Bio Bío.",
+                  "category": "religious",
+                  "coords": [
+                        -73.101443,
+                        -36.786079
+                  ]
+            },
+            {
+                  "name": "Ejército Evangélico de Chile",
+                  "text": "Diese evangelische Kultstätte versammelt die chilenische Gemeinde für spirituelle Gottesdienste in der Region Bío Bío.",
+                  "category": "religious",
+                  "coords": [
+                        -73.100883,
+                        -36.796177
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Eine evangelische Kirche, die protestantische Gottesdienste in diesem industriellen Küstengebiet anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -73.093083,
+                        -36.763412
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine lokale christliche Kirche, die einen ruhigen Gemeinschaftsraum zum Gebet in der Nähe der Bío-Bío-Raffinerie bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -73.101862,
+                        -36.844296
+                  ]
+            },
+            {
+                  "name": "Mercado San Pedro de la Costa",
+                  "text": "Dieser belebte Küstenmarkt in San Pedro bietet frische lokale Produkte und regionale Waren an.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.13461,
+                        -36.855428
+                  ]
+            },
+            {
+                  "name": "Caleta Alto del Rey",
+                  "text": "Eine traditionelle Fischerbucht, die als Attraktion nahe der Mündung des Río Bío Bío dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.151913,
+                        -36.82559
+                  ]
+            },
+            {
+                  "name": "Los Monos",
+                  "text": "Eine bekannte lokale Attraktion, die Besucher anzieht, welche die Umgebung von San Pedro de la Paz erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.040917,
+                        -36.799055
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal Laguna Chica",
+                  "text": "Ein beliebtes städtisches Badebad direkt an den ruhigen Gewässern der Laguna Chica.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.090137,
+                        -36.843057
+                  ]
+            },
+            {
+                  "name": "El Arca",
+                  "text": "Eine christliche Stätte namens „Die Arche“, die der lokalen Gemeinschaft spirituelle Führung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.140963,
+                        -36.852644
+                  ]
+            },
+            {
+                  "name": "Iglesia: Nuevo Pacto Pentecostal",
+                  "text": "Diese Pfingstkirche veranstaltet lebendige Gottesdienste, die sich auf die Lehren des Neuen Bundes konzentrieren.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.135787,
+                        -36.85315
+                  ]
+            },
+            {
+                  "name": "Gran Cruz",
+                  "text": "Ein monumentales christliches Kreuz, das als markantes Wahrzeichen über das umliegende Viertel ragt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.043322,
+                        -36.796854
+                  ]
+            },
+            {
+                  "name": "Capilla San Andrés Apóstol",
+                  "text": "Eine idyllische christliche Kapelle, die dem Apostel Andreas gewidmet ist und lokalen katholischen Familien dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.058169,
+                        -36.791195
+                  ]
+            },
+            {
+                  "name": "Iglesia Templo Cristiano ADULAM",
+                  "text": "Der christliche Tempel ADULAM bietet einen aktiven evangelischen Raum für biblische Lehren und Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.103345,
+                        -36.780473
+                  ]
+            },
+            {
+                  "name": "Igleisa Pentecostal",
+                  "text": "Eine lokale Pfingstkirche, in der sich die Gemeindemitglieder zu enthusiastischem musikalischem Gottesdienst und Gebet versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.098242,
+                        -36.780707
+                  ]
+            },
+            {
+                  "name": "Iglesia Getsemaní",
+                  "text": "Diese nach dem biblischen Garten benannte Kirche bietet ein Heiligtum für christliche spirituelle Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.099365,
+                        -36.782066
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal",
+                  "text": "Diese regionale Pfingstkirche zeichnet sich durch ihre dynamischen Predigten und ihre gemeindeorientierte Öffentlichkeitsarbeit aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.097173,
+                        -36.78446
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Clínica Espiritual",
+                  "text": "Diese apostolische Kirche, die als „spirituelle Klinik“ betrieben wird, konzentriert sich auf Heilungsgebete und Seelsorge.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.095906,
+                        -36.786347
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Apostólica",
+                  "text": "Diese apostolische Pfingstgemeinde versammelt sich zu einem enthusiastischen Gottesdienst, der die Gaben des Heiligen Geistes betont.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.106645,
+                        -36.786424
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica: Maranata",
+                  "text": "Die Evangelische Kirche Maranata bietet ein protestantisches Gemeindezentrum, das der biblischen Eschatologie gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.104834,
+                        -36.793067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puente Juan Pablo II",
+                  "text": "A Puente Juan Pablo II egy jelentős közúti híd, amely a Biobío folyón ível át a Bio Bío Finomító régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.09172,
+                        -36.823762
+                  ]
+            },
+            {
+                  "name": "Cerro Amarillo",
+                  "text": "A Cerro Amarillo egy kiemelkedő hegycsúcs, amely magaslati kilátást nyújt Hualpén városi tájára a finomító közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102539,
+                        -36.78404
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Laguna Grande y Humedal Los Batros",
+                  "text": "A 2022 márciusában hivatalosan is létrehozott természetvédelmi terület a Los Batros és a Laguna Grande létfontosságú vizenyős és lagúna ökoszisztémáit védi.",
+                  "category": "natural",
+                  "coords": [
+                        -73.115999,
+                        -36.851401
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Humedal Desembocadura Río Biobío",
+                  "text": "A 2023 decemberében természetvédelmi területté nyilvánított part menti rezervátum a Biobío folyó torkolatának biológiailag sokszínű vizenyős területeit foglalja magába.",
+                  "category": "natural",
+                  "coords": [
+                        -73.109745,
+                        -36.822929
+                  ]
+            },
+            {
+                  "name": "Centro Patrimonial Curarrehue",
+                  "text": "A Centro Patrimonial Curarrehue egy múzeum, amely a regionális kulturális leletek megőrzésének szenteli magát a Bio Bío térség közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -73.105973,
+                        -36.834437
+                  ]
+            },
+            {
+                  "name": "Museo Pedro del Río Zañartu",
+                  "text": "A Museo Pedro del Río Zañartu egy kiterjedt történelmi és antropológiai gyűjteménynek ad otthont, amelyet a híres utazó gyűjtött össze.",
+                  "category": "museum",
+                  "coords": [
+                        -73.15266,
+                        -36.7971
+                  ]
+            },
+            {
+                  "name": "Salón Azul del Colegio Concepción San Pedro",
+                  "text": "A Salón Azul a Colegio Concepción San Pedro dedikált előadóterme, amelyet iskolai színdarabokhoz és színházi eseményekhez használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108383,
+                        -36.843973
+                  ]
+            },
+            {
+                  "name": "Anfiteatro San Pedro de la Paz",
+                  "text": "Az Anfiteatro San Pedro de la Paz egy nagy szabadtéri helyszín, amelyet koncertekre és színházi előadásokra terveztek az önkormányzatban.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108804,
+                        -36.8449
+                  ]
+            },
+            {
+                  "name": "Centro Cultural",
+                  "text": "Ez a helyi Centro Cultural színházként és közösségi művészeti térként működik a Bio Bío Finomító szomszédságában.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.107067,
+                        -36.845086
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Hualpén",
+                  "text": "A Centro Cultural de Hualpén egy élénk művészeti központ, amely workshopokat és művészeti kiállításokat szervez Hualpén lakosainak.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.098763,
+                        -36.797893
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ez a Királyság-terem Jehova Tanúi kijelölt istentiszteleti és bibliai tanulmányozóhelyeként szolgál a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        -73.140166,
+                        -36.842356
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "A gyülekezeti találkozóhelyként működő Királyság-terem spirituális központot biztosít Jehova Tanúi számára a finomító közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -73.044845,
+                        -36.784947
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Montahue",
+                  "text": "A Santuario de Schoenstatt Montahue egy békés Mária-kegyhely, amely csendes menedéket nyújt a katolikus zarándokok számára.",
+                  "category": "religious",
+                  "coords": [
+                        -73.074766,
+                        -36.867908
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestra señora de Candelaria",
+                  "text": "A Santuario Nuestra Señora de Candelaria egy Mária-templom, amely a Szűzanya tiszteletének központjaként működik a régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.079656,
+                        -36.841538
+                  ]
+            },
+            {
+                  "name": "Templo Adventista del 7 Día",
+                  "text": "Ez a Hetednapi Adventista templom a szombati istentiszteletek és a spirituális közösségi összejövetelek helyszíne a Bio Bío Finomító közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -73.101443,
+                        -36.786079
+                  ]
+            },
+            {
+                  "name": "Ejército Evangélico de Chile",
+                  "text": "Ez az evangélikus istentiszteleti hely a helyi chilei közösséget gyűjti össze a Bío Bío régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.100883,
+                        -36.796177
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Egy evangélikus templom, amely protestáns vallási összejöveteleket kínál ebben a tengerparti ipari övezetben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.093083,
+                        -36.763412
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egy helyi keresztény templom, amely csendes közösségi teret biztosít az imádkozáshoz a Bío Bío finomító közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -73.101862,
+                        -36.844296
+                  ]
+            },
+            {
+                  "name": "Mercado San Pedro de la Costa",
+                  "text": "Ez a nyüzsgő tengerparti piac friss helyi termékeket és regionális árukat kínál San Pedróban.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.13461,
+                        -36.855428
+                  ]
+            },
+            {
+                  "name": "Caleta Alto del Rey",
+                  "text": "Hagyományos halászöböl-látványosság, amely a Bío Bío folyó torkolata közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.151913,
+                        -36.82559
+                  ]
+            },
+            {
+                  "name": "Los Monos",
+                  "text": "Egy ismert helyi látványosság, amely a San Pedro de la Paz környékét felfedező látogatókat vonzza.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.040917,
+                        -36.799055
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal Laguna Chica",
+                  "text": "Egy népszerű önkormányzati fürdőhely, amely közvetlenül a Laguna Chica nyugodt vizeinél fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.090137,
+                        -36.843057
+                  ]
+            },
+            {
+                  "name": "El Arca",
+                  "text": "„A Bárka” nevű keresztény hely, amely spirituális útmutatást nyújt a helyi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.140963,
+                        -36.852644
+                  ]
+            },
+            {
+                  "name": "Iglesia: Nuevo Pacto Pentecostal",
+                  "text": "Ez a pünkösdi gyülekezet élénk istentiszteleteket tart az Újszövetség tanításaira összpontosítva.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.135787,
+                        -36.85315
+                  ]
+            },
+            {
+                  "name": "Gran Cruz",
+                  "text": "Egy monumentális keresztény kereszt, amely kiemelkedő mérföldkőként emelkedik a környező negyed fölé.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.043322,
+                        -36.796854
+                  ]
+            },
+            {
+                  "name": "Capilla San Andrés Apóstol",
+                  "text": "Szent András apostolnak szentelt hangulatos keresztény kápolna, amely a helyi katolikus családokat szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.058169,
+                        -36.791195
+                  ]
+            },
+            {
+                  "name": "Iglesia Templo Cristiano ADULAM",
+                  "text": "Az ADULAM keresztény templom aktív evangéliumi teret biztosít a bibliai tanítások és az imádság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.103345,
+                        -36.780473
+                  ]
+            },
+            {
+                  "name": "Igleisa Pentecostal",
+                  "text": "Egy helyi pünkösdi gyülekezet, ahol a hívek lelkes zenés istentiszteletre és imára gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.098242,
+                        -36.780707
+                  ]
+            },
+            {
+                  "name": "Iglesia Getsemaní",
+                  "text": "A bibliai kertről elnevezett templom menedéket nyújt a keresztény szellemi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.099365,
+                        -36.782066
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal",
+                  "text": "Ezt a regionális pünkösdi templomot dinamikus prédikációk és közösségközpontú szolgálat jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.097173,
+                        -36.78446
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Clínica Espiritual",
+                  "text": "Ez a „spirituális klinikaként” működő apostoli egyház a gyógyító imákra és a lelkigondozásra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.095906,
+                        -36.786347
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Apostólica",
+                  "text": "Ez az apostoli pünkösdi gyülekezet lelkes istentiszteletre gyűlik össze, hangsúlyozva a Szentlélek ajándékait.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.106645,
+                        -36.786424
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica: Maranata",
+                  "text": "A Maranata Evangélikus Egyház a bibliai eszkatológiának szentelt protestáns közösségi központot biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.104834,
+                        -36.793067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puente Juan Pablo II",
+                  "text": "Puente Juan Pablo II este un pod rutier important care traversează râul Biobío în regiunea rafinăriei Bio Bío.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.09172,
+                        -36.823762
+                  ]
+            },
+            {
+                  "name": "Cerro Amarillo",
+                  "text": "Cerro Amarillo este un vârf geografic distinct care oferă vederi panoramice asupra peisajului urban din Hualpén, lângă rafinărie.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102539,
+                        -36.78404
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Laguna Grande y Humedal Los Batros",
+                  "text": "Înființată oficial în martie 2022, această rezervație naturală protejează ecosistemele vitale de zone umede și lagune din Los Batros și Laguna Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -73.115999,
+                        -36.851401
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Humedal Desembocadura Río Biobío",
+                  "text": "Desemnată sanctuar al naturii în decembrie 2023, această rezervație de coastă cuprinde zonele umede cu o mare diversitate biologică de la gura râului Biobío.",
+                  "category": "natural",
+                  "coords": [
+                        -73.109745,
+                        -36.822929
+                  ]
+            },
+            {
+                  "name": "Centro Patrimonial Curarrehue",
+                  "text": "Centro Patrimonial Curarrehue este o instituție muzeală dedicată păstrării artefactelor culturale regionale în apropiere de zona Bio Bío.",
+                  "category": "museum",
+                  "coords": [
+                        -73.105973,
+                        -36.834437
+                  ]
+            },
+            {
+                  "name": "Museo Pedro del Río Zañartu",
+                  "text": "Museo Pedro del Río Zañartu găzduiește o colecție vastă de obiecte istorice și antropologice adunate de celebrul călător.",
+                  "category": "museum",
+                  "coords": [
+                        -73.15266,
+                        -36.7971
+                  ]
+            },
+            {
+                  "name": "Salón Azul del Colegio Concepción San Pedro",
+                  "text": "Salón Azul este un auditoriu dedicat în cadrul Colegio Concepción San Pedro, folosit pentru piese de teatru școlare și evenimente teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108383,
+                        -36.843973
+                  ]
+            },
+            {
+                  "name": "Anfiteatro San Pedro de la Paz",
+                  "text": "Anfiteatro San Pedro de la Paz este un spațiu mare în aer liber conceput pentru concerte și spectacole de teatru în municipalitate.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108804,
+                        -36.8449
+                  ]
+            },
+            {
+                  "name": "Centro Cultural",
+                  "text": "Acest Centro Cultural local funcționează ca un teatru și un spațiu de artă comunitară în vecinătatea rafinăriei Bio Bío.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.107067,
+                        -36.845086
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Hualpén",
+                  "text": "Centro Cultural de Hualpén este un centru de artă plin de viață care facilitează ateliere și expoziții artistice pentru locuitorii din Hualpén.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.098763,
+                        -36.797893
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Această Sală a Regatului servește drept loc desemnat de închinare și studiu biblic pentru Martorii lui Iehova din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        -73.140166,
+                        -36.842356
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "Funcționând ca loc de întâlnire a congregației, această Sală a Regatului oferă un centru spiritual pentru Martorii lui Iehova din apropierea rafinăriei.",
+                  "category": "religious",
+                  "coords": [
+                        -73.044845,
+                        -36.784947
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Montahue",
+                  "text": "Santuario de Schoenstatt Montahue este un sanctuar marian pașnic care oferă un refugiu liniștit pentru pelerinii catolici.",
+                  "category": "religious",
+                  "coords": [
+                        -73.074766,
+                        -36.867908
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestra señora de Candelaria",
+                  "text": "Santuario Nuestra Señora de Candelaria este o biserică mariană dedicată, acționând ca un punct focal pentru devotamentul față de Fecioara Maria în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -73.079656,
+                        -36.841538
+                  ]
+            },
+            {
+                  "name": "Templo Adventista del 7 Día",
+                  "text": "Acest templu adventist de ziua a șaptea este un loc de închinare de Sabat și de adunare a comunității spirituale din apropierea rafinăriei Bio Bío.",
+                  "category": "religious",
+                  "coords": [
+                        -73.101443,
+                        -36.786079
+                  ]
+            },
+            {
+                  "name": "Ejército Evangélico de Chile",
+                  "text": "Acest lăcaș de cult evanghelic reunește comunitatea locală chiliană pentru slujbe spirituale în regiunea Bío Bío.",
+                  "category": "religious",
+                  "coords": [
+                        -73.100883,
+                        -36.796177
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "O biserică evanghelică care oferă slujbe protestante în această zonă industrială de coastă.",
+                  "category": "religious",
+                  "coords": [
+                        -73.093083,
+                        -36.763412
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O biserică creștină locală care oferă un spațiu comunitar liniștit pentru rugăciune lângă rafinăria Bío Bío.",
+                  "category": "religious",
+                  "coords": [
+                        -73.101862,
+                        -36.844296
+                  ]
+            },
+            {
+                  "name": "Mercado San Pedro de la Costa",
+                  "text": "Această piață de coastă plină de viață oferă produse locale proaspete și mărfuri regionale în San Pedro.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.13461,
+                        -36.855428
+                  ]
+            },
+            {
+                  "name": "Caleta Alto del Rey",
+                  "text": "O atracție tradițională a golfului de pescuit situată aproape de gura râului Bío Bío.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.151913,
+                        -36.82559
+                  ]
+            },
+            {
+                  "name": "Los Monos",
+                  "text": "O atracție locală recunoscută care atrage vizitatorii ce explorează împrejurimile orașului San Pedro de la Paz.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.040917,
+                        -36.799055
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal Laguna Chica",
+                  "text": "O stațiune balneară municipală populară, situată direct pe apele calme ale Laguna Chica.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.090137,
+                        -36.843057
+                  ]
+            },
+            {
+                  "name": "El Arca",
+                  "text": "Un loc creștin dedicat numit „Arca”, care oferă îndrumare spirituală comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.140963,
+                        -36.852644
+                  ]
+            },
+            {
+                  "name": "Iglesia: Nuevo Pacto Pentecostal",
+                  "text": "Această biserică penticostală găzduiește slujbe vibrante axate pe învățăturile Noului Legământ.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.135787,
+                        -36.85315
+                  ]
+            },
+            {
+                  "name": "Gran Cruz",
+                  "text": "O cruce creștină monumentală care se înalță ca un punct de reper proeminent deasupra cartierului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.043322,
+                        -36.796854
+                  ]
+            },
+            {
+                  "name": "Capilla San Andrés Apóstol",
+                  "text": "O capelă creștină pitorească dedicată Sfântului Apostol Andrei, care deservește familiile catolice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.058169,
+                        -36.791195
+                  ]
+            },
+            {
+                  "name": "Iglesia Templo Cristiano ADULAM",
+                  "text": "Templul creștin ADULAM oferă un spațiu evanghelic activ pentru învățături biblice și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.103345,
+                        -36.780473
+                  ]
+            },
+            {
+                  "name": "Igleisa Pentecostal",
+                  "text": "O biserică penticostală locală unde enoriașii se adună pentru slujbe muzicale entuziaste și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.098242,
+                        -36.780707
+                  ]
+            },
+            {
+                  "name": "Iglesia Getsemaní",
+                  "text": "Numită după grădina biblică, această biserică oferă un sanctuar pentru părtășia spirituală creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.099365,
+                        -36.782066
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal",
+                  "text": "Această biserică penticostală regională se caracterizează prin predicile sale dinamice și implicarea axată pe comunitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.097173,
+                        -36.78446
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Clínica Espiritual",
+                  "text": "Funcționând ca o „clinică spirituală”, această biserică apostolică se concentrează pe rugăciuni de vindecare și asistență pastorală.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.095906,
+                        -36.786347
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Apostólica",
+                  "text": "Această congregație penticostală apostolică se adună pentru o închinare entuziastă care subliniază darurile Duhului Sfânt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.106645,
+                        -36.786424
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica: Maranata",
+                  "text": "Biserica Evanghelică Maranata oferă un centru comunitar protestant dedicat escatologiei biblice.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.104834,
+                        -36.793067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puente Juan Pablo II",
+                  "text": "The Puente Juan Pablo II is a prominent vehicular bridge crossing the Biobío River in the region of the Bio Bío Refinery.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.09172,
+                        -36.823762
+                  ]
+            },
+            {
+                  "name": "Cerro Amarillo",
+                  "text": "Cerro Amarillo is a distinct geographical peak providing elevated views over the urban landscape of Hualpén near the refinery.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102539,
+                        -36.78404
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Laguna Grande y Humedal Los Batros",
+                  "text": "Officially established in March 2022, this nature reserve protects the vital wetland and lagoon ecosystems of Los Batros and Laguna Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -73.115999,
+                        -36.851401
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Humedal Desembocadura Río Biobío",
+                  "text": "Designated as a nature sanctuary in December 2023, this coastal reserve encompasses the biologically diverse wetlands at the mouth of the Biobío River.",
+                  "category": "natural",
+                  "coords": [
+                        -73.109745,
+                        -36.822929
+                  ]
+            },
+            {
+                  "name": "Centro Patrimonial Curarrehue",
+                  "text": "The Centro Patrimonial Curarrehue is a museum institution devoted to preserving regional cultural artifacts near the Bio Bío area.",
+                  "category": "museum",
+                  "coords": [
+                        -73.105973,
+                        -36.834437
+                  ]
+            },
+            {
+                  "name": "Museo Pedro del Río Zañartu",
+                  "text": "The Museo Pedro del Río Zañartu houses an extensive collection of historical and anthropological objects collected by the famous traveler.",
+                  "category": "museum",
+                  "coords": [
+                        -73.15266,
+                        -36.7971
+                  ]
+            },
+            {
+                  "name": "Salón Azul del Colegio Concepción San Pedro",
+                  "text": "The Salón Azul is a dedicated auditorium within the Colegio Concepción San Pedro used for school plays and theatrical events.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108383,
+                        -36.843973
+                  ]
+            },
+            {
+                  "name": "Anfiteatro San Pedro de la Paz",
+                  "text": "The Anfiteatro San Pedro de la Paz is a large open-air venue designed for concerts and theatrical performances in the municipality.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108804,
+                        -36.8449
+                  ]
+            },
+            {
+                  "name": "Centro Cultural",
+                  "text": "This local Centro Cultural functions as a theatre and community arts space in the vicinity of the Bio Bío Refinery.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.107067,
+                        -36.845086
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Hualpén",
+                  "text": "The Centro Cultural de Hualpén is a lively arts centre facilitating workshops and artistic exhibitions for the residents of Hualpén.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.098763,
+                        -36.797893
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "This Kingdom Hall serves as the designated place of worship and scriptural study for Jehovah's Witnesses in the area.",
+                  "category": "religious",
+                  "coords": [
+                        -73.140166,
+                        -36.842356
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "Functioning as a congregation meeting place, this Kingdom Hall provides a spiritual center for Jehovah's Witnesses near the refinery.",
+                  "category": "religious",
+                  "coords": [
+                        -73.044845,
+                        -36.784947
+                  ]
+            },
+            {
+                  "name": "Santuario de Schoenstatt Montahue",
+                  "text": "The Santuario de Schoenstatt Montahue is a peaceful Marian shrine providing a quiet retreat for Catholic pilgrims.",
+                  "category": "religious",
+                  "coords": [
+                        -73.074766,
+                        -36.867908
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestra señora de Candelaria",
+                  "text": "The Santuario Nuestra Señora de Candelaria is a dedicated Marian church acting as a focal point for devotion to the Virgin Mary in the region.",
+                  "category": "religious",
+                  "coords": [
+                        -73.079656,
+                        -36.841538
+                  ]
+            },
+            {
+                  "name": "Templo Adventista del 7 Día",
+                  "text": "This Seventh-day Adventist temple is a place of Sabbath worship and spiritual community gathering near the Bio Bío Refinery.",
+                  "category": "religious",
+                  "coords": [
+                        -73.101443,
+                        -36.786079
+                  ]
+            },
+            {
+                  "name": "Ejército Evangélico de Chile",
+                  "text": "This evangelical place of worship gathers the local Chilean community for spiritual services in the Bío Bío region.",
+                  "category": "religious",
+                  "coords": [
+                        -73.100883,
+                        -36.796177
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "An evangelical church offering Protestant religious gatherings in this coastal industrial area.",
+                  "category": "religious",
+                  "coords": [
+                        -73.093083,
+                        -36.763412
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A local Christian church providing a quiet community space for prayer near the Bío Bío refinery.",
+                  "category": "religious",
+                  "coords": [
+                        -73.101862,
+                        -36.844296
+                  ]
+            },
+            {
+                  "name": "Mercado San Pedro de la Costa",
+                  "text": "This bustling coastal marketplace offers fresh local produce and regional goods in San Pedro.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.13461,
+                        -36.855428
+                  ]
+            },
+            {
+                  "name": "Caleta Alto del Rey",
+                  "text": "A traditional fishing cove attraction located near the mouth of the Bío Bío river.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.151913,
+                        -36.82559
+                  ]
+            },
+            {
+                  "name": "Los Monos",
+                  "text": "A recognizable local attraction drawing visitors exploring the San Pedro de la Paz surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.040917,
+                        -36.799055
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal Laguna Chica",
+                  "text": "A popular municipal bathing resort set directly on the calm waters of Laguna Chica.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.090137,
+                        -36.843057
+                  ]
+            },
+            {
+                  "name": "El Arca",
+                  "text": "A dedicated Christian site named \"The Ark\", providing spiritual guidance to the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.140963,
+                        -36.852644
+                  ]
+            },
+            {
+                  "name": "Iglesia: Nuevo Pacto Pentecostal",
+                  "text": "This Pentecostal church hosts vibrant worship services focused on the New Covenant teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.135787,
+                        -36.85315
+                  ]
+            },
+            {
+                  "name": "Gran Cruz",
+                  "text": "A monumental Christian cross standing as a prominent landmark over the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.043322,
+                        -36.796854
+                  ]
+            },
+            {
+                  "name": "Capilla San Andrés Apóstol",
+                  "text": "A quaint Christian chapel dedicated to Saint Andrew the Apostle, serving local Catholic families.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.058169,
+                        -36.791195
+                  ]
+            },
+            {
+                  "name": "Iglesia Templo Cristiano ADULAM",
+                  "text": "The ADULAM Christian temple provides an active evangelical space for biblical teachings and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.103345,
+                        -36.780473
+                  ]
+            },
+            {
+                  "name": "Igleisa Pentecostal",
+                  "text": "A local Pentecostal church where parishioners gather for enthusiastic musical worship and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.098242,
+                        -36.780707
+                  ]
+            },
+            {
+                  "name": "Iglesia Getsemaní",
+                  "text": "Named after the biblical garden, this church offers a sanctuary for Christian spiritual fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.099365,
+                        -36.782066
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal",
+                  "text": "This regional Pentecostal church is characterized by its dynamic sermons and community-focused outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.097173,
+                        -36.78446
+                  ]
+            },
+            {
+                  "name": "Iglesia Apostólica Clínica Espiritual",
+                  "text": "Operating as a \"spiritual clinic\", this Apostolic church focuses on healing prayers and pastoral care.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.095906,
+                        -36.786347
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Apostólica",
+                  "text": "This Apostolic Pentecostal congregation gathers for enthusiastic worship emphasizing the gifts of the Holy Spirit.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.106645,
+                        -36.786424
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica: Maranata",
+                  "text": "The Maranata Evangelical Church provides a Protestant community hub dedicated to biblical eschatology.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.104834,
+                        -36.793067
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-BI",
     coords: [-73.1208, -36.7869],
@@ -1184,7 +13253,304 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["L'une des plus importantes raffineries du Chili.", "Appartient à l'entreprise publique ENAP."],
     }, image: "/poi-images/refineria-bio-bio-economic-v2.webp"},
   {
-    id: "celulosa-arauco-economic-v2",
+    id: "celulosa-arauco-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santuario de la Naturaleza Humedal Arauco Desembocadura Río Carampangue",
+                  "text": "Feuchtgebiet an der Mündung des Carampangue, das 2022 zum Schutzgebiet erklärt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -73.296815,
+                        -37.236356
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Curaquilla",
+                  "text": "Geschütztes städtisches Feuchtgebiet, das 2018 zur Erhaltung der lokalen Biodiversität eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -73.359684,
+                        -37.244555
+                  ]
+            },
+            {
+                  "name": "Playa Mirama Oriente",
+                  "text": "Küstenstrand am östlichen Ufer des Golfs von Arauco.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.379814,
+                        -37.243701
+                  ]
+            },
+            {
+                  "name": "Playa Miramar Poniente",
+                  "text": "Sandstrand am westlichen Rand der Küstenstadt Arauco.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.387581,
+                        -37.243933
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Red de Humedales Huillines-Paraíso",
+                  "text": "Ein städtisches Feuchtgebietsnetz, das seit 2025 die lokale Artenvielfalt in Küstennähe von Arauco schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.254177,
+                        -37.239962
+                  ]
+            },
+            {
+                  "name": "Playa Arauco",
+                  "text": "Ein weitläufiger Sandstrand am Golf von Arauco, der für seine ruhige Atmosphäre und weite Küstenlinie bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.316996,
+                        -37.236149
+                  ]
+            },
+            {
+                  "name": "Bahía de Arauco",
+                  "text": "Diese große Bucht in der Region Biobío ist ein bedeutendes Gewässer für die lokale Fischerei und Industrie.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.365492,
+                        -37.177777
+                  ]
+            },
+            {
+                  "name": "Parroquia Arauco",
+                  "text": "Eine katholische Pfarrkirche im Zentrum von Arauco, die als spiritueller Treffpunkt der Küstengemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.318611,
+                        -37.246786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santuario de la Naturaleza Humedal Arauco Desembocadura Río Carampangue",
+                  "text": "Vizes élőhely a Carampangue torkolatánál, amelyet 2022-ben nyilvánítottak természetvédelmi területté.",
+                  "category": "natural",
+                  "coords": [
+                        -73.296815,
+                        -37.236356
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Curaquilla",
+                  "text": "Védett városi vizes élőhely, amelyet 2018-ban hoztak létre a helyi biológiai sokféleség megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        -73.359684,
+                        -37.244555
+                  ]
+            },
+            {
+                  "name": "Playa Mirama Oriente",
+                  "text": "Tengerparti strand az Arauco-öböl keleti partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.379814,
+                        -37.243701
+                  ]
+            },
+            {
+                  "name": "Playa Miramar Poniente",
+                  "text": "Homokos tengerpart Arauco kikötővárosának nyugati szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.387581,
+                        -37.243933
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Red de Humedales Huillines-Paraíso",
+                  "text": "Városi vizes élőhely-hálózat Arauco közelében, amelyet 2025-ben hoztak létre a helyi ökoszisztéma védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        -73.254177,
+                        -37.239962
+                  ]
+            },
+            {
+                  "name": "Playa Arauco",
+                  "text": "Széles homokos tengerpart az Arauco-öbölben, amely nyugodt környezetéről és hosszú partvonaláról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.316996,
+                        -37.236149
+                  ]
+            },
+            {
+                  "name": "Bahía de Arauco",
+                  "text": "A Biobío régió nagy öble, amely a helyi halászat és ipar számára kiemelt jelentőségű vízfelület.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.365492,
+                        -37.177777
+                  ]
+            },
+            {
+                  "name": "Parroquia Arauco",
+                  "text": "Arauco központjában található katolikus plébániatemplom, a helyi közösség hitéletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.318611,
+                        -37.246786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santuario de la Naturaleza Humedal Arauco Desembocadura Río Carampangue",
+                  "text": "Zonă umedă la gura de vărsare a râului Carampangue, desemnată sanctuar în 2022.",
+                  "category": "natural",
+                  "coords": [
+                        -73.296815,
+                        -37.236356
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Curaquilla",
+                  "text": "Zonă umedă urbană protejată, înființată în 2018 pentru biodiversitatea locală.",
+                  "category": "natural",
+                  "coords": [
+                        -73.359684,
+                        -37.244555
+                  ]
+            },
+            {
+                  "name": "Playa Mirama Oriente",
+                  "text": "Plajă de coastă pe malul estic al golfului Arauco.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.379814,
+                        -37.243701
+                  ]
+            },
+            {
+                  "name": "Playa Miramar Poniente",
+                  "text": "Plajă cu nisip la marginea vestică a orașului de coastă Arauco.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.387581,
+                        -37.243933
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Red de Humedales Huillines-Paraíso",
+                  "text": "O rețea de zone umede urbane protejată din 2025, care conservă biodiversitatea locală în Arauco.",
+                  "category": "natural",
+                  "coords": [
+                        -73.254177,
+                        -37.239962
+                  ]
+            },
+            {
+                  "name": "Playa Arauco",
+                  "text": "O plajă întinsă cu nisip la Golful Arauco, cunoscută pentru atmosfera sa liniștită și linia de coastă vastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.316996,
+                        -37.236149
+                  ]
+            },
+            {
+                  "name": "Bahía de Arauco",
+                  "text": "Acest golf mare din regiunea Biobío este o zonă maritimă importantă pentru pescuitul și industria locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.365492,
+                        -37.177777
+                  ]
+            },
+            {
+                  "name": "Parroquia Arauco",
+                  "text": "O parohie catolică din centrul orașului Arauco, servind ca punct de întâlnire spiritual pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.318611,
+                        -37.246786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santuario de la Naturaleza Humedal Arauco Desembocadura Río Carampangue",
+                  "text": "Wetland at the Carampangue river mouth, designated a sanctuary in 2022.",
+                  "category": "natural",
+                  "coords": [
+                        -73.296815,
+                        -37.236356
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Curaquilla",
+                  "text": "Protected urban wetland established in 2018 for local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -73.359684,
+                        -37.244555
+                  ]
+            },
+            {
+                  "name": "Playa Mirama Oriente",
+                  "text": "Coastal beach on the eastern shore of the Arauco Gulf.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.379814,
+                        -37.243701
+                  ]
+            },
+            {
+                  "name": "Playa Miramar Poniente",
+                  "text": "Sandy beach on the western edge of the coastal town of Arauco.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.387581,
+                        -37.243933
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Red de Humedales Huillines-Paraíso",
+                  "text": "An urban wetland network established in 2025 to protect the coastal biodiversity near Arauco.",
+                  "category": "natural",
+                  "coords": [
+                        -73.254177,
+                        -37.239962
+                  ]
+            },
+            {
+                  "name": "Playa Arauco",
+                  "text": "A wide sandy beach on the Gulf of Arauco, known for its tranquil atmosphere and vast coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.316996,
+                        -37.236149
+                  ]
+            },
+            {
+                  "name": "Bahía de Arauco",
+                  "text": "A large bay in the Biobío Region that serves as a significant waterway for local fishing and industry.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.365492,
+                        -37.177777
+                  ]
+            },
+            {
+                  "name": "Parroquia Arauco",
+                  "text": "A Catholic parish church in the center of Arauco, serving as a spiritual gathering place for the coastal community.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.318611,
+                        -37.246786
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-BI",
     coords: [-73.3247, -37.2425],
@@ -1244,7 +13610,88 @@ export const poiExtraChileEconomicV2: POI[] = [
     }
   },
   {
-    id: "celulosa-valdivia-economic-v2",
+    id: "celulosa-valdivia-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parroquia de Mafil",
+                  "text": "Die Pfarrei von Máfil ist eine zentrale katholische Kirche in dieser landwirtschaftlich geprägten Region Südchiles.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.953168,
+                        -39.665932
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Conrado",
+                  "text": "Die Kirche San Conrado dient der lokalen Gemeinschaft in der Nähe der großen Zellstoffwerke von Valdivia.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.949551,
+                        -39.660341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parroquia de Mafil",
+                  "text": "Máfil plébániája központi katolikus templom Dél-Chile ezen mezőgazdasági jellegű régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.953168,
+                        -39.665932
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Conrado",
+                  "text": "A San Conrado-templom a helyi közösséget szolgálja a Valdivia-i nagy cellulózgyárak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.949551,
+                        -39.660341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parroquia de Mafil",
+                  "text": "Parohia din Máfil este o biserică catolică centrală în această regiune agricolă din sudul statului Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.953168,
+                        -39.665932
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Conrado",
+                  "text": "Biserica San Conrado deservește comunitatea locală din apropierea marilor fabrici de celuloză din Valdivia.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.949551,
+                        -39.660341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parroquia de Mafil",
+                  "text": "The parish of Máfil is a central Catholic church in this agricultural region of southern Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.953168,
+                        -39.665932
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Conrado",
+                  "text": "The San Conrado church serves the local community near the large Valdivia pulp mills.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.949551,
+                        -39.660341
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-LR",
     coords: [-72.9328, -39.7119],
@@ -1363,7 +13810,628 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Traite les concentrés de cuivre.", "Situé à Antofagasta."],
     }, image: "/poi-images/complejo-altonorte-economic-v2.webp"},
   {
-    id: "fundicion-paipote-economic-v2",
+    id: "fundicion-paipote-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Paipote",
+                  "text": "Dieser erhöhte Aussichtspunkt ermöglicht es Besuchern, die Industrielandschaft und die ausgedehnten Kupferschmelzanlagen von Paipote zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -70.276331,
+                        -27.410257
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Militar de Copiapó",
+                  "text": "Das Museum zeigt regionale militärische Artefakte, Waffen und Uniformen, welche die Geschichte der chilenischen Streitkräfte in der Atacama-Region detailliert darstellen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.319258,
+                        -27.373971
+                  ]
+            },
+            {
+                  "name": "Museo Mineralógico",
+                  "text": "Dieses Museum in Copiapó beherbergt Tausende von geologischen Proben und präsentiert den vielfältigen Mineralienreichtum, der die Wirtschaft des Nordens antreibt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.330713,
+                        -27.36555
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Tierra Amarilla",
+                  "text": "Dieses Freilufttheater in Tierra Amarilla veranstaltet regelmäßig regionale Kulturereignisse und kommunale Theateraufführungen unter dem Himmel der Atacama.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.264768,
+                        -27.480538
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Kaukari",
+                  "text": "Dieses Amphitheater ist in den Stadtpark entlang des Flusses Copiapó integriert und ein beliebter Ort für Freiluftkonzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.327647,
+                        -27.378337
+                  ]
+            },
+            {
+                  "name": "Catedral de Copiapó",
+                  "text": "Die für ihre markante neoklassizistische Holzarchitektur bekannte Kathedrale von Copiapó ist ein bedeutendes religiöses Wahrzeichen im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        -70.333269,
+                        -27.36621
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Parque Kaukari",
+                  "text": "Dieses restaurierte städtische Feuchtgebiet im Parque Kaukari bietet einen lebenswichtigen ökologischen Korridor und ein friedliches grünes Refugium zur Vogelbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        -70.333692,
+                        -27.372737
+                  ]
+            },
+            {
+                  "name": "Museo Minero de Tierra Amarilla",
+                  "text": "Dieses in einem restaurierten Anwesen aus dem 19. Jahrhundert untergebrachte Museum dokumentiert die tief verwurzelte Bergbaugeschichte des Bezirks Tierra Amarilla.",
+                  "category": "museum",
+                  "coords": [
+                        -70.262061,
+                        -27.497307
+                  ]
+            },
+            {
+                  "name": "Capilla Cristo Resucitado",
+                  "text": "Diese dem auferstandenen Christus gewidmete Kapelle dient der Nachbarschaft mit regelmäßigen Gottesdiensten im Bergbauviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.318814,
+                        -27.382102
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Ultimos Días",
+                  "text": "Dieses Gemeindehaus der Heiligen der Letzten Tage bietet Raum für mormonische Sonntagsgottesdienste und Gemeindeaktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        -70.307068,
+                        -27.385496
+                  ]
+            },
+            {
+                  "name": "Pimiento Antiguo",
+                  "text": "Dieser uralte Pfefferbaum, der lokal als natürliches Heiligtum anerkannt ist, fungiert als informeller, historischer Andachtsort im Freien.",
+                  "category": "religious",
+                  "coords": [
+                        -70.305111,
+                        -27.383353
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser funktionelle Königreichssaal ist das engagierte Zentrum für Bibelstudium und Gottesdienst der Zeugen Jehovas in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        -70.327908,
+                        -27.369187
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine lokale christliche Kirche, die als geistliches Zentrum für die Gemeinde in der Gegend von Fundición Paipote dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.325763,
+                        -27.368569
+                  ]
+            },
+            {
+                  "name": "Salón de Reino de los Testigos de Jehova",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas, der für religiöse Zusammenkünfte in Fundición Paipote genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -70.264338,
+                        -27.484903
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Ultimos Dias",
+                  "text": "Ein Gotteshaus der Kirche Jesu Christi der Heiligen der Letzten Tage im Gebiet von Fundición Paipote.",
+                  "category": "religious",
+                  "coords": [
+                        -70.329962,
+                        -27.384013
+                  ]
+            },
+            {
+                  "name": "Parroquia Ntra. Sra. de la Esperanza",
+                  "text": "Eine katholische Pfarrkirche in Fundición Paipote, die der Jungfrau der Hoffnung gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.332771,
+                        -27.382613
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestra Señora de la Candelaria",
+                  "text": "Ein christliches Heiligtum, das Unserer Lieben Frau von Candelaria gewidmet ist und als Andachtsort in Fundición Paipote dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.310305,
+                        -27.380392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Paipote",
+                  "text": "Ebből a magasan fekvő kilátóból a látogatók megfigyelhetik Paipote ipari táját és kiterjedt rézkohászati műveleteit.",
+                  "category": "natural",
+                  "coords": [
+                        -70.276331,
+                        -27.410257
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Militar de Copiapó",
+                  "text": "A múzeum regionális katonai tárgyakat, fegyvereket és egyenruhákat mutat be, amelyek részletesen ismertetik a chilei fegyveres erők történelmét az Atacama régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.319258,
+                        -27.373971
+                  ]
+            },
+            {
+                  "name": "Museo Mineralógico",
+                  "text": "A Copiapóban található múzeum több ezer geológiai mintának ad otthont, és bemutatja azt a változatos ásványkincset, amely Észak gazdaságát hajtja.",
+                  "category": "museum",
+                  "coords": [
+                        -70.330713,
+                        -27.36555
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Tierra Amarilla",
+                  "text": "Ez a Tierra Amarilla-i szabadtéri színház rendszeresen ad otthont regionális kulturális eseményeknek és közösségi előadásoknak az Atacama ege alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.264768,
+                        -27.480538
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Kaukari",
+                  "text": "A Copiapó folyó menti városi parkba integrált amfiteátrum népszerű helyszíne a szabadtéri koncerteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.327647,
+                        -27.378337
+                  ]
+            },
+            {
+                  "name": "Catedral de Copiapó",
+                  "text": "A jellegzetes neoklasszicista faépítészetéről ismert Copiapó-katedrális egy jelentős vallási nevezetesség a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        -70.333269,
+                        -27.36621
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Parque Kaukari",
+                  "text": "Ez a Parque Kaukari területén található helyreállított városi vizenyős terület létfontosságú ökológiai folyosót és békés zöld menedéket nyújt a madármegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        -70.333692,
+                        -27.372737
+                  ]
+            },
+            {
+                  "name": "Museo Minero de Tierra Amarilla",
+                  "text": "A restaurált 19. századi birtokon található múzeum Tierra Amarilla körzet mélyen gyökerező bányászati történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -70.262061,
+                        -27.497307
+                  ]
+            },
+            {
+                  "name": "Capilla Cristo Resucitado",
+                  "text": "Ez a feltámadt Krisztusnak szentelt kápolna a környéket szolgálja rendszeres istentiszteletekkel a bányászati negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.318814,
+                        -27.382102
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Ultimos Días",
+                  "text": "Az Utolsó Napi Szentek ezen gyülekezeti háza teret ad a mormon vasárnapi istentiszteleteknek és közösségi tevékenységeknek.",
+                  "category": "religious",
+                  "coords": [
+                        -70.307068,
+                        -27.385496
+                  ]
+            },
+            {
+                  "name": "Pimiento Antiguo",
+                  "text": "A helyiek által természetes szentélyként elismert ősöreg borsfa egyfajta kötetlen, történelmi szabadtéri áhítati helyként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -70.305111,
+                        -27.383353
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ez a funkcionális Királyság-terem a Jehova Tanúi bibliatanulmányozásának és istentiszteletének dedikált központja a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        -70.327908,
+                        -27.369187
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egy helyi keresztény templom, amely a Fundición Paipote környéki közösség spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.325763,
+                        -27.368569
+                  ]
+            },
+            {
+                  "name": "Salón de Reino de los Testigos de Jehova",
+                  "text": "Jehova Tanúinak Királyság-terme, amely vallási összejöveteleknek ad otthont Fundición Paipote területén.",
+                  "category": "religious",
+                  "coords": [
+                        -70.264338,
+                        -27.484903
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Ultimos Dias",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyházának imaháza Fundición Paipote térségében.",
+                  "category": "religious",
+                  "coords": [
+                        -70.329962,
+                        -27.384013
+                  ]
+            },
+            {
+                  "name": "Parroquia Ntra. Sra. de la Esperanza",
+                  "text": "Egy katolikus plébániatemplom Fundición Paipote-ban, amelyet a Reménység Szűzanyjának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.332771,
+                        -27.382613
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestra Señora de la Candelaria",
+                  "text": "A Candelariai Szűzanyának szentelt keresztény szentély, amely zarándokhelyként szolgál Fundición Paipote-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.310305,
+                        -27.380392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Paipote",
+                  "text": "Acest punct de belvedere înalt permite vizitatorilor să observe peisajul industrial și operațiunile extinse de topire a cuprului din Paipote.",
+                  "category": "natural",
+                  "coords": [
+                        -70.276331,
+                        -27.410257
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Militar de Copiapó",
+                  "text": "Muzeul expune artefacte militare regionale, armament și uniforme care detaliază istoria forțelor armate chiliene din regiunea Atacama.",
+                  "category": "museum",
+                  "coords": [
+                        -70.319258,
+                        -27.373971
+                  ]
+            },
+            {
+                  "name": "Museo Mineralógico",
+                  "text": "Acest muzeu din Copiapó găzduiește mii de mostre geologice și prezintă bogăția minerală diversă care stimulează economia nordului.",
+                  "category": "museum",
+                  "coords": [
+                        -70.330713,
+                        -27.36555
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Tierra Amarilla",
+                  "text": "Acest teatru în aer liber din Tierra Amarilla găzduiește cu regularitate evenimente culturale regionale și spectacole comunitare sub cerul Atacamei.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.264768,
+                        -27.480538
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Kaukari",
+                  "text": "Integrat în parcul urban de-a lungul râului Copiapó, acest amfiteatru este un loc popular pentru concerte în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.327647,
+                        -27.378337
+                  ]
+            },
+            {
+                  "name": "Catedral de Copiapó",
+                  "text": "Recunoscută pentru arhitectura sa neoclasică distinctivă din lemn, Catedrala din Copiapó este un reper religios semnificativ în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -70.333269,
+                        -27.36621
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Parque Kaukari",
+                  "text": "Această zonă umedă urbană restaurată din Parque Kaukari oferă un coridor ecologic vital și un refugiu verde liniștit pentru observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        -70.333692,
+                        -27.372737
+                  ]
+            },
+            {
+                  "name": "Museo Minero de Tierra Amarilla",
+                  "text": "Găzduit într-o moșie restaurată din secolul al XIX-lea, acest muzeu documentează istoria minieră profund înrădăcinată a districtului Tierra Amarilla.",
+                  "category": "museum",
+                  "coords": [
+                        -70.262061,
+                        -27.497307
+                  ]
+            },
+            {
+                  "name": "Capilla Cristo Resucitado",
+                  "text": "Această capelă închinată lui Hristos Înviat deservește cartierul cu slujbe de rugăciune regulate în districtul minier.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.318814,
+                        -27.382102
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Ultimos Días",
+                  "text": "Această casă de întruniri a Sfinților din Zilele din Urmă oferă un spațiu pentru închinarea mormonă de duminică și activități comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        -70.307068,
+                        -27.385496
+                  ]
+            },
+            {
+                  "name": "Pimiento Antiguo",
+                  "text": "Recunoscut pe plan local ca un sanctuar natural, acest arbore străvechi de piper funcționează ca un loc de devoțiune informal, istoric, în aer liber.",
+                  "category": "religious",
+                  "coords": [
+                        -70.305111,
+                        -27.383353
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Această Sală a Regatului funcțională este centrul dedicat studiului biblic și închinării pentru Martorii lui Iehova din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -70.327908,
+                        -27.369187
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O biserică creștină locală care servește ca centru spiritual pentru comunitatea din zona Fundición Paipote.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.325763,
+                        -27.368569
+                  ]
+            },
+            {
+                  "name": "Salón de Reino de los Testigos de Jehova",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova, folosită pentru întruniri religioase în Fundición Paipote.",
+                  "category": "religious",
+                  "coords": [
+                        -70.264338,
+                        -27.484903
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Ultimos Dias",
+                  "text": "Un lăcaș de cult al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din zona Fundición Paipote.",
+                  "category": "religious",
+                  "coords": [
+                        -70.329962,
+                        -27.384013
+                  ]
+            },
+            {
+                  "name": "Parroquia Ntra. Sra. de la Esperanza",
+                  "text": "O biserică parohială catolică din Fundición Paipote dedicată Fecioarei Speranței.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.332771,
+                        -27.382613
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestra Señora de la Candelaria",
+                  "text": "Un sanctuar creștin dedicat Maicii Domnului din Candelaria, servind ca loc de închinare în Fundición Paipote.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.310305,
+                        -27.380392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Paipote",
+                  "text": "This elevated viewpoint allows visitors to observe the industrial landscape and the extensive copper smelting operations of Paipote.",
+                  "category": "natural",
+                  "coords": [
+                        -70.276331,
+                        -27.410257
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Militar de Copiapó",
+                  "text": "The museum displays regional military artifacts, weaponry, and uniforms detailing the history of the Chilean armed forces in the Atacama region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.319258,
+                        -27.373971
+                  ]
+            },
+            {
+                  "name": "Museo Mineralógico",
+                  "text": "Home to thousands of geological samples, this museum in Copiapó showcases the diverse mineral wealth that drives the northern economy.",
+                  "category": "museum",
+                  "coords": [
+                        -70.330713,
+                        -27.36555
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Tierra Amarilla",
+                  "text": "An open-air venue in Tierra Amarilla, this amphitheater regularly hosts regional cultural events and community theatrical performances under the Atacama sky.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.264768,
+                        -27.480538
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Kaukari",
+                  "text": "Integrated into the urban park along the Copiapó River, this amphitheater is a popular spot for open-air concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.327647,
+                        -27.378337
+                  ]
+            },
+            {
+                  "name": "Catedral de Copiapó",
+                  "text": "Recognized for its distinctive neoclassical wooden architecture, the Copiapó Cathedral is a major religious landmark in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        -70.333269,
+                        -27.36621
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Parque Kaukari",
+                  "text": "This restored urban wetland in Parque Kaukari provides a vital ecological corridor and a peaceful green refuge for birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        -70.333692,
+                        -27.372737
+                  ]
+            },
+            {
+                  "name": "Museo Minero de Tierra Amarilla",
+                  "text": "Set in a restored 19th-century estate, this museum chronicles the deep-rooted mining history of the Tierra Amarilla district.",
+                  "category": "museum",
+                  "coords": [
+                        -70.262061,
+                        -27.497307
+                  ]
+            },
+            {
+                  "name": "Capilla Cristo Resucitado",
+                  "text": "Dedicated to the Resurrected Christ, this local chapel serves the neighborhood with regular prayer services in the mining district.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.318814,
+                        -27.382102
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Ultimos Días",
+                  "text": "This Latter-day Saints meetinghouse provides a dedicated space for Mormon Sunday worship and community activities.",
+                  "category": "religious",
+                  "coords": [
+                        -70.307068,
+                        -27.385496
+                  ]
+            },
+            {
+                  "name": "Pimiento Antiguo",
+                  "text": "Recognized locally as a natural sanctuary, this ancient pepper tree functions as an informal, historic outdoor place of devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -70.305111,
+                        -27.383353
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jeohova's Wittnesses",
+                  "text": "This functional Kingdom Hall is the dedicated center for Bible study and worship for Jehovah's Witnesses in the area.",
+                  "category": "religious",
+                  "coords": [
+                        -70.327908,
+                        -27.369187
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A local Christian church serving as a spiritual center for the community in the Fundición Paipote area.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.325763,
+                        -27.368569
+                  ]
+            },
+            {
+                  "name": "Salón de Reino de los Testigos de Jehova",
+                  "text": "A Jehovah's Witness Kingdom Hall used for religious gatherings in Fundición Paipote.",
+                  "category": "religious",
+                  "coords": [
+                        -70.264338,
+                        -27.484903
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Ultimos Dias",
+                  "text": "A meetinghouse of the Church of Jesus Christ of Latter-day Saints in the Fundición Paipote area.",
+                  "category": "religious",
+                  "coords": [
+                        -70.329962,
+                        -27.384013
+                  ]
+            },
+            {
+                  "name": "Parroquia Ntra. Sra. de la Esperanza",
+                  "text": "A Catholic parish church in Fundición Paipote dedicated to the Virgin of Hope.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.332771,
+                        -27.382613
+                  ]
+            },
+            {
+                  "name": "Santuario Nuestra Señora de la Candelaria",
+                  "text": "A Christian sanctuary dedicated to Our Lady of Candelaria, serving as a place of worship in Fundición Paipote.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.310305,
+                        -27.380392
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-AT",
     coords: [-70.2525, -27.4111],
@@ -1481,7 +14549,304 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Extrait le lithium du désert de sel.", "Essentiel pour la production mondiale de batteries."],
     }, image: "/poi-images/planta-litio-salar-atacama-economic-v2.webp"},
   {
-    id: "celulosa-laja-economic-v2",
+    id: "celulosa-laja-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piedra Degollada",
+                  "text": "Piedra Degollada ist eine markante natürliche Felsformation in celulosa-laja-economic-v2, die als beliebtes Outdoor-Ausflugsziel dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.710301,
+                        -37.340092
+                  ]
+            },
+            {
+                  "name": "anfiteatro plaza de armas",
+                  "text": "Das Amphitheater auf der Plaza de Armas in celulosa-laja-economic-v2 ist ein öffentlicher Freiluftveranstaltungsort im Herzen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.714759,
+                        -37.279369
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Laja",
+                  "text": "Das Anfiteatro Laja in celulosa-laja-economic-v2 ist ein Freilufttheater, das für verschiedene lokale Kulturaufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.702676,
+                        -37.27967
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Recinto Laja",
+                  "text": "Das Anfiteatro Recinto Laja in celulosa-laja-economic-v2 ist ein kommunales Freilufttheater auf dem Festgelände für öffentliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.708659,
+                        -37.283102
+                  ]
+            },
+            {
+                  "name": "Balneario de San Roque",
+                  "text": "Das Balneario de San Roque ist ein Flussstrand-Resort in celulosa-laja-economic-v2, das Sandstrände und Freizeitmöglichkeiten am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.723126,
+                        -37.267327
+                  ]
+            },
+            {
+                  "name": "iglesia evangelica",
+                  "text": "Die lokale Iglesia Evangélica in celulosa-laja-economic-v2 ist eine protestantische Kultstätte, in der regelmäßige Gemeindegottesdienste stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        -72.711433,
+                        -37.270038
+                  ]
+            },
+            {
+                  "name": "Cristo Población Héroes de la Concepción",
+                  "text": "Diese lokale Kultstätte verfügt über eine markante Christusstatue, die dem Viertel Héroes de la Concepción dient.",
+                  "category": "religious",
+                  "coords": [
+                        -72.721753,
+                        -37.260812
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Verkäufer in diesem städtischen Markt bieten eine Vielzahl an frischen Produkten und regionalen Waren an.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.71645,
+                        -37.280561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piedra Degollada",
+                  "text": "A Piedra Degollada egy jellegzetes természetes sziklaalakzat celulosa-laja-economic-v2 közelében, amely kedvelt szabadtéri kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.710301,
+                        -37.340092
+                  ]
+            },
+            {
+                  "name": "anfiteatro plaza de armas",
+                  "text": "A celulosa-laja-economic-v2 főterén található amfiteátrum egy nyilvános szabadtéri rendezvényhelyszín a város szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.714759,
+                        -37.279369
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Laja",
+                  "text": "A celulosa-laja-economic-v2 területén fekvő Anfiteatro Laja egy szabadtéri színház, amelyet különféle helyi kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.702676,
+                        -37.27967
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Recinto Laja",
+                  "text": "A celulosa-laja-economic-v2 rendezvényterületén található Anfiteatro Recinto Laja egy közösségi szabadtéri színház nyilvános események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.708659,
+                        -37.283102
+                  ]
+            },
+            {
+                  "name": "Balneario de San Roque",
+                  "text": "A Balneario de San Roque egy folyóparti strandfürdő celulosa-laja-economic-v2 területén, amely homokos partot és vízparti kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.723126,
+                        -37.267327
+                  ]
+            },
+            {
+                  "name": "iglesia evangelica",
+                  "text": "A helyi Iglesia Evangélica egy protestáns istentiszteleti hely celulosa-laja-economic-v2 területén, amely rendszeres gyülekezeti alkalmakat tart.",
+                  "category": "religious",
+                  "coords": [
+                        -72.711433,
+                        -37.270038
+                  ]
+            },
+            {
+                  "name": "Cristo Población Héroes de la Concepción",
+                  "text": "Ez a helyi istentiszteleti hely egy kiemelkedő Krisztus-szoborral rendelkezik, amely a Héroes de la Concepción negyedet szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -72.721753,
+                        -37.260812
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Ennek a városi piacnak az árusai különféle friss termékeket és regionális árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.71645,
+                        -37.280561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piedra Degollada",
+                  "text": "Piedra Degollada este o formațiune stâncoasă naturală distinctivă din celulosa-laja-economic-v2, care servește drept atracție în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.710301,
+                        -37.340092
+                  ]
+            },
+            {
+                  "name": "anfiteatro plaza de armas",
+                  "text": "Amfiteatrul din Plaza de Armas din celulosa-laja-economic-v2 este un loc public în aer liber situat în centrul orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.714759,
+                        -37.279369
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Laja",
+                  "text": "Anfiteatro Laja din celulosa-laja-economic-v2 este un teatru în aer liber folosit pentru diverse spectacole culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.702676,
+                        -37.27967
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Recinto Laja",
+                  "text": "Anfiteatro Recinto Laja din celulosa-laja-economic-v2 este un teatru comunitar în aer liber din incinta de evenimente, destinat adunărilor publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.708659,
+                        -37.283102
+                  ]
+            },
+            {
+                  "name": "Balneario de San Roque",
+                  "text": "Balneario de San Roque este o stațiune pe malul râului din celulosa-laja-economic-v2, oferind plaje cu nisip și recreere pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.723126,
+                        -37.267327
+                  ]
+            },
+            {
+                  "name": "iglesia evangelica",
+                  "text": "Iglesia Evangélica locală din celulosa-laja-economic-v2 este un lăcaș de cult protestant care găzduiește slujbe regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -72.711433,
+                        -37.270038
+                  ]
+            },
+            {
+                  "name": "Cristo Población Héroes de la Concepción",
+                  "text": "Acest lăcaș de cult local prezintă o statuie proeminentă a lui Hristos care deservește cartierul Héroes de la Concepción.",
+                  "category": "religious",
+                  "coords": [
+                        -72.721753,
+                        -37.260812
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Vânzătorii din această piață municipală oferă o varietate de produse proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.71645,
+                        -37.280561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piedra Degollada",
+                  "text": "Piedra Degollada is a distinctive natural stone formation in celulosa-laja-economic-v2 serving as a popular outdoor attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.710301,
+                        -37.340092
+                  ]
+            },
+            {
+                  "name": "anfiteatro plaza de armas",
+                  "text": "The amphitheatre in the Plaza de Armas of celulosa-laja-economic-v2 is an open-air public venue in the heart of the town.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.714759,
+                        -37.279369
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Laja",
+                  "text": "The Anfiteatro Laja in celulosa-laja-economic-v2 is an outdoor theatre space used for various local cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.702676,
+                        -37.27967
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Recinto Laja",
+                  "text": "The Anfiteatro Recinto Laja in celulosa-laja-economic-v2 is a community outdoor theatre within the event precinct for public gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.708659,
+                        -37.283102
+                  ]
+            },
+            {
+                  "name": "Balneario de San Roque",
+                  "text": "The Balneario de San Roque is a riverbank beach resort in celulosa-laja-economic-v2 offering sandy shores and waterside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.723126,
+                        -37.267327
+                  ]
+            },
+            {
+                  "name": "iglesia evangelica",
+                  "text": "The local Iglesia Evangélica in celulosa-laja-economic-v2 is a Protestant place of worship hosting regular community services.",
+                  "category": "religious",
+                  "coords": [
+                        -72.711433,
+                        -37.270038
+                  ]
+            },
+            {
+                  "name": "Cristo Población Héroes de la Concepción",
+                  "text": "This local place of worship features a prominent Christ statue serving the Héroes de la Concepción neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -72.721753,
+                        -37.260812
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Vendors at this municipal market sell a variety of fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.71645,
+                        -37.280561
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-BI",
     coords: [-72.7092, -37.2758],
@@ -1540,7 +14905,1168 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["La première usine de pâte à papier du Chili.", "Marque l'économie locale de Laja."],
     }, image: "/poi-images/celulosa-laja-economic-v2.webp"},
   {
-    id: "complejo-quintero-puchuncavi-economic-v2",
+    id: "complejo-quintero-puchuncavi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Corporación Municipal de Cultura y Turismo de Quintero",
+                  "text": "Dieses Kunstzentrum, das im ehemaligen Bahnhof von Quintero untergebracht ist, fördert die städtische Kultur und den Tourismus.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.528546,
+                        -32.784385
+                  ]
+            },
+            {
+                  "name": "Casa Museo Downey",
+                  "text": "Ein Hausmuseum, das sich der Bewahrung des historischen Erbes und der Artefakte der Familie Downey widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -71.533007,
+                        -32.779051
+                  ]
+            },
+            {
+                  "name": "Casa Museo de Lord Cochrane",
+                  "text": "Ein Hausmuseum, das an den regionalen historischen Einfluss des Seehelden Lord Cochrane erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        -71.442867,
+                        -32.806198
+                  ]
+            },
+            {
+                  "name": "Conchal Indígena de Tradición Bato y Cultura Aconcagua",
+                  "text": "Ein indigener archäologischer Muschelhaufen, der Artefakte der alten Bato- und Aconcagua-Kulturen enthält.",
+                  "category": "historical",
+                  "coords": [
+                        -71.512679,
+                        -32.79207
+                  ]
+            },
+            {
+                  "name": "Iglesia de Piedra",
+                  "text": "Ein markantes Natursteinmonument, das eine unverwechselbare Felsstruktur entlang der Küstenlandschaft bildet.",
+                  "category": "historical",
+                  "coords": [
+                        -71.528542,
+                        -32.778879
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Valle Alegre",
+                  "text": "Ein lokales Gotteshaus, das den spirituellen Bedürfnissen der Gemeinde Valle Alegre dient.",
+                  "category": "religious",
+                  "coords": [
+                        -71.441003,
+                        -32.805732
+                  ]
+            },
+            {
+                  "name": "Caleta Loncura",
+                  "text": "Eine kleine Fischerbucht und ein Markt an der Küste, der für frisch gefangene lokale Meeresfrüchte bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.507865,
+                        -32.782724
+                  ]
+            },
+            {
+                  "name": "Caleta de Quintero",
+                  "text": "Eine traditionelle Fischerbucht, die als belebter Markt für frische Meeresprodukte in Quintero fungiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.527006,
+                        -32.782067
+                  ]
+            },
+            {
+                  "name": "Mural Reviviendo la Historia de Quintero",
+                  "text": "Ein farbenfrohes Wandgemälde, das die reiche historische Entwicklung von Quintero illustriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.534176,
+                        -32.765868
+                  ]
+            },
+            {
+                  "name": "Capilla San Alberto Hurtado",
+                  "text": "Eine christliche Kapelle, die dem verehrten chilenischen Heiligen Alberto Hurtado geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.504423,
+                        -32.787931
+                  ]
+            },
+            {
+                  "name": "CFC Filadelfia",
+                  "text": "Eine lokale christliche Kirchengemeinde, die sich unter dem Namen Filadelfia versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.529272,
+                        -32.783433
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein Gemeindehaus, das der Kirche Jesu Christi der Heiligen der Letzten Tage als Versammlungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.530006,
+                        -32.794361
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Filomena",
+                  "text": "Eine christliche Pfarrkirche, die den Verehrern der Santa Filomena spirituelle Führung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.528005,
+                        -32.7815
+                  ]
+            },
+            {
+                  "name": "Vista Océano",
+                  "text": "Ein Panorama-Aussichtspunkt, der einen weiten, ununterbrochenen Blick über den Pazifischen Ozean bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.542212,
+                        -32.785797
+                  ]
+            },
+            {
+                  "name": "Puntilla Sanfuentes",
+                  "text": "Eine felsige Landzunge, die ins Meer ragt und einen Aussichtspunkt für weitreichende Küstenpanoramen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.541746,
+                        -32.783744
+                  ]
+            },
+            {
+                  "name": "Mirador El Estuche",
+                  "text": "Eine malerische Aussichtsplattform namens El Estuche, die die dramatische Küstenlandschaft überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.510289,
+                        -32.785856
+                  ]
+            },
+            {
+                  "name": "Mirador Gabriel",
+                  "text": "Ein erhöhter Aussichtspunkt an der Küste mit dem Namen Gabriel, der weitreichende Ausblicke auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.420966,
+                        -32.779017
+                  ]
+            },
+            {
+                  "name": "Humedal El Bato",
+                  "text": "Ein Naturbeobachtungspunkt zur Beobachtung der einheimischen Tier- und Pflanzenwelt der El-Bato-Sümpfe.",
+                  "category": "natural",
+                  "coords": [
+                        -71.498127,
+                        -32.780572
+                  ]
+            },
+            {
+                  "name": "Mirador Piloto Juan Fernández",
+                  "text": "Ein Aussichtspunkt an der Küste, der dem historischen Seefahrer und Entdecker Piloto Juan Fernández gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529154,
+                        -32.770121
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Bosque Las Petras",
+                  "text": "Ein geschütztes Naturschutzgebiet, das das einzigartige Reliktwaldökosystem von Las Petras umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -71.514474,
+                        -32.793421
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Los Juanes",
+                  "text": "Ein städtisches Feuchtgebiet, das seit Februar 2022 offiziell geschützt ist und einen wichtigen Lebensraum für einheimische Wasservögel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.524035,
+                        -32.815079
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano El Bato",
+                  "text": "Ein städtisches Naturschutzgebiet in einem Feuchtgebiet, das Anfang 2026 eingerichtet wurde, um das empfindliche lokale Sumpfökosystem zu erhalten.",
+                  "category": "natural",
+                  "coords": [
+                        -71.497111,
+                        -32.781082
+                  ]
+            },
+            {
+                  "name": "Playa Las Cañitas",
+                  "text": "Ein sandiger Küstenabschnitt, der lokal als Las Cañitas bekannt ist und Platz zur Entspannung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.537922,
+                        -32.784675
+                  ]
+            },
+            {
+                  "name": "Playa Los Bolones",
+                  "text": "Ein zerklüfteter Küstenabschnitt, der durch die großen, runden Felsen, die Los Bolones seinen Namen geben, gekennzeichnet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.530476,
+                        -32.769168
+                  ]
+            },
+            {
+                  "name": "Playa Loncura",
+                  "text": "Ein langer Sandstrand, der sich entlang der geschützten Bucht der Küstensiedlung Loncura erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.508292,
+                        -32.781701
+                  ]
+            },
+            {
+                  "name": "Playa Albatros",
+                  "text": "Ein malerischer Sandstrand namens Albatros, der einen ruhigen Ort zur Entspannung am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.52535,
+                        -32.782383
+                  ]
+            },
+            {
+                  "name": "Playa El Caleuche",
+                  "text": "Ein Sandstrand, der kreativ nach dem mythischen Geisterschiff der Chilote-Mythologie, El Caleuche, benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526707,
+                        -32.773593
+                  ]
+            },
+            {
+                  "name": "Playa Waikiki",
+                  "text": "Ein lokaler Sandstrand, der spielerisch nach dem berühmten hawaiianischen Strand von Waikiki benannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.52718,
+                        -32.774589
+                  ]
+            },
+            {
+                  "name": "Playa El Durazno",
+                  "text": "Ein malerischer Sandstrand, der als El Durazno bekannt ist und sich sanft an der Bucht von Quintero entlangzieht.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526883,
+                        -32.775711
+                  ]
+            },
+            {
+                  "name": "Playa Las Conchitas",
+                  "text": "Ein Sandstrand an der chilenischen Küste nahe dem Industriekomplex, der einen Rückzugsort am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.527306,
+                        -32.771336
+                  ]
+            },
+            {
+                  "name": "Playa La Tortuga",
+                  "text": "Ein Strandabschnitt nahe Quintero-Puchuncaví, der für seine malerische Küstenkulisse bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.534484,
+                        -32.778301
+                  ]
+            },
+            {
+                  "name": "Playa El Libro",
+                  "text": "Ein malerischer Küstenstrand bei Quintero, der sich ideal für Spaziergänge am Meer eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.537565,
+                        -32.775549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Corporación Municipal de Cultura y Turismo de Quintero",
+                  "text": "A Quintero egykori vasútállomásán helyet kapó művészeti központ a városi kultúrát és a turizmust népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.528546,
+                        -32.784385
+                  ]
+            },
+            {
+                  "name": "Casa Museo Downey",
+                  "text": "A Downey család történelmi hagyatékának és műtárgyainak megőrzésének szentelt emlékház.",
+                  "category": "museum",
+                  "coords": [
+                        -71.533007,
+                        -32.779051
+                  ]
+            },
+            {
+                  "name": "Casa Museo de Lord Cochrane",
+                  "text": "A tengeri hős, Lord Cochrane regionális történelmi befolyásának emléket állító múzeumház.",
+                  "category": "museum",
+                  "coords": [
+                        -71.442867,
+                        -32.806198
+                  ]
+            },
+            {
+                  "name": "Conchal Indígena de Tradición Bato y Cultura Aconcagua",
+                  "text": "Őslakos régészeti kagylóhalom, amely az ősi Bato és Aconcagua kultúrák leleteit tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        -71.512679,
+                        -32.79207
+                  ]
+            },
+            {
+                  "name": "Iglesia de Piedra",
+                  "text": "Látványos természetes kőemlékmű, amely jellegzetes sziklaképződményt alkot a tengerparti tájon.",
+                  "category": "historical",
+                  "coords": [
+                        -71.528542,
+                        -32.778879
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Valle Alegre",
+                  "text": "A Valle Alegre-i közösség spirituális igényeit kiszolgáló helyi istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        -71.441003,
+                        -32.805732
+                  ]
+            },
+            {
+                  "name": "Caleta Loncura",
+                  "text": "Tengerparti halászöböl és piac, amely a frissen fogott helyi tenger gyümölcseiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.507865,
+                        -32.782724
+                  ]
+            },
+            {
+                  "name": "Caleta de Quintero",
+                  "text": "Hagyományos halászöböl, amely a friss tengeri termékek nyüzsgő piacaként működik Quinteróban.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.527006,
+                        -32.782067
+                  ]
+            },
+            {
+                  "name": "Mural Reviviendo la Historia de Quintero",
+                  "text": "Színes utcai falfestmény, amely Quintero gazdag történelmi fejlődését illusztrálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.534176,
+                        -32.765868
+                  ]
+            },
+            {
+                  "name": "Capilla San Alberto Hurtado",
+                  "text": "Alberto Hurtado tisztelt chilei szentnek szentelt keresztény kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.504423,
+                        -32.787931
+                  ]
+            },
+            {
+                  "name": "CFC Filadelfia",
+                  "text": "Filadelfia néven egybegyűlő helyi keresztény gyülekezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.529272,
+                        -32.783433
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Gyülekezeti ház, amely az Utolsó Napi Szentek Jézus Krisztus Egyháza istentiszteleti helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.530006,
+                        -32.794361
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Filomena",
+                  "text": "Keresztény plébániatemplom, amely spirituális útmutatást nyújt Santa Filomena tisztelőinek.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.528005,
+                        -32.7815
+                  ]
+            },
+            {
+                  "name": "Vista Océano",
+                  "text": "Panorámás megfigyelőpont, amely kiterjedt, zavartalan kilátást nyújt a Csendes-óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.542212,
+                        -32.785797
+                  ]
+            },
+            {
+                  "name": "Puntilla Sanfuentes",
+                  "text": "A tengerbe nyúló sziklás hegyfok, amely kilátópontot biztosít a kiterjedt tengerparti panorámához.",
+                  "category": "natural",
+                  "coords": [
+                        -71.541746,
+                        -32.783744
+                  ]
+            },
+            {
+                  "name": "Mirador El Estuche",
+                  "text": "Az El Estuche nevű festői kilátóterasz, amely a drámai tengerparti tájra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.510289,
+                        -32.785856
+                  ]
+            },
+            {
+                  "name": "Mirador Gabriel",
+                  "text": "A Gabriel nevű magaslati tengerparti kilátó, amely kiterjedt kilátást nyújt a környező vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.420966,
+                        -32.779017
+                  ]
+            },
+            {
+                  "name": "Humedal El Bato",
+                  "text": "Természeti kilátópont, amelyet az El Bato-mocsárvidék őshonos vadvilágának és növényvilágának megfigyelésére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.498127,
+                        -32.780572
+                  ]
+            },
+            {
+                  "name": "Mirador Piloto Juan Fernández",
+                  "text": "A történelmi tengerésznek és felfedezőnek, Piloto Juan Fernándeznek szentelt tengerparti kilátó.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529154,
+                        -32.770121
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Bosque Las Petras",
+                  "text": "Védett természetvédelmi terület, amely a Las Petras egyedülálló reliktum erdei ökoszisztémáját foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        -71.514474,
+                        -32.793421
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Los Juanes",
+                  "text": "2022 februárja óta hivatalosan védett városi vizesélőhely, amely létfontosságú élőhelyet biztosít a helyi vízimadarak számára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.524035,
+                        -32.815079
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano El Bato",
+                  "text": "2026 elején létrehozott városi vizesélőhely-védelmi terület, melynek célja a kényes helyi mocsári ökoszisztéma megőrzése.",
+                  "category": "natural",
+                  "coords": [
+                        -71.497111,
+                        -32.781082
+                  ]
+            },
+            {
+                  "name": "Playa Las Cañitas",
+                  "text": "A helyiek által Las Cañitas néven ismert homokos tengerpart, amely teret kínál a tengerparti kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.537922,
+                        -32.784675
+                  ]
+            },
+            {
+                  "name": "Playa Los Bolones",
+                  "text": "Zord partvidék, amelyet a Los Bolones nevét adó nagy, lekerekített sziklák jellemeznek.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.530476,
+                        -32.769168
+                  ]
+            },
+            {
+                  "name": "Playa Loncura",
+                  "text": "Hosszú homokos strand, amely a loncurai tengerparti település védett öble mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.508292,
+                        -32.781701
+                  ]
+            },
+            {
+                  "name": "Playa Albatros",
+                  "text": "Az Albatros nevű festői homokos partszakasz, amely békés helyet kínál a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.52535,
+                        -32.782383
+                  ]
+            },
+            {
+                  "name": "Playa El Caleuche",
+                  "text": "A chiloéi mitológia mitikus szellemhajójáról, az El Caleuche-ről kreatívan elnevezett homokos tengerpart.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526707,
+                        -32.773593
+                  ]
+            },
+            {
+                  "name": "Playa Waikiki",
+                  "text": "Helyi homokos strand, amelyet játékosan a híres hawaii Waikiki partvidékéről neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.52718,
+                        -32.774589
+                  ]
+            },
+            {
+                  "name": "Playa El Durazno",
+                  "text": "El Durazno néven ismert festői homokos partszakasz, amely lágyan ível a quinterói öböl mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526883,
+                        -32.775711
+                  ]
+            },
+            {
+                  "name": "Playa Las Conchitas",
+                  "text": "Homokos tengerpart a chilei partvidéken, az ipari komplexum közelében, amely tengerparti menedéket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.527306,
+                        -32.771336
+                  ]
+            },
+            {
+                  "name": "Playa La Tortuga",
+                  "text": "A Quintero-Puchuncaví közelében található strand, amely festői tengerparti környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.534484,
+                        -32.778301
+                  ]
+            },
+            {
+                  "name": "Playa El Libro",
+                  "text": "Festői tengerparti strand Quintero közelében, amely ideális a tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.537565,
+                        -32.775549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Corporación Municipal de Cultura y Turismo de Quintero",
+                  "text": "Găzduit în fosta gară din Quintero, acest centru de artă promovează cultura și turismul municipal.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.528546,
+                        -32.784385
+                  ]
+            },
+            {
+                  "name": "Casa Museo Downey",
+                  "text": "O casă memorială dedicată păstrării moștenirii istorice și a artefactelor familiei Downey.",
+                  "category": "museum",
+                  "coords": [
+                        -71.533007,
+                        -32.779051
+                  ]
+            },
+            {
+                  "name": "Casa Museo de Lord Cochrane",
+                  "text": "O casă memorială care comemorează influența istorică regională a eroului naval Lord Cochrane.",
+                  "category": "museum",
+                  "coords": [
+                        -71.442867,
+                        -32.806198
+                  ]
+            },
+            {
+                  "name": "Conchal Indígena de Tradición Bato y Cultura Aconcagua",
+                  "text": "Un morman arheologic indigen de scoici care conține artefacte ale vechilor culturi Bato și Aconcagua.",
+                  "category": "historical",
+                  "coords": [
+                        -71.512679,
+                        -32.79207
+                  ]
+            },
+            {
+                  "name": "Iglesia de Piedra",
+                  "text": "Un monument natural impresionant din piatră, formând o structură stâncoasă distinctă de-a lungul peisajului de coastă.",
+                  "category": "historical",
+                  "coords": [
+                        -71.528542,
+                        -32.778879
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Valle Alegre",
+                  "text": "Un lăcaș de cult local care deservește nevoile spirituale ale comunității Valle Alegre.",
+                  "category": "religious",
+                  "coords": [
+                        -71.441003,
+                        -32.805732
+                  ]
+            },
+            {
+                  "name": "Caleta Loncura",
+                  "text": "Un golf de pescuit pe coastă și o piață recunoscută pentru fructele de mare locale proaspăt prinse.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.507865,
+                        -32.782724
+                  ]
+            },
+            {
+                  "name": "Caleta de Quintero",
+                  "text": "Un mic golf tradițional de pescuit care funcționează ca o piață plină de viață pentru produse marine proaspete în Quintero.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.527006,
+                        -32.782067
+                  ]
+            },
+            {
+                  "name": "Mural Reviviendo la Historia de Quintero",
+                  "text": "O pictură murală stradală colorată care ilustrează bogata evoluție istorică a orașului Quintero.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.534176,
+                        -32.765868
+                  ]
+            },
+            {
+                  "name": "Capilla San Alberto Hurtado",
+                  "text": "O capelă creștină dedicată veneratului sfânt chilian Alberto Hurtado.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.504423,
+                        -32.787931
+                  ]
+            },
+            {
+                  "name": "CFC Filadelfia",
+                  "text": "O congregație a bisericii creștine locale care se adună sub numele de Filadelfia.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.529272,
+                        -32.783433
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri care oferă un loc de închinare pentru Biserica lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.530006,
+                        -32.794361
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Filomena",
+                  "text": "O biserică parohială creștină care oferă îndrumare spirituală devotaților Sfintei Filomena.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.528005,
+                        -32.7815
+                  ]
+            },
+            {
+                  "name": "Vista Océano",
+                  "text": "Un punct de observație panoramic care oferă vederi extinse și neîntrerupte asupra Oceanului Pacific.",
+                  "category": "natural",
+                  "coords": [
+                        -71.542212,
+                        -32.785797
+                  ]
+            },
+            {
+                  "name": "Puntilla Sanfuentes",
+                  "text": "Un promontoriu stâncos care se proiectează în mare, oferind un punct de observație pentru panorame largi de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -71.541746,
+                        -32.783744
+                  ]
+            },
+            {
+                  "name": "Mirador El Estuche",
+                  "text": "O platformă de observație pitorească numită El Estuche, cu vedere la terenul dramatic de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -71.510289,
+                        -32.785856
+                  ]
+            },
+            {
+                  "name": "Mirador Gabriel",
+                  "text": "Un punct de belvedere ridicat pe coastă numit Gabriel, oferind priveliști extinse ale mediului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -71.420966,
+                        -32.779017
+                  ]
+            },
+            {
+                  "name": "Humedal El Bato",
+                  "text": "Un punct de observație a naturii dedicat observării faunei și florei native din mlaștinile El Bato.",
+                  "category": "natural",
+                  "coords": [
+                        -71.498127,
+                        -32.780572
+                  ]
+            },
+            {
+                  "name": "Mirador Piloto Juan Fernández",
+                  "text": "Un punct de belvedere pe coastă dedicat marinarului și exploratorului istoric Piloto Juan Fernández.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529154,
+                        -32.770121
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Bosque Las Petras",
+                  "text": "O rezervație naturală protejată care cuprinde ecosistemul unic de pădure relicvă din Las Petras.",
+                  "category": "natural",
+                  "coords": [
+                        -71.514474,
+                        -32.793421
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Los Juanes",
+                  "text": "O rezervație urbană de zone umede, protejată oficial din februarie 2022, care oferă un habitat vital pentru păsările acvatice locale.",
+                  "category": "natural",
+                  "coords": [
+                        -71.524035,
+                        -32.815079
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano El Bato",
+                  "text": "O rezervație naturală urbană de zone umede, înființată la începutul anului 2026 pentru a conserva ecosistemul local delicat de mlaștină.",
+                  "category": "natural",
+                  "coords": [
+                        -71.497111,
+                        -32.781082
+                  ]
+            },
+            {
+                  "name": "Playa Las Cañitas",
+                  "text": "O coastă nisipoasă cunoscută local ca Las Cañitas, oferind spațiu pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.537922,
+                        -32.784675
+                  ]
+            },
+            {
+                  "name": "Playa Los Bolones",
+                  "text": "O zonă de coastă accidentată caracterizată prin stâncile mari și rotunjite care dau numele Los Bolones.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.530476,
+                        -32.769168
+                  ]
+            },
+            {
+                  "name": "Playa Loncura",
+                  "text": "O plajă lungă cu nisip care se întinde de-a lungul golfului adăpostit al așezării de coastă Loncura.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.508292,
+                        -32.781701
+                  ]
+            },
+            {
+                  "name": "Playa Albatros",
+                  "text": "O întindere pitorească de nisip numită Albatros, oferind un loc liniștit pentru relaxare pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.52535,
+                        -32.782383
+                  ]
+            },
+            {
+                  "name": "Playa El Caleuche",
+                  "text": "O coastă de nisip numită creativ după nava fantomă mitică din mitologia Chilote, El Caleuche.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526707,
+                        -32.773593
+                  ]
+            },
+            {
+                  "name": "Playa Waikiki",
+                  "text": "O plajă locală cu nisip numită în glumă după faimoasa coastă hawaiană Waikiki.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.52718,
+                        -32.774589
+                  ]
+            },
+            {
+                  "name": "Playa El Durazno",
+                  "text": "O întindere pitorească de nisip, cunoscută sub numele de El Durazno, care se curbează ușor de-a lungul golfului Quintero.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526883,
+                        -32.775711
+                  ]
+            },
+            {
+                  "name": "Playa Las Conchitas",
+                  "text": "O plajă cu nisip pe coasta chiliană, lângă complexul industrial, oferind un refugiu la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.527306,
+                        -32.771336
+                  ]
+            },
+            {
+                  "name": "Playa La Tortuga",
+                  "text": "O întindere de plajă lângă Quintero-Puchuncaví, cunoscută pentru peisajul său pitoresc de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.534484,
+                        -32.778301
+                  ]
+            },
+            {
+                  "name": "Playa El Libro",
+                  "text": "O plajă de coastă pitorească lângă Quintero, populară pentru plimbările pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.537565,
+                        -32.775549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Corporación Municipal de Cultura y Turismo de Quintero",
+                  "text": "Housed in the former Quintero railway station, this arts centre promotes municipal culture and tourism.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.528546,
+                        -32.784385
+                  ]
+            },
+            {
+                  "name": "Casa Museo Downey",
+                  "text": "A house museum dedicated to preserving the historical legacy and artifacts of the Downey family.",
+                  "category": "museum",
+                  "coords": [
+                        -71.533007,
+                        -32.779051
+                  ]
+            },
+            {
+                  "name": "Casa Museo de Lord Cochrane",
+                  "text": "A house museum commemorating the regional historical influence of the naval hero Lord Cochrane.",
+                  "category": "museum",
+                  "coords": [
+                        -71.442867,
+                        -32.806198
+                  ]
+            },
+            {
+                  "name": "Conchal Indígena de Tradición Bato y Cultura Aconcagua",
+                  "text": "An indigenous archaeological shell midden containing artifacts from the ancient Bato and Aconcagua cultures.",
+                  "category": "historical",
+                  "coords": [
+                        -71.512679,
+                        -32.79207
+                  ]
+            },
+            {
+                  "name": "Iglesia de Piedra",
+                  "text": "A striking natural stone monument forming a distinctive rock structure along the coastal landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -71.528542,
+                        -32.778879
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Valle Alegre",
+                  "text": "A local place of worship serving the spiritual needs of the Valle Alegre community.",
+                  "category": "religious",
+                  "coords": [
+                        -71.441003,
+                        -32.805732
+                  ]
+            },
+            {
+                  "name": "Caleta Loncura",
+                  "text": "A coastal fishing cove and marketplace known for offering freshly caught local seafood.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.507865,
+                        -32.782724
+                  ]
+            },
+            {
+                  "name": "Caleta de Quintero",
+                  "text": "A traditional fishing cove functioning as a bustling marketplace for fresh marine produce in Quintero.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.527006,
+                        -32.782067
+                  ]
+            },
+            {
+                  "name": "Mural Reviviendo la Historia de Quintero",
+                  "text": "A colorful street mural illustrating the rich historical evolution of Quintero.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.534176,
+                        -32.765868
+                  ]
+            },
+            {
+                  "name": "Capilla San Alberto Hurtado",
+                  "text": "A Christian chapel dedicated to the revered Chilean saint, Alberto Hurtado.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.504423,
+                        -32.787931
+                  ]
+            },
+            {
+                  "name": "CFC Filadelfia",
+                  "text": "A local Christian church congregation gathering under the name of Filadelfia.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.529272,
+                        -32.783433
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A meetinghouse providing a place of worship for the Church of Jesus Christ of Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.530006,
+                        -32.794361
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Filomena",
+                  "text": "A Christian parish church providing spiritual guidance and devotion to Santa Filomena.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.528005,
+                        -32.7815
+                  ]
+            },
+            {
+                  "name": "Vista Océano",
+                  "text": "A panoramic observation point offering expansive, uninterrupted views over the Pacific Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -71.542212,
+                        -32.785797
+                  ]
+            },
+            {
+                  "name": "Puntilla Sanfuentes",
+                  "text": "A rocky headland projecting into the sea, providing a vantage point for sweeping coastal panoramas.",
+                  "category": "natural",
+                  "coords": [
+                        -71.541746,
+                        -32.783744
+                  ]
+            },
+            {
+                  "name": "Mirador El Estuche",
+                  "text": "A scenic observation deck named El Estuche, overlooking the dramatic coastal terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -71.510289,
+                        -32.785856
+                  ]
+            },
+            {
+                  "name": "Mirador Gabriel",
+                  "text": "An elevated coastal viewpoint named Gabriel, providing expansive sights of the surrounding environment.",
+                  "category": "natural",
+                  "coords": [
+                        -71.420966,
+                        -32.779017
+                  ]
+            },
+            {
+                  "name": "Humedal El Bato",
+                  "text": "A nature viewpoint dedicated to observing the native wildlife and flora of the El Bato marshlands.",
+                  "category": "natural",
+                  "coords": [
+                        -71.498127,
+                        -32.780572
+                  ]
+            },
+            {
+                  "name": "Mirador Piloto Juan Fernández",
+                  "text": "A coastal lookout dedicated to the historical mariner and explorer, Piloto Juan Fernández.",
+                  "category": "natural",
+                  "coords": [
+                        -71.529154,
+                        -32.770121
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Bosque Las Petras",
+                  "text": "A protected nature reserve encompassing the unique relic forest ecosystem of Las Petras.",
+                  "category": "natural",
+                  "coords": [
+                        -71.514474,
+                        -32.793421
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Los Juanes",
+                  "text": "An urban wetland reserve, officially protected since February 2022, providing a vital habitat for local aquatic birds.",
+                  "category": "natural",
+                  "coords": [
+                        -71.524035,
+                        -32.815079
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano El Bato",
+                  "text": "An urban wetland nature reserve established in early 2026 to conserve the delicate local marsh ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -71.497111,
+                        -32.781082
+                  ]
+            },
+            {
+                  "name": "Playa Las Cañitas",
+                  "text": "A sandy coastal shoreline known locally as Las Cañitas, offering space for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.537922,
+                        -32.784675
+                  ]
+            },
+            {
+                  "name": "Playa Los Bolones",
+                  "text": "A rugged shoreline characterized by the large, rounded rocks that give Los Bolones its name.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.530476,
+                        -32.769168
+                  ]
+            },
+            {
+                  "name": "Playa Loncura",
+                  "text": "A long sandy beach stretching along the sheltered bay of the Loncura coastal settlement.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.508292,
+                        -32.781701
+                  ]
+            },
+            {
+                  "name": "Playa Albatros",
+                  "text": "A scenic stretch of sand named Albatros, offering a peaceful place for seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.52535,
+                        -32.782383
+                  ]
+            },
+            {
+                  "name": "Playa El Caleuche",
+                  "text": "A sandy shoreline creatively named after the mythical ghost ship of Chilote mythology, El Caleuche.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526707,
+                        -32.773593
+                  ]
+            },
+            {
+                  "name": "Playa Waikiki",
+                  "text": "A local sandy beach playfully named after the famous Hawaiian shoreline of Waikiki.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.52718,
+                        -32.774589
+                  ]
+            },
+            {
+                  "name": "Playa El Durazno",
+                  "text": "A picturesque sandy stretch known as El Durazno, curving gently along the Quintero bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526883,
+                        -32.775711
+                  ]
+            },
+            {
+                  "name": "Playa Las Conchitas",
+                  "text": "A sandy beach on the Chilean coast near the industrial complex, offering a coastal retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.527306,
+                        -32.771336
+                  ]
+            },
+            {
+                  "name": "Playa La Tortuga",
+                  "text": "A coastal beach stretch near Quintero-Puchuncaví, known for its scenic shoreline setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.534484,
+                        -32.778301
+                  ]
+            },
+            {
+                  "name": "Playa El Libro",
+                  "text": "A scenic coastal beach area near Quintero, popular for seaside strolls.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.537565,
+                        -32.775549
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-VS",
     coords: [-71.4833, -32.7667],
@@ -1599,7 +16125,736 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Zone côtière fortement industrialisée.", "Important pour l'énergie et la fonderie de cuivre."],
     }, image: "/poi-images/complejo-quintero-puchuncavi-economic-v2.webp"},
   {
-    id: "siderurgica-huachipato-economic-v2",
+    id: "siderurgica-huachipato-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Teta Sur",
+                  "text": "Ein markanter Berggipfel, der die lokale Topografie prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.192732,
+                        -36.77318
+                  ]
+            },
+            {
+                  "name": "Mirador Las Tacas",
+                  "text": "Ein Aussichtspunkt, der weite Blicke über die Küstenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.191879,
+                        -36.785239
+                  ]
+            },
+            {
+                  "name": "Cerro Teltrén",
+                  "text": "Ein bekannter Berggipfel in der hügeligen Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -73.179632,
+                        -36.786914
+                  ]
+            },
+            {
+                  "name": "Cerro del Conejo",
+                  "text": "Ein charakteristischer, als \"Kaninchenhügel\" bekannter Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -73.1665,
+                        -36.782345
+                  ]
+            },
+            {
+                  "name": "Estación 2 - Mirador 2 aves acuáticas",
+                  "text": "Eine Beobachtungsplattform, die speziell für die Beobachtung von Wasservögeln eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -73.157498,
+                        -36.767513
+                  ]
+            },
+            {
+                  "name": "Mirador 3 - Plataforma",
+                  "text": "Eine erhöhte Plattform, die einen Panoramablick auf die natürliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.164906,
+                        -36.767767
+                  ]
+            },
+            {
+                  "name": "Sendero Ramuntcho",
+                  "text": "Ein Wanderweg, der durch die Küstenlandschaft zu den nahegelegenen Stränden führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.175722,
+                        -36.763947
+                  ]
+            },
+            {
+                  "name": "Cerro Teta Norte",
+                  "text": "Ein nördlicher Berggipfel, der Teil der lokalen Hügelkette ist.",
+                  "category": "natural",
+                  "coords": [
+                        -73.182467,
+                        -36.764732
+                  ]
+            },
+            {
+                  "name": "Faro Punta Hualpén",
+                  "text": "Ein Leuchtturm an der Spitze der Hualpén-Halbinsel, der als Navigationshilfe dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.191368,
+                        -36.747085
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Península de Hualpén",
+                  "text": "Ein 1976 gegründetes Naturschutzgebiet, das die Artenvielfalt der Halbinsel bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.172483,
+                        -36.780407
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Denavi Sur",
+                  "text": "Ein im August 2025 ausgewiesenes städtisches Feuchtgebiet zum Schutz der lokalen Ökosysteme.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102453,
+                        -36.760874
+                  ]
+            },
+            {
+                  "name": "Playa Los Cuervos",
+                  "text": "Ein natürlicher Sandstrand an der rauen Küstenlinie.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.177119,
+                        -36.756439
+                  ]
+            },
+            {
+                  "name": "Playa Los Burros",
+                  "text": "Ein abgelegener Küstenabschnitt, der Zugang zum Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.192871,
+                        -36.781398
+                  ]
+            },
+            {
+                  "name": "Ramuntcho",
+                  "text": "Ein malerischer Strand auf der Hualpén-Halbinsel, bekannt für seine unberührte Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.185208,
+                        -36.752472
+                  ]
+            },
+            {
+                  "name": "Playa Lenga",
+                  "text": "Ein beliebter Sandstrand, der oft für seine lokalen Meeresfrüchte-Angebote besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.162861,
+                        -36.765658
+                  ]
+            },
+            {
+                  "name": "Playa Los Tingazos",
+                  "text": "Ein naturbelassener Küstenstrand, der den Wellen des Pazifiks ausgesetzt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.180712,
+                        -36.753314
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal Talcahuano",
+                  "text": "Ein pfingstkirchliches Gotteshaus für die evangelische Gemeinde in Talcahuano.",
+                  "category": "religious",
+                  "coords": [
+                        -73.097096,
+                        -36.744709
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pablo",
+                  "text": "Eine dem Heiligen Paulus geweihte christliche Pfarrkirche.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.094979,
+                        -36.760131
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein lokales Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.09223,
+                        -36.7508
+                  ]
+            },
+            {
+                  "name": "Corpus Christi",
+                  "text": "Eine christliche Kirche, die das Patrozinium Fronleichnam (Corpus Christi) trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.103275,
+                        -36.74378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Teta Sur",
+                  "text": "A helyi topográfiát meghatározó, kiemelkedő hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -73.192732,
+                        -36.77318
+                  ]
+            },
+            {
+                  "name": "Mirador Las Tacas",
+                  "text": "Egy kilátó, amely panorámás kilátást nyújt a tengerparti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.191879,
+                        -36.785239
+                  ]
+            },
+            {
+                  "name": "Cerro Teltrén",
+                  "text": "Egy ismert hegycsúcs a dombos vidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -73.179632,
+                        -36.786914
+                  ]
+            },
+            {
+                  "name": "Cerro del Conejo",
+                  "text": "Egy jellegzetes, \"Nyúl-hegy\" néven ismert hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -73.1665,
+                        -36.782345
+                  ]
+            },
+            {
+                  "name": "Estación 2 - Mirador 2 aves acuáticas",
+                  "text": "Kifejezetten a vízimadarak megfigyelésére kialakított kilátóterasz.",
+                  "category": "natural",
+                  "coords": [
+                        -73.157498,
+                        -36.767513
+                  ]
+            },
+            {
+                  "name": "Mirador 3 - Plataforma",
+                  "text": "Egy megemelt platform, amely panorámás kilátást nyújt a természeti környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -73.164906,
+                        -36.767767
+                  ]
+            },
+            {
+                  "name": "Sendero Ramuntcho",
+                  "text": "A part menti tájon át a közeli strandokhoz vezető túraútvonal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.175722,
+                        -36.763947
+                  ]
+            },
+            {
+                  "name": "Cerro Teta Norte",
+                  "text": "Egy északi hegycsúcs, amely a helyi dombvidék része.",
+                  "category": "natural",
+                  "coords": [
+                        -73.182467,
+                        -36.764732
+                  ]
+            },
+            {
+                  "name": "Faro Punta Hualpén",
+                  "text": "A Hualpén-félsziget csúcsán található, navigációs célokat szolgáló világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.191368,
+                        -36.747085
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Península de Hualpén",
+                  "text": "Egy 1976-ban alapított természetvédelmi terület, amely a félsziget biodiverzitását védi.",
+                  "category": "natural",
+                  "coords": [
+                        -73.172483,
+                        -36.780407
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Denavi Sur",
+                  "text": "Egy 2025 augusztusában kijelölt városi vizes élőhely a helyi ökoszisztémák védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102453,
+                        -36.760874
+                  ]
+            },
+            {
+                  "name": "Playa Los Cuervos",
+                  "text": "Természetes homokos strand a zord partvonal mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.177119,
+                        -36.756439
+                  ]
+            },
+            {
+                  "name": "Playa Los Burros",
+                  "text": "Egy eldugott partszakasz, amely közvetlen hozzáférést biztosít az óceánhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.192871,
+                        -36.781398
+                  ]
+            },
+            {
+                  "name": "Ramuntcho",
+                  "text": "Egy festői strand a Hualpén-félszigeten, amely érintetlen természetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.185208,
+                        -36.752472
+                  ]
+            },
+            {
+                  "name": "Playa Lenga",
+                  "text": "Népszerű homokos tengerpart, amelyet gyakran látogatnak a helyi tenger gyümölcsei miatt.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.162861,
+                        -36.765658
+                  ]
+            },
+            {
+                  "name": "Playa Los Tingazos",
+                  "text": "Egy természetes tengerparti strand, amely ki van téve a Csendes-óceán hullámainak.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.180712,
+                        -36.753314
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal Talcahuano",
+                  "text": "A talcahuanói evangéliumi közösség pünkösdi istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        -73.097096,
+                        -36.744709
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pablo",
+                  "text": "Szent Pálnak szentelt keresztény plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.094979,
+                        -36.760131
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának helyi gyülekezeti háza.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.09223,
+                        -36.7508
+                  ]
+            },
+            {
+                  "name": "Corpus Christi",
+                  "text": "Egy keresztény templom, amely az Úrnapja (Corpus Christi) tiszteletére épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.103275,
+                        -36.74378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Teta Sur",
+                  "text": "Un vârf montan proeminent care definește topografia locală.",
+                  "category": "natural",
+                  "coords": [
+                        -73.192732,
+                        -36.77318
+                  ]
+            },
+            {
+                  "name": "Mirador Las Tacas",
+                  "text": "Un punct de belvedere care oferă vederi ample asupra peisajului de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -73.191879,
+                        -36.785239
+                  ]
+            },
+            {
+                  "name": "Cerro Teltrén",
+                  "text": "Un vârf montan recunoscut în peisajul deluros.",
+                  "category": "natural",
+                  "coords": [
+                        -73.179632,
+                        -36.786914
+                  ]
+            },
+            {
+                  "name": "Cerro del Conejo",
+                  "text": "Un vârf montan caracteristic, cunoscut sub numele de „Dealul Iepurelui”.",
+                  "category": "natural",
+                  "coords": [
+                        -73.1665,
+                        -36.782345
+                  ]
+            },
+            {
+                  "name": "Estación 2 - Mirador 2 aves acuáticas",
+                  "text": "O platformă de observare special amenajată pentru privitul păsărilor acvatice.",
+                  "category": "natural",
+                  "coords": [
+                        -73.157498,
+                        -36.767513
+                  ]
+            },
+            {
+                  "name": "Mirador 3 - Plataforma",
+                  "text": "O platformă înălțată care oferă o vedere panoramică asupra mediului natural.",
+                  "category": "natural",
+                  "coords": [
+                        -73.164906,
+                        -36.767767
+                  ]
+            },
+            {
+                  "name": "Sendero Ramuntcho",
+                  "text": "Un traseu de drumeție care traversează peisajul de coastă spre plajele din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.175722,
+                        -36.763947
+                  ]
+            },
+            {
+                  "name": "Cerro Teta Norte",
+                  "text": "Un vârf montan nordic care face parte din lanțul de dealuri local.",
+                  "category": "natural",
+                  "coords": [
+                        -73.182467,
+                        -36.764732
+                  ]
+            },
+            {
+                  "name": "Faro Punta Hualpén",
+                  "text": "Un far maritim situat în vârful peninsulei Hualpén, cu rol de navigație.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.191368,
+                        -36.747085
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Península de Hualpén",
+                  "text": "O rezervație naturală înființată în 1976, care protejează biodiversitatea peninsulei.",
+                  "category": "natural",
+                  "coords": [
+                        -73.172483,
+                        -36.780407
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Denavi Sur",
+                  "text": "O zonă umedă urbană desemnată în august 2025 pentru protejarea ecosistemelor locale.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102453,
+                        -36.760874
+                  ]
+            },
+            {
+                  "name": "Playa Los Cuervos",
+                  "text": "O plajă naturală de nisip situată de-a lungul coastei stâncoase.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.177119,
+                        -36.756439
+                  ]
+            },
+            {
+                  "name": "Playa Los Burros",
+                  "text": "O porțiune izolată de coastă care oferă acces la ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.192871,
+                        -36.781398
+                  ]
+            },
+            {
+                  "name": "Ramuntcho",
+                  "text": "O plajă pitorească pe peninsula Hualpén, cunoscută pentru natura sa curată.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.185208,
+                        -36.752472
+                  ]
+            },
+            {
+                  "name": "Playa Lenga",
+                  "text": "O plajă de nisip populară, vizitată adesea pentru ofertele locale de fructe de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.162861,
+                        -36.765658
+                  ]
+            },
+            {
+                  "name": "Playa Los Tingazos",
+                  "text": "O plajă de coastă naturală expusă valurilor Oceanului Pacific.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.180712,
+                        -36.753314
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal Talcahuano",
+                  "text": "Un lăcaș de cult penticostal pentru comunitatea evanghelică din Talcahuano.",
+                  "category": "religious",
+                  "coords": [
+                        -73.097096,
+                        -36.744709
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pablo",
+                  "text": "O biserică parohială creștină închinată Sfântului Pavel.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.094979,
+                        -36.760131
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de adunare locală a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.09223,
+                        -36.7508
+                  ]
+            },
+            {
+                  "name": "Corpus Christi",
+                  "text": "O biserică creștină dedicată sărbătorii Corpus Christi.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.103275,
+                        -36.74378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Teta Sur",
+                  "text": "A prominent mountain peak shaping the local topography.",
+                  "category": "natural",
+                  "coords": [
+                        -73.192732,
+                        -36.77318
+                  ]
+            },
+            {
+                  "name": "Mirador Las Tacas",
+                  "text": "A viewpoint offering expansive views over the coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -73.191879,
+                        -36.785239
+                  ]
+            },
+            {
+                  "name": "Cerro Teltrén",
+                  "text": "A recognized mountain peak in the hilly surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -73.179632,
+                        -36.786914
+                  ]
+            },
+            {
+                  "name": "Cerro del Conejo",
+                  "text": "A characteristic mountain peak known locally as \"Rabbit Hill\".",
+                  "category": "natural",
+                  "coords": [
+                        -73.1665,
+                        -36.782345
+                  ]
+            },
+            {
+                  "name": "Estación 2 - Mirador 2 aves acuáticas",
+                  "text": "An observation platform specially designed for birdwatching waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        -73.157498,
+                        -36.767513
+                  ]
+            },
+            {
+                  "name": "Mirador 3 - Plataforma",
+                  "text": "An elevated platform offering a panoramic view of the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -73.164906,
+                        -36.767767
+                  ]
+            },
+            {
+                  "name": "Sendero Ramuntcho",
+                  "text": "A hiking trail leading through the coastal landscape towards the nearby beaches.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.175722,
+                        -36.763947
+                  ]
+            },
+            {
+                  "name": "Cerro Teta Norte",
+                  "text": "A northern mountain peak that forms part of the local hill range.",
+                  "category": "natural",
+                  "coords": [
+                        -73.182467,
+                        -36.764732
+                  ]
+            },
+            {
+                  "name": "Faro Punta Hualpén",
+                  "text": "A navigational lighthouse situated at the tip of the Hualpén Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.191368,
+                        -36.747085
+                  ]
+            },
+            {
+                  "name": "Peninsula de Hualpen Nature Sanctuary",
+                  "text": "A nature reserve established in 1976 to protect the biodiversity of the peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -73.172483,
+                        -36.780407
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Denavi Sur",
+                  "text": "An urban wetland reserve designated in August 2025 to protect local ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102453,
+                        -36.760874
+                  ]
+            },
+            {
+                  "name": "Playa Los Cuervos",
+                  "text": "A natural sandy beach set along the rugged coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.177119,
+                        -36.756439
+                  ]
+            },
+            {
+                  "name": "Playa Los Burros",
+                  "text": "A secluded stretch of coastline offering access to the ocean waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.192871,
+                        -36.781398
+                  ]
+            },
+            {
+                  "name": "Ramuntcho",
+                  "text": "A picturesque beach on the Hualpén Peninsula, known for its pristine natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.185208,
+                        -36.752472
+                  ]
+            },
+            {
+                  "name": "Playa Lenga",
+                  "text": "A popular sandy beach frequently visited for its local seafood offerings.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.162861,
+                        -36.765658
+                  ]
+            },
+            {
+                  "name": "Playa Los Tingazos",
+                  "text": "A natural coastal beach exposed to the waves of the Pacific Ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.180712,
+                        -36.753314
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal Talcahuano",
+                  "text": "A Pentecostal place of worship serving the Evangelical congregation in Talcahuano.",
+                  "category": "religious",
+                  "coords": [
+                        -73.097096,
+                        -36.744709
+                  ]
+            },
+            {
+                  "name": "Parroquia San Pablo",
+                  "text": "A Christian parish church dedicated to Saint Paul.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.094979,
+                        -36.760131
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-Day Saints",
+                  "text": "A local meetinghouse for The Church of Jesus Christ of Latter-Day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.09223,
+                        -36.7508
+                  ]
+            },
+            {
+                  "name": "Corpus Christi",
+                  "text": "A Christian church dedicated to the feast of Corpus Christi.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.103275,
+                        -36.74378
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-BI",
     coords: [-73.1361, -36.7583],
@@ -1659,7 +16914,844 @@ export const poiExtraChileEconomicV2: POI[] = [
     }
   },
   {
-    id: "asmar-talcahuano-economic-v2",
+    id: "asmar-talcahuano-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Costanera de Talcahuano",
+                  "text": "Diese malerische Uferpromenade in Talcahuano bietet weite Aussichtspunkte über den geschäftigen Hafen und den Pazifischen Ozean.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10763,
+                        -36.719545
+                  ]
+            },
+            {
+                  "name": "Espigón de Abrigo Rocuant",
+                  "text": "Ein massives Wellenbrecher-Bauwerk in Talcahuano, das als hervorragender Aussichtspunkt dient, um Schiffe beim Navigieren in der Bucht zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098226,
+                        -36.726164
+                  ]
+            },
+            {
+                  "name": "Cápsula Fénix 2",
+                  "text": "Diese bemerkenswerte Attraktion in Talcahuano zeigt die originale Fénix 2-Rettungskapsel, die während der berühmten chilenischen Grubenrettung 2010 eingesetzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.112791,
+                        -36.705214
+                  ]
+            },
+            {
+                  "name": "Puerta de Los Leones",
+                  "text": "Ein ikonischer Eingangston in Talcahuano, der oft als historisches Wahrzeichen in der Nähe des Marinestützpunkts anerkannt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.114045,
+                        -36.706534
+                  ]
+            },
+            {
+                  "name": "Mirador Talcahuano",
+                  "text": "Ein erhöhter Aussichtspunkt, der Besuchern ein Panoramablick auf die Stadtlandschaft von Talcahuano und ihre natürliche Bucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.122484,
+                        -36.706251
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Dieser Aussichtspunkt an der Küste in Talcahuano bietet einen malerischen Blick auf die Sandstrände und die brechenden Meereswellen.",
+                  "category": "natural",
+                  "coords": [
+                        -73.136526,
+                        -36.688334
+                  ]
+            },
+            {
+                  "name": "Playa María Isabel",
+                  "text": "Ein Sandstrand an der Küste von Talcahuano, der wegen seiner entspannten Atmosphäre und der Meeresbrise häufig besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.10818,
+                        -36.718263
+                  ]
+            },
+            {
+                  "name": "Teatro Dante",
+                  "text": "Ein etabliertes Theater in Talcahuano, das als kultureller Veranstaltungsort für lokale darstellende Künste und Gemeinschaftsveranstaltungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.11396,
+                        -36.713827
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Recamo-Redacamo",
+                  "text": "Diese ökologische Zone in Talcahuano wurde 2024 als städtisches Feuchtgebietsreservat ausgewiesen und schützt die wichtige lokale Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10742,
+                        -36.729859
+                  ]
+            },
+            {
+                  "name": "Coliseo La Tortuga",
+                  "text": "Diese riesige Sport- und Unterhaltungsarena in Talcahuano ist an ihrem markanten schildkrötenpanzerförmigen Dach zu erkennen.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108804,
+                        -36.720155
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Rocuant-Andalién",
+                  "text": "Dieses städtische Feuchtgebiets-Naturschutzgebiet in Talcahuano in der Nähe der Isla Rocuant wurde 2026 zum Schutz der Lebensräume von Küstenvögeln gegründet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.059707,
+                        -36.744859
+                  ]
+            },
+            {
+                  "name": "Monitor Huáscar",
+                  "text": "Dieses 1865 erbaute historische Panzerschiff ist heute als schwimmendes Museum im Hafen von Talcahuano erhalten.",
+                  "category": "museum",
+                  "coords": [
+                        -73.111572,
+                        -36.705418
+                  ]
+            },
+            {
+                  "name": "Playa El Soldado",
+                  "text": "Ein ruhiger Küstenstrand in Talcahuano, der von der lokalen Geografie umrahmt ist und einen Blick über das Wasser des Pazifiks bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.141363,
+                        -36.696645
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ein lokales Gotteshaus, das einen ruhigen Raum für spirituelle Kontemplation in der Gemeinde Talcahuano bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -73.124058,
+                        -36.715025
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa María",
+                  "text": "Diese der Heiligen Maria geweihte christliche Kirche in Talcahuano veranstaltet regelmäßige Gottesdienste in einem traditionellen architektonischen Rahmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.100004,
+                        -36.73886
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Clara",
+                  "text": "Eine bescheidene christliche Kapelle in Talcahuano, die ein ruhiges Heiligtum für tägliche Gebete und nachbarschaftliche Zusammenkünfte bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.096571,
+                        -36.738517
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Cristo es el camino",
+                  "text": "Diese aktive Pfingstkirche in Talcahuano versammelt die lokale christliche Gemeinde zu lebhaften, glaubensbasierten Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.094964,
+                        -36.642533
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Pentecostal",
+                  "text": "Diese christliche Stätte ist ein Mittelpunkt des pfingstlichen Glaubens in Talcahuano und bietet einen Ort für evangelische Lehre und Gebete.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.118027,
+                        -36.71482
+                  ]
+            },
+            {
+                  "name": "Comunidad Jesús de Nazaret",
+                  "text": "Ein einladender christlicher Gemeinschaftsraum in Talcahuano, der den Lehren von Jesus von Nazareth und der regelmäßigen Gemeinschaft gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.120821,
+                        -36.708183
+                  ]
+            },
+            {
+                  "name": "Capilla Isla Quiriquina",
+                  "text": "Diese historische christliche Kapelle auf der Insel Quiriquina bei Talcahuano dient seit langem der isolierten Inselgemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.062403,
+                        -36.637684
+                  ]
+            },
+            {
+                  "name": "Mercado Talcahuano",
+                  "text": "Ein lebhafter überdachter Markt in Talcahuano, auf dem Händler eine große Auswahl an frischen Produkten und regionalen Waren anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.114557,
+                        -36.712067
+                  ]
+            },
+            {
+                  "name": "La Fama",
+                  "text": "Dieser bei Einheimischen bekannte, lebhafte Markt in Talcahuano bietet Stände voller Dinge des täglichen Bedarfs und Spezialitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.116108,
+                        -36.713228
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescados y Mariscos de Talcahuano",
+                  "text": "Dieser für seine täglich frischen Fänge hochgeschätzte Markt für Meeresfrüchte in Talcahuano ist ein pulsierendes Zentrum der maritimen Kultur der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.113962,
+                        -36.710269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Costanera de Talcahuano",
+                  "text": "Ez a festői tengerparti sétány Talcahuanóban lenyűgöző kilátást nyújt a nyüzsgő kikötőre és a Csendes-óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10763,
+                        -36.719545
+                  ]
+            },
+            {
+                  "name": "Espigón de Abrigo Rocuant",
+                  "text": "Egy hatalmas hullámtörő szerkezet Talcahuanóban, amely kiváló kilátóként szolgál az öbölben navigáló hajók megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098226,
+                        -36.726164
+                  ]
+            },
+            {
+                  "name": "Cápsula Fénix 2",
+                  "text": "Ez a figyelemre méltó látványosság Talcahuanóban a híres 2010-es chilei bányászmentés során használt eredeti Fénix 2 mentőkapszulát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.112791,
+                        -36.705214
+                  ]
+            },
+            {
+                  "name": "Puerta de Los Leones",
+                  "text": "Egy ikonikus kapu Talcahuanóban, amelyet gyakran történelmi nevezetességként tartanak számon a haditengerészeti bázis közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.114045,
+                        -36.706534
+                  ]
+            },
+            {
+                  "name": "Mirador Talcahuano",
+                  "text": "Egy megemelt kilátó, amely panorámás kilátást nyújt Talcahuano városi tájára és természetes öblére.",
+                  "category": "natural",
+                  "coords": [
+                        -73.122484,
+                        -36.706251
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Ez a tengerparti kilátó Talcahuanóban festői kilátást nyújt a homokos partokra és a lezúduló óceáni hullámokra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.136526,
+                        -36.688334
+                  ]
+            },
+            {
+                  "name": "Playa María Isabel",
+                  "text": "A Talcahuano partvonala mentén húzódó homokos szakasz, amelyet gyakran látogatnak pihentető légköre és tengeri szellője miatt.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.10818,
+                        -36.718263
+                  ]
+            },
+            {
+                  "name": "Teatro Dante",
+                  "text": "Egy bejáratott színház Talcahuanóban, amely kulturális helyszínként szolgál a helyi előadó-művészetek és közösségi események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.11396,
+                        -36.713827
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Recamo-Redacamo",
+                  "text": "A 2024-ben városi vizes élőhely rezervátummá nyilvánított ökológiai övezet Talcahuanóban a létfontosságú helyi biológiai sokféleséget védi.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10742,
+                        -36.729859
+                  ]
+            },
+            {
+                  "name": "Coliseo La Tortuga",
+                  "text": "Ez a hatalmas sport- és szórakoztató aréna Talcahuanóban jellegzetes teknőspáncél alakú tetejéről ismerhető fel.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108804,
+                        -36.720155
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Rocuant-Andalién",
+                  "text": "Az Isla Rocuant közelében található, 2026-ban létrehozott városi vizes élőhely természetvédelmi terület a parti madarak élőhelyeinek megőrzését szolgálja Talcahuanóban.",
+                  "category": "natural",
+                  "coords": [
+                        -73.059707,
+                        -36.744859
+                  ]
+            },
+            {
+                  "name": "Monitor Huáscar",
+                  "text": "Az eredetileg 1865-ben épült történelmi páncélos hadihajót ma úszó múzeumként őrzik Talcahuano kikötőjében.",
+                  "category": "museum",
+                  "coords": [
+                        -73.111572,
+                        -36.705418
+                  ]
+            },
+            {
+                  "name": "Playa El Soldado",
+                  "text": "Egy csendes tengerparti strand Talcahuanóban, amelyet a helyi földrajz keretez, és kilátást nyújt a Csendes-óceán vizeire.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.141363,
+                        -36.696645
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egy helyi istentiszteleti hely, amely csendes teret biztosít a spirituális elmélkedéshez Talcahuano közösségében.",
+                  "category": "religious",
+                  "coords": [
+                        -73.124058,
+                        -36.715025
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa María",
+                  "text": "A Szűz Máriának szentelt keresztény templom Talcahuanóban rendszeres gyülekezeti istentiszteleteknek ad otthont egy hagyományos építészeti környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.100004,
+                        -36.73886
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Clara",
+                  "text": "Egy szerény keresztény kápolna Talcahuanóban, amely csendes menedéket kínál a napi imákhoz és a szomszédsági összejövetelekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.096571,
+                        -36.738517
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Cristo es el camino",
+                  "text": "Ez az aktív pünkösdi gyülekezet Talcahuanóban élénk, hiten alapuló istentiszteletekre gyűjti össze a helyi keresztény közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.094964,
+                        -36.642533
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Pentecostal",
+                  "text": "A pünkösdi hit központjaként ez a talcahuano-i keresztény helyszín teret biztosít az evangéliumi tanításnak és imádkozásnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.118027,
+                        -36.71482
+                  ]
+            },
+            {
+                  "name": "Comunidad Jesús de Nazaret",
+                  "text": "Egy barátságos keresztény közösségi tér Talcahuanóban, amely a Názáreti Jézus tanításainak és a rendszeres közösségi életnek van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.120821,
+                        -36.708183
+                  ]
+            },
+            {
+                  "name": "Capilla Isla Quiriquina",
+                  "text": "A Talcahuano melletti Quiriquina-szigeten található történelmi keresztény kápolna régóta szolgálja az elszigetelt szigetközösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.062403,
+                        -36.637684
+                  ]
+            },
+            {
+                  "name": "Mercado Talcahuano",
+                  "text": "Egy nyüzsgő fedett piac Talcahuanóban, ahol az árusok friss termékek és regionális áruk széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.114557,
+                        -36.712067
+                  ]
+            },
+            {
+                  "name": "La Fama",
+                  "text": "A helyiek körében ismert, nyüzsgő piac Talcahuanóban a mindennapi szükségletekkel és különlegességekkel teli standokkal várja a vásárlókat.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.116108,
+                        -36.713228
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescados y Mariscos de Talcahuano",
+                  "text": "A napi friss fogásairól nagyra becsült tenger gyümölcsei piac Talcahuanóban a város tengeri kultúrájának nyüzsgő központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.113962,
+                        -36.710269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Costanera de Talcahuano",
+                  "text": "Această promenadă pitorească pe malul apei din Talcahuano oferă puncte de belvedere panoramice asupra portului aglomerat și a Oceanului Pacific.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10763,
+                        -36.719545
+                  ]
+            },
+            {
+                  "name": "Espigón de Abrigo Rocuant",
+                  "text": "O structură masivă de dig în Talcahuano, servind ca un punct de belvedere excelent pentru a urmări navele navigând în golf.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098226,
+                        -36.726164
+                  ]
+            },
+            {
+                  "name": "Cápsula Fénix 2",
+                  "text": "Această atracție notabilă din Talcahuano prezintă capsula reală de salvare Fénix 2 utilizată în timpul faimoasei salvări miniere din Chile din 2010.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.112791,
+                        -36.705214
+                  ]
+            },
+            {
+                  "name": "Puerta de Los Leones",
+                  "text": "O intrare iconică cu porți din Talcahuano, adesea recunoscută ca un reper istoric în apropierea bazei navale.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.114045,
+                        -36.706534
+                  ]
+            },
+            {
+                  "name": "Mirador Talcahuano",
+                  "text": "Un punct de belvedere înalt, oferind vizitatorilor o panoramă a peisajului urban din Talcahuano și a golfului său natural.",
+                  "category": "natural",
+                  "coords": [
+                        -73.122484,
+                        -36.706251
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Acest punct de belvedere de coastă din Talcahuano oferă o panoramă pitorească a țărmurilor nisipoase și a valurilor oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        -73.136526,
+                        -36.688334
+                  ]
+            },
+            {
+                  "name": "Playa María Isabel",
+                  "text": "O întindere de nisip de-a lungul coastei din Talcahuano, vizitată frecvent pentru atmosfera sa relaxantă și briza mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.10818,
+                        -36.718263
+                  ]
+            },
+            {
+                  "name": "Teatro Dante",
+                  "text": "Un teatru consacrat din Talcahuano, care servește ca spațiu cultural pentru artele spectacolului locale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.11396,
+                        -36.713827
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Recamo-Redacamo",
+                  "text": "Desemnată ca rezervație de zone umede urbane în 2024, această zonă ecologică din Talcahuano protejează biodiversitatea locală vitală.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10742,
+                        -36.729859
+                  ]
+            },
+            {
+                  "name": "Coliseo La Tortuga",
+                  "text": "Această arenă masivă de sport și divertisment din Talcahuano se recunoaște prin acoperișul său distinctiv în formă de carapace de broască țestoasă.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108804,
+                        -36.720155
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Rocuant-Andalién",
+                  "text": "Situată lângă Isla Rocuant, această rezervație naturală de zone umede urbane din Talcahuano a fost înființată pentru a conserva habitatele păsărilor de coastă în 2026.",
+                  "category": "natural",
+                  "coords": [
+                        -73.059707,
+                        -36.744859
+                  ]
+            },
+            {
+                  "name": "Monitor Huáscar",
+                  "text": "Construită inițial în 1865, această navă de război istorică blindată este acum păstrată ca muzeu plutitor în portul Talcahuano.",
+                  "category": "museum",
+                  "coords": [
+                        -73.111572,
+                        -36.705418
+                  ]
+            },
+            {
+                  "name": "Playa El Soldado",
+                  "text": "O plajă de coastă liniștită, situată în Talcahuano, încadrată de geografia locală și oferind vederi asupra apelor Pacificului.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.141363,
+                        -36.696645
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Un lăcaș de cult local, oferind un spațiu liniștit pentru contemplare spirituală în cadrul comunității din Talcahuano.",
+                  "category": "religious",
+                  "coords": [
+                        -73.124058,
+                        -36.715025
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa María",
+                  "text": "Dedicată Sfintei Maria, această biserică creștină din Talcahuano găzduiește slujbe regulate într-un cadru arhitectural tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.100004,
+                        -36.73886
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Clara",
+                  "text": "O capelă creștină modestă din Talcahuano, care oferă un sanctuar liniștit pentru rugăciunile zilnice și adunările din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.096571,
+                        -36.738517
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Cristo es el camino",
+                  "text": "Această biserică penticostală activă din Talcahuano adună comunitatea creștină locală pentru sesiuni de închinare pline de viață, bazate pe credință.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.094964,
+                        -36.642533
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Pentecostal",
+                  "text": "Un punct central al credinței penticostale din Talcahuano, acest sit creștin oferă un spațiu pentru învățătura evanghelică și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.118027,
+                        -36.71482
+                  ]
+            },
+            {
+                  "name": "Comunidad Jesús de Nazaret",
+                  "text": "Un spațiu comunitar creștin primitor din Talcahuano, dedicat învățăturilor lui Isus din Nazaret și părtășiei regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.120821,
+                        -36.708183
+                  ]
+            },
+            {
+                  "name": "Capilla Isla Quiriquina",
+                  "text": "Situată pe insula Quiriquina, lângă Talcahuano, această capelă creștină istorică servește de mult timp comunitatea izolată a insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.062403,
+                        -36.637684
+                  ]
+            },
+            {
+                  "name": "Mercado Talcahuano",
+                  "text": "O piață interioară plină de viață din Talcahuano, unde vânzătorii oferă o gamă largă de produse proaspete și bunuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.114557,
+                        -36.712067
+                  ]
+            },
+            {
+                  "name": "La Fama",
+                  "text": "Cunoscută printre localnici, această piață vibrantă din Talcahuano prezintă tarabe pline cu necesități zilnice și articole de specialitate.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.116108,
+                        -36.713228
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescados y Mariscos de Talcahuano",
+                  "text": "Foarte apreciată pentru capturile sale proaspete zilnice, această piață de fructe de mare din Talcahuano este un centru vibrant al culturii maritime a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.113962,
+                        -36.710269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Costanera de Talcahuano",
+                  "text": "This scenic waterfront promenade in Talcahuano offers sweeping viewpoints over the bustling port and the Pacific Ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10763,
+                        -36.719545
+                  ]
+            },
+            {
+                  "name": "Espigón de Abrigo Rocuant",
+                  "text": "A massive breakwater structure in Talcahuano, serving as an excellent viewpoint for watching ships navigate the bay.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098226,
+                        -36.726164
+                  ]
+            },
+            {
+                  "name": "Cápsula Fénix 2",
+                  "text": "This notable attraction in Talcahuano showcases the actual Fénix 2 rescue capsule utilized during the famous 2010 Chilean mining rescue.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.112791,
+                        -36.705214
+                  ]
+            },
+            {
+                  "name": "Puerta de Los Leones",
+                  "text": "An iconic gated entranceway in Talcahuano, often recognized as a historical landmark near the naval base.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.114045,
+                        -36.706534
+                  ]
+            },
+            {
+                  "name": "Mirador Talcahuano",
+                  "text": "An elevated viewpoint providing visitors with a panoramic vista of Talcahuano's urban landscape and its natural bay.",
+                  "category": "natural",
+                  "coords": [
+                        -73.122484,
+                        -36.706251
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "This coastal viewpoint in Talcahuano provides a picturesque overlook of the sandy shores and crashing ocean waves.",
+                  "category": "natural",
+                  "coords": [
+                        -73.136526,
+                        -36.688334
+                  ]
+            },
+            {
+                  "name": "Playa María Isabel",
+                  "text": "A sandy stretch along the Talcahuano coastline, frequently visited for its relaxing atmosphere and sea breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.10818,
+                        -36.718263
+                  ]
+            },
+            {
+                  "name": "Teatro Dante",
+                  "text": "An established theatre in Talcahuano that serves as a cultural venue for local performing arts and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.11396,
+                        -36.713827
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Recamo-Redacamo",
+                  "text": "Designated as an urban wetland reserve in 2024, this ecological zone in Talcahuano protects vital local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10742,
+                        -36.729859
+                  ]
+            },
+            {
+                  "name": "Coliseo La Tortuga",
+                  "text": "This massive sports and entertainment arena in Talcahuano is recognizable by its distinctive tortoise-shell shaped roof.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.108804,
+                        -36.720155
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Rocuant-Andalién",
+                  "text": "Situated near Isla Rocuant, this urban wetland nature reserve in Talcahuano was established to conserve coastal bird habitats in 2026.",
+                  "category": "natural",
+                  "coords": [
+                        -73.059707,
+                        -36.744859
+                  ]
+            },
+            {
+                  "name": "Monitor Huáscar",
+                  "text": "Originally built in 1865, this historic ironclad warship is now preserved as a floating museum in the port of Talcahuano.",
+                  "category": "museum",
+                  "coords": [
+                        -73.111572,
+                        -36.705418
+                  ]
+            },
+            {
+                  "name": "Playa El Soldado",
+                  "text": "A quiet coastal beach situated in Talcahuano, framed by the local geography and offering views over the Pacific waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.141363,
+                        -36.696645
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A local place of worship providing a tranquil space for spiritual contemplation within the community of Talcahuano.",
+                  "category": "religious",
+                  "coords": [
+                        -73.124058,
+                        -36.715025
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa María",
+                  "text": "Dedicated to Saint Mary, this Christian church in Talcahuano hosts regular congregational services in a traditional architectural setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.100004,
+                        -36.73886
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Clara",
+                  "text": "A modest Christian chapel in Talcahuano offering a quiet sanctuary for daily prayers and neighborhood gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.096571,
+                        -36.738517
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal Cristo es el camino",
+                  "text": "This active Pentecostal church in Talcahuano gathers the local Christian community for lively, faith-based worship sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.094964,
+                        -36.642533
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios Pentecostal",
+                  "text": "A focal point for the Pentecostal faith in Talcahuano, this Christian site provides a venue for evangelical teaching and prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.118027,
+                        -36.71482
+                  ]
+            },
+            {
+                  "name": "Comunidad Jesús de Nazaret",
+                  "text": "A welcoming Christian community space in Talcahuano dedicated to the teachings of Jesus of Nazareth and regular fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.120821,
+                        -36.708183
+                  ]
+            },
+            {
+                  "name": "Capilla Isla Quiriquina",
+                  "text": "Located on Quiriquina Island near Talcahuano, this historic Christian chapel has long served the isolated island community.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.062403,
+                        -36.637684
+                  ]
+            },
+            {
+                  "name": "Mercado Talcahuano",
+                  "text": "A bustling indoor marketplace in Talcahuano where vendors offer a wide array of fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.114557,
+                        -36.712067
+                  ]
+            },
+            {
+                  "name": "La Fama",
+                  "text": "Known among locals, this vibrant marketplace in Talcahuano features stalls packed with daily necessities and specialty items.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.116108,
+                        -36.713228
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescados y Mariscos de Talcahuano",
+                  "text": "Highly regarded for its daily fresh catches, this seafood marketplace in Talcahuano is a vibrant hub of the city's maritime culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.113962,
+                        -36.710269
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-BI",
     coords: [-73.1114, -36.7119],
@@ -1718,7 +17810,160 @@ export const poiExtraChileEconomicV2: POI[] = [
       fr: ["Principal chantier naval de la marine chilienne.", "Propose des réparations et des constructions neuves."],
     }, image: "/poi-images/asmar-talcahuano-economic-v2.webp"},
   {
-    id: "mina-spence-economic-v2",
+    id: "mina-spence-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oficina Salitrera Piscina",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Überreste eines historischen Salpeterarbeiter-Schwimmbeckens in der trockenen Bergbauregion.",
+                  "category": "natural",
+                  "coords": [
+                        -69.324288,
+                        -22.895967
+                  ]
+            },
+            {
+                  "name": "Oficina Lina",
+                  "text": "Die trostlosen Ruinen einer ehemaligen Nitratverarbeitungsanlage, die über die rauen Wüstenebenen verstreut sind.",
+                  "category": "historical",
+                  "coords": [
+                        -69.312409,
+                        -22.821017
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangélico Cuadrangular",
+                  "text": "Eine bescheidene Kirche des Foursquare-Evangeliums, die den spirituellen Bedürfnissen der lokalen Bergbaugemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.319573,
+                        -22.891074
+                  ]
+            },
+            {
+                  "name": "Parroquia Sierra Gorda",
+                  "text": "Die katholische Hauptpfarrkirche, die religiöse Gottesdienste in diesem Bergbauzentrum in der Wüste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -69.320565,
+                        -22.891959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oficina Salitrera Piscina",
+                  "text": "Egy kilátó, amely a kietlen bányászati régióban egy történelmi salétrommunkás uszoda maradványaira néz.",
+                  "category": "natural",
+                  "coords": [
+                        -69.324288,
+                        -22.895967
+                  ]
+            },
+            {
+                  "name": "Oficina Lina",
+                  "text": "Egy egykori nitrátfeldolgozó üzem elhagyatott romjai, amelyek a zord sivatagi síkságon szóródtak szét.",
+                  "category": "historical",
+                  "coords": [
+                        -69.312409,
+                        -22.821017
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangélico Cuadrangular",
+                  "text": "Egy szerény Négyszögletű Evangélium templom, amely a helyi bányászközösség spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.319573,
+                        -22.891074
+                  ]
+            },
+            {
+                  "name": "Parroquia Sierra Gorda",
+                  "text": "A fő katolikus plébániatemplom, amely vallási szolgáltatásokat nyújt ebben a sivatagi bányászati központban.",
+                  "category": "religious",
+                  "coords": [
+                        -69.320565,
+                        -22.891959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oficina Salitrera Piscina",
+                  "text": "Un punct de belvedere cu vedere la rămășițele unei piscine istorice a muncitorilor de salpetru din regiunea minieră aridă.",
+                  "category": "natural",
+                  "coords": [
+                        -69.324288,
+                        -22.895967
+                  ]
+            },
+            {
+                  "name": "Oficina Lina",
+                  "text": "Ruinele dezolate ale unei foste fabrici de procesare a nitraților, împrăștiate pe câmpiile aspre ale deșertului.",
+                  "category": "historical",
+                  "coords": [
+                        -69.312409,
+                        -22.821017
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangélico Cuadrangular",
+                  "text": "O biserică modestă Foursquare Gospel, care deservește nevoile spirituale ale comunității miniere locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.319573,
+                        -22.891074
+                  ]
+            },
+            {
+                  "name": "Parroquia Sierra Gorda",
+                  "text": "Biserica parohială catolică principală care oferă servicii religioase în acest centru minier din deșert.",
+                  "category": "religious",
+                  "coords": [
+                        -69.320565,
+                        -22.891959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oficina Salitrera Piscina",
+                  "text": "A viewpoint overlooking the remains of a historic saltpeter worker's swimming pool in the arid mining region.",
+                  "category": "natural",
+                  "coords": [
+                        -69.324288,
+                        -22.895967
+                  ]
+            },
+            {
+                  "name": "Oficina Lina",
+                  "text": "The desolate ruins of a former nitrate processing plant scattered across the harsh desert plains.",
+                  "category": "historical",
+                  "coords": [
+                        -69.312409,
+                        -22.821017
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangélico Cuadrangular",
+                  "text": "A modest Foursquare Gospel church serving the spiritual needs of the local mining community.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.319573,
+                        -22.891074
+                  ]
+            },
+            {
+                  "name": "Parroquia Sierra Gorda",
+                  "text": "The main Catholic parish church providing religious services in this desert mining hub.",
+                  "category": "religious",
+                  "coords": [
+                        -69.320565,
+                        -22.891959
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CL-AN",
     coords: [-69.2614, -22.8464],

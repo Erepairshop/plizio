@@ -3,7 +3,1096 @@ import type { POI } from "./poi";
 
 export const poiExtraChileLifeV2: POI[] = [
   {
-    id: "cl-zoologico-nacional-life-v2",
+    id: "cl-zoologico-nacional-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Histórico Dominico",
+                  "text": "Das Museo Histórico Dominico ist ein 2005 eröffnetes historisches Museum, das das religiöse und kulturelle Erbe des Dominikanerordens bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.644833,
+                        -33.424817
+                  ]
+            },
+            {
+                  "name": "Santuario Inmaculada Concepción",
+                  "text": "Das Santuario Inmaculada Concepción ist ein markantes Heiligtum auf einem Hügel, das für seine monumentale Statue mit Blick auf die Stadt berühmt ist.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633299,
+                        -33.426084
+                  ]
+            },
+            {
+                  "name": "Espacio Fundación Telefónica",
+                  "text": "Der Espacio Fundación Telefónica ist eine Kunstgalerie am Fuß des ikonischen Torre Telefónica, der in Form eines Mobiltelefons erbaut wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -70.632358,
+                        -33.437189
+                  ]
+            },
+            {
+                  "name": "Casa Museo La Chascona",
+                  "text": "Das 1986 eröffnete Casa Museo La Chascona ist ein Museum im eigenwilligen ehemaligen Wohnhaus des Dichters Pablo Neruda.",
+                  "category": "museum",
+                  "coords": [
+                        -70.634155,
+                        -33.431259
+                  ]
+            },
+            {
+                  "name": "Casa Museo Eduardo Frei Montalva",
+                  "text": "Das Casa Museo Eduardo Frei Montalva ist ein Hausmuseum, das die Residenz und die persönlichen Gegenstände des ehemaligen chilenischen Präsidenten bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.62237,
+                        -33.443908
+                  ]
+            },
+            {
+                  "name": "Museo de los Tajamares",
+                  "text": "Das Museo de los Tajamares ist ein unterirdisches Museum, das die Ruinen der kolonialen Backsteinböschungen des Flusses Mapocho schützt.",
+                  "category": "historical",
+                  "coords": [
+                        -70.6304,
+                        -33.435596
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Filomena",
+                  "text": "Die Iglesia Santa Filomena ist eine unverwechselbare neugotische katholische Kirche, die der verehrten Heiligen Philomena geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -70.643518,
+                        -33.429575
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Comunitario Montecarmelo",
+                  "text": "Das Centro Cultural y Comunitario Montecarmelo ist ein Kunstzentrum in den historischen Kreuzgängen eines ehemaligen Karmeliterinnenklosters.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.628128,
+                        -33.430146
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España",
+                  "text": "Das Centro Cultural de España ist ein dynamisches Kunstzentrum, das sich der Förderung der spanischen Kultur durch regelmäßige Ausstellungen und Veranstaltungen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.623849,
+                        -33.43173
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Epifanía del Señor",
+                  "text": "Die Iglesia de la Epifanía del Señor ist ein lokales Gotteshaus, das die Epiphanie in einem einladenden architektonischen Stil feiert.",
+                  "category": "religious",
+                  "coords": [
+                        -70.629434,
+                        -33.43168
+                  ]
+            },
+            {
+                  "name": "Teatro UC",
+                  "text": "Das Teatro UC ist ein bekanntes Universitätstheater, das ein breites Spektrum an dramatischen Aufführungen und studentischen Produktionen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.594379,
+                        -33.454868
+                  ]
+            },
+            {
+                  "name": "Mezquita As-Salam",
+                  "text": "Die Mezquita As-Salam ist ein islamisches Gotteshaus, das leicht an seinem markanten Minarett und den achteckigen architektonischen Elementen zu erkennen ist.",
+                  "category": "religious",
+                  "coords": [
+                        -70.598465,
+                        -33.45074
+                  ]
+            },
+            {
+                  "name": "Templo de Santiago, Chile",
+                  "text": "Der Templo de Santiago, Chile ist ein bedeutender Tempel der Heiligen der Letzten Tage mit einer modernen Fassade und einem klassischen hohen Turm.",
+                  "category": "religious",
+                  "coords": [
+                        -70.609565,
+                        -33.436144
+                  ]
+            },
+            {
+                  "name": "Puente Arzobispo Mariano Casanova",
+                  "text": "Die Puente Arzobispo Mariano Casanova ist eine robuste Brückenkonstruktion, die zu Ehren des bekannten Erzbischofs die lokalen Wasserwege überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.626196,
+                        -33.431706
+                  ]
+            },
+            {
+                  "name": "Parque Urbano Bicentenario de la Infancia",
+                  "text": "Der Parque Urbano Bicentenario de la Infancia ist ein verspielter Stadtpark, der 2012 eröffnet wurde und interaktive Hangrutschen und Wege für Kinder bietet.",
+                  "category": "park",
+                  "coords": [
+                        -70.639706,
+                        -33.41988
+                  ]
+            },
+            {
+                  "name": "Plaza a la Aviación",
+                  "text": "Die Plaza a la Aviación ist ein weitläufiger öffentlicher Park, der für sein markantes Denkmal und den Springbrunnen bekannt ist, die der chilenischen Luftwaffe gewidmet sind.",
+                  "category": "park",
+                  "coords": [
+                        -70.624751,
+                        -33.431323
+                  ]
+            },
+            {
+                  "name": "Parque Balmaceda",
+                  "text": "Dieser Stadtpark bietet schattige Wege und grüne Rasenflächen an den Ufern des Mapocho-Flusses.",
+                  "category": "park",
+                  "coords": [
+                        -70.629114,
+                        -33.43456
+                  ]
+            },
+            {
+                  "name": "Plaza Baquedano",
+                  "text": "Dieser zentrale Parkbereich und beliebte Treffpunkt geht in seiner heutigen Form auf den 5. März 2026 zurück.",
+                  "category": "park",
+                  "coords": [
+                        -70.634316,
+                        -33.436736
+                  ]
+            },
+            {
+                  "name": "Plaza Armenia",
+                  "text": "Dieser landschaftlich gestaltete öffentliche Platz ist eine Hommage an die Republik Armenien mit eigenen Gedenkelementen.",
+                  "category": "park",
+                  "coords": [
+                        -70.598372,
+                        -33.454456
+                  ]
+            },
+            {
+                  "name": "Plaza Pedro de Valdivia",
+                  "text": "Dieser 1930 angelegte Stadtpark ehrt den spanischen Konquistador, der die Landeshauptstadt gründete.",
+                  "category": "park",
+                  "coords": [
+                        -70.607326,
+                        -33.438912
+                  ]
+            },
+            {
+                  "name": "Poeta Ángel Cruchaga",
+                  "text": "Dieser dem berühmten chilenischen Schriftsteller gewidmete Parkbereich bietet einen ruhigen Rückzugsort inmitten der Stadtlandschaft.",
+                  "category": "park",
+                  "coords": [
+                        -70.586339,
+                        -33.451111
+                  ]
+            },
+            {
+                  "name": "Parque Juan XXIII",
+                  "text": "Dieser Erholungspark bietet eine grüne Umgebung mit Wanderwegen und Sitzgelegenheiten für die Anwohner.",
+                  "category": "park",
+                  "coords": [
+                        -70.587848,
+                        -33.458288
+                  ]
+            },
+            {
+                  "name": "Zoológico Nacional",
+                  "text": "Dieser am 12. Dezember 1925 eröffnete Nationalzoo liegt an den Hängen des Hügels San Cristóbal.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.633962,
+                        -33.429608
+                  ]
+            },
+            {
+                  "name": "Museo Liceo Valentín Letelier",
+                  "text": "Dieses im historischen Gymnasium untergebrachte Museum bewahrt pädagogische Artefakte und das Erbe der Einrichtung.",
+                  "category": "museum",
+                  "coords": [
+                        -70.645432,
+                        -33.426743
+                  ]
+            },
+            {
+                  "name": "Galería Solar",
+                  "text": "Dieser zeitgenössische Galerieraum stellt moderne Kunstwerke in einer sonnendurchfluteten, architektonisch markanten Umgebung aus.",
+                  "category": "museum",
+                  "coords": [
+                        -70.623091,
+                        -33.430031
+                  ]
+            },
+            {
+                  "name": "Taller 99 de Grabado Nemesio Antúnez",
+                  "text": "Diese spezialisierte Galerie konzentriert sich auf die Kunst der Druckgrafik und ehrt das Vermächtnis des Künstlers Nemesio Antúnez.",
+                  "category": "museum",
+                  "coords": [
+                        -70.616805,
+                        -33.437359
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de Carabineros",
+                  "text": "Dieses Museum dokumentiert die Geschichte und Entwicklung der chilenischen nationalen Polizei durch historische Uniformen und Dokumente.",
+                  "category": "museum",
+                  "coords": [
+                        -70.612098,
+                        -33.4423
+                  ]
+            },
+            {
+                  "name": "Museo del Hongo",
+                  "text": "Dieses einzigartige Museum ist ganz dem biologischen Reich der Pilze und der Pilzzucht gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -70.622094,
+                        -33.433305
+                  ]
+            },
+            {
+                  "name": "Museo del Juguete Chileno",
+                  "text": "Dieses Museum zeigt eine umfangreiche Sammlung traditioneller chilenischer Spielzeuge und bietet eine nostalgische Reise durch die Geschichte der Kindheit.",
+                  "category": "museum",
+                  "coords": [
+                        -70.594579,
+                        -33.445889
+                  ]
+            },
+            {
+                  "name": "Ex Estatua del General Juan Mackenna O'Reilly",
+                  "text": "Diese Ruinen markieren den ehemaligen Standort der Statue, die dem prominenten Militärgeneral Juan Mackenna O'Reilly gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        -70.612121,
+                        -33.437545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Histórico Dominico",
+                  "text": "A Museo Histórico Dominico egy 2005-ben megnyílt történelmi múzeum, amely a dominikánus rend vallási és kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.644833,
+                        -33.424817
+                  ]
+            },
+            {
+                  "name": "Santuario Inmaculada Concepción",
+                  "text": "A Santuario Inmaculada Concepción egy kiemelkedő hegytetőn lévő szentély, amely a városra néző monumentális szobráról híres.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633299,
+                        -33.426084
+                  ]
+            },
+            {
+                  "name": "Espacio Fundación Telefónica",
+                  "text": "Az Espacio Fundación Telefónica egy művészeti galéria, amely az ikonikus, mobiltelefon alakú Torre Telefónica tövében található.",
+                  "category": "museum",
+                  "coords": [
+                        -70.632358,
+                        -33.437189
+                  ]
+            },
+            {
+                  "name": "Casa Museo La Chascona",
+                  "text": "Az 1986-ban megnyílt Casa Museo La Chascona egy múzeum, amely Pablo Neruda költő különös, egykori rezidenciájában található.",
+                  "category": "museum",
+                  "coords": [
+                        -70.634155,
+                        -33.431259
+                  ]
+            },
+            {
+                  "name": "Casa Museo Eduardo Frei Montalva",
+                  "text": "A Casa Museo Eduardo Frei Montalva egy emlékház, amely a volt chilei elnök lakhelyét és személyes tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.62237,
+                        -33.443908
+                  ]
+            },
+            {
+                  "name": "Museo de los Tajamares",
+                  "text": "A Museo de los Tajamares egy földalatti múzeum, amely a Mapocho folyó gyarmati téglagátjainak romjait védi.",
+                  "category": "historical",
+                  "coords": [
+                        -70.6304,
+                        -33.435596
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Filomena",
+                  "text": "Az Iglesia Santa Filomena egy jellegzetes neogótikus katolikus templom, amelyet a tisztelt Szent Filoménának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -70.643518,
+                        -33.429575
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Comunitario Montecarmelo",
+                  "text": "A Centro Cultural y Comunitario Montecarmelo egy művészeti központ, amely egy egykori kármelita kolostor történelmi kerengőjében kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.628128,
+                        -33.430146
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España",
+                  "text": "A Centro Cultural de España egy dinamikus művészeti központ, amely a spanyol kultúra népszerűsítésének szenteli magát rendszeres kiállításokon és rendezvényeken keresztül.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.623849,
+                        -33.43173
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Epifanía del Señor",
+                  "text": "Az Iglesia de la Epifanía del Señor egy helyi istentiszteleti hely, amely hívogató építészeti stílusban ünnepli a vízkeresztet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.629434,
+                        -33.43168
+                  ]
+            },
+            {
+                  "name": "Teatro UC",
+                  "text": "A Teatro UC egy kiemelkedő egyetemi színházi helyszín, amely drámai előadások és diákelőadások széles skáláját mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.594379,
+                        -33.454868
+                  ]
+            },
+            {
+                  "name": "Mezquita As-Salam",
+                  "text": "A Mezquita As-Salam egy iszlám istentiszteleti hely, amely könnyen felismerhető jellegzetes minaretjéről és nyolcszögletű építészeti elemeiről.",
+                  "category": "religious",
+                  "coords": [
+                        -70.598465,
+                        -33.45074
+                  ]
+            },
+            {
+                  "name": "Templo de Santiago, Chile",
+                  "text": "A Templo de Santiago, Chile a Utolsó Napi Szentek kiemelkedő temploma, amely modern homlokzattal és klasszikus, magas toronnyal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -70.609565,
+                        -33.436144
+                  ]
+            },
+            {
+                  "name": "Puente Arzobispo Mariano Casanova",
+                  "text": "A Puente Arzobispo Mariano Casanova egy robusztus hídszerkezet, amely a helyi vízi utakon ível át a neves érsek tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.626196,
+                        -33.431706
+                  ]
+            },
+            {
+                  "name": "Parque Urbano Bicentenario de la Infancia",
+                  "text": "A Parque Urbano Bicentenario de la Infancia egy 2012-ben megnyílt játékos városi park, amely interaktív domboldali csúszdákat és ösvényeket kínál a gyerekeknek.",
+                  "category": "park",
+                  "coords": [
+                        -70.639706,
+                        -33.41988
+                  ]
+            },
+            {
+                  "name": "Plaza a la Aviación",
+                  "text": "A Plaza a la Aviación egy tágas közpark, amely a chilei légierőnek szentelt kiemelkedő emlékművéről és szökőkútjáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -70.624751,
+                        -33.431323
+                  ]
+            },
+            {
+                  "name": "Parque Balmaceda",
+                  "text": "Ez a városi park árnyékos ösvényekkel és zöld gyepekkel várja a látogatókat a Mapocho folyó partján.",
+                  "category": "park",
+                  "coords": [
+                        -70.629114,
+                        -33.43456
+                  ]
+            },
+            {
+                  "name": "Plaza Baquedano",
+                  "text": "Ennek a központi parknak és népszerű találkozóhelynek a jelenlegi kialakítása 2026. március 5-re nyúlik vissza.",
+                  "category": "park",
+                  "coords": [
+                        -70.634316,
+                        -33.436736
+                  ]
+            },
+            {
+                  "name": "Plaza Armenia",
+                  "text": "Ez a parkosított köztér az Örmény Köztársaság előtt tiszteleg dedikált emlékelemekkel.",
+                  "category": "park",
+                  "coords": [
+                        -70.598372,
+                        -33.454456
+                  ]
+            },
+            {
+                  "name": "Plaza Pedro de Valdivia",
+                  "text": "Az 1930-ban alapított városi park a nemzeti fővárost alapító spanyol hódítónak állít emléket.",
+                  "category": "park",
+                  "coords": [
+                        -70.607326,
+                        -33.438912
+                  ]
+            },
+            {
+                  "name": "Poeta Ángel Cruchaga",
+                  "text": "A neves chilei írónak szentelt parkrész csendes menedéket kínál a városi táj közepén.",
+                  "category": "park",
+                  "coords": [
+                        -70.586339,
+                        -33.451111
+                  ]
+            },
+            {
+                  "name": "Parque Juan XXIII",
+                  "text": "Ez a szabadidőpark lombos környezetet kínál sétautakkal és pihenőhelyekkel a helyi lakosok számára.",
+                  "category": "park",
+                  "coords": [
+                        -70.587848,
+                        -33.458288
+                  ]
+            },
+            {
+                  "name": "Zoológico Nacional",
+                  "text": "Az 1925. december 12-én megnyílt nemzeti állatkert a San Cristóbal-hegy lejtőin található.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.633962,
+                        -33.429608
+                  ]
+            },
+            {
+                  "name": "Museo Liceo Valentín Letelier",
+                  "text": "A történelmi középiskolában található múzeum oktatási leleteket és intézményi örökséget őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -70.645432,
+                        -33.426743
+                  ]
+            },
+            {
+                  "name": "Galería Solar",
+                  "text": "Ez a kortárs galériatér modern műalkotásokat állít ki napfényes, építészetileg jellegzetes környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        -70.623091,
+                        -33.430031
+                  ]
+            },
+            {
+                  "name": "Taller 99 de Grabado Nemesio Antúnez",
+                  "text": "Ez a specializált galéria a metszetkészítés művészetére összpontosít, tisztelegve Nemesio Antúnez művész öröksége előtt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.616805,
+                        -33.437359
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de Carabineros",
+                  "text": "Ez a múzeum a chilei nemzeti rendőrség történetét és fejlődését dokumentálja történelmi egyenruhák és dokumentumok révén.",
+                  "category": "museum",
+                  "coords": [
+                        -70.612098,
+                        -33.4423
+                  ]
+            },
+            {
+                  "name": "Museo del Hongo",
+                  "text": "Ez az egyedülálló múzeum teljes egészében a gombák biológiai birodalmának és a gombatermesztésnek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -70.622094,
+                        -33.433305
+                  ]
+            },
+            {
+                  "name": "Museo del Juguete Chileno",
+                  "text": "A hagyományos chilei játékok hatalmas gyűjteményét bemutató múzeum nosztalgikus utazást kínál a gyermekkor történetében.",
+                  "category": "museum",
+                  "coords": [
+                        -70.594579,
+                        -33.445889
+                  ]
+            },
+            {
+                  "name": "Ex Estatua del General Juan Mackenna O'Reilly",
+                  "text": "Ezek a romok jelzik Juan Mackenna O'Reilly kiemelkedő katonai tábornok szobrának egykori helyét.",
+                  "category": "historical",
+                  "coords": [
+                        -70.612121,
+                        -33.437545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Histórico Dominico",
+                  "text": "Museo Histórico Dominico este un muzeu istoric deschis în 2005 care păstrează moștenirea religioasă și culturală a ordinului dominican.",
+                  "category": "museum",
+                  "coords": [
+                        -70.644833,
+                        -33.424817
+                  ]
+            },
+            {
+                  "name": "Santuario Inmaculada Concepción",
+                  "text": "Santuario Inmaculada Concepción este un sanctuar proeminent pe un deal, renumit pentru statuia sa monumentală cu vedere la oraș.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633299,
+                        -33.426084
+                  ]
+            },
+            {
+                  "name": "Espacio Fundación Telefónica",
+                  "text": "Espacio Fundación Telefónica este o galerie de artă situată la baza emblematicului Torre Telefónica, în formă de telefon mobil.",
+                  "category": "museum",
+                  "coords": [
+                        -70.632358,
+                        -33.437189
+                  ]
+            },
+            {
+                  "name": "Casa Museo La Chascona",
+                  "text": "Casa Museo La Chascona, deschis în 1986, este un muzeu situat în fosta reședință idiosincratică a poetului Pablo Neruda.",
+                  "category": "museum",
+                  "coords": [
+                        -70.634155,
+                        -33.431259
+                  ]
+            },
+            {
+                  "name": "Casa Museo Eduardo Frei Montalva",
+                  "text": "Casa Museo Eduardo Frei Montalva este un muzeu memorial care păstrează reședința și bunurile personale ale fostului președinte chilian.",
+                  "category": "museum",
+                  "coords": [
+                        -70.62237,
+                        -33.443908
+                  ]
+            },
+            {
+                  "name": "Museo de los Tajamares",
+                  "text": "Museo de los Tajamares este un muzeu subteran care protejează ruinele terasamentelor coloniale din cărămidă ale râului Mapocho.",
+                  "category": "historical",
+                  "coords": [
+                        -70.6304,
+                        -33.435596
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Filomena",
+                  "text": "Iglesia Santa Filomena este o biserică catolică neogotică distinctivă, dedicată veneratei Sfinte Filomena.",
+                  "category": "religious",
+                  "coords": [
+                        -70.643518,
+                        -33.429575
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Comunitario Montecarmelo",
+                  "text": "Centro Cultural y Comunitario Montecarmelo este un centru de artă găzduit în claustrele istorice ale unei foste mănăstiri carmelite.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.628128,
+                        -33.430146
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España",
+                  "text": "Centro Cultural de España este un centru de artă dinamic dedicat promovării culturii spaniole prin expoziții și evenimente regulate.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.623849,
+                        -33.43173
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Epifanía del Señor",
+                  "text": "Iglesia de la Epifanía del Señor este un lăcaș de cult local care celebrează Epifania cu un stil arhitectural primitor.",
+                  "category": "religious",
+                  "coords": [
+                        -70.629434,
+                        -33.43168
+                  ]
+            },
+            {
+                  "name": "Teatro UC",
+                  "text": "Teatro UC este un teatru universitar proeminent, care prezintă o gamă largă de spectacole dramatice și producții studențești.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.594379,
+                        -33.454868
+                  ]
+            },
+            {
+                  "name": "Mezquita As-Salam",
+                  "text": "Mezquita As-Salam este un lăcaș de cult islamic ușor de recunoscut prin minaretul său distinctiv și elementele arhitecturale octogonale.",
+                  "category": "religious",
+                  "coords": [
+                        -70.598465,
+                        -33.45074
+                  ]
+            },
+            {
+                  "name": "Templo de Santiago, Chile",
+                  "text": "Templo de Santiago, Chile este un templu proeminent al Sfinților din Zilele din Urmă, cu o fațadă modernă și o turlă înaltă clasică.",
+                  "category": "religious",
+                  "coords": [
+                        -70.609565,
+                        -33.436144
+                  ]
+            },
+            {
+                  "name": "Puente Arzobispo Mariano Casanova",
+                  "text": "Puente Arzobispo Mariano Casanova este o structură de pod robustă care traversează căile navigabile locale în onoarea renumitului arhiepiscop.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.626196,
+                        -33.431706
+                  ]
+            },
+            {
+                  "name": "Parque Urbano Bicentenario de la Infancia",
+                  "text": "Parque Urbano Bicentenario de la Infancia este un parc urban plin de joacă deschis în 2012, cu tobogane interactive pe deal și alei pentru copii.",
+                  "category": "park",
+                  "coords": [
+                        -70.639706,
+                        -33.41988
+                  ]
+            },
+            {
+                  "name": "Plaza a la Aviación",
+                  "text": "Plaza a la Aviación este un parc public spațios, recunoscut pentru monumentul său proeminent și fântâna cu apă dedicate forțelor aeriene chiliene.",
+                  "category": "park",
+                  "coords": [
+                        -70.624751,
+                        -33.431323
+                  ]
+            },
+            {
+                  "name": "Parque Balmaceda",
+                  "text": "Acest parc urban oferă alei umbrite și peluze verzi pe malurile râului Mapocho.",
+                  "category": "park",
+                  "coords": [
+                        -70.629114,
+                        -33.43456
+                  ]
+            },
+            {
+                  "name": "Plaza Baquedano",
+                  "text": "Această zonă centrală de parc și loc popular de adunare își are configurația actuală din 5 martie 2026.",
+                  "category": "park",
+                  "coords": [
+                        -70.634316,
+                        -33.436736
+                  ]
+            },
+            {
+                  "name": "Plaza Armenia",
+                  "text": "Această piață publică amenajată aduce un omagiu Republicii Armenia cu elemente memoriale dedicate.",
+                  "category": "park",
+                  "coords": [
+                        -70.598372,
+                        -33.454456
+                  ]
+            },
+            {
+                  "name": "Plaza Pedro de Valdivia",
+                  "text": "Înființat în 1930, acest parc urban onorează conchistadorul spaniol care a fondat capitala națională.",
+                  "category": "park",
+                  "coords": [
+                        -70.607326,
+                        -33.438912
+                  ]
+            },
+            {
+                  "name": "Poeta Ángel Cruchaga",
+                  "text": "Dedicată renumitului scriitor chilian, această zonă de parc oferă un refugiu liniștit în mijlocul peisajului urban.",
+                  "category": "park",
+                  "coords": [
+                        -70.586339,
+                        -33.451111
+                  ]
+            },
+            {
+                  "name": "Parque Juan XXIII",
+                  "text": "Acest parc de recreere oferă un mediu înfrunzit, cu trasee de plimbare și zone de relaxare pentru rezidenții locali.",
+                  "category": "park",
+                  "coords": [
+                        -70.587848,
+                        -33.458288
+                  ]
+            },
+            {
+                  "name": "Zoológico Nacional",
+                  "text": "Deschis pe 12 decembrie 1925, acest zoo național este situat pe pantele dealului San Cristóbal.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.633962,
+                        -33.429608
+                  ]
+            },
+            {
+                  "name": "Museo Liceo Valentín Letelier",
+                  "text": "Găzduit în cadrul liceului istoric, acest muzeu păstrează artefacte educaționale și moștenirea instituțională.",
+                  "category": "museum",
+                  "coords": [
+                        -70.645432,
+                        -33.426743
+                  ]
+            },
+            {
+                  "name": "Galería Solar",
+                  "text": "Această galerie contemporană expune opere de artă modernă într-un cadru luminat de soare și arhitectural distinctiv.",
+                  "category": "museum",
+                  "coords": [
+                        -70.623091,
+                        -33.430031
+                  ]
+            },
+            {
+                  "name": "Taller 99 de Grabado Nemesio Antúnez",
+                  "text": "Această galerie specializată se concentrează pe arta gravurii, onorând moștenirea artistului Nemesio Antúnez.",
+                  "category": "museum",
+                  "coords": [
+                        -70.616805,
+                        -33.437359
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de Carabineros",
+                  "text": "Acest muzeu documentează istoria și evoluția forțelor de poliție națională chiliană prin uniforme istorice și documente.",
+                  "category": "museum",
+                  "coords": [
+                        -70.612098,
+                        -33.4423
+                  ]
+            },
+            {
+                  "name": "Museo del Hongo",
+                  "text": "Acest muzeu unic este dedicat în întregime regnului biologic al fungilor și cultivării ciupercilor.",
+                  "category": "museum",
+                  "coords": [
+                        -70.622094,
+                        -33.433305
+                  ]
+            },
+            {
+                  "name": "Museo del Juguete Chileno",
+                  "text": "Prezentând o colecție vastă de jucării tradiționale chiliene, acest muzeu oferă o călătorie nostalgică prin istoria copilăriei.",
+                  "category": "museum",
+                  "coords": [
+                        -70.594579,
+                        -33.445889
+                  ]
+            },
+            {
+                  "name": "Ex Estatua del General Juan Mackenna O'Reilly",
+                  "text": "Aceste ruine marchează fosta locație a statuii dedicate proeminentului general militar Juan Mackenna O'Reilly.",
+                  "category": "historical",
+                  "coords": [
+                        -70.612121,
+                        -33.437545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Histórico Dominico",
+                  "text": "Museo Histórico Dominico is a historical museum opened in 2005 that preserves the religious and cultural heritage of the Dominican order.",
+                  "category": "museum",
+                  "coords": [
+                        -70.644833,
+                        -33.424817
+                  ]
+            },
+            {
+                  "name": "Santuario Inmaculada Concepción",
+                  "text": "Santuario Inmaculada Concepción is a prominent hilltop sanctuary famous for its monumental statue overlooking the city.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633299,
+                        -33.426084
+                  ]
+            },
+            {
+                  "name": "Espacio Fundación Telefónica",
+                  "text": "Espacio Fundación Telefónica is an art gallery situated at the base of the iconic mobile-phone-shaped Torre Telefónica.",
+                  "category": "museum",
+                  "coords": [
+                        -70.632358,
+                        -33.437189
+                  ]
+            },
+            {
+                  "name": "Casa Museo La Chascona",
+                  "text": "Casa Museo La Chascona, opened in 1986, is a museum located in the idiosyncratic former residence of poet Pablo Neruda.",
+                  "category": "museum",
+                  "coords": [
+                        -70.634155,
+                        -33.431259
+                  ]
+            },
+            {
+                  "name": "Casa Museo Eduardo Frei Montalva",
+                  "text": "Casa Museo Eduardo Frei Montalva is a house museum preserving the residence and personal belongings of the former Chilean President.",
+                  "category": "museum",
+                  "coords": [
+                        -70.62237,
+                        -33.443908
+                  ]
+            },
+            {
+                  "name": "Museo de los Tajamares",
+                  "text": "Museo de los Tajamares is an underground museum protecting the ruins of the colonial brick embankments of the Mapocho River.",
+                  "category": "historical",
+                  "coords": [
+                        -70.6304,
+                        -33.435596
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Filomena",
+                  "text": "Iglesia Santa Filomena is a distinctive neo-Gothic Catholic church dedicated to the revered Saint Philomena.",
+                  "category": "religious",
+                  "coords": [
+                        -70.643518,
+                        -33.429575
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Comunitario Montecarmelo",
+                  "text": "Centro Cultural y Comunitario Montecarmelo is an arts centre housed within the historic cloisters of a former Carmelite convent.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.628128,
+                        -33.430146
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España",
+                  "text": "Centro Cultural de España is a dynamic arts centre dedicated to promoting Spanish culture through regular exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.623849,
+                        -33.43173
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Epifanía del Señor",
+                  "text": "Iglesia de la Epifanía del Señor is a local place of worship celebrating the Epiphany with a welcoming architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        -70.629434,
+                        -33.43168
+                  ]
+            },
+            {
+                  "name": "Teatro UC",
+                  "text": "Teatro UC is a prominent university theatre venue showcasing a wide array of dramatic performances and student productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.594379,
+                        -33.454868
+                  ]
+            },
+            {
+                  "name": "Mezquita As-Salam",
+                  "text": "Mezquita As-Salam is an Islamic place of worship easily recognized by its distinctive minaret and octagonal architectural elements.",
+                  "category": "religious",
+                  "coords": [
+                        -70.598465,
+                        -33.45074
+                  ]
+            },
+            {
+                  "name": "Templo de Santiago, Chile",
+                  "text": "Templo de Santiago, Chile is a prominent Latter-day Saint temple featuring a modern facade and a classic tall spire.",
+                  "category": "religious",
+                  "coords": [
+                        -70.609565,
+                        -33.436144
+                  ]
+            },
+            {
+                  "name": "Puente Arzobispo Mariano Casanova",
+                  "text": "Puente Arzobispo Mariano Casanova is a robust bridge structure spanning the local riverways in honor of the renowned Archbishop.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.626196,
+                        -33.431706
+                  ]
+            },
+            {
+                  "name": "Parque Urbano Bicentenario de la Infancia",
+                  "text": "Parque Urbano Bicentenario de la Infancia is a playful urban park opened in 2012 featuring interactive hillside slides and pathways for kids.",
+                  "category": "park",
+                  "coords": [
+                        -70.639706,
+                        -33.41988
+                  ]
+            },
+            {
+                  "name": "Plaza a la Aviación",
+                  "text": "Plaza a la Aviación is a spacious public park recognized for its prominent monument and water fountain dedicated to the Chilean Air Force.",
+                  "category": "park",
+                  "coords": [
+                        -70.624751,
+                        -33.431323
+                  ]
+            },
+            {
+                  "name": "Parque Balmaceda",
+                  "text": "This urban park features shaded pathways and green lawns along the banks of the Mapocho River.",
+                  "category": "park",
+                  "coords": [
+                        -70.629114,
+                        -33.43456
+                  ]
+            },
+            {
+                  "name": "Plaza Baquedano",
+                  "text": "This central park area and popular gathering spot traces its current configuration back to March 5, 2026.",
+                  "category": "park",
+                  "coords": [
+                        -70.634316,
+                        -33.436736
+                  ]
+            },
+            {
+                  "name": "Plaza Armenia",
+                  "text": "This landscaped public square pays homage to the Republic of Armenia with dedicated memorial elements.",
+                  "category": "park",
+                  "coords": [
+                        -70.598372,
+                        -33.454456
+                  ]
+            },
+            {
+                  "name": "Plaza Pedro de Valdivia",
+                  "text": "Established in 1930, this urban park honors the Spanish conquistador who founded the national capital.",
+                  "category": "park",
+                  "coords": [
+                        -70.607326,
+                        -33.438912
+                  ]
+            },
+            {
+                  "name": "Poeta Ángel Cruchaga",
+                  "text": "Dedicated to the renowned Chilean writer, this park area offers a quiet retreat amidst the urban landscape.",
+                  "category": "park",
+                  "coords": [
+                        -70.586339,
+                        -33.451111
+                  ]
+            },
+            {
+                  "name": "Parque Juan XXIII",
+                  "text": "This recreational park provides a leafy environment with walking trails and seating areas for local residents.",
+                  "category": "park",
+                  "coords": [
+                        -70.587848,
+                        -33.458288
+                  ]
+            },
+            {
+                  "name": "Zoológico Nacional",
+                  "text": "Opened on December 12, 1925, this national zoo is situated on the slopes of San Cristóbal Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.633962,
+                        -33.429608
+                  ]
+            },
+            {
+                  "name": "Museo Liceo Valentín Letelier",
+                  "text": "Housed within the historic secondary school, this museum preserves educational artifacts and institutional heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -70.645432,
+                        -33.426743
+                  ]
+            },
+            {
+                  "name": "Galería Solar",
+                  "text": "This contemporary gallery space exhibits modern artworks within a sunlit, architecturally distinctive setting.",
+                  "category": "museum",
+                  "coords": [
+                        -70.623091,
+                        -33.430031
+                  ]
+            },
+            {
+                  "name": "Taller 99 de Grabado Nemesio Antúnez",
+                  "text": "This specialized gallery focuses on the art of printmaking, honoring the legacy of artist Nemesio Antúnez.",
+                  "category": "museum",
+                  "coords": [
+                        -70.616805,
+                        -33.437359
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de Carabineros",
+                  "text": "This museum documents the history and evolution of the Chilean national police force through historical uniforms and documents.",
+                  "category": "museum",
+                  "coords": [
+                        -70.612098,
+                        -33.4423
+                  ]
+            },
+            {
+                  "name": "Museo del Hongo",
+                  "text": "This unique museum is dedicated entirely to the biological kingdom of fungi and mushroom cultivation.",
+                  "category": "museum",
+                  "coords": [
+                        -70.622094,
+                        -33.433305
+                  ]
+            },
+            {
+                  "name": "Museo del Juguete Chileno",
+                  "text": "Showcasing a vast collection of traditional Chilean toys, this museum offers a nostalgic journey through childhood history.",
+                  "category": "museum",
+                  "coords": [
+                        -70.594579,
+                        -33.445889
+                  ]
+            },
+            {
+                  "name": "Ex Estatua del General Juan Mackenna O'Reilly",
+                  "text": "These ruins mark the former location of the statue dedicated to the prominent military general Juan Mackenna O'Reilly.",
+                  "category": "historical",
+                  "coords": [
+                        -70.612121,
+                        -33.437545
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CL-RM",
     coords: [-70.634, -33.425],
@@ -61,7 +1150,1240 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Il a été fondé en 1925.", "Il s'étend sur 4,8 hectares."],
     }, image: "/poi-images/cl-zoologico-nacional-life-v2.webp"},
   {
-    id: "cl-parque-safari-rancagua-life-v2",
+    id: "cl-parque-safari-rancagua-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Regional de Rancagua",
+                  "text": "Das Museo Regional de Rancagua ist ein kulturhistorisches Museum in einem traditionellen Kolonialhaus mit charakteristischen Fluren und Innenhöfen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.741644,
+                        -34.173426
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "Die Iglesia de la Merced ist eine historische Kultstätte in Rancagua, die für ihre Architektur aus der Kolonialzeit bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -70.740171,
+                        -34.169033
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Rancagua",
+                  "text": "Die Casa de la Cultura de Rancagua ist ein Kunstzentrum im ehemaligen Herrenhaus des Gutes „El Puente“, das als Mittelpunkt für lokale Kulturveranstaltungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.741699,
+                        -34.175525
+                  ]
+            },
+            {
+                  "name": "Plaza de los Héroes",
+                  "text": "Die Plaza de los Héroes ist ein zentraler Platz in Rancagua, der für seine historische Anlage und bedeutenden Denkmäler bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740757,
+                        -34.170286
+                  ]
+            },
+            {
+                  "name": "Teatro Regional Lucho Gatica",
+                  "text": "Das Teatro Regional Lucho Gatica ist ein modernes Theater in Rancagua, das eine Vielzahl regionaler Darbietungen der darstellenden Künste beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.740617,
+                        -34.175591
+                  ]
+            },
+            {
+                  "name": "Parque Safari de Rancagua",
+                  "text": "Der Parque Safari de Rancagua ist ein weitläufiger Tierpark, der interaktive Wildtiergehege und Safari-Erlebnisse bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.802502,
+                        -34.184009
+                  ]
+            },
+            {
+                  "name": "Casona San Joaquin de los Mayos",
+                  "text": "Dieses traditionelle Gutshaus-Museum stellt das lokale kulturelle Erbe in der Region Rancagua aus.",
+                  "category": "museum",
+                  "coords": [
+                        -70.714785,
+                        -34.199471
+                  ]
+            },
+            {
+                  "name": "Centro Español de Rancagua",
+                  "text": "Dieses Kulturzentrum und Museum beleuchtet das spanische architektonische und historische Erbe von Rancagua.",
+                  "category": "museum",
+                  "coords": [
+                        -70.752182,
+                        -34.159129
+                  ]
+            },
+            {
+                  "name": "Castillo Butrón",
+                  "text": "Dieses markante schlossartige Gebäude dient als einzigartiges architektonisches Wahrzeichen in der Gegend von Rancagua.",
+                  "category": "castle",
+                  "coords": [
+                        -70.730513,
+                        -34.161021
+                  ]
+            },
+            {
+                  "name": "Pasaje Trenova",
+                  "text": "Diese historische städtische Passage dient als ziviles Denkmal, das die traditionellen Straßenbilder von Rancagua widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -70.747431,
+                        -34.174313
+                  ]
+            },
+            {
+                  "name": "Teatro Olivar",
+                  "text": "Dieser Veranstaltungsort für darstellende Künste beherbergt lokale Kulturveranstaltungen und Theaterproduktionen im Gebiet Olivar bei Rancagua.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.81809,
+                        -34.21015
+                  ]
+            },
+            {
+                  "name": "Teatro San Martín",
+                  "text": "Dieses städtische Theater ist der dramatischen Kunst gewidmet und führt eine Vielzahl von Live-Aufführungen für die Gemeinde Rancagua auf.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.74658,
+                        -34.170289
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Estadio Marista",
+                  "text": "Dieses auf dem Stadiongelände gelegene Freilicht-Amphitheater ist Austragungsort für große kulturelle Veranstaltungen und Unterhaltungsshows im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.694003,
+                        -34.167251
+                  ]
+            },
+            {
+                  "name": "Casa del Arte",
+                  "text": "Als lebendiger kultureller Knotenpunkt konzentriert sich dieser intime Veranstaltungsort auf die Aufführung lokaler Theaterstücke und künstlerischer Zusammenkünfte.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.738327,
+                        -34.173956
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de La Merced",
+                  "text": "Diese ruhige Mercedarier-Kapelle dient als spirituelles Zentrum und lokales Gotteshaus in der Gegend von Rancagua.",
+                  "category": "religious",
+                  "coords": [
+                        -70.877076,
+                        -34.22284
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Elena del Molino",
+                  "text": "Eng mit der lokalen Mühlensiedlung verbunden, bietet diese religiöse Kapelle einen friedlichen Ort des Gebets in der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -70.804318,
+                        -34.224637
+                  ]
+            },
+            {
+                  "name": "IMPCH",
+                  "text": "Dieses Gebäude der methodistischen Pfingstkirche versammelt die lokale protestantische Gemeinde zu regelmäßigen Gottesdiensten und Zusammenkünften.",
+                  "category": "religious",
+                  "coords": [
+                        -70.803209,
+                        -34.215322
+                  ]
+            },
+            {
+                  "name": "Capilla Rincón de Abra",
+                  "text": "Diese in einer abgelegenen Gegend gelegene ländliche Kapelle dient den spirituellen Bedürfnissen der Gemeinde Rincón de Abra.",
+                  "category": "religious",
+                  "coords": [
+                        -70.862942,
+                        -34.247776
+                  ]
+            },
+            {
+                  "name": "LDS",
+                  "text": "Diese als lokales Gemeindehaus fungierende Einrichtung der Heiligen der Letzten Tage bietet Raum für Gottesdienste und Gemeindeprogramme.",
+                  "category": "religious",
+                  "coords": [
+                        -70.745653,
+                        -34.161225
+                  ]
+            },
+            {
+                  "name": "Salon de Los Testigos de Jeohvá",
+                  "text": "Dieser lokale Königreichssaal ist den religiösen Zusammenkünften und dem Bibelstudium der Zeugen Jehovas gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.804036,
+                        -34.210054
+                  ]
+            },
+            {
+                  "name": "Templo Testigos de Jehová",
+                  "text": "Diese als zentraler Königreichssaal fungierende Einrichtung versammelt die örtliche Gemeinde der Zeugen Jehovas zu regelmäßigen Gottesdiensten.",
+                  "category": "religious",
+                  "coords": [
+                        -70.717902,
+                        -34.177369
+                  ]
+            },
+            {
+                  "name": "Ipetri",
+                  "text": "Diese protestantische Kultstätte veranstaltet lebendige evangelische Gottesdienste für ihre örtliche Gemeinde in der Gegend von Rancagua.",
+                  "category": "religious",
+                  "coords": [
+                        -70.732922,
+                        -34.161427
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses Gemeindehaus, das sich durch seine markante moderne Architektur auszeichnet, versammelt die örtliche Gemeinschaft der Heiligen der Letzten Tage.",
+                  "category": "religious",
+                  "coords": [
+                        -70.730348,
+                        -34.152203
+                  ]
+            },
+            {
+                  "name": "Ce Ele!",
+                  "text": "Dieser belebte lokale Marktplatz bietet ein lebhaftes kommerzielles Umfeld mit alltäglichen Gütern und regionalen Produkten.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.725197,
+                        -34.182269
+                  ]
+            },
+            {
+                  "name": "Vega Baquedano",
+                  "text": "Dieser geschäftige Knotenpunkt fungiert als traditioneller Agrarmarkt und versorgt die Stadt mit frischen lokalen Produkten und Großhandelswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.769781,
+                        -34.163432
+                  ]
+            },
+            {
+                  "name": "Olivar Kids",
+                  "text": "Diese familienfreundliche Freizeitattraktion mit speziellen Spielzonen bietet Unterhaltung und Aktivitäten für Kinder in der Region Olivar.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.805168,
+                        -34.215789
+                  ]
+            },
+            {
+                  "name": "Mural más grande de Chile",
+                  "text": "Dieses beeindruckende öffentliche Kunstwerk erstreckt sich über eine riesige städtische Fassade und wird als das größte gemalte Wandbild Chiles gefeiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.755829,
+                        -34.167228
+                  ]
+            },
+            {
+                  "name": "Iglesia San Luis Orione",
+                  "text": "Diese dem Heiligen Luigi Orione gewidmete christliche Kirche bietet Raum für Gottesdienste und unterstützt lokale wohltätige Initiativen.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.829265,
+                        -34.180168
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado Corazón De Jesus",
+                  "text": "Diese dem Heiligsten Herzen gewidmete christliche Nachbarschaftskapelle bietet ein ruhiges Heiligtum für das tägliche Gebet und die Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.758361,
+                        -34.206851
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Diese lokale christliche Pfarrkirche dient als Eckpfeiler des Glaubens und koordiniert religiöse Zeremonien für die umliegende Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.713013,
+                        -34.177763
+                  ]
+            },
+            {
+                  "name": "Salón del reino de los testigos de Jehová",
+                  "text": "Dieser Königreichssaal dient als Treffpunkt der Zeugen Jehovas, um sich an biblischen Diskursen und der Planung des Predigtdienstes zu beteiligen.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740898,
+                        -34.149186
+                  ]
+            },
+            {
+                  "name": "Iglesia Ortodoxa San Jorge",
+                  "text": "Diese dem Heiligen Georg gewidmete ostorthodoxe Kirche ist mit traditioneller Ikonographie geschmückt und dient der regionalen orthodoxen Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740233,
+                        -34.15388
+                  ]
+            },
+            {
+                  "name": "San Francisco Javier",
+                  "text": "Diese christliche Kirche, die Franz Xaver gewidmet ist, fungiert als wichtiger spiritueller Treffpunkt für die lokale Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.728172,
+                        -34.188896
+                  ]
+            },
+            {
+                  "name": "Parroquia San Josá Obrero",
+                  "text": "Diese dem heiligen Josef dem Arbeiter geweihte christliche Pfarrkirche unterstützt aktiv Familien in der Nachbarschaft und veranstaltet regelmäßige Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.734207,
+                        -34.185284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Regional de Rancagua",
+                  "text": "A Museo Regional de Rancagua egy hagyományos gyarmati házban működő helytörténeti múzeum, jellegzetes folyosókkal és udvarokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -70.741644,
+                        -34.173426
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "Az Iglesia de la Merced egy történelmi istentiszteleti hely Rancaguában, amely a gyarmati korból származó építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -70.740171,
+                        -34.169033
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Rancagua",
+                  "text": "A Casa de la Cultura de Rancagua az egykori \"El Puente\" birtok épületében működő művészeti központ, amely a helyi kulturális események központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.741699,
+                        -34.175525
+                  ]
+            },
+            {
+                  "name": "Plaza de los Héroes",
+                  "text": "A Plaza de los Héroes egy központi tér Rancaguában, amely történelmi elrendezéséről és jelentős emlékműveiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740757,
+                        -34.170286
+                  ]
+            },
+            {
+                  "name": "Teatro Regional Lucho Gatica",
+                  "text": "A Teatro Regional Lucho Gatica egy modern színház Rancaguában, amely számos regionális előadóművészeti eseménynek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.740617,
+                        -34.175591
+                  ]
+            },
+            {
+                  "name": "Parque Safari de Rancagua",
+                  "text": "A Parque Safari de Rancagua egy kiterjedt állatkert, amely interaktív vadvilági kifutókat és szafari élményeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.802502,
+                        -34.184009
+                  ]
+            },
+            {
+                  "name": "Casona San Joaquin de los Mayos",
+                  "text": "Ez a hagyományos birtokház-múzeum a Rancagua régió helyi kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.714785,
+                        -34.199471
+                  ]
+            },
+            {
+                  "name": "Centro Español de Rancagua",
+                  "text": "Ez a kulturális központ és múzeum Rancagua spanyol építészeti és történelmi örökségét emeli ki.",
+                  "category": "museum",
+                  "coords": [
+                        -70.752182,
+                        -34.159129
+                  ]
+            },
+            {
+                  "name": "Castillo Butrón",
+                  "text": "Ez a lenyűgöző kastélyszerű építmény egyedülálló építészeti nevezetességként szolgál a Rancagua régióban.",
+                  "category": "castle",
+                  "coords": [
+                        -70.730513,
+                        -34.161021
+                  ]
+            },
+            {
+                  "name": "Pasaje Trenova",
+                  "text": "Ez a történelmi városi átjáró olyan polgári műemlékként szolgál, amely tükrözi Rancagua hagyományos utcaképeit.",
+                  "category": "historical",
+                  "coords": [
+                        -70.747431,
+                        -34.174313
+                  ]
+            },
+            {
+                  "name": "Teatro Olivar",
+                  "text": "Ez az előadóművészeti helyszín helyi kulturális eseményeknek és színházi produkcióknak ad otthont a Rancagua melletti Olivar térségében.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.81809,
+                        -34.21015
+                  ]
+            },
+            {
+                  "name": "Teatro San Martín",
+                  "text": "A drámaművészetnek szentelt városi színház különféle élő előadásokat állít színpadra a rancaguai közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.74658,
+                        -34.170289
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Estadio Marista",
+                  "text": "A stadion területén található szabadtéri amfiteátrum nagy szabadtéri kulturális és szórakoztató eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.694003,
+                        -34.167251
+                  ]
+            },
+            {
+                  "name": "Casa del Arte",
+                  "text": "Élénk kulturális központként ez a meghitt helyszín helyi színdarabok és művészeti összejövetelek megrendezésére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.738327,
+                        -34.173956
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de La Merced",
+                  "text": "Ez a nyugodt mercedárius kápolna spirituális központként és helyi istentiszteleti helyként szolgál Rancagua térségében.",
+                  "category": "religious",
+                  "coords": [
+                        -70.877076,
+                        -34.22284
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Elena del Molino",
+                  "text": "A helyi malomtelepüléshez szorosan kötődő vallási kápolna békés teret biztosít az imádkozáshoz a közösségben.",
+                  "category": "religious",
+                  "coords": [
+                        -70.804318,
+                        -34.224637
+                  ]
+            },
+            {
+                  "name": "IMPCH",
+                  "text": "Ez a metodista pünkösdi templomépület a helyi protestáns gyülekezetet gyűjti össze rendszeres istentiszteletekre és közösségi programokra.",
+                  "category": "religious",
+                  "coords": [
+                        -70.803209,
+                        -34.215322
+                  ]
+            },
+            {
+                  "name": "Capilla Rincón de Abra",
+                  "text": "A félreeső területen található vidéki kápolna a Rincón de Abra közösség spirituális igényeit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        -70.862942,
+                        -34.247776
+                  ]
+            },
+            {
+                  "name": "LDS",
+                  "text": "A helyi gyülekezeti házként működő Utolsó Napi Szentek létesítménye teret kínál istentiszteletek és közösségi programok számára.",
+                  "category": "religious",
+                  "coords": [
+                        -70.745653,
+                        -34.161225
+                  ]
+            },
+            {
+                  "name": "Salon de Los Testigos de Jeohvá",
+                  "text": "Ezt a helyi Királyság-termet Jehova Tanúi vallási összejöveteleinek és szentírás-tanulmányozásának szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -70.804036,
+                        -34.210054
+                  ]
+            },
+            {
+                  "name": "Templo Testigos de Jehová",
+                  "text": "Központi Királyság-teremként működő létesítmény, amely rendszeres istentiszteletre gyűjti össze a helyi Jehova Tanúi gyülekezetét.",
+                  "category": "religious",
+                  "coords": [
+                        -70.717902,
+                        -34.177369
+                  ]
+            },
+            {
+                  "name": "Ipetri",
+                  "text": "Ez a protestáns vallási helyszín élénk evangéliumi istentiszteleteknek ad otthont a rancaguai térség helyi gyülekezete számára.",
+                  "category": "religious",
+                  "coords": [
+                        -70.732922,
+                        -34.161427
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A jellegzetes modern építészetű gyülekezeti ház az Utolsó Napi Szentek helyi közösségét gyűjti össze.",
+                  "category": "religious",
+                  "coords": [
+                        -70.730348,
+                        -34.152203
+                  ]
+            },
+            {
+                  "name": "Ce Ele!",
+                  "text": "Ez a nyüzsgő helyi piac élénk kereskedelmi környezetet kínál, tele mindennapi cikkekkel és regionális termékekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.725197,
+                        -34.182269
+                  ]
+            },
+            {
+                  "name": "Vega Baquedano",
+                  "text": "A hagyományos mezőgazdasági piacként működő nyüzsgő csomópont friss helyi termékekkel és nagykereskedelmi árukkal látja el a várost.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.769781,
+                        -34.163432
+                  ]
+            },
+            {
+                  "name": "Olivar Kids",
+                  "text": "Ez a családközpontú, dedikált játszóterekkel rendelkező szabadidős létesítmény szórakozást és programokat kínál a gyerekek számára az Olivar negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.805168,
+                        -34.215789
+                  ]
+            },
+            {
+                  "name": "Mural más grande de Chile",
+                  "text": "Egy hatalmas városi homlokzaton átívelő lenyűgöző köztéri alkotás, amelyet Chile legnagyobb festett falfestményeként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.755829,
+                        -34.167228
+                  ]
+            },
+            {
+                  "name": "Iglesia San Luis Orione",
+                  "text": "A Szent Luigi Orione tiszteletére felszentelt keresztény templom istentiszteleti teret biztosít és helyi karitatív kezdeményezéseket támogat.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.829265,
+                        -34.180168
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado Corazón De Jesus",
+                  "text": "A Szent Szívnek szentelt keresztény szomszédsági kápolna csendes menedéket nyújt a napi imádkozáshoz és elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.758361,
+                        -34.206851
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "A hit sarokköveként szolgáló helyi keresztény plébániatemplom vallási szertartásokat koordinál a környező lakosság számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.713013,
+                        -34.177763
+                  ]
+            },
+            {
+                  "name": "Salón del reino de los testigos de Jehová",
+                  "text": "Ez a Királyság-terem Jehova Tanúi találkozóhelyeként szolgál a bibliai diskurzusok és a szolgálat megtervezése céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740898,
+                        -34.149186
+                  ]
+            },
+            {
+                  "name": "Iglesia Ortodoxa San Jorge",
+                  "text": "A Szent Györgynek szentelt, hagyományos ikonográfiával díszített keleti ortodox templom a regionális ortodox közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740233,
+                        -34.15388
+                  ]
+            },
+            {
+                  "name": "San Francisco Javier",
+                  "text": "A Xavéri Szent Ferencnek szentelt keresztény templom fontos spirituális gyülekezőhelyként működik a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.728172,
+                        -34.188896
+                  ]
+            },
+            {
+                  "name": "Parroquia San Josá Obrero",
+                  "text": "A Munkás Szent Józsefnek szentelt keresztény plébániatemplom aktívan támogatja a környékbeli családokat, és rendszeres vallási istentiszteleteknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.734207,
+                        -34.185284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Regional de Rancagua",
+                  "text": "Museo Regional de Rancagua este un muzeu de patrimoniu găzduit într-o casă colonială tradițională, cu coridoare și curți caracteristice.",
+                  "category": "museum",
+                  "coords": [
+                        -70.741644,
+                        -34.173426
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "Iglesia de la Merced este un lăcaș de cult istoric din Rancagua, remarcat pentru arhitectura sa din epoca colonială.",
+                  "category": "religious",
+                  "coords": [
+                        -70.740171,
+                        -34.169033
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Rancagua",
+                  "text": "Casa de la Cultura de Rancagua este un centru de arte situat în fosta casă a moșiei „El Puente”, servind drept centru pentru evenimentele culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.741699,
+                        -34.175525
+                  ]
+            },
+            {
+                  "name": "Plaza de los Héroes",
+                  "text": "Plaza de los Héroes este o piață centrală din Rancagua, cunoscută pentru aspectul său istoric și monumentele semnificative.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740757,
+                        -34.170286
+                  ]
+            },
+            {
+                  "name": "Teatro Regional Lucho Gatica",
+                  "text": "Teatro Regional Lucho Gatica este un teatru modern din Rancagua, care găzduiește o varietate de evenimente regionale de arte ale spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.740617,
+                        -34.175591
+                  ]
+            },
+            {
+                  "name": "Parque Safari de Rancagua",
+                  "text": "Parque Safari de Rancagua este o grădină zoologică extinsă care oferă incinte interactive pentru animale sălbatice și experiențe de safari.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.802502,
+                        -34.184009
+                  ]
+            },
+            {
+                  "name": "Casona San Joaquin de los Mayos",
+                  "text": "Acest muzeu amenajat într-un conac tradițional expune moștenirea culturală locală din regiunea Rancagua.",
+                  "category": "museum",
+                  "coords": [
+                        -70.714785,
+                        -34.199471
+                  ]
+            },
+            {
+                  "name": "Centro Español de Rancagua",
+                  "text": "Acest centru cultural și muzeu evidențiază moștenirea arhitecturală și istorică spaniolă a orașului Rancagua.",
+                  "category": "museum",
+                  "coords": [
+                        -70.752182,
+                        -34.159129
+                  ]
+            },
+            {
+                  "name": "Castillo Butrón",
+                  "text": "Această structură impresionantă asemănătoare unui castel servește drept punct de reper arhitectural unic în zona Rancagua.",
+                  "category": "castle",
+                  "coords": [
+                        -70.730513,
+                        -34.161021
+                  ]
+            },
+            {
+                  "name": "Pasaje Trenova",
+                  "text": "Acest pasaj urban istoric servește ca monument civic ce reflectă peisajele stradale tradiționale din Rancagua.",
+                  "category": "historical",
+                  "coords": [
+                        -70.747431,
+                        -34.174313
+                  ]
+            },
+            {
+                  "name": "Teatro Olivar",
+                  "text": "Acest spațiu pentru artele spectacolului găzduiește evenimente culturale locale și producții teatrale în zona Olivar de lângă Rancagua.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.81809,
+                        -34.21015
+                  ]
+            },
+            {
+                  "name": "Teatro San Martín",
+                  "text": "Dedicat artelor dramatice, acest teatru municipal pune în scenă o varietate de spectacole live pentru comunitatea din Rancagua.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.74658,
+                        -34.170289
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Estadio Marista",
+                  "text": "Situat în incinta stadionului, acest amfiteatru în aer liber găzduiește evenimente culturale și de divertisment mari în spațiu deschis.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.694003,
+                        -34.167251
+                  ]
+            },
+            {
+                  "name": "Casa del Arte",
+                  "text": "Funcționând ca un centru cultural vibrant, această locație intimă se concentrează pe punerea în scenă a pieselor locale și a adunărilor artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.738327,
+                        -34.173956
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de La Merced",
+                  "text": "Această capelă liniștită a ordinului mercedar servește drept centru spiritual și lăcaș de cult local în zona Rancagua.",
+                  "category": "religious",
+                  "coords": [
+                        -70.877076,
+                        -34.22284
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Elena del Molino",
+                  "text": "Strâns legată de așezarea morii locale, această capelă religioasă oferă un spațiu liniștit pentru rugăciune în comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -70.804318,
+                        -34.224637
+                  ]
+            },
+            {
+                  "name": "IMPCH",
+                  "text": "Această clădire a Bisericii Metodiste Penticostale adună congregația protestantă locală pentru închinare regulată și părtășie.",
+                  "category": "religious",
+                  "coords": [
+                        -70.803209,
+                        -34.215322
+                  ]
+            },
+            {
+                  "name": "Capilla Rincón de Abra",
+                  "text": "Situată într-o zonă izolată, această capelă rurală deservește nevoile spirituale ale comunității Rincón de Abra.",
+                  "category": "religious",
+                  "coords": [
+                        -70.862942,
+                        -34.247776
+                  ]
+            },
+            {
+                  "name": "LDS",
+                  "text": "Funcționând ca o casă de adunare locală, această unitate a Sfinților din Zilele din Urmă oferă un spațiu pentru închinare și programe comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        -70.745653,
+                        -34.161225
+                  ]
+            },
+            {
+                  "name": "Salon de Los Testigos de Jeohvá",
+                  "text": "Această Sală a Regatului locală este dedicată întâlnirilor religioase și studiilor scripturale ale Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -70.804036,
+                        -34.210054
+                  ]
+            },
+            {
+                  "name": "Templo Testigos de Jehová",
+                  "text": "Funcționând ca o Sală a Regatului centrală, această facilitate adună congregația locală a Martorilor lui Iehova pentru închinare regulată.",
+                  "category": "religious",
+                  "coords": [
+                        -70.717902,
+                        -34.177369
+                  ]
+            },
+            {
+                  "name": "Ipetri",
+                  "text": "Această locație religioasă protestantă găzduiește slujbe de închinare evanghelică vibrante pentru congregația sa locală din zona Rancagua.",
+                  "category": "religious",
+                  "coords": [
+                        -70.732922,
+                        -34.161427
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Caracterizată prin arhitectura sa modernă distinctă, această casă de adunare reunește comunitatea locală a Sfinților din Zilele din Urmă.",
+                  "category": "religious",
+                  "coords": [
+                        -70.730348,
+                        -34.152203
+                  ]
+            },
+            {
+                  "name": "Ce Ele!",
+                  "text": "Această piață locală plină de viață oferă un mediu comercial vibrant, plin de bunuri de zi cu zi și produse regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.725197,
+                        -34.182269
+                  ]
+            },
+            {
+                  "name": "Vega Baquedano",
+                  "text": "Funcționând ca o piață agricolă tradițională, acest centru aglomerat aprovizionează orașul cu produse locale proaspete și mărfuri en-gros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.769781,
+                        -34.163432
+                  ]
+            },
+            {
+                  "name": "Olivar Kids",
+                  "text": "Dispunând de zone de joacă dedicate, această atracție de agrement pentru familii oferă divertisment și activități pentru copiii din zona Olivar.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.805168,
+                        -34.215789
+                  ]
+            },
+            {
+                  "name": "Mural más grande de Chile",
+                  "text": "Întinzându-se pe o fațadă urbană masivă, această lucrare de artă publică impresionantă este celebrată drept cea mai mare pictură murală din Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.755829,
+                        -34.167228
+                  ]
+            },
+            {
+                  "name": "Iglesia San Luis Orione",
+                  "text": "Dedicată Sfântului Luigi Orione, această biserică creștină oferă un spațiu pentru închinare și susține inițiativele caritabile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.829265,
+                        -34.180168
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado Corazón De Jesus",
+                  "text": "Dedicată Inimii Sacre, această capelă creștină de cartier oferă un sanctuar liniștit pentru rugăciune zilnică și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.758361,
+                        -34.206851
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Servind drept piatră de temelie a credinței, această biserică parohială creștină locală coordonează ceremoniile religioase pentru cartierul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.713013,
+                        -34.177763
+                  ]
+            },
+            {
+                  "name": "Salón del reino de los testigos de Jehová",
+                  "text": "Această Sală a Regatului servește drept loc de întâlnire pentru Martorii lui Iehova pentru a se angaja în discursuri biblice și planificarea lucrării de predicare.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740898,
+                        -34.149186
+                  ]
+            },
+            {
+                  "name": "Iglesia Ortodoxa San Jorge",
+                  "text": "Dedicată Sfântului Gheorghe, această biserică creștin-ortodoxă este împodobită cu iconografie tradițională și deservește comunitatea ortodoxă regională.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740233,
+                        -34.15388
+                  ]
+            },
+            {
+                  "name": "San Francisco Javier",
+                  "text": "Dedicată Sfântului Francisc Xavier, această biserică creștină funcționează ca un loc important de adunare spirituală pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.728172,
+                        -34.188896
+                  ]
+            },
+            {
+                  "name": "Parroquia San Josá Obrero",
+                  "text": "Dedicată Sfântului Iosif Muncitorul, această biserică parohială creștină sprijină activ familiile din cartier și găzduiește slujbe religioase regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.734207,
+                        -34.185284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Regional de Rancagua",
+                  "text": "Museo Regional de Rancagua is a heritage museum housed in a traditional colonial home with characteristic corridors and courtyards.",
+                  "category": "museum",
+                  "coords": [
+                        -70.741644,
+                        -34.173426
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "Iglesia de la Merced is a historic place of worship in Rancagua noted for its colonial-era architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -70.740171,
+                        -34.169033
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Rancagua",
+                  "text": "Casa de la Cultura de Rancagua is an arts centre occupying the former \"El Puente\" estate house, serving as a hub for local cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.741699,
+                        -34.175525
+                  ]
+            },
+            {
+                  "name": "Plaza de los Héroes",
+                  "text": "Plaza de los Héroes is a central attraction square in Rancagua, known for its historic layout and significant monuments.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740757,
+                        -34.170286
+                  ]
+            },
+            {
+                  "name": "Teatro Regional Lucho Gatica",
+                  "text": "Teatro Regional Lucho Gatica is a modern theatre venue in Rancagua hosting a variety of regional performing arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.740617,
+                        -34.175591
+                  ]
+            },
+            {
+                  "name": "Parque Safari de Rancagua",
+                  "text": "Parque Safari de Rancagua is an extensive zoo park in Rancagua offering interactive wildlife enclosures and safari experiences.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.802502,
+                        -34.184009
+                  ]
+            },
+            {
+                  "name": "Casona San Joaquin de los Mayos",
+                  "text": "This traditional estate-house museum exhibits local cultural heritage within the Rancagua region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.714785,
+                        -34.199471
+                  ]
+            },
+            {
+                  "name": "Centro Español de Rancagua",
+                  "text": "This cultural center and museum highlights the Spanish architectural and historical heritage of Rancagua.",
+                  "category": "museum",
+                  "coords": [
+                        -70.752182,
+                        -34.159129
+                  ]
+            },
+            {
+                  "name": "Castillo Butrón",
+                  "text": "This striking castle-like structure serves as a unique architectural landmark in the Rancagua area.",
+                  "category": "castle",
+                  "coords": [
+                        -70.730513,
+                        -34.161021
+                  ]
+            },
+            {
+                  "name": "Pasaje Trenova",
+                  "text": "This historic urban passage serves as a civic monument reflecting the traditional streetscapes of Rancagua.",
+                  "category": "historical",
+                  "coords": [
+                        -70.747431,
+                        -34.174313
+                  ]
+            },
+            {
+                  "name": "Teatro Olivar",
+                  "text": "This performing arts venue hosts local cultural events and theatrical productions in the Olivar area near Rancagua.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.81809,
+                        -34.21015
+                  ]
+            },
+            {
+                  "name": "Teatro San Martín",
+                  "text": "Dedicated to the dramatic arts, this city theatre stages a variety of live performances for the Rancagua community.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.74658,
+                        -34.170289
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Estadio Marista",
+                  "text": "Situated within the stadium grounds, this open-air amphitheater hosts large outdoor cultural and entertainment events.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.694003,
+                        -34.167251
+                  ]
+            },
+            {
+                  "name": "Casa del Arte",
+                  "text": "Functioning as a vibrant cultural hub, this intimate venue focuses on staging local plays and artistic gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.738327,
+                        -34.173956
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de La Merced",
+                  "text": "This tranquil Mercedarian chapel serves as a spiritual center and local place of worship in the Rancagua area.",
+                  "category": "religious",
+                  "coords": [
+                        -70.877076,
+                        -34.22284
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Elena del Molino",
+                  "text": "Closely tied to the local mill settlement, this religious chapel provides a peaceful space for prayer in the community.",
+                  "category": "religious",
+                  "coords": [
+                        -70.804318,
+                        -34.224637
+                  ]
+            },
+            {
+                  "name": "IMPCH",
+                  "text": "This Methodist Pentecostal Church building gathers the local Protestant congregation for regular worship and fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        -70.803209,
+                        -34.215322
+                  ]
+            },
+            {
+                  "name": "Capilla Rincón de Abra",
+                  "text": "Set in a secluded area, this rural chapel serves the spiritual needs of the Rincón de Abra community.",
+                  "category": "religious",
+                  "coords": [
+                        -70.862942,
+                        -34.247776
+                  ]
+            },
+            {
+                  "name": "LDS",
+                  "text": "Operating as a local meetinghouse, this Latter-day Saints facility offers a space for worship and community programs.",
+                  "category": "religious",
+                  "coords": [
+                        -70.745653,
+                        -34.161225
+                  ]
+            },
+            {
+                  "name": "Salon de Los Testigos de Jeohvá",
+                  "text": "This local Kingdom Hall is dedicated to the religious meetings and scriptural studies of Jehovah's Witnesses.",
+                  "category": "religious",
+                  "coords": [
+                        -70.804036,
+                        -34.210054
+                  ]
+            },
+            {
+                  "name": "Templo Testigos de Jehová",
+                  "text": "Functioning as a central Kingdom Hall, this facility gathers the local Jehovah's Witnesses congregation for regular worship.",
+                  "category": "religious",
+                  "coords": [
+                        -70.717902,
+                        -34.177369
+                  ]
+            },
+            {
+                  "name": "Ipetri",
+                  "text": "This Protestant religious venue hosts vibrant evangelical worship services for its local congregation in the Rancagua area.",
+                  "category": "religious",
+                  "coords": [
+                        -70.732922,
+                        -34.161427
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Characterized by its distinct modern architecture, this meetinghouse gathers the local Latter-day Saints community.",
+                  "category": "religious",
+                  "coords": [
+                        -70.730348,
+                        -34.152203
+                  ]
+            },
+            {
+                  "name": "Ce Ele!",
+                  "text": "This bustling local marketplace offers a lively commercial environment filled with everyday goods and regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.725197,
+                        -34.182269
+                  ]
+            },
+            {
+                  "name": "Vega Baquedano",
+                  "text": "Functioning as a traditional agricultural market, this busy hub supplies fresh local produce and wholesale goods to the city.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.769781,
+                        -34.163432
+                  ]
+            },
+            {
+                  "name": "Olivar Kids",
+                  "text": "Featuring dedicated play zones, this family-friendly recreational attraction provides entertainment and activities for children in the Olivar area.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.805168,
+                        -34.215789
+                  ]
+            },
+            {
+                  "name": "Mural más grande de Chile",
+                  "text": "Spanning a massive urban façade, this impressive public artwork is celebrated as the largest painted mural in Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.755829,
+                        -34.167228
+                  ]
+            },
+            {
+                  "name": "Iglesia San Luis Orione",
+                  "text": "Dedicated to Saint Luigi Orione, this Christian church provides a space for worship and supports local charitable initiatives.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.829265,
+                        -34.180168
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrado Corazón De Jesus",
+                  "text": "Devoted to the Sacred Heart, this neighborhood Christian chapel offers a quiet sanctuary for daily prayer and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.758361,
+                        -34.206851
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Serving as a cornerstone of faith, this local Christian parish church coordinates religious ceremonies for the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.713013,
+                        -34.177763
+                  ]
+            },
+            {
+                  "name": "Salón del reino de los testigos de Jehová",
+                  "text": "This Kingdom Hall serves as the meeting place for Jehovah's Witnesses to engage in Bible discourse and ministry planning.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740898,
+                        -34.149186
+                  ]
+            },
+            {
+                  "name": "Iglesia Ortodoxa San Jorge",
+                  "text": "Dedicated to Saint George, this Eastern Orthodox church is adorned with traditional iconography and serves the regional Orthodox community.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.740233,
+                        -34.15388
+                  ]
+            },
+            {
+                  "name": "San Francisco Javier",
+                  "text": "Dedicated to Francis Xavier, this Christian church functions as an important spiritual gathering place for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.728172,
+                        -34.188896
+                  ]
+            },
+            {
+                  "name": "Parroquia San Josá Obrero",
+                  "text": "Devoted to Saint Joseph the Worker, this Christian parish church actively supports neighborhood families and hosts regular religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.734207,
+                        -34.185284
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CL-LI",
     coords: [-70.781, -34.205],
@@ -120,7 +2442,1276 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Premier parc safari du Chili.", "Dispose d'un département de sauvetage et de réhabilitation des animaux."],
     }, image: "/poi-images/cl-parque-safari-rancagua-life-v2.webp"},
   {
-    id: "cl-fantasilandia-life-v2",
+    id: "cl-fantasilandia-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque del Cómic",
+                  "text": "Diese einzigartige Freiluftgalerie verfügt über farbenfrohe Skulpturen und Wandmalereien, die ikonische Comicfiguren feiern.",
+                  "category": "museum",
+                  "coords": [
+                        -70.650555,
+                        -33.486504
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Militar",
+                  "text": "In einem großen historischen Gebäude untergebracht, chronologisiert dieses bemerkenswerte Museum die Militärgeschichte der Nation.",
+                  "category": "museum",
+                  "coords": [
+                        -70.656174,
+                        -33.457231
+                  ]
+            },
+            {
+                  "name": "Centro Nacional de Arte Contemporáneo de Los Cerrillos",
+                  "text": "In einem ehemaligen Flughafenterminal gelegen, zeigt dieses nationale Zentrum zeitgenössische bildende Kunst und moderne Installationen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.704013,
+                        -33.495053
+                  ]
+            },
+            {
+                  "name": "Museo Nacional Aeronáutico y del Espacio",
+                  "text": "Dieses weitläufige Nationalmuseum bewahrt die Geschichte der Luftfahrt mit einer großen Sammlung historischer Flugzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        -70.696844,
+                        -33.487408
+                  ]
+            },
+            {
+                  "name": "Palacio Hindustán",
+                  "text": "Dieser historische Palast aus dem Jahr 1916 zeigt einen ausgeprägten architektonischen Stil aus dem frühen 20. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        -70.668816,
+                        -33.45728
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel Arcángel",
+                  "text": "Diese bemerkenswerte katholische Kirche besticht durch ihre großartige Architektur und dient als wichtiges spirituelles Zentrum für die Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -70.649557,
+                        -33.48648
+                  ]
+            },
+            {
+                  "name": "Teatro Huemul",
+                  "text": "Dieses bemerkenswerte Theater ist ein bekannter Veranstaltungsort für darstellende Künste in seinem historischen Viertel.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.651421,
+                        -33.474322
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Lucrecia",
+                  "text": "Dieses anerkannte religiöse Heiligtum dient als prominenter Ort der Anbetung und des Gemeindezusammenhalts.",
+                  "category": "religious",
+                  "coords": [
+                        -70.651029,
+                        -33.476236
+                  ]
+            },
+            {
+                  "name": "Teatro La Cúpula",
+                  "text": "Geprägt von seiner markanten Kuppelstruktur, beherbergt dieser bekannte Veranstaltungsort eine Vielzahl kultureller Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.658459,
+                        -33.466336
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Lo Valledor",
+                  "text": "Als bedeutender Großmarkt ist dieses weitläufige Handelszentrum ein Knotenpunkt für frische landwirtschaftliche Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.683732,
+                        -33.482252
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Perpetuo Socorro",
+                  "text": "Diese bemerkenswerte Basilika besticht durch ihre markante Architektur und dient als bedeutendes katholisches Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        -70.675641,
+                        -33.459117
+                  ]
+            },
+            {
+                  "name": "Parque Bicentenario Cerrillos",
+                  "text": "Dieser im Jahr 2011 eröffnete weitläufige Park bietet riesige Erholungsgrünflächen, die auf dem Gelände eines ehemaligen Flughafens angelegt wurden.",
+                  "category": "park",
+                  "coords": [
+                        -70.699504,
+                        -33.493994
+                  ]
+            },
+            {
+                  "name": "Parque André Jarlán",
+                  "text": "Dieser anerkannte Stadtpark bietet von Bäumen gesäumte Spazierwege und Erholungsgebiete für die umliegende Nachbarschaft.",
+                  "category": "park",
+                  "coords": [
+                        -70.669778,
+                        -33.485295
+                  ]
+            },
+            {
+                  "name": "Parque Pierre Dubois",
+                  "text": "Dieser 2018 angelegte, moderne Park verfügt über landschaftlich gestaltete öffentliche Räume für die Erholung der Gemeinde.",
+                  "category": "park",
+                  "coords": [
+                        -70.671281,
+                        -33.487908
+                  ]
+            },
+            {
+                  "name": "Parque Llano Subercaseaux",
+                  "text": "Dieser lange, geradlinige Stadtpark fungiert als markanter grüner Korridor entlang einer großen Prachtstraße.",
+                  "category": "park",
+                  "coords": [
+                        -70.650187,
+                        -33.484996
+                  ]
+            },
+            {
+                  "name": "Plaza El Llano",
+                  "text": "Dieser anerkannte städtische Platz dient als begrünter Treffpunkt, der mit Bänken und lokalen Denkmälern geschmückt ist.",
+                  "category": "park",
+                  "coords": [
+                        -70.652012,
+                        -33.482086
+                  ]
+            },
+            {
+                  "name": "Cerro Chino",
+                  "text": "Dieser anerkannte chinesische Garten bietet traditionelle Architekturelemente und ruhige Wasserspiele inmitten einer städtischen Umgebung.",
+                  "category": "park",
+                  "coords": [
+                        -70.66127,
+                        -33.469531
+                  ]
+            },
+            {
+                  "name": "Parque Inundable Víctor Jara",
+                  "text": "Dieser einzigartig gestaltete Hochwasserschutzpark kombiniert wichtige Wasserinfrastruktur mit zugänglichen öffentlichen Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        -70.660071,
+                        -33.476135
+                  ]
+            },
+            {
+                  "name": "Parque O'Higgins",
+                  "text": "Dieser weitläufige und kulturell bedeutsame öffentliche Park aus dem Jahr 1873 ist ein zentraler Knotenpunkt für große nationale Feste.",
+                  "category": "park",
+                  "coords": [
+                        -70.660467,
+                        -33.464298
+                  ]
+            },
+            {
+                  "name": "Parque Lo Errázuriz",
+                  "text": "Dieser 1987 gegründete, bekannte Park bietet den Anwohnern umfangreiche Freizeiteinrichtungen und einen alten Baumbestand.",
+                  "category": "park",
+                  "coords": [
+                        -70.703095,
+                        -33.477145
+                  ]
+            },
+            {
+                  "name": "Plaza Ercilla",
+                  "text": "Dieser etablierte öffentliche Platz bietet einen begrünten Ruheplatz mit gepflasterten Gehwegen an einer belebten Straßenkreuzung.",
+                  "category": "park",
+                  "coords": [
+                        -70.660272,
+                        -33.45748
+                  ]
+            },
+            {
+                  "name": "Parque Intercomunal Victor Jara",
+                  "text": "Dieser großflächige, gemeindeübergreifende Park zeichnet sich durch die Integration von Freizeitwegen und wichtigen Hochwasserschutzstrukturen aus.",
+                  "category": "park",
+                  "coords": [
+                        -70.636579,
+                        -33.479122
+                  ]
+            },
+            {
+                  "name": "Fantasilandia",
+                  "text": "Dieser beliebte und prominente Vergnügungspark bietet eine vielfältige Sammlung rasanter Achterbahnen und familienfreundlicher Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.662692,
+                        -33.460025
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de Pedro Aguirre Cerda",
+                  "text": "Dieses bürgerliche Gebäude, das als Rathaus dient, ist das Verwaltungszentrum für kommunale Aufgaben und öffentliche Dienstleistungen.",
+                  "category": "historical",
+                  "coords": [
+                        -70.663958,
+                        -33.488206
+                  ]
+            },
+            {
+                  "name": "Insectario del Parque",
+                  "text": "Dieses spezialisierte entomologische Museum zeigt eine faszinierende Auswahl präparierter Insektenpräparate in lehrreichen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.657976,
+                        -33.462341
+                  ]
+            },
+            {
+                  "name": "Museo Patrimonial de Salud",
+                  "text": "Dieses einzigartige historische Museum dokumentiert die Entwicklung von Gesundheitspraktiken und Medizingeschichte durch seine historischen Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.64118,
+                        -33.461404
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario del Barrio Matta Sur",
+                  "text": "Dieses auf die Geschichte der lokalen Nachbarschaft ausgerichtete Gemeindemuseum bewahrt kulturelle Artefakte und Geschichten der Stadtentwicklung auf.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633049,
+                        -33.466145
+                  ]
+            },
+            {
+                  "name": "Iglesia Santísima Trinidad",
+                  "text": "Dieses bemerkenswerte Gotteshaus besticht durch seine traditionelle Kirchenarchitektur und dient als Eckpfeiler für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -70.644324,
+                        -33.469162
+                  ]
+            },
+            {
+                  "name": "Museo Geológico Sernageomin",
+                  "text": "Dieses spezialisierte geologische Museum stellt bedeutende Gesteins-, Mineralien- und Fossiliensammlungen aus, die die dynamische Erdgeschichte der Region beleuchten.",
+                  "category": "museum",
+                  "coords": [
+                        -70.619066,
+                        -33.474458
+                  ]
+            },
+            {
+                  "name": "Galerí AFA",
+                  "text": "Diese zeitgenössische Kunstgalerie ist dafür bekannt, avantgardistische Werke auszustellen und aufstrebende lokale Künstler zu unterstützen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.64317,
+                        -33.472691
+                  ]
+            },
+            {
+                  "name": "Galería La Curtiembre",
+                  "text": "Diese in einem markanten architektonischen Raum untergebrachte Galerie zeigt bildende Kunst und lebendige kulturelle Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.639996,
+                        -33.474632
+                  ]
+            },
+            {
+                  "name": "Galería Metropolitana",
+                  "text": "Diese etablierte Galerie bietet einen dynamischen Raum für moderne bildende Kunst und konzentriert sich häufig auf gesellschaftlich engagierte und urban geprägte Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.665861,
+                        -33.48114
+                  ]
+            },
+            {
+                  "name": "Museo del Automóvil",
+                  "text": "Dieses engagierte Automobilmuseum verfügt über eine polierte Sammlung klassischer Oldtimer und beschreibt die Geschichte des motorisierten Verkehrs.",
+                  "category": "museum",
+                  "coords": [
+                        -70.680787,
+                        -33.465738
+                  ]
+            },
+            {
+                  "name": "Ex Maestranza de vías y obras",
+                  "text": "Diese markanten Ruinen ehemaliger Eisenbahnwerkstätten stehen als schlichtes Industriedenkmal für das Verkehrserbe der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -70.67487,
+                        -33.472959
+                  ]
+            },
+            {
+                  "name": "Ex Velódromo",
+                  "text": "Die baulichen Überreste dieses ehemaligen Velodroms dienen als greifbare Erinnerung an historische Radwettbewerbe und Sportveranstaltungen.",
+                  "category": "historical",
+                  "coords": [
+                        -70.679399,
+                        -33.475725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque del Cómic",
+                  "text": "Ez az egyedülálló szabadtéri galéria színes szobrokkal és falfestményekkel büszkélkedhet, amelyek ikonikus képregényfigurákat ünnepelnek.",
+                  "category": "museum",
+                  "coords": [
+                        -70.650555,
+                        -33.486504
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Militar",
+                  "text": "Egy nagyszerű műemléképületben kapott helyet ez a figyelemre méltó múzeum, amely a nemzet hadtörténetét örökíti meg.",
+                  "category": "museum",
+                  "coords": [
+                        -70.656174,
+                        -33.457231
+                  ]
+            },
+            {
+                  "name": "Centro Nacional de Arte Contemporáneo de Los Cerrillos",
+                  "text": "Az egykori repülőtéri terminálon található nemzeti központ kortárs képzőművészeti alkotásokat és modern installációkat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -70.704013,
+                        -33.495053
+                  ]
+            },
+            {
+                  "name": "Museo Nacional Aeronáutico y del Espacio",
+                  "text": "Ez a kiterjedt nemzeti múzeum a repülés történetét őrzi történelmi repülőgépek nagy gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        -70.696844,
+                        -33.487408
+                  ]
+            },
+            {
+                  "name": "Palacio Hindustán",
+                  "text": "Az 1916-ban épült történelmi palota a kora huszadik század jellegzetes építészeti stílusát mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -70.668816,
+                        -33.45728
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel Arcángel",
+                  "text": "Ez a figyelemre méltó katolikus templom grandiózus építészetével tűnik ki, és az egyházközség jelentős spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -70.649557,
+                        -33.48648
+                  ]
+            },
+            {
+                  "name": "Teatro Huemul",
+                  "text": "Ez a figyelemre méltó színház egy ismert előadóművészeti helyszín a történelmi negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.651421,
+                        -33.474322
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Lucrecia",
+                  "text": "Ez az elismert vallási szentély kiemelkedő istentiszteleti és közösségi gyülekezőhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -70.651029,
+                        -33.476236
+                  ]
+            },
+            {
+                  "name": "Teatro La Cúpula",
+                  "text": "A jellegzetes kupolás szerkezetéről ismert helyszín különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.658459,
+                        -33.466336
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Lo Valledor",
+                  "text": "Mint jelentős nagybani piac, ez a kiterjedt kereskedelmi központ a friss mezőgazdasági termékek fókuszpontja.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.683732,
+                        -33.482252
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Perpetuo Socorro",
+                  "text": "Ez a figyelemre méltó bazilika lenyűgöző építészettel rendelkezik, és jelentős katolikus istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -70.675641,
+                        -33.459117
+                  ]
+            },
+            {
+                  "name": "Parque Bicentenario Cerrillos",
+                  "text": "A 2011-ben megnyílt hatalmas park egy egykori repülőtér helyén épült, kiterjedt rekreációs zöldterületeket kínálva.",
+                  "category": "park",
+                  "coords": [
+                        -70.699504,
+                        -33.493994
+                  ]
+            },
+            {
+                  "name": "Parque André Jarlán",
+                  "text": "Ez az elismert városi park fákkal övezett sétányokat és rekreációs területeket biztosít a környező negyed számára.",
+                  "category": "park",
+                  "coords": [
+                        -70.669778,
+                        -33.485295
+                  ]
+            },
+            {
+                  "name": "Parque Pierre Dubois",
+                  "text": "A 2018-ban létesített modern parkosított közösségi terek a közösségi rekreációt és a szabadtéri tevékenységeket szolgálják.",
+                  "category": "park",
+                  "coords": [
+                        -70.671281,
+                        -33.487908
+                  ]
+            },
+            {
+                  "name": "Parque Llano Subercaseaux",
+                  "text": "Ez a hosszú, lineáris városi park kiemelkedő zöld folyosóként működik egy forgalmas városi sugárút mentén.",
+                  "category": "park",
+                  "coords": [
+                        -70.650187,
+                        -33.484996
+                  ]
+            },
+            {
+                  "name": "Plaza El Llano",
+                  "text": "Ez az elismert városi tér fákkal árnyékolt gyülekezőhelyként szolgál, padokkal és helyi emlékművekkel díszítve.",
+                  "category": "park",
+                  "coords": [
+                        -70.652012,
+                        -33.482086
+                  ]
+            },
+            {
+                  "name": "Cerro Chino",
+                  "text": "Ez az elismert kínai kert hagyományos építészeti elemekkel és nyugodt vízfelületekkel rendelkezik a városi környezetben.",
+                  "category": "park",
+                  "coords": [
+                        -70.66127,
+                        -33.469531
+                  ]
+            },
+            {
+                  "name": "Parque Inundable Víctor Jara",
+                  "text": "Ez az egyedi tervezésű árvízvédelmi park egyesíti a létfontosságú vízgazdálkodási infrastruktúrát a hozzáférhető közösségi zöldterületekkel.",
+                  "category": "park",
+                  "coords": [
+                        -70.660071,
+                        -33.476135
+                  ]
+            },
+            {
+                  "name": "Parque O'Higgins",
+                  "text": "Az 1873-ból származó kiterjedt és kulturálisan jelentős közpark a nagyobb nemzeti ünnepségek központi helyszíne.",
+                  "category": "park",
+                  "coords": [
+                        -70.660467,
+                        -33.464298
+                  ]
+            },
+            {
+                  "name": "Parque Lo Errázuriz",
+                  "text": "Az 1987-ben alapított ismert park kiterjedt rekreációs létesítményeket és érett fákat kínál a helyi lakosok számára.",
+                  "category": "park",
+                  "coords": [
+                        -70.703095,
+                        -33.477145
+                  ]
+            },
+            {
+                  "name": "Plaza Ercilla",
+                  "text": "Ez a kialakult köztér lombos pihenőhelyet biztosít kövezett sétányokkal egy forgalmas városi kereszteződésben.",
+                  "category": "park",
+                  "coords": [
+                        -70.660272,
+                        -33.45748
+                  ]
+            },
+            {
+                  "name": "Parque Intercomunal Victor Jara",
+                  "text": "Ez a nagyszabású, települések közötti park a rekreációs útvonalak és a létfontosságú árvízvédelmi építmények integrációjával tűnik ki.",
+                  "category": "park",
+                  "coords": [
+                        -70.636579,
+                        -33.479122
+                  ]
+            },
+            {
+                  "name": "Fantasilandia",
+                  "text": "Ez a népszerű és kiemelkedő vidámpark izgalmas hullámvasutak és családbarát látványosságok változatos gyűjteményét kínálja.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.662692,
+                        -33.460025
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de Pedro Aguirre Cerda",
+                  "text": "A helyi városházaként szolgáló polgári épület az önkormányzati műveletek és közszolgáltatások adminisztratív központja.",
+                  "category": "historical",
+                  "coords": [
+                        -70.663958,
+                        -33.488206
+                  ]
+            },
+            {
+                  "name": "Insectario del Parque",
+                  "text": "Ez a speciális rovartani múzeum felkészített rovarpéldányok lenyűgöző választékát mutatja be oktatási kiállításokon.",
+                  "category": "museum",
+                  "coords": [
+                        -70.657976,
+                        -33.462341
+                  ]
+            },
+            {
+                  "name": "Museo Patrimonial de Salud",
+                  "text": "Ez az egyedülálló örökségi múzeum a történelmi gyűjteményein keresztül mutatja be az egészségügyi gyakorlatok és az orvostörténet fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        -70.64118,
+                        -33.461404
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario del Barrio Matta Sur",
+                  "text": "A helyi negyed történetére fókuszáló közösségi múzeum megőrzi a kulturális leleteket és a városfejlesztés történeteit.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633049,
+                        -33.466145
+                  ]
+            },
+            {
+                  "name": "Iglesia Santísima Trinidad",
+                  "text": "Ez a figyelemre méltó istentiszteleti hely hagyományos egyházi építészettel rendelkezik, és a helyi gyülekezet alappilléreként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -70.644324,
+                        -33.469162
+                  ]
+            },
+            {
+                  "name": "Museo Geológico Sernageomin",
+                  "text": "Ez a speciális geológiai múzeum jelentős kőzet-, ásvány- és kövületgyűjteményeket állít ki, kiemelve a régió dinamikus földtörténetét.",
+                  "category": "museum",
+                  "coords": [
+                        -70.619066,
+                        -33.474458
+                  ]
+            },
+            {
+                  "name": "Galerí AFA",
+                  "text": "Ez a kortárs művészeti galéria az avantgárd művek kiállításáról és a feltörekvő helyi művészek támogatásáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        -70.64317,
+                        -33.472691
+                  ]
+            },
+            {
+                  "name": "Galería La Curtiembre",
+                  "text": "A különleges építészeti térben helyet kapó galéria vizuális művészeteket és élénk kulturális kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.639996,
+                        -33.474632
+                  ]
+            },
+            {
+                  "name": "Galería Metropolitana",
+                  "text": "Ez a megalapozott galéria dinamikus teret biztosít a modern vizuális művészetek számára, gyakran a társadalmilag elkötelezett és városi témájú kiállításokra összpontosítva.",
+                  "category": "museum",
+                  "coords": [
+                        -70.665861,
+                        -33.48114
+                  ]
+            },
+            {
+                  "name": "Museo del Automóvil",
+                  "text": "Ez a dedikált autómúzeum klasszikus veterán autók csiszolt gyűjteményével büszkélkedhet, és bemutatja a motoros közlekedés történetét.",
+                  "category": "museum",
+                  "coords": [
+                        -70.680787,
+                        -33.465738
+                  ]
+            },
+            {
+                  "name": "Ex Maestranza de vías y obras",
+                  "text": "Az egykori vasúti műhelyek kiemelkedő romjai ipari műemlékként őrzik a térség közlekedési örökségét.",
+                  "category": "historical",
+                  "coords": [
+                        -70.67487,
+                        -33.472959
+                  ]
+            },
+            {
+                  "name": "Ex Velódromo",
+                  "text": "Ennek az egykori velodromnak a szerkezeti maradványai a történelmi kerékpárversenyek és sportesemények kézzelfogható emlékeiként szolgálnak.",
+                  "category": "historical",
+                  "coords": [
+                        -70.679399,
+                        -33.475725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque del Cómic",
+                  "text": "Această galerie unică în aer liber prezintă sculpturi colorate și picturi murale care celebrează personaje iconice de benzi desenate.",
+                  "category": "museum",
+                  "coords": [
+                        -70.650555,
+                        -33.486504
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Militar",
+                  "text": "Găzduit într-o grandioasă clădire de patrimoniu, acest muzeu notabil face cronica istoriei militare a națiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -70.656174,
+                        -33.457231
+                  ]
+            },
+            {
+                  "name": "Centro Nacional de Arte Contemporáneo de Los Cerrillos",
+                  "text": "Situat într-un fost terminal de aeroport, acest centru național expune arte vizuale contemporane și instalații moderne.",
+                  "category": "museum",
+                  "coords": [
+                        -70.704013,
+                        -33.495053
+                  ]
+            },
+            {
+                  "name": "Museo Nacional Aeronáutico y del Espacio",
+                  "text": "Acest vast muzeu național păstrează istoria aviației cu o mare colecție de aeronave istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -70.696844,
+                        -33.487408
+                  ]
+            },
+            {
+                  "name": "Palacio Hindustán",
+                  "text": "Construit în 1916, acest palat istoric prezintă un stil arhitectural distinct de la începutul secolului al XX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -70.668816,
+                        -33.45728
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel Arcángel",
+                  "text": "Această biserică catolică notabilă se remarcă prin arhitectura sa grandioasă și servește ca un important centru spiritual pentru parohie.",
+                  "category": "religious",
+                  "coords": [
+                        -70.649557,
+                        -33.48648
+                  ]
+            },
+            {
+                  "name": "Teatro Huemul",
+                  "text": "Acest teatru notabil este un spațiu cunoscut pentru artele spectacolului în cartierul său istoric.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.651421,
+                        -33.474322
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Lucrecia",
+                  "text": "Acest sanctuar religios recunoscut servește ca un loc proeminent de cult și punct de adunare a comunității.",
+                  "category": "religious",
+                  "coords": [
+                        -70.651029,
+                        -33.476236
+                  ]
+            },
+            {
+                  "name": "Teatro La Cúpula",
+                  "text": "Caracterizat prin structura sa distinctivă cu cupolă, acest loc binecunoscut găzduiește o varietate de spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.658459,
+                        -33.466336
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Lo Valledor",
+                  "text": "Ca o piață angro semnificativă, acest centru comercial extins este un punct focal pentru produsele agricole proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.683732,
+                        -33.482252
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Perpetuo Socorro",
+                  "text": "Această bazilică notabilă se mândrește cu o arhitectură impresionantă și servește ca un important loc de cult catolic.",
+                  "category": "religious",
+                  "coords": [
+                        -70.675641,
+                        -33.459117
+                  ]
+            },
+            {
+                  "name": "Parque Bicentenario Cerrillos",
+                  "text": "Deschis în 2011, acest parc vast oferă spații verzi de recreere întinse, construite pe locul unui fost aeroport.",
+                  "category": "park",
+                  "coords": [
+                        -70.699504,
+                        -33.493994
+                  ]
+            },
+            {
+                  "name": "Parque André Jarlán",
+                  "text": "Acest parc urban recunoscut oferă alei mărginite de copaci și zone de recreere pentru cartierul înconjurător.",
+                  "category": "park",
+                  "coords": [
+                        -70.669778,
+                        -33.485295
+                  ]
+            },
+            {
+                  "name": "Parque Pierre Dubois",
+                  "text": "Înființat în 2018, acest parc modern dispune de spații publice amenajate pentru recreerea comunității și activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        -70.671281,
+                        -33.487908
+                  ]
+            },
+            {
+                  "name": "Parque Llano Subercaseaux",
+                  "text": "Acest parc urban liniar și lung acționează ca un coridor verde proeminent de-a lungul unui bulevard major al orașului.",
+                  "category": "park",
+                  "coords": [
+                        -70.650187,
+                        -33.484996
+                  ]
+            },
+            {
+                  "name": "Plaza El Llano",
+                  "text": "Această piață urbană recunoscută servește ca un spațiu de adunare înfrunzit, ornat cu bănci și monumente locale.",
+                  "category": "park",
+                  "coords": [
+                        -70.652012,
+                        -33.482086
+                  ]
+            },
+            {
+                  "name": "Cerro Chino",
+                  "text": "Această grădină chinezească recunoscută prezintă elemente arhitecturale tradiționale și aranjamente acvatice liniștite în mijlocul unui decor urban.",
+                  "category": "park",
+                  "coords": [
+                        -70.66127,
+                        -33.469531
+                  ]
+            },
+            {
+                  "name": "Parque Inundable Víctor Jara",
+                  "text": "Acest parc de control al inundațiilor cu design unic combină infrastructura esențială de gestionare a apei cu spații verzi publice accesibile.",
+                  "category": "park",
+                  "coords": [
+                        -70.660071,
+                        -33.476135
+                  ]
+            },
+            {
+                  "name": "Parque O'Higgins",
+                  "text": "Datând din 1873, acest parc public vast și semnificativ din punct de vedere cultural este un centru pentru marile festivități naționale.",
+                  "category": "park",
+                  "coords": [
+                        -70.660467,
+                        -33.464298
+                  ]
+            },
+            {
+                  "name": "Parque Lo Errázuriz",
+                  "text": "Înființat în 1987, acest parc binecunoscut oferă facilități de recreere extinse și copaci maturi pentru rezidenții locali.",
+                  "category": "park",
+                  "coords": [
+                        -70.703095,
+                        -33.477145
+                  ]
+            },
+            {
+                  "name": "Plaza Ercilla",
+                  "text": "Această piață publică stabilită oferă un loc de odihnă înverzit, cu alei pavate, într-o intersecție urbană aglomerată.",
+                  "category": "park",
+                  "coords": [
+                        -70.660272,
+                        -33.45748
+                  ]
+            },
+            {
+                  "name": "Parque Intercomunal Victor Jara",
+                  "text": "Acest parc inter-comunal de mari dimensiuni se distinge prin integrarea aleilor de agrement și a structurilor vitale de apărare împotriva inundațiilor.",
+                  "category": "park",
+                  "coords": [
+                        -70.636579,
+                        -33.479122
+                  ]
+            },
+            {
+                  "name": "Fantasilandia",
+                  "text": "Acest parc tematic popular și proeminent prezintă o colecție diversă de montagne rousse palpitante și atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.662692,
+                        -33.460025
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de Pedro Aguirre Cerda",
+                  "text": "Servind drept primărie locală, această clădire civică este centrul administrativ pentru operațiunile municipale și serviciile publice.",
+                  "category": "historical",
+                  "coords": [
+                        -70.663958,
+                        -33.488206
+                  ]
+            },
+            {
+                  "name": "Insectario del Parque",
+                  "text": "Acest muzeu entomologic specializat prezintă o gamă fascinantă de specimene de insecte montate în expoziții educative.",
+                  "category": "museum",
+                  "coords": [
+                        -70.657976,
+                        -33.462341
+                  ]
+            },
+            {
+                  "name": "Museo Patrimonial de Salud",
+                  "text": "Acest muzeu de patrimoniu unic prezintă evoluția practicilor de asistență medicală și istoria medicală prin colecțiile sale istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -70.64118,
+                        -33.461404
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario del Barrio Matta Sur",
+                  "text": "Concentrat pe istoria cartierului local, acest muzeu comunitar păstrează artefacte culturale și povești ale dezvoltării urbane.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633049,
+                        -33.466145
+                  ]
+            },
+            {
+                  "name": "Iglesia Santísima Trinidad",
+                  "text": "Acest loc de cult notabil se mândrește cu o arhitectură ecleziastică tradițională și servește ca piatră de temelie pentru enoriașii locali.",
+                  "category": "religious",
+                  "coords": [
+                        -70.644324,
+                        -33.469162
+                  ]
+            },
+            {
+                  "name": "Museo Geológico Sernageomin",
+                  "text": "Acest muzeu geologic specializat expune colecții semnificative de roci, minerale și fosile, subliniind istoria dinamică a pământului din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -70.619066,
+                        -33.474458
+                  ]
+            },
+            {
+                  "name": "Galerí AFA",
+                  "text": "Această galerie de artă contemporană este cunoscută pentru expunerea de lucrări avangardiste și pentru sprijinirea artiștilor locali emergenți.",
+                  "category": "museum",
+                  "coords": [
+                        -70.64317,
+                        -33.472691
+                  ]
+            },
+            {
+                  "name": "Galería La Curtiembre",
+                  "text": "Găzduită într-un spațiu arhitectural distinct, această galerie prezintă arte vizuale și expoziții culturale vibrante.",
+                  "category": "museum",
+                  "coords": [
+                        -70.639996,
+                        -33.474632
+                  ]
+            },
+            {
+                  "name": "Galería Metropolitana",
+                  "text": "Această galerie consacrată oferă un spațiu dinamic pentru artele vizuale moderne, concentrându-se adesea pe expoziții atractive din punct de vedere social și cu tematică urbană.",
+                  "category": "museum",
+                  "coords": [
+                        -70.665861,
+                        -33.48114
+                  ]
+            },
+            {
+                  "name": "Museo del Automóvil",
+                  "text": "Acest muzeu auto dedicat prezintă o colecție lustruită de mașini clasice de epocă și detaliază istoria transportului motorizat.",
+                  "category": "museum",
+                  "coords": [
+                        -70.680787,
+                        -33.465738
+                  ]
+            },
+            {
+                  "name": "Ex Maestranza de vías y obras",
+                  "text": "Aceste ruine proeminente ale fostelor ateliere feroviare reprezintă un monument industrial auster al patrimoniului de transport al zonei.",
+                  "category": "historical",
+                  "coords": [
+                        -70.67487,
+                        -33.472959
+                  ]
+            },
+            {
+                  "name": "Ex Velódromo",
+                  "text": "Rămășițele structurale ale acestui fost velodrom servesc ca o amintire tangibilă a competițiilor istorice de ciclism și a evenimentelor atletice.",
+                  "category": "historical",
+                  "coords": [
+                        -70.679399,
+                        -33.475725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque del Cómic",
+                  "text": "This unique open-air gallery features colorful sculptures and murals celebrating iconic comic strip characters.",
+                  "category": "museum",
+                  "coords": [
+                        -70.650555,
+                        -33.486504
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Militar",
+                  "text": "Housed in a grand heritage building, this notable museum chronicles the military history of the nation.",
+                  "category": "museum",
+                  "coords": [
+                        -70.656174,
+                        -33.457231
+                  ]
+            },
+            {
+                  "name": "Centro Nacional de Arte Contemporáneo de Los Cerrillos",
+                  "text": "Located in a former airport terminal, this national center exhibits contemporary visual arts and modern installations.",
+                  "category": "museum",
+                  "coords": [
+                        -70.704013,
+                        -33.495053
+                  ]
+            },
+            {
+                  "name": "Museo Nacional Aeronáutico y del Espacio",
+                  "text": "This expansive national museum preserves the history of aviation with a large collection of historic aircraft.",
+                  "category": "museum",
+                  "coords": [
+                        -70.696844,
+                        -33.487408
+                  ]
+            },
+            {
+                  "name": "Palacio Hindustán",
+                  "text": "Built in 1916, this historic palace displays distinct architectural styling from the early twentieth century.",
+                  "category": "historical",
+                  "coords": [
+                        -70.668816,
+                        -33.45728
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel Arcángel",
+                  "text": "This notable Catholic church stands out with its grand architecture and serves as a major spiritual center for the parish.",
+                  "category": "religious",
+                  "coords": [
+                        -70.649557,
+                        -33.48648
+                  ]
+            },
+            {
+                  "name": "Teatro Huemul",
+                  "text": "This notable theatre is a prominent performing arts venue known within its local historic neighbourhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.651421,
+                        -33.474322
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Lucrecia",
+                  "text": "This recognized religious sanctuary serves as a prominent place of worship and community gathering point.",
+                  "category": "religious",
+                  "coords": [
+                        -70.651029,
+                        -33.476236
+                  ]
+            },
+            {
+                  "name": "Teatro La Cúpula",
+                  "text": "Characterized by its distinctive domed structure, this well-known venue hosts a variety of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.658459,
+                        -33.466336
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Lo Valledor",
+                  "text": "As a significant wholesale marketplace, this sprawling commercial hub is a focal point for fresh agricultural produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.683732,
+                        -33.482252
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Perpetuo Socorro",
+                  "text": "This notable basilica features striking architecture and serves as a significant Catholic place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        -70.675641,
+                        -33.459117
+                  ]
+            },
+            {
+                  "name": "Parque Bicentenario Cerrillos",
+                  "text": "Opened in 2011, this expansive park offers vast recreational green spaces built on the site of a former airport.",
+                  "category": "park",
+                  "coords": [
+                        -70.699504,
+                        -33.493994
+                  ]
+            },
+            {
+                  "name": "Parque André Jarlán",
+                  "text": "This recognized urban park provides essential tree-lined walking paths and recreational areas for the surrounding neighbourhood.",
+                  "category": "park",
+                  "coords": [
+                        -70.669778,
+                        -33.485295
+                  ]
+            },
+            {
+                  "name": "Parque Pierre Dubois",
+                  "text": "Established in 2018, this modern park features landscaped public spaces designed for community recreation and outdoor activities.",
+                  "category": "park",
+                  "coords": [
+                        -70.671281,
+                        -33.487908
+                  ]
+            },
+            {
+                  "name": "Parque Llano Subercaseaux",
+                  "text": "This long, linear urban park acts as a prominent green corridor alongside a major city avenue.",
+                  "category": "park",
+                  "coords": [
+                        -70.650187,
+                        -33.484996
+                  ]
+            },
+            {
+                  "name": "Plaza El Llano",
+                  "text": "This recognized urban plaza serves as a leafy gathering space adorned with benches and local monuments.",
+                  "category": "park",
+                  "coords": [
+                        -70.652012,
+                        -33.482086
+                  ]
+            },
+            {
+                  "name": "Cerro Chino",
+                  "text": "This recognized Chinese garden features traditional architectural elements and tranquil water features amidst an urban setting.",
+                  "category": "park",
+                  "coords": [
+                        -70.66127,
+                        -33.469531
+                  ]
+            },
+            {
+                  "name": "Parque Inundable Víctor Jara",
+                  "text": "This uniquely designed flood-control park combines essential water management infrastructure with accessible public green spaces.",
+                  "category": "park",
+                  "coords": [
+                        -70.660071,
+                        -33.476135
+                  ]
+            },
+            {
+                  "name": "O'Higgins Park",
+                  "text": "Dating back to 1873, this expansive and culturally significant public park is a central hub for major national festivities.",
+                  "category": "park",
+                  "coords": [
+                        -70.660467,
+                        -33.464298
+                  ]
+            },
+            {
+                  "name": "Parque Lo Errázuriz",
+                  "text": "Established in 1987, this well-known park provides extensive recreational facilities and mature trees for local residents.",
+                  "category": "park",
+                  "coords": [
+                        -70.703095,
+                        -33.477145
+                  ]
+            },
+            {
+                  "name": "Plaza Ercilla",
+                  "text": "This established public square provides a leafy resting spot with paved walkways in a busy urban intersection.",
+                  "category": "park",
+                  "coords": [
+                        -70.660272,
+                        -33.45748
+                  ]
+            },
+            {
+                  "name": "Parque Intercomunal Victor Jara",
+                  "text": "This large-scale inter-communal park is distinguished by its integration of recreational paths and vital flood defense structures.",
+                  "category": "park",
+                  "coords": [
+                        -70.636579,
+                        -33.479122
+                  ]
+            },
+            {
+                  "name": "Fantasilandia",
+                  "text": "This popular and prominent theme park features a diverse collection of thrilling roller coasters and family-friendly attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.662692,
+                        -33.460025
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de Pedro Aguirre Cerda",
+                  "text": "Serving as the local town hall, this civic building is the administrative center for municipal operations and public services.",
+                  "category": "historical",
+                  "coords": [
+                        -70.663958,
+                        -33.488206
+                  ]
+            },
+            {
+                  "name": "Insectario del Parque",
+                  "text": "This specialized entomological museum showcases a fascinating array of mounted insect specimens in educational displays.",
+                  "category": "museum",
+                  "coords": [
+                        -70.657976,
+                        -33.462341
+                  ]
+            },
+            {
+                  "name": "Museo Patrimonial de Salud",
+                  "text": "This unique heritage museum chronicles the evolution of healthcare practices and medical history through its historic collections.",
+                  "category": "museum",
+                  "coords": [
+                        -70.64118,
+                        -33.461404
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario del Barrio Matta Sur",
+                  "text": "Focused on local neighborhood history, this community museum preserves cultural artifacts and stories of urban development.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633049,
+                        -33.466145
+                  ]
+            },
+            {
+                  "name": "Iglesia Santísima Trinidad",
+                  "text": "This notable place of worship features traditional ecclesiastical architecture and serves as a cornerstone for local congregants.",
+                  "category": "religious",
+                  "coords": [
+                        -70.644324,
+                        -33.469162
+                  ]
+            },
+            {
+                  "name": "Museo Geológico Sernageomin",
+                  "text": "This specialized geological museum exhibits significant rock, mineral, and fossil collections highlighting the region's dynamic earth history.",
+                  "category": "museum",
+                  "coords": [
+                        -70.619066,
+                        -33.474458
+                  ]
+            },
+            {
+                  "name": "Galerí AFA",
+                  "text": "This contemporary art gallery is known for exhibiting avant-garde works and supporting emerging local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -70.64317,
+                        -33.472691
+                  ]
+            },
+            {
+                  "name": "Galería La Curtiembre",
+                  "text": "Housed in a distinct architectural space, this gallery showcases visual arts and vibrant cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -70.639996,
+                        -33.474632
+                  ]
+            },
+            {
+                  "name": "Galería Metropolitana",
+                  "text": "This established gallery provides a dynamic space for modern visual arts, often focusing on socially engaging and urban-themed exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -70.665861,
+                        -33.48114
+                  ]
+            },
+            {
+                  "name": "Museo del Automóvil",
+                  "text": "This dedicated automotive museum features a polished collection of classic vintage cars and details the history of motorized transport.",
+                  "category": "museum",
+                  "coords": [
+                        -70.680787,
+                        -33.465738
+                  ]
+            },
+            {
+                  "name": "Ex Maestranza de vías y obras",
+                  "text": "These prominent ruins of former railway workshops stand as a stark industrial monument to the area's transportation heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -70.67487,
+                        -33.472959
+                  ]
+            },
+            {
+                  "name": "Ex Velódromo",
+                  "text": "The structural remains of this former velodrome serve as a tangible reminder of historic cycling competitions and athletic events.",
+                  "category": "historical",
+                  "coords": [
+                        -70.679399,
+                        -33.475725
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CL-RM",
     coords: [-70.662, -33.460],
@@ -179,7 +3770,1132 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Ouvert le 26 janvier 1978.", "Accueille plus d'un million de visiteurs par an."],
     }, image: "/poi-images/cl-fantasilandia-life-v2.webp"},
   {
-    id: "cl-valle-de-colchagua-life-v2",
+    id: "cl-valle-de-colchagua-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro El Medio",
+                  "text": "Der Cerro El Medio ist ein markanter Berggipfel, der sich über die hügelige Landschaft des Colchagua-Tals erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.291754,
+                        -34.55634
+                  ]
+            },
+            {
+                  "name": "Viña Sieguel",
+                  "text": "Viña Sieguel ist ein Weingut im Colchagua-Tal, das von weitläufigen Weinbergen umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.380814,
+                        -34.56616
+                  ]
+            },
+            {
+                  "name": "Viña Maquis",
+                  "text": "Viña Maquis ist ein charmantes Weingut, das sich harmonisch in die landwirtschaftlich geprägte Region des Colchagua-Tals einfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373175,
+                        -34.574146
+                  ]
+            },
+            {
+                  "name": "Viña Estampa",
+                  "text": "Viña Estampa ist eine Attraktion inmitten der malerischen Weinberge und fruchtbaren Böden des Colchagua-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.379035,
+                        -34.57623
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Das Teatro Municipal ist ein lokales Theater im Colchagua-Tal, das als zentraler Veranstaltungsort für kulturelle Aufführungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.364088,
+                        -34.594851
+                  ]
+            },
+            {
+                  "name": "Cerro Peñón",
+                  "text": "Der Cerro Peñón ist ein felsiger Gipfel, der Teil der bergigen Kulisse des Colchagua-Tals ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.317903,
+                        -34.617406
+                  ]
+            },
+            {
+                  "name": "Viña Montes",
+                  "text": "Montes Wines ist ein renommiertes Weingut, das an den malerischen Hängen des Colchagua-Tals liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.273671,
+                        -34.612352
+                  ]
+            },
+            {
+                  "name": "Clos Apalta, Viña Lapostolle",
+                  "text": "Clos Apalta, Viña Lapostolle ist ein architektonisch markantes Weingut, das in die Hügel der Colchagua-Region integriert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.29193,
+                        -34.592495
+                  ]
+            },
+            {
+                  "name": "Cerro Caracoles",
+                  "text": "Der Cerro Caracoles ist ein markanter Gipfel, der sich majestätisch über die Täler der Colchagua-Region erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.253457,
+                        -34.584741
+                  ]
+            },
+            {
+                  "name": "Valle de Apalta",
+                  "text": "Das Valle de Apalta ist ein malerischer Aussichtspunkt mit Blick auf die weinbewachsenen Hänge des Apalta-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        -71.268682,
+                        -34.608299
+                  ]
+            },
+            {
+                  "name": "Casa Provasoli",
+                  "text": "Casa Provasoli ist ein schlossartiges Gebäude, das sich in der Landschaft des Colchagua-Tals abhebt.",
+                  "category": "castle",
+                  "coords": [
+                        -71.270375,
+                        -34.64952
+                  ]
+            },
+            {
+                  "name": "Castillo de Apalta",
+                  "text": "Das Castillo de Apalta ist eine imposante Attraktion im Colchagua-Tal, deren Architektur an ein klassisches Schloss erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.270538,
+                        -34.626968
+                  ]
+            },
+            {
+                  "name": "La Llavería Viu Manent",
+                  "text": "La Llavería Viu Manent ist ein traditionelles Anwesen, das von den ausgedehnten Weinbergen des Colchagua-Tals umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.310063,
+                        -34.651391
+                  ]
+            },
+            {
+                  "name": "Viña Lapostolle",
+                  "text": "Viña Lapostolle ist ein Weingut am Hang, das einen weiten Blick über die Täler von Colchagua bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.313716,
+                        -34.639422
+                  ]
+            },
+            {
+                  "name": "Viña Laura Hartwig",
+                  "text": "Die Winery Laura Hartwig ist ein Weingut in den fruchtbaren Ebenen des Colchagua-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373775,
+                        -34.631525
+                  ]
+            },
+            {
+                  "name": "Colchagua",
+                  "text": "Der Aussichtspunkt Colchagua bietet ein weitläufiges Panorama über das berühmte, von Weinbergen geprägte Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -71.418218,
+                        -34.662592
+                  ]
+            },
+            {
+                  "name": "Viña Las Niñas",
+                  "text": "Viña Las Niñas ist eine ländliche Attraktion inmitten der Weinlandschaft des Colchagua-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.285643,
+                        -34.609438
+                  ]
+            },
+            {
+                  "name": "Museo Pueblito Chepicano",
+                  "text": "Das Museo Pueblito Chepicano ist ein regionales Museum, das das kulturelle und landwirtschaftliche Erbe der Colchagua-Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -71.298206,
+                        -34.707254
+                  ]
+            },
+            {
+                  "name": "Museo de Colchagua",
+                  "text": "Das Museo de Colchagua zeigt umfangreiche Sammlungen zur Paläontologie, Archäologie und chilenischen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -71.363949,
+                        -34.640125
+                  ]
+            },
+            {
+                  "name": "Boulevard de la Viña",
+                  "text": "Der Boulevard de la Viña ist ein malerischer Weg, der sich durch die Weinberge des Colchagua-Tals schlängelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373889,
+                        -34.641931
+                  ]
+            },
+            {
+                  "name": "Capilla Agua Santa",
+                  "text": "Die Capilla Agua Santa ist eine kleine christliche Kapelle, die einen ruhigen Raum für Gebete im Colchagua-Tal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347897,
+                        -34.562044
+                  ]
+            },
+            {
+                  "name": "Capilla San Jorge",
+                  "text": "Die Capilla San Jorge ist eine lokale christliche Kapelle, die den Gläubigen im Colchagua-Tal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.324003,
+                        -34.654206
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Die Iglesia Evangélica ist eine evangelische Freikirche, in der sich die lokale Gemeinde der Colchagua-Region versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.331658,
+                        -34.651409
+                  ]
+            },
+            {
+                  "name": "Capilla El Buen Pastor",
+                  "text": "Die Capilla El Buen Pastor ist eine bescheidene christliche Kapelle, die religiöse Gottesdienste im Colchagua-Tal anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.350223,
+                        -34.637927
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Die Iglesia de Jesucristo de los Santos de los Últimos Días ist ein modernes christliches Kirchengebäude der Heiligen der Letzten Tage im Colchagua-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.369578,
+                        -34.640365
+                  ]
+            },
+            {
+                  "name": "Virgen de La Lajuela",
+                  "text": "Die Virgen de La Lajuela ist eine marianische Kultstätte im ländlichen Colchagua-Tal.",
+                  "category": "religious",
+                  "coords": [
+                        -71.419194,
+                        -34.66257
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Apalta",
+                  "text": "Der Salón del Reino Testigos de Jehová Apalta ist ein modernes Gebäude der Zeugen Jehovas im Gebiet Apalta des Colchagua-Tals.",
+                  "category": "religious",
+                  "coords": [
+                        -71.273402,
+                        -34.616704
+                  ]
+            },
+            {
+                  "name": "Parroquia San José de Cunaco",
+                  "text": "Die Parroquia San José de Cunaco ist eine christliche Pfarrkirche, die die Gemeinde Cunaco im Colchagua-Tal betreut.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.284792,
+                        -34.65162
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora De Fátima",
+                  "text": "Die Capilla Nuestra Señora De Fátima ist eine traditionelle christliche Kapelle, die Unserer Lieben Frau von Fátima im Colchagua-Tal gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347108,
+                        -34.625509
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz de Colchagua",
+                  "text": "Die Parroquia La Santa Cruz de Colchagua ist eine historische christliche Pfarrkirche, die ein spirituelles Zentrum im Colchagua-Tal bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.365803,
+                        -34.641048
+                  ]
+            },
+            {
+                  "name": "Mercado de Verduras",
+                  "text": "Der Mercado de Verduras ist ein belebter Marktplatz, auf dem frische Produkte aus den umliegenden landwirtschaftlichen Flächen des Colchagua-Tals gehandelt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.372433,
+                        -34.64188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro El Medio",
+                  "text": "A Cerro El Medio egy feltűnő hegycsúcs, amely a Colchagua-völgy dombos tája fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.291754,
+                        -34.55634
+                  ]
+            },
+            {
+                  "name": "Viña Sieguel",
+                  "text": "A Viña Sieguel egy látványosság a Colchagua-völgy kiterjedt szőlőültetvényei között.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.380814,
+                        -34.56616
+                  ]
+            },
+            {
+                  "name": "Viña Maquis",
+                  "text": "A Viña Maquis egy bájos látványosság, amely harmonikusan illeszkedik a Colchagua-völgy mezőgazdasági régiójába.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373175,
+                        -34.574146
+                  ]
+            },
+            {
+                  "name": "Viña Estampa",
+                  "text": "A Viña Estampa egy látványosság a Colchagua-völgy festői szőlőültetvényei és termékeny talaja között.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.379035,
+                        -34.57623
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "A Teatro Municipal egy helyi színház a Colchagua-völgyben, amely a kulturális előadások központi helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.364088,
+                        -34.594851
+                  ]
+            },
+            {
+                  "name": "Cerro Peñón",
+                  "text": "A Cerro Peñón egy sziklás csúcs, amely a Colchagua-völgy hegyvidéki hátterének részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.317903,
+                        -34.617406
+                  ]
+            },
+            {
+                  "name": "Viña Montes",
+                  "text": "A Montes Wines egy híres látványosság, amely a Colchagua-völgy festői lejtőin található.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.273671,
+                        -34.612352
+                  ]
+            },
+            {
+                  "name": "Clos Apalta, Viña Lapostolle",
+                  "text": "A Clos Apalta, Viña Lapostolle egy építészetileg lenyűgöző látványosság, amely a Colchagua régió dombjaiba illeszkedik.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.29193,
+                        -34.592495
+                  ]
+            },
+            {
+                  "name": "Cerro Caracoles",
+                  "text": "A Cerro Caracoles egy kiemelkedő csúcs, amely fenségesen emelkedik a Colchagua régió völgyei fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -71.253457,
+                        -34.584741
+                  ]
+            },
+            {
+                  "name": "Valle de Apalta",
+                  "text": "A Valle de Apalta egy festői kilátó, amely a borral borított Apalta-völgy lejtőire néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.268682,
+                        -34.608299
+                  ]
+            },
+            {
+                  "name": "Casa Provasoli",
+                  "text": "A Casa Provasoli egy kastélyszerű épület, amely kiemelkedik a Colchagua-völgy tájából.",
+                  "category": "castle",
+                  "coords": [
+                        -71.270375,
+                        -34.64952
+                  ]
+            },
+            {
+                  "name": "Castillo de Apalta",
+                  "text": "A Castillo de Apalta egy impozáns látványosság a Colchagua-völgyben, amelynek építészete egy klasszikus kastélyra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.270538,
+                        -34.626968
+                  ]
+            },
+            {
+                  "name": "La Llavería Viu Manent",
+                  "text": "A La Llavería Viu Manent egy hagyományos birtok, amelyet a Colchagua-völgy kiterjedt szőlőültetvényei vesznek körül.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.310063,
+                        -34.651391
+                  ]
+            },
+            {
+                  "name": "Viña Lapostolle",
+                  "text": "A Viña Lapostolle egy hegyoldali látványosság, amely széles kilátást nyújt Colchagua völgyeire.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.313716,
+                        -34.639422
+                  ]
+            },
+            {
+                  "name": "Viña Laura Hartwig",
+                  "text": "A Winery Laura Hartwig egy látványosság a Colchagua-völgy termékeny síkságain.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373775,
+                        -34.631525
+                  ]
+            },
+            {
+                  "name": "Colchagua",
+                  "text": "A Colchagua kilátó széles panorámát nyújt a híres, szőlőültetvényekkel borított völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.418218,
+                        -34.662592
+                  ]
+            },
+            {
+                  "name": "Viña Las Niñas",
+                  "text": "A Viña Las Niñas egy vidéki látványosság a Colchagua-völgy borvidéke közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.285643,
+                        -34.609438
+                  ]
+            },
+            {
+                  "name": "Museo Pueblito Chepicano",
+                  "text": "A Museo Pueblito Chepicano egy regionális múzeum, amely megőrzi a Colchagua régió kulturális és mezőgazdasági örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        -71.298206,
+                        -34.707254
+                  ]
+            },
+            {
+                  "name": "Museo de Colchagua",
+                  "text": "A Museo de Colchagua kiterjedt gyűjteményeket mutat be az őslénytan, a régészet és a chilei történelem témakörében.",
+                  "category": "museum",
+                  "coords": [
+                        -71.363949,
+                        -34.640125
+                  ]
+            },
+            {
+                  "name": "Boulevard de la Viña",
+                  "text": "A Boulevard de la Viña egy festői ösvény, amely a Colchagua-völgy szőlőültetvényei között kanyarog.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373889,
+                        -34.641931
+                  ]
+            },
+            {
+                  "name": "Capilla Agua Santa",
+                  "text": "A Capilla Agua Santa egy kis keresztény kápolna, amely csendes teret biztosít az imádságnak a Colchagua-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347897,
+                        -34.562044
+                  ]
+            },
+            {
+                  "name": "Capilla San Jorge",
+                  "text": "A Capilla San Jorge egy helyi keresztény kápolna, amely a Colchagua-völgy hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.324003,
+                        -34.654206
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Az Iglesia Evangélica egy evangéliumi keresztény templom, ahol a Colchagua régió helyi közössége gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.331658,
+                        -34.651409
+                  ]
+            },
+            {
+                  "name": "Capilla El Buen Pastor",
+                  "text": "A Capilla El Buen Pastor egy szerény keresztény kápolna, amely vallási istentiszteleteket tart a Colchagua-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.350223,
+                        -34.637927
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Iglesia de Jesucristo de los Santos de los Últimos Días Az Utolsó Napok Szentjeinek modern keresztény templomépülete a Colchagua területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.369578,
+                        -34.640365
+                  ]
+            },
+            {
+                  "name": "Virgen de La Lajuela",
+                  "text": "A Virgen de La Lajuela egy Mária-kegyhely a vidéki Colchagua-völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        -71.419194,
+                        -34.66257
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Apalta",
+                  "text": "A Salón del Reino Testigos de Jehová Apalta Jehova Tanúinak modern épülete a Colchagua-völgy Apalta területén.",
+                  "category": "religious",
+                  "coords": [
+                        -71.273402,
+                        -34.616704
+                  ]
+            },
+            {
+                  "name": "Parroquia San José de Cunaco",
+                  "text": "A Parroquia San José de Cunaco egy helyi keresztény plébániatemplom, amely a Cunaco közösséget szolgálja a Colchagua-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.284792,
+                        -34.65162
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora De Fátima",
+                  "text": "A Capilla Nuestra Señora De Fátima egy hagyományos keresztény kápolna a Colchagua-völgyben, amelyet a Fátimai Szűzanyának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347108,
+                        -34.625509
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz de Colchagua",
+                  "text": "A Parroquia La Santa Cruz de Colchagua egy történelmi keresztény plébániatemplom, amely a helyi közösség spirituális központja a Colchagua-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.365803,
+                        -34.641048
+                  ]
+            },
+            {
+                  "name": "Mercado de Verduras",
+                  "text": "A Mercado de Verduras egy nyüzsgő piac, ahol a Colchagua-völgy környező mezőgazdasági területeiről származó friss termékeket árulják.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.372433,
+                        -34.64188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro El Medio",
+                  "text": "Cerro El Medio este un vârf montan proeminent care se înalță deasupra peisajului deluros din Valea Colchagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.291754,
+                        -34.55634
+                  ]
+            },
+            {
+                  "name": "Viña Sieguel",
+                  "text": "Viña Sieguel este o atracție situată printre podgoriile întinse din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.380814,
+                        -34.56616
+                  ]
+            },
+            {
+                  "name": "Viña Maquis",
+                  "text": "Viña Maquis este o atracție fermecătoare care se integrează armonios în regiunea agricolă a Văii Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373175,
+                        -34.574146
+                  ]
+            },
+            {
+                  "name": "Viña Estampa",
+                  "text": "Viña Estampa este o atracție situată printre podgoriile pitorești și solurile fertile din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.379035,
+                        -34.57623
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatro Municipal este un teatru local din Valea Colchagua care servește drept loc central pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.364088,
+                        -34.594851
+                  ]
+            },
+            {
+                  "name": "Cerro Peñón",
+                  "text": "Cerro Peñón este un vârf stâncos care face parte din fundalul muntos al Văii Colchagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.317903,
+                        -34.617406
+                  ]
+            },
+            {
+                  "name": "Viña Montes",
+                  "text": "Montes Wines este o atracție renumită, situată pe versanții pitorești ai Văii Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.273671,
+                        -34.612352
+                  ]
+            },
+            {
+                  "name": "Clos Apalta, Viña Lapostolle",
+                  "text": "Clos Apalta, Viña Lapostolle este o atracție cu o arhitectură izbitoare, integrată în dealurile regiunii Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.29193,
+                        -34.592495
+                  ]
+            },
+            {
+                  "name": "Cerro Caracoles",
+                  "text": "Cerro Caracoles este un vârf proeminent care se înalță maiestuos deasupra văilor regiunii Colchagua.",
+                  "category": "natural",
+                  "coords": [
+                        -71.253457,
+                        -34.584741
+                  ]
+            },
+            {
+                  "name": "Valle de Apalta",
+                  "text": "Valle de Apalta este un punct de belvedere pitoresc cu vedere la versanții acoperiți de viță de vie ai văii Apalta.",
+                  "category": "natural",
+                  "coords": [
+                        -71.268682,
+                        -34.608299
+                  ]
+            },
+            {
+                  "name": "Casa Provasoli",
+                  "text": "Casa Provasoli este o clădire asemănătoare unui castel care iese în evidență în peisajul Văii Colchagua.",
+                  "category": "castle",
+                  "coords": [
+                        -71.270375,
+                        -34.64952
+                  ]
+            },
+            {
+                  "name": "Castillo de Apalta",
+                  "text": "Castillo de Apalta este o atracție impunătoare în Valea Colchagua, a cărei arhitectură amintește de un castel clasic.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.270538,
+                        -34.626968
+                  ]
+            },
+            {
+                  "name": "La Llavería Viu Manent",
+                  "text": "La Llavería Viu Manent este o proprietate tradițională înconjurată de podgoriile întinse din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.310063,
+                        -34.651391
+                  ]
+            },
+            {
+                  "name": "Viña Lapostolle",
+                  "text": "Viña Lapostolle este o atracție pe deal care oferă vederi ample asupra văilor din Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.313716,
+                        -34.639422
+                  ]
+            },
+            {
+                  "name": "Viña Laura Hartwig",
+                  "text": "Winery Laura Hartwig este o atracție situată în câmpiile fertile din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373775,
+                        -34.631525
+                  ]
+            },
+            {
+                  "name": "Colchagua",
+                  "text": "Punctul de belvedere Colchagua oferă o panoramă vastă asupra faimoasei văi acoperite de podgorii.",
+                  "category": "natural",
+                  "coords": [
+                        -71.418218,
+                        -34.662592
+                  ]
+            },
+            {
+                  "name": "Viña Las Niñas",
+                  "text": "Viña Las Niñas este o atracție rurală în mijlocul peisajului viticol din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.285643,
+                        -34.609438
+                  ]
+            },
+            {
+                  "name": "Museo Pueblito Chepicano",
+                  "text": "Museo Pueblito Chepicano este un muzeu regional care păstrează moștenirea culturală și agricolă a regiunii Colchagua.",
+                  "category": "museum",
+                  "coords": [
+                        -71.298206,
+                        -34.707254
+                  ]
+            },
+            {
+                  "name": "Museo de Colchagua",
+                  "text": "Museo de Colchagua prezintă colecții extinse de paleontologie, arheologie și istorie chiliană.",
+                  "category": "museum",
+                  "coords": [
+                        -71.363949,
+                        -34.640125
+                  ]
+            },
+            {
+                  "name": "Boulevard de la Viña",
+                  "text": "Boulevard de la Viña este o potecă pitorească care șerpuiește prin podgoriile din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373889,
+                        -34.641931
+                  ]
+            },
+            {
+                  "name": "Capilla Agua Santa",
+                  "text": "Capilla Agua Santa este o mică capelă creștină care oferă un spațiu liniștit pentru rugăciune în Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347897,
+                        -34.562044
+                  ]
+            },
+            {
+                  "name": "Capilla San Jorge",
+                  "text": "Capilla San Jorge este o capelă creștină locală care deservește credincioșii din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.324003,
+                        -34.654206
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Iglesia Evangélica este o biserică creștină evanghelică care reunește comunitatea locală din regiunea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.331658,
+                        -34.651409
+                  ]
+            },
+            {
+                  "name": "Capilla El Buen Pastor",
+                  "text": "Capilla El Buen Pastor este o capelă creștină modestă care oferă slujbe religioase în Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.350223,
+                        -34.637927
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Iglesia de Jesucristo de los Santos de los Últimos Días este o clădire modernă a bisericii creștine a Sfinților din Zilele din Urmă din zona Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.369578,
+                        -34.640365
+                  ]
+            },
+            {
+                  "name": "Virgen de La Lajuela",
+                  "text": "Virgen de La Lajuela este un lăcaș de cult marian situat în zona rurală a Văii Colchagua.",
+                  "category": "religious",
+                  "coords": [
+                        -71.419194,
+                        -34.66257
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Apalta",
+                  "text": "Salón del Reino Testigos de Jehová Apalta este o clădire modernă a bisericii care deservește Martorii lui Iehova în zona Apalta din Valea Colchagua.",
+                  "category": "religious",
+                  "coords": [
+                        -71.273402,
+                        -34.616704
+                  ]
+            },
+            {
+                  "name": "Parroquia San José de Cunaco",
+                  "text": "Parroquia San José de Cunaco este o biserică parohială creștină locală care deservește comunitatea Cunaco din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.284792,
+                        -34.65162
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora De Fátima",
+                  "text": "Capilla Nuestra Señora De Fátima este o capelă creștină tradițională dedicată Maicii Domnului de la Fátima din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347108,
+                        -34.625509
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz de Colchagua",
+                  "text": "Parroquia La Santa Cruz de Colchagua este o biserică parohială creștină istorică care ancorează comunitatea locală din Valea Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.365803,
+                        -34.641048
+                  ]
+            },
+            {
+                  "name": "Mercado de Verduras",
+                  "text": "Mercado de Verduras este o piață animată unde se comercializează produse proaspete de pe terenurile agricole din împrejurimile Văii Colchagua.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.372433,
+                        -34.64188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro El Medio",
+                  "text": "Cerro El Medio is a prominent mountain peak towering above the rolling landscape of the Colchagua Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.291754,
+                        -34.55634
+                  ]
+            },
+            {
+                  "name": "Viña Sieguel",
+                  "text": "Viña Sieguel is a vineyard attraction set among the expansive grapevines of the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.380814,
+                        -34.56616
+                  ]
+            },
+            {
+                  "name": "Viña Maquis",
+                  "text": "Viña Maquis is a charming vineyard attraction that blends harmoniously into the agricultural region of the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373175,
+                        -34.574146
+                  ]
+            },
+            {
+                  "name": "Viña Estampa",
+                  "text": "Viña Estampa is an attraction set amidst the picturesque vineyards and fertile soils of the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.379035,
+                        -34.57623
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatro Municipal is a local theatre in the Colchagua Valley that serves as a central venue for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.364088,
+                        -34.594851
+                  ]
+            },
+            {
+                  "name": "Cerro Peñón",
+                  "text": "Cerro Peñón is a rocky peak that forms part of the mountainous backdrop to the Colchagua Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.317903,
+                        -34.617406
+                  ]
+            },
+            {
+                  "name": "Montes Wines",
+                  "text": "Montes Wines is a renowned wine attraction set against the scenic slopes of the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.273671,
+                        -34.612352
+                  ]
+            },
+            {
+                  "name": "Clos Apalta, Viña Lapostolle",
+                  "text": "Clos Apalta, Viña Lapostolle is an architecturally striking wine attraction integrated into the hillsides of the Colchagua region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.29193,
+                        -34.592495
+                  ]
+            },
+            {
+                  "name": "Cerro Caracoles",
+                  "text": "Cerro Caracoles is a prominent peak rising majestically above the valleys of the Colchagua area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.253457,
+                        -34.584741
+                  ]
+            },
+            {
+                  "name": "Valle de Apalta",
+                  "text": "Valle de Apalta is a scenic viewpoint overlooking the vine-covered slopes of the Apalta valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.268682,
+                        -34.608299
+                  ]
+            },
+            {
+                  "name": "Casa Provasoli",
+                  "text": "Casa Provasoli is a castle-like structure standing out amidst the landscape of the Colchagua Valley.",
+                  "category": "castle",
+                  "coords": [
+                        -71.270375,
+                        -34.64952
+                  ]
+            },
+            {
+                  "name": "Castillo de Apalta",
+                  "text": "Castillo de Apalta is an imposing attraction in the Colchagua Valley with architecture reminiscent of a classic castle.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.270538,
+                        -34.626968
+                  ]
+            },
+            {
+                  "name": "La Llavería Viu Manent",
+                  "text": "La Llavería Viu Manent is a traditional estate attraction surrounded by the expansive vineyards of the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.310063,
+                        -34.651391
+                  ]
+            },
+            {
+                  "name": "Viña Lapostolle",
+                  "text": "Viña Lapostolle is a hillside wine attraction offering sweeping views over the valleys of Colchagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.313716,
+                        -34.639422
+                  ]
+            },
+            {
+                  "name": "Winery Laura Hartwig",
+                  "text": "Winery Laura Hartwig is a vineyard attraction set within the fertile plains of the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373775,
+                        -34.631525
+                  ]
+            },
+            {
+                  "name": "Colchagua",
+                  "text": "The Colchagua viewpoint offers a sweeping panorama over the renowned, vineyard-covered valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.418218,
+                        -34.662592
+                  ]
+            },
+            {
+                  "name": "Viña Las Niñas",
+                  "text": "Viña Las Niñas is a rural wine attraction set amidst the vineyard landscape of the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.285643,
+                        -34.609438
+                  ]
+            },
+            {
+                  "name": "Museo Pueblito Chepicano",
+                  "text": "Museo Pueblito Chepicano is a regional museum preserving the cultural and agricultural heritage of the Colchagua area.",
+                  "category": "museum",
+                  "coords": [
+                        -71.298206,
+                        -34.707254
+                  ]
+            },
+            {
+                  "name": "Museo de Colchagua",
+                  "text": "The Museo de Colchagua showcases extensive collections of paleontology, archaeology, and Chilean history.",
+                  "category": "museum",
+                  "coords": [
+                        -71.363949,
+                        -34.640125
+                  ]
+            },
+            {
+                  "name": "Boulevard de la Viña",
+                  "text": "Boulevard de la Viña is a scenic attraction path winding through the vineyards of the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.373889,
+                        -34.641931
+                  ]
+            },
+            {
+                  "name": "Capilla Agua Santa",
+                  "text": "Capilla Agua Santa is a small Christian chapel providing a quiet space for prayer in the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347897,
+                        -34.562044
+                  ]
+            },
+            {
+                  "name": "Capilla San Jorge",
+                  "text": "Capilla San Jorge is a local Christian chapel serving worshippers in the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.324003,
+                        -34.654206
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Iglesia Evangélica is a Christian evangelical church gathering the local community of the Colchagua region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.331658,
+                        -34.651409
+                  ]
+            },
+            {
+                  "name": "Capilla El Buen Pastor",
+                  "text": "Capilla El Buen Pastor is a modest Christian chapel offering religious services in the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.350223,
+                        -34.637927
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Iglesia de Jesucristo de los Santos de los Últimos Días is a modern Christian church building for Latter-day Saints in the Colchagua area.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.369578,
+                        -34.640365
+                  ]
+            },
+            {
+                  "name": "Virgen de La Lajuela",
+                  "text": "Virgen de La Lajuela is a Marian place of worship set within the rural Colchagua Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -71.419194,
+                        -34.66257
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Apalta",
+                  "text": "Salón del Reino Testigos de Jehová Apalta is a modern church building serving Jehovah's Witnesses in the Apalta area of the Colchagua Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -71.273402,
+                        -34.616704
+                  ]
+            },
+            {
+                  "name": "Parroquia San José de Cunaco",
+                  "text": "Parroquia San José de Cunaco is a local Christian parish church serving the Cunaco community within the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.284792,
+                        -34.65162
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora De Fátima",
+                  "text": "Capilla Nuestra Señora De Fátima is a traditional Christian chapel dedicated to Our Lady of Fatima in the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347108,
+                        -34.625509
+                  ]
+            },
+            {
+                  "name": "Parroquia La Santa Cruz de Colchagua",
+                  "text": "Parroquia La Santa Cruz de Colchagua is a historic Christian parish church anchoring the local community in the Colchagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.365803,
+                        -34.641048
+                  ]
+            },
+            {
+                  "name": "Mercado de Verduras",
+                  "text": "Mercado de Verduras is a bustling marketplace trading fresh produce from the surrounding agricultural lands of the Colchagua Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.372433,
+                        -34.64188
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CL-LI",
     coords: [-71.320, -34.630],
@@ -238,7 +4954,1348 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Élue meilleure région viticole du monde en 2005.", "Possède un climat méditerranéen chaud."],
     }, image: "/poi-images/cl-valle-de-colchagua-life-v2.webp"},
   {
-    id: "cl-valle-del-maipo-life-v2",
+    id: "cl-valle-del-maipo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palacio Las Majadas de Pirque",
+                  "text": "Ein eleganter Palast im französischen Stil aus dem Jahr 1907, entworfen von Alberto Cruz Montt.",
+                  "category": "castle",
+                  "coords": [
+                        -70.534187,
+                        -33.63249
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de La Pintana",
+                  "text": "Das administrative Bürgerzentrum der Gemeinde La Pintana.",
+                  "category": "historical",
+                  "coords": [
+                        -70.629632,
+                        -33.584835
+                  ]
+            },
+            {
+                  "name": "Cerro El Plomo",
+                  "text": "Ein markanter Berggipfel, der die umliegende Landschaft der Anden prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.675903,
+                        -33.624252
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Ein schroffer Berggipfel der Anden, der sich über die benachbarten Täler erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.675488,
+                        -33.614118
+                  ]
+            },
+            {
+                  "name": "Parque Lenka Franulic Oriente",
+                  "text": "Ein öffentlicher Park zu Ehren der wegweisenden Journalistin Lenka Franulic.",
+                  "category": "park",
+                  "coords": [
+                        -70.67894,
+                        -33.604291
+                  ]
+            },
+            {
+                  "name": "Parque Nuestra Señora de Gabriela",
+                  "text": "Ein öffentlicher Erholungspark, der 2003 eröffnet und Nuestra Señora de Gabriela gewidmet wurde.",
+                  "category": "park",
+                  "coords": [
+                        -70.582859,
+                        -33.580262
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Die Plaza Elvira Matte ist ein städtischer Park in der Region Valle del Maipo.",
+                  "category": "park",
+                  "coords": [
+                        -70.576376,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Museo Chupacabras de Pirque",
+                  "text": "Dieses Museum in der Gegend von Pirque im Valle del Maipo widmet sich der Legende des Chupacabra.",
+                  "category": "museum",
+                  "coords": [
+                        -70.540963,
+                        -33.648229
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Der Cerro Las Cabras ist ein Berggipfel, der sich über das Valle del Maipo erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Dieses Weinmuseum befindet sich im legendären Weinkeller Casillero del Diablo im Valle del Maipo.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Dieses historische Denkmal markiert den Eingang eines ehemaligen Militärregiments im Valle del Maipo.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Dieses religiöse Denkmal ist der Jungfrau Maria gewidmet und steht im Valle del Maipo.",
+                  "category": "historical",
+                  "coords": [
+                        -70.556515,
+                        -33.706458
+                  ]
+            },
+            {
+                  "name": "Hacienda del Maipo",
+                  "text": "Die Hacienda del Maipo ist ein traditionelles Herrenhaus im Herzen des Valle del Maipo.",
+                  "category": "historical",
+                  "coords": [
+                        -70.529005,
+                        -33.594278
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Die Casa Don Melchor ist ein historisches Herrenhaus im Valle del Maipo.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574558,
+                        -33.634188
+                  ]
+            },
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Das Teatro Palermo ist ein lokales Theater für Aufführungen im Valle del Maipo.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Dieses Kulturzentrum fördert die lokalen Künste und die Kultur in der Region Valle del Maipo.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.63096,
+                        -33.584311
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Dieses Kulturzentrum dient den kulturellen Bedürfnissen der Region Puente Alto im Valle del Maipo.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548935,
+                        -33.611056
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Las Vizcachas",
+                  "text": "Dieses Freiluft-Amphitheater befindet sich im Gebiet Las Vizcachas im Valle del Maipo.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.530753,
+                        -33.601244
+                  ]
+            },
+            {
+                  "name": "Parroquia Catolica Nazaret",
+                  "text": "Diese katholische Pfarrkirche namens Nazaret dient den Gläubigen im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.605018,
+                        -33.582651
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Gabriela",
+                  "text": "Diese Baptistenkirche bietet einen Ort der Andacht im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.599753,
+                        -33.581846
+                  ]
+            },
+            {
+                  "name": "Clase Gabriela poniente",
+                  "text": "Dieser lokale religiöse Versammlungsort befindet sich im westlichen Gabriela-Gebiet des Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.596082,
+                        -33.581732
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fatima",
+                  "text": "Diese kleine Kapelle im Valle del Maipo ist Unserer Lieben Frau von Fatima gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.592636,
+                        -33.609075
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal de Chile",
+                  "text": "Diese Pfingstkirche dient ihrer Gemeinde im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.596738,
+                        -33.587664
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile Ready",
+                  "text": "Diese methodistische Pfingstkirche befindet sich im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.604756,
+                        -33.585247
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "Diese Kirche des Viereckigen Evangeliums befindet sich in der Region Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606594,
+                        -33.58899
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Diese lokale Pfarrkirche bietet einen spirituellen Raum im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.619476,
+                        -33.590765
+                  ]
+            },
+            {
+                  "name": "Animita Dieguito",
+                  "text": "Dieser traditionelle Animita-Schrein am Straßenrand ist Dieguito im Valle del Maipo gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.56573,
+                        -33.598905
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Majadas de Pirque",
+                  "text": "Diese katholische Kapelle ist Unserer Lieben Frau gewidmet und befindet sich im Gebiet Majadas de Pirque.",
+                  "category": "religious",
+                  "coords": [
+                        -70.536085,
+                        -33.634215
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Diese Mormonenkirche dient der lokalen Gemeinschaft der Heiligen der Letzten Tage im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.67767,
+                        -33.587705
+                  ]
+            },
+            {
+                  "name": "Capilla Maria Purisima",
+                  "text": "Die Kapelle Maria Purisima bietet einen Ort der stillen Besinnung im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.685512,
+                        -33.602885
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco de Asís",
+                  "text": "Diese dem heiligen Franz von Assisi geweihte Kapelle befindet sich im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.563111,
+                        -33.583215
+                  ]
+            },
+            {
+                  "name": "Monasterio de Santa Clara",
+                  "text": "Diese Kirche ist an das Kloster Santa Clara im Valle del Maipo angeschlossen.",
+                  "category": "religious",
+                  "coords": [
+                        -70.580618,
+                        -33.590863
+                  ]
+            },
+            {
+                  "name": "Iglesia Encuentro con Cristo Puente Alto",
+                  "text": "Diese christliche Kirche namens Encuentro con Cristo befindet sich im Gebiet Puente Alto.",
+                  "category": "religious",
+                  "coords": [
+                        -70.582022,
+                        -33.601341
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dies ist ein lokales Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.58239,
+                        -33.606064
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Diese evangelische Kirche dient der protestantischen Gemeinde im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.625477,
+                        -33.616944
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Dieses lokale Kirchengebäude bietet Raum für religiöse Gottesdienste im Valle del Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.623489,
+                        -33.633009
+                  ]
+            },
+            {
+                  "name": "Iglesia Ciudad de Dios",
+                  "text": "Diese als Ciudad de Dios bekannte Kirche ist im Valle del Maipo tätig.",
+                  "category": "religious",
+                  "coords": [
+                        -70.568462,
+                        -33.592624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palacio Las Majadas de Pirque",
+                  "text": "Egy elegáns, 1907-ből származó, francia stílusú kastély, amelyet Alberto Cruz Montt tervezett.",
+                  "category": "castle",
+                  "coords": [
+                        -70.534187,
+                        -33.63249
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de La Pintana",
+                  "text": "La Pintana település adminisztratív civil központja.",
+                  "category": "historical",
+                  "coords": [
+                        -70.629632,
+                        -33.584835
+                  ]
+            },
+            {
+                  "name": "Cerro El Plomo",
+                  "text": "Egy kiemelkedő hegycsúcs, amely meghatározza a környék andoki tájképét.",
+                  "category": "natural",
+                  "coords": [
+                        -70.675903,
+                        -33.624252
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Az Andok egyik zord hegycsúcssa, amely a környező völgyek fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.675488,
+                        -33.614118
+                  ]
+            },
+            {
+                  "name": "Parque Lenka Franulic Oriente",
+                  "text": "Közpark, amelyet az úttörő újságíró, Lenka Franulic tiszteletére neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -70.67894,
+                        -33.604291
+                  ]
+            },
+            {
+                  "name": "Parque Nuestra Señora de Gabriela",
+                  "text": "2003-ban felavatott közösségi pihenőpark, amelyet a Gabrielai Szűzanyának szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        -70.582859,
+                        -33.580262
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "A Plaza Elvira Matte egy városi park a Valle del Maipo régióban.",
+                  "category": "park",
+                  "coords": [
+                        -70.576376,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Museo Chupacabras de Pirque",
+                  "text": "Ez a Valle del Maipo területén, Pirque-ben található múzeum a Chupacabra legendájának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -70.540963,
+                        -33.648229
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "A Cerro Las Cabras egy hegycsúcs, amely a Valle del Maipo fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Ez a bormúzeum a legendás Casillero del Diablo pincészetben kapott helyet a Valle del Maipo területén.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Ez a történelmi emlékmű egy egykori katonai ezred bejáratát jelzi a Valle del Maipo régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Ez a Szűz Máriának szentelt vallási emlékmű a Valle del Maipo területén áll.",
+                  "category": "historical",
+                  "coords": [
+                        -70.556515,
+                        -33.706458
+                  ]
+            },
+            {
+                  "name": "Hacienda del Maipo",
+                  "text": "A Hacienda del Maipo egy hagyományos udvarház a Valle del Maipo szívében.",
+                  "category": "historical",
+                  "coords": [
+                        -70.529005,
+                        -33.594278
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "A Casa Don Melchor egy történelmi udvarház a Valle del Maipo területén.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574558,
+                        -33.634188
+                  ]
+            },
+            {
+                  "name": "Teatro Palermo",
+                  "text": "A Teatro Palermo egy helyi színház, amely előadásoknak ad otthont a Valle del Maipo területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Ez a művészeti központ a helyi kultúrát és művészeteket ápolja a Valle del Maipo régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.63096,
+                        -33.584311
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Ez a művészeti központ Puente Alto területének kulturális igényeit szolgálja ki a Valle del Maipo régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548935,
+                        -33.611056
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Las Vizcachas",
+                  "text": "Ez a szabadtéri amfiteátrum Las Vizcachas területén, a Valle del Maipo régióban található.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.530753,
+                        -33.601244
+                  ]
+            },
+            {
+                  "name": "Parroquia Catolica Nazaret",
+                  "text": "A Názáret nevű katolikus plébániatemplom a hívőket szolgálja a Valle del Maipo területén.",
+                  "category": "religious",
+                  "coords": [
+                        -70.605018,
+                        -33.582651
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Gabriela",
+                  "text": "Ez a baptista templom istentiszteleti helyet biztosít a Valle del Maipo területén.",
+                  "category": "religious",
+                  "coords": [
+                        -70.599753,
+                        -33.581846
+                  ]
+            },
+            {
+                  "name": "Clase Gabriela poniente",
+                  "text": "Ez a helyi vallási gyülekezeti hely a Valle del Maipo nyugati Gabriela térségében található.",
+                  "category": "religious",
+                  "coords": [
+                        -70.596082,
+                        -33.581732
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fatima",
+                  "text": "Ezt a kis Valle del Maipo-i kápolnát a Fatimai Szűzanyának szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -70.592636,
+                        -33.609075
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal de Chile",
+                  "text": "Ez a pünkösdi templom a helyi gyülekezetet szolgálja a Valle del Maipo régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -70.596738,
+                        -33.587664
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile Ready",
+                  "text": "Ez a metodista pünkösdi templom a Valle del Maipo területén helyezkedik el.",
+                  "category": "religious",
+                  "coords": [
+                        -70.604756,
+                        -33.585247
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "Ez a Négyszögletes Evangélium egyházához tartozó templom a Valle del Maipo régióban található.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606594,
+                        -33.58899
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Ez a helyi plébániatemplom spirituális teret biztosít a Valle del Maipo területén.",
+                  "category": "religious",
+                  "coords": [
+                        -70.619476,
+                        -33.590765
+                  ]
+            },
+            {
+                  "name": "Animita Dieguito",
+                  "text": "Ez a hagyományos, út menti animita szentély Dieguitónak állít emléket a Valle del Maipo területén.",
+                  "category": "religious",
+                  "coords": [
+                        -70.56573,
+                        -33.598905
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Majadas de Pirque",
+                  "text": "Ezt a Szűzanyának szentelt katolikus kápolnát Majadas de Pirque területén emelték.",
+                  "category": "religious",
+                  "coords": [
+                        -70.536085,
+                        -33.634215
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Ez a mormon templom az Utolsó Napi Szentek helyi közösségét szolgálja a Valle del Maipo területén.",
+                  "category": "religious",
+                  "coords": [
+                        -70.67767,
+                        -33.587705
+                  ]
+            },
+            {
+                  "name": "Capilla Maria Purisima",
+                  "text": "A Maria Purisima kápolna a csendes elmélkedés helyszíne a Valle del Maipo régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -70.685512,
+                        -33.602885
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco de Asís",
+                  "text": "Ez az Assisi Szent Ferencnek szentelt kápolna a Valle del Maipo területén helyezkedik el.",
+                  "category": "religious",
+                  "coords": [
+                        -70.563111,
+                        -33.583215
+                  ]
+            },
+            {
+                  "name": "Monasterio de Santa Clara",
+                  "text": "Ez a templom a Santa Clara kolostorhoz tartozik a Valle del Maipo régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -70.580618,
+                        -33.590863
+                  ]
+            },
+            {
+                  "name": "Iglesia Encuentro con Cristo Puente Alto",
+                  "text": "Ez az Encuentro con Cristo nevű keresztény templom a Puente Alto területen helyezkedik el.",
+                  "category": "religious",
+                  "coords": [
+                        -70.582022,
+                        -33.601341
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez Az Utolsó Napi Szentek Jézus Krisztus Egyházának helyi gyülekezeti háza a Valle del Maipo régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -70.58239,
+                        -33.606064
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Ez az evangéliumi templom a protestáns közösséget szolgálja a Valle del Maipo területén.",
+                  "category": "religious",
+                  "coords": [
+                        -70.625477,
+                        -33.616944
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a helyi templomépület vallási szertartásoknak ad otthont a Valle del Maipo régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -70.623489,
+                        -33.633009
+                  ]
+            },
+            {
+                  "name": "Iglesia Ciudad de Dios",
+                  "text": "Ez a Ciudad de Dios néven ismert templom a Valle del Maipo területén működik.",
+                  "category": "religious",
+                  "coords": [
+                        -70.568462,
+                        -33.592624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palacio Las Majadas de Pirque",
+                  "text": "Un palat elegant în stil francez din 1907, proiectat de arhitectul Alberto Cruz Montt.",
+                  "category": "castle",
+                  "coords": [
+                        -70.534187,
+                        -33.63249
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de La Pintana",
+                  "text": "Centrul civic administrativ care guvernează comuna La Pintana.",
+                  "category": "historical",
+                  "coords": [
+                        -70.629632,
+                        -33.584835
+                  ]
+            },
+            {
+                  "name": "Cerro El Plomo",
+                  "text": "Un vârf muntos proeminent care definește peisajul andin al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -70.675903,
+                        -33.624252
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Un vârf muntos andin accidentat care se înalță deasupra văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -70.675488,
+                        -33.614118
+                  ]
+            },
+            {
+                  "name": "Parque Lenka Franulic Oriente",
+                  "text": "Un parc public municipal numit în onoarea pionierei jurnalismului Lenka Franulic.",
+                  "category": "park",
+                  "coords": [
+                        -70.67894,
+                        -33.604291
+                  ]
+            },
+            {
+                  "name": "Parque Nuestra Señora de Gabriela",
+                  "text": "Un parc public de recreere inaugurat în 2003, dedicat Fecioarei de Gabriela (Nuestra Señora de Gabriela).",
+                  "category": "park",
+                  "coords": [
+                        -70.582859,
+                        -33.580262
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Plaza Elvira Matte este un parc urban situat în regiunea Valle del Maipo.",
+                  "category": "park",
+                  "coords": [
+                        -70.576376,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Museo Chupacabras de Pirque",
+                  "text": "Acest muzeu din zona Pirque a văii Maipo este dedicat legendei Chupacabra.",
+                  "category": "museum",
+                  "coords": [
+                        -70.540963,
+                        -33.648229
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Cerro Las Cabras este un vârf montan care se înalță deasupra văii Maipo.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Acest muzeu tematic al vinului se află în legendara cramă Casillero del Diablo din valea Maipo.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Acest monument istoric marchează intrarea unui fost regiment militar din valea Maipo.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Acest monument religios dedicat Fecioarei Maria se înalță în valea Maipo.",
+                  "category": "historical",
+                  "coords": [
+                        -70.556515,
+                        -33.706458
+                  ]
+            },
+            {
+                  "name": "Hacienda del Maipo",
+                  "text": "Hacienda del Maipo este un conac tradițional situat în inima văii Maipo.",
+                  "category": "historical",
+                  "coords": [
+                        -70.529005,
+                        -33.594278
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Casa Don Melchor este un conac istoric situat în regiunea văii Maipo.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574558,
+                        -33.634188
+                  ]
+            },
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Teatro Palermo este un teatru local care găzduiește spectacole în valea Maipo.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Acest centru de arte promovează cultura locală din regiunea văii Maipo.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.63096,
+                        -33.584311
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Acest centru cultural deservește nevoile artistice ale zonei Puente Alto din valea Maipo.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548935,
+                        -33.611056
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Las Vizcachas",
+                  "text": "Acest amfiteatru în aer liber este situat în zona Las Vizcachas din valea Maipo.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.530753,
+                        -33.601244
+                  ]
+            },
+            {
+                  "name": "Parroquia Catolica Nazaret",
+                  "text": "Această biserică parohială catolică numită Nazaret deservește credincioșii din valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.605018,
+                        -33.582651
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista Gabriela",
+                  "text": "Această biserică baptistă oferă un lăcaș de cult în regiunea văii Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.599753,
+                        -33.581846
+                  ]
+            },
+            {
+                  "name": "Clase Gabriela poniente",
+                  "text": "Acest loc local de adunare religioasă este situat în zona vestică Gabriela din valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.596082,
+                        -33.581732
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fatima",
+                  "text": "Această capelă religioasă din valea Maipo este închinată Maicii Domnului de la Fatima.",
+                  "category": "religious",
+                  "coords": [
+                        -70.592636,
+                        -33.609075
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal de Chile",
+                  "text": "Această biserică penticostală își deservește congregația din valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.596738,
+                        -33.587664
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile Ready",
+                  "text": "Această biserică metodistă penticostală este situată în regiunea văii Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.604756,
+                        -33.585247
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "Această biserică a Evangheliei Pătrate este situată în regiunea văii Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606594,
+                        -33.58899
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Această biserică parohială locală oferă un spațiu spiritual în valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.619476,
+                        -33.590765
+                  ]
+            },
+            {
+                  "name": "Animita Dieguito",
+                  "text": "Acest altar animita tradițional de la marginea drumului îi este dedicat lui Dieguito în valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.56573,
+                        -33.598905
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Majadas de Pirque",
+                  "text": "Această capelă catolică dedicată Maicii Domnului este situată în zona Majadas de Pirque.",
+                  "category": "religious",
+                  "coords": [
+                        -70.536085,
+                        -33.634215
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Această biserică mormonă deservește comunitatea locală a Sfinților din Zilele din Urmă din valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.67767,
+                        -33.587705
+                  ]
+            },
+            {
+                  "name": "Capilla Maria Purisima",
+                  "text": "Capela Maria Purisima oferă un loc de reflecție liniștită în valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.685512,
+                        -33.602885
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco de Asís",
+                  "text": "Această capelă dedicată Sfântului Francisc de Assisi se află în valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.563111,
+                        -33.583215
+                  ]
+            },
+            {
+                  "name": "Monasterio de Santa Clara",
+                  "text": "Această biserică este atașată Mănăstirii Santa Clara din valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.580618,
+                        -33.590863
+                  ]
+            },
+            {
+                  "name": "Iglesia Encuentro con Cristo Puente Alto",
+                  "text": "Această biserică creștină numită Encuentro con Cristo este situată în zona Puente Alto.",
+                  "category": "religious",
+                  "coords": [
+                        -70.582022,
+                        -33.601341
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Aceasta este o casă de întruniri locală a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.58239,
+                        -33.606064
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Această biserică evanghelică deservește comunitatea protestantă din valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.625477,
+                        -33.616944
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Această biserică locală oferă un spațiu pentru slujbe religioase în valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.623489,
+                        -33.633009
+                  ]
+            },
+            {
+                  "name": "Iglesia Ciudad de Dios",
+                  "text": "Această biserică cunoscută sub numele de Ciudad de Dios funcționează în valea Maipo.",
+                  "category": "religious",
+                  "coords": [
+                        -70.568462,
+                        -33.592624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palacio Las Majadas de Pirque",
+                  "text": "An elegant 1907 French-style palace designed by renowned architect Alberto Cruz Montt.",
+                  "category": "castle",
+                  "coords": [
+                        -70.534187,
+                        -33.63249
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de La Pintana",
+                  "text": "The administrative civic center governing the municipality of La Pintana.",
+                  "category": "historical",
+                  "coords": [
+                        -70.629632,
+                        -33.584835
+                  ]
+            },
+            {
+                  "name": "Cerro El Plomo",
+                  "text": "A prominent mountain peak defining the region's rugged Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -70.675903,
+                        -33.624252
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "A rugged Andean mountain peak rising high above the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -70.675488,
+                        -33.614118
+                  ]
+            },
+            {
+                  "name": "Parque Lenka Franulic Oriente",
+                  "text": "A municipal public park named in honor of the pioneering journalist Lenka Franulic.",
+                  "category": "park",
+                  "coords": [
+                        -70.67894,
+                        -33.604291
+                  ]
+            },
+            {
+                  "name": "Parque Nuestra Señora de Gabriela",
+                  "text": "A public recreational park inaugurated in 2003, dedicated to Our Lady of Gabriela.",
+                  "category": "park",
+                  "coords": [
+                        -70.582859,
+                        -33.580262
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Plaza Elvira Matte is an urban park located in the Maipo Valley region.",
+                  "category": "park",
+                  "coords": [
+                        -70.576376,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Museo Chupacabras de Pirque",
+                  "text": "A museum dedicated to the Chupacabra legend located in the Pirque area of the Maipo Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -70.540963,
+                        -33.648229
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Cerro Las Cabras is a mountain peak rising above the Maipo Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "A wine-themed museum set in the legendary Casillero del Diablo cellar in the Maipo Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "A historic monument marking the entrance of a former military regiment in the Maipo Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "A religious monument dedicated to the Virgin Mary standing in the Maipo Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -70.556515,
+                        -33.706458
+                  ]
+            },
+            {
+                  "name": "Hacienda del Maipo",
+                  "text": "Hacienda del Maipo is a traditional manor house estate situated in the heart of the Maipo Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -70.529005,
+                        -33.594278
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "A historic manor house known as Casa Don Melchor located in the Maipo Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574558,
+                        -33.634188
+                  ]
+            },
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Teatro Palermo is a local theatre venue offering performances in the Maipo Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A dedicated arts centre fostering local culture and arts in the Maipo Valley region.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.63096,
+                        -33.584311
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "An arts centre serving the cultural needs of the Puente Alto area in the Maipo Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548935,
+                        -33.611056
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Las Vizcachas",
+                  "text": "An open-air amphitheatre located in the Las Vizcachas area of the Maipo Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.530753,
+                        -33.601244
+                  ]
+            },
+            {
+                  "name": "Parroquia Catolica Nazaret",
+                  "text": "A Catholic parish church named Nazaret serving the faithful in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.605018,
+                        -33.582651
+                  ]
+            },
+            {
+                  "name": "Gabriela Baptist Church",
+                  "text": "A Baptist church providing a place of worship in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.599753,
+                        -33.581846
+                  ]
+            },
+            {
+                  "name": "Clase Gabriela poniente",
+                  "text": "A local religious gathering place located in the western Gabriela area of the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.596082,
+                        -33.581732
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Fatima",
+                  "text": "A religious chapel dedicated to Our Lady of Fatima in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.592636,
+                        -33.609075
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal de Chile",
+                  "text": "A Pentecostal church building serving its congregation in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.596738,
+                        -33.587664
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Chile Ready",
+                  "text": "A Methodist Pentecostal church situated within the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.604756,
+                        -33.585247
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "A Foursquare Gospel church located in the Maipo Valley region.",
+                  "category": "religious",
+                  "coords": [
+                        -70.606594,
+                        -33.58899
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "A local parish church providing a spiritual space in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.619476,
+                        -33.590765
+                  ]
+            },
+            {
+                  "name": "Animita Dieguito",
+                  "text": "A roadside animita shrine dedicated to Dieguito in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.56573,
+                        -33.598905
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Majadas de Pirque",
+                  "text": "A Catholic chapel dedicated to Our Lady situated in the Majadas de Pirque area.",
+                  "category": "religious",
+                  "coords": [
+                        -70.536085,
+                        -33.634215
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "A Mormon church building serving the local Latter-day Saint community in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.67767,
+                        -33.587705
+                  ]
+            },
+            {
+                  "name": "Capilla Maria Purisima",
+                  "text": "A chapel dedicated to Maria Purisima providing a place of quiet reflection in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.685512,
+                        -33.602885
+                  ]
+            },
+            {
+                  "name": "Capilla San Francisco de Asís",
+                  "text": "A church chapel dedicated to St. Francis of Assisi in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.563111,
+                        -33.583215
+                  ]
+            },
+            {
+                  "name": "Monasterio de Santa Clara",
+                  "text": "A church attached to the Monastery of Santa Clara in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.580618,
+                        -33.590863
+                  ]
+            },
+            {
+                  "name": "Iglesia Encuentro con Cristo Puente Alto",
+                  "text": "A Christian church called Encuentro con Cristo located in the Puente Alto area.",
+                  "category": "religious",
+                  "coords": [
+                        -70.582022,
+                        -33.601341
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A local meetinghouse of The Church of Jesus Christ of Latter-day Saints in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.58239,
+                        -33.606064
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "An Evangelical church building serving the Protestant community in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.625477,
+                        -33.616944
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A local church building providing a space for religious services in the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.623489,
+                        -33.633009
+                  ]
+            },
+            {
+                  "name": "Iglesia Ciudad de Dios",
+                  "text": "A church known as Ciudad de Dios operating within the Maipo Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -70.568462,
+                        -33.592624
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CL-RM",
     coords: [-70.610, -33.640],
@@ -297,7 +6354,556 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["La plus ancienne région viticole du Chili.", "Particulièrement célèbre pour son Cabernet Sauvignon."],
     }, image: "/poi-images/cl-valle-del-maipo-life-v2.webp"},
   {
-    id: "cl-valle-de-casablanca-life-v2",
+    id: "cl-valle-de-casablanca-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viña Quintay",
+                  "text": "Dieses Weingut im Casablanca-Tal ist bekannt für seine kühlen klimatischen Bedingungen und den Anbau von Sauvignon Blanc.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.32978,
+                        -33.355736
+                  ]
+            },
+            {
+                  "name": "Viña William Cole",
+                  "text": "Die Viña William Cole bietet Weinproben inmitten der ausgedehnten Weinberge des Casablanca-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.348864,
+                        -33.31694
+                  ]
+            },
+            {
+                  "name": "Bodegas Re",
+                  "text": "Die Bodegas Re in Casablanca verbinden traditionelle Weinherstellung in Tonamphoren mit modernen Techniken.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.397678,
+                        -33.304247
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico y Antropológico de Casablanca",
+                  "text": "Dieses Museum bewahrt die prähispanischen und kolonialen Fundstücke aus der Region des Casablanca-Tals.",
+                  "category": "museum",
+                  "coords": [
+                        -71.411262,
+                        -33.320662
+                  ]
+            },
+            {
+                  "name": "Letrero Casablanca",
+                  "text": "Der bunte Namenszug von Casablanca ist ein beliebtes Fotomotiv für Besucher der Weinregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.409333,
+                        -33.308554
+                  ]
+            },
+            {
+                  "name": "Viña Casas del Bosque",
+                  "text": "Dieses Weingut zieht Besucher mit seinen alten Rebstöcken und einem Panoramablick über das Casablanca-Tal an.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.435501,
+                        -33.318793
+                  ]
+            },
+            {
+                  "name": "Viña Kingston",
+                  "text": "Die Kingston Family Vineyards sind Vorreiter bei der Produktion von Rotweinen im ansonsten für Weißwein bekannten Casablanca-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.460723,
+                        -33.317218
+                  ]
+            },
+            {
+                  "name": "Cerro San Isidro",
+                  "text": "Dieser markante Gipfel bietet Wanderern eine weite Aussicht über die landwirtschaftlich geprägte Landschaft des Casablanca-Tals.",
+                  "category": "natural",
+                  "coords": [
+                        -71.39944,
+                        -33.358266
+                  ]
+            },
+            {
+                  "name": "Cerro Quebradilla",
+                  "text": "Der Gipfel des Cerro Quebradilla ist von der mediterranen Vegetation des chilenischen Küstengebirges umgeben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.412314,
+                        -33.264258
+                  ]
+            },
+            {
+                  "name": "Viña Casablanca",
+                  "text": "Das malerische Weingut Viña Casablanca ist eine der ersten Adressen für die Verkostung regionaler Terroir-Weine.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.32689,
+                        -33.356249
+                  ]
+            },
+            {
+                  "name": "Río Tinto",
+                  "text": "Dieses weinbezogene Ausflugsziel im Casablanca-Tal feiert die reiche Winzertradition der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347119,
+                        -33.34773
+                  ]
+            },
+            {
+                  "name": "Santuario Purísima Virgen de Lo Vásquez",
+                  "text": "Dieses bedeutende katholische Heiligtum zieht jedes Jahr am 8. Dezember Zehntausende von Pilgern an.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.438489,
+                        -33.256875
+                  ]
+            },
+            {
+                  "name": "Capilla San Jerónimo",
+                  "text": "Die christliche Kapelle San Jerónimo bietet der lokalen Gemeinde einen ruhigen Ort für Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.46774,
+                        -33.349723
+                  ]
+            },
+            {
+                  "name": "Capilla Laura Vicuña",
+                  "text": "Diese Kapelle ist der chilenischen Seligen Laura Vicuña gewidmet und ein Ort der spirituellen Einkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.370145,
+                        -33.270387
+                  ]
+            },
+            {
+                  "name": "Parcela San Pedro",
+                  "text": "Auf diesem landwirtschaftlichen Markt im Casablanca-Tal werden frische lokale Erzeugnisse und Handwerkswaren angeboten.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.368916,
+                        -33.345585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viña Quintay",
+                  "text": "Ez a Casablanca-völgyben található pincészet hűvös éghajlatáról és Sauvignon Blanc termesztéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.32978,
+                        -33.355736
+                  ]
+            },
+            {
+                  "name": "Viña William Cole",
+                  "text": "A Viña William Cole borkóstolókat kínál a Casablanca-völgy kiterjedt szőlőültetvényei között.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.348864,
+                        -33.31694
+                  ]
+            },
+            {
+                  "name": "Bodegas Re",
+                  "text": "A casablancai Bodegas Re a hagyományos agyagamforás borkészítést ötvözi a modern technikákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.397678,
+                        -33.304247
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico y Antropológico de Casablanca",
+                  "text": "Ez a múzeum a Casablanca-völgy régiójának spanyol hódítás előtti és gyarmati kori leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -71.411262,
+                        -33.320662
+                  ]
+            },
+            {
+                  "name": "Letrero Casablanca",
+                  "text": "Casablanca színes felirata népszerű fotótéma a borvidékre látogatók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.409333,
+                        -33.308554
+                  ]
+            },
+            {
+                  "name": "Viña Casas del Bosque",
+                  "text": "Ez a borászat öreg tőkéivel és a Casablanca-völgyre nyíló panorámájával vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.435501,
+                        -33.318793
+                  ]
+            },
+            {
+                  "name": "Viña Kingston",
+                  "text": "A Kingston Family Vineyards úttörő szerepet játszik a vörösborok termelésében az egyébként fehérborairól ismert Casablanca-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.460723,
+                        -33.317218
+                  ]
+            },
+            {
+                  "name": "Cerro San Isidro",
+                  "text": "Ez a jellegzetes csúcs széles kilátást nyújt a túrázóknak a Casablanca-völgy mezőgazdasági tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.39944,
+                        -33.358266
+                  ]
+            },
+            {
+                  "name": "Cerro Quebradilla",
+                  "text": "A Cerro Quebradilla csúcsát a chilei parti hegység mediterrán növényzete veszi körül.",
+                  "category": "natural",
+                  "coords": [
+                        -71.412314,
+                        -33.264258
+                  ]
+            },
+            {
+                  "name": "Viña Casablanca",
+                  "text": "A festői Viña Casablanca az egyik legfontosabb helyszín a helyi terroir borok kóstolásához.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.32689,
+                        -33.356249
+                  ]
+            },
+            {
+                  "name": "Río Tinto",
+                  "text": "Ez a Casablanca-völgyben található borászati célpont a régió gazdag borkészítési hagyományait ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347119,
+                        -33.34773
+                  ]
+            },
+            {
+                  "name": "Santuario Purísima Virgen de Lo Vásquez",
+                  "text": "Ez a jelentős katolikus szentély minden év december 8-án zarándokok tízezreit vonzza.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.438489,
+                        -33.256875
+                  ]
+            },
+            {
+                  "name": "Capilla San Jerónimo",
+                  "text": "A San Jerónimo keresztény kápolna csendes helyet kínál a helyi közösség számára az áhítathoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.46774,
+                        -33.349723
+                  ]
+            },
+            {
+                  "name": "Capilla Laura Vicuña",
+                  "text": "Ez a kápolna a chilei boldog, Laura Vicuña tiszteletére épült, és a spirituális elmélyülés helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.370145,
+                        -33.270387
+                  ]
+            },
+            {
+                  "name": "Parcela San Pedro",
+                  "text": "Ezen a Casablanca-völgyben található termelői piacon friss helyi termékeket és kézműves árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.368916,
+                        -33.345585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viña Quintay",
+                  "text": "Această cramă din Valea Casablanca este cunoscută pentru clima sa răcoroasă și cultivarea soiului Sauvignon Blanc.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.32978,
+                        -33.355736
+                  ]
+            },
+            {
+                  "name": "Viña William Cole",
+                  "text": "Viña William Cole oferă degustări de vinuri în mijlocul podgoriilor întinse din Valea Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.348864,
+                        -33.31694
+                  ]
+            },
+            {
+                  "name": "Bodegas Re",
+                  "text": "Bodegas Re din Casablanca combină vinificația tradițională în amfore de lut cu tehnicile moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.397678,
+                        -33.304247
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico y Antropológico de Casablanca",
+                  "text": "Acest muzeu păstrează artefactele prehispanice și coloniale din regiunea Văii Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -71.411262,
+                        -33.320662
+                  ]
+            },
+            {
+                  "name": "Letrero Casablanca",
+                  "text": "Semnul colorat cu numele Casablanca este un motiv fotografic popular pentru vizitatorii regiunii viticole.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.409333,
+                        -33.308554
+                  ]
+            },
+            {
+                  "name": "Viña Casas del Bosque",
+                  "text": "Această podgorie atrage vizitatorii cu vița de vie veche și o vedere panoramică asupra Văii Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.435501,
+                        -33.318793
+                  ]
+            },
+            {
+                  "name": "Viña Kingston",
+                  "text": "Podgoriile familiei Kingston sunt pionieri în producția de vinuri roșii în Valea Casablanca, o zonă cunoscută mai ales pentru vinurile albe.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.460723,
+                        -33.317218
+                  ]
+            },
+            {
+                  "name": "Cerro San Isidro",
+                  "text": "Acest vârf proeminent oferă drumeților o vedere largă asupra peisajului agricol din Valea Casablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -71.39944,
+                        -33.358266
+                  ]
+            },
+            {
+                  "name": "Cerro Quebradilla",
+                  "text": "Vârful Cerro Quebradilla este înconjurat de vegetația mediteraneană a Munților de Coastă chilieni.",
+                  "category": "natural",
+                  "coords": [
+                        -71.412314,
+                        -33.264258
+                  ]
+            },
+            {
+                  "name": "Viña Casablanca",
+                  "text": "Pitoreasca cramă Viña Casablanca este o destinație de top pentru degustarea vinurilor locale de terroir.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.32689,
+                        -33.356249
+                  ]
+            },
+            {
+                  "name": "Río Tinto",
+                  "text": "Această destinație legată de vin din Valea Casablanca celebrează bogata tradiție viticolă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347119,
+                        -33.34773
+                  ]
+            },
+            {
+                  "name": "Santuario Purísima Virgen de Lo Vásquez",
+                  "text": "Acest important sanctuar catolic atrage zeci de mii de pelerini în fiecare an pe 8 decembrie.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.438489,
+                        -33.256875
+                  ]
+            },
+            {
+                  "name": "Capilla San Jerónimo",
+                  "text": "Capela creștină San Jerónimo oferă un spațiu liniștit pentru rugăciune comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.46774,
+                        -33.349723
+                  ]
+            },
+            {
+                  "name": "Capilla Laura Vicuña",
+                  "text": "Această capelă este dedicată Fericitei chiliene Laura Vicuña și este un loc de reflecție spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.370145,
+                        -33.270387
+                  ]
+            },
+            {
+                  "name": "Parcela San Pedro",
+                  "text": "Această piață agricolă din Valea Casablanca oferă produse locale proaspete și bunuri artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.368916,
+                        -33.345585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viña Quintay",
+                  "text": "This winery in the Casablanca Valley is known for its cool-climate viticulture and Sauvignon Blanc.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.32978,
+                        -33.355736
+                  ]
+            },
+            {
+                  "name": "Viña William Cole",
+                  "text": "Viña William Cole offers wine tastings amidst the sprawling vineyards of the Casablanca Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.348864,
+                        -33.31694
+                  ]
+            },
+            {
+                  "name": "Bodegas Re",
+                  "text": "Bodegas Re in Casablanca combines traditional winemaking in clay amphorae with modern techniques.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.397678,
+                        -33.304247
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico y Antropológico de Casablanca",
+                  "text": "This museum preserves pre-Hispanic and colonial artifacts from the Casablanca Valley region.",
+                  "category": "museum",
+                  "coords": [
+                        -71.411262,
+                        -33.320662
+                  ]
+            },
+            {
+                  "name": "Letrero Casablanca",
+                  "text": "The colorful Casablanca name sign is a popular photo spot for visitors to the wine region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.409333,
+                        -33.308554
+                  ]
+            },
+            {
+                  "name": "Viña Casas del Bosque",
+                  "text": "This winery attracts visitors with its old vines and panoramic views over the Casablanca Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.435501,
+                        -33.318793
+                  ]
+            },
+            {
+                  "name": "Viña Kingston",
+                  "text": "The Kingston Family Vineyards are pioneers in producing red wines in the otherwise white-wine-dominated Casablanca Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.460723,
+                        -33.317218
+                  ]
+            },
+            {
+                  "name": "Cerro San Isidro",
+                  "text": "This prominent peak offers hikers sweeping views over the agricultural landscape of the Casablanca Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.39944,
+                        -33.358266
+                  ]
+            },
+            {
+                  "name": "Cerro Quebradilla",
+                  "text": "The peak of Cerro Quebradilla is surrounded by the Mediterranean vegetation of the Chilean Coastal Range.",
+                  "category": "natural",
+                  "coords": [
+                        -71.412314,
+                        -33.264258
+                  ]
+            },
+            {
+                  "name": "Viña Casablanca",
+                  "text": "The picturesque Viña Casablanca estate is a prime destination for tasting regional terroir-driven wines.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.32689,
+                        -33.356249
+                  ]
+            },
+            {
+                  "name": "Río Tinto",
+                  "text": "This wine-related destination in the Casablanca Valley celebrates the region's rich winemaking tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.347119,
+                        -33.34773
+                  ]
+            },
+            {
+                  "name": "Santuario Purísima Virgen de Lo Vásquez",
+                  "text": "This major Catholic sanctuary attracts tens of thousands of pilgrims every year on December 8th.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.438489,
+                        -33.256875
+                  ]
+            },
+            {
+                  "name": "Capilla San Jerónimo",
+                  "text": "The Christian Chapel of San Jerónimo offers a quiet space for devotion for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.46774,
+                        -33.349723
+                  ]
+            },
+            {
+                  "name": "Capilla Laura Vicuña",
+                  "text": "Dedicated to the Chilean blessed Laura Vicuña, this chapel is a place of spiritual reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.370145,
+                        -33.270387
+                  ]
+            },
+            {
+                  "name": "Parcela San Pedro",
+                  "text": "This agricultural market in the Casablanca Valley features fresh local produce and artisanal goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.368916,
+                        -33.345585
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CL-VS",
     coords: [-71.410, -33.320],
@@ -356,7 +6962,484 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["La viticulture n'a commencé ici que dans les années 1980.", "Bénéficie grandement de l'influence rafraîchissante du courant de Humboldt."],
     }, image: "/poi-images/cl-valle-de-casablanca-life-v2.webp"},
   {
-    id: "cl-valle-de-elqui-life-v2",
+    id: "cl-valle-de-elqui-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pisquera AbA Oficial",
+                  "text": "Pisquera AbA Oficial ist eine lokale Pisco-Brennerei, in der Besucher mehr über die Herstellung des berühmten Traubenbrands der Region erfahren können.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.674483,
+                        -30.025222
+                  ]
+            },
+            {
+                  "name": "Aldea Elquina",
+                  "text": "Diese lokale Sehenswürdigkeit im Elqui-Tal ist als traditionelles Dorf angelegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.703776,
+                        -30.03639
+                  ]
+            },
+            {
+                  "name": "Centro Turístico Capel",
+                  "text": "Dieses Touristenzentrum im Elqui-Tal widmet sich der traditionellen Pisco-Herstellung.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.698201,
+                        -30.039407
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "Dieses Museum im Elqui-Tal stellt religiöse und sakrale Kunstwerke aus.",
+                  "category": "museum",
+                  "coords": [
+                        -70.712911,
+                        -30.033289
+                  ]
+            },
+            {
+                  "name": "Museo Histórico del Elqui",
+                  "text": "Dieses historische Museum bewahrt das kulturelle Erbe der Region Valle de Elqui.",
+                  "category": "museum",
+                  "coords": [
+                        -70.711179,
+                        -30.035622
+                  ]
+            },
+            {
+                  "name": "Museo del Recuerdo Upasol",
+                  "text": "Dieses Museum im Elqui-Tal zeigt eine Sammlung von recycelten und historischen Alltagsgegenständen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.716587,
+                        -30.034141
+                  ]
+            },
+            {
+                  "name": "Observatorio Cerro Mamalluca",
+                  "text": "Diese astronomische Sternwarte befindet sich auf dem Gipfel des Cerro Mamalluca im Elqui-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.685394,
+                        -29.989663
+                  ]
+            },
+            {
+                  "name": "Museo Gabriela Mistral",
+                  "text": "Dieses Museum ehrt das Leben und literarische Werk der Nobelpreisträgerin Gabriela Mistral im Elqui-Tal.",
+                  "category": "museum",
+                  "coords": [
+                        -70.706514,
+                        -30.033403
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico y de Historia Natural",
+                  "text": "Dieses Naturhistorische Museum im Elqui-Tal beherbergt eine umfangreiche Sammlung von Insektenpräparaten.",
+                  "category": "museum",
+                  "coords": [
+                        -70.712863,
+                        -30.034714
+                  ]
+            },
+            {
+                  "name": "Capilla La Cruz de Mayo Hierro Viejo",
+                  "text": "Diese christliche Kapelle im Elqui-Tal wurde am 17. Januar 1960 gegründet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.701299,
+                        -30.031438
+                  ]
+            },
+            {
+                  "name": "Iglesia El Tambo",
+                  "text": "Diese christliche Kirche befindet sich in der ländlichen Ortschaft El Tambo im Elqui-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.778653,
+                        -30.031705
+                  ]
+            },
+            {
+                  "name": "Santuario de la Difunta Correa",
+                  "text": "Dieses christliche Heiligtum im Elqui-Tal ist der volkstümlichen Verehrung der Difunta Correa gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.716976,
+                        -30.10143
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculada Concepción Andacollito",
+                  "text": "Diese christliche Kapelle der Unbefleckten Empfängnis im Elqui-Tal wurde im Dezember 1999 eröffnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.624288,
+                        -30.025099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pisquera AbA Oficial",
+                  "text": "A Pisquera AbA Oficial egy helyi pisco lepárló látványosság, ahol a látogatók megismerhetik a régió híres szőlőpárlatának készítését.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.674483,
+                        -30.025222
+                  ]
+            },
+            {
+                  "name": "Aldea Elquina",
+                  "text": "Ez az Elqui-völgyi látványosság egy hagyományos falu elrendezését mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.703776,
+                        -30.03639
+                  ]
+            },
+            {
+                  "name": "Centro Turístico Capel",
+                  "text": "Ez az Elqui-völgyi turisztikai központ a hagyományos pisco gyártását mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.698201,
+                        -30.039407
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "Ez az Elqui-völgyi múzeum vallási és szakrális műalkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -70.712911,
+                        -30.033289
+                  ]
+            },
+            {
+                  "name": "Museo Histórico del Elqui",
+                  "text": "Ez a történelmi múzeum a Valle de Elqui régió kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.711179,
+                        -30.035622
+                  ]
+            },
+            {
+                  "name": "Museo del Recuerdo Upasol",
+                  "text": "Ez az Elqui-völgyi múzeum újrahasznosított és történelmi mindennapi tárgyak gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.716587,
+                        -30.034141
+                  ]
+            },
+            {
+                  "name": "Observatorio Cerro Mamalluca",
+                  "text": "Ez a csillagvizsgáló a Cerro Mamalluca hegycsúcsán található az Elqui-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.685394,
+                        -29.989663
+                  ]
+            },
+            {
+                  "name": "Museo Gabriela Mistral",
+                  "text": "Ez a múzeum a Nobel-díjas Gabriela Mistral életét és irodalmi munkásságát ünnepli az Elqui-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        -70.706514,
+                        -30.033403
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico y de Historia Natural",
+                  "text": "Ez az Elqui-völgyi természettudományi múzeum kiterjedt rovargyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -70.712863,
+                        -30.034714
+                  ]
+            },
+            {
+                  "name": "Capilla La Cruz de Mayo Hierro Viejo",
+                  "text": "Ezt az Elqui-völgyi keresztény kápolnát 1960. január 17-én alapították.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.701299,
+                        -30.031438
+                  ]
+            },
+            {
+                  "name": "Iglesia El Tambo",
+                  "text": "Ez a keresztény templom az Elqui-völgyben, El Tambo vidéki településén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.778653,
+                        -30.031705
+                  ]
+            },
+            {
+                  "name": "Santuario de la Difunta Correa",
+                  "text": "Ezt az Elqui-völgyi keresztény szentélyt a Difunta Correa népi tiszteletének szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.716976,
+                        -30.10143
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculada Concepción Andacollito",
+                  "text": "Ez a Szeplőtelen Fogantatásnak szentelt keresztény kápolna az Elqui-völgyben 1999 decemberében nyílt meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.624288,
+                        -30.025099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pisquera AbA Oficial",
+                  "text": "Pisquera AbA Oficial este o atracție a unei distilerii locale de pisco, unde vizitatorii pot învăța despre producția celebrului brandy de struguri din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.674483,
+                        -30.025222
+                  ]
+            },
+            {
+                  "name": "Aldea Elquina",
+                  "text": "Această atracție din Valea Elqui prezintă un aspect de sat tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.703776,
+                        -30.03639
+                  ]
+            },
+            {
+                  "name": "Centro Turístico Capel",
+                  "text": "Acest centru turistic din Valea Elqui este dedicat producției tradiționale de pisco.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.698201,
+                        -30.039407
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "Acest muzeu din Valea Elqui expune opere de artă religioasă și sacră.",
+                  "category": "museum",
+                  "coords": [
+                        -70.712911,
+                        -30.033289
+                  ]
+            },
+            {
+                  "name": "Museo Histórico del Elqui",
+                  "text": "Acest muzeu istoric păstrează moștenirea culturală a regiunii Valea Elqui.",
+                  "category": "museum",
+                  "coords": [
+                        -70.711179,
+                        -30.035622
+                  ]
+            },
+            {
+                  "name": "Museo del Recuerdo Upasol",
+                  "text": "Acest muzeu din Valea Elqui expune o colecție de obiecte de zi cu zi reciclate și istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -70.716587,
+                        -30.034141
+                  ]
+            },
+            {
+                  "name": "Observatorio Cerro Mamalluca",
+                  "text": "Acest observator astronomic este situat pe vârful dealului Cerro Mamalluca din Valea Elqui.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.685394,
+                        -29.989663
+                  ]
+            },
+            {
+                  "name": "Museo Gabriela Mistral",
+                  "text": "Acest muzeu onorează viața și opera literară a laureatului Nobel Gabriela Mistral în Valea Elqui.",
+                  "category": "museum",
+                  "coords": [
+                        -70.706514,
+                        -30.033403
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico y de Historia Natural",
+                  "text": "Acest muzeu de istorie naturală din Valea Elqui găzduiește o colecție vastă de specimene de insecte.",
+                  "category": "museum",
+                  "coords": [
+                        -70.712863,
+                        -30.034714
+                  ]
+            },
+            {
+                  "name": "Capilla La Cruz de Mayo Hierro Viejo",
+                  "text": "Această capelă creștină din Valea Elqui a fost înființată pe 17 ianuarie 1960.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.701299,
+                        -30.031438
+                  ]
+            },
+            {
+                  "name": "Iglesia El Tambo",
+                  "text": "Această biserică creștină este situată în așezarea rurală El Tambo din Valea Elqui.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.778653,
+                        -30.031705
+                  ]
+            },
+            {
+                  "name": "Santuario de la Difunta Correa",
+                  "text": "Acest sanctuar creștin din Valea Elqui este dedicat venerației populare a Difuntei Correa.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.716976,
+                        -30.10143
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculada Concepción Andacollito",
+                  "text": "Această capelă creștină a Imaculatei Concepții din Valea Elqui a fost deschisă în decembrie 1999.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.624288,
+                        -30.025099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pisquera AbA Oficial",
+                  "text": "Pisquera AbA Oficial is a local pisco distillery attraction where visitors can learn about the production of the region's famous grape brandy.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.674483,
+                        -30.025222
+                  ]
+            },
+            {
+                  "name": "Aldea Elquina",
+                  "text": "This attraction in the Elqui Valley features a traditional village layout.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.703776,
+                        -30.03639
+                  ]
+            },
+            {
+                  "name": "Centro Turístico Capel",
+                  "text": "This tourist centre in the Elqui Valley is dedicated to traditional pisco production.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.698201,
+                        -30.039407
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "This museum in the Elqui Valley exhibits religious and sacred art.",
+                  "category": "museum",
+                  "coords": [
+                        -70.712911,
+                        -30.033289
+                  ]
+            },
+            {
+                  "name": "Museo Histórico del Elqui",
+                  "text": "This historical museum preserves the cultural heritage of the Elqui Valley region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.711179,
+                        -30.035622
+                  ]
+            },
+            {
+                  "name": "Museo del Recuerdo Upasol",
+                  "text": "This museum in the Elqui Valley exhibits a collection of recycled and historical everyday objects.",
+                  "category": "museum",
+                  "coords": [
+                        -70.716587,
+                        -30.034141
+                  ]
+            },
+            {
+                  "name": "Observatorio Cerro Mamalluca",
+                  "text": "This astronomical observatory is situated on the summit of Cerro Mamalluca in the Elqui Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.685394,
+                        -29.989663
+                  ]
+            },
+            {
+                  "name": "Museo Gabriela Mistral",
+                  "text": "This museum honors the life and literary work of Nobel laureate Gabriela Mistral in the Elqui Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -70.706514,
+                        -30.033403
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico y de Historia Natural",
+                  "text": "This natural history museum in the Elqui Valley houses an extensive collection of insect specimens.",
+                  "category": "museum",
+                  "coords": [
+                        -70.712863,
+                        -30.034714
+                  ]
+            },
+            {
+                  "name": "Capilla La Cruz de Mayo Hierro Viejo",
+                  "text": "This Christian chapel in the Elqui Valley was founded on January 17, 1960.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.701299,
+                        -30.031438
+                  ]
+            },
+            {
+                  "name": "Iglesia El Tambo",
+                  "text": "This Christian church is located in the rural settlement of El Tambo within the Elqui Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.778653,
+                        -30.031705
+                  ]
+            },
+            {
+                  "name": "Santuario de la Difunta Correa",
+                  "text": "This Christian shrine in the Elqui Valley is dedicated to the popular devotion of Deceased Correa.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.716976,
+                        -30.10143
+                  ]
+            },
+            {
+                  "name": "Capilla Inmaculada Concepción Andacollito",
+                  "text": "This Christian chapel of the Immaculate Conception in the Elqui Valley was opened in December 1999.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.624288,
+                        -30.025099
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CL-CO",
     coords: [-70.710, -30.030],
@@ -415,7 +7498,268 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Considérée comme le centre de la production de Pisco au Chili.", "Possède un ciel dégagé plus de 300 jours par an."],
     }, image: "/poi-images/cl-valle-de-elqui-life-v2.webp"},
   {
-    id: "cl-parque-nacional-pumalin-life-v2",
+    id: "cl-parque-nacional-pumalin-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Cascada Alta",
+                  "text": "Ein Aussichtspunkt, der beeindruckende Ausblicke auf einen oberen Wasserfall im Nationalpark Pumalín bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.595884,
+                        -42.674747
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada Baja",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf einen unteren Wasserfall inmitten des üppigen gemäßigten Regenwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        -72.584644,
+                        -42.677383
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna",
+                  "text": "Ein Aussichtspunkt mit Blick auf eine ruhige Lagune, die von der dichten Vegetation des Naturschutzgebiets Pumalín umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        -72.595045,
+                        -42.657779
+                  ]
+            },
+            {
+                  "name": "Mirador Michinmahuida",
+                  "text": "Ein Aussichtspunkt, der spektakuläre Ausblicke auf den schneebedeckten Vulkan Michinmahuida bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.591798,
+                        -42.658646
+                  ]
+            },
+            {
+                  "name": "Sendero de Alerces",
+                  "text": "Ein Wanderweg, der sich durch einen unberührten Wald aus alten Alerce-Bäumen schlängelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.58051,
+                        -42.659513
+                  ]
+            },
+            {
+                  "name": "Alerces",
+                  "text": "Ein geschützter Hain, das die hoch aufragenden, tausendjährigen Alerce-Bäume im Nationalpark zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.578531,
+                        -42.659506
+                  ]
+            },
+            {
+                  "name": "Fundo Reñihué",
+                  "text": "Ein Naturschutzgebiet, das die üppige Fjordlandschaft von Reñihué und ihre einheimischen patagonischen Wälder schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.493084,
+                        -42.59137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Cascada Alta",
+                  "text": "A Pumalín Nemzeti Park egy felső vízesésére lenyűgöző kilátást nyújtó kilátó.",
+                  "category": "natural",
+                  "coords": [
+                        -72.595884,
+                        -42.674747
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada Baja",
+                  "text": "Festői kilátó, ahonnan egy alsó vízesésre nyílik kilátás a buja mérsékelt övi esőerdőben.",
+                  "category": "natural",
+                  "coords": [
+                        -72.584644,
+                        -42.677383
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna",
+                  "text": "Egy kilátó, amely a Pumalín Természetvédelmi Terület sűrű növényzetével körülvett, nyugodt lagúnára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -72.595045,
+                        -42.657779
+                  ]
+            },
+            {
+                  "name": "Mirador Michinmahuida",
+                  "text": "Egy kilátó, ahonnan látványos kilátás nyílik a hósapkás Michinmahuida vulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.591798,
+                        -42.658646
+                  ]
+            },
+            {
+                  "name": "Sendero de Alerces",
+                  "text": "Érintetlen, ősi alerce fákból álló erdőn keresztül kanyargó túraútvonal.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.58051,
+                        -42.659513
+                  ]
+            },
+            {
+                  "name": "Alerces",
+                  "text": "A nemzeti parkban található védett liget, amely az égig érő, évezredes alerce fákat mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.578531,
+                        -42.659506
+                  ]
+            },
+            {
+                  "name": "Fundo Reñihué",
+                  "text": "Természetvédelmi terület, amely a buja Reñihué-fjord táját és az őshonos patagóniai erdőket védi.",
+                  "category": "natural",
+                  "coords": [
+                        -72.493084,
+                        -42.59137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Cascada Alta",
+                  "text": "Un punct de belvedere care oferă o priveliște impresionantă asupra unei cascade superioare din Parcul Național Pumalín.",
+                  "category": "natural",
+                  "coords": [
+                        -72.595884,
+                        -42.674747
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada Baja",
+                  "text": "Un punct de observație pitoresc, cu vedere la o cascadă inferioară din mijlocul pădurii tropicale temperate luxuriante.",
+                  "category": "natural",
+                  "coords": [
+                        -72.584644,
+                        -42.677383
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna",
+                  "text": "Un punct de belvedere cu vedere la o lagună liniștită, înconjurată de vegetația deasă a rezervației naturale Pumalín.",
+                  "category": "natural",
+                  "coords": [
+                        -72.595045,
+                        -42.657779
+                  ]
+            },
+            {
+                  "name": "Mirador Michinmahuida",
+                  "text": "Un punct de belvedere care oferă o priveliște spectaculoasă asupra vulcanului cu vârfuri înzăpezite Michinmahuida.",
+                  "category": "natural",
+                  "coords": [
+                        -72.591798,
+                        -42.658646
+                  ]
+            },
+            {
+                  "name": "Sendero de Alerces",
+                  "text": "Un traseu de drumeție care șerpuiește printr-o pădure curată de arbori antici Alerce.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.58051,
+                        -42.659513
+                  ]
+            },
+            {
+                  "name": "Alerces",
+                  "text": "Un crâng protejat care prezintă arbori falnici, milenari Alerce, în cadrul parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.578531,
+                        -42.659506
+                  ]
+            },
+            {
+                  "name": "Fundo Reñihué",
+                  "text": "O rezervație naturală care protejează peisajul luxuriant al fiordului Reñihué și pădurile sale native patagonice.",
+                  "category": "natural",
+                  "coords": [
+                        -72.493084,
+                        -42.59137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Cascada Alta",
+                  "text": "A viewpoint offering impressive sights of an upper waterfall within Pumalín National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -72.595884,
+                        -42.674747
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada Baja",
+                  "text": "A scenic lookout point providing views of a lower waterfall amidst the lush temperate rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -72.584644,
+                        -42.677383
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna",
+                  "text": "A viewpoint overlooking a serene lagoon surrounded by the dense vegetation of the Pumalín nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -72.595045,
+                        -42.657779
+                  ]
+            },
+            {
+                  "name": "Mirador Michinmahuida",
+                  "text": "A lookout point affording spectacular views towards the snow-capped Michinmahuida volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -72.591798,
+                        -42.658646
+                  ]
+            },
+            {
+                  "name": "Sendero de Alerces",
+                  "text": "A hiking trail that winds through a pristine forest of ancient Alerce trees.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.58051,
+                        -42.659513
+                  ]
+            },
+            {
+                  "name": "Alerces",
+                  "text": "A protected grove showcasing towering, millennial Alerce trees within the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.578531,
+                        -42.659506
+                  ]
+            },
+            {
+                  "name": "Fundo Reñihué",
+                  "text": "A nature reserve protecting the lush Reñihué fjord landscape and its native Patagonian forests.",
+                  "category": "natural",
+                  "coords": [
+                        -72.493084,
+                        -42.59137
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-LL",
     coords: [-72.600, -42.600],
@@ -475,7 +7819,340 @@ export const poiExtraChileLifeV2: POI[] = [
     }
   },
   {
-    id: "cl-parque-nacional-queulat-life-v2",
+    id: "cl-parque-nacional-queulat-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador",
+                  "text": "Ein malerischer Aussichtspunkt inmitten der dichten, üppigen einheimischen Wälder des Queulat-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        -72.538739,
+                        -44.469996
+                  ]
+            },
+            {
+                  "name": "Mirador Panorámico",
+                  "text": "Ein Panoramapunkt, der einen weiten Blick über den immergrünen Regenwald und die patagonische Berglandschaft des Queulat-Nationalparks bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.54295,
+                        -44.468026
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein natürlicher Aussichtspunkt entlang der Wanderwege des Nationalparks, ideal zur Beobachtung der dichten andinen Flora.",
+                  "category": "natural",
+                  "coords": [
+                        -72.544841,
+                        -44.468188
+                  ]
+            },
+            {
+                  "name": "Río Ventisquero Queulat",
+                  "text": "Ein Aussichtspunkt am Flussufer mit Blick auf das Gletscherschmelzwasser des Río Ventisquero, der sich durch den gemäßigten Regenwald schlängelt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.56134,
+                        -44.460596
+                  ]
+            },
+            {
+                  "name": "Mirador y Muelle Laguna Témpanos",
+                  "text": "Ein Steg und Aussichtspunkt direkt am Ufer der Laguna Témpanos, die für ihre treibenden Eisbrocken und ihr milchiges Gletscherwasser bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -72.538679,
+                        -44.46543
+                  ]
+            },
+            {
+                  "name": "Mirador Ventisquero Colgante",
+                  "text": "Ein erstklassiger Aussichtspunkt, der einen direkten, atemberaubenden Blick auf den berühmten Hängegletscher und seine kaskadierenden Schmelzwasser-Wasserfälle bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.527865,
+                        -44.452569
+                  ]
+            },
+            {
+                  "name": "Ventisquero Colgante Glacier",
+                  "text": "Ein ikonischer, imposanter Hängegletscher hoch an einer Felswand, der unaufhörlich mächtige Wasserfälle in das darunter liegende Queulat-Tal speist.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.498851,
+                        -44.417581
+                  ]
+            },
+            {
+                  "name": "Area Silvestre Protegida Privada Punta de Vitts",
+                  "text": "Ein privates Naturschutzgebiet, das sich der Erhaltung der patagonischen Fjorde und der unberührten gemäßigten Regenwald-Ökosysteme widmet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.58708,
+                        -44.517401
+                  ]
+            },
+            {
+                  "name": "Small thermal spring in the seawater",
+                  "text": "Eine einzigartige, natürlich vorkommende heiße Quelle, die an der patagonischen Küste direkt in das kalte Meerwasser sprudelt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.555304,
+                        -44.512327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador",
+                  "text": "Festői kilátópont, amely a Queulat Nemzeti Park sűrű, buja őshonos erdeiben bújik meg.",
+                  "category": "natural",
+                  "coords": [
+                        -72.538739,
+                        -44.469996
+                  ]
+            },
+            {
+                  "name": "Mirador Panorámico",
+                  "text": "Panorámás kilátó, ahonnan szélesvásznú kilátás nyílik a Queulat Nemzeti Park örökzöld esőerdejére és patagóniai hegyvidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -72.54295,
+                        -44.468026
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A nemzeti park ösvényei mentén fekvő természetes kilátó, amely ideális a sűrű andoki növényvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -72.544841,
+                        -44.468188
+                  ]
+            },
+            {
+                  "name": "Río Ventisquero Queulat",
+                  "text": "Folyóparti kilátó, ahonnan a mérsékelt övi esőerdőt átszelő Ventisquero-folyó gleccserolvadékvizére nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -72.56134,
+                        -44.460596
+                  ]
+            },
+            {
+                  "name": "Mirador y Muelle Laguna Témpanos",
+                  "text": "A Témpanos-lagúna partján fekvő móló és kilátó, amely úszó jégdarabjairól és tejszerű gleccservizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -72.538679,
+                        -44.46543
+                  ]
+            },
+            {
+                  "name": "Mirador Ventisquero Colgante",
+                  "text": "Kiváló megfigyelőpont, amely közvetlen, lélegzetelállító kilátást nyújt a híres Függő-gleccserre és annak lezúduló olvadékvíz-vízeséseire.",
+                  "category": "natural",
+                  "coords": [
+                        -72.527865,
+                        -44.452569
+                  ]
+            },
+            {
+                  "name": "Ventisquero Colgante Glacier",
+                  "text": "Egy ikonikus, impozáns függőgleccser a sziklafalon, amely folyamatosan hatalmas vízeséseket táplál az alatta fekvő Queulat-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.498851,
+                        -44.417581
+                  ]
+            },
+            {
+                  "name": "Area Silvestre Protegida Privada Punta de Vitts",
+                  "text": "A patagóniai fjordok és az érintetlen mérsékelt övi esőerdők ökoszisztémáinak megőrzésének szentelt magán természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -72.58708,
+                        -44.517401
+                  ]
+            },
+            {
+                  "name": "Small thermal spring in the seawater",
+                  "text": "Egyedülálló, természetes eredetű hőforrás, amely a patagóniai partok mentén közvetlenül a hideg tengervízbe bugyog.",
+                  "category": "natural",
+                  "coords": [
+                        -72.555304,
+                        -44.512327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere pitoresc cufundat în pădurile native dense și luxuriante ale Parcului Național Queulat.",
+                  "category": "natural",
+                  "coords": [
+                        -72.538739,
+                        -44.469996
+                  ]
+            },
+            {
+                  "name": "Mirador Panorámico",
+                  "text": "Un punct de belvedere panoramic care oferă vederi ample asupra pădurii tropicale și a reliefului montan din Parcul Național Queulat.",
+                  "category": "natural",
+                  "coords": [
+                        -72.54295,
+                        -44.468026
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de observație natural situat de-a lungul traseelor parcului național, ideal pentru a admira flora densă andină.",
+                  "category": "natural",
+                  "coords": [
+                        -72.544841,
+                        -44.468188
+                  ]
+            },
+            {
+                  "name": "Río Ventisquero Queulat",
+                  "text": "Un punct de belvedere pe malul râului cu vedere la apele glaciare ale râului Ventisquero, care traversează pădurea tropicală temperată.",
+                  "category": "natural",
+                  "coords": [
+                        -72.56134,
+                        -44.460596
+                  ]
+            },
+            {
+                  "name": "Mirador y Muelle Laguna Témpanos",
+                  "text": "Un debarcader și un punct de observație chiar pe malul Lagunei Témpanos, cunoscută pentru blocurile de gheață plutitoare și apele glaciare lăptoase.",
+                  "category": "natural",
+                  "coords": [
+                        -72.538679,
+                        -44.46543
+                  ]
+            },
+            {
+                  "name": "Mirador Ventisquero Colgante",
+                  "text": "Un punct de observație de prim rang, oferind o vedere directă și uluitoare asupra faimosului ghețar suspendat și a cascadelor sale de apă de topire.",
+                  "category": "natural",
+                  "coords": [
+                        -72.527865,
+                        -44.452569
+                  ]
+            },
+            {
+                  "name": "Ventisquero Colgante Glacier",
+                  "text": "Un ghețar suspendat impunător și emblematic, situat sus pe o stâncă, care alimentează constant cascade puternice în valea Queulat de dedesubt.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.498851,
+                        -44.417581
+                  ]
+            },
+            {
+                  "name": "Area Silvestre Protegida Privada Punta de Vitts",
+                  "text": "O rezervație naturală privată dedicată conservării fiordurilor patagoniene și ecosistemelor de pădure tropicală temperată imaculată.",
+                  "category": "natural",
+                  "coords": [
+                        -72.58708,
+                        -44.517401
+                  ]
+            },
+            {
+                  "name": "Small thermal spring in the seawater",
+                  "text": "Un izvor termal natural unic, care bolborosește direct în apa rece a mării de-a lungul coastei patagoniene.",
+                  "category": "natural",
+                  "coords": [
+                        -72.555304,
+                        -44.512327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viewpoint",
+                  "text": "A scenic lookout point immersed within the dense, lush native forests of Queulat National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -72.538739,
+                        -44.469996
+                  ]
+            },
+            {
+                  "name": "Mirador Panorámico",
+                  "text": "A panoramic viewpoint offering sweeping views over the evergreen rainforest and mountainous terrain of Queulat National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -72.54295,
+                        -44.468026
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A natural lookout point situated along the trails of the national park, ideal for observing the dense Andean flora and mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -72.544841,
+                        -44.468188
+                  ]
+            },
+            {
+                  "name": "Río Ventisquero Queulat",
+                  "text": "A riverside viewpoint overlooking the glacial meltwaters of the Ventisquero River as it cuts through the temperate rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -72.56134,
+                        -44.460596
+                  ]
+            },
+            {
+                  "name": "Mirador y Muelle Laguna Témpanos",
+                  "text": "A pier and viewpoint right on the edge of the Témpanos Lagoon, known for its floating ice chunks and milky glacial waters.",
+                  "category": "natural",
+                  "coords": [
+                        -72.538679,
+                        -44.46543
+                  ]
+            },
+            {
+                  "name": "Mirador Ventisquero Colgante",
+                  "text": "A prime observation point offering a direct, breathtaking view of the famous Hanging Glacier and its cascading meltwater waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        -72.527865,
+                        -44.452569
+                  ]
+            },
+            {
+                  "name": "Ventisquero Colgante Glacier",
+                  "text": "An iconic, imposing hanging glacier perched high on a cliff face, constantly feeding powerful waterfalls into the Queulat valley below.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.498851,
+                        -44.417581
+                  ]
+            },
+            {
+                  "name": "Area Silvestre Protegida Privada Punta de Vitts",
+                  "text": "A private nature reserve dedicated to the conservation of Patagonian fjords and pristine temperate rainforest ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        -72.58708,
+                        -44.517401
+                  ]
+            },
+            {
+                  "name": "Small thermal spring in the seawater",
+                  "text": "A unique, naturally occurring hot spring bubbling up directly into the cold seawater along the Patagonian coast.",
+                  "category": "natural",
+                  "coords": [
+                        -72.555304,
+                        -44.512327
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-AI",
     coords: [-72.500, -44.500],
@@ -534,7 +8211,340 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Le 'Ventisquero Colgante' (Glacier Suspendu) est l'attraction principale.", "Situé sur la célèbre Carretera Austral."],
     }, image: "/poi-images/cl-parque-nacional-queulat-life-v2.webp"},
   {
-    id: "cl-reserva-pinguino-de-humboldt-life-v2",
+    id: "cl-reserva-pinguino-de-humboldt-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa La Ventana",
+                  "text": "Der Aussichtspunkt Playa La Ventana blickt auf den unberührten Sandstrand und das glitzernde Wasser des Humboldt-Pinguin-Nationalreservats.",
+                  "category": "natural",
+                  "coords": [
+                        -71.473459,
+                        -29.215079
+                  ]
+            },
+            {
+                  "name": "Playa Comunidad Los Choros",
+                  "text": "Der Los Choros Community Beach dient als Küstenattraktion, an der Besucher oft ihre Bootstouren zur Pinguinbeobachtung beginnen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.465431,
+                        -29.223492
+                  ]
+            },
+            {
+                  "name": "Faro Punta de Choros",
+                  "text": "Der Faro Punta de Choros ist ein Küstenleuchtturm, der lokale Fischerboote und Ausflugsschiffe durch die geschützten Gewässer führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.45912,
+                        -29.25565
+                  ]
+            },
+            {
+                  "name": "Reserva Marina Islas Choros - Damas",
+                  "text": "Dieses Meeresschutzgebiet schützt die reichen Küstengewässer rund um die Inseln Choros und Damas, einem Zufluchtsort für Delfine und Seevögel.",
+                  "category": "natural",
+                  "coords": [
+                        -71.536274,
+                        -29.256084
+                  ]
+            },
+            {
+                  "name": "Playa las tijeras",
+                  "text": "Playa las Tijeras ist ein malerischer Strand auf der Insel Damas, der für seinen außergewöhnlich weißen Sand und sein kristallklares, türkisfarbenes Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.521906,
+                        -29.2385
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Choros",
+                  "text": "Playa Punta de Choros ist ein ausgedehnter Sandstrand, der als Hauptausgangspunkt für Expeditionen zu den nahe gelegenen Inseln dient.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.46409,
+                        -29.243145
+                  ]
+            },
+            {
+                  "name": "Playa Barrancas",
+                  "text": "Playa Barrancas ist ein ruhiger, natürlicher Strand, der sich durch sanfte Dünen und eine raue Küstenumgebung auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487606,
+                        -29.173356
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Isla Gaviota",
+                  "text": "Isla Gaviota ist ein geschütztes nationales Naturschutzgebiet und dient als wichtiger Nistplatz für Seevögel in der Region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479075,
+                        -29.260844
+                  ]
+            },
+            {
+                  "name": "CapilLa San Agustín",
+                  "text": "Die Capilla San Agustín ist eine kleine, traditionelle christliche Kapelle, die den lokalen Küstenbewohnern als Andachtsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.461187,
+                        -29.246556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa La Ventana",
+                  "text": "A Playa La Ventana kilátó az érintetlen homokos partra és a Humboldt-pingvin Nemzeti Rezervátum csillogó vizeire néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.473459,
+                        -29.215079
+                  ]
+            },
+            {
+                  "name": "Playa Comunidad Los Choros",
+                  "text": "A Los Choros Community Beach egy tengerparti látványosság, ahol a látogatók gyakran megkezdik hajókirándulásukat, hogy lássák a pingvineket.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.465431,
+                        -29.223492
+                  ]
+            },
+            {
+                  "name": "Faro Punta de Choros",
+                  "text": "A Faro Punta de Choros egy part menti világítótorony, amely a védett vizeken navigáló helyi halászhajókat és kirándulóhajókat irányítja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.45912,
+                        -29.25565
+                  ]
+            },
+            {
+                  "name": "Reserva Marina Islas Choros - Damas",
+                  "text": "Ez a tengeri rezervátum a Choros- és a Damas-szigeteket körülvevő gazdag parti vizeket védi, amelyek delfinek és tengeri madarak menedékéül szolgálnak.",
+                  "category": "natural",
+                  "coords": [
+                        -71.536274,
+                        -29.256084
+                  ]
+            },
+            {
+                  "name": "Playa las tijeras",
+                  "text": "A Playa las Tijeras egy festői strand a Damas-szigeten, amely rendkívül fehér homokjáról és kristálytiszta türkizkék vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.521906,
+                        -29.2385
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Choros",
+                  "text": "A Playa Punta de Choros egy kiterjedt homokos part, amely a közeli szigetekre induló expedíciók elsődleges kiindulópontjaként szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.46409,
+                        -29.243145
+                  ]
+            },
+            {
+                  "name": "Playa Barrancas",
+                  "text": "A Playa Barrancas egy csendes, természetes strand, amelyet lankás dűnék és zord part menti környezet jellemez.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487606,
+                        -29.173356
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Isla Gaviota",
+                  "text": "Az Isla Gaviota egy védett nemzeti természetvédelmi terület, amely fontos fészkelőhelyként szolgál a régió tengeri madarai számára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479075,
+                        -29.260844
+                  ]
+            },
+            {
+                  "name": "CapilLa San Agustín",
+                  "text": "A Capilla San Agustín egy kicsi, hagyományos keresztény kápolna, amely istentiszteleti helyet biztosít a helyi part menti lakosoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.461187,
+                        -29.246556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa La Ventana",
+                  "text": "Punctul de belvedere Playa La Ventana are vedere la țărmul nisipos curat și la apele strălucitoare ale zonei Rezervației Naționale Pinguinii Humboldt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.473459,
+                        -29.215079
+                  ]
+            },
+            {
+                  "name": "Playa Comunidad Los Choros",
+                  "text": "Los Choros Community Beach servește ca o atracție de coastă de unde vizitatorii își încep adesea excursiile cu barca pentru a vedea pinguinii.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.465431,
+                        -29.223492
+                  ]
+            },
+            {
+                  "name": "Faro Punta de Choros",
+                  "text": "Faro Punta de Choros este un far de coastă care ghidează bărcile locale de pescuit și navele de turism care navighează în apele protejate.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.45912,
+                        -29.25565
+                  ]
+            },
+            {
+                  "name": "Reserva Marina Islas Choros - Damas",
+                  "text": "Această rezervație marină protejează apele de coastă bogate din jurul insulelor Choros și Damas, un refugiu pentru delfini și păsări marine.",
+                  "category": "natural",
+                  "coords": [
+                        -71.536274,
+                        -29.256084
+                  ]
+            },
+            {
+                  "name": "Playa las tijeras",
+                  "text": "Playa las Tijeras este o plajă pitorească de pe Insula Damas, cunoscută pentru nisipul său extraordinar de alb și apele turcoaz cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.521906,
+                        -29.2385
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Choros",
+                  "text": "Playa Punta de Choros este un țărm nisipos extins care servește drept punct de lansare principal pentru expedițiile către insulele din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.46409,
+                        -29.243145
+                  ]
+            },
+            {
+                  "name": "Playa Barrancas",
+                  "text": "Playa Barrancas este o plajă naturală, liniștită, caracterizată prin dune blânde și un cadru de coastă accidentat.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487606,
+                        -29.173356
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Isla Gaviota",
+                  "text": "Isla Gaviota este o rezervație naturală națională protejată, servind drept loc critic de cuibărit pentru păsările marine din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479075,
+                        -29.260844
+                  ]
+            },
+            {
+                  "name": "CapilLa San Agustín",
+                  "text": "Capilla San Agustín este o mică capelă creștină tradițională, oferind un lăcaș de cult pentru locuitorii de coastă locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.461187,
+                        -29.246556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa La Ventana",
+                  "text": "The Playa La Ventana viewpoint overlooks the pristine sandy shore and the sparkling waters of the Humboldt Penguin National Reserve area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.473459,
+                        -29.215079
+                  ]
+            },
+            {
+                  "name": "Los Choros Community Beach",
+                  "text": "Los Choros Community Beach serves as a coastal attraction where visitors often begin their boat tours to see the penguins.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.465431,
+                        -29.223492
+                  ]
+            },
+            {
+                  "name": "Faro Punta de Choros",
+                  "text": "The Faro Punta de Choros is a coastal lighthouse guiding local fishing boats and tour vessels navigating the protected waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.45912,
+                        -29.25565
+                  ]
+            },
+            {
+                  "name": "Reserva Marina Islas Choros - Damas",
+                  "text": "This marine reserve protects the rich coastal waters surrounding the Choros and Damas islands, a haven for dolphins and seabirds.",
+                  "category": "natural",
+                  "coords": [
+                        -71.536274,
+                        -29.256084
+                  ]
+            },
+            {
+                  "name": "Playa las tijeras",
+                  "text": "Playa las Tijeras is a scenic beach on Damas Island known for its extraordinarily white sand and crystal-clear turquoise waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.521906,
+                        -29.2385
+                  ]
+            },
+            {
+                  "name": "Playa Punta de Choros",
+                  "text": "Playa Punta de Choros is an extended sandy shore serving as the primary launching point for expeditions to the nearby islands.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.46409,
+                        -29.243145
+                  ]
+            },
+            {
+                  "name": "Playa Barrancas",
+                  "text": "Playa Barrancas is a quiet, natural beach characterized by gentle dunes and rugged coastal surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.487606,
+                        -29.173356
+                  ]
+            },
+            {
+                  "name": "Bien Nacional Protegido Isla Gaviota",
+                  "text": "Isla Gaviota is a protected national nature reserve, serving as a critical nesting site for marine birds in the region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479075,
+                        -29.260844
+                  ]
+            },
+            {
+                  "name": "CapilLa San Agustín",
+                  "text": "Capilla San Agustín is a small, traditional Christian chapel providing a place of worship for the local coastal inhabitants.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.461187,
+                        -29.246556
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-CO",
     coords: [-71.550, -29.240],
@@ -593,7 +8603,232 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Comprend les îles Chañaral, Damas et Choros.", "Des otaries, des dauphins et des baleines y vivent également."],
     }, image: "/poi-images/cl-reserva-pinguino-de-humboldt-life-v2.webp"},
   {
-    id: "cl-parque-nacional-pan-de-azucar-life-v2",
+    id: "cl-parque-nacional-pan-de-azucar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Mirador",
+                  "text": "Ein hoch gelegener Aussichtspunkt im Nationalpark Pan de Azúcar mit Blick auf die Küstenwüste und den Ozean.",
+                  "category": "natural",
+                  "coords": [
+                        -70.64874,
+                        -26.111817
+                  ]
+            },
+            {
+                  "name": "Cerro Soldado",
+                  "text": "Ein Wüstenberggipfel im zerklüfteten Gelände des Nationalparks Pan de Azúcar.",
+                  "category": "natural",
+                  "coords": [
+                        -70.666789,
+                        -26.169248
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Pan de Azúcar",
+                  "text": "Ein Küstennationalpark, der für seine trockenen Wüstenlandschaften und Humboldt-Pinguinkolonien bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.587591,
+                        -26.086564
+                  ]
+            },
+            {
+                  "name": "Playa Piqueros",
+                  "text": "Ein Sandstrand in der geschützten Küstenumgebung des Nationalparks Pan de Azúcar.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.667513,
+                        -26.147478
+                  ]
+            },
+            {
+                  "name": "Playa Soldado",
+                  "text": "Ein Küstenstrand vor der Wüstenkulisse des Nationalparks Pan de Azúcar.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.668077,
+                        -26.155846
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Ein unberührter weißer Sandstrand im Naturreservat Pan de Azúcar.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.657137,
+                        -26.180499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Mirador",
+                  "text": "A Pan de Azúcar Nemzeti Park magasan fekvő kilátója, ahonnan a tengerparti sivatagra és az óceánra nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -70.64874,
+                        -26.111817
+                  ]
+            },
+            {
+                  "name": "Cerro Soldado",
+                  "text": "Egy sivatagi hegycsúcs a Pan de Azúcar Nemzeti Park zord vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        -70.666789,
+                        -26.169248
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Pan de Azúcar",
+                  "text": "Száraz sivatagi tájairól és Humboldt-pingvin kolóniáiról híres part menti nemzeti park.",
+                  "category": "natural",
+                  "coords": [
+                        -70.587591,
+                        -26.086564
+                  ]
+            },
+            {
+                  "name": "Playa Piqueros",
+                  "text": "Homokos strand a Pan de Azúcar Nemzeti Park védett partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.667513,
+                        -26.147478
+                  ]
+            },
+            {
+                  "name": "Playa Soldado",
+                  "text": "Tengerparti strand a Pan de Azúcar Nemzeti Park sivatagi hátterével.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.668077,
+                        -26.155846
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "Érintetlen, fehér homokos strand a Pan de Azúcar természetvédelmi területén belül.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.657137,
+                        -26.180499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Mirador",
+                  "text": "Un punct de belvedere la mare altitudine din Parcul Național Pan de Azúcar, care oferă vedere la deșertul de coastă și la ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -70.64874,
+                        -26.111817
+                  ]
+            },
+            {
+                  "name": "Cerro Soldado",
+                  "text": "Un vârf montan deșertic situat în terenul accidentat al Parcului Național Pan de Azúcar.",
+                  "category": "natural",
+                  "coords": [
+                        -70.666789,
+                        -26.169248
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Pan de Azúcar",
+                  "text": "Un parc național de coastă renumit pentru peisajele sale deșertice aride și coloniile de pinguini Humboldt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.587591,
+                        -26.086564
+                  ]
+            },
+            {
+                  "name": "Playa Piqueros",
+                  "text": "O plajă cu nisip situată în mediul de coastă protejat al Parcului Național Pan de Azúcar.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.667513,
+                        -26.147478
+                  ]
+            },
+            {
+                  "name": "Playa Soldado",
+                  "text": "O plajă de coastă așezată pe fundalul deșertic al Parcului Național Pan de Azúcar.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.668077,
+                        -26.155846
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "O plajă curată cu nisip alb, ascunsă în rezervația naturală Pan de Azúcar.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.657137,
+                        -26.180499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Mirador",
+                  "text": "A high-altitude viewpoint in Pan de Azúcar National Park providing views of the coastal desert and ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -70.64874,
+                        -26.111817
+                  ]
+            },
+            {
+                  "name": "Cerro Soldado",
+                  "text": "A desert mountain peak located within the rugged terrain of Pan de Azúcar National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -70.666789,
+                        -26.169248
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Pan de Azúcar",
+                  "text": "A coastal national park renowned for its arid desert landscapes and colonies of Humboldt penguins.",
+                  "category": "natural",
+                  "coords": [
+                        -70.587591,
+                        -26.086564
+                  ]
+            },
+            {
+                  "name": "Playa Piqueros",
+                  "text": "A sandy beach located within the protected coastal environment of Pan de Azúcar National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.667513,
+                        -26.147478
+                  ]
+            },
+            {
+                  "name": "Playa Soldado",
+                  "text": "A coastal beach set against the desert backdrop of the Pan de Azúcar National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.668077,
+                        -26.155846
+                  ]
+            },
+            {
+                  "name": "Playa Blanca",
+                  "text": "A pristine white-sand beach nestled within the natural reserve of Pan de Azúcar.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.657137,
+                        -26.180499
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-AT",
     coords: [-70.650, -26.150],
@@ -652,7 +8887,556 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Abrite des guanacos, des renards du désert et des oiseaux marins.", "L'île éponyme est un lieu de nidification pour les manchots de Humboldt."],
     }, image: "/poi-images/cl-parque-nacional-pan-de-azucar-life-v2.webp"},
   {
-    id: "cl-parque-nacional-conguillio-life-v2",
+    id: "cl-parque-nacional-conguillio-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador del Volcán",
+                  "text": "Dieser Aussichtspunkt im cl-parque-nacional-conguillio-life-v2 ermöglicht direkte Blicke auf den imposanten aktiven Vulkan Llaima.",
+                  "category": "natural",
+                  "coords": [
+                        -71.626975,
+                        -38.73622
+                  ]
+            },
+            {
+                  "name": "Mirador Los Cóndores",
+                  "text": "Von dieser erhöhten Plattform in cl-parque-nacional-conguillio-life-v2 kann man oft Andenkondore über den Baumkronen der Araukarien kreisen sehen.",
+                  "category": "natural",
+                  "coords": [
+                        -71.607632,
+                        -38.64077
+                  ]
+            },
+            {
+                  "name": "Las Mellizas",
+                  "text": "Dieser Aussichtspunkt in cl-parque-nacional-conguillio-life-v2 blickt auf die idyllischen, von einheimischen Wäldern umgebenen Seen.",
+                  "category": "natural",
+                  "coords": [
+                        -71.618484,
+                        -38.658499
+                  ]
+            },
+            {
+                  "name": "Mirador Conguillío",
+                  "text": "An diesem Aussichtspunkt in cl-parque-nacional-conguillio-life-v2 liegt der weitläufige Conguillío-See mit seinem von Vulkanen geprägten Ufer vor den Besuchern.",
+                  "category": "natural",
+                  "coords": [
+                        -71.613131,
+                        -38.649417
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Arcoiris",
+                  "text": "Dieser Aussichtspunkt in cl-parque-nacional-conguillio-life-v2 präsentiert das kristallklare Wasser des Lago Arcoiris, das versunkene Wälder verbirgt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.621106,
+                        -38.671758
+                  ]
+            },
+            {
+                  "name": "Araucaria Madre Milenaria",
+                  "text": "Diese majestätische Araukarie in cl-parque-nacional-conguillio-life-v2 wurzelt hier seit dem Jahr 225 und ist ein lebendes Naturdenkmal des Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.671786,
+                        -38.643183
+                  ]
+            },
+            {
+                  "name": "Mirador Volcán Llaima reflejado en el Lago Conguillío",
+                  "text": "Dieser idyllische Aussichtspunkt im cl-parque-nacional-conguillio-life-v2 bietet den perfekten Winkel, um das Spiegelbild des Vulkans Llaima auf dem See zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        -71.600497,
+                        -38.623551
+                  ]
+            },
+            {
+                  "name": "Mirador Sierra Nevada",
+                  "text": "Von dieser Plattform in cl-parque-nacional-conguillio-life-v2 schweift der Blick über die oft schneebedeckten Gipfel der Bergkette Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -71.600106,
+                        -38.616074
+                  ]
+            },
+            {
+                  "name": "Fumarolas del Toro",
+                  "text": "Diese dampfenden Fumarolen im cl-parque-nacional-conguillio-life-v2 zeugen von der starken geothermischen und vulkanischen Aktivität der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.615911,
+                        -38.574565
+                  ]
+            },
+            {
+                  "name": "Lahar del 2008",
+                  "text": "Dieser Aussichtspunkt in cl-parque-nacional-conguillio-life-v2 zeigt die gewaltigen Spuren des vulkanischen Schlammstroms, der beim Ausbruch 2008 entstand.",
+                  "category": "natural",
+                  "coords": [
+                        -71.731003,
+                        -38.633041
+                  ]
+            },
+            {
+                  "name": "Playa Linda",
+                  "text": "Dieser ruhige Seeuferstrand im cl-parque-nacional-conguillio-life-v2 bietet Besuchern die Möglichkeit, in einem vulkanisch geprägten Seeufergebiet zu entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.614545,
+                        -38.647143
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Conguillío",
+                  "text": "Dieses Naturschutzgebiet im cl-parque-nacional-conguillio-life-v2 schützt dichte Araukarienwälder und die rauen Hänge rund um den Llaima-Vulkan.",
+                  "category": "natural",
+                  "coords": [
+                        -71.677327,
+                        -38.673692
+                  ]
+            },
+            {
+                  "name": "Casa del Colono",
+                  "text": "Diese historische Touristenattraktion in cl-parque-nacional-conguillio-life-v2 beleuchtet mit ihrer traditionellen Bauweise das Leben der frühen Siedler in den Andenwäldern.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.62256,
+                        -38.670848
+                  ]
+            },
+            {
+                  "name": "Playa Curacautín",
+                  "text": "Dieser Strandbereich in cl-parque-nacional-conguillio-life-v2 am Ufer eines eisigen Sees ist ein beliebter Rastplatz für Wanderer des Nationalparks.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.650427,
+                        -38.645716
+                  ]
+            },
+            {
+                  "name": "Termas del Cañón del Blanco (Vaca)",
+                  "text": "Dieses öffentliche Thermalbad in cl-parque-nacional-conguillio-life-v2 nutzt die vulkanisch erhitzten Quellen der Region für warme Naturpools.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.62798,
+                        -38.578768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador del Volcán",
+                  "text": "Ez a cl-parque-nacional-conguillio-life-v2-ben lévő kilátópont közvetlen rálátást biztosít a lenyűgöző és aktív Llaima vulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.626975,
+                        -38.73622
+                  ]
+            },
+            {
+                  "name": "Mirador Los Cóndores",
+                  "text": "Erről a cl-parque-nacional-conguillio-life-v2-ben lévő magaslati kilátóról gyakran lehet andoki kondorkeselyűket látni az araukária fák koronája felett körözni.",
+                  "category": "natural",
+                  "coords": [
+                        -71.607632,
+                        -38.64077
+                  ]
+            },
+            {
+                  "name": "Las Mellizas",
+                  "text": "Ez a cl-parque-nacional-conguillio-life-v2-ben található kilátó az őshonos erdőkkel körülvett idilli tavakra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.618484,
+                        -38.658499
+                  ]
+            },
+            {
+                  "name": "Mirador Conguillío",
+                  "text": "Ezen a cl-parque-nacional-conguillio-life-v2-ben lévő kilátóponton a tágas Conguillío-tó tárul a látogatók elé vulkanikus formálta partjaival.",
+                  "category": "natural",
+                  "coords": [
+                        -71.613131,
+                        -38.649417
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Arcoiris",
+                  "text": "Ez a cl-parque-nacional-conguillio-life-v2-ben található kilátó a Lago Arcoiris kristálytiszta vizét mutatja be, amely elsüllyedt erdőket rejt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.621106,
+                        -38.671758
+                  ]
+            },
+            {
+                  "name": "Araucaria Madre Milenaria",
+                  "text": "Ez a fenséges araukária cl-parque-nacional-conguillio-life-v2-ben a 225-ös év óta gyökerezik itt, és a park élő természeti emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.671786,
+                        -38.643183
+                  ]
+            },
+            {
+                  "name": "Mirador Volcán Llaima reflejado en el Lago Conguillío",
+                  "text": "Ez az idilli kilátópont cl-parque-nacional-conguillio-life-v2-ben tökéletes szöget kínál a Llaima vulkán tavon tükröződő képének megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -71.600497,
+                        -38.623551
+                  ]
+            },
+            {
+                  "name": "Mirador Sierra Nevada",
+                  "text": "Erről a cl-parque-nacional-conguillio-life-v2-ben lévő platformról a tekintet a Sierra Nevada hegylánc gyakran hóval borított csúcsain vándorol.",
+                  "category": "natural",
+                  "coords": [
+                        -71.600106,
+                        -38.616074
+                  ]
+            },
+            {
+                  "name": "Fumarolas del Toro",
+                  "text": "Ezek a cl-parque-nacional-conguillio-life-v2-ben található gőzölgő fumarolák a régió erős geotermikus és vulkáni tevékenységéről tanúskodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.615911,
+                        -38.574565
+                  ]
+            },
+            {
+                  "name": "Lahar del 2008",
+                  "text": "Ez a kilátópont cl-parque-nacional-conguillio-life-v2-ben a 2008-as kitörés során keletkezett hatalmas vulkáni iszapfolyás nyomait tárja fel.",
+                  "category": "natural",
+                  "coords": [
+                        -71.731003,
+                        -38.633041
+                  ]
+            },
+            {
+                  "name": "Playa Linda",
+                  "text": "Ez a békés tóparti strand a cl-parque-nacional-conguillio-life-v2-ben lehetőséget nyújt a látogatóknak a pihenésre egy vulkáni alakította partvidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.614545,
+                        -38.647143
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Conguillío",
+                  "text": "Ez a cl-parque-nacional-conguillio-life-v2-ben fekvő nemzeti park sűrű araukáriaerdőket és a Llaima vulkán körüli zord lejtőket védelmez.",
+                  "category": "natural",
+                  "coords": [
+                        -71.677327,
+                        -38.673692
+                  ]
+            },
+            {
+                  "name": "Casa del Colono",
+                  "text": "Ez a történelmi turisztikai látványosság cl-parque-nacional-conguillio-life-v2-ben hagyományos építészetével a korai telepesek életét mutatja be az Andok erdeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.62256,
+                        -38.670848
+                  ]
+            },
+            {
+                  "name": "Playa Curacautín",
+                  "text": "Ez a cl-parque-nacional-conguillio-life-v2-ben lévő partszakasz egy jeges tó partján népszerű pihenőhely a nemzeti park túrázói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.650427,
+                        -38.645716
+                  ]
+            },
+            {
+                  "name": "Termas del Cañón del Blanco (Vaca)",
+                  "text": "Ez a cl-parque-nacional-conguillio-life-v2-ben található nyilvános termálfürdő a régió vulkanikusan fűtött forrásait hasznosítja meleg vizű természetes medencéiben.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.62798,
+                        -38.578768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador del Volcán",
+                  "text": "Acest punct de belvedere din cl-parque-nacional-conguillio-life-v2 permite priviri directe asupra impozantului vulcan activ Llaima.",
+                  "category": "natural",
+                  "coords": [
+                        -71.626975,
+                        -38.73622
+                  ]
+            },
+            {
+                  "name": "Mirador Los Cóndores",
+                  "text": "De la această platformă ridicată din cl-parque-nacional-conguillio-life-v2 se pot vedea adesea condori andini zburând deasupra coronamentului de araucaria.",
+                  "category": "natural",
+                  "coords": [
+                        -71.607632,
+                        -38.64077
+                  ]
+            },
+            {
+                  "name": "Las Mellizas",
+                  "text": "Acest punct de belvedere din cl-parque-nacional-conguillio-life-v2 are vedere la lacurile idilice înconjurate de păduri native.",
+                  "category": "natural",
+                  "coords": [
+                        -71.618484,
+                        -38.658499
+                  ]
+            },
+            {
+                  "name": "Mirador Conguillío",
+                  "text": "La acest punct de belvedere din cl-parque-nacional-conguillio-life-v2, vastul lac Conguillío cu țărmul său modelat vulcanic se întinde în fața vizitatorilor.",
+                  "category": "natural",
+                  "coords": [
+                        -71.613131,
+                        -38.649417
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Arcoiris",
+                  "text": "Acest punct de belvedere din cl-parque-nacional-conguillio-life-v2 prezintă apa cristalină a Lago Arcoiris, care ascunde păduri scufundate sub suprafața sa.",
+                  "category": "natural",
+                  "coords": [
+                        -71.621106,
+                        -38.671758
+                  ]
+            },
+            {
+                  "name": "Araucaria Madre Milenaria",
+                  "text": "Această araucaria maiestuoasă din cl-parque-nacional-conguillio-life-v2 își are rădăcinile aici din anul 225, fiind un monument natural viu al parcului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.671786,
+                        -38.643183
+                  ]
+            },
+            {
+                  "name": "Mirador Volcán Llaima reflejado en el Lago Conguillío",
+                  "text": "Acest punct de belvedere idilic din cl-parque-nacional-conguillio-life-v2 oferă unghiul perfect pentru a admira reflexia vulcanului Llaima pe suprafața lacului.",
+                  "category": "natural",
+                  "coords": [
+                        -71.600497,
+                        -38.623551
+                  ]
+            },
+            {
+                  "name": "Mirador Sierra Nevada",
+                  "text": "De pe această platformă din cl-parque-nacional-conguillio-life-v2 privirea alunecă peste vârfurile adesea acoperite de zăpadă ale lanțului muntos Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -71.600106,
+                        -38.616074
+                  ]
+            },
+            {
+                  "name": "Fumarolas del Toro",
+                  "text": "Aceste fumarole fumegânde din cl-parque-nacional-conguillio-life-v2 atestă activitatea geotermală și vulcanică puternică din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.615911,
+                        -38.574565
+                  ]
+            },
+            {
+                  "name": "Lahar del 2008",
+                  "text": "Acest punct de belvedere din cl-parque-nacional-conguillio-life-v2 arată urmele masive ale fluxului de noroi vulcanic lăsat de erupția din 2008.",
+                  "category": "natural",
+                  "coords": [
+                        -71.731003,
+                        -38.633041
+                  ]
+            },
+            {
+                  "name": "Playa Linda",
+                  "text": "Această plajă liniștită de pe malul lacului din cl-parque-nacional-conguillio-life-v2 oferă vizitatorilor o zonă de relaxare într-un peisaj modelat de vulcani.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.614545,
+                        -38.647143
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Conguillío",
+                  "text": "Această rezervație naturală din cl-parque-nacional-conguillio-life-v2 protejează păduri dense de araucaria și pantele aspre din jurul vulcanului Llaima.",
+                  "category": "natural",
+                  "coords": [
+                        -71.677327,
+                        -38.673692
+                  ]
+            },
+            {
+                  "name": "Casa del Colono",
+                  "text": "Această atracție turistică istorică din cl-parque-nacional-conguillio-life-v2, prin construcția sa tradițională, evidențiază viața primilor coloniști din pădurile andine.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.62256,
+                        -38.670848
+                  ]
+            },
+            {
+                  "name": "Playa Curacautín",
+                  "text": "Această zonă de plajă din cl-parque-nacional-conguillio-life-v2, pe malul unui lac glaciar, este un loc popular de odihnă pentru drumeții parcului național.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.650427,
+                        -38.645716
+                  ]
+            },
+            {
+                  "name": "Termas del Cañón del Blanco (Vaca)",
+                  "text": "Această baie publică termală din cl-parque-nacional-conguillio-life-v2 utilizează izvoarele încălzite vulcanic ale regiunii pentru bazine calde naturale.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.62798,
+                        -38.578768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador del Volcán",
+                  "text": "This viewpoint in cl-parque-nacional-conguillio-life-v2 provides direct sightlines to the imposing active Llaima volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -71.626975,
+                        -38.73622
+                  ]
+            },
+            {
+                  "name": "Mirador Los Cóndores",
+                  "text": "From this elevated viewpoint in cl-parque-nacional-conguillio-life-v2, Andean condors can often be seen soaring above the araucaria tree canopy.",
+                  "category": "natural",
+                  "coords": [
+                        -71.607632,
+                        -38.64077
+                  ]
+            },
+            {
+                  "name": "Las Mellizas",
+                  "text": "This viewpoint in cl-parque-nacional-conguillio-life-v2 overlooks idyllic lakes surrounded by native woodlands.",
+                  "category": "natural",
+                  "coords": [
+                        -71.618484,
+                        -38.658499
+                  ]
+            },
+            {
+                  "name": "Mirador Conguillío",
+                  "text": "At this viewpoint in cl-parque-nacional-conguillio-life-v2, the expansive Conguillío Lake with its volcanically shaped shoreline is laid out before visitors.",
+                  "category": "natural",
+                  "coords": [
+                        -71.613131,
+                        -38.649417
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Arcoiris",
+                  "text": "This viewpoint in cl-parque-nacional-conguillio-life-v2 showcases the crystal-clear waters of Lago Arcoiris, which conceal submerged forests.",
+                  "category": "natural",
+                  "coords": [
+                        -71.621106,
+                        -38.671758
+                  ]
+            },
+            {
+                  "name": "Araucaria Madre Milenaria",
+                  "text": "Rooted here since the year 225, this majestic araucaria tree in cl-parque-nacional-conguillio-life-v2 stands as a living natural monument of the park.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.671786,
+                        -38.643183
+                  ]
+            },
+            {
+                  "name": "Mirador Volcán Llaima reflejado en el Lago Conguillío",
+                  "text": "This idyllic viewpoint in cl-parque-nacional-conguillio-life-v2 provides the perfect angle to observe the reflection of the Llaima volcano on the lake.",
+                  "category": "natural",
+                  "coords": [
+                        -71.600497,
+                        -38.623551
+                  ]
+            },
+            {
+                  "name": "Mirador Sierra Nevada",
+                  "text": "From this platform in cl-parque-nacional-conguillio-life-v2, the view sweeps across the frequently snow-capped peaks of the Sierra Nevada mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -71.600106,
+                        -38.616074
+                  ]
+            },
+            {
+                  "name": "Fumarolas del Toro",
+                  "text": "These steaming fumaroles in cl-parque-nacional-conguillio-life-v2 are a striking testament to the region's active geothermal and volcanic processes.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.615911,
+                        -38.574565
+                  ]
+            },
+            {
+                  "name": "Lahar del 2008",
+                  "text": "This viewpoint in cl-parque-nacional-conguillio-life-v2 reveals the massive tracks of the volcanic mudflow created during the 2008 eruption.",
+                  "category": "natural",
+                  "coords": [
+                        -71.731003,
+                        -38.633041
+                  ]
+            },
+            {
+                  "name": "Playa Linda",
+                  "text": "This tranquil lakeside beach in cl-parque-nacional-conguillio-life-v2 offers visitors a peaceful relaxation spot along a volcanically sculpted shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.614545,
+                        -38.647143
+                  ]
+            },
+            {
+                  "name": "Conguillío National Park",
+                  "text": "This nature reserve in cl-parque-nacional-conguillio-life-v2 protects dense araucaria forests and the rugged slopes surrounding the Llaima volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -71.677327,
+                        -38.673692
+                  ]
+            },
+            {
+                  "name": "Casa del Colono",
+                  "text": "Featuring traditional construction, this historical attraction in cl-parque-nacional-conguillio-life-v2 highlights the life of early settlers in the Andean forests.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.62256,
+                        -38.670848
+                  ]
+            },
+            {
+                  "name": "Playa Curacautín",
+                  "text": "Situated along the shores of an icy lake, this beach area in cl-parque-nacional-conguillio-life-v2 is a popular resting spot for hikers in the national park.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.650427,
+                        -38.645716
+                  ]
+            },
+            {
+                  "name": "Termas del Cañón del Blanco (Vaca)",
+                  "text": "This public thermal bath in cl-parque-nacional-conguillio-life-v2 utilizes the region's volcanically heated springs to feed warm natural pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.62798,
+                        -38.578768
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-AR",
     coords: [-71.650, -38.650],
@@ -711,7 +9495,376 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["A servi de lieu de tournage pour le documentaire de la BBC « Sur la terre des dinosaures ».", "A été déclaré parc national en 1950."],
     }, image: "/poi-images/cl-parque-nacional-conguillio-life-v2.webp"},
   {
-    id: "cl-parque-nacional-vicente-perez-rosales-life-v2",
+    id: "cl-parque-nacional-vicente-perez-rosales-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Este Glaciar Castaño Overa",
+                  "text": "Dieser östliche Aussichtspunkt im Nationalpark bietet einen spektakulären Blick auf den Gletscher Castaño Overa.",
+                  "category": "natural",
+                  "coords": [
+                        -71.820512,
+                        -41.189853
+                  ]
+            },
+            {
+                  "name": "Mirador Oeste Glaciar Castaño Overa y Ventisquero Negro",
+                  "text": "Ein westlicher Aussichtspunkt im Nationalpark mit doppeltem Blick auf den Gletscher Castaño Overa und den Ventisquero Negro.",
+                  "category": "natural",
+                  "coords": [
+                        -71.821864,
+                        -41.189323
+                  ]
+            },
+            {
+                  "name": "Glaciar Castaño Overa",
+                  "text": "Ein beeindruckender Aussichtspunkt, der sich direkt auf die massiven Eisformationen des Castaño Overa-Gletschers konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.807929,
+                        -41.186789
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Castaño Overa + cascadas",
+                  "text": "Ein Aussichtspunkt im Nationalpark, der den Blick auf den Gletscher Castaño Overa mit benachbarten Wasserfällen verbindet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.798983,
+                        -41.184885
+                  ]
+            },
+            {
+                  "name": "Almohadilla",
+                  "text": "Ein hochgelegener Aussichtspunkt namens Almohadilla, der weite Ausblicke auf die bergige Landschaft des Nationalparks bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.787847,
+                        -41.191484
+                  ]
+            },
+            {
+                  "name": "Mirador del Doctor",
+                  "text": "Der malerische Mirador del Doctor bietet einen weiten Panoramablick auf die umliegenden Andengipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -71.736883,
+                        -41.170991
+                  ]
+            },
+            {
+                  "name": "Cerro Vichadero",
+                  "text": "Ein markanter Berggipfel in den argentinischen Anden, der Wanderern eine herausfordernde Route bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.848955,
+                        -41.091829
+                  ]
+            },
+            {
+                  "name": "Mirador de Cóndores",
+                  "text": "Ein Aussichtspunkt in großer Höhe, der als hervorragender Ort für die Beobachtung fliegender Andenkondore bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.8547,
+                        -41.091431
+                  ]
+            },
+            {
+                  "name": "Mirador a la Garganta del Diablo",
+                  "text": "Ein spektakulärer Aussichtspunkt, der hinab in die dramatische Schlucht der Garganta del Diablo blickt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.837114,
+                        -41.189447
+                  ]
+            },
+            {
+                  "name": "Ventisquero Negro",
+                  "text": "Ein Aussichtspunkt, von dem aus man den markanten schwarzen Gletscher bewundern kann, der durch Schmutz und Geröll dunkel gefärbt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.827581,
+                        -41.202338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Este Glaciar Castaño Overa",
+                  "text": "Ez a nemzeti parkban található keleti kilátó látványos rálátást nyújt a Castaño Overa gleccserre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.820512,
+                        -41.189853
+                  ]
+            },
+            {
+                  "name": "Mirador Oeste Glaciar Castaño Overa y Ventisquero Negro",
+                  "text": "Nyugati kilátó a nemzeti parkban, kettős rálátással a Castaño Overa gleccserre és a Ventisquero Negro-ra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.821864,
+                        -41.189323
+                  ]
+            },
+            {
+                  "name": "Glaciar Castaño Overa",
+                  "text": "Látványos kilátó, amely közvetlenül a Castaño Overa gleccser hatalmas jégképződményeire fókuszál.",
+                  "category": "natural",
+                  "coords": [
+                        -71.807929,
+                        -41.186789
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Castaño Overa + cascadas",
+                  "text": "Egy kilátó a nemzeti parkban, amely összeköti a Castaño Overa gleccser és a szomszédos vízesések látványát.",
+                  "category": "natural",
+                  "coords": [
+                        -71.798983,
+                        -41.184885
+                  ]
+            },
+            {
+                  "name": "Almohadilla",
+                  "text": "Az Almohadilla nevű magasan fekvő kilátó, amely széles rálátást nyújt a nemzeti park hegyvidéki tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.787847,
+                        -41.191484
+                  ]
+            },
+            {
+                  "name": "Mirador del Doctor",
+                  "text": "A festői Mirador del Doctor széles panorámát kínál a környező Andok csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        -71.736883,
+                        -41.170991
+                  ]
+            },
+            {
+                  "name": "Cerro Vichadero",
+                  "text": "Jelentős hegycsúcs az argentin Andokban, amely kihívást jelentő útvonalat kínál a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -71.848955,
+                        -41.091829
+                  ]
+            },
+            {
+                  "name": "Mirador de Cóndores",
+                  "text": "Nagy magasságban található kilátó, amely az Andok repülő kondorkeselyűinek megfigyelésére szolgáló kiváló helyként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.8547,
+                        -41.091431
+                  ]
+            },
+            {
+                  "name": "Mirador a la Garganta del Diablo",
+                  "text": "Látványos kilátó, amely letekint a Garganta del Diablo drámai szurdokába.",
+                  "category": "natural",
+                  "coords": [
+                        -71.837114,
+                        -41.189447
+                  ]
+            },
+            {
+                  "name": "Ventisquero Negro",
+                  "text": "Kilátó, ahonnan megcsodálható a jellegzetes fekete gleccser, amelyet a szennyeződés és a törmelék színez sötétre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.827581,
+                        -41.202338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Este Glaciar Castaño Overa",
+                  "text": "Acest punct de belvedere estic din parcul național oferă o priveliște spectaculoasă asupra ghețarului Castaño Overa.",
+                  "category": "natural",
+                  "coords": [
+                        -71.820512,
+                        -41.189853
+                  ]
+            },
+            {
+                  "name": "Mirador Oeste Glaciar Castaño Overa y Ventisquero Negro",
+                  "text": "Un punct de belvedere vestic din parcul național, cu vedere dublă asupra ghețarului Castaño Overa și Ventisquero Negro.",
+                  "category": "natural",
+                  "coords": [
+                        -71.821864,
+                        -41.189323
+                  ]
+            },
+            {
+                  "name": "Glaciar Castaño Overa",
+                  "text": "Un punct de belvedere impresionant care se concentrează direct pe formațiunile masive de gheață ale ghețarului Castaño Overa.",
+                  "category": "natural",
+                  "coords": [
+                        -71.807929,
+                        -41.186789
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Castaño Overa + cascadas",
+                  "text": "Un punct de belvedere din parcul național care combină vederea asupra ghețarului Castaño Overa cu cascadele învecinate.",
+                  "category": "natural",
+                  "coords": [
+                        -71.798983,
+                        -41.184885
+                  ]
+            },
+            {
+                  "name": "Almohadilla",
+                  "text": "Un punct de belvedere înalt numit Almohadilla, care oferă vederi ample asupra peisajului muntos al parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        -71.787847,
+                        -41.191484
+                  ]
+            },
+            {
+                  "name": "Mirador del Doctor",
+                  "text": "Piturescul Mirador del Doctor oferă o vedere panoramică amplă asupra vârfurilor andine din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -71.736883,
+                        -41.170991
+                  ]
+            },
+            {
+                  "name": "Cerro Vichadero",
+                  "text": "Un vârf muntos proeminent în Anzii argentinieni, care oferă un traseu provocator pentru drumeți.",
+                  "category": "natural",
+                  "coords": [
+                        -71.848955,
+                        -41.091829
+                  ]
+            },
+            {
+                  "name": "Mirador de Cóndores",
+                  "text": "Un punct de belvedere la mare altitudine, cunoscut ca un loc excelent pentru observarea condorilor andini în zbor.",
+                  "category": "natural",
+                  "coords": [
+                        -71.8547,
+                        -41.091431
+                  ]
+            },
+            {
+                  "name": "Mirador a la Garganta del Diablo",
+                  "text": "Un punct de belvedere spectaculos care privește în jos spre cheile dramatice Garganta del Diablo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.837114,
+                        -41.189447
+                  ]
+            },
+            {
+                  "name": "Ventisquero Negro",
+                  "text": "Un punct de belvedere de unde se poate admira impresionantul ghețar negru, colorat închis de murdărie și resturi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.827581,
+                        -41.202338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Este Glaciar Castaño Overa",
+                  "text": "This eastern viewpoint in the national park offers a spectacular view of the Castaño Overa glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -71.820512,
+                        -41.189853
+                  ]
+            },
+            {
+                  "name": "Mirador Oeste Glaciar Castaño Overa y Ventisquero Negro",
+                  "text": "A western viewpoint in the national park with dual views of the Castaño Overa glacier and the Ventisquero Negro.",
+                  "category": "natural",
+                  "coords": [
+                        -71.821864,
+                        -41.189323
+                  ]
+            },
+            {
+                  "name": "Castaño Overá Glacier",
+                  "text": "An impressive viewpoint focusing directly on the massive ice formations of the Castaño Overa Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -71.807929,
+                        -41.186789
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Castaño Overa + cascadas",
+                  "text": "A viewpoint in the national park combining the sight of the Castaño Overa glacier with neighboring waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        -71.798983,
+                        -41.184885
+                  ]
+            },
+            {
+                  "name": "Almohadilla",
+                  "text": "An elevated viewpoint named Almohadilla offering expansive views of the national park's mountainous landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.787847,
+                        -41.191484
+                  ]
+            },
+            {
+                  "name": "Mirador del Doctor",
+                  "text": "The scenic Mirador del Doctor offers a sweeping panoramic view of the surrounding Andean peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -71.736883,
+                        -41.170991
+                  ]
+            },
+            {
+                  "name": "Cerro Vichadero",
+                  "text": "A prominent mountain peak in the Argentine Andes offering a challenging route for hikers.",
+                  "category": "natural",
+                  "coords": [
+                        -71.848955,
+                        -41.091829
+                  ]
+            },
+            {
+                  "name": "Mirador de Cóndores",
+                  "text": "A high-altitude viewpoint known as an excellent spot for observing flying Andean condors.",
+                  "category": "natural",
+                  "coords": [
+                        -71.8547,
+                        -41.091431
+                  ]
+            },
+            {
+                  "name": "Mirador a la Garganta del Diablo",
+                  "text": "A spectacular viewpoint looking down into the dramatic gorge of the Garganta del Diablo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.837114,
+                        -41.189447
+                  ]
+            },
+            {
+                  "name": "Ventisquero Negro",
+                  "text": "A viewpoint from which to admire the striking black glacier, colored dark by dirt and debris.",
+                  "category": "natural",
+                  "coords": [
+                        -71.827581,
+                        -41.202338
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-LL",
     coords: [-71.850, -41.150],
@@ -770,7 +9923,124 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Fondé en 1926.", "Englobe le célèbre volcan Osorno."],
     }, image: "/poi-images/cl-parque-nacional-vicente-perez-rosales-life-v2.webp"},
   {
-    id: "cl-parque-nacional-laguna-del-laja-life-v2",
+    id: "cl-parque-nacional-laguna-del-laja-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salto Las Chilcas",
+                  "text": "Dieser malerische Wasserfall in cl-parque-nacional-laguna-del-laja-life-v2 stürzt durch eine raue vulkanische Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.410984,
+                        -37.387309
+                  ]
+            },
+            {
+                  "name": "Mirador Chacay",
+                  "text": "Dieser Aussichtspunkt in cl-parque-nacional-laguna-del-laja-life-v2 bietet weitreichende Ausblicke auf die umliegende Berg- und Seenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -71.416323,
+                        -37.394143
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Laguna del Laja",
+                  "text": "Dieses Naturschutzgebiet im cl-parque-nacional-laguna-del-laja-life-v2 beherbergt den Stausee Laguna de la Laja und die Hänge des Vulkans Antuco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.367376,
+                        -37.421581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salto Las Chilcas",
+                  "text": "Ez a festői vízesés cl-parque-nacional-laguna-del-laja-life-v2-ben egy zord vulkáni tájon zúdul alá.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.410984,
+                        -37.387309
+                  ]
+            },
+            {
+                  "name": "Mirador Chacay",
+                  "text": "Ez a cl-parque-nacional-laguna-del-laja-life-v2-ben lévő kilátópont messzemenő kilátást nyújt a környező hegyi és tavi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.416323,
+                        -37.394143
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Laguna del Laja",
+                  "text": "Ez a cl-parque-nacional-laguna-del-laja-life-v2-ben található nemzeti park magában foglalja a Laguna de la Laja víztározót és az Antuco vulkán lejtőit.",
+                  "category": "natural",
+                  "coords": [
+                        -71.367376,
+                        -37.421581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salto Las Chilcas",
+                  "text": "Această cascadă pitorească din cl-parque-nacional-laguna-del-laja-life-v2 se prăvălește printr-un peisaj vulcanic aspru.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.410984,
+                        -37.387309
+                  ]
+            },
+            {
+                  "name": "Mirador Chacay",
+                  "text": "Acest punct de belvedere din cl-parque-nacional-laguna-del-laja-life-v2 oferă priveliști ample asupra peisajului muntos și lacustru din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -71.416323,
+                        -37.394143
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Laguna del Laja",
+                  "text": "Acest parc național din cl-parque-nacional-laguna-del-laja-life-v2 adăpostește lacul de acumulare Laguna de la Laja și pantele vulcanului Antuco.",
+                  "category": "natural",
+                  "coords": [
+                        -71.367376,
+                        -37.421581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salto Las Chilcas",
+                  "text": "This scenic waterfall in cl-parque-nacional-laguna-del-laja-life-v2 plunges through a rugged volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.410984,
+                        -37.387309
+                  ]
+            },
+            {
+                  "name": "Mirador Chacay",
+                  "text": "This viewpoint in cl-parque-nacional-laguna-del-laja-life-v2 offers sweeping vistas of the surrounding mountain and lake scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -71.416323,
+                        -37.394143
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Laguna del Laja",
+                  "text": "This national park in cl-parque-nacional-laguna-del-laja-life-v2 encompasses the Laguna de la Laja reservoir and the slopes of the Antuco volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -71.367376,
+                        -37.421581
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-BI",
     coords: [-71.350, -37.350],
@@ -829,7 +10099,448 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Abrite le volcan Antuco et le lac Laja.", "Habitat important pour la viscache, espèce en voie de disparition."],
     }, image: "/poi-images/cl-parque-nacional-laguna-del-laja-life-v2.webp"},
   {
-    id: "cl-parque-nacional-radal-siete-tazas-life-v2",
+    id: "cl-parque-nacional-radal-siete-tazas-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siete Tazas",
+                  "text": "Ein atemberaubender Aussichtspunkt mit Blick auf sieben natürliche Felsbecken, die vom Claro-Fluss geformt wurden.",
+                  "category": "natural",
+                  "coords": [
+                        -71.028457,
+                        -35.459507
+                  ]
+            },
+            {
+                  "name": "Salto La Leona",
+                  "text": "Eine Aussichtsplattform mit Blick auf den dramatischen La Leona Wasserfall, der in eine tiefe, bewaldete Schlucht stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.032469,
+                        -35.458222
+                  ]
+            },
+            {
+                  "name": "Siete tazas (privado)",
+                  "text": "Ein privater Aussichtspunkt, der einen exklusiven, ungestörten Blick auf die berühmten Basaltfelsbecken bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026891,
+                        -35.461597
+                  ]
+            },
+            {
+                  "name": "Salto Velo de La Novia",
+                  "text": "Ein Aussichtspunkt, der den eleganten Sturz des Brautschleier-Wasserfalls über steile Felsklippen einfängt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.044639,
+                        -35.436845
+                  ]
+            },
+            {
+                  "name": "Puente Radal",
+                  "text": "Ein malerischer Brücken-Aussichtspunkt, der weite Perspektiven auf das reißende Wasser des Claro-Flusses bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.05644,
+                        -35.414707
+                  ]
+            },
+            {
+                  "name": "Pozón Andino",
+                  "text": "Ein Aussichtspunkt mit Blick auf ein ruhiges, natürliches Andenbecken, umgeben von dichtem einheimischen Wald.",
+                  "category": "natural",
+                  "coords": [
+                        -70.96697,
+                        -35.482065
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "Ein ruhiger Aussichtspunkt über einen sandigen Flussstrandabschnitt, der an den üppig bewaldeten Ufern liegt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.959385,
+                        -35.484624
+                  ]
+            },
+            {
+                  "name": "Playa de los Hippie",
+                  "text": "Eine entspannte Flussstrand-Attraktion inmitten der Natur, beliebt für ihre unkonventionelle und lockere Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.988729,
+                        -35.477081
+                  ]
+            },
+            {
+                  "name": "Mirador 5 tazas",
+                  "text": "Ein Aussichtspunkt, der den Blick auf fünf der kaskadenartigen Naturbecken richtet, die in das Basaltgestein des Flusses gehauen wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.005718,
+                        -35.471358
+                  ]
+            },
+            {
+                  "name": "Cerro El Picaso",
+                  "text": "Ein markanter Berggipfel, der anspruchsvolles Gelände im Gebiet des Nationalparks Radal Siete Tazas bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.036225,
+                        -35.52865
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Radal Siete Tazas",
+                  "text": "Ein bekannter Nationalpark, der für seine Serie von sieben natürlichen Becken und Wasserfällen entlang des Río Claro berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.931739,
+                        -35.477737
+                  ]
+            },
+            {
+                  "name": "Reserva Nacional Radal Siete Tazas",
+                  "text": "Ein geschütztes Naturreservat, das einheimische Wälder und tiefe Flussschluchten in der Region Maule umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026375,
+                        -35.44144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siete Tazas",
+                  "text": "Lenyűgöző kilátó, ahonnan a Claro folyó által kivájt hét természetes sziklamedencére nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -71.028457,
+                        -35.459507
+                  ]
+            },
+            {
+                  "name": "Salto La Leona",
+                  "text": "Kilátóterasz, amely a mély, erdős szurdokba zuhanó, drámai La Leona vízesésre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.032469,
+                        -35.458222
+                  ]
+            },
+            {
+                  "name": "Siete tazas (privado)",
+                  "text": "Privát kilátóhely, amely exkluzív, zavartalan kilátást nyújt a híres bazalt sziklamedencékre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026891,
+                        -35.461597
+                  ]
+            },
+            {
+                  "name": "Salto Velo de La Novia",
+                  "text": "Kilátó, amely a meredek sziklás szirteken lezúduló Menyasszonyfátyol-vízesés elegáns esését örökíti meg.",
+                  "category": "natural",
+                  "coords": [
+                        -71.044639,
+                        -35.436845
+                  ]
+            },
+            {
+                  "name": "Puente Radal",
+                  "text": "Festői híd-kilátó, amely lenyűgöző perspektívákat nyújt a Claro folyó sebes vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -71.05644,
+                        -35.414707
+                  ]
+            },
+            {
+                  "name": "Pozón Andino",
+                  "text": "Sűrű őserdővel körülvett, nyugodt andoki természetes medencére néző kilátó.",
+                  "category": "natural",
+                  "coords": [
+                        -70.96697,
+                        -35.482065
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "Békés kilátó egy homokos folyami strand felett, amely a buja, erdős partok mentén fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.959385,
+                        -35.484624
+                  ]
+            },
+            {
+                  "name": "Playa de los Hippie",
+                  "text": "Természettel körülvett, nyugodt folyóparti strand, amely népszerű bohém és laza hangulata miatt.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.988729,
+                        -35.477081
+                  ]
+            },
+            {
+                  "name": "Mirador 5 tazas",
+                  "text": "A folyó bazaltsziklájába vájt, ötlépcsős természetes medencékre összpontosító kilátópont.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.005718,
+                        -35.471358
+                  ]
+            },
+            {
+                  "name": "Cerro El Picaso",
+                  "text": "Egy kiemelkedő hegycsúcs, amely kihívást jelentő terepet kínál a Radal Siete Tazas Nemzeti Park területén.",
+                  "category": "natural",
+                  "coords": [
+                        -71.036225,
+                        -35.52865
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Radal Siete Tazas",
+                  "text": "Egy híres nemzeti park, amely a Claro folyó mentén található hét természetes medencéjéről és vízeséséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.931739,
+                        -35.477737
+                  ]
+            },
+            {
+                  "name": "Reserva Nacional Radal Siete Tazas",
+                  "text": "Egy védett természetvédelmi terület, amely őshonos erdőket és mély folyószurdokokat foglal magában a Maule régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026375,
+                        -35.44144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siete Tazas",
+                  "text": "Un punct de belvedere uimitor care domină o secvență de șapte piscine naturale stâncoase sculptate de râul Claro.",
+                  "category": "natural",
+                  "coords": [
+                        -71.028457,
+                        -35.459507
+                  ]
+            },
+            {
+                  "name": "Salto La Leona",
+                  "text": "O platformă de observație cu fața spre dramatica cascadă La Leona, pe măsură ce se prăbușește într-un defileu adânc, împădurit.",
+                  "category": "natural",
+                  "coords": [
+                        -71.032469,
+                        -35.458222
+                  ]
+            },
+            {
+                  "name": "Siete tazas (privado)",
+                  "text": "O zonă privată de belvedere care oferă vederi exclusive, neîntrerupte asupra faimoaselor bazine din rocă de bazalt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026891,
+                        -35.461597
+                  ]
+            },
+            {
+                  "name": "Salto Velo de La Novia",
+                  "text": "Un punct de belvedere care surprinde căderea elegantă a cascadei Voalul Miresii peste stâncile abrupte.",
+                  "category": "natural",
+                  "coords": [
+                        -71.044639,
+                        -35.436845
+                  ]
+            },
+            {
+                  "name": "Puente Radal",
+                  "text": "Un punct de belvedere pitoresc de pe pod, oferind perspective vaste asupra apelor repezi ale râului Claro.",
+                  "category": "natural",
+                  "coords": [
+                        -71.05644,
+                        -35.414707
+                  ]
+            },
+            {
+                  "name": "Pozón Andino",
+                  "text": "Un punct de belvedere cu vedere la o piscină naturală andină liniștită, înconjurată de o pădure deasă nativă.",
+                  "category": "natural",
+                  "coords": [
+                        -70.96697,
+                        -35.482065
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "Un punct de belvedere senin peste o plajă de nisip a râului, situată de-a lungul malurilor împădurite și luxuriante.",
+                  "category": "natural",
+                  "coords": [
+                        -70.959385,
+                        -35.484624
+                  ]
+            },
+            {
+                  "name": "Playa de los Hippie",
+                  "text": "O atracție de plajă relaxată pe malul râului, înconjurată de natură, populară pentru atmosfera sa boemă și degajată.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.988729,
+                        -35.477081
+                  ]
+            },
+            {
+                  "name": "Mirador 5 tazas",
+                  "text": "Un punct de observație care se concentrează pe cinci dintre piscinele naturale în cascadă, sculptate în stânca de bazalt a râului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.005718,
+                        -35.471358
+                  ]
+            },
+            {
+                  "name": "Cerro El Picaso",
+                  "text": "Un vârf montan notabil, care oferă un teren accidentat în zona Parcului Național Radal Siete Tazas.",
+                  "category": "natural",
+                  "coords": [
+                        -71.036225,
+                        -35.52865
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Radal Siete Tazas",
+                  "text": "Un renumit parc național, faimos pentru seria sa de șapte bazine naturale și cascade de-a lungul râului Claro.",
+                  "category": "natural",
+                  "coords": [
+                        -70.931739,
+                        -35.477737
+                  ]
+            },
+            {
+                  "name": "Reserva Nacional Radal Siete Tazas",
+                  "text": "O rezervație naturală protejată, care cuprinde păduri native și defileuri adânci de râu în regiunea Maule.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026375,
+                        -35.44144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siete Tazas",
+                  "text": "A stunning viewpoint overlooking a sequence of seven natural rock pools carved by the Claro River.",
+                  "category": "natural",
+                  "coords": [
+                        -71.028457,
+                        -35.459507
+                  ]
+            },
+            {
+                  "name": "Salto La Leona",
+                  "text": "An observation deck facing the dramatic La Leona waterfall as it plunges into a deep forested gorge.",
+                  "category": "natural",
+                  "coords": [
+                        -71.032469,
+                        -35.458222
+                  ]
+            },
+            {
+                  "name": "Siete tazas (privado)",
+                  "text": "A private lookout area providing exclusive, uninterrupted views of the famous basalt rock pools.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026891,
+                        -35.461597
+                  ]
+            },
+            {
+                  "name": "Salto Velo de La Novia",
+                  "text": "A viewpoint capturing the elegant plunge of the Bridal Veil waterfall over steep rocky cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        -71.044639,
+                        -35.436845
+                  ]
+            },
+            {
+                  "name": "Puente Radal",
+                  "text": "A scenic bridge viewpoint offering sweeping perspectives of the rushing waters of the Claro River.",
+                  "category": "natural",
+                  "coords": [
+                        -71.05644,
+                        -35.414707
+                  ]
+            },
+            {
+                  "name": "Pozón Andino",
+                  "text": "A viewpoint overlooking a tranquil Andean natural pool surrounded by dense native forest.",
+                  "category": "natural",
+                  "coords": [
+                        -70.96697,
+                        -35.482065
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "A serene viewpoint over a sandy river beach area set along the lush, forested banks.",
+                  "category": "natural",
+                  "coords": [
+                        -70.959385,
+                        -35.484624
+                  ]
+            },
+            {
+                  "name": "Playa de los Hippie",
+                  "text": "A relaxed riverside beach attraction surrounded by nature, popular for its bohemian and laid-back atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.988729,
+                        -35.477081
+                  ]
+            },
+            {
+                  "name": "Mirador 5 tazas",
+                  "text": "An observation point focusing on five of the cascading natural pools carved into the river's basalt rock.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.005718,
+                        -35.471358
+                  ]
+            },
+            {
+                  "name": "Cerro El Picaso",
+                  "text": "A notable mountain peak offering challenging terrain in the Radal Siete Tazas National Park area.",
+                  "category": "natural",
+                  "coords": [
+                        -71.036225,
+                        -35.52865
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Radal Siete Tazas",
+                  "text": "A renowned national park famous for its series of seven natural pools and waterfalls along the Claro River.",
+                  "category": "natural",
+                  "coords": [
+                        -70.931739,
+                        -35.477737
+                  ]
+            },
+            {
+                  "name": "Reserva Nacional Radal Siete Tazas",
+                  "text": "A protected nature reserve encompassing native forests and deep river gorges in the Maule region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.026375,
+                        -35.44144
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-ML",
     coords: [-71.000, -35.450],
@@ -888,7 +10599,232 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Les vasques ont été formées par le río Claro dans la roche basaltique.", "Abrite le timide pudu, l'un des plus petits cerfs au monde."],
     }, image: "/poi-images/cl-parque-nacional-radal-siete-tazas-life-v2.webp"},
   {
-    id: "cl-parque-nacional-alerce-andino-life-v2",
+    id: "cl-parque-nacional-alerce-andino-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Natural Rincón del Sur",
+                  "text": "Die Reserva Natural Rincón del Sur ist ein im Jahr 2021 gegründetes Naturschutzgebiet nahe dem Nationalpark Alerce Andino.",
+                  "category": "natural",
+                  "coords": [
+                        -72.474373,
+                        -41.511873
+                  ]
+            },
+            {
+                  "name": "Alerce Milenario",
+                  "text": "Der Alerce Milenario im Alerce Andino Nationalpark ist ein uralter, monumentaler Patagonischer Zypressenbaum.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.554856,
+                        -41.577249
+                  ]
+            },
+            {
+                  "name": "Alerce milenario 2700 años",
+                  "text": "Der „Alerce milenario 2700 años“ ist ein gigantischer, schätzungsweise 2700 Jahre alter Baumriese im Alerce Andino Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.556002,
+                        -41.578382
+                  ]
+            },
+            {
+                  "name": "Playa Bonsai",
+                  "text": "Die Playa Bonsai ist ein Sandstrand in der rauen Naturlandschaft nahe dem Nationalpark Alerce Andino.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.405745,
+                        -41.585497
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Alerce Andino",
+                  "text": "Der Parque Nacional Alerce Andino ist ein bekanntes Naturschutzgebiet, das vor allem für seine dichten Wälder aus uralten Patagonischen Zypressen berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -72.523309,
+                        -41.58191
+                  ]
+            },
+            {
+                  "name": "Parque Factoría",
+                  "text": "Der Parque Factoría ist ein 1995 gegründetes Schutzgebiet für Flora und Fauna im Bereich des Alerce Andino Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        -72.390702,
+                        -41.572435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Natural Rincón del Sur",
+                  "text": "A Reserva Natural Rincón del Sur egy 2021-ben létrehozott természetvédelmi terület az Alerce Andino Nemzeti Park közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -72.474373,
+                        -41.511873
+                  ]
+            },
+            {
+                  "name": "Alerce Milenario",
+                  "text": "Az Alerce Milenario az Alerce Andino Nemzeti Park egyik ősi, monumentális patagóniai ciprusfája.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.554856,
+                        -41.577249
+                  ]
+            },
+            {
+                  "name": "Alerce milenario 2700 años",
+                  "text": "A „Alerce milenario 2700 años” egy körülbelül 2700 éves, gigantikus faóriás az Alerce Andino Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.556002,
+                        -41.578382
+                  ]
+            },
+            {
+                  "name": "Playa Bonsai",
+                  "text": "A Playa Bonsai egy homokos strand az Alerce Andino Nemzeti Park vadregényes természeti környezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.405745,
+                        -41.585497
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Alerce Andino",
+                  "text": "A Parque Nacional Alerce Andino egy ismert nemzeti park, amely ősi patagóniai ciprusokból álló sűrű erdeiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -72.523309,
+                        -41.58191
+                  ]
+            },
+            {
+                  "name": "Parque Factoría",
+                  "text": "Az 1995-ben alapított Parque Factoría az Alerce Andino Nemzeti Park vonzáskörzetének egy természetvédelmi területe.",
+                  "category": "natural",
+                  "coords": [
+                        -72.390702,
+                        -41.572435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Natural Rincón del Sur",
+                  "text": "Reserva Natural Rincón del Sur este o rezervație naturală înființată în 2021 în apropierea Parcului Național Alerce Andino.",
+                  "category": "natural",
+                  "coords": [
+                        -72.474373,
+                        -41.511873
+                  ]
+            },
+            {
+                  "name": "Alerce Milenario",
+                  "text": "Alerce Milenario din Parcul Național Alerce Andino este un arbore străvechi, un exemplar monumental de chiparos patagonian.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.554856,
+                        -41.577249
+                  ]
+            },
+            {
+                  "name": "Alerce milenario 2700 años",
+                  "text": "„Alerce milenario 2700 años” este un arbore gigantic, estimat la o vârstă de 2700 de ani, situat în Parcul Național Alerce Andino.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.556002,
+                        -41.578382
+                  ]
+            },
+            {
+                  "name": "Playa Bonsai",
+                  "text": "Playa Bonsai este o plajă de nisip amplasată în peisajul natural sălbatic de lângă Parcul Național Alerce Andino.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.405745,
+                        -41.585497
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Alerce Andino",
+                  "text": "Parcul Național Alerce Andino este o arie protejată renumită în special pentru pădurile sale dese de chiparoși patagonieni milenari.",
+                  "category": "natural",
+                  "coords": [
+                        -72.523309,
+                        -41.58191
+                  ]
+            },
+            {
+                  "name": "Parque Factoría",
+                  "text": "Parque Factoría este o rezervație naturală înființată în 1995 în zona Parcului Național Alerce Andino.",
+                  "category": "natural",
+                  "coords": [
+                        -72.390702,
+                        -41.572435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Natural Rincón del Sur",
+                  "text": "Reserva Natural Rincón del Sur is a nature reserve established in 2021 near the Alerce Andino National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -72.474373,
+                        -41.511873
+                  ]
+            },
+            {
+                  "name": "Alerce Milenario",
+                  "text": "The Alerce Milenario in Alerce Andino National Park is an ancient, monumental Patagonian cypress tree.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.554856,
+                        -41.577249
+                  ]
+            },
+            {
+                  "name": "Alerce milenario 2700 años",
+                  "text": "The \"Alerce milenario 2700 años\" is a massive tree estimated to be 2,700 years old, located in the Alerce Andino National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.556002,
+                        -41.578382
+                  ]
+            },
+            {
+                  "name": "Playa Bonsai",
+                  "text": "Playa Bonsai is a sandy beach nestled within the rugged natural landscape near the Alerce Andino National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.405745,
+                        -41.585497
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Alerce Andino",
+                  "text": "Parque Nacional Alerce Andino is a prominent nature reserve famously protecting dense forests of ancient Patagonian cypress trees.",
+                  "category": "natural",
+                  "coords": [
+                        -72.523309,
+                        -41.58191
+                  ]
+            },
+            {
+                  "name": "Parque Factoría",
+                  "text": "Parque Factoría is a nature reserve established in 1995 within the broader Alerce Andino National Park area.",
+                  "category": "natural",
+                  "coords": [
+                        -72.390702,
+                        -41.572435
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-LL",
     coords: [-72.450, -41.550],
@@ -1065,7 +11001,664 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Nommé d'après le missionnaire et explorateur italien Alberto Maria De Agostini.", "Habitat des léopards de mer, des dauphins et des baleines à bosse."],
     }, image: "/poi-images/cl-parque-nacional-alberto-de-agostini-life-v2.webp"},
   {
-    id: "cl-reserva-biologica-huilo-huilo-life-v2",
+    id: "cl-reserva-biologica-huilo-huilo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portal Caverna Volcánica",
+                  "text": "Ein Eingangstor, das zur vulkanischen Höhle innerhalb des biologischen Reservats Huilo Huilo führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.977563,
+                        -39.833382
+                  ]
+            },
+            {
+                  "name": "Portal Cua Cua",
+                  "text": "Ein Zugangstor und Anziehungspunkt in der Nähe des Flusses Cua Cua im Huilo Huilo Reservat.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.953513,
+                        -39.76105
+                  ]
+            },
+            {
+                  "name": "Mirador Río Cua-Cua",
+                  "text": "Ein landschaftlich reizvoller Aussichtspunkt, der malerische Blicke auf den Fluss Cua-Cua im Biologischen Reservat Huilo Huilo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.956559,
+                        -39.760809
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Neltume y Volcán Mocho",
+                  "text": "Eine erhöhte Aussichtsplattform, die Panoramablicke auf den Neltume-See und den Vulkan Mocho bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.961866,
+                        -39.776088
+                  ]
+            },
+            {
+                  "name": "Mirador Río Fuy",
+                  "text": "Ein Aussichtspunkt, der das schnell fließende, türkisfarbene Wasser des Flusses Fuy im biologischen Reservat überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.921142,
+                        -39.852738
+                  ]
+            },
+            {
+                  "name": "Portal Amancay",
+                  "text": "Ein ausgewiesener Zugangspunkt und Torbogen, der in die üppigen Wälder des Huilo Huilo Reservats führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.968316,
+                        -39.838269
+                  ]
+            },
+            {
+                  "name": "Portal El Puma",
+                  "text": "Eine Eingangsattraktion, die den Zugang zu den einheimischen Waldlandschaften des biologischen Reservats ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.964632,
+                        -39.840685
+                  ]
+            },
+            {
+                  "name": "Salto El Puma",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf einen stürzenden Wasserfall inmitten des gemäßigten Regenwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.9615,
+                        -39.853957
+                  ]
+            },
+            {
+                  "name": "Salto Huilo Huilo",
+                  "text": "Eine Aussichtsplattform mit Blick auf einen mächtigen Gletscherfluss-Wasserfall, der durch den valdivianischen Wald stürzt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.955376,
+                        -39.853488
+                  ]
+            },
+            {
+                  "name": "Mirador Salto de la Leona",
+                  "text": "Ein Aussichtspunkt im Wald, der es den Besuchern ermöglicht, die rauschenden Fluten des La Leona-Wasserfalls zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -71.918328,
+                        -39.869095
+                  ]
+            },
+            {
+                  "name": "Canopy Village",
+                  "text": "Ein Erholungsgebiet im Freien mit erhöhten Stegen und Baumhäusern, eingebettet in den uralten Wald.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.910131,
+                        -39.86254
+                  ]
+            },
+            {
+                  "name": "Mirador de Ciervos",
+                  "text": "Ein ausgewiesener Beobachtungsbereich, in dem Besucher Hirsche beim Grasen in ihrem natürlichen Waldlebensraum beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.907725,
+                        -39.861294
+                  ]
+            },
+            {
+                  "name": "Mirador del Jabalí",
+                  "text": "Ein umzäunter Wildtier-Aussichtspunkt, der auf die Beobachtung von Wildschweinen in einer waldreichen Umgebung ausgerichtet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.90938,
+                        -39.864014
+                  ]
+            },
+            {
+                  "name": "Museo de los Volcanes",
+                  "text": "Ein Kulturmuseum mit einer unverwechselbaren vulkanischen Form, das die regionale Geologie und indigene Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -71.905681,
+                        -39.861393
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Pirihueico",
+                  "text": "Ein hoch gelegener Aussichtspunkt mit weitem Panoramablick über das tiefblaue Wasser des Pirihueico-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        -71.889255,
+                        -39.873778
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Museo y Memorias de Neltume",
+                  "text": "Ein lokales Museum, das das Erbe der Holzindustrie und die politische Erinnerung der Gemeinde Neltume bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -71.946082,
+                        -39.849013
+                  ]
+            },
+            {
+                  "name": "Playa Puerto Fuy",
+                  "text": "Ein sandiges Seeufer am Rande des Pirihueico-Sees, umrahmt von dichten patagonischen Wäldern.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.888,
+                        -39.871112
+                  ]
+            },
+            {
+                  "name": "Capilla Laura Vicuña",
+                  "text": "Eine aus lokalem Holz errichtete christliche Holzkapelle, die der Verehrung von Laura Vicuña gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.946027,
+                        -39.850482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portal Caverna Volcánica",
+                  "text": "A Huilo Huilo Biológiai Rezervátum vulkáni barlangjához vezető bejárati kapu.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.977563,
+                        -39.833382
+                  ]
+            },
+            {
+                  "name": "Portal Cua Cua",
+                  "text": "Bejárati portál és látványosság a Cua Cua folyó közelében, a Huilo Huilo rezervátumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.953513,
+                        -39.76105
+                  ]
+            },
+            {
+                  "name": "Mirador Río Cua-Cua",
+                  "text": "Festői kilátó, amely gyönyörű panorámát nyújt a Cua-Cua folyóra a Huilo Huilo Biológiai Rezervátumban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.956559,
+                        -39.760809
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Neltume y Volcán Mocho",
+                  "text": "Magaslati kilátóterasz, amely panorámás kilátást nyújt a Neltume-tóra és a Mocho vulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.961866,
+                        -39.776088
+                  ]
+            },
+            {
+                  "name": "Mirador Río Fuy",
+                  "text": "Kilátó, ahonnan a Fuy folyó sebes vizű, türkizkék áramlására nyílik rálátás a biológiai rezervátumon belül.",
+                  "category": "natural",
+                  "coords": [
+                        -71.921142,
+                        -39.852738
+                  ]
+            },
+            {
+                  "name": "Portal Amancay",
+                  "text": "Kijelölt belépési pont és kapu, amely a Huilo Huilo rezervátum buja erdőibe vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.968316,
+                        -39.838269
+                  ]
+            },
+            {
+                  "name": "Portal El Puma",
+                  "text": "Egy belépési pont, amely hozzáférést biztosít a biológiai rezervátum őshonos erdei tájaihoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.964632,
+                        -39.840685
+                  ]
+            },
+            {
+                  "name": "Salto El Puma",
+                  "text": "Festői kilátó, amely a mérsékelt övi esőerdőben lezúduló vízesésre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -71.9615,
+                        -39.853957
+                  ]
+            },
+            {
+                  "name": "Salto Huilo Huilo",
+                  "text": "Kilátóterasz, ahonnan a valdiviai erdőn keresztül lezúduló, hatalmas gleccserfolyó-vízesés látható.",
+                  "category": "natural",
+                  "coords": [
+                        -71.955376,
+                        -39.853488
+                  ]
+            },
+            {
+                  "name": "Mirador Salto de la Leona",
+                  "text": "Erdei kilátó, ahonnan a látogatók megfigyelhetik a La Leona vízesés rohanó vizét.",
+                  "category": "natural",
+                  "coords": [
+                        -71.918328,
+                        -39.869095
+                  ]
+            },
+            {
+                  "name": "Canopy Village",
+                  "text": "Szabadtéri rekreációs terület magasan fekvő sétányokkal és fára épült házakkal az ősi erdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.910131,
+                        -39.86254
+                  ]
+            },
+            {
+                  "name": "Mirador de Ciervos",
+                  "text": "Kijelölt megfigyelőterület, ahol a látogatók természetes erdei élőhelyükön legelésző szarvasokat figyelhetnek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.907725,
+                        -39.861294
+                  ]
+            },
+            {
+                  "name": "Mirador del Jabalí",
+                  "text": "Zárt vadvilág-megfigyelőhely, amely erdei környezetben élő vaddisznók megfigyelésére összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.90938,
+                        -39.864014
+                  ]
+            },
+            {
+                  "name": "Museo de los Volcanes",
+                  "text": "Jellegzetes vulkán alakú kulturális múzeum, amely a regionális geológiát és az őslakosok történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -71.905681,
+                        -39.861393
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Pirihueico",
+                  "text": "Magasan fekvő kilátó, ahonnan kiterjedt panoráma nyílik a Pirihueico-tó mélykék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -71.889255,
+                        -39.873778
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Museo y Memorias de Neltume",
+                  "text": "Helyi múzeum, amely megőrzi a faipar örökségét és Neltume közösségének politikai emlékezetét.",
+                  "category": "museum",
+                  "coords": [
+                        -71.946082,
+                        -39.849013
+                  ]
+            },
+            {
+                  "name": "Playa Puerto Fuy",
+                  "text": "Homokos tóparti strand a Pirihueico-tó szélén, sűrű patagóniai erdőkkel övezve.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.888,
+                        -39.871112
+                  ]
+            },
+            {
+                  "name": "Capilla Laura Vicuña",
+                  "text": "Helyi faanyagból épült keresztény fakápolna, amelyet Laura Vicuña tiszteletének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.946027,
+                        -39.850482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portal Caverna Volcánica",
+                  "text": "Un portal de acces care duce către caverna vulcanică din cadrul Rezervației Biologice Huilo Huilo.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.977563,
+                        -39.833382
+                  ]
+            },
+            {
+                  "name": "Portal Cua Cua",
+                  "text": "Un portal de acces și atracție situat în apropierea râului Cua Cua, în rezervația Huilo Huilo.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.953513,
+                        -39.76105
+                  ]
+            },
+            {
+                  "name": "Mirador Río Cua-Cua",
+                  "text": "Un punct de belvedere pitoresc care oferă priveliști frumoase asupra râului Cua-Cua în Rezervația Biologică Huilo Huilo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.956559,
+                        -39.760809
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Neltume y Volcán Mocho",
+                  "text": "O platformă de observație elevată care oferă vederi panoramice ale Lacului Neltume și vulcanului Mocho.",
+                  "category": "natural",
+                  "coords": [
+                        -71.961866,
+                        -39.776088
+                  ]
+            },
+            {
+                  "name": "Mirador Río Fuy",
+                  "text": "Un punct de belvedere cu vedere spre apele repezi și turcoaz ale râului Fuy, în cadrul rezervației biologice.",
+                  "category": "natural",
+                  "coords": [
+                        -71.921142,
+                        -39.852738
+                  ]
+            },
+            {
+                  "name": "Portal Amancay",
+                  "text": "Un punct de acces și poartă de intrare care duce spre pădurile luxuriante din rezervația Huilo Huilo.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.968316,
+                        -39.838269
+                  ]
+            },
+            {
+                  "name": "Portal El Puma",
+                  "text": "O atracție de la intrare care oferă acces la peisajele forestiere native ale rezervației biologice.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.964632,
+                        -39.840685
+                  ]
+            },
+            {
+                  "name": "Salto El Puma",
+                  "text": "Un punct de belvedere pitoresc îndreptat spre o cascadă în mijlocul pădurii tropicale temperate.",
+                  "category": "natural",
+                  "coords": [
+                        -71.9615,
+                        -39.853957
+                  ]
+            },
+            {
+                  "name": "Salto Huilo Huilo",
+                  "text": "O platformă de observare care oferă priveliști ale unei puternice cascade glaciare care se prăbușește prin pădurea valdiviană.",
+                  "category": "natural",
+                  "coords": [
+                        -71.955376,
+                        -39.853488
+                  ]
+            },
+            {
+                  "name": "Mirador Salto de la Leona",
+                  "text": "Un punct de belvedere în pădure care permite vizitatorilor să observe apele învolburate ale cascadei La Leona.",
+                  "category": "natural",
+                  "coords": [
+                        -71.918328,
+                        -39.869095
+                  ]
+            },
+            {
+                  "name": "Canopy Village",
+                  "text": "O zonă de recreere în aer liber, cu alei suspendate și case în copaci cuibărite în pădurea antică.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.910131,
+                        -39.86254
+                  ]
+            },
+            {
+                  "name": "Mirador de Ciervos",
+                  "text": "O zonă de observare desemnată unde vizitatorii pot urmări căprioarele păscând în habitatul lor natural din pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.907725,
+                        -39.861294
+                  ]
+            },
+            {
+                  "name": "Mirador del Jabalí",
+                  "text": "Un loc închis de observare a faunei sălbatice, axat pe observarea mistreților într-un cadru împădurit.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.90938,
+                        -39.864014
+                  ]
+            },
+            {
+                  "name": "Museo de los Volcanes",
+                  "text": "Un muzeu cultural construit cu o formă vulcanică distinctivă, care prezintă geologia regională și istoria indigenă.",
+                  "category": "museum",
+                  "coords": [
+                        -71.905681,
+                        -39.861393
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Pirihueico",
+                  "text": "Un punct de belvedere la mare altitudine, care oferă vederi panoramice vaste asupra apelor albastru închis ale lacului Pirihueico.",
+                  "category": "natural",
+                  "coords": [
+                        -71.889255,
+                        -39.873778
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Museo y Memorias de Neltume",
+                  "text": "Un muzeu local care păstrează moștenirea industriei lemnului și memoria politică a comunității Neltume.",
+                  "category": "museum",
+                  "coords": [
+                        -71.946082,
+                        -39.849013
+                  ]
+            },
+            {
+                  "name": "Playa Puerto Fuy",
+                  "text": "Un țărm nisipos pe marginea lacului Pirihueico, încadrat de păduri dense patagonice.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.888,
+                        -39.871112
+                  ]
+            },
+            {
+                  "name": "Capilla Laura Vicuña",
+                  "text": "O capelă creștină din lemn, construită cu cherestea locală, dedicată venerării Laurei Vicuña.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.946027,
+                        -39.850482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portal Caverna Volcánica",
+                  "text": "An attraction entrance leading to the volcanic cavern within the Huilo Huilo Biological Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.977563,
+                        -39.833382
+                  ]
+            },
+            {
+                  "name": "Portal Cua Cua",
+                  "text": "An access portal and attraction point near the Cua Cua river in the Huilo Huilo reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.953513,
+                        -39.76105
+                  ]
+            },
+            {
+                  "name": "Mirador Río Cua-Cua",
+                  "text": "A scenic viewpoint offering picturesque vistas over the Cua-Cua river in the Huilo Huilo Biological Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -71.956559,
+                        -39.760809
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Neltume y Volcán Mocho",
+                  "text": "An elevated observation deck presenting panoramic views of Lake Neltume and the Mocho volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -71.961866,
+                        -39.776088
+                  ]
+            },
+            {
+                  "name": "Mirador Río Fuy",
+                  "text": "A viewpoint overlooking the fast-flowing, turquoise waters of the Fuy River within the biological reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -71.921142,
+                        -39.852738
+                  ]
+            },
+            {
+                  "name": "Portal Amancay",
+                  "text": "A designated access point and attraction gateway leading into the lush forests of the Huilo Huilo reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.968316,
+                        -39.838269
+                  ]
+            },
+            {
+                  "name": "Portal El Puma",
+                  "text": "A gateway attraction providing entry to the native forest landscapes of the biological reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.964632,
+                        -39.840685
+                  ]
+            },
+            {
+                  "name": "Salto El Puma",
+                  "text": "A scenic overlook directed toward a cascading waterfall amidst the temperate rainforest.",
+                  "category": "natural",
+                  "coords": [
+                        -71.9615,
+                        -39.853957
+                  ]
+            },
+            {
+                  "name": "Salto Huilo Huilo",
+                  "text": "A viewing platform offering vistas of a powerful glacial river waterfall plunging through the Valdivian forest.",
+                  "category": "natural",
+                  "coords": [
+                        -71.955376,
+                        -39.853488
+                  ]
+            },
+            {
+                  "name": "Mirador Salto de la Leona",
+                  "text": "A forest viewpoint allowing visitors to observe the rushing waters of the La Leona waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -71.918328,
+                        -39.869095
+                  ]
+            },
+            {
+                  "name": "Canopy Village",
+                  "text": "An outdoor recreation area featuring elevated walkways and treehouses nestled in the ancient forest.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.910131,
+                        -39.86254
+                  ]
+            },
+            {
+                  "name": "Mirador de Ciervos",
+                  "text": "A designated observation area where visitors can watch deer grazing in their natural woodland habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.907725,
+                        -39.861294
+                  ]
+            },
+            {
+                  "name": "Mirador del Jabalí",
+                  "text": "An enclosed wildlife viewing spot focused on observing wild boars in a forested setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.90938,
+                        -39.864014
+                  ]
+            },
+            {
+                  "name": "Museo de los Volcanes",
+                  "text": "A cultural museum built with a distinctive volcanic shape, showcasing regional geology and indigenous history.",
+                  "category": "museum",
+                  "coords": [
+                        -71.905681,
+                        -39.861393
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Pirihueico",
+                  "text": "A high-altitude viewpoint offering expansive panoramic sights over the deep blue waters of Lake Pirihueico.",
+                  "category": "natural",
+                  "coords": [
+                        -71.889255,
+                        -39.873778
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Museo y Memorias de Neltume",
+                  "text": "A local museum preserving the timber industry heritage and political memory of the Neltume community.",
+                  "category": "museum",
+                  "coords": [
+                        -71.946082,
+                        -39.849013
+                  ]
+            },
+            {
+                  "name": "Playa Puerto Fuy",
+                  "text": "A sandy lakeside shore along the edge of Lake Pirihueico, framed by dense Patagonian forests.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.888,
+                        -39.871112
+                  ]
+            },
+            {
+                  "name": "Capilla Laura Vicuña",
+                  "text": "A wooden Christian chapel built with local timber, dedicated to the veneration of Laura Vicuña.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.946027,
+                        -39.850482
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-LR",
     coords: [-71.950, -39.850],
@@ -1124,7 +11717,1168 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Reconnue pour ses impressionnants hôtels intégrés à la nature.", "Dispose d'un important programme d'élevage pour la préservation du huemul."],
     }, image: "/poi-images/cl-reserva-biologica-huilo-huilo-life-v2.webp"},
   {
-    id: "cl-santuario-yerba-loca-life-v2",
+    id: "cl-santuario-yerba-loca-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Bismarck",
+                  "text": "Dieser markante Berggipfel in den chilenischen Anden ist ein beliebtes Ziel für Wanderer im Santuario Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.198343,
+                        -33.272065
+                  ]
+            },
+            {
+                  "name": "Mirador de los Tres Valles",
+                  "text": "Von diesem hoch gelegenen Aussichtspunkt blickt man auf den spektakulären Zusammenfluss dreier Andentäler im Santuario Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.345138,
+                        -33.347113
+                  ]
+            },
+            {
+                  "name": "Mirador Camino Farellones",
+                  "text": "Dieser Aussichtspunkt am Rande der kurvenreichen Straße bietet weite Ausblicke über die zerklüftete Berglandschaft von Farellones.",
+                  "category": "natural",
+                  "coords": [
+                        -70.337881,
+                        -33.343788
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser Aussichtspunkt im Naturschutzgebiet Yerba Loca lädt Wanderer dazu ein, das weite Tal der Anden zu überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        -70.329757,
+                        -33.350146
+                  ]
+            },
+            {
+                  "name": "Mirador Rocas de Escalada",
+                  "text": "Neben beeindruckenden Kletterfelsen gelegen, gewährt dieser Mirador atemberaubende Blicke auf die umliegenden Schluchten von Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.315868,
+                        -33.350396
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "Von diesem malerischen Aussichtspunkt aus kann man einen herabstürzenden Gebirgswasserfall in der schroffen andinen Landschaft bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        -70.218822,
+                        -33.27826
+                  ]
+            },
+            {
+                  "name": "Meseta Cancha de Carreras",
+                  "text": "Dieses ausgedehnte, felsige Plateau im Naturreservat Yerba Loca gewährt Wanderern weite Ausblicke auf die hochandine Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -70.239451,
+                        -33.282047
+                  ]
+            },
+            {
+                  "name": "Cerro Pintor",
+                  "text": "Der über 4.000 Meter hohe Berg Cerro Pintor beeindruckt mit seinen mineralienreichen, bunten Hängen in den chilenischen Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -70.249159,
+                        -33.28913
+                  ]
+            },
+            {
+                  "name": "Terraza Ceremonial Yerba Loca",
+                  "text": "Diese zeremonielle Steinterrasse in den Bergen ist ein faszinierendes archäologisches Überbleibsel indigener Kulturen.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.288286,
+                        -33.257573
+                  ]
+            },
+            {
+                  "name": "Piedras Lunares",
+                  "text": "Die bizarren Felsformationen dieses Aussichtspunkts erinnern stark an eine raue Mondlandschaft in großer Höhe.",
+                  "category": "natural",
+                  "coords": [
+                        -70.244323,
+                        -33.259441
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Colgante del Plomo",
+                  "text": "Von hier aus bietet sich ein beeindruckender Blick auf den hängenden Gletscher des Cerro El Plomo.",
+                  "category": "natural",
+                  "coords": [
+                        -70.221583,
+                        -33.252733
+                  ]
+            },
+            {
+                  "name": "Cascada Yerba Loca",
+                  "text": "Dieser Aussichtspunkt richtet den Blick auf den rauschenden Wasserfall, der durch das Yerba Loca Naturreservat fließt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.272796,
+                        -33.22816
+                  ]
+            },
+            {
+                  "name": "Casa Piedra Carvajal",
+                  "text": "Dieser Unterschlupf aus großen Steinen diente einst Anden-Vagabunden und Maultiertreibern als rustikaler Zufluchtsort in den Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        -70.273336,
+                        -33.221182
+                  ]
+            },
+            {
+                  "name": "Curva 39 Farellones",
+                  "text": "Die steile Haarnadelkurve Nummer 39 auf dem Weg nach Farellones bietet einen spektakulären Tiefblick in das zentrale Andental.",
+                  "category": "natural",
+                  "coords": [
+                        -70.317802,
+                        -33.355673
+                  ]
+            },
+            {
+                  "name": "Sendero Loma del Viento",
+                  "text": "Von diesem windigen Bergrücken-Weg genießt man einen weiten Blick über die schneebedeckten Gipfel der chilenischen Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -70.326581,
+                        -33.358633
+                  ]
+            },
+            {
+                  "name": "Cueva de los cóndores",
+                  "text": "Dieser thematische Ausflugsort in den Bergen ist den majestätischen Andenkondoren und ihrem natürlichen felsigen Lebensraum gewidmet.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.306634,
+                        -33.366159
+                  ]
+            },
+            {
+                  "name": "Parque Nieve Farellones",
+                  "text": "Dieser Berg-Themenpark nahe Santiago lockt im Winter mit Tubing-Bahnen, Schlittenabfahrten und verschneiten Familienaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.301545,
+                        -33.360134
+                  ]
+            },
+            {
+                  "name": "Cerro La Parva",
+                  "text": "Der Cerro La Parva ist ein herausragender Gipfel in der Andenkordillere, der das gleichnamige Skigebiet überragt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.258635,
+                        -33.301726
+                  ]
+            },
+            {
+                  "name": "Centro de Ski La Parva",
+                  "text": "Dieses renommierte Skigebiet hoch in den Anden ist bekannt für seine ausgezeichneten Pisten und den direkten Blick auf das Tal von Santiago.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.289872,
+                        -33.333526
+                  ]
+            },
+            {
+                  "name": "MIrador Manantiales",
+                  "text": "Dieser andine Aussichtspunkt in Yerba Loca bietet freie Sicht auf frische Bergquellen, die aus dem felsigen Boden entspringen.",
+                  "category": "natural",
+                  "coords": [
+                        -70.304052,
+                        -33.328833
+                  ]
+            },
+            {
+                  "name": "Mirador del Águila",
+                  "text": "Von diesem Felsvorsprung in den chilenischen Anden haben Besucher die Chance, Greifvögel über dem weiten Gebirgstal kreisen zu sehen.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319457,
+                        -33.3098
+                  ]
+            },
+            {
+                  "name": "Mirador Los Zorros",
+                  "text": "Dieser Aussichtspunkt in Yerba Loca ist nach den heimischen Andenfüchsen benannt, die man hier gelegentlich im rauen Gelände erspähen kann.",
+                  "category": "natural",
+                  "coords": [
+                        -70.328129,
+                        -33.314655
+                  ]
+            },
+            {
+                  "name": "Mirador del Cóndor",
+                  "text": "Dieser hoch gelegene Balkon ist der perfekte Ort, um den majestätischen Flug der riesigen Andenkondore entlang der steilen Felswände zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -70.32172,
+                        -33.319753
+                  ]
+            },
+            {
+                  "name": "Curva 15 Farellones",
+                  "text": "An der 15. Kehre der steilen Bergstraße nach Farellones öffnet sich ein Panoramablick auf die Ausläufer der Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -70.332948,
+                        -33.337769
+                  ]
+            },
+            {
+                  "name": "Mirador Los Cururos",
+                  "text": "Dieser Beobachtungspunkt in der kargen Berglandschaft ist ideal, um die kleinen, grabenden Nagetiere namens Cururos in ihrem Lebensraum zu entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319838,
+                        -33.303798
+                  ]
+            },
+            {
+                  "name": "MIrador El Olivillo",
+                  "text": "Der Aussichtspunkt am Rande von Farellones bietet einen klaren Blick auf die widerstandsfähigen Gebirgssträucher und die tiefe Flussschlucht.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319935,
+                        -33.299179
+                  ]
+            },
+            {
+                  "name": "Cerro Canoitas",
+                  "text": "Der Cerro Canoitas ist ein markanter Berggipfel, der sich über das Naturschutzgebiet Yerba Loca erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.387294,
+                        -33.296216
+                  ]
+            },
+            {
+                  "name": "Río",
+                  "text": "Río ist ein malerischer Aussichtspunkt, der weite Blicke auf die Flusstäler im Yerba-Loca-Schutzgebiet bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.374361,
+                        -33.357649
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Vegas de Montaña",
+                  "text": "Das 2021 gegründete Humedal Urbano Vegas de Montaña ist ein Naturschutzgebiet, das wichtige hochgelegene Feuchtgebiete schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.31707,
+                        -33.343692
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Yerba Loca",
+                  "text": "Das am 23. August 1973 zum Schutzgebiet erklärte Naturschutzgebiet Yerba Loca ist bekannt für seine andinen Gletscher und zerklüfteten Schluchten.",
+                  "category": "natural",
+                  "coords": [
+                        -70.296119,
+                        -33.354995
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Niño del Cerro El Plomo",
+                  "text": "Das Centro de Interpretación del Niño del Cerro El Plomo ist ein Museum, das der berühmten Inka-Kindermumie gewidmet ist, die auf dem nahegelegenen Berg gefunden wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -70.323147,
+                        -33.310307
+                  ]
+            },
+            {
+                  "name": "Ermita de Nuestra Señora de las Nieves",
+                  "text": "Die Ermita de Nuestra Señora de las Nieves ist eine kleine christliche Einsiedelei, die einen friedlichen Rückzugsort inmitten der Bergwildnis bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.315366,
+                        -33.352095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Bismarck",
+                  "text": "A chilei Andoknak ez a lenyűgöző hegycsúcsa a túrázók kedvelt célpontja a Santuario Yerba Loca területén.",
+                  "category": "natural",
+                  "coords": [
+                        -70.198343,
+                        -33.272065
+                  ]
+            },
+            {
+                  "name": "Mirador de los Tres Valles",
+                  "text": "Ebből a magasan fekvő kilátóból lenyűgöző kilátás nyílik három andoki völgy összefolyására a Santuario Yerba Loca területén.",
+                  "category": "natural",
+                  "coords": [
+                        -70.345138,
+                        -33.347113
+                  ]
+            },
+            {
+                  "name": "Mirador Camino Farellones",
+                  "text": "A kanyargós út mentén található kilátó széles panorámát nyújt Farellones zord hegyvidéki tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -70.337881,
+                        -33.343788
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a kilátó a Yerba Loca Természetvédelmi Területen arra invitálja a túrázókat, hogy megcsodálják az Andok széles völgyét.",
+                  "category": "natural",
+                  "coords": [
+                        -70.329757,
+                        -33.350146
+                  ]
+            },
+            {
+                  "name": "Mirador Rocas de Escalada",
+                  "text": "A lenyűgöző mászósziklák mellett található kilátóból lélegzetelállító kilátás nyílik a Yerba Loca környező szurdokaira.",
+                  "category": "natural",
+                  "coords": [
+                        -70.315868,
+                        -33.350396
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "Ebből a festői kilátóból megcsodálható a zord andoki tájon lezúduló hegyi vízesés.",
+                  "category": "natural",
+                  "coords": [
+                        -70.218822,
+                        -33.27826
+                  ]
+            },
+            {
+                  "name": "Meseta Cancha de Carreras",
+                  "text": "Ez a Yerba Loca Természetvédelmi Területen fekvő, kiterjedt sziklás fennsík széles kilátást nyújt a túrázóknak a magas-andokbeli környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.239451,
+                        -33.282047
+                  ]
+            },
+            {
+                  "name": "Cerro Pintor",
+                  "text": "A több mint 4000 méter magas Cerro Pintor lenyűgöz ásványokban gazdag, színes lejtőivel a chilei Andokban.",
+                  "category": "natural",
+                  "coords": [
+                        -70.249159,
+                        -33.28913
+                  ]
+            },
+            {
+                  "name": "Terraza Ceremonial Yerba Loca",
+                  "text": "Ez a hegyekben található szertartási kőterasz a bennszülött kultúrák lenyűgöző régészeti emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.288286,
+                        -33.257573
+                  ]
+            },
+            {
+                  "name": "Piedras Lunares",
+                  "text": "Ennek a kilátónak a bizarr sziklaalakzatai erősen emlékeztetnek egy zord, nagy magasságban lévő holdbéli tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -70.244323,
+                        -33.259441
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Colgante del Plomo",
+                  "text": "Innen lenyűgöző kilátás nyílik a Cerro El Plomo függőgleccserére.",
+                  "category": "natural",
+                  "coords": [
+                        -70.221583,
+                        -33.252733
+                  ]
+            },
+            {
+                  "name": "Cascada Yerba Loca",
+                  "text": "Ez a kilátó a Yerba Loca Természetvédelmi Területen átfolyó zúgó vízesésre irányítja a tekintetet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.272796,
+                        -33.22816
+                  ]
+            },
+            {
+                  "name": "Casa Piedra Carvajal",
+                  "text": "Ez a nagy kövekből álló menedékhely egykor andoki csavargók és öszvérhajcsárok rusztikus hegyi menedékeként szolgált.",
+                  "category": "natural",
+                  "coords": [
+                        -70.273336,
+                        -33.221182
+                  ]
+            },
+            {
+                  "name": "Curva 39 Farellones",
+                  "text": "A 39-es számú meredek hajtűkanyar Farellones felé látványos, mélybe nyúló kilátást kínál a középső andoki völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.317802,
+                        -33.355673
+                  ]
+            },
+            {
+                  "name": "Sendero Loma del Viento",
+                  "text": "Erről a szeles hegygerincen haladó ösvényről széles kilátás nyílik a chilei Andok hófödte csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        -70.326581,
+                        -33.358633
+                  ]
+            },
+            {
+                  "name": "Cueva de los cóndores",
+                  "text": "Ezt a hegyekben található tematikus kirándulóhelyet a fenséges andoki kondorkeselyűknek és sziklás természetes élőhelyüknek szentelték.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.306634,
+                        -33.366159
+                  ]
+            },
+            {
+                  "name": "Parque Nieve Farellones",
+                  "text": "Ez a Santiago közelében lévő hegyi vidámpark télen tubingpályákkal, szánkópályákkal és havas családi tevékenységekkel csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.301545,
+                        -33.360134
+                  ]
+            },
+            {
+                  "name": "Cerro La Parva",
+                  "text": "A Cerro La Parva egy kiemelkedő csúcs az Andok Kordillerákban, amely a névadó síterep fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.258635,
+                        -33.301726
+                  ]
+            },
+            {
+                  "name": "Centro de Ski La Parva",
+                  "text": "Ez a magasan az Andokban fekvő híres síközpont kiváló lejtőiről és a Santiago völgyére nyíló közvetlen kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.289872,
+                        -33.333526
+                  ]
+            },
+            {
+                  "name": "MIrador Manantiales",
+                  "text": "Ez az andoki kilátó Yerba Locában zavartalan kilátást nyújt a sziklás talajból fakadó friss hegyi forrásokra.",
+                  "category": "natural",
+                  "coords": [
+                        -70.304052,
+                        -33.328833
+                  ]
+            },
+            {
+                  "name": "Mirador del Águila",
+                  "text": "Erről a chilei Andokban található sziklás kiszögellésről a látogatóknak esélyük van arra, hogy ragadozó madarakat lássanak körözni a széles hegyi völgy felett.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319457,
+                        -33.3098
+                  ]
+            },
+            {
+                  "name": "Mirador Los Zorros",
+                  "text": "Ezt a Yerba Loca-i kilátót a helyi andoki rókákról nevezték el, amelyeket alkalmanként meg lehet pillantani ezen a zord terepen.",
+                  "category": "natural",
+                  "coords": [
+                        -70.328129,
+                        -33.314655
+                  ]
+            },
+            {
+                  "name": "Mirador del Cóndor",
+                  "text": "Ez a magasan fekvő erkély tökéletes hely arra, hogy megfigyeljük a hatalmas andoki kondorkeselyűk fenséges repülését a meredek sziklafalak mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -70.32172,
+                        -33.319753
+                  ]
+            },
+            {
+                  "name": "Curva 15 Farellones",
+                  "text": "A Farellonesbe vezető meredek hegyi út 15. kanyarjában panorámás kilátás nyílik az Andok lábaira.",
+                  "category": "natural",
+                  "coords": [
+                        -70.332948,
+                        -33.337769
+                  ]
+            },
+            {
+                  "name": "Mirador Los Cururos",
+                  "text": "Ez a kopár hegyvidéki tájon található megfigyelőpont ideális a kis, ásó rágcsálók, a kururók felfedezésére a saját élőhelyükön.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319838,
+                        -33.303798
+                  ]
+            },
+            {
+                  "name": "MIrador El Olivillo",
+                  "text": "A Farellones szélén lévő kilátó tiszta kilátást nyújt a szívós hegyi cserjékre és a mély folyó szurdokára.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319935,
+                        -33.299179
+                  ]
+            },
+            {
+                  "name": "Cerro Canoitas",
+                  "text": "A Cerro Canoitas egy kiemelkedő hegycsúcs, amely a Yerba Loca természetvédelmi terület fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.387294,
+                        -33.296216
+                  ]
+            },
+            {
+                  "name": "Río",
+                  "text": "A Río egy festői kilátó, ahonnan lenyűgöző panoráma nyílik a Yerba Loca menedékhely folyóvölgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        -70.374361,
+                        -33.357649
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Vegas de Montaña",
+                  "text": "A 2021-ben alapított Humedal Urbano Vegas de Montaña egy természetvédelmi terület, amely a kulcsfontosságú magashegyi vizenyős területeket óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -70.31707,
+                        -33.343692
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Yerba Loca",
+                  "text": "Az 1973. augusztus 23-án védetté nyilvánított Yerba Loca Természeti Szentély andoki gleccsereiről és zord szakadékairól híres.",
+                  "category": "natural",
+                  "coords": [
+                        -70.296119,
+                        -33.354995
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Niño del Cerro El Plomo",
+                  "text": "A Centro de Interpretación del Niño del Cerro El Plomo egy múzeum, amelyet a közeli hegyen talált híres inka gyermekmúmiának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -70.323147,
+                        -33.310307
+                  ]
+            },
+            {
+                  "name": "Ermita de Nuestra Señora de las Nieves",
+                  "text": "Az Ermita de Nuestra Señora de las Nieves egy kis keresztény remetelak, amely békés menedéket nyújt a hegyi vadonban.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.315366,
+                        -33.352095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Bismarck",
+                  "text": "Acest vârf de munte impresionant din Anzii chilieni este o destinație populară pentru drumeții din Santuario Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.198343,
+                        -33.272065
+                  ]
+            },
+            {
+                  "name": "Mirador de los Tres Valles",
+                  "text": "De la acest punct de belvedere înalt se deschide o priveliște spectaculoasă asupra confluenței a trei văi andine în Santuario Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.345138,
+                        -33.347113
+                  ]
+            },
+            {
+                  "name": "Mirador Camino Farellones",
+                  "text": "Acest punct de belvedere de pe marginea drumului șerpuitor oferă perspective largi asupra peisajului montan accidentat din Farellones.",
+                  "category": "natural",
+                  "coords": [
+                        -70.337881,
+                        -33.343788
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest punct de observație din Rezervația Naturală Yerba Loca invită drumeții să privească spre valea largă a Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -70.329757,
+                        -33.350146
+                  ]
+            },
+            {
+                  "name": "Mirador Rocas de Escalada",
+                  "text": "Situat lângă stânci impresionante de escaladă, acest punct de observație oferă priveliști uimitoare ale defileelor din jur ale Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.315868,
+                        -33.350396
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "Din acest punct de belvedere pitoresc puteți admira o cascadă de munte care se revarsă în peisajul accidentat andin.",
+                  "category": "natural",
+                  "coords": [
+                        -70.218822,
+                        -33.27826
+                  ]
+            },
+            {
+                  "name": "Meseta Cancha de Carreras",
+                  "text": "Acest platou stâncos întins din Rezervația Naturală Yerba Loca oferă drumeților priveliști largi asupra mediului înalt andin.",
+                  "category": "natural",
+                  "coords": [
+                        -70.239451,
+                        -33.282047
+                  ]
+            },
+            {
+                  "name": "Cerro Pintor",
+                  "text": "Muntele Cerro Pintor, înalt de peste 4.000 de metri, impresionează cu pantele sale colorate, bogate în minerale, din Anzii chilieni.",
+                  "category": "natural",
+                  "coords": [
+                        -70.249159,
+                        -33.28913
+                  ]
+            },
+            {
+                  "name": "Terraza Ceremonial Yerba Loca",
+                  "text": "Această terasă ceremonială de piatră din munți este o rămășiță arheologică fascinantă a culturilor indigene.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.288286,
+                        -33.257573
+                  ]
+            },
+            {
+                  "name": "Piedras Lunares",
+                  "text": "Formațiunile stâncoase bizare ale acestui punct de belvedere amintesc puternic de un peisaj lunar aspru, aflat la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -70.244323,
+                        -33.259441
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Colgante del Plomo",
+                  "text": "De aici se oferă o priveliște impresionantă asupra ghețarului suspendat al muntelui Cerro El Plomo.",
+                  "category": "natural",
+                  "coords": [
+                        -70.221583,
+                        -33.252733
+                  ]
+            },
+            {
+                  "name": "Cascada Yerba Loca",
+                  "text": "Acest punct de belvedere îndreaptă privirea spre cascada învolburată care curge prin Rezervația Naturală Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.272796,
+                        -33.22816
+                  ]
+            },
+            {
+                  "name": "Casa Piedra Carvajal",
+                  "text": "Acest adăpost din pietre mari a servit odată drept refugiu rustic la munte pentru vagabonzii și conducătorii de catâri din Anzi.",
+                  "category": "natural",
+                  "coords": [
+                        -70.273336,
+                        -33.221182
+                  ]
+            },
+            {
+                  "name": "Curva 39 Farellones",
+                  "text": "Curba abruptă în ac de păr cu numărul 39 pe drumul spre Farellones oferă o vedere spectaculoasă în adâncimea văii andine centrale.",
+                  "category": "natural",
+                  "coords": [
+                        -70.317802,
+                        -33.355673
+                  ]
+            },
+            {
+                  "name": "Sendero Loma del Viento",
+                  "text": "De pe această cărare de pe creasta vântoasă vă puteți bucura de o vedere largă asupra vârfurilor înzăpezite ale Anzilor chilieni.",
+                  "category": "natural",
+                  "coords": [
+                        -70.326581,
+                        -33.358633
+                  ]
+            },
+            {
+                  "name": "Cueva de los cóndores",
+                  "text": "Această destinație tematică de excursie din munți este dedicată maiestuoșilor condori andini și habitatului lor natural stâncos.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.306634,
+                        -33.366159
+                  ]
+            },
+            {
+                  "name": "Parque Nieve Farellones",
+                  "text": "Acest parc tematic montan din apropiere de Santiago atrage vizitatorii iarna cu piste de snow tubing, pârtii de săniuș și activități familiale pe zăpadă.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.301545,
+                        -33.360134
+                  ]
+            },
+            {
+                  "name": "Cerro La Parva",
+                  "text": "Cerro La Parva este un vârf remarcabil din Cordiliera Anzilor, care domină stațiunea de schi omonimă.",
+                  "category": "natural",
+                  "coords": [
+                        -70.258635,
+                        -33.301726
+                  ]
+            },
+            {
+                  "name": "Centro de Ski La Parva",
+                  "text": "Această renumită stațiune de schi aflată la mare altitudine în Anzi este cunoscută pentru pârtiile sale excelente și vederea directă spre valea Santiago.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.289872,
+                        -33.333526
+                  ]
+            },
+            {
+                  "name": "MIrador Manantiales",
+                  "text": "Acest punct de belvedere andin din Yerba Loca oferă o vedere neobstrucționată asupra izvoarelor proaspete de munte care izvorăsc din solul stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.304052,
+                        -33.328833
+                  ]
+            },
+            {
+                  "name": "Mirador del Águila",
+                  "text": "De pe această proeminență stâncoasă din Anzii chilieni, vizitatorii au șansa de a vedea păsări de pradă rotindu-se deasupra văii montane largi.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319457,
+                        -33.3098
+                  ]
+            },
+            {
+                  "name": "Mirador Los Zorros",
+                  "text": "Acest punct de observație din Yerba Loca este numit după vulpile andine autohtone, care pot fi zărite ocazional în acest teren accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        -70.328129,
+                        -33.314655
+                  ]
+            },
+            {
+                  "name": "Mirador del Cóndor",
+                  "text": "Acest balcon aflat la mare altitudine este locul perfect pentru a observa zborul maiestuos al uriașilor condori andini de-a lungul pereților stâncoși abrupți.",
+                  "category": "natural",
+                  "coords": [
+                        -70.32172,
+                        -33.319753
+                  ]
+            },
+            {
+                  "name": "Curva 15 Farellones",
+                  "text": "La curba numărul 15 a drumului montan abrupt spre Farellones se deschide o vedere panoramică asupra poalelor Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -70.332948,
+                        -33.337769
+                  ]
+            },
+            {
+                  "name": "Mirador Los Cururos",
+                  "text": "Acest punct de observație din peisajul montan arid este ideal pentru a descoperi micile rozătoare săpătoare numite cururos în habitatul lor.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319838,
+                        -33.303798
+                  ]
+            },
+            {
+                  "name": "MIrador El Olivillo",
+                  "text": "Punctul de belvedere de la marginea zonei Farellones oferă o vedere clară asupra arbuștilor de munte rezistenți și a defileului adânc al râului.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319935,
+                        -33.299179
+                  ]
+            },
+            {
+                  "name": "Cerro Canoitas",
+                  "text": "Cerro Canoitas este un vârf montan proeminent care domină sanctuarul natural Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.387294,
+                        -33.296216
+                  ]
+            },
+            {
+                  "name": "Río",
+                  "text": "Río este un punct de belvedere pitoresc care oferă panorame vaste asupra văilor fluviale din sanctuarul Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.374361,
+                        -33.357649
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Vegas de Montaña",
+                  "text": "Înființată în 2021, Humedal Urbano Vegas de Montaña este o rezervație naturală care protejează zone umede cruciale de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -70.31707,
+                        -33.343692
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Yerba Loca",
+                  "text": "Declarat zonă protejată la 23 august 1973, Sanctuarul Naturii Yerba Loca este renumit pentru ghețarii săi andini și ravene accidentate.",
+                  "category": "natural",
+                  "coords": [
+                        -70.296119,
+                        -33.354995
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Niño del Cerro El Plomo",
+                  "text": "Centro de Interpretación del Niño del Cerro El Plomo este un muzeu dedicat celebrei mumii incașe de copil găsită pe muntele din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        -70.323147,
+                        -33.310307
+                  ]
+            },
+            {
+                  "name": "Ermita de Nuestra Señora de las Nieves",
+                  "text": "Ermita de Nuestra Señora de las Nieves este un mic schit creștin care oferă o retragere pașnică în mijlocul sălbăticiei montane.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.315366,
+                        -33.352095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Bismarck",
+                  "text": "This striking mountain peak in the Chilean Andes is a popular destination for hikers in the Santuario Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.198343,
+                        -33.272065
+                  ]
+            },
+            {
+                  "name": "Mirador de los Tres Valles",
+                  "text": "This high-altitude viewpoint looks out over the spectacular confluence of three Andean valleys in the Santuario Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.345138,
+                        -33.347113
+                  ]
+            },
+            {
+                  "name": "Mirador Camino Farellones",
+                  "text": "This viewpoint along the winding road offers sweeping views over the rugged mountain landscape of Farellones.",
+                  "category": "natural",
+                  "coords": [
+                        -70.337881,
+                        -33.343788
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This viewpoint in the Yerba Loca Nature Reserve invites hikers to gaze out over the wide Andean valley.",
+                  "category": "natural",
+                  "coords": [
+                        -70.329757,
+                        -33.350146
+                  ]
+            },
+            {
+                  "name": "Mirador Rocas de Escalada",
+                  "text": "Located next to impressive climbing rocks, this viewpoint affords breathtaking views of the surrounding gorges of Yerba Loca.",
+                  "category": "natural",
+                  "coords": [
+                        -70.315868,
+                        -33.350396
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "From this picturesque viewpoint, you can admire a cascading mountain waterfall set against the rugged Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -70.218822,
+                        -33.27826
+                  ]
+            },
+            {
+                  "name": "Meseta Cancha de Carreras",
+                  "text": "This expansive rocky plateau in the Yerba Loca Nature Reserve grants hikers sweeping views of the high Andean surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -70.239451,
+                        -33.282047
+                  ]
+            },
+            {
+                  "name": "Cerro Pintor",
+                  "text": "The Cerro Pintor, towering over 4,000 meters, impresses with its mineral-rich, colorful slopes in the Chilean Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.249159,
+                        -33.28913
+                  ]
+            },
+            {
+                  "name": "Terraza Ceremonial Yerba Loca",
+                  "text": "This ceremonial stone terrace in the mountains is a fascinating archaeological remnant of indigenous cultures.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.288286,
+                        -33.257573
+                  ]
+            },
+            {
+                  "name": "Piedras Lunares",
+                  "text": "The bizarre rock formations of this viewpoint are strongly reminiscent of a rugged lunar landscape at high altitude.",
+                  "category": "natural",
+                  "coords": [
+                        -70.244323,
+                        -33.259441
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Colgante del Plomo",
+                  "text": "From here, there is an impressive view of the hanging glacier of Cerro El Plomo.",
+                  "category": "natural",
+                  "coords": [
+                        -70.221583,
+                        -33.252733
+                  ]
+            },
+            {
+                  "name": "Cascada Yerba Loca",
+                  "text": "This viewpoint directs the eye to the rushing waterfall that flows through the Yerba Loca Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -70.272796,
+                        -33.22816
+                  ]
+            },
+            {
+                  "name": "Casa Piedra Carvajal",
+                  "text": "This shelter made of large stones once served as a rustic mountain refuge for Andean wanderers and muleteers.",
+                  "category": "natural",
+                  "coords": [
+                        -70.273336,
+                        -33.221182
+                  ]
+            },
+            {
+                  "name": "Curva 39 Farellones",
+                  "text": "The steep hairpin turn number 39 on the way to Farellones offers a spectacular deep view into the central Andean valley.",
+                  "category": "natural",
+                  "coords": [
+                        -70.317802,
+                        -33.355673
+                  ]
+            },
+            {
+                  "name": "Sendero Loma del Viento",
+                  "text": "From this windy ridge trail, you can enjoy a sweeping view of the snow-capped peaks of the Chilean Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.326581,
+                        -33.358633
+                  ]
+            },
+            {
+                  "name": "Cueva de los cóndores",
+                  "text": "This thematic excursion spot in the mountains is dedicated to the majestic Andean condors and their natural rocky habitat.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.306634,
+                        -33.366159
+                  ]
+            },
+            {
+                  "name": "Parque Nieve Farellones",
+                  "text": "This mountain theme park near Santiago attracts visitors in winter with tubing lanes, sledding runs, and snowy family activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.301545,
+                        -33.360134
+                  ]
+            },
+            {
+                  "name": "Cerro La Parva",
+                  "text": "Cerro La Parva is a prominent peak in the Andean Cordillera that towers over the ski resort of the same name.",
+                  "category": "natural",
+                  "coords": [
+                        -70.258635,
+                        -33.301726
+                  ]
+            },
+            {
+                  "name": "Centro de Ski La Parva",
+                  "text": "This renowned ski resort high in the Andes is known for its excellent slopes and direct views of the Santiago valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.289872,
+                        -33.333526
+                  ]
+            },
+            {
+                  "name": "MIrador Manantiales",
+                  "text": "This Andean viewpoint in Yerba Loca offers a clear view of fresh mountain springs emerging from the rocky ground.",
+                  "category": "natural",
+                  "coords": [
+                        -70.304052,
+                        -33.328833
+                  ]
+            },
+            {
+                  "name": "Mirador del Águila",
+                  "text": "From this rocky outcrop in the Chilean Andes, visitors have the chance to see birds of prey circling over the wide mountain valley.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319457,
+                        -33.3098
+                  ]
+            },
+            {
+                  "name": "Mirador Los Zorros",
+                  "text": "This viewpoint in Yerba Loca is named after the native Andean foxes, which can occasionally be spotted in this rugged terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -70.328129,
+                        -33.314655
+                  ]
+            },
+            {
+                  "name": "Mirador del Cóndor",
+                  "text": "This high-altitude balcony is the perfect spot to observe the majestic flight of the giant Andean condors along the steep rock faces.",
+                  "category": "natural",
+                  "coords": [
+                        -70.32172,
+                        -33.319753
+                  ]
+            },
+            {
+                  "name": "Curva 15 Farellones",
+                  "text": "At the 15th bend of the steep mountain road to Farellones, a panoramic view of the foothills of the Andes opens up.",
+                  "category": "natural",
+                  "coords": [
+                        -70.332948,
+                        -33.337769
+                  ]
+            },
+            {
+                  "name": "Mirador Los Cururos",
+                  "text": "This observation point in the barren mountain landscape is ideal for spotting the small, burrowing rodents called cururos in their habitat.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319838,
+                        -33.303798
+                  ]
+            },
+            {
+                  "name": "MIrador El Olivillo",
+                  "text": "The viewpoint on the edge of Farellones offers a clear view of the resilient mountain shrubs and the deep river gorge.",
+                  "category": "natural",
+                  "coords": [
+                        -70.319935,
+                        -33.299179
+                  ]
+            },
+            {
+                  "name": "Cerro Canoitas",
+                  "text": "The Cerro Canoitas is a prominent mountain peak towering over the Yerba Loca natural sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        -70.387294,
+                        -33.296216
+                  ]
+            },
+            {
+                  "name": "Río",
+                  "text": "Río is a scenic viewpoint offering sweeping views of the river valleys in the Yerba Loca sanctuary.",
+                  "category": "natural",
+                  "coords": [
+                        -70.374361,
+                        -33.357649
+                  ]
+            },
+            {
+                  "name": "Humedal Urbano Vegas de Montaña",
+                  "text": "Established in 2021, the Humedal Urbano Vegas de Montaña is a nature reserve protecting crucial high-altitude wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        -70.31707,
+                        -33.343692
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Yerba Loca",
+                  "text": "Declared a protected area on August 23, 1973, the Yerba Loca Nature Sanctuary is renowned for its Andean glaciers and rugged ravines.",
+                  "category": "natural",
+                  "coords": [
+                        -70.296119,
+                        -33.354995
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación del Niño del Cerro El Plomo",
+                  "text": "The Centro de Interpretación del Niño del Cerro El Plomo is a museum dedicated to the famous Incan child mummy found on the nearby mountain.",
+                  "category": "museum",
+                  "coords": [
+                        -70.323147,
+                        -33.310307
+                  ]
+            },
+            {
+                  "name": "Ermita de Nuestra Señora de las Nieves",
+                  "text": "The Ermita de Nuestra Señora de las Nieves is a small Christian hermitage offering a peaceful retreat amidst the mountain wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.315366,
+                        -33.352095
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-RM",
     coords: [-70.300, -33.300],
@@ -1183,7 +12937,700 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["S'étend jusqu'à des glaciers suspendus à plus de 3 000 mètres d'altitude.", "Abrite plus de 500 espèces de plantes et une riche faune aviaire."],
     }, image: "/poi-images/cl-santuario-yerba-loca-life-v2.webp"},
   {
-    id: "cl-valle-del-limari-life-v2",
+    id: "cl-valle-del-limari-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Ovalle",
+                  "text": "Dieser auf einem hohen Aussichtspunkt gelegene Aussichtspunkt bietet weite Ausblicke auf die städtische Anlage und das umliegende Limarí-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -71.195596,
+                        -30.594233
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser auf einem erhöhten Bergrücken gelegene Aussichtspunkt ist ein hervorragender Ort, um den Sonnenuntergang über dem Tal zu fotografieren.",
+                  "category": "natural",
+                  "coords": [
+                        -71.224593,
+                        -30.610607
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas de Ovalle",
+                  "text": "Gekennzeichnet durch dichte, schattige Gärten und Wege, fungiert dieser zentrale Platz als historischer Versammlungsort der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.202711,
+                        -30.603484
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Casino Ovalle",
+                  "text": "Dieses in den lokalen Casino-Komplex integrierte, terrassenförmig angelegte Amphitheater bietet Freiluft-Live-Musik und Unterhaltungsshows.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.183484,
+                        -30.572909
+                  ]
+            },
+            {
+                  "name": "El Eden de La Chimba",
+                  "text": "Mit großen Erholungsschwimmbecken und Rutschen bietet dieser Wasserpark eine erfrischende Flucht vor der Hitze des Tals.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.240552,
+                        -30.644733
+                  ]
+            },
+            {
+                  "name": "Museo del Limarí",
+                  "text": "Dieses in einem ehemaligen Bahnhof untergebrachte Museum zeigt eine umfangreiche Sammlung präkolumbianischer Diaguita-Keramik.",
+                  "category": "museum",
+                  "coords": [
+                        -71.196245,
+                        -30.598157
+                  ]
+            },
+            {
+                  "name": "Centro de Extension Cultural",
+                  "text": "Dieses facettenreiche Kunstzentrum bietet Galerieräume und Workshops zur Förderung der kulturellen Entwicklung der Region Limarí.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20388,
+                        -30.605117
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Ovalle",
+                  "text": "Ausgestattet mit modernen Bühnenanlagen ist dieses städtische Theater der wichtigste Veranstaltungsort für regionale dramatische Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20454,
+                        -30.603777
+                  ]
+            },
+            {
+                  "name": "Niño Dios de Sotaquí",
+                  "text": "Dieses christliche Heiligtum ist in der ganzen Region dafür bekannt, die verehrte Holzfigur des Jesuskindes von Sotaquí zu beherbergen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.120875,
+                        -30.631519
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Salvador",
+                  "text": "Erkennbar an ihrem traditionellen Glockenturm, hält diese christliche Pfarrkirche regelmäßig Messen für die örtliche Talgemeinde ab.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.193152,
+                        -30.60117
+                  ]
+            },
+            {
+                  "name": "Iglesia De Dios Central Ovalle",
+                  "text": "Die Iglesia De Dios Central Ovalle ist eine lokale christliche Gemeinde im Limarí-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.193973,
+                        -30.590374
+                  ]
+            },
+            {
+                  "name": "Iglesia Guamalata",
+                  "text": "Die Iglesia Guamalata dient den Bewohnern des ländlichen Limarí-Tals als traditionelle Andachtsstätte.",
+                  "category": "religious",
+                  "coords": [
+                        -71.164567,
+                        -30.569126
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Diese lokale Parroquia fungiert als zentraler christlicher Gemeindetreffpunkt für Anwohner im Limarí-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.186301,
+                        -30.592334
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Diese christliche Kirche bietet einen ruhigen Raum für Gebete inmitten der Agrarlandschaften des Limarí-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.221359,
+                        -30.60833
+                  ]
+            },
+            {
+                  "name": "Iglesia San Vicente Ferrer",
+                  "text": "Die dem heiligen Vinzenz Ferrer gewidmete historische Kirche ist ein wichtiges religiöses und architektonisches Wahrzeichen in Ovalle.",
+                  "category": "religious",
+                  "coords": [
+                        -71.20214,
+                        -30.602522
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Diese Kirche der Heiligen der Letzten Tage bietet einen eigenen Raum für mormonische Versammlungen und Gottesdienste im Limarí-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.207553,
+                        -30.597969
+                  ]
+            },
+            {
+                  "name": "Galería Comercial",
+                  "text": "Diese belebte Einkaufspassage bietet eine Vielzahl lokaler Geschäfte und regionaler Produkte aus dem Limarí-Tal.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.198434,
+                        -30.602195
+                  ]
+            },
+            {
+                  "name": "Feria Modelo de Ovalle",
+                  "text": "Die in einem historischen Eisenbahngebäude untergebrachte Feria Modelo de Ovalle ist der größte Agrarmarkt der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.190428,
+                        -30.598435
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Dieser städtische Markt ist ein belebter Knotenpunkt, an dem Einheimische regionales Kunsthandwerk und erntefrische Güter kaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20237,
+                        -30.605208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Ovalle",
+                  "text": "A magaslati ponton elhelyezkedő kilátó széles rálátást biztosít a városi elrendezésre és a környező Limarí-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.195596,
+                        -30.594233
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a magasított gerincen található kilátó kiváló hely a völgy feletti naplemente fotózására.",
+                  "category": "natural",
+                  "coords": [
+                        -71.224593,
+                        -30.610607
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas de Ovalle",
+                  "text": "A sűrű, árnyékos kertekkel és ösvényekkel jellemezhető központi tér a város történelmi gyülekezőhelyeként működik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.202711,
+                        -30.603484
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Casino Ovalle",
+                  "text": "A helyi kaszinókomplexumba integrált teraszos amfiteátrum szabadtéri élőzenei és szórakoztató műsoroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.183484,
+                        -30.572909
+                  ]
+            },
+            {
+                  "name": "El Eden de La Chimba",
+                  "text": "A nagy szabadidős medencékkel és csúszdákkal rendelkező vízi park frissítő menekülést kínál a völgyi hőség elől.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.240552,
+                        -30.644733
+                  ]
+            },
+            {
+                  "name": "Museo del Limarí",
+                  "text": "Az egykori vasútállomáson helyet kapó múzeum a prekolumbián Diaguita kerámiák kiterjedt gyűjteményét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -71.196245,
+                        -30.598157
+                  ]
+            },
+            {
+                  "name": "Centro de Extension Cultural",
+                  "text": "Ez a sokoldalú művészeti központ galériaterekkel és workshopokkal segíti a Limarí régió kulturális fejlődését.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20388,
+                        -30.605117
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Ovalle",
+                  "text": "A modern színpadtechnikával felszerelt városi színház a regionális drámai művészetek első számú beltéri helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20454,
+                        -30.603777
+                  ]
+            },
+            {
+                  "name": "Niño Dios de Sotaquí",
+                  "text": "Ez a keresztény szentély az egész régióban híres arról, hogy itt őrzik a sotaquí-i Kisjézus tiszteletreméltó fafiguráját.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.120875,
+                        -30.631519
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Salvador",
+                  "text": "A hagyományos harangtornyáról felismerhető keresztény plébániatemplom rendszeres miséket tart a helyi völgyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.193152,
+                        -30.60117
+                  ]
+            },
+            {
+                  "name": "Iglesia De Dios Central Ovalle",
+                  "text": "Az Iglesia De Dios Central Ovalle egy helyi keresztény gyülekezet a Limarí-völgy közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.193973,
+                        -30.590374
+                  ]
+            },
+            {
+                  "name": "Iglesia Guamalata",
+                  "text": "Az Iglesia Guamalata hagyományos istentiszteleti helyként szolgál a vidéki Limarí-völgy lakosai számára.",
+                  "category": "religious",
+                  "coords": [
+                        -71.164567,
+                        -30.569126
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Ez a helyi Parroquia központi keresztény közösségi csomópontként működik a Limarí-völgy lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.186301,
+                        -30.592334
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a keresztény templom csendes teret kínál az imádságra a Limarí-völgy mezőgazdasági tájain.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.221359,
+                        -30.60833
+                  ]
+            },
+            {
+                  "name": "Iglesia San Vicente Ferrer",
+                  "text": "A Ferrer Szent Vincének szentelt történelmi templom kulcsfontosságú vallási és építészeti nevezetesség Ovalle-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -71.20214,
+                        -30.602522
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek ezen temploma külön teret biztosít a mormon gyülekezet és istentisztelet számára a Limarí-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.207553,
+                        -30.597969
+                  ]
+            },
+            {
+                  "name": "Galería Comercial",
+                  "text": "Ez a nyüzsgő kereskedelmi galéria számos helyi üzletet és regionális terméket kínál a Limarí-völgyből.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.198434,
+                        -30.602195
+                  ]
+            },
+            {
+                  "name": "Feria Modelo de Ovalle",
+                  "text": "A történelmi vasúti épületben helyet kapó Feria Modelo de Ovalle a régió legnagyobb mezőgazdasági piaca.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.190428,
+                        -30.598435
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Ez a városi piac egy nyüzsgő központ, ahol a helyiek regionális kézműves termékeket és frissen betakarított árukat vásárolnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20237,
+                        -30.605208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Ovalle",
+                  "text": "Cocoțat pe un punct de observație înalt, acest punct de belvedere oferă o panoramă amplă asupra aspectului urban și a Văii Limarí înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -71.195596,
+                        -30.594233
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Situat pe o creastă înaltă, acest punct de belvedere este un loc excelent pentru a fotografia apusul de soare peste vale.",
+                  "category": "natural",
+                  "coords": [
+                        -71.224593,
+                        -30.610607
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas de Ovalle",
+                  "text": "Caracterizată prin grădini dese și umbrite și alei, această piață centrală acționează ca spațiu istoric de adunare pentru oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -71.202711,
+                        -30.603484
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Casino Ovalle",
+                  "text": "Integrat în complexul de cazinouri local, acest amfiteatru cu niveluri găzduiește muzică live în aer liber și spectacole de divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.183484,
+                        -30.572909
+                  ]
+            },
+            {
+                  "name": "El Eden de La Chimba",
+                  "text": "Având piscine mari de recreere și tobogane, acest parc acvatic oferă o evadare răcoroasă din căldura văii.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.240552,
+                        -30.644733
+                  ]
+            },
+            {
+                  "name": "Museo del Limarí",
+                  "text": "Găzduit într-o fostă gară, acest muzeu expune o colecție vastă de ceramică precolumbiană Diaguita.",
+                  "category": "museum",
+                  "coords": [
+                        -71.196245,
+                        -30.598157
+                  ]
+            },
+            {
+                  "name": "Centro de Extension Cultural",
+                  "text": "Acest centru de arte cu mai multe fațete oferă spații de galerie și ateliere pentru a promova dezvoltarea culturală a regiunii Limarí.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20388,
+                        -30.605117
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Ovalle",
+                  "text": "Dotat cu facilități de scenă moderne, acest teatru municipal este locația interioară principală pentru artele dramatice regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20454,
+                        -30.603777
+                  ]
+            },
+            {
+                  "name": "Niño Dios de Sotaquí",
+                  "text": "Acest sanctuar creștin este renumit în întreaga regiune pentru găzduirea figurii de lemn venerate a Pruncului Isus din Sotaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.120875,
+                        -30.631519
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Salvador",
+                  "text": "Recunoscută prin clopotnița sa tradițională, această biserică parohială creștină oficiază liturghii regulate pentru comunitatea locală din vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.193152,
+                        -30.60117
+                  ]
+            },
+            {
+                  "name": "Iglesia De Dios Central Ovalle",
+                  "text": "Iglesia De Dios Central Ovalle este o congregație creștină locală care deservește comunitatea din Valea Limarí.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.193973,
+                        -30.590374
+                  ]
+            },
+            {
+                  "name": "Iglesia Guamalata",
+                  "text": "Iglesia Guamalata servește drept lăcaș de cult tradițional pentru rezidenții din mediul rural al Văii Limarí.",
+                  "category": "religious",
+                  "coords": [
+                        -71.164567,
+                        -30.569126
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "Această Parroquia locală funcționează ca un centru comunitar creștin central pentru locuitorii din Valea Limarí.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.186301,
+                        -30.592334
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Această biserică creștină oferă un spațiu liniștit pentru rugăciune în mijlocul peisajelor agricole din Valea Limarí.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.221359,
+                        -30.60833
+                  ]
+            },
+            {
+                  "name": "Iglesia San Vicente Ferrer",
+                  "text": "Închinată Sfântului Vincențiu Ferrer, această biserică istorică este un punct de reper religios și arhitectural cheie în Ovalle.",
+                  "category": "religious",
+                  "coords": [
+                        -71.20214,
+                        -30.602522
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această biserică a Sfinților din Zilele din Urmă oferă un spațiu dedicat congregației și cultului mormon în Valea Limarí.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.207553,
+                        -30.597969
+                  ]
+            },
+            {
+                  "name": "Galería Comercial",
+                  "text": "Această galerie comercială plină de viață oferă o varietate de magazine locale și produse regionale din Valea Limarí.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.198434,
+                        -30.602195
+                  ]
+            },
+            {
+                  "name": "Feria Modelo de Ovalle",
+                  "text": "Găzduită într-o structură feroviară istorică, Feria Modelo de Ovalle este cea mai mare piață agricolă din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.190428,
+                        -30.598435
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Această piață municipală este un centru plin de viață unde localnicii se adună pentru a cumpăra meșteșuguri regionale și bunuri proaspăt recoltate.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20237,
+                        -30.605208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Ovalle",
+                  "text": "Perched on a high vantage point, this overlook provides sweeping views of the urban layout and surrounding Limarí Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.195596,
+                        -30.594233
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Situated on an elevated ridge, this viewpoint is an excellent spot for photographing the sunset over the valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.224593,
+                        -30.610607
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas de Ovalle",
+                  "text": "Characterized by dense, shaded gardens and pathways, this central square acts as the historic gathering space for the city.",
+                  "category": "natural",
+                  "coords": [
+                        -71.202711,
+                        -30.603484
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Casino Ovalle",
+                  "text": "Integrated into the local casino complex, this tiered amphitheater hosts open-air live music and entertainment shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.183484,
+                        -30.572909
+                  ]
+            },
+            {
+                  "name": "El Eden de La Chimba",
+                  "text": "Featuring large recreational swimming pools and slides, this water park provides a refreshing escape from the valley heat.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.240552,
+                        -30.644733
+                  ]
+            },
+            {
+                  "name": "Museo del Limarí",
+                  "text": "Housed in a former railway station, this museum exhibits an extensive collection of pre-Columbian Diaguita ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        -71.196245,
+                        -30.598157
+                  ]
+            },
+            {
+                  "name": "Centro de Extension Cultural",
+                  "text": "This multifaceted arts center provides gallery spaces and workshops to promote the cultural development of the Limarí region.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20388,
+                        -30.605117
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Ovalle",
+                  "text": "Equipped with modern stage facilities, this municipal theater is the premier indoor venue for regional dramatic arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20454,
+                        -30.603777
+                  ]
+            },
+            {
+                  "name": "Niño Dios de Sotaquí",
+                  "text": "This Christian sanctuary is famous throughout the region for housing the revered wooden figure of the Child Jesus of Sotaquí.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.120875,
+                        -30.631519
+                  ]
+            },
+            {
+                  "name": "Parroquia Divino Salvador",
+                  "text": "Recognizable by its traditional bell tower, this Christian parish church holds regular masses for the local valley community.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.193152,
+                        -30.60117
+                  ]
+            },
+            {
+                  "name": "Iglesia De Dios Central Ovalle",
+                  "text": "The Iglesia De Dios Central Ovalle is a local Christian congregation serving the community of the Limarí Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.193973,
+                        -30.590374
+                  ]
+            },
+            {
+                  "name": "Iglesia Guamalata",
+                  "text": "The Iglesia Guamalata serves as a traditional place of worship for the rural residents of the Limarí Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -71.164567,
+                        -30.569126
+                  ]
+            },
+            {
+                  "name": "Parroquia",
+                  "text": "This local Parroquia functions as a central Christian community hub for residents in the Limarí Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.186301,
+                        -30.592334
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "This Christian church offers a quiet space for prayer amidst the agricultural landscapes of the Limarí Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.221359,
+                        -30.60833
+                  ]
+            },
+            {
+                  "name": "Iglesia San Vicente Ferrer",
+                  "text": "Dedicated to Saint Vincent Ferrer, this historic church is a key religious and architectural landmark in Ovalle.",
+                  "category": "religious",
+                  "coords": [
+                        -71.20214,
+                        -30.602522
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This Latter-day Saints church provides a dedicated space for Mormon congregation and worship in the Limarí Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.207553,
+                        -30.597969
+                  ]
+            },
+            {
+                  "name": "Galería Comercial",
+                  "text": "This bustling commercial gallery offers a variety of local shops and regional products from the Limarí Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.198434,
+                        -30.602195
+                  ]
+            },
+            {
+                  "name": "Feria Modelo de Ovalle",
+                  "text": "Set in a historic railway structure, the Feria Modelo de Ovalle is the largest agricultural market in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.190428,
+                        -30.598435
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "This municipal market is a bustling hub where locals gather to buy regional crafts and freshly harvested goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.20237,
+                        -30.605208
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CL-CO",
     coords: [-71.200, -30.600],
@@ -1242,7 +13689,448 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Possède des sols très calcaires, idéaux pour le Chardonnay et le Pinot Noir.", "L'irrigation est assurée par de grands réservoirs tels que celui de Recoleta."],
     }, image: "/poi-images/cl-valle-del-limari-life-v2.webp"},
   {
-    id: "cl-valle-del-cachapoal-life-v2",
+    id: "cl-valle-del-cachapoal-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Corredor de Piedra",
+                  "text": "Dieser schroffe natürliche Gipfel erhebt sich über das Cachapoal-Tal und bietet einen weiten Blick auf die umliegende chilenische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -70.734833,
+                        -34.217447
+                  ]
+            },
+            {
+                  "name": "Cerro Trocalán",
+                  "text": "Dieser markante natürliche Gipfel bietet anspruchsvolle Wanderungen und malerische Ausblicke auf das Cachapoal-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -70.716208,
+                        -34.24235
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Requínoa",
+                  "text": "Dieses Stadttheater fungiert als wichtigster kultureller Veranstaltungsort von Requínoa und bietet bürgerschaftliche Veranstaltungen und regionale Darbietungen darstellender Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.816257,
+                        -34.286643
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "Diese evangelische Pfingstkirche im Cachapoal-Tal zeichnet sich durch leidenschaftliche Predigten und eine aktive Gemeinde aus.",
+                  "category": "religious",
+                  "coords": [
+                        -70.755725,
+                        -34.338195
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Boldos",
+                  "text": "Im Viertel Los Boldos gelegen, fungiert diese christliche Kirche als wichtiger Versammlungsort für die lokalen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.754539,
+                        -34.307611
+                  ]
+            },
+            {
+                  "name": "Iglesia Evángelica Penstecostal",
+                  "text": "Diese christliche Pfingsteinrichtung veranstaltet lebhafte, musikalisch geprägte Gottesdienste für die regionale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.813325,
+                        -34.278864
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses moderne Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage bietet strukturierten Raum für wöchentliche Familiengottesdienste in der Region Cachapoal-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.815063,
+                        -34.283186
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Día",
+                  "text": "Eine Kultstätte der Siebenten-Tags-Adventisten in der Region Valle del Cachapoal.",
+                  "category": "religious",
+                  "coords": [
+                        -70.817689,
+                        -34.285098
+                  ]
+            },
+            {
+                  "name": "Iglesia San Leonardo de Murialdo",
+                  "text": "Eine christliche Kirche im Valle del Cachapoal, die dem Heiligen Leonardo de Murialdo gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.819775,
+                        -34.28614
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "Eine Kapelle der Heiligen Familie, die als Kultstätte im Gebiet Valle del Cachapoal dient.",
+                  "category": "religious",
+                  "coords": [
+                        -70.825678,
+                        -34.282007
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia De Nogales",
+                  "text": "Eine lokale Sagrada Familia-Kapelle im Gebiet Nogales im Valle del Cachapoal.",
+                  "category": "religious",
+                  "coords": [
+                        -70.669045,
+                        -34.19839
+                  ]
+            },
+            {
+                  "name": "Capilla El Abra",
+                  "text": "Eine christliche Kapelle für die lokale Gemeinde El Abra im Valle del Cachapoal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.854257,
+                        -34.27293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Corredor de Piedra",
+                  "text": "A Cachapoal-völgy fölé magasodó zord, természetes hegycsúcs kiterjedt kilátást nyújt a környező chilei tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -70.734833,
+                        -34.217447
+                  ]
+            },
+            {
+                  "name": "Cerro Trocalán",
+                  "text": "Ez a kiemelkedő természetes hegycsúcs kihívást jelentő túrákat és festői kilátást kínál a Cachapoal-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.716208,
+                        -34.24235
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Requínoa",
+                  "text": "Requínoa fő kulturális helyszíneként ez a városi színház polgári eseményeknek és regionális előadóművészeti műsoroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.816257,
+                        -34.286643
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "A Cachapoal-völgy térségét kiszolgáló evangéliumi pünkösdi gyülekezetet szenvedélyes prédikációi és aktív közössége jellemzi.",
+                  "category": "religious",
+                  "coords": [
+                        -70.755725,
+                        -34.338195
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Boldos",
+                  "text": "A Los Boldos negyedben található keresztény templom a helyi hívők alapvető gyülekezőhelyeként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.754539,
+                        -34.307611
+                  ]
+            },
+            {
+                  "name": "Iglesia Evángelica Penstecostal",
+                  "text": "Ez a keresztény pünkösdi létesítmény élénk, zeneileg vezérelt istentiszteleteknek ad otthont a regionális gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.813325,
+                        -34.278864
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A modern Utolsó Napi Szentek templomának gyülekezeti háza strukturált tereket biztosít a heti családi istentiszteletekhez a Cachapoal-völgy régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.815063,
+                        -34.283186
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Día",
+                  "text": "Hetednapi adventista istentiszteleti hely a Valle del Cachapoal régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -70.817689,
+                        -34.285098
+                  ]
+            },
+            {
+                  "name": "Iglesia San Leonardo de Murialdo",
+                  "text": "San Leonardo de Murialdo tiszteletére szentelt keresztény templom a Valle del Cachapoal régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.819775,
+                        -34.28614
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "Szent Család-kápolna, amely istentiszteleti helyként szolgál a Valle del Cachapoal térségében.",
+                  "category": "religious",
+                  "coords": [
+                        -70.825678,
+                        -34.282007
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia De Nogales",
+                  "text": "A Valle del Cachapoal Nogales nevű részén található helyi Sagrada Familia-kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        -70.669045,
+                        -34.19839
+                  ]
+            },
+            {
+                  "name": "Capilla El Abra",
+                  "text": "A Valle del Cachapoal régióban található El Abra helyi közösségét szolgáló keresztény kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.854257,
+                        -34.27293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Corredor de Piedra",
+                  "text": "Ridicându-se deasupra văii Cachapoal, acest vârf natural accidentat oferă vederi panoramice asupra peisajului chilian înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -70.734833,
+                        -34.217447
+                  ]
+            },
+            {
+                  "name": "Cerro Trocalán",
+                  "text": "Acest vârf natural proeminent oferă drumeții provocatoare și priveliști pitorești cu vedere la Valea Cachapoal.",
+                  "category": "natural",
+                  "coords": [
+                        -70.716208,
+                        -34.24235
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Requínoa",
+                  "text": "Funcționând ca principală locație culturală din Requínoa, acest teatru municipal pune în scenă evenimente civice și spectacole de arte regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.816257,
+                        -34.286643
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "Deservind zona Văii Cachapoal, această biserică evanghelică penticostală se caracterizează prin predici pasionale și o congregație activă.",
+                  "category": "religious",
+                  "coords": [
+                        -70.755725,
+                        -34.338195
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Boldos",
+                  "text": "Situată în cartierul Los Boldos, această biserică creștină acționează ca un loc de adunare esențial pentru credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.754539,
+                        -34.307611
+                  ]
+            },
+            {
+                  "name": "Iglesia Evángelica Penstecostal",
+                  "text": "Această facilitate creștin-penticostală găzduiește sesiuni de închinare pline de viață, acompaniate de muzică, pentru congregația regională.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.813325,
+                        -34.278864
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de adunare modernă a Bisericii Sfinților din Zilele din Urmă oferă spații structurate pentru închinarea săptămânală în familie în regiunea Văii Cachapoal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.815063,
+                        -34.283186
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Día",
+                  "text": "Un lăcaș de cult adventist de ziua a șaptea în regiunea Valle del Cachapoal.",
+                  "category": "religious",
+                  "coords": [
+                        -70.817689,
+                        -34.285098
+                  ]
+            },
+            {
+                  "name": "Iglesia San Leonardo de Murialdo",
+                  "text": "O biserică creștină dedicată Sfântului Leonardo de Murialdo în regiunea Valle del Cachapoal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.819775,
+                        -34.28614
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "O capelă a Sfintei Familii, care servește drept lăcaș de cult în zona Valle del Cachapoal.",
+                  "category": "religious",
+                  "coords": [
+                        -70.825678,
+                        -34.282007
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia De Nogales",
+                  "text": "O capelă locală Sagrada Familia situată în zona Nogales din Valle del Cachapoal.",
+                  "category": "religious",
+                  "coords": [
+                        -70.669045,
+                        -34.19839
+                  ]
+            },
+            {
+                  "name": "Capilla El Abra",
+                  "text": "O capelă creștină care deservește comunitatea locală El Abra din Valle del Cachapoal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.854257,
+                        -34.27293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Corredor de Piedra",
+                  "text": "Rising above the Cachapoal Valley, this rugged natural peak provides expansive views of the surrounding Chilean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -70.734833,
+                        -34.217447
+                  ]
+            },
+            {
+                  "name": "Cerro Trocalán",
+                  "text": "This prominent natural peak offers challenging uphill treks and scenic vistas overlooking the Cachapoal Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -70.716208,
+                        -34.24235
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Requínoa",
+                  "text": "Functioning as Requínoa's main cultural venue, this municipal theatre stages civic events and regional performing arts shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.816257,
+                        -34.286643
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Pentecostal",
+                  "text": "Serving the Cachapoal Valley area, this Evangelical Pentecostal church is characterized by its passionate sermons and active congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -70.755725,
+                        -34.338195
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Boldos",
+                  "text": "Situated in the Los Boldos neighborhood, this Christian church acts as an essential gathering place for local believers.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.754539,
+                        -34.307611
+                  ]
+            },
+            {
+                  "name": "Iglesia Evángelica Penstecostal",
+                  "text": "This Christian Pentecostal facility hosts lively, musically driven worship sessions for the regional congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.813325,
+                        -34.278864
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This modern Latter-day Saints church meetinghouse provides structural spaces for weekly family worship in the Cachapoal Valley region.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.815063,
+                        -34.283186
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del 7mo Día",
+                  "text": "A Seventh-day Adventist place of worship in the Valle del Cachapoal region.",
+                  "category": "religious",
+                  "coords": [
+                        -70.817689,
+                        -34.285098
+                  ]
+            },
+            {
+                  "name": "Iglesia San Leonardo de Murialdo",
+                  "text": "A Christian church dedicated to San Leonardo de Murialdo in Valle del Cachapoal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.819775,
+                        -34.28614
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia",
+                  "text": "A Holy Family chapel serving as a place of worship in the Valle del Cachapoal area.",
+                  "category": "religious",
+                  "coords": [
+                        -70.825678,
+                        -34.282007
+                  ]
+            },
+            {
+                  "name": "Capilla Sagrada Familia De Nogales",
+                  "text": "A local Sagrada Familia chapel situated in the Nogales area of Valle del Cachapoal.",
+                  "category": "religious",
+                  "coords": [
+                        -70.669045,
+                        -34.19839
+                  ]
+            },
+            {
+                  "name": "Capilla El Abra",
+                  "text": "A Christian chapel serving the El Abra local community in Valle del Cachapoal.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.854257,
+                        -34.27293
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CL-LI",
     coords: [-70.750, -34.250],
@@ -1301,7 +14189,880 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Fait partie des régions viticoles les plus anciennes et les plus traditionnelles du Chili.", "Particulièrement appréciée pour la culture du cépage Carménère."],
     }, image: "/poi-images/cl-valle-del-cachapoal-life-v2.webp"},
   {
-    id: "cl-valle-de-aconcagua-life-v2",
+    id: "cl-valle-de-aconcagua-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Franciscano",
+                  "text": "Ein religiöses Museum, das das Erbe, koloniale Relikte und Artefakte des Franziskanerordens im Aconcagua-Tal bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.689532,
+                        -32.784068
+                  ]
+            },
+            {
+                  "name": "Cerro Colunquén",
+                  "text": "Ein bemerkenswerter Berggipfel im Aconcagua-Tal, der raue Wanderwege und einen weiten Blick über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.757453,
+                        -32.816904
+                  ]
+            },
+            {
+                  "name": "Cerro La Giganta",
+                  "text": "Ein markanter Berggipfel, der für die Formung der rauen, natürlichen Skyline des Aconcagua-Tals bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.767278,
+                        -32.769945
+                  ]
+            },
+            {
+                  "name": "Parque La Giganta",
+                  "text": "Ein geschütztes Naturschutzgebiet, das sich um die Hänge des imposanten Berges Cerro La Giganta erstreckt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.756818,
+                        -32.751285
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal San Felipe",
+                  "text": "Das wichtigste städtische Theater für darstellende Künste, das kulturelle Veranstaltungen und lokale Bühnenproduktionen in San Felipe beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.725951,
+                        -32.750449
+                  ]
+            },
+            {
+                  "name": "Sala Museo Sociedad de Artesanos",
+                  "text": "Ein 1892 gegründetes historisches Museum, das die reichen Traditionen, Werkzeuge und Handwerke lokaler Handwerker feiert.",
+                  "category": "museum",
+                  "coords": [
+                        -70.725209,
+                        -32.753523
+                  ]
+            },
+            {
+                  "name": "El Castillo",
+                  "text": "Ein markantes historisches Denkmal, bekannt als „Die Burg“, mit beeindruckender Steinarchitektur im Aconcagua-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        -70.652849,
+                        -32.757946
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Museo Almendral",
+                  "text": "Ein Kulturzentrum und Museum, das sich der Bewahrung der lokalen Geschichte und der gemeinschaftlichen Artefakte des Bezirks Almendral widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -70.692517,
+                        -32.749702
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Serranía El Ciprés",
+                  "text": "Ein ausgewiesenes Naturschutzgebiet, das die einzigartigen Bergzypressen-Ökosysteme des Tals schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.803525,
+                        -32.679169
+                  ]
+            },
+            {
+                  "name": "Aquapark La Troya",
+                  "text": "Ein familienfreundlicher Wasserpark mit Außenschwimmbädern und Freizeit-Rutschen im sonnigen Aconcagua-Tal.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.691428,
+                        -32.735552
+                  ]
+            },
+            {
+                  "name": "Catedral de San Felipe",
+                  "text": "Die katholische Hauptkathedrale von San Felipe, die sich durch ihre markante neoklassizistische Architektur mit Blick auf den zentralen Platz auszeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        -70.724317,
+                        -32.749995
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de San Felipe",
+                  "text": "Ein heimatgeschichtliches Museum, das die bürgerliche Entwicklung und die kulturellen Meilensteine der Region San Felipe detailliert beschreibt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.721543,
+                        -32.753578
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro y Costumbrista",
+                  "text": "Ein spezialisiertes Museum, das kunstvolle sakrale religiöse Kunst ausstellt und traditionelle regionale Bräuche feiert.",
+                  "category": "museum",
+                  "coords": [
+                        -70.721106,
+                        -32.755758
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario Cáñamo Aconcagua",
+                  "text": "Ein Gemeindemuseum, das dem historischen Anbau und der traditionellen industriellen Verarbeitung von Hanf in der Region Aconcagua gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -70.685732,
+                        -32.74363
+                  ]
+            },
+            {
+                  "name": "Sala de Exposiones Estación Las Coimas",
+                  "text": "Eine Ausstellungshalle und ein Museum, das passenderweise in der historischen Architektur des alten Bahnhofs Las Coimas untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -70.732704,
+                        -32.696064
+                  ]
+            },
+            {
+                  "name": "Templo Cristo Redentor",
+                  "text": "Ein christlicher Tempel, der Christus dem Erlöser gewidmet ist und einen modernen geistlichen Versammlungsraum im Tal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.848944,
+                        -32.780528
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Eine Kirche der Heiligen der Letzten Tage, die den örtlichen Mitgliedern einen speziellen Ort für christliche Gottesdienste und Gemeindeversammlungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.725954,
+                        -32.754455
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa María",
+                  "text": "Diese christliche Kirche im Aconcagua-Tal ist ein friedlicher spiritueller Rückzugsort, der der Heiligen Maria gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.656755,
+                        -32.747096
+                  ]
+            },
+            {
+                  "name": "Templo La Troya",
+                  "text": "Ein lokaler christlicher Tempel, der den Gläubigen im Sektor La Troya des Aconcagua-Tals dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.689202,
+                        -32.741679
+                  ]
+            },
+            {
+                  "name": "Parroquia San Maximiano",
+                  "text": "Eine engagierte Pfarrkirche im Tal, die der örtlichen Gemeinde unter dem Patronat von San Maximiano christliche Gottesdienste anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.832001,
+                        -32.768867
+                  ]
+            },
+            {
+                  "name": "Iglesia Andacollo",
+                  "text": "Dieses christliche Heiligtum im Aconcagua-Tal ehrt die traditionelle chilenische Verehrung der Jungfrau von Andacollo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.73341,
+                        -32.745813
+                  ]
+            },
+            {
+                  "name": "Iglesia del Buen Pastor",
+                  "text": "Eine historische christliche Kirche im Tal, die traditionell mit der Kongregation des Guten Hirten verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.720166,
+                        -32.755845
+                  ]
+            },
+            {
+                  "name": "Mercado de San Felipe",
+                  "text": "Ein belebter traditioneller Markt im Tal, auf dem Einheimische frische regionale Produkte und Waren handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.720067,
+                        -32.754511
+                  ]
+            },
+            {
+                  "name": "Feria Mayorista",
+                  "text": "Der landwirtschaftliche Großmarkt der Region, der große Mengen an frischem Obst und Gemüse aus dem Tal anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.721626,
+                        -32.736758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Franciscano",
+                  "text": "Egy vallási múzeum, amely a ferences rend örökségét, gyarmati ereklyéit és műtárgyait őrzi az Aconcagua-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        -70.689532,
+                        -32.784068
+                  ]
+            },
+            {
+                  "name": "Cerro Colunquén",
+                  "text": "Az Aconcagua-völgy egyik figyelemre méltó hegycsúcsa, amely zord túraútvonalakat és lenyűgöző regionális kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -70.757453,
+                        -32.816904
+                  ]
+            },
+            {
+                  "name": "Cerro La Giganta",
+                  "text": "Egy kiemelkedő hegycsúcs, amely az Aconcagua-völgy zord, természetes sziluettjének meghatározásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.767278,
+                        -32.769945
+                  ]
+            },
+            {
+                  "name": "Parque La Giganta",
+                  "text": "Egy védett természetvédelmi terület, amely az impozáns Cerro La Giganta hegy lejtői körül terül el.",
+                  "category": "natural",
+                  "coords": [
+                        -70.756818,
+                        -32.751285
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal San Felipe",
+                  "text": "A fő városi színház, amely kulturális eseményeknek és helyi színpadi produkcióknak ad otthont San Felipe városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.725951,
+                        -32.750449
+                  ]
+            },
+            {
+                  "name": "Sala Museo Sociedad de Artesanos",
+                  "text": "Egy 1892-ben alapított történelmi múzeum, amely a helyi kézművesek gazdag hagyományait, eszközeit és mesterségeit ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        -70.725209,
+                        -32.753523
+                  ]
+            },
+            {
+                  "name": "El Castillo",
+                  "text": "A „Kastély” néven ismert, jellegzetes történelmi emlékmű, amely feltűnő kőépítészettel rendelkezik az Aconcagua-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -70.652849,
+                        -32.757946
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Museo Almendral",
+                  "text": "Egy kulturális központ és múzeum, amely az Almendral negyed helyi történelmének és közösségi műtárgyainak megőrzésének szentelte magát.",
+                  "category": "museum",
+                  "coords": [
+                        -70.692517,
+                        -32.749702
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Serranía El Ciprés",
+                  "text": "Kijelölt természetvédelmi terület, amely a völgy egyedülálló hegyi ciprus ökoszisztémáit védi.",
+                  "category": "natural",
+                  "coords": [
+                        -70.803525,
+                        -32.679169
+                  ]
+            },
+            {
+                  "name": "Aquapark La Troya",
+                  "text": "Egy családbarát vízi park szabadtéri úszómedencékkel és szabadidős csúszdákkal a napfényes Aconcagua-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.691428,
+                        -32.735552
+                  ]
+            },
+            {
+                  "name": "Catedral de San Felipe",
+                  "text": "San Felipe fő katolikus katedrálisa, amely a központi térre néző kiemelkedő neoklasszikus építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        -70.724317,
+                        -32.749995
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de San Felipe",
+                  "text": "Egy helytörténeti múzeum, amely San Felipe térségének polgári fejlődését és kulturális mérföldköveit részletezi.",
+                  "category": "museum",
+                  "coords": [
+                        -70.721543,
+                        -32.753578
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro y Costumbrista",
+                  "text": "Egy speciális múzeum, amely bonyolult szakrális vallási művészetet állít ki, és ünnepli a hagyományos regionális szokásokat.",
+                  "category": "museum",
+                  "coords": [
+                        -70.721106,
+                        -32.755758
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario Cáñamo Aconcagua",
+                  "text": "Egy közösségi múzeum, amely a kender történelmi termesztésének és hagyományos ipari feldolgozásának szentelte magát az Aconcagua régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.685732,
+                        -32.74363
+                  ]
+            },
+            {
+                  "name": "Sala de Exposiones Estación Las Coimas",
+                  "text": "Egy kiállítóterem és múzeum, amely stílusosan a régi Las Coimas vasútállomás történelmi épületében kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -70.732704,
+                        -32.696064
+                  ]
+            },
+            {
+                  "name": "Templo Cristo Redentor",
+                  "text": "A Megváltó Krisztusnak szentelt keresztény templom, amely modern spirituális gyülekezési teret biztosít a völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.848944,
+                        -32.780528
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "Az Utolsó Napi Szentek egyháza, amely dedikált keresztény istentiszteleti és közösségi gyülekezési helyet biztosít a helyi tagok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.725954,
+                        -32.754455
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa María",
+                  "text": "Ez a keresztény templom az Aconcagua-völgyben egy békés spirituális menedék, amelyet Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.656755,
+                        -32.747096
+                  ]
+            },
+            {
+                  "name": "Templo La Troya",
+                  "text": "Egy helyi keresztény templom, amely a hívőket szolgálja az Aconcagua-völgy La Troya övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.689202,
+                        -32.741679
+                  ]
+            },
+            {
+                  "name": "Parroquia San Maximiano",
+                  "text": "A völgyben található plébániatemplom, amely San Maximiano védnöksége alatt nyújt keresztény szolgálatokat a helyi közösségnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.832001,
+                        -32.768867
+                  ]
+            },
+            {
+                  "name": "Iglesia Andacollo",
+                  "text": "Ez a keresztény szentély az Aconcagua-völgyben a chilei hagyományos Andacollo-i Szűzanya tiszteletének állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.73341,
+                        -32.745813
+                  ]
+            },
+            {
+                  "name": "Iglesia del Buen Pastor",
+                  "text": "Egy történelmi keresztény templom a völgyben, amely hagyományosan a Jó Pásztor Kongregációjához kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.720166,
+                        -32.755845
+                  ]
+            },
+            {
+                  "name": "Mercado de San Felipe",
+                  "text": "Nyüzsgő hagyományos piac a völgyben, ahol a helyiek friss regionális termékeket és árukat cserélnek.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.720067,
+                        -32.754511
+                  ]
+            },
+            {
+                  "name": "Feria Mayorista",
+                  "text": "A térség fő mezőgazdasági nagykereskedelmi piaca, amely nagy mennyiségben kínál a völgyben betakarított friss gyümölcsöt és zöldséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.721626,
+                        -32.736758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Franciscano",
+                  "text": "Un muzeu religios care păstrează moștenirea, relicvele coloniale și artefactele ordinului franciscan din Valea Aconcagua.",
+                  "category": "museum",
+                  "coords": [
+                        -70.689532,
+                        -32.784068
+                  ]
+            },
+            {
+                  "name": "Cerro Colunquén",
+                  "text": "Un vârf montan notabil din Valea Aconcagua, care oferă trasee accidentate de drumeții și vederi ample asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -70.757453,
+                        -32.816904
+                  ]
+            },
+            {
+                  "name": "Cerro La Giganta",
+                  "text": "Un vârf montan proeminent recunoscut pentru conturarea orizontului natural și accidentat al Văii Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -70.767278,
+                        -32.769945
+                  ]
+            },
+            {
+                  "name": "Parque La Giganta",
+                  "text": "O rezervație naturală protejată situată în jurul versanților impunătorului munte Cerro La Giganta.",
+                  "category": "natural",
+                  "coords": [
+                        -70.756818,
+                        -32.751285
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal San Felipe",
+                  "text": "Teatrul municipal principal de arte spectacolului care găzduiește evenimente culturale și producții scenice locale în San Felipe.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.725951,
+                        -32.750449
+                  ]
+            },
+            {
+                  "name": "Sala Museo Sociedad de Artesanos",
+                  "text": "Un muzeu istoric fondat în 1892 care celebrează tradițiile bogate, uneltele și meșteșugurile artizanilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -70.725209,
+                        -32.753523
+                  ]
+            },
+            {
+                  "name": "El Castillo",
+                  "text": "Un monument istoric distinctiv cunoscut sub numele de „Castelul”, care prezintă o arhitectură impresionantă din piatră în Valea Aconcagua.",
+                  "category": "historical",
+                  "coords": [
+                        -70.652849,
+                        -32.757946
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Museo Almendral",
+                  "text": "Un centru cultural și muzeu dedicat păstrării istoriei locale și a artefactelor comunității din districtul Almendral.",
+                  "category": "museum",
+                  "coords": [
+                        -70.692517,
+                        -32.749702
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Serranía El Ciprés",
+                  "text": "Un sanctuar natural desemnat care protejează ecosistemele unice de chiparoși de munte din vale.",
+                  "category": "natural",
+                  "coords": [
+                        -70.803525,
+                        -32.679169
+                  ]
+            },
+            {
+                  "name": "Aquapark La Troya",
+                  "text": "Un parc acvatic potrivit pentru familii, care oferă piscine în aer liber și tobogane de agrement în însorita Vale Aconcagua.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.691428,
+                        -32.735552
+                  ]
+            },
+            {
+                  "name": "Catedral de San Felipe",
+                  "text": "Catedrala catolică principală din San Felipe, care se distinge prin arhitectura sa neoclasică proeminentă ce domină piața centrală.",
+                  "category": "religious",
+                  "coords": [
+                        -70.724317,
+                        -32.749995
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de San Felipe",
+                  "text": "Un muzeu de istorie locală care detaliază dezvoltarea civică și reperele culturale ale zonei San Felipe.",
+                  "category": "museum",
+                  "coords": [
+                        -70.721543,
+                        -32.753578
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro y Costumbrista",
+                  "text": "Un muzeu specializat care expune artă religioasă sacră complexă și celebrează obiceiurile regionale tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        -70.721106,
+                        -32.755758
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario Cáñamo Aconcagua",
+                  "text": "Un muzeu comunitar dedicat cultivării istorice și procesării industriale tradiționale a cânepei în regiunea Aconcagua.",
+                  "category": "museum",
+                  "coords": [
+                        -70.685732,
+                        -32.74363
+                  ]
+            },
+            {
+                  "name": "Sala de Exposiones Estación Las Coimas",
+                  "text": "O sală de expoziții și un muzeu găzduite în mod corespunzător în arhitectura istorică a vechii gări Las Coimas.",
+                  "category": "museum",
+                  "coords": [
+                        -70.732704,
+                        -32.696064
+                  ]
+            },
+            {
+                  "name": "Templo Cristo Redentor",
+                  "text": "Un templu creștin dedicat lui Hristos Mântuitorul, care oferă un spațiu modern de adunare spirituală în vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.848944,
+                        -32.780528
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "O biserică a Sfinților din Zilele din Urmă care oferă un loc dedicat de cult creștin și de adunare comunitară pentru membrii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.725954,
+                        -32.754455
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa María",
+                  "text": "Această biserică creștină din Valea Aconcagua este un refugiu spiritual liniștit închinat Sfintei Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.656755,
+                        -32.747096
+                  ]
+            },
+            {
+                  "name": "Templo La Troya",
+                  "text": "Un templu creștin local care deservește credincioșii din sectorul La Troya din Valea Aconcagua.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.689202,
+                        -32.741679
+                  ]
+            },
+            {
+                  "name": "Parroquia San Maximiano",
+                  "text": "O biserică parohială din vale, care oferă slujbe creștine comunității locale sub patronajul lui San Maximiano.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.832001,
+                        -32.768867
+                  ]
+            },
+            {
+                  "name": "Iglesia Andacollo",
+                  "text": "Acest sanctuar creștin din Valea Aconcagua onorează devoțiunea tradițională chiliană față de Fecioara din Andacollo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.73341,
+                        -32.745813
+                  ]
+            },
+            {
+                  "name": "Iglesia del Buen Pastor",
+                  "text": "O biserică creștină istorică din vale, asociată în mod tradițional cu Congregația Bunului Păstor.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.720166,
+                        -32.755845
+                  ]
+            },
+            {
+                  "name": "Mercado de San Felipe",
+                  "text": "O piață tradițională animată din vale, unde localnicii se adună pentru a vinde produse și mărfuri regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.720067,
+                        -32.754511
+                  ]
+            },
+            {
+                  "name": "Feria Mayorista",
+                  "text": "Principala piață agricolă angro din zonă, care oferă cantități mari de fructe și legume proaspete recoltate în vale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.721626,
+                        -32.736758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Franciscano",
+                  "text": "A religious museum preserving the heritage, colonial relics, and artifacts of the Franciscan order in the Aconcagua Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -70.689532,
+                        -32.784068
+                  ]
+            },
+            {
+                  "name": "Cerro Colunquén",
+                  "text": "A notable mountain peak in the Aconcagua Valley offering rugged hiking trails and sweeping regional views.",
+                  "category": "natural",
+                  "coords": [
+                        -70.757453,
+                        -32.816904
+                  ]
+            },
+            {
+                  "name": "Cerro La Giganta",
+                  "text": "A prominent mountain peak recognized for shaping the rugged, natural skyline of the Aconcagua Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -70.767278,
+                        -32.769945
+                  ]
+            },
+            {
+                  "name": "Parque La Giganta",
+                  "text": "A protected nature reserve situated around the slopes of the imposing Cerro La Giganta mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -70.756818,
+                        -32.751285
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal San Felipe",
+                  "text": "The main municipal performing arts theatre hosting cultural events and local stage productions in San Felipe.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.725951,
+                        -32.750449
+                  ]
+            },
+            {
+                  "name": "Sala Museo Sociedad de Artesanos",
+                  "text": "A historical museum founded in 1892 that celebrates the rich traditions, tools, and crafts of local artisans.",
+                  "category": "museum",
+                  "coords": [
+                        -70.725209,
+                        -32.753523
+                  ]
+            },
+            {
+                  "name": "El Castillo",
+                  "text": "A distinctive historic monument known as 'The Castle', featuring striking stone architecture in the Aconcagua Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -70.652849,
+                        -32.757946
+                  ]
+            },
+            {
+                  "name": "Centro Cultural y Museo Almendral",
+                  "text": "A cultural center and museum dedicated to preserving the local history and community artifacts of the Almendral district.",
+                  "category": "museum",
+                  "coords": [
+                        -70.692517,
+                        -32.749702
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Serranía El Ciprés",
+                  "text": "A designated nature sanctuary protecting the unique mountain cypress ecosystems of the valley.",
+                  "category": "natural",
+                  "coords": [
+                        -70.803525,
+                        -32.679169
+                  ]
+            },
+            {
+                  "name": "Aquapark La Troya",
+                  "text": "A family-friendly water park featuring outdoor swimming pools and recreational slides in the sunny Aconcagua Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.691428,
+                        -32.735552
+                  ]
+            },
+            {
+                  "name": "Catedral de San Felipe",
+                  "text": "The main Catholic cathedral of San Felipe, distinguished by its prominent neoclassical architecture overlooking the central plaza.",
+                  "category": "religious",
+                  "coords": [
+                        -70.724317,
+                        -32.749995
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de San Felipe",
+                  "text": "A local history museum detailing the civic development and cultural milestones of the San Felipe area.",
+                  "category": "museum",
+                  "coords": [
+                        -70.721543,
+                        -32.753578
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro y Costumbrista",
+                  "text": "A specialized museum exhibiting intricate sacred religious art and celebrating traditional regional customs.",
+                  "category": "museum",
+                  "coords": [
+                        -70.721106,
+                        -32.755758
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario Cáñamo Aconcagua",
+                  "text": "A community museum dedicated to the historical cultivation and traditional industrial processing of hemp in the Aconcagua region.",
+                  "category": "museum",
+                  "coords": [
+                        -70.685732,
+                        -32.74363
+                  ]
+            },
+            {
+                  "name": "Sala de Exposiones Estación Las Coimas",
+                  "text": "An exhibition hall and museum appropriately housed within the historical architecture of the old Las Coimas railway station.",
+                  "category": "museum",
+                  "coords": [
+                        -70.732704,
+                        -32.696064
+                  ]
+            },
+            {
+                  "name": "Templo Cristo Redentor",
+                  "text": "A Christian temple dedicated to Christ the Redeemer, providing a modern spiritual gathering space in the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.848944,
+                        -32.780528
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormona",
+                  "text": "A Latter-day Saints church providing a dedicated place of Christian worship and community assembly for local members.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.725954,
+                        -32.754455
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa María",
+                  "text": "This Christian church in the Aconcagua Valley is a peaceful spiritual retreat dedicated to Saint Mary.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.656755,
+                        -32.747096
+                  ]
+            },
+            {
+                  "name": "Templo La Troya",
+                  "text": "A local Christian temple serving the faithful in the La Troya sector of the Aconcagua Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.689202,
+                        -32.741679
+                  ]
+            },
+            {
+                  "name": "Parroquia San Maximiano",
+                  "text": "A dedicated parish church in the valley, providing Christian services to the local community under the patronage of San Maximiano.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.832001,
+                        -32.768867
+                  ]
+            },
+            {
+                  "name": "Iglesia Andacollo",
+                  "text": "This Christian sanctuary in the Aconcagua Valley honors the traditional Chilean devotion to the Virgin of Andacollo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.73341,
+                        -32.745813
+                  ]
+            },
+            {
+                  "name": "Iglesia del Buen Pastor",
+                  "text": "A historic Christian church in the valley, traditionally associated with the Congregation of the Good Shepherd.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.720166,
+                        -32.755845
+                  ]
+            },
+            {
+                  "name": "Mercado de San Felipe",
+                  "text": "A bustling traditional market in the valley where locals gather to trade fresh regional produce and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.720067,
+                        -32.754511
+                  ]
+            },
+            {
+                  "name": "Feria Mayorista",
+                  "text": "The main agricultural wholesale market in the area, offering large quantities of fresh fruits and vegetables harvested in the valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.721626,
+                        -32.736758
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CL-VS",
     coords: [-70.750, -32.750],
@@ -1360,7 +15121,124 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["La vallée connaît des journées d'été très chaudes et des nuits fraîches.", "Célèbre pour certains des meilleurs Cabernet Sauvignon et Syrah du pays."],
     }, image: "/poi-images/cl-valle-de-aconcagua-life-v2.webp"},
   {
-    id: "cl-reserva-nacional-los-flamencos-life-v2",
+    id: "cl-reserva-nacional-los-flamencos-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ojos del Salar",
+                  "text": "Dieser Aussichtspunkt überblickt die Ojos del Salar, zwei markante, tiefe Süßwasserbecken inmitten der weiten Salzebenen.",
+                  "category": "natural",
+                  "coords": [
+                        -68.235183,
+                        -23.137626
+                  ]
+            },
+            {
+                  "name": "Sitio Ramsar Sistema Hidrológico de Soncor del Salar de Atacama",
+                  "text": "Dieses 1996 als Ramsar-Gebiet ausgewiesene Naturschutzgebiet schützt ein wichtiges hydrologisches System in der Atacama-Salzwüste.",
+                  "category": "natural",
+                  "coords": [
+                        -68.154992,
+                        -23.279359
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Laguna Tebenquiche",
+                  "text": "Diese atemberaubende Lagune in der Atacama-Wüste wurde 2019 als Naturschutzgebiet eingerichtet und ist für ihre spiegelnden Reflexionen bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        -68.258041,
+                        -23.136638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ojos del Salar",
+                  "text": "Ez a kilátó az Ojos del Salarra néz, amely két különálló, mély édesvizű medence a hatalmas sósivatag közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -68.235183,
+                        -23.137626
+                  ]
+            },
+            {
+                  "name": "Sitio Ramsar Sistema Hidrológico de Soncor del Salar de Atacama",
+                  "text": "Az 1996-ban Ramsari területként kijelölt természetvédelmi terület az Atacama-sósivatag egy kritikus hidrológiai rendszerét védi.",
+                  "category": "natural",
+                  "coords": [
+                        -68.154992,
+                        -23.279359
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Laguna Tebenquiche",
+                  "text": "A 2019-ben természetvédelmi területté nyilvánított, az Atacama-sivatagban található lenyűgöző lagúna tükörszerű vizéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -68.258041,
+                        -23.136638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ojos del Salar",
+                  "text": "Acest punct de belvedere oferă o priveliște asupra Ojos del Salar, două bazine adânci cu apă dulce situate în mijlocul vastelor câmpii de sare.",
+                  "category": "natural",
+                  "coords": [
+                        -68.235183,
+                        -23.137626
+                  ]
+            },
+            {
+                  "name": "Sitio Ramsar Sistema Hidrológico de Soncor del Salar de Atacama",
+                  "text": "Desemnată ca sit Ramsar în 1996, această rezervație naturală protejează un sistem hidrologic critic din deșertul de sare Atacama.",
+                  "category": "natural",
+                  "coords": [
+                        -68.154992,
+                        -23.279359
+                  ]
+            },
+            {
+                  "name": "Santuario de la Naturaleza Laguna Tebenquiche",
+                  "text": "Înființată ca rezervație naturală în 2019, această lagună uimitoare din deșertul Atacama este cunoscută pentru reflexiile sale ca de oglindă.",
+                  "category": "natural",
+                  "coords": [
+                        -68.258041,
+                        -23.136638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ojos del Salar",
+                  "text": "This viewpoint overlooks the Ojos del Salar, two distinct, deep freshwater pools set amidst the vast salt flats.",
+                  "category": "natural",
+                  "coords": [
+                        -68.235183,
+                        -23.137626
+                  ]
+            },
+            {
+                  "name": "Sitio Ramsar Sistema Hidrológico de Soncor del Salar de Atacama",
+                  "text": "Designated as a Ramsar site in 1996, this nature reserve protects a critical hydrological system in the Atacama Salt Flat.",
+                  "category": "natural",
+                  "coords": [
+                        -68.154992,
+                        -23.279359
+                  ]
+            },
+            {
+                  "name": "Tebenquiche Lagoon",
+                  "text": "Established as a nature reserve in 2019, this stunning lagoon in the Atacama Desert is known for its mirrored reflections.",
+                  "category": "natural",
+                  "coords": [
+                        -68.258041,
+                        -23.136638
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-AN",
     coords: [-68.200, -23.200],
@@ -1419,7 +15297,160 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Divisée en sept secteurs distincts dans le désert d'Atacama.", "Abrite le flamant des Andes, le flamant du Chili et le flamant de James."],
     }, image: "/poi-images/cl-reserva-nacional-los-flamencos-life-v2.webp"},
   {
-    id: "cl-monumento-natural-los-pinguinos-life-v2",
+    id: "cl-monumento-natural-los-pinguinos-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seelöwen",
+                  "text": "Ein markanter Küstenabschnitt im Naturdenkmal, wo wilde Seelöwen beim Sonnenbaden an den felsigen Ufern beobachtet werden können.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.578151,
+                        -52.847351
+                  ]
+            },
+            {
+                  "name": "Faro Isla Magdalena",
+                  "text": "Dieser rot-weiße Leuchtturm aus dem Jahr 1902 steht markant auf der Isla Magdalena und leitet Schiffe durch die Magellanstraße inmitten Tausender nistender Pinguine.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.575589,
+                        -52.918996
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Los Pingüinos",
+                  "text": "Dieses geschützte Naturschutzgebiet erstreckt sich über die Inseln Magdalena und Marta und beherbergt eine der größten Magellan-Pinguin-Kolonien Chiles.",
+                  "category": "natural",
+                  "coords": [
+                        -70.580102,
+                        -52.847178
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Los Pingüinos",
+                  "text": "Ein wichtiges Inselschutzgebiet in der Magellanstraße, das zum Schutz einer riesigen Brutpopulation von Seevögeln und Pinguinen eingerichtet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -70.577589,
+                        -52.919171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colonia de lobos del mar",
+                  "text": "Kiemelkedő tengerparti hely a természeti emléken belül, ahol vadon élő oroszlánfókákat lehet megfigyelni, amint a sziklás partokon sütkéreznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.578151,
+                        -52.847351
+                  ]
+            },
+            {
+                  "name": "Faro Isla Magdalena",
+                  "text": "Ez az 1902-ben épült piros-fehér világítótorony a Magdalena-szigeten emelkedik, és hajókat irányít a Magellán-szoroson át több ezer fészkelő pingvin között.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.575589,
+                        -52.918996
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Los Pingüinos",
+                  "text": "A Magdalena és Marta szigeteken elterülő védett természeti rezervátum Chile egyik legnagyobb Magellán-pingvin kolóniájának ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        -70.580102,
+                        -52.847178
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Los Pingüinos",
+                  "text": "Létfontosságú szigeti menedék a Magellán-szorosban, amelyet a tengeri madarak és pingvinek hatalmas költőállományának védelmére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.577589,
+                        -52.919171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colonia de lobos del mar",
+                  "text": "Un loc de coastă proeminent din cadrul monumentului natural unde leii de mare sălbatici pot fi observați bucurându-se de soare pe țărmurile stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.578151,
+                        -52.847351
+                  ]
+            },
+            {
+                  "name": "Faro Isla Magdalena",
+                  "text": "Acest far alb-roșu din 1902 se înalță proeminent pe Insula Magdalena, ghidând navele prin strâmtoarea Magellan în mijlocul a mii de pinguini care cuibăresc.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.575589,
+                        -52.918996
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Los Pingüinos",
+                  "text": "Cuprinzând insulele Magdalena și Marta, această rezervație naturală protejată găzduiește una dintre cele mai mari colonii de pinguini Magellan din Chile.",
+                  "category": "natural",
+                  "coords": [
+                        -70.580102,
+                        -52.847178
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Los Pingüinos",
+                  "text": "Un sanctuar insular esențial în strâmtoarea Magellan, înființat pentru a proteja o populație masivă de reproducere a păsărilor marine și a pinguinilor.",
+                  "category": "natural",
+                  "coords": [
+                        -70.577589,
+                        -52.919171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sea Lions",
+                  "text": "A prominent coastal spot within the natural monument where wild sea lions can be observed basking on the rocky shores.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.578151,
+                        -52.847351
+                  ]
+            },
+            {
+                  "name": "Faro Isla Magdalena",
+                  "text": "This 1902 red-and-white lighthouse stands prominently on Magdalena Island, guiding ships through the Strait of Magellan amidst thousands of nesting penguins.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.575589,
+                        -52.918996
+                  ]
+            },
+            {
+                  "name": "Los Pingüinos Natural Monument",
+                  "text": "Spanning Magdalena and Marta islands, this protected nature reserve is home to one of Chile's largest Magellanic penguin colonies.",
+                  "category": "natural",
+                  "coords": [
+                        -70.580102,
+                        -52.847178
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Los Pingüinos",
+                  "text": "An essential island sanctuary in the Strait of Magellan established to safeguard a massive breeding population of seabirds and penguins.",
+                  "category": "natural",
+                  "coords": [
+                        -70.577589,
+                        -52.919171
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-MA",
     coords: [-70.580, -52.920],
@@ -1478,7 +15509,1312 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Situé dans le rude détroit de Magellan.", "L'île abrite également un ancien phare qui peut être visité."],
     }, image: "/poi-images/cl-monumento-natural-los-pinguinos-life-v2.webp"},
   {
-    id: "cl-kidzania-santiago-life-v2",
+    id: "cl-kidzania-santiago-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Cera Las Condes",
+                  "text": "Dieses in Las Condes eröffnete Wachsfigurenkabinett zeigt bemerkenswert detaillierte lebensgroße Figuren bedeutender historischer und kultureller Persönlichkeiten aus Chile.",
+                  "category": "museum",
+                  "coords": [
+                        -70.541682,
+                        -33.408245
+                  ]
+            },
+            {
+                  "name": "Museo Judío Alemán de Santiago",
+                  "text": "Dieses 2018 gegründete Kulturmuseum widmet sich der Bewahrung und Erforschung der Geschichte und des Erbes deutsch-jüdischer Einwanderer in Chile.",
+                  "category": "museum",
+                  "coords": [
+                        -70.552377,
+                        -33.382669
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio y Parque por la Paz Villa Grimaldi",
+                  "text": "Dieser am 22. März 1997 eröffnete und von Architekten wie Luis Santibáñez Ibarra gestaltete Gedenkpark dokumentiert auf feierliche Weise die Menschenrechtsverletzungen der Pinochet-Diktatur.",
+                  "category": "museum",
+                  "coords": [
+                        -70.542542,
+                        -33.463702
+                  ]
+            },
+            {
+                  "name": "Deutsche Kirche „Zum Guten Hirten“",
+                  "text": "Diese evangelisch-lutherische Kirche bietet ihrer Gemeinde eine einladende spirituelle Gemeinschaft mit traditionellen protestantischen Gottesdiensten.",
+                  "category": "religious",
+                  "coords": [
+                        -70.546909,
+                        -33.420928
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Rosa de Lo Barnechea",
+                  "text": "Diese traditionelle katholische Kirche in der Gemeinde Lo Barnechea ist eine tief verwurzelte Säule des religiösen Lebens der örtlichen Pfarrei.",
+                  "category": "religious",
+                  "coords": [
+                        -70.504857,
+                        -33.361721
+                  ]
+            },
+            {
+                  "name": "Monasterio Benedictino de la Santísima Trinidad de Las Condes",
+                  "text": "Dieses Benediktinerkloster in Las Condes wird wegen seiner strengen modernistischen Architektur und seiner ruhigen, auf klösterliche Kontemplation ausgerichteten Atmosphäre sehr geschätzt.",
+                  "category": "religious",
+                  "coords": [
+                        -70.513481,
+                        -33.384259
+                  ]
+            },
+            {
+                  "name": "Parroquia la Natividad del Señor",
+                  "text": "Diese katholische Pfarrei im Bezirk La Reina dient der Gemeinde mit regelmäßigen Messen und religiösen Bildungsprogrammen.",
+                  "category": "religious",
+                  "coords": [
+                        -70.570896,
+                        -33.449099
+                  ]
+            },
+            {
+                  "name": "Iglesia María Madre de la Misericordia",
+                  "text": "Diese moderne katholische Kirche bietet einen friedlichen, der Maria, Mutter der Barmherzigkeit, gewidmeten architektonischen Rahmen für das tägliche Gebet und die Gemeindemesse.",
+                  "category": "religious",
+                  "coords": [
+                        -70.554536,
+                        -33.336628
+                  ]
+            },
+            {
+                  "name": "Cerro Dieciocho",
+                  "text": "Der Cerro Dieciocho ist ein bekannter Stadthügel in der Region, der steile Wege und weite Aussichtspunkte über die umliegenden Wohngebiete bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.493267,
+                        -33.354585
+                  ]
+            },
+            {
+                  "name": "Cerro Manquehue",
+                  "text": "Als markanter erloschener Vulkan bietet der Cerro Manquehue anspruchsvolle Wanderwege und einen spektakulären Panoramablick über das Santiago-Becken.",
+                  "category": "natural",
+                  "coords": [
+                        -70.582217,
+                        -33.350802
+                  ]
+            },
+            {
+                  "name": "Cerro Calán",
+                  "text": "Der Cerro Calán ist ein bekannter Stadthügel, der vor allem dafür bekannt ist, dass sich auf seinem malerischen Gipfel ein historisches astronomisches Observatorium befindet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.5371,
+                        -33.39859
+                  ]
+            },
+            {
+                  "name": "Cerro del Medio",
+                  "text": "Der Cerro del Medio fungiert als Inselhügel inmitten der städtischen Anlage und bietet den Anwohnern zugängliche Naturwanderwege durch die einheimische Flora.",
+                  "category": "natural",
+                  "coords": [
+                        -70.532124,
+                        -33.346379
+                  ]
+            },
+            {
+                  "name": "Cerro Alvarado",
+                  "text": "Der Cerro Alvarado ist ein schroffer Stadthügel, der lokale Bezirke physisch voneinander trennt und gleichzeitig erhöhte unbefestigte Wege für Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.535791,
+                        -33.370088
+                  ]
+            },
+            {
+                  "name": "Cerro Apoquindo",
+                  "text": "Der am östlichen Rand des Stadtbeckens gelegene Cerro Apoquindo präsentiert eine steile, trockene Topographie, die für Tageswanderungen beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -70.527674,
+                        -33.407552
+                  ]
+            },
+            {
+                  "name": "Rosaleda",
+                  "text": "Dieser 1997 eingeweihte, spezialisierte Rosengarten im Parque Araucano bietet wunderschön angelegte Wege und eine lebhafte Vielfalt an blühenden Sorten.",
+                  "category": "park",
+                  "coords": [
+                        -70.573888,
+                        -33.402682
+                  ]
+            },
+            {
+                  "name": "Morro Las Papas",
+                  "text": "Der Morro Las Papas ist ein beliebter Gipfel in den Ausläufern der Anden, der häufig von Wanderern auf der Suche nach anspruchsvollen Wegen und bergigem Gelände bestiegen wird.",
+                  "category": "natural",
+                  "coords": [
+                        -70.493064,
+                        -33.413834
+                  ]
+            },
+            {
+                  "name": "Cerro Alto de las Vizcachas",
+                  "text": "Der Cerro Alto de las Vizcachas ist ein markanter Gipfel in den Ausläufern der Anden, der sich durch seine raue Buschlandvegetation und den Panoramablick auf die Stadt auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.47802,
+                        -33.423562
+                  ]
+            },
+            {
+                  "name": "Parque RKF Manquehue",
+                  "text": "Dieses 2015 um den Cordón de Manquehue gegründete Naturschutzgebiet schützt die heimische Bergflora und bietet gleichzeitig gepflegte Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        -70.577359,
+                        -33.357479
+                  ]
+            },
+            {
+                  "name": "Parque Mahuida",
+                  "text": "Der Parque Mahuida liegt an den Ausläufern der Anden und ist ein weitläufiges Erholungsgebiet mit schattigen Picknickplätzen, einer Sommerrodelbahn und ausgedehnten Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        -70.517388,
+                        -33.457301
+                  ]
+            },
+            {
+                  "name": "Parque Intercomunal Padre Hurtado",
+                  "text": "Dieser weitläufige Park in cl-kidzania-santiago-life-v2 ist als einer der größten in der Region Santiago bekannt.",
+                  "category": "park",
+                  "coords": [
+                        -70.545873,
+                        -33.431477
+                  ]
+            },
+            {
+                  "name": "Plaza Ossandón",
+                  "text": "Dieser traditionelle Quartiersplatz in cl-kidzania-santiago-life-v2 mit seinem alten Baumbestand ist ein markanter lokaler Treffpunkt.",
+                  "category": "park",
+                  "coords": [
+                        -70.543281,
+                        -33.442287
+                  ]
+            },
+            {
+                  "name": "Plaza Egaña",
+                  "text": "Dieser große öffentliche Platz in cl-kidzania-santiago-life-v2 fungiert als belebter städtischer Knotenpunkt, der wichtige Straßen miteinander verbindet.",
+                  "category": "park",
+                  "coords": [
+                        -70.571297,
+                        -33.452943
+                  ]
+            },
+            {
+                  "name": "Parque Los Dominicos",
+                  "text": "Dieser historische Park in cl-kidzania-santiago-life-v2 zeichnet sich durch seine Nähe zu einem traditionellen Handwerkerdorf und einer alten Kirche aus.",
+                  "category": "park",
+                  "coords": [
+                        -70.543563,
+                        -33.407841
+                  ]
+            },
+            {
+                  "name": "Parque Cultural Las Condes",
+                  "text": "In einer gepflegten Grünanlage beherbergt dieser Kulturpark in cl-kidzania-santiago-life-v2 Kunstausstellungen und öffentliche Veranstaltungen in einem historischen Herrenhaus.",
+                  "category": "park",
+                  "coords": [
+                        -70.561892,
+                        -33.406056
+                  ]
+            },
+            {
+                  "name": "Parque Deportivo de Peñalolén",
+                  "text": "Dieser 2008 eröffnete Sportpark in cl-kidzania-santiago-life-v2 bietet der Gemeinde umfangreiche Leichtathletikanlagen und Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        -70.546515,
+                        -33.465476
+                  ]
+            },
+            {
+                  "name": "Parque Arrieta",
+                  "text": "Dieser bemerkenswerte Stadtpark in cl-kidzania-santiago-life-v2 bietet schattige Wege und Erholungsbereiche, die auf dem Gelände eines historischen Anwesens angelegt wurden.",
+                  "category": "park",
+                  "coords": [
+                        -70.522408,
+                        -33.467906
+                  ]
+            },
+            {
+                  "name": "Parque Natural San Carlos de Apoquindo",
+                  "text": "Dieses Naturschutzgebiet in cl-kidzania-santiago-life-v2 schützt die einheimischen Ökosysteme der Andenausläufer und bietet ein Netz von Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        -70.476062,
+                        -33.405664
+                  ]
+            },
+            {
+                  "name": "Plaza Alberto Larraguibel",
+                  "text": "Dieser Stadtplatz in cl-kidzania-santiago-life-v2 ist dem berühmten chilenischen Reitsport-Rekordhalter gewidmet und verfügt über landschaftlich gestaltete Wege.",
+                  "category": "park",
+                  "coords": [
+                        -70.572034,
+                        -33.384939
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Judío de Chile",
+                  "text": "Dieses interaktive Museum in cl-kidzania-santiago-life-v2 beleuchtet die jüdische Geschichte, Kultur und den Holocaust durch moderne Multimedia-Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.512858,
+                        -33.357063
+                  ]
+            },
+            {
+                  "name": "Cerro El Zorro",
+                  "text": "Dieser natürliche Gipfel erhebt sich über cl-kidzania-santiago-life-v2 und bietet einen Panoramablick auf die umliegenden Täler und die ferne Andenkette.",
+                  "category": "natural",
+                  "coords": [
+                        -70.531813,
+                        -33.326182
+                  ]
+            },
+            {
+                  "name": "Cerro Los Pirques",
+                  "text": "Dieser markante Hügel in cl-kidzania-santiago-life-v2 ist ein erkennbares lokales Wahrzeichen, das sich durch steile Hänge und einheimische Buschvegetation auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.514611,
+                        -33.385818
+                  ]
+            },
+            {
+                  "name": "Galería 18",
+                  "text": "Diese Galerie für zeitgenössische Kunst in cl-kidzania-santiago-life-v2 zeigt wechselnde Ausstellungen visueller Kunst von aufstrebenden lokalen Kulturschaffenden.",
+                  "category": "museum",
+                  "coords": [
+                        -70.499033,
+                        -33.360152
+                  ]
+            },
+            {
+                  "name": "Prima Galeria de Arte",
+                  "text": "Diese Kunstgalerie in cl-kidzania-santiago-life-v2 zeigt kuratierte Sammlungen von Gemälden und Skulpturen etablierter lateinamerikanischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        -70.572378,
+                        -33.382185
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Universidad de los Andes",
+                  "text": "Dieses im Oktober 2010 eröffnete universitäre Kunstmuseum in cl-kidzania-santiago-life-v2 beherbergt eine bedeutende Sammlung russischer Ikonen und religiöser Kunst aus der Kolonialzeit.",
+                  "category": "museum",
+                  "coords": [
+                        -70.507908,
+                        -33.402789
+                  ]
+            },
+            {
+                  "name": "Galería Distrito de Arte",
+                  "text": "Diese Galerie in einem Künstlerviertel in cl-kidzania-santiago-life-v2 konzentriert sich auf die Förderung avantgardistischer künstlerischer Ausdrucksformen und multimedialer Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        -70.575045,
+                        -33.403029
+                  ]
+            },
+            {
+                  "name": "Museo Militar",
+                  "text": "Dieses im März 2009 gegründete Militärmuseum in cl-kidzania-santiago-life-v2 zeigt historische Waffen, Uniformen und Artefakte im Zusammenhang mit den nationalen Streitkräften.",
+                  "category": "museum",
+                  "coords": [
+                        -70.583795,
+                        -33.412232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Cera Las Condes",
+                  "text": "A Las Condesben megnyílt viaszmúzeum Chile jelentős történelmi és kulturális személyiségeinek rendkívül részletgazdag, életnagyságú figuráit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.541682,
+                        -33.408245
+                  ]
+            },
+            {
+                  "name": "Museo Judío Alemán de Santiago",
+                  "text": "A 2018-ban alapított kulturális múzeum a Chilébe vándorolt német-zsidó bevándorlók történelmének és örökségének megőrzésével és bemutatásával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -70.552377,
+                        -33.382669
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio y Parque por la Paz Villa Grimaldi",
+                  "text": "Az 1997. március 22-én megnyílt, többek között Luis Santibáñez Ibarra építész által tervezett emlékpark ünnepélyesen dokumentálja a Pinochet-diktatúra emberi jogi visszaéléseit.",
+                  "category": "museum",
+                  "coords": [
+                        -70.542542,
+                        -33.463702
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana “El Buen Pastor”",
+                  "text": "Ez az evangélikus templom barátságos spirituális közösséget és hagyományos protestáns istentiszteleteket biztosít gyülekezete számára.",
+                  "category": "religious",
+                  "coords": [
+                        -70.546909,
+                        -33.420928
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Rosa de Lo Barnechea",
+                  "text": "A Lo Barnechea községben található hagyományos katolikus templom a helyi plébánia vallási életének mélyen gyökerező oszlopa.",
+                  "category": "religious",
+                  "coords": [
+                        -70.504857,
+                        -33.361721
+                  ]
+            },
+            {
+                  "name": "Monasterio Benedictino de la Santísima Trinidad de Las Condes",
+                  "text": "Ez a Las Condesben található bencés kolostor szigorú modernista építészetéről és a szerzetesi elmélkedést szolgáló nyugodt légköréről híres.",
+                  "category": "religious",
+                  "coords": [
+                        -70.513481,
+                        -33.384259
+                  ]
+            },
+            {
+                  "name": "Parroquia la Natividad del Señor",
+                  "text": "A La Reina kerületben működő katolikus plébánia rendszeres misékkel és vallásoktatási programokkal szolgálja a közösséget.",
+                  "category": "religious",
+                  "coords": [
+                        -70.570896,
+                        -33.449099
+                  ]
+            },
+            {
+                  "name": "Iglesia María Madre de la Misericordia",
+                  "text": "Ez a modern katolikus templom békés építészeti környezetet biztosít az Irgalmasság Anyja, Mária tiszteletére a napi imádságokhoz és a közösségi misékhez.",
+                  "category": "religious",
+                  "coords": [
+                        -70.554536,
+                        -33.336628
+                  ]
+            },
+            {
+                  "name": "Cerro Dieciocho",
+                  "text": "A Cerro Dieciocho egy jól ismert városi domb a régióban, amely meredek ösvényeket és elsöprő kilátópontokat kínál a környező lakónegyedekre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.493267,
+                        -33.354585
+                  ]
+            },
+            {
+                  "name": "Cerro Manquehue",
+                  "text": "A kiemelkedő kialudt vulkánként álló Cerro Manquehue kihívást jelentő túraútvonalakat és látványos panorámát kínál a Santiago-medencére.",
+                  "category": "natural",
+                  "coords": [
+                        -70.582217,
+                        -33.350802
+                  ]
+            },
+            {
+                  "name": "Cerro Calán",
+                  "text": "A Cerro Calán egy nevezetes városi domb, amely leginkább arról híres, hogy festői csúcsán egy történelmi csillagvizsgáló található.",
+                  "category": "natural",
+                  "coords": [
+                        -70.5371,
+                        -33.39859
+                  ]
+            },
+            {
+                  "name": "Cerro del Medio",
+                  "text": "A városi elrendezés közepén szigethegyként emelkedő Cerro del Medio könnyen megközelíthető természetes túraútvonalakat kínál a helyi lakosoknak az őshonos növényvilágon keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -70.532124,
+                        -33.346379
+                  ]
+            },
+            {
+                  "name": "Cerro Alvarado",
+                  "text": "A Cerro Alvarado egy zord városi domb, amely fizikailag elválasztja a helyi kerületeket, miközben magaslati földutakat kínál a szabadtéri kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -70.535791,
+                        -33.370088
+                  ]
+            },
+            {
+                  "name": "Cerro Apoquindo",
+                  "text": "A város medencéjének keleti szélén található Cerro Apoquindo meredek, száraz domborzatot mutat be, amely népszerű az egynapos túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -70.527674,
+                        -33.407552
+                  ]
+            },
+            {
+                  "name": "Rosaleda",
+                  "text": "Az 1997-ben felavatott, a Parque Araucano területén található speciális rózsakert gyönyörűen parkosított ösvényekkel és nyíló fajták élénk változatosságával büszkélkedhet.",
+                  "category": "park",
+                  "coords": [
+                        -70.573888,
+                        -33.402682
+                  ]
+            },
+            {
+                  "name": "Morro Las Papas",
+                  "text": "A Morro Las Papas egy népszerű csúcs az Andok lábánál, amelyet gyakran másznak meg a kihívást jelentő ösvényeket és hegyvidéki terepet kereső túrázók.",
+                  "category": "natural",
+                  "coords": [
+                        -70.493064,
+                        -33.413834
+                  ]
+            },
+            {
+                  "name": "Cerro Alto de las Vizcachas",
+                  "text": "A Cerro Alto de las Vizcachas az Andok egyik kiemelkedő hegyaljai csúcsa, amelyet zord cserjés növényzete és a városra nyíló panoráma jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -70.47802,
+                        -33.423562
+                  ]
+            },
+            {
+                  "name": "Parque RKF Manquehue",
+                  "text": "A Cordón de Manquehue körül 2015-ben létrehozott természetvédelmi terület megóvja az őshonos hegyvidéki növényvilágot, miközben karbantartott túraútvonalakat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -70.577359,
+                        -33.357479
+                  ]
+            },
+            {
+                  "name": "Parque Mahuida",
+                  "text": "Az Andok lábánál fekvő Parque Mahuida egy hatalmas rekreációs terület, amely árnyékos piknikezőhelyeket, alpesi hullámvasutat és kiterjedt túraútvonalakat kínál.",
+                  "category": "park",
+                  "coords": [
+                        -70.517388,
+                        -33.457301
+                  ]
+            },
+            {
+                  "name": "Parque Intercomunal Padre Hurtado",
+                  "text": "Ez a kiterjedt park cl-kidzania-santiago-life-v2 területén Santiago régiójának egyik legnagyobb zöldterületeként ismert.",
+                  "category": "park",
+                  "coords": [
+                        -70.545873,
+                        -33.431477
+                  ]
+            },
+            {
+                  "name": "Plaza Ossandón",
+                  "text": "Ez a hagyományos, fásított tér cl-kidzania-santiago-life-v2 területén jelentős helyi találkozóhelyként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        -70.543281,
+                        -33.442287
+                  ]
+            },
+            {
+                  "name": "Plaza Egaña",
+                  "text": "Ez a nagy közösségi tér cl-kidzania-santiago-life-v2 területén forgalmas városi csomópontként működik, amely fontos sugárutakat köt össze.",
+                  "category": "park",
+                  "coords": [
+                        -70.571297,
+                        -33.452943
+                  ]
+            },
+            {
+                  "name": "Parque Los Dominicos",
+                  "text": "Ez a történelmi park cl-kidzania-santiago-life-v2 területén egy hagyományos kézműves falu és egy műemlék templom közelségéről nevezetes.",
+                  "category": "park",
+                  "coords": [
+                        -70.543563,
+                        -33.407841
+                  ]
+            },
+            {
+                  "name": "Parque Cultural Las Condes",
+                  "text": "A parkosított területen fekvő kulturális park cl-kidzania-santiago-life-v2 területén művészeti kiállításoknak és nyilvános rendezvényeknek ad otthont egy történelmi udvarházban.",
+                  "category": "park",
+                  "coords": [
+                        -70.561892,
+                        -33.406056
+                  ]
+            },
+            {
+                  "name": "Parque Deportivo de Peñalolén",
+                  "text": "A 2008-ban megnyílt sportpark cl-kidzania-santiago-life-v2 területén kiterjedt atlétikai létesítményeket és zöldterületeket kínál a közösség számára.",
+                  "category": "park",
+                  "coords": [
+                        -70.546515,
+                        -33.465476
+                  ]
+            },
+            {
+                  "name": "Parque Arrieta",
+                  "text": "Ez a figyelemre méltó városi park cl-kidzania-santiago-life-v2 területén egy történelmi birtok területén kialakított árnyékos ösvényeket és pihenőövezeteket kínál.",
+                  "category": "park",
+                  "coords": [
+                        -70.522408,
+                        -33.467906
+                  ]
+            },
+            {
+                  "name": "Parque Natural San Carlos de Apoquindo",
+                  "text": "Ez a természetvédelmi terület cl-kidzania-santiago-life-v2 területén az őshonos andoki lábhegyi ökoszisztémákat védi, és kiterjedt túraútvonal-hálózatot kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -70.476062,
+                        -33.405664
+                  ]
+            },
+            {
+                  "name": "Plaza Alberto Larraguibel",
+                  "text": "Ezt a városi teret cl-kidzania-santiago-life-v2 területén a híres chilei lovas csúcstartónak szentelték, és parkosított ösvényekkel rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        -70.572034,
+                        -33.384939
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Judío de Chile",
+                  "text": "Ez az interaktív múzeum cl-kidzania-santiago-life-v2 területén a zsidó történelmet, kultúrát és a holokausztot mutatja be modern multimédiás kiállításokon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        -70.512858,
+                        -33.357063
+                  ]
+            },
+            {
+                  "name": "Cerro El Zorro",
+                  "text": "A cl-kidzania-santiago-life-v2 fölé magasodó természetes hegycsúcs panorámás kilátást nyújt a környező völgyekre és a távoli Andok hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.531813,
+                        -33.326182
+                  ]
+            },
+            {
+                  "name": "Cerro Los Pirques",
+                  "text": "Ez a kiemelkedő domb cl-kidzania-santiago-life-v2 területén egy felismerhető helyi nevezetesség, amely meredek lejtőkkel és őshonos cserjés növényzettel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.514611,
+                        -33.385818
+                  ]
+            },
+            {
+                  "name": "Galería 18",
+                  "text": "Ez a kortárs művészeti galéria cl-kidzania-santiago-life-v2 területén feltörekvő helyi alkotók vizuális művészeti alkotásaiból rendez időszaki kiállításokat.",
+                  "category": "museum",
+                  "coords": [
+                        -70.499033,
+                        -33.360152
+                  ]
+            },
+            {
+                  "name": "Prima Galeria de Arte",
+                  "text": "A cl-kidzania-santiago-life-v2 területén található képzőművészeti galéria elismert latin-amerikai művészek festményeinek és szobrainak gondosan válogatott gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.572378,
+                        -33.382185
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Universidad de los Andes",
+                  "text": "A 2010 októberében megnyílt egyetemi művészeti múzeum cl-kidzania-santiago-life-v2 területén orosz ikonok és gyarmati vallási művészeti alkotások jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -70.507908,
+                        -33.402789
+                  ]
+            },
+            {
+                  "name": "Galería Distrito de Arte",
+                  "text": "A cl-kidzania-santiago-life-v2 egyik művészeti negyedében található galéria az avantgárd művészeti kifejezések és a multimédiás alkotások népszerűsítésére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -70.575045,
+                        -33.403029
+                  ]
+            },
+            {
+                  "name": "Museo Militar",
+                  "text": "A 2009 márciusában alapított hadtörténeti múzeum cl-kidzania-santiago-life-v2 területén történelmi fegyvereket, egyenruhákat és a nemzeti fegyveres erőkhöz kapcsolódó tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.583795,
+                        -33.412232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Cera Las Condes",
+                  "text": "Deschis în Las Condes, acest muzeu de ceară expune figuri în mărime naturală, remarcabil de detaliate, ale unor personalități istorice și culturale semnificative din Chile.",
+                  "category": "museum",
+                  "coords": [
+                        -70.541682,
+                        -33.408245
+                  ]
+            },
+            {
+                  "name": "Museo Judío Alemán de Santiago",
+                  "text": "Înființat în 2018, acest muzeu cultural este dedicat păstrării și explorării istoriei și moștenirii imigranților evrei germani din Chile.",
+                  "category": "museum",
+                  "coords": [
+                        -70.552377,
+                        -33.382669
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio y Parque por la Paz Villa Grimaldi",
+                  "text": "Deschis la 22 martie 1997 și conturat de arhitecți precum Luis Santibáñez Ibarra, acest parc memorial documentează cu solemnitate abuzurile drepturilor omului din timpul dictaturii lui Pinochet.",
+                  "category": "museum",
+                  "coords": [
+                        -70.542542,
+                        -33.463702
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana “El Buen Pastor”",
+                  "text": "Această biserică evanghelică luterană oferă o comunitate spirituală primitoare pentru congregația sa, prin slujbe protestante tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        -70.546909,
+                        -33.420928
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Rosa de Lo Barnechea",
+                  "text": "Situată în comuna Lo Barnechea, această biserică catolică tradițională este un stâlp adânc înrădăcinat al vieții religioase a parohiei locale.",
+                  "category": "religious",
+                  "coords": [
+                        -70.504857,
+                        -33.361721
+                  ]
+            },
+            {
+                  "name": "Monasterio Benedictino de la Santísima Trinidad de Las Condes",
+                  "text": "Acestă mănăstire benedictină din Las Condes este foarte apreciată pentru arhitectura sa modernistă austeră și atmosfera liniștită, concepută pentru contemplație monahală.",
+                  "category": "religious",
+                  "coords": [
+                        -70.513481,
+                        -33.384259
+                  ]
+            },
+            {
+                  "name": "Parroquia la Natividad del Señor",
+                  "text": "Funcționând în cartierul La Reina, această parohie catolică deservește comunitatea cu slujbe regulate și programe de educație religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -70.570896,
+                        -33.449099
+                  ]
+            },
+            {
+                  "name": "Iglesia María Madre de la Misericordia",
+                  "text": "Această biserică catolică modernă oferă un cadru arhitectural pașnic dedicat Mariei, Maica Milei, pentru rugăciunea zilnică și liturghia comunității.",
+                  "category": "religious",
+                  "coords": [
+                        -70.554536,
+                        -33.336628
+                  ]
+            },
+            {
+                  "name": "Cerro Dieciocho",
+                  "text": "Cerro Dieciocho este un deal urban recunoscut în regiune, care oferă căi abrupte și puncte de observație ample asupra zonelor rezidențiale înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -70.493267,
+                        -33.354585
+                  ]
+            },
+            {
+                  "name": "Cerro Manquehue",
+                  "text": "Un vulcan stins proeminent, Cerro Manquehue oferă trasee de drumeție provocatoare și priveliști panoramice spectaculoase asupra bazinului Santiago.",
+                  "category": "natural",
+                  "coords": [
+                        -70.582217,
+                        -33.350802
+                  ]
+            },
+            {
+                  "name": "Cerro Calán",
+                  "text": "Cerro Calán este un deal urban notabil, cel mai faimos pentru găzduirea unui observator astronomic istoric pe vârful său pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -70.5371,
+                        -33.39859
+                  ]
+            },
+            {
+                  "name": "Cerro del Medio",
+                  "text": "Acționând ca un deal insular în mijlocul planului urban, Cerro del Medio oferă rezidenților locali trasee naturale de drumeție accesibile prin flora nativă.",
+                  "category": "natural",
+                  "coords": [
+                        -70.532124,
+                        -33.346379
+                  ]
+            },
+            {
+                  "name": "Cerro Alvarado",
+                  "text": "Cerro Alvarado este un deal urban accidentat care separă fizic cartierele locale, oferind în același timp trasee de pământ ridicate pentru recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -70.535791,
+                        -33.370088
+                  ]
+            },
+            {
+                  "name": "Cerro Apoquindo",
+                  "text": "Situat la marginea estică a bazinului orașului, Cerro Apoquindo prezintă o topografie abruptă și aridă, populară pentru drumețiile de o zi.",
+                  "category": "natural",
+                  "coords": [
+                        -70.527674,
+                        -33.407552
+                  ]
+            },
+            {
+                  "name": "Rosaleda",
+                  "text": "Inaugurată în 1997, această grădină specializată de trandafiri situată în Parque Araucano prezintă alei frumos amenajate și o varietate vibrantă de soiuri înflorite.",
+                  "category": "park",
+                  "coords": [
+                        -70.573888,
+                        -33.402682
+                  ]
+            },
+            {
+                  "name": "Morro Las Papas",
+                  "text": "Morro Las Papas este un vârf popular de la poalele Anzilor, urcat frecvent de drumeții care caută trasee provocatoare și teren muntos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.493064,
+                        -33.413834
+                  ]
+            },
+            {
+                  "name": "Cerro Alto de las Vizcachas",
+                  "text": "Cerro Alto de las Vizcachas este un vârf proeminent la poalele Anzilor, caracterizat prin vegetația sa aspră de tufișuri și priveliștile panoramice asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -70.47802,
+                        -33.423562
+                  ]
+            },
+            {
+                  "name": "Parque RKF Manquehue",
+                  "text": "Înființată în 2015 în jurul Cordón de Manquehue, această rezervație naturală protejează flora montană nativă, oferind în același timp circuite de drumeție întreținute.",
+                  "category": "natural",
+                  "coords": [
+                        -70.577359,
+                        -33.357479
+                  ]
+            },
+            {
+                  "name": "Parque Mahuida",
+                  "text": "Situat la poalele Anzilor, Parque Mahuida este o vastă zonă de recreere care oferă locuri de picnic umbrite, un roller coaster alpin și poteci extinse de drumeție.",
+                  "category": "park",
+                  "coords": [
+                        -70.517388,
+                        -33.457301
+                  ]
+            },
+            {
+                  "name": "Parque Intercomunal Padre Hurtado",
+                  "text": "Acest parc întins din cl-kidzania-santiago-life-v2 este cunoscut drept unul dintre cele mai mari spații verzi din zona Santiago.",
+                  "category": "park",
+                  "coords": [
+                        -70.545873,
+                        -33.431477
+                  ]
+            },
+            {
+                  "name": "Plaza Ossandón",
+                  "text": "Această piață tradițională de cartier din cl-kidzania-santiago-life-v2 este un loc proeminent de adunare locală, remarcabilă prin copacii săi maturi.",
+                  "category": "park",
+                  "coords": [
+                        -70.543281,
+                        -33.442287
+                  ]
+            },
+            {
+                  "name": "Plaza Egaña",
+                  "text": "Această piață publică importantă din cl-kidzania-santiago-life-v2 acționează ca un nod urban aglomerat care conectează bulevarde cheie.",
+                  "category": "park",
+                  "coords": [
+                        -70.571297,
+                        -33.452943
+                  ]
+            },
+            {
+                  "name": "Parque Los Dominicos",
+                  "text": "Acest parc istoric din cl-kidzania-santiago-life-v2 este remarcabil pentru proximitatea sa față de un sat de artizani tradiționali și o biserică de patrimoniu.",
+                  "category": "park",
+                  "coords": [
+                        -70.543563,
+                        -33.407841
+                  ]
+            },
+            {
+                  "name": "Parque Cultural Las Condes",
+                  "text": "Amplasat în grădini amenajate, acest parc cultural din cl-kidzania-santiago-life-v2 găzduiește expoziții de artă și evenimente publice într-un conac istoric.",
+                  "category": "park",
+                  "coords": [
+                        -70.561892,
+                        -33.406056
+                  ]
+            },
+            {
+                  "name": "Parque Deportivo de Peñalolén",
+                  "text": "Deschis în 2008, acest parc sportiv din cl-kidzania-santiago-life-v2 oferă facilități de atletism extinse și spații verzi pentru comunitate.",
+                  "category": "park",
+                  "coords": [
+                        -70.546515,
+                        -33.465476
+                  ]
+            },
+            {
+                  "name": "Parque Arrieta",
+                  "text": "Acest parc municipal notabil din cl-kidzania-santiago-life-v2 oferă alei umbrite și zone de recreere construite pe terenul unei moșii istorice.",
+                  "category": "park",
+                  "coords": [
+                        -70.522408,
+                        -33.467906
+                  ]
+            },
+            {
+                  "name": "Parque Natural San Carlos de Apoquindo",
+                  "text": "Această rezervație naturală din cl-kidzania-santiago-life-v2 protejează ecosistemele native de la poalele Anzilor și oferă o rețea de trasee de drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        -70.476062,
+                        -33.405664
+                  ]
+            },
+            {
+                  "name": "Plaza Alberto Larraguibel",
+                  "text": "Această piață urbană din cl-kidzania-santiago-life-v2 este dedicată renumitului deținător al recordului ecvestru chilian, având alei frumos amenajate.",
+                  "category": "park",
+                  "coords": [
+                        -70.572034,
+                        -33.384939
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Judío de Chile",
+                  "text": "Acest muzeu interactiv din cl-kidzania-santiago-life-v2 explorează istoria, cultura evreiască și Holocaustul prin expoziții multimedia moderne.",
+                  "category": "museum",
+                  "coords": [
+                        -70.512858,
+                        -33.357063
+                  ]
+            },
+            {
+                  "name": "Cerro El Zorro",
+                  "text": "Înălțându-se deasupra cl-kidzania-santiago-life-v2, acest vârf natural oferă vederi panoramice ale văilor din jur și ale lanțului muntos al Anzilor în depărtare.",
+                  "category": "natural",
+                  "coords": [
+                        -70.531813,
+                        -33.326182
+                  ]
+            },
+            {
+                  "name": "Cerro Los Pirques",
+                  "text": "Acest deal proeminent din cl-kidzania-santiago-life-v2 este un reper local recunoscut, care prezintă pante abrupte și vegetație nativă de arbuști.",
+                  "category": "natural",
+                  "coords": [
+                        -70.514611,
+                        -33.385818
+                  ]
+            },
+            {
+                  "name": "Galería 18",
+                  "text": "Această galerie de artă contemporană din cl-kidzania-santiago-life-v2 prezintă expoziții rotative de arte vizuale ale creatorilor locali emergenți.",
+                  "category": "museum",
+                  "coords": [
+                        -70.499033,
+                        -33.360152
+                  ]
+            },
+            {
+                  "name": "Prima Galeria de Arte",
+                  "text": "Situată în cl-kidzania-santiago-life-v2, această galerie de artă plastică prezintă colecții curatoriate de picturi și sculpturi ale artiștilor latino-americani consacrați.",
+                  "category": "museum",
+                  "coords": [
+                        -70.572378,
+                        -33.382185
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Universidad de los Andes",
+                  "text": "Deschis în octombrie 2010, acest muzeu de artă universitar din cl-kidzania-santiago-life-v2 găzduiește o colecție semnificativă de icoane rusești și artă religioasă colonială.",
+                  "category": "museum",
+                  "coords": [
+                        -70.507908,
+                        -33.402789
+                  ]
+            },
+            {
+                  "name": "Galería Distrito de Arte",
+                  "text": "Situată într-un cartier artistic din cl-kidzania-santiago-life-v2, această galerie se concentrează pe promovarea expresiilor artistice de avangardă și a operelor de artă multimedia.",
+                  "category": "museum",
+                  "coords": [
+                        -70.575045,
+                        -33.403029
+                  ]
+            },
+            {
+                  "name": "Museo Militar",
+                  "text": "Înființat în martie 2009, acest muzeu militar din cl-kidzania-santiago-life-v2 expune arme istorice, uniforme și artefacte legate de forțele armate naționale.",
+                  "category": "museum",
+                  "coords": [
+                        -70.583795,
+                        -33.412232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Cera Las Condes",
+                  "text": "Opened in Las Condes, this wax museum exhibits remarkably detailed life-size figures of significant historical and cultural personalities from Chile.",
+                  "category": "museum",
+                  "coords": [
+                        -70.541682,
+                        -33.408245
+                  ]
+            },
+            {
+                  "name": "Museo Judío Alemán de Santiago",
+                  "text": "Established in 2018, this cultural museum is dedicated to preserving and exploring the history and heritage of German-Jewish immigrants in Chile.",
+                  "category": "museum",
+                  "coords": [
+                        -70.552377,
+                        -33.382669
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio y Parque por la Paz Villa Grimaldi",
+                  "text": "Opened on March 22, 1997, and shaped by architects like Luis Santibáñez Ibarra, this memorial park solemnly documents the human rights abuses of the Pinochet dictatorship.",
+                  "category": "museum",
+                  "coords": [
+                        -70.542542,
+                        -33.463702
+                  ]
+            },
+            {
+                  "name": "Iglesia Luterana “El Buen Pastor”",
+                  "text": "This Evangelical Lutheran church provides a welcoming spiritual community for its congregation with traditional Protestant services.",
+                  "category": "religious",
+                  "coords": [
+                        -70.546909,
+                        -33.420928
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Rosa de Lo Barnechea",
+                  "text": "Situated in the Lo Barnechea commune, this traditional Catholic church stands as a deeply rooted pillar of the local parish's religious life.",
+                  "category": "religious",
+                  "coords": [
+                        -70.504857,
+                        -33.361721
+                  ]
+            },
+            {
+                  "name": "Monasterio Benedictino de la Santísima Trinidad de Las Condes",
+                  "text": "This Benedictine monastery in Las Condes is highly regarded for its stark modernist architecture and tranquil atmosphere designed for monastic contemplation.",
+                  "category": "religious",
+                  "coords": [
+                        -70.513481,
+                        -33.384259
+                  ]
+            },
+            {
+                  "name": "Parroquia la Natividad del Señor",
+                  "text": "Operating within the La Reina district, this Catholic parish serves the community with regular masses and religious education programs.",
+                  "category": "religious",
+                  "coords": [
+                        -70.570896,
+                        -33.449099
+                  ]
+            },
+            {
+                  "name": "Iglesia María Madre de la Misericordia",
+                  "text": "This modern Catholic church provides a peaceful architectural setting dedicated to Mary, Mother of Mercy, for daily prayer and community mass.",
+                  "category": "religious",
+                  "coords": [
+                        -70.554536,
+                        -33.336628
+                  ]
+            },
+            {
+                  "name": "Cerro Dieciocho",
+                  "text": "Cerro Dieciocho is a recognizable urban hill in the region that provides steep pathways and sweeping vantage points over the surrounding residential areas.",
+                  "category": "natural",
+                  "coords": [
+                        -70.493267,
+                        -33.354585
+                  ]
+            },
+            {
+                  "name": "Cerro Manquehue",
+                  "text": "Standing as a prominent extinct volcano, Cerro Manquehue offers challenging hiking trails and spectacular panoramic views across the Santiago basin.",
+                  "category": "natural",
+                  "coords": [
+                        -70.582217,
+                        -33.350802
+                  ]
+            },
+            {
+                  "name": "Cerro Calán",
+                  "text": "Cerro Calán is a notable urban hill most famous for housing a historical astronomical observatory at its scenic summit.",
+                  "category": "natural",
+                  "coords": [
+                        -70.5371,
+                        -33.39859
+                  ]
+            },
+            {
+                  "name": "Cerro del Medio",
+                  "text": "Acting as an island hill amidst the urban layout, Cerro del Medio provides local residents with accessible natural hiking trails through native flora.",
+                  "category": "natural",
+                  "coords": [
+                        -70.532124,
+                        -33.346379
+                  ]
+            },
+            {
+                  "name": "Cerro Alvarado",
+                  "text": "Cerro Alvarado is a rugged urban hill that physically separates local districts while offering elevated dirt trails for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        -70.535791,
+                        -33.370088
+                  ]
+            },
+            {
+                  "name": "Cerro Apoquindo",
+                  "text": "Situated on the eastern edge of the city's basin, Cerro Apoquindo presents a steep, arid topography popular for day hikes.",
+                  "category": "natural",
+                  "coords": [
+                        -70.527674,
+                        -33.407552
+                  ]
+            },
+            {
+                  "name": "Rosaleda",
+                  "text": "Inaugurated in 1997, this specialized rose garden located within Parque Araucano features beautifully landscaped pathways and a vibrant variety of blooming cultivars.",
+                  "category": "park",
+                  "coords": [
+                        -70.573888,
+                        -33.402682
+                  ]
+            },
+            {
+                  "name": "Morro Las Papas",
+                  "text": "Morro Las Papas is a popular summit in the Andean foothills, frequently climbed by hikers looking for challenging trails and mountainous terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -70.493064,
+                        -33.413834
+                  ]
+            },
+            {
+                  "name": "Cerro Alto de las Vizcachas",
+                  "text": "Cerro Alto de las Vizcachas is a prominent Andean foothill peak characterized by its rugged scrubland vegetation and panoramic city overlooks.",
+                  "category": "natural",
+                  "coords": [
+                        -70.47802,
+                        -33.423562
+                  ]
+            },
+            {
+                  "name": "Parque RKF Manquehue",
+                  "text": "Established in 2015 around the Cordón de Manquehue, this nature reserve protects native mountainous flora while offering maintained hiking circuits.",
+                  "category": "natural",
+                  "coords": [
+                        -70.577359,
+                        -33.357479
+                  ]
+            },
+            {
+                  "name": "Parque Mahuida",
+                  "text": "Set against the Andean foothills, Parque Mahuida is a vast recreational area offering shaded picnic spots, an alpine coaster, and extensive hiking paths.",
+                  "category": "park",
+                  "coords": [
+                        -70.517388,
+                        -33.457301
+                  ]
+            },
+            {
+                  "name": "Parque Intercomunal Padre Hurtado",
+                  "text": "This sprawling park in cl-kidzania-santiago-life-v2 is known as one of the largest green spaces in the Santiago region.",
+                  "category": "park",
+                  "coords": [
+                        -70.545873,
+                        -33.431477
+                  ]
+            },
+            {
+                  "name": "Plaza Ossandón",
+                  "text": "This traditional neighborhood square in cl-kidzania-santiago-life-v2 serves as a prominent local gathering space characterized by its mature trees.",
+                  "category": "park",
+                  "coords": [
+                        -70.543281,
+                        -33.442287
+                  ]
+            },
+            {
+                  "name": "Plaza Egaña",
+                  "text": "This major public square in cl-kidzania-santiago-life-v2 acts as a bustling urban node connecting key local avenues.",
+                  "category": "park",
+                  "coords": [
+                        -70.571297,
+                        -33.452943
+                  ]
+            },
+            {
+                  "name": "Parque Los Dominicos",
+                  "text": "This historic park in cl-kidzania-santiago-life-v2 is notable for its proximity to a traditional artisan village and heritage church.",
+                  "category": "park",
+                  "coords": [
+                        -70.543563,
+                        -33.407841
+                  ]
+            },
+            {
+                  "name": "Parque Cultural Las Condes",
+                  "text": "Set within landscaped grounds, this cultural park in cl-kidzania-santiago-life-v2 hosts art exhibitions and public events around a historic manor.",
+                  "category": "park",
+                  "coords": [
+                        -70.561892,
+                        -33.406056
+                  ]
+            },
+            {
+                  "name": "Parque Deportivo de Peñalolén",
+                  "text": "Opened in 2008, this sports park in cl-kidzania-santiago-life-v2 provides extensive athletic facilities and green spaces for the local community.",
+                  "category": "park",
+                  "coords": [
+                        -70.546515,
+                        -33.465476
+                  ]
+            },
+            {
+                  "name": "Parque Arrieta",
+                  "text": "This notable municipal park in cl-kidzania-santiago-life-v2 offers shaded paths and recreational areas built around the grounds of a historic estate.",
+                  "category": "park",
+                  "coords": [
+                        -70.522408,
+                        -33.467906
+                  ]
+            },
+            {
+                  "name": "Parque Natural San Carlos de Apoquindo",
+                  "text": "This nature reserve in cl-kidzania-santiago-life-v2 protects native Andean foothill ecosystems and offers a network of mountain hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        -70.476062,
+                        -33.405664
+                  ]
+            },
+            {
+                  "name": "Plaza Alberto Larraguibel",
+                  "text": "This urban square in cl-kidzania-santiago-life-v2 is dedicated to the renowned Chilean equestrian record holder and features landscaped walkways.",
+                  "category": "park",
+                  "coords": [
+                        -70.572034,
+                        -33.384939
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Judío de Chile",
+                  "text": "This interactive museum in cl-kidzania-santiago-life-v2 explores Jewish history, culture, and the Holocaust through modern multimedia exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -70.512858,
+                        -33.357063
+                  ]
+            },
+            {
+                  "name": "Cerro El Zorro",
+                  "text": "Rising above cl-kidzania-santiago-life-v2, this natural peak offers panoramic views of the surrounding valleys and the distant Andes mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -70.531813,
+                        -33.326182
+                  ]
+            },
+            {
+                  "name": "Cerro Los Pirques",
+                  "text": "This prominent hill in cl-kidzania-santiago-life-v2 is a recognizable local landmark that features steep slopes and native scrub vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -70.514611,
+                        -33.385818
+                  ]
+            },
+            {
+                  "name": "Galería 18",
+                  "text": "This contemporary art gallery in cl-kidzania-santiago-life-v2 showcases rotating exhibitions of visual arts from emerging local creators.",
+                  "category": "museum",
+                  "coords": [
+                        -70.499033,
+                        -33.360152
+                  ]
+            },
+            {
+                  "name": "Prima Galeria de Arte",
+                  "text": "Located in cl-kidzania-santiago-life-v2, this fine art gallery features curated collections of paintings and sculptures by established Latin American artists.",
+                  "category": "museum",
+                  "coords": [
+                        -70.572378,
+                        -33.382185
+                  ]
+            },
+            {
+                  "name": "Museo de Artes Universidad de los Andes",
+                  "text": "Opened in October 2010, this university art museum in cl-kidzania-santiago-life-v2 houses a significant collection of Russian icons and colonial religious art.",
+                  "category": "museum",
+                  "coords": [
+                        -70.507908,
+                        -33.402789
+                  ]
+            },
+            {
+                  "name": "Galería Distrito de Arte",
+                  "text": "Set within an artistic district in cl-kidzania-santiago-life-v2, this gallery focuses on promoting avant-garde artistic expressions and multimedia artworks.",
+                  "category": "museum",
+                  "coords": [
+                        -70.575045,
+                        -33.403029
+                  ]
+            },
+            {
+                  "name": "Museo Militar",
+                  "text": "Established in March 2009, this military museum in cl-kidzania-santiago-life-v2 displays historical weaponry, uniforms, and artifacts related to the national armed forces.",
+                  "category": "museum",
+                  "coords": [
+                        -70.583795,
+                        -33.412232
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CL-RM",
     coords: [-70.570, -33.400],
@@ -1537,7 +16873,1240 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Les enfants peuvent choisir parmi plus de 100 jeux de rôle différents.", "Le parc possède sa propre monnaie appelée 'KidZos'."],
     }, image: "/poi-images/cl-kidzania-santiago-life-v2.webp"},
   {
-    id: "cl-museo-interactivo-mirador-life-v2",
+    id: "cl-museo-interactivo-mirador-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Museo Alberto Bachelet Martínez (Ex-Nido 20)",
+                  "text": "Dieses 1964 vom Architekten German Rosales entworfene Museum bewahrt die Geschichte des ehemaligen Standorts Nido 20 in der Nähe des Museo Interactivo Mirador.",
+                  "category": "museum",
+                  "coords": [
+                        -70.661279,
+                        -33.523871
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Mirador",
+                  "text": "Dieses im Jahr 2000 eröffnete interaktive Wissenschaftsmuseum bietet Besuchern praktische Ausstellungsstücke zum Anfassen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613424,
+                        -33.518879
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de Macul",
+                  "text": "Dieses Rathaus der Gemeinde Macul ist im historischen Palacio Vásquez unweit des Museo Interactivo Mirador untergebracht.",
+                  "category": "historical",
+                  "coords": [
+                        -70.59972,
+                        -33.48184
+                  ]
+            },
+            {
+                  "name": "Teatro Camino",
+                  "text": "Das Teatro Camino ist ein Theater für darstellende Künste, das kulturelle Shows in der Gegend des Museo Interactivo Mirador bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.535154,
+                        -33.484152
+                  ]
+            },
+            {
+                  "name": "Postulantado Orden de San Agustín (Agustinos)",
+                  "text": "Dieses Ordenshaus der Augustiner dient der Provinz Unserer Lieben Frau der Gnade von Chile in der Nähe des Museo Interactivo Mirador.",
+                  "category": "religious",
+                  "coords": [
+                        -70.580721,
+                        -33.537215
+                  ]
+            },
+            {
+                  "name": "Campaña de la Virgen Peregrina de Schoenstatt",
+                  "text": "Diese Gebetsstätte steht in Verbindung mit der weltweiten Pilgernden Gottesmutter von Schönstatt und befindet sich nahe dem Museo Interactivo Mirador.",
+                  "category": "religious",
+                  "coords": [
+                        -70.592153,
+                        -33.523344
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Espacio Matta",
+                  "text": "Dieses moderne Kunstzentrum wurde 2010 nach einem Entwurf von Juan Pablo Araya und Leonel Sandoval erbaut und fungiert als kultureller Knotenpunkt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.632729,
+                        -33.543736
+                  ]
+            },
+            {
+                  "name": "Cerro Jardín Alto",
+                  "text": "Dieser markante lokale Gipfel bietet eine natürliche Erhebung innerhalb der städtischen Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -70.560013,
+                        -33.533113
+                  ]
+            },
+            {
+                  "name": "Parque Violeta Parra",
+                  "text": "Dieser im Juni 2003 eröffnete Stadtpark bietet der örtlichen Gemeinde schattige Grünflächen und Freizeiteinrichtungen.",
+                  "category": "park",
+                  "coords": [
+                        -70.677658,
+                        -33.52182
+                  ]
+            },
+            {
+                  "name": "Saturno V",
+                  "text": "Dieser unverwechselbar benannte Stadtpark bietet einen anerkannten Außenbereich zur Erholung im Stadtgefüge.",
+                  "category": "park",
+                  "coords": [
+                        -70.598341,
+                        -33.521911
+                  ]
+            },
+            {
+                  "name": "Parque Viña Cousiño Macul",
+                  "text": "Diese weitläufige Parklandschaft, einst Teil eines historischen Weinguts, bietet heute begrünte Alleen und öffentliche Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        -70.566129,
+                        -33.4951
+                  ]
+            },
+            {
+                  "name": "Parque La Bandera",
+                  "text": "Dieser 1993 eingeweihte, weitläufige Park dient als wichtigster Erholungs- und Gemeinschaftsort in seinem Viertel.",
+                  "category": "park",
+                  "coords": [
+                        -70.641588,
+                        -33.542245
+                  ]
+            },
+            {
+                  "name": "Plaza Salvador Allende",
+                  "text": "Dieser städtische Platz verfügt über landschaftlich gestaltete Bereiche, die dem Andenken des ehemaligen chilenischen Präsidenten gewidmet sind.",
+                  "category": "park",
+                  "coords": [
+                        -70.581886,
+                        -33.517931
+                  ]
+            },
+            {
+                  "name": "Museo Macul Vimasur",
+                  "text": "Dieses am 4. September 2022 eröffnete Heimatmuseum bewahrt und stellt das regionale Kulturerbe aus.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613656,
+                        -33.49215
+                  ]
+            },
+            {
+                  "name": "Museo CSD Colo Colo",
+                  "text": "Dieses Museum ist dem berühmten chilenischen Fußballverein gewidmet und zeigt Sportmemorabilien und historische Trophäen.",
+                  "category": "museum",
+                  "coords": [
+                        -70.607054,
+                        -33.506416
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico Luis Peña Guzmán",
+                  "text": "Dieses spezialisierte entomologische Museum beherbergt umfangreiche Sammlungen lokaler und regionaler Insektenexemplare.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633332,
+                        -33.569982
+                  ]
+            },
+            {
+                  "name": "Complejo Andrónico Luksic Abaroa",
+                  "text": "Dieser moderne Museumskomplex zeigt die Industrie- und Wirtschaftsgeschichte der namensgebenden Familie.",
+                  "category": "museum",
+                  "coords": [
+                        -70.614243,
+                        -33.499907
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Rosa",
+                  "text": "Diese natürliche Hügelformation bietet einen weiten Panoramablick über die umliegende Zersiedelung.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530297,
+                        -33.545
+                  ]
+            },
+            {
+                  "name": "Cerro Chequén",
+                  "text": "Dieser markante Gipfel erhebt sich über die umliegenden Viertel und ist ein anerkanntes geografisches Wahrzeichen.",
+                  "category": "natural",
+                  "coords": [
+                        -70.546748,
+                        -33.552524
+                  ]
+            },
+            {
+                  "name": "Museo Digital",
+                  "text": "Dieser auf moderne Technologie ausgerichtete Ausstellungsraum präsentiert digitale Kunst und interaktive Medien.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613668,
+                        -33.516009
+                  ]
+            },
+            {
+                  "name": "Museo del Vino",
+                  "text": "Dieses dem Weinbau gewidmete Museum beleuchtet die reiche Geschichte und die Techniken der chilenischen Weinherstellung.",
+                  "category": "museum",
+                  "coords": [
+                        -70.563346,
+                        -33.497629
+                  ]
+            },
+            {
+                  "name": "Ciudad del Niño",
+                  "text": "Die Überreste einer ehemaligen Kindereinrichtung stehen als eindringliches historisches Wahrzeichen in der städtischen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -70.650909,
+                        -33.513628
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Víctor Jara",
+                  "text": "Dieses kommunale Kunstzentrum veranstaltet Aufführungen und Workshops und ehrt das Vermächtnis des berühmten chilenischen Singer-Songwriters.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.663996,
+                        -33.534632
+                  ]
+            },
+            {
+                  "name": "Centro Interactivo de los Conocimientos",
+                  "text": "Dieses interaktive Zentrum verfügt über Räume, die für lehrreiche Vorführungen und die Verbreitung wissenschaftlicher Erkenntnisse konzipiert sind.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.615342,
+                        -33.520437
+                  ]
+            },
+            {
+                  "name": "CEAC",
+                  "text": "Als wichtiger Veranstaltungsort für darstellende Künste ist dieses Theater Gastgeber für klassische Musik und kulturelle Präsentationen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.615854,
+                        -33.507376
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Chinkowe",
+                  "text": "Dieses lokale Kulturzentrum bietet eine Vielzahl von künstlerischen Programmen und Gemeinschaftsveranstaltungen in der Nachbarschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.540757,
+                        -33.47663
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Anselmo Cádiz",
+                  "text": "Dieses Kunstzentrum bietet einen kreativen Raum für die Gemeinschaft und organisiert lokale Ausstellungen und kulturelle Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.68716,
+                        -33.570368
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Salvador Allende",
+                  "text": "Dieses vom Architekten Huberto Salgado Solovera entworfene Freilicht-Amphitheater dient als bürgerlicher Versammlungsort.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.670208,
+                        -33.520406
+                  ]
+            },
+            {
+                  "name": "Espacio Checoeslovaquia",
+                  "text": "Dieser unverwechselbar benannte kulturelle Veranstaltungsort bietet Raum für unabhängigen künstlerischen Ausdruck und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62384,
+                        -33.483025
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de La Florida",
+                  "text": "Dieses städtische Kunstzentrum dient seinem örtlichen Bezirk und ist ein Knotenpunkt für Gemeindekurse und kulturelle Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.588919,
+                        -33.515935
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Parque La Bandera",
+                  "text": "Dieses Amphitheater im Freien befindet sich in einem weitläufigen Park und ist Schauplatz für Gemeindekonzerte und öffentliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.637329,
+                        -33.542828
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de San Ramón",
+                  "text": "Dieser lokale Veranstaltungsort für Kunst fördert die kulturelle Entwicklung durch Ausstellungen, Workshops und bürgerliche Zusammenkünfte.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.633588,
+                        -33.548581
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Antumapu",
+                  "text": "Dieser Open-Air-Veranstaltungsraum wird für lokale Festivals und kulturelle Präsentationen genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.631629,
+                        -33.570033
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen, Parroquia de San Columbano",
+                  "text": "Diese örtliche katholische Kapelle dient ihrer Gemeinde mit regelmäßigen Gottesdiensten in einem bescheidenen architektonischen Rahmen.",
+                  "category": "religious",
+                  "coords": [
+                        -70.664321,
+                        -33.564255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Museo Alberto Bachelet Martínez (Ex-Nido 20)",
+                  "text": "Az 1964-ben German Rosales építész által tervezett múzeum az egykori Nido 20 helyszínének történetét őrzi a Museo Interactivo Mirador közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -70.661279,
+                        -33.523871
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Mirador",
+                  "text": "A 2000-ben megnyílt interaktív tudományos múzeum kézzelfogható, kipróbálható kiállítási tárgyakkal várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613424,
+                        -33.518879
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de Macul",
+                  "text": "A Macul önkormányzatának otthont adó városháza a történelmi Palacio Vásquez épületében működik a Museo Interactivo Mirador közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -70.59972,
+                        -33.48184
+                  ]
+            },
+            {
+                  "name": "Teatro Camino",
+                  "text": "A Teatro Camino egy előadóművészeti színház, amely kulturális műsorokat kínál a Museo Interactivo Mirador környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.535154,
+                        -33.484152
+                  ]
+            },
+            {
+                  "name": "Postulantado Orden de San Agustín (Agustinos)",
+                  "text": "Az Ágoston-rend ezen vallási háza Chile Kegyelmi Szűzanya Tartományát szolgálja a Museo Interactivo Mirador közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -70.580721,
+                        -33.537215
+                  ]
+            },
+            {
+                  "name": "Campaña de la Virgen Peregrina de Schoenstatt",
+                  "text": "Ez a vallási hely a Schönstatti Zarándok Szűzanya világméretű mozgalmához kapcsolódik a Museo Interactivo Mirador közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -70.592153,
+                        -33.523344
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Espacio Matta",
+                  "text": "A Juan Pablo Araya és Leonel Sandoval tervei alapján 2010-ben épült modern művészeti központ kulturális csomópontként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.632729,
+                        -33.543736
+                  ]
+            },
+            {
+                  "name": "Cerro Jardín Alto",
+                  "text": "Ez a kiemelkedő helyi csúcs természetes magaslatot kínál a városi tájon belül.",
+                  "category": "natural",
+                  "coords": [
+                        -70.560013,
+                        -33.533113
+                  ]
+            },
+            {
+                  "name": "Parque Violeta Parra",
+                  "text": "A 2003 júniusában megnyílt városi park árnyékos zöldterületet és szabadidős létesítményeket kínál a helyi közösség számára.",
+                  "category": "park",
+                  "coords": [
+                        -70.677658,
+                        -33.52182
+                  ]
+            },
+            {
+                  "name": "Saturno V",
+                  "text": "Ez a jellegzetes nevű városi park elismert szabadtéri teret biztosít a kikapcsolódáshoz a városszöveten belül.",
+                  "category": "park",
+                  "coords": [
+                        -70.598341,
+                        -33.521911
+                  ]
+            },
+            {
+                  "name": "Parque Viña Cousiño Macul",
+                  "text": "Az egykor egy történelmi borbirtok részét képező kiterjedt park ma lombos fákkal szegélyezett utakat és nyilvános zöldterületeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        -70.566129,
+                        -33.4951
+                  ]
+            },
+            {
+                  "name": "Parque La Bandera",
+                  "text": "Az 1993-ban felavatott tágas park fontos rekreációs és közösségi helyszínként szolgál a kerületében.",
+                  "category": "park",
+                  "coords": [
+                        -70.641588,
+                        -33.542245
+                  ]
+            },
+            {
+                  "name": "Plaza Salvador Allende",
+                  "text": "Ezen a polgári téren a volt chilei elnök emlékének szentelt parkosított területek találhatók.",
+                  "category": "park",
+                  "coords": [
+                        -70.581886,
+                        -33.517931
+                  ]
+            },
+            {
+                  "name": "Museo Macul Vimasur",
+                  "text": "A 2022. szeptember 4-én megnyílt helyi múzeum a regionális kulturális örökséget őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613656,
+                        -33.49215
+                  ]
+            },
+            {
+                  "name": "Museo CSD Colo Colo",
+                  "text": "A híres chilei futballklubnak szentelt múzeum sportereklyéket és történelmi trófeákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.607054,
+                        -33.506416
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico Luis Peña Guzmán",
+                  "text": "Ez a speciális rovartani múzeum helyi és regionális rovarpéldányok kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633332,
+                        -33.569982
+                  ]
+            },
+            {
+                  "name": "Complejo Andrónico Luksic Abaroa",
+                  "text": "Ez a modern múzeumkomplexum a névadó családhoz kapcsolódó ipari és gazdaságtörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.614243,
+                        -33.499907
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Rosa",
+                  "text": "Ez a természetes dombtető elsöprő panorámát nyújt a környező városi terjeszkedésre.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530297,
+                        -33.545
+                  ]
+            },
+            {
+                  "name": "Cerro Chequén",
+                  "text": "A környező környékek fölé magasodó kiemelkedő csúcs elismert földrajzi tájékozódási pont.",
+                  "category": "natural",
+                  "coords": [
+                        -70.546748,
+                        -33.552524
+                  ]
+            },
+            {
+                  "name": "Museo Digital",
+                  "text": "A modern technológiára fókuszáló kiállítótér a digitális művészeteket és az interaktív médiát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613668,
+                        -33.516009
+                  ]
+            },
+            {
+                  "name": "Museo del Vino",
+                  "text": "A szőlőtermesztésnek szentelt múzeum a chilei borkészítés gazdag történetét és technikáit tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        -70.563346,
+                        -33.497629
+                  ]
+            },
+            {
+                  "name": "Ciudad del Niño",
+                  "text": "Egy egykori gyermekintézmény maradványai kísérteties történelmi nevezetességként állnak a városi tájban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.650909,
+                        -33.513628
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Víctor Jara",
+                  "text": "Ez a közösségi művészeti központ előadásoknak és workshopoknak ad otthont, tisztelegve a híres chilei énekes-dalszerző öröksége előtt.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.663996,
+                        -33.534632
+                  ]
+            },
+            {
+                  "name": "Centro Interactivo de los Conocimientos",
+                  "text": "Ez az interaktív központ oktatási előadásokhoz és tudományos ismeretterjesztéshez tervezett terekkel rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.615342,
+                        -33.520437
+                  ]
+            },
+            {
+                  "name": "CEAC",
+                  "text": "Fontos előadóművészeti helyszínként ez a színház klasszikus zenei és kulturális bemutatóknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.615854,
+                        -33.507376
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Chinkowe",
+                  "text": "Ez a helyi kulturális központ különféle művészeti programokat és közösségi eseményeket kínál a környéken.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.540757,
+                        -33.47663
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Anselmo Cádiz",
+                  "text": "A közösség számára kreatív teret biztosító művészeti központ helyi kiállításokat és kulturális workshopokat szervez.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.68716,
+                        -33.570368
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Salvador Allende",
+                  "text": "A Huberto Salgado Solovera építész által tervezett szabadtéri amfiteátrum polgári találkozóhelyként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.670208,
+                        -33.520406
+                  ]
+            },
+            {
+                  "name": "Espacio Checoeslovaquia",
+                  "text": "Ez a jellegzetes nevű kulturális helyszín teret biztosít a független művészi kifejezésnek és az előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62384,
+                        -33.483025
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de La Florida",
+                  "text": "A helyi kerületet kiszolgáló városi művészeti központ a közösségi órák és a kulturális kiállítások csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.588919,
+                        -33.515935
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Parque La Bandera",
+                  "text": "A tágas parkban található szabadtéri amfiteátrum közösségi koncerteknek és nyilvános eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.637329,
+                        -33.542828
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de San Ramón",
+                  "text": "Ez a helyi művészeti helyszín kiállításokkal, workshopokkal és polgári összejövetelekkel segíti elő a kulturális fejlődést.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.633588,
+                        -33.548581
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Antumapu",
+                  "text": "Ezt a szabadtéri előadóteret helyi fesztiválokhoz és kulturális bemutatókhoz használják.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.631629,
+                        -33.570033
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen, Parroquia de San Columbano",
+                  "text": "Ez a helyi katolikus kápolna rendszeres istentiszteletekkel szolgálja egyházközségét szerény építészeti környezetben.",
+                  "category": "religious",
+                  "coords": [
+                        -70.664321,
+                        -33.564255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Museo Alberto Bachelet Martínez (Ex-Nido 20)",
+                  "text": "Proiectat de arhitectul German Rosales în 1964, acest muzeu păstrează istoria fostului sit Nido 20 de lângă Museo Interactivo Mirador.",
+                  "category": "museum",
+                  "coords": [
+                        -70.661279,
+                        -33.523871
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Mirador",
+                  "text": "Deschis în anul 2000, acest muzeu științific interactiv oferă vizitatorilor exponate practice.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613424,
+                        -33.518879
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de Macul",
+                  "text": "Găzduită în istoricul Palacio Vásquez, această clădire servește drept primărie pentru municipalitatea Macul de lângă Museo Interactivo Mirador.",
+                  "category": "historical",
+                  "coords": [
+                        -70.59972,
+                        -33.48184
+                  ]
+            },
+            {
+                  "name": "Teatro Camino",
+                  "text": "Teatro Camino este un teatru de artele spectacolului care oferă spectacole culturale în zona Museo Interactivo Mirador.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.535154,
+                        -33.484152
+                  ]
+            },
+            {
+                  "name": "Postulantado Orden de San Agustín (Agustinos)",
+                  "text": "Această casă religioasă a Ordinului Augustinian deservește Provincia Maicii Domnului a Harului din Chile de lângă Museo Interactivo Mirador.",
+                  "category": "religious",
+                  "coords": [
+                        -70.580721,
+                        -33.537215
+                  ]
+            },
+            {
+                  "name": "Campaña de la Virgen Peregrina de Schoenstatt",
+                  "text": "Acest lăcaș de cult este asociat cu campania mondială a Maicii Domnului Pelerine de la Schoenstatt de lângă Museo Interactivo Mirador.",
+                  "category": "religious",
+                  "coords": [
+                        -70.592153,
+                        -33.523344
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Espacio Matta",
+                  "text": "Construit în 2010 după un proiect de Juan Pablo Araya și Leonel Sandoval, acest centru de artă modern acționează ca un hub cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.632729,
+                        -33.543736
+                  ]
+            },
+            {
+                  "name": "Cerro Jardín Alto",
+                  "text": "Acest vârf local proeminent oferă o altitudine naturală în cadrul peisajului urban.",
+                  "category": "natural",
+                  "coords": [
+                        -70.560013,
+                        -33.533113
+                  ]
+            },
+            {
+                  "name": "Parque Violeta Parra",
+                  "text": "Deschis în iunie 2003, acest parc municipal oferă spațiu verde umbrit și facilități de recreere pentru comunitatea locală.",
+                  "category": "park",
+                  "coords": [
+                        -70.677658,
+                        -33.52182
+                  ]
+            },
+            {
+                  "name": "Saturno V",
+                  "text": "Acest parc urban cu un nume distinct oferă un spațiu recunoscut în aer liber pentru recreere în țesutul orașului.",
+                  "category": "park",
+                  "coords": [
+                        -70.598341,
+                        -33.521911
+                  ]
+            },
+            {
+                  "name": "Parque Viña Cousiño Macul",
+                  "text": "Odată parte a unei proprietăți viticole istorice, acest parc întins oferă acum alei înfrunzite și spații verzi publice.",
+                  "category": "park",
+                  "coords": [
+                        -70.566129,
+                        -33.4951
+                  ]
+            },
+            {
+                  "name": "Parque La Bandera",
+                  "text": "Inaugurat în 1993, acest parc spațios servește drept loc principal de recreere și comunitar în cartierul său.",
+                  "category": "park",
+                  "coords": [
+                        -70.641588,
+                        -33.542245
+                  ]
+            },
+            {
+                  "name": "Plaza Salvador Allende",
+                  "text": "Această piață civică are zone amenajate peisagistic dedicate memoriei fostului președinte chilian.",
+                  "category": "park",
+                  "coords": [
+                        -70.581886,
+                        -33.517931
+                  ]
+            },
+            {
+                  "name": "Museo Macul Vimasur",
+                  "text": "Deschis pe 4 septembrie 2022, acest muzeu local păstrează și expune patrimoniul cultural regional.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613656,
+                        -33.49215
+                  ]
+            },
+            {
+                  "name": "Museo CSD Colo Colo",
+                  "text": "Dedicat faimosului club de fotbal chilian, acest muzeu expune amintiri sportive și trofee istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -70.607054,
+                        -33.506416
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico Luis Peña Guzmán",
+                  "text": "Acest muzeu entomologic specializat adăpostește colecții extinse de specimene de insecte locale și regionale.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633332,
+                        -33.569982
+                  ]
+            },
+            {
+                  "name": "Complejo Andrónico Luksic Abaroa",
+                  "text": "Acest complex muzeal modern prezintă istoria industrială și economică asociată cu familia care îi dă numele.",
+                  "category": "museum",
+                  "coords": [
+                        -70.614243,
+                        -33.499907
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Rosa",
+                  "text": "Această formațiune naturală de pe un vârf de deal oferă o vedere panoramică vastă asupra expansiunii urbane din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530297,
+                        -33.545
+                  ]
+            },
+            {
+                  "name": "Cerro Chequén",
+                  "text": "Ridicându-se deasupra cartierelor din jur, acest vârf proeminent este un punct de reper geografic recunoscut.",
+                  "category": "natural",
+                  "coords": [
+                        -70.546748,
+                        -33.552524
+                  ]
+            },
+            {
+                  "name": "Museo Digital",
+                  "text": "Axat pe tehnologia modernă, acest spațiu expozițional prezintă arte digitale și medii interactive.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613668,
+                        -33.516009
+                  ]
+            },
+            {
+                  "name": "Museo del Vino",
+                  "text": "Dedicat viticulturii, acest muzeu explorează istoria bogată și tehnicile vinificației chiliene.",
+                  "category": "museum",
+                  "coords": [
+                        -70.563346,
+                        -33.497629
+                  ]
+            },
+            {
+                  "name": "Ciudad del Niño",
+                  "text": "Rămășițele unei foste instituții pentru copii stau ca un reper istoric obsedant în peisajul urban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.650909,
+                        -33.513628
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Víctor Jara",
+                  "text": "Acest centru comunitar de arte găzduiește spectacole și ateliere, onorând moștenirea faimosului cântăreț și compozitor chilian.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.663996,
+                        -33.534632
+                  ]
+            },
+            {
+                  "name": "Centro Interactivo de los Conocimientos",
+                  "text": "Acest centru interactiv are spații concepute pentru spectacole educaționale și diseminare științifică.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.615342,
+                        -33.520437
+                  ]
+            },
+            {
+                  "name": "CEAC",
+                  "text": "Servind ca un important loc de artă spectacolului, acest teatru găzduiește muzică clasică și prezentări culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.615854,
+                        -33.507376
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Chinkowe",
+                  "text": "Acest centru cultural local oferă o varietate de programe artistice și evenimente comunitare în cartier.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.540757,
+                        -33.47663
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Anselmo Cádiz",
+                  "text": "Oferind un spațiu creativ pentru comunitate, acest centru de arte organizează expoziții locale și ateliere culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.68716,
+                        -33.570368
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Salvador Allende",
+                  "text": "Proiectat de arhitectul Huberto Salgado Solovera, acest amfiteatru în aer liber servește ca spațiu de adunare civică.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.670208,
+                        -33.520406
+                  ]
+            },
+            {
+                  "name": "Espacio Checoeslovaquia",
+                  "text": "Acest loc cultural cu un nume distinct oferă spațiu pentru exprimare artistică independentă și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62384,
+                        -33.483025
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de La Florida",
+                  "text": "Deservind districtul său local, acest centru municipal de arte este un hub pentru cursuri comunitare și expoziții culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.588919,
+                        -33.515935
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Parque La Bandera",
+                  "text": "Situat într-un parc spațios, acest amfiteatru în aer liber găzduiește concerte comunitare și evenimente publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.637329,
+                        -33.542828
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de San Ramón",
+                  "text": "Acest loc de artă local încurajează dezvoltarea culturală prin expoziții, ateliere și adunări civice.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.633588,
+                        -33.548581
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Antumapu",
+                  "text": "Acest spațiu de spectacol în aer liber este utilizat pentru festivaluri locale și prezentări culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.631629,
+                        -33.570033
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen, Parroquia de San Columbano",
+                  "text": "Această capelă catolică locală își servește parohia cu slujbe regulate într-un cadru arhitectural modest.",
+                  "category": "religious",
+                  "coords": [
+                        -70.664321,
+                        -33.564255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Museo Alberto Bachelet Martínez (Ex-Nido 20)",
+                  "text": "Designed by architect German Rosales in 1964, this museum preserves the history of the former Nido 20 site near the Museo Interactivo Mirador.",
+                  "category": "museum",
+                  "coords": [
+                        -70.661279,
+                        -33.523871
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo Mirador",
+                  "text": "Opened in 2000, this interactive science museum features hands-on exhibits for visitors.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613424,
+                        -33.518879
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad de Macul",
+                  "text": "Housed in the historic Palacio Vásquez, this building serves as the town hall for the Macul municipality near the Museo Interactivo Mirador.",
+                  "category": "historical",
+                  "coords": [
+                        -70.59972,
+                        -33.48184
+                  ]
+            },
+            {
+                  "name": "Teatro Camino",
+                  "text": "A performing arts theatre known as Teatro Camino offering cultural shows in the area of the Museo Interactivo Mirador.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.535154,
+                        -33.484152
+                  ]
+            },
+            {
+                  "name": "Postulantado Orden de San Agustín (Agustinos)",
+                  "text": "A religious house of the Augustinian Order serving the Province of Our Lady of Grace of Chile near the Museo Interactivo Mirador.",
+                  "category": "religious",
+                  "coords": [
+                        -70.580721,
+                        -33.537215
+                  ]
+            },
+            {
+                  "name": "Campaña de la Virgen Peregrina de Schoenstatt",
+                  "text": "A place of worship associated with the worldwide Schoenstatt Pilgrim Mother Campaign near the Museo Interactivo Mirador.",
+                  "category": "religious",
+                  "coords": [
+                        -70.592153,
+                        -33.523344
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Espacio Matta",
+                  "text": "Built in 2010 to a design by Juan Pablo Araya and Leonel Sandoval, this modern arts centre acts as a cultural hub.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.632729,
+                        -33.543736
+                  ]
+            },
+            {
+                  "name": "Cerro Jardín Alto",
+                  "text": "This prominent local peak offers natural elevation within the urban landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -70.560013,
+                        -33.533113
+                  ]
+            },
+            {
+                  "name": "Parque Violeta Parra",
+                  "text": "Opened in June 2003, this municipal park provides shaded green space and recreational facilities for the local community.",
+                  "category": "park",
+                  "coords": [
+                        -70.677658,
+                        -33.52182
+                  ]
+            },
+            {
+                  "name": "Saturno V",
+                  "text": "This distinctively named urban park provides a recognized outdoor space for recreation within the city fabric.",
+                  "category": "park",
+                  "coords": [
+                        -70.598341,
+                        -33.521911
+                  ]
+            },
+            {
+                  "name": "Parque Viña Cousiño Macul",
+                  "text": "Once part of a historic wine estate, this expansive parkland now offers leafy avenues and public green spaces.",
+                  "category": "park",
+                  "coords": [
+                        -70.566129,
+                        -33.4951
+                  ]
+            },
+            {
+                  "name": "Parque La Bandera",
+                  "text": "Inaugurated in 1993, this spacious park serves as a major recreational and community venue in its district.",
+                  "category": "park",
+                  "coords": [
+                        -70.641588,
+                        -33.542245
+                  ]
+            },
+            {
+                  "name": "Plaza Salvador Allende",
+                  "text": "This civic plaza features landscaped areas dedicated to the memory of the former Chilean president.",
+                  "category": "park",
+                  "coords": [
+                        -70.581886,
+                        -33.517931
+                  ]
+            },
+            {
+                  "name": "Museo Macul Vimasur",
+                  "text": "Opened on September 4, 2022, this local museum preserves and exhibits regional cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613656,
+                        -33.49215
+                  ]
+            },
+            {
+                  "name": "Museo CSD Colo Colo",
+                  "text": "Dedicated to the famous Chilean football club, this museum displays sporting memorabilia and historical trophies.",
+                  "category": "museum",
+                  "coords": [
+                        -70.607054,
+                        -33.506416
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico Luis Peña Guzmán",
+                  "text": "This specialized entomological museum houses extensive collections of local and regional insect specimens.",
+                  "category": "museum",
+                  "coords": [
+                        -70.633332,
+                        -33.569982
+                  ]
+            },
+            {
+                  "name": "Complejo Andrónico Luksic Abaroa",
+                  "text": "This modern museum complex showcases the industrial and economic history associated with its namesake family.",
+                  "category": "museum",
+                  "coords": [
+                        -70.614243,
+                        -33.499907
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Rosa",
+                  "text": "This natural hilltop formation provides sweeping panoramic views over the surrounding urban sprawl.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530297,
+                        -33.545
+                  ]
+            },
+            {
+                  "name": "Cerro Chequén",
+                  "text": "Rising above the surrounding neighborhoods, this prominent peak is a recognized geographical landmark.",
+                  "category": "natural",
+                  "coords": [
+                        -70.546748,
+                        -33.552524
+                  ]
+            },
+            {
+                  "name": "Museo Digital",
+                  "text": "Focused on modern technology, this exhibition space showcases digital arts and interactive media.",
+                  "category": "museum",
+                  "coords": [
+                        -70.613668,
+                        -33.516009
+                  ]
+            },
+            {
+                  "name": "Museo del Vino",
+                  "text": "Dedicated to viticulture, this museum explores the rich history and techniques of Chilean winemaking.",
+                  "category": "museum",
+                  "coords": [
+                        -70.563346,
+                        -33.497629
+                  ]
+            },
+            {
+                  "name": "Ciudad del Niño",
+                  "text": "The remnants of a former children's institution stand as a haunting historical landmark in the urban landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -70.650909,
+                        -33.513628
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Víctor Jara",
+                  "text": "This community arts center hosts performances and workshops, honoring the legacy of the famous Chilean singer-songwriter.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.663996,
+                        -33.534632
+                  ]
+            },
+            {
+                  "name": "Centro Interactivo de los Conocimientos",
+                  "text": "This interactive center features spaces designed for educational performances and scientific dissemination.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.615342,
+                        -33.520437
+                  ]
+            },
+            {
+                  "name": "CEAC",
+                  "text": "Serving as a major performing arts venue, this theater hosts classical music and cultural presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.615854,
+                        -33.507376
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Chinkowe",
+                  "text": "This local cultural center offers a variety of artistic programs and community events in the neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.540757,
+                        -33.47663
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Anselmo Cádiz",
+                  "text": "Providing a creative space for the community, this arts center organizes local exhibitions and cultural workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.68716,
+                        -33.570368
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Salvador Allende",
+                  "text": "Designed by architect Huberto Salgado Solovera, this open-air amphitheater serves as a civic gathering space.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.670208,
+                        -33.520406
+                  ]
+            },
+            {
+                  "name": "Espacio Checoeslovaquia",
+                  "text": "This distinctively named cultural venue provides space for independent artistic expression and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.62384,
+                        -33.483025
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de La Florida",
+                  "text": "Serving its local district, this municipal arts center is a hub for community classes and cultural exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.588919,
+                        -33.515935
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Parque La Bandera",
+                  "text": "Located within a spacious park, this outdoor amphitheater hosts community concerts and public events.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.637329,
+                        -33.542828
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de San Ramón",
+                  "text": "This local arts venue fosters cultural development through exhibitions, workshops, and civic gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.633588,
+                        -33.548581
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Antumapu",
+                  "text": "This open-air performance space is utilized for local festivals and cultural presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.631629,
+                        -33.570033
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen, Parroquia de San Columbano",
+                  "text": "This local Catholic chapel serves its parish with regular services in a modest architectural setting.",
+                  "category": "religious",
+                  "coords": [
+                        -70.664321,
+                        -33.564255
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CL-RM",
     coords: [-70.620, -33.520],
@@ -1596,7 +18165,844 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Le musée (MIM) a ouvert ses portes en 2000.", "Les expositions sont fortement axées sur le principe du « toucher autorisé »."],
     }, image: "/poi-images/cl-museo-interactivo-mirador-life-v2.webp"},
   {
-    id: "cl-granja-educativa-de-lonquen-life-v2",
+    id: "cl-granja-educativa-de-lonquen-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viña Tarapacá",
+                  "text": "Ein traditionelles Weingut und eine Weinbergsattraktion in der Nähe von Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.927276,
+                        -33.769566
+                  ]
+            },
+            {
+                  "name": "Antigua Mina El Rosario",
+                  "text": "Ein ehemaliges Bergwerksgelände, das heute als Attraktion in der Gegend von Lonquén dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.938829,
+                        -33.742431
+                  ]
+            },
+            {
+                  "name": "Museo Parroquial de Isla de Maipo",
+                  "text": "Ein Pfarrmuseum in Isla de Maipo nahe Lonquén, das die lokale Religionsgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.900413,
+                        -33.75483
+                  ]
+            },
+            {
+                  "name": "De Martino",
+                  "text": "Ein renommiertes Weingut und eine Weinattraktion in der Gegend von Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.897063,
+                        -33.752269
+                  ]
+            },
+            {
+                  "name": "Museo de Talagante",
+                  "text": "Ein lokales Museum in Talagante, das dem kulturellen Erbe der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -70.934048,
+                        -33.666515
+                  ]
+            },
+            {
+                  "name": "Cerro Lonquén",
+                  "text": "Ein markanter Hügel, der einen Panoramablick über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -70.83014,
+                        -33.719046
+                  ]
+            },
+            {
+                  "name": "AquaBuin",
+                  "text": "Ein lokaler Wasserpark mit Pools und Freizeit-Wasserrutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.849316,
+                        -33.803032
+                  ]
+            },
+            {
+                  "name": "Parque Oasis",
+                  "text": "Ein Freizeit-Wasserpark in der Nähe von Lonquén, der Badespaß bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.908783,
+                        -33.715967
+                  ]
+            },
+            {
+                  "name": "Teatro Plaza Talagante",
+                  "text": "Ein lokales Theater am zentralen Platz von Talagante.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.931332,
+                        -33.664387
+                  ]
+            },
+            {
+                  "name": "Cruz de Cristo",
+                  "text": "Ein markantes christliches Kreuzdenkmal in der Gegend von Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.825152,
+                        -33.773986
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen",
+                  "text": "Eine christliche Kapelle, die Unserer Lieben Frau auf dem Berge Karmel gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.826481,
+                        -33.772424
+                  ]
+            },
+            {
+                  "name": "Parroquia Santo Domingo de Gúzman",
+                  "text": "Eine christliche Pfarrkirche zu Ehren des Heiligen Dominikus de Guzmán.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.855921,
+                        -33.711237
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "Eine christliche Kapelle in der Nähe von Lonquén, die Unserer Lieben Frau von Guadalupe gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.862076,
+                        -33.734914
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Buin",
+                  "text": "Eine methodistisch-pfingstliche Kultstätte in der Stadt Buin.",
+                  "category": "religious",
+                  "coords": [
+                        -70.74768,
+                        -33.729444
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrado Corazon",
+                  "text": "Eine dem Heiligsten Herzen Jesu geweihte christliche Pfarrkirche.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.945562,
+                        -33.678242
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor",
+                  "text": "Eine christliche Kirche namens Iglesia del Señor in der Gegend von Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.938658,
+                        -33.668805
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein christliches Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.928516,
+                        -33.665474
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "Eine christliche Kirche des Foursquare Gospel in der Nähe von Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.935552,
+                        -33.666557
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "Eine evangelisch-pfingstliche christliche Kirche in der Gegend von Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.928452,
+                        -33.658713
+                  ]
+            },
+            {
+                  "name": "Primera Iglesia Bautista de Talagante",
+                  "text": "Die christliche Erste Baptistenkirche in Talagante.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.925231,
+                        -33.660921
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Nacional",
+                  "text": "Eine christliche Kirche der Nationalen Evangelischen Mission in der Nähe von Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.921683,
+                        -33.658476
+                  ]
+            },
+            {
+                  "name": "Templo Budista Fo Guang Shan Chile",
+                  "text": "Ein buddhistischer Tempel von Fo Guang Shan, der in Chile einen Ort des spirituellen Rückzugs bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.886572,
+                        -33.656649
+                  ]
+            },
+            {
+                  "name": "Parroquia Maipo",
+                  "text": "Eine lokale christliche Pfarrkirche für die Gemeinde Maipo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.781504,
+                        -33.732417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viña Tarapacá",
+                  "text": "Hagyományos borbirtok és szőlőültetvény Lonquén közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.927276,
+                        -33.769566
+                  ]
+            },
+            {
+                  "name": "Antigua Mina El Rosario",
+                  "text": "A Lonquén térségében található, egykori bányaterület, amely ma látványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.938829,
+                        -33.742431
+                  ]
+            },
+            {
+                  "name": "Museo Parroquial de Isla de Maipo",
+                  "text": "Isla de Maipo helyi vallástörténetét bemutató plébániamúzeum Lonquén közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -70.900413,
+                        -33.75483
+                  ]
+            },
+            {
+                  "name": "De Martino",
+                  "text": "Neves szőlőbirtok és borászati látványosság a Lonquén régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.897063,
+                        -33.752269
+                  ]
+            },
+            {
+                  "name": "Museo de Talagante",
+                  "text": "Talagante helyi múzeuma, amely a régió kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.934048,
+                        -33.666515
+                  ]
+            },
+            {
+                  "name": "Cerro Lonquén",
+                  "text": "Kiemelkedő domb, amelyről panorámás kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -70.83014,
+                        -33.719046
+                  ]
+            },
+            {
+                  "name": "AquaBuin",
+                  "text": "Helyi vízipark, amely medencékkel és szórakoztató csúszdákkal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.849316,
+                        -33.803032
+                  ]
+            },
+            {
+                  "name": "Parque Oasis",
+                  "text": "Kellemes vizi szórakozást kínáló rekreációs vízipark Lonquén közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.908783,
+                        -33.715967
+                  ]
+            },
+            {
+                  "name": "Teatro Plaza Talagante",
+                  "text": "Talagante központi terén található helyi színház.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.931332,
+                        -33.664387
+                  ]
+            },
+            {
+                  "name": "Cruz de Cristo",
+                  "text": "Kiemelkedő keresztény kereszt emlékmű a Lonquén térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.825152,
+                        -33.773986
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen",
+                  "text": "A Kármelhegyi Boldogasszonynak szentelt keresztény kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.826481,
+                        -33.772424
+                  ]
+            },
+            {
+                  "name": "Parroquia Santo Domingo de Gúzman",
+                  "text": "Szent Domonkos tiszteletére szentelt keresztény plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.855921,
+                        -33.711237
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "Lonquén közelében található, a Guadalupei Szűzanyának szentelt keresztény kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.862076,
+                        -33.734914
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Buin",
+                  "text": "Pünkösdi metodista istentiszteleti hely Buin városában.",
+                  "category": "religious",
+                  "coords": [
+                        -70.74768,
+                        -33.729444
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrado Corazon",
+                  "text": "A Jézus Szíve tiszteletére szentelt keresztény plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.945562,
+                        -33.678242
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor",
+                  "text": "Az Úr temploma nevű keresztény egyházközség a Lonquén térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.938658,
+                        -33.668805
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza keresztény gyülekezeti háza.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.928516,
+                        -33.665474
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "Négyszögletű Evangélium keresztény templom Lonquén közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.935552,
+                        -33.666557
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "Evangéliumi pünkösdi keresztény templom a Lonquén térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.928452,
+                        -33.658713
+                  ]
+            },
+            {
+                  "name": "Primera Iglesia Bautista de Talagante",
+                  "text": "Talagante első baptista keresztény temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.925231,
+                        -33.660921
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Nacional",
+                  "text": "A Nemzeti Evangéliumi Misszió keresztény temploma Lonquén közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.921683,
+                        -33.658476
+                  ]
+            },
+            {
+                  "name": "Templo Budista Fo Guang Shan Chile",
+                  "text": "A Fo Guang Shan buddhista templom, amely spirituális elvonulást kínál Chilében.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.886572,
+                        -33.656649
+                  ]
+            },
+            {
+                  "name": "Parroquia Maipo",
+                  "text": "A Maipo közösséget szolgáló helyi keresztény plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.781504,
+                        -33.732417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viña Tarapacá",
+                  "text": "Un domeniu viticol tradițional și o podgorie lângă Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.927276,
+                        -33.769566
+                  ]
+            },
+            {
+                  "name": "Antigua Mina El Rosario",
+                  "text": "O fostă mină care servește acum ca atracție în zona Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.938829,
+                        -33.742431
+                  ]
+            },
+            {
+                  "name": "Museo Parroquial de Isla de Maipo",
+                  "text": "Un muzeu parohial care prezintă istoria religioasă locală în Isla de Maipo, lângă Lonquén.",
+                  "category": "museum",
+                  "coords": [
+                        -70.900413,
+                        -33.75483
+                  ]
+            },
+            {
+                  "name": "De Martino",
+                  "text": "O podgorie renumită și o atracție vinicolă în zona Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.897063,
+                        -33.752269
+                  ]
+            },
+            {
+                  "name": "Museo de Talagante",
+                  "text": "Un muzeu local în Talagante dedicat patrimoniului cultural al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -70.934048,
+                        -33.666515
+                  ]
+            },
+            {
+                  "name": "Cerro Lonquén",
+                  "text": "Un deal proeminent care oferă un punct de belvedere panoramic asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -70.83014,
+                        -33.719046
+                  ]
+            },
+            {
+                  "name": "AquaBuin",
+                  "text": "Un parc acvatic local cu piscine și tobogane de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.849316,
+                        -33.803032
+                  ]
+            },
+            {
+                  "name": "Parque Oasis",
+                  "text": "Un parc acvatic de agrement care oferă divertisment acvatic lângă Lonquén.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.908783,
+                        -33.715967
+                  ]
+            },
+            {
+                  "name": "Teatro Plaza Talagante",
+                  "text": "Un teatru local situat în piața centrală din Talagante.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.931332,
+                        -33.664387
+                  ]
+            },
+            {
+                  "name": "Cruz de Cristo",
+                  "text": "Un monument creștin proeminent sub formă de cruce în zona Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.825152,
+                        -33.773986
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen",
+                  "text": "O capelă creștină dedicată Maicii Domnului de pe Muntele Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.826481,
+                        -33.772424
+                  ]
+            },
+            {
+                  "name": "Parroquia Santo Domingo de Gúzman",
+                  "text": "O biserică parohială creștină numită în onoarea Sfântului Dominic de Guzmán.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.855921,
+                        -33.711237
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "O capelă creștină dedicată Fecioarei din Guadalupe, lângă Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.862076,
+                        -33.734914
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Buin",
+                  "text": "Un lăcaș de cult metodist penticostal situat în orașul Buin.",
+                  "category": "religious",
+                  "coords": [
+                        -70.74768,
+                        -33.729444
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrado Corazon",
+                  "text": "O biserică parohială creștină dedicată Sfintei Inimi.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.945562,
+                        -33.678242
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor",
+                  "text": "O biserică creștină numită Iglesia del Señor în zona Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.938658,
+                        -33.668805
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri creștină a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.928516,
+                        -33.665474
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "O biserică creștină a Evangheliei Pătrate lângă Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.935552,
+                        -33.666557
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "O biserică creștină evanghelică penticostală în zona Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.928452,
+                        -33.658713
+                  ]
+            },
+            {
+                  "name": "Primera Iglesia Bautista de Talagante",
+                  "text": "Prima Biserică Creștină Baptistă situată în Talagante.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.925231,
+                        -33.660921
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Nacional",
+                  "text": "O biserică creștină a Misiunii Evanghelice Naționale situată lângă Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.921683,
+                        -33.658476
+                  ]
+            },
+            {
+                  "name": "Templo Budista Fo Guang Shan Chile",
+                  "text": "Un templu budist Fo Guang Shan care oferă un loc de retragere spirituală în Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.886572,
+                        -33.656649
+                  ]
+            },
+            {
+                  "name": "Parroquia Maipo",
+                  "text": "O biserică parohială creștină locală care deservește comunitatea Maipo.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.781504,
+                        -33.732417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viña Tarapacá",
+                  "text": "A traditional wine estate and vineyard attraction near Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.927276,
+                        -33.769566
+                  ]
+            },
+            {
+                  "name": "Antigua Mina El Rosario",
+                  "text": "A former mining site now serving as an attraction in the Lonquén area.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.938829,
+                        -33.742431
+                  ]
+            },
+            {
+                  "name": "Museo Parroquial de Isla de Maipo",
+                  "text": "A parochial museum showcasing local religious history in Isla de Maipo near Lonquén.",
+                  "category": "museum",
+                  "coords": [
+                        -70.900413,
+                        -33.75483
+                  ]
+            },
+            {
+                  "name": "De Martino",
+                  "text": "A renowned vineyard and winery attraction in the Lonquén area.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.897063,
+                        -33.752269
+                  ]
+            },
+            {
+                  "name": "Museo de Talagante",
+                  "text": "A local museum in Talagante dedicated to the region's cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -70.934048,
+                        -33.666515
+                  ]
+            },
+            {
+                  "name": "Cerro Lonquén",
+                  "text": "A prominent hill offering a panoramic viewpoint over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -70.83014,
+                        -33.719046
+                  ]
+            },
+            {
+                  "name": "AquaBuin",
+                  "text": "A local water park attraction featuring pools and recreational slides.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.849316,
+                        -33.803032
+                  ]
+            },
+            {
+                  "name": "Parque Oasis",
+                  "text": "A recreational water park offering aquatic entertainment near Lonquén.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.908783,
+                        -33.715967
+                  ]
+            },
+            {
+                  "name": "Teatro Plaza Talagante",
+                  "text": "A local theatre venue located in the central square of Talagante.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.931332,
+                        -33.664387
+                  ]
+            },
+            {
+                  "name": "Cruz de Cristo",
+                  "text": "A prominent Christian cross monument in the Lonquén area.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.825152,
+                        -33.773986
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora del Carmen",
+                  "text": "A Christian chapel dedicated to Our Lady of Mount Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.826481,
+                        -33.772424
+                  ]
+            },
+            {
+                  "name": "Parroquia Santo Domingo de Gúzman",
+                  "text": "A Christian parish church named in honor of Saint Dominic de Guzmán.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.855921,
+                        -33.711237
+                  ]
+            },
+            {
+                  "name": "Capilla Nuestra Señora de Guadalupe",
+                  "text": "A Christian chapel dedicated to Our Lady of Guadalupe near Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.862076,
+                        -33.734914
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista Pentecostal de Buin",
+                  "text": "A Pentecostal Methodist place of worship located in the town of Buin.",
+                  "category": "religious",
+                  "coords": [
+                        -70.74768,
+                        -33.729444
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrado Corazon",
+                  "text": "A Christian parish church dedicated to the Sacred Heart.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.945562,
+                        -33.678242
+                  ]
+            },
+            {
+                  "name": "Iglesia del Señor",
+                  "text": "A Christian church called Iglesia del Señor in the Lonquén area.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.938658,
+                        -33.668805
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A Christian meetinghouse for The Church of Jesus Christ of Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.928516,
+                        -33.665474
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "A Foursquare Gospel Christian church near Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.935552,
+                        -33.666557
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Pentecostal",
+                  "text": "An Evangelical Pentecostal Christian church in the Lonquén area.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.928452,
+                        -33.658713
+                  ]
+            },
+            {
+                  "name": "Primera Iglesia Bautista de Talagante",
+                  "text": "The First Baptist Christian Church located in Talagante.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.925231,
+                        -33.660921
+                  ]
+            },
+            {
+                  "name": "Iglesia Misión Evangélica Nacional",
+                  "text": "A National Evangelical Mission Christian church located near Lonquén.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.921683,
+                        -33.658476
+                  ]
+            },
+            {
+                  "name": "Templo Budista Fo Guang Shan Chile",
+                  "text": "A Fo Guang Shan Buddhist temple offering a place of spiritual retreat in Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.886572,
+                        -33.656649
+                  ]
+            },
+            {
+                  "name": "Parroquia Maipo",
+                  "text": "A local Christian parish church serving the Maipo community.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.781504,
+                        -33.732417
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CL-RM",
     coords: [-70.850, -33.720],
@@ -1655,7 +19061,52 @@ export const poiExtraChileLifeV2: POI[] = [
       fr: ["Propose des ateliers de fabrication de pain et de traite.", "Favorise la compréhension de l'origine des aliments."],
     }, image: "/poi-images/cl-granja-educativa-de-lonquen-life-v2.webp"},
   {
-    id: "cl-parque-nacional-hornopiren-life-v2",
+    id: "cl-parque-nacional-hornopiren-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional Hornopirén",
+                  "text": "Dieser 1988 gegründete Park schützt den Vulkan Hornopirén und gemäßigte Regenwälder.",
+                  "category": "natural",
+                  "coords": [
+                        -72.245127,
+                        -41.915851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional Hornopirén",
+                  "text": "Ez az 1988-ban alapított park a Hornopirén-vulkánt és a mérsékelt övi esőerdőket védi.",
+                  "category": "natural",
+                  "coords": [
+                        -72.245127,
+                        -41.915851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional Hornopirén",
+                  "text": "Înființat în 1988, acest parc protejează vulcanul Hornopirén și pădurile temperate.",
+                  "category": "natural",
+                  "coords": [
+                        -72.245127,
+                        -41.915851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hornopirén National Park",
+                  "text": "Established in 1988, this park protects the Hornopirén volcano and temperate rainforests.",
+                  "category": "natural",
+                  "coords": [
+                        -72.245127,
+                        -41.915851
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CL-LL",
     coords: [-72.250, -41.850],

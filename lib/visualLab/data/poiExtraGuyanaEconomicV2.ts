@@ -87,7 +87,52 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Omai fut un temps la plus grande mine d'or de Guyane.", "La mine s'est fait connaître en 1995 par une rupture de digue de bassins de cyanure.", "Géologiquement, la mine se trouve dans l'une des zones les plus riches en or du bouclier guyanais.", "Omai fut pionnière des techniques minières industrielles modernes à grande échelle dans le pays.", "L'Essequibo servait d'artère logistique principale pour la mine.", "De nouvelles explorations estiment les ressources restantes à des millions d'onces."],
     }
   }, {
-    id: "demerara-distillers-economic-v2",
+    id: "demerara-distillers-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ein Versammlungssaal der Zeugen Jehovas im Industriegebiet der Demerara-Brennereien.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.175258,
+                        6.764224
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Jehova Tanúi királyságterme a Demerara szeszfőzde ipari körzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.175258,
+                        6.764224
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "O sală a Regatului a Martorilor lui Iehova situată în zona industrială a distileriilor Demerara.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.175258,
+                        6.764224
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kingdom Hall",
+                  "text": "A Jehovah's Witnesses meeting hall located in the industrial district of the Demerara distilleries.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.175258,
+                        6.764224
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-DE",
     coords: [-58.172, 6.7589],
@@ -130,7 +175,196 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["La Diamond Distillery utilise les seuls alambics en bois au monde encore en activité.", "Le 'El Dorado 15 Year Old' a remporté plusieurs fois le titre de 'Meilleur rhum du monde'.", "DDL emploie plus de 1 000 personnes dans différents secteurs au Guyana.", "Les racines de l'entreprise remontent à l'année 1670.", "La société produit également des jus de fruits et des boissons gazeuses.", "La distillerie se trouve à seulement quelques kilomètres au sud de Georgetown."],
     },
   }, {
-    id: "banks-dih-brewery-economic-v2",
+    id: "banks-dih-brewery-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ebenezer",
+                  "text": "Ein christliches Zentrum im Industrie- und Wohngebiet Thirst Park im Süden Georgetowns.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162277,
+                        6.795303
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Ein lokaler Hindu-Tempel, der den südlichen Vororten von Greater Georgetown dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167388,
+                        6.785615
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Eine moderne Kapelle der Heiligen der Letzten Tage im Viertel Houston/Banks.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167408,
+                        6.788974
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Mount Roman Catholic Church",
+                  "text": "Diese katholische Kirche befindet sich im Wohngebiet Meadow Brook im Süden der Hauptstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.170248,
+                        6.789017
+                  ]
+            },
+            {
+                  "name": "Seven Day Adventist Church",
+                  "text": "Ein Heiligtum der Siebenten-Tags-Adventisten am südlichen Stadtrand von Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158853,
+                        6.792548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ebenezer",
+                  "text": "Keresztény központ Georgetown déli részén, az ipari és lakóövezeti Thirst Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162277,
+                        6.795303
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Helyi hindu templom, amely Greater Georgetown déli külvárosait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167388,
+                        6.785615
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "Az Utolsó Napi Szentek modern kápolnája a Houston/Banks negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167408,
+                        6.788974
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Mount Roman Catholic Church",
+                  "text": "Ez a katolikus templom a főváros déli részén, a Meadow Brook lakóövezetben található.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.170248,
+                        6.789017
+                  ]
+            },
+            {
+                  "name": "Seven Day Adventist Church",
+                  "text": "A Hetednapi Adventista Egyház szentélye Georgetown déli peremén.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158853,
+                        6.792548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ebenezer",
+                  "text": "Un centru creștin în zona industrială și rezidențială Thirst Park din sudul Georgetown-ului.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162277,
+                        6.795303
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Un templu hindu local care deservește suburbiile sudice ale zonei Greater Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167388,
+                        6.785615
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "O capelă modernă a Sfinților din Zilele din Urmă în cartierul Houston/Banks.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167408,
+                        6.788974
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Mount Roman Catholic Church",
+                  "text": "Această biserică catolică este situată în zona rezidențială Meadow Brook din sudul capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.170248,
+                        6.789017
+                  ]
+            },
+            {
+                  "name": "Seven Day Adventist Church",
+                  "text": "Un lăcaș al Adventiștilor de Ziua a Șaptea la marginea de sud a orașului Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158853,
+                        6.792548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ebenezer",
+                  "text": "A Christian center in the industrial and residential Thirst Park area of southern Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162277,
+                        6.795303
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A local Hindu temple serving the southern suburbs of Greater Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167388,
+                        6.785615
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "A modern chapel of the Latter-day Saints in the Houston/Banks neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.167408,
+                        6.788974
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Mount Roman Catholic Church",
+                  "text": "This Catholic church is located in the Meadow Brook residential area in the south of the capital.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.170248,
+                        6.789017
+                  ]
+            },
+            {
+                  "name": "Seven Day Adventist Church",
+                  "text": "A Seventh-day Adventist sanctuary on the southern outskirts of Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158853,
+                        6.792548
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-DE",
     coords: [-58.161, 6.7865],
@@ -474,7 +708,88 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Le projet couvre une zone de concession de 532 km².", "Il appartient au portefeuille d'Aris Mining.", "Les réserves estimées s'élèvent à plusieurs millions d'onces d'or.", "Le projet comprend d'importants gisements de cuivre.", "La durée d'exploitation prévue de la mine est de plus de 20 ans.", "Il se situe dans la zone de cisaillement de Puruni, géologiquement riche."],
     },
   }, {
-    id: "kwakwani-bauxite-mine-economic-v2",
+    id: "kwakwani-bauxite-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bamboo turn",
+                  "text": "Der Bamboo turn genannte Aussichtspunkt am Rand der Minenregion bietet einen Blick auf von Bambus gesäumte Transportwege.",
+                  "category": "natural",
+                  "coords": [
+                        -58.064924,
+                        5.355323
+                  ]
+            },
+            {
+                  "name": "Bamboo from main",
+                  "text": "Von Bamboo from main aus lässt sich das von Bauxitabbau und tropischer Vegetation geprägte Straßennetz der Umgebung überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        -58.104128,
+                        5.336534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bamboo turn",
+                  "text": "A bánya régió szélén található Bamboo turn nevű kilátópont a bambusszal szegélyezett szállítási útvonalakra nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        -58.064924,
+                        5.355323
+                  ]
+            },
+            {
+                  "name": "Bamboo from main",
+                  "text": "A Bamboo from main kilátópontról belátható a bauxitbányászat és a trópusi növényzet által meghatározott környékbeli úthálózat.",
+                  "category": "natural",
+                  "coords": [
+                        -58.104128,
+                        5.336534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bamboo turn",
+                  "text": "Punctul de belvedere numit Bamboo turn de la marginea regiunii miniere oferă o priveliște asupra rutelor de transport mărginite de bambus.",
+                  "category": "natural",
+                  "coords": [
+                        -58.064924,
+                        5.355323
+                  ]
+            },
+            {
+                  "name": "Bamboo from main",
+                  "text": "De la Bamboo from main poate fi observată rețeaua de drumuri din zonă, marcată de exploatarea bauxitei și vegetația tropicală.",
+                  "category": "natural",
+                  "coords": [
+                        -58.104128,
+                        5.336534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bamboo turn",
+                  "text": "The viewpoint called Bamboo turn on the edge of the mining region offers a view of bamboo-lined transport routes.",
+                  "category": "natural",
+                  "coords": [
+                        -58.064924,
+                        5.355323
+                  ]
+            },
+            {
+                  "name": "Bamboo from main",
+                  "text": "From Bamboo from main, one can overlook the surrounding road network characterized by bauxite mining and tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -58.104128,
+                        5.336534
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-UD",
     coords: [-58.0333, 5.2833],
@@ -517,7 +832,160 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["La mine est située sur la rive est du fleuve Berbice.", "L'exploitation a débuté dans les années 1940 avec Reynolds Metals.", "Kwakwani produit de la bauxite de qualité chimique et métallurgique.", "Le minerai est transporté par barges en descendant le fleuve.", "La mine est le principal employeur de la Région 10.", "Les gisements de bauxite se trouvent dans des couches sédimentaires tertiaires."],
     },
   }, {
-    id: "bosai-minerals-linden-economic-v2",
+    id: "bosai-minerals-linden-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coomacka Mines Resort",
+                  "text": "Blick auf das türkisfarbene Wasser ehemaliger Bauxitgruben, die heute als Erholungsgebiet dienen.",
+                  "category": "natural",
+                  "coords": [
+                        -58.302043,
+                        5.938657
+                  ]
+            },
+            {
+                  "name": "Coomacka Mines Beach",
+                  "text": "Ein weißer Sandstrand am Rande eines tiefen, mit Wasser gefüllten ehemaligen Tagebaus.",
+                  "category": "natural",
+                  "coords": [
+                        -58.307295,
+                        5.932575
+                  ]
+            },
+            {
+                  "name": "Bosai Road",
+                  "text": "Aussichtspunkt auf die massiven aktiven Bauxit-Minenbetriebe und schwere Bergbaumaschinen.",
+                  "category": "natural",
+                  "coords": [
+                        -58.263571,
+                        5.951556
+                  ]
+            },
+            {
+                  "name": "Praise Tabernacle",
+                  "text": "Ein lokales christliches Anbetungszentrum, das der Bergbaugemeinde im Bosai-Gebiet dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.290919,
+                        5.987878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coomacka Mines Resort",
+                  "text": "Kilátás az elhagyott bauxitbányák türkizkék vizére, amelyeket üdülőhellyé alakítottak át.",
+                  "category": "natural",
+                  "coords": [
+                        -58.302043,
+                        5.938657
+                  ]
+            },
+            {
+                  "name": "Coomacka Mines Beach",
+                  "text": "Fehér homokos strand egy mély, vízzel telt egykori bauxitbánya partján.",
+                  "category": "natural",
+                  "coords": [
+                        -58.307295,
+                        5.932575
+                  ]
+            },
+            {
+                  "name": "Bosai Road",
+                  "text": "Kilátópont a hatalmas, aktív bauxitbányászati műveletekre és a nehézgépekre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.263571,
+                        5.951556
+                  ]
+            },
+            {
+                  "name": "Praise Tabernacle",
+                  "text": "Helyi keresztény imaház, amely a Bosai terület bányászközösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.290919,
+                        5.987878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coomacka Mines Resort",
+                  "text": "Vedere spre apele turcoaz ale fostelor mine de bauxită, transformate acum în zonă de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        -58.302043,
+                        5.938657
+                  ]
+            },
+            {
+                  "name": "Coomacka Mines Beach",
+                  "text": "O plajă cu nisip alb pe marginea unei foste mine adânci, acum umplută cu apă.",
+                  "category": "natural",
+                  "coords": [
+                        -58.307295,
+                        5.932575
+                  ]
+            },
+            {
+                  "name": "Bosai Road",
+                  "text": "Punct de belvedere asupra operațiunilor masive de minare a bauxitei și a utilajelor grele.",
+                  "category": "natural",
+                  "coords": [
+                        -58.263571,
+                        5.951556
+                  ]
+            },
+            {
+                  "name": "Praise Tabernacle",
+                  "text": "Un centru local de cult creștin care deservește comunitatea minieră din zona Bosai.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.290919,
+                        5.987878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coomacka Mines Resort",
+                  "text": "Overlooks the turquoise waters of abandoned bauxite pits transformed into a recreation area.",
+                  "category": "natural",
+                  "coords": [
+                        -58.302043,
+                        5.938657
+                  ]
+            },
+            {
+                  "name": "Coomacka Mines Beach",
+                  "text": "A white sand beach on the edge of a deep, water-filled former mining pit.",
+                  "category": "natural",
+                  "coords": [
+                        -58.307295,
+                        5.932575
+                  ]
+            },
+            {
+                  "name": "Bosai Road",
+                  "text": "A viewpoint overlooking the massive active bauxite mining operations and heavy machinery.",
+                  "category": "natural",
+                  "coords": [
+                        -58.263571,
+                        5.951556
+                  ]
+            },
+            {
+                  "name": "Praise Tabernacle",
+                  "text": "A local Christian worship center serving the mining community in the Bosai area.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.290919,
+                        5.987878
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-UD",
     coords: [-58.3, 6.0],
@@ -560,7 +1028,196 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["L'usine produit de la bauxite calcinée de type RASC.", "Elle est exploitée par le groupe chinois Bosai Minerals.", "Linden est le centre historique de l'industrie de la bauxite guyanaise.", "L'installation dispose de grands fours rotatifs pour la calcination.", "L'exportation s'effectue via des terminaux sur le fleuve Demerara.", "Bosai alimente une partie de la ville de Linden en électricité."],
     },
   }, {
-    id: "port-of-new-amsterdam-economic-v2",
+    id: "port-of-new-amsterdam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Six Cannons Military monument",
+                  "text": "Dieses militärische Denkmal zeigt historische Kanonen, die zum Gedenken an die koloniale Verteidigung von Neu-Amsterdam aufgestellt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -57.519143,
+                        6.252259
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "Eine etablierte christliche Gemeinde versammelt sich in dieser presbyterianischen Kirche, um in Neu-Amsterdam Sonntagsgottesdienste zu feiern.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.515985,
+                        6.254534
+                  ]
+            },
+            {
+                  "name": "Ebenezer Lutheran Church",
+                  "text": "Mit Wurzeln, die die vielfältige Kolonialgeschichte der Region widerspiegeln, hält diese lutherische Gemeinde weiterhin traditionelle christliche Gottesdienste ab.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.520018,
+                        6.247731
+                  ]
+            },
+            {
+                  "name": "New Amsterdam Central Jamaat Masjid",
+                  "text": "Als zentrale Moschee der Stadt beherbergt dieses prominente islamische Zentrum das Freitagsgebet und Gemeindeveranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.517715,
+                        6.249505
+                  ]
+            },
+            {
+                  "name": "Cazarene Church",
+                  "text": "Diese Kirche versammelt die christlichen Gläubigen in der Hafenstadt und bietet regelmäßige Bibelstunden und Sonntagsgottesdienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.518308,
+                        6.250539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Six Cannons Military monument",
+                  "text": "Ez a katonai emlékmű történelmi ágyúkat mutat be, amelyeket New Amsterdam gyarmati védelmének emlékére állítottak fel.",
+                  "category": "historical",
+                  "coords": [
+                        -57.519143,
+                        6.252259
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "Egy bejáratott keresztény gyülekezet gyűlik össze ebben a presbiteriánus templomban, hogy vasárnapi istentiszteleteket tartson New Amsterdamban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.515985,
+                        6.254534
+                  ]
+            },
+            {
+                  "name": "Ebenezer Lutheran Church",
+                  "text": "A régió sokszínű gyarmati történelmét tükröző gyökerekkel rendelkező evangélikus egyházközség továbbra is hagyományos keresztény istentiszteleteket tart.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.520018,
+                        6.247731
+                  ]
+            },
+            {
+                  "name": "New Amsterdam Central Jamaat Masjid",
+                  "text": "A város központi mecsetjeként ez a kiemelkedő iszlám központ ad otthont a pénteki dzsuma imáknak és a közösségi eseményeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.517715,
+                        6.249505
+                  ]
+            },
+            {
+                  "name": "Cazarene Church",
+                  "text": "A kikötőváros keresztény hívőit összegyűjtő templom rendszeres bibliaórákat és vasárnapi istentiszteleteket biztosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.518308,
+                        6.250539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Six Cannons Military monument",
+                  "text": "Acest monument militar prezintă tunuri istorice aranjate pentru a comemora apărarea colonială a orașului New Amsterdam.",
+                  "category": "historical",
+                  "coords": [
+                        -57.519143,
+                        6.252259
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "O congregație creștină consacrată se adună în această biserică prezbiteriană pentru a celebra slujbele de duminică în New Amsterdam.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.515985,
+                        6.254534
+                  ]
+            },
+            {
+                  "name": "Ebenezer Lutheran Church",
+                  "text": "Cu rădăcini care reflectă istoria colonială diversă a regiunii, această parohie luterană continuă să țină slujbe creștine tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.520018,
+                        6.247731
+                  ]
+            },
+            {
+                  "name": "New Amsterdam Central Jamaat Masjid",
+                  "text": "Ca moschee centrală a orașului, acest centru islamic proeminent găzduiește rugăciunile de vineri Jum'ah și evenimente comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.517715,
+                        6.249505
+                  ]
+            },
+            {
+                  "name": "Cazarene Church",
+                  "text": "Adunând credincioșii creștini în orașul-port, această biserică oferă studii biblice regulate și slujbe duminicale.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.518308,
+                        6.250539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Six Cannons Military monument",
+                  "text": "This military monument features historic cannons arranged to commemorate the colonial defense of New Amsterdam.",
+                  "category": "historical",
+                  "coords": [
+                        -57.519143,
+                        6.252259
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "An established Christian congregation gathers in this Presbyterian church to celebrate Sunday services in New Amsterdam.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.515985,
+                        6.254534
+                  ]
+            },
+            {
+                  "name": "Ebenezer Lutheran Church",
+                  "text": "With roots reflecting the region's diverse colonial history, this Lutheran parish continues to hold traditional Christian services.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.520018,
+                        6.247731
+                  ]
+            },
+            {
+                  "name": "New Amsterdam Central Jamaat Masjid",
+                  "text": "As the central mosque of the town, this prominent Islamic center hosts Friday Jum'ah prayers and community events.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.517715,
+                        6.249505
+                  ]
+            },
+            {
+                  "name": "Cazarene Church",
+                  "text": "Gathering the Christian faithful in the port city, this church provides regular Bible studies and Sunday services.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.518308,
+                        6.250539
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GY-EB",
     coords: [-57.5186, 6.2483],
@@ -603,7 +1260,52 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Le port est situé à l'embouchure de la Berbice dans l'Atlantique.", "C'est un centre de transbordement principal pour le sucre et le riz.", "La bauxite de Kwakwani est chargée ici pour l'exportation.", "Le chenal nécessite des travaux de dragage réguliers.", "New Amsterdam est la deuxième ville de Guyane.", "Le port soutient logistiquement l'extraction pétrolière offshore."],
     },
   }, {
-    id: "john-fernandes-wharf-economic-v2",
+    id: "john-fernandes-wharf-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fountain",
+                  "text": "Dekoratives Wasserspiel in der Nähe des geschäftigen industriellen Kai-Bereichs.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.165287,
+                        6.810717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fountain",
+                  "text": "Dekoratív szökőkút a nyüzsgő ipari rakpart közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.165287,
+                        6.810717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fountain",
+                  "text": "Fântână decorativă situată în apropierea zonei industriale aglomerate a debarcaderului.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.165287,
+                        6.810717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fountain",
+                  "text": "Decorative water feature situated near the bustling industrial wharf area.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.165287,
+                        6.810717
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GY-DE",
     coords: [-58.165, 6.812],
@@ -646,7 +1348,52 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Exploité par John Fernandes Ltd., fondée en 1959.", "Le terminal est situé sur le fleuve Demerara à Georgetown.", "Spécialisé dans la manutention de conteneurs et de fret divers.", "Sert de base majeure pour la logistique pétrolière offshore.", "Site certifié ISPS pour la sécurité maritime.", "Équipé de dispositifs modernes de levage lourd."],
     },
   }, {
-    id: "muneshwers-wharf-economic-v2",
+    id: "muneshwers-wharf-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guyana National Museum",
+                  "text": "Das Museum zeigt Exponate zur Flora und Fauna des Landes, darunter das Skelett eines Riesenfaultiers.",
+                  "category": "museum",
+                  "coords": [
+                        -58.16573,
+                        6.813443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guyana National Museum",
+                  "text": "A múzeum az ország növény- és állatvilágát mutatja be, beleértve egy óriáslajhár csontvázát is.",
+                  "category": "museum",
+                  "coords": [
+                        -58.16573,
+                        6.813443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guyana National Museum",
+                  "text": "Muzeul expune piese referitoare la flora și fauna țării, inclusiv scheletul unui leneș uriaș.",
+                  "category": "museum",
+                  "coords": [
+                        -58.16573,
+                        6.813443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guyana National Museum",
+                  "text": "The museum exhibits the nation's flora and fauna, including the skeleton of a prehistoric giant sloth.",
+                  "category": "museum",
+                  "coords": [
+                        -58.16573,
+                        6.813443
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GY-DE",
     coords: [-58.1655, 6.813],
@@ -732,7 +1479,88 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["GNIC signifie Guyana National Industrial Company Inc.", "Le site dispose de son propre chantier naval et de cales sèches.", "Faisait autrefois partie de l'entreprise navale d'État.", "Spécialisé dans la construction et la réparation de barges.", "Fournit un soutien logistique à l'exploitation minière et à l'industrie.", "Situé stratégiquement sur la rive est du fleuve Demerara."],
     },
   }, {
-    id: "gnsc-wharf-economic-v2",
+    id: "gnsc-wharf-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sacred Heart Roman Catholic Church",
+                  "text": "Eine römisch-katholische Kirche in der Nähe der GNSC-Anlegestellen, die nach einem Brand wiederaufgebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.164103,
+                        6.815835
+                  ]
+            },
+            {
+                  "name": "Mattai's - The Food Market",
+                  "text": "Ein belebter Lebensmittelmarkt in Georgetown, der für seine Auswahl an karibischen Gewürzen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.165707,
+                        6.816897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sacred Heart Roman Catholic Church",
+                  "text": "Római katolikus templom a GNSC rakpartok közelében, amelyet egy tűzvész után építettek újjá.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.164103,
+                        6.815835
+                  ]
+            },
+            {
+                  "name": "Mattai's - The Food Market",
+                  "text": "Georgetown nyüzsgő élelmiszerpiaca, amely a karibi fűszerek széles választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.165707,
+                        6.816897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sacred Heart Roman Catholic Church",
+                  "text": "O biserică romano-catolică situată lângă danele GNSC, reconstruită după un incendiu.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.164103,
+                        6.815835
+                  ]
+            },
+            {
+                  "name": "Mattai's - The Food Market",
+                  "text": "O piață alimentară animată din Georgetown, renumită pentru selecția de condimente din Caraibe.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.165707,
+                        6.816897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sacred Heart Roman Catholic Church",
+                  "text": "A Roman Catholic church near the GNSC wharves, rebuilt following a fire.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.164103,
+                        6.815835
+                  ]
+            },
+            {
+                  "name": "Mattai's - The Food Market",
+                  "text": "A bustling food market in Georgetown, famous for its selection of Caribbean spices.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.165707,
+                        6.816897
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GY-DE",
     coords: [-58.164, 6.816],
@@ -775,7 +1603,88 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["GNSC est la compagnie maritime nationale de Guyana.", "L'entreprise a été fondée en 1976.", "Le quai est le terminal principal pour l'importation de véhicules.", "Offre des liaisons régulières avec les ports des Caraïbes.", "Dispose de zones d'entrepôt douanier sécurisées.", "Travaille en étroite collaboration avec des partenaires logistiques mondiaux."],
     },
   }, {
-    id: "vreed-en-hoop-shorebase-economic-v2",
+    id: "vreed-en-hoop-shorebase-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Swithins Anglican Church",
+                  "text": "Diese anglikanische Kirche dient der Gemeinde am Westufer des Demerara-Flusses in Vreed-en-Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.181284,
+                        6.808359
+                  ]
+            },
+            {
+                  "name": "Vreed-en-hoop Masjid",
+                  "text": "Ein lokales islamisches Gebetshaus im Küstendorf Vreed-en-Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.182341,
+                        6.806561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Swithins Anglican Church",
+                  "text": "Ez az anglikán templom a Demerara-folyó nyugati partján lévő közösséget szolgálja Vreed-en-Hoopban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.181284,
+                        6.808359
+                  ]
+            },
+            {
+                  "name": "Vreed-en-hoop Masjid",
+                  "text": "Helyi iszlám imaház Vreed-en-Hoop tengerparti falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.182341,
+                        6.806561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Swithins Anglican Church",
+                  "text": "Această biserică anglicană deservește comunitatea de pe malul de vest al râului Demerara din Vreed-en-Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.181284,
+                        6.808359
+                  ]
+            },
+            {
+                  "name": "Vreed-en-hoop Masjid",
+                  "text": "O casă de rugăciune islamică locală în satul de coastă Vreed-en-Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.182341,
+                        6.806561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Swithins Anglican Church",
+                  "text": "This Anglican church serves the community on the west bank of the Demerara River in Vreed-en-Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.181284,
+                        6.808359
+                  ]
+            },
+            {
+                  "name": "Vreed-en-hoop Masjid",
+                  "text": "A local Islamic house of prayer in the coastal village of Vreed-en-Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.182341,
+                        6.806561
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GY-ES",
     coords: [-58.182, 6.81],
@@ -818,7 +1727,628 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["VEHSI signifie Vreed-en-Hoop Shorebase Inc.", "Il comprend la première île artificielle du Guyana.", "Le projet est une coentreprise avec Jan De Nul.", "La base soutient l'extraction pétrolière dans le bloc Stabroek.", "Le remblayage a créé plus de 40 hectares de nouvelle surface.", "Il fait partie d'un plus vaste complexe portuaire et de base côtière."],
     },
   }, {
-    id: "barama-timber-plant-economic-v2",
+    id: "barama-timber-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cci",
+                  "text": "Dieser städtische Aussichtspunkt bietet einen freien Blick auf das umliegende Barama-Werksgelände.",
+                  "category": "natural",
+                  "coords": [
+                        -58.190325,
+                        6.737387
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Als Startpunkt für Beobachtungen bietet dieser Aussichtspunkt einen Blick über das angrenzende Industriegebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.187381,
+                        6.74894
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Dieser abschließende Aussichtsbereich bietet eine weite Perspektive auf die lokale Industriesiedlung.",
+                  "category": "natural",
+                  "coords": [
+                        -58.18783,
+                        6.747331
+                  ]
+            },
+            {
+                  "name": "Cross street D",
+                  "text": "Von diesem Aussichtspunkt auf Straßenebene können Beobachter den kreuzenden Verkehr und das lokale Straßenleben verfolgen.",
+                  "category": "natural",
+                  "coords": [
+                        -58.169404,
+                        6.709964
+                  ]
+            },
+            {
+                  "name": "Giant Anteater Monument",
+                  "text": "Diese auffällige lokale Statue ehrt die heimische Große Ameisenbär-Population der Region mit einer skulpturalen Hommage.",
+                  "category": "historical",
+                  "coords": [
+                        -58.166793,
+                        6.716141
+                  ]
+            },
+            {
+                  "name": "Farm Masjid",
+                  "text": "Diese lokale islamische Gebetsstätte verfügt über charakteristische Gebetsräume, die der muslimischen Gemeinde nahe dem Holzkombinat dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186702,
+                        6.742397
+                  ]
+            },
+            {
+                  "name": "Herstelling Assembly of God",
+                  "text": "Als Assembly of God Kirche bietet dieses christliche Heiligtum Raum für lokale evangelikale Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186733,
+                        6.747632
+                  ]
+            },
+            {
+                  "name": "Place of Pand",
+                  "text": "Diese religiöse Gemeindeeinrichtung dient als engagierter Versammlungsort für lokale spirituelle Praktiken.",
+                  "category": "religious",
+                  "coords": [
+                        -58.176852,
+                        6.71329
+                  ]
+            },
+            {
+                  "name": "Grove Masjid",
+                  "text": "Das islamische Zentrum in Grove verfügt über traditionelle muslimische Gebetsräume für die täglichen lokalen Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.189352,
+                        6.706763
+                  ]
+            },
+            {
+                  "name": "Grove Full Gospel Felloswhip",
+                  "text": "In diesem Saal der Pfingstgemeinde versammeln sich lokale christliche Gläubige zu energiegeladenen Gemeinschaftsgottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.187366,
+                        6.69862
+                  ]
+            },
+            {
+                  "name": "New Life AOG",
+                  "text": "Als Mission der Assembly of God ist dieses Kirchengebäude der christlichen Predigt und der Gemeindearbeit gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.183883,
+                        6.698478
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Dieses bescheidene Gebäude dient als Treffpunkt der Zeugen Jehovas und beherbergt regelmäßige christliche Studienzusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186273,
+                        6.693932
+                  ]
+            },
+            {
+                  "name": "Claybrick Road Church Of Christ",
+                  "text": "An der Claybrick Road gelegen, bietet dieses lokale Heiligtum Platz für die Religionsgemeinschaft der Gegend.",
+                  "category": "religious",
+                  "coords": [
+                        -58.257305,
+                        6.722353
+                  ]
+            },
+            {
+                  "name": "Diamond Workship Centre",
+                  "text": "Dieses moderne christliche Gemeindezentrum bietet ein geräumiges Heiligtum für die Sonntagsgottesdienste der Gemeinde Diamond.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.180075,
+                        6.710723
+                  ]
+            },
+            {
+                  "name": "Just in Case",
+                  "text": "Diese einzigartig benannte christliche Stätte dient als Versammlungsort für die spirituellen Bedürfnisse der lokalen Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.182647,
+                        6.708922
+                  ]
+            },
+            {
+                  "name": "Grove Seventh Day Adventist",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten veranstaltet Sabbatgottesdienste und Gemeindelehren für die Gegend von Grove.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.185869,
+                        6.697481
+                  ]
+            },
+            {
+                  "name": "St. Joseph Husband of Mary Roman Catholic Church",
+                  "text": "Diese dem heiligen Josef geweihte römisch-katholische Kirche zeichnet sich durch traditionelle religiöse Architektur für ihre lokale Pfarrei aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191693,
+                        6.726963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cci",
+                  "text": "Ez a városi kilátópont nyílt rálátást biztosít a környező Barama üzem területére.",
+                  "category": "natural",
+                  "coords": [
+                        -58.190325,
+                        6.737387
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Ez a kezdő megfigyelőhelyként szolgáló kilátópont a szomszédos ipari zónára tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -58.187381,
+                        6.74894
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Ez a záró kilátópont széles perspektívát kínál a helyi ipari településre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.18783,
+                        6.747331
+                  ]
+            },
+            {
+                  "name": "Cross street D",
+                  "text": "Ebből az utcaszintű kilátópontból a megfigyelők figyelemmel kísérhetik a kereszteződő forgalmat és a helyi utcai életet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.169404,
+                        6.709964
+                  ]
+            },
+            {
+                  "name": "Giant Anteater Monument",
+                  "text": "Ez a feltűnő helyi szobor a régió őshonos sörényes hangyászának állít szobrászati emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -58.166793,
+                        6.716141
+                  ]
+            },
+            {
+                  "name": "Farm Masjid",
+                  "text": "Ez a helyi iszlám istentiszteleti hely jellegzetes imatermekkel várja a fűrésztelep közelében élő muszlim közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186702,
+                        6.742397
+                  ]
+            },
+            {
+                  "name": "Herstelling Assembly of God",
+                  "text": "Ez az Assembly of God gyülekezetként működő keresztény szentély helyet biztosít a helyi evangéliumi istentiszteleteknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186733,
+                        6.747632
+                  ]
+            },
+            {
+                  "name": "Place of Pand",
+                  "text": "Ez a közösségi vallási helyszín a helyi spirituális gyakorlatok dedikált gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -58.176852,
+                        6.71329
+                  ]
+            },
+            {
+                  "name": "Grove Masjid",
+                  "text": "A Grove-i iszlám központ hagyományos muszlim imádkozási létesítményekkel rendelkezik a napi helyi istentiszteletekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.189352,
+                        6.706763
+                  ]
+            },
+            {
+                  "name": "Grove Full Gospel Felloswhip",
+                  "text": "Ebben a pünkösdi gyülekezeti teremben gyűlnek össze a helyi keresztény hívők az energikus közösségi istentiszteletekre.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.187366,
+                        6.69862
+                  ]
+            },
+            {
+                  "name": "New Life AOG",
+                  "text": "Az Assembly of God missziójaként ez a templomépület a keresztény igehirdetésnek és a közösség szolgálatának van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.183883,
+                        6.698478
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ez a Jehova Tanúi találkozóhelyeként működő szerény épület rendszeres keresztény tanulmányozásoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186273,
+                        6.693932
+                  ]
+            },
+            {
+                  "name": "Claybrick Road Church Of Christ",
+                  "text": "A Claybrick Road mentén található helyi szentély a környék vallási gyülekezetének ad helyet.",
+                  "category": "religious",
+                  "coords": [
+                        -58.257305,
+                        6.722353
+                  ]
+            },
+            {
+                  "name": "Diamond Workship Centre",
+                  "text": "Ez a modern keresztény közösségi központ tágas szentélyt biztosít a Diamond közösség vasárnapi istentiszteleteinek.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.180075,
+                        6.710723
+                  ]
+            },
+            {
+                  "name": "Just in Case",
+                  "text": "Ez az egyedi nevű keresztény helyszín gyülekezőhelyként szolgál a helyi környék spirituális szükségleteinek kielégítésére.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.182647,
+                        6.708922
+                  ]
+            },
+            {
+                  "name": "Grove Seventh Day Adventist",
+                  "text": "Ez a Hetednapi Adventista templom szombati istentiszteleteknek és közösségi tanításoknak ad otthont a Grove környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.185869,
+                        6.697481
+                  ]
+            },
+            {
+                  "name": "St. Joseph Husband of Mary Roman Catholic Church",
+                  "text": "A Szent Józsefnek szentelt római katolikus templom hagyományos vallási építészettel rendelkezik a helyi plébánia számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191693,
+                        6.726963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cci",
+                  "text": "Acest punct de observație urban oferă o vedere deschisă spre zona înconjurătoare a fabricii Barama.",
+                  "category": "natural",
+                  "coords": [
+                        -58.190325,
+                        6.737387
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Servind ca zonă de observație de pornire, acest punct de belvedere privește peste zona industrială adiacentă.",
+                  "category": "natural",
+                  "coords": [
+                        -58.187381,
+                        6.74894
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Această zonă de belvedere finală oferă o perspectivă largă asupra așezării industriale locale.",
+                  "category": "natural",
+                  "coords": [
+                        -58.18783,
+                        6.747331
+                  ]
+            },
+            {
+                  "name": "Cross street D",
+                  "text": "De la acest punct de belvedere la nivelul străzii, observatorii pot monitoriza traficul intersectat și activitatea stradală locală.",
+                  "category": "natural",
+                  "coords": [
+                        -58.169404,
+                        6.709964
+                  ]
+            },
+            {
+                  "name": "Giant Anteater Monument",
+                  "text": "Această statuie locală impresionantă onorează fauna nativă de furnicari giganți a regiunii cu un tribut sculptural.",
+                  "category": "historical",
+                  "coords": [
+                        -58.166793,
+                        6.716141
+                  ]
+            },
+            {
+                  "name": "Farm Masjid",
+                  "text": "Acest lăcaș de cult islamic local prezintă săli de rugăciune caracteristice, deservind comunitatea musulmană din apropierea fabricii de cherestea.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186702,
+                        6.742397
+                  ]
+            },
+            {
+                  "name": "Herstelling Assembly of God",
+                  "text": "Funcționând ca o biserică Assembly of God, acest sanctuar creștin oferă spațiu pentru închinarea evanghelică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186733,
+                        6.747632
+                  ]
+            },
+            {
+                  "name": "Place of Pand",
+                  "text": "Acest loc religios comunitar servește ca spațiu dedicat de adunare pentru practicile spirituale locale.",
+                  "category": "religious",
+                  "coords": [
+                        -58.176852,
+                        6.71329
+                  ]
+            },
+            {
+                  "name": "Grove Masjid",
+                  "text": "Centrul islamic Grove dispune de facilități tradiționale de rugăciune musulmană pentru închinarea zilnică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.189352,
+                        6.706763
+                  ]
+            },
+            {
+                  "name": "Grove Full Gospel Felloswhip",
+                  "text": "Această sală de congregație penticostală adună credincioșii creștini locali pentru slujbe pline de energie.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.187366,
+                        6.69862
+                  ]
+            },
+            {
+                  "name": "New Life AOG",
+                  "text": "O misiune Assembly of God, această clădire a bisericii este dedicată predicării creștine și asistenței comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.183883,
+                        6.698478
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Funcționând ca loc de întâlnire pentru Martorii lui Iehova, această clădire modestă găzduiește sesiuni regulate de studiu creștin.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186273,
+                        6.693932
+                  ]
+            },
+            {
+                  "name": "Claybrick Road Church Of Christ",
+                  "text": "Situat de-a lungul Claybrick Road, acest sanctuar local găzduiește congregația religioasă a zonei.",
+                  "category": "religious",
+                  "coords": [
+                        -58.257305,
+                        6.722353
+                  ]
+            },
+            {
+                  "name": "Diamond Workship Centre",
+                  "text": "Acest centru modern de părtășie creștină oferă un sanctuar spațios pentru slujbele de duminică ale comunității Diamond.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.180075,
+                        6.710723
+                  ]
+            },
+            {
+                  "name": "Just in Case",
+                  "text": "Un sit creștin numit unic, acest loc de adunare servește nevoilor spirituale ale cartierului local.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.182647,
+                        6.708922
+                  ]
+            },
+            {
+                  "name": "Grove Seventh Day Adventist",
+                  "text": "Această biserică Adventistă de Ziua a Șaptea găzduiește slujbe de Sabat și învățături comunitare pentru zona Grove.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.185869,
+                        6.697481
+                  ]
+            },
+            {
+                  "name": "St. Joseph Husband of Mary Roman Catholic Church",
+                  "text": "Dedicată Sfântului Iosif, această biserică romano-catolică prezintă o arhitectură religioasă tradițională pentru parohia sa locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191693,
+                        6.726963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cci",
+                  "text": "This urban observation point offers an open view towards the surrounding Barama plant area.",
+                  "category": "natural",
+                  "coords": [
+                        -58.190325,
+                        6.737387
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Serving as a starting observation area, this viewpoint looks out over the adjacent industrial zone.",
+                  "category": "natural",
+                  "coords": [
+                        -58.187381,
+                        6.74894
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "This concluding viewpoint area offers a broad perspective of the local industrial settlement.",
+                  "category": "natural",
+                  "coords": [
+                        -58.18783,
+                        6.747331
+                  ]
+            },
+            {
+                  "name": "Cross street D",
+                  "text": "From this street-level viewpoint, observers can monitor the crossing traffic and local street activity.",
+                  "category": "natural",
+                  "coords": [
+                        -58.169404,
+                        6.709964
+                  ]
+            },
+            {
+                  "name": "Giant Anteater Monument",
+                  "text": "This striking local statue honors the region's native giant anteater wildlife with a sculptural tribute.",
+                  "category": "historical",
+                  "coords": [
+                        -58.166793,
+                        6.716141
+                  ]
+            },
+            {
+                  "name": "Farm Masjid",
+                  "text": "This local Islamic place of worship features characteristic prayer halls serving the Muslim community near the timber plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186702,
+                        6.742397
+                  ]
+            },
+            {
+                  "name": "Herstelling Assembly of God",
+                  "text": "Operating as an Assembly of God church, this Christian sanctuary provides space for local evangelical worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186733,
+                        6.747632
+                  ]
+            },
+            {
+                  "name": "Place of Pand",
+                  "text": "This community religious venue serves as a dedicated gathering space for local spiritual practices.",
+                  "category": "religious",
+                  "coords": [
+                        -58.176852,
+                        6.71329
+                  ]
+            },
+            {
+                  "name": "Grove Masjid",
+                  "text": "The Grove Islamic center features traditional Muslim prayer facilities for local daily worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.189352,
+                        6.706763
+                  ]
+            },
+            {
+                  "name": "Grove Full Gospel Felloswhip",
+                  "text": "This Pentecostal congregation hall gathers local Christian believers for energetic fellowship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.187366,
+                        6.69862
+                  ]
+            },
+            {
+                  "name": "New Life AOG",
+                  "text": "An Assembly of God mission, this church building is dedicated to Christian preaching and community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.183883,
+                        6.698478
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Functioning as a Jehovah's Witnesses meeting place, this modest building hosts regular Christian study sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.186273,
+                        6.693932
+                  ]
+            },
+            {
+                  "name": "Claybrick Road Church Of Christ",
+                  "text": "Located along Claybrick Road, this local sanctuary accommodates the area's religious congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -58.257305,
+                        6.722353
+                  ]
+            },
+            {
+                  "name": "Diamond Workship Centre",
+                  "text": "This modern Christian fellowship center provides a spacious sanctuary for the Diamond community's Sunday services.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.180075,
+                        6.710723
+                  ]
+            },
+            {
+                  "name": "Just in Case",
+                  "text": "A uniquely named Christian site, this gathering place serves the local neighborhood's spiritual needs.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.182647,
+                        6.708922
+                  ]
+            },
+            {
+                  "name": "Grove Seventh Day Adventist",
+                  "text": "This Seventh-Day Adventist church hosts Sabbath services and community teachings for the Grove area.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.185869,
+                        6.697481
+                  ]
+            },
+            {
+                  "name": "St. Joseph Husband of Mary Roman Catholic Church",
+                  "text": "Dedicated to St. Joseph, this Roman Catholic church features traditional religious architecture for its local parish.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.191693,
+                        6.726963
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-ES",
     coords: [-58.18, 6.75],
@@ -861,7 +2391,196 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Fondée en 1991 sous forme de coentreprise.", "Située à Land of Canaan au bord du fleuve Demerara.", "Filiale du groupe malaisien Samling.", "Gérait autrefois 1,6 million d'hectares de superficie forestière.", "Spécialisée dans la fabrication de contreplaqué et de placage.", "Employeur majeur dans la région d'East Bank Demerara."],
     },
   }, {
-    id: "mazaruni-quarry-economic-v2",
+    id: "mazaruni-quarry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mazaruni Prison",
+                  "text": "Eine historische Strafanstalt an den Ufern des Mazaruni-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.656236,
+                        6.402245
+                  ]
+            },
+            {
+                  "name": "Auwarai landing",
+                  "text": "Ein Bootsanlegeplatz am Flussufer, der einen malerischen Blick auf die angrenzende Wasserstraße bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.675976,
+                        6.377197
+                  ]
+            },
+            {
+                  "name": "Marshall Falls",
+                  "text": "Ein malerischer natürlicher Wasserfall, der eine raue landschaftliche Attraktion in der Mazaruni-Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.717416,
+                        6.376227
+                  ]
+            },
+            {
+                  "name": "Bk fallz",
+                  "text": "Eine natürliche Wasserkaskade, die einen erfrischenden und malerischen Zwischenstopp in der Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.697439,
+                        6.358451
+                  ]
+            },
+            {
+                  "name": "Bk falls",
+                  "text": "Ein rauer lokaler Wasserfall, der als beliebte Naturattraktion für Besucher dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.693321,
+                        6.363426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mazaruni Prison",
+                  "text": "Történelmi büntetés-végrehajtási intézet a Mazaruni-folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.656236,
+                        6.402245
+                  ]
+            },
+            {
+                  "name": "Auwarai landing",
+                  "text": "Folyóparti csónakkikötő, amely festői kilátást nyújt a szomszédos vízi útra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.675976,
+                        6.377197
+                  ]
+            },
+            {
+                  "name": "Marshall Falls",
+                  "text": "Festői természetes vízesés, amely vadregényes látványosságot kínál a Mazaruni táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.717416,
+                        6.376227
+                  ]
+            },
+            {
+                  "name": "Bk fallz",
+                  "text": "Természetes vízlépcső, amely frissítő és festői megállót biztosít a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.697439,
+                        6.358451
+                  ]
+            },
+            {
+                  "name": "Bk falls",
+                  "text": "Egy vadregényes helyi vízesés, amely népszerű természeti látványosságként szolgál a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.693321,
+                        6.363426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mazaruni Prison",
+                  "text": "O unitate penală istorică situată pe malurile râului Mazaruni.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.656236,
+                        6.402245
+                  ]
+            },
+            {
+                  "name": "Auwarai landing",
+                  "text": "Un punct de acostare a bărcilor pe malul râului care oferă vederi pitorești asupra cursului de apă adiacent.",
+                  "category": "natural",
+                  "coords": [
+                        -58.675976,
+                        6.377197
+                  ]
+            },
+            {
+                  "name": "Marshall Falls",
+                  "text": "O cascadă naturală pitorească care oferă o atracție peisagistică sălbatică în cadrul peisajului Mazaruni.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.717416,
+                        6.376227
+                  ]
+            },
+            {
+                  "name": "Bk fallz",
+                  "text": "O cascadă naturală de apă care oferă un popas revigorant și pitoresc în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.697439,
+                        6.358451
+                  ]
+            },
+            {
+                  "name": "Bk falls",
+                  "text": "O cascadă locală sălbatică care servește ca o atracție naturală populară pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.693321,
+                        6.363426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mazaruni Prison",
+                  "text": "A historic penal facility situated along the banks of the Mazaruni River.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.656236,
+                        6.402245
+                  ]
+            },
+            {
+                  "name": "Auwarai landing",
+                  "text": "A riverside boat landing point that provides scenic views over the adjacent waterway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.675976,
+                        6.377197
+                  ]
+            },
+            {
+                  "name": "Marshall Falls",
+                  "text": "A picturesque natural waterfall offering a rugged scenic attraction within the Mazaruni landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.717416,
+                        6.376227
+                  ]
+            },
+            {
+                  "name": "Bk fallz",
+                  "text": "A natural water cascade providing a refreshing and scenic stopover in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.697439,
+                        6.358451
+                  ]
+            },
+            {
+                  "name": "Bk falls",
+                  "text": "A rugged local waterfall that serves as a popular natural attraction for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.693321,
+                        6.363426
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-CU",
     coords: [-58.65, 6.4],
@@ -947,7 +2666,448 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Exploitée par Toolsie Persaud Ltd., un conglomérat de premier plan.", "Située à St. Mary's sur le fleuve Essequibo.", "L'un des plus grands producteurs privés de granit de Guyane.", "Fournit des matériaux pour les routes, les ponts et les bâtiments.", "Exploite les ressources géologiques du bouclier guyanais.", "Dispose de sa propre flotte de barges pour le transport."],
     },
   }, {
-    id: "guyana-gold-board-economic-v2",
+    id: "guyana-gold-board-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harpy Eagle Monument",
+                  "text": "Diese Gedenkskulptur feiert den imposanten Harpyienadler, einen majestätischen Raubvogel, der in den Regenwäldern Guyanas heimisch ist.",
+                  "category": "historical",
+                  "coords": [
+                        -58.145566,
+                        6.78789
+                  ]
+            },
+            {
+                  "name": "West Ruimveldt Wesleyan",
+                  "text": "Diese Wesleyan-Kirche bietet ein engagiertes Heiligtum für protestantische Gottesdienste im Bezirk West Ruimveldt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.155375,
+                        6.793515
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Dieser Königreichssaal bietet der Gemeinde biblische Bildung und fungiert als lokales Studienzentrum für die Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.144664,
+                        6.799619
+                  ]
+            },
+            {
+                  "name": "Lodge Truth Church",
+                  "text": "Diese christliche Kirche im Gebiet Lodge bietet einen einladenden Gemeindesaal für lokale evangelikale Gläubige.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.150213,
+                        6.8015
+                  ]
+            },
+            {
+                  "name": "Wright's Temple A.M.E Church",
+                  "text": "Diese historische afrikanische methodistisch-bischöfliche Kirche ist eine etablierte protestantische Kultstätte, die der lokalen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.151375,
+                        6.790961
+                  ]
+            },
+            {
+                  "name": "Lighthouse Chapel Intl.",
+                  "text": "Diese christliche Kapelle dient der lokalen Gemeinde als Raum für internationale Gottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -58.150744,
+                        6.793778
+                  ]
+            },
+            {
+                  "name": "St. Pius Roman Catholic Church",
+                  "text": "Diese katholische Kirche dient der lokalen Gemeinde mit traditionellen römisch-katholischen Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153272,
+                        6.794239
+                  ]
+            },
+            {
+                  "name": "Salvation Army Church",
+                  "text": "Dieses vom Heilsarmee-Netzwerk betriebene religiöse Zentrum bietet sowohl Gottesdienste als auch Gemeinschaftsunterstützung.",
+                  "category": "religious",
+                  "coords": [
+                        -58.146067,
+                        6.793338
+                  ]
+            },
+            {
+                  "name": "Church of the Transfiguration",
+                  "text": "Diese dem biblischen Ereignis der Verklärung geweihte Kirche bietet einen ruhigen Ort für das Gebet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.142683,
+                        6.794359
+                  ]
+            },
+            {
+                  "name": "Miracle Centre",
+                  "text": "Dieses christliche Zentrum versammelt die lokale Gemeinschaft zu charismatischen Gottesdiensten und Gebetstreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.141034,
+                        6.799578
+                  ]
+            },
+            {
+                  "name": "Christian Assembly",
+                  "text": "Diese als lokale Versammlung dienende christliche Kirche bietet ihrer Gemeinde einen traditionellen Treffpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.139334,
+                        6.799096
+                  ]
+            },
+            {
+                  "name": "Winners Cathedral",
+                  "text": "Diese große christliche Einrichtung dient als zentraler Versammlungsort für die Winners-Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.14613,
+                        6.801433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Harpy Eagle Monument",
+                  "text": "Ez az emlékszobor az impozáns hárpia sast, Guyana esőerdőiben őshonos fenséges ragadozó madarat ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -58.145566,
+                        6.78789
+                  ]
+            },
+            {
+                  "name": "West Ruimveldt Wesleyan",
+                  "text": "Ez a Wesleyánus templom dedikált szentélyt biztosít a protestáns istentiszteletekhez a West Ruimveldt negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.155375,
+                        6.793515
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A közösség bibliai oktatását biztosító Királyság-terem a Jehova Tanúi helyi tanulmányozóközpontjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.144664,
+                        6.799619
+                  ]
+            },
+            {
+                  "name": "Lodge Truth Church",
+                  "text": "A Lodge negyedben található keresztény templom barátságos gyülekezeti termet kínál a helyi evangéliumi hívők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.150213,
+                        6.8015
+                  ]
+            },
+            {
+                  "name": "Wright's Temple A.M.E Church",
+                  "text": "Ez a történelmi Afrikai Metodista Episzkopális templom egy bejáratott protestáns istentiszteleti hely, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.151375,
+                        6.790961
+                  ]
+            },
+            {
+                  "name": "Lighthouse Chapel Intl.",
+                  "text": "Ez a keresztény kápolna a helyi gyülekezetet szolgálja ki nemzetközi istentiszteletek helyszíneként.",
+                  "category": "religious",
+                  "coords": [
+                        -58.150744,
+                        6.793778
+                  ]
+            },
+            {
+                  "name": "St. Pius Roman Catholic Church",
+                  "text": "Ez a katolikus templom hagyományos római katolikus misékkel szolgálja a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153272,
+                        6.794239
+                  ]
+            },
+            {
+                  "name": "Salvation Army Church",
+                  "text": "Az Üdvhadsereg által működtetett vallási központ istentiszteleteket és közösségi támogatást egyaránt nyújt.",
+                  "category": "religious",
+                  "coords": [
+                        -58.146067,
+                        6.793338
+                  ]
+            },
+            {
+                  "name": "Church of the Transfiguration",
+                  "text": "A bibliai színeváltozás eseményének szentelt keresztény templom csendes teret biztosít az imádkozáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.142683,
+                        6.794359
+                  ]
+            },
+            {
+                  "name": "Miracle Centre",
+                  "text": "Ez a keresztény központ karizmatikus istentiszteletekre és imaösszejövetelekre gyűjti össze a helyi közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.141034,
+                        6.799578
+                  ]
+            },
+            {
+                  "name": "Christian Assembly",
+                  "text": "A helyi gyülekezetként működő keresztény templom hagyományos találkozóhelyet biztosít közössége számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.139334,
+                        6.799096
+                  ]
+            },
+            {
+                  "name": "Winners Cathedral",
+                  "text": "Ez a nagy keresztény istentiszteleti létesítmény a Winners gyülekezet központi gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.14613,
+                        6.801433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harpy Eagle Monument",
+                  "text": "Această sculptură comemorativă celebrează impunătoarea acvilă harpie, o pasăre de pradă maiestuoasă originară din pădurile tropicale din Guyana.",
+                  "category": "historical",
+                  "coords": [
+                        -58.145566,
+                        6.78789
+                  ]
+            },
+            {
+                  "name": "West Ruimveldt Wesleyan",
+                  "text": "Această biserică wesleyană oferă un sanctuar dedicat pentru închinarea protestantă în districtul West Ruimveldt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.155375,
+                        6.793515
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Oferind educație biblică comunității, această Sală a Regatului acționează ca centru local de studiu pentru Martorii lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.144664,
+                        6.799619
+                  ]
+            },
+            {
+                  "name": "Lodge Truth Church",
+                  "text": "Situată în zona Lodge, această biserică creștină oferă o sală de congregație primitoare pentru credincioșii evanghelici locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.150213,
+                        6.8015
+                  ]
+            },
+            {
+                  "name": "Wright's Temple A.M.E Church",
+                  "text": "Această biserică istorică episcopală metodistă africană este un loc de cult protestant stabilit care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.151375,
+                        6.790961
+                  ]
+            },
+            {
+                  "name": "Lighthouse Chapel Intl.",
+                  "text": "Această capelă creștină servește congregația locală ca spațiu pentru slujbe internaționale.",
+                  "category": "religious",
+                  "coords": [
+                        -58.150744,
+                        6.793778
+                  ]
+            },
+            {
+                  "name": "St. Pius Roman Catholic Church",
+                  "text": "Această biserică catolică servește comunitatea locală cu liturghii tradiționale romano-catolice.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153272,
+                        6.794239
+                  ]
+            },
+            {
+                  "name": "Salvation Army Church",
+                  "text": "Acest centru religios este operat de Armata Salvării, oferind atât slujbe de închinare, cât și sprijin comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        -58.146067,
+                        6.793338
+                  ]
+            },
+            {
+                  "name": "Church of the Transfiguration",
+                  "text": "Dedicată evenimentului biblic al Schimbării la Față, această biserică creștină oferă un spațiu liniștit pentru rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.142683,
+                        6.794359
+                  ]
+            },
+            {
+                  "name": "Miracle Centre",
+                  "text": "Acest centru de închinare creștină adună comunitatea locală pentru slujbe carismatice și întâlniri de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.141034,
+                        6.799578
+                  ]
+            },
+            {
+                  "name": "Christian Assembly",
+                  "text": "Funcționând ca o adunare locală, această biserică creștină oferă un loc tradițional de întâlnire pentru congregația sa.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.139334,
+                        6.799096
+                  ]
+            },
+            {
+                  "name": "Winners Cathedral",
+                  "text": "Această mare facilitate de închinare creștină servește ca loc central de adunare pentru congregația Winners.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.14613,
+                        6.801433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harpy Eagle Monument",
+                  "text": "This commemorative sculpture celebrates the imposing harpy eagle, a majestic bird of prey native to Guyana's rainforests.",
+                  "category": "historical",
+                  "coords": [
+                        -58.145566,
+                        6.78789
+                  ]
+            },
+            {
+                  "name": "West Ruimveldt Wesleyan",
+                  "text": "This Wesleyan church provides a dedicated sanctuary for Protestant worship in the West Ruimveldt district.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.155375,
+                        6.793515
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Providing biblical education to the community, this Kingdom Hall acts as the local study center for Jehovah's Witnesses.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.144664,
+                        6.799619
+                  ]
+            },
+            {
+                  "name": "Lodge Truth Church",
+                  "text": "Located in the Lodge area, this Christian church offers a welcoming congregation hall for local evangelical worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.150213,
+                        6.8015
+                  ]
+            },
+            {
+                  "name": "Wright's Temple A.M.E Church",
+                  "text": "This historic African Methodist Episcopal church is an established place of Protestant worship serving the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.151375,
+                        6.790961
+                  ]
+            },
+            {
+                  "name": "Lighthouse Chapel Intl.",
+                  "text": "This Christian chapel serves the local congregation as a space for international worship.",
+                  "category": "religious",
+                  "coords": [
+                        -58.150744,
+                        6.793778
+                  ]
+            },
+            {
+                  "name": "St. Pius Roman Catholic Church",
+                  "text": "This Catholic church serves the local community with traditional Roman Catholic mass.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153272,
+                        6.794239
+                  ]
+            },
+            {
+                  "name": "Salvation Army Church",
+                  "text": "This religious center is operated by the Salvation Army, offering both worship services and community support.",
+                  "category": "religious",
+                  "coords": [
+                        -58.146067,
+                        6.793338
+                  ]
+            },
+            {
+                  "name": "Church of the Transfiguration",
+                  "text": "Dedicated to the biblical event of the Transfiguration, this Christian church provides a quiet space for prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.142683,
+                        6.794359
+                  ]
+            },
+            {
+                  "name": "Miracle Centre",
+                  "text": "This Christian worship center gathers the local community for charismatic services and prayer meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.141034,
+                        6.799578
+                  ]
+            },
+            {
+                  "name": "Christian Assembly",
+                  "text": "Functioning as a local assembly, this Christian church provides a traditional meeting place for its congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.139334,
+                        6.799096
+                  ]
+            },
+            {
+                  "name": "Winners Cathedral",
+                  "text": "This large Christian worship facility serves as a central gathering place for the Winners congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.14613,
+                        6.801433
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-DE",
     coords: [-58.15, 6.8],
@@ -1033,7 +3193,232 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Exploitée par la Bauxite Company of Guyana Inc. (BCGI).", "RUSAL (Russie) est l'actionnaire majoritaire depuis 2006.", "Située sur la rivière Berbice dans la Région 10.", "La bauxite de cette mine possède un haut degré de pureté.", "Le minerai est acheminé par voie fluviale vers les ports d'exportation.", "Contribution importante aux recettes d'exportation de la Guyane."],
     },
   }, {
-    id: "cgx-berbice-deep-water-port-economic-v2",
+    id: "cgx-berbice-deep-water-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort St. Andries",
+                  "text": "Die historischen Ruinen einer ehemaligen holländischen Festung, die einst die Mündung des Berbice-Flusses bewachte.",
+                  "category": "historical",
+                  "coords": [
+                        -57.512386,
+                        6.25873
+                  ]
+            },
+            {
+                  "name": "Indian Arrival Monument",
+                  "text": "Ein prominentes Denkmal in Berbice, das an die Ankunft und die Beiträge der ostindischen Vertragsarbeiter in Guyana erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -57.492357,
+                        6.281461
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Dieser lokale Mandir dient als spiritueller Versammlungsort für die Hindu-Gemeinde in der Nähe der Tiefseehafenentwicklung.",
+                  "category": "religious",
+                  "coords": [
+                        -57.453845,
+                        6.288958
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten dient der örtlichen christlichen Gemeinde und befindet sich in der Nähe des wachsenden Hafengebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.498976,
+                        6.254886
+                  ]
+            },
+            {
+                  "name": "Mindir",
+                  "text": "Dieser traditionelle Hindu-Tempel bietet den Gläubigen der Region einen ruhigen Raum für Gebete und religiöse Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.496822,
+                        6.256263
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Diese örtliche Church of Christ betreut die christliche Gemeinde, die rund um das Tiefseehafenprojekt Berbice lebt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.493806,
+                        6.253024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort St. Andries",
+                  "text": "Egy egykori holland erőd történelmi romjai, amely egykor a Berbice folyó torkolatát őrizte.",
+                  "category": "historical",
+                  "coords": [
+                        -57.512386,
+                        6.25873
+                  ]
+            },
+            {
+                  "name": "Indian Arrival Monument",
+                  "text": "Egy kiemelkedő emlékmű Berbice-ben, amely a kelet-indiai szerződéses bevándorlók guyanai érkezésének és hozzájárulásának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -57.492357,
+                        6.281461
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Ez a helyi mandir a mélyvízi kikötő fejlesztésének közelében élő hindu közösség spirituális gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -57.453845,
+                        6.288958
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "A helyi keresztény gyülekezetet szolgáló Hetednapi Adventista templom a bővülő kikötőterület közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.498976,
+                        6.254886
+                  ]
+            },
+            {
+                  "name": "Mindir",
+                  "text": "Ez a hagyományos hindu templom csendes teret kínál az imádkozásra és a vallási szertartásokra a régió hívői számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.496822,
+                        6.256263
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Ez a helyi Krisztus Egyháza a Berbice mélyvízi kikötő projekt körül élő keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.493806,
+                        6.253024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort St. Andries",
+                  "text": "Ruinele istorice ale unui fost fort olandez care păzea odată gura râului Berbice.",
+                  "category": "historical",
+                  "coords": [
+                        -57.512386,
+                        6.25873
+                  ]
+            },
+            {
+                  "name": "Indian Arrival Monument",
+                  "text": "Un monument proeminent în Berbice care comemorează sosirea și contribuțiile imigranților indieni în Guyana.",
+                  "category": "historical",
+                  "coords": [
+                        -57.492357,
+                        6.281461
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Acest mandir local servește drept loc de adunare spirituală pentru comunitatea hindusă din apropierea zonei portului de apă adâncă.",
+                  "category": "religious",
+                  "coords": [
+                        -57.453845,
+                        6.288958
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "Deservind congregația creștină locală, această biserică adventistă de ziua a șaptea este situată în apropierea zonei portuare în expansiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.498976,
+                        6.254886
+                  ]
+            },
+            {
+                  "name": "Mindir",
+                  "text": "Acest templu hindus tradițional oferă un spațiu liniștit pentru rugăciune și ceremonii religioase pentru credincioșii din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.496822,
+                        6.256263
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "Această Biserică locală a lui Hristos deservește comunitatea creștină care trăiește în jurul proiectului portului de apă adâncă Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.493806,
+                        6.253024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort St. Andries",
+                  "text": "The historical ruins of a former Dutch fort that once guarded the mouth of the Berbice River.",
+                  "category": "historical",
+                  "coords": [
+                        -57.512386,
+                        6.25873
+                  ]
+            },
+            {
+                  "name": "Indian Arrival Monument",
+                  "text": "A prominent monument in Berbice commemorating the arrival and contributions of East Indian indentured immigrants to Guyana.",
+                  "category": "historical",
+                  "coords": [
+                        -57.492357,
+                        6.281461
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "This local Mandir serves as a spiritual gathering place for the Hindu community near the deep water port development.",
+                  "category": "religious",
+                  "coords": [
+                        -57.453845,
+                        6.288958
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "Serving the local Christian congregation, this Seventh Day Adventist church is situated near the expanding port area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.498976,
+                        6.254886
+                  ]
+            },
+            {
+                  "name": "Mindir",
+                  "text": "This traditional Hindu temple offers a quiet space for prayer and religious ceremonies for the region's worshippers.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.496822,
+                        6.256263
+                  ]
+            },
+            {
+                  "name": "Church of Christ",
+                  "text": "This local Church of Christ ministers to the Christian community living around the Berbice deep water port project.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.493806,
+                        6.253024
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "GY-EB",
     coords: [-57.51, 6.26],
@@ -1119,7 +3504,124 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Située dans le district de Barima-Waini (Région 1).", "Exploitée par Guyana Manganese Inc. (GMI/Bosai).", "Ancien site de la société américaine Union Carbide.", "Le manganèse est crucial pour l'industrie sidérurgique mondiale.", "Comprend une liaison ferroviaire avec le port de Port Kaituma.", "La réouverture a créé des centaines d'emplois dans l'arrière-pays."],
     },
   }, {
-    id: "eccles-industrial-estate-economic-v2",
+    id: "eccles-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ball field",
+                  "text": "Dieser offene Rasensportplatz im Gebiet Eccles bietet einen Erholungsraum für lokale Cricket- und Fußballspiele.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.173372,
+                        6.764699
+                  ]
+            },
+            {
+                  "name": "Block I Eccles EBB",
+                  "text": "Dieser erhöhte Punkt mit Blick auf das Industriegebiet bietet eine klare Sicht auf die umliegenden Betonblock-Strukturen.",
+                  "category": "natural",
+                  "coords": [
+                        -58.155848,
+                        6.76654
+                  ]
+            },
+            {
+                  "name": "The Jaguar Monument",
+                  "text": "Dieses nahe dem Industriegebiet errichtete Denkmal zeigt eine Skulptur von Guyanas Nationaltier, dem Jaguar.",
+                  "category": "historical",
+                  "coords": [
+                        -58.15242,
+                        6.763277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ball field",
+                  "text": "Ez az Eccles területén található nyitott füves sportpálya szabadidős teret biztosít a helyi krikett- és futballmérkőzésekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.173372,
+                        6.764699
+                  ]
+            },
+            {
+                  "name": "Block I Eccles EBB",
+                  "text": "Az ipari birtokra néző magaslati pont tiszta kilátást nyújt a környező betonblokk-elrendezésekre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.155848,
+                        6.76654
+                  ]
+            },
+            {
+                  "name": "The Jaguar Monument",
+                  "text": "Az ipari park közelében emelt emlékmű Guyana nemzeti állatának, a jaguárnak a szobrát ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        -58.15242,
+                        6.763277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ball field",
+                  "text": "Acest teren de sport deschis cu iarbă din zona Eccles oferă un spațiu de agrement pentru meciurile locale de cricket și fotbal.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.173372,
+                        6.764699
+                  ]
+            },
+            {
+                  "name": "Block I Eccles EBB",
+                  "text": "Având vedere la zona industrială, acest punct ridicat oferă o vedere clară asupra amenajărilor din blocuri de beton din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -58.155848,
+                        6.76654
+                  ]
+            },
+            {
+                  "name": "The Jaguar Monument",
+                  "text": "Ridicat în apropierea zonei industriale, acest monument prezintă o sculptură a animalului național din Guyana, jaguarul.",
+                  "category": "historical",
+                  "coords": [
+                        -58.15242,
+                        6.763277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ball field",
+                  "text": "This open grassy sports pitch in the Eccles area provides a recreational space for local cricket and football matches.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.173372,
+                        6.764699
+                  ]
+            },
+            {
+                  "name": "Block I Eccles EBB",
+                  "text": "Overlooking the industrial estate, this elevated spot gives a clear view of the surrounding concrete block layouts.",
+                  "category": "natural",
+                  "coords": [
+                        -58.155848,
+                        6.76654
+                  ]
+            },
+            {
+                  "name": "The Jaguar Monument",
+                  "text": "Erected near the industrial estate, this monument features a sculpture of Guyana's national animal, the jaguar.",
+                  "category": "historical",
+                  "coords": [
+                        -58.15242,
+                        6.763277
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-DE",
     coords: [-58.17, 6.76],
@@ -1162,7 +3664,196 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Situé sur l'East Bank Demerara, près de Georgetown.", "Centre de transformation alimentaire et de fabrication.", "Pôle majeur pour les fournisseurs du secteur pétrolier et gazier.", "Soutien étatique ciblé pour les entrepreneurs locaux.", "Excellente connexion avec le port du fleuve Demerara.", "L'une des zones industrielles à la croissance la plus rapide."],
     },
   }, {
-    id: "coldingen-industrial-estate-economic-v2",
+    id: "coldingen-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "End",
+                  "text": "Dieser Aussichtspunkt markiert den Rand des Coldingen Industrial Estate und bietet einen Blick auf die lokalen Produktions- und Verarbeitungsanlagen.",
+                  "category": "natural",
+                  "coords": [
+                        -57.960562,
+                        6.739354
+                  ]
+            },
+            {
+                  "name": "Start 8",
+                  "text": "Von diesem Aussichtspunkt aus können Beobachter die aktiven kommerziellen und industriellen Abläufe von Coldingen überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        -57.983679,
+                        6.725694
+                  ]
+            },
+            {
+                  "name": "Start 5",
+                  "text": "Dieser Beobachtungspunkt bietet einen Überblick über das strukturierte Layout und das geschäftige Treiben innerhalb des Industriegebiets.",
+                  "category": "natural",
+                  "coords": [
+                        -57.975164,
+                        6.707545
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Dieser ausgewiesene Aussichtsbereich erfasst die täglichen industriellen Bewegungen und die Infrastruktur der Wirtschaftszone Coldingen.",
+                  "category": "natural",
+                  "coords": [
+                        -57.977716,
+                        6.697073
+                  ]
+            },
+            {
+                  "name": "Start 1",
+                  "text": "Dieser Aussichtspunkt am Rande des Anwesens überblickt die weitläufige industrielle Infrastruktur von Coldingen.",
+                  "category": "natural",
+                  "coords": [
+                        -57.978316,
+                        6.69526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "End",
+                  "text": "Ez a kilátó a Coldingen Ipari Birtok szélét jelöli, ahonnan a helyi gyártó- és feldolgozó létesítményekre nyílik rálátás.",
+                  "category": "natural",
+                  "coords": [
+                        -57.960562,
+                        6.739354
+                  ]
+            },
+            {
+                  "name": "Start 8",
+                  "text": "Ebből a kilátóból a megfigyelők áttekinthetik Coldingen aktív kereskedelmi és ipari tevékenységeit.",
+                  "category": "natural",
+                  "coords": [
+                        -57.983679,
+                        6.725694
+                  ]
+            },
+            {
+                  "name": "Start 5",
+                  "text": "Ez a megfigyelőhely áttekintést nyújt az ipari terület strukturált elrendezéséről és nyüzsgő tevékenységéről.",
+                  "category": "natural",
+                  "coords": [
+                        -57.975164,
+                        6.707545
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Ez a kijelölt kilátóterület megörökíti a coldingeni gazdasági övezet napi ipari mozgását és infrastruktúráját.",
+                  "category": "natural",
+                  "coords": [
+                        -57.977716,
+                        6.697073
+                  ]
+            },
+            {
+                  "name": "Start 1",
+                  "text": "A birtok peremén található kilátó Coldingen kiterjedt ipari infrastruktúrájára nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        -57.978316,
+                        6.69526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "End",
+                  "text": "Acest punct de belvedere marchează marginea Coldingen Industrial Estate, oferind o privire asupra facilităților locale de producție și procesare.",
+                  "category": "natural",
+                  "coords": [
+                        -57.960562,
+                        6.739354
+                  ]
+            },
+            {
+                  "name": "Start 8",
+                  "text": "Observatorii pot supraveghea operațiunile comerciale și industriale active din Coldingen din acest punct de observație.",
+                  "category": "natural",
+                  "coords": [
+                        -57.983679,
+                        6.725694
+                  ]
+            },
+            {
+                  "name": "Start 5",
+                  "text": "Acest loc de observare oferă o privire de ansamblu asupra aspectului structurat și a activității pline de viață din cadrul zonei industriale.",
+                  "category": "natural",
+                  "coords": [
+                        -57.975164,
+                        6.707545
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Această zonă de vizionare desemnată surprinde mișcarea industrială zilnică și infrastructura zonei de afaceri Coldingen.",
+                  "category": "natural",
+                  "coords": [
+                        -57.977716,
+                        6.697073
+                  ]
+            },
+            {
+                  "name": "Start 1",
+                  "text": "Situat la perimetrul domeniului, acest punct de belvedere are vedere la infrastructura industrială extinsă a orașului Coldingen.",
+                  "category": "natural",
+                  "coords": [
+                        -57.978316,
+                        6.69526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "End",
+                  "text": "This viewpoint marks the edge of the Coldingen Industrial Estate, offering a look over the local manufacturing and processing facilities.",
+                  "category": "natural",
+                  "coords": [
+                        -57.960562,
+                        6.739354
+                  ]
+            },
+            {
+                  "name": "Start 8",
+                  "text": "Observers can survey the active commercial and industrial operations of Coldingen from this vantage point.",
+                  "category": "natural",
+                  "coords": [
+                        -57.983679,
+                        6.725694
+                  ]
+            },
+            {
+                  "name": "Start 5",
+                  "text": "This observation spot provides an overview of the structured layout and bustling activity within the industrial estate.",
+                  "category": "natural",
+                  "coords": [
+                        -57.975164,
+                        6.707545
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "This designated viewing area captures the daily industrial movement and infrastructure of the Coldingen enterprise zone.",
+                  "category": "natural",
+                  "coords": [
+                        -57.977716,
+                        6.697073
+                  ]
+            },
+            {
+                  "name": "Start 1",
+                  "text": "Located at the estate's perimeter, this viewpoint overlooks the sprawling industrial infrastructure of Coldingen.",
+                  "category": "natural",
+                  "coords": [
+                        -57.978316,
+                        6.69526
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-DE",
     coords: [-57.98, 6.73],
@@ -1205,7 +3896,124 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       fr: ["Situé sur la côte est du Demerara (région 4).", "Zone gérée par l'État pour le soutien aux PME.", "Accent mis sur l'agro-transformation et la petite industrie.", "Offre des terrains en bail abordables pour les entrepreneurs locaux.", "Employeur important pour les communautés de la côte est.", "Favorise la diversification de l'économie guyanaise."],
     },
   }, {
-    id: "belvedere-industrial-estate-economic-v2",
+    id: "belvedere-industrial-estate-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rose Hall Beach",
+                  "text": "Ein breiter Strand an der Atlantikküste, der für seine raue Brandung und seine weiten Aussichten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.350326,
+                        6.273481
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Ein hinduistischer Tempel, der ein wichtiges religiöses Zentrum für die indo-guyanische Gemeinschaft in Belvedere darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.364814,
+                        6.261052
+                  ]
+            },
+            {
+                  "name": "Nigg Bible Church",
+                  "text": "Eine kleine christliche Kirche in der Siedlung Nigg, die als geistlicher Treffpunkt der Dorfbewohner dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.371874,
+                        6.266456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rose Hall Beach",
+                  "text": "Széles tengerpart az Atlanti-óceán partján, amely erős hullámzásáról és tágas kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.350326,
+                        6.273481
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Hindu templom, amely a belvedere-i indiai-guyanai közösség fontos vallási központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.364814,
+                        6.261052
+                  ]
+            },
+            {
+                  "name": "Nigg Bible Church",
+                  "text": "Kicsiny keresztény templom Nigg településen, amely a falusiak lelki találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.371874,
+                        6.266456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rose Hall Beach",
+                  "text": "O plajă lată la coasta Atlanticului, cunoscută pentru valurile sale puternice și vederile largi.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.350326,
+                        6.273481
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "Un templu hindu care reprezintă un centru religios important pentru comunitatea indo-guyaneză din Belvedere.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.364814,
+                        6.261052
+                  ]
+            },
+            {
+                  "name": "Nigg Bible Church",
+                  "text": "O mică biserică creștină în așezarea Nigg, care servește ca punct de întâlnire spiritual pentru săteni.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.371874,
+                        6.266456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rose Hall Beach",
+                  "text": "A wide beach on the Atlantic coast, known for its strong surf and expansive ocean views.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.350326,
+                        6.273481
+                  ]
+            },
+            {
+                  "name": "Mandir",
+                  "text": "A Hindu temple that serves as an important religious center for the Indo-Guyanese community in Belvedere.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.364814,
+                        6.261052
+                  ]
+            },
+            {
+                  "name": "Nigg Bible Church",
+                  "text": "A small Christian church in the Nigg settlement, serving as a spiritual meeting place for villagers.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.371874,
+                        6.266456
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "GY-EB",
     coords: [-57.3, 6.22],

@@ -193,7 +193,124 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       fr: ["La raffinerie respecte les normes internationales modernes en matière d'environnement et de sécurité.", "Elle constitue la base de la chaîne de valeur de l'industrie pétrolière du Suriname.", "Staatsolie investit continuellement dans la formation de spécialistes locaux pour la raffinerie.", "Le site de Tout Lui Faut offre une bonne connexion logistique pour la distribution."],
     }, image: "/poi-images/sr-tout-lui-faut-raffinerie-economic-v2.webp"},
   {
-    id: "sr-tambaredjo-oelfeld-economic-v2",
+    id: "sr-tambaredjo-oelfeld-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roundabout",
+                  "text": "Ein lokales Navigationsmerkmal in der industriellen Ölförderregion Tambaredjo in Saramacca.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.498317,
+                        5.820393
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah's Getuigen",
+                  "text": "Ein schlichter Königreichssaal der Zeugen Jehovas, der der Gemeinschaft im Bezirk Saramacca dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.500967,
+                        5.801241
+                  ]
+            },
+            {
+                  "name": "Sint Thadeuskerk",
+                  "text": "Eine römisch-katholische Kirche in der ländlichen Landschaft des surinamischen Bezirks Saramacca.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.478634,
+                        5.787156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roundabout",
+                  "text": "Helyi tájékozódási pont a Saramacca kerület ipari, olajtermelő Tambaredjo régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.498317,
+                        5.820393
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah's Getuigen",
+                  "text": "Jehova Tanúi szerény Királyság-terme, amely a Saramacca kerület helyi közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.500967,
+                        5.801241
+                  ]
+            },
+            {
+                  "name": "Sint Thadeuskerk",
+                  "text": "Római katolikus templom Suriname Saramacca kerületének vidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.478634,
+                        5.787156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roundabout",
+                  "text": "Un punct de reper local pentru navigație în regiunea industrială petrolieră Tambaredjo din Saramacca.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.498317,
+                        5.820393
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah's Getuigen",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova care deservește comunitatea locală din districtul Saramacca.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.500967,
+                        5.801241
+                  ]
+            },
+            {
+                  "name": "Sint Thadeuskerk",
+                  "text": "O biserică romano-catolică situată în peisajele rurale ale districtului Saramacca din Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.478634,
+                        5.787156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roundabout",
+                  "text": "A local navigational landmark in the industrial Tambaredjo oil-producing region of Saramacca.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.498317,
+                        5.820393
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah's Getuigen",
+                  "text": "A modest Kingdom Hall of Jehovah's Witnesses serving the local community in the Saramacca district.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.500967,
+                        5.801241
+                  ]
+            },
+            {
+                  "name": "Sint Thadeuskerk",
+                  "text": "A Roman Catholic church located in the rural landscapes of Suriname's Saramacca district.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.478634,
+                        5.787156
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SR-SA",
     coords: [-55.45, 5.85],
@@ -287,7 +404,196 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       fr: ["Calcutta est un exemple important de gestion efficace des ressources de Staatsolie.", "L'intégration de ce champ dans le réseau logistique est fluide.", "Le site est surveillé en permanence pour garantir les normes environnementales.", "Malgré sa taille, il joue un rôle important dans la diversification de la production."],
     }, image: "/poi-images/sr-calcutta-oelfeld-economic-v2.webp"},
   {
-    id: "sr-hafen-paranam-economic-v2",
+    id: "sr-hafen-paranam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gongrijpbos",
+                  "text": "Ein nach einem niederländischen Förster benanntes Naturschutzgebiet, das für seine reiche tropische Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.196373,
+                        5.603036
+                  ]
+            },
+            {
+                  "name": "Parabello",
+                  "text": "Ein Erholungsgebiet am Fluss, das für seine dunklen, tanninhaltigen Schwarzwasserbäche bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.14642,
+                        5.602321
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah’s Getuigen",
+                  "text": "Ein schlichter Königreichssaal der Zeugen Jehovas für die lokale christliche Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.151708,
+                        5.612643
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Ein bescheidenes islamisches Gebetshaus für die Arbeiter und Anwohner der Industrieregion Paranam.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.148171,
+                        5.612394
+                  ]
+            },
+            {
+                  "name": "Bedrijfs Winkel",
+                  "text": "Ein ehemaliger Betriebsladen in der Bergbaustadt, der einst die Versorgung der Minenarbeiter sicherstellte.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.154166,
+                        5.611862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gongrijpbos",
+                  "text": "Egy holland erdészről elnevezett természetvédelmi terület, amely gazdag trópusi flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.196373,
+                        5.603036
+                  ]
+            },
+            {
+                  "name": "Parabello",
+                  "text": "Folyóparti üdülőhely, amely sötét, tannindús feketevizű patakjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.14642,
+                        5.602321
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah’s Getuigen",
+                  "text": "Jehova Tanúi egyszerű Királyság-terme a helyi keresztény közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.151708,
+                        5.612643
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Szerény iszlám imaház a Paranam ipari régió munkásai és lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.148171,
+                        5.612394
+                  ]
+            },
+            {
+                  "name": "Bedrijfs Winkel",
+                  "text": "Egykori üzemi bolt a bányászvárosban, amely egykor a bányászok ellátását biztosította.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.154166,
+                        5.611862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gongrijpbos",
+                  "text": "O rezervație naturală numită după un silvicultor olandez, cunoscută pentru flora sa tropicală bogată.",
+                  "category": "natural",
+                  "coords": [
+                        -55.196373,
+                        5.603036
+                  ]
+            },
+            {
+                  "name": "Parabello",
+                  "text": "O zonă de recreere pe malul râului, cunoscută pentru pârâurile sale cu apă neagră, bogate în tanin.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.14642,
+                        5.602321
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah’s Getuigen",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova, simplă, pentru comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.151708,
+                        5.612643
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "Un lăcaș de rugăciune islamic modest pentru muncitorii și locuitorii regiunii industriale Paranam.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.148171,
+                        5.612394
+                  ]
+            },
+            {
+                  "name": "Bedrijfs Winkel",
+                  "text": "Un fost magazin al companiei în orașul minier, care asigura odată aprovizionarea minerilor.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.154166,
+                        5.611862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gongrijpbos",
+                  "text": "A nature reserve named after a Dutch forester, known for its rich tropical flora.",
+                  "category": "natural",
+                  "coords": [
+                        -55.196373,
+                        5.603036
+                  ]
+            },
+            {
+                  "name": "Parabello",
+                  "text": "A riverside recreation area known for its dark, tannin-rich blackwater creeks.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.14642,
+                        5.602321
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah’s witnesses",
+                  "text": "A simple Kingdom Hall of Jehovah's Witnesses for the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.151708,
+                        5.612643
+                  ]
+            },
+            {
+                  "name": "mosque",
+                  "text": "A modest Islamic prayer house for the workers and residents of the Paranam industrial region.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.148171,
+                        5.612394
+                  ]
+            },
+            {
+                  "name": "Bedrijfs Winkel",
+                  "text": "A former company store in the mining town that once ensured the supply of the mine workers.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.154166,
+                        5.611862
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SR-PR",
     coords: [-55.15, 5.61],
@@ -335,7 +641,376 @@ export const poiExtraSurinameEconomicV2: POI[] = [
     },
   },
   {
-    id: "sr-hafen-nieuw-nickerie-economic-v2",
+    id: "sr-hafen-nieuw-nickerie-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zeedijk",
+                  "text": "Dieser robuste Deich bietet einen weiten Blick über den Atlantischen Ozean und dient dem Schutz der tief gelegenen Küstenstadt vor Überschwemmungen.",
+                  "category": "natural",
+                  "coords": [
+                        -57.026197,
+                        5.962268
+                  ]
+            },
+            {
+                  "name": "CCN",
+                  "text": "Dieses lokale Theater fungiert als ein wichtiges kulturelles Zentrum des Bezirks und führt Theaterstücke und Gemeindevorführungen auf.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.993603,
+                        5.93604
+                  ]
+            },
+            {
+                  "name": "Volksplein",
+                  "text": "Dieser große öffentliche Platz dient als zentraler Erholungsraum für Stadtversammlungen, Sportveranstaltungen und Entspannung im Freien.",
+                  "category": "park",
+                  "coords": [
+                        -56.992981,
+                        5.94639
+                  ]
+            },
+            {
+                  "name": "Brassaplein",
+                  "text": "Dieser von viel Grün gesäumte, bemerkenswerte Stadtpark bietet einen schattigen städtischen Rückzugsort und einen malerischen Ort für öffentliche Feste.",
+                  "category": "park",
+                  "coords": [
+                        -56.991683,
+                        5.946167
+                  ]
+            },
+            {
+                  "name": "Masdjid Rochmat Islam",
+                  "text": "Diese Gemeinde-Moschee ist dem islamischen Gottesdienst gewidmet und heißt die muslimischen Gläubigen der Region zu täglichen Gebeten willkommen.",
+                  "category": "religious",
+                  "coords": [
+                        -57.014125,
+                        5.956732
+                  ]
+            },
+            {
+                  "name": "Eben-haezer",
+                  "text": "Diese örtliche christliche Gemeinde ist nach der Tradition der Hilfe und des Glaubens benannt und bietet spirituelle Führung in der Küstenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.992591,
+                        5.944839
+                  ]
+            },
+            {
+                  "name": "Vredeskerk",
+                  "text": "Dieses bescheidene Heiligtum, dessen Name „Friedenskirche“ bedeutet, ist ein ruhiger Treffpunkt für die lokale christliche Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -56.994063,
+                        5.946939
+                  ]
+            },
+            {
+                  "name": "Hindoe tempel Zeedijk",
+                  "text": "Dieser direkt an der schützenden Ufermauer gelegene Hindu-Tempel bietet einen sehr stimmungsvollen Rahmen für Andachten an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.065725,
+                        5.94531
+                  ]
+            },
+            {
+                  "name": "Sadar Tartiboel Islam",
+                  "text": "Diese islamische Einrichtung bringt die lokale muslimische Gemeinde zu traditionellen Lehren und regelmäßigen Gemeinschaftsgebeten zusammen.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.027101,
+                        5.944137
+                  ]
+            },
+            {
+                  "name": "Sint Jozef Kerk",
+                  "text": "Diese historische katholische Kirche besticht durch ihre markante Holzarchitektur aus der Kolonialzeit und ist ein Wahrzeichen von Nieuw Nickerie.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.989645,
+                        5.945514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zeedijk",
+                  "text": "Ez a robusztus tengeri gát kiterjedt kilátást nyújt az Atlanti-óceánra, és az alacsonyan fekvő tengerparti város árvízi védelmét szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        -57.026197,
+                        5.962268
+                  ]
+            },
+            {
+                  "name": "CCN",
+                  "text": "A kerület egyik legfontosabb kulturális központjaként működő helyi színház színdarabokat és közösségi előadásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.993603,
+                        5.93604
+                  ]
+            },
+            {
+                  "name": "Volksplein",
+                  "text": "Ez a nagy közös tér központi rekreációs területként szolgál városi összejövetelekhez, sporteseményekhez és szabadtéri kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        -56.992981,
+                        5.94639
+                  ]
+            },
+            {
+                  "name": "Brassaplein",
+                  "text": "A zöldellő növényzettel szegélyezett nevezetes városi park árnyékos városi menedéket és festői helyszínt biztosít a nyilvános ünnepségekhez.",
+                  "category": "park",
+                  "coords": [
+                        -56.991683,
+                        5.946167
+                  ]
+            },
+            {
+                  "name": "Masdjid Rochmat Islam",
+                  "text": "Az iszlám istentiszteletnek szentelt közösségi mecset napi imádságra várja a régió muszlim hívőit.",
+                  "category": "religious",
+                  "coords": [
+                        -57.014125,
+                        5.956732
+                  ]
+            },
+            {
+                  "name": "Eben-haezer",
+                  "text": "A segítség és a hit hagyománya nyomán elnevezett helyi keresztény egyházközség spirituális útmutatást nyújt a tengerparti városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.992591,
+                        5.944839
+                  ]
+            },
+            {
+                  "name": "Vredeskerk",
+                  "text": "A „Béketemplom” nevet viselő szerény szentély a helyi keresztény közösség csendes gyülekezőhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -56.994063,
+                        5.946939
+                  ]
+            },
+            {
+                  "name": "Hindoe tempel Zeedijk",
+                  "text": "A közvetlenül a védő tengeri gát mellett található hindu templom rendkívül hangulatos helyszínt kínál az áhítathoz a part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.065725,
+                        5.94531
+                  ]
+            },
+            {
+                  "name": "Sadar Tartiboel Islam",
+                  "text": "Ez a dedikált iszlám létesítmény összehozza a helyi muszlim közösséget hagyományos tanításokra és rendszeres gyülekezeti imákra.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.027101,
+                        5.944137
+                  ]
+            },
+            {
+                  "name": "Sint Jozef Kerk",
+                  "text": "Jellegzetes gyarmati kori faépítészetével kiemelkedő történelmi katolikus templom Nieuw Nickerie egyik nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.989645,
+                        5.945514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zeedijk",
+                  "text": "Acest dig maritim robust oferă vederi ample asupra Oceanului Atlantic și servește la protejarea orașului de coastă aflat la joasă altitudine împotriva inundațiilor.",
+                  "category": "natural",
+                  "coords": [
+                        -57.026197,
+                        5.962268
+                  ]
+            },
+            {
+                  "name": "CCN",
+                  "text": "Funcționând ca un centru cultural cheie în district, acest teatru local pune în scenă piese de teatru și spectacole comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.993603,
+                        5.93604
+                  ]
+            },
+            {
+                  "name": "Volksplein",
+                  "text": "Această mare piață publică servește ca spațiu de recreere central pentru adunări orășenești, evenimente sportive și relaxare în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        -56.992981,
+                        5.94639
+                  ]
+            },
+            {
+                  "name": "Brassaplein",
+                  "text": "Mărginit de verdeață, acest parc orășenesc notabil oferă un refugiu urban umbrit și un loc pitoresc pentru festivități publice.",
+                  "category": "park",
+                  "coords": [
+                        -56.991683,
+                        5.946167
+                  ]
+            },
+            {
+                  "name": "Masdjid Rochmat Islam",
+                  "text": "Dedicată cultului islamic, această moschee comunitară primește credincioșii musulmani din regiune pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        -57.014125,
+                        5.956732
+                  ]
+            },
+            {
+                  "name": "Eben-haezer",
+                  "text": "Numită în tradiția ajutorului și a credinței, această parohie creștină locală oferă îndrumare spirituală în orașul de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.992591,
+                        5.944839
+                  ]
+            },
+            {
+                  "name": "Vredeskerk",
+                  "text": "Traducându-se drept „Biserica Păcii”, acest sanctuar modest este un loc de adunare liniștit pentru comunitatea creștină locală.",
+                  "category": "religious",
+                  "coords": [
+                        -56.994063,
+                        5.946939
+                  ]
+            },
+            {
+                  "name": "Hindoe tempel Zeedijk",
+                  "text": "Situat chiar lângă digul maritim protector, acest templu hindus oferă un cadru profund pitoresc pentru devotament pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.065725,
+                        5.94531
+                  ]
+            },
+            {
+                  "name": "Sadar Tartiboel Islam",
+                  "text": "Această facilitate islamică dedicată reunește comunitatea musulmană locală pentru învățături tradiționale și rugăciuni congregaționale regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.027101,
+                        5.944137
+                  ]
+            },
+            {
+                  "name": "Sint Jozef Kerk",
+                  "text": "Remarcându-se prin arhitectura sa distinctivă din lemn din epoca colonială, această biserică catolică istorică este un reper al orașului Nieuw Nickerie.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.989645,
+                        5.945514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zeedijk",
+                  "text": "This robust sea wall offers expansive views over the Atlantic Ocean and serves to protect the low-lying coastal town from flooding.",
+                  "category": "natural",
+                  "coords": [
+                        -57.026197,
+                        5.962268
+                  ]
+            },
+            {
+                  "name": "CCN",
+                  "text": "Operating as a key cultural hub in the district, this local theatre stages plays and community performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.993603,
+                        5.93604
+                  ]
+            },
+            {
+                  "name": "Volksplein",
+                  "text": "This large public square serves as a central recreational space for town gatherings, sporting events, and outdoor relaxation.",
+                  "category": "park",
+                  "coords": [
+                        -56.992981,
+                        5.94639
+                  ]
+            },
+            {
+                  "name": "Brassaplein",
+                  "text": "Lined with greenery, this notable town park provides a shaded urban retreat and a scenic spot for public festivities.",
+                  "category": "park",
+                  "coords": [
+                        -56.991683,
+                        5.946167
+                  ]
+            },
+            {
+                  "name": "Masdjid Rochmat Islam",
+                  "text": "Dedicated to Islamic worship, this community mosque welcomes the region's Muslim faithful for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        -57.014125,
+                        5.956732
+                  ]
+            },
+            {
+                  "name": "Eben-haezer",
+                  "text": "Named in the tradition of help and faith, this local Christian parish provides spiritual guidance in the coastal town.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.992591,
+                        5.944839
+                  ]
+            },
+            {
+                  "name": "Vredeskerk",
+                  "text": "Translating to the \"Church of Peace,\" this modest sanctuary is a tranquil gathering place for the local Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        -56.994063,
+                        5.946939
+                  ]
+            },
+            {
+                  "name": "Hindoe tempel Zeedijk",
+                  "text": "Situated directly near the protective seawall, this Hindu temple offers a deeply atmospheric setting for devotion alongside the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.065725,
+                        5.94531
+                  ]
+            },
+            {
+                  "name": "Sadar Tartiboel Islam",
+                  "text": "This dedicated Islamic facility brings together the local Muslim community for traditional teachings and regular congregational prayers.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.027101,
+                        5.944137
+                  ]
+            },
+            {
+                  "name": "Sint Jozef Kerk",
+                  "text": "Standing out with its distinctive colonial-era wooden architecture, this historic Catholic church is a landmark of Nieuw Nickerie.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.989645,
+                        5.945514
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SR-NI",
     coords: [-57.0, 5.95],
@@ -382,7 +1057,52 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       fr: ["Nieuw Nickerie est connue pour ses techniques avancées de culture du riz.", "La situation au bord de la rivière permet une connexion directe avec la côte.", "Le port sert de point d'ancrage pour le commerce avec la Guyane.", "L'économie locale est profondément intégrée dans la structure d'exportation agricole."],
     }, image: "/poi-images/sr-hafen-nieuw-nickerie-economic-v2.webp"},
   {
-    id: "sr-hafen-moengo-economic-v2",
+    id: "sr-hafen-moengo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theater Beatrix",
+                  "text": "Ein kultureller Veranstaltungsort in der historischen Bergbaustadt Moengo, die für ihre Bauxitvorkommen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.402001,
+                        5.616298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theater Beatrix",
+                  "text": "Kulturális helyszín a bauxitbányászatáról híres történelmi Moengo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.402001,
+                        5.616298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theater Beatrix",
+                  "text": "Un loc cultural situat în orașul minier istoric Moengo, cunoscut pentru zăcămintele sale de bauxită.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.402001,
+                        5.616298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theater Beatrix",
+                  "text": "A cultural venue in the historic mining town of Moengo, known for its bauxite heritage.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.402001,
+                        5.616298
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SR-MA",
     coords: [-54.4, 5.615],
@@ -429,7 +1149,232 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       fr: ["Le port de Moengo est situé au cœur de la forêt tropicale.", "Il a permis le transport efficace des ressources depuis l'est.", "L'infrastructure témoigne encore aujourd'hui de la performance logistique des décennies passées.", "Moengo reste un symbole de l'ère industrielle dans l'est du Suriname."],
     }, image: "/poi-images/sr-hafen-moengo-economic-v2.webp"},
   {
-    id: "sr-surinaamse-brouwerij-economic-v2",
+    id: "sr-surinaamse-brouwerij-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Memre Boekoe Kazerne",
+                  "text": "Militärkaserne in Paramaribo, die ein Museum über die Geschichte und Ausrüstung der surinamischen Armee beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.178023,
+                        5.826698
+                  ]
+            },
+            {
+                  "name": "Arya Dewaker Temple",
+                  "text": "Der größte Hindutempel Surinames, beeindruckend durch seine achteckige Architektur und den Verzicht auf Götterstatuen.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17482,
+                        5.819562
+                  ]
+            },
+            {
+                  "name": "The Red Door",
+                  "text": "Eine Boutique-Galerie in Paramaribo, die zeitgenössische surinamische Kunst und lokales Kunsthandwerk präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -55.177239,
+                        5.824182
+                  ]
+            },
+            {
+                  "name": "S.M.A Surinaamse Mosliem Associatie",
+                  "text": "Eine islamische Gebetsstätte der surinamischen muslimischen Vereinigung.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17494,
+                        5.813027
+                  ]
+            },
+            {
+                  "name": "Gemeente de Roep vid Bruidegom MInistries",
+                  "text": "Ein christliches Gemeindehaus, das für lokale Gottesdienste und Versammlungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.178128,
+                        5.82201
+                  ]
+            },
+            {
+                  "name": "Shri Vishnu Mandir",
+                  "text": "Ein traditioneller Hindu-Tempel, der Lord Vishnu gewidmet ist und farbenfrohe religiöse Ikonografie zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.173128,
+                        5.818549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Memre Boekoe Kazerne",
+                  "text": "Katonai laktanya Paramaribóban, amely a suriname-i hadsereg történetét és felszerelését bemutató múzeumnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.178023,
+                        5.826698
+                  ]
+            },
+            {
+                  "name": "Arya Dewaker Temple",
+                  "text": "Suriname legnagyobb hindu temploma, amely nyolcszögletű építészetéről és az istenszobrok hiányáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17482,
+                        5.819562
+                  ]
+            },
+            {
+                  "name": "The Red Door",
+                  "text": "Butik galéria Paramaribóban, amely kortárs suriname-i művészetet és helyi kézműves alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -55.177239,
+                        5.824182
+                  ]
+            },
+            {
+                  "name": "S.M.A Surinaamse Mosliem Associatie",
+                  "text": "A Suriname-i Muszlim Szövetség iszlám imaháza.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17494,
+                        5.813027
+                  ]
+            },
+            {
+                  "name": "Gemeente de Roep vid Bruidegom MInistries",
+                  "text": "Keresztény hitéleti épület, amelyet helyi istentiszteletekre és közösségi összejövetelekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.178128,
+                        5.82201
+                  ]
+            },
+            {
+                  "name": "Shri Vishnu Mandir",
+                  "text": "Visnu istennek szentelt hagyományos hindu templom, színes vallási ikonográfiával.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.173128,
+                        5.818549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Memre Boekoe Kazerne",
+                  "text": "Cazarmă militară din Paramaribo care găzduiește un muzeu despre istoria și echipamentul armatei surinameze.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.178023,
+                        5.826698
+                  ]
+            },
+            {
+                  "name": "Arya Dewaker Temple",
+                  "text": "Cel mai mare templu hindu din Surinam, impresionant prin arhitectura sa octogonală și absența statuilor religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17482,
+                        5.819562
+                  ]
+            },
+            {
+                  "name": "The Red Door",
+                  "text": "O galerie tip boutique din Paramaribo, care prezintă artă contemporană surinameză și obiecte de artizanat locale.",
+                  "category": "museum",
+                  "coords": [
+                        -55.177239,
+                        5.824182
+                  ]
+            },
+            {
+                  "name": "S.M.A Surinaamse Mosliem Associatie",
+                  "text": "Un lăcaș de cult islamic aparținând Asociației Musulmane din Surinam.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17494,
+                        5.813027
+                  ]
+            },
+            {
+                  "name": "Gemeente de Roep vid Bruidegom MInistries",
+                  "text": "O clădire creștină folosită pentru slujbe locale și adunări comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.178128,
+                        5.82201
+                  ]
+            },
+            {
+                  "name": "Shri Vishnu Mandir",
+                  "text": "Un templu hindu tradițional dedicat Domnului Vishnu, cu o iconografie religioasă colorată.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.173128,
+                        5.818549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memre Boekoe Kazerne",
+                  "text": "A military complex in Paramaribo housing a museum dedicated to the history and equipment of the Surinamese army.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.178023,
+                        5.826698
+                  ]
+            },
+            {
+                  "name": "Arya Dewaker Temple",
+                  "text": "Suriname's largest Hindu temple, notable for its octagonal architecture and the absence of religious statues.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17482,
+                        5.819562
+                  ]
+            },
+            {
+                  "name": "The Red Door",
+                  "text": "A boutique art gallery in Paramaribo showcasing contemporary Surinamese art and local handcrafted items.",
+                  "category": "museum",
+                  "coords": [
+                        -55.177239,
+                        5.824182
+                  ]
+            },
+            {
+                  "name": "S.M.A Surinaamse Mosliem Associatie",
+                  "text": "An Islamic place of worship belonging to the Surinamese Muslim Association.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17494,
+                        5.813027
+                  ]
+            },
+            {
+                  "name": "Gemeente de Roep vid Bruidegom MInistries",
+                  "text": "A Christian ministry building used for local worship and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.178128,
+                        5.82201
+                  ]
+            },
+            {
+                  "name": "Shri Vishnu Mandir",
+                  "text": "A traditional Hindu temple dedicated to Lord Vishnu, featuring colorful religious iconography.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.173128,
+                        5.818549
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SR-PM",
     coords: [-55.176, 5.819],
@@ -476,7 +1421,160 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       fr: ["La brasserie promeut des pratiques durables dans la production de boissons.", "La bière Parbo a une base de fans fidèles et est un symbole national.", "L'entreprise investit continuellement dans des projets locaux et la culture.", "La brasserie effectue régulièrement des contrôles de qualité selon les normes internationales."],
     }, image: "/poi-images/sr-surinaamse-brouwerij-economic-v2.webp"},
   {
-    id: "sr-fernandes-bottling-economic-v2",
+    id: "sr-fernandes-bottling-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ANWB paal",
+                  "text": "Ein historischer niederländischer Wegweiser (ANWB-Pfahl) aus der Kolonialzeit, der einst die Entfernungen anzeigte.",
+                  "category": "historical",
+                  "coords": [
+                        -55.184931,
+                        5.834617
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Versammlungsstätte der Zeugen Jehovas im Industriegebiet von Paramaribo, nahe der bekannten Fernandes-Abfüllanlage.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.181555,
+                        5.838668
+                  ]
+            },
+            {
+                  "name": "St. Volle Evangelle Gemeente",
+                  "text": "Eine christliche Pfingstgemeinde, die für ihre energiegeladenen Gottesdienste und starke Gemeinschaft bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.181466,
+                        5.841708
+                  ]
+            },
+            {
+                  "name": "Choi's Groenten Markt",
+                  "text": "Ein lebhafter Markt in Paramaribo, berühmt für seine riesige Auswahl an frischem surinamischem Obst und Gemüse.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.190608,
+                        5.831917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ANWB paal",
+                  "text": "Történelmi holland útjelző oszlop (ANWB-oszlop) a gyarmati korból, amely egykor a távolságokat mutatta.",
+                  "category": "historical",
+                  "coords": [
+                        -55.184931,
+                        5.834617
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Jehova Tanúi gyülekezőhelye Paramaribo ipari negyedében, a jól ismert Fernandes palackozóüzem közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.181555,
+                        5.838668
+                  ]
+            },
+            {
+                  "name": "St. Volle Evangelle Gemeente",
+                  "text": "Pünkösdi keresztény gyülekezet, amely energikus istentiszteleteiről és erős közösségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.181466,
+                        5.841708
+                  ]
+            },
+            {
+                  "name": "Choi's Groenten Markt",
+                  "text": "Nyüzsgő piac Paramaribóban, amely friss suriname-i gyümölcsök és zöldségek óriási választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.190608,
+                        5.831917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ANWB paal",
+                  "text": "Un indicator istoric olandez (stâlp ANWB) din epoca colonială, care indica odinioară distanțele pe drumurile publice.",
+                  "category": "historical",
+                  "coords": [
+                        -55.184931,
+                        5.834617
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Lăcaș de întrunire al Martorilor lui Iehova în zona industrială din Paramaribo, lângă celebra unitate Fernandes.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.181555,
+                        5.838668
+                  ]
+            },
+            {
+                  "name": "St. Volle Evangelle Gemeente",
+                  "text": "O congregație creștină penticostală cunoscută pentru slujbele sale pline de energie și comunitatea unită.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.181466,
+                        5.841708
+                  ]
+            },
+            {
+                  "name": "Choi's Groenten Markt",
+                  "text": "O piață aglomerată din Paramaribo, celebră pentru selecția uriașă de fructe și legume proaspete surinameze.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.190608,
+                        5.831917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ANWB paal",
+                  "text": "A historical Dutch distance marker (ANWB pole) from the colonial era, once used to indicate road distances.",
+                  "category": "historical",
+                  "coords": [
+                        -55.184931,
+                        5.834617
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A meeting place for Jehovah's Witnesses in Paramaribo's industrial area, near the famous Fernandes bottling plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.181555,
+                        5.838668
+                  ]
+            },
+            {
+                  "name": "St. Volle Evangelle Gemeente",
+                  "text": "A Christian Full Gospel church known for its high-energy worship services and strong sense of community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.181466,
+                        5.841708
+                  ]
+            },
+            {
+                  "name": "Choi's Groenten Markt",
+                  "text": "A bustling market in Paramaribo, famous for its vast selection of fresh Surinamese fruits and vegetables.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.190608,
+                        5.831917
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SR-PM",
     coords: [-55.188, 5.836],
@@ -523,7 +1621,52 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       fr: ["La marque Fernandes est une partie importante de l'identité nationale.", "L'entreprise utilise des technologies d'embouteillage modernes et des chaînes logistiques.", "Fernandes est profondément intégré dans l'infrastructure commerciale locale.", "L'innovation dans les saveurs et les emballages est une marque de fabrique de Fernandes."],
     }, image: "/poi-images/sr-fernandes-bottling-economic-v2.webp"},
   {
-    id: "sr-sab-rum-destillerie-economic-v2",
+    id: "sr-sab-rum-destillerie-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jules Wijdenboschbrug",
+                  "text": "Eine gewaltige Brücke über den Suriname-Fluss, die einen Panoramablick auf das Wasser und Paramaribo bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.163755,
+                        5.805575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jules Wijdenboschbrug",
+                  "text": "Hatalmas híd a Suriname-folyó felett, amely panorámás kilátást nyújt a vízre és Paramaribóra.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.163755,
+                        5.805575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jules Wijdenboschbrug",
+                  "text": "Un pod masiv care traversează râul Surinam, oferind vedere panoramică asupra apei și a orașului Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.163755,
+                        5.805575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jules Wijdenboschbrug",
+                  "text": "A massive bridge spanning the Suriname River, offering panoramic views of the water and Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.163755,
+                        5.805575
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SR-PM",
     coords: [-55.162, 5.805],
@@ -570,7 +1713,52 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       fr: ["Le rhum Borgoe est synonyme d'artisanat surinamais.", "La distillerie valorise l'approvisionnement durable en matières premières.", "L'entreprise possède une longue histoire de distillation.", "La marque Borgoe est activement commercialisée au niveau international."],
     }, image: "/poi-images/sr-sab-rum-destillerie-economic-v2.webp"},
   {
-    id: "sr-sail-garnelenfabrik-economic-v2",
+    id: "sr-sail-garnelenfabrik-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rust en Vreede",
+                  "text": "Eine historische Herrnhuter Kirche, bekannt für ihre ruhige Atmosphäre und den nahe gelegenen Friedhof.",
+                  "category": "religious",
+                  "coords": [
+                        -55.169691,
+                        5.820558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rust en Vreede",
+                  "text": "Történelmi hernhuti templom és helyszín, amely nyugodt légköréről és a közeli temetőről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -55.169691,
+                        5.820558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rust en Vreede",
+                  "text": "O biserică moravă istorică și un sit cunoscut pentru atmosfera sa liniștită și cimitirul din apropiere.",
+                  "category": "religious",
+                  "coords": [
+                        -55.169691,
+                        5.820558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rust en Vreede",
+                  "text": "A historic Moravian church and site known for its quiet atmosphere and nearby cemetery.",
+                  "category": "religious",
+                  "coords": [
+                        -55.169691,
+                        5.820558
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SR-PM",
     coords: [-55.168, 5.818],
@@ -711,7 +1899,88 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       fr: ["Les produits de VSH Foods sont connus dans de nombreux foyers de la région.", "L'entreprise investit massivement dans la sécurité alimentaire et la gestion de la qualité.", "L'innovation dans la gamme de produits est un processus continu chez VSH Foods.", "L'entreprise a une longue tradition dans la production surinamaise."],
     }, image: "/poi-images/sr-vsh-foods-margarinefabrik-economic-v2.webp"},
   {
-    id: "sr-kuldipsingh-zementwerk-economic-v2",
+    id: "sr-kuldipsingh-zementwerk-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hesdy’s BBQ",
+                  "text": "Ein populärer lokaler Grillplatz in Wanica, bekannt für seine herzhaften surinamischen BBQ-Gerichte.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182277,
+                        5.788201
+                  ]
+            },
+            {
+                  "name": "Trumpet of Revival & Prayer Ministries",
+                  "text": "Eine christliche Freikirche in Wanica, die für ihre lebhaften Gebetstreffen und sozialen Outreach-Programme bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196969,
+                        5.790563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hesdy’s BBQ",
+                  "text": "Népszerű helyi grillezőhely Wanicában, amely kiadós suriname-i BBQ ételeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182277,
+                        5.788201
+                  ]
+            },
+            {
+                  "name": "Trumpet of Revival & Prayer Ministries",
+                  "text": "Keresztény szabadegyház Wanicában, amely élénk imaalkalmairól és szociális segítő programjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196969,
+                        5.790563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hesdy’s BBQ",
+                  "text": "Un loc de grătar local popular în Wanica, cunoscut pentru preparatele sale consistente de tip BBQ surinamez.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182277,
+                        5.788201
+                  ]
+            },
+            {
+                  "name": "Trumpet of Revival & Prayer Ministries",
+                  "text": "O biserică creștină liberă în Wanica, cunoscută pentru întâlnirile de rugăciune pline de viață și programele sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196969,
+                        5.790563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hesdy’s BBQ",
+                  "text": "A popular local grill spot in Wanica, well-known for its hearty Surinamese-style barbecue dishes.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182277,
+                        5.788201
+                  ]
+            },
+            {
+                  "name": "Trumpet of Revival & Prayer Ministries",
+                  "text": "A Christian free church in Wanica, known for its vibrant prayer meetings and social outreach programs.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.196969,
+                        5.790563
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "SR-WA",
     coords: [-55.185, 5.775],
@@ -901,7 +2170,52 @@ export const poiExtraSurinameEconomicV2: POI[] = [
       fr: ["Le port soutient l'importance croissante du secteur offshore."],
     }, image: "/poi-images/sr-kuldipsingh-hafen-economic-v2.webp"},
   {
-    id: "sr-traymore-hafen-economic-v2",
+    id: "sr-traymore-hafen-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Christus kennen",
+                  "text": "Diese christliche Mission befindet sich in der Nähe des Hafengebiets von Suriname und dient den lokalen Arbeitern und Anwohnern.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.175469,
+                        5.80784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Christus kennen",
+                  "text": "Ez a keresztény misszió Suriname kikötői területe közelében található, a helyi munkásokat és lakosokat szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.175469,
+                        5.80784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Christus kennen",
+                  "text": "Această misiune creștină este situată lângă zona portuară din Surinam, deservind muncitorii și rezidenții locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.175469,
+                        5.80784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Christus kennen",
+                  "text": "This Christian mission is located near Suriname's port area, serving local workers and residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.175469,
+                        5.80784
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "SR-PM",
     coords: [-55.17, 5.817],

@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraVenezuelaCitiesV2: POI[] = [
   {
-    id: "caracas-cities-v2",
+    id: "caracas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaza Bolívar de El Valle",
+                  "text": "Ein zentraler öffentlicher Platz im Viertel El Valle mit der traditionellen Statue des Befreiers Simón Bolívar.",
+                  "category": "park",
+                  "coords": [
+                        -66.904468,
+                        10.468051
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "Eine der Wunderbaren Medaille gewidmete Nachbarschaftskirche, die für ihre aktive lokale Kirchengemeinde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.908405,
+                        10.481094
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Acacias",
+                  "text": "Eine große evangelische Kirche im Viertel Las Acacias, die für ihre lebhaften Gottesdienste und sozialen Programme bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.911983,
+                        10.478286
+                  ]
+            },
+            {
+                  "name": "Mercado La Hormiga",
+                  "text": "Ein geschäftiger lokaler Marktplatz im Viertel El Cementerio, berühmt für seine große Auswahl an preiswerter Kleidung und Schuhen.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.917775,
+                        10.480212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaza Bolívar de El Valle",
+                  "text": "Központi nyilvános tér El Valle negyedben, ahol a felszabadító, Simón Bolívar hagyományos szobra áll.",
+                  "category": "park",
+                  "coords": [
+                        -66.904468,
+                        10.468051
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "A Csodás Éremnek szentelt szomszédsági templom, amely aktív helyi gyülekezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.908405,
+                        10.481094
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Acacias",
+                  "text": "Egy nagy evangélikus templom Las Acacias negyedben, amely élénk istentiszteleteiről és szociális programjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.911983,
+                        10.478286
+                  ]
+            },
+            {
+                  "name": "Mercado La Hormiga",
+                  "text": "Nyüzsgő helyi piac El Cementerio területén, amely megfizethető ruhák és cipők széles választékáról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.917775,
+                        10.480212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaza Bolívar de El Valle",
+                  "text": "O piață publică centrală din parohia El Valle, cu statuia tradițională a eliberatorului Simón Bolívar.",
+                  "category": "park",
+                  "coords": [
+                        -66.904468,
+                        10.468051
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "O biserică de cartier dedicată Medaliei Miraculoase, cunoscută pentru congregația sa locală activă.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.908405,
+                        10.481094
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Acacias",
+                  "text": "O biserică evanghelică mare situată în cartierul Las Acacias, cunoscută pentru serviciile sale vibrante și programele sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.911983,
+                        10.478286
+                  ]
+            },
+            {
+                  "name": "Mercado La Hormiga",
+                  "text": "O piață locală aglomerată în zona El Cementerio, faimoasă pentru varietatea sa largă de haine și încălțămință accesibile.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.917775,
+                        10.480212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaza Bolívar de El Valle",
+                  "text": "A central public square in the El Valle parish, featuring the traditional statue of the Liberator, Simón Bolívar.",
+                  "category": "park",
+                  "coords": [
+                        -66.904468,
+                        10.468051
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "A neighborhood church dedicated to the Miraculous Medal, known for its active local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.908405,
+                        10.481094
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Acacias",
+                  "text": "A large evangelical church located in the Las Acacias district, known for its vibrant services and social programs.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.911983,
+                        10.478286
+                  ]
+            },
+            {
+                  "name": "Mercado La Hormiga",
+                  "text": "A bustling local marketplace in the El Cementerio area, famous for its wide variety of affordable clothing and footwear.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.917775,
+                        10.480212
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "VE-A",
     coords: [-66.9036, 10.4806],
@@ -40,7 +193,736 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
       en: ["Capital and largest city of Venezuela, founded in 1567.", "Located in a valley separated from the sea by the 2,100m high Ávila mountain.", "Home to the UNESCO World Heritage site, the Ciudad Universitaria de Caracas.", "Birthplace of Simón Bolívar (1783), the Liberator of several South American nations.", "The Caracas Metro is the city's primary public transportation backbone.", "The city enjoys a tropical savanna climate with an average temperature of 22°C.", "Features the iconic Parque Central Towers, a landmark of 1970s architecture.", "The Metrocable system serves over 1,200 passengers per hour in mountain areas."],
     }, image: "/poi-images/caracas-cities-v2.webp"},
   {
-    id: "maracaibo-cities-v2",
+    id: "maracaibo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Invasión Abandonada",
+                  "text": "Die Überreste einer verlassenen informellen Siedlung, die Zeugnis von der jüngeren Stadtgeschichte Maracaibos ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        -71.650649,
+                        10.698483
+                  ]
+            },
+            {
+                  "name": "Palacio de los Eventos Venezuela",
+                  "text": "Ein großes, modernes Veranstaltungszentrum in Maracaibo, das für Konzerte und internationale Kongresse genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.654187,
+                        10.603895
+                  ]
+            },
+            {
+                  "name": "Chimpete Champata",
+                  "text": "Ein lokales Kulturzentrum und Puppentheater, das sich der Förderung der darstellenden Künste in der Region widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.637725,
+                        10.670502
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormones",
+                  "text": "Ein funktionales Kirchengebäude der Gemeinschaft der Heiligen der Letzten Tage im Norden von Maracaibo.",
+                  "category": "religious",
+                  "coords": [
+                        -71.668705,
+                        10.682202
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Ein schlichtes evangelisches Gotteshaus, das als religiöses Zentrum für die lokale Nachbarschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -71.652549,
+                        10.694332
+                  ]
+            },
+            {
+                  "name": "Iglesia séptima Bautista de Maracaibo",
+                  "text": "Eine baptistische Kirche in Maracaibo, die sich durch ihre schlichte Architektur und bibeltreue Lehre auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.623507,
+                        10.58725
+                  ]
+            },
+            {
+                  "name": "Catedral de vida",
+                  "text": "Ein großes evangelikales Gotteshaus, das für seine charismatische Gemeinde und modernen Predigten bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -71.638548,
+                        10.573541
+                  ]
+            },
+            {
+                  "name": "Iglesia San Felipe Neri",
+                  "text": "Ein historisches Sakralgebäude im Zentrum, das für seine neoklassizistische Fassade und religiöse Kunst bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.632002,
+                        10.573224
+                  ]
+            },
+            {
+                  "name": "Pan de Dios",
+                  "text": "Eine christliche Gebetsstätte in einem Wohnviertel, die lokale Gottesdienste und Wohltätigkeitsveranstaltungen abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.651492,
+                        10.607243
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ein lokaler Ort der Andacht, der als spiritueller Treffpunkt für die Bewohner der umliegenden Straßen dient.",
+                  "category": "religious",
+                  "coords": [
+                        -71.63697,
+                        10.609671
+                  ]
+            },
+            {
+                  "name": "Iglesia La Epifanía",
+                  "text": "Eine katholische Pfarrkirche im Sektor Santa Fe, die für ihre Gemeindefeste und lokale religiöse Traditionen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.635027,
+                        10.662976
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres",
+                  "text": "Diese Kirche ist dem peruanischen Heiligen Martin von Porres gewidmet und ist ein Zentrum für soziale Hilfe im Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        -71.645505,
+                        10.607357
+                  ]
+            },
+            {
+                  "name": "Iglesia San Ignacio de Loyola",
+                  "text": "Eine Jesuitenkirche, die nach dem Gründer des Ordens benannt ist und lokale religiöse Bildung fördert.",
+                  "category": "religious",
+                  "coords": [
+                        -71.644865,
+                        10.616863
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Paz",
+                  "text": "Eine dem Frieden gewidmete Kirche mit einer schlichten Fassade, die ein Ort der Ruhe inmitten der Stadt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.663163,
+                        10.688064
+                  ]
+            },
+            {
+                  "name": "SAN MIGUEL",
+                  "text": "Eine lokale katholische Kirche, die dem Erzengel Michael gewidmet ist und das Herz der umliegenden Gemeinde bildet.",
+                  "category": "religious",
+                  "coords": [
+                        -71.666724,
+                        10.641739
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel de Arcangel",
+                  "text": "Ein modernes Gotteshaus, das für seine markanten Fenster und die Statue des Erzengels Michael über dem Eingang bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.636557,
+                        10.630382
+                  ]
+            },
+            {
+                  "name": "Iglesia San Tarcisio",
+                  "text": "Diese Kirche besticht durch ihre ungewöhnliche runde Architektur und die hellen, lichtdurchfluteten Innenräume.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.662333,
+                        10.647077
+                  ]
+            },
+            {
+                  "name": "Charcuteria a que Leo",
+                  "text": "Ein traditionelles lokales Geschäft, das für seine Auswahl an regionalen Wurstwaren und Käsespezialitäten bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.644708,
+                        10.612533
+                  ]
+            },
+            {
+                  "name": "Deposito de Licores",
+                  "text": "Ein spezialisierter Markt für Getränke, der eine breite Palette an lokalen und importierten Likören anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.637395,
+                        10.614314
+                  ]
+            },
+            {
+                  "name": "Mercado de Corito",
+                  "text": "Ein belebter lokaler Markt im Corito-Sektor, ideal um frische Lebensmittel und typische Zutaten der Region zu finden.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.619703,
+                        10.616718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Invasión Abandonada",
+                  "text": "Egy elhagyatott informális település maradványai, amelyek Maracaibo közelmúltbeli városi történelméről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        -71.650649,
+                        10.698483
+                  ]
+            },
+            {
+                  "name": "Palacio de los Eventos Venezuela",
+                  "text": "Maracaibo nagy, modern rendezvényközpontja, amely koncerteknek és nemzetközi kongresszusoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.654187,
+                        10.603895
+                  ]
+            },
+            {
+                  "name": "Chimpete Champata",
+                  "text": "Helyi kulturális központ és bábszínház, amely a régió előadóművészetének népszerűsítésére törekszik.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.637725,
+                        10.670502
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormones",
+                  "text": "Az Utolsó Napi Szentek közösségének funkcionális templomépülete Maracaibo északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        -71.668705,
+                        10.682202
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Egyszerű evangélikus imaház, amely a helyi lakóközösség vallási központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -71.652549,
+                        10.694332
+                  ]
+            },
+            {
+                  "name": "Iglesia séptima Bautista de Maracaibo",
+                  "text": "Maracaibói baptista templom, amelyet egyszerű építészet és bibliaközpontú tanítás jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.623507,
+                        10.58725
+                  ]
+            },
+            {
+                  "name": "Catedral de vida",
+                  "text": "Nagy evangéliumi imaház, amely karizmatikus közösségéről és modern prédikációiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -71.638548,
+                        10.573541
+                  ]
+            },
+            {
+                  "name": "Iglesia San Felipe Neri",
+                  "text": "Történelmi szakrális épület a központban, amely neoklasszicista homlokzatáról és vallási műtárgyairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.632002,
+                        10.573224
+                  ]
+            },
+            {
+                  "name": "Pan de Dios",
+                  "text": "Lakóövezeti keresztény imaház, amely helyi istentiszteleteknek és jótékonysági eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.651492,
+                        10.607243
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Helyi imaház, amely lelki találkozóhelyként szolgál a környező utcák lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        -71.63697,
+                        10.609671
+                  ]
+            },
+            {
+                  "name": "Iglesia La Epifanía",
+                  "text": "Katolikus plébániatemplom a Santa Fe szektorban, amely közösségi ünnepeiről és helyi vallási hagyományairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.635027,
+                        10.662976
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres",
+                  "text": "A perui Szent Márton tiszteletére szentelt templom, amely a negyed szociális segélyezési központja.",
+                  "category": "religious",
+                  "coords": [
+                        -71.645505,
+                        10.607357
+                  ]
+            },
+            {
+                  "name": "Iglesia San Ignacio de Loyola",
+                  "text": "A rend alapítójáról elnevezett jezsuita templom, amely a helyi vallásoktatást támogatja.",
+                  "category": "religious",
+                  "coords": [
+                        -71.644865,
+                        10.616863
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Paz",
+                  "text": "A békének szentelt, egyszerű homlokzatú templom, amely a nyugalom szigete a város közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.663163,
+                        10.688064
+                  ]
+            },
+            {
+                  "name": "SAN MIGUEL",
+                  "text": "Szent Mihály arkangyal tiszteletére szentelt helyi katolikus templom, a környező közösség központja.",
+                  "category": "religious",
+                  "coords": [
+                        -71.666724,
+                        10.641739
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel de Arcangel",
+                  "text": "Modern imaház, amely jellegzetes ablakairól és a bejárat feletti Szent Mihály-szoborról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.636557,
+                        10.630382
+                  ]
+            },
+            {
+                  "name": "Iglesia San Tarcisio",
+                  "text": "Ez a templom szokatlan, kerek építészetével és világos, fénytől áradó belső tereivel hívja fel magára a figyelmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.662333,
+                        10.647077
+                  ]
+            },
+            {
+                  "name": "Charcuteria a que Leo",
+                  "text": "Hagyományos helyi üzlet, amely regionális felvágott- és sajtkülönlegességeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.644708,
+                        10.612533
+                  ]
+            },
+            {
+                  "name": "Deposito de Licores",
+                  "text": "Italokra szakosodott piac, amely helyi és importált likőrök széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.637395,
+                        10.614314
+                  ]
+            },
+            {
+                  "name": "Mercado de Corito",
+                  "text": "Nyüzsgő helyi piac a Corito szektorban, amely ideális friss élelmiszerek és tipikus helyi alapanyagok beszerzésére.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.619703,
+                        10.616718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Invasión Abandonada",
+                  "text": "Rămășițele unei așezări informale abandonate, care oferă o perspectivă asupra istoriei urbane recente a orașului Maracaibo.",
+                  "category": "historical",
+                  "coords": [
+                        -71.650649,
+                        10.698483
+                  ]
+            },
+            {
+                  "name": "Palacio de los Eventos Venezuela",
+                  "text": "Un centru de evenimente mare și modern din Maracaibo, utilizat pentru concerte și congrese internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.654187,
+                        10.603895
+                  ]
+            },
+            {
+                  "name": "Chimpete Champata",
+                  "text": "Un centru cultural local și teatru de păpuși dedicat promovării artelor spectacolului în regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.637725,
+                        10.670502
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormones",
+                  "text": "O clădire bisericească funcțională a comunității Sfinților din Zilele din Urmă, situată în nordul orașului Maracaibo.",
+                  "category": "religious",
+                  "coords": [
+                        -71.668705,
+                        10.682202
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Un lăcaș de cult evanghelic simplu, care servește drept centru religios pentru cartierul local.",
+                  "category": "religious",
+                  "coords": [
+                        -71.652549,
+                        10.694332
+                  ]
+            },
+            {
+                  "name": "Iglesia séptima Bautista de Maracaibo",
+                  "text": "O biserică baptistă din Maracaibo, caracterizată prin arhitectura sa simplă și învățăturile biblice.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.623507,
+                        10.58725
+                  ]
+            },
+            {
+                  "name": "Catedral de vida",
+                  "text": "Un lăcaș de cult evanghelic mare, cunoscut pentru comunitatea sa carismatică și predicile moderne.",
+                  "category": "religious",
+                  "coords": [
+                        -71.638548,
+                        10.573541
+                  ]
+            },
+            {
+                  "name": "Iglesia San Felipe Neri",
+                  "text": "O clădire religioasă istorică din centru, cunoscută pentru fațada sa neoclasică și arta religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.632002,
+                        10.573224
+                  ]
+            },
+            {
+                  "name": "Pan de Dios",
+                  "text": "Un loc de rugăciune creștin dintr-o zonă rezidențială, care găzduiește slujbe locale și evenimente caritabile.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.651492,
+                        10.607243
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Un loc local de închinare care servește ca punct de întâlnire spirituală pentru locuitorii străzilor din jur.",
+                  "category": "religious",
+                  "coords": [
+                        -71.63697,
+                        10.609671
+                  ]
+            },
+            {
+                  "name": "Iglesia La Epifanía",
+                  "text": "O biserică parohială catolică din sectorul Santa Fe, cunoscută pentru sărbătorile comunității și tradițiile religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.635027,
+                        10.662976
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres",
+                  "text": "Biserica dedicată sfântului peruan Martin de Porres este un centru pentru asistență socială în cartier.",
+                  "category": "religious",
+                  "coords": [
+                        -71.645505,
+                        10.607357
+                  ]
+            },
+            {
+                  "name": "Iglesia San Ignacio de Loyola",
+                  "text": "O biserică iezuită numită după fondatorul ordinului, care promovează educația religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        -71.644865,
+                        10.616863
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Paz",
+                  "text": "O biserică dedicată păcii, cu o fațadă simplă, oferind un loc de liniște în mijlocul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.663163,
+                        10.688064
+                  ]
+            },
+            {
+                  "name": "SAN MIGUEL",
+                  "text": "O biserică catolică locală dedicată Arhanghelului Mihail, formând inima comunității din jur.",
+                  "category": "religious",
+                  "coords": [
+                        -71.666724,
+                        10.641739
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel de Arcangel",
+                  "text": "Un lăcaș de cult modern, cunoscut pentru ferestrele sale distinctive și statuia Arhanghelului Mihail de deasupra intrării.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.636557,
+                        10.630382
+                  ]
+            },
+            {
+                  "name": "Iglesia San Tarcisio",
+                  "text": "Această biserică impresionează prin arhitectura sa rotundă neobișnuită și interioarele luminoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.662333,
+                        10.647077
+                  ]
+            },
+            {
+                  "name": "Charcuteria a que Leo",
+                  "text": "Un magazin local tradițional, cunoscut pentru selecția sa de mezeluri regionale și specialități de brânză.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.644708,
+                        10.612533
+                  ]
+            },
+            {
+                  "name": "Deposito de Licores",
+                  "text": "O piață specializată în băuturi, care oferă o gamă largă de lichioruri locale și importate.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.637395,
+                        10.614314
+                  ]
+            },
+            {
+                  "name": "Mercado de Corito",
+                  "text": "O piață locală animată în sectorul Corito, ideală pentru a găsi alimente proaspete și ingrediente tipice regiunii.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.619703,
+                        10.616718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Invasión Abandonada",
+                  "text": "The remains of an abandoned informal settlement, offering a look into Maracaibo's recent urban history.",
+                  "category": "historical",
+                  "coords": [
+                        -71.650649,
+                        10.698483
+                  ]
+            },
+            {
+                  "name": "Palacio de los Eventos Venezuela",
+                  "text": "A large, modern event center in Maracaibo used for major concerts and international congresses.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.654187,
+                        10.603895
+                  ]
+            },
+            {
+                  "name": "Chimpete Champata",
+                  "text": "A local cultural center and puppet theatre dedicated to promoting performing arts in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.637725,
+                        10.670502
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormones",
+                  "text": "A functional church building of the Latter-day Saints community located in northern Maracaibo.",
+                  "category": "religious",
+                  "coords": [
+                        -71.668705,
+                        10.682202
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "A simple evangelical place of worship serving as a religious center for the local neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -71.652549,
+                        10.694332
+                  ]
+            },
+            {
+                  "name": "Iglesia séptima Bautista de Maracaibo",
+                  "text": "A Baptist church in Maracaibo characterized by its modest architecture and Bible-focused teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.623507,
+                        10.58725
+                  ]
+            },
+            {
+                  "name": "Catedral de vida",
+                  "text": "A large evangelical house of worship known for its charismatic congregation and modern sermons.",
+                  "category": "religious",
+                  "coords": [
+                        -71.638548,
+                        10.573541
+                  ]
+            },
+            {
+                  "name": "Iglesia San Felipe Neri",
+                  "text": "A historic religious building in the city center known for its neoclassical facade and religious art.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.632002,
+                        10.573224
+                  ]
+            },
+            {
+                  "name": "Pan de Dios",
+                  "text": "A Christian place of prayer in a residential area, hosting local services and charity events.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.651492,
+                        10.607243
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A local place of worship serving as a spiritual meeting point for residents of the surrounding streets.",
+                  "category": "religious",
+                  "coords": [
+                        -71.63697,
+                        10.609671
+                  ]
+            },
+            {
+                  "name": "Iglesia La Epifanía",
+                  "text": "A Catholic parish church in the Santa Fe sector, known for its community festivals and local religious traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.635027,
+                        10.662976
+                  ]
+            },
+            {
+                  "name": "San Martin de Porres",
+                  "text": "Dedicated to the Peruvian saint Martin de Porres, this church is a center for social assistance in the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -71.645505,
+                        10.607357
+                  ]
+            },
+            {
+                  "name": "Iglesia San Ignacio de Loyola",
+                  "text": "A Jesuit church named after the founder of the order, promoting local religious education.",
+                  "category": "religious",
+                  "coords": [
+                        -71.644865,
+                        10.616863
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de la Paz",
+                  "text": "A church dedicated to peace with a simple facade, providing a place of quiet in the middle of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.663163,
+                        10.688064
+                  ]
+            },
+            {
+                  "name": "SAN MIGUEL",
+                  "text": "A local Catholic church dedicated to Saint Michael the Archangel, forming the heart of the surrounding community.",
+                  "category": "religious",
+                  "coords": [
+                        -71.666724,
+                        10.641739
+                  ]
+            },
+            {
+                  "name": "Iglesia San Miguel de Arcangel",
+                  "text": "A modern place of worship known for its distinctive windows and the statue of Saint Michael above the entrance.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.636557,
+                        10.630382
+                  ]
+            },
+            {
+                  "name": "Iglesia San Tarcisio",
+                  "text": "This church stands out for its unusual circular architecture and bright, light-filled interiors.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.662333,
+                        10.647077
+                  ]
+            },
+            {
+                  "name": "Charcuteria a que Leo",
+                  "text": "A traditional local shop known for its selection of regional cold cuts and cheese specialties.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.644708,
+                        10.612533
+                  ]
+            },
+            {
+                  "name": "Deposito de Licores",
+                  "text": "A specialized beverage market offering a wide range of local and imported liquors.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.637395,
+                        10.614314
+                  ]
+            },
+            {
+                  "name": "Mercado de Corito",
+                  "text": "A bustling local market in the Corito sector, ideal for finding fresh food and typical regional ingredients.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.619703,
+                        10.616718
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "VE-V",
     coords: [-71.6333, 10.6317],
@@ -77,7 +959,1168 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
       en: ["Maracaibo's port is one of the most important for oil export in the world.", "The city hosted the first public lighting system in Venezuela in 1888.", "General Rafael Urdaneta, a hero of independence, was born here in 1788.", "The Catatumbo Lightning produces enough ozone to repair the atmosphere.", "Lake Maracaibo contains both fresh water in the south and salt in the north.", "The city's metro system, inaugurated in 2006, serves the main urban axis.", "Zulia state has its own flag, anthem, and constitution within Venezuela.", "The peak temperature in Maracaibo can frequently exceed 40 °C (104 °F)."],
     }, image: "/poi-images/maracaibo-cities-v2.webp"},
   {
-    id: "valencia-cities-v2",
+    id: "valencia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maranatha Venezuela",
+                  "text": "Zeitgenössische evangelische Kirche in Valencia mit einem beeindruckenden Auditorium für Tausende von Gläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        -67.963477,
+                        10.18883
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora del Socorro",
+                  "text": "Neoklassizistische Kathedrale, die das verehrte Bildnis der Schutzpatronin der Stadt, Nuestra Señora del Socorro, beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        -68.002562,
+                        10.182643
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Cerro El Casupo",
+                  "text": "Naturpark in den Hügeln von Valencia mit Wanderwegen, die einen Panoramablick auf die Stadt bieten.",
+                  "category": "park",
+                  "coords": [
+                        -68.034479,
+                        10.216421
+                  ]
+            },
+            {
+                  "name": "Casa de La Estrella",
+                  "text": "Historisches Gebäude aus dem 17. Jahrhundert, in dem 1830 die Trennung Venezuelas von Großkolumbien unterzeichnet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007538,
+                        10.181515
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Casa de Los Celis",
+                  "text": "Koloniales Herrenhaus, das archäologische Funde wie Mammutstoßzähne und religiöse Kunst aus der Kolonialzeit zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007297,
+                        10.180111
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Valencia",
+                  "text": "Kulturzentrum in Valencia, das bedeutende Sammlungen zeitgenössischer venezolanischer Kunst und regionale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -68.004595,
+                        10.18937
+                  ]
+            },
+            {
+                  "name": "Casa Páez",
+                  "text": "Ehemaliges Wohnhaus von General José Antonio Páez, bekannt für seine Wandgemälde mit historischen Schlachtszenen.",
+                  "category": "museum",
+                  "coords": [
+                        -68.00152,
+                        10.181887
+                  ]
+            },
+            {
+                  "name": "Museo de la Cultura",
+                  "text": "Modernes Kulturmuseum mit wechselnden Ausstellungen und Räumen für zeitgenössische Kunst und Workshops.",
+                  "category": "museum",
+                  "coords": [
+                        -67.998221,
+                        10.185698
+                  ]
+            },
+            {
+                  "name": "La Casona",
+                  "text": "Traditionelles Gebäude im Kolonialstil, das als Gemeindezentrum für Kunstausstellungen und Handwerkskurse dient.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007485,
+                        10.201941
+                  ]
+            },
+            {
+                  "name": "Palacio de los Iturriza",
+                  "text": "Prachtvoller eklektischer Palast aus dem späten 19. Jahrhundert mit einem charakteristischen Aussichtsturm aus rotem Backstein.",
+                  "category": "museum",
+                  "coords": [
+                        -68.005038,
+                        10.199105
+                  ]
+            },
+            {
+                  "name": "Ateneo de La Isabelica",
+                  "text": "Kultur- und Kunstzentrum im Stadtteil La Isabelica, das lokale Künstler und Gemeinschaftsprojekte fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.974892,
+                        10.162514
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Valencia",
+                  "text": "Prachtvolles Theater aus dem Jahr 1894, dessen Kuppel mit einem monumentalen Gemälde von Antonio Herrera Toro verziert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.006294,
+                        10.182388
+                  ]
+            },
+            {
+                  "name": "Teatro Guaparo",
+                  "text": "Modernes Theater und Kinokomplex im Bezirk Guaparo, ein Zentrum für Unterhaltung und Bühnenkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.010898,
+                        10.22536
+                  ]
+            },
+            {
+                  "name": "Casa de Arte y Oficios  Alcaldía de San Diego",
+                  "text": "Städtische Einrichtung in San Diego, die Kurse für traditionelles Kunsthandwerk und berufliche Bildung anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.960262,
+                        10.228641
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Open-Air-Amphitheater in einem Park, das regelmäßig für Konzerte und kulturelle Freiluftveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.964155,
+                        10.2315
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "Funktionale Versammlungshalle der Zeugen Jehovas, die für lokale religiöse Treffen genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -68.027001,
+                        10.146887
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial La Ascención del Señor",
+                  "text": "Diese moderne Stadtpfarrkirche dient als religiöses Zentrum für die umliegende Gemeinde in Valencia.",
+                  "category": "religious",
+                  "coords": [
+                        -68.015027,
+                        10.201228
+                  ]
+            },
+            {
+                  "name": "Periférico La Candelaria",
+                  "text": "Ein traditioneller Viertelmarkt in La Candelaria, der für seine frischen Lebensmittel und lokalen Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.01054,
+                        10.167854
+                  ]
+            },
+            {
+                  "name": "Mercado Periférico La Isabelica",
+                  "text": "Dieser lebhafte lokale Markt in La Isabelica bietet eine große Auswahl an Frischprodukten und Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.973945,
+                        10.162254
+                  ]
+            },
+            {
+                  "name": "Mercado de Los Goajiros",
+                  "text": "Ein spezialisierter Markt in Valencia, der für seine Vielfalt an Textilien, Kleidung und lokalem Kunsthandwerk bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.992326,
+                        10.15993
+                  ]
+            },
+            {
+                  "name": "Mercado de Mayoristas de Tocuyito",
+                  "text": "Ein weitläufiges Großhandelszentrum in Tocuyito, das für die Verteilung landwirtschaftlicher Erzeugnisse in der Region entscheidend ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.068006,
+                        10.120863
+                  ]
+            },
+            {
+                  "name": "Banda del estado Carabobo",
+                  "text": "Das offizielle Musikensemble des Bundesstaates Carabobo, das regelmäßig bei kulturellen Veranstaltungen auf öffentlichen Plätzen auftritt.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.005211,
+                        10.180956
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Palotal",
+                  "text": "Ein Versammlungssaal der Zeugen Jehovas im Palotal-Sektor, der durch seine schlichte und zweckmäßige Architektur auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.008791,
+                        10.163017
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa",
+                  "text": "Eine schlichte Viertelkirche in Santa Rosa, die ein wichtiger Treffpunkt für die lokale katholische Gemeinde ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000017,
+                        10.165676
+                  ]
+            },
+            {
+                  "name": "Casa Manosalva Arias",
+                  "text": "Ein religiöses Zentrum und Gemeinschaftshaus, das verschiedene soziale und geistliche Aktivitäten in Valencia anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000407,
+                        10.21088
+                  ]
+            },
+            {
+                  "name": "Iglesia evangelica",
+                  "text": "Ein lokales Gotteshaus der evangelischen Gemeinde, das für seine lebendigen Gottesdienste und Gemeinschaftsarbeit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.966723,
+                        10.230276
+                  ]
+            },
+            {
+                  "name": "Iglesia La Asunción y Santa RIta",
+                  "text": "Diese Doppelpatroziniumskirche vereint die Verehrung der Aufnahme Mariens in den Himmel und der Heiligen Rita.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.995385,
+                        10.217982
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador",
+                  "text": "Eine dem Heiligen Isidor dem Bauern gewidmete Kirche, die oft von der lokalen Landbevölkerung besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.939673,
+                        10.142837
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Dieses religiöse Gebäude ist der Heiligsten Dreifaltigkeit gewidmet und dient als Ort der Besinnung und des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.944919,
+                        10.138981
+                  ]
+            },
+            {
+                  "name": "Iglesia Espíritu Santo",
+                  "text": "Die Heilig-Geist-Kirche ist ein modernes sakrales Bauwerk, das der geistlichen Betreuung des Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.971763,
+                        10.163629
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "Eine Kirche zu Ehren Unserer Lieben Frau von Guadalupe, der Schutzpatronin Lateinamerikas, mit lokaler Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.979839,
+                        10.168416
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein zeitgenössisches mormonisches Kirchengebäude, das sich durch seine klaren Linien und gepflegten Außenanlagen auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.945861,
+                        10.138619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maranatha Venezuela",
+                  "text": "Kortárs evangéliumi templom Valenciában, amelynek hatalmas nézőtere hívők ezreit tudja befogadni.",
+                  "category": "religious",
+                  "coords": [
+                        -67.963477,
+                        10.18883
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora del Socorro",
+                  "text": "Neoklasszicista székesegyház, amely a város védőszentje, Nuestra Señora del Socorro tisztelt kegyképét őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        -68.002562,
+                        10.182643
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Cerro El Casupo",
+                  "text": "Természetvédelmi park Valencia dombjai között, amelynek túraútvonalai panorámás kilátást nyújtanak a városra.",
+                  "category": "park",
+                  "coords": [
+                        -68.034479,
+                        10.216421
+                  ]
+            },
+            {
+                  "name": "Casa de La Estrella",
+                  "text": "17. századi történelmi épület, ahol 1830-ban aláírták Venezuela kiválását Nagy-Kolumbiából.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007538,
+                        10.181515
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Casa de Los Celis",
+                  "text": "Gyarmati kúria, amely olyan régészeti leleteket mutat be, mint mammutagyar és gyarmati kori vallási művészet.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007297,
+                        10.180111
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Valencia",
+                  "text": "Valenciai kulturális központ, amely a kortárs venezuelai művészet és a regionális történelem jelentős gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -68.004595,
+                        10.18937
+                  ]
+            },
+            {
+                  "name": "Casa Páez",
+                  "text": "José Antonio Páez tábornok egykori lakóháza, amely történelmi csatajeleneteket ábrázoló falfestményeiről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        -68.00152,
+                        10.181887
+                  ]
+            },
+            {
+                  "name": "Museo de la Cultura",
+                  "text": "Modern kulturális múzeum időszaki kiállításokkal, kortárs művészeti terekkel és műhelyekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -67.998221,
+                        10.185698
+                  ]
+            },
+            {
+                  "name": "La Casona",
+                  "text": "Hagyományos gyarmati stílusú épület, amely művészeti kiállításoknak és kézműves foglalkozásoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007485,
+                        10.201941
+                  ]
+            },
+            {
+                  "name": "Palacio de los Iturriza",
+                  "text": "Pompás, 19. század végi eklektikus palota jellegzetes vörös téglás kilátótoronnyal.",
+                  "category": "museum",
+                  "coords": [
+                        -68.005038,
+                        10.199105
+                  ]
+            },
+            {
+                  "name": "Ateneo de La Isabelica",
+                  "text": "Kulturális és művészeti központ La Isabelica negyedben, amely helyi művészeket és közösségi projekteket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.974892,
+                        10.162514
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Valencia",
+                  "text": "Impozáns, 1894-es színház, amelynek kupoláját Antonio Herrera Toro monumentális festménye díszíti.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.006294,
+                        10.182388
+                  ]
+            },
+            {
+                  "name": "Teatro Guaparo",
+                  "text": "Modern színház- és mozitömb Guaparo negyedben, amely a szórakoztatás és a színművészet központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.010898,
+                        10.22536
+                  ]
+            },
+            {
+                  "name": "Casa de Arte y Oficios  Alcaldía de San Diego",
+                  "text": "San Diego-i önkormányzati intézmény, amely hagyományos kézműves és szakképzési tanfolyamokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.960262,
+                        10.228641
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Szabadtéri amfiteátrum egy parkban, amely rendszeresen koncertnek és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.964155,
+                        10.2315
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi funkcionális gyülekezeti terme, amelyet helyi vallási összejövetelekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -68.027001,
+                        10.146887
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial La Ascención del Señor",
+                  "text": "Ez a modern városi plébániatemplom a környező közösség vallási központjaként szolgál Valenciában.",
+                  "category": "religious",
+                  "coords": [
+                        -68.015027,
+                        10.201228
+                  ]
+            },
+            {
+                  "name": "Periférico La Candelaria",
+                  "text": "Hagyományos környékbeli piac La Candelariában, amely friss élelmiszereiről és helyi áruiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.01054,
+                        10.167854
+                  ]
+            },
+            {
+                  "name": "Mercado Periférico La Isabelica",
+                  "text": "Ez a nyüzsgő helyi piac La Isabelicában friss termékek és háztartási cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.973945,
+                        10.162254
+                  ]
+            },
+            {
+                  "name": "Mercado de Los Goajiros",
+                  "text": "Speciális piac Valenciában, amely textíliák, ruházati cikkek és helyi kézműves termékek választékáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.992326,
+                        10.15993
+                  ]
+            },
+            {
+                  "name": "Mercado de Mayoristas de Tocuyito",
+                  "text": "Kiterjedt nagykereskedelmi központ Tocuyitóban, amely döntő fontosságú a mezőgazdasági termékek régióbeli elosztásában.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.068006,
+                        10.120863
+                  ]
+            },
+            {
+                  "name": "Banda del estado Carabobo",
+                  "text": "Carabobo állam hivatalos zenei együttese, amely rendszeresen fellép kulturális eseményeken a nyilvános tereken.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.005211,
+                        10.180956
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Palotal",
+                  "text": "Jehova Tanúi gyülekezeti terme a Palotal szektorban, amely egyszerű és célszerű építészetével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.008791,
+                        10.163017
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa",
+                  "text": "Egyszerű környékbeli templom Santa Rosában, amely a helyi katolikus közösség fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000017,
+                        10.165676
+                  ]
+            },
+            {
+                  "name": "Casa Manosalva Arias",
+                  "text": "Vallási központ és közösségi ház, amely különféle szociális és lelki tevékenységeket kínál Valenciában.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000407,
+                        10.21088
+                  ]
+            },
+            {
+                  "name": "Iglesia evangelica",
+                  "text": "Az evangélikus közösség helyi imaháza, amely élénk istentiszteleteiről és közösségi munkájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.966723,
+                        10.230276
+                  ]
+            },
+            {
+                  "name": "Iglesia La Asunción y Santa RIta",
+                  "text": "Ez a kettős titulusú templom Szűz Mária mennybevételének és Szent Ritának a tiszteletét egyesíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.995385,
+                        10.217982
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador",
+                  "text": "Földműves Szent Izidor tiszteletére szentelt templom, amelyet gyakran látogat a helyi vidéki lakosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.939673,
+                        10.142837
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Ez a vallási épület a Szentháromságnak van szentelve, és az elmélkedés és az imádság helyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.944919,
+                        10.138981
+                  ]
+            },
+            {
+                  "name": "Iglesia Espíritu Santo",
+                  "text": "A Szent Lélek-templom egy modern szakrális épület, amely a negyed lelki gondozását szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.971763,
+                        10.163629
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "A Guadalupe-i Szűzanya, Latin-Amerika védőszentje tiszteletére emelt templom, amely helyi jelentőséggel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.979839,
+                        10.168416
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Kortárs mormon templomépület, amelyet tiszta vonalvezetése és gondozott külső terei jellemeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.945861,
+                        10.138619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maranatha Venezuela",
+                  "text": "Biserică evanghelică contemporană în Valencia, cu un auditorium impresionant pentru mii de credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        -67.963477,
+                        10.18883
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora del Socorro",
+                  "text": "Catedrală neoclasică ce adăpostește imaginea venerată a patroanei orașului, Nuestra Señora del Socorro.",
+                  "category": "religious",
+                  "coords": [
+                        -68.002562,
+                        10.182643
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Cerro El Casupo",
+                  "text": "Parc natural în dealurile Valonciei, cu trasee de drumeție care oferă o vedere panoramică asupra orașului.",
+                  "category": "park",
+                  "coords": [
+                        -68.034479,
+                        10.216421
+                  ]
+            },
+            {
+                  "name": "Casa de La Estrella",
+                  "text": "Clădire istorică din secolul al XVII-lea, unde în 1830 a fost semnată separarea Venezuelei de Marea Columbie.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007538,
+                        10.181515
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Casa de Los Celis",
+                  "text": "Conac colonial care expune descoperiri arheologice, cum ar fi colți de mamut și artă religioasă din epoca colonială.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007297,
+                        10.180111
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Valencia",
+                  "text": "Centru cultural din Valencia ce prezintă colecții importante de artă venezueleană contemporană și istorie regională.",
+                  "category": "museum",
+                  "coords": [
+                        -68.004595,
+                        10.18937
+                  ]
+            },
+            {
+                  "name": "Casa Páez",
+                  "text": "Fosta reședință a generalului José Antonio Páez, cunoscută pentru picturile sale murale cu scene de luptă istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -68.00152,
+                        10.181887
+                  ]
+            },
+            {
+                  "name": "Museo de la Cultura",
+                  "text": "Muzeu cultural modern cu expoziții temporare și spații dedicate artei contemporane și atelierelor.",
+                  "category": "museum",
+                  "coords": [
+                        -67.998221,
+                        10.185698
+                  ]
+            },
+            {
+                  "name": "La Casona",
+                  "text": "Clădire tradițională în stil colonial, servind drept centru comunitar pentru expoziții de artă și cursuri de meșteșuguri.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007485,
+                        10.201941
+                  ]
+            },
+            {
+                  "name": "Palacio de los Iturriza",
+                  "text": "Palat eclectic magnific de la sfârșitul secolului al XIX-lea, cu un turn de observație caracteristic din cărămidă roșie.",
+                  "category": "museum",
+                  "coords": [
+                        -68.005038,
+                        10.199105
+                  ]
+            },
+            {
+                  "name": "Ateneo de La Isabelica",
+                  "text": "Centru cultural și artistic în cartierul La Isabelica, promovând artiștii locali și proiectele comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.974892,
+                        10.162514
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Valencia",
+                  "text": "Teatru magnific din 1894, a cărui cupolă este decorată cu o pictură monumentală de Antonio Herrera Toro.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.006294,
+                        10.182388
+                  ]
+            },
+            {
+                  "name": "Teatro Guaparo",
+                  "text": "Complex modern de teatru și cinema în districtul Guaparo, un centru pentru divertisment și artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.010898,
+                        10.22536
+                  ]
+            },
+            {
+                  "name": "Casa de Arte y Oficios  Alcaldía de San Diego",
+                  "text": "Instituție municipală în San Diego, oferind cursuri de meșteșuguri tradiționale și formare profesională.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.960262,
+                        10.228641
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Amfiteatru în aer liber situat într-un parc, folosit regulat pentru concerte și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.964155,
+                        10.2315
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "Sală de întruniri funcțională a Martorilor lui Iehova, utilizată pentru întâlniri religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        -68.027001,
+                        10.146887
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial La Ascención del Señor",
+                  "text": "Această biserică parohială modernă servește ca centru religios pentru comunitatea înconjurătoare din Valencia.",
+                  "category": "religious",
+                  "coords": [
+                        -68.015027,
+                        10.201228
+                  ]
+            },
+            {
+                  "name": "Periférico La Candelaria",
+                  "text": "O piață tradițională de cartier în La Candelaria, cunoscută pentru alimentele proaspete și produsele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.01054,
+                        10.167854
+                  ]
+            },
+            {
+                  "name": "Mercado Periférico La Isabelica",
+                  "text": "Această piață locală plină de viață din La Isabelica oferă o gamă largă de produse proaspete și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.973945,
+                        10.162254
+                  ]
+            },
+            {
+                  "name": "Mercado de Los Goajiros",
+                  "text": "O piață specializată din Valencia, cunoscută pentru varietatea sa de textile, îmbrăcăminte și obiecte de artizanat local.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.992326,
+                        10.15993
+                  ]
+            },
+            {
+                  "name": "Mercado de Mayoristas de Tocuyito",
+                  "text": "Un centru en-gros extins în Tocuyito, crucial pentru distribuția produselor agricole în regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.068006,
+                        10.120863
+                  ]
+            },
+            {
+                  "name": "Banda del estado Carabobo",
+                  "text": "Ansamblul muzical oficial al statului Carabobo, care concertează regulat la evenimente culturale în piețele publice.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.005211,
+                        10.180956
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Palotal",
+                  "text": "O sală de regat a Martorilor lui Iehova din sectorul Palotal, care se remarcă prin arhitectura sa simplă și funcțională.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.008791,
+                        10.163017
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa",
+                  "text": "O biserică simplă de cartier în Santa Rosa, care este un punct de întâlnire important pentru comunitatea catolică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000017,
+                        10.165676
+                  ]
+            },
+            {
+                  "name": "Casa Manosalva Arias",
+                  "text": "Un centru religios și casă comunitară care oferă diverse activități sociale și spirituale în Valencia.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000407,
+                        10.21088
+                  ]
+            },
+            {
+                  "name": "Iglesia evangelica",
+                  "text": "O casă de cult locală a comunității evanghelice, cunoscută pentru serviciile sale religioase vibrante și munca comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.966723,
+                        10.230276
+                  ]
+            },
+            {
+                  "name": "Iglesia La Asunción y Santa RIta",
+                  "text": "Această biserică cu hram dublu îmbină venerarea Adormirii Maicii Domnului și a Sfintei Rita.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.995385,
+                        10.217982
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador",
+                  "text": "O biserică dedicată Sfântului Isidor Plugarul, frecventată adesea de populația rurală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.939673,
+                        10.142837
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Această clădire religioasă este dedicată Sfintei Treimi și servește ca loc de reflecție și rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.944919,
+                        10.138981
+                  ]
+            },
+            {
+                  "name": "Iglesia Espíritu Santo",
+                  "text": "Biserica Sfântul Duh este un edificiu sacru modern care servește asistenței spirituale a cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.971763,
+                        10.163629
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "O biserică în cinstea Maicii Domnului din Guadalupe, patroana Americii Latine, cu semnificație locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.979839,
+                        10.168416
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O clădire de biserică mormonă contemporană, caracterizată prin liniile sale curate și spațiile exterioare îngrijite.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.945861,
+                        10.138619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maranatha Venezuela",
+                  "text": "Contemporary evangelical church in Valencia featuring a massive auditorium for thousands of worshipers.",
+                  "category": "religious",
+                  "coords": [
+                        -67.963477,
+                        10.18883
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora del Socorro",
+                  "text": "Neoclassical cathedral housing the revered image of the city's patroness, Nuestra Señora del Socorro.",
+                  "category": "religious",
+                  "coords": [
+                        -68.002562,
+                        10.182643
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Cerro El Casupo",
+                  "text": "Nature park in the hills of Valencia with hiking trails offering panoramic views of the city.",
+                  "category": "park",
+                  "coords": [
+                        -68.034479,
+                        10.216421
+                  ]
+            },
+            {
+                  "name": "Casa de La Estrella",
+                  "text": "Historic 17th-century building where the 1830 separation of Venezuela from Gran Colombia was signed.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007538,
+                        10.181515
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Casa de Los Celis",
+                  "text": "Colonial mansion displaying archaeological finds like mammoth tusks and religious art from the colonial era.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007297,
+                        10.180111
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Valencia",
+                  "text": "Cultural center in Valencia showcasing significant collections of contemporary Venezuelan art and regional history.",
+                  "category": "museum",
+                  "coords": [
+                        -68.004595,
+                        10.18937
+                  ]
+            },
+            {
+                  "name": "Casa Páez",
+                  "text": "Former residence of General José Antonio Páez, famous for its murals depicting historic battle scenes.",
+                  "category": "museum",
+                  "coords": [
+                        -68.00152,
+                        10.181887
+                  ]
+            },
+            {
+                  "name": "Museo de la Cultura",
+                  "text": "Modern cultural museum featuring rotating exhibitions and spaces for contemporary art and workshops.",
+                  "category": "museum",
+                  "coords": [
+                        -67.998221,
+                        10.185698
+                  ]
+            },
+            {
+                  "name": "La Casona",
+                  "text": "Traditional colonial-style building serving as a community center for art exhibitions and craft workshops.",
+                  "category": "museum",
+                  "coords": [
+                        -68.007485,
+                        10.201941
+                  ]
+            },
+            {
+                  "name": "Palacio de los Iturriza",
+                  "text": "Magnificent late 19th-century eclectic palace featuring a distinctive red-brick watchtower.",
+                  "category": "museum",
+                  "coords": [
+                        -68.005038,
+                        10.199105
+                  ]
+            },
+            {
+                  "name": "Ateneo de La Isabelica",
+                  "text": "Cultural and arts center in the La Isabelica district, promoting local artists and community projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.974892,
+                        10.162514
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Valencia",
+                  "text": "Magnificent theater from 1894 with a dome decorated by a monumental painting by Antonio Herrera Toro.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.006294,
+                        10.182388
+                  ]
+            },
+            {
+                  "name": "Teatro Guaparo",
+                  "text": "Modern theater and cinema complex in the Guaparo district, a hub for entertainment and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.010898,
+                        10.22536
+                  ]
+            },
+            {
+                  "name": "Casa de Arte y Oficios  Alcaldía de San Diego",
+                  "text": "Municipal institution in San Diego offering courses in traditional crafts and vocational arts training.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.960262,
+                        10.228641
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Open-air amphitheater located in a park, used regularly for concerts and outdoor cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.964155,
+                        10.2315
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "Functional meeting hall of Jehovah's Witnesses used for local religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -68.027001,
+                        10.146887
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial La Ascención del Señor",
+                  "text": "This modern neighborhood parish church serves as a religious center for the surrounding community in Valencia.",
+                  "category": "religious",
+                  "coords": [
+                        -68.015027,
+                        10.201228
+                  ]
+            },
+            {
+                  "name": "Periférico La Candelaria",
+                  "text": "A traditional neighborhood market in La Candelaria known for its fresh food and local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.01054,
+                        10.167854
+                  ]
+            },
+            {
+                  "name": "Mercado Periférico La Isabelica",
+                  "text": "This bustling local market in La Isabelica offers a wide variety of fresh produce and household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.973945,
+                        10.162254
+                  ]
+            },
+            {
+                  "name": "Mercado de Los Goajiros",
+                  "text": "A specialized market in Valencia known for its variety of textiles, clothing, and local artisanal goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.992326,
+                        10.15993
+                  ]
+            },
+            {
+                  "name": "Mercado de Mayoristas de Tocuyito",
+                  "text": "A sprawling wholesale center in Tocuyito that is crucial for the distribution of agricultural products in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.068006,
+                        10.120863
+                  ]
+            },
+            {
+                  "name": "Banda del estado Carabobo",
+                  "text": "The official musical ensemble of Carabobo state, which regularly performs at cultural events in public plazas.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.005211,
+                        10.180956
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Palotal",
+                  "text": "A Kingdom Hall used by Jehovah's Witnesses in the Palotal sector, featuring simple and functional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.008791,
+                        10.163017
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa",
+                  "text": "A simple neighborhood church in Santa Rosa that serves as an important gathering place for the local Catholic community.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000017,
+                        10.165676
+                  ]
+            },
+            {
+                  "name": "Casa Manosalva Arias",
+                  "text": "A religious center and community house offering various social and spiritual activities in Valencia.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000407,
+                        10.21088
+                  ]
+            },
+            {
+                  "name": "Iglesia evangelica",
+                  "text": "A local Protestant house of worship known for its vibrant services and community outreach in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.966723,
+                        10.230276
+                  ]
+            },
+            {
+                  "name": "Iglesia La Asunción y Santa RIta",
+                  "text": "This dual-patronage church combines the veneration of the Assumption of Mary and Saint Rita.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.995385,
+                        10.217982
+                  ]
+            },
+            {
+                  "name": "San Isidro Labrador",
+                  "text": "A church dedicated to Saint Isidore the Farmer, often visited by the local community for traditional blessings.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.939673,
+                        10.142837
+                  ]
+            },
+            {
+                  "name": "Santísima Trinidad",
+                  "text": "Dedicated to the Holy Trinity, this religious building serves as a place of reflection and prayer for residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.944919,
+                        10.138981
+                  ]
+            },
+            {
+                  "name": "Iglesia Espíritu Santo",
+                  "text": "The Holy Spirit Church is a modern sacred building providing spiritual guidance to the local urban community.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.971763,
+                        10.163629
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "A church in honor of Our Lady of Guadalupe, the patroness of Latin America, holding great local significance.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.979839,
+                        10.168416
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A contemporary Mormon chapel characterized by its clean architectural lines and well-maintained grounds.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.945861,
+                        10.138619
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "VE-G",
     coords: [-68.0117, 10.1620],
@@ -114,7 +2157,1384 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
       en: ["Valencia served as the capital of the Republic of Venezuela three times.", "The city's bullring is the second largest in the world after Mexico City's.", "Lake Valencia (Tacarigua) has no natural outlet to the sea.", "The University of Carabobo is famous for its legal and medical faculties.", "The city hosts the most important industrial trade fairs in the country.", "Valencia was the first city in Venezuela to have a modern urban planning layout.", "The Monument to the Battle of Carabobo features eternal flames and statues.", "Average annual precipitation in the region is about 1,100 millimeters."],
     }, image: "/poi-images/valencia-cities-v2.webp"},
   {
-    id: "barquisimeto-cities-v2",
+    id: "barquisimeto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manto de María Divina Pastora",
+                  "text": "Eines der weltweit höchsten Mariendenkmäler mit einer Höhe von über 60 Metern.",
+                  "category": "historical",
+                  "coords": [
+                        -69.259422,
+                        10.076982
+                  ]
+            },
+            {
+                  "name": "Catedral de Barquisimeto",
+                  "text": "Eine modernistische Kathedrale von Jan Bergkamp mit einer einzigartigen hyperbolischen Schalenstruktur.",
+                  "category": "religious",
+                  "coords": [
+                        -69.321439,
+                        10.073632
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Francisco de Asís",
+                  "text": "Eine traditionelle katholische Kirche im historischen Zentrum von Barquisimeto.",
+                  "category": "religious",
+                  "coords": [
+                        -69.313586,
+                        10.063217
+                  ]
+            },
+            {
+                  "name": "Museo de Barquisimeto",
+                  "text": "Stadtmuseum im historischen Gebäude des ehemaligen Wohltätigkeitshospitals.",
+                  "category": "museum",
+                  "coords": [
+                        -69.316343,
+                        10.061693
+                  ]
+            },
+            {
+                  "name": "monumento al skate",
+                  "text": "Eine moderne urbane Skulptur, die der lokalen Skateboard-Kultur gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -69.310558,
+                        10.077994
+                  ]
+            },
+            {
+                  "name": "La Botella",
+                  "text": "Ein riesiges Monument in Form einer Flasche, das als originelles Wahrzeichen dient.",
+                  "category": "historical",
+                  "coords": [
+                        -69.298814,
+                        10.081024
+                  ]
+            },
+            {
+                  "name": "Tinaja de Barquisimeto",
+                  "text": "Ein großes Denkmal in Form eines traditionellen Tonkrugs, das die lokale Handwerkskunst ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -69.276439,
+                        10.072355
+                  ]
+            },
+            {
+                  "name": "Monumento al Dr. José Gregorio Hernández",
+                  "text": "Ein Denkmal für den beliebten venezolanischen 'Arzt der Armen'.",
+                  "category": "historical",
+                  "coords": [
+                        -69.266528,
+                        10.064832
+                  ]
+            },
+            {
+                  "name": "Monumento Los Abuelos",
+                  "text": "Eine Skulptur im öffentlichen Raum, die den Großeltern und älteren Menschen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -69.289308,
+                        10.080003
+                  ]
+            },
+            {
+                  "name": "Obelisco de Barquisimeto",
+                  "text": "Ein 75 Meter hoher Betonturm, der 1952 zum 400. Stadtjubiläum errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -69.356131,
+                        10.066817
+                  ]
+            },
+            {
+                  "name": "Estatua de Simón Bolívar",
+                  "text": "Eine Bronzestatue des Befreiers auf dem zentralen Plaza Bolívar der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -69.316437,
+                        10.06338
+                  ]
+            },
+            {
+                  "name": "La Flor de Venezuela",
+                  "text": "Ein von Fruto Vivas entworfener Pavillon mit mechanischen Blütenblättern, die sich zum Himmel öffnen.",
+                  "category": "historical",
+                  "coords": [
+                        -69.289749,
+                        10.072543
+                  ]
+            },
+            {
+                  "name": "Monumento al Sol Naciente",
+                  "text": "Eine farbenfrohe kinetische Skulptur von Carlos Cruz-Diez, die optische Effekte mit dem Sonnenlicht erzeugt.",
+                  "category": "historical",
+                  "coords": [
+                        -69.283677,
+                        10.078447
+                  ]
+            },
+            {
+                  "name": "Estatua de la Divina Pastora",
+                  "text": "Eine große Statue zu Ehren der Schutzpatronin des Bundesstaates Lara.",
+                  "category": "historical",
+                  "coords": [
+                        -69.266239,
+                        10.06165
+                  ]
+            },
+            {
+                  "name": "Teatro Juares",
+                  "text": "Eine historische Spielstätte, die für ihre elegante neoklassizistische Fassade bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.3163,
+                        10.065712
+                  ]
+            },
+            {
+                  "name": "Auditorio Vinicio Adames",
+                  "text": "Ein modernes Auditorium für Konzerte und akademische Veranstaltungen an der Universität.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.361211,
+                        10.065215
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Arena Plaza",
+                  "text": "Ein großes Freiluft-Amphitheater für Musikkonzerte und Kulturfestivals.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.286794,
+                        10.081235
+                  ]
+            },
+            {
+                  "name": "anfiteatro del bararida",
+                  "text": "Ein Freilichttheater auf dem üppigen Gelände des Zoologischen Parks Bararida.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.302945,
+                        10.078402
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Complejo Ferial",
+                  "text": "Ein massives Amphitheater für Großveranstaltungen während der jährlichen Stadtmessen.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.282436,
+                        10.080634
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Buenas Nuevas Multisede sede 54",
+                  "text": "Eine große moderne evangelische Kirche mit einer lebendigen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -69.34371,
+                        10.06499
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristo Redentor",
+                  "text": "Eine katholische Pfarrkirche mit schlichter religiöser Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -69.308958,
+                        10.090571
+                  ]
+            },
+            {
+                  "name": "Cementerio Nuevo",
+                  "text": "Der städtische Friedhof mit verschiedenen Kapellen und Ruhestätten.",
+                  "category": "religious",
+                  "coords": [
+                        -69.393302,
+                        10.051114
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Fatima",
+                  "text": "Eine katholische Kirche, die Unserer Lieben Frau von Fatima gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -69.286705,
+                        10.056601
+                  ]
+            },
+            {
+                  "name": "MERCADO MAYORISTA DE BARQUISIMETO (MERCABAR)",
+                  "text": "Ein riesiges Großhandelszentrum und Markt für frische Lebensmittel in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.388949,
+                        10.06833
+                  ]
+            },
+            {
+                  "name": "Merkafur",
+                  "text": "Ein belebter lokaler Marktplatz mit zahlreichen Lebensmittel- und Einzelhandelsständen.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.294633,
+                        10.073588
+                  ]
+            },
+            {
+                  "name": "Complejo Parroquial Nuestra Señora de Guadalupe",
+                  "text": "Ein katholisches Gemeindezentrum und religiöser Gebäudekomplex.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.369476,
+                        10.065555
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "Eine der Jungfrau von Guadalupe gewidmete Kirche als geistiges Zentrum des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.371452,
+                        10.063982
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Las Américas",
+                  "text": "Eine christliche Pfarrkirche, die das Wohnviertel von Barquisimeto versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.384125,
+                        10.048799
+                  ]
+            },
+            {
+                  "name": "Parroquia Padre Pio de Pietrelcina",
+                  "text": "Eine moderne katholische Kirche, benannt nach dem italienischen Heiligen Pater Pio.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.416947,
+                        10.044939
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Ein Gotteshaus der Gemeinschaft der Siebenten-Tags-Adventisten in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.297148,
+                        10.064042
+                  ]
+            },
+            {
+                  "name": "Iglesia Coromoto",
+                  "text": "Eine katholische Kirche zu Ehren der Nationalpatronin Venezuelas, der Jungfrau von Coromoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.304264,
+                        10.081733
+                  ]
+            },
+            {
+                  "name": "Templo de Santa Rosa",
+                  "text": "Ein weltberühmter Wallfahrtsort, der das Originalbild der Divina Pastora beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.270143,
+                        10.059582
+                  ]
+            },
+            {
+                  "name": "Iglesia La Consolación",
+                  "text": "Eine lokale katholische Kirche für Gebete und Gemeindedienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.276608,
+                        10.064986
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista de La Salle",
+                  "text": "Pfarrkirche im östlichen Stadtteil mit modernen liturgischen Räumen.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.331538,
+                        10.088399
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan (Nuestra Sra. de San Juan de Los Lagos) \"La Milagrosa\"",
+                  "text": "Eine katholische Kirche, die auch als Nuestra Señora de San Juan de Los Lagos bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.325824,
+                        10.061245
+                  ]
+            },
+            {
+                  "name": "IGLESIA EVANGELICA SION ASAMBLEAS DE DIOS",
+                  "text": "Ein großer evangelischer Tempel der Denomination Assemblies of God.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.335891,
+                        10.058959
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "Eine christliche Kirche, die dem ersten schwarzen Heiligen Amerikas gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.3785,
+                        10.031673
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Moderne Pfarrkirche im Stadtzentrum von Barquisimeto, die als lokales religiöses Zentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.386833,
+                        10.055329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manto de María Divina Pastora",
+                  "text": "A világ egyik legmagasabb Mária-emlékműve, amely több mint 60 méter magas.",
+                  "category": "historical",
+                  "coords": [
+                        -69.259422,
+                        10.076982
+                  ]
+            },
+            {
+                  "name": "Catedral de Barquisimeto",
+                  "text": "Jan Bergkamp által tervezett modernista katedrális, egyedi hiperbolikus héjszerkezettel.",
+                  "category": "religious",
+                  "coords": [
+                        -69.321439,
+                        10.073632
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Francisco de Asís",
+                  "text": "Hagyományos katolikus templom Barquisimeto történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -69.313586,
+                        10.063217
+                  ]
+            },
+            {
+                  "name": "Museo de Barquisimeto",
+                  "text": "Városi múzeum az egykori jótékonysági kórház történelmi épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -69.316343,
+                        10.061693
+                  ]
+            },
+            {
+                  "name": "monumento al skate",
+                  "text": "A helyi gördeszkás kultúrának szentelt modern városi szobor.",
+                  "category": "historical",
+                  "coords": [
+                        -69.310558,
+                        10.077994
+                  ]
+            },
+            {
+                  "name": "La Botella",
+                  "text": "Egy óriási palack alakú emlékmű, amely a város egyik különleges jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        -69.298814,
+                        10.081024
+                  ]
+            },
+            {
+                  "name": "Tinaja de Barquisimeto",
+                  "text": "Hagyományos agyagkorsót formázó nagy emlékmű, amely a helyi kézművességet hirdeti.",
+                  "category": "historical",
+                  "coords": [
+                        -69.276439,
+                        10.072355
+                  ]
+            },
+            {
+                  "name": "Monumento al Dr. José Gregorio Hernández",
+                  "text": "Emlékmű a népszerű venezuelai „szegények orvosa” tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -69.266528,
+                        10.064832
+                  ]
+            },
+            {
+                  "name": "Monumento Los Abuelos",
+                  "text": "A nagyszülőknek és időseknek szentelt szobor egy közterületen.",
+                  "category": "historical",
+                  "coords": [
+                        -69.289308,
+                        10.080003
+                  ]
+            },
+            {
+                  "name": "Obelisco de Barquisimeto",
+                  "text": "75 méter magas betontorony, amelyet a város 400. évfordulójára építettek 1952-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -69.356131,
+                        10.066817
+                  ]
+            },
+            {
+                  "name": "Estatua de Simón Bolívar",
+                  "text": "A Felszabadító bronzszobra a város központi Plaza Bolívar terén.",
+                  "category": "historical",
+                  "coords": [
+                        -69.316437,
+                        10.06338
+                  ]
+            },
+            {
+                  "name": "La Flor de Venezuela",
+                  "text": "Fruto Vivas által tervezett pavilon mechanikus szirmokkal, amelyek az ég felé nyílnak.",
+                  "category": "historical",
+                  "coords": [
+                        -69.289749,
+                        10.072543
+                  ]
+            },
+            {
+                  "name": "Monumento al Sol Naciente",
+                  "text": "Carlos Cruz-Diez színes kinetikus szobra, amely optikai hatásokat kelt a napsütésben.",
+                  "category": "historical",
+                  "coords": [
+                        -69.283677,
+                        10.078447
+                  ]
+            },
+            {
+                  "name": "Estatua de la Divina Pastora",
+                  "text": "Hatalmas szobor Lara állam védőszentjének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -69.266239,
+                        10.06165
+                  ]
+            },
+            {
+                  "name": "Teatro Juares",
+                  "text": "Történelmi színház, amely elegáns neoklasszicista homlokzatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.3163,
+                        10.065712
+                  ]
+            },
+            {
+                  "name": "Auditorio Vinicio Adames",
+                  "text": "Modern auditórium koncerteknek és akadémiai eseményeknek az egyetemen.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.361211,
+                        10.065215
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Arena Plaza",
+                  "text": "Nagy szabadtéri amfiteátrum zenei koncertek és kulturális fesztiválok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.286794,
+                        10.081235
+                  ]
+            },
+            {
+                  "name": "anfiteatro del bararida",
+                  "text": "Szabadtéri színház a Bararida Állatkert buja területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.302945,
+                        10.078402
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Complejo Ferial",
+                  "text": "Hatalmas amfiteátrum nagy rendezvények számára a város éves vásárai idején.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.282436,
+                        10.080634
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Buenas Nuevas Multisede sede 54",
+                  "text": "Nagy, modern evangéliumi templom, amely élénk helyi közösséget szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -69.34371,
+                        10.06499
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristo Redentor",
+                  "text": "Katolikus plébániatemplom egyszerű vallási építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        -69.308958,
+                        10.090571
+                  ]
+            },
+            {
+                  "name": "Cementerio Nuevo",
+                  "text": "A városi temető különféle kápolnákkal és sírhelyekkel.",
+                  "category": "religious",
+                  "coords": [
+                        -69.393302,
+                        10.051114
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Fatima",
+                  "text": "A Fatimai Szűzanyának szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -69.286705,
+                        10.056601
+                  ]
+            },
+            {
+                  "name": "MERCADO MAYORISTA DE BARQUISIMETO (MERCABAR)",
+                  "text": "Hatalmas nagykereskedelmi központ és friss élelmiszerpiac a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.388949,
+                        10.06833
+                  ]
+            },
+            {
+                  "name": "Merkafur",
+                  "text": "Nyüzsgő helyi piactér számos ételstanddal és üzlettel.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.294633,
+                        10.073588
+                  ]
+            },
+            {
+                  "name": "Complejo Parroquial Nuestra Señora de Guadalupe",
+                  "text": "Katolikus közösségi központ és vallási épületegyüttes.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.369476,
+                        10.065555
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "A Guadalupe-i Szűznek szentelt templom, a környék hitéletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.371452,
+                        10.063982
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Las Américas",
+                  "text": "Keresztény plébániatemplom Barquisimeto lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.384125,
+                        10.048799
+                  ]
+            },
+            {
+                  "name": "Parroquia Padre Pio de Pietrelcina",
+                  "text": "Modern katolikus templom, amelyet az olasz Szent Pio atyáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.416947,
+                        10.044939
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "A Hetednapi Adventista közösség imaháza a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.297148,
+                        10.064042
+                  ]
+            },
+            {
+                  "name": "Iglesia Coromoto",
+                  "text": "Venezuela nemzeti védőszentje, a Coromoto-i Szűz tiszteletére emelt katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.304264,
+                        10.081733
+                  ]
+            },
+            {
+                  "name": "Templo de Santa Rosa",
+                  "text": "Világhírű zarándokhely, amely a Divina Pastora eredeti kegyképét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.270143,
+                        10.059582
+                  ]
+            },
+            {
+                  "name": "Iglesia La Consolación",
+                  "text": "Helyi katolikus templom, amely imádságoknak és közösségi eseményeknek ad helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.276608,
+                        10.064986
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista de La Salle",
+                  "text": "Plébániatemplom a keleti városrészben, modern liturgikus terekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.331538,
+                        10.088399
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan (Nuestra Sra. de San Juan de Los Lagos) \"La Milagrosa\"",
+                  "text": "Katolikus templom, más néven Nuestra Señora de San Juan de Los Lagos.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.325824,
+                        10.061245
+                  ]
+            },
+            {
+                  "name": "IGLESIA EVANGELICA SION ASAMBLEAS DE DIOS",
+                  "text": "Az Isten Gyülekezetei felekezethez tartozó nagy evangéliumi templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.335891,
+                        10.058959
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "Amerika első fekete szentjének szentelt keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.3785,
+                        10.031673
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Modern plébániatemplom Barquisimeto városközpontjában, amely a helyi közösség hitéletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.386833,
+                        10.055329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manto de María Divina Pastora",
+                  "text": "Unul dintre cele mai înalte monumente mariane din lume, cu o înălțime de peste 60 de metri.",
+                  "category": "historical",
+                  "coords": [
+                        -69.259422,
+                        10.076982
+                  ]
+            },
+            {
+                  "name": "Catedral de Barquisimeto",
+                  "text": "Catedrală modernistă proiectată de Jan Bergkamp, având o structură hiperbolică unică.",
+                  "category": "religious",
+                  "coords": [
+                        -69.321439,
+                        10.073632
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Francisco de Asís",
+                  "text": "O biserică catolică tradițională situată în centrul istoric al orașului Barquisimeto.",
+                  "category": "religious",
+                  "coords": [
+                        -69.313586,
+                        10.063217
+                  ]
+            },
+            {
+                  "name": "Museo de Barquisimeto",
+                  "text": "Muzeul orașului găzduit în clădirea istorică a fostului Spital de Caritate.",
+                  "category": "museum",
+                  "coords": [
+                        -69.316343,
+                        10.061693
+                  ]
+            },
+            {
+                  "name": "monumento al skate",
+                  "text": "O sculptură urbană modernă dedicată culturii locale de skateboarding.",
+                  "category": "historical",
+                  "coords": [
+                        -69.310558,
+                        10.077994
+                  ]
+            },
+            {
+                  "name": "La Botella",
+                  "text": "Un monument uriaș în formă de sticlă, care servește ca un reper urban inedit.",
+                  "category": "historical",
+                  "coords": [
+                        -69.298814,
+                        10.081024
+                  ]
+            },
+            {
+                  "name": "Tinaja de Barquisimeto",
+                  "text": "Un monument mare sub formă de vas tradițional de lut, care celebrează meșteșugul local.",
+                  "category": "historical",
+                  "coords": [
+                        -69.276439,
+                        10.072355
+                  ]
+            },
+            {
+                  "name": "Monumento al Dr. José Gregorio Hernández",
+                  "text": "Un monument dedicat îndrăgitului „doctor al săracilor” din Venezuela.",
+                  "category": "historical",
+                  "coords": [
+                        -69.266528,
+                        10.064832
+                  ]
+            },
+            {
+                  "name": "Monumento Los Abuelos",
+                  "text": "O sculptură într-un spațiu public dedicată bunicilor și persoanelor în vârstă.",
+                  "category": "historical",
+                  "coords": [
+                        -69.289308,
+                        10.080003
+                  ]
+            },
+            {
+                  "name": "Obelisco de Barquisimeto",
+                  "text": "Un turn de beton înalt de 75 de metri, construit în 1952 pentru a celebra 400 de ani ai orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -69.356131,
+                        10.066817
+                  ]
+            },
+            {
+                  "name": "Estatua de Simón Bolívar",
+                  "text": "O statuie de bronz a Eliberatorului situată în piața centrală Plaza Bolívar.",
+                  "category": "historical",
+                  "coords": [
+                        -69.316437,
+                        10.06338
+                  ]
+            },
+            {
+                  "name": "La Flor de Venezuela",
+                  "text": "Un pavilion proiectat de Fruto Vivas, cu un sistem de petale mecanice care se deschid spre cer.",
+                  "category": "historical",
+                  "coords": [
+                        -69.289749,
+                        10.072543
+                  ]
+            },
+            {
+                  "name": "Monumento al Sol Naciente",
+                  "text": "O sculptură cinetică colorată de Carlos Cruz-Diez care creează efecte optice cu lumina soarelui.",
+                  "category": "historical",
+                  "coords": [
+                        -69.283677,
+                        10.078447
+                  ]
+            },
+            {
+                  "name": "Estatua de la Divina Pastora",
+                  "text": "O statuie mare care onorează sfânta patroană a statului Lara.",
+                  "category": "historical",
+                  "coords": [
+                        -69.266239,
+                        10.06165
+                  ]
+            },
+            {
+                  "name": "Teatro Juares",
+                  "text": "O sală istorică de spectacole, cunoscută pentru fațada sa elegantă în stil neoclasic.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.3163,
+                        10.065712
+                  ]
+            },
+            {
+                  "name": "Auditorio Vinicio Adames",
+                  "text": "Un auditoriu modern folosit pentru concerte și evenimente academice la universitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.361211,
+                        10.065215
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Arena Plaza",
+                  "text": "Un amfiteatru în aer liber care găzduiește concerte muzicale și festivaluri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.286794,
+                        10.081235
+                  ]
+            },
+            {
+                  "name": "anfiteatro del bararida",
+                  "text": "Un teatru în aer liber situat în incinta Parcului Zoologic Bararida.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.302945,
+                        10.078402
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Complejo Ferial",
+                  "text": "Un amfiteatru masiv folosit pentru evenimente mari în timpul târgurilor anuale ale orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.282436,
+                        10.080634
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Buenas Nuevas Multisede sede 54",
+                  "text": "O biserică evanghelică modernă și mare, care deservește o comunitate locală vibrantă.",
+                  "category": "religious",
+                  "coords": [
+                        -69.34371,
+                        10.06499
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristo Redentor",
+                  "text": "O parohie catolică locală cu o arhitectură religioasă modestă.",
+                  "category": "religious",
+                  "coords": [
+                        -69.308958,
+                        10.090571
+                  ]
+            },
+            {
+                  "name": "Cementerio Nuevo",
+                  "text": "Principalul cimitir municipal, cuprinzând diverse capele și locuri de odihnă.",
+                  "category": "religious",
+                  "coords": [
+                        -69.393302,
+                        10.051114
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Fatima",
+                  "text": "O biserică catolică dedicată Maicii Domnului de la Fatima.",
+                  "category": "religious",
+                  "coords": [
+                        -69.286705,
+                        10.056601
+                  ]
+            },
+            {
+                  "name": "MERCADO MAYORISTA DE BARQUISIMETO (MERCABAR)",
+                  "text": "Un centru masiv de distribuție angro și piață pentru produse proaspete din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.388949,
+                        10.06833
+                  ]
+            },
+            {
+                  "name": "Merkafur",
+                  "text": "O piață locală animată, cunoscută pentru varietatea de tarabe cu alimente și magazine.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.294633,
+                        10.073588
+                  ]
+            },
+            {
+                  "name": "Complejo Parroquial Nuestra Señora de Guadalupe",
+                  "text": "Un centru comunitar catolic polivalent și complex religios.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.369476,
+                        10.065555
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "O biserică dedicată Fecioarei de Guadalupe, un centru spiritual pentru cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.371452,
+                        10.063982
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Las Américas",
+                  "text": "O parohie creștină care deservește zona rezidențială din Barquisimeto.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.384125,
+                        10.048799
+                  ]
+            },
+            {
+                  "name": "Parroquia Padre Pio de Pietrelcina",
+                  "text": "O biserică catolică modernă numită după sfântul italian Padre Pio din Pietrelcina.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.416947,
+                        10.044939
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "Un lăcaș de cult pentru comunitatea adventistă de ziua a șaptea din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.297148,
+                        10.064042
+                  ]
+            },
+            {
+                  "name": "Iglesia Coromoto",
+                  "text": "O biserică catolică ce onorează patroana națională a Venezuelei, Fecioara de Coromoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.304264,
+                        10.081733
+                  ]
+            },
+            {
+                  "name": "Templo de Santa Rosa",
+                  "text": "Un loc de pelerinaj renumit la nivel mondial, care adăpostește imaginea originală a Divinei Pastora.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.270143,
+                        10.059582
+                  ]
+            },
+            {
+                  "name": "Iglesia La Consolación",
+                  "text": "O biserică catolică locală care oferă spațiu pentru rugăciune și servicii comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.276608,
+                        10.064986
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista de La Salle",
+                  "text": "O biserică parohială situată în districtul de est, cu spații liturgice moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.331538,
+                        10.088399
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan (Nuestra Sra. de San Juan de Los Lagos) \"La Milagrosa\"",
+                  "text": "O biserică catolică cunoscută și sub numele de Nuestra Señora de San Juan de Los Lagos.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.325824,
+                        10.061245
+                  ]
+            },
+            {
+                  "name": "IGLESIA EVANGELICA SION ASAMBLEAS DE DIOS",
+                  "text": "Un templu evanghelic mare aparținând denominației Adunările lui Dumnezeu.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.335891,
+                        10.058959
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "O biserică creștină dedicată primului sfânt de culoare din Americi.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.3785,
+                        10.031673
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Biserică parohială modernă în centrul orașului Barquisimeto, servind drept centru religios local.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.386833,
+                        10.055329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manto de María Divina Pastora",
+                  "text": "One of the world's tallest Marian monuments, standing over 60 meters high.",
+                  "category": "historical",
+                  "coords": [
+                        -69.259422,
+                        10.076982
+                  ]
+            },
+            {
+                  "name": "Catedral de Barquisimeto",
+                  "text": "Modernist cathedral designed by Jan Bergkamp with a unique hyperbolic shell structure.",
+                  "category": "religious",
+                  "coords": [
+                        -69.321439,
+                        10.073632
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Francisco de Asís",
+                  "text": "A traditional Catholic church located in the historic center of Barquisimeto.",
+                  "category": "religious",
+                  "coords": [
+                        -69.313586,
+                        10.063217
+                  ]
+            },
+            {
+                  "name": "Museo de Barquisimeto",
+                  "text": "City museum located in the historical building of the former Charity Hospital.",
+                  "category": "museum",
+                  "coords": [
+                        -69.316343,
+                        10.061693
+                  ]
+            },
+            {
+                  "name": "monumento al skate",
+                  "text": "A modern urban sculpture dedicated to the local skateboarding community.",
+                  "category": "historical",
+                  "coords": [
+                        -69.310558,
+                        10.077994
+                  ]
+            },
+            {
+                  "name": "La Botella",
+                  "text": "A giant bottle-shaped monument serving as a quirky urban landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -69.298814,
+                        10.081024
+                  ]
+            },
+            {
+                  "name": "Tinaja de Barquisimeto",
+                  "text": "A large monument shaped like a traditional clay jar, celebrating local craftsmanship.",
+                  "category": "historical",
+                  "coords": [
+                        -69.276439,
+                        10.072355
+                  ]
+            },
+            {
+                  "name": "Monumento al Dr. José Gregorio Hernández",
+                  "text": "A monument dedicated to the beloved Venezuelan 'Doctor of the Poor'.",
+                  "category": "historical",
+                  "coords": [
+                        -69.266528,
+                        10.064832
+                  ]
+            },
+            {
+                  "name": "Monumento Los Abuelos",
+                  "text": "A sculpture in a public space dedicated to grandparents and the elderly.",
+                  "category": "historical",
+                  "coords": [
+                        -69.289308,
+                        10.080003
+                  ]
+            },
+            {
+                  "name": "Obelisco de Barquisimeto",
+                  "text": "A 75-meter-high concrete tower built to celebrate the city's 400th anniversary in 1952.",
+                  "category": "historical",
+                  "coords": [
+                        -69.356131,
+                        10.066817
+                  ]
+            },
+            {
+                  "name": "Estatua de Simón Bolívar",
+                  "text": "A bronze statue of the Liberator standing in the city's central Plaza Bolívar.",
+                  "category": "historical",
+                  "coords": [
+                        -69.316437,
+                        10.06338
+                  ]
+            },
+            {
+                  "name": "La Flor de Venezuela",
+                  "text": "A striking pavilion designed by Fruto Vivas with a mechanical petal system that opens to the sky.",
+                  "category": "historical",
+                  "coords": [
+                        -69.289749,
+                        10.072543
+                  ]
+            },
+            {
+                  "name": "Monumento al Sol Naciente",
+                  "text": "A colorful kinetic sculpture by Carlos Cruz-Diez that creates optical effects with the sun.",
+                  "category": "historical",
+                  "coords": [
+                        -69.283677,
+                        10.078447
+                  ]
+            },
+            {
+                  "name": "Estatua de la Divina Pastora",
+                  "text": "A large statue honoring the patron saint of the Lara state.",
+                  "category": "historical",
+                  "coords": [
+                        -69.266239,
+                        10.06165
+                  ]
+            },
+            {
+                  "name": "Teatro Juares",
+                  "text": "A historic performing arts venue known for its elegant Neoclassical architectural style.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.3163,
+                        10.065712
+                  ]
+            },
+            {
+                  "name": "Auditorio Vinicio Adames",
+                  "text": "A modern auditorium used for concerts and academic events at the local university.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.361211,
+                        10.065215
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Arena Plaza",
+                  "text": "A large outdoor amphitheater hosting major musical concerts and cultural festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.286794,
+                        10.081235
+                  ]
+            },
+            {
+                  "name": "anfiteatro del bararida",
+                  "text": "An open-air theater located within the lush grounds of the Bararida Zoological Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.302945,
+                        10.078402
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Complejo Ferial",
+                  "text": "A massive amphitheater used for large-scale events during the city's annual fairs.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.282436,
+                        10.080634
+                  ]
+            },
+            {
+                  "name": "Iglesia Las Buenas Nuevas Multisede sede 54",
+                  "text": "A large contemporary evangelical church serving a vibrant local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -69.34371,
+                        10.06499
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristo Redentor",
+                  "text": "A local Catholic parish church serving the community with its modest religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -69.308958,
+                        10.090571
+                  ]
+            },
+            {
+                  "name": "Cementerio Nuevo",
+                  "text": "The main municipal burial ground featuring various chapels and resting places.",
+                  "category": "religious",
+                  "coords": [
+                        -69.393302,
+                        10.051114
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de Fatima",
+                  "text": "A Catholic church dedicated to Our Lady of Fatima, featuring traditional religious art.",
+                  "category": "religious",
+                  "coords": [
+                        -69.286705,
+                        10.056601
+                  ]
+            },
+            {
+                  "name": "MERCADO MAYORISTA DE BARQUISIMETO (MERCABAR)",
+                  "text": "A massive wholesale distribution center and market for fresh produce in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.388949,
+                        10.06833
+                  ]
+            },
+            {
+                  "name": "Merkafur",
+                  "text": "A bustling local marketplace known for its variety of food stalls and retail shops.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.294633,
+                        10.073588
+                  ]
+            },
+            {
+                  "name": "Complejo Parroquial Nuestra Señora de Guadalupe",
+                  "text": "A multi-purpose Catholic community center and religious facility.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.369476,
+                        10.065555
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Guadalupe",
+                  "text": "A church dedicated to the Virgin of Guadalupe, acting as a spiritual hub for the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.371452,
+                        10.063982
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de Las Américas",
+                  "text": "A Christian parish church serving the local residential area of Barquisimeto.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.384125,
+                        10.048799
+                  ]
+            },
+            {
+                  "name": "Parroquia Padre Pio de Pietrelcina",
+                  "text": "A modern Catholic church named after the Italian saint Padre Pio of Pietrelcina.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.416947,
+                        10.044939
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista del Séptimo Día",
+                  "text": "A house of worship for the Seventh-day Adventist community in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.297148,
+                        10.064042
+                  ]
+            },
+            {
+                  "name": "Iglesia Coromoto",
+                  "text": "A Catholic church honoring Venezuela's national patroness, the Virgin of Coromoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.304264,
+                        10.081733
+                  ]
+            },
+            {
+                  "name": "Templo de Santa Rosa",
+                  "text": "A world-renowned pilgrimage site that houses the original image of the Divina Pastora.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.270143,
+                        10.059582
+                  ]
+            },
+            {
+                  "name": "Iglesia La Consolación",
+                  "text": "A local Catholic church providing a space for prayer and community services.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.276608,
+                        10.064986
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista de La Salle",
+                  "text": "A parish church located in the eastern district, featuring modern liturgical spaces.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.331538,
+                        10.088399
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan (Nuestra Sra. de San Juan de Los Lagos) \"La Milagrosa\"",
+                  "text": "A Catholic church also known as Nuestra Señora de San Juan de Los Lagos.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.325824,
+                        10.061245
+                  ]
+            },
+            {
+                  "name": "IGLESIA EVANGELICA SION ASAMBLEAS DE DIOS",
+                  "text": "A large evangelical temple belonging to the Assemblies of God denomination.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.335891,
+                        10.058959
+                  ]
+            },
+            {
+                  "name": "Parroquia San Martín de Porres",
+                  "text": "A Christian church dedicated to the first Black saint of the Americas.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.3785,
+                        10.031673
+                  ]
+            },
+            {
+                  "name": "Parroquia Sagrada Familia",
+                  "text": "Modern parish church in the city center of Barquisimeto, serving as a focal point for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.386833,
+                        10.055329
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "VE-K",
     coords: [-69.3473, 10.0678],
@@ -151,7 +3571,1384 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
       en: ["Venezuela's fourth-largest city and the capital of Lara State.", "Founded in 1552 by Juan de Villegas, originally as Nueva Segovia.", "Nicknamed 'The Twilight City' for its vivid pink and purple sunsets.", "Home to the unique, modernistic Barquisimeto Cathedral (completed 1968).", "The 75-meter Obelisk was built to celebrate the city's 400th birthday.", "The Divina Pastora pilgrimage on January 14th attracts over 2 million people.", "A major commercial hub connecting Central and Western Venezuela.", "Located at an elevation of 566 meters (1,857 ft) above sea level."],
     }, image: "/poi-images/barquisimeto-cities-v2.webp"},
   {
-    id: "maracay-cities-v2",
+    id: "maracay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Cruz",
+                  "text": "Ein großes Gedenkkreuz, das als spirituelles Wahrzeichen in Maracay steht.",
+                  "category": "historical",
+                  "coords": [
+                        -67.536049,
+                        10.173081
+                  ]
+            },
+            {
+                  "name": "Cerro El Mácaro",
+                  "text": "Ein markanter Berggipfel im Küstengebirge mit Blick über das umliegende Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -67.50766,
+                        10.245098
+                  ]
+            },
+            {
+                  "name": "Samán de Güere",
+                  "text": "Ein historischer Baum und Nationaldenkmal, an dem Simón Bolívar mit seinen Truppen geruht haben soll.",
+                  "category": "historical",
+                  "coords": [
+                        -67.509197,
+                        10.226512
+                  ]
+            },
+            {
+                  "name": "Obelisco Maracay",
+                  "text": "Dieses 65 Meter hohe Betondenkmal dient als Wahrzeichen am östlichen Eingang von Maracay.",
+                  "category": "historical",
+                  "coords": [
+                        -67.572608,
+                        10.245043
+                  ]
+            },
+            {
+                  "name": "Teatro Urbano",
+                  "text": "Ein städtisches Theater in Maracay, das lokale Aufführungen und kulturelle Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.671911,
+                        10.281036
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporáneo de Maracay Mario Abreu (MACMA)",
+                  "text": "Dieses Museum für zeitgenössische Kunst präsentiert Werke bedeutender venezolanischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        -67.610091,
+                        10.248977
+                  ]
+            },
+            {
+                  "name": "Centro de Historia del Estado Aragua",
+                  "text": "Ein Museum, das in einem Kolonialgebäude untergebracht ist und die lokale Geschichte des Bundesstaates Aragua bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -67.602203,
+                        10.250682
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Maracay",
+                  "text": "Ein moderner Wasserpark in Maracay mit verschiedenen Rutschen und Schwimmbecken für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.569045,
+                        10.228813
+                  ]
+            },
+            {
+                  "name": "Fortín de La Cabrera",
+                  "text": "Eine koloniale Verteidigungsfestung auf einem strategischen Hügel zwischen Maracay und dem Valenciasee.",
+                  "category": "fortress",
+                  "coords": [
+                        -67.676203,
+                        10.256306
+                  ]
+            },
+            {
+                  "name": "Ateneo de Maracay",
+                  "text": "Ein bedeutendes Kulturzentrum und Theater in Maracay, das für seine architektonische Eleganz bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.59983,
+                        10.252971
+                  ]
+            },
+            {
+                  "name": "Museo Aeronáutico",
+                  "text": "Dieses Museum auf dem Gelände des ersten Luftwaffenstützpunkts Venezuelas stellt eine Sammlung historischer Militärflugzeuge aus.",
+                  "category": "museum",
+                  "coords": [
+                        -67.594541,
+                        10.252378
+                  ]
+            },
+            {
+                  "name": "Cuartel Bolívar",
+                  "text": "Eine historische Militärkaserne in Maracay mit traditioneller spanischer Kolonialarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        -67.592533,
+                        10.250439
+                  ]
+            },
+            {
+                  "name": "Cuartel Sucre",
+                  "text": "Eine weitere bedeutende historische Kaserne der Stadt, die die militärische Vergangenheit von Maracay widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        -67.594091,
+                        10.250726
+                  ]
+            },
+            {
+                  "name": "Teatro de la Ópera de Maracay",
+                  "text": "Ein elegantes modernistisches Gebäude von Luis Malaussena, das für seinen prachtvollen Saal bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.595429,
+                        10.248724
+                  ]
+            },
+            {
+                  "name": "Concha Acústica de Las Delicias",
+                  "text": "Ein Freiluft-Amphitheater mit einer markanten parabolischen Akustikschale für Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.588694,
+                        10.265054
+                  ]
+            },
+            {
+                  "name": "Teatro del Hotel Maracay",
+                  "text": "Das Theater des ikonischen Hotel Maracay ist ein Beispiel für die luxuriöse Architektur der Mitte des 20. Jahrhunderts.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.57771,
+                        10.287161
+                  ]
+            },
+            {
+                  "name": "Zoológico de Las Delicias",
+                  "text": "Venezuelas ältester Zoo liegt in einem üppigen Park und konzentriert sich auf den Schutz der regionalen Tierwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.563774,
+                        10.287147
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Eine kleine, ruhige Kapelle in Maracay, die als Ort der stillen Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        -67.581134,
+                        10.248386
+                  ]
+            },
+            {
+                  "name": "Iglesia Seminarista",
+                  "text": "Eine christliche Kirche, die dem örtlichen Seminar angegliedert ist und eine einfache, würdevolle Architektur aufweist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.58747,
+                        10.276919
+                  ]
+            },
+            {
+                  "name": "San Jacinto",
+                  "text": "Eine christliche Kirche im Viertel San Jacinto, die für die örtliche Gemeinde von zentraler Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.55951,
+                        10.240081
+                  ]
+            },
+            {
+                  "name": "Iglesia San Judas Tadeo",
+                  "text": "Ein modernes christliches Gotteshaus in Maracay, das dem heiligen Judas Thaddäus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.585042,
+                        10.234663
+                  ]
+            },
+            {
+                  "name": "Catedral de Palo Negro",
+                  "text": "Die Hauptkirche von Palo Negro, die durch ihre markante Fassade im Stadtzentrum hervorsticht.",
+                  "category": "religious",
+                  "coords": [
+                        -67.545586,
+                        10.171257
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Rosario, La Morita II",
+                  "text": "Eine lokale Kapelle in der Gemeinde La Morita II, die der Jungfrau vom Rosenkranz gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.548302,
+                        10.215313
+                  ]
+            },
+            {
+                  "name": "Iglesia San Bartolome",
+                  "text": "Eine christliche Kirche in Maracay, die nach dem Apostel Bartholomäus benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.578668,
+                        10.232123
+                  ]
+            },
+            {
+                  "name": "Iglesia La Inmaculada",
+                  "text": "Ein katholisches Gotteshaus, das der Unbefleckten Empfängnis gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -67.576565,
+                        10.243197
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Carmen",
+                  "text": "Diese Kirche in Maracay ist ein wichtiges lokales Zentrum für die Verehrung Unserer Lieben Frau auf dem Berge Karmel.",
+                  "category": "religious",
+                  "coords": [
+                        -67.594358,
+                        10.246119
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - La Fuente",
+                  "text": "Ein religiöses Zentrum in Maracay, das als Versammlungsort für die christliche Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.607751,
+                        10.237178
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Candelaria",
+                  "text": "Eine im traditionellen Stil erbaute Kirche, die der Jungfrau von Candelaria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -67.638161,
+                        10.286121
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - Manantial",
+                  "text": "Ein christliches Zentrum, das spirituelle Aktivitäten und Gemeinschaftstreffen in der Stadt organisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.616018,
+                        10.255891
+                  ]
+            },
+            {
+                  "name": "Capilla Jesús Cautivo",
+                  "text": "Eine kleine Kapelle, die Jesus dem Gefangenen gewidmet ist und ein Ort lokaler Verehrung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.624433,
+                        10.268384
+                  ]
+            },
+            {
+                  "name": "San Juan Apóstol",
+                  "text": "Eine christliche Kirche in Maracay, die dem Apostel Johannes gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.624502,
+                        10.280889
+                  ]
+            },
+            {
+                  "name": "Santuario Madre María de San José",
+                  "text": "Dieses religiöse Heiligtum bewahrt den unversehrten Leichnam der ersten seliggesprochenen venezolanischen Frau auf.",
+                  "category": "religious",
+                  "coords": [
+                        -67.599787,
+                        10.251754
+                  ]
+            },
+            {
+                  "name": "Catedral de San José de Maracay",
+                  "text": "Diese im 18. Jahrhundert erbaute Kolonialkathedrale ist die wichtigste religiöse Stätte an der Plaza Bolívar.",
+                  "category": "religious",
+                  "coords": [
+                        -67.600962,
+                        10.25145
+                  ]
+            },
+            {
+                  "name": "Iglesia La Resurreción del Señor",
+                  "text": "Eine moderne christliche Kirche in Maracay, die der Auferstehung des Herrn gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -67.589445,
+                        10.255513
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Nuestra Señora del Socorro\"",
+                  "text": "Eine beschauliche Pfarrkirche in Maracay, die der Schutzpatronin Unserer Lieben Frau von Socorro gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -67.567116,
+                        10.280656
+                  ]
+            },
+            {
+                  "name": "Mercado Principal de Caña de Azucar",
+                  "text": "Ein lebhafter Stadtteilmarkt in Maracay, der für seine frischen lokalen Erzeugnisse und Waren bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.629638,
+                        10.288544
+                  ]
+            },
+            {
+                  "name": "Merbumar",
+                  "text": "Ein lokaler Marktplatz in Maracay, der als wichtiger Anlaufpunkt für den täglichen Handel der Anwohner dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.620944,
+                        10.268998
+                  ]
+            },
+            {
+                  "name": "Mercado Libre de Maracay",
+                  "text": "Ein großer Freiluftmarkt in Maracay, auf dem eine Vielzahl von Lebensmitteln und Haushaltswaren angeboten wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.609831,
+                        10.260391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Cruz",
+                  "text": "Egy nagy emlékkereszt, amely Maracay egyik spirituális tájékozódási pontja.",
+                  "category": "historical",
+                  "coords": [
+                        -67.536049,
+                        10.173081
+                  ]
+            },
+            {
+                  "name": "Cerro El Mácaro",
+                  "text": "Jellegzetes hegycsúcs a part menti hegységben, amely kilátást nyújt a környező völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -67.50766,
+                        10.245098
+                  ]
+            },
+            {
+                  "name": "Samán de Güere",
+                  "text": "Történelmi fa és nemzeti emlékmű, ahol a hagyomány szerint Simón Bolívar megpihent csapataival.",
+                  "category": "historical",
+                  "coords": [
+                        -67.509197,
+                        10.226512
+                  ]
+            },
+            {
+                  "name": "Obelisco Maracay",
+                  "text": "Ez a 65 méter magas betonemlékmű Maracay keleti bejáratának jellegzetes tájékozódási pontja.",
+                  "category": "historical",
+                  "coords": [
+                        -67.572608,
+                        10.245043
+                  ]
+            },
+            {
+                  "name": "Teatro Urbano",
+                  "text": "Maracay városi színháza, amely helyi előadásoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.671911,
+                        10.281036
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporáneo de Maracay Mario Abreu (MACMA)",
+                  "text": "Ez a kortárs művészeti múzeum neves venezuelai művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -67.610091,
+                        10.248977
+                  ]
+            },
+            {
+                  "name": "Centro de Historia del Estado Aragua",
+                  "text": "Egy gyarmati épületben helyet kapott múzeum, amely Aragua állam helyi történelmét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -67.602203,
+                        10.250682
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Maracay",
+                  "text": "Modern vízi vidámpark Maracayban, különféle csúszdákkal és medencékkel a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.569045,
+                        10.228813
+                  ]
+            },
+            {
+                  "name": "Fortín de La Cabrera",
+                  "text": "Gyarmati védelmi erőd egy stratégiai dombon Maracay és a Valencia-tó között.",
+                  "category": "fortress",
+                  "coords": [
+                        -67.676203,
+                        10.256306
+                  ]
+            },
+            {
+                  "name": "Ateneo de Maracay",
+                  "text": "Maracay jelentős kulturális központja és színháza, amely építészeti eleganciájáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.59983,
+                        10.252971
+                  ]
+            },
+            {
+                  "name": "Museo Aeronáutico",
+                  "text": "Venezuela első légibázisának helyén található múzeum veterán katonai repülőgépek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -67.594541,
+                        10.252378
+                  ]
+            },
+            {
+                  "name": "Cuartel Bolívar",
+                  "text": "Történelmi katonai laktanya Maracayban, hagyományos spanyol gyarmati építészettel.",
+                  "category": "castle",
+                  "coords": [
+                        -67.592533,
+                        10.250439
+                  ]
+            },
+            {
+                  "name": "Cuartel Sucre",
+                  "text": "A város másik jelentős történelmi laktanyája, amely Maracay katonai múltját tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        -67.594091,
+                        10.250726
+                  ]
+            },
+            {
+                  "name": "Teatro de la Ópera de Maracay",
+                  "text": "Egy elegáns modernista épület Luis Malaussena tervezésében, amely nagyterméről és művészeti jelentőségéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.595429,
+                        10.248724
+                  ]
+            },
+            {
+                  "name": "Concha Acústica de Las Delicias",
+                  "text": "Szabadtéri amfiteátrum jellegzetes parabolikus akusztikus héjjal a koncertekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.588694,
+                        10.265054
+                  ]
+            },
+            {
+                  "name": "Teatro del Hotel Maracay",
+                  "text": "Az ikonikus Hotel Maracay színháza a 20. század közepi luxusépítészet egyik példája.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.57771,
+                        10.287161
+                  ]
+            },
+            {
+                  "name": "Zoológico de Las Delicias",
+                  "text": "Venezuela legrégebbi állatkertje egy buja parkban található, és a helyi vadvilág védelmére összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.563774,
+                        10.287147
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Kicsi, csendes kápolna Maracayban, amely az elmélyülés helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -67.581134,
+                        10.248386
+                  ]
+            },
+            {
+                  "name": "Iglesia Seminarista",
+                  "text": "A helyi szemináriumhoz kapcsolódó keresztény templom, egyszerű és méltóságteljes építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.58747,
+                        10.276919
+                  ]
+            },
+            {
+                  "name": "San Jacinto",
+                  "text": "Keresztény templom a San Jacinto negyedben, amely a helyi közösség központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.55951,
+                        10.240081
+                  ]
+            },
+            {
+                  "name": "Iglesia San Judas Tadeo",
+                  "text": "Modern keresztény imaház Maracayban, amelyet Szent Júdás Tádénak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.585042,
+                        10.234663
+                  ]
+            },
+            {
+                  "name": "Catedral de Palo Negro",
+                  "text": "Palo Negro főtemploma, amely jellegzetes homlokzatával tűnik ki a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        -67.545586,
+                        10.171257
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Rosario, La Morita II",
+                  "text": "Helyi kápolna La Morita II közösségében, amelyet a Rózsafüzér Szüzének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.548302,
+                        10.215313
+                  ]
+            },
+            {
+                  "name": "Iglesia San Bartolome",
+                  "text": "Szent Bertalan apostolról elnevezett keresztény templom Maracayban.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.578668,
+                        10.232123
+                  ]
+            },
+            {
+                  "name": "Iglesia La Inmaculada",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt katolikus imaház.",
+                  "category": "religious",
+                  "coords": [
+                        -67.576565,
+                        10.243197
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Carmen",
+                  "text": "Ez a maracayi templom a Kármelhegyi Boldogasszony tiszteletének fontos helyi központja.",
+                  "category": "religious",
+                  "coords": [
+                        -67.594358,
+                        10.246119
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - La Fuente",
+                  "text": "Vallási központ Maracayban, amely a keresztény közösség gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.607751,
+                        10.237178
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Candelaria",
+                  "text": "Hagyományos stílusban épült templom, amelyet a Gyertyaszentelő Szűznek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -67.638161,
+                        10.286121
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - Manantial",
+                  "text": "Keresztény központ, amely spirituális tevékenységeket és közösségi találkozókat szervez a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.616018,
+                        10.255891
+                  ]
+            },
+            {
+                  "name": "Capilla Jesús Cautivo",
+                  "text": "A Fogoly Jézusnak szentelt kis kápolna, amely a helyi hitélet fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.624433,
+                        10.268384
+                  ]
+            },
+            {
+                  "name": "San Juan Apóstol",
+                  "text": "Szent János apostolnak szentelt keresztény templom Maracayban.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.624502,
+                        10.280889
+                  ]
+            },
+            {
+                  "name": "Santuario Madre María de San José",
+                  "text": "Ez a vallási szentély az első boldoggá avatott venezuelai nő épségben maradt holttestét őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        -67.599787,
+                        10.251754
+                  ]
+            },
+            {
+                  "name": "Catedral de San José de Maracay",
+                  "text": "Ez a 18. században épült gyarmati katedrális a Plaza Bolívar legfontosabb vallási helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -67.600962,
+                        10.25145
+                  ]
+            },
+            {
+                  "name": "Iglesia La Resurreción del Señor",
+                  "text": "Modern keresztény templom Maracayban, amelyet az Úr feltámadásának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -67.589445,
+                        10.255513
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Nuestra Señora del Socorro\"",
+                  "text": "Egy nyugodt plébániatemplom Maracayban, amelyet a Segítő Boldogasszonynak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -67.567116,
+                        10.280656
+                  ]
+            },
+            {
+                  "name": "Mercado Principal de Caña de Azucar",
+                  "text": "Egy élénk környéki piac Maracayban, amely friss helyi termékeiről és áruiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.629638,
+                        10.288544
+                  ]
+            },
+            {
+                  "name": "Merbumar",
+                  "text": "Helyi piactér Maracayban, amely a környékbeliek napi kereskedelmének fontos csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.620944,
+                        10.268998
+                  ]
+            },
+            {
+                  "name": "Mercado Libre de Maracay",
+                  "text": "Nagy szabadtéri piac Maracayban, ahol élelmiszerek és háztartási cikkek széles választékát kínálják.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.609831,
+                        10.260391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Cruz",
+                  "text": "O cruce comemorativă mare care servește ca punct de reper spiritual în Maracay.",
+                  "category": "historical",
+                  "coords": [
+                        -67.536049,
+                        10.173081
+                  ]
+            },
+            {
+                  "name": "Cerro El Mácaro",
+                  "text": "Un vârf montan proeminent în lanțul muntos de coastă, oferind priveliști asupra văii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -67.50766,
+                        10.245098
+                  ]
+            },
+            {
+                  "name": "Samán de Güere",
+                  "text": "Un arbore istoric și monument național unde se spune că Simón Bolívar s-a odihnit alături de trupele sale.",
+                  "category": "historical",
+                  "coords": [
+                        -67.509197,
+                        10.226512
+                  ]
+            },
+            {
+                  "name": "Obelisco Maracay",
+                  "text": "Acest monument de beton înalt de 65 de metri servește ca punct de reper la intrarea de est a orașului Maracay.",
+                  "category": "historical",
+                  "coords": [
+                        -67.572608,
+                        10.245043
+                  ]
+            },
+            {
+                  "name": "Teatro Urbano",
+                  "text": "Un teatru urban din Maracay care găzduiește spectacole locale și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.671911,
+                        10.281036
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporáneo de Maracay Mario Abreu (MACMA)",
+                  "text": "Acest muzeu de artă contemporană prezintă lucrări ale unor artiști venezueleni importanți.",
+                  "category": "museum",
+                  "coords": [
+                        -67.610091,
+                        10.248977
+                  ]
+            },
+            {
+                  "name": "Centro de Historia del Estado Aragua",
+                  "text": "Un muzeu găzduit într-o clădire colonială care păstrează istoria locală a statului Aragua.",
+                  "category": "museum",
+                  "coords": [
+                        -67.602203,
+                        10.250682
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Maracay",
+                  "text": "Un parc acvatic modern în Maracay, cu diverse tobogane și piscine pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.569045,
+                        10.228813
+                  ]
+            },
+            {
+                  "name": "Fortín de La Cabrera",
+                  "text": "O fortăreață defensivă colonială construită pe un deal strategic între Maracay și Lacul Valencia.",
+                  "category": "fortress",
+                  "coords": [
+                        -67.676203,
+                        10.256306
+                  ]
+            },
+            {
+                  "name": "Ateneo de Maracay",
+                  "text": "Un centru cultural și teatru important din Maracay, cunoscut pentru eleganța sa arhitecturală.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.59983,
+                        10.252971
+                  ]
+            },
+            {
+                  "name": "Museo Aeronáutico",
+                  "text": "Situat pe locul primei baze aeriene din Venezuela, acest muzeu expune o colecție de avioane militare de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        -67.594541,
+                        10.252378
+                  ]
+            },
+            {
+                  "name": "Cuartel Bolívar",
+                  "text": "O cazarmă militară istorică din Maracay, cu arhitectură colonială spaniolă tradițională.",
+                  "category": "castle",
+                  "coords": [
+                        -67.592533,
+                        10.250439
+                  ]
+            },
+            {
+                  "name": "Cuartel Sucre",
+                  "text": "O altă cazarmă istorică importantă din oraș, care reflectă trecutul militar al orașului Maracay.",
+                  "category": "castle",
+                  "coords": [
+                        -67.594091,
+                        10.250726
+                  ]
+            },
+            {
+                  "name": "Teatro de la Ópera de Maracay",
+                  "text": "O clădire modernistă elegantă proiectată de Luis Malaussena, cunoscută pentru sala sa grandioasă.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.595429,
+                        10.248724
+                  ]
+            },
+            {
+                  "name": "Concha Acústica de Las Delicias",
+                  "text": "Un amfiteatru în aer liber cu o carcasă acustică parabolică distinctivă pentru concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.588694,
+                        10.265054
+                  ]
+            },
+            {
+                  "name": "Teatro del Hotel Maracay",
+                  "text": "Teatrul emblematicului Hotel Maracay este un exemplu de arhitectură de lux de la mijlocul secolului al XX-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.57771,
+                        10.287161
+                  ]
+            },
+            {
+                  "name": "Zoológico de Las Delicias",
+                  "text": "Grădina zoologică cea mai veche din Venezuela este situată într-un parc luxuriant și se concentrează pe conservarea faunei regionale.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.563774,
+                        10.287147
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "O capelă mică și liniștită din Maracay, care servește ca loc de meditație.",
+                  "category": "religious",
+                  "coords": [
+                        -67.581134,
+                        10.248386
+                  ]
+            },
+            {
+                  "name": "Iglesia Seminarista",
+                  "text": "O biserică creștină afiliată seminarului local, cu o arhitectură simplă și demnă.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.58747,
+                        10.276919
+                  ]
+            },
+            {
+                  "name": "San Jacinto",
+                  "text": "O biserică creștină din cartierul San Jacinto, centrală pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.55951,
+                        10.240081
+                  ]
+            },
+            {
+                  "name": "Iglesia San Judas Tadeo",
+                  "text": "Un lăcaș de cult creștin modern din Maracay, dedicat Sfântului Iuda Tadeu.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.585042,
+                        10.234663
+                  ]
+            },
+            {
+                  "name": "Catedral de Palo Negro",
+                  "text": "Biserica principală din Palo Negro, care se remarcă prin fațada sa distinctivă din centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -67.545586,
+                        10.171257
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Rosario, La Morita II",
+                  "text": "O capelă locală din comunitatea La Morita II, dedicată Fecioarei Rozariului.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.548302,
+                        10.215313
+                  ]
+            },
+            {
+                  "name": "Iglesia San Bartolome",
+                  "text": "O biserică creștină din Maracay numită după Sfântul Apostol Bartolomeu.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.578668,
+                        10.232123
+                  ]
+            },
+            {
+                  "name": "Iglesia La Inmaculada",
+                  "text": "Un lăcaș de cult catolic dedicat Imaculatei Concepții.",
+                  "category": "religious",
+                  "coords": [
+                        -67.576565,
+                        10.243197
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Carmen",
+                  "text": "Această biserică din Maracay este un centru local important pentru venerarea Maicii Domnului de pe Muntele Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        -67.594358,
+                        10.246119
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - La Fuente",
+                  "text": "Un centru religios din Maracay care servește ca loc de adunare pentru comunitatea creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.607751,
+                        10.237178
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Candelaria",
+                  "text": "O biserică construită în stil tradițional, dedicată Fecioarei de Candelaria.",
+                  "category": "religious",
+                  "coords": [
+                        -67.638161,
+                        10.286121
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - Manantial",
+                  "text": "Un centru creștin care organizează activități spirituale și întâlniri comunitare în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.616018,
+                        10.255891
+                  ]
+            },
+            {
+                  "name": "Capilla Jesús Cautivo",
+                  "text": "O mică capelă dedicată lui Isus Captivul, fiind un loc de devoțiune locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.624433,
+                        10.268384
+                  ]
+            },
+            {
+                  "name": "San Juan Apóstol",
+                  "text": "O biserică creștină din Maracay dedicată Sfântului Ioan Apostolul.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.624502,
+                        10.280889
+                  ]
+            },
+            {
+                  "name": "Santuario Madre María de San José",
+                  "text": "Acest sanctuar religios păstrează trupul neputrezit al primei femei din Venezuela care a fost beatificată.",
+                  "category": "religious",
+                  "coords": [
+                        -67.599787,
+                        10.251754
+                  ]
+            },
+            {
+                  "name": "Catedral de San José de Maracay",
+                  "text": "Construită inițial în secolul al XVIII-lea, această catedrală colonială este principalul sit religios din Plaza Bolívar.",
+                  "category": "religious",
+                  "coords": [
+                        -67.600962,
+                        10.25145
+                  ]
+            },
+            {
+                  "name": "Iglesia La Resurreción del Señor",
+                  "text": "O biserică creștină modernă din Maracay, dedicată Învierii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        -67.589445,
+                        10.255513
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Nuestra Señora del Socorro\"",
+                  "text": "O biserică parohială liniștită din Maracay, dedicată Maicii Domnului de Socorro.",
+                  "category": "religious",
+                  "coords": [
+                        -67.567116,
+                        10.280656
+                  ]
+            },
+            {
+                  "name": "Mercado Principal de Caña de Azucar",
+                  "text": "O piață de cartier plină de viață din Maracay, cunoscută pentru produsele și mărfurile locale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.629638,
+                        10.288544
+                  ]
+            },
+            {
+                  "name": "Merbumar",
+                  "text": "O piață locală în Maracay, care servește ca un punct important pentru comerțul zilnic al rezidenților.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.620944,
+                        10.268998
+                  ]
+            },
+            {
+                  "name": "Mercado Libre de Maracay",
+                  "text": "O piață mare în aer liber din Maracay, care oferă o varietate de alimente și articole de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.609831,
+                        10.260391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Cruz",
+                  "text": "A large commemorative cross standing as a spiritual landmark in Maracay.",
+                  "category": "historical",
+                  "coords": [
+                        -67.536049,
+                        10.173081
+                  ]
+            },
+            {
+                  "name": "Cerro El Mácaro",
+                  "text": "A prominent mountain peak in the coastal range offering views over the surrounding valley.",
+                  "category": "natural",
+                  "coords": [
+                        -67.50766,
+                        10.245098
+                  ]
+            },
+            {
+                  "name": "Samán de Güere",
+                  "text": "A historic tree and national monument where Simón Bolívar is said to have rested with his troops.",
+                  "category": "historical",
+                  "coords": [
+                        -67.509197,
+                        10.226512
+                  ]
+            },
+            {
+                  "name": "Obelisco Maracay",
+                  "text": "This 65-meter tall concrete monument stands as a landmark at the eastern entrance to Maracay.",
+                  "category": "historical",
+                  "coords": [
+                        -67.572608,
+                        10.245043
+                  ]
+            },
+            {
+                  "name": "Teatro Urbano",
+                  "text": "A city theatre in Maracay hosting local performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.671911,
+                        10.281036
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporáneo de Maracay Mario Abreu (MACMA)",
+                  "text": "This contemporary art museum showcases works by significant Venezuelan artists.",
+                  "category": "museum",
+                  "coords": [
+                        -67.610091,
+                        10.248977
+                  ]
+            },
+            {
+                  "name": "Centro de Historia del Estado Aragua",
+                  "text": "A museum housed in a colonial building preserving the local history of Aragua State.",
+                  "category": "museum",
+                  "coords": [
+                        -67.602203,
+                        10.250682
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Maracay",
+                  "text": "A modern water park in Maracay featuring various slides and pools for families.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.569045,
+                        10.228813
+                  ]
+            },
+            {
+                  "name": "Fortín de La Cabrera",
+                  "text": "A colonial defensive fort built on a strategic hill between Maracay and Valencia Lake.",
+                  "category": "fortress",
+                  "coords": [
+                        -67.676203,
+                        10.256306
+                  ]
+            },
+            {
+                  "name": "Ateneo de Maracay",
+                  "text": "A significant cultural center and theatre in Maracay, known for its architectural elegance.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.59983,
+                        10.252971
+                  ]
+            },
+            {
+                  "name": "Museo Aeronáutico",
+                  "text": "Located on the site of Venezuela's first airbase, this museum exhibits a collection of vintage military aircraft.",
+                  "category": "museum",
+                  "coords": [
+                        -67.594541,
+                        10.252378
+                  ]
+            },
+            {
+                  "name": "Cuartel Bolívar",
+                  "text": "A historic military barracks in Maracay featuring traditional Spanish colonial architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -67.592533,
+                        10.250439
+                  ]
+            },
+            {
+                  "name": "Cuartel Sucre",
+                  "text": "Another significant historic barracks in the city, reflecting Maracay's military past.",
+                  "category": "castle",
+                  "coords": [
+                        -67.594091,
+                        10.250726
+                  ]
+            },
+            {
+                  "name": "Teatro de la Ópera de Maracay",
+                  "text": "An elegant modernist building designed by Luis Malaussena, known for its grand hall and artistic significance.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.595429,
+                        10.248724
+                  ]
+            },
+            {
+                  "name": "Concha Acústica de Las Delicias",
+                  "text": "An outdoor amphitheater with a distinctive parabolic acoustic shell for concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.588694,
+                        10.265054
+                  ]
+            },
+            {
+                  "name": "Teatro del Hotel Maracay",
+                  "text": "The theatre of the iconic Hotel Maracay is an example of mid-20th-century luxury architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.57771,
+                        10.287161
+                  ]
+            },
+            {
+                  "name": "Zoológico de Las Delicias",
+                  "text": "Venezuela's oldest zoo is set within a lush park and focuses on regional wildlife conservation.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.563774,
+                        10.287147
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "A small, quiet chapel in Maracay serving as a place for quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -67.581134,
+                        10.248386
+                  ]
+            },
+            {
+                  "name": "Iglesia Seminarista",
+                  "text": "A Christian church affiliated with the local seminary, featuring simple and dignified architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.58747,
+                        10.276919
+                  ]
+            },
+            {
+                  "name": "San Jacinto",
+                  "text": "A Christian church in the San Jacinto neighborhood, central to the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.55951,
+                        10.240081
+                  ]
+            },
+            {
+                  "name": "Iglesia San Judas Tadeo",
+                  "text": "A modern Christian place of worship in Maracay dedicated to Saint Jude Thaddeus.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.585042,
+                        10.234663
+                  ]
+            },
+            {
+                  "name": "Catedral de Palo Negro",
+                  "text": "The main church of Palo Negro, standing out with its prominent facade in the town center.",
+                  "category": "religious",
+                  "coords": [
+                        -67.545586,
+                        10.171257
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen del Rosario, La Morita II",
+                  "text": "A local chapel in the La Morita II community dedicated to the Virgin of the Rosary.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.548302,
+                        10.215313
+                  ]
+            },
+            {
+                  "name": "Iglesia San Bartolome",
+                  "text": "A Christian church in Maracay named after Saint Bartholomew the Apostle.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.578668,
+                        10.232123
+                  ]
+            },
+            {
+                  "name": "Iglesia La Inmaculada",
+                  "text": "A Catholic place of worship dedicated to the Immaculate Conception.",
+                  "category": "religious",
+                  "coords": [
+                        -67.576565,
+                        10.243197
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Carmen",
+                  "text": "This church in Maracay is an important local center for the devotion to Our Lady of Mount Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        -67.594358,
+                        10.246119
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - La Fuente",
+                  "text": "A religious center in Maracay serving as a gathering place for the Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.607751,
+                        10.237178
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Candelaria",
+                  "text": "A church built in traditional style, dedicated to the Virgin of Candelaria.",
+                  "category": "religious",
+                  "coords": [
+                        -67.638161,
+                        10.286121
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - Manantial",
+                  "text": "A Christian center organizing spiritual activities and community meetings in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.616018,
+                        10.255891
+                  ]
+            },
+            {
+                  "name": "Capilla Jesús Cautivo",
+                  "text": "A small chapel dedicated to Jesus the Captive, a place of local devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.624433,
+                        10.268384
+                  ]
+            },
+            {
+                  "name": "San Juan Apóstol",
+                  "text": "A Christian church in Maracay dedicated to Saint John the Apostle.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.624502,
+                        10.280889
+                  ]
+            },
+            {
+                  "name": "Santuario Madre María de San José",
+                  "text": "This religious sanctuary preserves the incorrupt body of the first Venezuelan woman to be beatified.",
+                  "category": "religious",
+                  "coords": [
+                        -67.599787,
+                        10.251754
+                  ]
+            },
+            {
+                  "name": "Catedral de San José de Maracay",
+                  "text": "Originally built in the 18th century, this colonial cathedral is the main religious site on Plaza Bolívar.",
+                  "category": "religious",
+                  "coords": [
+                        -67.600962,
+                        10.25145
+                  ]
+            },
+            {
+                  "name": "Iglesia La Resurreción del Señor",
+                  "text": "A modern Christian church in Maracay dedicated to the Resurrection of the Lord.",
+                  "category": "religious",
+                  "coords": [
+                        -67.589445,
+                        10.255513
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Nuestra Señora del Socorro\"",
+                  "text": "A peaceful parish church in Maracay dedicated to Our Lady of Socorro.",
+                  "category": "religious",
+                  "coords": [
+                        -67.567116,
+                        10.280656
+                  ]
+            },
+            {
+                  "name": "Mercado Principal de Caña de Azucar",
+                  "text": "A lively neighborhood market in Maracay known for its fresh local produce and goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.629638,
+                        10.288544
+                  ]
+            },
+            {
+                  "name": "Merbumar",
+                  "text": "A local marketplace in Maracay serving as an important hub for the residents' daily trade.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.620944,
+                        10.268998
+                  ]
+            },
+            {
+                  "name": "Mercado Libre de Maracay",
+                  "text": "A large open-air market in Maracay offering a wide variety of food and household items.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.609831,
+                        10.260391
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "VE-D",
     coords: [-67.5958, 10.2353],

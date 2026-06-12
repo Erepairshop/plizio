@@ -59,7 +59,124 @@ export const poiExtraFrenchguianaCitiesV2: POI[] = [
       fr: ["Fondée en 1643 par des colons français.", "Abrite plus de la moitié de la population de la région."],
     }, image: "/poi-images/gf-cayenne-cities-v2.webp"},
   {
-    id: "gf-saint-laurent-du-maroni-cities-v2",
+    id: "gf-saint-laurent-du-maroni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Débarcadère de la Glacière",
+                  "text": "Ein Anlegeplatz am Maroni-Ufer mit einem kleinen Sandbereich, der für lokale Treffen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.034777,
+                        5.496557
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Eine Pfarrkirche im Herzen von Saint-Laurent, die der lokalen Gemeinde als geistliches Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        -54.029869,
+                        5.495541
+                  ]
+            },
+            {
+                  "name": "Marché aux poissons",
+                  "text": "Ein Markt am Ufer des Maroni, auf dem lokale Fischer frischen Fang aus dem Fluss anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.0337,
+                        5.499872
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Débarcadère de la Glacière",
+                  "text": "Folyóparti kikötőhely a Maroninál, amelynek homokos partja népszerű közösségi találkozóhely.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.034777,
+                        5.496557
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Saint-Laurent szívében található plébániatemplom, amely a helyi közösség hitéletét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -54.029869,
+                        5.495541
+                  ]
+            },
+            {
+                  "name": "Marché aux poissons",
+                  "text": "Folyóparti piac a Maroni mentén, ahol a helyi halászok árulják a friss folyami fogást.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.0337,
+                        5.499872
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Débarcadère de la Glacière",
+                  "text": "Un loc de debarcare pe malul râului Maroni, cu o mică zonă cu nisip populară pentru întâlnirile localnicilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.034777,
+                        5.496557
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "O biserică parohială situată în inima orașului Saint-Laurent, care servește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -54.029869,
+                        5.495541
+                  ]
+            },
+            {
+                  "name": "Marché aux poissons",
+                  "text": "O piață pe malul râului Maroni, unde pescarii locali vând captura proaspătă din apele râului.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.0337,
+                        5.499872
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Débarcadère de la Glacière",
+                  "text": "A riverside landing spot on the Maroni, offering a small sandy area popular for local gatherings.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.034777,
+                        5.496557
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "A parish church serving the spiritual needs of the local community in the heart of Saint-Laurent.",
+                  "category": "religious",
+                  "coords": [
+                        -54.029869,
+                        5.495541
+                  ]
+            },
+            {
+                  "name": "Marché aux poissons",
+                  "text": "A riverside market on the Maroni where local fishermen sell fresh catch from the river's waters.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.0337,
+                        5.499872
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GF",
     coords: [-54.0287, 5.4988],

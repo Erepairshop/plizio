@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraEcuadorNatureV2: POI[] = [
   {
-    id: "chimborazo-nature-v2",
+    id: "chimborazo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agujas De Whymper",
+                  "text": "Markante geologische Felsformationen am Hang des Chimborazo, die nach Edward Whymper benannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.832015,
+                        -1.473394
+                  ]
+            },
+            {
+                  "name": "Reserva de Producción Faunística Chimborazo",
+                  "text": "Ein geschütztes Tierreservat, das sich der Erhaltung von Vikunjas an den Hängen des Berges Chimborazo widmet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.842746,
+                        -1.427753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agujas De Whymper",
+                  "text": "Edward Whymperről elnevezett jellegzetes geológiai sziklaképződmények a Chimborazo lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.832015,
+                        -1.473394
+                  ]
+            },
+            {
+                  "name": "Reserva de Producción Faunística Chimborazo",
+                  "text": "Egy védett faunarezervátum, amely a vikunyák megőrzését szolgálja a Chimborazo hegy lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        -78.842746,
+                        -1.427753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agujas De Whymper",
+                  "text": "Formațiuni stâncoase geologice distincte numite după Edward Whymper, situate pe pantele Chimborazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.832015,
+                        -1.473394
+                  ]
+            },
+            {
+                  "name": "Reserva de Producción Faunística Chimborazo",
+                  "text": "O rezervație faunistică protejată, dedicată conservării vicuniilor pe pantele Muntelui Chimborazo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.842746,
+                        -1.427753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Whymper Needles",
+                  "text": "Distinctive geological rock formations named after Edward Whymper, located on the slopes of Chimborazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.832015,
+                        -1.473394
+                  ]
+            },
+            {
+                  "name": "Reserva de Producción Faunística Chimborazo",
+                  "text": "A protected faunal reserve dedicated to the conservation of vicuñas around the slopes of Mount Chimborazo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.842746,
+                        -1.427753
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-H",
     coords: [-78.816667, -1.466667],
@@ -72,7 +153,88 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Altitude : 6 263 mètres", "Stratovolcan inactif", "Plus haut sommet d'Équateur", "Sommet couvert de glace"],
     }, image: "/poi-images/chimborazo-nature-v2.webp"},
   {
-    id: "cotopaxi-nature-v2",
+    id: "cotopaxi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ami Grande",
+                  "text": "Ami Grande ist ein markanter Berggipfel, der sich über die vulkanischen Landschaften des Naturschutzgebiets Cotopaxi erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.504844,
+                        -0.685884
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Cotopaxi",
+                  "text": "Der Nationalpark Cotopaxi ist ein weitläufiges hochgelegenes Naturschutzgebiet rund um den ikonischen, schneebedeckten Stratovulkan Cotopaxi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.464661,
+                        -0.657005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ami Grande",
+                  "text": "Az Ami Grande egy kiemelkedő hegycsúcs, amely a Cotopaxi természetvédelmi terület vulkanikus tájai fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -78.504844,
+                        -0.685884
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Cotopaxi",
+                  "text": "A Cotopaxi Nemzeti Park egy kiterjedt, magasan fekvő természetvédelmi terület, amelynek központjában az ikonikus, hófödte Cotopaxi rétegvulkán áll.",
+                  "category": "natural",
+                  "coords": [
+                        -78.464661,
+                        -0.657005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ami Grande",
+                  "text": "Ami Grande este un vârf montan proeminent care se înalță deasupra peisajelor vulcanice din rezervația naturală Cotopaxi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.504844,
+                        -0.685884
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Cotopaxi",
+                  "text": "Parcul Național Cotopaxi este o vastă rezervație naturală de mare altitudine, centrată în jurul stratovulcanului iconic și acoperit de zăpadă Cotopaxi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.464661,
+                        -0.657005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ami Grande",
+                  "text": "Ami Grande is a prominent mountain peak rising above the volcanic landscapes of the Cotopaxi nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -78.504844,
+                        -0.685884
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Cotopaxi",
+                  "text": "Cotopaxi National Park is a sweeping high-altitude nature reserve centered around the iconic, snow-capped Cotopaxi stratovolcano.",
+                  "category": "natural",
+                  "coords": [
+                        -78.464661,
+                        -0.657005
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-X",
     coords: [-78.436944, -0.680556],
@@ -141,7 +303,124 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Altitude : 5 897 mètres", "Volcan très actif", "Forme conique parfaite", "Destination d'alpinisme prisée"],
     }, image: "/poi-images/cotopaxi-nature-v2.webp"},
   {
-    id: "cayambe-nature-v2",
+    id: "cayambe-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador",
+                  "text": "Dieser Aussichtspunkt bietet einen direkten Blick auf den schneebedeckten Gipfel des Vulkans Cayambe.",
+                  "category": "natural",
+                  "coords": [
+                        -78.011007,
+                        0.006365
+                  ]
+            },
+            {
+                  "name": "Termas golondrinas",
+                  "text": "Diese natürlichen Thermalquellen liegen in einer vulkanischen Zone und bieten mineralreiches Wasser zur Entspannung.",
+                  "category": "natural",
+                  "coords": [
+                        -78.014563,
+                        0.093052
+                  ]
+            },
+            {
+                  "name": "las golondrinas",
+                  "text": "Diese natürlichen Thermalquellen in der Nähe von Cayambe laden zur Entspannung in den Anden ein.",
+                  "category": "natural",
+                  "coords": [
+                        -78.007885,
+                        0.075584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador",
+                  "text": "Erről a kilátópontról közvetlen rálátás nyílik a Cayambe vulkán hófödte csúcsára.",
+                  "category": "natural",
+                  "coords": [
+                        -78.011007,
+                        0.006365
+                  ]
+            },
+            {
+                  "name": "Termas golondrinas",
+                  "text": "Ezek a vulkáni övezetben található természetes hévízforrások ásványi anyagokban gazdag vizet kínálnak a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -78.014563,
+                        0.093052
+                  ]
+            },
+            {
+                  "name": "las golondrinas",
+                  "text": "Természetes termálforrások Cayambe közelében, pihentető környezetben az Andok hegyei között.",
+                  "category": "natural",
+                  "coords": [
+                        -78.007885,
+                        0.075584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador",
+                  "text": "Acest punct de observație oferă o vedere directă către vârful înzăpezit al vulcanului Cayambe.",
+                  "category": "natural",
+                  "coords": [
+                        -78.011007,
+                        0.006365
+                  ]
+            },
+            {
+                  "name": "Termas golondrinas",
+                  "text": "Aceste izvoare termale naturale sunt situate într-o zonă vulcanică și oferă apă bogată în minerale pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -78.014563,
+                        0.093052
+                  ]
+            },
+            {
+                  "name": "las golondrinas",
+                  "text": "Izvoare termale naturale lângă Cayambe, oferind relaxare în peisajul montan al Andezilor.",
+                  "category": "natural",
+                  "coords": [
+                        -78.007885,
+                        0.075584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador",
+                  "text": "This viewpoint offers a direct vista of the snow-capped summit of the Cayambe volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -78.011007,
+                        0.006365
+                  ]
+            },
+            {
+                  "name": "Golondrinas Hot springs",
+                  "text": "These natural hot springs are located in a volcanic zone and offer mineral-rich waters for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        -78.014563,
+                        0.093052
+                  ]
+            },
+            {
+                  "name": "las golondrinas",
+                  "text": "Natural thermal springs near Cayambe, offering relaxation in the Andean highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -78.007885,
+                        0.075584
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-P",
     coords: [-77.983333, 0.025],
@@ -275,7 +554,88 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Altitude : 5 752 mètres", "Quatrième sommet d'Équateur", "Refuge du condor des Andes", "Difficile à escalader"],
     }, image: "/poi-images/antisana-nature-v2.webp"},
   {
-    id: "el-altar-nature-v2",
+    id: "el-altar-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laguna Amarilla",
+                  "text": "Ein markanter Kratersee, der für seine ausgeprägte gelbe Färbung bekannt ist und hoch oben inmitten einer rauen Vulkanlandschaft liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.424381,
+                        -1.673471
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Verde",
+                  "text": "Ein malerischer Aussichtspunkt mit weitem Blick über die grünlich schimmernde Lagune und die umliegenden Berge.",
+                  "category": "natural",
+                  "coords": [
+                        -78.439364,
+                        -1.71921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laguna Amarilla",
+                  "text": "Lenyűgöző krátertó, amely jellegzetes sárga árnyalatáról ismert egy zord vulkáni tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.424381,
+                        -1.673471
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Verde",
+                  "text": "Festői kilátó, amely lenyűgöző panorámát nyújt a zöldes árnyalatú lagúnára és a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -78.439364,
+                        -1.71921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laguna Amarilla",
+                  "text": "Un lac de crater izbitor, cunoscut pentru nuanța sa galbenă distinctă, situat la înălțime în mijlocul unui peisaj vulcanic accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.424381,
+                        -1.673471
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Verde",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame ample asupra lagunei cu nuanțe verzi și a munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -78.439364,
+                        -1.71921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laguna Amarilla",
+                  "text": "A striking crater lake known for its distinct yellow hue, set high amidst a rugged volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.424381,
+                        -1.673471
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Verde",
+                  "text": "A scenic viewpoint offering sweeping vistas over the green-tinted lagoon and the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -78.439364,
+                        -1.71921
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-H",
     coords: [-78.416667, -1.666667],
@@ -342,7 +702,52 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Altitude : 5 319 mètres", "Caldera effondrée", "Laguna Amarilla au centre", "Techniquement exigeant"],
     }, image: "/poi-images/el-altar-nature-v2.webp"},
   {
-    id: "illiniza-nature-v2",
+    id: "illiniza-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Termas Illinizas",
+                  "text": "Termas Illinizas verfügt über thermale Außenpools, die auf natürliche Weise durch die geothermische Aktivität der nahe gelegenen Zwillingsvulkane Illiniza erhitzt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.698986,
+                        -0.676024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Termas Illinizas",
+                  "text": "A Termas Illinizas szabadtéri termálmedencékkel büszkélkedhet, amelyeket a közeli Illiniza ikervulkánok geotermikus aktivitása természetes módon fűt fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.698986,
+                        -0.676024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Termas Illinizas",
+                  "text": "Termas Illinizas are piscine termale în aer liber încălzite natural de activitatea geotermală a vulcanilor gemeni din apropiere, Illiniza.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.698986,
+                        -0.676024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Termas Illinizas",
+                  "text": "Termas Illinizas features outdoor thermal pools naturally heated by the geothermal activity of the nearby Illiniza twin volcanoes.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.698986,
+                        -0.676024
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-X",
     coords: [-78.716667, -0.666667],
@@ -409,7 +814,556 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Altitude : 5 248 mètres (Sud)", "Volcans jumeaux", "Acclimatation populaire", "Séparés par un col"],
     }, image: "/poi-images/illiniza-nature-v2.webp"},
   {
-    id: "tungurahua-nature-v2",
+    id: "tungurahua-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cima Tungurahua (5023m)",
+                  "text": "Der Gipfel des aktiven Stratovulkans Tungurahua, der eine imposante Höhe von 5023 Metern erreicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.44455,
+                        -1.470293
+                  ]
+            },
+            {
+                  "name": "Volcán Tungurahua",
+                  "text": "Ein Aussichtspunkt, der dramatische Ausblicke auf den aktiven Vulkan Tungurahua und die umgebende Andenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.445946,
+                        -1.462742
+                  ]
+            },
+            {
+                  "name": "Chonglontuz",
+                  "text": "Eine Naturattraktion inmitten der vulkanischen Landschaften der Tungurahua-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.504181,
+                        -1.497657
+                  ]
+            },
+            {
+                  "name": "Finca Inés Valero",
+                  "text": "Ein ländliches Anwesen in der Region Tungurahua, das das lokale landwirtschaftliche Leben und die Andenlandschaft zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.479133,
+                        -1.509841
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Ojo de Fantasmo",
+                  "text": "Durch vulkanische Aktivität in der Region Tungurahua beheizte Thermalschwimmbäder.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.463696,
+                        -1.512049
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Andrés de Pillate",
+                  "text": "Eine katholische Kirche, die der andinen Gemeinde von Pillate in der Nähe des Vulkans Tungurahua dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.518089,
+                        -1.454788
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de San Juan",
+                  "text": "Eine katholische Kultstätte in der Vulkanregion Tungurahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.513512,
+                        -1.44652
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de María Auxiliadora - Ganshi",
+                  "text": "Eine lokale katholische Kirche im Gebiet Ganshi, die Maria, der Hilfe der Christen, gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.501767,
+                        -1.525365
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Cristo del Consuelo - Palictahua",
+                  "text": "Eine katholische Kirche in Palictahua, die dem Christus des Trostes gewidmet ist, eingebettet in die Andenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.491855,
+                        -1.520337
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Pungal",
+                  "text": "Eine katholische Kirche, die den Gläubigen in der ländlichen Siedlung Pungal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.496255,
+                        -1.516759
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de San Miguel de Puela",
+                  "text": "Die katholische Hauptpfarrkirche San Miguel in Puela, die sich in der Nähe des Vulkans Tungurahua befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.508307,
+                        -1.514567
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de Bilbao",
+                  "text": "Die zentrale katholische Kirche von Bilbao, einer Siedlung, die in der Vulkanregion Tungurahua liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.501682,
+                        -1.442062
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Cotaló",
+                  "text": "Eine dem heiligen Antonius geweihte katholische Kirche in Cotaló mit Blick auf die Vulkantäler.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.511746,
+                        -1.431221
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de La Dolorosa - Pachanillay",
+                  "text": "Eine katholische Kirche in Pachanillay, die Unsere Liebe Frau der Schmerzen inmitten des andinen Terrains ehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.48936,
+                        -1.524816
+                  ]
+            },
+            {
+                  "name": "Ojo de Fantasmo",
+                  "text": "Natürliche heiße Quellen, die in der geothermisch aktiven Region Tungurahua sprudeln.",
+                  "category": "natural",
+                  "coords": [
+                        -78.455095,
+                        -1.501961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cima Tungurahua (5023m)",
+                  "text": "Az aktív Tungurahua rétegvulkán csúcsa, amely lenyűgöző, 5023 méteres magasságot ér el.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.44455,
+                        -1.470293
+                  ]
+            },
+            {
+                  "name": "Volcán Tungurahua",
+                  "text": "Egy kilátópont, ahonnan drámai kilátás nyílik az aktív Tungurahua vulkánra és az azt körülvevő andesi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -78.445946,
+                        -1.462742
+                  ]
+            },
+            {
+                  "name": "Chonglontuz",
+                  "text": "Egy természeti látványosság a Tungurahua régió vulkáni tájai között.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.504181,
+                        -1.497657
+                  ]
+            },
+            {
+                  "name": "Finca Inés Valero",
+                  "text": "Egy vidéki birtok a Tungurahua régióban, amely bemutatja a helyi mezőgazdasági életet és az andesi tájat.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.479133,
+                        -1.509841
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Ojo de Fantasmo",
+                  "text": "A Tungurahua régió vulkáni tevékenysége által fűtött termálmedencék.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.463696,
+                        -1.512049
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Andrés de Pillate",
+                  "text": "A Tungurahua vulkán közelében található andesi Pillate közösségét szolgáló katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.518089,
+                        -1.454788
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de San Juan",
+                  "text": "A Tungurahua vulkanikus régiójában található katolikus istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.513512,
+                        -1.44652
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de María Auxiliadora - Ganshi",
+                  "text": "A Keresztények Segítsége Máriának szentelt helyi katolikus templom a Ganshi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.501767,
+                        -1.525365
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Cristo del Consuelo - Palictahua",
+                  "text": "A Vigasz Krisztusának szentelt palictahuai katolikus templom az andesi tájban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.491855,
+                        -1.520337
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Pungal",
+                  "text": "A vidéki Pungal település hívőit szolgáló katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.496255,
+                        -1.516759
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de San Miguel de Puela",
+                  "text": "Puela fő katolikus plébániatemploma, San Miguel, amely a Tungurahua vulkán közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.508307,
+                        -1.514567
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de Bilbao",
+                  "text": "Bilbao központi katolikus temploma, egy településen, amely a Tungurahua vulkáni régióban fészkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.501682,
+                        -1.442062
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Cotaló",
+                  "text": "A vulkáni völgyekre néző cotalói, Szent Antalnak szentelt katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.511746,
+                        -1.431221
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de La Dolorosa - Pachanillay",
+                  "text": "Egy katolikus templom Pachanillayban, amely a Fájdalmas Szűzanyát tiszteli az andesi terep közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.48936,
+                        -1.524816
+                  ]
+            },
+            {
+                  "name": "Ojo de Fantasmo",
+                  "text": "Természetes meleg források, amelyek a geotermikusan aktív Tungurahua régióban törnek a felszínre.",
+                  "category": "natural",
+                  "coords": [
+                        -78.455095,
+                        -1.501961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cima Tungurahua (5023m)",
+                  "text": "Vârful stratovulcanului activ Tungurahua, atingând o altitudine impunătoare de 5023 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.44455,
+                        -1.470293
+                  ]
+            },
+            {
+                  "name": "Volcán Tungurahua",
+                  "text": "Un punct de observație care oferă priveliști dramatice ale vulcanului activ Tungurahua și ale peisajului andin înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -78.445946,
+                        -1.462742
+                  ]
+            },
+            {
+                  "name": "Chonglontuz",
+                  "text": "O atracție naturală situată în mijlocul peisajelor vulcanice din regiunea Tungurahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.504181,
+                        -1.497657
+                  ]
+            },
+            {
+                  "name": "Finca Inés Valero",
+                  "text": "O proprietate rurală din regiunea Tungurahua, care prezintă viața agricolă locală și peisajele andine.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.479133,
+                        -1.509841
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Ojo de Fantasmo",
+                  "text": "Piscine termale încălzite de activitatea vulcanică din regiunea Tungurahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.463696,
+                        -1.512049
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Andrés de Pillate",
+                  "text": "O biserică catolică care deservește comunitatea andină Pillate de lângă vulcanul Tungurahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.518089,
+                        -1.454788
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de San Juan",
+                  "text": "Un lăcaș de cult catolic situat în regiunea vulcanică Tungurahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.513512,
+                        -1.44652
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de María Auxiliadora - Ganshi",
+                  "text": "O biserică catolică locală dedicată Mariei Ajutorul Creștinilor din zona Ganshi.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.501767,
+                        -1.525365
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Cristo del Consuelo - Palictahua",
+                  "text": "O biserică catolică din Palictahua dedicată lui Hristos al Mângâierii, amplasată în peisajul andin.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.491855,
+                        -1.520337
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Pungal",
+                  "text": "O biserică catolică care deservește credincioșii din așezarea rurală Pungal.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.496255,
+                        -1.516759
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de San Miguel de Puela",
+                  "text": "Biserica parohială catolică principală San Miguel din Puela, situată lângă vulcanul Tungurahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.508307,
+                        -1.514567
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de Bilbao",
+                  "text": "Biserica catolică centrală din Bilbao, o așezare cuibărită în regiunea vulcanică Tungurahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.501682,
+                        -1.442062
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Cotaló",
+                  "text": "O biserică catolică dedicată Sfântului Anton din Cotaló, cu vedere la văile vulcanice.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.511746,
+                        -1.431221
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de La Dolorosa - Pachanillay",
+                  "text": "O biserică catolică din Pachanillay care o onorează pe Maica Domnului a Durerilor în mijlocul terenului andin.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.48936,
+                        -1.524816
+                  ]
+            },
+            {
+                  "name": "Ojo de Fantasmo",
+                  "text": "Izvoare termale naturale care bolborosesc în regiunea activă geotermal Tungurahua.",
+                  "category": "natural",
+                  "coords": [
+                        -78.455095,
+                        -1.501961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cima Tungurahua (5023m)",
+                  "text": "The summit of the active Tungurahua stratovolcano, reaching an imposing elevation of 5023 metres.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.44455,
+                        -1.470293
+                  ]
+            },
+            {
+                  "name": "Tungurahua Volcano",
+                  "text": "A vantage point offering dramatic views of the active Tungurahua volcano and its surrounding Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.445946,
+                        -1.462742
+                  ]
+            },
+            {
+                  "name": "Chonglontuz",
+                  "text": "A natural attraction set amidst the volcanic landscapes of the Tungurahua region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.504181,
+                        -1.497657
+                  ]
+            },
+            {
+                  "name": "Finca Inés Valero",
+                  "text": "A rural estate in the Tungurahua region, showcasing local agricultural life and Andean scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.479133,
+                        -1.509841
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Ojo de Fantasmo",
+                  "text": "Thermal swimming pools heated by volcanic activity in the Tungurahua region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.463696,
+                        -1.512049
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Andrés de Pillate",
+                  "text": "A Catholic church serving the Andean community of Pillate near the Tungurahua volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.518089,
+                        -1.454788
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de San Juan",
+                  "text": "A Catholic place of worship situated in the volcanic region of Tungurahua.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.513512,
+                        -1.44652
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de María Auxiliadora - Ganshi",
+                  "text": "A local Catholic church dedicated to Mary Help of Christians in the Ganshi area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.501767,
+                        -1.525365
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Cristo del Consuelo - Palictahua",
+                  "text": "A Catholic church in Palictahua dedicated to Christ of Consolation, set in the Andean landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.491855,
+                        -1.520337
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Pungal",
+                  "text": "A Catholic church serving the faithful in the rural settlement of Pungal.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.496255,
+                        -1.516759
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de San Miguel de Puela",
+                  "text": "The main Catholic parish church of San Miguel in Puela, located near the Tungurahua volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.508307,
+                        -1.514567
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de Bilbao",
+                  "text": "The central Catholic church of Bilbao, a settlement nestled in the Tungurahua volcanic region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.501682,
+                        -1.442062
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Cotaló",
+                  "text": "A Catholic church dedicated to Saint Anthony in Cotaló, overlooking the volcanic valleys.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.511746,
+                        -1.431221
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de La Dolorosa - Pachanillay",
+                  "text": "A Catholic church in Pachanillay honoring Our Lady of Sorrows amidst the Andean terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.48936,
+                        -1.524816
+                  ]
+            },
+            {
+                  "name": "Ojo de Fantasmo",
+                  "text": "Natural hot springs bubbling up in the geothermally active Tungurahua region.",
+                  "category": "natural",
+                  "coords": [
+                        -78.455095,
+                        -1.501961
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-T",
     coords: [-78.441667, -1.466667],
@@ -476,7 +1430,376 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Altitude : 5 023 mètres", "Nom signifie « Gorge de feu »", "Très actif depuis 1999", "Menace souvent Baños"],
     }, image: "/poi-images/tungurahua-nature-v2.webp"},
   {
-    id: "pichincha-nature-v2",
+    id: "pichincha-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zuroloma birding",
+                  "text": "Das Areal Zuroloma Birding ist mit speziellen Futterstationen ausgestattet, die zahlreiche Kolibris und Tangaren anlocken.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.599032,
+                        -0.088927
+                  ]
+            },
+            {
+                  "name": "Reserva del Bosque Protector Verdecocha",
+                  "text": "Die Reserva del Bosque Protector Verdecocha ist ein Waldschutzgebiet, das die empfindlichen Ökosysteme und Wassereinzugsgebiete am Pichincha bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.606018,
+                        -0.097376
+                  ]
+            },
+            {
+                  "name": "HCDA. LAS PALMAS- Agropecuaria y agroturística- Sotomayor Moreno",
+                  "text": "Die HCDA. LAS PALMAS ist ein landwirtschaftlicher Agrotourismus-Betrieb der Familie Sotomayor Moreno mit Einblicken in die lokale Viehzucht.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.651047,
+                        -0.219829
+                  ]
+            },
+            {
+                  "name": "Centro Turistico las Acacias",
+                  "text": "Der Aussichtspunkt des Centro Turistico las Acacias bietet einen weiten Blick auf die andine Gebirgslandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -78.625137,
+                        -0.234751
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Urauco",
+                  "text": "Dieser Aussichtspunkt bei den Aguas Termales Urauco blickt direkt auf die dampfenden Becken der Thermalquellen hinab.",
+                  "category": "natural",
+                  "coords": [
+                        -78.629871,
+                        -0.233698
+                  ]
+            },
+            {
+                  "name": "Complejo turístico \"Cuscungo Adventure\"",
+                  "text": "Der Cuscungo Adventure Komplex ist eine touristische Anlage, die Outdoor-Aktivitäten wie Klettern und Ziplining in der andinen Natur anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.602995,
+                        -0.232125
+                  ]
+            },
+            {
+                  "name": "Cascada Pirusay",
+                  "text": "Vom Aussichtspunkt Cascada Pirusay lässt sich der tiefe Fall des Wassers über die steile Klippe hervorragend betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        -78.587449,
+                        -0.149913
+                  ]
+            },
+            {
+                  "name": "San Rafael",
+                  "text": "Der Berggipfel des San Rafael ragt markant aus dem Pichincha-Massiv hervor und ist ein anspruchsvolles Ziel für Bergsteiger.",
+                  "category": "natural",
+                  "coords": [
+                        -78.579737,
+                        -0.093144
+                  ]
+            },
+            {
+                  "name": "Gruta",
+                  "text": "Die kleine Gruta-Kapelle ist ein in den Fels gehauener Andachtsort in der Andenlandschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -78.600665,
+                        -0.179846
+                  ]
+            },
+            {
+                  "name": "Crater Guagua Pichincha",
+                  "text": "Die vulkanischen heißen Quellen am Krater Guagua Pichincha werden direkt durch die geothermische Aktivität des Vulkans erhitzt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.617225,
+                        -0.172504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zuroloma birding",
+                  "text": "A Zuroloma Birding terület speciális etetőkkel van felszerelve, amelyek számos kolibrit és tangarát vonzanak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.599032,
+                        -0.088927
+                  ]
+            },
+            {
+                  "name": "Reserva del Bosque Protector Verdecocha",
+                  "text": "A Reserva del Bosque Protector Verdecocha egy erdővédelmi terület, amely a Pichincha vulkán érzékeny ökoszisztémáit és vízgyűjtő területeit őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.606018,
+                        -0.097376
+                  ]
+            },
+            {
+                  "name": "HCDA. LAS PALMAS- Agropecuaria y agroturística- Sotomayor Moreno",
+                  "text": "A HCDA. LAS PALMAS a Sotomayor Moreno család mezőgazdasági agroturisztikai farmja, amely bepillantást enged a helyi állattenyésztésbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.651047,
+                        -0.219829
+                  ]
+            },
+            {
+                  "name": "Centro Turistico las Acacias",
+                  "text": "A Centro Turistico las Acacias kilátópontja széles kilátást nyújt az andoki hegyvidéki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -78.625137,
+                        -0.234751
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Urauco",
+                  "text": "Ez az Aguas Termales Urauco melletti kilátópont közvetlenül a hőforrások gőzölgő medencéire néz.",
+                  "category": "natural",
+                  "coords": [
+                        -78.629871,
+                        -0.233698
+                  ]
+            },
+            {
+                  "name": "Complejo turístico \"Cuscungo Adventure\"",
+                  "text": "A Cuscungo Adventure komplexum egy turisztikai létesítmény, amely olyan szabadtéri tevékenységeket kínál az andoki természetben, mint a sziklamászás és a drótkötélpályázás.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.602995,
+                        -0.232125
+                  ]
+            },
+            {
+                  "name": "Cascada Pirusay",
+                  "text": "A Cascada Pirusay kilátópontjáról kiválóan megfigyelhető a víz mélybe zuhanása a meredek sziklafalon.",
+                  "category": "natural",
+                  "coords": [
+                        -78.587449,
+                        -0.149913
+                  ]
+            },
+            {
+                  "name": "San Rafael",
+                  "text": "A San Rafael hegycsúcsa kiemelkedik a Pichincha-hegységből, és kihívást jelentő célpont a hegymászók számára.",
+                  "category": "natural",
+                  "coords": [
+                        -78.579737,
+                        -0.093144
+                  ]
+            },
+            {
+                  "name": "Gruta",
+                  "text": "A kis Gruta-kápolna egy sziklába vájt áhítati hely az andoki tájban.",
+                  "category": "religious",
+                  "coords": [
+                        -78.600665,
+                        -0.179846
+                  ]
+            },
+            {
+                  "name": "Crater Guagua Pichincha",
+                  "text": "A Guagua Pichincha kráterénél található vulkanikus hőforrásokat közvetlenül a vulkán geotermikus aktivitása fűti.",
+                  "category": "natural",
+                  "coords": [
+                        -78.617225,
+                        -0.172504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zuroloma birding",
+                  "text": "Zona Zuroloma Birding este dotată cu stații speciale de hrănire care atrag numeroase specii de colibri și tangarale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.599032,
+                        -0.088927
+                  ]
+            },
+            {
+                  "name": "Reserva del Bosque Protector Verdecocha",
+                  "text": "Reserva del Bosque Protector Verdecocha este o rezervație forestieră care conservă ecosistemele fragile și bazinele hidrografice de pe vulcanul Pichincha.",
+                  "category": "natural",
+                  "coords": [
+                        -78.606018,
+                        -0.097376
+                  ]
+            },
+            {
+                  "name": "HCDA. LAS PALMAS- Agropecuaria y agroturística- Sotomayor Moreno",
+                  "text": "HCDA. LAS PALMAS este o fermă agroturistică deținută de familia Sotomayor Moreno, oferind vizitatorilor o perspectivă asupra zootehniei locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.651047,
+                        -0.219829
+                  ]
+            },
+            {
+                  "name": "Centro Turistico las Acacias",
+                  "text": "Punctul de belvedere de la Centro Turistico las Acacias oferă o panoramă largă asupra peisajului muntos andin.",
+                  "category": "natural",
+                  "coords": [
+                        -78.625137,
+                        -0.234751
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Urauco",
+                  "text": "Acest punct de belvedere de la Aguas Termales Urauco are vedere directă asupra bazinelor aburinde ale izvoarelor termale.",
+                  "category": "natural",
+                  "coords": [
+                        -78.629871,
+                        -0.233698
+                  ]
+            },
+            {
+                  "name": "Complejo turístico \"Cuscungo Adventure\"",
+                  "text": "Complexul turistic Cuscungo Adventure oferă activități în aer liber, precum cățărare și tiroliană, în mijlocul naturii andine.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.602995,
+                        -0.232125
+                  ]
+            },
+            {
+                  "name": "Cascada Pirusay",
+                  "text": "De la punctul de belvedere Cascada Pirusay se poate observa excelent căderea adâncă a apei peste stânca abruptă.",
+                  "category": "natural",
+                  "coords": [
+                        -78.587449,
+                        -0.149913
+                  ]
+            },
+            {
+                  "name": "San Rafael",
+                  "text": "Vârful muntelui San Rafael se ridică proeminent din masivul Pichincha, fiind o destinație solicitantă pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        -78.579737,
+                        -0.093144
+                  ]
+            },
+            {
+                  "name": "Gruta",
+                  "text": "Mica capelă Gruta este un lăcaș de rugăciune săpat în stâncă, situat în peisajul andin.",
+                  "category": "religious",
+                  "coords": [
+                        -78.600665,
+                        -0.179846
+                  ]
+            },
+            {
+                  "name": "Crater Guagua Pichincha",
+                  "text": "Izvoarele termale vulcanice de la craterul Guagua Pichincha sunt încălzite direct de activitatea geotermală a vulcanului.",
+                  "category": "natural",
+                  "coords": [
+                        -78.617225,
+                        -0.172504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zuroloma birding",
+                  "text": "The Zuroloma birding area is equipped with specific feeding stations that attract numerous hummingbirds and tanagers.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.599032,
+                        -0.088927
+                  ]
+            },
+            {
+                  "name": "Reserva del Bosque Protector Verdecocha",
+                  "text": "The Reserva del Bosque Protector Verdecocha is a forest reserve that preserves the fragile ecosystems and watersheds on the Pichincha volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -78.606018,
+                        -0.097376
+                  ]
+            },
+            {
+                  "name": "HCDA. LAS PALMAS- Agropecuaria y agroturística- Sotomayor Moreno",
+                  "text": "HCDA. LAS PALMAS is an agricultural agrotourism farm run by the Sotomayor Moreno family, offering insights into local animal husbandry.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.651047,
+                        -0.219829
+                  ]
+            },
+            {
+                  "name": "Centro Turistico las Acacias",
+                  "text": "The viewpoint at the Centro Turistico las Acacias offers a sweeping view of the Andean mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.625137,
+                        -0.234751
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Urauco",
+                  "text": "This viewpoint at the Aguas Termales Urauco overlooks the steaming pools of the hot springs below.",
+                  "category": "natural",
+                  "coords": [
+                        -78.629871,
+                        -0.233698
+                  ]
+            },
+            {
+                  "name": "Complejo turístico \"Cuscungo Adventure\"",
+                  "text": "The Cuscungo Adventure complex is a tourist facility offering outdoor activities like rock climbing and ziplining in the Andean nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.602995,
+                        -0.232125
+                  ]
+            },
+            {
+                  "name": "Cascada Pirusay",
+                  "text": "The Cascada Pirusay viewpoint provides an excellent perspective of the deep cascade of water over the steep cliff.",
+                  "category": "natural",
+                  "coords": [
+                        -78.587449,
+                        -0.149913
+                  ]
+            },
+            {
+                  "name": "San Rafael",
+                  "text": "The mountain peak of San Rafael rises prominently from the Pichincha massif, serving as a challenging destination for mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        -78.579737,
+                        -0.093144
+                  ]
+            },
+            {
+                  "name": "Gruta",
+                  "text": "The small Gruta chapel is a rock-hewn place of worship situated in the Andean landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -78.600665,
+                        -0.179846
+                  ]
+            },
+            {
+                  "name": "Crater Guagua Pichincha",
+                  "text": "The volcanic hot springs at the Guagua Pichincha crater are heated directly by the volcano's geothermal activity.",
+                  "category": "natural",
+                  "coords": [
+                        -78.617225,
+                        -0.172504
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EC-P",
     coords: [-78.598333, -0.1775],
@@ -543,7 +1866,736 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Altitude : 4 784 mètres (Guagua)", "Surplombe Quito", "Téléphérique vers le sommet", "Dernière éruption en 1999"],
     }, image: "/poi-images/pichincha-nature-v2.webp"},
   {
-    id: "quilotoa-nature-v2",
+    id: "quilotoa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Cañón del Toachi",
+                  "text": "Dieser Aussichtspunkt am Kraterrand bietet einen beeindruckenden Blick in die tiefe Schlucht des Río Toachi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.905885,
+                        -0.782215
+                  ]
+            },
+            {
+                  "name": "Puente de Madera",
+                  "text": "Diese einfache Holzkonstruktion dient als Fußgängerbrücke und Aussichtsplattform in der Naturlandschaft von Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.89713,
+                        -0.771043
+                  ]
+            },
+            {
+                  "name": "Doble echo",
+                  "text": "Ein besonderer Aussichtspunkt, der für ein akustisches Phänomen bekannt ist, bei dem Echos von den Kraterwänden doppelt zurückgeworfen werden.",
+                  "category": "natural",
+                  "coords": [
+                        -78.920384,
+                        -0.801745
+                  ]
+            },
+            {
+                  "name": "Mirador Pugara",
+                  "text": "Eine Aussichtsterrasse, die weite Blicke über die hochgelegene Andenlandschaft ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -78.918682,
+                        -0.79297
+                  ]
+            },
+            {
+                  "name": "Finca Proagro",
+                  "text": "Ein landwirtschaftlicher Betrieb in der Andenregion, der Besuchern einen Einblick in die lokale Pflanzenzucht gibt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.916754,
+                        -0.818836
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein rustikaler Aussichtspunkt an den Berghängen, von dem aus man die vulkanische Topographie überblicken kann.",
+                  "category": "natural",
+                  "coords": [
+                        -78.907245,
+                        -0.844873
+                  ]
+            },
+            {
+                  "name": "Mirador Anchi Quilotoa",
+                  "text": "Diese Plattform ermöglicht einen direkten Blick hinab auf das smaragdgrüne Wasser des Quilotoa-Kratersees.",
+                  "category": "natural",
+                  "coords": [
+                        -78.893947,
+                        -0.851742
+                  ]
+            },
+            {
+                  "name": "Monte Juyende",
+                  "text": "Von dieser bergigen Erhebung hat man ein 360-Grad-Panorama über die Anden und das Quilotoa-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.891247,
+                        -0.863886
+                  ]
+            },
+            {
+                  "name": "Mirador El Torre Quilotoa",
+                  "text": "Ein turmartiges Bauwerk, dessen erhöhte Position es ermöglicht, über den Kraterrand hinwegzusehen.",
+                  "category": "natural",
+                  "coords": [
+                        -78.905757,
+                        -0.870988
+                  ]
+            },
+            {
+                  "name": "Mirador de Crystal Shalala",
+                  "text": "Eine spektakuläre Aussichtsplattform mit Glasboden (Shalala), die scheinbar über dem Abgrund des Kraters schwebt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.8993,
+                        -0.869903
+                  ]
+            },
+            {
+                  "name": "Mirador Quilotoa",
+                  "text": "Dies ist der Hauptaussichtspunkt des Vulkans, an dem die meisten Wanderer ankommen, um den Kratersee zu betrachten.",
+                  "category": "natural",
+                  "coords": [
+                        -78.916032,
+                        -0.866331
+                  ]
+            },
+            {
+                  "name": "Mirador 3910m",
+                  "text": "Auf einer Höhe von genau 3910 Metern gelegen, ist dieser Aussichtspunkt ein hochalpiner Beobachtungsposten.",
+                  "category": "natural",
+                  "coords": [
+                        -78.91139,
+                        -0.869312
+                  ]
+            },
+            {
+                  "name": "Playita, Laguna Quilotoa",
+                  "text": "Der Aussichtspunkt Playita bietet einen malerischen Blick direkt auf die Gewässer der Laguna Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.912356,
+                        -0.861313
+                  ]
+            },
+            {
+                  "name": "Mirador Macacunga",
+                  "text": "Der Mirador Macacunga ist ein erhöhter Aussichtspunkt, der Besuchern den Blick auf die dramatische Vulkanlandschaft der Quilotoa-Region ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -78.908326,
+                        -0.847418
+                  ]
+            },
+            {
+                  "name": "Mirador Ankapawana",
+                  "text": "Als hochgelegener Aussichtspunkt nahe Quilotoa bietet der Mirador Ankapawana Panoramablicke über die umliegenden Andengipfel.",
+                  "category": "natural",
+                  "coords": [
+                        -78.898217,
+                        -0.891986
+                  ]
+            },
+            {
+                  "name": "Mirador del Toachi",
+                  "text": "Der Mirador del Toachi ist ein Klippenaussichtspunkt, der spektakuläre Blicke direkt in den tiefen Canyon des Toachi-Flusses nahe Quilotoa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.90597,
+                        -0.929106
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Das Monument der Virgen steht als religiöse Skulptur, die die Wege nahe Quilotoa für vorbeikommende Reisende markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -78.866215,
+                        -0.777696
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Malingua Pamba",
+                  "text": "Die Iglesia San Francisco de Malingua Pamba ist eine lokale andine Kultstätte, die der ländlichen Gemeinschaft um Quilotoa dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.864555,
+                        -0.823048
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Diese lokale Kirche fungiert als bescheidener Gemeinschaftsort der Andacht im rauen Gelände in der Nähe von Quilotoa.",
+                  "category": "religious",
+                  "coords": [
+                        -78.872733,
+                        -0.825704
+                  ]
+            },
+            {
+                  "name": "Termas Chicho",
+                  "text": "Termas Chicho bietet rustikale, von natürlich erhitztem Wasser gespeiste öffentliche Thermalbäder in der Gegend von Quilotoa.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.963826,
+                        -0.890425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Cañón del Toachi",
+                  "text": "Ez a kráter peremén található kilátó lenyűgöző rálátást nyújt a Toachi folyó mély kanyonjára.",
+                  "category": "natural",
+                  "coords": [
+                        -78.905885,
+                        -0.782215
+                  ]
+            },
+            {
+                  "name": "Puente de Madera",
+                  "text": "Ez az egyszerű faszerkezet gyaloghídként és kilátóként szolgál Quilotoa természeti tájában.",
+                  "category": "natural",
+                  "coords": [
+                        -78.89713,
+                        -0.771043
+                  ]
+            },
+            {
+                  "name": "Doble echo",
+                  "text": "Egy különleges kilátóhely, amely arról az akusztikai jelenségről ismert, hogy a kráter falairól kétszer verődik vissza a visszhang.",
+                  "category": "natural",
+                  "coords": [
+                        -78.920384,
+                        -0.801745
+                  ]
+            },
+            {
+                  "name": "Mirador Pugara",
+                  "text": "Egy kilátóterasz, ahonnan széles panoráma nyílik a magasan fekvő andoki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -78.918682,
+                        -0.79297
+                  ]
+            },
+            {
+                  "name": "Finca Proagro",
+                  "text": "Egy andoki mezőgazdasági birtok, amely bepillantást enged a látogatóknak a helyi növénytermesztésbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.916754,
+                        -0.818836
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Egy rusztikus kilátó a hegyoldalban, ahonnan áttekinthető a vulkanikus domborzat.",
+                  "category": "natural",
+                  "coords": [
+                        -78.907245,
+                        -0.844873
+                  ]
+            },
+            {
+                  "name": "Mirador Anchi Quilotoa",
+                  "text": "Erről a platformról közvetlen kilátás nyílik a Quilotoa-krátertó smaragdzöld vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -78.893947,
+                        -0.851742
+                  ]
+            },
+            {
+                  "name": "Monte Juyende",
+                  "text": "Erről a hegyvidéki magaslatról 360 fokos panoráma nyílik az Andokra és a Quilotoa térségére.",
+                  "category": "natural",
+                  "coords": [
+                        -78.891247,
+                        -0.863886
+                  ]
+            },
+            {
+                  "name": "Mirador El Torre Quilotoa",
+                  "text": "Egy toronyszerű építmény, amelynek magasított helyzete lehetővé teszi, hogy átlássunk a kráter pereme felett.",
+                  "category": "natural",
+                  "coords": [
+                        -78.905757,
+                        -0.870988
+                  ]
+            },
+            {
+                  "name": "Mirador de Crystal Shalala",
+                  "text": "Látványos, üvegpadlós kilátóterasz (Shalala), amely látszólag a kráter szakadéka felett lebeg.",
+                  "category": "natural",
+                  "coords": [
+                        -78.8993,
+                        -0.869903
+                  ]
+            },
+            {
+                  "name": "Mirador Quilotoa",
+                  "text": "Ez a vulkán fő kilátója, ahová a legtöbb túrázó megérkezik, hogy megcsodálja a krátertavat.",
+                  "category": "natural",
+                  "coords": [
+                        -78.916032,
+                        -0.866331
+                  ]
+            },
+            {
+                  "name": "Mirador 3910m",
+                  "text": "A pontosan 3910 méteres magasságban fekvő kilátó egy magashegyi megfigyelőállomás.",
+                  "category": "natural",
+                  "coords": [
+                        -78.91139,
+                        -0.869312
+                  ]
+            },
+            {
+                  "name": "Playita, Laguna Quilotoa",
+                  "text": "A Playita kilátó festői helyszínt kínál közvetlenül a Laguna Quilotoa vizénél.",
+                  "category": "natural",
+                  "coords": [
+                        -78.912356,
+                        -0.861313
+                  ]
+            },
+            {
+                  "name": "Mirador Macacunga",
+                  "text": "A Mirador Macacunga egy magaslati kilátó, amelyet arra terveztek, hogy a látogatók megfigyelhessék a Quilotoa régió drámai vulkáni táját.",
+                  "category": "natural",
+                  "coords": [
+                        -78.908326,
+                        -0.847418
+                  ]
+            },
+            {
+                  "name": "Mirador Ankapawana",
+                  "text": "A Quilotoa közelében fekvő magaslati Mirador Ankapawana kilátópont panorámás kilátást nyújt a környező andoki csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        -78.898217,
+                        -0.891986
+                  ]
+            },
+            {
+                  "name": "Mirador del Toachi",
+                  "text": "A Mirador del Toachi egy sziklafalon lévő kilátó, amely látványos kilátást nyújt a Quilotoa közelében található mély Toachi-folyó kanyonjába.",
+                  "category": "natural",
+                  "coords": [
+                        -78.90597,
+                        -0.929106
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "A Virgen emlékmű egy vallási szobor, amely a Quilotoa közeli utakat jelöli az áthaladó utazók számára.",
+                  "category": "historical",
+                  "coords": [
+                        -78.866215,
+                        -0.777696
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Malingua Pamba",
+                  "text": "Az Iglesia San Francisco de Malingua Pamba egy helyi andoki istentiszteleti hely, amely a Quilotoa körüli vidéki közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -78.864555,
+                        -0.823048
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a helyi templom szerény közösségi istentiszteleti helyként működik a Quilotoa közelében lévő zord terepen.",
+                  "category": "religious",
+                  "coords": [
+                        -78.872733,
+                        -0.825704
+                  ]
+            },
+            {
+                  "name": "Termas Chicho",
+                  "text": "A Termas Chicho rusztikus, természetes módon fűtött vizekből táplálkozó nyilvános termálfürdőket kínál Quilotoa környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.963826,
+                        -0.890425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Cañón del Toachi",
+                  "text": "Acest punct de belvedere de pe marginea craterului oferă o priveliște impresionantă asupra adâncului canion al râului Toachi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.905885,
+                        -0.782215
+                  ]
+            },
+            {
+                  "name": "Puente de Madera",
+                  "text": "Această structură simplă din lemn servește ca pod pietonal și platformă de observare în peisajul natural din Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.89713,
+                        -0.771043
+                  ]
+            },
+            {
+                  "name": "Doble echo",
+                  "text": "Un punct de belvedere special, cunoscut pentru un fenomen acustic în care ecoul se reflectă de două ori de pe pereții craterului.",
+                  "category": "natural",
+                  "coords": [
+                        -78.920384,
+                        -0.801745
+                  ]
+            },
+            {
+                  "name": "Mirador Pugara",
+                  "text": "O terasă de belvedere care permite priveliști largi asupra peisajului andin de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -78.918682,
+                        -0.79297
+                  ]
+            },
+            {
+                  "name": "Finca Proagro",
+                  "text": "O fermă agricolă andină care oferă vizitatorilor o privire asupra cultivării plantelor locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.916754,
+                        -0.818836
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere rustic pe versanții muntelui, de unde se poate observa topografia vulcanică.",
+                  "category": "natural",
+                  "coords": [
+                        -78.907245,
+                        -0.844873
+                  ]
+            },
+            {
+                  "name": "Mirador Anchi Quilotoa",
+                  "text": "Această platformă oferă o vedere directă în jos către apele de culoarea smaraldului ale lacului vulcanic Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.893947,
+                        -0.851742
+                  ]
+            },
+            {
+                  "name": "Monte Juyende",
+                  "text": "Această înălțime muntoasă oferă o panoramă de 360 de grade asupra Anzilor și a zonei Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.891247,
+                        -0.863886
+                  ]
+            },
+            {
+                  "name": "Mirador El Torre Quilotoa",
+                  "text": "O structură asemănătoare unui turn a cărei poziție înaltă permite vizitatorilor să privească dincolo de marginea craterului.",
+                  "category": "natural",
+                  "coords": [
+                        -78.905757,
+                        -0.870988
+                  ]
+            },
+            {
+                  "name": "Mirador de Crystal Shalala",
+                  "text": "O platformă de observare spectaculoasă cu podea de sticlă (Shalala), care pare să plutească deasupra prăpastiei craterului.",
+                  "category": "natural",
+                  "coords": [
+                        -78.8993,
+                        -0.869903
+                  ]
+            },
+            {
+                  "name": "Mirador Quilotoa",
+                  "text": "Acesta este principalul punct de belvedere al vulcanului, unde ajung majoritatea drumeților pentru a vedea lacul craterului.",
+                  "category": "natural",
+                  "coords": [
+                        -78.916032,
+                        -0.866331
+                  ]
+            },
+            {
+                  "name": "Mirador 3910m",
+                  "text": "Situat la o altitudine de exact 3910 de metri, acest punct de belvedere este un post de observație la mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -78.91139,
+                        -0.869312
+                  ]
+            },
+            {
+                  "name": "Playita, Laguna Quilotoa",
+                  "text": "Punctul de belvedere Playita oferă un loc pitoresc chiar la apele lagunei Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.912356,
+                        -0.861313
+                  ]
+            },
+            {
+                  "name": "Mirador Macacunga",
+                  "text": "Mirador Macacunga este un punct de observare ridicat, conceput pentru a permite vizitatorilor să admire peisajul vulcanic dramatic al regiunii Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.908326,
+                        -0.847418
+                  ]
+            },
+            {
+                  "name": "Mirador Ankapawana",
+                  "text": "Fiind un punct de belvedere la mare altitudine lângă Quilotoa, Mirador Ankapawana oferă vederi panoramice peste vârfurile andine înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -78.898217,
+                        -0.891986
+                  ]
+            },
+            {
+                  "name": "Mirador del Toachi",
+                  "text": "Mirador del Toachi este un punct de belvedere pe marginea stâncii, oferind vederi spectaculoase direct în canionul adânc al râului Toachi din apropiere de Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.90597,
+                        -0.929106
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Monumentul Virgen stă ca o sculptură religioasă care marchează drumurile de lângă Quilotoa pentru călătorii în trecere.",
+                  "category": "historical",
+                  "coords": [
+                        -78.866215,
+                        -0.777696
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Malingua Pamba",
+                  "text": "Iglesia San Francisco de Malingua Pamba este un lăcaș de cult andin local care deservește comunitatea rurală din jurul zonei Quilotoa.",
+                  "category": "religious",
+                  "coords": [
+                        -78.864555,
+                        -0.823048
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Această biserică locală funcționează ca un modest lăcaș de cult comunitar pe terenul accidentat din apropiere de Quilotoa.",
+                  "category": "religious",
+                  "coords": [
+                        -78.872733,
+                        -0.825704
+                  ]
+            },
+            {
+                  "name": "Termas Chicho",
+                  "text": "Termas Chicho oferă băi publice termale rustice, alimentate de ape încălzite natural în zona Quilotoa.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.963826,
+                        -0.890425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Cañón del Toachi",
+                  "text": "This viewpoint along the crater rim provides a striking look down into the deep canyon of the Toachi River.",
+                  "category": "natural",
+                  "coords": [
+                        -78.905885,
+                        -0.782215
+                  ]
+            },
+            {
+                  "name": "Wooden Bridge",
+                  "text": "This simple wooden structure serves as both a pedestrian bridge and an observation platform in the Quilotoa landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.89713,
+                        -0.771043
+                  ]
+            },
+            {
+                  "name": "Doble echo",
+                  "text": "A distinct viewpoint known for an acoustic phenomenon where echoes bounce back twice from the crater walls.",
+                  "category": "natural",
+                  "coords": [
+                        -78.920384,
+                        -0.801745
+                  ]
+            },
+            {
+                  "name": "Viewpoint",
+                  "text": "An observation terrace that provides sweeping views over the high-altitude Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.918682,
+                        -0.79297
+                  ]
+            },
+            {
+                  "name": "Finca Proagro",
+                  "text": "An agricultural estate in the Andes that gives visitors insight into local crop cultivation.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.916754,
+                        -0.818836
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A rustic viewpoint on the mountain slopes overlooking the surrounding volcanic topography.",
+                  "category": "natural",
+                  "coords": [
+                        -78.907245,
+                        -0.844873
+                  ]
+            },
+            {
+                  "name": "Mirador Anchi Quilotoa",
+                  "text": "This platform provides a direct, downward view of the emerald waters inside the Quilotoa crater lake.",
+                  "category": "natural",
+                  "coords": [
+                        -78.893947,
+                        -0.851742
+                  ]
+            },
+            {
+                  "name": "Monte Juyende",
+                  "text": "This mountainous elevation offers a 360-degree panorama over the Andes and the Quilotoa region.",
+                  "category": "natural",
+                  "coords": [
+                        -78.891247,
+                        -0.863886
+                  ]
+            },
+            {
+                  "name": "Mirador El Torre Quilotoa",
+                  "text": "A tower-like structure whose elevated position allows visitors to gaze straight over the crater rim.",
+                  "category": "natural",
+                  "coords": [
+                        -78.905757,
+                        -0.870988
+                  ]
+            },
+            {
+                  "name": "Mirador de Crystal Shalala",
+                  "text": "A spectacular glass-bottomed observation platform (Shalala) that appears to float over the crater's abyss.",
+                  "category": "natural",
+                  "coords": [
+                        -78.8993,
+                        -0.869903
+                  ]
+            },
+            {
+                  "name": "Mirador Quilotoa",
+                  "text": "This is the main viewpoint of the volcano, where most hikers arrive to behold the crater lake.",
+                  "category": "natural",
+                  "coords": [
+                        -78.916032,
+                        -0.866331
+                  ]
+            },
+            {
+                  "name": "Mirador 3910m",
+                  "text": "Situated at an elevation of exactly 3910 metres, this viewpoint serves as a high-altitude observation post.",
+                  "category": "natural",
+                  "coords": [
+                        -78.91139,
+                        -0.869312
+                  ]
+            },
+            {
+                  "name": "Playita, Laguna Quilotoa",
+                  "text": "The viewpoint of Playita offers a scenic spot right by the waters of Laguna Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.912356,
+                        -0.861313
+                  ]
+            },
+            {
+                  "name": "Mirador Macacunga",
+                  "text": "Mirador Macacunga is an elevated viewpoint designed to let visitors observe the dramatic volcanic landscape of the Quilotoa region.",
+                  "category": "natural",
+                  "coords": [
+                        -78.908326,
+                        -0.847418
+                  ]
+            },
+            {
+                  "name": "Mirador Ankapawana",
+                  "text": "As a high-altitude viewpoint near Quilotoa, Mirador Ankapawana provides panoramic vistas over the surrounding Andean peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -78.898217,
+                        -0.891986
+                  ]
+            },
+            {
+                  "name": "Mirador del Toachi",
+                  "text": "The Mirador del Toachi is a cliff-side viewpoint offering spectacular looks directly into the deep Toachi River canyon near Quilotoa.",
+                  "category": "natural",
+                  "coords": [
+                        -78.90597,
+                        -0.929106
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "The Virgen monument stands as a religious sculpture marking the paths near Quilotoa for passing travelers.",
+                  "category": "historical",
+                  "coords": [
+                        -78.866215,
+                        -0.777696
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Malingua Pamba",
+                  "text": "The Iglesia San Francisco de Malingua Pamba is a local Andean place of worship serving the rural community around Quilotoa.",
+                  "category": "religious",
+                  "coords": [
+                        -78.864555,
+                        -0.823048
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "This local church functions as a modest community place of worship in the rugged terrain near Quilotoa.",
+                  "category": "religious",
+                  "coords": [
+                        -78.872733,
+                        -0.825704
+                  ]
+            },
+            {
+                  "name": "Termas Chicho",
+                  "text": "Termas Chicho provides rustic thermal public baths fed by naturally heated waters in the Quilotoa area.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.963826,
+                        -0.890425
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "EC-X",
     coords: [-78.898611, -0.860278],
@@ -610,7 +2662,484 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Diamètre : 3 kilomètres", "Couleur vert émeraude", "Sentier de randonnée populaire", "Cratère de 250 mètres de profondeur"],
     }, image: "/poi-images/quilotoa-nature-v2.webp"},
   {
-    id: "cuicocha-nature-v2",
+    id: "cuicocha-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vladi mirador",
+                  "text": "Ein spektakulärer Aussichtspunkt mit Blick auf den tiefblauen Cuicocha-Kratersee.",
+                  "category": "natural",
+                  "coords": [
+                        -78.378306,
+                        0.308458
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Siempre Verde",
+                  "text": "Ein geschütztes Nebelwaldreservat mit einer großen Vielfalt an andiner Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -78.422485,
+                        0.372147
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser Aussichtspunkt bietet eine beeindruckende Panorama-Perspektive auf die vulkanische Caldera.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.371309,
+                        0.315391
+                  ]
+            },
+            {
+                  "name": "El Arrayan",
+                  "text": "Ein nach dem charakteristischen Arrayan-Baum benannter Aussichtspunkt in der Kraterlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -78.35621,
+                        0.313218
+                  ]
+            },
+            {
+                  "name": "Laguna de Cuicocha",
+                  "text": "Ein 3 km breiter Kratersee in einer aktiven Caldera mit zwei steilen vulkanischen Inseln.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.359879,
+                        0.295879
+                  ]
+            },
+            {
+                  "name": "Bano Ritual",
+                  "text": "Ein ritueller Badeort, der von lokalen indigenen Gemeinschaften für Reinigungszeremonien genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.352222,
+                        0.293418
+                  ]
+            },
+            {
+                  "name": "Calendario Solar",
+                  "text": "Ein astronomischer Kalenderplatz zur Bestimmung der Sonnenwenden und Tagundnachtgleichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.353669,
+                        0.292808
+                  ]
+            },
+            {
+                  "name": "Museo Ecologica Cotachi Cayapas",
+                  "text": "Ein ökologisches Museum, das über die Geologie und Artenvielfalt des Cotacachi-Cayapas Reservats informiert.",
+                  "category": "museum",
+                  "coords": [
+                        -78.354609,
+                        0.292916
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza Cristiana Y Misionera Shalom Comunidad de Morochos",
+                  "text": "Eine protestantische Kirche in der andinen Bauerngemeinde Morochos nahe dem Vulkan.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.314773,
+                        0.294531
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Comunidad de Morochos",
+                  "text": "Die kleine katholische Dorfkapelle dient der indigenen Gemeinschaft von Morochos als spirituelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.31256,
+                        0.290016
+                  ]
+            },
+            {
+                  "name": "El Punge",
+                  "text": "Eine traditionelle Gebetsstätte in der ländlichen Hochlandregion nahe Cuicocha.",
+                  "category": "religious",
+                  "coords": [
+                        -78.301178,
+                        0.271105
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Buen Pastor Es Jesús",
+                  "text": "Eine evangelische Kirche, die eine wichtige soziale Rolle in der Bergbevölkerung spielt.",
+                  "category": "religious",
+                  "coords": [
+                        -78.298477,
+                        0.294558
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Cuicocha Centro",
+                  "text": "Die katholische Hauptkirche von Cuicocha Centro liegt inmitten der vulkanischen Berglandschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -78.301757,
+                        0.275581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vladi mirador",
+                  "text": "Látványos kilátópont, ahonnan kilátás nyílik a mélykék Cuicocha-krátertóra.",
+                  "category": "natural",
+                  "coords": [
+                        -78.378306,
+                        0.308458
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Siempre Verde",
+                  "text": "Védett köderdő-rezervátum az andoki flóra és fauna gazdag választékával.",
+                  "category": "natural",
+                  "coords": [
+                        -78.422485,
+                        0.372147
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a kilátó lenyűgöző panorámát nyújt a vulkáni kalderára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.371309,
+                        0.315391
+                  ]
+            },
+            {
+                  "name": "El Arrayan",
+                  "text": "A jellegzetes Arrayan-fáról elnevezett kilátópont a kráter táján.",
+                  "category": "natural",
+                  "coords": [
+                        -78.35621,
+                        0.313218
+                  ]
+            },
+            {
+                  "name": "Laguna de Cuicocha",
+                  "text": "Egy 3 km széles krátertó egy aktív kalderában, két meredek vulkanikus szigettel.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.359879,
+                        0.295879
+                  ]
+            },
+            {
+                  "name": "Bano Ritual",
+                  "text": "Rituális fürdőhely, amelyet a helyi őslakos közösségek tisztulási ceremóniákra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.352222,
+                        0.293418
+                  ]
+            },
+            {
+                  "name": "Calendario Solar",
+                  "text": "Csillagászati naptárhely a napfordulók és napéjegyenlőségek meghatározására.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.353669,
+                        0.292808
+                  ]
+            },
+            {
+                  "name": "Museo Ecologica Cotachi Cayapas",
+                  "text": "Ökológiai múzeum, amely a Cotacachi-Cayapas rezervátum geológiájáról és élővilágáról ad tájékoztatást.",
+                  "category": "museum",
+                  "coords": [
+                        -78.354609,
+                        0.292916
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza Cristiana Y Misionera Shalom Comunidad de Morochos",
+                  "text": "Protestáns templom a vulkán közelében fekvő andoki Morochos parasztközösségben.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.314773,
+                        0.294531
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Comunidad de Morochos",
+                  "text": "A kis katolikus falusi kápolna Morochos őslakos közösségének spirituális központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.31256,
+                        0.290016
+                  ]
+            },
+            {
+                  "name": "El Punge",
+                  "text": "Hagyományos imahely a Cuicocha közelében fekvő vidéki felföldi régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -78.301178,
+                        0.271105
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Buen Pastor Es Jesús",
+                  "text": "Evangélikus templom, amely fontos társadalmi szerepet tölt be a hegyi lakosság körében.",
+                  "category": "religious",
+                  "coords": [
+                        -78.298477,
+                        0.294558
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Cuicocha Centro",
+                  "text": "Cuicocha Centro fő katolikus temploma a vulkáni hegyvidéki táj közepén fekszik.",
+                  "category": "religious",
+                  "coords": [
+                        -78.301757,
+                        0.275581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vladi mirador",
+                  "text": "Un punct de observație spectaculos cu vedere spre lacul vulcanic albastru profund Cuicocha.",
+                  "category": "natural",
+                  "coords": [
+                        -78.378306,
+                        0.308458
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Siempre Verde",
+                  "text": "O rezervație protejată de pădure tropicală cu o mare diversitate de floră și faună andină.",
+                  "category": "natural",
+                  "coords": [
+                        -78.422485,
+                        0.372147
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest punct de belvedere oferă o perspectivă panoramică impresionantă asupra caldeirei vulcanice.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.371309,
+                        0.315391
+                  ]
+            },
+            {
+                  "name": "El Arrayan",
+                  "text": "Un punct de observație numit după arborele caracteristic Arrayan, în peisajul craterului.",
+                  "category": "natural",
+                  "coords": [
+                        -78.35621,
+                        0.313218
+                  ]
+            },
+            {
+                  "name": "Laguna de Cuicocha",
+                  "text": "Un lac de crater lat de 3 km într-o caldeiră activă, cu două insule vulcanice abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.359879,
+                        0.295879
+                  ]
+            },
+            {
+                  "name": "Bano Ritual",
+                  "text": "Un loc de scăldat ritualic folosit de comunitățile indigene locale pentru ceremonii de purificare.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.352222,
+                        0.293418
+                  ]
+            },
+            {
+                  "name": "Calendario Solar",
+                  "text": "Un loc de calendar astronomic pentru determinarea solstițiilor și echinocțiilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.353669,
+                        0.292808
+                  ]
+            },
+            {
+                  "name": "Museo Ecologica Cotachi Cayapas",
+                  "text": "Un muzeu ecologic care informează despre geologia și biodiversitatea rezervației Cotacachi-Cayapas.",
+                  "category": "museum",
+                  "coords": [
+                        -78.354609,
+                        0.292916
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza Cristiana Y Misionera Shalom Comunidad de Morochos",
+                  "text": "O biserică protestantă în comunitatea rurală andină Morochos, lângă vulcan.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.314773,
+                        0.294531
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Comunidad de Morochos",
+                  "text": "Mica capelă catolică din sat servește ca centru spiritual pentru comunitatea indigenă din Morochos.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.31256,
+                        0.290016
+                  ]
+            },
+            {
+                  "name": "El Punge",
+                  "text": "Un lăcaș de cult tradițional în regiunea rurală de munte de lângă Cuicocha.",
+                  "category": "religious",
+                  "coords": [
+                        -78.301178,
+                        0.271105
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Buen Pastor Es Jesús",
+                  "text": "O biserică evanghelică ce joacă un rol social important în rândul populației montane.",
+                  "category": "religious",
+                  "coords": [
+                        -78.298477,
+                        0.294558
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Cuicocha Centro",
+                  "text": "Biserica catolică principală din Cuicocha Centro este situată în mijlocul peisajului montan vulcanic.",
+                  "category": "religious",
+                  "coords": [
+                        -78.301757,
+                        0.275581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vladi mirador",
+                  "text": "A spectacular viewpoint offering a clear vista over the deep blue Cuicocha crater lake.",
+                  "category": "natural",
+                  "coords": [
+                        -78.378306,
+                        0.308458
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Siempre Verde",
+                  "text": "A protected cloud forest reserve boasting a high diversity of Andean flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -78.422485,
+                        0.372147
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This viewpoint provides an impressive panoramic perspective of the volcanic caldera.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.371309,
+                        0.315391
+                  ]
+            },
+            {
+                  "name": "El Arrayan",
+                  "text": "A viewpoint named after the characteristic Arrayan tree within the crater landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.35621,
+                        0.313218
+                  ]
+            },
+            {
+                  "name": "Cuicocha Crater Lake",
+                  "text": "A 3km wide crater lake inside an active caldera featuring two steep volcanic islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.359879,
+                        0.295879
+                  ]
+            },
+            {
+                  "name": "Bano Ritual",
+                  "text": "A ritual bathing site used by local indigenous communities for cleansing ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.352222,
+                        0.293418
+                  ]
+            },
+            {
+                  "name": "Calendario Solar",
+                  "text": "An astronomical calendar site used to determine solstices and equinoxes.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.353669,
+                        0.292808
+                  ]
+            },
+            {
+                  "name": "Museo Ecologica Cotachi Cayapas",
+                  "text": "An ecological museum providing information on the geology and biodiversity of the Cotacachi-Cayapas reserve.",
+                  "category": "museum",
+                  "coords": [
+                        -78.354609,
+                        0.292916
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza Cristiana Y Misionera Shalom Comunidad de Morochos",
+                  "text": "A Protestant church in the Andean farming community of Morochos near the volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.314773,
+                        0.294531
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Comunidad de Morochos",
+                  "text": "The small Catholic village chapel serves as a spiritual center for the indigenous community of Morochos.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.31256,
+                        0.290016
+                  ]
+            },
+            {
+                  "name": "El Punge",
+                  "text": "A traditional place of worship in the rural highland region near Cuicocha.",
+                  "category": "religious",
+                  "coords": [
+                        -78.301178,
+                        0.271105
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Buen Pastor Es Jesús",
+                  "text": "An evangelical church that plays a key social role within the highland population.",
+                  "category": "religious",
+                  "coords": [
+                        -78.298477,
+                        0.294558
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Cuicocha Centro",
+                  "text": "The main Catholic church of Cuicocha Centro is situated amidst the volcanic mountain landscape.",
+                  "category": "religious",
+                  "coords": [
+                        -78.301757,
+                        0.275581
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "EC-I",
     coords: [-78.361111, 0.306944],
@@ -677,7 +3206,448 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Le nom signifie « lac des cochons d'Inde »", "Deux îles boisées", "Profondeur : 148 mètres", "Populaire pour les excursions en bateau"],
     }, image: "/poi-images/cuicocha-nature-v2.webp"},
   {
-    id: "san-pablo-lake-nature-v2",
+    id: "san-pablo-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Megasaurios Park",
+                  "text": "Dieser Themenpark am San-Pablo-See begeistert Familien mit seinen lebensgroßen Dinosaurier-Modellen und prähistorischen Szenarien.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.206745,
+                        0.152201
+                  ]
+            },
+            {
+                  "name": "Agua de güitig",
+                  "text": "Ein Ort, der dem berühmten ecuadorianischen Mineralwasser gewidmet ist, das für seine natürliche Kohlensäure vom Vulkan Imbabura bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.165084,
+                        0.166963
+                  ]
+            },
+            {
+                  "name": "Parque Aquatico",
+                  "text": "Dieser Wasserpark am Ufer des San-Pablo-Sees bietet mit seinen Rutschen und Schwimmbecken Freizeitspaß für die ganze Familie.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.206983,
+                        0.20609
+                  ]
+            },
+            {
+                  "name": "LUGAR PLAYITA CAMUENDO",
+                  "text": "Dieser ruhige Strandabschnitt am San-Pablo-See ist ideal für Fahrten in traditionellen Totora-Schilfbooten.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.21918,
+                        0.217822
+                  ]
+            },
+            {
+                  "name": "Cruz del Imbabura",
+                  "text": "Ein markantes spirituelles Kreuz an den Hängen des Imbabura, das Gläubige und Wanderer wegen seiner weiten Aussicht anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.214187,
+                        0.219434
+                  ]
+            },
+            {
+                  "name": "Catolica Chilco",
+                  "text": "Diese katholische Kirche im Dorf Chilco ist ein Beispiel für die schlichte und ehrwürdige Sakralarchitektur des Andenhochlands.",
+                  "category": "religious",
+                  "coords": [
+                        -78.222672,
+                        0.220911
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Virgen del Quinche\"",
+                  "text": "Ein Gotteshaus, das der Jungfrau von Quinche gewidmet ist, einer der wichtigsten religiösen Figuren in der Region Imbabura.",
+                  "category": "religious",
+                  "coords": [
+                        -78.203418,
+                        0.18126
+                  ]
+            },
+            {
+                  "name": "Iglesia de Araque",
+                  "text": "Diese christliche Kirche im ländlichen Araque bietet Kirchgängern einen malerischen Blick auf den nahe gelegenen San-Pablo-See.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.200552,
+                        0.20641
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo",
+                  "text": "Die Pfarrkirche von San Pablo del Lago ist das religiöse Zentrum des Dorfes und liegt am Fuße des majestätischen Imbabura.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.190162,
+                        0.196647
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE CAMUENDO",
+                  "text": "Eine lokale Kapelle in der Gemeinde Camuendo, die für die Pflege der indigenen religiösen Traditionen am Seeufer wichtig ist.",
+                  "category": "religious",
+                  "coords": [
+                        -78.211205,
+                        0.214588
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormon La Compania",
+                  "text": "Dieses moderne Versammlungshaus der Mormonen im Viertel La Compañía dient der lokalen Gemeinschaft für Gottesdienste und Bildung.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.226933,
+                        0.231067
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Reino De Los Cielos",
+                  "text": "Diese evangelische Kirche in San Pablo ist für ihre lebhafte Gemeindearbeit und die Unterstützung der ländlichen Bevölkerung bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.222187,
+                        0.181962
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Megasaurios Park",
+                  "text": "Ez a San Pablo-tónál található témapark életnagyságú dinoszaurusz-modelljeivel és őskori jeleneteivel nyűgözi le a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.206745,
+                        0.152201
+                  ]
+            },
+            {
+                  "name": "Agua de güitig",
+                  "text": "A híres ecuadori ásványvíznek szentelt hely, amely az Imbabura vulkánból származó természetes szénsavasságáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.165084,
+                        0.166963
+                  ]
+            },
+            {
+                  "name": "Parque Aquatico",
+                  "text": "A San Pablo-tó partján fekvő vízi park csúszdákkal és úszómedencékkel kínál kikapcsolódást az egész család számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.206983,
+                        0.20609
+                  ]
+            },
+            {
+                  "name": "LUGAR PLAYITA CAMUENDO",
+                  "text": "A San Pablo-tó ezen nyugodt strandja ideális a hagyományos totora-nádból készült csónakokkal való utazáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.21918,
+                        0.217822
+                  ]
+            },
+            {
+                  "name": "Cruz del Imbabura",
+                  "text": "Jellegzetes spirituális kereszt az Imbabura lejtőin, amely hívőket és túrázókat egyaránt vonz a tágas kilátás miatt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.214187,
+                        0.219434
+                  ]
+            },
+            {
+                  "name": "Catolica Chilco",
+                  "text": "A chilcói katolikus templom az andoki felvidék egyszerű és tiszteletreméltó szakrális építészetének egyik példája.",
+                  "category": "religious",
+                  "coords": [
+                        -78.222672,
+                        0.220911
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Virgen del Quinche\"",
+                  "text": "A Quinche-i Szűznek szentelt templom, aki az Imbabura régió egyik legfontosabb vallási alakja.",
+                  "category": "religious",
+                  "coords": [
+                        -78.203418,
+                        0.18126
+                  ]
+            },
+            {
+                  "name": "Iglesia de Araque",
+                  "text": "Az araque-i keresztény templom festői kilátást nyújt a hívőknek a közeli San Pablo-tóra.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.200552,
+                        0.20641
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo",
+                  "text": "San Pablo del Lago plébániatemploma a falu vallási központja, a fenséges Imbabura-vulkán lábánál fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.190162,
+                        0.196647
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE CAMUENDO",
+                  "text": "Helyi kápolna Camuendo közösségében, amely fontos szerepet játszik a tóparti őslakos vallási hagyományok megőrzésében.",
+                  "category": "religious",
+                  "coords": [
+                        -78.211205,
+                        0.214588
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormon La Compania",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának modern imaháza La Compañía negyedben a helyi közösség hitéletét és oktatását szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.226933,
+                        0.231067
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Reino De Los Cielos",
+                  "text": "Ez a San Pablo-i evangélikus templom élénk közösségi munkájáról és a vidéki lakosság támogatásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.222187,
+                        0.181962
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Megasaurios Park",
+                  "text": "Acest parc tematic de pe malul lacului San Pablo încântă familiile cu modelele sale de dinozauri în mărime naturală și scenariile preistorice.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.206745,
+                        0.152201
+                  ]
+            },
+            {
+                  "name": "Agua de güitig",
+                  "text": "Un loc dedicat celebrei ape minerale ecuadoriene, cunoscută pentru aciditatea sa naturală provenită de la vulcanul Imbabura.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.165084,
+                        0.166963
+                  ]
+            },
+            {
+                  "name": "Parque Aquatico",
+                  "text": "Acest parc acvatic de pe malul lacului San Pablo oferă distracție cu tobogane și piscine pentru întreaga familie.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.206983,
+                        0.20609
+                  ]
+            },
+            {
+                  "name": "LUGAR PLAYITA CAMUENDO",
+                  "text": "Această secțiune liniștită de plajă de pe lacul San Pablo este ideală pentru plimbări în bărci tradiționale din stuf de totora.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.21918,
+                        0.217822
+                  ]
+            },
+            {
+                  "name": "Cruz del Imbabura",
+                  "text": "O cruce spirituală proeminentă pe pantele vulcanului Imbabura, care atrage credincioși și drumeți pentru vederea sa largă.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.214187,
+                        0.219434
+                  ]
+            },
+            {
+                  "name": "Catolica Chilco",
+                  "text": "Această biserică catolică din satul Chilco este un exemplu de arhitectură sacră simplă și venerabilă din zonele înalte ale Anzilor.",
+                  "category": "religious",
+                  "coords": [
+                        -78.222672,
+                        0.220911
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Virgen del Quinche\"",
+                  "text": "Un lăcaș de cult dedicat Fecioarei din Quinche, una dintre cele mai importante figuri religioase din regiunea Imbabura.",
+                  "category": "religious",
+                  "coords": [
+                        -78.203418,
+                        0.18126
+                  ]
+            },
+            {
+                  "name": "Iglesia de Araque",
+                  "text": "Această biserică creștină din satul Araque oferă enoriașilor o vedere pitorească asupra lacului San Pablo din apropiere.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.200552,
+                        0.20641
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo",
+                  "text": "Biserica parohială din San Pablo del Lago este centrul religios al satului, situată la poalele maiestuosului vulcan Imbabura.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.190162,
+                        0.196647
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE CAMUENDO",
+                  "text": "O chapelă locală din comunitatea Camuendo, importantă pentru menținerea tradițiilor religioase indigene de pe malul lacului.",
+                  "category": "religious",
+                  "coords": [
+                        -78.211205,
+                        0.214588
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormon La Compania",
+                  "text": "Această casă de cult modernă a mormonilor din cartierul La Compañía servește comunitatea locală pentru servicii religioase și educație.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.226933,
+                        0.231067
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Reino De Los Cielos",
+                  "text": "Această biserică evanghelică din San Pablo este cunoscută pentru activitatea sa comunitară vibrantă și sprijinul acordat populației rurale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.222187,
+                        0.181962
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Megasaurios Park",
+                  "text": "This theme park by Lake San Pablo delights families with its life-sized dinosaur models and prehistoric scenarios.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.206745,
+                        0.152201
+                  ]
+            },
+            {
+                  "name": "Agua de güitig",
+                  "text": "A site dedicated to the famous Ecuadorian mineral water, known for its natural carbonation from the Imbabura volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.165084,
+                        0.166963
+                  ]
+            },
+            {
+                  "name": "Parque Aquatico",
+                  "text": "This water park on the shores of Lake San Pablo offers recreational fun with slides and swimming pools for the whole family.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.206983,
+                        0.20609
+                  ]
+            },
+            {
+                  "name": "LUGAR PLAYITA CAMUENDO",
+                  "text": "This tranquil beach section on Lake San Pablo is ideal for rides in traditional totora reed boats.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.21918,
+                        0.217822
+                  ]
+            },
+            {
+                  "name": "Cruz del Imbabura",
+                  "text": "A prominent spiritual cross on the slopes of Imbabura that attracts believers and hikers for its sweeping views.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.214187,
+                        0.219434
+                  ]
+            },
+            {
+                  "name": "Catolica Chilco",
+                  "text": "This Catholic church in the village of Chilco is an example of the simple and venerable sacred architecture of the Andean highlands.",
+                  "category": "religious",
+                  "coords": [
+                        -78.222672,
+                        0.220911
+                  ]
+            },
+            {
+                  "name": "Iglesia \"Virgen del Quinche\"",
+                  "text": "A place of worship dedicated to the Virgin of Quinche, one of the most important religious figures in the Imbabura region.",
+                  "category": "religious",
+                  "coords": [
+                        -78.203418,
+                        0.18126
+                  ]
+            },
+            {
+                  "name": "Iglesia de Araque",
+                  "text": "This Christian church in rural Araque offers churchgoers a scenic view of nearby Lake San Pablo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.200552,
+                        0.20641
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo",
+                  "text": "The parish church of San Pablo del Lago is the village's religious center, situated at the foot of the majestic Imbabura.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.190162,
+                        0.196647
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE CAMUENDO",
+                  "text": "A local chapel in the Camuendo community, important for maintaining indigenous religious traditions on the lakeshore.",
+                  "category": "religious",
+                  "coords": [
+                        -78.211205,
+                        0.214588
+                  ]
+            },
+            {
+                  "name": "Iglesia Mormon La Compania",
+                  "text": "This modern Mormon meetinghouse in the La Compañía neighborhood serves the local community for worship and education.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.226933,
+                        0.231067
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Reino De Los Cielos",
+                  "text": "This evangelical church in San Pablo is known for its vibrant community work and support for the rural population.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.222187,
+                        0.181962
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "EC-I",
     coords: [-78.216667, 0.216667],
@@ -744,7 +3714,52 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Plus grand lac d'Équateur", "Au pied de l'Imbabura", "Centre des populations indigènes", "Populaire pour les sports nautiques"],
     }, image: "/poi-images/san-pablo-lake-nature-v2.webp"},
   {
-    id: "yahuarcocha-nature-v2",
+    id: "yahuarcocha-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Circuito de Yahuarcocha",
+                  "text": "Eine berühmte Rennstrecke, die das Ufer des malerischen Yahuarcocha-Sees umrundet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.099107,
+                        0.379966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Circuito de Yahuarcocha",
+                  "text": "Híres versenypálya, amely a festői Yahuarcocha-tó partja körül fut.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.099107,
+                        0.379966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Circuito de Yahuarcocha",
+                  "text": "Un circuit celebru care înconjoară malurile pitorescului lac Yahuarcocha.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.099107,
+                        0.379966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Circuito de Yahuarcocha",
+                  "text": "A famous motor racing circuit that encircles the shores of the scenic Yahuarcocha lake.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.099107,
+                        0.379966
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "EC-I",
     coords: [-78.096389, 0.366111],
@@ -811,7 +3826,88 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Signifie « lac de sang »", "Lieu d'une bataille inca", "Circuit de course sur la rive", "Au nord d'Ibarra"],
     }, image: "/poi-images/yahuarcocha-nature-v2.webp"},
   {
-    id: "napo-river-nature-v2",
+    id: "napo-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoológico Francisco de Orellana",
+                  "text": "Der Zoológico Francisco de Orellana in der Nähe des Rio Napo präsentiert Tierarten des Amazonasbeckens.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.92725,
+                        -0.504419
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Bella Unión del Napo",
+                  "text": "Die Iglesia Evangélica Apostólica del Nombre de Jesús in La Bella Unión del Napo ist ein evangelischer Treffpunkt am Fluss.",
+                  "category": "religious",
+                  "coords": [
+                        -76.893496,
+                        -0.424659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoológico Francisco de Orellana",
+                  "text": "A Rio Napo közelében található Zoológico Francisco de Orellana az Amazonas-medence állatfajait mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.92725,
+                        -0.504419
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Bella Unión del Napo",
+                  "text": "A La Bella Unión del Napo-i Iglesia Evangélica Apostólica del Nombre de Jesús egy evangéliumi találkozóhely a folyó partján.",
+                  "category": "religious",
+                  "coords": [
+                        -76.893496,
+                        -0.424659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoológico Francisco de Orellana",
+                  "text": "Zoológico Francisco de Orellana din apropierea râului Napo prezintă specii de animale din bazinul Amazonului.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.92725,
+                        -0.504419
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Bella Unión del Napo",
+                  "text": "Iglesia Evangélica Apostólica del Nombre de Jesús din La Bella Unión del Napo este un loc de întâlnire evanghelic lângă râu.",
+                  "category": "religious",
+                  "coords": [
+                        -76.893496,
+                        -0.424659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoológico Francisco de Orellana",
+                  "text": "The Zoológico Francisco de Orellana near the Napo River showcases animal species native to the Amazon basin.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.92725,
+                        -0.504419
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Bella Unión del Napo",
+                  "text": "The Iglesia Evangélica Apostólica del Nombre de Jesús in La Bella Unión del Napo is an evangelical gathering space near the river.",
+                  "category": "religious",
+                  "coords": [
+                        -76.893496,
+                        -0.424659
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "EC-N",
     coords: [-76.883333, -0.466667],
@@ -878,7 +3974,448 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Affluent de l'Amazone", "Longueur : 1 075 km", "Navigable en plaine", "Riche biodiversité"],
     }, image: "/poi-images/napo-river-nature-v2.webp"},
   {
-    id: "pastaza-river-nature-v2",
+    id: "pastaza-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Comunidad Turística AyamtaJea",
+                  "text": "Diese indigene Ökotourismus-Gemeinde in der Nähe des Pastaza-Flusses bietet Besuchern tiefe Einblicke in angestammte amazonische Bräuche und Überlebenstechniken im Dschungel.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.913599,
+                        -1.621966
+                  ]
+            },
+            {
+                  "name": "Comunidad Sacha Wasi",
+                  "text": "Sacha Wasi, was \"Dschungelhaus\" bedeutet, ist ein indigenes Kulturdorf, in dem Gäste authentische schamanische Traditionen und einheimisches Kunsthandwerk erleben können.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.914763,
+                        -1.624354
+                  ]
+            },
+            {
+                  "name": "Piraña Wasi",
+                  "text": "Piraña Wasi ist eine auf Flussökologie spezialisierte Amazonas-Attraktion, die spannende Begegnungen mit lokalen Wasserbewohnern wie Piranhas bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919786,
+                        -1.631525
+                  ]
+            },
+            {
+                  "name": "Emprendimiento de Turismo Comunitario CHUPAPUNDA",
+                  "text": "Diese basisdemokratische Gemeindetourismus-Initiative heißt Besucher mit geführten Regenwaldwanderungen und authentischen, von Einheimischen zubereiteten Amazonas-Mahlzeiten willkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.926002,
+                        -1.650679
+                  ]
+            },
+            {
+                  "name": "Cabaña Amarumwasi",
+                  "text": "Dieses rustikale Dschungelhütten-Refugium, dessen Name \"Schlangenhaus\" bedeutet, lädt Reisende ein, die lokale Schlangenmythologie und die Artenvielfalt des Flusses zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.966088,
+                        -1.661165
+                  ]
+            },
+            {
+                  "name": "Casa del Encuentro - Tuparina Huasi",
+                  "text": "Dieses mit traditionellem Amazonas-Stroh gedeckte Kulturhaus dient als lebendiger Ort für indigene Geschichtenerzählungen und Gemeinschaftstänze.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.950841,
+                        -1.633615
+                  ]
+            },
+            {
+                  "name": "Casa NISHA",
+                  "text": "Das Casa NISHA ist ein immersives Kulturzentrum, das praktische Workshops zu traditioneller amazonischer Töpferei und indigenen Webtechniken anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.964274,
+                        -1.6296
+                  ]
+            },
+            {
+                  "name": "Kotacocha",
+                  "text": "Kotacocha ist eine ruhige Dschungellagune, an der Besucher von handgefertigten Holzstegen aus einheimische Wasserlebewesen und bunte Vögel beobachten können.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.91271,
+                        -1.608495
+                  ]
+            },
+            {
+                  "name": "Gringo Yaku",
+                  "text": "Gringo Yaku verfügt über einen bemerkenswert klaren, vom Wald gespeisten Wasserfall und ein natürliches Schwimmloch, das tief im dichten tropischen Laubwerk versteckt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919659,
+                        -1.571756
+                  ]
+            },
+            {
+                  "name": "Parque de Madre Tierra",
+                  "text": "Diese landschaftlich gestaltete Panoramaterrasse in der Stadt Madre Tierra bietet einen weiten, ungestörten Blick über das gewundene Pastaza-Flusstal.",
+                  "category": "natural",
+                  "coords": [
+                        -78.03496,
+                        -1.543352
+                  ]
+            },
+            {
+                  "name": "Centro de Turismo Ecológico Paz Yaku",
+                  "text": "Ein Ökotourismuszentrum in der Nähe des Flusses Pastaza, das sich auf ökologische Erlebnisse konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.028465,
+                        -1.571123
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal 'Coge el Fuego del Espíritu Santo'",
+                  "text": "Eine Pfingstkirche in der Nähe des Flusses Pastaza, in der sich lokale Gläubige versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        -77.957558,
+                        -1.632962
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Comunidad Turística AyamtaJea",
+                  "text": "Ez a Pastaza folyó melletti őslakos ökoturisztikai közösség mély betekintést nyújt a látogatóknak az ősi amazóniai szokásokba és a dzsungelben való túlélés technikáiba.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.913599,
+                        -1.621966
+                  ]
+            },
+            {
+                  "name": "Comunidad Sacha Wasi",
+                  "text": "A Sacha Wasi, aminek jelentése \"Dzsungel Otthon\", egy őslakos kulturális falu, ahol a vendégek autentikus sámánisztikus hagyományokat és ősi kézművességet tapasztalhatnak meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.914763,
+                        -1.624354
+                  ]
+            },
+            {
+                  "name": "Piraña Wasi",
+                  "text": "A Piraña Wasi egy folyami ökológiára összpontosító amazóniai látványosság, amely izgalmas, közeli találkozásokat kínál a helyi vízi fajokkal, például a piranhákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919786,
+                        -1.631525
+                  ]
+            },
+            {
+                  "name": "Emprendimiento de Turismo Comunitario CHUPAPUNDA",
+                  "text": "Ez az alulról szerveződő közösségi turisztikai kezdeményezés vezetett esőerdei túrákkal és a helyiek által készített autentikus amazóniai ételekkel várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.926002,
+                        -1.650679
+                  ]
+            },
+            {
+                  "name": "Cabaña Amarumwasi",
+                  "text": "A \"Kígyó Otthona\" nevű rusztikus dzsungelkunyhó arra hívja az utazókat, hogy felfedezzék a helyi kígyómitológiát és a környező folyó biodiverzitását.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.966088,
+                        -1.661165
+                  ]
+            },
+            {
+                  "name": "Casa del Encuentro - Tuparina Huasi",
+                  "text": "A hagyományos amazóniai nádtetővel épült kulturális gyülekezeti ház az őslakos történetmesélés és a közösségi táncok élénk helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.950841,
+                        -1.633615
+                  ]
+            },
+            {
+                  "name": "Casa NISHA",
+                  "text": "A Casa NISHA egy magával ragadó kulturális központ, amely gyakorlati műhelyeket kínál a hagyományos amazóniai fazekasságról és az őslakos szövési technikákról.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.964274,
+                        -1.6296
+                  ]
+            },
+            {
+                  "name": "Kotacocha",
+                  "text": "A Kotacocha egy békés dzsungellagúna, ahol a látogatók a kézzel készített fapandlókról megfigyelhetik az őshonos vízi élőlényeket és a színes madarakat.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.91271,
+                        -1.608495
+                  ]
+            },
+            {
+                  "name": "Gringo Yaku",
+                  "text": "A Gringo Yaku egy rendkívül tiszta, az erdőből táplálkozó vízeséssel és egy természetes fürdőhellyel büszkélkedhet, amely a sűrű trópusi lombozat között bújik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919659,
+                        -1.571756
+                  ]
+            },
+            {
+                  "name": "Parque de Madre Tierra",
+                  "text": "A Madre Tierra városában található, parkosított panorámaterasz lenyűgöző, zavartalan kilátást nyújt a kanyargós Pastaza folyó völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        -78.03496,
+                        -1.543352
+                  ]
+            },
+            {
+                  "name": "Centro de Turismo Ecológico Paz Yaku",
+                  "text": "A Pastaza-folyó közelében található ökoturisztikai központ, amely a természetközeli élményekre fókuszál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.028465,
+                        -1.571123
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal 'Coge el Fuego del Espíritu Santo'",
+                  "text": "Egy pünkösdi templom a Pastaza-folyó közelében, ahol a helyi hívők összegyűlnek.",
+                  "category": "religious",
+                  "coords": [
+                        -77.957558,
+                        -1.632962
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Comunidad Turística AyamtaJea",
+                  "text": "Această comunitate indigenă de ecoturism de lângă râul Pastaza oferă vizitatorilor o perspectivă profundă asupra obiceiurilor ancestrale amazoniene și a abilităților de supraviețuire în junglă.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.913599,
+                        -1.621966
+                  ]
+            },
+            {
+                  "name": "Comunidad Sacha Wasi",
+                  "text": "Sacha Wasi, care înseamnă „Casa din Junglă”, este un sat cultural indigen unde oaspeții pot experimenta tradiții șamanice autentice și meșteșuguri native.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.914763,
+                        -1.624354
+                  ]
+            },
+            {
+                  "name": "Piraña Wasi",
+                  "text": "Piraña Wasi este o atracție amazoniană specializată, axată pe ecologia fluvială, oferind întâlniri palpitante cu speciile acvatice locale, cum ar fi piranha.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919786,
+                        -1.631525
+                  ]
+            },
+            {
+                  "name": "Emprendimiento de Turismo Comunitario CHUPAPUNDA",
+                  "text": "Această inițiativă de turism comunitar întâmpină vizitatorii cu drumeții ghidate în pădurea tropicală și mese autentice amazoniene pregătite de localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.926002,
+                        -1.650679
+                  ]
+            },
+            {
+                  "name": "Cabaña Amarumwasi",
+                  "text": "Având sensul de „Casa Șarpelui”, această cabană rustică din junglă invită călătorii să exploreze mitologia locală a șerpilor și biodiversitatea râului din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.966088,
+                        -1.661165
+                  ]
+            },
+            {
+                  "name": "Casa del Encuentro - Tuparina Huasi",
+                  "text": "Construită cu paie tradiționale amazoniene, această casă de adunări culturale servește drept loc animat pentru povestiri indigene și dansuri comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.950841,
+                        -1.633615
+                  ]
+            },
+            {
+                  "name": "Casa NISHA",
+                  "text": "Casa NISHA este un centru cultural captivant care oferă ateliere practice axate pe ceramica tradițională amazoniană și tehnicile indigene de țesut.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.964274,
+                        -1.6296
+                  ]
+            },
+            {
+                  "name": "Kotacocha",
+                  "text": "Kotacocha este o lagună senină din junglă, unde vizitatorii pot observa viața acvatică nativă și păsările colorate de pe docurile din lemn lucrate manual.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.91271,
+                        -1.608495
+                  ]
+            },
+            {
+                  "name": "Gringo Yaku",
+                  "text": "Gringo Yaku prezintă o cascadă remarcabil de limpede, alimentată de pădure și un loc de înot natural ascuns în frunzișul tropical dens.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919659,
+                        -1.571756
+                  ]
+            },
+            {
+                  "name": "Parque de Madre Tierra",
+                  "text": "Situată în orașul Madre Tierra, această terasă panoramică amenajată oferă o priveliște vastă și neîntreruptă asupra văii sinuoase a râului Pastaza.",
+                  "category": "natural",
+                  "coords": [
+                        -78.03496,
+                        -1.543352
+                  ]
+            },
+            {
+                  "name": "Centro de Turismo Ecológico Paz Yaku",
+                  "text": "Un centru de ecoturism situat în apropierea râului Pastaza, axat pe experiențe ecologice.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.028465,
+                        -1.571123
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal 'Coge el Fuego del Espíritu Santo'",
+                  "text": "O biserică penticostală în apropierea râului Pastaza, unde se adună credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        -77.957558,
+                        -1.632962
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Comunidad Turística AyamtaJea",
+                  "text": "This indigenous eco-tourism community near the Pastaza River offers visitors profound insights into ancestral Amazonian customs and jungle survival skills.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.913599,
+                        -1.621966
+                  ]
+            },
+            {
+                  "name": "Comunidad Sacha Wasi",
+                  "text": "Sacha Wasi, meaning \"Jungle Home\", is an indigenous cultural village where guests can experience authentic shamanic traditions and native crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.914763,
+                        -1.624354
+                  ]
+            },
+            {
+                  "name": "Piraña Wasi",
+                  "text": "Piraña Wasi is a specialized Amazonian attraction focused on river ecology, offering thrilling close encounters with local aquatic species like piranhas.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919786,
+                        -1.631525
+                  ]
+            },
+            {
+                  "name": "Emprendimiento de Turismo Comunitario CHUPAPUNDA",
+                  "text": "This grassroots community tourism initiative welcomes visitors with guided rainforest hikes and authentic Amazonian meals prepared by locals.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.926002,
+                        -1.650679
+                  ]
+            },
+            {
+                  "name": "Cabaña Amarumwasi",
+                  "text": "Meaning \"Snake Home\", this rustic jungle cabin retreat invites travelers to explore local serpent mythology and the surrounding river biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.966088,
+                        -1.661165
+                  ]
+            },
+            {
+                  "name": "Casa del Encuentro - Tuparina Huasi",
+                  "text": "Constructed with traditional Amazonian thatch, this cultural gathering house serves as a lively venue for indigenous storytelling and community dances.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.950841,
+                        -1.633615
+                  ]
+            },
+            {
+                  "name": "Casa NISHA",
+                  "text": "Casa NISHA is an immersive cultural center offering hands-on workshops focused on traditional Amazonian pottery and indigenous weaving techniques.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.964274,
+                        -1.6296
+                  ]
+            },
+            {
+                  "name": "Kotacocha",
+                  "text": "Kotacocha is a serene jungle lagoon where visitors can observe native aquatic life and colorful birds from handcrafted wooden docks.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.91271,
+                        -1.608495
+                  ]
+            },
+            {
+                  "name": "Gringo Yaku",
+                  "text": "Gringo Yaku features a remarkably clear, forest-fed waterfall and natural swimming hole tucked away within the dense tropical foliage.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.919659,
+                        -1.571756
+                  ]
+            },
+            {
+                  "name": "Parque de Madre Tierra",
+                  "text": "Situated in the town of Madre Tierra, this landscaped panoramic terrace provides sweeping, uninterrupted views over the winding Pastaza River valley.",
+                  "category": "natural",
+                  "coords": [
+                        -78.03496,
+                        -1.543352
+                  ]
+            },
+            {
+                  "name": "Centro de Turismo Ecológico Paz Yaku",
+                  "text": "An ecotourism center located near the Pastaza River focusing on ecological experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.028465,
+                        -1.571123
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostal 'Coge el Fuego del Espíritu Santo'",
+                  "text": "A Pentecostal church near the Pastaza River where local worshippers gather.",
+                  "category": "religious",
+                  "coords": [
+                        -77.957558,
+                        -1.632962
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "EC-S",
     coords: [-78.0, -1.6],
@@ -945,7 +4482,736 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Longueur : 710 km", "Prend sa source près de Baños", "Forme le Pailón del Diablo", "Coule vers le Pérou"],
     }, image: "/poi-images/pastaza-river-nature-v2.webp"},
   {
-    id: "guayas-river-nature-v2",
+    id: "guayas-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cinco como un puño",
+                  "text": "Dieses eindrucksvolle Denkmal, dessen Name „Fünf wie eine Faust“ bedeutet, steht nahe dem Fluss Guayas als Symbol für Einheit und Solidarität der Arbeiterklasse.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898926,
+                        -2.187619
+                  ]
+            },
+            {
+                  "name": "Casa de los Titeres",
+                  "text": "Dieses auf Puppenspiel spezialisierte Museum in der Nähe der Uferpromenade zeigt eine farbenfrohe Sammlung handgefertigter Marionetten und Theaterfiguren.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89908,
+                        -2.186297
+                  ]
+            },
+            {
+                  "name": "Mirador de Ecuavisa",
+                  "text": "Hoch auf dem Cerro del Carmen in der Nähe der Ecuavisa-Sendestudios gelegen, bietet dieser Aussichtspunkt einen weiten Panoramablick über den Fluss Guayas und die Skyline der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883779,
+                        -2.182239
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "Dieser in die malerische Uferpromenade Malecón del Salado integrierte offene Platz bietet öffentliche Veranstaltungsflächen und malerische Ausblicke auf die Mündungswasserstraße.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898026,
+                        -2.186948
+                  ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "Dieser familienorientierte Freizeitpark wurde 2009 am Flussufer eröffnet und erfreut Kinder mit seinem klassischen Karussell und den lebhaften Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.896207,
+                        -2.186204
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Dieses Museum in einer wunderschön restaurierten historischen Villa zeigt eine beeindruckende Sammlung präkolumbianischer archäologischer Artefakte der Küstenkulturen Ecuadors.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895298,
+                        -2.187605
+                  ]
+            },
+            {
+                  "name": "PARROQUIAS VICARÍA CENTRO",
+                  "text": "Diese zentrale Pfarrverwaltung arbeitet in der Nähe des Flusses Guayas und unterstützt die religiösen und pastoralen Aktivitäten der lokalen christlichen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -79.89394,
+                        -2.182365
+                  ]
+            },
+            {
+                  "name": "Capilla Espíritu Santo (Radio La Voz de María)",
+                  "text": "Diese intime Heilig-Geist-Kapelle ist dem katholischen Sender La Voz de María angegliedert und dient sowohl als Übertragungsort als auch als ruhiger Ort des Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        -79.893011,
+                        -2.18254
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses Gemeindehaus der Heiligen der Letzten Tage ist an seiner klaren, modernen Architektur zu erkennen und bietet einen eigenen Raum für den familienorientierten Sonntagsgottesdienst in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.882579,
+                        -2.186913
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial Cristo Liberador",
+                  "text": "Diese aktive christliche Pfarrei, die als Christus der Befreier bekannt ist, versammelt die lokale Nachbarschaft zum gemeinsamen Gebet und zu lebendigen Sonntagsmessen.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.902306,
+                        -2.188202
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de la Medalla Milagrosa - Hospital Luis Vernaza",
+                  "text": "Diese katholische Kapelle befindet sich im historischen Krankenhauskomplex Luis Vernaza und bietet Patienten und medizinischem Personal spirituellen Trost und Heilungsgebete.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.881571,
+                        -2.182088
+                  ]
+            },
+            {
+                  "name": "Centro Biblico",
+                  "text": "Dieses christliche Bibelzentrum dient als Knotenpunkt für das Schriftstudium und ermöglicht religiöse Bildung und Gemeinschaftstreffen in der Nähe der historischen Uferpromenade von Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.890541,
+                        -2.185598
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Agustín | Guayaquil ",
+                  "text": "Mit ihren markanten Bogenfenstern und traditioneller katholischer Architektur ist die Kirche San Agustín ein markantes Wahrzeichen des Glaubens in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.887392,
+                        -2.187409
+                  ]
+            },
+            {
+                  "name": "Un Encuentro Con Dios",
+                  "text": "Diese zeitgenössische christliche Gemeinde, die unter dem Namen „Eine Begegnung mit Gott“ agiert, veranstaltet lebhafte Lobpreis- und Anbetungsstunden für die städtische Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.885491,
+                        -2.184521
+                  ]
+            },
+            {
+                  "name": "San Vicente de Paúl",
+                  "text": "Diese katholische Kirche, die dem Schutzpatron der wohltätigen Gesellschaften geweiht ist, engagiert sich stark in lokalen sozialen Projekten und der Unterstützung der Gemeinde in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.890043,
+                        -2.183846
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Rey de Reyes",
+                  "text": "Die christliche Kirche König der Könige bietet ein ansprechendes, modernes evangelikales Umfeld, in dem sich Einheimische zu fröhlicher Musik und Schriftlehren versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898438,
+                        -2.178586
+                  ]
+            },
+            {
+                  "name": "Mercado Norte (Provisional)",
+                  "text": "Dieser provisorische Nordmarkt operiert in temporären Einrichtungen und bleibt eine wichtige tägliche Quelle für frisches Obst, Gemüse und regionales Fleisch.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.882873,
+                        -2.185026
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Del Norte",
+                  "text": "Dieser permanente städtische Markt im nördlichen Sektor von Guayaquil ist ein lebhafter Handelsplatz, auf dem Händler die reiche landwirtschaftliche Vielfalt des Guayas-Beckens präsentieren.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.88072,
+                        -2.185955
+                  ]
+            },
+            {
+                  "name": "Plaza de Flores - Zaida Letty Castillo",
+                  "text": "Dieser spezialisierte Blumenplatz ist voll von farbenfrohen tropischen Blüten und süßen Düften und bietet alles von einzelnen Rosen bis hin zu aufwendigen Festtagssträußen.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.889138,
+                        -2.183948
+                  ]
+            },
+            {
+                  "name": "Mercado Artesanal Guayaquil",
+                  "text": "Dieser Handwerksmarkt mit seinen zahlreichen dicht gedrängten Ständen ist die erste Adresse der Stadt für traditionelle ecuadorianische Textilien, Lederwaren und Panamahüte.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.880195,
+                        -2.184807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cinco como un puño",
+                  "text": "Az „Öten, mint egy ököl” nevet viselő erőteljes emlékmű a Guayas-folyó közelében áll az egység és a munkásosztály szolidaritásának szimbólumaként.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898926,
+                        -2.187619
+                  ]
+            },
+            {
+                  "name": "Casa de los Titeres",
+                  "text": "A bábművészetnek szentelt folyóparti szakmúzeum kézzel készített marionettek és színházi figurák színes gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89908,
+                        -2.186297
+                  ]
+            },
+            {
+                  "name": "Mirador de Ecuavisa",
+                  "text": "A Cerro del Carmenen, az Ecuavisa stúdiói közelében magasan fekvő kilátó széles panorámát nyújt a Guayas-folyóra és a város látképére.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883779,
+                        -2.182239
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "A festői Malecón del Salado sétányba integrált nyitott tér nyilvános rendezvényhelyszíneket és gyönyörű kilátást kínál a torkolati víziútra.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898026,
+                        -2.186948
+                  ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "Ez a folyópart mentén 2009-ben megnyílt családbarát vidámpark klasszikus körhintájával és nyüzsgő vidámparki játékaival örvendezteti meg a gyerekeket.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.896207,
+                        -2.186204
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Ez a gyönyörűen felújított műemlék villában található múzeum Ecuador tengerparti kultúráinak Kolumbusz előtti régészeti leleteiből mutat be lenyűgöző gyűjteményt.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895298,
+                        -2.187605
+                  ]
+            },
+            {
+                  "name": "PARROQUIAS VICARÍA CENTRO",
+                  "text": "A Guayas-folyó közelében működő központi plébániai hivatal a helyi keresztény közösség vallási és lelkipásztori tevékenységét támogatja.",
+                  "category": "religious",
+                  "coords": [
+                        -79.89394,
+                        -2.182365
+                  ]
+            },
+            {
+                  "name": "Capilla Espíritu Santo (Radio La Voz de María)",
+                  "text": "A La Voz de María katolikus műsorszolgáltatóhoz tartozó meghitt Szentlélek-kápolna sugárzási helyként és csendes imádkozóhelyként is szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -79.893011,
+                        -2.18254
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A letisztult, modern építészetéről felismerhető Utolsó Napi Szentek gyülekezeti háza dedikált teret biztosít a családközpontú vasárnapi istentiszteleteknek Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.882579,
+                        -2.186913
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial Cristo Liberador",
+                  "text": "A Krisztus a Szabadító néven ismert aktív keresztény plébánia közös imádkozásra és élénk vasárnapi misékre gyűjti össze a helyi lakosokat.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.902306,
+                        -2.188202
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de la Medalla Milagrosa - Hospital Luis Vernaza",
+                  "text": "A történelmi Luis Vernaza kórházkomplexumon belül található katolikus kápolna spirituális vigaszt és gyógyító imákat nyújt a betegeknek és az egészségügyi személyzetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.881571,
+                        -2.182088
+                  ]
+            },
+            {
+                  "name": "Centro Biblico",
+                  "text": "A szentírás-tanulmányozás központjaként szolgáló keresztény bibliai központ vallási oktatást és közösségi találkozókat szervez Guayaquil történelmi vízpartja közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.890541,
+                        -2.185598
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Agustín | Guayaquil ",
+                  "text": "A jellegzetes íves ablakokkal és hagyományos katolikus építészettel büszkélkedő San Agustín-templom a hit kiemelkedő nevezetessége Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.887392,
+                        -2.187409
+                  ]
+            },
+            {
+                  "name": "Un Encuentro Con Dios",
+                  "text": "Az „Egy Találkozás Istennel” néven működő kortárs keresztény gyülekezet élénk dicsőítő és istentiszteleti alkalmakat tart a városi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.885491,
+                        -2.184521
+                  ]
+            },
+            {
+                  "name": "San Vicente de Paúl",
+                  "text": "A jótékonysági társaságok védőszentjének szentelt katolikus templom mélyen részt vesz a helyi szociális és közösségi támogató munkában Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.890043,
+                        -2.183846
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Rey de Reyes",
+                  "text": "A Királyok Királya Keresztény Templom vonzó, modern evangéliumi környezetet kínál, ahol a helyiek örömteli zenére és szentírás-tanításokra gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898438,
+                        -2.178586
+                  ]
+            },
+            {
+                  "name": "Mercado Norte (Provisional)",
+                  "text": "Az ideiglenes létesítményekben működő északi piac továbbra is a friss gyümölcsök, zöldségek és regionális húsok létfontosságú napi forrása.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.882873,
+                        -2.185026
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Del Norte",
+                  "text": "Ez a Guayaquil északi szektorában található állandó városi piac egy nyüzsgő kereskedelmi terület, ahol az árusok a Guayas-medence élénk mezőgazdasági bőségét mutatják be.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.88072,
+                        -2.185955
+                  ]
+            },
+            {
+                  "name": "Plaza de Flores - Zaida Letty Castillo",
+                  "text": "A színes trópusi virágokkal és édes illatokkal teli speciális virágpiac a szál rózsáktól a kidolgozott ünnepi csokrokig mindent kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.889138,
+                        -2.183948
+                  ]
+            },
+            {
+                  "name": "Mercado Artesanal Guayaquil",
+                  "text": "A számos sűrű standot magában foglaló kézműves piac a város első számú célpontja a hagyományos ecuadori textíliák, bőráruk és Panama-kalapok beszerzésének.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.880195,
+                        -2.184807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cinco como un puño",
+                  "text": "Traducându-se „Cinci ca un pumn”, acest monument puternic se înalță lângă râul Guayas ca un simbol al unității și al solidarității clasei muncitoare.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898926,
+                        -2.187619
+                  ]
+            },
+            {
+                  "name": "Casa de los Titeres",
+                  "text": "Dedicat artei păpușilor, acest muzeu specializat de lângă malul râului prezintă o colecție colorată de marionete lucrate manual și figurine teatrale.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89908,
+                        -2.186297
+                  ]
+            },
+            {
+                  "name": "Mirador de Ecuavisa",
+                  "text": "Situat la înălțime pe Cerro del Carmen, lângă studiourile de difuzare Ecuavisa, acest punct de belvedere oferă o panoramă vastă asupra râului Guayas și a orizontului orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883779,
+                        -2.182239
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "Integrată în promenada pitorească Malecón del Salado, această piațetă deschisă oferă spații pentru evenimente publice și vederi pitorești ale căii navigabile din estuar.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898026,
+                        -2.186948
+                  ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "Deschis în 2009 de-a lungul malului râului, acest parc tematic orientat spre familie încântă copiii cu caruselul său clasic și atracțiile de distracție vibrante.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.896207,
+                        -2.186204
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Găzduit într-o vilă de patrimoniu frumos restaurată, acest muzeu expune o colecție impresionantă de artefacte arheologice precolumbiene din culturile de coastă ale Ecuadorului.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895298,
+                        -2.187605
+                  ]
+            },
+            {
+                  "name": "PARROQUIAS VICARÍA CENTRO",
+                  "text": "Funcționând în apropierea râului Guayas, această administrație parohială centrală sprijină activitățile religioase și pastorale ale comunității creștine locale.",
+                  "category": "religious",
+                  "coords": [
+                        -79.89394,
+                        -2.182365
+                  ]
+            },
+            {
+                  "name": "Capilla Espíritu Santo (Radio La Voz de María)",
+                  "text": "Afiliată radiodifuzorului catolic La Voz de María, această capelă intimă a Sfântului Duh servește atât ca loc de difuzare, cât și ca loc liniștit de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -79.893011,
+                        -2.18254
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Recunoscută prin arhitectura sa curată și modernă, această casă de întruniri a Sfinților din Zilele din Urmă oferă un spațiu dedicat închinării duminicale axate pe familie în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.882579,
+                        -2.186913
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial Cristo Liberador",
+                  "text": "Cunoscută sub numele de Hristos Eliberatorul, această parohie creștină activă adună locuitorii din cartier pentru rugăciune comunitară și slujbe vibrante de duminică.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.902306,
+                        -2.188202
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de la Medalla Milagrosa - Hospital Luis Vernaza",
+                  "text": "Situată în complexul istoric al Spitalului Luis Vernaza, această capelă catolică oferă mângâiere spirituală și rugăciuni de vindecare pacienților și personalului medical.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.881571,
+                        -2.182088
+                  ]
+            },
+            {
+                  "name": "Centro Biblico",
+                  "text": "Servind drept un centru pentru studiul scripturilor, acest centru biblic creștin facilitează educația religioasă și întâlnirile de părtășie în apropierea falezei istorice din Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.890541,
+                        -2.185598
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Agustín | Guayaquil ",
+                  "text": "Prezentând ferestre arcuite distinctive și o arhitectură catolică tradițională, Biserica San Agustín este un punct de reper proeminent al credinței în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.887392,
+                        -2.187409
+                  ]
+            },
+            {
+                  "name": "Un Encuentro Con Dios",
+                  "text": "Funcționând sub numele de „O Întâlnire cu Dumnezeu”, această congregație creștină contemporană găzduiește sesiuni pline de viață de laudă și închinare pentru comunitatea urbană.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.885491,
+                        -2.184521
+                  ]
+            },
+            {
+                  "name": "San Vicente de Paúl",
+                  "text": "Dedicată sfântului patron al societăților caritabile, această biserică catolică este profund implicată în asistența socială locală și sprijinul comunitar în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.890043,
+                        -2.183846
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Rey de Reyes",
+                  "text": "Biserica Creștină Regele Regilor oferă un mediu evanghelic modern și captivant, unde localnicii se adună pentru muzică veselă și învățături scripturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898438,
+                        -2.178586
+                  ]
+            },
+            {
+                  "name": "Mercado Norte (Provisional)",
+                  "text": "Funcționând în facilități temporare, această piață provizorie de nord rămâne o sursă zilnică vitală de fructe proaspete, legume și carne regională.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.882873,
+                        -2.185026
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Del Norte",
+                  "text": "Această piață municipală permanentă din sectorul de nord al orașului Guayaquil este un spațiu comercial plin de viață, unde vânzătorii prezintă bogăția agricolă vibrantă a bazinului Guayas.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.88072,
+                        -2.185955
+                  ]
+            },
+            {
+                  "name": "Plaza de Flores - Zaida Letty Castillo",
+                  "text": "Plină de flori tropicale colorate și parfumuri dulci, această piațetă specializată în flori oferă totul, de la trandafiri simpli la buchete elaborate de sărbătoare.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.889138,
+                        -2.183948
+                  ]
+            },
+            {
+                  "name": "Mercado Artesanal Guayaquil",
+                  "text": "Cuprinzând numeroase tarabe dense, această piață artizanală este destinația principală a orașului pentru achiziționarea de textile tradiționale ecuadoriene, articole din piele și pălării de Panama.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.880195,
+                        -2.184807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cinco como un puño",
+                  "text": "Translating to \"Five Like a Fist,\" this powerful monument stands near the Guayas River as a symbol of unity and working-class solidarity.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898926,
+                        -2.187619
+                  ]
+            },
+            {
+                  "name": "Casa de los Titeres",
+                  "text": "Dedicated to the art of puppetry, this specialized museum near the riverfront showcases a colorful collection of handmade marionettes and theatrical figures.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89908,
+                        -2.186297
+                  ]
+            },
+            {
+                  "name": "Mirador de Ecuavisa",
+                  "text": "Perched high on Cerro del Carmen near the Ecuavisa broadcast studios, this viewpoint offers sweeping panoramic vistas over the Guayas River and city skyline.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883779,
+                        -2.182239
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "Integrated into the scenic Malecón del Salado boardwalk, this open plaza features public event spaces and scenic views of the estuarine waterway.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898026,
+                        -2.186948
+                  ]
+            },
+            {
+                  "name": "Safari Park",
+                  "text": "Opened in 2009 along the riverfront, this family-oriented theme park delights children with its classic carousel and vibrant amusement rides.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.896207,
+                        -2.186204
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Housed in a beautifully restored heritage villa, this museum exhibits an impressive collection of pre-Columbian archaeological artifacts from Ecuador's coastal cultures.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895298,
+                        -2.187605
+                  ]
+            },
+            {
+                  "name": "PARROQUIAS VICARÍA CENTRO",
+                  "text": "Operating near the Guayas River, this central parish administration supports the religious and pastoral activities of the local Christian community.",
+                  "category": "religious",
+                  "coords": [
+                        -79.89394,
+                        -2.182365
+                  ]
+            },
+            {
+                  "name": "Capilla Espíritu Santo (Radio La Voz de María)",
+                  "text": "Affiliated with the Catholic broadcaster La Voz de María, this intimate Holy Spirit Chapel serves both as a broadcast site and a quiet place of prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -79.893011,
+                        -2.18254
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Recognizable by its clean, modern architecture, this Latter-day Saints meetinghouse provides a dedicated space for family-focused Sunday worship in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.882579,
+                        -2.186913
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial Cristo Liberador",
+                  "text": "Known as Christ the Liberator, this active Christian parish gathers the local neighborhood for communal prayer and vibrant Sunday masses.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.902306,
+                        -2.188202
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de la Medalla Milagrosa - Hospital Luis Vernaza",
+                  "text": "Located within the historic Luis Vernaza Hospital complex, this Catholic chapel provides spiritual comfort and healing prayers to patients and medical staff.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.881571,
+                        -2.182088
+                  ]
+            },
+            {
+                  "name": "Centro Biblico",
+                  "text": "Serving as a hub for scripture study, this Christian Biblical center facilitates religious education and fellowship meetings near Guayaquil's historic waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.890541,
+                        -2.185598
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Agustín | Guayaquil ",
+                  "text": "Showcasing distinctive arched windows and traditional Catholic architecture, the Church of San Agustín is a prominent landmark of faith in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.887392,
+                        -2.187409
+                  ]
+            },
+            {
+                  "name": "Un Encuentro Con Dios",
+                  "text": "Operating under the name \"An Encounter With God,\" this contemporary Christian congregation hosts lively praise and worship sessions for the urban community.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.885491,
+                        -2.184521
+                  ]
+            },
+            {
+                  "name": "San Vicente de Paúl",
+                  "text": "Dedicated to the patron saint of charitable societies, this Catholic church is deeply involved in local social outreach and community support in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.890043,
+                        -2.183846
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiana Rey de Reyes",
+                  "text": "The King of Kings Christian Church offers an engaging, modern evangelical environment where locals gather for joyful music and scripture teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898438,
+                        -2.178586
+                  ]
+            },
+            {
+                  "name": "Mercado Norte (Provisional)",
+                  "text": "Operating out of temporary facilities, this provisional northern market remains a vital daily source of fresh fruits, vegetables, and regional meats.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.882873,
+                        -2.185026
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Del Norte",
+                  "text": "This permanent municipal market in Guayaquil's northern sector is a lively trading floor where vendors showcase the vibrant agricultural bounty of the Guayas basin.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.88072,
+                        -2.185955
+                  ]
+            },
+            {
+                  "name": "Plaza de Flores - Zaida Letty Castillo",
+                  "text": "Brimming with colorful tropical blooms and sweet fragrances, this specialized flower plaza offers everything from single roses to elaborate celebratory bouquets.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.889138,
+                        -2.183948
+                  ]
+            },
+            {
+                  "name": "Mercado Artesanal Guayaquil",
+                  "text": "Encompassing numerous dense stalls, this artisanal market is the city's premier destination for acquiring traditional Ecuadorian textiles, leather goods, and Panama hats.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.880195,
+                        -2.184807
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "EC-G",
     coords: [-79.883333, -2.183333],
@@ -1213,7 +5479,88 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Taille : 9 820 km²", "Biodiversité extrême", "Abri de peuples non contactés", "Réserve de biosphère UNESCO"],
     }, image: "/poi-images/yasuni-forest-nature-v2.webp"},
   {
-    id: "cuyabeno-forest-nature-v2",
+    id: "cuyabeno-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monkey Island",
+                  "text": "Monkey Island ist ein beliebtes Naturziel für Wildtierbeobachtungen im Cuyabeno-Schutzgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.168856,
+                        -0.055478
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Cultural Siona",
+                  "text": "Das Centro de Interpretación Cultural Siona bietet Informationen über die Traditionen der Siona-Gemeinschaft im Cuyabeno-Regenwald.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.139734,
+                        -0.089652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monkey Island",
+                  "text": "A Monkey Island népszerű természeti célpont a vadvilág megfigyelésére a Cuyabeno rezervátumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.168856,
+                        -0.055478
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Cultural Siona",
+                  "text": "A Centro de Interpretación Cultural Siona információkkal szolgál a siona közösség hagyományairól a Cuyabeno esőerdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.139734,
+                        -0.089652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monkey Island",
+                  "text": "Insula Maimuțelor este o destinație naturală populară pentru observarea faunei sălbatice din rezervația Cuyabeno.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.168856,
+                        -0.055478
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Cultural Siona",
+                  "text": "Centro de Interpretación Cultural Siona oferă informații despre tradițiile comunității Siona în pădurea tropicală Cuyabeno.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.139734,
+                        -0.089652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monkey Island",
+                  "text": "Monkey Island is a popular natural destination for wildlife spotting within the Cuyabeno reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.168856,
+                        -0.055478
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Cultural Siona",
+                  "text": "The Centro de Interpretación Cultural Siona offers insights into the traditions of the Siona community in the Cuyabeno rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.139734,
+                        -0.089652
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EC-U",
     coords: [-76.166667, -0.05],
@@ -1347,7 +5694,628 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Plus de 100 endémiques", "Protège les forêts de nuages", "Éponyme : conifère", "Habitat de l'ours à lunettes"],
     }, image: "/poi-images/podocarpus-forest-nature-v2.webp"},
   {
-    id: "mindo-forest-nature-v2",
+    id: "mindo-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lek de Gallito de la Peña",
+                  "text": "Ein spezieller Beobachtungsbereich im Nebelwald von Mindo, um das Balzverhalten des Andenklippenvogels zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -78.766508,
+                        -0.083087
+                  ]
+            },
+            {
+                  "name": "Tarabita Mindo",
+                  "text": "Eine beliebte offene Seilbahn, die Besucher hoch über die üppigen Baumkronen des Nebelwaldes von Mindo transportiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.764438,
+                        -0.076284
+                  ]
+            },
+            {
+                  "name": "Tarabita y Santuario de las Cascadas",
+                  "text": "Eine Seilbahnfahrt, die zu einem Schutzgebiet mit einer spektakulären Reihe von Wasserfällen führt, die im Nebelwald von Mindo verborgen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.76797,
+                        -0.075141
+                  ]
+            },
+            {
+                  "name": "Playa de las Ranas",
+                  "text": "Ein kleiner, malerischer Flussstrand an den erfrischenden Wasserwegen des Nebelwaldes von Mindo.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.769809,
+                        -0.081282
+                  ]
+            },
+            {
+                  "name": "Mirador Mindo",
+                  "text": "Ein hoch gelegener Aussichtspunkt, der einen Panoramablick auf das üppige, grüne Mindo-Tal und seinen Nebelwald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.759766,
+                        -0.04181
+                  ]
+            },
+            {
+                  "name": "Mindoxtrem Birds Tour Operator",
+                  "text": "Der Ausgangspunkt und das Ticketbüro für eine extreme Zipline- und Vogelbeobachtungs-Canopy-Tour im Mindo-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.7747,
+                        -0.056989
+                  ]
+            },
+            {
+                  "name": "Canopy Adventure",
+                  "text": "Ein aufregender Zipline-Parcours, bei dem Besucher schnell durch die hohen Baumkronen des Nebelwaldes von Mindo gleiten können.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.773191,
+                        -0.066208
+                  ]
+            },
+            {
+                  "name": "Mirador de Aves",
+                  "text": "Ein erhöhter Holzturm in Mindo, der speziell dafür entworfen wurde, einen optimalen Blick auf die reiche Vogelwelt in den Baumkronen zu bieten.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.771791,
+                        -0.066472
+                  ]
+            },
+            {
+                  "name": "Minjoy Park",
+                  "text": "Ein Naturfreizeitpark in Mindo, der Outdoor-Aktivitäten wie Ziplining und Sesselliftfahrten inmitten des Nebelwaldes bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.766215,
+                        -0.066837
+                  ]
+            },
+            {
+                  "name": "Hosteria Mariposas de Mindo",
+                  "text": "Ein bekannter Schmetterlingsgarten mit Lodge in Mindo, wo Besucher verschiedene Stadien des Lebenszyklus eines Schmetterlings beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.761711,
+                        -0.068381
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "Ein spezieller Beobachtungsort im Nebelwald von Mindo, der für seine Nahaufnahmen zahlreicher farbenprächtiger Kolibriarten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -78.754474,
+                        -0.073565
+                  ]
+            },
+            {
+                  "name": "Las Montañas",
+                  "text": "Ein geschütztes Naturschutzgebiet, das die rauen, artenreichen Berge um den Nebelwald von Mindo umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -78.749345,
+                        -0.079363
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada",
+                  "text": "Ein malerischer Aussichtspunkt in Mindo, der einen klaren, malerischen Blick auf einen stürzenden Waldwasserfall bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.75859,
+                        -0.077765
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Nambillo",
+                  "text": "Ein geschütztes Nebelwaldreservat in Mindo, das für seine dichten Baumkronen, Wanderwege und kaskadierenden Wasserfälle bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.756212,
+                        -0.076521
+                  ]
+            },
+            {
+                  "name": "Reserva Roca Mia",
+                  "text": "In der artenreichen Mindo-Nebelwaldregion schützt dieses Naturschutzgebiet die üppige heimische Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -78.740378,
+                        -0.08435
+                  ]
+            },
+            {
+                  "name": "Las cotingas",
+                  "text": "Diese lokale Sehenswürdigkeit in der Region des Mindo-Nebelwaldes bietet einen Einblick in die lebendige natürliche Umgebung der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.738886,
+                        -0.009913
+                  ]
+            },
+            {
+                  "name": "Reserva Las Tangaras",
+                  "text": "Dieses Naturschutzgebiet in der Mindo-Waldregion widmet sich der Erhaltung des reichen andinen Nebelwald-Ökosystems.",
+                  "category": "natural",
+                  "coords": [
+                        -78.767106,
+                        -0.086386
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lek de Gallito de la Peña",
+                  "text": "Különleges megfigyelőhely a mindói köderdőben, ahonnan az andoki sziklakakasok párzási tánca figyelhető meg.",
+                  "category": "natural",
+                  "coords": [
+                        -78.766508,
+                        -0.083087
+                  ]
+            },
+            {
+                  "name": "Tarabita Mindo",
+                  "text": "Népszerű nyitott drótkötélpálya, amely magasan a mindói köderdő buja lombkoronája felett szállítja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.764438,
+                        -0.076284
+                  ]
+            },
+            {
+                  "name": "Tarabita y Santuario de las Cascadas",
+                  "text": "Drótkötélpályás utazás egy olyan szentélyhez, amely a mindói köderdőben megbúvó, lenyűgöző vízeséssorozattal büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.76797,
+                        -0.075141
+                  ]
+            },
+            {
+                  "name": "Playa de las Ranas",
+                  "text": "Kis, festői folyóparti strand a mindói köderdő frissítő vízfolyásai mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.769809,
+                        -0.081282
+                  ]
+            },
+            {
+                  "name": "Mirador Mindo",
+                  "text": "Magasan fekvő kilátópont, ahonnan panorámás kilátás nyílik a buja, zöld Mindo-völgyre és annak köderdejére.",
+                  "category": "natural",
+                  "coords": [
+                        -78.759766,
+                        -0.04181
+                  ]
+            },
+            {
+                  "name": "Mindoxtrem Birds Tour Operator",
+                  "text": "A mindói erdőben található extrém drótkötélpályás és madármegfigyelő lombkoronatúrák kiindulópontja és jegypénztára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.7747,
+                        -0.056989
+                  ]
+            },
+            {
+                  "name": "Canopy Adventure",
+                  "text": "Izgalmas drótkötélpálya, amelyen a látogatók sebesen suhanhatnak át a mindói köderdő magas lombkoronáján.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.773191,
+                        -0.066208
+                  ]
+            },
+            {
+                  "name": "Mirador de Aves",
+                  "text": "A mindói erdőben található magas fából készült torony, amely optimális rálátást biztosít a lombkorona gazdag madárvilágára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.771791,
+                        -0.066472
+                  ]
+            },
+            {
+                  "name": "Minjoy Park",
+                  "text": "Szabadidős természetpark Mindóban, amely olyan szabadtéri tevékenységeket kínál a köderdőben, mint a drótkötélpálya és a libegő.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.766215,
+                        -0.066837
+                  ]
+            },
+            {
+                  "name": "Hosteria Mariposas de Mindo",
+                  "text": "Kiemelkedő lepkekert és panzió Mindóban, ahol a látogatók megfigyelhetik a lepkék életciklusának különböző szakaszait.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.761711,
+                        -0.068381
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "Különleges megfigyelőhely a mindói köderdőben, amely számos élénk színű kolibrifaj testközelből történő megfigyeléséről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -78.754474,
+                        -0.073565
+                  ]
+            },
+            {
+                  "name": "Las Montañas",
+                  "text": "Védett természeti rezervátum, amely a mindói köderdőt körülölelő zord, biológiai sokféleségben gazdag hegyeket foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        -78.749345,
+                        -0.079363
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada",
+                  "text": "Festői kilátópont Mindóban, ahonnan zavartalan, gyönyörű kilátás nyílik egy lezúduló erdei vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -78.75859,
+                        -0.077765
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Nambillo",
+                  "text": "Védett köderdő-rezervátum Mindóban, amely sűrű lombkoronájáról, túraútvonalairól és lépcsőzetes vízeséseiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.756212,
+                        -0.076521
+                  ]
+            },
+            {
+                  "name": "Reserva Roca Mia",
+                  "text": "A biodiverz Mindo köderdő régiójában található természetvédelmi terület buja őshonos növény- és állatvilágot véd.",
+                  "category": "natural",
+                  "coords": [
+                        -78.740378,
+                        -0.08435
+                  ]
+            },
+            {
+                  "name": "Las cotingas",
+                  "text": "Ez a helyi látványosság a Mindo köderdő területén bepillantást enged a régió élénk természeti környezetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.738886,
+                        -0.009913
+                  ]
+            },
+            {
+                  "name": "Reserva Las Tangaras",
+                  "text": "A Mindo erdő területén található természetvédelmi terület a gazdag andoki köderdő ökoszisztémájának megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        -78.767106,
+                        -0.086386
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lek de Gallito de la Peña",
+                  "text": "O zonă specializată de observare în pădurea tropicală din Mindo, concepută pentru a asista la ritualurile de împerechere ale păsării de stâncă andine.",
+                  "category": "natural",
+                  "coords": [
+                        -78.766508,
+                        -0.083087
+                  ]
+            },
+            {
+                  "name": "Tarabita Mindo",
+                  "text": "O telecabină populară în aer liber care transportă vizitatorii deasupra coronamentului luxuriant al pădurii tropicale din Mindo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.764438,
+                        -0.076284
+                  ]
+            },
+            {
+                  "name": "Tarabita y Santuario de las Cascadas",
+                  "text": "O plimbare cu telecabina care duce la un sanctuar ce prezintă o serie spectaculoasă de cascade ascunse în pădurea tropicală din Mindo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.76797,
+                        -0.075141
+                  ]
+            },
+            {
+                  "name": "Playa de las Ranas",
+                  "text": "O mică plajă pitorească pe malul râului, de-a lungul căilor navigabile răcoroase din pădurea tropicală din Mindo.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.769809,
+                        -0.081282
+                  ]
+            },
+            {
+                  "name": "Mirador Mindo",
+                  "text": "Un punct de belvedere pitoresc la mare altitudine care oferă vederi panoramice ale văii luxuriante și verzi Mindo și ale pădurii sale tropicale.",
+                  "category": "natural",
+                  "coords": [
+                        -78.759766,
+                        -0.04181
+                  ]
+            },
+            {
+                  "name": "Mindoxtrem Birds Tour Operator",
+                  "text": "Punctul de plecare și casa de bilete pentru o tiroliană extremă și un tur al coronamentului pentru observarea păsărilor în pădurea Mindo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.7747,
+                        -0.056989
+                  ]
+            },
+            {
+                  "name": "Canopy Adventure",
+                  "text": "Un traseu palpitant de tiroliană care permite vizitatorilor să alunece rapid prin coronamentul înalt al pădurii tropicale din Mindo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.773191,
+                        -0.066208
+                  ]
+            },
+            {
+                  "name": "Mirador de Aves",
+                  "text": "Un turn de lemn înălțat în Mindo, conceput special pentru a oferi vederi optime asupra vieții aviare bogate din coronamentul pădurii.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.771791,
+                        -0.066472
+                  ]
+            },
+            {
+                  "name": "Minjoy Park",
+                  "text": "Un parc natural de agrement în Mindo, cu activități în aer liber, cum ar fi tiroliana și plimbările cu telescaunul în mijlocul pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.766215,
+                        -0.066837
+                  ]
+            },
+            {
+                  "name": "Hosteria Mariposas de Mindo",
+                  "text": "O grădină de fluturi și o cabană proeminentă în Mindo, unde vizitatorii pot observa diferite stadii ale ciclului de viață al unui fluture.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.761711,
+                        -0.068381
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "Un loc de vizionare specializat în pădurea tropicală din Mindo, renumit pentru observațiile de aproape ale numeroaselor specii vibrante de colibri.",
+                  "category": "natural",
+                  "coords": [
+                        -78.754474,
+                        -0.073565
+                  ]
+            },
+            {
+                  "name": "Las Montañas",
+                  "text": "O rezervație naturală protejată care cuprinde munții accidentați și biodiverși din jurul pădurii tropicale din Mindo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.749345,
+                        -0.079363
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada",
+                  "text": "Un punct de belvedere pitoresc în Mindo care oferă vederi clare și pitorești ale unei cascade prăbușindu-se în pădure.",
+                  "category": "natural",
+                  "coords": [
+                        -78.75859,
+                        -0.077765
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Nambillo",
+                  "text": "O rezervație de pădure tropicală protejată în Mindo, renumită pentru coronamentul său dens, traseele de drumeții și cascadele în trepte.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.756212,
+                        -0.076521
+                  ]
+            },
+            {
+                  "name": "Reserva Roca Mia",
+                  "text": "Situată în regiunea cu păduri noroase biodiverse din Mindo, această rezervație naturală protejează flora și fauna nativă luxuriantă.",
+                  "category": "natural",
+                  "coords": [
+                        -78.740378,
+                        -0.08435
+                  ]
+            },
+            {
+                  "name": "Las cotingas",
+                  "text": "Această atracție locală din zona pădurii noroase Mindo oferă o privire în mediul natural vibrant al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.738886,
+                        -0.009913
+                  ]
+            },
+            {
+                  "name": "Reserva Las Tangaras",
+                  "text": "Această rezervație naturală din zona pădurii Mindo este dedicată conservării bogatului ecosistem al pădurii noroase andine.",
+                  "category": "natural",
+                  "coords": [
+                        -78.767106,
+                        -0.086386
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lek de Gallito de la Peña",
+                  "text": "A specialized viewing area in the Mindo cloud forest designed to observe the mating displays of the Andean Cock-of-the-rock.",
+                  "category": "natural",
+                  "coords": [
+                        -78.766508,
+                        -0.083087
+                  ]
+            },
+            {
+                  "name": "Tarabita Mindo",
+                  "text": "A popular open-air cable car that transports visitors high above the lush canopy of the Mindo cloud forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.764438,
+                        -0.076284
+                  ]
+            },
+            {
+                  "name": "Tarabita y Santuario de las Cascadas",
+                  "text": "A cable car ride leading to a sanctuary featuring a spectacular series of waterfalls hidden within the Mindo cloud forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.76797,
+                        -0.075141
+                  ]
+            },
+            {
+                  "name": "Playa de las Ranas",
+                  "text": "A small, scenic river beach area along the refreshing waterways of the Mindo cloud forest.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.769809,
+                        -0.081282
+                  ]
+            },
+            {
+                  "name": "Mirador Mindo",
+                  "text": "A high-altitude scenic viewpoint offering panoramic vistas of the lush, green Mindo valley and its cloud forest.",
+                  "category": "natural",
+                  "coords": [
+                        -78.759766,
+                        -0.04181
+                  ]
+            },
+            {
+                  "name": "Operador turístico de aves Mindoxtrem Canopy Ticket Office",
+                  "text": "The starting point and ticket office for an extreme zipline and birdwatching canopy tour in the Mindo forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.7747,
+                        -0.056989
+                  ]
+            },
+            {
+                  "name": "Canopy Adventure",
+                  "text": "A thrilling zipline course allowing visitors to glide rapidly through the high canopy of the Mindo cloud forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.773191,
+                        -0.066208
+                  ]
+            },
+            {
+                  "name": "Birdwatching Tower",
+                  "text": "An elevated wooden tower in Mindo explicitly designed to provide optimal views of the forest canopy's rich avian life.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.771791,
+                        -0.066472
+                  ]
+            },
+            {
+                  "name": "Minjoy Park",
+                  "text": "A recreational nature park in Mindo featuring outdoor activities like ziplining and chairlift rides amidst the cloud forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.766215,
+                        -0.066837
+                  ]
+            },
+            {
+                  "name": "Hosteria Mariposas de Mindo",
+                  "text": "A prominent butterfly garden and lodge in Mindo where visitors can observe various stages of a butterfly's life cycle.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.761711,
+                        -0.068381
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "A specialized viewing spot in the Mindo cloud forest renowned for its close-up observations of numerous vibrant hummingbird species.",
+                  "category": "natural",
+                  "coords": [
+                        -78.754474,
+                        -0.073565
+                  ]
+            },
+            {
+                  "name": "Las Montañas",
+                  "text": "A protected natural reserve encompassing the rugged, biodiverse mountains surrounding the Mindo cloud forest.",
+                  "category": "natural",
+                  "coords": [
+                        -78.749345,
+                        -0.079363
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada",
+                  "text": "A scenic lookout point in Mindo offering clear, picturesque views of a plunging forest waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -78.75859,
+                        -0.077765
+                  ]
+            },
+            {
+                  "name": "Bosque Protector Nambillo",
+                  "text": "A protected cloud forest reserve in Mindo renowned for its dense canopy, hiking trails, and cascading waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.756212,
+                        -0.076521
+                  ]
+            },
+            {
+                  "name": "Reserva Roca Mia",
+                  "text": "Set in the biodiverse Mindo cloud forest area, this nature reserve protects lush native flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -78.740378,
+                        -0.08435
+                  ]
+            },
+            {
+                  "name": "Las cotingas",
+                  "text": "This local attraction in the Mindo cloud forest area offers a glimpse into the region's vibrant natural environment.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.738886,
+                        -0.009913
+                  ]
+            },
+            {
+                  "name": "Reserva Las Tangaras",
+                  "text": "This nature reserve in the Mindo forest area is dedicated to conserving the rich Andean cloud forest ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -78.767106,
+                        -0.086386
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EC-P",
     coords: [-78.766667, -0.05],
@@ -1414,7 +6382,268 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Paradis pour les ornithologues", "Des centaines d'espèces d'orchidées", "Précipitations élevées", "Proche de Quito"],
     }, image: "/poi-images/mindo-forest-nature-v2.webp"},
   {
-    id: "machalilla-forest-nature-v2",
+    id: "machalilla-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Esperanza",
+                  "text": "Ein markanter Berggipfel, identifiziert durch Wikidata Q23886207, der im Nationalpark Machalilla liegt und durch Trockenwaldvegetation gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -80.757975,
+                        -1.56299
+                  ]
+            },
+            {
+                  "name": "Historic Aguas Blancas",
+                  "text": "Eine wichtige archäologische Stätte im Machalilla-Wald mit erhaltenen Ruinen und Grundstrukturen der alten Manteño-Kultur.",
+                  "category": "historical",
+                  "coords": [
+                        -80.740532,
+                        -1.536754
+                  ]
+            },
+            {
+                  "name": "Casa Cultural Museo Agua Blanca",
+                  "text": "Ein Gemeindemuseum, das archäologische Funde und gut erhaltene Manteño-Keramik aus der nahegelegenen Stätte Agua Blanca ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -80.740764,
+                        -1.530564
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser Aussichtspunkt im Waldgebiet von Machalilla bietet einen Panoramablick auf das umliegende Küstenreservat.",
+                  "category": "natural",
+                  "coords": [
+                        -80.736315,
+                        -1.536475
+                  ]
+            },
+            {
+                  "name": "Cerro La Naranjita",
+                  "text": "Dieser markante Berggipfel erhebt sich über die Landschaft von Machalilla und bietet Wanderern einen weiten Blick über den trockenen Küstenwald.",
+                  "category": "natural",
+                  "coords": [
+                        -80.722222,
+                        -1.516667
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cañitas",
+                  "text": "Dieser hohe Berggipfel in der Region Machalilla bietet zerklüftete Pfade durch das vielfältige Küstenökosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -80.708333,
+                        -1.575
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Machalilla",
+                  "text": "Dieses weitläufige Küstennaturschutzgebiet ist berühmt für seine geschützten Trockenwälder, unberührten Strände wie Los Frailes und die vielfältige Meeresfauna.",
+                  "category": "natural",
+                  "coords": [
+                        -80.727099,
+                        -1.515054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Esperanza",
+                  "text": "Egy nevezetes hegycsúcs, amelyet a Q23886207 Wikidata azonosít, a Machalilla Nemzeti Park területén található, és száraz erdei növényzet jellemzi.",
+                  "category": "natural",
+                  "coords": [
+                        -80.757975,
+                        -1.56299
+                  ]
+            },
+            {
+                  "name": "Historic Aguas Blancas",
+                  "text": "Fontos régészeti lelőhely a Machalilla-erdőben, amely az ősi Manteño kultúra fennmaradt romjait és alapvető struktúráit mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -80.740532,
+                        -1.536754
+                  ]
+            },
+            {
+                  "name": "Casa Cultural Museo Agua Blanca",
+                  "text": "Egy közösségi múzeum, amely régészeti leleteket és jól megőrzött Manteño kerámiákat állít ki a közeli Agua Blanca lelőhelyről.",
+                  "category": "museum",
+                  "coords": [
+                        -80.740764,
+                        -1.530564
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a festői kilátó a Machalilla erdő területén panorámás kilátást nyújt a környező tengerparti rezervátumra.",
+                  "category": "natural",
+                  "coords": [
+                        -80.736315,
+                        -1.536475
+                  ]
+            },
+            {
+                  "name": "Cerro La Naranjita",
+                  "text": "A Machalilla táj fölé magasodó hegycsúcs lenyűgöző kilátást nyújt a túrázóknak a parti száraz erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -80.722222,
+                        -1.516667
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cañitas",
+                  "text": "Ez a magas hegycsúcs a Machalilla régióban sziklás ösvényekkel várja a változatos tengerparti ökoszisztémát felfedezőket.",
+                  "category": "natural",
+                  "coords": [
+                        -80.708333,
+                        -1.575
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Machalilla",
+                  "text": "Ez a kiterjedt tengerparti természetvédelmi terület megőrzött száraz erdeiről, a Los Fraileshez hasonló érintetlen strandjairól és gazdag tengeri élővilágáról híres.",
+                  "category": "natural",
+                  "coords": [
+                        -80.727099,
+                        -1.515054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Esperanza",
+                  "text": "Un vârf muntos notabil, identificat de Wikidata Q23886207, situat în zona Parcului Național Machalilla și caracterizat prin vegetație de pădure uscată.",
+                  "category": "natural",
+                  "coords": [
+                        -80.757975,
+                        -1.56299
+                  ]
+            },
+            {
+                  "name": "Historic Aguas Blancas",
+                  "text": "Un important sit arheologic din pădurea Machalilla, care prezintă ruinele conservate și structurile fundamentale ale anticei culturi Manteño.",
+                  "category": "historical",
+                  "coords": [
+                        -80.740532,
+                        -1.536754
+                  ]
+            },
+            {
+                  "name": "Casa Cultural Museo Agua Blanca",
+                  "text": "Un muzeu comunitar care expune descoperiri arheologice și ceramică Manteño bine conservată din situl Agua Blanca din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        -80.740764,
+                        -1.530564
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest punct de belvedere din zona forestieră Machalilla oferă vederi panoramice asupra rezervației de coastă înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -80.736315,
+                        -1.536475
+                  ]
+            },
+            {
+                  "name": "Cerro La Naranjita",
+                  "text": "Ridicându-se deasupra peisajului Machalilla, acest vârf montan proeminent oferă drumeților vederi largi asupra pădurii uscate de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -80.722222,
+                        -1.516667
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cañitas",
+                  "text": "Acest vârf montan înalt din regiunea Machalilla prezintă trasee accidentate prin ecosistemul divers de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -80.708333,
+                        -1.575
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Machalilla",
+                  "text": "Această vastă rezervație naturală de coastă este renumită pentru pădurile sale uscate conservate, plajele imaculate precum Los Frailes și viața marină diversă.",
+                  "category": "natural",
+                  "coords": [
+                        -80.727099,
+                        -1.515054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Esperanza",
+                  "text": "A notable mountain peak, identified by Wikidata Q23886207, located within the Machalilla National Park area and characterized by dry forest vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -80.757975,
+                        -1.56299
+                  ]
+            },
+            {
+                  "name": "Historic Aguas Blancas",
+                  "text": "An important archaeological site within the Machalilla forest, featuring the preserved ruins and foundational structures of the ancient Manteño culture.",
+                  "category": "historical",
+                  "coords": [
+                        -80.740532,
+                        -1.536754
+                  ]
+            },
+            {
+                  "name": "Casa Cultural Museo Agua Blanca",
+                  "text": "A community museum exhibiting archaeological finds and well-preserved Manteño ceramics from the nearby Agua Blanca site.",
+                  "category": "museum",
+                  "coords": [
+                        -80.740764,
+                        -1.530564
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This scenic viewpoint in the Machalilla forest area offers panoramic views of the surrounding coastal reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -80.736315,
+                        -1.536475
+                  ]
+            },
+            {
+                  "name": "Cerro La Naranjita",
+                  "text": "Rising above the Machalilla landscape, this prominent mountain peak offers hikers sweeping views over the dry coastal forest.",
+                  "category": "natural",
+                  "coords": [
+                        -80.722222,
+                        -1.516667
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cañitas",
+                  "text": "This elevated mountain peak in the Machalilla region features rugged trails through the diverse coastal ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -80.708333,
+                        -1.575
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Machalilla",
+                  "text": "This expansive coastal nature reserve is famous for its preserved dry forests, pristine beaches like Los Frailes, and diverse marine life.",
+                  "category": "natural",
+                  "coords": [
+                        -80.727099,
+                        -1.515054
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EC-M",
     coords: [-80.733333, -1.533333],
@@ -1481,7 +6710,196 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       fr: ["Forêt tropicale sèche", "Protège la plage Los Frailes", "Zone d'observation des baleines", "Comprend l'Isla de la Plata"],
     }, image: "/poi-images/machalilla-forest-nature-v2.webp"},
   {
-    id: "llanganates-forest-nature-v2",
+    id: "llanganates-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Hermoso",
+                  "text": "Ein markanter Gipfel in der Region Llanganates, der einen Panoramablick auf den dichten Andenwald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.287718,
+                        -1.223806
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick über die üppige Waldlandschaft der Llanganates bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.324163,
+                        -1.208252
+                  ]
+            },
+            {
+                  "name": "Arista",
+                  "text": "Ein Aussichtspunkt auf einem Kamm, der weite Ausblicke über das zerklüftete Terrain des Llanganates-Waldes bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -78.322014,
+                        -1.208031
+                  ]
+            },
+            {
+                  "name": "La Y",
+                  "text": "Ein Aussichtspunkt an einer Weggabelung mit Blick auf die Baumkronen des umliegenden Llanganates-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        -78.305393,
+                        -1.224181
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Llanganates",
+                  "text": "Ein renommierter Nationalpark, der eine weite Fläche andiner Nebelwälder und Páramo-Ökosysteme schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.243645,
+                        -1.132984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Hermoso",
+                  "text": "Egy nevezetes hegycsúcs a Llanganates régióban, amely panorámás kilátást nyújt a sűrű andesi erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -78.287718,
+                        -1.223806
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Egy festői kilátó, amely lenyűgöző kilátást nyújt a buja Llanganates erdős tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -78.324163,
+                        -1.208252
+                  ]
+            },
+            {
+                  "name": "Arista",
+                  "text": "Egy hegygerincen található kilátó, amely kiterjedt kilátást nyújt a Llanganates-erdő zord terepére.",
+                  "category": "natural",
+                  "coords": [
+                        -78.322014,
+                        -1.208031
+                  ]
+            },
+            {
+                  "name": "La Y",
+                  "text": "Egy kilátó egy ösvény elágazásánál, ahonnan kilátás nyílik a környező Llanganates-erdő lombkoronájára.",
+                  "category": "natural",
+                  "coords": [
+                        -78.305393,
+                        -1.224181
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Llanganates",
+                  "text": "Egy híres nemzeti park, amely a kiterjedt andesi köderdő- és páramo-ökoszisztémákat védi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.243645,
+                        -1.132984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Hermoso",
+                  "text": "Un vârf notabil din regiunea Llanganates, care oferă vederi panoramice ale deasei păduri andine.",
+                  "category": "natural",
+                  "coords": [
+                        -78.287718,
+                        -1.223806
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere pitoresc care oferă o panoramă vastă asupra peisajului forestier luxuriant din Llanganates.",
+                  "category": "natural",
+                  "coords": [
+                        -78.324163,
+                        -1.208252
+                  ]
+            },
+            {
+                  "name": "Arista",
+                  "text": "Un punct de belvedere pe creastă care oferă perspective vaste asupra terenului accidentat al pădurii Llanganates.",
+                  "category": "natural",
+                  "coords": [
+                        -78.322014,
+                        -1.208031
+                  ]
+            },
+            {
+                  "name": "La Y",
+                  "text": "Un punct de belvedere la o intersecție de trasee, oferind vederi ale coronamentului pădurii din Llanganates.",
+                  "category": "natural",
+                  "coords": [
+                        -78.305393,
+                        -1.224181
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Llanganates",
+                  "text": "Un parc național renumit care protejează o vastă întindere de pădure de nori andină și ecosisteme páramo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.243645,
+                        -1.132984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Hermoso",
+                  "text": "A notable peak in the Llanganates region, offering panoramic views of the dense Andean forest.",
+                  "category": "natural",
+                  "coords": [
+                        -78.287718,
+                        -1.223806
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A scenic lookout point providing sweeping views across the lush Llanganates forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.324163,
+                        -1.208252
+                  ]
+            },
+            {
+                  "name": "Arista",
+                  "text": "A ridge-line viewpoint offering expansive vistas over the rugged terrain of the Llanganates forest.",
+                  "category": "natural",
+                  "coords": [
+                        -78.322014,
+                        -1.208031
+                  ]
+            },
+            {
+                  "name": "La Y",
+                  "text": "A lookout point at a trail fork, offering views of the surrounding Llanganates forest canopy.",
+                  "category": "natural",
+                  "coords": [
+                        -78.305393,
+                        -1.224181
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Llanganates",
+                  "text": "A renowned national park protecting a vast expanse of Andean cloud forest and páramo ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        -78.243645,
+                        -1.132984
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EC-T",
     coords: [-78.25, -1.166667],

@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraSurinameHistoryV2: POI[] = [
   {
-    id: "sr-fort-zeelandia-history-v2",
+    id: "sr-fort-zeelandia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Standbeeld Koningin Wilhelmina",
+                  "text": "Eine Bronzestatue der ehemaligen niederländischen Königin am Flussufer in der Nähe von Fort Zeelandia.",
+                  "category": "historical",
+                  "coords": [
+                        -55.150007,
+                        5.825076
+                  ]
+            },
+            {
+                  "name": "Torarica Hotel & Casino",
+                  "text": "Ein Resort am Flussufer mit Außenpools inmitten üppiger tropischer Gärten.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.14623,
+                        5.828069
+                  ]
+            },
+            {
+                  "name": "Eco Resort",
+                  "text": "Ein tropisches Resort, bekannt für seine Gebäude im Kolonialstil und die ruhige Gartenlage am Fluss.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.143184,
+                        5.828093
+                  ]
+            },
+            {
+                  "name": "Noeroel Islam",
+                  "text": "Eine örtliche Moschee, die als Ort des Gebets und der Begegnung für die muslimische Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.136378,
+                        5.814162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Standbeeld Koningin Wilhelmina",
+                  "text": "A korábbi holland királynő bronzszobra, amely a folyóparton, a Fort Zeelandia közelében áll.",
+                  "category": "historical",
+                  "coords": [
+                        -55.150007,
+                        5.825076
+                  ]
+            },
+            {
+                  "name": "Torarica Hotel & Casino",
+                  "text": "Folyóparti üdülőhely szabadtéri úszómedencékkel, dús trópusi kertek között.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.14623,
+                        5.828069
+                  ]
+            },
+            {
+                  "name": "Eco Resort",
+                  "text": "Trópusi üdülőhely, amely gyarmati stílusú épületeiről és a folyó melletti nyugodt kerti környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.143184,
+                        5.828093
+                  ]
+            },
+            {
+                  "name": "Noeroel Islam",
+                  "text": "Helyi mecset, amely imádság és gyülekezőhely a muszlim közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.136378,
+                        5.814162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Standbeeld Koningin Wilhelmina",
+                  "text": "O statuie de bronz a fostei regine olandeze, situată pe malul râului, lângă Fort Zeelandia.",
+                  "category": "historical",
+                  "coords": [
+                        -55.150007,
+                        5.825076
+                  ]
+            },
+            {
+                  "name": "Torarica Hotel & Casino",
+                  "text": "O stațiune pe malul râului, cu piscine în aer liber, situată în mijlocul unor grădinări tropicale luxuriante.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.14623,
+                        5.828069
+                  ]
+            },
+            {
+                  "name": "Eco Resort",
+                  "text": "O stațiune tropicală cunoscută pentru clădirile sale în stil colonial și cadrul liniștit de grădină de lângă râu.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.143184,
+                        5.828093
+                  ]
+            },
+            {
+                  "name": "Noeroel Islam",
+                  "text": "O moschee locală care servește ca loc de rugăciune și adunare pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.136378,
+                        5.814162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue of Queen Wilhelmina",
+                  "text": "A bronze statue of the former Dutch Queen, standing on the riverbank near Fort Zeelandia.",
+                  "category": "historical",
+                  "coords": [
+                        -55.150007,
+                        5.825076
+                  ]
+            },
+            {
+                  "name": "Torarica Hotel & Casino",
+                  "text": "A riverside resort featuring outdoor swimming pools set amidst lush tropical gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.14623,
+                        5.828069
+                  ]
+            },
+            {
+                  "name": "Eco Resort",
+                  "text": "A tropical resort known for its colonial-style buildings and serene garden setting by the river.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.143184,
+                        5.828093
+                  ]
+            },
+            {
+                  "name": "Noeroel Islam",
+                  "text": "A local mosque serving as a place of prayer and gathering for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.136378,
+                        5.814162
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.15, 5.825],
@@ -50,7 +203,88 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Le fort a servi pendant des siècles de centre administratif de la colonie.", "Pendant la dictature militaire, il a été utilisé comme prison.", "Les anciens remparts offrent un aperçu unique de l'architecture militaire de la région.", "Une promenade dans le fort est un voyage à travers toute l'époque coloniale du Suriname."],
     }, image: "/poi-images/sr-fort-zeelandia-history-v2.webp"},
   {
-    id: "sr-jodensavanne-history-v2",
+    id: "sr-jodensavanne-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blakawatra",
+                  "text": "Ein einstiges privates Refugium von Staatschef Jospeth Pengel mit erfrischenden Schwarzwasserbecken.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.928899,
+                        5.404986
+                  ]
+            },
+            {
+                  "name": "Jodensavanne",
+                  "text": "Die Ruinen einer jüdischen Siedlung aus dem 17. Jahrhundert mit der Synagoge Beracha VeShalom.",
+                  "category": "historical",
+                  "coords": [
+                        -54.952999,
+                        5.426783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blakawatra",
+                  "text": "Jospeth Pengel egykori privát üdülőhelye frissítő feketevizű medencékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.928899,
+                        5.404986
+                  ]
+            },
+            {
+                  "name": "Jodensavanne",
+                  "text": "Egy 17. századi zsidó település romjai a Beracha VeShalom zsinagógával.",
+                  "category": "historical",
+                  "coords": [
+                        -54.952999,
+                        5.426783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blakawatra",
+                  "text": "O fostă refugiu privat al șefului de stat Jospeth Pengel, cu bazine răcoritoare de apă neagră.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.928899,
+                        5.404986
+                  ]
+            },
+            {
+                  "name": "Jodensavanne",
+                  "text": "Ruinele unei așezări evreiești din secolul al XVII-lea, cu sinagoga Beracha VeShalom.",
+                  "category": "historical",
+                  "coords": [
+                        -54.952999,
+                        5.426783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blakawatra",
+                  "text": "A former private retreat of leader Jospeth Pengel featuring refreshing blackwater pools.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.928899,
+                        5.404986
+                  ]
+            },
+            {
+                  "name": "Jodensavanne",
+                  "text": "The ruins of a 17th-century Jewish settlement featuring the Beracha VeShalom synagogue.",
+                  "category": "historical",
+                  "coords": [
+                        -54.952999,
+                        5.426783
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PR",
     coords: [-54.9833, 5.4333],
@@ -97,7 +331,304 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Le site est l'une des zones archéologiques les plus importantes du Suriname.", "Il s'agit d'un témoignage important de l'échange interculturel à l'époque coloniale.", "Les pierres tombales sont inscrites en hébreu et en portugais.", "Le site est protégé aujourd'hui en tant que monument national."],
     }, image: "/poi-images/sr-jodensavanne-history-v2.webp"},
   {
-    id: "sr-peperpot-history-v2",
+    id: "sr-peperpot-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trails",
+                  "text": "Naturpfade durch den Sekundärwald der ehemaligen Plantage Peperpot, ideal zur Beobachtung von Vögeln und Affen.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.118269,
+                        5.798096
+                  ]
+            },
+            {
+                  "name": "Peperpot Nature Reserve Information Centre",
+                  "text": "Besucherzentrum, das Einblicke in die Artenvielfalt und die koloniale Geschichte des Peperpot-Naturwaldes bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -55.118659,
+                        5.800481
+                  ]
+            },
+            {
+                  "name": "Koffieloods",
+                  "text": "Ein historischer Kaffeeschuppen aus Holz auf der alten Plantage, der einst zum Trocknen der geernteten Bohnen diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132051,
+                        5.774704
+                  ]
+            },
+            {
+                  "name": "Sluis",
+                  "text": "Eine historische Wasserschleuse, die für das Entwässerungssystem der ehemaligen Kaffeeplantage Peperpot entscheidend war.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.134772,
+                        5.777298
+                  ]
+            },
+            {
+                  "name": "Kampong",
+                  "text": "Historische Arbeitersiedlung auf der Plantage, die die Wohnkultur der indonesischen Vertragsarbeiter widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132096,
+                        5.776276
+                  ]
+            },
+            {
+                  "name": "Domburg",
+                  "text": "Ein Aussichtspunkt am Suriname-Fluss in Domburg, bekannt für seine malerische Aussicht und lokalen Garküchen.",
+                  "category": "natural",
+                  "coords": [
+                        -55.0808,
+                        5.701933
+                  ]
+            },
+            {
+                  "name": "Houttuyn Wellness River Resort",
+                  "text": "Ein modernes Öko-Resort am Ufer des Suriname-Flusses, das Wellness-Behandlungen in tropischer Umgebung anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.129089,
+                        5.748387
+                  ]
+            },
+            {
+                  "name": "AAI Islam Meerzorg",
+                  "text": "Eine Moschee im Bezirk Meerzorg, die als religiöses Zentrum für die lokale javanisch-surinamische Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.126619,
+                        5.798229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trails",
+                  "text": "Természeti ösvények az egykori Peperpot ültetvény erdőin keresztül, ideális madár- és majommegfigyelésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.118269,
+                        5.798096
+                  ]
+            },
+            {
+                  "name": "Peperpot Nature Reserve Information Centre",
+                  "text": "Látogatóközpont, amely betekintést nyújt a Peperpot erdő élővilágába és gyarmati történelmébe.",
+                  "category": "museum",
+                  "coords": [
+                        -55.118659,
+                        5.800481
+                  ]
+            },
+            {
+                  "name": "Koffieloods",
+                  "text": "Történelmi fából készült kávécsűr a régi ültetvényen, amely egykor a betakarított babok szárítására szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132051,
+                        5.774704
+                  ]
+            },
+            {
+                  "name": "Sluis",
+                  "text": "Történelmi zsilip, amely az egykori Peperpot kávéültetvény vízelvezető rendszerének kulcsfontosságú eleme volt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.134772,
+                        5.777298
+                  ]
+            },
+            {
+                  "name": "Kampong",
+                  "text": "Történelmi munkástelep az ültetvényen, amely az indonéz szerződéses munkások lakáskultúráját tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132096,
+                        5.776276
+                  ]
+            },
+            {
+                  "name": "Domburg",
+                  "text": "Kilátópont a Suriname-folyó partján Domburgban, amely festői panorámájáról és helyi étkezdéiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.0808,
+                        5.701933
+                  ]
+            },
+            {
+                  "name": "Houttuyn Wellness River Resort",
+                  "text": "Modern öko-üdülőhely a Suriname-folyó partján, amely wellness kezeléseket kínál trópusi környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.129089,
+                        5.748387
+                  ]
+            },
+            {
+                  "name": "AAI Islam Meerzorg",
+                  "text": "Mecset Meerzorg körzetében, amely a helyi jávai-suriname-i közösség vallási központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.126619,
+                        5.798229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trails",
+                  "text": "Trasee naturale prin pădurea secundară a fostei plantații Peperpot, ideale pentru observarea păsărilor și maimuțelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.118269,
+                        5.798096
+                  ]
+            },
+            {
+                  "name": "Peperpot Nature Reserve Information Centre",
+                  "text": "Centru de vizitare care oferă informații despre biodiversitatea și istoria colonială a pădurii naturale Peperpot.",
+                  "category": "museum",
+                  "coords": [
+                        -55.118659,
+                        5.800481
+                  ]
+            },
+            {
+                  "name": "Koffieloods",
+                  "text": "O magazie istorică de cafea, din lemn, pe fosta plantație, folosită odinioară pentru uscarea boabelor recoltate.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132051,
+                        5.774704
+                  ]
+            },
+            {
+                  "name": "Sluis",
+                  "text": "O ecluză istorică, esențială pentru sistemul de drenaj al fostei plantații de cafea Peperpot.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.134772,
+                        5.777298
+                  ]
+            },
+            {
+                  "name": "Kampong",
+                  "text": "Așezare istorică a muncitorilor de pe plantație, reflectând cultura locuirii imigranților indonezieni cu contract.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132096,
+                        5.776276
+                  ]
+            },
+            {
+                  "name": "Domburg",
+                  "text": "Un punct de observație pe râul Surinam în Domburg, cunoscut pentru vederea pitorească și tonetele cu mâncare locală.",
+                  "category": "natural",
+                  "coords": [
+                        -55.0808,
+                        5.701933
+                  ]
+            },
+            {
+                  "name": "Houttuyn Wellness River Resort",
+                  "text": "Un complex eco modern pe malul râului Surinam, care oferă tratamente wellness într-un cadru tropical.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.129089,
+                        5.748387
+                  ]
+            },
+            {
+                  "name": "AAI Islam Meerzorg",
+                  "text": "O moschee în districtul Meerzorg, care servește drept centru religios pentru comunitatea javaneză-surinameză locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.126619,
+                        5.798229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trails",
+                  "text": "Nature trails through the secondary forest of the former Peperpot plantation, ideal for bird and monkey watching.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.118269,
+                        5.798096
+                  ]
+            },
+            {
+                  "name": "Peperpot Nature Reserve Information Centre",
+                  "text": "Visitor centre providing insights into the biodiversity and colonial history of the Peperpot Nature Forest.",
+                  "category": "museum",
+                  "coords": [
+                        -55.118659,
+                        5.800481
+                  ]
+            },
+            {
+                  "name": "Koffieloods",
+                  "text": "A historic wooden coffee shed on the former plantation, once used for drying harvested coffee beans.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132051,
+                        5.774704
+                  ]
+            },
+            {
+                  "name": "Sluis",
+                  "text": "A historic water lock that was crucial for the drainage system of the former Peperpot coffee plantation.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.134772,
+                        5.777298
+                  ]
+            },
+            {
+                  "name": "Kampong",
+                  "text": "A historical workers' settlement on the plantation, reflecting the living conditions of Javanese indentured laborers.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132096,
+                        5.776276
+                  ]
+            },
+            {
+                  "name": "Domburg",
+                  "text": "A viewpoint along the Suriname River in Domburg, famous for its scenic vistas and local food stalls.",
+                  "category": "natural",
+                  "coords": [
+                        -55.0808,
+                        5.701933
+                  ]
+            },
+            {
+                  "name": "Houttuyn Wellness River Resort",
+                  "text": "A modern eco-resort on the banks of the Suriname River, offering wellness treatments in a tropical setting.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.129089,
+                        5.748387
+                  ]
+            },
+            {
+                  "name": "AAI Islam Meerzorg",
+                  "text": "A mosque in the Meerzorg district, serving as a religious center for the local Javanese-Surinamese community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.126619,
+                        5.798229
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-CM",
     coords: [-55.1333, 5.7667],
@@ -191,7 +722,160 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["La propriété a été récompensée pour son architecture et son aménagement paysager.", "On accède au lieu par bateau sur la rivière Commewijne.", "Frederiksdorp est un point central pour le tourisme culturel dans la région.", "Le complexe mise sur la durabilité écologique dans son fonctionnement."],
     }, image: "/poi-images/sr-frederiksdorp-history-v2.webp"},
   {
-    id: "sr-pengel-monument-history-v2",
+    id: "sr-pengel-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trefosa",
+                  "text": "Ein Denkmal für den Dichter Henri Frans de Ziel, den Autor der Nationalhymne von Surinam.",
+                  "category": "historical",
+                  "coords": [
+                        -55.150377,
+                        5.826148
+                  ]
+            },
+            {
+                  "name": "Palmentuin",
+                  "text": "Ein friedlicher öffentlicher Garten mit hunderten hohen Königspalmen hinter dem Präsidentenpalast.",
+                  "category": "park",
+                  "coords": [
+                        -55.150146,
+                        5.828115
+                  ]
+            },
+            {
+                  "name": "Vlaggenplein",
+                  "text": "Ein öffentlicher Platz in der Nähe des Präsidentenpalastes, auf dem verschiedene internationale Flaggen wehen.",
+                  "category": "park",
+                  "coords": [
+                        -55.151469,
+                        5.825605
+                  ]
+            },
+            {
+                  "name": "Gemeente Gods Rainville",
+                  "text": "Ein pfingstkirchliches Gebäude im Stadtteil Rainville, in dem lebhafte Gottesdienste stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        -55.141204,
+                        5.834896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trefosa",
+                  "text": "Henri Frans de Ziel költőnek, Suriname nemzeti himnusza szerzőjének szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -55.150377,
+                        5.826148
+                  ]
+            },
+            {
+                  "name": "Palmentuin",
+                  "text": "Békés nyilvános kert több száz magas királypálmával az Elnöki Palota mögött.",
+                  "category": "park",
+                  "coords": [
+                        -55.150146,
+                        5.828115
+                  ]
+            },
+            {
+                  "name": "Vlaggenplein",
+                  "text": "Az Elnöki Palota közelében található nyilvános tér, ahol különféle nemzetközi zászlók láthatók.",
+                  "category": "park",
+                  "coords": [
+                        -55.151469,
+                        5.825605
+                  ]
+            },
+            {
+                  "name": "Gemeente Gods Rainville",
+                  "text": "Pünkösdi templomépület Rainville negyedben, ahol élénk közösségi istentiszteleteket tartanak.",
+                  "category": "religious",
+                  "coords": [
+                        -55.141204,
+                        5.834896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trefosa",
+                  "text": "Un monument dedicat poetului Henri Frans de Ziel, autorul imnului național al Surinamului.",
+                  "category": "historical",
+                  "coords": [
+                        -55.150377,
+                        5.826148
+                  ]
+            },
+            {
+                  "name": "Palmentuin",
+                  "text": "O grădină publică liniștită, cu sute de palmieri regali înalți, plantați în spatele Palatului Prezidențial.",
+                  "category": "park",
+                  "coords": [
+                        -55.150146,
+                        5.828115
+                  ]
+            },
+            {
+                  "name": "Vlaggenplein",
+                  "text": "O piață publică situată lângă Palatul Prezidențial, unde sunt expuse diverse steaguri internaționale.",
+                  "category": "park",
+                  "coords": [
+                        -55.151469,
+                        5.825605
+                  ]
+            },
+            {
+                  "name": "Gemeente Gods Rainville",
+                  "text": "O clădire a bisericii penticostale situată în cartierul Rainville, care găzduiește slujbe comunitare pline de viață.",
+                  "category": "religious",
+                  "coords": [
+                        -55.141204,
+                        5.834896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trefosa",
+                  "text": "A monument dedicated to the poet Henri Frans de Ziel, the author of Suriname's national anthem.",
+                  "category": "historical",
+                  "coords": [
+                        -55.150377,
+                        5.826148
+                  ]
+            },
+            {
+                  "name": "Palmentuin",
+                  "text": "A peaceful public garden featuring hundreds of tall royal palms planted behind the Presidential Palace.",
+                  "category": "park",
+                  "coords": [
+                        -55.150146,
+                        5.828115
+                  ]
+            },
+            {
+                  "name": "Vlaggenplein",
+                  "text": "A public square located near the Presidential Palace that proudly displays various international flags.",
+                  "category": "park",
+                  "coords": [
+                        -55.151469,
+                        5.825605
+                  ]
+            },
+            {
+                  "name": "Assembly of God Rainville",
+                  "text": "A Pentecostal church building located in the Rainville district, hosting lively community services.",
+                  "category": "religious",
+                  "coords": [
+                        -55.141204,
+                        5.834896
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.151, 5.827],
@@ -238,7 +922,304 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Le monument a été offert à l'occasion de l'indépendance du Suriname.", "Il se trouve à proximité immédiate du palais présidentiel.", "Le monument est un lieu de rassemblement important pour les cérémonies commémoratives officielles."],
     }, image: "/poi-images/sr-pengel-monument-history-v2.webp"},
   {
-    id: "sr-clevia-history-v2",
+    id: "sr-clevia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mets Boat Tours",
+                  "text": "Ein Reiseveranstalter, der Bootsausflüge zur Delfinbeobachtung und zum Besuch historischer Plantagen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.099567,
+                        5.870105
+                  ]
+            },
+            {
+                  "name": "Solei Party Center",
+                  "text": "Ein moderner Veranstaltungs- und Treffpunkt im Bezirk Clevia in der Nähe des Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.115203,
+                        5.841577
+                  ]
+            },
+            {
+                  "name": "Clevia Park",
+                  "text": "Ein Naturpark mit Gärten für Heilkräuter und tropische Pflanzen am Ufer des Suriname-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.119943,
+                        5.869936
+                  ]
+            },
+            {
+                  "name": "Al-Istiqomah",
+                  "text": "Eine javanische Moschee im Bezirk Clevia, die durch ihre traditionellen architektonischen Elemente besticht.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.110828,
+                        5.864954
+                  ]
+            },
+            {
+                  "name": "Hidayat Islam",
+                  "text": "Eine Gemeindemoschee, die der lokalen muslimischen Bevölkerung im Wohngebiet von Nord-Clevia dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.114577,
+                        5.867074
+                  ]
+            },
+            {
+                  "name": "Baitoer Rochim",
+                  "text": "Eine lokale Moschee mit einem markanten Minarett, die der javanischen Gemeinschaft in der Nähe von Leonsberg dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.106949,
+                        5.862072
+                  ]
+            },
+            {
+                  "name": "Al-Ichlaas",
+                  "text": "Eine lokale Moschee in Clevia, die der muslimischen Gemeinde als Ort des Gebets und der Besinnung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.105681,
+                        5.865217
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah's Getuigen",
+                  "text": "Ein schlichter Königreichssaal der Zeugen Jehovas im Stadtteil Clevia für religiöse Versammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.124246,
+                        5.857019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mets Boat Tours",
+                  "text": "Utazásszervező, amely hajókirándulásokat kínál delfinnézésre és történelmi ültetvények meglátogatására.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.099567,
+                        5.870105
+                  ]
+            },
+            {
+                  "name": "Solei Party Center",
+                  "text": "Modern rendezvény- és közösségi helyszín Clevia negyedében, a folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.115203,
+                        5.841577
+                  ]
+            },
+            {
+                  "name": "Clevia Park",
+                  "text": "Természetvédelmi park gyógynövénykertekkel és trópusi növényekkel a Suriname-folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.119943,
+                        5.869936
+                  ]
+            },
+            {
+                  "name": "Al-Istiqomah",
+                  "text": "Jávai mecset Clevia negyedében, amely hagyományos építészeti elemeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.110828,
+                        5.864954
+                  ]
+            },
+            {
+                  "name": "Hidayat Islam",
+                  "text": "Közösségi mecset, amely Észak-Clevia lakóövezetének muzulmán lakosságát szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.114577,
+                        5.867074
+                  ]
+            },
+            {
+                  "name": "Baitoer Rochim",
+                  "text": "Helyi mecset jellegzetes minarettel, amely a Leonsberg környéki jávai közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.106949,
+                        5.862072
+                  ]
+            },
+            {
+                  "name": "Al-Ichlaas",
+                  "text": "Clevia helyi mecsetje, amely a muszlim közösség imahelyeként és gyülekezőhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.105681,
+                        5.865217
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah's Getuigen",
+                  "text": "Jehova Tanúi egyszerű királyságterme Clevia negyedében, vallási összejövetelek helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.124246,
+                        5.857019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mets Boat Tours",
+                  "text": "Un operator turistic care oferă excursii cu barca pentru observarea delfinilor și vizitarea plantațiilor istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.099567,
+                        5.870105
+                  ]
+            },
+            {
+                  "name": "Solei Party Center",
+                  "text": "Un loc modern pentru evenimente și întâlniri sociale situat în districtul Clevia, lângă râu.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.115203,
+                        5.841577
+                  ]
+            },
+            {
+                  "name": "Clevia Park",
+                  "text": "Un parc de natură cu grădini de plante medicinale și plante tropicale pe malul râului Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.119943,
+                        5.869936
+                  ]
+            },
+            {
+                  "name": "Al-Istiqomah",
+                  "text": "O moschee javaneză în districtul Clevia, remarcabilă prin elementele sale arhitecturale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.110828,
+                        5.864954
+                  ]
+            },
+            {
+                  "name": "Hidayat Islam",
+                  "text": "O moschee comunitară care deservește populația musulmană locală din zona rezidențială Clevia de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.114577,
+                        5.867074
+                  ]
+            },
+            {
+                  "name": "Baitoer Rochim",
+                  "text": "O moschee locală cu un minaret distinctiv, care deservește comunitatea javaneză de lângă Leonsberg.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.106949,
+                        5.862072
+                  ]
+            },
+            {
+                  "name": "Al-Ichlaas",
+                  "text": "O moschee locală din Clevia, care servește comunității musulmane ca loc de rugăciune și adunare.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.105681,
+                        5.865217
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah's Getuigen",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova, simplă, situată în cartierul Clevia pentru întruniri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.124246,
+                        5.857019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mets Boat Tours",
+                  "text": "A tour operator offering boat excursions for dolphin spotting and visiting historic plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.099567,
+                        5.870105
+                  ]
+            },
+            {
+                  "name": "Solei Party Center",
+                  "text": "A modern events and social gathering venue located in the Clevia district near the river.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.115203,
+                        5.841577
+                  ]
+            },
+            {
+                  "name": "Clevia Park",
+                  "text": "A nature park featuring gardens of medicinal herbs and tropical plants along the Suriname River.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.119943,
+                        5.869936
+                  ]
+            },
+            {
+                  "name": "Al-Istiqomah",
+                  "text": "A Javanese mosque in the Clevia district, featuring traditional architectural elements.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.110828,
+                        5.864954
+                  ]
+            },
+            {
+                  "name": "Hidayat Islam",
+                  "text": "A community mosque serving the local Muslim population in the northern Clevia residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.114577,
+                        5.867074
+                  ]
+            },
+            {
+                  "name": "Baitoer Rochim",
+                  "text": "A local mosque with a distinctive minaret, serving the Javanese community near Leonsberg.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.106949,
+                        5.862072
+                  ]
+            },
+            {
+                  "name": "Al-Ichlaas",
+                  "text": "A local mosque in Clevia serving the Muslim community as a place for prayer and gathering.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.105681,
+                        5.865217
+                  ]
+            },
+            {
+                  "name": "Koninkrijkszaal van Jehovah's Getuigen",
+                  "text": "A simple Kingdom Hall of Jehovah's Witnesses in the Clevia neighborhood for religious meetings.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.124246,
+                        5.857019
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.116, 5.86],
@@ -332,7 +1313,88 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Suzanna's Daal est un lieu important pour la généalogie au Suriname."],
     }, image: "/poi-images/sr-suzannas-daal-history-v2.webp"},
   {
-    id: "sr-katwijk-history-v2",
+    id: "sr-katwijk-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krama's place",
+                  "text": "Ein bekannter lokaler Erholungsort und Treffpunkt auf der historischen Kaffeeplantage Katwijk.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.007756,
+                        5.784959
+                  ]
+            },
+            {
+                  "name": "Masdjid Muhadjirin",
+                  "text": "Eine Moschee, die den architektonischen Stil der javanischen Gemeinschaft auf der Katwijk-Plantage widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.026766,
+                        5.832445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krama's place",
+                  "text": "Ismert helyi üdülőhely és találkozóhely a történelmi Katwijk kávéültetvényen.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.007756,
+                        5.784959
+                  ]
+            },
+            {
+                  "name": "Masdjid Muhadjirin",
+                  "text": "A Katwijk-ültetvény helyi jávai közösségének építészeti stílusát tükröző mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.026766,
+                        5.832445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krama's place",
+                  "text": "O stațiune locală binecunoscută și un loc de întâlnire situat pe istorica plantație de cafea Katwijk.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.007756,
+                        5.784959
+                  ]
+            },
+            {
+                  "name": "Masdjid Muhadjirin",
+                  "text": "O moschee care reflectă stilul arhitectural al comunității javaneze de pe plantația Katwijk.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.026766,
+                        5.832445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krama's place",
+                  "text": "A well-known local resort and gathering spot situated on the historic Katwijk coffee plantation.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.007756,
+                        5.784959
+                  ]
+            },
+            {
+                  "name": "Masdjid Muhadjirin",
+                  "text": "A mosque reflecting the architectural style of the local Javanese community on the Katwijk plantation.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.026766,
+                        5.832445
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-CM",
     coords: [-55.033, 5.85],
@@ -379,7 +1441,124 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["La plantation est l'une des rares à avoir entièrement préservé son identité historique."],
     }, image: "/poi-images/sr-katwijk-history-v2.webp"},
   {
-    id: "sr-waterland-history-v2",
+    id: "sr-waterland-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rocky Waterpark",
+                  "text": "Ein familienfreundlicher Wasserpark mit Rutschen und Erholungsbecken in der Region Waterland.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.10228,
+                        5.676056
+                  ]
+            },
+            {
+                  "name": "Masdjid Nashrulloh",
+                  "text": "Eine lokale Moschee im Distrikt Waterland, die als Zentrum für das tägliche Gebet dient.",
+                  "category": "religious",
+                  "coords": [
+                        -55.087915,
+                        5.682265
+                  ]
+            },
+            {
+                  "name": "Masdjid Darussalaam",
+                  "text": "Ein bescheidenes islamisches Gebetshaus für die lokale Gemeinschaft in der Nähe von Paramaribo.",
+                  "category": "religious",
+                  "coords": [
+                        -55.078624,
+                        5.676842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rocky Waterpark",
+                  "text": "Családbarát vízi park csúszdákkal és kikapcsolódást nyújtó medencékkel a Waterland régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.10228,
+                        5.676056
+                  ]
+            },
+            {
+                  "name": "Masdjid Nashrulloh",
+                  "text": "A Waterland negyed helyi mecsetje, amely a napi imádságok központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -55.087915,
+                        5.682265
+                  ]
+            },
+            {
+                  "name": "Masdjid Darussalaam",
+                  "text": "Szerény iszlám imaház a helyi közösség számára Paramaribo közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -55.078624,
+                        5.676842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rocky Waterpark",
+                  "text": "Un parc acvatic pentru familii, cu tobogane și bazine de relaxare în regiunea Waterland.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.10228,
+                        5.676056
+                  ]
+            },
+            {
+                  "name": "Masdjid Nashrulloh",
+                  "text": "O moschee locală în districtul Waterland, servind drept centru pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        -55.087915,
+                        5.682265
+                  ]
+            },
+            {
+                  "name": "Masdjid Darussalaam",
+                  "text": "O casă de rugăciune islamică modestă pentru comunitatea locală de lângă Paramaribo.",
+                  "category": "religious",
+                  "coords": [
+                        -55.078624,
+                        5.676842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rocky Waterpark",
+                  "text": "A family-friendly water park offering slides and recreational pools in the Waterland region.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.10228,
+                        5.676056
+                  ]
+            },
+            {
+                  "name": "Masdjid Nashrulloh",
+                  "text": "A local mosque in the Waterland district serving as a center for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        -55.087915,
+                        5.682265
+                  ]
+            },
+            {
+                  "name": "Masdjid Darussalaam",
+                  "text": "A modest Islamic prayer house for the local community near Paramaribo.",
+                  "category": "religious",
+                  "coords": [
+                        -55.078624,
+                        5.676842
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-SU",
     coords: [-55.066, 5.616],
@@ -426,7 +1605,88 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Waterland offre aux visiteurs un accès à une variété d'activités, y compris des excursions en bateau et de la randonnée."],
     }, image: "/poi-images/sr-waterland-history-v2.webp"},
   {
-    id: "sr-laarwijk-history-v2",
+    id: "sr-laarwijk-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Überreste eines alten Schiffswracks im Suriname-Fluss, die Zeugnis von der kolonialen Handelsgeschichte ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        -55.045508,
+                        5.528662
+                  ]
+            },
+            {
+                  "name": "BoaVista",
+                  "text": "Ein beliebter Flussstrand am Ufer des Suriname, der zum Schwimmen und Picknicken einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.040383,
+                        5.535359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Egy régi hajóroncs maradványai a Suriname-folyóban, amely a gyarmati kereskedelmi múlt emléke.",
+                  "category": "historical",
+                  "coords": [
+                        -55.045508,
+                        5.528662
+                  ]
+            },
+            {
+                  "name": "BoaVista",
+                  "text": "Népszerű folyóparti strand a Suriname partján, amely úszásra és piknikezésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.040383,
+                        5.535359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Rămășițele unei epave vechi în râul Surinam, care depun mărturie despre istoria comercială colonială.",
+                  "category": "historical",
+                  "coords": [
+                        -55.045508,
+                        5.528662
+                  ]
+            },
+            {
+                  "name": "BoaVista",
+                  "text": "O plajă fluvială populară pe malul Surinamului, ideală pentru înot și picnicuri.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.040383,
+                        5.535359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shipwreck",
+                  "text": "Remains of an old shipwreck in the Suriname River, testifying to the colonial trade history.",
+                  "category": "historical",
+                  "coords": [
+                        -55.045508,
+                        5.528662
+                  ]
+            },
+            {
+                  "name": "BoaVista",
+                  "text": "A popular river beach on the banks of the Suriname, inviting visitors for swimming and picnics.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.040383,
+                        5.535359
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-SU",
     coords: [-55.016, 5.6],
@@ -473,7 +1733,124 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["L'isolement de Laarwijk est la clé de son patrimoine bien préservé."],
     }, image: "/poi-images/sr-laarwijk-history-v2.webp"},
   {
-    id: "sr-rust-en-werk-history-v2",
+    id: "sr-rust-en-werk-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mariënburg Suikerfabriek",
+                  "text": "Die historischen Ruinen einer großen Zuckerfabrik aus dem 19. Jahrhundert, die einst die Region dominierte.",
+                  "category": "museum",
+                  "coords": [
+                        -55.047823,
+                        5.872494
+                  ]
+            },
+            {
+                  "name": "Masdjid Baitur Rohmaan",
+                  "text": "Eine lokale Moschee, die der muslimischen Gemeinschaft im Plantagengebiet Rust en Werk dient.",
+                  "category": "religious",
+                  "coords": [
+                        -55.045284,
+                        5.874022
+                  ]
+            },
+            {
+                  "name": "Koninkrijkzaal van Jehovah's Getuigen",
+                  "text": "Eine Anbetungsstätte der Zeugen Jehovas inmitten der ländlichen Landschaft des Bezirks Commewijne.",
+                  "category": "religious",
+                  "coords": [
+                        -55.044871,
+                        5.875736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mariënburg Suikerfabriek",
+                  "text": "Egy nagy, 19. századi cukorgyár történelmi romjai, amely egykor meghatározta a régió gazdaságát.",
+                  "category": "museum",
+                  "coords": [
+                        -55.047823,
+                        5.872494
+                  ]
+            },
+            {
+                  "name": "Masdjid Baitur Rohmaan",
+                  "text": "Helyi mecset, amely a muzulmán közösséget szolgálja a Rust en Werk ültetvényterületen.",
+                  "category": "religious",
+                  "coords": [
+                        -55.045284,
+                        5.874022
+                  ]
+            },
+            {
+                  "name": "Koninkrijkzaal van Jehovah's Getuigen",
+                  "text": "Jehova Tanúi imaháza a Commewijne kerület vidéki tájai között.",
+                  "category": "religious",
+                  "coords": [
+                        -55.044871,
+                        5.875736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mariënburg Suikerfabriek",
+                  "text": "Ruinele istorice ale unei mari fabrici de zahăr din secolul al XIX-lea, care a dominat odinioară regiunea.",
+                  "category": "museum",
+                  "coords": [
+                        -55.047823,
+                        5.872494
+                  ]
+            },
+            {
+                  "name": "Masdjid Baitur Rohmaan",
+                  "text": "O moschee locală care deservește comunitatea musulmană din zona plantației Rust en Werk.",
+                  "category": "religious",
+                  "coords": [
+                        -55.045284,
+                        5.874022
+                  ]
+            },
+            {
+                  "name": "Koninkrijkzaal van Jehovah's Getuigen",
+                  "text": "Un lăcaș de cult pentru Martorii lui Iehova situat în peisajele rurale ale districtului Commewijne.",
+                  "category": "religious",
+                  "coords": [
+                        -55.044871,
+                        5.875736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mariënburg Suikerfabriek",
+                  "text": "The historic ruins of a large 19th-century sugar factory that once dominated the regional economy.",
+                  "category": "museum",
+                  "coords": [
+                        -55.047823,
+                        5.872494
+                  ]
+            },
+            {
+                  "name": "Masdjid Baitur Rohmaan",
+                  "text": "A local mosque serving the Muslim community in the Rust en Werk plantation area.",
+                  "category": "religious",
+                  "coords": [
+                        -55.045284,
+                        5.874022
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A place of worship for Jehovah's Witnesses located amidst the rural landscapes of the Commewijne district.",
+                  "category": "religious",
+                  "coords": [
+                        -55.044871,
+                        5.875736
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-CM",
     coords: [-55.05, 5.883],
@@ -568,7 +1945,52 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     },
   },
   {
-    id: "sr-margaretha-history-v2",
+    id: "sr-margaretha-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Verhalenmuseum",
+                  "text": "Ein Museum auf der Margaretha-Plantage, das die mündliche Überlieferung und das kulturelle Erbe der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -55.034272,
+                        5.888737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Verhalenmuseum",
+                  "text": "A Margaretha-ültetvényen található múzeum, amely a környék szóbeli történelmét és kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -55.034272,
+                        5.888737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Verhalenmuseum",
+                  "text": "Un muzeu situat pe plantația Margaretha, care păstrează istoria orală și moștenirea culturală a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        -55.034272,
+                        5.888737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Verhalenmuseum",
+                  "text": "A museum located on the Margaretha plantation, preserving the oral history and cultural heritage of the area.",
+                  "category": "museum",
+                  "coords": [
+                        -55.034272,
+                        5.888737
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-CM",
     coords: [-55.033, 5.883],
@@ -662,7 +2084,88 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Kroonenburg témoigne de manière impressionnante de l'adaptabilité de la population locale aux conditions économiques changeantes."],
     }, image: "/poi-images/sr-kroonenburg-history-v2.webp"},
   {
-    id: "sr-ma-retraite-history-v2",
+    id: "sr-ma-retraite-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Braamspunt",
+                  "text": "Eine Sandzunge an der Mündung des Suriname-Flusses, die als Nistplatz für Meeresschildkröten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.162545,
+                        5.947856
+                  ]
+            },
+            {
+                  "name": "Surivillage 3 loopkeverstraat",
+                  "text": "Ein modernes Wohngebiet am nördlichen Stadtrand von Paramaribo in der Nähe des Suriname-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.130384,
+                        5.88448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Braamspunt",
+                  "text": "Homokpad a Suriname-folyó torkolatánál, amely a tengeri teknősök fészkelőhelyeként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.162545,
+                        5.947856
+                  ]
+            },
+            {
+                  "name": "Surivillage 3 loopkeverstraat",
+                  "text": "Modern lakóövezet Paramaribo északi peremén, a Suriname-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.130384,
+                        5.88448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Braamspunt",
+                  "text": "O limbă de nisip la gura de vărsare a râului Surinam, faimoasă ca loc de cuibărit pentru țestoasele marine.",
+                  "category": "natural",
+                  "coords": [
+                        -55.162545,
+                        5.947856
+                  ]
+            },
+            {
+                  "name": "Surivillage 3 loopkeverstraat",
+                  "text": "O zonă rezidențială modernă situată la periferia de nord a orașului Paramaribo, lângă râul Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.130384,
+                        5.88448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Braamspunt",
+                  "text": "A sandy spit at the mouth of the Suriname River, famous as a nesting ground for sea turtles.",
+                  "category": "natural",
+                  "coords": [
+                        -55.162545,
+                        5.947856
+                  ]
+            },
+            {
+                  "name": "Surivillage 3",
+                  "text": "A modern residential development area located in the northern outskirts of Paramaribo near the river.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.130384,
+                        5.88448
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.133, 5.866],
@@ -709,7 +2212,376 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Le nom du quartier est le dernier grand vestige de l'ancienne plantation."],
     }, image: "/poi-images/sr-ma-retraite-history-v2.webp"},
   {
-    id: "sr-tourtonne-history-v2",
+    id: "sr-tourtonne-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saoenah Markt",
+                  "text": "Dieser lebhafte Sonntagsmarkt ist berühmt für seine javanischen Köstlichkeiten und frischen Produkte.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.142168,
+                        5.856643
+                  ]
+            },
+            {
+                  "name": "Cultuurtuin",
+                  "text": "Ein botanischer Garten und Park, der auf einer ehemaligen Versuchsplantage angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        -55.159736,
+                        5.843767
+                  ]
+            },
+            {
+                  "name": "Paramaribo Zoo",
+                  "text": "Surinames einziger Zoo beherbergt einheimische Tiere wie Jaguare, Klammeraffen und Kaimane.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.15982,
+                        5.847529
+                  ]
+            },
+            {
+                  "name": "Ministerio Explosao de Milagres",
+                  "text": "Diese Pfingstkirche im Stadtteil Tourtonne ist für ihre lebhaften Gottesdienste bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.154686,
+                        5.846544
+                  ]
+            },
+            {
+                  "name": "Masdjid Darul Hidayah",
+                  "text": "Eine Gemeindemoschee, die als spirituelles Zentrum für die Bewohner des Tourtonne-Viertels dient.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17091,
+                        5.850783
+                  ]
+            },
+            {
+                  "name": "Monte Horebe",
+                  "text": "Ein christlicher Versammlungsort in einem Wohngebiet, der für die lokale Nachbarschaft da ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153731,
+                        5.85049
+                  ]
+            },
+            {
+                  "name": "Masdjid Al Haq",
+                  "text": "Eine kleine, lokale Moschee im Norden Paramaribos, die der muslimischen Gemeinde vor Ort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153567,
+                        5.84957
+                  ]
+            },
+            {
+                  "name": "Djama'ah Anshorullah",
+                  "text": "Diese Moschee in Tourtonne bietet Raum für Gebet und Gemeinschaft der lokalen Muslime.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.145148,
+                        5.857413
+                  ]
+            },
+            {
+                  "name": "Onze Lieve Vrouw Van Nazareth",
+                  "text": "Eine katholische Kirche im nördlichen Stadtgebiet, die sich durch ihre schlichte, hölzerne Bauweise auszeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.143564,
+                        5.857175
+                  ]
+            },
+            {
+                  "name": "Sevegram Church",
+                  "text": "Diese christliche Kirche im Viertel Tourtonne ist ein wichtiger Treffpunkt für die lokale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.166087,
+                        5.85969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saoenah Markt",
+                  "text": "Ez a pezsgő vasárnapi piac híres jávai ínyencségeiről és friss terményeiről.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.142168,
+                        5.856643
+                  ]
+            },
+            {
+                  "name": "Cultuurtuin",
+                  "text": "Egy botanikus kert és park, amelyet egy egykori kísérleti ültetvény területén alakítottak ki.",
+                  "category": "park",
+                  "coords": [
+                        -55.159736,
+                        5.843767
+                  ]
+            },
+            {
+                  "name": "Paramaribo Zoo",
+                  "text": "Suriname egyetlen állatkertje olyan őshonos állatoknak ad otthont, mint a jaguárok, pókmajmok és kajmánok.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.15982,
+                        5.847529
+                  ]
+            },
+            {
+                  "name": "Ministerio Explosao de Milagres",
+                  "text": "Ez a Tourtonne negyedben található pünkösdi templom élénk istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.154686,
+                        5.846544
+                  ]
+            },
+            {
+                  "name": "Masdjid Darul Hidayah",
+                  "text": "Közösségi mecset, amely lelki központként szolgál a Tourtonne negyed lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17091,
+                        5.850783
+                  ]
+            },
+            {
+                  "name": "Monte Horebe",
+                  "text": "Keresztény gyülekezeti hely egy lakóövezetben, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153731,
+                        5.85049
+                  ]
+            },
+            {
+                  "name": "Masdjid Al Haq",
+                  "text": "Egy kis helyi mecset Paramaribo északi részén, amely a helyi muszlim közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153567,
+                        5.84957
+                  ]
+            },
+            {
+                  "name": "Djama'ah Anshorullah",
+                  "text": "Ez a Tourtonne-ban található mecset imádságra és közösségi életre biztosít helyet a helyi muszlimoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.145148,
+                        5.857413
+                  ]
+            },
+            {
+                  "name": "Onze Lieve Vrouw Van Nazareth",
+                  "text": "Egy katolikus templom a város északi részén, amelyet egyszerű, fából készült szerkezete jellemez.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.143564,
+                        5.857175
+                  ]
+            },
+            {
+                  "name": "Sevegram Church",
+                  "text": "Ez a Tourtonne negyedben található keresztény templom a helyi közösség fontos találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.166087,
+                        5.85969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saoenah Markt",
+                  "text": "Această piață vibrantă de duminică este faimoasă pentru delicatesele javaneze și produsele proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.142168,
+                        5.856643
+                  ]
+            },
+            {
+                  "name": "Cultuurtuin",
+                  "text": "O grădină botanică și un parc amenajat pe locul unei foste plantații experimentale.",
+                  "category": "park",
+                  "coords": [
+                        -55.159736,
+                        5.843767
+                  ]
+            },
+            {
+                  "name": "Paramaribo Zoo",
+                  "text": "Singura grădină zoologică din Suriname găzduiește animale native, precum jaguari, maimuțe păianjen și caimani.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.15982,
+                        5.847529
+                  ]
+            },
+            {
+                  "name": "Ministerio Explosao de Milagres",
+                  "text": "Această biserică penticostală din cartierul Tourtonne este cunoscută pentru serviciile sale religioase pline de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.154686,
+                        5.846544
+                  ]
+            },
+            {
+                  "name": "Masdjid Darul Hidayah",
+                  "text": "O moschee comunitară care servește ca centru spiritual pentru locuitorii cartierului Tourtonne.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17091,
+                        5.850783
+                  ]
+            },
+            {
+                  "name": "Monte Horebe",
+                  "text": "Un loc de adunare creștin într-o zonă rezidențială, care deservește comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153731,
+                        5.85049
+                  ]
+            },
+            {
+                  "name": "Masdjid Al Haq",
+                  "text": "O mică moschee locală în nordul orașului Paramaribo, care deservește comunitatea musulmană din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153567,
+                        5.84957
+                  ]
+            },
+            {
+                  "name": "Djama'ah Anshorullah",
+                  "text": "Această moschee din Tourtonne oferă spațiu pentru rugăciune și comunitate musulmanilor locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.145148,
+                        5.857413
+                  ]
+            },
+            {
+                  "name": "Onze Lieve Vrouw Van Nazareth",
+                  "text": "O biserică catolică din zona de nord a orașului, caracterizată prin construcția sa simplă din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.143564,
+                        5.857175
+                  ]
+            },
+            {
+                  "name": "Sevegram Church",
+                  "text": "Această biserică creștină din cartierul Tourtonne este un punct de întâlnire important pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.166087,
+                        5.85969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saoenah Markt",
+                  "text": "This vibrant Sunday market is famous for its Javanese delicacies and fresh produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.142168,
+                        5.856643
+                  ]
+            },
+            {
+                  "name": "Cultuurtuin",
+                  "text": "A botanical garden and park established on the grounds of a former experimental plantation.",
+                  "category": "park",
+                  "coords": [
+                        -55.159736,
+                        5.843767
+                  ]
+            },
+            {
+                  "name": "Paramaribo Zoo",
+                  "text": "Suriname's only zoo is home to native animals such as jaguars, spider monkeys, and caimans.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.15982,
+                        5.847529
+                  ]
+            },
+            {
+                  "name": "Ministerio Explosao de Milagres",
+                  "text": "This Pentecostal church in the Tourtonne district is known for its lively worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.154686,
+                        5.846544
+                  ]
+            },
+            {
+                  "name": "Masdjid Darul Hidayah",
+                  "text": "A community mosque serving as a spiritual center for residents of the Tourtonne district.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17091,
+                        5.850783
+                  ]
+            },
+            {
+                  "name": "Monte Horebe",
+                  "text": "A Christian gathering place in a residential area, serving the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153731,
+                        5.85049
+                  ]
+            },
+            {
+                  "name": "Masdjid Al Haq",
+                  "text": "A small local mosque in northern Paramaribo serving the nearby Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.153567,
+                        5.84957
+                  ]
+            },
+            {
+                  "name": "Djama'ah Anshorullah",
+                  "text": "This mosque in Tourtonne provides space for prayer and community for local Muslims.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.145148,
+                        5.857413
+                  ]
+            },
+            {
+                  "name": "Onze Lieve Vrouw Van Nazareth",
+                  "text": "A Catholic church in the northern city area, characterized by its simple wooden construction.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.143564,
+                        5.857175
+                  ]
+            },
+            {
+                  "name": "Sevegram Church",
+                  "text": "This Christian church in the Tourtonne district is an important meeting point for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.166087,
+                        5.85969
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.15, 5.85],
@@ -756,7 +2628,268 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["L'environnement est connu pour son agréable qualité résidentielle."],
     }, image: "/poi-images/sr-tourtonne-history-v2.webp"},
   {
-    id: "sr-zorg-en-hoop-history-v2",
+    id: "sr-zorg-en-hoop-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saronkerk",
+                  "text": "Eine historische Kirche der Herrnhuter Brüdergemeine mit charakteristischer lokaler Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17987,
+                        5.80502
+                  ]
+            },
+            {
+                  "name": "Vriendschapspark",
+                  "text": "Eine gepflegte städtische Grünanlage in Paramaribo, die der Freundschaft und Erholung gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        -55.181663,
+                        5.81474
+                  ]
+            },
+            {
+                  "name": "Bibliotheek Surinaams Museum",
+                  "text": "Diese Museumsbibliothek beherbergt bedeutende Sammlungen zur kolonialen Geschichte Surinames.",
+                  "category": "museum",
+                  "coords": [
+                        -55.183545,
+                        5.813021
+                  ]
+            },
+            {
+                  "name": "Sadaqatul Islam",
+                  "text": "Eine Moschee mit orientalischer Architektur, die das religiöse Leben der muslimischen Gemeinde widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        -55.187989,
+                        5.806436
+                  ]
+            },
+            {
+                  "name": "Bethlehemkerk",
+                  "text": "Ein schlichtes christliches Gotteshaus in dem ruhigen Wohnviertel Zorg en Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.186206,
+                        5.815381
+                  ]
+            },
+            {
+                  "name": "Vereniging Sadar Anjuman Akaidul Isla",
+                  "text": "Ein islamisches Gemeindezentrum, das als wichtiger Treffpunkt für Gläubige in Paramaribo dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.175931,
+                        5.807332
+                  ]
+            },
+            {
+                  "name": "Rooms Katholieke Kerk",
+                  "text": "Eine römisch-katholische Kirche, die als geistliches Zentrum für die Gemeinde von Zorg en Hoop fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182945,
+                        5.815948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saronkerk",
+                  "text": "A hernhuti testvérgyülekezet történelmi temploma, jellegzetes helyi építészeti stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17987,
+                        5.80502
+                  ]
+            },
+            {
+                  "name": "Vriendschapspark",
+                  "text": "Gondozott városi park Paramaribóban, amelyet a barátságnak és a pihenésnek szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        -55.181663,
+                        5.81474
+                  ]
+            },
+            {
+                  "name": "Bibliotheek Surinaams Museum",
+                  "text": "Ez a múzeumi könyvtár Suriname gyarmati múltjával kapcsolatos jelentős gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -55.183545,
+                        5.813021
+                  ]
+            },
+            {
+                  "name": "Sadaqatul Islam",
+                  "text": "Keleti építészeti stílusú mecset, amely a muszlim közösség vallási életét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        -55.187989,
+                        5.806436
+                  ]
+            },
+            {
+                  "name": "Bethlehemkerk",
+                  "text": "Egyszerű keresztény templom a nyugodt Zorg en Hoop lakónegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.186206,
+                        5.815381
+                  ]
+            },
+            {
+                  "name": "Vereniging Sadar Anjuman Akaidul Isla",
+                  "text": "Iszlám közösségi központ, amely fontos találkozóhely a hívők számára Paramaribóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.175931,
+                        5.807332
+                  ]
+            },
+            {
+                  "name": "Rooms Katholieke Kerk",
+                  "text": "Római katolikus templom, amely Zorg en Hoop közösségének lelki központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182945,
+                        5.815948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saronkerk",
+                  "text": "O biserică istorică a comunității Herrnhuter, prezentând o arhitectură locală caracteristică.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17987,
+                        5.80502
+                  ]
+            },
+            {
+                  "name": "Vriendschapspark",
+                  "text": "Un spațiu verde urban bine întreținut în Paramaribo, dedicat prieteniei și recreerii.",
+                  "category": "park",
+                  "coords": [
+                        -55.181663,
+                        5.81474
+                  ]
+            },
+            {
+                  "name": "Bibliotheek Surinaams Museum",
+                  "text": "Această bibliotecă muzeală găzduiește colecții importante privind istoria colonială a Surinamului.",
+                  "category": "museum",
+                  "coords": [
+                        -55.183545,
+                        5.813021
+                  ]
+            },
+            {
+                  "name": "Sadaqatul Islam",
+                  "text": "O moschee cu arhitectură orientală, reflectând viața religioasă a comunității musulmane.",
+                  "category": "religious",
+                  "coords": [
+                        -55.187989,
+                        5.806436
+                  ]
+            },
+            {
+                  "name": "Bethlehemkerk",
+                  "text": "Un lăcaș de cult creștin simplu situat în cartierul rezidențial liniștit Zorg en Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.186206,
+                        5.815381
+                  ]
+            },
+            {
+                  "name": "Vereniging Sadar Anjuman Akaidul Isla",
+                  "text": "Un centru comunitar islamic care servește ca loc de întâlnire important pentru credincioșii din Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.175931,
+                        5.807332
+                  ]
+            },
+            {
+                  "name": "Rooms Katholieke Kerk",
+                  "text": "O biserică romano-catolică ce funcționează ca centru spiritual pentru comunitatea din Zorg en Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182945,
+                        5.815948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saronkerk",
+                  "text": "A historic Moravian church of the Herrnhuter community, featuring characteristic local architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -55.17987,
+                        5.80502
+                  ]
+            },
+            {
+                  "name": "Vriendschapspark",
+                  "text": "A well-kept urban park in Paramaribo dedicated to friendship and recreation.",
+                  "category": "park",
+                  "coords": [
+                        -55.181663,
+                        5.81474
+                  ]
+            },
+            {
+                  "name": "Bibliotheek Surinaams Museum",
+                  "text": "This museum library houses significant collections regarding the colonial history of Suriname.",
+                  "category": "museum",
+                  "coords": [
+                        -55.183545,
+                        5.813021
+                  ]
+            },
+            {
+                  "name": "Sadaqatul Islam",
+                  "text": "A mosque with Oriental-inspired architecture, reflecting the religious life of the Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        -55.187989,
+                        5.806436
+                  ]
+            },
+            {
+                  "name": "Bethlehemkerk",
+                  "text": "A simple Christian house of worship in the quiet residential district of Zorg en Hoop.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.186206,
+                        5.815381
+                  ]
+            },
+            {
+                  "name": "Vereniging Sadar Anjuman Akaidul Isla",
+                  "text": "An Islamic community center serving as an important meeting point for believers in Paramaribo.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.175931,
+                        5.807332
+                  ]
+            },
+            {
+                  "name": "Rooms Katholieke Kerk",
+                  "text": "A Roman Catholic church serving as a spiritual hub for the Zorg en Hoop community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182945,
+                        5.815948
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.183, 5.816],
@@ -803,7 +2936,88 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["L'aérodrome est un nœud important pour le trafic intérieur."],
     }, image: "/poi-images/sr-zorg-en-hoop-history-v2.webp"},
   {
-    id: "sr-paranam-history-v2",
+    id: "sr-paranam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Overbridge",
+                  "text": "Ein bekanntes Resort mit künstlich angelegtem Sandstrand an den dunklen Gewässern des Suriname-Flusses.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.05146,
+                        5.526586
+                  ]
+            },
+            {
+                  "name": "Masdjid Djamiatul Islamiyah",
+                  "text": "Eine örtliche Moschee im Distrikt Para, die als religiöser Treffpunkt der muslimischen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.093021,
+                        5.618999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Overbridge",
+                  "text": "Ismert üdülőhely mesterséges homokos stranddal a Suriname-folyó sötét vize mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.05146,
+                        5.526586
+                  ]
+            },
+            {
+                  "name": "Masdjid Djamiatul Islamiyah",
+                  "text": "Helyi mecset Para körzetben, amely a muszlim közösség vallási találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.093021,
+                        5.618999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Overbridge",
+                  "text": "O stațiune cunoscută cu o plajă de nisip amenajată pe malul apelor întunecate ale râului Surinam.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.05146,
+                        5.526586
+                  ]
+            },
+            {
+                  "name": "Masdjid Djamiatul Islamiyah",
+                  "text": "O moschee locală în districtul Para, care servește ca punct de întâlnire religios pentru comunitatea musulmană.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.093021,
+                        5.618999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Overbridge",
+                  "text": "A well-known resort with a man-made sandy beach along the dark waters of the Suriname River.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.05146,
+                        5.526586
+                  ]
+            },
+            {
+                  "name": "Masdjid Djamiatul Islamiyah",
+                  "text": "A local mosque in the Para district, serving as a religious meeting place for the Muslim community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.093021,
+                        5.618999
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PR",
     coords: [-55.083, 5.6],
@@ -945,7 +3159,52 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     },
   },
   {
-    id: "sr-arya-dewaker-history-v2",
+    id: "sr-arya-dewaker-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surya Mandhir",
+                  "text": "Der Surya Mandhir ist ein farbenfroher Hindutempel in Paramaribo, der das reiche indische Erbe Surinames widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.180755,
+                        5.827065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surya Mandhir",
+                  "text": "A Surya Mandhir egy színes hindu templom Paramaribóban, amely Suriname gazdag indiai örökségét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.180755,
+                        5.827065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surya Mandhir",
+                  "text": "Surya Mandhir este un templu hindu colorat din Paramaribo, reflectând bogata moștenire indiană a Surinamului.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.180755,
+                        5.827065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surya Mandhir",
+                  "text": "The Surya Mandhir is a colorful Hindu temple in Paramaribo, reflecting Suriname's rich Indian heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.180755,
+                        5.827065
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.186, 5.828],
@@ -992,7 +3251,160 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Le temple offre un refuge paisible au milieu de la capitale animée."],
     }, image: "/poi-images/sr-arya-dewaker-history-v2.webp"},
   {
-    id: "sr-neveh-shalom-history-v2",
+    id: "sr-neveh-shalom-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koto Museum",
+                  "text": "Dieses Museum präsentiert den „Koto“, die traditionelle Kleidung und Geschichte afro-surinamischer Frauen.",
+                  "category": "museum",
+                  "coords": [
+                        -55.15742,
+                        5.833419
+                  ]
+            },
+            {
+                  "name": "Thalia",
+                  "text": "Das 1837 gegründete Thalia ist das älteste Theater Surinams und ein Zentrum für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.159999,
+                        5.830399
+                  ]
+            },
+            {
+                  "name": "Vrije Evangelisarie",
+                  "text": "Eine lokale evangelische Freikirche, die der Gemeinde mit regelmäßigen Gottesdiensten dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.157579,
+                        5.828882
+                  ]
+            },
+            {
+                  "name": "Orchid Association",
+                  "text": "Ein spezialisierter Marktbereich, der dem Verkauf von tropischen Orchideen und exotischen Pflanzen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.159069,
+                        5.839587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koto Museum",
+                  "text": "Ez a múzeum a „Koto”-t, az afro-suriname-i nők hagyományos viseletét és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -55.15742,
+                        5.833419
+                  ]
+            },
+            {
+                  "name": "Thalia",
+                  "text": "Az 1837-ben alapított Thalia Suriname legrégebbi színháza és a helyi előadó-művészet központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.159999,
+                        5.830399
+                  ]
+            },
+            {
+                  "name": "Vrije Evangelisarie",
+                  "text": "Helyi protestáns evangéliumi templom, amely rendszeres istentiszteletekkel szolgálja a közösséget.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.157579,
+                        5.828882
+                  ]
+            },
+            {
+                  "name": "Orchid Association",
+                  "text": "Trópusi orchideák és egzotikus növények árusítására szakosodott piaci terület.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.159069,
+                        5.839587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koto Museum",
+                  "text": "Acest muzeu prezintă „Koto”, costumul tradițional și istoria femeilor afro-surinameze.",
+                  "category": "museum",
+                  "coords": [
+                        -55.15742,
+                        5.833419
+                  ]
+            },
+            {
+                  "name": "Thalia",
+                  "text": "Înființat în 1837, acesta este cel mai vechi teatru din Surinam și un centru pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.159999,
+                        5.830399
+                  ]
+            },
+            {
+                  "name": "Vrije Evangelisarie",
+                  "text": "O biserică evanghelică protestantă locală care deservește comunitatea prin slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.157579,
+                        5.828882
+                  ]
+            },
+            {
+                  "name": "Orchid Association",
+                  "text": "O zonă de piață specializată dedicată vânzării de orhidee tropicale și plante exotice.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.159069,
+                        5.839587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koto Museum",
+                  "text": "This museum showcases the \"Koto\", the traditional dress and history of Afro-Surinamese women.",
+                  "category": "museum",
+                  "coords": [
+                        -55.15742,
+                        5.833419
+                  ]
+            },
+            {
+                  "name": "Thalia",
+                  "text": "Established in 1837, this is the oldest theater in Suriname and a center for local performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.159999,
+                        5.830399
+                  ]
+            },
+            {
+                  "name": "Vrije Evangelisarie",
+                  "text": "A local Protestant evangelical church serving the community with regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.157579,
+                        5.828882
+                  ]
+            },
+            {
+                  "name": "Orchid Association",
+                  "text": "A specialized market area dedicated to the sale of tropical orchids and exotic plants.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.159069,
+                        5.839587
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.158, 5.828],
@@ -1039,7 +3451,88 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["La proximité immédiate de la synagogue et de la mosquée est un symbole de la tolérance surinamaise."],
     }, image: "/poi-images/sr-neveh-shalom-history-v2.webp"},
   {
-    id: "sr-petrus-paulus-history-v2",
+    id: "sr-petrus-paulus-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Waag Bar & Grill",
+                  "text": "Ein restauriertes Waagehaus aus dem 19. Jahrhundert, das heute als beliebtes Restaurant am Fluss dient.",
+                  "category": "historical",
+                  "coords": [
+                        -55.154182,
+                        5.825042
+                  ]
+            },
+            {
+                  "name": "Simon Bolivar",
+                  "text": "Diese Büste im historischen Zentrum von Paramaribo ehrt den südamerikanischen Befreier Simon Bolivar.",
+                  "category": "historical",
+                  "coords": [
+                        -55.155665,
+                        5.826779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Waag Bar & Grill",
+                  "text": "Restaurált, 19. századi mérlegház, amely ma népszerű folyóparti étteremként működik.",
+                  "category": "historical",
+                  "coords": [
+                        -55.154182,
+                        5.825042
+                  ]
+            },
+            {
+                  "name": "Simon Bolivar",
+                  "text": "Ez a Paramaribo történelmi központjában álló mellszobor a dél-amerikai felszabadító, Simon Bolivar előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -55.155665,
+                        5.826779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Waag Bar & Grill",
+                  "text": "O fostă casă de cântar din secolul al XIX-lea, restaurată, care funcționează acum ca un restaurant popular pe malul râului.",
+                  "category": "historical",
+                  "coords": [
+                        -55.154182,
+                        5.825042
+                  ]
+            },
+            {
+                  "name": "Simon Bolivar",
+                  "text": "Acest bust din centrul istoric al orașului Paramaribo îl onorează pe eliberatorul sud-american Simon Bolivar.",
+                  "category": "historical",
+                  "coords": [
+                        -55.155665,
+                        5.826779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Waag Bar & Grill",
+                  "text": "A restored 19th-century weighing house that now functions as a popular riverside restaurant.",
+                  "category": "historical",
+                  "coords": [
+                        -55.154182,
+                        5.825042
+                  ]
+            },
+            {
+                  "name": "Simon Bolivar",
+                  "text": "This bust in the historic center of Paramaribo honors the South American liberator Simon Bolivar.",
+                  "category": "historical",
+                  "coords": [
+                        -55.155665,
+                        5.826779
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.154, 5.827],
@@ -1086,7 +3579,268 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["La cathédrale est redevenue un joyau de la ville après une longue restauration."],
     }, image: "/poi-images/sr-petrus-paulus-history-v2.webp"},
   {
-    id: "sr-centrale-markt-history-v2",
+    id: "sr-centrale-markt-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Readytex",
+                  "text": "Eine einflussreiche Kunstgalerie, die zeitgenössische Werke surinamischer und karibischer Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -55.1601,
+                        5.825169
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "Eine Galerie, die eine Sammlung schöner Künste zeigt, darunter Gemälde und Skulpturen lokaler Meister.",
+                  "category": "museum",
+                  "coords": [
+                        -55.163516,
+                        5.82338
+                  ]
+            },
+            {
+                  "name": "Centrale Markt",
+                  "text": "Der größte Markt der Stadt, direkt am Flussufer gelegen, bietet vielfältige tropische Erzeugnisse.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.158973,
+                        5.823328
+                  ]
+            },
+            {
+                  "name": "Gemeente Wanica der EBGS",
+                  "text": "Ein Kirchengebäude der Herrnhuter Brüdergemeine, das der örtlichen Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.168494,
+                        5.829995
+                  ]
+            },
+            {
+                  "name": "Tshoeng Tjien Church der EBG",
+                  "text": "Eine einzigartige Herrnhuter Kirche, die ursprünglich für die chinesische Gemeinde der Stadt gegründet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.170949,
+                        5.83017
+                  ]
+            },
+            {
+                  "name": "De Kerk van Jezus Christus van de Heiligen der Laatste Dagen",
+                  "text": "Ein modernes Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.162617,
+                        5.826494
+                  ]
+            },
+            {
+                  "name": "Kwakoeplein",
+                  "text": "Ein öffentlicher Platz, benannt nach der Kwakoe-Statue, die an die Abschaffung der Sklaverei erinnert.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.163023,
+                        5.825022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Readytex",
+                  "text": "Befolyásos művészeti galéria, amely suriname-i és karibi művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -55.1601,
+                        5.825169
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "Szépművészeti gyűjteményt, többek között helyi mesterek festményeit és szobrait bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        -55.163516,
+                        5.82338
+                  ]
+            },
+            {
+                  "name": "Centrale Markt",
+                  "text": "A város legnagyobb piaca, amely a folyóparton található, és különféle trópusi termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.158973,
+                        5.823328
+                  ]
+            },
+            {
+                  "name": "Gemeente Wanica der EBGS",
+                  "text": "A hernhuti testvérgyülekezet templomépülete, amely a helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.168494,
+                        5.829995
+                  ]
+            },
+            {
+                  "name": "Tshoeng Tjien Church der EBG",
+                  "text": "Egyedülálló hernhuti templom, amelyet eredetileg a város kínai közössége számára alapítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.170949,
+                        5.83017
+                  ]
+            },
+            {
+                  "name": "De Kerk van Jezus Christus van de Heiligen der Laatste Dagen",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának modern gyülekezeti háza.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.162617,
+                        5.826494
+                  ]
+            },
+            {
+                  "name": "Kwakoeplein",
+                  "text": "Az ikonikus Kwakoe-szoborról elnevezett nyilvános tér, amely a rabszolgaság eltörlésének állít emléket.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.163023,
+                        5.825022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Readytex",
+                  "text": "O galerie de artă influentă care prezintă lucrări contemporane ale artiștilor surinamezi și din Caraibe.",
+                  "category": "museum",
+                  "coords": [
+                        -55.1601,
+                        5.825169
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "O galerie care expune o colecție de arte frumoase, inclusiv picturi și sculpturi ale maeștrilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -55.163516,
+                        5.82338
+                  ]
+            },
+            {
+                  "name": "Centrale Markt",
+                  "text": "Cea mai mare piață a orașului, situată de-a lungul malului râului, oferind diverse produse tropicale.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.158973,
+                        5.823328
+                  ]
+            },
+            {
+                  "name": "Gemeente Wanica der EBGS",
+                  "text": "O clădire a bisericii morave care deservește congregația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.168494,
+                        5.829995
+                  ]
+            },
+            {
+                  "name": "Tshoeng Tjien Church der EBG",
+                  "text": "O biserică moravă unică, înființată inițial pentru a servi comunitatea chineză din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.170949,
+                        5.83017
+                  ]
+            },
+            {
+                  "name": "De Kerk van Jezus Christus van de Heiligen der Laatste Dagen",
+                  "text": "O casă de întruniri modernă pentru Biserica lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.162617,
+                        5.826494
+                  ]
+            },
+            {
+                  "name": "Kwakoeplein",
+                  "text": "O piață publică numită după statuia iconică Kwakoe, care comemorează abolirea sclaviei.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.163023,
+                        5.825022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Readytex",
+                  "text": "An influential art gallery showcasing contemporary works by Surinamese and Caribbean artists.",
+                  "category": "museum",
+                  "coords": [
+                        -55.1601,
+                        5.825169
+                  ]
+            },
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "A gallery displaying a collection of fine arts, including paintings and sculptures by local masters.",
+                  "category": "museum",
+                  "coords": [
+                        -55.163516,
+                        5.82338
+                  ]
+            },
+            {
+                  "name": "Centrale Markt",
+                  "text": "The city's largest market, situated along the riverbank and offering diverse tropical produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.158973,
+                        5.823328
+                  ]
+            },
+            {
+                  "name": "Gemeente Wanica der EBGS",
+                  "text": "A Moravian church building serving the local congregation with a focus on community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.168494,
+                        5.829995
+                  ]
+            },
+            {
+                  "name": "Tshoeng Tjien Church der EBG",
+                  "text": "A unique Moravian church originally established to serve the city's Chinese community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.170949,
+                        5.83017
+                  ]
+            },
+            {
+                  "name": "De Kerk van Jezus Christus van de Heiligen der Laatste Dagen",
+                  "text": "A modern meetinghouse for the Church of Jesus Christ of Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.162617,
+                        5.826494
+                  ]
+            },
+            {
+                  "name": "Kwakoeplein",
+                  "text": "A public square named after the iconic Kwakoe statue, which commemorates the abolition of slavery.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.163023,
+                        5.825022
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.161, 5.823],
@@ -1133,7 +3887,52 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Le marché est également connu pour ses spécialités culinaires issues de différentes cultures."],
     }, image: "/poi-images/sr-centrale-markt-history-v2.webp"},
   {
-    id: "sr-lawa-railway-history-v2",
+    id: "sr-lawa-railway-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ayoekoe Kazerne",
+                  "text": "Eine historische Militärkaserne an der ehemaligen Lawa-Bahnstrecke tief im Regenwald.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.205036,
+                        5.430269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ayoekoe Kazerne",
+                  "text": "Történelmi katonai laktanya az egykori Lawa-vasútvonal mentén, mélyen az esőerdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.205036,
+                        5.430269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ayoekoe Kazerne",
+                  "text": "O cazarmă militară istorică situată de-a lungul fostei căi ferate Lawa, adânc în pădurea tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.205036,
+                        5.430269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ayoekoe Kazerne",
+                  "text": "A historical military barracks along the former Lawa railway line deep in the rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.205036,
+                        5.430269
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PR",
     coords: [-55.2, 5.5],
@@ -1180,7 +3979,124 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Le chemin de fer de Lawa est une partie importante du patrimoine industriel du Suriname."],
     }, image: "/poi-images/sr-lawa-railway-history-v2.webp"},
   {
-    id: "sr-fort-sommelsdijk-history-v2",
+    id: "sr-fort-sommelsdijk-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kronenburg dock",
+                  "text": "Eine Anlegestelle am Commewijne-Fluss, die Zugang zur ehemaligen Kronenburg-Plantage bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.005025,
+                        5.86723
+                  ]
+            },
+            {
+                  "name": "Plantage Katwijk",
+                  "text": "Eine aktive Kaffeeplantage, bekannt als der einzige verbliebene Kaffeeproduzent in Suriname.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.996534,
+                        5.863395
+                  ]
+            },
+            {
+                  "name": "Masdjid Islam Sumarah",
+                  "text": "Eine traditionelle Holzmoschee im javanischen Stil, die den Bewohnern der historischen Plantagengebiete dient.",
+                  "category": "religious",
+                  "coords": [
+                        -55.007768,
+                        5.859029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kronenburg dock",
+                  "text": "Folyami kikötő a Commewijne-folyó partján, amely az egykori Kronenburg-ültetvényhez biztosít hozzáférést.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.005025,
+                        5.86723
+                  ]
+            },
+            {
+                  "name": "Plantage Katwijk",
+                  "text": "Működő kávéültetvény, amely Suriname egyetlen megmaradt kávétermelőjeként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.996534,
+                        5.863395
+                  ]
+            },
+            {
+                  "name": "Masdjid Islam Sumarah",
+                  "text": "Hagyományos jávai stílusú fameset, amely a történelmi ültetvényterületek lakóit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -55.007768,
+                        5.859029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kronenburg dock",
+                  "text": "Un debarcader pe râu care oferă acces la fosta plantație Kronenburg, pe malul râului Commewijne.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.005025,
+                        5.86723
+                  ]
+            },
+            {
+                  "name": "Plantage Katwijk",
+                  "text": "O plantație de cafea activă, faimoasă ca fiind singurul producător de cafea rămas în Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.996534,
+                        5.863395
+                  ]
+            },
+            {
+                  "name": "Masdjid Islam Sumarah",
+                  "text": "O moschee tradițională din lemn în stil javanez, care deservește locuitorii din zonele istorice de plantație.",
+                  "category": "religious",
+                  "coords": [
+                        -55.007768,
+                        5.859029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kronenburg dock",
+                  "text": "A river dock providing access to the former Kronenburg plantation along the banks of the Commewijne River.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.005025,
+                        5.86723
+                  ]
+            },
+            {
+                  "name": "Plantage Katwijk",
+                  "text": "A working coffee plantation, famous as the only remaining producer of coffee in Suriname.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.996534,
+                        5.863395
+                  ]
+            },
+            {
+                  "name": "Masdjid Islam Sumarah",
+                  "text": "A traditional Javanese-style wooden mosque serving the inhabitants of the historic plantation areas.",
+                  "category": "religious",
+                  "coords": [
+                        -55.007768,
+                        5.859029
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-CM",
     coords: [-54.983, 5.866],
@@ -1227,7 +4143,160 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["Le fort est un lieu important pour la recherche historique au Suriname."],
     }, image: "/poi-images/sr-fort-sommelsdijk-history-v2.webp"},
   {
-    id: "sr-geyersvlijt-history-v2",
+    id: "sr-geyersvlijt-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ajoeb Moentari",
+                  "text": "Ein Aussichtspunkt im Wohnviertel Geyersvlijt, der nach einer lokalen Persönlichkeit benannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.123527,
+                        5.850497
+                  ]
+            },
+            {
+                  "name": "Sana Budaya",
+                  "text": "Dieses Kulturzentrum widmet sich dem javanischen Erbe in Suriname mit Ausstellungen und Tanzaufführungen.",
+                  "category": "museum",
+                  "coords": [
+                        -55.141169,
+                        5.855479
+                  ]
+            },
+            {
+                  "name": "Shri Radha Krishna Mandir",
+                  "text": "Ein farbenfroher Hindu-Tempel in Geyersvlijt, der der Gottheit Krishna gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.127335,
+                        5.849541
+                  ]
+            },
+            {
+                  "name": "Houtmarkt",
+                  "text": "Ein Marktplatz, der historisch für den Holzhandel bekannt war und heute lokale Waren anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.134705,
+                        5.853238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ajoeb Moentari",
+                  "text": "Egy kilátópont Geyersvlijt lakónegyedében, amelyet egy helyi személyiségről neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -55.123527,
+                        5.850497
+                  ]
+            },
+            {
+                  "name": "Sana Budaya",
+                  "text": "Ez a kulturális központ a suriname-i jávai örökségnek szentelt kiállításokkal és táncelőadásokkal várja a látogatókat.",
+                  "category": "museum",
+                  "coords": [
+                        -55.141169,
+                        5.855479
+                  ]
+            },
+            {
+                  "name": "Shri Radha Krishna Mandir",
+                  "text": "Egy színes hindu templom Geyersvlijtben, amelyet Krisna istenségnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.127335,
+                        5.849541
+                  ]
+            },
+            {
+                  "name": "Houtmarkt",
+                  "text": "Egy piactér, amely történelmileg a fakereskedelemről volt ismert, ma pedig helyi árukat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.134705,
+                        5.853238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ajoeb Moentari",
+                  "text": "Un punct de belvedere din cartierul rezidențial Geyersvlijt, numit după o personalitate locală.",
+                  "category": "natural",
+                  "coords": [
+                        -55.123527,
+                        5.850497
+                  ]
+            },
+            {
+                  "name": "Sana Budaya",
+                  "text": "Acest centru cultural este dedicat moștenirii javaneze din Suriname, oferind expoziții și spectacole de dans.",
+                  "category": "museum",
+                  "coords": [
+                        -55.141169,
+                        5.855479
+                  ]
+            },
+            {
+                  "name": "Shri Radha Krishna Mandir",
+                  "text": "Un templu hindu colorat în Geyersvlijt, dedicat zeității Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.127335,
+                        5.849541
+                  ]
+            },
+            {
+                  "name": "Houtmarkt",
+                  "text": "O piață cunoscută istoric pentru comerțul cu lemne, unde astăzi se vând produse locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.134705,
+                        5.853238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ajoeb Moentari",
+                  "text": "A viewpoint in the Geyersvlijt residential area, named after a local personality.",
+                  "category": "natural",
+                  "coords": [
+                        -55.123527,
+                        5.850497
+                  ]
+            },
+            {
+                  "name": "Sana Budaya",
+                  "text": "This cultural center is dedicated to Javanese heritage in Suriname, featuring exhibitions and dance performances.",
+                  "category": "museum",
+                  "coords": [
+                        -55.141169,
+                        5.855479
+                  ]
+            },
+            {
+                  "name": "Shri Radha Krishna Mandir",
+                  "text": "A colorful Hindu temple in Geyersvlijt dedicated to the deity Krishna.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.127335,
+                        5.849541
+                  ]
+            },
+            {
+                  "name": "Houtmarkt",
+                  "text": "A marketplace historically known for the timber trade, now offering local goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.134705,
+                        5.853238
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.133, 5.85],
@@ -1274,7 +4343,628 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       fr: ["La forte densité de population montre le développement dynamique de Paramaribo."],
     }, image: "/poi-images/sr-geyersvlijt-history-v2.webp"},
   {
-    id: "sr-kofidjompo-monument-history-v2",
+    id: "sr-kofidjompo-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djoewan Reginald",
+                  "text": "Ein Gedenkort in Lelydorp, der an die Geschichte der javanischen Einwanderer erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209251,
+                        5.698582
+                  ]
+            },
+            {
+                  "name": "Butterfly Plantation",
+                  "text": "Dieser Park in Lelydorp beherbergt Tausende tropische Schmetterlinge sowie Schildkröten und Schlangen.",
+                  "category": "museum",
+                  "coords": [
+                        -55.201836,
+                        5.68712
+                  ]
+            },
+            {
+                  "name": "Asmodikromo Giman",
+                  "text": "Ein Aussichtspunkt oder Denkmal in Lelydorp, benannt nach einem frühen javanischen Siedler.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231367,
+                        5.662753
+                  ]
+            },
+            {
+                  "name": "Willem",
+                  "text": "Eine lokale Landmarke in Lelydorp, die an die Gründung der Gemeinde durch Siedler erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231023,
+                        5.661537
+                  ]
+            },
+            {
+                  "name": "Pawirooelomo Ngasijem",
+                  "text": "Ein Gedenkpunkt in Lelydorp, der die kulturelle Vielfalt der Region und ihrer Bewohner feiert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25313,
+                        5.709407
+                  ]
+            },
+            {
+                  "name": "Asmoredjo Satimin",
+                  "text": "Dieser Aussichtspunkt in Lelydorp ehrt die Pioniere, die zur Entwicklung des Distrikts beitrugen.",
+                  "category": "natural",
+                  "coords": [
+                        -55.24406,
+                        5.706608
+                  ]
+            },
+            {
+                  "name": "Martomamat Sadikin",
+                  "text": "Ein lokaler Orientierungspunkt in Lelydorp, der nach einem angesehenen Mitglied der Gemeinschaft benannt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -55.249212,
+                        5.713408
+                  ]
+            },
+            {
+                  "name": "Reeberg",
+                  "text": "Ein malerisches Hügelgebiet mit weitem Ausblick über die tropische Savannenlandschaft von Suriname.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.289801,
+                        5.710014
+                  ]
+            },
+            {
+                  "name": "Nurul Huda",
+                  "text": "Eine lokale Gemeindemoschee, die die kulturellen Traditionen der javanesischen Einwanderer widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        -55.23831,
+                        5.703015
+                  ]
+            },
+            {
+                  "name": "Bektie Islam Sedjatie",
+                  "text": "Ein muslimisches Gebetshaus im ländlichen Distrikt, das für die lokale javanesische Gemeinde errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -55.238454,
+                        5.706516
+                  ]
+            },
+            {
+                  "name": "Masdjid Attaqwa",
+                  "text": "Ein schlichter Sakralbau im Herzen der ländlichen Siedlung für das tägliche Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        -55.246842,
+                        5.707459
+                  ]
+            },
+            {
+                  "name": "Masdjid Attawfiq",
+                  "text": "Eine lokale Moschee, die ein wichtiges religiöses Zentrum für die Einwohner der Region bildet.",
+                  "category": "religious",
+                  "coords": [
+                        -55.192515,
+                        5.680611
+                  ]
+            },
+            {
+                  "name": "Kerkgenootschap der Zevendedags Adventisten",
+                  "text": "Ein christliches Versammlungshaus der Siebenten-Tags-Adventisten in der ländlichen Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.217261,
+                        5.695241
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius R.K. Parochie",
+                  "text": "Eine katholische Pfarrkirche, die als religiöser Anlaufpunkt für die christliche Gemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.217345,
+                        5.69637
+                  ]
+            },
+            {
+                  "name": "St Jozef Parochie",
+                  "text": "Die dem Heiligen Josef geweihte katholische Pfarrei inmitten der tropischen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.219176,
+                        5.661201
+                  ]
+            },
+            {
+                  "name": "Masdjid Rukun Muljo Islam",
+                  "text": "Eine traditionelle Moschee der Rukun-Muljo-Gemeinde mit typisch javanesischen Stilelementen.",
+                  "category": "religious",
+                  "coords": [
+                        -55.212078,
+                        5.681908
+                  ]
+            },
+            {
+                  "name": "Masdjid Gaytul Islam",
+                  "text": "Ein muslimisches Gotteshaus, das die Vielfalt der Glaubensgemeinschaften in der Region repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182566,
+                        5.699038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djoewan Reginald",
+                  "text": "Egy emlékhely Lelydorpban, amely a jávai bevándorlók történetére emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209251,
+                        5.698582
+                  ]
+            },
+            {
+                  "name": "Butterfly Plantation",
+                  "text": "Ez a Lelydorpban található park trópusi pillangók ezreinek, valamint teknősöknek és kígyóknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -55.201836,
+                        5.68712
+                  ]
+            },
+            {
+                  "name": "Asmodikromo Giman",
+                  "text": "Egy kilátópont vagy emlékmű Lelydorpban, amelyet egy korai jávai telepesről neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231367,
+                        5.662753
+                  ]
+            },
+            {
+                  "name": "Willem",
+                  "text": "Lelydorp egyik helyi nevezetessége, amely a közösség telepesei általi alapítására emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231023,
+                        5.661537
+                  ]
+            },
+            {
+                  "name": "Pawirooelomo Ngasijem",
+                  "text": "Egy emlékpont Lelydorpban, amely a régió és lakói kulturális sokszínűségét ünnepli.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25313,
+                        5.709407
+                  ]
+            },
+            {
+                  "name": "Asmoredjo Satimin",
+                  "text": "Ez a lelydorpi kilátópont azokat a pionírokat tiszteli meg, akik hozzájárultak a körzet fejlődéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -55.24406,
+                        5.706608
+                  ]
+            },
+            {
+                  "name": "Martomamat Sadikin",
+                  "text": "Egy helyi tájékozódási pont Lelydorpban, amelyet a közösség egy tisztelt tagjáról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -55.249212,
+                        5.713408
+                  ]
+            },
+            {
+                  "name": "Reeberg",
+                  "text": "Festői dombvidék, amely tágas kilátást nyújt Suriname trópusi szavannás tájaira.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.289801,
+                        5.710014
+                  ]
+            },
+            {
+                  "name": "Nurul Huda",
+                  "text": "Helyi közösségi mecset, amely a jávai bevándorlók kulturális hagyományait tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        -55.23831,
+                        5.703015
+                  ]
+            },
+            {
+                  "name": "Bektie Islam Sedjatie",
+                  "text": "Vidéki muszlim imaház, amely a helyi jávai közösség számára épült.",
+                  "category": "religious",
+                  "coords": [
+                        -55.238454,
+                        5.706516
+                  ]
+            },
+            {
+                  "name": "Masdjid Attaqwa",
+                  "text": "Egyszerű szakrális épület a vidéki település szívében a napi imádságokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        -55.246842,
+                        5.707459
+                  ]
+            },
+            {
+                  "name": "Masdjid Attawfiq",
+                  "text": "Helyi mecset, amely a régió lakói számára fontos vallási központot alkot.",
+                  "category": "religious",
+                  "coords": [
+                        -55.192515,
+                        5.680611
+                  ]
+            },
+            {
+                  "name": "Kerkgenootschap der Zevendedags Adventisten",
+                  "text": "A Hetednapi Adventista Egyház keresztény gyülekezeti háza a vidéki környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.217261,
+                        5.695241
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius R.K. Parochie",
+                  "text": "Katolikus plébániatemplom, amely a keresztény közösség vallási találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.217345,
+                        5.69637
+                  ]
+            },
+            {
+                  "name": "St Jozef Parochie",
+                  "text": "Szent Józsefnek szentelt katolikus plébánia a trópusi táj közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.219176,
+                        5.661201
+                  ]
+            },
+            {
+                  "name": "Masdjid Rukun Muljo Islam",
+                  "text": "A Rukun Muljo közösség hagyományos mecsetje, tipikus jávai stíluselemekkel.",
+                  "category": "religious",
+                  "coords": [
+                        -55.212078,
+                        5.681908
+                  ]
+            },
+            {
+                  "name": "Masdjid Gaytul Islam",
+                  "text": "Muszlim imaház, amely a régió vallási közösségeinek sokszínűségét képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182566,
+                        5.699038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djoewan Reginald",
+                  "text": "Un loc memorial în Lelydorp, care amintește de istoria imigranților javanezi.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209251,
+                        5.698582
+                  ]
+            },
+            {
+                  "name": "Butterfly Plantation",
+                  "text": "Acest parc din Lelydorp găzduiește mii de fluturi tropicali, precum și țestoase și șerpi.",
+                  "category": "museum",
+                  "coords": [
+                        -55.201836,
+                        5.68712
+                  ]
+            },
+            {
+                  "name": "Asmodikromo Giman",
+                  "text": "Un punct de belvedere sau monument din Lelydorp, numit după un colonist javanez timpuriu.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231367,
+                        5.662753
+                  ]
+            },
+            {
+                  "name": "Willem",
+                  "text": "Un reper local din Lelydorp care amintește de întemeierea comunității de către coloniști.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231023,
+                        5.661537
+                  ]
+            },
+            {
+                  "name": "Pawirooelomo Ngasijem",
+                  "text": "Un punct memorial din Lelydorp care celebrează diversitatea culturală a regiunii și a locuitorilor săi.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25313,
+                        5.709407
+                  ]
+            },
+            {
+                  "name": "Asmoredjo Satimin",
+                  "text": "Acest punct de belvedere din Lelydorp îi onorează pe pionierii care au contribuit la dezvoltarea districtului.",
+                  "category": "natural",
+                  "coords": [
+                        -55.24406,
+                        5.706608
+                  ]
+            },
+            {
+                  "name": "Martomamat Sadikin",
+                  "text": "Un punct de reper local din Lelydorp, numit după un membru respectat al comunității.",
+                  "category": "natural",
+                  "coords": [
+                        -55.249212,
+                        5.713408
+                  ]
+            },
+            {
+                  "name": "Reeberg",
+                  "text": "O zonă deluroasă pitorească ce oferă o vedere panoramică asupra peisajului de savană tropicală din Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.289801,
+                        5.710014
+                  ]
+            },
+            {
+                  "name": "Nurul Huda",
+                  "text": "O moschee locală care reflectă tradițiile culturale ale imigranților javanezi.",
+                  "category": "religious",
+                  "coords": [
+                        -55.23831,
+                        5.703015
+                  ]
+            },
+            {
+                  "name": "Bektie Islam Sedjatie",
+                  "text": "O casă de rugăciune musulmană din districtul rural, construită pentru comunitatea javaneză locală.",
+                  "category": "religious",
+                  "coords": [
+                        -55.238454,
+                        5.706516
+                  ]
+            },
+            {
+                  "name": "Masdjid Attaqwa",
+                  "text": "O structură sacră simplă în inima așezării rurale pentru rugăciunile zilnice.",
+                  "category": "religious",
+                  "coords": [
+                        -55.246842,
+                        5.707459
+                  ]
+            },
+            {
+                  "name": "Masdjid Attawfiq",
+                  "text": "O moschee locală care constituie un important centru religios pentru locuitorii regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        -55.192515,
+                        5.680611
+                  ]
+            },
+            {
+                  "name": "Kerkgenootschap der Zevendedags Adventisten",
+                  "text": "O casă de adunare creștină a Adventiștilor de Ziua a Șaptea în mediul rural.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.217261,
+                        5.695241
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius R.K. Parochie",
+                  "text": "O biserică parohială catolică ce servește ca punct de întâlnire religios pentru comunitatea creștină.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.217345,
+                        5.69637
+                  ]
+            },
+            {
+                  "name": "St Jozef Parochie",
+                  "text": "Parohia catolică dedicată Sfântului Iosif, situată în mijlocul peisajului tropical.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.219176,
+                        5.661201
+                  ]
+            },
+            {
+                  "name": "Masdjid Rukun Muljo Islam",
+                  "text": "O moschee tradițională a comunității Rukun Muljo, cu elemente stilistice tipic javaneze.",
+                  "category": "religious",
+                  "coords": [
+                        -55.212078,
+                        5.681908
+                  ]
+            },
+            {
+                  "name": "Masdjid Gaytul Islam",
+                  "text": "Un lăcaș de cult musulman care reprezintă diversitatea comunităților religioase din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182566,
+                        5.699038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djoewan Reginald",
+                  "text": "A memorial spot in Lelydorp commemorating the history of Javanese immigrants.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209251,
+                        5.698582
+                  ]
+            },
+            {
+                  "name": "Butterfly Plantation",
+                  "text": "This park in Lelydorp is home to thousands of tropical butterflies, as well as turtles and snakes.",
+                  "category": "museum",
+                  "coords": [
+                        -55.201836,
+                        5.68712
+                  ]
+            },
+            {
+                  "name": "Asmodikromo Giman",
+                  "text": "A viewpoint or memorial in Lelydorp named after an early Javanese settler.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231367,
+                        5.662753
+                  ]
+            },
+            {
+                  "name": "Willem",
+                  "text": "A local landmark in Lelydorp commemorating the community's founding by settlers.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231023,
+                        5.661537
+                  ]
+            },
+            {
+                  "name": "Pawirooelomo Ngasijem",
+                  "text": "A memorial point in Lelydorp celebrating the cultural diversity of the region and its residents.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25313,
+                        5.709407
+                  ]
+            },
+            {
+                  "name": "Asmoredjo Satimin",
+                  "text": "This viewpoint in Lelydorp honors the pioneers who contributed to the development of the district.",
+                  "category": "natural",
+                  "coords": [
+                        -55.24406,
+                        5.706608
+                  ]
+            },
+            {
+                  "name": "Martomamat Sadikin",
+                  "text": "A local landmark in Lelydorp named after a respected member of the community.",
+                  "category": "natural",
+                  "coords": [
+                        -55.249212,
+                        5.713408
+                  ]
+            },
+            {
+                  "name": "Reeberg",
+                  "text": "A scenic hill area offering expansive views over the tropical Savannah landscape of Suriname.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.289801,
+                        5.710014
+                  ]
+            },
+            {
+                  "name": "Nurul Huda",
+                  "text": "A local community mosque reflecting the cultural traditions of Javanese immigrants.",
+                  "category": "religious",
+                  "coords": [
+                        -55.23831,
+                        5.703015
+                  ]
+            },
+            {
+                  "name": "Bektie Islam Sedjatie",
+                  "text": "A Muslim prayer house in the rural district, built for the local Javanese community.",
+                  "category": "religious",
+                  "coords": [
+                        -55.238454,
+                        5.706516
+                  ]
+            },
+            {
+                  "name": "Masdjid Attaqwa",
+                  "text": "A simple sacred building in the heart of the rural settlement for daily prayers.",
+                  "category": "religious",
+                  "coords": [
+                        -55.246842,
+                        5.707459
+                  ]
+            },
+            {
+                  "name": "Masdjid Attawfiq",
+                  "text": "A local mosque that forms an important religious center for the residents of the region.",
+                  "category": "religious",
+                  "coords": [
+                        -55.192515,
+                        5.680611
+                  ]
+            },
+            {
+                  "name": "Kerkgenootschap der Zevendedags Adventisten",
+                  "text": "A Christian meeting house of the Seventh-day Adventists in the rural surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.217261,
+                        5.695241
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius R.K. Parochie",
+                  "text": "A Catholic parish church serving as a religious focal point for the Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.217345,
+                        5.69637
+                  ]
+            },
+            {
+                  "name": "St Jozef Parochie",
+                  "text": "The Catholic parish dedicated to Saint Joseph, situated amidst the tropical landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.219176,
+                        5.661201
+                  ]
+            },
+            {
+                  "name": "Masdjid Rukun Muljo Islam",
+                  "text": "A traditional mosque of the Rukun Muljo community with typical Javanese stylistic elements.",
+                  "category": "religious",
+                  "coords": [
+                        -55.212078,
+                        5.681908
+                  ]
+            },
+            {
+                  "name": "Masdjid Gaytul Islam",
+                  "text": "A Muslim place of worship representing the diversity of religious communities in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.182566,
+                        5.699038
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PR",
     coords: [-55.233, 5.683],
@@ -1321,7 +5011,52 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       es: ["El monumento fue erigido en honor a la valiente lucha de los cimarrones."],
     }, image: "/poi-images/sr-kofidjompo-monument-history-v2.webp"},
   {
-    id: "sr-gouvernementsgebouw-history-v2",
+    id: "sr-gouvernementsgebouw-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Clock Tower",
+                  "text": "Der ikonische Uhrturm des Finanzministeriums, ein Paradebeispiel für koloniale Backsteinarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.151798,
+                        5.825709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Clock Tower",
+                  "text": "A Pénzügyminisztérium épületének ikonikus óratornya, a gyarmati téglaépítészet kiváló példája.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.151798,
+                        5.825709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Clock Tower",
+                  "text": "Turnul cu ceas emblematic al clădirii Ministerului de Finanțe, un exemplu prim de arhitectură colonială din cărămidă.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.151798,
+                        5.825709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Clock Tower",
+                  "text": "The iconic clock tower of the Ministry of Finance building, a prime example of brick colonial architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.151798,
+                        5.825709
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "SR-PM",
     coords: [-55.152, 5.827],

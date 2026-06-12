@@ -2,7 +2,88 @@
 import type { POI } from "./poi";
 
 export const poiExtraGuyanaHistoryV2: POI[] = [ {
-    id: "gy-fort-zeelandia-history-v2",
+    id: "gy-fort-zeelandia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tail regulator 2 ft dia",
+                  "text": "Ein Aussichtspunkt an einem Endregler mit einem Durchmesser von 2 Fuß, der zur landwirtschaftlichen Wasserkontrolle eingesetzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -58.482539,
+                        6.763576
+                  ]
+            },
+            {
+                  "name": "Fort Zeelandia",
+                  "text": "Eine historische Sternfestung aus Backstein, die 1744 von den Niederländern zum Schutz der Kolonie am Essequibo-Fluss erbaut wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        -58.508294,
+                        6.782759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tail regulator 2 ft dia",
+                  "text": "Egy mezőgazdasági vízszabályozásra használt, két láb átmérőjű végáram-szabályozó mellett található kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        -58.482539,
+                        6.763576
+                  ]
+            },
+            {
+                  "name": "Fort Zeelandia",
+                  "text": "Egy történelmi téglából épült csillagerőd, amelyet a hollandok építettek 1744-ben az Essequibo-folyó menti gyarmat védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        -58.508294,
+                        6.782759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tail regulator 2 ft dia",
+                  "text": "Un punct de belvedere situat lângă un regulator de coadă cu un diametru de 2 picioare folosit pentru controlul apei agricole.",
+                  "category": "natural",
+                  "coords": [
+                        -58.482539,
+                        6.763576
+                  ]
+            },
+            {
+                  "name": "Fort Zeelandia",
+                  "text": "Un fort istoric în formă de stea din cărămidă construit de olandezi în 1744 pentru a proteja colonia de pe râul Essequibo.",
+                  "category": "fortress",
+                  "coords": [
+                        -58.508294,
+                        6.782759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tail regulator 2 ft dia",
+                  "text": "A viewpoint situated by a 2-foot diameter tail regulator used for agricultural water control.",
+                  "category": "natural",
+                  "coords": [
+                        -58.482539,
+                        6.763576
+                  ]
+            },
+            {
+                  "name": "Fort Zeelandia",
+                  "text": "A historic brick star fort constructed by the Dutch in 1744 to protect the Essequibo River colony.",
+                  "category": "fortress",
+                  "coords": [
+                        -58.508294,
+                        6.782759
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-ES",
     coords: [-58.4988, 6.7933],
@@ -71,7 +152,268 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le bâtiment a été achevé en 1752.", "Il abrite aujourd'hui le Dutch Heritage Museum.", "Il servait à l'origine de salle d'audience et de centre administratif.", "Il est construit avec des briques néerlandaises importées.", "Le bâtiment est divisé en trois chambres distinctes.", "Il a été déclaré monument national du Guyana en 1999."],
     },
   }, {
-    id: "gy-kyk-over-al-history-v2",
+    id: "gy-kyk-over-al-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sluice",
+                  "text": "Eine Wassermanagement-Schleuse, die gleichzeitig als Aussichtspunkt auf das lokale Wasserstraßensystem dient.",
+                  "category": "natural",
+                  "coords": [
+                        -58.619301,
+                        6.401486
+                  ]
+            },
+            {
+                  "name": "Self acting door",
+                  "text": "Ein Aussichtspunkt in der Nähe einer automatischen Tür, die zur Regulierung des lokalen Wasserflusses dient.",
+                  "category": "natural",
+                  "coords": [
+                        -58.620745,
+                        6.396664
+                  ]
+            },
+            {
+                  "name": "Tubing needs culvert",
+                  "text": "Ein Beobachtungspunkt an einem Infrastrukturstandort, der durch Entwässerungsrohre und einen geplanten Durchlass gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621114,
+                        6.397688
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "Ein malerischer Aussichtspunkt auf oder neben einer lokalen Brücke, die die Wasserstraße überquert.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621952,
+                        6.396778
+                  ]
+            },
+            {
+                  "name": "Byderabo SDA Church",
+                  "text": "Eine christliche Kirche der Siebenten-Tags-Adventisten, die Gottesdienste für die Region Byderabo anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.619797,
+                        6.389776
+                  ]
+            },
+            {
+                  "name": "Bartica Full Gospel Church",
+                  "text": "Ein christliches Gotteshaus der Full-Gospel-Gemeinde in der Region Bartica.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.620661,
+                        6.400508
+                  ]
+            },
+            {
+                  "name": "Bartica Seventh-day Adventist Church",
+                  "text": "Ein Kirchengebäude einer lokalen Gemeinde der Siebenten-Tags-Adventisten, das als spiritueller Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.622347,
+                        6.40067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sluice",
+                  "text": "Egy vízgazdálkodási zsilip, amely egyben festői kilátópont is a helyi vízi utakra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.619301,
+                        6.401486
+                  ]
+            },
+            {
+                  "name": "Self acting door",
+                  "text": "Kilátópont egy automatizált zsilipajtó közelében, amelyet a helyi vízáramlás szabályozására használnak.",
+                  "category": "natural",
+                  "coords": [
+                        -58.620745,
+                        6.396664
+                  ]
+            },
+            {
+                  "name": "Tubing needs culvert",
+                  "text": "Egy infrastrukturális helyszínen található megfigyelőpont, amelyet vízelvezető csövek és egy áteresz szükségessége jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621114,
+                        6.397688
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "Festői kilátópont a vízi utat keresztező helyi hídon vagy annak közvetlen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621952,
+                        6.396778
+                  ]
+            },
+            {
+                  "name": "Byderabo SDA Church",
+                  "text": "A Hetednapi Adventista Egyház keresztény temploma, amely istentiszteleteket tart a Byderabo térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.619797,
+                        6.389776
+                  ]
+            },
+            {
+                  "name": "Bartica Full Gospel Church",
+                  "text": "A Teljes Evangéliumi felekezethez tartozó keresztény istentiszteleti hely a Bartica régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.620661,
+                        6.400508
+                  ]
+            },
+            {
+                  "name": "Bartica Seventh-day Adventist Church",
+                  "text": "Egy helyi hetednapi adventista gyülekezet templomépülete, amely spirituális gyülekezőhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.622347,
+                        6.40067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sluice",
+                  "text": "O ecluză de gestionare a apei care servește și ca punct de belvedere panoramic asupra sistemului local de căi navigabile.",
+                  "category": "natural",
+                  "coords": [
+                        -58.619301,
+                        6.401486
+                  ]
+            },
+            {
+                  "name": "Self acting door",
+                  "text": "Un punct de belvedere situat lângă o ușă automată folosită pentru controlul fluxului local de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -58.620745,
+                        6.396664
+                  ]
+            },
+            {
+                  "name": "Tubing needs culvert",
+                  "text": "Un punct de observație situat la un sit de infrastructură marcat de tuburi de drenaj și necesitatea unui podeț.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621114,
+                        6.397688
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "Un punct de belvedere pitoresc situat pe sau lângă un pod local care traversează cursul de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621952,
+                        6.396778
+                  ]
+            },
+            {
+                  "name": "Byderabo SDA Church",
+                  "text": "O biserică creștină adventistă de ziua a șaptea care oferă servicii religioase zonei Byderabo.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.619797,
+                        6.389776
+                  ]
+            },
+            {
+                  "name": "Bartica Full Gospel Church",
+                  "text": "Un lăcaș de cult creștin aparținând confesiunii Evangheliei Complete din regiunea Bartica.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.620661,
+                        6.400508
+                  ]
+            },
+            {
+                  "name": "Bartica Seventh-day Adventist Church",
+                  "text": "O clădire a bisericii unei congregații locale adventiste de ziua a șaptea care oferă un loc de adunare spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.622347,
+                        6.40067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sluice",
+                  "text": "A water management sluice that doubles as a scenic viewpoint over the local waterway system.",
+                  "category": "natural",
+                  "coords": [
+                        -58.619301,
+                        6.401486
+                  ]
+            },
+            {
+                  "name": "Self acting door",
+                  "text": "A viewpoint situated near an automated self-acting door used for local water flow control.",
+                  "category": "natural",
+                  "coords": [
+                        -58.620745,
+                        6.396664
+                  ]
+            },
+            {
+                  "name": "Tubing needs culvert",
+                  "text": "An observation point located at an infrastructure site marked by drainage tubing and culvert needs.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621114,
+                        6.397688
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "A scenic viewpoint located on or adjacent to a local bridge crossing the waterway.",
+                  "category": "natural",
+                  "coords": [
+                        -58.621952,
+                        6.396778
+                  ]
+            },
+            {
+                  "name": "Byderabo SDA Church",
+                  "text": "A Christian Seventh-day Adventist church offering religious services to the Byderabo area.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.619797,
+                        6.389776
+                  ]
+            },
+            {
+                  "name": "Bartica Full Gospel Church",
+                  "text": "A Christian place of worship belonging to the Full Gospel denomination in the Bartica region.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.620661,
+                        6.400508
+                  ]
+            },
+            {
+                  "name": "Bartica Seventh-day Adventist Church",
+                  "text": "A local Seventh-day Adventist congregation's church building providing a spiritual gathering place.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.622347,
+                        6.40067
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-CU",
     coords: [-58.6231, 6.3986],
@@ -106,7 +448,88 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le fort a été construit en 1616 par les Néerlandais.", "C'était la première capitale de la colonie d'Essequibo.", "Le nom 'Kyk-Over-Al' signifie 'Vois sur tout'.", "Le fort a été construit sur une petite île d'environ 1,5 hectare.", "Il a été abandonné vers 1748, lorsque l'administration a déménagé sur Fort Island.", "Seule l'arche de briques de l'entrée est encore entièrement visible aujourd'hui."],
     },
   }, {
-    id: "gy-fort-nassau-history-v2",
+    id: "gy-fort-nassau-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sand hill Berbice river",
+                  "text": "Ein hoher Sandhügel am Ufer des Berbice, der einen weiten Blick über den gewundenen Flusslauf bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -57.747423,
+                        5.802296
+                  ]
+            },
+            {
+                  "name": "Friendship Berbice river",
+                  "text": "Ufer-Aussichtspunkt am Berbice-Fluss in der Nähe des historischen Fort Nassau.",
+                  "category": "natural",
+                  "coords": [
+                        -57.758014,
+                        5.794236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sand hill Berbice river",
+                  "text": "Magas homokdomb a Berbice-folyó partján, amely széles panorámát nyújt a kanyargó vízre.",
+                  "category": "natural",
+                  "coords": [
+                        -57.747423,
+                        5.802296
+                  ]
+            },
+            {
+                  "name": "Friendship Berbice river",
+                  "text": "Folyóparti kilátóhely a Berbice-folyó mentén, a történelmi Fort Nassau közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -57.758014,
+                        5.794236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sand hill Berbice river",
+                  "text": "O colină înaltă de nisip pe malul râului Berbice, oferind o priveliște largă asupra cursului sinuos al apei.",
+                  "category": "natural",
+                  "coords": [
+                        -57.747423,
+                        5.802296
+                  ]
+            },
+            {
+                  "name": "Friendship Berbice river",
+                  "text": "Punct de observație pe malul râului Berbice, situat în apropierea zonei istorice Fort Nassau.",
+                  "category": "natural",
+                  "coords": [
+                        -57.758014,
+                        5.794236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sand hill Berbice river",
+                  "text": "A high sand hill on the banks of the Berbice River, offering a wide vista over the winding waterway.",
+                  "category": "natural",
+                  "coords": [
+                        -57.747423,
+                        5.802296
+                  ]
+            },
+            {
+                  "name": "Friendship Berbice river",
+                  "text": "A riverside vantage point along the Berbice River near the historic Fort Nassau area.",
+                  "category": "natural",
+                  "coords": [
+                        -57.758014,
+                        5.794236
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-EB",
     coords: [-57.7500, 5.7667],
@@ -141,7 +564,52 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le fort a été fondé en 1627.", "C'était la première capitale de la colonie de Berbice.", "Abraham van Peere a reçu la concession pour l'établissement de la part de la Compagnie néerlandaise des Indes occidentales.", "Le fort a été détruit en 1763 lors de la rébellion de Berbice.", "Les ruines se trouvent à environ 55 miles de la mer sur le fleuve Berbice.", "Le site a été déclaré monument national du Guyana en 1999."],
     },
   }, {
-    id: "gy-st-georges-cathedral-history-v2",
+    id: "gy-st-georges-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "Diese beeindruckende anglikanische Kathedrale gilt als eines der höchsten freistehenden Holzgebäude der Welt.",
+                  "category": "historical",
+                  "coords": [
+                        -58.163647,
+                        6.812668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "Ez a lenyűgöző anglikán katedrális a világ egyik legmagasabb szabadon álló faépületeként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -58.163647,
+                        6.812668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "Această impresionantă catedrală anglicană este considerată una dintre cele mai înalte clădiri de lemn de sine stătătoare din lume.",
+                  "category": "historical",
+                  "coords": [
+                        -58.163647,
+                        6.812668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. George's Cathedral",
+                  "text": "This impressive Anglican cathedral is one of the world's tallest free-standing wooden buildings.",
+                  "category": "historical",
+                  "coords": [
+                        -58.163647,
+                        6.812668
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1633, 6.8126],
@@ -176,7 +644,52 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["La cathédrale mesure 43,5 mètres (143 pieds) de haut.", "Elle a été officiellement ouverte le 24 août 1892.", "Le matériau principal est le bois de Greenheart (Ocotea rodiaei).", "L'architecte Sir Arthur Blomfield a conçu le bâtiment dans le style néogothique.", "La première pierre a été posée le 23 novembre 1889.", "C'était le plus haut bâtiment en bois du monde jusqu'à la construction d'un bâtiment gouvernemental au Japon."],
     },
   }, {
-    id: "gy-stabroek-market-history-v2",
+    id: "gy-stabroek-market-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hubert Nathaniel Critchlow Monument",
+                  "text": "Dieses Denkmal ehrt Hubert Nathaniel Critchlow, den Gründervater der Gewerkschaftsbewegung in Guyana.",
+                  "category": "historical",
+                  "coords": [
+                        -58.166116,
+                        6.808759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hubert Nathaniel Critchlow Monument",
+                  "text": "Ez az emlékmű Hubert Nathaniel Critchlow-nak, a guyanai szakszervezeti mozgalom alapító atyjának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -58.166116,
+                        6.808759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hubert Nathaniel Critchlow Monument",
+                  "text": "Acest memorial îl onorează pe Hubert Nathaniel Critchlow, recunoscut ca părintele fondator al mișcării sindicale din Guyana.",
+                  "category": "historical",
+                  "coords": [
+                        -58.166116,
+                        6.808759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hubert Nathaniel Critchlow Monument",
+                  "text": "This memorial honors Hubert Nathaniel Critchlow, recognized as the founding father of the trade union movement in Guyana.",
+                  "category": "historical",
+                  "coords": [
+                        -58.166116,
+                        6.808759
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1667, 6.8083],
@@ -211,7 +724,232 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le marché a été construit entre 1880 et 1881.", "Le bâtiment se compose presque entièrement de pièces en fonte.", "Il a été préfabriqué par la société Edgemoor Iron Works aux États-Unis.", "La surface du marché est d'environ 7 000 mètres carrés.", "La tour d'horloge domine la silhouette de Georgetown.", "Le nom 'Stabroek' provient de l'ancien nom hollandais de la ville."],
     },
   },    {
-    id: "gy-1763-monument-history-v2",
+    id: "gy-1763-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Independence Arch",
+                  "text": "Dieser markante Steinbogen erinnert an die Unabhängigkeit Guyanas von der britischen Kolonialherrschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -58.151724,
+                        6.805194
+                  ]
+            },
+            {
+                  "name": "1763 Monument \"Cuffy\"",
+                  "text": "Diese beeindruckende Bronzestatue ist eine Hommage an Cuffy, den Nationalhelden, der 1763 den Sklavenaufstand in Berbice anführte.",
+                  "category": "historical",
+                  "coords": [
+                        -58.150611,
+                        6.804899
+                  ]
+            },
+            {
+                  "name": "Dave office",
+                  "text": "Dieser spezifische Aussichtspunkt blickt auf ein lokales Bürogebäude im geschäftigen Stadtbezirk.",
+                  "category": "natural",
+                  "coords": [
+                        -58.150383,
+                        6.807021
+                  ]
+            },
+            {
+                  "name": "Castalaney House",
+                  "text": "Dieses vom Architekten Cesar Castellani entworfene große Holzgebäude dient heute als National Art Gallery von Guyana.",
+                  "category": "museum",
+                  "coords": [
+                        -58.149591,
+                        6.805942
+                  ]
+            },
+            {
+                  "name": "Burnham Mausoleum",
+                  "text": "Diese feierliche Gedenkstätte markiert die letzte Ruhestätte von Forbes Burnham, dem ersten Exekutivpräsidenten von Guyana.",
+                  "category": "historical",
+                  "coords": [
+                        -58.14648,
+                        6.805601
+                  ]
+            },
+            {
+                  "name": "Guyana Zoo",
+                  "text": "Dieser in den Botanischen Gärten der Stadt gelegene Zoo zeigt vielfältige einheimische Wildtiere, darunter Harpyien und Seekühe aus dem Amazonasgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.146284,
+                        6.807343
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Independence Arch",
+                  "text": "Ez a kiemelkedő kőív Guyana brit gyarmati uralom alóli függetlenségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -58.151724,
+                        6.805194
+                  ]
+            },
+            {
+                  "name": "1763 Monument \"Cuffy\"",
+                  "text": "Ez a lenyűgöző bronzszobor Cuffy, a nemzeti hős előtt tiszteleg, aki az 1763-as berbice-i rabszolgalázadást vezette.",
+                  "category": "historical",
+                  "coords": [
+                        -58.150611,
+                        6.804899
+                  ]
+            },
+            {
+                  "name": "Dave office",
+                  "text": "Ebből a sajátos kilátópontból egy helyi irodaházra nyílik kilátás a nyüzsgő városnegyedben.",
+                  "category": "natural",
+                  "coords": [
+                        -58.150383,
+                        6.807021
+                  ]
+            },
+            {
+                  "name": "Castalaney House",
+                  "text": "A Cesar Castellani építész által tervezett nagyszerű faépület ma Guyana Nemzeti Művészeti Galériájaként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -58.149591,
+                        6.805942
+                  ]
+            },
+            {
+                  "name": "Burnham Mausoleum",
+                  "text": "Ez az ünnepélyes emlékmű jelöli Forbes Burnhamnek, Guyana első végrehajtó elnökének végső nyughelyét.",
+                  "category": "historical",
+                  "coords": [
+                        -58.14648,
+                        6.805601
+                  ]
+            },
+            {
+                  "name": "Guyana Zoo",
+                  "text": "A város botanikus kertjében található állatkert változatos őshonos vadvilágot mutat be, beleértve az amazóniai hárpiákat és a lamantinokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.146284,
+                        6.807343
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Independence Arch",
+                  "text": "Acest arc de piatră proeminent comemorează independența Guyanei față de dominația colonială britanică.",
+                  "category": "historical",
+                  "coords": [
+                        -58.151724,
+                        6.805194
+                  ]
+            },
+            {
+                  "name": "1763 Monument \"Cuffy\"",
+                  "text": "Această impresionantă statuie de bronz aduce un omagiu lui Cuffy, eroul național care a condus rebeliunea sclavilor din Berbice din 1763.",
+                  "category": "historical",
+                  "coords": [
+                        -58.150611,
+                        6.804899
+                  ]
+            },
+            {
+                  "name": "Dave office",
+                  "text": "Acest punct de observație specific oferă vedere spre o clădire de birouri locală din districtul urban aglomerat.",
+                  "category": "natural",
+                  "coords": [
+                        -58.150383,
+                        6.807021
+                  ]
+            },
+            {
+                  "name": "Castalaney House",
+                  "text": "Proiectată de arhitectul Cesar Castellani, această clădire mare din lemn servește acum drept Galeria Națională de Artă din Guyana.",
+                  "category": "museum",
+                  "coords": [
+                        -58.149591,
+                        6.805942
+                  ]
+            },
+            {
+                  "name": "Burnham Mausoleum",
+                  "text": "Acest memorial solemn marchează locul de odihnă al lui Forbes Burnham, primul președinte executiv al Guyanei.",
+                  "category": "historical",
+                  "coords": [
+                        -58.14648,
+                        6.805601
+                  ]
+            },
+            {
+                  "name": "Guyana Zoo",
+                  "text": "Situată în Grădina Botanică a orașului, această grădină zoologică expune o faună nativă diversă, inclusiv vulturi harpie și lamantini amazonieni.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.146284,
+                        6.807343
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Independence Arch",
+                  "text": "This prominent stone arch commemorates Guyana's independence from British colonial rule.",
+                  "category": "historical",
+                  "coords": [
+                        -58.151724,
+                        6.805194
+                  ]
+            },
+            {
+                  "name": "1763 Monument \"Cuffy\"",
+                  "text": "This striking bronze statue pays tribute to Cuffy, the national hero who led the 1763 Berbice slave rebellion.",
+                  "category": "historical",
+                  "coords": [
+                        -58.150611,
+                        6.804899
+                  ]
+            },
+            {
+                  "name": "Dave office",
+                  "text": "This specific vantage point overlooks a local office building within the bustling urban district.",
+                  "category": "natural",
+                  "coords": [
+                        -58.150383,
+                        6.807021
+                  ]
+            },
+            {
+                  "name": "Castalaney House",
+                  "text": "Designed by architect Cesar Castellani, this grand wooden building now serves as the National Art Gallery of Guyana.",
+                  "category": "museum",
+                  "coords": [
+                        -58.149591,
+                        6.805942
+                  ]
+            },
+            {
+                  "name": "Burnham Mausoleum",
+                  "text": "This solemn memorial marks the final resting place of Forbes Burnham, the first Executive President of Guyana.",
+                  "category": "historical",
+                  "coords": [
+                        -58.14648,
+                        6.805601
+                  ]
+            },
+            {
+                  "name": "Guyana Zoo",
+                  "text": "Situated within the city's Botanical Gardens, this zoo exhibits diverse native wildlife including Amazonian harpy eagles and manatees.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.146284,
+                        6.807343
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1500, 6.8055],
@@ -246,7 +984,88 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le monument a été dévoilé le 23 mai 1976 par le Premier ministre Forbes Burnham.", "La statue de bronze mesure environ 4,5 mètres de haut et pèse plusieurs tonnes.", "Le sculpteur Philip Moore a été spécialement choisi pour ce projet.", "Il commémore la révolte du 23 février 1763 dans la colonie de Berbice.", "Cuffy, le personnage central, était un Africain de l'Ouest réduit en esclavage travaillant à Berbice.", "Le monument est représenté sur la pièce de 1 dollar du Guyana."],
     },
   },   {
-    id: "gy-red-house-history-v2",
+    id: "gy-red-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "African Liberation Monument",
+                  "text": "Öffentliches Denkmal zur Erinnerung an die Kämpfe für die afrikanische Befreiung in der Nähe des Red House.",
+                  "category": "historical",
+                  "coords": [
+                        -58.162267,
+                        6.824486
+                  ]
+            },
+            {
+                  "name": "Red House",
+                  "text": "Markantes Holzgebäude aus dem 19. Jahrhundert, bekannt für seine rote Fassade aus Pechkiefer und seine politische Geschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162365,
+                        6.822892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "African Liberation Monument",
+                  "text": "Az afrikai felszabadulási küzdelmeknek emléket állító köztéri emlékmű a Vörös Ház közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -58.162267,
+                        6.824486
+                  ]
+            },
+            {
+                  "name": "Red House",
+                  "text": "Jellegzetes 19. századi faépület, amely vörös szurokfenyő külsejéről és politikai történelméről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162365,
+                        6.822892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "African Liberation Monument",
+                  "text": "Memorial public ce comemorează luptele pentru eliberarea africană, lângă Casa Roșie.",
+                  "category": "historical",
+                  "coords": [
+                        -58.162267,
+                        6.824486
+                  ]
+            },
+            {
+                  "name": "Red House",
+                  "text": "Clădire distinctivă din lemn din secolul al XIX-lea, cunoscută pentru exteriorul său roșu din pin și istoria politică.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162365,
+                        6.822892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "African Liberation Monument",
+                  "text": "Public memorial commemorating the struggles for African liberation near the Red House.",
+                  "category": "historical",
+                  "coords": [
+                        -58.162267,
+                        6.824486
+                  ]
+            },
+            {
+                  "name": "Red House",
+                  "text": "Distinctive 19th-century timber building known for its red pitch-pine exterior and political history.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162365,
+                        6.822892
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1627, 6.8241],
@@ -281,7 +1100,52 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le bâtiment a été construit vers 1890 comme résidence privée pour l'administrateur colonial.", "Il est presque entièrement fait de bois locaux comme le Wallaba et le Greenheart.", "Cheddi Jagan y a vécu pendant son mandat de Premier ministre de 1961 à 1964.", "La maison a été officiellement inaugurée en 1999 en tant que Cheddi Jagan Research Centre (CJRC).", "Elle était initialement connue sous le nom de Kamana Court avant que sa couleur rouge ne lui donne son nom.", "Le bâtiment a été largement restauré dans les années 1990 pour stopper son délabrement."],
     },
   }, {
-    id: "gy-state-house-history-v2",
+    id: "gy-state-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Walter Roth Museum",
+                  "text": "Museum, das die Geschichte, Artefakte und Kultur der indigenen Völker Guyanas präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -58.163946,
+                        6.817539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Walter Roth Museum",
+                  "text": "Múzeum, amely Guyana amerikai őslakosainak történelmét, műtárgyait és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -58.163946,
+                        6.817539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Walter Roth Museum",
+                  "text": "Muzeu care expune istoria, artefactele și cultura popoarelor amerindiene din Guyana.",
+                  "category": "museum",
+                  "coords": [
+                        -58.163946,
+                        6.817539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Walter Roth Museum",
+                  "text": "Museum showcasing the history, artifacts, and culture of Guyana's Amerindian peoples.",
+                  "category": "museum",
+                  "coords": [
+                        -58.163946,
+                        6.817539
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1633, 6.8166],
@@ -316,7 +1180,232 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le bâtiment a été achevé et officiellement ouvert en 1858.", "Il a servi de résidence à 23 gouverneurs britanniques jusqu'en 1966.", "La State House est située sur Main Street, dans le centre de Georgetown.", "Le président Arthur Chung fut le premier chef d'État de la République à y résider en 1970.", "L'architecture intègre des éléments de ventilation comme les 'fenêtres Demerara' pour le rafraîchissement.", "Le bâtiment a été rénové plusieurs fois, la dernière rénovation majeure datant des années 2010."],
     },
   }, {
-    id: "gy-castellani-house-history-v2",
+    id: "gy-castellani-house-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Singh's ac repairs",
+                  "text": "Dieser lokale Aussichtspunkt blickt auf eine Werkstatt für Klimaanlagenreparaturen in der Nachbarschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -58.153984,
+                        6.81288
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord",
+                  "text": "Dieses christliche Andachtszentrum versammelt Gläubige zu lebhaften Gottesdiensten, die sich auf die Lehren Jesu konzentrieren.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.154299,
+                        6.808378
+                  ]
+            },
+            {
+                  "name": "The Fellowship of Divine Metaphysical Church",
+                  "text": "Diese einzigartige christliche Kirche konzentriert sich auf metaphysische Lehren und göttliche spirituelle Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153131,
+                        6.808936
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Dieser christliche Treffpunkt veranstaltet lebhafte evangelikale Gottesdienste für die lokale Universal-Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156454,
+                        6.810127
+                  ]
+            },
+            {
+                  "name": "Diplomat Centre",
+                  "text": "Diese moderne christliche Einrichtung dient als Verwaltungs- und Gottesdienstzentrum für ihren zugehörigen Gemeindedienst.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156554,
+                        6.811405
+                  ]
+            },
+            {
+                  "name": "Bourda Market",
+                  "text": "Dieser weitläufige lokale Marktplatz ist für seine lebhafte Atmosphäre bekannt und bietet alles von frischen tropischen Früchten bis hin zu Haushaltswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.157871,
+                        6.809915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Singh's ac repairs",
+                  "text": "Ez a helyi kilátópont egy környékbeli légkondicionáló-szerelő műhelyre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -58.153984,
+                        6.81288
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord",
+                  "text": "Ez a keresztény imaközpont élénk istentiszteletekre gyűjti össze a hívőket, amelyek Jézus tanításaira összpontosítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.154299,
+                        6.808378
+                  ]
+            },
+            {
+                  "name": "The Fellowship of Divine Metaphysical Church",
+                  "text": "Ez az egyedülálló keresztény templom a metafizikai tanításokra és az isteni spirituális közösségre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153131,
+                        6.808936
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Ez a keresztény találkozóhely élénk evangéliumi istentiszteleteknek ad otthont a helyi Universal gyülekezet számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156454,
+                        6.810127
+                  ]
+            },
+            {
+                  "name": "Diplomat Centre",
+                  "text": "Ez a modern keresztény létesítmény adminisztratív és istentiszteleti központként szolgál a hozzá tartozó szolgálat számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156554,
+                        6.811405
+                  ]
+            },
+            {
+                  "name": "Bourda Market",
+                  "text": "Az élénk hangulatáról ismert kiterjedt helyi piac a friss trópusi gyümölcsöktől a háztartási cikkekig mindent kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.157871,
+                        6.809915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Singh's ac repairs",
+                  "text": "Acest punct de belvedere local are vedere spre un atelier de reparații pentru aer condiționat din cartier.",
+                  "category": "natural",
+                  "coords": [
+                        -58.153984,
+                        6.81288
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord",
+                  "text": "Acest centru de închinare creștină adună credincioșii pentru slujbe pline de spirit axate pe învățăturile lui Iisus.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.154299,
+                        6.808378
+                  ]
+            },
+            {
+                  "name": "The Fellowship of Divine Metaphysical Church",
+                  "text": "Această biserică creștină unică se concentrează pe învățăturile metafizice și pe părtășia spirituală divină.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153131,
+                        6.808936
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Acest loc de întâlnire creștin găzduiește slujbe evanghelice pline de viață pentru congregația locală Universal.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156454,
+                        6.810127
+                  ]
+            },
+            {
+                  "name": "Diplomat Centre",
+                  "text": "Această unitate creștină modernă servește ca centru administrativ și de închinare pentru slujirea sa asociată.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156554,
+                        6.811405
+                  ]
+            },
+            {
+                  "name": "Bourda Market",
+                  "text": "Cunoscută pentru atmosfera sa plină de viață, această piață locală extinsă oferă de la fructe tropicale proaspete până la bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.157871,
+                        6.809915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Singh's ac repairs",
+                  "text": "This localized viewpoint overlooks a neighborhood air conditioning repair workshop.",
+                  "category": "natural",
+                  "coords": [
+                        -58.153984,
+                        6.81288
+                  ]
+            },
+            {
+                  "name": "Jesus is Lord",
+                  "text": "This Christian worship center gathers believers for spirited services focused on the teachings of Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.154299,
+                        6.808378
+                  ]
+            },
+            {
+                  "name": "The Fellowship of Divine Metaphysical Church",
+                  "text": "This unique Christian church focuses on metaphysical teachings and divine spiritual fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.153131,
+                        6.808936
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "This Christian meeting place hosts lively evangelical services for the local Universal congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156454,
+                        6.810127
+                  ]
+            },
+            {
+                  "name": "Diplomat Centre",
+                  "text": "This modern Christian facility serves as an administrative and worship center for its associated ministry.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156554,
+                        6.811405
+                  ]
+            },
+            {
+                  "name": "Bourda Market",
+                  "text": "Known for its lively atmosphere, this extensive local marketplace offers everything from fresh tropical fruits to household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.157871,
+                        6.809915
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1544, 6.8105],
@@ -386,7 +1475,124 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["La structure actuelle en briques a été achevée en 1830, remplaçant une tour en bois.", "La tour mesure 31 mètres de haut et a une forme octogonale.", "Sa lumière est visible jusqu'à une distance de 30 kilomètres par temps clair.", "Le phare est peint avec des rayures verticales rouges et blanches frappantes.", "À l'intérieur, un escalier en colimaçon de 138 marches mène à la galerie.", "Il est géré par le Maritime Administration Department (MARAD)."],
     },
   }, {
-    id: "gy-fort-sint-andries-history-v2",
+    id: "gy-fort-sint-andries-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glasgow Methodist Church",
+                  "text": "Eine methodistische Kirche in Glasgow bei New Amsterdam, unweit der historischen Stätte von Fort Sint Andries.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.52429,
+                        6.205685
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "Eine presbyterianische Kirche im Distrikt East Berbice-Corentyne, nahe den Ruinen des niederländischen Forts Sint Andries.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.523482,
+                        6.198343
+                  ]
+            },
+            {
+                  "name": "Masjid Annur",
+                  "text": "Die Annur-Moschee in der Region New Amsterdam, ein muslimisches Gotteshaus in der Nähe des Berbice-Flusses.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.524589,
+                        6.218248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glasgow Methodist Church",
+                  "text": "Metodista templom Glasgow-ban, New Amsterdam közelében, nem messze Fort Sint Andries történelmi helyszínétől.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.52429,
+                        6.205685
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "Presbiteriánus templom az East Berbice-Corentyne kerületben, a holland Fort Sint Andries romjai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.523482,
+                        6.198343
+                  ]
+            },
+            {
+                  "name": "Masjid Annur",
+                  "text": "Az Annur-mecset New Amsterdam régiójában, egy muszlim imaház a Berbice-folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.524589,
+                        6.218248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glasgow Methodist Church",
+                  "text": "O biserică metodistă în Glasgow, lângă New Amsterdam, nu departe de situl istoric Fort Sint Andries.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.52429,
+                        6.205685
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "O biserică prezbiteriană în districtul East Berbice-Corentyne, lângă ruinele fortului olandez Sint Andries.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.523482,
+                        6.198343
+                  ]
+            },
+            {
+                  "name": "Masjid Annur",
+                  "text": "Moscheea Annur din regiunea New Amsterdam, un lăcaș de cult musulman situat în apropierea râului Berbice.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.524589,
+                        6.218248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glasgow Methodist Church",
+                  "text": "A Methodist church in Glasgow near New Amsterdam, situated not far from the historical site of Fort Sint Andries.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.52429,
+                        6.205685
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "A Presbyterian church in the East Berbice-Corentyne district, located near the ruins of the Dutch Fort Sint Andries.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.523482,
+                        6.198343
+                  ]
+            },
+            {
+                  "name": "Masjid Annur",
+                  "text": "Masjid Annur in the New Amsterdam region, a Muslim place of worship located near the Berbice River.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.524589,
+                        6.218248
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-EB",
     coords: [-57.5186, 6.2022],
@@ -421,7 +1627,88 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le fort a été construit à l'origine vers 1740 par la Compagnie néerlandaise des Indes occidentales.", "Il est situé à l'embouchure de la rivière Canje dans le fleuve Berbice.", "Pendant la révolte de 1763, il a servi de dernier refuge au gouverneur van Hoogenheim.", "Le fort faisait partie de la ligne de défense de la colonie de Berbice contre les pirates.", "Les Britanniques ont officiellement repris le fort en 1803.", "Aujourd'hui, des restes de murs en briques et de fondations sont encore visibles sur le site."],
     },
   }, {
-    id: "gy-1823-rebellion-monument-history-v2",
+    id: "gy-1823-rebellion-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "CID 1",
+                  "text": "Lokale historische Sehenswürdigkeit in der Nähe des 1823-Rebellion-Denkmals.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156621,
+                        6.824815
+                  ]
+            },
+            {
+                  "name": "sea wall bandstand 1",
+                  "text": "Traditioneller runder Musikpavillon an der Ufermauer für öffentliche Konzerte.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158781,
+                        6.825095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CID 1",
+                  "text": "Helyi történelmi nevezetesség az 1823-as lázadás emlékművének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156621,
+                        6.824815
+                  ]
+            },
+            {
+                  "name": "sea wall bandstand 1",
+                  "text": "Hagyományos kör alakú zenepavilon a parti gát mentén, nyilvános koncertekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158781,
+                        6.825095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CID 1",
+                  "text": "Punct de interes istoric local situat aproape de monumentul rebeliunii din 1823.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156621,
+                        6.824815
+                  ]
+            },
+            {
+                  "name": "sea wall bandstand 1",
+                  "text": "Foișor tradițional circular construit de-a lungul digului de coastă pentru concerte publice.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158781,
+                        6.825095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CID 1",
+                  "text": "Local historic point of interest situated close to the 1823 Rebellion Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.156621,
+                        6.824815
+                  ]
+            },
+            {
+                  "name": "sea wall bandstand 1",
+                  "text": "Traditional circular bandstand built along the coastal seawall for public concerts.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158781,
+                        6.825095
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1566, 6.8245],
@@ -491,7 +1778,160 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le monument a été inauguré le 31 juillet 1988 à Anna Regina.", "Damon a mené la protestation en août 1834, peu après l'abolition officielle de l'esclavage.", "Il a protesté contre le système d'apprentissage ('Apprenticeship'), qui devait durer jusqu'en 1838.", "Damon a été pendu le 13 octobre 1834 à Georgetown.", "La statue a été créée par l'artiste guyanien Ivor Thom.", "Le monument se trouve à proximité de l'hôtel de ville d'Anna Regina."],
     },
   }, {
-    id: "gy-enmore-martyrs-monument-history-v2",
+    id: "gy-enmore-martyrs-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Start new",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf das historische Gedenkgelände, das den Märtyrern von Enmore gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -57.959835,
+                        6.742337
+                  ]
+            },
+            {
+                  "name": "Nootenzuil (Belfield) Sluice",
+                  "text": "Dieser Aussichtspunkt blickt auf das Schleusentor von Belfield, ein wichtiges Wasserbauwerk an der Küste von Guyana.",
+                  "category": "natural",
+                  "coords": [
+                        -57.961752,
+                        6.750276
+                  ]
+            },
+            {
+                  "name": "Victoria SDA Church",
+                  "text": "Diese Kirche der Siebenten-Tags-Adventisten im historischen Dorf Victoria ist ein zentraler Anlaufpunkt für die lokale christliche Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.964891,
+                        6.748141
+                  ]
+            },
+            {
+                  "name": "Wilberforce Church",
+                  "text": "Diese historische christliche Kirche, die den Namen des berühmten Abolitionisten trägt, steht im kulturell bedeutsamen Dorf Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.966687,
+                        6.750894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Start new",
+                  "text": "Ez a kilátópont az Enmore-i mártíroknak szentelt történelmi emlékhelyre nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        -57.959835,
+                        6.742337
+                  ]
+            },
+            {
+                  "name": "Nootenzuil (Belfield) Sluice",
+                  "text": "Ebből a kilátóból a belfieldi zsilipkapura, a guyanai partvidék fontos vízügyi építményére nyílik rálátás.",
+                  "category": "natural",
+                  "coords": [
+                        -57.961752,
+                        6.750276
+                  ]
+            },
+            {
+                  "name": "Victoria SDA Church",
+                  "text": "A történelmi Victoria faluban található hetednapi adventista templom a helyi keresztény közösség gyújtópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.964891,
+                        6.748141
+                  ]
+            },
+            {
+                  "name": "Wilberforce Church",
+                  "text": "Ez a híres abolicionistáról elnevezett történelmi keresztény templom a kulturálisan jelentős Victoria faluban áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.966687,
+                        6.750894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Start new",
+                  "text": "Acest punct de belvedere oferă o perspectivă asupra terenurilor comemorative istorice dedicate martirilor din Enmore.",
+                  "category": "natural",
+                  "coords": [
+                        -57.959835,
+                        6.742337
+                  ]
+            },
+            {
+                  "name": "Nootenzuil (Belfield) Sluice",
+                  "text": "Acest punct de belvedere are vedere la poarta ecluzei Belfield, o structură importantă de gestionare a apelor de pe coasta Guyanei.",
+                  "category": "natural",
+                  "coords": [
+                        -57.961752,
+                        6.750276
+                  ]
+            },
+            {
+                  "name": "Victoria SDA Church",
+                  "text": "Deservind satul istoric Victoria, această biserică adventistă de ziua a șaptea este un punct central pentru comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.964891,
+                        6.748141
+                  ]
+            },
+            {
+                  "name": "Wilberforce Church",
+                  "text": "Purtând numele celebrului aboliționist, această biserică creștină istorică se află în satul Victoria, o așezare cu o mare importanță culturală.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.966687,
+                        6.750894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Start new",
+                  "text": "This viewpoint offers a perspective over the historical memorial grounds dedicated to the Enmore martyrs.",
+                  "category": "natural",
+                  "coords": [
+                        -57.959835,
+                        6.742337
+                  ]
+            },
+            {
+                  "name": "Nootenzuil (Belfield) Sluice",
+                  "text": "This viewpoint overlooks the Belfield sluice gate, an important water management structure on the Guyanese coast.",
+                  "category": "natural",
+                  "coords": [
+                        -57.961752,
+                        6.750276
+                  ]
+            },
+            {
+                  "name": "Victoria SDA Church",
+                  "text": "Serving the historic village of Victoria, this Seventh-day Adventist church is a focal point for the local Christian community.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.964891,
+                        6.748141
+                  ]
+            },
+            {
+                  "name": "Wilberforce Church",
+                  "text": "Bearing the name of the famous abolitionist, this historic Christian church stands in the culturally significant village of Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.966687,
+                        6.750894
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-57.9625, 6.7622],
@@ -526,7 +1966,736 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Le monument commémore le 16 juin 1948, jour de la fusillade.", "L'inauguration officielle du mémorial a eu lieu en 1977.", "Cinq hommes sont morts sous les balles de la police coloniale britannique.", "Cheddi Jagan a prononcé un discours historique lors des funérailles des travailleurs.", "Le monument repose sur un socle en béton avec des plaques commémoratives portant les noms.", "L'incident a conduit à la fondation du People's Progressive Party (PPP)."],
     },
   }, {
-    id: "gy-chateau-margot-chimney-history-v2",
+    id: "gy-chateau-margot-chimney-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tube",
+                  "text": "Dieser erhöhte Aussichtspunkt nahe dem historischen Chateau Margot bietet weite Ausblicke über die umliegenden ehemaligen Zuckerrohrplantagen.",
+                  "category": "natural",
+                  "coords": [
+                        -58.063312,
+                        6.814635
+                  ]
+            },
+            {
+                  "name": "Memem",
+                  "text": "Der Aussichtspunkt Memem ermöglicht Besuchern einen weiten Blick auf die Landschaft rund um die historischen Plantagengrenzen.",
+                  "category": "natural",
+                  "coords": [
+                        -58.060226,
+                        6.806315
+                  ]
+            },
+            {
+                  "name": "Navo",
+                  "text": "Das Navo-Denkmal markiert ein lokales historisches Ereignis und ergänzt das Erbe des bekannten Schornsteins von Chateau Margot.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            },
+            {
+                  "name": "LBI Masjid",
+                  "text": "Die LBI Masjid im Dorf La Bonne Intention dient der islamischen Gemeinschaft als Ort für das tägliche Gebet und spirituelle Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.065455,
+                        6.807282
+                  ]
+            },
+            {
+                  "name": "LBI Hindu Temple",
+                  "text": "Der LBI Hindu Temple verfügt über traditionelle Altäre und bietet Raum für farbenfrohe Rituale und Feste im Dorf.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.065254,
+                        6.808402
+                  ]
+            },
+            {
+                  "name": "Full-Life New Testament Church of God",
+                  "text": "Die Full-Life New Testament Church of God feiert lebhafte Pfingstgottesdienste in der Küstenregion von Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -58.0535,
+                        6.806589
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Dieser christliche Königreichssaal bietet Bibellesungen und Gemeinschaftstreffen für die Zeugen Jehovas im Bezirk Chateau Margot.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.058097,
+                        6.802794
+                  ]
+            },
+            {
+                  "name": "Gopal Mandir",
+                  "text": "Der Gopal Mandir ist der Anbetung der hinduistischen Gottheit Krishna gewidmet und ein Ort für gemeinschaftliche spirituelle Gesänge.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.039124,
+                        6.796374
+                  ]
+            },
+            {
+                  "name": "World Apolistic Church",
+                  "text": "Die World Apostolic Church führt christliche Andachten durch und engagiert sich in sozialen Projekten rund um die Ostküste.",
+                  "category": "religious",
+                  "coords": [
+                        -58.013109,
+                        6.784537
+                  ]
+            },
+            {
+                  "name": "Lusignan Radha Krishna Mandir",
+                  "text": "Der Lusignan Radha Krishna Mandir ist mit kunstvollen Statuen seiner Namensgeber geschmückt und bildet ein spirituelles Zentrum der lokalen Hindus.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.039148,
+                        6.801925
+                  ]
+            },
+            {
+                  "name": "St. Andrew Lutheran Church",
+                  "text": "Die St. Andrew Lutheran Church pflegt traditionelle evangelische Gottesdienste und dient der lutherischen Gemeinde der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.069016,
+                        6.813497
+                  ]
+            },
+            {
+                  "name": "Life Spring Church",
+                  "text": "Die Life Spring Church ist für ihre modernen christlichen Lobpreisveranstaltungen und Jugendprogramme in der Gemeinde bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.066062,
+                        6.813892
+                  ]
+            },
+            {
+                  "name": "B.V Seventh Day Adventist Church",
+                  "text": "Die B.V. Seventh Day Adventist Church hält ihre Sabbatgottesdienste jeden Samstag ab und fördert gesundheitliche Aufklärung.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.060152,
+                        6.80191
+                  ]
+            },
+            {
+                  "name": "B.V Anglican Church",
+                  "text": "Die anglikanische B.V. Church bietet sonntägliche Eucharistiefeiern und ist fest in der britischen Kolonialgeschichte der Region verwurzelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.061092,
+                        6.80055
+                  ]
+            },
+            {
+                  "name": "St. Peter's Roman Catholic Church",
+                  "text": "Die römisch-katholische Kirche St. Peter versammelt die Gläubigen zu Messen und feiert die Sakramente mit einer engagierten Pfarrei.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.0594,
+                        6.805044
+                  ]
+            },
+            {
+                  "name": "Bible Victory",
+                  "text": "Das christliche Zentrum Bible Victory konzentriert sich auf das Studium der Heiligen Schrift und dynamische Gebetskreise.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.058942,
+                        6.81041
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Die Church of God bietet eine herzliche Gemeinschaftsatmosphäre mit evangelikalen Predigten für die Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.02718,
+                        6.791759
+                  ]
+            },
+            {
+                  "name": "Friendship Methodist Church",
+                  "text": "Die Friendship Methodist Church ist eine traditionsreiche Kapelle, in der sich die Dorfbewohner zum Gesang und zur methodistischen Liturgie treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.021738,
+                        6.791944
+                  ]
+            },
+            {
+                  "name": "Mon Repos Market",
+                  "text": "Der Mon Repos Market ist ein belebter Freiluftmarkt, auf dem Händler frisches tropisches Obst, Gemüse und fangfrischen Fisch verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.05242,
+                        6.806445
+                  ]
+            },
+            {
+                  "name": "Lusignan Market",
+                  "text": "Auf dem Markt von Lusignan feilschen die Einheimischen um frische Agrarprodukte und Haushaltswaren unter provisorischen Marktständen.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.038689,
+                        6.798598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tube",
+                  "text": "Ez a történelmi Chateau Margot közelében található kilátópont széles panorámát nyújt a környező egykori cukornádültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.063312,
+                        6.814635
+                  ]
+            },
+            {
+                  "name": "Memem",
+                  "text": "A Memem kilátó széles látványt nyújt a látogatóknak a történelmi ültetvényhatárok körüli tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -58.060226,
+                        6.806315
+                  ]
+            },
+            {
+                  "name": "Navo",
+                  "text": "A Navo-emlékmű egy helyi történelmi eseményt jelöl, kiegészítve a híres Chateau Margot kémény örökségét.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            },
+            {
+                  "name": "LBI Masjid",
+                  "text": "A La Bonne Intention faluban található LBI mecset a helyi iszlám közösség napi imáinak és spirituális összejöveteleinek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.065455,
+                        6.807282
+                  ]
+            },
+            {
+                  "name": "LBI Hindu Temple",
+                  "text": "A LBI hindu templom hagyományos oltárokkal rendelkezik, és színes rituáléknak, valamint falusi fesztiváloknak ad teret.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.065254,
+                        6.808402
+                  ]
+            },
+            {
+                  "name": "Full-Life New Testament Church of God",
+                  "text": "A Full-Life New Testament Isten Egyháza élénk pünkösdi istentiszteleteket tart Guyana tengerparti régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        -58.0535,
+                        6.806589
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Ez a keresztény Királyság-terem bibliaolvasásokat és közösségi találkozókat kínál Jehova Tanúi számára a Chateau Margot körzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.058097,
+                        6.802794
+                  ]
+            },
+            {
+                  "name": "Gopal Mandir",
+                  "text": "A Gopal Mandir hindu templomot Krisna tiszteletének szentelték, és a közös spirituális éneklés fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.039124,
+                        6.796374
+                  ]
+            },
+            {
+                  "name": "World Apolistic Church",
+                  "text": "A Világ Apostoli Egyháza keresztény áhítatokat tart, és szociális projektekben vesz részt a keleti parton.",
+                  "category": "religious",
+                  "coords": [
+                        -58.013109,
+                        6.784537
+                  ]
+            },
+            {
+                  "name": "Lusignan Radha Krishna Mandir",
+                  "text": "A Lusignan Radha Krishna Mandir a névadó istenségek díszes szobraival büszkélkedhet, és a helyi hinduk spirituális központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.039148,
+                        6.801925
+                  ]
+            },
+            {
+                  "name": "St. Andrew Lutheran Church",
+                  "text": "A Szent András evangélikus templom hagyományos protestáns istentiszteleteket ápol, és a régió evangélikus közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.069016,
+                        6.813497
+                  ]
+            },
+            {
+                  "name": "Life Spring Church",
+                  "text": "Az Élet Forrása Gyülekezet a közösségben tartott modern keresztény dicsőítő rendezvényeiről és ifjúsági programjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.066062,
+                        6.813892
+                  ]
+            },
+            {
+                  "name": "B.V Seventh Day Adventist Church",
+                  "text": "A B.V. Hetednapi Adventista Egyház minden szombaton megtartja sabbat istentiszteletét, és egészségügyi oktatást is népszerűsít.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.060152,
+                        6.80191
+                  ]
+            },
+            {
+                  "name": "B.V Anglican Church",
+                  "text": "Az anglikán B.V. templom vasárnapi eucharisztia ünnepségeket kínál, és szorosan kötődik a régió brit gyarmati történelméhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.061092,
+                        6.80055
+                  ]
+            },
+            {
+                  "name": "St. Peter's Roman Catholic Church",
+                  "text": "A Szent Péter római katolikus templom misére gyűjti össze a híveket, és egy elkötelezett egyházközséggel ünnepli a szentségeket.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.0594,
+                        6.805044
+                  ]
+            },
+            {
+                  "name": "Bible Victory",
+                  "text": "A Bible Victory keresztény központ a Szentírás tanulmányozására és dinamikus imakörökre fókuszál.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.058942,
+                        6.81041
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "A Church of God meleg közösségi légkört és evangéliumi prédikációkat kínál a helyi lakosoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.02718,
+                        6.791759
+                  ]
+            },
+            {
+                  "name": "Friendship Methodist Church",
+                  "text": "A Friendship Metodista Templom egy hagyományos kápolna, ahol a falubeliek éneklésre és metodista liturgiára gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.021738,
+                        6.791944
+                  ]
+            },
+            {
+                  "name": "Mon Repos Market",
+                  "text": "A Mon Repos Piac egy nyüzsgő szabadtéri piac, ahol a kereskedők friss trópusi gyümölcsöket, zöldségeket és frissen fogott halat árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.05242,
+                        6.806445
+                  ]
+            },
+            {
+                  "name": "Lusignan Market",
+                  "text": "A lusignani piacon a helyiek friss mezőgazdasági termékekre és háztartási cikkekre alkudoznak az ideiglenes piaci standok alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.038689,
+                        6.798598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tube",
+                  "text": "Acest punct de belvedere situat lângă istoricul Chateau Margot oferă priveliști ample asupra fostelor plantații de trestie de zahăr din împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        -58.063312,
+                        6.814635
+                  ]
+            },
+            {
+                  "name": "Memem",
+                  "text": "Punctul de belvedere Memem permite vizitatorilor să admire peisajul vast din jurul granițelor istorice ale plantațiilor.",
+                  "category": "natural",
+                  "coords": [
+                        -58.060226,
+                        6.806315
+                  ]
+            },
+            {
+                  "name": "Navo",
+                  "text": "Monumentul Navo marchează un eveniment istoric local, completând moștenirea celebrului coș de fum Chateau Margot.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            },
+            {
+                  "name": "LBI Masjid",
+                  "text": "Moscheea LBI din satul La Bonne Intention găzduiește rugăciunile zilnice și adunările spirituale ale comunității islamice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.065455,
+                        6.807282
+                  ]
+            },
+            {
+                  "name": "LBI Hindu Temple",
+                  "text": "Templul hindus LBI prezintă altare tradiționale și oferă un spațiu pentru ritualuri colorate și festivaluri din sat.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.065254,
+                        6.808402
+                  ]
+            },
+            {
+                  "name": "Full-Life New Testament Church of God",
+                  "text": "Biserica Full-Life New Testament Church of God găzduiește slujbe penticostale pline de viață în regiunea de coastă a Guyanei.",
+                  "category": "religious",
+                  "coords": [
+                        -58.0535,
+                        6.806589
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "Această Sală a Regatului creștină oferă lecturi biblice și întâlniri comunitare pentru Martorii lui Iehova din districtul Chateau Margot.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.058097,
+                        6.802794
+                  ]
+            },
+            {
+                  "name": "Gopal Mandir",
+                  "text": "Gopal Mandir este dedicat venerării zeității hinduse Krishna și servește ca loc pentru cântări spirituale comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.039124,
+                        6.796374
+                  ]
+            },
+            {
+                  "name": "World Apolistic Church",
+                  "text": "Biserica Apostolică Mondială oficiază devoțiuni creștine și se implică în proiecte sociale de-a lungul coastei de est.",
+                  "category": "religious",
+                  "coords": [
+                        -58.013109,
+                        6.784537
+                  ]
+            },
+            {
+                  "name": "Lusignan Radha Krishna Mandir",
+                  "text": "Templul hindus Lusignan Radha Krishna Mandir este împodobit cu statui elaborate ale zeităților sale omonime și reprezintă un centru spiritual local.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.039148,
+                        6.801925
+                  ]
+            },
+            {
+                  "name": "St. Andrew Lutheran Church",
+                  "text": "Biserica Luterană Sfântul Andrei menține slujbe protestante tradiționale și deservește comunitatea luterană din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.069016,
+                        6.813497
+                  ]
+            },
+            {
+                  "name": "Life Spring Church",
+                  "text": "Biserica Life Spring este recunoscută în comunitate pentru evenimentele sale moderne de laudă creștină și programele pentru tineret.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.066062,
+                        6.813892
+                  ]
+            },
+            {
+                  "name": "B.V Seventh Day Adventist Church",
+                  "text": "Biserica Adventistă de Ziua a Șaptea B.V. își desfășoară slujbele de Sabat în fiecare sâmbătă și promovează educația pentru sănătate.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.060152,
+                        6.80191
+                  ]
+            },
+            {
+                  "name": "B.V Anglican Church",
+                  "text": "Biserica Anglicană B.V. oferă slujbe de euharistie duminicale și are rădăcini adânci în istoria colonială britanică a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.061092,
+                        6.80055
+                  ]
+            },
+            {
+                  "name": "St. Peter's Roman Catholic Church",
+                  "text": "Biserica Romano-Catolică Sfântul Petru adună credincioșii pentru slujbe și celebrează sacramentele alături de o parohie dedicată.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.0594,
+                        6.805044
+                  ]
+            },
+            {
+                  "name": "Bible Victory",
+                  "text": "Centrul creștin Bible Victory se concentrează pe studiul Sfintei Scripturi și pe cercuri dinamice de rugăciune.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.058942,
+                        6.81041
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "Biserica lui Dumnezeu (Church of God) oferă o atmosferă comunitară caldă, cu predici evanghelice pentru locuitori.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.02718,
+                        6.791759
+                  ]
+            },
+            {
+                  "name": "Friendship Methodist Church",
+                  "text": "Biserica Metodistă Friendship este o capelă tradițională unde sătenii se întâlnesc pentru cântări și liturghia metodistă.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.021738,
+                        6.791944
+                  ]
+            },
+            {
+                  "name": "Mon Repos Market",
+                  "text": "Piața Mon Repos este o piață animată în aer liber, unde comercianții vând fructe tropicale proaspete, legume și pește abia prins.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.05242,
+                        6.806445
+                  ]
+            },
+            {
+                  "name": "Lusignan Market",
+                  "text": "La Piața Lusignan, localnicii negociază pentru produse agricole proaspete și bunuri de uz casnic sub tarabele provizorii.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.038689,
+                        6.798598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tube",
+                  "text": "This elevated viewpoint near the historic Chateau Margot offers sweeping vistas over the surrounding former sugarcane plantations.",
+                  "category": "natural",
+                  "coords": [
+                        -58.063312,
+                        6.814635
+                  ]
+            },
+            {
+                  "name": "Memem",
+                  "text": "The Memem viewpoint allows visitors to take in a broad perspective of the landscape surrounding the historical plantation borders.",
+                  "category": "natural",
+                  "coords": [
+                        -58.060226,
+                        6.806315
+                  ]
+            },
+            {
+                  "name": "Navo",
+                  "text": "The Navo monument marks a local historical event, complementing the heritage of the well-known Chateau Margot chimney.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            },
+            {
+                  "name": "LBI Masjid",
+                  "text": "The LBI Masjid in the village of La Bonne Intention serves the local Islamic community for daily prayers and spiritual gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.065455,
+                        6.807282
+                  ]
+            },
+            {
+                  "name": "LBI Hindu Temple",
+                  "text": "The LBI Hindu Temple features traditional altars and provides a space for colorful rituals and village festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.065254,
+                        6.808402
+                  ]
+            },
+            {
+                  "name": "Full-Life New Testament Church of God",
+                  "text": "The Full-Life New Testament Church of God hosts vibrant Pentecostal worship services in the coastal region of Guyana.",
+                  "category": "religious",
+                  "coords": [
+                        -58.0535,
+                        6.806589
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall",
+                  "text": "This Christian Kingdom Hall provides Bible readings and community gatherings for Jehovah's Witnesses in the Chateau Margot district.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.058097,
+                        6.802794
+                  ]
+            },
+            {
+                  "name": "Gopal Mandir",
+                  "text": "The Gopal Mandir is dedicated to the worship of the Hindu deity Krishna and serves as a site for communal spiritual chanting.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.039124,
+                        6.796374
+                  ]
+            },
+            {
+                  "name": "World Apolistic Church",
+                  "text": "The World Apostolic Church conducts Christian devotions and engages in social outreach programs along the East Coast.",
+                  "category": "religious",
+                  "coords": [
+                        -58.013109,
+                        6.784537
+                  ]
+            },
+            {
+                  "name": "Lusignan Radha Krishna Mandir",
+                  "text": "The Lusignan Radha Krishna Mandir is adorned with elaborate statues of its namesake deities, forming a spiritual hub for local Hindus.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.039148,
+                        6.801925
+                  ]
+            },
+            {
+                  "name": "St. Andrew Lutheran Church",
+                  "text": "St. Andrew Lutheran Church maintains traditional Protestant services, ministering to the regional Lutheran congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.069016,
+                        6.813497
+                  ]
+            },
+            {
+                  "name": "Life Spring Church",
+                  "text": "The Life Spring Church is known in the community for its modern Christian worship events and youth programs.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.066062,
+                        6.813892
+                  ]
+            },
+            {
+                  "name": "B.V Seventh Day Adventist Church",
+                  "text": "The B.V. Seventh Day Adventist Church holds its Sabbath services every Saturday and actively promotes health education.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.060152,
+                        6.80191
+                  ]
+            },
+            {
+                  "name": "B.V Anglican Church",
+                  "text": "The B.V. Anglican Church offers Sunday Eucharist services and is deeply rooted in the region's British colonial history.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.061092,
+                        6.80055
+                  ]
+            },
+            {
+                  "name": "St. Peter's Roman Catholic Church",
+                  "text": "St. Peter's Roman Catholic Church gathers the faithful for Mass and celebrates the sacraments with a dedicated parish.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.0594,
+                        6.805044
+                  ]
+            },
+            {
+                  "name": "Bible Victory",
+                  "text": "The Bible Victory Christian center focuses closely on scriptural study and dynamic prayer circles.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.058942,
+                        6.81041
+                  ]
+            },
+            {
+                  "name": "Church of God",
+                  "text": "The Church of God provides a warm community atmosphere along with evangelical preaching for local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.02718,
+                        6.791759
+                  ]
+            },
+            {
+                  "name": "Friendship Methodist Church",
+                  "text": "The Friendship Methodist Church is a traditional chapel where villagers meet for hymn singing and Methodist liturgy.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.021738,
+                        6.791944
+                  ]
+            },
+            {
+                  "name": "Mon Repos Market",
+                  "text": "Mon Repos Market is a bustling open-air marketplace where vendors sell fresh tropical fruits, vegetables, and freshly caught fish.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.05242,
+                        6.806445
+                  ]
+            },
+            {
+                  "name": "Lusignan Market",
+                  "text": "At the Lusignan Market, locals barter for fresh agricultural produce and household goods under makeshift market stalls.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.038689,
+                        6.798598
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.0533, 6.7866],
@@ -596,7 +2765,124 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["La première pierre de l'église a été posée en 1811.", "Elle a été officiellement ouverte en 1818 en tant que lieu de culte presbytérien.", "Le bâtiment a été commencé à l'origine par les Hollandais.", "L'église autorisait l'accès aux esclaves avant 1834.", "C'est le plus ancien édifice religieux de Guyane utilisé en permanence.", "Elle est située sur l'historique Brickdam Road à Georgetown."],
     },
   }, {
-    id: "gy-mission-chapel-new-amsterdam-history-v2",
+    id: "gy-mission-chapel-new-amsterdam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "District #6 Stanley Town Base",
+                  "text": "Ein Aussichtspunkt in New Amsterdam mit Blick auf die Basis von Distrikt #6 im historischen Stanley Town.",
+                  "category": "natural",
+                  "coords": [
+                        -57.525696,
+                        6.230899
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "Eine christliche Kirche in New Amsterdam, die den Samstagssabbat nach den Lehren der Siebenten-Tags-Adventisten feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.521326,
+                        6.238752
+                  ]
+            },
+            {
+                  "name": "Ethiopian Orthodox Church",
+                  "text": "Eine orthodoxe christliche Kirche in New Amsterdam, die die reichen liturgischen Traditionen Äthiopiens widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.522349,
+                        6.236545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "District #6 Stanley Town Base",
+                  "text": "Egy kilátópont New Amsterdamban, amely a történelmi Stanley Town területén lévő 6-os körzet bázisára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -57.525696,
+                        6.230899
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "Egy keresztény templom New Amsterdamban, amely a hetednapi adventisták tanításait követve szombaton tartja a sabbatot.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.521326,
+                        6.238752
+                  ]
+            },
+            {
+                  "name": "Ethiopian Orthodox Church",
+                  "text": "Egy ortodox keresztény templom New Amsterdamban, amely Etiópia gazdag liturgikus hagyományait tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.522349,
+                        6.236545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "District #6 Stanley Town Base",
+                  "text": "Un punct de belvedere în New Amsterdam cu vedere la baza Districtului #6 din zona istorică Stanley Town.",
+                  "category": "natural",
+                  "coords": [
+                        -57.525696,
+                        6.230899
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "O biserică creștină din New Amsterdam care respectă Sabatul de sâmbătă urmând învățăturile Adventiștilor de Ziua a Șaptea.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.521326,
+                        6.238752
+                  ]
+            },
+            {
+                  "name": "Ethiopian Orthodox Church",
+                  "text": "O biserică creștină ortodoxă din New Amsterdam care reflectă bogatele tradiții liturgice ale Etiopiei.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.522349,
+                        6.236545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "District #6 Stanley Town Base",
+                  "text": "A viewpoint in New Amsterdam overlooking the District #6 base in the historic Stanley Town area.",
+                  "category": "natural",
+                  "coords": [
+                        -57.525696,
+                        6.230899
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist",
+                  "text": "A Christian church in New Amsterdam observing the Saturday Sabbath following Seventh-day Adventist teachings.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.521326,
+                        6.238752
+                  ]
+            },
+            {
+                  "name": "Ethiopian Orthodox Church",
+                  "text": "An Orthodox Christian church in New Amsterdam reflecting the rich liturgical traditions of Ethiopia.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.522349,
+                        6.236545
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-EB",
     coords: [-57.5186, 6.2422],
@@ -631,7 +2917,124 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["La chapelle a été fondée à l'origine en 1819 par John Wray.", "L'actuel bâtiment de l'église a été achevé en 1841.", "Elle appartient à la dénomination des congrégationalistes.", "Les missionnaires ont fait œuvre de pionniers dans l'éducation des esclaves.", "Le bâtiment est classé monument national du Guyana.", "Elle est située à New Amsterdam, la capitale de Berbice."],
     },
   }, {
-    id: "gy-non-aligned-monument-history-v2",
+    id: "gy-non-aligned-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Christian Missions",
+                  "text": "Ein Gebetsraum im Zentrum von Georgetown nahe den Monumenten der Blockfreien Staaten.",
+                  "category": "religious",
+                  "coords": [
+                        -58.160745,
+                        6.809694
+                  ]
+            },
+            {
+                  "name": "Alleyne A.M.E. Zion Church",
+                  "text": "Eine historische Kirche der African Methodist Episcopal Zion Church im Stadtzentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158868,
+                        6.809532
+                  ]
+            },
+            {
+                  "name": "Jesus Christ is the Lord",
+                  "text": "Eine christliche Mission im Herzen der Hauptstadt Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162775,
+                        6.810144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Christian Missions",
+                  "text": "Istentiszteleti hely Georgetown központjában, az El nem kötelezett országok emlékművei közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -58.160745,
+                        6.809694
+                  ]
+            },
+            {
+                  "name": "Alleyne A.M.E. Zion Church",
+                  "text": "Az Afrikai Metodista Episkopális Zion Egyház történelmi temploma a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158868,
+                        6.809532
+                  ]
+            },
+            {
+                  "name": "Jesus Christ is the Lord",
+                  "text": "Keresztény misszió a főváros, Georgetown szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162775,
+                        6.810144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Christian Missions",
+                  "text": "Un spațiu de cult în centrul Georgetown-ului, lângă monumentele Țărilor Nealiniate.",
+                  "category": "religious",
+                  "coords": [
+                        -58.160745,
+                        6.809694
+                  ]
+            },
+            {
+                  "name": "Alleyne A.M.E. Zion Church",
+                  "text": "O biserică istorică African Methodist Episcopal Zion în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158868,
+                        6.809532
+                  ]
+            },
+            {
+                  "name": "Jesus Christ is the Lord",
+                  "text": "O misiune creștină situată în inima capitalei Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162775,
+                        6.810144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Christian Mission Gospel Tabernacle",
+                  "text": "A worship space in central Georgetown near the Non-Aligned monuments.",
+                  "category": "religious",
+                  "coords": [
+                        -58.160745,
+                        6.809694
+                  ]
+            },
+            {
+                  "name": "Alleyne A.M.E. Zion Church",
+                  "text": "A historic African Methodist Episcopal Zion church in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.158868,
+                        6.809532
+                  ]
+            },
+            {
+                  "name": "Jesus Christ is the Lord",
+                  "text": "A Christian mission located in the heart of the capital city, Georgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.162775,
+                        6.810144
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1625, 6.8111],
@@ -666,7 +3069,52 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Érigé en 1972", "Conçu par Philip Moore", "Lieu : Non-Aligned Square, Georgetown", "Hauteur : environ 6 mètres", "Matériau : marbre noir", "Symbolise le non-alignement pendant la guerre froide"],
     },
   }, {
-    id: "gy-victoria-law-courts-history-v2",
+    id: "gy-victoria-law-courts-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathedral of Immaculate Conception",
+                  "text": "Die neugotische Brickdam-Kathedrale ist die bedeutendste katholische Kirche Guyanas und wurde komplett aus Backstein errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        -58.161998,
+                        6.807452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathedral of Immaculate Conception",
+                  "text": "A neogótikus Brickdam-székesegyház Guyana legjelentősebb katolikus temploma, amely teljesen téglából épült.",
+                  "category": "religious",
+                  "coords": [
+                        -58.161998,
+                        6.807452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathedral of Immaculate Conception",
+                  "text": "Catedrala neogotică Brickdam este cea mai importantă biserică catolică din Guyana și a fost construită în întregime din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        -58.161998,
+                        6.807452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathedral of Immaculate Conception",
+                  "text": "The neo-Gothic Brickdam Cathedral is Guyana's premier Catholic church, constructed entirely of brick.",
+                  "category": "religious",
+                  "coords": [
+                        -58.161998,
+                        6.807452
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1639, 6.8092],
@@ -701,7 +3149,88 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       fr: ["Ouvert en 1887", "Architecte : Joseph Hadfield", "Style architectural : Gothique victorien avec influences mauresques", "Lieu : Georgetown, Guyane", "Hauteur de la tour : env. 30 mètres", "Reconstruit après un incendie en 1886"],
     },
   }, {
-    id: "gy-african-liberation-monument-history-v2",
+    id: "gy-african-liberation-monument-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theater Guild",
+                  "text": "Ein historisches Theatergebäude, das als Zentrum für die darstellenden Künste und lokale Produktionen in Guyana gilt.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.160184,
+                        6.820146
+                  ]
+            },
+            {
+                  "name": "Eve Leary Sports Ground",
+                  "text": "Ein weitläufiger Sportplatz in der Nähe des Meeresdamms, der häufig für Cricket-Matches und Paraden genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        -58.159044,
+                        6.821874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theater Guild",
+                  "text": "Történelmi színházépület, amely a guyanai előadóművészet és a helyi produkciók központjaként ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.160184,
+                        6.820146
+                  ]
+            },
+            {
+                  "name": "Eve Leary Sports Ground",
+                  "text": "Tágas sportpálya a tengerparti gát közelében, amelyet gyakran használnak krikettmérkőzésekre és parádékra.",
+                  "category": "park",
+                  "coords": [
+                        -58.159044,
+                        6.821874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theater Guild",
+                  "text": "O clădire istorică de teatru, considerată un centru pentru artele spectacolului și producțiile locale din Guyana.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.160184,
+                        6.820146
+                  ]
+            },
+            {
+                  "name": "Eve Leary Sports Ground",
+                  "text": "Un teren de sport spațios lângă digul de la mare, utilizat frecvent pentru meciuri de cricket și parade.",
+                  "category": "park",
+                  "coords": [
+                        -58.159044,
+                        6.821874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theater Guild",
+                  "text": "A historic theatre building regarded as a hub for performing arts and local productions in Guyana.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.160184,
+                        6.820146
+                  ]
+            },
+            {
+                  "name": "Eve Leary Sports Ground",
+                  "text": "A spacious sports ground near the seawall, frequently used for cricket matches and parades.",
+                  "category": "park",
+                  "coords": [
+                        -58.159044,
+                        6.821874
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GY-DE",
     coords: [-58.1588, 6.8222],

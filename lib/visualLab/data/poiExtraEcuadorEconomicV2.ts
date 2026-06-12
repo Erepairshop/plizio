@@ -3,7 +3,376 @@ import type { POI } from "./poi";
 
 export const poiExtraEcuadorEconomicV2: POI[] = [
   {
-    id: "refineria-esmeraldas-economic-v2",
+    id: "refineria-esmeraldas-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento al Pescador Artesanal",
+                  "text": "Skulptur in Esmeraldas, die das traditionelle Erbe der lokalen Fischer feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -79.653595,
+                        0.982784
+                  ]
+            },
+            {
+                  "name": "Balneario Las Palmas",
+                  "text": "Stadtstrand in Esmeraldas mit einer modernen Promenade, Geschäften und Restaurants.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.664385,
+                        0.988958
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Pedro y San Pablo",
+                  "text": "Kleine katholische Kapelle, die den Bewohnern des Hafenviertels von Esmeraldas dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.656069,
+                        0.986377
+                  ]
+            },
+            {
+                  "name": "El Redentor",
+                  "text": "Eine religiöse Stätte in Esmeraldas mit einer Christusstatue, die über das Gebiet wacht.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.654304,
+                        0.989022
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima",
+                  "text": "Lokale katholische Kirche in einem Wohnviertel der Stadt Esmeraldas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.657271,
+                        0.988561
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen de Guadalupe",
+                  "text": "Kleine Kapelle in Esmeraldas, die der Jungfrau von Guadalupe gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.659537,
+                        0.986279
+                  ]
+            },
+            {
+                  "name": "Catedral Católica Cristo Rey | Esmeraldas",
+                  "text": "Hauptkathedrale der Diözese Esmeraldas, bekannt für ihre markante moderne Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655924,
+                        0.97604
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Königreichssaal der Zeugen Jehovas auf einem Hügel mit Blick auf den Ozean.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655748,
+                        0.977014
+                  ]
+            },
+            {
+                  "name": "Creciendo en Gracia",
+                  "text": "Ein christliches Anbetungszentrum in der Stadt Esmeraldas für die örtliche Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655916,
+                        0.982668
+                  ]
+            },
+            {
+                  "name": "Capilla Católica La Dolorosa",
+                  "text": "Kleine religiöse Kapelle in Esmeraldas, die der Schmerzensmutter gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.659331,
+                        0.978289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento al Pescador Artesanal",
+                  "text": "Szobor Esmeraldasban, amely a helyi halászok hagyományos öröksége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -79.653595,
+                        0.982784
+                  ]
+            },
+            {
+                  "name": "Balneario Las Palmas",
+                  "text": "Városi strand Esmeraldasban, modern sétánnyal, üzletekkel és éttermekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.664385,
+                        0.988958
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Pedro y San Pablo",
+                  "text": "Kis katolikus kápolna, amely Esmeraldas kikötői negyedének lakóit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.656069,
+                        0.986377
+                  ]
+            },
+            {
+                  "name": "El Redentor",
+                  "text": "Vallási helyszín Esmeraldasban, egy Krisztus-szoborral, amely a környékre tekint.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.654304,
+                        0.989022
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima",
+                  "text": "Helyi katolikus templom Esmeraldas városának egyik lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.657271,
+                        0.988561
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen de Guadalupe",
+                  "text": "Kisméretű kápolna Esmeraldasban, amelyet a Guadalupe-i Szűz tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.659537,
+                        0.986279
+                  ]
+            },
+            {
+                  "name": "Catedral Católica Cristo Rey | Esmeraldas",
+                  "text": "Az Esmeraldas-i egyházmegye főszékesegyháza, amely modern építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655924,
+                        0.97604
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi királyságterme egy dombon, kilátással az óceánra.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655748,
+                        0.977014
+                  ]
+            },
+            {
+                  "name": "Creciendo en Gracia",
+                  "text": "Keresztény istentiszteleti központ Esmeraldas városában a helyi közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655916,
+                        0.982668
+                  ]
+            },
+            {
+                  "name": "Capilla Católica La Dolorosa",
+                  "text": "Kisméretű vallási kápolna Esmeraldasban, amelyet a Fájdalmas Szűzanyának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.659331,
+                        0.978289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento al Pescador Artesanal",
+                  "text": "Sculptură în Esmeraldas care celebrează moștenirea tradițională a pescarilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        -79.653595,
+                        0.982784
+                  ]
+            },
+            {
+                  "name": "Balneario Las Palmas",
+                  "text": "Plajă urbană în Esmeraldas, cu o faleză modernă, magazine și restaurante.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.664385,
+                        0.988958
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Pedro y San Pablo",
+                  "text": "Mică capelă catolică ce deservește districtul portuar din Esmeraldas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.656069,
+                        0.986377
+                  ]
+            },
+            {
+                  "name": "El Redentor",
+                  "text": "Un sit religios în Esmeraldas, având o statuie a lui Hristos care veghează asupra zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.654304,
+                        0.989022
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima",
+                  "text": "Biserică catolică locală situată într-un cartier rezidențial din orașul Esmeraldas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.657271,
+                        0.988561
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen de Guadalupe",
+                  "text": "Mică capelă în Esmeraldas dedicată Fecioarei de Guadalupe.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.659537,
+                        0.986279
+                  ]
+            },
+            {
+                  "name": "Catedral Católica Cristo Rey | Esmeraldas",
+                  "text": "Catedrala principală a diecezei de Esmeraldas, cunoscută pentru arhitectura sa modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655924,
+                        0.97604
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Sală a Regatului a Martorilor lui Iehova situată pe un deal cu vedere la ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655748,
+                        0.977014
+                  ]
+            },
+            {
+                  "name": "Creciendo en Gracia",
+                  "text": "Centru de cult creștin în orașul Esmeraldas pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655916,
+                        0.982668
+                  ]
+            },
+            {
+                  "name": "Capilla Católica La Dolorosa",
+                  "text": "Mică capelă religioasă în Esmeraldas dedicată Maicii Îndurerate.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.659331,
+                        0.978289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento al Pescador Artesanal",
+                  "text": "Sculpture in Esmeraldas celebrating the traditional fishing heritage of the local fishermen.",
+                  "category": "historical",
+                  "coords": [
+                        -79.653595,
+                        0.982784
+                  ]
+            },
+            {
+                  "name": "Balneario Las Palmas",
+                  "text": "Urban beach in Esmeraldas featuring a modern boardwalk with shops and restaurants.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.664385,
+                        0.988958
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Pedro y San Pablo",
+                  "text": "Small Catholic chapel serving the port district of Esmeraldas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.656069,
+                        0.986377
+                  ]
+            },
+            {
+                  "name": "El Redentor",
+                  "text": "A religious site in Esmeraldas featuring a statue of Christ overlooking the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.654304,
+                        0.989022
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima",
+                  "text": "Local Catholic church located in a residential neighborhood of Esmeraldas city.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.657271,
+                        0.988561
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen de Guadalupe",
+                  "text": "Small chapel in Esmeraldas dedicated to the Virgin of Guadalupe.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.659537,
+                        0.986279
+                  ]
+            },
+            {
+                  "name": "Catedral Católica Cristo Rey | Esmeraldas",
+                  "text": "Main cathedral of the diocese of Esmeraldas, known for its modern architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655924,
+                        0.97604
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, Vista al Mar",
+                  "text": "Kingdom Hall of Jehovah's Witnesses situated on a hill with ocean views.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655748,
+                        0.977014
+                  ]
+            },
+            {
+                  "name": "Creciendo en Gracia",
+                  "text": "Christian worship center in Esmeraldas city for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.655916,
+                        0.982668
+                  ]
+            },
+            {
+                  "name": "Capilla Católica La Dolorosa",
+                  "text": "Small religious chapel in Esmeraldas dedicated to Our Lady of Sorrows.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.659331,
+                        0.978289
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-E",
     coords: [-79.658, 0.985],
@@ -51,7 +420,1348 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "puerto-de-manta-economic-v2",
+    id: "puerto-de-manta-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Murciélago",
+                  "text": "El Murciélago ist ein beliebter Sandstrand, der für seine lange Küstenpromenade und die angrenzenden Fischrestaurants bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728092,
+                        -0.938104
+                  ]
+            },
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "Das Museo del Banco Central stellt präkolumbianische Artefakte und historische Keramiken aus der ecuadorianischen Küstenregion aus.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Dieses ethnografische Museum bewahrt kulturelle Gegenstände auf, die den Alltag der historischen Cancebí-Kultur dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Das Museo del Mar widmet sich der maritimen Biodiversität und den tief verwurzelten Fischereitraditionen des Pazifischen Ozeans.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709491,
+                        -0.951231
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Dieses Kulturzentrum mit Museum präsentiert historische Exponate und moderne Kunstwerke, die Mantas städtische Entwicklung widerspiegeln.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730417,
+                        -0.941874
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Dieses im Jahr 2020 eingeweihte Denkmal ehrt den mutigen Einsatz der städtischen Feuerwehr von Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Al Pescador",
+                  "text": "Dieses öffentliche Denkmal ist den hart arbeitenden lokalen Fischern gewidmet, die die maritime Wirtschaft der Stadt stützen.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Dieses Denkmal aus dem Jahr 2012 erinnert an das Vermächtnis des einflussreichen ecuadorianischen Politikers Eloy Alfaro Delgado.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera ist ein unabhängiger Theatersaal, in dem zeitgenössische dramatische Aufführungen der lokalen Theaterszene stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743467,
+                        -0.946053
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista de Manta",
+                  "text": "Diese Johannes dem Täufer geweihte katholische Kirche ist ein zentraler Anlaufpunkt für die Gläubigen in Manta.",
+                  "category": "religious",
+                  "coords": [
+                        -80.760525,
+                        -0.998201
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuesta Señora de la Esperanza",
+                  "text": "Die Kirche Nuestra Señora de la Esperanza bietet in ihrem traditionellen Kirchenschiff regelmäßige katholische Messen an.",
+                  "category": "religious",
+                  "coords": [
+                        -80.725846,
+                        -0.971666
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo SUD",
+                  "text": "Dieses Gotteshaus der Kirche Jesu Christi der Heiligen der Letzten Tage dient als modernes Versammlungszentrum für die örtliche Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -80.712383,
+                        -0.960123
+                  ]
+            },
+            {
+                  "name": "Mercado Central Municipal",
+                  "text": "Der Mercado Central Municipal ist eine belebte, städtische Markthalle, die ein breites Sortiment an frischen Lebensmitteln und Haushaltswaren führt.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.726142,
+                        -0.949379
+                  ]
+            },
+            {
+                  "name": "Mercado Minorista de Mariscos Asociación Playita Mía",
+                  "text": "Dieser direkt am Wasser gelegene Fischmarkt der Asociación Playita Mía ist auf den Einzelhandel mit fangfrischen Meeresfrüchten spezialisiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.709019,
+                        -0.9502
+                  ]
+            },
+            {
+                  "name": "Mercado los Esteros",
+                  "text": "Der Mercado los Esteros ist ein lokaler Markt, an dessen Ständen frisches Gemüse, Fleisch und Alltagswaren feilgeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.70721,
+                        -0.952638
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz ist eine markante städtische Lichtinstallation, die das Stadtbild am Abend visuell bereichert.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.947039
+                  ]
+            },
+            {
+                  "name": "Letras de Manta",
+                  "text": "Dieses Wahrzeichen besteht aus großen bunten Buchstaben, die den Namen Manta bilden und als beliebtes Fotomotiv am Strand dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Salvación",
+                  "text": "Die Iglesia Fuente de Salvación ist eine christliche Andachtsstätte, die sich auf gemeinschaftliche Gebets- und Gottesdienste konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728691,
+                        -0.946815
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Martín de Porres",
+                  "text": "Diese katholische Kirche ist San Martín de Porres gewidmet und feiert wöchentlich Messen für die umliegenden Küstenviertel.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.714975,
+                        -0.962101
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís",
+                  "text": "Die katholische Kirche San Francisco de Asís ist ein sakrales Gebäude, in dem die christliche Gemeinde zu den Sakramenten zusammenkommt.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728156,
+                        -0.961154
+                  ]
+            },
+            {
+                  "name": "Capilla auxiliar La Dolorosa",
+                  "text": "Die Capilla auxiliar La Dolorosa ist eine kleine christliche Hilfskapelle für persönliche Gebete in einem ruhigen Wohngebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728126,
+                        -0.952493
+                  ]
+            },
+            {
+                  "name": "Sede Bahá'í",
+                  "text": "Die Sede Bahá'í fungiert als lokales Begegnungszentrum für das Studium der Bahá'í-Schriften und gemeinschaftliche Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.724823,
+                        -0.94724
+                  ]
+            },
+            {
+                  "name": "Jesus es el Señor Universal",
+                  "text": "In diesem christlichen Zentrum versammeln sich die Gemeindemitglieder zu modernen Lobpreis- und Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.732605,
+                        -0.947904
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Die Iglesia de Dios ist eine freikirchliche Gemeinde, die in ihrem Kirchenraum regelmäßige Predigten und Bibelabende abhält.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.724125,
+                        -0.943883
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús | Manta",
+                  "text": "Diese katholische Kirche in Manta ist dem Heiligsten Herzen Jesu geweiht und dient als lokales Gotteshaus.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.759585,
+                        -0.964685
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo Resucitado",
+                  "text": "Diese dem auferstandenen Christus geweihte katholische Kirche bietet der Gemeinde in Manta einen Ort des Gebets.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.73923,
+                        -0.958173
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Martha",
+                  "text": "Diese nach der heiligen Martha benannte katholische Kultstätte ist ein aktiver religiöser Ort in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.735202,
+                        -0.959089
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de la Sagrada Familia",
+                  "text": "Diese der Heiligen Familie geweihte katholische Kirche in Manta versammelt die lokalen Gläubigen zu regelmäßigen Gottesdiensten.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.721224,
+                        -0.956488
+                  ]
+            },
+            {
+                  "name": "ACYM Cristo El Salvador",
+                  "text": "Diese Kirche in Manta, die zur Christlichen und Missionarischen Allianz gehört, konzentriert sich auf die Lehren von Christus dem Erlöser.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.715079,
+                        -0.956399
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Rosario",
+                  "text": "Diese katholische Kirche in Manta ist Unserer Lieben Frau vom Rosenkranz geweiht und fungiert als spirituelles Zentrum des Viertels.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.712693,
+                        -0.953079
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica La Merced - PP. Jesuitas",
+                  "text": "Diese vom Jesuitenorden verwaltete katholische Kirche in Manta ehrt die Barmherzige Jungfrau Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.723975,
+                        -0.946082
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Perpetuo Socorro",
+                  "text": "Diese der Mutter von der Immerwährenden Hilfe geweihte katholische Kirche unterstützt das religiöse Leben der Einwohner von Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.736509,
+                        -0.942869
+                  ]
+            },
+            {
+                  "name": "Ministerios Hay Vida en Jesús",
+                  "text": "Dieser evangelikale christliche Dienst in Manta bietet der Gemeinde einen lebendigen Raum, der sich auf die Botschaft vom Leben in Jesus konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.734728,
+                        -0.945118
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Als Gemeindehaus der Heiligen der Letzten Tage in Manta beherbergt diese Kirche Sonntagsgottesdienste und Gemeindeaktivitäten für die lokale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.730986,
+                        -0.944766
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Carmen",
+                  "text": "Diese kleine katholische Kapelle ist der Jungfrau vom Karmel geweiht und bietet einen ruhigen Ort zum Beten in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729762,
+                        -0.943475
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Marianita",
+                  "text": "Diese katholische Kirche zu Ehren der heiligen Marianita ist ein zentraler Anlaufpunkt für die gläubige Gemeinde in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729783,
+                        -0.946836
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Cristo es la Respuesta",
+                  "text": "Diese biblische christliche Kirche in Manta fördert biblische Lehren durch regelmäßige gemeinsame Gottesdienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.731027,
+                        -0.948102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Murciélago",
+                  "text": "Az El Murciélago egy népszerű homokos tengerpart, amely hosszú parti sétányáról és a közeli tengeri éttermekről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728092,
+                        -0.938104
+                  ]
+            },
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "A Museo del Banco Central prekolumbiánus tárgyakat és történelmi kerámiákat állít ki az ecuadori partvidékről.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Ez az néprajzi múzeum olyan kulturális tárgyakat őriz, amelyek a történelmi Cancebí kultúra mindennapjait dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "A Museo del Mar a tengeri biológiai sokféleségnek és a Csendes-óceán mélyen gyökerező halászati hagyományainak szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709491,
+                        -0.951231
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Ez a múzeummal egybekötött kulturális központ történelmi kiállítási tárgyakat és modern művészeti alkotásokat mutat be Manta fejlődéséről.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730417,
+                        -0.941874
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Ezt a 2020-ban felavatott emlékművet a mantai városi tűzoltóság bátor munkájának tiszteletére emelték.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Al Pescador",
+                  "text": "Ezt a köztéri emlékművet a keményen dolgozó helyi halászoknak szentelték, akik a város tengeri gazdaságát fenntartják.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Ez a 2012-ben emelt emlékmű Eloy Alfaro Delgado befolyásos ecuadori politikus örökségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "A La Trinchera egy független színházterem, ahol a helyi társulatok kortárs drámai előadásait láthatja a közönség.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743467,
+                        -0.946053
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista de Manta",
+                  "text": "A Keresztelő Jánosnak szentelt katolikus templom a hívők központi találkozóhelye Mantában.",
+                  "category": "religious",
+                  "coords": [
+                        -80.760525,
+                        -0.998201
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuesta Señora de la Esperanza",
+                  "text": "A Nuestra Señora de la Esperanza templom hagyományos hajójában rendszeres katolikus miséket tartanak.",
+                  "category": "religious",
+                  "coords": [
+                        -80.725846,
+                        -0.971666
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo SUD",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának ezen épülete modern gyülekezeti központként szolgál a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -80.712383,
+                        -0.960123
+                  ]
+            },
+            {
+                  "name": "Mercado Central Municipal",
+                  "text": "A Mercado Central Municipal egy nyüzsgő városi piaccsarnok, amely friss élelmiszerek és háztartási cikkek széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.726142,
+                        -0.949379
+                  ]
+            },
+            {
+                  "name": "Mercado Minorista de Mariscos Asociación Playita Mía",
+                  "text": "Az Asociación Playita Mía közvetlenül a vízparton található halpiaca a frissen fogott tenger gyümölcseinek kiskereskedelmére szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.709019,
+                        -0.9502
+                  ]
+            },
+            {
+                  "name": "Mercado los Esteros",
+                  "text": "A Mercado los Esteros egy helyi piac, ahol a standokon friss zöldségeket, húst és mindennapi cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.70721,
+                        -0.952638
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "A Haz de Luz egy feltűnő városi fényinstalláció, amely az esti órákban vizuálisan gazdagítja a városképet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.947039
+                  ]
+            },
+            {
+                  "name": "Letras de Manta",
+                  "text": "Ez a nagy, színes betűkből álló Manta felirat népszerű fotózási helyszínként szolgál a tengerpart közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Salvación",
+                  "text": "Az Iglesia Fuente de Salvación egy keresztény imaház, amely közös imákra és istentiszteletekre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728691,
+                        -0.946815
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Martín de Porres",
+                  "text": "A San Martín de Porresnek szentelt katolikus templomban hetente tartanak miséket a környező part menti negyedek lakói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.714975,
+                        -0.962101
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís",
+                  "text": "A San Francisco de Asís katolikus templom egy szakrális épület, ahol a keresztény közösség a szentségek vételére gyűlik össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728156,
+                        -0.961154
+                  ]
+            },
+            {
+                  "name": "Capilla auxiliar La Dolorosa",
+                  "text": "A Capilla auxiliar La Dolorosa egy kis keresztény segédkápolna a személyes imákhoz egy csendes lakónegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728126,
+                        -0.952493
+                  ]
+            },
+            {
+                  "name": "Sede Bahá'í",
+                  "text": "A Sede Bahá'í helyi találkozási központként szolgál a bahá'í írások tanulmányozásához és közös áhítatokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.724823,
+                        -0.94724
+                  ]
+            },
+            {
+                  "name": "Jesus es el Señor Universal",
+                  "text": "Ebben a keresztény központban a gyülekezet tagjai modern dicsőítésekre és istentiszteletekre gyűlnek össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.732605,
+                        -0.947904
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Az Iglesia de Dios egy szabadegyházi közösség, amely rendszeres prédikációkat és bibliaórákat tart a templomterében.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.724125,
+                        -0.943883
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús | Manta",
+                  "text": "Ezt a mantai katolikus templomot Jézus Szent Szívének szentelték, és helyi istentiszteleti helyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.759585,
+                        -0.964685
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo Resucitado",
+                  "text": "A Feltámadt Krisztusnak szentelt katolikus templom imádságos helyet biztosít a mantai közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.73923,
+                        -0.958173
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Martha",
+                  "text": "A Szent Márta nevét viselő katolikus istentiszteleti hely egy aktív vallási központ Mantában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.735202,
+                        -0.959089
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de la Sagrada Familia",
+                  "text": "A Szent Családnak szentelt mantai katolikus templom rendszeres istentiszteletekre gyűjti össze a helyi híveket.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.721224,
+                        -0.956488
+                  ]
+            },
+            {
+                  "name": "ACYM Cristo El Salvador",
+                  "text": "A Keresztény és Misszionárius Szövetséghez tartozó mantai templom a Megváltó Krisztus tanításaira összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.715079,
+                        -0.956399
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Rosario",
+                  "text": "A Rózsafüzér Királynőjének szentelt mantai katolikus templom a környék spirituális központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.712693,
+                        -0.953079
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica La Merced - PP. Jesuitas",
+                  "text": "A jezsuita rend által fenntartott mantai katolikus templom az Irgalmas Szűzanyát tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.723975,
+                        -0.946082
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Perpetuo Socorro",
+                  "text": "A Mindenkor Segítő Szűz Máriának szentelt katolikus templom Manta lakóinak vallási életét támogatja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.736509,
+                        -0.942869
+                  ]
+            },
+            {
+                  "name": "Ministerios Hay Vida en Jesús",
+                  "text": "Ez a mantai evangéliumi keresztény szolgálat élénk gyülekezeti teret biztosít, amely a Jézusban való élet üzenetére épül.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.734728,
+                        -0.945118
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek mantai gyülekezeti házaként ez a templom vasárnapi istentiszteleteknek és közösségi tevékenységeknek ad otthont a helyi egyházközség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.730986,
+                        -0.944766
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Carmen",
+                  "text": "A Kármelhegyi Boldogasszonynak szentelt kis katolikus kápolna csendes helyet kínál az imádságra Mantában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729762,
+                        -0.943475
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Marianita",
+                  "text": "A Szent Marianita tiszteletére emelt katolikus templom a mantai hívő közösség fókuszpontjaként áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729783,
+                        -0.946836
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Cristo es la Respuesta",
+                  "text": "Ez a bibliai keresztény egyház Mantában rendszeres közösségi istentiszteleteken keresztül hirdeti a szentírási tanításokat.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.731027,
+                        -0.948102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Murciélago",
+                  "text": "El Murciélago este o plajă populară de nisip, renumită pentru promenada sa de coastă și restaurantele cu specific pescăresc.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728092,
+                        -0.938104
+                  ]
+            },
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "Museo del Banco Central expune artefacte precolumbiene și ceramică istorică din regiunea de coastă a Ecuadorului.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Acest muzeu etnografic conservă obiecte culturale care documentează viața de zi cu zi a culturii istorice Cancebí.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Museo del Mar este dedicat biodiversității marine și tradițiilor de pescuit adânc înrădăcinate la Oceanul Pacific.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709491,
+                        -0.951231
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Acest centru cultural și muzeu prezintă exponate istorice și opere de artă modernă care reflectă dezvoltarea urbană a orașului Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730417,
+                        -0.941874
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Inaugurat în 2020, acest monument onorează eforturile curajoase ale departamentului de pompieri din Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Al Pescador",
+                  "text": "Acest monument public este dedicat pescarilor locali muncitori care susțin economia maritimă a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Acest monument din 2012 comemorează moștenirea influentului lider politic ecuadorian Eloy Alfaro Delgado.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera este o sală de teatru independentă care găzduiește spectacole dramatice contemporane ale scenei locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743467,
+                        -0.946053
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista de Manta",
+                  "text": "Această biserică catolică dedicată Sfântului Ioan Botezătorul este un loc central de cult pentru credincioșii din Manta.",
+                  "category": "religious",
+                  "coords": [
+                        -80.760525,
+                        -0.998201
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuesta Señora de la Esperanza",
+                  "text": "Biserica Nuestra Señora de la Esperanza oferă slujbe catolice regulate în nava sa tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -80.725846,
+                        -0.971666
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo SUD",
+                  "text": "Această Biserică a lui Isus Hristos a Sfinților din Zilele din Urmă servește drept centru modern de întâlnire pentru congregația locală.",
+                  "category": "religious",
+                  "coords": [
+                        -80.712383,
+                        -0.960123
+                  ]
+            },
+            {
+                  "name": "Mercado Central Municipal",
+                  "text": "Mercado Central Municipal este o piață urbană aglomerată, oferind o gamă largă de alimente proaspete și bunuri de uz casnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.726142,
+                        -0.949379
+                  ]
+            },
+            {
+                  "name": "Mercado Minorista de Mariscos Asociación Playita Mía",
+                  "text": "Această piață de pește pe malul apei aparținând Asociación Playita Mía este specializată în vânzarea cu amănuntul a fructelor de mare proaspăt prinse.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.709019,
+                        -0.9502
+                  ]
+            },
+            {
+                  "name": "Mercado los Esteros",
+                  "text": "Mercado los Esteros este o piață locală cu tarabe care vând legume proaspete, carne și articole de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.70721,
+                        -0.952638
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz este o instalație luminoasă urbană impresionantă care îmbogățește vizual peisajul orașului seara.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.947039
+                  ]
+            },
+            {
+                  "name": "Letras de Manta",
+                  "text": "Acest punct de reper format din litere mari și colorate ce compun cuvântul Manta este un loc popular pentru fotografii lângă plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Salvación",
+                  "text": "Iglesia Fuente de Salvación este un lăcaș de cult creștin axat pe rugăciuni comunitare și slujbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728691,
+                        -0.946815
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Martín de Porres",
+                  "text": "Această biserică catolică este dedicată lui San Martín de Porres și oficiază liturghii săptămânale pentru cartierele de coastă înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.714975,
+                        -0.962101
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís",
+                  "text": "Biserica catolică San Francisco de Asís este o clădire sacră unde comunitatea creștină se adună pentru sacramente.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728156,
+                        -0.961154
+                  ]
+            },
+            {
+                  "name": "Capilla auxiliar La Dolorosa",
+                  "text": "Capilla auxiliar La Dolorosa este o mică capelă creștină auxiliară pentru rugăciuni personale într-o zonă rezidențială liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728126,
+                        -0.952493
+                  ]
+            },
+            {
+                  "name": "Sede Bahá'í",
+                  "text": "Sede Bahá'í funcționează ca un centru local de întâlnire pentru studiul scrierilor Bahá'í și devoțiuni comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.724823,
+                        -0.94724
+                  ]
+            },
+            {
+                  "name": "Jesus es el Señor Universal",
+                  "text": "În acest centru creștin, membrii congregației se adună pentru slujbe moderne de laudă și închinare.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.732605,
+                        -0.947904
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Iglesia de Dios este o congregație evanghelică care organizează predici și seri biblice regulate în sala sa de cult.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.724125,
+                        -0.943883
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús | Manta",
+                  "text": "Această biserică catolică din Manta este închinată Preasfintei Inimi a lui Isus și servește ca lăcaș de cult local.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.759585,
+                        -0.964685
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo Resucitado",
+                  "text": "Închinată lui Hristos Înviat, această biserică catolică oferă un loc de rugăciune pentru comunitatea din Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.73923,
+                        -0.958173
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Martha",
+                  "text": "Purtând numele Sfintei Marta, acest lăcaș de cult catolic este un sit religios activ din Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.735202,
+                        -0.959089
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de la Sagrada Familia",
+                  "text": "Consacrată Sfintei Familii, această biserică catolică din Manta adună credincioșii locali pentru slujbe regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.721224,
+                        -0.956488
+                  ]
+            },
+            {
+                  "name": "ACYM Cristo El Salvador",
+                  "text": "Funcționând sub Alianța Creștină și Misionară, această biserică din Manta se concentrează pe învățăturile lui Hristos Mântuitorul.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.715079,
+                        -0.956399
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Rosario",
+                  "text": "Această biserică catolică din Manta este dedicată Maicii Domnului a Rozariului, funcționând ca centru spiritual al cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.712693,
+                        -0.953079
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica La Merced - PP. Jesuitas",
+                  "text": "Administrată de ordinul iezuit, această biserică catolică din Manta o onorează pe Maica Domnului a Îndurării.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.723975,
+                        -0.946082
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Perpetuo Socorro",
+                  "text": "Dedicată Maicii Domnului a Ajutorului Perpetuu, această biserică catolică sprijină viața religioasă a locuitorilor din Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.736509,
+                        -0.942869
+                  ]
+            },
+            {
+                  "name": "Ministerios Hay Vida en Jesús",
+                  "text": "Această lucrare creștină evanghelică din Manta oferă un spațiu de congregație plin de viață centrat pe mesajul vieții în Isus.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.734728,
+                        -0.945118
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ca o casă de întruniri a Sfinților din Zilele din Urmă din Manta, această biserică găzduiește slujbe duminicale și activități comunitare pentru parohia locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.730986,
+                        -0.944766
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Carmen",
+                  "text": "Închinată Fecioarei de pe Muntele Carmel, această mică capelă catolică oferă un loc liniștit pentru rugăciune în Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729762,
+                        -0.943475
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Marianita",
+                  "text": "Onorând-o pe Sfânta Marianita, această biserică catolică se înalță ca un punct central pentru comunitatea de credincioși din Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729783,
+                        -0.946836
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Cristo es la Respuesta",
+                  "text": "Această biserică creștină biblică din Manta promovează învățăturile scripturale prin sesiuni regulate de închinare comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.731027,
+                        -0.948102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Murcielago",
+                  "text": "El Murciélago is a popular sandy beach known for its long coastal walkway and adjacent seafood restaurants.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728092,
+                        -0.938104
+                  ]
+            },
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "The Museo del Banco Central exhibits pre-Columbian artifacts and historical ceramics from the Ecuadorian coastal region.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "This ethnographic museum preserves cultural artifacts documenting the daily life of the historical Cancebí people.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Museo del Mar is dedicated to the marine biodiversity and deep-rooted fishing traditions of the Pacific Ocean.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709491,
+                        -0.951231
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "This cultural center and museum presents historical exhibits and modern artworks reflecting Manta's urban development.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730417,
+                        -0.941874
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Unveiled in 2020, this monument honors the courageous service of the Manta municipal fire department.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "To the fisherman",
+                  "text": "This public monument is dedicated to the hardworking local fishermen who sustain the city's maritime economy.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Dating back to 2012, this monument commemorates the legacy of the influential Ecuadorian political leader Eloy Alfaro Delgado.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera is an independent theatre space hosting contemporary dramatic performances from the local arts scene.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743467,
+                        -0.946053
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista de Manta",
+                  "text": "This Catholic church dedicated to John the Baptist is a central place of worship for the faithful in Manta.",
+                  "category": "religious",
+                  "coords": [
+                        -80.760525,
+                        -0.998201
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuesta Señora de la Esperanza",
+                  "text": "The church of Nuestra Señora de la Esperanza offers regular Catholic masses within its traditional nave.",
+                  "category": "religious",
+                  "coords": [
+                        -80.725846,
+                        -0.971666
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo SUD",
+                  "text": "This Church of Jesus Christ of Latter-day Saints meetinghouse provides a modern facility for the local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -80.712383,
+                        -0.960123
+                  ]
+            },
+            {
+                  "name": "Mercado Central Municipal",
+                  "text": "The Mercado Central Municipal is a busy urban market hall offering a wide array of fresh foods and household goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.726142,
+                        -0.949379
+                  ]
+            },
+            {
+                  "name": "Mercado Minorista de Mariscos Asociación Playita Mía",
+                  "text": "Located on the waterfront, this seafood market by Asociación Playita Mía specializes in the retail of freshly caught fish.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.709019,
+                        -0.9502
+                  ]
+            },
+            {
+                  "name": "Mercado los Esteros",
+                  "text": "Mercado los Esteros is a local marketplace where stalls offer fresh vegetables, meat, and everyday commodities.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.70721,
+                        -0.952638
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz is a prominent urban light installation that visually enhances the cityscape during the evening.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.947039
+                  ]
+            },
+            {
+                  "name": "Manta Sign",
+                  "text": "Composed of large colourful letters spelling Manta, this landmark serves as a popular photo spot near the beach.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Iglesia Fuente de Salvación",
+                  "text": "Iglesia Fuente de Salvación is a Christian sanctuary focused on communal prayer and worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728691,
+                        -0.946815
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Martín de Porres",
+                  "text": "Dedicated to San Martín de Porres, this Catholic church holds weekly masses for the surrounding coastal neighbourhoods.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.714975,
+                        -0.962101
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís",
+                  "text": "The Catholic church of San Francisco de Asís is a sacred building where the Christian community gathers for the sacraments.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728156,
+                        -0.961154
+                  ]
+            },
+            {
+                  "name": "Capilla auxiliar La Dolorosa",
+                  "text": "Capilla auxiliar La Dolorosa is a small Christian auxiliary chapel meant for personal prayers in a quiet residential area.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.728126,
+                        -0.952493
+                  ]
+            },
+            {
+                  "name": "Sede Bahá'í",
+                  "text": "The Sede Bahá'í functions as a local meeting centre for studying Bahá'í scriptures and communal devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.724823,
+                        -0.94724
+                  ]
+            },
+            {
+                  "name": "Jesus es el Señor Universal",
+                  "text": "At this Christian centre, congregation members gather for modern praise and worship services.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.732605,
+                        -0.947904
+                  ]
+            },
+            {
+                  "name": "Iglesia de Dios",
+                  "text": "Iglesia de Dios is a free church congregation holding regular sermons and Bible study evenings in its worship space.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.724125,
+                        -0.943883
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Sagrado Corazón de Jesús | Manta",
+                  "text": "This Catholic church in Manta is dedicated to the Sacred Heart of Jesus and serves as a local place of worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.759585,
+                        -0.964685
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo Resucitado",
+                  "text": "Dedicated to the Risen Christ, this Catholic church provides a place of prayer for the community in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.73923,
+                        -0.958173
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Martha",
+                  "text": "Named after Saint Martha, this Catholic place of worship is an active religious site in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.735202,
+                        -0.959089
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de la Sagrada Familia",
+                  "text": "Consecrated to the Holy Family, this Catholic church in Manta gathers the local faithful for regular services.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.721224,
+                        -0.956488
+                  ]
+            },
+            {
+                  "name": "ACYM Cristo El Salvador",
+                  "text": "Operating under the Christian and Missionary Alliance, this church in Manta focuses on the teachings of Christ the Savior.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.715079,
+                        -0.956399
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Rosario",
+                  "text": "This Catholic church in Manta is devoted to Our Lady of the Rosary, functioning as a neighborhood spiritual center.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.712693,
+                        -0.953079
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica La Merced - PP. Jesuitas",
+                  "text": "Administered by the Jesuit order, this Catholic church in Manta honors Our Lady of Mercy.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.723975,
+                        -0.946082
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Perpetuo Socorro",
+                  "text": "Dedicated to Our Lady of Perpetual Help, this Catholic church supports the religious life of Manta's residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.736509,
+                        -0.942869
+                  ]
+            },
+            {
+                  "name": "Ministerios Hay Vida en Jesús",
+                  "text": "This evangelical Christian ministry in Manta provides a lively congregation space centered on the message of life in Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.734728,
+                        -0.945118
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "As a Latter-day Saint meetinghouse in Manta, this church hosts Sunday services and community activities for the local ward.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.730986,
+                        -0.944766
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Carmen",
+                  "text": "Dedicated to the Virgin of Mount Carmel, this small Catholic chapel offers a quiet place for prayer in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729762,
+                        -0.943475
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Santa Marianita",
+                  "text": "Honoring Saint Marianita, this Catholic church stands as a focal point for the faithful community in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729783,
+                        -0.946836
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Cristo es la Respuesta",
+                  "text": "This biblical Christian church in Manta promotes scriptural teachings through regular community worship sessions.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.731027,
+                        -0.948102
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EC-M",
     coords: [-80.718, -0.954],
@@ -99,7 +1809,736 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "cemento-chimborazo-economic-v2",
+    id: "cemento-chimborazo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Cultural de la Llama",
+                  "text": "Ein Museum, das der kulturellen Bedeutung und Haltung von Lamas in der Chimborazo-Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -78.74689,
+                        -1.627267
+                  ]
+            },
+            {
+                  "name": "Complejo Turístico Cunucpogyo",
+                  "text": "Ein Touristenkomplex, der Freizeiteinrichtungen und Naturlandschaften im Chimborazo-Gebiet bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.771598,
+                        -1.707853
+                  ]
+            },
+            {
+                  "name": "Manuel Naula Jagnau",
+                  "text": "Ein lokales Denkmal zu Ehren von Manuel Naula Jagnau in der Chimborazo-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -78.769283,
+                        -1.703509
+                  ]
+            },
+            {
+                  "name": "Juan de Velasco",
+                  "text": "Ein Denkmal zu Ehren des Historikers und Jesuitenpaters Juan de Velasco.",
+                  "category": "historical",
+                  "coords": [
+                        -78.770329,
+                        -1.701771
+                  ]
+            },
+            {
+                  "name": "Condorazo",
+                  "text": "Ein Denkmal, das den mächtigen Andenkondor darstellt, ein Symbol der natürlichen Majestät der Chimborazo-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -78.770984,
+                        -1.700647
+                  ]
+            },
+            {
+                  "name": "iglesia de Santo Cristo",
+                  "text": "Eine dem Heiligen Christus geweihte katholische Kirche, die der örtlichen Gemeinde als spiritueller Versammlungsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.778137,
+                        -1.701989
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica",
+                  "text": "Eine katholische Kirche, die der christlichen Gemeinde in der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.800466,
+                        -1.601954
+                  ]
+            },
+            {
+                  "name": "Iglesia \"La Palestina\"",
+                  "text": "Ein evangelisches Gotteshaus, in dem sich die örtliche Gemeinde versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.799432,
+                        -1.599207
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Lourdes de Batzacón",
+                  "text": "Eine katholische Kirche im Gebiet von Batzacón, die Unserer Lieben Frau von Lourdes gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.715841,
+                        -1.598112
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de San Agustín de La Moya de Calpi",
+                  "text": "Eine katholische Kapelle, die dem Heiligen Augustinus gewidmet ist und sich in der ländlichen Umgebung von La Moya de Calpi befindet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.762076,
+                        -1.57888
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de Jatari Campesino",
+                  "text": "Eine christliche Kapelle, die der landwirtschaftlichen Gemeinde Jatari Campesino einen spirituellen Raum bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.754745,
+                        -1.579717
+                  ]
+            },
+            {
+                  "name": "JWG",
+                  "text": "Ein lokales Gotteshaus, das als religiöses Zentrum für die umliegende Nachbarschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.789205,
+                        -1.62504
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Mariana de Jesús",
+                  "text": "Eine katholische Kapelle zu Ehren von Mariana de Jesús, die als Ort des lokalen Gebets dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.773715,
+                        -1.702194
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Pulinguí",
+                  "text": "Eine katholische Kirche, die den Gläubigen in der ländlichen Siedlung Pulinguí dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.751094,
+                        -1.56513
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista | San Juan",
+                  "text": "Eine katholische Kirche, die Johannes dem Täufer in der Gemeinde San Juan gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.78236,
+                        -1.634153
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Comunidad",
+                  "text": "Eine Gemeindekirche, die den Anwohnern spirituelle Dienste und Zusammenkünfte anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.783065,
+                        -1.598199
+                  ]
+            },
+            {
+                  "name": "Basílica Católica Santiago de Calpi",
+                  "text": "Eine dem Heiligen Jakobus gewidmete katholische Basilika, die als bedeutendes religiöses Bauwerk in Calpi steht.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.743496,
+                        -1.646145
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Colonial Virgen de las Nieves - Sicalpa Viejo",
+                  "text": "Eine historische koloniale katholische Kirche zu Ehren der Jungfrau Maria vom Schnee in der alten Siedlung Sicalpa.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.782385,
+                        -1.697665
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Lorenzo de Sicalpa",
+                  "text": "Eine katholische Kirche im Sicalpa-Gebiet, die dem Heiligen Laurentius gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.775321,
+                        -1.702871
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Sebastián de Cajabamba",
+                  "text": "Eine katholische Kirche, die dem Heiligen Sebastian in der Stadt Cajabamba gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.768829,
+                        -1.697873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Cultural de la Llama",
+                  "text": "Egy múzeum, amely a lámák kulturális jelentőségének és tartásának van szentelve a Chimborazo régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -78.74689,
+                        -1.627267
+                  ]
+            },
+            {
+                  "name": "Complejo Turístico Cunucpogyo",
+                  "text": "Egy turisztikai komplexum, amely rekreációs létesítményeket és természeti tájat kínál a Chimborazo környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.771598,
+                        -1.707853
+                  ]
+            },
+            {
+                  "name": "Manuel Naula Jagnau",
+                  "text": "Egy helyi emlékmű a Chimborazo régióban, amely Manuel Naula Jagnau előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -78.769283,
+                        -1.703509
+                  ]
+            },
+            {
+                  "name": "Juan de Velasco",
+                  "text": "Egy emlékmű, amely Juan de Velasco történész és jezsuita pap előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -78.770329,
+                        -1.701771
+                  ]
+            },
+            {
+                  "name": "Condorazo",
+                  "text": "Egy emlékmű, amely a hatalmas andoki kondort ábrázolja, a Chimborazo régió természeti fenségének szimbólumát.",
+                  "category": "historical",
+                  "coords": [
+                        -78.770984,
+                        -1.700647
+                  ]
+            },
+            {
+                  "name": "iglesia de Santo Cristo",
+                  "text": "A Szent Krisztusnak szentelt katolikus templom, amely a helyi közösség spirituális gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -78.778137,
+                        -1.701989
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica",
+                  "text": "Katolikus templom, amely a helyi keresztény közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.800466,
+                        -1.601954
+                  ]
+            },
+            {
+                  "name": "Iglesia \"La Palestina\"",
+                  "text": "Evangélikus istentiszteleti hely, amely a helyi gyülekezetet gyűjti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.799432,
+                        -1.599207
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Lourdes de Batzacón",
+                  "text": "A Lourdes-i Szűzanyának szentelt katolikus templom Batzacón térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.715841,
+                        -1.598112
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de San Agustín de La Moya de Calpi",
+                  "text": "Szent Ágostonnak szentelt katolikus kápolna La Moya de Calpi vidéki környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        -78.762076,
+                        -1.57888
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de Jatari Campesino",
+                  "text": "Keresztény kápolna, amely spirituális teret biztosít a Jatari Campesino mezőgazdasági közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.754745,
+                        -1.579717
+                  ]
+            },
+            {
+                  "name": "JWG",
+                  "text": "Helyi istentiszteleti hely, amely vallási központként szolgál a környező negyed számára.",
+                  "category": "religious",
+                  "coords": [
+                        -78.789205,
+                        -1.62504
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Mariana de Jesús",
+                  "text": "Mariana de Jesús tiszteletére emelt katolikus kápolna, amely a helyi imádság helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.773715,
+                        -1.702194
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Pulinguí",
+                  "text": "A vidéki Pulinguí település hívőit szolgáló katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.751094,
+                        -1.56513
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista | San Juan",
+                  "text": "Keresztelő Szent Jánosnak szentelt katolikus templom San Juan közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.78236,
+                        -1.634153
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Comunidad",
+                  "text": "Közösségi templom, amely spirituális szolgáltatásokat és összejöveteleket kínál a helyi lakosoknak.",
+                  "category": "religious",
+                  "coords": [
+                        -78.783065,
+                        -1.598199
+                  ]
+            },
+            {
+                  "name": "Basílica Católica Santiago de Calpi",
+                  "text": "Szent Jakabnak szentelt katolikus bazilika, amely kiemelkedő vallási építményként áll Calpiban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.743496,
+                        -1.646145
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Colonial Virgen de las Nieves - Sicalpa Viejo",
+                  "text": "Történelmi, gyarmati katolikus templom a Havas Boldogasszony tiszteletére a régi Sicalpa településen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.782385,
+                        -1.697665
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Lorenzo de Sicalpa",
+                  "text": "Szent Lőrincnek szentelt katolikus templom Sicalpa térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.775321,
+                        -1.702871
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Sebastián de Cajabamba",
+                  "text": "Szent Sebestyénnek szentelt katolikus templom Cajabamba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.768829,
+                        -1.697873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Cultural de la Llama",
+                  "text": "Un muzeu dedicat semnificației culturale și creșterii lamelor în regiunea Chimborazo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.74689,
+                        -1.627267
+                  ]
+            },
+            {
+                  "name": "Complejo Turístico Cunucpogyo",
+                  "text": "Un complex turistic care oferă facilități de recreere și peisaje naturale în zona Chimborazo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.771598,
+                        -1.707853
+                  ]
+            },
+            {
+                  "name": "Manuel Naula Jagnau",
+                  "text": "Un monument local în onoarea lui Manuel Naula Jagnau, situat în regiunea Chimborazo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.769283,
+                        -1.703509
+                  ]
+            },
+            {
+                  "name": "Juan de Velasco",
+                  "text": "Un monument în onoarea istoricului și preotului iezuit Juan de Velasco.",
+                  "category": "historical",
+                  "coords": [
+                        -78.770329,
+                        -1.701771
+                  ]
+            },
+            {
+                  "name": "Condorazo",
+                  "text": "Un monument care înfățișează puternicul condor andin, un simbol al măreției naturale a regiunii Chimborazo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.770984,
+                        -1.700647
+                  ]
+            },
+            {
+                  "name": "iglesia de Santo Cristo",
+                  "text": "O biserică catolică dedicată Sfântului Hristos, oferind un loc de adunare spirituală pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -78.778137,
+                        -1.701989
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica",
+                  "text": "O biserică catolică care deservește comunitatea creștină locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.800466,
+                        -1.601954
+                  ]
+            },
+            {
+                  "name": "Iglesia \"La Palestina\"",
+                  "text": "Un lăcaș de cult evanghelic care adună congregația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.799432,
+                        -1.599207
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Lourdes de Batzacón",
+                  "text": "O biserică catolică închinată Maicii Domnului de la Lourdes în zona Batzacón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.715841,
+                        -1.598112
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de San Agustín de La Moya de Calpi",
+                  "text": "O capelă catolică închinată Sfântului Augustin, situată în cadrul rural din La Moya de Calpi.",
+                  "category": "religious",
+                  "coords": [
+                        -78.762076,
+                        -1.57888
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de Jatari Campesino",
+                  "text": "O capelă creștină care oferă un spațiu spiritual comunității agricole Jatari Campesino.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.754745,
+                        -1.579717
+                  ]
+            },
+            {
+                  "name": "JWG",
+                  "text": "Un lăcaș de cult local care oferă un centru religios pentru cartierul înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        -78.789205,
+                        -1.62504
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Mariana de Jesús",
+                  "text": "O capelă catolică care o onorează pe Mariana de Jesús, servind drept loc de rugăciune local.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.773715,
+                        -1.702194
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Pulinguí",
+                  "text": "O biserică catolică care deservește credincioșii din așezarea rurală Pulinguí.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.751094,
+                        -1.56513
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista | San Juan",
+                  "text": "O biserică catolică cu hramul Sfântul Ioan Botezătorul din comunitatea San Juan.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.78236,
+                        -1.634153
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Comunidad",
+                  "text": "O biserică comunitară care oferă servicii spirituale și adunări pentru rezidenții locali.",
+                  "category": "religious",
+                  "coords": [
+                        -78.783065,
+                        -1.598199
+                  ]
+            },
+            {
+                  "name": "Basílica Católica Santiago de Calpi",
+                  "text": "O bazilică catolică închinată Sfântului Iacob, o clădire religioasă proeminentă din Calpi.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.743496,
+                        -1.646145
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Colonial Virgen de las Nieves - Sicalpa Viejo",
+                  "text": "O biserică catolică istorică colonială care o onorează pe Fecioara Zăpezilor în vechea așezare Sicalpa.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.782385,
+                        -1.697665
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Lorenzo de Sicalpa",
+                  "text": "O biserică catolică dedicată Sfântului Laurențiu în zona Sicalpa.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.775321,
+                        -1.702871
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Sebastián de Cajabamba",
+                  "text": "O biserică catolică închinată Sfântului Sebastian în orașul Cajabamba.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.768829,
+                        -1.697873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The cultura Museum of the Lama",
+                  "text": "A museum dedicated to the cultural significance and husbandry of llamas in the Chimborazo region.",
+                  "category": "museum",
+                  "coords": [
+                        -78.74689,
+                        -1.627267
+                  ]
+            },
+            {
+                  "name": "Complejo Turístico Cunucpogyo",
+                  "text": "A tourist complex offering recreational facilities and natural scenery in the Chimborazo area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.771598,
+                        -1.707853
+                  ]
+            },
+            {
+                  "name": "Manuel Naula Jagnau",
+                  "text": "A local monument honouring Manuel Naula Jagnau, situated in the Chimborazo region.",
+                  "category": "historical",
+                  "coords": [
+                        -78.769283,
+                        -1.703509
+                  ]
+            },
+            {
+                  "name": "Juan de Velasco",
+                  "text": "A monument honoring the historian and Jesuit priest Juan de Velasco.",
+                  "category": "historical",
+                  "coords": [
+                        -78.770329,
+                        -1.701771
+                  ]
+            },
+            {
+                  "name": "Condorazo",
+                  "text": "A monument depicting the mighty Andean condor, a symbol of the Chimborazo region's natural majesty.",
+                  "category": "historical",
+                  "coords": [
+                        -78.770984,
+                        -1.700647
+                  ]
+            },
+            {
+                  "name": "iglesia de Santo Cristo",
+                  "text": "A Catholic church dedicated to the Holy Christ, providing a place of spiritual gathering for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -78.778137,
+                        -1.701989
+                  ]
+            },
+            {
+                  "name": "Iglesia Catolica",
+                  "text": "A Catholic church serving the local Christian community in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.800466,
+                        -1.601954
+                  ]
+            },
+            {
+                  "name": "Iglesia \"La Palestina\"",
+                  "text": "An Evangelical place of worship gathering the local congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.799432,
+                        -1.599207
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Lourdes de Batzacón",
+                  "text": "A Catholic church dedicated to Our Lady of Lourdes in the Batzacón area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.715841,
+                        -1.598112
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de San Agustín de La Moya de Calpi",
+                  "text": "A Catholic chapel dedicated to Saint Augustine, located in the rural setting of La Moya de Calpi.",
+                  "category": "religious",
+                  "coords": [
+                        -78.762076,
+                        -1.57888
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de Jatari Campesino",
+                  "text": "A Christian chapel providing a spiritual space for the Jatari Campesino agricultural community.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.754745,
+                        -1.579717
+                  ]
+            },
+            {
+                  "name": "JWG",
+                  "text": "A local place of worship providing a religious center for the surrounding neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -78.789205,
+                        -1.62504
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Mariana de Jesús",
+                  "text": "A Catholic chapel honoring Mariana de Jesús, serving as a site for local prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.773715,
+                        -1.702194
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Pulinguí",
+                  "text": "A Catholic church serving the faithful in the rural Pulinguí settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.751094,
+                        -1.56513
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista | San Juan",
+                  "text": "A Catholic church dedicated to John the Baptist in the community of San Juan.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.78236,
+                        -1.634153
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Comunidad",
+                  "text": "A community church offering spiritual services and gatherings to the local residents.",
+                  "category": "religious",
+                  "coords": [
+                        -78.783065,
+                        -1.598199
+                  ]
+            },
+            {
+                  "name": "Basílica Católica Santiago de Calpi",
+                  "text": "A Catholic basilica dedicated to Saint James, standing as a prominent religious edifice in Calpi.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.743496,
+                        -1.646145
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Colonial Virgen de las Nieves - Sicalpa Viejo",
+                  "text": "A historic colonial Catholic church honoring the Virgin of the Snows in the old settlement of Sicalpa.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.782385,
+                        -1.697665
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Lorenzo de Sicalpa",
+                  "text": "A Catholic church dedicated to Saint Lawrence in the Sicalpa area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.775321,
+                        -1.702871
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Sebastián de Cajabamba",
+                  "text": "A Catholic church dedicated to Saint Sebastian in the town of Cajabamba.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.768829,
+                        -1.697873
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-H",
     coords: [-78.794, -1.635],
@@ -170,7 +2609,1456 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       en: ["World leader in banana exports.", "Located near Machala.", "Is continuously being modernized."]
     }, image: "/poi-images/puerto-bolivar-economic-v2.webp"},
   {
-    id: "parque-industrial-cuenca-economic-v2",
+    id: "parque-industrial-cuenca-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cruz",
+                  "text": "Ein monumentales Kreuz, das als markantes religiöses und navigationsbezogenes Wahrzeichen in der Nähe des Industrieparks steht.",
+                  "category": "historical",
+                  "coords": [
+                        -78.951794,
+                        -2.841126
+                  ]
+            },
+            {
+                  "name": "Capilla DEL DIVINO NIÑO DE LAS MISERICORDIAS",
+                  "text": "Eine ruhige Kapelle, die dem Göttlichen Kind der Barmherzigkeit gewidmet ist und Trost in der Nähe des geschäftigen Industriegebiets bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.967208,
+                        -2.853588
+                  ]
+            },
+            {
+                  "name": "Iglesia de 3 de Mayo de Checa",
+                  "text": "Ein Gotteshaus in Checa, das nach dem Fest der Kreuzauffindung am 3. Mai benannt ist und eine zentrale Rolle in den lokalen religiösen Traditionen spielt.",
+                  "category": "religious",
+                  "coords": [
+                        -78.989108,
+                        -2.790237
+                  ]
+            },
+            {
+                  "name": "Iglesia de Lourdes",
+                  "text": "Eine marianische Kirche, die Unserer Lieben Frau von Lourdes geweiht ist und den Gläubigen in der Nähe des Industriegebiets von Cuenca dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.948237,
+                        -2.851214
+                  ]
+            },
+            {
+                  "name": "Capilla Quinche",
+                  "text": "Eine kleine Kapelle zu Ehren der Jungfrau von El Quinche, einem in Ecuador hoch verehrten Marientitel.",
+                  "category": "religious",
+                  "coords": [
+                        -78.953925,
+                        -2.860085
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Las Nieves",
+                  "text": "Eine Gemeindekirche, die der Jungfrau Maria vom Schnee geweiht ist und über beeindruckende lokale sakrale Kunstwerke verfügt.",
+                  "category": "religious",
+                  "coords": [
+                        -78.944275,
+                        -2.791034
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE LA RAYA",
+                  "text": "Eine markante Gemeindekirche im Sektor La Raya, die leicht an ihrer robusten Architektur zu erkennen ist.",
+                  "category": "religious",
+                  "coords": [
+                        -78.951996,
+                        -2.800972
+                  ]
+            },
+            {
+                  "name": "Centro Pastoral El Progreso",
+                  "text": "Ein Pastoralzentrum im Viertel El Progreso, das Gemeindeaktivitäten und regelmäßige Gottesdienste organisiert.",
+                  "category": "religious",
+                  "coords": [
+                        -78.987766,
+                        -2.857524
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Angeles",
+                  "text": "Eine den Engeln geweihte Gemeindekirche, die den Arbeitern des nahegelegenen Industriegebiets einen gut erreichbaren Ort der Andacht bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.981298,
+                        -2.851342
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel",
+                  "text": "Eine traditionelle Kirche, die dem Erzengel Michael geweiht ist und als spirituell Anker für den umliegenden Bezirk fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980723,
+                        -2.844643
+                  ]
+            },
+            {
+                  "name": "Iglesia Barrio la Asuncion",
+                  "text": "Eine kleine Quartierskirche in der Nähe des Parque Industrial Cuenca für die örtliche Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -78.973471,
+                        -2.864966
+                  ]
+            },
+            {
+                  "name": "Mercado Ricaurte",
+                  "text": "Ein belebter lokaler Marktplatz im Viertel Ricaurte in der Nähe des Industrieparks von Cuenca.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.963392,
+                        -2.861803
+                  ]
+            },
+            {
+                  "name": "Domay",
+                  "text": "Eine lokale Sehenswürdigkeit in der Gegend von Domay in der Nähe des Industrieparks von Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.935258,
+                        -2.82548
+                  ]
+            },
+            {
+                  "name": "Laguna guabizhun de Solano",
+                  "text": "Eine malerische Lagune im ländlichen Gebiet von Solano in der Nähe von Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.936796,
+                        -2.804341
+                  ]
+            },
+            {
+                  "name": "El Portete de Zumbahuayco",
+                  "text": "Eine christliche religiöse Stätte am Portete-Pass im Gebiet von Zumbahuayco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.903727,
+                        -2.833463
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José de Sidcay",
+                  "text": "Eine lokale christliche Kirche für die Gemeinde San José de Sidcay in der Nähe von Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978976,
+                        -2.819874
+                  ]
+            },
+            {
+                  "name": "Virgen la Dolorosa",
+                  "text": "Ein der Virgen la Dolorosa geweihter christlicher Schrein in der Nähe von Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.972077,
+                        -2.845456
+                  ]
+            },
+            {
+                  "name": "Iglesia María Auxiliadora",
+                  "text": "Eine christliche Kirche in der Industrieregion von Cuenca, die der María Auxiliadora gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.966004,
+                        -2.839981
+                  ]
+            },
+            {
+                  "name": "Iglesia Corazón de Jesús",
+                  "text": "Eine lokale christliche Andachtsstätte namens Corazón de Jesús für die Gläubigen der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978437,
+                        -2.859571
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Luis de Parcoloma",
+                  "text": "Eine christliche Kirche in der Gegend von Parcoloma in der Nähe des Industrieparks von Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.969986,
+                        -2.791055
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bartolomé",
+                  "text": "Eine christliche Gemeindekirche in der Siedlung San Bartolomé.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.969536,
+                        -2.785094
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Calvario",
+                  "text": "Eine christliche Kirche namens El Calvario für die örtliche Gemeinde in der Nähe von Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.955246,
+                        -2.784854
+                  ]
+            },
+            {
+                  "name": "Iglesia Azhapud",
+                  "text": "Ein christliches religiöses Gebäude in der Gegend von Azhapud.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.95195,
+                        -2.794197
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Caldera -",
+                  "text": "Eine christliche Kirche im Gebiet Caldera der Gemeinde Javier Loyola.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.914552,
+                        -2.812287
+                  ]
+            },
+            {
+                  "name": "Iglesia de Ayancay",
+                  "text": "Eine christliche Andachtsstätte in der ländlichen Gemeinde Ayancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.907467,
+                        -2.814898
+                  ]
+            },
+            {
+                  "name": "La Unión de Zumbahuayco",
+                  "text": "Ein christlicher Versammlungsort in der Gegend von La Unión de Zumbahuayco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.89782,
+                        -2.82695
+                  ]
+            },
+            {
+                  "name": "Gruta de La Inmaculada Concepción de Ripichala - Mirador Turístico",
+                  "text": "Eine christliche Grotte der Unbefleckten Empfängnis mit einem Aussichtspunkt über Ripichala.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.943164,
+                        -2.836603
+                  ]
+            },
+            {
+                  "name": "Urna de San Lucas",
+                  "text": "Ein kleiner christlicher Wegschrein, der dem Heiligen Lukas gewidmet ist, in der Nähe von Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.941665,
+                        -2.837413
+                  ]
+            },
+            {
+                  "name": "Iglesia de Zhiquir",
+                  "text": "Ein christliches Kirchengebäude in der Gegend von Zhiquir.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.925386,
+                        -2.844017
+                  ]
+            },
+            {
+                  "name": "Capilla Señor de Burgos",
+                  "text": "Eine christliche Kapelle, die dem Señor de Burgos geweiht ist und den lokalen Gläubigen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.961835,
+                        -2.865626
+                  ]
+            },
+            {
+                  "name": "Santuario del Santísimo Señor de Burgos",
+                  "text": "Ein christliches Heiligtum als Ort der Verehrung für den Santísimo Señor de Burgos.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.929637,
+                        -2.825976
+                  ]
+            },
+            {
+                  "name": "Iglesia de Domay",
+                  "text": "Eine christliche Kirche für die Bewohner der Gegend von Domay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.934246,
+                        -2.823514
+                  ]
+            },
+            {
+                  "name": "Iglesia San Sebastián de Solano",
+                  "text": "Eine lokale christliche Kirche, die San Sebastián in der ländlichen Gegend von Solano gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.935164,
+                        -2.810388
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Dolorosa",
+                  "text": "Eine christliche Andachtsstätte in der Nähe des Industrieparks, die La Dolorosa gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.945503,
+                        -2.804069
+                  ]
+            },
+            {
+                  "name": "Iglesia San Vicente de Sidcay",
+                  "text": "Eine christliche Kirche für die Gemeinde von San Vicente de Sidcay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.9545,
+                        -2.811488
+                  ]
+            },
+            {
+                  "name": "Iglesia de Adobepamba",
+                  "text": "Eine christliche religiöse Stätte in der Gegend von Adobepamba.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.958633,
+                        -2.800491
+                  ]
+            },
+            {
+                  "name": "Iglesia De Bibin",
+                  "text": "Eine lokale christliche Kirche in der Siedlung Bibin.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978399,
+                        -2.805933
+                  ]
+            },
+            {
+                  "name": "Iglesia de Sidcay",
+                  "text": "Eine christliche Kirche im Zentrum der Gemeinde Sidcay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.964912,
+                        -2.817608
+                  ]
+            },
+            {
+                  "name": "Iglesia San Andrés de Checa",
+                  "text": "Eine dem heiligen Andreas geweihte christliche Pfarrkirche in der Gegend von Checa.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.993023,
+                        -2.805212
+                  ]
+            },
+            {
+                  "name": "Iglesia San Marcial de Chiquintad",
+                  "text": "Eine christliche Kirche, die San Marcial in der Gegend von Chiquintad gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.002023,
+                        -2.813344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cruz",
+                  "text": "Monumentális kereszt, amely kiemelkedő vallási és tájékozódási mérföldkőként áll az ipari park közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -78.951794,
+                        -2.841126
+                  ]
+            },
+            {
+                  "name": "Capilla DEL DIVINO NIÑO DE LAS MISERICORDIAS",
+                  "text": "Az Irgalmasság Isteni Gyermekének szentelt nyugodt kápolna, amely vigaszt nyújt a nyüzsgő iparterület közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -78.967208,
+                        -2.853588
+                  ]
+            },
+            {
+                  "name": "Iglesia de 3 de Mayo de Checa",
+                  "text": "Egy checai istentiszteleti hely, amelyet a május 3-i Szent Kereszt felmagasztalásának ünnepéről neveztek el, és központi szerepet játszik a helyi vallási hagyományokban.",
+                  "category": "religious",
+                  "coords": [
+                        -78.989108,
+                        -2.790237
+                  ]
+            },
+            {
+                  "name": "Iglesia de Lourdes",
+                  "text": "A Lourdes-i Szűzanyának szentelt Mária-templom, amely a cuencai ipari zóna közelében szolgálja a hívőket.",
+                  "category": "religious",
+                  "coords": [
+                        -78.948237,
+                        -2.851214
+                  ]
+            },
+            {
+                  "name": "Capilla Quinche",
+                  "text": "Az El Quinche-i Szűzanya, egy Ecuadorban nagyra becsült Mária-cím tiszteletére emelt kis kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        -78.953925,
+                        -2.860085
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Las Nieves",
+                  "text": "A Havas Boldogasszonynak szentelt közösségi templom, amely lenyűgöző helyi vallási műalkotásokkal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -78.944275,
+                        -2.791034
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE LA RAYA",
+                  "text": "A La Raya szektorban található jellegzetes környékbeli templom, amely masszív építészetéről könnyen felismerhető.",
+                  "category": "religious",
+                  "coords": [
+                        -78.951996,
+                        -2.800972
+                  ]
+            },
+            {
+                  "name": "Centro Pastoral El Progreso",
+                  "text": "Egy pasztorális központ az El Progreso negyedben, amely közösségi programokat és rendszeres istentiszteleteket szervez.",
+                  "category": "religious",
+                  "coords": [
+                        -78.987766,
+                        -2.857524
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Angeles",
+                  "text": "Az Angyaloknak szentelt közösségi templom, amely könnyen megközelíthető istentiszteleti helyet biztosít a közeli ipari dolgozóknak.",
+                  "category": "religious",
+                  "coords": [
+                        -78.981298,
+                        -2.851342
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel",
+                  "text": "Szent Mihály arkangyalnak szentelt hagyományos templom, amely a környező kerület spirituális horgonyaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980723,
+                        -2.844643
+                  ]
+            },
+            {
+                  "name": "Iglesia Barrio la Asuncion",
+                  "text": "Egy helyi közösséget szolgáló szomszédsági templom a Parque Industrial Cuenca közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -78.973471,
+                        -2.864966
+                  ]
+            },
+            {
+                  "name": "Mercado Ricaurte",
+                  "text": "Nyüzsgő helyi piac a Ricaurte negyedben, Cuenca ipari parkjának közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.963392,
+                        -2.861803
+                  ]
+            },
+            {
+                  "name": "Domay",
+                  "text": "Egy helyi látványosság a Domay területén, a cuencai ipari park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.935258,
+                        -2.82548
+                  ]
+            },
+            {
+                  "name": "Laguna guabizhun de Solano",
+                  "text": "Festői lagúna a Cuenca melletti Solano vidéki területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.936796,
+                        -2.804341
+                  ]
+            },
+            {
+                  "name": "El Portete de Zumbahuayco",
+                  "text": "Egy keresztény vallási helyszín, amely a Zumbahuayco területén található Portete-hágónál fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.903727,
+                        -2.833463
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José de Sidcay",
+                  "text": "A Cuenca melletti San José de Sidcay közösségét szolgáló helyi keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978976,
+                        -2.819874
+                  ]
+            },
+            {
+                  "name": "Virgen la Dolorosa",
+                  "text": "A Fájdalmas Szűzanyának szentelt keresztény kegyhely Cuenca közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.972077,
+                        -2.845456
+                  ]
+            },
+            {
+                  "name": "Iglesia María Auxiliadora",
+                  "text": "A Mária Keresztények Segítsége tiszteletére szentelt templom Cuenca ipari régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.966004,
+                        -2.839981
+                  ]
+            },
+            {
+                  "name": "Iglesia Corazón de Jesús",
+                  "text": "Egy helyi keresztény imahely, a Corazón de Jesús, amely a környék hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978437,
+                        -2.859571
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Luis de Parcoloma",
+                  "text": "Egy keresztény templom a Parcoloma területén, Cuenca ipari parkjának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.969986,
+                        -2.791055
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bartolomé",
+                  "text": "Egy keresztény közösségi templom, amely San Bartolomé településén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.969536,
+                        -2.785094
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Calvario",
+                  "text": "Az El Calvario nevű keresztény templom, amely a Cuenca melletti helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.955246,
+                        -2.784854
+                  ]
+            },
+            {
+                  "name": "Iglesia Azhapud",
+                  "text": "Egy keresztény vallási építmény az Azhapud területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.95195,
+                        -2.794197
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Caldera -",
+                  "text": "Egy keresztény templom a Javier Loyola egyházközség Caldera területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.914552,
+                        -2.812287
+                  ]
+            },
+            {
+                  "name": "Iglesia de Ayancay",
+                  "text": "Keresztény imahely Ayancay vidéki közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.907467,
+                        -2.814898
+                  ]
+            },
+            {
+                  "name": "La Unión de Zumbahuayco",
+                  "text": "Keresztény gyülekezeti helyszín La Unión de Zumbahuayco területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.89782,
+                        -2.82695
+                  ]
+            },
+            {
+                  "name": "Gruta de La Inmaculada Concepción de Ripichala - Mirador Turístico",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt keresztény barlang, ahonnan festői kilátás nyílik Ripichalára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.943164,
+                        -2.836603
+                  ]
+            },
+            {
+                  "name": "Urna de San Lucas",
+                  "text": "Egy Szent Lukácsnak szentelt apró keresztény útszéli szentély Cuenca közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.941665,
+                        -2.837413
+                  ]
+            },
+            {
+                  "name": "Iglesia de Zhiquir",
+                  "text": "Keresztény templomépület a Zhiquir területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.925386,
+                        -2.844017
+                  ]
+            },
+            {
+                  "name": "Capilla Señor de Burgos",
+                  "text": "A Señor de Burgos tiszteletére szentelt keresztény kápolna, amely a helyi híveket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.961835,
+                        -2.865626
+                  ]
+            },
+            {
+                  "name": "Santuario del Santísimo Señor de Burgos",
+                  "text": "Keresztény szentély, amely a Santísimo Señor de Burgos tiszteletének helyszíneként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.929637,
+                        -2.825976
+                  ]
+            },
+            {
+                  "name": "Iglesia de Domay",
+                  "text": "A Domay terület lakóit szolgáló keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.934246,
+                        -2.823514
+                  ]
+            },
+            {
+                  "name": "Iglesia San Sebastián de Solano",
+                  "text": "A vidéki Solano területén található helyi keresztény templom, amelyet San Sebastiánnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.935164,
+                        -2.810388
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Dolorosa",
+                  "text": "A La Dolorosának szentelt keresztény imahely az ipari park közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.945503,
+                        -2.804069
+                  ]
+            },
+            {
+                  "name": "Iglesia San Vicente de Sidcay",
+                  "text": "A San Vicente de Sidcay közösségét szolgáló keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.9545,
+                        -2.811488
+                  ]
+            },
+            {
+                  "name": "Iglesia de Adobepamba",
+                  "text": "Keresztény vallási helyszín Adobepamba területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.958633,
+                        -2.800491
+                  ]
+            },
+            {
+                  "name": "Iglesia De Bibin",
+                  "text": "Egy helyi keresztény templom Bibin településén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978399,
+                        -2.805933
+                  ]
+            },
+            {
+                  "name": "Iglesia de Sidcay",
+                  "text": "Keresztény templom Sidcay közösségének központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.964912,
+                        -2.817608
+                  ]
+            },
+            {
+                  "name": "Iglesia San Andrés de Checa",
+                  "text": "A San Andrésnek szentelt keresztény plébániatemplom a Checa területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.993023,
+                        -2.805212
+                  ]
+            },
+            {
+                  "name": "Iglesia San Marcial de Chiquintad",
+                  "text": "A San Marcialnak szentelt keresztény templom a Chiquintad területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.002023,
+                        -2.813344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cruz",
+                  "text": "O cruce monumentală care se înalță ca un punct de reper religios și de navigație proeminent în apropierea parcului industrial.",
+                  "category": "historical",
+                  "coords": [
+                        -78.951794,
+                        -2.841126
+                  ]
+            },
+            {
+                  "name": "Capilla DEL DIVINO NIÑO DE LAS MISERICORDIAS",
+                  "text": "O capelă liniștită dedicată Copilului Divin al Îndurărilor, care oferă alinare în apropierea zonei industriale pline de viață.",
+                  "category": "religious",
+                  "coords": [
+                        -78.967208,
+                        -2.853588
+                  ]
+            },
+            {
+                  "name": "Iglesia de 3 de Mayo de Checa",
+                  "text": "Un lăcaș de cult din Checa numit după Sărbătoarea Sfintei Cruci din 3 mai, esențial pentru tradițiile religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        -78.989108,
+                        -2.790237
+                  ]
+            },
+            {
+                  "name": "Iglesia de Lourdes",
+                  "text": "O biserică mariană dedicată Maicii Domnului de la Lourdes, care deservește credincioșii din apropierea zonei industriale Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.948237,
+                        -2.851214
+                  ]
+            },
+            {
+                  "name": "Capilla Quinche",
+                  "text": "O mică capelă în onoarea Fecioarei din El Quinche, un titlu marian extrem de venerat în Ecuador.",
+                  "category": "religious",
+                  "coords": [
+                        -78.953925,
+                        -2.860085
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Las Nieves",
+                  "text": "O biserică comunitară dedicată Fecioarei Zăpezilor, care prezintă opere de artă religioasă locală impresionante.",
+                  "category": "religious",
+                  "coords": [
+                        -78.944275,
+                        -2.791034
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE LA RAYA",
+                  "text": "O biserică de cartier distinctivă situată în sectorul La Raya, ușor de recunoscut prin arhitectura sa robustă.",
+                  "category": "religious",
+                  "coords": [
+                        -78.951996,
+                        -2.800972
+                  ]
+            },
+            {
+                  "name": "Centro Pastoral El Progreso",
+                  "text": "Un centru pastoral în cartierul El Progreso care organizează programe de asistență comunitară și slujbe bisericești regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -78.987766,
+                        -2.857524
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Angeles",
+                  "text": "O biserică comunitară dedicată Îngerilor, care oferă un lăcaș de cult accesibil pentru forța de muncă industrială din apropiere.",
+                  "category": "religious",
+                  "coords": [
+                        -78.981298,
+                        -2.851342
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel",
+                  "text": "O biserică tradițională dedicată Sfântului Arhanghel Mihail, care funcționează ca o ancoră spirituală pentru districtul înconjurător.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980723,
+                        -2.844643
+                  ]
+            },
+            {
+                  "name": "Iglesia Barrio la Asuncion",
+                  "text": "O biserică de cartier situată lângă Parque Industrial Cuenca, deservind comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -78.973471,
+                        -2.864966
+                  ]
+            },
+            {
+                  "name": "Mercado Ricaurte",
+                  "text": "O piață locală plină de viață situată în cartierul Ricaurte, lângă parcul industrial din Cuenca.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.963392,
+                        -2.861803
+                  ]
+            },
+            {
+                  "name": "Domay",
+                  "text": "O atracție locală situată în zona Domay, lângă parcul industrial Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.935258,
+                        -2.82548
+                  ]
+            },
+            {
+                  "name": "Laguna guabizhun de Solano",
+                  "text": "O lagună pitorească aflată în zona rurală Solano de lângă Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.936796,
+                        -2.804341
+                  ]
+            },
+            {
+                  "name": "El Portete de Zumbahuayco",
+                  "text": "Un sit religios creștin situat la pasul Portete din zona Zumbahuayco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.903727,
+                        -2.833463
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José de Sidcay",
+                  "text": "O biserică creștină locală care deservește comunitatea din San José de Sidcay, lângă Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978976,
+                        -2.819874
+                  ]
+            },
+            {
+                  "name": "Virgen la Dolorosa",
+                  "text": "Un altar creștin închinat Fecioarei Îndurerate, situat lângă Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.972077,
+                        -2.845456
+                  ]
+            },
+            {
+                  "name": "Iglesia María Auxiliadora",
+                  "text": "O biserică creștină închinată Mariei Ajutorul Creștinilor din regiunea industrială Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.966004,
+                        -2.839981
+                  ]
+            },
+            {
+                  "name": "Iglesia Corazón de Jesús",
+                  "text": "Un lăcaș de cult creștin local numit Corazón de Jesús care deservește credincioșii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978437,
+                        -2.859571
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Luis de Parcoloma",
+                  "text": "O biserică creștină situată în zona Parcoloma, lângă parcul industrial din Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.969986,
+                        -2.791055
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bartolomé",
+                  "text": "O biserică comunitară creștină situată în așezarea San Bartolomé.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.969536,
+                        -2.785094
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Calvario",
+                  "text": "O biserică creștină cunoscută sub numele de El Calvario, care deservește comunitatea locală de lângă Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.955246,
+                        -2.784854
+                  ]
+            },
+            {
+                  "name": "Iglesia Azhapud",
+                  "text": "O structură religioasă creștină situată în zona Azhapud.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.95195,
+                        -2.794197
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Caldera -",
+                  "text": "O biserică creștină situată în zona Caldera a parohiei Javier Loyola.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.914552,
+                        -2.812287
+                  ]
+            },
+            {
+                  "name": "Iglesia de Ayancay",
+                  "text": "Un lăcaș de cult creștin situat în comunitatea rurală Ayancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.907467,
+                        -2.814898
+                  ]
+            },
+            {
+                  "name": "La Unión de Zumbahuayco",
+                  "text": "Un loc de adunare creștin situat în zona La Unión de Zumbahuayco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.89782,
+                        -2.82695
+                  ]
+            },
+            {
+                  "name": "Gruta de La Inmaculada Concepción de Ripichala - Mirador Turístico",
+                  "text": "O grotă creștină dedicată Imaculatei Concepții, care oferă un punct de belvedere pitoresc asupra Ripichalei.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.943164,
+                        -2.836603
+                  ]
+            },
+            {
+                  "name": "Urna de San Lucas",
+                  "text": "Un mic altar creștin pe marginea drumului, închinat Sfântului Luca, lângă Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.941665,
+                        -2.837413
+                  ]
+            },
+            {
+                  "name": "Iglesia de Zhiquir",
+                  "text": "O clădire a unei biserici creștine situată în zona Zhiquir.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.925386,
+                        -2.844017
+                  ]
+            },
+            {
+                  "name": "Capilla Señor de Burgos",
+                  "text": "O capelă creștină închinată Señorului de Burgos care deservește credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.961835,
+                        -2.865626
+                  ]
+            },
+            {
+                  "name": "Santuario del Santísimo Señor de Burgos",
+                  "text": "Un sanctuar creștin care servește ca loc de venerație pentru Santísimo Señor de Burgos.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.929637,
+                        -2.825976
+                  ]
+            },
+            {
+                  "name": "Iglesia de Domay",
+                  "text": "O biserică creștină care deservește locuitorii din zona Domay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.934246,
+                        -2.823514
+                  ]
+            },
+            {
+                  "name": "Iglesia San Sebastián de Solano",
+                  "text": "O biserică creștină locală închinată lui San Sebastián în zona rurală Solano.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.935164,
+                        -2.810388
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Dolorosa",
+                  "text": "Un lăcaș de cult creștin închinat Fecioarei Îndurerate, lângă parcul industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.945503,
+                        -2.804069
+                  ]
+            },
+            {
+                  "name": "Iglesia San Vicente de Sidcay",
+                  "text": "O biserică creștină care deservește comunitatea din San Vicente de Sidcay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.9545,
+                        -2.811488
+                  ]
+            },
+            {
+                  "name": "Iglesia de Adobepamba",
+                  "text": "Un sit religios creștin situat în zona Adobepamba.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.958633,
+                        -2.800491
+                  ]
+            },
+            {
+                  "name": "Iglesia De Bibin",
+                  "text": "O biserică creștină locală situată în așezarea Bibin.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978399,
+                        -2.805933
+                  ]
+            },
+            {
+                  "name": "Iglesia de Sidcay",
+                  "text": "O biserică creștină centrală pentru comunitatea din Sidcay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.964912,
+                        -2.817608
+                  ]
+            },
+            {
+                  "name": "Iglesia San Andrés de Checa",
+                  "text": "O biserică parohială creștină dedicată Sfântului Andrei în zona Checa.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.993023,
+                        -2.805212
+                  ]
+            },
+            {
+                  "name": "Iglesia San Marcial de Chiquintad",
+                  "text": "O biserică creștină dedicată lui San Marcial în zona Chiquintad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.002023,
+                        -2.813344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cruz",
+                  "text": "A monumental cross standing as a prominent religious and navigational landmark near the industrial park.",
+                  "category": "historical",
+                  "coords": [
+                        -78.951794,
+                        -2.841126
+                  ]
+            },
+            {
+                  "name": "Capilla DEL DIVINO NIÑO DE LAS MISERICORDIAS",
+                  "text": "A tranquil chapel dedicated to the Divine Child of Mercies, offering solace near the bustling industrial area.",
+                  "category": "religious",
+                  "coords": [
+                        -78.967208,
+                        -2.853588
+                  ]
+            },
+            {
+                  "name": "Iglesia de 3 de Mayo de Checa",
+                  "text": "A place of worship in Checa named for the May 3rd Feast of the Cross, central to local religious traditions.",
+                  "category": "religious",
+                  "coords": [
+                        -78.989108,
+                        -2.790237
+                  ]
+            },
+            {
+                  "name": "Iglesia de Lourdes",
+                  "text": "A Marian church dedicated to Our Lady of Lourdes, serving worshippers near the Cuenca industrial zone.",
+                  "category": "religious",
+                  "coords": [
+                        -78.948237,
+                        -2.851214
+                  ]
+            },
+            {
+                  "name": "Capilla Quinche",
+                  "text": "A small chapel honoring the Virgin of El Quinche, a highly venerated Marian title in Ecuador.",
+                  "category": "religious",
+                  "coords": [
+                        -78.953925,
+                        -2.860085
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Las Nieves",
+                  "text": "A community church dedicated to the Virgin of the Snows, featuring striking local religious artwork.",
+                  "category": "religious",
+                  "coords": [
+                        -78.944275,
+                        -2.791034
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE LA RAYA",
+                  "text": "A distinctive neighborhood church located in the La Raya sector, easily recognized by its sturdy architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -78.951996,
+                        -2.800972
+                  ]
+            },
+            {
+                  "name": "Centro Pastoral El Progreso",
+                  "text": "A pastoral center in the El Progreso neighborhood that organizes community outreach and regular church services.",
+                  "category": "religious",
+                  "coords": [
+                        -78.987766,
+                        -2.857524
+                  ]
+            },
+            {
+                  "name": "Iglesia Los Angeles",
+                  "text": "A community church dedicated to the Angels, providing an accessible place of worship for the nearby industrial workforce.",
+                  "category": "religious",
+                  "coords": [
+                        -78.981298,
+                        -2.851342
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel",
+                  "text": "A traditional church dedicated to Saint Michael the Archangel, functioning as a spiritual anchor for the surrounding district.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980723,
+                        -2.844643
+                  ]
+            },
+            {
+                  "name": "Iglesia Barrio la Asuncion",
+                  "text": "A neighborhood church located near Parque Industrial Cuenca serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -78.973471,
+                        -2.864966
+                  ]
+            },
+            {
+                  "name": "Mercado Ricaurte",
+                  "text": "A bustling local marketplace situated in the Ricaurte district near Cuenca's industrial park.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.963392,
+                        -2.861803
+                  ]
+            },
+            {
+                  "name": "Domay",
+                  "text": "A local attraction located in the Domay area near the Cuenca industrial park.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.935258,
+                        -2.82548
+                  ]
+            },
+            {
+                  "name": "Laguna guabizhun de Solano",
+                  "text": "A scenic lagoon attraction found in the rural Solano area near Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.936796,
+                        -2.804341
+                  ]
+            },
+            {
+                  "name": "El Portete de Zumbahuayco",
+                  "text": "A Christian religious site located at the Portete pass in the Zumbahuayco area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.903727,
+                        -2.833463
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José de Sidcay",
+                  "text": "A local Christian church serving the community of San José de Sidcay near Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978976,
+                        -2.819874
+                  ]
+            },
+            {
+                  "name": "Virgen la Dolorosa",
+                  "text": "A Christian shrine dedicated to the Virgen la Dolorosa located near Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.972077,
+                        -2.845456
+                  ]
+            },
+            {
+                  "name": "Iglesia María Auxiliadora",
+                  "text": "A Christian church dedicated to María Auxiliadora in the Cuenca industrial region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.966004,
+                        -2.839981
+                  ]
+            },
+            {
+                  "name": "Iglesia Corazón de Jesús",
+                  "text": "A local Christian place of worship named Corazón de Jesús serving the area's faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978437,
+                        -2.859571
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Luis de Parcoloma",
+                  "text": "A Christian church situated in the Parcoloma area near Cuenca's industrial park.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.969986,
+                        -2.791055
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Bartolomé",
+                  "text": "A Christian community church located in the settlement of San Bartolomé.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.969536,
+                        -2.785094
+                  ]
+            },
+            {
+                  "name": "Iglesia de El Calvario",
+                  "text": "A Christian church known as El Calvario serving the local community near Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.955246,
+                        -2.784854
+                  ]
+            },
+            {
+                  "name": "Iglesia Azhapud",
+                  "text": "A Christian religious structure located in the Azhapud area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.95195,
+                        -2.794197
+                  ]
+            },
+            {
+                  "name": "Iglesia de Caldera - Javier Loyola",
+                  "text": "A Christian church located in the Caldera area of the Javier Loyola parish.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.914552,
+                        -2.812287
+                  ]
+            },
+            {
+                  "name": "Iglesia de Ayancay",
+                  "text": "A Christian place of worship set in the rural community of Ayancay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.907467,
+                        -2.814898
+                  ]
+            },
+            {
+                  "name": "La Unión de Zumbahuayco",
+                  "text": "A Christian gathering site located in the area of La Unión de Zumbahuayco.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.89782,
+                        -2.82695
+                  ]
+            },
+            {
+                  "name": "Gruta de La Inmaculada Concepción de Ripichala - Mirador Turístico",
+                  "text": "A Christian grotto dedicated to the Immaculate Conception featuring a scenic viewpoint over Ripichala.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.943164,
+                        -2.836603
+                  ]
+            },
+            {
+                  "name": "Urna de San Lucas",
+                  "text": "A small Christian wayside shrine dedicated to Saint Luke near Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.941665,
+                        -2.837413
+                  ]
+            },
+            {
+                  "name": "Iglesia de Zhiquir",
+                  "text": "A Christian church building located in the Zhiquir area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.925386,
+                        -2.844017
+                  ]
+            },
+            {
+                  "name": "Capilla Señor de Burgos",
+                  "text": "A Christian chapel dedicated to the Señor de Burgos serving the local faithful.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.961835,
+                        -2.865626
+                  ]
+            },
+            {
+                  "name": "Santuario del Santísimo Señor de Burgos",
+                  "text": "A Christian sanctuary serving as a place of veneration for the Santísimo Señor de Burgos.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.929637,
+                        -2.825976
+                  ]
+            },
+            {
+                  "name": "Iglesia de Domay",
+                  "text": "A Christian church serving the residents of the Domay area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.934246,
+                        -2.823514
+                  ]
+            },
+            {
+                  "name": "Iglesia San Sebastián de Solano",
+                  "text": "A local Christian church dedicated to San Sebastián in the rural Solano area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.935164,
+                        -2.810388
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Dolorosa",
+                  "text": "A Christian place of worship dedicated to La Dolorosa near the industrial park.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.945503,
+                        -2.804069
+                  ]
+            },
+            {
+                  "name": "Iglesia San Vicente de Sidcay",
+                  "text": "A Christian church serving the community of San Vicente de Sidcay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.9545,
+                        -2.811488
+                  ]
+            },
+            {
+                  "name": "Iglesia de Adobepamba",
+                  "text": "A Christian religious site located in the Adobepamba area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.958633,
+                        -2.800491
+                  ]
+            },
+            {
+                  "name": "Iglesia De Bibin",
+                  "text": "A local Christian church located in the Bibin settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978399,
+                        -2.805933
+                  ]
+            },
+            {
+                  "name": "Iglesia de Sidcay",
+                  "text": "A Christian church central to the community of Sidcay.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.964912,
+                        -2.817608
+                  ]
+            },
+            {
+                  "name": "Iglesia San Andrés de Checa",
+                  "text": "A Christian parish church dedicated to San Andrés in the Checa area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.993023,
+                        -2.805212
+                  ]
+            },
+            {
+                  "name": "Iglesia San Marcial de Chiquintad",
+                  "text": "A Christian church dedicated to San Marcial in the Chiquintad area.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.002023,
+                        -2.813344
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-A",
     coords: [-78.966, -2.871],
@@ -218,7 +4106,196 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "shushufindi-oelfeld-economic-v2",
+    id: "shushufindi-oelfeld-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Padre",
+                  "text": "Das Padre-Monument in Shushufindi ist ein Denkmal im Zentrum der Ölförderregion.",
+                  "category": "historical",
+                  "coords": [
+                        -76.657407,
+                        -0.186919
+                  ]
+            },
+            {
+                  "name": "2 Indígenas",
+                  "text": "Das Denkmal 2 Indígenas in Shushufindi ehrt die indigenen Wurzeln der lokalen Bevölkerung.",
+                  "category": "historical",
+                  "coords": [
+                        -76.642007,
+                        -0.188192
+                  ]
+            },
+            {
+                  "name": "San Vicente",
+                  "text": "San Vicente in Shushufindi ist eine christliche Andachtsstätte für die lokale Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650346,
+                        -0.270972
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís",
+                  "text": "Die Iglesia Católica San Francisco de Asís ist eine katholische Pfarrkirche in Shushufindi.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.644974,
+                        -0.184922
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová, San Rogue - Sur",
+                  "text": "Der Königreichssaal der Zeugen Jehovas befindet sich im südlichen Bereich von San Rogue in Shushufindi.",
+                  "category": "religious",
+                  "coords": [
+                        -76.644709,
+                        -0.189307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Padre",
+                  "text": "A shushufindii Padre-emlékmű az olajtermelő régió központjában található.",
+                  "category": "historical",
+                  "coords": [
+                        -76.657407,
+                        -0.186919
+                  ]
+            },
+            {
+                  "name": "2 Indígenas",
+                  "text": "A shushufindii 2 Indígenas emlékmű a helyi lakosság őslakos gyökerei előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -76.642007,
+                        -0.188192
+                  ]
+            },
+            {
+                  "name": "San Vicente",
+                  "text": "A shushufindii San Vicente a helyi közösség keresztény istentiszteleti helye.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650346,
+                        -0.270972
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís",
+                  "text": "Az Iglesia Católica San Francisco de Asís egy katolikus plébániatemplom Shushufindiben.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.644974,
+                        -0.184922
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová, San Rogue - Sur",
+                  "text": "Jehova Tanúi Királyság Terme Shushufindiben, San Rogue déli részén található.",
+                  "category": "religious",
+                  "coords": [
+                        -76.644709,
+                        -0.189307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Padre",
+                  "text": "Monumentul Padre din Shushufindi este situat în centrul regiunii de extracție a petrolului.",
+                  "category": "historical",
+                  "coords": [
+                        -76.657407,
+                        -0.186919
+                  ]
+            },
+            {
+                  "name": "2 Indígenas",
+                  "text": "Monumentul 2 Indígenas din Shushufindi onorează rădăcinile indigene ale populației locale.",
+                  "category": "historical",
+                  "coords": [
+                        -76.642007,
+                        -0.188192
+                  ]
+            },
+            {
+                  "name": "San Vicente",
+                  "text": "San Vicente din Shushufindi este un lăcaș de cult creștin pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650346,
+                        -0.270972
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís",
+                  "text": "Iglesia Católica San Francisco de Asís este o biserică parohială catolică din Shushufindi.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.644974,
+                        -0.184922
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová, San Rogue - Sur",
+                  "text": "Sala Regatului a Martorilor lui Iehova este situată în zona de sud a localității San Rogue, în Shushufindi.",
+                  "category": "religious",
+                  "coords": [
+                        -76.644709,
+                        -0.189307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Padre",
+                  "text": "The Padre monument in Shushufindi stands as a memorial in the heart of the oil-producing region.",
+                  "category": "historical",
+                  "coords": [
+                        -76.657407,
+                        -0.186919
+                  ]
+            },
+            {
+                  "name": "2 Indígenas",
+                  "text": "The 2 Indígenas monument in Shushufindi honors the indigenous roots of the local population.",
+                  "category": "historical",
+                  "coords": [
+                        -76.642007,
+                        -0.188192
+                  ]
+            },
+            {
+                  "name": "San Vicente",
+                  "text": "San Vicente in Shushufindi serves as a Christian place of devotion for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650346,
+                        -0.270972
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís",
+                  "text": "The Iglesia Católica San Francisco de Asís is a Catholic parish church located in Shushufindi.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.644974,
+                        -0.184922
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, San Rogue - Sur",
+                  "text": "The Kingdom Hall of Jehovah's Witnesses is situated in the southern part of San Rogue in Shushufindi.",
+                  "category": "religious",
+                  "coords": [
+                        -76.644709,
+                        -0.189307
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-U",
     coords: [-76.649, -0.187],
@@ -266,7 +4343,52 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "puerto-de-esmeraldas-economic-v2",
+    id: "puerto-de-esmeraldas-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "FAro",
+                  "text": "Dieser Leuchtturm weist Schiffen den Weg zum Hafen von Esmeraldas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.646401,
+                        0.994966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "FAro",
+                  "text": "Ez a világítótorony mutatja az utat a hajóknak Esmeraldas kikötője felé.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.646401,
+                        0.994966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "FAro",
+                  "text": "Acest far ghidează traficul maritim către portul Esmeraldas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.646401,
+                        0.994966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "FAro",
+                  "text": "This lighthouse guides maritime traffic to the port of Esmeraldas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.646401,
+                        0.994966
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EC-E",
     coords: [-79.654, 0.998],
@@ -314,7 +4436,808 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "pronaca-fleischverarbeitung-economic-v2",
+    id: "pronaca-fleischverarbeitung-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alma Santa o Turbante.",
+                  "text": "Ein Denkmal, das in der Region als Heilige Seele oder Turban bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -78.415027,
+                        -0.308451
+                  ]
+            },
+            {
+                  "name": "Pillivaro",
+                  "text": "Ein markanter Berggipfel, der die lokale Andenlandschaft prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.39334,
+                        -0.29024
+                  ]
+            },
+            {
+                  "name": "BALNEARIO LA MERCED",
+                  "text": "Ein lokales Bade- und Erholungsresort.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.395715,
+                        -0.29184
+                  ]
+            },
+            {
+                  "name": "Aguas Tolontag",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegenden Wasserquellen von Tolontag.",
+                  "category": "natural",
+                  "coords": [
+                        -78.315249,
+                        -0.344775
+                  ]
+            },
+            {
+                  "name": "Torrecillas",
+                  "text": "Ein markanter Berggipfel namens Torrecillas in der Andenregion.",
+                  "category": "natural",
+                  "coords": [
+                        -78.314207,
+                        -0.339728
+                  ]
+            },
+            {
+                  "name": "Tolontag",
+                  "text": "Ein Berggipfel, der die lokale Topografie der Region dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        -78.31558,
+                        -0.36479
+                  ]
+            },
+            {
+                  "name": "Centro Turístico La Cocha",
+                  "text": "Ein Touristenzentrum, das sich auf lokale Freizeitaktivitäten konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.394451,
+                        -0.29796
+                  ]
+            },
+            {
+                  "name": "Granja agroecologuica EL Aliso",
+                  "text": "Ein agroökologischer Bauernhof, der nachhaltige landwirtschaftliche Praktiken fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.408769,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Titiriteatro La Rana Sabia",
+                  "text": "Ein auf Puppenspiel spezialisiertes Theater, das als „Die weise Frosch“ bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.408327,
+                        -0.291722
+                  ]
+            },
+            {
+                  "name": "Iglesia de Betania",
+                  "text": "Eine christliche Kirche, die den biblischen Namen Bethanien trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.437625,
+                        -0.308542
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein Königreichssaal der lokalen Gemeinde der Zeugen Jehovas.",
+                  "category": "religious",
+                  "coords": [
+                        -78.373371,
+                        -0.375668
+                  ]
+            },
+            {
+                  "name": "Urna Católica San Isidro Labrador | Pintag",
+                  "text": "Ein katholischer Wegschrein in Pintag, der dem Heiligen Isidor von Madrid gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.37307,
+                        -0.3682
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Pintag",
+                  "text": "Eine evangelisch-apostolische Kirche in der Ortschaft Pintag.",
+                  "category": "religious",
+                  "coords": [
+                        -78.374105,
+                        -0.371374
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Auxiliadora",
+                  "text": "Eine katholische Kirche, die Maria, der Hilfe der Christen, geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.378088,
+                        -0.355746
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de La Merced del Valle",
+                  "text": "Eine katholische Kirche, die der Barmherzigen Muttergottes des Tals gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.400174,
+                        -0.292237
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Jerónimo de Pintag",
+                  "text": "Die katholische Pfarrkirche von Pintag, die dem Heiligen Hieronymus geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.375258,
+                        -0.37207
+                  ]
+            },
+            {
+                  "name": "Capilla de San Juan de la Tola",
+                  "text": "Eine christliche Kapelle in der Gegend von San Juan de la Tola.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.389453,
+                        -0.355163
+                  ]
+            },
+            {
+                  "name": "Santuario Católico de Schönstatt - Alangasí",
+                  "text": "Ein katholisches Schönstatt-Heiligtum in Alangasí.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.411126,
+                        -0.301627
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de San Juan Loma",
+                  "text": "Eine katholische Kapelle, die auf dem Hügel San Juan Loma errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.418135,
+                        -0.301851
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Alangasí Merced",
+                  "text": "Ein Königreichssaal für die Zeugen Jehovas in Alangasí und La Merced.",
+                  "category": "religious",
+                  "coords": [
+                        -78.417682,
+                        -0.303508
+                  ]
+            },
+            {
+                  "name": "Mercado Alangasí",
+                  "text": "Ein lokaler Markt in Alangasí, auf dem frische Produkte und regionale Waren verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.416448,
+                        -0.307632
+                  ]
+            },
+            {
+                  "name": "Termas de La Merced",
+                  "text": "Öffentliche Thermalbäder mit natürlichen heißen Quellen zur Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.395034,
+                        -0.292977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alma Santa o Turbante.",
+                  "text": "Egy helyi emlékmű, amelyet Szent Lélekként vagy Turbánként ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        -78.415027,
+                        -0.308451
+                  ]
+            },
+            {
+                  "name": "Pillivaro",
+                  "text": "Egy jellegzetes hegycsúcs, amely meghatározza a helyi andoki tájat.",
+                  "category": "natural",
+                  "coords": [
+                        -78.39334,
+                        -0.29024
+                  ]
+            },
+            {
+                  "name": "BALNEARIO LA MERCED",
+                  "text": "Egy helyi fürdő- és üdülőközpont.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.395715,
+                        -0.29184
+                  ]
+            },
+            {
+                  "name": "Aguas Tolontag",
+                  "text": "Egy kilátópont, ahonnan a Tolontag környéki vizekre nyílik rálátás.",
+                  "category": "natural",
+                  "coords": [
+                        -78.315249,
+                        -0.344775
+                  ]
+            },
+            {
+                  "name": "Torrecillas",
+                  "text": "Egy Torrecillas néven ismert kiemelkedő hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -78.314207,
+                        -0.339728
+                  ]
+            },
+            {
+                  "name": "Tolontag",
+                  "text": "Egy hegycsúcs, amely a régió helyi topográfiáját uralja.",
+                  "category": "natural",
+                  "coords": [
+                        -78.31558,
+                        -0.36479
+                  ]
+            },
+            {
+                  "name": "Centro Turístico La Cocha",
+                  "text": "Egy helyi szabadidős tevékenységekre összpontosító turisztikai központ.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.394451,
+                        -0.29796
+                  ]
+            },
+            {
+                  "name": "Granja agroecologuica EL Aliso",
+                  "text": "Egy fenntartható gazdálkodási gyakorlatokat népszerűsítő agroökológiai farm.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.408769,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Titiriteatro La Rana Sabia",
+                  "text": "Egy bábelőadásokra specializálódott színház, amelyet \"A Bölcs Béka\" néven ismernek.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.408327,
+                        -0.291722
+                  ]
+            },
+            {
+                  "name": "Iglesia de Betania",
+                  "text": "Egy keresztény templom, amely a bibliai Betánia nevét viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.437625,
+                        -0.308542
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A helyi Jehova Tanúi gyülekezetének Királyság-terme.",
+                  "category": "religious",
+                  "coords": [
+                        -78.373371,
+                        -0.375668
+                  ]
+            },
+            {
+                  "name": "Urna Católica San Isidro Labrador | Pintag",
+                  "text": "Egy Pintagban található katolikus úti szentély, amelyet Földműves Szent Izidornak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.37307,
+                        -0.3682
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Pintag",
+                  "text": "Egy evangéliumi apostoli templom Pintag településén.",
+                  "category": "religious",
+                  "coords": [
+                        -78.374105,
+                        -0.371374
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Auxiliadora",
+                  "text": "Egy Keresztények Segítsége Szűz Máriának szentelt katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.378088,
+                        -0.355746
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de La Merced del Valle",
+                  "text": "Egy A Völgy Irgalmas Szűzanyjának szentelt katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.400174,
+                        -0.292237
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Jerónimo de Pintag",
+                  "text": "Pintag katolikus plébániatemploma, amelyet Szent Jeromosnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.375258,
+                        -0.37207
+                  ]
+            },
+            {
+                  "name": "Capilla de San Juan de la Tola",
+                  "text": "Egy keresztény kápolna San Juan de la Tola területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.389453,
+                        -0.355163
+                  ]
+            },
+            {
+                  "name": "Santuario Católico de Schönstatt - Alangasí",
+                  "text": "Egy Alangasíban található Schönstatt katolikus kegyhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.411126,
+                        -0.301627
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de San Juan Loma",
+                  "text": "Egy a San Juan Loma dombon épült katolikus kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.418135,
+                        -0.301851
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Alangasí Merced",
+                  "text": "Jehova Tanúi Királyság-terme Alangasí és La Merced területén.",
+                  "category": "religious",
+                  "coords": [
+                        -78.417682,
+                        -0.303508
+                  ]
+            },
+            {
+                  "name": "Mercado Alangasí",
+                  "text": "Egy helyi piac Alangasíban, ahol friss termékeket és regionális árukat árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.416448,
+                        -0.307632
+                  ]
+            },
+            {
+                  "name": "Termas de La Merced",
+                  "text": "Nyilvános termálfürdők természetes hőforrásokkal a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.395034,
+                        -0.292977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alma Santa o Turbante.",
+                  "text": "Un monument local cunoscut sub numele de Sufletul Sfânt sau Turbanul.",
+                  "category": "historical",
+                  "coords": [
+                        -78.415027,
+                        -0.308451
+                  ]
+            },
+            {
+                  "name": "Pillivaro",
+                  "text": "Un vârf montan proeminent care domină peisajul andin local.",
+                  "category": "natural",
+                  "coords": [
+                        -78.39334,
+                        -0.29024
+                  ]
+            },
+            {
+                  "name": "BALNEARIO LA MERCED",
+                  "text": "O stațiune balneară locală care oferă facilități de relaxare.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.395715,
+                        -0.29184
+                  ]
+            },
+            {
+                  "name": "Aguas Tolontag",
+                  "text": "Un punct de belvedere cu vedere la apele din zona Tolontag.",
+                  "category": "natural",
+                  "coords": [
+                        -78.315249,
+                        -0.344775
+                  ]
+            },
+            {
+                  "name": "Torrecillas",
+                  "text": "Un vârf montan notabil cunoscut sub numele de Torrecillas.",
+                  "category": "natural",
+                  "coords": [
+                        -78.314207,
+                        -0.339728
+                  ]
+            },
+            {
+                  "name": "Tolontag",
+                  "text": "Un vârf montan care domină topografia regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -78.31558,
+                        -0.36479
+                  ]
+            },
+            {
+                  "name": "Centro Turístico La Cocha",
+                  "text": "Un centru turistic axat pe activități de agrement locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.394451,
+                        -0.29796
+                  ]
+            },
+            {
+                  "name": "Granja agroecologuica EL Aliso",
+                  "text": "O fermă agroecologică ce promovează practici agricole durabile.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.408769,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Titiriteatro La Rana Sabia",
+                  "text": "Un teatru specializat în spectacole de păpuși, cunoscut sub numele de Broasca Înțeleaptă.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.408327,
+                        -0.291722
+                  ]
+            },
+            {
+                  "name": "Iglesia de Betania",
+                  "text": "O biserică creștină care poartă numele biblic Betania.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.437625,
+                        -0.308542
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului care servește comunitatea locală a Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -78.373371,
+                        -0.375668
+                  ]
+            },
+            {
+                  "name": "Urna Católica San Isidro Labrador | Pintag",
+                  "text": "Un altar stradal catolic din Pintag dedicat Sfântului Isidor Plugarul.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.37307,
+                        -0.3682
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Pintag",
+                  "text": "O biserică evanghelică apostolică situată în Pintag.",
+                  "category": "religious",
+                  "coords": [
+                        -78.374105,
+                        -0.371374
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Auxiliadora",
+                  "text": "O biserică catolică dedicată Mariei, Ajutorul Creștinilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.378088,
+                        -0.355746
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de La Merced del Valle",
+                  "text": "O biserică catolică dedicată Maicii Domnului a Îndurării din Vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.400174,
+                        -0.292237
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Jerónimo de Pintag",
+                  "text": "Biserica parohială catolică din Pintag, dedicată Sfântului Ieronim.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.375258,
+                        -0.37207
+                  ]
+            },
+            {
+                  "name": "Capilla de San Juan de la Tola",
+                  "text": "O capelă creștină situată în zona San Juan de la Tola.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.389453,
+                        -0.355163
+                  ]
+            },
+            {
+                  "name": "Santuario Católico de Schönstatt - Alangasí",
+                  "text": "Un sanctuar catolic Schönstatt situat în Alangasí.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.411126,
+                        -0.301627
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de San Juan Loma",
+                  "text": "O capelă catolică construită pe dealul San Juan Loma.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.418135,
+                        -0.301851
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Alangasí Merced",
+                  "text": "O Sală a Regatului pentru Martorii lui Iehova din Alangasí și La Merced.",
+                  "category": "religious",
+                  "coords": [
+                        -78.417682,
+                        -0.303508
+                  ]
+            },
+            {
+                  "name": "Mercado Alangasí",
+                  "text": "O piață locală din Alangasí unde se vând produse proaspete și mărfuri regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.416448,
+                        -0.307632
+                  ]
+            },
+            {
+                  "name": "Termas de La Merced",
+                  "text": "Băi termale publice cu izvoare naturale de apă caldă.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.395034,
+                        -0.292977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alma Santa o Turbante.",
+                  "text": "A monument known locally as the Holy Soul or Turban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.415027,
+                        -0.308451
+                  ]
+            },
+            {
+                  "name": "Pillivaro",
+                  "text": "A prominent mountain peak shaping the local Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -78.39334,
+                        -0.29024
+                  ]
+            },
+            {
+                  "name": "BALNEARIO LA MERCED",
+                  "text": "A local bathing resort offering relaxation facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.395715,
+                        -0.29184
+                  ]
+            },
+            {
+                  "name": "Aguas Tolontag",
+                  "text": "A viewpoint overlooking the local waters of Tolontag.",
+                  "category": "natural",
+                  "coords": [
+                        -78.315249,
+                        -0.344775
+                  ]
+            },
+            {
+                  "name": "Torrecillas",
+                  "text": "A notable mountain peak known as Torrecillas.",
+                  "category": "natural",
+                  "coords": [
+                        -78.314207,
+                        -0.339728
+                  ]
+            },
+            {
+                  "name": "Tolontag",
+                  "text": "A mountain peak that dominates the local topography.",
+                  "category": "natural",
+                  "coords": [
+                        -78.31558,
+                        -0.36479
+                  ]
+            },
+            {
+                  "name": "Centro Turístico La Cocha",
+                  "text": "A tourist center focusing on local leisure activities.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.394451,
+                        -0.29796
+                  ]
+            },
+            {
+                  "name": "Granja agroecologuica EL Aliso",
+                  "text": "An agroecological farm promoting sustainable agricultural practices.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.408769,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Titiriteatro La Rana Sabia",
+                  "text": "A puppet theater known as The Wise Frog.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.408327,
+                        -0.291722
+                  ]
+            },
+            {
+                  "name": "Iglesia de Betania",
+                  "text": "A Christian church bearing the biblical name of Bethany.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.437625,
+                        -0.308542
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Kingdom Hall serving the local Jehovah's Witnesses congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -78.373371,
+                        -0.375668
+                  ]
+            },
+            {
+                  "name": "Urna Católica San Isidro Labrador | Pintag",
+                  "text": "A Catholic roadside shrine in Pintag dedicated to Saint Isidore the Laborer.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.37307,
+                        -0.3682
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Pintag",
+                  "text": "An Apostolic Evangelical church located in Pintag.",
+                  "category": "religious",
+                  "coords": [
+                        -78.374105,
+                        -0.371374
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Auxiliadora",
+                  "text": "A Catholic church dedicated to Mary Help of Christians.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.378088,
+                        -0.355746
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de La Merced del Valle",
+                  "text": "A Catholic church dedicated to Our Lady of Mercy of the Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.400174,
+                        -0.292237
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Jerónimo de Pintag",
+                  "text": "The Catholic parish church of Pintag, dedicated to Saint Jerome.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.375258,
+                        -0.37207
+                  ]
+            },
+            {
+                  "name": "Capilla de San Juan de la Tola",
+                  "text": "A Christian chapel situated in the area of San Juan de la Tola.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.389453,
+                        -0.355163
+                  ]
+            },
+            {
+                  "name": "Santuario Católico de Schönstatt - Alangasí",
+                  "text": "A Catholic Schoenstatt shrine located in Alangasí.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.411126,
+                        -0.301627
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de San Juan Loma",
+                  "text": "A Catholic chapel built on the hill of San Juan Loma.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.418135,
+                        -0.301851
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Alangasí Merced",
+                  "text": "A Kingdom Hall for Jehovah's Witnesses in Alangasí and La Merced.",
+                  "category": "religious",
+                  "coords": [
+                        -78.417682,
+                        -0.303508
+                  ]
+            },
+            {
+                  "name": "Mercado Alangasí",
+                  "text": "A local market in Alangasí where vendors sell fresh produce and regional goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.416448,
+                        -0.307632
+                  ]
+            },
+            {
+                  "name": "Termas de La Merced",
+                  "text": "Public thermal baths offering natural hot springs for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.395034,
+                        -0.292977
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-P",
     coords: [-78.385, -0.321],
@@ -362,7 +5285,1456 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "gmac-automontage-quito-economic-v2",
+    id: "gmac-automontage-quito-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Escultura",
+                  "text": "Diese moderne Außenskulptur verleiht der umliegenden städtischen Umgebung im Süden Quitos einen Hauch von abstraktem künstlerischem Ausdruck.",
+                  "category": "historical",
+                  "coords": [
+                        -78.547018,
+                        -0.28735
+                  ]
+            },
+            {
+                  "name": "El Monumento forma de #1",
+                  "text": "Entworfen in der markanten Form der Zahl Eins, steht dieses einzigartige Denkmal als beeindruckendes visuelles Wahrzeichen im Bezirk.",
+                  "category": "historical",
+                  "coords": [
+                        -78.576351,
+                        -0.330036
+                  ]
+            },
+            {
+                  "name": "Monumento Parque Metropolitano del Sur",
+                  "text": "Am Eingang des weitläufigen Metropolitan Park of the South gelegen, markiert dieses Denkmal das Tor zu einer der größten Grünflächen Quitos.",
+                  "category": "historical",
+                  "coords": [
+                        -78.521874,
+                        -0.341657
+                  ]
+            },
+            {
+                  "name": "Stoned Riders",
+                  "text": "Dieses dynamische Kunst- und Kulturzentrum dient als pulsierender Knotenpunkt für alternative lokale Künstler und die städtische Jugendkultur.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.539825,
+                        -0.279037
+                  ]
+            },
+            {
+                  "name": "iglesia cristiana Antioquia",
+                  "text": "Die Iglesia Cristiana Antioquia dient als religiöses Auditorium und Versammlungsort in der Region Quito.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.523769,
+                        -0.3101
+                  ]
+            },
+            {
+                  "name": "Academia MusicLand",
+                  "text": "Die Academy MusicLand ist ein lokaler Veranstaltungsort in Quito, der sich der musikalischen Bildung und Theateraufführungen widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.565773,
+                        -0.300633
+                  ]
+            },
+            {
+                  "name": "iglesia Cristo Liberador",
+                  "text": "Die Iglesia Cristo Liberador ist ein lokales spirituelles Zentrum für christliche Gottesdienste und gemeinsames Gebet in Quito.",
+                  "category": "religious",
+                  "coords": [
+                        -78.530896,
+                        -0.289396
+                  ]
+            },
+            {
+                  "name": "Iglesia San Andrés Kim",
+                  "text": "Die dem koreanischen Märtyrer gewidmete Iglesia San Andrés Kim dient der katholischen Gemeinde in der Region Quito mit regelmäßigen Messen.",
+                  "category": "religious",
+                  "coords": [
+                        -78.540262,
+                        -0.281005
+                  ]
+            },
+            {
+                  "name": "Genesis 7",
+                  "text": "Genesis 7 ist ein evangelisches Gotteshaus in Quito, in dem sich die lokale Gemeinde zum Bibelstudium und Gebet versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -78.548003,
+                        -0.279619
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Apostolica del Nombre de Jesús",
+                  "text": "Diese apostolisch-evangelische Kirche in Quito bietet einen lebendigen Raum für Gemeindegottesdienste und religiöse Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        -78.538327,
+                        -0.286178
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Das Gnosis-Zentrum in Quito fungiert als spirituelle Studieneinrichtung, die sich auf esoterische Lehren und Meditation konzentriert.",
+                  "category": "religious",
+                  "coords": [
+                        -78.538114,
+                        -0.282482
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Narcisa de Jesús",
+                  "text": "Die nach einer ecuadorianischen Heiligen benannte katholische Kirche Santa Narcisa de Jesus ist eine Pfarrei für die spirituellen Bedürfnisse der Gemeinde in Quito.",
+                  "category": "religious",
+                  "coords": [
+                        -78.533227,
+                        -0.307454
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - El Mirador",
+                  "text": "Diese Zweigstelle der Apostolischen Evangelischen Kirche im Viertel El Mirador in Quito veranstaltet regelmäßige Gemeindegottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -78.525876,
+                        -0.311173
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista El Ejército",
+                  "text": "Die adventistische Kirche El Ejército in Quito ist eine den Sabbat haltende Gemeinde, die einen friedlichen Saal für Gebet und Gemeinschaft bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.547355,
+                        -0.30741
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehova",
+                  "text": "Dieser Königreichssaal in Quito fungiert als bescheidener lokaler Knotenpunkt für das Bibelstudium und die Zusammenkünfte der Zeugen Jehovas.",
+                  "category": "religious",
+                  "coords": [
+                        -78.560659,
+                        -0.307046
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Ecuatoriana",
+                  "text": "Diese apostolische Gemeinde im Stadtteil La Ecuatoriana in Quito ist ein zentraler Treffpunkt für evangelische Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        -78.563973,
+                        -0.308625
+                  ]
+            },
+            {
+                  "name": "Escultura de la Virgen María",
+                  "text": "Die Escultura de la Virgen María in Quito ist eine marianische Skulptur im Freien, die als Mittelpunkt für lokale Andachten und Gebete unter freiem Himmel dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.551259,
+                        -0.340292
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová San Martín Pueblo Unido",
+                  "text": "Dieser Königreichssaal dient dem Viertel San Martín Pueblo Unido in Quito und bietet eine strukturierte Umgebung für die Predigtdienstzusammenkünfte der Zeugen Jehovas.",
+                  "category": "religious",
+                  "coords": [
+                        -78.525705,
+                        -0.298447
+                  ]
+            },
+            {
+                  "name": "Iglesia El Cinto",
+                  "text": "Vor der bergigen Kulisse der Region Quito gelegen, ist die Iglesia El Cinto ein anerkanntes religiöses Wahrzeichen, in dem lokale katholische Messen stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        -78.571207,
+                        -0.246791
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica antigua de Chillogallo - Eventos Comunitarios",
+                  "text": "Diese alte katholische Kirche im Sektor Chillogallo in Quito wird heute als Veranstaltungsort für religiöse Gemeindeereignisse und lokale Zusammenkünfte genutzt.",
+                  "category": "religious",
+                  "coords": [
+                        -78.554606,
+                        -0.276834
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Lucha Alta Turubamba",
+                  "text": "Dieser ausgewiesene Königreichssaal im Bezirk Turubamba in Quito dient als Lehr- und Versammlungsraum für die lokalen Zeugen Jehovas.",
+                  "category": "religious",
+                  "coords": [
+                        -78.53708,
+                        -0.282213
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Martha",
+                  "text": "Der Mercado Santa Martha ist ein belebter Viertelmarkt in Quito, der an seinen Ständen frische regionale Produkte und Güter des täglichen Bedarfs anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.558316,
+                        -0.277234
+                  ]
+            },
+            {
+                  "name": "Li-chem",
+                  "text": "Li-chem agiert als spezialisiertes Handelsgeschäft innerhalb der Marktszene von Quito und versorgt die lokalen Käufer mit verschiedenen Einzelhandelswaren.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.543618,
+                        -0.27915
+                  ]
+            },
+            {
+                  "name": "Mercado Ciudadela Ibarra",
+                  "text": "Dieser überdachte Markt dient dem Sektor Ciudadela Ibarra in Quito und ist voller lokaler Händler, die traditionelle Zutaten und zubereitetes Streetfood verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.562742,
+                        -0.294973
+                  ]
+            },
+            {
+                  "name": "Mercado la Ecuatoriana",
+                  "text": "Dieser Gemeindemarkt im Viertel La Ecuatoriana in Quito verfügt über organisierte Stände, die mit ecuadorianischem Obst, Gemüse und Fleisch beladen sind.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.562736,
+                        -0.309801
+                  ]
+            },
+            {
+                  "name": "Las Cuadras (Chillogallo)",
+                  "text": "Las Cuadras in der Gegend von Chillogallo in Quito ist ein bedeutendes Handelszentrum, in dem sich lokale Bauern und Händler versammeln, um landwirtschaftliche Erzeugnisse in großen Mengen zu verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.55261,
+                        -0.281035
+                  ]
+            },
+            {
+                  "name": "Bar Las cuadras",
+                  "text": "Die Bar Las Cuadras in der Nähe des Handelszentrums in Quito ist ein lokaler Erfrischungsort, der Getränke für Marktbesucher und Händler anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.548864,
+                        -0.285548
+                  ]
+            },
+            {
+                  "name": "Parque San José de Guamaní",
+                  "text": "Der Parque San José de Guamaní ist eine öffentliche Grünfläche im Süden von Quito mit gepflasterten Wegen und Erholungsgebieten für die Anwohner.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.548631,
+                        -0.329704
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano del Sur",
+                  "text": "Dieser riesige südliche Stadtpark in Quito umfasst sanfte Hügel und bewaldete Wege und bietet ein weitläufiges ökologisches Reservat für Wanderer.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.511168,
+                        -0.312938
+                  ]
+            },
+            {
+                  "name": "Parque San Martín de Porres",
+                  "text": "Der Parque San Martín de Porres dient als Gemeindezentrum in Quito und bietet lokale Außensportplätze und schattige Rastplätze.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.522714,
+                        -0.298373
+                  ]
+            },
+            {
+                  "name": "Parque quebrada Ortega",
+                  "text": "Der um eine natürliche Schlucht in Quito angelegte Parque Quebrada Ortega bewahrt die lokale Flora und bietet landschaftlich reizvolle Wanderwege entlang der steilen Hänge.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.556349,
+                        -0.297875
+                  ]
+            },
+            {
+                  "name": "Iglesia de Urauco",
+                  "text": "Die Iglesia de Urauco ist eine ländliche christliche Kapelle in der Nähe von Quito, die aus traditionellen Materialien erbaut wurde, um der umliegenden landwirtschaftlichen Gemeinde zu dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.613568,
+                        -0.238513
+                  ]
+            },
+            {
+                  "name": "Turubamba",
+                  "text": "Das christliche Zentrum Turubamba im Süden von Quito fungiert als Pfarrei, die sich auf lokale Gottesdienste und Jugendarbeit konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.541805,
+                        -0.279948
+                  ]
+            },
+            {
+                  "name": "Capilla Universidad Salesiana",
+                  "text": "Diese Kapelle auf dem Campus der Salesianer-Universität in Quito bietet einen ruhigen Raum für Studentenmessen und akademische Seelsorge.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.550087,
+                        -0.283581
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Cristóbal - Guajaló",
+                  "text": "Die katholische Kirche San Cristóbal dient dem Viertel Guajaló in Quito und verfügt über einen markanten Glockenturm sowie regelmäßige Gemeindemessen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.536831,
+                        -0.284864
+                  ]
+            },
+            {
+                  "name": "Iglesia San José del Cinto",
+                  "text": "Eingebettet in den Hang von El Cinto in der Nähe von Quito, ist dieses christliche Heiligtum ein beliebter Wallfahrtsort zu Ehren des Heiligen Josef.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597477,
+                        -0.243002
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa María del Camino - El Girón de Chillogallo",
+                  "text": "Diese katholische Pfarrei im Sektor Chillogallo in Quito bietet der dichten Wohnsiedlung El Girón spirituelle Führung und sakramentale Dienste.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564606,
+                        -0.287613
+                  ]
+            },
+            {
+                  "name": "IGLESIA METANOYA",
+                  "text": "Die Iglesia Metanoya ist eine zeitgenössische christliche Gemeinde in Quito, die sich auf moderne Gottesdienstformen und gemeinnützige Arbeit konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.562626,
+                        -0.284212
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Chillogallo",
+                  "text": "Diese apostolisch-evangelische Kirche im Viertel Chillogallo in Quito verfügt über einen lebhaften Gemeindesaal für ihre lokalen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.56307,
+                        -0.279646
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Luis de Chillogallo",
+                  "text": "Als wichtigstes katholisches Zentrum in Chillogallo fungiert diese Kirche in Quito als bedeutender Veranstaltungsort für regionale religiöse Feste und tägliche Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.568054,
+                        -0.275667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Escultura",
+                  "text": "Ez a modern köztéri szobor egy csipetnyi absztrakt művészi kifejezést kölcsönöz a környező városi környezetnek Quito déli részén.",
+                  "category": "historical",
+                  "coords": [
+                        -78.547018,
+                        -0.28735
+                  ]
+            },
+            {
+                  "name": "El Monumento forma de #1",
+                  "text": "Az egyes szám jellegzetes formájára tervezett egyedi emlékmű a kerület feltűnő vizuális nevezetességeként áll.",
+                  "category": "historical",
+                  "coords": [
+                        -78.576351,
+                        -0.330036
+                  ]
+            },
+            {
+                  "name": "Monumento Parque Metropolitano del Sur",
+                  "text": "A kiterjedt déli Fővárosi Park bejáratánál található emlékmű Quito egyik legnagyobb zöldterületének kapuját jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        -78.521874,
+                        -0.341657
+                  ]
+            },
+            {
+                  "name": "Stoned Riders",
+                  "text": "Ez a dinamikus művészeti és kulturális központ az alternatív helyi művészek és a városi ifjúsági kultúra nyüzsgő központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.539825,
+                        -0.279037
+                  ]
+            },
+            {
+                  "name": "iglesia cristiana Antioquia",
+                  "text": "Az Iglesia Cristiana Antioquia egy vallási előadóteremként és közösségi térként működik a quitói régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.523769,
+                        -0.3101
+                  ]
+            },
+            {
+                  "name": "Academia MusicLand",
+                  "text": "Az Academy MusicLand egy helyi előadóművészeti helyszín Quitóban, amely zenei oktatásnak és színházi műsoroknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.565773,
+                        -0.300633
+                  ]
+            },
+            {
+                  "name": "iglesia Cristo Liberador",
+                  "text": "Az Iglesia Cristo Liberador egy helyi spirituális központ, amely teret ad a keresztény istentiszteleteknek és közösségi imáknak Quitóban.",
+                  "category": "religious",
+                  "coords": [
+                        -78.530896,
+                        -0.289396
+                  ]
+            },
+            {
+                  "name": "Iglesia San Andrés Kim",
+                  "text": "A koreai vértanúnak szentelt Iglesia San Andrés Kim a quitói régió katolikus közösségét szolgálja rendszeres misékkel.",
+                  "category": "religious",
+                  "coords": [
+                        -78.540262,
+                        -0.281005
+                  ]
+            },
+            {
+                  "name": "Genesis 7",
+                  "text": "A Genesis 7 egy quitói evangéliumi istentiszteleti hely, ahol a helyi gyülekezet bibliaórákra és imákra gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        -78.548003,
+                        -0.279619
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Apostolica del Nombre de Jesús",
+                  "text": "Ez a quitói apostoli evangéliumi templom nyüzsgő teret biztosít a gyülekezeti istentiszteleteknek és vallási összejöveteleknek.",
+                  "category": "religious",
+                  "coords": [
+                        -78.538327,
+                        -0.286178
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "A quitói Gnosis központ spirituális tanulmányi intézményként működik, amely az ezoterikus tanításokra és a meditációra fókuszál.",
+                  "category": "religious",
+                  "coords": [
+                        -78.538114,
+                        -0.282482
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Narcisa de Jesús",
+                  "text": "Az ecuadori szentről elnevezett Santa Narcisa de Jesus katolikus templom a quitói közösség spirituális igényeit szolgáló plébánia.",
+                  "category": "religious",
+                  "coords": [
+                        -78.533227,
+                        -0.307454
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - El Mirador",
+                  "text": "A Quito El Mirador negyedében található apostoli evangéliumi gyülekezet rendszeres közösségi istentiszteleteknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -78.525876,
+                        -0.311173
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista El Ejército",
+                  "text": "A quitói El Ejército adventista templom egy szombatot tartó gyülekezet, amely békés termet kínál imára és közösségi életre.",
+                  "category": "religious",
+                  "coords": [
+                        -78.547355,
+                        -0.30741
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehova",
+                  "text": "Ez a quitói Királyság-terem a Jehova Tanúi bibliaóráinak és összejöveteleinek szerény helyi központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -78.560659,
+                        -0.307046
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Ecuatoriana",
+                  "text": "A Quito La Ecuatoriana negyedében található apostoli gyülekezet központi találkozóhelyet biztosít az evangéliumi hívők számára.",
+                  "category": "religious",
+                  "coords": [
+                        -78.563973,
+                        -0.308625
+                  ]
+            },
+            {
+                  "name": "Escultura de la Virgen María",
+                  "text": "A quitói Escultura de la Virgen María egy szabadtéri Mária-szobor, amely a helyi áhítatok és szabadtéri imák központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -78.551259,
+                        -0.340292
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová San Martín Pueblo Unido",
+                  "text": "A quitói San Martín Pueblo Unido negyedet szolgáló Királyság-terem strukturált környezetet biztosít Jehova Tanúi szolgálati összejöveteleihez.",
+                  "category": "religious",
+                  "coords": [
+                        -78.525705,
+                        -0.298447
+                  ]
+            },
+            {
+                  "name": "Iglesia El Cinto",
+                  "text": "A quitói régió hegyvidéki terepén fekvő Iglesia El Cinto egy elismert vallási nevezetesség, amely helyi katolikus miséknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -78.571207,
+                        -0.246791
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica antigua de Chillogallo - Eventos Comunitarios",
+                  "text": "A quitói Chillogallo negyedben található régi katolikus templomot ma vallási közösségi események és helyi összejövetelek helyszíneként használják.",
+                  "category": "religious",
+                  "coords": [
+                        -78.554606,
+                        -0.276834
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Lucha Alta Turubamba",
+                  "text": "Ez a kijelölt Királyság-terem a quitói Turubamba körzetben Jehova Tanúi helyi tanító- és gyülekezőhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -78.53708,
+                        -0.282213
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Martha",
+                  "text": "A Mercado Santa Martha egy nyüzsgő környékbeli piac Quitóban, ahol a standok friss regionális termékeket és napi háztartási cikkeket kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.558316,
+                        -0.277234
+                  ]
+            },
+            {
+                  "name": "Li-chem",
+                  "text": "A Li-chem egy specializált kereskedelmi egységként működik a quitói piaci színtéren, különféle kiskereskedelmi cikkekkel látva el a helyi vásárlókat.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.543618,
+                        -0.27915
+                  ]
+            },
+            {
+                  "name": "Mercado Ciudadela Ibarra",
+                  "text": "A quitói Ciudadela Ibarra negyedet kiszolgáló fedett piacon helyi árusok kínálnak hagyományos alapanyagokat és elkészített utcai ételeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.562742,
+                        -0.294973
+                  ]
+            },
+            {
+                  "name": "Mercado la Ecuatoriana",
+                  "text": "A quitói La Ecuatoriana negyedben található közösségi piac rendezett standjain ecuadori gyümölcsök, zöldségek és húsok sorakoznak.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.562736,
+                        -0.309801
+                  ]
+            },
+            {
+                  "name": "Las Cuadras (Chillogallo)",
+                  "text": "A quitói Chillogallo térségben található Las Cuadras egy jelentős kereskedelmi központ, ahol a helyi gazdák és kereskedők gyűlnek össze ömlesztett termékek árusítására.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.55261,
+                        -0.281035
+                  ]
+            },
+            {
+                  "name": "Bar Las cuadras",
+                  "text": "A quitói kereskedelmi központ közelében található Bar Las Cuadras egy helyi frissítőpont, amely italokat kínál a piacra látogatóknak és a kereskedőknek.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.548864,
+                        -0.285548
+                  ]
+            },
+            {
+                  "name": "Parque San José de Guamaní",
+                  "text": "A Parque San José de Guamaní egy nyilvános zöldterület Quito déli részén, burkolt sétányokkal és rekreációs területekkel a környékbeliek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.548631,
+                        -0.329704
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano del Sur",
+                  "text": "Ez a hatalmas déli fővárosi park Quitóban dombvidékeket és erdős ösvényeket foglal magában, kiterjedt ökológiai rezervátumot biztosítva a túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.511168,
+                        -0.312938
+                  ]
+            },
+            {
+                  "name": "Parque San Martín de Porres",
+                  "text": "A quitói közösségi központként szolgáló Parque San Martín de Porres szabadtéri sportpályákat és árnyékos pihenőhelyeket kínál a helyieknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.522714,
+                        -0.298373
+                  ]
+            },
+            {
+                  "name": "Parque quebrada Ortega",
+                  "text": "A Quitóban egy természetes szurdok körül kialakított Parque Quebrada Ortega megőrzi a helyi növényvilágot, és festői sétautakat kínál a meredek lejtők mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.556349,
+                        -0.297875
+                  ]
+            },
+            {
+                  "name": "Iglesia de Urauco",
+                  "text": "Az Iglesia de Urauco egy vidéki keresztény kápolna Quito közelében, amelyet hagyományos anyagokból építettek a környező mezőgazdasági közösség kiszolgálására.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.613568,
+                        -0.238513
+                  ]
+            },
+            {
+                  "name": "Turubamba",
+                  "text": "A dél-quitói Turubamba keresztény központ olyan környékbeli plébániaként működik, amely a helyi istentiszteletekre és az ifjúsági oktatásra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.541805,
+                        -0.279948
+                  ]
+            },
+            {
+                  "name": "Capilla Universidad Salesiana",
+                  "text": "A quitói Szalézi Egyetem kampuszán található kápolna csendes teret biztosít a diákmisék és az akadémiai lelkigondozás számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.550087,
+                        -0.283581
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Cristóbal - Guajaló",
+                  "text": "A quitói Guajaló negyedet szolgáló San Cristóbal katolikus templom egy kiemelkedő harangtoronnyal rendelkezik, és rendszeres közösségi miséket tart.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.536831,
+                        -0.284864
+                  ]
+            },
+            {
+                  "name": "Iglesia San José del Cinto",
+                  "text": "Az El Cinto hegyoldalán, Quito közelében megbúvó keresztény szentély egy népszerű zarándokhely, amely Szent Józsefet tiszteli.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597477,
+                        -0.243002
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa María del Camino - El Girón de Chillogallo",
+                  "text": "Ez a quitói Chillogallo szektorban található katolikus plébánia spirituális útmutatást és szentségi szolgáltatásokat nyújt az El Girón sűrű lakóközösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564606,
+                        -0.287613
+                  ]
+            },
+            {
+                  "name": "IGLESIA METANOYA",
+                  "text": "Az Iglesia Metanoya egy kortárs keresztény gyülekezet Quitóban, amely a modern istentiszteleti gyakorlatokra és a közösségi szerepvállalásra fókuszál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.562626,
+                        -0.284212
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Chillogallo",
+                  "text": "Ez a quitói Chillogallo negyedben található apostoli evangéliumi templom egy élettel teli gyülekezeti teremmel várja a helyi híveket.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.56307,
+                        -0.279646
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Luis de Chillogallo",
+                  "text": "Chillogallo fő katolikus központjaként ez a quitói templom a regionális vallási ünnepek és a mindennapi misék fontos helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.568054,
+                        -0.275667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Escultura",
+                  "text": "Această sculptură modernă în aer liber adaugă o notă de expresie artistică abstractă mediului urban înconjurător din sudul orașului Quito.",
+                  "category": "historical",
+                  "coords": [
+                        -78.547018,
+                        -0.28735
+                  ]
+            },
+            {
+                  "name": "El Monumento forma de #1",
+                  "text": "Conceput în forma distinctă a numărului unu, acest monument unic se remarcă ca un punct de reper vizual frapant în district.",
+                  "category": "historical",
+                  "coords": [
+                        -78.576351,
+                        -0.330036
+                  ]
+            },
+            {
+                  "name": "Monumento Parque Metropolitano del Sur",
+                  "text": "Situat la intrarea în întinsul Parc Metropolitan de Sud, acest monument marchează poarta de acces către unul dintre cele mai mari spații verzi din Quito.",
+                  "category": "historical",
+                  "coords": [
+                        -78.521874,
+                        -0.341657
+                  ]
+            },
+            {
+                  "name": "Stoned Riders",
+                  "text": "Acest centru dinamic de artă și cultură servește ca un centru vibrant pentru artiștii locali alternativi și cultura urbană de tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.539825,
+                        -0.279037
+                  ]
+            },
+            {
+                  "name": "iglesia cristiana Antioquia",
+                  "text": "Biserica creștină Antioquia funcționează ca un auditoriu religios și spațiu de adunare în zona Quito.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.523769,
+                        -0.3101
+                  ]
+            },
+            {
+                  "name": "Academia MusicLand",
+                  "text": "Academy MusicLand este un spațiu local dedicat artelor spectacolului, educației muzicale și spectacolelor de teatru din Quito.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.565773,
+                        -0.300633
+                  ]
+            },
+            {
+                  "name": "iglesia Cristo Liberador",
+                  "text": "Iglesia Cristo Liberador este un centru spiritual local care oferă un spațiu pentru cult creștin și rugăciune comunitară în Quito.",
+                  "category": "religious",
+                  "coords": [
+                        -78.530896,
+                        -0.289396
+                  ]
+            },
+            {
+                  "name": "Iglesia San Andrés Kim",
+                  "text": "Dedicată martirului coreean, Iglesia San Andrés Kim servește comunitatea catolică din zona Quito prin slujbe religioase regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -78.540262,
+                        -0.281005
+                  ]
+            },
+            {
+                  "name": "Genesis 7",
+                  "text": "Genesis 7 este un lăcaș de cult evanghelic din Quito, unde congregația locală se adună pentru studiu biblic și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -78.548003,
+                        -0.279619
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Apostolica del Nombre de Jesús",
+                  "text": "Această biserică evanghelică apostolică din Quito oferă un spațiu vibrant pentru închinarea congregației și adunări religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -78.538327,
+                        -0.286178
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Centrul Gnosis din Quito funcționează ca o facilitate de studiu spiritual concentrată pe învățături ezoterice și meditație.",
+                  "category": "religious",
+                  "coords": [
+                        -78.538114,
+                        -0.282482
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Narcisa de Jesús",
+                  "text": "Numită după o sfântă ecuadoriană, Biserica Catolică Santa Narcisa de Jesus este o parohie care deservește nevoile spirituale ale comunității din Quito.",
+                  "category": "religious",
+                  "coords": [
+                        -78.533227,
+                        -0.307454
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - El Mirador",
+                  "text": "Situată în cartierul El Mirador din Quito, această filială a bisericii evanghelice apostolice găzduiește slujbe religioase comunitare regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -78.525876,
+                        -0.311173
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista El Ejército",
+                  "text": "Biserica Adventistă El Ejército din Quito este o congregație care păzește Sabatul, oferind o sală liniștită pentru rugăciune și părtășie.",
+                  "category": "religious",
+                  "coords": [
+                        -78.547355,
+                        -0.30741
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehova",
+                  "text": "Această Sală a Regatului din Quito funcționează ca un modest centru local pentru studiul Bibliei și întâlnirile Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -78.560659,
+                        -0.307046
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Ecuatoriana",
+                  "text": "Situată în cartierul La Ecuatoriana din Quito, această congregație apostolică oferă un punct central de întâlnire pentru adepții evanghelici.",
+                  "category": "religious",
+                  "coords": [
+                        -78.563973,
+                        -0.308625
+                  ]
+            },
+            {
+                  "name": "Escultura de la Virgen María",
+                  "text": "Escultura de la Virgen María din Quito este o sculptură mariană în aer liber care acționează ca un punct focal pentru devotamentul local și rugăciunea în aer liber.",
+                  "category": "religious",
+                  "coords": [
+                        -78.551259,
+                        -0.340292
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová San Martín Pueblo Unido",
+                  "text": "Deservind cartierul San Martín Pueblo Unido din Quito, această Sală a Regatului oferă un mediu structurat pentru întâlnirile de minister ale Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -78.525705,
+                        -0.298447
+                  ]
+            },
+            {
+                  "name": "Iglesia El Cinto",
+                  "text": "Situată pe fundalul reliefului muntos al regiunii Quito, Iglesia El Cinto este un punct de reper religios recunoscut care găzduiește slujbe catolice locale.",
+                  "category": "religious",
+                  "coords": [
+                        -78.571207,
+                        -0.246791
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica antigua de Chillogallo - Eventos Comunitarios",
+                  "text": "Această veche biserică catolică din sectorul Chillogallo din Quito a fost reprofilată ca loc pentru evenimente comunitare religioase și adunări locale.",
+                  "category": "religious",
+                  "coords": [
+                        -78.554606,
+                        -0.276834
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Lucha Alta Turubamba",
+                  "text": "Această Sală a Regatului desemnată în districtul Turubamba din Quito servește drept spațiu de predare și întâlnire pentru Martorii lui Iehova din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        -78.53708,
+                        -0.282213
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Martha",
+                  "text": "Mercado Santa Martha este o piață de cartier plină de viață din Quito, oferind tarabe cu produse regionale proaspete și articole de uz casnic zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.558316,
+                        -0.277234
+                  ]
+            },
+            {
+                  "name": "Li-chem",
+                  "text": "Li-chem operează ca un punct de desfacere comercial specializat pe scena pieței din Quito, furnizând cumpărătorilor locali diverse produse cu amănuntul.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.543618,
+                        -0.27915
+                  ]
+            },
+            {
+                  "name": "Mercado Ciudadela Ibarra",
+                  "text": "Deservind sectorul Ciudadela Ibarra din Quito, această piață interioară este plină de vânzători locali care vând ingrediente tradiționale și mâncare stradală preparată.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.562742,
+                        -0.294973
+                  ]
+            },
+            {
+                  "name": "Mercado la Ecuatoriana",
+                  "text": "Situată în districtul La Ecuatoriana din Quito, această piață comunitară prezintă tarabe organizate pline cu fructe, legume și carne ecuadoriană.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.562736,
+                        -0.309801
+                  ]
+            },
+            {
+                  "name": "Las Cuadras (Chillogallo)",
+                  "text": "Las Cuadras din zona Chillogallo a orașului Quito este un important centru comercial unde fermierii și comercianții locali se adună pentru a vinde produse în vrac.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.55261,
+                        -0.281035
+                  ]
+            },
+            {
+                  "name": "Bar Las cuadras",
+                  "text": "Situat lângă centrul comercial din Quito, Bar Las Cuadras este un popas local care oferă băuturi răcoritoare pentru vizitatorii pieței și comercianți.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.548864,
+                        -0.285548
+                  ]
+            },
+            {
+                  "name": "Parque San José de Guamaní",
+                  "text": "Parque San José de Guamaní este un spațiu verde public din sudul orașului Quito, cu alei pavate și zone de recreere pentru locuitorii cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.548631,
+                        -0.329704
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano del Sur",
+                  "text": "Acest vast parc metropolitan din sudul orașului Quito cuprinde dealuri și trasee împădurite, oferind o rezervație ecologică extinsă pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.511168,
+                        -0.312938
+                  ]
+            },
+            {
+                  "name": "Parque San Martín de Porres",
+                  "text": "Funcționând ca un centru comunitar în Quito, Parque San Martín de Porres oferă terenuri de sport în aer liber și locuri de odihnă umbrite pentru localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.522714,
+                        -0.298373
+                  ]
+            },
+            {
+                  "name": "Parque quebrada Ortega",
+                  "text": "Construit în jurul unei râpe naturale din Quito, Parque Quebrada Ortega conservă flora locală și oferă trasee pitorești de mers pe jos de-a lungul pantelor abrupte.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.556349,
+                        -0.297875
+                  ]
+            },
+            {
+                  "name": "Iglesia de Urauco",
+                  "text": "Iglesia de Urauco este o capelă creștină rurală lângă Quito, construită cu materiale tradiționale pentru a servi comunitatea agricolă din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.613568,
+                        -0.238513
+                  ]
+            },
+            {
+                  "name": "Turubamba",
+                  "text": "Centrul creștin Turubamba din sudul orașului Quito funcționează ca o parohie de cartier axată pe slujbe locale și educația tinerilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.541805,
+                        -0.279948
+                  ]
+            },
+            {
+                  "name": "Capilla Universidad Salesiana",
+                  "text": "Situată în campusul Universității Saleziene din Quito, această capelă oferă un spațiu liniștit pentru liturghiile studențești și îngrijirea pastorală academică.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.550087,
+                        -0.283581
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Cristóbal - Guajaló",
+                  "text": "Deservind cartierul Guajaló din Quito, Biserica Catolică San Cristóbal are un turn clopotniță proeminent și organizează slujbe comunitare regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.536831,
+                        -0.284864
+                  ]
+            },
+            {
+                  "name": "Iglesia San José del Cinto",
+                  "text": "Amplasat pe versantul El Cinto lângă Quito, acest sanctuar creștin este un loc de pelerinaj popular care îl onorează pe Sfântul Iosif.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597477,
+                        -0.243002
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa María del Camino - El Girón de Chillogallo",
+                  "text": "Această parohie catolică din sectorul Chillogallo din Quito oferă îndrumare spirituală și servicii sacramentale comunității rezidențiale dense din El Girón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564606,
+                        -0.287613
+                  ]
+            },
+            {
+                  "name": "IGLESIA METANOYA",
+                  "text": "Iglesia Metanoya este o congregație creștină contemporană din Quito, axată pe practici moderne de închinare și asistență comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.562626,
+                        -0.284212
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Chillogallo",
+                  "text": "Această biserică evanghelică apostolică din cartierul Chillogallo din Quito are o sală congregațională plină de viață pentru închinătorii săi locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.56307,
+                        -0.279646
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Luis de Chillogallo",
+                  "text": "Servind drept principalul centru catolic din Chillogallo, această biserică din Quito acționează ca un loc important pentru festivitățile religioase regionale și liturghiile zilnice.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.568054,
+                        -0.275667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Escultura",
+                  "text": "This modern outdoor sculpture adds a touch of abstract artistic expression to the surrounding urban environment in southern Quito.",
+                  "category": "historical",
+                  "coords": [
+                        -78.547018,
+                        -0.28735
+                  ]
+            },
+            {
+                  "name": "El Monumento forma de #1",
+                  "text": "Designed in the distinct shape of the number one, this unique monument stands as a striking visual landmark in the district.",
+                  "category": "historical",
+                  "coords": [
+                        -78.576351,
+                        -0.330036
+                  ]
+            },
+            {
+                  "name": "Monumento Parque Metropolitano del Sur",
+                  "text": "Situated at the entrance of the sprawling Metropolitan Park of the South, this monument marks the gateway to one of Quito's largest green spaces.",
+                  "category": "historical",
+                  "coords": [
+                        -78.521874,
+                        -0.341657
+                  ]
+            },
+            {
+                  "name": "Stoned Riders",
+                  "text": "This dynamic arts and cultural center serves as a vibrant hub for alternative local artists and urban youth culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.539825,
+                        -0.279037
+                  ]
+            },
+            {
+                  "name": "iglesia cristiana Antioquia",
+                  "text": "The Iglesia Cristiana Antioquia operates as a religious auditorium and gathering space in the Quito area.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.523769,
+                        -0.3101
+                  ]
+            },
+            {
+                  "name": "Academy MusicLand",
+                  "text": "Academy MusicLand is a local performing arts venue dedicated to musical education and theatrical shows in Quito.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.565773,
+                        -0.300633
+                  ]
+            },
+            {
+                  "name": "iglesia Cristo Liberador",
+                  "text": "Iglesia Cristo Liberador is a local spiritual center providing a place for Christian worship and community prayer in Quito.",
+                  "category": "religious",
+                  "coords": [
+                        -78.530896,
+                        -0.289396
+                  ]
+            },
+            {
+                  "name": "Iglesia San Andrés Kim",
+                  "text": "Dedicated to the Korean martyr, Iglesia San Andrés Kim serves the Catholic community in the Quito area with regular mass services.",
+                  "category": "religious",
+                  "coords": [
+                        -78.540262,
+                        -0.281005
+                  ]
+            },
+            {
+                  "name": "Genesis 7",
+                  "text": "Genesis 7 is an evangelical place of worship in Quito where the local congregation gathers for biblical study and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -78.548003,
+                        -0.279619
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Apostolica del Nombre de Jesús",
+                  "text": "This Apostolic Evangelical church in Quito provides a vibrant space for congregational worship and religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -78.538327,
+                        -0.286178
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "The Gnosis center in Quito functions as a spiritual study facility focused on esoteric teachings and meditation.",
+                  "category": "religious",
+                  "coords": [
+                        -78.538114,
+                        -0.282482
+                  ]
+            },
+            {
+                  "name": "Santa Narcisa de Jesus Catholic Church",
+                  "text": "Named after an Ecuadorian saint, the Santa Narcisa de Jesus Catholic Church is a parish serving the spiritual needs of the Quito community.",
+                  "category": "religious",
+                  "coords": [
+                        -78.533227,
+                        -0.307454
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - El Mirador",
+                  "text": "Situated in the El Mirador neighborhood of Quito, this Apostolic Evangelical branch hosts regular community worship services.",
+                  "category": "religious",
+                  "coords": [
+                        -78.525876,
+                        -0.311173
+                  ]
+            },
+            {
+                  "name": "Adventist Church El Ejército",
+                  "text": "The El Ejército Adventist Church in Quito is a Sabbath-keeping congregation offering a peaceful hall for prayer and fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        -78.547355,
+                        -0.30741
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah’s Witnesses",
+                  "text": "This Kingdom Hall in Quito functions as a modest local hub for Bible study and meetings of Jehovah's Witnesses.",
+                  "category": "religious",
+                  "coords": [
+                        -78.560659,
+                        -0.307046
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - La Ecuatoriana",
+                  "text": "Located in the La Ecuatoriana district of Quito, this Apostolic congregation provides a central meeting point for evangelical followers.",
+                  "category": "religious",
+                  "coords": [
+                        -78.563973,
+                        -0.308625
+                  ]
+            },
+            {
+                  "name": "Escultura de la Virgen María",
+                  "text": "The Escultura de la Virgen María in Quito is an outdoor Marian sculpture acting as a focal point for localized devotion and outdoor prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -78.551259,
+                        -0.340292
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová San Martín Pueblo Unido",
+                  "text": "Serving the San Martín Pueblo Unido neighborhood in Quito, this Kingdom Hall provides a structured environment for Jehovah's Witnesses' ministry meetings.",
+                  "category": "religious",
+                  "coords": [
+                        -78.525705,
+                        -0.298447
+                  ]
+            },
+            {
+                  "name": "Iglesia El Cinto",
+                  "text": "Set against the mountainous terrain of the Quito region, the Iglesia El Cinto is a recognized religious landmark hosting local Catholic masses.",
+                  "category": "religious",
+                  "coords": [
+                        -78.571207,
+                        -0.246791
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica antigua de Chillogallo - Eventos Comunitarios",
+                  "text": "This old Catholic church in the Chillogallo sector of Quito has been repurposed as a venue for religious community events and local gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -78.554606,
+                        -0.276834
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Lucha Alta Turubamba",
+                  "text": "This designated Kingdom Hall in the Turubamba district of Quito serves as a teaching and meeting space for the local Jehovah's Witnesses.",
+                  "category": "religious",
+                  "coords": [
+                        -78.53708,
+                        -0.282213
+                  ]
+            },
+            {
+                  "name": "Mercado Santa Martha",
+                  "text": "The Mercado Santa Martha is a bustling neighborhood market in Quito, offering stalls with fresh regional produce and daily household essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.558316,
+                        -0.277234
+                  ]
+            },
+            {
+                  "name": "Li-chem",
+                  "text": "Li-chem operates as a specialized commercial outlet within the Quito market scene, supplying local shoppers with varied retail goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.543618,
+                        -0.27915
+                  ]
+            },
+            {
+                  "name": "Mercado Ciudadela Ibarra",
+                  "text": "Serving the Ciudadela Ibarra sector of Quito, this indoor marketplace is filled with local vendors selling traditional ingredients and prepared street foods.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.562742,
+                        -0.294973
+                  ]
+            },
+            {
+                  "name": "Mercado la Ecuatoriana",
+                  "text": "Located in the La Ecuatoriana district of Quito, this community market features organized stalls laden with Ecuadorian fruits, vegetables, and meats.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.562736,
+                        -0.309801
+                  ]
+            },
+            {
+                  "name": "Las Cuadras (Chillogallo)",
+                  "text": "Las Cuadras in the Chillogallo area of Quito is a significant commercial hub where local farmers and traders congregate to sell bulk produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.55261,
+                        -0.281035
+                  ]
+            },
+            {
+                  "name": "Bar Las cuadras",
+                  "text": "Situated near the commercial center in Quito, Bar Las Cuadras is a local refreshment stop offering drinks for market-goers and traders.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.548864,
+                        -0.285548
+                  ]
+            },
+            {
+                  "name": "Parque San José de Guamaní",
+                  "text": "Parque San José de Guamaní is a public green space in southern Quito, featuring paved walkways and recreational areas for neighborhood residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.548631,
+                        -0.329704
+                  ]
+            },
+            {
+                  "name": "Parque Metropolitano del Sur",
+                  "text": "This vast southern metropolitan park in Quito encompasses rolling hills and forested trails, providing an expansive ecological reserve for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.511168,
+                        -0.312938
+                  ]
+            },
+            {
+                  "name": "Parque San Martín de Porres",
+                  "text": "Serving as a community hub in Quito, Parque San Martín de Porres offers outdoor sports courts and shaded resting spots for locals.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.522714,
+                        -0.298373
+                  ]
+            },
+            {
+                  "name": "Parque quebrada Ortega",
+                  "text": "Built around a natural ravine in Quito, Parque Quebrada Ortega preserves local flora and provides scenic walking routes along the steep slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.556349,
+                        -0.297875
+                  ]
+            },
+            {
+                  "name": "Iglesia de Urauco",
+                  "text": "The Iglesia de Urauco is a rural Christian chapel near Quito, constructed with traditional materials to serve the surrounding agricultural community.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.613568,
+                        -0.238513
+                  ]
+            },
+            {
+                  "name": "Turubamba",
+                  "text": "The Turubamba Christian center in southern Quito operates as a neighborhood parish focusing on localized worship and youth education.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.541805,
+                        -0.279948
+                  ]
+            },
+            {
+                  "name": "Capilla Universidad Salesiana",
+                  "text": "Located within the Salesian University campus in Quito, this chapel provides a quiet space for student masses and academic pastoral care.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.550087,
+                        -0.283581
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Cristóbal - Guajaló",
+                  "text": "Serving the Guajaló neighborhood in Quito, the Catholic Church of San Cristóbal features a prominent bell tower and regular community masses.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.536831,
+                        -0.284864
+                  ]
+            },
+            {
+                  "name": "Iglesia San José del Cinto",
+                  "text": "Nestled on the hillside of El Cinto near Quito, this Christian sanctuary is a popular pilgrimage site honoring Saint Joseph.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597477,
+                        -0.243002
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa María del Camino - El Girón de Chillogallo",
+                  "text": "This Catholic parish in the Chillogallo sector of Quito provides spiritual guidance and sacramental services to the dense residential community of El Girón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.564606,
+                        -0.287613
+                  ]
+            },
+            {
+                  "name": "IGLESIA METANOYA",
+                  "text": "Iglesia Metanoya is a contemporary Christian congregation in Quito focused on modern worship practices and community outreach.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.562626,
+                        -0.284212
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Chillogallo",
+                  "text": "This Apostolic Evangelical church in the Chillogallo neighborhood of Quito features a lively congregational hall for its local worshipers.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.56307,
+                        -0.279646
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Luis de Chillogallo",
+                  "text": "Serving as the main Catholic center in Chillogallo, this church in Quito acts as an important venue for regional religious festivities and daily masses.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.568054,
+                        -0.275667
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-P",
     coords: [-78.588, -0.287],
@@ -410,7 +6782,124 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "palo-santo-destillation-economic-v2",
+    id: "palo-santo-destillation-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Laguna",
+                  "text": "Ein markanter Küstenberg in der Region, identifiziert durch Wikidata Q23886210, der einen weiten Blick über den umliegenden Trockenwald bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -80.733333,
+                        -1.6
+                  ]
+            },
+            {
+                  "name": "Cerro La Naranja",
+                  "text": "Ein markanter Berggipfel, identifiziert durch Wikidata Q23886209, der sich über das Küstengebiet in der Nähe der Palo Santo-Destillationsgebiete erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -80.7,
+                        -1.6
+                  ]
+            },
+            {
+                  "name": "Las Tunas",
+                  "text": "Ein breiter Sandstrand am Pazifik, der für seine rollenden Wellen und seine entspannende Küstenumgebung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.826185,
+                        -1.649457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Laguna",
+                  "text": "Egy kiemelkedő tengerparti hegycsúcs a régióban, amelyet a Q23886210 Wikidata azonosít, és széles, magaslati kilátást nyújt a környező száraz erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -80.733333,
+                        -1.6
+                  ]
+            },
+            {
+                  "name": "Cerro La Naranja",
+                  "text": "Egy különálló hegycsúcs, amelyet a Q23886209 Wikidata azonosít, és amely a part menti terep fölé magasodik a Palo Santo lepárló területek közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -80.7,
+                        -1.6
+                  ]
+            },
+            {
+                  "name": "Las Tunas",
+                  "text": "Egy széles, homokos csendes-óceáni tengerparti célpont, amely a hullámzó szörfözésről és a pihentető tengerparti környezetről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.826185,
+                        -1.649457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Laguna",
+                  "text": "Un vârf muntos de coastă proeminent din regiune, identificat de Wikidata Q23886210, oferind vederi ample la înălțime asupra pădurii uscate din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -80.733333,
+                        -1.6
+                  ]
+            },
+            {
+                  "name": "Cerro La Naranja",
+                  "text": "Un vârf muntos distinct, identificat de Wikidata Q23886209, care se înalță deasupra terenului de coastă de lângă zonele de distilare Palo Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -80.7,
+                        -1.6
+                  ]
+            },
+            {
+                  "name": "Las Tunas",
+                  "text": "O destinație largă de plajă de nisip la Pacific, cunoscută pentru valurile sale rostogolite și mediul de coastă relaxant.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.826185,
+                        -1.649457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Laguna",
+                  "text": "A prominent coastal mountain peak in the region, identified by Wikidata Q23886210, providing broad elevation views over the surrounding dry forest.",
+                  "category": "natural",
+                  "coords": [
+                        -80.733333,
+                        -1.6
+                  ]
+            },
+            {
+                  "name": "Cerro La Naranja",
+                  "text": "A distinct mountain peak, identified by Wikidata Q23886209, rising above the coastal terrain near the Palo Santo distillation areas.",
+                  "category": "natural",
+                  "coords": [
+                        -80.7,
+                        -1.6
+                  ]
+            },
+            {
+                  "name": "Las Tunas",
+                  "text": "A broad, sandy Pacific beach destination known for its rolling surf and relaxing coastal environment.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.826185,
+                        -1.649457
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-M",
     coords: [-80.755, -1.602],
@@ -458,7 +6947,160 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "tagua-verarbeitung-economic-v2",
+    id: "tagua-verarbeitung-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Observación de Monos, Turismo Comunitario Cantagallo",
+                  "text": "Eine von der Gemeinde geführte Ökotourismus-Initiative in Cantagallo, die geführte Waldwege anbietet, um einheimische Affenarten in ihrem natürlichen Lebensraum zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.752364,
+                        -1.293602
+                  ]
+            },
+            {
+                  "name": "Mirador San Jose Private Beach",
+                  "text": "Ein abgelegener Sandstrand, der von der Siedlung Mirador San Jose aus zugänglich ist und ruhige Ausblicke auf die Küste des Pazifiks bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.821086,
+                        -1.240566
+                  ]
+            },
+            {
+                  "name": "Casa HermanitabSonia",
+                  "text": "Ein markant erbautes schlossähnliches Wohnhaus in der örtlichen Gemeinde, das als einzigartiges architektonisches Wahrzeichen in Küstennähe dient.",
+                  "category": "castle",
+                  "coords": [
+                        -80.819114,
+                        -1.240878
+                  ]
+            },
+            {
+                  "name": "Bliz Club Resort",
+                  "text": "Eine Strandresort-Anlage, die direkten Zugang zu den Küstensanden und verschiedene Freizeiteinrichtungen am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.813804,
+                        -1.240869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Observación de Monos, Turismo Comunitario Cantagallo",
+                  "text": "Egy közösség által működtetett ökoturisztikai kezdeményezés Cantagallóban, amely vezetett erdei ösvényeket kínál az őshonos majomfajok megfigyelésére a természetes élőhelyükön.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.752364,
+                        -1.293602
+                  ]
+            },
+            {
+                  "name": "Mirador San Jose Private Beach",
+                  "text": "Egy félreeső homokos strand, amely a Mirador San Jose fejlesztésből érhető el, és nyugodt kilátást nyújt a Csendes-óceán partjára.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.821086,
+                        -1.240566
+                  ]
+            },
+            {
+                  "name": "Casa HermanitabSonia",
+                  "text": "Egy jellegzetesen épült kastélyszerű rezidencia a helyi közösségben, amely egyedülálló építészeti mérföldkőként szolgál a part közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -80.819114,
+                        -1.240878
+                  ]
+            },
+            {
+                  "name": "Bliz Club Resort",
+                  "text": "Egy tengerparti üdülőlétesítmény, amely közvetlen hozzáférést biztosít a part menti homokhoz és különféle óceánparti rekreációs szolgáltatásokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.813804,
+                        -1.240869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Observación de Monos, Turismo Comunitario Cantagallo",
+                  "text": "O inițiativă ecoturistică condusă de comunitate în Cantagallo, care oferă trasee forestiere ghidate pentru a observa speciile de maimuțe native în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.752364,
+                        -1.293602
+                  ]
+            },
+            {
+                  "name": "Mirador San Jose Private Beach",
+                  "text": "O plajă retrasă de nisip accesibilă din complexul Mirador San Jose, oferind vederi calme de coastă asupra Pacificului.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.821086,
+                        -1.240566
+                  ]
+            },
+            {
+                  "name": "Casa HermanitabSonia",
+                  "text": "O reședință cu aspect de castel, construită distinct, în comunitatea locală, servind ca un reper arhitectural unic lângă coastă.",
+                  "category": "castle",
+                  "coords": [
+                        -80.819114,
+                        -1.240878
+                  ]
+            },
+            {
+                  "name": "Bliz Club Resort",
+                  "text": "O facilitate de stațiune pe plajă care oferă acces direct la nisipurile de coastă și diverse facilități de recreere la malul oceanului.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.813804,
+                        -1.240869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Observación de Monos, Turismo Comunitario Cantagallo",
+                  "text": "A community-run eco-tourism initiative in Cantagallo offering guided forest trails to observe native monkey species in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.752364,
+                        -1.293602
+                  ]
+            },
+            {
+                  "name": "Mirador San Jose Private Beach",
+                  "text": "A secluded sandy beach accessible from the Mirador San Jose development, offering calm coastal views of the Pacific.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.821086,
+                        -1.240566
+                  ]
+            },
+            {
+                  "name": "Casa HermanitabSonia",
+                  "text": "A distinctively built castle-like residence in the local community, serving as a unique architectural landmark near the coast.",
+                  "category": "castle",
+                  "coords": [
+                        -80.819114,
+                        -1.240878
+                  ]
+            },
+            {
+                  "name": "Bliz Club Resort",
+                  "text": "A beach resort facility providing direct access to the coastal sands and various recreational oceanfront amenities.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.813804,
+                        -1.240869
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-M",
     coords: [-80.825, -1.256],
@@ -506,7 +7148,1096 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "pesquera-polar-atun-economic-v2",
+    id: "pesquera-polar-atun-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Chushig",
+                  "text": "Das Teatro Chushig ist ein lokales Theater, das als Veranstaltungsort für darstellende Künste und kulturelle Veranstaltungen in der Region dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.700629,
+                        -0.974284
+                  ]
+            },
+            {
+                  "name": "Concha Acústica Jaramijó",
+                  "text": "Die Concha Acústica Jaramijó ist ein Open-Air-Amphitheater für öffentliche Aufführungen und Gemeindeveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.640126,
+                        -0.944721
+                  ]
+            },
+            {
+                  "name": "Centi",
+                  "text": "Centi ist ein lokales Gotteshaus, das einen Raum für religiöse Versammlungen in der Gemeinde bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -80.703641,
+                        -0.955181
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser Salón del Reino dient als Ort der Anbetung für die örtliche Versammlung der Zeugen Jehovas.",
+                  "category": "religious",
+                  "coords": [
+                        -80.701933,
+                        -0.954811
+                  ]
+            },
+            {
+                  "name": "Capilla de la Casa De Retiro Padre Luis Brisson",
+                  "text": "Diese Kapelle ist ein integraler Bestandteil des Exerzitienhauses Padre Luis Brisson und bietet einen ruhigen Raum für das Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        -80.668392,
+                        -1.043906
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista Altagracia",
+                  "text": "Die Iglesia Adventista Altagracia ist eine Kirche der Siebenten-Tags-Adventisten, die den religiösen Bedürfnissen des örtlichen Viertels Altagracia dient.",
+                  "category": "religious",
+                  "coords": [
+                        -80.691834,
+                        -0.965528
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "Dieses Zentrum der Heilsarmee fungiert sowohl als Gotteshaus als auch als Basis für lokale wohltätige Aktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        -80.71017,
+                        -0.964036
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo SUD, Capilla Jaramijo",
+                  "text": "Diese Kapelle in Jaramijo dient als Versammlungshaus für die örtliche Gemeinde der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "religious",
+                  "coords": [
+                        -80.640384,
+                        -0.951626
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Diese lokale evangelische Kirche bietet Raum für protestantisch-christliche Gottesdienste und Gemeindezusammenkünfte.",
+                  "category": "religious",
+                  "coords": [
+                        -80.71329,
+                        -1.004989
+                  ]
+            },
+            {
+                  "name": "Capilla Cielito Lindo",
+                  "text": "Die Capilla Cielito Lindo ist eine kleine lokale Kapelle, die einen eigenen Raum für religiöse Gottesdienste bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -80.708615,
+                        -1.000646
+                  ]
+            },
+            {
+                  "name": "Plaza Once",
+                  "text": "Die Plaza Once ist ein geschäftiger lokaler Marktplatz, auf dem sich die Bewohner treffen, um mit alltäglichen Waren und Produkten zu handeln.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.720746,
+                        -0.979535
+                  ]
+            },
+            {
+                  "name": "Orquesta Latinos Band ",
+                  "text": "Die Orquesta Latinos Band ist eine lokale musikalische Attraktion, die für Live-Unterhaltung in der Gemeinde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.671245,
+                        -1.004585
+                  ]
+            },
+            {
+                  "name": "Park Hyatt",
+                  "text": "Das Park Hyatt ist ein Hotel, das Unterkünfte für Besucher im städtischen Raum anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.695783,
+                        -0.99865
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Jesús de la Misericordia",
+                  "text": "Diese katholische Kapelle ist Jesus der Barmherzigkeit geweiht und dient als lokales Zentrum für Gebet und Messe.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.671234,
+                        -0.960943
+                  ]
+            },
+            {
+                  "name": "Capilla Católica María Inmaculada - La Florita",
+                  "text": "Diese katholische Kapelle in La Florita ist der Unbefleckten Maria geweiht und dient der umliegenden Nachbarschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.694592,
+                        -0.952035
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo Resucitado de Colorado | Montecristi",
+                  "text": "Diese katholische Kirche im Gebiet Colorado von Montecristi ist ein spirituelles Zentrum, das dem Auferstandenen Christus geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.681643,
+                        -1.016682
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Marianita - El Colorado",
+                  "text": "Diese in El Colorado gelegene katholische Kirche dient ihrer örtlichen Gemeinde und ist Santa Marianita geweiht.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.683304,
+                        -1.011374
+                  ]
+            },
+            {
+                  "name": "Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses christliche Versammlungshaus dient den örtlichen Mitgliedern der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.699122,
+                        -0.97624
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica \"Monte de Oración\"",
+                  "text": "Die Iglesia Evangélica \"Monte de Oración\" ist eine christliche Andachtsstätte, die der lokalen Gemeinschaft in der Region evangelische Gottesdienste bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.712781,
+                        -0.985337
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santo Domingo Savio | Las Brisas - Jaramijó",
+                  "text": "Diese katholische Kapelle im Viertel Las Brisas von Jaramijó ist dem heiligen Dominikus Savio gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.655167,
+                        -0.957372
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Carmen - Terra Nostra",
+                  "text": "Diese katholische Kapelle in der Gegend von Terra Nostra bietet Gottesdienste an, die der Jungfrau auf dem Berge Karmel gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.667875,
+                        -0.957392
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Isabella | Montecristi",
+                  "text": "Diese christliche Kirche in Montecristi dient der lokalen katholischen Gemeinde mit Andachten zu Ehren der Heiligen Isabella.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.710994,
+                        -1.0069
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Ana | Manta",
+                  "text": "Diese der heiligen Anna gewidmete katholische Pfarrkirche bietet den Einwohnern von Manta einen spirituellen Versammlungsort.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.706622,
+                        -0.995346
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Cristo Resucitado - Monterrey",
+                  "text": "Diese katholische Kapelle im Sektor Monterrey versammelt Gläubige unter dem Patronat des auferstandenen Christus.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.686628,
+                        -1.001074
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Sales",
+                  "text": "Diese christliche Kirche bietet eine ruhige Umgebung für spirituelle Besinnung und ist den Lehren des heiligen Franz von Sales gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.67963,
+                        -0.967068
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Inmaculada - El Palmar",
+                  "text": "Diese katholische Kirche im Stadtteil El Palmar ist der Verehrung der unbefleckten Maria gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.69073,
+                        -0.963097
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Madre de La Paz",
+                  "text": "Dieses katholische Heiligtum dient den lokalen Gläubigen mit religiösen Zeremonien, die sich auf Unsere Mutter des Friedens konzentrieren.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.708342,
+                        -0.964544
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser Königreichssaal dient als Zentrum für biblische Studien und ist ein dedizierter Versammlungsraum für die regionalen Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.704023,
+                        -0.966728
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Espíritu Santo | Manta",
+                  "text": "Diese intime katholische Kapelle in Manta ist dem Heiligen Geist gewidmet und bietet dem Viertel regelmäßige Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.701087,
+                        -0.970812
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Niño Jesús de Altamira | Manta",
+                  "text": "Diese katholische Kirche im Altamira-Sektor von Manta konzentriert ihre Gemeindegottesdienste auf das Jesuskind.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.698296,
+                        -0.970197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Chushig",
+                  "text": "A Teatro Chushig egy helyi színház, amely előadóművészetek és kulturális események helyszínéül szolgál a környéken.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.700629,
+                        -0.974284
+                  ]
+            },
+            {
+                  "name": "Concha Acústica Jaramijó",
+                  "text": "A Concha Acústica Jaramijó egy szabadtéri amfiteátrum, amelyet nyilvános előadásokra és közösségi összejövetelekre terveztek.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.640126,
+                        -0.944721
+                  ]
+            },
+            {
+                  "name": "Centi",
+                  "text": "A Centi egy helyi istentiszteleti hely, amely teret ad a közösség vallási gyülekezetének.",
+                  "category": "religious",
+                  "coords": [
+                        -80.703641,
+                        -0.955181
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ez a Királyság-terem (Salón del Reino) Jehova Tanúi helyi gyülekezetének istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -80.701933,
+                        -0.954811
+                  ]
+            },
+            {
+                  "name": "Capilla de la Casa De Retiro Padre Luis Brisson",
+                  "text": "Ez a kápolna a Padre Luis Brisson lelkigyakorlatos ház szerves része, és csendes teret biztosít az imádkozáshoz.",
+                  "category": "religious",
+                  "coords": [
+                        -80.668392,
+                        -1.043906
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista Altagracia",
+                  "text": "Az Iglesia Adventista Altagracia egy Hetednapi Adventista templom, amely a helyi Altagracia negyed vallási igényeit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        -80.691834,
+                        -0.965528
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "Az Üdvhadsereg (Salvation Army) ezen központja egyaránt működik istentiszteleti helyként és a helyi jótékonysági tevékenységek bázisaként.",
+                  "category": "religious",
+                  "coords": [
+                        -80.71017,
+                        -0.964036
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo SUD, Capilla Jaramijo",
+                  "text": "Ez a Jaramijóban található kápolna Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza helyi gyülekezetének találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -80.640384,
+                        -0.951626
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Ez a helyi evangéliumi templom teret ad a protestáns keresztény istentiszteleteknek és a közösségi összejöveteleknek.",
+                  "category": "religious",
+                  "coords": [
+                        -80.71329,
+                        -1.004989
+                  ]
+            },
+            {
+                  "name": "Capilla Cielito Lindo",
+                  "text": "A Capilla Cielito Lindo egy kis helyi kápolna, amely dedikált helyszínt biztosít a vallási szertartásoknak.",
+                  "category": "religious",
+                  "coords": [
+                        -80.708615,
+                        -1.000646
+                  ]
+            },
+            {
+                  "name": "Plaza Once",
+                  "text": "A Plaza Once egy nyüzsgő helyi piac, ahol a lakosok mindennapi cikkekkel és terményekkel kereskednek.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.720746,
+                        -0.979535
+                  ]
+            },
+            {
+                  "name": "Orquesta Latinos Band ",
+                  "text": "Az Orquesta Latinos Band egy helyi zenei látványosság, amely a közösség élő szórakoztatásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.671245,
+                        -1.004585
+                  ]
+            },
+            {
+                  "name": "Park Hyatt",
+                  "text": "A Park Hyatt egy szálloda, amely a városi területre látogatóknak kínál szállást.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.695783,
+                        -0.99865
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Jesús de la Misericordia",
+                  "text": "Ez az Irgalmas Jézusnak szentelt katolikus kápolna a helyi imák és misék központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.671234,
+                        -0.960943
+                  ]
+            },
+            {
+                  "name": "Capilla Católica María Inmaculada - La Florita",
+                  "text": "A La Florita területén található katolikus kápolnát a Szeplőtelen Szűz Máriának szentelték, és a környező negyedet szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.694592,
+                        -0.952035
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo Resucitado de Colorado | Montecristi",
+                  "text": "Ez a Montecristi Colorado nevű negyedében található katolikus templom a Feltámadt Krisztusnak szentelt spirituális központ.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.681643,
+                        -1.016682
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Marianita - El Colorado",
+                  "text": "Az El Colorado területén található katolikus templom Santa Marianitának szentelve szolgálja a helyi gyülekezetet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.683304,
+                        -1.011374
+                  ]
+            },
+            {
+                  "name": "Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a keresztény gyülekezeti ház Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza helyi tagjait szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.699122,
+                        -0.97624
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica \"Monte de Oración\"",
+                  "text": "Az Iglesia Evangélica \"Monte de Oración\" egy keresztény imaház, amely evangéliumi istentiszteletekkel szolgálja a helyi közösséget a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.712781,
+                        -0.985337
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santo Domingo Savio | Las Brisas - Jaramijó",
+                  "text": "Jaramijó Las Brisas negyedében található ez a katolikus kápolna, amelyet Savio Szent Domonkosnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.655167,
+                        -0.957372
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Carmen - Terra Nostra",
+                  "text": "A Terra Nostra területén található katolikus kápolna a Kármelhegyi Boldogasszony tiszteletére tart istentiszteleteket.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.667875,
+                        -0.957392
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Isabella | Montecristi",
+                  "text": "Ez a Montecristiben található keresztény templom a helyi katolikus közösséget szolgálja Szent Izabella tiszteletére tartott áhítataival.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.710994,
+                        -1.0069
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Ana | Manta",
+                  "text": "A Szent Annának szentelt katolikus plébániatemplom spirituális gyülekezési teret biztosít Manta lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.706622,
+                        -0.995346
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Cristo Resucitado - Monterrey",
+                  "text": "A Monterrey szektorban található katolikus kápolna a Feltámadt Krisztus tiszteletére gyűjti össze a hívőket.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.686628,
+                        -1.001074
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Sales",
+                  "text": "Ez a keresztény templom nyugodt környezetet biztosít a spirituális elmélyüléshez, és Szalézi Szent Ferenc tanításainak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.67963,
+                        -0.967068
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Inmaculada - El Palmar",
+                  "text": "Az El Palmar negyedben található katolikus templomot a Szeplőtelen Szűz Mária tiszteletére szentelték.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.69073,
+                        -0.963097
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Madre de La Paz",
+                  "text": "Ez a katolikus szentély a helyi híveket szolgálja a Béke Anyja köré összpontosuló vallási szertartásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.708342,
+                        -0.964544
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A bibliatanulmányozás központjaként működő Királyság-terem a regionális Jehova Tanúi számára fenntartott találkozóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.704023,
+                        -0.966728
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Espíritu Santo | Manta",
+                  "text": "Ez a Mantában található meghitt katolikus kápolna a Szentléleknek van szentelve, és rendszeres miséket kínál a környékbelieknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.701087,
+                        -0.970812
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Niño Jesús de Altamira | Manta",
+                  "text": "A Manta Altamira szektorában található katolikus templom közösségi istentiszteleteinek középpontjában a Gyermek Jézus áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.698296,
+                        -0.970197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Chushig",
+                  "text": "Teatro Chushig este un teatru local care servește drept loc de desfășurare a artelor spectacolului și a evenimentelor culturale din zonă.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.700629,
+                        -0.974284
+                  ]
+            },
+            {
+                  "name": "Concha Acústica Jaramijó",
+                  "text": "Concha Acústica Jaramijó este un amfiteatru în aer liber conceput pentru spectacole publice și adunări comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.640126,
+                        -0.944721
+                  ]
+            },
+            {
+                  "name": "Centi",
+                  "text": "Centi este un lăcaș de cult local, care oferă un spațiu pentru congregația religioasă din comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        -80.703641,
+                        -0.955181
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Acest Salón del Reino servește drept lăcaș de cult pentru congregația locală a Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -80.701933,
+                        -0.954811
+                  ]
+            },
+            {
+                  "name": "Capilla de la Casa De Retiro Padre Luis Brisson",
+                  "text": "Această capelă face parte integrantă din casa de reculegere Padre Luis Brisson, oferind un spațiu liniștit pentru rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -80.668392,
+                        -1.043906
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista Altagracia",
+                  "text": "Iglesia Adventista Altagracia este o biserică adventistă de ziua a șaptea care deservește nevoile religioase ale cartierului local Altagracia.",
+                  "category": "religious",
+                  "coords": [
+                        -80.691834,
+                        -0.965528
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "Acest centru al Armatei Salvării funcționează atât ca lăcaș de cult, cât și ca bază pentru activitățile caritabile locale.",
+                  "category": "religious",
+                  "coords": [
+                        -80.71017,
+                        -0.964036
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo SUD, Capilla Jaramijo",
+                  "text": "Această capelă din Jaramijo servește drept casă de întruniri pentru congregația locală a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "religious",
+                  "coords": [
+                        -80.640384,
+                        -0.951626
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Această biserică evanghelică locală oferă un spațiu pentru cultul creștin protestant și adunările comunității.",
+                  "category": "religious",
+                  "coords": [
+                        -80.71329,
+                        -1.004989
+                  ]
+            },
+            {
+                  "name": "Capilla Cielito Lindo",
+                  "text": "Capilla Cielito Lindo este o mică capelă locală, care oferă un spațiu dedicat serviciilor religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -80.708615,
+                        -1.000646
+                  ]
+            },
+            {
+                  "name": "Plaza Once",
+                  "text": "Plaza Once este o piață locală plină de viață, unde locuitorii se adună pentru a face comerț cu bunuri și produse de zi cu zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.720746,
+                        -0.979535
+                  ]
+            },
+            {
+                  "name": "Orquesta Latinos Band ",
+                  "text": "Orquesta Latinos Band reprezintă o atracție muzicală locală, cunoscută pentru divertismentul live oferit comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.671245,
+                        -1.004585
+                  ]
+            },
+            {
+                  "name": "Park Hyatt",
+                  "text": "Park Hyatt este un hotel care oferă cazare vizitatorilor din zona urbană locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.695783,
+                        -0.99865
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Jesús de la Misericordia",
+                  "text": "Această capelă catolică este dedicată lui Isus cel Milostiv, servind ca centru local pentru rugăciune și liturghie.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.671234,
+                        -0.960943
+                  ]
+            },
+            {
+                  "name": "Capilla Católica María Inmaculada - La Florita",
+                  "text": "Situată în La Florita, această capelă catolică este dedicată Mariei Imaculate și deservește cartierul din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.694592,
+                        -0.952035
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo Resucitado de Colorado | Montecristi",
+                  "text": "Această biserică catolică din zona Colorado a orașului Montecristi oferă un centru spiritual dedicat lui Hristos Înviat.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.681643,
+                        -1.016682
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Marianita - El Colorado",
+                  "text": "Situată în El Colorado, această biserică catolică își deservește congregația locală, fiind dedicată Sfintei Marianita.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.683304,
+                        -1.011374
+                  ]
+            },
+            {
+                  "name": "Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri creștină deservește membrii locali ai Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.699122,
+                        -0.97624
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica \"Monte de Oración\"",
+                  "text": "Iglesia Evangélica „Monte de Oración” este un lăcaș de cult creștin ce deservește comunitatea locală prin slujbe evanghelice.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.712781,
+                        -0.985337
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santo Domingo Savio | Las Brisas - Jaramijó",
+                  "text": "Situată în cartierul Las Brisas din Jaramijó, această capelă catolică îi este închinată Sfântului Dominic Savio.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.655167,
+                        -0.957372
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Carmen - Terra Nostra",
+                  "text": "Această capelă catolică din zona Terra Nostra oferă slujbe dedicate Fecioarei de pe Muntele Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.667875,
+                        -0.957392
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Isabella | Montecristi",
+                  "text": "Această biserică creștină din Montecristi deservește comunitatea catolică locală prin devoțiuni închinate Sfintei Isabella.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.710994,
+                        -1.0069
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Ana | Manta",
+                  "text": "Închinată Sfintei Ana, această biserică parohială catolică oferă un spațiu de adunare spirituală pentru locuitorii din Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.706622,
+                        -0.995346
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Cristo Resucitado - Monterrey",
+                  "text": "Situată în sectorul Monterrey, această capelă catolică adună credincioșii sub hramul Hristos cel Înviat.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.686628,
+                        -1.001074
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Sales",
+                  "text": "Această biserică creștină oferă un mediu liniștit pentru reflecție spirituală, fiind dedicată învățăturilor Sfântului Francisc de Sales.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.67963,
+                        -0.967068
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Inmaculada - El Palmar",
+                  "text": "Situată în cartierul El Palmar, această biserică catolică este dedicată venerării Mariei Imaculate.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.69073,
+                        -0.963097
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Madre de La Paz",
+                  "text": "Acest sanctuar catolic deservește credincioșii locali prin ceremonii religioase axate pe Maica Păcii.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.708342,
+                        -0.964544
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Funcționând ca centru de studiu biblic, această Sală a Regatului este un spațiu de întâlnire dedicat Martorilor lui Iehova din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.704023,
+                        -0.966728
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Espíritu Santo | Manta",
+                  "text": "Această capelă catolică intimă din Manta este închinată Duhului Sfânt, oferind liturghii regulate pentru locuitorii cartierului.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.701087,
+                        -0.970812
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Niño Jesús de Altamira | Manta",
+                  "text": "Situată în sectorul Altamira din Manta, această biserică catolică își centrează slujbele comunitare pe Pruncul Iisus.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.698296,
+                        -0.970197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Chushig",
+                  "text": "Teatro Chushig is a local theatre serving as a venue for performing arts and cultural events in the area.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.700629,
+                        -0.974284
+                  ]
+            },
+            {
+                  "name": "Concha Acústica Jaramijó",
+                  "text": "Concha Acústica Jaramijó is an open-air amphitheatre designed for public performances and community gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.640126,
+                        -0.944721
+                  ]
+            },
+            {
+                  "name": "Centi",
+                  "text": "Centi is a local place of worship providing a space for religious congregation in the community.",
+                  "category": "religious",
+                  "coords": [
+                        -80.703641,
+                        -0.955181
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "This Salón del Reino serves as a place of worship for the local Jehovah's Witnesses congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -80.701933,
+                        -0.954811
+                  ]
+            },
+            {
+                  "name": "Capilla de la Casa De Retiro Padre Luis Brisson",
+                  "text": "This chapel is an integral part of the Padre Luis Brisson retreat house, providing a quiet space for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -80.668392,
+                        -1.043906
+                  ]
+            },
+            {
+                  "name": "Iglesia Adventista Altagracia",
+                  "text": "Iglesia Adventista Altagracia is a Seventh-day Adventist church serving the religious needs of the local Altagracia neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -80.691834,
+                        -0.965528
+                  ]
+            },
+            {
+                  "name": "Salvation Army",
+                  "text": "This Salvation Army center operates as both a place of worship and a base for local charitable activities.",
+                  "category": "religious",
+                  "coords": [
+                        -80.71017,
+                        -0.964036
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo SUD, Capilla Jaramijo",
+                  "text": "This chapel in Jaramijo serves as a meetinghouse for the local congregation of The Church of Jesus Christ of Latter-day Saints.",
+                  "category": "religious",
+                  "coords": [
+                        -80.640384,
+                        -0.951626
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "This local Evangelical church provides a space for Protestant Christian worship and community gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        -80.71329,
+                        -1.004989
+                  ]
+            },
+            {
+                  "name": "Capilla Cielito Lindo",
+                  "text": "Capilla Cielito Lindo is a small local chapel providing a dedicated space for religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -80.708615,
+                        -1.000646
+                  ]
+            },
+            {
+                  "name": "Plaza Once",
+                  "text": "Plaza Once is a bustling local marketplace where residents gather to trade everyday goods and produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.720746,
+                        -0.979535
+                  ]
+            },
+            {
+                  "name": "Orquesta Latinos Band ",
+                  "text": "Orquesta Latinos Band represents a local musical attraction, known for providing live entertainment in the community.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.671245,
+                        -1.004585
+                  ]
+            },
+            {
+                  "name": "Park Hyatt",
+                  "text": "The Park Hyatt is a hotel offering visitor accommodations in the local urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.695783,
+                        -0.99865
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Jesús de la Misericordia",
+                  "text": "This Catholic chapel is dedicated to Jesus of Mercy, serving as a local center for prayer and mass.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.671234,
+                        -0.960943
+                  ]
+            },
+            {
+                  "name": "Capilla Católica María Inmaculada - La Florita",
+                  "text": "Situated in La Florita, this Catholic chapel is dedicated to Mary Immaculate and serves the surrounding neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.694592,
+                        -0.952035
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo Resucitado de Colorado | Montecristi",
+                  "text": "This Catholic church in Montecristi's Colorado area provides a spiritual center dedicated to the Risen Christ.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.681643,
+                        -1.016682
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Marianita - El Colorado",
+                  "text": "Situated in El Colorado, this Catholic church serves its local congregation with a dedication to Santa Marianita.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.683304,
+                        -1.011374
+                  ]
+            },
+            {
+                  "name": "Jesucristo de los Santos de los Últimos Días",
+                  "text": "This Christian meetinghouse serves the local members of The Church of Jesus Christ of Latter-day Saints.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.699122,
+                        -0.97624
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica \"Monte de Oración\"",
+                  "text": "The Iglesia Evangélica \"Monte de Oración\" is a Christian house of worship serving the local community with evangelical services in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.712781,
+                        -0.985337
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santo Domingo Savio | Las Brisas - Jaramijó",
+                  "text": "Located in the Las Brisas neighborhood of Jaramijó, this Catholic chapel is dedicated to Saint Dominic Savio.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.655167,
+                        -0.957372
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Carmen - Terra Nostra",
+                  "text": "This Catholic chapel in the Terra Nostra area offers services dedicated to the Virgin of Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.667875,
+                        -0.957392
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Isabella | Montecristi",
+                  "text": "This Christian church in Montecristi serves the local Catholic community with devotions dedicated to Saint Isabella.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.710994,
+                        -1.0069
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Ana | Manta",
+                  "text": "Dedicated to Saint Anne, this Catholic parish church provides a spiritual gathering space for the residents of Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.706622,
+                        -0.995346
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Cristo Resucitado - Monterrey",
+                  "text": "Situated in the Monterrey sector, this Catholic chapel gathers worshippers under the dedication of the Resurrected Christ.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.686628,
+                        -1.001074
+                  ]
+            },
+            {
+                  "name": "Iglesia San Francisco de Sales",
+                  "text": "This Christian church provides a serene environment for spiritual reflection, dedicated to the teachings of Saint Francis de Sales.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.67963,
+                        -0.967068
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Inmaculada - El Palmar",
+                  "text": "Located in the El Palmar district, this Catholic church is dedicated to the veneration of Mary Immaculate.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.69073,
+                        -0.963097
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Madre de La Paz",
+                  "text": "This Catholic sanctuary serves the local faithful with religious ceremonies focused on Our Mother of Peace.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.708342,
+                        -0.964544
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "Operating as a center for biblical study, this Kingdom Hall is a dedicated meeting space for the regional Jehovah's Witnesses.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.704023,
+                        -0.966728
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Espíritu Santo | Manta",
+                  "text": "This intimate Catholic chapel in Manta is dedicated to the Holy Spirit, offering regular mass to the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.701087,
+                        -0.970812
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Niño Jesús de Altamira | Manta",
+                  "text": "Set in the Altamira sector of Manta, this Catholic church centers its community worship around the Infant Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.698296,
+                        -0.970197
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-M",
     coords: [-80.702, -0.963],
@@ -554,7 +8285,664 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "salinas-salzgewinnung-economic-v2",
+    id: "salinas-salzgewinnung-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Ballenas (se necesita previa cita)",
+                  "text": "Dieses spezialisierte Museum ist nach Vereinbarung zugänglich und stellt große Walskelette sowie lehrreiche Exponate über die Meeressäuger der Pazifikküste aus.",
+                  "category": "museum",
+                  "coords": [
+                        -80.961341,
+                        -2.20483
+                  ]
+            },
+            {
+                  "name": "Salinas Yacht Club",
+                  "text": "Diese Anlage fungiert sowohl als Seezeichen als auch als exklusiver Yachthafen und führt Boote, die auf den belebten Gewässern der Halbinsel Salinas navigieren.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.972579,
+                        -2.199906
+                  ]
+            },
+            {
+                  "name": "Loberia",
+                  "text": "Dieser natürliche Aussichtspunkt an der felsigen Küste bietet hervorragende Möglichkeiten, Seelöwen beim Sonnenbaden in ihrem Lebensraum an der Küste zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -80.996174,
+                        -2.203202
+                  ]
+            },
+            {
+                  "name": "Mirador La Puntilla",
+                  "text": "Diese Aussichtsplattform an der äußersten Westspitze der Halbinsel bietet atemberaubende Perspektiven dort, wo die starken Meeresströmungen aufeinandertreffen.",
+                  "category": "natural",
+                  "coords": [
+                        -81.010873,
+                        -2.18968
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "Diese exponierte Sandküste ist berühmt für ihre spektakulär lebhaften Sonnenuntergänge und ist starken Hochseewellen ausgesetzt, was das Schwimmen gefährlich, aber Strandspaziergänge perfekt macht.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.970653,
+                        -2.224732
+                  ]
+            },
+            {
+                  "name": "Museo Salinas Siglo XXI",
+                  "text": "Diese kulturelle Einrichtung zeigt archäologische Artefakte antiker Küstenkulturen neben Exponaten zur ecuadorianischen Seefahrtsgeschichte und der lokalen Salzindustrie.",
+                  "category": "museum",
+                  "coords": [
+                        -80.966883,
+                        -2.20591
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "Als lebhafter Hauptstrand der Stadt ist dieser weitläufige goldene Sandstrand dicht mit Hochhaushotels und geschäftigen Restaurants an der Uferpromenade gesäumt.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.969614,
+                        -2.204456
+                  ]
+            },
+            {
+                  "name": "Chipipe",
+                  "text": "Diese beliebte Bucht ist bekannt für ihr ruhigeres Wasser und ihre breiteren Sandstrände und bietet neben dem örtlichen Yachthafen eine familienfreundliche Badeumgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.982104,
+                        -2.197404
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "Dieser lange Abschnitt ungeschützten Sandes ist geprägt von starken Unterströmungen und krachenden pazifischen Brechern und ein beliebter Ort für dramatische Sonnenuntergangsfotografie.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.999766,
+                        -2.196833
+                  ]
+            },
+            {
+                  "name": "Reserva de Producción de Fauna Puntilla de Santa Elena",
+                  "text": "Dieses Meeres- und Küstenschutzgebiet schützt den äußersten westlichen Punkt des Festlandes und ist ein wichtiges Refugium für nistende Meeresschildkröten und wandernde Wale.",
+                  "category": "natural",
+                  "coords": [
+                        -80.99273,
+                        -2.219246
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Diese kleine, unscheinbare Kapelle in der Nähe der Salinen bietet der örtlichen Küstengemeinde einen ruhigen, besinnlichen Raum für das alltägliche Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        -80.986413,
+                        -2.199884
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Judas Tadeo | Salinas",
+                  "text": "Dieses katholische Heiligtum in Salinas ist dem Schutzpatron der aussichtslosen Fälle gewidmet und zieht regelmäßig Gläubige zu seinen traditionellen Wochenendmessen an.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.966069,
+                        -2.210022
+                  ]
+            },
+            {
+                  "name": "Santuario Católico San José | Salinas",
+                  "text": "Mit seiner klassischen religiösen Architektur feiert dieses markante katholische Heiligtum im Herzen von Salinas große Prozessionen zu Ehren des Heiligen Josef.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.953328,
+                        -2.21309
+                  ]
+            },
+            {
+                  "name": "Pedro José",
+                  "text": "Diese lokale christliche Stätte inmitten der lebhaften Viertel der Stadt bietet den Einwohnern von Salinas spirituelle Dienste und gemeinschaftliche Unterstützung.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.956532,
+                        -2.21955
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Lorenzo | Salinas",
+                  "text": "Die Capilla Católica San Lorenzo ist eine katholische Viertelskapelle in Salinas, die einen ruhigen Raum für Gebete inmitten der Küstenstadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.958758,
+                        -2.205517
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Las Mercedes - Franciscanos",
+                  "text": "Die Iglesia Católica Nuestra Señora de Las Mercedes ist eine von den Franziskanern geführte katholische Kirche in Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.977409,
+                        -2.201228
+                  ]
+            },
+            {
+                  "name": "Stella Maris",
+                  "text": "Stella Maris ist eine katholische Pfarrkirche in Salinas, die aufgrund ihrer Küstenlage passend „Stern des Meeres“ genannt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.988568,
+                        -2.186767
+                  ]
+            },
+            {
+                  "name": "Artisan Market",
+                  "text": "Der Artisan Market in Salinas ist ein lebhafter Marktplatz, auf dem Händler handgefertigtes ecuadorianisches Kunsthandwerk und Souvenirs verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.970055,
+                        -2.206231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Ballenas (se necesita previa cita)",
+                  "text": "Az előzetes bejelentkezés alapján látogatható speciális múzeum nagy bálnacsontvázakat és a csendes-óceáni partvidék tengeri emlőseit bemutató oktatási anyagokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -80.961341,
+                        -2.20483
+                  ]
+            },
+            {
+                  "name": "Salinas Yacht Club",
+                  "text": "A tengerészeti jelzőfényként és exkluzív jachtkikötőként is működő létesítmény útbaigazítja a Salinas-félsziget forgalmas vizein navigáló hajókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.972579,
+                        -2.199906
+                  ]
+            },
+            {
+                  "name": "Loberia",
+                  "text": "A sziklás partvonal mentén található természetes kilátópont kiváló lehetőséget kínál a tengerparti élőhelyükön napozó oroszlánfókák megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -80.996174,
+                        -2.203202
+                  ]
+            },
+            {
+                  "name": "Mirador La Puntilla",
+                  "text": "A félsziget legnyugatibb csücskén található kilátó lélegzetelállító perspektívát nyújt ott, ahol az erőteljes óceáni áramlatok összecsapnak.",
+                  "category": "natural",
+                  "coords": [
+                        -81.010873,
+                        -2.18968
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "A látványosan élénk naplementéiről híres nyílt, homokos partvidék az óceán erős hullámainak van kitéve, így fürdésre nem, de tengerparti sétákra kiválóan alkalmas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.970653,
+                        -2.224732
+                  ]
+            },
+            {
+                  "name": "Museo Salinas Siglo XXI",
+                  "text": "Ez a kulturális intézmény az ősi tengerparti kultúrák régészeti leleteit mutatja be az ecuadori tengerészeti történelem és a helyi sóipar kiállításai mellett.",
+                  "category": "museum",
+                  "coords": [
+                        -80.966883,
+                        -2.20591
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "A város nyüzsgő fő strandjaként ezt a kiterjedt aranyhomokos sávot sűrűn szegélyezik magas szállodák és nyüzsgő vízparti éttermek.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.969614,
+                        -2.204456
+                  ]
+            },
+            {
+                  "name": "Chipipe",
+                  "text": "A nyugodtabb vizéről és szélesebb homokjáról ismert népszerű öböl családbarát fürdőzési környezetet kínál a helyi jachtklub mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.982104,
+                        -2.197404
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "Az erős áramlatokról és a csendes-óceáni hullámtörésekről ismert hosszú, védtelen homokos szakasz kedvelt helyszíne a drámai naplemente fotózásnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.999766,
+                        -2.196833
+                  ]
+            },
+            {
+                  "name": "Reserva de Producción de Fauna Puntilla de Santa Elena",
+                  "text": "A szárazföld legnyugatibb pontját védő tengeri és part menti rezervátum a fészkelő tengeri teknősök és a vándorló bálnák létfontosságú menedéke.",
+                  "category": "natural",
+                  "coords": [
+                        -80.99273,
+                        -2.219246
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Ez a kis, szerény kápolna a sómedencék közelében csendes, elmélkedésre alkalmas teret biztosít a helyi tengerparti közösség számára a mindennapi imádsághoz.",
+                  "category": "religious",
+                  "coords": [
+                        -80.986413,
+                        -2.199884
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Judas Tadeo | Salinas",
+                  "text": "A reménytelen ügyek védőszentjének szentelt salinasi katolikus szentély rendszeresen vonzza a híveket hagyományos hétvégi miséire.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.966069,
+                        -2.210022
+                  ]
+            },
+            {
+                  "name": "Santuario Católico San José | Salinas",
+                  "text": "A klasszikus vallási építészettel büszkélkedő kiemelkedő katolikus szentély Salinas szívében nagyszabású körmenetekkel ünnepli Szent Józsefet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.953328,
+                        -2.21309
+                  ]
+            },
+            {
+                  "name": "Pedro José",
+                  "text": "A város nyüzsgő negyedeiben található helyi keresztény helyszín spirituális szolgáltatásokat és közösségi támogatást kínál Salinas lakóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.956532,
+                        -2.21955
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Lorenzo | Salinas",
+                  "text": "A Capilla Católica San Lorenzo egy katolikus szomszédsági kápolna Salinas városában, amely csendes teret kínál az imádságnak a tengerparti nyüzsgésben.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.958758,
+                        -2.205517
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Las Mercedes - Franciscanos",
+                  "text": "Az Iglesia Católica Nuestra Señora de Las Mercedes egy ferences rend által fenntartott katolikus templom Salinasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.977409,
+                        -2.201228
+                  ]
+            },
+            {
+                  "name": "Stella Maris",
+                  "text": "A Stella Maris egy katolikus plébániatemplom Salinasban, amely tengerparti elhelyezkedése miatt találóan a \"Tenger Csillaga\" nevet viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.988568,
+                        -2.186767
+                  ]
+            },
+            {
+                  "name": "Artisan Market",
+                  "text": "Az Artisan Market egy nyüzsgő piac Salinasban, ahol az árusok kézzel készített ecuadori kézműves termékeket és ajándéktárgyakat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.970055,
+                        -2.206231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Ballenas (se necesita previa cita)",
+                  "text": "Accesibil cu programare, acest muzeu specializat expune schelete mari de balene și exponate educaționale despre mamiferele marine de pe coasta Pacificului.",
+                  "category": "museum",
+                  "coords": [
+                        -80.961341,
+                        -2.20483
+                  ]
+            },
+            {
+                  "name": "Salinas Yacht Club",
+                  "text": "Funcționând atât ca far maritim, cât și ca port de agrement exclusivist, această facilitate ghidează bărcile care navighează în apele aglomerate ale peninsulei Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.972579,
+                        -2.199906
+                  ]
+            },
+            {
+                  "name": "Loberia",
+                  "text": "Poziționat de-a lungul țărmului stâncos, acest punct de belvedere natural oferă oportunități excelente de a observa leii de mare care se încălzesc la soare în habitatul lor de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -80.996174,
+                        -2.203202
+                  ]
+            },
+            {
+                  "name": "Mirador La Puntilla",
+                  "text": "Situată în extrema vestică a peninsulei, această platformă de observare oferă perspective uluitoare acolo unde se ciocnesc puternicii curenți oceanici.",
+                  "category": "natural",
+                  "coords": [
+                        -81.010873,
+                        -2.18968
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "Faimoasă pentru apusurile sale spectaculos de vii, această coastă nisipoasă expusă se confruntă cu valuri intense ale oceanului deschis, făcând-o nesigură pentru înot, dar perfectă pentru plimbări.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.970653,
+                        -2.224732
+                  ]
+            },
+            {
+                  "name": "Museo Salinas Siglo XXI",
+                  "text": "Această instituție culturală expune artefacte arheologice ale culturilor antice de coastă, alături de exponate despre istoria maritimă a Ecuadorului și industria locală a sării.",
+                  "category": "museum",
+                  "coords": [
+                        -80.966883,
+                        -2.20591
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "Fiind plaja principală vibrantă a orașului, această fâșie extinsă de nisip auriu este mărginită dens de hoteluri înalte și restaurante pline de viață pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.969614,
+                        -2.204456
+                  ]
+            },
+            {
+                  "name": "Chipipe",
+                  "text": "Cunoscut pentru apele sale mai calme și nisipurile mai late, acest golf popular oferă un mediu de înot prietenos pentru familii, adiacent clubului de iahturi local.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.982104,
+                        -2.197404
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "Caracterizată de curenți puternici de adâncime și de spargerea valurilor Pacificului, această întindere lungă de nisip neprotejat este un loc preferat pentru fotografia dramatică de apus.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.999766,
+                        -2.196833
+                  ]
+            },
+            {
+                  "name": "Reserva de Producción de Fauna Puntilla de Santa Elena",
+                  "text": "Protejând cel mai vestic punct extrem al continentului, această rezervație marină și de coastă este un sanctuar crucial pentru țestoasele marine care cuibăresc și pentru balenele migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        -80.99273,
+                        -2.219246
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Această capelă mică și nepretențioasă din apropierea salinelor oferă comunității locale de coastă un spațiu liniștit, reflexiv pentru rugăciunea de zi cu zi.",
+                  "category": "religious",
+                  "coords": [
+                        -80.986413,
+                        -2.199884
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Judas Tadeo | Salinas",
+                  "text": "Dedicat sfântului patron al cauzelor pierdute, acest sanctuar catolic din Salinas atrage congregații regulate pentru slujbele sale tradiționale de weekend.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.966069,
+                        -2.210022
+                  ]
+            },
+            {
+                  "name": "Santuario Católico San José | Salinas",
+                  "text": "Având o arhitectură religioasă clasică, acest sanctuar catolic proeminent din inima orașului Salinas găzduiește procesiuni mărețe în onoarea Sfântului Iosif.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.953328,
+                        -2.21309
+                  ]
+            },
+            {
+                  "name": "Pedro José",
+                  "text": "Situat în cartierele pline de viață ale orașului, acest sit creștin local oferă servicii spirituale și sprijin comunitar locuitorilor din Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.956532,
+                        -2.21955
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Lorenzo | Salinas",
+                  "text": "Capilla Católica San Lorenzo este o capelă catolică de cartier din Salinas, oferind un spațiu liniștit pentru rugăciune în mijlocul orașului de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.958758,
+                        -2.205517
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Las Mercedes - Franciscanos",
+                  "text": "Iglesia Católica Nuestra Señora de Las Mercedes este o biserică catolică din Salinas administrată de ordinul franciscan.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.977409,
+                        -2.201228
+                  ]
+            },
+            {
+                  "name": "Stella Maris",
+                  "text": "Stella Maris este o biserică parohială catolică din Salinas, numită sugestiv „Steaua Mării” datorită locației sale de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.988568,
+                        -2.186767
+                  ]
+            },
+            {
+                  "name": "Artisan Market",
+                  "text": "Artisan Market din Salinas este o piață plină de viață unde vânzătorii oferă obiecte de artizanat și suveniruri ecuadoriene lucrate manual.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.970055,
+                        -2.206231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Ballenas (appointment required)",
+                  "text": "Accessible by appointment, this specialized museum exhibits large whale skeletons and educational displays about the marine mammals of the Pacific coast.",
+                  "category": "museum",
+                  "coords": [
+                        -80.961341,
+                        -2.20483
+                  ]
+            },
+            {
+                  "name": "Salinas Yacht Club",
+                  "text": "Operating as both a maritime beacon and an exclusive marina, this facility guides boats navigating the busy waters of the Salinas peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.972579,
+                        -2.199906
+                  ]
+            },
+            {
+                  "name": "Loberia",
+                  "text": "Positioned along the rocky shoreline, this natural viewpoint offers excellent opportunities to observe sea lions basking in their coastal habitat.",
+                  "category": "natural",
+                  "coords": [
+                        -80.996174,
+                        -2.203202
+                  ]
+            },
+            {
+                  "name": "Mirador La Puntilla",
+                  "text": "Located at the extreme western tip of the peninsula, this viewing platform provides breathtaking perspectives where the powerful ocean currents collide.",
+                  "category": "natural",
+                  "coords": [
+                        -81.010873,
+                        -2.18968
+                  ]
+            },
+            {
+                  "name": "Mar Bravo Beach",
+                  "text": "Famed for its spectacularly vivid sunsets, this exposed sandy shoreline faces intense open-ocean waves that make it unsafe for swimming but perfect for coastal walks.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.970653,
+                        -2.224732
+                  ]
+            },
+            {
+                  "name": "Museo Salinas Siglo XXI",
+                  "text": "This cultural institution displays archaeological artifacts from ancient coastal cultures alongside exhibits on Ecuador's maritime history and the local salt industry.",
+                  "category": "museum",
+                  "coords": [
+                        -80.966883,
+                        -2.20591
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "As the vibrant main beach of the city, this expansive strip of golden sand is densely lined with high-rise hotels and bustling waterfront restaurants.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.969614,
+                        -2.204456
+                  ]
+            },
+            {
+                  "name": "Chipipe",
+                  "text": "Known for its calmer waters and wider sands, this popular bay offers a family-friendly swimming environment adjacent to the local yacht club.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.982104,
+                        -2.197404
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "Characterized by strong undertows and crashing Pacific breakers, this long stretch of unprotected sand is a favored spot for dramatic sunset photography.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.999766,
+                        -2.196833
+                  ]
+            },
+            {
+                  "name": "Reserva de Producción de Fauna Puntilla de Santa Elena",
+                  "text": "Protecting the extreme western point of the mainland, this marine and coastal reserve is a crucial sanctuary for nesting sea turtles and migrating whales.",
+                  "category": "natural",
+                  "coords": [
+                        -80.99273,
+                        -2.219246
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "This small, unpretentious chapel near the salt flats provides the local coastal community with a quiet, reflective space for everyday prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -80.986413,
+                        -2.199884
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Judas Tadeo | Salinas",
+                  "text": "Dedicated to the patron saint of lost causes, this Catholic sanctuary in Salinas draws regular congregations for its traditional weekend masses.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.966069,
+                        -2.210022
+                  ]
+            },
+            {
+                  "name": "Santuario Católico San José | Salinas",
+                  "text": "Featuring classic religious architecture, this prominent Catholic sanctuary in the heart of Salinas celebrates grand processions honoring Saint Joseph.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.953328,
+                        -2.21309
+                  ]
+            },
+            {
+                  "name": "Pedro José",
+                  "text": "Situated within the city's lively neighborhoods, this local Christian site offers spiritual services and community support to the residents of Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.956532,
+                        -2.21955
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Lorenzo | Salinas",
+                  "text": "A neighborhood Catholic chapel in Salinas, offering a quiet space for prayer amidst the coastal city.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.958758,
+                        -2.205517
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Las Mercedes - Franciscanos",
+                  "text": "The Iglesia Católica Nuestra Señora de Las Mercedes is a Catholic church in Salinas operated by the Franciscan order.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.977409,
+                        -2.201228
+                  ]
+            },
+            {
+                  "name": "Stella Maris",
+                  "text": "Stella Maris is a Catholic parish church in Salinas, appropriately named \"Star of the Sea\" for its coastal location.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.988568,
+                        -2.186767
+                  ]
+            },
+            {
+                  "name": "Artisan Market",
+                  "text": "The Artisan Market in Salinas is a vibrant marketplace where vendors sell handmade Ecuadorian crafts and souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.970055,
+                        -2.206231
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-Y",
     coords: [-80.957, -2.215],
@@ -602,7 +8990,1132 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "la-favorita-logistikzentrum-economic-v2",
+    id: "la-favorita-logistikzentrum-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ALTAR PATRIO",
+                  "text": "Ein patriotisches Altardenkmal, das mit nationalen Symbolen geschmückt ist und als Mittelpunkt für bürgerliche Zeremonien dient.",
+                  "category": "historical",
+                  "coords": [
+                        -78.476715,
+                        -0.34955
+                  ]
+            },
+            {
+                  "name": "Las tres Cascadas",
+                  "text": "Diese drei malerischen Wasserfälle bieten Besuchern einen erfrischenden natürlichen Rückzugsort inmitten üppiger Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.399967,
+                        -0.390007
+                  ]
+            },
+            {
+                  "name": "Soldado Desminador",
+                  "text": "Diese Gedenkstatue ehrt die Tapferkeit und Opferbereitschaft des militärischen Minenräumpersonals.",
+                  "category": "historical",
+                  "coords": [
+                        -78.475276,
+                        -0.351221
+                  ]
+            },
+            {
+                  "name": "Puerta de Alcalá",
+                  "text": "Diese lokale monumentale Torstruktur dient als markantes architektonisches Wahrzeichen des Viertels.",
+                  "category": "historical",
+                  "coords": [
+                        -78.47862,
+                        -0.351727
+                  ]
+            },
+            {
+                  "name": "Complejo Recreacional FAE",
+                  "text": "Dieser von der ecuadorianischen Luftwaffe betriebene Erholungskomplex bietet weitläufige Sportplätze und Freizeiteinrichtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.486819,
+                        -0.327065
+                  ]
+            },
+            {
+                  "name": "San Cristóbal",
+                  "text": "Dieses engagierte Denkmal steht als markantes Wahrzeichen zu Ehren des Heiligen Christophorus.",
+                  "category": "historical",
+                  "coords": [
+                        -78.519934,
+                        -0.390443
+                  ]
+            },
+            {
+                  "name": "Rincón Familiar",
+                  "text": "Mit mehreren Pools und Wasserrutschen bietet dieser familienorientierte Wasserpark einen lebhaften Rückzugsort an warmen Tagen.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.51683,
+                        -0.388919
+                  ]
+            },
+            {
+                  "name": "Castillo de Amaguaña Etapa I",
+                  "text": "Diese markante, schlossartige architektonische Struktur bildet die erste Phase einer faszinierenden thematischen Entwicklung in Amaguaña.",
+                  "category": "castle",
+                  "coords": [
+                        -78.515503,
+                        -0.384401
+                  ]
+            },
+            {
+                  "name": "Castillo de Amaguana",
+                  "text": "Dieser mit mittelalterlichen Türmen erbaute Themenpark bietet Familienunterhaltung innerhalb seiner beeindruckenden, schlossartigen Mauern.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.515788,
+                        -0.383459
+                  ]
+            },
+            {
+                  "name": "CASTILLO DEL ARMA DE INGENIERÍA MILITAR",
+                  "text": "Dieses beeindruckende Bauwerk dient als symbolische Installation für die Abteilung Militärtechnik und zeichnet sich durch seine robuste Steinarchitektur aus.",
+                  "category": "castle",
+                  "coords": [
+                        -78.476625,
+                        -0.351543
+                  ]
+            },
+            {
+                  "name": "Complejo Turistico de Medicos",
+                  "text": "Dieser ursprünglich für medizinisches Fachpersonal errichtete Erholungskomplex verfügt über weitläufige Freizeitbereiche im Freien und Versammlungsräume.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.494063,
+                        -0.323303
+                  ]
+            },
+            {
+                  "name": "Casa Blanca",
+                  "text": "Dieser als „Weißes Haus“ bekannte lokale christliche Treffpunkt besticht durch seine helle, schmucklose Fassade.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.38914,
+                        -0.379258
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE JATUMPUNGO",
+                  "text": "Diese bescheidene Kirche im Sektor Jatumpungo dient als zentrales spirituelles Zentrum für die umliegende ländliche Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -78.427929,
+                        -0.37167
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rita de Cascia - Conocoto",
+                  "text": "Diese der Heiligen Rita von Cascia geweihte katholische Kirche in Conocoto verfügt über ein einladendes Kirchenschiff, in dem sich regelmäßig einheimische Gemeindemitglieder versammeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.476595,
+                        -0.303016
+                  ]
+            },
+            {
+                  "name": "Viña del Valle Iglesia de Dios",
+                  "text": "Diese evangelikale Gemeinde der Church of God bietet einen lebendigen Raum für moderne Gottesdienste und Gemeinschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.478515,
+                        -0.304236
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Madre de la Santa Esperanza",
+                  "text": "Diese intime katholische Kapelle, die der Mutter der heiligen Hoffnung geweiht ist, bietet ein ruhiges Heiligtum für Gebet und Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.468135,
+                        -0.306123
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jose",
+                  "text": "Diese dem Heiligen Josef geweihte christliche Kirche zeichnet sich durch traditionelle religiöse Architektur aus und dient als lokale Säule des Glaubens.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.466923,
+                        -0.310164
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor del Jardín",
+                  "text": "Diese katholische Kirche ist dem „Herrn des Gartens“ gewidmet und bietet der örtlichen Gemeinde einen friedlichen, besinnlichen Raum.",
+                  "category": "religious",
+                  "coords": [
+                        -78.481596,
+                        -0.338435
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Ramón Nonato - Mercedarios",
+                  "text": "Diese vom Mercedarierorden verwaltete katholische Kapelle ist dem Heiligen Raimund Nonnatus geweiht und weist eine ausgeprägte religiöse Ikonographie auf.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.489676,
+                        -0.328574
+                  ]
+            },
+            {
+                  "name": "Urbanización Profesores Escuela Politécnica Nacional",
+                  "text": "Dieses Gotteshaus ist nahtlos in den Wohnkomplex integriert, der für die Professoren der Nationalen Polytechnischen Schule entworfen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -78.493193,
+                        -0.311353
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal de Uyumbicho",
+                  "text": "Diese zentrale Kirche in der Gemeinde Uyumbicho ist dem Heiligen Christophorus geweiht und verfügt über einen markanten Glockenturm und klassische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -78.521537,
+                        -0.384706
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro de Amaguaña",
+                  "text": "Diese katholische Hauptkirche in Amaguaña ehrt den Heiligen Petrus und steht prominent am zentralen Platz und fungiert als historisches Herz der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -78.504783,
+                        -0.370134
+                  ]
+            },
+            {
+                  "name": "Iglesia Amaguaña",
+                  "text": "Als wichtiges spirituelles Zentrum dominiert diese weitläufige Kirche mit ihrer traditionellen kirchlichen Gestaltung das örtliche Stadtbild.",
+                  "category": "religious",
+                  "coords": [
+                        -78.506291,
+                        -0.375335
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Amaguaña",
+                  "text": "Diese lebendige apostolisch-evangelikale Kirche in Amaguaña bietet lebhafte Gottesdienste und dient einer wachsenden lokalen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -78.508761,
+                        -0.385758
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de la Merced - Cuendina",
+                  "text": "Im Viertel Cuendina gelegen, bietet diese der Barmherzigen Muttergottes geweihte katholische Kirche eine ruhige Atmosphäre für die Gläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        -78.480803,
+                        -0.374364
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista",
+                  "text": "Diese biblische Baptistenkirche bietet einen zeitgemäßen Raum für protestantische Gottesdienste und gemeinschaftliche Bibelstudien.",
+                  "category": "religious",
+                  "coords": [
+                        -78.410195,
+                        -0.347326
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesuscristo y los Santos de los últimos días",
+                  "text": "Dieses Gemeindehaus der Heiligen der Letzten Tage zeichnet sich durch sein sorgfältig angelegtes Äußeres und seinen markanten modernen Turm aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.478842,
+                        -0.30118
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San José",
+                  "text": "Diese bescheidene katholische Kapelle bietet einen ruhigen, intimen Rahmen für die Verehrung des Heiligen Josef.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.472626,
+                        -0.31161
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de la Misericordia de Rumiloma",
+                  "text": "Im Gebiet von Rumiloma gelegen, ist diese katholische Kirche dem Herrn der Barmherzigkeit geweiht und fungiert als Mittelpunkt für nachbarschaftliche Andachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.477098,
+                        -0.330257
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica El Pan de Vida",
+                  "text": "Diese lebendige evangelikale Kirche mit dem Namen „Das Brot des Lebens“ bietet ihrer Gemeinde einen ansprechenden, zeitgemäßen Gottesdienstraum.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.474497,
+                        -0.322921
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser Königreichssaal bietet einen gepflegten, funktionalen Versammlungsraum, in dem sich die örtlichen Zeugen Jehovas zum Bibelstudium treffen.",
+                  "category": "religious",
+                  "coords": [
+                        -78.507051,
+                        -0.380785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ALTAR PATRIO",
+                  "text": "Nemzeti szimbólumokkal díszített hazafias oltáremlékmű, amely a polgári szertartások központjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -78.476715,
+                        -0.34955
+                  ]
+            },
+            {
+                  "name": "Las tres Cascadas",
+                  "text": "Ez a három festői, lépcsőzetes vízesés frissítő, természetes menedéket kínál a látogatóknak a buja növényzet közepette.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.399967,
+                        -0.390007
+                  ]
+            },
+            {
+                  "name": "Soldado Desminador",
+                  "text": "Ez az emlékmű a katonai aknamentesítő személyzet bátorsága és áldozatvállalása előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -78.475276,
+                        -0.351221
+                  ]
+            },
+            {
+                  "name": "Puerta de Alcalá",
+                  "text": "Ez a helyi monumentális kapuépítmény a kerület lenyűgöző építészeti nevezetességeként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -78.47862,
+                        -0.351727
+                  ]
+            },
+            {
+                  "name": "Complejo Recreacional FAE",
+                  "text": "Az ecuadori légierő által üzemeltetett rekreációs komplexum kiterjedt sportpályákat és szabadidős létesítményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.486819,
+                        -0.327065
+                  ]
+            },
+            {
+                  "name": "San Cristóbal",
+                  "text": "Ez a dedikált emlékmű Szent Kristóf tiszteletére állított kiemelkedő nevezetességként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -78.519934,
+                        -0.390443
+                  ]
+            },
+            {
+                  "name": "Rincón Familiar",
+                  "text": "A több medencével és vízi csúszdával rendelkező, családcentrikus vízi park élénk kikapcsolódást nyújt a meleg napokon.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.51683,
+                        -0.388919
+                  ]
+            },
+            {
+                  "name": "Castillo de Amaguaña Etapa I",
+                  "text": "Ez a jellegzetes, kastélyszerű építészeti struktúra egy érdekes amaguañai tematikus fejlesztés első ütemét képezi.",
+                  "category": "castle",
+                  "coords": [
+                        -78.515503,
+                        -0.384401
+                  ]
+            },
+            {
+                  "name": "Castillo de Amaguana",
+                  "text": "A középkori stílusú tornyokkal épült tematikus park lenyűgöző, kastélyszerű falai között kínál családi szórakozást.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.515788,
+                        -0.383459
+                  ]
+            },
+            {
+                  "name": "CASTILLO DEL ARMA DE INGENIERÍA MILITAR",
+                  "text": "Ez a félelmetes épület a katonai mérnöki ág szimbolikus létesítményeként szolgál, amelyet robusztus kőépítészete jellemez.",
+                  "category": "castle",
+                  "coords": [
+                        -78.476625,
+                        -0.351543
+                  ]
+            },
+            {
+                  "name": "Complejo Turistico de Medicos",
+                  "text": "Az eredetileg egészségügyi szakemberek számára létrehozott rekreációs komplexum kiterjedt szabadtéri szabadidős területekkel és gyülekezőhelyekkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.494063,
+                        -0.323303
+                  ]
+            },
+            {
+                  "name": "Casa Blanca",
+                  "text": "A „Fehér Ház” néven ismert helyi keresztény gyülekezeti hely fényes, díszítetlen homlokzatával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.38914,
+                        -0.379258
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE JATUMPUNGO",
+                  "text": "A Jatumpungo szektorban található szerény templom a környező vidéki közösség központi spirituális központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -78.427929,
+                        -0.37167
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rita de Cascia - Conocoto",
+                  "text": "A Conocotóban található, Casciai Szent Ritának szentelt katolikus templom hívogató hajóval rendelkezik, ahol a helyi hívek rendszeresen összegyűlnek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.476595,
+                        -0.303016
+                  ]
+            },
+            {
+                  "name": "Viña del Valle Iglesia de Dios",
+                  "text": "Az Isten Egyháza ezen evangéliumi gyülekezete vibráló teret biztosít a modern istentisztelet és a közösségi összejövetelek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.478515,
+                        -0.304236
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Madre de la Santa Esperanza",
+                  "text": "A Szent Remény Anyjának szentelt meghitt katolikus kápolna csendes menedéket kínál az imádkozáshoz és az elmélkedéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.468135,
+                        -0.306123
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jose",
+                  "text": "A Szent Józsefnek szentelt keresztény templom hagyományos vallási építészettel rendelkezik, és a hit helyi pilléreként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.466923,
+                        -0.310164
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor del Jardín",
+                  "text": "A „Kert Ura” tiszteletére szentelt katolikus templom békés, szemlélődő teret biztosít a helyi gyülekezet számára.",
+                  "category": "religious",
+                  "coords": [
+                        -78.481596,
+                        -0.338435
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Ramón Nonato - Mercedarios",
+                  "text": "A mercedárius rend által felügyelt katolikus kápolnát Nonnatus Szent Rajmundnak szentelték, és különleges vallási ikonográfiával rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.489676,
+                        -0.328574
+                  ]
+            },
+            {
+                  "name": "Urbanización Profesores Escuela Politécnica Nacional",
+                  "text": "Ez az istentiszteleti hely zökkenőmentesen illeszkedik a Nemzeti Politechnikai Iskola professzorai számára tervezett lakóparkba.",
+                  "category": "religious",
+                  "coords": [
+                        -78.493193,
+                        -0.311353
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal de Uyumbicho",
+                  "text": "Az Uyumbicho egyházközségben található, Szent Kristófnak szentelt központi templom kiemelkedő harangtoronnyal és klasszikus építészettel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.521537,
+                        -0.384706
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro de Amaguaña",
+                  "text": "Ez a fő amaguañai katolikus templom Szent Péter tiszteletére épült, és a központi téren állva az egyházközség történelmi szíveként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -78.504783,
+                        -0.370134
+                  ]
+            },
+            {
+                  "name": "Iglesia Amaguaña",
+                  "text": "Kulcsfontosságú spirituális központként ez a tágas templom hagyományos egyházi kialakításával uralja a helyi városképet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.506291,
+                        -0.375335
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Amaguaña",
+                  "text": "Ez a nyüzsgő amaguañai apostoli evangéliumi templom élénk istentiszteleteknek ad otthont, és egy növekvő helyi gyülekezetet szolgál ki.",
+                  "category": "religious",
+                  "coords": [
+                        -78.508761,
+                        -0.385758
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de la Merced - Cuendina",
+                  "text": "A Cuendina negyedben található, az Irgalmas Szűzanyának szentelt katolikus templom nyugodt légkört biztosít a hívek számára.",
+                  "category": "religious",
+                  "coords": [
+                        -78.480803,
+                        -0.374364
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista",
+                  "text": "Ez a baptista bibliai gyülekezet modern teret biztosít a protestáns istentiszteletek és a közösségi bibliaórák számára.",
+                  "category": "religious",
+                  "coords": [
+                        -78.410195,
+                        -0.347326
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesuscristo y los Santos de los últimos días",
+                  "text": "Ezt az Utolsó Napi Szentek gyülekezeti házát a gondosan parkosított külseje és jellegzetes modern tornya jellemzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.478842,
+                        -0.30118
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San José",
+                  "text": "Ez a szerény katolikus kápolna csendes, meghitt környezetet biztosít Szent József tiszteletéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.472626,
+                        -0.31161
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de la Misericordia de Rumiloma",
+                  "text": "A Rumiloma térségében található katolikus templomot az Irgalmasság Urának szentelték, és a környékbeli áhítatok központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.477098,
+                        -0.330257
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica El Pan de Vida",
+                  "text": "Az „Élet Kenyere” nevet viselő élénk evangéliumi templom vonzó, kortárs istentiszteleti teret biztosít gyülekezete számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.474497,
+                        -0.322921
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ez a Királyság-terem szépen karbantartott, funkcionális találkozóhelyet kínál, ahol a helyi Jehova Tanúi bibliaoktatásra gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        -78.507051,
+                        -0.380785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ALTAR PATRIO",
+                  "text": "Un monument de altar patriotic împodobit cu simboluri naționale, servind ca punct central pentru ceremoniile civice.",
+                  "category": "historical",
+                  "coords": [
+                        -78.476715,
+                        -0.34955
+                  ]
+            },
+            {
+                  "name": "Las tres Cascadas",
+                  "text": "Aceste trei cascade pitorești oferă vizitatorilor un refugiu natural revigorant în mijlocul vegetației luxuriante.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.399967,
+                        -0.390007
+                  ]
+            },
+            {
+                  "name": "Soldado Desminador",
+                  "text": "Această statuie comemorativă onorează curajul și sacrificiul personalului militar de deminare.",
+                  "category": "historical",
+                  "coords": [
+                        -78.475276,
+                        -0.351221
+                  ]
+            },
+            {
+                  "name": "Puerta de Alcalá",
+                  "text": "Această structură monumentală locală sub formă de poartă servește drept un punct de reper arhitectural izbitor în district.",
+                  "category": "historical",
+                  "coords": [
+                        -78.47862,
+                        -0.351727
+                  ]
+            },
+            {
+                  "name": "Complejo Recreacional FAE",
+                  "text": "Operat de Forțele Aeriene Ecuadoriene, acest complex de agrement oferă terenuri de sport întinse și facilități de petrecere a timpului liber.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.486819,
+                        -0.327065
+                  ]
+            },
+            {
+                  "name": "San Cristóbal",
+                  "text": "Acest monument dedicat se remarcă ca un punct de reper proeminent în onoarea Sfântului Cristofor.",
+                  "category": "historical",
+                  "coords": [
+                        -78.519934,
+                        -0.390443
+                  ]
+            },
+            {
+                  "name": "Rincón Familiar",
+                  "text": "Dispunând de mai multe piscine și tobogane cu apă, acest parc acvatic orientat spre familie oferă o evadare plină de viață în zilele calde.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.51683,
+                        -0.388919
+                  ]
+            },
+            {
+                  "name": "Castillo de Amaguaña Etapa I",
+                  "text": "Această structură arhitecturală distinctivă, asemănătoare unui castel, formează prima fază a unei dezvoltări tematice intrigante în Amaguaña.",
+                  "category": "castle",
+                  "coords": [
+                        -78.515503,
+                        -0.384401
+                  ]
+            },
+            {
+                  "name": "Castillo de Amaguana",
+                  "text": "Construit cu turnuri în stil medieval, acest parc tematic oferă divertisment pentru familie în interiorul zidurilor sale impresionante, asemănătoare unui castel.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.515788,
+                        -0.383459
+                  ]
+            },
+            {
+                  "name": "CASTILLO DEL ARMA DE INGENIERÍA MILITAR",
+                  "text": "Acest edificiu formidabil servește ca o instalație simbolică pentru ramura de inginerie militară, fiind caracterizat prin arhitectura sa robustă din piatră.",
+                  "category": "castle",
+                  "coords": [
+                        -78.476625,
+                        -0.351543
+                  ]
+            },
+            {
+                  "name": "Complejo Turistico de Medicos",
+                  "text": "Înființat inițial pentru profesioniștii din domeniul medical, acest complex de agrement are zone extinse de petrecere a timpului liber în aer liber și spații de adunare.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.494063,
+                        -0.323303
+                  ]
+            },
+            {
+                  "name": "Casa Blanca",
+                  "text": "Cunoscut sub numele de „Casa Albă”, acest loc de adunare creștin local iese în evidență prin fațada sa luminoasă, neîmpodobită.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.38914,
+                        -0.379258
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE JATUMPUNGO",
+                  "text": "Situată în sectorul Jatumpungo, această biserică modestă servește drept centru spiritual central pentru comunitatea rurală din împrejurimi.",
+                  "category": "religious",
+                  "coords": [
+                        -78.427929,
+                        -0.37167
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rita de Cascia - Conocoto",
+                  "text": "Situată în Conocoto, această biserică catolică închinată Sfintei Rita din Cascia are o navă primitoare unde enoriașii locali se adună în mod regulat.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.476595,
+                        -0.303016
+                  ]
+            },
+            {
+                  "name": "Viña del Valle Iglesia de Dios",
+                  "text": "Această congregație evanghelică a Bisericii lui Dumnezeu oferă un spațiu vibrant pentru închinarea modernă și părtășia comunitară.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.478515,
+                        -0.304236
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Madre de la Santa Esperanza",
+                  "text": "Această capelă catolică intimă, dedicată Maicii Sfintei Speranțe, oferă un sanctuar liniștit pentru rugăciune și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.468135,
+                        -0.306123
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jose",
+                  "text": "Această biserică creștină cu hramul Sfântul Iosif prezintă o arhitectură religioasă tradițională și servește ca un pilon local al credinței.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.466923,
+                        -0.310164
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor del Jardín",
+                  "text": "Dedicată „Domnului Grădinii”, această biserică catolică oferă un spațiu pașnic, contemplativ pentru congregația locală.",
+                  "category": "religious",
+                  "coords": [
+                        -78.481596,
+                        -0.338435
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Ramón Nonato - Mercedarios",
+                  "text": "Administrată de ordinul mercedar, această capelă catolică este închinată Sfântului Ramon Nonat și prezintă o iconografie religioasă distinctă.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.489676,
+                        -0.328574
+                  ]
+            },
+            {
+                  "name": "Urbanización Profesores Escuela Politécnica Nacional",
+                  "text": "Acest lăcaș de cult este perfect integrat în complexul rezidențial conceput pentru profesorii Școlii Politehnice Naționale.",
+                  "category": "religious",
+                  "coords": [
+                        -78.493193,
+                        -0.311353
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal de Uyumbicho",
+                  "text": "Situată în parohia Uyumbicho, această biserică centrală închinată Sfântului Cristofor are o clopotniță proeminentă și o arhitectură clasică.",
+                  "category": "religious",
+                  "coords": [
+                        -78.521537,
+                        -0.384706
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro de Amaguaña",
+                  "text": "Această biserică catolică principală din Amaguaña îl onorează pe Sfântul Petru și se află la un loc de cinste în piața centrală, funcționând ca inima istorică a parohiei.",
+                  "category": "religious",
+                  "coords": [
+                        -78.504783,
+                        -0.370134
+                  ]
+            },
+            {
+                  "name": "Iglesia Amaguaña",
+                  "text": "Servind drept un centru spiritual cheie, această biserică spațioasă domină peisajul local prin designul său ecleziastic tradițional.",
+                  "category": "religious",
+                  "coords": [
+                        -78.506291,
+                        -0.375335
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Amaguaña",
+                  "text": "Această biserică evanghelică apostolică vibrantă din Amaguaña găzduiește slujbe pline de viață și servește o congregație locală în creștere.",
+                  "category": "religious",
+                  "coords": [
+                        -78.508761,
+                        -0.385758
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de la Merced - Cuendina",
+                  "text": "Situată în cartierul Cuendina, această biserică catolică cu hramul Maica Domnului a Milei oferă o atmosferă senină pentru închinători.",
+                  "category": "religious",
+                  "coords": [
+                        -78.480803,
+                        -0.374364
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista",
+                  "text": "Această biserică biblică baptistă oferă un spațiu contemporan pentru închinarea protestantă și sesiunile comunitare de studiu biblic.",
+                  "category": "religious",
+                  "coords": [
+                        -78.410195,
+                        -0.347326
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesuscristo y los Santos de los últimos días",
+                  "text": "Această casă de adunare a Sfinților din Zilele din Urmă se caracterizează prin exteriorul său amenajat cu meticulozitate și turla modernă distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.478842,
+                        -0.30118
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San José",
+                  "text": "Această capelă catolică modestă oferă un cadru liniștit și intim pentru venerarea Sfântului Iosif.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.472626,
+                        -0.31161
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de la Misericordia de Rumiloma",
+                  "text": "Situată în zona Rumiloma, această biserică catolică este închinată Domnului Milei și acționează ca un punct focal pentru devoțiunile din cartier.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.477098,
+                        -0.330257
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica El Pan de Vida",
+                  "text": "Numită „Pâinea Vieții”, această biserică evanghelică plină de viață oferă un spațiu de închinare captivant și contemporan pentru congregația sa.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.474497,
+                        -0.322921
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Această Sală a Regatului oferă un spațiu de întâlnire funcțional și bine întreținut, unde Martorii lui Iehova locali se adună pentru studierea Bibliei.",
+                  "category": "religious",
+                  "coords": [
+                        -78.507051,
+                        -0.380785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ALTAR PATRIO",
+                  "text": "A patriotic altar monument adorned with national symbols, serving as a focal point for civic ceremonies.",
+                  "category": "historical",
+                  "coords": [
+                        -78.476715,
+                        -0.34955
+                  ]
+            },
+            {
+                  "name": "Las tres Cascadas",
+                  "text": "These three scenic cascading waterfalls offer visitors a refreshing natural retreat amidst lush vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.399967,
+                        -0.390007
+                  ]
+            },
+            {
+                  "name": "Soldado Desminador",
+                  "text": "This commemorative statue honors the bravery and sacrifice of military demining personnel.",
+                  "category": "historical",
+                  "coords": [
+                        -78.475276,
+                        -0.351221
+                  ]
+            },
+            {
+                  "name": "Puerta de Alcalá",
+                  "text": "This local monumental gate structure serves as a striking architectural landmark in the district.",
+                  "category": "historical",
+                  "coords": [
+                        -78.47862,
+                        -0.351727
+                  ]
+            },
+            {
+                  "name": "Complejo Recreacional FAE",
+                  "text": "Operated by the Ecuadorian Air Force, this recreational complex provides expansive sports fields and leisure facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.486819,
+                        -0.327065
+                  ]
+            },
+            {
+                  "name": "San Cristóbal",
+                  "text": "This dedicated monument stands as a prominent landmark honoring Saint Christopher.",
+                  "category": "historical",
+                  "coords": [
+                        -78.519934,
+                        -0.390443
+                  ]
+            },
+            {
+                  "name": "Rincón Familiar",
+                  "text": "Featuring multiple pools and water slides, this family-oriented aquatic park provides a lively escape on warm days.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.51683,
+                        -0.388919
+                  ]
+            },
+            {
+                  "name": "Castillo de Amaguaña Etapa I",
+                  "text": "This distinctive castle-like architectural structure forms the first phase of an intriguing thematic development in Amaguaña.",
+                  "category": "castle",
+                  "coords": [
+                        -78.515503,
+                        -0.384401
+                  ]
+            },
+            {
+                  "name": "Castillo de Amaguana",
+                  "text": "Built with medieval-style towers, this thematic park offers family entertainment within its impressive castle-like walls.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.515788,
+                        -0.383459
+                  ]
+            },
+            {
+                  "name": "CASTILLO DEL ARMA DE INGENIERÍA MILITAR",
+                  "text": "This formidable edifice serves as a symbolic installation for the military engineering branch, characterized by its robust stone architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -78.476625,
+                        -0.351543
+                  ]
+            },
+            {
+                  "name": "Complejo Turistico de Medicos",
+                  "text": "Originally established for medical professionals, this recreational complex features expansive outdoor leisure areas and gathering spaces.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.494063,
+                        -0.323303
+                  ]
+            },
+            {
+                  "name": "Casa Blanca",
+                  "text": "Known as the 'White House', this local Christian gathering place stands out with its bright, unadorned facade.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.38914,
+                        -0.379258
+                  ]
+            },
+            {
+                  "name": "IGLESIA DE JATUMPUNGO",
+                  "text": "Situated in the Jatumpungo sector, this modest church serves as a central spiritual hub for the surrounding rural community.",
+                  "category": "religious",
+                  "coords": [
+                        -78.427929,
+                        -0.37167
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rita de Cascia - Conocoto",
+                  "text": "Located in Conocoto, this Catholic church dedicated to Saint Rita of Cascia features a welcoming nave where local parishioners regularly gather.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.476595,
+                        -0.303016
+                  ]
+            },
+            {
+                  "name": "Viña del Valle Church of God",
+                  "text": "This evangelical Church of God congregation provides a vibrant space for modern worship and community fellowship.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.478515,
+                        -0.304236
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Madre de la Santa Esperanza",
+                  "text": "This intimate Catholic chapel, dedicated to the Mother of Holy Hope, offers a quiet sanctuary for prayer and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.468135,
+                        -0.306123
+                  ]
+            },
+            {
+                  "name": "Iglesia San Jose",
+                  "text": "This Christian church dedicated to Saint Joseph features traditional religious architecture and serves as a local pillar of faith.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.466923,
+                        -0.310164
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor del Jardín",
+                  "text": "Devoted to the 'Lord of the Garden', this Catholic church provides a peaceful, contemplative space for the local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -78.481596,
+                        -0.338435
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Ramón Nonato - Mercedarios",
+                  "text": "Administered by the Mercedarian order, this Catholic chapel is dedicated to Saint Raymond Nonnatus and features distinct religious iconography.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.489676,
+                        -0.328574
+                  ]
+            },
+            {
+                  "name": "Urbanización Profesores Escuela Politécnica Nacional",
+                  "text": "This place of worship is seamlessly integrated into the residential complex designed for the professors of the National Polytechnic School.",
+                  "category": "religious",
+                  "coords": [
+                        -78.493193,
+                        -0.311353
+                  ]
+            },
+            {
+                  "name": "Iglesia San Cristóbal de Uyumbicho",
+                  "text": "Located in the parish of Uyumbicho, this central church dedicated to Saint Christopher features a prominent bell tower and classic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -78.521537,
+                        -0.384706
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pedro de Amaguaña",
+                  "text": "This principal Catholic church in Amaguaña honors Saint Peter and stands prominently in the central plaza, functioning as the historic heart of the parish.",
+                  "category": "religious",
+                  "coords": [
+                        -78.504783,
+                        -0.370134
+                  ]
+            },
+            {
+                  "name": "Iglesia Amaguaña",
+                  "text": "Serving as a key spiritual center, this spacious church dominates the local townscape with its traditional ecclesiastical design.",
+                  "category": "religious",
+                  "coords": [
+                        -78.506291,
+                        -0.375335
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Amaguaña",
+                  "text": "This vibrant Apostolic Evangelical church in Amaguaña hosts lively services and serves a growing local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -78.508761,
+                        -0.385758
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de la Merced - Cuendina",
+                  "text": "Set in the Cuendina neighborhood, this Catholic church dedicated to Our Lady of Mercy features a serene atmosphere for worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        -78.480803,
+                        -0.374364
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista",
+                  "text": "This Baptist Biblical church provides a contemporary space for Protestant worship and community Bible study sessions.",
+                  "category": "religious",
+                  "coords": [
+                        -78.410195,
+                        -0.347326
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesuscristo y los Santos de los últimos días",
+                  "text": "This Latter-day Saints meetinghouse is characterized by its meticulously landscaped exterior and distinctive modern spire.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.478842,
+                        -0.30118
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San José",
+                  "text": "This modest Catholic chapel provides a quiet, intimate setting for the veneration of Saint Joseph.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.472626,
+                        -0.31161
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de la Misericordia de Rumiloma",
+                  "text": "Situated in the Rumiloma area, this Catholic church is dedicated to the Lord of Mercy and acts as a focal point for neighborhood devotions.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.477098,
+                        -0.330257
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica El Pan de Vida",
+                  "text": "Named 'The Bread of Life', this lively evangelical church provides an engaging, contemporary worship space for its congregation.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.474497,
+                        -0.322921
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "This Kingdom Hall offers a neatly maintained, functional meeting space where local Jehovah's Witnesses gather for Bible study.",
+                  "category": "religious",
+                  "coords": [
+                        -78.507051,
+                        -0.380785
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-P",
     coords: [-78.433, -0.370],
@@ -650,7 +10163,232 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "puerto-lopez-fischereihafen-economic-v2",
+    id: "puerto-lopez-fischereihafen-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Humpback Whale Skeleton",
+                  "text": "Eine beeindruckende lehrreiche Ausstellung mit dem artikulierten Skelett eines Buckelwals, der in der Nähe von Puerto Lopez angespült wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.810999,
+                        -1.550259
+                  ]
+            },
+            {
+                  "name": "mirador el renacer",
+                  "text": "Ein erhöhter Aussichtspunkt in Puerto López, der einen weiten Panoramablick auf den Pazifischen Ozean und den Fischerhafen der Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.823992,
+                        -1.563083
+                  ]
+            },
+            {
+                  "name": "Playa de Puerto López",
+                  "text": "Ein langer, sichelförmiger Sandstrand in Puerto López, der bekanntermaßen der Hauptausgangspunkt für saisonale Walbeobachtungs-Bootstouren ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.812002,
+                        -1.552151
+                  ]
+            },
+            {
+                  "name": "La Playita",
+                  "text": "Ein kleinerer, ruhigerer Sandstrand etwas außerhalb des Zentrums von Puerto López, der für ruhige Spaziergänge am Meer beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.836769,
+                        -1.565411
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Inmaculada Concepción | Puerto López",
+                  "text": "Die katholische Hauptpfarrkirche in Puerto López, die sich durch ihre zentrale Lage auszeichnet und der Unbefleckten Empfängnis gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.811308,
+                        -1.560131
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Der zentrale Marktplatz von Puerto López, auf dem vor allem Stände mit frisch gefangenem Fisch und Meeresfrüchten aus dem nahegelegenen Fischerhafen zu finden sind.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.807563,
+                        -1.556388
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Humpback Whale Skeleton",
+                  "text": "Egy lenyűgöző oktatási kiállítás, amely egy Puerto Lopez közelében partra mosott hosszúszárnyú bálna csontvázát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.810999,
+                        -1.550259
+                  ]
+            },
+            {
+                  "name": "mirador el renacer",
+                  "text": "Egy magaslati kilátó Puerto Lópezben, amely lenyűgöző panorámát nyújt a Csendes-óceánra és a város halászkikötőjére.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.823992,
+                        -1.563083
+                  ]
+            },
+            {
+                  "name": "Playa de Puerto López",
+                  "text": "Egy hosszú, félhold alakú homokos strand Puerto Lópezben, amely arról híres, hogy a szezonális bálnaleső hajótúrák fő indulási pontja.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.812002,
+                        -1.552151
+                  ]
+            },
+            {
+                  "name": "La Playita",
+                  "text": "Egy kisebb, csendesebb homokos partszakasz Puerto López központjának közvetlen közelében, amely népszerű a nyugodt tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.836769,
+                        -1.565411
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Inmaculada Concepción | Puerto López",
+                  "text": "A fő katolikus plébániatemplom Puerto Lópezben, amelyet központi elhelyezkedése jellemez, és a Szeplőtelen Fogantatásnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.811308,
+                        -1.560131
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Puerto López központi piaca, ahol a közeli halászkikötőből származó frissen fogott tenger gyümölcseit árusító standok találhatók.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.807563,
+                        -1.556388
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Humpback Whale Skeleton",
+                  "text": "O expoziție educațională impresionantă cu scheletul articulat al unei balene cu cocoașă care a eșuat lângă Puerto Lopez.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.810999,
+                        -1.550259
+                  ]
+            },
+            {
+                  "name": "mirador el renacer",
+                  "text": "Un punct de belvedere înalt în Puerto López care oferă vederi panoramice ample asupra Oceanului Pacific și a portului de pescuit al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.823992,
+                        -1.563083
+                  ]
+            },
+            {
+                  "name": "Playa de Puerto López",
+                  "text": "O plajă lungă de nisip în formă de semilună în Puerto López, faimoasă ca punct principal de plecare pentru excursiile sezoniere cu barca pentru observarea balenelor.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.812002,
+                        -1.552151
+                  ]
+            },
+            {
+                  "name": "La Playita",
+                  "text": "O porțiune mai mică și mai liniștită de țărm de nisip, chiar în afara centrului orașului Puerto López, populară pentru plimbările liniștite pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.836769,
+                        -1.565411
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Inmaculada Concepción | Puerto López",
+                  "text": "Principala biserică parohială catolică din Puerto López, caracterizată prin locația sa centrală și dedicată Imaculatei Concepții.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.811308,
+                        -1.560131
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "Piața centrală din Puerto López, cu standuri care vând în principal fructe de mare proaspăt prinse din portul de pescuit din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.807563,
+                        -1.556388
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Humpback Whale Skeleton",
+                  "text": "An impressive educational display featuring the articulated skeleton of a humpback whale that washed ashore near Puerto Lopez.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.810999,
+                        -1.550259
+                  ]
+            },
+            {
+                  "name": "mirador el renacer",
+                  "text": "An elevated viewpoint in Puerto López offering sweeping panoramic vistas of the Pacific Ocean and the town's fishing harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.823992,
+                        -1.563083
+                  ]
+            },
+            {
+                  "name": "Playa de Puerto López",
+                  "text": "A long sandy crescent beach in Puerto López, famously known as the primary departure point for seasonal whale-watching boat tours.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.812002,
+                        -1.552151
+                  ]
+            },
+            {
+                  "name": "La Playita",
+                  "text": "A smaller, quieter stretch of sandy shoreline just outside central Puerto López, popular for tranquil seaside walks.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.836769,
+                        -1.565411
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Inmaculada Concepción | Puerto López",
+                  "text": "The main Catholic parish church in Puerto López, characterized by its central location and dedicated to the Immaculate Conception.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.811308,
+                        -1.560131
+                  ]
+            },
+            {
+                  "name": "Mercado",
+                  "text": "The central marketplace of Puerto López, heavily featuring stalls that sell freshly caught seafood from the nearby fishing port.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.807563,
+                        -1.556388
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EC-M",
     coords: [-80.812, -1.559],
@@ -698,7 +10436,304 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "mirador-goldmine-economic-v2",
+    id: "mirador-goldmine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Paraíso de Salomón",
+                  "text": "Diese lokale Attraktion in der Nähe der Bergbauregion bietet Besuchern einen friedlichen Erholungsort inmitten der amazonischen Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.517573,
+                        -3.588891
+                  ]
+            },
+            {
+                  "name": "Parador Turístico Bumeran",
+                  "text": "Diese touristische Raststätte am Straßenrand dient als bequemer Treffpunkt und Aussichtspunkt für Reisende im Bergbaugebiet Mirador.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.558815,
+                        -3.567711
+                  ]
+            },
+            {
+                  "name": "Loma La Pituca",
+                  "text": "Dieser anerkannte Hügelgipfel ist Teil der zerklüfteten topografischen Landschaft, die den groß angelegten Mirador-Tagebau umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        -78.567148,
+                        -3.57304
+                  ]
+            },
+            {
+                  "name": "Pista de motos del Sr. Cuesta",
+                  "text": "Diese von einem Einheimischen verwaltete Dirtbike-Strecke bietet Offroad-Fahrten und Freizeitmotor-Sportaktivitäten in der ländlichen Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.572769,
+                        -3.636123
+                  ]
+            },
+            {
+                  "name": "Loma Quimbuimi",
+                  "text": "Dieser markante Berggipfel überblickt die amazonische Landschaft und dient als geografischer Orientierungspunkt in der Nähe des Kupferprojekts Mirador.",
+                  "category": "natural",
+                  "coords": [
+                        -78.652618,
+                        -3.608805
+                  ]
+            },
+            {
+                  "name": "Universidad Estatal Amazonica",
+                  "text": "Diese spezifische Einrichtung auf dem Gelände der Amazonian State University dient der akademischen Gemeinschaft als Ort der spirituellen Besinnung und des Gottesdienstes.",
+                  "category": "religious",
+                  "coords": [
+                        -78.588231,
+                        -3.624248
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Fátima",
+                  "text": "Diese regionale katholische Kirche ist speziell den Erscheinungen Unserer Lieben Frau von Fátima gewidmet und dient den örtlichen Gläubigen.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58839,
+                        -3.625342
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica La Vid Verdadera",
+                  "text": "Diese christliche Gemeinde greift die biblische Metapher des \"Wahren Weinstocks\" auf und bietet Raum für evangelischen Gottesdienst und gemeinschaftliches Studium.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58926,
+                        -3.626741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Paraíso de Salomón",
+                  "text": "Ez a bányászati régió közelében található helyi látványosság békés kikapcsolódást kínál a látogatóknak az amazonasi természet lágy ölén.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.517573,
+                        -3.588891
+                  ]
+            },
+            {
+                  "name": "Parador Turístico Bumeran",
+                  "text": "Ez az út menti turisztikai pihenőhely kényelmes találkozóhelyként és kilátóként szolgál a Mirador bányavidéken átutazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.558815,
+                        -3.567711
+                  ]
+            },
+            {
+                  "name": "Loma La Pituca",
+                  "text": "Ez az elismert hegycsúcs a nagyszabású Mirador külszíni bánya körüli zord topográfiai táj részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -78.567148,
+                        -3.57304
+                  ]
+            },
+            {
+                  "name": "Pista de motos del Sr. Cuesta",
+                  "text": "Ezt a földes motoros pályát egy helyi lakos üzemelteti, és terepmotorozást, valamint szabadidős motorsport-tevékenységeket kínál a vidéki térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.572769,
+                        -3.636123
+                  ]
+            },
+            {
+                  "name": "Loma Quimbuimi",
+                  "text": "Az amazonasi tájra néző figyelemre méltó hegycsúcs földrajzi tájékozódási pontként szolgál a Mirador rézprojekt közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -78.652618,
+                        -3.608805
+                  ]
+            },
+            {
+                  "name": "Universidad Estatal Amazonica",
+                  "text": "Az Amazonasi Állami Egyetem területén található létesítmény a spirituális elmélyülés és az istentisztelet helyszíneként szolgál az akadémiai közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -78.588231,
+                        -3.624248
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Fátima",
+                  "text": "Ezt a regionális katolikus templomot kifejezetten a Fátimai Szűzanya jelenéseinek szentelték, és a helyi híveket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58839,
+                        -3.625342
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica La Vid Verdadera",
+                  "text": "Az \"Igazi Szőlőtő\" bibliai metaforát felkaroló keresztény gyülekezet teret biztosít az evangéliumi istentiszteletnek és a közösségi tanulmányozásnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58926,
+                        -3.626741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Paraíso de Salomón",
+                  "text": "Această atracție locală din apropierea regiunii miniere oferă vizitatorilor o evadare recreativă liniștită, înconjurată de natura amazoniană.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.517573,
+                        -3.588891
+                  ]
+            },
+            {
+                  "name": "Parador Turístico Bumeran",
+                  "text": "Acest popas turistic de pe marginea drumului funcționează ca un loc de adunare și un punct de belvedere convenabil pentru călătorii care traversează districtul minier Mirador.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.558815,
+                        -3.567711
+                  ]
+            },
+            {
+                  "name": "Loma La Pituca",
+                  "text": "Acest vârf de deal recunoscut face parte din peisajul topografic accidentat care înconjoară mina de suprafață pe scară largă Mirador.",
+                  "category": "natural",
+                  "coords": [
+                        -78.567148,
+                        -3.57304
+                  ]
+            },
+            {
+                  "name": "Pista de motos del Sr. Cuesta",
+                  "text": "Administrată de un localnic, această pistă de motociclete pe pământ oferă plimbări off-road și activități recreative de motorsport în zona rurală.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.572769,
+                        -3.636123
+                  ]
+            },
+            {
+                  "name": "Loma Quimbuimi",
+                  "text": "Dominând peisajul amazonian, acest vârf montan notabil se profilează ca un reper geografic lângă proiectul de cupru Mirador.",
+                  "category": "natural",
+                  "coords": [
+                        -78.652618,
+                        -3.608805
+                  ]
+            },
+            {
+                  "name": "Universidad Estatal Amazonica",
+                  "text": "Situată pe teritoriul Universității de Stat Amazoniene, această facilitate specifică servește ca loc de reflecție spirituală și de cult pentru comunitatea academică.",
+                  "category": "religious",
+                  "coords": [
+                        -78.588231,
+                        -3.624248
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Fátima",
+                  "text": "Această biserică catolică regională este dedicată în mod special aparițiilor Fecioarei de la Fátima, slujindu-i pe credincioșii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58839,
+                        -3.625342
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica La Vid Verdadera",
+                  "text": "Îmbrățișând metafora biblică a „Adevăratei Vițe”, această congregație creștină oferă un spațiu pentru închinare evanghelică și studiu comunitar.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58926,
+                        -3.626741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Paraíso de Salomón",
+                  "text": "This local attraction near the mining region offers visitors a peaceful recreational escape surrounded by Amazonian nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.517573,
+                        -3.588891
+                  ]
+            },
+            {
+                  "name": "Parador Turístico Bumeran",
+                  "text": "This roadside tourist rest stop functions as a convenient gathering place and viewpoint for travelers navigating the Mirador mining district.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.558815,
+                        -3.567711
+                  ]
+            },
+            {
+                  "name": "Loma La Pituca",
+                  "text": "This recognized hill peak forms part of the rugged topographical landscape surrounding the large-scale open-pit Mirador mine.",
+                  "category": "natural",
+                  "coords": [
+                        -78.567148,
+                        -3.57304
+                  ]
+            },
+            {
+                  "name": "Pista de motos del Sr. Cuesta",
+                  "text": "Managed by a local resident, this dirt motorcycle track offers off-road riding and recreational motorsport activities in the rural area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.572769,
+                        -3.636123
+                  ]
+            },
+            {
+                  "name": "Loma Quimbuimi",
+                  "text": "Overlooking the Amazonian landscape, this notable mountain peak stands as a geographic marker near the Mirador copper project.",
+                  "category": "natural",
+                  "coords": [
+                        -78.652618,
+                        -3.608805
+                  ]
+            },
+            {
+                  "name": "Universidad Estatal Amazonica",
+                  "text": "Situated within the Amazonian State University grounds, this specific facility serves as a place of spiritual reflection and worship for the academic community.",
+                  "category": "religious",
+                  "coords": [
+                        -78.588231,
+                        -3.624248
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Fátima",
+                  "text": "This regional Catholic church is specifically dedicated to the apparitions of Our Lady of Fátima, serving local worshipers.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58839,
+                        -3.625342
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica La Vid Verdadera",
+                  "text": "Embracing the \"True Vine\" biblical metaphor, this Christian congregation provides a space for evangelical worship and community study.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58926,
+                        -3.626741
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-Z",
     coords: [-78.583, -3.566],
@@ -746,7 +10781,736 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "blumenfarmen-cayambe-economic-v2",
+    id: "blumenfarmen-cayambe-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Camping",
+                  "text": "Ein Campingplatz in der Nähe von Cayambe, der Stellplätze inmitten der berühmten Blumenfarmen der Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.078108,
+                        0.091785
+                  ]
+            },
+            {
+                  "name": "Ingreso Cascada Bebedero - Buga",
+                  "text": "Dieser Wasserfall stürzt in eine natürliche Schlucht und ist über einen Wanderweg durch die Andenvegetation erreichbar.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.080519,
+                        0.071673
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "Ein öffentlicher Park in Cayambe mit Denkmälern und Grünflächen, die der Mutterschaft gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.147512,
+                        0.044728
+                  ]
+            },
+            {
+                  "name": "Parque La Remonta",
+                  "text": "Dieser Erholungspark bietet Grünflächen und Spielbereiche für die Bewohner am Rande von Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.140098,
+                        0.053693
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Puntiachil",
+                  "text": "Diese präkolumbianische Ausgrabungsstätte beherbergt zeremonielle Erdhügel, die einst für astronomische Beobachtungen genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.137949,
+                        0.040892
+                  ]
+            },
+            {
+                  "name": "Virgen del Mirador",
+                  "text": "Diese Marienstatue auf einem Hügel bietet einen weiten Ausblick über die Stadt Cayambe und den gleichnamigen Vulkan.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.133868,
+                        0.064989
+                  ]
+            },
+            {
+                  "name": "RINCONCITO DEPORTIVO YANAHUAICO",
+                  "text": "Ein lokales Sport- und Freizeitzentrum in Yanahuaico, das Felder für Fußball und Volleyball bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.116963,
+                        0.076596
+                  ]
+            },
+            {
+                  "name": "Piedras Magnéticas",
+                  "text": "Diese vulkanischen Felsformationen sind für ihre ungewöhnlichen magnetischen Eigenschaften bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        -78.103042,
+                        0.091641
+                  ]
+            },
+            {
+                  "name": "Laguna Yaznan",
+                  "text": "Diese kleine Lagune bietet Möglichkeiten zur Vogelbeobachtung und Erholung in der Nähe der Äquatorlinie.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.149693,
+                        0.028929
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Divino Niño Jesús",
+                  "text": "Eine farbenfrohe Kapelle, die dem Divino Niño gewidmet ist und ein Zentrum der Volksfrömmigkeit in der Region bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.145759,
+                        0.033713
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Parroquial de Tupigachi",
+                  "text": "Die Pfarrkirche von Tupigachi ist ein architektonischer Mittelpunkt dieses ländlichen Dorfes an der Panamericana.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.181419,
+                        0.077278
+                  ]
+            },
+            {
+                  "name": "Inglesia católica",
+                  "text": "Diese traditionelle katholische Kirche dient der lokalen Gemeinde für wöchentliche Messen und religiöse Feiern.",
+                  "category": "religious",
+                  "coords": [
+                        -78.100158,
+                        0.090197
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Eine protestantische Gebetsstätte, die für die evangelischen Gottesdienste der umliegenden Nachbarschaften genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -78.141282,
+                        0.047372
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Chiquinquira",
+                  "text": "Diese Kapelle ist der Jungfrau von Chiquinquirá gewidmet, einer in den Anden verehrten Schutzpatronin.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.142539,
+                        0.048751
+                  ]
+            },
+            {
+                  "name": "Iglesia Salesiana",
+                  "text": "Diese von den Salesianern Don Boscos geführte Kirche ist Teil eines größeren Bildungs- und Missionszentrums.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.145294,
+                        0.04586
+                  ]
+            },
+            {
+                  "name": "Iglesia Paquiestancia",
+                  "text": "Die Kirche von Paquiestancia liegt inmitten grüner Weiden und ist der religiöse Ankerpunkt der kleinen Siedlung.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.110121,
+                        0.07106
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz San Pedro | Cayambe",
+                  "text": "Diese koloniale Hauptkirche am zentralen Platz von Cayambe ist dem Apostel Petrus gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.143082,
+                        0.040372
+                  ]
+            },
+            {
+                  "name": "Salón Del Reino - Testigos de Jehová",
+                  "text": "Ein schlichter Königreichssaal der Zeugen Jehovas, der für Bibelschulungen und Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -78.146741,
+                        0.036646
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Ein lebhafter städtischer Markt, auf dem frisches Obst, Gemüse und die berühmten 'Bizcochos' aus Cayambe verkauft werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.14475,
+                        0.040156
+                  ]
+            },
+            {
+                  "name": "Plataforma Plaza Dominical",
+                  "text": "Dieser Marktplatz ist sonntags ein Zentrum für den Handel mit traditionellen Waren und lokalem Kunsthandwerk.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.140151,
+                        0.052259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Camping",
+                  "text": "Egy kempinghely Cayambe közelében, amely a régió híres virágfarmjai között kínál szállást.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.078108,
+                        0.091785
+                  ]
+            },
+            {
+                  "name": "Ingreso Cascada Bebedero - Buga",
+                  "text": "Ez a vízesés egy természetes szurdokba zúdul, és az andoki növényzeten átvezető ösvényen érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.080519,
+                        0.071673
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "Egy nyilvános park Cayambéban, emlékművekkel és az anyaságnak szentelt zöldterületekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.147512,
+                        0.044728
+                  ]
+            },
+            {
+                  "name": "Parque La Remonta",
+                  "text": "Ez a szabadidőpark zöldfelületeket és játszótereket kínál a Cayambe szélén lakók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.140098,
+                        0.053693
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Puntiachil",
+                  "text": "Ezen a prekolumbián régészeti lelőhelyen ceremoniális dombok találhatók, amelyeket egykor csillagászati megfigyelésekre használtak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.137949,
+                        0.040892
+                  ]
+            },
+            {
+                  "name": "Virgen del Mirador",
+                  "text": "Ez a dombtetőn álló Szűzanya-szobor tágas kilátást nyújt Cayambe városára és a névadó vulkánra.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.133868,
+                        0.064989
+                  ]
+            },
+            {
+                  "name": "RINCONCITO DEPORTIVO YANAHUAICO",
+                  "text": "Helyi sport- és szabadidőközpont Yanahuaicóban, foci- és röplabdapályákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.116963,
+                        0.076596
+                  ]
+            },
+            {
+                  "name": "Piedras Magnéticas",
+                  "text": "Ezek a vulkáni kőzetképződmények szokatlan mágneses tulajdonságaikról ismertek.",
+                  "category": "historical",
+                  "coords": [
+                        -78.103042,
+                        0.091641
+                  ]
+            },
+            {
+                  "name": "Laguna Yaznan",
+                  "text": "Ez a kis laguna madármegfigyelési és kikapcsolódási lehetőséget kínál az egyenlítői vonal közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.149693,
+                        0.028929
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Divino Niño Jesús",
+                  "text": "Egy színes kápolna a Divino Niñónak szentelve, amely a népi vallásosság egyik központja a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.145759,
+                        0.033713
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Parroquial de Tupigachi",
+                  "text": "Tupigachi plébániatemploma a Panamericana mentén fekvő vidéki falu építészeti központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.181419,
+                        0.077278
+                  ]
+            },
+            {
+                  "name": "Inglesia católica",
+                  "text": "Ez a hagyományos katolikus templom a helyi közösség heti miséinek és vallási ünnepeinek helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -78.100158,
+                        0.090197
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Protestáns imaház, amelyet a környező környékek evangélikus istentiszteleteihez használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -78.141282,
+                        0.047372
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Chiquinquira",
+                  "text": "Ez a kápolna a Chiquinquirái Szűzanyának, az Andokban tisztelt védőszentnek van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.142539,
+                        0.048751
+                  ]
+            },
+            {
+                  "name": "Iglesia Salesiana",
+                  "text": "Ez a Don Bosco szalézi rendje által vezetett templom egy nagyobb oktatási és missziós központ része.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.145294,
+                        0.04586
+                  ]
+            },
+            {
+                  "name": "Iglesia Paquiestancia",
+                  "text": "Paquiestancia temploma zöld legelők között fekszik, és a kis település vallási tartóoszlopa.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.110121,
+                        0.07106
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz San Pedro | Cayambe",
+                  "text": "Cayambe főtere mellett álló gyarmati stílusú templom, amelyet Szent Péter apostolnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.143082,
+                        0.040372
+                  ]
+            },
+            {
+                  "name": "Salón Del Reino - Testigos de Jehová",
+                  "text": "Jehova Tanúi egyszerű Királyság-terme, amelyet bibliai oktatásra és istentiszteletekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -78.146741,
+                        0.036646
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Nyüzsgő városi piac, ahol friss gyümölcsöt, zöldséget és a híres cayambéi 'bizcocho'-t árusítják.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.14475,
+                        0.040156
+                  ]
+            },
+            {
+                  "name": "Plataforma Plaza Dominical",
+                  "text": "Ez a piactér vasárnaponként a hagyományos áruk és helyi kézműves termékek kereskedelmének központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.140151,
+                        0.052259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Camping",
+                  "text": "Un loc de camping lângă Cayambe, oferind spații de cazare în mijlocul celebrelor ferme de flori ale regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.078108,
+                        0.091785
+                  ]
+            },
+            {
+                  "name": "Ingreso Cascada Bebedero - Buga",
+                  "text": "Această cascadă se varsă într-un defileu natural și este accesibilă printr-o potecă prin vegetația andină.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.080519,
+                        0.071673
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "Un parc public din Cayambe, cu monumente și spații verzi dedicate maternității.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.147512,
+                        0.044728
+                  ]
+            },
+            {
+                  "name": "Parque La Remonta",
+                  "text": "Acest parc recreativ oferă spații verzi și zone de joacă pentru locuitorii de la marginea orașului Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.140098,
+                        0.053693
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Puntiachil",
+                  "text": "Acest sit arheologic precolumbian adăpostește movile ceremoniale care au fost folosite cândva pentru observații astronomice.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.137949,
+                        0.040892
+                  ]
+            },
+            {
+                  "name": "Virgen del Mirador",
+                  "text": "Această statuie a Fecioarei de pe deal oferă o vedere largă asupra orașului Cayambe și a vulcanului omonim.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.133868,
+                        0.064989
+                  ]
+            },
+            {
+                  "name": "RINCONCITO DEPORTIVO YANAHUAICO",
+                  "text": "Un centru sportiv și recreativ local din Yanahuaico, oferind terenuri pentru fotbal și volei.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.116963,
+                        0.076596
+                  ]
+            },
+            {
+                  "name": "Piedras Magnéticas",
+                  "text": "Aceste formațiuni stâncoase vulcanice sunt cunoscute pentru proprietățile lor magnetice neobișnuite.",
+                  "category": "historical",
+                  "coords": [
+                        -78.103042,
+                        0.091641
+                  ]
+            },
+            {
+                  "name": "Laguna Yaznan",
+                  "text": "Această mică lagună oferă oportunități pentru observarea păsărilor și recreere lângă linia ecuatorului.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.149693,
+                        0.028929
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Divino Niño Jesús",
+                  "text": "O capelă colorată dedicată lui Divino Niño, reprezentând un centru al devoțiunii populare în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.145759,
+                        0.033713
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Parroquial de Tupigachi",
+                  "text": "Biserica parohială din Tupigachi este un punct de reper arhitectural al acestui sat rural de pe Panamericana.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.181419,
+                        0.077278
+                  ]
+            },
+            {
+                  "name": "Inglesia católica",
+                  "text": "Această biserică catolică tradițională servește comunitatea locală pentru slujbele săptămânale și sărbătorile religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -78.100158,
+                        0.090197
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Un loc de rugăciune protestant, utilizat pentru slujbele evanghelice ale cartierelor din jur.",
+                  "category": "religious",
+                  "coords": [
+                        -78.141282,
+                        0.047372
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Chiquinquira",
+                  "text": "Această capelă este dedicată Fecioarei din Chiquinquirá, o sfântă patroană venerată în Anzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.142539,
+                        0.048751
+                  ]
+            },
+            {
+                  "name": "Iglesia Salesiana",
+                  "text": "Această biserică administrată de ordinul salezian al lui Don Bosco face parte dintr-un centru educațional și misionar mai mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.145294,
+                        0.04586
+                  ]
+            },
+            {
+                  "name": "Iglesia Paquiestancia",
+                  "text": "Biserica din Paquiestancia este situată în mijlocul pășunilor verzi și reprezintă ancora religioasă a micii așezări.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.110121,
+                        0.07106
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz San Pedro | Cayambe",
+                  "text": "Această biserică principală în stil colonial din piața centrală a orașului Cayambe este dedicată Sfântului Petru.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.143082,
+                        0.040372
+                  ]
+            },
+            {
+                  "name": "Salón Del Reino - Testigos de Jehová",
+                  "text": "O Sală a Regatului simplă a Martorilor lui Iehova, folosită pentru instruire biblică și servicii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -78.146741,
+                        0.036646
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "O piață municipală plină de viață, unde se vând fructe proaspete, legume și faimoasele 'bizcochos' din Cayambe.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.14475,
+                        0.040156
+                  ]
+            },
+            {
+                  "name": "Plataforma Plaza Dominical",
+                  "text": "Această platformă comercială este duminica un centru pentru schimbul de mărfuri tradiționale și meșteșuguri locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.140151,
+                        0.052259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Camping",
+                  "text": "A camping site near Cayambe offering spots amidst the region's famous flower farms.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.078108,
+                        0.091785
+                  ]
+            },
+            {
+                  "name": "Star way - Cascada Bebedero - Buga",
+                  "text": "This waterfall plunges into a natural gorge and is accessible via a trail through Andean vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.080519,
+                        0.071673
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "A public park in Cayambe featuring monuments and green spaces dedicated to motherhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.147512,
+                        0.044728
+                  ]
+            },
+            {
+                  "name": "Parque La Remonta",
+                  "text": "This recreational park provides green spaces and play areas for residents on the outskirts of Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.140098,
+                        0.053693
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Puntiachil",
+                  "text": "This pre-Columbian archaeological site features ceremonial mounds once used for astronomical observations.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.137949,
+                        0.040892
+                  ]
+            },
+            {
+                  "name": "Virgen del Mirador",
+                  "text": "This hilltop statue of the Virgin offers a sweeping view over the city of Cayambe and the namesake volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.133868,
+                        0.064989
+                  ]
+            },
+            {
+                  "name": "RINCONCITO DEPORTIVO YANAHUAICO",
+                  "text": "A local sports and recreation center in Yanahuaico, offering fields for football and volleyball.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.116963,
+                        0.076596
+                  ]
+            },
+            {
+                  "name": "Piedras Magnéticas",
+                  "text": "These volcanic rock formations are known for their unusual magnetic properties.",
+                  "category": "historical",
+                  "coords": [
+                        -78.103042,
+                        0.091641
+                  ]
+            },
+            {
+                  "name": "Laguna Yaznan",
+                  "text": "This small lagoon offers birdwatching and recreation opportunities near the equatorial line.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.149693,
+                        0.028929
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Divino Niño Jesús",
+                  "text": "A colorful chapel dedicated to the Divino Niño, forming a center of popular piety in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.145759,
+                        0.033713
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Parroquial de Tupigachi",
+                  "text": "The parish church of Tupigachi is an architectural centerpiece of this rural village along the Pan-American Highway.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.181419,
+                        0.077278
+                  ]
+            },
+            {
+                  "name": "Inglesia católica",
+                  "text": "This traditional Catholic church serves the local community for weekly masses and religious celebrations.",
+                  "category": "religious",
+                  "coords": [
+                        -78.100158,
+                        0.090197
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "A Protestant place of worship used for the evangelical services of the surrounding neighborhoods.",
+                  "category": "religious",
+                  "coords": [
+                        -78.141282,
+                        0.047372
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen Chiquinquira",
+                  "text": "This chapel is dedicated to the Virgin of Chiquinquirá, a patron saint revered in the Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.142539,
+                        0.048751
+                  ]
+            },
+            {
+                  "name": "Iglesia Salesiana",
+                  "text": "This church run by the Salesian order of Don Bosco is part of a larger educational and missionary center.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.145294,
+                        0.04586
+                  ]
+            },
+            {
+                  "name": "Iglesia Paquiestancia",
+                  "text": "The church of Paquiestancia is set amidst green pastures and is the religious anchor of the small settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.110121,
+                        0.07106
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz San Pedro | Cayambe",
+                  "text": "This colonial-style main church on Cayambe's central plaza is dedicated to Saint Peter the Apostle.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.143082,
+                        0.040372
+                  ]
+            },
+            {
+                  "name": "Salón Del Reino - Testigos de Jehová",
+                  "text": "A simple Kingdom Hall of Jehovah's Witnesses, used for Bible education and worship services.",
+                  "category": "religious",
+                  "coords": [
+                        -78.146741,
+                        0.036646
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "A bustling municipal market selling fresh produce, vegetables, and Cayambe's famous 'bizcochos'.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.14475,
+                        0.040156
+                  ]
+            },
+            {
+                  "name": "Plataforma Plaza Dominical",
+                  "text": "This marketplace platform is a Sunday hub for trading traditional goods and local crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.140151,
+                        0.052259
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-P",
     coords: [-78.145, 0.045],
@@ -794,7 +11558,700 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "holcim-zementwerk-guayaquil-economic-v2",
+    id: "holcim-zementwerk-guayaquil-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia Católica San José Obrero",
+                  "text": "Katholische Kirche für die Industriegemeinde in der Nähe des Holcim-Zementwerks bei Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.970042,
+                        -2.114835
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Madre Teresa de Calcuta",
+                  "text": "Eine moderne katholische Kapelle am Stadtrand von Guayaquil, die der heiligen Mutter Teresa gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -79.987312,
+                        -2.11271
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Ignacio de Loyola",
+                  "text": "Eine von Jesuiten inspirierte katholische Kapelle in den Außenbezirken von Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.97499,
+                        -2.122943
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Teresa de Ávila",
+                  "text": "Diese katholische Kapelle am Stadtrand ist der spanischen Mystikerin Teresa von Ávila gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.987908,
+                        -2.123532
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Divino Niño Jesús",
+                  "text": "Eine lokale Gebetsstätte im Holcim-Viertel, die der Verehrung des Jesuskindes gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.97218,
+                        -2.126405
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Preciosísima Sangre de Nuestro Señor Jesucristo",
+                  "text": "Eine katholische Kirche mit traditioneller Frömmigkeit am Rande von Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.968684,
+                        -2.121733
+                  ]
+            },
+            {
+                  "name": "IGLESIA ADVENTISTA REALIDAD DE DIOS",
+                  "text": "Ein Gotteshaus der Siebenten-Tags-Adventisten für die umliegenden Wohngebiete von Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -80.015322,
+                        -2.118206
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Bautismo de Jesús",
+                  "text": "Diese katholische Kirche dient der lokalen Gemeinde in der Nähe des Industriegebiets von Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.996681,
+                        -2.123856
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Felipe Neri",
+                  "text": "Eine schlichte katholische Kapelle, die dem Heiligen Philipp Neri gewidmet ist und als Ort der stillen Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        -79.997105,
+                        -2.116463
+                  ]
+            },
+            {
+                  "name": "Oratorio Católico Santa María",
+                  "text": "Ein kleines katholisches Oratorium, das der Jungfrau Maria gewidmet ist und im Viertel Monte Sinaí liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.00691,
+                        -2.114239
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová -  Realidad de Dios",
+                  "text": "Ein funktionaler Königreichssaal der Zeugen Jehovas im Wohnviertel Realidad.",
+                  "category": "religious",
+                  "coords": [
+                        -79.994933,
+                        -2.112143
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein lokales Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage mit moderner Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -79.988914,
+                        -2.122003
+                  ]
+            },
+            {
+                  "name": "La Grandeza de Dios",
+                  "text": "Eine christliche Gebetsstätte in Monte Sinaí, die für ihre lebendigen Gottesdienste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.968255,
+                        -2.119442
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica La Transfiguración del Señor",
+                  "text": "Diese katholische Pfarrei ist der Verklärung Christi gewidmet und bildet den Mittelpunkt der lokalen Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.014997,
+                        -2.121119
+                  ]
+            },
+            {
+                  "name": "Capilla Católica \"San Francisco\"",
+                  "text": "Eine kleine, dem Heiligen Franziskus gewidmete Kapelle, die einen ruhigen Ort für das tägliche Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -80.016925,
+                        -2.126554
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein bescheidener Königreichssaal der Zeugen Jehovas, der für die Bibellehre in Guayaquil genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.005334,
+                        -2.128542
+                  ]
+            },
+            {
+                  "name": "Oratorio Católico Salesiano María Auxiliadora - Monte Sinaí",
+                  "text": "Ein salesianisches Oratorium in Monte Sinaí, das besonders in der Jugendarbeit der Gemeinde aktiv ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.00363,
+                        -2.127379
+                  ]
+            },
+            {
+                  "name": "Iglesia Padre Simon",
+                  "text": "Eine christliche Kirche in Guayaquil, die nach Pater Simon benannt ist und soziale Unterstützung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.004282,
+                        -2.116528
+                  ]
+            },
+            {
+                  "name": "TIA - Monte Sinai",
+                  "text": "Ein belebter lokaler Marktplatz in Monte Sinaí, wo frische Lebensmittel und Waren des täglichen Bedarfs angeboten werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.996468,
+                        -2.12585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia Católica San José Obrero",
+                  "text": "Katolikus templom a Guayaquil melletti Holcim cementgyár közelében lévő ipari közösség számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.970042,
+                        -2.114835
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Madre Teresa de Calcuta",
+                  "text": "Modern katolikus kápolna Guayaquil külvárosában, amelyet Szent Kalkuttai Teréz anyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -79.987312,
+                        -2.11271
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Ignacio de Loyola",
+                  "text": "Jezsuita ihletésű katolikus kápolna Guayaquil külvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.97499,
+                        -2.122943
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Teresa de Ávila",
+                  "text": "Ez a külvárosi katolikus kápolna Ávilai Szent Teréz spanyol misztikusnak van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.987908,
+                        -2.123532
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Divino Niño Jesús",
+                  "text": "Helyi áhítati hely a Holcim negyedben, amelyet a gyermek Jézus tiszteletének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.97218,
+                        -2.126405
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Preciosísima Sangre de Nuestro Señor Jesucristo",
+                  "text": "Hagyományos áhítatú katolikus templom Guayaquil szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.968684,
+                        -2.121733
+                  ]
+            },
+            {
+                  "name": "IGLESIA ADVENTISTA REALIDAD DE DIOS",
+                  "text": "A Hetednapi Adventista Egyház imaháza Guayaquil környező lakónegyedei számára.",
+                  "category": "religious",
+                  "coords": [
+                        -80.015322,
+                        -2.118206
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Bautismo de Jesús",
+                  "text": "Ez a katolikus templom a guayaquili ipari negyed közelében élő helyi közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.996681,
+                        -2.123856
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Felipe Neri",
+                  "text": "Néri Szent Fülöpnek szentelt egyszerű katolikus kápolna, amely az elcsendesedés és az ima helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -79.997105,
+                        -2.116463
+                  ]
+            },
+            {
+                  "name": "Oratorio Católico Santa María",
+                  "text": "Szűz Máriának szentelt kis katolikus oratórium Monte Sinaí negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.00691,
+                        -2.114239
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová -  Realidad de Dios",
+                  "text": "Jehova Tanúi funkcionális Királyság-terme a Realidad lakónegyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -79.994933,
+                        -2.112143
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza modern építészetű helyi gyülekezeti háza.",
+                  "category": "religious",
+                  "coords": [
+                        -79.988914,
+                        -2.122003
+                  ]
+            },
+            {
+                  "name": "La Grandeza de Dios",
+                  "text": "Monte Sinaí-i keresztény imaház, amely élénk istentiszteleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.968255,
+                        -2.119442
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica La Transfiguración del Señor",
+                  "text": "Ez az Úr Színeváltozásának szentelt katolikus plébánia a helyi közösség hitéletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.014997,
+                        -2.121119
+                  ]
+            },
+            {
+                  "name": "Capilla Católica \"San Francisco\"",
+                  "text": "Szent Ferencnek szentelt kis kápolna, amely nyugodt helyszínt biztosít a napi imádsághoz.",
+                  "category": "religious",
+                  "coords": [
+                        -80.016925,
+                        -2.126554
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi szerény Királyság-terme, amelyet bibliai oktatásra használnak Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.005334,
+                        -2.128542
+                  ]
+            },
+            {
+                  "name": "Oratorio Católico Salesiano María Auxiliadora - Monte Sinaí",
+                  "text": "Szalézi oratórium Monte Sinaíban, amely különösen aktív a közösségi ifjúsági munkában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.00363,
+                        -2.127379
+                  ]
+            },
+            {
+                  "name": "Iglesia Padre Simon",
+                  "text": "Simon atyáról elnevezett keresztény templom Guayaquilban, amely szociális támogatást is nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.004282,
+                        -2.116528
+                  ]
+            },
+            {
+                  "name": "TIA - Monte Sinai",
+                  "text": "Monte Sinaí nyüzsgő helyi piaca, ahol friss élelmiszereket és napi cikkeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.996468,
+                        -2.12585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia Católica San José Obrero",
+                  "text": "Biserică catolică pentru comunitatea industrială de lângă fabrica de ciment Holcim de lângă Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.970042,
+                        -2.114835
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Madre Teresa de Calcuta",
+                  "text": "O chapelă catolică modernă la periferia orașului Guayaquil, dedicată Sfintei Maica Tereza.",
+                  "category": "religious",
+                  "coords": [
+                        -79.987312,
+                        -2.11271
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Ignacio de Loyola",
+                  "text": "O chapelă catolică de inspirație iezuită în cartierele mărginașe ale orașului Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.97499,
+                        -2.122943
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Teresa de Ávila",
+                  "text": "Această chapelă catolică de la periferie este dedicată misticei spaniole Tereza de Avila.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.987908,
+                        -2.123532
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Divino Niño Jesús",
+                  "text": "Un lăcaș de cult local în cartierul Holcim, dedicat venerării Pruncului Iisus.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.97218,
+                        -2.126405
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Preciosísima Sangre de Nuestro Señor Jesucristo",
+                  "text": "O biserică catolică cu o devoțiune tradițională, situată la marginea orașului Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.968684,
+                        -2.121733
+                  ]
+            },
+            {
+                  "name": "IGLESIA ADVENTISTA REALIDAD DE DIOS",
+                  "text": "Un lăcaș de cult al Adventiștilor de Ziua a Șaptea pentru zonele rezidențiale din jur din Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -80.015322,
+                        -2.118206
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Bautismo de Jesús",
+                  "text": "Această biserică catolică deservește comunitatea locală din apropierea zonei industriale a orașului Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.996681,
+                        -2.123856
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Felipe Neri",
+                  "text": "O capelă catolică simplă dedicată Sfântului Filip Neri, servind ca loc de reculegere și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -79.997105,
+                        -2.116463
+                  ]
+            },
+            {
+                  "name": "Oratorio Católico Santa María",
+                  "text": "Un mic oratoriu catolic dedicat Fecioarei Maria, situat în cartierul Monte Sinaí.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.00691,
+                        -2.114239
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová -  Realidad de Dios",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova, cu design funcțional, situată în zona rezidențială Realidad.",
+                  "category": "religious",
+                  "coords": [
+                        -79.994933,
+                        -2.112143
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri locală a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă, cu arhitectură modernă.",
+                  "category": "religious",
+                  "coords": [
+                        -79.988914,
+                        -2.122003
+                  ]
+            },
+            {
+                  "name": "La Grandeza de Dios",
+                  "text": "Un lăcaș de cult creștin în Monte Sinaí, cunoscut pentru serviciile sale religioase pline de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.968255,
+                        -2.119442
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica La Transfiguración del Señor",
+                  "text": "Această parohie catolică este dedicată Schimbării la Față a Domnului și reprezintă nucleul comunității locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.014997,
+                        -2.121119
+                  ]
+            },
+            {
+                  "name": "Capilla Católica \"San Francisco\"",
+                  "text": "O mică capelă dedicată Sfântului Francisc, oferind un spațiu liniștit pentru rugăciunea zilnică.",
+                  "category": "religious",
+                  "coords": [
+                        -80.016925,
+                        -2.126554
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova, modestă, utilizată pentru instruirea biblică în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.005334,
+                        -2.128542
+                  ]
+            },
+            {
+                  "name": "Oratorio Católico Salesiano María Auxiliadora - Monte Sinaí",
+                  "text": "Un oratoriu salezian în Monte Sinaí, foarte activ în activitățile pentru tineret ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.00363,
+                        -2.127379
+                  ]
+            },
+            {
+                  "name": "Iglesia Padre Simon",
+                  "text": "O biserică creștină din Guayaquil, numită după Părintele Simon, care oferă și sprijin social.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.004282,
+                        -2.116528
+                  ]
+            },
+            {
+                  "name": "TIA - Monte Sinai",
+                  "text": "O piață locală animată în Monte Sinaí, unde se vând alimente proaspete și produse de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.996468,
+                        -2.12585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia Católica San José Obrero",
+                  "text": "Catholic church for the industrial community near the Holcim cement plant outside Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.970042,
+                        -2.114835
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Madre Teresa de Calcuta",
+                  "text": "A modern Catholic chapel on the outskirts of Guayaquil dedicated to Saint Mother Teresa.",
+                  "category": "religious",
+                  "coords": [
+                        -79.987312,
+                        -2.11271
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Ignacio de Loyola",
+                  "text": "A Jesuit-inspired Catholic chapel located in the outlying districts of Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.97499,
+                        -2.122943
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Teresa de Ávila",
+                  "text": "This Catholic chapel on the outskirts is dedicated to the Spanish mystic Teresa of Avila.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.987908,
+                        -2.123532
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Divino Niño Jesús",
+                  "text": "A local place of devotion in the Holcim neighborhood dedicated to the Child Jesus.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.97218,
+                        -2.126405
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Preciosísima Sangre de Nuestro Señor Jesucristo",
+                  "text": "A Catholic church with traditional devotion located on the periphery of Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.968684,
+                        -2.121733
+                  ]
+            },
+            {
+                  "name": "IGLESIA ADVENTISTA REALIDAD DE DIOS",
+                  "text": "A Seventh-day Adventist place of worship serving the surrounding residential areas of Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -80.015322,
+                        -2.118206
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Bautismo de Jesús",
+                  "text": "This Catholic church serves the local community near the industrial district of Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.996681,
+                        -2.123856
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Felipe Neri",
+                  "text": "A simple Catholic chapel dedicated to Saint Philip Neri, serving as a place for quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -79.997105,
+                        -2.116463
+                  ]
+            },
+            {
+                  "name": "Oratorio Católico Santa María",
+                  "text": "A small Catholic oratory dedicated to the Virgin Mary, located in the Monte Sinaí neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.00691,
+                        -2.114239
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, Realidad",
+                  "text": "A functional Kingdom Hall of Jehovah's Witnesses located in the Realidad residential area.",
+                  "category": "religious",
+                  "coords": [
+                        -79.994933,
+                        -2.112143
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A local meetinghouse of The Church of Jesus Christ of Latter-day Saints featuring modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -79.988914,
+                        -2.122003
+                  ]
+            },
+            {
+                  "name": "La Grandeza de Dios",
+                  "text": "A Christian place of worship in Monte Sinaí, known for its vibrant religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.968255,
+                        -2.119442
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica La Transfiguración del Señor",
+                  "text": "This Catholic parish is dedicated to the Transfiguration of the Lord and serves as a local community hub.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.014997,
+                        -2.121119
+                  ]
+            },
+            {
+                  "name": "Capilla Católica \"San Francisco\"",
+                  "text": "A small chapel dedicated to Saint Francis, providing a peaceful space for daily prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -80.016925,
+                        -2.126554
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A modest Kingdom Hall of Jehovah's Witnesses used for Bible education in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.005334,
+                        -2.128542
+                  ]
+            },
+            {
+                  "name": "Oratorio Católico Salesiano María Auxiliadora - Monte Sinaí",
+                  "text": "A Salesian oratory in Monte Sinaí that is particularly active in community youth work.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.00363,
+                        -2.127379
+                  ]
+            },
+            {
+                  "name": "Iglesia Padre Simon",
+                  "text": "A Christian church in Guayaquil named after Father Simon, providing social support to the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.004282,
+                        -2.116528
+                  ]
+            },
+            {
+                  "name": "TIA - Monte Sinai",
+                  "text": "A bustling local marketplace in Monte Sinaí offering fresh produce and daily essentials.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.996468,
+                        -2.12585
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-G",
     coords: [-80.001, -2.155],
@@ -842,7 +12299,1276 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "la-universal-suesswaren-economic-v2",
+    id: "la-universal-suesswaren-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Templo Guayaquil Ecuador Iglesia de Jesucristo De Los Santos De Los Últimos Días",
+                  "text": "Als 100. in Betrieb befindlicher Tempel der HLT-Kirche besticht dieses markante Gebäude durch einen einzigen Turm, der von einer Statue des Engels Moroni gekrönt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -79.905021,
+                        -2.156293
+                  ]
+            },
+            {
+                  "name": "Millennium Gallery",
+                  "text": "Die Millennium Gallery zeigt zeitgenössische Kunstausstellungen mit einem Schwerpunkt auf modernen ästhetischen Ausdrucksformen.",
+                  "category": "museum",
+                  "coords": [
+                        -79.897779,
+                        -2.163955
+                  ]
+            },
+            {
+                  "name": "Man-Ging Art Gallery",
+                  "text": "Diese Galerie zeigt kuratierte regionale Kunstsammlungen und Ausstellungen, die von den Kulturinitiativen der Familie Man-Ging gefördert werden.",
+                  "category": "museum",
+                  "coords": [
+                        -79.906734,
+                        -2.174904
+                  ]
+            },
+            {
+                  "name": "Galerias Contemporaneas",
+                  "text": "Dieser Veranstaltungsort für bildende Kunst konzentriert sich ganz auf avantgardistische und zeitgenössische Ausstellungen aufstrebender Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        -79.910735,
+                        -2.167246
+                  ]
+            },
+            {
+                  "name": "Galeria",
+                  "text": "Ein bescheidener Ausstellungsraum, der der Präsentation vielfältiger lokaler Kunstwerke und visueller Stücke gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -79.898409,
+                        -2.159658
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Dieses Denkmal ehrt Clemente Yerovi Indaburu, einen bemerkenswerten ehemaligen Übergangspräsidenten von Ecuador.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "Trilogía Animal | La Iguana",
+                  "text": "Als Teil einer skulpturalen Tiertrilogie stellt dieses Denkmal den ikonischen lokalen Grünen Leguan von Guayaquil in den Mittelpunkt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.913331,
+                        -2.172508
+                  ]
+            },
+            {
+                  "name": "El Papagayo de Guayaquil",
+                  "text": "Diese farbenfrohe öffentliche Skulptur stellt den Großen Soldatenara dar und dient als lebendiges Symbol der regionalen Artenvielfalt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.90851,
+                        -2.14022
+                  ]
+            },
+            {
+                  "name": "Escaleras",
+                  "text": "Diese monumentale öffentliche Treppe dient sowohl als funktionaler Weg zwischen den städtischen Ebenen als auch als Leinwand für lokales urbanes Design.",
+                  "category": "historical",
+                  "coords": [
+                        -79.90418,
+                        -2.175289
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "SARAO ist ein unabhängiger Kulturraum, der sich stark auf avantgardistische Theateraufführungen und zeitgenössische Tanzproduktionen konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177305
+                  ]
+            },
+            {
+                  "name": "CONSERVATORIO RIMSKY KORSAKOV",
+                  "text": "Dieses nach dem berühmten russischen Komponisten benannte Konservatorium ist ein erstklassiger Veranstaltungsort für klassische Musikausbildung und studentische Vorspiele.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.905409,
+                        -2.175949
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Als Teil der lebendigen Initiative Plaza Guayarte bietet dieses Kunstzentrum der Öffentlichkeit kostenlose urbane Kunst- und Kulturworkshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Teatro del Ángel",
+                  "text": "Das Teatro del Ángel ist ein intimer Veranstaltungsort für darstellende Künste, der häufig lokale Theaterstücke und Comedy-Acts beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.91134,
+                        -2.169206
+                  ]
+            },
+            {
+                  "name": "Club de Leones de la Alborada",
+                  "text": "Diese Einrichtung des Lions Clubs im Bezirk Alborada veranstaltet regelmäßig kulturelle Gemeindeereignisse und lokale Kunstprogramme.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.898732,
+                        -2.142957
+                  ]
+            },
+            {
+                  "name": "Edificio Las Cámaras",
+                  "text": "Dieses Gebäude, in dem hauptsächlich die lokalen Handelskammern untergebracht sind, verfügt über ein Auditorium, das häufig für Theater- und Unternehmenspräsentationen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.897065,
+                        -2.157991
+                  ]
+            },
+            {
+                  "name": "Congregación Siervas de María Ministras de los Enfermos",
+                  "text": "Dieses Ordenshaus gehört einer katholischen Nonnenkongregation, die sich speziell der Pflege und Betreuung von Kranken widmet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.901375,
+                        -2.173253
+                  ]
+            },
+            {
+                  "name": "Comunidad Judia",
+                  "text": "Dieses spirituelle Zentrum dient als zentrale Synagoge und wichtiger Treffpunkt für die lokale jüdische Bevölkerung.",
+                  "category": "religious",
+                  "coords": [
+                        -79.905417,
+                        -2.174757
+                  ]
+            },
+            {
+                  "name": "Rabi Montiel",
+                  "text": "Diese jüdische Kultstätte fungiert als spezielles Studienzentrum, das mit den Lehren von Rabbi Montiel verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        -79.899924,
+                        -2.144317
+                  ]
+            },
+            {
+                  "name": "Aurorasi SA",
+                  "text": "Obwohl diese Einrichtung einen Firmennamen trägt, bietet sie einen registrierten Raum für spirituelle Zusammenkünfte und Gemeindegottesdienste.",
+                  "category": "religious",
+                  "coords": [
+                        -79.890637,
+                        -2.155183
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Miraflores Ferroviaria",
+                  "text": "Dieser Königreichssaal versammelt die Versammlung der Zeugen Jehovas aus dem lokalen Sektor Miraflores Ferroviaria.",
+                  "category": "religious",
+                  "coords": [
+                        -79.917703,
+                        -2.167696
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mapasingue Este Noreste",
+                  "text": "Dieser designierte Königreichssaal dient den biblischen Studienbedürfnissen der Zeugen Jehovas im nordöstlichen Bereich von Mapasingue Este.",
+                  "category": "religious",
+                  "coords": [
+                        -79.917109,
+                        -2.153722
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Gabriel de La Dolorosa",
+                  "text": "Diese katholische Kirche ist dem italienischen Passionistenheiligen Gabriel von der Schmerzhaften Muttergottes gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.899708,
+                        -2.157626
+                  ]
+            },
+            {
+                  "name": "Despensa Dios es Bueno",
+                  "text": "Dieser kleine lokale Marktplatz und Lebensmittelladen drückt mit seinem „Gott ist gut“-Schild ein warmes religiöses Gefühl aus.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.898375,
+                        -2.173239
+                  ]
+            },
+            {
+                  "name": "Parroquia de la Anunciación de Santa María - Patriarcado de Serbia",
+                  "text": "Diese serbisch-orthodoxe Pfarrei feiert die Göttliche Liturgie zu Ehren der Verkündigung und steht unter dem Patriarchat von Serbien.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.912615,
+                        -2.164999
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de la U.E. Santo Domingo de Guzmán",
+                  "text": "Diese in die Bildungseinrichtung Santo Domingo de Guzmán integrierte Kapelle bietet katholische Seelsorge für Schüler und Lehrkräfte.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.907593,
+                        -2.167654
+                  ]
+            },
+            {
+                  "name": "Iglesia Galilea",
+                  "text": "Die Iglesia Galilea ist ein christliches Gotteshaus, das die lokale Gemeinde in der Gegend von La Universal Süßwaren willkommen heißt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.906962,
+                        -2.168811
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Guardiana de La Fe",
+                  "text": "Diese katholische Kirche ist der Maria als Hüterin des Glaubens gewidmet und dient den spirituellen Bedürfnissen der Gläubigen im Bezirk La Universal Süßwaren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.912702,
+                        -2.155523
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Isabel - Mall del Sol",
+                  "text": "Die Capilla Católica Santa Isabel ist eine katholische Kapelle, die sich praktischerweise im geschäftigen Einkaufszentrum Mall del Sol befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89402,
+                        -2.154892
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional Kayros",
+                  "text": "Das Ministerio Internacional Kayros ist ein christliches Gemeindezentrum, das im Viertel La Universal Süßwaren engagierte spirituelle Führung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.897129,
+                        -2.172337
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista Adelphos",
+                  "text": "Diese christliche Gemeinde fungiert als biblische Baptistenkirche und bringt der Gegend von La Universal Süßwaren die Lehren der Schrift näher.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909323,
+                        -2.170899
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio María Claret - La Redonda de Urdesa",
+                  "text": "Diese dem heiligen Antonius Maria Claret geweihte katholische Kirche ist berühmt für ihre markante runde Architektur im Viertel Urdesa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.906898,
+                        -2.173626
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional El Rey Jesus",
+                  "text": "Das Ministerio Internacional El Rey Jesus ist ein christliches Anbetungszentrum, das die lokalen Gläubigen zu lebendigen Gottesdiensten im Gebiet La Universal Süßwaren versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.91569,
+                        -2.17208
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Urdesa Kennedy Sur",
+                  "text": "Dieser Königreichssaal bietet einen Ort für christliche Gottesdienste und Schriftstudien für Jehovas Zeugen in der Gegend von Urdesa Kennedy Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909293,
+                        -2.169721
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua (Hermano Gregorio)",
+                  "text": "Diese katholische Kirche ist dem heiligen Antonius von Padua gewidmet und wird lokal mit der beliebten Verehrung von Hermano Gregorio in Verbindung gebracht.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.905641,
+                        -2.161371
+                  ]
+            },
+            {
+                  "name": "Salon del reino de los Testigos de Jehová",
+                  "text": "Diese christliche Einrichtung fungiert als Königreichssaal und veranstaltet wöchentliche Schriftversammlungen für Jehovas Zeugen im Bezirk La Universal Süßwaren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909248,
+                        -2.154621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Templo Guayaquil Ecuador Iglesia de Jesucristo De Los Santos De Los Últimos Días",
+                  "text": "Az LDS Egyház 100. működő templomaként szolgáló lenyűgöző épület egyetlen toronnyal rendelkezik, amelynek tetején Moróni angyal szobra áll.",
+                  "category": "religious",
+                  "coords": [
+                        -79.905021,
+                        -2.156293
+                  ]
+            },
+            {
+                  "name": "Millennium Gallery",
+                  "text": "A Millennium Gallery kortárs művészeti kiállításokat mutat be, a modern esztétikai kifejezésekre összpontosítva.",
+                  "category": "museum",
+                  "coords": [
+                        -79.897779,
+                        -2.163955
+                  ]
+            },
+            {
+                  "name": "Man-Ging Art Gallery",
+                  "text": "Ez a galéria kurátori regionális művészeti gyűjteményeket és a Man-Ging kulturális kezdeményezések által támogatott kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.906734,
+                        -2.174904
+                  ]
+            },
+            {
+                  "name": "Galerias Contemporaneas",
+                  "text": "Ez a vizuális művészeti helyszín teljes mértékben a feltörekvő művészek avantgárd és kortárs kiállításaira összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -79.910735,
+                        -2.167246
+                  ]
+            },
+            {
+                  "name": "Galeria",
+                  "text": "Szerény kiállítótér, amelyet különféle helyi alkotások és vizuális művek bemutatására szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -79.898409,
+                        -2.159658
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Ez az emlékmű Clemente Yerovi Indaburunak, Ecuador egyik jelentős korábbi ideiglenes elnökének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "Trilogía Animal | La Iguana",
+                  "text": "A szobrászati állattrilógia részeként ez az emlékmű Guayaquil ikonikus helyi zöld leguánját ábrázolja kiemelten.",
+                  "category": "historical",
+                  "coords": [
+                        -79.913331,
+                        -2.172508
+                  ]
+            },
+            {
+                  "name": "El Papagayo de Guayaquil",
+                  "text": "Ez a színes köztéri szobor a nagy zöld arát ábrázolja, és a régió biológiai sokféleségének élénk szimbólumaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -79.90851,
+                        -2.14022
+                  ]
+            },
+            {
+                  "name": "Escaleras",
+                  "text": "Ez a monumentális köztéri lépcső egyszerre szolgál funkcionális útvonalként a városi szintek között, és a helyi várostervezés vásznaként.",
+                  "category": "historical",
+                  "coords": [
+                        -79.90418,
+                        -2.175289
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "A SARAO egy független kulturális tér, amely erősen fókuszál az avantgárd színházi előadásokra és a kortárs táncprodukciókra.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177305
+                  ]
+            },
+            {
+                  "name": "CONSERVATORIO RIMSKY KORSAKOV",
+                  "text": "A híres orosz zeneszerzőről elnevezett konzervatórium a klasszikus zenei képzés és a hallgatói koncertek kiemelt helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.905409,
+                        -2.175949
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "A vibráló Plaza Guayarte kezdeményezés részeként ez a művészeti központ ingyenes városi művészeti és kulturális workshopokat kínál a közönségnek.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Teatro del Ángel",
+                  "text": "A Teatro del Ángel egy meghitt előadó-művészeti helyszín, amely gyakran ad otthont helyi drámai daraboknak és vígjátékoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.91134,
+                        -2.169206
+                  ]
+            },
+            {
+                  "name": "Club de Leones de la Alborada",
+                  "text": "Az Alborada negyedben található Lions Club létesítmény aktívan ad otthont kulturális közösségi eseményeknek és helyi művészeti programoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.898732,
+                        -2.142957
+                  ]
+            },
+            {
+                  "name": "Edificio Las Cámaras",
+                  "text": "Az elsősorban a helyi kereskedelmi kamaráknak otthont adó épület egy előadóteremmel is rendelkezik, amelyet gyakran használnak színházi és vállalati bemutatókra.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.897065,
+                        -2.157991
+                  ]
+            },
+            {
+                  "name": "Congregación Siervas de María Ministras de los Enfermos",
+                  "text": "Ez a rendház egy olyan katolikus apácakongregációhoz tartozik, amely kifejezetten a betegek ápolásának és gondozásának szentelte magát.",
+                  "category": "religious",
+                  "coords": [
+                        -79.901375,
+                        -2.173253
+                  ]
+            },
+            {
+                  "name": "Comunidad Judia",
+                  "text": "Ez a spirituális központ központi zsinagógaként és fontos találkozóhelyként szolgál a helyi zsidó lakosság számára.",
+                  "category": "religious",
+                  "coords": [
+                        -79.905417,
+                        -2.174757
+                  ]
+            },
+            {
+                  "name": "Rabi Montiel",
+                  "text": "Ez a zsidó istentiszteleti hely a Montiel rabbi tanításaihoz kapcsolódó, dedikált tanulmányi központként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -79.899924,
+                        -2.144317
+                  ]
+            },
+            {
+                  "name": "Aurorasi SA",
+                  "text": "Bár a létesítmény vállalati nevet visel, hivatalosan bejegyzett teret biztosít spirituális összejövetelek és közösségi istentiszteletek számára.",
+                  "category": "religious",
+                  "coords": [
+                        -79.890637,
+                        -2.155183
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Miraflores Ferroviaria",
+                  "text": "Ez a Királyság-terem a helyi Miraflores Ferroviaria szektor Jehova Tanúi gyülekezetét fogja össze.",
+                  "category": "religious",
+                  "coords": [
+                        -79.917703,
+                        -2.167696
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mapasingue Este Noreste",
+                  "text": "Ez a kijelölt Királyság-terem a Jehova Tanúi bibliai tanulmányozási igényeit szolgálja ki Mapasingue Este északkeleti részén.",
+                  "category": "religious",
+                  "coords": [
+                        -79.917109,
+                        -2.153722
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Gabriel de La Dolorosa",
+                  "text": "Ezt a katolikus templomot az olasz passzionista szentnek, a Fájdalmas Anyáról nevezett Gábornak szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -79.899708,
+                        -2.157626
+                  ]
+            },
+            {
+                  "name": "Despensa Dios es Bueno",
+                  "text": "Ez a kis helyi piac és élelmiszerbolt meleg vallási érzelmeket fejez ki „Isten jó” feliratával.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.898375,
+                        -2.173239
+                  ]
+            },
+            {
+                  "name": "Parroquia de la Anunciación de Santa María - Patriarcado de Serbia",
+                  "text": "Ez a szerb ortodox plébánia a Gyümölcsoltó Boldogasszony tiszteletére tartja az isteni liturgiát a Szerb Patriarchátus égisze alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.912615,
+                        -2.164999
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de la U.E. Santo Domingo de Guzmán",
+                  "text": "A Santo Domingo de Guzmán oktatási egységbe integrált kápolna katolikus lelkipásztori ellátást nyújt a diákok és a tantestület számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.907593,
+                        -2.167654
+                  ]
+            },
+            {
+                  "name": "Iglesia Galilea",
+                  "text": "Az Iglesia Galilea egy keresztény istentiszteleti hely, amely a La Universal Süßwaren környékének helyi közösségét fogadja.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.906962,
+                        -2.168811
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Guardiana de La Fe",
+                  "text": "A Hit Őrzője, Mária tiszteletére szentelt katolikus templom a La Universal Süßwaren negyed hívőinek spirituális igényeit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.912702,
+                        -2.155523
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Isabel - Mall del Sol",
+                  "text": "A Capilla Católica Santa Isabel egy katolikus kápolna, amely kényelmesen, a nyüzsgő Mall del Sol bevásárlóközpontban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89402,
+                        -2.154892
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional Kayros",
+                  "text": "A Ministerio Internacional Kayros egy keresztény szolgálati központ, amely elkötelezett spirituális útmutatást nyújt a La Universal Süßwaren negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.897129,
+                        -2.172337
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista Adelphos",
+                  "text": "Ez a keresztény gyülekezet bibliai baptista templomként működik, elhozva a Szentírás tanításait a La Universal Süßwaren területére.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909323,
+                        -2.170899
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio María Claret - La Redonda de Urdesa",
+                  "text": "A Páduai Szent Antal Mária Claret tiszteletére szentelt katolikus templom jellegzetes kerek építészetéről híres az Urdesa negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.906898,
+                        -2.173626
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional El Rey Jesus",
+                  "text": "A Ministerio Internacional El Rey Jesus egy keresztény istentiszteleti központ, amely a La Universal Süßwaren területén gyűjti össze a helyi híveket élénk istentiszteletekre.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.91569,
+                        -2.17208
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Urdesa Kennedy Sur",
+                  "text": "Ez a Királyság-terem keresztény istentiszteleti és szentírás-tanulmányozási helyet biztosít Jehova Tanúi számára az Urdesa Kennedy Sur térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909293,
+                        -2.169721
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua (Hermano Gregorio)",
+                  "text": "Ezt a katolikus templomot Páduai Szent Antalnak szentelték, és helyileg Hermano Gregorio népszerű tiszteletéhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.905641,
+                        -2.161371
+                  ]
+            },
+            {
+                  "name": "Salon del reino de los Testigos de Jehová",
+                  "text": "Királyság-teremként működve ez a keresztény létesítmény heti bibliai összejöveteleknek ad otthont Jehova Tanúi számára a La Universal Süßwaren negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909248,
+                        -2.154621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Templo Guayaquil Ecuador Iglesia de Jesucristo De Los Santos De Los Últimos Días",
+                  "text": "Servind ca al 100-lea templu operațional al Bisericii LDS, această clădire impresionantă are o singură turlă încununată cu o statuie a îngerului Moroni.",
+                  "category": "religious",
+                  "coords": [
+                        -79.905021,
+                        -2.156293
+                  ]
+            },
+            {
+                  "name": "Millennium Gallery",
+                  "text": "Millennium Gallery prezintă expoziții de artă contemporană cu accent pe expresiile estetice moderne.",
+                  "category": "museum",
+                  "coords": [
+                        -79.897779,
+                        -2.163955
+                  ]
+            },
+            {
+                  "name": "Man-Ging Art Gallery",
+                  "text": "Această galerie prezintă colecții de artă regională curatoriate și expoziții sponsorizate de inițiativele culturale Man-Ging.",
+                  "category": "museum",
+                  "coords": [
+                        -79.906734,
+                        -2.174904
+                  ]
+            },
+            {
+                  "name": "Galerias Contemporaneas",
+                  "text": "Această locație de arte vizuale se concentrează în întregime pe expoziții avangardiste și contemporane ale artiștilor emergenți.",
+                  "category": "museum",
+                  "coords": [
+                        -79.910735,
+                        -2.167246
+                  ]
+            },
+            {
+                  "name": "Galeria",
+                  "text": "Un spațiu expozițional modest, dedicat expunerii diverselor opere de artă și piese vizuale locale.",
+                  "category": "museum",
+                  "coords": [
+                        -79.898409,
+                        -2.159658
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Acest monument îl onorează pe Clemente Yerovi Indaburu, un fost președinte interimar remarcabil al Ecuadorului.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "Trilogía Animal | La Iguana",
+                  "text": "Parte a unei trilogii sculpturale de animale, acest monument înfățișează proeminent iconica iguană verde locală din Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.913331,
+                        -2.172508
+                  ]
+            },
+            {
+                  "name": "El Papagayo de Guayaquil",
+                  "text": "Această sculptură publică colorată reprezintă marele papagal macaw verde, servind ca un simbol vibrant al biodiversității regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -79.90851,
+                        -2.14022
+                  ]
+            },
+            {
+                  "name": "Escaleras",
+                  "text": "Această scară publică monumentală servește atât ca o cale funcțională între nivelurile urbane, cât și ca o pânză pentru designul urban local.",
+                  "category": "historical",
+                  "coords": [
+                        -79.90418,
+                        -2.175289
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "SARAO este un spațiu cultural independent, puternic axat pe spectacole de teatru avangardist și producții de dans contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177305
+                  ]
+            },
+            {
+                  "name": "CONSERVATORIO RIMSKY KORSAKOV",
+                  "text": "Numit după celebrul compozitor rus, acest conservator servește ca un loc de prim rang pentru pregătirea muzicală clasică și recitaluri studențești.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.905409,
+                        -2.175949
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Parte a vibrantei inițiative Plaza Guayarte, acest centru de artă oferă publicului ateliere gratuite de artă urbană și cultură.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Teatro del Ángel",
+                  "text": "Teatro del Ángel este o locație intimă de arte spectacolului care găzduiește frecvent piese de teatru dramatice locale și acte de comedie.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.91134,
+                        -2.169206
+                  ]
+            },
+            {
+                  "name": "Club de Leones de la Alborada",
+                  "text": "Situată în cartierul Alborada, această facilitate a Clubului Lions găzduiește activ evenimente comunitare culturale și programe de artă locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.898732,
+                        -2.142957
+                  ]
+            },
+            {
+                  "name": "Edificio Las Cámaras",
+                  "text": "Găzduind în principal camerele de comerț locale, această clădire dispune de un auditoriu folosit frecvent pentru prezentări teatrale și corporative.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.897065,
+                        -2.157991
+                  ]
+            },
+            {
+                  "name": "Congregación Siervas de María Ministras de los Enfermos",
+                  "text": "Această casă religioasă aparține unei congregații catolice de călugărițe care sunt dedicate în special îngrijirii și asistenței bolnavilor.",
+                  "category": "religious",
+                  "coords": [
+                        -79.901375,
+                        -2.173253
+                  ]
+            },
+            {
+                  "name": "Comunidad Judia",
+                  "text": "Acest centru spiritual servește drept sinagogă centrală și centru esențial de întâlnire pentru populația evreiască locală.",
+                  "category": "religious",
+                  "coords": [
+                        -79.905417,
+                        -2.174757
+                  ]
+            },
+            {
+                  "name": "Rabi Montiel",
+                  "text": "Acest lăcaș de cult evreiesc funcționează ca un centru de studiu dedicat, asociat cu învățăturile rabinului Montiel.",
+                  "category": "religious",
+                  "coords": [
+                        -79.899924,
+                        -2.144317
+                  ]
+            },
+            {
+                  "name": "Aurorasi SA",
+                  "text": "Deși poartă un nume corporativ, această facilitate oferă un spațiu înregistrat pentru adunări spirituale și cult comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        -79.890637,
+                        -2.155183
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Miraflores Ferroviaria",
+                  "text": "Această Sală a Regatului adună congregația Martorilor lui Iehova din sectorul local Miraflores Ferroviaria.",
+                  "category": "religious",
+                  "coords": [
+                        -79.917703,
+                        -2.167696
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mapasingue Este Noreste",
+                  "text": "Această Sală a Regatului desemnată deservește nevoile de studiu biblic ale Martorilor lui Iehova din zona de nord-est a Mapasingue Este.",
+                  "category": "religious",
+                  "coords": [
+                        -79.917109,
+                        -2.153722
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Gabriel de La Dolorosa",
+                  "text": "Această biserică catolică este închinată sfântului pasionist italian, Gabriel al Maicii Domnului a Durerilor.",
+                  "category": "religious",
+                  "coords": [
+                        -79.899708,
+                        -2.157626
+                  ]
+            },
+            {
+                  "name": "Despensa Dios es Bueno",
+                  "text": "Această mică piață și cămară locală exprimă un sentiment religios cald cu inscripția sa „Dumnezeu este Bun”.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.898375,
+                        -2.173239
+                  ]
+            },
+            {
+                  "name": "Parroquia de la Anunciación de Santa María - Patriarcado de Serbia",
+                  "text": "Această parohie ortodoxă sârbă oficiază Sfânta Liturghie în cinstea Bunei Vestiri, funcționând sub Patriarhia Serbiei.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.912615,
+                        -2.164999
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de la U.E. Santo Domingo de Guzmán",
+                  "text": "Integrată în unitatea de învățământ Santo Domingo de Guzmán, această capelă oferă asistență pastorală catolică pentru studenți și profesori.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.907593,
+                        -2.167654
+                  ]
+            },
+            {
+                  "name": "Iglesia Galilea",
+                  "text": "Iglesia Galilea este un lăcaș de cult creștin care primește comunitatea locală din zona La Universal Süßwaren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.906962,
+                        -2.168811
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Guardiana de La Fe",
+                  "text": "Dedicată Mariei Păstrătoarea Credinței, această biserică catolică servește nevoilor spirituale ale credincioșilor din cartierul La Universal Süßwaren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.912702,
+                        -2.155523
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Isabel - Mall del Sol",
+                  "text": "Capilla Católica Santa Isabel este o capelă catolică situată convenabil în interiorul aglomeratului centru comercial Mall del Sol.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89402,
+                        -2.154892
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional Kayros",
+                  "text": "Ministerio Internacional Kayros este un centru de slujire creștină care oferă îndrumare spirituală dedicată în cartierul La Universal Süßwaren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.897129,
+                        -2.172337
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista Adelphos",
+                  "text": "Această congregație creștină funcționează ca o biserică baptistă biblică, aducând învățăturile scripturii în zona La Universal Süßwaren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909323,
+                        -2.170899
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio María Claret - La Redonda de Urdesa",
+                  "text": "Dedicată Sfântului Anton Maria Claret, această biserică catolică este faimoasă pentru arhitectura sa circulară distinctivă din cartierul Urdesa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.906898,
+                        -2.173626
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional El Rey Jesus",
+                  "text": "Ministerio Internacional El Rey Jesus este un centru de cult creștin care adună credincioșii locali pentru slujbe vibrante în zona La Universal Süßwaren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.91569,
+                        -2.17208
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Urdesa Kennedy Sur",
+                  "text": "Această Sală a Regatului oferă un loc de cult creștin și de studiu al scripturilor pentru Martorii lui Iehova din zona Urdesa Kennedy Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909293,
+                        -2.169721
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua (Hermano Gregorio)",
+                  "text": "Această biserică catolică este dedicată Sfântului Anton de Padova și este asociată pe plan local cu populara devoțiune față de Hermano Gregorio.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.905641,
+                        -2.161371
+                  ]
+            },
+            {
+                  "name": "Salon del reino de los Testigos de Jehová",
+                  "text": "Funcționând ca o Sală a Regatului, această unitate creștină găzduiește întâlniri biblice săptămânale pentru Martorii lui Iehova din cartierul La Universal Süßwaren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909248,
+                        -2.154621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guayaquil Ecuador Temple",
+                  "text": "Serving as the 100th operating temple of the LDS Church, this striking building features a single spire topped with a statue of the angel Moroni.",
+                  "category": "religious",
+                  "coords": [
+                        -79.905021,
+                        -2.156293
+                  ]
+            },
+            {
+                  "name": "Millennium Gallery",
+                  "text": "The Millennium Gallery showcases contemporary art exhibits with a focus on modern aesthetic expressions.",
+                  "category": "museum",
+                  "coords": [
+                        -79.897779,
+                        -2.163955
+                  ]
+            },
+            {
+                  "name": "Man-Ging Art Gallery",
+                  "text": "This gallery features curated regional art collections and exhibitions sponsored by the Man-Ging cultural initiatives.",
+                  "category": "museum",
+                  "coords": [
+                        -79.906734,
+                        -2.174904
+                  ]
+            },
+            {
+                  "name": "Galerias Contemporaneas",
+                  "text": "This visual arts venue focuses entirely on avant-garde and contemporary exhibitions from emerging artists.",
+                  "category": "museum",
+                  "coords": [
+                        -79.910735,
+                        -2.167246
+                  ]
+            },
+            {
+                  "name": "Galeria",
+                  "text": "A modest exhibition space dedicated to displaying diverse local artworks and visual pieces.",
+                  "category": "museum",
+                  "coords": [
+                        -79.898409,
+                        -2.159658
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "This monument honors Clemente Yerovi Indaburu, a notable former interim president of Ecuador.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "Trilogía Animal | La Iguana",
+                  "text": "Part of a sculptural animal trilogy, this monument prominently depicts the iconic local green iguana of Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.913331,
+                        -2.172508
+                  ]
+            },
+            {
+                  "name": "El Papagayo de Guayaquil",
+                  "text": "This colorful public sculpture represents the great green macaw, serving as a vibrant symbol of the region's biodiversity.",
+                  "category": "historical",
+                  "coords": [
+                        -79.90851,
+                        -2.14022
+                  ]
+            },
+            {
+                  "name": "Escaleras",
+                  "text": "This monumental public stairway serves both as a functional path between urban levels and a canvas for local urban design.",
+                  "category": "historical",
+                  "coords": [
+                        -79.90418,
+                        -2.175289
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "SARAO is an independent cultural space heavily focused on avant-garde theatrical performances and contemporary dance productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177305
+                  ]
+            },
+            {
+                  "name": "CONSERVATORIO RIMSKY KORSAKOV",
+                  "text": "Named after the famous Russian composer, this conservatory serves as a premier venue for classical music training and student recitals.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.905409,
+                        -2.175949
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Part of the vibrant Plaza Guayarte initiative, this arts center provides the public with free urban art and cultural workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Teatro del Ángel",
+                  "text": "Teatro del Ángel is an intimate performing arts venue that frequently hosts local dramatic plays and comedic acts.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.91134,
+                        -2.169206
+                  ]
+            },
+            {
+                  "name": "Club de Leones de la Alborada",
+                  "text": "Situated in the Alborada district, this Lions Club facility actively hosts cultural community events and local arts programs.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.898732,
+                        -2.142957
+                  ]
+            },
+            {
+                  "name": "Edificio Las Cámaras",
+                  "text": "Primarily housing the local chambers of commerce, this building features an auditorium frequently used for theatrical and corporate presentations.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.897065,
+                        -2.157991
+                  ]
+            },
+            {
+                  "name": "Congregación Siervas de María Ministras de los Enfermos",
+                  "text": "This religious house belongs to a Catholic congregation of nuns who are specially dedicated to nursing and caring for the sick.",
+                  "category": "religious",
+                  "coords": [
+                        -79.901375,
+                        -2.173253
+                  ]
+            },
+            {
+                  "name": "Comunidad Judia",
+                  "text": "This spiritual center serves as a central synagogue and essential meeting hub for the local Jewish population.",
+                  "category": "religious",
+                  "coords": [
+                        -79.905417,
+                        -2.174757
+                  ]
+            },
+            {
+                  "name": "Rabi Montiel",
+                  "text": "This Jewish place of worship functions as a dedicated study center associated with the teachings of Rabbi Montiel.",
+                  "category": "religious",
+                  "coords": [
+                        -79.899924,
+                        -2.144317
+                  ]
+            },
+            {
+                  "name": "Aurorasi SA",
+                  "text": "Although bearing a corporate name, this facility provides a registered space for spiritual gatherings and community worship.",
+                  "category": "religious",
+                  "coords": [
+                        -79.890637,
+                        -2.155183
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Miraflores Ferroviaria",
+                  "text": "This Kingdom Hall gathers the Jehovah's Witnesses congregation from the local Miraflores Ferroviaria sector.",
+                  "category": "religious",
+                  "coords": [
+                        -79.917703,
+                        -2.167696
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mapasingue Este Noreste",
+                  "text": "This designated Kingdom Hall serves the biblical study needs of Jehovah's Witnesses in the northeast area of Mapasingue Este.",
+                  "category": "religious",
+                  "coords": [
+                        -79.917109,
+                        -2.153722
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Gabriel de La Dolorosa",
+                  "text": "This Catholic church is devoted to the Italian Passionist saint, Gabriel of Our Lady of Sorrows.",
+                  "category": "religious",
+                  "coords": [
+                        -79.899708,
+                        -2.157626
+                  ]
+            },
+            {
+                  "name": "Despensa Dios es Bueno",
+                  "text": "This small local marketplace and pantry expresses a warm religious sentiment with its \"God is Good\" signage.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.898375,
+                        -2.173239
+                  ]
+            },
+            {
+                  "name": "Parroquia de la Anunciación de Santa María - Patriarcado de Serbia",
+                  "text": "This Serbian Orthodox parish observes the Divine Liturgy in honor of the Annunciation, operating under the Patriarchate of Serbia.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.912615,
+                        -2.164999
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de la U.E. Santo Domingo de Guzmán",
+                  "text": "Integrated into the Santo Domingo de Guzmán educational unit, this chapel provides Catholic pastoral care for students and faculty.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.907593,
+                        -2.167654
+                  ]
+            },
+            {
+                  "name": "Iglesia Galilea",
+                  "text": "The Iglesia Galilea is a Christian place of worship welcoming the local community in the La Universal Süßwaren area.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.906962,
+                        -2.168811
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica María Guardiana de La Fe",
+                  "text": "Dedicated to Mary Guardian of Faith, this Catholic church serves the spiritual needs of believers in the La Universal Süßwaren district.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.912702,
+                        -2.155523
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Isabel - Mall del Sol",
+                  "text": "The Capilla Católica Santa Isabel is a Catholic chapel conveniently located within the bustling Mall del Sol shopping center.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89402,
+                        -2.154892
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional Kayros",
+                  "text": "Ministerio Internacional Kayros is a Christian ministry center offering dedicated spiritual guidance in the La Universal Süßwaren neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.897129,
+                        -2.172337
+                  ]
+            },
+            {
+                  "name": "Iglesia Bíblica Bautista Adelphos",
+                  "text": "This Christian congregation operates as a Biblical Baptist church, bringing scripture teachings to the La Universal Süßwaren area.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909323,
+                        -2.170899
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio María Claret - La Redonda de Urdesa",
+                  "text": "Dedicated to St. Anthony Mary Claret, this Catholic church is famous for its distinctive circular architecture in the Urdesa neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.906898,
+                        -2.173626
+                  ]
+            },
+            {
+                  "name": "Ministerio Internacional El Rey Jesus",
+                  "text": "The Ministerio Internacional El Rey Jesus is a Christian worship center gathering the local faithful for vibrant services in the La Universal Süßwaren area.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.91569,
+                        -2.17208
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Urdesa Kennedy Sur",
+                  "text": "This Kingdom Hall provides a place of Christian worship and scripture study for Jehovah's Witnesses in the Urdesa Kennedy Sur area.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909293,
+                        -2.169721
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua (Hermano Gregorio)",
+                  "text": "This Catholic church is dedicated to St. Anthony of Padua and is locally associated with the popular devotion to Hermano Gregorio.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.905641,
+                        -2.161371
+                  ]
+            },
+            {
+                  "name": "Salon del reino de los Testigos de Jehová",
+                  "text": "Operating as a Kingdom Hall, this Christian facility hosts weekly scripture meetings for Jehovah's Witnesses in the La Universal Süßwaren district.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.909248,
+                        -2.154621
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-G",
     coords: [-79.911, -2.167],
@@ -890,7 +13616,412 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "puerto-posorja-dp-world-economic-v2",
+    id: "puerto-posorja-dp-world-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Varadero",
+                  "text": "Playa Varadero ist ein attraktives Strandziel an der Küste, das malerische Ausblicke entlang der Ufer von Puerto Posorja bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.299276,
+                        -2.721837
+                  ]
+            },
+            {
+                  "name": "Comuna El Delfín",
+                  "text": "Die Gemeinde El Delfín ist ein markanter Aussichtspunkt, der weitreichende Küstenpanoramen nahe Puerto Posorja bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -80.294755,
+                        -2.719182
+                  ]
+            },
+            {
+                  "name": "avistamoento dedelfines",
+                  "text": "Diese Attraktion zur Delfinbeobachtung bietet Besuchern die Möglichkeit, das Meeresleben in den Küstengewässern vor Puerto Posorja zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.24034,
+                        -2.705863
+                  ]
+            },
+            {
+                  "name": "FAROLLONES DE POSORJA",
+                  "text": "Die Farallones de Posorja sind markante Felsformationen an der Küste, die als malerischer Aussichtspunkt über die pazifischen Gewässer dienen.",
+                  "category": "natural",
+                  "coords": [
+                        -80.223281,
+                        -2.731967
+                  ]
+            },
+            {
+                  "name": "Parque Acuático de Posorja",
+                  "text": "Der Wasserpark von Posorja ist ein Freizeitkomplex mit Schwimmbecken und Wasserattraktionen für Familien, die das Hafengebiet besuchen.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.243433,
+                        -2.712342
+                  ]
+            },
+            {
+                  "name": "Playa La Posa",
+                  "text": "Playa La Posa ist ein Sandstrand, an dem Besucher an der Uferpromenade von Puerto Posorja entspannen können.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.242399,
+                        -2.708795
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San José | Data de Posorja",
+                  "text": "Die katholische Kapelle San José ist ein lokales christliches Gotteshaus, das der Gemeinde in Data de Posorja dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.303723,
+                        -2.719989
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "Dieser Königreichssaal der Zeugen Jehovas ist ein spezieller Raum für Zusammenkünfte der christlichen Gemeinde in Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.246046,
+                        -2.712135
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís | Posorja",
+                  "text": "Die katholische Kirche des Heiligen Franz von Assisi ist eine zentrale christliche religiöse Stätte im Herzen von Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.242802,
+                        -2.71024
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal - Articulos Varios - Posorja",
+                  "text": "Dieser städtische Markt in Puerto Posorja bietet verschiedene Stände, an denen ein vielfältiges Sortiment an lokalen Waren und Alltagsartikeln verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.244756,
+                        -2.712277
+                  ]
+            },
+            {
+                  "name": "Mercardo Municipal de Mariscos - Posorja",
+                  "text": "Der städtische Fischmarkt in Posorja ist ein geschäftiger Knotenpunkt, an dem einheimische Fischer ihren täglich frischen Meeresfang verkaufen.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.244362,
+                        -2.714315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Varadero",
+                  "text": "A Playa Varadero egy vonzó tengerparti úti cél, amely festői kilátást nyújt Puerto Posorja partjai mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.299276,
+                        -2.721837
+                  ]
+            },
+            {
+                  "name": "Comuna El Delfín",
+                  "text": "Az El Delfín közösség egy kiemelkedő kilátóhely, ahonnan kiterjedt tengerparti panoráma nyílik Puerto Posorja közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -80.294755,
+                        -2.719182
+                  ]
+            },
+            {
+                  "name": "avistamoento dedelfines",
+                  "text": "Ez a delfinleső látványosság lehetőséget nyújt a látogatóknak, hogy megfigyeljék a tengeri élőlényeket Puerto Posorja part menti vizeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.24034,
+                        -2.705863
+                  ]
+            },
+            {
+                  "name": "FAROLLONES DE POSORJA",
+                  "text": "A Farallones de Posorja lenyűgöző tengerparti sziklaalakzatok, amelyek festői kilátást nyújtanak a csendes-óceáni vizekre.",
+                  "category": "natural",
+                  "coords": [
+                        -80.223281,
+                        -2.731967
+                  ]
+            },
+            {
+                  "name": "Parque Acuático de Posorja",
+                  "text": "A Posorja Vízipark egy szórakoztató komplexum, amely medencékkel és vízi attrakciókkal várja a kikötői területre látogató családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.243433,
+                        -2.712342
+                  ]
+            },
+            {
+                  "name": "Playa La Posa",
+                  "text": "A Playa La Posa egy homokos tengerparti látványosság, ahol a látogatók pihenhetnek a vízparton Puerto Posorjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.242399,
+                        -2.708795
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San José | Data de Posorja",
+                  "text": "A San José katolikus kápolna a Data de Posorja-i közösséget szolgáló helyi keresztény imaház.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.303723,
+                        -2.719989
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "Ez a Jehova Tanúi Királyság-terem a keresztény gyülekezet összejöveteleinek dedikált tere Puerto Posorjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.246046,
+                        -2.712135
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís | Posorja",
+                  "text": "Az Assisi Szent Ferenc katolikus templom központi keresztény vallási emlékhely Puerto Posorja szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.242802,
+                        -2.71024
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal - Articulos Varios - Posorja",
+                  "text": "Ebben a Puerto Posorja-i városi piacon különféle standok találhatók, amelyek sokféle helyi terméket és mindennapi cikkeket árusítanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.244756,
+                        -2.712277
+                  ]
+            },
+            {
+                  "name": "Mercardo Municipal de Mariscos - Posorja",
+                  "text": "A posorjai városi tenger gyümölcsei piac egy nyüzsgő központ, ahol a helyi halászok árulják a napi friss tengeri fogásukat.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.244362,
+                        -2.714315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Varadero",
+                  "text": "Playa Varadero este o destinație de plajă atractivă, oferind priveliști pitorești de-a lungul coastelor din Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.299276,
+                        -2.721837
+                  ]
+            },
+            {
+                  "name": "Comuna El Delfín",
+                  "text": "Comuna El Delfín este un punct de belvedere remarcabil, care oferă panorame de coastă vaste lângă Puerto Posorja.",
+                  "category": "natural",
+                  "coords": [
+                        -80.294755,
+                        -2.719182
+                  ]
+            },
+            {
+                  "name": "avistamoento dedelfines",
+                  "text": "Această atracție pentru observarea delfinilor oferă vizitatorilor șansa de a vedea viața marină în apele de coastă din Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.24034,
+                        -2.705863
+                  ]
+            },
+            {
+                  "name": "FAROLLONES DE POSORJA",
+                  "text": "Farallones de Posorja sunt formațiuni stâncoase de coastă impresionante, care servesc drept punct de belvedere pitoresc asupra apelor din Pacific.",
+                  "category": "natural",
+                  "coords": [
+                        -80.223281,
+                        -2.731967
+                  ]
+            },
+            {
+                  "name": "Parque Acuático de Posorja",
+                  "text": "Parcul acvatic din Posorja este un complex de agrement cu piscine și atracții acvatice pentru familiile care vizitează zona portuară.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.243433,
+                        -2.712342
+                  ]
+            },
+            {
+                  "name": "Playa La Posa",
+                  "text": "Playa La Posa este o atracție de coastă cu nisip, unde vizitatorii se pot relaxa pe malul apei în Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.242399,
+                        -2.708795
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San José | Data de Posorja",
+                  "text": "Capela catolică San José este un lăcaș de cult creștin local care deservește comunitatea din Data de Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.303723,
+                        -2.719989
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "Această Sală a Regatului a Martorilor lui Iehova este un spațiu dedicat întrunirilor congregației creștine din Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.246046,
+                        -2.712135
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís | Posorja",
+                  "text": "Biserica catolică Sfântul Francisc de Assisi este un sit religios creștin central în inima orașului Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.242802,
+                        -2.71024
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal - Articulos Varios - Posorja",
+                  "text": "Această piață municipală din Puerto Posorja găzduiește diverse tarabe care vând o gamă variată de produse locale și articole de uz zilnic.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.244756,
+                        -2.712277
+                  ]
+            },
+            {
+                  "name": "Mercardo Municipal de Mariscos - Posorja",
+                  "text": "Piața municipală de fructe de mare din Posorja este un centru plin de viață unde pescarii locali își vând capturile marine proaspete în fiecare zi.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.244362,
+                        -2.714315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Varadero",
+                  "text": "Playa Varadero is an attractive coastal beach destination offering scenic views along the shores of Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.299276,
+                        -2.721837
+                  ]
+            },
+            {
+                  "name": "Comuna El Delfín",
+                  "text": "The El Delfín commune is a prominent viewpoint location offering sweeping coastal panoramas near Puerto Posorja.",
+                  "category": "natural",
+                  "coords": [
+                        -80.294755,
+                        -2.719182
+                  ]
+            },
+            {
+                  "name": "avistamoento dedelfines",
+                  "text": "This dolphin watching attraction provides visitors the chance to observe marine life in the coastal waters off Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.24034,
+                        -2.705863
+                  ]
+            },
+            {
+                  "name": "FAROLLONES DE POSORJA",
+                  "text": "The Farallones de Posorja are striking coastal rock formations that serve as a scenic viewpoint over the Pacific waters.",
+                  "category": "natural",
+                  "coords": [
+                        -80.223281,
+                        -2.731967
+                  ]
+            },
+            {
+                  "name": "Parque Acuático de Posorja",
+                  "text": "The Posorja Water Park is a recreational complex featuring pools and water attractions for families visiting the port area.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.243433,
+                        -2.712342
+                  ]
+            },
+            {
+                  "name": "Playa La Posa",
+                  "text": "Playa La Posa is a sandy coastal attraction where visitors can relax by the waterfront in Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.242399,
+                        -2.708795
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San José | Data de Posorja",
+                  "text": "The San José Catholic Chapel is a local Christian house of worship serving the community in Data de Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.303723,
+                        -2.719989
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehova",
+                  "text": "This Jehovah's Witnesses Kingdom Hall is a dedicated space for Christian congregation meetings in Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.246046,
+                        -2.712135
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Francisco de Asís | Posorja",
+                  "text": "The Catholic Church of St. Francis of Assisi is a central Christian religious site in the heart of Puerto Posorja.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.242802,
+                        -2.71024
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal - Articulos Varios - Posorja",
+                  "text": "This municipal marketplace in Puerto Posorja features various stalls selling a diverse range of local goods and everyday articles.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.244756,
+                        -2.712277
+                  ]
+            },
+            {
+                  "name": "Mercardo Municipal de Mariscos - Posorja",
+                  "text": "The municipal seafood market in Posorja is a bustling hub where local fishermen sell their daily fresh marine catches.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.244362,
+                        -2.714315
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EC-G",
     coords: [-80.245, -2.716],
@@ -938,7 +14069,1204 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "pilsener-brauerei-guayaquil-economic-v2",
+    id: "pilsener-brauerei-guayaquil-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein prominenter Königreichssaal, in dem sich Zeugen Jehovas versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        -79.922023,
+                        -2.085511
+                  ]
+            },
+            {
+                  "name": "Tumbas Fidela y Digna",
+                  "text": "Die für Fidela und Digna errichteten Gedenkgräber.",
+                  "category": "historical",
+                  "coords": [
+                        -79.924748,
+                        -2.132301
+                  ]
+            },
+            {
+                  "name": "Tumba de Alberto R",
+                  "text": "Das spezifische Gedenkgrab markiert die Ruhestätte von Alberto R.",
+                  "category": "historical",
+                  "coords": [
+                        -79.922899,
+                        -2.13277
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "Ein großes, freistehendes steinernes Obelisken-Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.96496,
+                        -2.148168
+                  ]
+            },
+            {
+                  "name": "Monumento \"El Ancla\"",
+                  "text": "Ein öffentliches Denkmal, das auffällig die Form eines Ankers aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        -79.962556,
+                        -2.147067
+                  ]
+            },
+            {
+                  "name": "Teatro Centro de Arte",
+                  "text": "Dieses bekannte Theater in Guayaquil dient als wichtiger kultureller Veranstaltungsort für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.926244,
+                        -2.161034
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Santa María Madre de Guayaquil",
+                  "text": "Ein großes katholisches Heiligtum in Guayaquil, das der Heiligen Maria gewidmet ist und einen ruhigen Raum für die Marienverehrung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.920201,
+                        -2.095507
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová - La Florida",
+                  "text": "Dieser Königreichssaal im Viertel La Florida in Guayaquil dient der lokalen Gemeinschaft der Zeugen Jehovas.",
+                  "category": "religious",
+                  "coords": [
+                        -79.94024,
+                        -2.127331
+                  ]
+            },
+            {
+                  "name": "Iglesia Dios a Tu Encuentro",
+                  "text": "Ein evangelisches Gotteshaus in Guayaquil, in dem sich die Gemeinde zu gemeinsamen Gebetsbegegnungen versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -79.93852,
+                        -2.123796
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Sagrado Corazón de Jesús",
+                  "text": "Diese katholische Nachbarschaftskapelle in Guayaquil ist speziell dem Heiligsten Herzen Jesu gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.951749,
+                        -2.105142
+                  ]
+            },
+            {
+                  "name": "iglesia bautista luz del guayas",
+                  "text": "Diese als „Licht von Guayas“ bekannte lokale Baptistenkirche dient den gläubigen Christen in Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.932754,
+                        -2.11334
+                  ]
+            },
+            {
+                  "name": "Casa de oracion y restauracion.. LA FUERZA DE JEHOVA",
+                  "text": "Ein eigenes Haus des Gebets und der Wiederherstellung in Guayaquil, das die Stärke Jehovas in seinem Dienst betont.",
+                  "category": "religious",
+                  "coords": [
+                        -79.933762,
+                        -2.099524
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "Ein Zentrum der Heilsarmee in Guayaquil, das protestantischen Gottesdienst mit aktiver wohltätiger Gemeindearbeit verbindet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.921559,
+                        -2.099197
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de las Nieves",
+                  "text": "Eine katholische Kapelle in Guayaquil, die Unserer Lieben Frau vom Schnee geweiht ist und ein bescheidenes Heiligtum für lokale Messen bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.965248,
+                        -2.115533
+                  ]
+            },
+            {
+                  "name": "Capilla Católica  - Virgen del Carmen",
+                  "text": "Diese kleine katholische Kapelle ist der Jungfrau vom Berg Karmel gewidmet und dient den religiösen Bedürfnissen der Einwohner von Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.955988,
+                        -2.120421
+                  ]
+            },
+            {
+                  "name": "Capilla María de Nazaret",
+                  "text": "Diese nach Maria von Nazareth benannte bescheidene katholische Kapelle bietet einen ruhigen Ort zum Beten in Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.947939,
+                        -2.120526
+                  ]
+            },
+            {
+                  "name": "Capilla Santisima Virgen del Cisne",
+                  "text": "Diese katholische Kapelle in Guayaquil ist der weithin verehrten Heiligsten Jungfrau von El Cisne gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.921042,
+                        -2.151244
+                  ]
+            },
+            {
+                  "name": "Capilla Cátolica",
+                  "text": "Ein lokales katholisches Kapellengebäude in Guayaquil, das einen traditionellen Rahmen für Gottesdienste in der Nachbarschaft bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.930456,
+                        -2.146808
+                  ]
+            },
+            {
+                  "name": "Centro de Adoración Familiar",
+                  "text": "Ein familienorientiertes evangelisches Gottesdienstzentrum, in dem sich die lokale christliche Gemeinde in Guayaquil zur gemeinsamen Anbetung versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -79.936649,
+                        -2.142062
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Eine evangelikale Kircheneinrichtung in Guayaquil, die einen aktiven Raum für das Lesen von Schriften und den Gemeindegottesdienst bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.93927,
+                        -2.133874
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Vicente Ferrer",
+                  "text": "Diese dem dominikanischen Ordensbruder San Vicente Ferrer geweihte katholische Kapelle dient einer lokalen Gemeinde in Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.944397,
+                        -2.138691
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Marcos Evangelista | Guayaquil",
+                  "text": "Eine bedeutende katholische Kirche in Guayaquil, die den Evangelisten Markus mit regelmäßigen Gemeindemessen ehrt.",
+                  "category": "religious",
+                  "coords": [
+                        -79.939748,
+                        -2.15433
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de Lafe",
+                  "text": "Die Lafe-Baptistenkirche in Guayaquil bietet einen gemeinschaftlichen Versammlungsraum für lokale baptistische Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        -79.935179,
+                        -2.166662
+                  ]
+            },
+            {
+                  "name": "Casa de Oracion Dios de Factos",
+                  "text": "Dieses lokale Gebetshaus in Guayaquil dient seiner frommen Gemeinde als intimer Ort der Anbetung.",
+                  "category": "religious",
+                  "coords": [
+                        -79.936415,
+                        -2.157319
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Noroeste Suroeste",
+                  "text": "Ein Königreichssaal in Guayaquil, der Jehovas Zeugen aus den nordwestlichen und südwestlichen Sektoren der Stadt versammelt.",
+                  "category": "religious",
+                  "coords": [
+                        -79.935866,
+                        -2.155768
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Ein Kirchengebäude in der Nachbarschaft in Guayaquil, das einen einfachen Saal für den Gottesdienst der Gemeinde bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.927204,
+                        -2.155816
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mapasingue Central Sur Este",
+                  "text": "Dieser spezielle Königreichssaal befindet sich im Mapasingue-Gebiet von Guayaquil und koordiniert die Aktivitäten der Gemeinden im Zentrum, Süden und Osten.",
+                  "category": "religious",
+                  "coords": [
+                        -79.925348,
+                        -2.155197
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Apostolica",
+                  "text": "Eine apostolisch-evangelikale Kirchengemeinde in Guayaquil, deren Schwerpunkt auf der Evangelisation der Gemeinde und modernen apostolischen Lehren liegt.",
+                  "category": "religious",
+                  "coords": [
+                        -79.922582,
+                        -2.155452
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica - Beato Álvaro del Portillo",
+                  "text": "Eine nach dem seligen Álvaro del Portillo benannte katholische Kirche in Guayaquil, die einen feierlichen Raum für die Eucharistie bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.966208,
+                        -2.135545
+                  ]
+            },
+            {
+                  "name": "Tres Hermanos",
+                  "text": "Der Marktplatz „Tres Hermanos“ in Guayaquil ist ein lebhaftes Handelszentrum, in dem Verkäufer frische regionale Produkte anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.951761,
+                        -2.113475
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Casuarina",
+                  "text": "Der Mercado Municipal Casuarina ist ein geschäftiger städtischer Markt, der den alltäglichen Einkäufern im Bezirk Casuarina in Guayaquil dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.956744,
+                        -2.118257
+                  ]
+            },
+            {
+                  "name": "Torre de avistamiento",
+                  "text": "Dieser ausgewiesene Aussichtsturm bietet erhöhte Aussichtspunkte zur Vogelbeobachtung und zum Genießen des Panoramablicks über Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.914464,
+                        -2.107865
+                  ]
+            },
+            {
+                  "name": "Parque del Bloque 3",
+                  "text": "Der Parque del Bloque 3 ist eine städtische Erholungsgrünfläche, die Wege und Spielbereiche in Guayaquil bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.925143,
+                        -2.093933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Egy kiemelkedő Királyság-terem, ahol Jehova Tanúi gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        -79.922023,
+                        -2.085511
+                  ]
+            },
+            {
+                  "name": "Tumbas Fidela y Digna",
+                  "text": "Fidela és Digna számára épített emléksírok.",
+                  "category": "historical",
+                  "coords": [
+                        -79.924748,
+                        -2.132301
+                  ]
+            },
+            {
+                  "name": "Tumba de Alberto R",
+                  "text": "Az Alberto R nyughelyét jelző különleges emléksír.",
+                  "category": "historical",
+                  "coords": [
+                        -79.922899,
+                        -2.13277
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "Egy magas, szabadon álló kőobeliszk emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -79.96496,
+                        -2.148168
+                  ]
+            },
+            {
+                  "name": "Monumento \"El Ancla\"",
+                  "text": "Egy horgony alakját feltűnően megjelenítő köztéri emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -79.962556,
+                        -2.147067
+                  ]
+            },
+            {
+                  "name": "Teatro Centro de Arte",
+                  "text": "Ez a kiemelkedő guayaquili színház az előadó-művészetek fontos kulturális helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.926244,
+                        -2.161034
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Santa María Madre de Guayaquil",
+                  "text": "Ez a Szent Máriának szentelt nagyszerű katolikus szentély Guayaquilban nyugodt teret biztosít a Mária-tiszteletnek.",
+                  "category": "religious",
+                  "coords": [
+                        -79.920201,
+                        -2.095507
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová - La Florida",
+                  "text": "A guayaquili La Florida negyedben található Királyság-terem a helyi Jehova Tanúi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -79.94024,
+                        -2.127331
+                  ]
+            },
+            {
+                  "name": "Iglesia Dios a Tu Encuentro",
+                  "text": "Egy evangéliumi imaház Guayaquilban, ahol a gyülekezet tagjai közösségi imára gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        -79.93852,
+                        -2.123796
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Sagrado Corazón de Jesús",
+                  "text": "Ez a guayaquili katolikus szomszédsági kápolna kifejezetten a Jézus Szíve tiszteletének van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -79.951749,
+                        -2.105142
+                  ]
+            },
+            {
+                  "name": "iglesia bautista luz del guayas",
+                  "text": "A „Guayas Fényeként” ismert helyi baptista templom a keresztény hívőket szolgálja Guayaquilban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.932754,
+                        -2.11334
+                  ]
+            },
+            {
+                  "name": "Casa de oracion y restauracion.. LA FUERZA DE JEHOVA",
+                  "text": "Egy dedikált imaház és helyreállítási központ Guayaquilban, amely szolgálatában Jehova erejét hangsúlyozza.",
+                  "category": "religious",
+                  "coords": [
+                        -79.933762,
+                        -2.099524
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "Az Üdvhadsereg egyik központja Guayaquilban, amely a protestáns istentiszteletet aktív közösségi jótékonysági munkával ötvözi.",
+                  "category": "religious",
+                  "coords": [
+                        -79.921559,
+                        -2.099197
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de las Nieves",
+                  "text": "Egy Havas Boldogasszonynak szentelt guayaquili katolikus kápolna, amely szerény szentélyt kínál a helyi misék számára.",
+                  "category": "religious",
+                  "coords": [
+                        -79.965248,
+                        -2.115533
+                  ]
+            },
+            {
+                  "name": "Capilla Católica  - Virgen del Carmen",
+                  "text": "A Kármel-hegyi Boldogasszonynak szentelt kis katolikus kápolna Guayaquil lakosainak vallási igényeit szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        -79.955988,
+                        -2.120421
+                  ]
+            },
+            {
+                  "name": "Capilla María de Nazaret",
+                  "text": "A Názáreti Máriáról elnevezett szerény katolikus kápolna békés helyet kínál az imádságra Guayaquilban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.947939,
+                        -2.120526
+                  ]
+            },
+            {
+                  "name": "Capilla Santisima Virgen del Cisne",
+                  "text": "Ez a guayaquili katolikus kápolna a széles körben tisztelt El Cisne-i Legszentebb Szűznek van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -79.921042,
+                        -2.151244
+                  ]
+            },
+            {
+                  "name": "Capilla Cátolica",
+                  "text": "Egy helyi katolikus kápolna Guayaquilban, amely hagyományos környezetet biztosít a környékbeli vallási szertartásokhoz.",
+                  "category": "religious",
+                  "coords": [
+                        -79.930456,
+                        -2.146808
+                  ]
+            },
+            {
+                  "name": "Centro de Adoración Familiar",
+                  "text": "Családközpontú protestáns imaház, amely közös imádatra gyűjti össze a helyi keresztény közösséget Guayaquilban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.936649,
+                        -2.142062
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Egy evangéliumi templom Guayaquilban, amely aktív teret biztosít a szentírásolvasás és a közösségi istentisztelet számára.",
+                  "category": "religious",
+                  "coords": [
+                        -79.93927,
+                        -2.133874
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Vicente Ferrer",
+                  "text": "A domonkos rendi szerzetesnek, Ferrer Szent Vincének szentelt katolikus kápolna egy helyi egyházközséget szolgál Guayaquilban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.944397,
+                        -2.138691
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Marcos Evangelista | Guayaquil",
+                  "text": "Egy kiemelkedő katolikus templom Guayaquilban, amely rendszeres közösségi misékkel tiszteleg Márk evangélista előtt.",
+                  "category": "religious",
+                  "coords": [
+                        -79.939748,
+                        -2.15433
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de Lafe",
+                  "text": "A guayaquili Lafe Baptista Templom közösségi gyülekezeti teret kínál a helyi baptista hívők számára.",
+                  "category": "religious",
+                  "coords": [
+                        -79.935179,
+                        -2.166662
+                  ]
+            },
+            {
+                  "name": "Casa de Oracion Dios de Factos",
+                  "text": "Ez a helyi guayaquili imaház intim istentiszteleti helyként szolgál áhítatos gyülekezete számára.",
+                  "category": "religious",
+                  "coords": [
+                        -79.936415,
+                        -2.157319
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Noroeste Suroeste",
+                  "text": "A Guayaquilban található Királyság-terem a város északnyugati és délnyugati szektoraiból gyűjti össze Jehova Tanúit.",
+                  "category": "religious",
+                  "coords": [
+                        -79.935866,
+                        -2.155768
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egy környékbeli templomépület Guayaquilban, amely egyszerű termet biztosít a gyülekezeti istentiszteletekhez.",
+                  "category": "religious",
+                  "coords": [
+                        -79.927204,
+                        -2.155816
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mapasingue Central Sur Este",
+                  "text": "A guayaquili Mapasingue térségben található Királyság-terem a központi, déli és keleti gyülekezeti tevékenységeket koordinálja.",
+                  "category": "religious",
+                  "coords": [
+                        -79.925348,
+                        -2.155197
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Apostolica",
+                  "text": "Egy apostoli evangéliumi gyülekezet Guayaquilban, amely a közösségi evangelizációra és a modern apostoli tanításokra összpontosít.",
+                  "category": "religious",
+                  "coords": [
+                        -79.922582,
+                        -2.155452
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica - Beato Álvaro del Portillo",
+                  "text": "A Boldog Álvaro del Portillo tiszteletére elnevezett guayaquili katolikus templom ünnepélyes teret biztosít az eucharisztiának.",
+                  "category": "religious",
+                  "coords": [
+                        -79.966208,
+                        -2.135545
+                  ]
+            },
+            {
+                  "name": "Tres Hermanos",
+                  "text": "A guayaquili „Tres Hermanos” piac egy nyüzsgő kereskedelmi csomópont, tele friss regionális termékeket árusító árusokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.951761,
+                        -2.113475
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Casuarina",
+                  "text": "A Mercado Municipal Casuarina egy nyüzsgő önkormányzati piac, amely a mindennapi vásárlókat szolgálja ki Guayaquil Casuarina negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.956744,
+                        -2.118257
+                  ]
+            },
+            {
+                  "name": "Torre de avistamiento",
+                  "text": "Ez a kijelölt kilátótorony magaslati kilátópontokat kínál a madármegfigyeléshez és a Guayaquilra nyíló panoráma élvezetéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.914464,
+                        -2.107865
+                  ]
+            },
+            {
+                  "name": "Parque del Bloque 3",
+                  "text": "A Parque del Bloque 3 egy városi rekreációs zöldterület, amely ösvényeket és játszótereket kínál Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.925143,
+                        -2.093933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului proeminentă unde se adună Martorii lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -79.922023,
+                        -2.085511
+                  ]
+            },
+            {
+                  "name": "Tumbas Fidela y Digna",
+                  "text": "Mormintele comemorative construite pentru Fidela și Digna.",
+                  "category": "historical",
+                  "coords": [
+                        -79.924748,
+                        -2.132301
+                  ]
+            },
+            {
+                  "name": "Tumba de Alberto R",
+                  "text": "Mormântul comemorativ specific care marchează locul de odihnă al lui Alberto R.",
+                  "category": "historical",
+                  "coords": [
+                        -79.922899,
+                        -2.13277
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "Un monument înalt de piatră, sub formă de obelisc.",
+                  "category": "historical",
+                  "coords": [
+                        -79.96496,
+                        -2.148168
+                  ]
+            },
+            {
+                  "name": "Monumento \"El Ancla\"",
+                  "text": "Un monument public care prezintă în mod vizibil forma unei ancore.",
+                  "category": "historical",
+                  "coords": [
+                        -79.962556,
+                        -2.147067
+                  ]
+            },
+            {
+                  "name": "Teatro Centro de Arte",
+                  "text": "Acest teatru proeminent din Guayaquil servește ca un important loc cultural pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.926244,
+                        -2.161034
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Santa María Madre de Guayaquil",
+                  "text": "Un sanctuar catolic grandios din Guayaquil dedicat Sfintei Maria, oferind un spațiu senin pentru devoțiunea mariană.",
+                  "category": "religious",
+                  "coords": [
+                        -79.920201,
+                        -2.095507
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová - La Florida",
+                  "text": "Situată în cartierul La Florida din Guayaquil, această Sală a Regatului deservește comunitatea locală a Martorilor lui Iehova.",
+                  "category": "religious",
+                  "coords": [
+                        -79.94024,
+                        -2.127331
+                  ]
+            },
+            {
+                  "name": "Iglesia Dios a Tu Encuentro",
+                  "text": "O casă de cult evanghelică din Guayaquil, unde enoriașii se adună pentru întâlniri de rugăciune comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        -79.93852,
+                        -2.123796
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Sagrado Corazón de Jesús",
+                  "text": "Această capelă catolică de cartier din Guayaquil este dedicată în mod special Inimii Sacre a lui Isus.",
+                  "category": "religious",
+                  "coords": [
+                        -79.951749,
+                        -2.105142
+                  ]
+            },
+            {
+                  "name": "iglesia bautista luz del guayas",
+                  "text": "Cunoscută sub numele de „Lumina din Guayas”, această biserică baptistă locală îi slujește pe credincioșii creștini din Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.932754,
+                        -2.11334
+                  ]
+            },
+            {
+                  "name": "Casa de oracion y restauracion.. LA FUERZA DE JEHOVA",
+                  "text": "O casă dedicată rugăciunii și restaurării din Guayaquil, care subliniază puterea lui Iehova în lucrarea sa.",
+                  "category": "religious",
+                  "coords": [
+                        -79.933762,
+                        -2.099524
+                  ]
+            },
+            {
+                  "name": "Ejército de Salvación",
+                  "text": "Un centru al Armatei Salvării din Guayaquil care combină cultul protestant cu o activă muncă de caritate comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        -79.921559,
+                        -2.099197
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de las Nieves",
+                  "text": "O capelă catolică din Guayaquil sfințită Maicii Domnului a Zăpezilor, cu un sanctuar modest pentru liturghiile locale.",
+                  "category": "religious",
+                  "coords": [
+                        -79.965248,
+                        -2.115533
+                  ]
+            },
+            {
+                  "name": "Capilla Católica  - Virgen del Carmen",
+                  "text": "Dedicată Fecioarei de pe Muntele Carmel, această mică capelă catolică deservește nevoile religioase ale locuitorilor din Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.955988,
+                        -2.120421
+                  ]
+            },
+            {
+                  "name": "Capilla María de Nazaret",
+                  "text": "Numită după Maria din Nazaret, această capelă catolică modestă oferă un spațiu liniștit pentru rugăciune în Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.947939,
+                        -2.120526
+                  ]
+            },
+            {
+                  "name": "Capilla Santisima Virgen del Cisne",
+                  "text": "Această capelă catolică din Guayaquil este dedicată Preasfintei Fecioare din El Cisne, foarte venerată în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        -79.921042,
+                        -2.151244
+                  ]
+            },
+            {
+                  "name": "Capilla Cátolica",
+                  "text": "O clădire a unei capele catolice locale din Guayaquil, care oferă un cadru tradițional pentru slujbele religioase de cartier.",
+                  "category": "religious",
+                  "coords": [
+                        -79.930456,
+                        -2.146808
+                  ]
+            },
+            {
+                  "name": "Centro de Adoración Familiar",
+                  "text": "Un centru de cult protestant orientat spre familie, care adună comunitatea creștină locală din Guayaquil pentru adorație colectivă.",
+                  "category": "religious",
+                  "coords": [
+                        -79.936649,
+                        -2.142062
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "O facilitate a bisericii evanghelice din Guayaquil, care oferă un spațiu activ pentru citirea scripturilor și închinarea comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        -79.93927,
+                        -2.133874
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Vicente Ferrer",
+                  "text": "Dedicată călugărului dominican Sfântul Vincent Ferrer, această capelă catolică deservește o parohie locală din Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.944397,
+                        -2.138691
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Marcos Evangelista | Guayaquil",
+                  "text": "O biserică catolică proeminentă din Guayaquil, care îl onorează pe Marcu Evanghelistul cu liturghii comunitare regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -79.939748,
+                        -2.15433
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de Lafe",
+                  "text": "Biserica Baptistă Lafe din Guayaquil oferă un spațiu comunitar de adunare pentru credincioșii baptiști locali.",
+                  "category": "religious",
+                  "coords": [
+                        -79.935179,
+                        -2.166662
+                  ]
+            },
+            {
+                  "name": "Casa de Oracion Dios de Factos",
+                  "text": "Această casă de rugăciune locală din Guayaquil servește ca un lăcaș de cult intim pentru congregația sa devotată.",
+                  "category": "religious",
+                  "coords": [
+                        -79.936415,
+                        -2.157319
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Noroeste Suroeste",
+                  "text": "O Sală a Regatului situată în Guayaquil, adunând Martorii lui Iehova din sectoarele de nord-vest și sud-vest ale orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -79.935866,
+                        -2.155768
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O clădire a bisericii de cartier din Guayaquil, care oferă o sală simplă pentru închinarea congregațională.",
+                  "category": "religious",
+                  "coords": [
+                        -79.927204,
+                        -2.155816
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mapasingue Central Sur Este",
+                  "text": "Situată în zona Mapasingue din Guayaquil, această Sală a Regatului coordonează activitățile congregaționale din centru, sud și est.",
+                  "category": "religious",
+                  "coords": [
+                        -79.925348,
+                        -2.155197
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Apostolica",
+                  "text": "Un cadru bisericesc evanghelic apostolic în Guayaquil axat pe evanghelizarea comunității și pe învățăturile apostolice moderne.",
+                  "category": "religious",
+                  "coords": [
+                        -79.922582,
+                        -2.155452
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica - Beato Álvaro del Portillo",
+                  "text": "O biserică catolică din Guayaquil numită în onoarea Fericitului Álvaro del Portillo, oferind un spațiu solemn pentru Euharistie.",
+                  "category": "religious",
+                  "coords": [
+                        -79.966208,
+                        -2.135545
+                  ]
+            },
+            {
+                  "name": "Tres Hermanos",
+                  "text": "Piața „Tres Hermanos” din Guayaquil este un centru comercial plin de viață, cu vânzători care vând produse regionale proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.951761,
+                        -2.113475
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Casuarina",
+                  "text": "Mercado Municipal Casuarina este o piață municipală plină de viață care deservește cumpărătorii de zi cu zi din cartierul Casuarina din Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.956744,
+                        -2.118257
+                  ]
+            },
+            {
+                  "name": "Torre de avistamiento",
+                  "text": "Acest turn de observație desemnat oferă puncte de observație ridicate pentru observarea păsărilor și pentru a vă bucura de vederi panoramice peste Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.914464,
+                        -2.107865
+                  ]
+            },
+            {
+                  "name": "Parque del Bloque 3",
+                  "text": "Parque del Bloque 3 este un spațiu verde de agrement urban, care oferă alei și zone de joacă în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.925143,
+                        -2.093933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A prominent Kingdom Hall where Jehovah's Witnesses gather.",
+                  "category": "religious",
+                  "coords": [
+                        -79.922023,
+                        -2.085511
+                  ]
+            },
+            {
+                  "name": "Tumbas Fidela y Digna",
+                  "text": "The memorial tombs constructed for Fidela and Digna.",
+                  "category": "historical",
+                  "coords": [
+                        -79.924748,
+                        -2.132301
+                  ]
+            },
+            {
+                  "name": "Tumba de Alberto R",
+                  "text": "The specific memorial tomb marking the resting place of Alberto R.",
+                  "category": "historical",
+                  "coords": [
+                        -79.922899,
+                        -2.13277
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "A tall, freestanding stone obelisk monument.",
+                  "category": "historical",
+                  "coords": [
+                        -79.96496,
+                        -2.148168
+                  ]
+            },
+            {
+                  "name": "Monumento \"El Ancla\"",
+                  "text": "A public monument prominently featuring the shape of an anchor.",
+                  "category": "historical",
+                  "coords": [
+                        -79.962556,
+                        -2.147067
+                  ]
+            },
+            {
+                  "name": "Teatro Centro de Arte",
+                  "text": "This prominent theatre in Guayaquil serves as a major cultural venue for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.926244,
+                        -2.161034
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Santa María Madre de Guayaquil",
+                  "text": "A grand Catholic sanctuary in Guayaquil dedicated to Holy Mary, providing a serene space for Marian devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -79.920201,
+                        -2.095507
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová - La Florida",
+                  "text": "Located in the La Florida district of Guayaquil, this Kingdom Hall serves the local Jehovah's Witnesses community.",
+                  "category": "religious",
+                  "coords": [
+                        -79.94024,
+                        -2.127331
+                  ]
+            },
+            {
+                  "name": "Church God to your Encounter",
+                  "text": "An evangelical house of worship in Guayaquil where congregants gather for community prayer encounters.",
+                  "category": "religious",
+                  "coords": [
+                        -79.93852,
+                        -2.123796
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Sagrado Corazón de Jesús",
+                  "text": "This neighborhood Catholic chapel in Guayaquil is specifically devoted to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        -79.951749,
+                        -2.105142
+                  ]
+            },
+            {
+                  "name": "iglesia bautista luz del guayas",
+                  "text": "Known as the \"Light of Guayas,\" this local Baptist church serves the Christian faithful in Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.932754,
+                        -2.11334
+                  ]
+            },
+            {
+                  "name": "Casa de oracion y restauracion.. LA FUERZA DE JEHOVA",
+                  "text": "A dedicated house of prayer and restoration in Guayaquil emphasizing the strength of Jehovah in its ministry.",
+                  "category": "religious",
+                  "coords": [
+                        -79.933762,
+                        -2.099524
+                  ]
+            },
+            {
+                  "name": "Salvation Army",
+                  "text": "A Salvation Army center in Guayaquil that combines Protestant worship with active community charity work.",
+                  "category": "religious",
+                  "coords": [
+                        -79.921559,
+                        -2.099197
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de las Nieves",
+                  "text": "A Catholic chapel in Guayaquil consecrated to Our Lady of the Snows, featuring a modest sanctuary for local mass.",
+                  "category": "religious",
+                  "coords": [
+                        -79.965248,
+                        -2.115533
+                  ]
+            },
+            {
+                  "name": "Capilla Católica  - Virgen del Carmen",
+                  "text": "Devoted to the Virgin of Mount Carmel, this small Catholic chapel serves the religious needs of Guayaquil's residents.",
+                  "category": "religious",
+                  "coords": [
+                        -79.955988,
+                        -2.120421
+                  ]
+            },
+            {
+                  "name": "Capilla María de Nazaret",
+                  "text": "Named after Mary of Nazareth, this modest Catholic chapel offers a peaceful space for prayer in Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.947939,
+                        -2.120526
+                  ]
+            },
+            {
+                  "name": "Capilla Santisima Virgen del Cisne",
+                  "text": "This Catholic chapel in Guayaquil is dedicated to the widely venerated Most Holy Virgin of El Cisne.",
+                  "category": "religious",
+                  "coords": [
+                        -79.921042,
+                        -2.151244
+                  ]
+            },
+            {
+                  "name": "Capilla Cátolica",
+                  "text": "A localized Catholic chapel building in Guayaquil that provides a traditional setting for neighborhood religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -79.930456,
+                        -2.146808
+                  ]
+            },
+            {
+                  "name": "Centro de Adoración Familiar",
+                  "text": "A family-oriented Protestant worship center gathering the local Christian community in Guayaquil for collective adoration.",
+                  "category": "religious",
+                  "coords": [
+                        -79.936649,
+                        -2.142062
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "An evangelical church facility in Guayaquil providing an active space for scripture reading and community worship.",
+                  "category": "religious",
+                  "coords": [
+                        -79.93927,
+                        -2.133874
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Vicente Ferrer",
+                  "text": "Dedicated to the Dominican friar Saint Vincent Ferrer, this Catholic chapel serves a local parish in Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.944397,
+                        -2.138691
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Marcos Evangelista | Guayaquil",
+                  "text": "A prominent Catholic church in Guayaquil honoring Mark the Evangelist with regular community masses.",
+                  "category": "religious",
+                  "coords": [
+                        -79.939748,
+                        -2.15433
+                  ]
+            },
+            {
+                  "name": "Iglesia Bautista de Lafe",
+                  "text": "The Lafe Baptist Church in Guayaquil offers a communal gathering space for local Baptist believers.",
+                  "category": "religious",
+                  "coords": [
+                        -79.935179,
+                        -2.166662
+                  ]
+            },
+            {
+                  "name": "Casa de Oracion Dios de Factos",
+                  "text": "This local house of prayer in Guayaquil serves as an intimate place of worship for its devout congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -79.936415,
+                        -2.157319
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Noroeste Suroeste",
+                  "text": "A Kingdom Hall situated in Guayaquil, gathering Jehovah's Witnesses from the city's northwest and southwest sectors.",
+                  "category": "religious",
+                  "coords": [
+                        -79.935866,
+                        -2.155768
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A neighborhood church building in Guayaquil that provides a straightforward hall for congregational worship.",
+                  "category": "religious",
+                  "coords": [
+                        -79.927204,
+                        -2.155816
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mapasingue Central Sur Este",
+                  "text": "Located in the Mapasingue area of Guayaquil, this specific Kingdom Hall coordinates central, south, and east congregational activities.",
+                  "category": "religious",
+                  "coords": [
+                        -79.925348,
+                        -2.155197
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica Apostolica",
+                  "text": "An Apostolic Evangelical church setting in Guayaquil focused on community evangelism and modern Apostolic teachings.",
+                  "category": "religious",
+                  "coords": [
+                        -79.922582,
+                        -2.155452
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica - Beato Álvaro del Portillo",
+                  "text": "A Guayaquil Catholic church named in honor of Blessed Álvaro del Portillo, offering a solemn space for the Eucharist.",
+                  "category": "religious",
+                  "coords": [
+                        -79.966208,
+                        -2.135545
+                  ]
+            },
+            {
+                  "name": "Tres Hermanos",
+                  "text": "The \"Tres Hermanos\" marketplace in Guayaquil is a lively commercial hub filled with vendors selling fresh regional produce.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.951761,
+                        -2.113475
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal Casuarina",
+                  "text": "The Mercado Municipal Casuarina is a bustling municipal market serving everyday shoppers in Guayaquil's Casuarina district.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.956744,
+                        -2.118257
+                  ]
+            },
+            {
+                  "name": "Torre de avistamiento",
+                  "text": "This designated observation tower provides elevated vantage points for birdwatching and enjoying panoramic views across Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.914464,
+                        -2.107865
+                  ]
+            },
+            {
+                  "name": "Parque del Bloque 3",
+                  "text": "The Parque del Bloque 3 is an urban recreational green space offering pathways and play areas in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.925143,
+                        -2.093933
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-G",
     coords: [-79.932, -2.155],
@@ -986,7 +15314,88 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "frutadeli-ananasexport-economic-v2",
+    id: "frutadeli-ananasexport-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Pedregal",
+                  "text": "Dieser Außenschwimmbereich im regionalen Landwirtschaftsbezirk bietet eine erfrischende Erholung von der tropischen Hitze.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.390026,
+                        -2.46436
+                  ]
+            },
+            {
+                  "name": "Hacienda Las Cañas",
+                  "text": "Dieses ländliche Hacienda-Anwesen repräsentiert das traditionelle landwirtschaftliche Leben und zeichnet sich durch klassische Architektur inmitten weitläufiger tropischer Plantagen aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.517994,
+                        -2.548056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Pedregal",
+                  "text": "A regionális mezőgazdasági körzetben található szabadtéri medencetér frissítő rekreációs menedéket kínál a trópusi hőség elől.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.390026,
+                        -2.46436
+                  ]
+            },
+            {
+                  "name": "Hacienda Las Cañas",
+                  "text": "A hagyományos mezőgazdasági életet képviselő vidéki hacienda birtok klasszikus építészettel büszkélkedhet a hatalmas trópusi ültetvények közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.517994,
+                        -2.548056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Pedregal",
+                  "text": "Situată în districtul agricol regional, această piscină în aer liber oferă o evadare recreativă răcoroasă din căldura tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.390026,
+                        -2.46436
+                  ]
+            },
+            {
+                  "name": "Hacienda Las Cañas",
+                  "text": "Reprezentând viața agricolă tradițională, această hacienda rurală prezintă o arhitectură clasică situată în mijlocul plantațiilor tropicale întinse.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.517994,
+                        -2.548056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Pedregal Pool",
+                  "text": "Situated within the regional agricultural district, this outdoor pool area offers a refreshing recreational escape from the tropical heat.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.390026,
+                        -2.46436
+                  ]
+            },
+            {
+                  "name": "Hacienda Las Cañas",
+                  "text": "Representing traditional agricultural life, this rural hacienda estate features classic architecture set amidst sprawling tropical plantations.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.517994,
+                        -2.548056
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-S",
     coords: [-79.466, -2.483],
@@ -1034,7 +15443,1456 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "textil-fabril-ambato-economic-v2",
+    id: "textil-fabril-ambato-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quinta de Montalvo",
+                  "text": "Historisches Museum in Ambato auf dem ehemaligen Anwesen des berühmten ecuadorianischen Schriftstellers Juan Montalvo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.64625,
+                        -1.250758
+                  ]
+            },
+            {
+                  "name": "Parcañan",
+                  "text": "Kunstgalerie in Ambato, die lokale andine und zeitgenössische bildende Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -78.638565,
+                        -1.252066
+                  ]
+            },
+            {
+                  "name": "Monumento a Fabricante de calzado",
+                  "text": "Öffentliches Denkmal in Ambato, das die Handwerkskunst und den Fleiß der lokalen Schuhmacher feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -78.617889,
+                        -1.35031
+                  ]
+            },
+            {
+                  "name": "Monumento al Chocolate Ambateño",
+                  "text": "Ein öffentliches Denkmal in Ambato, das die traditionelle Schokoladenherstellung der Stadt ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -78.630072,
+                        -1.275369
+                  ]
+            },
+            {
+                  "name": "Monumento al Policía",
+                  "text": "Ein lokales Denkmal in Ambato, das dem Dienst der nationalen Polizei gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -78.632832,
+                        -1.254458
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Rosa",
+                  "text": "Eine katholische Pfarrkirche in der Gemeinde Santa Rosa in Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.642209,
+                        -1.28191
+                  ]
+            },
+            {
+                  "name": "Capilla de Catequesis",
+                  "text": "Eine lokale Kapelle in Ambato, die hauptsächlich für den Religionsunterricht und die Gemeindekatechese genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -78.641423,
+                        -1.283054
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Ein spirituelles Zentrum in Ambato, das gnostischen Lehren und Meditationspraktiken gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -78.630052,
+                        -1.271667
+                  ]
+            },
+            {
+                  "name": "Iglesia Huachi San Francisco",
+                  "text": "Eine katholische Gemeindekirche, die dem Viertel Huachi San Francisco in Ambato dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.620483,
+                        -1.291828
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Agua Santa",
+                  "text": "Eine lokale Kultstätte in Ambato, die der Jungfrau des Heiligen Wassers gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -78.615989,
+                        -1.354764
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová, Ferroviaria",
+                  "text": "Ein lokaler religiöser Versammlungssaal für die Gemeinde der Zeugen Jehovas im Bezirk Ferroviaria.",
+                  "category": "religious",
+                  "coords": [
+                        -78.611849,
+                        -1.359738
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Quichua Salasaca",
+                  "text": "Ein Königreichssaal, in dem Gottesdienste für die indigene Gemeinschaft der Quichua Salasaca abgehalten werden.",
+                  "category": "religious",
+                  "coords": [
+                        -78.570802,
+                        -1.327819
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Bellavista Simón Bolívar",
+                  "text": "Ein Anbetungszentrum für die Zeugen Jehovas im Viertel Bellavista Simón Bolívar.",
+                  "category": "religious",
+                  "coords": [
+                        -78.627287,
+                        -1.257532
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Celiano Monge Primavera",
+                  "text": "Ein Versammlungssaal, der religiöse Dienste für die Zeugen Jehovas im Gebiet Celiano Monge Primavera anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.623635,
+                        -1.275312
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ataranaza",
+                  "text": "Eine Gemeindekirche im Viertel La Ataranaza von Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.597298,
+                        -1.284223
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mirador Picaihua",
+                  "text": "Ein Königreichssaal, der den religiösen Bedürfnissen der örtlichen Gemeinde im Bezirk Mirador Picaihua dient.",
+                  "category": "religious",
+                  "coords": [
+                        -78.603519,
+                        -1.289205
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Manzana de Oro Montalvo",
+                  "text": "Ein lokaler Gemeindesaal für die Zeugen Jehovas im Gebiet Manzana de Oro.",
+                  "category": "religious",
+                  "coords": [
+                        -78.631679,
+                        -1.319239
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Santa Rosa",
+                  "text": "Eine religiöse Versammlungsstätte der Zeugen Jehovas in der Gemeinde Santa Rosa in Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.660574,
+                        -1.282931
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Ficoa Floresta",
+                  "text": "Ein Königreichssaal im Viertel Ficoa Floresta, der lokale Gottesdienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -78.640315,
+                        -1.259634
+                  ]
+            },
+            {
+                  "name": "Plaza San Pedro",
+                  "text": "Ein offener Gemeinschaftsmarkt und Versammlungsplatz im Herzen von Ambato.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.673171,
+                        -1.24281
+                  ]
+            },
+            {
+                  "name": "Mercado América",
+                  "text": "Ein belebter lokaler Markt in Ambato, bekannt für seinen vielfältigen täglichen Handel mit Waren und Lebensmitteln.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.610644,
+                        -1.268292
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Ambato Frutas y Verduras",
+                  "text": "Ein großer Großmarkt, der als wichtiger regionaler Knotenpunkt für den Vertrieb von frischem Obst und Gemüse dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.614668,
+                        -1.270521
+                  ]
+            },
+            {
+                  "name": "ZCF Zona Consumidor Final",
+                  "text": "Ein spezieller Einzelhandelsmarktbereich in Ambato, der auf den direkten Verkauf von Produkten an Endverbraucher ausgerichtet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.616503,
+                        -1.271713
+                  ]
+            },
+            {
+                  "name": "Mercado Sur",
+                  "text": "Ein traditioneller täglicher Markt in der Nachbarschaft, der die südlichen Gebiete von Ambato mit frischen Lebensmitteln versorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.634237,
+                        -1.256597
+                  ]
+            },
+            {
+                  "name": "Centro de mercadeo de ganado ambato",
+                  "text": "Die zentrale landwirtschaftliche Einrichtung für den Viehhandel und die Vermarktung in der Region Ambato.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.660054,
+                        -1.3251
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Cevallos",
+                  "text": "Die wichtigste städtische Markteinrichtung, die frische Waren und lokale Produkte im nahe gelegenen Kanton Cevallos anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.616549,
+                        -1.356406
+                  ]
+            },
+            {
+                  "name": "Mercado artesañal",
+                  "text": "Ein spezieller Handwerksmarkt in Ambato, auf dem lokale handwerkliche Produkte und traditionelle handgewebte Textilien ausgestellt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.5777,
+                        -1.321106
+                  ]
+            },
+            {
+                  "name": "FlyNiton Gleitschirmfliegen Startplatz",
+                  "text": "Ein ausgewiesener grasbewachsener Startplatz im Hochland bei Ambato, der für Freizeit-Gleitschirmflüge genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.544061,
+                        -1.285735
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Esperanza Divina",
+                  "text": "Ein evangelisch-christliches Gemeindezentrum in Ambato, das regelmäßige Gottesdienste und spirituelle Führung anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.637724,
+                        -1.283059
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Reina de La Merced",
+                  "text": "Eine lokale katholische Pfarrkirche in Ambato, die der Barmherzigen Muttergottes gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58319,
+                        -1.338918
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de El Rosario (Rumichaca)",
+                  "text": "Eine katholische Nachbarschaftskirche, die den lokalen spirituellen Bedürfnissen der Gemeinde Rumichaca dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.566984,
+                        -1.295504
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima - Catimbo",
+                  "text": "Ein lokales katholisches Gotteshaus im Sektor Catimbo, das der Heiligen Jungfrau von Fatima gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.547054,
+                        -1.307729
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Ambato Central",
+                  "text": "Die zentrale Einrichtung der lokalen apostolischen Kirchengemeinde, die evangelische Gottesdienste in Ambato anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.621338,
+                        -1.257253
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica del Monasterio de Santa Clara de Asís - Nuestra Señora del Carmen",
+                  "text": "Eine historische katholische Klosterkirche in Ambato, die der heiligen Klara von Assisi und Unserer Lieben Frau vom Berge Karmel gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.627986,
+                        -1.262461
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora del Tránsito | Totoras",
+                  "text": "Ein verehrtes katholisches Heiligtum in der ländlichen Gemeinde Totoras in der Nähe von Ambato.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.595559,
+                        -1.316221
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Los Laureles",
+                  "text": "Eine lokale katholische Kirche, die regelmäßige Gottesdienste für die Gemeinde Los Laureles anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.643448,
+                        -1.30367
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de La Palestina",
+                  "text": "Eine kleine ländliche katholische Kapelle im lokalen Sektor La Palestina.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.64084,
+                        -1.321321
+                  ]
+            },
+            {
+                  "name": "Iglesia de Carmelitas",
+                  "text": "Eine traditionelle katholische Kirche in Ambato, die mit dem spirituellen Orden der Karmeliter verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.674666,
+                        -1.278248
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein lokaler religiöser Versammlungssaal, der Gottesdienste für die Gemeinde der Zeugen Jehovas in der Region anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.669823,
+                        -1.347744
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de Tisaleo - Santa Lucía",
+                  "text": "Die wichtigste katholische Pfarrkirche von Tisaleo, die offiziell der Heiligen Lucia gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.669198,
+                        -1.349258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quinta de Montalvo",
+                  "text": "Történelmi múzeum Ambatóban, a neves ecuadori író, Juan Montalvo egykori birtokán.",
+                  "category": "museum",
+                  "coords": [
+                        -78.64625,
+                        -1.250758
+                  ]
+            },
+            {
+                  "name": "Parcañan",
+                  "text": "Ambato művészeti galériája, amely a helyi andoki és kortárs képzőművészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -78.638565,
+                        -1.252066
+                  ]
+            },
+            {
+                  "name": "Monumento a Fabricante de calzado",
+                  "text": "A helyi cipészek kézműves mesterségét és szorgalmát ünneplő köztéri emlékmű Ambatóban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.617889,
+                        -1.35031
+                  ]
+            },
+            {
+                  "name": "Monumento al Chocolate Ambateño",
+                  "text": "Ambato hagyományos csokoládékészítő örökségét ünneplő köztéri emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -78.630072,
+                        -1.275369
+                  ]
+            },
+            {
+                  "name": "Monumento al Policía",
+                  "text": "Az országos rendőrség szolgálatának szentelt helyi emlékmű Ambatóban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.632832,
+                        -1.254458
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Rosa",
+                  "text": "Egy katolikus plébániatemplom Ambato Santa Rosa nevű negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -78.642209,
+                        -1.28191
+                  ]
+            },
+            {
+                  "name": "Capilla de Catequesis",
+                  "text": "Egy helyi kápolna Ambatóban, amelyet elsősorban hitoktatásra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -78.641423,
+                        -1.283054
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Gnosztikus tanításoknak és meditációs gyakorlatoknak szentelt spirituális központ Ambatóban.",
+                  "category": "religious",
+                  "coords": [
+                        -78.630052,
+                        -1.271667
+                  ]
+            },
+            {
+                  "name": "Iglesia Huachi San Francisco",
+                  "text": "Ambato Huachi San Francisco negyedét kiszolgáló helyi katolikus közösségi templom.",
+                  "category": "religious",
+                  "coords": [
+                        -78.620483,
+                        -1.291828
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Agua Santa",
+                  "text": "A Szent Víz Szüzének szentelt helyi imahely Ambatóban.",
+                  "category": "religious",
+                  "coords": [
+                        -78.615989,
+                        -1.354764
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová, Ferroviaria",
+                  "text": "A Jehova Tanúi gyülekezetének helyi vallási találkozóhelye a Ferroviaria negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -78.611849,
+                        -1.359738
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Quichua Salasaca",
+                  "text": "Királyság-terem, amely az őslakos Quichua Salasaca közösség számára tart vallási szertartásokat.",
+                  "category": "religious",
+                  "coords": [
+                        -78.570802,
+                        -1.327819
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Bellavista Simón Bolívar",
+                  "text": "Jehova Tanúinak istentiszteleti központja a Bellavista Simón Bolívar negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -78.627287,
+                        -1.257532
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Celiano Monge Primavera",
+                  "text": "Jehova Tanúi számára vallási szolgáltatásokat nyújtó gyülekezeti terem a Celiano Monge Primavera térségében.",
+                  "category": "religious",
+                  "coords": [
+                        -78.623635,
+                        -1.275312
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ataranaza",
+                  "text": "Ambato La Ataranaza nevű részén található közösségi templom.",
+                  "category": "religious",
+                  "coords": [
+                        -78.597298,
+                        -1.284223
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mirador Picaihua",
+                  "text": "A helyi gyülekezet vallási szükségleteit kielégítő Királyság-terem a Mirador Picaihua kerületben.",
+                  "category": "religious",
+                  "coords": [
+                        -78.603519,
+                        -1.289205
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Manzana de Oro Montalvo",
+                  "text": "Jehova Tanúinak helyi gyülekezeti terme a Manzana de Oro térségben.",
+                  "category": "religious",
+                  "coords": [
+                        -78.631679,
+                        -1.319239
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Santa Rosa",
+                  "text": "Az ambatói Santa Rosa egyházközség Jehova Tanúit szolgáló vallási találkozóhely.",
+                  "category": "religious",
+                  "coords": [
+                        -78.660574,
+                        -1.282931
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Ficoa Floresta",
+                  "text": "A Ficoa Floresta negyedben található Királyság-terem, amely helyi vallási szolgáltatásokat nyújt.",
+                  "category": "religious",
+                  "coords": [
+                        -78.640315,
+                        -1.259634
+                  ]
+            },
+            {
+                  "name": "Plaza San Pedro",
+                  "text": "Szabadtéri közösségi piac és gyülekezőhely Ambato szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.673171,
+                        -1.24281
+                  ]
+            },
+            {
+                  "name": "Mercado América",
+                  "text": "Nyüzsgő helyi beltéri piac Ambatóban, amely a mindennapi áruk és élelmiszerek változatos kereskedelméről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.610644,
+                        -1.268292
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Ambato Frutas y Verduras",
+                  "text": "Nagy nagybani piac, amely a friss zöldségek és gyümölcsök elosztásának jelentős regionális központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.614668,
+                        -1.270521
+                  ]
+            },
+            {
+                  "name": "ZCF Zona Consumidor Final",
+                  "text": "Ambatói speciális kiskereskedelmi piactér, amely a végfelhasználóknak történő közvetlen értékesítésre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.616503,
+                        -1.271713
+                  ]
+            },
+            {
+                  "name": "Mercado Sur",
+                  "text": "Hagyományos mindennapi piac, amely friss élelmiszerekkel látja el Ambato déli területeit.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.634237,
+                        -1.256597
+                  ]
+            },
+            {
+                  "name": "Centro de mercadeo de ganado ambato",
+                  "text": "Ambato régió központi állattenyésztési és mezőgazdasági értékesítő létesítménye.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.660054,
+                        -1.3251
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Cevallos",
+                  "text": "A közeli Cevallos kanton fő önkormányzati piaca, amely friss árukat és helyi termékeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.616549,
+                        -1.356406
+                  ]
+            },
+            {
+                  "name": "Mercado artesañal",
+                  "text": "Egy dedikált kézműves piac Ambatóban, amely helyi kézműves termékeket és hagyományos kézi szövésű textíliákat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.5777,
+                        -1.321106
+                  ]
+            },
+            {
+                  "name": "Despegue Parapente FlyNiton",
+                  "text": "Ambato közelében, a hegyvidéken található füves felszállóhely, amelyet rekreációs siklóernyőzésre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.544061,
+                        -1.285735
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Esperanza Divina",
+                  "text": "Evangéliumi keresztény közösségi központ Ambatóban, amely rendszeres istentiszteleteket és spirituális iránymutatást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.637724,
+                        -1.283059
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Reina de La Merced",
+                  "text": "Helyi katolikus plébániatemplom Ambatóban, amelyet az Irgalmas Szűzanyának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58319,
+                        -1.338918
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de El Rosario (Rumichaca)",
+                  "text": "A Rumichaca közösség helyi spirituális igényeit kiszolgáló katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.566984,
+                        -1.295504
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima - Catimbo",
+                  "text": "A Fatimai Szűzanyának szentelt helyi katolikus imahely a Catimbo szektorban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.547054,
+                        -1.307729
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Ambato Central",
+                  "text": "A helyi apostoli egyházi gyülekezet központi létesítménye, amely evangéliumi istentiszteleteket kínál Ambatóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.621338,
+                        -1.257253
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica del Monasterio de Santa Clara de Asís - Nuestra Señora del Carmen",
+                  "text": "Történelmi katolikus kolostortemplom Ambatóban, amelyet Assisi Szent Klárának és a Kármelhegyi Boldogasszonynak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.627986,
+                        -1.262461
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora del Tránsito | Totoras",
+                  "text": "Tisztelt katolikus szentély a vidéki Totoras egyházközségben, Ambato közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.595559,
+                        -1.316221
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Los Laureles",
+                  "text": "A Los Laureles közösség számára rendszeres vallási szolgáltatásokat nyújtó helyi katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.643448,
+                        -1.30367
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de La Palestina",
+                  "text": "Kis vidéki katolikus kápolna a helyi La Palestina szektorban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.64084,
+                        -1.321321
+                  ]
+            },
+            {
+                  "name": "Iglesia de Carmelitas",
+                  "text": "Hagyományos katolikus templom Ambatóban, amely a karmeliták spirituális rendjéhez kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.674666,
+                        -1.278248
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Helyi vallási gyülekezeti terem, amely a Jehova Tanúi gyülekezetének nyújt szolgáltatásokat a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.669823,
+                        -1.347744
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de Tisaleo - Santa Lucía",
+                  "text": "Tisaleo fő katolikus plébániatemploma, amelyet hivatalosan Szent Lúciának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.669198,
+                        -1.349258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quinta de Montalvo",
+                  "text": "Muzeu istoric din Ambato situat pe fosta proprietate a renumitului scriitor ecuadorian Juan Montalvo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.64625,
+                        -1.250758
+                  ]
+            },
+            {
+                  "name": "Parcañan",
+                  "text": "Galerie de artă din Ambato care expune artă vizuală locală andină și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -78.638565,
+                        -1.252066
+                  ]
+            },
+            {
+                  "name": "Monumento a Fabricante de calzado",
+                  "text": "Monument public din Ambato care celebrează măiestria și industria cizmarilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        -78.617889,
+                        -1.35031
+                  ]
+            },
+            {
+                  "name": "Monumento al Chocolate Ambateño",
+                  "text": "Un monument public din Ambato care onorează moștenirea tradițională a fabricării ciocolatei din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -78.630072,
+                        -1.275369
+                  ]
+            },
+            {
+                  "name": "Monumento al Policía",
+                  "text": "Un monument local din Ambato dedicat serviciului forțelor de poliție naționale.",
+                  "category": "historical",
+                  "coords": [
+                        -78.632832,
+                        -1.254458
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Rosa",
+                  "text": "O biserică parohială catolică situată în cartierul Santa Rosa din Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.642209,
+                        -1.28191
+                  ]
+            },
+            {
+                  "name": "Capilla de Catequesis",
+                  "text": "O capelă locală din Ambato folosită în principal pentru instruire religioasă și cateheza comunității.",
+                  "category": "religious",
+                  "coords": [
+                        -78.641423,
+                        -1.283054
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Un centru spiritual din Ambato dedicat învățăturilor gnostice și practicilor de meditație.",
+                  "category": "religious",
+                  "coords": [
+                        -78.630052,
+                        -1.271667
+                  ]
+            },
+            {
+                  "name": "Iglesia Huachi San Francisco",
+                  "text": "O biserică comunitară catolică care deservește cartierul Huachi San Francisco din Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.620483,
+                        -1.291828
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Agua Santa",
+                  "text": "Un lăcaș de cult local din Ambato dedicat Fecioarei Apei Sfinte.",
+                  "category": "religious",
+                  "coords": [
+                        -78.615989,
+                        -1.354764
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová, Ferroviaria",
+                  "text": "O sală de adunare religioasă locală pentru congregația Martorilor lui Iehova din districtul Ferroviaria.",
+                  "category": "religious",
+                  "coords": [
+                        -78.611849,
+                        -1.359738
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Quichua Salasaca",
+                  "text": "O Sală a Regatului care ține slujbe religioase pentru comunitatea indigenă Quichua Salasaca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.570802,
+                        -1.327819
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Bellavista Simón Bolívar",
+                  "text": "Un centru de cult pentru Martorii lui Iehova situat în cartierul Bellavista Simón Bolívar.",
+                  "category": "religious",
+                  "coords": [
+                        -78.627287,
+                        -1.257532
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Celiano Monge Primavera",
+                  "text": "O sală de ședințe care oferă servicii religioase pentru Martorii lui Iehova din zona Celiano Monge Primavera.",
+                  "category": "religious",
+                  "coords": [
+                        -78.623635,
+                        -1.275312
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ataranaza",
+                  "text": "O biserică comunitară de cartier situată în zona La Ataranaza din Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.597298,
+                        -1.284223
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Mirador Picaihua",
+                  "text": "O Sală a Regatului care deservește nevoile religioase ale congregației locale din districtul Mirador Picaihua.",
+                  "category": "religious",
+                  "coords": [
+                        -78.603519,
+                        -1.289205
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Manzana de Oro Montalvo",
+                  "text": "O sală a congregației locale pentru Martorii lui Iehova situată în zona Manzana de Oro.",
+                  "category": "religious",
+                  "coords": [
+                        -78.631679,
+                        -1.319239
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Santa Rosa",
+                  "text": "O facilitate de adunare religioasă care deservește Martorii lui Iehova din parohia Santa Rosa din Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.660574,
+                        -1.282931
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Ficoa Floresta",
+                  "text": "O Sală a Regatului situată în cartierul Ficoa Floresta, care oferă servicii religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        -78.640315,
+                        -1.259634
+                  ]
+            },
+            {
+                  "name": "Plaza San Pedro",
+                  "text": "O piață comunitară în aer liber și o piațetă de adunare în inima orașului Ambato.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.673171,
+                        -1.24281
+                  ]
+            },
+            {
+                  "name": "Mercado América",
+                  "text": "O piață interioară locală plină de viață din Ambato, cunoscută pentru comerțul zilnic diversificat cu bunuri și alimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.610644,
+                        -1.268292
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Ambato Frutas y Verduras",
+                  "text": "O piață mare de gros, care servește drept un centru regional major pentru distribuția de fructe și legume proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.614668,
+                        -1.270521
+                  ]
+            },
+            {
+                  "name": "ZCF Zona Consumidor Final",
+                  "text": "O zonă comercială specializată din Ambato axată pe vânzările directe de produse către consumatorii finali.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.616503,
+                        -1.271713
+                  ]
+            },
+            {
+                  "name": "Mercado Sur",
+                  "text": "O piață tradițională zilnică de cartier care furnizează produse alimentare proaspete zonelor din sudul orașului Ambato.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.634237,
+                        -1.256597
+                  ]
+            },
+            {
+                  "name": "Centro de mercadeo de ganado ambato",
+                  "text": "Facilitatea agricolă centrală de comerț și marketing al animalelor pentru regiunea Ambato.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.660054,
+                        -1.3251
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Cevallos",
+                  "text": "Principala unitate de piață municipală care oferă bunuri proaspete și produse locale în cantonul Cevallos din apropiere.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.616549,
+                        -1.356406
+                  ]
+            },
+            {
+                  "name": "Mercado artesañal",
+                  "text": "O piață dedicată meșteșugurilor din Ambato, care prezintă produse artizanale locale și textile tradiționale țesute manual.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.5777,
+                        -1.321106
+                  ]
+            },
+            {
+                  "name": "Despegue Parapente FlyNiton",
+                  "text": "Un loc de lansare cu iarbă, situat pe zonele înalte din apropiere de Ambato, folosit pentru zboruri de agrement cu parapanta.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.544061,
+                        -1.285735
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Esperanza Divina",
+                  "text": "Un centru comunitar creștin evanghelic din Ambato, care oferă servicii de închinare regulate și îndrumare spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.637724,
+                        -1.283059
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Reina de La Merced",
+                  "text": "O biserică parohială catolică locală din Ambato dedicată Maicii Domnului a Milei.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58319,
+                        -1.338918
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de El Rosario (Rumichaca)",
+                  "text": "O biserică catolică de cartier care deservește nevoile spirituale locale ale comunității Rumichaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.566984,
+                        -1.295504
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima - Catimbo",
+                  "text": "Un lăcaș de cult catolic local dedicat Fecioarei de la Fatima, situat în sectorul Catimbo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.547054,
+                        -1.307729
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Ambato Central",
+                  "text": "Facilitatea centrală pentru congregația bisericii apostolice locale, oferind servicii evanghelice în Ambato.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.621338,
+                        -1.257253
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica del Monasterio de Santa Clara de Asís - Nuestra Señora del Carmen",
+                  "text": "O biserică istorică de mănăstire catolică din Ambato dedicată Sfintei Clara de Assisi și Maicii Domnului de pe Muntele Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.627986,
+                        -1.262461
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora del Tránsito | Totoras",
+                  "text": "Un sanctuar catolic venerat situat în parohia rurală Totoras din apropiere de Ambato.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.595559,
+                        -1.316221
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Los Laureles",
+                  "text": "O biserică catolică locală care oferă servicii religioase regulate pentru comunitatea Los Laureles.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.643448,
+                        -1.30367
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de La Palestina",
+                  "text": "O mică capelă catolică rurală situată în sectorul local La Palestina.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.64084,
+                        -1.321321
+                  ]
+            },
+            {
+                  "name": "Iglesia de Carmelitas",
+                  "text": "O biserică catolică tradițională din Ambato asociată cu ordinul spiritual al carmeliților.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.674666,
+                        -1.278248
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O sală de adunare religioasă locală care oferă servicii pentru congregația Martorilor lui Iehova din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.669823,
+                        -1.347744
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de Tisaleo - Santa Lucía",
+                  "text": "Principala biserică parohială catolică din Tisaleo, dedicată oficial Sfintei Lucia.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.669198,
+                        -1.349258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quinta de Montalvo",
+                  "text": "Historic museum in Ambato set in the former estate of renowned Ecuadorian writer Juan Montalvo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.64625,
+                        -1.250758
+                  ]
+            },
+            {
+                  "name": "Parcañan",
+                  "text": "Art gallery in Ambato showcasing local Andean and contemporary visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        -78.638565,
+                        -1.252066
+                  ]
+            },
+            {
+                  "name": "Monumento a Fabricante de calzado",
+                  "text": "Public monument in Ambato celebrating the craftsmanship and industry of local shoemakers.",
+                  "category": "historical",
+                  "coords": [
+                        -78.617889,
+                        -1.35031
+                  ]
+            },
+            {
+                  "name": "Monumento al Chocolate Ambateño",
+                  "text": "A public monument in Ambato honoring the city's traditional chocolate-making heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -78.630072,
+                        -1.275369
+                  ]
+            },
+            {
+                  "name": "Monumento al Policía",
+                  "text": "A local monument in Ambato dedicated to the service of the national police force.",
+                  "category": "historical",
+                  "coords": [
+                        -78.632832,
+                        -1.254458
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Rosa",
+                  "text": "A neighborhood Catholic church located in the Santa Rosa parish of Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.642209,
+                        -1.28191
+                  ]
+            },
+            {
+                  "name": "Capilla de Catequesis",
+                  "text": "A local chapel in Ambato primarily used for religious instruction and community catechism.",
+                  "category": "religious",
+                  "coords": [
+                        -78.641423,
+                        -1.283054
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "A spiritual center in Ambato dedicated to Gnostic teachings and meditation practices.",
+                  "category": "religious",
+                  "coords": [
+                        -78.630052,
+                        -1.271667
+                  ]
+            },
+            {
+                  "name": "Iglesia Huachi San Francisco",
+                  "text": "A community Catholic church serving the Huachi San Francisco neighborhood of Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.620483,
+                        -1.291828
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de Agua Santa",
+                  "text": "A local place of worship in Ambato dedicated to the Virgin of Holy Water.",
+                  "category": "religious",
+                  "coords": [
+                        -78.615989,
+                        -1.354764
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, Ferroviaria",
+                  "text": "A local religious meeting hall for the Jehovah's Witnesses congregation in the Ferroviaria district.",
+                  "category": "religious",
+                  "coords": [
+                        -78.611849,
+                        -1.359738
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses Quichua Salasaca",
+                  "text": "A Kingdom Hall that conducts religious services for the indigenous Quichua Salasaca community.",
+                  "category": "religious",
+                  "coords": [
+                        -78.570802,
+                        -1.327819
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, Bellavista Simón Bolívar",
+                  "text": "A worship center for the Jehovah's Witnesses located in the Bellavista Simón Bolívar neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -78.627287,
+                        -1.257532
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, Celiano Monge Primavera",
+                  "text": "A meeting hall providing religious services for the Jehovah's Witnesses in the Celiano Monge Primavera area.",
+                  "category": "religious",
+                  "coords": [
+                        -78.623635,
+                        -1.275312
+                  ]
+            },
+            {
+                  "name": "Iglesia La Ataranaza",
+                  "text": "A neighborhood community church situated in the La Ataranaza area of Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.597298,
+                        -1.284223
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, Mirador Picaihua",
+                  "text": "A Kingdom Hall serving the religious needs of the local congregation in the Mirador Picaihua district.",
+                  "category": "religious",
+                  "coords": [
+                        -78.603519,
+                        -1.289205
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Manzana de Oro Montalvo",
+                  "text": "A local congregation hall for the Jehovah's Witnesses situated in the Manzana de Oro area.",
+                  "category": "religious",
+                  "coords": [
+                        -78.631679,
+                        -1.319239
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Santa Rosa",
+                  "text": "A religious meeting facility serving the Jehovah's Witnesses of the Santa Rosa parish in Ambato.",
+                  "category": "religious",
+                  "coords": [
+                        -78.660574,
+                        -1.282931
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses, Ficoa Floresta",
+                  "text": "A Kingdom Hall located in the Ficoa Floresta neighborhood providing local religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -78.640315,
+                        -1.259634
+                  ]
+            },
+            {
+                  "name": "Plaza San Pedro",
+                  "text": "An open-air community marketplace and gathering square in the heart of Ambato.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.673171,
+                        -1.24281
+                  ]
+            },
+            {
+                  "name": "Mercado América",
+                  "text": "A bustling indoor local market in Ambato known for its diverse daily trade of goods and food.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.610644,
+                        -1.268292
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista Ambato Frutas y Verduras",
+                  "text": "A large wholesale market serving as a major regional hub for fresh fruit and vegetable distribution.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.614668,
+                        -1.270521
+                  ]
+            },
+            {
+                  "name": "ZCF Zona Consumidor Final",
+                  "text": "A specialized retail market area in Ambato focused on direct produce sales to final consumers.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.616503,
+                        -1.271713
+                  ]
+            },
+            {
+                  "name": "Mercado Sur",
+                  "text": "A traditional neighborhood daily market providing fresh groceries to the southern areas of Ambato.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.634237,
+                        -1.256597
+                  ]
+            },
+            {
+                  "name": "Centro de mercadeo de ganado ambato",
+                  "text": "The central livestock trading and marketing agricultural facility for the Ambato region.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.660054,
+                        -1.3251
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Cevallos",
+                  "text": "The main municipal market facility providing fresh goods and local products in the nearby Cevallos canton.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.616549,
+                        -1.356406
+                  ]
+            },
+            {
+                  "name": "Mercado artesañal",
+                  "text": "A dedicated craft marketplace in Ambato showcasing local artisanal products and traditional handwoven textiles.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.5777,
+                        -1.321106
+                  ]
+            },
+            {
+                  "name": "FlyNiton Paragliding Takeoff",
+                  "text": "A designated grassy launch site on the highlands near Ambato used for recreational paragliding flights.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.544061,
+                        -1.285735
+                  ]
+            },
+            {
+                  "name": "Centro Cristiano Esperanza Divina",
+                  "text": "An evangelical Christian community center in Ambato offering regular worship services and spiritual guidance.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.637724,
+                        -1.283059
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Reina de La Merced",
+                  "text": "A local Catholic parish church in Ambato dedicated to Our Lady of Mercy.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.58319,
+                        -1.338918
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de El Rosario (Rumichaca)",
+                  "text": "A neighborhood Catholic church serving the local spiritual needs of the Rumichaca community.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.566984,
+                        -1.295504
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima - Catimbo",
+                  "text": "A local Catholic place of worship dedicated to Our Lady of Fatima situated in the Catimbo sector.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.547054,
+                        -1.307729
+                  ]
+            },
+            {
+                  "name": "IEANJesús - Ambato Central",
+                  "text": "The central facility for the local Apostolic church congregation offering evangelical services in Ambato.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.621338,
+                        -1.257253
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica del Monasterio de Santa Clara de Asís - Nuestra Señora del Carmen",
+                  "text": "A historic Catholic monastic church in Ambato dedicated to Saint Clare of Assisi and Our Lady of Mount Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.627986,
+                        -1.262461
+                  ]
+            },
+            {
+                  "name": "Santuario Católico Nuestra Señora del Tránsito | Totoras",
+                  "text": "A revered Catholic sanctuary located in the rural parish of Totoras near Ambato.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.595559,
+                        -1.316221
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de Los Laureles",
+                  "text": "A local Catholic church providing regular religious services for the Los Laureles community.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.643448,
+                        -1.30367
+                  ]
+            },
+            {
+                  "name": "Capilla Católica de La Palestina",
+                  "text": "A small rural Catholic chapel situated in the local La Palestina sector.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.64084,
+                        -1.321321
+                  ]
+            },
+            {
+                  "name": "Iglesia de Carmelitas",
+                  "text": "A traditional Catholic church in Ambato associated with the spiritual order of the Carmelites.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.674666,
+                        -1.278248
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah’s Witnesses",
+                  "text": "A local religious meeting hall providing services for the Jehovah's Witnesses congregation in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.669823,
+                        -1.347744
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Matriz de Tisaleo - Santa Lucía",
+                  "text": "The main Catholic parish church of Tisaleo, officially dedicated to Saint Lucy.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.669198,
+                        -1.349258
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-T",
     coords: [-78.625, -1.272],
@@ -1082,7 +16940,1168 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "puerto-jardin-duran-economic-v2",
+    id: "puerto-jardin-duran-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento del Pez",
+                  "text": "Dieses fischförmige Denkmal in Durán symbolisiert die Bedeutung der lokalen Fischereiindustrie und der Flussökologie.",
+                  "category": "historical",
+                  "coords": [
+                        -79.846317,
+                        -2.163023
+                  ]
+            },
+            {
+                  "name": "Eloy alfaro",
+                  "text": "Dieses Denkmal in Durán würdigigt Eloy Alfaro, den ehemaligen ecuadorianischen Präsidenten, der das Eisenbahnsystem der Nation maßgeblich vorantrieb.",
+                  "category": "historical",
+                  "coords": [
+                        -79.854461,
+                        -2.170371
+                  ]
+            },
+            {
+                  "name": "Monte De Sion",
+                  "text": "Mount Zion ist eine lokale Kultstätte in Durán, an der sich Gemeindemitglieder zu Gebet und spiritueller Gemeinschaft versammeln.",
+                  "category": "religious",
+                  "coords": [
+                        -79.853559,
+                        -2.180353
+                  ]
+            },
+            {
+                  "name": "MCE. Ministerio El Santo de Israel",
+                  "text": "Dieses evangelikale Ministerium in Durán bietet Bibelstudien und Gemeinde-Outreach-Programme an, die vom Heiligen Israels inspiriert sind.",
+                  "category": "religious",
+                  "coords": [
+                        -79.804119,
+                        -2.174603
+                  ]
+            },
+            {
+                  "name": "Capilla Jesús Obrero JHS",
+                  "text": "Diese dem Arbeiter Jesus geweihte Kapelle in Durán spiegelt die religiöse Hingabe der lokalen Arbeitergemeinschaft wider.",
+                  "category": "religious",
+                  "coords": [
+                        -79.83911,
+                        -2.163966
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica “El Buen Samaritano”",
+                  "text": "Die evangelische Kirche des Guten Samariters bietet der lokalen protestantischen Gemeinde in Durán einen eigenen Ort der Anbetung.",
+                  "category": "religious",
+                  "coords": [
+                        -79.815383,
+                        -2.207901
+                  ]
+            },
+            {
+                  "name": "Capilla inmaculado corazón de maria un futuro mejor",
+                  "text": "Diese lokale Kapelle im Gebiet von Durán ist dem Unbefleckten Herz Mariä geweiht und bietet einen Raum für das Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.800572,
+                        -2.158857
+                  ]
+            },
+            {
+                  "name": "Iglesia Oasis de Paz",
+                  "text": "Die Kirche der Oase des Friedens bietet den Gläubigen in Durán einen spirituellen Versammlungsort.",
+                  "category": "religious",
+                  "coords": [
+                        -79.794487,
+                        -2.164749
+                  ]
+            },
+            {
+                  "name": "iglesia una sola fuerza",
+                  "text": "Diese religiöse Stätte, die vor Ort als „Una Sola Fuerza“ bekannt ist, dient der Gemeinde von Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.786115,
+                        -2.15608
+                  ]
+            },
+            {
+                  "name": "Misión Evangelica Pentecostal  J.N.RESTAURADOR",
+                  "text": "Diese pfingstlerische evangelische Mission dient als spirituelles Zentrum für ihre spezifische Konfession in der Gemeinde Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.817577,
+                        -2.16717
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Als lokales Zentrum für gnostische Studien bietet dieser Ort alternative spirituelle Lehren in Durán an.",
+                  "category": "religious",
+                  "coords": [
+                        -79.83884,
+                        -2.162759
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Recreo Suroeste",
+                  "text": "Dieser Königreichssaal dient der Versammlung der Zeugen Jehovas, die im Viertel Recreo Suroeste von Durán leben.",
+                  "category": "religious",
+                  "coords": [
+                        -79.814581,
+                        -2.180895
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Recreo Oeste Central Durán",
+                  "text": "Dieser Königreichssaal im Sektor Recreo Oeste Central ist ein eigener Treffpunkt für die lokalen Zeugen Jehovas.",
+                  "category": "religious",
+                  "coords": [
+                        -79.804055,
+                        -2.172934
+                  ]
+            },
+            {
+                  "name": "Capilla Católica - San Antonio Maria Claret",
+                  "text": "Diese lokale katholische Kapelle in Durán ist dem Heiligen Antonius Maria Claret gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.801549,
+                        -2.168207
+                  ]
+            },
+            {
+                  "name": "Nuna Luz en la Tinieblas",
+                  "text": "Diese lokale Kultstätte in Durán trägt einen Namen, der „Ein Licht in der Dunkelheit“ bedeutet.",
+                  "category": "religious",
+                  "coords": [
+                        -79.828092,
+                        -2.153309
+                  ]
+            },
+            {
+                  "name": "Santuario del Divino Niño",
+                  "text": "Diese lokale Kirche fungiert als Heiligtum, das der Verehrung des Göttlichen Kindes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -79.834565,
+                        -2.168091
+                  ]
+            },
+            {
+                  "name": "Parroquia La Resurreción - Diócesis de San Jacinro",
+                  "text": "Die Pfarrei der Auferstehung ist Teil der Diözese San Jacinto und bietet der Gemeinde von Durán katholische Gottesdienste an.",
+                  "category": "religious",
+                  "coords": [
+                        -79.842574,
+                        -2.167749
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Primavera Norte Barrio Lindo Durán",
+                  "text": "Dieser Königreichssaal dient der lokalen Versammlung der Zeugen Jehovas im Gebiet Primavera Norte Barrio Lindo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.841667,
+                        -2.160049
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista - Durán",
+                  "text": "Dieser Großmarkt dient als wichtiges Handelszentrum für landwirtschaftliche Massenprodukte in Durán.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.806797,
+                        -2.212411
+                  ]
+            },
+            {
+                  "name": "Mercado CDLA Maldanado",
+                  "text": "Dieser lokale Markt befindet sich in Ciudadela Maldonado und versorgt die umliegende Nachbarschaft mit dem täglichen Bedarf.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.841743,
+                        -2.158033
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Dieser Königreichssaal dient als Hauptversammlungsort für eine lokale Versammlung der Zeugen Jehovas in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.822318,
+                        -2.187768
+                  ]
+            },
+            {
+                  "name": "dB ProMedia Durán",
+                  "text": "dB ProMedia ist ein lokaler Anlaufpunkt in Durán, der sich auf Medien- und Audiodienstleistungen konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84,
+                        -2.160814
+                  ]
+            },
+            {
+                  "name": "Roquetas de Mar",
+                  "text": "Diese lokale Attraktion, die ihren Namen mit dem bekannten spanischen Ferienort teilt, bietet Freizeitaktivitäten in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.770036,
+                        -2.148731
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Jesús del Gran Poder | Durán",
+                  "text": "Diese katholische Kirche ist Jesus der Großen Macht gewidmet und ein prominenter Ort für christliche Gottesdienste in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84304,
+                        -2.176958
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santos Pastorcitos de Fátima",
+                  "text": "Diese katholische Kirche dient der Gemeinde von Durán und ist den heiligen kleinen Hirten von Fatima gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.814254,
+                        -2.179401
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Gabriel Arcángel | Durán",
+                  "text": "Diese lokale katholische Kirche in Durán ist der Verehrung des Erzengels Gabriel gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.825332,
+                        -2.16919
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Los Ángeles - La Porciúncula",
+                  "text": "Diese katholische Kirche ist nach der heiligen franziskanischen Kapelle La Porciúncula benannt und dient der Gemeinde von Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.827892,
+                        -2.155714
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora del Rosario | Durán",
+                  "text": "Diese katholische Kapelle ist Unserer Lieben Frau vom Rosenkranz gewidmet und bietet einen lokalen Ort der Anbetung in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.829337,
+                        -2.166242
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Diese Kirche fungiert als lokale christliche Versammlung und bietet ihrer Gemeinde in Durán religiöse Dienste an.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.850174,
+                        -2.169771
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "Diese christliche Stätte dient als lokaler Treffpunkt für die Foursquare-Gospel-Konfession in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.849568,
+                        -2.168193
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Dieses lokale Gemeindehaus dient der Versammlung der Kirche Jesu Christi der Heiligen der Letzten Tage in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.853383,
+                        -2.172282
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de La Divina Misericordia",
+                  "text": "Diese katholische Kirche versammelt die Gemeinde von Durán zum Gottesdienst, der dem Herrn der Barmherzigkeit gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.854014,
+                        -2.187445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento del Pez",
+                  "text": "Ez a hal alakú duráni emlékmű a helyi halászat és a folyóökológia fontosságát szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        -79.846317,
+                        -2.163023
+                  ]
+            },
+            {
+                  "name": "Eloy alfaro",
+                  "text": "A Duránban található emlékmű Eloy Alfaro, a korábbi ecuadori elnök előtt tiszteleg, aki jelentősen fejlesztette a nemzet vasúti rendszerét.",
+                  "category": "historical",
+                  "coords": [
+                        -79.854461,
+                        -2.170371
+                  ]
+            },
+            {
+                  "name": "Monte De Sion",
+                  "text": "A Sion-hegy egy helyi istentiszteleti hely Duránban, ahol a közösség tagjai imádkozásra és spirituális közösségre gyűlnek össze.",
+                  "category": "religious",
+                  "coords": [
+                        -79.853559,
+                        -2.180353
+                  ]
+            },
+            {
+                  "name": "MCE. Ministerio El Santo de Israel",
+                  "text": "Ez a duráni evangéliumi szolgálat Izrael Szentje által ihletett bibliatanulmányozást és közösségi programokat kínál.",
+                  "category": "religious",
+                  "coords": [
+                        -79.804119,
+                        -2.174603
+                  ]
+            },
+            {
+                  "name": "Capilla Jesús Obrero JHS",
+                  "text": "A Munkás Jézusnak szentelt duráni kápolna a helyi munkásosztálybeli közösség vallási áhítatát tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        -79.83911,
+                        -2.163966
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica “El Buen Samaritano”",
+                  "text": "Az Irgalmas Szamaritánus evangéliumi templom a helyi protestáns közösség számára biztosít istentiszteleti helyet Duránban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.815383,
+                        -2.207901
+                  ]
+            },
+            {
+                  "name": "Capilla inmaculado corazón de maria un futuro mejor",
+                  "text": "A Szűzanya Szeplőtelen Szívének szentelt helyi kápolna csendes imateret kínál a Durán környékieknek.",
+                  "category": "religious",
+                  "coords": [
+                        -79.800572,
+                        -2.158857
+                  ]
+            },
+            {
+                  "name": "Iglesia Oasis de Paz",
+                  "text": "A Béke Oázisa templom spirituális gyülekezőhelyet biztosít a hívők számára Duránban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.794487,
+                        -2.164749
+                  ]
+            },
+            {
+                  "name": "iglesia una sola fuerza",
+                  "text": "A helyiek által „Egyetlen Erő” néven ismert vallási helyszín Durán közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -79.786115,
+                        -2.15608
+                  ]
+            },
+            {
+                  "name": "Misión Evangelica Pentecostal  J.N.RESTAURADOR",
+                  "text": "Ez a pünkösdi evangéliumi misszió spirituális központként szolgál saját felekezete számára Durán közösségében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.817577,
+                        -2.16717
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "A gnosztikus tanulmányok helyi központjaként működő helyszín alternatív spirituális tanításokat kínál Duránban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.83884,
+                        -2.162759
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Recreo Suroeste",
+                  "text": "Ez a Királyság-terem a Durán Recreo Suroeste negyedében élő Jehova Tanúi gyülekezetét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -79.814581,
+                        -2.180895
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Recreo Oeste Central Durán",
+                  "text": "A Recreo Oeste Central szektorban található Királyság-terem a helyi Jehova Tanúi dedikált találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -79.804055,
+                        -2.172934
+                  ]
+            },
+            {
+                  "name": "Capilla Católica - San Antonio Maria Claret",
+                  "text": "Ezt a helyi katolikus kápolnát Duránban Szent Antonius Maria Claretnek szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        -79.801549,
+                        -2.168207
+                  ]
+            },
+            {
+                  "name": "Nuna Luz en la Tinieblas",
+                  "text": "A „Fény a Sötétségben” nevet viselő helyi istentiszteleti hely Durán közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -79.828092,
+                        -2.153309
+                  ]
+            },
+            {
+                  "name": "Santuario del Divino Niño",
+                  "text": "Ez a helyi templom az Isteni Gyermek tiszteletére szentelt szentélyként működik.",
+                  "category": "religious",
+                  "coords": [
+                        -79.834565,
+                        -2.168091
+                  ]
+            },
+            {
+                  "name": "Parroquia La Resurreción - Diócesis de San Jacinro",
+                  "text": "A San Jacinto egyházmegyén belül működő Feltámadás Plébánia katolikus szolgáltatásokat nyújt Durán közösségének.",
+                  "category": "religious",
+                  "coords": [
+                        -79.842574,
+                        -2.167749
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Primavera Norte Barrio Lindo Durán",
+                  "text": "Ez a Királyság-terem a helyi Jehova Tanúi gyülekezetét szolgálja a Primavera Norte Barrio Lindo területén.",
+                  "category": "religious",
+                  "coords": [
+                        -79.841667,
+                        -2.160049
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista - Durán",
+                  "text": "Ez a nagykereskedelmi piac a mezőgazdasági tömegcikkek fontos kereskedelmi központjaként szolgál Duránban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.806797,
+                        -2.212411
+                  ]
+            },
+            {
+                  "name": "Mercado CDLA Maldanado",
+                  "text": "A Ciudadela Maldonadóban található helyi piac a környező negyedet látja el napi cikkekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.841743,
+                        -2.158033
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ez a Királyság-terem egy helyi Jehova Tanúi gyülekezet fő találkozóhelyeként szolgál Duránban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.822318,
+                        -2.187768
+                  ]
+            },
+            {
+                  "name": "dB ProMedia Durán",
+                  "text": "A Duránban található helyi nevezetesség, a dB ProMedia a média- és audioszolgáltatásokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84,
+                        -2.160814
+                  ]
+            },
+            {
+                  "name": "Roquetas de Mar",
+                  "text": "A jól ismert spanyol üdülővárossal azonos nevű helyi látványosság szabadidős tevékenységeket kínál Duránban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.770036,
+                        -2.148731
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Jesús del Gran Poder | Durán",
+                  "text": "A Nagy Hatalmú Jézusnak szentelt katolikus templom a keresztény istentisztelet kiemelkedő helyszíne Duránban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84304,
+                        -2.176958
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santos Pastorcitos de Fátima",
+                  "text": "A fátimai szent kis pásztoroknak szentelt katolikus templom Durán közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.814254,
+                        -2.179401
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Gabriel Arcángel | Durán",
+                  "text": "Ez a helyi katolikus templom Duránban Gábriel arkangyal tiszteletének van szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.825332,
+                        -2.16919
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Los Ángeles - La Porciúncula",
+                  "text": "A szent ferences La Porciúncula kápolnáról elnevezett katolikus templom Durán közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.827892,
+                        -2.155714
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora del Rosario | Durán",
+                  "text": "A Rózsafüzér Királynőjének szentelt katolikus kápolna helyi istentiszteleti helyet kínál Duránban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.829337,
+                        -2.166242
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "A helyi keresztény gyülekezetként működő templom vallási szolgáltatásokat nyújt Durán közösségének.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.850174,
+                        -2.169771
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "Ez a keresztény helyszín a Négyszegletű Evangélium felekezet helyi találkozóhelyeként szolgál Duránban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.849568,
+                        -2.168193
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez a helyi gyülekezeti ház Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza gyülekezetét szolgálja Duránban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.853383,
+                        -2.172282
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de La Divina Misericordia",
+                  "text": "Ez a katolikus templom az Isteni Irgalmasság Ura előtti tiszteletadásra gyűjti össze Durán közösségét.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.854014,
+                        -2.187445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento del Pez",
+                  "text": "Acest monument în formă de pește din Durán simbolizează importanța industriei locale de pescuit și a ecologiei fluviale.",
+                  "category": "historical",
+                  "coords": [
+                        -79.846317,
+                        -2.163023
+                  ]
+            },
+            {
+                  "name": "Eloy alfaro",
+                  "text": "Situat în Durán, acest monument aduce un omagiu lui Eloy Alfaro, fostul președinte ecuadorian care a avansat semnificativ sistemul feroviar al națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -79.854461,
+                        -2.170371
+                  ]
+            },
+            {
+                  "name": "Monte De Sion",
+                  "text": "Muntele Sion este un lăcaș de cult local din Durán, unde membrii comunității se adună pentru rugăciune și părtășie spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        -79.853559,
+                        -2.180353
+                  ]
+            },
+            {
+                  "name": "MCE. Ministerio El Santo de Israel",
+                  "text": "Acest minister evanghelic din Durán oferă studii biblice și programe de asistență comunitară inspirate de Sfântul lui Israel.",
+                  "category": "religious",
+                  "coords": [
+                        -79.804119,
+                        -2.174603
+                  ]
+            },
+            {
+                  "name": "Capilla Jesús Obrero JHS",
+                  "text": "Dedicată lui Isus Muncitorul, această capelă din Durán reflectă devotamentul religios al comunității locale din clasa muncitoare.",
+                  "category": "religious",
+                  "coords": [
+                        -79.83911,
+                        -2.163966
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica “El Buen Samaritano”",
+                  "text": "Biserica Evanghelică Bunul Samaritean oferă un loc de cult dedicat comunității protestante locale din Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.815383,
+                        -2.207901
+                  ]
+            },
+            {
+                  "name": "Capilla inmaculado corazón de maria un futuro mejor",
+                  "text": "Închinată Inimii Imaculate a Mariei, această capelă locală oferă un spațiu de rugăciune în zona Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.800572,
+                        -2.158857
+                  ]
+            },
+            {
+                  "name": "Iglesia Oasis de Paz",
+                  "text": "Biserica Oaza de Pace oferă un spațiu spiritual de adunare pentru credincioșii din Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.794487,
+                        -2.164749
+                  ]
+            },
+            {
+                  "name": "iglesia una sola fuerza",
+                  "text": "Cunoscut sub numele local de „O Singură Forță”, acest lăcaș religios servește comunitatea din Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.786115,
+                        -2.15608
+                  ]
+            },
+            {
+                  "name": "Misión Evangelica Pentecostal  J.N.RESTAURADOR",
+                  "text": "Această misiune evanghelică penticostală servește ca centru spiritual pentru confesiunea sa din comunitatea Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.817577,
+                        -2.16717
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Funcționând ca un centru local pentru studii gnostice, acest site oferă învățături spirituale alternative în Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.83884,
+                        -2.162759
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Recreo Suroeste",
+                  "text": "Această Sală a Regatului deservește congregația Martorilor lui Iehova care locuiește în cartierul Recreo Suroeste din Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.814581,
+                        -2.180895
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Recreo Oeste Central Durán",
+                  "text": "Situată în sectorul Recreo Oeste Central, această Sală a Regatului este un loc de întâlnire dedicat Martorilor lui Iehova locali.",
+                  "category": "religious",
+                  "coords": [
+                        -79.804055,
+                        -2.172934
+                  ]
+            },
+            {
+                  "name": "Capilla Católica - San Antonio Maria Claret",
+                  "text": "Această capelă catolică locală din Durán este închinată Sfântului Anton Maria Claret.",
+                  "category": "religious",
+                  "coords": [
+                        -79.801549,
+                        -2.168207
+                  ]
+            },
+            {
+                  "name": "Nuna Luz en la Tinieblas",
+                  "text": "Funcționând sub un nume care înseamnă „O Lumină în Întuneric”, acest lăcaș de cult local deservește comunitatea din Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.828092,
+                        -2.153309
+                  ]
+            },
+            {
+                  "name": "Santuario del Divino Niño",
+                  "text": "Această biserică locală funcționează ca un sanctuar dedicat venerării Copilului Divin.",
+                  "category": "religious",
+                  "coords": [
+                        -79.834565,
+                        -2.168091
+                  ]
+            },
+            {
+                  "name": "Parroquia La Resurreción - Diócesis de San Jacinro",
+                  "text": "Funcționând în cadrul Diecezei de San Jacinto, Parohia Învierii oferă slujbe catolice comunității din Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.842574,
+                        -2.167749
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Primavera Norte Barrio Lindo Durán",
+                  "text": "Această Sală a Regatului deservește congregația locală a Martorilor lui Iehova din zona Primavera Norte Barrio Lindo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.841667,
+                        -2.160049
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista - Durán",
+                  "text": "Această piață en-gros servește ca un centru comercial major pentru produsele agricole în vrac din Durán.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.806797,
+                        -2.212411
+                  ]
+            },
+            {
+                  "name": "Mercado CDLA Maldanado",
+                  "text": "Situată în Ciudadela Maldonado, această piață locală furnizează provizii zilnice cartierului înconjurător.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.841743,
+                        -2.158033
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Această Sală a Regatului servește drept principalul loc de întâlnire pentru o congregație locală a Martorilor lui Iehova din Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.822318,
+                        -2.187768
+                  ]
+            },
+            {
+                  "name": "dB ProMedia Durán",
+                  "text": "Funcționând ca un punct de interes local în Durán, dB ProMedia se concentrează pe servicii media și audio.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84,
+                        -2.160814
+                  ]
+            },
+            {
+                  "name": "Roquetas de Mar",
+                  "text": "Împărțind numele cu o cunoscută stațiune balneară spaniolă, această atracție locală oferă activități de agrement în Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.770036,
+                        -2.148731
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Jesús del Gran Poder | Durán",
+                  "text": "Închinată lui Isus al Marii Puteri, această biserică catolică este un loc proeminent pentru cultul creștin din Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84304,
+                        -2.176958
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santos Pastorcitos de Fátima",
+                  "text": "Această biserică catolică servește comunitatea din Durán și este dedicată Sfinților Mici Păstori de la Fatima.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.814254,
+                        -2.179401
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Gabriel Arcángel | Durán",
+                  "text": "Această biserică catolică locală din Durán este dedicată venerării Sfântului Arhanghel Gavriil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.825332,
+                        -2.16919
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Los Ángeles - La Porciúncula",
+                  "text": "Purtând numele sacrei capele franciscane La Porciúncula, această biserică catolică deservește comunitatea din Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.827892,
+                        -2.155714
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora del Rosario | Durán",
+                  "text": "Închinată Maicii Domnului a Rozariului, această capelă catolică oferă un lăcaș de cult local în Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.829337,
+                        -2.166242
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Funcționând ca o adunare creștină locală, această biserică oferă servicii religioase congregației sale din Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.850174,
+                        -2.169771
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "Acest sit creștin servește drept loc de întâlnire local pentru confesiunea Evangheliei Pătrate din Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.849568,
+                        -2.168193
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această casă de întruniri locală deservește congregația Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.853383,
+                        -2.172282
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de La Divina Misericordia",
+                  "text": "Această biserică catolică adună comunitatea din Durán pentru cultul dedicat Domnului Divinei Milostiviri.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.854014,
+                        -2.187445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento del Pez",
+                  "text": "This fish-shaped monument in Durán symbolizes the importance of the local fishing industry and riverine ecology.",
+                  "category": "historical",
+                  "coords": [
+                        -79.846317,
+                        -2.163023
+                  ]
+            },
+            {
+                  "name": "Eloy alfaro",
+                  "text": "Located in Durán, this monument pays tribute to Eloy Alfaro, the former Ecuadorian president who significantly advanced the nation's railway system.",
+                  "category": "historical",
+                  "coords": [
+                        -79.854461,
+                        -2.170371
+                  ]
+            },
+            {
+                  "name": "Monte De Sion",
+                  "text": "Mount Zion is a local place of worship in Durán where community members gather for prayer and spiritual fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        -79.853559,
+                        -2.180353
+                  ]
+            },
+            {
+                  "name": "MCE. Ministerio El Santo de Israel",
+                  "text": "This evangelical ministry in Durán offers Bible studies and community outreach programs inspired by the Holy One of Israel.",
+                  "category": "religious",
+                  "coords": [
+                        -79.804119,
+                        -2.174603
+                  ]
+            },
+            {
+                  "name": "Capilla Jesús Obrero JHS",
+                  "text": "Dedicated to Jesus the Worker, this chapel in Durán reflects the religious devotion of the local working-class community.",
+                  "category": "religious",
+                  "coords": [
+                        -79.83911,
+                        -2.163966
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica “El Buen Samaritano”",
+                  "text": "The Good Samaritan Evangelical Church provides a dedicated place of worship for the local Protestant community in Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.815383,
+                        -2.207901
+                  ]
+            },
+            {
+                  "name": "Capilla inmaculado corazón de maria un futuro mejor",
+                  "text": "Dedicated to the Immaculate Heart of Mary, this local chapel offers a space for prayer in the Durán area.",
+                  "category": "religious",
+                  "coords": [
+                        -79.800572,
+                        -2.158857
+                  ]
+            },
+            {
+                  "name": "Iglesia Oasis de Paz",
+                  "text": "The Oasis of Peace Church provides a spiritual gathering space for worshippers in Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.794487,
+                        -2.164749
+                  ]
+            },
+            {
+                  "name": "iglesia una sola fuerza",
+                  "text": "Known locally as \"Una Sola Fuerza,\" this religious site serves the community of Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.786115,
+                        -2.15608
+                  ]
+            },
+            {
+                  "name": "Misión Evangelica Pentecostal  J.N.RESTAURADOR",
+                  "text": "This Pentecostal Evangelical mission serves as a spiritual hub for its specific denomination in the Durán community.",
+                  "category": "religious",
+                  "coords": [
+                        -79.817577,
+                        -2.16717
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Operating as a local center for Gnostic studies, this site offers alternative spiritual teachings in Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.83884,
+                        -2.162759
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Recreo Suroeste",
+                  "text": "This Kingdom Hall serves the congregation of Jehovah's Witnesses residing in the Recreo Southwest neighborhood of Durán.",
+                  "category": "religious",
+                  "coords": [
+                        -79.814581,
+                        -2.180895
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Recreo Oeste Central Durán",
+                  "text": "Situated in the Recreo West Central sector, this Kingdom Hall is a dedicated meeting place for local Jehovah's Witnesses.",
+                  "category": "religious",
+                  "coords": [
+                        -79.804055,
+                        -2.172934
+                  ]
+            },
+            {
+                  "name": "Capilla Católica - San Antonio Maria Claret",
+                  "text": "This local Catholic chapel in Durán is dedicated to Saint Anthony Mary Claret.",
+                  "category": "religious",
+                  "coords": [
+                        -79.801549,
+                        -2.168207
+                  ]
+            },
+            {
+                  "name": "Nuna Luz en la Tinieblas",
+                  "text": "Operating under a name meaning \"A Light in the Darkness,\" this local place of worship serves the Durán community.",
+                  "category": "religious",
+                  "coords": [
+                        -79.828092,
+                        -2.153309
+                  ]
+            },
+            {
+                  "name": "Santuario del Divino Niño",
+                  "text": "This local church functions as a sanctuary dedicated to the veneration of the Divine Child.",
+                  "category": "religious",
+                  "coords": [
+                        -79.834565,
+                        -2.168091
+                  ]
+            },
+            {
+                  "name": "Parroquia La Resurreción - Diócesis de San Jacinro",
+                  "text": "Operating within the Diocese of San Jacinto, the Parish of the Resurrection provides Catholic services to the Durán community.",
+                  "category": "religious",
+                  "coords": [
+                        -79.842574,
+                        -2.167749
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová Primavera Norte Barrio Lindo Durán",
+                  "text": "This Kingdom Hall serves the local Jehovah's Witnesses congregation in the Primavera Norte Barrio Lindo area.",
+                  "category": "religious",
+                  "coords": [
+                        -79.841667,
+                        -2.160049
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista - Durán",
+                  "text": "This wholesale market serves as a major commercial hub for bulk agricultural products in Durán.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.806797,
+                        -2.212411
+                  ]
+            },
+            {
+                  "name": "Mercado CDLA Maldanado",
+                  "text": "Situated in Ciudadela Maldonado, this local market supplies daily provisions to the surrounding neighborhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.841743,
+                        -2.158033
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "This Kingdom Hall serves as the primary meeting place for a local congregation of Jehovah's Witnesses in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.822318,
+                        -2.187768
+                  ]
+            },
+            {
+                  "name": "dB ProMedia Durán",
+                  "text": "Operating as a local point of interest in Durán, dB ProMedia focuses on media and audio services.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84,
+                        -2.160814
+                  ]
+            },
+            {
+                  "name": "Roquetas de Mar",
+                  "text": "Sharing its name with a well-known Spanish resort town, this local attraction provides leisure activities in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.770036,
+                        -2.148731
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Jesús del Gran Poder | Durán",
+                  "text": "Dedicated to Jesus of the Great Power, this Catholic church is a prominent site for Christian worship in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84304,
+                        -2.176958
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santos Pastorcitos de Fátima",
+                  "text": "This Catholic church serves the Durán community and is dedicated to the Holy Little Shepherds of Fatima.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.814254,
+                        -2.179401
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Gabriel Arcángel | Durán",
+                  "text": "This local Catholic church in Durán is dedicated to the veneration of Saint Gabriel the Archangel.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.825332,
+                        -2.16919
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Los Ángeles - La Porciúncula",
+                  "text": "Taking its name from the sacred Franciscan chapel of La Porciúncula, this Catholic church serves the Durán community.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.827892,
+                        -2.155714
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora del Rosario | Durán",
+                  "text": "Dedicated to Our Lady of the Rosary, this Catholic chapel offers a local place of worship in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.829337,
+                        -2.166242
+                  ]
+            },
+            {
+                  "name": "Universal",
+                  "text": "Operating as a local Christian assembly, this church provides religious services to its congregation in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.850174,
+                        -2.169771
+                  ]
+            },
+            {
+                  "name": "Iglesia del Evangelio Cuadrangular",
+                  "text": "This Christian site serves as a local meeting place for the Foursquare Gospel denomination in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.849568,
+                        -2.168193
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "This local meetinghouse serves the congregation of the Church of Jesus Christ of Latter-day Saints in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.853383,
+                        -2.172282
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Señor de La Divina Misericordia",
+                  "text": "This Catholic church gathers the Durán community for worship dedicated to the Lord of Divine Mercy.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.854014,
+                        -2.187445
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EC-G",
     coords: [-79.845, -2.175],
@@ -1130,7 +18149,1276 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "adelca-stahlwerk-milagro-economic-v2",
+    id: "adelca-stahlwerk-milagro-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Julio Viteri Gamboa",
+                  "text": "Dieses überdachte Museum beherbergt regionale Artefakte und historische Sammlungen zur Bewahrung des lokalen Erbes.",
+                  "category": "museum",
+                  "coords": [
+                        -79.601126,
+                        -2.133895
+                  ]
+            },
+            {
+                  "name": "Casa de PETITA",
+                  "text": "Ein exzentrisches, schlossähnliches lokales Wohnhaus, das sich durch seine markante Steinarchitektur im Festungsstil auszeichnet.",
+                  "category": "castle",
+                  "coords": [
+                        -79.59867,
+                        -2.133628
+                  ]
+            },
+            {
+                  "name": "Monumento a la Piña",
+                  "text": "Diese große öffentliche Skulptur einer Ananas repräsentiert stolz den Status der Stadt als wichtiges landwirtschaftliches Zentrum für diese Frucht.",
+                  "category": "historical",
+                  "coords": [
+                        -79.608217,
+                        -2.167061
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "Eine farbenfrohe, stilisierte Skulptur eines Kolibris, die die reiche Vogelvielfalt der Region ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.584816,
+                        -2.138854
+                  ]
+            },
+            {
+                  "name": "Monumento a la Guitarra",
+                  "text": "Diese riesige Gitarrenskulptur im Freien ist eine kreative Hommage an die lebendigen musikalischen Traditionen der örtlichen Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        -79.592819,
+                        -2.134058
+                  ]
+            },
+            {
+                  "name": "El velero",
+                  "text": "Dieses lokale Denkmal ist wie ein Segelboot geformt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.58942,
+                        -2.13169
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Espíritu Santo",
+                  "text": "Eine dem Heiligen Geist geweihte katholische Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -79.574939,
+                        -2.13339
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Eine lokale Kultstätte des gnostischen Glaubens.",
+                  "category": "religious",
+                  "coords": [
+                        -79.596152,
+                        -2.127409
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo De los Santos de los Últimos Días",
+                  "text": "Ein Versammlungshaus der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "religious",
+                  "coords": [
+                        -79.590417,
+                        -2.132149
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine lokale Kirche, die der umliegenden Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -79.579257,
+                        -2.123149
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica Nueva Vida",
+                  "text": "Eine biblische Kirche, die den Namen Neues Leben trägt.",
+                  "category": "religious",
+                  "coords": [
+                        -79.604524,
+                        -2.137749
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza",
+                  "text": "Eine Kultstätte der Allianz-Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -79.58927,
+                        -2.1297
+                  ]
+            },
+            {
+                  "name": "Mercado La Dolorosa",
+                  "text": "Ein lokaler Marktplatz, bekannt als La Dolorosa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.590419,
+                        -2.126942
+                  ]
+            },
+            {
+                  "name": "Proximo Mercado Mayorista",
+                  "text": "Ein ausgewiesener Bereich für einen zukünftigen Großmarkt.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.60906,
+                        -2.163428
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Ein geschäftiger Großmarkt.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.591693,
+                        -2.145842
+                  ]
+            },
+            {
+                  "name": "Complejo La Pradera ",
+                  "text": "Ein Erholungskomplex namens La Pradera.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.568285,
+                        -2.114129
+                  ]
+            },
+            {
+                  "name": "Club Nacional",
+                  "text": "Eine lokale Attraktion des Nationalclubs.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.556287,
+                        -2.158789
+                  ]
+            },
+            {
+                  "name": "Las cataratas",
+                  "text": "Eine Naturattraktion mit stürzenden Wasserfällen.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.529647,
+                        -2.119384
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Pablo II - Milagro",
+                  "text": "Eine dem Papst Johannes Paul II. geweihte katholische Kirche.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.603143,
+                        -2.155137
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostés",
+                  "text": "Eine lokale Pfingstkirche.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.575077,
+                        -2.131987
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Pedro Apóstol",
+                  "text": "Eine dem Apostel Petrus geweihte katholische Kirche.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.504109,
+                        -2.111964
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Vicente Ferrer | Roberto Astudillo",
+                  "text": "Eine dem heiligen Vinzenz Ferrer geweihte katholische Kirche in Roberto Astudillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.518259,
+                        -2.183173
+                  ]
+            },
+            {
+                  "name": "Ermita de San Juan de la Cruz",
+                  "text": "Eine friedliche Einsiedelei, die dem heiligen Johannes vom Kreuz gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.558415,
+                        -2.149948
+                  ]
+            },
+            {
+                  "name": "Gruta de la Virgen del Carmen",
+                  "text": "Eine religiöse Grotte, die der Jungfrau vom Karmel gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.559379,
+                        -2.150384
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Pedro",
+                  "text": "Eine kleine katholische Kapelle, die dem heiligen Petrus geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.584703,
+                        -2.13485
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista y Santa Madre Teresa de Calcuta",
+                  "text": "Eine katholische Kirche, die sowohl Johannes dem Täufer als auch Mutter Teresa von Kalkutta geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.581985,
+                        -2.151172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de 5 de Junio",
+                  "text": "Eine katholische Kirche zum Gedenken an das historische Datum des 5. Juni.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.618247,
+                        -2.183081
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein Königreichssaal der Gemeinschaft der Zeugen Jehovas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.59472,
+                        -2.142323
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua, Milagro",
+                  "text": "Eine dem heiligen Antonius von Padua geweihte katholische Kirche.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.591082,
+                        -2.137748
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Rosario de Agua Santa",
+                  "text": "Eine katholische Kirche, die Unsere Liebe Frau vom Rosenkranz des Heiligen Wassers verehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.596448,
+                        -2.12228
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Ninfa",
+                  "text": "Eine katholische Kapelle zur Verehrung der heiligen Ninfa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.586368,
+                        -2.1331
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo del Consuelo - Parroquia San Juan XXIII",
+                  "text": "Eine katholische Kirche des Christus des Trostes in der Pfarrei St. Johannes XXIII.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.587087,
+                        -2.12345
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de Fátima",
+                  "text": "Eine katholische Kapelle, die Unserer Lieben Frau von Fatima gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.580898,
+                        -2.118498
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Las Lajas | Milagro",
+                  "text": "Eine katholische Kirche zu Ehren Unserer Lieben Frau von Las Lajas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.577534,
+                        -2.124447
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Martín de Porres | Milagro",
+                  "text": "Eine katholische Kirche, die dem peruanischen Ordensmann St. Martin von Porres geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.595148,
+                        -2.134952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Julio Viteri Gamboa",
+                  "text": "Ez a beltéri múzeum regionális leleteket és történelmi gyűjteményeket ad ki, megőrizve a helyi örökséget.",
+                  "category": "museum",
+                  "coords": [
+                        -79.601126,
+                        -2.133895
+                  ]
+            },
+            {
+                  "name": "Casa de PETITA",
+                  "text": "Különc, kastélyszerű helyi rezidencia, amely jellegzetes erődítmény stílusú kőépítészetével tűnik ki.",
+                  "category": "castle",
+                  "coords": [
+                        -79.59867,
+                        -2.133628
+                  ]
+            },
+            {
+                  "name": "Monumento a la Piña",
+                  "text": "Ez a hatalmas köztéri ananászszobor büszkén hirdeti a város jelentős mezőgazdasági központként betöltött szerepét e gyümölcs termesztésében.",
+                  "category": "historical",
+                  "coords": [
+                        -79.608217,
+                        -2.167061
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "Egy kolibrit ábrázoló élénk, stilizált szobor, amely a régió gazdag madárvilágának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -79.584816,
+                        -2.138854
+                  ]
+            },
+            {
+                  "name": "Monumento a la Guitarra",
+                  "text": "Ez a hatalmas szabadtéri gitárszobor kreatív tisztelgés a helyi közösség élénk zenei hagyományai előtt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.592819,
+                        -2.134058
+                  ]
+            },
+            {
+                  "name": "El velero",
+                  "text": "Ez a helyi emlékmű egy vitorlást formáz.",
+                  "category": "historical",
+                  "coords": [
+                        -79.58942,
+                        -2.13169
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Espíritu Santo",
+                  "text": "A Szentléleknek szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -79.574939,
+                        -2.13339
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "A gnosztikus hit helyi istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        -79.596152,
+                        -2.127409
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo De los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza gyülekezeti háza.",
+                  "category": "religious",
+                  "coords": [
+                        -79.590417,
+                        -2.132149
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A környező közösséget szolgáló helyi templom.",
+                  "category": "religious",
+                  "coords": [
+                        -79.579257,
+                        -2.123149
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica Nueva Vida",
+                  "text": "Egy bibliai gyülekezet, amely az Új Élet nevet viseli.",
+                  "category": "religious",
+                  "coords": [
+                        -79.604524,
+                        -2.137749
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza",
+                  "text": "Az Alliansz gyülekezethez tartozó istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        -79.58927,
+                        -2.1297
+                  ]
+            },
+            {
+                  "name": "Mercado La Dolorosa",
+                  "text": "A La Dolorosa néven ismert helyi piac.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.590419,
+                        -2.126942
+                  ]
+            },
+            {
+                  "name": "Proximo Mercado Mayorista",
+                  "text": "Egy jövőbeli nagykereskedelmi piac számára kijelölt terület.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.60906,
+                        -2.163428
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "Egy nyüzsgő nagykereskedelmi piac.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.591693,
+                        -2.145842
+                  ]
+            },
+            {
+                  "name": "Complejo La Pradera ",
+                  "text": "A La Pradera nevű szabadidőközpont.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.568285,
+                        -2.114129
+                  ]
+            },
+            {
+                  "name": "Club Nacional",
+                  "text": "A Nemzeti Klubhoz tartozó helyi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.556287,
+                        -2.158789
+                  ]
+            },
+            {
+                  "name": "Las cataratas",
+                  "text": "Lépcsőzetes vízeséseket bemutató természeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.529647,
+                        -2.119384
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Pablo II - Milagro",
+                  "text": "A II. János Pál pápának szentelt katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.603143,
+                        -2.155137
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostés",
+                  "text": "Egy helyi pünkösdi gyülekezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.575077,
+                        -2.131987
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Pedro Apóstol",
+                  "text": "A Szent Péter apostolnak szentelt katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.504109,
+                        -2.111964
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Vicente Ferrer | Roberto Astudillo",
+                  "text": "A Ferrer Szent Vincének szentelt katolikus templom Roberto Astudillo-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.518259,
+                        -2.183173
+                  ]
+            },
+            {
+                  "name": "Ermita de San Juan de la Cruz",
+                  "text": "A Keresztes Szent Jánosnak szentelt békés remetelak.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.558415,
+                        -2.149948
+                  ]
+            },
+            {
+                  "name": "Gruta de la Virgen del Carmen",
+                  "text": "A Kármelhegyi Szűzanyának szentelt vallási barlang.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.559379,
+                        -2.150384
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Pedro",
+                  "text": "Egy kis katolikus kápolna, amelyet Szent Péternek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.584703,
+                        -2.13485
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista y Santa Madre Teresa de Calcuta",
+                  "text": "Egy katolikus templom, amelyet Keresztelő Szent Jánosnak és Kalkuttai Teréz anyának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.581985,
+                        -2.151172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de 5 de Junio",
+                  "text": "A június 5-i történelmi dátumnak emléket állító katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.618247,
+                        -2.183081
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi közösségének Királyság-terme.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.59472,
+                        -2.142323
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua, Milagro",
+                  "text": "A Páduai Szent Antalnak szentelt katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.591082,
+                        -2.137748
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Rosario de Agua Santa",
+                  "text": "A Szenteltvíz Rózsafüzér Királynőjét tisztelő katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.596448,
+                        -2.12228
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Ninfa",
+                  "text": "A Szent Ninfa tiszteletére szentelt katolikus kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.586368,
+                        -2.1331
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo del Consuelo - Parroquia San Juan XXIII",
+                  "text": "A Vigasztaló Krisztus katolikus temploma a XXIII. János pápa plébánián.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.587087,
+                        -2.12345
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de Fátima",
+                  "text": "A Fatimai Szűzanyának szentelt katolikus kápolna.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.580898,
+                        -2.118498
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Las Lajas | Milagro",
+                  "text": "A Las Lajas-i Szűzanyát tisztelő katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.577534,
+                        -2.124447
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Martín de Porres | Milagro",
+                  "text": "A perui szerzetesnek, Porres Szent Mártonnak szentelt katolikus templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.595148,
+                        -2.134952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Julio Viteri Gamboa",
+                  "text": "Acest muzeu acoperit găzduiește artefacte regionale și colecții istorice care păstrează moștenirea locală.",
+                  "category": "museum",
+                  "coords": [
+                        -79.601126,
+                        -2.133895
+                  ]
+            },
+            {
+                  "name": "Casa de PETITA",
+                  "text": "O reședință locală excentrică, asemănătoare unui castel, care iese în evidență prin arhitectura sa distinctă din piatră în stil de fortăreață.",
+                  "category": "castle",
+                  "coords": [
+                        -79.59867,
+                        -2.133628
+                  ]
+            },
+            {
+                  "name": "Monumento a la Piña",
+                  "text": "Această sculptură publică mare reprezentând un ananas simbolizează cu mândrie statutul orașului de centru agricol major pentru acest fruct.",
+                  "category": "historical",
+                  "coords": [
+                        -79.608217,
+                        -2.167061
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "O sculptură vibrantă și stilizată a unei păsări colibri, care onorează bogata biodiversitate aviară a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -79.584816,
+                        -2.138854
+                  ]
+            },
+            {
+                  "name": "Monumento a la Guitarra",
+                  "text": "Această sculptură uriașă de chitară în aer liber reprezintă un tribut creativ adus tradițiilor muzicale vibrante ale comunității locale.",
+                  "category": "historical",
+                  "coords": [
+                        -79.592819,
+                        -2.134058
+                  ]
+            },
+            {
+                  "name": "El velero",
+                  "text": "Acest monument local are forma unei bărci cu pânze.",
+                  "category": "historical",
+                  "coords": [
+                        -79.58942,
+                        -2.13169
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Espíritu Santo",
+                  "text": "O biserică catolică închinată Sfântului Duh.",
+                  "category": "religious",
+                  "coords": [
+                        -79.574939,
+                        -2.13339
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "Un lăcaș de cult local pentru credința gnostică.",
+                  "category": "religious",
+                  "coords": [
+                        -79.596152,
+                        -2.127409
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo De los Santos de los Últimos Días",
+                  "text": "O casă de întruniri a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "religious",
+                  "coords": [
+                        -79.590417,
+                        -2.132149
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O biserică locală care deservește comunitatea din jur.",
+                  "category": "religious",
+                  "coords": [
+                        -79.579257,
+                        -2.123149
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica Nueva Vida",
+                  "text": "O biserică biblică care poartă numele Viață Nouă.",
+                  "category": "religious",
+                  "coords": [
+                        -79.604524,
+                        -2.137749
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza",
+                  "text": "Un lăcaș de cult aparținând bisericii Alianței.",
+                  "category": "religious",
+                  "coords": [
+                        -79.58927,
+                        -2.1297
+                  ]
+            },
+            {
+                  "name": "Mercado La Dolorosa",
+                  "text": "O piață locală cunoscută sub numele de La Dolorosa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.590419,
+                        -2.126942
+                  ]
+            },
+            {
+                  "name": "Proximo Mercado Mayorista",
+                  "text": "O zonă desemnată pentru o viitoare piață cu ridicata.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.60906,
+                        -2.163428
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "O piață cu ridicata plină de viață.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.591693,
+                        -2.145842
+                  ]
+            },
+            {
+                  "name": "Complejo La Pradera ",
+                  "text": "Un complex de agrement cunoscut sub numele de La Pradera.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.568285,
+                        -2.114129
+                  ]
+            },
+            {
+                  "name": "Club Nacional",
+                  "text": "O atracție locală aparținând Clubului Național.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.556287,
+                        -2.158789
+                  ]
+            },
+            {
+                  "name": "Las cataratas",
+                  "text": "O atracție naturală cu cascade în trepte.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.529647,
+                        -2.119384
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Pablo II - Milagro",
+                  "text": "O biserică catolică dedicată Papei Ioan Paul al II-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.603143,
+                        -2.155137
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostés",
+                  "text": "O biserică penticostală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.575077,
+                        -2.131987
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Pedro Apóstol",
+                  "text": "O biserică catolică închinată Sfântului Apostol Petru.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.504109,
+                        -2.111964
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Vicente Ferrer | Roberto Astudillo",
+                  "text": "O biserică catolică dedicată Sfântului Vincențiu Ferrer în Roberto Astudillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.518259,
+                        -2.183173
+                  ]
+            },
+            {
+                  "name": "Ermita de San Juan de la Cruz",
+                  "text": "Un schit liniștit dedicat Sfântului Ioan al Crucii.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.558415,
+                        -2.149948
+                  ]
+            },
+            {
+                  "name": "Gruta de la Virgen del Carmen",
+                  "text": "O grotă religioasă dedicată Fecioarei de pe Muntele Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.559379,
+                        -2.150384
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Pedro",
+                  "text": "O mică capelă catolică închinată Sfântului Petru.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.584703,
+                        -2.13485
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista y Santa Madre Teresa de Calcuta",
+                  "text": "O biserică catolică dedicată atât Sfântului Ioan Botezătorul, cât și Maicii Tereza de Calcutta.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.581985,
+                        -2.151172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de 5 de Junio",
+                  "text": "O biserică catolică care comemorează data istorică de 5 iunie.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.618247,
+                        -2.183081
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului folosită de comunitatea Martorilor lui Iehova.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.59472,
+                        -2.142323
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua, Milagro",
+                  "text": "O biserică catolică închinată Sfântului Anton de Padova.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.591082,
+                        -2.137748
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Rosario de Agua Santa",
+                  "text": "O biserică catolică care o venerează pe Maica Domnului a Rozariului de Apă Sfântă.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.596448,
+                        -2.12228
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Ninfa",
+                  "text": "O capelă catolică dedicată venerației Sfintei Ninfa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.586368,
+                        -2.1331
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo del Consuelo - Parroquia San Juan XXIII",
+                  "text": "O biserică catolică a lui Hristos al Mângâierii din parohia Sfântul Ioan al XXIII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.587087,
+                        -2.12345
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de Fátima",
+                  "text": "O capelă catolică dedicată Maicii Domnului de la Fatima.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.580898,
+                        -2.118498
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Las Lajas | Milagro",
+                  "text": "O biserică catolică care o onorează pe Maica Domnului din Las Lajas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.577534,
+                        -2.124447
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Martín de Porres | Milagro",
+                  "text": "O biserică catolică dedicată călugărului peruvian Sfântul Martin de Porres.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.595148,
+                        -2.134952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Julio Viteri Gamboa",
+                  "text": "This indoor museum houses regional artifacts and historical collections preserving the local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -79.601126,
+                        -2.133895
+                  ]
+            },
+            {
+                  "name": "Casa de PETITA",
+                  "text": "An eccentric, castle-like local residence standing out with its distinctive fortress-style stone architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -79.59867,
+                        -2.133628
+                  ]
+            },
+            {
+                  "name": "Monumento a la Piña",
+                  "text": "This large public sculpture of a pineapple proudly represents the city's status as a major agricultural hub for the fruit.",
+                  "category": "historical",
+                  "coords": [
+                        -79.608217,
+                        -2.167061
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "A vibrant, stylized sculpture of a hummingbird that honors the rich avian biodiversity of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -79.584816,
+                        -2.138854
+                  ]
+            },
+            {
+                  "name": "Monumento a la Guitarra",
+                  "text": "This giant outdoor guitar sculpture stands as a creative tribute to the vibrant musical traditions of the local community.",
+                  "category": "historical",
+                  "coords": [
+                        -79.592819,
+                        -2.134058
+                  ]
+            },
+            {
+                  "name": "El velero",
+                  "text": "This local monument is shaped like a sailboat.",
+                  "category": "historical",
+                  "coords": [
+                        -79.58942,
+                        -2.13169
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Espíritu Santo",
+                  "text": "A Catholic church dedicated to the Holy Spirit.",
+                  "category": "religious",
+                  "coords": [
+                        -79.574939,
+                        -2.13339
+                  ]
+            },
+            {
+                  "name": "Gnosis",
+                  "text": "A local place of worship for the Gnostic faith.",
+                  "category": "religious",
+                  "coords": [
+                        -79.596152,
+                        -2.127409
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo De los Santos de los Últimos Días",
+                  "text": "A meetinghouse of the Church of Jesus Christ of Latter-day Saints.",
+                  "category": "religious",
+                  "coords": [
+                        -79.590417,
+                        -2.132149
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A local church serving the surrounding community.",
+                  "category": "religious",
+                  "coords": [
+                        -79.579257,
+                        -2.123149
+                  ]
+            },
+            {
+                  "name": "Iglesia Biblica Nueva Vida",
+                  "text": "A Biblical church carrying the name New Life.",
+                  "category": "religious",
+                  "coords": [
+                        -79.604524,
+                        -2.137749
+                  ]
+            },
+            {
+                  "name": "Iglesia Alianza",
+                  "text": "A place of worship belonging to the Alliance church.",
+                  "category": "religious",
+                  "coords": [
+                        -79.58927,
+                        -2.1297
+                  ]
+            },
+            {
+                  "name": "Mercado La Dolorosa",
+                  "text": "A local marketplace known as La Dolorosa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.590419,
+                        -2.126942
+                  ]
+            },
+            {
+                  "name": "Proximo Mercado Mayorista",
+                  "text": "A designated area for a future wholesale marketplace.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.60906,
+                        -2.163428
+                  ]
+            },
+            {
+                  "name": "Mercado Mayorista",
+                  "text": "A bustling wholesale marketplace.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.591693,
+                        -2.145842
+                  ]
+            },
+            {
+                  "name": "Complejo La Pradera ",
+                  "text": "A recreational complex known as La Pradera.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.568285,
+                        -2.114129
+                  ]
+            },
+            {
+                  "name": "Club Nacional",
+                  "text": "A local attraction belonging to the National Club.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.556287,
+                        -2.158789
+                  ]
+            },
+            {
+                  "name": "Las cataratas",
+                  "text": "A natural attraction featuring cascading waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.529647,
+                        -2.119384
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Pablo II - Milagro",
+                  "text": "A Catholic church dedicated to Pope John Paul II.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.603143,
+                        -2.155137
+                  ]
+            },
+            {
+                  "name": "Iglesia Pentecostés",
+                  "text": "A local Pentecostal church.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.575077,
+                        -2.131987
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Pedro Apóstol",
+                  "text": "A Catholic church dedicated to St. Peter the Apostle.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.504109,
+                        -2.111964
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Vicente Ferrer | Roberto Astudillo",
+                  "text": "A Catholic church dedicated to St. Vincent Ferrer in Roberto Astudillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.518259,
+                        -2.183173
+                  ]
+            },
+            {
+                  "name": "Ermita de San Juan de la Cruz",
+                  "text": "A peaceful hermitage dedicated to St. John of the Cross.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.558415,
+                        -2.149948
+                  ]
+            },
+            {
+                  "name": "Gruta de la Virgen del Carmen",
+                  "text": "A religious grotto dedicated to the Virgin of Mount Carmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.559379,
+                        -2.150384
+                  ]
+            },
+            {
+                  "name": "Capilla Católica San Pedro",
+                  "text": "A small Catholic chapel dedicated to St. Peter.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.584703,
+                        -2.13485
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Juan Bautista y Santa Madre Teresa de Calcuta",
+                  "text": "A Catholic church uniquely dedicated to both St. John the Baptist and Mother Teresa of Calcutta.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.581985,
+                        -2.151172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica de 5 de Junio",
+                  "text": "A Catholic church commemorating the historical date of June 5th.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.618247,
+                        -2.183081
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Kingdom Hall used by the Jehovah's Witnesses community.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.59472,
+                        -2.142323
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua, Milagro",
+                  "text": "A Catholic church dedicated to St. Anthony of Padua.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.591082,
+                        -2.137748
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora del Rosario de Agua Santa",
+                  "text": "A Catholic church venerating Our Lady of the Rosary of Holy Water.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.596448,
+                        -2.12228
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Ninfa",
+                  "text": "A Catholic chapel dedicated to the veneration of St. Ninfa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.586368,
+                        -2.1331
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Cristo del Consuelo - Parroquia San Juan XXIII",
+                  "text": "A Catholic church of Christ of Consolation in the St. John XXIII parish.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.587087,
+                        -2.12345
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Nuestra Señora de Fátima",
+                  "text": "A Catholic chapel devoted to Our Lady of Fatima.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.580898,
+                        -2.118498
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Nuestra Señora de Las Lajas | Milagro",
+                  "text": "A Catholic church honoring Our Lady of Las Lajas.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.577534,
+                        -2.124447
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Martín de Porres | Milagro",
+                  "text": "A Catholic church dedicated to the Peruvian friar St. Martin de Porres.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.595148,
+                        -2.134952
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-G",
     coords: [-79.591, -2.133],
@@ -1178,7 +19466,232 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "ecuasal-salzproduktion-economic-v2",
+    id: "ecuasal-salzproduktion-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punta Carnero",
+                  "text": "Ein Aussichtspunkt an der Küste mit weitem Blick über den Sandstrand von Punta Carnero Beach.",
+                  "category": "natural",
+                  "coords": [
+                        -80.922954,
+                        -2.273808
+                  ]
+            },
+            {
+                  "name": "Pozos de sal EcuaSal",
+                  "text": "Eine industrielle Sehenswürdigkeit mit weitläufigen Verdunstungsteichen für die Salzgewinnung bei EcuaSal.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.962517,
+                        -2.230503
+                  ]
+            },
+            {
+                  "name": "Achaílan",
+                  "text": "Ein markanter Berggipfel namens Achaílan, der die Küstenregion der Salzgewinnung überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -80.899998,
+                        -2.266668
+                  ]
+            },
+            {
+                  "name": "Salon de Reino",
+                  "text": "Eine lokale Andachtsstätte für die Gemeinde der Zeugen Jehovas in der Nähe der Salzebenen.",
+                  "category": "religious",
+                  "coords": [
+                        -80.934108,
+                        -2.229478
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Ana",
+                  "text": "Eine katholisch-christliche Kapelle, die Santa Ana in der Nähe der Salzgewinnungsgebiete gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.937711,
+                        -2.223851
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rosa",
+                  "text": "Eine katholisch-christliche Kirche, die Santa Rosa gewidmet ist und der örtlichen Küstengemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.948275,
+                        -2.211677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punta Carnero",
+                  "text": "Tengerparti kilátó, amely kiterjedt kilátást nyújt a Punta Carnero strand homokos szakaszára.",
+                  "category": "natural",
+                  "coords": [
+                        -80.922954,
+                        -2.273808
+                  ]
+            },
+            {
+                  "name": "Pozos de sal EcuaSal",
+                  "text": "Ipari látványosság az EcuaSal sótermelését szolgáló kiterjedt párologtató medencékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.962517,
+                        -2.230503
+                  ]
+            },
+            {
+                  "name": "Achaílan",
+                  "text": "Egy kiemelkedő hegycsúcs, az Achaílan, amely a tengerparti sótermelő régióra néz.",
+                  "category": "natural",
+                  "coords": [
+                        -80.899998,
+                        -2.266668
+                  ]
+            },
+            {
+                  "name": "Salon de Reino",
+                  "text": "A Jehova Tanúi közösségét szolgáló helyi imahely a sómezők közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -80.934108,
+                        -2.229478
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Ana",
+                  "text": "A Santa Anának szentelt katolikus keresztény kápolna a sótermelő területek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.937711,
+                        -2.223851
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rosa",
+                  "text": "A helyi tengerparti közösséget szolgáló, Santa Rosának szentelt katolikus keresztény templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.948275,
+                        -2.211677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punta Carnero",
+                  "text": "Un punct de belvedere de coastă care oferă vederi extinse asupra întinderii nisipoase a plajei Punta Carnero.",
+                  "category": "natural",
+                  "coords": [
+                        -80.922954,
+                        -2.273808
+                  ]
+            },
+            {
+                  "name": "Pozos de sal EcuaSal",
+                  "text": "O atracție industrială cu bazine extinse de evaporare pentru producția de sare la EcuaSal.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.962517,
+                        -2.230503
+                  ]
+            },
+            {
+                  "name": "Achaílan",
+                  "text": "Un vârf de munte proeminent cunoscut sub numele de Achaílan, care domină regiunea de coastă de producție a sării.",
+                  "category": "natural",
+                  "coords": [
+                        -80.899998,
+                        -2.266668
+                  ]
+            },
+            {
+                  "name": "Salon de Reino",
+                  "text": "Un lăcaș de cult local care deservește comunitatea Martorilor lui Iehova de lângă saline.",
+                  "category": "religious",
+                  "coords": [
+                        -80.934108,
+                        -2.229478
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Ana",
+                  "text": "O capelă creștină catolică închinată Sfintei Ana, lângă zonele de producție a sării.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.937711,
+                        -2.223851
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rosa",
+                  "text": "O biserică creștină catolică dedicată Sfintei Rosa, care deservește comunitatea de coastă locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.948275,
+                        -2.211677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punta Carnero Beach",
+                  "text": "A coastal viewpoint offering expansive views over the sandy stretch of Punta Carnero Beach.",
+                  "category": "natural",
+                  "coords": [
+                        -80.922954,
+                        -2.273808
+                  ]
+            },
+            {
+                  "name": "Pozos de sal EcuaSal",
+                  "text": "An industrial attraction featuring expansive evaporation ponds for salt production at EcuaSal.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.962517,
+                        -2.230503
+                  ]
+            },
+            {
+                  "name": "Achaílan",
+                  "text": "A prominent mountain peak known as Achaílan overlooking the coastal salt production region.",
+                  "category": "natural",
+                  "coords": [
+                        -80.899998,
+                        -2.266668
+                  ]
+            },
+            {
+                  "name": "Kingdom Hall of Jehovah's Witnesses",
+                  "text": "A local place of worship serving the Jehovah's Witnesses community near the salt flats.",
+                  "category": "religious",
+                  "coords": [
+                        -80.934108,
+                        -2.229478
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Santa Ana",
+                  "text": "A Catholic Christian chapel dedicated to Santa Ana near the salt production areas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.937711,
+                        -2.223851
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rosa",
+                  "text": "A Catholic Christian church dedicated to Santa Rosa serving the local coastal community.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.948275,
+                        -2.211677
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-Y",
     coords: [-80.952, -2.218],
@@ -1226,7 +19739,448 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "puerto-de-provincia-de-el-oro-economic-v2",
+    id: "puerto-de-provincia-de-el-oro-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "muelle tres",
+                  "text": "Diese Attraktion ist der dritte Pier am Hafen in der Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.001682,
+                        -3.261122
+                  ]
+            },
+            {
+                  "name": "Muelle 2",
+                  "text": "Pier 2 ist eine Hafenattraktion im Hafengebiet der Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002698,
+                        -3.261444
+                  ]
+            },
+            {
+                  "name": "Muelle 4",
+                  "text": "Dieser vierte Pier dient als lokale maritime Attraktion in der Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.001477,
+                        -3.258759
+                  ]
+            },
+            {
+                  "name": "Autoridad portuaria",
+                  "text": "Das Gebäude der Hafenbehörde ist ein wichtiger maritimer Knotenpunkt und eine Attraktion in der Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.996796,
+                        -3.262833
+                  ]
+            },
+            {
+                  "name": "Martha Mendez",
+                  "text": "Dieses Martha Mendez zu Ehren errichtete Denkmal ist eine bemerkenswerte Gedenkstätte in der Provincia de El Oro.",
+                  "category": "historical",
+                  "coords": [
+                        -80.001301,
+                        -3.270279
+                  ]
+            },
+            {
+                  "name": "Puerto de la Isla",
+                  "text": "Der Inselhafen dient als Küstenattraktion in der Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.048408,
+                        -3.242499
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Ecuatoriana",
+                  "text": "Das ecuadorianische Kulturhaus fungiert als wichtiges Kunstzentrum in der Provincia de El Oro.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.004297,
+                        -3.269607
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Rosario",
+                  "text": "Diese katholisch-christliche Kapelle ist der Rosenkranzkönigin in der Provincia de El Oro gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986036,
+                        -3.254267
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Templo Faro",
+                  "text": "Der Leuchtturm-Tempel ist eine markante katholisch-christliche Kirche in der Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002529,
+                        -3.268542
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "Dieser Königreichssaal der Zeugen Jehovas ist eine Kultstätte in der Provincia de El Oro.",
+                  "category": "religious",
+                  "coords": [
+                        -79.993122,
+                        -3.259234
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Diese christliche Kirche der Heiligen der Letzten Tage bietet einen Treffpunkt in der Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002297,
+                        -3.27115
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen de El Cisne",
+                  "text": "Diese katholisch-christliche Kapelle, die der Jungfrau von El Cisne gewidmet ist, befindet sich in der Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.997723,
+                        -3.266516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "muelle tres",
+                  "text": "Ez a látványosság a harmadik móló a Provincia de El Oro kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.001682,
+                        -3.261122
+                  ]
+            },
+            {
+                  "name": "Muelle 2",
+                  "text": "A 2-es móló egy vízparti látványosság Provincia de El Oro kikötőnegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002698,
+                        -3.261444
+                  ]
+            },
+            {
+                  "name": "Muelle 4",
+                  "text": "Ez a negyedik móló helyi tengeri látványosságként szolgál Provincia de El Oro tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.001477,
+                        -3.258759
+                  ]
+            },
+            {
+                  "name": "Autoridad portuaria",
+                  "text": "A kikötői hatóság épülete egy fontos tengeri csomópont és látványosság Provincia de El Oro tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.996796,
+                        -3.262833
+                  ]
+            },
+            {
+                  "name": "Martha Mendez",
+                  "text": "Ez a Martha Mendez tiszteletére emelt emlékmű egy figyelemre méltó emlékhely Provincia de El Oro tartományban.",
+                  "category": "historical",
+                  "coords": [
+                        -80.001301,
+                        -3.270279
+                  ]
+            },
+            {
+                  "name": "Puerto de la Isla",
+                  "text": "A szigeti kikötő tengerparti látványosságként szolgál Provincia de El Oro tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.048408,
+                        -3.242499
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Ecuatoriana",
+                  "text": "Az Ecuadori Kultúra Háza fontos művészeti központként működik Provincia de El Oro tartományban.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.004297,
+                        -3.269607
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Rosario",
+                  "text": "Ezt a katolikus keresztény kápolnát a Rózsafüzér Szűzanyának szentelték Provincia de El Oro tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986036,
+                        -3.254267
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Templo Faro",
+                  "text": "A világítótorony-templom egy különleges katolikus keresztény templom Provincia de El Oro tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002529,
+                        -3.268542
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "Ez Jehova Tanúi Királyság-terme egy istentiszteleti hely Provincia de El Oro tartományban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.993122,
+                        -3.259234
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ez az Utolsó Napi Szentek keresztény temploma gyülekezési helyet kínál Provincia de El Oro tartományban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002297,
+                        -3.27115
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen de El Cisne",
+                  "text": "Ez az El Cisne-i Szűznek szentelt katolikus keresztény kápolna Provincia de El Oro tartományban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.997723,
+                        -3.266516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "muelle tres",
+                  "text": "Această atracție este al treilea debarcader situat în portul din Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.001682,
+                        -3.261122
+                  ]
+            },
+            {
+                  "name": "Muelle 2",
+                  "text": "Debarcaderul 2 este o atracție pe malul apei situată în zona portuară din Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002698,
+                        -3.261444
+                  ]
+            },
+            {
+                  "name": "Muelle 4",
+                  "text": "Acest al patrulea debarcader servește drept atracție maritimă locală în Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.001477,
+                        -3.258759
+                  ]
+            },
+            {
+                  "name": "Autoridad portuaria",
+                  "text": "Clădirea Autorității Portuare este un important nod maritim și o atracție în Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.996796,
+                        -3.262833
+                  ]
+            },
+            {
+                  "name": "Martha Mendez",
+                  "text": "Acest monument în cinstea Marthei Mendez este un loc de memorializare notabil din Provincia de El Oro.",
+                  "category": "historical",
+                  "coords": [
+                        -80.001301,
+                        -3.270279
+                  ]
+            },
+            {
+                  "name": "Puerto de la Isla",
+                  "text": "Portul insulei servește drept atracție de coastă în Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.048408,
+                        -3.242499
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Ecuatoriana",
+                  "text": "Casa de Cultură Ecuadoriană funcționează ca un important centru de arte din Provincia de El Oro.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.004297,
+                        -3.269607
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Rosario",
+                  "text": "Această capelă creștină catolică este dedicată Fecioarei Rozariului în Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986036,
+                        -3.254267
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Templo Faro",
+                  "text": "Templul far este o biserică creștină catolică distinctă din Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002529,
+                        -3.268542
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "Această Sală a Regatului a Martorilor lui Iehova este un lăcaș de cult situat în Provincia de El Oro.",
+                  "category": "religious",
+                  "coords": [
+                        -79.993122,
+                        -3.259234
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Această biserică creștină a Sfinților din Zilele din Urmă oferă un loc de adunare în Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002297,
+                        -3.27115
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen de El Cisne",
+                  "text": "Această capelă creștină catolică dedicată Fecioarei de la El Cisne este situată în Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.997723,
+                        -3.266516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "muelle tres",
+                  "text": "This attraction is the third pier located at the port in Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.001682,
+                        -3.261122
+                  ]
+            },
+            {
+                  "name": "Muelle 2",
+                  "text": "Pier 2 is a waterfront attraction situated in the port area of Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002698,
+                        -3.261444
+                  ]
+            },
+            {
+                  "name": "Muelle 4",
+                  "text": "This fourth pier serves as a local maritime attraction in Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.001477,
+                        -3.258759
+                  ]
+            },
+            {
+                  "name": "Autoridad portuaria",
+                  "text": "The Port Authority building is an important maritime hub and attraction in Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.996796,
+                        -3.262833
+                  ]
+            },
+            {
+                  "name": "Martha Mendez",
+                  "text": "This monument honoring Martha Mendez is a notable memorial site in Provincia de El Oro.",
+                  "category": "historical",
+                  "coords": [
+                        -80.001301,
+                        -3.270279
+                  ]
+            },
+            {
+                  "name": "Puerto de la Isla",
+                  "text": "The island port serves as a coastal attraction in Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.048408,
+                        -3.242499
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Ecuatoriana",
+                  "text": "The Ecuadorian House of Culture operates as an important arts center in Provincia de El Oro.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.004297,
+                        -3.269607
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen del Rosario",
+                  "text": "This Catholic Christian chapel is dedicated to the Virgin of the Rosary in Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986036,
+                        -3.254267
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Templo Faro",
+                  "text": "The lighthouse temple is a distinct Catholic Christian church in Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002529,
+                        -3.268542
+                  ]
+            },
+            {
+                  "name": "Salón del Reino Testigos de Jehová",
+                  "text": "This Jehovah's Witnesses Kingdom Hall is a place of worship located in Provincia de El Oro.",
+                  "category": "religious",
+                  "coords": [
+                        -79.993122,
+                        -3.259234
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-Day Saints",
+                  "text": "This Latter-Day Saints Christian church offers a place for gathering in Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.002297,
+                        -3.27115
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Virgen de El Cisne",
+                  "text": "This Catholic Christian chapel dedicated to the Virgin of El Cisne is situated in Provincia de El Oro.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.997723,
+                        -3.266516
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EC-O",
     coords: [-80.001, -3.265],
@@ -1274,7 +20228,628 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "general-tire-cuenca-economic-v2",
+    id: "general-tire-cuenca-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Las Tres Cruces de los trigales",
+                  "text": "Dieses Denkmal in den Weizenfeldern von Cuenca zeigt drei markante Kreuze, die lokale religiöse Traditionen widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        -78.991848,
+                        -2.870059
+                  ]
+            },
+            {
+                  "name": "Monumento HURTADO DE MENDOZA",
+                  "text": "Dieses öffentliche Denkmal erinnert an Hurtado de Mendoza und ehrt historische Persönlichkeiten, die mit der Gründungszeit von Cuenca in Verbindung stehen.",
+                  "category": "historical",
+                  "coords": [
+                        -78.977913,
+                        -2.883235
+                  ]
+            },
+            {
+                  "name": "Iglesia de Chamana",
+                  "text": "Diese lokale christliche Kirche im Gebiet Chamana von Cuenca dient als spiritueller Treffpunkt für die Landbewohner.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.003497,
+                        -2.847004
+                  ]
+            },
+            {
+                  "name": "Gruta de Perlas Pamba (Virgen del Cisne)",
+                  "text": "Eine religiöse Grotte in Perlas Pamba, die einen speziellen Schrein für Pilger bietet, die die Jungfrau von El Cisne ehren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.007143,
+                        -2.853604
+                  ]
+            },
+            {
+                  "name": "Iglesia de Rosas Loma de Sinincay",
+                  "text": "Diese hochgelegene christliche Kirche auf dem Hügel Rosas Loma in Sinincay bietet neben ihren Gottesdiensten auch eine malerische Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.002169,
+                        -2.851434
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tres Cruces de Sinincay",
+                  "text": "Diese spezielle Pfarrkirche in Sinincay ist nach den drei Kreuzen benannt und symbolisiert eine tief verwurzelte lokale katholische Hingabe.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.000401,
+                        -2.854664
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Hermano Miguel",
+                  "text": "Diese christliche Kirche ist ein Ort der Anbetung in Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.988464,
+                        -2.865062
+                  ]
+            },
+            {
+                  "name": "Santa Teresita",
+                  "text": "Diese der Santa Teresita gewidmete Kultstätte dient der Gemeinde von Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.996587,
+                        -2.852007
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Cuenca Central",
+                  "text": "Diese zentrale apostolisch-evangelische Kultstätte befindet sich in Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.979105,
+                        -2.881628
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo de Totoracocha",
+                  "text": "Diese christliche Kirche befindet sich im Viertel Totoracocha von Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978044,
+                        -2.891262
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Diese evangelisch-christliche Kirche bietet einen Versammlungsort für Gläubige in Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.981732,
+                        -2.884947
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Pablo II - La Católica",
+                  "text": "Diese Johannes Paul II. gewidmete katholisch-christliche Kirche befindet sich in Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.987374,
+                        -2.879928
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Orquídeas Altas Bajas",
+                  "text": "Dieser Königreichssaal der Zeugen Jehovas dient dem Gebiet Orquídeas Altas Bajas von Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.985039,
+                        -2.865741
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Lourdes",
+                  "text": "Diese der Muttergottes von Lourdes gewidmete christliche Kirche ist eine religiöse Stätte in Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.979498,
+                        -2.879521
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Totoracocha Norte Oeste Este",
+                  "text": "Dieser Königreichssaal der Zeugen Jehovas bietet einen Ort der Anbetung im Gebiet Totoracocha von Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980702,
+                        -2.889703
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de La Inmaculada de Visorrey",
+                  "text": "Diese christliche Kapelle, die der Jungfrau der Unbefleckten Empfängnis gewidmet ist, befindet sich im Gebiet Visorrey von Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.983958,
+                        -2.874526
+                  ]
+            },
+            {
+                  "name": "Camal Municipal",
+                  "text": "Dieser städtische Marktplatz erleichtert den lokalen Handel in Cuenca.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.980345,
+                        -2.864821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Las Tres Cruces de los trigales",
+                  "text": "A cuencai búzamezők területén található emlékmű három kiemelkedő keresztet mutat be, amelyek a helyi vallási hagyományokat tükrözik.",
+                  "category": "historical",
+                  "coords": [
+                        -78.991848,
+                        -2.870059
+                  ]
+            },
+            {
+                  "name": "Monumento HURTADO DE MENDOZA",
+                  "text": "Ez a köztéri emlékmű Hurtado de Mendoza emléket őrzi, tisztelegve a Cuenca alapítási korszakához kapcsolódó történelmi személyiségek előtt.",
+                  "category": "historical",
+                  "coords": [
+                        -78.977913,
+                        -2.883235
+                  ]
+            },
+            {
+                  "name": "Iglesia de Chamana",
+                  "text": "Ez a helyi keresztény templom a cuencai Chamana térségében a vidéki lakosok spirituális találkozási pontjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.003497,
+                        -2.847004
+                  ]
+            },
+            {
+                  "name": "Gruta de Perlas Pamba (Virgen del Cisne)",
+                  "text": "Egy vallási barlang Perlas Pambában, amely külön szentélyt biztosít az El Cisne-i Szűzanyát tisztelő zarándokok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.007143,
+                        -2.853604
+                  ]
+            },
+            {
+                  "name": "Iglesia de Rosas Loma de Sinincay",
+                  "text": "A sinincayi Rosas Loma dombon található magaslati keresztény templom a vallási szertartások mellett festői kilátást is nyújt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.002169,
+                        -2.851434
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tres Cruces de Sinincay",
+                  "text": "Ez a különleges sinincayi plébániatemplom a három keresztről kapta a nevét, ami a mélyen gyökerező helyi katolikus áhítatot szimbolizálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.000401,
+                        -2.854664
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Hermano Miguel",
+                  "text": "Ez a keresztény templom egy istentiszteleti hely Cuenca városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.988464,
+                        -2.865062
+                  ]
+            },
+            {
+                  "name": "Santa Teresita",
+                  "text": "Ez a Santa Teresitának szentelt istentiszteleti hely Cuenca közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -78.996587,
+                        -2.852007
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Cuenca Central",
+                  "text": "Ez a központi apostoli evangéliumi istentiszteleti hely Cuenca városában található.",
+                  "category": "religious",
+                  "coords": [
+                        -78.979105,
+                        -2.881628
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo de Totoracocha",
+                  "text": "Ez a keresztény templom Cuenca Totoracocha negyedében található.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978044,
+                        -2.891262
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Ez az evangéliumi keresztény templom gyülekezési helyet biztosít a hívőknek Cuenca városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.981732,
+                        -2.884947
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Pablo II - La Católica",
+                  "text": "Ez a II. János Pálnak szentelt katolikus keresztény templom Cuenca városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.987374,
+                        -2.879928
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Orquídeas Altas Bajas",
+                  "text": "Ez Jehova Tanúi Királyság-terme Cuenca Orquídeas Altas Bajas negyedét szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        -78.985039,
+                        -2.865741
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Lourdes",
+                  "text": "Ez a Lourdes-i Miasszonyunknak szentelt keresztény templom egy vallási helyszín Cuenca városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.979498,
+                        -2.879521
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Totoracocha Norte Oeste Este",
+                  "text": "Ez Jehova Tanúi Királyság-terme istentiszteleti helyet biztosít Cuenca Totoracocha területén.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980702,
+                        -2.889703
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de La Inmaculada de Visorrey",
+                  "text": "Ez a Szeplőtelen Fogantatás Szűzének szentelt keresztény kápolna Cuenca Visorrey nevű részén található.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.983958,
+                        -2.874526
+                  ]
+            },
+            {
+                  "name": "Camal Municipal",
+                  "text": "Ez az önkormányzati piac elősegíti a helyi kereskedelmet Cuenca városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.980345,
+                        -2.864821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Las Tres Cruces de los trigales",
+                  "text": "Amplasat în zonele cu lanuri de grâu din Cuenca, acest monument prezintă trei cruci proeminente care reflectă tradițiile religioase locale.",
+                  "category": "historical",
+                  "coords": [
+                        -78.991848,
+                        -2.870059
+                  ]
+            },
+            {
+                  "name": "Monumento HURTADO DE MENDOZA",
+                  "text": "Acest monument public îl comemorează pe Hurtado de Mendoza, onorând figuri istorice asociate cu epoca fondării orașului Cuenca.",
+                  "category": "historical",
+                  "coords": [
+                        -78.977913,
+                        -2.883235
+                  ]
+            },
+            {
+                  "name": "Iglesia de Chamana",
+                  "text": "Această biserică creștină locală din zona Chamana a orașului Cuenca servește ca punct de adunare spirituală pentru rezidenții din mediul rural.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.003497,
+                        -2.847004
+                  ]
+            },
+            {
+                  "name": "Gruta de Perlas Pamba (Virgen del Cisne)",
+                  "text": "O grotă religioasă în Perlas Pamba care oferă un spațiu de altar dedicat pelerinilor care o onorează pe Fecioara din El Cisne.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.007143,
+                        -2.853604
+                  ]
+            },
+            {
+                  "name": "Iglesia de Rosas Loma de Sinincay",
+                  "text": "Situată pe dealul Rosas Loma din Sinincay, această biserică creștină ridicată oferă vederi pitorești alături de serviciile sale religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.002169,
+                        -2.851434
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tres Cruces de Sinincay",
+                  "text": "Această biserică parohială specifică din Sinincay poartă numele celor trei cruci, simbolizând o devoțiune catolică locală profund înrădăcinată.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.000401,
+                        -2.854664
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Hermano Miguel",
+                  "text": "Această biserică creștină este un lăcaș de cult situat în Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.988464,
+                        -2.865062
+                  ]
+            },
+            {
+                  "name": "Santa Teresita",
+                  "text": "Acest lăcaș de cult dedicat Sfintei Tereza servește comunitatea din Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.996587,
+                        -2.852007
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Cuenca Central",
+                  "text": "Acest lăcaș de cult evanghelic apostolic central se află în Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.979105,
+                        -2.881628
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo de Totoracocha",
+                  "text": "Această biserică creștină este situată în cartierul Totoracocha din Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978044,
+                        -2.891262
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Această biserică creștină evanghelică oferă un loc de adunare pentru credincioșii din Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.981732,
+                        -2.884947
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Pablo II - La Católica",
+                  "text": "Această biserică creștină catolică dedicată Sfântului Ioan Paul al II-lea este situată în Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.987374,
+                        -2.879928
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Orquídeas Altas Bajas",
+                  "text": "Această Sală a Regatului a Martorilor lui Iehova deservește zona Orquídeas Altas Bajas din Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.985039,
+                        -2.865741
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Lourdes",
+                  "text": "Această biserică creștină dedicată Maicii Domnului de la Lourdes este un sit religios din Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.979498,
+                        -2.879521
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Totoracocha Norte Oeste Este",
+                  "text": "Această Sală a Regatului a Martorilor lui Iehova oferă un lăcaș de cult în zona Totoracocha din Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980702,
+                        -2.889703
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de La Inmaculada de Visorrey",
+                  "text": "Această capelă creștină dedicată Fecioarei Imaculatei Concepții este situată în zona Visorrey din Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.983958,
+                        -2.874526
+                  ]
+            },
+            {
+                  "name": "Camal Municipal",
+                  "text": "Această piață municipală facilitează comerțul local în Cuenca.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.980345,
+                        -2.864821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Las Tres Cruces de los trigales",
+                  "text": "Set in the wheatfield areas of Cuenca, this monument displays three prominent crosses reflecting local religious traditions.",
+                  "category": "historical",
+                  "coords": [
+                        -78.991848,
+                        -2.870059
+                  ]
+            },
+            {
+                  "name": "Monumento HURTADO DE MENDOZA",
+                  "text": "This public monument commemorates Hurtado de Mendoza, honoring historical figures associated with Cuenca's founding era.",
+                  "category": "historical",
+                  "coords": [
+                        -78.977913,
+                        -2.883235
+                  ]
+            },
+            {
+                  "name": "Iglesia de Chamana",
+                  "text": "This local Christian church in the Chamana area of Cuenca serves as a spiritual gathering point for rural residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.003497,
+                        -2.847004
+                  ]
+            },
+            {
+                  "name": "Gruta de Perlas Pamba (Virgen del Cisne)",
+                  "text": "A religious grotto in Perlas Pamba providing a dedicated shrine space for pilgrims honoring the Virgin of El Cisne.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.007143,
+                        -2.853604
+                  ]
+            },
+            {
+                  "name": "Iglesia de Rosas Loma de Sinincay",
+                  "text": "Located on the Rosas Loma hill in Sinincay, this elevated Christian church provides scenic views alongside its religious services.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.002169,
+                        -2.851434
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tres Cruces de Sinincay",
+                  "text": "This specific parish church in Sinincay is named after the three crosses, symbolizing a deep-rooted local Catholic devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.000401,
+                        -2.854664
+                  ]
+            },
+            {
+                  "name": "Iglesia Santo Hermano Miguel",
+                  "text": "This Christian church is a place of worship situated in Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.988464,
+                        -2.865062
+                  ]
+            },
+            {
+                  "name": "Santa Teresita",
+                  "text": "This place of worship dedicated to Santa Teresita serves the community of Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.996587,
+                        -2.852007
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica Apostólica del Nombre de Jesús - Cuenca Central",
+                  "text": "This central apostolic evangelical place of worship is located in Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.979105,
+                        -2.881628
+                  ]
+            },
+            {
+                  "name": "Iglesia San Pablo de Totoracocha",
+                  "text": "This Christian church is located in the Totoracocha neighborhood of Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.978044,
+                        -2.891262
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "This evangelical Christian church provides a gathering place for worshippers in Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.981732,
+                        -2.884947
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Pablo II - La Católica",
+                  "text": "This Catholic Christian church dedicated to John Paul II is situated in Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.987374,
+                        -2.879928
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Orquídeas Altas Bajas",
+                  "text": "This Jehovah's Witnesses Kingdom Hall serves the Orquídeas Altas Bajas area of Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.985039,
+                        -2.865741
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Lourdes",
+                  "text": "This Christian church dedicated to Our Lady of Lourdes is a religious site in Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.979498,
+                        -2.879521
+                  ]
+            },
+            {
+                  "name": "Salon del Reino Testigos de Jehová Totoracocha Norte Oeste Este",
+                  "text": "This Kingdom Hall of Jehovah's Witnesses provides a place of worship in the Totoracocha area of Cuenca.",
+                  "category": "religious",
+                  "coords": [
+                        -78.980702,
+                        -2.889703
+                  ]
+            },
+            {
+                  "name": "Capilla Virgen de La Inmaculada de Visorrey",
+                  "text": "This Christian chapel dedicated to the Virgin of the Immaculate Conception is located in the Visorrey area of Cuenca.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.983958,
+                        -2.874526
+                  ]
+            },
+            {
+                  "name": "Camal Municipal",
+                  "text": "This municipal marketplace facilitates local commerce in Cuenca.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.980345,
+                        -2.864821
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-A",
     coords: [-78.969, -2.875],
@@ -1322,7 +20897,52 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "pescanova-garnelenfarm-economic-v2",
+    id: "pescanova-garnelenfarm-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Refugio de Vida Silvestre Manglares El Morro",
+                  "text": "Ein Schutzgebiet mit Mangrovenwäldern, das Heimat einer großen Fregattvogel-Kolonie und von Delfinen ist.",
+                  "category": "natural",
+                  "coords": [
+                        -80.191872,
+                        -2.655864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Refugio de Vida Silvestre Manglares El Morro",
+                  "text": "Mangroveerdőkből álló védett terület, amely egy hatalmas fregattmadár-kolónia és delfinek otthona.",
+                  "category": "natural",
+                  "coords": [
+                        -80.191872,
+                        -2.655864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Refugio de Vida Silvestre Manglares El Morro",
+                  "text": "O zonă protejată cu păduri de mangrove, care găzduiește o colonie mare de păsări fregate și delfini.",
+                  "category": "natural",
+                  "coords": [
+                        -80.191872,
+                        -2.655864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Refugio de Vida Silvestre Manglares El Morro",
+                  "text": "A protected area of mangrove forests home to a large colony of frigatebirds and dolphins.",
+                  "category": "natural",
+                  "coords": [
+                        -80.191872,
+                        -2.655864
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-G",
     coords: [-80.123, -2.654],
@@ -1370,7 +20990,268 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     },
   },
   {
-    id: "ingenio-valdez-zuckerfabrik-economic-v2",
+    id: "ingenio-valdez-zuckerfabrik-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Jacinto de Yaguachi",
+                  "text": "Ein Denkmal zu Ehren von San Jacinto, das das starke historische und katholische Erbe des Kantons Yaguachi widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -79.695915,
+                        -2.093567
+                  ]
+            },
+            {
+                  "name": "taburetes",
+                  "text": "Ein einzigartiges öffentliches Denkmal in Yaguachi in Form von traditionellen Hockern (taburetes), das die lokale Alltagskultur feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -79.747689,
+                        -2.129992
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Cristo Rey",
+                  "text": "Eine kleine katholische Kapelle, die Christus, dem König, gewidmet ist und den Arbeitern und der Gemeinde in der Nähe der Zuckermühle Valdez dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.688083,
+                        -2.094707
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral Católica San Jacinto de Yaguachi",
+                  "text": "Eine bedeutende Basilica minor und Kathedrale in Yaguachi, die jährlich Tausende von Pilgern anzieht, um den Heiligen Hyazinth zu ehren.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.695331,
+                        -2.096362
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua | Cone",
+                  "text": "Eine katholische Kirche in der ländlichen Gemeinde Cone, die dem verehrten Franziskanermönch St. Antonius von Padua gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.648659,
+                        -2.168379
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rosa del Chobo",
+                  "text": "Eine ländliche katholische Kultstätte, die der Heiligen Rosa gewidmet ist und in der landwirtschaftlichen Gemeinde Chobo liegt.",
+                  "category": "religious",
+                  "coords": [
+                        -79.633887,
+                        -2.138941
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima",
+                  "text": "Eine katholische Kirche, die der Jungfrau von Fatima gewidmet ist und den Gläubigen in der Gegend von Yaguachi dient.",
+                  "category": "religious",
+                  "coords": [
+                        -79.637197,
+                        -2.192943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Jacinto de Yaguachi",
+                  "text": "A San Jacintót ábrázoló emlékmű, amely a Yaguachi kanton erős történelmi és katolikus örökségét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -79.695915,
+                        -2.093567
+                  ]
+            },
+            {
+                  "name": "taburetes",
+                  "text": "Egyedülálló köztéri emlékmű Yaguachiban, amely hagyományos hokedliket (taburetes) ábrázol, ünnepelve a helyi mindennapi kultúrát.",
+                  "category": "historical",
+                  "coords": [
+                        -79.747689,
+                        -2.129992
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Cristo Rey",
+                  "text": "Egy kis katolikus kápolna Krisztus Király tiszteletére, amely a Valdez cukorgyár melletti dolgozókat és közösséget szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.688083,
+                        -2.094707
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral Católica San Jacinto de Yaguachi",
+                  "text": "Egy jelentős basilica minor és székesegyház Yaguachiban, amely évente zarándokok ezreit vonzza Szent Jácint tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.695331,
+                        -2.096362
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua | Cone",
+                  "text": "Katolikus templom Cone vidéki plébániáján, amelyet a nagy tiszteletben álló ferences szerzetesnek, Páduai Szent Antalnak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.648659,
+                        -2.168379
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rosa del Chobo",
+                  "text": "Szent Róza tiszteletére emelt vidéki katolikus istentiszteleti hely, amely Chobo mezőgazdasági közösségében található.",
+                  "category": "religious",
+                  "coords": [
+                        -79.633887,
+                        -2.138941
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima",
+                  "text": "A Fatimai Szűzanyának szentelt katolikus templom, amely a Yaguachi környéki híveket szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        -79.637197,
+                        -2.192943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Jacinto de Yaguachi",
+                  "text": "Un monument în onoarea lui San Jacinto, reflectând puternica moștenire istorică și catolică a cantonului Yaguachi.",
+                  "category": "historical",
+                  "coords": [
+                        -79.695915,
+                        -2.093567
+                  ]
+            },
+            {
+                  "name": "taburetes",
+                  "text": "Un monument public unic în Yaguachi, având forma unor taburete tradiționale (taburetes), celebrând cultura locală de zi cu zi.",
+                  "category": "historical",
+                  "coords": [
+                        -79.747689,
+                        -2.129992
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Cristo Rey",
+                  "text": "O mică capelă catolică dedicată lui Hristos Regele, deservind muncitorii și comunitatea din apropierea fabricii de zahăr Valdez.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.688083,
+                        -2.094707
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral Católica San Jacinto de Yaguachi",
+                  "text": "O importantă bazilică minoră și catedrală din Yaguachi, atrăgând anual mii de pelerini pentru a-l onora pe Sfântul Iacint.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.695331,
+                        -2.096362
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua | Cone",
+                  "text": "O biserică catolică din parohia rurală Cone, dedicată veneratului călugăr franciscan Sfântul Anton de Padova.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.648659,
+                        -2.168379
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rosa del Chobo",
+                  "text": "Un lăcaș de cult catolic rural dedicat Sfintei Roza, situat în comunitatea agricolă din Chobo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.633887,
+                        -2.138941
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima",
+                  "text": "O biserică catolică dedicată Fecioarei din Fatima, deservind credincioșii din zona Yaguachi.",
+                  "category": "religious",
+                  "coords": [
+                        -79.637197,
+                        -2.192943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Jacinto de Yaguachi",
+                  "text": "A monument honoring San Jacinto, reflecting the strong historical and Catholic heritage of the Yaguachi canton.",
+                  "category": "historical",
+                  "coords": [
+                        -79.695915,
+                        -2.093567
+                  ]
+            },
+            {
+                  "name": "taburetes",
+                  "text": "A unique public monument in Yaguachi featuring the shape of traditional stools (taburetes), celebrating local everyday culture.",
+                  "category": "historical",
+                  "coords": [
+                        -79.747689,
+                        -2.129992
+                  ]
+            },
+            {
+                  "name": "Capilla Católica Cristo Rey",
+                  "text": "A small Catholic chapel dedicated to Christ the King, serving the workers and community near the Valdez sugar mill.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.688083,
+                        -2.094707
+                  ]
+            },
+            {
+                  "name": "Basílica Catedral Católica San Jacinto de Yaguachi",
+                  "text": "A major minor basilica and cathedral in Yaguachi, attracting thousands of pilgrims annually to honor Saint Hyacinth.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.695331,
+                        -2.096362
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica San Antonio de Padua | Cone",
+                  "text": "A Catholic church in the rural parish of Cone, dedicated to the revered Franciscan friar St. Anthony of Padua.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.648659,
+                        -2.168379
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Santa Rosa del Chobo",
+                  "text": "A rural Catholic place of worship dedicated to Saint Rose, located in the agricultural community of Chobo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.633887,
+                        -2.138941
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica Virgen de Fátima",
+                  "text": "A Catholic church devoted to the Virgin of Fatima, serving the faithful in the Yaguachi area.",
+                  "category": "religious",
+                  "coords": [
+                        -79.637197,
+                        -2.192943
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EC-G",
     coords: [-79.658, -2.135],

@@ -3,7 +3,160 @@ import type { POI } from "./poi";
 
 export const poiExtraFrenchguianaNatureV2: POI[] = [
   {
-    id: "gf-zoo-de-guyane",
+    id: "gf-zoo-de-guyane", "sights": {
+      "de": [
+            {
+                  "name": "Jardin Bois de Rose",
+                  "text": "Ein malerischer botanischer Garten mit einer Vielzahl tropischer Pflanzen und Bäume aus dem Amazonasregenwald.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.495125,
+                        4.93288
+                  ]
+            },
+            {
+                  "name": "Mornes de Macouria",
+                  "text": "Eine Gruppe bewaldeter Hügel, die sich über die Küstenebene erheben und Pfade durch die tropische Vegetation bieten.",
+                  "category": "natural",
+                  "coords": [
+                        -52.472261,
+                        4.985339
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique et Botanique de Guyane",
+                  "text": "Ein tropischer Zoo, der über 450 einheimische Tiere wie Jaguare, Affen und Kaimane in naturnahen Gehegen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.491599,
+                        4.949385
+                  ]
+            },
+            {
+                  "name": "Marché agricole",
+                  "text": "Ein lebhafter lokaler Markt in der Nähe des Zoos mit frischen tropischen Erzeugnissen und Agrarprodukten.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.491571,
+                        4.947422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardin Bois de Rose",
+                  "text": "Festői botanikus kert, amely az amazonasi erdőkben őshonos trópusi növények és fák széles választékát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.495125,
+                        4.93288
+                  ]
+            },
+            {
+                  "name": "Mornes de Macouria",
+                  "text": "Erdős dombok csoportja a tengerparti síkság felett, amelyek ösvényeket kínálnak a trópusi növényzeten keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -52.472261,
+                        4.985339
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique et Botanique de Guyane",
+                  "text": "Trópusi állatkert, amely több mint 450 őshonos állatot, köztük jaguárokat, majmokat és kajmánokat mutat be természetes élőhelyükön.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.491599,
+                        4.949385
+                  ]
+            },
+            {
+                  "name": "Marché agricole",
+                  "text": "Egy élénk helyi piac az állatkert közelében, ahol friss trópusi terményeket és mezőgazdasági árukat kínálnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.491571,
+                        4.947422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardin Bois de Rose",
+                  "text": "Grădina botanică pitorească ce prezintă o varietate de plante și arbori tropicali nativi pădurii amazoniene.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.495125,
+                        4.93288
+                  ]
+            },
+            {
+                  "name": "Mornes de Macouria",
+                  "text": "Un grup de dealuri împădurite care se ridică deasupra câmpiei de coastă, oferind poteci prin vegetația tropicală.",
+                  "category": "natural",
+                  "coords": [
+                        -52.472261,
+                        4.985339
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique et Botanique de Guyane",
+                  "text": "O grădină zoologică tropicală care expune peste 450 de animale native, inclusiv jaguari, maimuțe și caimani, în habitate naturaliste.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.491599,
+                        4.949385
+                  ]
+            },
+            {
+                  "name": "Marché agricole",
+                  "text": "O piață locală vibrantă lângă grădina zoologică, care oferă produse tropicale proaspete și bunuri agricole.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.491571,
+                        4.947422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardin Bois de Rose",
+                  "text": "A scenic botanical garden featuring a variety of tropical plants and trees native to the Amazonian forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.495125,
+                        4.93288
+                  ]
+            },
+            {
+                  "name": "Mornes de Macouria",
+                  "text": "A group of forested hills rising above the coastal plains, offering trails through tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -52.472261,
+                        4.985339
+                  ]
+            },
+            {
+                  "name": "Parc Zoologique et Botanique de Guyane",
+                  "text": "A tropical zoo showcasing over 450 native animals, including jaguars, monkeys, and caimans, in naturalistic habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        -52.491599,
+                        4.949385
+                  ]
+            },
+            {
+                  "name": "Marché agricole",
+                  "text": "A vibrant local market near the zoo offering fresh tropical produce and agricultural goods.",
+                  "category": "cultural",
+                  "coords": [
+                        -52.491571,
+                        4.947422
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GF",
     coords: [-52.483, 4.966],
@@ -53,7 +206,52 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Abrite plus de 450 animaux.", "Présente des espèces de la jungle locale."],
     }, image: "/poi-images/gf-zoo-de-guyane.webp"},
   {
-    id: "gf-ilet-la-mere",
+    id: "gf-ilet-la-mere", "sights": {
+      "de": [
+            {
+                  "name": "Polissoirs",
+                  "text": "Vorkolumbianische Felsrillen, die von Ureinwohnern zum Schleifen von Steinwerkzeugen genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -52.183336,
+                        4.889865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polissoirs",
+                  "text": "Kolumbusz előtti kőcsiszolók, amelyeket az őslakosok kőszerszámok élezésére használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -52.183336,
+                        4.889865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polissoirs",
+                  "text": "Polizoare de piatră precolumbiene folosite de indigeni pentru ascuțirea uneltelor de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -52.183336,
+                        4.889865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polissoirs",
+                  "text": "Pre-Columbian rock polishers used by indigenous people to sharpen stone tools.",
+                  "category": "historical",
+                  "coords": [
+                        -52.183336,
+                        4.889865
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GF",
     coords: [-52.200, 4.900],
@@ -153,7 +351,124 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Site de nidification majeur pour les tortues luths.", "Comprend des marais de mangroves."],
     }, image: "/poi-images/gf-reserve-amana.webp"},
   {
-    id: "gf-reserve-tresor",
+    id: "gf-reserve-tresor", "sights": {
+      "de": [
+            {
+                  "name": "ReKaw’Nexion",
+                  "text": "Naturattraktion zur Erkundung der Sümpfe von Kaw und des Regenwaldes.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.262674,
+                        4.595373
+                  ]
+            },
+            {
+                  "name": "Abris point-de-vue",
+                  "text": "Überdachter Aussichtspunkt im Naturschutzgebiet Trésor.",
+                  "category": "natural",
+                  "coords": [
+                        -52.277801,
+                        4.606309
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle régionale Trésor",
+                  "text": "2010 gegründetes Naturschutzgebiet zum Schutz des primären Regenwaldes.",
+                  "category": "natural",
+                  "coords": [
+                        -52.30216,
+                        4.594355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ReKaw’Nexion",
+                  "text": "Természeti látnivaló a Kaw-mocsarak és az esőerdő felfedezésére.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.262674,
+                        4.595373
+                  ]
+            },
+            {
+                  "name": "Abris point-de-vue",
+                  "text": "Fedett kilátóhely a Trésor Természetvédelmi Területen.",
+                  "category": "natural",
+                  "coords": [
+                        -52.277801,
+                        4.606309
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle régionale Trésor",
+                  "text": "2010-ben alapított természetvédelmi terület az őserdő és a biodiverzitás védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        -52.30216,
+                        4.594355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ReKaw’Nexion",
+                  "text": "Atracție naturală pentru explorarea mlaștinilor Kaw și a pădurii tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.262674,
+                        4.595373
+                  ]
+            },
+            {
+                  "name": "Abris point-de-vue",
+                  "text": "Adăpost cu punct de observație în Rezervația Naturală Trésor.",
+                  "category": "natural",
+                  "coords": [
+                        -52.277801,
+                        4.606309
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle régionale Trésor",
+                  "text": "Rezervație naturală înființată în 2010 pentru protejarea pădurii virgine și a biodiversității.",
+                  "category": "natural",
+                  "coords": [
+                        -52.30216,
+                        4.594355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ReKaw’Nexion",
+                  "text": "Nature attraction focused on exploring the Kaw marshes and the rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.262674,
+                        4.595373
+                  ]
+            },
+            {
+                  "name": "Abris point-de-vue",
+                  "text": "Sheltered viewpoint in the Trésor Nature Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -52.277801,
+                        4.606309
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle régionale Trésor",
+                  "text": "Nature reserve established in 2010 to protect primary rainforest and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -52.30216,
+                        4.594355
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "GF",
     coords: [-52.233, 4.566],
@@ -203,7 +518,304 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Protège la forêt primaire.", "Possède un sentier botanique."],
     }, image: "/poi-images/gf-reserve-tresor.webp"},
   {
-    id: "gf-hmong-farm-cacao",
+    id: "gf-hmong-farm-cacao", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Soufflet",
+                  "text": "Ein Berg, der die Ebene von Cacao überragt, einem Dorf, das für seine Hmong-Gemeinschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -52.389717,
+                        4.627321
+                  ]
+            },
+            {
+                  "name": "Montagne Tigany",
+                  "text": "Ein steiler Regenwaldhügel in der zerklüfteten Landschaft rund um Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.444577,
+                        4.590222
+                  ]
+            },
+            {
+                  "name": "Montagne Saint-Pierre",
+                  "text": "Ein bewaldeter Gipfel in der Nähe des Flusses Comté, umgeben von Hmong-Bauernhöfen.",
+                  "category": "natural",
+                  "coords": [
+                        -52.439301,
+                        4.579334
+                  ]
+            },
+            {
+                  "name": "Montagne Table",
+                  "text": "Ein charakteristischer Tafelberg (Tepui) in der Nähe von Cacao, typisch für das guyanische Hochland.",
+                  "category": "natural",
+                  "coords": [
+                        -52.403723,
+                        4.572938
+                  ]
+            },
+            {
+                  "name": "Montagne Fourmi",
+                  "text": "Ein dichter Dschungelhügel in der Nähe der landwirtschaftlichen Flächen von Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.407351,
+                        4.583712
+                  ]
+            },
+            {
+                  "name": "Montagne Patagaï",
+                  "text": "Ein markanter Berg im Cacao-Gebiet, der für seine reiche tropische Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -52.427954,
+                        4.582729
+                  ]
+            },
+            {
+                  "name": "Cacao, ferme CHA By",
+                  "text": "Aussichtspunkt auf einer Hmong-Farm im Dorf Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.430036,
+                        4.578758
+                  ]
+            },
+            {
+                  "name": "Montagne Chawari",
+                  "text": "Ein Gipfel im tropischen Wald in der Nähe der Siedlung Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.422543,
+                        4.595475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Soufflet",
+                  "text": "Hegycsúcs, amely a hmong közösségéről ismert Cacao faluja fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -52.389717,
+                        4.627321
+                  ]
+            },
+            {
+                  "name": "Montagne Tigany",
+                  "text": "Meredek esőerdei domb Cacao környékének tagolt táján.",
+                  "category": "natural",
+                  "coords": [
+                        -52.444577,
+                        4.590222
+                  ]
+            },
+            {
+                  "name": "Montagne Saint-Pierre",
+                  "text": "Erdős csúcs a Comté-folyó közelében, hmong farmokkal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -52.439301,
+                        4.579334
+                  ]
+            },
+            {
+                  "name": "Montagne Table",
+                  "text": "Jellegzetes táblahegy Cacao közelében, amely a guyanai-felföldre jellemző forma.",
+                  "category": "natural",
+                  "coords": [
+                        -52.403723,
+                        4.572938
+                  ]
+            },
+            {
+                  "name": "Montagne Fourmi",
+                  "text": "Sűrű dzsungellel borított domb Cacao mezőgazdasági területeinek közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.407351,
+                        4.583712
+                  ]
+            },
+            {
+                  "name": "Montagne Patagaï",
+                  "text": "Jellegzetes hegy a Cacao-régióban, amely gazdag trópusi flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -52.427954,
+                        4.582729
+                  ]
+            },
+            {
+                  "name": "Cacao, ferme CHA By",
+                  "text": "Kilátópont egy hmong farmon Cacao faluban.",
+                  "category": "natural",
+                  "coords": [
+                        -52.430036,
+                        4.578758
+                  ]
+            },
+            {
+                  "name": "Montagne Chawari",
+                  "text": "Egy hegycsúcs a trópusi erdőben, Cacao település közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.422543,
+                        4.595475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Soufflet",
+                  "text": "Un vârf care domină câmpia localității Cacao, un sat cunoscut pentru comunitatea sa hmong.",
+                  "category": "natural",
+                  "coords": [
+                        -52.389717,
+                        4.627321
+                  ]
+            },
+            {
+                  "name": "Montagne Tigany",
+                  "text": "Un deal abrupt de pădure tropicală în peisajul accidentat din jurul localității Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.444577,
+                        4.590222
+                  ]
+            },
+            {
+                  "name": "Montagne Saint-Pierre",
+                  "text": "Un vârf împădurit în apropierea râului Comté, înconjurat de ferme hmong.",
+                  "category": "natural",
+                  "coords": [
+                        -52.439301,
+                        4.579334
+                  ]
+            },
+            {
+                  "name": "Montagne Table",
+                  "text": "Un munte tabular caracteristic (tepui) lângă Cacao, tipic pentru podișul guianez.",
+                  "category": "natural",
+                  "coords": [
+                        -52.403723,
+                        4.572938
+                  ]
+            },
+            {
+                  "name": "Montagne Fourmi",
+                  "text": "Un deal cu junglă densă în apropierea zonelor agricole din Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.407351,
+                        4.583712
+                  ]
+            },
+            {
+                  "name": "Montagne Patagaï",
+                  "text": "Un munte proeminent în regiunea Cacao, cunoscut pentru flora sa tropicală bogată.",
+                  "category": "natural",
+                  "coords": [
+                        -52.427954,
+                        4.582729
+                  ]
+            },
+            {
+                  "name": "Cacao, ferme CHA By",
+                  "text": "Punct de observație la o fermă Hmong din satul Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.430036,
+                        4.578758
+                  ]
+            },
+            {
+                  "name": "Montagne Chawari",
+                  "text": "Un vârf de munte în pădurea tropicală, lângă așezarea Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.422543,
+                        4.595475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Soufflet",
+                  "text": "A peak overlooking the plains of Cacao, a village famous for its Hmong community.",
+                  "category": "natural",
+                  "coords": [
+                        -52.389717,
+                        4.627321
+                  ]
+            },
+            {
+                  "name": "Montagne Tigany",
+                  "text": "A steep rainforest hill in the rugged landscape surrounding Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.444577,
+                        4.590222
+                  ]
+            },
+            {
+                  "name": "Montagne Saint-Pierre",
+                  "text": "A forested peak near the Comté River, surrounded by Hmong farms.",
+                  "category": "natural",
+                  "coords": [
+                        -52.439301,
+                        4.579334
+                  ]
+            },
+            {
+                  "name": "Montagne Table",
+                  "text": "A characteristic flat-topped mountain (tepui) near Cacao, typical of the Guiana Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -52.403723,
+                        4.572938
+                  ]
+            },
+            {
+                  "name": "Montagne Fourmi",
+                  "text": "A dense jungle hill located near the agricultural lands of Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.407351,
+                        4.583712
+                  ]
+            },
+            {
+                  "name": "Montagne Patagaï",
+                  "text": "A prominent mountain in the Cacao region, known for its rich tropical flora.",
+                  "category": "natural",
+                  "coords": [
+                        -52.427954,
+                        4.582729
+                  ]
+            },
+            {
+                  "name": "Cacao, ferme CHA By",
+                  "text": "Viewpoint on a Hmong farm in the village of Cacao.",
+                  "category": "natural",
+                  "coords": [
+                        -52.430036,
+                        4.578758
+                  ]
+            },
+            {
+                  "name": "Montagne Chawari",
+                  "text": "A mountain peak in the tropical forest near the Cacao settlement.",
+                  "category": "natural",
+                  "coords": [
+                        -52.422543,
+                        4.595475
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GF",
     coords: [-52.466, 4.583],
@@ -253,7 +865,124 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Fondé dans les années 1970.", "Principal fournisseur de légumes frais."],
     }, image: "/poi-images/gf-hmong-farm-cacao.webp"},
   {
-    id: "gf-orchideenfarm-montsinery",
+    id: "gf-orchideenfarm-montsinery", "sights": {
+      "de": [
+            {
+                  "name": "Antenne Toucan",
+                  "text": "Ein massives, rotierendes ALLISS-Kurzwellen-Antennensystem, das seit 1994 für leistungsstarke Rundfunksendungen genutzt wird.",
+                  "category": "tower",
+                  "coords": [
+                        -52.500963,
+                        4.901032
+                  ]
+            },
+            {
+                  "name": "Écomusée",
+                  "text": "Ein lokales Museum, das der Naturgeschichte und den traditionellen Kulturen der Region Montsinéry-Tonnegrande gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -52.492675,
+                        4.892791
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "Eine schlichte christliche Kirche im kleinen Dorf Tonnegrande, die das umliegende ländliche Gebiet versorgt.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.443728,
+                        4.83009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Antenne Toucan",
+                  "text": "Hatalmas ALLISS rövidhullámú forgó antenna-rendszer, amelyet 1994 óta használnak nagy teljesítményű rádiósugárzásra.",
+                  "category": "tower",
+                  "coords": [
+                        -52.500963,
+                        4.901032
+                  ]
+            },
+            {
+                  "name": "Écomusée",
+                  "text": "Helyi múzeum, amely a Montsinéry-Tonnegrande régió természetrajzát és hagyományos kultúráit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -52.492675,
+                        4.892791
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "Egyszerű keresztény templom Tonnegrande kis falujában, amely a környező vidéket szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.443728,
+                        4.83009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Antenne Toucan",
+                  "text": "Un sistem masiv de antene rotative de unde scurte ALLISS, folosit pentru radiodifuziune de mare putere din 1994.",
+                  "category": "tower",
+                  "coords": [
+                        -52.500963,
+                        4.901032
+                  ]
+            },
+            {
+                  "name": "Écomusée",
+                  "text": "Un muzeu local dedicat istoriei naturale și culturilor tradiționale din regiunea Montsinéry-Tonnegrande.",
+                  "category": "museum",
+                  "coords": [
+                        -52.492675,
+                        4.892791
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "O biserică creștină simplă situată în micul sat Tonnegrande, deservind zona rurală înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.443728,
+                        4.83009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antenne Toucan",
+                  "text": "A massive ALLISS shortwave rotating antenna system, used for high-power radio broadcasting since 1994.",
+                  "category": "tower",
+                  "coords": [
+                        -52.500963,
+                        4.901032
+                  ]
+            },
+            {
+                  "name": "Écomusée",
+                  "text": "A local museum dedicated to the natural history and traditional cultures of the Montsinéry-Tonnegrande region.",
+                  "category": "museum",
+                  "coords": [
+                        -52.492675,
+                        4.892791
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "A simple Christian church located in the small village of Tonnegrande, serving the surrounding rural area.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.443728,
+                        4.83009
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GF",
     coords: [-52.483, 4.883],
@@ -303,7 +1032,52 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Cultive des centaines d'espèces d'orchidées.", "Favorise la protection des espèces."],
     }, image: "/poi-images/gf-orchideenfarm-montsinery.webp"},
   {
-    id: "gf-bienenfarm-macouria",
+    id: "gf-bienenfarm-macouria", "sights": {
+      "de": [
+            {
+                  "name": "Jardin botanique de Guyane",
+                  "text": "Ein üppiger botanischer Garten, der eine beeindruckende Sammlung an Orchideen und tropischen Palmen präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.525574,
+                        5.020898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardin botanique de Guyane",
+                  "text": "Buja botanikus kert, amely orchideák és trópusi pálmák lenyűgöző gyűjteményét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.525574,
+                        5.020898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardin botanique de Guyane",
+                  "text": "O grădină botanică luxuriantă care prezintă o colecție impresionantă de orhidee și palmieri tropicali.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.525574,
+                        5.020898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardin botanique de Guyane",
+                  "text": "A lush botanical garden showcasing an impressive collection of orchids and tropical palms.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.525574,
+                        5.020898
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GF",
     coords: [-52.483, 5.016],
@@ -353,7 +1127,124 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Produit du miel de la jungle tropicale.", "Explique la vie des abeilles."],
     }, image: "/poi-images/gf-bienenfarm-macouria.webp"},
   {
-    id: "gf-lernbauernhof-matoury",
+    id: "gf-lernbauernhof-matoury", "sights": {
+      "de": [
+            {
+                  "name": "Mont Paramana",
+                  "text": "Ein bewaldeter Gipfel mit Panoramablick über die umliegende tropische Landschaft in der Nähe von Matoury.",
+                  "category": "natural",
+                  "coords": [
+                        -52.332599,
+                        4.816456
+                  ]
+            },
+            {
+                  "name": "Sev Ashram Sangha",
+                  "text": "Ein hinduistisches religiöses Zentrum und Ashram, das der indo-guayanischen Gemeinschaft in der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.326735,
+                        4.836815
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "Eine bescheidene Kapelle am Straßenrand, die dem Schutzpatron der Reisenden in der Landschaft von Matoury gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -52.338158,
+                        4.841297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Paramana",
+                  "text": "Egy erdős csúcs, amely panorámás kilátást nyújt a környező trópusi tájra Matoury közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.332599,
+                        4.816456
+                  ]
+            },
+            {
+                  "name": "Sev Ashram Sangha",
+                  "text": "Hindu vallási központ és ásram, amely a régió indiai-guyanai közösségét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.326735,
+                        4.836815
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "Egy szerény útmenti kápolna, amelyet az utazók védőszentjének szenteltek Matoury vidékén.",
+                  "category": "religious",
+                  "coords": [
+                        -52.338158,
+                        4.841297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Paramana",
+                  "text": "Un vârf împădurit care oferă vedere panoramică asupra peisajului tropical înconjurător de lângă Matoury.",
+                  "category": "natural",
+                  "coords": [
+                        -52.332599,
+                        4.816456
+                  ]
+            },
+            {
+                  "name": "Sev Ashram Sangha",
+                  "text": "Un centru religios hindu și ashram care deservește comunitatea indo-guyaneză din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.326735,
+                        4.836815
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "O capelă modestă de la marginea drumului, dedicată sfântului patron al călătorilor, în zona rurală Matoury.",
+                  "category": "religious",
+                  "coords": [
+                        -52.338158,
+                        4.841297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Paramana",
+                  "text": "A forested peak offering panoramic views over the surrounding tropical landscape near Matoury.",
+                  "category": "natural",
+                  "coords": [
+                        -52.332599,
+                        4.816456
+                  ]
+            },
+            {
+                  "name": "Sev Ashram Sangha",
+                  "text": "A Hindu religious center and ashram serving the Indo-Guyanese community in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.326735,
+                        4.836815
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "A modest roadside chapel dedicated to the patron saint of travelers in the Matoury countryside.",
+                  "category": "religious",
+                  "coords": [
+                        -52.338158,
+                        4.841297
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "GF",
     coords: [-52.333, 4.833],
@@ -403,7 +1294,52 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Les animaux peuvent être nourris.", "Propose des ateliers pour les écoles."],
     }, image: "/poi-images/gf-lernbauernhof-matoury.webp"},
   {
-    id: "gf-rum-destillerie-toucan",
+    id: "gf-rum-destillerie-toucan", "sights": {
+      "de": [
+            {
+                  "name": "Carbet funéraire",
+                  "text": "Dieses Carbet ist eine traditionelle offene Holzkonstruktion der Ureinwohner, die für Bestattungsrituale genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -54.036879,
+                        5.489956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carbet funéraire",
+                  "text": "Ez a carbet egy hagyományos, nyitott faépítmény, amelyet az őslakosok temetkezési rítusokhoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -54.036879,
+                        5.489956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carbet funéraire",
+                  "text": "Acest carbet este o structură tradițională din lemn, deschisă, utilizată de indigeni pentru ritualuri funerare.",
+                  "category": "religious",
+                  "coords": [
+                        -54.036879,
+                        5.489956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carbet funéraire",
+                  "text": "This carbet is a traditional open-sided wooden structure used by indigenous people for funerary rites.",
+                  "category": "religious",
+                  "coords": [
+                        -54.036879,
+                        5.489956
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GF",
     coords: [-54.033, 5.483],
@@ -453,7 +1389,124 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Transforme sa propre canne à sucre.", "Utilise des procédés traditionnels."],
     }, image: "/poi-images/gf-rum-destillerie-toucan.webp"},
   {
-    id: "gf-vanilleplantage-regina",
+    id: "gf-vanilleplantage-regina", "sights": {
+      "de": [
+            {
+                  "name": "Mont Inéri",
+                  "text": "Ein Berggipfel in der Region Approuague bei Régina.",
+                  "category": "natural",
+                  "coords": [
+                        -52.171111,
+                        4.369786
+                  ]
+            },
+            {
+                  "name": "alte Fabrik",
+                  "text": "Ruinen einer alten Fabrik am Fluss Approuague in Régina.",
+                  "category": "historical",
+                  "coords": [
+                        -52.128518,
+                        4.314813
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Die Pfarrkirche der Stadt Régina am Flussufer.",
+                  "category": "religious",
+                  "coords": [
+                        -52.129751,
+                        4.312799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Inéri",
+                  "text": "Hegyi csúcs az Approuague régióban, Régina közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -52.171111,
+                        4.369786
+                  ]
+            },
+            {
+                  "name": "Ancienne fabrique",
+                  "text": "Egy régi gyár romjai az Approuague folyó partján, Reginában.",
+                  "category": "historical",
+                  "coords": [
+                        -52.128518,
+                        4.314813
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Régina városának plébániatemploma a folyóparton.",
+                  "category": "religious",
+                  "coords": [
+                        -52.129751,
+                        4.312799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Inéri",
+                  "text": "Un vârf muntos în regiunea Approuague, lângă Régina.",
+                  "category": "natural",
+                  "coords": [
+                        -52.171111,
+                        4.369786
+                  ]
+            },
+            {
+                  "name": "Ancienne fabrique",
+                  "text": "Ruinele unei vechi fabrici pe malul râului Approuague, în Régina.",
+                  "category": "historical",
+                  "coords": [
+                        -52.128518,
+                        4.314813
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "Biserica parohială a orașului Régina, situată pe malul râului.",
+                  "category": "religious",
+                  "coords": [
+                        -52.129751,
+                        4.312799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Inéri",
+                  "text": "A mountain peak in the Approuague region near Régina.",
+                  "category": "natural",
+                  "coords": [
+                        -52.171111,
+                        4.369786
+                  ]
+            },
+            {
+                  "name": "Ancienne fabrique",
+                  "text": "Ruins of an old factory on the banks of the Approuague river in Régina.",
+                  "category": "historical",
+                  "coords": [
+                        -52.128518,
+                        4.314813
+                  ]
+            },
+            {
+                  "name": "Église Saint-Étienne",
+                  "text": "The parish church of the town of Régina, located on the riverbank.",
+                  "category": "religious",
+                  "coords": [
+                        -52.129751,
+                        4.312799
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GF",
     coords: [-52.133, 4.316],
@@ -503,7 +1556,88 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Cultive la vanille Pompona.", "Pollinisation manuelle des fleurs."],
     }, image: "/poi-images/gf-vanilleplantage-regina.webp"},
   {
-    id: "gf-zebu-farm-sinnamary",
+    id: "gf-zebu-farm-sinnamary", "sights": {
+      "de": [
+            {
+                  "name": "Crique Toussaint",
+                  "text": "Ein malerischer Bach mit Sandstrand, der zum Schwimmen im kühlen Wasser des Waldes einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.003828,
+                        5.357967
+                  ]
+            },
+            {
+                  "name": "Cirad",
+                  "text": "Ein Forschungszentrum für Landwirtschaft, spezialisiert auf tropischen Anbau und die Zucht lokaler Zeburinder.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.92407,
+                        5.308782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crique Toussaint",
+                  "text": "Festői patak homokos parttal, amely népszerű fürdőhely az erdő hűs vizében.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.003828,
+                        5.357967
+                  ]
+            },
+            {
+                  "name": "Cirad",
+                  "text": "Mezőgazdasági kutatóközpont, amely a trópusi gazdálkodásra és a helyi zebuk tenyésztésére szakosodott.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.92407,
+                        5.308782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crique Toussaint",
+                  "text": "Un pârâu pitoresc cu o zonă de plajă cu nisip, popular pentru înot în apele răcoroase ale pădurii.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.003828,
+                        5.357967
+                  ]
+            },
+            {
+                  "name": "Cirad",
+                  "text": "Un centru de cercetare agricolă specializat în agricultura tropicală și creșterea bovinelor Zebu locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.92407,
+                        5.308782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crique Toussaint",
+                  "text": "A scenic creek with a sandy beach area, popular for swimming in the cool waters of the forest.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.003828,
+                        5.357967
+                  ]
+            },
+            {
+                  "name": "Cirad",
+                  "text": "An agricultural research center specializing in tropical farming and the breeding of local Zebu cattle.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.92407,
+                        5.308782
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "GF",
     coords: [-52.950, 5.366],

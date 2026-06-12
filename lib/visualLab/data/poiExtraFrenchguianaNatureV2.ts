@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraFrenchguianaNatureV2: POI[] = [
   {
-    id: "maroni-river-nature-v2",
+    id: "maroni-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Les Hattes",
+                  "text": "Ein weiter Sandstrand, der als einer der wichtigsten Brutplätze für Lederschildkröten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.945724,
+                        5.746453
+                  ]
+            },
+            {
+                  "name": "Galibi Nature Reserve",
+                  "text": "Ein geschütztes Küstengebiet an der Mündung des Maroni, das entscheidend für den Schutz nistender Meeresschildkröten ist.",
+                  "category": "natural",
+                  "coords": [
+                        -54.013934,
+                        5.793463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Les Hattes",
+                  "text": "Hatalmas homokos strand, amely az óriás kérgesteknősök egyik elsődleges tojásrakó helyeként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.945724,
+                        5.746453
+                  ]
+            },
+            {
+                  "name": "Galibi Nature Reserve",
+                  "text": "Védett tengerparti terület a Maroni torkolatánál, amely létfontosságú a fészkelő tengeri teknősök megőrzéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -54.013934,
+                        5.793463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Les Hattes",
+                  "text": "O plajă întinsă cu nisip, renumită ca loc principal de cuibărit pentru țestoasele luth gigantice.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.945724,
+                        5.746453
+                  ]
+            },
+            {
+                  "name": "Galibi Nature Reserve",
+                  "text": "O zonă de coastă protejată la gura de vărsare a râului Maroni, vitală pentru conservarea țestoaselor marine care cuibăresc aici.",
+                  "category": "natural",
+                  "coords": [
+                        -54.013934,
+                        5.793463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les Hattes",
+                  "text": "A vast sandy beach famous as a primary nesting ground for giant leatherback sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.945724,
+                        5.746453
+                  ]
+            },
+            {
+                  "name": "Galibi Nature Reserve",
+                  "text": "A protected coastal area at the mouth of the Maroni, vital for the conservation of nesting sea turtles.",
+                  "category": "natural",
+                  "coords": [
+                        -54.013934,
+                        5.793463
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GF",
     coords: [-53.9749, 5.7554],
@@ -53,7 +134,52 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Forme la frontière avec le Suriname.", "Mesure environ 611 km de long."],
     }, image: "/poi-images/maroni-river-nature-v2.webp"},
   {
-    id: "oyapock-river-nature-v2",
+    id: "oyapock-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Bruyère",
+                  "text": "Ein vom tropischen Regenwald bedeckter Gipfel in der Nähe des Grenzflusses Oyapock.",
+                  "category": "natural",
+                  "coords": [
+                        -51.642932,
+                        4.198952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Bruyère",
+                  "text": "Trópusi esőerdővel borított hegycsúcs az Oyapock határfolyó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -51.642932,
+                        4.198952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Bruyère",
+                  "text": "Un vârf acoperit de pădure tropicală situat în apropierea râului de frontieră Oyapock.",
+                  "category": "natural",
+                  "coords": [
+                        -51.642932,
+                        4.198952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Bruyère",
+                  "text": "A peak covered in tropical rainforest located near the Oyapock border river.",
+                  "category": "natural",
+                  "coords": [
+                        -51.642932,
+                        4.198952
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GF",
     coords: [-51.6425, 4.1506],
@@ -103,7 +229,196 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Fleuve frontalier avec le Brésil.", "Longueur de plus de 370 km."],
     }, image: "/poi-images/oyapock-river-nature-v2.webp"},
   {
-    id: "approuague-river-nature-v2",
+    id: "approuague-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Collège",
+                  "text": "Ein isolierter Hügel im dichten Dschungel am Ufer des Flusses Approuague.",
+                  "category": "natural",
+                  "coords": [
+                        -52.009454,
+                        4.448425
+                  ]
+            },
+            {
+                  "name": "Débarcadère du Marais de Kaw",
+                  "text": "Eine Anlegestelle für Bootstouren in das riesige Sumpfgebiet von Kaw, das für seine Kaimane bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.052519,
+                        4.498425
+                  ]
+            },
+            {
+                  "name": "Roches gravées de la Montagne Favard",
+                  "text": "Diese archäologische Stätte beherbergt präkolumbianische Felsgravuren auf einem Hügel über den Sümpfen.",
+                  "category": "historical",
+                  "coords": [
+                        -52.043799,
+                        4.50291
+                  ]
+            },
+            {
+                  "name": "Saint-André",
+                  "text": "Eine kleine Missionskapelle am Flussufer im tiefen Regenwald des Approuague-Beckens.",
+                  "category": "religious",
+                  "coords": [
+                        -52.036036,
+                        4.486442
+                  ]
+            },
+            {
+                  "name": "Maison de la Réserve naturelle",
+                  "text": "Informationszentrum über die Artenvielfalt des Naturschutzgebiets Kaw-Roura am Rande der Sümpfe.",
+                  "category": "museum",
+                  "coords": [
+                        -52.037025,
+                        4.487712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Collège",
+                  "text": "Szigetként kiemelkedő domb a sűrű dzsungelben, az Approuague-folyó partján.",
+                  "category": "natural",
+                  "coords": [
+                        -52.009454,
+                        4.448425
+                  ]
+            },
+            {
+                  "name": "Débarcadère du Marais de Kaw",
+                  "text": "Hajókikötő a hatalmas kawi mocsárvidékhez, amely a kajmánjairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.052519,
+                        4.498425
+                  ]
+            },
+            {
+                  "name": "Roches gravées de la Montagne Favard",
+                  "text": "Ez a régészeti lelőhely prekolumbián sziklarajzokat őriz egy mocsarak feletti domboldalon.",
+                  "category": "historical",
+                  "coords": [
+                        -52.043799,
+                        4.50291
+                  ]
+            },
+            {
+                  "name": "Saint-André",
+                  "text": "Kisméretű missziós kápolna a folyóparton, az Approuague-medence mély esőerdejében.",
+                  "category": "religious",
+                  "coords": [
+                        -52.036036,
+                        4.486442
+                  ]
+            },
+            {
+                  "name": "Maison de la Réserve naturelle",
+                  "text": "Információs központ a Kaw-Roura természetvédelmi terület élővilágáról, a mocsarak szélén.",
+                  "category": "museum",
+                  "coords": [
+                        -52.037025,
+                        4.487712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Collège",
+                  "text": "Un deal izolat în jungla densă, pe malul râului Approuague.",
+                  "category": "natural",
+                  "coords": [
+                        -52.009454,
+                        4.448425
+                  ]
+            },
+            {
+                  "name": "Débarcadère du Marais de Kaw",
+                  "text": "Un debarcader pentru excursii cu barca în vasta mlaștină Kaw, faimoasă pentru caimanii săi.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.052519,
+                        4.498425
+                  ]
+            },
+            {
+                  "name": "Roches gravées de la Montagne Favard",
+                  "text": "Acest sit arheologic adăpostește gravuri rupestre precolumbiene pe un deal deasupra mlaștinilor.",
+                  "category": "historical",
+                  "coords": [
+                        -52.043799,
+                        4.50291
+                  ]
+            },
+            {
+                  "name": "Saint-André",
+                  "text": "O mică capelă de misiune pe malul râului, în pădurea tropicală adâncă a bazinului Approuague.",
+                  "category": "religious",
+                  "coords": [
+                        -52.036036,
+                        4.486442
+                  ]
+            },
+            {
+                  "name": "Maison de la Réserve naturelle",
+                  "text": "Centru de informare despre biodiversitatea rezervației naturale Kaw-Roura, situat la marginea mlaștinilor.",
+                  "category": "museum",
+                  "coords": [
+                        -52.037025,
+                        4.487712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Collège",
+                  "text": "An isolated hill in the dense jungle on the banks of the Approuague River.",
+                  "category": "natural",
+                  "coords": [
+                        -52.009454,
+                        4.448425
+                  ]
+            },
+            {
+                  "name": "Débarcadère du Marais de Kaw",
+                  "text": "A landing stage for boat tours into the vast Kaw marshes, famous for their caimans.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.052519,
+                        4.498425
+                  ]
+            },
+            {
+                  "name": "Roches gravées de la Montagne Favard",
+                  "text": "This archaeological site features pre-Columbian rock carvings on a hill overlooking the marshes.",
+                  "category": "historical",
+                  "coords": [
+                        -52.043799,
+                        4.50291
+                  ]
+            },
+            {
+                  "name": "Saint-André",
+                  "text": "A small mission chapel on the riverbank in the deep rainforest of the Approuague basin.",
+                  "category": "religious",
+                  "coords": [
+                        -52.036036,
+                        4.486442
+                  ]
+            },
+            {
+                  "name": "Maison de la Réserve naturelle",
+                  "text": "Information center for the biodiversity of the Kaw-Roura Nature Reserve, located at the edge of the marshes.",
+                  "category": "museum",
+                  "coords": [
+                        -52.037025,
+                        4.487712
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "GF",
     coords: [-52.0289, 4.4144],
@@ -153,7 +468,88 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Connu pour ses nombreux rapides.", "Longueur de 335 km."],
     }, image: "/poi-images/approuague-river-nature-v2.webp"},
   {
-    id: "lac-de-petit-saut-nature-v2",
+    id: "lac-de-petit-saut-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Marie-Hilaire",
+                  "text": "Ein bewaldeter Hügel über dem Petit-Saut-Stausee, bekannt für seine unberührte tropische Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -53.099728,
+                        4.994664
+                  ]
+            },
+            {
+                  "name": "Montagne Saint-Jacques",
+                  "text": "Eine natürliche Erhebung am Petit-Saut-Damm, die einen Lebensraum für vielfältige amazonische Vogelarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -53.025987,
+                        4.97327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Marie-Hilaire",
+                  "text": "A Petit-Saut víztározó fölé magasodó erdős domb, amely elsődleges trópusi növényzetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -53.099728,
+                        4.994664
+                  ]
+            },
+            {
+                  "name": "Montagne Saint-Jacques",
+                  "text": "Természetes magaslat a Petit-Saut gát közelében, amely számos amazóniai madárfaj élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        -53.025987,
+                        4.97327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Marie-Hilaire",
+                  "text": "Un deal împădurit care se înalță deasupra lacului Petit-Saut, cunoscut pentru vegetația sa tropicală primară.",
+                  "category": "natural",
+                  "coords": [
+                        -53.099728,
+                        4.994664
+                  ]
+            },
+            {
+                  "name": "Montagne Saint-Jacques",
+                  "text": "O ridicătură naturală lângă barajul Petit-Saut, care oferă un habitat pentru diverse specii de păsări amazoniene.",
+                  "category": "natural",
+                  "coords": [
+                        -53.025987,
+                        4.97327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Marie-Hilaire",
+                  "text": "A forested hill rising above the Petit-Saut reservoir, known for its primary tropical vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -53.099728,
+                        4.994664
+                  ]
+            },
+            {
+                  "name": "Montagne Saint-Jacques",
+                  "text": "A natural elevation near the Petit-Saut dam, providing a habitat for diverse Amazonian bird species.",
+                  "category": "natural",
+                  "coords": [
+                        -53.025987,
+                        4.97327
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "GF",
     coords: [-53.0475, 4.9388],
@@ -203,7 +599,196 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Superficie d'environ 310 km².", "Mise en eau en 1994."],
     }, image: "/poi-images/lac-de-petit-saut-nature-v2.webp"},
   {
-    id: "bellevue-de-l-inini-nature-v2",
+    id: "bellevue-de-l-inini-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Américain",
+                  "text": "Ein Gipfel im Massiv de l'Inini im Landesinneren.",
+                  "category": "natural",
+                  "coords": [
+                        -53.578744,
+                        3.641559
+                  ]
+            },
+            {
+                  "name": "Montagne Massialine",
+                  "text": "Ein abgelegener Gipfel im dichten Regenwald des Inini-Gebiets.",
+                  "category": "natural",
+                  "coords": [
+                        -53.610621,
+                        3.608021
+                  ]
+            },
+            {
+                  "name": "Bellevue de l'Inini",
+                  "text": "Mit 851 Metern der höchste Berggipfel in Französisch-Guayana.",
+                  "category": "natural",
+                  "coords": [
+                        -53.573569,
+                        3.541231
+                  ]
+            },
+            {
+                  "name": "Montagne Eau Claire",
+                  "text": "Ein Berggipfel im gebirgigen Massiv de l'Inini.",
+                  "category": "natural",
+                  "coords": [
+                        -53.565426,
+                        3.60721
+                  ]
+            },
+            {
+                  "name": "Montagne Mongorin",
+                  "text": "Bewaldeter Gipfel im tiefen Landesinneren von Französisch-Guayana.",
+                  "category": "natural",
+                  "coords": [
+                        -53.550346,
+                        3.629686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Américain",
+                  "text": "Hegyi csúcs a belső Massif de l'Inini régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -53.578744,
+                        3.641559
+                  ]
+            },
+            {
+                  "name": "Montagne Massialine",
+                  "text": "Távoli hegycsúcs az Inini-vidék sűrű esőerdőjében.",
+                  "category": "natural",
+                  "coords": [
+                        -53.610621,
+                        3.608021
+                  ]
+            },
+            {
+                  "name": "Bellevue de l'Inini",
+                  "text": "Francia Guyana legmagasabb pontja, egy 851 méter magas hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -53.573569,
+                        3.541231
+                  ]
+            },
+            {
+                  "name": "Montagne Eau Claire",
+                  "text": "Hegyi csúcs a hegyvidéki Massif de l'Inini területén.",
+                  "category": "natural",
+                  "coords": [
+                        -53.565426,
+                        3.60721
+                  ]
+            },
+            {
+                  "name": "Montagne Mongorin",
+                  "text": "Erdős hegycsúcs Francia Guyana távoli belső részén.",
+                  "category": "natural",
+                  "coords": [
+                        -53.550346,
+                        3.629686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Américain",
+                  "text": "Un vârf în regiunea interioară Massif de l'Inini.",
+                  "category": "natural",
+                  "coords": [
+                        -53.578744,
+                        3.641559
+                  ]
+            },
+            {
+                  "name": "Montagne Massialine",
+                  "text": "Un vârf izolat în pădurea tropicală densă din districtul Inini.",
+                  "category": "natural",
+                  "coords": [
+                        -53.610621,
+                        3.608021
+                  ]
+            },
+            {
+                  "name": "Bellevue de l'Inini",
+                  "text": "Cel mai înalt vârf din Guyana Franceză, atingând o altitudine de 851 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        -53.573569,
+                        3.541231
+                  ]
+            },
+            {
+                  "name": "Montagne Eau Claire",
+                  "text": "Un vârf muntos în zona muntoasă Massif de l'Inini.",
+                  "category": "natural",
+                  "coords": [
+                        -53.565426,
+                        3.60721
+                  ]
+            },
+            {
+                  "name": "Montagne Mongorin",
+                  "text": "Vârf împădurit în interiorul îndepărtat al Guyanei Franceze.",
+                  "category": "natural",
+                  "coords": [
+                        -53.550346,
+                        3.629686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Américain",
+                  "text": "A mountain peak in the interior Massif de l'Inini region.",
+                  "category": "natural",
+                  "coords": [
+                        -53.578744,
+                        3.641559
+                  ]
+            },
+            {
+                  "name": "Montagne Massialine",
+                  "text": "A remote peak in the dense rainforest of the Inini district.",
+                  "category": "natural",
+                  "coords": [
+                        -53.610621,
+                        3.608021
+                  ]
+            },
+            {
+                  "name": "Bellevue de l'Inini",
+                  "text": "The highest peak in French Guiana, reaching an elevation of 851 metres.",
+                  "category": "natural",
+                  "coords": [
+                        -53.573569,
+                        3.541231
+                  ]
+            },
+            {
+                  "name": "Montagne Eau Claire",
+                  "text": "A mountain peak in the mountainous Massif de l'Inini area.",
+                  "category": "natural",
+                  "coords": [
+                        -53.565426,
+                        3.60721
+                  ]
+            },
+            {
+                  "name": "Montagne Mongorin",
+                  "text": "Forested peak in the remote interior of French Guiana.",
+                  "category": "natural",
+                  "coords": [
+                        -53.550346,
+                        3.629686
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GF",
     coords: [-53.535, 3.5683],
@@ -254,7 +839,52 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
     }
   },
   {
-    id: "montagne-des-singes-nature-v2",
+    id: "montagne-des-singes-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne des Singes",
+                  "text": "Ein beliebtes Wanderziel mit einem Gipfelpfad, der Panoramaausblicke auf den Weltraumbahnhof bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -52.699337,
+                        5.073853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne des Singes",
+                  "text": "Népszerű túrahely, melynek csúcsa panorámás kilátást nyújt az űrközpontra és a partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -52.699337,
+                        5.073853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne des Singes",
+                  "text": "Destinație populară pentru drumeții, cu un traseu spre vârf ce oferă vederi panoramice asupra portului spațial.",
+                  "category": "natural",
+                  "coords": [
+                        -52.699337,
+                        5.073853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne des Singes",
+                  "text": "A popular hiking destination with a summit trail providing panoramic views of the spaceport and coast.",
+                  "category": "natural",
+                  "coords": [
+                        -52.699337,
+                        5.073853
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GF",
     coords: [-52.7011, 5.0747],
@@ -304,7 +934,52 @@ export const poiExtraFrenchguianaNatureV2: POI[] = [
       fr: ["Altitude de 161 m.", "Destination populaire pour les randonneurs."],
     }, image: "/poi-images/montagne-des-singes-nature-v2.webp"},
   {
-    id: "montagne-de-kaw-nature-v2",
+    id: "montagne-de-kaw-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montagne Favard",
+                  "text": "Ein Gipfel in den Kaw-Bergen, der für seine archäologischen Petroglyphen und Panoramablicke bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -52.048659,
+                        4.508922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montagne Favard",
+                  "text": "A Kaw-hegység egyik csúcsa, amely régészeti sziklarajzairól és panorámás kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -52.048659,
+                        4.508922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montagne Favard",
+                  "text": "Un vârf din munții Kaw, cunoscut pentru petroglifele sale arheologice și vederile panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        -52.048659,
+                        4.508922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montagne Favard",
+                  "text": "A peak in the Kaw mountains known for its archaeological petroglyphs and panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -52.048659,
+                        4.508922
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GF",
     coords: [-52.1288, 4.5447],

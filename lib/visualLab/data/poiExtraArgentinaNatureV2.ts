@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraArgentinaNatureV2: POI[] = [
   {
-    id: "ar-aconcagua-nature-v2",
+    id: "ar-aconcagua-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aconcagua",
+                  "text": "Dieser hoch aufragende Berg ist berühmt als der höchste Gipfel auf dem amerikanischen Kontinent.",
+                  "category": "natural",
+                  "coords": [
+                        -70.011961,
+                        -32.653149
+                  ]
+            },
+            {
+                  "name": "Cerro Ameghino",
+                  "text": "Dieser Berggipfel liegt in der rauen Landschaft des Naturgebiets Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -69.977195,
+                        -32.625736
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral",
+                  "text": "Dieser Berggipfel ist Teil des erhöhten Geländes rund um das Naturgebiet Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -70.083777,
+                        -32.646569
+                  ]
+            },
+            {
+                  "name": "Cerro México",
+                  "text": "Dieser markante Gipfel erhebt sich in der Berglandschaft der Region Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -70.066293,
+                        -32.723933
+                  ]
+            },
+            {
+                  "name": "Cerro Cuerno",
+                  "text": "Dieser Berggipfel trägt zur dramatischen Skyline des Naturgebiets Aconcagua bei.",
+                  "category": "natural",
+                  "coords": [
+                        -70.06244,
+                        -32.623821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aconcagua",
+                  "text": "Ez a tornyosuló hegy az amerikai kontinens legmagasabb csúcsaként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.011961,
+                        -32.653149
+                  ]
+            },
+            {
+                  "name": "Cerro Ameghino",
+                  "text": "Ez a hegycsúcs az Aconcagua természeti terület zord táján található.",
+                  "category": "natural",
+                  "coords": [
+                        -69.977195,
+                        -32.625736
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral",
+                  "text": "Ez a hegycsúcs az Aconcagua természeti területet körülvevő magaslati terep része.",
+                  "category": "natural",
+                  "coords": [
+                        -70.083777,
+                        -32.646569
+                  ]
+            },
+            {
+                  "name": "Cerro México",
+                  "text": "Ez a kiemelkedő csúcs az Aconcagua régió hegyvidéki táján emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        -70.066293,
+                        -32.723933
+                  ]
+            },
+            {
+                  "name": "Cerro Cuerno",
+                  "text": "Ez a hegycsúcs hozzájárul az Aconcagua természeti terület drámai látképéhez.",
+                  "category": "natural",
+                  "coords": [
+                        -70.06244,
+                        -32.623821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aconcagua",
+                  "text": "Acest munte impunător este renumit ca fiind cel mai înalt vârf din America.",
+                  "category": "natural",
+                  "coords": [
+                        -70.011961,
+                        -32.653149
+                  ]
+            },
+            {
+                  "name": "Cerro Ameghino",
+                  "text": "Acest vârf de munte este situat în peisajul accidentat al zonei naturale Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -69.977195,
+                        -32.625736
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral",
+                  "text": "Acest vârf de munte face parte din terenul înalt care înconjoară zona naturală Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -70.083777,
+                        -32.646569
+                  ]
+            },
+            {
+                  "name": "Cerro México",
+                  "text": "Acest vârf proeminent se înalță în peisajul montan al regiunii Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -70.066293,
+                        -32.723933
+                  ]
+            },
+            {
+                  "name": "Cerro Cuerno",
+                  "text": "Acest vârf de munte contribuie la orizontul dramatic al zonei naturale Aconcagua.",
+                  "category": "natural",
+                  "coords": [
+                        -70.06244,
+                        -32.623821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aconcagua",
+                  "text": "This towering mountain is famously known as the highest peak in the Americas.",
+                  "category": "natural",
+                  "coords": [
+                        -70.011961,
+                        -32.653149
+                  ]
+            },
+            {
+                  "name": "Cerro Ameghino",
+                  "text": "This mountain peak is situated within the rugged landscape of the Aconcagua nature area.",
+                  "category": "natural",
+                  "coords": [
+                        -69.977195,
+                        -32.625736
+                  ]
+            },
+            {
+                  "name": "Cerro Catedral",
+                  "text": "This mountain peak is part of the elevated terrain surrounding the Aconcagua nature area.",
+                  "category": "natural",
+                  "coords": [
+                        -70.083777,
+                        -32.646569
+                  ]
+            },
+            {
+                  "name": "Cerro México",
+                  "text": "This prominent peak rises within the mountainous landscape of the Aconcagua region.",
+                  "category": "natural",
+                  "coords": [
+                        -70.066293,
+                        -32.723933
+                  ]
+            },
+            {
+                  "name": "Cerro Cuerno",
+                  "text": "This mountain peak contributes to the dramatic skyline of the Aconcagua nature area.",
+                  "category": "natural",
+                  "coords": [
+                        -70.06244,
+                        -32.623821
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-M",
     coords: [-70.0113, -32.6531],
@@ -67,7 +256,664 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-cerro-fitz-roy-nature-v2",
+    id: "ar-cerro-fitz-roy-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laguna Capri",
+                  "text": "Von den Ufern dieser alpinen Lagune aus hat man bei klarem Wetter einen spektakulären Blick auf das Fitz-Roy-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        -72.929679,
+                        -49.302854
+                  ]
+            },
+            {
+                  "name": "Mirador Maestri",
+                  "text": "Dieser Aussichtspunkt am Rande einer Gletschermoräne bietet einen atemberaubenden Blick auf den Gletscher Torre und die umliegenden Granitspitzen.",
+                  "category": "natural",
+                  "coords": [
+                        -73.001757,
+                        -49.318198
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser Panoramapunkt an den Wanderwegen rund um den Fitz Roy eröffnet weite Ausblicke über die raue patagonische Steppe.",
+                  "category": "natural",
+                  "coords": [
+                        -73.015087,
+                        -49.227234
+                  ]
+            },
+            {
+                  "name": "Cerro Pollone",
+                  "text": "Dieser schroffe Berggipfel in den patagonischen Anden ist eine anspruchsvolle Herausforderung für erfahrene Alpinisten.",
+                  "category": "natural",
+                  "coords": [
+                        -73.089713,
+                        -49.252992
+                  ]
+            },
+            {
+                  "name": "Aguja Saint-Exupery",
+                  "text": "Die markante Felsnadel in der Nähe des Fitz Roy wurde zu Ehren des französischen Fliegers und Schriftstellers Antoine de Saint-Exupéry benannt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.038817,
+                        -49.28818
+                  ]
+            },
+            {
+                  "name": "Aguja Poincenot",
+                  "text": "Diese steile Granitnadel im Fitz-Roy-Massiv trägt den Namen des französischen Bergsteigers Jacques Poincenot, der während einer Expedition ums Leben kam.",
+                  "category": "natural",
+                  "coords": [
+                        -73.039788,
+                        -49.280453
+                  ]
+            },
+            {
+                  "name": "Aguja Desmochada",
+                  "text": "Die scheinbar abgebrochene Spitze dieser Felsnadel macht sie zu einer unverwechselbaren Formation im Panorama der patagonischen Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -73.048863,
+                        -49.278218
+                  ]
+            },
+            {
+                  "name": "Aguja de la Silla",
+                  "text": "Die markante Granitnadel verdankt ihren Namen ihrer sattelartigen Form, die sie deutlich von den umliegenden patagonischen Gipfeln abhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.047999,
+                        -49.275631
+                  ]
+            },
+            {
+                  "name": "Monte Fitz Roy",
+                  "text": "Dieser legendäre 3405 Meter hohe Granitberg an der Grenze zwischen Argentinien und Chile ist weltberühmt für seine dramatischen, oft wolkenverhangenen Steilwände.",
+                  "category": "natural",
+                  "coords": [
+                        -73.043211,
+                        -49.27125
+                  ]
+            },
+            {
+                  "name": "Mirador Fitz Roy",
+                  "text": "Dieser Panoramablickpunkt bietet weite Ausblicke auf die ikonischen, zerklüfteten Gipfel des Fitz Roy-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        -72.920067,
+                        -49.300226
+                  ]
+            },
+            {
+                  "name": "León",
+                  "text": "Der León ist ein markanter Berggipfel in den rauen patagonischen Anden, der Kletterern ein anspruchsvolles Gelände bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.925027,
+                        -49.309205
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Torre",
+                  "text": "Dieser malerische Aussichtspunkt blickt auf die Gletschergewässer der Laguna Torre, mit den spektakulären Spitzen des Cerro Torre im Hintergrund.",
+                  "category": "natural",
+                  "coords": [
+                        -72.988927,
+                        -49.330103
+                  ]
+            },
+            {
+                  "name": "Mirador Cerra Torre",
+                  "text": "Von diesem felsigen Aussichtspunkt können Besucher die markante Granitnadel des Cerro Torre bewundern, die in den Himmel ragt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.957442,
+                        -49.333767
+                  ]
+            },
+            {
+                  "name": "L. de los Tres y Fitz Roy",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet atemberaubende Ausblicke auf die leuchtend blaue Laguna de los Tres, die direkt unter dem hoch aufragenden Fitz Roy liegt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.985718,
+                        -49.279791
+                  ]
+            },
+            {
+                  "name": "Entre las rocas",
+                  "text": "Ein malerischer natürlicher Aussichtspunkt inmitten massiver Felsbrocken, der eine einzigartig eingerahmte Perspektive auf die umliegenden Gletschertäler bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.984116,
+                        -49.280175
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Piedras Blancas",
+                  "text": "Ein unberührter Beobachtungsbereich, der so positioniert ist, dass er einen direkten Blick auf die zerklüfteten Eisbrüche des Piedras-Blancas-Gletschers bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.949761,
+                        -49.264605
+                  ]
+            },
+            {
+                  "name": "Mirador Piedras Blancas",
+                  "text": "Dieser Aussichtspunkt ermöglicht es Wanderern, die atemberaubenden Blautöne und massiven Seracs des vorrückenden Piedras-Blancas-Gletschers zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -72.952705,
+                        -49.275033
+                  ]
+            },
+            {
+                  "name": "Sitio Natural Cordillera del Chaltén",
+                  "text": "Dieses raue Naturschutzgebiet schützt die dramatischen Gipfel und unberührten Gletschertäler der Chaltén-Bergkette.",
+                  "category": "natural",
+                  "coords": [
+                        -73.079334,
+                        -49.271334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laguna Capri",
+                  "text": "Ennek az alpesi lagúnának a partjáról tiszta időben látványos kilátás nyílik a Fitz Roy-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        -72.929679,
+                        -49.302854
+                  ]
+            },
+            {
+                  "name": "Mirador Maestri",
+                  "text": "Ez a gleccsermoréna szélén található kilátópont lélegzetelállító kilátást nyújt a Torre-gleccserre és a környező gránitcsúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        -73.001757,
+                        -49.318198
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a Fitz Roy környéki túraútvonalakon fekvő panorámapont széles kilátást nyújt a zord patagóniai sztyeppére.",
+                  "category": "natural",
+                  "coords": [
+                        -73.015087,
+                        -49.227234
+                  ]
+            },
+            {
+                  "name": "Cerro Pollone",
+                  "text": "Ez a zord patagóniai andoki hegycsúcs komoly kihívást jelent a tapasztalt alpinisták számára.",
+                  "category": "natural",
+                  "coords": [
+                        -73.089713,
+                        -49.252992
+                  ]
+            },
+            {
+                  "name": "Aguja Saint-Exupery",
+                  "text": "A Fitz Roy közelében magasodó jellegzetes sziklatornyot Antoine de Saint-Exupéry francia pilóta és író tiszteletére nevezték el.",
+                  "category": "natural",
+                  "coords": [
+                        -73.038817,
+                        -49.28818
+                  ]
+            },
+            {
+                  "name": "Aguja Poincenot",
+                  "text": "A Fitz Roy-masszívum ezen meredek gránittűje Jacques Poincenot francia hegymászó nevét viseli, aki egy expedíció során vesztette életét.",
+                  "category": "natural",
+                  "coords": [
+                        -73.039788,
+                        -49.280453
+                  ]
+            },
+            {
+                  "name": "Aguja Desmochada",
+                  "text": "Ennek a sziklatoronynak a látszólag letört csúcsa jellegzetes formációvá teszi a patagóniai Andok panorámájában.",
+                  "category": "natural",
+                  "coords": [
+                        -73.048863,
+                        -49.278218
+                  ]
+            },
+            {
+                  "name": "Aguja de la Silla",
+                  "text": "A jellegzetes gránittű a nyeregszerű formájáról kapta a nevét, amely élesen megkülönbözteti a környező patagóniai csúcsoktól.",
+                  "category": "natural",
+                  "coords": [
+                        -73.047999,
+                        -49.275631
+                  ]
+            },
+            {
+                  "name": "Monte Fitz Roy",
+                  "text": "Ez a legendás, 3405 méter magas gránithegy Argentína és Chile határán világhírű drámai, gyakran felhőkbe burkolózó meredek sziklafalairól.",
+                  "category": "natural",
+                  "coords": [
+                        -73.043211,
+                        -49.27125
+                  ]
+            },
+            {
+                  "name": "Mirador Fitz Roy",
+                  "text": "Ez a panorámás kilátó lenyűgöző rálátást kínál a Fitz Roy hegytömb ikonikus, csipkézett csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        -72.920067,
+                        -49.300226
+                  ]
+            },
+            {
+                  "name": "León",
+                  "text": "A León egy kiemelkedő hegycsúcs a zord patagóniai Andokban, amely kihívást jelentő terepet kínál a hegymászóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -72.925027,
+                        -49.309205
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Torre",
+                  "text": "Ez a festői kilátó a Laguna Torre gleccser vizére néz, a háttérben a Cerro Torre látványos tűhegyeivel.",
+                  "category": "natural",
+                  "coords": [
+                        -72.988927,
+                        -49.330103
+                  ]
+            },
+            {
+                  "name": "Mirador Cerra Torre",
+                  "text": "Ebből a sziklás kilátóból a látogatók megcsodálhatják a Cerro Torre feltűnő gránittűjét, amint az égbe nyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        -72.957442,
+                        -49.333767
+                  ]
+            },
+            {
+                  "name": "L. de los Tres y Fitz Roy",
+                  "text": "Erről a magaslati kilátóról lélegzetelállító látvány nyílik a ragyogó kék Laguna de los Tresre, amely közvetlenül a magasba törő Fitz Roy alatt fekszik.",
+                  "category": "natural",
+                  "coords": [
+                        -72.985718,
+                        -49.279791
+                  ]
+            },
+            {
+                  "name": "Entre las rocas",
+                  "text": "Masszív sziklák között elhelyezkedő festői természetes kilátó, amely egyedi keretes perspektívát nyújt a környező gleccservölgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -72.984116,
+                        -49.280175
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Piedras Blancas",
+                  "text": "Egy érintetlen megfigyelőhely, ahonnan közvetlen rálátás nyílik a Piedras Blancas gleccser zord jégeséseire.",
+                  "category": "natural",
+                  "coords": [
+                        -72.949761,
+                        -49.264605
+                  ]
+            },
+            {
+                  "name": "Mirador Piedras Blancas",
+                  "text": "Ez a kilátó lehetővé teszi a túrázóknak, hogy tanúi legyenek az előrenyomuló Piedras Blancas gleccser lenyűgöző kék árnyalatainak és hatalmas jégtömbjeinek.",
+                  "category": "natural",
+                  "coords": [
+                        -72.952705,
+                        -49.275033
+                  ]
+            },
+            {
+                  "name": "Sitio Natural Cordillera del Chaltén",
+                  "text": "Ez a zord természetvédelmi terület védi a Chaltén-hegység drámai csúcsait és érintetlen gleccservölgyeit.",
+                  "category": "natural",
+                  "coords": [
+                        -73.079334,
+                        -49.271334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laguna Capri",
+                  "text": "De pe malurile acestei lagune alpine se deschide, pe vreme senină, o priveliște spectaculoasă asupra masivului Fitz Roy.",
+                  "category": "natural",
+                  "coords": [
+                        -72.929679,
+                        -49.302854
+                  ]
+            },
+            {
+                  "name": "Mirador Maestri",
+                  "text": "Acest punct de belvedere de pe marginea unei morene glaciare oferă o vedere uluitoare asupra ghețarului Torre și a vârfurilor de granit din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -73.001757,
+                        -49.318198
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest punct panoramic de pe traseele de drumeție din jurul masivului Fitz Roy deschide perspective ample asupra stepei sălbatice patagonice.",
+                  "category": "natural",
+                  "coords": [
+                        -73.015087,
+                        -49.227234
+                  ]
+            },
+            {
+                  "name": "Cerro Pollone",
+                  "text": "Acest vârf muntos accidentat din Anzii patagonici reprezintă o provocare serioasă pentru alpiniștii experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        -73.089713,
+                        -49.252992
+                  ]
+            },
+            {
+                  "name": "Aguja Saint-Exupery",
+                  "text": "Acul de piatră proeminent din apropierea masivului Fitz Roy a fost denumit în onoarea aviatorului și scriitorului francez Antoine de Saint-Exupéry.",
+                  "category": "natural",
+                  "coords": [
+                        -73.038817,
+                        -49.28818
+                  ]
+            },
+            {
+                  "name": "Aguja Poincenot",
+                  "text": "Acest ac abrupt de granit din masivul Fitz Roy poartă numele alpinistului francez Jacques Poincenot, care și-a pierdut viața în timpul unei expediții.",
+                  "category": "natural",
+                  "coords": [
+                        -73.039788,
+                        -49.280453
+                  ]
+            },
+            {
+                  "name": "Aguja Desmochada",
+                  "text": "Vârful aparent rupt al acestui ac de piatră îl transformă într-o formațiune inconfundabilă în panorama Anzilor patagonici.",
+                  "category": "natural",
+                  "coords": [
+                        -73.048863,
+                        -49.278218
+                  ]
+            },
+            {
+                  "name": "Aguja de la Silla",
+                  "text": "Acul proeminent de granit își datorează numele formei sale asemănătoare unei șei, care îl distinge clar de vârfurile patagonice din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -73.047999,
+                        -49.275631
+                  ]
+            },
+            {
+                  "name": "Monte Fitz Roy",
+                  "text": "Acest munte legendar de granit de 3405 metri altitudine de la granița dintre Argentina și Chile este renumit pe plan mondial pentru pereții săi abrupți, adesea acoperiți de nori.",
+                  "category": "natural",
+                  "coords": [
+                        -73.043211,
+                        -49.27125
+                  ]
+            },
+            {
+                  "name": "Mirador Fitz Roy",
+                  "text": "Acest punct de belvedere panoramic oferă priveliști ample asupra vârfurilor stâncoase iconice ale masivului Fitz Roy.",
+                  "category": "natural",
+                  "coords": [
+                        -72.920067,
+                        -49.300226
+                  ]
+            },
+            {
+                  "name": "León",
+                  "text": "León este un vârf montan proeminent în Anzii Patagonieni, oferind un teren dificil pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        -72.925027,
+                        -49.309205
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Torre",
+                  "text": "Acest punct de observare pitoresc are vedere la apele glaciare din Laguna Torre, având pe fundal spectaculoasele vârfuri Cerro Torre.",
+                  "category": "natural",
+                  "coords": [
+                        -72.988927,
+                        -49.330103
+                  ]
+            },
+            {
+                  "name": "Mirador Cerra Torre",
+                  "text": "De la acest punct de observație stâncos, vizitatorii pot admira impresionantul ac de granit al muntelui Cerro Torre.",
+                  "category": "natural",
+                  "coords": [
+                        -72.957442,
+                        -49.333767
+                  ]
+            },
+            {
+                  "name": "L. de los Tres y Fitz Roy",
+                  "text": "Acest punct de belvedere înalt oferă priveliști uluitoare ale Lagunei de los Tres de un albastru vibrant, situată chiar sub falnicul Fitz Roy.",
+                  "category": "natural",
+                  "coords": [
+                        -72.985718,
+                        -49.279791
+                  ]
+            },
+            {
+                  "name": "Entre las rocas",
+                  "text": "Un punct de belvedere natural pitoresc, situat printre bolovani masivi, oferind o perspectivă unică înrămată asupra văilor glaciare din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -72.984116,
+                        -49.280175
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Piedras Blancas",
+                  "text": "O zonă de observație neatinsă, poziționată pentru a oferi vederi directe ale căderilor de gheață accidentate ale ghețarului Piedras Blancas.",
+                  "category": "natural",
+                  "coords": [
+                        -72.949761,
+                        -49.264605
+                  ]
+            },
+            {
+                  "name": "Mirador Piedras Blancas",
+                  "text": "Acest punct de belvedere permite drumeților să asiste la nuanțele de albastru uimitoare și la seracurile masive ale ghețarului Piedras Blancas în avansare.",
+                  "category": "natural",
+                  "coords": [
+                        -72.952705,
+                        -49.275033
+                  ]
+            },
+            {
+                  "name": "Sitio Natural Cordillera del Chaltén",
+                  "text": "Această rezervație naturală accidentată protejează vârfurile dramatice și văile glaciare virgine ale lanțului muntos Chaltén.",
+                  "category": "natural",
+                  "coords": [
+                        -73.079334,
+                        -49.271334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laguna Capri",
+                  "text": "The shores of this alpine lagoon offer spectacular views of the Fitz Roy massif in clear weather.",
+                  "category": "natural",
+                  "coords": [
+                        -72.929679,
+                        -49.302854
+                  ]
+            },
+            {
+                  "name": "Mirador Maestri",
+                  "text": "This viewpoint on the edge of a glacial moraine offers a breathtaking view of the Torre glacier and the surrounding granite peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -73.001757,
+                        -49.318198
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "This panoramic point on the hiking trails around Fitz Roy opens up sweeping views across the rugged Patagonian steppe.",
+                  "category": "natural",
+                  "coords": [
+                        -73.015087,
+                        -49.227234
+                  ]
+            },
+            {
+                  "name": "Cerro Pollone",
+                  "text": "This rugged mountain peak in the Patagonian Andes presents a demanding challenge for experienced alpinists.",
+                  "category": "natural",
+                  "coords": [
+                        -73.089713,
+                        -49.252992
+                  ]
+            },
+            {
+                  "name": "Aguja Saint-Exupery",
+                  "text": "The striking rock needle near Fitz Roy was named in honour of the French aviator and writer Antoine de Saint-Exupéry.",
+                  "category": "natural",
+                  "coords": [
+                        -73.038817,
+                        -49.28818
+                  ]
+            },
+            {
+                  "name": "Aguja Poincenot",
+                  "text": "This steep granite needle in the Fitz Roy massif bears the name of the French mountaineer Jacques Poincenot, who died during an expedition.",
+                  "category": "natural",
+                  "coords": [
+                        -73.039788,
+                        -49.280453
+                  ]
+            },
+            {
+                  "name": "Aguja Desmochada",
+                  "text": "The seemingly broken tip of this rock needle makes it an unmistakable formation in the panorama of the Patagonian Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -73.048863,
+                        -49.278218
+                  ]
+            },
+            {
+                  "name": "Aguja de la Silla",
+                  "text": "The prominent granite needle owes its name to its saddle-like shape, clearly distinguishing it from the surrounding Patagonian peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -73.047999,
+                        -49.275631
+                  ]
+            },
+            {
+                  "name": "Monte Fitz Roy",
+                  "text": "This legendary 3405-metre-high granite mountain on the border between Argentina and Chile is world-famous for its dramatic, often cloud-shrouded sheer faces.",
+                  "category": "natural",
+                  "coords": [
+                        -73.043211,
+                        -49.27125
+                  ]
+            },
+            {
+                  "name": "Mirador Fitz Roy",
+                  "text": "This panoramic viewpoint offers sweeping vistas of the iconic, jagged peaks of the Fitz Roy massif.",
+                  "category": "natural",
+                  "coords": [
+                        -72.920067,
+                        -49.300226
+                  ]
+            },
+            {
+                  "name": "León",
+                  "text": "León is a prominent mountain peak within the rugged Patagonian Andes, offering challenging terrain for climbers.",
+                  "category": "natural",
+                  "coords": [
+                        -72.925027,
+                        -49.309205
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna Torre",
+                  "text": "This scenic viewpoint overlooks the glacial waters of Laguna Torre, with the spectacular Cerro Torre spires in the backdrop.",
+                  "category": "natural",
+                  "coords": [
+                        -72.988927,
+                        -49.330103
+                  ]
+            },
+            {
+                  "name": "Mirador Cerra Torre",
+                  "text": "From this rocky outlook, visitors can admire the striking granite needle of Cerro Torre piercing the sky.",
+                  "category": "natural",
+                  "coords": [
+                        -72.957442,
+                        -49.333767
+                  ]
+            },
+            {
+                  "name": "L. de los Tres y Fitz Roy",
+                  "text": "This elevated viewpoint commands breathtaking sights of the vibrant blue Laguna de los Tres nestled right beneath the towering Fitz Roy.",
+                  "category": "natural",
+                  "coords": [
+                        -72.985718,
+                        -49.279791
+                  ]
+            },
+            {
+                  "name": "Entre las rocas",
+                  "text": "A scenic natural viewpoint situated amongst massive boulders, offering a unique framed perspective of the surrounding glacial valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -72.984116,
+                        -49.280175
+                  ]
+            },
+            {
+                  "name": "Mirador Glaciar Piedras Blancas",
+                  "text": "A pristine observation area positioned to provide direct views of the rugged icefalls of the Piedras Blancas Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -72.949761,
+                        -49.264605
+                  ]
+            },
+            {
+                  "name": "Mirador Piedras Blancas",
+                  "text": "This overlook allows hikers to witness the stunning blue hues and massive seracs of the advancing Piedras Blancas Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -72.952705,
+                        -49.275033
+                  ]
+            },
+            {
+                  "name": "Sitio Natural Cordillera del Chaltén",
+                  "text": "This rugged nature reserve protects the dramatic peaks and pristine glacial valleys of the Chaltén mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -73.079334,
+                        -49.271334
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-Z",
     coords: [-73.0433, -49.2713],
@@ -131,7 +977,520 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-cerro-torre-nature-v2",
+    id: "ar-cerro-torre-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Piergiorgio",
+                  "text": "Dieser markante Granitgipfel in der Nähe des Cerro Torre zeichnet sich durch seine gewaltige, steile Westwand aus.",
+                  "category": "natural",
+                  "coords": [
+                        -73.094741,
+                        -49.256655
+                  ]
+            },
+            {
+                  "name": "Cerro Rincón",
+                  "text": "Dieser schneebedeckte Gipfel thront über dem Südlichen Patagonischen Eisfeld und ist ein markanter Teil der rauen Skyline der Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -73.133237,
+                        -49.266714
+                  ]
+            },
+            {
+                  "name": "Circo de los Altares",
+                  "text": "Dieser atemberaubende Gletscherkessel auf dem Eisfeld bietet dramatische, fast unwirkliche Ausblicke auf die Westwände des Cerro Torre-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.12667,
+                        -49.280363
+                  ]
+            },
+            {
+                  "name": "Punta Herron",
+                  "text": "Diese scharfe Granitnadel liegt direkt auf dem markanten Grat zwischen dem Torre Egger und dem Cerro Standhardt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098296,
+                        -49.288526
+                  ]
+            },
+            {
+                  "name": "Cerro Standhardt",
+                  "text": "Diese steile Felsnadel, die oft an ihrer pilzförmigen Eiskappe zu erkennen ist, ist der nördlichste Gipfel der legendären Cerro Torre-Kette.",
+                  "category": "natural",
+                  "coords": [
+                        -73.096475,
+                        -49.286722
+                  ]
+            },
+            {
+                  "name": "Punta Philip",
+                  "text": "Diese gewaltige Felsnadel ragt in den patagonischen Himmel und fordert Alpinisten mit ihren steilen Granitwänden heraus.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099754,
+                        -49.278457
+                  ]
+            },
+            {
+                  "name": "Cerro Domo Blanco",
+                  "text": "Getreu seinem Namen weist dieser Berg eine abgerundete, stark vergletscherte Kuppe aus ewigem Schnee auf, die das weite Eisfeld überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.105337,
+                        -49.26718
+                  ]
+            },
+            {
+                  "name": "Aguja CAT",
+                  "text": "Tief in den dramatischen Bergkämmen des umliegenden Massivs versteckt, stellt diese abgelegene Granitnadel eine technische Herausforderung für Bergsteiger dar.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10157,
+                        -49.270893
+                  ]
+            },
+            {
+                  "name": "Aguja Cuatro Dedos",
+                  "text": "Diese felsige Nadel ist leicht an ihrer einzigartigen, zerklüfteten Silhouette zu erkennen, die perfekt vier nach oben gestreckten Fingern aus Stein ähnelt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098176,
+                        -49.273568
+                  ]
+            },
+            {
+                  "name": "Cerro Grande",
+                  "text": "Dieser weitläufige, vergletscherte Berg fungiert als riesige natürliche Barriere mit Blick auf die eisigen Weiten nahe dem Torre-Gletscher.",
+                  "category": "natural",
+                  "coords": [
+                        -73.097972,
+                        -49.338569
+                  ]
+            },
+            {
+                  "name": "Cerro Ñato",
+                  "text": "Im Gegensatz zu den scharfen Felsnadeln der Umgebung weist dieser Gipfel eine auffällig stumpfe und raue, durch intensive Gletscherverwitterung geformte Kuppe auf.",
+                  "category": "natural",
+                  "coords": [
+                        -73.094135,
+                        -49.318478
+                  ]
+            },
+            {
+                  "name": "Cerro Doblado",
+                  "text": "Dieser schroffe Berg macht seinem Namen alle Ehre und zeigt sichtbare, gefaltete Gesteinsschichten, die von den enormen tektonischen Kräften der Anden zeugen.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102009,
+                        -49.325319
+                  ]
+            },
+            {
+                  "name": "Torre Egger",
+                  "text": "Diese steile, kugelförmige Granitnadel ist eng zwischen dem Cerro Torre und dem Cerro Standhardt eingekeilt und für ihre extrem schwierigen Besteigungen berüchtigt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099131,
+                        -49.290887
+                  ]
+            },
+            {
+                  "name": "Cerro Torre",
+                  "text": "Dieser hoch aufragende, ikonische Gipfel ist weltberühmt für seine senkrechten Granitwände und wird ständig von einem kolossalen Pilz aus Raueis gekrönt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099231,
+                        -49.291937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Piergiorgio",
+                  "text": "Ezt a Cerro Torre közelében emelkedő, lenyűgöző gránitcsúcsot a hatalmas, meredek nyugati fala teszi különlegessé.",
+                  "category": "natural",
+                  "coords": [
+                        -73.094741,
+                        -49.256655
+                  ]
+            },
+            {
+                  "name": "Cerro Rincón",
+                  "text": "A déli patagóniai jégmező fölé magasodó hófödte csúcs az Andok zord sziluettjének egyik kiemelkedő pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -73.133237,
+                        -49.266714
+                  ]
+            },
+            {
+                  "name": "Circo de los Altares",
+                  "text": "Ez a jégmezőn található lenyűgöző gleccserkatlan drámai, túlvilági kilátást nyújt a Cerro Torre masszívum nyugati falaira.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.12667,
+                        -49.280363
+                  ]
+            },
+            {
+                  "name": "Punta Herron",
+                  "text": "Ez az éles gránittű közvetlenül a Torre Egger és a Cerro Standhardt közötti drámai hegygerincen helyezkedik el.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098296,
+                        -49.288526
+                  ]
+            },
+            {
+                  "name": "Cerro Standhardt",
+                  "text": "A gyakran gomba alakú jégsapkájáról felismerhető meredek sziklatű a legendás Cerro Torre láncolat legészakibb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -73.096475,
+                        -49.286722
+                  ]
+            },
+            {
+                  "name": "Punta Philip",
+                  "text": "A patagóniai égboltba nyúló, félelmetes sziklatű meredek gránitfalaival jelent kihívást az alpinisták számára.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099754,
+                        -49.278457
+                  ]
+            },
+            {
+                  "name": "Cerro Domo Blanco",
+                  "text": "Nevéhez hűen ez a hegy egy lekerekített, erősen eljegesedett, örök hóval borított kupolával rendelkezik, amely a hatalmas jégmezőre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -73.105337,
+                        -49.26718
+                  ]
+            },
+            {
+                  "name": "Aguja CAT",
+                  "text": "A környező masszívum drámai gerincei között megbúvó, távoli gránittű technikás mászást jelent a hegymászóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10157,
+                        -49.270893
+                  ]
+            },
+            {
+                  "name": "Aguja Cuatro Dedos",
+                  "text": "Ez a sziklás hegytű könnyen felismerhető a négy felfelé nyúló kőujjra emlékeztető egyedi, csipkézett sziluettjéről.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098176,
+                        -49.273568
+                  ]
+            },
+            {
+                  "name": "Cerro Grande",
+                  "text": "Ez a kiterjedt, eljegesedett hegy hatalmas természetes gátként magasodik a Torre-gleccser melletti jeges kiterjedések fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -73.097972,
+                        -49.338569
+                  ]
+            },
+            {
+                  "name": "Cerro Ñato",
+                  "text": "A környező éles sziklatűkkel ellentétben ez a csúcs egy jellegzetesen tompa és zord, az intenzív gleccsererózió által formált tetővel rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        -73.094135,
+                        -49.318478
+                  ]
+            },
+            {
+                  "name": "Cerro Doblado",
+                  "text": "Nevéhez hűen ez a zord hegy látható, gyűrött kőzetrétegeket mutat, amelyek az Andokat formáló hatalmas tektonikus erőkről tanúskodnak.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102009,
+                        -49.325319
+                  ]
+            },
+            {
+                  "name": "Torre Egger",
+                  "text": "A Cerro Torre és a Cerro Standhardt közé szorult, meredek, golyó alakú gránittű a rendkívül nehéz mászásairól hírhedt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099131,
+                        -49.290887
+                  ]
+            },
+            {
+                  "name": "Cerro Torre",
+                  "text": "A puszta, függőleges gránitfalairól világhírű, tornyosuló, ikonikus sziklatű tetejét folyamatosan egy hatalmas zúzmaragomba borítja.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099231,
+                        -49.291937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Piergiorgio",
+                  "text": "Acest vârf impresionant de granit de lângă Cerro Torre se caracterizează prin peretele său vestic masiv și abrupt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.094741,
+                        -49.256655
+                  ]
+            },
+            {
+                  "name": "Cerro Rincón",
+                  "text": "Ridicându-se deasupra Câmpului de Gheață Patagonian de Sud, acest vârf acoperit de zăpadă este un element proeminent al orizontului andin.",
+                  "category": "natural",
+                  "coords": [
+                        -73.133237,
+                        -49.266714
+                  ]
+            },
+            {
+                  "name": "Circo de los Altares",
+                  "text": "Această depresiune glaciară impresionantă de pe câmpul de gheață oferă priveliști dramatice asupra fețelor vestice ale masivului Cerro Torre.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.12667,
+                        -49.280363
+                  ]
+            },
+            {
+                  "name": "Punta Herron",
+                  "text": "Această turlă ascuțită de granit se află direct pe creasta dramatică dintre Torre Egger și Cerro Standhardt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098296,
+                        -49.288526
+                  ]
+            },
+            {
+                  "name": "Cerro Standhardt",
+                  "text": "Recunoscut adesea după calota sa de gheață în formă de ciupercă, acest ac abrupt este cel mai nordic vârf din legendarul lanț Cerro Torre.",
+                  "category": "natural",
+                  "coords": [
+                        -73.096475,
+                        -49.286722
+                  ]
+            },
+            {
+                  "name": "Punta Philip",
+                  "text": "Ridicându-se spre cerul patagonian, acest formidabil ac de stâncă provoacă alpiniștii cu pereții săi abrupți de granit.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099754,
+                        -49.278457
+                  ]
+            },
+            {
+                  "name": "Cerro Domo Blanco",
+                  "text": "Fidel numelui său, acest munte prezintă o cupolă rotunjită, puternic glaciată, cu zăpadă perenă, care domină vastul câmp de gheață.",
+                  "category": "natural",
+                  "coords": [
+                        -73.105337,
+                        -49.26718
+                  ]
+            },
+            {
+                  "name": "Aguja CAT",
+                  "text": "Ascuns adânc printre crestele dramatice ale masivului înconjurător, această turlă izolată de granit reprezintă o ascensiune tehnică pentru alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10157,
+                        -49.270893
+                  ]
+            },
+            {
+                  "name": "Aguja Cuatro Dedos",
+                  "text": "Acest ac stâncos este ușor de identificat prin conturul său unic, zimțat, care seamănă perfect cu patru degete de piatră îndreptate în sus.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098176,
+                        -49.273568
+                  ]
+            },
+            {
+                  "name": "Cerro Grande",
+                  "text": "Acest munte vast și glaciar acționează ca o barieră naturală masivă, dominând întinderile de gheață din apropierea ghețarului Torre.",
+                  "category": "natural",
+                  "coords": [
+                        -73.097972,
+                        -49.338569
+                  ]
+            },
+            {
+                  "name": "Cerro Ñato",
+                  "text": "În contrast cu acele ascuțite din jur, acest vârf prezintă o creastă distinct de bontă și accidentată, modelată de eroziunea glaciară intensă.",
+                  "category": "natural",
+                  "coords": [
+                        -73.094135,
+                        -49.318478
+                  ]
+            },
+            {
+                  "name": "Cerro Doblado",
+                  "text": "Făcând cinste numelui său, acest munte accidentat prezintă straturi vizibile de rocă cutată, care dezvăluie imensele forțe tectonice ale Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102009,
+                        -49.325319
+                  ]
+            },
+            {
+                  "name": "Torre Egger",
+                  "text": "Încastrată strâns între Cerro Torre și Cerro Standhardt, această turlă abruptă de granit, în formă de glonț, este celebră pentru ascensiunile sale extrem de dificile.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099131,
+                        -49.290887
+                  ]
+            },
+            {
+                  "name": "Cerro Torre",
+                  "text": "Renumit în întreaga lume pentru fețele sale verticale de granit, acest ac falnic și iconic este încoronat permanent de o ciupercă colosală de chiciură.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099231,
+                        -49.291937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Piergiorgio",
+                  "text": "This striking granite peak near Cerro Torre is characterized by its massive, sheer western wall challenging seasoned climbers.",
+                  "category": "natural",
+                  "coords": [
+                        -73.094741,
+                        -49.256655
+                  ]
+            },
+            {
+                  "name": "Cerro Rincón",
+                  "text": "Looming over the Southern Patagonian Ice Field, this snow-capped peak is a prominent fixture of the rugged Andean skyline.",
+                  "category": "natural",
+                  "coords": [
+                        -73.133237,
+                        -49.266714
+                  ]
+            },
+            {
+                  "name": "Circo de los Altares",
+                  "text": "This awe-inspiring glacial bowl on the ice field offers dramatic, otherworldly views of the western faces of the Cerro Torre massif.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.12667,
+                        -49.280363
+                  ]
+            },
+            {
+                  "name": "Punta Herron",
+                  "text": "This sharp granite spire sits directly on the dramatic ridgeline between Torre Egger and Cerro Standhardt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098296,
+                        -49.288526
+                  ]
+            },
+            {
+                  "name": "Cerro Standhardt",
+                  "text": "Often recognizable by its mushroom-shaped ice cap, this steep needle is the northernmost peak of the legendary Cerro Torre chain.",
+                  "category": "natural",
+                  "coords": [
+                        -73.096475,
+                        -49.286722
+                  ]
+            },
+            {
+                  "name": "Punta Philip",
+                  "text": "Reaching into the Patagonian sky, this formidable rock needle challenges alpinists with its steep granite walls.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099754,
+                        -49.278457
+                  ]
+            },
+            {
+                  "name": "Cerro Domo Blanco",
+                  "text": "True to its name, this mountain features a rounded, heavily glaciated dome of perennial snow overlooking the vast ice field.",
+                  "category": "natural",
+                  "coords": [
+                        -73.105337,
+                        -49.26718
+                  ]
+            },
+            {
+                  "name": "Aguja CAT",
+                  "text": "Tucked deeply within the dramatic ridges of the surrounding massif, this remote granite spire poses a technical ascent for mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        -73.10157,
+                        -49.270893
+                  ]
+            },
+            {
+                  "name": "Aguja Cuatro Dedos",
+                  "text": "This rocky needle is easily identified by its unique, jagged skyline that perfectly resembles four stone fingers reaching upward.",
+                  "category": "natural",
+                  "coords": [
+                        -73.098176,
+                        -49.273568
+                  ]
+            },
+            {
+                  "name": "Cerro Grande",
+                  "text": "This expansive, glaciated mountain acts as a massive natural barrier overlooking the icy expanses near the Torre Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -73.097972,
+                        -49.338569
+                  ]
+            },
+            {
+                  "name": "Cerro Ñato",
+                  "text": "Contrasting with the sharp spires around it, this peak features a distinctively blunt and rugged summit shaped by intense glacial weathering.",
+                  "category": "natural",
+                  "coords": [
+                        -73.094135,
+                        -49.318478
+                  ]
+            },
+            {
+                  "name": "Cerro Doblado",
+                  "text": "Living up to its name, this rugged mountain exhibits visible, folded rock strata that reveal the immense tectonic forces of the Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -73.102009,
+                        -49.325319
+                  ]
+            },
+            {
+                  "name": "Torre Egger",
+                  "text": "Wedged tightly between Cerro Torre and Cerro Standhardt, this steep, bullet-shaped granite spire is notorious for its extremely difficult ascents.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099131,
+                        -49.290887
+                  ]
+            },
+            {
+                  "name": "Cerro Torre",
+                  "text": "World-famous for its sheer vertical granite faces, this towering iconic spire is permanently topped by a colossal mushroom of rime ice.",
+                  "category": "natural",
+                  "coords": [
+                        -73.099231,
+                        -49.291937
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-Z",
     coords: [-73.0989, -49.2922],
@@ -195,7 +1554,232 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-volcan-lanin-nature-v2",
+    id: "ar-volcan-lanin-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Barbecho",
+                  "text": "Ein schroffer Berggipfel in den Anden, der sich inmitten der unberührten Natur in der Nähe des Lanín-Vulkans steil erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.563777,
+                        -39.679247
+                  ]
+            },
+            {
+                  "name": "Frontera Paso Mamuil Malal",
+                  "text": "Ein hochgelegener internationaler Gebirgspass, der als malerischer Grenzübergang zwischen Argentinien und Chile dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.461275,
+                        -39.582468
+                  ]
+            },
+            {
+                  "name": "Laguna El Toro",
+                  "text": "Ein ruhiger, isolierter Bergsee, der von dichten patagonischen Wäldern in der Nähe des Vulkans Lanín umgeben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.582468,
+                        -39.618925
+                  ]
+            },
+            {
+                  "name": "Cerro del Arenal",
+                  "text": "Ein markanter Andengipfel in der Lanín-Region, der sich durch seine sandigen, vulkanischen Hänge auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.591963,
+                        -39.673733
+                  ]
+            },
+            {
+                  "name": "Cerro Litran",
+                  "text": "Ein markanter Berggipfel im vulkanischen Gebiet von Lanín, der anspruchsvolle Pfade und Panoramablicke auf die Anden bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517965,
+                        -39.717104
+                  ]
+            },
+            {
+                  "name": "Lago Tromen",
+                  "text": "Eine malerische Seeattraktion in der natürlichen Landschaft der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.440837,
+                        -39.569739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Barbecho",
+                  "text": "Egy zord andoki hegycsúcs, amely meredeken emelkedik ki az érintetlen természetből a Lanín vulkán közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.563777,
+                        -39.679247
+                  ]
+            },
+            {
+                  "name": "Frontera Paso Mamuil Malal",
+                  "text": "Magaslati nemzetközi hegyi hágó, amely festői határátkelőhelyként szolgál Argentína és Chile között.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.461275,
+                        -39.582468
+                  ]
+            },
+            {
+                  "name": "Laguna El Toro",
+                  "text": "Nyugodt, elszigetelt hegyi tó, amelyet sűrű patagóniai erdők vesznek körül a Lanín vulkán közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.582468,
+                        -39.618925
+                  ]
+            },
+            {
+                  "name": "Cerro del Arenal",
+                  "text": "Jellegzetes andoki csúcs a Lanín régióban, amelyet homokos, vulkanikus lejtői tesznek különlegessé.",
+                  "category": "natural",
+                  "coords": [
+                        -71.591963,
+                        -39.673733
+                  ]
+            },
+            {
+                  "name": "Cerro Litran",
+                  "text": "Látványos hegycsúcs a Lanín vulkáni területén, amely kihívást jelentő ösvényeket és panorámás kilátást kínál az Andokra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517965,
+                        -39.717104
+                  ]
+            },
+            {
+                  "name": "Lago Tromen",
+                  "text": "Festői tavi látványosság a régió természeti táján.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.440837,
+                        -39.569739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Barbecho",
+                  "text": "Un vârf montan andin accidentat care se înalță abrupt în mijlocul naturii imaculate din apropierea vulcanului Lanín.",
+                  "category": "natural",
+                  "coords": [
+                        -71.563777,
+                        -39.679247
+                  ]
+            },
+            {
+                  "name": "Frontera Paso Mamuil Malal",
+                  "text": "O trecătoare montană internațională la mare altitudine, care servește drept o trecere de frontieră pitorească între Argentina și Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.461275,
+                        -39.582468
+                  ]
+            },
+            {
+                  "name": "Laguna El Toro",
+                  "text": "Un lac de munte senin, izolat, înconjurat de păduri dense patagonice, în apropierea vulcanului Lanín.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.582468,
+                        -39.618925
+                  ]
+            },
+            {
+                  "name": "Cerro del Arenal",
+                  "text": "Un vârf andin distinctiv în regiunea Lanín caracterizat de pantele sale nisipoase, vulcanice.",
+                  "category": "natural",
+                  "coords": [
+                        -71.591963,
+                        -39.673733
+                  ]
+            },
+            {
+                  "name": "Cerro Litran",
+                  "text": "Un vârf montan impresionant în zona vulcanică Lanín, oferind trasee provocatoare și vederi panoramice asupra Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517965,
+                        -39.717104
+                  ]
+            },
+            {
+                  "name": "Lago Tromen",
+                  "text": "O atracție peisagistică lacustră situată în peisajul natural al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.440837,
+                        -39.569739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Barbecho",
+                  "text": "A rugged Andean mountain peak rising sharply within the pristine natural surroundings near the Lanín volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -71.563777,
+                        -39.679247
+                  ]
+            },
+            {
+                  "name": "Frontera Paso Mamuil Malal",
+                  "text": "A high-altitude international mountain pass serving as a scenic border crossing between Argentina and Chile.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.461275,
+                        -39.582468
+                  ]
+            },
+            {
+                  "name": "Laguna El Toro",
+                  "text": "A serene, isolated mountain lake surrounded by dense Patagonian forests near the Lanín volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.582468,
+                        -39.618925
+                  ]
+            },
+            {
+                  "name": "Cerro del Arenal",
+                  "text": "A distinctive Andean summit in the Lanín region characterized by its sandy, volcanic slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.591963,
+                        -39.673733
+                  ]
+            },
+            {
+                  "name": "Cerro Litran",
+                  "text": "A striking mountain peak in the Lanín volcanic area offering challenging trails and panoramic Andean vistas.",
+                  "category": "natural",
+                  "coords": [
+                        -71.517965,
+                        -39.717104
+                  ]
+            },
+            {
+                  "name": "Lago Tromen",
+                  "text": "A scenic lake attraction situated in the natural landscape of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.440837,
+                        -39.569739
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-Q",
     coords: [-71.4983, -39.6322],
@@ -387,7 +1971,88 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-llullaillaco-nature-v2",
+    id: "ar-llullaillaco-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Silla",
+                  "text": "Der Cerro Silla ist ein markanter Berggipfel, der in der trockenen und rauen Hochgebirgslandschaft nahe dem Vulkan Llullaillaco liegt.",
+                  "category": "natural",
+                  "coords": [
+                        -68.56657,
+                        -24.790649
+                  ]
+            },
+            {
+                  "name": "paraviento",
+                  "text": "Diese hochgelegenen Paraviento-Ruinen bestehen aus niedrigen Steinmauern, die von indigenen Reisenden oder Inka-Bergsteigern zum Schutz vor den heftigen Andenwinden erbaut wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -68.536194,
+                        -24.71952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Silla",
+                  "text": "A Cerro Silla egy kiemelkedő hegycsúcs a Llullaillaco vulkán közelében található száraz és zord hegyvidéki tájon.",
+                  "category": "natural",
+                  "coords": [
+                        -68.56657,
+                        -24.790649
+                  ]
+            },
+            {
+                  "name": "paraviento",
+                  "text": "Ezek a magasan fekvő paraviento romok alacsony kőfalakból állnak, amelyeket az őslakos utazók vagy inka hegymászók építettek, hogy védelmet nyújtsanak a heves andoki szelek ellen.",
+                  "category": "historical",
+                  "coords": [
+                        -68.536194,
+                        -24.71952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Silla",
+                  "text": "Cerro Silla este un vârf montan proeminent situat în peisajul arid și accidentat de mare altitudine din apropierea vulcanului Llullaillaco.",
+                  "category": "natural",
+                  "coords": [
+                        -68.56657,
+                        -24.790649
+                  ]
+            },
+            {
+                  "name": "paraviento",
+                  "text": "Aceste ruine paraviento de mare altitudine constau în ziduri joase de piatră construite de călătorii indigeni sau alpiniștii incași pentru protecție împotriva vânturilor puternice andine.",
+                  "category": "historical",
+                  "coords": [
+                        -68.536194,
+                        -24.71952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Silla",
+                  "text": "Cerro Silla is a prominent mountain peak situated within the arid and rugged high-altitude landscape near the Llullaillaco volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -68.56657,
+                        -24.790649
+                  ]
+            },
+            {
+                  "name": "paraviento",
+                  "text": "These high-altitude paraviento ruins consist of low stone walls built by indigenous travelers or Inca climbers for protection against fierce Andean winds.",
+                  "category": "historical",
+                  "coords": [
+                        -68.536194,
+                        -24.71952
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-A",
     coords: [-68.5364, -24.7247],
@@ -451,7 +2116,52 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-ojos-del-salado-nature-v2",
+    id: "ar-ojos-del-salado-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Walther Penck",
+                  "text": "Ein massiver Vulkangipfel in den Anden, der als einer der höchsten Berge in der Region Ojos del Salado bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -68.561042,
+                        -27.195872
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Walther Penck",
+                  "text": "Egy hatalmas vulkáni csúcs az Andokban, amely az Ojos del Salado régió egyik legmagasabb hegyeként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -68.561042,
+                        -27.195872
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Walther Penck",
+                  "text": "Un vârf vulcanic masiv din Anzi, cunoscut ca unul dintre cei mai înalți munți din regiunea Ojos del Salado.",
+                  "category": "natural",
+                  "coords": [
+                        -68.561042,
+                        -27.195872
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Walther Penck",
+                  "text": "A massive volcanic peak in the Andes, known as one of the highest mountains in the Ojos del Salado region.",
+                  "category": "natural",
+                  "coords": [
+                        -68.561042,
+                        -27.195872
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AR-K",
     coords: [-68.5414, -27.1092],
@@ -515,7 +2225,88 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-lago-nahuel-huapi-nature-v2",
+    id: "ar-lago-nahuel-huapi-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Lago Huemul",
+                  "text": "Ein malerischer Aussichtspunkt, der eine weite, ruhige Perspektive auf das unberührte Wasser des Lago Huemul bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.403485,
+                        -40.936742
+                  ]
+            },
+            {
+                  "name": "Cerro Monjes",
+                  "text": "Ein markanter Andengipfel, dessen schroffe Felsformationen dramatisch über die umliegenden Gletscherseen blicken.",
+                  "category": "natural",
+                  "coords": [
+                        -71.370822,
+                        -40.965329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Lago Huemul",
+                  "text": "Festői kilátó, amely tágas, nyugodt perspektívát nyújt a Lago Huemul érintetlen vizeire.",
+                  "category": "natural",
+                  "coords": [
+                        -71.403485,
+                        -40.936742
+                  ]
+            },
+            {
+                  "name": "Cerro Monjes",
+                  "text": "Egy kiemelkedő andoki hegycsúcs, amelynek zord sziklaképződményei drámaian magasodnak a környező gleccsertavak fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -71.370822,
+                        -40.965329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Lago Huemul",
+                  "text": "Un punct de belvedere pitoresc ce oferă o perspectivă vastă și senină asupra apelor imaculate ale lacului Huemul.",
+                  "category": "natural",
+                  "coords": [
+                        -71.403485,
+                        -40.936742
+                  ]
+            },
+            {
+                  "name": "Cerro Monjes",
+                  "text": "Un vârf andin proeminent, ale cărui formațiuni stâncoase abrupte domină dramatic lacurile glaciare din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -71.370822,
+                        -40.965329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Lago Huemul",
+                  "text": "A scenic viewpoint providing an expansive, serene perspective over the pristine waters of Lago Huemul.",
+                  "category": "natural",
+                  "coords": [
+                        -71.403485,
+                        -40.936742
+                  ]
+            },
+            {
+                  "name": "Cerro Monjes",
+                  "text": "A prominent Andean peak whose craggy, rock formations dramatically overlook the surrounding glacial lakes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.370822,
+                        -40.965329
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AR-R",
     coords: [-71.4589, -40.9233],
@@ -579,7 +2370,88 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-lago-argentino-nature-v2",
+    id: "ar-lago-argentino-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punta Walichu (Cuevas de Gualicho)",
+                  "text": "Diese archäologische Stätte am Ufer des Lago Argentino bewahrt alte indigene Felsmalereien tief im Inneren natürlicher Höhlen auf.",
+                  "category": "museum",
+                  "coords": [
+                        -72.202568,
+                        -50.29483
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Dieser erhöhte Aussichtspunkt bietet einen weiten Blick über das riesige, gletscherblaue Wasser des Lago Argentino.",
+                  "category": "natural",
+                  "coords": [
+                        -72.314733,
+                        -50.301834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punta Walichu (Cuevas de Gualicho)",
+                  "text": "A Lago Argentino partján fekvő régészeti lelőhely ősi őslakos sziklafestményeket őriz a természetes barlangok mélyén.",
+                  "category": "museum",
+                  "coords": [
+                        -72.202568,
+                        -50.29483
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ez a magaslati kilátó pazar rálátást nyújt a Lago Argentino hatalmas, gleccserkék vizére.",
+                  "category": "natural",
+                  "coords": [
+                        -72.314733,
+                        -50.301834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punta Walichu (Cuevas de Gualicho)",
+                  "text": "Situat pe malul lacului Argentino, acest sit arheologic păstrează picturi rupestre indigene antice adânc în interiorul peșterilor naturale.",
+                  "category": "museum",
+                  "coords": [
+                        -72.202568,
+                        -50.29483
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Acest punct de belvedere înalt oferă o perspectivă amplă asupra apelor vaste și de un albastru glaciar ale lacului Argentino.",
+                  "category": "natural",
+                  "coords": [
+                        -72.314733,
+                        -50.301834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punta Walichu (Cuevas de Gualicho)",
+                  "text": "Situated on the shores of Lago Argentino, this archaeological site preserves ancient indigenous rock paintings deep within natural caves.",
+                  "category": "museum",
+                  "coords": [
+                        -72.202568,
+                        -50.29483
+                  ]
+            },
+            {
+                  "name": "Lookout",
+                  "text": "This elevated viewpoint provides a sweeping perspective over the vast, glacial-blue waters of Lago Argentino.",
+                  "category": "natural",
+                  "coords": [
+                        -72.314733,
+                        -50.301834
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AR-Z",
     coords: [-72.235, -50.2319],
@@ -707,7 +2579,52 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-lago-buenos-aires-nature-v2",
+    id: "ar-lago-buenos-aires-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador",
+                  "text": "Ein malerischer Aussichtspunkt, der einen weiten, windgepeitschten Blick über die riesigen Gewässer des Lago Buenos Aires bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.654482,
+                        -46.52689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador",
+                  "text": "Szelek fújta festői kilátó, ahonnan tágas kilátás nyílik a Lago Buenos Aires hatalmas víztükrére.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.654482,
+                        -46.52689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de observație pitoresc care oferă priveliști largi și bătute de vânt peste apele vaste ale lacului Buenos Aires.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.654482,
+                        -46.52689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador",
+                  "text": "A scenic overlook providing expansive, windswept views across the vast waters of Lago Buenos Aires.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.654482,
+                        -46.52689
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AR-Z",
     coords: [-71.6967, -46.4461],
@@ -899,7 +2816,448 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-lago-traful-nature-v2",
+    id: "ar-lago-traful-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "saltos cascada",
+                  "text": "Über eine steinige Steigung in den dichten patagonischen Wäldern stürzen diese natürlichen Wasserfälle und bieten einen erfrischenden landschaftlichen Halt.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.496184,
+                        -40.632785
+                  ]
+            },
+            {
+                  "name": "Cerro Alto",
+                  "text": "Dieser markante patagonische Berggipfel verfügt über steile, felsige Grate, die Wanderer herausfordern und mit weitreichenden Talblicken belohnen.",
+                  "category": "natural",
+                  "coords": [
+                        -71.448823,
+                        -40.536503
+                  ]
+            },
+            {
+                  "name": "Cerro Mallín de la Cruzada",
+                  "text": "Dieser sich über hochgelegene Feuchtwiesen erhebende Berggipfel bietet einen rauen Aussichtspunkt auf die unberührte Andenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -71.341653,
+                        -40.551275
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Ausgezeichnet durch seine dunklen, imposanten Felsformationen, wirft dieser steile Andengipfel lange Schatten auf die umliegende patagonische Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        -71.372014,
+                        -40.535841
+                  ]
+            },
+            {
+                  "name": "Acceso Senda Catarata",
+                  "text": "Dieser Zugangspunkt markiert den Beginn eines vielbegangenen Waldweges und führt die Besucher durch die Bäume zu einem abgelegenen, herabstürzenden Wasserfall.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.493627,
+                        -40.628308
+                  ]
+            },
+            {
+                  "name": "Cerro Bayo",
+                  "text": "Dieser für seine weiten Hänge bekannte, markante Gipfel verwandelt sich im patagonischen Winter in ein lebhaftes Skigebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.420461,
+                        -40.579388
+                  ]
+            },
+            {
+                  "name": "Bosque sumergido",
+                  "text": "Dieser außergewöhnliche versunkene Wald besteht aus einem ganzen Hain intakter Zypressen, die in den kristallklaren Tiefen des Sees vollständig unter Wasser stehen.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.391917,
+                        -40.626059
+                  ]
+            },
+            {
+                  "name": "Mirador del Viento",
+                  "text": "Auf einer hohen Klippe gelegen, die starken Aufwinden ausgesetzt ist, bietet dieser Panoramablickpunkt spektakuläre, windige Aussichten auf den weiten blauen See darunter.",
+                  "category": "natural",
+                  "coords": [
+                        -71.345086,
+                        -40.665293
+                  ]
+            },
+            {
+                  "name": "Cerro Huelta",
+                  "text": "Dieser isolierte Berggipfel ist im rauen Hochland verankert und präsentiert steile alpine Hänge, die von widerstandsfähiger patagonischer Vegetation geprägt sind.",
+                  "category": "natural",
+                  "coords": [
+                        -71.327311,
+                        -40.634914
+                  ]
+            },
+            {
+                  "name": "Pinturas rupestres",
+                  "text": "Diese antiken Felsmalereien bewahren lebhaft die komplexen abstrakten Muster, die von einheimischen prähistorischen Jägern und Sammlern auf den Höhlenwänden hinterlassen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -71.310905,
+                        -40.618921
+                  ]
+            },
+            {
+                  "name": "Portezuelo",
+                  "text": "Dieser hochgelegene Gebirgspass bietet als Aussichtspunkt einen ungehinderten Blick hinab in das von Gletschern geformte Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -71.344097,
+                        -40.62526
+                  ]
+            },
+            {
+                  "name": "Virgen de la Gruta",
+                  "text": "Dieser bescheidene christliche Schrein ist sicher in einen natürlichen Felsausbruch eingebettet und beherbergt eine friedliche, von Opfergaben umgebene Marienstatue.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.368515,
+                        -40.632791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "saltos cascada",
+                  "text": "A sűrű patagóniai erdő sziklás lejtőin lezúduló természetes vízesések frissítő és festői megállót kínálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.496184,
+                        -40.632785
+                  ]
+            },
+            {
+                  "name": "Cerro Alto",
+                  "text": "Ez a kiemelkedő patagóniai hegycsúcs meredek, sziklás gerincekkel rendelkezik, amelyek kihívást jelentenek a túrázóknak, és széles völgyi panorámával jutalmazzák őket.",
+                  "category": "natural",
+                  "coords": [
+                        -71.448823,
+                        -40.536503
+                  ]
+            },
+            {
+                  "name": "Cerro Mallín de la Cruzada",
+                  "text": "A magasan fekvő vizenyős rétek fölé magasodó hegycsúcs zord kilátópontot nyújt az érintetlen andoki tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.341653,
+                        -40.551275
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "A sötét, impozáns sziklaalakzatairól felismerhető meredek andoki csúcs hosszú árnyékot vet a környező patagóniai vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.372014,
+                        -40.535841
+                  ]
+            },
+            {
+                  "name": "Acceso Senda Catarata",
+                  "text": "Egy jól járt erdei ösvény kezdetét jelezve ez a hozzáférési pont a fák között egy eldugott vízesés felé vezeti a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.493627,
+                        -40.628308
+                  ]
+            },
+            {
+                  "name": "Cerro Bayo",
+                  "text": "A széles lejtőiről ismert kiemelkedő hegycsúcs a patagóniai tél folyamán nyüzsgő síközponttá alakul.",
+                  "category": "natural",
+                  "coords": [
+                        -71.420461,
+                        -40.579388
+                  ]
+            },
+            {
+                  "name": "Bosque sumergido",
+                  "text": "Ez a különleges, víz alatti erdő egy egész érintetlen ciprusligetből áll, amely teljesen a tó kristálytiszta mélységébe merülve áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.391917,
+                        -40.626059
+                  ]
+            },
+            {
+                  "name": "Mirador del Viento",
+                  "text": "Az erős feláramlásoknak kitett magas sziklán elhelyezkedő panorámás kilátó látványos, szeles rálátást nyújt a lent elterülő hatalmas kék tóra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.345086,
+                        -40.665293
+                  ]
+            },
+            {
+                  "name": "Cerro Huelta",
+                  "text": "A zord felvidéki terepen magasodó izolált hegycsúcs meredek alpesi lejtőket mutat be, amelyeket ellenálló patagóniai növényzet borít.",
+                  "category": "natural",
+                  "coords": [
+                        -71.327311,
+                        -40.634914
+                  ]
+            },
+            {
+                  "name": "Pinturas rupestres",
+                  "text": "Ezek az ősi sziklafestmények élénken őrzik a barlangfalakon hagyott bonyolult absztrakt mintákat, amelyeket a történelem előtti őslakos vadászó-gyűjtögetők hagytak hátra.",
+                  "category": "historical",
+                  "coords": [
+                        -71.310905,
+                        -40.618921
+                  ]
+            },
+            {
+                  "name": "Portezuelo",
+                  "text": "A magasan fekvő hegyi hágónál található kilátópont zavartalan rálátást kínál a gleccserek által kivájt völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.344097,
+                        -40.62526
+                  ]
+            },
+            {
+                  "name": "Virgen de la Gruta",
+                  "text": "Egy természetes sziklaüregben megbújva ez a szerény keresztény szentély egy békés Szűz Mária-szobrocskát őriz, felajánlásokkal körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.368515,
+                        -40.632791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "saltos cascada",
+                  "text": "Prăvălindu-se pe o pantă stâncoasă în deasa pădure patagoniană, aceste cascade naturale oferă o oprire pitorească și revigorantă.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.496184,
+                        -40.632785
+                  ]
+            },
+            {
+                  "name": "Cerro Alto",
+                  "text": "Acest vârf de munte patagonian proeminent prezintă creste stâncoase abrupte care provoacă drumeții, răsplătindu-i cu vederi ample asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        -71.448823,
+                        -40.536503
+                  ]
+            },
+            {
+                  "name": "Cerro Mallín de la Cruzada",
+                  "text": "Ridicându-se deasupra pajiștilor umede de mare altitudine, acest vârf de munte oferă un punct de belvedere stâncos asupra peisajului andin neatins.",
+                  "category": "natural",
+                  "coords": [
+                        -71.341653,
+                        -40.551275
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Distins prin formațiunile sale stâncoase întunecate și impunătoare, acest vârf abrupt andin aruncă umbre lungi peste sălbăticia patagoniană înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -71.372014,
+                        -40.535841
+                  ]
+            },
+            {
+                  "name": "Acceso Senda Catarata",
+                  "text": "Marcând începutul unui traseu forestier bătătorit, acest punct de acces îndrumă vizitatorii printre copaci către o cascadă retrasă.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.493627,
+                        -40.628308
+                  ]
+            },
+            {
+                  "name": "Cerro Bayo",
+                  "text": "Cunoscut mai ales pentru pantele sale largi, acest vârf proeminent se transformă într-o destinație de schi aglomerată în timpul iernii patagoniene.",
+                  "category": "natural",
+                  "coords": [
+                        -71.420461,
+                        -40.579388
+                  ]
+            },
+            {
+                  "name": "Bosque sumergido",
+                  "text": "Această pădure scufundată extraordinară prezintă un crâng întreg de chiparoși intacți stând complet sub apă în adâncurile cristaline ale lacului.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.391917,
+                        -40.626059
+                  ]
+            },
+            {
+                  "name": "Mirador del Viento",
+                  "text": "Cocoțat pe o stâncă înaltă expusă la curenți ascendenți puternici, acest punct de belvedere panoramic oferă vederi spectaculoase și bătute de vânt asupra vastului lac albastru de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.345086,
+                        -40.665293
+                  ]
+            },
+            {
+                  "name": "Cerro Huelta",
+                  "text": "Ancorând terenul accidentat al zonei montane, acest vârf de munte izolat prezintă pante alpine abrupte dominate de vegetație patagoniană rezistentă.",
+                  "category": "natural",
+                  "coords": [
+                        -71.327311,
+                        -40.634914
+                  ]
+            },
+            {
+                  "name": "Pinturas rupestres",
+                  "text": "Aceste picturi rupestre antice păstrează cu vivacitate modelele abstracte complicate lăsate pe pereții cavernei de vânătorii-culegători indigeni preistorici.",
+                  "category": "historical",
+                  "coords": [
+                        -71.310905,
+                        -40.618921
+                  ]
+            },
+            {
+                  "name": "Portezuelo",
+                  "text": "Situat la o trecătoare montană de mare altitudine, acest punct de observație oferă o priveliște neobstrucționată în jos prin valea sculptată de ghețari.",
+                  "category": "natural",
+                  "coords": [
+                        -71.344097,
+                        -40.62526
+                  ]
+            },
+            {
+                  "name": "Virgen de la Gruta",
+                  "text": "Cuibărit în siguranță într-o cavitate naturală de stâncă, acest altar creștin modest adăpostește o mică statuetă pașnică a Fecioarei Maria, înconjurată de ofrande.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.368515,
+                        -40.632791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "saltos cascada",
+                  "text": "Tumbling down a rocky incline in the dense Patagonian forest, these natural cascading waterfalls offer a refreshing scenic stop.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.496184,
+                        -40.632785
+                  ]
+            },
+            {
+                  "name": "Cerro Alto",
+                  "text": "This prominent Patagonian mountain peak features steep, rocky ridges that challenge hikers and reward them with sweeping valley views.",
+                  "category": "natural",
+                  "coords": [
+                        -71.448823,
+                        -40.536503
+                  ]
+            },
+            {
+                  "name": "Cerro Mallín de la Cruzada",
+                  "text": "Rising above high-altitude wetland meadows, this mountain peak provides a rugged vantage point over the unspoiled Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.341653,
+                        -40.551275
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Distinguished by its dark, imposing rock formations, this steep Andean peak casts long shadows over the surrounding Patagonian wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -71.372014,
+                        -40.535841
+                  ]
+            },
+            {
+                  "name": "Acceso Senda Catarata",
+                  "text": "Marking the start of a well-trodden woodland trail, this access point guides visitors through the trees toward a secluded cascading waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.493627,
+                        -40.628308
+                  ]
+            },
+            {
+                  "name": "Cerro Bayo",
+                  "text": "Best known for its sweeping slopes, this prominent peak transforms into a bustling ski destination during the Patagonian winter.",
+                  "category": "natural",
+                  "coords": [
+                        -71.420461,
+                        -40.579388
+                  ]
+            },
+            {
+                  "name": "Bosque sumergido",
+                  "text": "This extraordinary submerged forest features an entire grove of intact cypress trees standing completely underwater in the crystalline depths of the lake.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.391917,
+                        -40.626059
+                  ]
+            },
+            {
+                  "name": "Mirador del Viento",
+                  "text": "Perched on a high cliff exposed to strong updrafts, this panoramic viewpoint offers spectacular, breezy overlooks of the vast blue lake below.",
+                  "category": "natural",
+                  "coords": [
+                        -71.345086,
+                        -40.665293
+                  ]
+            },
+            {
+                  "name": "Cerro Huelta",
+                  "text": "Anchoring the rugged highland terrain, this isolated mountain peak presents steep alpine slopes dominated by hardy Patagonian vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -71.327311,
+                        -40.634914
+                  ]
+            },
+            {
+                  "name": "Pinturas rupestres",
+                  "text": "These ancient rock paintings vividly preserve the intricate abstract patterns left on the cavern walls by indigenous prehistoric hunter-gatherers.",
+                  "category": "historical",
+                  "coords": [
+                        -71.310905,
+                        -40.618921
+                  ]
+            },
+            {
+                  "name": "Portezuelo",
+                  "text": "Situated at a high-elevation mountain pass, this vantage point offers an unobstructed sightline down through the glacially carved valley.",
+                  "category": "natural",
+                  "coords": [
+                        -71.344097,
+                        -40.62526
+                  ]
+            },
+            {
+                  "name": "Virgen de la Gruta",
+                  "text": "Nestled securely within a natural rock cavity, this modest Christian shrine shelters a peaceful statuette of the Virgin Mary surrounded by offerings.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.368515,
+                        -40.632791
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "AR-Q",
     coords: [-71.4056, -40.6122],
@@ -963,7 +3321,340 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     }
   },
   {
-    id: "ar-rio-parana-nature-v2",
+    id: "ar-rio-parana-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro cultural \"El viejo astillero\"",
+                  "text": "In einer ehemaligen Werft am Fluss Paraná gelegen, beherbergt dieses Kulturzentrum regionale Kunstausstellungen und Gemeindeveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.673635,
+                        -33.667027
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Dieser regionale Zoo in der Nähe des Flusses Paraná bietet Besuchern die Möglichkeit, verschiedene exotische und einheimische Tierarten in geschlossenen Lebensräumen zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.668123,
+                        -33.669029
+                  ]
+            },
+            {
+                  "name": "JUEGOS DEL PARQUE",
+                  "text": "Diese Spielplatzattraktion befindet sich in einer Parklandschaft der Paraná-Flussregion und bietet Spielgeräte im Freien für die Erholung von Kindern.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.6684,
+                        -33.673776
+                  ]
+            },
+            {
+                  "name": "Museo Paleontológico",
+                  "text": "Dieses paläontologische Museum zeigt prähistorische Fossilien, die im Paraná-Becken entdeckt wurden, und erforscht die alte Fauna der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -59.661682,
+                        -33.675001
+                  ]
+            },
+            {
+                  "name": "Complejo Las Amalias",
+                  "text": "Dieser Freizeitparkkomplex in der Region des Flusses Paraná bietet Fahrgeschäfte und familienorientierte Unterhaltungseinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.65994,
+                        -33.70794
+                  ]
+            },
+            {
+                  "name": "IGLESIA EVANGELICA BAUTISTA",
+                  "text": "Als lokales religiöses Zentrum in der Paraná-Flussregion beherbergt diese evangelisch-baptistische Kirche wöchentliche christliche Gottesdienste und Gemeindetreffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.649475,
+                        -33.691214
+                  ]
+            },
+            {
+                  "name": "IGLESIA CATOLICA LOS AROMOS",
+                  "text": "Diese lokale katholische Kirche im Viertel Los Aromos bietet in der Nähe des Flusses ein Refugium für christliche Gottesdienste und spirituelle Besinnung.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.677187,
+                        -33.695848
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Socorro",
+                  "text": "Eine markante katholische Pfarrkirche in der Nähe des Flusses Paraná, die für ihre traditionelle Architekturfassade und die religiöse Verehrung der Mutter von der Immerwährenden Hilfe bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.662603,
+                        -33.675421
+                  ]
+            },
+            {
+                  "name": "IGLESIA CATOLICA",
+                  "text": "In der Paraná-Flussregion gelegen, dient diese katholische Kirche den einheimischen Gläubigen mit täglichen Messen und traditionellen sakramentalen Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.613497,
+                        -33.738626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro cultural \"El viejo astillero\"",
+                  "text": "A Paraná folyó mentén, egy egykori hajógyárban kialakított kulturális központ regionális művészeti kiállításoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.673635,
+                        -33.667027
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "A Paraná folyó közelében található regionális állatkert lehetőséget kínál a látogatóknak, hogy különféle egzotikus és őshonos állatfajokat figyeljenek meg elkerített élőhelyeiken.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.668123,
+                        -33.669029
+                  ]
+            },
+            {
+                  "name": "JUEGOS DEL PARQUE",
+                  "text": "A Paraná folyó régiójának parkosított területén található ez a játszótéri látványosság, amely szabadtéri játékokkal várja a gyerekeket kikapcsolódásra.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.6684,
+                        -33.673776
+                  ]
+            },
+            {
+                  "name": "Museo Paleontológico",
+                  "text": "A Paraná folyó medencéjében felfedezett őskori kövületeket bemutató paleontológiai múzeum a régió ősi faunáját tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        -59.661682,
+                        -33.675001
+                  ]
+            },
+            {
+                  "name": "Complejo Las Amalias",
+                  "text": "Ez a Paraná folyó régiójában található vidámpark-komplexum szórakoztató játékokat és családbarát szórakozási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.65994,
+                        -33.70794
+                  ]
+            },
+            {
+                  "name": "IGLESIA EVANGELICA BAUTISTA",
+                  "text": "Ez az evangéliumi baptista gyülekezet helyi vallási központként működik a Paraná folyó régiójában, ahol heti rendszerességgel tartanak keresztény istentiszteleteket és közösségi összejöveteleket.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.649475,
+                        -33.691214
+                  ]
+            },
+            {
+                  "name": "IGLESIA CATOLICA LOS AROMOS",
+                  "text": "A Los Aromos negyedben található helyi katolikus templom szentélyt biztosít a keresztény istentisztelet és a spirituális elmélyülés számára a folyó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.677187,
+                        -33.695848
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Socorro",
+                  "text": "Egy jellegzetes katolikus plébániatemplom a Paraná folyó közelében, amely hagyományos építészeti homlokzatáról és a Segítő Szűzanya iránti vallási tiszteletéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.662603,
+                        -33.675421
+                  ]
+            },
+            {
+                  "name": "IGLESIA CATOLICA",
+                  "text": "A Paraná folyó régiójában található katolikus templom napi szentmisékkel és hagyományos szakrális szertartásokkal szolgálja a helyi híveket.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.613497,
+                        -33.738626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro cultural \"El viejo astillero\"",
+                  "text": "Găzduit într-un fost șantier naval de-a lungul fluviului Paraná, acest centru cultural găzduiește expoziții de artă regională și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.673635,
+                        -33.667027
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "Această grădină zoologică regională din apropierea fluviului Paraná oferă vizitatorilor șansa de a observa diverse specii de animale exotice și native în habitate închise.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.668123,
+                        -33.669029
+                  ]
+            },
+            {
+                  "name": "JUEGOS DEL PARQUE",
+                  "text": "Situată într-o zonă de parc din regiunea fluviului Paraná, această atracție cu loc de joacă dispune de echipamente de joacă în aer liber pentru recreerea copiilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.6684,
+                        -33.673776
+                  ]
+            },
+            {
+                  "name": "Museo Paleontológico",
+                  "text": "Prezentând fosile preistorice descoperite în bazinul fluviului Paraná, acest muzeu paleontologic explorează fauna antică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -59.661682,
+                        -33.675001
+                  ]
+            },
+            {
+                  "name": "Complejo Las Amalias",
+                  "text": "Acest complex de parc tematic din regiunea fluviului Paraná oferă atracții de agrement și facilități de divertisment orientate spre familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.65994,
+                        -33.70794
+                  ]
+            },
+            {
+                  "name": "IGLESIA EVANGELICA BAUTISTA",
+                  "text": "Funcționând ca un centru religios local în regiunea fluviului Paraná, această biserică evanghelică baptistă găzduiește săptămânal slujbe creștine și adunări ale comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.649475,
+                        -33.691214
+                  ]
+            },
+            {
+                  "name": "IGLESIA CATOLICA LOS AROMOS",
+                  "text": "Această biserică catolică locală din cartierul Los Aromos oferă un sanctuar pentru închinare creștină și reflecție spirituală în apropierea fluviului.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.677187,
+                        -33.695848
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Socorro",
+                  "text": "O biserică parohială catolică distinctivă în apropierea fluviului Paraná, cunoscută pentru fațada sa arhitecturală tradițională și devotamentul religios față de Maica Domnului a Ajutorului Perpetuu.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.662603,
+                        -33.675421
+                  ]
+            },
+            {
+                  "name": "IGLESIA CATOLICA",
+                  "text": "Situată în regiunea fluviului Paraná, această biserică catolică servește credincioșii locali cu slujbe zilnice și ceremonii sacramentale tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.613497,
+                        -33.738626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro cultural \"El viejo astillero\"",
+                  "text": "Housed in a former shipyard along the Paraná River, this cultural centre hosts regional art exhibitions and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.673635,
+                        -33.667027
+                  ]
+            },
+            {
+                  "name": "Safari",
+                  "text": "This regional zoo near the Paraná River offers visitors the chance to observe various exotic and native animal species in enclosed habitats.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.668123,
+                        -33.669029
+                  ]
+            },
+            {
+                  "name": "JUEGOS DEL PARQUE",
+                  "text": "Set within a parkland area of the Paraná River region, this playground attraction features outdoor play equipment for children's recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.6684,
+                        -33.673776
+                  ]
+            },
+            {
+                  "name": "Museo Paleontológico",
+                  "text": "Showcasing prehistoric fossils discovered in the Paraná River basin, this paleontological museum explores the ancient fauna of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -59.661682,
+                        -33.675001
+                  ]
+            },
+            {
+                  "name": "Complejo Las Amalias",
+                  "text": "This theme park complex in the Paraná River region offers recreational rides and family-oriented entertainment facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.65994,
+                        -33.70794
+                  ]
+            },
+            {
+                  "name": "IGLESIA EVANGELICA BAUTISTA",
+                  "text": "Functioning as a local religious hub in the Paraná River region, this Evangelical Baptist church hosts weekly Christian services and community gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.649475,
+                        -33.691214
+                  ]
+            },
+            {
+                  "name": "IGLESIA CATOLICA LOS AROMOS",
+                  "text": "This local Catholic church in the Los Aromos neighbourhood provides a sanctuary for Christian worship and spiritual reflection near the river.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.677187,
+                        -33.695848
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora del Socorro",
+                  "text": "A distinctive Catholic parish church near the Paraná River, known for its traditional architectural facade and religious devotion to Our Lady of Perpetual Help.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.662603,
+                        -33.675421
+                  ]
+            },
+            {
+                  "name": "IGLESIA CATOLICA",
+                  "text": "Situated in the Paraná River region, this Catholic church serves the local faithful with daily mass and traditional sacramental ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.613497,
+                        -33.738626
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AR-S",
     coords: [-59.6739, -33.7275],
@@ -1027,7 +3718,52 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-rio-uruguay-nature-v2",
+    id: "ar-rio-uruguay-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estancia y Capilla Narbona",
+                  "text": "Die Estancia y Capilla Narbona ist ein historisches Landgut mit traditioneller Steinkapelle inmitten der Naturlandschaften am Río Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.360126,
+                        -33.933186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estancia y Capilla Narbona",
+                  "text": "Az Estancia y Capilla Narbona egy történelmi vidéki birtok hagyományos kőkápolnával az Uruguay-folyó természeti környezetének közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.360126,
+                        -33.933186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estancia y Capilla Narbona",
+                  "text": "Estancia y Capilla Narbona este o moșie rurală istorică cu o capelă tradițională din piatră situată în mijlocul peisajelor naturale de la râul Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.360126,
+                        -33.933186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estancia y Capilla Narbona",
+                  "text": "Estancia y Capilla Narbona is a historic rural estate and stone chapel set among the natural landscapes of the Uruguay River.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.360126,
+                        -33.933186
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AR-E",
     coords: [-58.3414, -33.9169],
@@ -1155,7 +3891,700 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-rio-negro-nature-v2",
+    id: "ar-rio-negro-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa de Villa 7 de Marzo",
+                  "text": "Die Playa de Villa 7 de Marzo ist ein feinsandiger Küstenstrand in der Region Río Negro, der für seine ruhige maritime Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.755872,
+                        -41.032835
+                  ]
+            },
+            {
+                  "name": "Casa Barco",
+                  "text": "Die Casa Barco ist eine einzigartig gestaltete Attraktion an der Küste von Río Negro, deren Architektur einem Schiff nachempfunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.75334,
+                        -41.031338
+                  ]
+            },
+            {
+                  "name": "Anfiteatro María Cristina Casadei",
+                  "text": "Das Anfiteatro María Cristina Casadei ist ein Freilufttheater nahe der Küste von Río Negro, in dem kulturelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.824821,
+                        -41.045693
+                  ]
+            },
+            {
+                  "name": "Cartel de El Cóndor",
+                  "text": "Das Cartel de El Cóndor ist ein markantes Willkommensschild und beliebtes Fotomotiv am Eingang dieses Küstendorfs in Río Negro.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.824727,
+                        -41.044525
+                  ]
+            },
+            {
+                  "name": "Monumento a Ceferino Namuncurá",
+                  "text": "Das Monumento a Ceferino Namuncurá ist eine regionale Gedenkstätte zu Ehren der verehrten patagonischen Kultfigur Ceferino Namuncurá.",
+                  "category": "historical",
+                  "coords": [
+                        -62.834166,
+                        -41.050319
+                  ]
+            },
+            {
+                  "name": "Naufragio del Ludovico",
+                  "text": "Das Naufragio del Ludovico zeigt die historischen Überreste eines Schiffswracks, das an der Küste von Río Negro ruht.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.835075,
+                        -41.056831
+                  ]
+            },
+            {
+                  "name": "Faro Río Negro",
+                  "text": "Der Faro Río Negro ist ein historischer Leuchtturm an der Flussmündung und gilt als der älteste noch in Betrieb befindliche Leuchtturm Argentiniens.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.83904,
+                        -41.057757
+                  ]
+            },
+            {
+                  "name": "Semioruga",
+                  "text": "Die Semioruga ist ein markantes historisches Halbkettenfahrzeug, das als Freiluftausstellung in der Region Río Negro präsentiert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.840194,
+                        -41.05899
+                  ]
+            },
+            {
+                  "name": "Escenario",
+                  "text": "Dieses Freiluft-Escenario in der Region Río Negro ist eine beliebte lokale Bühne für Küstenfestivals und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.828233,
+                        -41.044858
+                  ]
+            },
+            {
+                  "name": "Huge Parrot Colony on the Cliffs",
+                  "text": "Dieser Klippen-Aussichtspunkt bietet einen Blick auf die weltweit größte Kolonie von Felsensittichen, die an der Küste von Río Negro nistet.",
+                  "category": "natural",
+                  "coords": [
+                        -62.849421,
+                        -41.062894
+                  ]
+            },
+            {
+                  "name": "Primera Bajada del Faro",
+                  "text": "Die Primera Bajada del Faro ist der primäre Küstenabstieg, der einen einfachen Zugang zu den Sandstränden unterhalb des Leuchtturms von Río Negro bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.837364,
+                        -41.058897
+                  ]
+            },
+            {
+                  "name": "Playa La Baliza",
+                  "text": "Die Playa La Baliza ist ein ruhiger Sandstrand nahe der Mündung des Río Negro, der sich ideal zum Fischen und Entspannen eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.752559,
+                        -41.033074
+                  ]
+            },
+            {
+                  "name": "Playa El Pescadero",
+                  "text": "Die Playa El Pescadero ist ein Küstenstreifen am Río Negro, der weitgehend als ausgezeichneter Ort für das Angeln vom Ufer aus bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.79889,
+                        -41.021882
+                  ]
+            },
+            {
+                  "name": "Playa Fernando Erica",
+                  "text": "Die Playa Fernando Erica ist eine malerische Sandküste in der Region Río Negro, die Besuchern einen friedlichen Rückzugsort am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.812189,
+                        -41.038613
+                  ]
+            },
+            {
+                  "name": "Playa Central",
+                  "text": "Die Playa Central ist der Hauptsandstrand des Küstendorfs am Río Negro und zeichnet sich durch weite Ufer und ruhiges Wasser aus.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.822559,
+                        -41.046184
+                  ]
+            },
+            {
+                  "name": "Playa Cailotto",
+                  "text": "Die Playa Cailotto ist ein malerischer, einladender Sandstrand an der Küste des Río Negro, der sich ideal für lange Strandspaziergänge eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.817718,
+                        -41.042761
+                  ]
+            },
+            {
+                  "name": "Playa Intermedia",
+                  "text": "Das Resortgebiet Playa Intermedia liegt genau auf halber Strecke an der Küste des Río Negro und verbindet die wichtigsten Badeorte.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.827782,
+                        -41.052904
+                  ]
+            },
+            {
+                  "name": "Playa El Faro",
+                  "text": "Die Playa El Faro ist eine auffällige Sandküste, die von der Präsenz des historischen Leuchtturms auf den nahegelegenen Klippen dominiert wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.841876,
+                        -41.059906
+                  ]
+            },
+            {
+                  "name": "Capilla Stella Maris",
+                  "text": "Die Capilla Stella Maris ist eine reizvolle Küstenkirche in Río Negro, die der Schutzpatronin der Seefahrer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -62.828581,
+                        -41.043023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa de Villa 7 de Marzo",
+                  "text": "A Playa de Villa 7 de Marzo egy homokos tengerpart a Río Negro régióban, amely csendes tengerparti környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.755872,
+                        -41.032835
+                  ]
+            },
+            {
+                  "name": "Casa Barco",
+                  "text": "A Casa Barco egy egyedi tervezésű látványosság a Río Negro partján, amelynek építészete egy hajót mintáz.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.75334,
+                        -41.031338
+                  ]
+            },
+            {
+                  "name": "Anfiteatro María Cristina Casadei",
+                  "text": "Az Anfiteatro María Cristina Casadei egy szabadtéri színház a Río Negro partjának közelében, amely kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.824821,
+                        -41.045693
+                  ]
+            },
+            {
+                  "name": "Cartel de El Cóndor",
+                  "text": "A Cartel de El Cóndor egy kiemelkedő üdvözlőtábla és népszerű fotóhelyszín a Río Negro-i tengerparti falu bejáratánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.824727,
+                        -41.044525
+                  ]
+            },
+            {
+                  "name": "Monumento a Ceferino Namuncurá",
+                  "text": "A Monumento a Ceferino Namuncurá egy regionális emlékmű, amely a tisztelt patagóniai vallási alakot, Ceferino Namuncurát ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -62.834166,
+                        -41.050319
+                  ]
+            },
+            {
+                  "name": "Naufragio del Ludovico",
+                  "text": "A Naufragio del Ludovico a Río Negro partjainál nyugvó történelmi hajóroncs maradványait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.835075,
+                        -41.056831
+                  ]
+            },
+            {
+                  "name": "Faro Río Negro",
+                  "text": "A Faro Río Negro egy történelmi világítótorony a folyó torkolatánál, amely Argentína legrégebbi máig működő világítótornya.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.83904,
+                        -41.057757
+                  ]
+            },
+            {
+                  "name": "Semioruga",
+                  "text": "A Semioruga egy jellegzetes történelmi féllánctalpas jármű, amelyet szabadtéri látványosságként állítottak ki a Río Negro régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.840194,
+                        -41.05899
+                  ]
+            },
+            {
+                  "name": "Escenario",
+                  "text": "Ez a szabadtéri színpad a Río Negro régióban népszerű helyi helyszíne a tengerparti fesztiváloknak és koncerteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.828233,
+                        -41.044858
+                  ]
+            },
+            {
+                  "name": "Huge Parrot Colony on the Cliffs",
+                  "text": "Ez a sziklafalon lévő kilátó a világ legnagyobb üregi papagáj kolóniájára nyújt kilátást a Río Negro partvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        -62.849421,
+                        -41.062894
+                  ]
+            },
+            {
+                  "name": "Primera Bajada del Faro",
+                  "text": "A Primera Bajada del Faro az elsődleges tengerparti lejáró, amely könnyű hozzáférést biztosít a Río Negro-i világítótorony alatti homokos strandokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.837364,
+                        -41.058897
+                  ]
+            },
+            {
+                  "name": "Playa La Baliza",
+                  "text": "A Playa La Baliza egy csendes homokos strand a Río Negro torkolatának közelében, amely horgászatra és pihenésre is kiváló.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.752559,
+                        -41.033074
+                  ]
+            },
+            {
+                  "name": "Playa El Pescadero",
+                  "text": "A Playa El Pescadero egy tengerparti szakasz a Río Negro mentén, amely kiváló parti horgászhelyként ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.79889,
+                        -41.021882
+                  ]
+            },
+            {
+                  "name": "Playa Fernando Erica",
+                  "text": "A Playa Fernando Erica egy festői homokos partvidék a Río Negro régióban, amely békés tengerparti elvonulást kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.812189,
+                        -41.038613
+                  ]
+            },
+            {
+                  "name": "Playa Central",
+                  "text": "A Playa Central a Río Negro-i tengerparti falu fő homokos strandja, amely széles partokkal és nyugodt vizekkel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.822559,
+                        -41.046184
+                  ]
+            },
+            {
+                  "name": "Playa Cailotto",
+                  "text": "A Playa Cailotto egy festői és hívogató homokos strand a Río Negro partvonalán, ideális hosszú tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.817718,
+                        -41.042761
+                  ]
+            },
+            {
+                  "name": "Playa Intermedia",
+                  "text": "A Playa Intermedia üdülőterület egy félúton elhelyezkedő partszakasz a Río Negro mentén, amely összeköti a fő tengerparti csomópontokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.827782,
+                        -41.052904
+                  ]
+            },
+            {
+                  "name": "Playa El Faro",
+                  "text": "A Playa El Faro egy feltűnő homokos partvidék, amelyet a közeli sziklákon álló történelmi világítótorony jelenléte ural.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.841876,
+                        -41.059906
+                  ]
+            },
+            {
+                  "name": "Capilla Stella Maris",
+                  "text": "A Capilla Stella Maris egy bájos tengerparti templom a Río Negro régióban, amelyet a tengerészek védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -62.828581,
+                        -41.043023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa de Villa 7 de Marzo",
+                  "text": "Playa de Villa 7 de Marzo este o plajă cu nisip fin din regiunea Río Negro, cunoscută pentru atmosfera sa maritimă liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.755872,
+                        -41.032835
+                  ]
+            },
+            {
+                  "name": "Casa Barco",
+                  "text": "Casa Barco este o atracție cu un design unic pe coasta Río Negro, construită pentru a semăna cu o corabie.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.75334,
+                        -41.031338
+                  ]
+            },
+            {
+                  "name": "Anfiteatro María Cristina Casadei",
+                  "text": "Amfiteatrul María Cristina Casadei este un teatru în aer liber lângă coasta Río Negro, care găzduiește spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.824821,
+                        -41.045693
+                  ]
+            },
+            {
+                  "name": "Cartel de El Cóndor",
+                  "text": "Cartel de El Cóndor este un panou de bun venit proeminent și un loc popular pentru fotografii la intrarea în acest sat de coastă din Río Negro.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.824727,
+                        -41.044525
+                  ]
+            },
+            {
+                  "name": "Monumento a Ceferino Namuncurá",
+                  "text": "Monumentul lui Ceferino Namuncurá este un omagiu regional adus figurii religioase iubite din Patagonia, Ceferino Namuncurá.",
+                  "category": "historical",
+                  "coords": [
+                        -62.834166,
+                        -41.050319
+                  ]
+            },
+            {
+                  "name": "Naufragio del Ludovico",
+                  "text": "Naufragio del Ludovico prezintă rămășițele istorice ale unei epave care se odihnește pe coasta din Río Negro.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.835075,
+                        -41.056831
+                  ]
+            },
+            {
+                  "name": "Faro Río Negro",
+                  "text": "Faro Río Negro este un far istoric situat la gura râului, fiind cel mai vechi far aflat încă în funcțiune din Argentina.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.83904,
+                        -41.057757
+                  ]
+            },
+            {
+                  "name": "Semioruga",
+                  "text": "Semioruga este un vehicul istoric cu șenile distinctive expus ca atracție în aer liber în regiunea Río Negro.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.840194,
+                        -41.05899
+                  ]
+            },
+            {
+                  "name": "Escenario",
+                  "text": "Această scenă în aer liber din regiunea Río Negro este o locație locală populară pentru festivaluri de coastă și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.828233,
+                        -41.044858
+                  ]
+            },
+            {
+                  "name": "Huge Parrot Colony on the Cliffs",
+                  "text": "Acest punct de belvedere de pe stânci oferă o vedere spre cea mai mare colonie de papagali de vizuină din lume, situată pe coasta Río Negro.",
+                  "category": "natural",
+                  "coords": [
+                        -62.849421,
+                        -41.062894
+                  ]
+            },
+            {
+                  "name": "Primera Bajada del Faro",
+                  "text": "Primera Bajada del Faro este coborârea principală de pe coastă, oferind acces ușor la plajele cu nisip de sub farul din Río Negro.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.837364,
+                        -41.058897
+                  ]
+            },
+            {
+                  "name": "Playa La Baliza",
+                  "text": "Playa La Baliza este o plajă liniștită de nisip situată lângă vărsarea râului Río Negro, populară pentru pescuit și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.752559,
+                        -41.033074
+                  ]
+            },
+            {
+                  "name": "Playa El Pescadero",
+                  "text": "Playa El Pescadero este o porțiune de coastă de-a lungul Río Negro, recunoscută ca un loc excelent pentru pescuitul local.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.79889,
+                        -41.021882
+                  ]
+            },
+            {
+                  "name": "Playa Fernando Erica",
+                  "text": "Playa Fernando Erica este o coastă pitorească de nisip în regiunea Río Negro, oferind vizitatorilor un refugiu liniștit la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.812189,
+                        -41.038613
+                  ]
+            },
+            {
+                  "name": "Playa Central",
+                  "text": "Playa Central este plaja principală cu nisip a satului de coastă din Río Negro, având țărmuri largi și ape calme.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.822559,
+                        -41.046184
+                  ]
+            },
+            {
+                  "name": "Playa Cailotto",
+                  "text": "Playa Cailotto este o plajă de nisip pitorească și primitoare de-a lungul coastei Río Negro, ideală pentru plimbări lungi pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.817718,
+                        -41.042761
+                  ]
+            },
+            {
+                  "name": "Playa Intermedia",
+                  "text": "Playa Intermedia este o stațiune balneară la mijlocul coastei Río Negro, conectând principalele centre litorale.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.827782,
+                        -41.052904
+                  ]
+            },
+            {
+                  "name": "Playa El Faro",
+                  "text": "Playa El Faro este o țărm izbitor de nisip dominat de prezența farului istoric deasupra stâncilor din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.841876,
+                        -41.059906
+                  ]
+            },
+            {
+                  "name": "Capilla Stella Maris",
+                  "text": "Capilla Stella Maris este o fermecătoare biserică de coastă dedicată patroanei marinarilor, situată în regiunea Río Negro.",
+                  "category": "religious",
+                  "coords": [
+                        -62.828581,
+                        -41.043023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa de Villa 7 de Marzo",
+                  "text": "Playa de Villa 7 de Marzo is a sandy coastal beach in the Río Negro region, known for its tranquil seaside setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.755872,
+                        -41.032835
+                  ]
+            },
+            {
+                  "name": "Casa Barco",
+                  "text": "Casa Barco is a uniquely designed attraction in the Río Negro region, built to aesthetically resemble a ship along the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.75334,
+                        -41.031338
+                  ]
+            },
+            {
+                  "name": "Anfiteatro María Cristina Casadei",
+                  "text": "The Anfiteatro María Cristina Casadei is a local open-air theater hosting cultural performances near the Río Negro coast.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.824821,
+                        -41.045693
+                  ]
+            },
+            {
+                  "name": "Cartel de El Cóndor",
+                  "text": "The Cartel de El Cóndor is a prominent welcome sign and popular photo spot at the entrance to this Río Negro coastal village.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.824727,
+                        -41.044525
+                  ]
+            },
+            {
+                  "name": "Monumento a Ceferino Namuncurá",
+                  "text": "The Monumento a Ceferino Namuncurá is a regional tribute honoring the beloved Patagonian religious figure, Ceferino Namuncurá.",
+                  "category": "historical",
+                  "coords": [
+                        -62.834166,
+                        -41.050319
+                  ]
+            },
+            {
+                  "name": "Naufragio del Ludovico",
+                  "text": "The Naufragio del Ludovico features the historic remains of a shipwreck resting on the Río Negro coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.835075,
+                        -41.056831
+                  ]
+            },
+            {
+                  "name": "Faro Río Negro",
+                  "text": "The Faro Río Negro is a historic lighthouse overlooking the river's mouth, known as the oldest operating lighthouse in Argentina.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.83904,
+                        -41.057757
+                  ]
+            },
+            {
+                  "name": "Semioruga",
+                  "text": "The Semioruga is a distinctive historical half-track vehicle displayed as an open-air attraction in the Río Negro region.",
+                  "category": "landmark",
+                  "coords": [
+                        -62.840194,
+                        -41.05899
+                  ]
+            },
+            {
+                  "name": "Escenario",
+                  "text": "This open-air stage in the Río Negro region is a popular local venue for coastal festivals and outdoor concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.828233,
+                        -41.044858
+                  ]
+            },
+            {
+                  "name": "Huge Parrot Colony on the Cliffs",
+                  "text": "This clifftop viewpoint overlooks the world's largest colony of burrowing parrots nesting along the Río Negro coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -62.849421,
+                        -41.062894
+                  ]
+            },
+            {
+                  "name": "Primera Bajada del Faro",
+                  "text": "Primera Bajada del Faro is the primary coastal descent providing easy access to the sandy beaches below the Río Negro lighthouse.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.837364,
+                        -41.058897
+                  ]
+            },
+            {
+                  "name": "Playa La Baliza",
+                  "text": "Playa La Baliza is a quiet, sandy beach located near the mouth of the Río Negro, popular for fishing and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.752559,
+                        -41.033074
+                  ]
+            },
+            {
+                  "name": "Playa El Pescadero",
+                  "text": "Playa El Pescadero is a coastal stretch along the Río Negro widely known as an excellent spot for local shore fishing.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.79889,
+                        -41.021882
+                  ]
+            },
+            {
+                  "name": "Playa Fernando Erica",
+                  "text": "Playa Fernando Erica is a picturesque sandy shoreline in the Río Negro region, offering visitors a peaceful seaside retreat.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.812189,
+                        -41.038613
+                  ]
+            },
+            {
+                  "name": "Playa Central",
+                  "text": "Playa Central is the main sandy beach of the Río Negro coastal village, featuring wide shores and calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.822559,
+                        -41.046184
+                  ]
+            },
+            {
+                  "name": "Playa Cailotto",
+                  "text": "Playa Cailotto is a scenic and inviting sandy beach along the Río Negro coastline, ideal for long walks by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.817718,
+                        -41.042761
+                  ]
+            },
+            {
+                  "name": "Playa Intermedia",
+                  "text": "Playa Intermedia is a midway beach resort area along the Río Negro coast, connecting the main seaside hubs.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.827782,
+                        -41.052904
+                  ]
+            },
+            {
+                  "name": "Playa El Faro",
+                  "text": "Playa El Faro is a striking sandy shoreline dominated by the presence of the historic lighthouse atop the nearby cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.841876,
+                        -41.059906
+                  ]
+            },
+            {
+                  "name": "Capilla Stella Maris",
+                  "text": "Capilla Stella Maris is a charming coastal church dedicated to the patroness of seafarers, situated in the Río Negro region.",
+                  "category": "religious",
+                  "coords": [
+                        -62.828581,
+                        -41.043023
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AR-R",
     coords: [-62.7758, -41.0264],
@@ -1219,7 +4648,304 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-rio-chubut-nature-v2",
+    id: "ar-rio-chubut-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Santa Isabel",
+                  "text": "Ein rauer patagonischer Sandstrand, der sich endlos entlang der Atlantikküste erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.076076,
+                        -43.418093
+                  ]
+            },
+            {
+                  "name": "El Elsa",
+                  "text": "Ein Ort am Fluss, an dem die maritimen und fischereibezogenen Aktivitäten des Río Chubut sichtbar werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.062642,
+                        -43.324747
+                  ]
+            },
+            {
+                  "name": "Avistaje de Toninas",
+                  "text": "Ein Ausgangspunkt an der Küste für Bootstouren zur Beobachtung der schwarz-weißen Commerson-Delfine in ihrem natürlichen Lebensraum.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.058743,
+                        -43.339908
+                  ]
+            },
+            {
+                  "name": "Faro Chubut",
+                  "text": "Ein historischer Leuchtturm, der seit seiner Errichtung Schiffen an der patagonischen Küste den Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.047058,
+                        -43.372015
+                  ]
+            },
+            {
+                  "name": "Faro de Escollera Sur - Puerto Rawson",
+                  "text": "Ein funktionaler Leuchtturm auf dem südlichen Wellenbrecher, der die Einfahrt nach Puerto Rawson markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.04767,
+                        -43.343053
+                  ]
+            },
+            {
+                  "name": "Aquavida",
+                  "text": "Ein meeresbiologisches Museum, das sich der Erforschung der marinen Ökosysteme des Südatlantiks widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -65.047112,
+                        -43.32194
+                  ]
+            },
+            {
+                  "name": "museo 1923",
+                  "text": "Ein kleines historisches Museum, in dem Artefakte aus dem frühen 20. Jahrhundert der Region ausgestellt sind.",
+                  "category": "museum",
+                  "coords": [
+                        -65.039702,
+                        -43.313081
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Outdoor-Amphitheater in Flussnähe, in dem gelegentlich Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.045338,
+                        -43.318878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Santa Isabel",
+                  "text": "Egy vad, patagóniai homokos strand, amely végtelenül hosszan nyúlik el az Atlanti-óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.076076,
+                        -43.418093
+                  ]
+            },
+            {
+                  "name": "El Elsa",
+                  "text": "Egy folyóparti helyszín, ahol a Río Chubut tengerészeti és halászati tevékenységei zajlanak.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.062642,
+                        -43.324747
+                  ]
+            },
+            {
+                  "name": "Avistaje de Toninas",
+                  "text": "Egy tengerparti kiindulópont csónaktúrákhoz, ahol fekete-fehér Commerson-delfineket figyelhetünk meg természetes élőhelyükön.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.058743,
+                        -43.339908
+                  ]
+            },
+            {
+                  "name": "Faro Chubut",
+                  "text": "Egy történelmi világítótorony, amely építése óta mutatja az utat a patagóniai partokon hajózóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.047058,
+                        -43.372015
+                  ]
+            },
+            {
+                  "name": "Faro de Escollera Sur - Puerto Rawson",
+                  "text": "Egy funkcionális világítótorony a déli hullámtörőn, amely a Puerto Rawson-i kikötő bejáratát jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.04767,
+                        -43.343053
+                  ]
+            },
+            {
+                  "name": "Aquavida",
+                  "text": "Egy tengerbiológiai múzeum, amely a dél-atlanti tengeri ökoszisztémák kutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -65.047112,
+                        -43.32194
+                  ]
+            },
+            {
+                  "name": "museo 1923",
+                  "text": "Egy kis történelmi múzeum, amely a régió 20. század eleji műtárgyait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -65.039702,
+                        -43.313081
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Egy folyóparti szabadtéri amfiteátrum, ahol alkalmanként előadásokat tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.045338,
+                        -43.318878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Santa Isabel",
+                  "text": "O plajă de nisip patagoniană sălbatică, ce se întinde nesfârșit de-a lungul coastei atlantice.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.076076,
+                        -43.418093
+                  ]
+            },
+            {
+                  "name": "El Elsa",
+                  "text": "O atracție pe malul râului, unde pot fi observate activitățile maritime și de pescuit de pe Río Chubut.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.062642,
+                        -43.324747
+                  ]
+            },
+            {
+                  "name": "Avistaje de Toninas",
+                  "text": "Un punct de plecare de coastă pentru excursii cu barca dedicate observării delfinilor Commerson în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.058743,
+                        -43.339908
+                  ]
+            },
+            {
+                  "name": "Faro Chubut",
+                  "text": "Un far istoric care ghidează navele de-a lungul coastei patagoniene de la construcția sa.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.047058,
+                        -43.372015
+                  ]
+            },
+            {
+                  "name": "Faro de Escollera Sur - Puerto Rawson",
+                  "text": "Un far funcțional pe digul de sud, care marchează intrarea în Puerto Rawson.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.04767,
+                        -43.343053
+                  ]
+            },
+            {
+                  "name": "Aquavida",
+                  "text": "Un muzeu de biologie marină dedicat cercetării ecosistemelor marine din Atlanticul de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        -65.047112,
+                        -43.32194
+                  ]
+            },
+            {
+                  "name": "museo 1923",
+                  "text": "Un mic muzeu istoric care expune artefacte din regiune de la începutul secolului al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -65.039702,
+                        -43.313081
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un amfiteatru în aer liber lângă râu, unde se desfășoară ocazional spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.045338,
+                        -43.318878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Santa Isabel",
+                  "text": "A rugged Patagonian sandy beach stretching endlessly along the Atlantic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.076076,
+                        -43.418093
+                  ]
+            },
+            {
+                  "name": "El Elsa",
+                  "text": "A riverside attraction where the maritime and fishing activities of the Río Chubut can be observed.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.062642,
+                        -43.324747
+                  ]
+            },
+            {
+                  "name": "Avistaje de Toninas",
+                  "text": "A coastal starting point for boat tours dedicated to watching the black-and-white Commerson's dolphins in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.058743,
+                        -43.339908
+                  ]
+            },
+            {
+                  "name": "Faro Chubut",
+                  "text": "A historic lighthouse guiding ships along the Patagonian coast since its construction.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.047058,
+                        -43.372015
+                  ]
+            },
+            {
+                  "name": "Faro de Escollera Sur - Puerto Rawson",
+                  "text": "A functional breakwater lighthouse marking the southern entrance to Puerto Rawson.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.04767,
+                        -43.343053
+                  ]
+            },
+            {
+                  "name": "Aquavida",
+                  "text": "A marine biology museum dedicated to researching the marine ecosystems of the South Atlantic.",
+                  "category": "museum",
+                  "coords": [
+                        -65.047112,
+                        -43.32194
+                  ]
+            },
+            {
+                  "name": "museo 1923",
+                  "text": "A small historical museum exhibiting artifacts from the region dating back to the early 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        -65.039702,
+                        -43.313081
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "A riverside outdoor amphitheater where occasional performances take place.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.045338,
+                        -43.318878
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AR-U",
     coords: [-65.0747, -43.3444],
@@ -1411,7 +5137,88 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-isla-de-los-estados-nature-v2",
+    id: "ar-isla-de-los-estados-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Buckland",
+                  "text": "Ein markanter Berggipfel, der in der zerklüfteten Landschaft der Isla de los Estados steil aufragt.",
+                  "category": "natural",
+                  "coords": [
+                        -64.35881,
+                        -54.759512
+                  ]
+            },
+            {
+                  "name": "Bahia Colnett",
+                  "text": "Eine markante Bucht, die einen Küstenzugang an den zerklüfteten Ufern der Isla de los Estados bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.2854,
+                        -54.730418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Buckland",
+                  "text": "Egy jelentős hegycsúcs, amely meredeken emelkedik ki a Staaten-sziget zord tájából.",
+                  "category": "natural",
+                  "coords": [
+                        -64.35881,
+                        -54.759512
+                  ]
+            },
+            {
+                  "name": "Bahia Colnett",
+                  "text": "Egy kiemelkedő öböl, amely tengerparti beömlést biztosít a Staaten-sziget zord partjai mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.2854,
+                        -54.730418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Buckland",
+                  "text": "Un vârf montan notabil care se înalță brusc în peisajul accidentat al Insulei Statelor.",
+                  "category": "natural",
+                  "coords": [
+                        -64.35881,
+                        -54.759512
+                  ]
+            },
+            {
+                  "name": "Bahia Colnett",
+                  "text": "Un golf proeminent care oferă o intrare de coastă de-a lungul țărmurilor accidentate ale Insulei Statelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.2854,
+                        -54.730418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Buckland",
+                  "text": "A notable mountain peak rising sharply in the rugged landscape of Isla de los Estados.",
+                  "category": "natural",
+                  "coords": [
+                        -64.35881,
+                        -54.759512
+                  ]
+            },
+            {
+                  "name": "Bahia Colnett",
+                  "text": "A prominent bay providing a coastal inlet along the rugged shores of Isla de los Estados.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.2854,
+                        -54.730418
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "AR-V",
     coords: [-64.2886, -54.7933],
@@ -1475,7 +5282,232 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-isla-victoria-nature-v2",
+    id: "ar-isla-victoria-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Cerro Quemado",
+                  "text": "Ein Aussichtspunkt auf dem verbrannten Hügel der Isla Victoria, der weite Ausblicke auf die Insellandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.513343,
+                        -40.974832
+                  ]
+            },
+            {
+                  "name": "Playa del Toro",
+                  "text": "Eine Inselstrand-Attraktion, die für ihren dunklen Vulkansand und die Nähe zu alten Höhlenmalereien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.522471,
+                        -40.975322
+                  ]
+            },
+            {
+                  "name": "Puerto Anchorena",
+                  "text": "Die wichtigste Hafenattraktion der Isla Victoria, die als malerischer Einstiegspunkt für die meisten Inselfähren dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.522989,
+                        -40.970974
+                  ]
+            },
+            {
+                  "name": "Cerro Millaqueo",
+                  "text": "Ein anerkannter Andengipfel, der die raue Skyline um die Region Isla Victoria prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.63431,
+                        -40.998515
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Picos",
+                  "text": "Ein bemerkenswerter Berg in den Anden, der sich durch seinen markanten felsigen Gipfel mit drei Spitzen auszeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.641345,
+                        -40.962944
+                  ]
+            },
+            {
+                  "name": "Playa El Toro",
+                  "text": "Ein einzigartiger Strand auf der Isla Victoria, an dem Besucher auf markantem dunklem Vulkansand entspannen können.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526561,
+                        -40.975451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Cerro Quemado",
+                  "text": "Az Isla Victoria égett dombján található kilátó, ahonnan széles kilátás nyílik a sziget tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.513343,
+                        -40.974832
+                  ]
+            },
+            {
+                  "name": "Playa del Toro",
+                  "text": "Szigeti strandlátványosság, amely sötét vulkáni homokjáról és az ősi barlangrajzok közelségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.522471,
+                        -40.975322
+                  ]
+            },
+            {
+                  "name": "Puerto Anchorena",
+                  "text": "Az Isla Victoria fő kikötői látványossága, amely festői belépési pontként szolgál a legtöbb szigeti komp számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.522989,
+                        -40.970974
+                  ]
+            },
+            {
+                  "name": "Cerro Millaqueo",
+                  "text": "Elismert andoki csúcs, amely meghatározza az Isla Victoria régió zord sziluettjét.",
+                  "category": "natural",
+                  "coords": [
+                        -71.63431,
+                        -40.998515
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Picos",
+                  "text": "Egy figyelemre méltó andoki hegy, amelyet drámai, háromcsúcsos sziklás orma tesz különlegessé.",
+                  "category": "natural",
+                  "coords": [
+                        -71.641345,
+                        -40.962944
+                  ]
+            },
+            {
+                  "name": "Playa El Toro",
+                  "text": "Egyedülálló strand az Isla Victoria szigetén, ahol a látogatók feltűnő, sötét vulkáni homokon pihenhetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526561,
+                        -40.975451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Cerro Quemado",
+                  "text": "Un punct de observație situat pe dealul ars de pe Isla Victoria, oferind vederi largi asupra peisajului insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -71.513343,
+                        -40.974832
+                  ]
+            },
+            {
+                  "name": "Playa del Toro",
+                  "text": "O atracție de plajă insulară cunoscută pentru nisipurile sale vulcanice întunecate și apropierea de picturile rupestre antice.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.522471,
+                        -40.975322
+                  ]
+            },
+            {
+                  "name": "Puerto Anchorena",
+                  "text": "Atracția principală a portului din Isla Victoria, servind ca punct de intrare pitoresc pentru majoritatea feriboturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.522989,
+                        -40.970974
+                  ]
+            },
+            {
+                  "name": "Cerro Millaqueo",
+                  "text": "Un vârf andin recunoscut care definește orizontul accidentat din jurul regiunii Isla Victoria.",
+                  "category": "natural",
+                  "coords": [
+                        -71.63431,
+                        -40.998515
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Picos",
+                  "text": "Un munte andin notabil, care se distinge prin vârful său stâncos dramatic, cu trei creste.",
+                  "category": "natural",
+                  "coords": [
+                        -71.641345,
+                        -40.962944
+                  ]
+            },
+            {
+                  "name": "Playa El Toro",
+                  "text": "O plajă unică pe Isla Victoria unde vizitatorii se pot relaxa pe un nisip vulcanic întunecat și izbitor.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526561,
+                        -40.975451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Cerro Quemado",
+                  "text": "A lookout situated on the burnt hill of Isla Victoria, offering wide views of the island's landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.513343,
+                        -40.974832
+                  ]
+            },
+            {
+                  "name": "Playa del Toro",
+                  "text": "An island beach attraction known for its dark volcanic sands and proximity to ancient cave paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.522471,
+                        -40.975322
+                  ]
+            },
+            {
+                  "name": "Puerto Anchorena",
+                  "text": "The main harbor attraction of Isla Victoria, serving as the picturesque entry point for most island ferries.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.522989,
+                        -40.970974
+                  ]
+            },
+            {
+                  "name": "Cerro Millaqueo",
+                  "text": "A recognized Andean peak that defines the rugged skyline around the Isla Victoria region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.63431,
+                        -40.998515
+                  ]
+            },
+            {
+                  "name": "Cerro Tres Picos",
+                  "text": "A notable Andean mountain distinguished by its dramatic three-peaked rocky summit.",
+                  "category": "natural",
+                  "coords": [
+                        -71.641345,
+                        -40.962944
+                  ]
+            },
+            {
+                  "name": "Playa El Toro",
+                  "text": "A unique beach on Isla Victoria where visitors can relax on striking dark volcanic sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.526561,
+                        -40.975451
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "AR-Q",
     coords: [-71.5475, -40.9419],
@@ -1539,7 +5571,232 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-isla-martin-garcia-nature-v2",
+    id: "ar-isla-martin-garcia-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador de la frontera",
+                  "text": "Der Mirador de la frontera ist ein malerischer Aussichtspunkt, der einen weiten Panoramablick über die natürlichen Grenzgewässer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -58.248954,
+                        -34.185283
+                  ]
+            },
+            {
+                  "name": "Antiguo Penal",
+                  "text": "Das Antiguo Penal ist ein historischer ehemaliger Gefängniskomplex, der heute als faszinierendes Museum die Strafvollzugsgeschichte der Insel dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -58.253754,
+                        -34.18733
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes Comunes",
+                  "text": "Das Monumento a los Héroes Comunes ist ein ergreifendes Steindenkmal, das den alltäglichen Helden und anonymen Bürgern der Region gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -58.252113,
+                        -34.18177
+                  ]
+            },
+            {
+                  "name": "Barrio Chino",
+                  "text": "Das Barrio Chino ist ein markantes, historisches Viertel auf der Insel, das Besuchern einen Einblick in die frühen Siedlungsstrukturen der Gegend bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.25587,
+                        -34.180404
+                  ]
+            },
+            {
+                  "name": "Casa de Rubén Dario",
+                  "text": "Die Casa de Rubén Dario ist ein historischer Wohnsitz, der in ein Museum umgewandelt wurde und das Leben und die literarischen Beiträge des berühmten modernistischen Dichters feiert.",
+                  "category": "museum",
+                  "coords": [
+                        -58.252358,
+                        -34.187663
+                  ]
+            },
+            {
+                  "name": "Faro Martín García",
+                  "text": "Der Faro Martín García ist ein markanter Leuchtturm, der erbaut wurde, um Schiffe sicher durch die tückischen Flussgewässer rund um die Insel zu führen.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.252435,
+                        -34.185417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador de la frontera",
+                  "text": "A Mirador de la frontera egy festői kilátó, amely lenyűgöző panorámát nyújt a természetes határvizekre.",
+                  "category": "natural",
+                  "coords": [
+                        -58.248954,
+                        -34.185283
+                  ]
+            },
+            {
+                  "name": "Antiguo Penal",
+                  "text": "Az Antiguo Penal egy történelmi egykori börtönkomplexum, amely ma lenyűgöző múzeumként mutatja be a sziget büntetés-végrehajtási történetét.",
+                  "category": "museum",
+                  "coords": [
+                        -58.253754,
+                        -34.18733
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes Comunes",
+                  "text": "A Monumento a los Héroes Comunes egy megható kőemlékmű, amelyet a régió mindennapi hőseinek és névtelen polgárainak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -58.252113,
+                        -34.18177
+                  ]
+            },
+            {
+                  "name": "Barrio Chino",
+                  "text": "A Barrio Chino a sziget egy különálló, történelmi negyede, amely bepillantást enged a látogatóknak a terület korai településszerkezetébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.25587,
+                        -34.180404
+                  ]
+            },
+            {
+                  "name": "Casa de Rubén Dario",
+                  "text": "A Casa de Rubén Dario egy múzeummá alakított történelmi rezidencia, amely a híres modernista költő életét és irodalmi munkásságát ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        -58.252358,
+                        -34.187663
+                  ]
+            },
+            {
+                  "name": "Faro Martín García",
+                  "text": "A Faro Martín García egy kiemelkedő navigációs világítótorony, amelyet azért építettek, hogy biztonságosan átvezesse a hajókat a sziget körüli veszélyes folyami vizeken.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.252435,
+                        -34.185417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador de la frontera",
+                  "text": "Mirador de la frontera este un punct de observație pitoresc care oferă priveliști panoramice vaste asupra apelor de frontieră naturale.",
+                  "category": "natural",
+                  "coords": [
+                        -58.248954,
+                        -34.185283
+                  ]
+            },
+            {
+                  "name": "Antiguo Penal",
+                  "text": "Antiguo Penal este un fost complex penitenciar istoric care acum servește ca un muzeu intrigant ce documentează istoria penală a insulei.",
+                  "category": "museum",
+                  "coords": [
+                        -58.253754,
+                        -34.18733
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes Comunes",
+                  "text": "Monumento a los Héroes Comunes este un memorial de piatră emoționant dedicat eroilor de zi cu zi și cetățenilor anonimi din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -58.252113,
+                        -34.18177
+                  ]
+            },
+            {
+                  "name": "Barrio Chino",
+                  "text": "Barrio Chino este un cartier istoric distinct de pe insulă care oferă vizitatorilor o privire asupra primelor structuri de așezare din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.25587,
+                        -34.180404
+                  ]
+            },
+            {
+                  "name": "Casa de Rubén Dario",
+                  "text": "Casa de Rubén Dario este o reședință istorică transformată în muzeu care celebrează viața și contribuțiile literare ale celebrului poet modernist.",
+                  "category": "museum",
+                  "coords": [
+                        -58.252358,
+                        -34.187663
+                  ]
+            },
+            {
+                  "name": "Faro Martín García",
+                  "text": "Faro Martín García este un far de navigație proeminent construit pentru a ghida în siguranță navele prin apele fluviale înșelătoare din jurul insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.252435,
+                        -34.185417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador de la frontera",
+                  "text": "Mirador de la frontera is a scenic viewpoint providing sweeping panoramic sights across the natural border waters.",
+                  "category": "natural",
+                  "coords": [
+                        -58.248954,
+                        -34.185283
+                  ]
+            },
+            {
+                  "name": "Antiguo Penal",
+                  "text": "Antiguo Penal is a historic former prison complex that now serves as an intriguing museum documenting the island's penal history.",
+                  "category": "museum",
+                  "coords": [
+                        -58.253754,
+                        -34.18733
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes Comunes",
+                  "text": "Monumento a los Héroes Comunes is a poignant stone memorial dedicated to the everyday heroes and anonymous citizens of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -58.252113,
+                        -34.18177
+                  ]
+            },
+            {
+                  "name": "Barrio Chino",
+                  "text": "Barrio Chino is a distinct, historic neighborhood district on the island offering visitors a glimpse into the area's early settlement structures.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.25587,
+                        -34.180404
+                  ]
+            },
+            {
+                  "name": "Casa de Rubén Dario",
+                  "text": "Casa de Rubén Dario is a historic residence turned museum that celebrates the life and literary contributions of the famed modernist poet.",
+                  "category": "museum",
+                  "coords": [
+                        -58.252358,
+                        -34.187663
+                  ]
+            },
+            {
+                  "name": "Faro Martín García",
+                  "text": "Faro Martín García is a prominent navigational lighthouse constructed to safely guide vessels through the treacherous river waters around the island.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.252435,
+                        -34.185417
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "AR-B",
     coords: [-58.2464, -34.1856],
@@ -1603,7 +5860,52 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-selva-misionera-nature-v2",
+    id: "ar-selva-misionera-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arroyo del tigre",
+                  "text": "Ein malerischer Dschungelbach, der durch den üppigen Regenwald von Misiones fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.283953,
+                        -26.595509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arroyo del tigre",
+                  "text": "Festői erdei patak, amely Misiones dús esőerdején kanyarog keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.283953,
+                        -26.595509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arroyo del tigre",
+                  "text": "Un pârâu pitoresc de junglă care curge prin pădurea tropicală luxuriantă din Misiones.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.283953,
+                        -26.595509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arroyo del tigre",
+                  "text": "A scenic jungle stream flowing through the lush Misiones rainforest.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.283953,
+                        -26.595509
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "AR-N",
     coords: [-54.3414, -26.5419],
@@ -1667,7 +5969,736 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-bosque-andino-patagonico-nature-v2",
+    id: "ar-bosque-andino-patagonico-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tobogán Gigante",
+                  "text": "Eine Riesenrutsche inmitten der andinen patagonischen Waldlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.322873,
+                        -41.133149
+                  ]
+            },
+            {
+                  "name": "Cerro Blanco",
+                  "text": "Ein markanter Berggipfel namens Cerro Blanco, der sich über den andinen patagonischen Wald erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.345221,
+                        -41.268135
+                  ]
+            },
+            {
+                  "name": "Cerro Confluencia",
+                  "text": "Ein andiner Berggipfel in der patagonischen Waldregion.",
+                  "category": "natural",
+                  "coords": [
+                        -71.415454,
+                        -41.287794
+                  ]
+            },
+            {
+                  "name": "Playa Lago Gutiérrez",
+                  "text": "Ein Strandresort am Ufer des Gutiérrez-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.395433,
+                        -41.170694
+                  ]
+            },
+            {
+                  "name": "Cerro de La Ventana",
+                  "text": "Ein markanter Berggipfel in den patagonischen Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -71.374725,
+                        -41.210534
+                  ]
+            },
+            {
+                  "name": "Valle del Chall Huaco",
+                  "text": "Ein malerisches Tal und Naturattraktion im andin-patagonischen Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.325619,
+                        -41.19872
+                  ]
+            },
+            {
+                  "name": "Cerro Carbón",
+                  "text": "Ein andiner Berggipfel, der sich über die patagonische Landschaft erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.293232,
+                        -41.196914
+                  ]
+            },
+            {
+                  "name": "Museo del Chocolate",
+                  "text": "Ein Museum, das die Geschichte und Herstellung von patagonischer Schokolade zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -71.323384,
+                        -41.132113
+                  ]
+            },
+            {
+                  "name": "Mirador Nahuel Huapi",
+                  "text": "Ein malerischer Aussichtspunkt mit weitem Blick über den riesigen Nahuel-Huapi-See.",
+                  "category": "natural",
+                  "coords": [
+                        -71.33105,
+                        -41.131672
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Viejo",
+                  "text": "Ein erhöhter Aussichtspunkt an den Hängen des Cerro Viejo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.323967,
+                        -41.13315
+                  ]
+            },
+            {
+                  "name": "Mirador K1",
+                  "text": "Eine ausgewiesene Aussichtsplattform inmitten des andinen Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.34785,
+                        -41.145156
+                  ]
+            },
+            {
+                  "name": "Playa Melipal",
+                  "text": "Ein erholsames Strandresort am patagonischen Seeufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.352032,
+                        -41.126484
+                  ]
+            },
+            {
+                  "name": "Playa Gutiérrez",
+                  "text": "Ein Sandstrandabschnitt am Ufer des klaren Gutiérrez-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.394573,
+                        -41.171701
+                  ]
+            },
+            {
+                  "name": "Playa Muñoz",
+                  "text": "Ein abgelegener Seestrand, der über Waldwege in der patagonischen Wildnis erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.434056,
+                        -41.219138
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Cerro Carbón",
+                  "text": "Ein städtisches Naturschutzgebiet, das die unteren Hänge und die Flora des Cerro Carbón schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.295777,
+                        -41.173961
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
+                  "text": "Ein städtisches botanisches Gartenreservat, das einheimische andine Pflanzenarten zeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.32114,
+                        -41.150535
+                  ]
+            },
+            {
+                  "name": "Casa de Otto Mailing",
+                  "text": "Ein Museum im historischen Bergwohnsitz des Bergsteigerpioniers Otto Meiling.",
+                  "category": "museum",
+                  "coords": [
+                        -71.36385,
+                        -41.144218
+                  ]
+            },
+            {
+                  "name": "ParroquiaMedalla Milagrosa",
+                  "text": "Eine lokale christliche Pfarrkirche, die den Gläubigen in der andinen Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.302162,
+                        -41.154241
+                  ]
+            },
+            {
+                  "name": "Parroquia Del Carmen",
+                  "text": "Eine traditionelle christliche Pfarrkirche inmitten der patagonischen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.313129,
+                        -41.146772
+                  ]
+            },
+            {
+                  "name": "Parroquia San Cayetano",
+                  "text": "Ein christliches Gotteshaus in der andin-patagonischen Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.323929,
+                        -41.162284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tobogán Gigante",
+                  "text": "Nagyszabású óriáscsúszda-látványosság az andoki patagóniai erdei tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.322873,
+                        -41.133149
+                  ]
+            },
+            {
+                  "name": "Cerro Blanco",
+                  "text": "Egy figyelemre méltó hegycsúcs, a Cerro Blanco, amely az andoki patagóniai erdő fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.345221,
+                        -41.268135
+                  ]
+            },
+            {
+                  "name": "Cerro Confluencia",
+                  "text": "Egy andoki hegycsúcs a patagóniai erdővidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -71.415454,
+                        -41.287794
+                  ]
+            },
+            {
+                  "name": "Playa Lago Gutiérrez",
+                  "text": "Egy tóparti üdülőhely a Gutiérrez-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.395433,
+                        -41.170694
+                  ]
+            },
+            {
+                  "name": "Cerro de La Ventana",
+                  "text": "Egy kiemelkedő hegycsúcs a patagóniai Andokban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.374725,
+                        -41.210534
+                  ]
+            },
+            {
+                  "name": "Valle del Chall Huaco",
+                  "text": "Egy festői természeti völgy az andoki-patagóniai erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.325619,
+                        -41.19872
+                  ]
+            },
+            {
+                  "name": "Cerro Carbón",
+                  "text": "A patagóniai táj fölé magasodó andoki hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -71.293232,
+                        -41.196914
+                  ]
+            },
+            {
+                  "name": "Museo del Chocolate",
+                  "text": "A patagóniai csokoládé történetét és készítését bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -71.323384,
+                        -41.132113
+                  ]
+            },
+            {
+                  "name": "Mirador Nahuel Huapi",
+                  "text": "Festői kilátó, amely panorámát nyújt a hatalmas Nahuel Huapi-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.33105,
+                        -41.131672
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Viejo",
+                  "text": "Egy magasan fekvő kilátó a Cerro Viejo lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        -71.323967,
+                        -41.13315
+                  ]
+            },
+            {
+                  "name": "Mirador K1",
+                  "text": "Egy kijelölt kilátóterasz az andoki erdővel övezve.",
+                  "category": "natural",
+                  "coords": [
+                        -71.34785,
+                        -41.145156
+                  ]
+            },
+            {
+                  "name": "Playa Melipal",
+                  "text": "Egy pihentető tengerparti üdülőövezet a patagóniai tópart mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.352032,
+                        -41.126484
+                  ]
+            },
+            {
+                  "name": "Playa Gutiérrez",
+                  "text": "A Gutiérrez-tó tiszta vizét szegélyező homokos partszakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.394573,
+                        -41.171701
+                  ]
+            },
+            {
+                  "name": "Playa Muñoz",
+                  "text": "A patagóniai vadon erdei ösvényein megközelíthető eldugott tópart.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.434056,
+                        -41.219138
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Cerro Carbón",
+                  "text": "Városi természetvédelmi terület, amely a Cerro Carbón alsó lejtőit és növényvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.295777,
+                        -41.173961
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
+                  "text": "Őshonos magaslati andoki növényfajokat bemutató városi botanikus kert rezervátum.",
+                  "category": "natural",
+                  "coords": [
+                        -71.32114,
+                        -41.150535
+                  ]
+            },
+            {
+                  "name": "Casa de Otto Mailing",
+                  "text": "Otto Meiling hegymászó úttörő történelmi hegyi rezidenciájában berendezett múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -71.36385,
+                        -41.144218
+                  ]
+            },
+            {
+                  "name": "ParroquiaMedalla Milagrosa",
+                  "text": "Helyi keresztény plébániatemplom, amely az andoki közösség hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.302162,
+                        -41.154241
+                  ]
+            },
+            {
+                  "name": "Parroquia Del Carmen",
+                  "text": "Hagyományos keresztény plébániatemplom a patagóniai táj kellős közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.313129,
+                        -41.146772
+                  ]
+            },
+            {
+                  "name": "Parroquia San Cayetano",
+                  "text": "Az andoki-patagóniai régióban megbúvó keresztény istentiszteleti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.323929,
+                        -41.162284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tobogán Gigante",
+                  "text": "Un tobogan uriaș situat în peisajul forestier andin patagonian.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.322873,
+                        -41.133149
+                  ]
+            },
+            {
+                  "name": "Cerro Blanco",
+                  "text": "Un vârf de munte notabil numit Cerro Blanco, care se ridică deasupra pădurii andine patagoniene.",
+                  "category": "natural",
+                  "coords": [
+                        -71.345221,
+                        -41.268135
+                  ]
+            },
+            {
+                  "name": "Cerro Confluencia",
+                  "text": "Un vârf andin situat în regiunea pădurilor patagoniene.",
+                  "category": "natural",
+                  "coords": [
+                        -71.415454,
+                        -41.287794
+                  ]
+            },
+            {
+                  "name": "Playa Lago Gutiérrez",
+                  "text": "O stațiune pe plajă situată pe malul lacului Gutiérrez.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.395433,
+                        -41.170694
+                  ]
+            },
+            {
+                  "name": "Cerro de La Ventana",
+                  "text": "Un vârf montan proeminent situat în Anzii Patagoniei.",
+                  "category": "natural",
+                  "coords": [
+                        -71.374725,
+                        -41.210534
+                  ]
+            },
+            {
+                  "name": "Valle del Chall Huaco",
+                  "text": "O vale naturală pitorească atracție în pădurea andino-patagoniană.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.325619,
+                        -41.19872
+                  ]
+            },
+            {
+                  "name": "Cerro Carbón",
+                  "text": "Un vârf montan andin care se înalță deasupra peisajului patagonian.",
+                  "category": "natural",
+                  "coords": [
+                        -71.293232,
+                        -41.196914
+                  ]
+            },
+            {
+                  "name": "Museo del Chocolate",
+                  "text": "Un muzeu care prezintă istoria și producția de ciocolată patagoniană.",
+                  "category": "museum",
+                  "coords": [
+                        -71.323384,
+                        -41.132113
+                  ]
+            },
+            {
+                  "name": "Mirador Nahuel Huapi",
+                  "text": "Un punct de belvedere pitoresc care oferă vederi ample asupra vastului lac Nahuel Huapi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.33105,
+                        -41.131672
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Viejo",
+                  "text": "Un punct de observație înalt situat pe pantele dealului Cerro Viejo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.323967,
+                        -41.13315
+                  ]
+            },
+            {
+                  "name": "Mirador K1",
+                  "text": "O platformă de vizionare desemnată, înconjurată de pădurea andină.",
+                  "category": "natural",
+                  "coords": [
+                        -71.34785,
+                        -41.145156
+                  ]
+            },
+            {
+                  "name": "Playa Melipal",
+                  "text": "O zonă de relaxare cu stațiune pe plajă situată de-a lungul malului lacului patagonian.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.352032,
+                        -41.126484
+                  ]
+            },
+            {
+                  "name": "Playa Gutiérrez",
+                  "text": "O porțiune de plajă de nisip care mărginește apele limpezi ale lacului Gutiérrez.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.394573,
+                        -41.171701
+                  ]
+            },
+            {
+                  "name": "Playa Muñoz",
+                  "text": "O plajă de lac izolată, accesibilă prin trasee forestiere în sălbăticia patagoniană.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.434056,
+                        -41.219138
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Cerro Carbón",
+                  "text": "O rezervație naturală urbană care protejează pantele inferioare și flora de pe Cerro Carbón.",
+                  "category": "natural",
+                  "coords": [
+                        -71.295777,
+                        -41.173961
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
+                  "text": "O rezervație botanică urbană care evidențiază specii de plante andine autohtone de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -71.32114,
+                        -41.150535
+                  ]
+            },
+            {
+                  "name": "Casa de Otto Mailing",
+                  "text": "Un muzeu găzduit în reședința istorică de munte a pionierului alpinist Otto Meiling.",
+                  "category": "museum",
+                  "coords": [
+                        -71.36385,
+                        -41.144218
+                  ]
+            },
+            {
+                  "name": "ParroquiaMedalla Milagrosa",
+                  "text": "O biserică parohială creștină locală care deservește credincioșii din comunitatea andină.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.302162,
+                        -41.154241
+                  ]
+            },
+            {
+                  "name": "Parroquia Del Carmen",
+                  "text": "O biserică parohială creștină tradițională situată în mijlocul peisajului patagonian.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.313129,
+                        -41.146772
+                  ]
+            },
+            {
+                  "name": "Parroquia San Cayetano",
+                  "text": "Un lăcaș de cult creștin amplasat în regiunea andino-patagoniană.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.323929,
+                        -41.162284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tobogán Gigante",
+                  "text": "A large-scale giant slide attraction set within the Andean Patagonian forest landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.322873,
+                        -41.133149
+                  ]
+            },
+            {
+                  "name": "Cerro Blanco",
+                  "text": "A notable mountain peak called Cerro Blanco rising above the Andean Patagonian forest.",
+                  "category": "natural",
+                  "coords": [
+                        -71.345221,
+                        -41.268135
+                  ]
+            },
+            {
+                  "name": "Cerro Confluencia",
+                  "text": "An Andean peak situated in the Patagonian forest region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.415454,
+                        -41.287794
+                  ]
+            },
+            {
+                  "name": "Playa Lago Gutiérrez",
+                  "text": "A lakeside beach resort located on the shores of Lake Gutiérrez.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.395433,
+                        -41.170694
+                  ]
+            },
+            {
+                  "name": "Cerro de La Ventana",
+                  "text": "A prominent mountain peak located in the Patagonian Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.374725,
+                        -41.210534
+                  ]
+            },
+            {
+                  "name": "Valle del Chall Huaco",
+                  "text": "A scenic natural valley attraction within the Andean-Patagonian forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.325619,
+                        -41.19872
+                  ]
+            },
+            {
+                  "name": "Cerro Carbón",
+                  "text": "An Andean mountain peak rising above the Patagonian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.293232,
+                        -41.196914
+                  ]
+            },
+            {
+                  "name": "Museo del Chocolate",
+                  "text": "A museum showcasing the history and production of Patagonian chocolate.",
+                  "category": "museum",
+                  "coords": [
+                        -71.323384,
+                        -41.132113
+                  ]
+            },
+            {
+                  "name": "Mirador Nahuel Huapi",
+                  "text": "A scenic viewpoint offering sweeping vistas over the vast Lake Nahuel Huapi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.33105,
+                        -41.131672
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Viejo",
+                  "text": "An elevated lookout point situated on the slopes of Cerro Viejo.",
+                  "category": "natural",
+                  "coords": [
+                        -71.323967,
+                        -41.13315
+                  ]
+            },
+            {
+                  "name": "Mirador K1",
+                  "text": "A designated viewing platform surrounded by the Andean forest.",
+                  "category": "natural",
+                  "coords": [
+                        -71.34785,
+                        -41.145156
+                  ]
+            },
+            {
+                  "name": "Playa Melipal",
+                  "text": "A relaxing beach resort area situated along the Patagonian lakeshore.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.352032,
+                        -41.126484
+                  ]
+            },
+            {
+                  "name": "Playa Gutiérrez",
+                  "text": "A sandy stretch of beach bordering the clear waters of Lake Gutiérrez.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.394573,
+                        -41.171701
+                  ]
+            },
+            {
+                  "name": "Playa Muñoz",
+                  "text": "A remote lake beach accessible via forest trails in the Patagonian wilderness.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.434056,
+                        -41.219138
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Cerro Carbón",
+                  "text": "An urban nature reserve protecting the lower slopes and flora of Cerro Carbón.",
+                  "category": "natural",
+                  "coords": [
+                        -71.295777,
+                        -41.173961
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
+                  "text": "An urban botanical garden reserve highlighting native high-altitude Andean plant species.",
+                  "category": "natural",
+                  "coords": [
+                        -71.32114,
+                        -41.150535
+                  ]
+            },
+            {
+                  "name": "Casa de Otto Mailing",
+                  "text": "A museum housed in the historic mountain residence of pioneer mountaineer Otto Meiling.",
+                  "category": "museum",
+                  "coords": [
+                        -71.36385,
+                        -41.144218
+                  ]
+            },
+            {
+                  "name": "ParroquiaMedalla Milagrosa",
+                  "text": "A local Christian parish church serving the faithful in the Andean community.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.302162,
+                        -41.154241
+                  ]
+            },
+            {
+                  "name": "Parroquia Del Carmen",
+                  "text": "A traditional Christian parish church set amidst the Patagonian landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.313129,
+                        -41.146772
+                  ]
+            },
+            {
+                  "name": "Parroquia San Cayetano",
+                  "text": "A Christian place of worship nestled in the Andean-Patagonian region.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.323929,
+                        -41.162284
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "AR-R",
     coords: [-71.3967, -41.2008],
@@ -1731,7 +6762,808 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-bosque-de-arrayanes-nature-v2",
+    id: "ar-bosque-de-arrayanes-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Arauco",
+                  "text": "Der Aussichtspunkt Mirador Arauco bietet einen weiten Blick über die dichten Wälder und die umliegende Seenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -71.687379,
+                        -40.725405
+                  ]
+            },
+            {
+                  "name": "Mirador Brazo Norte",
+                  "text": "Vom Mirador Brazo Norte aus können Besucher die malerischen Gewässer des nördlichen Seearms überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        -71.679884,
+                        -40.731368
+                  ]
+            },
+            {
+                  "name": "Punto Panorámico",
+                  "text": "Dieser Panoramapunkt im Naturschutzgebiet ermöglicht fantastische Weitblicke auf die patagonische Andenlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -71.609912,
+                        -40.77678
+                  ]
+            },
+            {
+                  "name": "torre cerro bayo 1700",
+                  "text": "Der Aussichtsturm am Cerro Bayo liegt auf 1700 Metern Höhe und bietet ein atemberaubendes 360-Grad-Panorama der Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -71.611678,
+                        -40.745457
+                  ]
+            },
+            {
+                  "name": "Cerro Bayo",
+                  "text": "Der Cerro Bayo ist ein markanter Berggipfel, der in den Wintermonaten als beliebtes Skigebiet für Wintersportler dient.",
+                  "category": "natural",
+                  "coords": [
+                        -71.611651,
+                        -40.742418
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "Dieser Aussichtspunkt liegt an einem sprudelnden Wasserfall, dessen kaltes Wasser aus den Bergen über Felsen hinabstürzt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.637752,
+                        -40.732377
+                  ]
+            },
+            {
+                  "name": "Mirador belvedere",
+                  "text": "Der Mirador Belvedere gewährt einen spektakulären Blick über die ausgedehnten Seengebiete und bewaldeten Täler.",
+                  "category": "natural",
+                  "coords": [
+                        -71.650132,
+                        -40.734438
+                  ]
+            },
+            {
+                  "name": "Mirador Río Correntoso",
+                  "text": "Von diesem Standpunkt aus lässt sich der kurze, aber mächtige Lauf des Flusses Correntoso in den See beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        -71.671774,
+                        -40.735938
+                  ]
+            },
+            {
+                  "name": "Cerro belvedere",
+                  "text": "Der Gipfelbereich des Cerro Belvedere ist ein beliebtes Ziel für Wanderer, um die patagonische Seenplatte von oben zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        -71.637249,
+                        -40.718898
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada Rio Bonito",
+                  "text": "Dieser Aussichtspunkt führt direkt zum Rio Bonito Wasserfall, der versteckt in der dichten Vegetation des Waldes rauscht.",
+                  "category": "natural",
+                  "coords": [
+                        -71.59304,
+                        -40.764164
+                  ]
+            },
+            {
+                  "name": "Mirador en la playa",
+                  "text": "Von hier aus hat man einen ungestörten Blick auf den Küstenstreifen und die sanften Wellen des Sees.",
+                  "category": "natural",
+                  "coords": [
+                        -71.571045,
+                        -40.828335
+                  ]
+            },
+            {
+                  "name": "Muelle Viejo",
+                  "text": "Der Aussichtspunkt am alten Holzsteg Muelle Viejo versprüht nostalgischen Charme am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        -71.597233,
+                        -40.800238
+                  ]
+            },
+            {
+                  "name": "Playa Bahía Manzano",
+                  "text": "Das Strandresort in der Bucht Manzano ist von dichten, grünen Wäldern umgeben und bietet direkten Zugang zum ruhigen Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.593166,
+                        -40.804651
+                  ]
+            },
+            {
+                  "name": "Mirador Villa La Angostura",
+                  "text": "Dieser Aussichtspunkt oberhalb von Villa La Angostura offenbart die harmonische Einbettung des Ortes in die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5844,
+                        -40.809429
+                  ]
+            },
+            {
+                  "name": "Acceso Sendero Rio Bonito",
+                  "text": "Der Zugang zum Sendero Rio Bonito markiert den Beginn eines malerischen Wanderweges entlang des Flusses durch den Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.597179,
+                        -40.793694
+                  ]
+            },
+            {
+                  "name": "Boca del Río Bonito",
+                  "text": "Der Strandabschnitt Boca del Río Bonito liegt genau dort, wo der Fluss in den großen See mündet, und ist von Kieselsteinen geprägt.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.609111,
+                        -40.802218
+                  ]
+            },
+            {
+                  "name": "Mirador Bahía Mansa",
+                  "text": "Der Mirador Bahía Mansa bietet Ausblicke auf die geschützte Bucht, deren ruhiges Wasser oft mit Booten gesprenkelt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.657317,
+                        -40.788184
+                  ]
+            },
+            {
+                  "name": "Ruma antigua",
+                  "text": "Die verfallenen Strukturen der Ruma antigua zeugen von einer historischen Besiedlung inmitten der dichten patagonischen Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.622276,
+                        -40.820451
+                  ]
+            },
+            {
+                  "name": "Portal de Madera",
+                  "text": "Das hölzerne Portal fügt sich als rustikales Torhaus malerisch in das Naturschutzgebiet der Arrayanes-Bäume ein.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.617384,
+                        -40.85178
+                  ]
+            },
+            {
+                  "name": "Escondida",
+                  "text": "Der verborgene Strand Escondida bietet eine ruhige sandige Zuflucht abseits der Hauptwege am Seeufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.598086,
+                        -40.805209
+                  ]
+            },
+            {
+                  "name": "Playa Boca Correntoso",
+                  "text": "An der Playa Boca Correntoso treffen die fließenden Gewässer des Flusses auf die ruhige Oberfläche des großen Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.674432,
+                        -40.736709
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Municipal Playa Correntoso",
+                  "text": "Dieses Schutzgebiet am Ufer bewahrt den natürlichen Sandstrand und den Lebensraum am Ausfluss des Flusses Correntoso.",
+                  "category": "natural",
+                  "coords": [
+                        -71.667118,
+                        -40.740387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Arauco",
+                  "text": "A Mirador Arauco kilátópontról széles kilátás nyílik a sűrű erdőkre és a környező tóvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.687379,
+                        -40.725405
+                  ]
+            },
+            {
+                  "name": "Mirador Brazo Norte",
+                  "text": "A Mirador Brazo Norte kilátóból a látogatók a tó északi ágának festői vizeiben gyönyörködhetnek.",
+                  "category": "natural",
+                  "coords": [
+                        -71.679884,
+                        -40.731368
+                  ]
+            },
+            {
+                  "name": "Punto Panorámico",
+                  "text": "Ez a természetvédelmi területen található panorámapont fantasztikus kilátást nyújt a patagóniai Andok tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.609912,
+                        -40.77678
+                  ]
+            },
+            {
+                  "name": "torre cerro bayo 1700",
+                  "text": "A Cerro Bayo hegyen, 1700 méteres magasságban található kilátótorony lélegzetelállító 360 fokos panorámát nyújt az Andokra.",
+                  "category": "natural",
+                  "coords": [
+                        -71.611678,
+                        -40.745457
+                  ]
+            },
+            {
+                  "name": "Cerro Bayo",
+                  "text": "A Cerro Bayo egy kiemelkedő hegycsúcs, amely a téli hónapokban népszerű síparadicsomként szolgál a téli sportok kedvelői számára.",
+                  "category": "natural",
+                  "coords": [
+                        -71.611651,
+                        -40.742418
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "Ez a kilátópont egy pezsgő vízesésnél található, amelynek hideg vize a hegyekből a sziklákon keresztül zuhan alá.",
+                  "category": "natural",
+                  "coords": [
+                        -71.637752,
+                        -40.732377
+                  ]
+            },
+            {
+                  "name": "Mirador belvedere",
+                  "text": "A Mirador Belvedere látványos kilátást nyújt a kiterjedt tóvidékre és az erdős völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.650132,
+                        -40.734438
+                  ]
+            },
+            {
+                  "name": "Mirador Río Correntoso",
+                  "text": "Ebből a nézőpontból megfigyelhető a Correntoso folyó rövid, de erőteljes folyása a tóba.",
+                  "category": "natural",
+                  "coords": [
+                        -71.671774,
+                        -40.735938
+                  ]
+            },
+            {
+                  "name": "Cerro belvedere",
+                  "text": "A Cerro Belvedere csúcsa a túrázók kedvelt célpontja, ahonnan felülről csodálhatják meg a patagóniai tóvidéket.",
+                  "category": "natural",
+                  "coords": [
+                        -71.637249,
+                        -40.718898
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada Rio Bonito",
+                  "text": "Ez a kilátópont közvetlenül a Rio Bonito vízeséshez vezet, amely rejtve zúg az erdő sűrű növényzetében.",
+                  "category": "natural",
+                  "coords": [
+                        -71.59304,
+                        -40.764164
+                  ]
+            },
+            {
+                  "name": "Mirador en la playa",
+                  "text": "Innen zavartalan kilátás nyílik a partszakaszra és a tó lágy hullámaira.",
+                  "category": "natural",
+                  "coords": [
+                        -71.571045,
+                        -40.828335
+                  ]
+            },
+            {
+                  "name": "Muelle Viejo",
+                  "text": "A régi, fából készült Muelle Viejo mólónál lévő kilátópont nosztalgikus bájt áraszt a tóparton.",
+                  "category": "natural",
+                  "coords": [
+                        -71.597233,
+                        -40.800238
+                  ]
+            },
+            {
+                  "name": "Playa Bahía Manzano",
+                  "text": "A Manzano-öbölben található tengerparti üdülőhelyet sűrű, zöld erdők veszik körül, és közvetlen hozzáférést biztosít a nyugodt vizekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.593166,
+                        -40.804651
+                  ]
+            },
+            {
+                  "name": "Mirador Villa La Angostura",
+                  "text": "Ez a Villa La Angostura feletti kilátópont felfedi a város harmonikus beágyazódását a környező hegyvidéki tájba.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5844,
+                        -40.809429
+                  ]
+            },
+            {
+                  "name": "Acceso Sendero Rio Bonito",
+                  "text": "A Sendero Rio Bonito hozzáférése egy festői túraútvonal kezdetét jelzi az erdőn keresztül, a folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.597179,
+                        -40.793694
+                  ]
+            },
+            {
+                  "name": "Boca del Río Bonito",
+                  "text": "A Boca del Río Bonito partszakasz pontosan ott található, ahol a folyó a nagy tóba ömlik, és kavicsok borítják.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.609111,
+                        -40.802218
+                  ]
+            },
+            {
+                  "name": "Mirador Bahía Mansa",
+                  "text": "A Mirador Bahía Mansa a védett öbölre néz, amelynek nyugodt vizét gyakran csónakok pettyezik.",
+                  "category": "natural",
+                  "coords": [
+                        -71.657317,
+                        -40.788184
+                  ]
+            },
+            {
+                  "name": "Ruma antigua",
+                  "text": "A Ruma antigua romos szerkezetei a sűrű patagóniai növényzet közepén egykori történelmi településről tanúskodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.622276,
+                        -40.820451
+                  ]
+            },
+            {
+                  "name": "Portal de Madera",
+                  "text": "A fa portál rusztikus kapuházként festőien illeszkedik az Arrayanes fák természetvédelmi területéhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.617384,
+                        -40.85178
+                  ]
+            },
+            {
+                  "name": "Escondida",
+                  "text": "A rejtett Escondida strand csendes homokos menedéket kínál a tóparti főútvonalaktól távol.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.598086,
+                        -40.805209
+                  ]
+            },
+            {
+                  "name": "Playa Boca Correntoso",
+                  "text": "A Playa Boca Correntoso strandon a folyó áramló vize találkozik a nagy tó nyugodt felszínével.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.674432,
+                        -40.736709
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Municipal Playa Correntoso",
+                  "text": "Ez a parti védett terület megőrzi a természetes homokos strandot és a Correntoso folyó torkolatának élőhelyét.",
+                  "category": "natural",
+                  "coords": [
+                        -71.667118,
+                        -40.740387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Arauco",
+                  "text": "Punctul de belvedere Mirador Arauco oferă o vedere amplă asupra pădurilor dese și a peisajului lacustru din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -71.687379,
+                        -40.725405
+                  ]
+            },
+            {
+                  "name": "Mirador Brazo Norte",
+                  "text": "De la Mirador Brazo Norte, vizitatorii pot admira apele pitorești ale brațului nordic al lacului.",
+                  "category": "natural",
+                  "coords": [
+                        -71.679884,
+                        -40.731368
+                  ]
+            },
+            {
+                  "name": "Punto Panorámico",
+                  "text": "Acest punct panoramic din rezervația naturală oferă priveliști fantastice asupra peisajului andin patagonez.",
+                  "category": "natural",
+                  "coords": [
+                        -71.609912,
+                        -40.77678
+                  ]
+            },
+            {
+                  "name": "torre cerro bayo 1700",
+                  "text": "Turnul de observare de pe Cerro Bayo, situat la 1700 de metri altitudine, oferă o panoramă uluitoare de 360 de grade a Anzilor.",
+                  "category": "natural",
+                  "coords": [
+                        -71.611678,
+                        -40.745457
+                  ]
+            },
+            {
+                  "name": "Cerro Bayo",
+                  "text": "Cerro Bayo este un vârf montan proeminent care servește ca o stațiune de schi populară în timpul lunilor de iarnă.",
+                  "category": "natural",
+                  "coords": [
+                        -71.611651,
+                        -40.742418
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "Acest punct de belvedere este situat lângă o cascadă spumoasă a cărei apă rece din munți cade peste stânci.",
+                  "category": "natural",
+                  "coords": [
+                        -71.637752,
+                        -40.732377
+                  ]
+            },
+            {
+                  "name": "Mirador belvedere",
+                  "text": "Mirador Belvedere oferă o priveliște spectaculoasă asupra întinderilor de lacuri și a văilor împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        -71.650132,
+                        -40.734438
+                  ]
+            },
+            {
+                  "name": "Mirador Río Correntoso",
+                  "text": "Din acest punct de observație se poate urmări cursul scurt, dar puternic, al râului Correntoso către lac.",
+                  "category": "natural",
+                  "coords": [
+                        -71.671774,
+                        -40.735938
+                  ]
+            },
+            {
+                  "name": "Cerro belvedere",
+                  "text": "Zona de vârf a muntelui Cerro Belvedere este o destinație populară pentru drumeți pentru a admira zona lacurilor patagoneze de sus.",
+                  "category": "natural",
+                  "coords": [
+                        -71.637249,
+                        -40.718898
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada Rio Bonito",
+                  "text": "Acest punct de belvedere duce direct la cascada Rio Bonito, care foșnește ascunsă în vegetația deasă a pădurii.",
+                  "category": "natural",
+                  "coords": [
+                        -71.59304,
+                        -40.764164
+                  ]
+            },
+            {
+                  "name": "Mirador en la playa",
+                  "text": "De aici aveți o vedere neobstrucționată asupra fâșiei de coastă și a valurilor blânde ale lacului.",
+                  "category": "natural",
+                  "coords": [
+                        -71.571045,
+                        -40.828335
+                  ]
+            },
+            {
+                  "name": "Muelle Viejo",
+                  "text": "Punctul de belvedere de la vechiul debarcader din lemn Muelle Viejo emană un farmec nostalgic pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        -71.597233,
+                        -40.800238
+                  ]
+            },
+            {
+                  "name": "Playa Bahía Manzano",
+                  "text": "Stațiunea de pe plajă din golful Manzano este înconjurată de păduri dense și verzi, oferind acces direct la apele liniștite.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.593166,
+                        -40.804651
+                  ]
+            },
+            {
+                  "name": "Mirador Villa La Angostura",
+                  "text": "Acest punct de belvedere deasupra localității Villa La Angostura dezvăluie integrarea armonioasă a orașului în peisajul montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5844,
+                        -40.809429
+                  ]
+            },
+            {
+                  "name": "Acceso Sendero Rio Bonito",
+                  "text": "Accesul la Sendero Rio Bonito marchează începutul unui traseu pitoresc de drumeție de-a lungul râului, prin pădure.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.597179,
+                        -40.793694
+                  ]
+            },
+            {
+                  "name": "Boca del Río Bonito",
+                  "text": "Porțiunea de plajă Boca del Río Bonito se află exact acolo unde râul se varsă în marele lac și este presărată cu pietricele.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.609111,
+                        -40.802218
+                  ]
+            },
+            {
+                  "name": "Mirador Bahía Mansa",
+                  "text": "Mirador Bahía Mansa oferă priveliști asupra golfului protejat, ale cărui ape liniștite sunt adesea presărate cu bărci.",
+                  "category": "natural",
+                  "coords": [
+                        -71.657317,
+                        -40.788184
+                  ]
+            },
+            {
+                  "name": "Ruma antigua",
+                  "text": "Structurile ruinate de la Ruma antigua stau mărturie a unei așezări istorice în mijlocul vegetației patagoneze dense.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.622276,
+                        -40.820451
+                  ]
+            },
+            {
+                  "name": "Portal de Madera",
+                  "text": "Portalul din lemn se integrează pitoresc ca o poartă rustică în rezervația naturală a arborilor Arrayanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.617384,
+                        -40.85178
+                  ]
+            },
+            {
+                  "name": "Escondida",
+                  "text": "Plaja ascunsă Escondida oferă un refugiu de nisip liniștit departe de drumurile principale de pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.598086,
+                        -40.805209
+                  ]
+            },
+            {
+                  "name": "Playa Boca Correntoso",
+                  "text": "Pe plaja Playa Boca Correntoso apele curgătoare ale râului se întâlnesc cu suprafața liniștită a marelui lac.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.674432,
+                        -40.736709
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Municipal Playa Correntoso",
+                  "text": "Această zonă protejată de pe mal conservă plaja de nisip naturală și habitatul de la gura de vărsare a râului Correntoso.",
+                  "category": "natural",
+                  "coords": [
+                        -71.667118,
+                        -40.740387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Arauco",
+                  "text": "The Mirador Arauco viewpoint offers a sweeping vista over the dense forests and the surrounding lake landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.687379,
+                        -40.725405
+                  ]
+            },
+            {
+                  "name": "Mirador Brazo Norte",
+                  "text": "From the Mirador Brazo Norte, visitors can overlook the picturesque waters of the northern arm of the lake.",
+                  "category": "natural",
+                  "coords": [
+                        -71.679884,
+                        -40.731368
+                  ]
+            },
+            {
+                  "name": "Punto Panorámico",
+                  "text": "This panoramic point in the nature reserve allows for fantastic sweeping views of the Patagonian Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.609912,
+                        -40.77678
+                  ]
+            },
+            {
+                  "name": "torre cerro bayo 1700",
+                  "text": "The observation tower at Cerro Bayo, situated at 1700 meters altitude, offers a breathtaking 360-degree panorama of the Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.611678,
+                        -40.745457
+                  ]
+            },
+            {
+                  "name": "Cerro Bayo",
+                  "text": "Cerro Bayo is a prominent mountain peak that serves as a popular ski resort destination during the winter months.",
+                  "category": "natural",
+                  "coords": [
+                        -71.611651,
+                        -40.742418
+                  ]
+            },
+            {
+                  "name": "Cascada",
+                  "text": "This viewpoint is located by a bubbling waterfall, its cold mountain water cascading down over rocks.",
+                  "category": "natural",
+                  "coords": [
+                        -71.637752,
+                        -40.732377
+                  ]
+            },
+            {
+                  "name": "Mirador belvedere",
+                  "text": "The Mirador Belvedere provides a spectacular view over the expansive lake areas and forested valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -71.650132,
+                        -40.734438
+                  ]
+            },
+            {
+                  "name": "Mirador Río Correntoso",
+                  "text": "From this vantage point, one can observe the short but powerful course of the Correntoso River flowing into the lake.",
+                  "category": "natural",
+                  "coords": [
+                        -71.671774,
+                        -40.735938
+                  ]
+            },
+            {
+                  "name": "Cerro belvedere",
+                  "text": "The peak area of Cerro Belvedere is a popular destination for hikers to admire the Patagonian Lake District from above.",
+                  "category": "natural",
+                  "coords": [
+                        -71.637249,
+                        -40.718898
+                  ]
+            },
+            {
+                  "name": "Mirador Cascada Rio Bonito",
+                  "text": "This viewpoint leads directly to the Rio Bonito Waterfall, which rushes hidden amidst the dense forest vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -71.59304,
+                        -40.764164
+                  ]
+            },
+            {
+                  "name": "Beach View point",
+                  "text": "From here, you have an unobstructed view of the coastline and the gentle waves of the lake.",
+                  "category": "natural",
+                  "coords": [
+                        -71.571045,
+                        -40.828335
+                  ]
+            },
+            {
+                  "name": "Muelle Viejo",
+                  "text": "The viewpoint at the old wooden pier Muelle Viejo exudes nostalgic charm on the lake shore.",
+                  "category": "natural",
+                  "coords": [
+                        -71.597233,
+                        -40.800238
+                  ]
+            },
+            {
+                  "name": "Playa Bahía Manzano",
+                  "text": "The beach resort in Manzano Bay is surrounded by dense, green forests and offers direct access to the calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.593166,
+                        -40.804651
+                  ]
+            },
+            {
+                  "name": "Viewpoint Villa La Angostura",
+                  "text": "This viewpoint above Villa La Angostura reveals the harmonious integration of the town into the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -71.5844,
+                        -40.809429
+                  ]
+            },
+            {
+                  "name": "Acceso Sendero Rio Bonito",
+                  "text": "The access point to the Sendero Rio Bonito marks the beginning of a picturesque hiking trail along the river through the forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.597179,
+                        -40.793694
+                  ]
+            },
+            {
+                  "name": "Boca del Río Bonito",
+                  "text": "The Boca del Río Bonito beach area is located right where the river flows into the large lake, characterized by its pebbled shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.609111,
+                        -40.802218
+                  ]
+            },
+            {
+                  "name": "Mirador Bahía Mansa",
+                  "text": "Mirador Bahía Mansa provides views of the protected bay, whose calm waters are often dotted with boats.",
+                  "category": "natural",
+                  "coords": [
+                        -71.657317,
+                        -40.788184
+                  ]
+            },
+            {
+                  "name": "Ruma antigua",
+                  "text": "The ruined structures of Ruma antigua bear witness to historic settlement amidst the dense Patagonian vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.622276,
+                        -40.820451
+                  ]
+            },
+            {
+                  "name": "Portal de Madera",
+                  "text": "The wooden portal blends picturesquely as a rustic gatehouse into the nature reserve of the Arrayanes trees.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.617384,
+                        -40.85178
+                  ]
+            },
+            {
+                  "name": "Escondida",
+                  "text": "The hidden Escondida beach offers a quiet sandy retreat away from the main paths along the lake shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.598086,
+                        -40.805209
+                  ]
+            },
+            {
+                  "name": "Playa Boca Correntoso",
+                  "text": "At Playa Boca Correntoso, the flowing waters of the river meet the calm surface of the large lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.674432,
+                        -40.736709
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Municipal Playa Correntoso",
+                  "text": "This coastal protected area preserves the natural sandy beach and habitat at the outflow of the Correntoso River.",
+                  "category": "natural",
+                  "coords": [
+                        -71.667118,
+                        -40.740387
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "AR-Q",
     coords: [-71.6219, -40.7964],
@@ -1859,7 +7691,124 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     },
   },
   {
-    id: "ar-canal-beagle-nature-v2",
+    id: "ar-canal-beagle-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Les Éclaireurs",
+                  "text": "Dieser berühmte, auf einer Felseninsel im Beagle-Kanal thronende, leicht konische, rot-weiß gestreifte Leuchtturm ist ein bekanntes Symbol für das Ende der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.083245,
+                        -54.871545
+                  ]
+            },
+            {
+                  "name": "Canal de Beagle",
+                  "text": "Diese viel befahrene, malerische Meerenge trennt die Hauptinsel Feuerland von verschiedenen kleineren südlichen Inseln, umrahmt von dramatischen, vergletscherten Gipfeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.055221,
+                        -54.854154
+                  ]
+            },
+            {
+                  "name": "Cerro Trapecio",
+                  "text": "Dieser markant geformte Berggipfel mit Blick auf den Beagle-Kanal weist steile Felswände auf, die abenteuerlustige Kletterer an seine abgelegenen Hänge ziehen.",
+                  "category": "natural",
+                  "coords": [
+                        -68.043566,
+                        -54.813902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Les Éclaireurs",
+                  "text": "A Beagle-csatorna egyik sziklás szigetecskéjén álló híres, enyhén kúpos, piros-fehér csíkos világítótorony a Világvége ismert szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.083245,
+                        -54.871545
+                  ]
+            },
+            {
+                  "name": "Canal de Beagle",
+                  "text": "Ez az élénk hajóforgalmú, festői tengerszoros elválasztja Tűzföld főszigetét a különböző kisebb déli szigetektől, drámai, eljegesedett hegycsúcsok ölelésében.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.055221,
+                        -54.854154
+                  ]
+            },
+            {
+                  "name": "Cerro Trapecio",
+                  "text": "A Beagle-csatornára néző, jellegzetes formájú hegycsúcs meredek sziklafalakkal rendelkezik, amelyek kalandvágyó hegymászókat vonzanak távoli lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        -68.043566,
+                        -54.813902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Les Éclaireurs",
+                  "text": "Aflat în mod faimos pe o insuliță stâncoasă din Canalul Beagle, acest far ușor conic, cu dungi roșii și albe, este un simbol renumit al Capătului Lumii.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.083245,
+                        -54.871545
+                  ]
+            },
+            {
+                  "name": "Canal de Beagle",
+                  "text": "Această strâmtoare pitorească, intens navigată, separă insula principală Țara de Foc de diverse insule sudice mai mici, fiind încadrată de vârfuri glaciare dramatice.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.055221,
+                        -54.854154
+                  ]
+            },
+            {
+                  "name": "Cerro Trapecio",
+                  "text": "Dominând Canalul Beagle, acest vârf montan cu formă distinctă prezintă pereți stâncoși abrupți ce atrag alpiniștii aventuroși pe pantele sale izolate.",
+                  "category": "natural",
+                  "coords": [
+                        -68.043566,
+                        -54.813902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les Eclaireurs Lighthouse",
+                  "text": "Famously perched on a rocky islet in the Beagle Channel, this slightly conical, red-and-white striped lighthouse is a renowned symbol of the End of the World.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.083245,
+                        -54.871545
+                  ]
+            },
+            {
+                  "name": "Beagle Channel",
+                  "text": "This highly navigated, scenic strait separates the main island of Tierra del Fuego from various smaller southern islands, framed by dramatic glaciated peaks.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.055221,
+                        -54.854154
+                  ]
+            },
+            {
+                  "name": "Cerro Trapecio",
+                  "text": "Overlooking the Beagle Channel, this distinctly shaped mountain peak features steep rocky faces that draw adventurous climbers to its remote slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -68.043566,
+                        -54.813902
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "AR-V",
     coords: [-68.0000, -54.8833],

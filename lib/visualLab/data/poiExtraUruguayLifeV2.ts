@@ -49,7 +49,232 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Fondé en 1999.", "Protège les capybaras et les pécaris."],
     }, image: "/poi-images/bioparque-mbopicua-life-v2.webp"},
   {
-    id: "parque-lecocq-life-v2",
+    id: "parque-lecocq-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "UCL",
+                  "text": "Das Bildungs- und Logistikzentrum im Parque Lecocq, das Informationen über die lokale Flora und Fauna bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.368001,
+                        -34.765523
+                  ]
+            },
+            {
+                  "name": "Puente de la Barra",
+                  "text": "Eine markante Brücke über den Santa Lucía Fluss, die Montevideo mit dem Departement San José verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.355053,
+                        -34.783752
+                  ]
+            },
+            {
+                  "name": "Parque de Punta Espinillo",
+                  "text": "Ein Küstenpark mit dichten Eukalyptuswäldern und felsigen Stränden am Río de la Plata.",
+                  "category": "park",
+                  "coords": [
+                        -56.419976,
+                        -34.831224
+                  ]
+            },
+            {
+                  "name": "Playa La Colorada",
+                  "text": "Ein ruhiger Strand in Punta Espinillo, bekannt für seine rote Färbung des Sandes bei Sonnenuntergang.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.376028,
+                        -34.858402
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los santos de los últimos días",
+                  "text": "Ein modernes mormonisches Kirchengebäude in der Nähe des Parque Lecocq mit funktionaler Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.359631,
+                        -34.773499
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Guardia y San Luis Gonzaga",
+                  "text": "Eine historische Pfarrei in Santiago Vázquez, die eng mit der Fischerei- und Seefahrertradition des Ortes verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.350764,
+                        -34.789683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "UCL",
+                  "text": "Oktatási és logisztikai központ a Parque Lecocqban, amely információkat nyújt a helyi növény- és állatvilágról.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.368001,
+                        -34.765523
+                  ]
+            },
+            {
+                  "name": "Puente de la Barra",
+                  "text": "Jellegzetes híd a Santa Lucía-folyón, amely Montevideót köti össze San José megyével.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.355053,
+                        -34.783752
+                  ]
+            },
+            {
+                  "name": "Parque de Punta Espinillo",
+                  "text": "Tengerparti park sűrű eukaliptuszerdőkkel és sziklás strandokkal a Río de la Plata partján.",
+                  "category": "park",
+                  "coords": [
+                        -56.419976,
+                        -34.831224
+                  ]
+            },
+            {
+                  "name": "Playa La Colorada",
+                  "text": "Csendes strand Punta Espinillóban, amely naplementekor a homok vöröses árnyalatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.376028,
+                        -34.858402
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los santos de los últimos días",
+                  "text": "Modern mormon templomépület a Parque Lecocq közelében, funkcionális építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.359631,
+                        -34.773499
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Guardia y San Luis Gonzaga",
+                  "text": "Történelmi plébánia Santiago Vázquezban, amely szorosan kötődik a helyi halászati és tengerészeti hagyományokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.350764,
+                        -34.789683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "UCL",
+                  "text": "Centrul de educație și loigstică din Parque Lecocq, care oferă informații despre flora și fauna locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.368001,
+                        -34.765523
+                  ]
+            },
+            {
+                  "name": "Puente de la Barra",
+                  "text": "Un pod distinctiv peste râul Santa Lucía, care leagă Montevideo de departamentul San José.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.355053,
+                        -34.783752
+                  ]
+            },
+            {
+                  "name": "Parque de Punta Espinillo",
+                  "text": "Un parc de coastă cu păduri dense de eucalipt și plaje stâncoase pe malul Río de la Plata.",
+                  "category": "park",
+                  "coords": [
+                        -56.419976,
+                        -34.831224
+                  ]
+            },
+            {
+                  "name": "Playa La Colorada",
+                  "text": "O plajă liniștită în Punta Espinillo, cunoscută pentru nuanța roșiatică a nisipului la apus.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.376028,
+                        -34.858402
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los santos de los últimos días",
+                  "text": "O clădire bisericească mormonă modernă lângă Parque Lecocq, cu arhitectură funcțională.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.359631,
+                        -34.773499
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Guardia y San Luis Gonzaga",
+                  "text": "O parohie istorică în Santiago Vázquez, strâns legată de tradiția pescărească și maritimă a localității.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.350764,
+                        -34.789683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "UCL",
+                  "text": "The educational and logistics center within Parque Lecocq, providing information about the local flora and fauna.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.368001,
+                        -34.765523
+                  ]
+            },
+            {
+                  "name": "Puente de la Barra",
+                  "text": "A prominent bridge over the Santa Lucía River connecting Montevideo with the San José department.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.355053,
+                        -34.783752
+                  ]
+            },
+            {
+                  "name": "Parque de Punta Espinillo",
+                  "text": "A coastal park featuring dense eucalyptus forests and rocky beaches on the shores of the Río de la Plata.",
+                  "category": "park",
+                  "coords": [
+                        -56.419976,
+                        -34.831224
+                  ]
+            },
+            {
+                  "name": "Playa La Colorada",
+                  "text": "A quiet beach in Punta Espinillo known for the reddish tint of its sand at sunset.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.376028,
+                        -34.858402
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los santos de los últimos días",
+                  "text": "A modern Mormon church building near Parque Lecocq featuring functional architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.359631,
+                        -34.773499
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora de la Guardia y San Luis Gonzaga",
+                  "text": "A historic parish in Santiago Vázquez closely linked to the local fishing and maritime traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.350764,
+                        -34.789683
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UY-MO",
     coords: [-56.35, -34.7833],
@@ -95,7 +320,160 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Abrite un troupeau d'antilopes.", "Offre des habitats ouverts."],
     }, image: "/poi-images/parque-lecocq-life-v2.webp"},
   {
-    id: "reserva-cerro-pan-de-azucar-life-v2",
+    id: "reserva-cerro-pan-de-azucar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Casona (Baile)",
+                  "text": "Ein historisches Gesellschaftshaus, das für traditionelle Tänze und kulturelle Veranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.233183,
+                        -34.779865
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Pan de Azucar",
+                  "text": "Ein Kulturzentrum im Herzen der Stadt, in dem Werke lokaler Künstler und Musiker präsentiert werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.223296,
+                        -34.775326
+                  ]
+            },
+            {
+                  "name": "Iglesia de Pan de Azucar",
+                  "text": "Eine katholische Kirche im Zentrum von Pan de Azúcar, die als spiritueller Mittelpunkt der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.224356,
+                        -34.776137
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein mormonisches Gemeindehaus, das durch seine charakteristische moderne Architektur auffällt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.221074,
+                        -34.770307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Casona (Baile)",
+                  "text": "Egy történelmi közösségi ház, amely hagyományos táncoknak és kulturális eseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.233183,
+                        -34.779865
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Pan de Azucar",
+                  "text": "Kulturális központ a város szívében, ahol helyi művészek és zenészek alkotásait mutatják be.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.223296,
+                        -34.775326
+                  ]
+            },
+            {
+                  "name": "Iglesia de Pan de Azucar",
+                  "text": "Katolikus templom Pan de Azúcar központjában, amely a város hitéletének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.224356,
+                        -34.776137
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Mormon imaház, amely letisztult és modern építészeti stílusával tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.221074,
+                        -34.770307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Casona (Baile)",
+                  "text": "O clădire istorică folosită pentru dansuri tradiționale și evenimente culturale comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.233183,
+                        -34.779865
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Pan de Azucar",
+                  "text": "Un centru cultural din inima orașului care găzduiește expoziții de artă și spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.223296,
+                        -34.775326
+                  ]
+            },
+            {
+                  "name": "Iglesia de Pan de Azucar",
+                  "text": "O biserică catolică în centrul orașului Pan de Azúcar, ce servește drept punct spiritual al comunității.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.224356,
+                        -34.776137
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de rugăciune mormonă, remarcabilă prin arhitectura sa modernă și sobră.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.221074,
+                        -34.770307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Casona (Baile)",
+                  "text": "A historic social hall used for traditional dances and local cultural community events.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.233183,
+                        -34.779865
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Pan de Azucar",
+                  "text": "A cultural center in the heart of town hosting exhibits by local artists and musicians.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.223296,
+                        -34.775326
+                  ]
+            },
+            {
+                  "name": "Iglesia de Pan de Azucar",
+                  "text": "A Catholic church in the center of Pan de Azúcar serving as the town's spiritual hub.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.224356,
+                        -34.776137
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A Mormon meetinghouse notable for its characteristic clean and modern architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.221074,
+                        -34.770307
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UY-MA",
     coords: [-55.25, -34.8],
@@ -141,7 +519,88 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Protège des espèces menacées d'extinction.", "Proche de la ville de Piriápolis."],
     }, image: "/poi-images/reserva-cerro-pan-de-azucar-life-v2.webp"},
   {
-    id: "ecoparque-talice-life-v2",
+    id: "ecoparque-talice-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva de Flora y Fauna Dr. Rodolfo Tálice",
+                  "text": "Ein Ökopark mit einheimischen südamerikanischen Tierarten und einem großen natürlichen See für Bootsfahrten.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.940335,
+                        -33.505681
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas in Trinidad, der für lokale Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -56.900889,
+                        -33.51494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva de Flora y Fauna Dr. Rodolfo Tálice",
+                  "text": "Ökopark őshonos dél-amerikai állatfajokkal és egy nagy természetes tóval, amelyen csónakázni is lehet.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.940335,
+                        -33.505681
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi királyságterme Trinidadban, amelyet a helyi istentiszteletekhez használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -56.900889,
+                        -33.51494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva de Flora y Fauna Dr. Rodolfo Tálice",
+                  "text": "Un ecoparc cu specii de animale native din America de Sud și un lac natural mare pentru plimbări cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.940335,
+                        -33.505681
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova din Trinidad, utilizată pentru serviciile religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        -56.900889,
+                        -33.51494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva de Flora y Fauna Dr. Rodolfo Tálice",
+                  "text": "An ecopark featuring native South American species and a large natural lake for boat tours.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.940335,
+                        -33.505681
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses in Trinidad, used for local religious services.",
+                  "category": "religious",
+                  "coords": [
+                        -56.900889,
+                        -33.51494
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "UY-FS",
     coords: [-56.8833, -33.5167],
@@ -233,7 +692,412 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["En exploitation depuis 1830.", "Pionnier du vin de qualité."],
     }, image: "/poi-images/establecimiento-juanico-life-v2.webp"},
   {
-    id: "finca-narbona-life-v2",
+    id: "finca-narbona-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reloj Inglés",
+                  "text": "Eine historische, in England gefertigte Uhr, die als lokale Attraktion in der Nähe der Finca Narbona dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.285724,
+                        -34.00348
+                  ]
+            },
+            {
+                  "name": "Calera de las Huérfanas",
+                  "text": "Ein Museum, das an den historischen Jesuiten-Kalköfen der Calera de las Huérfanas bei der Finca Narbona errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -58.17543,
+                        -34.024896
+                  ]
+            },
+            {
+                  "name": "Museo de Madeira",
+                  "text": "Ein Spezialmuseum in der Nähe der Finca Narbona, das traditionelle Holzbearbeitungswerkzeuge und Holzkunsthandwerk ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -58.285917,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Monumento al Voluntario",
+                  "text": "Ein Gedenkmonument zu Ehren lokaler Freiwilliger, das als bürgerliches Wahrzeichen in der Nähe der Finca Narbona steht.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.287503,
+                        -33.999064
+                  ]
+            },
+            {
+                  "name": "Teatro Uamá",
+                  "text": "Ein elegantes historisches Theater, in dem lokale Kulturaufführungen und Theaterstücke in der Nähe der Finca Narbona stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.285351,
+                        -34.000621
+                  ]
+            },
+            {
+                  "name": "Reserva de Fauna",
+                  "text": "Ein lokales Wildtierreservat, das einheimische Tierarten in der Region um die Finca Narbona schützt.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.288309,
+                        -34.010571
+                  ]
+            },
+            {
+                  "name": "Hornos de Calera",
+                  "text": "Historische Ziegelöfen bei der Finca Narbona, in denen traditionell Kalkstein zu Branntkalk verarbeitet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.177552,
+                        -34.02852
+                  ]
+            },
+            {
+                  "name": "Playa Seré",
+                  "text": "Ein beliebter Sandstrand, der einen erholsamen Zugang zum Wasser in der Nähe des Gebiets Finca Narbona bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.295639,
+                        -34.010244
+                  ]
+            },
+            {
+                  "name": "Playa Treinta y Tres Orientales",
+                  "text": "Ein Sandstrand am Flussufer, benannt nach den Dreiunddreißig Orientalen, in der Nähe der Finca Narbona.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.306248,
+                        -33.9951
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Carmen",
+                  "text": "Eine katholische Pfarrkirche, die Unserer Lieben Frau auf dem Berge Karmel in der Region Finca Narbona gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.284144,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Capilla San Roque",
+                  "text": "Eine bescheidene christliche Kapelle, die dem Heiligen Rochus gewidmet ist und den Gläubigen in der Nähe der Finca Narbona dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.294746,
+                        -33.96371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reloj Inglés",
+                  "text": "Egy történelmi, angol készítésű óra, amely helyi látványosságként szolgál a Finca Narbona közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.285724,
+                        -34.00348
+                  ]
+            },
+            {
+                  "name": "Calera de las Huérfanas",
+                  "text": "A Finca Narbona melletti Calera de las Huérfanas történelmi jezsuita mészégetői mellett épült múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -58.17543,
+                        -34.024896
+                  ]
+            },
+            {
+                  "name": "Museo de Madeira",
+                  "text": "A Finca Narbona közelében található speciális múzeum, amely hagyományos famegmunkáló szerszámokat és fafaragó mesterséget mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -58.285917,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Monumento al Voluntario",
+                  "text": "A helyi önkéntesek előtt tisztelgő emlékmű, amely polgári tájékozódási pontként áll a Finca Narbona közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.287503,
+                        -33.999064
+                  ]
+            },
+            {
+                  "name": "Teatro Uamá",
+                  "text": "Elegáns, történelmi színház, amely helyi kulturális előadásoknak és színdaraboknak ad otthont a Finca Narbona közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.285351,
+                        -34.000621
+                  ]
+            },
+            {
+                  "name": "Reserva de Fauna",
+                  "text": "A helyi állatvilágot és a Finca Narbona környéki őshonos fajokat védő rezervátum.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.288309,
+                        -34.010571
+                  ]
+            },
+            {
+                  "name": "Hornos de Calera",
+                  "text": "Történelmi téglaégetők a Finca Narbona közelében, ahol a mészkövet hagyományosan égetett mésszé dolgozták fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.177552,
+                        -34.02852
+                  ]
+            },
+            {
+                  "name": "Playa Seré",
+                  "text": "Népszerű homokos strand, amely rekreációs vízparti hozzáférést biztosít a Finca Narbona terület közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.295639,
+                        -34.010244
+                  ]
+            },
+            {
+                  "name": "Playa Treinta y Tres Orientales",
+                  "text": "A Harminchárom Keleti emberről elnevezett folyóparti homokos strand, amely a Finca Narbona közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.306248,
+                        -33.9951
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Carmen",
+                  "text": "A Finca Narbona régióban található, a Kármelhegyi Boldogasszonynak szentelt katolikus plébániatemplom.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.284144,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Capilla San Roque",
+                  "text": "Szent Rókusnak szentelt szerény keresztény kápolna, amely a hívőket szolgálja a Finca Narbona közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.294746,
+                        -33.96371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reloj Inglés",
+                  "text": "Un ceas istoric de fabricație engleză, care servește drept atracție locală lângă Finca Narbona.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.285724,
+                        -34.00348
+                  ]
+            },
+            {
+                  "name": "Calera de las Huérfanas",
+                  "text": "Un muzeu construit la cuptoarele istorice de var iezuite de la Calera de las Huérfanas, lângă Finca Narbona.",
+                  "category": "museum",
+                  "coords": [
+                        -58.17543,
+                        -34.024896
+                  ]
+            },
+            {
+                  "name": "Museo de Madeira",
+                  "text": "Un muzeu specializat din apropierea Finca Narbona, care expune unelte tradiționale de prelucrare a lemnului și măiestria meșteșugului în lemn.",
+                  "category": "museum",
+                  "coords": [
+                        -58.285917,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Monumento al Voluntario",
+                  "text": "Un monument comemorativ care onorează voluntarii locali, fiind un punct de reper civic lângă Finca Narbona.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.287503,
+                        -33.999064
+                  ]
+            },
+            {
+                  "name": "Teatro Uamá",
+                  "text": "Un teatru istoric elegant care găzduiește spectacole culturale locale și piese de teatru lângă Finca Narbona.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.285351,
+                        -34.000621
+                  ]
+            },
+            {
+                  "name": "Reserva de Fauna",
+                  "text": "O rezervație locală de viață sălbatică care protejează speciile native de faună din regiunea din apropiere de Finca Narbona.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.288309,
+                        -34.010571
+                  ]
+            },
+            {
+                  "name": "Hornos de Calera",
+                  "text": "Cuptoare istorice de cărămidă lângă Finca Narbona, unde calcarul era prelucrat tradițional în var nestins.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.177552,
+                        -34.02852
+                  ]
+            },
+            {
+                  "name": "Playa Seré",
+                  "text": "O plajă de nisip populară care oferă acces la malul apei pentru recreere, în apropierea zonei Finca Narbona.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.295639,
+                        -34.010244
+                  ]
+            },
+            {
+                  "name": "Playa Treinta y Tres Orientales",
+                  "text": "O plajă de nisip pe malul râului, numită după Cei Treizeci și Trei de Orientali, situată lângă Finca Narbona.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.306248,
+                        -33.9951
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Carmen",
+                  "text": "O biserică parohială catolică dedicată Maicii Domnului de pe Muntele Carmel în regiunea Finca Narbona.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.284144,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Capilla San Roque",
+                  "text": "O capelă creștină modestă închinată Sfântului Rochus, care deservește credincioșii din apropiere de Finca Narbona.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.294746,
+                        -33.96371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reloj Inglés",
+                  "text": "A historic English-crafted clock serving as a local attraction near Finca Narbona.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.285724,
+                        -34.00348
+                  ]
+            },
+            {
+                  "name": "Calera de las Huérfanas",
+                  "text": "A museum built at the historic Jesuit lime kilns of Calera de las Huérfanas near Finca Narbona.",
+                  "category": "museum",
+                  "coords": [
+                        -58.17543,
+                        -34.024896
+                  ]
+            },
+            {
+                  "name": "Museum of Wood",
+                  "text": "A specialized museum near Finca Narbona exhibiting traditional woodworking tools and timber craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        -58.285917,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Monumento al Voluntario",
+                  "text": "A commemorative monument honoring local volunteers, standing as a civic landmark near Finca Narbona.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.287503,
+                        -33.999064
+                  ]
+            },
+            {
+                  "name": "Teatro Uamá",
+                  "text": "An elegant historic theater hosting local cultural performances and plays near Finca Narbona.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.285351,
+                        -34.000621
+                  ]
+            },
+            {
+                  "name": "Reserva de Fauna",
+                  "text": "A local wildlife reserve protecting native fauna species in the region near Finca Narbona.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.288309,
+                        -34.010571
+                  ]
+            },
+            {
+                  "name": "Hornos de Calera",
+                  "text": "Historic brick kilns near Finca Narbona where limestone was traditionally processed into quicklime.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.177552,
+                        -34.02852
+                  ]
+            },
+            {
+                  "name": "Playa Seré",
+                  "text": "A popular sandy beach offering recreational waterfront access near the Finca Narbona area.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.295639,
+                        -34.010244
+                  ]
+            },
+            {
+                  "name": "Playa Treinta y Tres Orientales",
+                  "text": "A riverside sandy beach named after the Thirty-Three Orientals, located near Finca Narbona.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.306248,
+                        -33.9951
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Carmen",
+                  "text": "A Catholic parish church dedicated to Our Lady of Mount Carmel in the Finca Narbona region.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.284144,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Capilla San Roque",
+                  "text": "A modest Christian chapel dedicated to Saint Roch, serving the faithful near Finca Narbona.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.294746,
+                        -33.96371
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UY-CO",
     coords: [-58.2667, -33.9833],
@@ -281,7 +1145,52 @@ export const poiExtraUruguayLifeV2: POI[] = [
     
   },
   {
-    id: "bodega-garzon-life-v2",
+    id: "bodega-garzon-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro de las Carobas",
+                  "text": "Ein Hügel mit Blick auf die berühmten Weinberge und Olivenhaine von Bodega Garzón.",
+                  "category": "natural",
+                  "coords": [
+                        -54.755269,
+                        -34.585587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro de las Carobas",
+                  "text": "Domb, ahonnan kilátás nyílik a Bodega Garzón híres szőlőültetvényeire és olajfaligeteire.",
+                  "category": "natural",
+                  "coords": [
+                        -54.755269,
+                        -34.585587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro de las Carobas",
+                  "text": "O colină ce domină faimoasele podgorii și livezi de măslini de la Bodega Garzón.",
+                  "category": "natural",
+                  "coords": [
+                        -54.755269,
+                        -34.585587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro de las Carobas",
+                  "text": "A hill overlooking the famous vineyards and olive groves of Bodega Garzón.",
+                  "category": "natural",
+                  "coords": [
+                        -54.755269,
+                        -34.585587
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UY-MA",
     coords: [-54.8, -34.6167],
@@ -327,7 +1236,232 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Produit de l'huile d'olive primée.", "Premier domaine viticole certifié LEED."],
     }, image: "/poi-images/bodega-garzon-life-v2.webp"},
   {
-    id: "reserva-natural-salus-life-v2",
+    id: "reserva-natural-salus-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Alto",
+                  "text": "Ein markanter Hügel innerhalb des Naturschutzgebiets Salus, bekannt für seine Wanderpfade.",
+                  "category": "natural",
+                  "coords": [
+                        -55.327857,
+                        -34.472197
+                  ]
+            },
+            {
+                  "name": "Cerro Blanco",
+                  "text": "Ein Berggipfel in der Salus-Region, der durch seine hellen Gesteinsformationen auffällt.",
+                  "category": "natural",
+                  "coords": [
+                        -55.324691,
+                        -34.463891
+                  ]
+            },
+            {
+                  "name": "Cerro de Soria",
+                  "text": "Ein malerischer Hügel mit Blick auf das Gebiet der berühmten Mineralquellen von Lavalleja.",
+                  "category": "natural",
+                  "coords": [
+                        -55.328506,
+                        -34.456089
+                  ]
+            },
+            {
+                  "name": "Cerro del Águila",
+                  "text": "Ein hoher Aussichtspunkt, der oft von Greifvögeln wie Adlern und Bussarden überflogen wird.",
+                  "category": "natural",
+                  "coords": [
+                        -55.318018,
+                        -34.41407
+                  ]
+            },
+            {
+                  "name": "Fuente del Puma",
+                  "text": "Ein berühmter Brunnen mit einer Bronze-Puma-Statue, dem Symbol des lokalen Mineralwassers.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.315411,
+                        -34.421943
+                  ]
+            },
+            {
+                  "name": "Cerro del Puma",
+                  "text": "Ein nach den einheimischen Pumas benannter Gipfel über dem Salus-Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.322385,
+                        -34.42685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Alto",
+                  "text": "Kiemelkedő domb a Salus természetvédelmi területén belül, amely kedvelt túrázóhely.",
+                  "category": "natural",
+                  "coords": [
+                        -55.327857,
+                        -34.472197
+                  ]
+            },
+            {
+                  "name": "Cerro Blanco",
+                  "text": "Hegycsúcs a Salus régióban, amely világos színű kőzetformációiról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -55.324691,
+                        -34.463891
+                  ]
+            },
+            {
+                  "name": "Cerro de Soria",
+                  "text": "Festői domb, ahonnan rálátás nyílik Lavalleja híres ásványvízforrásainak vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -55.328506,
+                        -34.456089
+                  ]
+            },
+            {
+                  "name": "Cerro del Águila",
+                  "text": "Magaslati pont, amelyet gyakran látogatnak a helyi ragadozó madarak, például sasok.",
+                  "category": "natural",
+                  "coords": [
+                        -55.318018,
+                        -34.41407
+                  ]
+            },
+            {
+                  "name": "Fuente del Puma",
+                  "text": "Híres forráskút egy bronz pumaszoborral, amely a helyi ásványvíz jelképévé vált.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.315411,
+                        -34.421943
+                  ]
+            },
+            {
+                  "name": "Cerro del Puma",
+                  "text": "A helyi pumákról elnevezett hegycsúcs a Salus természetvédelmi terület felett.",
+                  "category": "natural",
+                  "coords": [
+                        -55.322385,
+                        -34.42685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Alto",
+                  "text": "Un deal proeminent situat în interiorul rezervației naturale Salus, cunoscut pentru traseele sale.",
+                  "category": "natural",
+                  "coords": [
+                        -55.327857,
+                        -34.472197
+                  ]
+            },
+            {
+                  "name": "Cerro Blanco",
+                  "text": "Un vârf cunoscut pentru formațiunile sale de rocă deschisă la culoare din regiunea Salus.",
+                  "category": "natural",
+                  "coords": [
+                        -55.324691,
+                        -34.463891
+                  ]
+            },
+            {
+                  "name": "Cerro de Soria",
+                  "text": "Un deal pitoresc cu vedere spre zona celebrelor izvoare minerale din Lavalleja.",
+                  "category": "natural",
+                  "coords": [
+                        -55.328506,
+                        -34.456089
+                  ]
+            },
+            {
+                  "name": "Cerro del Águila",
+                  "text": "Un punct înalt frecventat adesea de păsările de pradă locale, precum vulturii.",
+                  "category": "natural",
+                  "coords": [
+                        -55.318018,
+                        -34.41407
+                  ]
+            },
+            {
+                  "name": "Fuente del Puma",
+                  "text": "O fântână celebră cu o statuie de pumă din bronz, simbolul mărcii locale de apă minerală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.315411,
+                        -34.421943
+                  ]
+            },
+            {
+                  "name": "Cerro del Puma",
+                  "text": "Un vârf numit după pumele native, situat deasupra rezervației naturale Salus.",
+                  "category": "natural",
+                  "coords": [
+                        -55.322385,
+                        -34.42685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Alto",
+                  "text": "A prominent hill located within the Salus natural reserve, known for its scenic hiking paths.",
+                  "category": "natural",
+                  "coords": [
+                        -55.327857,
+                        -34.472197
+                  ]
+            },
+            {
+                  "name": "Cerro Blanco",
+                  "text": "A mountain peak in the Salus region notable for its light-colored rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        -55.324691,
+                        -34.463891
+                  ]
+            },
+            {
+                  "name": "Cerro de Soria",
+                  "text": "A scenic hill offering views over the area of Lavalleja's famous mineral springs.",
+                  "category": "natural",
+                  "coords": [
+                        -55.328506,
+                        -34.456089
+                  ]
+            },
+            {
+                  "name": "Cerro del Águila",
+                  "text": "A high vantage point frequently visited by local birds of prey like eagles and hawks.",
+                  "category": "natural",
+                  "coords": [
+                        -55.318018,
+                        -34.41407
+                  ]
+            },
+            {
+                  "name": "Fuente del Puma",
+                  "text": "A famous natural spring fountain with a bronze puma statue, the icon of local mineral water.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.315411,
+                        -34.421943
+                  ]
+            },
+            {
+                  "name": "Cerro del Puma",
+                  "text": "A peak named after the native pumas, overlooking the Salus natural reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -55.322385,
+                        -34.42685
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UY-LA",
     coords: [-55.3333, -34.4],
@@ -373,7 +1507,232 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Terre du puma.", "Source de la célèbre eau Salus."],
     }, image: "/poi-images/reserva-natural-salus-life-v2.webp"},
   {
-    id: "parque-nacional-cabo-polonio-life-v2",
+    id: "parque-nacional-cabo-polonio-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro de la Buena Vista",
+                  "text": "Die höchste Sanddüne der Region bietet einen 360-Grad-Blick auf den Ozean und die Lagunen.",
+                  "category": "natural",
+                  "coords": [
+                        -53.772622,
+                        -34.353203
+                  ]
+            },
+            {
+                  "name": "Observatorio de ballenas",
+                  "text": "Ein erhöhter Beobachtungspunkt, um im Winter Südkaper-Wale vor der Küste zu sichten.",
+                  "category": "natural",
+                  "coords": [
+                        -53.771524,
+                        -34.345018
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación",
+                  "text": "Ein kleines Museum, das über das einzigartige Ökosystem und die Geschichte von Cabo Polonio informiert.",
+                  "category": "museum",
+                  "coords": [
+                        -53.843201,
+                        -34.382604
+                  ]
+            },
+            {
+                  "name": "La Calavera",
+                  "text": "Ein wilder Nordstrand mit schroffen Felsen, der für seine raue Schönheit und Einsamkeit bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.781876,
+                        -34.396498
+                  ]
+            },
+            {
+                  "name": "Playa Sur",
+                  "text": "Der weitläufige Südstrand des Dorfes ist ein beliebter Ort für Surfer und lange Strandspaziergänge.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.793239,
+                        -34.403364
+                  ]
+            },
+            {
+                  "name": "Plaza de artesanos",
+                  "text": "Ein zentraler Platz im Dorf, wo Kunsthandwerker handgemachte Wolle und Souvenirs anbieten.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.794474,
+                        -34.334695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro de la Buena Vista",
+                  "text": "A régió legmagasabb homokdűnéje 360 fokos kilátást nyújt az óceánra és a lagúnákra.",
+                  "category": "natural",
+                  "coords": [
+                        -53.772622,
+                        -34.353203
+                  ]
+            },
+            {
+                  "name": "Observatorio de ballenas",
+                  "text": "Megemelt figyelőpont, ahonnan télen déli simabálnákat lehet látni a partoknál.",
+                  "category": "natural",
+                  "coords": [
+                        -53.771524,
+                        -34.345018
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación",
+                  "text": "Egy kis múzeum, amely Cabo Polonio egyedülálló ökoszisztémájáról és történelméről tájékoztat.",
+                  "category": "museum",
+                  "coords": [
+                        -53.843201,
+                        -34.382604
+                  ]
+            },
+            {
+                  "name": "La Calavera",
+                  "text": "Vad északi strand sziklás parttal, amely nyers szépségéről és magányáról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.781876,
+                        -34.396498
+                  ]
+            },
+            {
+                  "name": "Playa Sur",
+                  "text": "A falu kiterjedt déli strandja a szörfösök és a hosszú tengerparti séták kedvelt helyszíne.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.793239,
+                        -34.403364
+                  ]
+            },
+            {
+                  "name": "Plaza de artesanos",
+                  "text": "A falu központi tere, ahol a kézművesek kézzel készült gyapjútermékeket és szuveníreket árulnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.794474,
+                        -34.334695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro de la Buena Vista",
+                  "text": "Cea mai înaltă dună de nisip din regiune oferă o vedere de 360 de grade asupra oceanului și lagunelor.",
+                  "category": "natural",
+                  "coords": [
+                        -53.772622,
+                        -34.353203
+                  ]
+            },
+            {
+                  "name": "Observatorio de ballenas",
+                  "text": "Un punct de observație ridicat pentru a vedea balenele sudice în largul coastei în timpul iernii.",
+                  "category": "natural",
+                  "coords": [
+                        -53.771524,
+                        -34.345018
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación",
+                  "text": "Un mic muzeu care oferă informații despre ecosistemul unic și istoria din Cabo Polonio.",
+                  "category": "museum",
+                  "coords": [
+                        -53.843201,
+                        -34.382604
+                  ]
+            },
+            {
+                  "name": "La Calavera",
+                  "text": "O plajă nordică sălbatică cu stânci abrupte, cunoscută pentru frumusețea sa brută și izolare.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.781876,
+                        -34.396498
+                  ]
+            },
+            {
+                  "name": "Playa Sur",
+                  "text": "Plaja sudică întinsă a satului este un loc popular pentru surferi și plimbări lungi pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.793239,
+                        -34.403364
+                  ]
+            },
+            {
+                  "name": "Plaza de artesanos",
+                  "text": "O piață centrală în sat, unde artizanii oferă produse din lână lucrate manual și suveniruri.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.794474,
+                        -34.334695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro de la Buena Vista",
+                  "text": "The region's highest sand dune offers a 360-degree view of the ocean and the lagoons.",
+                  "category": "natural",
+                  "coords": [
+                        -53.772622,
+                        -34.353203
+                  ]
+            },
+            {
+                  "name": "Observatorio de ballenas",
+                  "text": "An elevated observation point to spot Southern Right Whales off the coast during winter.",
+                  "category": "natural",
+                  "coords": [
+                        -53.771524,
+                        -34.345018
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación",
+                  "text": "A small museum providing information about the unique ecosystem and history of Cabo Polonio.",
+                  "category": "museum",
+                  "coords": [
+                        -53.843201,
+                        -34.382604
+                  ]
+            },
+            {
+                  "name": "La Calavera",
+                  "text": "A wild northern beach with rugged rocks, known for its raw beauty and solitude.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.781876,
+                        -34.396498
+                  ]
+            },
+            {
+                  "name": "Playa Sur",
+                  "text": "The village's extensive southern beach is a popular spot for surfers and long beach walks.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.793239,
+                        -34.403364
+                  ]
+            },
+            {
+                  "name": "Plaza de artesanos",
+                  "text": "A central square in the village where artisans offer handmade wool products and souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        -53.794474,
+                        -34.334695
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UY-RO",
     coords: [-53.7833, -34.4],
@@ -419,7 +1778,52 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Sans réseau électrique.", "Écosystème marin important."],
     }, image: "/poi-images/parque-nacional-cabo-polonio-life-v2.webp"},
   {
-    id: "isla-de-lobos-life-v2",
+    id: "isla-de-lobos-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de Isla de Lobos",
+                  "text": "Einer der höchsten Betonleuchttürme der Welt auf einer Insel, die eine riesige Seelöwenkolonie beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.88351,
+                        -35.024536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de Isla de Lobos",
+                  "text": "A világ egyik legmagasabb beton világítótornya egy szigeten, amely hatalmas oroszlánfóka-kolóniának ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.88351,
+                        -35.024536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de Isla de Lobos",
+                  "text": "Unul dintre cele mai înalte faruri de beton din lume, situat pe o insulă care găzduiește o uriașă colonie de lei de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.88351,
+                        -35.024536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de Isla de Lobos",
+                  "text": "One of the world's tallest concrete lighthouses, located on an island that hosts a massive sea lion colony.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.88351,
+                        -35.024536
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UY-MA",
     coords: [-54.8833, -35.0333],
@@ -465,7 +1869,88 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Plus de 200 000 phoques y vivent.", "Possède un phare."],
     }, image: "/poi-images/isla-de-lobos-life-v2.webp"},
   {
-    id: "esteros-de-farrapos-life-v2",
+    id: "esteros-de-farrapos-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Esteros de Farrapos e Islas del Río Uruguay",
+                  "text": "Ein seit 2008 geschütztes Feuchtgebiet am Uruguay-Fluss, das eine reiche Vielfalt an Wasservögeln beherbergt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.10129,
+                        -32.853962
+                  ]
+            },
+            {
+                  "name": "Esteros y Algarrobales del Río Uruguay",
+                  "text": "Ein 2015 gegründetes Reservat, das die charakteristischen Johannisbrotwälder am Ufer des Uruguay-Flusses schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -58.039746,
+                        -32.896304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Esteros de Farrapos e Islas del Río Uruguay",
+                  "text": "2008 óta védett vizes élőhely az Uruguay-folyónál, amely vízimadarak gazdag választékának ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        -58.10129,
+                        -32.853962
+                  ]
+            },
+            {
+                  "name": "Esteros y Algarrobales del Río Uruguay",
+                  "text": "2015-ben alapított rezervátum, amely az Uruguay-folyó partján található jellegzetes szentjánoskenyérfa-ligeteket védi.",
+                  "category": "natural",
+                  "coords": [
+                        -58.039746,
+                        -32.896304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Esteros de Farrapos e Islas del Río Uruguay",
+                  "text": "O zonă umedă protejată din 2008 pe râul Uruguay, care adăpostește o mare varietate de păsări de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -58.10129,
+                        -32.853962
+                  ]
+            },
+            {
+                  "name": "Esteros y Algarrobales del Río Uruguay",
+                  "text": "O rezervație înființată în 2015, care protejează pădurile de roșcove caracteristice de pe malul râului Uruguay.",
+                  "category": "natural",
+                  "coords": [
+                        -58.039746,
+                        -32.896304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Esteros de Farrapos e Islas del Río Uruguay",
+                  "text": "A wetland area on the Uruguay River protected since 2008, home to a rich variety of waterfowl.",
+                  "category": "natural",
+                  "coords": [
+                        -58.10129,
+                        -32.853962
+                  ]
+            },
+            {
+                  "name": "Esteros y Algarrobales del Río Uruguay",
+                  "text": "A reserve established in 2015, protecting characteristic carob forests along the banks of the Uruguay River.",
+                  "category": "natural",
+                  "coords": [
+                        -58.039746,
+                        -32.896304
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UY-RN",
     coords: [-58.0833, -32.8333],
@@ -559,7 +2044,664 @@ export const poiExtraUruguayLifeV2: POI[] = [
     
   },
   {
-    id: "tambo-lapataia-life-v2",
+    id: "tambo-lapataia-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arboleto Lussich",
+                  "text": "Eines der weltweit vielfältigsten Waldreservate mit Tausenden von exotischen und einheimischen Baumarten.",
+                  "category": "museum",
+                  "coords": [
+                        -55.035849,
+                        -34.884835
+                  ]
+            },
+            {
+                  "name": "Mirador La Glorieta",
+                  "text": "Ein kleiner Aussichtspunkt mit einem Pavillon inmitten des dichten Waldes des Arboretum Lussich.",
+                  "category": "natural",
+                  "coords": [
+                        -55.03523,
+                        -34.88135
+                  ]
+            },
+            {
+                  "name": "Mirador Isla Gorriti",
+                  "text": "Aussichtspunkt mit freiem Blick auf die mit Pinien bewachsene Isla Gorriti in der Bucht.",
+                  "category": "natural",
+                  "coords": [
+                        -55.033729,
+                        -34.878535
+                  ]
+            },
+            {
+                  "name": "Cachimba",
+                  "text": "Ein historischer natürlicher Quellbrunnen, der einst die Anwohner mit frischem Wasser versorgte.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.037329,
+                        -34.882295
+                  ]
+            },
+            {
+                  "name": "Cerro del Diario",
+                  "text": "Ein Hügel, der einen Panoramablick über die weiten Küstenlagunen von Maldonado bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.021104,
+                        -34.87345
+                  ]
+            },
+            {
+                  "name": "Lapataia",
+                  "text": "Ein ländlicher Themenpark und Bauernhof, der für seine traditionelle Herstellung von Dulce de Leche bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.01968,
+                        -34.851665
+                  ]
+            },
+            {
+                  "name": "Mirador Aconcagua",
+                  "text": "Ein hochgelegener Aussichtspunkt, benannt nach dem höchsten Berg der Anden.",
+                  "category": "natural",
+                  "coords": [
+                        -55.032082,
+                        -34.860831
+                  ]
+            },
+            {
+                  "name": "Ex - Mirador de Ballenas",
+                  "text": "Ein ehemaliger Beobachtungspunkt an der Küste zur Sichtung von Walen während ihrer Wanderung.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132864,
+                        -34.87799
+                  ]
+            },
+            {
+                  "name": "Arboretum Lussich",
+                  "text": "Ein weitläufiger Waldpark mit markierten Wanderwegen durch eine riesige Sammlung exotischer Bäume.",
+                  "category": "park",
+                  "coords": [
+                        -55.032576,
+                        -34.871479
+                  ]
+            },
+            {
+                  "name": "Portezuelo",
+                  "text": "Ein weiter Sandstrand, der besonders für sein ruhiges Wasser und spektakuläre Sonnenuntergänge geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.057357,
+                        -34.883583
+                  ]
+            },
+            {
+                  "name": "Playa Ocean Park",
+                  "text": "Ein ruhiger Küstenstreifen mit feinem Sand und weitläufigen Dünenlandschaften.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.110097,
+                        -34.878305
+                  ]
+            },
+            {
+                  "name": "Playa Chihuahua",
+                  "text": "Der bekannteste offizielle FKK-Strand Uruguays, gelegen an der Mündung des Arroyo El Potrero.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.090364,
+                        -34.877307
+                  ]
+            },
+            {
+                  "name": "Playa Sauce de Portezuelo",
+                  "text": "Ein entspannter Sandstrand, der ideal zum Schwimmen und für lange Spaziergänge am Ufer ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.142585,
+                        -34.879936
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine schlichte christliche Kapelle, die als religiöser Treffpunkt für die lokale Gemeinschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.126923,
+                        -34.849439
+                  ]
+            },
+            {
+                  "name": "Iglesia Salvemos La Familia",
+                  "text": "Eine christliche Kirche, die sich besonders der Unterstützung und Seelsorge für Familien widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.124178,
+                        -34.850209
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Ein lokales Gotteshaus der evangelischen Gemeinde für Gebete und soziale Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.136216,
+                        -34.858696
+                  ]
+            },
+            {
+                  "name": "Templo Afro-umbandista",
+                  "text": "Ein Tempel für die rituellen Praktiken der Umbanda, einer afro-brasilianischen Religion.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.125367,
+                        -34.856154
+                  ]
+            },
+            {
+                  "name": "Dios es Amor",
+                  "text": "Eine pfingstkirchliche Gebetsstätte der internationalen christlichen Vereinigung Dios es Amor.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.138304,
+                        -34.863531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arboleto Lussich",
+                  "text": "A világ egyik legváltozatosabb erdőrezervátuma több ezer egzotikus és őshonos fafajjal.",
+                  "category": "museum",
+                  "coords": [
+                        -55.035849,
+                        -34.884835
+                  ]
+            },
+            {
+                  "name": "Mirador La Glorieta",
+                  "text": "Kis kilátópont egy pavilonnal a Lussich Arborétum sűrű erdőjének közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -55.03523,
+                        -34.88135
+                  ]
+            },
+            {
+                  "name": "Mirador Isla Gorriti",
+                  "text": "Kilátóhely, ahonnan akadálytalan kilátás nyílik az öbölben fekvő, fenyőkkel borított Gorriti-szigetre.",
+                  "category": "natural",
+                  "coords": [
+                        -55.033729,
+                        -34.878535
+                  ]
+            },
+            {
+                  "name": "Cachimba",
+                  "text": "Történelmi természetes forráskút, amely egykor friss vízzel látta el a környéken lakókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.037329,
+                        -34.882295
+                  ]
+            },
+            {
+                  "name": "Cerro del Diario",
+                  "text": "Domb, ahonnan panorámás kilátás nyílik Maldonado tágas tengerparti lagúnáira.",
+                  "category": "natural",
+                  "coords": [
+                        -55.021104,
+                        -34.87345
+                  ]
+            },
+            {
+                  "name": "Lapataia",
+                  "text": "Vidéki élménypark és tejgazdaság, amely a hagyományos dulce de leche készítéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.01968,
+                        -34.851665
+                  ]
+            },
+            {
+                  "name": "Mirador Aconcagua",
+                  "text": "Magaslati kilátóhely, amelyet az Andok legmagasabb csúcsáról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -55.032082,
+                        -34.860831
+                  ]
+            },
+            {
+                  "name": "Ex - Mirador de Ballenas",
+                  "text": "Eredetileg bálnamegfigyelésre használt tengerparti pont a vonulási időszakban.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132864,
+                        -34.87799
+                  ]
+            },
+            {
+                  "name": "Arboretum Lussich",
+                  "text": "Kiterjedt erdőpark jelzett ösvényekkel, ahol egzotikus fák hatalmas gyűjteménye látható.",
+                  "category": "park",
+                  "coords": [
+                        -55.032576,
+                        -34.871479
+                  ]
+            },
+            {
+                  "name": "Portezuelo",
+                  "text": "Széles homokos strand, amelyet különösen nyugodt vize és látványos naplementéi miatt kedvelnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.057357,
+                        -34.883583
+                  ]
+            },
+            {
+                  "name": "Playa Ocean Park",
+                  "text": "Csendes tengerparti szakasz finom homokkal és kiterjedt dűnékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.110097,
+                        -34.878305
+                  ]
+            },
+            {
+                  "name": "Playa Chihuahua",
+                  "text": "Uruguay legismertebb hivatalos nudista strandja az Arroyo El Potrero torkolatánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.090364,
+                        -34.877307
+                  ]
+            },
+            {
+                  "name": "Playa Sauce de Portezuelo",
+                  "text": "Nyugodt homokos strand, amely ideális úszáshoz és hosszú parti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.142585,
+                        -34.879936
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egyszerű keresztény kápolna, amely a helyi közösség vallási találkozóhelyeként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.126923,
+                        -34.849439
+                  ]
+            },
+            {
+                  "name": "Iglesia Salvemos La Familia",
+                  "text": "Keresztény templom, amely kiemelten a családok támogatásával és lelki gondozásával foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.124178,
+                        -34.850209
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Az evangélikus gyülekezet helyi imaháza, közösségi események és imádságok helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.136216,
+                        -34.858696
+                  ]
+            },
+            {
+                  "name": "Templo Afro-umbandista",
+                  "text": "Az umbanda, egy afro-brazil vallás rituális szertartásainak helyszínéül szolgáló templom.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.125367,
+                        -34.856154
+                  ]
+            },
+            {
+                  "name": "Dios es Amor",
+                  "text": "A nemzetközi Dios es Amor keresztény szövetség pünkösdi imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.138304,
+                        -34.863531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arboleto Lussich",
+                  "text": "Una dintre cele mai diverse rezervații forestiere din lume, cu mii de specii de arbori exotici și nativi.",
+                  "category": "museum",
+                  "coords": [
+                        -55.035849,
+                        -34.884835
+                  ]
+            },
+            {
+                  "name": "Mirador La Glorieta",
+                  "text": "Un mic punct de observație cu un foișor în mijlocul pădurii dese din Arboretum Lussich.",
+                  "category": "natural",
+                  "coords": [
+                        -55.03523,
+                        -34.88135
+                  ]
+            },
+            {
+                  "name": "Mirador Isla Gorriti",
+                  "text": "Punct de belvedere cu vedere neobstrucționată spre Insula Gorriti, acoperită de pini, din golf.",
+                  "category": "natural",
+                  "coords": [
+                        -55.033729,
+                        -34.878535
+                  ]
+            },
+            {
+                  "name": "Cachimba",
+                  "text": "O fântână istorică cu izvor natural care furniza odinioară apă proaspătă locuitorilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.037329,
+                        -34.882295
+                  ]
+            },
+            {
+                  "name": "Cerro del Diario",
+                  "text": "Un deal ce oferă o vedere panoramică asupra lagunelor de coastă întinse din Maldonado.",
+                  "category": "natural",
+                  "coords": [
+                        -55.021104,
+                        -34.87345
+                  ]
+            },
+            {
+                  "name": "Lapataia",
+                  "text": "Un parc tematic rural și fermă, cunoscut pentru producția tradițională de dulce de leche.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.01968,
+                        -34.851665
+                  ]
+            },
+            {
+                  "name": "Mirador Aconcagua",
+                  "text": "Un punct de belvedere la mare înălțime, numit după cel mai înalt vârf din Anzi.",
+                  "category": "natural",
+                  "coords": [
+                        -55.032082,
+                        -34.860831
+                  ]
+            },
+            {
+                  "name": "Ex - Mirador de Ballenas",
+                  "text": "Un fost punct de observație de coastă folosit pentru reperarea balenelor în timpul migrației.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132864,
+                        -34.87799
+                  ]
+            },
+            {
+                  "name": "Arboretum Lussich",
+                  "text": "Un parc forestier vast cu trasee marcate printr-o colecție imensă de arbori exotici.",
+                  "category": "park",
+                  "coords": [
+                        -55.032576,
+                        -34.871479
+                  ]
+            },
+            {
+                  "name": "Portezuelo",
+                  "text": "O plajă largă de nisip, apreciată în special pentru apele sale liniștite și apusurile spectaculoase.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.057357,
+                        -34.883583
+                  ]
+            },
+            {
+                  "name": "Playa Ocean Park",
+                  "text": "O porțiune de coastă liniștită, cu nisip fin și peisaje extinse de dune.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.110097,
+                        -34.878305
+                  ]
+            },
+            {
+                  "name": "Playa Chihuahua",
+                  "text": "Cea mai faimoasă plajă oficială de nudiști din Uruguay, situată la gura de vărsare a pârâului El Potrero.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.090364,
+                        -34.877307
+                  ]
+            },
+            {
+                  "name": "Playa Sauce de Portezuelo",
+                  "text": "O plajă de nisip relaxantă, ideală pentru înot și plimbări lungi pe mal.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.142585,
+                        -34.879936
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O capelă creștină simplă care servește ca loc de întâlnire religioasă pentru comunitatea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.126923,
+                        -34.849439
+                  ]
+            },
+            {
+                  "name": "Iglesia Salvemos La Familia",
+                  "text": "O biserică creștină dedicată în special sprijinirii și consilierii familiilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.124178,
+                        -34.850209
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "Un lăcaș de cult local al comunității evanghelice pentru rugăciune și întâlniri sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.136216,
+                        -34.858696
+                  ]
+            },
+            {
+                  "name": "Templo Afro-umbandista",
+                  "text": "Un templu destinat practicilor rituale de Umbanda, o religie afro-braziliană.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.125367,
+                        -34.856154
+                  ]
+            },
+            {
+                  "name": "Dios es Amor",
+                  "text": "Un loc de rugăciune penticostal al asociației creștine internaționale Dios es Amor.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.138304,
+                        -34.863531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arboleto Lussich",
+                  "text": "One of the world's most diverse forest reserves, featuring thousands of exotic and native tree species.",
+                  "category": "museum",
+                  "coords": [
+                        -55.035849,
+                        -34.884835
+                  ]
+            },
+            {
+                  "name": "Mirador La Glorieta",
+                  "text": "A small lookout point with a gazebo in the middle of the dense Arboretum Lussich forest.",
+                  "category": "natural",
+                  "coords": [
+                        -55.03523,
+                        -34.88135
+                  ]
+            },
+            {
+                  "name": "Mirador Isla Gorriti",
+                  "text": "Viewpoint with clear views of the pine-covered Isla Gorriti located in the bay.",
+                  "category": "natural",
+                  "coords": [
+                        -55.033729,
+                        -34.878535
+                  ]
+            },
+            {
+                  "name": "Cachimba",
+                  "text": "A historical natural spring well that once provided fresh water to local residents.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.037329,
+                        -34.882295
+                  ]
+            },
+            {
+                  "name": "Cerro del Diario",
+                  "text": "A hill providing a panoramic view over the vast coastal lagoons of Maldonado.",
+                  "category": "natural",
+                  "coords": [
+                        -55.021104,
+                        -34.87345
+                  ]
+            },
+            {
+                  "name": "Lapataia",
+                  "text": "A rural theme park and dairy farm famous for its traditional production of dulce de leche.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.01968,
+                        -34.851665
+                  ]
+            },
+            {
+                  "name": "Mirador Aconcagua",
+                  "text": "A high-altitude lookout point named after the highest peak in the Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -55.032082,
+                        -34.860831
+                  ]
+            },
+            {
+                  "name": "Ex - Mirador de Ballenas",
+                  "text": "A former coastal observation point used for spotting whales during their migration.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.132864,
+                        -34.87799
+                  ]
+            },
+            {
+                  "name": "Arboretum Lussich",
+                  "text": "A sprawling forest park with marked trails through a vast collection of exotic trees.",
+                  "category": "park",
+                  "coords": [
+                        -55.032576,
+                        -34.871479
+                  ]
+            },
+            {
+                  "name": "Portezuelo",
+                  "text": "A wide sandy beach especially prized for its calm waters and spectacular sunsets.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.057357,
+                        -34.883583
+                  ]
+            },
+            {
+                  "name": "Playa Ocean Park",
+                  "text": "A quiet coastal stretch featuring fine sand and extensive dune landscapes.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.110097,
+                        -34.878305
+                  ]
+            },
+            {
+                  "name": "Playa Chihuahua",
+                  "text": "Uruguay's most famous official nudist beach, located at the mouth of the El Potrero stream.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.090364,
+                        -34.877307
+                  ]
+            },
+            {
+                  "name": "Playa Sauce de Portezuelo",
+                  "text": "A relaxed sandy beach ideal for swimming and long walks along the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.142585,
+                        -34.879936
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A simple Christian chapel serving as a religious meeting point for the local community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.126923,
+                        -34.849439
+                  ]
+            },
+            {
+                  "name": "Iglesia Salvemos La Familia",
+                  "text": "A Christian church dedicated to family support and ministry within the neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.124178,
+                        -34.850209
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangelica",
+                  "text": "A local place of worship for the Evangelical congregation's prayers and social gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.136216,
+                        -34.858696
+                  ]
+            },
+            {
+                  "name": "Templo Afro-umbandista",
+                  "text": "A temple for the ritual practices of Umbanda, an Afro-Brazilian religion.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.125367,
+                        -34.856154
+                  ]
+            },
+            {
+                  "name": "Dios es Amor",
+                  "text": "A Pentecostal place of worship belonging to the international Dios es Amor Christian church.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.138304,
+                        -34.863531
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "UY-MA",
     coords: [-55.05, -34.8667],
@@ -605,7 +2747,196 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Les enfants peuvent nourrir les animaux.", "Dégustations gratuites proposées."],
     }, image: "/poi-images/tambo-lapataia-life-v2.webp"},
   {
-    id: "granja-arenas-life-v2",
+    id: "granja-arenas-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Primer Templo Valdense de Sudamérica",
+                  "text": "Dieses historische Gebäude, das heute als Museum dient, wurde ursprünglich als allererster Waldensertempel in Südamerika erbaut.",
+                  "category": "museum",
+                  "coords": [
+                        -57.311373,
+                        -34.346214
+                  ]
+            },
+            {
+                  "name": "Paseo del puertito",
+                  "text": "Der Paseo del puertito ist eine charmante Uferpromenade, die Besucher zu einem malerischen Spaziergang entlang des kleinen Hafens einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.148205,
+                        -34.439176
+                  ]
+            },
+            {
+                  "name": "Club náutico y de pesca Boca de Cufré",
+                  "text": "Der Club náutico y de pesca Boca de Cufré ist ein lokaler Boots- und Angelverein am Wasser, der Wassersportaktivitäten fördert.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150787,
+                        -34.44634
+                  ]
+            },
+            {
+                  "name": "Blancarena",
+                  "text": "Blancarena ist ein ruhiger Küstenort, dessen Name perfekt seine weiten weißen Sandstrände widerspiegelt.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.30849,
+                        -34.439292
+                  ]
+            },
+            {
+                  "name": "Casona de La Paz",
+                  "text": "Die Casona de La Paz ist ein friedliches buddhistisches Rückzugszentrum, das in einem großen, traditionellen Anwesen untergebracht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.285329,
+                        -34.352101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Primer Templo Valdense de Sudamérica",
+                  "text": "A ma múzeumként működő történelmi épületet eredetileg Dél-Amerika legelső valdens templomaként építették.",
+                  "category": "museum",
+                  "coords": [
+                        -57.311373,
+                        -34.346214
+                  ]
+            },
+            {
+                  "name": "Paseo del puertito",
+                  "text": "A Paseo del puertito egy bájos vízparti sétány, amely festői sétára csábítja a látogatókat a kis kikötő mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.148205,
+                        -34.439176
+                  ]
+            },
+            {
+                  "name": "Club náutico y de pesca Boca de Cufré",
+                  "text": "A Club náutico y de pesca Boca de Cufré egy helyi csónakázó- és horgászklub a vízparton, amely támogatja a vízi kikapcsolódást.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150787,
+                        -34.44634
+                  ]
+            },
+            {
+                  "name": "Blancarena",
+                  "text": "A Blancarena egy nyugodt tengerparti hely, amelynek neve tökéletesen tükrözi a kiterjedt fehér homokos partszakaszokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.30849,
+                        -34.439292
+                  ]
+            },
+            {
+                  "name": "Casona de La Paz",
+                  "text": "A Casona de La Paz egy békés buddhista elvonulási központ, amely egy nagy, hagyományos építészeti birtokon található.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.285329,
+                        -34.352101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Primer Templo Valdense de Sudamérica",
+                  "text": "Servind astăzi ca muzeu, această structură istorică a fost construită inițial ca primul templu valdez din America de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        -57.311373,
+                        -34.346214
+                  ]
+            },
+            {
+                  "name": "Paseo del puertito",
+                  "text": "Paseo del puertito este o promenadă fermecătoare pe malul apei, care invită vizitatorii la o plimbare pitorească de-a lungul micului port.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.148205,
+                        -34.439176
+                  ]
+            },
+            {
+                  "name": "Club náutico y de pesca Boca de Cufré",
+                  "text": "Club náutico y de pesca Boca de Cufré este un club local de navigație și pescuit situat aproape de apă pentru a susține recreerea acvatică.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150787,
+                        -34.44634
+                  ]
+            },
+            {
+                  "name": "Blancarena",
+                  "text": "Blancarena este un loc de coastă liniștit al cărui nume reflectă perfect întinderile sale vaste de nisip alb.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.30849,
+                        -34.439292
+                  ]
+            },
+            {
+                  "name": "Casona de La Paz",
+                  "text": "Casona de La Paz este un centru de retragere budist pașnic găzduit într-o proprietate arhitecturală mare, tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.285329,
+                        -34.352101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Primer Templo Valdense de Sudamérica",
+                  "text": "Serving as a museum today, this historic structure was originally built as the very first Waldensian temple in South America.",
+                  "category": "museum",
+                  "coords": [
+                        -57.311373,
+                        -34.346214
+                  ]
+            },
+            {
+                  "name": "Paseo del puertito",
+                  "text": "Paseo del puertito is a charming waterfront promenade that invites visitors for a scenic walk along the small harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.148205,
+                        -34.439176
+                  ]
+            },
+            {
+                  "name": "Club náutico y de pesca Boca de Cufré",
+                  "text": "Club náutico y de pesca Boca de Cufré is a local boating and fishing club positioned near the water to support aquatic recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.150787,
+                        -34.44634
+                  ]
+            },
+            {
+                  "name": "Blancarena",
+                  "text": "Blancarena is a serene coastal spot whose name perfectly reflects its sweeping stretches of white sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.30849,
+                        -34.439292
+                  ]
+            },
+            {
+                  "name": "Casona de La Paz",
+                  "text": "Casona de La Paz is a peaceful Buddhist retreat center housed within a grand, traditional architectural estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.285329,
+                        -34.352101
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UY-CO",
     coords: [-57.25, -34.4167],
@@ -651,7 +2982,52 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Détient un record Guinness pour les crayons.", "Transforme des fruits locaux."],
     }, image: "/poi-images/granja-arenas-life-v2.webp"},
   {
-    id: "karumbe-tortugas-life-v2",
+    id: "karumbe-tortugas-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro de la Palma",
+                  "text": "Ein markanter Granitfelsen, der eine weite Aussicht über die umliegenden Palmenhaine bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -53.961994,
+                        -34.0339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro de la Palma",
+                  "text": "Jellegzetes gránitszikla, amely tágas kilátást nyújt a környező pálmaligetekre.",
+                  "category": "natural",
+                  "coords": [
+                        -53.961994,
+                        -34.0339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro de la Palma",
+                  "text": "O stâncă de granit proeminentă care oferă o vedere largă asupra livezilor de palmieri din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -53.961994,
+                        -34.0339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro de la Palma",
+                  "text": "A prominent granite rock offering a wide view over the surrounding palm groves.",
+                  "category": "natural",
+                  "coords": [
+                        -53.961994,
+                        -34.0339
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UY-RO",
     coords: [-53.8833, -34.0],
@@ -789,7 +3165,52 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Réserve de biosphère de l'UNESCO.", "Comprend des palmeraies."],
     }, image: "/poi-images/banados-del-este-life-v2.webp"},
   {
-    id: "bodega-bouza-life-v2",
+    id: "bodega-bouza-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Unidad Agroalimentaria Metropolitana (UAM)",
+                  "text": "Ein modernes Großhandelszentrum für frische Agrarprodukte in Montevideo, das als zentraler Logistikknoten für Lebensmittel dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.264447,
+                        -34.817787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Unidad Agroalimentaria Metropolitana (UAM)",
+                  "text": "Montevideo modern nagybani piaca, amely a friss mezőgazdasági termékek és élelmiszerek központi logisztikai csomópontja.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.264447,
+                        -34.817787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Unidad Agroalimentaria Metropolitana (UAM)",
+                  "text": "Un centru logistic modern de vânzare cu ridicata în Montevideo, dedicat distribuției de produse agricole și alimentare proaspete.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.264447,
+                        -34.817787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Metropolitan Agri-Food Unit (MAU, UAM)",
+                  "text": "A modern wholesale logistics hub in Montevideo dedicated to the distribution of fresh agricultural products and food.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.264447,
+                        -34.817787
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UY-MO",
     coords: [-56.2833, -34.7833],
@@ -835,7 +3256,52 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Propose des visites guidées des vignobles.", "Intègre une collection de voitures."],
     }, image: "/poi-images/bodega-bouza-life-v2.webp"},
   {
-    id: "quebrada-de-los-cuervos-life-v2",
+    id: "quebrada-de-los-cuervos-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quebrada de los cuervos",
+                  "text": "Dieses Naturschutzgebiet beherbergt eine tiefe Schlucht des Yerbal Grande Baches und ist ein wichtiger Lebensraum für Rabengeier.",
+                  "category": "natural",
+                  "coords": [
+                        -54.455146,
+                        -32.91768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quebrada de los cuervos",
+                  "text": "Ez a természetvédelmi terület a Yerbal Grande patak mély szurdokának ad otthont, és a hollókeselyűk fontos élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        -54.455146,
+                        -32.91768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quebrada de los cuervos",
+                  "text": "Această rezervație naturală găzduiește un defileu adânc format de pârâul Yerbal Grande și este un habitat important pentru vulturii negri.",
+                  "category": "natural",
+                  "coords": [
+                        -54.455146,
+                        -32.91768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quebrada de los cuervos",
+                  "text": "This nature reserve houses a deep gorge carved by the Yerbal Grande stream and is a key habitat for black vultures.",
+                  "category": "natural",
+                  "coords": [
+                        -54.455146,
+                        -32.91768
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UY-TT",
     coords: [-54.4667, -32.9167],
@@ -881,7 +3347,196 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Son nom signifie 'Gorge des corbeaux'.", "Première zone protégée officielle de l'Uruguay."],
     }, image: "/poi-images/quebrada-de-los-cuervos-life-v2.webp"},
   {
-    id: "valle-del-lunarejo-life-v2",
+    id: "valle-del-lunarejo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sendero Balcones",
+                  "text": "Ein Naturpfad im Valle del Lunarejo, der zu Aussichtspunkten aus Holz mit Panoramablick auf den Canyon und den einheimischen Wald führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.930417,
+                        -31.108014
+                  ]
+            },
+            {
+                  "name": "Sendero Puntas del Lunarejo",
+                  "text": "Dieser Wanderweg führt durch die geschützten Schluchten und einheimischen Wälder des Lunarejo-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.003913,
+                        -31.190804
+                  ]
+            },
+            {
+                  "name": "Sendero El Gavilán",
+                  "text": "Ein Naturpfad, der Ausblicke auf die zerklüftete Landschaft und Möglichkeiten zur Vogelbeobachtung im Tal bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.918426,
+                        -31.144068
+                  ]
+            },
+            {
+                  "name": "Sendero Paredones",
+                  "text": "Ein Pfad, der durch die beeindruckenden Felswände geprägt ist, die die Topographie des Tals bestimmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.92439,
+                        -31.114221
+                  ]
+            },
+            {
+                  "name": "Sendero del Indio",
+                  "text": "Ein Waldpfad, der zu natürlichen Pools und Wasserfällen im subtropischen Wald des Reservats führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.918773,
+                        -31.127668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sendero Balcones",
+                  "text": "Tanösvény a Valle del Lunarejo területén, amely a kanyonra és az őshonos erdőre néző fateraszokhoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.930417,
+                        -31.108014
+                  ]
+            },
+            {
+                  "name": "Sendero Puntas del Lunarejo",
+                  "text": "Ez a túraútvonal a Lunarejo-völgy védett szurdokain és őshonos erdőin vezet keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.003913,
+                        -31.190804
+                  ]
+            },
+            {
+                  "name": "Sendero El Gavilán",
+                  "text": "Természeti ösvény, amely kilátást nyújt a völgy sziklás tájaira és lehetőséget ad a madármegfigyelésre.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.918426,
+                        -31.144068
+                  ]
+            },
+            {
+                  "name": "Sendero Paredones",
+                  "text": "Az ösvényt a lenyűgöző sziklafalak jellemzik, amelyek meghatározzák a völgy domborzatát.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.92439,
+                        -31.114221
+                  ]
+            },
+            {
+                  "name": "Sendero del Indio",
+                  "text": "Erdei ösvény, amely természetes medencékhez és vízesésekhez vezet a rezervátum szubtrópusi erdejében.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.918773,
+                        -31.127668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sendero Balcones",
+                  "text": "O potecă naturală în Valle del Lunarejo care duce la puncte de observare din lemn cu panorame asupra canionului și pădurii native.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.930417,
+                        -31.108014
+                  ]
+            },
+            {
+                  "name": "Sendero Puntas del Lunarejo",
+                  "text": "Acest traseu de drumeție trece prin cheile protejate și pădurile native din valea Lunarejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.003913,
+                        -31.190804
+                  ]
+            },
+            {
+                  "name": "Sendero El Gavilán",
+                  "text": "Un traseu natural care oferă vederi asupra peisajului accidentat și oportunități de observare a păsărilor în vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.918426,
+                        -31.144068
+                  ]
+            },
+            {
+                  "name": "Sendero Paredones",
+                  "text": "Potecă caracterizată prin pereții stâncoși impresionanți care definesc topografia văii.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.92439,
+                        -31.114221
+                  ]
+            },
+            {
+                  "name": "Sendero del Indio",
+                  "text": "O potecă de pădure care duce la bazine naturale și cascade în pădurea subtropicală a rezervației.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.918773,
+                        -31.127668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sendero Balcones",
+                  "text": "A nature trail in the Valle del Lunarejo leading to wooden viewpoints with panoramas of the canyon and native forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.930417,
+                        -31.108014
+                  ]
+            },
+            {
+                  "name": "Sendero Puntas del Lunarejo",
+                  "text": "This scenic hiking trail leads through the protected ravines and native forests of the Lunarejo Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.003913,
+                        -31.190804
+                  ]
+            },
+            {
+                  "name": "Sendero El Gavilán",
+                  "text": "A nature trail offering views of the rugged landscape and birdwatching opportunities in the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.918426,
+                        -31.144068
+                  ]
+            },
+            {
+                  "name": "Sendero Paredones",
+                  "text": "This trail is characterized by the impressive rocky cliffs that define the valley's topography.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.92439,
+                        -31.114221
+                  ]
+            },
+            {
+                  "name": "Sendero del Indio",
+                  "text": "A woodland trail leading to natural pools and waterfalls within the subtropical forest of the reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.918773,
+                        -31.127668
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "UY-RV",
     coords: [-55.9333, -31.1833],
@@ -973,7 +3628,340 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["S'étend sur plus de 20 000 hectares.", "Prisé pour les randonnées en canoë sur la rivière."],
     }, image: "/poi-images/montes-del-queguay-life-v2.webp"},
   {
-    id: "parque-ute-antel-life-v2",
+    id: "parque-ute-antel-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "Ein Gipfel im UTE-Antel-Park, der durch seinen dunklen, mineralreichen Boden gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.230159,
+                        -34.444676
+                  ]
+            },
+            {
+                  "name": "Cerro Esmeril",
+                  "text": "Ein Berggipfel in Lavalleja, der für seine anspruchsvollen Wanderwege und seine Aussicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.222682,
+                        -34.421337
+                  ]
+            },
+            {
+                  "name": "Catedral Inmaculada Concepción",
+                  "text": "Die Hauptkathedrale von Minas mit einer imposanten neoklassizistischen Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        -55.23681,
+                        -34.378505
+                  ]
+            },
+            {
+                  "name": "Museo de la ciudad",
+                  "text": "Ein stadtgeschichtliches Museum, das die Entwicklung von Minas von der Gründung bis heute zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -55.237946,
+                        -34.378969
+                  ]
+            },
+            {
+                  "name": "Molino viejo",
+                  "text": "Eine historische alte Mühle, die das industrielle Erbe und die Landwirtschaft der Region veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        -55.245092,
+                        -34.377617
+                  ]
+            },
+            {
+                  "name": "Cerro Artigas",
+                  "text": "Ein Hügel mit dem weltweit größten Reiterstandbild, das dem Nationalhelden José Artigas gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.216431,
+                        -34.375088
+                  ]
+            },
+            {
+                  "name": "Mina de Oro",
+                  "text": "Eine ehemalige Goldmine, die heute bei geführten Touren Einblicke in historische Abbaumethoden bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.185282,
+                        -34.380118
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "Eine kunstvoll gestaltete Sonnenuhr in einem öffentlichen Park, die die Zeit anhand des Sonnenstandes anzeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.191108,
+                        -34.425788
+                  ]
+            },
+            {
+                  "name": "Cerro de Cuarcita",
+                  "text": "Ein Hügel, der durch seine markanten und seltenen Quarzitgesteinsformationen geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.192216,
+                        -34.453795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "Hegycsúcs az UTE-Antel parkban, amelyet sötét, ásványokban gazdag talaj jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -55.230159,
+                        -34.444676
+                  ]
+            },
+            {
+                  "name": "Cerro Esmeril",
+                  "text": "Hegycsúcs Lavalleja megyében, amely kihívást jelentő túraútvonalairól és kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.222682,
+                        -34.421337
+                  ]
+            },
+            {
+                  "name": "Catedral Inmaculada Concepción",
+                  "text": "Minas főszékesegyháza, amely lenyűgöző neoklasszicista homlokzatával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        -55.23681,
+                        -34.378505
+                  ]
+            },
+            {
+                  "name": "Museo de la ciudad",
+                  "text": "Helytörténeti múzeum, amely Minas fejlődését mutatja be az alapítástól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        -55.237946,
+                        -34.378969
+                  ]
+            },
+            {
+                  "name": "Molino viejo",
+                  "text": "Egy történelmi régi malom, amely a régió ipari örökségét és mezőgazdaságát reprezentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -55.245092,
+                        -34.377617
+                  ]
+            },
+            {
+                  "name": "Cerro Artigas",
+                  "text": "Hegy, ahol a világ legnagyobb lovas szobra áll, amelyet José Artigas nemzeti hősnek szenteltek.",
+                  "category": "natural",
+                  "coords": [
+                        -55.216431,
+                        -34.375088
+                  ]
+            },
+            {
+                  "name": "Mina de Oro",
+                  "text": "Egykori aranybánya, amely ma vezetett túrákon mutatja be a régi bányászati módszereket.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.185282,
+                        -34.380118
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "Egy díszes napóra egy nyilvános parkban, amely a nap állása alapján mutatja az időt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.191108,
+                        -34.425788
+                  ]
+            },
+            {
+                  "name": "Cerro de Cuarcita",
+                  "text": "Domb, amelyet jellegzetes és ritka kvarcit kőzetkibúvások határoznak meg.",
+                  "category": "natural",
+                  "coords": [
+                        -55.192216,
+                        -34.453795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "Un vârf din parcul UTE-Antel, caracterizat prin solul său închis la culoare și bogat în minerale.",
+                  "category": "natural",
+                  "coords": [
+                        -55.230159,
+                        -34.444676
+                  ]
+            },
+            {
+                  "name": "Cerro Esmeril",
+                  "text": "Un vârf din departamentul Lavalleja, cunoscut pentru potecile de drumeție provocatoare și priveliște.",
+                  "category": "natural",
+                  "coords": [
+                        -55.222682,
+                        -34.421337
+                  ]
+            },
+            {
+                  "name": "Catedral Inmaculada Concepción",
+                  "text": "Catedrala principală din Minas, având o fațadă neoclasică impunătoare și sobră.",
+                  "category": "religious",
+                  "coords": [
+                        -55.23681,
+                        -34.378505
+                  ]
+            },
+            {
+                  "name": "Museo de la ciudad",
+                  "text": "Un muzeu de istorie locală ce prezintă evoluția orașului Minas de la întemeiere până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        -55.237946,
+                        -34.378969
+                  ]
+            },
+            {
+                  "name": "Molino viejo",
+                  "text": "O moară veche istorică ce exemplifică patrimoniul industrial și agricol al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -55.245092,
+                        -34.377617
+                  ]
+            },
+            {
+                  "name": "Cerro Artigas",
+                  "text": "Un deal unde se află cea mai mare statuie ecvestră din lume, dedicată eroului José Artigas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.216431,
+                        -34.375088
+                  ]
+            },
+            {
+                  "name": "Mina de Oro",
+                  "text": "O fostă mină de aur care oferă astăzi tururi ghidate despre metodele istorice de extracție.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.185282,
+                        -34.380118
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "Un ceas solar decorativ într-un parc public, care indică ora folosind umbra soarelui.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.191108,
+                        -34.425788
+                  ]
+            },
+            {
+                  "name": "Cerro de Cuarcita",
+                  "text": "Un deal caracterizat prin aflorimentele sale distinctive și rare de rocă de cuarțit.",
+                  "category": "natural",
+                  "coords": [
+                        -55.192216,
+                        -34.453795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Negro",
+                  "text": "A peak in the UTE-Antel park characterized by its dark, mineral-rich soil.",
+                  "category": "natural",
+                  "coords": [
+                        -55.230159,
+                        -34.444676
+                  ]
+            },
+            {
+                  "name": "Cerro Esmeril",
+                  "text": "A mountain peak in Lavalleja known for its challenging hiking trails and scenic vistas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.222682,
+                        -34.421337
+                  ]
+            },
+            {
+                  "name": "Catedral Inmaculada Concepción",
+                  "text": "The main cathedral of Minas, featuring an impressive and stately neoclassical facade.",
+                  "category": "religious",
+                  "coords": [
+                        -55.23681,
+                        -34.378505
+                  ]
+            },
+            {
+                  "name": "Museo de la ciudad",
+                  "text": "A city history museum showcasing the development of Minas from its founding to today.",
+                  "category": "museum",
+                  "coords": [
+                        -55.237946,
+                        -34.378969
+                  ]
+            },
+            {
+                  "name": "Molino viejo",
+                  "text": "A historic old mill illustrating the industrial and agricultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -55.245092,
+                        -34.377617
+                  ]
+            },
+            {
+                  "name": "Cerro Artigas",
+                  "text": "A hill featuring the world's largest equestrian statue, dedicated to national hero José Artigas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.216431,
+                        -34.375088
+                  ]
+            },
+            {
+                  "name": "Mina de Oro",
+                  "text": "A former gold mine that now offers guided tours showcasing historic extraction methods.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.185282,
+                        -34.380118
+                  ]
+            },
+            {
+                  "name": "Sunny clock",
+                  "text": "An ornamental sundial in a public park that tells time using the position of the sun.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.191108,
+                        -34.425788
+                  ]
+            },
+            {
+                  "name": "Cerro de Cuarcita",
+                  "text": "A hill characterized by its distinctive and rare quartzite rock outcrops.",
+                  "category": "natural",
+                  "coords": [
+                        -55.192216,
+                        -34.453795
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "UY-LA",
     coords: [-55.2333, -34.3833],
@@ -1019,7 +4007,52 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Propose des randonnées à cheval.", "Fondé pour les employés de l'État."],
     }, image: "/poi-images/parque-ute-antel-life-v2.webp"},
   {
-    id: "museo-del-mar-life-v2",
+    id: "museo-del-mar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Mar",
+                  "text": "Umfangreiches Schifffahrtsmuseum mit über 5.000 Muscheln und Walskeletten.",
+                  "category": "museum",
+                  "coords": [
+                        -54.870344,
+                        -34.898985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Mar",
+                  "text": "Kiterjedt tengeri múzeum, amely több mint 5000 kagylót és bálnacsontvázakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -54.870344,
+                        -34.898985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Mar",
+                  "text": "Un muzeu maritim vast care expune peste 5.000 de scoici și schelete de balenă.",
+                  "category": "museum",
+                  "coords": [
+                        -54.870344,
+                        -34.898985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sea Museum",
+                  "text": "An extensive maritime museum showcasing over 5,000 shells and whale skeletons.",
+                  "category": "museum",
+                  "coords": [
+                        -54.870344,
+                        -34.898985
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "UY-MA",
     coords: [-54.8833, -34.9],
@@ -1203,7 +4236,304 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Fondée en 1854.", "Offre une expérience gaucho traditionnelle."],
     }, image: "/poi-images/san-pedro-de-timote-life-v2.webp"},
   {
-    id: "chacra-la-anyta-life-v2",
+    id: "chacra-la-anyta-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Molino Lavagna",
+                  "text": "Historische Ruinen einer Getreidemühle aus dem 19. Jahrhundert, die malerisch am Ufer des Arroyo San Carlos liegen.",
+                  "category": "historical",
+                  "coords": [
+                        -54.935442,
+                        -34.791843
+                  ]
+            },
+            {
+                  "name": "Zoologico Parque Medina",
+                  "text": "Ein städtischer Zoo in San Carlos, der einheimische uruguayische Tierarten in einer natürlichen Parkanlage zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.899639,
+                        -34.793761
+                  ]
+            },
+            {
+                  "name": "Teatro de Verano Cayetano Silva",
+                  "text": "Dieses Freilufttheater ist ein zentraler Ort für Karnevalsaufführungen und kulturelle Veranstaltungen in San Carlos.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.907072,
+                        -34.79228
+                  ]
+            },
+            {
+                  "name": "Plaza General Artigas",
+                  "text": "Der Hauptplatz der Stadt, geprägt durch ein Denkmal für General Artigas und gesäumt von schattigen Bäumen.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.912465,
+                        -34.792409
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Carlos",
+                  "text": "Die 1801 fertiggestellte Kirche ist das älteste koloniale Gotteshaus Uruguays, das heute noch aktiv genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -54.913443,
+                        -34.79237
+                  ]
+            },
+            {
+                  "name": "Iglesia por la fé",
+                  "text": "Eine schlichte christliche Kapelle, die als Ort der Andacht für die Bewohner des örtlichen Viertels dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.920618,
+                        -34.795531
+                  ]
+            },
+            {
+                  "name": "Iglesia Plaza de la Cuchilla",
+                  "text": "Diese Kirche befindet sich direkt an der Plaza de la Cuchilla und dient der Gemeinde im oberen Teil von San Carlos.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.920115,
+                        -34.791444
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Eine kleine christliche Kapelle in San Carlos, die für private Gebete und lokale Gottesdienste genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.01625,
+                        -34.818043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Molino Lavagna",
+                  "text": "Egy 19. századi gőzmalom történelmi romjai, amelyek festői környezetben, az Arroyo San Carlos partján állnak.",
+                  "category": "historical",
+                  "coords": [
+                        -54.935442,
+                        -34.791843
+                  ]
+            },
+            {
+                  "name": "Zoologico Parque Medina",
+                  "text": "San Carlos városi állatkertje, ahol őshonos uruguayi állatfajokat láthatunk egy természetes parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.899639,
+                        -34.793761
+                  ]
+            },
+            {
+                  "name": "Teatro de Verano Cayetano Silva",
+                  "text": "Ez a szabadtéri színház a karneváli előadások és kulturális események központi helyszíne San Carlosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.907072,
+                        -34.79228
+                  ]
+            },
+            {
+                  "name": "Plaza General Artigas",
+                  "text": "A város főtere, amelyet Artigas generális emlékműve díszít és árnyas fák szegélyeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.912465,
+                        -34.792409
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Carlos",
+                  "text": "Az 1801-ben befejezett templom Uruguay legrégebbi, ma is aktívan használt gyarmati kori istenháza.",
+                  "category": "religious",
+                  "coords": [
+                        -54.913443,
+                        -34.79237
+                  ]
+            },
+            {
+                  "name": "Iglesia por la fé",
+                  "text": "Egyszerű keresztény kápolna, amely a helyi negyed lakói számára szolgál az imádság helyszínéül.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.920618,
+                        -34.795531
+                  ]
+            },
+            {
+                  "name": "Iglesia Plaza de la Cuchilla",
+                  "text": "Ez a templom közvetlenül a Plaza de la Cuchilla mellett található, és San Carlos felső városrészének hívőit szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.920115,
+                        -34.791444
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "Egy kis keresztény kápolna San Carlosban, amelyet magánimádságokra és helyi szertartásokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.01625,
+                        -34.818043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Molino Lavagna",
+                  "text": "Ruinele istorice ale unei mori de făină din secolul al XIX-lea, situate pitoresc pe malul pârâului San Carlos.",
+                  "category": "historical",
+                  "coords": [
+                        -54.935442,
+                        -34.791843
+                  ]
+            },
+            {
+                  "name": "Zoologico Parque Medina",
+                  "text": "O grădină zoologică municipală din San Carlos care prezintă specii de animale native din Uruguay într-un parc natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.899639,
+                        -34.793761
+                  ]
+            },
+            {
+                  "name": "Teatro de Verano Cayetano Silva",
+                  "text": "Acest teatru în aer liber este un loc central pentru spectacolele de carnaval și evenimentele culturale din San Carlos.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.907072,
+                        -34.79228
+                  ]
+            },
+            {
+                  "name": "Plaza General Artigas",
+                  "text": "Piața principală a orașului, marcată de un monument dedicat generalului Artigas și mărginită de copaci umbroși.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.912465,
+                        -34.792409
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Carlos",
+                  "text": "Finalizată în 1801, aceasta este cea mai veche biserică din epoca colonială din Uruguay încă în uz activ.",
+                  "category": "religious",
+                  "coords": [
+                        -54.913443,
+                        -34.79237
+                  ]
+            },
+            {
+                  "name": "Iglesia por la fé",
+                  "text": "O capelă creștină simplă care servește ca loc de închinare pentru locuitorii cartierului local.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.920618,
+                        -34.795531
+                  ]
+            },
+            {
+                  "name": "Iglesia Plaza de la Cuchilla",
+                  "text": "Această biserică se află chiar lângă Plaza de la Cuchilla și deservește comunitatea din partea de sus a orașului San Carlos.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.920115,
+                        -34.791444
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "O mică capelă creștină din San Carlos, utilizată pentru rugăciune privată și slujbe locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.01625,
+                        -34.818043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Molino Lavagna",
+                  "text": "Historic ruins of a 19th-century flour mill, scenically located on the banks of the Arroyo San Carlos.",
+                  "category": "historical",
+                  "coords": [
+                        -54.935442,
+                        -34.791843
+                  ]
+            },
+            {
+                  "name": "Zoologico Parque Medina",
+                  "text": "A municipal zoo in San Carlos featuring native Uruguayan animal species in a natural park setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.899639,
+                        -34.793761
+                  ]
+            },
+            {
+                  "name": "Teatro de Verano Cayetano Silva",
+                  "text": "This open-air theatre is a central venue for carnival performances and cultural events in San Carlos.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.907072,
+                        -34.79228
+                  ]
+            },
+            {
+                  "name": "Plaza General Artigas",
+                  "text": "The town's main square, marked by a monument to General Artigas and lined with shady trees.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.912465,
+                        -34.792409
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Carlos",
+                  "text": "Completed in 1801, this is the oldest colonial-era church in Uruguay still in active use.",
+                  "category": "religious",
+                  "coords": [
+                        -54.913443,
+                        -34.79237
+                  ]
+            },
+            {
+                  "name": "Iglesia por la fé",
+                  "text": "A simple Christian chapel serving as a place of worship for the residents of the local neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.920618,
+                        -34.795531
+                  ]
+            },
+            {
+                  "name": "Iglesia Plaza de la Cuchilla",
+                  "text": "This church is located right by the Plaza de la Cuchilla and serves the community in the upper part of San Carlos.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.920115,
+                        -34.791444
+                  ]
+            },
+            {
+                  "name": "Capilla",
+                  "text": "A small Christian chapel in San Carlos used for private prayer and local services.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.01625,
+                        -34.818043
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "UY-MA",
     coords: [-55.0, -34.8167],
@@ -1295,7 +4625,232 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Plus de 4 000 hectares de terres.", "Possède ses propres éoliennes."],
     }, image: "/poi-images/agroland-life-v2.webp"},
   {
-    id: "museo-oceanografico-life-v2",
+    id: "museo-oceanografico-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro y San Oscar Arnulfo Romero",
+                  "text": "Diese Pfarrei ist dem heiligen Oscar Romero gewidmet und zeichnet sich durch ihre moderne, offene Architektur in Montevideo aus.",
+                  "category": "religious",
+                  "coords": [
+                        -56.097888,
+                        -34.872013
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiána Evangélica",
+                  "text": "Eine christliche evangelische Kirche in Montevideo, die regelmäßige Gottesdienste und soziale Projekte im Viertel Malvín anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.132482,
+                        -34.885047
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Elena",
+                  "text": "Die Pfarrei Santa Elena ist ein wichtiges religiöses Zentrum im Küstenviertel von Montevideo mit einer markanten Glockenturm-Silhouette.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.12202,
+                        -34.896149
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen y San Cayetano",
+                  "text": "Diese Kirche ist den Heiligen Carmen und Cayetano gewidmet und dient als geistlicher Ankerpunkt im Viertel La Aguada.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.135027,
+                        -34.883163
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Ein großes Versammlungshaus der Mormonen in Montevideo, das über Einrichtungen für Gemeinschaftsaktivitäten und Jugendprogramme verfügt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.114231,
+                        -34.889271
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista del Camino",
+                  "text": "Die Methodistische Kirche des Weges ist bekannt für ihre engagierte Sozialarbeit und ihre integrative christliche Lehre in Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.109227,
+                        -34.887973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro y San Oscar Arnulfo Romero",
+                  "text": "Ez a plébánia Szent Oscar Romerónak van szentelve, és modern, nyitott építészetével tűnik ki Montevideóban.",
+                  "category": "religious",
+                  "coords": [
+                        -56.097888,
+                        -34.872013
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiána Evangélica",
+                  "text": "Keresztény evangéliumi templom Montevideóban, amely rendszeres istentiszteleteket és szociális projekteket kínál a Malvín negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.132482,
+                        -34.885047
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Elena",
+                  "text": "A Santa Elena-plébánia Montevideo tengerparti negyedének fontos vallási központja, jellegzetes harangtorony-sziluettel.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.12202,
+                        -34.896149
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen y San Cayetano",
+                  "text": "Ez a templom Kármelhegyi Boldogasszonynak és Szent Kajetánnak van szentelve, és a La Aguada negyed lelki tartópillére.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.135027,
+                        -34.883163
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának nagy gyülekezeti háza Montevideóban, közösségi és ifjúsági programoknak is otthont ad.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.114231,
+                        -34.889271
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista del Camino",
+                  "text": "Az Út Metodista Egyháza elkötelezett szociális munkájáról és befogadó keresztény tanításairól ismert Montevideóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.109227,
+                        -34.887973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro y San Oscar Arnulfo Romero",
+                  "text": "Această parohie este dedicată Sfântului Oscar Romero și se remarcă prin arhitectura sa modernă și deschisă din Montevideo.",
+                  "category": "religious",
+                  "coords": [
+                        -56.097888,
+                        -34.872013
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiána Evangélica",
+                  "text": "O biserică creștină evanghelică din Montevideo, care oferă slujbe regulate și proiecte sociale în cartierul Malvín.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.132482,
+                        -34.885047
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Elena",
+                  "text": "Parohia Santa Elena este un centru religios important în cartierul de coastă al orașului Montevideo, cu o siluetă distinctivă a clopotniței.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.12202,
+                        -34.896149
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen y San Cayetano",
+                  "text": "Această biserică este dedicată Sfintelor Carmen și Caietan, servind ca ancoră spirituală în cartierul La Aguada.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.135027,
+                        -34.883163
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "O casă de întruniri mare a mormonilor din Montevideo, dotată cu facilități pentru activități comunitare și programe pentru tineret.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.114231,
+                        -34.889271
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista del Camino",
+                  "text": "Biserica Metodistă a Drumului este cunoscută pentru munca sa socială dedicată și învățăturile creștine incluzive din Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.109227,
+                        -34.887973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parroquia Nuestra Señora del Perpetuo Socorro y San Oscar Arnulfo Romero",
+                  "text": "This parish is dedicated to Saint Oscar Romero and stands out for its modern, open architecture in Montevideo.",
+                  "category": "religious",
+                  "coords": [
+                        -56.097888,
+                        -34.872013
+                  ]
+            },
+            {
+                  "name": "Iglesia Cristiána Evangélica",
+                  "text": "A Christian evangelical church in Montevideo, offering regular services and social projects in the Malvín neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.132482,
+                        -34.885047
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Elena",
+                  "text": "The Santa Elena Parish is a key religious center in Montevideo's coastal district, featuring a distinctive bell tower silhouette.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.12202,
+                        -34.896149
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen y San Cayetano",
+                  "text": "This church is dedicated to Our Lady of Mount Carmel and Saint Cajetan, serving as a spiritual anchor in the La Aguada neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.135027,
+                        -34.883163
+                  ]
+            },
+            {
+                  "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+                  "text": "A large Mormon meetinghouse in Montevideo, featuring facilities for community activities and youth programs.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.114231,
+                        -34.889271
+                  ]
+            },
+            {
+                  "name": "Iglesia Metodista del Camino",
+                  "text": "The Methodist Church of the Way is known for its dedicated social work and inclusive Christian teachings in Montevideo.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.109227,
+                        -34.887973
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "UY-MO",
     coords: [-56.1167, -34.8833],
@@ -1341,7 +4896,304 @@ export const poiExtraUruguayLifeV2: POI[] = [
       fr: ["Le bâtiment rappelle une mosquée.", "Présente de nombreux animaux naturalisés."],
     }, image: "/poi-images/museo-oceanografico-life-v2.webp"},
   {
-    id: "parque-salto-del-penitente-life-v2",
+    id: "parque-salto-del-penitente-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro del Ombú",
+                  "text": "Ein markanter Gipfel in der felsigen Landschaft der Sierra de las Ánimas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.171173,
+                        -34.333195
+                  ]
+            },
+            {
+                  "name": "Cerro del Cura",
+                  "text": "Ein felsiger Berggipfel mit weitem Blick über das uruguayische Hochland von Lavalleja.",
+                  "category": "natural",
+                  "coords": [
+                        -55.184283,
+                        -34.311513
+                  ]
+            },
+            {
+                  "name": "Cerro Otegui",
+                  "text": "Ein Hügel im zerklüfteten Gelände nahe der Kaskade Salto del Penitente.",
+                  "category": "natural",
+                  "coords": [
+                        -55.094976,
+                        -34.354863
+                  ]
+            },
+            {
+                  "name": "Cerro de los Chivitos",
+                  "text": "Ein charakteristischer Berggipfel in der Region Cuesta del Penitente, bekannt für seine Granitformationen.",
+                  "category": "natural",
+                  "coords": [
+                        -55.105416,
+                        -34.376374
+                  ]
+            },
+            {
+                  "name": "Salto del Penitente",
+                  "text": "Ein 60 Meter hoher Wasserfall, der in ein natürliches Becken inmitten von Granitfelsen stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.05276,
+                        -34.371996
+                  ]
+            },
+            {
+                  "name": "Cerro Campanero Grande",
+                  "text": "Einer der höchsten Punkte der Gegend, Teil der Hügelkette Cuchilla de los Autorretratos.",
+                  "category": "natural",
+                  "coords": [
+                        -55.150487,
+                        -34.397809
+                  ]
+            },
+            {
+                  "name": "Cerro Campanero Chico",
+                  "text": "Ein kleinerer Nachbargipfel des Cerro Campanero Grande in den Hügeln von Lavalleja.",
+                  "category": "natural",
+                  "coords": [
+                        -55.15214,
+                        -34.390939
+                  ]
+            },
+            {
+                  "name": "Cerro de los Romerillos",
+                  "text": "Ein grasbewachsener Gipfel, der typisch für die Landschaft der Sierra de Carapé ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154693,
+                        -34.389169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro del Ombú",
+                  "text": "Jellegzetes csúcs a Sierra de las Ánimas sziklás vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        -55.171173,
+                        -34.333195
+                  ]
+            },
+            {
+                  "name": "Cerro del Cura",
+                  "text": "Sziklás hegycsúcs, ahonnan kilátás nyílik Lavalleja uruguayi felföldjeire.",
+                  "category": "natural",
+                  "coords": [
+                        -55.184283,
+                        -34.311513
+                  ]
+            },
+            {
+                  "name": "Cerro Otegui",
+                  "text": "Dombos magaslat a Salto del Penitente vízesés közeli sziklás területén.",
+                  "category": "natural",
+                  "coords": [
+                        -55.094976,
+                        -34.354863
+                  ]
+            },
+            {
+                  "name": "Cerro de los Chivitos",
+                  "text": "Jellegzetes hegycsúcs a Cuesta del Penitente régióban, amely gránitképződményeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.105416,
+                        -34.376374
+                  ]
+            },
+            {
+                  "name": "Salto del Penitente",
+                  "text": "Egy 60 méter magas vízesés, amely gránitsziklák közötti természetes medencébe zúdul.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.05276,
+                        -34.371996
+                  ]
+            },
+            {
+                  "name": "Cerro Campanero Grande",
+                  "text": "A környék egyik legmagasabb pontja, a Cuchilla de los Autorretratos dombság része.",
+                  "category": "natural",
+                  "coords": [
+                        -55.150487,
+                        -34.397809
+                  ]
+            },
+            {
+                  "name": "Cerro Campanero Chico",
+                  "text": "A Cerro Campanero Grande kisebb szomszédos csúcsa Lavalleja dombjai között.",
+                  "category": "natural",
+                  "coords": [
+                        -55.15214,
+                        -34.390939
+                  ]
+            },
+            {
+                  "name": "Cerro de los Romerillos",
+                  "text": "A Sierra de Carapé tájára jellemző füves hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154693,
+                        -34.389169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro del Ombú",
+                  "text": "Un vârf proeminent în peisajul stâncos din Sierra de las Ánimas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.171173,
+                        -34.333195
+                  ]
+            },
+            {
+                  "name": "Cerro del Cura",
+                  "text": "Un vârf muntos stâncos ce oferă vedere peste înălțimile departamentului Lavalleja.",
+                  "category": "natural",
+                  "coords": [
+                        -55.184283,
+                        -34.311513
+                  ]
+            },
+            {
+                  "name": "Cerro Otegui",
+                  "text": "O colină în terenul accidentat din apropierea cascadei Salto del Penitente.",
+                  "category": "natural",
+                  "coords": [
+                        -55.094976,
+                        -34.354863
+                  ]
+            },
+            {
+                  "name": "Cerro de los Chivitos",
+                  "text": "Un vârf muntos caracteristic în regiunea Cuesta del Penitente, cunoscut pentru formațiunile sale de granit.",
+                  "category": "natural",
+                  "coords": [
+                        -55.105416,
+                        -34.376374
+                  ]
+            },
+            {
+                  "name": "Salto del Penitente",
+                  "text": "O cascadă de 60 de metri înălțime care se varsă într-un bazin natural între stânci de granit.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.05276,
+                        -34.371996
+                  ]
+            },
+            {
+                  "name": "Cerro Campanero Grande",
+                  "text": "Unul dintre cele mai înalte puncte din zonă, făcând parte din dealurile Cuchilla de los Autorretratos.",
+                  "category": "natural",
+                  "coords": [
+                        -55.150487,
+                        -34.397809
+                  ]
+            },
+            {
+                  "name": "Cerro Campanero Chico",
+                  "text": "Un vârf vecin mai mic al lui Cerro Campanero Grande, în dealurile din Lavalleja.",
+                  "category": "natural",
+                  "coords": [
+                        -55.15214,
+                        -34.390939
+                  ]
+            },
+            {
+                  "name": "Cerro de los Romerillos",
+                  "text": "Un vârf înierbat, tipic pentru peisajul din Sierra de Carapé.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154693,
+                        -34.389169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro del Ombú",
+                  "text": "A prominent peak in the rocky landscape of the Sierra de las Ánimas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.171173,
+                        -34.333195
+                  ]
+            },
+            {
+                  "name": "Cerro del Cura",
+                  "text": "A rocky mountain summit offering views over the Uruguayan highlands of Lavalleja.",
+                  "category": "natural",
+                  "coords": [
+                        -55.184283,
+                        -34.311513
+                  ]
+            },
+            {
+                  "name": "Cerro Otegui",
+                  "text": "A hill within the rugged terrain near the Salto del Penitente waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -55.094976,
+                        -34.354863
+                  ]
+            },
+            {
+                  "name": "Cerro de los Chivitos",
+                  "text": "A characteristic mountain peak in the Cuesta del Penitente region, known for its granite outcrops.",
+                  "category": "natural",
+                  "coords": [
+                        -55.105416,
+                        -34.376374
+                  ]
+            },
+            {
+                  "name": "Salto del Penitente",
+                  "text": "A 60-metre high waterfall cascading into a natural pool surrounded by granite cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.05276,
+                        -34.371996
+                  ]
+            },
+            {
+                  "name": "Cerro Campanero Grande",
+                  "text": "One of the higher points in the area, part of the Cuchilla de los Autorretratos hills.",
+                  "category": "natural",
+                  "coords": [
+                        -55.150487,
+                        -34.397809
+                  ]
+            },
+            {
+                  "name": "Cerro Campanero Chico",
+                  "text": "A smaller neighboring peak to Cerro Campanero Grande in the Lavalleja hills.",
+                  "category": "natural",
+                  "coords": [
+                        -55.15214,
+                        -34.390939
+                  ]
+            },
+            {
+                  "name": "Cerro de los Romerillos",
+                  "text": "A grassy summit typical of the Sierra de Carapé landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154693,
+                        -34.389169
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "UY-LA",
     coords: [-55.15, -34.3333],

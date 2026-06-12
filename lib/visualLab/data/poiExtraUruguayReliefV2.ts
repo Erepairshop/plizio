@@ -75,7 +75,160 @@ export const poiExtraUruguayReliefV2: POI[] = [
       fr: ["Cuchilla de Haedo offre un aperçu approfondi de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Cuchilla de Haedo."],
     }, image: "/poi-images/cuchilla-de-haedo-relief-v2.webp"},
   {
-    id: "sierra-de-las-animas-relief-v2",
+    id: "sierra-de-las-animas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro de las Ánimas",
+                  "text": "Mit 501 Metern der zweithöchste Berg Uruguays und Teil des Gebirgszugs Sierra de las Ánimas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.32063,
+                        -34.74784
+                  ]
+            },
+            {
+                  "name": "Cerro Vichadero Chico",
+                  "text": "Ein Berggipfel, der einen weiten Panoramablick über die geschwungenen Hügel der Sierra de las Ánimas bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.330403,
+                        -34.741916
+                  ]
+            },
+            {
+                  "name": "Antiguo mástil",
+                  "text": "Ein historischer Mast auf einem hohen Aussichtspunkt, der einst zur Kommunikation genutzt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -55.321893,
+                        -34.750354
+                  ]
+            },
+            {
+                  "name": "Cerro Chico",
+                  "text": "Ein kleinerer Gipfel mit Wanderwegen, die durch die dichte, einheimische Vegetation führen.",
+                  "category": "natural",
+                  "coords": [
+                        -55.3291,
+                        -34.75481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro de las Ánimas",
+                  "text": "Uruguay második legmagasabb csúcsa (501 m), a Sierra de las Ánimas hegység része.",
+                  "category": "natural",
+                  "coords": [
+                        -55.32063,
+                        -34.74784
+                  ]
+            },
+            {
+                  "name": "Cerro Vichadero Chico",
+                  "text": "Hegycsúcs, amely panorámás kilátást nyújt a Sierra de las Ánimas vonulataira.",
+                  "category": "natural",
+                  "coords": [
+                        -55.330403,
+                        -34.741916
+                  ]
+            },
+            {
+                  "name": "Antiguo mástil",
+                  "text": "Egy történelmi árbóc egy magaslati ponton, amelyet egykor távközlésre használtak.",
+                  "category": "natural",
+                  "coords": [
+                        -55.321893,
+                        -34.750354
+                  ]
+            },
+            {
+                  "name": "Cerro Chico",
+                  "text": "Egy kisebb hegycsúcs túraútvonalakkal, amelyek az őshonos növényzet között vezetnek.",
+                  "category": "natural",
+                  "coords": [
+                        -55.3291,
+                        -34.75481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro de las Ánimas",
+                  "text": "Al doilea cel mai înalt vârf din Uruguay (501 m), făcând parte din lanțul Sierra de las Ánimas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.32063,
+                        -34.74784
+                  ]
+            },
+            {
+                  "name": "Cerro Vichadero Chico",
+                  "text": "Un vârf montan ce oferă o panoramă spectaculoasă asupra dealurilor din Sierra de las Ánimas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.330403,
+                        -34.741916
+                  ]
+            },
+            {
+                  "name": "Antiguo mástil",
+                  "text": "Un catarg istoric situat într-un punct de observație înalt, folosit odinioară pentru semnalizare.",
+                  "category": "natural",
+                  "coords": [
+                        -55.321893,
+                        -34.750354
+                  ]
+            },
+            {
+                  "name": "Cerro Chico",
+                  "text": "Un vârf mai mic cu poteci de drumeție ce șerpuiesc prin vegetația densă nativă.",
+                  "category": "natural",
+                  "coords": [
+                        -55.3291,
+                        -34.75481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro de las Ánimas",
+                  "text": "Uruguay's second highest peak at 501 meters, part of the Sierra de las Ánimas mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -55.32063,
+                        -34.74784
+                  ]
+            },
+            {
+                  "name": "Cerro Vichadero Chico",
+                  "text": "A mountain peak providing a panoramic lookout over the rolling hills of Sierra de las Ánimas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.330403,
+                        -34.741916
+                  ]
+            },
+            {
+                  "name": "Antiguo mástil",
+                  "text": "A historic mast at a high viewpoint that was once used for regional communication.",
+                  "category": "natural",
+                  "coords": [
+                        -55.321893,
+                        -34.750354
+                  ]
+            },
+            {
+                  "name": "Cerro Chico",
+                  "text": "A smaller peak featuring hiking trails through dense native Uruguayan vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -55.3291,
+                        -34.75481
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "UY-MA",
     coords: [-55.3333, -34.75],
@@ -147,7 +300,268 @@ export const poiExtraUruguayReliefV2: POI[] = [
       fr: ["Sierra de Mahoma offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités d'activités de loisirs dans les environs de Sierra de Mahoma."],
     }, image: "/poi-images/sierra-de-mahoma-relief-v2.webp"},
   {
-    id: "sierra-de-los-caracoles-relief-v2",
+    id: "sierra-de-los-caracoles-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro de las Espinas",
+                  "text": "Ein windiger Gipfel in der Sierra de los Caracoles, oft mit Windparks in Verbindung gebracht.",
+                  "category": "natural",
+                  "coords": [
+                        -54.988642,
+                        -34.568172
+                  ]
+            },
+            {
+                  "name": "Cerro Laureles",
+                  "text": "Ein Gipfel in der zerklüfteten Caracoles-Kette, benannt nach den einheimischen Lorbeerbäumen.",
+                  "category": "natural",
+                  "coords": [
+                        -55.01973,
+                        -34.588195
+                  ]
+            },
+            {
+                  "name": "Cerro Casaña",
+                  "text": "Ein Hochlandgipfel, der weite Ausblicke über die Landschaft von Maldonado bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.016364,
+                        -34.611873
+                  ]
+            },
+            {
+                  "name": "Cerro del Indio Marcos",
+                  "text": "Ein markanter Hügel im zentralen Hochland des Departements Maldonado.",
+                  "category": "natural",
+                  "coords": [
+                        -54.917607,
+                        -34.612032
+                  ]
+            },
+            {
+                  "name": "Cerro de la Tigra",
+                  "text": "Ein hoher Punkt in der welligen Landschaft des Caracoles-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        -54.904559,
+                        -34.605322
+                  ]
+            },
+            {
+                  "name": "Cerro Romerillo",
+                  "text": "Ein mit Romerillo-Sträuchern bedeckter Hügel, typisch für die regionale Serranía.",
+                  "category": "natural",
+                  "coords": [
+                        -55.003361,
+                        -34.669125
+                  ]
+            },
+            {
+                  "name": "Cerro Guayabo",
+                  "text": "Benannt nach dem einheimischen Fruchtbaum, erhebt sich dieser Gipfel in den östlichen Hügeln.",
+                  "category": "natural",
+                  "coords": [
+                        -54.992317,
+                        -34.662667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro de las Espinas",
+                  "text": "Szeles hegycsúcs a Sierra de los Caracoles hegységben, amely gyakran szélparkokról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -54.988642,
+                        -34.568172
+                  ]
+            },
+            {
+                  "name": "Cerro Laureles",
+                  "text": "Csúcs a sziklás Caracoles-hegységben, amely az őshonos babérfákról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -55.01973,
+                        -34.588195
+                  ]
+            },
+            {
+                  "name": "Cerro Casaña",
+                  "text": "Felföldi csúcs, ahonnan széles kilátás nyílik Maldonado vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        -55.016364,
+                        -34.611873
+                  ]
+            },
+            {
+                  "name": "Cerro del Indio Marcos",
+                  "text": "Jellegzetes domb Maldonado központi felföldjén.",
+                  "category": "natural",
+                  "coords": [
+                        -54.917607,
+                        -34.612032
+                  ]
+            },
+            {
+                  "name": "Cerro de la Tigra",
+                  "text": "Magaslati pont a Caracoles-hegység hullámzó táján.",
+                  "category": "natural",
+                  "coords": [
+                        -54.904559,
+                        -34.605322
+                  ]
+            },
+            {
+                  "name": "Cerro Romerillo",
+                  "text": "Romerillo bokrokkal borított domb, amely jellemző a régió hegyvidéki tájára.",
+                  "category": "natural",
+                  "coords": [
+                        -55.003361,
+                        -34.669125
+                  ]
+            },
+            {
+                  "name": "Cerro Guayabo",
+                  "text": "Az őshonos gyümölcsfáról elnevezett csúcs a keleti dombok között magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -54.992317,
+                        -34.662667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro de las Espinas",
+                  "text": "Un vârf vântos în Sierra de los Caracoles, adesea asociat cu parcurile eoliene.",
+                  "category": "natural",
+                  "coords": [
+                        -54.988642,
+                        -34.568172
+                  ]
+            },
+            {
+                  "name": "Cerro Laureles",
+                  "text": "Un vârf în lanțul muntos accidentat Caracoles, numit după laurii nativi.",
+                  "category": "natural",
+                  "coords": [
+                        -55.01973,
+                        -34.588195
+                  ]
+            },
+            {
+                  "name": "Cerro Casaña",
+                  "text": "Un vârf montan înalt ce oferă vederi largi asupra zonei rurale din Maldonado.",
+                  "category": "natural",
+                  "coords": [
+                        -55.016364,
+                        -34.611873
+                  ]
+            },
+            {
+                  "name": "Cerro del Indio Marcos",
+                  "text": "O colină distinctivă în zona înaltă centrală a departamentului Maldonado.",
+                  "category": "natural",
+                  "coords": [
+                        -54.917607,
+                        -34.612032
+                  ]
+            },
+            {
+                  "name": "Cerro de la Tigra",
+                  "text": "Un punct înalt în peisajul ondulat al munților Caracoles.",
+                  "category": "natural",
+                  "coords": [
+                        -54.904559,
+                        -34.605322
+                  ]
+            },
+            {
+                  "name": "Cerro Romerillo",
+                  "text": "O colină acoperită cu tufișuri de romerillo, tipice pentru zona muntoasă regională.",
+                  "category": "natural",
+                  "coords": [
+                        -55.003361,
+                        -34.669125
+                  ]
+            },
+            {
+                  "name": "Cerro Guayabo",
+                  "text": "Numit după arborele fructifer nativ, acest vârf se înalță în dealurile estice.",
+                  "category": "natural",
+                  "coords": [
+                        -54.992317,
+                        -34.662667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro de las Espinas",
+                  "text": "A windy summit in the Sierra de los Caracoles, often associated with wind energy farms.",
+                  "category": "natural",
+                  "coords": [
+                        -54.988642,
+                        -34.568172
+                  ]
+            },
+            {
+                  "name": "Cerro Laureles",
+                  "text": "A peak in the rugged Caracoles range, named after the native laurel trees.",
+                  "category": "natural",
+                  "coords": [
+                        -55.01973,
+                        -34.588195
+                  ]
+            },
+            {
+                  "name": "Cerro Casaña",
+                  "text": "A highland peak offering sweeping views of the Maldonado countryside.",
+                  "category": "natural",
+                  "coords": [
+                        -55.016364,
+                        -34.611873
+                  ]
+            },
+            {
+                  "name": "Cerro del Indio Marcos",
+                  "text": "A distinctive hill in the central Maldonado highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -54.917607,
+                        -34.612032
+                  ]
+            },
+            {
+                  "name": "Cerro de la Tigra",
+                  "text": "A high point in the undulating landscape of the Caracoles mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -54.904559,
+                        -34.605322
+                  ]
+            },
+            {
+                  "name": "Cerro Romerillo",
+                  "text": "A hill covered with romerillo shrubs, typical of the regional serranía.",
+                  "category": "natural",
+                  "coords": [
+                        -55.003361,
+                        -34.669125
+                  ]
+            },
+            {
+                  "name": "Cerro Guayabo",
+                  "text": "Named after the native fruit tree, this peak rises in the eastern hills.",
+                  "category": "natural",
+                  "coords": [
+                        -54.992317,
+                        -34.662667
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "UY-MA",
     coords: [-54.9167, -34.6167],
@@ -219,7 +633,556 @@ export const poiExtraUruguayReliefV2: POI[] = [
       fr: ["Sierra de la Aurora offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités d'activités de loisirs dans les environs de Sierra de la Aurora."],
     }, image: "/poi-images/sierra-de-la-aurora-relief-v2.webp"},
   {
-    id: "cuchilla-de-cuchilla-alta-relief-v2",
+    id: "cuchilla-de-cuchilla-alta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Piedras de Afilar",
+                  "text": "Ein isolierter Hügel, der historisch als Quelle für Schleifsteine für Werkzeuge und Waffen diente.",
+                  "category": "natural",
+                  "coords": [
+                        -55.573259,
+                        -34.728231
+                  ]
+            },
+            {
+                  "name": "San Luis",
+                  "text": "Ein erhöhter Aussichtspunkt an der Küste mit weitem Blick über den Río de la Plata.",
+                  "category": "natural",
+                  "coords": [
+                        -55.587105,
+                        -34.77498
+                  ]
+            },
+            {
+                  "name": "La Llorona",
+                  "text": "Eine Steinskulptur einer trauernden Frau, die auf den Klippen von Cuchilla Alta über dem Meer thront.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.496887,
+                        -34.796255
+                  ]
+            },
+            {
+                  "name": "El Chorro Viejo",
+                  "text": "Der ursprüngliche Wasserspeier an der Küste, ein historischer Bezugspunkt für Besucher von Cuchilla Alta.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.501884,
+                        -34.794079
+                  ]
+            },
+            {
+                  "name": "Playa Los Titanes",
+                  "text": "Ein ruhiger Sandstrand am Río de la Plata, ideal zum Schwimmen und für Familienspaziergänge.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.567142,
+                        -34.783998
+                  ]
+            },
+            {
+                  "name": "Playa Santa Ana",
+                  "text": "Ein von Pinien gesäumter Strand mit feinem Sand und ruhigem Wasser, perfekt für Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.466987,
+                        -34.794809
+                  ]
+            },
+            {
+                  "name": "Playa La Tuna",
+                  "text": "Ein familienfreundlicher Strand mit flachem Wasser, der durch seine natürliche, entspannte Atmosphäre besticht.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.56248,
+                        -34.784571
+                  ]
+            },
+            {
+                  "name": "Playa San Luis",
+                  "text": "Ein breiter Sandstrand, der besonders bei Anglern und für seine malerischen Sonnenuntergänge bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.586323,
+                        -34.777541
+                  ]
+            },
+            {
+                  "name": "Playa Araminda",
+                  "text": "Ein malerischer Küstenabschnitt mit einer Mischung aus Sand und markanten Felsformationen am Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.554254,
+                        -34.788638
+                  ]
+            },
+            {
+                  "name": "Playa Santa Lucía del Este",
+                  "text": "Ein weitläufiger Strand mit klarem Wasser und Dünen, der als einer der ruhigsten Orte der Costa de Oro gilt.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.535782,
+                        -34.793701
+                  ]
+            },
+            {
+                  "name": "Playa Biarritz",
+                  "text": "Ein entspannter Badeort mit weißem Sand, der nach dem berühmten französischen Küstenort benannt wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.518385,
+                        -34.795768
+                  ]
+            },
+            {
+                  "name": "Playa Cuchilla Alta",
+                  "text": "Der Hauptstrand des Ortes, bekannt für seine felsigen Abschnitte und den nahegelegenen künstlichen Wasserfall.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.500026,
+                        -34.795275
+                  ]
+            },
+            {
+                  "name": "Playa El Galeón",
+                  "text": "Ein kleinerer Strandabschnitt in Cuchilla Alta, der oft ruhiger ist als die zentralen Bereiche.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.48454,
+                        -34.797258
+                  ]
+            },
+            {
+                  "name": "Playa Balneario Argentino",
+                  "text": "Ein naturbelassener Küstenstreifen mit hohen Dünen und einer wilden, ursprünglichen Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.445193,
+                        -34.792533
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Eine schlichte christliche Kapelle, die als geistliches Zentrum für die lokale Küstengemeinde dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.494287,
+                        -34.794771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Piedras de Afilar",
+                  "text": "Szigetelt domb, amely történelmileg szerszámok és fegyverek élezéséhez használt kövek lelőhelyeként szolgált.",
+                  "category": "natural",
+                  "coords": [
+                        -55.573259,
+                        -34.728231
+                  ]
+            },
+            {
+                  "name": "San Luis",
+                  "text": "Partmenti kilátóhely, ahonnan messzire el lehet látni a Río de la Plata vize felett.",
+                  "category": "natural",
+                  "coords": [
+                        -55.587105,
+                        -34.77498
+                  ]
+            },
+            {
+                  "name": "La Llorona",
+                  "text": "Egy gyászoló nőt ábrázoló kőszobor, amely Cuchilla Alta szikláin, a tenger felett áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.496887,
+                        -34.796255
+                  ]
+            },
+            {
+                  "name": "El Chorro Viejo",
+                  "text": "Az eredeti vízköpő a parton, amely történelmi viszonyítási pont a Cuchilla Altába látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.501884,
+                        -34.794079
+                  ]
+            },
+            {
+                  "name": "Playa Los Titanes",
+                  "text": "Nyugodt homokos strand a Río de la Plata partján, ideális úszáshoz és családi sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.567142,
+                        -34.783998
+                  ]
+            },
+            {
+                  "name": "Playa Santa Ana",
+                  "text": "Fenyőfákkal övezett, finom homokos strand nyugodt vízzel, ideális a pihenni vágyóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.466987,
+                        -34.794809
+                  ]
+            },
+            {
+                  "name": "Playa La Tuna",
+                  "text": "Családbarát strand sekély vízzel, amely természetes és nyugodt hangulatával hódít.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.56248,
+                        -34.784571
+                  ]
+            },
+            {
+                  "name": "Playa San Luis",
+                  "text": "Széles homokos strand, amely különösen a horgászok körében népszerű és festői naplementéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.586323,
+                        -34.777541
+                  ]
+            },
+            {
+                  "name": "Playa Araminda",
+                  "text": "Festői partaszakasz, ahol a homokos part és a jellegzetes sziklaformációk váltják egymást.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.554254,
+                        -34.788638
+                  ]
+            },
+            {
+                  "name": "Playa Santa Lucía del Este",
+                  "text": "Tágas strand tiszta vízzel és dűnékkel, amelyet a Costa de Oro egyik legnyugodtabb helyének tartanak.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.535782,
+                        -34.793701
+                  ]
+            },
+            {
+                  "name": "Playa Biarritz",
+                  "text": "Pihentető fürdőhely fehér homokkal, amelyet a híres francia tengerparti városról neveztek el.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.518385,
+                        -34.795768
+                  ]
+            },
+            {
+                  "name": "Playa Cuchilla Alta",
+                  "text": "A település fő strandja, amely sziklás részeitől és a közeli mesterséges vízeséstől nevezetes.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.500026,
+                        -34.795275
+                  ]
+            },
+            {
+                  "name": "Playa El Galeón",
+                  "text": "Kisebb strandrész Cuchilla Altában, amely gyakran csendesebb, mint a központi területek.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.48454,
+                        -34.797258
+                  ]
+            },
+            {
+                  "name": "Playa Balneario Argentino",
+                  "text": "Természetes partvonal magas dűnékkel és vad, érintetlen hangulattal.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.445193,
+                        -34.792533
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "Egyszerű keresztény kápolna, amely a helyi tengerparti közösség lelki központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.494287,
+                        -34.794771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Piedras de Afilar",
+                  "text": "Un deal izolat care a servit istoric ca sursă de pietre de ascuțit pentru unelte și arme.",
+                  "category": "natural",
+                  "coords": [
+                        -55.573259,
+                        -34.728231
+                  ]
+            },
+            {
+                  "name": "San Luis",
+                  "text": "Un punct de observație de coastă care oferă vederi extinse peste estuarul Río de la Plata.",
+                  "category": "natural",
+                  "coords": [
+                        -55.587105,
+                        -34.77498
+                  ]
+            },
+            {
+                  "name": "La Llorona",
+                  "text": "O sculptură din piatră a unei femei care plânge, cocoțată pe stâncile din Cuchilla Alta deasupra mării.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.496887,
+                        -34.796255
+                  ]
+            },
+            {
+                  "name": "El Chorro Viejo",
+                  "text": "Vechiul deversor de apă de pe coastă, un punct de referință istoric pentru vizitatorii din Cuchilla Alta.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.501884,
+                        -34.794079
+                  ]
+            },
+            {
+                  "name": "Playa Los Titanes",
+                  "text": "O plajă de nisip liniștită la Río de la Plata, ideală pentru înot și plimbări în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.567142,
+                        -34.783998
+                  ]
+            },
+            {
+                  "name": "Playa Santa Ana",
+                  "text": "O plajă mărginită de pini, cu nisip fin și ape calme, perfectă pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.466987,
+                        -34.794809
+                  ]
+            },
+            {
+                  "name": "Playa La Tuna",
+                  "text": "O plajă potrivită pentru familii, cu ape puțin adânci, remarcabilă pentru atmosfera sa naturală și relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.56248,
+                        -34.784571
+                  ]
+            },
+            {
+                  "name": "Playa San Luis",
+                  "text": "O plajă de nisip largă, cunoscută în special pentru pescuit și pentru apusurile sale pitorești.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.586323,
+                        -34.777541
+                  ]
+            },
+            {
+                  "name": "Playa Araminda",
+                  "text": "O porțiune pitorească de coastă cu un amestec de nisip și formațiuni stâncoase distinctive la mal.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.554254,
+                        -34.788638
+                  ]
+            },
+            {
+                  "name": "Playa Santa Lucía del Este",
+                  "text": "O plajă întinsă cu ape clare și dune, considerată unul dintre cele mai liniștite locuri de pe Costa de Oro.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.535782,
+                        -34.793701
+                  ]
+            },
+            {
+                  "name": "Playa Biarritz",
+                  "text": "O stațiune relaxată cu nisip alb, numită după celebra localitate de coastă franceză.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.518385,
+                        -34.795768
+                  ]
+            },
+            {
+                  "name": "Playa Cuchilla Alta",
+                  "text": "Plaja principală a localității, cunoscută pentru secțiunile sale stâncoase și cascada artificială din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.500026,
+                        -34.795275
+                  ]
+            },
+            {
+                  "name": "Playa El Galeón",
+                  "text": "O secțiune de plajă mai mică în Cuchilla Alta, care este adesea mai liniștită decât zonele centrale.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.48454,
+                        -34.797258
+                  ]
+            },
+            {
+                  "name": "Playa Balneario Argentino",
+                  "text": "O fâșie de coastă naturală cu dune înalte și o atmosferă sălbatică, nealterată.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.445193,
+                        -34.792533
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "O capelă creștină simplă care servește ca centru spiritual pentru comunitatea locală de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.494287,
+                        -34.794771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Piedras de Afilar",
+                  "text": "An isolated hill that historically served as a source for sharpening stones used for tools and weapons.",
+                  "category": "natural",
+                  "coords": [
+                        -55.573259,
+                        -34.728231
+                  ]
+            },
+            {
+                  "name": "San Luis",
+                  "text": "A coastal vantage point offering expansive views over the Río de la Plata estuary.",
+                  "category": "natural",
+                  "coords": [
+                        -55.587105,
+                        -34.77498
+                  ]
+            },
+            {
+                  "name": "La Llorona",
+                  "text": "A stone sculpture of a mourning woman perched on the rocks of Cuchilla Alta overlooking the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.496887,
+                        -34.796255
+                  ]
+            },
+            {
+                  "name": "El Chorro Viejo",
+                  "text": "The original water spout on the coast, a historical reference point for visitors to Cuchilla Alta.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.501884,
+                        -34.794079
+                  ]
+            },
+            {
+                  "name": "Playa Los Titanes",
+                  "text": "A quiet sandy beach on the Río de la Plata, ideal for swimming and family walks.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.567142,
+                        -34.783998
+                  ]
+            },
+            {
+                  "name": "Playa Santa Ana",
+                  "text": "A beach lined with pine trees, featuring fine sand and calm waters, perfect for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.466987,
+                        -34.794809
+                  ]
+            },
+            {
+                  "name": "Playa La Tuna",
+                  "text": "A family-friendly beach with shallow waters, notable for its natural and relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.56248,
+                        -34.784571
+                  ]
+            },
+            {
+                  "name": "Playa San Luis",
+                  "text": "A wide sandy beach known especially for fishing and its picturesque sunsets.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.586323,
+                        -34.777541
+                  ]
+            },
+            {
+                  "name": "Playa Araminda",
+                  "text": "A scenic stretch of coast featuring a mix of sand and distinctive rock formations at the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.554254,
+                        -34.788638
+                  ]
+            },
+            {
+                  "name": "Playa Santa Lucía del Este",
+                  "text": "An expansive beach with clear water and dunes, considered one of the quietest spots on the Costa de Oro.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.535782,
+                        -34.793701
+                  ]
+            },
+            {
+                  "name": "Playa Biarritz",
+                  "text": "A relaxed seaside spot with white sand, named after the famous French coastal town.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.518385,
+                        -34.795768
+                  ]
+            },
+            {
+                  "name": "Playa Cuchilla Alta",
+                  "text": "The main beach of the settlement, known for its rocky sections and the nearby artificial waterfall.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.500026,
+                        -34.795275
+                  ]
+            },
+            {
+                  "name": "Playa El Galeón",
+                  "text": "A smaller beach section in Cuchilla Alta that is often quieter than the central areas.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.48454,
+                        -34.797258
+                  ]
+            },
+            {
+                  "name": "Playa Balneario Argentino",
+                  "text": "A natural coastal strip with high dunes and a wild, unspoiled atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.445193,
+                        -34.792533
+                  ]
+            },
+            {
+                  "name": "Iglesia",
+                  "text": "A simple Christian chapel serving as a spiritual center for the local coastal community.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.494287,
+                        -34.794771
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "UY-CA",
     coords: [-55.5, -34.7833],
@@ -255,7 +1218,124 @@ export const poiExtraUruguayReliefV2: POI[] = [
       fr: ["Cuchilla Alta offre un aperçu approfondi de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Cuchilla Alta."],
     }, image: "/poi-images/cuchilla-de-cuchilla-alta-relief-v2.webp"},
   {
-    id: "sierra-carape-relief-v2",
+    id: "sierra-carape-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Coronilla",
+                  "text": "Ein Gipfel in der Sierra de Carapé, der mit einheimischem Buschland bedeckt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -54.77913,
+                        -34.285294
+                  ]
+            },
+            {
+                  "name": "Cerro de la Línea",
+                  "text": "Ein markanter Hügel, der den welligen Horizont an der Grenze zwischen Maldonado und Lavalleja prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -54.765197,
+                        -34.298068
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Ein felsiger Gipfel im Carapé-Gebirge, bekannt für seine dunklen Steinaustritte.",
+                  "category": "natural",
+                  "coords": [
+                        -54.717809,
+                        -34.288257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Coronilla",
+                  "text": "A Sierra de Carapé hegység része, amelyet őshonos bozótos borít.",
+                  "category": "natural",
+                  "coords": [
+                        -54.77913,
+                        -34.285294
+                  ]
+            },
+            {
+                  "name": "Cerro de la Línea",
+                  "text": "Jellegzetes domb, amely Maldonado és Lavalleja határán az hullámzó horizontot meghatározza.",
+                  "category": "natural",
+                  "coords": [
+                        -54.765197,
+                        -34.298068
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Sziklás csúcs a Carapé-hegységben, amely sötét kőkibúvásairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -54.717809,
+                        -34.288257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Coronilla",
+                  "text": "Un vârf din lanțul Sierra de Carapé, acoperit cu vegetație nativă de tufăriș.",
+                  "category": "natural",
+                  "coords": [
+                        -54.77913,
+                        -34.285294
+                  ]
+            },
+            {
+                  "name": "Cerro de la Línea",
+                  "text": "O colină proeminentă care marchează orizontul ondulat la granița dintre Maldonado și Lavalleja.",
+                  "category": "natural",
+                  "coords": [
+                        -54.765197,
+                        -34.298068
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "Un vârf stâncos în munții Carapé, cunoscut pentru aflorimentele sale de piatră închisă la culoare.",
+                  "category": "natural",
+                  "coords": [
+                        -54.717809,
+                        -34.288257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Coronilla",
+                  "text": "A peak in the Sierra de Carapé range, covered with native scrubland.",
+                  "category": "natural",
+                  "coords": [
+                        -54.77913,
+                        -34.285294
+                  ]
+            },
+            {
+                  "name": "Cerro de la Línea",
+                  "text": "A prominent hill marking the undulating horizon of the Maldonado-Lavalleja border.",
+                  "category": "natural",
+                  "coords": [
+                        -54.765197,
+                        -34.298068
+                  ]
+            },
+            {
+                  "name": "Cerro Negro",
+                  "text": "A rocky peak in the Carapé range, known for its dark stone outcrops.",
+                  "category": "natural",
+                  "coords": [
+                        -54.717809,
+                        -34.288257
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "UY-MA",
     coords: [-54.7667, -34.3667],
@@ -363,7 +1443,52 @@ export const poiExtraUruguayReliefV2: POI[] = [
       fr: ["Cerro Betete offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs de Cerro Betete diverses options pour les loisirs actifs."],
     }, image: "/poi-images/cerro-betete-relief-v2.webp"},
   {
-    id: "cerro-de-la-buena-vista-relief-v2",
+    id: "cerro-de-la-buena-vista-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Oceanía del Polonio",
+                  "text": "Entlegener und wilder Sandstrand in der Nähe der Dünen von Cabo Polonio.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.907543,
+                        -34.451705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Oceanía del Polonio",
+                  "text": "Távoli és érintetlen homokos strand a Cabo Polonio-i dűnék közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.907543,
+                        -34.451705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Oceanía del Polonio",
+                  "text": "O plajă cu nisip izolată și sălbatică, situată lângă dunele de la Cabo Polonio.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.907543,
+                        -34.451705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Oceanía del Polonio",
+                  "text": "A remote and wild sandy beach located near the dunes of Cabo Polonio.",
+                  "category": "recreational",
+                  "coords": [
+                        -53.907543,
+                        -34.451705
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UY-RO",
     coords: [-53.9333, -34.3833],
@@ -580,7 +1705,88 @@ export const poiExtraUruguayReliefV2: POI[] = [
     },
   },
   {
-    id: "cuchilla-de-los-tres-cerros-relief-v2",
+    id: "cuchilla-de-los-tres-cerros-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro de la Cueva del Tigre",
+                  "text": "Dieser schroffe Hügel erhebt sich in der Region Cuchilla de los Tres Cerros und ist für die natürlichen Höhlen an seinen Hängen bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        -57.821756,
+                        -32.099246
+                  ]
+            },
+            {
+                  "name": "Cerro de la Salamanca",
+                  "text": "Diese markante felsige Erhebung in der Cuchilla de los Tres Cerros bietet einen weiten Blick über die umliegende uruguayische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -57.831087,
+                        -32.155414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro de la Cueva del Tigre",
+                  "text": "A Cuchilla de los Tres Cerros régióban magasodó zord domb a lejtőin található természetes barlangokról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -57.821756,
+                        -32.099246
+                  ]
+            },
+            {
+                  "name": "Cerro de la Salamanca",
+                  "text": "Ez a kiemelkedő sziklás magaslat a Cuchilla de los Tres Cerros területén pazar kilátást nyújt a környező uruguayi vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -57.831087,
+                        -32.155414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro de la Cueva del Tigre",
+                  "text": "Ridicându-se în regiunea Cuchilla de los Tres Cerros, acest deal accidentat este remarcat pentru peșterile naturale găsite pe pantele sale.",
+                  "category": "natural",
+                  "coords": [
+                        -57.821756,
+                        -32.099246
+                  ]
+            },
+            {
+                  "name": "Cerro de la Salamanca",
+                  "text": "Această elevație stâncoasă proeminentă din Cuchilla de los Tres Cerros oferă vederi panoramice ale peisajului rural uruguayan din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -57.831087,
+                        -32.155414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro de la Cueva del Tigre",
+                  "text": "Rising in the Cuchilla de los Tres Cerros region, this rugged hill is noted for the natural caves found on its slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -57.821756,
+                        -32.099246
+                  ]
+            },
+            {
+                  "name": "Cerro de la Salamanca",
+                  "text": "This prominent rocky elevation in the Cuchilla de los Tres Cerros provides sweeping views of the surrounding Uruguayan countryside.",
+                  "category": "natural",
+                  "coords": [
+                        -57.831087,
+                        -32.155414
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "UY-PA",
     coords: [-57.8333, -32.1667],
@@ -616,7 +1822,232 @@ export const poiExtraUruguayReliefV2: POI[] = [
       fr: ["Cuchilla de los Tres Cerros offre un aperçu approfondi de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Cuchilla de los Tres Cerros."],
     }, image: "/poi-images/cuchilla-de-los-tres-cerros-relief-v2.webp"},
   {
-    id: "cerro-del-cuervo-relief-v2",
+    id: "cerro-del-cuervo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo Pittamiglio",
+                  "text": "Ein markantes Gebäude voller alchemistischer Symbole, erbaut vom Architekten Humberto Pittamiglio an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.325119,
+                        -34.80228
+                  ]
+            },
+            {
+                  "name": "Las Flores",
+                  "text": "Ein ruhiger Badeort mit klarem Wasser und einer entspannten Atmosphäre, ideal für Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.333967,
+                        -34.813903
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "Dieser Strand ist für sein Kiesufer und die hohen Klippen bekannt, die einen weiten Blick über das Meer bieten.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.36023,
+                        -34.8053
+                  ]
+            },
+            {
+                  "name": "Playa Verde",
+                  "text": "Ein ruhiger Sandstrand, der von Pinien- und Eukalyptuswäldern umgeben ist und Naturliebhaber anzieht.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.312705,
+                        -34.833471
+                  ]
+            },
+            {
+                  "name": "La Falda",
+                  "text": "Ein ruhiger Strand am Ufer nahe des Cerro del Cuervo, ideal zum Entspannen in der Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.323218,
+                        -34.820144
+                  ]
+            },
+            {
+                  "name": "Ermita del Bosque",
+                  "text": "Eine kleine, von dichtem Wald umgebene Einsiedelei, die einen Ort der Stille bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -55.345575,
+                        -34.802859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo Pittamiglio",
+                  "text": "Különleges tengerparti épület, amelyet Humberto Pittamiglio építész tervezett tele alkímiai szimbólumokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.325119,
+                        -34.80228
+                  ]
+            },
+            {
+                  "name": "Las Flores",
+                  "text": "Nyugodt tengerparti üdülőhely tiszta vízzel és pihentető légkörrel, ideális a kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.333967,
+                        -34.813903
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "Ez a strand kavicsos partjáról és magas szikláiról ismert, ahonnan tágas kilátás nyílik a tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.36023,
+                        -34.8053
+                  ]
+            },
+            {
+                  "name": "Playa Verde",
+                  "text": "Csendes homokos strand, amelyet fenyő- és eukaliptuszerdők vesznek körül, vonzva a természetbarátokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.312705,
+                        -34.833471
+                  ]
+            },
+            {
+                  "name": "La Falda",
+                  "text": "Egy csendes partszakasz a Cerro del Cuervo közelében lévő patak mentén, természetközeli környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.323218,
+                        -34.820144
+                  ]
+            },
+            {
+                  "name": "Ermita del Bosque",
+                  "text": "Egy kisméretű, sűrű erdővel körülvett remetelak, amely a nyugalom szigete.",
+                  "category": "religious",
+                  "coords": [
+                        -55.345575,
+                        -34.802859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo Pittamiglio",
+                  "text": "O clădire de coastă frapantă plină de simboluri alchimice, construită de arhitectul Humberto Pittamiglio.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.325119,
+                        -34.80228
+                  ]
+            },
+            {
+                  "name": "Las Flores",
+                  "text": "O stațiune balneară liniștită, cu ape limpezi și o atmosferă relaxată, ideală pentru odihnă.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.333967,
+                        -34.813903
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "Această plajă este cunoscută pentru țărmul său cu prundiş și stâncile înalte care oferă o vedere largă asupra mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.36023,
+                        -34.8053
+                  ]
+            },
+            {
+                  "name": "Playa Verde",
+                  "text": "O plajă liniștită cu nisip, înconjurată de păduri de pini și eucalipți, care atrage iubitorii de natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.312705,
+                        -34.833471
+                  ]
+            },
+            {
+                  "name": "La Falda",
+                  "text": "O plajă liniștită pe malul pârâului din apropierea dealului Cerro del Cuervo, într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.323218,
+                        -34.820144
+                  ]
+            },
+            {
+                  "name": "Ermita del Bosque",
+                  "text": "O mică schit religios înconjurat de o pădure deasă, oferind un loc de reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        -55.345575,
+                        -34.802859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo Pittamiglio",
+                  "text": "A striking coastal building filled with alchemical symbols, built by architect Humberto Pittamiglio.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.325119,
+                        -34.80228
+                  ]
+            },
+            {
+                  "name": "Las Flores",
+                  "text": "A peaceful seaside resort beach with clear waters and a relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.333967,
+                        -34.813903
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "This beach is known for its pebble shores and high cliffs overlooking the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.36023,
+                        -34.8053
+                  ]
+            },
+            {
+                  "name": "Playa Verde",
+                  "text": "A tranquil sandy beach nestled between pine and eucalyptus forests, ideal for nature lovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.312705,
+                        -34.833471
+                  ]
+            },
+            {
+                  "name": "La Falda",
+                  "text": "A quiet beach on the stream bank near Cerro del Cuervo, offering a peaceful natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.323218,
+                        -34.820144
+                  ]
+            },
+            {
+                  "name": "Ermita del Bosque",
+                  "text": "A small religious hermitage surrounded by thick woodland, providing a place for quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -55.345575,
+                        -34.802859
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UY-MA",
     coords: [-55.3333, -34.8],
@@ -724,7 +2155,340 @@ export const poiExtraUruguayReliefV2: POI[] = [
       fr: ["Montes del Río Cebollatí offre un aperçu approfondi de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront de nombreuses possibilités de loisirs actifs dans les environs de Montes del Río Cebollatí."],
     }, image: "/poi-images/montes-del-rio-cebollati-relief-v2.webp"},
   {
-    id: "cerro-aspero-relief-v2",
+    id: "cerro-aspero-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerros Áridos",
+                  "text": "Eine Gruppe karger, baumloser Gipfel, die die raue Landschaft der Sierra del Yerbal prägen.",
+                  "category": "natural",
+                  "coords": [
+                        -55.150874,
+                        -34.213949
+                  ]
+            },
+            {
+                  "name": "Cerro Arbolito",
+                  "text": "Dieser Gipfel der Cuchilla Grande ist nach einem markanten, einsamen Baum auf seiner Spitze benannt.",
+                  "category": "natural",
+                  "coords": [
+                        -55.126133,
+                        -34.249962
+                  ]
+            },
+            {
+                  "name": "Cerro Bravo",
+                  "text": "Ein steiler und felsiger Gipfel, der weite Panoramablicke über die ländliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.151968,
+                        -34.238619
+                  ]
+            },
+            {
+                  "name": "Cerro Gigante",
+                  "text": "Einer der markantesten und höchsten Punkte in dieser hügeligen Grenzregion.",
+                  "category": "natural",
+                  "coords": [
+                        -55.167696,
+                        -34.167979
+                  ]
+            },
+            {
+                  "name": "Cerro del Bonete",
+                  "text": "Dieser Berg verdankt seinen Namen seiner charakteristischen Form, die an eine traditionelle Haube erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154892,
+                        -34.18767
+                  ]
+            },
+            {
+                  "name": "Cerro Ceniza",
+                  "text": "Ein Hügel mit grauen, aschefarbenen Hängen, der Teil der Gebirgskette Sierra de las Cañas ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.247927,
+                        -34.190009
+                  ]
+            },
+            {
+                  "name": "Cerro de Villalba",
+                  "text": "Eine zerklüftete Erhebung inmitten der sanft gewellten Weidelandschaften von Treinta y Tres.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209292,
+                        -34.190399
+                  ]
+            },
+            {
+                  "name": "Cerro Buena Vista",
+                  "text": "Ein Aussichtspunkt, der einen klaren Panoramablick über die weite uruguayische Pampa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231329,
+                        -34.23477
+                  ]
+            },
+            {
+                  "name": "Cerro Perdido",
+                  "text": "Ein isolierter Gipfel, der sich markant aus der umliegenden, flachen Hügellandschaft erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -55.190871,
+                        -34.280854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerros Áridos",
+                  "text": "Kopár, fátlan csúcsok csoportja, amelyek a Sierra del Yerbal zord táját jellemzik.",
+                  "category": "natural",
+                  "coords": [
+                        -55.150874,
+                        -34.213949
+                  ]
+            },
+            {
+                  "name": "Cerro Arbolito",
+                  "text": "A Cuchilla Grande ezen csúcsa a tetején álló jellegzetes, magányos fáról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -55.126133,
+                        -34.249962
+                  ]
+            },
+            {
+                  "name": "Cerro Bravo",
+                  "text": "Meredek és sziklás csúcs, amely széles panorámát kínál a vidéki környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -55.151968,
+                        -34.238619
+                  ]
+            },
+            {
+                  "name": "Cerro Gigante",
+                  "text": "Ezen dombos határvidék egyik legjelentősebb és legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -55.167696,
+                        -34.167979
+                  ]
+            },
+            {
+                  "name": "Cerro del Bonete",
+                  "text": "Ez a hegy jellegzetes, hagyományos főkötőre emlékeztető alakjáról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154892,
+                        -34.18767
+                  ]
+            },
+            {
+                  "name": "Cerro Ceniza",
+                  "text": "Szürke, hamuszínű lejtőkkel rendelkező domb, amely a Sierra de las Cañas hegylánc része.",
+                  "category": "natural",
+                  "coords": [
+                        -55.247927,
+                        -34.190009
+                  ]
+            },
+            {
+                  "name": "Cerro de Villalba",
+                  "text": "Tagolt magaslat Treinta y Tres lágyan hullámzó legelőinek közepén.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209292,
+                        -34.190399
+                  ]
+            },
+            {
+                  "name": "Cerro Buena Vista",
+                  "text": "Kilátóhely, amely tiszta panorámát nyújt a hatalmas uruguayi pampákra.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231329,
+                        -34.23477
+                  ]
+            },
+            {
+                  "name": "Cerro Perdido",
+                  "text": "Elszigetelt csúcs, amely élesen emelkedik ki a környező lankás dombvidékből.",
+                  "category": "natural",
+                  "coords": [
+                        -55.190871,
+                        -34.280854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerros Áridos",
+                  "text": "Un grup de vârfuri aride, fără copaci, care definesc peisajul aspru din Sierra del Yerbal.",
+                  "category": "natural",
+                  "coords": [
+                        -55.150874,
+                        -34.213949
+                  ]
+            },
+            {
+                  "name": "Cerro Arbolito",
+                  "text": "Acest vârf din Cuchilla Grande este numit după un copac solitar distinctiv aflat pe culmea sa.",
+                  "category": "natural",
+                  "coords": [
+                        -55.126133,
+                        -34.249962
+                  ]
+            },
+            {
+                  "name": "Cerro Bravo",
+                  "text": "Un vârf abrupt și stâncos care oferă vederi panoramice largi asupra împrejurimilor rurale.",
+                  "category": "natural",
+                  "coords": [
+                        -55.151968,
+                        -34.238619
+                  ]
+            },
+            {
+                  "name": "Cerro Gigante",
+                  "text": "Unul dintre cele mai proeminente și înalte puncte din această regiune deluroasă de graniță.",
+                  "category": "natural",
+                  "coords": [
+                        -55.167696,
+                        -34.167979
+                  ]
+            },
+            {
+                  "name": "Cerro del Bonete",
+                  "text": "Acest munte își datorează numele formei sale caracteristice, care seamănă cu o bonetă tradițională.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154892,
+                        -34.18767
+                  ]
+            },
+            {
+                  "name": "Cerro Ceniza",
+                  "text": "Un deal cu pante cenușii, de culoarea cenușii, care face parte din lanțul muntos Sierra de las Cañas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.247927,
+                        -34.190009
+                  ]
+            },
+            {
+                  "name": "Cerro de Villalba",
+                  "text": "O cotație accidentată situată în mijlocul pășunilor ondulate din Treinta y Tres.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209292,
+                        -34.190399
+                  ]
+            },
+            {
+                  "name": "Cerro Buena Vista",
+                  "text": "Un punct de observație care oferă o panoramă clară asupra vastelor pampasuri uruguayene.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231329,
+                        -34.23477
+                  ]
+            },
+            {
+                  "name": "Cerro Perdido",
+                  "text": "Un vârf izolat care se ridică vizibil din peisajul deluros înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -55.190871,
+                        -34.280854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerros Áridos",
+                  "text": "A group of arid, treeless peaks that define the rugged landscape of the Sierra del Yerbal.",
+                  "category": "natural",
+                  "coords": [
+                        -55.150874,
+                        -34.213949
+                  ]
+            },
+            {
+                  "name": "Cerro Arbolito",
+                  "text": "This peak of the Cuchilla Grande is named after a distinctive, solitary tree on its summit.",
+                  "category": "natural",
+                  "coords": [
+                        -55.126133,
+                        -34.249962
+                  ]
+            },
+            {
+                  "name": "Cerro Bravo",
+                  "text": "A steep and rocky peak offering wide panoramic views over the rural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -55.151968,
+                        -34.238619
+                  ]
+            },
+            {
+                  "name": "Cerro Gigante",
+                  "text": "One of the most prominent and highest points in this hilly border region.",
+                  "category": "natural",
+                  "coords": [
+                        -55.167696,
+                        -34.167979
+                  ]
+            },
+            {
+                  "name": "Cerro del Bonete",
+                  "text": "This mountain owes its name to its characteristic shape, which resembles a traditional bonnet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.154892,
+                        -34.18767
+                  ]
+            },
+            {
+                  "name": "Cerro Ceniza",
+                  "text": "A hill with grey, ash-colored slopes that is part of the Sierra de las Cañas mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        -55.247927,
+                        -34.190009
+                  ]
+            },
+            {
+                  "name": "Cerro de Villalba",
+                  "text": "A rugged elevation situated amidst the gently undulating pastures of Treinta y Tres.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209292,
+                        -34.190399
+                  ]
+            },
+            {
+                  "name": "Cerro Buena Vista",
+                  "text": "A lookout point offering a clear panorama over the vast Uruguayan pampas.",
+                  "category": "natural",
+                  "coords": [
+                        -55.231329,
+                        -34.23477
+                  ]
+            },
+            {
+                  "name": "Cerro Perdido",
+                  "text": "An isolated peak that stands out sharply from the surrounding rolling hill country.",
+                  "category": "natural",
+                  "coords": [
+                        -55.190871,
+                        -34.280854
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "UY-LA",
     coords: [-55.2, -34.25],
@@ -760,7 +2524,52 @@ export const poiExtraUruguayReliefV2: POI[] = [
       fr: ["Cerro Áspero offre un aperçu profond de la culture et des traditions régionales.", "Le lieu se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs de Cerro Áspero diverses options pour les loisirs actifs."],
     }, image: "/poi-images/cerro-aspero-relief-v2.webp"},
   {
-    id: "cuchilla-negra-relief-v2",
+    id: "cuchilla-negra-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia",
+                  "text": "Diese Kirche befindet sich in der hügeligen Landschaft der Cuchilla Negra und dient den umliegenden ländlichen Weilern.",
+                  "category": "religious",
+                  "coords": [
+                        -55.603319,
+                        -30.969284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia",
+                  "text": "Ez a templom a Cuchilla Negra dombos vidékén található, és a környező vidéki tanyákat szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -55.603319,
+                        -30.969284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia",
+                  "text": "Această biserică este situată în peisajul deluros din Cuchilla Negra și deservește cătunele rurale din jur.",
+                  "category": "religious",
+                  "coords": [
+                        -55.603319,
+                        -30.969284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia",
+                  "text": "This church is situated in the hilly landscape of Cuchilla Negra, serving the surrounding rural hamlets.",
+                  "category": "religious",
+                  "coords": [
+                        -55.603319,
+                        -30.969284
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "UY-RV",
     coords: [-55.6667, -31.0],
@@ -832,7 +2641,52 @@ export const poiExtraUruguayReliefV2: POI[] = [
       fr: ["Sierra de las Cañas offre un aperçu profond de la culture et de la tradition régionales.", "Le lieu se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront diverses possibilités d'activités de loisirs dans les environs de Sierra de las Cañas."],
     }, image: "/poi-images/sierra-de-las-canas-relief-v2.webp"},
   {
-    id: "cuchilla-de-peralta-relief-v2",
+    id: "cuchilla-de-peralta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro de la Pitanga",
+                  "text": "Der Cerro de la Pitanga ist ein markanter Hügel in der Region Cuchilla de Peralta mit weitem Blick über die Pampa.",
+                  "category": "natural",
+                  "coords": [
+                        -56.400552,
+                        -32.544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro de la Pitanga",
+                  "text": "A Cerro de la Pitanga egy jellegzetes domb a Cuchilla de Peralta régióban, ahonnan pazar kilátás nyílik a pampákra.",
+                  "category": "natural",
+                  "coords": [
+                        -56.400552,
+                        -32.544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro de la Pitanga",
+                  "text": "Cerro de la Pitanga este un deal proeminent în regiunea Cuchilla de Peralta, oferind vederi largi asupra pampei.",
+                  "category": "natural",
+                  "coords": [
+                        -56.400552,
+                        -32.544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro de la Pitanga",
+                  "text": "Cerro de la Pitanga is a prominent hill in the Cuchilla de Peralta region, offering wide views over the pampa.",
+                  "category": "natural",
+                  "coords": [
+                        -56.400552,
+                        -32.544
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "UY-TA",
     coords: [-56.3333, -32.5],

@@ -52,7 +52,160 @@ image: "/poi-images/bolivia-cordillera-real-relief-v2.webp",
       fr: ["Se situe sur le territoire de l'État plurinational de Bolivie.", "Nichée entre la cordillère des Andes, l'Altiplano et les basses terres orientales.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle.", "Liée au patrimoine culturel des Aymaras et des Quechuas.", "Gérée par les autorités et les communautés locales.", "Associée à la tradition de l'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bolivia-cordillera-real-relief-v2.webp"},
   {
-    id: "bolivia-cordillera-occidental-relief-v2",
+    id: "bolivia-cordillera-occidental-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Janq'u Ch'utu",
+                  "text": "Dieser markante Andengipfel bietet anspruchsvolles Gelände für Höhenbergsteiger in der Cordillera Occidental.",
+                  "category": "natural",
+                  "coords": [
+                        -68.565845,
+                        -18.958312
+                  ]
+            },
+            {
+                  "name": "Parroquia de Cruz de Huayllas",
+                  "text": "Diese etablierte Pfarrkirche, die das abgelegene Hochland bedient, versammelt die katholische Gemeinde von Cruz de Huayllas zur Sonntagsmesse.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.520906,
+                        -18.967415
+                  ]
+            },
+            {
+                  "name": "Parroquia de Alaroco",
+                  "text": "Diese regionale Pfarrei fungiert als spirituelles Herz der Gemeinde Alaroco und pflegt religiöse Traditionen im rauen Hochland.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.538949,
+                        -18.923819
+                  ]
+            },
+            {
+                  "name": "Iglesia de Pacariza",
+                  "text": "Verankert in den Hochebenen bietet diese widerstandsfähige Steinkirche ein einladendes Heiligtum für die Dorfbewohner von Pacariza.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.424361,
+                        -18.95891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Janq'u Ch'utu",
+                  "text": "Ez a kiemelkedő andoki hegycsúcs kihívást jelentő terepet kínál a magassági hegymászóknak a Cordillera Occidentalban.",
+                  "category": "natural",
+                  "coords": [
+                        -68.565845,
+                        -18.958312
+                  ]
+            },
+            {
+                  "name": "Parroquia de Cruz de Huayllas",
+                  "text": "A távoli felvidéket szolgáló, alapított plébániatemplom a Cruz de Huayllas-i katolikus közösséget gyűjti össze a vasárnapi misére.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.520906,
+                        -18.967415
+                  ]
+            },
+            {
+                  "name": "Parroquia de Alaroco",
+                  "text": "Ez a regionális plébánia az alarocói közösség spirituális központjaként működik, fenntartva a vallási hagyományokat a zord felvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.538949,
+                        -18.923819
+                  ]
+            },
+            {
+                  "name": "Iglesia de Pacariza",
+                  "text": "A fennsíkon horgonyzó, ellenálló kőtemplom barátságos menedéket nyújt Pacariza falusiak számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.424361,
+                        -18.95891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Janq'u Ch'utu",
+                  "text": "Acest vârf de munte proeminent din Anzi oferă un teren provocator pentru alpiniștii de altitudine din Cordillera Occidental.",
+                  "category": "natural",
+                  "coords": [
+                        -68.565845,
+                        -18.958312
+                  ]
+            },
+            {
+                  "name": "Parroquia de Cruz de Huayllas",
+                  "text": "Deservind zonele muntoase îndepărtate, această biserică parohială înființată adună comunitatea catolică din Cruz de Huayllas pentru liturghia de duminică.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.520906,
+                        -18.967415
+                  ]
+            },
+            {
+                  "name": "Parroquia de Alaroco",
+                  "text": "Această parohie regională acționează ca inima spirituală a comunității Alaroco, menținând tradițiile religioase în zonele muntoase accidentate.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.538949,
+                        -18.923819
+                  ]
+            },
+            {
+                  "name": "Iglesia de Pacariza",
+                  "text": "Ancorată în câmpiile înalte, această biserică rezistentă din piatră oferă un sanctuar primitor pentru sătenii din Pacariza.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.424361,
+                        -18.95891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Janq'u Ch'utu",
+                  "text": "This prominent Andean mountain peak offers challenging terrain for high-altitude climbers in the Cordillera Occidental.",
+                  "category": "natural",
+                  "coords": [
+                        -68.565845,
+                        -18.958312
+                  ]
+            },
+            {
+                  "name": "Parroquia de Cruz de Huayllas",
+                  "text": "Serving the remote highlands, this established parish church gathers the Catholic community of Cruz de Huayllas for Sunday mass.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.520906,
+                        -18.967415
+                  ]
+            },
+            {
+                  "name": "Parroquia de Alaroco",
+                  "text": "This regional parish acts as the spiritual heart of the Alaroco community, maintaining religious traditions in the rugged highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.538949,
+                        -18.923819
+                  ]
+            },
+            {
+                  "name": "Iglesia de Pacariza",
+                  "text": "Anchored in the high plains, this resilient stone church provides a welcoming sanctuary for the villagers of Pacariza.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.424361,
+                        -18.95891
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Die Cordillera Occidental bildet die natürliche vulkanische Grenze zwischen Bolivien und Chile.",
@@ -101,7 +254,52 @@ image: "/poi-images/bolivia-cordillera-occidental-relief-v2.webp",
       fr: ["Se situe sur le territoire de l'État plurinational de Bolivie.", "Nichée entre la cordillère des Andes, l'Altiplano et les basses terres orientales.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle.", "Liée au patrimoine culturel des Aymaras et des Quechuas.", "Gérée par les autorités et les communautés locales.", "Associée à la tradition de l'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bolivia-cordillera-occidental-relief-v2.webp"},
   {
-    id: "bolivia-altiplano-andino-relief-v2",
+    id: "bolivia-altiplano-andino-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pukara",
+                  "text": "Dieser Berggipfel mit Blick auf den andinen Altiplano ist nach den alten indigenen Festungen benannt, die für die Region typisch sind.",
+                  "category": "natural",
+                  "coords": [
+                        -68.013888,
+                        -17.958337
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pukara",
+                  "text": "Az andoki altiplanóra néző hegycsúcs a régióban jellemző ősi őslakos erődítményekről kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -68.013888,
+                        -17.958337
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pukara",
+                  "text": "Dominând altiplano-ul andin, acest vârf montan își trage numele de la vechile fortărețe indigene tipice regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -68.013888,
+                        -17.958337
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pukara",
+                  "text": "Overlooking the Andean altiplano, this mountain peak takes its name from the ancient indigenous fortresses typical of the region.",
+                  "category": "natural",
+                  "coords": [
+                        -68.013888,
+                        -17.958337
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Die Altiplano-Hochebene ist eine weite, hochgelegene Ebene zwischen den Andenketten und das kulturelle Herz der Region.",
@@ -199,7 +397,52 @@ image: "/poi-images/bolivia-llanos-de-moxos-relief-v2.webp",
       fr: ["Se situe sur le territoire de l'État plurinational de Bolivie.", "Nichée entre la cordillère des Andes, l'Altiplano et les basses terres orientales.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle.", "Liée au patrimoine culturel des Aymaras et des Quechuas.", "Gérée par les autorités et les communautés locales.", "Associée à la tradition de l'extraction du lithium, de l'argent et du gaz naturel."],
     }, image: "/poi-images/bolivia-llanos-de-moxos-relief-v2.webp"},
   {
-    id: "bolivia-bosque-seco-chiquitano-relief-v2",
+    id: "bolivia-bosque-seco-chiquitano-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Dieser erhöhte Aussichtspunkt auf dem Hügel des Kreuzes bietet einen weiten Blick über den trockenen Chiquitano-Wald.",
+                  "category": "natural",
+                  "coords": [
+                        -60.982473,
+                        -16.41304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Ez a Kereszt-hegyen található magaslati kilátópont lenyűgöző kilátást nyújt a száraz Chiquitano erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -60.982473,
+                        -16.41304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Acest punct de belvedere înalt de pe Dealul Crucii oferă o priveliște vastă asupra pădurii uscate Chiquitano.",
+                  "category": "natural",
+                  "coords": [
+                        -60.982473,
+                        -16.41304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "This elevated viewpoint on the Hill of the Cross offers sweeping views over the dry Chiquitano forest.",
+                  "category": "natural",
+                  "coords": [
+                        -60.982473,
+                        -16.41304
+                  ]
+            }
+      ]
+},
     parent: "BO",
     description: {
       de: "Der Chiquitano-Trockenwald ist das weltweit größte intakte Ökosystem dieser Art und liegt im Osten Boliviens.",
@@ -377,7 +620,520 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Le sommet le plus élevé de la chaîne se situe à environ 1 800 mètres d'altitude.", "En langue guarani, Aguaragüe signifie 'poil du renard'.", "La région a été déclarée parc national en 2000 pour protéger les sources d'eau.", "Elle abrite un mélange de flore et de faune typiques des Andes et du Chaco."],
     }, image: "/poi-images/bolivia-serrania-aguarague-relief-v2.webp"},
   {
-    id: "bolivia-volcan-tunupa-relief-v2",
+    id: "bolivia-volcan-tunupa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vista al Crater Thunupa",
+                  "text": "Dieser hoch gelegene Aussichtspunkt bietet einen Panoramablick direkt in den markanten Krater des schlafenden Vulkans Tunupa.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635647,
+                        -19.834161
+                  ]
+            },
+            {
+                  "name": "Museo Artesanal de Coqueza",
+                  "text": "Dieses kleine Museum am Fuße des Vulkans zeigt indigenes Kunsthandwerk und historische Artefakte der lokalen andinen Gemeinschaft.",
+                  "category": "museum",
+                  "coords": [
+                        -67.626483,
+                        -19.901069
+                  ]
+            },
+            {
+                  "name": "Mirador del Crater del Volcan Thunupa (desde Jirira)",
+                  "text": "Dieser über das Dorf Jirira erreichbare, raue Aussichtspunkt bietet Wanderern spektakuläre Ausblicke auf den farbenfrohen Tunupa-Krater und die riesigen Salzpfannen im Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -67.620744,
+                        -19.827146
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Thunupa",
+                  "text": "Hoch am Berghang gelegen, offenbart dieser malerische Aussichtspunkt das dramatische, mineralgefärbte Innere des massiven Vulkankraters.",
+                  "category": "natural",
+                  "coords": [
+                        -67.640169,
+                        -19.843843
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Dieser erste ausgewiesene Rastplatz entlang des Vulkanpfads bietet weite Ausblicke über die umliegende Andenhochebene.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635167,
+                        -19.868609
+                  ]
+            },
+            {
+                  "name": "Cueva de las Momias",
+                  "text": "Versteckt in den felsigen Hängen des Vulkans beherbergt diese kleine Höhle unglaublich gut erhaltene alte Mumien aus einer Prä-Inka-Kultur.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.636305,
+                        -19.88203
+                  ]
+            },
+            {
+                  "name": "Mirador Ayque",
+                  "text": "Von dieser erhöhten Felsterrasse können Besucher einen atemberaubenden Panoramablick über die schimmernde weiße Weite der Uyuni-Salzebene genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -67.609944,
+                        -19.874548
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcan Thunupa (Tunupa)",
+                  "text": "Dieser über eine anstrengende Wanderung erreichbare, dominante Aussichtspunkt bietet eine unvergleichliche Perspektive hinab in die Caldera des Berges Tunupa.",
+                  "category": "natural",
+                  "coords": [
+                        -67.619517,
+                        -19.841536
+                  ]
+            },
+            {
+                  "name": "Pucará Ayque",
+                  "text": "Diese alten Steinruinen stellen eine präkolumbianische Hügelfestung dar, die errichtet wurde, um die strategischen Wege über den Altiplano zu bewachen.",
+                  "category": "historical",
+                  "coords": [
+                        -67.597695,
+                        -19.900329
+                  ]
+            },
+            {
+                  "name": "Capilla Santiago",
+                  "text": "Eine bescheidene, weiß getünchte Kapelle, die dem Heiligen Jakobus gewidmet ist und als ruhiges spirituelles Refugium in der trockenen Andenlandschaft dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.663654,
+                        -19.762838
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tahua",
+                  "text": "Diese traditionelle Steinkirche verankert die kleine ländliche Gemeinde Tahua am Rande der großen Salzebene.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.697017,
+                        -19.894149
+                  ]
+            },
+            {
+                  "name": "Capilla de Jirira",
+                  "text": "Vor der Kulisse des Vulkans Tunupa zeichnet sich diese malerische Dorfkapelle durch klassische Lehmarchitektur aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.57333,
+                        -19.857808
+                  ]
+            },
+            {
+                  "name": "Capilla Exaltación",
+                  "text": "Mit traditionellen architektonischen Elementen des Altiplano dient diese Kapelle der lokalen katholischen Gemeinde für ihre religiösen Feste.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.660463,
+                        -19.903751
+                  ]
+            },
+            {
+                  "name": "Iglesia Candelaria",
+                  "text": "Diese markante Dorfkirche, die der Jungfrau von Candelaria gewidmet ist, verfügt über einen charakteristischen Glockenturm, der sich über die Siedlung erhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.722735,
+                        -19.825861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vista al Crater Thunupa",
+                  "text": "Ez a magasan fekvő kilátópont panorámás kilátást nyújt közvetlenül a szunnyadó Tunupa vulkán lenyűgöző kráterébe.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635647,
+                        -19.834161
+                  ]
+            },
+            {
+                  "name": "Museo Artesanal de Coqueza",
+                  "text": "A vulkán lábánál található kis múzeum a helyi andoki közösség őslakos kézműves termékeit és történelmi tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -67.626483,
+                        -19.901069
+                  ]
+            },
+            {
+                  "name": "Mirador del Crater del Volcan Thunupa (desde Jirira)",
+                  "text": "A Jirira falu felől megközelíthető, zord kilátópontról a túrázók drámai kilátásban gyönyörködhetnek a színes Tunupa-kráterre és az alatta elterülő hatalmas sós síkságra.",
+                  "category": "natural",
+                  "coords": [
+                        -67.620744,
+                        -19.827146
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Thunupa",
+                  "text": "A hegyoldalban magasan fekvő, festői kilátóról feltárul a vulkán hatalmas kráterének drámai, ásványi anyagokkal színezett belseje.",
+                  "category": "natural",
+                  "coords": [
+                        -67.640169,
+                        -19.843843
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "A vulkáni ösvény mentén található első kijelölt pihenőhelyről tágas kilátás nyílik a környező andoki fennsíkra.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635167,
+                        -19.868609
+                  ]
+            },
+            {
+                  "name": "Cueva de las Momias",
+                  "text": "A vulkán sziklás lejtőin megbúvó kis barlang hihetetlenül jól megőrzött ősi múmiákat rejt egy inka előtti kultúrából.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.636305,
+                        -19.88203
+                  ]
+            },
+            {
+                  "name": "Mirador Ayque",
+                  "text": "Ebből a megemelt sziklás teraszról a látogatók elsöprő panorámát élvezhetnek az Uyuni sós síkság csillogó fehér kiterjedésén.",
+                  "category": "natural",
+                  "coords": [
+                        -67.609944,
+                        -19.874548
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcan Thunupa (Tunupa)",
+                  "text": "A kimerítő túrával elérhető, impozáns kilátóból páratlan kilátás nyílik a Tunupa-hegy kalderájába.",
+                  "category": "natural",
+                  "coords": [
+                        -67.619517,
+                        -19.841536
+                  ]
+            },
+            {
+                  "name": "Pucará Ayque",
+                  "text": "Ezek az ősi kőromok egy prekolumbiánus hegyi erődítményt képviselnek, amelyet az Altiplano stratégiai útvonalainak őrzésére építettek.",
+                  "category": "historical",
+                  "coords": [
+                        -67.597695,
+                        -19.900329
+                  ]
+            },
+            {
+                  "name": "Capilla Santiago",
+                  "text": "Egy szerény, fehérre meszelt kápolna, amelyet Szent Jakabnak szenteltek, és amely csendes spirituális menedékként áll a száraz andoki tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.663654,
+                        -19.762838
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tahua",
+                  "text": "Ez a hagyományos kőtemplom a nagy sós síkság szélén fekvő Tahua kis vidéki közösségének központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.697017,
+                        -19.894149
+                  ]
+            },
+            {
+                  "name": "Capilla de Jirira",
+                  "text": "A Tunupa vulkán hátterében álló festői falusi kápolna klasszikus vályogépítészettel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.57333,
+                        -19.857808
+                  ]
+            },
+            {
+                  "name": "Capilla Exaltación",
+                  "text": "A hagyományos Altiplano építészeti elemekkel rendelkező kápolna a helyi katolikus közösséget szolgálja vallási ünnepeik során.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.660463,
+                        -19.903751
+                  ]
+            },
+            {
+                  "name": "Iglesia Candelaria",
+                  "text": "A Candelariai Szűzanyának szentelt feltűnő falusi templom jellegzetes harangtoronnyal büszkélkedhet, amely a település fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.722735,
+                        -19.825861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vista al Crater Thunupa",
+                  "text": "Acest punct de belvedere la mare altitudine oferă vederi panoramice direct în craterul impresionant al vulcanului adormit Tunupa.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635647,
+                        -19.834161
+                  ]
+            },
+            {
+                  "name": "Museo Artesanal de Coqueza",
+                  "text": "Situat la poalele vulcanului, acest mic muzeu prezintă meșteșuguri indigene și artefacte istorice din comunitatea locală andină.",
+                  "category": "museum",
+                  "coords": [
+                        -67.626483,
+                        -19.901069
+                  ]
+            },
+            {
+                  "name": "Mirador del Crater del Volcan Thunupa (desde Jirira)",
+                  "text": "Accesibil prin satul Jirira, acest punct de belvedere accidentat oferă drumeților vederi spectaculoase asupra craterului colorat Tunupa și a vastelor întinderi de sare de dedesubt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.620744,
+                        -19.827146
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Thunupa",
+                  "text": "Situat sus pe versantul muntelui, acest punct de belvedere pitoresc dezvăluie interiorul dramatic, pătat de minerale, al craterului masiv al vulcanului.",
+                  "category": "natural",
+                  "coords": [
+                        -67.640169,
+                        -19.843843
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Acest prim loc de odihnă desemnat de-a lungul traseului vulcanic oferă priveliști întinse asupra platoului andin dinconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635167,
+                        -19.868609
+                  ]
+            },
+            {
+                  "name": "Cueva de las Momias",
+                  "text": "Ascunsă în pantele stâncoase ale vulcanului, această mică peșteră adăpostește mumii antice incredibil de bine conservate dintr-o cultură pre-incașă.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.636305,
+                        -19.88203
+                  ]
+            },
+            {
+                  "name": "Mirador Ayque",
+                  "text": "De pe această terasă stâncoasă ridicată, vizitatorii se pot bucura de vederi panoramice ample peste întinderea albă și strălucitoare a deșertului de sare Uyuni.",
+                  "category": "natural",
+                  "coords": [
+                        -67.609944,
+                        -19.874548
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcan Thunupa (Tunupa)",
+                  "text": "Accesibil printr-o drumeție obositoare, acest punct de belvedere impunător oferă o perspectivă inegalabilă în jos în caldera Muntelui Tunupa.",
+                  "category": "natural",
+                  "coords": [
+                        -67.619517,
+                        -19.841536
+                  ]
+            },
+            {
+                  "name": "Pucará Ayque",
+                  "text": "Aceste ruine antice de piatră reprezintă un fort de deal precolumbian construit pentru a păzi căile strategice peste Altiplano.",
+                  "category": "historical",
+                  "coords": [
+                        -67.597695,
+                        -19.900329
+                  ]
+            },
+            {
+                  "name": "Capilla Santiago",
+                  "text": "O capelă modestă văruită în alb dedicată Sfântului Iacob, stând ca un refugiu spiritual liniștit în peisajul arid andin.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.663654,
+                        -19.762838
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tahua",
+                  "text": "Această biserică tradițională din piatră ancorează mica comunitate rurală Tahua de lângă marginea marelui deșert de sare.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.697017,
+                        -19.894149
+                  ]
+            },
+            {
+                  "name": "Capilla de Jirira",
+                  "text": "Situată pe fundalul vulcanului Tunupa, această capelă de sat pitorească prezintă o arhitectură clasică din chirpici.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.57333,
+                        -19.857808
+                  ]
+            },
+            {
+                  "name": "Capilla Exaltación",
+                  "text": "Prezentând elemente arhitecturale tradiționale din Altiplano, această capelă deservește comunitatea catolică locală pentru festivalurile lor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.660463,
+                        -19.903751
+                  ]
+            },
+            {
+                  "name": "Iglesia Candelaria",
+                  "text": "Dedicată Fecioarei de Candelaria, această biserică impresionantă din sat are o clopotniță distinctă care se înalță deasupra așezării.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.722735,
+                        -19.825861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crater View",
+                  "text": "This high-altitude vantage point offers panoramic views directly into the striking crater of the dormant Tunupa Volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635647,
+                        -19.834161
+                  ]
+            },
+            {
+                  "name": "Museo Artesanal de Coqueza",
+                  "text": "Located at the foot of the volcano, this small museum showcases indigenous crafts and historical artifacts from the local Andean community.",
+                  "category": "museum",
+                  "coords": [
+                        -67.626483,
+                        -19.901069
+                  ]
+            },
+            {
+                  "name": "Mirador del Crater del Volcan Thunupa (desde Jirira)",
+                  "text": "Accessible via the village of Jirira, this rugged viewpoint presents hikers with dramatic views of the colorful Tunupa crater and the vast salt flats below.",
+                  "category": "natural",
+                  "coords": [
+                        -67.620744,
+                        -19.827146
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Thunupa",
+                  "text": "Standing high on the mountainside, this scenic overlook reveals the dramatic, mineral-stained interior of the volcano's massive crater.",
+                  "category": "natural",
+                  "coords": [
+                        -67.640169,
+                        -19.843843
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "This first designated rest stop along the volcanic trail offers expansive vistas over the surrounding Andean plateau.",
+                  "category": "natural",
+                  "coords": [
+                        -67.635167,
+                        -19.868609
+                  ]
+            },
+            {
+                  "name": "Cueva de las Momias",
+                  "text": "Tucked into the rocky slopes of the volcano, this small cave houses incredibly well-preserved ancient mummies from a pre-Inca culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.636305,
+                        -19.88203
+                  ]
+            },
+            {
+                  "name": "Mirador Ayque",
+                  "text": "From this elevated rocky terrace, visitors can enjoy sweeping panoramic views across the shimmering white expanse of the Uyuni salt flats.",
+                  "category": "natural",
+                  "coords": [
+                        -67.609944,
+                        -19.874548
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcan Thunupa (Tunupa)",
+                  "text": "Reached by a strenuous hike, this commanding overlook provides an unmatched perspective down into the caldera of Mount Tunupa.",
+                  "category": "natural",
+                  "coords": [
+                        -67.619517,
+                        -19.841536
+                  ]
+            },
+            {
+                  "name": "Pucará Ayque",
+                  "text": "These ancient stone ruins represent a pre-Columbian hill fort built to guard the strategic pathways across the Altiplano.",
+                  "category": "historical",
+                  "coords": [
+                        -67.597695,
+                        -19.900329
+                  ]
+            },
+            {
+                  "name": "Capilla Santiago",
+                  "text": "A modest whitewashed chapel dedicated to Saint James, standing as a quiet spiritual refuge in the arid Andean landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.663654,
+                        -19.762838
+                  ]
+            },
+            {
+                  "name": "Iglesia de Tahua",
+                  "text": "This traditional stone church anchors the small rural community of Tahua near the edge of the great salt flat.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.697017,
+                        -19.894149
+                  ]
+            },
+            {
+                  "name": "Capilla de Jirira",
+                  "text": "Set against the backdrop of the Tunupa volcano, this quaint village chapel features classic adobe architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.57333,
+                        -19.857808
+                  ]
+            },
+            {
+                  "name": "Capilla Exaltación",
+                  "text": "Featuring traditional Altiplano architectural elements, this chapel serves the local Catholic community for their religious festivals.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.660463,
+                        -19.903751
+                  ]
+            },
+            {
+                  "name": "Iglesia Candelaria",
+                  "text": "Dedicated to the Virgin of Candelaria, this striking village church features a distinct bell tower that rises above the settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.722735,
+                        -19.825861
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-O",
     coords: [-67.6433, -19.8286],
@@ -444,7 +1200,52 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Le volcan culmine à une altitude de 5 321 mètres.", "Les momies dans les grottes sur le flanc sont des témoignages des cultures précolombiennes.", "Le volcan est principalement composé de roches dacitiques et andésitiques.", "Au pied de la montagne, on peut souvent observer des flamants roses dans les lagunes."],
     }, image: "/poi-images/bolivia-volcan-tunupa-relief-v2.webp"},
   {
-    id: "bolivia-volcan-parinacota-relief-v2",
+    id: "bolivia-volcan-parinacota-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Lago Chungará",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen Panoramablick über das Wasser des Lago Chungará auf den Vulkan Parinacota.",
+                  "category": "natural",
+                  "coords": [
+                        -69.184291,
+                        -18.233025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Lago Chungará",
+                  "text": "Ez a festői kilátó panorámás kilátást nyújt a Chungará-tó vizére és a Parinacota vulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        -69.184291,
+                        -18.233025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Lago Chungará",
+                  "text": "Acest punct de belvedere pitoresc oferă vederi panoramice peste apele lacului Chungará către vulcanul Parinacota.",
+                  "category": "natural",
+                  "coords": [
+                        -69.184291,
+                        -18.233025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Lago Chungará",
+                  "text": "This scenic viewpoint offers panoramic vistas across the waters of Lago Chungará towards the Volcán Parinacota.",
+                  "category": "natural",
+                  "coords": [
+                        -69.184291,
+                        -18.233025
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-O",
     coords: [-69.1417, -18.1633],
@@ -511,7 +1312,196 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Le sommet se situe à une altitude imposante de 6 348 mètres.", "Son nom signifie 'lac des flamants roses' en langue aymara.", "L'ascension nécessite une bonne acclimatation mais est techniquement modérée.", "Il possède une forme conique presque parfaite avec une calotte glaciaire permanente."],
     }, image: "/poi-images/bolivia-volcan-parinacota-relief-v2.webp"},
   {
-    id: "bolivia-volcan-pomerape-relief-v2",
+    id: "bolivia-volcan-pomerape-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viscachas",
+                  "text": "Der Aussichtspunkt Viscachas in bolivia-volcan-pomerape-relief-v2 bietet ein weites Panorama auf die hochgelegene Vulkanlandschaft und ist ein erstklassiger Ort zur Beobachtung der einheimischen andinen Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        -69.064718,
+                        -18.062576
+                  ]
+            },
+            {
+                  "name": "Horned coot",
+                  "text": "Der Aussichtspunkt Horned coot in bolivia-volcan-pomerape-relief-v2 blickt auf die hochgelegenen Feuchtgebiete der Region und ist ein außergewöhnlicher Aussichtspunkt für Vogelbeobachter, um diese seltene Andenart zu entdecken.",
+                  "category": "natural",
+                  "coords": [
+                        -69.067229,
+                        -18.065197
+                  ]
+            },
+            {
+                  "name": "Phaq'u Q'awa",
+                  "text": "Phaq'u Q'awa ist ein markanter Vulkangipfel in bolivia-volcan-pomerape-relief-v2, der die karge andine Skyline der umliegenden Sajama-Region dominiert.",
+                  "category": "natural",
+                  "coords": [
+                        -69.069552,
+                        -18.09168
+                  ]
+            },
+            {
+                  "name": "Wila Qullu",
+                  "text": "Der Berggipfel des Wila Qullu, der in bolivia-volcan-pomerape-relief-v2 steil aufragt, weist schroffe, felsige Hänge auf, die Kletterer in den hohen Anden herausfordern.",
+                  "category": "natural",
+                  "coords": [
+                        -69.088215,
+                        -18.112612
+                  ]
+            },
+            {
+                  "name": "Qullqi Warani",
+                  "text": "Qullqi Warani ist ein hoch aufragender Gipfel in bolivia-volcan-pomerape-relief-v2, der unter Alpinisten für seine imposante Höhe und sein anspruchsvolles andines Gelände bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -69.068003,
+                        -18.069587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viscachas",
+                  "text": "A bolivia-volcan-pomerape-relief-v2 területén található Viscachas kilátó széles panorámát nyújt a magasan fekvő vulkanikus tájra, és kiváló hely az őshonos andoki vadvilág megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -69.064718,
+                        -18.062576
+                  ]
+            },
+            {
+                  "name": "Horned coot",
+                  "text": "A régió magasan fekvő vizenyős területeire néző Horned coot kilátó bolivia-volcan-pomerape-relief-v2 területén kivételes megfigyelőhely a madarászok számára, hogy megpillantsák ezt a ritka andoki fajt.",
+                  "category": "natural",
+                  "coords": [
+                        -69.067229,
+                        -18.065197
+                  ]
+            },
+            {
+                  "name": "Phaq'u Q'awa",
+                  "text": "A Phaq'u Q'awa egy kiemelkedő vulkáni csúcs bolivia-volcan-pomerape-relief-v2 területén, amely a környező Sajama régió zord andoki sziluettjét uralja.",
+                  "category": "natural",
+                  "coords": [
+                        -69.069552,
+                        -18.09168
+                  ]
+            },
+            {
+                  "name": "Wila Qullu",
+                  "text": "A bolivia-volcan-pomerape-relief-v2 területén meredeken magasodó Wila Qullu hegycsúcs zord, sziklás lejtőkkel rendelkezik, amelyek kihívást jelentenek a magas Andok hegymászói számára.",
+                  "category": "natural",
+                  "coords": [
+                        -69.088215,
+                        -18.112612
+                  ]
+            },
+            {
+                  "name": "Qullqi Warani",
+                  "text": "A Qullqi Warani egy magasba törő csúcs bolivia-volcan-pomerape-relief-v2 területén, amelyet az alpinisták impozáns magassága és kihívást jelentő andoki terepe miatt ismernek.",
+                  "category": "natural",
+                  "coords": [
+                        -69.068003,
+                        -18.069587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viscachas",
+                  "text": "Punctul de belvedere Viscachas din bolivia-volcan-pomerape-relief-v2 oferă o panoramă vastă a peisajului vulcanic de mare altitudine și este un loc excelent pentru a observa fauna sălbatică andină nativă.",
+                  "category": "natural",
+                  "coords": [
+                        -69.064718,
+                        -18.062576
+                  ]
+            },
+            {
+                  "name": "Horned coot",
+                  "text": "Având vedere la zonele umede de mare altitudine ale regiunii, punctul de observație Horned coot din bolivia-volcan-pomerape-relief-v2 este un loc de excepție pentru ornitologii care doresc să observe această specie rară andină.",
+                  "category": "natural",
+                  "coords": [
+                        -69.067229,
+                        -18.065197
+                  ]
+            },
+            {
+                  "name": "Phaq'u Q'awa",
+                  "text": "Phaq'u Q'awa este un vârf vulcanic proeminent din bolivia-volcan-pomerape-relief-v2, care domină linia orizontului arid andin al regiunii înconjurătoare Sajama.",
+                  "category": "natural",
+                  "coords": [
+                        -69.069552,
+                        -18.09168
+                  ]
+            },
+            {
+                  "name": "Wila Qullu",
+                  "text": "Înălțându-se abrupt în bolivia-volcan-pomerape-relief-v2, vârful montan Wila Qullu prezintă versanți stâncoși și accidentați care pun la încercare alpiniștii din înalții Anzi.",
+                  "category": "natural",
+                  "coords": [
+                        -69.088215,
+                        -18.112612
+                  ]
+            },
+            {
+                  "name": "Qullqi Warani",
+                  "text": "Qullqi Warani este un vârf falnic din bolivia-volcan-pomerape-relief-v2, renumit printre alpiniști pentru altitudinea sa impunătoare și terenul andin dificil.",
+                  "category": "natural",
+                  "coords": [
+                        -69.068003,
+                        -18.069587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viscachas",
+                  "text": "The Viscachas viewpoint in bolivia-volcan-pomerape-relief-v2 offers a sweeping panorama of the high-altitude volcanic landscape and is a prime spot for observing native Andean wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -69.064718,
+                        -18.062576
+                  ]
+            },
+            {
+                  "name": "Horned coot",
+                  "text": "Overlooking the region's high-altitude wetlands, the Horned coot viewpoint in bolivia-volcan-pomerape-relief-v2 is an exceptional vantage point for birdwatchers to spot this rare Andean species.",
+                  "category": "natural",
+                  "coords": [
+                        -69.067229,
+                        -18.065197
+                  ]
+            },
+            {
+                  "name": "Phaq'u Q'awa",
+                  "text": "Phaq'u Q'awa is a prominent volcanic peak in bolivia-volcan-pomerape-relief-v2, dominating the stark Andean skyline of the surrounding Sajama region.",
+                  "category": "natural",
+                  "coords": [
+                        -69.069552,
+                        -18.09168
+                  ]
+            },
+            {
+                  "name": "Wila Qullu",
+                  "text": "Rising steeply in bolivia-volcan-pomerape-relief-v2, the mountain peak of Wila Qullu features rugged, rocky slopes that challenge climbers in the high Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -69.088215,
+                        -18.112612
+                  ]
+            },
+            {
+                  "name": "Qullqi Warani",
+                  "text": "Qullqi Warani is a towering peak in bolivia-volcan-pomerape-relief-v2, renowned among alpinists for its imposing altitude and challenging Andean terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -69.068003,
+                        -18.069587
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-O",
     coords: [-69.1264, -18.1267],
@@ -641,7 +1631,196 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Le sommet culmine à 5 653 mètres au-dessus du niveau de la mer.", "Du côté bolivien, la montagne fait partie de la réserve Eduardo Avaroa.", "Il est considéré comme l'un des points géodésiques les plus importants d'Amérique du Sud.", "La région est presque totalement inhabitée en raison de l'altitude et de la sécheresse."],
     }, image: "/poi-images/bolivia-cerro-zapaleri-relief-v2.webp"},
   {
-    id: "bolivia-acotango-relief-v2",
+    id: "bolivia-acotango-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Umurata",
+                  "text": "Umurata ist ein markanter, erloschener Stratovulkan in den Anden nahe des Acotango-Massivs.",
+                  "category": "natural",
+                  "coords": [
+                        -69.051979,
+                        -18.343153
+                  ]
+            },
+            {
+                  "name": "Ch'iyar Jaqhi",
+                  "text": "Dieser schroffe Andengipfel, dessen Name auf Aymara „schwarze Klippe“ bedeutet, erhebt sich steil in der Vulkanregion.",
+                  "category": "natural",
+                  "coords": [
+                        -69.011529,
+                        -18.356695
+                  ]
+            },
+            {
+                  "name": "Wila Qullu",
+                  "text": "Dieser Berg in den Anden liegt in der Gemeinde Turco und sein Aymara-Name bedeutet treffend „roter Gipfel“.",
+                  "category": "natural",
+                  "coords": [
+                        -68.972506,
+                        -18.402282
+                  ]
+            },
+            {
+                  "name": "Willk'i",
+                  "text": "Dieser hohe Berggipfel in den Anden weist eine markante Geländelücke auf, die seinen Aymara-Namen inspirierte.",
+                  "category": "natural",
+                  "coords": [
+                        -69.022421,
+                        -18.398544
+                  ]
+            },
+            {
+                  "name": "Ari Qullu Phujru",
+                  "text": "Dieser markante Gipfel in den bolivianischen Anden zeichnet sich durch seine scharfe, spitze Form aus, die sich in seinem indigenen Aymara-Namen widerspiegelt.",
+                  "category": "natural",
+                  "coords": [
+                        -68.99294,
+                        -18.454252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Umurata",
+                  "text": "Az Umurata egy kiemelkedő, kialudt rétegvulkán az Andok hegyláncában, az Acotango-masszívum közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -69.051979,
+                        -18.343153
+                  ]
+            },
+            {
+                  "name": "Ch'iyar Jaqhi",
+                  "text": "Ez a zord andoki csúcs, melynek neve aymara nyelven „fekete sziklát” jelent, élesen emelkedik ki a vulkáni régióból.",
+                  "category": "natural",
+                  "coords": [
+                        -69.011529,
+                        -18.356695
+                  ]
+            },
+            {
+                  "name": "Wila Qullu",
+                  "text": "A Turco községben található andoki hegy aymara neve leíróan „vörös csúcsot” jelent.",
+                  "category": "natural",
+                  "coords": [
+                        -68.972506,
+                        -18.402282
+                  ]
+            },
+            {
+                  "name": "Willk'i",
+                  "text": "Ez a magas andoki hegycsúcs egy jellegzetes terepnyílással rendelkezik, amely aymara nevét ihlette.",
+                  "category": "natural",
+                  "coords": [
+                        -69.022421,
+                        -18.398544
+                  ]
+            },
+            {
+                  "name": "Ari Qullu Phujru",
+                  "text": "A bolíviai Andokban emelkedő kiemelkedő csúcsot éles, hegyes csúcsa jellemzi, amely őslakos aymara nevében is tükröződik.",
+                  "category": "natural",
+                  "coords": [
+                        -68.99294,
+                        -18.454252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Umurata",
+                  "text": "Umurata este un proeminent stratovulcan stins situat în Anzi, lângă masivul Acotango.",
+                  "category": "natural",
+                  "coords": [
+                        -69.051979,
+                        -18.343153
+                  ]
+            },
+            {
+                  "name": "Ch'iyar Jaqhi",
+                  "text": "Acest vârf andin accidentat, al cărui nume înseamnă „stâncă neagră” în limba aymara, se înalță abrupt în regiunea vulcanică.",
+                  "category": "natural",
+                  "coords": [
+                        -69.011529,
+                        -18.356695
+                  ]
+            },
+            {
+                  "name": "Wila Qullu",
+                  "text": "Situat în municipalitatea Turco, numele aymara al acestui munte andin se traduce descriptiv prin „vârful roșu”.",
+                  "category": "natural",
+                  "coords": [
+                        -68.972506,
+                        -18.402282
+                  ]
+            },
+            {
+                  "name": "Willk'i",
+                  "text": "Acest vârf montan andin înalt prezintă o breșă distinctivă de teren care a inspirat numele său în limba aymara.",
+                  "category": "natural",
+                  "coords": [
+                        -69.022421,
+                        -18.398544
+                  ]
+            },
+            {
+                  "name": "Ari Qullu Phujru",
+                  "text": "Înălțându-se în Anzii bolivieni, acest vârf proeminent este caracterizat de vârful său ascuțit, reflectat în numele său nativ aymara.",
+                  "category": "natural",
+                  "coords": [
+                        -68.99294,
+                        -18.454252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Umurata",
+                  "text": "Umurata is a prominent extinct stratovolcano peak situated in the Andean cordillera near the Acotango massif.",
+                  "category": "natural",
+                  "coords": [
+                        -69.051979,
+                        -18.343153
+                  ]
+            },
+            {
+                  "name": "Ch'iyar Jaqhi",
+                  "text": "This rugged Andean peak, whose name translates to \"black cliff\" in Aymara, rises sharply in the volcanic region.",
+                  "category": "natural",
+                  "coords": [
+                        -69.011529,
+                        -18.356695
+                  ]
+            },
+            {
+                  "name": "Wila Qullu",
+                  "text": "Located in the Turco municipality, this Andean mountain's Aymara name translates descriptively to \"red peak\".",
+                  "category": "natural",
+                  "coords": [
+                        -68.972506,
+                        -18.402282
+                  ]
+            },
+            {
+                  "name": "Willk'i",
+                  "text": "This elevated Andean mountain peak features a distinctive terrain gap that inspired its Aymara name.",
+                  "category": "natural",
+                  "coords": [
+                        -69.022421,
+                        -18.398544
+                  ]
+            },
+            {
+                  "name": "Ari Qullu Phujru",
+                  "text": "Rising in the Bolivian Andes, this prominent peak is characterized by the sharp, pointed summit reflected in its native Aymara name.",
+                  "category": "natural",
+                  "coords": [
+                        -68.99294,
+                        -18.454252
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-O",
     coords: [-69.0483, -18.3814],
@@ -708,7 +1887,52 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Le sommet atteint une altitude de 6 052 mètres.", "C'est le point culminant du groupe volcanique Quimsachata.", "On peut encore souvent trouver des vestiges des anciens systèmes de transport dans les mines.", "L'ascension est techniquement simple, mais exige de l'endurance à cause de l'altitude."],
     }, image: "/poi-images/bolivia-acotango-relief-v2.webp"},
   {
-    id: "bolivia-cordillera-apolobamba-relief-v2",
+    id: "bolivia-cordillera-apolobamba-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cololo",
+                  "text": "Ein hoch gelegener Gipfel in der Cordillera Apolobamba, der Bergsteiger an seine anspruchsvollen Hänge zieht.",
+                  "category": "natural",
+                  "coords": [
+                        -69.112855,
+                        -14.885821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cololo",
+                  "text": "Egy magasan fekvő csúcs a Cordillera Apolobamba-ban, amely hegymászókat vonz kihívást jelentő lejtőire.",
+                  "category": "natural",
+                  "coords": [
+                        -69.112855,
+                        -14.885821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cololo",
+                  "text": "Un vârf de mare altitudine din Cordillera Apolobamba, atrăgând alpiniști pe pantele sale provocatoare.",
+                  "category": "natural",
+                  "coords": [
+                        -69.112855,
+                        -14.885821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cololo",
+                  "text": "A high-altitude peak in the Cordillera Apolobamba, drawing mountaineers to its challenging slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -69.112855,
+                        -14.885821
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-L",
     coords: [-69.0833, -14.9667],
@@ -842,7 +2066,196 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Le parc national s'étend sur une superficie de plus de 260 000 hectares.", "L'altitude dans le parc varie entre 600 et 2 800 mètres.", "Plus de 200 espèces d'oiseaux ont été recensées dans cette zone encore peu explorée.", "Le parc n'a été officiellement créé qu'en 2004."],
     }, image: "/poi-images/bolivia-serrania-de-inao-relief-v2.webp"},
   {
-    id: "bolivia-valle-de-zongo-relief-v2",
+    id: "bolivia-valle-de-zongo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Llust'a",
+                  "text": "Ein markanter Berggipfel in den Anden, der für sein raues Gelände und seine malerische Hochgebirgslandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -68.158058,
+                        -16.17669
+                  ]
+            },
+            {
+                  "name": "Phisqa Quta",
+                  "text": "Ein hochgelegener Berggipfel in den Anden, der erfahrenen Bergsteigern anspruchsvolles Gelände bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -68.17695,
+                        -16.140578
+                  ]
+            },
+            {
+                  "name": "Turini",
+                  "text": "Ein bemerkenswerter Berggipfel in der Provinz Murillo, der die dramatische Andenlandschaft prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -68.161006,
+                        -16.129288
+                  ]
+            },
+            {
+                  "name": "Cerro Wisk'achani",
+                  "text": "Ein markanter Andengipfel, benannt nach der lokalen Viscacha, der durch steile Hänge und eine raue Ökologie gekennzeichnet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -68.108225,
+                        -16.188349
+                  ]
+            },
+            {
+                  "name": "Wila Jamach'ini",
+                  "text": "Ein majestätischer Berggipfel in den Anden, bekannt für seine überragende Präsenz über die umliegenden Täler.",
+                  "category": "natural",
+                  "coords": [
+                        -68.073192,
+                        -16.172784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Llust'a",
+                  "text": "Egy kiemelkedő andoki hegycsúcs, amely zord terepéről és festői magashegyi környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -68.158058,
+                        -16.17669
+                  ]
+            },
+            {
+                  "name": "Phisqa Quta",
+                  "text": "Egy magasan fekvő hegycsúcs az Andokban, amely kihívást jelentő terepet kínál a tapasztalt hegymászóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -68.17695,
+                        -16.140578
+                  ]
+            },
+            {
+                  "name": "Turini",
+                  "text": "Egy figyelemre méltó hegycsúcs a Murillo tartományban, amely meghatározza a drámai andoki tájat.",
+                  "category": "natural",
+                  "coords": [
+                        -68.161006,
+                        -16.129288
+                  ]
+            },
+            {
+                  "name": "Cerro Wisk'achani",
+                  "text": "Egy jellegzetes andoki csúcs, amelyet a helyi viszkacsáról neveztek el, és meredek lejtők, valamint zord ökológia jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        -68.108225,
+                        -16.188349
+                  ]
+            },
+            {
+                  "name": "Wila Jamach'ini",
+                  "text": "Egy fenséges hegycsúcs az Andokban, amely a környező völgyek fölé magasodó jelenlétéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -68.073192,
+                        -16.172784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Llust'a",
+                  "text": "Un vârf montan proeminent din Anzi, recunoscut pentru terenul său accidentat și peisajul pitoresc de mare altitudine.",
+                  "category": "natural",
+                  "coords": [
+                        -68.158058,
+                        -16.17669
+                  ]
+            },
+            {
+                  "name": "Phisqa Quta",
+                  "text": "Un vârf montan înalt din Anzi, oferind un teren provocator pentru alpiniștii experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        -68.17695,
+                        -16.140578
+                  ]
+            },
+            {
+                  "name": "Turini",
+                  "text": "Un vârf montan notabil în provincia Murillo, caracterizând peisajul andin dramatic.",
+                  "category": "natural",
+                  "coords": [
+                        -68.161006,
+                        -16.129288
+                  ]
+            },
+            {
+                  "name": "Cerro Wisk'achani",
+                  "text": "Un vârf andin distinct numit după vizcașa locală, cu pante abrupte și o ecologie accidentată.",
+                  "category": "natural",
+                  "coords": [
+                        -68.108225,
+                        -16.188349
+                  ]
+            },
+            {
+                  "name": "Wila Jamach'ini",
+                  "text": "Un vârf montan maiestuos din Anzi, recunoscut pentru prezența sa impunătoare asupra văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -68.073192,
+                        -16.172784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Llust'a",
+                  "text": "A prominent Andean mountain peak known for its rugged terrain and scenic high-altitude environment.",
+                  "category": "natural",
+                  "coords": [
+                        -68.158058,
+                        -16.17669
+                  ]
+            },
+            {
+                  "name": "Phisqa Quta",
+                  "text": "An elevated mountain summit in the Andes, offering challenging terrain for experienced climbers.",
+                  "category": "natural",
+                  "coords": [
+                        -68.17695,
+                        -16.140578
+                  ]
+            },
+            {
+                  "name": "Turini",
+                  "text": "A notable mountain peak in the Murillo province, characterizing the dramatic Andean landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -68.161006,
+                        -16.129288
+                  ]
+            },
+            {
+                  "name": "Cerro Wisk'achani",
+                  "text": "A distinct Andean peak named after the local viscacha, featuring steep slopes and rugged ecology.",
+                  "category": "natural",
+                  "coords": [
+                        -68.108225,
+                        -16.188349
+                  ]
+            },
+            {
+                  "name": "Wila Jamach'ini",
+                  "text": "A majestic mountain summit in the Andes, recognized for its towering presence over the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        -68.073192,
+                        -16.172784
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BO-L",
     coords: [-68.1000, -16.1167],
@@ -1040,7 +2453,160 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
     },
   },
   {
-    id: "bolivia-cordillera-de-lipez-relief-v2",
+    id: "bolivia-cordillera-de-lipez-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Campamento Mina Blanca (abandonada)",
+                  "text": "Die verlassenen Ruinen einer ehemaligen hochgelegenen Bergbausiedlung, die den rauen Elementen der andinen Hochebene ausgesetzt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.865741,
+                        -21.865274
+                  ]
+            },
+            {
+                  "name": "ex Estancia Yuraj Khakha",
+                  "text": "Die verfallenden Steinfundamente einer alten Hirtensiedlung tief in der abgelegenen Cordillera de Lípez.",
+                  "category": "historical",
+                  "coords": [
+                        -66.867657,
+                        -21.745091
+                  ]
+            },
+            {
+                  "name": "Antigua Estancia San Antonio de Lípez",
+                  "text": "Die verlassenen, wettergegerbten Überreste eines abgelegenen hochgelegenen Dorfes, das während der kolonialen Bergbauära erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -66.797281,
+                        -21.782645
+                  ]
+            },
+            {
+                  "name": "Capilla de Relave",
+                  "text": "Eine kleine, isolierte christliche Kapelle inmitten der kargen, hochgelegenen Bergbaulandschaften der Cordillera de Lípez.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.74092,
+                        -21.817565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Campamento Mina Blanca (abandonada)",
+                  "text": "Egykori magaslati bányásztelepülés elhagyatott romjai, melyeket az andoki fennsík zord időjárása pusztít.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.865741,
+                        -21.865274
+                  ]
+            },
+            {
+                  "name": "ex Estancia Yuraj Khakha",
+                  "text": "Egy régi pásztortelepülés omladozó kőalapjai, amelyek mélyen a távoli Cordillera de Lípez hegységben találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -66.867657,
+                        -21.745091
+                  ]
+            },
+            {
+                  "name": "Antigua Estancia San Antonio de Lípez",
+                  "text": "Egy távoli magaslati falu elhagyatott, időjárás által megtépázott maradványai, amelyet a gyarmati bányászati korszakban építettek.",
+                  "category": "historical",
+                  "coords": [
+                        -66.797281,
+                        -21.782645
+                  ]
+            },
+            {
+                  "name": "Capilla de Relave",
+                  "text": "Egy apró, elszigetelt keresztény kápolna, amely a Cordillera de Lípez zord, magaslati bányászati tájain áll.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.74092,
+                        -21.817565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Campamento Mina Blanca (abandonada)",
+                  "text": "Ruinele pustii ale unei foste așezări miniere de la mare altitudine, lăsată pradă intemperiilor dure ale platoului andin.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.865741,
+                        -21.865274
+                  ]
+            },
+            {
+                  "name": "ex Estancia Yuraj Khakha",
+                  "text": "Fundațiile de piatră în ruină ale unei vechi așezări pastorale, situate adânc în îndepărtata Cordillera de Lípez.",
+                  "category": "historical",
+                  "coords": [
+                        -66.867657,
+                        -21.745091
+                  ]
+            },
+            {
+                  "name": "Antigua Estancia San Antonio de Lípez",
+                  "text": "Rămășițele abandonate și bătute de vreme ale unui sat izolat situat la mare altitudine, construit în timpul epocii miniere coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        -66.797281,
+                        -21.782645
+                  ]
+            },
+            {
+                  "name": "Capilla de Relave",
+                  "text": "O mică capelă creștină izolată, aflată printre peisajele miniere aspre și la mare altitudine din Cordillera de Lípez.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.74092,
+                        -21.817565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blanca Mine Camp (abandoned)",
+                  "text": "The deserted ruins of a former high-altitude mining settlement left exposed to the harsh elements of the Andean plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.865741,
+                        -21.865274
+                  ]
+            },
+            {
+                  "name": "ex Estancia Yuraj Khakha",
+                  "text": "The crumbling stone foundations of an old pastoral settlement located deep in the remote Cordillera de Lípez.",
+                  "category": "historical",
+                  "coords": [
+                        -66.867657,
+                        -21.745091
+                  ]
+            },
+            {
+                  "name": "Antigua Estancia San Antonio de Lípez",
+                  "text": "The abandoned, weather-beaten remnants of a remote high-altitude village built during the colonial mining era.",
+                  "category": "historical",
+                  "coords": [
+                        -66.797281,
+                        -21.782645
+                  ]
+            },
+            {
+                  "name": "Capilla de Relave",
+                  "text": "A small, isolated Christian chapel standing among the stark, high-altitude mining landscapes of the Cordillera de Lípez.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.74092,
+                        -21.817565
+                  ]
+            }
+      ]
+},
     description: "Sivatagos és hegyvidéki táj Bolívia délnyugati részén.",
     facts: [
       "Sivatagi táj",
@@ -1108,7 +2674,52 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Le plus haut sommet de la chaîne est l'Uturuncu avec 6 008 mètres.", "La région abrite les populations de flamants roses vivant à la plus haute altitude au monde.", "La zone renferme d'énormes réserves de borax et de lithium.", "Les températures nocturnes peuvent descendre en dessous de -30 degrés Celsius en hiver."],
     }, image: "/poi-images/bolivia-cordillera-de-lipez-relief-v2.webp"},
   {
-    id: "bolivia-cerro-guayaques-relief-v2",
+    id: "bolivia-cerro-guayaques-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Guayaques",
+                  "text": "Dieses gewaltige Stratovulkan-System liegt direkt an der hochgelegenen Grenze zwischen Bolivien und Chile.",
+                  "category": "natural",
+                  "coords": [
+                        -67.567386,
+                        -22.898274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Guayaques",
+                  "text": "Ez a hatalmas rétegvulkán-rendszer közvetlenül Bolívia és Chile magasan fekvő határán terül el.",
+                  "category": "natural",
+                  "coords": [
+                        -67.567386,
+                        -22.898274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Guayaques",
+                  "text": "Acest sistem masiv de stratovulcani este situat direct pe granița la mare altitudine dintre Bolivia și Chile.",
+                  "category": "natural",
+                  "coords": [
+                        -67.567386,
+                        -22.898274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Guayaques",
+                  "text": "This massive stratovolcano system lies directly on the high-altitude border between Bolivia and Chile.",
+                  "category": "natural",
+                  "coords": [
+                        -67.567386,
+                        -22.898274
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-P",
     coords: [-67.5750, -22.8958],
@@ -1175,7 +2786,52 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Le point culminant du complexe se situe à 5 598 mètres au-dessus du niveau de la mer.", "Les roches sont principalement composées de dacite, une roche volcanique plus claire.", "La région est totalement inhabitée et se trouve au cœur de la réserve Abaroa.", "De l'obsidienne et d'autres verres volcaniques peuvent être trouvés autour du cône volcanique."],
     }, image: "/poi-images/bolivia-cerro-guayaques-relief-v2.webp"},
   {
-    id: "bolivia-volcan-tata-sabaya-relief-v2",
+    id: "bolivia-volcan-tata-sabaya-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tata Sabaya",
+                  "text": "Dieser dramatische Stratovulkan überragt den trockenen Altiplano und weist steile, von Geröll bedeckte Hänge auf, die unerschrockene Bergsteiger herausfordern.",
+                  "category": "natural",
+                  "coords": [
+                        -68.523595,
+                        -19.135671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tata Sabaya",
+                  "text": "A száraz Altiplano fölé tornyosuló drámai rétegvulkán meredek, törmelékkel borított lejtőivel várja az elszánt hegymászókat.",
+                  "category": "natural",
+                  "coords": [
+                        -68.523595,
+                        -19.135671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tata Sabaya",
+                  "text": "Dominând Altiplano-ul arid, acest stratovulcan dramatic prezintă pante abrupte, acoperite cu grohotiș, care îi provoacă pe alpiniștii îndrăzneți.",
+                  "category": "natural",
+                  "coords": [
+                        -68.523595,
+                        -19.135671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tata Sabaya",
+                  "text": "Towering over the arid Altiplano, this dramatic stratovolcano features steep, scree-covered slopes that challenge intrepid mountaineers.",
+                  "category": "natural",
+                  "coords": [
+                        -68.523595,
+                        -19.135671
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-O",
     coords: [-68.5283, -19.1317],
@@ -1443,7 +3099,124 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Les roches de la chaîne de montagnes ont plus d'un milliard d'années.", "Le point culminant est le Cerro Chochís (1 290 m), une tour rocheuse distinctive.", "De nombreuses grottes abritent des peintures rupestres préhistoriques.", "La végétation varie des buissons secs à la forêt galerie dense."],
     }, image: "/poi-images/bolivia-serrania-de-chiquitos-relief-v2.webp"},
   {
-    id: "bolivia-volcan-ollague-relief-v2",
+    id: "bolivia-volcan-ollague-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Huanaco",
+                  "text": "Mit einer Höhe von etwa 4.700 Metern ist dieser schroffe Gipfel ein markantes Merkmal der bergigen Potosí-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -68.094567,
+                        -21.326558
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Ollagüe (Este)",
+                  "text": "Dieser hochgelegene Aussichtspunkt bietet einen unverbauten, weiten Blick auf den gewaltigen, noch immer aktiven Stratovulkan Ollagüe.",
+                  "category": "natural",
+                  "coords": [
+                        -68.174083,
+                        -21.312826
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Ollagüe (Noroeste)",
+                  "text": "Dieser felsige Aussichtspunkt im Nordwesten ist ideal, um die aktiven Fumarolen zu beobachten, die Dampf aus den oberen Hängen des Vulkans ausstoßen.",
+                  "category": "natural",
+                  "coords": [
+                        -68.185959,
+                        -21.306543
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Huanaco",
+                  "text": "A nagyjából 4700 méteres magasságot elérő zord hegycsúcs a hegyvidéki Potosí régió tájának meghatározó eleme.",
+                  "category": "natural",
+                  "coords": [
+                        -68.094567,
+                        -21.326558
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Ollagüe (Este)",
+                  "text": "Ez a magasan fekvő kilátó zavartalan, lenyűgöző kilátást nyújt a hatalmas, ma is aktív Ollagüe rétegvulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        -68.174083,
+                        -21.312826
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Ollagüe (Noroeste)",
+                  "text": "Az északnyugati fekvésű sziklás kilátópont ideális a vulkán felső lejtőiről gőzt kibocsátó aktív fumarolák megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -68.185959,
+                        -21.306543
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Huanaco",
+                  "text": "Atingând o altitudine de aproximativ 4.700 de metri, acest vârf stâncos este o caracteristică proeminentă a peisajului muntos din Potosí.",
+                  "category": "natural",
+                  "coords": [
+                        -68.094567,
+                        -21.326558
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Ollagüe (Este)",
+                  "text": "Acest punct de belvedere situat la mare altitudine oferă vederi neobstrucționate și ample asupra masivului stratovulcan Ollagüe, care este încă activ.",
+                  "category": "natural",
+                  "coords": [
+                        -68.174083,
+                        -21.312826
+                  ]
+            },
+            {
+                  "name": "Mirador del Cráter del Volcán Ollagüe (Noroeste)",
+                  "text": "Poziționat la nord-vest, acest punct de observație stâncos este ideal pentru a vedea fumarolele active care emană abur de pe versanții superiori ai vulcanului.",
+                  "category": "natural",
+                  "coords": [
+                        -68.185959,
+                        -21.306543
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wanaku",
+                  "text": "Reaching roughly 4,700 meters in elevation, this rugged peak is a prominent feature of the mountainous Potosí landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -68.094567,
+                        -21.326558
+                  ]
+            },
+            {
+                  "name": "Ollagüe Volcano's  Belveder",
+                  "text": "This high-altitude lookout provides unobstructed, sweeping views of the massive, still-active Ollagüe stratovolcano.",
+                  "category": "natural",
+                  "coords": [
+                        -68.174083,
+                        -21.312826
+                  ]
+            },
+            {
+                  "name": "Ollagüe Volcano's Belveder (Northwest)",
+                  "text": "Positioned to the northwest, this rocky vantage point is ideal for spotting the active fumaroles emitting steam from the volcano's upper slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -68.185959,
+                        -21.306543
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "BO-P",
     coords: [-68.1683, -21.3025],
@@ -1510,7 +3283,520 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp",
       fr: ["Le sommet culmine à une altitude de 5 868 mètres.", "Au nord du volcan se trouve le Salar de Ollagüe, une petite étendue de sel.", "D'anciennes pistes minières montent encore aujourd'hui très haut sur la montagne.", "La température des gaz s'échappant des fumerolles peut atteindre 90 degrés Celsius."],
     }, image: "/poi-images/bolivia-volcan-ollague-relief-v2.webp"},
   {
-    id: "bolivia-serrania-de-santiago-relief-v2",
+    id: "bolivia-serrania-de-santiago-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Segundo mirador",
+                  "text": "Dieser zweite ausgewiesene Aussichtspunkt bietet weite Panoramablicke über das umliegende Bergrelief der Serranía.",
+                  "category": "natural",
+                  "coords": [
+                        -59.571048,
+                        -18.322785
+                  ]
+            },
+            {
+                  "name": "Cuarto mirador y formaciones de piedra",
+                  "text": "Dieser vierte Aussichtspunkt zeichnet sich durch faszinierende natürliche Steinengebilde aus, die die Landschaft überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        -59.565265,
+                        -18.325724
+                  ]
+            },
+            {
+                  "name": "La punta",
+                  "text": "Eine markante, malerische Gipfelattraktion, die einen prominenten, erhöhten Aussichtspunkt in dem zerklüfteten Gelände bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.556926,
+                        -18.33143
+                  ]
+            },
+            {
+                  "name": "Cuevas de Miserendino",
+                  "text": "Diese natürlichen Felshöhlen dienen als abenteuerliche geologische Attraktion in der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.550755,
+                        -18.346386
+                  ]
+            },
+            {
+                  "name": "Pinturas rupestres Juan Miserendino",
+                  "text": "Diese archäologische Stätte schützt alte Felsmalereien, die von indigenen Gruppen an den Höhlenwänden hinterlassen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -59.550671,
+                        -18.348153
+                  ]
+            },
+            {
+                  "name": "Las Cachuelas I",
+                  "text": "Eine Naturattraktion, die von felsigen Stromschnellen geprägt ist, die kleine, malerische Wasserfälle bilden.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.602586,
+                        -18.351937
+                  ]
+            },
+            {
+                  "name": "Las Cachuelas II",
+                  "text": "Der zweite Abschnitt dieser malerischen felsigen Stromschnellen bietet einen weiteren beeindruckenden Blick auf das fließende Gewässer.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.605731,
+                        -18.355655
+                  ]
+            },
+            {
+                  "name": "Sendero Las Posas",
+                  "text": "Ein reizvoller Wanderweg, der die Besucher durch die Landschaft zu einer Reihe natürlicher Felsenbecken führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.605233,
+                        -18.344616
+                  ]
+            },
+            {
+                  "name": "Primer mirador",
+                  "text": "Dieser erste malerische Aussichtspunkt ist der erste ausgewiesene Aussichtspunkt entlang der zerklüfteten Bergroute.",
+                  "category": "natural",
+                  "coords": [
+                        -59.573298,
+                        -18.32108
+                  ]
+            },
+            {
+                  "name": "Pinturas Rupestres de Motacú",
+                  "text": "An dieser Attraktion können Besucher historische indigene Felsmalereien bewundern, die auf den Steinflächen erhalten geblieben sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.667212,
+                        -18.292424
+                  ]
+            },
+            {
+                  "name": "Soledad",
+                  "text": "Diese lokale Naturattraktion ist für ihre isolierte, friedliche Lage in der Wildnis bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.58716,
+                        -18.36922
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santiago de Chiquitos",
+                  "text": "Diese christliche Kirche ist ein zentrales religiöses Gebäude, das der historisch bedeutsamen Siedlung Santiago de Chiquitos dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.598594,
+                        -18.339503
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Eine lokale christliche evangelikale Gemeinde, die sich in der Region Chiquitania versammelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.597559,
+                        -18.340266
+                  ]
+            },
+            {
+                  "name": "Capilla Barrio Santa Rosa",
+                  "text": "Diese christliche Kapelle dient den religiösen Bedürfnissen der Bewohner des Viertels Santa Rosa.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.59158,
+                        -18.335598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Segundo mirador",
+                  "text": "Ez a második kijelölt kilátó lenyűgöző panorámát nyújt a Serranía környező hegyvidéki domborzatára.",
+                  "category": "natural",
+                  "coords": [
+                        -59.571048,
+                        -18.322785
+                  ]
+            },
+            {
+                  "name": "Cuarto mirador y formaciones de piedra",
+                  "text": "Ezt a negyedik kilátópontot a táj fölé magasodó lenyűgöző természetes sziklaalakzatok teszik különlegessé.",
+                  "category": "natural",
+                  "coords": [
+                        -59.565265,
+                        -18.325724
+                  ]
+            },
+            {
+                  "name": "La punta",
+                  "text": "Egy feltűnő, festői hegycsúcs-látványosság, amely kiemelkedő, magaslati kilátópontot nyújt a zord terepen.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.556926,
+                        -18.33143
+                  ]
+            },
+            {
+                  "name": "Cuevas de Miserendino",
+                  "text": "Ezek a természetes sziklabarlangok kalandos geológiai látványosságként szolgálnak a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.550755,
+                        -18.346386
+                  ]
+            },
+            {
+                  "name": "Pinturas rupestres Juan Miserendino",
+                  "text": "Ez a régészeti lelőhely az őslakos csoportok által a barlangfalakon hagyott ősi sziklafestményeket védi.",
+                  "category": "historical",
+                  "coords": [
+                        -59.550671,
+                        -18.348153
+                  ]
+            },
+            {
+                  "name": "Las Cachuelas I",
+                  "text": "Sziklás folyami zuhatagok jellemezte természeti látványosság, amelyek kis, festői vízeséseket hoznak létre.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.602586,
+                        -18.351937
+                  ]
+            },
+            {
+                  "name": "Las Cachuelas II",
+                  "text": "Ezeknek a festői sziklás zuhatagoknak a második szakasza újabb lenyűgöző kilátást nyújt a folyó vizére.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.605731,
+                        -18.355655
+                  ]
+            },
+            {
+                  "name": "Sendero Las Posas",
+                  "text": "Egy túraútvonal-látványosság, amely a látogatókat a tájon keresztül természetes sziklamedencék sorozatához vezeti.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.605233,
+                        -18.344616
+                  ]
+            },
+            {
+                  "name": "Primer mirador",
+                  "text": "Ez a kezdeti festői kilátó az első kijelölt kilátópont a zord hegyi útvonalon.",
+                  "category": "natural",
+                  "coords": [
+                        -59.573298,
+                        -18.32108
+                  ]
+            },
+            {
+                  "name": "Pinturas Rupestres de Motacú",
+                  "text": "A látogatók ezen a látványosságon a kőfelületeken megőrzött történelmi őslakos sziklaművészetet figyelhetik meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.667212,
+                        -18.292424
+                  ]
+            },
+            {
+                  "name": "Soledad",
+                  "text": "Ez a helyi természeti látványosság elszigetelt, békés vadonbeli környezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.58716,
+                        -18.36922
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santiago de Chiquitos",
+                  "text": "Ez a keresztény templom a történelmileg jelentős Santiago de Chiquitos települést szolgáló központi vallási épület.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.598594,
+                        -18.339503
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "Helyi keresztény evangéliumi gyülekezet a Chiquitania régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.597559,
+                        -18.340266
+                  ]
+            },
+            {
+                  "name": "Capilla Barrio Santa Rosa",
+                  "text": "Ez a keresztény kápolna a Santa Rosa negyedben élő lakosok vallási igényeit szolgálja ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.59158,
+                        -18.335598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Segundo mirador",
+                  "text": "Acest al doilea punct de belvedere amenajat oferă panorame vaste asupra reliefului montan înconjurător al Serranía.",
+                  "category": "natural",
+                  "coords": [
+                        -59.571048,
+                        -18.322785
+                  ]
+            },
+            {
+                  "name": "Cuarto mirador y formaciones de piedra",
+                  "text": "Acest al patrulea punct de observație se distinge prin fascinantele sale formațiuni de piatră naturală care domină peisajul.",
+                  "category": "natural",
+                  "coords": [
+                        -59.565265,
+                        -18.325724
+                  ]
+            },
+            {
+                  "name": "La punta",
+                  "text": "O atracție impresionantă sub formă de vârf montan care oferă un punct de belvedere proeminent și înalt în terenul accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.556926,
+                        -18.33143
+                  ]
+            },
+            {
+                  "name": "Cuevas de Miserendino",
+                  "text": "Aceste peșteri naturale de piatră servesc ca o atracție geologică aventuroasă în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.550755,
+                        -18.346386
+                  ]
+            },
+            {
+                  "name": "Pinturas rupestres Juan Miserendino",
+                  "text": "Acest sit arheologic protejează picturi rupestre antice lăsate de grupurile indigene pe pereții peșterii.",
+                  "category": "historical",
+                  "coords": [
+                        -59.550671,
+                        -18.348153
+                  ]
+            },
+            {
+                  "name": "Las Cachuelas I",
+                  "text": "O atracție naturală caracterizată de praguri stâncoase ale râului care creează mici cascade pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.602586,
+                        -18.351937
+                  ]
+            },
+            {
+                  "name": "Las Cachuelas II",
+                  "text": "A doua secțiune a acestor praguri stâncoase pitorești oferă o altă vedere impresionantă a apelor curgătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.605731,
+                        -18.355655
+                  ]
+            },
+            {
+                  "name": "Sendero Las Posas",
+                  "text": "Un traseu de drumeție care conduce vizitatorii prin peisaj către o serie de piscine naturale din stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.605233,
+                        -18.344616
+                  ]
+            },
+            {
+                  "name": "Primer mirador",
+                  "text": "Acest prim punct de observare pitoresc este primul punct de belvedere desemnat de-a lungul traseului montan accidentat.",
+                  "category": "natural",
+                  "coords": [
+                        -59.573298,
+                        -18.32108
+                  ]
+            },
+            {
+                  "name": "Pinturas Rupestres de Motacú",
+                  "text": "Vizitatorii pot observa arta rupestră indigenă istorică păstrată pe suprafețele de piatră de la această atracție.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.667212,
+                        -18.292424
+                  ]
+            },
+            {
+                  "name": "Soledad",
+                  "text": "Această atracție naturală locală este cunoscută pentru cadrul său izolat și liniștit în sălbăticie.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.58716,
+                        -18.36922
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santiago de Chiquitos",
+                  "text": "Această biserică creștină este o clădire religioasă centrală care deservește așezarea de importanță istorică Santiago de Chiquitos.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.598594,
+                        -18.339503
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "O congregație evanghelică creștină locală care se adună în regiunea Chiquitania.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.597559,
+                        -18.340266
+                  ]
+            },
+            {
+                  "name": "Capilla Barrio Santa Rosa",
+                  "text": "Această capelă creștină deservește nevoile religioase ale locuitorilor care trăiesc în cartierul Santa Rosa.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.59158,
+                        -18.335598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Segundo mirador",
+                  "text": "This second designated viewpoint offers sweeping panoramas over the surrounding mountainous relief of the Serranía.",
+                  "category": "natural",
+                  "coords": [
+                        -59.571048,
+                        -18.322785
+                  ]
+            },
+            {
+                  "name": "Cuarto mirador y formaciones de piedra",
+                  "text": "This fourth vantage point is distinguished by its fascinating natural stone formations overlooking the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -59.565265,
+                        -18.325724
+                  ]
+            },
+            {
+                  "name": "La punta",
+                  "text": "A striking scenic peak attraction that provides a prominent elevated viewpoint within the rugged terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.556926,
+                        -18.33143
+                  ]
+            },
+            {
+                  "name": "Cuevas de Miserendino",
+                  "text": "These natural rock caves serve as an adventurous geological attraction in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.550755,
+                        -18.346386
+                  ]
+            },
+            {
+                  "name": "Pinturas rupestres Juan Miserendino",
+                  "text": "This archaeological site protects ancient rock paintings left by indigenous groups on the cave walls.",
+                  "category": "historical",
+                  "coords": [
+                        -59.550671,
+                        -18.348153
+                  ]
+            },
+            {
+                  "name": "Las Cachuelas I",
+                  "text": "A natural attraction characterized by rocky river rapids that create small, scenic waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.602586,
+                        -18.351937
+                  ]
+            },
+            {
+                  "name": "Las Cachuelas II",
+                  "text": "The second section of these scenic rocky rapids provides another striking view of the flowing waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.605731,
+                        -18.355655
+                  ]
+            },
+            {
+                  "name": "Sendero Las Posas",
+                  "text": "A hiking trail attraction that leads visitors through the landscape toward a series of natural rock pools.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.605233,
+                        -18.344616
+                  ]
+            },
+            {
+                  "name": "Primer mirador",
+                  "text": "This initial scenic overlook is the first designated viewpoint along the rugged mountain route.",
+                  "category": "natural",
+                  "coords": [
+                        -59.573298,
+                        -18.32108
+                  ]
+            },
+            {
+                  "name": "Pinturas Rupestres de Motacú",
+                  "text": "Visitors can observe historic indigenous rock art preserved on the stone surfaces at this attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.667212,
+                        -18.292424
+                  ]
+            },
+            {
+                  "name": "Soledad",
+                  "text": "This local natural attraction is known for its isolated, peaceful setting in the wilderness.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.58716,
+                        -18.36922
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santiago de Chiquitos",
+                  "text": "This Christian church is a central religious building serving the historically significant settlement of Santiago de Chiquitos.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.598594,
+                        -18.339503
+                  ]
+            },
+            {
+                  "name": "Iglesia Evangélica",
+                  "text": "A local Christian evangelical congregation gathering in the Chiquitania region.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.597559,
+                        -18.340266
+                  ]
+            },
+            {
+                  "name": "Capilla Barrio Santa Rosa",
+                  "text": "This Christian chapel serves the religious needs of the residents living in the Santa Rosa neighborhood.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.59158,
+                        -18.335598
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "BO-S",
     coords: [-59.6000, -18.3000],

@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const venezuelaNatureV2: POI[] = [
 
   {
-    id: "venezuela-salto-angel-nature-v2",
+    id: "venezuela-salto-angel-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador El Pascualito",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die umliegende Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -62.515463,
+                        5.976521
+                  ]
+            },
+            {
+                  "name": "Mirador Salto Ángel",
+                  "text": "Ein Aussichtspunkt, der einen malerischen Blick auf den Salto Ángel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -62.529948,
+                        5.967295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador El Pascualito",
+                  "text": "Festői kilátó, amely a környező természeti tájra nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        -62.515463,
+                        5.976521
+                  ]
+            },
+            {
+                  "name": "Mirador Salto Ángel",
+                  "text": "Egy megfigyelőpont, ahonnan festői kilátás nyílik az Angel-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -62.529948,
+                        5.967295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador El Pascualito",
+                  "text": "Un punct de belvedere panoramic care oferă priveliști ale peisajului natural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -62.515463,
+                        5.976521
+                  ]
+            },
+            {
+                  "name": "Mirador Salto Ángel",
+                  "text": "Un punct de observație care oferă priveliști pitorești către Cascada Angel.",
+                  "category": "natural",
+                  "coords": [
+                        -62.529948,
+                        5.967295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador El Pascualito",
+                  "text": "A scenic viewpoint offering vistas of the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -62.515463,
+                        5.976521
+                  ]
+            },
+            {
+                  "name": "Mirador Salto Ángel",
+                  "text": "An observation point providing scenic views towards the Angel Falls.",
+                  "category": "natural",
+                  "coords": [
+                        -62.529948,
+                        5.967295
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "landmark",
     name: { de: "Angel Falls", hu: "Angel-vízesés", ro: "Cascada Angel", en: "Angel Falls" },
@@ -183,7 +264,52 @@ export const venezuelaNatureV2: POI[] = [
     image: "/poi-images/venezuela-medanos-de-coro-nature-v2.webp",
   },
   {
-    id: "venezuela-pico-humboldt-nature-v2",
+    id: "venezuela-pico-humboldt-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Bonpland",
+                  "text": "Der nach dem Botaniker Aimé Bonpland benannte Berg ist der Zwillingsgipfel des Pico Humboldt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.00428,
+                        8.542669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Bonpland",
+                  "text": "Az Aimé Bonpland botanikusról elnevezett hegy a Pico Humboldt ikercsúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -71.00428,
+                        8.542669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Bonpland",
+                  "text": "Numit după botanistul Aimé Bonpland, acest munte este vârful geamăn al lui Pico Humboldt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.00428,
+                        8.542669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Bonpland",
+                  "text": "Named after the botanist Aimé Bonpland, this mountain is the twin peak of Pico Humboldt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.00428,
+                        8.542669
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico Humboldt", hu: "Pico Humboldt", ro: "Pico Humboldt", en: "Pico Humboldt" },
@@ -228,7 +354,376 @@ export const venezuelaNatureV2: POI[] = [
     image: "/poi-images/venezuela-pico-humboldt-nature-v2.webp",
   },
   {
-    id: "venezuela-parque-henry-pittier-nature-v2",
+    id: "venezuela-parque-henry-pittier-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Torreón de El Limón",
+                  "text": "Ein historischer Turm in El Limón, der als Überrest einer alten Zuckerrohrmühle an die koloniale Vergangenheit erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -67.630855,
+                        10.296392
+                  ]
+            },
+            {
+                  "name": "Cerro Las Delicias",
+                  "text": "Ein Gipfel im Henri-Pittier-Nationalpark, der einen weiten Blick über das Tal von Maracay bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -67.572033,
+                        10.306074
+                  ]
+            },
+            {
+                  "name": "Cerro Chimborazo",
+                  "text": "Ein markanter Berg im Küstengebirge, umgeben von der üppigen Vegetation des Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        -67.633252,
+                        10.366299
+                  ]
+            },
+            {
+                  "name": "Pico Palmarito",
+                  "text": "Dieser Gipfel liegt inmitten der Nebelwälder und ist ein beliebtes Ziel für Wanderer im Henri-Pittier-Park.",
+                  "category": "natural",
+                  "coords": [
+                        -67.554653,
+                        10.362985
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen del Carmen",
+                  "text": "Eine kleine christliche Kirche im Parkgebiet, die oft von der lokalen Gemeinde für Gottesdienste genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.670207,
+                        10.297257
+                  ]
+            },
+            {
+                  "name": "CAPILLA LA CRUZ",
+                  "text": "Eine schlichte Kapelle in der Nähe der Naturpfade, die als Ort der Ruhe und Besinnung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.634454,
+                        10.306971
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "Ein Königreichssaal der Zeugen Jehovas, der für religiöse Versammlungen in der Region genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -67.635961,
+                        10.302158
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "Eine katholische Kirche im Henri-Pittier-Gebiet, bekannt für ihre Rolle im spirituellen Leben der umliegenden Dörfer.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.630123,
+                        10.301552
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - Aguas de Vida",
+                  "text": "Ein christliches Zentrum im Nationalparkgebiet, das sich auf religiöse Lehren und Gemeinschaftsdienste konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.632155,
+                        10.296697
+                  ]
+            },
+            {
+                  "name": "Iglesia Sagrado Corazón de Jesús",
+                  "text": "Eine der Herz-Jesu-Verehrung gewidmete Kirche, die ein Anlaufpunkt für Gläubige im Bergland ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.558037,
+                        10.314747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torreón de El Limón",
+                  "text": "Történelmi torony El Limónban, amely egy régi cukornádmalom maradványaként a gyarmati múltra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -67.630855,
+                        10.296392
+                  ]
+            },
+            {
+                  "name": "Cerro Las Delicias",
+                  "text": "A Henri Pittier Nemzeti Park egyik csúcsa, amely tágas kilátást nyújt a Maracay-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -67.572033,
+                        10.306074
+                  ]
+            },
+            {
+                  "name": "Cerro Chimborazo",
+                  "text": "Jellegzetes hegy a tengerparti hegységben, a nemzeti park buja növényzetével körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -67.633252,
+                        10.366299
+                  ]
+            },
+            {
+                  "name": "Pico Palmarito",
+                  "text": "A köderdők között fekvő csúcs a túrázók kedvelt célpontja a Henri Pittier parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -67.554653,
+                        10.362985
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen del Carmen",
+                  "text": "Kicsi keresztény templom a park területén, amelyet a helyi közösség gyakran használ istentiszteletekre.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.670207,
+                        10.297257
+                  ]
+            },
+            {
+                  "name": "CAPILLA LA CRUZ",
+                  "text": "Egyszerű kápolna a tanösvények közelében, amely a nyugalom és az elmélkedés helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.634454,
+                        10.306971
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "Jehova Tanúi királyságterme, amelyet a régió vallási összejöveteleire használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -67.635961,
+                        10.302158
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "Katolikus templom a Henri Pittier területén, amely a környező falvak spirituális életében játszott szerepéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.630123,
+                        10.301552
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - Aguas de Vida",
+                  "text": "Keresztény központ a nemzeti park területén, amely a vallási tanításokra és a közösségi szolgálatra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.632155,
+                        10.296697
+                  ]
+            },
+            {
+                  "name": "Iglesia Sagrado Corazón de Jesús",
+                  "text": "A Jézus Szíve-tiszteletnek szentelt templom, amely a hegyvidéki hívők egyik gyülekezőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.558037,
+                        10.314747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Torreón de El Limón",
+                  "text": "Un turn istoric în El Limón, care servește ca vestigiu al unei vechi mori de trestie de zahăr, amintind de trecutul colonial.",
+                  "category": "historical",
+                  "coords": [
+                        -67.630855,
+                        10.296392
+                  ]
+            },
+            {
+                  "name": "Cerro Las Delicias",
+                  "text": "Un vârf din Parcul Național Henri Pittier care oferă o vedere panoramică asupra văii Maracay.",
+                  "category": "natural",
+                  "coords": [
+                        -67.572033,
+                        10.306074
+                  ]
+            },
+            {
+                  "name": "Cerro Chimborazo",
+                  "text": "Un munte distinctiv în lanțul muntos de coastă, înconjurat de vegetația luxuriantă a parcului național.",
+                  "category": "natural",
+                  "coords": [
+                        -67.633252,
+                        10.366299
+                  ]
+            },
+            {
+                  "name": "Pico Palmarito",
+                  "text": "Situat printre pădurile tropicale, acest vârf este o destinație populară pentru drumeții din parcul Henri Pittier.",
+                  "category": "natural",
+                  "coords": [
+                        -67.554653,
+                        10.362985
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen del Carmen",
+                  "text": "O mică biserică creștină din zona parcului, folosită adesea de comunitatea locală pentru servicii religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.670207,
+                        10.297257
+                  ]
+            },
+            {
+                  "name": "CAPILLA LA CRUZ",
+                  "text": "O capelă simplă lângă traseele naturale, servind ca loc de liniște și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.634454,
+                        10.306971
+                  ]
+            },
+            {
+                  "name": "Salon del Reino de los Testigos de Jehová",
+                  "text": "O Sală a Regatului a Martorilor lui Iehova, folosită pentru adunări religioase în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -67.635961,
+                        10.302158
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "O biserică catolică din zona Henri Pittier, cunoscută pentru rolul său în viața spirituală a satelor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.630123,
+                        10.301552
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - Aguas de Vida",
+                  "text": "Un centru creștin din zona parcului național, axat pe învățături religioase și servicii comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.632155,
+                        10.296697
+                  ]
+            },
+            {
+                  "name": "Iglesia Sagrado Corazón de Jesús",
+                  "text": "O biserică dedicată cultului Inimii lui Isus, fiind un punct de întâlnire pentru credincioșii din zona montană.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.558037,
+                        10.314747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torreón de El Limón",
+                  "text": "A historic tower in El Limón that serves as a remnant of an old sugar mill, recalling the colonial past.",
+                  "category": "historical",
+                  "coords": [
+                        -67.630855,
+                        10.296392
+                  ]
+            },
+            {
+                  "name": "Cerro Las Delicias",
+                  "text": "A peak in the Henri Pittier National Park offering expansive views over the Maracay valley.",
+                  "category": "natural",
+                  "coords": [
+                        -67.572033,
+                        10.306074
+                  ]
+            },
+            {
+                  "name": "Cerro Chimborazo",
+                  "text": "A distinctive mountain in the coastal range, surrounded by the lush vegetation of the national park.",
+                  "category": "natural",
+                  "coords": [
+                        -67.633252,
+                        10.366299
+                  ]
+            },
+            {
+                  "name": "Pico Palmarito",
+                  "text": "Located among the cloud forests, this peak is a popular destination for hikers in the Henri Pittier park.",
+                  "category": "natural",
+                  "coords": [
+                        -67.554653,
+                        10.362985
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen del Carmen",
+                  "text": "A small Christian church in the park area, often used by the local community for worship.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.670207,
+                        10.297257
+                  ]
+            },
+            {
+                  "name": "CAPILLA LA CRUZ",
+                  "text": "A simple chapel near the nature trails, serving as a place of quiet and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.634454,
+                        10.306971
+                  ]
+            },
+            {
+                  "name": "Hall of the Kingdom JW",
+                  "text": "A Kingdom Hall of Jehovah's Witnesses used for religious gatherings in the region.",
+                  "category": "religious",
+                  "coords": [
+                        -67.635961,
+                        10.302158
+                  ]
+            },
+            {
+                  "name": "Iglesia La Milagrosa",
+                  "text": "A Catholic church in the Henri Pittier area, known for its role in the spiritual life of surrounding villages.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.630123,
+                        10.301552
+                  ]
+            },
+            {
+                  "name": "Don Divino Internacional - Aguas de Vida",
+                  "text": "A Christian center in the national park area focusing on religious teachings and community services.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.632155,
+                        10.296697
+                  ]
+            },
+            {
+                  "name": "Iglesia Sagrado Corazón de Jesús",
+                  "text": "A church dedicated to the Sacred Heart of Jesus, serving as a hub for believers in the highland area.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.558037,
+                        10.314747
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "park",
     name: { de: "Henry Pittier Nationalpark", hu: "Henry Pittier Nemzeti Park", ro: "Parcul Național Henry Pittier", en: "Henry Pittier National Park" },
@@ -318,7 +813,952 @@ export const venezuelaNatureV2: POI[] = [
     image: "/poi-images/venezuela-peninsula-de-paria-nature-v2.webp",
   },
   {
-    id: "venezuela-isla-margarita-nature-v2",
+    id: "venezuela-isla-margarita-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa La Guardia",
+                  "text": "Ein riesiger Strand am nördlichen Isthmus, der für seine starken Winde und hohen Wellen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.021806,
+                        11.000606
+                  ]
+            },
+            {
+                  "name": "Playa Puntofino",
+                  "text": "Ein ruhiger Küstenstreifen mit Blick auf die umliegenden trockenen tropischen Hügel der Insel.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.020547,
+                        11.002777
+                  ]
+            },
+            {
+                  "name": "Cerro Guaraguao",
+                  "text": "Ein Küstengipfel, der einen strategischen Aussichtspunkt über die Stadt Porlamar und das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -63.948927,
+                        10.987074
+                  ]
+            },
+            {
+                  "name": "Cerro Las Minas",
+                  "text": "Dieser Gipfel ist der höchste Punkt der Halbinsel Macanao auf der Insel Margarita.",
+                  "category": "natural",
+                  "coords": [
+                        -63.937769,
+                        10.992297
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Bolivar",
+                  "text": "Ein lokales Kulturzentrum in der historischen Hafenstadt Juan Griego.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.941752,
+                        11.048782
+                  ]
+            },
+            {
+                  "name": "Mirador la Galera",
+                  "text": "Ein Aussichtspunkt über der Bucht von Juan Griego, der für seine malerischen Sonnenuntergänge bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -63.977483,
+                        11.087103
+                  ]
+            },
+            {
+                  "name": "Teatro Simón Bolívar",
+                  "text": "Ein modernes Theater im Zentrum von Juan Griego, das als kultureller Treffpunkt dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.964691,
+                        11.080032
+                  ]
+            },
+            {
+                  "name": "Playa La Pared",
+                  "text": "Ein abgelegener Strand an der Nordküste von Macanao, der für seine rötlichen Klippen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.071088,
+                        10.972767
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura San Juan Bautista",
+                  "text": "Ein traditionelles Kulturhaus im landwirtschaftlich geprägten Landesinneren bei San Juan Bautista.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.945788,
+                        11.014304
+                  ]
+            },
+            {
+                  "name": "Playa Juan Griego",
+                  "text": "Ein städtischer Strand in Juan Griego, an dem bunte Fischerboote im flachen Wasser liegen.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.97287,
+                        11.083151
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Francisco Lárez Granado",
+                  "text": "Ein modernes Gebäude in Juan Griego, das Kunstausstellungen und lokale Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.968719,
+                        11.083068
+                  ]
+            },
+            {
+                  "name": "Playa Taguantar",
+                  "text": "Ein wilder Küstenabschnitt mit rauem Wellengang an der Nordwestseite der Insel.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.989988,
+                        11.070061
+                  ]
+            },
+            {
+                  "name": "Playa Maria Libre",
+                  "text": "Ein ruhiger, weniger besuchter Sandstrand nördlich der Bucht von Juan Griego.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.012318,
+                        11.063995
+                  ]
+            },
+            {
+                  "name": "Museo Pueblos de Margarita",
+                  "text": "Ein Freilichtmuseum, das die traditionelle Architektur und das Dorfleben der Inselbewohner nachbildet.",
+                  "category": "museum",
+                  "coords": [
+                        -64.006539,
+                        11.065349
+                  ]
+            },
+            {
+                  "name": "Playa Guiriguire",
+                  "text": "Ein kleiner Fischerstrand an der Nordküste, der eine ruhige Atmosphäre abseits des Tourismus bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.007521,
+                        11.0669
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová.",
+                  "text": "Ein moderner Gemeindesaal der Zeugen Jehovas in einem Wohnviertel der Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.925554,
+                        10.957419
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa de Lima y Casa Parroquial",
+                  "text": "Eine katholische Pfarrkirche mit einer angrenzenden Residenz in der Ortschaft Villa Rosa.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.926463,
+                        10.951129
+                  ]
+            },
+            {
+                  "name": "Capilla María Auxiliadora",
+                  "text": "Eine kleine Nachbarschaftskapelle, die der Maria Auxiliadora gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.01996,
+                        11.000518
+                  ]
+            },
+            {
+                  "name": "Escuela Maria Auxiliadora Zabala De Millan",
+                  "text": "Ein kombiniertes Schul- und Kirchengebäude in einer lokalen Gemeinde der Insel.",
+                  "category": "religious",
+                  "coords": [
+                        -63.975876,
+                        10.991048
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Die historische Hauptkirche des Ortes im fruchtbaren Tal von San Juan.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.943258,
+                        11.011994
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "Eine kleine Kapelle im Zentrum von San Juan, die für lokale religiöse Feste genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.942799,
+                        11.013434
+                  ]
+            },
+            {
+                  "name": "iglesia San Jose",
+                  "text": "Eine katholische Kirche in einem Wohnviertel, die dem Heiligen Josef geweiht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.941714,
+                        11.068768
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Evangelista",
+                  "text": "Eine markante Kirche in Juan Griego, die sich unweit der Meeresküste befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.970851,
+                        11.080114
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra. De Los Ángeles",
+                  "text": "Eine lokale Kirche, die nach Unserer Lieben Frau von den Engeln benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.958089,
+                        11.061955
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescadores de Juan Griego",
+                  "text": "Ein lebhafter Markt in Juan Griego, auf dem frischer Fisch direkt von den Booten verkauft wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.972226,
+                        11.084245
+                  ]
+            },
+            {
+                  "name": "Centro Artesanal de Juan Griego",
+                  "text": "Ein Marktplatz für lokales Kunsthandwerk der Insel Margarita, ideal für Souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.966402,
+                        11.081194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa La Guardia",
+                  "text": "Hatalmas strand az északi földszoroson, amely erős szeléről és nagy hullámairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.021806,
+                        11.000606
+                  ]
+            },
+            {
+                  "name": "Playa Puntofino",
+                  "text": "Csendes tengerparti szakasz, ahonnan kilátás nyílik a sziget környező száraz trópusi dombjaira.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.020547,
+                        11.002777
+                  ]
+            },
+            {
+                  "name": "Cerro Guaraguao",
+                  "text": "Parti hegycsúcs, amely stratégiai kilátópontot kínál Porlamar városára és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        -63.948927,
+                        10.987074
+                  ]
+            },
+            {
+                  "name": "Cerro Las Minas",
+                  "text": "Ez a csúcs a Margarita-szigeti Macanao-félsziget legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -63.937769,
+                        10.992297
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Bolivar",
+                  "text": "Helyi kulturális központ Juan Griego történelmi kikötővárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.941752,
+                        11.048782
+                  ]
+            },
+            {
+                  "name": "Mirador la Galera",
+                  "text": "Kilátópont a Juan Griego-öböl felett, amely festői naplementéiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -63.977483,
+                        11.087103
+                  ]
+            },
+            {
+                  "name": "Teatro Simón Bolívar",
+                  "text": "Modern színház Juan Griego központjában, amely kulturális találkozóhelyként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.964691,
+                        11.080032
+                  ]
+            },
+            {
+                  "name": "Playa La Pared",
+                  "text": "Eldugott strand Macanao északi partján, amely vöröses szikláiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.071088,
+                        10.972767
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura San Juan Bautista",
+                  "text": "Hagyományos kultúrház San Juan Bautista mezőgazdasági jellegű belsejében.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.945788,
+                        11.014304
+                  ]
+            },
+            {
+                  "name": "Playa Juan Griego",
+                  "text": "Városi strand Juan Griegóban, ahol színes halászcsónakok horgonyoznak a sekély vízben.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.97287,
+                        11.083151
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Francisco Lárez Granado",
+                  "text": "Modern épület Juan Griegóban, amely művészeti kiállításoknak és helyi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.968719,
+                        11.083068
+                  ]
+            },
+            {
+                  "name": "Playa Taguantar",
+                  "text": "Vad tengerparti szakasz erős hullámzással a sziget északnyugati oldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.989988,
+                        11.070061
+                  ]
+            },
+            {
+                  "name": "Playa Maria Libre",
+                  "text": "Csendes, kevésbé látogatott homokos strand a Juan Griego-öböltől északra.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.012318,
+                        11.063995
+                  ]
+            },
+            {
+                  "name": "Museo Pueblos de Margarita",
+                  "text": "Szabadtéri múzeum, amely a szigetlakók hagyományos építészetét és falusi életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -64.006539,
+                        11.065349
+                  ]
+            },
+            {
+                  "name": "Playa Guiriguire",
+                  "text": "Kis halászstrand az északi parton, amely nyugodt légkört kínál a turizmustól távol.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.007521,
+                        11.0669
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová.",
+                  "text": "Jehova Tanúi modern királyságterme a sziget egyik lakónegyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.925554,
+                        10.957419
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa de Lima y Casa Parroquial",
+                  "text": "Katolikus plébániatemplom a szomszédos rezidenciával Villa Rosa településen.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.926463,
+                        10.951129
+                  ]
+            },
+            {
+                  "name": "Capilla María Auxiliadora",
+                  "text": "Kicsi környékbeli kápolna, amelyet Segítő Szűz Máriának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.01996,
+                        11.000518
+                  ]
+            },
+            {
+                  "name": "Escuela Maria Auxiliadora Zabala De Millan",
+                  "text": "Kombinált iskolai és egyházi épület a sziget egyik helyi közösségében.",
+                  "category": "religious",
+                  "coords": [
+                        -63.975876,
+                        10.991048
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "A település történelmi főtemploma San Juan termékeny völgyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.943258,
+                        11.011994
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "Kis kápolna San Juan központjában, amelyet helyi vallási ünnepekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.942799,
+                        11.013434
+                  ]
+            },
+            {
+                  "name": "iglesia San Jose",
+                  "text": "Szent Józsefnek szentelt katolikus templom egy lakónegyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.941714,
+                        11.068768
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Evangelista",
+                  "text": "Jellegzetes templom Juan Griegóban, amely nem messze a tengerparttól található.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.970851,
+                        11.080114
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra. De Los Ángeles",
+                  "text": "Helyi templom, amelyet Angyalos Boldogasszonyról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.958089,
+                        11.061955
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescadores de Juan Griego",
+                  "text": "Nyüzsgő piac Juan Griegóban, ahol friss halat árulnak közvetlenül a csónakokról.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.972226,
+                        11.084245
+                  ]
+            },
+            {
+                  "name": "Centro Artesanal de Juan Griego",
+                  "text": "Margarita-szigeti helyi kézműves termékek piaca, amely ideális szuvenírek vásárlására.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.966402,
+                        11.081194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa La Guardia",
+                  "text": "O plajă vastă pe istmul nordic, cunoscută pentru vânturile sale puternice și valurile mari.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.021806,
+                        11.000606
+                  ]
+            },
+            {
+                  "name": "Playa Puntofino",
+                  "text": "O fâșie de coastă liniștită, cu vedere la dealurile tropicale uscate din jurul insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.020547,
+                        11.002777
+                  ]
+            },
+            {
+                  "name": "Cerro Guaraguao",
+                  "text": "Un vârf de coastă care oferă un punct de observație strategic asupra orașului Porlamar și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        -63.948927,
+                        10.987074
+                  ]
+            },
+            {
+                  "name": "Cerro Las Minas",
+                  "text": "Acest vârf este cel mai înalt punct de pe Peninsula Macanao din Insula Margarita.",
+                  "category": "natural",
+                  "coords": [
+                        -63.937769,
+                        10.992297
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Bolivar",
+                  "text": "Un centru cultural local situat în orașul portuar istoric Juan Griego.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.941752,
+                        11.048782
+                  ]
+            },
+            {
+                  "name": "Mirador la Galera",
+                  "text": "Un punct de observație deasupra golfului Juan Griego, renumit pentru apusurile sale pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -63.977483,
+                        11.087103
+                  ]
+            },
+            {
+                  "name": "Teatro Simón Bolívar",
+                  "text": "Un teatru modern în centrul orașului Juan Griego, care servește drept punct de întâlnire cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.964691,
+                        11.080032
+                  ]
+            },
+            {
+                  "name": "Playa La Pared",
+                  "text": "O plajă izolată pe coasta de nord a peninsulei Macanao, cunoscută pentru stâncile sale roșiatice.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.071088,
+                        10.972767
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura San Juan Bautista",
+                  "text": "O casă de cultură tradițională în interiorul agricol al insulei, lângă San Juan Bautista.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.945788,
+                        11.014304
+                  ]
+            },
+            {
+                  "name": "Playa Juan Griego",
+                  "text": "O plajă urbană în Juan Griego, unde bărci de pescuit colorate stau în apele puțin adânci.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.97287,
+                        11.083151
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Francisco Lárez Granado",
+                  "text": "O clădire modernă în Juan Griego, care găzduiește expoziții de artă și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.968719,
+                        11.083068
+                  ]
+            },
+            {
+                  "name": "Playa Taguantar",
+                  "text": "O porțiune de coastă sălbatică, cu valuri puternice, pe partea de nord-vest a insulei.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.989988,
+                        11.070061
+                  ]
+            },
+            {
+                  "name": "Playa Maria Libre",
+                  "text": "O plajă de nisip liniștită și mai puțin frecventată, la nord de golful Juan Griego.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.012318,
+                        11.063995
+                  ]
+            },
+            {
+                  "name": "Museo Pueblos de Margarita",
+                  "text": "Un muzeu în aer liber care recreează arhitectura tradițională și viața satului insularilor.",
+                  "category": "museum",
+                  "coords": [
+                        -64.006539,
+                        11.065349
+                  ]
+            },
+            {
+                  "name": "Playa Guiriguire",
+                  "text": "O mică plajă de pescari pe coasta de nord, oferind o atmosferă liniștită departe de turism.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.007521,
+                        11.0669
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová.",
+                  "text": "O sală modernă a Regatului Martorilor lui Iehova într-un cartier rezidențial al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.925554,
+                        10.957419
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa de Lima y Casa Parroquial",
+                  "text": "O biserică parohială catolică cu o reședință adiacentă în localitatea Villa Rosa.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.926463,
+                        10.951129
+                  ]
+            },
+            {
+                  "name": "Capilla María Auxiliadora",
+                  "text": "O mică chapelă de cartier dedicată Fecioarei Maria Auxiliadora.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.01996,
+                        11.000518
+                  ]
+            },
+            {
+                  "name": "Escuela Maria Auxiliadora Zabala De Millan",
+                  "text": "O clădire combinată de școală și biserică într-o comunitate locală de pe insulă.",
+                  "category": "religious",
+                  "coords": [
+                        -63.975876,
+                        10.991048
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "Biserica istorică principală a localității în valea fertilă din San Juan.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.943258,
+                        11.011994
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "O mică capelă în centrul orașului San Juan, folosită pentru sărbători religioase locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.942799,
+                        11.013434
+                  ]
+            },
+            {
+                  "name": "iglesia San Jose",
+                  "text": "O biserică catolică într-un cartier rezidențial, dedicată Sfântului Iosif.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.941714,
+                        11.068768
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Evangelista",
+                  "text": "O biserică proeminentă în Juan Griego, situată nu departe de malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.970851,
+                        11.080114
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra. De Los Ángeles",
+                  "text": "O biserică locală numită după Maica Domnului a Îngerilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.958089,
+                        11.061955
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescadores de Juan Griego",
+                  "text": "O piață plină de viață în Juan Griego, unde se vinde pește proaspăt direct de pe bărci.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.972226,
+                        11.084245
+                  ]
+            },
+            {
+                  "name": "Centro Artesanal de Juan Griego",
+                  "text": "O piață de meșteșuguri locale din Insula Margarita, ideală pentru suveniruri.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.966402,
+                        11.081194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa La Guardia",
+                  "text": "A vast beach on the northern isthmus known for its strong winds and high waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.021806,
+                        11.000606
+                  ]
+            },
+            {
+                  "name": "Playa Puntofino",
+                  "text": "A quiet coastal stretch offering views of the surrounding dry tropical hills of the island.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.020547,
+                        11.002777
+                  ]
+            },
+            {
+                  "name": "Cerro Guaraguao",
+                  "text": "A coastal peak offering a strategic vantage point over the city of Porlamar and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -63.948927,
+                        10.987074
+                  ]
+            },
+            {
+                  "name": "Cerro Las Minas",
+                  "text": "This peak is the highest point of the Macanao Peninsula on Margarita Island.",
+                  "category": "natural",
+                  "coords": [
+                        -63.937769,
+                        10.992297
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Bolivar",
+                  "text": "A local cultural center located in the historic port town of Juan Griego.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.941752,
+                        11.048782
+                  ]
+            },
+            {
+                  "name": "Mirador la Galera",
+                  "text": "A viewpoint overlooking Juan Griego bay, famous for its picturesque sunsets.",
+                  "category": "natural",
+                  "coords": [
+                        -63.977483,
+                        11.087103
+                  ]
+            },
+            {
+                  "name": "Teatro Simón Bolívar",
+                  "text": "A modern theatre in the center of Juan Griego, serving as a cultural meeting point.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.964691,
+                        11.080032
+                  ]
+            },
+            {
+                  "name": "Playa La Pared",
+                  "text": "A secluded beach on the northern coast of Macanao, known for its reddish cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.071088,
+                        10.972767
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura San Juan Bautista",
+                  "text": "A traditional cultural house in the agricultural interior near San Juan Bautista.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.945788,
+                        11.014304
+                  ]
+            },
+            {
+                  "name": "Playa Juan Griego",
+                  "text": "An urban beach in Juan Griego where colorful fishing boats sit in the shallow waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.97287,
+                        11.083151
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Francisco Lárez Granado",
+                  "text": "A modern building in Juan Griego hosting art exhibitions and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.968719,
+                        11.083068
+                  ]
+            },
+            {
+                  "name": "Playa Taguantar",
+                  "text": "A wild coastal stretch with rough waves on the northwest side of the island.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.989988,
+                        11.070061
+                  ]
+            },
+            {
+                  "name": "Playa Maria Libre",
+                  "text": "A quiet, less-visited sandy beach north of Juan Griego bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.012318,
+                        11.063995
+                  ]
+            },
+            {
+                  "name": "Museo Pueblos de Margarita",
+                  "text": "An open-air museum recreating traditional architecture and village life of the islanders.",
+                  "category": "museum",
+                  "coords": [
+                        -64.006539,
+                        11.065349
+                  ]
+            },
+            {
+                  "name": "Playa Guiriguire",
+                  "text": "A small fishing beach on the north coast offering a quiet atmosphere away from tourism.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.007521,
+                        11.0669
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová.",
+                  "text": "A modern Kingdom Hall of Jehovah's Witnesses in a residential neighborhood of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.925554,
+                        10.957419
+                  ]
+            },
+            {
+                  "name": "Iglesia Santa Rosa de Lima y Casa Parroquial",
+                  "text": "A Catholic parish church with an adjacent residence in the Villa Rosa settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.926463,
+                        10.951129
+                  ]
+            },
+            {
+                  "name": "Capilla María Auxiliadora",
+                  "text": "A small neighborhood chapel dedicated to Mary Help of Christians.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.01996,
+                        11.000518
+                  ]
+            },
+            {
+                  "name": "Escuela Maria Auxiliadora Zabala De Millan",
+                  "text": "A combined school and church building in a local community on the island.",
+                  "category": "religious",
+                  "coords": [
+                        -63.975876,
+                        10.991048
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Bautista",
+                  "text": "The historic main church of the town in the fertile valley of San Juan.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.943258,
+                        11.011994
+                  ]
+            },
+            {
+                  "name": "Capilla San Juan Bautista",
+                  "text": "A small chapel in the center of San Juan used for local religious festivities.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.942799,
+                        11.013434
+                  ]
+            },
+            {
+                  "name": "iglesia San Jose",
+                  "text": "A Catholic church in a residential neighborhood dedicated to Saint Joseph.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.941714,
+                        11.068768
+                  ]
+            },
+            {
+                  "name": "Iglesia San Juan Evangelista",
+                  "text": "A prominent church in Juan Griego located not far from the sea coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.970851,
+                        11.080114
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Sra. De Los Ángeles",
+                  "text": "A local church named after Our Lady of the Angels.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.958089,
+                        11.061955
+                  ]
+            },
+            {
+                  "name": "Mercado de Pescadores de Juan Griego",
+                  "text": "A bustling market in Juan Griego where fresh fish is sold directly from the boats.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.972226,
+                        11.084245
+                  ]
+            },
+            {
+                  "name": "Centro Artesanal de Juan Griego",
+                  "text": "A marketplace for local Margarita Island handicrafts, ideal for souvenirs.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.966402,
+                        11.081194
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "island",
     name: { de: "Isla Margarita", hu: "Margarita-sziget", ro: "Isla Margarita", en: "Isla Margarita" },
@@ -543,7 +1983,124 @@ export const venezuelaNatureV2: POI[] = [
     image: "/poi-images/venezuela-pico-bonpland-nature-v2.webp",
   },
   {
-    id: "venezuela-pico-espejo-nature-v2",
+    id: "venezuela-pico-espejo-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Espejo",
+                  "text": "Der Gipfel ist berühmt als Endstation der Mukumbarí-Seilbahn, der höchsten der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.053636,
+                        8.531283
+                  ]
+            },
+            {
+                  "name": "Pico El Toro",
+                  "text": "Dieser markante Andengipfel ist über das Seilbahnsystem von Mérida erreichbar.",
+                  "category": "natural",
+                  "coords": [
+                        -71.090802,
+                        8.529003
+                  ]
+            },
+            {
+                  "name": "Pico El León",
+                  "text": "Ein zerklüfteter Gipfel im Nationalpark Sierra Nevada, der weite Ausblicke über das Hochland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -71.101783,
+                        8.510732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Espejo",
+                  "text": "A csúcs a világ legmagasabb felvonója, a Mukumbarí-kötélpálya végállomásaként híres.",
+                  "category": "natural",
+                  "coords": [
+                        -71.053636,
+                        8.531283
+                  ]
+            },
+            {
+                  "name": "Pico El Toro",
+                  "text": "Ez a jellegzetes andoki csúcs a méridai felvonórendszeren keresztül érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        -71.090802,
+                        8.529003
+                  ]
+            },
+            {
+                  "name": "Pico El León",
+                  "text": "A Sierra Nevada Nemzeti Park egyenetlen csúcsa, amely tágas kilátást nyújt a felföldre.",
+                  "category": "natural",
+                  "coords": [
+                        -71.101783,
+                        8.510732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Espejo",
+                  "text": "Vârful este faimos ca stație terminală a telecabinei Mukumbarí, cea mai înaltă din lume.",
+                  "category": "natural",
+                  "coords": [
+                        -71.053636,
+                        8.531283
+                  ]
+            },
+            {
+                  "name": "Pico El Toro",
+                  "text": "Acest vârf andin proeminent este accesibil prin sistemul de telecabină din Mérida.",
+                  "category": "natural",
+                  "coords": [
+                        -71.090802,
+                        8.529003
+                  ]
+            },
+            {
+                  "name": "Pico El León",
+                  "text": "Un vârf accidentat din parcul național Sierra Nevada, oferind vederi largi asupra zonelor înalte.",
+                  "category": "natural",
+                  "coords": [
+                        -71.101783,
+                        8.510732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Espejo",
+                  "text": "The peak is famous as the terminal station of the Mukumbarí cable car, the highest in the world.",
+                  "category": "natural",
+                  "coords": [
+                        -71.053636,
+                        8.531283
+                  ]
+            },
+            {
+                  "name": "Pico El Toro",
+                  "text": "This prominent Andean peak is accessible via the Mérida cable car system.",
+                  "category": "natural",
+                  "coords": [
+                        -71.090802,
+                        8.529003
+                  ]
+            },
+            {
+                  "name": "Pico El León",
+                  "text": "A rugged peak in the Sierra Nevada national park, offering wide views over the highlands.",
+                  "category": "natural",
+                  "coords": [
+                        -71.101783,
+                        8.510732
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico Espejo", hu: "Pico Espejo", ro: "Pico Espejo", en: "Pico Espejo" },
@@ -588,7 +2145,196 @@ export const venezuelaNatureV2: POI[] = [
     image: "/poi-images/venezuela-pico-espejo-nature-v2.webp",
   },
   {
-    id: "venezuela-parque-el-tamá-nature-v2",
+    id: "venezuela-parque-el-tamá-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Espuma",
+                  "text": "Ein markanter Berggipfel im Nationalpark El Tamá, der anspruchsvolle Wanderrouten durch die andinen Nebelwälder bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -72.175191,
+                        7.560998
+                  ]
+            },
+            {
+                  "name": "Cerro La Campana",
+                  "text": "Ein malerischer Andengipfel im Nationalpark El Tamá, bekannt für seine markante Form und reiche Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.149505,
+                        7.565098
+                  ]
+            },
+            {
+                  "name": "Cerro Buenos Aires",
+                  "text": "Ein hoher Gipfel im Berg-Ökosystem von El Tamá, umgeben von der einzigartigen Páramo-Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -72.162657,
+                        7.53252
+                  ]
+            },
+            {
+                  "name": "Serranía Vargas",
+                  "text": "Ein rauer Bergrücken im Nationalpark El Tamá, der einen Teil der dramatischen Topographie der Region prägt.",
+                  "category": "natural",
+                  "coords": [
+                        -72.239346,
+                        7.508785
+                  ]
+            },
+            {
+                  "name": "Pico Camello",
+                  "text": "Ein hoher Berggipfel im Nationalpark El Tamá, benannt nach seiner Silhouette, die an einen Kamelhöcker erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -72.166791,
+                        7.45021
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Espuma",
+                  "text": "Kiemelkedő hegycsúcs az El Tamá Nemzeti Parkban, amely zord túraútvonalakat kínál az andoki köderdőkön keresztül.",
+                  "category": "natural",
+                  "coords": [
+                        -72.175191,
+                        7.560998
+                  ]
+            },
+            {
+                  "name": "Cerro La Campana",
+                  "text": "Látványos andoki csúcs az El Tamá Nemzeti Parkban, amely jellegzetes alakjáról és gazdag biodiverzitásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -72.149505,
+                        7.565098
+                  ]
+            },
+            {
+                  "name": "Cerro Buenos Aires",
+                  "text": "Magas hegycsúcs az El Tamá hegyi ökoszisztémájában, amelyet egyedülálló paramo növényzet vesz körül.",
+                  "category": "natural",
+                  "coords": [
+                        -72.162657,
+                        7.53252
+                  ]
+            },
+            {
+                  "name": "Serranía Vargas",
+                  "text": "Zord hegygerinc az El Tamá Nemzeti Parkban, amely a régió drámai domborzatának egy részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -72.239346,
+                        7.508785
+                  ]
+            },
+            {
+                  "name": "Pico Camello",
+                  "text": "Magas hegycsúcs az El Tamá Nemzeti Parkban, amely a teve púpjára emlékeztető sziluettjéről kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -72.166791,
+                        7.45021
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Espuma",
+                  "text": "Un vârf montan proeminent din Parcul Național El Tamá, care oferă trasee de drumeții prin pădurile de ceață andine.",
+                  "category": "natural",
+                  "coords": [
+                        -72.175191,
+                        7.560998
+                  ]
+            },
+            {
+                  "name": "Cerro La Campana",
+                  "text": "Un vârf andin pitoresc din Parcul Național El Tamá, cunoscut pentru forma sa distinctă și biodiversitatea bogată.",
+                  "category": "natural",
+                  "coords": [
+                        -72.149505,
+                        7.565098
+                  ]
+            },
+            {
+                  "name": "Cerro Buenos Aires",
+                  "text": "Un vârf înalt din ecosistemul montan El Tamá, înconjurat de o vegetație unică de paramo.",
+                  "category": "natural",
+                  "coords": [
+                        -72.162657,
+                        7.53252
+                  ]
+            },
+            {
+                  "name": "Serranía Vargas",
+                  "text": "O creastă montană accidentată din Parcul Național El Tamá, care definește o parte din topografia dramatică a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -72.239346,
+                        7.508785
+                  ]
+            },
+            {
+                  "name": "Pico Camello",
+                  "text": "Un vârf montan înalt din Parcul Național El Tamá, numit după silueta sa care amintește de cocoașa unei cămile.",
+                  "category": "natural",
+                  "coords": [
+                        -72.166791,
+                        7.45021
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Espuma",
+                  "text": "A prominent mountain peak in El Tamá National Park, offering rugged hiking routes through Andean cloud forests.",
+                  "category": "natural",
+                  "coords": [
+                        -72.175191,
+                        7.560998
+                  ]
+            },
+            {
+                  "name": "Cerro La Campana",
+                  "text": "A scenic Andean peak in El Tamá National Park, known for its distinct shape and rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -72.149505,
+                        7.565098
+                  ]
+            },
+            {
+                  "name": "Cerro Buenos Aires",
+                  "text": "An elevated peak within the El Tamá mountain ecosystem, surrounded by unique paramo vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -72.162657,
+                        7.53252
+                  ]
+            },
+            {
+                  "name": "Serranía Vargas",
+                  "text": "A rugged mountain ridge inside El Tamá National Park, defining part of the region's dramatic topography.",
+                  "category": "natural",
+                  "coords": [
+                        -72.239346,
+                        7.508785
+                  ]
+            },
+            {
+                  "name": "Pico Camello",
+                  "text": "A high mountain peak in El Tamá National Park, named for its silhouette resembling a camel's hump.",
+                  "category": "natural",
+                  "coords": [
+                        -72.166791,
+                        7.45021
+                  ]
+            }
+      ]
+},
     type: "park",
     name: { de: "El Tamá Nationalpark", hu: "El Tamá Nemzeti Park", ro: "Parcul Național El Tamá", en: "El Tamá National Park" },
     coords: [-72.2, 7.5],
@@ -722,7 +2468,52 @@ export const venezuelaNatureV2: POI[] = [
     image: "/poi-images/venezuela-rio-apure-nature-v2.webp",
   },
   {
-    id: "venezuela-pico-toro-nature-v2",
+    id: "venezuela-pico-toro-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pico Bolívar",
+                  "text": "Der höchste Berg Venezuelas ist für seine markanten, ganzjährig schneebedeckten Hänge bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.048271,
+                        8.541137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pico Bolívar",
+                  "text": "Venezuela legmagasabb hegye jellegzetes, egész évben hóval borított lejtőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.048271,
+                        8.541137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pico Bolívar",
+                  "text": "Cel mai înalt munte din Venezuela este cunoscut pentru versanții săi acoperiți de zăpadă tot anul.",
+                  "category": "natural",
+                  "coords": [
+                        -71.048271,
+                        8.541137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pico Bolívar",
+                  "text": "The highest mountain in Venezuela is known for its distinctive, year-round snow-capped slopes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.048271,
+                        8.541137
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico Toro", hu: "Pico Toro", ro: "Pico Toro", en: "Pico Toro" },
@@ -857,7 +2648,52 @@ export const venezuelaNatureV2: POI[] = [
     image: "/poi-images/venezuela-rio-caura-nature-v2.webp",
   },
   {
-    id: "venezuela-pico-muertos-nature-v2",
+    id: "venezuela-pico-muertos-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Campana",
+                  "text": "Ein steiler Gipfel in der unberührten Naturlandschaft der Region Pico Muertos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.924409,
+                        8.535949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Campana",
+                  "text": "Meredek hegycsúcs a Pico Muertos régió érintetlen természeti táján.",
+                  "category": "natural",
+                  "coords": [
+                        -70.924409,
+                        8.535949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Campana",
+                  "text": "Un vârf abrupt în peisajul natural virgin din regiunea Pico Muertos.",
+                  "category": "natural",
+                  "coords": [
+                        -70.924409,
+                        8.535949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Campana",
+                  "text": "A steep peak set within the untouched natural landscape of the Pico Muertos region.",
+                  "category": "natural",
+                  "coords": [
+                        -70.924409,
+                        8.535949
+                  ]
+            }
+      ]
+},
     parent: "VE",
     type: "peak",
     name: { de: "Pico Muertos", hu: "Pico Muertos", ro: "Pico Muertos", en: "Pico Muertos" },
